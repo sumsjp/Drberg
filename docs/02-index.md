@@ -65,113 +65,548 @@
 </details>
 
 <details>
-<summary>294. The Gallbladder & Right Shoulder Pain (Part-2) – Dr. Berg</summary><br>
+<summary>294. [2015-08-25] The Gallbladder & Right Shoulder Pain (Part-2) – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=dQ6kPz7FDYY" target="_blank">
     <img src="https://img.youtube.com/vi/dQ6kPz7FDYY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納與整理
 
+#### 1. 核心主題： gallbladder的功能及其相關健康問題
+- **核心主題**：本文主要探討膽囊的功能、相關健康問題（如膽汁缺乏或阻塞引起的疼痛），以及這些問題如何影響全身，特別是通過神經反射引起的遠端疼痛。
+
+#### 2. 主要觀念：膽囊與 bile 的功能
+- 胆囊的主要功能是存儲和濃縮膽汁，並在進食後將膽汁釋放到腸道中以助脂肪消化。
+- 胆汁（bile）是一種重要的消化液，有助於提取食物中的營養成分。
+
+#### 3. 啟發的原因： gallbladder 疾病的常見問題
+- **缺乏膽汁或膽囊阻塞**：這會導致.midsection周圍的疼痛。
+- **REFERRED PAIN**: 胆囊問題可能通過神經反射引起遠端器官（如肩膀、脖子、牙齒等）的疼痛。
+
+#### 4. 解決方法：膽囊問題的處理方式
+- **避免手術**：作者強調應該首先嘗試非手術治療。
+- **飲食調整**：增加蔬菜攝取，適當攝入健康脂肪，避免低脂飲食以防止膽汁分泌不足。
+
+#### 5. 健康建議：
+- **飲食建議**：
+  - 多攝取蔬菜和新鮮蔬果。
+  - 適當攝入健康脂肪（如橄欖油、堅果等）以促進膽汁釋放。
+  - 避免低脂飲食，以免影響膽囊功能。
+- **姿勢建議**：
+  - 睡覺時避免壓迫肝臟和膽囊，可選擇右側或左側臥睡。
+- **按摩與壓力 relief**：
+  - 輕柔地按壓膽囊區域以檢查是否緩解疼痛。
+  - 避免持續按摩緊張肌肉，因問題源頭在胆囊。
+
+#### 6. 結論：膽囊健康的重要性
+- 胆囊健康直接影響整體消化和全身健康。
+- 早期認識和治療膽囊相關問題可以避免更嚴重的並發症。
+- 推廣健康飲食和姿勢管理是維持膽囊功能的重要手段。
+
+### 文章錯誤與修正：
+1. **提及的手腕疼痛與膽囊之間的關聯**：文中提到手部問題可能與膽囊有關，但缺乏科學證據支持此點。建議刪除此部分或加入更多研究數據以支撐此觀點。
+2. **按摩肌肉與膽囊問題的因果關係**：文中有意混淆了局部肌肉緊張和膽囊疾病的直接關聯。應更加客觀地描述，避免過度推斷。
+
+### 總結：
+本文雖然介紹了一些關於膽囊功能和相關健康問題的基本概念，但在某些部分存在不科學或過於籠統的表達。建議在未來的研究中加入更多證據支持的數據，以提高文章的可信度和學術價值。
 </details>
 
 <details>
-<summary>293. Gallbladder & Bloating Connection (Part 1) – Dr.Berg [Bloated Stomach & Gallbladder Function]</summary><br>
+<summary>293. [2015-08-25] Gallbladder & Bloating Connection (Part 1) – Dr.Berg [Bloated Stomach & Gallbladder Function]</summary><br>
 
 <a href="https://www.youtube.com/watch?v=cTT-y7FtUD4" target="_blank">
     <img src="https://img.youtube.com/vi/cTT-y7FtUD4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+## 文章重點整理
 
+### 小節一：核心主題 - 膽囊的重要性
+- 胆囊是人体中一个至关重要的器官，负责储存和释放胆汁。
+- 胆汁在消化过程中起着关键作用，帮助分解脂肪、吸收脂溶性维生素（A、D、E、K1、K2）以及胆固醇。
+
+### 小節二：主要觀念 - 胆汁的功能
+- **膽汁的作用**：
+  - 分解食物中的脂肪，使其转化为小脂肪颗粒（如必需脂肪酸）。
+  - 促进脂溶性维生素的吸收。
+  - 帮助分解胆固醇以预防结石形成。
+
+### 小節三：問題原因 - 胆囊疾病的成因
+- **膽石症**：
+  - 约70万人每年接受胆囊切除手术，通常由于结石或疼痛导致。
+  - 根本原因未被深入探究，可能与胆汁分泌不足有关。
+
+### 小節四：解決方法 - 自然療法
+- **補充純化的膽鹽**：
+  - 胆盐有助于分解胆石，是一种有效的自然疗法。
+  - 建议在医生指导下进行。
+
+### 小節五：健康建議 - 避免低膽汁症狀
+- **低膽汁症狀**：
+  - 上腹部脹氣、嗝逆、便秘等。
+  - 可能由素食飲食（缺乏動物性脂肪）引起。
+- **飲食建議**：
+  - 摂取易於消化的脂肪，如 butter 和椰子油中的中CHAIN甘油三酯（MCTs）。
+  - 減少過量攝取高脂肪和蛋白質食物，以免加重肝臟負擔。
+- **增加膳食纤维和苦味蔬菜**：
+  - 如羽衣甘蓝、甜菜葉、芥菜等，促進消化系統健康。
+
+### 小節六：結論
+- 胆囊在人體健康中扮演重要角色，其功能影響營養吸收和整體健康。
+- 頻繁的膽囊切除手術提示我們應該重視膽汁健康管理。
+- 通過飲食調整和自然療法，可以有效預防和改善膽囊相關問題。
 </details>
 
 <details>
-<summary>292. Four Years of Heartburn & Acid Reflux Suffering</summary><br>
+<summary>292. [2015-08-25] Four Years of Heartburn & Acid Reflux Suffering</summary><br>
 
 <a href="https://www.youtube.com/watch?v=6hgkT1M-jk4" target="_blank">
     <img src="https://img.youtube.com/vi/6hgkT1M-jk4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+---
+
+#### 1. 核心主題  
+- **酸缺乏症**：文章圍繞 acid reflux（ acid reflux）及其與胃酸不足的關聯展開討論，強調酸缺乏是導致此問題的主要原因。  
+- **自然療法**：提出使用藥用醋、Bain Hydrochloride 等方法來補充胃酸，改善消化系統功能。
+
+---
+
+#### 2. 主要觀念  
+- **傳統 misconception**：一般認為 acid reflux 是因胃酸過多引起，但事實上是胃酸不足導致食道下端鬆弛。  
+- **酸的重要性**：酸在消化過程中起著至關重要的作用，缺乏 Acid 可能引發多種健康問題。  
+
+---
+
+#### 3. 問題原因  
+- **胃酸不足**：胃 acid 分泌不足導致食道 sphincter 松弛，食物反流進入食道，造成不適。  
+- **生活方式因素**：長期食用低脂、低鹽飲食可能影響胃 acid 的正常分泌。  
+
+---
+
+#### 4. 解决方法  
+1. **補充胃酸**：  
+   - 使用 **Apple cider vinegar**（藥用醋）稀釋後飲用。  
+   - 服用 **Bain Hydrochloride** 與食物一起，以避免刺激胃黏膜。  
+
+2. **食療**：  
+   - 增加脂肪攝取量，促進胃酸分泌。建議食用健康的脂肪來源，如牛油、橄榄油等。  
+   - 遊牧野生大米和紅薯等高碳水化合物食物以增重。  
+
+3. ** ulcer 費療**：  
+   - 在開始補充胃酸之前，先使用 **chlorophyll pearls** 修復胃黏膜，避免進一步損傷。  
+
+---
+
+#### 5. 健康建議  
+- **飲食調整**：  
+   - 增加動物性臟器（如肝臟）的攝取，富含維生素 A 和其他營養素。  
+   - 遊牧野生大米和紅薯等高碳水化合物食物以增重。  
+
+- **生活習慣**：  
+   - 避免低脂飲食，保持均衡的脂肪攝取。  
+   - 減少加工食品和糖分攝入，優先選擇天然、無添加的食材。  
+
+---
+
+#### 6. 結論  
+- **自然療法的有效性**：文章強調使用藥用醋、Bain Hydrochloride 和氯化物等方法可以有效改善 acid reflux 和胃酸不足問題。  
+- **未來展望**：建議讀者按照提供的食譜和療法執行，並定期反饋治療效果，以進一步優化健康計劃。  
+
+--- 
+
+此整理涵蓋了文章的核心主題、主要觀念、問題原因、解決方法、健康建議及結論，並使用正式的學術用語進行表達。
 </details>
 
 <details>
-<summary>291. Dr. Berg's Upcoming Health Webinar Series</summary><br>
+<summary>291. [2015-08-22] Dr. Berg's Upcoming Health Webinar Series</summary><br>
 
 <a href="https://www.youtube.com/watch?v=NrXpy5me18g" target="_blank">
     <img src="https://img.youtube.com/vi/NrXpy5me18g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Key Points Summary
 
+#### Core Theme: Root Cause Analysis in Health and Wellness
+- The webinar series focuses on understanding the underlying causes of health issues rather than merely managing symptoms.
+- Topics include nutrient absorption, midsection fat reduction, anti-aging, and energy optimization.
+
+#### Major Concepts:
+1. **Cause-and-Effect Relationships**:
+   - Symptoms are indicators of deeper issues; they are not the root problem.
+   - The series aims to uncover these underlying causes.
+2. **False Information in Health Claims**:
+   - Much of the information available online is biased or incorrect, particularly from drug companies.
+3. **Holistic Approach to Health**:
+   - Emphasizes creating a healthy body through correct knowledge and evidence-based practices.
+
+#### Problem Analysis:
+- The current healthcare system often focuses on symptom management rather than addressing root causes.
+- Misleading health information can lead to ineffective strategies for improving health.
+
+#### Solutions and Recommendations:
+1. **Educational Webinars**:
+   - A series of 30-minute webinars (may extend due to Q&A) covering root cause analysis.
+2. **Critical Evaluation of Information**:
+   - Encourages participants to critically assess the validity of health information, especially online sources.
+3. **Proactive Health Management**:
+   - Empowers individuals with knowledge to take control of their health and avoid reliance on symptom management.
+
+#### Health Recommendations:
+- Prioritize understanding the root causes of health issues over merely treating symptoms.
+- Engage in evidence-based practices for improving nutrient absorption, reducing midsection fat, anti-aging, and enhancing energy levels.
+
+#### Conclusion:
+- The webinar series is designed to provide free access to essential knowledge but will be收费 for recorded content later.
+- Participation is encouraged to gain insights into creating a healthy body through accurate information and root cause analysis.
 </details>
 
 <details>
-<summary>290. No Sugar Almond Fudge Recipe by Dr. Berg</summary><br>
+<summary>290. [2015-08-16] No Sugar Almond Fudge Recipe by Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=VV9i1yJ1afk" target="_blank">
     <img src="https://img.youtube.com/vi/VV9i1yJ1afk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **高營養、高蛋白質的零食製作**：文章介紹了一種簡單且富含營養的零食——杏仁ffee（Almond Fudge）的製作方法，強調其高蛋白質和低糖特性。
 
+### 主要觀念
+1. **食譜基於Instant Kale Shake**：
+   - 本食譜以Dr. Berg的新產品Instant Kale Shake為基礎。
+   - 舊版本的Instant Kale Shake含6克蛋白質，而新版本含20克蛋白質，且份量加倍。
+
+2. **主要成分及健康特性**：
+   - **杏仁 butter**：作為主要原料，提供高質量蛋白質和健康脂肪。
+   - **椰子油**：用於增加食譜的 creaminess，並提供中鏈脂肪酸。
+   - **甜味劑**：使用Lily's品牌的甜菊糖醇巧克力芯片，不含添加糖。
+
+3. **製作步驟**：
+   - 混合杏仁 butter、Instant Kale Shake、椰子油、海鹽、香草提取物和甜菊糖醇巧克力芯片。
+   - 將混合物倒入容器中冷藏1小時，使其凝固並增強口感。
+
+### 問題原因
+- **市售醬料的隱藏糖分**：許多市售杏仁 butter 和花生醬含添加糖或高果糖玉米 syrup，影響整體健康。
+- **食譜初期版本的不足**：
+  - 前一版本的杏仁ffee口感較為粗糙，缺乏 creaminess。
+
+### 解決方法
+1. **選擇無糖成分**：
+   - 選擇不含添加糖的杏仁 butter 和椰子油，確保食譜的健康特性。
+   
+2. **調整配方以改善口感**：
+   - 增加椰子油的用量，使成品更順滑、 creamy。
+   - 使用帶有果穎粒的Instant Kale Shake增加口感。
+
+### 健康建議
+- **高蛋白質攝取**：杏仁ffee提供每份20克蛋白質，適合追求快速營養的人群。
+- **低糖攝入**：使用甜菊糖醇等天然甜味劑，降低整體糖分攝取。
+- **便於儲存和食用**：
+  - 成品可冷藏保存， shelf life 最長可達六個月。
+  - 每次食用約一湯匙，作為健康的零食選項。
+
+### 結論
+- **杏仁ffee的優越性**：
+  - 簡單易做、高營養、低糖，適合健康飲食需求。
+  - 改良後版本口感更佳，兼具 creaminess 和 nuttiness。
+- **鼓勵試做並反饋**：
+  - 邀請讀者按照所提供配方製作杏仁ffee，並在評論區分享個人體驗和改进建議。
 </details>
 
 <details>
-<summary>289. Dr. Berg Talks to a GMO Corn & Soy Farmer Who Is Switching to Organic</summary><br>
+<summary>289. [2015-08-10] Dr. Berg Talks to a GMO Corn & Soy Farmer Who Is Switching to Organic</summary><br>
 
 <a href="https://www.youtube.com/watch?v=sA6im8XBMy4" target="_blank">
     <img src="https://img.youtube.com/vi/sA6im8XBMy4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+---
+
+#### 一、核心主題  
+本文主要探討現代農業中 GMO（基因改造 organism） crops 的應用及其對農民、土壤和生態系統的影響，特別是圍繞 GMO 技術與傳統農法的比較、種植成本、環境問題以及糧食安全等議題展開討論。
+
+---
+
+#### 二、主要觀念  
+1. **GMO 與非 GMO 種稙的對比**  
+   - GMO 種稙（如玉米和大豆）被廣泛種稙，但其核心目的是服務於動物飼料和工業用途，而非直接滿足人類食用需求。  
+   - 非 GMO 種稙則更側重於人類消費市場。  
+
+2. **土壤健康問題**  
+   - 大規模使用化肥和除草劑（如Glyphosate）破壞了土壤結構和微生物平衡。  
+   - 土壤板結、地力下降，導致農作物抗病性和免疫力降低。  
+
+3. **種稙コスト與农民困境**  
+   - 农民需每年購買 GMO 種稙，且無法保存自產的種子（因技術條款限制）。  
+   - 高度依賴外購種子和化學藥劑，導致生產成本上升，邊際利潤下降。  
+
+4. **抗除草劑雜草問題**  
+   - 由於Glyphosate的濫用，部分雜草對其產生耐藥性，進一步增加農民的防治難度和成本。  
+
+---
+
+#### 三、問題原因分析  
+1. **GMO 技術的局限性**  
+   - 興趣在於工業化和規模化生產，而非提升糧食品質或營養價值。  
+   - 雖然 GMO 種稙產量看似穩定，但其依賴外部投入（如化肥、除草劑）增加了生態脆弱性。  
+
+2. **土壤管理失當**  
+   - 化肥和除草劑的濫用破壞了土壤生態平衡，影響農作物的自然生長條件。  
+
+3. **經濟結構問題**  
+   - 农民缺乏自主權，無法決定種稙品種和銷售對象，導致其在產業鏈中處於被動地位。  
+
+---
+
+#### 四、解決方法建議  
+1. **推廣生態農法**  
+   - 減少化學藥劑的使用，改用有機肥和生物防治技術，恢復土壤健康。  
+
+2. **支持非 GMO 種稙**  
+   - 非 GMO 種稙更符合人類食用需求，且不受限於種子公司的技術條款。  
+
+3. **農民合作社與ERTICAL控制**  
+   - 成立農民合作社，實現種子和农资的自主供應，降低生產成本。  
+   - 推動直接銷售模式，讓農民掌握更多市場話語權。  
+
+---
+
+#### 五、健康建議  
+1. **選擇非 GMO 食品**  
+   - 消費者應優先購買並支持非 GMO ведания，以降低潛在的健康風險。  
+
+2. **關注食品標籤**  
+   - 學會閱讀食品標籤，避免消費含高果糖玉米糖浆等來源於GMO加工產品的成分。  
+
+---
+
+#### 六、結論  
+1. 現代農業對 GMO 的依賴已導致多方面問題，包括生態破壞、種稙成本上升和糧食安全隱患。  
+2. 推廣生態農法和非 GMO 技術是解決這些問題的關鍵。  
+3. 消費者和農民需共同努力，改變當前農業生產模式，實現可持續發展目標。
 </details>
 
 <details>
-<summary>288. Hypertension, Vitamin K2, and Vitamin D3 Testimonial - Dr. Berg</summary><br>
+<summary>288. [2015-08-04] Hypertension, Vitamin K2, and Vitamin D3 Testimonial - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ZpPEIXotGMs" target="_blank">
     <img src="https://img.youtube.com/vi/ZpPEIXotGMs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 探讨通过营养干预改善高血压及其相关健康问题的可能性。  
+- 强调维生素D3和K2在调节钙代谢中的作用。  
 
+---
+
+### 主要觀念  
+1. 高血压的管理需要多学科团队合作，包括医学医生和营养专家。  
+2. 药物治疗结合营养干预可能更有效降低血压并减少药物依赖。  
+3. 过量的钙沉积在血管和其他组织中可能导致高血压及其他健康问题。  
+4. 维生素D3和K2通过调节钙代谢，帮助 mobilize 钙离子至正确的位置（如骨骼），从而改善血液循环和血压。  
+
+---
+
+### 問題原因  
+1. 高血压患者通常依赖多种药物（如β受体阻滞剂、他汀类药物等）来控制病情，但这些药物可能无法完全解决问题。  
+2. 过量的钙沉积在血管中导致动脉硬化，进而引发高血压。  
+3. 药物治疗（如钙通道阻滞剂）只能暂时缓解症状，未能从根本上解决钙代谢问题。  
+
+---
+
+### 解決方法  
+1. 使用维生素D3和K2补充剂来调节钙离子分布：  
+   - 维生素D3 (10,000 IU/次) 和 K2 (100 μg/次)，每日四次。  
+2. 配合其他营养干预措施（如饮用富含矿物质的蔬菜汁）以支持整体健康。  
+3. 定期监测血压和钙沉积情况，调整剂量并评估效果。  
+
+---
+
+### 具體案例  
+- 患者初始血压：160/110 mmHg，需多种药物控制。  
+- 开始补充维生素D3和K2后，血压逐渐下降至正常范围（120/75 mmHg）。  
+- 药物剂量逐步减少，最终完全停药。  
+- 钙沉积在牙齿和关节的问题得到改善，钙代谢恢复正常。  
+
+---
+
+### 健康建議  
+1. 对于高血压患者，建议咨询医生后尝试补充维生素D3和K2，以辅助降低血压并减少药物依赖。  
+2. 注意饮食中钙的摄入量，并确保与维生素D3和K2的比例合理。  
+3. 定期进行钙沉积相关检查（如心脏钙化扫描），以评估钙代谢状态。  
+4. 结合其他健康生活方式（如适量运动、均衡饮食）以全面改善心血管健康。  
+
+---
+
+### 結論  
+- 维生素D3和K2在调节钙代谢中的作用已被证明对高血压患者有益。  
+- 通过营养干预改善钙分布，可以显著降低血压并减少药物使用。  
+- 随着更多研究的开展，维生素D3和K2的联合应用可能会在未来的健康管理中得到更广泛的应用。
 </details>
 
 <details>
-<summary>287. Calcium Benefits: Way Beyond The Bones – Dr. Berg</summary><br>
+<summary>287. [2015-08-04] Calcium Benefits: Way Beyond The Bones – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=MK4Qd3AtzEY" target="_blank">
     <img src="https://img.youtube.com/vi/MK4Qd3AtzEY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理  
 
+#### 核心主題  
+- 鈣的重要性不僅限於骨骼健康，還涉及acellular communication和多種生理功能。  
+- 鈣失衡（intracellular hypercalcinos）可引發高血壓、動脈硬化、糖尿病、癌症等疾病。  
+
+#### 主要觀念  
+1. **鈣的雙重角色**  
+   - 鈣是細胞信號傳遞的重要礦物質，維持細胞內外平衡至關重要。  
+   - 過多的鈣積累在細胞內（intracellular hypercalcinos）會導致健康問題。  
+
+2. **疾病與鈣失衡的關聯**  
+   - 高血壓：鈣通道阻滞劑可降低血壓，但需注意其副作用。  
+   - 心血管疾病：鈣在動脈中沉積，增加動脈硬化風險。  
+   - 糖尿病：鈣失衡影響胰島素受體功能。  
+   - 癌症：鈣控制細胞生長與凋亡，失衡可致癌細胞失控增殖。  
+
+3. **炎症與軟组织問題**  
+   - 鈣在關節、肌腱等軟組織沉積，導致炎癥和退化性疾病（如骨關節炎）。  
+   - 鈣沉積於血管和腦部可引發中風。  
+
+#### 問題原因  
+1. **營養失衡**  
+   - 維生素D不足：影響鈣吸收，導致細胞內鈣過多。  
+   - 維生素K2缺乏：無法有效將鈣運輸至骨骼，引發軟組織鈣沉積。  
+   - ω-3脂肪酸不足：干擾鈣的運輸和代謝。  
+
+2. **飲食與吸收問題**  
+   - 高碳水化合物或低脂飲食影響礦物質吸收。  
+   - 遴土鈣（如碳酸鈣）吸收率低，易導致鈣沉積。  
+
+3. **生活方式因素**  
+   - 不良飲食習慣、缺乏運動和壓力增加炎症反應。  
+
+#### 解決方法與健康建議  
+1. **營養補充**  
+   - 維生素D：每日攝取劑量視個人需求而定，可通過日光照射或食物攝取。  
+   - 維生素K2：多食用富含K2的食物（如納豆、乳制品），必要時服用 supplements。  
+   - ω-3脂肪酸：增加深海魚類或植物來源（如亞麻籽）的攝取。  
+
+2. **鈣來源選擇**  
+   - 避免使用鈣碳酸鹽，優先選擇吸收率高的鈣質（如乳糖鈣、檸檬酸鈣）。  
+
+3. **改善吸收能力**  
+   - 保持良好的消化系統健康，避免胃酸不足影響礦物質吸收。  
+
+4. **生活調整**  
+   - 適當運動促進鈣的代謝和骨骼健康。  
+   - 減少壓力，維持免疫系統功能。  
+
+#### 總結  
+- 鈴失衡是多種慢性疾病的共同病因，關鍵在於通過營養補充、飲食調整和生活方式改進來恢復鈣的平衡。  
+- 了解鈴的重要性及影響，有助於採取更有效的健康管理策略。
 </details>
 
 <details>
-<summary>286. Change Your Thoughts, Change Your Body Shape – Dr. Berg On Different Body Types</summary><br>
+<summary>286. [2015-07-21] Change Your Thoughts, Change Your Body Shape – Dr. Berg On Different Body Types</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Zm-aQY7zhEk" target="_blank">
     <img src="https://img.youtube.com/vi/Zm-aQY7zhEk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題
+- 思考模式對身體形象和健康的影響。
+- 通過正面心理暗示改變思維方式，從而改善健康狀況。
+
+#### 主要觀念
+1. ** cravings**（ craving 的原因）： cravings 是有其根源的，需找到背后的原因而非簡單抵制。
+2. **健康至上的理念**： weight loss 不應是目標，而是健康生活方式的副產品。
+3. **自我控制與自律**：通過一致性的行動建立自控能力。
+4. **簡單化的生活方式**：避免過度複雜化飲食或健康計劃，保持基本原則。
+5. **責任感**：承擔自己健康的主體責任，而非成為環境或外部因素的受害者。
+
+#### 問題原因
+- ** cravings 的普遍存在**：可能與心理需求、營養不均衡或潛在健康問題有關。
+- ** weight loss 不易的原因**：可能涉及肌肉修復、睡眠不足或其他健康隱患。
+- **複雜化飲食**：過度追求完美飲食方案導致執行障礙。
+- **缺乏計劃性**：臨時決定飲食容易導致不恰當的選擇。
+
+#### 解決方法
+1. **認識 cravings 的原因**：分析 craving 的來源，如壓力、營養不足或情感需求，並找到替代方案。
+2. **健康至上的飲食方式**：以 nutrient-densefoods 為中心，避免追求 pleasure-driven eating。
+3. **建立自律性**：通過一致性的行動逐步建立起自控能力。
+4. **簡單化策略**：
+   - 避免將飲食計劃複雜化。
+   - 保持基本的飲食原則，如控制份量、選擇健康食物。
+5. **提前計劃**：制定詳細的飲食計劃，避免臨時決策導致失敗。
+6. **尋找替代品**：用健康的替代品滿足對特定食物的渴望，如使用無糖巧克力或自制低脂冰淇淋。
+
+#### 健康建議
+1. **心理層面**：
+   - 保持積極的心態，將自己視為健康和生活方式的主宰者。
+   - 避免自憐或victim心态，承認並肩負健康責任。
+2. **飲食層面**：
+   - 選擇 nutrient-densefoods，避免精製食品和高糖高脂食物。
+   - 確保飲食計劃具體且可執行，考慮到可能的挑戰和替代方案。
+3. **行動層面**：
+   - 制定詳細的飲食計劃，包括每日餐單和零食安排。
+   - 遊戲化健康生活方式，如將飲食計劃視為一種探索和創新的過程。
+
+#### 結論
+- 改變思維方式是改善健康的關鍵。
+- 通過正念、自律和簡單化的策略，可以有效地實現健康目標。
+- 承擔健康責任並非壓力，而是.empowerment的來源，使人們更有能力掌控自己的生活。
 </details>
 
 <details>
-<summary>285. How To Test Yourself For Adrenal Fatigue – Dr. Berg On Adrenal Insufficiency</summary><br>
+<summary>285. [2015-07-14] How To Test Yourself For Adrenal Fatigue – Dr. Berg On Adrenal Insufficiency</summary><br>
 
 <a href="https://www.youtube.com/watch?v=VjMhPVi1jzs" target="_blank">
     <img src="https://img.youtube.com/vi/VjMhPVi1jzs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題： adrenal fatigue and its implications on physical and mental health.
+
+1. **Definition of Adrenal Fatigue**:
+   - The article discusses the concept of adrenal fatigue, which occurs when the adrenal glands become overburdened due to prolonged stress.
+   - This condition leads to a depletion of hormones such as adrenaline and cortisol, resulting in various physical and psychological symptoms.
+
+2. **Symptoms of Adrenal Fatigue**:
+   - Common symptoms include excessive thinking or analysis, difficulty turning off the mind, irritability, and feeling overwhelmed.
+   - These symptoms are often triggered by chronic stressors such as work pressures, financial concerns, relationship issues, and environmental stressors.
+
+3. **Physiological Mechanism**:
+   - The adrenal glands produce hormones like adrenaline and cortisol, which are crucial for the body's response to stress (fight-or-flight mechanism).
+   - Chronic activation of this mechanism can lead to hormonal imbalances and exhaustion of the adrenal system.
+
+4. **Diagnosis**:
+   - A simple test involving measuring blood pressure while lying down and standing up can provide insights into adrenal function.
+   - A normal increase in blood pressure upon standing (6-10 points) indicates healthy adrenal function; a lower increase suggests adrenal fatigue.
+
+5. **Health Recommendations**:
+   - Engaging in activities that create mental space, such as going for a walk or hike, can help reduce stress and support adrenal health.
+   - Avoiding excessive screen time and mentally taxing environments during periods of stress is recommended.
+
+6. **Conclusion**:
+   - Adrenal fatigue is a significant issue in modern society due to the prevalence of chronic stress.
+   - By understanding the symptoms, mechanisms, and simple interventions, individuals can take proactive steps to maintain their health and well-being.
 </details>
 
 <details>
