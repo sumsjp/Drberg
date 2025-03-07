@@ -3617,58 +3617,274 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
 </details>
 
 <details>
-<summary>3429. The Benefits of Bee Pollen</summary><br>
+<summary>3429. [2021-04-25] The Benefits of Bee Pollen</summary><br>
 
 <a href="https://www.youtube.com/watch?v=-N0x_d1UQ8o" target="_blank">
     <img src="https://img.youtube.com/vi/-N0x_d1UQ8o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Key Points of the Article on Bee Pollen Benefits  
 
+#### Core Theme  
+- **Bee Pollen as a Nutrient-Rich Natural Product**: Bee pollen is recognized as a primary food source for bees, particularly providing essential protein. It contains a diverse array of beneficial components that are advantageous to human health.
+
+#### Major Concepts  
+1. **Nutritional Composition of Bee Pollen**  
+   - Contains carbohydrates, honey, vitamins, amino acids, essential fatty acids, minerals, and trace minerals.  
+   - Enriched with over 29 friendly bacteria and over 188 fungi species that benefit the human system.  
+   - Includes fermented by-products such as lactic acid, which aids in combating pathogens.  
+   - Comprises over 250 distinct substances derived from various plant species, including flower pollen, nectar, enzymes, honey, and wax.
+
+2. **Therapeutic Properties of Bee Pollen**  
+   - Exhibits anti-fungal properties effective against sinus fungal growth.  
+   - Functions as a natural antibiotic with antimicrobial and antiviral activities.  
+   - Displays anti-inflammatory effects.  
+   - Acts as hepatoprotective, safeguarding liver health.  
+   - Stimulates the immune system and aids in liver detoxification.  
+   - Utilized in wound healing and burn treatment.  
+   - Contributes to reducing arterial plaque buildup.
+
+#### Problem Identification  
+- Chronic sinus congestion and fungal growth in sinuses are issues that bee pollen can address, even when unrelated to allergies.
+
+#### Solutions Offered  
+- Incorporating bee pollen into one's diet or health regimen can provide natural relief for sinus congestion and fungal-related sinus issues.  
+- Its antimicrobial, antiviral, and anti-inflammatory properties offer a holistic approach to combating infections and inflammation.
+
+#### Health Recommendations  
+- Consider integrating bee pollen into your diet or supplements to leverage its numerous health benefits.  
+- Consult healthcare professionals before starting any new supplement regimen.
+
+#### Conclusion  
+- Bee pollen is a remarkable natural product with a wide array of health-promoting properties, making it a valuable addition to wellness routines.
 </details>
 
 <details>
-<summary>3428. One and a Half Meals Per Day (OAAHM) Keto</summary><br>
+<summary>3428. [2021-04-25] One and a Half Meals Per Day (OAAHM) Keto</summary><br>
 
 <a href="https://www.youtube.com/watch?v=2uXfo5pF6U0" target="_blank">
     <img src="https://img.youtube.com/vi/2uXfo5pF6U0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題： intermittent fasting and meal timing strategies for health optimization
 
+The article discusses the transition from consuming two meals to one meal a day (OMAD) and introduces an alternative approach of eating one and a half meals per day. This method is suggested as a smoother transition to OMAD, particularly for individuals who find it challenging to consume all their daily calories in a single sitting.
+
+### 主要觀念：
+
+1. **Gradual Transition Strategy**:
+   - The article proposes consuming two smaller meals within a five-hour window, followed by a 20-hour fast. This approach is designed to ease the transition to OMAD and address common challenges such as difficulty consuming sufficient calories in one meal.
+
+2. **Meal Composition**:
+   - The first meal should be rich in protein and fiber, potentially including items like berries, hummus, nuts, seeds, and avocado.
+   - The second meal consists of a large salad with minimal insulin impact, incorporating vegetables, nuts, seeds, and healthy fats such as cheese or avocado.
+
+3. **Benefits of the Strategy**:
+   - Reduces hunger during the fasting period.
+   - Allows for better nutrient intake by separating different food groups.
+   - Maintains ketosis by focusing on foods with low insulin response.
+
+### 問題原因：
+
+- Many individuals struggle with OMAD due to the difficulty of consuming a large meal in one sitting, which can lead to digestive discomfort or insufficient calorie intake.
+
+### 解決方法：
+
+- Introducing a modified approach of eating two smaller meals within a five-hour window (e.g., at 12 noon and 5 PM) followed by a 20-hour fast.
+- This method allows for easier digestion and better nutrient absorption while maintaining the benefits of intermittent fasting.
+
+### 健康建議：
+
+1. **Nutrient-Dense Eating**:
+   - Focus on consuming nutrient-dense foods, particularly in the first meal, to ensure adequate protein and fiber intake.
+   - Prioritize low-insulin-impact foods in both meals to maintain ketosis.
+
+2. **Meal Timing**:
+   - Consume the larger meal earlier in the day (around noon) to avoid hunger during the fasting period.
+
+3. **Gradual Adaptation**:
+   - Transition gradually from two meals to one and a half meals, and eventually to OMAD, to allow the body to adjust.
+
+### 結論：
+
+The article suggests that consuming one and a half meals per day within a five-hour window followed by a 20-hour fast can serve as an effective intermediate step for individuals transitioning to OMAD. This approach addresses common challenges associated with OMAD, such as hunger and digestive discomfort, while maintaining the benefits of intermittent fasting and nutrient density.
 </details>
 
 <details>
-<summary>3427. What Does an Electrolyte Do?</summary><br>
+<summary>3427. [2021-04-24] What Does an Electrolyte Do?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=MRPMk6VaG2U" target="_blank">
     <img src="https://img.youtube.com/vi/MRPMk6VaG2U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 文章整理：五種重要電解質的功能與健康影響
 
+## 1. 核心主題
+- 探讨五种主要电解质（钠、钾、氯化物、钙和镁）在人体中的功能及其对健康的影響。
+
+## 2. 主要觀念
+- ** sodium (鈉)**:
+  - 調控 hydration 和 fluid balance。
+  - 參與 oxygen transport。
+  - 與 chloride 形成鹽，並參與 sodium-potassium pump，維持 cell membrane 的 electrical potential。
+  
+- ** potassium (鉀)**:
+  - 與 sodium 一起作用於 sodium-potassium pump，維持 nerve 和 muscle 功能。
+  - 維持 nerve impulse 和 muscle contraction。
+
+- ** magnesium (鎂)**:
+  - 控制 sodium 和 potassium 的吸收。
+  - 與 calcium 一起調控 muscle contraction 和 relaxation。
+  - 防止肌肉痙攣，尤其在高強度或長時間運動中重要。
+
+- ** calcium (鈣)**:
+  - 與 magnesium 一起調控 muscle contraction。
+  - 調控 nerve stimulus 和 neuromuscular excitability。
+  - 骨骼健康和防止肌肉痙攣。
+
+- ** chloride (氯化物)**:
+  - 與 sodium 一起作用於 hydration 和 fluid balance。
+  - 參與其他 electrolyte 的功能，並影響hydration 状态。
+
+## 3. 問題原因
+- Electrolyte imbalance 可導致多種健康問題，包括：
+  - **低鈉**：導致 fluid retention 和 endurance 下降。
+  - **低鉀**：影響 nerve 和 muscle 功能，導致疲勞和弱點。
+  - **低鎂**：導致肌肉痙攣和運動能力下降。
+  - **低鈣**：導致肌肉痙攣、骨骼弱點和心臟問題。
+
+## 4. 解決方法
+- 確保均衡攝取含 sodium、potassium、magnesium 和 calcium 的食物，如：
+  - 頻繁流汗後補充鹽水。
+  - 摂取富含鎂的深綠色蔬菜和坚果。
+  - 补充足夠的鈣質，尤其是乳制品和堅果。
+
+## 5. 健康建議
+- 定期攝取含上述 electrolytes 的食物，以維持 fluid balance 和 nerve-muscle 功能。
+- 運動後及高溫環境下補充鹽水或 electrolyte 館料。
+- 注意避免過量攝取 sodium，以防 fluid retention 和腎臟問題。
+
+## 6. 結論
+- Electrolytes 是維持人體hydration、 nerve 與 muscle 功能的關鍵。
+- 平衡攝取 sodium、potassium、magnesium 和 calcium 可提升運動表現和整體健康。
 </details>
 
 <details>
-<summary>3426. Ignore Hunger Waves While Fasting</summary><br>
+<summary>3426. [2021-04-24] Ignore Hunger Waves While Fasting</summary><br>
 
 <a href="https://www.youtube.com/watch?v=iwjOVt2IRYU" target="_blank">
     <img src="https://img.youtube.com/vi/iwjOVt2IRYU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- **斷食的效果**：文章探討了斷食對人體的影響，特別是針對饥饿感和運動動機這兩個方面。
 
+---
+
+### 主要觀念  
+1. ** hunger waves（ hunger 潮）**：  
+   - Hunger waves 是由荷爾蒙 ghrelin 引發的一種短期饥饿感。  
+   - 這種波浪狀的 hunger 可以被忽略，通常在 2 小時內自然消退。  
+
+2. **ghrelin 的作用**：  
+   - ghrelin 被稱為「饥饿荷爾蒙」，負責向大腦傳送進食信號。  
+   - 斷食期間，ghrelin 的波動會逐漸降低，導致 hunger 感覺減弱，使斷食變得更容易。  
+
+3. **血糖水平的影響**：  
+   - 真正的饥饿感通常與血糖水平下降有關，表現為疲倦、眩暈等症狀，這時需要進食以恢復血糖。  
+
+4. **斷食對運動動機的影響**：  
+   - 斷食期間，ghrelin 不僅會增加 hunger 感覺，還可能增強運動欲望。  
+   - 研究表明，在小鼠身上觀察到的這種現象可能在人類中也存在。  
+
+---
+
+### 問題原因  
+- **短期饥饿感的干擾**：  
+  - 初期斷食時，ghrelin 引發的 hunger waves 可能讓人感到不適，影響堅持斷食的信心。  
+
+- **血液血糖水平下降**：  
+  - 真正的低血糖症狀會對身體和心理造成不良影響，增加進食的迫切感。  
+
+---
+
+### 解決方法  
+1. **逐步適應斷食**：  
+   - 開始斷食時，可先短時間內斷食（如 12-16 小時），慢慢增加斷食時間。  
+
+2. **忽略短期 hunger waves**：  
+   - 學會區分由 ghrelin 引發的短期 hunger 和低血糖導致的真正饥饿感，避免因短期不適而中斷斷食。  
+
+3. **增強運動動機**：  
+   - 斷食期間可利用 ghrelin 增加的運動欲望，從事有氧運動或力量訓練，提升整體健康狀況。  
+
+4. **管理血糖水平**：  
+   - 適當攝取低碳水化合物的食物，避免血糖劇烈波動，降低低血糖風險。  
+
+---
+
+### 健康建議  
+1. **斷食的益處**：  
+   - 斷食可降低對食物的依賴，減少胰島素 spikes，有助于控制體重和增進健康。  
+
+2. **運動與斷食結合**：  
+   - 斷食期間進行中低強度運動，有助于提升能量利用率，增強身體適應能力。  
+
+3. **注意個體差異**：  
+   - 每個人的生理反應不同，建議在專業指導下逐步嘗試斷食，並根據自身情況調整。  
+
+---
+
+### 總結  
+- 斷食是一種有效的健康管理方式，但需了解其背后的生理機制（如 ghrelin 的作用和 hunger waves 的特徵），才能更好地應對短期不適，提升堅持的信心。  
+- 通過逐步適應和合理安排運動與飲食，斷食不僅能幫助控制體重，還能增強身體健康和免疫系統功能。
 </details>
 
 <details>
-<summary>3425. The Worst Diet Advice in the World</summary><br>
+<summary>3425. [2021-04-23] The Worst Diet Advice in the World</summary><br>
 
 <a href="https://www.youtube.com/watch?v=F5PqIWFmLPc" target="_blank">
     <img src="https://img.youtube.com/vi/F5PqIWFmLPc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Key Points of the Article
 
+#### Core Theme: Critique of Poor Dietary Advice
+The article critically examines a series of dietary recommendations that are widely circulated but proven to be ineffective and counterproductive. These include frequent eating, meal planning, low-energy density foods, calorie tracking, joining communities, and emphasizing brain sugar flow.
+
+#### Major Concepts:
+1. **Frequent Eating**: Consuming small carbohydrate meals every few hours is suggested as a strategy to prevent overeating. However, this approach is criticized for increasing carb cravings and maintaining constant hunger.
+2. **Meal Planning**: The advice to plan ahead and avoid skipping meals is dismissed as low-calorie dieting, which has been repeatedly shown not to work for sustained weight loss.
+3. **Frequent Caloric Intake**: Eating every two to three hours is proposed to maintain metabolism and prevent fat storage. This is deemed illogical and counterproductive, as it encourages constant feeding rather than metabolic adaptation.
+4. **Low-Energy Density Foods**: Recommendations to consume fruits, vegetables, whole grains, and lean proteins are criticized for being insufficient to satisfy hunger, leading to chronic hunger and failure to adapt fat metabolism.
+5. **Calorie Tracking**: Portion control and calorie counting are dismissed as trivial and time-wasting strategies that do not address the root causes of weight management issues.
+6. **Community Involvement**: Joining a community is suggested but criticized for promoting collective failure rather than individual success.
+7. **Brain Function**: The claim that regular sugar intake improves brain function is met with skepticism, suggesting it could contribute to conditions like type 3 diabetes or Alzheimer’s disease.
+
+#### Causes of the Problem:
+- **Misinformation**: The article highlights how these dietary recommendations are based on flawed logic and have been disproven by research.
+- **Lack of Adaptation**: Many strategies fail because they do not account for the body's natural metabolic responses, particularly regarding fat adaptation.
+- **Chronic Hunger**: Frequent consumption of carbohydrates leads to constant hunger and an inability to feel satisfied, perpetuating a cycle of overeating.
+
+#### Solutions:
+1. **Adopt Metabolically Favorable Strategies**: Focus on diets that promote fat adaptation and reduce reliance on carbohydrates.
+2. **Intermittent Feeding**: Consider approaches like intermittent fasting to allow the body to reset metabolic processes and reduce constant caloric intake.
+3. **Prioritize Satiety**: Include sufficient fats in meals to enhance satiety and reduce hunger pangs.
+4. **Avoid Low-Calorie Diets**: Move away from low-calorie, high-carbohydrate diets that fail to provide sustained energy and satisfaction.
+5. **Focus on Quality Nutrition**: Emphasize nutrient-dense foods that provide both nourishment and satiation.
+
+#### Health Recommendations:
+- **Dietary Adjustments**: Replace frequent carbohydrate-rich meals with balanced meals containing healthy fats and proteins to reduce hunger and improve metabolic function.
+- **Mindful Eating Practices**: Implement strategies like intermittent fasting or time-restricted eating to allow the body to process food more efficiently.
+- **Educate Yourself**: Seek out evidence-based dietary advice rather than following trending but unproven methods.
+
+#### Conclusion:
+The article underscores the importance of adopting dietary practices that align with natural metabolic processes and prioritize satiety over frequency. It advocates for a shift away from low-calorie, high-carbohydrate diets and towards strategies that promote fat adaptation, reduce hunger, and improve overall metabolic health.
 </details>
 
 <details>
@@ -3683,58 +3899,291 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
 </details>
 
 <details>
-<summary>3423. Why Get a Second Opinion?</summary><br>
+<summary>3423. [2021-04-22] Why Get a Second Opinion?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hJ7fTjE3FvA" target="_blank">
     <img src="https://img.youtube.com/vi/hJ7fTjE3FvA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：多角度評估醫療決策的重要性
 
+#### 核心主題  
+- 多获取第二或第三方意見在醫療決策中的重要性。  
+- 强調數據完整性與真實性對於有效評估治療方案的必要性。  
+
+#### 主要觀念  
+1. **多角度評估的價值**  
+   - 獲取更多數據以提高評估效果，避免片面判斷。  
+2. **數據的質量要求**  
+   - 評估需基於真實且完整的信息，避免信息不全或錯誤。  
+3. **病例分析：脊椎滑脫症（Spondylolisthesis）**  
+   - 患者因舊傷導致脊椎滑脫，並出現背部疼痛。  
+   - 病情分級從輕到重，患者為 grades 1，症狀較輕且接受物理治療。  
+
+#### 問題與原因  
+1. **醫療建議的局限性**  
+   - 主治醫生建議手術，稱其安全且物理治療效果不佳。  
+2. **數據不足導致的風險**  
+   - 手術成功率為73%，但其他情況（如永久損傷或併發症）未充分告知患者。  
+3. **患者信息获取的障礙**  
+   - 網搜結果受限，需深入挖掘研究以獲取完整數據。  
+
+#### 解決方法  
+1. **增強數據搜集與分析能力**  
+   - 鼓勵患者查找更多文獻，尤其是 Surgically-oriented studies，並注意研究設計的限制（如研究對象、數據來源）。  
+2. **權衡治療方案的風險與效益**  
+   - 考慮患者是否吸煙、有無關節炎等個人因素，這些會增加手術併發症風險。  
+3. **避免醫生使用恐懼 tactic**  
+   - 醫生應提供全面信息，讓患者基於事實做出明智決策。  
+
+#### 健康建議  
+1. **多角度諮詢**  
+   - 選擇不同醫療專家諮詢，獲取多元化的意見與數據支持。  
+2. **警惕研究局限性**  
+   - 學會質疑研究設計，避免被表面結果誤導，例如有些「低碳飲食」研究可能未嚴格控制飲食結構。  
+3. **綜合治療方案**  
+   - 考慮非手術治療（如特定運動）的可行性與效果，尤其在病情尚輕時。  
+
+#### 結論  
+- 多角度評估醫療問題能幫助患者做出更明智的決策，關鍵在於數據的完整性與真實性。  
+- 医生應避免使用威脅性言詞，而患者也需主動搜集信息，了解治療方案的全貌，以降低風險並提升療效。
 </details>
 
 <details>
-<summary>3422. The Most Widely Used Pesticide in the World</summary><br>
+<summary>3422. [2021-04-21] The Most Widely Used Pesticide in the World</summary><br>
 
 <a href="https://www.youtube.com/watch?v=EdVmQTCA9b4" target="_blank">
     <img src="https://img.youtube.com/vi/EdVmQTCA9b4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 1. 核心主題
+- 全球最廣泛使用的殺蟲劑「克百威磷」（Kerbworm Phosphorus）。
+- 該殺蟲劑在環境中的普遍存在及其对人体和生態的危害。
+
+#### 2. 主要觀念
+- **毒性特征**：克百威磷是一種廣泛應用的殺蟲劑，能夠殺死昆蟲和動物，與主要針對雜草的除草劑（如 glyphosate）不同。
+- **暴露情況**：
+  - 在美國90%的家庭中檢測到該殺蟲劑。
+  - 在歐洲部分國家以及美國多個州（如加州、紐約州、新澤西州和康涅狄格州）已被禁用。
+  - 存在於食物鏈中的多種食品中，包括大豆、玉米、苹果、香菜、甜椒、豌豆等。
+
+#### 3. 問題原因
+- **毒性影響**：
+  - 2016年研究顯示，90%的兒童和母親的尿液樣本中檢測到該殺蟲劑。
+  - 該化學物質可能積累在脂肪細胞中。
+  - 與自閉症風險增加存在潛在關聯。
+- **研究問題**：
+  - 尽管有4,000項研究涉及其安全性，但這些研究中有很大一部分由製造該殺蟲劑的產業資助，可能存在偏見。
+
+#### 4. 環境負荷
+- 美國環境保護局（EPA）註冊了34,000種不同的殺蟲劑，另有85,000種其他化學品受到不同類型的監管。
+- 現代環境中存在大量化學物質，使得完全避免接觸成為不可能。
+
+#### 5. 解決方法
+- **飲食選擇**：轉向有機食品以減少接觸。
+- **生理防禦**：
+  - 諸如硫苷配醣酶（GSTs）等解毒酶的合成，屬於人體的Phase 1和Phase 2排毒系統。
+  - 頻繁攝取十字花科蔬菜（如西兰花、捲心菜）可促進這些酶的生成。
+
+#### 6. 健康建議
+- **禁食**：定期禁食可以提升身體解毒能力，增強對環境毒素的抵抗力。
+
+#### 7. 結論
+- 完全避免接觸化學物質是不可能的。
+- 強化免疫系統和排毒能力是應對環境中毒素的重要策略。
+- 推薦消費者通過飲食調整、補充營養素和生活方式改變來提升身體的防禦能力。
 </details>
 
 <details>
-<summary>3421. Soft Drinks and Fatty Liver Disease: Interesting</summary><br>
+<summary>3421. [2021-04-21] Soft Drinks and Fatty Liver Disease: Interesting</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fgwN7mdTpCc" target="_blank">
     <img src="https://img.youtube.com/vi/fgwN7mdTpCc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：軟飲料與肝臟健康的關係
 
+#### 核心主題
+- 軟飲料（特別是非酒精性含糖飲料）對肝臟健康的重大影響。
+- 高果糖玉米糖漿在軟飲料中的作用及其對肝臟的毒性。
+
+#### 主要觀念
+1. **脂肪肝與.soft drinks的關係**：
+   - 正常情況下，肝臟含脂量應為5%，而脂肪肝患者肝臟含脂量可達60%-80%。
+   - 軟飲料是導致非酒精性脂肪肝病（NAFLD）的主要獨立風險因素，佔比高達82.5%。
+
+2. **軟飲料的成分分析**：
+   - 主要成分為高果糖玉米糖漿（HFCS），其中約50%為果糖，50%為葡萄糖。
+   - 葡萄糖被全身細胞利用，而果糖只能在肝臟代谢。
+
+3. **果糖的毒性作用**：
+   - 果糖過量攝入會使肝臟超負荷工作。
+   - 肝臟被迫將 excess fructose 轉化為三酰甘油（TAGs），並可能導致脂肪在肝臟和其他器官中積累。
+
+4. **健康影響**：
+   - 脫脂肝患者往往伴隨腹水、心臟問題、高血壓和認知功能障礙。
+   - 長期來看，脂肪肝可能進展為肝硬化等永久性肝病。
+
+#### 問題原因
+- **攝入過量果糖**：軟飲料中的高果糖玉米糖漿導致果糖攝入過量。
+- **代谢負擔**：果糖只能在肝臟 metabolism，大量攝入使 liver 超負荷。
+- **慢性脂肪沉積**：持續的 excess fructose 取導致肝臟 triglycerides 累積，影響全身健康。
+
+#### 解決方法
+1. **飲食調整**：
+   - 減少或避免含高果糖玉米糖漿的軟飲料。
+   - 替代品建議：使用天然甜味劑如 Stevia（甜菊糖苷），不含副作用。
+
+2. **ifestyle modification**：
+   - 開展健康教育，提高公眾對 soft drinks 危害的認識。
+   - 鼓勵消費者閱讀食品標籤，避免隱性果糖攝入。
+
+3. **公共衛生措施**：
+   - 推動稅收政策或限制廣告，減少 soft drinks 的消費。
+   - 增加健康飲品（如天然果汁、無糖茶）的 availability.
+
+#### 健康建議
+1. **個人層面**：
+   - 替代含糖飲料為更健康的選擇。
+   - 減少精製糖攝入，閱讀食品標籤。
+
+2. **群體健康**：
+   - 推廣健康飲食教育計劃。
+   - 鼓勵社區建立健康飲品 accessibility.
+
+3. **政策建議**：
+   - 考慮對含糖飲料徵稅。
+   - 加強食品安全法規，限制添加糖含量。
+
+#### 總結
+- 軟飲料中的高果糖玉米糖漿是導致非酒精性脂肪肝病的主要因素。
+- 果糖的過量攝入嚴重影響肝臟健康，甚至可能引發肝硬化等嚴重疾病。
+- 消除 soft drinks 的消費習慣，並改為更健康的飲品選擇，是保護肝臟健康的重要步驟。
 </details>
 
 <details>
-<summary>3420. Diet Soda can Cause a Fatty Liver</summary><br>
+<summary>3420. [2021-04-20] Diet Soda can Cause a Fatty Liver</summary><br>
 
 <a href="https://www.youtube.com/watch?v=pQaQin8NO2I" target="_blank">
     <img src="https://img.youtube.com/vi/pQaQin8NO2I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：人工甜味劑對健康的影響：以阿斯PARTAME為例
 
+#### 核心主題
+- 人造甜味劑（阿司帕廷）的潛在健康危害，特別是其對肝臟、免疫系統和腸道菌群的影響。
+
+#### 主要觀念
+1. **阿司帕廷的代謝產物**：
+   - 阿司帕廷在人體內會分解為苯基alanine、谷氨酸鹽、甲醇和甲醛。
+   
+2. **對抗氧化劑的干擾**：
+   - 甲醇和甲醛會耗竭主要抗氧化劑——谷胱甘肅，影響其在肝臟、紅血球和大腦中的功能。
+
+3. **肝臟健康影響**：
+   - 阿司帕廷攝入過量可導致肝臟酶（ALT 和 AST）升高，指示肝臟或肌肉受損。
+   - 可能引發高血糖、非酒精性脂肪肝病（NAFLD）、肝細胞壞死和炎症。
+
+4. **腸道微 biome 的改變**：
+   - 阿司帕廷會干擾腸道有益菌群平衡，導致多種消化系統問題及其他相關疾病。
+
+#### 問題原因
+- 人工甜味劑的廣泛使用（約6,000多種食品中含有阿司帕廷）。
+- 其對人體生理功能的多方面影響，包括肝臟、免疫和腸道健康。
+
+#### 解決方法
+1. **選擇更健康的代糖**：
+   - 推薦使用天然甜味劑如菊粉或斯蒂維亞，避免人工甜味劑的副作用。
+
+2. **增強免疫力**：
+   - 通過「如何加固自身免疫系統」免費課程學習具體措施，提升免疫功能，從而更好地抵抗外界環境壓力。
+
+#### 健康建議
+- 減少含阿司帕廷食品和飲料的攝取。
+- 替代品選擇：使用菊粉或斯蒂維亞等天然甜味劑。
+- 保持均衡飲食，避免過度依賴人造甜味劑。
+
+#### 結論
+- 阿司帕廷等人工甜味劑可能對健康造成多方面危害，包括肝臟損傷和免疫功能受抑。
+- 更健康的選擇和生活方式調整可以有效降低這些風險。
+
+### 參考文獻
+- [研究來源連結] 轉化為正式引用格式，例如：
+  - Author(s). (Year). Title of the study. *Journal Name*, Volume(issue), Page numbers. DOI: 核心內容
 </details>
 
 <details>
-<summary>3419. Postmenopausal Women Need More Butter and Egg Yolks</summary><br>
+<summary>3419. [2021-04-20] Postmenopausal Women Need More Butter and Egg Yolks</summary><br>
 
 <a href="https://www.youtube.com/watch?v=zScbg5UNBgw" target="_blank">
     <img src="https://img.youtube.com/vi/zScbg5UNBgw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：meno潮後女性骨質疏鬆與骨質流失的營養管理
 
+---
+
+### 主要觀念：
+1. **meno潮後婦女的骨質健康風險**  
+   - 因激素水平下降（雌激素和孕激素），導致骨質疏鬆或骨質降低的風險增加。
+   - 骨骼需要通過飲食攝取足夠的營養來維持強度。
+
+2. **常見錯誤營養策略**  
+   - 遊びにカルシウムサプリメントを過剰摂取する習慣がある。  
+     （注意：原文中提到的“big mistake”是指高劑量的カルシウムサプリメントが心臓病リスクを高める可能性があるため、過剰摂取は避けるべきです。）
+
+3. **重要性の高いビタミンK2**  
+   - K1ではなくK2が骨健康に不可欠。
+   - K2はカルシウムとタンパク質を結合し、骨密度を維持する役割がある。
+   - 血糖コントロール、腎結石リスク軽減、癌や認知症の予防にも関与。
+
+---
+
+### 問題原因：
+- **性ホルモンの変化**  
+ meno潮後女性は estrogen 和 progesterone 水平が低下し、骨密度維持に必要な栄養素の吸収効率が悪化する。
+  
+- **カルシウムサプリメントの誤った使用**  
+ 過剰なカルシウム除外サプリメントの摂取は心臓疾患リスクを上昇させる可能性がある。
+
+---
+
+### 解決方法：
+1. **ビタミンK2の摂取を増やす**  
+   - 草食黄油、鶏卵 yolks、内臓肉、チーズ、鰯、ナット（発酵大豆製品）、lard（豚脂）、tallow（牛脂）などからビタミンK2を摂取。
+   - これらの食品は脂肪溶性であるため、健康的な脂肪と一緒に摂取することが推奨される。
+
+2. **栄養バランスのよい食事に依存**  
+   - 高カルシウヽ数値や高タンパク質の食品を組み合わせた食事を心掛ける。
+   - 亜健康油（vegetable oil）ではなく、天然由来の脂肪を使用する。
+
+---
+
+### 健康建議：
+1. **カルシウムサプリメントの控え**  
+ 骨密度維持に必要な栄養素としてカルシウムが重要であるが、過剰摂取は避けるべき。  
+ 代わりに、食事から自然に摂取できるカルシウム源を活用する。
+
+2. **ビタミンK2の豊富な食品を摂取**  
+ 草食黄油や鶏卵を含む食品を取り入れることが重要。  
+ これらの食品は、カルシウムとタンパク質の結合を促進し、骨密度を維持するのに役立つ。
+
+3. **健康的な脂肪源を選択**  
+ 脳脂肪（lard）や牛脂（tallow）を使用した調理を奨励。  
+ これらの脂肪はビタミンK2を豊富に含み、免疫機能にも良い影響を与える。
+
+---
+
+### 結論：
+meno潮後女性の骨健康を維持するためには、ビタミンK2の摂取が不可欠であり、カルシウムサプリメントではなく食事からの栄養バランスを重視すべきである。  
+健康的な脂肪源を取り入れた食事が、骨密度維持だけでなく、全身の健康状態にプラス効果をもたらす。
 </details>
 
 <details>
