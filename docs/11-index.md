@@ -1102,71 +1102,29 @@ DIM作為一種有效的化合物，在調節性激素平衡中具有重要作�
         alt="[Youtube]" width="200">
 </a>
 
-### 重點整理
+### 核心主題  
+- 比較穀物草（wheatgrass）汁粉與沙拉的攝取量。  
 
-#### 核心主題
-- 比較食用小麥草汁粉末與沙拉在營養攝取上的等效性。
+### 主要觀念  
+1. 素食草汁粉為超濃縮產品，不含纖維。  
+2. 7至10杯沙拉（相當於7至10盎司）的纖維攝取量不易直接與無纖維的汁粉相比。  
 
-#### 主要觀念
-1. 小麥草汁粉末是高度濃縮產品，不含纖維。
-2. 沙拉含有纖維，而小麥草汁粉末不含纖維。
-3. 5克的小麥草汁粉末相當於4盎司（約30毫升）的沙拉。
+### 問題原因  
+- 素食草汁粉的濃度高，單位重量的營養價值遠超傳統食物如沙拉。  
+- 不同於沙拉，汁粉不含纖維，因此攝取量需調整以實現營養均衡。  
 
-#### 問題原因
-- 直接比較含纖維和不含纖維的食物在營養攝取上具有挑戰性，因兩者成分結構不同。
+### 解决策略  
+1. 使用 scooper 作為測量工具：  
+   - 每2.5克穀物草汁粉相當於4盎司（約一杯）的沙拉。  
+   - 7至10杯沙拉相當於3.5至5個 scoops 的汁粉攝取量。  
 
-#### 解决策略
-1. 使用小麥草汁粉末的濃度比例來計算等效份量。
-2. 5克小麥草汁粉末相當於4盎司沙拉。
-3. 根據所需沙拉份量（7-10杯），換算出相應的小麥草汁粉末用量。
+### 健康建議  
+- 減少過量攝取：即便穀物草汁粉營養豐富，也需注意份量控制，避免腸胃不適。  
+- 縮合飲食多樣化：可搭配其他食物以平衡營養攝取。  
 
-#### 健康建議
-1. 消費者可根據個人需求調整攝取量。
-2. 使用 мерная ложка для точного вимірювання порції.
-
-#### 結論
-- 小麥草汁粉末是沙拉的高濃度替代品，適量使用可滿足營養需求。
-
----
-
-### 英文報告
-
-**Report on Equivalence of Wheatgrass Juice Powder and Salad Consumption**
-
----
-
-**Core Theme**  
-The comparison between the consumption of wheatgrass juice powder and salad in terms of nutritional intake equivalence.
-
----
-
-**Key Concepts**  
-1. Wheatgrass juice powder is a highly concentrated product without fiber.  
-2. Salad contains fiber, while wheatgrass juice powder does not.  
-3. 5 grams of wheatgrass juice powder is equivalent to 4 ounces (approximately 30 mL) of salad.
-
----
-
-**Reasons for the Issue**  
-- Direct comparison between fiber-containing and fiber-free foods presents challenges due to their differing compositions.
-
----
-
-**Solutions**  
-1. Use the concentration ratio of wheatgrass juice powder to calculate equivalent portions.  
-2. 5 grams of wheatgrass juice powder is equivalent to 4 ounces of salad.  
-3. Adjust the amount of wheatgrass juice powder based on the desired serving size (7-10 cups).
-
----
-
-**Health Recommendations**  
-1. Consumers can adjust their intake according to personal needs.  
-2. Use a measuring scoop for precise portion measurement.
-
----
-
-**Conclusion**  
-Wheatgrass juice powder serves as a concentrated alternative to salad, allowing individuals to meet their nutritional requirements effectively.
+### 結論  
+- 素食草汁粉為高濃度營養補充品，適合用於快速獲取養分。  
+- 消費者需根據個人需求調整攝取量，並注意飲食多樣化以維持整體健康。
 </details>
 
 <details>
@@ -1177,64 +1135,40 @@ Wheatgrass juice powder serves as a concentrated alternative to salad, allowing 
         alt="[Youtube]" width="200">
 </a>
 
-### 核心主題  
-- **PABA (para-amino benzoic acid)**：  
-  PABA 是一種前 B ，主要用於合成葉酸（folic acid），而非真正的維生素。
+### 核心主題
+- **PABA（Para-Amino Benzoic Acid）**：作為一種非必需維生素及葉酸的前體。
+- **來源與功能**：主要由腸道微生物合成，可轉化為葉酸，並具有多種健康益處。
 
----
+### 主要觀念
+1. **PABA的定義**：
+   - PABA是一種非必需維生素，屬於葉酸的前體化合物。
+2. **生物學功能**：
+   - 被腸道微生物轉化為葉酸，提供身體所需。
+3. **來源**：
+   - 綠茶、蘑菇、乳製品、蛋類及動物内脏等食物中含量豐富。
 
-### 主要觀念  
-1. **PABA 的來源**：
-   - 經常被誤認為是 B 群維生素。
-   - 它是一種非必需维生素，因人體無法自行合成，需依賴腸道微生物製造。
-   - 食物來源包括：內臟、乳制品、蛋類、蔬菜和蘑菇。
+### 問題原因
+- **腸道菌群失衡**：使用抗生素或濫用 antibacterial products 可能導致腸道有益微生物數量減少，影響 PABA 的合成。
+- **葉酸 deficiency**：PABA 缺乏可能導致葉酸不足，影響紅血球生成及神經系統健康。
 
-2. **PABA 的功能**：
-   - 作為葉酸的前體。
-   - 舉助保護皮膚免受紫外線傷害（常見於防晒霜）。
-   - 可能有助於治療白癜風（vitiligo），即白癜病。
+### 解決方法
+1. **通過飲食攝取**：
+   - 增加富含 PABA 的食物攝入，如蘑菇、乳製品等。
+2. **益生菌補充**：
+   - 服用益生菌產品以恢復腸道微生物平衡，促進 PABA 的自然合成。
+3. **保健品補充**：
+   - 在醫生建議下，可考慮使用含 PABA 的膳食補充劑。
 
-3. **缺乏的原因**：
-   - 曾使用抗生素，破壞腸道菌群平衡，導致無法有效合成 PABA。
+### 健康建議
+1. **均衡飲食**：
+   - 多攝取富含 PABA 的食物，以確保每日營養需求。
+2. **維持腸道健康**：
+   - 避免濫用抗生素，並攝取富含益生菌的食物或補充劑。
+3. **監測葉酸水平**：
+   - 定期檢查血液中的葉酸濃度，及時調整飲食或治療方案。
 
----
-
-### 問題原因  
-- 抗生素的使用可能破壞腸道微生物，影響 PABA 的合成。
-- 雖然人體能自行製造 PABA，但依賴於intestinal microorganisms，而非直接由肝臟或腎臟合成。
-
----
-
-### 解決方法  
-1. **通過飲食攝取**： 
-   - 消耗富含 PABA 的食物，如內臟、乳制品、蛋類、蔬菜和蘑菇。
-   
-2. **腸道菌群平衡**：
-   - 减少不必要的抗生素使用，以維持腸道微生物健康。
-   - 可考慮補充益生元或益生菌，幫助恢復腸道菌群。
-
----
-
-### 健康建議  
-- 飲食中多攝取富含 PABA 的食物，以補充此 nutrients。
-- 注意抗生素的使用，避免不必要的破壞intestinal flora。
-- 有白癜病或皮膚問題的人，可諮詢醫生是否需要額外補充 PABA。
-
----
-
-### 結論  
-PABA 是一種重要的前 B 胴物質，對皮膚健康和葉酸合成具有重要作用。雖然人體能自行製造，但其依賴於腸道微生物，因此在使用抗生素後或飲食不足時，可能需要通過飲食或補充劑來攝取。
-
----
-
-### 英文原文  
-**PABA (para-amino benzoic acid)** is often mistaken for a B-vitamin, but it is actually a pre-B-vitamin that serves as a precursor to folic acid. Unlike true vitamins, PABA is considered a non-essential vitamin because the body can produce it. However, its synthesis relies on gut microbes rather than being directly manufactured by the body.
-
-**Sources of PABA** include organ meats, dairy products, eggs, vegetables, and mushrooms. **Benefits of PABA** include skin protection against UV radiation, improved skin tone, and potential treatment for vitiligo (a condition characterized by loss of skin pigment). 
-
-**Deficiency in PABA** can occur due to antibiotic use, which disrupts gut microbiota, thereby impairing its synthesis. **Recommendations** include dietary intake of PABA-rich foods and maintaining a healthy gut microbiome through limited antibiotic use and probiotics if necessary.
-
-In conclusion, PABA plays a crucial role in skin health and folic acid production, making it an important nutrient to consider for overall well-being.
+### 結論
+- PABA 是一種重要的前體物質，對葉酸的合成和皮膚健康具有重要作用。雖然人體可自行合成，但腸道菌群失衡等因素可能影響其有效性。通過均衡飲食、益生菌補充及必要時的保健品攝取，可有效確保PABA的充足，從而維護整體健康。
 </details>
 
 <details>
