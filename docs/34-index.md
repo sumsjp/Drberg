@@ -122,35 +122,45 @@
         alt="[Youtube]" width="200">
 </a>
 
-CORE THEME  
-- The primary theme of the article is the critique of conventional medical approaches to treating heartburn and GERD, particularly the overuse of proton pump inhibitors (PPIs), and the promotion of a more holistic approach to digestive health.  
+### 文章整理：心burn治療中醫師常犯的錯誤及其解決方案
 
-MAIN IDEAS  
-- PPIs, such as Nexium and Prilosec, are widely prescribed but have significant side effects.  
-- The root cause of heartburn is often a lack of stomach acid rather than excess acidity.  
-- A weak digestive system can lead to various complications, including poor nutrient absorption and dysbiosis.  
+#### 核心主題
+- **錯誤治療方法**：醫生常使用 proton pump inhibitors (PPIs) 如 Nexium 和 Prilosec 來治療心burn，但此方法存在多項問題。
+- **影響與成本**：PPIs 是全球最暢銷的藥物之一，Nexium 单一藥品在1992年至2017年期間產值超過720億美元。
 
-CAUSE OF THE PROBLEM (PROBLEMS)  
-- Over-reliance on PPIs leads to side effects such as osteoporosis, muscle loss, and infections like C. diff.  
-- Poor dietary choices, including refined grains, sugars, and processed foods, weaken stomach acid production.  
-- Misunderstanding the importance of stomach acidity can lead to improper treatment strategies.  
+#### 主要觀念
+- **胃酸的重要性**：正常胃液pH值應為1至3，高度酸性，有助於殺菌、分解蛋白質及 mineral 吸收。
+- **心burn的真正原因**：病因常被誤診為酸性飲食或高脂肪飲食，實則多數情況是由胃酸不足引發。
 
-SOLUTIONS AND REMEDIES  
-- Restore stomach acidity using natural methods like betaine hydrochloride and apple cider vinegar.  
-- Support bile production with a diet rich in healthy fats and by adding purified bile salts.  
-- Incorporate probiotics to improve digestion and gut health.  
-- Modify the diet to include fermented foods, steamed vegetables, and properly prepared nuts.  
+#### 問題原因
+- **PPIs 的副作用**：
+  - 消化系統問題：腹痛、氣體、便秘。
+  - 骨骼健康：骨質疏鬆、肌肉萎縮（sarcopenia）、小腸細菌過生長（SIBO）、肺結核等。
+  - 心理健康：焦慮，因缺乏胺基酸影響神經傳導物質合成。
+- **現代飲食的影響**：
+  - 高量精緻穀物、糖分及加工食品削弱消化系統功能。
 
-HEALTHY TIPS AND RECOMMENDATIONS  
-- Chew food thoroughly to stimulate digestive enzyme production.  
-- Germinate nuts by soaking them overnight to enhance digestibility.  
-- Avoid raw foods until stomach acidity is restored, as they can be difficult to digest.  
-- Opt for fattier meats over leaner cuts to刺激胆汁分泌.  
+#### 解決方法
+- **增強胃酸分泌**：
+  - 补充 Betaine Hydrochloride 和蘋果醋，恢復適當胃液pH值。
+  - 使用純化膽鹽支持膽囊功能，促進脂肪消化。
+  - 增加益生菌攝取，改善纖維吸收。
+- **飲食調整**：
+  - **食物處理**：蒸煮蔬菜降低抗營養因子（如草酸、植酸、 lectins）影響。避免食用未加工的高纤维食物。
+  - **肉類選擇**：選用肥肉較多的瘦肉，刺激膽汁分泌，改善消化功能。
+  - **豆類處理**：浸泡 nuts 或 pulses 破壞抗營養因子，提高消化效率。
 
-CONCLUSIONS  
-- The article emphasizes the importance of understanding the role of stomach acid in digestion and overall health.  
-- A holistic approach, combining dietary changes and natural remedies, is more effective than relying solely on PPIs.  
-- Educating patients about the true causes of heartburn can lead to long-term solutions rather than temporary relief.
+#### 健康建議
+- **飲食習慣**：
+  - 避免高糖、精緻穀物和加工食品，以防止進一步削弱消化系統。
+  - 慎食生冷蔬菜或未酦酵的纖維食物，以免增加腸道負擔。
+- **生活調整**：
+  - 餐後避免立即躺下，保持直立姿勢至少2小時，有助於防止胃酸倒流。
+  - 腳部抬高（床頭略高）可減少胃酸反流至食道的機會。
+
+#### 結論
+- **傳統治療的局限性**：PPIs 長期使用帶來多項副作用，且未能根本解決心burn問題。
+- **綜合治療的重要性**：結合藥物與生活飲食調整，增強胃酸分泌及消化功能，才能有效根除心burn及其他相關症狀。
 </details>
 
 <details>
@@ -161,33 +171,52 @@ CONCLUSIONS
         alt="[Youtube]" width="200">
 </a>
 
-Key Points and Summary of the Article on Watercress
+### 核心主題  
+- 探讨水蔊菜（Watercress）作为一种十字花科蔬菜的独特营养价值及其对人体健康的多种益处。
 
-Introduction to Watercress:
-- Watercress is a cruciferous vegetable that has not been extensively covered in previous content, prompting the creation of this video.
+---
 
-Nutritional Profile and Phytonutrients:
-- Rich in phytochemicals such as isothiocyanates and sulforaphanes, which exhibit significant anti-cancer properties.
-- Contains vitamin C, which when combined with sulforaphanes, supports collagen and elastin production, contributing to a youthful appearance.
+### 主要觀念  
+1. 水蔊菜富含异硫氰酸盐（isothiocyanates），具有显著的抗癌特性。  
+2. 其中的硫代葡萄糖苷（sulforaphanes）在抗肿瘤方面表现出色。  
+3. 水蔊菜含有大量的维生素C，与胶原蛋白和弹性蛋白结合，有助于延缓衰老并改善皮肤状态。  
+4. 该植物富含类胡萝卜素（carotenoids），包括玉米黄质（zeaxanthin）和叶黄素（lutein），能够过滤有害的蓝光，降低年龄相关性黄斑变性（AMD）的风险。  
+5. 水蔊菜是维生素K1的重要来源，有助于血液凝固功能，预防内部出血。  
+6. 含有锰元素，作为辅助因子在蛋白质合成中起重要作用。  
+7. 丰富的抗氧化剂包括维生素C、维生素E和β-胡萝卜素，具有强大的抗氧化能力。  
+8. 自然产生的硝酸盐（nitrates）对心血管健康有益，可改善动脉弹性并降低血压，同时提升运动表现。
 
-Ocular Benefits:
-- High content of antioxidants like zeaxanthin and lutein, which help filter harmful blue light.
-- Reduces the risk of age-related macular degeneration (AMD), enhancing eye health.
+---
 
-Vitamin K1:
-- Contains substantial amounts of vitamin K1, essential for blood clotting and managing internal bleeding.
+### 問題原因  
+1. 水蔊菜在十字花科蔬菜中未得到充分的讨论和推广，导致其营养价值未被广泛认知。  
+2. 公众对其营养成分及其对人体健康的潜在益处了解不足。  
 
-Mineral Content:
-- Manganese acts as a cofactor in various enzymatic processes, aiding in protein synthesis.
-- Serves as a good source of vitamins C, E, beta-carotene, and other nutrients.
+---
 
-Cardiovascular Health:
-- Naturally occurring nitrates improve arterial health by reducing stiffness and maintaining healthy blood pressure levels.
-- These nitrates enhance exercise performance by increasing oxygen delivery to tissues and improving blood flow.
+### 解決方法  
+1. 通过科学研究和教育宣传，提升公众对水蔊菜营养价值的认知。  
+2. 鼓励将水蔊菜纳入日常饮食中，特别是作为 salads 和健康沙拉的配料。  
 
-Conclusion and HealthRecommendation:
-- Watercress is highly nutrient-dense and offers numerous health benefits, making it a valuable addition to daily diet, particularly in salads.
-- The author encourages viewers to share their success stories with the content via provided links.
+---
+
+### 健康建議  
+1. 将水蔊菜加入日常饮食，尤其是在サラダ、汤品或轻食中。  
+2. 利用水蔊菜的抗氧化和抗炎特性，支持整体健康和慢性病预防。  
+3. 对于运动员或需要提升运动表现的人群，可适量摄入其天然硝酸盐以增强氧气输送能力。  
+
+---
+
+### 理論根據  
+1. 水蔊菜中的硫代葡萄糖苷在人体内转化为异硫氰酸盐，具有抗癌活性。  
+2. 维生素C与胶原蛋白和弹性蛋白的结合机制有助于延缓衰老。  
+3. 类胡萝卜素通过过滤蓝光保护眼睛和皮肤免受氧化应激损伤。  
+4. 硝酸盐在体内转化为一氧化氮（NO），改善血管功能并降低血压。  
+
+---
+
+### 結論  
+水蔊菜作为一种营养密集型的十字花科蔬菜，富含多种对人体健康至关重要的生物活性化合物。通过将其纳入日常饮食，可以有效提升抗氧化能力、支持心血管健康、预防癌症和延缓衰老。科学证据表明，水蔊菜具有广泛的健康益处，值得在膳食中占据重要位置。
 </details>
 
 <details>
@@ -267,47 +296,150 @@ Conclusion and HealthRecommendation:
 </details>
 
 <details>
-<summary>3493. Air Pollution Can Cause Diabetes</summary><br>
+<summary>3493. [2021-06-01] Air Pollution Can Cause Diabetes</summary><br>
 
 <a href="https://www.youtube.com/watch?v=r2Di0C_0Uwk" target="_blank">
     <img src="https://img.youtube.com/vi/r2Di0C_0Uwk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：空氣汙染與糖尿病之關聯及其防禦策略
 
+---
+
+#### 主要觀念：
+1. 空氣污染中的細微顆粒物（Particulate Matter, PM2.5）已被證實會增加患 diabetes 的風險。
+2. PM2.5 是直徑小於 2.5 微米的微小顆粒，可進入肺部、血液，並引發多種健康問題。
+
+---
+
+#### 問題原因：
+1. PM2.5 中含有多種化學物質，來源包括工業、電力廠和汽車等。
+2. 暴露於 PM2.5 會導致血糖紊亂，增加胰島素抵抗風險。
+3. 可能的機制包括全身性炎症、自主神經系統功能障礙、氧化應激或腸道微生物群改變。
+
+---
+
+#### 解決方法：
+1. **禁食（Fasting）**：研究發現，禁食可以完全阻斷 PM2.5 的负面影响，降低胰島素抵抗並提昇對氧化應激的抵抗力。
+   - 禁食可帶來多重健康益處，包括增強免疫系統和促進自噬（Autophagy）。
+
+---
+
+#### 健康建議：
+1. 高汙染環境居民應採取禁食策略，以抵禦 PM2.5 的影響。
+2. 可參考提供的詳細禁食指南，開始實踐此項健康做法。
+
+---
+
+#### 結論：
+空氣污染尤其是 PM2.5 是導致 diabetes 的重要環境因素。然而，通過禁食等簡單有效的措施，可以有效降低其健康風險，特別是對於居住在汙染嚴重地區的人群來說。
 </details>
 
 <details>
-<summary>3492. I Hit 5 Million Subscribers! Thank You!!!</summary><br>
+<summary>3492. [2021-05-31] I Hit 5 Million Subscribers! Thank You!!!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hbBkVwQ4fC0" target="_blank">
     <img src="https://img.youtube.com/vi/hbBkVwQ4fC0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 作者宣布頻道訂閱數達到500萬，感到驚訝與激動。
+- 表達對subscriber的感謝之情。
+- 强調教學和健康教育的熱忱。
 
+### 主要觀念
+1. 頻道訂閱數突破500萬，實現了前所未有的成就。
+2. 作者從未預料到能达到如此高的訂閱量。
+3. 感謝subscriber的支持與反饋。
+4. 教學和健康教育是作者最喜歡的活動之一。
+5. 作者熱衷於研究人體生理學並以簡單的方式傳授知識。
+
+### 啊，結論
+- 表達對未來目標（1000萬訂閱）的信心與期待。
 </details>
 
 <details>
-<summary>3491. Diabetic's High Sugar Coming From Another Source</summary><br>
+<summary>3491. [2021-05-31] Diabetic's High Sugar Coming From Another Source</summary><br>
 
 <a href="https://www.youtube.com/watch?v=K59U4n2PIhg" target="_blank">
     <img src="https://img.youtube.com/vi/K59U4n2PIhg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題 (Core Theme)
+- **Gluconeogenesis**: 腳糖生成（gluconeogenesis）是身體從非碳水化合物來源（如脂肪和蛋白質）生成葡萄糖的過程。  
+  - *Definition*: Gluconeogenesis is the metabolic process by which the body generates glucose from non-carbohydrate sources such as fat and protein.
 
+### 主要觀念 (Key Concepts)
+- **血糖來源**：糖尿病患者的高血糖不僅來自於攝入的糖分，更主要來源於身體自身生成的葡萄糖。  
+  - *Main Source of Blood Sugar*: High blood sugar in diabetics is not solely due to dietary sugar but significantly from gluconeogenesis.
+- **胰島素抵抗**：糖尿病患者普遍存在胰島素抵抗（insulin resistance），導致胰島素功能失常，無法有效抑制足糖生成。  
+  - *Insulin Resistance*: Insulin resistance is the underlying issue, as insulin fails to regulate gluconeogenesis effectively.
+
+### 問題原因 (Underlying Causes)
+- **胰島素失衡**：高血糖的主因是胰島素抵抗而非血液中胰岛素水平高低。  
+  - *Imbalance in Insulin*: The primary cause is insulin resistance, not necessarily high or low blood insulin levels.
+- **足糖生成過度活躍**： diabetic bodies exhibit enhanced gluconeogenesis due to insulin dysfunction.  
+  - *Overactive Gluconeogenesis*: Diabetic bodies produce excessive glucose through gluconeogenesis.
+
+### 解決方法 (Solutions)
+- **改善胰島素抵抗**：透過飲食調整（如生酮diet）和生活方式改變（如有氧運動、間歇性禁食）來降低胰岛素抵抗。  
+  - *Improving Insulin Sensitivity*: Focus on addressing insulin resistance through dietary changes (e.g., ketogenic diet) and lifestyle modifications.
+- **低糖飲食**：限制 carbohydrate 取，選擇低碳水化合物飲食以減少血糖來源。  
+  - *Low-Carb Diet*: A low-carbohydrate diet can reduce the reliance on glucose production.
+
+### 健康建議 (Health Recommendations)
+- **生酮飲食與間歇性禁食**：這些方法能有效降低胰岛素抵抗並改善血糖控制。  
+  - *Ketogenic Diet and Intermittent Fasting*: These approaches are recommended to improve insulin resistance and blood sugar levels.
+- **持續與耐心**：恢復胰島素敏感性和改善血糖水平需要數月甚至一年的時間，需保持耐心和堅持。  
+  - *Consistency and Patience*: Improving insulin sensitivity and blood sugar levels require months or even a year of consistent effort.
+
+### 結論 (Conclusion)
+- **飲食與生活方式的重要性**：了解足糖生成的機制對於糖尿病管理至關重要，並且飲食和生活方式的調整可以顯著改善血糖控制。  
+  - *Importance of Diet and Lifestyle*: Understanding gluconeogenesis is crucial for diabetes management, and dietary and lifestyle changes can significantly improve blood sugar control.
+
+### 补充資源 (Supplementary Resources)
+- **免費課程**：提供如何增強免疫力的免費課程，幫助身體更好地應對外界環境。  
+  - *Free Course*: A free course on "how to bulletproof your immune system" is available to enhance resilience against environmental factors.
 </details>
 
 <details>
-<summary>3490. Low Vitamin D Linked to Depressed Teens</summary><br>
+<summary>3490. [2021-05-31] Low Vitamin D Linked to Depressed Teens</summary><br>
 
 <a href="https://www.youtube.com/watch?v=aN7n7ZA-CPw" target="_blank">
     <img src="https://img.youtube.com/vi/aN7n7ZA-CPw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 1. 核心主題  
+- 維生素D缺乏在青少年中的普遍存在及其與抑鬱症狀的密切關聯性。  
 
+### 2. 主要觀念  
+- 維生素D不足會導致情緒障礙，包括抑鬱、希望lessness、興趣喪失、集中力下降甚至自殺念頭。  
+- 青少年因室內活動增多、飲食不均衡等原因，普遍存在維生素D缺乏問題。  
+- 其他影響維生素D吸收的因素包括高碳水化合物飲食、果糖攝入過多、超重或肥胖以及皮膚色素沉著。  
+
+### 3. 問題原因  
+- 現代青少年生活方式改變，導致接觸紫外線機會減少。  
+- 高碳水化合物飲食和高果糖攝入阻礙維生素D吸收。  
+- 超重或肥胖加重對維生素D的需求並影響其吸收效果。  
+- 有色人種因皮膚色素沉著影響紫外線吸收能力。  
+
+### 4. 解決方法  
+- 高劑量維生素D補充（建議10,000 IU）。  
+- 补充鎂和维生素K2以增強維生素D的生物利用率。  
+- 生活方式調整，包括增加戶外活動、限制零食攝取、實行間歇性禁食。  
+
+### 5. 健康建議  
+- 鼓勵青少年減少電子產品使用時間，增加戶外曝曬以促進維生素D合成。  
+- 調整飲食結構，增加蔬菜攝取量，降低高碳水化合物和高果糖食物的攝入。  
+- 維持健康體重，降低對維生素D的需求壓力。  
+
+### 6. 結論  
+- 青少年抑鬱症狀與维生素D缺乏密切相關，早期診斷和干預至關重要。  
+- 推廣簡單的生活方式調整和營養補充策略，可有效改善青少年的心理健康狀況。
 </details>
 
 <details>
@@ -322,69 +454,330 @@ Conclusion and HealthRecommendation:
 </details>
 
 <details>
-<summary>3488. The First Sign of a Zinc Deficiency is...</summary><br>
+<summary>3488. [2021-05-30] The First Sign of a Zinc Deficiency is...</summary><br>
 
 <a href="https://www.youtube.com/watch?v=neuWm45EnI4" target="_blank">
     <img src="https://img.youtube.com/vi/neuWm45EnI4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：缺鋅的早期跡象與健康影響
 
+#### 核心主題
+- **缺鋅的早期跡象**  
+  文章圍繞缺鋅的早期症狀、其對身體功能的影響以及相關的健康建議展開討論。
+
+#### 主要觀念
+1. **缺鋅的多樣化影響**  
+   - 鋪寫性器官發育問題。
+   - 癥疾（anorexia）。
+   - 組織壞死。
+   - 皮膚問題。
+   - 消化系統問題。
+   - 易感染病毒、細菌。
+   - 論 baldness。
+   - 醽病。
+
+2. **抗氧化劑的依賴性**  
+   - 鋅是特定抗氧化劑（如谷胱甘肵、α-tocopherol 和催化酶）的重要組成部分。
+   - 這些抗氧化劑負責清除活性氧（ROS），維持細胞健康。
+
+3. **心臟組織的脆弱性**  
+   - 心臟組織是ROS的主要來源，但其抗氧化能力較低。
+   - 頻繁的氧化應激導致心臟病成為主要死因。
+
+#### 問題原因
+- **缺鋅的潛在影響**  
+  - 心臟病的高發率部分歸因於缺鋅引起的ROS清除能力降低。
+  - 短暫運動後的呼吸困難（如爬樓梯後氣短）可能是缺鋅的早期症狀。
+
+#### 解決方法
+- **補充鋅元素**  
+  - 適當攝入含鋅食物或サプリメント以維持身體所需的鋅水平。
+  - 調整飲食結構，減少糖分攝取，避免干擾鋅的吸收。
+
+#### 健康建議
+1. **生活方式調整**  
+   - 減少糖分攝取，降低缺鋅風險。
+   - 定期進行身體檢查，特別是心臟健康相關的檢測。
+
+2. **抗氧化劑補充**  
+   - 通過飲食或サプリメント增加抗氧化劑攝入，保護心臟免受氧化應激傷害。
+
+3. **教育與意識提升**  
+   - 學習關於微量元素（如鋅）對身體功能的重要作用。
+   - 識別早期症狀，及時採取措施。
+
+#### 結論
+- 鋅在維持身體健康中扮演著關鍵角色，其缺乏會導致多種問題，尤其是心臟病和氧化應激相關的疾病。
+- 早期識別缺鋅的症狀（如運動後氣短）並採取相應措施，可以有效降低健康風險。
 </details>
 
 <details>
-<summary>3487. Fasting Lowers Blood Pressure</summary><br>
+<summary>3487. [2021-05-29] Fasting Lowers Blood Pressure</summary><br>
 
 <a href="https://www.youtube.com/watch?v=u7By5qxQ6M4" target="_blank">
     <img src="https://img.youtube.com/vi/u7By5qxQ6M4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Structured Abstract of the Article on Fasting and Hypertension
 
+#### Core Theme:
+The article explores the role of fasting in managing high blood pressure (hypertension) and discusses its underlying mechanisms, particularly focusing on insulin resistance and metabolic factors.
+
+#### Key Concepts:
+1. **Hypertension Overview**:
+   - Hypertension is a prevalent condition often asymptomatic until tested.
+   - It is categorized into primary (lifestyle-related) and secondary hypertension, with 95% of cases being primary.
+
+2. **Traditional Dietary Recommendations**:
+   - Current guidelines suggest consuming fruits, vegetables, whole grains, limiting fats to less than 30% of calories, avoiding saturated fats, and restricting simple sugars to 10% of daily intake.
+   - This equates to about 50 grams or 12 teaspoons of sugar per day.
+
+#### Problem Analysis:
+- **Medication Limitations**:
+  - The Sprint Trial (2015) highlighted that while multiple medications improve survival rates, they significantly increase the risk of kidney disease, particularly in severe cases.
+  
+- **Insulin Resistance and Metabolic Syndrome**:
+  - High insulin levels due to insulin resistance contribute to arterial stiffness, a primary cause of hypertension.
+  - Conditions like metabolic syndrome (syndrome X) are linked to hyperinsulinemia.
+
+#### Solutions and Interventions:
+1. **Fasting**:
+   - Fasting is identified as an effective method to lower insulin levels, thereby reducing arterial stiffness and improving blood pressure control.
+   - A medically supervised study showed a 90% success rate in lowering blood pressure with fasting.
+
+2. **Nutritional Supplements**:
+   - **Vitamin D**: Plays a role in regulating blood pressure.
+   - **Potassium**: Essential for maintaining arterial flexibility; deficiency leads to stiffness.
+   - **Vitamin K2**: Helps remove excess calcium from arteries, improving elasticity.
+   - **Magnesium**: Supports cardiovascular health and can be obtained through diet or supplements like magnesium orotate.
+
+#### Health Recommendations:
+- Implement intermittent fasting to address insulin resistance.
+- Combine fasting with a low-carb diet for enhanced benefits.
+- Incorporate vitamin D, potassium, vitamin K2, and magnesium into the diet.
+- Consult healthcare providers when adjusting medications alongside these interventions.
+
+#### Conclusion:
+Fasting emerges as a potent strategy to manage hypertension by targeting insulin resistance. Integrating fasting with targeted nutritional supplements can effectively lower blood pressure and reduce reliance on medications. The article emphasizes the importance of lifestyle modifications in preventing and treating hypertension, highlighting the need for further research into complementary therapies.
+
+#### Additional Information:
+- The author encourages viewers to enroll in a free course on bulletproofing the immune system, emphasizing the importance of strengthening internal defenses against external health challenges.
 </details>
 
 <details>
-<summary>3486. Your Liver is Making Your Body Stiff</summary><br>
+<summary>3486. [2021-05-28] Your Liver is Making Your Body Stiff</summary><br>
 
 <a href="https://www.youtube.com/watch?v=QJ7RzgTToLA" target="_blank">
     <img src="https://img.youtube.com/vi/QJ7RzgTToLA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 肝臟功能障礙與關節僵硬及炎症性疾病的關聯。
+
+#### 主要觀念
+1. **肝臟功能失常導致膽汁淤積（Coleostasis）**：膽汁流動受阻會引發全身性炎症，並影響脂溶性維生素的吸收。
+2. **脂溶性維生素缺乏**：
+   - **Vitamin D**：不足會導致關節僵硬和背部疼痛。
+   - **Vitamin K2**：缺乏會使鈣質在血管和關節中沉積，而非骨骼。
+   - **Vitamin E**：抗氧化作用受影響，無法有效抵消自由基的危害。
+3. **脂肪酸失衡**：
+   - 過多的ω-6脂肪酸（常見於加工食品）會加重炎症反應。
+
+#### 問題原因
+1. **膽汁流動障礙**：膽道堵塞或膽汁濃度過高導致膽汁淤積。
+2. **脂溶性維生素吸收不良**：肝臟功能受損影響膽汁分泌，進而影響維生素吸收。
+3. **脂肪酸不平衡**：高ω-6脂肪酸攝入加劇炎症。
+
+#### 解決方法
+1. **補充純化的 bile salts**：
+   - 建議劑量：每日2次，每次1-2粒，空腹服用。
+   - 功效：改善膽汁流動，緩解 stiffness 和疼痛。
+2. **健康酮osis 與間歇性禁食**：
+   - 促進肝臟健康，改善脂肪肝及其他肝問題。
+3. **限制ω-6脂肪酸攝取**：
+   - 避免油炸食品、加工食品中常見的豆油和玉米油。
+4. **實施禁食（Fasting）**：
+   - 啟動自噬作用，清除肝臟損傷組織，修復功能。
+
+#### 健康建議
+1. **針對骨關節炎患者**：
+   - 保持關節活動性與平衡：推薦使用 August Q 方法。
+2. **提升免疫力**：
+   - オンラインコース「如何加固免疫系統」提供詳細指導。
+
+#### 結論
+肝臟健康直接影響全身炎症反應和關節健康。通過改善膽汁流動、調整飲食結構、禁食修復等方法，可有效緩解 stiffness 和相關疼痛，提升整體健康狀況。
+
+---
+
+### 總結性段落  
+文章強調了肝臟功能障礙對關節僵硬及炎症性疾病的重要影響，特別是膽汁淤積和脂溶性維生素缺乏的作用。建議通過補充BILE salts、健康酮osis、間歇性禁食等方法改善肝臟健康，並推薦 August Q 方法來管理骨關節炎。最後，文章提醒讀者關注免疫系統的強化，以提升對外界環境的抵抗力。
 </details>
 
 <details>
-<summary>3485. What Dr. Berg Eats</summary><br>
+<summary>3485. [2021-05-27] What Dr. Berg Eats</summary><br>
 
 <a href="https://www.youtube.com/watch?v=2AyFdr3Fd0c" target="_blank">
     <img src="https://img.youtube.com/vi/2AyFdr3Fd0c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：健康飲食與生活方式的核心要素
 
+---
+
+#### **核心主題**
+- 本文圍繞健康飲食的核心要素展開討論，強調通過合理的飲食結構和生活習慣來提升整體健康狀況。
+
+---
+
+#### **主要觀念**
+1. **均衡飲食的重要性**  
+   - 强調蔬菜、脂肪、蛋白質的合理搭配。
+   - 蔬菜應選擇新鮮、有機且 nutrient-dense 的種類，如自 trồng或來自可靠農場的產品。
+2. **健康脂肪的來源**  
+   - 倡導使用高質量的食用油，如意大利特級初榨橄欖油，並偏好天然動植物脂肪（如牛肉板油）。
+3. **蛋白質的選擇**  
+   - 推薦攝取高品質、低碳比例的蛋白質來源，如野生鮭魚、山羊奶酪、無糖酸奶和雞蛋。
+
+---
+
+#### **問題原因**
+1. **現代飲食的缺陷**  
+   - 高糖、高加工食品的攝入導致營養失衡。
+   - 快餐文化的盛行影響了健康飲食習慣的形成。
+2. **環境與食物質量的挑戰**  
+   - 化肥和 pesticides 的使用降低了食物的營養價值並潛在危害健康。
+
+---
+
+#### **解決方法**
+1. **飲食結構的調整**  
+   - 增加蔬菜攝取量，尤其是 nutrient-dense 的種類。
+   - 替換為高品質脂肪來源，避免反式脂肪和加工油。
+2. **食物來源的選擇**  
+   - 選擇有機、本地生產的新鮮食品。
+   - 建立自家菜園以確保食物的新鮮度和營養價值。
+3. **健康習慣的養成**  
+   - 減少外出就餐，增加家裡Cooking時間。
+   - 學習廚藝，享受烹飪樂趣，提高飲食質量。
+
+---
+
+#### **健康建議**
+1. **蔬菜攝取建議**  
+   - 每日攝取 8-10杯新鮮蔬菜，優先選擇自 trồng或本地有機產品。
+2. **脂肪攝取建議**  
+   - 使用初榨橄欖油、牛油果和椰子油等健康脂肪來源。
+3. **蛋白質攝取建议**  
+   - 選擇低碳比例的蛋白質，如野生鮭魚、山羊奶酪和雞蛋。
+4. **生活習慣建議**  
+   - 建立規律的飲食時間，避免暴饮暴食。
+   - 保持活躍的生活方式，結合力量訓練和有氧運動。
+
+---
+
+#### **結論**
+- 健康飲食不僅僅是攝取新鮮食物，更是一種生活態度的體現。  
+- 通過合理搭配、選擇高品質食物並養成良好的飲食習慣，可以顯著提升整體健康水平。  
+- 加強自身免疫系統的功能，是抵抗外界環境影響的最佳策略。
+
+---
+
+### 摘要
+本文探討了健康飲食的核心要素，強調蔬菜、脂肪和蛋白質的合理搭配，建議選擇高品質、nutrient-dense 的食物來源，並養成良好的飲食習慣。文章指出現代飲食的缺陷在於高糖、高加工食品的攝入及環境因素對食物質量的影響，並提供具體的解決方案，包括增加蔬菜攝取量、使用健康脂肪來源、選擇有機食物以及建立自家菜園。最終結論認為，健康飲食不僅是攝取新鮮食物，更是一種生活態度的體現，可顯著提升整體健康水平。
 </details>
 
 <details>
-<summary>3484. Smartphone Effects on the Brain in Children and Teens</summary><br>
+<summary>3484. [2021-05-27] Smartphone Effects on the Brain in Children and Teens</summary><br>
 
 <a href="https://www.youtube.com/watch?v=4MkvheUw2wk" target="_blank">
     <img src="https://img.youtube.com/vi/4MkvheUw2wk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：青少年和兒童手機成癮及其健康影響
 
+#### 主要觀念：
+1. 手機成癮在青少年和兒童中普遍存在。
+2. 研究表明，手機使用對大腦結構和功能有不良影響，包括灰質、insula和temporal cortex的變化，這些區域與情緒、語言、記憶和自控有關。
+3. 手機關聯的問題包括注意力分散、社交互動減少、失眠以及身體健康問題如生育能力受損。
+
+#### 問題原因：
+1. 高開機率：78%的青少年每小時查看設備一次， distraction 和注意力不集中現象常見。
+2. 即時回應需求：高達72%的青少年感覺需要立即回覆短信和社交媒體通知，導致多任務處理能力下降。
+3. 藍光干擾：手機屏幕發出的藍光影響褪黑激素分泌，干擾睡眠周期。
+4. 電磁場（EMF）暴露：手機使用的電磁輻射可能影響大腦功能、心臟健康和生育能力。
+
+#### 解決方法：
+1. **避免直接接觸**：不將手機放在耳朵或枕邊，使用揚聲器模式或具備空間的耳機。
+2. **限制藍光 exposure**：在睡前2-3小時內避免使用電子產品。
+3. **EMF防護措施**：使用防輻射殼，保持手機與身體距離。
+
+#### 健康建議：
+1. **強化免疫系統**：通過健康飲食、運動和充足睡眠來增強自身抵抗力。
+2. **環境管理**：評估並改善居住環境中的電磁輻射問題，例如重新佈線以降低磁場干擾。
+3. **心理調適**：鼓勵面對面交流，減少對手機的依賴。
+
+#### 總結：
+手機成癮和過度使用對青少年和兒童的身心健康造成多方面影響。通過限制手機使用時間、避免直接接觸頭部、使用防輻射裝置以及強化自身免疫系統等措施，可以有效降低這些問題的風險。家長和教育者應共同努力，為年輕人創造更健康的數位環境。
 </details>
 
 <details>
-<summary>3483. Why Did I Get PCOS (Polycystic Ovarian Syndrome)?</summary><br>
+<summary>3483. [2021-05-26] Why Did I Get PCOS (Polycystic Ovarian Syndrome)?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DoC21ItfQbM" target="_blank">
     <img src="https://img.youtube.com/vi/DoC21ItfQbM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：多囊卵巢綜合征（PCOS）的解析與管理
 
+#### 核心主題  
+- 多囊卵巢綜合征（Polycystic Ovarian Syndrome, PCOS）是一種常見的内分泌 disorder，影響女性的生殖健康和整體 wellbeing。
+
+#### 主要觀念  
+1. **定義與概念**：  
+   - PCOS 的名稱雖包含「多囊」，但實際上卵巢中並非充滿 cyst（ettes），而是存在許多小的未成熟卵泡（follicles）。  
+   - 它被歸類為 syndrome，意味著它是一組症狀的集合，而非單一疾病。
+
+2. **症狀與表現**：  
+   - 月经不規則或延長周期。  
+   - 雄性激素水平升高（如睾酮）導致的症狀，包括多毛、痤瘡、皮脂分泌增加。  
+   - 疲勞、注意力不集中等全身性症狀。  
+   - 腸漏症候群（Leaky Gut Syndrome）可能與其發病機制相關。
+
+#### 問題原因  
+- **高胰島素血症**：  
+  - PCOS 的核心問題在於高胰島素血症，即血液中胰島素水平過高。這導致身體對胰島素的抵抗性增加（insulin resistance），進而影響激素平衡和生殖功能。  
+  - 高胰岛素水平刺激卵巢分泌更多雄性激素（androgens），並干擾卵泡成熟和排卵。
+
+#### 解決方法  
+1. **藥物治療**：  
+   - 使用二甲雙胍（Metformin）來改善胰島素抵抗，降低血液中的胰島素水平。  
+
+2. **飲食與生活方式調整**：  
+   - 采用健康的生酮飲食（Healthy Keto Diet）和間歇性禁食（Intermittent Fasting）來控制血糖和胰島素水平。  
+   - 減少精制糖和高碳水化合物的攝取，以降低胰岛素分泌。  
+
+3. **其他干預**：  
+   - 調理腸道健康，改善菌群平衡，以减少炎症反應和激素紊亂。  
+
+#### 健康建議  
+- 定期監測血糖和胰島素水平，並根據醫生建議調整治療方案。  
+- 適當運動，特別是有氧運動和力量訓練，有助於提高胰島素敏感性。  
+- 管理壓力，通過冥想、瑜伽等方式降低 cortisol 水平，從而間接改善胰岛素抵抗。  
+
+#### 结論  
+- PCOS 的核心問題在於高胰岛素血症引發的激素失衡。  
+- 通過控制血糖、調整飲食結構和生活方式，可以有效管理症狀並改善整體健康狀況。  
+- 長期來看，針對根源（如胰島素抵抗）進行干預是關鍵，而非僅依賴於症狀治療。
 </details>
 
 <details>
