@@ -10,113 +10,577 @@
 </details>
 
 <details>
-<summary>1399. How To Spot a Fad Diet? – Dr. Berg</summary><br>
+<summary>1399. [2018-03-14] How To Spot a Fad Diet? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=K--NZDSZs1o" target="_blank">
     <img src="https://img.youtube.com/vi/K--NZDSZs1o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 探讨如何识别“fad diet”（风潮饮食）。  
 
+### 主要觀念  
+1. **fad diet** 的定义与特征：  
+   - 通常低碳水化合物，偏离传统食物金字塔。  
+   - 过度限制或排除某类食物。  
+   - 强调快速效果、简单易行，依赖个人成功故事而非科学证据。  
+
+2. **问题所在**：  
+   - 当前fad diet的定义可能未能充分反映其对长期健康的影响。  
+
+### 問題原因  
+- 现有fad diet标准可能过于侧重于短期效果和市场宣传，忽视了饮食模式的可持续性和科学性。  
+
+### 解決方法  
+1. **重新定义fad diet**：  
+   - 强调饮食计划是否能带来长期健康结果。  
+
+2. **建议评估标准**：  
+   - 是否符合营养学原理。  
+   - 是否具备足够的科学研究支持。  
+   - 是否具有可持续性，而非追求快速效果。  
+
+### 健康建議  
+1. 选择均衡饮食模式，包含多类食物（如全谷物、蔬菜、蛋白质）。  
+2. 谨慎评估声称“快速减肥”或“逆转疾病”的饮食计划。  
+3. 寻求基于科学证据的营养建议，避免盲目跟风。  
+
+### 結論  
+- 需要重新审视fad diet的定义，更加注重其对长期健康的影响。  
+- 科学、可持续的饮食模式才是实现健康的关键。  
+
+---
+
+### 英文摘要  
+The article discusses how to identify a fad diet, highlighting key characteristics such as low-carb focus, deviation from traditional food pyramids, excessive restrictions on food groups, and reliance on anecdotal success stories. The main issue identified is that current definitions of fad diets may not adequately consider their impact on long-term health. The proposed solution is to redefine fad diets as those that do not provide sustainable healthy outcomes. Recommendations include adopting balanced diets, avoiding overly restrictive plans, and prioritizing scientifically supported nutrition advice. In conclusion, a redefinition of fad diets focusing on long-term health benefits is necessary for better dietary guidance.
 </details>
 
 <details>
-<summary>1398. When Should I Stop Eating on Keto? – Dr. Berg</summary><br>
+<summary>1398. [2018-03-14] When Should I Stop Eating on Keto? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=J77zqK2CkLk" target="_blank">
     <img src="https://img.youtube.com/vi/J77zqK2CkLk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 重點整理
 
+#### 核心主題  
+- 探讨在不同饥饿水平下停止进食的最佳时机。  
+
+#### 主要觀念  
+1. ** hunger scales**:  
+   - 饑饿程度分为 starving（极度饥饿）、hungry（普通饥饿）和 satisfied（吃饱）。  
+   - 在 intermittent fasting 中，饥饿感会影响饮食习惯和饱腹感的判断。  
+
+2. ** insulin resistance 的影響**:  
+   - 胰岛素抵抗会导致营养吸收不畅，使人感到未被充分满足，从而促使继续进食。  
+
+3. **overeating 的問題**:  
+   - 长期禁食后过度进食可能导致消化不适、睡眠干扰和代谢压力。  
+
+#### 問題原因  
+- **胰岛素抵抗**：导致营养物质吸收不足，引发持续饥饿感。  
+- **过度进食**：由于长时间禁食后的补偿性暴饮暴食，带来消化系统负担。  
+- **饮食习惯**：在 intermittent fasting 中，人们对下一餐的预期影响了当前的进食量。  
+
+#### 解決方法  
+1. **饮食策略**:  
+   - 学会识别真正的饥饿信号，避免过度进食。  
+   - 使用ungerade 等工具或方法来帮助判断饱腹感。  
+
+2. **消化支持**:  
+   - 消化酶（如 Betaine Hydrochloride）和苹果醋可以帮助加速消化，缓解过度进食后的不适。  
+
+3. **心理调整**:  
+   - 建立对饥饿和饱腹的正确认知，增强自信心，避免因禁食而产生的焦虑或补偿性进食。  
+
+#### 健康建議  
+- 逐步适应 intermittent fasting，避免突然延长禁食时间。  
+- 在进行 intermittent fasting 时，注意倾听身体信号，适时调整饮食量。  
+- 准备一些健康的零食，以应对可能出现的饥饿感。  
+
+#### 結論  
+- 合理控制进食量，避免过度饥饿或饱腹是实现健康饮食的关键。  
+- 使用辅助工具和支持方法可以有效改善消化功能和整体代谢健康。
 </details>
 
 <details>
-<summary>1397. High Insulin or High Glucose Levels, What's Worse? – Dr. Berg</summary><br>
+<summary>1397. [2018-03-13] High Insulin or High Glucose Levels, What's Worse? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=e9B4D7GBHNE" target="_blank">
     <img src="https://img.youtube.com/vi/e9B4D7GBHNE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理與歸納
 
+---
+
+#### 核心主題  
+- 比較高胰島素水平與高血糖（糖尿病）的影響。  
+- 探讨高胰岛素血症及其后续健康問題。  
+
+---
+
+#### 主要觀念  
+1. **胰島素的作用與代謝鏈**  
+   - 高胰岛素水平會導致胰島素抵抗（前期糖尿病）。  
+   - 胰島素抵抗進一步發展為高血糖（糖尿病）。  
+
+2. **高胰岛素的直接與間接影響**  
+   - **直接影響**：  
+     - 心臟肥大（心肌肥厚），可能引發心臟結構異常。  
+     - 动脈粥樣硬化，導致血栓 formations，增加心臟病和中風風險。  
+     - 炎症反應亢進，與代謝綜合徵、脂肪肝、肥胖和癌症相關。  
+   - **間接影響**：  
+     - 腎臟神經損害（糖尿病視網膜病變）。  
+
+3. **高血糖的後果**  
+   - 糖尿病患者的血液中胰島素水平可能仍處於高位，但因胰島β細胞功能受損而需外源補充。  
+
+---
+
+#### 問題原因  
+- 高胰岛素血症通常由以下因素導致：  
+  - 腸道菌群失衡。  
+  - 經常攝入高糖和精製碳水化合物。  
+  - 生活方式不健康，缺乏運動。  
+
+---
+
+#### 解決方法  
+1. **降低胰島素水平**  
+   - 減少精制糖和高升糖指数食物的攝取。  
+   - 增加膳食纖維攝取，穩定血糖波动。  
+   - 進行規律運動，提高胰島素敏感性。  
+
+2. **糖尿病患者的管理**  
+   - 控制藥物使用量，降低對外源胰島素的依賴。  
+   - 維持健康體重，改善代謝功能。  
+
+---
+
+#### 健康建議  
+- 非糖尿患者應避免攝入刺激胰島素分泌的食物（如高糖和精製碳水化合物）。  
+- 糖尿病患者需密切監測血糖和胰島素使用量，以降低併發症風險。  
+
+---
+
+#### 結論  
+- 高胰岛素血症比高血糖更具危害性，因其直接引發多種代謝異常和慢性疾病（如心臟病、中風、糖尿病）。  
+- 早期干預高胰岛素血症可有效降低相關健康問題的風險。  
+
+---
+
+**參考資源**：影片中提到的具體飲食調整方法和進一步閱讀材料已提供鏈接供參閱。
 </details>
 
 <details>
-<summary>1396. The Main Cause of Upper Back Pain is NOT Coming From Your Back – Dr. Berg</summary><br>
+<summary>1396. [2018-03-13] The Main Cause of Upper Back Pain is NOT Coming From Your Back – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=NX0YkXzplAk" target="_blank">
     <img src="https://img.youtube.com/vi/NX0YkXzplAk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：  
+- 背部疼痛的原因與治療  
 
+### 主要觀念：  
+1. **背部疼痛的常見位置**：  
+   - 上背部、肩胛區域。  
+2. **傳統治療方法的局限性**：  
+   - 骨骼 manipulation 和 adjustment 通常無法持續解決問題。  
+3. **痛症的來源**：  
+   - 痛楚可能源自內臟器官，而非僅限於肌肉或骨骼結構。  
+
+### 問題原因：  
+1. **上背部及右肩胛區域疼痛**：  
+   - 肌肉過度緊張（如菱形肌）。  
+   - 胆囊問題（膽汁淤積或膽囊炎症），導致神經性反射痛。  
+2. **左肩胛及胸腔區域疼痛**：  
+   - 胰腺或胃部問題，可能與不良飲食習慣有關。  
+   - 心臟病變的可能（如心絞痛）。  
+3. **腰部或背部輕微下陷部位疼痛**：  
+   - 可能為腎臟問題（如腎石症）。  
+
+### 解決方法：  
+1. **飲食調整**：  
+   - 減少精製糖、高脂肪和高蛋白質的結合攝取。  
+   - 控制碳水化合物攝量，避免血糖波動。  
+2. **生活方式改變**：  
+   - 避免過度攝入油炸食品、加工食品及油膩食物。  
+3. **醫療諮詢**：  
+   - 如持續背痛不明原因，建議就醫檢查相應器官（如肝臟、膽囊、胰腺、腎臟等）。  
+
+### 健康建議：  
+1. **定期自我檢查**：  
+   - 注意背部疼痛的具體位置及特性。  
+2. **飲食選擇**：  
+   - 採用低醣、均衡飲食，增加膳食纖維攝取。  
+3. **避免不良飲食習慣**：  
+   - 減少零食和垃圾食品攝取，避免暴飲暴食。  
+
+### 結論：  
+- 背部疼痛可能反映內臟器官的健康問題，尤其是膽囊、胰腺或腎臟功能異常。  
+- 遥遠飲食習慣的調整可以有效緩解相關症狀。  
+- 如疑有器質性問題，建議及時就醫檢查並配合治療。
 </details>
 
 <details>
-<summary>1395. What Are Advanced Glycation End Products (AGEs)? – Dr. Berg</summary><br>
+<summary>1395. [2018-03-12] What Are Advanced Glycation End Products (AGEs)? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=oZuK8ajA5iE" target="_blank">
     <img src="https://img.youtube.com/vi/oZuK8ajA5iE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 介紹AGEs（Advanced Glycation End-products，晚期糖基化終產物）及其對人體健康的影響。
+- 探讨AGEs在高血糖環境下與蛋白質或脂肪結合形成的有害化合物。
+- 强調AGEs在多種疾病中的作用，包括神經退行性疾病、糖尿病併發症等。
+
+#### 主要觀念
+1. AGEs的定義：AGEs是糖分在體內與蛋白質或脂肪反應後形成的高反應性化合物。
+2. AGEs的特性：AGEs具有黏附性，會堵塞微小血管，導致組織損傷。
+3. AGEs的來源：
+   - 髫血糖環境下体内自然形成。
+   - 遊牧式飲食中糖分與蛋白質或脂肪結合後生成。
+
+#### 問題原因
+- 高血糖水平：長期高血糖會增加AGEs在體內的產生。
+- 不健康的飲食習慣：攝入過多含糖食物，特別是糖分與蛋白質或脂肪共同存在的食物（如醤油、炸食品等）。
+
+#### 解決方法
+1. **飲食調整**：
+   - 避免食用高糖食品。
+   - 避免將糖分與蛋白質或脂肪混合攝取。
+2. **營養補充**：
+   - 維生素C：具有抗氧化作用，可防止AGEs造成的損傷。
+   - Benfotiamine：一種脂溶性B族維生素，能夠保護神經和眼睛免受損害。
+   - B6、α-菸酸胺酸（ALA）：有助於預VENTAGEs的形成。
+   - 菲醌營養素：具有抗氧化作用，可幫助預VENTAGEs引起的損傷。
+
+#### 健康建議
+1. **飲食建議**：
+   - 減少糖分攝取。
+   - 避免將糖分與蛋白質或脂肪混合食用（如糖醋 ribs、油炸食品等）。
+2. **營養補充建议**：
+   - 維生素C：每日攝取足夠的維生素C以幫助抗氧化。
+   - Benfotiamine：按劑量攝取，尤其是針對神經和眼睛健康。
+3. **生活方式建議**：
+   - 保持健康飲食習慣，避免高糖食品。
+   - 適度運動，控制血糖水平。
+
+#### 結論
+AGEs是導致多種疾病的重要因素，特別是在高血糖環境下。通過調整飲食、攝取抗氧化營養素和維生素補充劑，可以有效預VENTAGEs的形成及其造成的損害。健康的生活方式是預防AGEs相關疾病的關鍵。
+
+---
+
+### 參考資料
+- 本文整理自Dr. Berg的視頻內容，未提供具體來源，建議進一步查證相關研究文獻以獲取更可靠的科學依據。
 </details>
 
 <details>
-<summary>1394. What Happens When Your Fat Cells Become Insulin Resistant? – Dr. Berg</summary><br>
+<summary>1394. [2018-03-12] What Happens When Your Fat Cells Become Insulin Resistant? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=pYJPna_oEwc" target="_blank">
     <img src="https://img.youtube.com/vi/pYJPna_oEwc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Core Theme: Insulin Resistance in Fat Cells and Its Implications on Metabolism
 
+#### Main Concepts:
+1. **Insulin Resistance**: A condition where cells fail to respond effectively to insulin, leading to impaired glucose uptake.
+2. **Fat Cell Function**: Fat cells (adipocytes) play a crucial role in storing fat as triglycerides. Insulin resistance in these cells disrupts this process.
+
+#### Causes of the Problem:
+- **Receptor Dysfunction**: The insulin receptors on fat cells become less responsive, preventing efficient absorption of glucose and fat.
+- **Disruption of Lipid Metabolism**: When fat cells cannot absorb fat properly, triglycerides accumulate in other tissues (e.g., visceral organs, arteries), leading to metabolic dysfunction.
+
+#### Health Implications:
+- **Metabolic Syndrome**: High levels of triglycerides, fatty liver, and fat deposits in non-adipose tissues contribute to conditions like obesity, type 2 diabetes, and cardiovascular diseases.
+- **Glucose Dysregulation**: Insulin resistance impairs glucose storage and release in the liver, creating a cycle where glucose cannot be effectively utilized or stored.
+
+#### Solution:
+- **Ketogenic Diet**: By reducing carbohydrate intake and increasing fat consumption, the body shifts to ketosis. This metabolic state promotes efficient fat utilization and reduces reliance on insulin-dependent glucose metabolism.
+- **Therapeutic Intervention**: Keto-adaptation helps restore normal lipid metabolism and alleviate insulin resistance, offering a natural approach to improving metabolic health.
+
+#### Health Recommendations:
+1. **Adopt a Ketogenic Diet**: Replace carbohydrate intake with healthy fats to promote ketosis and improve insulin sensitivity.
+2. **Monitor Lipid Profile**: Regularly check triglyceride levels and liver fat content to assess progress and adjust dietary strategies.
+3. **Lifestyle Modifications**: Combine diet with physical activity to enhance metabolic health and sustain weight management.
+
+#### Conclusion:
+The article highlights the critical role of insulin resistance in adipose tissue in driving metabolic dysfunction. Transitioning to a ketogenic diet offers a promising solution to mitigate these effects, restore metabolic health, and prevent chronic diseases associated with insulin resistance.
 </details>
 
 <details>
-<summary>1393. Understanding Metformin and Natural Ways to Support Insulin Sensitivity</summary><br>
+<summary>1393. [2018-03-11] Understanding Metformin and Natural Ways to Support Insulin Sensitivity</summary><br>
 
 <a href="https://www.youtube.com/watch?v=L2ZNvl1saLY" target="_blank">
     <img src="https://img.youtube.com/vi/L2ZNvl1saLY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **Metformin**：一種常用于治療2型糖尿病和多囊卵巢綜合征（PCOS）的藥物，市場上常見的品牌為Glucophage。
+- **自然替代方案**：探索可與Metformin結合使用的天然補充劑，以降低副作用風險。
 
+### 主要觀念
+1. **Metformin的作用機制**：
+   - 通過提高胰島素敏感性來改善胰島素抵抗。
+   - 抑制肝臟糖原生成，降低血糖水平。
+2. **胰島素 resistant的問題**：
+   - 胰島素受體功能障礙導致 insulin 效應降低。
+3. **Metformin的副作用**：
+   - 消化道不適（腹瀉、恶心、腹痛、腹氣）。
+   - 嚴重的乳酸酸中毒風險（FDA黑匣子警告）。
+   - 干擾B12和葉酸吸收，導致營養缺乏相關問題。
+4. **禁忌症**：
+   - 肝臟或腎脏問題患者禁用。
+
+### 問題原因
+- **未治療的根本原因**：
+  - 高糖飲食、頻繁進食等不良飲食習慣未被糾正，導致胰島素抵抗和代謝紊亂。
+- **Metformin的局限性**：
+  - 虽然能控制血糖，但未能解決根本病因。
+  
+### 解决方法
+1. **藥物治療**：
+   - 使用Metformin控制血糖水平。
+2. **自然療法**：
+   - **薔薇果**：幫助改善胰島素抵抗。
+   - **肉桂**：提升胰島素敏感性。
+   - **山羊虧**：促進脂肪燃燒，降低血糖。
+   - **綠茶多酚**：具有抗氧化和抗炎作用，有助於控制血糖。
+   - **苦瓜**：含有多種生物活性成分，能增強胰島素效應。
+
+### 健康建議
+1. **飲食調整**：
+   - 減少高糖、高果糖食物的攝入。
+   - 適當控制餐次，避免頻繁進食。
+2. **生活方式改變**：
+   - 進行規律的有氧運動，提高胰島素敏感性。
+   - 考慮短期饥饿或間歇性禁食，幫助恢復代謝平衡。
+3. **營養補充**：
+   - 在醫師指導下使用上述天然成分作為補充。
+
+### 結論
+- **Metformin的雙刃劍效果**：雖然有效控制血糖，但其副作用和禁忌症不容忽視。
+- **自然療法的重要性**：結合藥物治療與自然療法，可降低副作用風險，並促進整體健康。
+- **綜合管理**：通過飲食調整、運動和營養補充等多管齊下的方式，改善胰島素抵抗，從根本上控制血糖水平。
 </details>
 
 <details>
-<summary>1392. Doing Keto For A Month But Not Losing Weight? – Dr. Berg</summary><br>
+<summary>1392. [2018-03-11] Doing Keto For A Month But Not Losing Weight? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=67Ty4UjIwJ4" target="_blank">
     <img src="https://img.youtube.com/vi/67Ty4UjIwJ4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 探讨酮飲食（keto饮食）与断食（intermittent fasting）结合的减肥效果及常见问题。
+
+#### 主要觀念
+1. **胰島素的作用**  
+   - 胰岛素水平是影响脂肪燃烧的关键因素，降低胰岛素水平有助于提高脂肪代谢效率。
+   
+2. **飲食結構調整**  
+   - 低碳水化合物饮食（ ketogenic diet）是基础，需减少碳水化合物的摄入量。  
+   - 食物频率的调整：从每日多餐逐渐过渡到少量多餐或一日一餐。
+
+3. **脂肪攝取的影響**  
+   - 膳食脂肪在酮飲食中雖重要，但过度摄入反而可能抑制自身脂肪燃燒。  
+   - 初期需适量摄取膳食脂肪以满足身体結構需求，后期可逐步减少。
+
+4. **体重與體脂的區別**  
+   - 体脂减少不一定伴随体重显著下降，肌肉增加可能导致体重持平甚至略增。  
+   - 衣服尺碼變 loose 是更可靠的减肥指标之一。
+
+#### 問題原因
+- 部分人認為在酮飲食和斷食後未有顯著體重下降，可能忽略了以下因素：
+  - 胰岛素抵抗或其他代謝問題。  
+  - 肌肉量增加导致体重变化不明显。
+  - 未能长期堅持或方法不當。
+
+#### 解決方法
+1. **飲食結構調整**  
+   - 減少碳水化合物攝取，逐步降低餐次频率。  
+   - 初期保持适量的膳食脂肪，後期可减少额外脂肪摄入以促進自身脂肪燃燒。
+
+2. **行為習慣改善**  
+   - 保证充足且高質量的睡眠，改善睡覺環境和習慣。  
+   - 管理壓力水平，避免因過度焦慮導致皮質醇分泌增加，影響代謝。
+
+3. **Monitoring與Motivation**  
+   - 定期 monitoring 體脂變化、衣碼 loose 度等指標，而非僅依賴體重秤。  
+   - 保持耐心和 persistence，避免因短期效果不明顯而放棄。
+
+#### 健康建議
+1. **飲食與活動**  
+   - 確保飲食清潔，優先選擇高蛋白、低碳水化合物的食物。  
+   - 適當進行有氧運動，增強肌肉力量以提高代謝率。
+
+2. **心理調適**  
+   - 保持積極心態，避免因短期效果不顯而氣餒。  
+   - 可尋求專業指導或加入支持團體以增強動力。
+
+#### 結論
+- 酮飲食和斷食方法的有效性取決於個體代謝特質、執行情況及伴隨的生活方式調整。  
+- 要獲得最佳效果，需綜合考慮飲食結構、運動、睡眠及壓力管理等多方面因素，並耐心持續地實施。
 </details>
 
 <details>
-<summary>1391. How Much Protein On Keto & Intermittent Fasting Plan Is Good? – Dr. Berg</summary><br>
+<summary>1391. [2018-03-10] How Much Protein On Keto & Intermittent Fasting Plan Is Good? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=bLGlP8T7zU0" target="_blank">
     <img src="https://img.youtube.com/vi/bLGlP8T7zU0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+本文主要探討在酮egenic（生酮飲食）和Intermittent Fasting（間歇性斷食）聯合進行的情況下，每日所需的蛋白質攝取量及其影響。
+
+---
+
+#### 主要觀念
+1. **碳水化合物的影響**  
+   - 碳水化合物是身體的主要能量來源。若攝取不足，身體將轉向燃燒脂肪或肌肉蛋白。
+   - 生酮飲食建議每日碳水化合物攝取量保持在20-50克以下，以迫使身體進入酮燃燒模式。
+
+2. **蛋白質攝取的重要性**  
+   - 蛋白質攝取不足時，身體會分解自身肌糖原（肌肉蛋白）作為能量來源，導致肌肉流失。  
+   - 適當的蛋白質攝取量可幫助維持肌肉質量，避免此現象。
+
+3. **每日蛋白質攝取推薦**  
+   - 根據體重（以磅為單位），每日蛋白質攝取量建議為每體重 pound 36-7 克。  
+     - 例：若體重為180磅，则每日蛋白質攝取量應在65-126克之間。
+
+4. **分餐建議**  
+   - 若每日蛋白質攝取量分為三餐，每餐蛋白質攝取量建議在21-42克之間。  
+   - 適當控制攝取量，避免超過此範圍，以免對肝腎造成過大負擔。
+
+---
+
+#### 啟發源於生活或常見問題
+- 许多人在諮詢生酮飲食和斷食計劃時，對於蛋白質攝取量的具體數值存在困惑。  
+  - 特別是希望以克為單位而非盎司為單位了解蛋白質攝取建議。
+
+---
+
+#### 啟發源於生活或常見問題
+- 生酮飲食中，脂肪攝取至關重要，尤其是在初期，若無法順利適應，可能導致強烈的饥饿感。  
+  - 初期建議增加酮炸彈（keto bombs）、超級食物油等脂肪來源以幫助身體過渡。
+
+---
+
+#### 啟發源於生活或常見問題
+- 隨著身體逐漸適應生酮飲食，對外來脂肪的依賴將降低，可更多地依靠自身儲存的脂肪作為能量來源。  
+  - 建議選擇高脂肉類（如5%瘦肉和45%肥肉的絞肉）以自然增加脂肪攝取。
+
+---
+
+#### 啟發源於生活或常見問題
+- 斷食計劃可刺激生長激素分泌，幫助維持肌肉質量。  
+  - 維繫肌肉不僅有利於燃燒脂肪，還能提升整體新陳代謝率。
+
+---
+
+#### 啟發源於生活或常見問題
+- 初期可能需要額外添加脂肪來源以應對 hunger 過強的感覺。  
+  - 隨著身體適應，可逐漸降低對外來脂肪的依賴。
+
+---
+
+#### 健康建議
+1. **蛋白質攝取控制**  
+   - 根據個人體重計算每日蛋白質攝取量，並分餐食用以避免一次性攝取過多。  
+
+2. **脂肪攝取策略**  
+   - 選擇高脂食物（如高脂肉類）作為主要脂肪來源，初期可適當添加酮炸彈等輔助脂肪攝取。  
+   - 當身體適應後，可逐步降低對外來脂肪的依賴。
+
+3. **斷食計劃配合**  
+   - 開展斷食計劃時，注意蛋白質和脂肪的平衡攝取，以維持肌肉質量並促進酮燃燒。  
+
+4. **飲食過渡**  
+   - 初期飲食調整可能需要時間適應，建議逐步降低碳水化合物攝取量，並增加健康脂肪來源。
+
+---
+
+#### 總結
+本文強調在生酮飲食和斷食計劃中，蛋白質和脂肪的攝取必須平衡。  
+- 適當的蛋白質攝取可維持肌肉質量，避免肌肉流失；  
+- 足夠的脂肪攝取則有助於應對初期 hunger 感並幫助身體進入酮燃燒模式。  
+- 通過逐步調整飲食結構和控制攝取量，可以有效達成減脂、增肌及健康改善的目的。
 </details>
 
 <details>
-<summary>1390. Plateau on Keto Diet & Intermittent Fasting – Dr. Berg</summary><br>
+<summary>1390. [2018-03-09] Plateau on Keto Diet & Intermittent Fasting – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Vlc8XOv35EI" target="_blank">
     <img src="https://img.youtube.com/vi/Vlc8XOv35EI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# Article Summary and Key Points
 
+## Core Theme: Insulin Resistance and Fat-Burning Metabolism
+
+- The primary focus of the article is on addressing insulin resistance and optimizing fat-burning metabolism, particularly through dietary adjustments and lifestyle changes.
+
+## Major Concepts:
+
+1. **Insulin Resistance**:
+   - Defined as a state where the body's cells resist the effects of insulin, leading to poor glucose uptake and increased blood sugar levels.
+   - Often linked to metabolic disorders such as polycystic ovary syndrome (PCOS) and type 2 diabetes.
+
+2. **Dietary Adjustments for Fat Burning**:
+   - Emphasizes a diet low in carbohydrates and high in healthy fats, particularly through ketogenic-style eating.
+   - The role of dietary fat in satiating hunger and supporting metabolic health is highlighted.
+
+## Causes of the Problem:
+
+1. **Metabolic Imbalance**:
+   - Poor dietary choices and sedentary lifestyles contribute to insulin resistance and a sluggish metabolism.
+   - Excessive intake of processed foods, sugars, and refined carbohydrates exacerbates the issue.
+
+2. **Hormonal Dysregulation**:
+   - Underlying hormonal imbalances, such as those seen in PCOS or thyroid dysfunction, can hinder metabolic progress.
+
+## Solutions and Recommendations:
+
+1. **Dietary Interventions**:
+   - Transition from three meals to two meals, then one meal per day to optimize fat burning and reduce insulin spikes.
+   - Incorporate more healthy fats while reducing excessive dietary fat intake to avoid slowing down metabolism.
+
+2. **Lifestyle Modifications**:
+   - Implement stress-reduction techniques such as acupressure, meditation, or yoga.
+   - Engage in regular physical activity, particularly long walks, to improve metabolic health and insulin sensitivity.
+
+3. **Addressing Underlying Health Issues**:
+   - Identify and treat any underlying conditions, such as thyroid issues or PCOS, to enhance overall metabolic function.
+   - Improve sleep quality and duration to support hormonal balance and recovery.
+
+4. **Supplementary Support**:
+   - Consider adding specific nutrients or supplements that support metabolic health, though these should be discussed with a healthcare provider.
+
+## Conclusion:
+
+- The article underscores the importance of adopting a holistic approach to managing insulin resistance and enhancing fat-burning metabolism.
+- Key strategies include reducing meal frequency, optimizing diet composition, addressing stress, improving sleep, and treating underlying health conditions.
+- By implementing these changes, individuals can achieve better metabolic health and overall well-being.
 </details>
 
 <details>
