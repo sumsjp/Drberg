@@ -560,113 +560,627 @@
 </details>
 
 <details>
-<summary>849. Fruit on a Ketogenic Diet – Dr.Berg Talks About Keto Friendly Fruits</summary><br>
+<summary>849. [2017-05-28] Fruit on a Ketogenic Diet – Dr.Berg Talks About Keto Friendly Fruits</summary><br>
 
 <a href="https://www.youtube.com/watch?v=CJJosZCnrbw" target="_blank">
     <img src="https://img.youtube.com/vi/CJJosZCnrbw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理與分析
 
+#### 核心主題
+- **水果在生酮飲食中的角色**：探討水果是否適合並入生酮飲食計劃。
+
+#### 主要觀念
+1. **水果含糖量高**：
+   - 蘋果：中等大小的蘋果含有約19克糖分。
+   - 紅色甜甜圈（Honey Crisp）：改良後的品種，糖分含量極高，尤其是遊離果糖。
+   - 其他水果：如鳳梨和野生草莓的甜度差異。
+
+2. **果汁的危害**：
+   - 果汁缺少纖維，導致營養價值降低。
+   - 高溫處理破壞酶和其他活性成分。
+   - 加工果汁常添加玉米糖漿，增加游離糖攝取。
+
+#### 問題原因
+1. **水果糖分對生酮飲食的影響**：
+   - 高糖分可能干擾酮osis狀態。
+   - 游離果糖 metabolism 可能導致胰島素抗性、脂肪肝和血糖波動。
+
+2. **果汁的營養缺失與加工問題**：
+   - 糖分濃度高，缺乏纖維。
+   - 加工過程破壞營養成分和生物活性物質。
+
+#### 解決方法
+1. **選擇低糖水果**：
+   - 推薦莓類（如草莓、藍莓）等糖分較低的水果。
+
+2. **控制攝取量**：
+   - 每日建議攝取量：berry 1/2 至 1杯。
+   - 可將水果融入smoothie中，增加纖維攝取。
+
+3. **避免果汁攝取**：
+   - 選擇整粒水果而非加工果汁。
+
+#### 健康建議
+- **兒童飲食注意**：避免提供果汁，可選擇整粒水果。
+- **成人攝取建議**：限制 fruit 摄取量，尤其是追求減重者。
+- **營養均衡**：將水果與蔬菜（如羽衣甘藍）混合，提升營養價值。
+
+#### 結論
+- 果汁應避免攝取，而某些低糖水果可在 moderation 下納入飲食計劃。
+- 生酮飲食中，水果的選擇和攝取量需謹慎考量。
 </details>
 
 <details>
-<summary>848. Dr. Berg Recommended Supplements for Intermittent Fasting</summary><br>
+<summary>848. [2017-05-27] Dr. Berg Recommended Supplements for Intermittent Fasting</summary><br>
 
 <a href="https://www.youtube.com/watch?v=a0C4rlgU_6k" target="_blank">
     <img src="https://img.youtube.com/vi/a0C4rlgU_6k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **補充劑與間歇性禁食（Intermittent Fasting）**：探討在進行間歇性禁食時，如何通過補充劑來支持健康和效果。
 
+### 主要觀念
+1. **電解質平衡的重要性**：
+   - 間歇性禁食改變了代謝模式，從糖分代謝轉向脂肪燃燒或酮症。
+   - 須注意鈉、鉀等礦物質的平衡，以防止如尿酸結石和腎臟問題。
+
+2. **B族維生素的作用**：
+   - 支持能量代谢，特別是在脂肪燃燒過程中，幫助清除乳酸，減輕疲勞感。
+
+3. **維生素補充的重要性**：
+   - 燉 grass 葡萄糖粉末提供多種維生素和礦物質，可用作快速的營養來源。
+   - 替代咖啡，提神醒腦，並彌補可能缺乏的營養。
+
+4. **胰島素和血糖管理**：
+   - 針對嚴重胰島素抵抗或糖尿病患者，提供支持胰島素分泌和血糖穩定的補充劑。
+
+### 問題原因
+- 間歇性禁食導致代謝模式改變，可能引發電解質失衡、疲勞、乳酸累積等问题。
+- 禁食期間營養攝取不足，可能缺乏必要的維生素和礦物質。
+
+### 解決方法
+1. **電解質補充**：
+   - 使用不含麥芽糖糊精的電解质粉末，富含鉀和其他礦物質，每日飲用，尤其是在運動前後。
+   - 防止結石形成，保持水分和能量平衡。
+
+2. **B族維生素補充**：
+   - 選擇未添加劑的營養 yeast 或 Brewer's yeast，обавляти до рече.
+   - 助於消除疲勞和乳酸酸痛，提升運動表現。
+
+3. **維生素來源**：
+   - 使用 raw wheatgrass juice powder 作為每日維生素來源。
+   - 替代咖啡，提供多種營養素，保持清醒和能量。
+
+4. **血糖管理**：
+   - 使用含有10種成分的補充劑，支持胰島素分泌，穩定血糖水平。
+   - 適合胰島素抵抗或糖尿病患者，促進整體健康。
+
+### 健康建議
+- 確保每日攝取足夠的電解質，特別是鉀和鈉。
+- 選擇高品質、未添加劑的營養補充劑，避免不必要的成分影響健康。
+- 定期監測血糖和胰島素水平，根據醫生建議調整飲食和補充劑。
+
+### 結論
+- 在進行間歇性禁食時，適當的補充劑可以幫助維持電解質平衡、提供必需營養、提升運動表現並穩定血糖。
+- 選擇合適的補充劑品種，根據個人健康狀況調整使用，以最大化健康效益。
 </details>
 
 <details>
-<summary>847. Bad Breath on Ketogenic Diet? – Dr. Berg on Keto Breath Solutions</summary><br>
+<summary>847. [2017-05-27] Bad Breath on Ketogenic Diet? – Dr. Berg on Keto Breath Solutions</summary><br>
 
 <a href="https://www.youtube.com/watch?v=nxL7ychvY5Y" target="_blank">
     <img src="https://img.youtube.com/vi/nxL7ychvY5Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 1. 核心主題  
+The article discusses the issue of bad breath (halitosis) associated with the ketogenic diet, focusing on its causes and potential solutions.
 
+---
+
+### 2. 主要觀念  
+- The ketogenic diet relies on ketone production instead of glucose metabolism.  
+- Ketones can produce fruity odors or smells similar to nail varnish remover due to acetone release.  
+- Excess protein consumption on the ketogenic diet can lead to ammonia production, contributing to bad breath.  
+- An overgrowth of certain bacteria in the mouth can result in sulfur-like odors resembling rotten eggs.  
+
+---
+
+### 3. 問題原因  
+1. **Ketone Metabolism**:  
+   - Ketones, particularly acetone, are released through respiration and can produce a fruity or solvent-like odor.  
+2. **Excess Protein Intake**:  
+   - High protein consumption on the ketogenic diet leads to ammonia production, which has a urine-like smell.  
+3. **Bacterial Overgrowth**:  
+   - An imbalance in oral bacteria can produce sulfur compounds responsible for臭味.
+
+---
+
+### 4. 解决方法  
+1. **Increase Vegetable Intake**:  
+   - Consume 7-10 cups of vegetables daily to flush out waste products and improve metabolic efficiency.  
+2. **Reduce Protein Intake**:  
+   - Decrease protein portions from 8-10 ounces to 3-5 ounces to minimize ammonia production.  
+3. **Use Probiotics**:  
+   - IncorporateEffective Microbes, a probiotic containing friendly yeast, mold, and bacteria, to balance gut flora and reduce sulfur odors.  
+
+---
+
+### 5. 健康建議  
+1. Monitor protein intake to avoid excess ammonia production.  
+2. Maintain a balanced diet with adequate vegetable consumption to support efficient ketone metabolism.  
+3. Use targeted probiotics to address bacterial imbalances contributing to halitosis.  
+4. Regularly assess and adjust dietary habits to minimize breath odor.  
+
+---
+
+### 6. 結論  
+While the ketogenic diet can lead to bad breath due to ketone production, ammonia from excess protein, and bacterial overgrowth, these issues are manageable with appropriate adjustments. By increasing vegetable intake, reducing protein portions, and using probiotics, individuals on the ketogenic diet can mitigate halitosis and maintain better breath health.
 </details>
 
 <details>
-<summary>846. Intermittent Fasting & Ketosis : 15 Common Questions & Answers (FAQ) – Dr. Berg</summary><br>
+<summary>846. [2017-05-26] Intermittent Fasting & Ketosis : 15 Common Questions & Answers (FAQ) – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DFsmgwiGyNI" target="_blank">
     <img src="https://img.youtube.com/vi/DFsmgwiGyNI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+---
+
+#### **核心主題**
+- 探讨酮饮食（Ketogenic Diet）及其在体重管理、健康改善方面的应用与潜在问题。
+- 提供针对不同人群（如孕妇、哺乳期女性、儿童等）的健康建议。
+
+---
+
+#### **主要觀念**
+1. **酮飲食的基本原理**  
+   - 通过限制碳水化合物摄入，迫使身体燃烧脂肪以产生酮体作为能量来源。
+   - 酮饮食有助于快速体重 loss 和改善代谢健康。
+
+2. **酮飲食的適用人群**  
+   - 适用于超重或肥胖者。
+   - 对于希望改善代谢健康（如血糖控制、血脂水平）的人群可能有效。
+
+3. **酮飲食的潛在問題**  
+   - 可能导致短期不适，如酮流感（Keto Flu），表现为疲劳、头晕等症状。
+   - 长期过量摄入脂肪可能导致消化不良或其他健康问题。
+
+---
+
+#### **問題原因**
+- **營養不均衡**：过度依赖酮飲食可能导致某些营养素缺乏，特别是维生素和矿物质的不足。
+- **代謝適應**：部分人可能对酮饮食反应不佳，体重 loss 效果有限。
+- **生活方式因素**：咖啡因摄入过多、压力过大等因素可能影响酮饮食的效果。
+
+---
+
+#### **解決方法**
+1. **營養補充**  
+   - 补充电解质（如钾、钠、镁）以缓解酮流感症状。
+   - 使用nutritional yeast或電解質粉末來補充必需營養素。
+
+2. **個化化調整**  
+   - 根据个人反应调整饮食结构，例如减少脂肪摄入量或增加适量的碳水化合物。
+
+3. **生活方式改善**  
+   - 控制咖啡因摄入时间，避免晚上饮用以免影响睡眠。
+   - 选择低糖发酵茶（如 kombucha），注意控制糖分攝取。
+
+---
+
+#### **健康建議**
+1. **孕婦與哺乳期女性**  
+   - 不推薦在孕產期進行酮飲食，應注重均衡營養，特別是脂肪溶性維生素和微量元素的攝取。
+
+2. **兒童健康**  
+   - 適當情況下可考慮酮飲食，但需避免過度限制碳水化合物，尤其是對於代謝率高的兒童。
+
+3. **一般人群**  
+   - 在尝试酮飲食前，建議諮詢專業醫療人員。
+   - 確保攝取足夠的蔬菜以補充纖維和礦物質。
+
+---
+
+#### **結論**
+- 酮飲食在短期内可能有效，但其效果因人而異，需根據個人健康狀況調整。
+- 強調均衡飲食與生活方式的整體性，建議在專業指導下進行。
+
+--- 
+
+此整理結構清晰地展示了文章的核心內容和關鍵信息，適用於進一步研究或實踐參考。
 </details>
 
 <details>
-<summary>845. Cortisol & Long Term Chronic Stress Effects on Body</summary><br>
+<summary>845. [2017-05-25] Cortisol & Long Term Chronic Stress Effects on Body</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fr1NEnRZluQ" target="_blank">
     <img src="https://img.youtube.com/vi/fr1NEnRZluQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：長期慢性應激對人體健康的影響及解決策略
 
+---
+
+### 主要觀念：
+1. **短期應激與 cortisol 的作用**  
+   - 短期應激下，cortisol 被釋放以幫助 организм 应对緊急情況。
+   - cortisol 的主要功能包括提高血壓、轉化糖分為主要能量來源、增強警覺性等。
+
+2. **長期慢性應激的影響**  
+   - 長期過量的 cortisol 會導致機體對其產生抗性（類似於胰島素抵抗）。
+   - 慢性應激會擾亂免疫系統、生殖激素分泌，並增加感染風險。
+   - 長期暴露於高 cortisolemia 可能引發全身性炎症、記憶力減退、失眠及肥胖等問題。
+
+---
+
+### 問題原因：
+1. **現代生活方式的壓力源**  
+   - 精神壓力（工作、家庭、社會期望）。
+   - 電子產品過度使用導致久坐和社交隔離。
+   - 不健康的生活習慣（如缺乏運動、營養失衡）。
+
+2. **激素平衡失調**  
+   - 長期應激導致 adrenals 疲勞，cortisol 分泌失衡。
+   - 橫痃素及其他神經遞質的紊亂加劇了壓力反應。
+
+---
+
+### 解決方法：
+1. **改善生活方式**
+   - 增加戶外活動和自然接觸，每天進行長時間步行。
+   - 要求 24 小時工作或使用電子產品的模式，應主動抽離以降低精神負荷。
+
+2. **營養調整**  
+   - 补充富含鉀、鎂和 B 素食的食物（如營養酵母）。
+   - 減少糖分攝入，改善胰島素敏感性。
+
+3. **壓力管理**
+   - 使用壓力釋放技術（如呼吸練習或正念冥想）。
+   - 保證充足的睡眠以促進身體修復。
+
+---
+
+### 健康建議：
+1. **日光曝露**  
+   - 每天接受自然陽光照射以增強維生素 D 合成，從而支持免疫系統和情緒穩定。
+
+2. **飲食調整**  
+   - 減少精制糖和高鹽食物的攝入。
+   - 增加膳食纖維和抗氧化劑的攝取，以降低炎症反應。
+
+3. **運動習慣**  
+   - 定期進行有氧運動（如快走、騎車）以改善心肺功能和情緒狀態。
+
+---
+
+### 結論：
+長期慢性應激對人體健康的影響是多方面的，包括免疫系統抑制、激素失衡和神經功能障礙。為了解決這些問題，關鍵在於調整生活方式，恢復激素平衡，並通過自然療法來降低壓力水平。只有這樣，才能實現整體健康和長壽。
+
+--- 
+
+以上整理涵蓋了文章的核心內容，結構清晰，语言正式且客觀。
 </details>
 
 <details>
-<summary>844. Why Some Skinny People don’t Gain Weight? – Dr. Berg</summary><br>
+<summary>844. [2017-05-25] Why Some Skinny People don’t Gain Weight? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=uhvNRtlJfKc" target="_blank">
     <img src="https://img.youtube.com/vi/uhvNRtlJfKc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+---
+
+#### **核心主題**
+- 身體質量指數（BMI）低的人並不意味著健康。
+- 瘦弱但攝入大量垃圾食物的人可能隱藏著代謝和慢性病風險。
+
+---
+
+#### **主要觀念**
+1. **瘦≠健康**：即使BMI低，若飲食不均衡或過度消費高糖、高脂肪食物，仍可能導致潛在的健康問題。
+2. **代謝速率的作用**：瘦弱的人可能有較高的代謝率，能夠快速分解和儲存脂肪，但這並不一定意味著健康。
+3. **慢性病風險**：長期攝入垃圾食品可能导致血脂異常、高血糖等問題，增加糖尿病和其他慢性病的風險。
+
+---
+
+#### **問題原因**
+1. **飲食結構失衡**：經常消費高糖、高脂肪和低營養密度的食物。
+2. **代謝失調**：
+   - 胰島素抵抗或不當反應。
+   - 血脂異常，尤其是高三酸甘油酯和壞膽固醇水平升高。
+3. **健康意識不足**：瘦弱的人往往認為自己不需要注意飲食，導致缺乏積極的健康管理。
+
+---
+
+#### **健康建議**
+1. **均衡飲食**：
+   - 增加蔬菜、水果、全穀物、瘦肉蛋白和健康脂肪的攝取。
+   - 減少精制糖、加工食品和反式脂肪的攝入。
+2. **定期健康檢查**：即使BMI低，也應該定期檢查血糖、血脂和血壓等指標。
+3. **提高健康意识**：
+   - 了解瘦弱也可能伴隨著潛在的健康風險。
+   - 遇到問題時及時調整飲食習慣和生活方式。
+
+---
+
+#### **研究結論**
+1. **超重或輕度肥胖與壽命之間的關系**：研究表明，BMI過低的人可能比超重或輕度肥胖的人壽命更短（約6%）。
+2. **健康動機**：
+   - 身體形狀的变化（如腹部脂肪 accumulation）通常是改變生活方式的重要契機。
+
+---
+
+#### **結論**
+- 健康狀況不能單純依賴BMI來判斷，需綜合考慮飲食、代謝和血液指標等因素。
+- 瘦弱的人同樣需要注意飲食健康，避免因短期看似「健康」而忽略潛在的慢性病風險。
 </details>
 
 <details>
-<summary>843. Nutritional Yeast vs. Brewers Yeast – Dr. Berg</summary><br>
+<summary>843. [2017-05-24] Nutritional Yeast vs. Brewers Yeast – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=keq_YRMG60o" target="_blank">
     <img src="https://img.youtube.com/vi/keq_YRMG60o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Core Theme: **Comparison of Nutritional Yeast and Brewers Yeast**
+**核心主題：營養酵母和 Brewer's 酵母的比較**
 
+---
+
+### Key Concepts:
+1. **Similarities Between Nutritional Yeast and Brewers Yeast**
+   - Both are rich in B vitamins, amino acids, trace minerals (e.g., selenium, chromium), and protein.
+   - Both are inactive yeast strains, meaning they cannot reproduce.
+
+2. **Differences Between Nutritional Yeast and Brewers Yeast**
+   - Taste: Nutritional yeast has a nutty or cheesy flavor, while brewers yeast typically has a bitter taste unless debittered.
+   - Source: Brewers yeast is often a byproduct of beer production but can also be a direct nutritional product when purchased from stores.
+
+3. **Potential Digestive Issues**
+   - Some individuals may experience digestive discomfort with brewers yeast, though this is uncommon.
+
+4. **Nutritional Considerations**
+   - Both should be non-GMO and free from synthetic B vitamins (e.g., B12), as these are not naturally produced by yeasts.
+
+---
+
+### Reasons for Health Concerns:
+- **B Vitamin Deficiency**: Symptoms such as vivid dreams, nervous stress, or fatigue may indicate a need for additional B vitamins.
+- **Synthetic Enrichment**: Many yeast products are enriched with synthetic B vitamins (e.g., B12), which are not naturally present in yeasts.
+
+---
+
+### Health Recommendations:
+1. **Product Selection**:
+   - Opt for non-GMO, non-enriched yeast products to ensure natural nutrient content.
+   - Choose debittered brewers yeast if you prefer it over nutritional yeast.
+
+2. **Usage Suggestions**:
+   - Nutritional yeast is generally recommended for most uses due to its pleasant taste and versatility in recipes (e.g., lactation cookies).
+   - Brewers yeast can be used in specific culinary applications, such as baking or cooking, where its bitter flavor may be desirable or masked.
+
+3. **Supplementation**:
+   - Consider supplementing with yeast if you suspect a B vitamin deficiency.
+   - Monitor your health and adjust intake based on tolerance and nutritional needs.
+
+---
+
+### Conclusion:
+Both nutritional yeast and brewers yeast offer significant nutritional benefits, particularly as sources of B vitamins and amino acids. However, differences in taste, processing, and potential digestive effects should guide your choice. Always select high-quality, non-GMO products to maximize health benefits, and consult your healthcare provider if you experience adverse reactions or persistent symptoms.
+
+---
+
+### Summary in Chinese:
+**核心主題：營養酵母和 Brewer's 酵母的比較**
+
+**主要觀念：**
+1. **相似性**：兩者均富含 B 細菌、胺基酸、微量元素（如硒、鉻）和蛋白質。
+2. **差異**：營養酵母具備堅果或乳酪味，而 Brewer's 酵母通常 bitter，除非去苦處理。來源上 Brewer's 酵母通常是啤酒的副產品，但也可以作為直接的營養產品購買。
+3. **潛在消化問題**：少數人可能對 Brewer's 酵母有消化不適。
+4. **營養考量**：兩者均需選擇非基因改造且未添加合成 B 細菌（如 B12）的產品。
+
+**健康建議：**
+1. **產品選項**：
+   - 選擇非基因改造、未添加合成物質的酵母產品。
+   - 如偏爱 Brewer's 酵母，可選擇去苦處理後的产品。
+2. **使用建議**：
+   - 营養酵母因其風味和多用途（如 lactation cookies）適合一般情況。
+   - Brewer's 酵母可用於特定烹調場合，其苦味可能被掩蓋或融合。
+
+3. **補充劑推薦**：
+   - 如疑慮 B 細菌不足，可考慮 yeast 补充。
+   - 根據健康狀況和耐受性調整攝取量。
+
+**結論：**
+營養酵母和 Brewer's 酵母在提供 B 細菌和胺基酸方面均有裨益。然而，在味道、加工方式及潛在消化影響上需因人而異。始終選用高品質、非基因改造產品，並諮詢醫療人員以應對不良反應或持續症狀。
 </details>
 
 <details>
-<summary>842. 4 Best Wart Removal Remedies – Dr. Berg on Wart Treatment at Home</summary><br>
+<summary>842. [2017-05-24] 4 Best Wart Removal Remedies – Dr. Berg on Wart Treatment at Home</summary><br>
 
 <a href="https://www.youtube.com/watch?v=w-cXqOKzwuQ" target="_blank">
     <img src="https://img.youtube.com/vi/w-cXqOKzwuQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 探讨疣的形成原因及其自然療法。  
 
+---
+
+### 主要觀念  
+1. 瘤是由 HPV（人類乳頭瘤病毒）引起的良性腫瘤。
+2. 病毒在壓力或營養不足的情況下活化並導致疣的發生。
+3. 自然療法可以幫助消除疣。
+
+---
+
+### 問題原因  
+- HPV 感染是疣的根本病因。  
+- 壓力和營養 deficiency 可能會誘發病毒活化，導致疣的形成。  
+
+---
+
+### 解決方法  
+1. **Nicotinamide（菸酸胺）**：一種B3維生素，具有很強的抗病毒效果。  
+2. **Salicylic Acid（水楊酸）**：可用於外用，如 Crushers Aspirin。  
+3. **Zinc（鋅）**：5毫克劑量，有助於將病毒恢復到潛伏狀態。  
+4. **Fat-soluble Garlic（脂溶性大蒜）**：以藥片形式攝取，具有抗病毒作用。  
+
+---
+
+### 健康建議  
+- 使用上述自然療法治療疣。  
+- 維持良好的營養和降低壓力水平，以防止 HPV 复發。  
+
+---
+
+### 結論  
+- 自然療法在消除疣方面具有潛力。  
+- 維生素 B3、水楊酸、鋅和脂溶性大蒜是值得試驗的療法。  
+
+---
+
+### 質疑與討論  
+1. **Nicotinamide（菸酸胺）**：是否有足夠的研究支持其抗病毒效果？  
+2. **Salicylic Acid（水楊 acid）**： Crushers Aspirin 的具體用量和使用方法需進一步明確。
 </details>
 
 <details>
-<summary>841. What is LDL Cholesterol? – Dr.Berg on LDL Bad Cholesterol (Part 4)</summary><br>
+<summary>841. [2017-05-23] What is LDL Cholesterol? – Dr.Berg on LDL Bad Cholesterol (Part 4)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=GC9V1TWYLo4" target="_blank">
     <img src="https://img.youtube.com/vi/GC9V1TWYLo4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：低密度脂蛋白（LDL）與健康的關聯
 
+---
+
+#### **核心主題**
+- LDL（低密度脂蛋白）在人體中的功能及其對健康的重要性。
+- LDL被常見地稱為「壞膽固醇」，但其作用並非完全有害。
+
+---
+
+#### **主要觀念**
+1. **LDL的多重角色**：
+   - LDL是血液中運輸膽固醇的主要載體。
+   - 它具有修復血管壁和抗炎的作用，類似於「急救員」的角色。
+2. **LDL分型**：
+   - LDL分為Pattern A和Pattern B。
+     - **Pattern A**：大而蓬松，通常與健康相關。
+     - **Pattern B**：小而致密，容易滯留並沉積在血管壁上，增加心血管疾病風險。
+
+---
+
+#### **問題原因**
+1. **高LDL Pattern B的原因**：
+   - 高糖和精製碳水化合物攝取過多，導致炎症。
+   - 低甲狀腺功能、壓力（高皮質醇水平）。
+   - 反式脂肪和 vegetable oils 中的omega-6脂肪酸過量攝入。
+   - 經手術或創傷後的身體修復反應。
+2. **其他因素**：
+   - 高果糖玉米 syrup 或大量 fructose 的攝入，促進糖化作用（glycation）。
+   - 體內 Vitamin C 不足，影響血管健康。
+
+---
+
+#### **解決方法**
+1. **飲食調整**：
+   - 減少精製糖、高血糖指數碳水化合物的攝取。
+   - 減少反式脂肪和 vegetable oils 的使用。
+   - 增加富含omega-3脂肪酸的食物（如魚類、核桃）來平衡Omega-6和Omega-3的比例。
+2. **生活方式改善**：
+   - 管理壓力，避免過度壓力導致皮質醇水平升高。
+   - 適當運動，促進心血管健康。
+3. **營養補充**：
+   - 补充足夠的維生素C，以支持血管壁健康。
+   - 考慮補充益生菌和抗炎成分（如抗氧化劑）。
+
+---
+
+#### **健康建議**
+1. **飲食建议**：
+   - 選擇未加工或低加工的食物，避免過度攝入精緻糖和碳水化合物。
+   - 增加膳食纖維的攝取，幫助降低血糖波動並促進腸道健康。
+2. **健康管理**：
+   - 定期檢查血液指標（如LDL、HDL、 triglycerides），了解自身健康狀況。
+   - 適當運動，包括有氧運動和力量訓練，提升心肺功能。
+3. **避免有害習慣**：
+   - 避免過度攝入加工食品和油炸食品，以降低糖化作用的風險。
+
+---
+
+#### **結論**
+- LDL並非完全有害，其作用取決於型別和整體健康狀況。
+- 高LDL Pattern B通常與炎症、壓力、不良飲食習慣等因素有關。
+- 通過調整飲食、改善生活方式和補充必要的營養素，可以有效降低心血管疾病風險，並促進整體健康。
+
+---
+
+**此文旨在幫助讀者更好地理解LDL的複雜性，並提供實用的健康建議。**
 </details>
 
 <details>
-<summary>840. High Cholesterol on a Ketogenic diet? – Dr. Berg on Keto and Cholesterol</summary><br>
+<summary>840. [2017-05-22] High Cholesterol on a Ketogenic diet? – Dr. Berg on Keto and Cholesterol</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ZkvxySUd_68" target="_blank">
     <img src="https://img.youtube.com/vi/ZkvxySUd_68/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：酮egenic Diet下血清膽固醇升高現象的探討
 
+#### 主要觀念：
+1. **脂肪細胞的功能**：脂肪細胞不會完全消失，但會 shrinks（萎縮）當體重下降時。
+2. **脂肪儲存物質**：脂肪細胞內含有三酰甘油（Triglycerides）和膽固醇。
+3. **代謝差異**：
+   - 三酰甘油可用作能量來源，被燃燒。
+   - 膽固醇不能用作能量來源，需通過其他途徑排出體外。
+
+#### 問題原因：
+1. **膽固醇的處理機制**：膽固醇在脂肪細胞萎縮時需排出至血液中，導致血清膽固醇濃度上升。
+2. **膽固醇的代謝路徑**：
+   - 胆固醇會進入肝臟加工。
+   - 最後通過 bile（膽汁）排出體外。
+
+#### 解決方法：
+1. **健康飲食建議**：
+   - 確保攝取足夠的蔬菜，以支持肝臟功能和腸道健康。
+   - 確保有足夠的 bile，可能需要增加攝取富含膳食纖維的食物或補充劑。
+
+#### 健康建議：
+1. **血脂指標監控**：
+   - 低密度脂蛋白（LDL）升高未必有害，需關注三酰甘油（Triglycerides）是否降低。
+   - 高 density lipoprotein（HDL）水平上升是正面的指標。
+
+2. **酮egenic Diet的執行**：
+   - 确保酮egenic diet 正確實施，避免攝取過多糖分。
+   - 保持低 triglycerides 和高 HDL 水平，表明代謝健康。
+
+#### 結論：
+1. **短期現象**：短期內 LDL 上升可能是暫時性的，當接近體重目標時會恢復正常。
+2. **長期健康**：只要 triglycerides 保持低水平且 HDL 高，身體健康狀況良好。
+
+### 參考資料：
+- 酮egenic diet 的基本原理和代謝機制。
+- 膽固醇和三酰甘油在脂肪細胞中的儲存與代謝途徑。
 </details>
 
 <details>
