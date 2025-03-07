@@ -3769,113 +3769,529 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
 </details>
 
 <details>
-<summary>3534. Always Eat Mushrooms Cooked</summary><br>
+<summary>3534. [2021-06-25] Always Eat Mushrooms Cooked</summary><br>
 
 <a href="https://www.youtube.com/watch?v=OcxAJy9hcUc" target="_blank">
     <img src="https://img.youtube.com/vi/OcxAJy9hcUc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 文章重點整理
 
+## 核心主題
+- 素食者食用蘑菇的重要性及食用蘑菇的最佳方式。
+
+## 主要觀念
+1. 蘑菇的結構特性：
+   - 蘑菇屬於真菌界，其細胞膜中含有多糖類（如几丁質）。
+   - 這些成分在植物中並不常見，且具有特定的生理功能。
+
+2. 几丁質的特性：
+   - 几丁質是一種不可消化的碳水化合物，主要存在於昆蟲、甲殸類動物的外骨骼中。
+   - 在蘑菇中，几丁質的存在影響了其消化吸收效率。
+
+3. 蘑菇與維生素D的关系：
+   - 蘑菇含有合成維生素D的前體物質（如ergosterol）。
+   - 經日曬後，ergosterol可轉化為維生素D2，進而進一步轉化為活性形式維生素D3。
+
+## 問題原因
+- 生食蘑菇可能導致消化不良：
+  - 蘑菇中的几丁質結構使其不易被人体消化酶分解。
+  - 預防或治療胃腸道疾病患者食用生蘑菇可能造成不適。
+
+## 解決方法
+1. 烹煮蘑菇以提高消化吸收效率：
+   - 煎炒、蒸煮等烹調方式可以軟化蘑菇的細胞壁，增加酶對其成分的可及性。
+   - 降低胃腸道負擔，預防不適。
+
+2. 利用日曬法增強維生素D含量：
+   - 將新鮮蘑菇曝露在紫外線下（如陽光），促使其合成更多維生素D前體物質。
+   - 經此處理後的蘑菇可提供更豐富的維生素D。
+
+## 健康建議
+- 食用蘑菇時，推薦採取烹煮或日曬等預處理方式，以提升營養吸收並避免消化不適。
+- 高風險人群（如胃腸道敏感者）尤應注意食用方法，必要時可諮詢營養師或醫生。
+
+## 結論
+- 蘑菇因其獨特的結構特性，在食用前需經過適當處理，以 maximise其營養價值並 minimze可能的消化問題。
+- 適當的烹調方式和日曬方法是確保蘑菇被有效利用的重要手段。
 </details>
 
 <details>
-<summary>3533. The Mid-Back Stress Connection</summary><br>
+<summary>3533. [2021-06-24] The Mid-Back Stress Connection</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Virln1LFRVs" target="_blank">
     <img src="https://img.youtube.com/vi/Virln1LFRVs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Key Points of the Article on the Relationship Between Mid-Back and Stress Levels
 
+---
+
+#### **Core Theme: The Connection Between Mid-Back Health and Stress**
+- There is a direct relationship between stiffness, pain, or muscle spasms in the mid-back and stress levels.
+- The sympathetic nervous system (SNS), responsible for the "fight or flight" response, is located along the T1 to T12 vertebrae in the mid-back.
+
+---
+
+#### **Primary Concepts:**
+1. **Sympathetic Nervous System (SNS):**
+   - SNS is a part of the autonomic nervous system that activates the body's stress response.
+   - It is located along the mid-back, specifically from T1 to T12 vertebrae.
+
+2. **Impact of Mid-Back Health on Stress:**
+   - Stiffness, pain, or muscle spasms in the mid-back can maintain a state of stress.
+   - Chronic stress can also lead to back stiffness and pain.
+
+3. **Role of Digestion in Back Pain:**
+   - Poor dietary choices can cause digestive issues like bloating, which may contribute to back pain and increased stress levels.
+
+---
+
+#### **Causes of the Problem:**
+1. **Physical Factors:**
+   - Muscular tension or spasm in the mid-back.
+   - Stiffness or pain caused by poor posture or physical strain.
+
+2. **Physiological Factors:**
+   - Activation of the SNS due to stress, leading to a cycle of back stiffness and increased stress.
+
+3. **Dietary Factors:**
+   - Consumption of unhealthy foods can disrupt digestion, causing bloating and additional pressure on the mid-back.
+
+---
+
+#### **Solutions for Reducing Stress Through Mid-Back Health:**
+1. **Chiropractic Adjustments:**
+   - Regular adjustments by a chiropractor can relieve stiffness and pain in the mid-back.
+   - This can directly reduce stress levels by calming the SNS.
+
+2. **Massage Therapy:**
+   - Massaging the mid-back muscles can help release tension and improve relaxation, thereby reducing stress.
+
+3. **Specific Stretches for Mid-Back Relief:**
+   - Exercises like "Cats and Dogs" from the Egoscue Method can provide significant relief.
+   - Using a massage tool to stretch and release tension in the mid-back.
+
+---
+
+#### **Health Recommendations:**
+1. **Consult a Chiropractor:**
+   - Seek professional adjustments to address structural imbalances and relieve mid-back pain.
+
+2. **Incorporate Massage Therapy:**
+   - Schedule regular massages or use self-massage techniques to reduce muscle tension.
+
+3. **Practice Specific Stretches:**
+   - Include exercises designed to target the mid-back muscles for optimal relief.
+   - Use tools like massage rollers for additional stretching and relaxation.
+
+---
+
+#### **Conclusion:**
+- Addressing mid-back health through chiropractic adjustments, massage, and targeted stretches can effectively reduce stress levels.
+- Improving digestive health by adopting a balanced diet can further enhance overall well-being and reduce back pain.
 </details>
 
 <details>
-<summary>3532. Potassium Controls Vascular Calcification</summary><br>
+<summary>3532. [2021-06-24] Potassium Controls Vascular Calcification</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8oBGJn64-2M" target="_blank">
     <img src="https://img.youtube.com/vi/8oBGJn64-2M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **assium對動脈鈣化和僵硬性的作用**
+- **CAC（冠狀動脈鈣化）測試在評估心血管健康中的重要性**
 
+### 主要觀念
+1. **低血鉀水平促進血管鈣化**：研究表明，低膳食鉀攝取量會導致血管鈣化和主動脈僵硬。
+2. **冠狀動脈粥樣硬化風險**：低血鉀與冠狀動脈厚度增加有關，增加了心臟病發作的風險。
+3. **CAC測試的意義**：CAC測試是評估動脈鈣化的可靠方法，並被認為是整體死亡率的重要預測指標。
+
+### 問題原因
+1. **鉀攝取不足**：大多數人每日攝入的鉀遠低於推薦的4,700毫克。
+2. **炎症和氧化應激**：動脈鈣化的發生與炎症反應密切相關，而炎症通常由氧化應激引發。
+3. **不良飲食習慣**：高糖、精製碳水化合物攝取過多導致抗氧化劑（如維生素C、E）不足，並進一步耗竭鉀儲備。
+
+### 解決方法
+1. **增加膳食鉀攝取**：
+   - 飲食中增加含鉀豐富的食物，如香蕉、土豆、 spinach和豆類。
+2. **補充抗氧化劑**：
+   - 確保足夠的維生素C和E攝取，可通过食用新鮮水果和蔬菜來實現。
+3. **維生素D和K2的作用**：
+   - 維生素D和K2有助於將鈣移至骨骼，減少其在動脈中的沉積，具備抗炎特性。
+
+### 健康建議
+1. **定期進行CAC測試**：特別是高血壓患者，應該定期檢查以評估心血管健康。
+2. **調整飲食結構**：
+   - 減少精製糖和碳水化合物的攝取，增加全穀物、蔬菜和水果的攝取。
+3. **藥物療法之外的補充治療**：
+   - 鐵劑在某些情況下可作為補充治療，但需在醫生指導下使用。
+
+### 結論
+- **鉀在心臟健康中的關鍵作用**：低血鉀水平會增加動脈鈣化的風險，導致高血壓和心血管疾病。
+- **綜合治療的重要性**：通過改善飲食、補充抗氧化劑以及適當的營養補充來降低心血管疾病風險。
 </details>
 
 <details>
-<summary>3531. The Missing Mineral in Strong Bones</summary><br>
+<summary>3531. [2021-06-23] The Missing Mineral in Strong Bones</summary><br>
 
 <a href="https://www.youtube.com/watch?v=1T_L9qBcePk" target="_blank">
     <img src="https://img.youtube.com/vi/1T_L9qBcePk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理
 
+#### 核心主題
+- **骨密度與骨骼健康**：文章主要探討如何通過營養攝取來加強骨密度，特別是針對骨質疏鬆症（osteoporosis）和輕度骨質流失（osteopenia）患者。
+- **微量元素的作用**：強調一種名為「鈷」（strontium）的微量元素在增強骨骼強度方面的重要性。
+
+#### 主要觀念
+1. **鈷的功能**：
+   - 鈷是一種微量礦物，與鈣質化學特性相似。
+   - 它主要幫助硬化骨頭的外層部分，促進骨密度增加。
+2. **鈷的攝取量**：
+   - 鈷的需求量相對於鈣來說極低，比例為1:1000。
+   - 虽然需求量小，但缺乏會導致骨骼脆弱。
+
+#### 問題原因
+- **骨質疏鬆症與輕度骨質流失**：這些病症會增加骨折風險，尤其在老年人群中。
+- **營養失衡**：現代飲食中鈷攝取不足可能導致骨密度下降。
+
+#### 解決方法
+1. **補充鈷**：
+   - 通過特定的營養補充劑來攝取足量的鈷，以降低骨折風險。
+2. **綜合礦物質攝取**：
+   - 配合其他礦物質如鈣、鎂以及維生素D和K2，形成全面的骨骼健康方案。
+
+#### 健康建議
+1. **飲食調整**：
+   - 使用高質量海鹽作為鈷來源之一。
+2. **補充劑推薦**：
+   - 鈣（以asparginate形式）、維生素D、維生素K2和鎂。
+3. **生活方式建議**：
+   - 確保充足的日曬以促進維生素D的合成。
+   - 保持均衡飲食，攝取多樣化的營養素。
+
+#### 研究支持
+1. **研究一（2000-2004）**：
+   - 鈷補充可降低骨折風險41%。
+2. **研究二（2008）**：
+   - 鈷補充可降低骨折風險36%。
+
+#### 結論
+- **鈷的重要性**：鈷在骨骼健康中起著關鍵作用，特別是在增強骨密度方面。
+- **整合營養策略**：通過綜合攝取多種礦物質和維生素，可以有效提升骨骼健康，降低骨折風險。
+
+---
+
+以上整理涵蓋了文章的主要內容與結構，使用正式的學術用語並分為清晰的小節。
 </details>
 
 <details>
-<summary>3530. Drink Green Tea for Your Skin</summary><br>
+<summary>3530. [2021-06-23] Drink Green Tea for Your Skin</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KgaIlep9AQ0" target="_blank">
     <img src="https://img.youtube.com/vi/KgaIlep9AQ0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 綠茶（Green Tea）對皮膚健康的多種益處，包括抗氧化、抗炎、促進膠原蛋白生成等。
 
+---
+
+### 主要觀念  
+1. **抗氧化作用**：綠茶中的多酚類化合物（Polyphenols）具有顯著的抗氧化特性，能夠中和自由基，保護DNA免受氧化損傷。  
+2. **抗光老化作用**：綠茶中的成分可以減輕紫外線引起的皮膚衰老，防止光老化（Photoaging）。  
+3. **促膠原蛋白生成**：綠茶抑制降解膠原蛋白的酶活性，從而增弸 collagen 和 elastin 纖維，改善皮膚彈性和年輕度。  
+4. **抗炎作用**：綠茶富含抗炎物質，有助於减轻皮膚炎症反應。  
+5. **促自噬作用**：綠茶可以誘導自噬（Autophagy），即清除損壞蛋白質並再生新蛋白質，從而保持皮膚年輕外觀。  
+6. **抗癌特性**：研究表明，綠茶可能降低皮膚癌（包括黑色素瘤和非黑色素瘤）的風險。  
+
+---
+
+### 問題原因  
+- 紫外線輻射、自由基損傷、膠原蛋白降解、炎症反應等因素會導致皮膚老化和疾病。  
+
+---
+
+### 解決方法  
+1. **抗氧化劑攝入**：飲用綠茶或使用綠茶提取物作為護膚品，以中和自由基。  
+2. **抗光老化防護**：日常使用含綠茶成分的保養品，並配合防晒措施，保護皮膚免受紫外線傷害。  
+3. **促膠原蛋白生成**：通過飲用綠茶或局部 استخدام其提取物，增弸皮膚 elasticity 和彈性。  
+4. **抗炎策略**：將綠茶融入日常飲食中，以降低皮膚炎症水平。  
+5. **促自噬作用**：在禁食期間飲用綠茶，以增強自噬效應，提升皮膚修復能力。  
+
+---
+
+### 健康建議  
+- 関注飲用高品質綠荼，每日攝取適量（建議成人每天 2-3杯）。  
+- 將綠茶融入日常護膚程序中，例如使用含綠茶成分的面膜或爽膚水。  
+- 經常曝露於紫外線環境下的人群，可考慮額外補充綠茶提取物以增強皮膚保護力。  
+
+---
+
+### 結論  
+綠茶因其多酚類化合物的多種生物活性，展現出防老化、抗炎、促膠原蛋白生成和抗癌等多重益處，為皮膚健康提供了一個自然且有效的選擇。飲用綠茶或使用其提取物產品，可有效改善皮膚狀況並降低相關疾病風險。
 </details>
 
 <details>
-<summary>3529. Health Benefits of Turmeric</summary><br>
+<summary>3529. [2021-06-22] Health Benefits of Turmeric</summary><br>
 
 <a href="https://www.youtube.com/watch?v=E2LRCK6AQ0Y" target="_blank">
     <img src="https://img.youtube.com/vi/E2LRCK6AQ0Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Summary of Key Points from the Article
 
+#### 1. **Core Theme**
+   - The article focuses on the use of turmeric as a natural remedy for inflammatory bowel conditions, including Irritable Bowel Syndrome (IBS), Ulcerative Colitis, and Crohn's Disease.
+
+#### 2. **Major Concepts**
+   - Turmeric contains curcumin, a potent anti-inflammatory compound.
+   - Curcumin inhibits key enzymes involved in inflammation, similar to aspirin and ibuprofen.
+   - The mechanism of curcumin is comparable to that of vitamin D, suggesting potential synergistic effects.
+
+#### 3. **Causes of Inflammation**
+   - Chronic inflammation in the bowels can lead to conditions such as IBS, Ulcerative Colitis, and Crohn's Disease.
+   - Curcumin targets the root causes of inflammation by modulating inflammatory pathways.
+
+#### 4. **Solutions and Health Recommendations**
+   - **Dosage**: Approximately 2 grams of turmeric per day is recommended for therapeutic effects.
+   - **Absorption Enhancements**:
+     - Combine curcumin powder with eggs and coconut oil, then lightly fry to enhance absorption through emulsification.
+     - Alternatively, mix one tablespoon of curcumin powder in boiling water, boil for 10 minutes, and drink the solution within four hours for improved digestibility.
+   - **Supplemental Use**: Consider adding vitamin D to complement the anti-inflammatory effects of curcumin.
+
+#### 5. **Conclusion**
+   - Turmeric is a highly effective natural remedy with minimal side effects for managing inflammatory bowel conditions.
+   - The article encourages viewers to share their success stories using the provided link, emphasizing the practical benefits of turmeric in daily health routines.
 </details>
 
 <details>
-<summary>3528. The Best Exercise for Diabetes</summary><br>
+<summary>3528. [2021-06-22] The Best Exercise for Diabetes</summary><br>
 
 <a href="https://www.youtube.com/watch?v=MU5G_VLzWZE" target="_blank">
     <img src="https://img.youtube.com/vi/MU5G_VLzWZE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：糖尿病及前期糖病的最佳運動方式
 
+#### 核心主題  
+- 探讨最佳运动方式，特别是针对糖尿病、前期糖尿病及胰岛素抵抗患者。
+
+#### 主要觀念  
+1. **分類運動**  
+   - **有氧運動 (Aerobic Exercise)**：需氧運動，如步行和瑜伽，可在運動時進行交談。主要燃燒糖分（ glycogen ），20分鐘後開始消耗脂肪。  
+   - **無氧運動 (Anaerobic Exercise)**：高強度、短期運動，如高強度間歇訓練（HIIT）和短跑，需大量休息。主要燃燒糖分，但脂肪燃燒效果在24至48小時後顯現。
+
+2. **無氧運動的優勢**  
+   - 显著提高胰島素敏感性：研究顯示，相比有氧運動，無氧運動可使胰島素敏感性增強23%。  
+   - 促進生長激素分泌：無氧運動能將生長激素水平提升700%，生長激素是主要的脂肪燃燒和抗衰老激素。
+
+#### 問題原因  
+- 糖尿病、前期糖尿病及胰岛素抵抗已影響60至70%的人口，需有效管理方法。
+
+#### 解決方法  
+- **推薦運動方式**：無氧運動（如高強度間歇訓練）是最有效的選擇。  
+- **建議組合運動**：結合有氧和無氧運動以獲取更多益處。
+
+#### 健康建議  
+1. 初學者或代謝功能受阻患者，可通過增加無氧運動來加速恢復。  
+2. 損害案例未提及，但運動應逐步進行，避免過度負荷。
+
+#### 結論  
+- 無氧運動在改善胰島素敏感性和促進脂肪燃燒方面效果顯著，特別適合糖尿病和前期糖尿病患者。建議將其融入整體健康管理策略中。
 </details>
 
 <details>
-<summary>3527. Another Reason Why You Should do Healthy Keto</summary><br>
+<summary>3527. [2021-06-21] Another Reason Why You Should do Healthy Keto</summary><br>
 
 <a href="https://www.youtube.com/watch?v=a-gi0K6BBlU" target="_blank">
     <img src="https://img.youtube.com/vi/a-gi0K6BBlU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：健康酮飲食與 nutrient 吸收改善的核心價值
 
+#### 核心主題  
+- 健康酮飲食（healthy keto）結合間歇性禁食（intermittent fasting）可顯著提升營養素吸收效率。  
+
+---
+
+#### 主要觀念  
+1. **健康酮飲食的作用**  
+   - 修正胰島素抗性，改善糖分利用，從而提升多種營養素的吸收能力。
+   - 减少精制碳水化合物和穀物攝取，促進腸道修復，降低炎症反應，增強營養吸收。
+
+2. **關鍵營養素：鈣質**  
+   - 鈣質吸收受多種因素影響，如胰島素抗性、維生素D水平、胃酸足夠性等。  
+   - 健康酮飲食能改善這些條件，增強鈣質吸收。
+
+3. **營養吸收的干擾因素**  
+   - 精制碳水化合物和全穀物中的植酸鹽（phytates）會阻礙鈣、鋅、鐵等礦物質的吸收。  
+   - 高蛋白飲食可能過度消耗鈣質，需謹慎控制。
+
+---
+
+#### 問題原因  
+1. **營養素吸收障礙**  
+   - 胰島素抗性影響多種營養素的利用率。  
+   - 維生素D缺乏導致鈣質吸收效率下降。  
+
+2. **腸道健康問題**  
+   - 長期攝取精制碳水化合物和穀物引發腸道炎症，降低營養吸收能力。
+
+3. **胃酸不足**  
+   - 胃酸不足直接影響鈣、鐵、鎂等礦物質的吸收。  
+
+---
+
+#### 解決方法  
+1. **健康酮飲食策略**  
+   - 控制碳水化合物攝取，避免精制糖和穀物。  
+   - 確保足夠蛋白質攝取，但不過量。
+
+2. **增強營養素吸收**  
+   - 补充維生素D以提升鈣質吸收效率（可提高20倍）。  
+   - 減少高植酸鹽食物攝取，如大豆和未加工穀物。  
+
+3. **改善腸道健康**  
+   - 通過間歇性禁食和健康酮飲食降低腸道炎症。  
+   - 使用海鹽（sea salt）促進胃酸生成。
+
+4. **監控激素平衡**  
+   - 維持荷爾蒙平衡，特別是胰島素和雌激素水平，以改善鈣質利用率。
+
+---
+
+#### 健康建議  
+1. 選擇健康酮飲食計劃，結合間歇性禁食，以最大化營養吸收效率。  
+2. 注意維生素D的攝取來源，如日曬、食物或サプリメント。  
+3. 減少精制碳水化合物和高植酸鹽食物的攝取。  
+4. 確保足夠胃酸生成，可通過攝食海鹽或其他天然方法提升。  
+5. 定期評估營養吸收狀況，必要時調整飲食結構。
+
+---
+
+#### 結論  
+健康酮飲食結合間歇性禁食不僅有助於體重管理和血糖控制，更能顯著改善營養素吸收效率。透過修正胰島素抗性、增強腸道健康和維持荷爾蒙平衡等多方面作用，健康酮飲食可幫助個人更有效地利用關鍵營養素如鈣質，從而促進整體健康與 wellness。
 </details>
 
 <details>
-<summary>3526. The Best Food for Wrinkles</summary><br>
+<summary>3526. [2021-06-21] The Best Food for Wrinkles</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hKvJctIvv-s" target="_blank">
     <img src="https://img.youtube.com/vi/hKvJctIvv-s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小結：皮膚老化的原因及改善方法
 
+---
+
+#### 1. 核心主題  
+本篇文章探討了皮膚老化的多種原因及其對整體皮膚健康的影响，並提供了針對性的解決方案和健康建議。
+
+---
+
+#### 2. 主要觀念  
+- **皮膚老化的主要原因**包括 elastin ицерамент (elastin fibers) 和膠原蛋白 (collagen) 的流失、水分保濕能力下降，以及修復能力減弱。
+- **外在因素**如紫外線照射、壓力、糖分攝取過多和煙酒等對皮膚老化有顯著影響。
+- **內在因素**包括生長激素水平下降、代謝失衡（如 cortisol 和 insulin 的不平衡）以及營養吸收能力的降低。
+
+---
+
+#### 3. 問題原因  
+- ** collagen 與 elastin 的流失**：膠原蛋白和弹性纖維是保持皮膚彈性和-tonicity 的關鍵成分，隨著年齡增長，這些蛋白質的生成減少。
+- **水分保濕能力下降**：皮膚的保湿能力減弱導致乾燥，單靠飲水無法有效改善。
+- **修復能力減弱**：皮膚對損傷的修復速度降低，主要與營養攝取不足和代謝失衡有關。
+- **紫外線照射**：過度暴露在紫外線下會加速皮膚老化，導致皮膚彈性和保水能力下降。
+- **壓力和激素失衡**：長期壓力導致 cortisol 分泌過多，破壞蛋白質；糖分攝取過多導致 insulin 水平升高，促進自由基生成，加速皮膚氧化。
+- **營養吸收障礙**：缺乏 bile 可能影響脂肪溶性維生素（如维生素 A、D 和 E）的吸收。
+
+---
+
+#### 4. 解決方法  
+- **飲食調整**：
+  - 增加富含抗氧化劑的食物攝取，如 flavonoids、carotenoids 和 tocopherols。
+  - 高 vitamin C 的食物：紅甜椒、ORGANIC 蓝莓、石榴籽等。
+  - 高 omega-3 的食物： fatty fish, avocados。
+  - 大量食用營養密度高的沙拉和新鮮蔬菜。
+- **生活習慣改善**：
+  - 定期進行長時間禁食（如斷食）以促進蛋白質代謝和修復。
+  - 觀注運動和睡眠，保持良好的血液循环和激素平衡。
+- **皮膚護理**：
+  - 避免过度清潔，保護skins microbiome 平衡。
+  - 避免煙酒和過度紫外線暴露。
+
+---
+
+#### 5. 健康建議  
+- **飲食建議**：多攝取富含抗氧化劑、維生素 C 和 omega-3 的食物；確保良好的膽汁分泌以吸收脂肪溶性維生素。
+- **生活習慣建議**：
+  - 定期禁食，促進蛋白質代謝和修復。
+  - 適當運動和充足睡眠，保持良好的内分泌平衡。
+- **皮膚護理建議**：避免過度清潔，保護skins microbiome；避免紫外線、壓力、糖分和煙酒等有害因素。
+
+---
+
+#### 6. 結論  
+皮膚老化是由多種內外在因素共同作用的結果。通過飲食調整、生活習慣改善和適當的皮膚護理，可以有效延缓老化的速度，保持皮膚健康和年輕狀態。
 </details>
 
 <details>
-<summary>3525. Why Eating Eggs Helps Your Brain</summary><br>
+<summary>3525. [2021-06-20] Why Eating Eggs Helps Your Brain</summary><br>
 
 <a href="https://www.youtube.com/watch?v=QoO6bIRTiCM" target="_blank">
     <img src="https://img.youtube.com/vi/QoO6bIRTiCM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題： 
+- 電蛋攝取對腦部健康的多方面益處。
 
+### 主要觀念：
+1. **膽堿（Choline）**：
+   - 胆堿是乙酰膽鹼的前體，對於記憶、注意力和集中力等認知功能至關重要。
+   - 腳豆蛋黃富含膽堿。
+   - 胆堿幫助合成神經傳遞物質，並維持情緒穩定。
+
+2. **Omega-3脂肪酸**：
+   - 電子含有豐富的DHA和ARA（類花生酸），二者是灰質的重要組成部分。
+   - Omega-3脂肪酸具有抗炎作用，可降低血栓風險，預防中風。
+
+3. **膽固醇**：
+   - 蛋黃中的膽固醇對維生素D合成、激素分泌和細胞膜結構形成至關重要。
+   - 適量攝取膽固醇有益於整體健康，不會導致血液中膽固醇水平過高。
+
+4. **B族維生素（B12, B6, Folate）**：
+   - 蛋類提供豐富的B族維生素，支持神經功能和血紅蛋白合成。
+   - 這些 vitamins 參與甲基化反應，調控基因表達和神經遞質合成。
+
+### 問題原因：
+- 長期以來，膽固醇攝取過高被認為是心血管疾病的風險因素，但研究顯示其對腦健康的重要性往往被低估。
+- 西式飲食中 omega-3 取不足，導致炎症和神經退化風險增加。
+
+### 解决方法：
+1. **均衡飲食**：選擇 pasture-raised 有機蛋，確保膽固醇、omega-3 和維生素的均衡攝取。
+2. **多樣化蛋白來源**：除了蛋類，可食用其他富含膽堿和omega-3的食物（如深海魚類、堅果種子）。
+3. **健康生活方式**：結合運動和心理刺激活動，進一步提升認知功能。
+
+### 健康建議：
+1. 每周攝取 2-4 風蛋或等量的其他來源，以確保足夠的膽堿攝取。
+2. 配合omega-3脂肪酸攝取（如深海魚油），以增強抗炎效果。
+3. 請在醫生建議下調整飲食結構，特別是心血管疾病患者。
+
+### 結論：
+鸡蛋因其豐富的營養成分，在支持腦健康方面具有不可替代的作用。膽堿、omega-3脂肪酸和B族維生素共同作用，可提升認知功能、情緒管理和神經保護。合理攝取蛋類對整體健康有明顯益處，值得在日常飲食中作為重要來源。
 </details>
 
 <details>
