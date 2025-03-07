@@ -43,113 +43,623 @@
 </details>
 
 <details>
-<summary>396. Hormones Made Simple (Part 1, 2 3) - Webinar Registration</summary><br>
+<summary>396. [2016-05-22] Hormones Made Simple (Part 1, 2 3) - Webinar Registration</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5RskH6iSkqI" target="_blank">
     <img src="https://img.youtube.com/vi/5RskH6iSkqI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：激素的簡明介紹與内分泌系統的作用
 
+- ** glands 和 organs 的區別**：
+  - 線狀體負責產生激素。
+  - 臓器通常不生產激素。
+
+- **激素的基本功能**：
+  - 濕潤是一類化學信號，通過血液傳遞信息。
+  - 與神經系統不同，激素使用血液來進行通信。
+
+### 主要觀念：激素的作用與相互作用
+
+- **激素的作用**：
+  - 啟動或調節多種生理功能，如月經周期、睡眠模式、脂肪代謝、頭發生長等。
+  
+- **激素的信號傳遞機制**：
+  - 濕潤從一個腺體傳送至靶細胞，激發預先程序化的反應。
+  - 存在反饋機制，即目標區域會傳送信號以關閉原始激素的作用。
+
+### 問題原因：當前醫療保健的局限性
+
+- **孤立事件看待激素問題**：
+  - 現今醫療往往將激素視為孤立事件，只關注某種激素水平下降的情況。
+  - 濫用 hormone 替代療法而忽視了激素之間的相互關聯。
+
+### 解決方法：自然平衡激素的方法
+
+- **抗衰老策略**：
+  - 教授如何通過生活方式調整來延緩與年齡相關的激素變化，從而達到抗衰老的效果。
+  
+- **整體觀念**：
+  - 强調理解激素之間的相互作用，而非單一治療。
+
+### 健康建議：參加 Seminar 系列
+
+- ** Seminar 的主題與目標**：
+  - 主題為「Hormones Made Simple」，旨在幫助公眾理解並自然平衡激素。
+  
+- ** Seminar 的時間安排**：
+  - 時期為未來三周的每個星期三晚上。
+
+### 總結： Seminar 的重要性與邀請
+
+- ** Seminar 的主要利益**：
+  - 提供簡單易懂的激素知識，幫助公眾避免被複雜化的信息所混淆。
+  
+- ** 邀請參加**：
+  - 鼓勵註冊 Seminar 以獲得更深入的理解和個人健康管理的實用建議。
 </details>
 
 <details>
-<summary>395. Forget the Coffee! Do Wheat Grass Juice for ENERGY!</summary><br>
+<summary>395. [2016-05-18] Forget the Coffee! Do Wheat Grass Juice for ENERGY!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=wXbVEDcvz8g" target="_blank">
     <img src="https://img.youtube.com/vi/wXbVEDcvz8g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Core Theme (核心主題)
+- The relationship between wheatgrass juice and its impact on energy levels.
 
+### Key Concepts (主要觀念)
+- Wheatgrass juice is rich in chlorophyll, which has a chemical structure similar to hemoglobin.
+- Chlorophyll acts as a carrier for oxygen, contributing to the plant's ability to convert solar energy into chemical energy.
+- Wheatgrass juice powder is highly concentrated and provides significant nutritional value.
+
+### Issues and Causes (問題原因)
+- The conversation was interrupted by a call from the speaker's mother, indicating a potential interruption in the discussion flow.
+
+### Solutions and Recommendations (解決方法、健康建議)
+- Wheatgrass juice or its powder form can be consumed to harness the benefits of chlorophyll.
+- Even a small serving size, such as one teaspoon of wheatgrass juice powder, offers substantial nutritional value equivalent to multiple servings of fresh wheatgrass.
+
+### Conclusion (結論)
+- Wheatgrass juice is a nutrient-dense supplement that may enhance energy levels due to its high chlorophyll content.
+- Further discussion was interrupted, but the initial information highlights the potential benefits of incorporating wheatgrass into one's diet.
 </details>
 
 <details>
-<summary>394. How to Lose Belly Fat as a Vegan – Dr. Berg</summary><br>
+<summary>394. [2016-05-11] How to Lose Belly Fat as a Vegan – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Zxvlhc7ythA" target="_blank">
     <img src="https://img.youtube.com/vi/Zxvlhc7ythA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理  
 
+#### 核心主題  
+- **脂肪燃燒與胰島素的關係**：文章主要探討如何通過控制胰島素水平來促進脂肪燃燒，特別是針對素食者的飲食建議。  
+
+---
+
+#### 主要觀念  
+1. **胰島素的作用**：  
+   - 胰島素是一種關鍵激素，其水平決定身體是燃燒糖分還是脂肪。  
+   - 根據《Genes & Development in Physiology》的研究，低胰島素水平會顯著促進 fat metabolism（脂肪代謝）。  
+
+2. **胰島素抵抗的影響**：  
+   - 胰岛素抵抗（insulin resistance）是導致腹型肥胖的主要原因之一，通常是前期糖尿病的表現。  
+
+3. **飲食對胰島素的作用**：  
+   - 高血糖指數食物會快速升高血糖，刺激胰島素分泌，抑制脂肪燃燒。  
+   - 低胰岛素食物（如健康脂肪和特定蔬菜）有助于降低胰岛素水平，促進脂肪消耗。  
+
+---
+
+#### 問題原因  
+- **現代飲食習慣**：過度攝入精制碳水化合物、糖分和加工食品，導致胰島素水平持續升高，抑制脂肪燃燒。  
+- **頻繁進餐和零食**：每次進餐都會刺激胰島素分泌，增加胰岛素抵抗風險。  
+- **缺乏運動**：久坐或缺乏體力活動會進一步惡化胰岛素敏感性。  
+
+---
+
+#### 解決方法  
+1. **飲食調整**：  
+   - 選擇低胰岛素食物（如健康脂肪、蛋白質和特定蔬菜）。  
+   - 限制高血糖指數食品，包括白米、馬鈴薯、甜點等。  
+
+2. **進餐频率**：  
+   - 減少每日進餐次數，避免頻繁零食攝取，讓身體有機會進入脂肪燃燒模式。  
+   - 可采用間歇性禁食（intermittent fasting），延長禁食時間以提升脂肪燃燒效率。  
+
+3. **增加健康脂肪**：  
+   - 添加橄欖油、椰子油、牛油果和花生等健康脂肪，幫助降低胰岛素水平並延長飽腹感。  
+
+4. **運動**：  
+   - 定期進行有氧運動（如跑步、游泳）和力量訓練，改善胰岛素敏感性。  
+
+5. **其他建議**：  
+   - 每餐後攝取兩茶匙蘋果醋，有助於降低血糖水平。  
+   - 确保充足睡眠，避免干擾荷爾蒙平衡。  
+
+---
+
+#### 健康建議  
+- 避免加工食品和高糖飲料，選擇天然食物。  
+- 減少進餐次數，避免胰島素過度分泌。  
+- 多攝取健康脂肪（如橄欖油、椰子油），並配合間歇性禁食以提升燃燒效果。  
+
+---
+
+#### 結論  
+- 控制胰岛素水平是促進脂肪燃燒的關鍵。  
+- 通過飲食調整、運動和生活習慣的改變，可以有效改善胰岛素 resistance（抵抗），從而達到減肥和健康目標。
 </details>
 
 <details>
-<summary>393. What Causes Insulin Resistance – EXPLAINED By Dr.Berg</summary><br>
+<summary>393. [2016-05-10] What Causes Insulin Resistance – EXPLAINED By Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=IpedthIpUnY" target="_blank">
     <img src="https://img.youtube.com/vi/IpedthIpUnY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：低碳水化合物飲食對糖尿病及其他代謝疾病的療效與脂肪攝取的安全性
 
+---
+
+#### 1. 核心主題  
+- 探讨低碳水化合物饮食（包括酮ogenic diet）在治療糖尿病、肥胖症及其他代謝疾病中的效果。  
+- 推翻傳統觀點，強調健康脂肪的攝取對血糖控制的重要性。  
+
+---
+
+#### 2. 主要觀念  
+1. **低碳水化合物飲食的效果**  
+   - 低血糖生成指數（GI）飲食能有效改善胰島素敏感性並促進體重下降。  
+   - ogenic diet自1920年代以來被用於治療癲癇，近年研究顯示其在多種疾病中具有療效，包括糖尿病、多囊卵巢綜合征、神經系統疾病等。  
+
+2. **脂肪攝取的安全性**  
+   - 多項研究證實，健康脂肪（包括饱和脂肪）攝取與血糖水平無直接關聯。  
+   - 飽和脂肪在適當的情況下具有治療潛力，特別是來源於天然食物（如grass-fed動物性脂肪）。  
+
+3. **胰島素指數的重要性**  
+   - 胰島素指數用於評估不同食物對胰島素水平的影響，其中脂肪類食物通常位於低端，表明其對胰島素分泌的干擾較小。  
+   - 結合健康脂肪攝取可減輕高GI食物引起的血糖波動。  
+
+---
+
+#### 3. 問題原因  
+1. **傳統觀點的限制**  
+   - 長期以來，醫學界過於強調降低脂肪攝取以控制慢性疾病，但這忽略了碳水化合物對血糖的實際影響。  
+
+2. **研究數據的誤導**  
+   - 多數研究顯示健康脂肪攝取與血糖水平無明顯關聯，而某些弱相關的研究被過度引用，導致公共衛生政策及飲食建議的偏差。  
+
+---
+
+#### 4. 解决方法  
+1. **飲食調整策略**  
+   - 倡導低碳水化合物飲食模式，降低精制碳水化合物攝取量以改善血糖控制。  
+   - 鼓勵健康脂肪（如橄欖油、椰子油、坚果等）的攝取，並避免反式脂肪及加工脂肪的使用。  
+
+2. **研究數據的重新評估**  
+   - 通過整合多項研究結果，重新評估脂肪攝取對血糖及整體健康的影響，避免依賴片面數據制定飲食建議。  
+
+---
+
+#### 5. 健康建議  
+1. **飲食結構調整**  
+   - 選擇低碳水化合物、高健康脂肪的飲食模式，以維持穩定血糖水平並促進體重管理。  
+   - 確保脂肪來源於天然食物，避免加工食品中含有的反式脂肪。  
+
+2. **飲食與藥物的結合**  
+   - 在醫師指導下，使用低碳水化合物飲食作為輔助治療手段，特別是對於糖尿病患者。  
+
+3. **血糖監測**  
+   - 使用胰島素指數指導飲食選擇，並通過定期血糖監測評估飲食模式的效果。  
+
+---
+
+#### 6. 結論  
+- 健康脂肪攝取並非導致慢性疾病的罪魁禍首，反而是低碳水化合物飲食在多種疾病治療中具有重要價值。  
+- 醫療界及公共衛生部門需重新評估傳統飲食建議，基於最新研究結果為患者提供更科學的飲食指導。
 </details>
 
 <details>
-<summary>392. How to Prevent Fatty Liver When You Lose Weight – Dr.Berg</summary><br>
+<summary>392. [2016-05-06] How to Prevent Fatty Liver When You Lose Weight – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=R8dWWoADCFM" target="_blank">
     <img src="https://img.youtube.com/vi/R8dWWoADCFM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- **脂肪肝的防範與治療**：探討在减重飲食過程中如何防止脂肪肝的形成。
 
+---
+
+### 主要觀念  
+1. **脂肪肝形成的機制**：
+   - 降低胰島素水平會促使脂肪分解，但過量的脂肪酸進入血液後，若未能有效處理，會積累於肝臟，導致脂肪肝。
+2. **脂肪肝的危害**：
+   - 腸大 Waist circumference 是脂肪肝的重要指標。
+3. **防範脂肪肝的重要性**：
+   - 在减重飲食中需特別注意脂肪代謝和肝臟健康。
+
+---
+
+### 問題原因  
+1. **低胰島素飲食的副作用**：
+   - 降低胰島素水平可促進脂肪分解，但過多的脂肪酸若未能被有效利用或排出，會導致肝臟脂肪堆積。
+2. **飲食結構不合理**：
+   - 高蛋白飲食（如阿特金斯 diet）雖能減重，但若缺乏足夠的蔬菜攝取，會增加脂肪肝風險。
+
+---
+
+### 解決方法  
+1. **增加蔬菜攝取量**：
+   - 每天至少攝取7杯新鮮蔬菜，尤其是葉綠蔬菜，以促進脂肪代謝和排毒。
+2. **補充蘋果醋（Apple Cider Vinegar）**：
+   - 蘋果醋具有解毒和清肝的作用，可幫助溶解脂肪肝。
+3. **補充膽硷（Choline）**：
+   - 胆硷能促進脂肪代謝，降低脂肪在肝臟中的積累。蛋黃是富含膽硷的食物來源。
+4. **增加磷脂攝取（Lecithin）**：
+   - 磷脂可幫助分解脂肪，蛋黃也是良好的磷脂來源。
+
+---
+
+### 健康建議  
+1. **飲食建議**：
+   - 每天攝取至少7杯新鮮蔬菜。
+   - 選擇高膽硷食物（如蛋黃）以促進脂肪代謝。
+2. **飲品建議**：
+   - 每日三次飲用稀釋的蘋果醋（2茶匙於一杯溫水）。
+3. **生活方式建議**：
+   - 避免過度低血糖飲食，保持穩定的胰島素水平。
+   - 確保足夠的蔬菜攝取以支持肝臟排毒功能。
+
+---
+
+### 結論  
+- 在减重過程中，合理的飲食結構和補充必要的營養素（如膽硷、磷脂）是防範脂肪肝的关键。
+- 蘋果醋和新鮮蔬菜在清肝解毒方面具有重要作用，建議配合使用。
+- 高蛋白飲食需搭配足夠的蔬菜攝取，以降低脂肪肝風險。
 </details>
 
 <details>
-<summary>391. The Pre and Post Workout Meal Myth – DO'S and DON'TS – Dr. Berg</summary><br>
+<summary>391. [2016-05-02] The Pre and Post Workout Meal Myth – DO'S and DON'TS – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Etn-AkPSH0I" target="_blank">
     <img src="https://img.youtube.com/vi/Etn-AkPSH0I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理：運動前後進食的迷思與真相
 
+#### 核心主題
+- 譡誤：運動前後進食對脂肪燃燒和肌肉生長的效果。
+- 主張：運動前後進食可能抑制脂肪燃燒，延遲肌肉恢復。
+
+---
+
+#### 主要觀念
+
+1. **糖原儲備的作用與局限**
+   - 糖原是肌肉和肝臟中儲存的碳水化合物，在短時間內（約30分鐘）提供能量。
+   - 達到糖原耗竭後，身體轉為燃燒脂肪。
+
+2. **運動期間進食的影響**
+   - **高糖食物**：會提高血糖水平，抑制脂肪燃燒。
+   - **濃度高的蛋白質**（如乳清蛋白）：刺激胰島素分泌，阻斷脂肪燃燒。
+
+3. **肌肉生長的關鍵因素**
+   - 肌肉修復和生長主要發生於運動後的恢復期，而非立即的運動前後。
+   - 進食蛋白質需時24小時以上才能_transport_至肌肉。
+
+---
+
+#### 問題原因
+
+1. **胰島素的作用**
+   - 胰島素抑制脂肪燃燒，影響瘦肌肉的生長。
+   - 運動後進食高糖或高濃度蛋白質會增加胰島素水平，削弱運動效果。
+
+2. **對脂肪燃燒和肌肉生長的干擾**
+   - 運動前後進食可能延緩脂肪燃燒和肌肉修復。
+   - 血糖 levels 的波動干擾瘦肉組織的生成。
+
+---
+
+#### 解决方法
+
+1. **避免運動前後進食**
+   - 禁止在運動前3小時及運動後至少2小時內進食，以最大化脂肪燃燒效果。
+
+2. **優先恢復與修復**
+   - 運動後的恢復期（睡眠和休息）是肌肉生長的關鍵時段。
+   - 適當攝取健康蛋白質來支持肌肉修復，但避免過量。
+
+3. **健康建議**
+   - 確保飲食整體均衡，提供足夠的微量營養素以促進肌肉生長。
+   - 保持規律的睡眠，以刺激生長激素分泌。
+
+---
+
+#### 總結
+
+- 運動前後進食並非必要，且可能妨礙脂肪燃燒和肌肉修復。
+- 親身經歷運動後的恢復期，避免血糖波動干擾瘦肉組織生成。
+- 針對特殊人群（如賽事選手或糖尿病患者），可根據具體情況調整飲食策略。
+
+---
+
+### 建議實施步驟
+
+1. **規劃每日飲食**
+   - 避免運動前後進食，特別是高糖和高濃度蛋白質食物。
+   - 確保每日攝取足夠的微量營養素來支持肌肉修復。
+
+2. **優化恢復環境**
+   - 確保充足的睡眠時間（7-9小時），促進生長激素分泌。
+   - 運動後適當補充蛋白質，避免立即進食。
+
+3. **定期評估與調整**
+   - 根據個人體能狀況和目標，逐步調整飲食結構和運動強度。
+   - 跟蹤體重變化和肌肉生長情況，以驗證方法的有效性。
 </details>
 
 <details>
-<summary>390. How to Lose Fat by Eating Bacon – Dr. Berg</summary><br>
+<summary>390. [2016-04-28] How to Lose Fat by Eating Bacon – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_EhLjMGsnRw" target="_blank">
     <img src="https://img.youtube.com/vi/_EhLjMGsnRw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- **高胰島素血症的危害**：長期高水平的胰島素會導致肥胖、糖尿病和其他代謝性疾病。
+- **脂肪在飲食中的重要性**：特別是 bacon（🥓）等富含脂肪的食物，能夠幫助控制血糖和 hunger，從而改善代謝健康。
+
+#### 主要觀念
+1. **胰島素的作用與危害**：
+   - 胰島素的主要功能是將血糖運輸到細胞中作為能量來使用。
+   - 長期高胰島素血症會導致身體對胰岛素的抵抗，進而引發肥胖和代謝性疾病。
+
+2. **脂肪在飲食中的益處**：
+   - 脂肪不會刺激胰島素分泌，能夠幫助控制血糖水平。
+   - 脂肪能提供持久的 satiety（飽足感），减少 hunger 和零食攝取。
+
+3. **膽固醇的迷思**：
+   - 長期以來，人們誤以為食用脂肪會導致高膽固醇，但事實上，胆固erial 主要是由肝脏自行合成。
+   - 碳水化合物才是真正影響膽固醇和血脂水平的主要因素。
+
+#### 問題原因
+- **現代飲食結構的失衡**：
+  - 高碳水化合物、低脂肪的飲食模式導致胰島素水平持續升高，引發代謝紊亂。
+  - 長期攝入高糖、高GI（升糖指數）食物破壞血糖穩定。
+
+- **對脂肪的錯誤認識**：
+  - 社會普遍認為脂肪是不健康的，導致人們過度攝取精制碳水化合物，而忽略了健康脂肪的重要性。
+
+#### 解決方法
+1. **飲食調整**：
+   - 增加健康脂肪的攝取（如 bacon、其他動物脂肪），以幫助控制血糖和 hunger。
+   - 減少精制碳水化合物（如白米飯、面包、甜食）的攝取，避免胰島素水平劇烈波動。
+
+2. **生活習慣改善**：
+   - 適量運動：規律的有氧運動可以提高胰岛素敏感性，降低血糖水平。
+   - 良好的睡眠：充足的睡眠有助于調節荷爾蒙（包括胰岛素和皮質醇），維持代謝平衡。
+
+3. **壓力管理**：
+   - 控制壓力以降低皮質醇水平。皮質醇會升高血糖，進而刺激胰島素分泌。
+   - 可通過冥想、瑜伽等方式來管理壓力。
+
+#### 健康建議
+- **早餐選擇**：食用含健康脂肪的食物（如 bacon）來幫助控制 hunger 和血糖水平。
+- **飲食結構**：以低碳水化合物、高蛋白質和健康脂肪為主，避免精制糖和反式脂肪。
+- **定期檢查**：Monitoring 胆固醇和血糖水平，及時調整飲食和生活方式。
+
+#### 結論
+- **平衡飲食的重要性**：適當增加健康脂肪攝取，控制碳水化合物的量和質，是維持代謝健康的关键。
+- **生活習慣的調整**：良好的睡眠、規律運動和壓力管理對於改善胰島素抵抗和整體健康至關重要。
+
+---
+
+此文強調了脂肪在飲食中的重要性，特別是指出了 bacon 等食物的健康益處。它幫助讀者擺脫了對脂肪的錯誤認知，提供了實用的飲食建議和生活習慣調整方向，從而改善胰島素水平和整體代謝健康。
 </details>
 
 <details>
-<summary>389. The Sodium Myth and Why We Need It! – Dr.Berg</summary><br>
+<summary>389. [2016-04-18] The Sodium Myth and Why We Need It! – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=plEulSI2RsY" target="_blank">
     <img src="https://img.youtube.com/vi/plEulSI2RsY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理與分析
 
+#### 核心主題  
+- 探讨钠（Sodium）在人体健康中的作用及其爭議。
+
+---
+
+#### 主要觀念  
+1. ** sodium 的重要作用**：  
+   - 頻道 Mineral essential for survival, playing a critical role in fluid balance, nerve function, and muscle contraction.  
+   - 調節血壓，平衡體液。  
+
+2. ** sodium 的攝取量建議**：  
+   - 每日所需量约为1000毫克（約一茶匙鹽）。  
+   - 食鹽中的Na只占一半，因此需攝取稍多於1000毫克的食鹽以滿足需求。  
+
+3. **低 sodium 的風險**：  
+   - 頻道 Hyponatremia（低血鈉症）：飲水過多、鹽攝取不足導致。  
+   - 可能引發腦部腫脹和心臟問題，甚至致死。  
+
+4. **高 sodium 的影響**：  
+   - 體液 retention可能與高血壓有關，但研究證據並不充分。  
+   - 高糖飲食會導致 potassium depletion，進而加重 sodium retention。  
+
+---
+
+#### 問題原因  
+1. ** sodium 與血壓的研究爭議**：  
+   - 早期研究未能控制其他變量（如糖分攝取），可能影響結論。  
+
+2. ** electrolyte 平衡失調**：  
+   - 高糖飲食導致 potassium 摄取不足，進而影響 sodium 的平衡。  
+
+3. **加工食品中的隱性鹽**：  
+   - MSG 等添加物增加 sodium攝取量。  
+
+4. **礦物質不平衡**：  
+   - 低 adrenal function 可能導致 sodium cravings 和 mineral imbalance。  
+
+---
+
+#### 解決方法  
+1. **提高 potassium 摄取量**：  
+   - 食用更多蔬菜（如菠菜、紅薯、香蕉等）以平衡 sodium。  
+
+2. **選擇合適的鹽**：  
+   - 推薦使用 Himalayan 盐，尤其是粉紅色或黑色版本：  
+     - 粉紅色 Himalayan 盐：純度高，含有多種微量元素。  
+     - 黑色 Himalayan 盐：富含硫，有益於肝臟排毒和皮膚健康，但味道較重。  
+
+3. **避免過度飲水**：  
+   - 適當飲水，避免因攝取過多水分而引發 hyponatremia。  
+
+4. **均衡飲食**：  
+   - 減少加工食品和高糖飲食的攝取。  
+
+---
+
+#### 健康建議  
+1. **每日鹽分攝取**：  
+   - 每日鹽分攝取量以滿足1000毫克 sodium 為準，可攝取稍多於此數值的食鹽。  
+
+2. **鹽的选择**：  
+   - 選擇天然未加工的 Himalayan 盐為佳，避免市售精製鹽。  
+
+3. **飲水與 electrolyte 平衡**：  
+   - 適當補充水分，避免因過度飲水導致低血鈉症。  
+
+4. **增加蔬菜攝取**：  
+   - 多攝取富含 potassium 的蔬菜，以幫助平衡 sodium 水平。  
+
+---
+
+#### 文章中不一致或相互矛盾的地方  
+1. ** sodium 與血壓的關係**：  
+   - 文章指出早期研究可能因未控制其他變量（如糖分）而影響結論，但後來又提到高 sugar 飲食會導致 potassium depletion 和 sodium retention。這部分需要更清晰的界限。  
+
+2. ** Himalayan 盐的優點**：  
+   - 虽然文章強調Himalayan鹽的純度和健康益處，但未提及其價格較高的缺點。  
+
+3. **低血壓與高血壓的平衡**：  
+   - 文章主要探討低 blood sodium 的風險，但未充分討論高 blood sodium 的影響。
 </details>
 
 <details>
-<summary>388. Are You Addicted to Sweets or Just Love Them? – Dr. Berg</summary><br>
+<summary>388. [2016-04-12] Are You Addicted to Sweets or Just Love Them? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=gvVziD_YAic" target="_blank">
     <img src="https://img.youtube.com/vi/gvVziD_YAic/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- **糖分攝取及成癮性**：探討糖分在現代飲食中的氾濫及其成癮性問題。
+- **健康影響**：分析糖分攝取對健康的負面影響，包括血糖波動和慢性病風險。
 
+### 主要觀念  
+1. **糖分的普遍性和誘惑力**：糖分出現在幾乎所有加工食品中，且其誘惑力甚至超越某些毒品。
+2. **糖分成癮的定義**：強調糖分成癮不僅是對糖分的偏好，而是無法抵抗的 compulsive behavior。
+3. **健康替代方案的重要性**：提出使用健康代用甜eners和кусині替代策略來打破糖分依賴。
+
+### 問題原因  
+- **血糖波動**：糖分攝取導致血糖快速上升後下降，引發更多糖分渴望。
+- **神經調節失衡**：長期高糖飲食會降低味蕾對甜味的敏感度，並破壞身體對血糖的自然調節機制。
+- **心理依賴**：糖分攝取與愉悅感聯繫，形成心理上的強烈渴望。
+
+### 解決方法  
+1. **健康替代策略**：
+   - 使用天然代用甜eners（如蜂蜜、椰糖、紅糖等）來滿足味蕾。
+   - 採用低GI食物（如燕麥、糙米等）來穩定血糖水平。
+2. **逐步戒斷**：建議通過逐漸減少糖分攝取量並配合健康替代方案，使身體和心理逐步脫離對糖分的依賴。
+3. **心理調適**：認識到糖分成癮的問題，並接受改變是必要的，從而建立正確的飲食觀念。
+
+### 健康建議  
+- **均衡飲食**：攝取多樣化的食物，包括大量的蔬菜、水果、全穀物和蛋白質來源。
+- **避免極度限制**：採取溫和的方式逐步減少糖分攝取，而非完全戒斷，以避免反彈消費。
+- **增加膳食纖維**：膳食纖維有助於延緩糖分吸收，穩定血糖水平。
+
+### 結論  
+- **糖分成癮是可以克服的**：通過健康的替代方案和逐步戒斷策略，可以有效擺脫糖分依賴。
+- **健康飲食的重要性**：建立均衡的飲食習慣不僅能改善身體健康，還能提升整體生活品質。
+
+此文章強調了糖分攝取的潛在危害及其成癮性，並提供了實用的解決方案和健康建議，幫助讀者逐步擺脫糖分依賴，實現更健康的飲食模式。
 </details>
 
 <details>
-<summary>387. Hidden Environmental Stressors – Dr. Berg</summary><br>
+<summary>387. [2016-04-12] Hidden Environmental Stressors – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=6T4zOq7ifTY" target="_blank">
     <img src="https://img.youtube.com/vi/6T4zOq7ifTY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：控制環境以降低壓力與促進 adrenal 健康
 
+#### 核心主題
+- **環境對身心健康的影響**：環境是影響内分泌腺（adrenals）、心理穩定性和壓力水平的重要因素。
+- **現代媒體的負面影響**：電視、新聞、網絡和YouTube等媒體中充斥著負面信息，如恐嚇性內容和低俗資訊。
+
+#### 主要觀念
+1. **環境的雙重作用**：
+   - 积極環境能促進身心健康。
+   - 消極環境會引發壓力反應，影響adrenals功能。
+
+2. **媒體消費的影響**：
+   - 觀看新聞或恐怖內容會使人陷入恐懼心理，加重壓力。
+   - 適當控制媒體消費，選擇有益於精神的內容（如喜劇）。
+
+3. **社交環境的重要性**：
+   - 與正面的人為伍能提升情緒。
+   - 远離 negativity 的人和信息。
+
+#### 問題原因
+- 未意識到 environment 的潛在壓力源。
+- 過度暴露於媒體的負面信息，特別是.news 和恐怖內容。
+- 網絡和YouTube中充斥著低俗和有害內容。
+
+#### 解決方法
+1. **環境控制**：
+   - 意識到並主動塑造 environment。
+   - 限制接觸有害信息（如negative news、pornography等）。
+
+2. **心理調適策略**：
+   - 將注意力放在未來，通過 daydreaming 誕生positive imagination。
+   - 學會活在當下，從事能讓心神集中的活動（如 Lego 搭建、繪畫、音樂創作等）。
+
+3. **社交選擇**：
+   - 主動選擇與 positive 人士為伍。
+   - 避免接觸 negativity 的人和信息。
+
+#### 健康建議
+- **媒體消費**：避免在睡前觀看新聞或恐怖內容，選擇有益於精神的電視節目（如喜劇）。
+- **環境管理**：清理工作和生活 space，限制有害信息的進入。
+- **心理訓練**：通過有意識地 focus 在當下或 future 的 positive 想象中來紓解壓力。
+- **社交圈管理**：選擇能提升情緒的人際關係。
+
+#### 結論
+- 改善 environment 是促進 adrenal 健康和整體心理健康的重要環節。
+- 需要主動控制 environment，避免被有害信息影響。
+- 未來的研究可進一步探討不同環境因素對壓力反應的具體影響。
 </details>
 
 <details>
