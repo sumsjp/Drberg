@@ -593,91 +593,447 @@
 </details>
 
 <details>
-<summary>346. Dr. Berg Trace Minerals: and how to use it</summary><br>
+<summary>346. [2015-12-07] Dr. Berg Trace Minerals: and how to use it</summary><br>
 
 <a href="https://www.youtube.com/watch?v=QF3A6-Uzep4" target="_blank">
     <img src="https://img.youtube.com/vi/QF3A6-Uzep4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **Trace Minerals (痕量礦物)**  
+  - 痕量礦物是指人體需要量極小但至關重要的礦物質。
+  - 現代農業中，土壤中的礦物質未得到有效補充，導致食物中痕量礦物的缺失。
 
+### 主要觀念
+- **全球性差異**  
+  - 欐洲和非洲的食物中含有豐富的痕量礦物，而美國等地區則缺乏。
+- **植物基礦物的優勢**  
+  - 使用植物來源的礦物質，吸收率可達100%。
+  - 植物基礦物分子小（15至19,000倍），吸收速度快且無毒性。
+
+### 問題原因
+- **土壤貧瘠**  
+  - 現代農業中，農田未將礦物質回補到土壤中，導致食物營養價值降低。
+- **飲食結構不足**  
+  - 對于兒童和成年人來說，日常飲食中痕量礦物的攝取可能不足。
+
+### 解決方法
+- **植物基礦物液劑**  
+  - 推薦使用植物基礦物液劑來補充痕量礦物。
+  - 液體形式易於吸收，建議每日服用1至2次。
+
+### 健康建議
+- **劑量指引**  
+  - 成年人：每日早晚各一次，每次1至2滴。
+  - 兒童：每日約5滴。
+- **服用方式**  
+  - 可將礦物液滴入水中或加入飲料中食用。
+  - 建議避免直接口服，以免刺激口腔。
+
+### 結論
+- **綜合效益**  
+  - 植物基礦物液劑不僅能補充痕量礦物，還可改善整體健康狀況，包括皮膚彈性、毛發和指甲健康等。
+- **普及性**  
+  - 適用於各年齡群體，特別是兒童和成人，可作為日常營養補充劑。
 </details>
 
 <details>
-<summary>345. Dr. Berg's Raw Wheat Grass Juice Powder: how to use it</summary><br>
+<summary>345. [2015-12-06] Dr. Berg's Raw Wheat Grass Juice Powder: how to use it</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ZR1wH9mwb5o" target="_blank">
     <img src="https://img.youtube.com/vi/ZR1wH9mwb5o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 推介一種100%Certified Organic的生長草汁粉末產品。
 
+---
+
+### 主要觀念  
+1. **來源與特性**  
+   - 來源於猶他州的一片古代海底床，富含94種礦物質。  
+   - 是高濃度、營養密集的粉末，無添加劑、BINDERS或化學物質。  
+
+2. **成分優勢**  
+   - 含豐富的葉綠素和多種維生素及礦物質。  
+   - 每茶匙相當於大量蔬菜的營養，特別適合補充血糖、免疫系統和心血管健康。  
+
+3. **食用方式**  
+   - 可直接溶於水或加入果汁、奶昔中。  
+   - 推薦一天服用1-2次，特殊情況可增加至3次。  
+
+4. **功效與適用性**  
+   - 有助於改善血糖問題和增強免疫力。  
+   - 適合用於 allergies患者（因能幫助减少對草類的過敏）。  
+
+---
+
+### 問題原因  
+- 市面上多數 grass powder 產品含有添 加劑，營養價值較低。  
+- 消費者可能因口味問題抗拒直接服用。  
+
+---
+
+### 解決方法  
+1. **產品選擇**  
+   - 選擇無添加劑、高濃度的CERTIFIED ORGANIC產品。  
+
+2. **食用技巧**  
+   - 直接溶於水或加入飲料中，若口感不佳可混合水果醬或奶昔。  
+   - 若有特殊健康狀況（如血糖問題），可增加服用次數。  
+
+---
+
+### 健康建議  
+1. **營養攝取**  
+   - 每日補充1-2茶匙，特殊情況下可增 加至3次，以最大化營養效益。  
+
+2. **時間與方式**  
+   - 可於空腹或飯後服用，早晨和晚上各一次為佳。  
+   - 適當分次服用可幫助穩定血糖並提升整體健康狀況。  
+
+---
+
+### 結論  
+- 這款CERTIFIED ORGANIC的生長草汁粉末是一種高效營養補充劑，適合用於增強免疫力、改善心血管健康和管理血糖問題。  
+- 推薦消費者將其融入日常飲食中，以獲得最佳的健康效果。
 </details>
 
 <details>
-<summary>344. Dr. Berg’s Vitamin K2: and How to Use It</summary><br>
+<summary>344. [2015-12-06] Dr. Berg’s Vitamin K2: and How to Use It</summary><br>
 
 <a href="https://www.youtube.com/watch?v=yVe417S38EE" target="_blank">
     <img src="https://img.youtube.com/vi/yVe417S38EE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納與整理
 
+#### 1. 核心主題
+- 探讨维生素K2的作用及其对钙代谢的重要性。
+- 强调维生素K2在心血管健康和骨骼健康中的作用。
+
+#### 2. 主要觀念
+- 维生素K2是维生素K复合体的一部分，与维生素K1不同，主要负责调节钙的分布。
+- 维生素K2通过将钙从错误的位置（如软组织、动脉）转移到正确的位置（如骨骼），防止钙在不当部位沉积。
+
+#### 3. 問題原因
+- 钙代谢异常导致多种健康问题：
+  - 动脉粥样硬化和斑块形成。
+  - 牙齿牙石堆积。
+  - 白内障、关节炎、滑囊炎和肌腱炎。
+  - 最终可能导致高血压和中风。
+
+#### 4. 解決方法
+- 取富含维生素K2的食物来源：
+  - 草饲动物产品（如黄油、蛋类、肉类）。
+- 补充维生素K2，特别是对于饮食中不足的情况。
+
+#### 5. 健康建議
+- **劑量建議**：
+  - 对于严重问题：每日服用4粒维生素K2（100微克）和4粒维生素D3（10,000 IU），早晨空腹服用。
+  - 对于轻度维护：每日服用1粒维生素K2和1粒维生素D3，早晨服用。
+- **服用時間**：
+  - 早晨空腹，因胃酸有助于吸收蛋白质和脂肪。
+- **攝取方式**：
+  - 配合脂肪食物（如黄油、鸡蛋）服用以提高吸收率。
+- **注意事項**：
+  - 对于 gallbladder问题者，需额外补充胆汁或胆囊辅助剂，以帮助消化和吸收。
+
+#### 6. 結論
+- 维生素K2和维生素D3的协同作用对骨骼健康和心血管系统至关重要。
+- 正确补充维生素K2可以有效预防钙代谢异常引起的多种疾病，并改善整体健康状况。
 </details>
 
 <details>
-<summary>343. Dr. Berg's Adrenal Night Formula: and how to use it</summary><br>
+<summary>343. [2015-12-06] Dr. Berg's Adrenal Night Formula: and how to use it</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KTCx7toHtFc" target="_blank">
     <img src="https://img.youtube.com/vi/KTCx7toHtFc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小芻目清單：
+1. 核心主題  
+2. 主要觀念  
+3. 問題原因  
+4. 解决方法  
+5. 健康建議  
+6. 結論  
 
+---
+
+### 1. 核心主題  
+- 提供一種名為「腎上腺夜用配方」（Adrenal Night Formula）的睡眠輔助產品介紹。  
+- 强調其成分、功效及使用方法，並針對少數使用者可能遇到的問題提供解決方案。  
+
+---
+
+### 2. 主要觀念  
+- **產品定位**：一款設計用於睡前服用的天然草本產品，旨在幫助改善睡眠質量。  
+- **主要成分**：  
+  - 經典中草藥，使用歷史超過600至700年。  
+  - 不含激素（如褪黑激素），避免干擾身體自然分泌。  
+  - 具備抗衰老和改善壓力反應的功效。  
+- **作用機制**：  
+  - 調節神經傳導，降低腎上腺素和皮質醇的過度反應。  
+  - 提供冷靜效果，緩解「 fight-or-flight」（戰或逃）反應。  
+
+---
+
+### 3. 問題原因  
+- 少數使用者（約5%以下）在服用後可能無法入睡，甚至感到更清醒，可能是對某種成分過敏或敏感。  
+- 部分使用者在睡眠中仍會因壓力或其他因素而醒來（如凌晨2:00至3:00）。  
+
+---
+
+### 4. 解决方法  
+- **針對敏感人群**：  
+  - 建議在早晨服用，以增強白天的能量水平，並促進夜間的自然睡眠。  
+- **中适数量驚醒問題**：  
+  - 可在半夜再次服用一劑，幫助恢復深度睡眠。  
+- **避免白天過度疲勞**：  
+  - 若距離睡覺時間還有1小時以上，建議不要在此時服用額外劑量，以免影響次日精神狀態。  
+
+---
+
+### 5. 健康建議  
+- **使用建議**：  
+  - 每晚睡前30分鐘服用一粒，搭配足夠的水分攝取。  
+  - 觀察個人反應，必要時調整用量（如一天最多可服用三劑）。  
+- **注意事項**：  
+  - 適量使用，避免超過建議劑量。  
+  - 對草本成分過敏或有特殊健康狀況者，建議先諮詢醫生。  
+
+---
+
+### 6. 結論  
+- 腎上腺夜用配方是一款經過長期調理和改進的天然睡眠輔助產品，廣受使用者好評。  
+- 建議消費者根據個人需求調整使用方式，並注意可能的敏感反應。  
+- 提供多種規格選擇（如90粒裝和30粒裝），以滿足不同消費者的需求。
 </details>
 
 <details>
-<summary>342. Dr. Berg's Adrenal Day Formula: How to use it</summary><br>
+<summary>342. [2015-12-06] Dr. Berg's Adrenal Day Formula: How to use it</summary><br>
 
 <a href="https://www.youtube.com/watch?v=VSkFUR_XMRk" target="_blank">
     <img src="https://img.youtube.com/vi/VSkFUR_XMRk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 介紹一種名為「 adrenal day formula」的補充劑，旨在支持腎上腺功能、降低壓力並提升能量。
+
+#### 主要觀念
+1. **產品特性**：
+   - 由食物ベースのビタミンB製品を主成分とする。
+   - 使用されるビタミンBは自然に抽出されたもので、合成物質を使用していない。
+   - 製品の大半は特殊なビタミンBであるが、これらは天然素材から得られたものであり、 nutritional yeast から抽出されている。
+
+2. **ストレスとビタミンBの関係**：
+   - ストレスは体内的にビタミンBを消費してしまう。
+   - 本製品はストレスによって消費されたビタミンBを補充するものである。
+
+3. **作用機制**：
+   - ビタミンBが体内に入ると、神経の緊張を軽減し、心身の落ち着きをもたらす。
+   - 短時間で効果が現れることもあり、特に精神的ストレスの多い場合に役立つ。
+
+4. **他の成分**：
+   - 腎上腺機能をサポートするミネラルとハーブが含まれている。
+   - ハーブは刺激性ではなく、体に対応能力を高めるための適応ResponseType（adaptogens）である。
+
+#### 問題原因
+- 現代生活におけるストレスが慢性化し、腎上腺機能の衰えやエネルギー不足を引き起こす。
+- 合成ビタミンBを使用した製品は、長時間持続せず、特に精神的負担の大きい人にとっては不十分である。
+
+#### 解決方法
+1. **製品摂取**：
+   - 毎日最低3錠を摂取し、必要に応じて6-9錠まで増やすことが推奨される。
+   - 一日のうちに分散して摂取するか、必要な時に摂取する。
+
+2. **補充効果**：
+   - ビタミンBの補充によりストレス緩和とエネルギー維持が期待される。
+   - 適用ResponseTypeハーブの作用で体のストレス適応能力が向上する。
+
+#### 健康建議
+- 継続的なストレス管理のために、本製品を含む栄養摂取計画を作成することが重要である。
+- 必要に応じて医療専門家と相談し、個人の健康状態に適した摂取量を決定するべきである。
+
+#### 結論
+- 本製品はストレス管理と腎上腺機能サポートに効果的な補充剤として評価される。
+- 使用を通じてエネルギー改善や心身の安定が得られると期待され、副作用もほとんどないため安全に利用可能である。
 </details>
 
 <details>
-<summary>341. Dr. Berg's Gallbladder Formula: How to Use It</summary><br>
+<summary>341. [2015-12-06] Dr. Berg's Gallbladder Formula: How to Use It</summary><br>
 
 <a href="https://www.youtube.com/watch?v=wKLiXJqVIY8" target="_blank">
     <img src="https://img.youtube.com/vi/wKLiXJqVIY8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節：文章核心主題  
+- **核心主題**：介紹一款幫助消化系統特別是 gallbladder（膽囊）功能的配方及其作用機制和應用方法。
 
+---
+
+### 小節：主要觀念  
+1. ** bile salts （膽鹽）的作用**：  
+   - 胆盐是由身体自然產生的，具有清潔和分解脂肪的功能。  
+   - 本配方中的膽鹽是純化的，不含毒素或其他雜質。  
+
+2. ** gallbladder （膽囊）的重要性**：  
+   - 胆囊負責儲存並濃縮膽汁，幫助消化 grease（油脂）和 fat（脂肪）。  
+   - 胆汁的不足可能導致消化不良、吸收問題及其他健康問題。  
+
+3. **營養吸收的影響**：  
+   - 胆鹽幫助分解脂肪，從而促進 omega-3、omega-6 等必需脂肪酸的吸收。  
+   - 這些脂肪酸對免疫系統、神經系統和 hormones（荷爾蒙）等功能至關重要。  
+
+4. **健康問題的原因**：  
+   - 胆囊功能失常可能引發 right shoulder pain（右肩疼痛）、headaches（頭痛）等症狀。  
+   - 石榴石或 gallstones（膽結石）的存在可能進一步影響膽囊功能。  
+
+---
+
+### 小節：問題原因  
+- **膽鹽不足**：缺乏足夠的膽鹽會導致脂肪消化不良，繼而影響營養吸收和整體健康。  
+- **低胃酸**：胃酸不足會影響膽汁的釋放和利用，進一步導致消化功能紊亂。  
+- **膽囊問題**：如膽結石或膽囊炎症可能阻礙膽汁流動，影響消化功能。  
+
+---
+
+### 小節：解決方法  
+1. **配方成分**：  
+   - 胆鹽（bile salts）：促進脂肪分解和吸收。  
+   - Stone Root（石榴石）和 Spanish Black Radish（西班牙黑.Radish）：幫助溶解膽結石並潤滑膽囊。  
+   - Slippery Elm Bark（美國楓樹皮）：提供潤滑作用，減輕膽囊不適。  
+   - 胃蛋白酶（stomach enzymes）：促進食物消化。  
+
+2. **用法建議**：  
+   - **輕度問題**：每日一次，随早飯服用。  
+   - **中重度問題**：每餐前服用 1-2 粒。  
+   - 配合 Betaine Hydrochloride（胃蛋白酶）使用，以促進胃酸分泌和消化功能。  
+
+3. **改善策略**：  
+   - 增加胃酸攝取，如通過補充 Betaine Hydrochloride。  
+   - 調整飲食習慣，增加含有脂肪的食物攝取，並配合適當的消化支持劑。  
+
+---
+
+### 小節：健康建議  
+- 定期檢查膽囊功能，特別是有右肩疼痛或頭痛等症狀時。  
+- 適當補充膽鹽和胃酸，改善消化吸收能力。  
+- 減少高脂肪飲食的攝取，或在進食後及時服用消化支持劑。  
+
+---
+
+### 小節：結論  
+- 本配方針對膽囊功能失常提供了一個綜合性的解決方案，涵蓋了膽鹽補充、胃酸促進和膽囊潤滑等多方面的作用。  
+- 配合適當的用法和健康習慣，可以有效改善消化問題，提升整體健康狀況。
 </details>
 
 <details>
-<summary>340. Why are You Tired on Keto – Keto Diet Fatigue Explained by Dr.Berg</summary><br>
+<summary>340. [2015-12-01] Why are You Tired on Keto – Keto Diet Fatigue Explained by Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xkiK98L9hCs" target="_blank">
     <img src="https://img.youtube.com/vi/xkiK98L9hCs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Key Points from the Article
 
+#### Core Theme
+- The article discusses the challenges and solutions related to fatigue or lethargy experienced during a ketogenic diet, which is characterized by its high protein and high fat content.
+
+#### Main Concepts
+1. **Ketosis and Fuel Source Transition**
+   - Ketosis is a metabolic state where the body shifts from using sugar (carbohydrates) as its primary fuel source to burning fat.
+   - The body typically has about 72 hours of stored sugar before it begins converting to fat-burning mode.
+
+2. **Adaptation Period**
+   - Transitioning into ketosis requires time for the body to develop new metabolic machinery and enzymes necessary for fat metabolism.
+   - This adaptation period can last from three days to two weeks.
+
+3. **Role of Vitamin B5 (Pantothenic Acid)**
+   - Vitamin B5 is essential for the metabolism of fats and plays a crucial role in energy production.
+   - It supports adrenal gland function, which is particularly important during periods of stress or fatigue.
+
+#### Causes of Fatigue/Lethargy
+- Insufficient intake of vitamin B5 can lead to fatigue and lethargy during ketosis.
+- The body's transition to fat-burning mode places additional metabolic demands, which may exacerbate fatigue if essential nutrients are lacking.
+
+#### Solutions and Health Recommendations
+1. **Supplement with Vitamin B5**
+   - Addressing fatigue by ensuring adequate intake of vitamin B5 can help alleviate symptoms and improve energy levels.
+   - This supports both fat metabolism and adrenal function.
+
+2. **Dietary Considerations**
+   - Maintain a well-balanced ketogenic diet to ensure all nutritional needs are met during the transition period.
+   - Monitor and adjust nutrient intake to prevent deficiencies that may hinder metabolic adaptation.
+
+#### Conclusion
+- Fatigue and lethargy during ketosis can be effectively managed by addressing vitamin B5 deficiency.
+- Proper supplementation and dietary planning are essential for a smooth transition into ketosis and sustained energy levels.
 </details>
 
 <details>
-<summary>339. How To Get Rid Of Cellulite On Thighs & Buttocks? – Dr.Berg</summary><br>
+<summary>339. [2015-11-22] How To Get Rid Of Cellulite On Thighs & Buttocks? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=qlQ8764Epx0" target="_blank">
     <img src="https://img.youtube.com/vi/qlQ8764Epx0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理
 
+#### 核心主題
+- **Cellulite 的成因及解決方法**  
+  Article explores the underlying causes of cellulite on hips and thighs, focusing on lymphatic system issues and adrenal gland dysfunction, and provides practical solutions.
+
+#### 主要觀念
+1. **Cellulite 的誤解**  
+   - Cellulite 不是脂肪，而是淋巴液循環障礙或腺體功能紊亂導致的水腫現象。
+2. **Lymphatic System 的重要性**  
+   - 淋巴系統負責排除身體毒素和多余水分，影響皮膚健康。
+3. **Nutritional Deficiency 的影響**  
+   - 高血壓、浮腫等問題與飲食中 Potassium 缺乏有關。
+4. **Adrenal Glands 的角色**  
+   - 腎上腺在激素分泌和應對壓力中的作用，特別是更年期后身體變化。
+
+#### 問題原因
+1. **Lymphatic Blockage**  
+   - 淋巴引流不暢導致流體潴留。
+2. **Adrenal Dysfunction**  
+   - 腎上腺功能紊亂影響肌肉健康和激素平衡。
+3. **Nutritional Deficiencies**  
+   - 體內 Potassium 素缺乏，影響排水功能。
+
+#### 解决方法
+1. **Dietary Adjustments**  
+   - 增加蔬菜攝取量，尤其是富含 Potassium 的食物（如羽衣甘藍、菠菜、甜菜葉）。
+2. **Lifestyle Modifications**  
+   - 調整飲食結構，增加流體排出，改善淋巴循環。
+3. **Adrenal Support**  
+   - 通過充足睡眠和壓力管理來支持腎上腺功能。
+
+#### 健康建議
+1. **Dietary Recommendations**  
+   - 每天攝取至少7-9杯蔬菜，尤其是高 Potassium 蔬菜。
+2. **Hydration and Nutrition**  
+   - 多喝水，避免高鹽飲食，增加水果和堅果的攝取。
+3. **Exercise and Sleep**  
+   - 進行有氧運動促進淋巴引流，保持充足睡眠。
+
+#### 結論
+- Cellulite 的形成主要是由于淋巴循環障礙和腺體功能紊亂。解決問題需要從飲食、生活方式和荷爾蒙平衡入手。通過增加 Potassium 取量和支持腎上腺功能，可以有效改善問題。
+
+### 摘要段落
+Article explains that cellulite is not fat but results from lymphatic blockage or adrenal dysfunction. It highlights the importance of dietary potassium intake and lifestyle adjustments to improve lymph drainage and support adrenal health, offering practical solutions like increasing vegetable consumption and managing stress for better skin and body health.
 </details>
 
 <details>
@@ -692,25 +1048,115 @@
 </details>
 
 <details>
-<summary>337. What To Do If You Have Adrenal Fatigue – Dr. Berg Shows Adrenal Fatigue Exercise</summary><br>
+<summary>337. [2015-11-09] What To Do If You Have Adrenal Fatigue – Dr. Berg Shows Adrenal Fatigue Exercise</summary><br>
 
 <a href="https://www.youtube.com/watch?v=W4ACwdXIJag" target="_blank">
     <img src="https://img.youtube.com/vi/W4ACwdXIJag/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Core Theme: Adrenal Function and Stress Management
 
+The adrenal glands play a crucial role in adapting the body to stress by preparing it for challenging situations. However, chronic stress from past events accumulates and negatively impacts adrenal function.
+
+---
+
+### Key Concepts:
+
+- **Adrenal Gland Function**: The adrenal gland is responsible for producing hormones that help the body respond to stress, such as adrenaline.
+- **Dual Nature of Adrenal Glands**: The outer part (adrenal cortex) produces corticosteroids, while the inner part (adrenal medulla) secretes catecholamines like epinephrine and norepinephrine.
+- **Location**: Situated on top of the kidneys, the adrenal glands are controlled by the pituitary gland through a feedback mechanism.
+
+---
+
+### Causes of Adrenal Issues:
+
+- **Accumulated Stress**: Chronic stress from past events (e.g., childhood injuries) continues to affect adrenal function in the present.
+- **Neurological Impact**: The adrenal glands contain nerve tissue, making them sensitive to both current and past stressors.
+- **Electrolyte Imbalance**: Deficiencies in essential nutrients like vitamin B1 and potassium can exacerbate adrenal fatigue.
+
+---
+
+### Health Recommendations:
+
+#### 1. **Nutritional Interventions**:
+   - **Vitamin B1 (Thiamine)**: Essential for nervous system function and energy production. Found in nutritional yeast, it helps counteract stress and anxiety.
+   - **Potassium**: Vital for nerve function and heart health. Obtain through leafy greens and vegetables rather than relying on fruits like bananas.
+
+#### 2. **Supplements**:
+   - **Adrenal Night Formula**: A product designed to support relaxation and sleep, containing natural ingredients to ease stress.
+
+#### 3. **Lifestyle Adjustments**:
+   - **Low-Intensity Exercise**: Activities like walking are recommended to reduce stress without overexerting the body.
+   - **Breathing Techniques**: Focus on deep breathing exercises to help extract accumulated stress.
+
+---
+
+### Conclusion:
+
+Adrenal fatigue is a complex issue rooted in chronic stress and nutrient deficiencies. Addressing it requires a holistic approach, including proper nutrition, targeted supplements, and stress-reducing activities. By managing these factors, individuals can restore adrenal function and improve overall health.
 </details>
 
 <details>
-<summary>336. Most Thyroid Issues Are Secondary to Other Problems – Dr. Berg</summary><br>
+<summary>336. [2015-11-09] Most Thyroid Issues Are Secondary to Other Problems – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=IdDMMs96N9A" target="_blank">
     <img src="https://img.youtube.com/vi/IdDMMs96N9A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 關於甲狀腺 gland 的探討與健康管理
 
+## 核心主題  
+本文探讨了甲狀腺功能異常的根本原因及其自然療法，強調透過改善肝臟、腎上腺和卵巢的功能來恢復甲狀腺健康。
+
+---
+
+## 主要觀念  
+1. **甲狀腺問題的罕見性**：原發性甲狀腺問題相對少見，多數情況是由其他器官或系統引發。  
+2. **甲狀腺激素的轉換機制**：T4（惰性形式）需在肝臟中轉換為活性的T3，以發揮功能。  
+3. **自身免疫疾病的角色**：壓力和免疫失調可導致 Grave's 病（甲亢）或 Hashimoto's 病（甲減）。  
+4. **雌激素 dominance 的影響**：過高的雌激素會干擾甲狀腺激素的作用，增加甲狀腺負擔。  
+
+---
+
+## 問題原因  
+1. **肝臟和膽囊功能障礙**：  
+   - 肝臟負責將 T4 轉換為 T3。  
+   - 膎胱問題可能影響膽汁分泌，干擾激素轉化。  
+2. **腎上腺功能失調**：  
+   - 長期壓力導致免疫力下降，增加 autoimmune 疾病風險。  
+3. **卵巢功能紊亂**：  
+   - 雌激素過多可抑制甲狀腺 hormone 的作用。  
+
+---
+
+## 解決方法  
+1. **改善肝臟和膽囊功能**：  
+   - 使用膽囊支持配方，促進胆汁分泌，輔助 T4 轉換為 T3。  
+2. **針對 autoimmune 病變的自然療法**：  
+   - 摂取 PMG（Proto-Morphogen），如 Thyro-Lymphatic Formula，幫助調節免疫反應。  
+   - 減輕壓力，恢復腎上腺功能。  
+3. **調節卵巢和雌激素水平**：  
+   - 服用卵巢支持配方。  
+   - 增加攝取十字花科蔬菜（如 broccoli、 kale），以降低雌激素濃度。  
+
+---
+
+## 健康建議  
+1. **飲食調整**：  
+   - 確保充足碘攝取，可食用海帶等含碘食物。  
+   - 減少高雌激素影響的食物（如大豆制品）。  
+2. **生活方式改善**：  
+   - 管理壓力，透過瑜伽、冥想等方式平衡腎上腺功能。  
+   - 適當運動，促進整體代謝和 hormones 平衡。  
+3. **自然療法的綜合應用**：  
+   - 根據具體病因，結合肝臟、腎上腺和卵巢支持療法，恢復甲狀腺健康。  
+
+---
+
+## 結論  
+本文提供了一個多角度的健康管理策略，強調透過改善相關器官功能來解決甲狀腺問題。讀者可根據自身狀況，選擇適合的自然療法，並在專業醫療人員的指导下實施，以達到最佳的健康效果。
 </details>
 
 <details>
