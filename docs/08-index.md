@@ -340,113 +340,614 @@
 </details>
 
 <details>
-<summary>869. Can You Be in Ketosis Despite No Ketones in the Urine? – Dr. Berg</summary><br>
+<summary>869. [2017-06-07] Can You Be in Ketosis Despite No Ketones in the Urine? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=EpbCoU2meWE" target="_blank">
     <img src="https://img.youtube.com/vi/EpbCoU2meWE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題：酮症與酮體測試的關聯性
+- 文章探討了在酮症狀態下，尿液酮體檢測為陰性的可能性及其背后的原因。
+
+#### 主要觀念：
+1. **酮體類型**：
+   - 酮體主要分為三種：乙酰乙酸（Acetate）、乙酰乙酸酯（Acetoacetate）和β-羥基丁酸（Beta-Hydroxybutyrate）。
+2. **尿液酮體測試的局限性**：
+   - 市面上常見的酮症測試條主要檢測乙酰乙酸酯，而不包括其他兩種酮體。
+
+#### 問題原因：
+- 隨著身體逐步適應酮症，更多乙酰乙酸酯會轉化為β-羥基丁酸，後者更有效地用於能量代谢。
+- 尿液酮體測試只能反映 excess 的酮體排出情況，不能全面反映血液中酮體的利用與分布。
+
+#### 解決方法：
+1. **血清酮體檢測**：
+   - 雖然成本較高且不太方便，但血清檢測能更準確地反映酮症狀態。
+2. **多指標評估法**：
+   - 結合體重變化、體脂 reduction、精力狀況等其他指標來綜合判斷酮症的存在。
+
+#### 健康建議：
+1. **飲食控制**：
+   - 保持每日淨碳水化合物攝取量在20克或以下，增進酮症的進入。
+2. **定期評估**：
+   - 經常-monitoring自己的體重與體脂變化，以作為酮症的參考指標。
+
+#### 結論：
+- 尿液酮體陰性並不意味著不在酮症狀態中。隨著酮症的進展，身體更傾向於利用β-羥基丁酸作為能量來源，這會影響尿液檢測結果。
+- 相較於單一的尿液檢測，綜合多種指標能更全面地評估酮症的存在與程度。
+
+### 總結：
+文章強調了理解酮症與酮體測試之間複雜性的必要性，並倡導採取整合性方法來判斷酮症狀態。
 </details>
 
 <details>
-<summary>868. Intermittent Fasting and Ketosis Before & After Success Story (Akshat Paul) – Dr.Berg</summary><br>
+<summary>868. [2017-06-06] Intermittent Fasting and Ketosis Before & After Success Story (Akshat Paul) – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=k0L2E88HiZM" target="_blank">
     <img src="https://img.youtube.com/vi/k0L2E88HiZM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+文章圍繞個人的健康轉型經歷展開，強調通過飲食調整實現體重管理和整體健康的提升。
+
+---
+
+#### 主要觀念
+1. **健康問題的根源**：
+   - 過量攝入高糖、高鹽和高脂肪食物。
+   - 不良飲食習慣（如頻繁光顧Indian餐廳和自助餐 buffet）導致肥胖和代謝失衡。
+   - 生活方式不健康，缺乏運動。
+
+2. **轉變的契機**：
+   - 意識到傳統飲食的危害，尤其是外出就餐時食物中過量添加糖分、鹽分和防腐劑。
+   - 減少外出就餐，開始自制健康的餐點，如低脂印度菜和地中海風味食品。
+
+3. **飲食調整的核心原則**：
+   - 以低碳水化合物、高蛋白質和健康脂肪為主的飲食結構。
+   - 增加蔬菜攝取，特別是西藍花、羽衣甘蓝等高纖維蔬菜。
+   - 減少精制糖和加工食品的攝取。
+
+4. **成功要素**：
+   - 損失了超過50公斤體重，並保持穩定。
+   - 未進行大量運動，主要依賴飲食控制。
+   - 配偶的支持和共同參與健康飲食計劃。
+
+---
+
+#### 問題原因
+1. **不合理的飲食結構**：
+   - 外出就餐時食物鹽分、糖分過高，導致代謝紊亂。
+   - 高碳水化合物攝取引發胰島素_spike，促進脂肪儲存。
+
+2. **缺乏健康意識**：
+   - 未充分了解食物成分對健康的影響。
+   - 將健康問題歸咎於基因或運動不足，忽視飲食控制的重要性。
+
+3. **環境因素**：
+   - 外出就餐選擇有限，餐廳食品多含有害添加劑。
+   - 現代生活節奏快，導致不健康飲食習慣的形成。
+
+---
+
+#### 解決方法
+1. **飲食調整**：
+   - 自制餐點，避免外食，確保食物成分可控。
+   - 增加蔬菜攝取，選擇低GI（升糖指數）食物。
+   - 減少精制糖和加工食品的攝取。
+
+2. **健康烹調方式**：
+   - 采用清蒸、烤焗等低溫烹調方法。
+   - 使用健康油（如橄欖油）代替一般食用油。
+
+3. **心理調整**：
+   - 树立長期健康目標，避免短期內快速減重。
+   - 避免因外界誘惑而放棄飲食計劃。
+
+---
+
+#### 健康建議
+1. **飲食方面**：
+   - 多攝取高纖維、低GI食物，如西藍花、羽衣甘蓝等蔬菜。
+   - 減少精制糖和加工食品的攝取，避免高鹽、高脂肪食品。
+
+2. **烹調方式**：
+   - 避免油炸、煎炒等高溫烹調，選擇蒸、煮、烤等方式。
+   - 使用橄欖油或其他健康植物油代替一般食用油。
+
+3. **生活習慣**：
+   - 減少外出就餐，特別是自助餐和快餐。
+   - 與家人共同制定健康飲食計劃，互相督促和支持。
+
+4. **心理建設**：
+   - 理解健康飲食的長期效益，避免追求短期效果。
+   - 面對誘惑時，保持自制力，堅守飲食原則。
+
+---
+
+#### 結論
+文章強調了飲食控制在健康管理中的重要性，並展示了通過調整飲食結構和烹調方式實現健康轉型的可行性。成功的關鍵在於長期堅持健康飲食習慣，而非追求短期效果。文章鼓勵更多人關注飲食健康，逐步改善生活方式，以達到整體健康目標。
 </details>
 
 <details>
-<summary>867. Is Skin Acne and Ketosis have any connection? Explained By Dr.Berg</summary><br>
+<summary>867. [2017-06-06] Is Skin Acne and Ketosis have any connection? Explained By Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=4L5KdWWjJdU" target="_blank">
     <img src="https://img.youtube.com/vi/4L5KdWWjJdU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- **酮osis（Ketosis）**：酮症生酮飲食在痤瘡和其他皮膚問題中的作用。  
 
+---
+
+### 主要觀念  
+1. **痤瘡的原因**：  
+   - 高雄性激素水平是痤瘡的主要原因之一，男性激素會增加皮脂分泌並引發痤瘡。  
+   - 痤瘡在青少年中更為常見，主要與高糖攝取相關，因血糖波动導致胰島素水平升高，進而刺激雄性激素分泌。  
+
+2. **其他皮膚問題**：  
+   - 如銀屑病和濕疹等皮膚問題也可能與激素失衡和炎症反應有關。  
+
+3. **酮症的作用**：  
+   - 酮症飲食（低碳水化合物、中等蛋白質、高脂肪）可降低胰島素水平，進而減輕痤瘡和其他皮膚問題。  
+
+4. **壓力與痤瘡的關聯**：  
+   - 總狀腺素（Cortisol）在壓力下增加，導致血糖升高和胰島素分泌增多，從而加重痤瘡。  
+
+---
+
+### 問題原因  
+1. **高糖飲食**：青少年偏好吃高糖零食，導致胰島素水平升高，刺激雄性激素分泌，引發痤瘡。  
+2. **壓力影響**：壓力導致皮質醇增加，進一步提高血糖和胰島素水平，加重痤瘡。  
+3. **傳統飲食結構**：某些飲食模式可能缺乏必需脂肪酸和維生素A，影響皮膚健康。  
+
+---
+
+### 解決方法  
+1. **酮症飲食（Ketogenic Diet）**：  
+   - 通過低碳水化合物、中等蛋白質和高脂肪的飲食來降低胰島素水平，改善痤瘡問題。  
+   - 維生素A和必需脂肪酸（如omega-3脂肪酸）的攝取對皮膚健康至關重要。  
+
+2. **間歇性禁食（Intermittent Fasting）**：  
+   - 搭配酮症飲食，進一步降低胰島素水平，改善皮膚狀況。  
+   - 間歇性禁食可促進膽囊功能，增強脂肪吸收和 bile 的利用，從而提高營養素的利用率。  
+
+3. **膳食纖維攝取**：  
+   - 增加蔬菜攝取，提供必要的維生素、礦物質和膳食纖維，改善腸道微生態平衡。  
+   - 膊良菌群（Microbiome）對皮膚健康有重要影響。  
+
+---
+
+### 健康建議  
+1. **飲食調整**：  
+   - 選擇富含健康脂肪的食物，如'avocados', 'nuts', 和'olives'，以提供必需脂肪酸和维生素A。  
+   - 減少精制糖和高血糖指數食物的攝取，避免胰島素水平過高。  
+
+2. **生活方式**：  
+   - 配合酮症飲食進行間歇性禁食，建議每天禁食16小時，用餐時間限制在8小時內。  
+   - 管理壓力，通過運動、冥想等方式降低皮質醇水平。  
+
+3. **健康管理**：  
+   - 定期監測血糖和胰島素水平，評估飲食調整的效果。  
+   - 如有需要，可諮詢專業醫師或營養師進行個人化建議。  
+
+---
+
+### 結論  
+酮症飲食結合間歇性禁食是一種有效的改善痤瘡和其他皮膚問題的方法。關鍵在於降低胰島素水平、提供足夠的必需脂肪酸和維生素A，以及改善腸道微生態平衡。通過合理的飲食調整和生活方式改變，可以有效解決皮膚健康問題。
 </details>
 
 <details>
-<summary>866. How to Make Strawberry Chia Pudding – Dr. Berg</summary><br>
+<summary>866. [2017-06-05] How to Make Strawberry Chia Pudding – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=c4JX-Jb7wsA" target="_blank">
     <img src="https://img.youtube.com/vi/c4JX-Jb7wsA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理：chia pudding食谱與健康分析
 
+#### 核心主題  
+- **食譜介紹**：一種名為「creamy strawberry chia pudding」的甜點食譍。
+- **健康焦點**：強調奇亚籽（chia）富含omega-3脂肪酸，並提供多種營養價值。
+
+#### 主要觀念  
+1. **食材特性**：
+   - 奇亞籽富含膳食纖維、蛋白質和抗氧化劑。
+   - 新鮮草莓增加食譍的風味和营养价值。
+   
+2. **食譍特色**： 
+   - 素食且低糖，適合酮飲食（ketogenic diet）。
+   - 具有獨特的口感，介於膠質與脆口之間。
+
+3. **食用建議**：
+   - 推薦作為正餐後的小甜點，而非零食。
+   - 分量小巧，避免一次性攝取過多影響酮狀態。
+
+#### 問題原因  
+- **口感接受度**：部分人可能不習慣奇亞籽的脆口質地。
+- **分量控制**：若攝取過量，可能導致酮飲食脫軌。
+
+#### 解決方法  
+1. **食材選擇**：
+   - 替換為其他莓類或水果，依個人口味調整。
+   
+2. **食用策略**：
+   - 控制份量，建議每次食用一湯匙左右。
+   - 配合正餐食用，避免作為零食。
+
+3. **口感改善**：
+   - 可加入少量蜂蜜或椰糖以提升甜味。
+   - 調整浸泡時間，使其更柔軟或膠質狀。
+
+#### 健康建議  
+1. **營養均衡**：
+   - 確保飲食中攝取足夠的蛋白質和纖維。
+   - 適當補充omega-3脂肪酸以促進心臟健康。
+
+2. **酮飲食注意**：
+   - 檢查食譍中的碳水化合物含量，避免超出每日限制。
+   - 縮制糖分攝取，優先選擇低GI（升糖指數）的替代品。
+
+3. **適度食用**：
+   - 偶爾享受甜點，不影響整體飲食計劃。
+   - 配合新鮮水果和堅果，增加營養均衡。
+
+#### 結論  
+- 本食譍是一種健康且美味的選擇，適合酮飲食者。
+- 控制份量和食材選擇是關鍵，以確保既享受甜點又維持健康目標。
 </details>
 
 <details>
-<summary>865. What is Plaque and How to Remove it Explained By Dr. Berg</summary><br>
+<summary>865. [2017-06-05] What is Plaque and How to Remove it Explained By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=1qZomOx6ArA" target="_blank">
     <img src="https://img.youtube.com/vi/1qZomOx6ArA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 描述動脈斑塊形成的機制及其對健康的影響。
 
+### 主要觀念
+1. 动脉斑块的形成涉及多種因素，包括高胰島素血症、營養缺乏和壓力等。
+2. 炎癥是斑塊形成的後果，而非病因。
+3. 胆固醇在斑塊形成中起到修復作用，分為兩類：大型棉絮狀（無害）和小型致密（有害）。
+
+### 問題原因
+1. 高胰島素血症導致動脈內皮受損。
+2. 經營養缺乏（如維生素C不足）或毒素暴露引發血管壁受損。
+3. 微生物感染（如牙周病菌）進一步加重斑塊形成。
+
+### 解決方法
+1. 調控胰島素水平，改善飲食習慣。
+2. 確保足夠的營養攝取，補充關鍵維生素和礦物質。
+3. 控制壓力，避免毒素暴露。
+4. 檢測並管理胆固爾類型，重視hdl與ldl的比例。
+
+### 健康建議
+1. 保持均衡飲食，限制精制碳水化合物攝取。
+2. 確保足夠的維生素c攝取，預防血管壁受損。
+3. 定期檢查血液指標，了解胆固爾類型。
+4. 與牙科醫生合作，管理牙周健康。
+
+### 結論
+- 斑塊形成的根源在於代謝紊亂和營養失衡。
+- 胆固醇並非主要的問題，而是身體修復受損動脈的結果。
+- 预防斑塊形成關鍵在於早期干預，改善生活方式。
+
+### 鼓勵的話
+了解了這些機制後，您可以更有針對性地調整生活方式，保護心血管健康。立即行動起來，通過合理的飲食和健康管理，為自己和家人筑建健康的未來！
 </details>
 
 <details>
-<summary>864. Keto Before and After – Dr.Berg Testimonial (Skype Interview) Rodrigo Melendez</summary><br>
+<summary>864. [2017-06-04] Keto Before and After – Dr.Berg Testimonial (Skype Interview) Rodrigo Melendez</summary><br>
 
 <a href="https://www.youtube.com/watch?v=2kLb1JCeobA" target="_blank">
     <img src="https://img.youtube.com/vi/2kLb1JCeobA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重点整理  
 
+#### 核心主題  
+- **酮egenic Diet ( ketogenic diet )**：文章圍繞酮飲食的核心，探討其對健康和體重管理的效果。  
+- **Intermittent Fasting ( 间歇性禁食 )**：間歇性禁食與酮飲食的結合如何改善代謝功能。  
+
+#### 主要觀念  
+1. **酮飲食的作用機制**：  
+   - 酮飲食通過降低碳水化合物攝取，增加脂肪攝取，使身體進入酮症狀態，利用脂肪作為主要能量來源。  
+2. **間歇性禁食的優勢**：  
+   - 經常進食會導致胰島素水平升高，干擾脂肪燃燒。通過間歇性禁食，降低餐次 frequency，改善代謝功能。  
+
+#### 問題原因  
+- **現代飲食習慣的影響**：  
+  - 高碳水化合物、低脂肪的飲食模式破壞了身體的自然代謝功能，導致肥胖和能量不穩定問題。  
+  - 經常攝入精緻糖分和加工食品，引發胰島素抵抗，進一步促成體重增加。  
+
+#### 解決方法  
+1. **酮飲食的實施**：  
+   - 減少碳水化合物攝取，增加健康脂肪（如橄欖油、 nuts 、 avocado 等）的攝入。  
+2. **間歇性禁食的 практика**：  
+   - 選擇適合個人的禁食時間（例如每日16小時禁食，8小時進食窗口）。  
+3. **心理調適與飲食控制**：  
+   - 学會拒絕高碳水化合物和精緻糖分的食物，選擇更健康的替代品。  
+
+#### 健康建議  
+- **飲食結構調整**：  
+  - 選擇低GI食物，避免血糖波動。  
+- **運動與能量管理**：  
+  - 維持適當的運動習慣，增強體力和代謝率。  
+- **心理支持**：  
+  - 與他人分享經驗，獲得心理支持，避免復食導致失敗。  
+
+#### 結論  
+- **酮飲食+間歇性禁食的有效性**：  
+  - 酮飲食和間歇性禁食的結合不仅能有效減重，還能改善血糖控制和胰島素敏感性。  
+- **可持續性與享受**：  
+  - 通過合理安排飲食和禁食時間，可以在不犧牲口味的情況下維持健康體重。  
+
+---
+
+### 英文版本  
+
+#### Key Themes  
+- **Ketogenic Diet**: The article focuses on the ketogenic diet, exploring its effects on health and weight management.  
+- **Intermittent Fasting**: The combination of intermittent fasting with the ketogenic diet to improve metabolic function.  
+
+#### Major Concepts  
+1. **Mechanism of the Ketogenic Diet**:  
+   - The ketogenic diet reduces carbohydrate intake and increases fat intake, putting the body in a ketosis state where fat becomes the primary energy source.  
+2. **Advantages of Intermittent Fasting**:  
+   - Frequent eating raises insulin levels, disrupting fat burning. Intermittent fasting improves metabolic function by reducing meal frequency.  
+
+#### Problems and Causes  
+- **Impact of Modern Dietary Habits**:  
+  - High-carbohydrate, low-fat diets disrupt natural metabolic functions, leading to obesity and energy instability.  
+  - Frequent intake of refined sugars and processed foods causes insulin resistance, contributing to weight gain.  
+
+#### Solutions  
+1. **Implementation of the Ketogenic Diet**:  
+   - Reduce carbohydrate intake and increase consumption of healthy fats (e.g., olive oil, nuts, avocados).  
+2. **Practice of Intermittent Fasting**:  
+   - Choose an appropriate fasting period (e.g., 16 hours fasting with an 8-hour eating window).  
+3. **Psychological Adaptation and Dietary Control**:  
+   - Learn to resist carbohydrates and sugary foods, opting for healthier alternatives.  
+
+#### Health Recommendations  
+- **Dietary Adjustment**:  
+  - Choose low-GI foods to avoid blood sugar fluctuations.  
+- **Exercise and Energy Management**:  
+  - Maintain appropriate physical activity to enhance strength and metabolism.  
+- **Psychological Support**:  
+  - Share experiences with others for psychological support and avoid relapse due to overeating.  
+
+#### Conclusion  
+- **Effectiveness of Ketogenic Diet + Intermittent Fasting**:  
+  - The combination of the ketogenic diet and intermittent fasting not only effectively reduces weight but also improves blood sugar control and insulin sensitivity.  
+- **Sustainability and Enjoyment**:  
+  - A well-planned diet and fasting schedule can help maintain a healthy weight without compromising taste.
 </details>
 
 <details>
-<summary>863. Keto Constipation – Dr. Berg Explains Constipation on Keto Diet</summary><br>
+<summary>863. [2017-06-04] Keto Constipation – Dr. Berg Explains Constipation on Keto Diet</summary><br>
 
 <a href="https://www.youtube.com/watch?v=iF2DWdBMtLc" target="_blank">
     <img src="https://img.youtube.com/vi/iF2DWdBMtLc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+文章主要探討酮症（ketosis） diet下常見的便秘問題，分析其可能原因及解決方法。
+
+---
+
+### 主要觀念
+1. **便秘的常見迷思**：  
+   - 傳統認為便秘主要是由缺乏纖維引起，但事實上攝取过多的不溶性纖維反而可能导致便秘。
+   
+2. **酮症飲食後的腸道適應**：  
+   - 酮症飲食改變了腸道微生物的生態，這些微生物需要時間來適應新的飲食方式。如果腸道菌群未能有效分解攝入的纖維，可能會導致腹脹、氣體積聚及便秘。
+
+---
+
+### 問題原因
+1. **蔬菜纖維過量**：  
+   - 酮症飲食中常攝取大量高纖維蔬菜（如羽衣甘藍、西兰花），但腸道菌群可能無法有效分解這些纖維，導致腸道阻塞。
+
+2. **脂肪攝取過多**：  
+   - 高脂肪攝取可能影響膽囊功能，導致消化不良及便秘。
+
+3. **水和電解質不足**：  
+   - 酮症飲食常伴隨著水分流失及電解質（如鈉、鉀、鎂）不足，這會影響腸道蠕動。
+
+4. **nuts和種子的攝取**：  
+   - 生坚果含有可能抑制消化酶的成分，增加腸道負擔，導致便秘。
+
+5. **乳糖不耐受**：  
+   - 某些人對乳制品中的乳糖敏感，攝取後可能引發腹脹和便秘。
+
+---
+
+### 解決方法
+1. **調整蔬菜攝取種類**：  
+   - 選擇低纖維或易消化的蔬菜（如生菜、菠菜），避免過量攝取高纖且不易分解的十字花科蔬菜。
+
+2. **攝取發酵蔬菜**：  
+   - 例如泡菜、酸菜等，這些食物已部分分解，腸道菌群更容易吸收利用。
+
+3. **控制脂肪攝取量**：  
+   - 適當減少高脂肪食物（如油炸食品、肥肉），避免影響膽囊功能。
+
+4. **補充電解質**：  
+   - 經常補充含鉀、鎂等礦物質的電解質粉末，保持腸道蠕動正常。
+
+5. **改善坚果攝取方式**：  
+   - 通過浸泡或烘焙去除抑制酶的成分，降低便秘風險。必要時可短期戒除nuts，觀察症狀變化。
+
+6. **注意乳制品攝取**：  
+   - 選擇低乳糖或脫 lactose 的乳制品（如硬質奶酪），避免因乳糖不耐受引發問題。
+
+---
+
+### 健康建議
+1. **逐步調整飲食結構**：  
+   - 在開始酮症飲食時，應逐步增加纖維攝取量，讓腸道菌群有時間適應。
+
+2. **多喝水**：  
+   - 保持充足的水分攝取，促進腸道蠕動，防止便秘。
+
+3. **定期監測身體狀況**：  
+   - 注意飲食後的身體反應，特別是腹脹、氣體或便秘等症狀，及時調整飲食結構。
+
+4. **諮詢專業醫生或營養師**：  
+   - 如果便秘問題持續或加重，建議尋求專業醫療建議，找出潛在的腸道健康問題。
+
+---
+
+### 結論
+酮症飲食雖然有效，但其帶來的便秘問題需要謹慎處理。關鍵在於平衡纖維攝取、控制脂肪攝量、補充足夠的電解質，並注意個人對特定食物的耐受性。通過逐步調整飲食結構和密切觀察身體反應，可以最大限度地避免或緩解便秘等副作用，從而更健康地進行酮症 diet。
 </details>
 
 <details>
-<summary>862. Keto Pizza Bites Recipe – Dr. Berg</summary><br>
+<summary>862. [2017-06-03] Keto Pizza Bites Recipe – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=m1R8D6AACv8" target="_blank">
     <img src="https://img.youtube.com/vi/m1R8D6AACv8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 文章圍繞一款「無麵 crust 的披薩」展開討論，強調其美味和吸引力。
 
+### 主要觀念  
+1. **產品描述**：這款披薩去除傳統的麵 crust，主要成分包括新鮮莫zzarella芝士、羅勒葉、橄欖油醬汁以及香腸（pepperoni）。  
+2. **食用體驗**：文中提到該披薩的味道令人著迷，容易 addictive，適合作為餐後甜點或零食。  
+3. **食用建議**：推薦在進食窗口期（如間隔禁食計劃中）享用，避免嘴忙舌燥影響儀表。  
+
+### 問題原因  
+- 作者提到在邊吃邊講時會被提醒不能張嘴說話，這反映了邊吃邊錄製影片的不便。
+
+### 解決方法  
+1. **製作技巧**：文章展示了如何簡單切割披薩並冷藏後再食用，便於保存和分享。  
+2. **食用方式靈活**：可作為正餐、餐前小吃或冷食，適合不同場合需求。  
+
+### 健康建議  
+- 推荐在進食窗口期食用，以配合間隔禁食等飲食計劃。  
+- 雖然美味，但需注意份量控制，避免過度攝入熱量。
+
+### 結論  
+- 這款無麵 crust 披薩因其簡單的製作方式、多樣化的食用方法和新鮮的食材而備受喜愛。  
+- 推荐給喜歡意大利美食的人士，尤其是那些追求健康飲食方式的消費者。
 </details>
 
 <details>
-<summary>861. Intermittent Fasting & the Gallbladder – Dr.Berg Talks About Fasting and Gallbladder Problems</summary><br>
+<summary>861. [2017-06-03] Intermittent Fasting & the Gallbladder – Dr.Berg Talks About Fasting and Gallbladder Problems</summary><br>
 
 <a href="https://www.youtube.com/watch?v=aZraB-g3_JE" target="_blank">
     <img src="https://img.youtube.com/vi/aZraB-g3_JE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：間歇性禁食與膽囊健康之間的關係
 
+#### 主要觀念：
+1. **膽囊問題**：膽囊的主要問題是 gallstones（膽結石），這些結石可能來自膽汁不足或胰島素水平過高。
+2. **膽汁的作用**：膽汁是由肝臟產生，用於分解脂肪的液體。膽囊在進食時會將膽汁擠入腸道。
+3. **間歇性禁食的效果**：
+   - 禁食期間，膽汁可以濃縮，增加其功效。
+   - 通過减少餐次，避免頻繁使用膽汁儲備，使膽囊有恢復的機會。
+4. **酮egenic diet（生酮飲食）的作用**：攝入健康脂肪可以刺激更多膽汁分泌，維持膽囊健康。
+
+#### 問題原因：
+1. **低膽汁**：進食次數過多會消耗膽汁儲備，導致膽汁不足。
+2. **高胰島素水平**：頻繁進食和夜間零食會導致胰島素水平升高，增加膽結石風險。
+3. **膽汁淤積**：長期低膽汁或高胰島素水平會導致膽汁在膽囊中淤積，形成結石。
+
+#### 解決方法：
+1. **間歇性禁食**：通過減少進食次數，避免頻繁消耗膽汁，讓膽囊有恢復和濃縮的機會。
+2. **酮egenic diet（生酮飲食）**：攝入健康脂肪可以刺激更多膽汁分泌，維持膽囊功能。
+3. **避免過度進食和夜間零食**：減少餐次和夜間零食，降低胰島素水平，防止膽結石 formation。
+
+#### 健康建議：
+1. **飲食模式調整**：
+   - 遊戲化你的飲食次數，避免一天五頓或夜間 grazing。
+2. **生活方式建議**：
+   - 考慮實施間歇性禁食，讓身體有機會恢復和濃縮膽汁。
+3. **運動與健康**：
+   - 保持適當的運動習慣，促進整體健康，包括膽囊功能。
+
+#### 結論：
+間歇性禁食是一種健康的飲食模式，可以幫助維持膽囊功能和整體健康。通過減少進食次數和攝入生酮飲食，可以避免膽結石 formation 和胰島素水平過高，從而促進膽囊健康。
 </details>
 
 <details>
-<summary>860. What is Phosphorus? Hyperphosphatemia and Hypophosphatemia – Phosphorus Rich Foods – Dr.Berg</summary><br>
+<summary>860. [2017-06-02] What is Phosphorus? Hyperphosphatemia and Hypophosphatemia – Phosphorus Rich Foods – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5RLvS8NKq_Q" target="_blank">
     <img src="https://img.youtube.com/vi/5RLvS8NKq_Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：磷的重要性與影響
 
+#### 核心主題
+- 磷是維持身體健康的重要礦物質元素，尤其在骨骼健康和多種生理功能中扮演關鍵角色。
+
+#### 主要觀念
+1. **骨骼健康**：
+   - 骨骼中含有80%的磷。
+2. **其他生理功能**：
+   - 與血紅蛋白、DNA合成、肌糖原.energy production等有關。
+3. **膜結構**：
+   - 磷脂是細胞膜的主要成分，負責物質 transportation和信號傳遞。
+
+#### 問題原因
+- 磷水平失衡（過低或过高）會導致健康問題：
+  - **磷過低**：疲勞、骨密度降低。
+  - **磷过高**：牙齒腐蝕、腎臟結石、高血壓。
+
+#### 健康建議
+1. **攝取均衡磷**：
+   - 多食用富含磷的食物，如魚類（鳕魚、鮪魚、砂肺）、 pumpkin seeds、堅果和香菇。
+2. **注意過量攝取**：
+   - 避免過度攝入含磷加工食品或飲料（如碳酸飲料）。
+3. **健康問題的影響**：
+   - 糖尿病、高胰島素血症、胃腸道疾病可能影響磷的吸收。
+
+#### 結論
+- 磷是維持骨骼健康和整體生理功能不可或缺的元素，攝取均衡的磷對保持健康至關重要。過低或過高的磷水平均會引發健康問題，需注意飲食平衡並避免影響磷吸收的因素。
+
+---
+
+### 精簡版本
+
+#### 核心主題
+- 磷的重要性及其在骨骼和其他生理功能中的作用。
+
+#### 主要觀念
+1. 骨骼健康：80%的磷位於骨骼。
+2. 生理功能：參與血紅蛋白、DNA合成、肌糖原.energy production等。
+3. 膜結構：磷脂為細胞膜主要成分，負責物質 transportation和信號傳遞。
+
+#### 問題原因
+- 磷水平失衡（過低或过高）導致疲勞、骨密度降低、腎臟結石、牙齒腐蝕等問題。
+
+#### 健康建議
+1. 飲食均衡：攝取富含磷的食物，如魚類、堅果、香菇。
+2. 注意過量：避免高磷飲料和加工食品。
+3. 護理健康問題：控制糖尿病、高胰島素血症，注意胃腸道吸收。
+
+#### 結論
+- 磺攝取均衡對骨骼健康和整體生理功能至關重要，需注意飲食平衡並避免影響磷吸收的因素。
 </details>
 
 <details>
