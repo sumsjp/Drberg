@@ -2,7 +2,8 @@
 <summary>4100. [2022-10-10] 3 Interesting Benefits of Using Caffeine on Your Skin</summary><br>
 
 <a href="https://www.youtube.com/watch?v=jw36QB6OQdk" target="_blank">
-    <img src="https://img.youtube.com/vi/jw36QB6OQdk/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/jw36QB6OQdk/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -43,7 +44,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 <summary>4099. [2022-10-09] The Shocking Link Between Your Liver and Your Feet: 12 Things Your Feet Can Tell You</summary><br>
 
 <a href="https://www.youtube.com/watch?v=2qGeR0TX2-I" target="_blank">
-    <img src="https://img.youtube.com/vi/2qGeR0TX2-I/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/2qGeR0TX2-I/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理重點
@@ -107,7 +109,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 <summary>4098. [2022-10-08] #1 Sign That You Overdosed on Vitamin D</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Hjlu-jIY9Ao" target="_blank">
-    <img src="https://img.youtube.com/vi/Hjlu-jIY9Ao/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/Hjlu-jIY9Ao/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：  
@@ -181,7 +184,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 <summary>4097. [2022-10-07] The REAL Reason You Have Erectile Dysfunction</summary><br>
 
 <a href="https://www.youtube.com/watch?v=wd37ILZwgKM" target="_blank">
-    <img src="https://img.youtube.com/vi/wd37ILZwgKM/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/wd37ILZwgKM/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -238,7 +242,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 <summary>4096. [2022-10-06] The 10 Causes of Inflammation</summary><br>
 
 <a href="https://www.youtube.com/watch?v=cLJ2zWYttOk" target="_blank">
-    <img src="https://img.youtube.com/vi/cLJ2zWYttOk/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/cLJ2zWYttOk/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -292,7 +297,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 <summary>4095. [2022-10-05] The 10 WARNING Signs of Dementia</summary><br>
 
 <a href="https://www.youtube.com/watch?v=86Yd1EEWMBA" target="_blank">
-    <img src="https://img.youtube.com/vi/86Yd1EEWMBA/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/86Yd1EEWMBA/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理： Alzheimer's Disease: Insights and Management Strategies
@@ -355,7 +361,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 <summary>4094. [2022-10-04] How to STOP Acid Reflux Instantly</summary><br>
 
 <a href="https://www.youtube.com/watch?v=sbU_Pw2AegM" target="_blank">
-    <img src="https://img.youtube.com/vi/sbU_Pw2AegM/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/sbU_Pw2AegM/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -437,7 +444,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 <summary>4093. [2022-10-03] DRINK ONE PER DAY for Hypertension (High Blood Pressure)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3HMtmxjfCT0" target="_blank">
-    <img src="https://img.youtube.com/vi/3HMtmxjfCT0/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/3HMtmxjfCT0/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 小結結構化整理
@@ -486,7 +494,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 <summary>4092. [2022-10-02] The REAL Cause of Alzheimer's Is NOT Amyloid Plaque in the Brain</summary><br>
 
 <a href="https://www.youtube.com/watch?v=sB6CN3yzPws" target="_blank">
-    <img src="https://img.youtube.com/vi/sB6CN3yzPws/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/sB6CN3yzPws/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -545,7 +554,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 <summary>4091. [2022-10-01] The Dark Side of the Birth Control Pill</summary><br>
 
 <a href="https://www.youtube.com/watch?v=yRfeEraLFqQ" target="_blank">
-    <img src="https://img.youtube.com/vi/yRfeEraLFqQ/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/yRfeEraLFqQ/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -601,7 +611,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 <summary>4090. [2022-09-30] How to Stop Excessive Sweating (Hyperhidrosis)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=EULddsEzGlQ" target="_blank">
-    <img src="https://img.youtube.com/vi/EULddsEzGlQ/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/EULddsEzGlQ/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -650,7 +661,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 <summary>4089. [2022-09-28] The BEST 7 Foods to Clean Out Your Liver</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Ri-soyOq_bU" target="_blank">
-    <img src="https://img.youtube.com/vi/Ri-soyOq_bU/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/Ri-soyOq_bU/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：促進肝臟健康的飲食與補充策略
@@ -691,7 +703,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 <summary>4088. [2022-09-27] Bizarre Symptoms of Vitamin B1 Deficiency That You've Never Heard Before</summary><br>
 
 <a href="https://www.youtube.com/watch?v=nURgtkKxp84" target="_blank">
-    <img src="https://img.youtube.com/vi/nURgtkKxp84/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/nURgtkKxp84/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -741,7 +754,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 <summary>4087. [2022-09-26] #1 Best Remedy for a UTI (Urinary Tract Infection)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=pfAFYQk-Ek0" target="_blank">
-    <img src="https://img.youtube.com/vi/pfAFYQk-Ek0/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/pfAFYQk-Ek0/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -799,7 +813,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 <summary>4086. [2022-09-25] You May NEVER Eat Cereal Again After Watching This</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xhcBuH6NZ0c" target="_blank">
-    <img src="https://img.youtube.com/vi/xhcBuH6NZ0c/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/xhcBuH6NZ0c/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章總結：早餐穀片的危害與改进建議
@@ -862,7 +877,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 <summary>4085. [2022-09-24] 15 SKIN Signs that Reveal Your Liver is in Trouble</summary><br>
 
 <a href="https://www.youtube.com/watch?v=H8rb4DdNmTk" target="_blank">
-    <img src="https://img.youtube.com/vi/H8rb4DdNmTk/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/H8rb4DdNmTk/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章重点整理
@@ -936,7 +952,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 <summary>4084. [2022-09-22] Why Insomniacs ALWAYS Have Gut Problems</summary><br>
 
 <a href="https://www.youtube.com/watch?v=wORXbV6GB34" target="_blank">
-    <img src="https://img.youtube.com/vi/wORXbV6GB34/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/wORXbV6GB34/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### Key Points in the Article
@@ -981,7 +998,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 <summary>4083. [2022-09-21] The BEST Homemade Toothpaste (Only 4 Ingredients)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=X9hOOqgbuNM" target="_blank">
-    <img src="https://img.youtube.com/vi/X9hOOqgbuNM/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/X9hOOqgbuNM/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 # 文章重點整理
@@ -1029,7 +1047,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 <summary>4082. [2022-09-20] Take 2 TABLESPOONS before Bed for Perfect Blood Sugars</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Nay62P7jb8w" target="_blank">
-    <img src="https://img.youtube.com/vi/Nay62P7jb8w/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/Nay62P7jb8w/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### Core Theme: The Role of Apple Cider Vinegar in Managing Blood Sugar Levels  
@@ -1075,7 +1094,8 @@ Apple cider vinegar is a simple and effective adjunct to dietary interventions f
 <summary>4081. [2022-09-19] Drink COFFEE for a Fatty Liver and Gallstones</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ydz2rsKxse8" target="_blank">
-    <img src="https://img.youtube.com/vi/ydz2rsKxse8/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/ydz2rsKxse8/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -1131,7 +1151,8 @@ Apple cider vinegar is a simple and effective adjunct to dietary interventions f
 <summary>4080. [2022-09-18] The #1 Food for Toxic Kidneys</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ty6GzNa9SSs" target="_blank">
-    <img src="https://img.youtube.com/vi/ty6GzNa9SSs/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/ty6GzNa9SSs/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：肾脏健康与毒素清除的核心要点
@@ -1182,7 +1203,8 @@ Apple cider vinegar is a simple and effective adjunct to dietary interventions f
 <summary>4079. [2022-09-17] THIS Is What Happens When You Run Out of Electrolytes (NOT GOOD)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=TI39SNPie_M" target="_blank">
-    <img src="https://img.youtube.com/vi/TI39SNPie_M/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/TI39SNPie_M/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：電解質缺乏对人体的影响及重要性
@@ -1239,7 +1261,8 @@ Apple cider vinegar is a simple and effective adjunct to dietary interventions f
 <summary>4078. [2022-09-15] The REAL Reason You Should Eat Liver (MTHFR Gene Mutation)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=gGAizt3MQ90" target="_blank">
-    <img src="https://img.youtube.com/vi/gGAizt3MQ90/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/gGAizt3MQ90/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -1280,7 +1303,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4077. [2022-09-14] Why You Need to Eat 2 to 4 Eggs Daily</summary><br>
 
 <a href="https://www.youtube.com/watch?v=7hk81YuHZQg" target="_blank">
-    <img src="https://img.youtube.com/vi/7hk81YuHZQg/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/7hk81YuHZQg/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章要點整理
@@ -1357,7 +1381,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4076. [2022-09-13] You May NEVER Have Bloating Again after Watching This</summary><br>
 
 <a href="https://www.youtube.com/watch?v=BhRMjL7zaF8" target="_blank">
-    <img src="https://img.youtube.com/vi/BhRMjL7zaF8/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/BhRMjL7zaF8/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 調整問題和解決方案： bile salts 和消化健康.pdf
@@ -1367,7 +1392,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4075. [2022-09-12] The #1 Best Exercise Hack for Maximum Results</summary><br>
 
 <a href="https://www.youtube.com/watch?v=JNENcGfFHA8" target="_blank">
-    <img src="https://img.youtube.com/vi/JNENcGfFHA8/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/JNENcGfFHA8/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：運動訓練與恢復的核心原則
@@ -1433,110 +1459,619 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 </details>
 
 <details>
-<summary>4074. How to Put Your Autoimmune Disease In Remission</summary><br>
+<summary>4074. [2022-09-11] How to Put Your Autoimmune Disease In Remission</summary><br>
 
 <a href="https://www.youtube.com/watch?v=i8rkUp4IR64" target="_blank">
-    <img src="https://img.youtube.com/vi/i8rkUp4IR64/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/i8rkUp4IR64/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
+# 文章重點整理
 
+## 核心主題
+- ** Epstein-Barr 病毒 (EBV) 的影響**：介紹了 EBV 如何潛在導致自身免疫疾病。
+- ** 自身免疫疾病的管理**：強調如何將這些疾病控制在緩解期。
+
+## 主要觀念
+- **病毒感染的長期影響**：指出 EBV 感染可能引發慢性健康問題。
+- ** 免疫系統的作用**：探討免疫系統失衡導致自身攻擊正常細胞的情況。
+
+## 問題原因
+1. **免疲系統紊亂**：自身免疫疾病源於免疫系統的錯誤反應。
+2. **營養缺乏**： deficiencies in vitamins D, K2, and omega-3 脫油影響免疫功能。
+3. ** 生活方式因素**：壓力、睡眠不足和久坐生活方式破壞免疫平衡。
+
+## 解決方法
+### 1. 調理免疫系統
+- **營養補充**：
+  - **維生素D**：每日至少40,000 IU以降低炎症並調節免疫。
+  - **锌**：每日50毫克，抑制病毒 replication。
+  - **omega-3脂肪酸**：抗炎作用，推薦ALA、 EPA和 DHA形式。
+  - **鉀和鎂**：支持免疫功能。
+
+### 2. 生活方式調整
+- **運動**：進行有氧運動如快走或騎車，降低皮質醇並增強免疫力。
+- **壓力管理**：每日冥想或瑜伽以平衡免疫系統。
+- **充足睡眠**：每晚7-9小時睡眠，促進免疫恢復。
+
+### 3. 調理腸胃健康
+- **益生菌**：使用乳酸菌和 bifidobacterium 改善腸道屏障功能。
+- **低FERMENTOSE diet**：避免腸漏並降低炎症。
+- **定期禁食**：每月一次24小時禁食，促進免疫修復。
+
+### 4. PMG 補充
+- **PMG產品**：Standard Process公司生產的 glandular extracts 可用於靶向治疗。
+- **使用方法**：每日服用一粒，持續三個月以分散抗體攻擊。
+
+## 健康建議
+1. **飲食調整**：
+   - 采用酮geric diet 降低炎症。
+   - 減少加工食品和高糖攝入。
+2. **營養補充**：
+   - 維生素D、锌、omega-3 脫油和礦物質的每日攝取。
+3. **生活方式改善**：
+   - 定期有氧運動和壓力管理。
+   - 充足睡眠和腸道健康管理。
+
+## 結論
+- **主動干預的重要性**：通過營養、运动和生活方式調整來控制自身免疫疾病。
+- **PMG 的補充價值**：作為靶向治療的額外策略，需自行研究或諮詢專業人士。
 </details>
 
 <details>
-<summary>4073. 12 Extreme Belly Fat Weight Loss Tips</summary><br>
+<summary>4073. [2022-09-10] 12 Extreme Belly Fat Weight Loss Tips</summary><br>
 
 <a href="https://www.youtube.com/watch?v=waau5CqXguQ" target="_blank">
-    <img src="https://img.youtube.com/vi/waau5CqXguQ/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/waau5CqXguQ/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 本文圍繞著改善健康和促進體重管理的核心目標，探討了多方面的策略，涵蓋飲食、生活方式、心理壓力管理和環境因素等方面。
+
+#### 主要觀念
+1. **飲食調整**：
+   - 避免精製糖和加工食品。
+   - 增加蔬菜攝取量，特別是發酵蔬菜（如 Sauerkraut 和Kimchi）。
+   - 確保足夠的assium、鎂、維生素D和B1攝取。
+
+2. **生活方式調整**：
+   - 觀光度假和接觸自然環境對降低壓力激素皮質醇的效果。
+   - 規律運動，尤其是高強度間歇訓練（HIIT）。
+
+3. **心理壓力管理**：
+   - 避免接觸帶來壓力的_Source_，包括新聞和負面人際互動。
+   - 保持 BUSY，以避免不必要的思慮和焦慮。
+
+4. **睡眠管理**：
+   - 提早睡覺時間（如晚上9:30），確保每晚至少8小時的睡眠。
+
+#### 問題原因
+1. **飲食問題**：
+   - 高糖、高加工食品攝取過多，導致胰島素抗性。
+   - 膠原蛋白不足，影響腸胃健康。
+
+2. **心理壓力**：
+   - 經常接觸新聞和負面人際互動，增加皮質醇分泌，干擾血糖調節。
+   - 離不開電子產品，影響睡眠品質。
+
+3. **缺乏運動**：
+   - 運動不足，導致能量消耗不足，影響體重管理和胰島素敏感性。
+
+4. **睡眠不足**：
+   - 睡眠時間短或睡眠品質差，干擾荷爾蒙平衡和血糖調節。
+
+#### 解决方法
+1. **飲食調整**：
+   - 減少精製糖和加工食品的攝取。
+   - 增加蔬菜攝取量，尤其是發酵蔬菜或補充益生菌。
+   - 確保攝取足夠的assium、鎂、維生素D和B1。
+
+2. **心理壓力管理**：
+   - 避免接觸新聞和負面人際互動。
+   - 保持 BUSY，避免不必要的思慮和焦慮。
+
+3. **運動**：
+   - 定期進行高強度間歇訓練（HIIT）或全身性活動，如搬重物。
+
+4. **睡眠管理**：
+   - 提早睡覺時間，確保充足睡眠。
+   - 接觸自然光和新鮮空氣，降低皮質醇水平。
+
+5. **環境調整**：
+   - 觀光度假和接觸自然環境，以降低壓力和改善健康狀況。
+
+#### 健康建議
+1. **飲食**：
+   - 減少精製糖和加工食品的攝取。
+   - 增加蔬菜攝取量，尤其是發酵蔬菜或補充益生菌。
+   - 確保攝取足夠的assium、鎂、維生素D和B1。
+
+2. **運動**：
+   - 定期進行高強度間歇訓練（HIIT）或全身性活動，如搬重物。
+
+3. **心理壓力管理**：
+   - 避免接觸新聞和負面人際互動。
+   - 保持 BUSY，避免不必要的思慮和焦慮。
+
+4. **睡眠**：
+   - 提早睡覺時間，確保充足睡眠。
+   - 接觸自然光和新鮮空氣，降低皮質醇水平。
+
+5. **環境**：
+   - 視察光線對睡眠的影響，避免夜間藍光暴露。
+   - 多接觸自然環境，以降低壓力和改善健康狀況。
+
+#### 結論
+本文強調了飲食、運動、心理壓力管理和睡眠在促進整體健康和體重管理中的重要性。通過調整飲食結構、規律運動、有效管理壓力並保障充足的睡眠，可以顯著提升健康狀況，降低胰島素抗性和肥胖風險。建議讀者根據自身情況，逐步實施這些建議，以達到最佳的健康效果。
 </details>
 
 <details>
-<summary>4072. STOP Drinking Tea Until You Watch This</summary><br>
+<summary>4072. [2022-09-09] STOP Drinking Tea Until You Watch This</summary><br>
 
 <a href="https://www.youtube.com/watch?v=GrEs0ZKper0" target="_blank">
-    <img src="https://img.youtube.com/vi/GrEs0ZKper0/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/GrEs0ZKper0/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
+# 茶葉消費者的三大重要事項：健康影響與飲用建議
 
+## 核心主題  
+本文探討了茶葉消費中三個關鍵問題：單寧酸的作用、重金属污染以及茶袋的安全性，並提供了相應的健康建議。
+
+---
+
+## 主要觀念  
+
+1. **單寧酸的影響**  
+   - 茶葉中的單寧酸會螯合鐵、鋅和鈣等礦物質，影響其吸收。  
+   - 單寧酸還能阻礙硫胺素（B1）的吸收，導致神經系統問題，如焦慮和失眠。
+
+2. **重金属污染**  
+   - 许多茶葉中含有重金屬污染物，如鋁、鉛和砷。  
+   - 来源於中國的部分茶葉被發現含有非法 pesticides 和重金屬，質量較低；日本茶則通常品質較高。
+
+3. **氟化物問題**  
+   - 生長在酸性土壤中的茶樹容易吸收有毒金屬，如氟化物。  
+   - 土壤環境直接影響茶葉的污染物含量。
+
+4. **茶袋的安全性**  
+   - 紙質茶袋常使用氯化环氧丙烷（epichlorohydrin），一種致癌物質。  
+
+---
+
+## 問題原因  
+
+1. **單寧酸螯合作用**  
+   - 單寧酸與礦物質結合，降低其生物利用率。  
+   - 長期大量攝入會導致礦物質缺乏症狀。
+
+2. **茶葉來源的污染**  
+   - 部分地區（如中國）的茶葉因土壤和農藥污染，含有重金屬和有毒化學物。  
+
+3. **加工材料的危害**  
+   - 紙質茶袋中的氯化环氧丙烷可能遷移到茶液中，影響健康。
+
+---
+
+## 解決方法與健康建議  
+
+1. **選擇高質量茶葉**  
+   - 選擇來源可靠、不含農藥和重金屬的有機茶葉。  
+   - 日本茶通常是更好的選擇，因其生產標準較高。
+
+2. **補充關鍵營養素**  
+   - 長期飲用黑茶的人群應補充鐵、鋅、鈣等礦物質，以及硫胺素（B1）。  
+   - 經常攝入咖啡因和糖分者也需注意B1的補充。
+
+3. **避免污染風險**  
+   - 選擇 loose-leaf 茶葉或未漂白的茶袋，降低接觸有害化學物的風險。  
+
+4. **飲用時間控制**  
+   - 避免空腹飲茶，以減少單寧酸對礦物質吸收的影響。
+
+---
+
+## 結論  
+
+茶葉雖有益健康，但其潜在問題不容忽視。消費者應注意茶葉來源、加工材料的安全性，并適當補充營養素以平衡飲用可能帶來的負面影響。選擇高品質、有機茶葉並搭配健康的生活方式，可最大化茶葉的益處，降低健康風險。
 </details>
 
 <details>
-<summary>4071. Dr. Berg Goes Back to Eating Breakfast?</summary><br>
+<summary>4071. [2022-09-08] Dr. Berg Goes Back to Eating Breakfast?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=GW3UMJOJs9E" target="_blank">
-    <img src="https://img.youtube.com/vi/GW3UMJOJs9E/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/GW3UMJOJs9E/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 探讨时间限制性饮食（Time-Restricted Eating）对健康的影响及其科学依据。
+- 强调调整饮食时间的重要性，特别是早间进食的益处。
+
+#### 主要觀念
+1. **时间限制性饮食的基本概念**  
+   - 通过调整进食窗口的时间，优化健康效果。
+   - 指出20小时禁食与4小时进食窗口的模式，并建议将进食时间提前至上午。
+
+2. **饮食时间对身体的影响**  
+   - 进食时间与昼夜节律（Circadian Rhythms）密切相关。
+   - 晚间大量摄入蛋白质可能导致失眠，影响睡眠质量。
+
+#### 問題原因
+- 传统观念中早餐的重要性存在争议。
+- 科学研究中的固有理论可能限制对新方法的接受度。
+- 进食时间不当可能导致血糖波动、胰岛素抵抗及食欲问题。
+
+#### 解决方法
+1. **优化进食时间**  
+   - 将主要进食窗口提前至上午，避免晚餐过晚进食。
+   - 建议在9点开始第一餐，下午1点结束进食窗口。
+
+2. **科学研究支持**  
+   - 提前进食可改善胰岛素敏感性（HOMA-IR）和血糖水平。
+   - 减少晚间食欲，降低夜间零食摄入。
+   - 促进自噬作用（Autophagy），提升代谢健康。
+
+#### 健康建議
+1. **调整饮食计划**  
+   - 如果可能，将主要进食时间集中在上午，并避免晚餐后进食。
+
+2. **注意特殊情况**  
+   - 社交活动或家庭聚餐可能打乱饮食计划，需灵活应对。
+
+3. **持续观察与评估**  
+   - 建议进行至少几周的实践，以评估对个人健康的具体影响。
+
+#### 結論
+- 提前进食时间是一种值得探索的饮食策略。
+- 尽管目前尚未完全确定其长期效果，但初步研究表明其在改善代谢指标和睡眠质量方面具有潜力。
+- 值得进一步研究和个体化调整。
 </details>
 
 <details>
-<summary>4070. Take ONE Teaspoon of This Spice to Fix Your Diabetes</summary><br>
+<summary>4070. [2022-09-07] Take ONE Teaspoon of This Spice to Fix Your Diabetes</summary><br>
 
 <a href="https://www.youtube.com/watch?v=pGS-jZCuSK4" target="_blank">
-    <img src="https://img.youtube.com/vi/pGS-jZCuSK4/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/pGS-jZCuSK4/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：innamon（桂皮）在糖尿病管理中的應用及其健康益處
 
+#### 主要觀念：
+- **innamon的功效**：桂皮含有一種名為「cinnamaldehyde」的天然化學成分，具有多種生物活性。
+- **廣泛的研究支持**：研究表明，桂皮對抗糖尿病、抗氧化、抗炎和保護器官等方面有顯著效果。
+
+#### 問題原因：
+- **糖尿病及其並發症**：高血糖和胰島素抵抗會導致腎臟病變、視力損失、神經損害及心血管疾病。
+- **氧化應激與炎症**：過高的血糖水平引發自由基損傷，加速器官退化。
+
+#### 解决方法：
+1. **桂皮的抗糖尿病作用**：
+   - 通過cinnamaldehyde增加胰島素敏感性並降低血糖水平。
+2. **保護腎臟功能**：桂皮可減輕高血糖對腎臟的損害，延緩腎臟病變。
+3. **神經保護作用**：桂皮能幫助恢復外周神經病理（如 diabetic neuropathy）。
+4. **心血管健康**：保護內皮細胞，降低動脈硬化的風險。
+5. **眼睛健康**：降低白内障和其他眼部並發症的發生率。
+
+#### 健康建議：
+1. **使用桂皮的途徑**：
+   - 經常加入茶、咖啡或食物中（如脂肪 bombs）。
+   - 可作為補充劑服用。
+2. **飲食建議**：
+   - 選擇低糖、高纖維的飲食，配合間歇性禁食策略。
+3. **綜合管理**：
+   - 結合其他天然療法（如benfotamine和α-硫辛酸）以獲得最佳效果。
+
+#### 研究證據：
+- 多項研究表明桂皮在改善血糖控制、降低腎臟損害、恢復神經功能等方面的效果顯著。
+- 桂皮的抗氧化特性有助於減輕糖尿病引起的氧化應激。
+
+#### 總結與建議：
+桂皮作為一種自然療法，在管理糖尿病及其並發症方面具有多種潛在益處。建議患者在醫生或營養師的指導下，將其納入綜合治療計劃中，以增強療效並降低副作用風險。
 </details>
 
 <details>
-<summary>4069. #1 Best Remedy for Depression</summary><br>
+<summary>4069. [2022-09-06] #1 Best Remedy for Depression</summary><br>
 
 <a href="https://www.youtube.com/watch?v=qWh_3Uv1h2A" target="_blank">
-    <img src="https://img.youtube.com/vi/qWh_3Uv1h2A/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/qWh_3Uv1h2A/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 抑郁症的治療與管理
+- 影響抑郁的原因
+- 自然療法與健康干預措施
 
+---
+
+### 主要觀念
+1. **抑郁症是多因素導致的**：  
+   - 可能由壓力、喪失、季節性變化、分娩后等因素引發。
+2. **抑郁症通常被當作一種症狀，而非獨立疾病**：  
+   - 需要針對根本原因進行治療，以避免副作用。
+3. **自然療法在抑郁治療中具有重要作用**：  
+   - 包括日光照射、禁食、益生菌攝取、低碳水化合物飲食等。
+
+---
+
+### 問題原因
+1. **心理與社會因素**：  
+   - 長期壓力、喪失（如親人失去）、重大生活變故。
+2. **生物學因素**：  
+   - 神經遞質不平衡（如血清素、去甲腎上腺素不足）。
+3. **環境與飲食因素**：  
+   - 遗傳modify農藥（如 glyphosate）對神經遞質合成的干擾。
+   - 抗生素濫用導致腸道菌群失衡。
+4. **生活方式因素**：  
+   - 不良睡眠習慣、缺乏運動、慢性炎症。
+
+---
+
+### 解决方法
+1. **自然療法**：
+   - **日光照射**：增加日曬時間以促進維生素D合成，提升心情。
+   - **禁食**：短期禁食或斷食可修復腦功能，改善情緒。
+   - **益生菌攝取**：通過食用發酵食品（如酸菜、泡菜）或補充益生菌調節腸道菌群，增加血清素水平。
+2. **飲食調整**：
+   - **低碳水化合物飲食（酮ogenic diet）**：降低腦炎症，提升情緒。
+   - **均衡營養攝取**：補充足量的維生素D、锌、鎂等 mineral，特別是 беременість期的鐵和B1。
+3. **生活方式改變**：
+   - **冷淋浴**：有助于減輕慢性炎症與抑郁症狀。
+   - **運動**：規律性運動能提升神經遞質水平，改善情緒。
+4. **睡眠管理**：  
+   - 保证充足睡眠以降低皮質醇水平，維持神經系統平衡。
+
+---
+
+### 健康建議
+1. **日光照射**：每天至少暴露15-30分鐘紫外線B rays。  
+2. **禁食計劃**：初學者可從短時間禁食開始（如16小時），逐步增加。  
+3. **益生菌攝取**：每日食用發酵食品或補充益生菌。  
+4. **飲食調整**：
+   - 選擇低碳水化合物食物，減少精制糖與穀物攝取。
+   - 补充維生素D、锌、鎂等 mineral，特別是鐵和B1（如使用營養酵母）。  
+5. **運動習慣**：每周進行中等強度運動至少150分鐘。  
+6. **冷淋浴**：每日早晨短時間接受冷水刺激以提升精神狀態。  
+
+---
+
+### 總結
+抑郁症的治療需要綜合考慮心理、生物與環境因素，自然療法結合健康生活方式調整能有效改善抑郁症状。日光照射、禁食、益生菌攝取及低碳水化合物飲食等方法均可幫助恢復神經系統平衡，提升情緒。建議患者在專業指導下實施這些干預措施，以達到最佳治療效果。
 </details>
 
 <details>
-<summary>4068. The REAL Reasons Why You Should Drink Distilled Water</summary><br>
+<summary>4068. [2022-09-05] The REAL Reasons Why You Should Drink Distilled Water</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fSRxZXbQVxA" target="_blank">
-    <img src="https://img.youtube.com/vi/fSRxZXbQVxA/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/fSRxZXbQVxA/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
+### Key Points from the Article
 
+#### Core Theme
+- **Distilled Water**: Focuses on the benefits, uses, and health implications of consuming distilled water.
+
+#### Main Concepts
+1. **Definition of Distilled Water**
+   - Pure H₂O without impurities, including bacteria, viruses, heavy metals, pharmaceuticals, and volatile organic compounds (VOCs).
+   - Known as "hungry water" due to its strong solvent properties.
+
+2. **Production Process**
+   - Involves boiling water, converting it into steam, and then condensing it into a container.
+   - Natural examples include rain and snow, but modern pollution makes these unsafe for consumption.
+
+3. **Recommended Source of Distilled Water**
+   - Homemade using a stainless steel unit with storage in glass containers to avoid plastic leaching.
+
+#### Health Benefits
+1. **Toxin Removal**
+   - Helps eliminate heavy metals (e.g., mercury, cadmium, lead) and other environmental chemicals.
+   - Reduces deposits of minerals like calcium in joints, arteries, and eyes, improving flexibility and reducing the risk of conditions like arthritis and cataracts.
+
+2. **Kidney and Gall Stone Prevention**
+   - Decreases the likelihood of stone formation by reducing excess calcium buildup.
+
+3. **Detoxification During Fasting**
+   - Enhances detoxification processes during fasting by aiding in the removal of toxins, while maintaining electrolyte balance through supplementation.
+
+#### Concerns Addressed
+1. **Myth: Depletion of Essential Minerals**
+   - Drinking distilled water does not cause mineral depletion if proper electrolytes and minerals are补充ed.
+   - It aids in removing harmful excess minerals like calcium from tissues.
+
+2. **Increased Urination**
+   - May lead to increased diuresis, requiring additional hydration and mineral intake to maintain bodily functions.
+
+#### Solutions and Health Recommendations
+1. **Supplement Electrolytes**
+   - Add essential electrolytes to distilled water to prevent mineral deficiencies.
+   - Consume mineral-rich foods to balance intake.
+
+2. **Avoid Plastic Contamination**
+   - Use stainless steel distillers and glass containers for storage to avoid plastic leaching.
+
+3. **Consider Fasting with Distilled Water**
+   - Beneficial during fasting to aid detoxification, provided electrolytes are replenished.
+
+4. **Improve Drinking Water Quality**
+   - While tap water may have low microbial content, it often contains harmful chemicals and particulates.
+   - Use water filters or invest in a steam distiller for safer consumption.
+
+#### Conclusion
+- Distilled water offers significant health benefits, particularly in toxin removal and detoxification, but requires careful management of mineral and electrolyte balance.
+- Homemade distilled water is preferable to avoid contaminants from tap water.
+- Incorporating distilled water into fasting regimens can enhance health outcomes when properly managed.
 </details>
 
 <details>
-<summary>4067. Dr. Berg Hair Formula Supplement Commercial</summary><br>
+<summary>4067. [2022-09-04] Dr. Berg Hair Formula Supplement Commercial</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hiX3XjRkQY0" target="_blank">
-    <img src="https://img.youtube.com/vi/hiX3XjRkQY0/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/hiX3XjRkQY0/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題  
+- 探讨头发健康与头皮环境之间的关系，强调从内而外改善头皮状态以促进头发健康。
+
+#### 主要觀念  
+1. 头发与后院花园具有相似性，均依赖于根部结构和生长环境的健康。  
+2. 肥沃的土壤是植物健康成长的基础，类比到头皮环境对头发的重要性。
+
+#### 問題原因  
+- 许多人在脱发或头发变薄时采取外部治疗方法（如喷洒药物、使用护发产品），但忽略了头皮内部环境的根本问题。  
+- 头皮缺乏必要的营养素（如锌、铜、硒、钙）和氧气，导致头发无法健康成长。
+
+#### 解決方法  
+1. 通过改善头皮内部环境来促进头发健康。  
+2. 使用一种综合性的头发补充剂，含有重要成分：  
+   - 萨尔维亚•帕洛玛托（Saw Palmetto）  
+   - 韩国红参根  
+   - 苦艾草粉末  
+
+#### 健康建議  
+- 从内部调理头皮环境，确保提供头发所需的矿物质、水分和氧气。  
+- 使用专为改善头皮健康设计的补充剂，适用于男性和女性。
+
+---
+
+### 總結性摘要  
+本文通过类比头发与花园的关系，强调了头皮环境对头发健康的重要性。作者指出，许多人通过外部手段（如喷洒药物）试图解决脱发问题，但忽略了内部根源。真正的解决方案在于改善头皮的营养和氧气供应，建议使用一种含有关键成分的头发补充剂，以促进头发健康，适用于不同性别的人群。
 </details>
 
 <details>
-<summary>4066. The #1 Most Dangerous Food in the World</summary><br>
+<summary>4066. [2022-09-04] The #1 Most Dangerous Food in the World</summary><br>
 
 <a href="https://www.youtube.com/watch?v=PTgBa-Fpmlc" target="_blank">
-    <img src="https://img.youtube.com/vi/PTgBa-Fpmlc/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/PTgBa-Fpmlc/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：法式炸薯條（French Fries）及其健康影響
 
+#### 核心主題
+- 法式炸薯條（French Fries）因其加工方式和添加成分，被指出為高度不健康的食品。
+- 作者質疑公共衛生部門對紅肉和加工肉的強調，認為其他食物如法式炸薯條更為有害。
+
+#### 主要觀念
+1. **法式炸薯條的健康危害**：
+   - **Advanced Glycation End Products (AGEs)**：高溫油炸產生AGEs，導致炎症和氧化應激。
+   - **反式脂肪**：來源于油炸過程，增加心血管疾病風險。
+   - **高糖分**：含有多種糖分，如高果糖玉米糖浆，誘發胰島素抵抗和脂肪肝。
+   - **氧化性脂肪**：多次使用油炸油導致氧化，促炎作用明顯。
+   - ** glyphosate污染**：農藥殘留可能干擾腸道菌群平衡。
+
+2. **醬料（Ketchup）的健康影響**：
+   - 含有高果糖玉米糖浆和修正玉米淀粉，增加血糖負擔。
+   - 可能添加MSG，影響味覺並誘發胰島素分泌。
+
+3. **食鹽問題**：
+   - 使用普通食鹽可能含鋁，長期攝入有害健康。
+
+4. **癌症風險**：
+   - 油炸過程中產生的丙烯酰胺（acrylamide）被視為潛在致癌物。
+   - 膳食中AGEs的積累與多種慢性病相關。
+
+#### 問題原因
+- 高溫油炸和反覆使用食用油導致食品質地惡化，增加健康風險。
+- 加工食品中添加大量糖分、鹽和有害油，破壞營養平衡。
+- 現代飲食習慣中過量攝入精制碳水化合物和反式脂肪。
+
+#### 解決方法
+1. **選擇清蒸或烘焙薯條**：減少AGEs的產生。
+2. **避免食用加工醬料**：自制低糖醬料，控制鹽分攝取。
+3. **使用健康的油類**：如橄欌油或椰子油，降低氧化風險。
+4. **增加膳食纖維攝取**：幫助清除體內AGEs。
+
+#### 健康建議
+- 減少在外就餐 frequency，避免常食快餐。
+- 學會閱讀食品標籤，了解添加成分。
+- 選擇天然、未加工食物，平衡飲食結構。
+
+#### 結論
+法式炸薯條因其製作方式和添加物質，成為現代飲食中健康隱患的代表。公共衛生信息往往過於強調紅肉和加工肉的危害，而忽略了其他高度不健康的食品如炸薯條的風險。消費者需提高對加工食品成分的認知，作出更健康的飲食選擇。
 </details>
 
 <details>
-<summary>4065. The Best Treatment for ALL Autoimmune Diseases</summary><br>
+<summary>4065. [2022-09-03] The Best Treatment for ALL Autoimmune Diseases</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Mn0EWEulFzE" target="_blank">
-    <img src="https://img.youtube.com/vi/Mn0EWEulFzE/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/Mn0EWEulFzE/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- ** autoimmune diseases (自免疫疾病) 的治療挑戰及其與其他重大疾病的對比。  
+- 探讨 fasting (禁食) 在免疫系統調節中的作用及其健康益處。  
 
+---
+
+### 主要觀念  
+1. **傳統治療的局限性**：  
+   - 依賴藥物（如皮質類固醇和免疫抑制劑）治癒率低，副作用明顯。  
+2. **自免疫疾病的成因**：  
+   - 遗傳、環境因素（如壓力、飲食）、腸道菌群失衡等多因素共同作用。  
+3. **禁食的健康益處**：  
+   - 促進免疫系統修復，降低炎症反應，改善整體健康狀況。  
+
+---
+
+### 問題原因  
+1. **傳統治療的局限性**：  
+   - 病因 complexities 导致治愈率低。  
+2. **現代生活方式的影响**：  
+   - 高糖高脂飲食、缺乏運動、壓力過大等因素增加自免疫疾病風險。  
+
+---
+
+### 解決方法  
+1. **禁食作為治療策略**：  
+   - 定期進行 time-restricted eating (時間限制性進食)，如 16:8（16小時禁食+8小時進食）。  
+   - 經常進行 prolonged fasting（長時間禁食），建議每1-2周進行48小時禁食。  
+2. **飲食結構調整**：  
+   - 選擇高營養密度的飲食，避免刺激性食物。  
+3. **生活方式改善**：  
+   - 經常運動，管理壓力，保持良好的作息習慣。  
+
+---
+
+### 健康建議  
+1. **禁食實施策略**：  
+   - 初學者建議從 16:8 模式開始，逐步增加禁食時間。  
+   - 高級用戶可嘗試 48-72小時禁食，每月一次五天禁食以促進深度修復。  
+2. **飲食與生活方式建議**：  
+   - 確保每日飲食富含蔬菜、水果和高質量蛋白質。  
+   - 避免間歇性斷食模式（如 alternate-day fasting），因其效果不佳且難以為繼。  
+
+---
+
+### 結論  
+- **禁食在自免疫疾病治療中的重要性**：  
+  - 禁食可有效修復免疫系統，降低炎症反應，改善整體健康狀況。  
+- **未來研究方向**：  
+  - 深入研究禁食對不同類型自免疫疾病的影響及最佳實施方案。  
+
+---
+
+此整理結構清晰地展示了文章的核心內容和主要觀點，並提供了具體的健康建議和結論，便於進一步理解和應用。
 </details>
 
 <details>
 <summary>4064. The Dangers of Exercise (ex. Death)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=tst30qwXeeU" target="_blank">
-    <img src="https://img.youtube.com/vi/tst30qwXeeU/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/tst30qwXeeU/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1546,7 +2081,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4063. The TOP Nutritional Deficiency Behind Constipation</summary><br>
 
 <a href="https://www.youtube.com/watch?v=aeS3UqRiI6g" target="_blank">
-    <img src="https://img.youtube.com/vi/aeS3UqRiI6g/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/aeS3UqRiI6g/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1556,7 +2092,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4062. Here's Why You Lost Your BUTT but Gained a BELLY</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fnSp_JR5pZk" target="_blank">
-    <img src="https://img.youtube.com/vi/fnSp_JR5pZk/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/fnSp_JR5pZk/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1566,7 +2103,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4061. #1 Best Remedy Restore Eyelashes</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vnBtihWYZgE" target="_blank">
-    <img src="https://img.youtube.com/vi/vnBtihWYZgE/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/vnBtihWYZgE/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1576,7 +2114,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4060. You May Never Eat CHICKEN Again After Watching This</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ccc85ALEejw" target="_blank">
-    <img src="https://img.youtube.com/vi/ccc85ALEejw/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/ccc85ALEejw/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1586,7 +2125,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4059. 7 Warning Signs of a SALT Deficiency</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fqhThRC2ldQ" target="_blank">
-    <img src="https://img.youtube.com/vi/fqhThRC2ldQ/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/fqhThRC2ldQ/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1596,7 +2136,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4058. The Simplest Way to Balance the Omega-6 to Omega-3 Ratio</summary><br>
 
 <a href="https://www.youtube.com/watch?v=CN5ekrfC4wY" target="_blank">
-    <img src="https://img.youtube.com/vi/CN5ekrfC4wY/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/CN5ekrfC4wY/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1606,7 +2147,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4057. You May Never Eat Fruit Again after Watching This</summary><br>
 
 <a href="https://www.youtube.com/watch?v=VLGDWYiBGgo" target="_blank">
-    <img src="https://img.youtube.com/vi/VLGDWYiBGgo/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/VLGDWYiBGgo/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1616,7 +2158,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4056. #1 Food to Boost Testosterone</summary><br>
 
 <a href="https://www.youtube.com/watch?v=dkLbAthoVkg" target="_blank">
-    <img src="https://img.youtube.com/vi/dkLbAthoVkg/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/dkLbAthoVkg/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1626,7 +2169,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4055. 7 Surprising Causes of Autoimmune Diseases They Never Told You About</summary><br>
 
 <a href="https://www.youtube.com/watch?v=1TP5glJs7cw" target="_blank">
-    <img src="https://img.youtube.com/vi/1TP5glJs7cw/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/1TP5glJs7cw/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1636,7 +2180,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4054. 7 Ways to Boost Your ABSORPTION of Vitamin D</summary><br>
 
 <a href="https://www.youtube.com/watch?v=-cwT4MN9cJA" target="_blank">
-    <img src="https://img.youtube.com/vi/-cwT4MN9cJA/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/-cwT4MN9cJA/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1646,7 +2191,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4053. The #1 Best Remedy for Hot Flashes and Menstrual Problems</summary><br>
 
 <a href="https://www.youtube.com/watch?v=owQiY8_3OLU" target="_blank">
-    <img src="https://img.youtube.com/vi/owQiY8_3OLU/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/owQiY8_3OLU/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1656,7 +2202,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4052. The 11 Causes of Leg Pain Revealed</summary><br>
 
 <a href="https://www.youtube.com/watch?v=9iIOBA62FlQ" target="_blank">
-    <img src="https://img.youtube.com/vi/9iIOBA62FlQ/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/9iIOBA62FlQ/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1666,7 +2213,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4051. The 9 IGNORED Risk Factors for Heart Attacks</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HQleXqetrm0" target="_blank">
-    <img src="https://img.youtube.com/vi/HQleXqetrm0/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/HQleXqetrm0/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1676,7 +2224,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4050. What If You Drank 2.2 Liters of Coca-Cola Every Day?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fuJi4RtKrVM" target="_blank">
-    <img src="https://img.youtube.com/vi/fuJi4RtKrVM/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/fuJi4RtKrVM/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1686,7 +2235,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4049. The BEST Way a Woman Can Rid Facial Hair</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kPZannhi8a4" target="_blank">
-    <img src="https://img.youtube.com/vi/kPZannhi8a4/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/kPZannhi8a4/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1696,7 +2246,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4048. Extend Lifespan by Fixing Your Sleep (LIVE LONGER)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=cuiv4UcVNGM" target="_blank">
-    <img src="https://img.youtube.com/vi/cuiv4UcVNGM/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/cuiv4UcVNGM/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1706,7 +2257,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4047. The Best Homemade Remedy for a Cough and a Sore Throat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=P8M9KlUwHEU" target="_blank">
-    <img src="https://img.youtube.com/vi/P8M9KlUwHEU/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/P8M9KlUwHEU/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1716,7 +2268,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4046. How to Stop a Heart Attack</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ral-LmSNUmI" target="_blank">
-    <img src="https://img.youtube.com/vi/ral-LmSNUmI/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/ral-LmSNUmI/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1726,7 +2279,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4045. Sugar's Effect on Brain Power (Attention, Focus & Concentration)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Hv9LE8rxqMI" target="_blank">
-    <img src="https://img.youtube.com/vi/Hv9LE8rxqMI/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/Hv9LE8rxqMI/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1736,7 +2290,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4044. 6 Things You Don't Know about Vitamins</summary><br>
 
 <a href="https://www.youtube.com/watch?v=y6Sq209uqOA" target="_blank">
-    <img src="https://img.youtube.com/vi/y6Sq209uqOA/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/y6Sq209uqOA/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1746,7 +2301,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4043. The 10 Causes of Exhaustion (Fatigue)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ED34EEXVjYg" target="_blank">
-    <img src="https://img.youtube.com/vi/ED34EEXVjYg/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/ED34EEXVjYg/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1756,7 +2312,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4042. The #1 Best Tip for Hair Growth and Thicker Hair - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xoNljqhJiCo" target="_blank">
-    <img src="https://img.youtube.com/vi/xoNljqhJiCo/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/xoNljqhJiCo/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1766,7 +2323,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4041. The 7 Signs You're Not Getting Enough Vitamin C</summary><br>
 
 <a href="https://www.youtube.com/watch?v=FrKGI8eUjHc" target="_blank">
-    <img src="https://img.youtube.com/vi/FrKGI8eUjHc/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/FrKGI8eUjHc/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1776,7 +2334,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4040. How to Get Rid of Hyperpigmentation (Aging or Dark Spots)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=RzEjFZmTv54" target="_blank">
-    <img src="https://img.youtube.com/vi/RzEjFZmTv54/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/RzEjFZmTv54/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1786,7 +2345,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4039. 4 Mineral Deficiencies That LOWER Your IQ (Intelligence)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=VKb0HNov1Vw" target="_blank">
-    <img src="https://img.youtube.com/vi/VKb0HNov1Vw/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/VKb0HNov1Vw/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1796,7 +2356,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4038. THIS Herb is the #1 Absolute BEST for liver diseases (Fatty Liver, Hepatitis and Cirrhosis)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Aw-z7MWtdeY" target="_blank">
-    <img src="https://img.youtube.com/vi/Aw-z7MWtdeY/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/Aw-z7MWtdeY/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1806,7 +2367,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4037. Iodine Deficiency: Seven Reasons Why You Might Be Deficient in Iodine</summary><br>
 
 <a href="https://www.youtube.com/watch?v=JbujH5aFOh0" target="_blank">
-    <img src="https://img.youtube.com/vi/JbujH5aFOh0/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/JbujH5aFOh0/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1816,7 +2378,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4036. The Proven Benefits of Prolonged Fasting: 7 Critical Things You Need to Know</summary><br>
 
 <a href="https://www.youtube.com/watch?v=06KgXfwu99c" target="_blank">
-    <img src="https://img.youtube.com/vi/06KgXfwu99c/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/06KgXfwu99c/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1826,7 +2389,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4035. 12 Reasons Why You Should Eat SATURATED Animal Fat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=v8R0vInlGgk" target="_blank">
-    <img src="https://img.youtube.com/vi/v8R0vInlGgk/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/v8R0vInlGgk/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1836,7 +2400,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4034. The Ultimate Hormone Balancing Solution: The #1 Absolute Best Way to Balance Your Hormones</summary><br>
 
 <a href="https://www.youtube.com/watch?v=LNgId7Eqpek" target="_blank">
-    <img src="https://img.youtube.com/vi/LNgId7Eqpek/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/LNgId7Eqpek/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1846,7 +2411,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4033. 9 Foods that Contain ALL Of Your Fat-Soluble Vitamins</summary><br>
 
 <a href="https://www.youtube.com/watch?v=axYtMI2FZCo" target="_blank">
-    <img src="https://img.youtube.com/vi/axYtMI2FZCo/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/axYtMI2FZCo/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1856,7 +2422,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4032. THIS is What REALLY RUINS Your Metabolism</summary><br>
 
 <a href="https://www.youtube.com/watch?v=eMMpCg0jCtg" target="_blank">
-    <img src="https://img.youtube.com/vi/eMMpCg0jCtg/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/eMMpCg0jCtg/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1866,7 +2433,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4031. 7 Ways to BOOST Human Growth Hormone (HGH) - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kbgueP_CdPw" target="_blank">
-    <img src="https://img.youtube.com/vi/kbgueP_CdPw/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/kbgueP_CdPw/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1876,7 +2444,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4030. The REAL Reason Why Your Arteries are Calcifying and Turning into Bone</summary><br>
 
 <a href="https://www.youtube.com/watch?v=J_i7sNQTFPE" target="_blank">
-    <img src="https://img.youtube.com/vi/J_i7sNQTFPE/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/J_i7sNQTFPE/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1886,7 +2455,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4029. The Biggest CRAVING in the World (SURPRISING)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=yCeJ7fPsGT4" target="_blank">
-    <img src="https://img.youtube.com/vi/yCeJ7fPsGT4/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/yCeJ7fPsGT4/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1896,7 +2466,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4028. The Shocking Fact about Your Food - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=BuzQvVF9pAo" target="_blank">
-    <img src="https://img.youtube.com/vi/BuzQvVF9pAo/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/BuzQvVF9pAo/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1906,7 +2477,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4027. The Top Mineral Deficiency in Rotator Cuff Repair / Pain / Tears</summary><br>
 
 <a href="https://www.youtube.com/watch?v=CvpAsARoiIY" target="_blank">
-    <img src="https://img.youtube.com/vi/CvpAsARoiIY/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/CvpAsARoiIY/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1916,7 +2488,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4026. What Would Happen if You Only Ate Eggs for 30 Days</summary><br>
 
 <a href="https://www.youtube.com/watch?v=j8qlrFrvpvE" target="_blank">
-    <img src="https://img.youtube.com/vi/j8qlrFrvpvE/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/j8qlrFrvpvE/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1926,7 +2499,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4025. The Best Trick for Clear Skin (Acne, Aging, Wrinkles, Liver Spots)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=__DKt2uEOUM" target="_blank">
-    <img src="https://img.youtube.com/vi/__DKt2uEOUM/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/__DKt2uEOUM/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1936,7 +2510,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4024. The BEST Way to Release a Tight Psoas Muscle for Low Back Pain and Poor Posture</summary><br>
 
 <a href="https://www.youtube.com/watch?v=rsCVJ0xTH1c" target="_blank">
-    <img src="https://img.youtube.com/vi/rsCVJ0xTH1c/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/rsCVJ0xTH1c/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1946,7 +2521,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4023. The 7 Warning Signs of a Vitamin D Deficiency  - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=nk4DAjtcviI" target="_blank">
-    <img src="https://img.youtube.com/vi/nk4DAjtcviI/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/nk4DAjtcviI/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1956,7 +2532,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4022. THIS is the Most Powerful ADAPTOGEN in The World - How it Works and Why it's THE BEST</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vOsp52De41I" target="_blank">
-    <img src="https://img.youtube.com/vi/vOsp52De41I/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/vOsp52De41I/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1966,7 +2543,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4021. The Serious SSRI (Selective Serotonin Reuptake Inhibitor) Side Effects: Sexual Side Effects</summary><br>
 
 <a href="https://www.youtube.com/watch?v=nhMr8NXB3y8" target="_blank">
-    <img src="https://img.youtube.com/vi/nhMr8NXB3y8/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/nhMr8NXB3y8/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1976,7 +2554,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4020. The DEADLIEST Bacteria in the World - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HtRodM1INXE" target="_blank">
-    <img src="https://img.youtube.com/vi/HtRodM1INXE/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/HtRodM1INXE/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1986,7 +2565,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4019. The REAL Cause and Cure for DANDRUFF</summary><br>
 
 <a href="https://www.youtube.com/watch?v=x365pPLtNJo" target="_blank">
-    <img src="https://img.youtube.com/vi/x365pPLtNJo/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/x365pPLtNJo/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1996,7 +2576,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4018. HYPOTHYROIDISM: Don’t Ignore These 7 Early Warning Signs</summary><br>
 
 <a href="https://www.youtube.com/watch?v=mogBUWRmraE" target="_blank">
-    <img src="https://img.youtube.com/vi/mogBUWRmraE/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/mogBUWRmraE/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -2006,7 +2587,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4017. The Vitamin Deficiency behind TIRED and STRAINED EYES</summary><br>
 
 <a href="https://www.youtube.com/watch?v=LaPyMljE-pk" target="_blank">
-    <img src="https://img.youtube.com/vi/LaPyMljE-pk/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/LaPyMljE-pk/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -2016,7 +2598,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4016. You DON'T Have a Slow Metabolism, It's THIS Instead...</summary><br>
 
 <a href="https://www.youtube.com/watch?v=x9DB9ICue-Y" target="_blank">
-    <img src="https://img.youtube.com/vi/x9DB9ICue-Y/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/x9DB9ICue-Y/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -2026,7 +2609,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4015. The #1 Food That STOPS Your Immune System from Working - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=N23dLLdxtiQ" target="_blank">
-    <img src="https://img.youtube.com/vi/N23dLLdxtiQ/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/N23dLLdxtiQ/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -2036,7 +2620,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4014. 7 Warning Signs of Cirrhosis (End-Stage Liver Disease) - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=leepeUyaMG8" target="_blank">
-    <img src="https://img.youtube.com/vi/leepeUyaMG8/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/leepeUyaMG8/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -2046,7 +2631,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4013. Venous Insufficiency: This is the Most Effective and Safest Remedy for Varicose Veins</summary><br>
 
 <a href="https://www.youtube.com/watch?v=2orzLp9o3pQ" target="_blank">
-    <img src="https://img.youtube.com/vi/2orzLp9o3pQ/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/2orzLp9o3pQ/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -2056,7 +2642,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4012. DRINK 1 CUP PER DAY to Prevent Heart Attacks and a Stroke (GARLIC WATER) - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=U67eCv5Hd8k" target="_blank">
-    <img src="https://img.youtube.com/vi/U67eCv5Hd8k/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/U67eCv5Hd8k/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -2066,7 +2653,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4011. The REAL Cause of Abdominal Pain and Bloating - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=O4vu_cY43QU" target="_blank">
-    <img src="https://img.youtube.com/vi/O4vu_cY43QU/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/O4vu_cY43QU/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -2076,7 +2664,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4010. The BEST Vitamin to Cleanse a Fatty Liver - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XGq7-asWQlg" target="_blank">
-    <img src="https://img.youtube.com/vi/XGq7-asWQlg/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/XGq7-asWQlg/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -2086,7 +2675,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4009. How Worry and Stress Affects You at the Cellular Level</summary><br>
 
 <a href="https://www.youtube.com/watch?v=jBx5hJRzFFQ" target="_blank">
-    <img src="https://img.youtube.com/vi/jBx5hJRzFFQ/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/jBx5hJRzFFQ/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -2096,7 +2686,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4008. The Vitamin Deficiency that Mimics Dementia - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XcTgFlM681E" target="_blank">
-    <img src="https://img.youtube.com/vi/XcTgFlM681E/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/XcTgFlM681E/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -2106,7 +2697,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4007. The BEST Homemade Moisturizer for Dry Skin</summary><br>
 
 <a href="https://www.youtube.com/watch?v=X0I7g3vcMbw" target="_blank">
-    <img src="https://img.youtube.com/vi/X0I7g3vcMbw/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/X0I7g3vcMbw/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -2116,7 +2708,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4006. The Health Benefits of Pizza</summary><br>
 
 <a href="https://www.youtube.com/watch?v=6hohs3QJVNs" target="_blank">
-    <img src="https://img.youtube.com/vi/6hohs3QJVNs/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/6hohs3QJVNs/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -2126,7 +2719,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4005. The FASTEST TMJ Relief with this Do-It-Yourself Technique</summary><br>
 
 <a href="https://www.youtube.com/watch?v=l6XzlAtW6cA" target="_blank">
-    <img src="https://img.youtube.com/vi/l6XzlAtW6cA/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/l6XzlAtW6cA/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -2136,7 +2730,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4004. Soy Is One of the Healthiest Foods You Can Eat...Right?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=QcgChU4RpxM" target="_blank">
-    <img src="https://img.youtube.com/vi/QcgChU4RpxM/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/QcgChU4RpxM/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -2146,7 +2741,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4003. STOP Using Cold Therapy for Acute Injuries</summary><br>
 
 <a href="https://www.youtube.com/watch?v=YUoSBF1cJiY" target="_blank">
-    <img src="https://img.youtube.com/vi/YUoSBF1cJiY/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/YUoSBF1cJiY/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -2156,7 +2752,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4002. Walnuts Are the ONLY Nut with Omega 3 Fats</summary><br>
 
 <a href="https://www.youtube.com/watch?v=WtNfraQ6Se8" target="_blank">
-    <img src="https://img.youtube.com/vi/WtNfraQ6Se8/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/WtNfraQ6Se8/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -2166,7 +2763,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 <summary>4001. The REAL Cause of Your Breathing Problems (Snoring and Sleep Apnea)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=-MjaUhSOf94" target="_blank">
-    <img src="https://img.youtube.com/vi/-MjaUhSOf94/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/-MjaUhSOf94/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 

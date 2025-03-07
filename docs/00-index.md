@@ -2,7 +2,8 @@
 <summary>100. [2012-07-11] Fast Weight Loss Success Story</summary><br>
 
 <a href="https://www.youtube.com/watch?v=UrJW9dCxVhU" target="_blank">
-    <img src="https://img.youtube.com/vi/UrJW9dCxVhU/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/UrJW9dCxVhU/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 I. 核心主題  
@@ -37,7 +38,8 @@ VI. 結論
 <summary>99. [2012-07-11] Crohns Disease Success</summary><br>
 
 <a href="https://www.youtube.com/watch?v=703oYuzXZNo" target="_blank">
-    <img src="https://img.youtube.com/vi/703oYuzXZNo/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/703oYuzXZNo/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -84,7 +86,8 @@ VI. 結論
 <summary>98. [2012-07-11] Dr. Berg’s Healthy Diet Success Story: Potassium Rich Foods</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kOcBB3OWPpY" target="_blank">
-    <img src="https://img.youtube.com/vi/kOcBB3OWPpY/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/kOcBB3OWPpY/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -119,7 +122,8 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 <summary>97. Stabilizing Exercises  for Low Back & Pelvis</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DKnAb8bIUcY" target="_blank">
-    <img src="https://img.youtube.com/vi/DKnAb8bIUcY/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/DKnAb8bIUcY/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -129,7 +133,8 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 <summary>96. [2012-06-25] Dr. Berg's Office Quick Tour</summary><br>
 
 <a href="https://www.youtube.com/watch?v=GXirii-9ySo" target="_blank">
-    <img src="https://img.youtube.com/vi/GXirii-9ySo/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/GXirii-9ySo/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -187,7 +192,8 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 <summary>95. [2012-06-25] What to do for a Tailbone Injury - for Low Back Pain</summary><br>
 
 <a href="https://www.youtube.com/watch?v=722_8kxeg5A" target="_blank">
-    <img src="https://img.youtube.com/vi/722_8kxeg5A/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/722_8kxeg5A/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -234,7 +240,8 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 <summary>94. [2012-06-12] Fat Burning Candy Bar</summary><br>
 
 <a href="https://www.youtube.com/watch?v=gJNnSODgpj0" target="_blank">
-    <img src="https://img.youtube.com/vi/gJNnSODgpj0/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/gJNnSODgpj0/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 # 文章整理： deprivation dieting 與代糖甜點替代方案
@@ -275,7 +282,8 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 <summary>93. [2012-05-16] Enhanced Waters are Really Sugar Water</summary><br>
 
 <a href="https://www.youtube.com/watch?v=IHfiEXMgZ_4" target="_blank">
-    <img src="https://img.youtube.com/vi/IHfiEXMgZ_4/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/IHfiEXMgZ_4/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：飲料中的糖分與營養成分分析及其健康影響
@@ -329,7 +337,8 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 <summary>92. [2012-05-07] Do Not Eat Eggs, Unless You Watch This</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hC3D_eeULLU" target="_blank">
-    <img src="https://img.youtube.com/vi/hC3D_eeULLU/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/hC3D_eeULLU/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：鸡蛋的营养价值与健康益处  
@@ -366,7 +375,8 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 <summary>91. [2012-04-18] Try This Weight Loss Shake</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fKjqBZdf3RQ" target="_blank">
-    <img src="https://img.youtube.com/vi/fKjqBZdf3RQ/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/fKjqBZdf3RQ/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 小節結構化整理
@@ -404,7 +414,8 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 <summary>90. [2012-04-18] The 2 Types of Exercise for Belly Fat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=1URgrSjgQTY" target="_blank">
-    <img src="https://img.youtube.com/vi/1URgrSjgQTY/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/1URgrSjgQTY/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -457,7 +468,8 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 <summary>89. [2012-04-18] No More Problems with Sleeping</summary><br>
 
 <a href="https://www.youtube.com/watch?v=6K3oJW26D58" target="_blank">
-    <img src="https://img.youtube.com/vi/6K3oJW26D58/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/6K3oJW26D58/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -497,7 +509,8 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 <summary>88. [2012-04-18] Kale Smoothies Recipes</summary><br>
 
 <a href="https://www.youtube.com/watch?v=CIZ3ake2ZBo" target="_blank">
-    <img src="https://img.youtube.com/vi/CIZ3ake2ZBo/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/CIZ3ake2ZBo/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題： kale Shake 的製作與健康益處
@@ -553,7 +566,8 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 <summary>87. [2012-04-18] How Not to Become a Procrastinator</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hTqDCao_Caw" target="_blank">
-    <img src="https://img.youtube.com/vi/hTqDCao_Caw/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/hTqDCao_Caw/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 小節一：核心主題  
@@ -610,7 +624,8 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 <summary>86. [2012-04-18] Getting the Right Diet for Your Body Type</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Gb5Mztmx-U0" target="_blank">
-    <img src="https://img.youtube.com/vi/Gb5Mztmx-U0/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/Gb5Mztmx-U0/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -647,7 +662,8 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 <summary>85. [2012-04-18] A Great Tool for Stress Relief</summary><br>
 
 <a href="https://www.youtube.com/watch?v=41HnMrqZAmU" target="_blank">
-    <img src="https://img.youtube.com/vi/41HnMrqZAmU/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/41HnMrqZAmU/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -692,7 +708,8 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 <summary>84. [2012-04-14] The Best and Worst Type of Calcium</summary><br>
 
 <a href="https://www.youtube.com/watch?v=s5h3VoMQt9g" target="_blank">
-    <img src="https://img.youtube.com/vi/s5h3VoMQt9g/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/s5h3VoMQt9g/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -767,7 +784,8 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 <summary>83. [2012-04-14] Cheryl Jackson Radio Interview on 104.1 Talking about the Adrenal</summary><br>
 
 <a href="https://www.youtube.com/watch?v=V6Zy00bU5Bo" target="_blank">
-    <img src="https://img.youtube.com/vi/V6Zy00bU5Bo/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/V6Zy00bU5Bo/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -829,7 +847,8 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 <summary>82. [2012-04-14] The Best and Worst Vitamin C</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DnvnKnu7YBI" target="_blank">
-    <img src="https://img.youtube.com/vi/DnvnKnu7YBI/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/DnvnKnu7YBI/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：vitamin C 的重要性與合理攝取
@@ -894,7 +913,8 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 <summary>81. [2012-04-14] Make Your Own Weight Loss Drink</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HNNk31aGaYo" target="_blank">
-    <img src="https://img.youtube.com/vi/HNNk31aGaYo/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/HNNk31aGaYo/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理解讀
@@ -931,7 +951,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>80. [2012-04-14] How to Stop Cravings for Sugar</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fGT5cISbXa4" target="_blank">
-    <img src="https://img.youtube.com/vi/fGT5cISbXa4/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/fGT5cISbXa4/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 全文要旨  
@@ -980,7 +1001,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>79. [2012-04-14] Reverse Sit-ups for Belly Fat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vjHYuEj43fg" target="_blank">
-    <img src="https://img.youtube.com/vi/vjHYuEj43fg/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/vjHYuEj43fg/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -1027,7 +1049,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>78. [2012-04-04] The Ultimate Exercise for Posture</summary><br>
 
 <a href="https://www.youtube.com/watch?v=LRxN-30oJx8" target="_blank">
-    <img src="https://img.youtube.com/vi/LRxN-30oJx8/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/LRxN-30oJx8/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：改善姿勢的方法
@@ -1083,7 +1106,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>77. [2012-04-04] The Best Weight Loss Meal Replacement Shake Ingredients</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8Ray80ec9mk" target="_blank">
-    <img src="https://img.youtube.com/vi/8Ray80ec9mk/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/8Ray80ec9mk/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -1133,7 +1157,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>76. [2012-04-04] Why am I Bloated?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=M9Isr1ON3lE" target="_blank">
-    <img src="https://img.youtube.com/vi/M9Isr1ON3lE/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/M9Isr1ON3lE/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：核心主題  
@@ -1195,7 +1220,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>75. [2012-04-04] Foods that Burn Fat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vadPxKRGm7k" target="_blank">
-    <img src="https://img.youtube.com/vi/vadPxKRGm7k/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/vadPxKRGm7k/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -1266,7 +1292,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>74. [2012-04-04] The Drink More Water Myth</summary><br>
 
 <a href="https://www.youtube.com/watch?v=MQsDeZNlk4c" target="_blank">
-    <img src="https://img.youtube.com/vi/MQsDeZNlk4c/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/MQsDeZNlk4c/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -1326,7 +1353,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>73. [2011-12-12] Successes from The 7 Principles of Fat Burning</summary><br>
 
 <a href="https://www.youtube.com/watch?v=WvO6N9vlmCo" target="_blank">
-    <img src="https://img.youtube.com/vi/WvO6N9vlmCo/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/WvO6N9vlmCo/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納：
@@ -1376,7 +1404,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>72. [2011-11-30] A Great Diet Success</summary><br>
 
 <a href="https://www.youtube.com/watch?v=p7KMpyQ7x9k" target="_blank">
-    <img src="https://img.youtube.com/vi/p7KMpyQ7x9k/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/p7KMpyQ7x9k/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 小節結構
@@ -1414,7 +1443,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>71. [2011-11-30] The Healthiest Diet Explained By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=eRjBkoFy9IA" target="_blank">
-    <img src="https://img.youtube.com/vi/eRjBkoFy9IA/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/eRjBkoFy9IA/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：健康與營養管理的重要性
@@ -1458,7 +1488,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>70. [2011-11-30] Get Rid of Cravings at Night</summary><br>
 
 <a href="https://www.youtube.com/watch?v=EsGvIsqGFpU" target="_blank">
-    <img src="https://img.youtube.com/vi/EsGvIsqGFpU/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/EsGvIsqGFpU/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 # 關於夜間渴望甜食的飲食建議
@@ -1495,7 +1526,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>69. [2011-11-29] The HCG Diet - Reviews</summary><br>
 
 <a href="https://www.youtube.com/watch?v=giPkBbm52CM" target="_blank">
-    <img src="https://img.youtube.com/vi/giPkBbm52CM/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/giPkBbm52CM/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 小節整理
@@ -1534,7 +1566,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>68. [2011-11-29] Improved Breathing, Better Sleep and More Energy</summary><br>
 
 <a href="https://www.youtube.com/watch?v=-LfNqA61-aU" target="_blank">
-    <img src="https://img.youtube.com/vi/-LfNqA61-aU/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/-LfNqA61-aU/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -1582,7 +1615,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>67. [2011-11-29] Overcoming Temptation and Help with Weight Loss!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=v-qINKfAm7U" target="_blank">
-    <img src="https://img.youtube.com/vi/v-qINKfAm7U/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/v-qINKfAm7U/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 # 文章重點整理
@@ -1641,7 +1675,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>66. [2011-11-29] How to Rid Stretch Marks</summary><br>
 
 <a href="https://www.youtube.com/watch?v=UUV7CRT8lbE" target="_blank">
-    <img src="https://img.youtube.com/vi/UUV7CRT8lbE/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/UUV7CRT8lbE/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 # 文章整理：消除妊娠紋的方法
@@ -1705,7 +1740,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>65. [2011-11-29] Diet Plan Success</summary><br>
 
 <a href="https://www.youtube.com/watch?v=gc4P7uhZCK8" target="_blank">
-    <img src="https://img.youtube.com/vi/gc4P7uhZCK8/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/gc4P7uhZCK8/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -1767,7 +1803,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>64. [2011-11-29] The 600 pound guy</summary><br>
 
 <a href="https://www.youtube.com/watch?v=k6-Tkv_Jnz0" target="_blank">
-    <img src="https://img.youtube.com/vi/k6-Tkv_Jnz0/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/k6-Tkv_Jnz0/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -1801,7 +1838,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>63. [2011-11-29] Dr. Berg's follow up to his shoulder fracture</summary><br>
 
 <a href="https://www.youtube.com/watch?v=x9espCyDUp8" target="_blank">
-    <img src="https://img.youtube.com/vi/x9espCyDUp8/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/x9espCyDUp8/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -1839,7 +1877,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>62. [2011-11-29] Dr. Berg Explains His Pain After Surgery</summary><br>
 
 <a href="https://www.youtube.com/watch?v=TTqsVzse5HY" target="_blank">
-    <img src="https://img.youtube.com/vi/TTqsVzse5HY/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/TTqsVzse5HY/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -1882,7 +1921,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>61. [2011-11-29] What are Phytonutrients?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=NqOpIj_XXFU" target="_blank">
-    <img src="https://img.youtube.com/vi/NqOpIj_XXFU/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/NqOpIj_XXFU/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -1939,7 +1979,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>60. Understanding Body Types</summary><br>
 
 <a href="https://www.youtube.com/watch?v=sINOePVcD3I" target="_blank">
-    <img src="https://img.youtube.com/vi/sINOePVcD3I/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/sINOePVcD3I/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -1949,7 +1990,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>59. [2011-11-29] What are Carbohydrates?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=krwKqnmidC8" target="_blank">
-    <img src="https://img.youtube.com/vi/krwKqnmidC8/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/krwKqnmidC8/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理： grains 的營養與健康影響
@@ -2003,7 +2045,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>58. [2011-11-29] How Sugar Effects Your Body</summary><br>
 
 <a href="https://www.youtube.com/watch?v=A7MsLHlDEDc" target="_blank">
-    <img src="https://img.youtube.com/vi/A7MsLHlDEDc/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/A7MsLHlDEDc/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理與歸納
@@ -2048,7 +2091,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>57. [2011-11-29] The Importance of Sleep and Weight Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=wr82y-dGoTg" target="_blank">
-    <img src="https://img.youtube.com/vi/wr82y-dGoTg/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/wr82y-dGoTg/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理
@@ -2102,7 +2146,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>56. [2011-11-29] Dr. Berg Discusses Liver Cleansing Food on News Channel 8 Sports Talk Dr. Eric Berg 2</summary><br>
 
 <a href="https://www.youtube.com/watch?v=FTZcZz1ESII" target="_blank">
-    <img src="https://img.youtube.com/vi/FTZcZz1ESII/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/FTZcZz1ESII/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：健康飲食與體重管理的核心要素
@@ -2176,7 +2221,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>55. [2011-11-29] A Better Way to Track Weight Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=W_EHiOd8yHQ" target="_blank">
-    <img src="https://img.youtube.com/vi/W_EHiOd8yHQ/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/W_EHiOd8yHQ/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -2216,7 +2262,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>54. [2011-11-29] Dr. Eric Berg, Gets Success with Weight Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HhLJz1-SAhw" target="_blank">
-    <img src="https://img.youtube.com/vi/HhLJz1-SAhw/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/HhLJz1-SAhw/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -2249,7 +2296,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>53. [2011-11-29] Dr  Eric Berg, Seminar testimonial</summary><br>
 
 <a href="https://www.youtube.com/watch?v=0rh0qiyPxdY" target="_blank">
-    <img src="https://img.youtube.com/vi/0rh0qiyPxdY/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/0rh0qiyPxdY/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -2285,7 +2333,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>52. [2011-11-29] Dr. Eric Berg, Seminar Success with Losing Weight</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fCHw_dW7oH4" target="_blank">
-    <img src="https://img.youtube.com/vi/fCHw_dW7oH4/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/fCHw_dW7oH4/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -2316,7 +2365,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>51. [2011-11-29] Dr  Eric Berg, Seminar testimonial</summary><br>
 
 <a href="https://www.youtube.com/watch?v=lZnVLG-nLTE" target="_blank">
-    <img src="https://img.youtube.com/vi/lZnVLG-nLTE/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/lZnVLG-nLTE/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -2343,7 +2393,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>50. [2011-11-29] A Great Weight Loss Success</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_jV90HZceus" target="_blank">
-    <img src="https://img.youtube.com/vi/_jV90HZceus/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/_jV90HZceus/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -2380,7 +2431,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>49. [2011-11-29] Register for Dr. Berg's Seminar</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8SixpXSS6Bw" target="_blank">
-    <img src="https://img.youtube.com/vi/8SixpXSS6Bw/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/8SixpXSS6Bw/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -2426,7 +2478,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>48. [2011-11-29] Dr  Eric Berg, Seminar testimonial</summary><br>
 
 <a href="https://www.youtube.com/watch?v=rOd4QNwDTv4" target="_blank">
-    <img src="https://img.youtube.com/vi/rOd4QNwDTv4/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/rOd4QNwDTv4/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 小節整理
@@ -2452,7 +2505,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>47. [2011-11-29] Dr Berg's Patient Speak About Their Success</summary><br>
 
 <a href="https://www.youtube.com/watch?v=YF00ySD6nKE" target="_blank">
-    <img src="https://img.youtube.com/vi/YF00ySD6nKE/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/YF00ySD6nKE/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -2492,7 +2546,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>46. [2011-11-27] Using Acupressure for Headaches</summary><br>
 
 <a href="https://www.youtube.com/watch?v=919B_Ey0fuU" target="_blank">
-    <img src="https://img.youtube.com/vi/919B_Ey0fuU/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/919B_Ey0fuU/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -2543,7 +2598,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>45. [2011-11-27] Stretches for Back Pain</summary><br>
 
 <a href="https://www.youtube.com/watch?v=SuRyHA2wQc8" target="_blank">
-    <img src="https://img.youtube.com/vi/SuRyHA2wQc8/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/SuRyHA2wQc8/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 小節：低背部伸展的重要性
@@ -2583,7 +2639,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>44. [2011-11-27] Interesting Success Story</summary><br>
 
 <a href="https://www.youtube.com/watch?v=FckvKNAi44U" target="_blank">
-    <img src="https://img.youtube.com/vi/FckvKNAi44U/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/FckvKNAi44U/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -2618,7 +2675,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>43. [2011-11-27] Anxiety Relief Success</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Sggj4HgaoO0" target="_blank">
-    <img src="https://img.youtube.com/vi/Sggj4HgaoO0/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/Sggj4HgaoO0/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -2654,7 +2712,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>42. [2011-11-27] The Best and Worst Weight Loss Diets</summary><br>
 
 <a href="https://www.youtube.com/watch?v=yhxWd2jveT8" target="_blank">
-    <img src="https://img.youtube.com/vi/yhxWd2jveT8/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/yhxWd2jveT8/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 小節化整理
@@ -2704,7 +2763,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>41. [2011-11-27] 90 Year Old - Amazing Story</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ZBpNtVSmTN4" target="_blank">
-    <img src="https://img.youtube.com/vi/ZBpNtVSmTN4/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/ZBpNtVSmTN4/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 小節一：核心主題  
@@ -2759,7 +2819,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>40. [2011-11-27] Dr. Eric Berg, Seminar testimonial</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hzYhdetIiHg" target="_blank">
-    <img src="https://img.youtube.com/vi/hzYhdetIiHg/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/hzYhdetIiHg/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -2787,7 +2848,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>39. Dr. Berg on Sport's Talk</summary><br>
 
 <a href="https://www.youtube.com/watch?v=s3HfT4yI76A" target="_blank">
-    <img src="https://img.youtube.com/vi/s3HfT4yI76A/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/s3HfT4yI76A/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -2797,7 +2859,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>38. [2011-11-27] The Hidden Source Belly Fat: MSG Monosodium Glutamate</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KkBWi3G9qM0" target="_blank">
-    <img src="https://img.youtube.com/vi/KkBWi3G9qM0/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/KkBWi3G9qM0/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -2842,7 +2905,8 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>37. [2011-11-27] Dr. Berg Grows Kale in His Basement (Part 2)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8JJm4HRq8Oo" target="_blank">
-    <img src="https://img.youtube.com/vi/8JJm4HRq8Oo/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/8JJm4HRq8Oo/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：水耕法及其營養價值探討與健康飲品介紹
@@ -2911,7 +2975,8 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>36. [2011-11-27] Dr. Berg Grows Cruciferous Vegetables in his Basement (Part 1)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=qKSlhns1xmg" target="_blank">
-    <img src="https://img.youtube.com/vi/qKSlhns1xmg/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/qKSlhns1xmg/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -2960,7 +3025,8 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>35. [2011-06-07] The Best Fat Burning Exercise</summary><br>
 
 <a href="https://www.youtube.com/watch?v=E_AvZcJ9IV4" target="_blank">
-    <img src="https://img.youtube.com/vi/E_AvZcJ9IV4/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/E_AvZcJ9IV4/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -3005,7 +3071,8 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>34. [2011-01-06] Dr. Berg's Body Types</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HS0Bm5oB8YI" target="_blank">
-    <img src="https://img.youtube.com/vi/HS0Bm5oB8YI/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/HS0Bm5oB8YI/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -3071,7 +3138,8 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>33. [2010-11-05] Dr Eric Berg's Review: After 2 Adrenal Acupressure Treatments</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5Q6g9e1O35s" target="_blank">
-    <img src="https://img.youtube.com/vi/5Q6g9e1O35s/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/5Q6g9e1O35s/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理與分析
@@ -3139,7 +3207,8 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>32. [2010-10-13] Get Rid of Cravings at Night</summary><br>
 
 <a href="https://www.youtube.com/watch?v=pbuCC33gKck" target="_blank">
-    <img src="https://img.youtube.com/vi/pbuCC33gKck/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/pbuCC33gKck/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -3199,7 +3268,8 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>31. [2010-10-13] Adrenal Burnout</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hGiN_a0rYJY" target="_blank">
-    <img src="https://img.youtube.com/vi/hGiN_a0rYJY/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/hGiN_a0rYJY/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -3244,7 +3314,8 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>30. [2010-08-10] The Best Tip for Reducing Stress Hormones</summary><br>
 
 <a href="https://www.youtube.com/watch?v=TNUaDYqt0uA" target="_blank">
-    <img src="https://img.youtube.com/vi/TNUaDYqt0uA/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/TNUaDYqt0uA/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -3277,7 +3348,8 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>29. [2010-08-10] Cortisol, The Good, The Bad & The Ugly</summary><br>
 
 <a href="https://www.youtube.com/watch?v=yQ9jy2eCb5I" target="_blank">
-    <img src="https://img.youtube.com/vi/yQ9jy2eCb5I/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/yQ9jy2eCb5I/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -3337,7 +3409,8 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>28. [2010-08-10] Thyroid Body Type - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=T3eo4p2LuYw" target="_blank">
-    <img src="https://img.youtube.com/vi/T3eo4p2LuYw/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/T3eo4p2LuYw/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 小節整理
@@ -3384,7 +3457,8 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>27. [2010-08-10] Sleep, Cortisol, & Belly Fat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3GWnU_lma7w" target="_blank">
-    <img src="https://img.youtube.com/vi/3GWnU_lma7w/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/3GWnU_lma7w/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 英文版文章標題  
@@ -3451,7 +3525,8 @@ Dr. Berg
 <summary>26. [2010-08-10] How to Trigger Your Fat Burning Hormones</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Gr5QxkSm9xs" target="_blank">
-    <img src="https://img.youtube.com/vi/Gr5QxkSm9xs/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/Gr5QxkSm9xs/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：生長激素與arginine的作用及影響
@@ -3482,7 +3557,8 @@ Dr. Berg
 <summary>25. [2010-08-10] Vitamin D Adrenals Belly Fat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kJegLw2qtPc" target="_blank">
-    <img src="https://img.youtube.com/vi/kJegLw2qtPc/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/kJegLw2qtPc/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 小節一：核心主題  
@@ -3524,7 +3600,8 @@ Dr. Berg
 <summary>24. [2010-08-05] Dr. Berg Talks about Body Types on News 9</summary><br>
 
 <a href="https://www.youtube.com/watch?v=bNnmCqGMy8Q" target="_blank">
-    <img src="https://img.youtube.com/vi/bNnmCqGMy8Q/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/bNnmCqGMy8Q/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理與分析
@@ -3574,7 +3651,8 @@ Dr. Berg
 <summary>23. [2010-08-05] How to Burn Fat I Dr. Berg on Fox and Friends I Talks About Body Types</summary><br>
 
 <a href="https://www.youtube.com/watch?v=M25xpZk5WtU" target="_blank">
-    <img src="https://img.youtube.com/vi/M25xpZk5WtU/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/M25xpZk5WtU/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -3629,7 +3707,8 @@ Dr. Berg
 <summary>22. [2010-07-20] Success Story with Belly Fat Loss - Lost over 100 lbs</summary><br>
 
 <a href="https://www.youtube.com/watch?v=rC7cXuNlyR4" target="_blank">
-    <img src="https://img.youtube.com/vi/rC7cXuNlyR4/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/rC7cXuNlyR4/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心_theme  
@@ -3664,7 +3743,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>21. [2010-07-13] Fast Healthy Weight Loss - Patients Speak Their Success!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=G3AFxauJeok" target="_blank">
-    <img src="https://img.youtube.com/vi/G3AFxauJeok/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/G3AFxauJeok/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 小結整理
@@ -3706,7 +3786,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>20. [2010-06-24] Rid Craving</summary><br>
 
 <a href="https://www.youtube.com/watch?v=E7yVINKxiew" target="_blank">
-    <img src="https://img.youtube.com/vi/E7yVINKxiew/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/E7yVINKxiew/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：抗碳水化合物 cravings 的飲食計劃
@@ -3767,7 +3848,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>19. [2010-04-24] Body Type Video</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Lk1RlIHx7F0" target="_blank">
-    <img src="https://img.youtube.com/vi/Lk1RlIHx7F0/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/Lk1RlIHx7F0/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -3817,7 +3899,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>18. [2009-07-30] Dr. Eric Berg's Review: Patient Speak About Her Success</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Fjqtjq4WRNg" target="_blank">
-    <img src="https://img.youtube.com/vi/Fjqtjq4WRNg/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/Fjqtjq4WRNg/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -3867,7 +3950,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>17. [2009-07-30] Dr Eric Berg's Review: No More Problems with Sleeping</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_xR5rYmSvc0" target="_blank">
-    <img src="https://img.youtube.com/vi/_xR5rYmSvc0/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/_xR5rYmSvc0/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -3957,7 +4041,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>16. [2009-07-30] Dr. Berg's Example of Acupressure for Weight Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XefowjsRkDo" target="_blank">
-    <img src="https://img.youtube.com/vi/XefowjsRkDo/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/XefowjsRkDo/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -3989,7 +4074,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>15. [2009-07-28] Dr. Eric Berg Review: Gaining Weight after Smoking</summary><br>
 
 <a href="https://www.youtube.com/watch?v=mLk7prs2IdM" target="_blank">
-    <img src="https://img.youtube.com/vi/mLk7prs2IdM/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/mLk7prs2IdM/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -4036,7 +4122,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>14. Dr. Berg in the Media</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hvYEFh3em3Q" target="_blank">
-    <img src="https://img.youtube.com/vi/hvYEFh3em3Q/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/hvYEFh3em3Q/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -4046,7 +4133,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>13. [2009-04-04] Dr. Berg Speaks at the Federal Communication Commission</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_kuQPktErD4" target="_blank">
-    <img src="https://img.youtube.com/vi/_kuQPktErD4/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/_kuQPktErD4/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -4114,7 +4202,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>12. [2009-04-01] Body Shape Seminar (Part 3)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=IquS1CMFYDA" target="_blank">
-    <img src="https://img.youtube.com/vi/IquS1CMFYDA/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/IquS1CMFYDA/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：健康與減肥之道
@@ -4181,7 +4270,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>11. [2009-04-01] Body Shape Seminar (Part 2)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=LqYD6ScfV5Y" target="_blank">
-    <img src="https://img.youtube.com/vi/LqYD6ScfV5Y/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/LqYD6ScfV5Y/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ---
@@ -4245,7 +4335,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>10. [2009-04-01] Body Shape Seminar (Part 1)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=08KUhaJrejs" target="_blank">
-    <img src="https://img.youtube.com/vi/08KUhaJrejs/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/08KUhaJrejs/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -4304,7 +4395,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>9. [2009-03-31] Dr.Eric Berg @ News Channel 8 (Behind The Scenes)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=49TxVYeq4m4" target="_blank">
-    <img src="https://img.youtube.com/vi/49TxVYeq4m4/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/49TxVYeq4m4/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -4351,7 +4443,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>8. [2009-03-21] Dr. Berg Talks about Healthy Weight Loss on News Channel 8</summary><br>
 
 <a href="https://www.youtube.com/watch?v=z_pRjz-0X7o" target="_blank">
-    <img src="https://img.youtube.com/vi/z_pRjz-0X7o/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/z_pRjz-0X7o/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理與結構化分析
@@ -4393,7 +4486,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>7. Dr. Berg has an Albino Deer in His Backyard</summary><br>
 
 <a href="https://www.youtube.com/watch?v=H-trFS60Ku4" target="_blank">
-    <img src="https://img.youtube.com/vi/H-trFS60Ku4/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/H-trFS60Ku4/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 
@@ -4403,7 +4497,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>6. [2009-02-19] Understanding the Best Nutrients for Weight Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=nTOrG4w660c" target="_blank">
-    <img src="https://img.youtube.com/vi/nTOrG4w660c/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/nTOrG4w660c/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 小節整理：脂肪的功能與健康哲學
@@ -4441,7 +4536,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>5. [2009-02-19] Vitamins and Nutrients for Weight Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=McGFltMvSIo" target="_blank">
-    <img src="https://img.youtube.com/vi/McGFltMvSIo/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/McGFltMvSIo/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -4492,7 +4588,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>4. [2009-02-17] Adrenal, Stress and Your Sleep</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Q5wN32_3m4o" target="_blank">
-    <img src="https://img.youtube.com/vi/Q5wN32_3m4o/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/Q5wN32_3m4o/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -4554,7 +4651,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>3. [2009-02-17] Exercise</summary><br>
 
 <a href="https://www.youtube.com/watch?v=lgyf5KoRfzE" target="_blank">
-    <img src="https://img.youtube.com/vi/lgyf5KoRfzE/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/lgyf5KoRfzE/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理與分析
@@ -4623,7 +4721,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>2. [2009-02-17] Body Types</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XO-iyh2Z_s8" target="_blank">
-    <img src="https://img.youtube.com/vi/XO-iyh2Z_s8/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/XO-iyh2Z_s8/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 一、核心主題：身體類型分類与健康关联
@@ -4683,7 +4782,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>1. [2008-12-19] Dr. Berg Works on Duane Clemons, Former NFL Player</summary><br>
 
 <a href="https://www.youtube.com/watch?v=LE8iCYYoXh4" target="_blank">
-    <img src="https://img.youtube.com/vi/LE8iCYYoXh4/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/LE8iCYYoXh4/maxresdefault.jpg" 
+        _target="blank" alt="[Youtube]" width="200">
 </a>
 
 ### 小節整理：文章重點歸納
