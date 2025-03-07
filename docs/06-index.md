@@ -230,113 +230,525 @@
 </details>
 
 <details>
-<summary>679. How to Get Rid of Trigger Finger Pain – Dr. Berg</summary><br>
+<summary>679. [2017-02-13] How to Get Rid of Trigger Finger Pain – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3VdaGyHHrXw" target="_blank">
     <img src="https://img.youtube.com/vi/3VdaGyHHrXw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：觸發點與相反側按壓技術在慢性疼痛管理中的應用
 
+#### 核心主題
+- 探讨触發點（trigger points）与相反側按压技術在慢性疼痛管理中的作用及其療效。
+
+#### 主要觀念
+1. **觸發點的定義**：指肌肉或結締組織中高度敏感的小區域，可引發局部或遠端的疼痛反應。
+2. **相反側按压技術**：通過按壓與痛楚部位相對的另一側來缓解疼痛，基於「交叉抑制」原理。
+3. **適用症狀**：
+   - 骨骼肌肉系統相關疾病（如肩頸痠痛、背部僵硬）。
+   - 神經性疼痛。
+   - 經絡相關疼痛。
+
+#### 問題原因
+1. **慢性疼痛的病因**：多數情況與肌肉緊張、神經敏感性增加或微小損傷有關。
+2. **傳統治療的局限性**：
+   - 藥物治療（如類固醇注射）可能僅提供短期緩解，並伴隨副作用。
+   - 手術干預常涉及較高風險與恢復期。
+
+#### 解決方法
+1. **觸發點按壓法**：
+   - 確定觸發點位置：通過患者反饋和臨床檢查精確定位。
+   - 施加適當壓力：逐步增加力度，邊按壓邊觀察患者的疼痛反應。
+2. **相反側按压技術**：
+   - 按壓與痛楚部位相對的另一側，以分散神經敏感性。
+   - 測試並評估患者在不同按壓位置下的疼痛變化。
+
+#### 健康建議
+1. **患者的自我管理**：
+   - 學習基礎的按壓技術，在日常生活中進行輕柔按摩。
+   - 維持規律運動，避免長時間姿勢不當。
+2. **專業治療的重要性**：
+   - 定期接受物理治療或相關專業干預。
+   - 與醫生溝通，評估是否需要結合其他治療方式（如超聲波治療、電療等）。
+
+#### 研究局限性
+1. 需進一步研究按壓技術的長效療效及其作用機制。
+2. 不同患者對此技術的反應可能存在個體差異，需針對性調整方案。
+
+#### 總結
+- 觸發點與相反側按压技術提供了一種非侵入性的替代治療方法，可有效緩解慢性疼痛症狀。
+- 此方法尤其適用於不想依賴藥物或手術的患者群體。
+- 未來研究應進一步探讨此技術的客觀療效評估及長期效果。
 </details>
 
 <details>
-<summary>678. Iron Deficiency – Functions, Symptoms, & Causes Explained By Dr. Berg</summary><br>
+<summary>678. [2017-02-12] Iron Deficiency – Functions, Symptoms, & Causes Explained By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=yD3bW2z-yNw" target="_blank">
     <img src="https://img.youtube.com/vi/yD3bW2z-yNw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理：鐵缺乏症的知識與建議
 
+#### 1. 核心主題
+- 鐵元素在人體中的重要作用。
+- 鐵缺乏症的常見性及其潛在影響。
+
+#### 2. 主要觀念
+- **生理作用**：
+  - 參與氧氣運輸，通過血液將氧氣傳送至全身。
+  - 維持能量生產，支持代謝活動。
+  - 與DNA合成相關，促進細胞生長。
+  - 支持免疫系統功能，特別是T細胞的生成。
+
+- **症狀**：
+  - 持續性疲勞與乏力。
+  - 心跳加速、呼吸急促（尤其在爬坡或運動時）。
+  - 肝臟儲存鐵過多導致毒性。
+  - 注意力不集中、記憶力減退。
+  - 腳部抽筋（ restless legs syndrome）。
+  - 慢性病灶引起的貧血。
+
+#### 3. 問題原因
+- **吸收障礙**：
+  - 經絡或癱瘓症等消化系統疾病影響鐵的吸收。
+  - 胃酸不足導致食物中铁的生物利用率降低。
+  - 長期炎症反應干擾鐵的吸收。
+
+- **營養攝取不足**：
+  - 偏食或飲食結構單一，特別是素食者若未攝入足夠的植物性鐵源。
+  
+- **其他因素**：
+  - 精緻谷物攝取過多可能增加鐵缺乏風險。
+  - 飛燕酸（phytic acid）在未發芽的豆類、穀物、堅果和種子中干擾鐵吸收。
+
+#### 4. 解決方法
+- **飲食調整**：
+  - 增加富含鐵的食物攝取，如瘦肉、家禽、魚類、豆類和深色蔬菜。
+  - 确保攝取足夠的维生素A、C、銅和鋅以促進铁吸收。
+
+- **吸收優化**：
+  - 避免與抑制劑（如鈣質）同時攝取，建議分開服用鐵補充劑和含鈣產品。
+  - 通過發芽法處理豆類、穀物等富含飛燕酸的食物以降低其干擾作用。
+
+- **健康管理**：
+  - 對于有遺傳性高鐵血症患者，限制未發芽食物的攝取並增加 calcium 的攝入。
+
+#### 5. 健康建議
+- 鐵補充劑首選非氧化態（如 ferrous sulfate），但需避免與鈣同服。
+- 素食者應多樣化飲食，確保足夠鐵攝取，必要時可考慮補充劑。
+- 注意觀察是否有持續性疲勞或其他症狀，及時進行血液檢查。
+
+#### 6. 结論
+- 鐵是人體必需的微量元素，影響多個重要生理功能。
+- 鐵缺乏症常與飲食結構、吸收障礙或潛在疾病相關。
+- 經過合理的飲食調整和必要的補充措施，可以有效預防和改善鐵缺乏問題。
 </details>
 
 <details>
-<summary>677. Normal A1C But Why Do I have Insulin Resistance? – Dr. Berg</summary><br>
+<summary>677. [2017-02-11] Normal A1C But Why Do I have Insulin Resistance? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=9dOK9fR9hDU" target="_blank">
     <img src="https://img.youtube.com/vi/9dOK9fR9hDU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Core Theme (核心主題)
+- **Insulin Resistance and Its Progression to Type 2 Diabetes**  
+  胰島素抵抗及其進展為第二型糖尿病。
 
+---
+
+### Key Concepts (主要觀念)
+1. **Definition of Insulin Resistance**:  
+   - Insulin resistance is a pre-diabetic state where insulin becomes less effective, leading the body to produce more insulin.  
+     胰島素抵抗是一種前期糖尿癮症，其中胰島素的效果降低，導致身體分泌更多胰島素。
+
+2. **A1C Test**:  
+   - The A1C test measures average blood sugar levels over three months and is used to diagnose diabetes.  
+     A1C測試用於診斷糖尿病，衡量過去三個月的平均血糖水平。
+
+3. **Development Timeline of Diabetes**:  
+   - It typically takes 10 years for insulin resistance to progress to type 2 diabetes, though this can vary.  
+     胰島素抵抗進展為第二型糖尿病通常需要10年時間，但具體情況因人而異。
+
+4. **Insulin Resistance vs. Type 2 Diabetes**:  
+   - Insulin resistance is a pre-diabetic state, while type 2 diabetes represents an official diagnosis with significant blood sugar issues.  
+     胰島素抵抗是前期糖尿癮症，而第二型糖尿病則是一種正式的診斷，伴隨著明顯的血糖問題。
+
+---
+
+### Causes of the Issue (問題原因)
+- **Inadequate Blood Sugar Testing**:  
+  - A single blood sugar test or even a standard A1C test may not detect subclinical insulin resistance early enough.  
+    單次血糖測試或常規A1C測試可能無法及時發現潛伏期的胰島素抵抗。
+
+---
+
+### Solutions and Health Recommendations (解決方法與健康建議)
+1. **Fasting Insulin Test**:  
+   - Conduct a fasting insulin test to detect insulin resistance earlier than the A1C test.  
+     進行空腹胰島素測試，以便更早發現胰島素抵抗。
+
+2. **Lifestyle Modifications**:  
+   - Adopt lifestyle changes such as a balanced diet, regular exercise, and stress management to improve insulin sensitivity.  
+     通過均衡飲食、規律運動和壓力管理來提高胰島素敏感性。
+
+3. **Monitoring Progression**:  
+   - Regularly monitor blood sugar levels and insulin resistance to prevent the progression to type 2 diabetes.  
+     定期監測血糖水平和胰島素抵抗，以防止病情進展為第二型糖尿病。
+
+---
+
+### Conclusion (結論)
+- Early detection of insulin resistance through appropriate testing is crucial for preventing the development of type 2 diabetes. By implementing lifestyle changes and regular monitoring, individuals can manage or reverse insulin resistance effectively.  
+  適當的測試方法及早發現胰島素抵抗對於防止第二型糖尿病的發生至關重要。通過實施生活習慣的改變和定期監測，個人可以有效地管理和扭轉胰島素抵抗。
+
+---
+
+### Summary in Chinese (中文總結)
+本文探討了胰島素抵抗及其向第二型糖尿病的進展，強調了早期檢測的重要性，並提出了通過 fasting insulin test 進行評估。文章還建議採取健康的生活方式，以改善胰島素敏感性，防止病情進一步惡化。
+
+---
+
+此整理結構清晰地分納了原文的核心主題、主要觀念、問題原因、解決方法和結論，旨在提供客觀且正式的學術總結。
 </details>
 
 <details>
-<summary>676. What Boosts More Growth Hormone? | Dr. Berg</summary><br>
+<summary>676. [2017-02-10] What Boosts More Growth Hormone? | Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fevi1lmDPEU" target="_blank">
     <img src="https://img.youtube.com/vi/fevi1lmDPEU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 生長激素（Growth Hormone, GH）在.Fat Burning、體脂降低、肌肉質量維持和抗衰老中的重要作用。
+- 比較間歇性禁食與高強度間歇訓練對生長激素分泌的影響。
 
+### 主要觀念
+1. 生長激素是主要的脂肪燃燒 hormone，能促進新陳代謝、降低體脂並保護肌肉质量。
+2. 生長激素具有抗衰老作用，有助於延緩身體老化。
+3. 間歇性禁食可使生長激素分泌增加 2,000%。
+4. 高強度間歇訓練（HIIT）能使生長激素分泌增加 450% 到 700%，但主要研究對象為男性，女性的效果可能存在差異。
+
+### 問題原因
+1. 研究主要針對男性，可能未能完全反映女性的效果。
+2. 高強度間歇訓練的研究主要基於短跑，其效果在其他運動項目上可能有所不同。
+
+### 解決方法
+- 採用間歇性禁食來提高生長激素水平。
+- 減少零食攝取，增加每餐的營養密度。
+- 逐步實施間歇性禁食，避免立即進行過度限制飲食。
+
+### 健康建議
+1. 每日進食次數控制在2到3餐之間，避免持續攝食。
+2. 選擇高營養密度的食物，增加每餐的飽足感。
+3. 減少肌肉流失，生長激素分泌增加可幫助維持肌肉質量。
+
+### 結論
+- 間歇性禁食在提高生長激素水平方面效果顯著，勝過高強度間歇訓練。
+- 生長激素增益對於脂肪燃燒、體脂降低和抗衰老具有重要意義。
+- 用戶應根據自身情況調整飲食結構，逐步實施間歇性禁食。
 </details>
 
 <details>
-<summary>675. What's Worse than Sugar? – Dr. Berg</summary><br>
+<summary>675. [2017-02-09] What's Worse than Sugar? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=FJC68HbhlYU" target="_blank">
     <img src="https://img.youtube.com/vi/FJC68HbhlYU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 1. 核心主題  
+- 探讨糖分与蛋白质共同摄入对健康的影响，特别是其对胰岛素水平的潜在负面影响。
 
+### 2. 主要觀念  
+- 同时摄入糖分和蛋白质会导致胰岛素水平升高（具体为200%）。
+- 常见于餐厅食物中的组合，如甜味烧烤 ribs、中餐加糖、热狗配面包、汉堡配面包、番茄酱、饮料及甜点。
+
+### 3. 問題原因  
+- 糖分和蛋白质的协同作用显著提升胰岛素分泌。
+- 餐厅和加工食品中常见将糖分与蛋白质结合使用，增加消费者的摄入风险。
+
+### 4. 解決方法  
+- 分开食用含糖食物和高蛋白食物，避免在同一餐中同时摄入两者。
+- 减少在外用餐时选择含有大量糖分的加工食品。
+
+### 5. 健康建議  
+- 如果需要同时摄入糖分和蛋白质，尽量控制份量并保持均衡饮食。
+- 增加对食品标签的关注，了解隐藏的糖分和蛋白质含量。
+
+### 6. 結論  
+- 合理规划饮食结构，避免糖分与蛋白质在同一餐中混合食用，以降低胰岛素水平的异常升高风险。
 </details>
 
 <details>
-<summary>674. Best Sources of Calcium Explained by Dr.Berg</summary><br>
+<summary>674. [2017-02-08] Best Sources of Calcium Explained by Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ScXWNQdNBOM" target="_blank">
     <img src="https://img.youtube.com/vi/ScXWNQdNBOM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：最佳 calcium 来源及其健康影響
 
+ calcium 是維持骨骼健康的重要礦物質，最佳來源應優先考慮食物而非補充劑。文章強調了 cheese、sesame seeds、tahini 等食物作為 calcium 的良好來源，同時討論了酸性不足和缺乏 vitamin D 和 vitamin K2 對 calcium 吸收的影響。
+
+### 主要觀念：
+
+1. **食物來源的重要性**：
+   - calcium 最佳來源為食物，而非補充劑。
+   - 牛奶和酸奶通常_pasteurized_，可能含有糖分，cheese 是較好的選擇。
+   - 其他良好來源包括 sesame seeds、tahini、 kale、broccoli 和 salmon。
+
+2. **酸性不足的影響**：
+   - 酸性不足（如 acid reflux 或使用抗酸藥）會影響 calcium 的吸收。
+
+3. **vitamin D 的作用**：
+   - vitamin D 必要於 calcium 的.transport 和吸收。缺乏 vitamin D 可導致吸收障礙。
+
+4. **vitamin K2 的作用**：
+   - vitamin K2 負責調控 calcium 在骨骼和軟組織中的分布，缺乏可導致 calcium 在軟组织中沉積，引發健康問題。
+
+### 問題原因：
+
+- 酸性不足：如 acid reflux 或使用抗酸藥。
+- 維生素 deficiency：
+  - vitamin D deficiency 可降低 calcium 吸收效率。
+  - vitamin K2 deficiency 會影響 calcium 的正常分布和利用。
+
+### 解決方法：
+
+1. **飲食調整**：
+   - 選擇高 calcium 的食物來源，如 cheese、sesame seeds、tahini、 kale、broccoli 和 salmon。
+
+2. **維生素補充**：
+   - 確保充足的 vitamin D 來源，可通過日曬或食物（如 fatty fish, egg yolks）。
+   - 补充 vitamin K2，尤其是對於那些飲食中缺乏此物質的人群。
+
+3. **改善胃酸狀況**：
+   - 調整飲食習慣，避免過度使用抗酸藥，必要時可諮詢醫生調整用藥。
+
+### 健康建議：
+
+- 選擇高 calcium 且 bioavailable 的食物來源。
+- 確保足夠的 vitamin D 和 vitamin K2 取，以促進 calcium 的有效吸收和利用。
+- 注意飲食中避免過度_pasteurized_乳制品和高糖酸奶。
+
+### 结論：
+
+ calcium 的充足攝取對於骨骼健康至關重要。食物來源為最佳選擇，並應配合充足的 vitamin D 和 vitamin K2 來確保其有效吸收和利用。同時，注意胃酸的平衡以避免吸收障礙。
 </details>
 
 <details>
-<summary>673. The Best Stretching Exercise for Scoliosis – Treatment by Dr.Berg</summary><br>
+<summary>673. [2017-02-07] The Best Stretching Exercise for Scoliosis – Treatment by Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=jxuvbZluAPk" target="_blank">
     <img src="https://img.youtube.com/vi/jxuvbZluAPk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- **脊柱側彎（Scoliosis）**：一種脊椎Curvature的病症。
+- **矯治方法**：介紹了一種針對脊柱側彎的特殊伸展姿勢。
+
+#### 主要觀念
+1. 脊柱側彎通常呈現C型曲線，可能出現在上背部和下背部。
+2. 矫正時不能直接拉直脊椎，而應該朝向Curve的Concavity方向伸展。
+3. 通過按壓或 Foam Roller 偏向Curve的Concavity，可以傳送神經訊號，放鬆緊張的肌肉。
+
+#### 問題原因
+- 脊柱側彎患者常有背部肌肉緊張和持續痙攣。
+- 直接拉伸Curve凸出的一側不能有效紓解症狀。
+
+#### 解決方法
+1. **按壓法**：
+   - 使用拇指或其他工具按壓脊椎Concavity部位，傳送神經訊號以放鬆肌肉。
+2. ** Foam Roller 伸展法**：
+   - 將Foam Roller放置於Curve的Concavity一側，躺下並 exaggerate 背部曲線。
+3. **早期干預**：
+   - 對兒童和青少年而言，及時矯治可以有效減輕甚至逆轉脊柱側彎。
+
+#### 健康建議
+1. 定期檢查：通過X光或視覺觀察確認脊椎曲線方向。
+2. 經驗分享：此方法在成年人中可提供症狀緩解，兒童效果更佳。
+3. 減輕痙攣：主要針對背部肌肉緊張和痙攣進行放鬆。
+
+#### 結論
+- 這種伸展方法雖然不能完全矯正脊柱側彎，但能有效減輕症狀並提高患者舒適度。
+- 對於早期發現的病例，有可能實現結構上的改善甚至逆轉。
 </details>
 
 <details>
-<summary>672. The "Alkalize Your Body and Fight Disease" MYTH! – Dr.Berg</summary><br>
+<summary>672. [2017-02-06] The "Alkalize Your Body and Fight Disease" MYTH! – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hL20rKw8FME" target="_blank">
     <img src="https://img.youtube.com/vi/hL20rKw8FME/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+**The Alkaline Cancer Protection Myth**  
 
+Dr. Berg在影片中探討了「酸性環境導致癌症」及「攝取高鹼性食物可防癌」的流言，並質疑其科學 basis。他強調此理論缺乏實證支持，且對身體各部位pH值的控制存在 misconception。
+
+---
+
+### 主要觀念  
+1. **人體不同部位的pH值**  
+   - 身體各部位（如胃、大腸、唾液、尿液、血液）的pH值有其特定範圍，並非全體可通過飲食調整至同一水平。  
+2. **癌症與pH值的關係**  
+   - 肿瘤可能在酸性環境中生長較快，但這是癌症本身導致的酸性環境，而非酸性環境引發癌症。  
+3. **高鹼性食物的真正作用**  
+   - 高 alkaline foods（如十字花科蔬菜）具備抗癌特性，主要是因為其抑制angiogenesis（血管新生），而非其pH值特性。  
+
+---
+
+### 問題原因  
+1. **對人體 pH 調控的误解**  
+   - 相信飲食能大幅影響全身pH值，忽略了身體各系統已有精密的調節機制（如血液 pH 絶對穩定在7.35-7.45）。  
+2. **因果關係混淆**  
+   - 誤將腫瘤導致的酸性環境與酸性環境導致腫瘤混為一談。  
+
+---
+
+### 解決方法  
+1. **科學飲食建議**  
+   - 摂取高營養價值的食物，尤其是十字花科蔬菜（如西兰花、捲心菜），因其含有抑制angiogenesis的成分。  
+2. **棄信 pseudoscience**  
+   - 請勿相信未經證實的飲食療法，應依賴科學研究和醫學建議。  
+
+---
+
+### 健康建議  
+1. **均衡飲食**  
+   - 多攝取蔬菜、水果等高營養食物，避免過度依賴某一種類或特定特性（如鹼性）。  
+2. **定期檢查**  
+   - 定期進行健康檢查，早期發現癌癥跡象。  
+3. **諮詢專業醫生**  
+   - 若有疑慮，應諮詢專業醫師，而非輕信網上流言。  
+
+---
+
+### 結論  
+Dr. Berg指出，「 alkaline diet防癌」的理論缺乏 scientific evidence，且人體pH值並非飲食能隨意調控。抗癌關鍵在於攝取具備抑制腫瘤生長成分的食物，而非盲目追求高鹼性飲食。此影片提醒大眾需以科學為基砲，避免被 pseudoscience誤導。
 </details>
 
 <details>
-<summary>671. What Urine Color Indicates About Your Body – Dr.Berg</summary><br>
+<summary>671. [2017-02-05] What Urine Color Indicates About Your Body – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=rIWb2vlUNaM" target="_blank">
     <img src="https://img.youtube.com/vi/rIWb2vlUNaM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 文章整理與分析
 
+## 核心主題
+- 尿液顏色及其健康意義  
+- 生活方式對尿液成分的影響  
+
+## 主要觀念
+1. **尿液顏色的正常範圍**  
+   - 正常尿液呈透明的淡黃色，若過於清澈或過於深色皆可能代表健康問題。
+2. **不同顏色的警示意義**  
+   - 深色：表示尿液濃度過高，需增加水分攝取。  
+   - 完全無色：尿液過稀，可能稀釋電解質，影響心臟健康。  
+   - 亮黃色：可能是攝取過多合成維生素B導致的排出現象。  
+   - 淺紅或深紅色：可能有血尿，需檢查是否有腎臟問題或過度運動導致的短期現象。  
+   - 棕色或橙色：可能與食物攝取（如大量蔬菜）或肝臟問題有關。  
+   - 粉色：可能是食用甜菜或微量血尿，也可能是腎臟石頭的存在。  
+   - 藥 green：食用蘆筍後的正常反應。
+
+3. **其他異常現象**  
+   - 泡沬狀尿液：可能表示蛋白尿，需注意攝取過量蛋白質或腎臟功能異常。
+
+## 問題原因
+1. **水分攝取不當**  
+   - 水分不足導致尿液濃度过高。  
+   - 水分過多稀釋電解質平衡。
+2. **營養攝取問題**  
+   - 過量攝取合成維生素B或食物色素（如甜菜、蘆筍）。  
+   - 高蛋白飲食導致短期蛋白尿。
+3. **腎臟健康問題**  
+   - 腎臟石頭、感染或其他結構性問題。  
+4. **運動過度**  
+   - 長時間激烈運動可能影響腎臟功能，導致血尿或蛋白尿。
+
+## 解決方法
+1. **調整水分攝取**  
+   - 確保每日攝取適當的水分（約8杯）。  
+   - 避免一次性過量飲水。
+2. **均衡飲食**  
+   - 控制合成維生素B的攝取，多食用新鮮蔬菜水果。  
+   - 限制高蛋白質飲食的攝取量。
+3. **健康檢查**  
+   - 若發現血尿或其他異常現象，及時就醫檢查腎臟功能。
+4. **注意運動強度**  
+   - 適當運動，避免長時間激烈運動導致腎臟壓力過大。
+
+## 健康建議
+1. **定期監測尿液顏色**  
+   - 了解正常範圍，及時發現異常。  
+2. **保持均衡飲食**  
+   - 多攝取新鮮蔬果，避免過量補充合成營養劑。  
+3. **注意hydration**  
+   - 適當攝取水分，保持尿液顏色在正常範圍內。  
+4. **定期體檢**  
+   - 特別是腎臟功能的檢查，早期發現問題。
+
+## 結論
+尿液顏色變化可能是健康狀況的指標，與飲食、運動和整體健康有關。了解其意義並採取適當措施，可以幫助維持腎臟健康和整體 wellbeing. 若有疑慮，建議及時諮詢醫生進行進一步檢查。
 </details>
 
 <details>
-<summary>670. 7 Foods You Should Never Eat – Dr. Berg</summary><br>
+<summary>670. [2017-02-04] 7 Foods You Should Never Eat – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Iyf5ViY2AbA" target="_blank">
     <img src="https://img.youtube.com/vi/Iyf5ViY2AbA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 文章重點整理
 
+## 核心主題
+- **不健康食品的危害**：文章主要探討了七種應該避免攝取的不健康食品及其對健康的影響。
+
+## 主要觀念
+1. **加工食品缺乏營養**：許多加工食品在生產過程中會經過高溫處理，導致營養成分被破壞。
+2. **工業化食品的潛在危害**：某些工業化食品可能含有有害添加劑或來源不明的成分，對人體健康造成威脅。
+
+## 問題原因
+1. **營養價值降低**：
+   - 高溫處理破壞了食物中的酶和營養素。
+2. **有害添加物**：
+   - 加工食品中可能含有高果糖玉米糖浆、硝酸鹽等有害成分。
+3. **環境污染**：
+   - 第三世界國家的農產品可能使用禁用 pesticide，如 DDT。
+
+## 解決方法
+1. **選擇健康食品**：
+   - 選擇未經過度加工的食物，如 organically grown 的牛奶和 meats。
+2. **避免有害成分**：
+   - 避免含有高果糖玉米糖浆和硝酸鹽的食品。
+3. **關注食品來源**：
+   - 選擇本地生產或已知無害農藥的國家的水果和蔬菜。
+
+## 健康建議
+1. **飲食選擇**：
+   - 選擇未經過度加工的食物，以維持營養價值。
+2. **閱讀食品標籤**：
+   - 注意食品成分，避免含有有害添加物的產品。
+3. **支持有機農業**：
+   - 選擇 organically grown 的食物以降低 pesticide 暴露風險。
+
+## 結論
+- **健康飲食的重要性**：文章強調了選擇健康食品對整體健康的影響，並提醒消費者注意食品來源和成分。
 </details>
 
 <details>
