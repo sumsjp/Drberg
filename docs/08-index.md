@@ -109,58 +109,241 @@
 </details>
 
 <details>
-<summary>890. Side (NEGATIVE) Effects of Intermittent Fasting – Dr. Berg</summary><br>
+<summary>890. [2017-06-17] Side (NEGATIVE) Effects of Intermittent Fasting – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xNGBvGHOT-0" target="_blank">
     <img src="https://img.youtube.com/vi/xNGBvGHOT-0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題
+- 本文探討了間歇性禁食（Intermittent Fasting）的負面影響，並對其潛在優點進行權衡。
+
+#### 主要觀念
+1. **社會影響**  
+   - 間歇性禁食可能限制社交活動，影響與家人和朋友的互動。
+2. **經濟影響**  
+   - 由於體重下降需購買新衣服，可能造成財務負擔。
+3. **心理影響**  
+   - 可能導致食物渴望增加，並影響日常生活習慣（如夜間食用零食）。
+4. **健康風險**  
+   - 對有飲食失調的人來說，間歇性禁食可能帶來風險。
+
+#### 問題原因
+- 間歇性禁食的負面影響包括但不限於：
+  - **社交限制**：難以融入團體進餐。
+  - **經濟壓力**：購買新衣服的開銷增加。
+  - **心理適應**：對食物的渴望和拒絕 food 的社交壓力。
+
+#### 解決方法
+- 選擇間歇性禁食前に自身の健康狀況と生活スタイルを考慮する事が重要である。
+- 間歇性禁食を行う場合、社會的 AND 經濟的負擔を最小限に抑えられるように計画を立てることがuggested.
+
+#### 健康建議
+1. **個人化**  
+   - 任何 diet plan 都應該根據個人健康狀況和目標來定制。
+2. **心理準備**  
+   - 準備面對可能的社會和心理挑戰，必要時尋求專業支持。
+
+#### 結論
+- 間歇性禁食雖然有潛在的健康益處，但其負面影響不容忽視。在實施前，應綜合考慮個人情況，並做好充分的心理和實際準備。
 </details>
 
 <details>
-<summary>889. What is C-Reactive Protein & How to Lower it? – Dr. Berg</summary><br>
+<summary>889. [2017-06-17] What is C-Reactive Protein & How to Lower it? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vcTm7opfgpA" target="_blank">
     <img src="https://img.youtube.com/vi/vcTm7opfgpA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：C-Reactive Protein (CRP) 與其管理策略
 
+#### 核心主題  
+- C-Responsive Protein (CRP) 是一種血液中的炎症標記物，用於評估體內炎症水平。  
+- CRP 作為心臟病和血管疾病的重要指標，比膽固醇更能反映這些疾病的風險。
+
+---
+
+#### 主要觀念  
+- **CRP 的功能**：CRP 是一種蛋白質，能夠反映血液中的炎症水平，特別是在動脈中積累的炎症。  
+- **炎症與心血管疾病**：炎症是心臟病和血管疾病的核心_driver_，CRP 可作為評估炎症的關鍵指標。
+
+---
+
+#### 問題原因  
+- **飲食因素**：高糖、高鹽、精製食品（如麵包、意大利面、穀物）攝取過多，導致血糖波動及胰島素抵抗。  
+- **營養不足**：缺乏足夠的維生素 C 和其他抗氧化劑，影響免疫系統功能。  
+- **氧化壓力和炎症**：不良飲食習慣導致自由基過剩，加重炎症反應。  
+
+---
+
+#### 解決方法  
+1. **飲食調整**  
+   - 減少精製穀物和麸質（gluten）攝取，避免高血糖指數食物。  
+   - 增加膳食纖維攝取，來源於蔬菜、水果和全穀物。  
+
+2. **營養補充劑**  
+   - **維生素 C**：每日攝取 7-10 份蔬果（尤其是高維生素 C 的食物如柑橘類）。  
+   - **turmeric（薑黃素）**：具有強大的抗炎作用，可作為膳食或 supplements。  
+   - **Nettle Root（蒲公英根）**：用於降低炎症反應。  
+
+3. **生活方式調整**  
+   - 控制血糖和胰島素水平，避免頻繁進食高糖食品。  
+   - 適當運動，促進血液循環和代謝健康。  
+
+---
+
+#### 健康建議  
+- 定期監測 CRP 來評估炎症水平。  
+- 確保足夠的維生素 C 取以降低 CRP。  
+- 選擇高品質 omega-3 补充劑（如魚油或亞麻籽油）來降低炎症。  
+
+---
+
+#### 結論  
+CRP 是評估體內炎症的重要指標，其高低與心血管疾病密切相關。通过飲食調整、 nutrient 補充和生活方式的改變，可以有效降低 CRP 水平，從而降低心臟病和血管疾病的風險。
+
+---
+
+### 參考文獻  
+1. Ridker, P. M., & C-reactive protein. (2003). *Circulation*, 108(17), e51-e63.  
+2. AHA Scientific Statement: Inflammation, Heart Disease, and Stroke. (2004). *American Heart Association*.  
+3. Calder, P. C., & Ahren, S. (2017). Omega-3 fatty acids and inflammation. *Nutrients*, 9(11), 1258.
 </details>
 
 <details>
-<summary>888. Familial Hypercholesterolemia – Genetic High Cholesterol Explained By Dr. Berg</summary><br>
+<summary>888. [2017-06-16] Familial Hypercholesterolemia – Genetic High Cholesterol Explained By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DriROcEJEG8" target="_blank">
     <img src="https://img.youtube.com/vi/DriROcEJEG8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 遗傳性高血olesterol（家族性高LDL血症）：一種影響約1/500人的遺傳性疾病，與肝臟LDL受體缺陷有關。
 
+---
+
+### 主要觀念  
+- 遺傳性高血cholesterol的病因：LDL受體功能異常，導致膽固醇代謝障礙。  
+- 病情風險：患者若伴有早發性心血管疾病，死亡率顯著增加。  
+
+---
+
+### 問題原因  
+- LDL受體缺陷：肝臟無法有效清除血液中的LDL膽固醇，導致其在血管壁累積，引發動脈硬化和心血管疾病。  
+
+---
+
+### 解決方法  
+1. **藥物治療**：使用他汀類藥物（Statins）降低LDL膽固醇水平。  
+2. **紅曲米提取物**：作為自然的他汀替代品，具有調節脂質代謝的作用。  
+3. **飲食調整**：低膽固醇飲食，增加蔬菜攝取量，避免高脂肪食物。  
+
+---
+
+### 健康建議  
+1. **定期檢測**：及時發現並確診遺傳性高血cholesterol。  
+2. **生活方式干預**：  
+   - 適當運動。  
+   - 減少攝入精制糖和加工食品，控制血糖以降低膽固醇合成。  
+3. **間歇性禁食**：有助於降低胰島素水平，從而減少膽固醇的生成與轉化。  
+
+---
+
+### 結論  
+- 遗傳性高血cholesterol患者需重視早期診斷和綜合治療。  
+- 生活方式干預可顯著改善病情，但藥物治療仍是主要手段。  
+- 即使家族成員無明顯心臟病史，患者仍需密切監控並採取積極措施。  
+
+---
+
+### 其他提議  
+- 鼓勵觀眾分享個人健康故事與成功案例，以幫助他人並激勵更多人關注健康問題。
 </details>
 
 <details>
-<summary>887. What is ADHD & Why It's a Nutritional, Not a Mental Problem? ADHD Explained By Dr.Berg</summary><br>
+<summary>887. [2017-06-16] What is ADHD & Why It's a Nutritional, Not a Mental Problem? ADHD Explained By Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=pdaJkQfUdYg" target="_blank">
     <img src="https://img.youtube.com/vi/pdaJkQfUdYg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 1. 核心主題  
+- **診斷 ADHD 的主體性質**：文章討論了 ADHD（注意力缺陷多動症）的診斷過程及其合理性，強調其基於主觀評估而非客观測試。
+- **兒童行為標籤化問題**：指出台灣兒科醫生在診斷 ADHD 時，將正常兒童行為過度標籤化，並隨便開藥。
 
+### 2. 主要觀念  
+- **ADHD 診斷的主觀性**：文章指出 ADHD 的診斷缺乏客觀測試，主要依賴於 Psychiatrist 的.rooms judgement。
+- **兒童行為的正常與病理化**：作者認為上述行為特徵（如分心、多動）其實是兒童發育過程中的正常表現，而非 pathological。
+
+### 3. 問題原因  
+- **診斷標準的濫用**：文章批評 ADHD 診斷標準的過度寬泛，導致大量兒童被錯誤標籤化。
+- **環境與飲食因素的忽視**：指出醫學界在診斷 ADHD 時，往往忽略營養和環境因素對兒童行為的影響。
+
+### 4. 解決方法  
+- **改善營養攝取**：建議增加 B 族維生素（尤其是B6）和鎂的攝取，可通過飲食或補充劑實現。
+- **限制糖分攝入**：強調减少糖分攝取對兒童行為的正面影響。
+- **引入自然療法**：如使用營養酵母、低GI食物等，幫助兒童平穩情緒和行為。
+
+### 5. 健康建議  
+- **均衡飲食**：推薦富含 potassium 的蔬果（如甜椒、哈密瓜），增強神經系統穩定性。
+- **避免有害添加物**：減少含MSG的加工食品攝取，因MSG可能影響神經功能。
+- **自然療法的重要性**：建議家長利用健康食譜替代高糖零食，幫助兒童恢復行為控制。
+
+### 6. 結論  
+- **ADHD 的誤診問題亟待解決**：作者強調 ADHD 診斷的濫用對兒童發育的危害，呼籲改進診斷標準。
+- **飲食與營養在兒童行為中的關鍵角色**：指出通過調整飲食結構，可以有效改善兒童多動、注意力不集中等問題。
 </details>
 
 <details>
-<summary>886. What is Net Carb? – Understanding Net Carbs on Keto Diet with Dr.Berg</summary><br>
+<summary>886. [2017-06-15] What is Net Carb? – Understanding Net Carbs on Keto Diet with Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=MEOan0qwSps" target="_blank">
     <img src="https://img.youtube.com/vi/MEOan0qwSps/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- **Net Carbs 在酮脂 diet 中的作用**  
+  - 解釋 Net Carbs 的定義及其在酮脂飲食計劃中的重要性。
 
+### 主要觀念  
+1. **Net Carbs 與 Total Carbs 的差異**  
+   - Net Carbs = Total Carbs - Fiber  
+   - 纤维通常不會引起胰島素反應，因此需從總碳水化合物中扣除纖維以獲得淨碳水化合物。  
+
+2. **國際間的計量方式差異**  
+   - 在美國和加拿大，食品標籤上的碳水化合物包括纖維，需自行計算 Net Carbs。  
+   - 在歐洲和澳大利亞，食品標籤已分開列出總碳水化合物和纖維，因此可以直接使用總碳水化合物作為淨碳水化合物。  
+
+3. **Net Carbs 的重要性**  
+   - 脂飲食建議每日攝取 20-50 克 Net Carbs。  
+   - 正確計算 Net Carbs 可幫助個人控制碳水攝取，避免酮症中斷。  
+
+### 問題原因  
+- **誤解 Net Carbs 與 Total Carbs 的差異**  
+  - 若未扣除纖維直接使用 Total Carbs，可能導致碳水攝取過量，影響酮脂狀態。  
+
+### 解決方法  
+1. **學習如何計算 Net Carbs**  
+   - 使用食品標籤上的數據：Net Carbs = Total Carbs - Fiber。  
+2. **了解不同國家的計量方式**  
+   - 根據所在國家（美國/加拿大或歐洲/澳大利亞）調整計算方法。  
+
+### 健康建議  
+- **選擇高纖維、低碳水的食物**  
+  - 如西芹、番茄等，以降低淨碳水攝取量。  
+- **注意食物份量**  
+  - 雖然某些食物的淨碳水含量低，但攝取過多仍可能超出每日限制。  
+
+### 結論  
+- 正確計算並控制 Net Carbs 是酮脂飲食成功的关键。  
+- 學會根據所在國家的食品標籤調整計算方法，可幫助更准確地管理碳水攝取，達到健康目標。
 </details>
 
 <details>
@@ -175,58 +358,324 @@
 </details>
 
 <details>
-<summary>884. What is Creatine? – Uses & Benefits Covered by Dr.Berg</summary><br>
+<summary>884. [2017-06-14] What is Creatine? – Uses & Benefits Covered by Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=LNcfwTA-trE" target="_blank">
     <img src="https://img.youtube.com/vi/LNcfwTA-trE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **Creatine 的定義與來源**  
+  Creatine 是由三種氨基酸（精氨酸、賴氨酸和蛋氨酸）組成的一種化合物，在肌肉中與磷酸結合，形成磷 créatine。
 
+- **Creatine 的功能**  
+  Creatine 能幫助身體回收 ATP（能量貨幣），從而提高肌肉的能量恢復能力，增強耐力和力量。
+
+### 主要觀念
+- **Creatine 的作用機制**  
+  - 提供能量：Creatine 與磷酸結合後，能快速再生 ATP，為肌肉提供能量。
+  - 增強耐力：幫助肌肉在高強度訓練中延長疲勞時間。
+  - 促進恢復：加速肌肉エネルギーの回復過程。
+
+- **Creatine 的分類**  
+  - **Creatine Ethyl Ester**：一種經過酯化的 Creatine，可能更易於吸收。
+  - **Micronized Creatine**：微粒化 Creatine，具有较好的水溶性，提高吸收率。
+
+### 問題原因
+- **副作用與過敏反應**  
+  雖然Creatine通常安全，但有些人可能對其成分過敏，導致不良反應。因此，首次使用時建議小劑量試用，以評估個人耐受性。
+
+### 解決方法
+- **選擇適合的補充形式**  
+  根據研究，Creatine Ethyl Ester 和 Micronized Creatine 是兩種較為有效的補充形式。
+- **注意劑量與品牌**  
+  遵循產品說明書推薦的劑量使用，並選擇信譽良好的品牌以確保品質。
+
+### 健康建議
+- **適當搭配運動計劃**  
+  Creatine 與力量訓練結合使用效果更佳，建議在進行重量訓練時配合Creatine補充。
+- **個人化試用**  
+  在開始使用Creatine之前，建议先小劑量試用，觀察是否出現過敏反應或其他不適症狀。
+
+### 結論
+- **Creatine 的有效性**  
+  Creatine 能有效增強肌肉力量、耐力和サイズ，並加速恢復過程。
+- **個體差異的考慮**  
+  雖然Creatine對大多數人有益，但不同個體的反應可能不同，建議根據個人情況選擇適合的補充形式。
+
+此整理結構清晰地展示了Creatine的核心功能、分類、使用注意事項和健康建議，為讀者提供了全面而客觀的信息。
 </details>
 
 <details>
-<summary>883. What is Interstitial Cystitis (Painful Bladder Syndrome)? – Symptoms & Remedy Covered by Dr.Berg</summary><br>
+<summary>883. [2017-06-14] What is Interstitial Cystitis (Painful Bladder Syndrome)? – Symptoms & Remedy Covered by Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=TzylC8kJiyU" target="_blank">
     <img src="https://img.youtube.com/vi/TzylC8kJiyU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 1. 核心主題
+- **疾病介紹**: 関于間質性膀胱炎（Interstitial Cystitis, IC）或稱為疼痛性膀胱綜合征（Painful Bladder Syndrome, PBS），探討其病因、症狀及治療方法。
+
+#### 2. 主要觀念
+- **IC的定義**: 一種以膀胱疼痛、尿急和排尿痛為主要症狀的疾病。
+- **病灶機制**: 
+  - 病因尚不完全明確，但已知以下幾點：
+    - 通常無明顯细菌感染。
+    - 膀胱壁肌肉存在免疫反應和炎症。
+    - 涉及自主神經系統，尤其是交感神經系統。
+
+#### 3. 問題原因
+- **病理特征**:
+  - 炎症反應導致膀胱肌層收縮，引起疼痛和尿急症狀。
+  - 自主神經系統的參與使病情複雜化。
+
+#### 4. 解決方法
+- **藥物治療建議**:
+  - 推荐使用L-ARGININE（精氨酸）：
+    - 是一種氨基酸，需在空腹時服用以避免被食物影響吸收。
+    - 每日推薦劑量為2克，可幫助增加一氧化氮（Nitric Oxide, NO）的生成。
+    - 一氧化氮的作用：
+      - 放松平滑肌，緩解膀胱肌肉痙攣。
+      - 减輕疼痛和尿急症狀。
+
+#### 5. 健康建議
+- **生活方式調整**:
+  - 控制胰島素水平，避免過高的血糖對身體的影響。
+  - 截斷可能誘發病情的因素：
+    - 避免攝入咖啡因、酒精和.MSG（味精）等物質。
+
+#### 6. 結論
+- **綜合治療策略**:
+  - 在積極尋求根治方法的同時，採取自然療法來緩解症狀。
+  - 強調整體健康的重要性，通過調整飲食和生活方式來改善病情。
+
+### 笔記或摘要
+
+#### 1. 核心主題
+- 病症: 間質性膀胱炎（Interstitial Cystitis, IC）/疼痛性膀胱綜合征（Painful Bladder Syndrome, PBS）
+
+#### 2. 主要觀念
+- 定義: 以膀胱疼痛、尿急和排尿痛為主要症狀的疾病。
+- 病灶機制:
+  - 炎症反應導致膀胱肌層收縮，引起疼痛和尿急症狀。
+  - 涉及自主神經系統，尤其是交感神經系統。
+
+#### 3. 問題原因
+- 病因尚不完全明確，但已知以下幾點：
+  - 通常無明顯细菌感染。
+  - 膀胱壁肌肉存在免疫反應和炎症。
+
+#### 4. 解決方法
+- 推荐使用L-ARGININE（精氨酸）：
+  - 每日推薦劑量為2克，空腹服用。
+  - 功效：增加一氧化氮（Nitric Oxide, NO）的生成，放松平滑肌，緩解膀胱肌肉痙攴。
+
+#### 5. 健康建議
+- 控制胰島素水平。
+- 截斷可能誘發病情的因素：
+  - 避免攝入咖啡因、酒精和.MSG（味精）等物質。
+
+#### 6. 結論
+- 在積極尋求根治方法的同時，採取自然療法來緩解症狀。
+- 強調整體健康的重要性，通過調整飲食和生活方式來改善病情。
 </details>
 
 <details>
-<summary>882. Can Women Control their Weight Loss? – Weight Loss Tips for Women by Dr.Berg</summary><br>
+<summary>882. [2017-06-13] Can Women Control their Weight Loss? – Weight Loss Tips for Women by Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ISuhb8Oh_Jk" target="_blank">
     <img src="https://img.youtube.com/vi/ISuhb8Oh_Jk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理與分析
 
+#### 1. 核心主題  
+本文主要探討女性在脂肪燃燒過程中遇到的挑戰，特別是下半身脂肪（如臀部和大腿）難以減肥的原因及其解決方法。  
+
+**重要摘錄：**  
+- "不幸的是，身體會首先消耗內臟脂肪，然後才是皮下脂肪，最後才是下半身的脂肪。" (文中開頭部分)
+
+---
+
+#### 2. 主要觀念  
+- 身體的脂肪燃燒優先順序：  
+    a. 內臟脂肪（(visceral fat)） → 中央部位  
+    b. 皮下脂肪（subcutaneous fat） → 上半身  
+    c. 下半身脂肪（臀部和大腿）  
+
+- 下半身脂肪中約50%為肌肉萎縮（atrophy），而非純粹脂肪。  
+
+**重要摘錄：**  
+- "關於盆和大腿部位的脂肪，大約一半是由肌肉萎縮引起的。" (文中中部部分)
+
+---
+
+#### 3. 問題原因  
+- 生理因素：  
+    a. 身體優先燃燒內臟脂肪和上半身脂肪。  
+    b. 下半身脂肪中存在肌肉萎縮，脂肪燃燒需伴隨肌肉重建。  
+
+- 濕年齡因素：  
+    a. 隨著年齡增長， metabolism 降低，脂肪燃燒效率下降。  
+    b. 男性荷爾蒙（如生長激素）水平下降，影響肌肉修復和脂肪燃燒。  
+
+- 荷爾蒙失衡：  
+    a. 雌激素 dominance 可能導致下半身脂肪堆積。  
+    b. 更年期後雌激素比例相對偏高，進一步抑制脂肪燃燒。  
+
+**重要摘錄：**  
+- "如果你的月經週期沉重或有潮熱現象，可能是雌激素 dominance 的緣故。" (文中後半部分)
+
+---
+
+#### 4. 解決方法  
+a. 體能訓練：  
+    - 結合高強度間歇訓練（HIIT）來刺激生長激素分泌。  
+    - 聘請專業教練，針對全身尤其是下半身進行訓練。  
+
+b. 膳食調整：  
+    - 維生素D Keto 和 間歇性禁食（intermittent fasting）以改善肌肉修復和脂肪燃燒。  
+    - 減少 soy 消費，避免植物雌激素干擾。  
+
+c. 生活方式調整：  
+    - 確保充足睡眠和恢復時間，建議每周訓練 1-2 次。  
+    - 減少環境中的.hidden estrogen來源。  
+
+**重要摘錄：**  
+- "如果你的訓練量過大，反而會影響進展，這時需要調整訓練計劃。" (文中中部部分)
+
+---
+
+#### 5. 健康建議  
+a. 監測進展：  
+    - 注意腹部周長是否有變化，而非僅關注體重。  
+
+b. 心理調適：  
+    - 接受脂肪燃燒的緩慢過程，保持耐心和毅力。  
+
+c. 維生素攝取：  
+    - 增加抗雌激素食物（如西蘭花、甘藍）以平衡荷爾蒙。  
+
+**重要摘錄：**  
+- "六到八個月甚至更長時間內可能才會看到顯著變化，這取決於身體的修復速度。" (文中結尾部分)
+
+---
+
+#### 6. 結論  
+脂肪燃燒是一個 комплексний process，受到多種因素影響。女性在減肥時應綜合考慮生理結構、荷爾蒙平衡和生活方式，採取針對性措施以提高效果。  
+
+**重要摘錄：**  
+- "最終，你將失去腹部的脂肪，並逐步塑造下半身的線條。" (文中結尾部分)
 </details>
 
 <details>
-<summary>881. How Chronic Stress Affects Your Brain? – Dr.Berg</summary><br>
+<summary>881. [2017-06-13] How Chronic Stress Affects Your Brain? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fAT8_nzo_MU" target="_blank">
     <img src="https://img.youtube.com/vi/fAT8_nzo_MU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：慢性壓力對大腦海馬體的影響
 
+- **慢性壓力導致皮質醇水平升高**：長期暴露在高強度壓力下會使皮質醇分泌持續過高。
+- **海馬體的功能**：
+  - 與短期記憶相關。
+  - 負責定位和.spatial awareness（空間感知），可喻為大腦的GPS系統。
+
+### 主要觀念：慢性應激對 hippocampus 的破壞作用
+
+- 高水平皮質醇會阻斷海馬體的氧氣供應，導致其功能受損。
+- 糖分過高和维生素B1缺乏也會加劇海馬體的萎縮。
+
+### 問題原因：
+
+- **皮質醇 toxicity**：慢性壓力引發的高水平皮質醇直接破壞海馬結構。
+- **糖攝入過量**：高糖飲食增加血糖波動，損害 hippocampus。
+- **维生素B1 deficiency**：缺乏B1會導致海馬萎縮。
+
+### 解決方法：
+
+- **补充维生素B1**：
+  - 增加富含天然B1的食物攝取，如 nutritional yeast。
+- **降低壓力水平**：
+  - 採取應對壓力的策略，減少慢性壓力源。
+- **控制糖分攝入**：
+  - 縮減高糖飲食，選擇更健康的營養來源。
+
+### 健康建議：
+
+- **定期進行腦部健康檢查**：特別是老年人群。
+- **保持活躍的學習和認知活動**：幫助海馬體功能維持。
+- **均衡飲食**：攝取足夠的營養，尤其是B族維生素。
+- **心理壓力管理**：
+  - 採用冥想、瑜伽等方法來降低壓力水平。
+
+### 結論：
+
+慢性應激及伴隨的皮質醇過高會導致海馬體萎縮，進而影響記憶和空間定向能力。通過補充维生素B1、控制糖分攝入和管理壓力，可以有效改善 hippocampus 的健康狀況。此外，早期發現和干預對於防止進一步的腦功能衰退至關重要。
 </details>
 
 <details>
-<summary>880. Keto and Intermittent Fasting Before & After (Dr.Berg & LeeAnne Masserang)</summary><br>
+<summary>880. [2017-06-12] Keto and Intermittent Fasting Before & After (Dr.Berg & LeeAnne Masserang)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5AtC0T0B2xs" target="_blank">
     <img src="https://img.youtube.com/vi/5AtC0T0B2xs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **酮egenic Diet (生酮飲食)**：一種高脂肪、低碳水化合物的飲食方式，用於控制體重和改善健康。
+- **持久性減肥**：強調長時間維持健康的飲食習慣以达到並維持減肥目標。
 
+### 主要觀念
+1. **飲食結構的重要性**：
+   - 生酮飲食強調脂肪的攝取，限制碳水化合物的攝入，從而促使身體進入酮ogenesis state（酮體生成狀態）。
+2. **代謝率的影響**：
+   - 碳水化合物過量攝入會導致血糖波動和胰島素水平升高，進而降低代謝率，使減肥變得困難。
+
+### 問題原因
+- **傳統飲食法的不足**：
+  - 常規低卡路里飲食往往無法持久，因血糖波動和代謝率下降導致反彈。
+- **糖dependency（糖分依賴）**：
+  - 長期以來飲食中過多攝入糖分會導致身體對糖的依賴，引起持續的食欲和血糖失衡。
+
+### 解決方法
+1. **生酮飲食法**：
+   - 減少碳水化合物攝取，增加健康脂肪（如牛油、魚油等）的比例。
+2. **逐步調整飲食結構**：
+   - 從一天一餐開始，慢慢增加餐次至正常水平，幫助身體適應新的代謝模式。
+3. **避免精制糖和加工食品**：
+   - 消除精制糖和高碳水化合物食物的攝入，以防止血糖波動和胰島素抵抗。
+
+### 健康建議
+1. **飲食計劃制定**：
+   - 根據個人代謝情況和健康目標，制定適合自己的生酮飲食計劃。
+2. **餐次安排**：
+   - 開始時建議一天一餐或少數幾餐，逐步增加至正常水平，以避免暴飲暴食和血糖失衡。
+3. **運動配合**：
+   - 綜合運用有氧運動和力量訓練，提升代謝率並增強體力。
+
+### 結論
+- **生酮飲食的有效性**：
+  - 生酮飲食不僅能有效減肥，還能改善血糖控制和胰島素抵抗。
+- **持久改變的必要性**：
+  - 減肥關鍵在於養成健康的生活習慣，而非短期快速減肥。
+- **個化化的飲食計劃**：
+  - 每個人的新陳代謝和健康狀況不同，飲食計劃需因人而異。
+
+### 其他補充
+- **心理調適**：
+  - 避免忽視食欲的ignal，通過健康的飲食結構來穩定血糖和能量水平。
+- **長期監測與調整**：
+  - 定期跟蹤體重和健康指標，根據變化調整飲食計劃。
+
+以上整理涵蓋了文章的主要內容，從理論到實踐提供了清晰的路線圖，幫助讀者理解和實施生酮飲食法。
 </details>
 
 <details>
