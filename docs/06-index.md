@@ -890,113 +890,543 @@
 </details>
 
 <details>
-<summary>619. Problems with Low Cortisol Levels/Adrenal Insufficiency - Dr.Berg</summary><br>
+<summary>619. [2016-12-20] Problems with Low Cortisol Levels/Adrenal Insufficiency - Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=K5q4CrlOKNM" target="_blank">
     <img src="https://img.youtube.com/vi/K5q4CrlOKNM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：低皮質醇症狀與管理策略
 
+#### 核心主題
+- **低皮質醇（Low Cortisol）**及其對人體健康的影響。
+
+#### 主要觀念
+1. **皮質醇的功能**：
+   - 皮質醇具有多種生理作用，包括抗炎、调节免疫反應、調節血糖及幫助應對壓力。
+   
+2. **低皮質醇的成因**：
+   - 長期高皮質醇水平或慢性壓力導致「皮質醇抵抗」（Cortisol Resistance），類似於胰島素抵抗，阻礙細胞吸收皮質醇。
+
+3. **低皮質醇的危害**：
+   - 皮質醇的抗炎作用受影響，導致炎症相關疾病如關節炎、肌腱炎等。
+   - 免疫力下降，增加感染和自身免疫疾病的風險。
+   - 記憶力減退及其他神經認知功能障礙。
+
+#### 問題原因
+- 長期壓力或過度使用糖皮質激素（如泼尼松）可能干擾正常的皮質醇調節 mechanism.
+  
+#### 解決方法
+1. **補充與支持**：
+   - 使用「皮質醇支持配方」（Cortisol Support Formula），含食物基底維生素C複合物、草饲 adrenal 提煉物和licorice root等成分，幫助支撐腎上腺功能。
+
+2. **生活方式調整**：
+   - 減輕壓力：避免壓力來源，改善睡眠質量。
+   - 適當運動：選擇中低強度的活動如散步，而非高強度訓練。
+
+3. **環境改善**：
+   - 避免壓力場所（如工作或家庭），創建更為寧靜的生活環境。
+
+#### 健康建議
+- 減少合成維生素C的攝取，因其可能削弱腎上腺功能。
+- 確保營養均衡，攝取足夠的前體物質（如維生素B5）以支撐激素合成。
+
+#### 結論
+- 低皮質醇症狀可通過支持性療法和生活方式改變來改善。患者應避免壓力源，並考慮使用特定補充劑來恢復腎上腺功能。及時的干預可以有效防止相關健康問題的進一步惡化。
 </details>
 
 <details>
-<summary>618. Keto Short Bread Cookies Recipe – Dr. Berg</summary><br>
+<summary>618. [2016-12-19] Keto Short Bread Cookies Recipe – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=0G6_jcLGh3U" target="_blank">
     <img src="https://img.youtube.com/vi/0G6_jcLGh3U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Core Theme (核心主題)
+- The article focuses on the preparation and appreciation of shortbread cookies.
+- It highlights the simplicity, versatility, and enjoyment associated with making and consuming shortbread.
 
+### Major Concepts (主要觀念)
+1. **Shortbread as a Favorite Cookie**: 
+   - Shortbread is described as one of the author's favorite cookies, especially around the holidays but also appreciated year-round.
+2. **Culinary Simplicity**:
+   - The process of making shortbread is emphasized as quick and easy, requiring minimal time in the oven.
+3. **Pairing with Tea**: 
+   - Shortbread is recommended as an excellent accompaniment to tea, enhancing both taste and experience.
+
+### Issues or Concerns (問題與關切)
+- **Overly Simplified Language**: The informal tone and casual language used in the original text may hinder clarity for readers seeking formal academic information.
+- **Lack of Technical Details**: The article does not provide detailed steps or ingredients required for making shortbread, which might be necessary for someone unfamiliar with the recipe.
+
+### Solutions (解決方法)
+1. **Adopting a Formal Tone**:
+   - Revising the language to align with academic standards while retaining engaging elements.
+2. **Incorporating Detailed Instructions**:
+   - Adding a section that outlines the ingredients and step-by-step process for making shortbread cookies.
+
+### Health Recommendations (健康建議)
+- **Balanced Diet Consideration**: While shortbread is delicious, it should be consumed in moderation as part of a balanced diet.
+- **Mindful Pairing**: Pairing shortbread with tea can promote mindful eating and social bonding.
+
+### Conclusion (結論)
+- Shortbread cookies represent a simple yet delightful culinary experience that bridges the gap between quick preparation and gustatory enjoyment.
+- By refining the presentation to align with academic standards, the appreciation for this classic treat can be shared more effectively.
 </details>
 
 <details>
-<summary>617. Iodine Facts and Deficiency Causes – Dr. Berg</summary><br>
+<summary>617. [2016-12-18] Iodine Facts and Deficiency Causes – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=yIytVCMSq2w" target="_blank">
     <img src="https://img.youtube.com/vi/yIytVCMSq2w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+---
+
+#### **核心主題**
+- **碘元素的重要性**：碘是人体必需的微量元素，在身体多个系统和器官中起关键作用。
+- **碘在甲状腺激素中的作用**：碘参与甲状腺激素（如T3和T4）的合成，影响代谢和其他生理功能。
+
+---
+
+#### **主要觀念**
+1. **碘的分布与储存**：
+   - 碘主要储存在甲状腺 gland（约30%），其余分布在唾液腺、乳腺、卵巢、胃黏膜、眼睛等部位。
+   - 甲状腺利用碘合成激素，T4为无活性形式，T3为活性形式。
+
+2. **碘的生理作用**：
+   - 调节激素平衡：将雌二醇（estradiol）转化为有益的雌三醇（estriol），帮助缓解雌激素过多的问题。
+   - 保护生殖健康：预防纤维囊性乳腺病，支持卵巢功能。
+   - 改善代谢和敏感性：提高胰岛素敏感性，改善血糖调节。
+   - 增强眼部健康：防止因碘缺乏引起的眼部肿瘤。
+   - 神经保护作用：碘对脑中“黑质”（substantia nigra）的健康至关重要，与帕金森病相关。
+
+3. **碘的代谢特点**：
+   - 人体不储存大量碘，约90%通过肾脏排出，需持续摄入。
+   - 土壤和食物中的碘含量普遍不足，尤其是内陆地区。
+
+---
+
+#### **問題原因**
+- **碘缺乏的原因**：
+  - 土壤退化导致食物中碘含量降低。
+  - 饮食结构以陆地植物为主，缺乏海产品等富含碘的食物来源。
+  
+- **健康问题与碘缺乏的关系**：
+  - 甲状腺功能异常（如甲减）。
+  - 纤维囊性乳腺病、卵巢功能障碍。
+  - 帕金森病风险增加。
+  - 冷敏感（如冷脚）可能与甲状腺激素不足有关。
+
+---
+
+#### **解決方法**
+- **补充碘的途径**：
+  - 饮食：摄入富含碘的食物，如海带、紫菜、海鲜等海洋生物。
+  - 补充剂：选择高质量的海藻类补碘产品（如Dr. Berg推荐的海带）。
+
+- **安全使用建议**：
+  - 从小剂量开始，逐渐增加，避免过量反应。
+  - 如果出现排毒反应（如皮肤问题、痤疮加重），应减少剂量并等待症状缓解后再继续补充。
+
+---
+
+#### **健康建議**
+1. **饮食调整**：
+   - 增加海产品摄入，确保碘的充足供应。
+   - 避免长期依赖土壤种植的内陆食物，考虑多样化饮食来源。
+
+2. **监测与平衡**：
+   - 定期检测血液中的碘水平和甲状腺功能指标。
+   - 在专业指导下使用补碘剂，避免过量或不足。
+
+3. **关注排毒反应**：
+   - 补充碘时可能出现排毒现象（如皮肤不适），应耐心观察并调整剂量。
+   - 保持耐心，逐步增加摄入以获得长期健康益处。
+
+---
+
+#### **結論**
+碘不仅是甲状腺功能的关键元素，还在激素调节、生殖健康、眼部和神经保护等方面发挥重要作用。由于现代饮食中碘的普遍缺乏，补充碘已成为维护整体健康的重要措施。然而，补碘需谨慎，建议在医生或营养师的指导下进行，以确保安全和效果。
 </details>
 
 <details>
-<summary>616. Peanut Butter Cookies: Keto Friendly</summary><br>
+<summary>616. [2016-12-17] Peanut Butter Cookies: Keto Friendly</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XgKsiIIR-A8" target="_blank">
     <img src="https://img.youtube.com/vi/XgKsiIIR-A8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 討論如何製作經典的花生醬曲奇餅。
 
+---
+
+### 主要觀念  
+1. 花生醬曲奇餅是一種受歡迎的小吃，適合作為甜點或零食。
+2. 這些曲奇餅具有出色的口感：柔軟、濕潤且香脆。
+3. 制作方法簡單易行，適合家庭製作。
+
+---
+
+### 問題原因  
+- 過度食用花生醬曲奇餅可能導致攝入過多熱量和糖分，影響健康。
+
+---
+
+### 解決方法  
+1. 控制食用份量，避免一次性攝取过多。
+2. 可將其作為正餐的甜點，而非隨時隨地的零食。
+3. 舉制自制活動，讓家人或朋友共同參與製作，增加樂趣並控制食材使用。
+
+---
+
+### 健康建議  
+- 雖然花生醬曲奇餅美味，但仍需注意均衡飲食，搭配蔬菜、水果和其他營養食物。
+- 可考慮用低糖或無糖配方來降低熱量和 сахар的攝取。
+
+---
+
+### 結論  
+花生醬曲奇餅是一道經典且美味的小吃，適合在閒暇時光製作與分享。只要控制食用份量並注意飲食均衡，可以享受其美味而不影響健康。
 </details>
 
 <details>
-<summary>615. What is Fibromyalgia – Surprising Finding Explained by Dr. Berg</summary><br>
+<summary>615. [2016-12-17] What is Fibromyalgia – Surprising Finding Explained by Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=J8t74XMziP8" target="_blank">
     <img src="https://img.youtube.com/vi/J8t74XMziP8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- ** fibromyalgia 的意外發現**  
+  Dr. Berg 提出了一種與 fibromyalgia 相關的不尋常理論，指出許多病例可能與 gallbladder 疾病有關。
 
+---
+
+### 主要觀念
+1. **Gallbladder 與上半身疼痛的關聯**  
+   - Gallbladder 位於右肋骨下方，當其腫脹或堵塞時，會對膈肌和 phrenic 神經施加壓力。
+   - 這種壓力可導致頸部、肩部和頭部的肌肉痙攣，進一步引發椎骨旋轉，壓迫神經。
+
+2. **疼痛的傳導機制**  
+   - 疼痛通常沿著右側分布，從背部延伸至頭部。
+
+3. **Gallbladder 与其他症状的关系**  
+   - 流行病學研究表明，90% 的 fibromyalgia 病例可能與 gallbladder 腫瘤或功能障礙有關。
+   - 常伴有消化不良、腹脹和頭疼等症状。
+
+---
+
+### 問題原因
+1. **Gallbladder 機械性問題**  
+   - 腫瘤、堵塞或其他結構性異常導致的 gallbladder 為患者帶來了炎症和壓力。
+
+2. **神經學機制**  
+   - phrenic 神經受壓，影響上半身的感覺和運動功能。
+   - 輸入到頸部和肩部的神經信號被干擾，導致持續性疼痛。
+
+3. **免疫系統反應**  
+   - 炎症反應可能進一步擴散至全身，加重患者的不適感。
+
+---
+
+### 解決方法
+1. **臨床診斷**  
+   - 醫生應對疑似患者進行 gallbladder 的物理檢查和影像學評估（如超聲波）。
+
+2. **症状測試**  
+   - 通過按壓 gallbladder 区域來觀察疼痛是否立即緩解，以確定病因。
+
+3. **藥物與營養干預**  
+   - 使用膽鹽或胃腸康復劑來支持 gallbladder 功能。
+   - 調整飲食習慣，避免高脂肪攝入。
+
+---
+
+### 健康建議
+1. **飲食調整**  
+   - 減少高脂肪食物的攝取，以降低 gallbladder 的負荷。
+
+2. **定期檢查**  
+   - 對於有 fibromyalgia 症狀的人群，應定期進行 gallbladder 相關的檢查。
+
+3. **早期干預**  
+   - 尽早發現和治療 gallbladder 問題，可以有效緩解上半身疼痛和其他全身性症狀。
+
+---
+
+### 結論
+- Dr. Berg 提出了一個創新性的理論，指出 fibromyalgia 的症状可能源於 gallbladder 的機械性問題。
+- 醫療專業人員應將 gallbladder 考慮爲 fibromyalgia 的潛在病因之一，並進行相應的評估和干預。
+- 早期診斷和治療可以顯著改善患者的生活質量。
 </details>
 
 <details>
-<summary>614. Easy Spiced Nut Mix Recipe: Keto Friendly</summary><br>
+<summary>614. [2016-12-16] Easy Spiced Nut Mix Recipe: Keto Friendly</summary><br>
 
 <a href="https://www.youtube.com/watch?v=oGJA7XHpVmw" target="_blank">
     <img src="https://img.youtube.com/vi/oGJA7XHpVmw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：香料堅果混合物食譜與討論
 
+---
+
+#### 1. 核心主題  
+- 制作一款名為「香料坚果混合物」（Spiced Nut Mix）的食譜，主要成分包括核桃、杏仁和美洲山核桃（ pecans）。  
+
+---
+
+#### 2. 主要觀念  
+- 香料坚果混合物具有獨特的味道，融合了微辣和濃郁的風味。  
+- 使用的香料包括肉豆蔻（cardamom）和辣椒粉（chili pepper），增添層次感。  
+- 這款食譜製作簡單，適合在家庭聚會或作為甜點裝飾使用。  
+
+---
+
+#### 3. 問題原因  
+- 市面上現有堅果產品可能缺乏個人化口味調整的空間，未能完全滿足個別消費者的需求。  
+
+---
+
+#### 4. 解決方法  
+- 提供一份簡單易行的食譜，讓消費者可以根據自己的口味偏好自由調整香料和坚果的比例。  
+
+---
+
+#### 5. 健康建議  
+- 坚果富含健康脂肪、蛋白質和膳食纖維，适量食用有益健康。  
+- 推薦搭配冰クリーム或沙拉食用，提升口感與營養價值。  
+
+---
+
+#### 6. 結論  
+- 香料坚果混合物是一道簡單又多用途的點心，適合各類場合。  
+- 鼓勵觀眾試做此食譜並分享心得，增進廚藝交流。  
+
+--- 
+
+**總結：**  
+本文介紹了一款以核桃、杏仁和美洲山核桃為主體的香料坚果混合物食譜，強調其製作簡單且用途廣泛，同時提供了健康食用建議，鼓勵讀者嘗試並分享。
 </details>
 
 <details>
-<summary>613. Keto Friendly Maple Syrup</summary><br>
+<summary>613. [2016-12-16] Keto Friendly Maple Syrup</summary><br>
 
 <a href="https://www.youtube.com/watch?v=nKDLK3ZW19A" target="_blank">
     <img src="https://img.youtube.com/vi/nKDLK3ZW19A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 探讨替代 Maple Syrup 的可能性及其健康影響。
+- 強調廚藝改進的重要性及個人化食譜的必要性。
+
+#### 主要觀念
+1. 大多數食譜需根據個人需求進行調整，特別是因應飲食限制或健康考量。
+2. Maple Syrup 常見於食譜中，但其使用可能受到限制（如健康原因）。
+3. 推薦使用「Maple Extract」作為替代品，提供相似風味而不含不良成分。
+
+#### 問題原因
+- 传统糖膏（如 Maple Syrup）可能含有不适合某些人群的成分。
+- 市場上缺乏既健康又美味的糖膏替代品。
+
+#### 解決方法
+1. 使用「Maple Extract」作為替代糖膏，保留風味同時避免不良成分。
+2. 推薦網友自制糖膏，確保成分安全且符合個人需求。
+
+#### 健康建議
+- 選擇不含不良添加劑的食品原料，優先考慮天然成分。
+- 根據個人健康狀況調整食譜，實現均衡飲食。
+
+#### 結論
+- 替代糖膏（如 Maple Extract）是解決常見食譜限制的有效方法。
+- 個人化廚藝改進不仅能提升餐飲體驗，也能更好地照顧健康需求。
+
+---
+
+### 問卷調查
+
+為了解讀者的反饋和需求，請填寫以下問卷：
+
+1. 您通常如何處理食譜中的糖膏成分？  
+   - 完全不使用  
+   - 使用替代品  
+   - 維持原樣  
+
+2. 您對「Maple Extract」作為糖膏替代品的看法是？  
+   - 非常感興趣  
+   - 一般感興趣  
+   - 不感興趣  
+
+3. 您是否有自制食譜成分的經驗？  
+   - 是  
+   - 否  
+
+4. 您希望未來獲得更多哪類內容？  
+   - 健康飲食 tips  
+   - 綠色廚藝技巧  
+   - 新穎食譺介紹  
+
+5. 是否有其他意見或建議？  
+   - [開放回應]
+
+---
+
+請您提供您的寶貴意見，幫助我們提供更符合您需求的內容！
 </details>
 
 <details>
-<summary>612. The 2 Most Ignored Minerals In Diabetes and Insulin Resistance – Dr.Berg</summary><br>
+<summary>612. [2016-12-16] The 2 Most Ignored Minerals In Diabetes and Insulin Resistance – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=z1AOtMEA-Yg" target="_blank">
     <img src="https://img.youtube.com/vi/z1AOtMEA-Yg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理： minerals 与糖尿病的关系及解决方案
 
+#### 核心主题
+文章探讨了两种常被忽视的重要矿物质——钾和镁，在糖尿病管理中的作用及其对胰岛素抵抗的影响。
+
+#### 主要观念
+1. **矿物质的重要性**：
+   - 镁参与酶的合成，促进血糖的储存（形成肝糖原）。
+   - 钾与镁协同作用，帮助调节细胞内的离子平衡。
+
+2. **胰岛素抵抗的关联**：
+   - 胰岛素抵抗表现为疲劳、腹胀、饥饿感强烈等症状。
+   - 体内缺乏钾和镁会加剧胰岛素抵抗，进而影响血糖控制。
+
+3. **矿物质吸收与胰岛素的关系**：
+   - 胰岛素是促进细胞吸收钾和镁的关键因素。缺乏胰岛素会导致这些矿物质无法有效进入细胞内，形成恶性循环。
+
+#### 问题原因
+1. **矿物质不足**：
+   - 镁和钾的摄入不足导致血糖调节能力下降。
+   
+2. **钙代谢失衡**：
+   - 过量的钙（高血钙症）可能干扰镁的吸收，影响胰岛素功能。
+
+3. **饮食结构不合理**：
+   - 低蔬菜摄入导致矿物质缺乏。
+
+#### 解决方法
+1. **补充钾和镁**：
+   - 增加富含钾和镁的食物摄入，如绿叶蔬菜、坚果和种子。
+   
+2. **调整饮食习惯**：
+   - 每日摄入7-10杯蔬菜，通过色拉或榨汁等方式实现。
+
+3. **避免高钙补充**：
+   - 避免单纯使用钙剂（如碳酸钙），建议与镁同时补充或适量使用维生素D和K2辅助调节钙代谢。
+
+#### 健康建议
+1. **饮食调整**：
+   - 保证充足蔬菜摄入，以天然方式摄取矿物质。
+   
+2. **监测矿物质水平**：
+   - 定期检测血清钾、镁浓度，及时补充不足。
+
+3. **合理使用营养补充剂**：
+   - 在医生指导下选择合适的矿物质补充剂，避免过量补钙。
+
+#### 结论
+通过增加蔬菜摄入和补充钾、镁等关键矿物质，可以有效改善胰岛素抵抗，辅助治疗糖尿病。同时，注意钙的合理摄取，避免因钙代谢紊乱加重病情。文章强调了饮食调整在糖尿病管理中的重要性，并提供了切实可行的操作建议。
 </details>
 
 <details>
-<summary>611. Dr. Eric Berg's YouTube Channel Welcome</summary><br>
+<summary>611. [2016-12-15] Dr. Eric Berg's YouTube Channel Welcome</summary><br>
 
 <a href="https://www.youtube.com/watch?v=7VhvSmY9qss" target="_blank">
     <img src="https://img.youtube.com/vi/7VhvSmY9qss/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 探討脂肪燃燒的七項原則及其對人體健康的影响。
+- 强調不同身體類型與健康問題的關聯性。
+- 討論酮症（ketones）作為脂肪代謝的副產品及其作用。
+- 提出針對個體化健康管理的策略。
 
+### 主要觀念
+1. 每個人的身體類型會影響其健康問題的易感性。
+2. 酮症是由脂肪代謝過程中的副產物，具有特定的健康效益。
+3. 健康飲食計劃應根據個體需求制定，而非遵循統一標準。
+4. 適當的恢復對於運動效果的重要性。
+
+### 問題原因
+- 标淮化的健康管理方法（如固定的飲食和運動計劃）無法滿足所有人的健康需求。
+- 現代生活方式中健康知識的缺失導致人們依賴藥物而非主動健康管理。
+- 市場上充斥著不健康的飲料選擇，如含糖饮料，影響公共健康。
+
+### 解決方法
+1. 根據個人身體類型制定個體化的健康管理計劃。
+2. 通過酮症等自然機制來促進脂肪燃燒和整體健康。
+3. 強調適當的運動後恢復，避免过度訓練。
+4. 提供簡單易行的健康知識，幫助人們實現主動健康管理。
+
+### 健康建議
+1. 選擇健康的飲食計劃，如高酮飲食，以促進 fat burning。
+2. 減少攝入不健康的飲料，如含糖饮料，選擇更健康的替代品（如有機汁）。
+3. 親自管理健康，了解個人需求，避免過度依賴藥物。
+4. 堅持適當的運動並注意恢復，以提高健康效果。
+
+### 結論
+- 個體化的健康管理是實現整體健康的關鍵。
+- 需要填補健康知識的缺失，提升公眾的健康意識。
+- 科學的生活方式管理可以有效預防和改善健康問題。
 </details>
 
 <details>
-<summary>610. Keto Zucchini Goat Cheese Rolls Recipe – Dr.Berg</summary><br>
+<summary>610. [2016-12-15] Keto Zucchini Goat Cheese Rolls Recipe – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Y4m8-AqB-tY" target="_blank">
     <img src="https://img.youtube.com/vi/Y4m8-AqB-tY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 文章介紹了一款以西葫蘆為主要食材的食譜：**西葫蘆捲（Zucchini Roll）**。  
 
+---
+
+### 主要觀念  
+1. 西葫蘆本身味道清淡，需透過調味提升風味。  
+2. 食譜中使用了**香草、山羊奶酪和 каперсы**來增加風味層次。  
+3. 西葫蘆捲可作為點心、開胃菜或主餐配菜，具備多樣化的食用方式。  
+
+---
+
+### 問題原因  
+- 西葫蘆的 bland（清淡）特性可能使其在單調口味下缺乏吸引力。  
+
+---
+
+### 解決方法  
+- 使用香草、山羊奶酪和 каперсы 等調味料來提升西葫蘆的風味，使整道料理更加豐富多樣。  
+
+---
+
+### 健康建議  
+1. 西葫蘆富含膳食纖維和維生素，適合健康飲食。  
+2. 山羊奶酪低脂且富含蛋白質，提供良好的營養均衡。  
+3. 配合其他食材如魚類，可構建均衡的餐點。  
+
+---
+
+### 結論  
+- 西葫蘆捲是一道兼具風味和健康的料理，適合各種場合食用。
 </details>
 
 <details>

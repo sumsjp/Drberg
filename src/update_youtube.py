@@ -146,8 +146,7 @@ def download_script(df):
                     df.loc[idx, 'date'] = formatted_date
                     # 更新 CSV 檔案
                     df.to_csv(csv_file, index=False)
-                success = True
-                                                   
+                success = True                                                   
         except Exception as e:
             print(f"❌ 下載失敗 {idx}:{video_id}: {str(e)}")
         
@@ -372,11 +371,6 @@ def email_notify(new_df):
                 # 將 Markdown 轉換為 HTML
                 html_content = markdown.markdown(summary_content)
                 
-                # 建立郵件內容
-                msg = MIMEMultipart('alternative')
-                msg['Subject'] = f"Dr. Eric Berg: {video['title']}"
-                msg['From'] = sender_email
-                
                 # HTML 模板
                 html_template = f"""
                 <html>
@@ -389,12 +383,15 @@ def email_notify(new_df):
                 </html>
                 """
                 
-                # 加入 HTML 內容
-                msg.attach(MIMEText(html_template, 'html'))
-                
                 # 發送給每個收件者
                 for receiver in receiver_emails:
+                    # 為每個收件者建立新的郵件物件
+                    msg = MIMEMultipart('alternative')
+                    msg['Subject'] = f"Dr. Eric Berg: {video['title']}"
+                    msg['From'] = sender_email
                     msg['To'] = receiver
+                    msg.attach(MIMEText(html_template, 'html'))
+                    
                     try:
                         server.send_message(msg)
                         print(f"✅ 已發送通知給 {receiver}: {video['title']}")
