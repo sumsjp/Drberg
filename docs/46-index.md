@@ -1,5 +1,5 @@
 <details>
-<summary>4700. [2024-10-11] Fix Your Gut with ONE Microbe</summary>
+<summary>4700. [2024-10-11] Fix Your Gut with ONE Microbe</summary><br>
 
 <a href="https://www.youtube.com/watch?v=nZV1oYv5Ddo" target="_blank">
     <img src="https://img.youtube.com/vi/nZV1oYv5Ddo/maxresdefault.jpg" width="200">
@@ -56,7 +56,7 @@
 </details>
 
 <details>
-<summary>4699. [2024-10-07] Natural BOMB 🧄🧅 for Cleansing the Liver and Blood Vessels: 2 Powerful Ingredients</summary>
+<summary>4699. [2024-10-07] Natural BOMB 🧄🧅 for Cleansing the Liver and Blood Vessels: 2 Powerful Ingredients</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_zHW-dDl3tM" target="_blank">
     <img src="https://img.youtube.com/vi/_zHW-dDl3tM/maxresdefault.jpg" width="200">
@@ -109,7 +109,7 @@
 </details>
 
 <details>
-<summary>4698. [2024-10-06] This 1 Thing Can Replace Our Entire Medical System</summary>
+<summary>4698. [2024-10-06] This 1 Thing Can Replace Our Entire Medical System</summary><br>
 
 <a href="https://www.youtube.com/watch?v=gKviXbX8xGM" target="_blank">
     <img src="https://img.youtube.com/vi/gKviXbX8xGM/maxresdefault.jpg" width="200">
@@ -171,7 +171,7 @@
 </details>
 
 <details>
-<summary>4697. [2024-10-05] DRINK 1 CUP Turmeric Water for Amazing Benefits</summary>
+<summary>4697. [2024-10-05] DRINK 1 CUP Turmeric Water for Amazing Benefits</summary><br>
 
 <a href="https://www.youtube.com/watch?v=0QftLonhnuk" target="_blank">
     <img src="https://img.youtube.com/vi/0QftLonhnuk/maxresdefault.jpg" width="200">
@@ -236,7 +236,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 </details>
 
 <details>
-<summary>4696. [2024-10-04] The #1 Blood Test Most Overlooked for Hair Loss</summary>
+<summary>4696. [2024-10-04] The #1 Blood Test Most Overlooked for Hair Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=BlnOEpsPt1A" target="_blank">
     <img src="https://img.youtube.com/vi/BlnOEpsPt1A/maxresdefault.jpg" width="200">
@@ -311,7 +311,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 </details>
 
 <details>
-<summary>4695. [2024-09-30] 14 Bad Habits That Can Destroy Your Heart</summary>
+<summary>4695. [2024-09-30] 14 Bad Habits That Can Destroy Your Heart</summary><br>
 
 <a href="https://www.youtube.com/watch?v=AtBElcAs6H0" target="_blank">
     <img src="https://img.youtube.com/vi/AtBElcAs6H0/maxresdefault.jpg" width="200">
@@ -372,7 +372,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 </details>
 
 <details>
-<summary>4694. [2024-09-29] This Can Be DEADLY!</summary>
+<summary>4694. [2024-09-29] This Can Be DEADLY!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=JNxZiBTWxSU" target="_blank">
     <img src="https://img.youtube.com/vi/JNxZiBTWxSU/maxresdefault.jpg" width="200">
@@ -467,7 +467,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 </details>
 
 <details>
-<summary>4693. [2024-09-28] 7 Foods That Destroy the Kidneys</summary>
+<summary>4693. [2024-09-28] 7 Foods That Destroy the Kidneys</summary><br>
 
 <a href="https://www.youtube.com/watch?v=GcRNVf9XU-M" target="_blank">
     <img src="https://img.youtube.com/vi/GcRNVf9XU-M/maxresdefault.jpg" width="200">
@@ -503,7 +503,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 </details>
 
 <details>
-<summary>4692. [2024-09-27] The Benefits of Drinking Clove Water at Night</summary>
+<summary>4692. [2024-09-27] The Benefits of Drinking Clove Water at Night</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XEcssz8NOhg" target="_blank">
     <img src="https://img.youtube.com/vi/XEcssz8NOhg/maxresdefault.jpg" width="200">
@@ -569,7 +569,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 </details>
 
 <details>
-<summary>4691. [2024-09-23] The 7 Warning Signs of a Zinc Deficiency</summary>
+<summary>4691. [2024-09-23] The 7 Warning Signs of a Zinc Deficiency</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kUmXIXsMi0g" target="_blank">
     <img src="https://img.youtube.com/vi/kUmXIXsMi0g/maxresdefault.jpg" width="200">
@@ -621,7 +621,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 </details>
 
 <details>
-<summary>4690. [2024-09-22] I Will Get Attacked for This...</summary>
+<summary>4690. [2024-09-22] I Will Get Attacked for This...</summary><br>
 
 <a href="https://www.youtube.com/watch?v=OiU1B6VNDvQ" target="_blank">
     <img src="https://img.youtube.com/vi/OiU1B6VNDvQ/maxresdefault.jpg" width="200">
@@ -677,7 +677,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 </details>
 
 <details>
-<summary>4689. [2024-09-21] Research Reveals: This Repairs Nerve Damage</summary>
+<summary>4689. [2024-09-21] Research Reveals: This Repairs Nerve Damage</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8OSlBn6qRqs" target="_blank">
     <img src="https://img.youtube.com/vi/8OSlBn6qRqs/maxresdefault.jpg" width="200">
@@ -728,7 +728,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 </details>
 
 <details>
-<summary>4688. [2024-09-20] The BEST and WORST Forms of Magnesium</summary>
+<summary>4688. [2024-09-20] The BEST and WORST Forms of Magnesium</summary><br>
 
 <a href="https://www.youtube.com/watch?v=7lSQ2hnycLg" target="_blank">
     <img src="https://img.youtube.com/vi/7lSQ2hnycLg/maxresdefault.jpg" width="200">
@@ -778,7 +778,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 </details>
 
 <details>
-<summary>4687. [2024-09-16] This Can DESTROY Your Body</summary>
+<summary>4687. [2024-09-16] This Can DESTROY Your Body</summary><br>
 
 <a href="https://www.youtube.com/watch?v=t0jf5NRwKBM" target="_blank">
     <img src="https://img.youtube.com/vi/t0jf5NRwKBM/maxresdefault.jpg" width="200">
@@ -825,7 +825,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 </details>
 
 <details>
-<summary>4686. [2024-09-15] Get ALL Your Vitamins in this MEAL</summary>
+<summary>4686. [2024-09-15] Get ALL Your Vitamins in this MEAL</summary><br>
 
 <a href="https://www.youtube.com/watch?v=r5_NvTvJBY4" target="_blank">
     <img src="https://img.youtube.com/vi/r5_NvTvJBY4/maxresdefault.jpg" width="200">
@@ -880,7 +880,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 </details>
 
 <details>
-<summary>4685. [2024-09-14] You Will NEVER Eat Bread Again after Watching This</summary>
+<summary>4685. [2024-09-14] You Will NEVER Eat Bread Again after Watching This</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3Mo1F8ce1yY" target="_blank">
     <img src="https://img.youtube.com/vi/3Mo1F8ce1yY/maxresdefault.jpg" width="200">
@@ -944,7 +944,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 </details>
 
 <details>
-<summary>4684. [2024-09-13] I used to look like this…</summary>
+<summary>4684. [2024-09-13] I used to look like this…</summary><br>
 
 <a href="https://www.youtube.com/watch?v=JmCBAkmJ-rs" target="_blank">
     <img src="https://img.youtube.com/vi/JmCBAkmJ-rs/maxresdefault.jpg" width="200">
@@ -1018,7 +1018,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 </details>
 
 <details>
-<summary>4683. [2024-09-09] You Will NEVER Eat Sugar Again after This Video</summary>
+<summary>4683. [2024-09-09] You Will NEVER Eat Sugar Again after This Video</summary><br>
 
 <a href="https://www.youtube.com/watch?v=tpo_Iv4EN98" target="_blank">
     <img src="https://img.youtube.com/vi/tpo_Iv4EN98/maxresdefault.jpg" width="200">
@@ -1057,7 +1057,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 </details>
 
 <details>
-<summary>4682. [2024-09-08] 11 Bizarre Symptoms of Vitamin D Deficiency (You NEED to Know)</summary>
+<summary>4682. [2024-09-08] 11 Bizarre Symptoms of Vitamin D Deficiency (You NEED to Know)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=AXq2ZdXXFCU" target="_blank">
     <img src="https://img.youtube.com/vi/AXq2ZdXXFCU/maxresdefault.jpg" width="200">
@@ -1099,7 +1099,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 </details>
 
 <details>
-<summary>4681. [2024-09-07] 7 Bad Habits That Ruins Your Liver</summary>
+<summary>4681. [2024-09-07] 7 Bad Habits That Ruins Your Liver</summary><br>
 
 <a href="https://www.youtube.com/watch?v=4t4_ehyKDsU" target="_blank">
     <img src="https://img.youtube.com/vi/4t4_ehyKDsU/maxresdefault.jpg" width="200">
@@ -1167,7 +1167,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 </details>
 
 <details>
-<summary>4680. [2024-09-06] You Will Never Get High Blood Pressure after Watching This Video</summary>
+<summary>4680. [2024-09-06] You Will Never Get High Blood Pressure after Watching This Video</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xUu0vqcP7fE" target="_blank">
     <img src="https://img.youtube.com/vi/xUu0vqcP7fE/maxresdefault.jpg" width="200">
@@ -1213,7 +1213,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 </details>
 
 <details>
-<summary>4679. [2024-09-02] 7 Early Signs of Liver Damage</summary>
+<summary>4679. [2024-09-02] 7 Early Signs of Liver Damage</summary><br>
 
 <a href="https://www.youtube.com/watch?v=QTlp6VTu4S8" target="_blank">
     <img src="https://img.youtube.com/vi/QTlp6VTu4S8/maxresdefault.jpg" width="200">
@@ -1272,7 +1272,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 </details>
 
 <details>
-<summary>4678. [2024-09-01] These Foods Are Basically Poison</summary>
+<summary>4678. [2024-09-01] These Foods Are Basically Poison</summary><br>
 
 <a href="https://www.youtube.com/watch?v=wBG8wWvModg" target="_blank">
     <img src="https://img.youtube.com/vi/wBG8wWvModg/maxresdefault.jpg" width="200">
@@ -1313,7 +1313,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 </details>
 
 <details>
-<summary>4677. [2024-08-31] I Get 20 Tick Bites Every Week (Lyme Disease)</summary>
+<summary>4677. [2024-08-31] I Get 20 Tick Bites Every Week (Lyme Disease)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5KSi-yCa4hE" target="_blank">
     <img src="https://img.youtube.com/vi/5KSi-yCa4hE/maxresdefault.jpg" width="200">
@@ -1381,7 +1381,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 </details>
 
 <details>
-<summary>4676. [2024-08-30] NEVER IGNORE These Warning Signs!</summary>
+<summary>4676. [2024-08-30] NEVER IGNORE These Warning Signs!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=cojfbFPi9-A" target="_blank">
     <img src="https://img.youtube.com/vi/cojfbFPi9-A/maxresdefault.jpg" width="200">
@@ -1451,7 +1451,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 </details>
 
 <details>
-<summary>4675. [2024-08-26] #1 Vitamin to Eliminate Swollen Legs and Ankles</summary>
+<summary>4675. [2024-08-26] #1 Vitamin to Eliminate Swollen Legs and Ankles</summary><br>
 
 <a href="https://www.youtube.com/watch?v=TBSGhpG8yfE" target="_blank">
     <img src="https://img.youtube.com/vi/TBSGhpG8yfE/maxresdefault.jpg" width="200">
@@ -1486,7 +1486,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 </details>
 
 <details>
-<summary>4674. [2024-08-25] The Vitamin Deficiency that is KILLING Your Sciatica Nerve</summary>
+<summary>4674. [2024-08-25] The Vitamin Deficiency that is KILLING Your Sciatica Nerve</summary><br>
 
 <a href="https://www.youtube.com/watch?v=qY8ypQGEhCA" target="_blank">
     <img src="https://img.youtube.com/vi/qY8ypQGEhCA/maxresdefault.jpg" width="200">
@@ -1550,7 +1550,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 </details>
 
 <details>
-<summary>4673. [2024-08-24] Fastest Way to Rid Your DOUBLE CHIN (Turkey Neck)</summary>
+<summary>4673. [2024-08-24] Fastest Way to Rid Your DOUBLE CHIN (Turkey Neck)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=GFE8qfwN23U" target="_blank">
     <img src="https://img.youtube.com/vi/GFE8qfwN23U/maxresdefault.jpg" width="200">
@@ -1609,7 +1609,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 </details>
 
 <details>
-<summary>4672. [2024-08-23] 4 Common Ingredients That Will Kill You!</summary>
+<summary>4672. [2024-08-23] 4 Common Ingredients That Will Kill You!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=NdQfUJRY6SQ" target="_blank">
     <img src="https://img.youtube.com/vi/NdQfUJRY6SQ/maxresdefault.jpg" width="200">
@@ -1656,7 +1656,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 </details>
 
 <details>
-<summary>4671. [2024-08-19] These Mistakes Are Super Unhealthy!</summary>
+<summary>4671. [2024-08-19] These Mistakes Are Super Unhealthy!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_JrqyBwy_eo" target="_blank">
     <img src="https://img.youtube.com/vi/_JrqyBwy_eo/maxresdefault.jpg" width="200">
@@ -1757,7 +1757,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 </details>
 
 <details>
-<summary>4670. [2024-08-18] I Took Omega-3 Fish Oil for 30 Days. Here's What Happened.</summary>
+<summary>4670. [2024-08-18] I Took Omega-3 Fish Oil for 30 Days. Here's What Happened.</summary><br>
 
 <a href="https://www.youtube.com/watch?v=0aj0UTxmmv4" target="_blank">
     <img src="https://img.youtube.com/vi/0aj0UTxmmv4/maxresdefault.jpg" width="200">
@@ -1841,7 +1841,7 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
 </details>
 
 <details>
-<summary>4669. [2024-08-17] This Is a DEADLY Combination</summary>
+<summary>4669. [2024-08-17] This Is a DEADLY Combination</summary><br>
 
 <a href="https://www.youtube.com/watch?v=pdKgMQI_JoI" target="_blank">
     <img src="https://img.youtube.com/vi/pdKgMQI_JoI/maxresdefault.jpg" width="200">
@@ -1937,7 +1937,7 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
 </details>
 
 <details>
-<summary>4668. [2024-08-16] Don’t IGNORE These Nighttime Signs of Diabetes</summary>
+<summary>4668. [2024-08-16] Don’t IGNORE These Nighttime Signs of Diabetes</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xpH45c2BrMM" target="_blank">
     <img src="https://img.youtube.com/vi/xpH45c2BrMM/maxresdefault.jpg" width="200">
@@ -1981,7 +1981,7 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
 </details>
 
 <details>
-<summary>4667. [2024-08-12] You Will NEVER Eat Sugar Again after This!</summary>
+<summary>4667. [2024-08-12] You Will NEVER Eat Sugar Again after This!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=WGLgSAwuygo" target="_blank">
     <img src="https://img.youtube.com/vi/WGLgSAwuygo/maxresdefault.jpg" width="200">
@@ -2033,7 +2033,7 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
 </details>
 
 <details>
-<summary>4666. [2024-08-11] The #1 Deficiency behind Aging Spots</summary>
+<summary>4666. [2024-08-11] The #1 Deficiency behind Aging Spots</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vJu7v9JtD-o" target="_blank">
     <img src="https://img.youtube.com/vi/vJu7v9JtD-o/maxresdefault.jpg" width="200">
@@ -2105,7 +2105,7 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
 </details>
 
 <details>
-<summary>4665. [2024-08-10] The Worst Weight-Loss Diet</summary>
+<summary>4665. [2024-08-10] The Worst Weight-Loss Diet</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ko5ThlWuYaw" target="_blank">
     <img src="https://img.youtube.com/vi/ko5ThlWuYaw/maxresdefault.jpg" width="200">
@@ -2144,7 +2144,7 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
 </details>
 
 <details>
-<summary>4664. [2024-08-09] 7 Fruits That Destroy Cancer</summary>
+<summary>4664. [2024-08-09] 7 Fruits That Destroy Cancer</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xVgfijICfrI" target="_blank">
     <img src="https://img.youtube.com/vi/xVgfijICfrI/maxresdefault.jpg" width="200">
@@ -2206,7 +2206,7 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
 </details>
 
 <details>
-<summary>4663. [2024-08-05] Correct Your Posture in Just Minutes!</summary>
+<summary>4663. [2024-08-05] Correct Your Posture in Just Minutes!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=PQnS87AnnR0" target="_blank">
     <img src="https://img.youtube.com/vi/PQnS87AnnR0/maxresdefault.jpg" width="200">
@@ -2240,7 +2240,7 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
 </details>
 
 <details>
-<summary>4662. [2024-08-04] This Fat Is SUPER DANGEROUS</summary>
+<summary>4662. [2024-08-04] This Fat Is SUPER DANGEROUS</summary><br>
 
 <a href="https://www.youtube.com/watch?v=O3EWt8jyX2E" target="_blank">
     <img src="https://img.youtube.com/vi/O3EWt8jyX2E/maxresdefault.jpg" width="200">
@@ -2327,7 +2327,7 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
 </details>
 
 <details>
-<summary>4661. [2024-08-03] Protein Bars Are WORSE than Candy Bars!!!</summary>
+<summary>4661. [2024-08-03] Protein Bars Are WORSE than Candy Bars!!!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3PYi3yIiMig" target="_blank">
     <img src="https://img.youtube.com/vi/3PYi3yIiMig/maxresdefault.jpg" width="200">
@@ -2405,7 +2405,7 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
 </details>
 
 <details>
-<summary>4660. [2024-07-29] 5 Foods That Improve Sleep Quality</summary>
+<summary>4660. [2024-07-29] 5 Foods That Improve Sleep Quality</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Xs1i6QzoB6o" target="_blank">
     <img src="https://img.youtube.com/vi/Xs1i6QzoB6o/maxresdefault.jpg" width="200">
@@ -2487,7 +2487,7 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
 </details>
 
 <details>
-<summary>4659. [2024-07-27] How Grocery Stores SCAM YOU!!</summary>
+<summary>4659. [2024-07-27] How Grocery Stores SCAM YOU!!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=MuVMHPuXWAQ" target="_blank">
     <img src="https://img.youtube.com/vi/MuVMHPuXWAQ/maxresdefault.jpg" width="200">
@@ -2528,7 +2528,7 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
 </details>
 
 <details>
-<summary>4658. [2024-07-26] I Might Get Banned for This...</summary>
+<summary>4658. [2024-07-26] I Might Get Banned for This...</summary><br>
 
 <a href="https://www.youtube.com/watch?v=K_C3RIudfFw" target="_blank">
     <img src="https://img.youtube.com/vi/K_C3RIudfFw/maxresdefault.jpg" width="200">
@@ -2618,7 +2618,7 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
 </details>
 
 <details>
-<summary>4657. [2024-07-22] The Dark Side of the Fast Food Industry</summary>
+<summary>4657. [2024-07-22] The Dark Side of the Fast Food Industry</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KPcb9zNRC9I" target="_blank">
     <img src="https://img.youtube.com/vi/KPcb9zNRC9I/maxresdefault.jpg" width="200">
@@ -2687,7 +2687,7 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
 </details>
 
 <details>
-<summary>4656. [2024-07-21] Zero Sugar Foods Have TONS of Sugar: WHAT???</summary>
+<summary>4656. [2024-07-21] Zero Sugar Foods Have TONS of Sugar: WHAT???</summary><br>
 
 <a href="https://www.youtube.com/watch?v=U1PQy1DeHEk" target="_blank">
     <img src="https://img.youtube.com/vi/U1PQy1DeHEk/maxresdefault.jpg" width="200">
@@ -2735,7 +2735,7 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
 </details>
 
 <details>
-<summary>4655. [2024-07-20] 7 Foods to Avoid</summary>
+<summary>4655. [2024-07-20] 7 Foods to Avoid</summary><br>
 
 <a href="https://www.youtube.com/watch?v=tJG0kYFUIyE" target="_blank">
     <img src="https://img.youtube.com/vi/tJG0kYFUIyE/maxresdefault.jpg" width="200">
@@ -2774,7 +2774,7 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
 </details>
 
 <details>
-<summary>4654. [2024-07-19] What Happens if You STOP Using Your Cell Phone Before Bed for 14 Days</summary>
+<summary>4654. [2024-07-19] What Happens if You STOP Using Your Cell Phone Before Bed for 14 Days</summary><br>
 
 <a href="https://www.youtube.com/watch?v=CozZ1Rcm55E" target="_blank">
     <img src="https://img.youtube.com/vi/CozZ1Rcm55E/maxresdefault.jpg" width="200">
@@ -2828,7 +2828,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 </details>
 
 <details>
-<summary>4653. [2024-07-15] VITAMIN D IS WORTHLESS</summary>
+<summary>4653. [2024-07-15] VITAMIN D IS WORTHLESS</summary><br>
 
 <a href="https://www.youtube.com/watch?v=EWZrSK4xtXs" target="_blank">
     <img src="https://img.youtube.com/vi/EWZrSK4xtXs/maxresdefault.jpg" width="200">
@@ -2880,7 +2880,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 </details>
 
 <details>
-<summary>4652. [2024-07-14] Your Body Is BEGGING for Vitamin D!!</summary>
+<summary>4652. [2024-07-14] Your Body Is BEGGING for Vitamin D!!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=QAQ7r6jLEww" target="_blank">
     <img src="https://img.youtube.com/vi/QAQ7r6jLEww/maxresdefault.jpg" width="200">
@@ -2949,7 +2949,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 </details>
 
 <details>
-<summary>4651. [2024-07-13] The Most Powerful Group Behind What You Eat</summary>
+<summary>4651. [2024-07-13] The Most Powerful Group Behind What You Eat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=i4jfBoOXNs8" target="_blank">
     <img src="https://img.youtube.com/vi/i4jfBoOXNs8/maxresdefault.jpg" width="200">
@@ -2996,7 +2996,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 </details>
 
 <details>
-<summary>4650. [2024-07-12] The MOST Dangerous Ice Cream</summary>
+<summary>4650. [2024-07-12] The MOST Dangerous Ice Cream</summary><br>
 
 <a href="https://www.youtube.com/watch?v=q7xtsTM4ysw" target="_blank">
     <img src="https://img.youtube.com/vi/q7xtsTM4ysw/maxresdefault.jpg" width="200">
@@ -3051,7 +3051,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 </details>
 
 <details>
-<summary>4649. [2024-07-08] The Worst Ingredient in the World: Interview with Dr. Chris Knobbe</summary>
+<summary>4649. [2024-07-08] The Worst Ingredient in the World: Interview with Dr. Chris Knobbe</summary><br>
 
 <a href="https://www.youtube.com/watch?v=MuYvGyNXvPk" target="_blank">
     <img src="https://img.youtube.com/vi/MuYvGyNXvPk/maxresdefault.jpg" width="200">
@@ -3099,7 +3099,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 </details>
 
 <details>
-<summary>4648. [2024-07-07] 7 Stupid Health Mistakes</summary>
+<summary>4648. [2024-07-07] 7 Stupid Health Mistakes</summary><br>
 
 <a href="https://www.youtube.com/watch?v=dS3owmZ_QnY" target="_blank">
     <img src="https://img.youtube.com/vi/dS3owmZ_QnY/maxresdefault.jpg" width="200">
@@ -3146,7 +3146,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 </details>
 
 <details>
-<summary>4647. [2024-07-06] Dry Fasting Causes 3X More Fat Loss</summary>
+<summary>4647. [2024-07-06] Dry Fasting Causes 3X More Fat Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=WCyY3OmdJCg" target="_blank">
     <img src="https://img.youtube.com/vi/WCyY3OmdJCg/maxresdefault.jpg" width="200">
@@ -3211,7 +3211,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 </details>
 
 <details>
-<summary>4646. [2024-07-05] I Had NO Idea This Spiked Blood Sugar</summary>
+<summary>4646. [2024-07-05] I Had NO Idea This Spiked Blood Sugar</summary><br>
 
 <a href="https://www.youtube.com/watch?v=znFnEVb-eZ4" target="_blank">
     <img src="https://img.youtube.com/vi/znFnEVb-eZ4/maxresdefault.jpg" width="200">
@@ -3248,7 +3248,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 </details>
 
 <details>
-<summary>4645. [2024-07-01] REAL Reason You’re Not Losing Weight</summary>
+<summary>4645. [2024-07-01] REAL Reason You’re Not Losing Weight</summary><br>
 
 <a href="https://www.youtube.com/watch?v=lFbFEzsKbzc" target="_blank">
     <img src="https://img.youtube.com/vi/lFbFEzsKbzc/maxresdefault.jpg" width="200">
@@ -3310,7 +3310,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 </details>
 
 <details>
-<summary>4644. [2024-06-30] This Can't Be Real...Magic</summary>
+<summary>4644. [2024-06-30] This Can't Be Real...Magic</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5f5JF2VXpWQ" target="_blank">
     <img src="https://img.youtube.com/vi/5f5JF2VXpWQ/maxresdefault.jpg" width="200">
@@ -3347,7 +3347,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 </details>
 
 <details>
-<summary>4643. [2024-06-29] Milk Can Kill You?!</summary>
+<summary>4643. [2024-06-29] Milk Can Kill You?!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kEs2epLMq4Y" target="_blank">
     <img src="https://img.youtube.com/vi/kEs2epLMq4Y/maxresdefault.jpg" width="200">
@@ -3397,7 +3397,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 </details>
 
 <details>
-<summary>4642. [2024-06-28] Eat This for HASHIMOTO'S (Slow Thyroid)</summary>
+<summary>4642. [2024-06-28] Eat This for HASHIMOTO'S (Slow Thyroid)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8iARMPdrblY" target="_blank">
     <img src="https://img.youtube.com/vi/8iARMPdrblY/maxresdefault.jpg" width="200">
@@ -3452,7 +3452,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 </details>
 
 <details>
-<summary>4641. [2024-06-24] 6 Ways to RUIN Your Fasting Benefits</summary>
+<summary>4641. [2024-06-24] 6 Ways to RUIN Your Fasting Benefits</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5wXcNJWrsmQ" target="_blank">
     <img src="https://img.youtube.com/vi/5wXcNJWrsmQ/maxresdefault.jpg" width="200">
@@ -3550,7 +3550,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 </details>
 
 <details>
-<summary>4640. [2024-06-23] 6 DEVASTATING Vitamin Deficiencies</summary>
+<summary>4640. [2024-06-23] 6 DEVASTATING Vitamin Deficiencies</summary><br>
 
 <a href="https://www.youtube.com/watch?v=nEQi-jsRFK4" target="_blank">
     <img src="https://img.youtube.com/vi/nEQi-jsRFK4/maxresdefault.jpg" width="200">
@@ -3629,7 +3629,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 </details>
 
 <details>
-<summary>4639. [2024-06-22] You Need to Take More of This</summary>
+<summary>4639. [2024-06-22] You Need to Take More of This</summary><br>
 
 <a href="https://www.youtube.com/watch?v=rP7_UePVK3Q" target="_blank">
     <img src="https://img.youtube.com/vi/rP7_UePVK3Q/maxresdefault.jpg" width="200">
@@ -3691,7 +3691,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 </details>
 
 <details>
-<summary>4638. [2024-06-21] How To CLEAN Your LIVER in 3 Days!</summary>
+<summary>4638. [2024-06-21] How To CLEAN Your LIVER in 3 Days!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=4Wd5a4veej8" target="_blank">
     <img src="https://img.youtube.com/vi/4Wd5a4veej8/maxresdefault.jpg" width="200">
@@ -3759,7 +3759,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 </details>
 
 <details>
-<summary>4637. [2024-06-17] Everyone IGNORES This Part of Their Body</summary>
+<summary>4637. [2024-06-17] Everyone IGNORES This Part of Their Body</summary><br>
 
 <a href="https://www.youtube.com/watch?v=IqGowurcVPs" target="_blank">
     <img src="https://img.youtube.com/vi/IqGowurcVPs/maxresdefault.jpg" width="200">
@@ -3803,7 +3803,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 </details>
 
 <details>
-<summary>4636. [2024-06-16] Your Waist Size Is IMPORTANT!</summary>
+<summary>4636. [2024-06-16] Your Waist Size Is IMPORTANT!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_CqXHYgKKtY" target="_blank">
     <img src="https://img.youtube.com/vi/_CqXHYgKKtY/maxresdefault.jpg" width="200">
@@ -3840,7 +3840,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 </details>
 
 <details>
-<summary>4635. [2024-06-15] DON'T DO THIS IF YOU'RE OVER 50!!!</summary>
+<summary>4635. [2024-06-15] DON'T DO THIS IF YOU'RE OVER 50!!!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=wCNNDojIDto" target="_blank">
     <img src="https://img.youtube.com/vi/wCNNDojIDto/maxresdefault.jpg" width="200">
@@ -3905,7 +3905,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 </details>
 
 <details>
-<summary>4634. [2024-06-14] What BLOATING Really Means</summary>
+<summary>4634. [2024-06-14] What BLOATING Really Means</summary><br>
 
 <a href="https://www.youtube.com/watch?v=CrY61zNEL_g" target="_blank">
     <img src="https://img.youtube.com/vi/CrY61zNEL_g/maxresdefault.jpg" width="200">
@@ -3961,7 +3961,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 </details>
 
 <details>
-<summary>4633. [2024-06-10] The BIGGEST LIE about Food</summary>
+<summary>4633. [2024-06-10] The BIGGEST LIE about Food</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XbKqWWHE-zw" target="_blank">
     <img src="https://img.youtube.com/vi/XbKqWWHE-zw/maxresdefault.jpg" width="200">
@@ -4015,7 +4015,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 </details>
 
 <details>
-<summary>4632. [2024-06-09] Aneurysms: The Silent Killer</summary>
+<summary>4632. [2024-06-09] Aneurysms: The Silent Killer</summary><br>
 
 <a href="https://www.youtube.com/watch?v=rsl0Gsqgf94" target="_blank">
     <img src="https://img.youtube.com/vi/rsl0Gsqgf94/maxresdefault.jpg" width="200">
@@ -4066,7 +4066,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 </details>
 
 <details>
-<summary>4631. [2024-06-08] 1 in 4 People Have This!!</summary>
+<summary>4631. [2024-06-08] 1 in 4 People Have This!!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=rrnhb2-bQKY" target="_blank">
     <img src="https://img.youtube.com/vi/rrnhb2-bQKY/maxresdefault.jpg" width="200">
@@ -4112,7 +4112,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 </details>
 
 <details>
-<summary>4630. [2024-06-07] Why You Can't SLEEP! Simple Fix</summary>
+<summary>4630. [2024-06-07] Why You Can't SLEEP! Simple Fix</summary><br>
 
 <a href="https://www.youtube.com/watch?v=pf_z1OSYxmk" target="_blank">
     <img src="https://img.youtube.com/vi/pf_z1OSYxmk/maxresdefault.jpg" width="200">
@@ -4164,7 +4164,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 </details>
 
 <details>
-<summary>4629. [2024-06-05] STOP Aging and Look YOUNGER!</summary>
+<summary>4629. [2024-06-05] STOP Aging and Look YOUNGER!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Rra9FJ2lURI" target="_blank">
     <img src="https://img.youtube.com/vi/Rra9FJ2lURI/maxresdefault.jpg" width="200">
@@ -4218,7 +4218,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 </details>
 
 <details>
-<summary>4628. [2024-06-04] YOUR BODY IS TRYING TO WARN YOU!!</summary>
+<summary>4628. [2024-06-04] YOUR BODY IS TRYING TO WARN YOU!!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=yBOrKcsVbOs" target="_blank">
     <img src="https://img.youtube.com/vi/yBOrKcsVbOs/maxresdefault.jpg" width="200">
@@ -4304,7 +4304,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 </details>
 
 <details>
-<summary>4627. [2024-06-03] Do Chia Seeds Have ANY Benefits?</summary>
+<summary>4627. [2024-06-03] Do Chia Seeds Have ANY Benefits?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=oDHqTnjBM0Y" target="_blank">
     <img src="https://img.youtube.com/vi/oDHqTnjBM0Y/maxresdefault.jpg" width="200">
@@ -4384,7 +4384,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 </details>
 
 <details>
-<summary>4626. [2024-06-01] How To RESTORE Hearing Loss FAST!</summary>
+<summary>4626. [2024-06-01] How To RESTORE Hearing Loss FAST!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=YC7b3EfnmSw" target="_blank">
     <img src="https://img.youtube.com/vi/YC7b3EfnmSw/maxresdefault.jpg" width="200">
@@ -4428,7 +4428,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 </details>
 
 <details>
-<summary>4625. [2024-05-31] What Exercise Makes You LOSE WEIGHT?!</summary>
+<summary>4625. [2024-05-31] What Exercise Makes You LOSE WEIGHT?!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=1CV8B82r5Sg" target="_blank">
     <img src="https://img.youtube.com/vi/1CV8B82r5Sg/maxresdefault.jpg" width="200">
@@ -4524,7 +4524,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 </details>
 
 <details>
-<summary>4624. [2024-05-30] Why Sea Moss Is Going VIRAL!</summary>
+<summary>4624. [2024-05-30] Why Sea Moss Is Going VIRAL!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Us6oOuI-S7Y" target="_blank">
     <img src="https://img.youtube.com/vi/Us6oOuI-S7Y/maxresdefault.jpg" width="200">
@@ -4590,7 +4590,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 </details>
 
 <details>
-<summary>4623. [2024-05-29] Is This Why You’re Stressed or Not Sleeping?</summary>
+<summary>4623. [2024-05-29] Is This Why You’re Stressed or Not Sleeping?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HeQffcNyo2w" target="_blank">
     <img src="https://img.youtube.com/vi/HeQffcNyo2w/maxresdefault.jpg" width="200">
@@ -4636,7 +4636,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 </details>
 
 <details>
-<summary>4622. [2024-05-28] Watch This If You Can't Go Number 2</summary>
+<summary>4622. [2024-05-28] Watch This If You Can't Go Number 2</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3sBFSidJcg0" target="_blank">
     <img src="https://img.youtube.com/vi/3sBFSidJcg0/maxresdefault.jpg" width="200">
@@ -4677,7 +4677,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 </details>
 
 <details>
-<summary>4621. [2024-05-26] The Best Fix for Dry and Wrinkled Skin</summary>
+<summary>4621. [2024-05-26] The Best Fix for Dry and Wrinkled Skin</summary><br>
 
 <a href="https://www.youtube.com/watch?v=gA0p8WkGSCw" target="_blank">
     <img src="https://img.youtube.com/vi/gA0p8WkGSCw/maxresdefault.jpg" width="200">
@@ -4746,7 +4746,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 </details>
 
 <details>
-<summary>4620. [2024-05-25] Do NOT Cook with This!!!</summary>
+<summary>4620. [2024-05-25] Do NOT Cook with This!!!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hmkoFDMAvkc" target="_blank">
     <img src="https://img.youtube.com/vi/hmkoFDMAvkc/maxresdefault.jpg" width="200">
@@ -4800,7 +4800,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 </details>
 
 <details>
-<summary>4619. [2024-05-24] Over 50% of Women Have THIS?!</summary>
+<summary>4619. [2024-05-24] Over 50% of Women Have THIS?!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=YTd9JJw6sc8" target="_blank">
     <img src="https://img.youtube.com/vi/YTd9JJw6sc8/maxresdefault.jpg" width="200">
@@ -4861,7 +4861,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 </details>
 
 <details>
-<summary>4618. [2024-05-23] What Causes Eye Floaters and Dry Eyes?</summary>
+<summary>4618. [2024-05-23] What Causes Eye Floaters and Dry Eyes?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=T9WkRYMfvp8" target="_blank">
     <img src="https://img.youtube.com/vi/T9WkRYMfvp8/maxresdefault.jpg" width="200">
@@ -4940,7 +4940,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 </details>
 
 <details>
-<summary>4617. [2024-05-22] 1 Tablespoon a Day Burns Belly Fat</summary>
+<summary>4617. [2024-05-22] 1 Tablespoon a Day Burns Belly Fat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=WRp_nuoO8FE" target="_blank">
     <img src="https://img.youtube.com/vi/WRp_nuoO8FE/maxresdefault.jpg" width="200">
@@ -5013,7 +5013,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 </details>
 
 <details>
-<summary>4616. [2024-05-21] AVOID Ginger if You Have THESE Problems</summary>
+<summary>4616. [2024-05-21] AVOID Ginger if You Have THESE Problems</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xVHvzOTgUyU" target="_blank">
     <img src="https://img.youtube.com/vi/xVHvzOTgUyU/maxresdefault.jpg" width="200">
@@ -5063,7 +5063,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 </details>
 
 <details>
-<summary>4615. [2024-05-20] Make SURE You're Not Deficient in This!!!</summary>
+<summary>4615. [2024-05-20] Make SURE You're Not Deficient in This!!!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=bIr5LgufkNQ" target="_blank">
     <img src="https://img.youtube.com/vi/bIr5LgufkNQ/maxresdefault.jpg" width="200">
@@ -5121,7 +5121,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 </details>
 
 <details>
-<summary>4614. [2024-05-19] This Vitamin Reverses GLAUCOMA?!</summary>
+<summary>4614. [2024-05-19] This Vitamin Reverses GLAUCOMA?!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=yizGW894YGs" target="_blank">
     <img src="https://img.youtube.com/vi/yizGW894YGs/maxresdefault.jpg" width="200">
@@ -5176,7 +5176,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 </details>
 
 <details>
-<summary>4613. [2024-05-17] This Is One of the WORST Things You Can Eat!</summary>
+<summary>4613. [2024-05-17] This Is One of the WORST Things You Can Eat!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=NJFOF_VEwFs" target="_blank">
     <img src="https://img.youtube.com/vi/NJFOF_VEwFs/maxresdefault.jpg" width="200">
@@ -5223,7 +5223,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 </details>
 
 <details>
-<summary>4612. [2024-05-16] The #1 Deficiency in All Skin Diseases (Dermatitis)</summary>
+<summary>4612. [2024-05-16] The #1 Deficiency in All Skin Diseases (Dermatitis)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kSz53G0ByKM" target="_blank">
     <img src="https://img.youtube.com/vi/kSz53G0ByKM/maxresdefault.jpg" width="200">
@@ -5262,7 +5262,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 </details>
 
 <details>
-<summary>4611. [2024-05-15] 8 Ways to Heal Trauma (Physical) without Medication — Dr. Berg</summary>
+<summary>4611. [2024-05-15] 8 Ways to Heal Trauma (Physical) without Medication — Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fYmq9JMlFRA" target="_blank">
     <img src="https://img.youtube.com/vi/fYmq9JMlFRA/maxresdefault.jpg" width="200">
@@ -5361,7 +5361,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 </details>
 
 <details>
-<summary>4610. [2024-05-14] The Most Dangerous Ingredient in Protein Powder (Mass Gainer)</summary>
+<summary>4610. [2024-05-14] The Most Dangerous Ingredient in Protein Powder (Mass Gainer)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=tlygQAYBZiY" target="_blank">
     <img src="https://img.youtube.com/vi/tlygQAYBZiY/maxresdefault.jpg" width="200">
@@ -5407,7 +5407,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 </details>
 
 <details>
-<summary>4609. [2024-05-13] Lose Arm Fat Quick: BEST TIP</summary>
+<summary>4609. [2024-05-13] Lose Arm Fat Quick: BEST TIP</summary><br>
 
 <a href="https://www.youtube.com/watch?v=2ALt5tgCFgg" target="_blank">
     <img src="https://img.youtube.com/vi/2ALt5tgCFgg/maxresdefault.jpg" width="200">
@@ -5442,7 +5442,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 </details>
 
 <details>
-<summary>4608. [2024-05-12] 7 Signs You're Eating Too Much Sugar</summary>
+<summary>4608. [2024-05-12] 7 Signs You're Eating Too Much Sugar</summary><br>
 
 <a href="https://www.youtube.com/watch?v=a4zXbFp3djA" target="_blank">
     <img src="https://img.youtube.com/vi/a4zXbFp3djA/maxresdefault.jpg" width="200">
@@ -5511,7 +5511,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 </details>
 
 <details>
-<summary>4607. [2024-05-11] Why Do Most Indian Men Have a Protruding Potbelly?</summary>
+<summary>4607. [2024-05-11] Why Do Most Indian Men Have a Protruding Potbelly?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=iOO35cEQXfw" target="_blank">
     <img src="https://img.youtube.com/vi/iOO35cEQXfw/maxresdefault.jpg" width="200">
@@ -5563,7 +5563,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 </details>
 
 <details>
-<summary>4606. [2024-05-10] Americans Consume More of This Than ANY Other Country!!!</summary>
+<summary>4606. [2024-05-10] Americans Consume More of This Than ANY Other Country!!!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Ni1bs_nFIPQ" target="_blank">
     <img src="https://img.youtube.com/vi/Ni1bs_nFIPQ/maxresdefault.jpg" width="200">
@@ -5631,7 +5631,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 </details>
 
 <details>
-<summary>4605. [2024-05-09] Small American Farmers in Serious Crisis: The Back Story</summary>
+<summary>4605. [2024-05-09] Small American Farmers in Serious Crisis: The Back Story</summary><br>
 
 <a href="https://www.youtube.com/watch?v=RpOpgq727tk" target="_blank">
     <img src="https://img.youtube.com/vi/RpOpgq727tk/maxresdefault.jpg" width="200">
@@ -5670,7 +5670,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 </details>
 
 <details>
-<summary>4604. [2024-05-08] The Big Lie about Vitamin D</summary>
+<summary>4604. [2024-05-08] The Big Lie about Vitamin D</summary><br>
 
 <a href="https://www.youtube.com/watch?v=H_U5QRk_Wrc" target="_blank">
     <img src="https://img.youtube.com/vi/H_U5QRk_Wrc/maxresdefault.jpg" width="200">
@@ -5722,7 +5722,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 </details>
 
 <details>
-<summary>4603. [2024-05-07] 57% Of People Have This Problem!!</summary>
+<summary>4603. [2024-05-07] 57% Of People Have This Problem!!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KQsR4sVOfaA" target="_blank">
     <img src="https://img.youtube.com/vi/KQsR4sVOfaA/maxresdefault.jpg" width="200">
@@ -5783,7 +5783,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 </details>
 
 <details>
-<summary>4602. [2024-05-06] 4 Surprising Ways to Speed up Muscle Growth</summary>
+<summary>4602. [2024-05-06] 4 Surprising Ways to Speed up Muscle Growth</summary><br>
 
 <a href="https://www.youtube.com/watch?v=cPDHHIgcwlU" target="_blank">
     <img src="https://img.youtube.com/vi/cPDHHIgcwlU/maxresdefault.jpg" width="200">
@@ -5838,7 +5838,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 </details>
 
 <details>
-<summary>4601. [2024-05-05] How to Dissolve Crystals in the Inner Ear and Get Rid of Vertigo</summary>
+<summary>4601. [2024-05-05] How to Dissolve Crystals in the Inner Ear and Get Rid of Vertigo</summary><br>
 
 <a href="https://www.youtube.com/watch?v=4bpS3VVrKO0" target="_blank">
     <img src="https://img.youtube.com/vi/4bpS3VVrKO0/maxresdefault.jpg" width="200">

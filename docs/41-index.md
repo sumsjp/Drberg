@@ -1,5 +1,5 @@
 <details>
-<summary>4200. [2023-01-21] Groundbreaking New Revelations on Alzheimer's Disease</summary>
+<summary>4200. [2023-01-21] Groundbreaking New Revelations on Alzheimer's Disease</summary><br>
 
 <a href="https://www.youtube.com/watch?v=mZPQ0bgqoq8" target="_blank">
     <img src="https://img.youtube.com/vi/mZPQ0bgqoq8/maxresdefault.jpg" width="200">
@@ -75,7 +75,7 @@
 </details>
 
 <details>
-<summary>4199. [2023-01-20] The 5 Best Ways to Treat Autoimmune Disease Naturally</summary>
+<summary>4199. [2023-01-20] The 5 Best Ways to Treat Autoimmune Disease Naturally</summary><br>
 
 <a href="https://www.youtube.com/watch?v=4DdvOVv0JMA" target="_blank">
     <img src="https://img.youtube.com/vi/4DdvOVv0JMA/maxresdefault.jpg" width="200">
@@ -126,7 +126,7 @@
 </details>
 
 <details>
-<summary>4198. [2023-01-19] The 7 MOST Important Nutrients for Your Immune System</summary>
+<summary>4198. [2023-01-19] The 7 MOST Important Nutrients for Your Immune System</summary><br>
 
 <a href="https://www.youtube.com/watch?v=YuO2FwBrmqY" target="_blank">
     <img src="https://img.youtube.com/vi/YuO2FwBrmqY/maxresdefault.jpg" width="200">
@@ -179,7 +179,7 @@
 </details>
 
 <details>
-<summary>4197. [2023-01-18] The #1 Best Protocol for Gout</summary>
+<summary>4197. [2023-01-18] The #1 Best Protocol for Gout</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3VkP4tqGhdY" target="_blank">
     <img src="https://img.youtube.com/vi/3VkP4tqGhdY/maxresdefault.jpg" width="200">
@@ -233,7 +233,7 @@
 </details>
 
 <details>
-<summary>4196. [2023-01-17] The End of Stiffness with This New Type of Stretching</summary>
+<summary>4196. [2023-01-17] The End of Stiffness with This New Type of Stretching</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5MLpwK-m7Ss" target="_blank">
     <img src="https://img.youtube.com/vi/5MLpwK-m7Ss/maxresdefault.jpg" width="200">
@@ -280,7 +280,7 @@
 </details>
 
 <details>
-<summary>4195. [2023-01-16] The REAL Reason for Pain Behind the Eyes</summary>
+<summary>4195. [2023-01-16] The REAL Reason for Pain Behind the Eyes</summary><br>
 
 <a href="https://www.youtube.com/watch?v=-090IT9HneQ" target="_blank">
     <img src="https://img.youtube.com/vi/-090IT9HneQ/maxresdefault.jpg" width="200">
@@ -338,7 +338,7 @@
 </details>
 
 <details>
-<summary>4194. [2023-01-15] The #1 Food to AVOID to Improve Alzheimer's Disease Symptoms</summary>
+<summary>4194. [2023-01-15] The #1 Food to AVOID to Improve Alzheimer's Disease Symptoms</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Ef-6rZ93sF0" target="_blank">
     <img src="https://img.youtube.com/vi/Ef-6rZ93sF0/maxresdefault.jpg" width="200">
@@ -443,7 +443,7 @@
 </details>
 
 <details>
-<summary>4193. [2023-01-14] What Happens If You ONLY Eat Carbs for 14 Days</summary>
+<summary>4193. [2023-01-14] What Happens If You ONLY Eat Carbs for 14 Days</summary><br>
 
 <a href="https://www.youtube.com/watch?v=BbAv0MT2UQ0" target="_blank">
     <img src="https://img.youtube.com/vi/BbAv0MT2UQ0/maxresdefault.jpg" width="200">
@@ -521,7 +521,7 @@
 </details>
 
 <details>
-<summary>4192. [2023-01-12] Dietary FIBER, Bloating, and Intestinal Gas</summary>
+<summary>4192. [2023-01-12] Dietary FIBER, Bloating, and Intestinal Gas</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5Ld9jCxv_to" target="_blank">
     <img src="https://img.youtube.com/vi/5Ld9jCxv_to/maxresdefault.jpg" width="200">
@@ -569,7 +569,7 @@
 </details>
 
 <details>
-<summary>4191. [2023-01-11] The Only Way to End Stress and Lower Cortisol</summary>
+<summary>4191. [2023-01-11] The Only Way to End Stress and Lower Cortisol</summary><br>
 
 <a href="https://www.youtube.com/watch?v=alWAs9tth9c" target="_blank">
     <img src="https://img.youtube.com/vi/alWAs9tth9c/maxresdefault.jpg" width="200">
@@ -645,7 +645,7 @@
 </details>
 
 <details>
-<summary>4190. [2023-01-10] TURMERIC Is Good for Virtually EVERYTHING!</summary>
+<summary>4190. [2023-01-10] TURMERIC Is Good for Virtually EVERYTHING!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Rn7-ZHHjD8I" target="_blank">
     <img src="https://img.youtube.com/vi/Rn7-ZHHjD8I/maxresdefault.jpg" width="200">
@@ -697,7 +697,7 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 </details>
 
 <details>
-<summary>4189. [2023-01-09] DRINK 1/2 CUP DAILY to Lower Cortisol, Lose Belly Fat, and Help Depression</summary>
+<summary>4189. [2023-01-09] DRINK 1/2 CUP DAILY to Lower Cortisol, Lose Belly Fat, and Help Depression</summary><br>
 
 <a href="https://www.youtube.com/watch?v=bK8q144Rhds" target="_blank">
     <img src="https://img.youtube.com/vi/bK8q144Rhds/maxresdefault.jpg" width="200">
@@ -751,7 +751,7 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 </details>
 
 <details>
-<summary>4188. [2023-01-08] 11 Bad Habits That Damage Your Brain</summary>
+<summary>4188. [2023-01-08] 11 Bad Habits That Damage Your Brain</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8kB4DY8cWYk" target="_blank">
     <img src="https://img.youtube.com/vi/8kB4DY8cWYk/maxresdefault.jpg" width="200">
@@ -800,7 +800,7 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 </details>
 
 <details>
-<summary>4187. [2023-01-07] 11 Ways to Protect Your Liver from Toxins</summary>
+<summary>4187. [2023-01-07] 11 Ways to Protect Your Liver from Toxins</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Ac1rrcr6xhY" target="_blank">
     <img src="https://img.youtube.com/vi/Ac1rrcr6xhY/maxresdefault.jpg" width="200">
@@ -885,7 +885,7 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 </details>
 
 <details>
-<summary>4186. [2023-01-06] The #1 Best Natural Cox-2 Inhibitor for Pain and Inflammation</summary>
+<summary>4186. [2023-01-06] The #1 Best Natural Cox-2 Inhibitor for Pain and Inflammation</summary><br>
 
 <a href="https://www.youtube.com/watch?v=LYZA3LRBPu8" target="_blank">
     <img src="https://img.youtube.com/vi/LYZA3LRBPu8/maxresdefault.jpg" width="200">
@@ -939,7 +939,7 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 </details>
 
 <details>
-<summary>4185. [2023-01-05] Normal Vitamin D Levels Will NOT Tell the Whole Picture</summary>
+<summary>4185. [2023-01-05] Normal Vitamin D Levels Will NOT Tell the Whole Picture</summary><br>
 
 <a href="https://www.youtube.com/watch?v=X6WCY_tqys8" target="_blank">
     <img src="https://img.youtube.com/vi/X6WCY_tqys8/maxresdefault.jpg" width="200">
@@ -1006,7 +1006,7 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 </details>
 
 <details>
-<summary>4184. [2023-01-04] The 9 Signs of a Carbohydrate Deficiency</summary>
+<summary>4184. [2023-01-04] The 9 Signs of a Carbohydrate Deficiency</summary><br>
 
 <a href="https://www.youtube.com/watch?v=o8EIF2-jT7s" target="_blank">
     <img src="https://img.youtube.com/vi/o8EIF2-jT7s/maxresdefault.jpg" width="200">
@@ -1068,7 +1068,7 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 </details>
 
 <details>
-<summary>4183. [2023-01-03] The #1 Best Food for All Menopausal Symptoms</summary>
+<summary>4183. [2023-01-03] The #1 Best Food for All Menopausal Symptoms</summary><br>
 
 <a href="https://www.youtube.com/watch?v=mfIcHEEvqjk" target="_blank">
     <img src="https://img.youtube.com/vi/mfIcHEEvqjk/maxresdefault.jpg" width="200">
@@ -1145,7 +1145,7 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 </details>
 
 <details>
-<summary>4182. [2023-01-02] The Best Remedy for ADD/ADHD (Attention Deficit Disorder)</summary>
+<summary>4182. [2023-01-02] The Best Remedy for ADD/ADHD (Attention Deficit Disorder)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=uJGayLwJHXI" target="_blank">
     <img src="https://img.youtube.com/vi/uJGayLwJHXI/maxresdefault.jpg" width="200">
@@ -1208,7 +1208,7 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 </details>
 
 <details>
-<summary>4181. [2023-01-01] A Unique Way to Clean a Fatty (Toxic) Liver That You've Never Heard About</summary>
+<summary>4181. [2023-01-01] A Unique Way to Clean a Fatty (Toxic) Liver That You've Never Heard About</summary><br>
 
 <a href="https://www.youtube.com/watch?v=BmtcCneixqQ" target="_blank">
     <img src="https://img.youtube.com/vi/BmtcCneixqQ/maxresdefault.jpg" width="200">
@@ -1268,7 +1268,7 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 </details>
 
 <details>
-<summary>4180. [2022-12-31] This Deficiency IS Why Your Digestion Is Screwed Up</summary>
+<summary>4180. [2022-12-31] This Deficiency IS Why Your Digestion Is Screwed Up</summary><br>
 
 <a href="https://www.youtube.com/watch?v=sYMKOVAIcUg" target="_blank">
     <img src="https://img.youtube.com/vi/sYMKOVAIcUg/maxresdefault.jpg" width="200">
@@ -1331,7 +1331,7 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 </details>
 
 <details>
-<summary>4179. [2022-12-30] The Mind-Blowing Benefits of 4 Mushrooms</summary>
+<summary>4179. [2022-12-30] The Mind-Blowing Benefits of 4 Mushrooms</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Rx03S_u50mo" target="_blank">
     <img src="https://img.youtube.com/vi/Rx03S_u50mo/maxresdefault.jpg" width="200">
@@ -1378,7 +1378,7 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 </details>
 
 <details>
-<summary>4178. [2022-12-29] The #1 Deficiency behind All Autoimmune Diseases</summary>
+<summary>4178. [2022-12-29] The #1 Deficiency behind All Autoimmune Diseases</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fDBZM1n_uDE" target="_blank">
     <img src="https://img.youtube.com/vi/fDBZM1n_uDE/maxresdefault.jpg" width="200">
@@ -1450,7 +1450,7 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 </details>
 
 <details>
-<summary>4177. [2022-12-28] The Best Remedies for Myocarditis</summary>
+<summary>4177. [2022-12-28] The Best Remedies for Myocarditis</summary><br>
 
 <a href="https://www.youtube.com/watch?v=wYCk-DMEngg" target="_blank">
     <img src="https://img.youtube.com/vi/wYCk-DMEngg/maxresdefault.jpg" width="200">
@@ -1509,7 +1509,7 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 </details>
 
 <details>
-<summary>4176. [2022-12-27] Genetically at Risk for Alzheimer's Disease? DO THIS...</summary>
+<summary>4176. [2022-12-27] Genetically at Risk for Alzheimer's Disease? DO THIS...</summary><br>
 
 <a href="https://www.youtube.com/watch?v=BTmqyuDT7dg" target="_blank">
     <img src="https://img.youtube.com/vi/BTmqyuDT7dg/maxresdefault.jpg" width="200">
@@ -1579,7 +1579,7 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 </details>
 
 <details>
-<summary>4175. [2022-12-26] How to Get Rid of Loose, Flabby Skin (SKIN TIGHTENING)</summary>
+<summary>4175. [2022-12-26] How to Get Rid of Loose, Flabby Skin (SKIN TIGHTENING)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ialZZWq9vCE" target="_blank">
     <img src="https://img.youtube.com/vi/ialZZWq9vCE/maxresdefault.jpg" width="200">
@@ -1646,7 +1646,7 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 </details>
 
 <details>
-<summary>4174. [2022-12-25] The Deeper Cause of Kidney Stones You've Never Heard About</summary>
+<summary>4174. [2022-12-25] The Deeper Cause of Kidney Stones You've Never Heard About</summary><br>
 
 <a href="https://www.youtube.com/watch?v=jfrrSbku9t4" target="_blank">
     <img src="https://img.youtube.com/vi/jfrrSbku9t4/maxresdefault.jpg" width="200">
@@ -1703,7 +1703,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 </details>
 
 <details>
-<summary>4173. [2022-12-24] Take This IMMEDIATELY after a Stroke</summary>
+<summary>4173. [2022-12-24] Take This IMMEDIATELY after a Stroke</summary><br>
 
 <a href="https://www.youtube.com/watch?v=iBDYdTaMUTg" target="_blank">
     <img src="https://img.youtube.com/vi/iBDYdTaMUTg/maxresdefault.jpg" width="200">
@@ -1773,7 +1773,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 </details>
 
 <details>
-<summary>4172. [2022-12-23] How to NEVER Get Shingles Again</summary>
+<summary>4172. [2022-12-23] How to NEVER Get Shingles Again</summary><br>
 
 <a href="https://www.youtube.com/watch?v=E4ghFFE2Czc" target="_blank">
     <img src="https://img.youtube.com/vi/E4ghFFE2Czc/maxresdefault.jpg" width="200">
@@ -1821,7 +1821,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 </details>
 
 <details>
-<summary>4171. [2022-12-22] The Best Protocol for Sjogren's Syndrome</summary>
+<summary>4171. [2022-12-22] The Best Protocol for Sjogren's Syndrome</summary><br>
 
 <a href="https://www.youtube.com/watch?v=VHYycYgJ-vs" target="_blank">
     <img src="https://img.youtube.com/vi/VHYycYgJ-vs/maxresdefault.jpg" width="200">
@@ -1892,7 +1892,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 </details>
 
 <details>
-<summary>4170. [2022-12-21] Never Be Stressed Out Again</summary>
+<summary>4170. [2022-12-21] Never Be Stressed Out Again</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vfSxiTjDQFk" target="_blank">
     <img src="https://img.youtube.com/vi/vfSxiTjDQFk/maxresdefault.jpg" width="200">
@@ -1961,7 +1961,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 </details>
 
 <details>
-<summary>4169. [2022-12-20] The REAL Benefit of Nutritional Yeast</summary>
+<summary>4169. [2022-12-20] The REAL Benefit of Nutritional Yeast</summary><br>
 
 <a href="https://www.youtube.com/watch?v=A_5CyIkC6z4" target="_blank">
     <img src="https://img.youtube.com/vi/A_5CyIkC6z4/maxresdefault.jpg" width="200">
@@ -2042,7 +2042,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 </details>
 
 <details>
-<summary>4168. [2022-12-19] 10 Surprising Diseases Caused by Low LDL Cholesterol</summary>
+<summary>4168. [2022-12-19] 10 Surprising Diseases Caused by Low LDL Cholesterol</summary><br>
 
 <a href="https://www.youtube.com/watch?v=u_BAzMSjIyA" target="_blank">
     <img src="https://img.youtube.com/vi/u_BAzMSjIyA/maxresdefault.jpg" width="200">
@@ -2107,7 +2107,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 </details>
 
 <details>
-<summary>4167. [2022-12-18] The Most Shocking Underrated Mortality Risk Factor</summary>
+<summary>4167. [2022-12-18] The Most Shocking Underrated Mortality Risk Factor</summary><br>
 
 <a href="https://www.youtube.com/watch?v=6enzRhTVK8I" target="_blank">
     <img src="https://img.youtube.com/vi/6enzRhTVK8I/maxresdefault.jpg" width="200">
@@ -2182,7 +2182,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 </details>
 
 <details>
-<summary>4166. [2022-12-17] How to be IMMUNE to Pathogens</summary>
+<summary>4166. [2022-12-17] How to be IMMUNE to Pathogens</summary><br>
 
 <a href="https://www.youtube.com/watch?v=z_G2uljzhGs" target="_blank">
     <img src="https://img.youtube.com/vi/z_G2uljzhGs/maxresdefault.jpg" width="200">
@@ -2245,7 +2245,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 </details>
 
 <details>
-<summary>4165. [2022-12-16] How to Boost Your Acetylcholine for Super Brain Power</summary>
+<summary>4165. [2022-12-16] How to Boost Your Acetylcholine for Super Brain Power</summary><br>
 
 <a href="https://www.youtube.com/watch?v=c4NrX1NwLJA" target="_blank">
     <img src="https://img.youtube.com/vi/c4NrX1NwLJA/maxresdefault.jpg" width="200">
@@ -2305,7 +2305,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 </details>
 
 <details>
-<summary>4164. [2022-12-15] How to Rid Your Xanthomas (Naturally)</summary>
+<summary>4164. [2022-12-15] How to Rid Your Xanthomas (Naturally)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=AH8XTQAbIRs" target="_blank">
     <img src="https://img.youtube.com/vi/AH8XTQAbIRs/maxresdefault.jpg" width="200">
@@ -2378,7 +2378,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 </details>
 
 <details>
-<summary>4163. [2022-12-14] Overcoming the GENETIC Slow Metabolism Problem</summary>
+<summary>4163. [2022-12-14] Overcoming the GENETIC Slow Metabolism Problem</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vYm80zXKNgc" target="_blank">
     <img src="https://img.youtube.com/vi/vYm80zXKNgc/maxresdefault.jpg" width="200">
@@ -2446,7 +2446,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 </details>
 
 <details>
-<summary>4162. [2022-12-13] Neutralize the Bad Effects of Caffeine</summary>
+<summary>4162. [2022-12-13] Neutralize the Bad Effects of Caffeine</summary><br>
 
 <a href="https://www.youtube.com/watch?v=mm0rRzjiX2k" target="_blank">
     <img src="https://img.youtube.com/vi/mm0rRzjiX2k/maxresdefault.jpg" width="200">
@@ -2507,7 +2507,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 </details>
 
 <details>
-<summary>4161. [2022-12-12] Forget Getting ANY Vitamin A from Carrots</summary>
+<summary>4161. [2022-12-12] Forget Getting ANY Vitamin A from Carrots</summary><br>
 
 <a href="https://www.youtube.com/watch?v=UotvYzbg4DI" target="_blank">
     <img src="https://img.youtube.com/vi/UotvYzbg4DI/maxresdefault.jpg" width="200">
@@ -2601,7 +2601,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 </details>
 
 <details>
-<summary>4160. [2022-12-11] The Best 2 Foods to Rid Anxiety in Your Body</summary>
+<summary>4160. [2022-12-11] The Best 2 Foods to Rid Anxiety in Your Body</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hifuVQGjOxg" target="_blank">
     <img src="https://img.youtube.com/vi/hifuVQGjOxg/maxresdefault.jpg" width="200">
@@ -2661,7 +2661,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 </details>
 
 <details>
-<summary>4159. [2022-12-10] How to Never Get Another Cavity Ever Again</summary>
+<summary>4159. [2022-12-10] How to Never Get Another Cavity Ever Again</summary><br>
 
 <a href="https://www.youtube.com/watch?v=NHUXAe5miUc" target="_blank">
     <img src="https://img.youtube.com/vi/NHUXAe5miUc/maxresdefault.jpg" width="200">
@@ -2709,7 +2709,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 </details>
 
 <details>
-<summary>4158. [2022-12-09] 8 Signs of a Vitamin C Deficiency You've Never Heard About</summary>
+<summary>4158. [2022-12-09] 8 Signs of a Vitamin C Deficiency You've Never Heard About</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Zto7tX8GBtQ" target="_blank">
     <img src="https://img.youtube.com/vi/Zto7tX8GBtQ/maxresdefault.jpg" width="200">
@@ -2769,7 +2769,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 </details>
 
 <details>
-<summary>4157. [2022-12-08] The FIRST Sign of a Vitamin A Deficiency Is...</summary>
+<summary>4157. [2022-12-08] The FIRST Sign of a Vitamin A Deficiency Is...</summary><br>
 
 <a href="https://www.youtube.com/watch?v=wMW8E5aLNsE" target="_blank">
     <img src="https://img.youtube.com/vi/wMW8E5aLNsE/maxresdefault.jpg" width="200">
@@ -2851,7 +2851,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 </details>
 
 <details>
-<summary>4156. [2022-12-07] The #1 Best Remedy for Bloating</summary>
+<summary>4156. [2022-12-07] The #1 Best Remedy for Bloating</summary><br>
 
 <a href="https://www.youtube.com/watch?v=AZx0KMCOSs4" target="_blank">
     <img src="https://img.youtube.com/vi/AZx0KMCOSs4/maxresdefault.jpg" width="200">
@@ -2890,7 +2890,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 </details>
 
 <details>
-<summary>4155. [2022-12-06] What Happens If You Use a SAUNA for 14 Days</summary>
+<summary>4155. [2022-12-06] What Happens If You Use a SAUNA for 14 Days</summary><br>
 
 <a href="https://www.youtube.com/watch?v=serJmA0YFD0" target="_blank">
     <img src="https://img.youtube.com/vi/serJmA0YFD0/maxresdefault.jpg" width="200">
@@ -2953,7 +2953,7 @@ Sauna 不僅提供舒適的放鬆體驗，更在生理和心理層面帶來多�
 </details>
 
 <details>
-<summary>4154. [2022-12-05] Stop Constant Throat Clearing: Understanding the 3 Causes of Phlegm in Your Throat</summary>
+<summary>4154. [2022-12-05] Stop Constant Throat Clearing: Understanding the 3 Causes of Phlegm in Your Throat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=RslGnogsyCA" target="_blank">
     <img src="https://img.youtube.com/vi/RslGnogsyCA/maxresdefault.jpg" width="200">
@@ -3008,7 +3008,7 @@ Sauna 不僅提供舒適的放鬆體驗，更在生理和心理層面帶來多�
 </details>
 
 <details>
-<summary>4153. [2022-12-04] Healthy Whole Grains Are a JOKE</summary>
+<summary>4153. [2022-12-04] Healthy Whole Grains Are a JOKE</summary><br>
 
 <a href="https://www.youtube.com/watch?v=1e015eLi4lM" target="_blank">
     <img src="https://img.youtube.com/vi/1e015eLi4lM/maxresdefault.jpg" width="200">
@@ -3084,7 +3084,7 @@ Sauna 不僅提供舒適的放鬆體驗，更在生理和心理層面帶來多�
 </details>
 
 <details>
-<summary>4152. [2022-12-03] Recognizing the Signs of Kidney Disease: What You Need to Know</summary>
+<summary>4152. [2022-12-03] Recognizing the Signs of Kidney Disease: What You Need to Know</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Yu56EawudfU" target="_blank">
     <img src="https://img.youtube.com/vi/Yu56EawudfU/maxresdefault.jpg" width="200">
@@ -3137,7 +3137,7 @@ Sauna 不僅提供舒適的放鬆體驗，更在生理和心理層面帶來多�
 </details>
 
 <details>
-<summary>4151. [2022-12-01] The Deeper Causes of BRUISING (Non-Injury Type)</summary>
+<summary>4151. [2022-12-01] The Deeper Causes of BRUISING (Non-Injury Type)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vYjQHkhzNB4" target="_blank">
     <img src="https://img.youtube.com/vi/vYjQHkhzNB4/maxresdefault.jpg" width="200">
@@ -3215,7 +3215,7 @@ Sauna 不僅提供舒適的放鬆體驗，更在生理和心理層面帶來多�
 </details>
 
 <details>
-<summary>4150. [2022-11-30] Low Potassium: Signs, Symptoms, Causes, and Treatment</summary>
+<summary>4150. [2022-11-30] Low Potassium: Signs, Symptoms, Causes, and Treatment</summary><br>
 
 <a href="https://www.youtube.com/watch?v=--a-m_9gofI" target="_blank">
     <img src="https://img.youtube.com/vi/--a-m_9gofI/maxresdefault.jpg" width="200">
@@ -3283,7 +3283,7 @@ Sauna 不僅提供舒適的放鬆體驗，更在生理和心理層面帶來多�
 </details>
 
 <details>
-<summary>4149. [2022-11-29] Do This to Stop That Afternoon Crash (Sleepy after Lunch)</summary>
+<summary>4149. [2022-11-29] Do This to Stop That Afternoon Crash (Sleepy after Lunch)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8asHntsuY20" target="_blank">
     <img src="https://img.youtube.com/vi/8asHntsuY20/maxresdefault.jpg" width="200">
@@ -3337,7 +3337,7 @@ Sauna 不僅提供舒適的放鬆體驗，更在生理和心理層面帶來多�
 </details>
 
 <details>
-<summary>4148. [2022-11-28] How to Lose That LAST 13 lbs of Stubborn Fat</summary>
+<summary>4148. [2022-11-28] How to Lose That LAST 13 lbs of Stubborn Fat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=PNTz1XBzaRQ" target="_blank">
     <img src="https://img.youtube.com/vi/PNTz1XBzaRQ/maxresdefault.jpg" width="200">
@@ -3410,7 +3410,7 @@ Sauna 不僅提供舒適的放鬆體驗，更在生理和心理層面帶來多�
 </details>
 
 <details>
-<summary>4147. [2022-11-27] The #1 Best Remedy to Prevent a Heart Attack for $3.19</summary>
+<summary>4147. [2022-11-27] The #1 Best Remedy to Prevent a Heart Attack for $3.19</summary><br>
 
 <a href="https://www.youtube.com/watch?v=R0kS26BA5BY" target="_blank">
     <img src="https://img.youtube.com/vi/R0kS26BA5BY/maxresdefault.jpg" width="200">
@@ -3455,7 +3455,7 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
 </details>
 
 <details>
-<summary>4146. [2022-11-26] I Lost 90 Lbs in 5 Months | Dr. Berg Interview</summary>
+<summary>4146. [2022-11-26] I Lost 90 Lbs in 5 Months | Dr. Berg Interview</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Ccjs1IZOL08" target="_blank">
     <img src="https://img.youtube.com/vi/Ccjs1IZOL08/maxresdefault.jpg" width="200">
@@ -3494,7 +3494,7 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
 </details>
 
 <details>
-<summary>4145. [2022-11-25] The 6 Best Ways to Heal a Fatty Liver</summary>
+<summary>4145. [2022-11-25] The 6 Best Ways to Heal a Fatty Liver</summary><br>
 
 <a href="https://www.youtube.com/watch?v=i-sGhGT7ctA" target="_blank">
     <img src="https://img.youtube.com/vi/i-sGhGT7ctA/maxresdefault.jpg" width="200">
@@ -3568,7 +3568,7 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
 </details>
 
 <details>
-<summary>4144. [2022-11-24] The #1 Best Remedy for Preventing Respiratory Infections</summary>
+<summary>4144. [2022-11-24] The #1 Best Remedy for Preventing Respiratory Infections</summary><br>
 
 <a href="https://www.youtube.com/watch?v=LU9GsnAH0Tc" target="_blank">
     <img src="https://img.youtube.com/vi/LU9GsnAH0Tc/maxresdefault.jpg" width="200">
@@ -3619,7 +3619,7 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
 </details>
 
 <details>
-<summary>4143. [2022-11-23] The REAL Cause of Toenail Fungus is ...</summary>
+<summary>4143. [2022-11-23] The REAL Cause of Toenail Fungus is ...</summary><br>
 
 <a href="https://www.youtube.com/watch?v=WNfVJIthdyA" target="_blank">
     <img src="https://img.youtube.com/vi/WNfVJIthdyA/maxresdefault.jpg" width="200">
@@ -3704,7 +3704,7 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
 </details>
 
 <details>
-<summary>4142. [2022-11-22] Why Fake Meats Will Never Be Popular</summary>
+<summary>4142. [2022-11-22] Why Fake Meats Will Never Be Popular</summary><br>
 
 <a href="https://www.youtube.com/watch?v=q1N9si1HRIo" target="_blank">
     <img src="https://img.youtube.com/vi/q1N9si1HRIo/maxresdefault.jpg" width="200">
@@ -3777,7 +3777,7 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
 </details>
 
 <details>
-<summary>4141. [2022-11-21] Rid Respiratory Mucus with SALT</summary>
+<summary>4141. [2022-11-21] Rid Respiratory Mucus with SALT</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XxPLWR1U5D0" target="_blank">
     <img src="https://img.youtube.com/vi/XxPLWR1U5D0/maxresdefault.jpg" width="200">
@@ -3815,7 +3815,7 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
 </details>
 
 <details>
-<summary>4140. [2022-11-20] The BEST Foods to Strengthen Your Liver</summary>
+<summary>4140. [2022-11-20] The BEST Foods to Strengthen Your Liver</summary><br>
 
 <a href="https://www.youtube.com/watch?v=CQtX_Xu8H3Q" target="_blank">
     <img src="https://img.youtube.com/vi/CQtX_Xu8H3Q/maxresdefault.jpg" width="200">
@@ -3882,7 +3882,7 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
 </details>
 
 <details>
-<summary>4139. [2022-11-19] The Best MEAL to Clear Out Your Arteries</summary>
+<summary>4139. [2022-11-19] The Best MEAL to Clear Out Your Arteries</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KWS-Tecjxdk" target="_blank">
     <img src="https://img.youtube.com/vi/KWS-Tecjxdk/maxresdefault.jpg" width="200">
@@ -3928,7 +3928,7 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
 </details>
 
 <details>
-<summary>4138. [2022-11-18] The BEST Remedies for Dry Skin, Eyes, and Mouth</summary>
+<summary>4138. [2022-11-18] The BEST Remedies for Dry Skin, Eyes, and Mouth</summary><br>
 
 <a href="https://www.youtube.com/watch?v=v5hbfUzOggk" target="_blank">
     <img src="https://img.youtube.com/vi/v5hbfUzOggk/maxresdefault.jpg" width="200">
@@ -3996,7 +3996,7 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
 </details>
 
 <details>
-<summary>4137. [2022-11-17] 10 Surprising SUGAR Side Effects You've Never Heard About</summary>
+<summary>4137. [2022-11-17] 10 Surprising SUGAR Side Effects You've Never Heard About</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XmebvEWOtzI" target="_blank">
     <img src="https://img.youtube.com/vi/XmebvEWOtzI/maxresdefault.jpg" width="200">
@@ -4062,7 +4062,7 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
 </details>
 
 <details>
-<summary>4136. [2022-11-15] #1 Big Mistake People Make When Drinking Water</summary>
+<summary>4136. [2022-11-15] #1 Big Mistake People Make When Drinking Water</summary><br>
 
 <a href="https://www.youtube.com/watch?v=4h75JTMGsAA" target="_blank">
     <img src="https://img.youtube.com/vi/4h75JTMGsAA/maxresdefault.jpg" width="200">
@@ -4139,7 +4139,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 </details>
 
 <details>
-<summary>4135. [2022-11-14] The #1 Sign of Iodine Overload (TOXICITY)</summary>
+<summary>4135. [2022-11-14] The #1 Sign of Iodine Overload (TOXICITY)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=2Hm6ZRfAbes" target="_blank">
     <img src="https://img.youtube.com/vi/2Hm6ZRfAbes/maxresdefault.jpg" width="200">
@@ -4201,7 +4201,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 </details>
 
 <details>
-<summary>4134. [2022-11-13] Drain Sinuses and Clear a Stuffy Nose with This Technique</summary>
+<summary>4134. [2022-11-13] Drain Sinuses and Clear a Stuffy Nose with This Technique</summary><br>
 
 <a href="https://www.youtube.com/watch?v=R4Kp5Ze3eok" target="_blank">
     <img src="https://img.youtube.com/vi/R4Kp5Ze3eok/maxresdefault.jpg" width="200">
@@ -4242,7 +4242,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 </details>
 
 <details>
-<summary>4133. [2022-11-12] What Happens When You Eat 2 TBSP of Olive Oil Daily</summary>
+<summary>4133. [2022-11-12] What Happens When You Eat 2 TBSP of Olive Oil Daily</summary><br>
 
 <a href="https://www.youtube.com/watch?v=-k35KmI8hYs" target="_blank">
     <img src="https://img.youtube.com/vi/-k35KmI8hYs/maxresdefault.jpg" width="200">
@@ -4298,7 +4298,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 </details>
 
 <details>
-<summary>4132. [2022-11-11] Acceptable Liquids During Fasting: COMPLETE LIST</summary>
+<summary>4132. [2022-11-11] Acceptable Liquids During Fasting: COMPLETE LIST</summary><br>
 
 <a href="https://www.youtube.com/watch?v=1RpgnDnMC1I" target="_blank">
     <img src="https://img.youtube.com/vi/1RpgnDnMC1I/maxresdefault.jpg" width="200">
@@ -4367,7 +4367,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 </details>
 
 <details>
-<summary>4131. [2022-11-10] The #1 Danger of Prolonged Fasting</summary>
+<summary>4131. [2022-11-10] The #1 Danger of Prolonged Fasting</summary><br>
 
 <a href="https://www.youtube.com/watch?v=qmzPV2x7Dcg" target="_blank">
     <img src="https://img.youtube.com/vi/qmzPV2x7Dcg/maxresdefault.jpg" width="200">
@@ -4421,7 +4421,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 </details>
 
 <details>
-<summary>4130. [2022-11-09] The #1 Hidden Cause of Your Hair Loss (Different Types)</summary>
+<summary>4130. [2022-11-09] The #1 Hidden Cause of Your Hair Loss (Different Types)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=T8Ghse_HdKA" target="_blank">
     <img src="https://img.youtube.com/vi/T8Ghse_HdKA/maxresdefault.jpg" width="200">
@@ -4485,7 +4485,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 </details>
 
 <details>
-<summary>4129. [2022-11-08] The #1 REAL Reason Why You Are Tired</summary>
+<summary>4129. [2022-11-08] The #1 REAL Reason Why You Are Tired</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Quo5bOpK4GA" target="_blank">
     <img src="https://img.youtube.com/vi/Quo5bOpK4GA/maxresdefault.jpg" width="200">
@@ -4518,7 +4518,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 </details>
 
 <details>
-<summary>4128. [2022-11-07] The Most Ignored DISEASE in the World</summary>
+<summary>4128. [2022-11-07] The Most Ignored DISEASE in the World</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KvjOhVgxxn4" target="_blank">
     <img src="https://img.youtube.com/vi/KvjOhVgxxn4/maxresdefault.jpg" width="200">
@@ -4555,7 +4555,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 </details>
 
 <details>
-<summary>4127. [2022-11-06] Natural Solution for Plaque, Cavities, and Gingivitis</summary>
+<summary>4127. [2022-11-06] Natural Solution for Plaque, Cavities, and Gingivitis</summary><br>
 
 <a href="https://www.youtube.com/watch?v=950fbVKFwHM" target="_blank">
     <img src="https://img.youtube.com/vi/950fbVKFwHM/maxresdefault.jpg" width="200">
@@ -4607,7 +4607,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 </details>
 
 <details>
-<summary>4126. [2022-11-05] Drink This EVERY Day to Lose More Belly Fat</summary>
+<summary>4126. [2022-11-05] Drink This EVERY Day to Lose More Belly Fat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=bg_xenOrKPg" target="_blank">
     <img src="https://img.youtube.com/vi/bg_xenOrKPg/maxresdefault.jpg" width="200">
@@ -4672,7 +4672,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 </details>
 
 <details>
-<summary>4125. [2022-11-04] The #1 Most Common Mineral Deficiency in the World</summary>
+<summary>4125. [2022-11-04] The #1 Most Common Mineral Deficiency in the World</summary><br>
 
 <a href="https://www.youtube.com/watch?v=6RPRzN4kTWI" target="_blank">
     <img src="https://img.youtube.com/vi/6RPRzN4kTWI/maxresdefault.jpg" width="200">
@@ -4753,7 +4753,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 </details>
 
 <details>
-<summary>4124. [2022-11-03] How To Remove Skin Tags And Warts Overnight</summary>
+<summary>4124. [2022-11-03] How To Remove Skin Tags And Warts Overnight</summary><br>
 
 <a href="https://www.youtube.com/watch?v=YF_8gVewcKg" target="_blank">
     <img src="https://img.youtube.com/vi/YF_8gVewcKg/maxresdefault.jpg" width="200">
@@ -4821,7 +4821,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 </details>
 
 <details>
-<summary>4123. [2022-11-02] Take 2 TABLESPOONS Before a Meal for GERD, Bloating, or Acid Reflux</summary>
+<summary>4123. [2022-11-02] Take 2 TABLESPOONS Before a Meal for GERD, Bloating, or Acid Reflux</summary><br>
 
 <a href="https://www.youtube.com/watch?v=jlQ0qEGujic" target="_blank">
     <img src="https://img.youtube.com/vi/jlQ0qEGujic/maxresdefault.jpg" width="200">
@@ -4871,7 +4871,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 </details>
 
 <details>
-<summary>4122. [2022-11-01] Change Your Breathing and Lower Your Cortisol</summary>
+<summary>4122. [2022-11-01] Change Your Breathing and Lower Your Cortisol</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ppTAOjdcG04" target="_blank">
     <img src="https://img.youtube.com/vi/ppTAOjdcG04/maxresdefault.jpg" width="200">
@@ -4940,7 +4940,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 </details>
 
 <details>
-<summary>4121. [2022-10-31] What Happens after 14 Days of Cold Showers (Part 2)</summary>
+<summary>4121. [2022-10-31] What Happens after 14 Days of Cold Showers (Part 2)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=eXaSVLHQj3E" target="_blank">
     <img src="https://img.youtube.com/vi/eXaSVLHQj3E/maxresdefault.jpg" width="200">
@@ -4993,7 +4993,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 </details>
 
 <details>
-<summary>4120. [2022-10-30] 7 Ways Dr. Berg BLOCKS the Side Effects Of Carbs While On A Keto Diet</summary>
+<summary>4120. [2022-10-30] 7 Ways Dr. Berg BLOCKS the Side Effects Of Carbs While On A Keto Diet</summary><br>
 
 <a href="https://www.youtube.com/watch?v=4u8QGZvRYvo" target="_blank">
     <img src="https://img.youtube.com/vi/4u8QGZvRYvo/maxresdefault.jpg" width="200">
@@ -5094,7 +5094,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 </details>
 
 <details>
-<summary>4119. [2022-10-29] 7 Warning Signs of an IODINE Deficiency</summary>
+<summary>4119. [2022-10-29] 7 Warning Signs of an IODINE Deficiency</summary><br>
 
 <a href="https://www.youtube.com/watch?v=GpWO3nvWvJ0" target="_blank">
     <img src="https://img.youtube.com/vi/GpWO3nvWvJ0/maxresdefault.jpg" width="200">
@@ -5154,7 +5154,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 </details>
 
 <details>
-<summary>4118. [2022-10-28] How to Do Intermittent Fasting for SERIOUS WEIGHT LOSS</summary>
+<summary>4118. [2022-10-28] How to Do Intermittent Fasting for SERIOUS WEIGHT LOSS</summary><br>
 
 <a href="https://www.youtube.com/watch?v=bxd8Zui3v5Y" target="_blank">
     <img src="https://img.youtube.com/vi/bxd8Zui3v5Y/maxresdefault.jpg" width="200">
@@ -5239,7 +5239,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 </details>
 
 <details>
-<summary>4117. [2022-10-27] Top Diseases That Are REALLY Nutrient Deficiencies</summary>
+<summary>4117. [2022-10-27] Top Diseases That Are REALLY Nutrient Deficiencies</summary><br>
 
 <a href="https://www.youtube.com/watch?v=IHay5kYhU1s" target="_blank">
     <img src="https://img.youtube.com/vi/IHay5kYhU1s/maxresdefault.jpg" width="200">
@@ -5322,7 +5322,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 </details>
 
 <details>
-<summary>4116. [2022-10-26] 7 Foods That Lower Bad Cholesterol (LDL)</summary>
+<summary>4116. [2022-10-26] 7 Foods That Lower Bad Cholesterol (LDL)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=AVaFEanJAUs" target="_blank">
     <img src="https://img.youtube.com/vi/AVaFEanJAUs/maxresdefault.jpg" width="200">
@@ -5406,7 +5406,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 </details>
 
 <details>
-<summary>4115. [2022-10-25] The Food That is More DEADLY Than Sugar</summary>
+<summary>4115. [2022-10-25] The Food That is More DEADLY Than Sugar</summary><br>
 
 <a href="https://www.youtube.com/watch?v=V2_Jmd6mCUQ" target="_blank">
     <img src="https://img.youtube.com/vi/V2_Jmd6mCUQ/maxresdefault.jpg" width="200">
@@ -5465,7 +5465,7 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 </details>
 
 <details>
-<summary>4114. [2022-10-24] Think Twice before Getting a Hysterectomy</summary>
+<summary>4114. [2022-10-24] Think Twice before Getting a Hysterectomy</summary><br>
 
 <a href="https://www.youtube.com/watch?v=GzxBOdx3Q68" target="_blank">
     <img src="https://img.youtube.com/vi/GzxBOdx3Q68/maxresdefault.jpg" width="200">
@@ -5540,7 +5540,7 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 </details>
 
 <details>
-<summary>4113. [2022-10-23] 13 Signs Your Body is Deficient in Nutrients</summary>
+<summary>4113. [2022-10-23] 13 Signs Your Body is Deficient in Nutrients</summary><br>
 
 <a href="https://www.youtube.com/watch?v=N_aUWIBf2VE" target="_blank">
     <img src="https://img.youtube.com/vi/N_aUWIBf2VE/maxresdefault.jpg" width="200">
@@ -5605,7 +5605,7 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 </details>
 
 <details>
-<summary>4112. [2022-10-22] The Best and Safest CORTICOSTEROID Alternative</summary>
+<summary>4112. [2022-10-22] The Best and Safest CORTICOSTEROID Alternative</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hxY43mBVOOc" target="_blank">
     <img src="https://img.youtube.com/vi/hxY43mBVOOc/maxresdefault.jpg" width="200">
@@ -5663,7 +5663,7 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 </details>
 
 <details>
-<summary>4111. [2022-10-21] The Best Test to Determine How Long You Will Live</summary>
+<summary>4111. [2022-10-21] The Best Test to Determine How Long You Will Live</summary><br>
 
 <a href="https://www.youtube.com/watch?v=maLKYkYWMT4" target="_blank">
     <img src="https://img.youtube.com/vi/maLKYkYWMT4/maxresdefault.jpg" width="200">
@@ -5699,7 +5699,7 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 </details>
 
 <details>
-<summary>4110. [2022-10-20] The CURE for Procrastination</summary>
+<summary>4110. [2022-10-20] The CURE for Procrastination</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xH9aLk7WV0o" target="_blank">
     <img src="https://img.youtube.com/vi/xH9aLk7WV0o/maxresdefault.jpg" width="200">
@@ -5743,7 +5743,7 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 </details>
 
 <details>
-<summary>4109. [2022-10-19] 10 Warning Signs Your Kidneys Are Toxic</summary>
+<summary>4109. [2022-10-19] 10 Warning Signs Your Kidneys Are Toxic</summary><br>
 
 <a href="https://www.youtube.com/watch?v=U2FUJqYkn5o" target="_blank">
     <img src="https://img.youtube.com/vi/U2FUJqYkn5o/maxresdefault.jpg" width="200">
@@ -5799,7 +5799,7 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 </details>
 
 <details>
-<summary>4108. [2022-10-18] Type 1 Diabetics MUST Do This to Reduce Insulin</summary>
+<summary>4108. [2022-10-18] Type 1 Diabetics MUST Do This to Reduce Insulin</summary><br>
 
 <a href="https://www.youtube.com/watch?v=FloMuAVOwoA" target="_blank">
     <img src="https://img.youtube.com/vi/FloMuAVOwoA/maxresdefault.jpg" width="200">
@@ -5870,7 +5870,7 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 </details>
 
 <details>
-<summary>4107. [2022-10-17] The Quickest Way to Test for Bowel Disease (Crohn's, IBD, UC or SIBO)</summary>
+<summary>4107. [2022-10-17] The Quickest Way to Test for Bowel Disease (Crohn's, IBD, UC or SIBO)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=EgGeX-UxnoA" target="_blank">
     <img src="https://img.youtube.com/vi/EgGeX-UxnoA/maxresdefault.jpg" width="200">
@@ -5945,7 +5945,7 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 </details>
 
 <details>
-<summary>4106. [2022-10-16] What Happens to Your Body When You Quit Sugar for 14 Days</summary>
+<summary>4106. [2022-10-16] What Happens to Your Body When You Quit Sugar for 14 Days</summary><br>
 
 <a href="https://www.youtube.com/watch?v=cPyFIvCvh8U" target="_blank">
     <img src="https://img.youtube.com/vi/cPyFIvCvh8U/maxresdefault.jpg" width="200">
@@ -5995,7 +5995,7 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 </details>
 
 <details>
-<summary>4105. [2022-10-15] Natural Remedy for Anaphylactic Shock</summary>
+<summary>4105. [2022-10-15] Natural Remedy for Anaphylactic Shock</summary><br>
 
 <a href="https://www.youtube.com/watch?v=wh0R-avRMuM" target="_blank">
     <img src="https://img.youtube.com/vi/wh0R-avRMuM/maxresdefault.jpg" width="200">
@@ -6053,7 +6053,7 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 </details>
 
 <details>
-<summary>4104. [2022-10-14] Getting Vitamin D from the Sun WITHOUT the Skin Cancer</summary>
+<summary>4104. [2022-10-14] Getting Vitamin D from the Sun WITHOUT the Skin Cancer</summary><br>
 
 <a href="https://www.youtube.com/watch?v=tPom4UOW1vU" target="_blank">
     <img src="https://img.youtube.com/vi/tPom4UOW1vU/maxresdefault.jpg" width="200">
@@ -6138,7 +6138,7 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 </details>
 
 <details>
-<summary>4103. [2022-10-13] The Calcium-Osteoporosis Myth</summary>
+<summary>4103. [2022-10-13] The Calcium-Osteoporosis Myth</summary><br>
 
 <a href="https://www.youtube.com/watch?v=s-2lr6zuILA" target="_blank">
     <img src="https://img.youtube.com/vi/s-2lr6zuILA/maxresdefault.jpg" width="200">
@@ -6188,7 +6188,7 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 </details>
 
 <details>
-<summary>4102. [2022-10-12] How to Burn Belly Fat EXTREMELY Fast – TOP 10 TIPS</summary>
+<summary>4102. [2022-10-12] How to Burn Belly Fat EXTREMELY Fast – TOP 10 TIPS</summary><br>
 
 <a href="https://www.youtube.com/watch?v=SzQX-3tEDQU" target="_blank">
     <img src="https://img.youtube.com/vi/SzQX-3tEDQU/maxresdefault.jpg" width="200">
@@ -6252,7 +6252,7 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 </details>
 
 <details>
-<summary>4101. [2022-10-11] The HUGE Mistake Counting Carbs on Keto (Ketogenic Diet)</summary>
+<summary>4101. [2022-10-11] The HUGE Mistake Counting Carbs on Keto (Ketogenic Diet)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=FpnOArocDtA" target="_blank">
     <img src="https://img.youtube.com/vi/FpnOArocDtA/maxresdefault.jpg" width="200">

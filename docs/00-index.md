@@ -1,5 +1,5 @@
 <details>
-<summary>100. Fast Weight Loss Success Story</summary>
+<summary>100. Fast Weight Loss Success Story</summary><br>
 
 <a href="https://www.youtube.com/watch?v=UrJW9dCxVhU" target="_blank">
     <img src="https://img.youtube.com/vi/UrJW9dCxVhU/maxresdefault.jpg" width="200">
@@ -9,7 +9,7 @@
 </details>
 
 <details>
-<summary>99. Crohns Disease Success</summary>
+<summary>99. Crohns Disease Success</summary><br>
 
 <a href="https://www.youtube.com/watch?v=703oYuzXZNo" target="_blank">
     <img src="https://img.youtube.com/vi/703oYuzXZNo/maxresdefault.jpg" width="200">
@@ -19,7 +19,7 @@
 </details>
 
 <details>
-<summary>98. Dr. Berg’s Healthy Diet Success Story: Potassium Rich Foods</summary>
+<summary>98. Dr. Berg’s Healthy Diet Success Story: Potassium Rich Foods</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kOcBB3OWPpY" target="_blank">
     <img src="https://img.youtube.com/vi/kOcBB3OWPpY/maxresdefault.jpg" width="200">
@@ -29,7 +29,7 @@
 </details>
 
 <details>
-<summary>97. Stabilizing Exercises  for Low Back & Pelvis</summary>
+<summary>97. Stabilizing Exercises  for Low Back & Pelvis</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DKnAb8bIUcY" target="_blank">
     <img src="https://img.youtube.com/vi/DKnAb8bIUcY/maxresdefault.jpg" width="200">
@@ -39,7 +39,7 @@
 </details>
 
 <details>
-<summary>96. Dr. Berg's Office Quick Tour</summary>
+<summary>96. Dr. Berg's Office Quick Tour</summary><br>
 
 <a href="https://www.youtube.com/watch?v=GXirii-9ySo" target="_blank">
     <img src="https://img.youtube.com/vi/GXirii-9ySo/maxresdefault.jpg" width="200">
@@ -49,7 +49,7 @@
 </details>
 
 <details>
-<summary>95. What to do for a Tailbone Injury - for Low Back Pain</summary>
+<summary>95. What to do for a Tailbone Injury - for Low Back Pain</summary><br>
 
 <a href="https://www.youtube.com/watch?v=722_8kxeg5A" target="_blank">
     <img src="https://img.youtube.com/vi/722_8kxeg5A/maxresdefault.jpg" width="200">
@@ -59,7 +59,7 @@
 </details>
 
 <details>
-<summary>94. Fat Burning Candy Bar</summary>
+<summary>94. Fat Burning Candy Bar</summary><br>
 
 <a href="https://www.youtube.com/watch?v=gJNnSODgpj0" target="_blank">
     <img src="https://img.youtube.com/vi/gJNnSODgpj0/maxresdefault.jpg" width="200">
@@ -69,7 +69,7 @@
 </details>
 
 <details>
-<summary>93. Enhanced Waters are Really Sugar Water</summary>
+<summary>93. Enhanced Waters are Really Sugar Water</summary><br>
 
 <a href="https://www.youtube.com/watch?v=IHfiEXMgZ_4" target="_blank">
     <img src="https://img.youtube.com/vi/IHfiEXMgZ_4/maxresdefault.jpg" width="200">
@@ -79,7 +79,7 @@
 </details>
 
 <details>
-<summary>92. Do Not Eat Eggs, Unless You Watch This</summary>
+<summary>92. Do Not Eat Eggs, Unless You Watch This</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hC3D_eeULLU" target="_blank">
     <img src="https://img.youtube.com/vi/hC3D_eeULLU/maxresdefault.jpg" width="200">
@@ -89,7 +89,7 @@
 </details>
 
 <details>
-<summary>91. Try This Weight Loss Shake</summary>
+<summary>91. Try This Weight Loss Shake</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fKjqBZdf3RQ" target="_blank">
     <img src="https://img.youtube.com/vi/fKjqBZdf3RQ/maxresdefault.jpg" width="200">
@@ -99,7 +99,7 @@
 </details>
 
 <details>
-<summary>90. The 2 Types of Exercise for Belly Fat</summary>
+<summary>90. The 2 Types of Exercise for Belly Fat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=1URgrSjgQTY" target="_blank">
     <img src="https://img.youtube.com/vi/1URgrSjgQTY/maxresdefault.jpg" width="200">
@@ -109,7 +109,7 @@
 </details>
 
 <details>
-<summary>89. No More Problems with Sleeping</summary>
+<summary>89. No More Problems with Sleeping</summary><br>
 
 <a href="https://www.youtube.com/watch?v=6K3oJW26D58" target="_blank">
     <img src="https://img.youtube.com/vi/6K3oJW26D58/maxresdefault.jpg" width="200">
@@ -119,7 +119,7 @@
 </details>
 
 <details>
-<summary>88. Kale Smoothies Recipes</summary>
+<summary>88. Kale Smoothies Recipes</summary><br>
 
 <a href="https://www.youtube.com/watch?v=CIZ3ake2ZBo" target="_blank">
     <img src="https://img.youtube.com/vi/CIZ3ake2ZBo/maxresdefault.jpg" width="200">
@@ -129,7 +129,7 @@
 </details>
 
 <details>
-<summary>87. How Not to Become a Procrastinator</summary>
+<summary>87. How Not to Become a Procrastinator</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hTqDCao_Caw" target="_blank">
     <img src="https://img.youtube.com/vi/hTqDCao_Caw/maxresdefault.jpg" width="200">
@@ -139,7 +139,7 @@
 </details>
 
 <details>
-<summary>86. Getting the Right Diet for Your Body Type</summary>
+<summary>86. Getting the Right Diet for Your Body Type</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Gb5Mztmx-U0" target="_blank">
     <img src="https://img.youtube.com/vi/Gb5Mztmx-U0/maxresdefault.jpg" width="200">
@@ -149,7 +149,7 @@
 </details>
 
 <details>
-<summary>85. A Great Tool for Stress Relief</summary>
+<summary>85. A Great Tool for Stress Relief</summary><br>
 
 <a href="https://www.youtube.com/watch?v=41HnMrqZAmU" target="_blank">
     <img src="https://img.youtube.com/vi/41HnMrqZAmU/maxresdefault.jpg" width="200">
@@ -159,7 +159,7 @@
 </details>
 
 <details>
-<summary>84. The Best and Worst Type of Calcium</summary>
+<summary>84. The Best and Worst Type of Calcium</summary><br>
 
 <a href="https://www.youtube.com/watch?v=s5h3VoMQt9g" target="_blank">
     <img src="https://img.youtube.com/vi/s5h3VoMQt9g/maxresdefault.jpg" width="200">
@@ -169,7 +169,7 @@
 </details>
 
 <details>
-<summary>83. Cheryl Jackson Radio Interview on 104.1 Talking about the Adrenal</summary>
+<summary>83. Cheryl Jackson Radio Interview on 104.1 Talking about the Adrenal</summary><br>
 
 <a href="https://www.youtube.com/watch?v=V6Zy00bU5Bo" target="_blank">
     <img src="https://img.youtube.com/vi/V6Zy00bU5Bo/maxresdefault.jpg" width="200">
@@ -179,7 +179,7 @@
 </details>
 
 <details>
-<summary>82. The Best and Worst Vitamin C</summary>
+<summary>82. The Best and Worst Vitamin C</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DnvnKnu7YBI" target="_blank">
     <img src="https://img.youtube.com/vi/DnvnKnu7YBI/maxresdefault.jpg" width="200">
@@ -189,7 +189,7 @@
 </details>
 
 <details>
-<summary>81. Make Your Own Weight Loss Drink</summary>
+<summary>81. Make Your Own Weight Loss Drink</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HNNk31aGaYo" target="_blank">
     <img src="https://img.youtube.com/vi/HNNk31aGaYo/maxresdefault.jpg" width="200">
@@ -199,7 +199,7 @@
 </details>
 
 <details>
-<summary>80. How to Stop Cravings for Sugar</summary>
+<summary>80. How to Stop Cravings for Sugar</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fGT5cISbXa4" target="_blank">
     <img src="https://img.youtube.com/vi/fGT5cISbXa4/maxresdefault.jpg" width="200">
@@ -209,7 +209,7 @@
 </details>
 
 <details>
-<summary>79. Reverse Sit-ups for Belly Fat</summary>
+<summary>79. Reverse Sit-ups for Belly Fat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vjHYuEj43fg" target="_blank">
     <img src="https://img.youtube.com/vi/vjHYuEj43fg/maxresdefault.jpg" width="200">
@@ -219,7 +219,7 @@
 </details>
 
 <details>
-<summary>78. The Ultimate Exercise for Posture</summary>
+<summary>78. The Ultimate Exercise for Posture</summary><br>
 
 <a href="https://www.youtube.com/watch?v=LRxN-30oJx8" target="_blank">
     <img src="https://img.youtube.com/vi/LRxN-30oJx8/maxresdefault.jpg" width="200">
@@ -229,77 +229,351 @@
 </details>
 
 <details>
-<summary>77. The Best Weight Loss Meal Replacement Shake Ingredients</summary>
+<summary>77. [2012-04-04] The Best Weight Loss Meal Replacement Shake Ingredients</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8Ray80ec9mk" target="_blank">
     <img src="https://img.youtube.com/vi/8Ray80ec9mk/maxresdefault.jpg" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題  
+- 探讨通过特定食物触发脂肪燃烧激素的机制及其在体重管理中的作用。
+
+#### 主要觀念  
+1. **荷爾蒙在 fat burning 中的角色**  
+   - 传统的减重计划主要关注卡路里控制和份量管理，但忽视了荷尔蒙与食物之间的相互作用。
+   - 随着年龄增长，激素平衡对体重管理变得尤为重要。
+
+2. **四種脂肪燃燒食物及其功能**  
+   - **鸡蛋**：富含优质蛋白质，几乎不含碳水化合物，能够有效刺激脂肪燃烧。  
+   - **螺旋藻（Spirulina）**：高蛋白含量（60%），富含94种微量元素和维生素B12，有助于触发脂肪燃烧过程。  
+   - **亚麻籽（Flaxseed）**：含有全部九种必需氨基酸，特别是精氨酸，可刺激生长激素分泌（抗衰老、主要的脂肪燃烧荷尔蒙）。此外，其Omega-3脂肪酸支持线粒体功能和代谢率。  
+   - **羽衣甘蓝（Kale）**：营养密度极高，富含维生素A、钾和钙等矿物质，有助于调节血糖、减少脂肪储存并满足身体需求。
+
+#### 問題原因  
+- 传统减重方法侧重于卡路里限制而非激素调节，难以长期维持体重管理效果。  
+- 年龄增长导致代谢率下降，影响脂肪燃烧效率。
+
+#### 解决方法  
+1. **饮食策略**  
+   - 引入高蛋白、低碳水化合物的食物以刺激脂肪燃烧激素的分泌。  
+   - 增加富含Omega-3脂肪酸和微量元素的食物，支持线粒体功能和代谢健康。
+
+2. **产品推荐**  
+   - 开发一种结合鸡蛋、螺旋藻、亚麻籽和羽衣甘蓝粉末的即饮 shake（Dr. Berg’s Instant Kale Shake）。  
+   - 该产品不含激素，使用零升糖指数的甜味剂（如斯提维a和阿拉伯胶），避免血糖波动并促进脂肪燃烧。
+
+#### 健康建議  
+- **饮食建议**：优先选择高蛋白、低GI食物，搭配健康脂肪以支持代谢功能。  
+- **生活方式建议**：结合均衡饮食与适量运动，维持激素平衡。  
+- **产品使用建议**：将即饮 shake 作为便捷的营养补充，可加入水、杏仁奶或椰子水饮用。
+
+#### 結論  
+- 通过特定食物触发脂肪燃烧激素是实现高效减重和健康生活的关键策略。  
+- 结合科学配方的产品（如Dr. Berg’s Instant Kale Shake）可为现代人提供便捷的解决方案，帮助他们在快节奏的生活中维持代谢健康。
+
+---
+
+以上整理基于文章内容，使用正式且学术化的语言，并以小節歸納各個重點。
 </details>
 
 <details>
-<summary>76. Why am I Bloated?</summary>
+<summary>76. [2012-04-04] Why am I Bloated?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=M9Isr1ON3lE" target="_blank">
     <img src="https://img.youtube.com/vi/M9Isr1ON3lE/maxresdefault.jpg" width="200">
 </a>
 
+### 文章整理：核心主題  
+- **核心主題**：探讨腹部胀气（bloating）的原因及其与胆汁（bile）不足的关系，并提供解决方案。
 
+---
+
+### 主要觀念  
+1. **腹部胀气的常见误解**：许多人误认为腹部胀气是脂肪堆积，实际上可能是由胆汁不足引起的消化问题。  
+2. **胆汁的功能**：胆汁是一种重要的消化液，主要负责分解脂肪、吸收脂溶性维生素（如维生素A、D、E、K）以及促进钙的吸收。  
+3. **胆汁不足的影响**：缺乏胆汁会导致脂肪未被充分消化，引发一系列健康问题，包括维生素和矿物质吸收不良、消化不适等。
+
+---
+
+### 問題原因  
+1. **膽汁不足的原因**：
+   - 长期压力导致皮质醇（cortisol）水平升高，影响胆汁的循环和再生。
+   - 胆汁分泌或再利用功能受阻，导致胆汁储备不足。  
+
+2. **相关健康问题**：
+   - **维生素吸收不良**：维生素A、D、E、K等脂溶性维生素无法被有效吸收，可能导致皮肤干燥、视力模糊、钙代谢异常等问题。
+   - **消化系统症状**：如腹胀、打嗝、反酸、便秘等。
+   - **代谢和免疫问题**：胆汁不足会影响脂肪的分解和利用，导致血糖波动、免疫力下降以及潜在的心血管健康风险。
+
+---
+
+### 解決方法  
+1. **补充胆盐（Bile Salts）**：
+   - 使用纯化的胆盐补充剂，帮助刺激胆汁分泌和脂肪消化。
+   - 建议在每餐中服用少量胆盐，直到出现绿色便便（表明胆盐充足）。  
+
+2. **调整饮食习惯**：
+   - 避免摄入过多高脂肪、高糖分的食物，减轻消化系统负担。  
+   - 多摄入富含纤维的食物，促进肠道蠕动和排毒。
+
+3. **管理压力**：
+   - 通过运动、冥想等方式降低皮质醇水平，改善胆汁循环。
+
+---
+
+### 健康建議  
+1. **饮食建议**：
+   - 定期摄取健康脂肪（如橄榄油、坚果），并搭配胆盐以促进消化。  
+   - 减少精制糖和高血糖指数食物的摄入，避免因胆汁不足引发的血糖波动。
+
+2. **生活习惯建议**：
+   - 保持规律饮食和作息时间，避免暴饮暴食。
+   - 增加身体活动量，促进血液循环和代谢功能。  
+
+---
+
+### 結論  
+- 腹部胀气可能是由胆汁不足引起的消化系统问题，而非单纯的脂肪堆积。  
+- 补充胆盐、调整饮食结构和管理压力是改善症状的有效方法。  
+- 及时解决胆汁不足的问题不仅能缓解腹部不适，还能预防因维生素和矿物质吸收不良引发的长期健康问题。
 </details>
 
 <details>
-<summary>75. Foods that Burn Fat</summary>
+<summary>75. [2012-04-04] Foods that Burn Fat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vadPxKRGm7k" target="_blank">
     <img src="https://img.youtube.com/vi/vadPxKRGm7k/maxresdefault.jpg" width="200">
 </a>
 
+### Key Points from the Article
 
+#### Core Theme: Misconceptions About Weight Loss and Calorie Counting
+- The primary issue discussed is the widespread confusion surrounding calorie counting as a reliable method for weight loss. Many individuals eat fewer calories but fail to see results, leading to frustration.
+
+#### Main Concepts:
+1. **Caloric Restriction Without Results**: Despite consuming fewer calories, some people do not lose weight, which highlights the limitations of caloric restriction alone.
+2. **Hormonal and Metabolic Factors**: As individuals age (through their 20s, 30s, 40s, and 50s), hormonal changes and a slowdown in metabolism can hinder weight loss efforts.
+3. **Complexity of Hormonal Interactions**: Effective weight management requires understanding how different foods interact with hormones, rather than just focusing on caloric intake.
+
+#### Causes of the Problem:
+- The belief that simple calorie counting is sufficient for weight loss overlooks the intricate hormonal and metabolic processes involved.
+- Many diets fail to address the comprehensive hormonal reactions necessary for fat burning and storage.
+
+#### Solutions and Recommendations:
+1. **Comprehensive Fat-Burning Triggers**: Over eight years, a detailed system has been developed to identify foods that trigger fat burning versus those that promote fat storage.
+2. **Practical Application**: This system is condensed into a simple sheet designed for easy use, which can be kept in the fridge for quick reference.
+
+#### Health and Wellness Advice:
+- Focus on understanding and managing hormonal interactions rather than just reducing calorie intake.
+- Prioritize diets that address all aspects of hormonal reactions, not just isolated factors like insulin or glycemic index.
+
+#### Conclusion:
+- The article emphasizes that successful weight management requires a holistic approach that goes beyond mere caloric restriction. By focusing on the right hormonal triggers, individuals can achieve more sustainable and effective results.
+
+### Call to Action:
+1. **Apply the System**: Use the provided fat-burning trigger sheet and implement its principles in your diet.
+2. **Share Success Stories**: Document your progress and share your success story with the author.
+3. **Provide Feedback**: Write a review on platforms like Google, Bing, or social media about the effectiveness of the system and any positive experiences as a patient.
+
+This structured approach aims to simplify complex dietary concepts while providing actionable steps for achieving sustainable weight loss.
 </details>
 
 <details>
-<summary>74. The Drink More Water Myth</summary>
+<summary>74. [2012-04-04] The Drink More Water Myth</summary><br>
 
 <a href="https://www.youtube.com/watch?v=MQsDeZNlk4c" target="_blank">
     <img src="https://img.youtube.com/vi/MQsDeZNlk4c/maxresdefault.jpg" width="200">
 </a>
 
+### 核心主題  
+- 探讨关于水的常见误区及其科学真相。  
 
+---
+
+### 主要觀念  
+1. **人體 composition 的誤解**：  
+   - 誤信人體由60%水分組成，但事實上人體並非完全由液體組成，而是由含水和電解質的混合物組成（如血浆、淋巴液等）。  
+
+2. **水的作用的誤解**：  
+   - 水不能直接溶解脂肪或“沖洗”脂肪。  
+   - 过量飲水不會直接導致排毒效果增強，反而是 kidneys 負責清除毒素。  
+
+3. **dration 的建議**：  
+   - “一天八杯水”的說法缺乏科學依據，應該根據口渴感來調整飲水量。  
+
+---
+
+### 問題原因  
+1. **hydration 相關的迷思**：  
+   - 這些誤解可能源於對人體液體平衡機制的不了解，導致人們過度依賴dration建議而忽視了其他重要因素（如電解質平衡）。  
+
+2. **對水的功效益用的錯誤認識**：  
+   - 遇到 fat flushing、毒素沖洗等說法，往往忽略了 kidneys 的實際功能和人體自然調節机制。  
+
+---
+
+### 解決方法  
+1. **科學hydration 方法**：  
+   - 根據口渴感飲水，避免過量或不足。  
+   - 在水中添加天然電解質來源（如檸檬汁、未甜化的蔓越莓汁），以平衡水分攝取。  
+
+2. **正确认识水的作用**：  
+   - 水的主要作用是維持生命活動所需的液體平衡，而非直接溶解或沖洗脂肪和毒素。  
+
+---
+
+### 健康建議  
+1. **飲水策略**：  
+   - 閏 drinking schedule，以口渴感為主要指標。  
+   - 在特殊情況下（如運動後或高溫環境），可適當增加電解質攝取以補充流失的鹽分和礦物質。  
+
+2. **破除hydration迷思**：  
+   - 避免盲目跟隨網路流傳的dration建議，轉而依賴 science-based 的指引。  
+
+---
+
+### 總結  
+- 水是生命必需的，但其作用需要科學理解。  
+- 过度飲水可能導致健康問題（如低血鈉症），而不足則影響生理功能。  
+- 頻繁聽到的hydration建議並不完全適用於所有人，關鍵在於因應個人需求調整飲水量並注意電解質平衡。
 </details>
 
 <details>
-<summary>73. Successes from The 7 Principles of Fat Burning</summary>
+<summary>73. [2011-12-12] Successes from The 7 Principles of Fat Burning</summary><br>
 
 <a href="https://www.youtube.com/watch?v=WvO6N9vlmCo" target="_blank">
     <img src="https://img.youtube.com/vi/WvO6N9vlmCo/maxresdefault.jpg" width="200">
 </a>
 
+### 小節歸納：
 
+#### 1. 核心主題：
+- 病人分享了其在過去七年到八年間掙扎於體重管理的經驗，特別是在減肥過程中遇到的挑戰。
+- 強調了Dr.Burkitt飲食計劃的效果，該計劃幫助病人在三個月內成功減輕了約7至8磅。
+- 討論了從_focus on weight loss_ 到 _focus on health_ 的重要轉變。
+
+#### 2. 主要觀念：
+- 病人過去的挑戰：體重反覆，ダイエットプログラムが続かない状況。
+- Dr.Burkitt飲食計劃的特点：
+  - 容易實施，病人原本預期會很困難，但實際體驗卻遠優於此。
+  - 强調高鉀食物的攝取，這些食物有益健康並幫助病人保持能量水平。
+- 病人健康的改善：
+  - 舊疾（克隆氏病和結腸炎）的症狀減輕。
+  - 食物耐受度提高，能夠攝入以前無法食用的食物（如水果、蔬菜、堅果等）。
+  - 睡眠品質提升，夜間不再因トイレに起きる必要がなくなった。
+
+#### 3. 問題原因：
+- 從事素食且主食為淀粉的飲食習慣，導致傳統ダイエットプログラムが続くのが難しい状況。
+- 長期以來的消化系統問題（克隆氏病和結腸炎）限制了食物攝取，影響整體健康和體重管理。
+
+#### 4. 解決方法：
+- Dr.Burkitt飲食計劃：
+  - 提供平衡飲食結構，特別是高鉀食物，幫助病人保持能量並改善健康狀況。
+  - 經過三個月的實施，病人的消化系統恢復了平衡，能夠攝入更多多樣化的食物。
+- 減藥依賴的目標：
+  - 設法逐步減少對症狀控制药物的依賴，實現更自然的健康狀態。
+
+#### 5. 健康建議：
+- 食物選擇應該以健康為中心，而非僅減肥。
+- 確保飲食中含有足夠的鉀和其他營養成分，以維持身體機能和能量水平。
+- 與專業醫師合作，制定適合個人情況的飲食和健康管理計劃。
+
+#### 6. 結論：
+- Dr.Burkitt飲食計劃為病人提供了一個可行且健康的ダイエット方法。
+- 達到了減肥、改善消化系統健康以及提升生活品質的效果。
+- 建議其他人諮詢Dr.Burkitt或參考其.website以获取更多關於該飲食計劃的信息。
+
+---
+
+以上整理涵蓋了文章的核心主題、主要觀念、問題原因、解決方法、健康建議和結論，並使用了正式且具備學術性的語言進行表達。
 </details>
 
 <details>
-<summary>72. A Great Diet Success</summary>
+<summary>72. [2011-11-30] A Great Diet Success</summary><br>
 
 <a href="https://www.youtube.com/watch?v=p7KMpyQ7x9k" target="_blank">
     <img src="https://img.youtube.com/vi/p7KMpyQ7x9k/maxresdefault.jpg" width="200">
 </a>
 
+### 小節結構
 
+1. **核心主題**  
+   - 探讨通过调整饮食和生活方式来改善整体健康与身体状态。
+
+2. **主要觀念**  
+   - 饮食对身体健康有深远影响。  
+   - 年龄增长使身体对饮食和生活方式的需求更加敏感。  
+   - 社会压力和家庭因素可能对健康习惯的坚持构成挑战。  
+
+3. **問題原因**  
+   - 不良饮食习惯可能导致体内毒素积累，进而引发健康问题。  
+   - 随着年龄增长，身体功能下降，需更注重健康维护。  
+   - 现代加工食品中含有的添加剂和不健康成分对身体健康有害。  
+
+4. **解決方法**  
+   - 选择无抗生素、天然饲养的食材，避免工业化加工食品。  
+   - 均衡饮食，减少精制糖、麸质和乳制品的摄入。  
+   - 提供身体足够的营养素以支持免疫系统和器官功能。  
+
+5. **健康建議**  
+   - 优先选择来自可靠来源（如Polyface Farms）的高质量肉类和农产品。  
+   - 学会应对社交场合中的饮食挑战，通过与家人朋友沟通寻求理解和支持。  
+   - 定期进行身体检查和皮肤护理，以监测健康状况的变化。  
+
+6. **結論**  
+   - 调整饮食和生活方式能够显著改善身体健康和外貌状态。  
+   - 这种改变不仅是个人健康的提升，也对周围的亲友产生积极影响。  
+   - 坚持健康饮食和生活方式是长期维护身体功能和延年益寿的关键。
 </details>
 
 <details>
-<summary>71. [2011-11-30] The Healthiest Diet Explained By Dr. Berg</summary>
+<summary>71. [2011-11-30] The Healthiest Diet Explained By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=eRjBkoFy9IA" target="_blank">
     <img src="https://img.youtube.com/vi/eRjBkoFy9IA/maxresdefault.jpg" width="200">
 </a>
 
+### 核心主題：健康與營養管理的重要性
 
+- **核心主題**：探討個人在年輕時對健康的低覺察性，以及後期通過研究和實踐所形成的健康觀念。
+- **主要觀念**：
+  - 年輕時的飲食習慣欠佳，導致身體健康問題。
+  - 营養攝取是維持身體功能的基本需求，而非单纯的三大營養素（碳水化合物、蛋白質、脂肪）供應。
+  - 身體需要足夠的營養來修復和更新組織。
+
+### 問題原因：飲食結構失衡與營養不足
+
+- **問題原因**：
+  - 過去對健康和營養缺乏足夠的了解，導致飲食選擇不當。
+  - 經常攝取低營養價值甚至有害的食物。
+  - 營養攝取量未達到身體所需，尤其是長期以來營養不足引發各種健康問題。
+
+### 解決方法：基於營養需求的飲食計劃
+
+- **解決方法**：
+  - 建立一套基於人體所需營養素的飲食分析プログラム。
+  - 參考美國農業部（USDA）制定的推薦攝取量（RDAs），但認為其標準過低，因此進行了針對性調整。
+  - 通過研究和實踐，設計出一套符合身體需求的飲食結構，以實現營養均衡。
+
+### 健康建議：提升營養素攝取與飲食質量
+
+- **健康建議**：
+  - 不應該過度追求某種特定的ダイエットプラン，而是應該注重營養素的全面攝取。
+  - 確保飲食中包含足夠的微量營養素和其他必需營養成分。
+  - 考慮使用整體食物濃縮產品來彌補土壤貧瘠導致的食物營養不足，但需避免合成添加劑。
+
+### 结論：科學飲食與健康生活方式
+
+- **結論**：
+  - 科學合理的飲食計劃能夠幫助恢復身體健康、控制體重。
+  - 適當的飲食調整可以有效解決營養缺乏導致的食物渴望問題。
+  - 建議按照章節中提供的飲食計劃進行實踐，以達到最佳的健康效果。
 </details>
 
 <details>
-<summary>70. [2011-11-30] Get Rid of Cravings at Night</summary>
+<summary>70. [2011-11-30] Get Rid of Cravings at Night</summary><br>
 
 <a href="https://www.youtube.com/watch?v=EsGvIsqGFpU" target="_blank">
     <img src="https://img.youtube.com/vi/EsGvIsqGFpU/maxresdefault.jpg" width="200">
@@ -336,7 +610,7 @@
 </details>
 
 <details>
-<summary>69. [2011-11-29] The HCG Diet - Reviews</summary>
+<summary>69. [2011-11-29] The HCG Diet - Reviews</summary><br>
 
 <a href="https://www.youtube.com/watch?v=giPkBbm52CM" target="_blank">
     <img src="https://img.youtube.com/vi/giPkBbm52CM/maxresdefault.jpg" width="200">
@@ -375,7 +649,7 @@
 </details>
 
 <details>
-<summary>68. [2011-11-29] Improved Breathing, Better Sleep and More Energy</summary>
+<summary>68. [2011-11-29] Improved Breathing, Better Sleep and More Energy</summary><br>
 
 <a href="https://www.youtube.com/watch?v=-LfNqA61-aU" target="_blank">
     <img src="https://img.youtube.com/vi/-LfNqA61-aU/maxresdefault.jpg" width="200">
@@ -423,7 +697,7 @@
 </details>
 
 <details>
-<summary>67. [2011-11-29] Overcoming Temptation and Help with Weight Loss!</summary>
+<summary>67. [2011-11-29] Overcoming Temptation and Help with Weight Loss!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=v-qINKfAm7U" target="_blank">
     <img src="https://img.youtube.com/vi/v-qINKfAm7U/maxresdefault.jpg" width="200">
@@ -482,7 +756,7 @@
 </details>
 
 <details>
-<summary>66. [2011-11-29] How to Rid Stretch Marks</summary>
+<summary>66. [2011-11-29] How to Rid Stretch Marks</summary><br>
 
 <a href="https://www.youtube.com/watch?v=UUV7CRT8lbE" target="_blank">
     <img src="https://img.youtube.com/vi/UUV7CRT8lbE/maxresdefault.jpg" width="200">
@@ -543,7 +817,7 @@
 </details>
 
 <details>
-<summary>65. [2011-11-29] Diet Plan Success</summary>
+<summary>65. [2011-11-29] Diet Plan Success</summary><br>
 
 <a href="https://www.youtube.com/watch?v=gc4P7uhZCK8" target="_blank">
     <img src="https://img.youtube.com/vi/gc4P7uhZCK8/maxresdefault.jpg" width="200">
@@ -605,7 +879,7 @@
 </details>
 
 <details>
-<summary>64. [2011-11-29] The 600 pound guy</summary>
+<summary>64. [2011-11-29] The 600 pound guy</summary><br>
 
 <a href="https://www.youtube.com/watch?v=k6-Tkv_Jnz0" target="_blank">
     <img src="https://img.youtube.com/vi/k6-Tkv_Jnz0/maxresdefault.jpg" width="200">
@@ -659,7 +933,7 @@
 </details>
 
 <details>
-<summary>63. [2011-11-29] Dr. Berg's follow up to his shoulder fracture</summary>
+<summary>63. [2011-11-29] Dr. Berg's follow up to his shoulder fracture</summary><br>
 
 <a href="https://www.youtube.com/watch?v=x9espCyDUp8" target="_blank">
     <img src="https://img.youtube.com/vi/x9espCyDUp8/maxresdefault.jpg" width="200">
@@ -697,7 +971,7 @@
 </details>
 
 <details>
-<summary>62. [2011-11-29] Dr. Berg Explains His Pain After Surgery</summary>
+<summary>62. [2011-11-29] Dr. Berg Explains His Pain After Surgery</summary><br>
 
 <a href="https://www.youtube.com/watch?v=TTqsVzse5HY" target="_blank">
     <img src="https://img.youtube.com/vi/TTqsVzse5HY/maxresdefault.jpg" width="200">
@@ -740,7 +1014,7 @@
 </details>
 
 <details>
-<summary>61. [2011-11-29] What are Phytonutrients?</summary>
+<summary>61. [2011-11-29] What are Phytonutrients?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=NqOpIj_XXFU" target="_blank">
     <img src="https://img.youtube.com/vi/NqOpIj_XXFU/maxresdefault.jpg" width="200">
@@ -785,7 +1059,7 @@ Incorporating a variety of fresh, organic vegetables, particularly cruciferous o
 </details>
 
 <details>
-<summary>60. Understanding Body Types</summary>
+<summary>60. Understanding Body Types</summary><br>
 
 <a href="https://www.youtube.com/watch?v=sINOePVcD3I" target="_blank">
     <img src="https://img.youtube.com/vi/sINOePVcD3I/maxresdefault.jpg" width="200">
@@ -795,7 +1069,7 @@ Incorporating a variety of fresh, organic vegetables, particularly cruciferous o
 </details>
 
 <details>
-<summary>59. [2011-11-29] What are Carbohydrates?</summary>
+<summary>59. [2011-11-29] What are Carbohydrates?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=krwKqnmidC8" target="_blank">
     <img src="https://img.youtube.com/vi/krwKqnmidC8/maxresdefault.jpg" width="200">
@@ -860,7 +1134,7 @@ In conclusion, processed grains should be minimized due to their low nutritional
 </details>
 
 <details>
-<summary>58. [2011-11-29] How Sugar Effects Your Body</summary>
+<summary>58. [2011-11-29] How Sugar Effects Your Body</summary><br>
 
 <a href="https://www.youtube.com/watch?v=A7MsLHlDEDc" target="_blank">
     <img src="https://img.youtube.com/vi/A7MsLHlDEDc/maxresdefault.jpg" width="200">
@@ -905,7 +1179,7 @@ In conclusion, processed grains should be minimized due to their low nutritional
 </details>
 
 <details>
-<summary>57. [2011-11-29] The Importance of Sleep and Weight Loss</summary>
+<summary>57. [2011-11-29] The Importance of Sleep and Weight Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=wr82y-dGoTg" target="_blank">
     <img src="https://img.youtube.com/vi/wr82y-dGoTg/maxresdefault.jpg" width="200">
@@ -959,7 +1233,7 @@ In conclusion, processed grains should be minimized due to their low nutritional
 </details>
 
 <details>
-<summary>56. [2011-11-29] Dr. Berg Discusses Liver Cleansing Food on News Channel 8 Sports Talk Dr. Eric Berg 2</summary>
+<summary>56. [2011-11-29] Dr. Berg Discusses Liver Cleansing Food on News Channel 8 Sports Talk Dr. Eric Berg 2</summary><br>
 
 <a href="https://www.youtube.com/watch?v=FTZcZz1ESII" target="_blank">
     <img src="https://img.youtube.com/vi/FTZcZz1ESII/maxresdefault.jpg" width="200">
@@ -1033,7 +1307,7 @@ In conclusion, processed grains should be minimized due to their low nutritional
 </details>
 
 <details>
-<summary>55. [2011-11-29] A Better Way to Track Weight Loss</summary>
+<summary>55. [2011-11-29] A Better Way to Track Weight Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=W_EHiOd8yHQ" target="_blank">
     <img src="https://img.youtube.com/vi/W_EHiOd8yHQ/maxresdefault.jpg" width="200">
@@ -1113,7 +1387,7 @@ The Fat Burning Tracker offers a novel approach to weight loss by addressing the
 </details>
 
 <details>
-<summary>54. [2011-11-29] Dr. Eric Berg, Gets Success with Weight Loss</summary>
+<summary>54. [2011-11-29] Dr. Eric Berg, Gets Success with Weight Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HhLJz1-SAhw" target="_blank">
     <img src="https://img.youtube.com/vi/HhLJz1-SAhw/maxresdefault.jpg" width="200">
@@ -1146,7 +1420,7 @@ The Fat Burning Tracker offers a novel approach to weight loss by addressing the
 </details>
 
 <details>
-<summary>53. [2011-11-29] Dr  Eric Berg, Seminar testimonial</summary>
+<summary>53. [2011-11-29] Dr  Eric Berg, Seminar testimonial</summary><br>
 
 <a href="https://www.youtube.com/watch?v=0rh0qiyPxdY" target="_blank">
     <img src="https://img.youtube.com/vi/0rh0qiyPxdY/maxresdefault.jpg" width="200">
@@ -1182,7 +1456,7 @@ The Fat Burning Tracker offers a novel approach to weight loss by addressing the
 </details>
 
 <details>
-<summary>52. [2011-11-29] Dr. Eric Berg, Seminar Success with Losing Weight</summary>
+<summary>52. [2011-11-29] Dr. Eric Berg, Seminar Success with Losing Weight</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fCHw_dW7oH4" target="_blank">
     <img src="https://img.youtube.com/vi/fCHw_dW7oH4/maxresdefault.jpg" width="200">
@@ -1213,7 +1487,7 @@ The Fat Burning Tracker offers a novel approach to weight loss by addressing the
 </details>
 
 <details>
-<summary>51. [2011-11-29] Dr  Eric Berg, Seminar testimonial</summary>
+<summary>51. [2011-11-29] Dr  Eric Berg, Seminar testimonial</summary><br>
 
 <a href="https://www.youtube.com/watch?v=lZnVLG-nLTE" target="_blank">
     <img src="https://img.youtube.com/vi/lZnVLG-nLTE/maxresdefault.jpg" width="200">
@@ -1240,7 +1514,7 @@ The Fat Burning Tracker offers a novel approach to weight loss by addressing the
 </details>
 
 <details>
-<summary>50. [2011-11-29] A Great Weight Loss Success</summary>
+<summary>50. [2011-11-29] A Great Weight Loss Success</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_jV90HZceus" target="_blank">
     <img src="https://img.youtube.com/vi/_jV90HZceus/maxresdefault.jpg" width="200">
@@ -1277,7 +1551,7 @@ The Fat Burning Tracker offers a novel approach to weight loss by addressing the
 </details>
 
 <details>
-<summary>49. [2011-11-29] Register for Dr. Berg's Seminar</summary>
+<summary>49. [2011-11-29] Register for Dr. Berg's Seminar</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8SixpXSS6Bw" target="_blank">
     <img src="https://img.youtube.com/vi/8SixpXSS6Bw/maxresdefault.jpg" width="200">
@@ -1323,7 +1597,7 @@ The Fat Burning Tracker offers a novel approach to weight loss by addressing the
 </details>
 
 <details>
-<summary>48. [2011-11-29] Dr  Eric Berg, Seminar testimonial</summary>
+<summary>48. [2011-11-29] Dr  Eric Berg, Seminar testimonial</summary><br>
 
 <a href="https://www.youtube.com/watch?v=rOd4QNwDTv4" target="_blank">
     <img src="https://img.youtube.com/vi/rOd4QNwDTv4/maxresdefault.jpg" width="200">
@@ -1349,7 +1623,7 @@ The Fat Burning Tracker offers a novel approach to weight loss by addressing the
 </details>
 
 <details>
-<summary>47. [2011-11-29] Dr Berg's Patient Speak About Their Success</summary>
+<summary>47. [2011-11-29] Dr Berg's Patient Speak About Their Success</summary><br>
 
 <a href="https://www.youtube.com/watch?v=YF00ySD6nKE" target="_blank">
     <img src="https://img.youtube.com/vi/YF00ySD6nKE/maxresdefault.jpg" width="200">
@@ -1389,7 +1663,7 @@ The Fat Burning Tracker offers a novel approach to weight loss by addressing the
 </details>
 
 <details>
-<summary>46. [2011-11-27] Using Acupressure for Headaches</summary>
+<summary>46. [2011-11-27] Using Acupressure for Headaches</summary><br>
 
 <a href="https://www.youtube.com/watch?v=919B_Ey0fuU" target="_blank">
     <img src="https://img.youtube.com/vi/919B_Ey0fuU/maxresdefault.jpg" width="200">
@@ -1440,7 +1714,7 @@ The Fat Burning Tracker offers a novel approach to weight loss by addressing the
 </details>
 
 <details>
-<summary>45. [2011-11-27] Stretches for Back Pain</summary>
+<summary>45. [2011-11-27] Stretches for Back Pain</summary><br>
 
 <a href="https://www.youtube.com/watch?v=SuRyHA2wQc8" target="_blank">
     <img src="https://img.youtube.com/vi/SuRyHA2wQc8/maxresdefault.jpg" width="200">
@@ -1480,7 +1754,7 @@ The Fat Burning Tracker offers a novel approach to weight loss by addressing the
 </details>
 
 <details>
-<summary>44. [2011-11-27] Interesting Success Story</summary>
+<summary>44. [2011-11-27] Interesting Success Story</summary><br>
 
 <a href="https://www.youtube.com/watch?v=FckvKNAi44U" target="_blank">
     <img src="https://img.youtube.com/vi/FckvKNAi44U/maxresdefault.jpg" width="200">
@@ -1515,7 +1789,7 @@ The Fat Burning Tracker offers a novel approach to weight loss by addressing the
 </details>
 
 <details>
-<summary>43. [2011-11-27] Anxiety Relief Success</summary>
+<summary>43. [2011-11-27] Anxiety Relief Success</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Sggj4HgaoO0" target="_blank">
     <img src="https://img.youtube.com/vi/Sggj4HgaoO0/maxresdefault.jpg" width="200">
@@ -1551,7 +1825,7 @@ The Fat Burning Tracker offers a novel approach to weight loss by addressing the
 </details>
 
 <details>
-<summary>42. [2011-11-27] The Best and Worst Weight Loss Diets</summary>
+<summary>42. [2011-11-27] The Best and Worst Weight Loss Diets</summary><br>
 
 <a href="https://www.youtube.com/watch?v=yhxWd2jveT8" target="_blank">
     <img src="https://img.youtube.com/vi/yhxWd2jveT8/maxresdefault.jpg" width="200">
@@ -1601,7 +1875,7 @@ The Fat Burning Tracker offers a novel approach to weight loss by addressing the
 </details>
 
 <details>
-<summary>41. [2011-11-27] 90 Year Old - Amazing Story</summary>
+<summary>41. [2011-11-27] 90 Year Old - Amazing Story</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ZBpNtVSmTN4" target="_blank">
     <img src="https://img.youtube.com/vi/ZBpNtVSmTN4/maxresdefault.jpg" width="200">
@@ -1656,7 +1930,7 @@ The Fat Burning Tracker offers a novel approach to weight loss by addressing the
 </details>
 
 <details>
-<summary>40. [2011-11-27] Dr. Eric Berg, Seminar testimonial</summary>
+<summary>40. [2011-11-27] Dr. Eric Berg, Seminar testimonial</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hzYhdetIiHg" target="_blank">
     <img src="https://img.youtube.com/vi/hzYhdetIiHg/maxresdefault.jpg" width="200">
@@ -1684,7 +1958,7 @@ The Fat Burning Tracker offers a novel approach to weight loss by addressing the
 </details>
 
 <details>
-<summary>39. Dr. Berg on Sport's Talk</summary>
+<summary>39. Dr. Berg on Sport's Talk</summary><br>
 
 <a href="https://www.youtube.com/watch?v=s3HfT4yI76A" target="_blank">
     <img src="https://img.youtube.com/vi/s3HfT4yI76A/maxresdefault.jpg" width="200">
@@ -1694,7 +1968,7 @@ The Fat Burning Tracker offers a novel approach to weight loss by addressing the
 </details>
 
 <details>
-<summary>38. [2011-11-27] The Hidden Source Belly Fat: MSG Monosodium Glutamate</summary>
+<summary>38. [2011-11-27] The Hidden Source Belly Fat: MSG Monosodium Glutamate</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KkBWi3G9qM0" target="_blank">
     <img src="https://img.youtube.com/vi/KkBWi3G9qM0/maxresdefault.jpg" width="200">
@@ -1739,7 +2013,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 </details>
 
 <details>
-<summary>37. [2011-11-27] Dr. Berg Grows Kale in His Basement (Part 2)</summary>
+<summary>37. [2011-11-27] Dr. Berg Grows Kale in His Basement (Part 2)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8JJm4HRq8Oo" target="_blank">
     <img src="https://img.youtube.com/vi/8JJm4HRq8Oo/maxresdefault.jpg" width="200">
@@ -1808,7 +2082,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 </details>
 
 <details>
-<summary>36. [2011-11-27] Dr. Berg Grows Cruciferous Vegetables in his Basement (Part 1)</summary>
+<summary>36. [2011-11-27] Dr. Berg Grows Cruciferous Vegetables in his Basement (Part 1)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=qKSlhns1xmg" target="_blank">
     <img src="https://img.youtube.com/vi/qKSlhns1xmg/maxresdefault.jpg" width="200">
@@ -1857,7 +2131,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 </details>
 
 <details>
-<summary>35. [2011-06-07] The Best Fat Burning Exercise</summary>
+<summary>35. [2011-06-07] The Best Fat Burning Exercise</summary><br>
 
 <a href="https://www.youtube.com/watch?v=E_AvZcJ9IV4" target="_blank">
     <img src="https://img.youtube.com/vi/E_AvZcJ9IV4/maxresdefault.jpg" width="200">
@@ -1902,7 +2176,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 </details>
 
 <details>
-<summary>34. [2011-01-06] Dr. Berg's Body Types</summary>
+<summary>34. [2011-01-06] Dr. Berg's Body Types</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HS0Bm5oB8YI" target="_blank">
     <img src="https://img.youtube.com/vi/HS0Bm5oB8YI/maxresdefault.jpg" width="200">
@@ -1968,7 +2242,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 </details>
 
 <details>
-<summary>33. [2010-11-05] Dr Eric Berg's Review: After 2 Adrenal Acupressure Treatments</summary>
+<summary>33. [2010-11-05] Dr Eric Berg's Review: After 2 Adrenal Acupressure Treatments</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5Q6g9e1O35s" target="_blank">
     <img src="https://img.youtube.com/vi/5Q6g9e1O35s/maxresdefault.jpg" width="200">
@@ -2036,7 +2310,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 </details>
 
 <details>
-<summary>32. [2010-10-13] Get Rid of Cravings at Night</summary>
+<summary>32. [2010-10-13] Get Rid of Cravings at Night</summary><br>
 
 <a href="https://www.youtube.com/watch?v=pbuCC33gKck" target="_blank">
     <img src="https://img.youtube.com/vi/pbuCC33gKck/maxresdefault.jpg" width="200">
@@ -2096,7 +2370,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 </details>
 
 <details>
-<summary>31. [2010-10-13] Adrenal Burnout</summary>
+<summary>31. [2010-10-13] Adrenal Burnout</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hGiN_a0rYJY" target="_blank">
     <img src="https://img.youtube.com/vi/hGiN_a0rYJY/maxresdefault.jpg" width="200">
@@ -2159,7 +2433,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 </details>
 
 <details>
-<summary>30. [2010-08-10] The Best Tip for Reducing Stress Hormones</summary>
+<summary>30. [2010-08-10] The Best Tip for Reducing Stress Hormones</summary><br>
 
 <a href="https://www.youtube.com/watch?v=TNUaDYqt0uA" target="_blank">
     <img src="https://img.youtube.com/vi/TNUaDYqt0uA/maxresdefault.jpg" width="200">
@@ -2192,7 +2466,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 </details>
 
 <details>
-<summary>29. [2010-08-10] Cortisol, The Good, The Bad & The Ugly</summary>
+<summary>29. [2010-08-10] Cortisol, The Good, The Bad & The Ugly</summary><br>
 
 <a href="https://www.youtube.com/watch?v=yQ9jy2eCb5I" target="_blank">
     <img src="https://img.youtube.com/vi/yQ9jy2eCb5I/maxresdefault.jpg" width="200">
@@ -2284,7 +2558,7 @@ Chronic stress significantly impacts cortisol levels, leading to a cascade of he
 </details>
 
 <details>
-<summary>28. [2010-08-10] Thyroid Body Type - Dr. Berg</summary>
+<summary>28. [2010-08-10] Thyroid Body Type - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=T3eo4p2LuYw" target="_blank">
     <img src="https://img.youtube.com/vi/T3eo4p2LuYw/maxresdefault.jpg" width="200">
@@ -2354,7 +2628,7 @@ Thyroid dysfunction is a multifaceted condition with significant impacts on phys
 </details>
 
 <details>
-<summary>27. [2010-08-10] Sleep, Cortisol, & Belly Fat</summary>
+<summary>27. [2010-08-10] Sleep, Cortisol, & Belly Fat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3GWnU_lma7w" target="_blank">
     <img src="https://img.youtube.com/vi/3GWnU_lma7w/maxresdefault.jpg" width="200">
@@ -2433,7 +2707,7 @@ Thyroid dysfunction is a multifaceted condition with significant impacts on phys
 </details>
 
 <details>
-<summary>26. [2010-08-10] How to Trigger Your Fat Burning Hormones</summary>
+<summary>26. [2010-08-10] How to Trigger Your Fat Burning Hormones</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Gr5QxkSm9xs" target="_blank">
     <img src="https://img.youtube.com/vi/Gr5QxkSm9xs/maxresdefault.jpg" width="200">
@@ -2464,7 +2738,7 @@ Thyroid dysfunction is a multifaceted condition with significant impacts on phys
 </details>
 
 <details>
-<summary>25. [2010-08-10] Vitamin D Adrenals Belly Fat</summary>
+<summary>25. [2010-08-10] Vitamin D Adrenals Belly Fat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kJegLw2qtPc" target="_blank">
     <img src="https://img.youtube.com/vi/kJegLw2qtPc/maxresdefault.jpg" width="200">
@@ -2506,7 +2780,7 @@ Thyroid dysfunction is a multifaceted condition with significant impacts on phys
 </details>
 
 <details>
-<summary>24. [2010-08-05] Dr. Berg Talks about Body Types on News 9</summary>
+<summary>24. [2010-08-05] Dr. Berg Talks about Body Types on News 9</summary><br>
 
 <a href="https://www.youtube.com/watch?v=bNnmCqGMy8Q" target="_blank">
     <img src="https://img.youtube.com/vi/bNnmCqGMy8Q/maxresdefault.jpg" width="200">
@@ -2556,7 +2830,7 @@ Thyroid dysfunction is a multifaceted condition with significant impacts on phys
 </details>
 
 <details>
-<summary>23. [2010-08-05] How to Burn Fat I Dr. Berg on Fox and Friends I Talks About Body Types</summary>
+<summary>23. [2010-08-05] How to Burn Fat I Dr. Berg on Fox and Friends I Talks About Body Types</summary><br>
 
 <a href="https://www.youtube.com/watch?v=M25xpZk5WtU" target="_blank">
     <img src="https://img.youtube.com/vi/M25xpZk5WtU/maxresdefault.jpg" width="200">
@@ -2611,7 +2885,7 @@ Thyroid dysfunction is a multifaceted condition with significant impacts on phys
 </details>
 
 <details>
-<summary>22. [2010-07-20] Success Story with Belly Fat Loss - Lost over 100 lbs</summary>
+<summary>22. [2010-07-20] Success Story with Belly Fat Loss - Lost over 100 lbs</summary><br>
 
 <a href="https://www.youtube.com/watch?v=rC7cXuNlyR4" target="_blank">
     <img src="https://img.youtube.com/vi/rC7cXuNlyR4/maxresdefault.jpg" width="200">
@@ -2674,7 +2948,7 @@ Thyroid dysfunction is a multifaceted condition with significant impacts on phys
 </details>
 
 <details>
-<summary>21. [2010-07-13] Fast Healthy Weight Loss - Patients Speak Their Success!</summary>
+<summary>21. [2010-07-13] Fast Healthy Weight Loss - Patients Speak Their Success!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=G3AFxauJeok" target="_blank">
     <img src="https://img.youtube.com/vi/G3AFxauJeok/maxresdefault.jpg" width="200">
@@ -2716,7 +2990,7 @@ Thyroid dysfunction is a multifaceted condition with significant impacts on phys
 </details>
 
 <details>
-<summary>20. [2010-06-24] Rid Craving</summary>
+<summary>20. [2010-06-24] Rid Craving</summary><br>
 
 <a href="https://www.youtube.com/watch?v=E7yVINKxiew" target="_blank">
     <img src="https://img.youtube.com/vi/E7yVINKxiew/maxresdefault.jpg" width="200">
@@ -2777,7 +3051,7 @@ Thyroid dysfunction is a multifaceted condition with significant impacts on phys
 </details>
 
 <details>
-<summary>19. [2010-04-24] Body Type Video</summary>
+<summary>19. [2010-04-24] Body Type Video</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Lk1RlIHx7F0" target="_blank">
     <img src="https://img.youtube.com/vi/Lk1RlIHx7F0/maxresdefault.jpg" width="200">
@@ -2827,7 +3101,7 @@ Thyroid dysfunction is a multifaceted condition with significant impacts on phys
 </details>
 
 <details>
-<summary>18. [2009-07-30] Dr. Eric Berg's Review: Patient Speak About Her Success</summary>
+<summary>18. [2009-07-30] Dr. Eric Berg's Review: Patient Speak About Her Success</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Fjqtjq4WRNg" target="_blank">
     <img src="https://img.youtube.com/vi/Fjqtjq4WRNg/maxresdefault.jpg" width="200">
@@ -2877,7 +3151,7 @@ Thyroid dysfunction is a multifaceted condition with significant impacts on phys
 </details>
 
 <details>
-<summary>17. [2009-07-30] Dr Eric Berg's Review: No More Problems with Sleeping</summary>
+<summary>17. [2009-07-30] Dr Eric Berg's Review: No More Problems with Sleeping</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_xR5rYmSvc0" target="_blank">
     <img src="https://img.youtube.com/vi/_xR5rYmSvc0/maxresdefault.jpg" width="200">
@@ -2967,7 +3241,7 @@ Thyroid dysfunction is a multifaceted condition with significant impacts on phys
 </details>
 
 <details>
-<summary>16. [2009-07-30] Dr. Berg's Example of Acupressure for Weight Loss</summary>
+<summary>16. [2009-07-30] Dr. Berg's Example of Acupressure for Weight Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XefowjsRkDo" target="_blank">
     <img src="https://img.youtube.com/vi/XefowjsRkDo/maxresdefault.jpg" width="200">
@@ -2999,7 +3273,7 @@ Thyroid dysfunction is a multifaceted condition with significant impacts on phys
 </details>
 
 <details>
-<summary>15. [2009-07-28] Dr. Eric Berg Review: Gaining Weight after Smoking</summary>
+<summary>15. [2009-07-28] Dr. Eric Berg Review: Gaining Weight after Smoking</summary><br>
 
 <a href="https://www.youtube.com/watch?v=mLk7prs2IdM" target="_blank">
     <img src="https://img.youtube.com/vi/mLk7prs2IdM/maxresdefault.jpg" width="200">
@@ -3046,7 +3320,7 @@ Thyroid dysfunction is a multifaceted condition with significant impacts on phys
 </details>
 
 <details>
-<summary>14. Dr. Berg in the Media</summary>
+<summary>14. Dr. Berg in the Media</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hvYEFh3em3Q" target="_blank">
     <img src="https://img.youtube.com/vi/hvYEFh3em3Q/maxresdefault.jpg" width="200">
@@ -3056,7 +3330,7 @@ Thyroid dysfunction is a multifaceted condition with significant impacts on phys
 </details>
 
 <details>
-<summary>13. [2009-04-04] Dr. Berg Speaks at the Federal Communication Commission</summary>
+<summary>13. [2009-04-04] Dr. Berg Speaks at the Federal Communication Commission</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_kuQPktErD4" target="_blank">
     <img src="https://img.youtube.com/vi/_kuQPktErD4/maxresdefault.jpg" width="200">
@@ -3124,7 +3398,7 @@ Thyroid dysfunction is a multifaceted condition with significant impacts on phys
 </details>
 
 <details>
-<summary>12. [2009-04-01] Body Shape Seminar (Part 3)</summary>
+<summary>12. [2009-04-01] Body Shape Seminar (Part 3)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=IquS1CMFYDA" target="_blank">
     <img src="https://img.youtube.com/vi/IquS1CMFYDA/maxresdefault.jpg" width="200">
@@ -3191,7 +3465,7 @@ Thyroid dysfunction is a multifaceted condition with significant impacts on phys
 </details>
 
 <details>
-<summary>11. [2009-04-01] Body Shape Seminar (Part 2)</summary>
+<summary>11. [2009-04-01] Body Shape Seminar (Part 2)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=LqYD6ScfV5Y" target="_blank">
     <img src="https://img.youtube.com/vi/LqYD6ScfV5Y/maxresdefault.jpg" width="200">
@@ -3255,7 +3529,7 @@ Thyroid dysfunction is a multifaceted condition with significant impacts on phys
 </details>
 
 <details>
-<summary>10. [2009-04-01] Body Shape Seminar (Part 1)</summary>
+<summary>10. [2009-04-01] Body Shape Seminar (Part 1)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=08KUhaJrejs" target="_blank">
     <img src="https://img.youtube.com/vi/08KUhaJrejs/maxresdefault.jpg" width="200">
@@ -3314,7 +3588,7 @@ Thyroid dysfunction is a multifaceted condition with significant impacts on phys
 </details>
 
 <details>
-<summary>9. [2009-03-31] Dr.Eric Berg @ News Channel 8 (Behind The Scenes)</summary>
+<summary>9. [2009-03-31] Dr.Eric Berg @ News Channel 8 (Behind The Scenes)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=49TxVYeq4m4" target="_blank">
     <img src="https://img.youtube.com/vi/49TxVYeq4m4/maxresdefault.jpg" width="200">
@@ -3361,7 +3635,7 @@ Thyroid dysfunction is a multifaceted condition with significant impacts on phys
 </details>
 
 <details>
-<summary>8. [2009-03-21] Dr. Berg Talks about Healthy Weight Loss on News Channel 8</summary>
+<summary>8. [2009-03-21] Dr. Berg Talks about Healthy Weight Loss on News Channel 8</summary><br>
 
 <a href="https://www.youtube.com/watch?v=z_pRjz-0X7o" target="_blank">
     <img src="https://img.youtube.com/vi/z_pRjz-0X7o/maxresdefault.jpg" width="200">
@@ -3403,7 +3677,7 @@ Thyroid dysfunction is a multifaceted condition with significant impacts on phys
 </details>
 
 <details>
-<summary>6. [2009-02-19] Understanding the Best Nutrients for Weight Loss</summary>
+<summary>6. [2009-02-19] Understanding the Best Nutrients for Weight Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=nTOrG4w660c" target="_blank">
     <img src="https://img.youtube.com/vi/nTOrG4w660c/maxresdefault.jpg" width="200">
@@ -3441,7 +3715,7 @@ Thyroid dysfunction is a multifaceted condition with significant impacts on phys
 </details>
 
 <details>
-<summary>5. [2009-02-19] Vitamins and Nutrients for Weight Loss</summary>
+<summary>5. [2009-02-19] Vitamins and Nutrients for Weight Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=McGFltMvSIo" target="_blank">
     <img src="https://img.youtube.com/vi/McGFltMvSIo/maxresdefault.jpg" width="200">
@@ -3492,7 +3766,7 @@ Thyroid dysfunction is a multifaceted condition with significant impacts on phys
 </details>
 
 <details>
-<summary>4. [2009-02-17] Adrenal, Stress and Your Sleep</summary>
+<summary>4. [2009-02-17] Adrenal, Stress and Your Sleep</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Q5wN32_3m4o" target="_blank">
     <img src="https://img.youtube.com/vi/Q5wN32_3m4o/maxresdefault.jpg" width="200">
@@ -3554,7 +3828,7 @@ Thyroid dysfunction is a multifaceted condition with significant impacts on phys
 </details>
 
 <details>
-<summary>3. [2009-02-17] Exercise</summary>
+<summary>3. [2009-02-17] Exercise</summary><br>
 
 <a href="https://www.youtube.com/watch?v=lgyf5KoRfzE" target="_blank">
     <img src="https://img.youtube.com/vi/lgyf5KoRfzE/maxresdefault.jpg" width="200">
@@ -3623,7 +3897,7 @@ Thyroid dysfunction is a multifaceted condition with significant impacts on phys
 </details>
 
 <details>
-<summary>2. [2009-02-17] Body Types</summary>
+<summary>2. [2009-02-17] Body Types</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XO-iyh2Z_s8" target="_blank">
     <img src="https://img.youtube.com/vi/XO-iyh2Z_s8/maxresdefault.jpg" width="200">
@@ -3683,7 +3957,7 @@ Thyroid dysfunction is a multifaceted condition with significant impacts on phys
 </details>
 
 <details>
-<summary>1. [2008-12-19] Dr. Berg Works on Duane Clemons, Former NFL Player</summary>
+<summary>1. [2008-12-19] Dr. Berg Works on Duane Clemons, Former NFL Player</summary><br>
 
 <a href="https://www.youtube.com/watch?v=LE8iCYYoXh4" target="_blank">
     <img src="https://img.youtube.com/vi/LE8iCYYoXh4/maxresdefault.jpg" width="200">

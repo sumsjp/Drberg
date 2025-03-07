@@ -171,7 +171,7 @@ def make_doc(filename: str, video_list: list):
         video_list (list): 影片資料列表
     """
     details_template = """<details>
-<summary>{idx}. {date}{title}</summary>
+<summary>{idx}. {date}{title}</summary><br>
 
 <a href="https://www.youtube.com/watch?v={id}" target="_blank">
     <img src="https://img.youtube.com/vi/{id}/maxresdefault.jpg" width="200">

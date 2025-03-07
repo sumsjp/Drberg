@@ -1,5 +1,5 @@
 <details>
-<summary>4600. [2024-05-04] How to Increase Blood Oxygen Levels: Breathing Hack</summary>
+<summary>4600. [2024-05-04] How to Increase Blood Oxygen Levels: Breathing Hack</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HfknEr2ctRI" target="_blank">
     <img src="https://img.youtube.com/vi/HfknEr2ctRI/maxresdefault.jpg" width="200">
@@ -53,7 +53,7 @@
 </details>
 
 <details>
-<summary>4599. [2024-05-03] Remedy for Gout and Uric Acid - Straight From the Garden</summary>
+<summary>4599. [2024-05-03] Remedy for Gout and Uric Acid - Straight From the Garden</summary><br>
 
 <a href="https://www.youtube.com/watch?v=s82Ooad0AJQ" target="_blank">
     <img src="https://img.youtube.com/vi/s82Ooad0AJQ/maxresdefault.jpg" width="200">
@@ -106,7 +106,7 @@
 </details>
 
 <details>
-<summary>4598. [2024-05-02] The ONE FOOD That Shrinks an Enlarged Prostate</summary>
+<summary>4598. [2024-05-02] The ONE FOOD That Shrinks an Enlarged Prostate</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vx42_D5bTas" target="_blank">
     <img src="https://img.youtube.com/vi/vx42_D5bTas/maxresdefault.jpg" width="200">
@@ -177,7 +177,7 @@
 </details>
 
 <details>
-<summary>4597. [2024-05-01] The AMAZING Benefits of Iodine - Dr. Berg</summary>
+<summary>4597. [2024-05-01] The AMAZING Benefits of Iodine - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=MhUgmTCJyiE" target="_blank">
     <img src="https://img.youtube.com/vi/MhUgmTCJyiE/maxresdefault.jpg" width="200">
@@ -237,7 +237,7 @@
 </details>
 
 <details>
-<summary>4596. [2024-04-30] Peripheral NEUROPATHY (Root Cause and Best Remedy) — Dr. Berg</summary>
+<summary>4596. [2024-04-30] Peripheral NEUROPATHY (Root Cause and Best Remedy) — Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=WO3X3WNR5Jg" target="_blank">
     <img src="https://img.youtube.com/vi/WO3X3WNR5Jg/maxresdefault.jpg" width="200">
@@ -278,7 +278,7 @@
 </details>
 
 <details>
-<summary>4595. [2024-04-29] Why Zinc Carnosine REALLY Fixes Ulcers and Gastritis</summary>
+<summary>4595. [2024-04-29] Why Zinc Carnosine REALLY Fixes Ulcers and Gastritis</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kE53pHQCPiA" target="_blank">
     <img src="https://img.youtube.com/vi/kE53pHQCPiA/maxresdefault.jpg" width="200">
@@ -337,7 +337,7 @@
 </details>
 
 <details>
-<summary>4594. [2024-04-28] The REAL Cause of Tremors (Alternative Solution)</summary>
+<summary>4594. [2024-04-28] The REAL Cause of Tremors (Alternative Solution)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=PB_Ln5HXkwQ" target="_blank">
     <img src="https://img.youtube.com/vi/PB_Ln5HXkwQ/maxresdefault.jpg" width="200">
@@ -414,7 +414,7 @@
 </details>
 
 <details>
-<summary>4593. [2024-04-27] 7 Signs of a Leaky Gut — Dr. Berg</summary>
+<summary>4593. [2024-04-27] 7 Signs of a Leaky Gut — Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=WM8fUVut1AA" target="_blank">
     <img src="https://img.youtube.com/vi/WM8fUVut1AA/maxresdefault.jpg" width="200">
@@ -466,7 +466,7 @@
 </details>
 
 <details>
-<summary>4592. [2024-04-26] The Worst Protein in the World</summary>
+<summary>4592. [2024-04-26] The Worst Protein in the World</summary><br>
 
 <a href="https://www.youtube.com/watch?v=yVt0qJNR8bI" target="_blank">
     <img src="https://img.youtube.com/vi/yVt0qJNR8bI/maxresdefault.jpg" width="200">
@@ -531,7 +531,7 @@
 </details>
 
 <details>
-<summary>4591. [2024-04-25] How Your Food LIES to You!!</summary>
+<summary>4591. [2024-04-25] How Your Food LIES to You!!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=l1fCH6M6vZk" target="_blank">
     <img src="https://img.youtube.com/vi/l1fCH6M6vZk/maxresdefault.jpg" width="200">
@@ -573,7 +573,7 @@
 </details>
 
 <details>
-<summary>4590. [2024-04-24] Warning: Missing Mineral Causing Arthritis</summary>
+<summary>4590. [2024-04-24] Warning: Missing Mineral Causing Arthritis</summary><br>
 
 <a href="https://www.youtube.com/watch?v=BGD29BfITAk" target="_blank">
     <img src="https://img.youtube.com/vi/BGD29BfITAk/maxresdefault.jpg" width="200">
@@ -641,7 +641,7 @@
 </details>
 
 <details>
-<summary>4589. [2024-04-23] The Worst Food for Your Teeth Is NOT SUGAR</summary>
+<summary>4589. [2024-04-23] The Worst Food for Your Teeth Is NOT SUGAR</summary><br>
 
 <a href="https://www.youtube.com/watch?v=YKZ3PV5mBGw" target="_blank">
     <img src="https://img.youtube.com/vi/YKZ3PV5mBGw/maxresdefault.jpg" width="200">
@@ -694,7 +694,7 @@
 </details>
 
 <details>
-<summary>4588. [2024-04-22] The Best Remedy for ADD/ADHD (Attention Deficit Hyperactivity Disorder)</summary>
+<summary>4588. [2024-04-22] The Best Remedy for ADD/ADHD (Attention Deficit Hyperactivity Disorder)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=NCc-EvGcUn0" target="_blank">
     <img src="https://img.youtube.com/vi/NCc-EvGcUn0/maxresdefault.jpg" width="200">
@@ -757,7 +757,7 @@
 </details>
 
 <details>
-<summary>4587. [2024-04-21] Take One Teaspoon at Night to Rid Sinus Congestion</summary>
+<summary>4587. [2024-04-21] Take One Teaspoon at Night to Rid Sinus Congestion</summary><br>
 
 <a href="https://www.youtube.com/watch?v=zNxeaMbzCb0" target="_blank">
     <img src="https://img.youtube.com/vi/zNxeaMbzCb0/maxresdefault.jpg" width="200">
@@ -813,7 +813,7 @@
 </details>
 
 <details>
-<summary>4586. [2024-04-20] Are Expensive Eggs Really Worth It?</summary>
+<summary>4586. [2024-04-20] Are Expensive Eggs Really Worth It?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=1XDIC59gPeo" target="_blank">
     <img src="https://img.youtube.com/vi/1XDIC59gPeo/maxresdefault.jpg" width="200">
@@ -887,7 +887,7 @@
 </details>
 
 <details>
-<summary>4585. [2024-04-19] Preventing Dental Plaque Formation Forever: Simple Solution</summary>
+<summary>4585. [2024-04-19] Preventing Dental Plaque Formation Forever: Simple Solution</summary><br>
 
 <a href="https://www.youtube.com/watch?v=2WIiiUrV50M" target="_blank">
     <img src="https://img.youtube.com/vi/2WIiiUrV50M/maxresdefault.jpg" width="200">
@@ -925,7 +925,7 @@
 </details>
 
 <details>
-<summary>4584. [2024-04-18] The Big REGRET I Had in Practice</summary>
+<summary>4584. [2024-04-18] The Big REGRET I Had in Practice</summary><br>
 
 <a href="https://www.youtube.com/watch?v=2no13WwLAmo" target="_blank">
     <img src="https://img.youtube.com/vi/2no13WwLAmo/maxresdefault.jpg" width="200">
@@ -997,7 +997,7 @@
 </details>
 
 <details>
-<summary>4583. [2024-04-17] The Cause of Your Sinus Stuffiness (Congestion) Is Hiding in Your Pillow</summary>
+<summary>4583. [2024-04-17] The Cause of Your Sinus Stuffiness (Congestion) Is Hiding in Your Pillow</summary><br>
 
 <a href="https://www.youtube.com/watch?v=r3qDDne8Saw" target="_blank">
     <img src="https://img.youtube.com/vi/r3qDDne8Saw/maxresdefault.jpg" width="200">
@@ -1032,7 +1032,7 @@
 </details>
 
 <details>
-<summary>4582. [2024-04-16] Can BERBERINE Be a “Natural Ozempic” for Weight Loss?</summary>
+<summary>4582. [2024-04-16] Can BERBERINE Be a “Natural Ozempic” for Weight Loss?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=stF25xFdeMI" target="_blank">
     <img src="https://img.youtube.com/vi/stF25xFdeMI/maxresdefault.jpg" width="200">
@@ -1088,7 +1088,7 @@
 </details>
 
 <details>
-<summary>4581. [2024-04-15] How to Stop Addictions (Nicotine, Alcohol, & Drugs)</summary>
+<summary>4581. [2024-04-15] How to Stop Addictions (Nicotine, Alcohol, & Drugs)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ug2F8Epd6Ug" target="_blank">
     <img src="https://img.youtube.com/vi/ug2F8Epd6Ug/maxresdefault.jpg" width="200">
@@ -1164,7 +1164,7 @@
 </details>
 
 <details>
-<summary>4580. [2024-04-14] The MOST Overlooked Cause of Hypertension (High Blood Pressure)</summary>
+<summary>4580. [2024-04-14] The MOST Overlooked Cause of Hypertension (High Blood Pressure)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=215MnwwDwdQ" target="_blank">
     <img src="https://img.youtube.com/vi/215MnwwDwdQ/maxresdefault.jpg" width="200">
@@ -1239,7 +1239,7 @@
 </details>
 
 <details>
-<summary>4579. [2024-04-13] The #1 Vitamin Deficiency Behind Migraines (MUST KNOW)</summary>
+<summary>4579. [2024-04-13] The #1 Vitamin Deficiency Behind Migraines (MUST KNOW)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=UerbdBzb_6Y" target="_blank">
     <img src="https://img.youtube.com/vi/UerbdBzb_6Y/maxresdefault.jpg" width="200">
@@ -1291,7 +1291,7 @@
 </details>
 
 <details>
-<summary>4578. [2024-04-12] Fascinating Insights on Hashimoto's (Hypothyroidism)</summary>
+<summary>4578. [2024-04-12] Fascinating Insights on Hashimoto's (Hypothyroidism)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fI7DU7-wfv0" target="_blank">
     <img src="https://img.youtube.com/vi/fI7DU7-wfv0/maxresdefault.jpg" width="200">
@@ -1367,7 +1367,7 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
 </details>
 
 <details>
-<summary>4577. [2024-04-11] Fix Mitral Valve Prolapse with This One Mineral</summary>
+<summary>4577. [2024-04-11] Fix Mitral Valve Prolapse with This One Mineral</summary><br>
 
 <a href="https://www.youtube.com/watch?v=joYIVaukiVo" target="_blank">
     <img src="https://img.youtube.com/vi/joYIVaukiVo/maxresdefault.jpg" width="200">
@@ -1406,7 +1406,7 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
 </details>
 
 <details>
-<summary>4576. [2024-04-10] Tonsil Stones: Removing the Deeper Cause</summary>
+<summary>4576. [2024-04-10] Tonsil Stones: Removing the Deeper Cause</summary><br>
 
 <a href="https://www.youtube.com/watch?v=m32KS2eeuvY" target="_blank">
     <img src="https://img.youtube.com/vi/m32KS2eeuvY/maxresdefault.jpg" width="200">
@@ -1476,7 +1476,7 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
 </details>
 
 <details>
-<summary>4575. [2024-04-09] You'll Never Guess What's Really in Plant-Based Meat</summary>
+<summary>4575. [2024-04-09] You'll Never Guess What's Really in Plant-Based Meat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=CeGlTGWtVnM" target="_blank">
     <img src="https://img.youtube.com/vi/CeGlTGWtVnM/maxresdefault.jpg" width="200">
@@ -1554,7 +1554,7 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
 </details>
 
 <details>
-<summary>4574. [2024-04-08] The DARK SIDE of Ashwagandha</summary>
+<summary>4574. [2024-04-08] The DARK SIDE of Ashwagandha</summary><br>
 
 <a href="https://www.youtube.com/watch?v=aSZ-T2V--Rg" target="_blank">
     <img src="https://img.youtube.com/vi/aSZ-T2V--Rg/maxresdefault.jpg" width="200">
@@ -1621,7 +1621,7 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
 </details>
 
 <details>
-<summary>4573. [2024-04-06] #1 Selling Drug in the World: 27 Billion Dollars</summary>
+<summary>4573. [2024-04-06] #1 Selling Drug in the World: 27 Billion Dollars</summary><br>
 
 <a href="https://www.youtube.com/watch?v=QKeCwKDdWyM" target="_blank">
     <img src="https://img.youtube.com/vi/QKeCwKDdWyM/maxresdefault.jpg" width="200">
@@ -1675,7 +1675,7 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
 </details>
 
 <details>
-<summary>4572. [2024-04-05] Dr. Berg's YouTube Studio Makeover (BEHIND THE SCENES)</summary>
+<summary>4572. [2024-04-05] Dr. Berg's YouTube Studio Makeover (BEHIND THE SCENES)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=h-pQNxUlAOI" target="_blank">
     <img src="https://img.youtube.com/vi/h-pQNxUlAOI/maxresdefault.jpg" width="200">
@@ -1719,7 +1719,7 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
 </details>
 
 <details>
-<summary>4571. [2024-04-04] The REAL Reason You Should Drink Coffee</summary>
+<summary>4571. [2024-04-04] The REAL Reason You Should Drink Coffee</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XoxwcE6g7Qw" target="_blank">
     <img src="https://img.youtube.com/vi/XoxwcE6g7Qw/maxresdefault.jpg" width="200">
@@ -1797,7 +1797,7 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
 </details>
 
 <details>
-<summary>4570. [2024-04-03] What Your URINE COLOR Says about Your Health</summary>
+<summary>4570. [2024-04-03] What Your URINE COLOR Says about Your Health</summary><br>
 
 <a href="https://www.youtube.com/watch?v=f7bQGGW3UTg" target="_blank">
     <img src="https://img.youtube.com/vi/f7bQGGW3UTg/maxresdefault.jpg" width="200">
@@ -1867,7 +1867,7 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
 </details>
 
 <details>
-<summary>4569. [2024-04-02] Best Nutrients to Remove Plaque from Arteries</summary>
+<summary>4569. [2024-04-02] Best Nutrients to Remove Plaque from Arteries</summary><br>
 
 <a href="https://www.youtube.com/watch?v=uZeB31exaNA" target="_blank">
     <img src="https://img.youtube.com/vi/uZeB31exaNA/maxresdefault.jpg" width="200">
@@ -1944,7 +1944,7 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
 </details>
 
 <details>
-<summary>4568. [2024-04-01] #1 Backyard Weed to Fix a Fatty Liver</summary>
+<summary>4568. [2024-04-01] #1 Backyard Weed to Fix a Fatty Liver</summary><br>
 
 <a href="https://www.youtube.com/watch?v=d9SxJau5pxw" target="_blank">
     <img src="https://img.youtube.com/vi/d9SxJau5pxw/maxresdefault.jpg" width="200">
@@ -2013,7 +2013,7 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
 </details>
 
 <details>
-<summary>4567. [2024-03-31] Lyme Disease Blocks Vitamin D Absorption by 8000%</summary>
+<summary>4567. [2024-03-31] Lyme Disease Blocks Vitamin D Absorption by 8000%</summary><br>
 
 <a href="https://www.youtube.com/watch?v=WJ7N_9UYK1Y" target="_blank">
     <img src="https://img.youtube.com/vi/WJ7N_9UYK1Y/maxresdefault.jpg" width="200">
@@ -2050,7 +2050,7 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
 </details>
 
 <details>
-<summary>4566. [2024-03-30] Is Bill Gates' Apeel Really Safe?</summary>
+<summary>4566. [2024-03-30] Is Bill Gates' Apeel Really Safe?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=6X0LKxCz1a0" target="_blank">
     <img src="https://img.youtube.com/vi/6X0LKxCz1a0/maxresdefault.jpg" width="200">
@@ -2110,7 +2110,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
 </details>
 
 <details>
-<summary>4565. [2024-03-29] Why Are There No Fat People in Colorado</summary>
+<summary>4565. [2024-03-29] Why Are There No Fat People in Colorado</summary><br>
 
 <a href="https://www.youtube.com/watch?v=e7M2oSGwfyU" target="_blank">
     <img src="https://img.youtube.com/vi/e7M2oSGwfyU/maxresdefault.jpg" width="200">
@@ -2125,7 +2125,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
 </details>
 
 <details>
-<summary>4564. [2024-03-28] He Should Have Been Dead 6 Years Ago - STAGE 4 CANCER</summary>
+<summary>4564. [2024-03-28] He Should Have Been Dead 6 Years Ago - STAGE 4 CANCER</summary><br>
 
 <a href="https://www.youtube.com/watch?v=7yszU0-Molc" target="_blank">
     <img src="https://img.youtube.com/vi/7yszU0-Molc/maxresdefault.jpg" width="200">
@@ -2206,7 +2206,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
 </details>
 
 <details>
-<summary>4563. [2024-03-27] Intermittent Fasting Doubles Your Risk of Dying from a Heart Attack</summary>
+<summary>4563. [2024-03-27] Intermittent Fasting Doubles Your Risk of Dying from a Heart Attack</summary><br>
 
 <a href="https://www.youtube.com/watch?v=QMsItnMlhuo" target="_blank">
     <img src="https://img.youtube.com/vi/QMsItnMlhuo/maxresdefault.jpg" width="200">
@@ -2239,7 +2239,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
 </details>
 
 <details>
-<summary>4562. [2024-03-26] #1 Vitamin Deficiency in ALL Autoimmune Conditions</summary>
+<summary>4562. [2024-03-26] #1 Vitamin Deficiency in ALL Autoimmune Conditions</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8KUMT9PCwhs" target="_blank">
     <img src="https://img.youtube.com/vi/8KUMT9PCwhs/maxresdefault.jpg" width="200">
@@ -2283,7 +2283,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
 </details>
 
 <details>
-<summary>4561. [2024-03-25] What Happens If You Drink Celery Juice for 7 Days</summary>
+<summary>4561. [2024-03-25] What Happens If You Drink Celery Juice for 7 Days</summary><br>
 
 <a href="https://www.youtube.com/watch?v=mQ8-saXsQ00" target="_blank">
     <img src="https://img.youtube.com/vi/mQ8-saXsQ00/maxresdefault.jpg" width="200">
@@ -2327,7 +2327,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
 </details>
 
 <details>
-<summary>4560. [2024-03-24] The # 1 Dementia Remedy (GAME CHANGER)</summary>
+<summary>4560. [2024-03-24] The # 1 Dementia Remedy (GAME CHANGER)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=QlGJA-_a3uM" target="_blank">
     <img src="https://img.youtube.com/vi/QlGJA-_a3uM/maxresdefault.jpg" width="200">
@@ -2383,7 +2383,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
 </details>
 
 <details>
-<summary>4559. [2024-03-23] When NOT to Take Magnesium for Sleep and Anxiety</summary>
+<summary>4559. [2024-03-23] When NOT to Take Magnesium for Sleep and Anxiety</summary><br>
 
 <a href="https://www.youtube.com/watch?v=UHd3ODiJxyQ" target="_blank">
     <img src="https://img.youtube.com/vi/UHd3ODiJxyQ/maxresdefault.jpg" width="200">
@@ -2451,7 +2451,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
 </details>
 
 <details>
-<summary>4558. [2024-03-22] The #1 Collagen Tip for Amazing Hair, Nails, & Skin</summary>
+<summary>4558. [2024-03-22] The #1 Collagen Tip for Amazing Hair, Nails, & Skin</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DEiybCei-ls" target="_blank">
     <img src="https://img.youtube.com/vi/DEiybCei-ls/maxresdefault.jpg" width="200">
@@ -2509,7 +2509,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
 </details>
 
 <details>
-<summary>4557. [2024-03-21] 16 Signs That the Body Needs More Nutrients: Fixing the Deeper Cause</summary>
+<summary>4557. [2024-03-21] 16 Signs That the Body Needs More Nutrients: Fixing the Deeper Cause</summary><br>
 
 <a href="https://www.youtube.com/watch?v=mecanOOf0SY" target="_blank">
     <img src="https://img.youtube.com/vi/mecanOOf0SY/maxresdefault.jpg" width="200">
@@ -2562,7 +2562,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
 </details>
 
 <details>
-<summary>4556. [2024-03-20] Build up Your Glutathione without Supplements</summary>
+<summary>4556. [2024-03-20] Build up Your Glutathione without Supplements</summary><br>
 
 <a href="https://www.youtube.com/watch?v=9G8WOKe3Tl0" target="_blank">
     <img src="https://img.youtube.com/vi/9G8WOKe3Tl0/maxresdefault.jpg" width="200">
@@ -2605,7 +2605,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
 </details>
 
 <details>
-<summary>4555. [2024-03-19] 7 Ways to Burn More Fat While Sleeping</summary>
+<summary>4555. [2024-03-19] 7 Ways to Burn More Fat While Sleeping</summary><br>
 
 <a href="https://www.youtube.com/watch?v=h4vpuB13Lvg" target="_blank">
     <img src="https://img.youtube.com/vi/h4vpuB13Lvg/maxresdefault.jpg" width="200">
@@ -2673,7 +2673,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
 </details>
 
 <details>
-<summary>4554. [2024-03-18] Dr. Berg Speaking at the Hack Your Health Event (MUST ATTEND)</summary>
+<summary>4554. [2024-03-18] Dr. Berg Speaking at the Hack Your Health Event (MUST ATTEND)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=B9TD4aPRd6k" target="_blank">
     <img src="https://img.youtube.com/vi/B9TD4aPRd6k/maxresdefault.jpg" width="200">
@@ -2731,7 +2731,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
 </details>
 
 <details>
-<summary>4553. [2024-03-17] First Sign of a Magnesium Deficiency NEVER to Ignore</summary>
+<summary>4553. [2024-03-17] First Sign of a Magnesium Deficiency NEVER to Ignore</summary><br>
 
 <a href="https://www.youtube.com/watch?v=EN9e99iRTCQ" target="_blank">
     <img src="https://img.youtube.com/vi/EN9e99iRTCQ/maxresdefault.jpg" width="200">
@@ -2778,7 +2778,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
 </details>
 
 <details>
-<summary>4552. [2024-03-16] The Hidden Source of Heart Attacks/Strokes: NO ONE TOLD YOU...YET</summary>
+<summary>4552. [2024-03-16] The Hidden Source of Heart Attacks/Strokes: NO ONE TOLD YOU...YET</summary><br>
 
 <a href="https://www.youtube.com/watch?v=AgD4hrdAYzk" target="_blank">
     <img src="https://img.youtube.com/vi/AgD4hrdAYzk/maxresdefault.jpg" width="200">
@@ -2837,7 +2837,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
 </details>
 
 <details>
-<summary>4551. [2024-03-15] Gallbladder Removal (Surgery) - Vital Things to Know: MUST WATCH</summary>
+<summary>4551. [2024-03-15] Gallbladder Removal (Surgery) - Vital Things to Know: MUST WATCH</summary><br>
 
 <a href="https://www.youtube.com/watch?v=TCRrD-4G0Ic" target="_blank">
     <img src="https://img.youtube.com/vi/TCRrD-4G0Ic/maxresdefault.jpg" width="200">
@@ -2891,7 +2891,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
 </details>
 
 <details>
-<summary>4550. [2024-03-14] The Therapeutic Benefits of CASTOR OIL (Skin/Face/Hair)</summary>
+<summary>4550. [2024-03-14] The Therapeutic Benefits of CASTOR OIL (Skin/Face/Hair)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=AlUNBHMDoIw" target="_blank">
     <img src="https://img.youtube.com/vi/AlUNBHMDoIw/maxresdefault.jpg" width="200">
@@ -2926,7 +2926,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
 </details>
 
 <details>
-<summary>4549. [2024-03-13] The #1 Nutrient Deficiency in High Blood Pressure (Hypertension)</summary>
+<summary>4549. [2024-03-13] The #1 Nutrient Deficiency in High Blood Pressure (Hypertension)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=QlQyvXS6kLk" target="_blank">
     <img src="https://img.youtube.com/vi/QlQyvXS6kLk/maxresdefault.jpg" width="200">
@@ -2980,7 +2980,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
 </details>
 
 <details>
-<summary>4548. [2024-03-12] The #1 Best Vitamin for Arthritis (NOT VITAMIN D)</summary>
+<summary>4548. [2024-03-12] The #1 Best Vitamin for Arthritis (NOT VITAMIN D)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fWSfGrh-gus" target="_blank">
     <img src="https://img.youtube.com/vi/fWSfGrh-gus/maxresdefault.jpg" width="200">
@@ -3035,7 +3035,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
 </details>
 
 <details>
-<summary>4547. [2024-03-11] Do Not Eat Peanut Butter Until You Watch This!</summary>
+<summary>4547. [2024-03-11] Do Not Eat Peanut Butter Until You Watch This!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=r2JcmyEoKos" target="_blank">
     <img src="https://img.youtube.com/vi/r2JcmyEoKos/maxresdefault.jpg" width="200">
@@ -3094,7 +3094,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
 </details>
 
 <details>
-<summary>4546. [2024-03-10] The Fastest Way To Rid HEARTBURN, GERD and ACID REFLUX</summary>
+<summary>4546. [2024-03-10] The Fastest Way To Rid HEARTBURN, GERD and ACID REFLUX</summary><br>
 
 <a href="https://www.youtube.com/watch?v=aZx-8z2U6qY" target="_blank">
     <img src="https://img.youtube.com/vi/aZx-8z2U6qY/maxresdefault.jpg" width="200">
@@ -3177,7 +3177,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
 </details>
 
 <details>
-<summary>4545. [2024-03-09] Avoiding the Sun is Just as Dangerous as Cigarettes?</summary>
+<summary>4545. [2024-03-09] Avoiding the Sun is Just as Dangerous as Cigarettes?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=rDeLISqGgfs" target="_blank">
     <img src="https://img.youtube.com/vi/rDeLISqGgfs/maxresdefault.jpg" width="200">
@@ -3208,7 +3208,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
 </details>
 
 <details>
-<summary>4544. [2024-03-08] Surprising Health Hacks You Won't Believe Actually Work</summary>
+<summary>4544. [2024-03-08] Surprising Health Hacks You Won't Believe Actually Work</summary><br>
 
 <a href="https://www.youtube.com/watch?v=4LBKFQF_EyQ" target="_blank">
     <img src="https://img.youtube.com/vi/4LBKFQF_EyQ/maxresdefault.jpg" width="200">
@@ -3269,7 +3269,7 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
 </details>
 
 <details>
-<summary>4543. [2024-03-07] Say Goodbye To Belly Fat: 7 Must-have Tips!</summary>
+<summary>4543. [2024-03-07] Say Goodbye To Belly Fat: 7 Must-have Tips!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=tOMX5I9Qm6k" target="_blank">
     <img src="https://img.youtube.com/vi/tOMX5I9Qm6k/maxresdefault.jpg" width="200">
@@ -3323,7 +3323,7 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
 </details>
 
 <details>
-<summary>4542. [2024-03-06] How to Lose 1 Pound of Fat per Day (20,000 Calories in 5 Days)</summary>
+<summary>4542. [2024-03-06] How to Lose 1 Pound of Fat per Day (20,000 Calories in 5 Days)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=lDgvkMKA7ds" target="_blank">
     <img src="https://img.youtube.com/vi/lDgvkMKA7ds/maxresdefault.jpg" width="200">
@@ -3390,7 +3390,7 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
 </details>
 
 <details>
-<summary>4541. [2024-03-05] Avoid These Big Mistakes When Drinking Water</summary>
+<summary>4541. [2024-03-05] Avoid These Big Mistakes When Drinking Water</summary><br>
 
 <a href="https://www.youtube.com/watch?v=nJEAqOdnF2E" target="_blank">
     <img src="https://img.youtube.com/vi/nJEAqOdnF2E/maxresdefault.jpg" width="200">
@@ -3463,7 +3463,7 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
 </details>
 
 <details>
-<summary>4540. [2024-03-04] The 15 Causes of ITCHING You've Never Heard About</summary>
+<summary>4540. [2024-03-04] The 15 Causes of ITCHING You've Never Heard About</summary><br>
 
 <a href="https://www.youtube.com/watch?v=haVr3AAYC80" target="_blank">
     <img src="https://img.youtube.com/vi/haVr3AAYC80/maxresdefault.jpg" width="200">
@@ -3529,7 +3529,7 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
 </details>
 
 <details>
-<summary>4539. [2024-03-03] One Cup A Day To Beat Depression - The Ultimate Remedy</summary>
+<summary>4539. [2024-03-03] One Cup A Day To Beat Depression - The Ultimate Remedy</summary><br>
 
 <a href="https://www.youtube.com/watch?v=30vF9gTTwvU" target="_blank">
     <img src="https://img.youtube.com/vi/30vF9gTTwvU/maxresdefault.jpg" width="200">
@@ -3611,7 +3611,7 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
 </details>
 
 <details>
-<summary>4538. [2024-03-02] The Early Signs of Colon Cancer You DON'T Want to Ignore</summary>
+<summary>4538. [2024-03-02] The Early Signs of Colon Cancer You DON'T Want to Ignore</summary><br>
 
 <a href="https://www.youtube.com/watch?v=RCMN5UJzalo" target="_blank">
     <img src="https://img.youtube.com/vi/RCMN5UJzalo/maxresdefault.jpg" width="200">
@@ -3693,7 +3693,7 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
 </details>
 
 <details>
-<summary>4537. [2024-03-01] Warning: These 6 Foods Could Be Giving You Cancer</summary>
+<summary>4537. [2024-03-01] Warning: These 6 Foods Could Be Giving You Cancer</summary><br>
 
 <a href="https://www.youtube.com/watch?v=0BrLo04xQ8o" target="_blank">
     <img src="https://img.youtube.com/vi/0BrLo04xQ8o/maxresdefault.jpg" width="200">
@@ -3730,7 +3730,7 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
 </details>
 
 <details>
-<summary>4536. [2024-02-29] Maintaining Weight Loss After Ozempic: Tips And Tricks</summary>
+<summary>4536. [2024-02-29] Maintaining Weight Loss After Ozempic: Tips And Tricks</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hutwzLgjU4U" target="_blank">
     <img src="https://img.youtube.com/vi/hutwzLgjU4U/maxresdefault.jpg" width="200">
@@ -3797,7 +3797,7 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
 </details>
 
 <details>
-<summary>4535. [2024-02-28] What I Would Do If I Had ALS (Amyotrophic Lateral Sclerosis): Lou Gehrig’s Disease – Dr. Berg</summary>
+<summary>4535. [2024-02-28] What I Would Do If I Had ALS (Amyotrophic Lateral Sclerosis): Lou Gehrig’s Disease – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=t91rTD0k0SA" target="_blank">
     <img src="https://img.youtube.com/vi/t91rTD0k0SA/maxresdefault.jpg" width="200">
@@ -3840,7 +3840,7 @@ ALS的治療需 комплексний підхід，重點放在恢復抗氧�
 </details>
 
 <details>
-<summary>4534. [2024-02-26] Dr. Berg Goes Carnivore for 2 Weeks</summary>
+<summary>4534. [2024-02-26] Dr. Berg Goes Carnivore for 2 Weeks</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kFSflqB-Fzs" target="_blank">
     <img src="https://img.youtube.com/vi/kFSflqB-Fzs/maxresdefault.jpg" width="200">
@@ -3932,7 +3932,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
 </details>
 
 <details>
-<summary>4533. [2024-02-25] How to Get Rid of Blackheads and Sebaceous Filaments - Dr. Berg</summary>
+<summary>4533. [2024-02-25] How to Get Rid of Blackheads and Sebaceous Filaments - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=m9vf2ylY2ds" target="_blank">
     <img src="https://img.youtube.com/vi/m9vf2ylY2ds/maxresdefault.jpg" width="200">
@@ -3984,7 +3984,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
 </details>
 
 <details>
-<summary>4532. [2024-02-24] 7 Foods That Make You Live Longer</summary>
+<summary>4532. [2024-02-24] 7 Foods That Make You Live Longer</summary><br>
 
 <a href="https://www.youtube.com/watch?v=LEELE4sv2Ts" target="_blank">
     <img src="https://img.youtube.com/vi/LEELE4sv2Ts/maxresdefault.jpg" width="200">
@@ -4055,7 +4055,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
 </details>
 
 <details>
-<summary>4531. [2024-02-23] The Best Remedies to Use When You’re Sick</summary>
+<summary>4531. [2024-02-23] The Best Remedies to Use When You’re Sick</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8L7F5ffv6bs" target="_blank">
     <img src="https://img.youtube.com/vi/8L7F5ffv6bs/maxresdefault.jpg" width="200">
@@ -4130,7 +4130,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
 </details>
 
 <details>
-<summary>4530. [2024-02-22] Watch This BEFORE Taking Testosterone - Dr. Berg</summary>
+<summary>4530. [2024-02-22] Watch This BEFORE Taking Testosterone - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=T9OHIRGFkqs" target="_blank">
     <img src="https://img.youtube.com/vi/T9OHIRGFkqs/maxresdefault.jpg" width="200">
@@ -4171,7 +4171,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
 </details>
 
 <details>
-<summary>4529. [2024-02-21] Why You Need To Start Taking Cod Liver Oil Now - Dr. Berg Reveals The Surprising Truth</summary>
+<summary>4529. [2024-02-21] Why You Need To Start Taking Cod Liver Oil Now - Dr. Berg Reveals The Surprising Truth</summary><br>
 
 <a href="https://www.youtube.com/watch?v=yy0Ki7z8Czs" target="_blank">
     <img src="https://img.youtube.com/vi/yy0Ki7z8Czs/maxresdefault.jpg" width="200">
@@ -4244,7 +4244,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
 </details>
 
 <details>
-<summary>4528. [2024-02-20] How to Go to Sleep within 60 Seconds</summary>
+<summary>4528. [2024-02-20] How to Go to Sleep within 60 Seconds</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8sfl-kS9Xyg" target="_blank">
     <img src="https://img.youtube.com/vi/8sfl-kS9Xyg/maxresdefault.jpg" width="200">
@@ -4301,7 +4301,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
 </details>
 
 <details>
-<summary>4527. [2024-02-19] The Top 3 Foods for Hair Loss - Dr. Berg</summary>
+<summary>4527. [2024-02-19] The Top 3 Foods for Hair Loss - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=JAUBavPuXpo" target="_blank">
     <img src="https://img.youtube.com/vi/JAUBavPuXpo/maxresdefault.jpg" width="200">
@@ -4345,7 +4345,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
 </details>
 
 <details>
-<summary>4526. [2024-02-18] How to Turn Your Stress to Zero - Dr. Berg</summary>
+<summary>4526. [2024-02-18] How to Turn Your Stress to Zero - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=U5odrIsm-60" target="_blank">
     <img src="https://img.youtube.com/vi/U5odrIsm-60/maxresdefault.jpg" width="200">
@@ -4378,7 +4378,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
 </details>
 
 <details>
-<summary>4525. [2024-02-17] Strange & Weird Niacin (B3) Deficiency Signs and Symptoms</summary>
+<summary>4525. [2024-02-17] Strange & Weird Niacin (B3) Deficiency Signs and Symptoms</summary><br>
 
 <a href="https://www.youtube.com/watch?v=MW_D2Sdlr3k" target="_blank">
     <img src="https://img.youtube.com/vi/MW_D2Sdlr3k/maxresdefault.jpg" width="200">
@@ -4431,7 +4431,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
 </details>
 
 <details>
-<summary>4524. [2024-02-16] Get Your Omega-6 to Omega-3 Ratios Balanced</summary>
+<summary>4524. [2024-02-16] Get Your Omega-6 to Omega-3 Ratios Balanced</summary><br>
 
 <a href="https://www.youtube.com/watch?v=FjfyBJcyoJI" target="_blank">
     <img src="https://img.youtube.com/vi/FjfyBJcyoJI/maxresdefault.jpg" width="200">
@@ -4506,7 +4506,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
 </details>
 
 <details>
-<summary>4523. [2024-02-15] Sardines vs Cod Liver: Which is Better for You? - Dr. Berg</summary>
+<summary>4523. [2024-02-15] Sardines vs Cod Liver: Which is Better for You? - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DGGOYN148Mg" target="_blank">
     <img src="https://img.youtube.com/vi/DGGOYN148Mg/maxresdefault.jpg" width="200">
@@ -4564,7 +4564,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
 </details>
 
 <details>
-<summary>4522. [2024-02-14] Preserving Your Muscles as You Age - Dr. Berg</summary>
+<summary>4522. [2024-02-14] Preserving Your Muscles as You Age - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=e5MhlSjvXh8" target="_blank">
     <img src="https://img.youtube.com/vi/e5MhlSjvXh8/maxresdefault.jpg" width="200">
@@ -4629,7 +4629,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
 </details>
 
 <details>
-<summary>4521. [2024-02-13] Your Supplements Are a Lie… Really</summary>
+<summary>4521. [2024-02-13] Your Supplements Are a Lie… Really</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hHRGqGmGmpg" target="_blank">
     <img src="https://img.youtube.com/vi/hHRGqGmGmpg/maxresdefault.jpg" width="200">
@@ -4696,7 +4696,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
 </details>
 
 <details>
-<summary>4520. [2024-02-12] We Need to Eat Bugs & Insects to Save the Planet - Dr. Berg</summary>
+<summary>4520. [2024-02-12] We Need to Eat Bugs & Insects to Save the Planet - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=YROt0Xgr8QE" target="_blank">
     <img src="https://img.youtube.com/vi/YROt0Xgr8QE/maxresdefault.jpg" width="200">
@@ -4752,7 +4752,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
 </details>
 
 <details>
-<summary>4519. [2024-02-11] What Would Happen If You Ate Plant-Based Meat for 2 Weeks - Dr. Berg</summary>
+<summary>4519. [2024-02-11] What Would Happen If You Ate Plant-Based Meat for 2 Weeks - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Rqs-kBwt3po" target="_blank">
     <img src="https://img.youtube.com/vi/Rqs-kBwt3po/maxresdefault.jpg" width="200">
@@ -4828,7 +4828,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
 </details>
 
 <details>
-<summary>4518. [2024-02-10] How to Get Enough Potassium on the Carnivore Diet - Dr. Berg</summary>
+<summary>4518. [2024-02-10] How to Get Enough Potassium on the Carnivore Diet - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=M5ADM_V3bJY" target="_blank">
     <img src="https://img.youtube.com/vi/M5ADM_V3bJY/maxresdefault.jpg" width="200">
@@ -4870,7 +4870,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
 </details>
 
 <details>
-<summary>4517. [2024-02-09] The 10 Root Causes of Inflammation - Dr. Berg</summary>
+<summary>4517. [2024-02-09] The 10 Root Causes of Inflammation - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=u0TpL4HwcMA" target="_blank">
     <img src="https://img.youtube.com/vi/u0TpL4HwcMA/maxresdefault.jpg" width="200">
@@ -4925,7 +4925,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
 </details>
 
 <details>
-<summary>4516. [2024-02-08] 7 Ways to Raise Your ENERGY Big-Time</summary>
+<summary>4516. [2024-02-08] 7 Ways to Raise Your ENERGY Big-Time</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ESbprbvHKmE" target="_blank">
     <img src="https://img.youtube.com/vi/ESbprbvHKmE/maxresdefault.jpg" width="200">
@@ -4989,7 +4989,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
 </details>
 
 <details>
-<summary>4515. [2024-02-07] The Nutrient Deficiency That Makes You Short</summary>
+<summary>4515. [2024-02-07] The Nutrient Deficiency That Makes You Short</summary><br>
 
 <a href="https://www.youtube.com/watch?v=VhJa6F3fEy8" target="_blank">
     <img src="https://img.youtube.com/vi/VhJa6F3fEy8/maxresdefault.jpg" width="200">
@@ -5033,7 +5033,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
 </details>
 
 <details>
-<summary>4514. [2024-02-06] Why I Eat Cheese Every Day</summary>
+<summary>4514. [2024-02-06] Why I Eat Cheese Every Day</summary><br>
 
 <a href="https://www.youtube.com/watch?v=15ZTN96VifU" target="_blank">
     <img src="https://img.youtube.com/vi/15ZTN96VifU/maxresdefault.jpg" width="200">
@@ -5112,7 +5112,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
 </details>
 
 <details>
-<summary>4513. [2024-02-05] 8 Ways Your Body Tells You Have a Disease</summary>
+<summary>4513. [2024-02-05] 8 Ways Your Body Tells You Have a Disease</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ozpg9J3qUkU" target="_blank">
     <img src="https://img.youtube.com/vi/ozpg9J3qUkU/maxresdefault.jpg" width="200">
@@ -5191,7 +5191,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
 </details>
 
 <details>
-<summary>4512. [2024-02-04] Bloating: The Ultimate Indicator of the Right Diet</summary>
+<summary>4512. [2024-02-04] Bloating: The Ultimate Indicator of the Right Diet</summary><br>
 
 <a href="https://www.youtube.com/watch?v=H-7pN5UMV-Q" target="_blank">
     <img src="https://img.youtube.com/vi/H-7pN5UMV-Q/maxresdefault.jpg" width="200">
@@ -5247,7 +5247,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
 </details>
 
 <details>
-<summary>4511. [2024-02-03] A Better Way to Eliminate Candida for Good</summary>
+<summary>4511. [2024-02-03] A Better Way to Eliminate Candida for Good</summary><br>
 
 <a href="https://www.youtube.com/watch?v=RzSoPyA30O8" target="_blank">
     <img src="https://img.youtube.com/vi/RzSoPyA30O8/maxresdefault.jpg" width="200">
@@ -5310,7 +5310,7 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
 </details>
 
 <details>
-<summary>4510. [2024-02-02] The #1 Disease More Common than Heart Disease and Cancer</summary>
+<summary>4510. [2024-02-02] The #1 Disease More Common than Heart Disease and Cancer</summary><br>
 
 <a href="https://www.youtube.com/watch?v=6F5ylBMx71Q" target="_blank">
     <img src="https://img.youtube.com/vi/6F5ylBMx71Q/maxresdefault.jpg" width="200">
@@ -5367,7 +5367,7 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
 </details>
 
 <details>
-<summary>4509. [2024-02-01] Why Fasting Is MORE Important than Diet</summary>
+<summary>4509. [2024-02-01] Why Fasting Is MORE Important than Diet</summary><br>
 
 <a href="https://www.youtube.com/watch?v=oql3QUD2JyI" target="_blank">
     <img src="https://img.youtube.com/vi/oql3QUD2JyI/maxresdefault.jpg" width="200">
@@ -5434,7 +5434,7 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
 </details>
 
 <details>
-<summary>4508. [2024-01-31] 12 EASY Ways to Burn Fat Fast as Hell</summary>
+<summary>4508. [2024-01-31] 12 EASY Ways to Burn Fat Fast as Hell</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ATh5u_l3sJQ" target="_blank">
     <img src="https://img.youtube.com/vi/ATh5u_l3sJQ/maxresdefault.jpg" width="200">
@@ -5491,7 +5491,7 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
 </details>
 
 <details>
-<summary>4507. [2024-01-30] Look Younger Instantly: The Secret</summary>
+<summary>4507. [2024-01-30] Look Younger Instantly: The Secret</summary><br>
 
 <a href="https://www.youtube.com/watch?v=z8dfLN5qpsI" target="_blank">
     <img src="https://img.youtube.com/vi/z8dfLN5qpsI/maxresdefault.jpg" width="200">
@@ -5534,7 +5534,7 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
 </details>
 
 <details>
-<summary>4506. [2024-01-28] Eating Eggs Increases the Risk of Dying from Heart Disease</summary>
+<summary>4506. [2024-01-28] Eating Eggs Increases the Risk of Dying from Heart Disease</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8H7ZGIDmuIw" target="_blank">
     <img src="https://img.youtube.com/vi/8H7ZGIDmuIw/maxresdefault.jpg" width="200">
@@ -5596,7 +5596,7 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
 </details>
 
 <details>
-<summary>4505. [2024-01-27] How to Burn Fat–Dr. Berg Explains</summary>
+<summary>4505. [2024-01-27] How to Burn Fat–Dr. Berg Explains</summary><br>
 
 <a href="https://www.youtube.com/watch?v=7mNJF5i8GzU" target="_blank">
     <img src="https://img.youtube.com/vi/7mNJF5i8GzU/maxresdefault.jpg" width="200">
@@ -5650,7 +5650,7 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
 </details>
 
 <details>
-<summary>4504. [2024-01-26] Why Is This Country the MOST OVERWEIGHT in the World (THE REAL REASON)?</summary>
+<summary>4504. [2024-01-26] Why Is This Country the MOST OVERWEIGHT in the World (THE REAL REASON)?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=P2v_jJfbVYQ" target="_blank">
     <img src="https://img.youtube.com/vi/P2v_jJfbVYQ/maxresdefault.jpg" width="200">
@@ -5704,7 +5704,7 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
 </details>
 
 <details>
-<summary>4503. [2024-01-24] What to Drink When Fasting: Dr. Berg Guide</summary>
+<summary>4503. [2024-01-24] What to Drink When Fasting: Dr. Berg Guide</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vL7NVrC_sUc" target="_blank">
     <img src="https://img.youtube.com/vi/vL7NVrC_sUc/maxresdefault.jpg" width="200">
@@ -5801,7 +5801,7 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
 </details>
 
 <details>
-<summary>4502. [2024-01-23] Costco Review of Healthy Foods with @BobbyParrish</summary>
+<summary>4502. [2024-01-23] Costco Review of Healthy Foods with @BobbyParrish</summary><br>
 
 <a href="https://www.youtube.com/watch?v=qz_IABtW0wA" target="_blank">
     <img src="https://img.youtube.com/vi/qz_IABtW0wA/maxresdefault.jpg" width="200">
@@ -5881,7 +5881,7 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
 </details>
 
 <details>
-<summary>4501. [2024-01-22] The Healthiest Foods You Need in Your Diet</summary>
+<summary>4501. [2024-01-22] The Healthiest Foods You Need in Your Diet</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fG63a8vDGXA" target="_blank">
     <img src="https://img.youtube.com/vi/fG63a8vDGXA/maxresdefault.jpg" width="200">
