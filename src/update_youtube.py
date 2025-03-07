@@ -170,17 +170,22 @@ def make_doc(filename: str, video_list: list):
         filename (str): 輸出的文件名稱
         video_list (list): 影片資料列表
     """
+
+    # 檔案模板
     details_template = """<details>
 <summary>{idx}. {date}{title}</summary><br>
 
-<a href="https://www.youtube.com/watch?v={id}" target="_blank">
-    <img src="https://img.youtube.com/vi/{id}/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
-</a>
+{image}
 
 {summary_file}
 </details>
 
+"""
+
+    # 圖片模板
+    image_template = """<a href="https://www.youtube.com/watch?v={id}" target="_blank">
+    <img src="https://img.youtube.com/vi/{id}/maxresdefault.jpg" alt="[Youtube]" width="200">
+</a>
 """
 
     try:
@@ -193,21 +198,25 @@ def make_doc(filename: str, video_list: list):
         with open(filename, 'w', encoding='utf-8') as f:
             for video in sorted_videos:
                 # 處理日期格式
+                id = video['id']
                 date_str = f"[{video['date']}] " if video['date'] != 'unknown' else ""
                 
                 # 檢查是否有摘要檔案
-                summary_path = f"{summary_dir}{video['id']}.md"
+                summary_path = f"{summary_dir}{id}.md"
                 summary_content = ""
                 if os.path.exists(summary_path):
                     with open(summary_path, 'r', encoding='utf-8') as sf:
                         summary_content = sf.read()
+                
+                image_url = "https://img.youtube.com/vi/{id}/maxresdefault.jpg".format(id=id)
+                image_content = image_template.format(id=id)
                 
                 # 填入模板
                 content = details_template.format(
                     idx=video['idx'],
                     date=date_str,
                     title=video['title'],
-                    id=video['id'],
+                    image=image_content,
                     summary_file=summary_content
                 )
                 
@@ -289,7 +298,7 @@ def email_notify():
 
 if __name__ == '__main__':
     df = update_list()
-    # download_script(df)
-    # summerize_script()
+    download_script(df)
+    summerize_script()
     create_doc(df)
     email_notify()

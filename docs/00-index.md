@@ -2,9 +2,9 @@
 <summary>100. [2012-07-11] Fast Weight Loss Success Story</summary><br>
 
 <a href="https://www.youtube.com/watch?v=UrJW9dCxVhU" target="_blank">
-    <img src="https://img.youtube.com/vi/UrJW9dCxVhU/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/UrJW9dCxVhU/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 I. 核心主題  
 - 受訪者分享了自己因擔心腹部脂肪而來到某個地方（可能是健康或減肥機構）的经历。  
@@ -38,9 +38,9 @@ VI. 結論
 <summary>99. [2012-07-11] Crohns Disease Success</summary><br>
 
 <a href="https://www.youtube.com/watch?v=703oYuzXZNo" target="_blank">
-    <img src="https://img.youtube.com/vi/703oYuzXZNo/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/703oYuzXZNo/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題
 - **慢性炎症性腸病（IBD）**：主要包括克羅恩氏症（Crohn's disease）和 ulcerative colitis。
@@ -86,59 +86,45 @@ VI. 結論
 <summary>98. [2012-07-11] Dr. Berg’s Healthy Diet Success Story: Potassium Rich Foods</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kOcBB3OWPpY" target="_blank">
-    <img src="https://img.youtube.com/vi/kOcBB3OWPpY/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/kOcBB3OWPpY/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-### Key Themes and Findings from the Article
 
-#### Core Theme
-- The individual's struggle with weight management over the past seven to eight years, characterized by difficulty maintaining weight loss.
+### 核心主題  
+- 長期體重管理的挑戰與diet Dr. Burke飲食計劃的效果  
 
-#### Major Concepts
-1. **Challenges in Weight Loss**: 
-   - Frequent fluctuations where losing one pound results in gaining two pounds.
-   - Historical difficulty adhering to traditional diets due to complexity and lack of sustainability.
+### 主要觀念  
+1. **體重管理困難**：過去七到八年來，體重丟失和恢復反覆，導致體重控制變得極具挑戰性。  
+2. **飲食計劃的有效性**：Dr. Burke的飲食計劃被評為易於使用，打破了原來對傳統 diets的負面預期。  
+3. **短期成果**：在三周內成功減輕約7磅，體現了該diet計劃的短期效果。  
 
-2. **Adoption of Dr. Bur's Diet**:
-   - The diet was perceived as easy to follow, contrary to initial expectations.
-   - Significant weight loss (7 lbs or potentially more) achieved in three weeks.
+### 問題原因  
+- **傳統diet計劃的限制**：許多飲食計劃過度強調蛋白質攝取，忽視了主食和蔬菜的重要性，導致能量不足和疲勞感。  
+- **個人飲食需求的特殊性**：作為一名素食者和碳水化合物消費者，傳統diet計劃難以滿足營養需求，影響堅持能力。  
 
-3. **Dietary Preferences and Constraints**:
-   - Focus on vegetarianism and starch-based diet.
-   - Traditional diets often emphasize protein intake, which can be challenging for vegetarians.
-   - Difficulty in maintaining energy levels due to the lack of focus on carbohydrates.
+### 解決方法  
+1. **Dr. Burke diet的核心優勢**：  
+   - 提供均衡的飲食結構，涵蓋蛋白質、主食和蔬菜，避免營養不均。  
+   - 強調高鉀食物的攝取，有助於維持能量水平和身體健康，增強堅持diet的信心。  
 
-#### Root Causes
-- Inability to sustain weight loss due to ineffective traditional dietary approaches.
-- Lack of emphasis on potassium-rich foods, which are essential for energy and health.
+2. **個體化飲食計劃**：針對素食者的需求設計，平衡各營養素攝取，確保體能充足，避免疲勞感。  
 
-#### Solutions Implemented
-- Adoption of Dr. Bur's diet, which provided a more sustainable approach to weight management.
-- Incorporation of potassium-rich foods to maintain energy levels and improve overall health.
+### 健康建議  
+1. **飲食結構的均衡性**：注重多種食物類別的攝取，包括但不限於蔬菜、水果和全穀物，以維持整體健康。  
+2. **營養素平衡**：特別注意鉀元素的攝取，這有助於維持心臟功能和防止肌肉疲勞。  
+3. **心理調適**：接受飲食計劃的 flexibility，避免因短期失敗而感到挫折，保持長期堅持的動力。  
 
-#### Health Recommendations
-1. **Balanced Nutrition**:
-   - Emphasize the importance of carbohydrates for vegetarians to sustain energy levels.
-   - Include potassium-rich foods in the diet to support health and reduce fatigue.
-
-2. **Sustainable Weight Management**:
-   - Focus on dietary plans that align with individual preferences and constraints (e.g., vegetarianism).
-   - Prioritize health over mere weight loss to ensure long-term sustainability.
-
-#### Conclusion
-- Dr. Bur's diet proved effective in addressing the challenges of weight management, particularly for individuals with specific dietary needs.
-- The integration of potassium-rich foods was instrumental in maintaining energy levels and adherence to the diet.
-- A focus on overall health rather than just weight loss is crucial for sustainable results.
+### 結論  
+Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特別適合有特殊飲食需求的人群。其強調均衡飲食和營養平衡的核心理念，不僅有助於短期體重減輕，更能促進長遠的健康目標。
 </details>
 
 <details>
 <summary>97. Stabilizing Exercises  for Low Back & Pelvis</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DKnAb8bIUcY" target="_blank">
-    <img src="https://img.youtube.com/vi/DKnAb8bIUcY/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/DKnAb8bIUcY/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 
 </details>
@@ -147,9 +133,9 @@ VI. 結論
 <summary>96. [2012-06-25] Dr. Berg's Office Quick Tour</summary><br>
 
 <a href="https://www.youtube.com/watch?v=GXirii-9ySo" target="_blank">
-    <img src="https://img.youtube.com/vi/GXirii-9ySo/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/GXirii-9ySo/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題  
 - 健康與 Wellness 中心的介紹與功能概述  
@@ -206,9 +192,9 @@ VI. 結論
 <summary>95. [2012-06-25] What to do for a Tailbone Injury - for Low Back Pain</summary><br>
 
 <a href="https://www.youtube.com/watch?v=722_8kxeg5A" target="_blank">
-    <img src="https://img.youtube.com/vi/722_8kxeg5A/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/722_8kxeg5A/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題  
 1. 解決慢性下背痛的最後一項技術：針對尾骨舊 injury 的處理。  
@@ -254,9 +240,9 @@ VI. 結論
 <summary>94. [2012-06-12] Fat Burning Candy Bar</summary><br>
 
 <a href="https://www.youtube.com/watch?v=gJNnSODgpj0" target="_blank">
-    <img src="https://img.youtube.com/vi/gJNnSODgpj0/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/gJNnSODgpj0/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 # 文章整理： deprivation dieting 與代糖甜點替代方案
 
@@ -296,9 +282,9 @@ VI. 結論
 <summary>93. [2012-05-16] Enhanced Waters are Really Sugar Water</summary><br>
 
 <a href="https://www.youtube.com/watch?v=IHfiEXMgZ_4" target="_blank">
-    <img src="https://img.youtube.com/vi/IHfiEXMgZ_4/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/IHfiEXMgZ_4/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題：飲料中的糖分與營養成分分析及其健康影響
 
@@ -351,49 +337,47 @@ VI. 結論
 <summary>92. [2012-05-07] Do Not Eat Eggs, Unless You Watch This</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hC3D_eeULLU" target="_blank">
-    <img src="https://img.youtube.com/vi/hC3D_eeULLU/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/hC3D_eeULLU/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-### Key Themes and Points from the Article
 
-#### Core Theme: The Health Benefits of Eggs, Particularly the Yolk
-- **Nutritional Value**: The egg yolk contains most of the essential nutrients, including fats, vitamins, and essential fatty acids.
-- **Multivitamin Analogy**: The yolk can be considered a natural multivitamin due to its high nutritional density.
+### 核心主題：鸡蛋的营养价值与健康益处  
+- 鸡蛋是高营养价值的食物，尤其是蛋黄部分富含多种营养素，包括脂肪、维生素和必需脂肪酸。  
+- 蛋黄可以被视为一种天然的复合维生素来源。  
 
-#### Major Concepts: Misconceptions About Egg Whites and Yolks
-- **Egg Whites**: While egg whites are low in nutrition and calories, they lack the majority of the essential nutrients found in the yolk.
-- **Yolk Benefits**: The yolk is crucial for cholesterol management due to its lecithin content, which helps lower cholesterol levels.
+### 主要觀念：蛋黄的重要性  
+- 大部分鸡蛋的营养成分集中在蛋黄中，包括胆固醇、磷脂、维生素A、维生素D以及矿物质（如铁、锌）。  
+- 单独食用蛋白部分营养价值较低，因此建议食用完整的鸡蛋以获取全面的营养。  
 
-#### Health Concerns: Addressing Cholesterol Myths
-- **Cholesterol Management**: Despite historical concerns, consuming whole eggs can be beneficial for maintaining healthy cholesterol levels, especially when combined with a balanced diet.
-- **Role of Lecithin**: Lecithin in the yolk acts as an antidote to cholesterol by aiding its metabolism and excretion.
+### 健康益处：降低胆固醇  
+- 蛋黄中的卵磷脂（lecithin）有助于调节和降低血液中的胆固醇水平，尤其是LDL（坏胆固醇）。  
+- 长期适量食用蛋黄对维持正常的血脂水平有益。  
 
-#### Issues with Commercial Egg Production
-- **Hormone-Free Labeling**: Claims of hormone-free eggs are misleading because hormonal additives in poultry feed have been illegal since 1949.
-- **Free-Range Misrepresentation**: The term "free-range" is often misused, as it typically refers to minimal outdoor access rather than genuine free-roaming conditions.
+### 問題原因：鸡蛋市场上的误导性标签  
+- **“激素-free”标签**：自1949年以来，美国已禁止在禽类饲料中添加激素，因此这一标签缺乏实际意义。  
+- **“free-range”标签**：该术语定义模糊，通常仅指鸡舍有通风口，但并不保证鸡只频繁户外活动或有更好的生活条件。  
+- **“omega-3强化”鸡蛋**：部分鸡蛋通过添加鱼油以增加omega-3脂肪酸含量，但这可能带来鱼类风味，且未必是最健康的选择。  
 
-#### Solutions and Recommendations: Choosing Healthier Eggs
-- **Source of Eggs**: Opt for eggs from local farmers or farmer's markets to ensure higher quality and ethical production practices.
-- **Avoid Factory-Farmed Eggs**: Commercially produced eggs from large companies often lack the same nutritional benefits due to poor farming conditions.
-- **Omega-3 Fortification**: Be cautious of eggs fortified with omega-3 fatty acids, as some may use fish oil, which can impart a fishy taste. Prefer those fortified with flax oil instead.
+### 解決方法：选择优质鸡蛋来源  
+- 购买来自本地农民、农贸市场或高端超市（如Whole Foods）的鸡蛋，这些渠道通常能提供更自然、健康的鸡蛋产品。  
+- 优先选择未经过化学添加剂强化的鸡蛋，尤其是避免使用鱼油强化的产品。  
 
-#### Health Advice: Incorporating Eggs into a Healthy Diet
-- **Egg Consumption**: Include whole eggs in your diet for optimal nutritional benefits, especially if you aim to manage cholesterol levels.
-- **Balanced Diet**: Pair eggs with other nutritious foods to maximize health benefits and ensure overall dietary balance.
+### 健康建議：合理食用鸡蛋  
+- 每日建议摄入量因人而异，但长期适量食用（如每日4个）对大多数人来说是安全且有益的。  
+- 确保饮食均衡，结合蔬菜、全谷物和蛋白质来源以最大化鸡蛋的营养价值。  
 
-#### Conclusion: The Value of Whole Eggs and Sustainable Egg Production
-- **Nutritional Superiority**: Whole eggs provide comprehensive nutritional benefits that are essential for maintaining good health.
-- **Support Ethical Farming**: Choosing eggs from local farmers supports sustainable agriculture and ensures better treatment of poultry.
+### 結論：鸡蛋是健康饮食的重要组成部分  
+- 鸡蛋不仅营养丰富，而且在合理食用的情况下对健康有益。  
+- 消费者应提高警惕，识别鸡蛋标签中的营销手段，并选择更可靠的鸡蛋来源以确保摄入高质量的蛋白质和营养素。
 </details>
 
 <details>
 <summary>91. [2012-04-18] Try This Weight Loss Shake</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fKjqBZdf3RQ" target="_blank">
-    <img src="https://img.youtube.com/vi/fKjqBZdf3RQ/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/fKjqBZdf3RQ/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 小節結構化整理
 
@@ -430,91 +414,63 @@ VI. 結論
 <summary>90. [2012-04-18] The 2 Types of Exercise for Belly Fat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=1URgrSjgQTY" target="_blank">
-    <img src="https://img.youtube.com/vi/1URgrSjgQTY/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/1URgrSjgQTY/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-### 文章整理：運動強度與脂肪燃燒的原理
 
-#### 核心主題
-- 探讨不同運動強度（高強度和低強度）对人体的影响，特別是對糖分和脂肪燃燒的效果。
+### 小節歸納
 
-#### 主要觀念
-1. **運動分類**：
-   - 高強度運動：如短跑、 interval training、 篮球等。
-   - 低強度運動：如散步、瑜伽、拉伸等。
+#### 1. 核心主題
+- 討論低強度和高強度運動的基本原理及其對脂肪燃燒和整體健康的影响。
 
-2. **高強度與低強度運動的差異**：
-   - **高強度運動**：
-     - 燈速燃燒糖分，但持續時間較短。
-     - 燈酸積累導致肌肉痠痛和疲勞。
-     - 腫脹脂肪燃燒效果需在14-48小時後的深度睡眠期間實現。
-   - **低強度運動**：
-     - 開始時燃燒糖分，25分鐘後逐步開始燃燒脂肪。
-     - 燉耗脂肪量較少但穩定，適合壓力管理和心臟健康。
+#### 2. 主要觀念
+- **低強度運動**：
+  - 燃燒糖分為主，初期（前25分鐘）主要消耗碳水化合物。
+  - 25分鐘後開始燃燒脂肪。
+  - 適合用於減壓和心臟健康。
+  - 可持續時間較長，建議每天行走45-60分鐘。
 
-3. **脂肪燃燒的條件**：
-   - 燃燒脂肪需要特定的身體環境，主要涉及激素交互作用。
-   - 高強度運動雖能促進脂肪燃燒，但效果延後且需深度睡眠支持。
+- **高強度運動**：
+  - 燃燒糖分為主，初期（前25分鐘）主要消耗碳水化合物。
+  - 14至48小時後，在深度睡眠期間燃燒脂肪。
+  - 適合用於提高心肺功能和新陳代謝率。
+  - 可持續時間較短，易產生乳酸酸中毒。
 
-#### 問題原因
-- 大眾對有氧運動的定義存在混淆。
-- 高強度運動可能適應性不足，導致身體壓力增大。
+#### 3. 問題原因
+- **低強度運動**：
+  - 初期主要燃燒糖分，脂肪燃燒效果不明顯。
+  
+- **高強度運動**：
+  - 短時間內糖分消耗快，易導致乳酸累積，造成肌肉痠痛。
+  - 腫瘍脂肪燃燒效果需要特定條件。
 
-#### 解決方法
-- 減輕壓力：低強度運動更適合用來降低壓力。
-- 逐步增加訓練強度：從低強度開始，逐漸提升至高強度。
-- 睡眠管理：確保足夠的深度睡眠以促進脂肪燃燒。
+#### 4. 解決方法
+- **低強度運動**：
+  - 長時間持續（45-60分鐘）以增加脂肪燃燒效果。
+  - 用於減壓和心臟健康，適合所有人員。
 
-#### 健康建議
-1. **低強度運動**：
-   - 初學者或體能較弱者建議散步或其他輕度活動。
-   - 每次至少進行45-60分鐘，以 maximise 脂肪燃燒效果。
-   -  我
+- **高強度運動**：
+  - 減少訓練次數或時長，避免乳酸過多累積。
+  - 配合充足睡眠，提高脂肪燃燒效率。
 
-2. **高強度運動**：
-   - 適合身體條件允許的人群，可提升心肺功能和燃脂效率。
-   - 持續時間不宜過長，避免乳酸積累。
+#### 5. 健康建議
+- 初學者應從低強度運動開始，逐步增加強度。
+- 結合低強度和高強度運動，以平衡糖分和脂肪燃燒。
+- 適當戶外行走，減少電子產品使用，提升心理放鬆效果。
 
-3. **綜合建議**：
-   - 根據個人體能選擇適合的運動強度。
-   - 結合有氧運動和力量訓練，提高整體健康水平。
-
-#### 總結
-- 高強度和低強度運動各有優缺點，關鍵在於根據個人情況選擇。
-- 低強度運動適合壓力管理和穩定燃燒脂肪。
-- 高強度運動雖效果顯著但需注意身體反應和恢復。
-
----
-
-### 英文摘要
-
-**Core Theme**: The article explores the differences between high-intensity and low-intensity exercise, focusing on their effects on sugar and fat burning.
-
-**Key Concepts**:
-1. **Exercise Types**:
-   - High-intensity exercises (e.g., sprinting, interval training) burn sugar quickly but cannot sustain for long periods due to lactic acid buildup.
-   - Low-intensity exercises (e.g., walking, yoga) initially burn sugar and gradually shift to fat burning after 25 minutes.
-
-2. **Fat Burning Conditions**:
-   - Fat burning requires specific physiological conditions, primarily involving hormonal interactions.
-   - High-intensity exercise promotes fat burning during deep sleep, with effects delayed by 14-48 hours.
-
-3. **Recommendations**:
-   - Start with low-intensity exercises for stress management and steady fat burning.
-   - Gradually increase exercise intensity based on physical capacity.
-   - Ensure adequate sleep to maximize fat burning benefits from high-intensity exercise.
-
-In conclusion, the choice between high-intensity and low-intensity exercise should be tailored to individual fitness levels and goals.
+#### 6. 總結
+- **低強度運動**：適合初期健身者，用於減壓和基礎心臟健康。
+- **高強度運動**：適合進階使用者，用於提高新陳代謝和脂肪燃燒效率。
+- 遐時性訓練計劃可以結合兩種模式，以達到最佳fitness效果。
 </details>
 
 <details>
 <summary>89. [2012-04-18] No More Problems with Sleeping</summary><br>
 
 <a href="https://www.youtube.com/watch?v=6K3oJW26D58" target="_blank">
-    <img src="https://img.youtube.com/vi/6K3oJW26D58/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/6K3oJW26D58/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題  
 - 受訪者在過去三周內於健康與 wellness center 接受治療後，睡眠品質得到顯著改善。  
@@ -553,9 +509,9 @@ In conclusion, the choice between high-intensity and low-intensity exercise shou
 <summary>88. [2012-04-18] Kale Smoothies Recipes</summary><br>
 
 <a href="https://www.youtube.com/watch?v=CIZ3ake2ZBo" target="_blank">
-    <img src="https://img.youtube.com/vi/CIZ3ake2ZBo/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/CIZ3ake2ZBo/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題： kale Shake 的製作與健康益處
 
@@ -610,9 +566,9 @@ In conclusion, the choice between high-intensity and low-intensity exercise shou
 <summary>87. [2012-04-18] How Not to Become a Procrastinator</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hTqDCao_Caw" target="_blank">
-    <img src="https://img.youtube.com/vi/hTqDCao_Caw/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/hTqDCao_Caw/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 小節一：核心主題  
 - 言論圍繞「拖延症」（Procrastination）及其對健康和生活質量的影響展開。  
@@ -668,9 +624,9 @@ In conclusion, the choice between high-intensity and low-intensity exercise shou
 <summary>86. [2012-04-18] Getting the Right Diet for Your Body Type</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Gb5Mztmx-U0" target="_blank">
-    <img src="https://img.youtube.com/vi/Gb5Mztmx-U0/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/Gb5Mztmx-U0/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題
 - 膳食選擇在健康管理與疾病治療中的重要性。
@@ -706,9 +662,9 @@ In conclusion, the choice between high-intensity and low-intensity exercise shou
 <summary>85. [2012-04-18] A Great Tool for Stress Relief</summary><br>
 
 <a href="https://www.youtube.com/watch?v=41HnMrqZAmU" target="_blank">
-    <img src="https://img.youtube.com/vi/41HnMrqZAmU/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/41HnMrqZAmU/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題  
 - 探讨同步呼吸技术（Synchronization Breathing Technology）作为一种基于科学的减压方法。
@@ -752,9 +708,9 @@ In conclusion, the choice between high-intensity and low-intensity exercise shou
 <summary>84. [2012-04-14] The Best and Worst Type of Calcium</summary><br>
 
 <a href="https://www.youtube.com/watch?v=s5h3VoMQt9g" target="_blank">
-    <img src="https://img.youtube.com/vi/s5h3VoMQt9g/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/s5h3VoMQt9g/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 小節歸納
 
@@ -828,9 +784,9 @@ In conclusion, the choice between high-intensity and low-intensity exercise shou
 <summary>83. [2012-04-14] Cheryl Jackson Radio Interview on 104.1 Talking about the Adrenal</summary><br>
 
 <a href="https://www.youtube.com/watch?v=V6Zy00bU5Bo" target="_blank">
-    <img src="https://img.youtube.com/vi/V6Zy00bU5Bo/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/V6Zy00bU5Bo/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題
 - 論述不同體型與 adrenal gland（腎上腺）之間的關聯。
@@ -891,9 +847,9 @@ In conclusion, the choice between high-intensity and low-intensity exercise shou
 <summary>82. [2012-04-14] The Best and Worst Vitamin C</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DnvnKnu7YBI" target="_blank">
-    <img src="https://img.youtube.com/vi/DnvnKnu7YBI/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/DnvnKnu7YBI/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理：vitamin C 的重要性與合理攝取
 
@@ -957,9 +913,9 @@ In conclusion, the choice between high-intensity and low-intensity exercise shou
 <summary>81. [2012-04-14] Make Your Own Weight Loss Drink</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HNNk31aGaYo" target="_blank">
-    <img src="https://img.youtube.com/vi/HNNk31aGaYo/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/HNNk31aGaYo/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理解讀
 
@@ -995,9 +951,9 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>80. [2012-04-14] How to Stop Cravings for Sugar</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fGT5cISbXa4" target="_blank">
-    <img src="https://img.youtube.com/vi/fGT5cISbXa4/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/fGT5cISbXa4/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 全文要旨  
 本文介紹了一種名為「Jима」（Gimma）的草藥，其具有阻斷甜味感知的功能。通過多項實驗演示，文中展示了該草藥如何降低或消除對甜食、酒精等的渴望，進而幫助人們控制飲食和戒除不良習慣。文章強調了 moderation 的重要性，并提供了一種自然方法來協助減肥和改善整體健康。
@@ -1045,9 +1001,9 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>79. [2012-04-14] Reverse Sit-ups for Belly Fat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vjHYuEj43fg" target="_blank">
-    <img src="https://img.youtube.com/vi/vjHYuEj43fg/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/vjHYuEj43fg/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題  
 - 介紹一種針對下腹部「小肚子」或皮膚鬆弛的運動方法。
@@ -1093,9 +1049,9 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>78. [2012-04-04] The Ultimate Exercise for Posture</summary><br>
 
 <a href="https://www.youtube.com/watch?v=LRxN-30oJx8" target="_blank">
-    <img src="https://img.youtube.com/vi/LRxN-30oJx8/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/LRxN-30oJx8/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理：改善姿勢的方法
 
@@ -1150,9 +1106,9 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>77. [2012-04-04] The Best Weight Loss Meal Replacement Shake Ingredients</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8Ray80ec9mk" target="_blank">
-    <img src="https://img.youtube.com/vi/8Ray80ec9mk/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/8Ray80ec9mk/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章重點整理
 
@@ -1201,9 +1157,9 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>76. [2012-04-04] Why am I Bloated?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=M9Isr1ON3lE" target="_blank">
-    <img src="https://img.youtube.com/vi/M9Isr1ON3lE/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/M9Isr1ON3lE/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理：核心主題  
 - **核心主題**：探讨腹部胀气（bloating）的原因及其与胆汁（bile）不足的关系，并提供解决方案。
@@ -1264,84 +1220,81 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>75. [2012-04-04] Foods that Burn Fat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vadPxKRGm7k" target="_blank">
-    <img src="https://img.youtube.com/vi/vadPxKRGm7k/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/vadPxKRGm7k/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-### 文章重點整理
 
-#### 核心主題
-- **核心主題**：探索 calorie counting（卡路里計數）的有效性及其限制，特別是隨著年齡增長（20s, 30s, 40s, 50s）后，激素變化和代謝率下降對 weight loss 的影響。
+### 核心主題
+- ** calorie counting 的混淆與限制**
+- **年齡對代謝和激素的影响**
+- ** fat burning triggers 和脂肪儲存的關鍵因素**
 
-#### 主要觀念
-1. **主要觀念**：
-   - 卡路里攝取量的減少並不總能導致體重下降。
-   - 年齡增長會導致激素水平和代謝率的改變，影響脂肪儲存和燃燒。
-   - 食物對激素的作用比簡單地 reduction of calories 更關鍵。
+### 主要觀念
+1. **傳統 calorie counting 的局限性**：
+   - 經常見到人們攝入更少熱量但 bmi 未降低。
+   - 年齡增長導致激素變化，代謝率下降， simple reduction of calories 不足以持續減重。
 
-2. **主要觀念**：
-   - 簡單的卡路里減量方法往往效果有限，尤其是隨著年齡增長。
-   - 濕潤激素相互作用是 fat burning 的關鍵因素。
+2. **激素在脂肪燃燒與儲存中的作用**：
+   - 膳食與激素的交互作用比簡單的熱量控制更重要。
+   - 需要考慮胰島素、血清瘦肭肽等激素對飲食的反應。
 
-#### 問題原因
-1. **問題原因**：
-   - 人們普遍依賴 calorie counting 方法，但對激素和代謝交互作用缺乏深入了解。
-   - 年齡導致的激素變化（如胰島素、代謝率下降）使傳統減肥方法失效。
-   - 医生常使用複雜的術語來混淆患者，而非提供實用建議。
+3. **累積的研究成果**：
+   - 八年研究 distilling fat burning triggers 和脂肪儲存因素，整理成一張簡潔的手冊。
+   - 這份手冊涵蓋了多方面 hormonal reactions，超越常見 diets 提及的 insulin 或 glycemic index。
 
-2. **問題原因**：
-   - 簡單的卡路里攝取控制無法考慮到食物對激素的多樣影響。
-   - 大部分飲食計劃缺乏對激素交互作用的 comprehensive understanding。
+### 問題原因
+- **對 calorie counting 的誤解**：
+  - 大眾以為 simple reduction of calories 就能减重，但忽略了激素和代謝率的變化。
+  
+- **醫療專業人員的困惑**：
+  - 部分醫生使用複雜術語來 impress patients 而非提供實用建議。
+  - 患者需要清晰、簡單的健康指導。
 
-#### 解決方法
-1. **解決方法**：
-   - 開發一套基於 hormones interaction 的 fat burning triggers 和 fat storing triggers 的綜合性飲食策略。
-   - 簡化信息，提供易於執行的飲食指南，並附上具體操作步驟。
+### 解決方法
+1. **綜合性飲食策略**：
+   - 集中於 fat burning triggers 和脂肪儲存因素，而非單一熱量控制。
+   - 理解並應用激素在飲食中的交互作用。
 
-2. **解決方法**：
-   - 提供一份八年研究總結的飲食指引，涵蓋所有激素反應。
-   - 強調飲食計劃需考慮 insulin、glycemic index 等多種因素。
+2. **提供實用工具**：
+   - 將八年研究成果整理成 simple sheet，可供每日參考。
+   - 這份手冊涵蓋了多方面 hormonal reactions，超越常見 diets 提及的 insulin 或 glycemic index。
 
-#### 健康建議
-1. **健康建議**：
-   - 下載並使用提供的飲食指南，將其放置在冰箱等顯眼位置，便於執行。
-   - 要求讀者分享成功經驗，以鼓勵他人並收集反饋。
-   - 鼓勵讀者在 Google、Bing 等平台寫下評價，特別是對飲食指南的看法。
+3. **鼓勵用戶反饋與評價**：
+   - 鼓励下載並應用此手冊，然後分享 success story。
+   - 談論此手冊或其他 diet aspects 的 positive experiences，提供 Google, Bing 等平台的 evaluation。
 
-2. **健康建議**：
-   - 應用食物如何影響激素水平，而非單純依賴卡路里攝取量。
-   - 定期跟蹤飲食計劃的效果，並根據反饋調整策略。
+### 健康建議
+1. **飲食選擇**：
+   - 選擇能觸發 fat burning 和避免脂肪儲存的食物。
+   - 注意食物對激素（如 insulin、血清瘦肭肽）的影響。
 
-#### 結論
-1. **結論**：
-   - 傳統的 calorie counting 方法存在局限性，需轉向更 comprehensive 的激素交互作用分析。
-   - 提供簡潔、實用的飲食指南是實現 sustainable weight loss 的關鍵。
-   - 鼓勵讀者積極反饋和分享經驗，以共同改進飲食策略。
+2. **年齡管理**：
+   - 意識到隨著年齡增長，代謝率下降，需調整飲食策略以應對激素變化。
+   - 確保飲食策略考慮到個人生理特徵和 age-related changes.
 
-2. **結論**：
-   - 確保飲食計劃考慮年齡導致的激素變化和代謝率下降。
-   - 通過了解食物對激素的作用，提升減肥效果。
+3. **簡單明了的健康指南**：
+   - 使用整理好的手冊來指導每日飲食，避免被複雜信息所困。
+   - 保持 consistency in application of the strategies。
 
----
+### 結論
+- **傳統 calorie counting 的不足**：
+  - 简單的熱量控制在不同年齡階段效果有限，需考慮激素和代謝率的變化。
 
-### 英文原文
+- **激素飲食策略的重要性**：
+  - 应用 fat burning triggers 和避免脂肪儲存的因素，比 simple calorie reduction 更為有效。
 
-You know, out of all the things that people tell me, probably the biggest confusion people have is this thing called calorie counting. You know we have all these people eating less but they're not losing weight. And I know it's frustrating because I see people at the gym and they're they're doing everything they should pretty much win an award for trying so hard but it just doesn't work. So there are ideas that are true and they're ideas that are false but you don't know if it's false until you try it. Like I had a doctor who came up to me and told me that in their mind if you give the patient lots of big complex words they will they be impressed and they'll want to see you but I told that person that doctor that's absolutely not true you have to break it down make it simple because they're operating off this false idea but you have to confuse a patient it's crazy. So this whole idea about eating less and losing weight will work but as you age 20s 30s 40s 50s hormones change and your metabolism shuts down what you have to use are the interactions of the foods with hormones not the reduction of calories. Okay so what I've done is I've developed over the last eight years a summary of all of the fat burning triggers that store fat and that burn fat and I have the pictures right here this is eight years of work put on one simple sheet so you can go through it keep in your fridge and use it and apply it. So I hope you appreciate this because you're gonna be able to download it with the link below but all I want is two things in return number one I want you to apply as much of this as you can and then send me your success story because if you applied all this you would be further way further than any other diet that you could be on most diets never ever get into the comprehensiveness of all the hormonal reactions they might talk about insulin or glycemic index but not all of them. Number two I would really appreciate if you went to do a review on me either on Google Bing or yeah whoo and talk about this sheet that I've given you if it helped you or any other thing that aspects of my diet or as coming in as a patient any positive things go ahead and write a review I'd really appreciate that so go ahead and download this now and then I'll wait to hear from you or see the review.
-
----
-
-### 中文翻譯
-
-你知道，在所有人們告訴我的事情中，最受困擾的應該是這個叫作「卡路里計數」的概念。你知道吧，很多人都在攝取更少的熱量，但體重卻没有下降。這真的讓人感到沮喪，因為我看到很多人在健身房賣力地運動，簡直像是為了獎勵而努力，但效果卻微乎其微。所以，有些想法是正確的，有些則不然，但你只有試一試才知道。比如說，曾有個醫生來找過我，告訴我他的看法：如果一個醫生給病人一大堆複雜的大詞，病人就會被 Impress 并且想再見他。但我對那個醫生說，這絕對不對，你需要簡化信息，因為病人是在錯誤的概念下運作，你不能讓他們感到困惑，病人應該得到簡單明了的建議。所以，關於攝食量減少就能瘦身的理論看似管用，但隨著年齡增長（二十來歲、三十來歲、四十來歲、五十來歲），荷爾蒙会发生變化，新陳代謝率也會降低，你真正需要依靠的是食物如何與荷爾蒙相互作用，而不是簡單地降低熱量攝取。好了，過去八年裡，我總結出一套能促進燃脂和儲存脂肪的觸發因素，這些都整理在這份簡報中了，就是一份多年的 effort 放在一张 simple sheet 上，你可以在冰箱上張貼它並加以利用。我希望你能欣賞这份成果，因為你可以通過提供的連結下載它。但我也希望你能回饋兩點：一是請盡可能地應用這些方法，然後把你的成功故事傳送給我；二是如果你願意的話，在 Google 或 Bing 等平台上為我寫下評價，談談這份簡報是否幫助了你，或是對我的飲食建議有何看法。下載吧，等著聽取你的意見或看到你的評論。
+- **研究與實踐的結合**：
+  - 將八年研究成果整理成 practical tool，幫助大眾實現更有效的減重和健康目標。
+  - 鼓励用戶應用並反饋，進一步改進指導方案。
 </details>
 
 <details>
 <summary>74. [2012-04-04] The Drink More Water Myth</summary><br>
 
 <a href="https://www.youtube.com/watch?v=MQsDeZNlk4c" target="_blank">
-    <img src="https://img.youtube.com/vi/MQsDeZNlk4c/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/MQsDeZNlk4c/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題  
 - 探讨关于水的常见误区及其科学真相。  
@@ -1400,9 +1353,9 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>73. [2011-12-12] Successes from The 7 Principles of Fat Burning</summary><br>
 
 <a href="https://www.youtube.com/watch?v=WvO6N9vlmCo" target="_blank">
-    <img src="https://img.youtube.com/vi/WvO6N9vlmCo/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/WvO6N9vlmCo/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 小節歸納：
 
@@ -1451,9 +1404,9 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>72. [2011-11-30] A Great Diet Success</summary><br>
 
 <a href="https://www.youtube.com/watch?v=p7KMpyQ7x9k" target="_blank">
-    <img src="https://img.youtube.com/vi/p7KMpyQ7x9k/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/p7KMpyQ7x9k/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 小節結構
 
@@ -1490,9 +1443,9 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>71. [2011-11-30] The Healthiest Diet Explained By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=eRjBkoFy9IA" target="_blank">
-    <img src="https://img.youtube.com/vi/eRjBkoFy9IA/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/eRjBkoFy9IA/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題：健康與營養管理的重要性
 
@@ -1535,9 +1488,9 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>70. [2011-11-30] Get Rid of Cravings at Night</summary><br>
 
 <a href="https://www.youtube.com/watch?v=EsGvIsqGFpU" target="_blank">
-    <img src="https://img.youtube.com/vi/EsGvIsqGFpU/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/EsGvIsqGFpU/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 # 關於夜間渴望甜食的飲食建議
 
@@ -1573,9 +1526,9 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>69. [2011-11-29] The HCG Diet - Reviews</summary><br>
 
 <a href="https://www.youtube.com/watch?v=giPkBbm52CM" target="_blank">
-    <img src="https://img.youtube.com/vi/giPkBbm52CM/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/giPkBbm52CM/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 小節整理
 
@@ -1613,9 +1566,9 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>68. [2011-11-29] Improved Breathing, Better Sleep and More Energy</summary><br>
 
 <a href="https://www.youtube.com/watch?v=-LfNqA61-aU" target="_blank">
-    <img src="https://img.youtube.com/vi/-LfNqA61-aU/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/-LfNqA61-aU/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題
 - 患者報告了一個涉及主動脉瓣和二尖瓣的醫療手術史。
@@ -1662,9 +1615,9 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>67. [2011-11-29] Overcoming Temptation and Help with Weight Loss!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=v-qINKfAm7U" target="_blank">
-    <img src="https://img.youtube.com/vi/v-qINKfAm7U/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/v-qINKfAm7U/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 # 文章重點整理
 
@@ -1722,9 +1675,9 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>66. [2011-11-29] How to Rid Stretch Marks</summary><br>
 
 <a href="https://www.youtube.com/watch?v=UUV7CRT8lbE" target="_blank">
-    <img src="https://img.youtube.com/vi/UUV7CRT8lbE/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/UUV7CRT8lbE/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 # 文章整理：消除妊娠紋的方法
 
@@ -1787,9 +1740,9 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>65. [2011-11-29] Diet Plan Success</summary><br>
 
 <a href="https://www.youtube.com/watch?v=gc4P7uhZCK8" target="_blank">
-    <img src="https://img.youtube.com/vi/gc4P7uhZCK8/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/gc4P7uhZCK8/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題
 - **飲食計劃的效果**：受訪者在短期內體驗到了顯著的健康改善，包括能量增加、 craving 减少和整體生活品質提升。
@@ -1850,9 +1803,9 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>64. [2011-11-29] The 600 pound guy</summary><br>
 
 <a href="https://www.youtube.com/watch?v=k6-Tkv_Jnz0" target="_blank">
-    <img src="https://img.youtube.com/vi/k6-Tkv_Jnz0/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/k6-Tkv_Jnz0/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 小節歸納
 
@@ -1885,9 +1838,9 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>63. [2011-11-29] Dr. Berg's follow up to his shoulder fracture</summary><br>
 
 <a href="https://www.youtube.com/watch?v=x9espCyDUp8" target="_blank">
-    <img src="https://img.youtube.com/vi/x9espCyDUp8/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/x9espCyDUp8/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題
 - 肩部骨折康復的進展與經驗分享。
@@ -1924,9 +1877,9 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>62. [2011-11-29] Dr. Berg Explains His Pain After Surgery</summary><br>
 
 <a href="https://www.youtube.com/watch?v=TTqsVzse5HY" target="_blank">
-    <img src="https://img.youtube.com/vi/TTqsVzse5HY/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/TTqsVzse5HY/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題  
 - **意外導致肱骨骨折及肩袖損傷**  
@@ -1968,118 +1921,70 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>61. [2011-11-29] What are Phytonutrients?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=NqOpIj_XXFU" target="_blank">
-    <img src="https://img.youtube.com/vi/NqOpIj_XXFU/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/NqOpIj_XXFU/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-### 文章重點整理
 
-#### 核心主題
-- **主要焦點**: 蔬菜與健康之間的關係，特別是十字花科蔬菜（cruciferous vegetables）的營養價值和健康益處。
-- **核心信息**: 十字花科蔬菜在飲食中扮演重要角色，其營養成分對人體健康有顯著影響。
+### 核心主題
+- **Sprouts as a Nutritional Powerhouse**: The article emphasizes the nutritional value and health benefits of sprouts, particularly cruciferous vegetables.
 
-#### 主要觀念
-1. **十字花科蔬菜的定義與範疇**:
-   - 包括西蘭花、捲心菜、甘藍、芥菜等。
-2. **十字花科蔬菜的營養價值**:
-   - 含有豐富的維生素C、維生素A、 calcium。
-   - 提供大量膳食纖維。
-3. **健康益處**:
-   - 促進肝臟排毒。
-   - 調節雌激素平衡（phytoestrogens的作用）。
-   - 支持免疫系統。
-   - 助於消化健康（如茴香菜對胃病的改善作用）。
+### 主要觀念
+1. **Nutritional Composition**:
+   - Sprouts are rich in essential nutrients such as protein, vitamins (A, C), minerals (calcium), and fiber.
+   - They contain antioxidants and phytoestrogens, which have health-promoting properties.
 
-#### 問題原因
-1. **現代飲食習慣**:
-   - 遇到加工食品和精緻食品的影響，導致營養攝取不均衡。
-2. **環境因素**:
-   - 化學污染和生活方式壓力增加了肝臟排毒的負擔。
-3. **營養吸收效率**:
-   - 經加工或高溫處理後，食物的營養價值顯著降低。
+2. **Health Benefits**:
+   - **Detoxification**: Wheatgrass juice is beneficial for liver detoxification.
+   - **Estrogen Balance**: Phytoestrogens in cruciferous vegetables help balance estrogen levels.
+   - **Gastrointestinal Health**: Fennel sprouts are known for their positive effects on stomach upset and digestion.
 
-#### 解決方法
-1. **增加十字花科蔬菜攝取量**:
-   - 推薦每日至少一至兩份，每份約為一杯或六片冷凍乾燥粉末。
-2. **多樣化攝取方式**:
-   - 生食或輕微烹調以保留營養成分。
-3. **選擇有機產品**:
-   - 確保食物未受農藥汫染，提高營養素的吸收率。
-4. **搭配其他 nutrient-rich 食物**:
-   - 如豆類和全穀物，以平衡蛋白質與纖維攝取。
+3. **Comparison with Other Protein Sources**:
+   - Sprouts provide high-quality, easily digestible protein compared to cooked or processed meat proteins.
 
-#### 健康建議
-1. **飲食結構調整**:
-   - 減少精緻食品和加工肉類的攝取。
-2. **增加蔬果比例**:
-   - 確保每日飲食中蔬菜占據主要份額。
-3. **定期食用十字花科蔬菜**:
-   - 至少三至五份每周，以維持身體健康。
-4. **注意烹調方式**:
-   - 生食或短時間蒸煮，避免營養成分的破壞。
+### 問題原因
+1. **Modern Diet Issues**:
+   - Poor eating habits, chemical exposure, and liver strain due to processed foods contribute to health problems.
+   - Refined grains lose vital nutrients during processing.
 
-#### 結論
-- 十字花科蔬菜是現代飲食中不可或缺的一部分，其豐富的營養成分和多樣化的健康益處對提升整體健康水平具有重要意義。建議公眾增加攝取量，以應對現代生活方式帶來的健康挑戰。
+2. **Nutrient Loss**:
+   - Oxidation and refining processes cause significant loss of vitamin E and other nutrients in grains like wheat berries.
 
----
-
-### English Version
-
-#### Core Theme
-- **Focus**: The relationship between vegetables and health, with an emphasis on the nutritional value and health benefits of cruciferous vegetables.
-- **Central Message**: Cruciferous vegetables play a significant role in diet, offering substantial health benefits due to their nutrient profile.
-
-#### Key Concepts
-1. **Definition and Scope of Cruciferous Vegetables**:
-   - Includes broccoli, cauliflower, cabbage, kale, and radishes.
-2. **Nutritional Value**:
-   - Rich in vitamin C, vitamin A, and calcium.
-   - Provides abundant dietary fiber.
-3. **Health Benefits**:
-   - Promote liver detoxification.
-   - Regulate estrogen balance (due to phytoestrogens).
-   - Support immune function.
-   - Aid in digestive health (e.g., fennel for gastrointestinal discomfort).
-
-#### Problem Causes
-1. **Modern Dietary Habits**:
-   - Influence of processed foods and refined carbohydrates leading to nutritional imbalance.
-2. **Environmental Factors**:
-   - Chemical exposure and lifestyle stress increase liver detoxification burden.
-3. **Nutrient Absorption Efficiency**:
-   - Processing or high-temperature cooking significantly reduces nutrient content.
-
-#### Solutions
+### 解決方法
 1. **Increase Cruciferous Vegetable Intake**:
-   - Recommended to consume at least one to two servings daily (one cup or six freeze-dried tablets).
-2. **Diverse Consumption Methods**:
-   - Consume raw or lightly cooked to preserve nutrients.
-3. **Choose Organic Products**:
-   - Ensure food is free from pesticide contamination for better nutrient absorption.
-4. **Combine with Other Nutrient-Rich Foods**:
-   - Pair with legumes and whole grains for balanced protein and fiber intake.
+   - Consume at least 3-5 servings per week, with one serving equivalent to one cup or six tablets/capsules of freeze-dried cruciferous vegetables.
+   - Additional intake is recommended for individuals with a history of poor diet and liver stress until health stabilizes.
 
-#### Health Recommendations
-1. **Dietary Adjustment**:
-   - Reduce intake of processed foods and cured meats.
-2. **Increase Proportion of Vegetables**:
-   - Ensure vegetables dominate daily diet portions.
-3. **Regular Cruciferous Vegetable Consumption**:
-   - Aim for at least three to five servings weekly to maintain health.
-4. **Mind Cooking Methods**:
-   - Opt for raw consumption or short cooking times to avoid nutrient destruction.
+2. **Optimal Nutrient Retention**:
+   - Eat sprouts fresh to retain maximum nutritional value.
+   - Consider incorporating wheatgrass juice for liver detoxification.
 
-#### Conclusion
-- Cruciferous vegetables are an essential component of modern diets, offering diverse nutritional benefits that contribute significantly to overall health. It is advisable to increase their intake to address the health challenges posed by contemporary lifestyles.
+3. **Balanced Diet**:
+   - Replace processed meat proteins with sprouts for better nutrient absorption and reduced liver strain.
+
+### 健康建議
+1. **Dietary Recommendations**:
+   - Include a variety of sprouts in the diet, such as broccoli, radish, onion, and fennel.
+   - Introduce fennel sprouts as a healthy alternative to licorice for children with upset stomachs.
+
+2. **Food Processing Awareness**:
+   - Avoid refined grains and processed foods to prevent nutrient loss.
+   - Choose organic seeds for sprouting to ensure the absence of harmful pesticides.
+
+3. **Supplementation**:
+   - Consider freeze-dried cruciferous vegetables as a convenient way to meet daily intake requirements, especially for those with limited access to fresh produce.
+
+### 結論
+- Sprouts offer a superior nutritional profile compared to conventional protein sources and refined grains.
+- Increasing the consumption of cruciferous vegetables can significantly improve overall health by providing essential nutrients, supporting detoxification, and balancing hormone levels.
 </details>
 
 <details>
 <summary>60. Understanding Body Types</summary><br>
 
 <a href="https://www.youtube.com/watch?v=sINOePVcD3I" target="_blank">
-    <img src="https://img.youtube.com/vi/sINOePVcD3I/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/sINOePVcD3I/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 
 </details>
@@ -2088,9 +1993,9 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>59. [2011-11-29] What are Carbohydrates?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=krwKqnmidC8" target="_blank">
-    <img src="https://img.youtube.com/vi/krwKqnmidC8/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/krwKqnmidC8/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理： grains 的營養與健康影響
 
@@ -2143,9 +2048,9 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>58. [2011-11-29] How Sugar Effects Your Body</summary><br>
 
 <a href="https://www.youtube.com/watch?v=A7MsLHlDEDc" target="_blank">
-    <img src="https://img.youtube.com/vi/A7MsLHlDEDc/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/A7MsLHlDEDc/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理與歸納
 
@@ -2189,9 +2094,9 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>57. [2011-11-29] The Importance of Sleep and Weight Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=wr82y-dGoTg" target="_blank">
-    <img src="https://img.youtube.com/vi/wr82y-dGoTg/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/wr82y-dGoTg/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理
 
@@ -2244,9 +2149,9 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>56. [2011-11-29] Dr. Berg Discusses Liver Cleansing Food on News Channel 8 Sports Talk Dr. Eric Berg 2</summary><br>
 
 <a href="https://www.youtube.com/watch?v=FTZcZz1ESII" target="_blank">
-    <img src="https://img.youtube.com/vi/FTZcZz1ESII/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/FTZcZz1ESII/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理：健康飲食與體重管理的核心要素
 
@@ -2319,9 +2224,9 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>55. [2011-11-29] A Better Way to Track Weight Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=W_EHiOd8yHQ" target="_blank">
-    <img src="https://img.youtube.com/vi/W_EHiOd8yHQ/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/W_EHiOd8yHQ/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章重點整理
 
@@ -2360,9 +2265,9 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>54. [2011-11-29] Dr. Eric Berg, Gets Success with Weight Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HhLJz1-SAhw" target="_blank">
-    <img src="https://img.youtube.com/vi/HhLJz1-SAhw/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/HhLJz1-SAhw/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題
 - 認知與思考的深度探索：文章強調了人類思維過程中常被忽視的簡單事實，這些事實雖然看似平凡，卻蘊含著深刻的智慧。
@@ -2394,9 +2299,9 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>53. [2011-11-29] Dr  Eric Berg, Seminar testimonial</summary><br>
 
 <a href="https://www.youtube.com/watch?v=0rh0qiyPxdY" target="_blank">
-    <img src="https://img.youtube.com/vi/0rh0qiyPxdY/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/0rh0qiyPxdY/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題  
 - 探讨肥胖和体重管理的科学方法。  
@@ -2431,9 +2336,9 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>52. [2011-11-29] Dr. Eric Berg, Seminar Success with Losing Weight</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fCHw_dW7oH4" target="_blank">
-    <img src="https://img.youtube.com/vi/fCHw_dW7oH4/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/fCHw_dW7oH4/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題  
 - 受眾對參加某 Seminar 的積極評價和深刻印象。  
@@ -2463,9 +2368,9 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>51. [2011-11-29] Dr  Eric Berg, Seminar testimonial</summary><br>
 
 <a href="https://www.youtube.com/watch?v=lZnVLG-nLTE" target="_blank">
-    <img src="https://img.youtube.com/vi/lZnVLG-nLTE/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/lZnVLG-nLTE/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題  
 - 講演者展示了即時幫助受困者的實力與能力。  
@@ -2491,9 +2396,9 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>50. [2011-11-29] A Great Weight Loss Success</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_jV90HZceus" target="_blank">
-    <img src="https://img.youtube.com/vi/_jV90HZceus/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/_jV90HZceus/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題
 - 半導體研發中的痛點與挑戰。
@@ -2529,9 +2434,9 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>49. [2011-11-29] Register for Dr. Berg's Seminar</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8SixpXSS6Bw" target="_blank">
-    <img src="https://img.youtube.com/vi/8SixpXSS6Bw/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/8SixpXSS6Bw/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題
 - **慢性疾病的挑戰**：面對肥胖、疲勞、睡眠障礙等健康問題，傳統方法未能有效解決。
@@ -2576,9 +2481,9 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>48. [2011-11-29] Dr  Eric Berg, Seminar testimonial</summary><br>
 
 <a href="https://www.youtube.com/watch?v=rOd4QNwDTv4" target="_blank">
-    <img src="https://img.youtube.com/vi/rOd4QNwDTv4/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/rOd4QNwDTv4/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 小節整理
 
@@ -2603,9 +2508,9 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>47. [2011-11-29] Dr Berg's Patient Speak About Their Success</summary><br>
 
 <a href="https://www.youtube.com/watch?v=YF00ySD6nKE" target="_blank">
-    <img src="https://img.youtube.com/vi/YF00ySD6nKE/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/YF00ySD6nKE/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題  
 - 受訪者在經過某種治療或計劃後，身體健康和生活方式發生了顯著改善。  
@@ -2644,9 +2549,9 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>46. [2011-11-27] Using Acupressure for Headaches</summary><br>
 
 <a href="https://www.youtube.com/watch?v=919B_Ey0fuU" target="_blank">
-    <img src="https://img.youtube.com/vi/919B_Ey0fuU/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/919B_Ey0fuU/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章重點整理
 
@@ -2696,9 +2601,9 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>45. [2011-11-27] Stretches for Back Pain</summary><br>
 
 <a href="https://www.youtube.com/watch?v=SuRyHA2wQc8" target="_blank">
-    <img src="https://img.youtube.com/vi/SuRyHA2wQc8/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/SuRyHA2wQc8/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 小節：低背部伸展的重要性
 1. **核心主題**：
@@ -2737,9 +2642,9 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>44. [2011-11-27] Interesting Success Story</summary><br>
 
 <a href="https://www.youtube.com/watch?v=FckvKNAi44U" target="_blank">
-    <img src="https://img.youtube.com/vi/FckvKNAi44U/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/FckvKNAi44U/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 小節歸納
 
@@ -2773,9 +2678,9 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>43. [2011-11-27] Anxiety Relief Success</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Sggj4HgaoO0" target="_blank">
-    <img src="https://img.youtube.com/vi/Sggj4HgaoO0/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/Sggj4HgaoO0/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題  
 - 長期受高焦慮和睡眠障礙困擾，影響生活品質及人際關係。  
@@ -2810,9 +2715,9 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>42. [2011-11-27] The Best and Worst Weight Loss Diets</summary><br>
 
 <a href="https://www.youtube.com/watch?v=yhxWd2jveT8" target="_blank">
-    <img src="https://img.youtube.com/vi/yhxWd2jveT8/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/yhxWd2jveT8/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 小節化整理
 
@@ -2861,9 +2766,9 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>41. [2011-11-27] 90 Year Old - Amazing Story</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ZBpNtVSmTN4" target="_blank">
-    <img src="https://img.youtube.com/vi/ZBpNtVSmTN4/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/ZBpNtVSmTN4/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 小節一：核心主題  
 - 文章的核心主題圍繞著Betty Kendall女士在老年時期的卓越成就與影響力。  
@@ -2917,9 +2822,9 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>40. [2011-11-27] Dr. Eric Berg, Seminar testimonial</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hzYhdetIiHg" target="_blank">
-    <img src="https://img.youtube.com/vi/hzYhdetIiHg/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/hzYhdetIiHg/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題
 - 本篇文章描述了作者在參加一個研討會後的感受及其對所獲得信息和技巧的反應。
@@ -2946,9 +2851,9 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>39. Dr. Berg on Sport's Talk</summary><br>
 
 <a href="https://www.youtube.com/watch?v=s3HfT4yI76A" target="_blank">
-    <img src="https://img.youtube.com/vi/s3HfT4yI76A/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/s3HfT4yI76A/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 
 </details>
@@ -2957,9 +2862,9 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>38. [2011-11-27] The Hidden Source Belly Fat: MSG Monosodium Glutamate</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KkBWi3G9qM0" target="_blank">
-    <img src="https://img.youtube.com/vi/KkBWi3G9qM0/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/KkBWi3G9qM0/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題  
 - 調味增強劑（MSG，即單 sodium glutamate）在市場上的廣泛應用及其潛在影響。
@@ -3003,9 +2908,9 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>37. [2011-11-27] Dr. Berg Grows Kale in His Basement (Part 2)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8JJm4HRq8Oo" target="_blank">
-    <img src="https://img.youtube.com/vi/8JJm4HRq8Oo/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/8JJm4HRq8Oo/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理：水耕法及其營養價值探討與健康飲品介紹
 
@@ -3073,9 +2978,9 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>36. [2011-11-27] Dr. Berg Grows Cruciferous Vegetables in his Basement (Part 1)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=qKSlhns1xmg" target="_blank">
-    <img src="https://img.youtube.com/vi/qKSlhns1xmg/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/qKSlhns1xmg/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題
 - **Hydroponics（水耕法）**：介紹了一種在水中種植蔬菜的方法，強調其高效性和資源利用率。
@@ -3123,9 +3028,9 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>35. [2011-06-07] The Best Fat Burning Exercise</summary><br>
 
 <a href="https://www.youtube.com/watch?v=E_AvZcJ9IV4" target="_blank">
-    <img src="https://img.youtube.com/vi/E_AvZcJ9IV4/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/E_AvZcJ9IV4/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章重點整理
 
@@ -3169,9 +3074,9 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>34. [2011-01-06] Dr. Berg's Body Types</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HS0Bm5oB8YI" target="_blank">
-    <img src="https://img.youtube.com/vi/HS0Bm5oB8YI/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/HS0Bm5oB8YI/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題  
 - 探讨不同身体类型的分类及其与内分泌系统的关系。  
@@ -3236,9 +3141,9 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>33. [2010-11-05] Dr Eric Berg's Review: After 2 Adrenal Acupressure Treatments</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5Q6g9e1O35s" target="_blank">
-    <img src="https://img.youtube.com/vi/5Q6g9e1O35s/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/5Q6g9e1O35s/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理與分析
 
@@ -3305,9 +3210,9 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>32. [2010-10-13] Get Rid of Cravings at Night</summary><br>
 
 <a href="https://www.youtube.com/watch?v=pbuCC33gKck" target="_blank">
-    <img src="https://img.youtube.com/vi/pbuCC33gKck/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/pbuCC33gKck/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題  
 - **夜間 cravings 的管理**：探討如何有效控制夜間對甜食或其他食物的渴望。
@@ -3366,9 +3271,9 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>31. [2010-10-13] Adrenal Burnout</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hGiN_a0rYJY" target="_blank">
-    <img src="https://img.youtube.com/vi/hGiN_a0rYJY/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/hGiN_a0rYJY/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題
 - 長期過度使用咖啡因對健康的影響。
@@ -3412,9 +3317,9 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>30. [2010-08-10] The Best Tip for Reducing Stress Hormones</summary><br>
 
 <a href="https://www.youtube.com/watch?v=TNUaDYqt0uA" target="_blank">
-    <img src="https://img.youtube.com/vi/TNUaDYqt0uA/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/TNUaDYqt0uA/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 小節歸納
 
@@ -3446,86 +3351,66 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>29. [2010-08-10] Cortisol, The Good, The Bad & The Ugly</summary><br>
 
 <a href="https://www.youtube.com/watch?v=yQ9jy2eCb5I" target="_blank">
-    <img src="https://img.youtube.com/vi/yQ9jy2eCb5I/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/yQ9jy2eCb5I/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-### 核心主題： adrenal function and cortisol imbalance
 
-- Cortisol is a critical hormone involved in stress response, inflammation regulation, and various bodily functions.
-- Chronic stress can lead to dysregulation of cortisol, resulting in both physical and psychological symptoms.
+### 小節一：核心主題
+- ** adrenal dysfunction and its effects on health.**
+  - The article discusses the impact of chronic stress on adrenal function, particularly the role of cortisol.
+  - Key issues include inflammation, fibromyalgia, metabolic disorders, and neural excitability.
 
-### 主要觀念：
+### 小節二：主要觀念
+1. **Cortisol's Role in Stress Response**
+   - Cortisol is a critical hormone for managing stress and inflammation.
+   - Prolonged stress leads to cortisol depletion, impairing its anti-inflammatory effects.
+2. **Chronic Inflammation and Fibromyalgia**
+   - Chronic stress results in sustained inflammation due to insufficient cortisol.
+   - Fibromyalgia is characterized by widespread pain caused by a lack of anti-inflammatory hormones.
+3. **Metabolic Dysregulation**
+   - Elevated cortisol levels contribute to belly fat accumulation despite its role as an anti-inflammatory hormone.
+4. **Neural and Muscular Effects**
+   - Chronic stress increases neural excitability, leading to overthinking and mental fatigue.
+   - Muscle wasting occurs due to reduced muscle tone.
 
-1. **Cortisol's Role**:
-   - Acts as an anti-inflammatory hormone.
-   - Helps the body cope with acute stress.
-   - Regulates metabolism and immune function.
+### 小節三：問題原因
+- **Chronic Stress**
+  - Prolonged exposure to stress triggers adrenal dysfunction.
+  - Impairs cortisol receptors, reducing the hormone's effectiveness.
+- **Hormonal Dysregulation**
+  - Elevated cortisol levels fail to regulate inflammation and allergies effectively.
+- **Receptor Resistance**
+  - Chronic stress downgrades cortisol receptors, leading to ineffective hormone communication.
 
-2. **Chronic Stress and Cortisol Depletion**:
-   - Prolonged exposure to stress leads to depletion of cortisol reserves.
-   - Impaired cortisol signaling results in inflammation, chronic pain, and conditions like fibromyalgia.
+### 小節四：解決方法
+1. **Vitamin A Supplementation**
+   - Essential for sinus health and reducing allergies.
+   - The article recommends a high-vitamin A shake available on Dr. Berg's website.
+2. **Lifestyle Modifications**
+   - Managing stress through appropriate interventions to prevent adrenal fatigue.
+3. **Dietary Adjustments**
+   - Incorporating nutrient-rich foods to support adrenal function.
 
-3. **Inflammation and Chronic Diseases**:
-   - Inadequate cortisol levels fail to control inflammation effectively.
-   - Chronic inflammation is linked to fibromyalgia, allergies, sinus issues, and other systemic problems.
+### 小節五：健康建議
+1. **Monitor Cortisol Levels**
+   - Regular testing of cortisol levels in blood or saliva can help assess adrenal health.
+2. **Address Allergies and Sinus Issues**
+   - Improve sinus health through dietary changes and supplements to reduce allergy symptoms.
+3. **Exercise for Muscle Tone**
+   - Engage in regular physical activity to maintain muscle tone and mitigate wasting.
 
-### 問題原因：
-
-- **Cortisol Resistance**: 
-  - High cortisol levels due to chronic stress lead to downregulation of cortisol receptors.
-  - This results in ineffective cortisol signaling despite high blood/saliva cortisol levels.
-
-- **Neuroendocrine Dysregulation**:
-  - Chronic stress disrupts the hypothalamic-pituitary-adrenal (HPA) axis, impairing the body's ability to regulate hormones effectively.
-
-- **Nutritional Deficiencies**:
-  - Lack of essential nutrients like vitamin A exacerbates inflammation and allergy symptoms.
-
-### 解決方法：
-
-1. **Vitamin A Supplementation**:
-   - High intake of vitamin A can help manage sinus allergies and reduce inflammation.
-   - Source: Cal shake (mentioned in the article).
-
-2. **Stress Management**:
-   - Implement techniques to reduce chronic stress, such as mindfulness, yoga, or adequate sleep.
-
-3. **Dietary Adjustments**:
-   - Increase intake of anti-inflammatory foods.
-   - Limit processed sugars and high-glycemic-index foods to stabilize blood sugar levels.
-
-4. **Lifestyle Modifications**:
-   - Regular physical activity to improve cortisol sensitivity.
-   - Ensure adequate rest and recovery to support adrenal function.
-
-### 健康建議：
-
-- **Monitor Cortisol Levels**: 
-  - Regular testing of salivary cortisol levels can help identify imbalances.
-  - Consult with a healthcare provider for personalized assessment.
-
-- **Address Nutritional Gaps**:
-  - Incorporate foods rich in vitamin A, such as carrots, spinach, and sweet potatoes, into the diet.
-  - Consider supplements if dietary intake is insufficient.
-
-- **Seek Professional Guidance**: 
-  - Work with a healthcare professional to develop a comprehensive treatment plan.
-  - This may include hormone replacement therapy or other targeted interventions.
-
-### 結論：
-
-- Cortisol imbalance due to chronic stress is a significant contributor to various chronic health conditions, including inflammation and fibromyalgia.
-- Addressing the root causes through nutrition, stress management, and lifestyle changes can help restore adrenal function and improve overall health.
+### 小節六：結論
+- Chronic stress significantly impacts adrenal function, leading to a cascade of health issues.
+- Proper management through lifestyle, diet, and supplementation can restore hormonal balance and overall health.
 </details>
 
 <details>
 <summary>28. [2010-08-10] Thyroid Body Type - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=T3eo4p2LuYw" target="_blank">
-    <img src="https://img.youtube.com/vi/T3eo4p2LuYw/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/T3eo4p2LuYw/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 小節整理
 
@@ -3571,9 +3456,9 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>27. [2010-08-10] Sleep, Cortisol, & Belly Fat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3GWnU_lma7w" target="_blank">
-    <img src="https://img.youtube.com/vi/3GWnU_lma7w/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/3GWnU_lma7w/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 英文版文章標題  
 **Sleep and Why People Can't Sleep: The Role of Stuck Energy and Natural Remedies**
@@ -3639,9 +3524,9 @@ Dr. Berg
 <summary>26. [2010-08-10] How to Trigger Your Fat Burning Hormones</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Gr5QxkSm9xs" target="_blank">
-    <img src="https://img.youtube.com/vi/Gr5QxkSm9xs/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/Gr5QxkSm9xs/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題：生長激素與arginine的作用及影響
 
@@ -3671,9 +3556,9 @@ Dr. Berg
 <summary>25. [2010-08-10] Vitamin D Adrenals Belly Fat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kJegLw2qtPc" target="_blank">
-    <img src="https://img.youtube.com/vi/kJegLw2qtPc/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/kJegLw2qtPc/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 小節一：核心主題  
 - 討論了維生素D缺乏與皮質醇（壓力荷爾蒙）之間的關聯。  
@@ -3714,9 +3599,9 @@ Dr. Berg
 <summary>24. [2010-08-05] Dr. Berg Talks about Body Types on News 9</summary><br>
 
 <a href="https://www.youtube.com/watch?v=bNnmCqGMy8Q" target="_blank">
-    <img src="https://img.youtube.com/vi/bNnmCqGMy8Q/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/bNnmCqGMy8Q/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理與分析
 
@@ -3765,9 +3650,9 @@ Dr. Berg
 <summary>23. [2010-08-05] How to Burn Fat I Dr. Berg on Fox and Friends I Talks About Body Types</summary><br>
 
 <a href="https://www.youtube.com/watch?v=M25xpZk5WtU" target="_blank">
-    <img src="https://img.youtube.com/vi/M25xpZk5WtU/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/M25xpZk5WtU/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章重點整理
 
@@ -3821,9 +3706,9 @@ Dr. Berg
 <summary>22. [2010-07-20] Success Story with Belly Fat Loss - Lost over 100 lbs</summary><br>
 
 <a href="https://www.youtube.com/watch?v=rC7cXuNlyR4" target="_blank">
-    <img src="https://img.youtube.com/vi/rC7cXuNlyR4/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/rC7cXuNlyR4/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心_theme  
 - **成功案例分析**：Susan 的.Weight loss 故事展示了從肥胖到健康生活的轉變。  
@@ -3857,9 +3742,9 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>21. [2010-07-13] Fast Healthy Weight Loss - Patients Speak Their Success!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=G3AFxauJeok" target="_blank">
-    <img src="https://img.youtube.com/vi/G3AFxauJeok/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/G3AFxauJeok/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 小結整理
 
@@ -3900,9 +3785,9 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>20. [2010-06-24] Rid Craving</summary><br>
 
 <a href="https://www.youtube.com/watch?v=E7yVINKxiew" target="_blank">
-    <img src="https://img.youtube.com/vi/E7yVINKxiew/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/E7yVINKxiew/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理：抗碳水化合物 cravings 的飲食計劃
 
@@ -3962,9 +3847,9 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>19. [2010-04-24] Body Type Video</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Lk1RlIHx7F0" target="_blank">
-    <img src="https://img.youtube.com/vi/Lk1RlIHx7F0/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/Lk1RlIHx7F0/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題
 - 人體有不同的形狀或身體類型，主要分為四種。
@@ -4013,9 +3898,9 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>18. [2009-07-30] Dr. Eric Berg's Review: Patient Speak About Her Success</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Fjqtjq4WRNg" target="_blank">
-    <img src="https://img.youtube.com/vi/Fjqtjq4WRNg/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/Fjqtjq4WRNg/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題
 - 受訪者因 bụng béo 至痛楚而尋求幫助。
@@ -4064,9 +3949,9 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>17. [2009-07-30] Dr Eric Berg's Review: No More Problems with Sleeping</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_xR5rYmSvc0" target="_blank">
-    <img src="https://img.youtube.com/vi/_xR5rYmSvc0/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/_xR5rYmSvc0/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章重點整理
 
@@ -4155,9 +4040,9 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>16. [2009-07-30] Dr. Berg's Example of Acupressure for Weight Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XefowjsRkDo" target="_blank">
-    <img src="https://img.youtube.com/vi/XefowjsRkDo/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/XefowjsRkDo/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題  
 1. 本文主要圍繞個人在身體和心理上的舒適感與健康狀況展開，強調音樂對情緒和身體機能的積極影響。  
@@ -4188,9 +4073,9 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>15. [2009-07-28] Dr. Eric Berg Review: Gaining Weight after Smoking</summary><br>
 
 <a href="https://www.youtube.com/watch?v=mLk7prs2IdM" target="_blank">
-    <img src="https://img.youtube.com/vi/mLk7prs2IdM/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/mLk7prs2IdM/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題  
 - 病人報告了一系列健康問題，包括睡眠障礙、過敏反應、膝蓋疼痛和體重增加。  
@@ -4236,9 +4121,9 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>14. Dr. Berg in the Media</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hvYEFh3em3Q" target="_blank">
-    <img src="https://img.youtube.com/vi/hvYEFh3em3Q/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/hvYEFh3em3Q/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 
 </details>
@@ -4247,9 +4132,9 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>13. [2009-04-04] Dr. Berg Speaks at the Federal Communication Commission</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_kuQPktErD4" target="_blank">
-    <img src="https://img.youtube.com/vi/_kuQPktErD4/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/_kuQPktErD4/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章重點整理
 
@@ -4316,9 +4201,9 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>12. [2009-04-01] Body Shape Seminar (Part 3)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=IquS1CMFYDA" target="_blank">
-    <img src="https://img.youtube.com/vi/IquS1CMFYDA/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/IquS1CMFYDA/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理：健康與減肥之道
 
@@ -4384,9 +4269,9 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>11. [2009-04-01] Body Shape Seminar (Part 2)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=LqYD6ScfV5Y" target="_blank">
-    <img src="https://img.youtube.com/vi/LqYD6ScfV5Y/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/LqYD6ScfV5Y/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ---
 
@@ -4449,9 +4334,9 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>10. [2009-04-01] Body Shape Seminar (Part 1)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=08KUhaJrejs" target="_blank">
-    <img src="https://img.youtube.com/vi/08KUhaJrejs/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/08KUhaJrejs/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章重點整理
 
@@ -4509,9 +4394,9 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>9. [2009-03-31] Dr.Eric Berg @ News Channel 8 (Behind The Scenes)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=49TxVYeq4m4" target="_blank">
-    <img src="https://img.youtube.com/vi/49TxVYeq4m4/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/49TxVYeq4m4/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題
 - **飲食與健康**：探討如何通過健康的飲食習慣來提升整體健康。
@@ -4557,9 +4442,9 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>8. [2009-03-21] Dr. Berg Talks about Healthy Weight Loss on News Channel 8</summary><br>
 
 <a href="https://www.youtube.com/watch?v=z_pRjz-0X7o" target="_blank">
-    <img src="https://img.youtube.com/vi/z_pRjz-0X7o/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/z_pRjz-0X7o/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理與結構化分析
 
@@ -4600,9 +4485,9 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>6. [2009-02-19] Understanding the Best Nutrients for Weight Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=nTOrG4w660c" target="_blank">
-    <img src="https://img.youtube.com/vi/nTOrG4w660c/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/nTOrG4w660c/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 小節整理：脂肪的功能與健康哲學
 
@@ -4639,9 +4524,9 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>5. [2009-02-19] Vitamins and Nutrients for Weight Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=McGFltMvSIo" target="_blank">
-    <img src="https://img.youtube.com/vi/McGFltMvSIo/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/McGFltMvSIo/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題
 - 調控卡路里攝取並非促進健康的有效方法。
@@ -4691,9 +4576,9 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>4. [2009-02-17] Adrenal, Stress and Your Sleep</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Q5wN32_3m4o" target="_blank">
-    <img src="https://img.youtube.com/vi/Q5wN32_3m4o/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/Q5wN32_3m4o/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題
 - **整體健康至上的減重理念**：強調通過改善健康狀況來促進減重，而非单纯追求卡路里攝取或燃燒。
@@ -4754,9 +4639,9 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>3. [2009-02-17] Exercise</summary><br>
 
 <a href="https://www.youtube.com/watch?v=lgyf5KoRfzE" target="_blank">
-    <img src="https://img.youtube.com/vi/lgyf5KoRfzE/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/lgyf5KoRfzE/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理與分析
 
@@ -4824,9 +4709,9 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>2. [2009-02-17] Body Types</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XO-iyh2Z_s8" target="_blank">
-    <img src="https://img.youtube.com/vi/XO-iyh2Z_s8/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/XO-iyh2Z_s8/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 一、核心主題：身體類型分類与健康关联
 
@@ -4885,9 +4770,9 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>1. [2008-12-19] Dr. Berg Works on Duane Clemons, Former NFL Player</summary><br>
 
 <a href="https://www.youtube.com/watch?v=LE8iCYYoXh4" target="_blank">
-    <img src="https://img.youtube.com/vi/LE8iCYYoXh4/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/LE8iCYYoXh4/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 小節整理：文章重點歸納
 

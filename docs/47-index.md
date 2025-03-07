@@ -2,9 +2,9 @@
 <summary>4788. [2025-03-05] DON'T IGNORE THIS IF YOU'RE OVER 50!!!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=bksYSwtJVM0" target="_blank">
-    <img src="https://img.youtube.com/vi/bksYSwtJVM0/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/bksYSwtJVM0/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ## 文章整理：cataracts 的防治與自然療法
 
@@ -51,9 +51,9 @@
 <summary>4787. [2025-03-04] 10,000 IU of Vitamin D: HUGE MISTAKE?!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Sn7T46fCjLE" target="_blank">
-    <img src="https://img.youtube.com/vi/Sn7T46fCjLE/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/Sn7T46fCjLE/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理：10,000 IU 维生素D3的每日摄入量是否合理？
 
@@ -115,9 +115,9 @@
 <summary>4786. [2025-03-02] 80% of Heart Attacks & Strokes Happen Because of THIS</summary><br>
 
 <a href="https://www.youtube.com/watch?v=zW8Cu4vcReY" target="_blank">
-    <img src="https://img.youtube.com/vi/zW8Cu4vcReY/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/zW8Cu4vcReY/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題  
 - 大部分的心臟病發作和中風並不是由動脈中的斑塊、膽固醇或鈣積累引起的，而是由於血栓的形成。
@@ -192,9 +192,9 @@
 <summary>4785. [2025-03-01] CRITICAL: Detoxify Your Brain from Microplastics</summary><br>
 
 <a href="https://www.youtube.com/watch?v=K1whvDMDogU" target="_blank">
-    <img src="https://img.youtube.com/vi/K1whvDMDogU/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/K1whvDMDogU/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章重點整理
 
@@ -249,9 +249,9 @@
 <summary>4784. [2025-02-26] STOP Nighttime Peeing Now: IT REALLY WORKS</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xEg9b3YPJj0" target="_blank">
-    <img src="https://img.youtube.com/vi/xEg9b3YPJj0/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/xEg9b3YPJj0/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題：夜間排尿问题的根源与解决方案
 
@@ -292,9 +292,9 @@
 <summary>4783. [2025-02-25] #1 Best Meal to Clean Out Your Arteries</summary><br>
 
 <a href="https://www.youtube.com/watch?v=23yNXtR-N1s" target="_blank">
-    <img src="https://img.youtube.com/vi/23yNXtR-N1s/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/23yNXtR-N1s/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理
 
@@ -352,9 +352,9 @@
 <summary>4782. [2025-02-23] Egg Prices Are NOT by Accident</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XyX98bnDaow" target="_blank">
-    <img src="https://img.youtube.com/vi/XyX98bnDaow/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/XyX98bnDaow/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理：禽流感 Gain-of-Function 研究及其影響
 
@@ -419,9 +419,9 @@
 <summary>4781. [2025-02-22] THIS HAS GOT TO STOP!!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=LEsPN-9ekiA" target="_blank">
-    <img src="https://img.youtube.com/vi/LEsPN-9ekiA/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/LEsPN-9ekiA/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章重點整理
 
@@ -488,9 +488,9 @@
 <summary>4780. [2025-02-19] End Dry Cough in 5 Minutes – Here’s How!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=u6xyOtp5sIE" target="_blank">
-    <img src="https://img.youtube.com/vi/u6xyOtp5sIE/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/u6xyOtp5sIE/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題  
 - 探讨快速缓解咳嗽的方法，尤其是针对干咳和有痰咳嗽的有效解决方案。
@@ -548,9 +548,9 @@
 <summary>4779. [2025-02-18] This Vitamin MISTAKE is Super Unhealthy!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=nm15-Tftb8E" target="_blank">
-    <img src="https://img.youtube.com/vi/nm15-Tftb8E/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/nm15-Tftb8E/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 小節歸納
 
@@ -611,9 +611,9 @@
 <summary>4778. [2025-02-16] #1 Deficiency Behind POOR EYESIGHT</summary><br>
 
 <a href="https://www.youtube.com/watch?v=oXhOK2880i8" target="_blank">
-    <img src="https://img.youtube.com/vi/oXhOK2880i8/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/oXhOK2880i8/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 小節歸納
 
@@ -663,9 +663,9 @@
 <summary>4777. [2025-02-15] The #1 Most Powerful Remedy in the World</summary><br>
 
 <a href="https://www.youtube.com/watch?v=L-B5RlVKd7s" target="_blank">
-    <img src="https://img.youtube.com/vi/L-B5RlVKd7s/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/L-B5RlVKd7s/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理：抗衰老飲食與烹飪示範
 
@@ -710,9 +710,9 @@
 <summary>4776. [2025-02-12] BETTER Than Ozempic! STOP Your Cravings</summary><br>
 
 <a href="https://www.youtube.com/watch?v=neabI31ofMc" target="_blank">
-    <img src="https://img.youtube.com/vi/neabI31ofMc/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/neabI31ofMc/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理：食欲抑制與健康管理
 
@@ -783,9 +783,9 @@
 <summary>4775. [2025-02-11] They Don't Want You to Know</summary><br>
 
 <a href="https://www.youtube.com/watch?v=yEzFQzm0H40" target="_blank">
-    <img src="https://img.youtube.com/vi/yEzFQzm0H40/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/yEzFQzm0H40/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題
 - **高血壓與動脈健康的關聯**  
@@ -849,9 +849,9 @@
 <summary>4774. [2025-02-09] The Microbe That Changes EVERYTHING</summary><br>
 
 <a href="https://www.youtube.com/watch?v=RCjQAQuWiYc" target="_blank">
-    <img src="https://img.youtube.com/vi/RCjQAQuWiYc/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/RCjQAQuWiYc/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題  
 - **益生菌研究**：聚焦於一種具有重要健康的微organisms，並探討其在維護腸道健康中的作用。  
@@ -886,9 +886,9 @@
 <summary>4773. [2025-02-08] Best Remedy for Hyperpigmentation</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KyRjO29yHBQ" target="_blank">
-    <img src="https://img.youtube.com/vi/KyRjO29yHBQ/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/KyRjO29yHBQ/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題：白癜風（Vitiligo）的治療與管理  
 白癜風是一種導致皮膚失去色素沉著的慢性疾病，影響多數患者的外貌和自信心。文章強調了白癜風的病因、診斷方法以及傳統治療方案的局限性，並介紹了基於光療和局部皮質類固醇的新型治療方法。
@@ -960,9 +960,9 @@
 <summary>4772. [2025-02-07] THIS Ruins Your Health!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=or7kKNlMlDY" target="_blank">
-    <img src="https://img.youtube.com/vi/or7kKNlMlDY/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/or7kKNlMlDY/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理：健康與生活方式的核心要素
 
@@ -1045,9 +1045,9 @@
 <summary>4771. [2025-02-05] Viral Health Tips You Need to STOP Now</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5HzMD8v8DFA" target="_blank">
-    <img src="https://img.youtube.com/vi/5HzMD8v8DFA/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/5HzMD8v8DFA/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 論文要點總結
 
@@ -1085,9 +1085,9 @@
 <summary>4770. [2025-02-04] You’ve Been Lied To...</summary><br>
 
 <a href="https://www.youtube.com/watch?v=pFVp4QY0FBk" target="_blank">
-    <img src="https://img.youtube.com/vi/pFVp4QY0FBk/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/pFVp4QY0FBk/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題
 - **營養與健康管理**：探討 питания（飲食）對健康的影響，特別是針對常見的健康建議中存在的误解和錯誤。
@@ -1162,9 +1162,9 @@
 <summary>4769. [2025-02-01] NEVER Cook with This Again</summary><br>
 
 <a href="https://www.youtube.com/watch?v=NOV5vIsjQhg" target="_blank">
-    <img src="https://img.youtube.com/vi/NOV5vIsjQhg/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/NOV5vIsjQhg/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章重點整理
 
@@ -1215,9 +1215,9 @@
 <summary>4768. [2025-01-31] The MOST Toxic Ingredients You Should NEVER Eat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=J9SjqPQL6WM" target="_blank">
-    <img src="https://img.youtube.com/vi/J9SjqPQL6WM/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/J9SjqPQL6WM/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題：工業化加工食品對健康的影響及解決方案
 
@@ -1274,9 +1274,9 @@
 <summary>4767. [2025-01-27] How to Remove Skin Tags and Warts Overnight</summary><br>
 
 <a href="https://www.youtube.com/watch?v=IlT081VhRLM" target="_blank">
-    <img src="https://img.youtube.com/vi/IlT081VhRLM/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/IlT081VhRLM/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理：如何去除皮膚標記和疣
 
@@ -1347,9 +1347,9 @@
 <summary>4766. [2025-01-26] The #1 Vitamin Depleting Food in the World</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Uw21AZN7Ulc" target="_blank">
-    <img src="https://img.youtube.com/vi/Uw21AZN7Ulc/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/Uw21AZN7Ulc/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 小節歸納
 
@@ -1385,9 +1385,9 @@
 <summary>4765. [2025-01-25] Why Are We Doing This to Our Kids?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_IfaR9ivpyE" target="_blank">
-    <img src="https://img.youtube.com/vi/_IfaR9ivpyE/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/_IfaR9ivpyE/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理與分析
 
@@ -1443,9 +1443,9 @@
 <summary>4764. [2025-01-24] Why Can't I Talk About This?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=BAwthZkuB10" target="_blank">
-    <img src="https://img.youtube.com/vi/BAwthZkuB10/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/BAwthZkuB10/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章總結與整理
 
@@ -1538,9 +1538,9 @@
 <summary>4763. [2025-01-20] The Earliest Warning Sign (DON'T IGNORE)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XHNOAvhkr5Q" target="_blank">
-    <img src="https://img.youtube.com/vi/XHNOAvhkr5Q/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/XHNOAvhkr5Q/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理：早期癡呆症的蛛絲馬跡與預防策略
 
@@ -1599,9 +1599,9 @@
 <summary>4762. [2025-01-19] Teeth Whitening at Home</summary><br>
 
 <a href="https://www.youtube.com/watch?v=S8kPjMd8akI" target="_blank">
-    <img src="https://img.youtube.com/vi/S8kPjMd8akI/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/S8kPjMd8akI/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章結構整理
 
@@ -1666,9 +1666,9 @@
 <summary>4761. [2025-01-18] The SILENT KILLER Nobody Talks About</summary><br>
 
 <a href="https://www.youtube.com/watch?v=IQC5mxxgEF4" target="_blank">
-    <img src="https://img.youtube.com/vi/IQC5mxxgEF4/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/IQC5mxxgEF4/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 小節歸納
 
@@ -1711,9 +1711,9 @@
 <summary>4760. [2025-01-17] Breakfast is a Lie</summary><br>
 
 <a href="https://www.youtube.com/watch?v=tqlMxfAECGg" target="_blank">
-    <img src="https://img.youtube.com/vi/tqlMxfAECGg/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/tqlMxfAECGg/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理重點
 
@@ -1772,9 +1772,9 @@
 <summary>4759. [2025-01-13] BEST Foods to Detox and Clean Out Your Liver</summary><br>
 
 <a href="https://www.youtube.com/watch?v=lo77w0bP4Qs" target="_blank">
-    <img src="https://img.youtube.com/vi/lo77w0bP4Qs/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/lo77w0bP4Qs/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章主旨與結構整理
 
@@ -1809,9 +1809,9 @@
 <summary>4758. [2025-01-12] Why is No One Doing This??? IT WORKS</summary><br>
 
 <a href="https://www.youtube.com/watch?v=zGRKrUPIpfU" target="_blank">
-    <img src="https://img.youtube.com/vi/zGRKrUPIpfU/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/zGRKrUPIpfU/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 篇章整理：文章重點歸納
 
@@ -1872,9 +1872,9 @@
 <summary>4757. [2025-01-11] Castor Oil for Your Face (Nature's Botox)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=rJDDb9EvKr8" target="_blank">
-    <img src="https://img.youtube.com/vi/rJDDb9EvKr8/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/rJDDb9EvKr8/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題：Castor Oil 的多功能性及其在美容和健康的應用
 
@@ -1925,9 +1925,9 @@
 <summary>4756. [2025-01-10] Growing MUSCLES over 50 Years of Age</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vWrzH4IBs-Q" target="_blank">
-    <img src="https://img.youtube.com/vi/vWrzH4IBs-Q/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/vWrzH4IBs-Q/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章重點整理：肌肉流失對長壽的影響及解決策略
 
@@ -2009,9 +2009,9 @@
 <summary>4755. [2025-01-06] 7 Foods to REVERSE Kidney Damage (Must Watch)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=knY-Foaeqlg" target="_blank">
-    <img src="https://img.youtube.com/vi/knY-Foaeqlg/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/knY-Foaeqlg/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題：腎臟健康管理與飲食策略  
 文章圍繞腎臟健康展開，強調通過飲食來預防和逆轉腎臟損傷，特別是針對腎臟疾病的常見原因、飲食建議以及生活方式的調整。
@@ -2076,9 +2076,9 @@
 <summary>4754. [2025-01-05] How to Tighten and Flatten Stomach with Just ONE EXERCISE</summary><br>
 
 <a href="https://www.youtube.com/watch?v=e8gl002hqik" target="_blank">
-    <img src="https://img.youtube.com/vi/e8gl002hqik/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/e8gl002hqik/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章重點整理
 
@@ -2145,9 +2145,9 @@
 <summary>4753. [2025-01-04] Best Remedies for INFLAMMATION (Autoimmune, Gut, and Arthritis) That You Never Considered</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Ixf0DFExhq0" target="_blank">
-    <img src="https://img.youtube.com/vi/Ixf0DFExhq0/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/Ixf0DFExhq0/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 小節整理
 
@@ -2200,9 +2200,9 @@
 <summary>4752. [2025-01-03] The #1 Most Dangerous Ingredient in the World</summary><br>
 
 <a href="https://www.youtube.com/watch?v=bZ7MLOc9k9c" target="_blank">
-    <img src="https://img.youtube.com/vi/bZ7MLOc9k9c/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/bZ7MLOc9k9c/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 小節化整理
 
@@ -2282,9 +2282,9 @@
 <summary>4751. [2024-12-30] INSTANT Plantar Fasciitis Fix</summary><br>
 
 <a href="https://www.youtube.com/watch?v=C_-7966jgAQ" target="_blank">
-    <img src="https://img.youtube.com/vi/C_-7966jgAQ/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/C_-7966jgAQ/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章重點整理
 
@@ -2372,9 +2372,9 @@
 <summary>4750. [2024-12-29] The #1 Anti-aging Hack</summary><br>
 
 <a href="https://www.youtube.com/watch?v=k_Mb7BIo6hA" target="_blank">
-    <img src="https://img.youtube.com/vi/k_Mb7BIo6hA/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/k_Mb7BIo6hA/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理與分析
 
@@ -2439,9 +2439,9 @@
 <summary>4749. [2024-12-28] The Battle of the Cabbages</summary><br>
 
 <a href="https://www.youtube.com/watch?v=1FPKsx2YlaY" target="_blank">
-    <img src="https://img.youtube.com/vi/1FPKsx2YlaY/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/1FPKsx2YlaY/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題  
 - 比較兩種流行發酵蔬菜：酸菜（Sauerkraut）與泡菜（Kimchi）的健康差異及其益處。
@@ -2483,9 +2483,9 @@
 <summary>4748. [2024-12-27] They Lied to Us</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3QePHCO8T8Q" target="_blank">
-    <img src="https://img.youtube.com/vi/3QePHCO8T8Q/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/3QePHCO8T8Q/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章重點整理
 
@@ -2555,9 +2555,9 @@
 <summary>4747. [2024-12-24] Some GOOD NEWS in North Carolina (Update)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=oZDTEWbsZd8" target="_blank">
-    <img src="https://img.youtube.com/vi/oZDTEWbsZd8/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/oZDTEWbsZd8/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題  
 本文圍繞美國北卡羅萊納州遭遇的重大災害及其後續救援行動展開，強調了籌款、志願者努力以及災後重建的重要性。文章通過個案分享和數據展示，凸顯了災民的困境及外部援助的必要性。
@@ -2591,9 +2591,9 @@
 <summary>4746. [2024-12-23] VITAMIN D IS DANGEROUS</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hrqr3IIoTOs" target="_blank">
-    <img src="https://img.youtube.com/vi/hrqr3IIoTOs/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/hrqr3IIoTOs/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 # Vitamin D Safety - Addressing Potential Risks and Mitigating Strategies
 
@@ -2660,9 +2660,9 @@
 <summary>4745. [2024-12-22] The BIG Magnesium Mistake</summary><br>
 
 <a href="https://www.youtube.com/watch?v=CUY90EaVgXg" target="_blank">
-    <img src="https://img.youtube.com/vi/CUY90EaVgXg/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/CUY90EaVgXg/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題  
 - **鎂（Magnesium）的重要性**：鎂是身體中最關鍵的矿物质之一，參與數百種生化反應，影響多個系統如心血管、神經與肌肉功能等。
@@ -2721,9 +2721,9 @@
 <summary>4744. [2024-12-21] What Would Happen If You Chewed ONE Clove Daily</summary><br>
 
 <a href="https://www.youtube.com/watch?v=GwxOavvgqA0" target="_blank">
-    <img src="https://img.youtube.com/vi/GwxOavvgqA0/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/GwxOavvgqA0/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理與分析
 
@@ -2815,9 +2815,9 @@
 <summary>4743. [2024-12-20] STOP Ignoring This!!!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=69eAWgXDGrs" target="_blank">
-    <img src="https://img.youtube.com/vi/69eAWgXDGrs/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/69eAWgXDGrs/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題
 - 高血糖及其相關症狀與影響
@@ -2900,9 +2900,9 @@
 <summary>4742. [2024-12-19] Why Your Vitamins Are Not Working</summary><br>
 
 <a href="https://www.youtube.com/watch?v=PYwWTn2MPYo" target="_blank">
-    <img src="https://img.youtube.com/vi/PYwWTn2MPYo/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/PYwWTn2MPYo/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 # 為什麼維生素可能不起作用：原因與解決方案
 
@@ -2985,9 +2985,9 @@
 <summary>4741. [2024-12-16] STOP Taking This Now</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DZB84A--178" target="_blank">
-    <img src="https://img.youtube.com/vi/DZB84A--178/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/DZB84A--178/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章重點整理
 
@@ -3044,9 +3044,9 @@
 <summary>4740. [2024-12-15] STOP Doing THIS for Low Back Pain</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fWFetC50qWc" target="_blank">
-    <img src="https://img.youtube.com/vi/fWFetC50qWc/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/fWFetC50qWc/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章重點整理
 
@@ -3095,9 +3095,9 @@
 <summary>4739. [2024-12-14] Why Do Most Indian Men Have Potbellies?!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Wo_9gjsFT9o" target="_blank">
-    <img src="https://img.youtube.com/vi/Wo_9gjsFT9o/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/Wo_9gjsFT9o/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章重點整理
 
@@ -3144,9 +3144,9 @@ This article discusses the importance of cultural sensitivity and personalized m
 <summary>4738. [2024-12-13] How to Get Thick and Shiny Hair</summary><br>
 
 <a href="https://www.youtube.com/watch?v=TBf7uK7Urb0" target="_blank">
-    <img src="https://img.youtube.com/vi/TBf7uK7Urb0/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/TBf7uK7Urb0/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理：頭髮健康的營養與環境影響
 
@@ -3203,9 +3203,9 @@ This article discusses the importance of cultural sensitivity and personalized m
 <summary>4737. [2024-12-09] Do NOT Make These Mistakes (Especially After 50)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=eJeTsPEiXRA" target="_blank">
-    <img src="https://img.youtube.com/vi/eJeTsPEiXRA/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/eJeTsPEiXRA/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理與分析
 
@@ -3295,9 +3295,9 @@ This article discusses the importance of cultural sensitivity and personalized m
 <summary>4736. [2024-12-08] The Benefit of Apple Cider Vinegar That NO ONE KNOWS</summary><br>
 
 <a href="https://www.youtube.com/watch?v=MzPw7UvAcio" target="_blank">
-    <img src="https://img.youtube.com/vi/MzPw7UvAcio/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/MzPw7UvAcio/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題
 - 苹果醋（Apple Cider Vinegar, ACV）的潛在健康益處，尤其是其對腸道微生物平衡的影響。
@@ -3366,9 +3366,9 @@ This article discusses the importance of cultural sensitivity and personalized m
 <summary>4735. [2024-12-07] This Has Gone Too Far!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ZGEWoPmvPJY" target="_blank">
-    <img src="https://img.youtube.com/vi/ZGEWoPmvPJY/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/ZGEWoPmvPJY/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 整理後的文章重點
 
@@ -3445,9 +3445,9 @@ This article discusses the importance of cultural sensitivity and personalized m
 <summary>4734. [2024-12-06] You Will Never Consume THIS Again After Watching This</summary><br>
 
 <a href="https://www.youtube.com/watch?v=pNKJvrUIAw0" target="_blank">
-    <img src="https://img.youtube.com/vi/pNKJvrUIAw0/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/pNKJvrUIAw0/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理：《Dark Calories》核心內容與建議
 
@@ -3505,9 +3505,9 @@ This article discusses the importance of cultural sensitivity and personalized m
 <summary>4733. [2024-12-02] The Forgotten Hormone</summary><br>
 
 <a href="https://www.youtube.com/watch?v=cMEDTX3JqOs" target="_blank">
-    <img src="https://img.youtube.com/vi/cMEDTX3JqOs/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/cMEDTX3JqOs/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題：男性中的孕激素（Progesterone）及其重要性
 
@@ -3575,9 +3575,9 @@ This article discusses the importance of cultural sensitivity and personalized m
 <summary>4732. [2024-12-01] My Vitamin D Levels SUCKED for Decades</summary><br>
 
 <a href="https://www.youtube.com/watch?v=y0Wj0kU4-KQ" target="_blank">
-    <img src="https://img.youtube.com/vi/y0Wj0kU4-KQ/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/y0Wj0kU4-KQ/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 小節整理：文章重點
 
@@ -3631,9 +3631,9 @@ This article discusses the importance of cultural sensitivity and personalized m
 <summary>4731. [2024-11-30] Regenerate Your Stem Cells</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xpU4JrUgqMw" target="_blank">
-    <img src="https://img.youtube.com/vi/xpU4JrUgqMw/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/xpU4JrUgqMw/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 # 文章整理：七種刺激幹細胞的方法
 
@@ -3681,9 +3681,9 @@ This article discusses the importance of cultural sensitivity and personalized m
 <summary>4730. [2024-11-29] Ashwagandha: The Adaptogen on Steroids</summary><br>
 
 <a href="https://www.youtube.com/watch?v=RycWZAkXUEo" target="_blank">
-    <img src="https://img.youtube.com/vi/RycWZAkXUEo/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/RycWZAkXUEo/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題：阿育吠陀草藥 - 阿什瓦甘tha（Ashwagandha）的功效與應用
 
@@ -3740,9 +3740,9 @@ This article discusses the importance of cultural sensitivity and personalized m
 <summary>4729. [2024-11-28] 7 Warning Signs of Parasites and How to Fight Back</summary><br>
 
 <a href="https://www.youtube.com/watch?v=6n32DVD3CiM" target="_blank">
-    <img src="https://img.youtube.com/vi/6n32DVD3CiM/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/6n32DVD3CiM/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 小節一：核心主題  
 - 文章主要探討寄生蟲感染的七個警告знаки以及其對人體健康的影響。  
@@ -3795,9 +3795,9 @@ This article discusses the importance of cultural sensitivity and personalized m
 <summary>4728. [2024-11-28] DEVASTATING!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=PwNXDrXjOY8" target="_blank">
-    <img src="https://img.youtube.com/vi/PwNXDrXjOY8/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/PwNXDrXjOY8/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 小結整理
 
@@ -3834,9 +3834,9 @@ This article discusses the importance of cultural sensitivity and personalized m
 <summary>4727. [2024-11-25] Eliminate Bloating: The Ultimate Solution by Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=LdR3gAzCdpU" target="_blank">
-    <img src="https://img.youtube.com/vi/LdR3gAzCdpU/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/LdR3gAzCdpU/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章重點整理
 
@@ -3891,9 +3891,9 @@ This article discusses the importance of cultural sensitivity and personalized m
 <summary>4726. [2024-11-24] The Fastest Way to Get Rid of Toenail Fungus</summary><br>
 
 <a href="https://www.youtube.com/watch?v=2MzNMBwzZv4" target="_blank">
-    <img src="https://img.youtube.com/vi/2MzNMBwzZv4/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/2MzNMBwzZv4/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理： toenail fungus 的治療與預防
 
@@ -3947,9 +3947,9 @@ This article discusses the importance of cultural sensitivity and personalized m
 <summary>4725. [2024-11-23] Here’s My 2 Cents: "Making America Healthy Again"</summary><br>
 
 <a href="https://www.youtube.com/watch?v=UtSvAyRs5OA" target="_blank">
-    <img src="https://img.youtube.com/vi/UtSvAyRs5OA/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/UtSvAyRs5OA/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理重點
 
@@ -4060,9 +4060,9 @@ This article discusses the importance of cultural sensitivity and personalized m
 <summary>4724. [2024-11-22] Use Your Feet As Warning Signs</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KGIX50eYaGU" target="_blank">
-    <img src="https://img.youtube.com/vi/KGIX50eYaGU/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/KGIX50eYaGU/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題：腳部作為身體健康的診斷窗口  
 文章強調腳部是反映整體健康狀況的重要指標，特別是早期疾病的跡象，例如糖尿病、循環問題和神經系統疾病。腳部的血液供應 poorest，使其成為檢測健康問題的理想窗口。
@@ -4140,9 +4140,9 @@ This article discusses the importance of cultural sensitivity and personalized m
 <summary>4723. [2024-11-18] How to Reverse Aging</summary><br>
 
 <a href="https://www.youtube.com/watch?v=7FA2nGFPbAM" target="_blank">
-    <img src="https://img.youtube.com/vi/7FA2nGFPbAM/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/7FA2nGFPbAM/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 總覽與核心主題  
 - 文章圍繞「延緩衰老」這一核心主題展開，強調通過營養、生活方式調整等多方面方法來改善皮膚老化和整體健康狀態。  
@@ -4216,9 +4216,9 @@ This article discusses the importance of cultural sensitivity and personalized m
 <summary>4722. [2024-11-17] The #1 Best Probiotic for Autoimmune Conditions</summary><br>
 
 <a href="https://www.youtube.com/watch?v=s0jIXMc3PS0" target="_blank">
-    <img src="https://img.youtube.com/vi/s0jIXMc3PS0/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/s0jIXMc3PS0/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章重點整理
 
@@ -4298,9 +4298,9 @@ This article discusses the importance of cultural sensitivity and personalized m
 <summary>4721. [2024-11-16] STOP OVERTHINKING 24/7</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ecu697VQopI" target="_blank">
-    <img src="https://img.youtube.com/vi/ecu697VQopI/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/ecu697VQopI/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理  
 此篇文章探討了思維與心理健康的關聯，特別是過度思考對精神狀態和身體激素的影響，並提出了營養不平衡作為導致這些問題的原因之一。文章進一步討論了藥物治療的副作用，並強調了补充維生素D和恢復腸道菌群平衡的重要性。
@@ -4371,9 +4371,9 @@ This article discusses the importance of cultural sensitivity and personalized m
 <summary>4720. [2024-11-15] These Vitamin D Mistakes Are Bad</summary><br>
 
 <a href="https://www.youtube.com/watch?v=gdJDzdJjXXM" target="_blank">
-    <img src="https://img.youtube.com/vi/gdJDzdJjXXM/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/gdJDzdJjXXM/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 小節整理：文章關於維生素D的常見錯誤與建議
 
@@ -4420,9 +4420,9 @@ This article discusses the importance of cultural sensitivity and personalized m
 <summary>4719. [2024-11-11] 7 Foods You Should Be Eating After You Reach the Age of 50</summary><br>
 
 <a href="https://www.youtube.com/watch?v=9VJxmAvQX9s" target="_blank">
-    <img src="https://img.youtube.com/vi/9VJxmAvQX9s/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/9VJxmAvQX9s/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理與分析
 
@@ -4487,9 +4487,9 @@ This article discusses the importance of cultural sensitivity and personalized m
 <summary>4718. [2024-11-10] Get Rid of Mucus Fast</summary><br>
 
 <a href="https://www.youtube.com/watch?v=l8vQk0_Wfck" target="_blank">
-    <img src="https://img.youtube.com/vi/l8vQk0_Wfck/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/l8vQk0_Wfck/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 小節歸納
 
@@ -4544,9 +4544,9 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
 <summary>4717. [2024-11-09] Cancer HATES This!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=x1SIEftYSvY" target="_blank">
-    <img src="https://img.youtube.com/vi/x1SIEftYSvY/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/x1SIEftYSvY/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理：维生素D与癌症的关系及应对策略
 
@@ -4610,9 +4610,9 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
 <summary>4716. [2024-11-08] How to Look Younger</summary><br>
 
 <a href="https://www.youtube.com/watch?v=MTpnF4V8stA" target="_blank">
-    <img src="https://img.youtube.com/vi/MTpnF4V8stA/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/MTpnF4V8stA/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理：如何延缓衰老，保持年轻外貌
 
@@ -4684,9 +4684,9 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
 <summary>4715. [2024-11-04] Worse than Sugar</summary><br>
 
 <a href="https://www.youtube.com/watch?v=H-tboAto7so" target="_blank">
-    <img src="https://img.youtube.com/vi/H-tboAto7so/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/H-tboAto7so/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章重點整理
 
@@ -4736,9 +4736,9 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
 <summary>4714. [2024-11-03] Why Is No One Talking About This...</summary><br>
 
 <a href="https://www.youtube.com/watch?v=dktvNq-vCvA" target="_blank">
-    <img src="https://img.youtube.com/vi/dktvNq-vCvA/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/dktvNq-vCvA/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題
 - 自身免疫疾病的发病率正在迅速上升，超越心血管疾病和癌症，成為全球主要健康問題。
@@ -4786,9 +4786,9 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
 <summary>4713. [2024-11-02] You've Been Lied to About This</summary><br>
 
 <a href="https://www.youtube.com/watch?v=NI5a45kmvr0" target="_blank">
-    <img src="https://img.youtube.com/vi/NI5a45kmvr0/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/NI5a45kmvr0/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 小節歸納
 
@@ -4840,9 +4840,9 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
 <summary>4712. [2024-11-01] The Greatest Overlooked Nutrient in Medicine</summary><br>
 
 <a href="https://www.youtube.com/watch?v=89jJ1JlNZlg" target="_blank">
-    <img src="https://img.youtube.com/vi/89jJ1JlNZlg/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/89jJ1JlNZlg/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題：維生素K2的重要性及其在人體健康中的作用
 
@@ -4910,9 +4910,9 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
 <summary>4711. [2024-10-28] The Supplements That ACTUALLY WORK</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KHTDAnsSO5k" target="_blank">
-    <img src="https://img.youtube.com/vi/KHTDAnsSO5k/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/KHTDAnsSO5k/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章總結：重要營養素與補充劑的功效及其應用
 
@@ -4955,9 +4955,9 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
 <summary>4710. [2024-10-27] I Was Shocked When I Learned About This</summary><br>
 
 <a href="https://www.youtube.com/watch?v=jhL1mN0uBFw" target="_blank">
-    <img src="https://img.youtube.com/vi/jhL1mN0uBFw/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/jhL1mN0uBFw/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理：Forever Chemicals 的影響與應對策略
 
@@ -5024,9 +5024,9 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
 <summary>4709. [2024-10-26] Vitamin B1 and SUGAR Experiment: WARNING</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xxdaLKfFD80" target="_blank">
-    <img src="https://img.youtube.com/vi/xxdaLKfFD80/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/xxdaLKfFD80/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章重點整理
 
@@ -5059,9 +5059,9 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
 <summary>4708. [2024-10-25] Gluten Free Exposed: The Shocking Reality</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XiMxWUF6k04" target="_blank">
-    <img src="https://img.youtube.com/vi/XiMxWUF6k04/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/XiMxWUF6k04/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章重點整理
 
@@ -5152,9 +5152,9 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
 <summary>4707. [2024-10-21] The #1 Superfood in the World</summary><br>
 
 <a href="https://www.youtube.com/watch?v=L8QqHBDxA94" target="_blank">
-    <img src="https://img.youtube.com/vi/L8QqHBDxA94/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/L8QqHBDxA94/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理：紅肉的營養價值與健康爭議
 
@@ -5226,9 +5226,9 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
 <summary>4706. [2024-10-20] The Most Neglected Nutrient By Doctors</summary><br>
 
 <a href="https://www.youtube.com/watch?v=p9LrMx1LmCw" target="_blank">
-    <img src="https://img.youtube.com/vi/p9LrMx1LmCw/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/p9LrMx1LmCw/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 小節整理： magnesium 在人體健康中的角色與重要性
 
@@ -5288,9 +5288,9 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
 <summary>4705. [2024-10-19] 21 Signs Your Body Needs Specific Nutrients</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8KgNWFyd01g" target="_blank">
-    <img src="https://img.youtube.com/vi/8KgNWFyd01g/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/8KgNWFyd01g/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理：營養缺乏與健康的關聯
 
@@ -5369,9 +5369,9 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
 <summary>4704. [2024-10-18] This Is CRAZY!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=bN3vjumXPLU" target="_blank">
-    <img src="https://img.youtube.com/vi/bN3vjumXPLU/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/bN3vjumXPLU/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理與歸納
 
@@ -5430,9 +5430,9 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
 <summary>4703. [2024-10-14] THIS Increases Heart Attack Risk over 2000%</summary><br>
 
 <a href="https://www.youtube.com/watch?v=18ZKgshcwi4" target="_blank">
-    <img src="https://img.youtube.com/vi/18ZKgshcwi4/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/18ZKgshcwi4/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章整理：壓力管理與健康
 
@@ -5488,9 +5488,9 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
 <summary>4702. [2024-10-13] The BEST Fibroid Shrinking Vitamin (based on science)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=NZI8qJjN2Qw" target="_blank">
-    <img src="https://img.youtube.com/vi/NZI8qJjN2Qw/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/NZI8qJjN2Qw/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 文章重點整理
 
@@ -5544,9 +5544,9 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
 <summary>4701. [2024-10-12] The #1 Ingredient That Makes You Fat (NOT SUGAR)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=4-llgWDKEkM" target="_blank">
-    <img src="https://img.youtube.com/vi/4-llgWDKEkM/maxresdefault.jpg" width="250"
-    alt="[Youtube]" onerror="this.style.display='none';">
+    <img src="https://img.youtube.com/vi/4-llgWDKEkM/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
+
 
 ### 核心主題
 - **.MSG（單 sodium 亮氨酸甲酯）的安全性與其對健康的影響**
