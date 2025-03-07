@@ -2308,113 +2308,565 @@ Cavities 作為全球性健康問題，其發生與微生物、飲食習慣和�
 </details>
 
 <details>
-<summary>2957. Best Herbs for Liver Cirrhosis</summary><br>
+<summary>2957. [2020-08-01] Best Herbs for Liver Cirrhosis</summary><br>
 
 <a href="https://www.youtube.com/watch?v=0p-yUAvZlSg" target="_blank">
     <img src="https://img.youtube.com/vi/0p-yUAvZlSg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：肝纤维化的自然療法
 
+### 主要觀念：
+- 肝纤维化是肝脏疾病发展的关键阶段，通常由慢性炎症引发。
+- 纤维化初期表现为肝脏细胞损伤和修复过程中形成瘢痕组织，最终可能发展为肝硬化。
+
+### 啓發原因：
+- 肝纤维化的成因多样，包括病毒感染（如乙型肝炎）、酒精滥用、药物毒性、代谢异常（如高果糖饮食、 refined carbohydrates）以及遗传因素（如铁过载）。
+- 病毒感染时，免疫系统的过度反应导致肝脏损伤，而非病毒本身直接破坏肝脏组织。
+
+### 啓發問題：
+- 患者可能出现疲劳、乏力、瘙痒等症状，严重时可发展为腹水、男性乳房发育、皮肤脆弱和声音变高等症状。
+- 肝纤维化可能导致门脉高压，进一步引发消化道出血和其他并发症。
+
+### 解決方法與健康建議：
+1. **中藥與植物療法**：
+   - **FHYZ組合（未明確具體藥物名稱）**：一種源自中國的中药组合，具有抗炎和減少肝纤维化副作用的效果。
+   - **熊去氧膽酸**：一種合成的 bile salts，促進膽汁流動，減緩肝硬化的進展。建議空腹服用，每日2次。
+
+2. **草本療法**：
+   - **黃連（Golden Thread, Copis）**：具有保肝和改善膽囊功能的作用，可降低肝硬化風險。
+   - **薑黃素（Curcumin）**：強效抗炎劑，降低發生肝纤维化的風險。
+
+3. **飲食與生活方式調整**：
+   - **酮egenic Diet & 间歇性禁食**：通過限制碳水化合物攝取和周期性斷食，促進自噬作用，幫助清除損傷蛋白質。這對於改善肝臟功能至關重要。
+   - 縮減高果糖飲料、精制碳水化合物以及酒精的攝入。
+
+### 結論：
+- 肝纤维化是可以通過自然療法和生活方式調整來有效控制的疾病。這些方法包括使用中藥、草本extracts以及飲食計劃，如酮egenic Diet 和禁食。早期干預可以顯著降低病情惡化的風險，並改善患者的生活質量。
+
+此整理結果以正式學術用語及條列格式，清晰地總結了原文的關鍵信息，並按實際內容分為若干小節，便於讀者理解和應用。
 </details>
 
 <details>
-<summary>2956. The Amazing Benefits of Berberine</summary><br>
+<summary>2956. [2020-07-31] The Amazing Benefits of Berberine</summary><br>
 
 <a href="https://www.youtube.com/watch?v=w_Su41RIJ78" target="_blank">
     <img src="https://img.youtube.com/vi/w_Su41RIJ78/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 重点整理
 
+#### 核心主题  
+- **Berberine**：一种植物次生代谢产物，具有多种生物活性，特别是在心血管系统、抗糖尿病、抗菌和抗癌等方面表现出显著效果。
+
+#### 主要观念  
+1. **心血管健康**：
+   - Berberine 具有抗心律失常作用，通过降低细胞内钙离子浓度来改善心脏节律。
+   - 它可以增强心肌收缩力、降低血压，并保护心肌免受缺血损伤。
+   - 调整钾离子通道，防止因低钾导致的心律不齐。
+
+2. **抗糖尿病**：
+   - Berberine 可以通过提高胰岛素敏感性和降低血糖水平来帮助管理糖尿病。
+   - 其效果可能与二甲双胍相当，但需进一步临床验证。
+
+3. **抗菌和免疫调节**：
+   - 作为天然抗生素，Berberine 对抗感染性腹泻有效。
+   - 可以刺激免疫系统，增强免疫力。
+
+4. **抗癌和抗肿瘤**：
+   - 多项研究表明 Berberine 具有显著的抗癌活性，特别是在抑制肿瘤生长和转移方面。
+
+5. **其他健康益处**：
+   - 抗炎作用：对关节炎、腱鞘炎等炎症性疾病有效。
+   - 抗病毒特性。
+   - 降低咖啡因引起的副作用。
+
+#### 健康建议  
+- 在使用 Berberine 作为补充剂之前，应咨询医生或专业医疗人员，尤其是正在服用其他药物或有潜在健康问题的患者。
+- 虽然研究显示其益处显著，但需注意剂量和长期使用的安全性。
+
+#### 结论  
+Berberine 是一种多用途的天然化合物，具有广泛的研究支持，尤其在心血管健康、糖尿病管理和抗癌方面表现突出。然而，其临床应用仍需更多的大规模研究和验证，以确保安全性和有效性。
 </details>
 
 <details>
-<summary>2955. Will Eating Less Slow Down Metabolism?</summary><br>
+<summary>2955. [2020-07-30] Will Eating Less Slow Down Metabolism?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ftijsgu6yb8" target="_blank">
     <img src="https://img.youtube.com/vi/ftijsgu6yb8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 影響代謝率的因素及其調節方法。
+- 經常聽到的飲食建議（如低碳水化合物、間歇性禁食）是否真的有效。
+- 解析胰島素抵抗在肥胖和 weight loss 中的作用。
+
+#### 主要觀念
+1. **低熱量飲食與代謝率**  
+   - 低熱量飲食本身不一定會降低代謝率，效果取決於飲食組成（如是否攝入碳水化合物）。
+   
+2. **胰島素抵抗**  
+   - 胰島素抵抗是導致代謝率降低的主要原因之一。  
+   - 高胰島素血症干擾脂肪分解，阻止 weight loss。
+
+3. **小餐頻食的迷思**  
+   - 傳統建議的「少量多餐」並非適合所有人，特別是在低熱量飲食的情況下。
+   
+4. **營養密度的重要性**  
+   - 高營養密度的飲食有助於維持良好的代謝功能。  
+   - 經常忽略營養的低碳水化合物飲食（如「骯髒酮osis」）可能導致營養缺乏，從而影響代謝。
+
+#### 問題原因
+- **高精製碳水化合物攝取**：長期攝入精製碳水化合物會誘發胰島素抵抗。
+- **過度頻繁進食**：經常進食（每3小時一次）可能擾亂胰島素水平，加重胰岛素 resistance。
+- **營養不均衡的低碳水化合物飲食**：缺乏關鍵營養素會影響代謝功能。
+
+#### 解決方法
+1. **間歇性禁食**  
+   - 禁食可以有效改善胰島素抵抗，恢復正常的代謝功能。
+
+2. **低碳水化合物飲食**  
+   - 控制碳水化合物攝取，避免精製 сахар и澱粉類食物。
+
+3. **高營養密度飲食**  
+   - 确保飲食中包含足夠的微量營養素和必需營養成分，防止營養缺乏。
+
+4. **定期監測胰島素水平**  
+   - 請醫師檢查胰島素水平，早期發現並處理胰岛素 resistance。
+
+#### 健康建議
+- 避免長期依賴低熱量飲食或低碳水化合物飲食而不注重營養均衡。
+- 選擇高營養密度的食物，如新鮮蔬菜、健康脂肪（如 avocado, nuts）和高蛋白質食物。
+- 練習間歇性禁食，並在禁食期間補充必要的微量營養素。
+
+#### 結論
+- 覺得自己代謝率降低的人應該評估飲食結構，特別是碳水化合物攝取量和進食頻率。  
+- 通過改善胰島素抵抗、控制碳水化合物攝取和增加營養密度，可以有效恢復正常的代謝功能。  
+- 適當的禁食方式結合均衡的飲食策略，是維持健康代謝率的有效方法。
 </details>
 
 <details>
-<summary>2954. Glucagon Triggers Ketosis, Insulin Blocks It</summary><br>
+<summary>2954. [2020-07-30] Glucagon Triggers Ketosis, Insulin Blocks It</summary><br>
 
 <a href="https://www.youtube.com/watch?v=p4fR2U4g0u0" target="_blank">
     <img src="https://img.youtube.com/vi/p4fR2U4g0u0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理：Glucagon的功能及其在代謝中的作用
 
+#### 1. 核心主題
+- ** glucagon 的功能**  
+  Glucagon 是一種與胰島素拮抗的激素，在血糖調節和脂肪燃燒中扮演重要角色。
+
+#### 2. 主要觀念
+- **Glucagon 的生理作用**
+  - 與胰島素相反，glucagon 能升高血糖水平。
+  - 促進肝臟和肌肉中儲存的糖原（glycogen）分解為葡萄糖，並促使脂肪轉化為酮体（ketones），從而進入酮osis狀態。
+
+- **Glucagon 的觸發條件**
+  - **蛋白質攝取**：蛋白質攝入會刺激胰島素和 glucagon 的分泌。
+  - **運動和壓力**：vigorous exercise 和心理壓力可促使 adrenal 腸分泌腎上腺素（adrenaline），從而激發 glucagon 分泌。
+  - **禁食狀態**：在空腹時，glucagon 活性增加，促進脂肪燃燒。
+
+- **GIP 的作用**
+  - Gastrointestinal Peptide (GIP) 是一種由攝食觸發的激素，可能與 glucagon 調節有關，具體機制尚待進一步研究。
+
+#### 3. 問題原因
+- **胰島素過多的影響**  
+  高胰島素emia 狀態會抑制 glucagon 的作用，阻礙酮osis，並增加脂肪儲存，導致血糖過低（hypoglycemia）和代謝失衡。
+
+#### 4. 解决方法
+- **平衡激素分泌**
+  - 控制碳水化合物攝取，避免胰島素過度分泌。
+  - 通過適量蛋白質攝取來刺激 glucagon 分泌，以平衡胰島素的作用。
+  - 管理壓力和運動以激發有益的腎上腺素反應，促進 glucagon 活性。
+
+#### 5. 健康建議
+- **飲食調整**
+  - 選擇低碳水化合物、高蛋白質的飲食模式（如酮osis diet）來支持 glucagon 分泌。
+  - 減少精製糖和高GI食物攝取，避免血糖波動。
+
+- **生活方式改進**
+  - 定期進行中等強度運動以激發 glucagon 和脂肪燃燒。
+  - 管理壓力，避免慢性應激導致的皮質醇失衡。
+
+#### 6. 結論
+Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其與胰島素的拮抗作用，對於制定有效的飲食和生活方式策略以促進健康和酮osis狀態至關重要。
 </details>
 
 <details>
-<summary>2953. Do You Need Fat to Stay in Ketosis?</summary><br>
+<summary>2953. [2020-07-29] Do You Need Fat to Stay in Ketosis?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ql_OUUnzWg4" target="_blank">
     <img src="https://img.youtube.com/vi/ql_OUUnzWg4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 探讨在酮饮食（Ketogenic Diet）中脂肪摄入的重要性及其对维持酮症状态的影响。
 
+---
+
+### 主要觀念  
+1. **酮飲食的基本原理**：  
+   - 酮飲食通过降低碳水化合物攝取，迫使身體利用脂肪作為主要能量來源，從而生成酮體。  
+
+2. **脂肪在酮飲食中的角色**：  
+   - 膫肪不僅提供必需脂肪酸，還幫助穩定血糖水平和增加飽腹感。  
+
+3. **初學者需要注意的問題**：  
+   - 在酮飲食初期，若脂肪攝取不足，可能會導致 hunger、血糖波動及酮症不易維持。  
+
+4. **達到目標 weight 后的挑戰**：  
+   - 當达到 desired weight 且不再希望進一步減重時，需適當增加脂肪攝取以保持 weight 平衡。  
+
+5. **營養均衡的重要性**：  
+   - 脫脂性維生素（如维生素A、D、E、K）及必需脂肪酸（如DHA、EPA）的攝取不足可能導致健康問題，需通過合理飲食補充。  
+
+---
+
+### 問題原因  
+1. **初學者常見問題**：  
+   - 體脂或膳食脂肪不足導致 hunger 和暴飲暴食。  
+
+2. **達到 weight 目標后的挑戰**：  
+   - 若脂肪攝取不夠，身體可能繼續消耗自身 fat，導致進一步減重。  
+
+3. **營養失衡的風險**：  
+   - 選擇錯誤的脂肪來源（如低脂蛋白質食物）或忽略必需脂肪酸和維生素，可能导致健康問題。  
+
+---
+
+### 解決方法  
+1. **初學者建議**：  
+   - 確保每餐含有足夠的膳食脂肪以增加飽腹感並穩定血糖水平。  
+
+2. **達到 weight 目標后的調整**：  
+   - 適當增加脂肪攝取，以維持 current weight 并防止進一步減重。  
+
+3. **營養均衡建議**：  
+   - 選擇富含必需脂肪酸的食物（如三文魚、沙丁魚等），並確保足夠的脂溶性維生素攝取。  
+
+4. **避免劣質脂肪來源**：  
+   - 遠離低脂高蛋白食物（如大豆蛋白 isolate），因其可能對肝腎造成負擔。  
+
+---
+
+### 健康建議  
+1. **合理規劃膳食結構**：  
+   - 确保酮飲食中蛋白質和脂肪的比例適當，避免過度依賴低碳水化合物食品。  
+
+2. **選擇優質脂肪來源**：  
+   - 食用富含 omega-3 的海鮮（如三文魚、沙丁魚）以補充必需脂肪酸。  
+
+3. **定期監測健康指標**：  
+   - 確保酮症状态穩定，並避免因脂肪攝取不足導致的營養失衡。  
+
+---
+
+### 結論  
+- 脫脂或低脂飲食在酮飲食中是不可取的，脂肪攝取對於維持酮症、飽腹感及整體健康至關重要。  
+- 要根據個人情況調整脂肪攝取量，並注重營養均衡以避免健康問題。
 </details>
 
 <details>
-<summary>2952. Best Foods for Gallstones</summary><br>
+<summary>2952. [2020-07-29] Best Foods for Gallstones</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xzTp-FVPl7o" target="_blank">
     <img src="https://img.youtube.com/vi/xzTp-FVPl7o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Introduction  
+- Gallstones are formed due to supersaturated cholesterol in bile, combined with low bile salt levels or concentrated cholesterol.  
 
+---
+
+### Causes of Gallstone Formation  
+1. **Cholesterol Supersaturation**: Elevated cholesterol levels alone do not guarantee gallstone formation; it requires specific conditions such as bile deficiency.  
+2. **Low Bile Salts**: Insufficient bile salts in the bile can lead to cholesterol crystallization, forming stones.  
+3. **Bile Composition Imbalance**: An imbalance between cholesterol and bile salts is critical for stone formation.  
+
+---
+
+### Prevention and Management of Gallstones  
+1. **Increasing Bile Production**:  
+   - Primary bile salts are synthesized by the liver, while secondary bile salts are produced by gut microbiota.  
+   - A healthy liver and a balanced gut microbiome are essential for optimal bile production.  
+
+2. **Dietary and Supplement Interventions**:  
+   - **Choline Supplementation**: Found in grass-fed butter, choline helps reduce gallstone risk.  
+   - **Omega-3 Fatty Acids**: These can help lower the risk of gallstones by improving bile composition.  
+   - **Bile Salts**: Medical-grade purified bile salts are used to dissolve existing stones.  
+
+3. **Role of Diet in Bile Health**:  
+   - **High-Fat Diets**: Adequate fat intake, especially from grass-fed butter, stimulates liver bile production.  
+   - **Low-Fat Diets**: Increase the risk of gallstones due to insufficient bile stimulation.  
+
+4. **Lifestyle and Metabolic Factors**:  
+   - High cortisol levels (stress) and elevated insulin levels (from high carbohydrate intake) increase gallstone risk.  
+   - Estrogen therapy or pregnancy can also elevate gallstone incidence.  
+
+---
+
+### Health Recommendations for Gallbladder Health  
+1. **Dietary Adjustments**:  
+   - Consume bitter vegetables like artichokes, okra, and beet tops to stimulate bile production.  
+   - Incorporate cruciferous vegetables (e.g., dandelion greens) for liver support.  
+   - Use apple cider vinegar to aid digestion and bile release.  
+
+2. **Supplements**:  
+   - Choline-rich foods or supplements (e.g., grass-fed butter).  
+   - Omega-3 fatty acids for reducing inflammation and improving bile health.  
+   - Purified bile salts under medical supervision for stone dissolution.  
+
+3. **Avoid Harmful Substances**:  
+   - Eliminate vegetable oils (corn, soy, canola) that promote liver inflammation and insulin resistance.  
+   - Reduce intake of high-protein powders, especially low-fat soy isolates, which strain the liver.  
+
+4. **Lifestyle Modifications**:  
+   - Manage stress to lower cortisol levels.  
+   - Adopt a ketogenic diet or intermittent fasting to reduce insulin levels.  
+   - Avoid excessive carbohydrate intake and frequent meals to minimize metabolic risks.  
+
+---
+
+### Conclusion  
+Gallstone formation is influenced by bile composition, cholesterol saturation, and metabolic factors. A balanced diet rich in choline, omega-3 fatty acids, and bitter vegetables can help prevent gallstones. Additionally, avoiding harmful fats, managing stress, and adopting a low-carbohydrate lifestyle are crucial for maintaining gallbladder health. Regular medical consultation is recommended for those with existing gallstone conditions.
 </details>
 
 <details>
-<summary>2951. Stress Destroys the Ability to Experience Pleasure</summary><br>
+<summary>2951. [2020-07-28] Stress Destroys the Ability to Experience Pleasure</summary><br>
 
 <a href="https://www.youtube.com/watch?v=9xSeNioMQkY" target="_blank">
     <img src="https://img.youtube.com/vi/9xSeNioMQkY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題: 慢性壓力對快樂感受的影響及其應對策略
 
+慢性的壓力會破壞體驗 pleasure 的能力，長時間的情況下，身體的激素平衡被打破，導致快樂感降低、動機減弱以及警覺性降低。文章強調了壓力與快樂之間的相互作用，並提供了多項實用建議來改善這一狀況。
+
+---
+
+### 主要觀念: 压力對激素水平的影響
+
+1. **短期壓力**:  
+   - 短期壓力會導致皮質醇（cortisol）激增，但 dopamin 的分泌也會短暫增加。
+   - Dopamine 與快樂感相關，在此情況下可以作為應對壓力的保護機制。
+
+2. **慢性壓力**:  
+   - 長時間的壓力會持續刺激 dopamin 分泌，導致 dopamine 受體降調（downregulation），降低了其作用效果。
+   - 這與長期攝取糖分、某些藥物或高皮質醇水平的情況相似，都會降低體驗快樂的能力。
+
+---
+
+### 問題原因: 長期壓力及不良 habit 的影響
+
+- **長期壓力**:  
+  - 高水平的皮質醇會擾亂激素平衡，削弱 dopamin 的作用。
+  - 导致動機減弱、警覺性下降以及快樂感降低。
+
+- **不良habit**:  
+  - 慢性攝取糖分、某些藥物或長期暴露於壓力環境也會引發類似問題。
+
+---
+
+### 健康建議: 改善壓力和激素平衡的方法
+
+1. **增加睡眠**  
+   - 睡眠是 counteract 紧張的重要方式，缺乏睡眠會使皮質醇水平居高不下。
+   - 如果無法整夜睡眠，可以考慮白天小睡來補充。
+
+2. **降低恐懼與壓力源**  
+   - 最重要的一點是減少接觸新聞等可能引發額外壓力的內容。
+   - 試驗表明，停止觀看新聞兩周即可明顯改善激素水平和整體感受。
+
+3. **增加運動和自然暴露**  
+   - 運動可以提高氧氣攝取量，降低壓力水平。
+   - 多到戶外散步或遠足，接觸大自然是有效的療癒方式。
+
+4. ** isolation 素源的壓力**  
+   - 找出生活中最主要的壓力來源，並努力消除或減輕它。
+   - 如果無法完全消除壓力，可以先處理其中一部分問題，逐步改善整體情況。
+
+---
+
+### 结論: 压力管理的重要性與可實現性
+
+文章強調了管理慢性壓力的必要性，並提供了具體且可行的建議。通過增加睡眠、降低外界壓力源、規律運動和自然療法，可以有效恢復激素平衡，提升快樂感和整體健康水平。特別是停止接觸負面信息（如新聞）被視為簡單而有效的第一步。
 </details>
 
 <details>
-<summary>2950. Zinc Deficiency and Your Liver Problems – Symptoms of Zinc Deficiency – Dr.Berg</summary><br>
+<summary>2950. [2020-07-28] Zinc Deficiency and Your Liver Problems – Symptoms of Zinc Deficiency – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=yo7IP3WpX6w" target="_blank">
     <img src="https://img.youtube.com/vi/yo7IP3WpX6w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：鋅與肝臟健康的關係
 
+#### 主要觀念：
+1. 鋅是對肝臟健康最重要的礦物質之一。
+2. 鋅缺乏症的症狀與肝臟功能障礙（如炎症或疤痕組織形成）相似。
+3. 肝臟問題可能導致鋅吸收不良，而鋅缺乏也可能加重肝臟損傷。
+
+#### 問題原因：
+1. **鋅缺乏的原因**：
+   - 飲食中攝取不足。
+   - 糖分攝取過多（糖分會耗竭鋅）。
+   - 全穀物中的植酸鹽干擾鋅的吸收。
+2. **肝臟問題導致的影響**：
+   - 肝臟功能受損可能無法有效排毒，間接影響鋅水平。
+   - 高雌激素水平（因肝臟無法清除 excess estrogen）可能降低 testosterone。
+
+#### 症狀重疊：
+1. 鋅缺乏症常見症狀：
+   - 食欲減退。
+   - 白髮或體毛減少。
+   - 味覺和嗅覺異常。
+   - 生殖功能受損（如睾丸萎縮）。
+   - 免疫力下降。
+   - 解毒能力降低。
+   - 腹水（導致腹部膨脹）。
+2. 肝臟問題的症狀：
+   - 類似上述症狀，尤其是肝硬化或肝炎患者。
+
+#### 解決方法與健康建議：
+1. **增加鋅攝取**：
+   - 飲食來源：海鮮、牛肉、豬肉、羊肉、蛋類、種子和堅果。
+   - 注意避免抑制鋌吸收的食物（如全穀物和糖分）。
+2. **肝臟健康保護**：
+   - 確保飲食中富含鋅，以支持肝臟功能。
+   - 減少糖分攝取，以防止鋅耗竭。
+3. **營養建議**：
+   - 選擇無穀物、低碳水化合物的飲食（如生酮飲食）來優化肝臟健康。
+   - 通過均衡飲食補充足夠的鋅。
+
+#### 結論：
+1. 鋅在肝臟健康中扮演關鍵角色，其缺乏可能與肝臟功能障礙相互影響。
+2. 改善鋅營養狀況不僅可緩解相關症狀，還能預防和保護肝臟免受進一步損害。
+3. 採取富含鋅的飲食並避免干擾鋌吸收的因素，是維持肝臟健康的重要策略。
 </details>
 
 <details>
-<summary>2949. The Best Tips for a Heavy Period (Menstrual Cycle) – Painful Periods – Dr.Berg</summary><br>
+<summary>2949. [2020-07-27] The Best Tips for a Heavy Period (Menstrual Cycle) – Painful Periods – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=264p12zm8X0" target="_blank">
     <img src="https://img.youtube.com/vi/264p12zm8X0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- ** estrogen dominance 的影響及其相關症狀（如月經不調、Heavy Periods 等）。  
+- ** 提供針對 estrogen dominance 的自然療法和健康建議。  
 
+---
+
+### 主要觀念  
+1. **Estrogen Dominance 的定義**：指體內雌激素水平過高，導致荷爾蒙失衡的情況。  
+2. **常見原因**：包括口服避孕藥、攝取大量大豆異黃酮（ Soy isoflavones）、環境中的外來性雌激素等。  
+
+---
+
+### 啟發的原因  
+- 觀看者在 YouTube 討論區提問，希望了解如何應對月經流量過大的問題。  
+
+---
+
+### 啟發的原因  
+- 觀看者在 YouTube 討論區提問，希望了解如何應對月經流量過大的問題。  
+
+---
+
+### 解決方法與健康建議  
+1. **避免乳制品**： Dairy products 可能會增加體內雌激素水平。  
+2. **攝取 Brassica family（十字花科蔬菜）或其濃縮產品 DIM（Diindolylmethane）**：這些蔬菜具有抗雌激素作用，有助於平衡體內雌激素水平。  
+3. **使用 Calcium D-Glucarate**：此補充劑可幫助肝臟排毒，促進分解 excess estrogen 的酶活性，降低雌激素 dominance。  
+4. **諮詢醫生或尋找 Standard Process 產品 Ovex**：Ovex 被描述為能有效應對 Heavy Periods，並支持卵巢健康。建議在月經期間每天服用六粒，平時可能只需一粒即可。  
+
+---
+
+### 結論  
+- 雖然這些方法和補充劑可以幫助平衡荷爾蒙並改善月經問題，但建議在使用前諮詢專業醫療人員以確保安全性與適用性。
 </details>
 
 <details>
-<summary>2948. The Best Remedy for Cardiac Arrhythmias</summary><br>
+<summary>2948. [2020-07-27] The Best Remedy for Cardiac Arrhythmias</summary><br>
 
 <a href="https://www.youtube.com/watch?v=dcrQFs4wVOo" target="_blank">
     <img src="https://img.youtube.com/vi/dcrQFs4wVOo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題  
+- 談論心律不整（ cardiac arrhythmias ）的最佳療法，包括從輕微的心悸到房顚的治療方法。  
+
+#### 主要觀念  
+1. **心律不整的原因**：  
+   - 銹血和血栓形成問題，導致中風風險增加。  
+   - 電子信號干擾或神經肌肉問題。  
+
+2. **傳統治療方法**：  
+   - 使用β受體阻斷劑、鈣通道阻滞劑或地高辛（ digitalis ）。  
+
+3. **心律不整的病理機制**：  
+   - 銹過量或不足會影響心臟細胞功能。  
+   - 鈣離子信號失衡是心律不整的核心問題之一。  
+
+4. **礦物質缺乏與心律不整的關聯**：  
+   - 鈣、鎂和assium 的不平衡會干擾心臟電活動。  
+
+#### 問題原因  
+- 銹離子信號失衡導致心臟肌肉收縮異常。  
+- 經常見於缺鎂或缺钾的情況。  
+- 生活習慣（如飲酒、壓力、飲食）和環境因素（如EMF）會加重病情。  
+
+#### 解決方法  
+1. **礦物質補充**：  
+   - 長期攝取富含鎂和钾的食物，以平衡鈣離子。  
+
+2. **D-核糖的使用**：  
+   - D-核糖是一種信號分子，可改善心臟肌肉生理功能。  
+   - 推荐劑量為5克，每日2-3次。  
+
+3. **生活方式調整**：  
+   - 避免飲酒和攝取高糖高精制碳水化合物的食物。  
+   - 減輕壓力、減少咖啡因攝入、遠離電子產品的EMF干擾。  
+
+#### 健康建議  
+1. 在使用任何補充劑或改變飲食之前，諮詢醫生。  
+2. 減少咖啡因和酒精攝取，以降低心律不整風險。  
+3. 保持均衡飲食，增加蔬菜攝取量，以獲取必要的礦物質。  
+4. 遊離電子產品的使用，避免長時間暴露在EMF中。  
+
+#### 結論  
+- D-核糖和矿物质補充可有效緩解心律不整症狀。  
+- 生活方式的調整是預防和治療心律不整的重要部分。  
+
+---
+
+### 具體行動建議  
+1. **開始補充D-核糖**：  
+   - 計劃每日攝取5克D-核糖，分2-3次服用，並密切觀察症狀是否有改善。  
+
+2. **調整飲食習慣**：  
+   - 增加蔬菜攝取量，確保每日至少食用3杯蔬菜以補充礦物質。  
+
+3. **限制咖啡因和酒精攝取**：  
+   - 減少含咖啡因的飲料攝取，並避免過量飲酒。  
+
+4. **改善生活環境**：  
+   - 使用防護裝置（如屏蔽套件）來降低電子產品的EMF干擾。
 </details>
 
 <details>
