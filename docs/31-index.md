@@ -4261,113 +4261,672 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
 </details>
 
 <details>
-<summary>3121. How to Cook Eggs for Maximum Antioxidant Nutrients</summary><br>
+<summary>3121. [2020-10-29] How to Cook Eggs for Maximum Antioxidant Nutrients</summary><br>
 
 <a href="https://www.youtube.com/watch?v=b7W6Q1xStwQ" target="_blank">
     <img src="https://img.youtube.com/vi/b7W6Q1xStwQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 探讨如何通过饮食最大化吸收蛋黄中的类胡萝卜素（lutein和zeaxanthin）以提升营养价值。
+- 强调这些化合物对眼睛健康的重要作用。
+
+#### 主要觀念
+1. **類胡蘿蔔素的特性與來源**
+   - Lutein和zeaxanthin是具有独特健康益處的類胡蘿蔔素，主要累積在蛋黃、蔬菜（如菠菜、羽衣甘蓝）、水果（如番薯、芒果）以及一些海產品中。
+   - 這兩種化合物對眼睛健康特別重要，主要集中在視網膜的.macula（黃斑部）和水晶體。
+
+2. **健康益處**
+   - **抗氧化與抗炎作用**：這兩種類胡蘿蔔素是強大的抗氧化劑，可以中和自由基，減少氧化應激，並具有抗炎特性。
+   - **保護眼睛健康**：
+     - 減少 возраст-злочинна макулярна дегенерація (AMD) 的風險。
+     - 减輕白内障的發生與進展。
+
+3. **光譜保護作用**
+   - Lutein和zeaxanthin能有效吸收藍光，保護眼睛免受有害光線的傷害，特別是在使用電子產品時。
+
+#### 問題原因
+- 现代飲食中過度攝取omega-6脂肪酸（來源於 vegetable oils, soy, corn oil, canola oil 和 cottonseed oil），導致炎症反應增加。
+- 高溫烹調蛋黃會破壞其營養價值，特別是敏感的類胡蘿蔔素。
+
+#### 解決方法
+1. **飲食建議**
+   - 增加攝取富含lutein和zeaxanthin的食物： pasture-raised organic鸡蛋、深綠色蔬菜、水果和某些海產品。
+   - 減少omega-6脂肪酸的攝取，避免使用 inflammatory vegetable oils。
+
+2. **烹調方法**
+   - 對蛋黃進行溫和烹調（如水煮、煎蛋保持蛋黃液態），以保留其營養價值。
+   - 避免高溫烹調（如油炸或長時間烘焙）。
+
+3. **食用建議**
+   - 建議避免生食蛋清，因可能影響其他營養素的吸收（如biotin）。
+   - 推薦食用 pasture-raised organic 鸡蛋以確保最佳營養品質。
+
+#### 健康建議
+- 確保飲食多樣化，攝取足夠的抗氧化劑和抗炎食物。
+- 減少使用 inflammatory oils，改用更健康的油脂來源（如橄欖油、花生油）。
+- 定期進行眼睛檢查，特別是老年人群，以早期發現並管理與年齡相關的眼疾。
+
+#### 結論
+- 通過合理的飲食結構和烹調方式，可以有效提升蛋黃中lutein和zeaxanthin的吸收率，從而降低眼部疾病的風險。
+- 避免炎症性食物和過度烹調是保護眼睛健康的重要措施。
 </details>
 
 <details>
-<summary>3120. Headaches on Keto? Do This...</summary><br>
+<summary>3120. [2020-10-29] Headaches on Keto? Do This...</summary><br>
 
 <a href="https://www.youtube.com/watch?v=QXAtIQI84hI" target="_blank">
     <img src="https://img.youtube.com/vi/QXAtIQI84hI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 头痛在生酮饮食（Keto）中的常见问题及其潜在原因。
+
+#### 主要觀念
+1. **神经与消化系统的关系**：
+   - 胸膈神经（Phrenic Nerve）与头痛的关联。
+   - 胆囊压力对右侧面神经的影响。
+
+2. **生酮饮食对胆汁分泌的影响**：
+   - 高脂肪摄入增加胆汁需求，可能导致胆汁不足。
+   - 突然增加高脂肪食物可能引发胆囊 congestion 和 bloating。
+
+3. **氧化物的潜在影响**：
+   - 常见生酮食材中的草酸盐（Oxalates）对肾脏、关节和胆道的刺激作用。
+
+4. **坚果与omega-6脂肪酸的影响**：
+   - 高摄入 omega-6 脂肪酸可能加重肝脏负担，影响 bile ducts 功能。
+
+5. **糖醇的消化问题**：
+   - 过量使用糖醇（如木糖醇、赤藓糖醇）可能导致消化不良和 bloating。
+
+6. **“脏酮”饮食的健康风险**：
+   - 低质量食品选择对消化系统的影响，包括快餐中的化学物质。
+
+#### 問題原因
+1. **胆囊压力**：
+   - 胆汁分泌不足导致脂肪消化困难，引发胆囊 congestion。
+   - 高脂肪摄入（如 MCT 油、黄油等）加重胆囊负担。
+
+2. **草酸盐积累**：
+   - 常见生酮食材（如菠菜、杏仁、可可粉）中的高草酸盐含量刺激肾脏和胆道。
+
+3. **omega-6 脂肪酸过量**：
+   - 高坚果摄入增加肝脏负担，影响 bile ducts 功能。
+
+4. **糖醇滥用**：
+   - 过量使用糖醇引发消化不良和肠道 congestion。
+
+5. **低质量食品选择**：
+   - 快餐中的化学物质和缺乏蔬菜导致肝脏负担加重。
+
+#### 解決方法
+1. **调整脂肪摄入**：
+   - 逐步增加脂肪摄入，避免突然过载。
+   - 使用胆盐补充剂辅助消化。
+
+2. **减少草酸盐摄入**：
+   - 减少或避免高草酸食材（如菠菜、杏仁、巧克力）的摄入。
+
+3. **控制坚果和 omega-6 脂肪酸摄入量**：
+   - 适量食用坚果，避免过量。
+
+4. **限制糖醇使用**：
+   - 小剂量使用糖醇，注意消化反应。
+
+5. **选择高质量生酮食品**：
+   - 增加蔬菜摄入，减少快餐和加工食品。
+
+#### 健康建議
+1. **逐步过渡至生酮饮食**：
+   - 逐渐增加脂肪摄入，避免快速调整引发消化问题。
+
+2. **监测草酸盐摄入**：
+   - 替换低草酸食材（如羽衣甘蓝、西兰花）以减少刺激。
+
+3. **适量使用坚果和糖醇**：
+   - 控制坚果的食用量，避免过量 omega-6 脂肪酸。
+   - 小剂量使用糖醇，并注意身体反应。
+
+4. **均衡饮食与肝脏保护**：
+   - 增加蔬菜摄入，确保肝脏健康。
+   - 避免快餐和加工食品中的有害化学物质。
+
+#### 結論
+头痛在生酮饮食中可能由多种因素引起，包括胆囊压力、草酸盐积累、omega-6 脂肪酸过量、糖醇滥用及低质量食品选择。通过逐步调整脂肪摄入、减少高风险食材、控制坚果和糖醇用量以及选择高质量食品，可以有效缓解头痛症状。建议在必要时寻求专业营养咨询以优化生酮饮食方案。
 </details>
 
 <details>
-<summary>3119. High / Low Protein in Your Blood: What Does It Mean?</summary><br>
+<summary>3119. [2020-10-28] High / Low Protein in Your Blood: What Does It Mean?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=1hd9djXb1RE" target="_blank">
     <img src="https://img.youtube.com/vi/1hd9djXb1RE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 中文整理版
 
+#### 核心主題
+- **血液蛋白質的作用與重要性**
+
+#### 主要觀念
+1. **血液中的主要蛋白質類型**
+   - **白蛋白（Albumin）**：占血清蛋白的50%-60%，主要功能包括：
+     - 維持血容量，防止水分滲出至組織。
+     - 輔養組織，提供必需氨基酸。
+     - 作為運輸媒介，幫助傳送激素、電解質、維生素及脂肪酸。
+   - **免疫oglobulins（抗體）**：由B細胞產生，主要功能包括：
+     - 中和病原體，防止其入侵細胞。
+     - 標記病原體供吞噬細胞清除。
+     - 參與炎症反應，協助摧毁病原體。
+     - 濕化已被感染的細胞，促使其自殺。
+
+2. **血清蛋白濃度異常的原因**
+   - **血清蛋白升高**：
+     - 病毒或细菌感染。
+     - 白血病或多發性骨髓瘤等血液疾病。
+     - 脫水。
+   - **血清蛋白降低**：
+     - 肝臟功能受損（如肝硬化）。
+     - 遐漏性腸道綜合征（CELIA）。
+     - 蛋白質攝取不足或吸收不良。
+
+3. **尿液中蛋白濃度過高的原因**
+   - **腎臟損害**：腎小球濾過功能受損，導致蛋白質漏出至尿液。
+   - **運動後短期現象**：劇烈運動後可能一時性增加。
+   - **補水不足或過度**：可能影響蛋白質濃度。
+   - **糖尿病**：高血糖損害腎臟濾過功能。
+
+#### 問題原因
+- 血清蛋白異常的原因主要包括感染、腎臟疾病、肝病及免疫系統問題。
+- 尿液中蛋白濃度过高的主要原因為腎臟損害，但也可能由其他因素如dehydration或過度補水引起。
+
+#### 解決方法
+1. **血清蛋白異常的處理**
+   - 適當飲食攝取足夠的蛋白質，特別是針對低蛋白血症。
+   - 治療潛在疾病，如感染、肝病或腎臟疾病。
+   - 維持良好的 hydration 狀況。
+
+2. **尿液中蛋白過高的處理**
+   - 就醫檢查腎臟功能。
+   - 控制血糖水平（如糖尿病患者）。
+   - 調整飲水量，避免過度補水或dehydration。
+
+#### 健康建議
+- 定期進行血液和尿液檢查，特別是有腎臟或肝臟疾病家族史的人群。
+- 適當運動後注意蛋白質的攝取與補充。
+- 保持均衡飲食，避免過度補水或dehydration。
+
+#### 總結
+血清蛋白質的濃度變化反映了身體健康狀況，高蛋白或低蛋白水平可能指示不同的疾病。尿液中蛋白質含量升高通常與腎臟問題相關，但也需要考慮其他因素。及時就醫檢查並根據醫生建議進行治療是關鍵。
+
+---
+
+### 英文整理版
+
+#### Core Theme
+- **The Role and Importance of Blood Proteins**
+
+#### Key Concepts
+1. **Primary Protein Types in Blood**
+   - **Albumin**: Comprising 50%-60% of blood serum proteins, its main functions include:
+     - Maintaining blood volume by preventing water leakage into tissues.
+     - Nourishing tissues with essential amino acids.
+     - Acting as a transport medium for hormones, electrolytes, vitamins, and fatty acids.
+   - **Immunoglobulins**: Produced by B-cells, their primary functions include:
+     - Neutralizing pathogens to prevent cell invasion.
+     - Marking pathogens for destruction by phagocytic cells.
+     - Participating in inflammatory responses to destroy pathogens.
+     - Wetting infected cells to promote apoptosis.
+
+2. **Causes of Abnormal Serum Protein Levels**
+   - **Elevated Serum Protein**:
+     - Viral or bacterial infections.
+     - Blood diseases such as leukemia or multiple myeloma.
+     - Dehydration.
+   - **Decreased Serum Protein**:
+     - Liver damage (e.g., cirrhosis).
+     - Conditions like CELIA (Celiac Disease).
+     - Insufficient protein intake or absorption issues.
+
+3. **Causes of Elevated Protein in Urine**
+   - **Kidney Damage**: Impaired glomerular filtration allows proteins to leak into urine.
+   - **Post-Exercise Temporary Increase**: Intense exercise may cause temporary elevation.
+   - **Overhydration or Dehydration**: May affect protein concentration.
+   - **Diabetes**: High blood sugar damages kidney filtration units.
+
+#### Problem Analysis
+- Abnormal serum protein levels are primarily caused by infections, kidney diseases, liver conditions, and immune system disorders.
+- Elevated protein in urine is most commonly due to kidney damage but can also result from dehydration or overhydration.
+
+#### Solutions
+1. **Managing Abnormal Serum Protein Levels**
+   - Ensure adequate protein intake, especially for hypoproteinemia cases.
+   - Treat underlying diseases such as infections, liver conditions, or kidney diseases.
+   - Maintain proper hydration levels.
+
+2. **Addressing Elevated Protein in Urine**
+   - Consult a healthcare professional to check kidney function.
+   - Manage blood sugar levels (for diabetic patients).
+   - Adjust water intake to avoid overhydration or dehydration.
+
+#### Health Recommendations
+- Regularly undergo blood and urine tests, especially for individuals with a family history of kidney or liver diseases.
+- Monitor protein intake and supplementation after intense exercise.
+- Maintain a balanced diet and avoid excessive hydration or dehydration.
+
+#### Conclusion
+Changes in serum protein levels reflect overall health status, with high or low levels indicating various potential diseases. Elevated protein in urine typically suggests kidney issues but may also be influenced by other factors. Timely medical consultation and treatment based on professional advice are crucial.
 </details>
 
 <details>
-<summary>3118. Raynauds Syndrome – What Can you do for Raynaud's Syndrome – Dr.Berg</summary><br>
+<summary>3118. [2020-10-27] Raynauds Syndrome – What Can you do for Raynaud's Syndrome – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=CC5kKTe1eWI" target="_blank">
     <img src="https://img.youtube.com/vi/CC5kKTe1eWI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節化整理：雷諾氏症（Raynaud's Syndrome）
 
+#### 1. 核心主題
+- 雷諾氏症是一種影響末梢血管的循環障礙，主要表現在手指或腳趾因寒冷或壓力等因素而變色。
+
+#### 2. 主要觀念
+- **定義**：雷諾氏症是指在暴露於寒冷環境或受到情緒壓力後，手指或其他四肢末端變得蒼白或紫-blue。
+- **生理機制**：病症根源在於血管痙攣，導致血流減少和血液POOLING（.pooling）現象，可能持續數分鐘至數小時。
+
+#### 3. 問題原因
+- **血管痙攴**：寒冷或壓力觸發動脈痙攴，影響血液循環。
+- **自主神經系統失調**：病症與自主神經系統未能適應溫度變化有關。
+- **風險因素**：
+    - 過去有 frostbite（凍瘡）病史。
+    - 女性在20多歲和40多歲群體中較為常見，可能與雌激素水平有關。
+    - 存在 connective tissue disorders（結締組織疾病），如 lupus（狼疮）等 autoimmune conditions（自身免疫性疾病）。
+
+#### 4. 解決方法
+- **藥物治療**：
+    - 影響交感神經系統的藥物，用於控制血管痙攴。
+- **營養補充**：
+    - **維生素B1**：研究顯示能有效減輕 symptoms（症狀），並有助平衡雌激素水平，可能對 estrogen dominance（雌激素過多）患者有益。
+    - **肌醇煙酸酯（Inositol Hexanicotinate）**：作為维生素B3和肌醇的組合，改善靜脈循環，特別是在寒冷暴露下。
+
+#### 5. 健康建議
+- **生活調整**：
+    - 避免過度暴露於寒冷環境。
+    - 管理壓力，保持心理健康。
+- **營養補充**：
+    - 考慮攝取維生素B1和肌醇煙酸酯以改善症狀。
+
+#### 6. 結論
+- 雷諾氏症病因複雜，涉及血管痙攴和自主神經系統失調，治療需綜合藥物與營養干預。
+- 建議在專業醫師指導下使用補充劑，並結合生活方式調整以促進病情改善。
 </details>
 
 <details>
-<summary>3117. Autoimmune Conditions: Key Foods to Avoid</summary><br>
+<summary>3117. [2020-10-27] Autoimmune Conditions: Key Foods to Avoid</summary><br>
 
 <a href="https://www.youtube.com/watch?v=yK32xrQ_9pE" target="_blank">
     <img src="https://img.youtube.com/vi/yK32xrQ_9pE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 探讨 autoimmune diseases（自身免疫疾病）患者是否应食用鸡蛋。
+- 强调肠道健康与免疫系统的关系。
+
+#### 主要觀念
+1. **腸道屏障的重要性**：
+   - 80%的免疫系統位於消化系統，腸道屏障若受損，導致「漏出腸」（leaky gut），異體蛋白質進入淋巴系統。
+   - 免疫系統將這些蛋白質標記為外來毒素，引發過敏反應。
+
+2. **分子模擬（Molecular Mimicry）**：
+   - 郊外物的蛋白質與人體自身蛋白質相似，導致免疫系統攻擊自身組織，引發 autoimmune diseases。
+
+3. **常見過敏原**：
+   - 牛奶中的酪蛋白（Casein）、乳清蛋白。
+   - 禮食中的麸質（Gluten）。
+   - 鸡蛋、坚果和種子中的蛋白質。
+
+4. **炎症性食物**：
+   - 蔬菜油（如大豆油、芥花籽油）、玉米油、棉籽油等富含omega-6脂肪酸，具有促炎作用。
+   - 粮食（麸質）引發嚴重炎症反應。
+
+#### 問題原因
+1. **腸道屏障受損**：
+   - 导致異體蛋白質進入淋巴系統，引發免疫反應和 autoimmune diseases。
+
+2. **過敏原的存在**：
+   - 牛奶、麺粉、蛋等食物中的蛋白質可能引起過敏並加重 autoimmune diseases。
+
+3. **促炎性飲食**：
+   - 高omega-6脂肪酸的食物和麸質糧食增加炎症反應，不利於 autoimmune diseases患者。
+
+#### 解决方法
+1. **過敏測試**：
+   - 通過血液或皮膚測試 identify specific allergies（過敏原）。
+   - 避免食用如酪蛋白、乳清蛋白、麸質、蛋等已知過敏食物。
+
+2. **調整飲食**：
+   - 避免食用高omega-6脂肪酸的食物，如 vegetable oils（蔬菜油）、玉米油等。
+   - 避免麸質糧食，從而降低炎症反應。
+
+3. **短期試驗**：
+   - 若不願進行過敏測試，可進行三日無乳制品、蛋或麸質的飲食試驗，觀察身體反應。
+
+4. **健康建議**：
+   - 遵循健康的生酮饮食（ketogenic diet）和間歇性禁食，以增強免疫系統。
+   - 通過定期長時間禁食，可能減少過敏反應。
+
+#### 總結
+- autoimmune diseases患者應避免食用可能引發過敏或促炎的食物，如乳制品、蛋、麸質糧食和高omega-6脂肪酸的油。
+- 過敏測試和短期飲食試驗是有效識別過敏原的方法。
+- 健康的飲食習慣（如生酮飲食和禁食）有助於降低炎症並改善 autoimmune diseases症状。
 </details>
 
 <details>
-<summary>3116. Why Would Triglycerides Elevate on Keto? Causes of High Triglycerides on Keto – Dr.Berg</summary><br>
+<summary>3116. [2020-10-26] Why Would Triglycerides Elevate on Keto? Causes of High Triglycerides on Keto – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=sEa4iFPHJwo" target="_blank">
     <img src="https://img.youtube.com/vi/sEa4iFPHJwo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：酮飲食（Keto Diet）中 triglycerides（三酸甘油酯）偏高的原因與解決方法
 
+#### 主要觀念：
+1. **酮飲食的基本原理**：
+   - 酮飲食以高脂肪、低碳水化合物為特點，旨在使身體進入酮症狀態，利用脂肪作為主要能量來源。
+   - 在酮症中，脂肪（包括 triglycerides 和膽固醇）會從脂肪細胞中被調出，用於供能。
+
+2. **Triglycerides 的來源與作用**：
+   - Triglycerides 是脂肪的主要形式，儲存於脂肪細胞中。
+   - 它們在能量代謝、脂溶性維生素運輸等方面發揮重要作用。
+
+#### 問題原因：酮飲食中 triglycerides 偏高的可能因素
+1. **短期的生理反應**：
+   - 酮飲食初期，身體調動脂肪儲備，導致血液中 triglycerides 暫時升高。
+   - 通常情況下，隨著酮適應期的過去，其水平會逐漸下降。
+
+2. **飲食因素**：
+   - **高 fat intakes**：大量攝入饱和脂肪或油質（如bulletproof coffee中的MCT油）可能導致短期 triglycerides 升高。
+   - **未完全遵守低碳水化合物原則**：潛在的碳水化合物來源（加工食品、飲料等）可能影響血脂水平。
+
+3. **代謝與健康問題**：
+   - **低甲狀腺素血症**：甲狀腺功能減退會降低代謝速率，影響脂質代謝。
+   - ** gallbladder 疾病**：膽囊問題（如膽結石、痙攥）可能干擾脂肪消化與 triglycerides 的正常處理。
+   - **肝臟功能障礙**：肝臟疾病導致膽汁生成不足，影響脂肪代謝。
+
+4. **實驗室檢測方法**：
+   - 濫食或未 fasting 時進行血液檢查會導致結果偏高。
+   - 特別是咖啡因攝取、酒精飲用等因素可能短期提升 triglycerides。
+
+#### 解決方案與健康建議：
+1. **改善飲食結構**：
+   - 確保酮飲食的清潔性，避免隱藏碳水化合物和反式脂肪的攝入。
+   - 減少液體油（如MCT油）的過量攝取，特別是缺乏運動的情況下。
+
+2. **檢測前的準備**：
+   - 在進行血脂檢查前，建議 fasting 12-14小時，避免飲食干擾。
+   - 避免在禁食期間攝入咖啡因或酒精，以確保數據的准确性。
+
+3. **健康評估與醫療諮詢**：
+   - 如果 triglycerides 持續偏高，需排查潛在的代謝疾病（如低甲狀腺素血症、膽囊病變等）。
+   - 考慮膽汁酸補充或其他治療方案，以改善脂肪代謝。
+
+4. **生活方式調整**：
+   - 增加身體活動量，促進 triglycerides 的消耗與代謝。
+   - 確保充足的微生物多樣性，支持腸道健康與膽汁生成。
+
+#### 結論：
+酮飲食中 triglycerides 偏高通常是多種因素共同作用的結果。短時間內的生理反應可不予過度擔心，但若持續偏高或伴有其他症狀，建議及時就醫檢查並調整飲食結構與生活方式。通過綜合評估與針對性干預，可以有效改善血脂水平，實現酮飲食的健康目標。
 </details>
 
 <details>
-<summary>3115. 7 Unusual Vitamin B1 Deficiency Symptoms</summary><br>
+<summary>3115. [2020-10-26] 7 Unusual Vitamin B1 Deficiency Symptoms</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hjvPC1ayCWk" target="_blank">
     <img src="https://img.youtube.com/vi/hjvPC1ayCWk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理與分析
 
+#### 核心主題
+- **B1（硫胺素）缺乏症**：文章主要探討B1 deficiency的七種罕見或奇特症状及其相關影響。
+
+#### 主要觀念
+1. B1是維生素中極為重要的營養素。
+2. B1缺乏會導致多種身體和心理問題，包括但不限於神經系統、心血管系統及消化系统的异常。
+3. 除了常見的壓力、焦慮和緊張等症狀外，還有罕見症状如雷諾氏現象、早晨孕吐、心率加速、浮腫、精神錯亂、呼吸急促和姿勢性低血壓。
+
+#### 問題原因
+- **B1缺乏的原因**：
+  - 饮食中攝取不足。
+  - 消化系統吸收障礙。
+  - 生理或病理條件增加需求（如懷孕、壓力過大等）。
+
+#### 認知錯誤與迷思
+- B1缺乏症常被誤診為其他疾病，例如雷諾氏現象可能被視為循環系統問題，而早晨孕吐可能被歸因於孕期荷爾蒙變化。
+- 大眾對B1重要性的認知不足，導致這些症状未被及時聯繫到營養缺乏上。
+
+#### 解決方法
+1. **飲食攝取**：
+   - 增加富含B1的食物攝入，如瘦肉、全穀物、豆類、葵花籽和杏仁。
+2. **補充劑**：
+   - 使用B1補充劑或含豐富B1的營養酵母。
+3. **醫療干預**：
+   - 對於嚴重缺乏症狀，建議尋求專業醫生幫助，評估是否需要更高劑量的B1治療。
+
+#### 健康建議
+- 定期評估自身健康狀況，特別是出現罕見或持續性症状時。
+- 保持均衡飲食，確保攝取足夠的B1及其他維生素和礦物質。
+- 高風險群體（如懷孕婦女、壓力大的人）應特別注意B1的攝取。
+
+#### 結論
+- B1缺乏症可能引發多種奇特症状，了解這些症状有助於早期發現和治療。
+- 舉輕易忽視身體	signal	，尤其是罕見症状，應該及時尋求專業建議。
+- 遭遇健康問題時，不能單純依賴自我藥疗，應諮詢醫療專家以確保正確診斷和治療。
+
+### 總結
+本文強調B1在維生素中的重要性，並通過介紹其罕見缺乏症状，提醒大眾注意營養均衡的重要性。建議讀者在遇到相關症狀時，及時採取飲食調整或專業醫療諮詢，以避免病情加重。
 </details>
 
 <details>
-<summary>3114. The Most Common Nutrient Deficiency in the Elderly</summary><br>
+<summary>3114. [2020-10-25] The Most Common Nutrient Deficiency in the Elderly</summary><br>
 
 <a href="https://www.youtube.com/watch?v=z5zv8bvbBEc" target="_blank">
     <img src="https://img.youtube.com/vi/z5zv8bvbBEc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 老年人營養 deficiencies 的綜合分析
 
+## 核心主題  
+老年人營養 deficiencies 是一個日益嚴重的公共衛生問題，特別是與飲食質量下降和藥物副作用相關的情況。
+
+### 子項  
+- 高齡導致營養吸收能力降低。  
+- 現代護理之家提供的食物常缺乏營養價值。  
+- 老年人多數服用合成維生素，但效果有限。  
+
+---
+
+## 主要觀念  
+老年人的營養 deficiencies 有多種原因，包括飲食結構不佳、藥物副作用和生理機能衰退。
+
+### 子項  
+1. **茶與吐司症候群**：長期攝取低營養食物（如面包、酥餅和茶）導致多種 deficiencies。  
+2. **護理之家的食品問題**：常提供加工食品、高糖零食，影響代謝健康。  
+3. **藥物副作用**：糖尿病和利尿劑等藥物會耗竭維生素和礦物質。  
+
+---
+
+## 啟發原因  
+老年人營養 deficiencies 的主要原因包括飲食質量下降、藥物副作用和生理機能衰退。
+
+### 子項  
+1. **消化能力減退**：胃酸分泌減少影響蛋白質和微量元素吸收，尤其是維生素 B12 和礦物質（如鈣、鎂、钾）。  
+2. **缺乏日曬**：维生素 D 取不足，導致免疫功能下降。  
+3. **藥物干擾**：合成維生素質量低劣，且多數藥物會耗竭身體營養儲備。  
+
+---
+
+## 解決方法  
+針對老年人營養 deficiencies，可採取以下措施：
+
+### 子項  
+1. **調整飲食結構**：  
+   - 增加高蛋白質食物攝取以補充必需氨基酸。  
+   - 確保足夠的日曬時間或服用優質維生素 D 补充劑。  
+
+2. **營養補充**：  
+   - 使用高品質的trace mineral supplements（如鋅和硒）。  
+   - 遐爾之家食品提供更健康的飲食選擇。  
+
+3. **調整藥物使用**：  
+   - 减少合成維生素的依賴，改用天然來源的營養補充品。  
+   - 考慮間歇性禁食和生酮飲食以改善代謝健康。  
+
+---
+
+## 健康建議  
+針對老年人的營養 deficiencies，提出以下建議：
+
+### 子項  
+1. **飲食建議**：  
+   - 確保每日攝取足夠的新鮮蔬果和高蛋白質食物。  
+   - 避免過量喝水，防止低血鈉症。  
+
+2. **營養補充**：  
+   - 使用 nutritional yeast 補充 B 族維生素。  
+   - 补充.trace minerals（如鋅）以改善免疫功能和代謝健康。  
+
+3. **生活建議**：  
+   - 鼓勵老年人多接觸自然光以補充足夠的维生素 D。  
+   - 考慮間歇性禁食和生酮飲食，但需在專業人員指導下進行。  
+
+---
+
+## 總結  
+老年人營養 deficiencies 是一個複雜而嚴峻的問題，需要從飲食、藥物使用和生理機能等多方面入手，採取綜合措施來改善其營養狀況。及時補充必要的營養素並調整生活習慣，可以有效提升老年人的生活質量和整體健康狀況。
+
+--- 
+
+此整理結構清晰地展示了文章的核心內容，符合正式學術用語的要求，並分為若干小節以便於理解和參考。
 </details>
 
 <details>
-<summary>3113. Drinking Too Much Beer Will Deplete...</summary><br>
+<summary>3113. [2020-10-25] Drinking Too Much Beer Will Deplete...</summary><br>
 
 <a href="https://www.youtube.com/watch?v=n4W54z0klxQ" target="_blank">
     <img src="https://img.youtube.com/vi/n4W54z0klxQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 啤酒過量飲用引發的營養缺乏症。
 
+### 主要觀念
+- 酗酒（尤其是啤酒）導致嚴重的電解質失衡。
+- 特別是啤酒攝取過多可能引發「光敏性癜癇」（Photomania），一種與電解質失衡相關的醫療狀況。
+
+### 問題原因
+1. 啤酒中的成分影響電解質平衡，導致鈉、钾、鎂和飺等礦物質的流失。
+2. 酗酒後出汗和嘔吐進一步加重電解質缺失。
+3. 消費碳水化合物可能加剧電解質失衡。
+4. 糖尿病患者或使用利尿劑的人更容易發生嚴重的電解質缺乏。
+5. 慢性酗酒者可能出现多種營養缺乏，並導致其他健康問題。
+
+### 興趣點
+- 電解質失衡可導致一連串症狀，包括癲癇、昏迷和認知障礙等。
+
+### 解決方法
+1. 控制酒精攝取量，特別是啤酒。
+2. 补充電解質，例如鹽水或含電解質的飲料。
+3. 調整飲食結構，增加礦物質攝取。
+4. 減少碳水化合物的攝入，以降低對電解質的進一步影響。
+5. 對于有糖尿病或使用利尿劑的人群，應特別注意電解質平衡。
+
+### 健康建議
+1. 適量飲酒，避免過度攝取酒精。
+2. 在大量出汗後及時補充鹽分和其他礦物質。
+3. 確保均衡飲食，攝取足夠的鈉、钾、鎂和飺等礦物質。
+4. 遇到嚴重症狀应及时就醫，避免情況惡化。
+
+### 結論
+- 啤酒過量飲用會導致多種電解質失衡問題，可能引發嚴重的健康風險。
+- 通過控制酒精攝取、補充電解質和調整飲食，可以有效預防這些問題。
 </details>
 
 <details>
-<summary>3112. Causes of High Creatinine Levels in Blood – Dr.Berg on Elevated Creatinine Levels</summary><br>
+<summary>3112. [2020-10-24] Causes of High Creatinine Levels in Blood – Dr.Berg on Elevated Creatinine Levels</summary><br>
 
 <a href="https://www.youtube.com/watch?v=PUn3_n7Y4Ns" target="_blank">
     <img src="https://img.youtube.com/vi/PUn3_n7Y4Ns/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：血清肌酸酐升高及其影響與原因分析
 
+---
+
+#### 主要觀念：
+1. **肌酸与肌酸酐的关系**：
+   - 肌酸（Creatine）在人體內轉化為肌酸酐（Creatinine），主要作為代謝廢物排出體外。
+   - 肌酸參與ATP的再生，對肌肉和神經系統的能量代谢具有重要作用。
+
+2. **血清肌酸酐水平**：
+   - 血清肌酸酐升高可能指示腎臟功能異常，但也可能是生理性或藥物性因素導致。
+
+---
+
+#### 問題原因：
+1. **腎臟問題**：
+   - 肾臟損害可能导致肌酸酐無法正常排出，引起血清水平升高。
+   
+2. **藥物影響**：
+   - 使用ACE抑制劑等藥物可能干擾腎臟功能，導致肌酸酐積聚。
+
+3. **強度運動**：
+   - 激烈運動會導致肌肉分解，增加血液中肌酸含量，從而提高肌酸酐水平。
+   
+4. **高蛋白飲食（尤其是酮ogenic diet）**：
+   - 高攝取紅肉或加工肉類，在加熱過程中肌酸轉化為肌酸酐，進而升高血清濃度。
+
+5. **補充劑使用**：
+   - 過量攝取肌酸補充劑可能導致血液中肌酸酐水平上升。
+
+---
+
+#### 解決方法與健康建議：
+1. **評估腎臟功能**：
+   - 如發現血清肌酸酐升高，應進行腎臟功能檢測，排除潛在的器質性問題。
+
+2. **調整運動強度**：
+   - 適當控制運動量，避免過度肌肉分解。若需長期高強度訓練，建議諮詢專業指導。
+
+3. **飲食調整**：
+   - 遵循酮ogenic diet時，控制紅肉攝取量，選擇未經充分加熱的肉類。
+   
+4. **合理使用補充劑**：
+   - 使用肌酸補充劑時，應遵循推薦劑量，避免過量攝取。
+
+5. **藥物諮詢**：
+   - 如正在服用可能影響腎臟功能的藥物（如ACE抑制劑），建議與醫生討論用藥調整。
+
+---
+
+#### 總結：
+血清肌酸酐升高反映了機體內的代謝或生理狀態，可能是腎臟問題的指標，但也可能由生理性因素或外界干擾引起。及時評估病因並採取相應措施，對於維護腎臟健康和整體福祉至關重要。
 </details>
 
 <details>
