@@ -76,7 +76,7 @@ def download_script(df):
     preferred_langs = ['en']
     
     # 從最後一筆往前處理
-    for idx in reversed(df.index):
+    for idx in df.index:
         if download_count >= max_downloads:
             print(f"📌 已達到最大下載數量 ({max_downloads})")
             break
