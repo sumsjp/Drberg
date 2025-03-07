@@ -571,80 +571,334 @@
 </details>
 
 <details>
-<summary>1348. Why Dietary Sugar Prolongs Your Sickness & Illness? – Dr. Berg</summary><br>
+<summary>1348. [2018-02-16] Why Dietary Sugar Prolongs Your Sickness & Illness? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=6d_Z_xezJLU" target="_blank">
     <img src="https://img.youtube.com/vi/6d_Z_xezJLU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理： sugar consumption and immune system function
 
+#### 核心主題：
+- The impact of sugar consumption on immune system function, particularly during illness.
+
+#### 主要觀念：
+1. **Insulin Receptors and Glucose Competition**:
+   - Each cell possesses insulin receptors that regulate the intake of glucose (sugar) and vitamin C.
+   - High blood sugar levels lead to competition between glucose and vitamin C for cellular uptake.
+   - The body prioritizes glucose over vitamin C, which can impair immune function.
+
+2. **Role of Vitamin C in Immunity**:
+   - Vitamin C is essential for the phagocyte cell, responsible for eliminating bacteria and pathogens.
+   - Phagocytes' efficiency can be reduced by elevated blood sugar levels (e.g., fasting blood sugar of 120 mg/dL may reduce phagocyte activity by 75%).
+
+3. **White Blood Cell Dependency on Vitamin C**:
+   - White blood cells, the primary defense mechanism of the immune system, have a high concentration of insulin receptors and require significantly more vitamin C compared to other cells.
+   - High sugar intake can disrupt this balance, weakening immune response.
+
+#### 問題原因：
+- Excessive sugar consumption during illness leads to hyperglycemia, which competes with vitamin C for cellular absorption.
+- This competition impairs the function of phagocytes and white blood cells, thereby weakening the immune system's ability to combat pathogens.
+
+#### 解決方法：
+1. **Reduce Sugar Intake**:
+   - Eliminate or significantly reduce sugar consumption, especially when sick, to maintain optimal immune function.
+
+2. **Increase Vitamin C Intake**:
+   - Consume foods rich in vitamin C (e.g., citrus fruits, bell peppers, strawberries) to support immune system health.
+   - Consider vitamin C supplementation if dietary intake is insufficient.
+
+#### 健康建議：
+- Monitor blood sugar levels, particularly when ill, to avoid compromising immune function.
+- Opt for nutrient-dense foods that provide essential vitamins and minerals necessary for immune health.
+- Avoid processed sugars and sugary beverages to prevent hyperglycemia-related immune suppression.
+
+#### 結論：
+- High sugar intake during illness prolongs recovery by impairing immune system efficiency.
+- Maintaining balanced blood sugar levels and ensuring adequate vitamin C intake are critical for robust immune function.
+- Reducing sugar consumption and enhancing vitamin C intake can significantly improve immune response and overall health.
 </details>
 
 <details>
-<summary>1347. Edible Keto Kale Shake WITHOUT Berries or Fruit – Dr. Berg</summary><br>
+<summary>1347. [2018-02-15] Edible Keto Kale Shake WITHOUT Berries or Fruit – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hjKyM0gW1uc" target="_blank">
     <img src="https://img.youtube.com/vi/hjKyM0gW1uc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節一：核心主題  
+- 設計一款低碳水化合物的 kale 震ipse（或沙冰）。  
+- 強調避免使用高碳水量的莓果，提供低糖、低 carb 的替代方案。  
 
+### 小節二：主要觀念  
+- **健康飲食的重要性**：強調選擇清潔、有機的食材以確保營養價值和安全性。  
+- **低碳水化合物飲食的優勢**：通過降低碳水攝取來控制血糖水平，適合酮genic 或間歇性禁食者。  
+
+### 小節三：問題原因  
+- 直接使用莓果會增加碳水攝取，可能破壞低碳水化合物飲食的效果。  
+- 無法有效去除 kale 的纖維質，導致口感不佳或消化不適。  
+
+### 小節四：解決方法  
+1. **食材選擇**：  
+   - 使用有機Trader Joe's Kale。  
+   - 添加少量新鮮檸檬汁以中和 Foam 舛味並預防腎結石和鈣沉積。  
+2. **飲品調制步驟**：  
+   - 先將 kale 和水混合，使用高效率的攪拌機（如 Xtreme）充分攪拌約4分鐘，確保細膩無纖維。  
+   - 添加甜味劑：使用零碳水的原料（如 raw wheatgrass juice powder 和 stevia）。  
+   - 增加營養和電解質：加入含 trace minerals 和更多 potassium 的電解質粉末。  
+   - 可選添加 coconut oil，提供健康脂肪，提升飲品的飽足感和營養價值。  
+
+### 小節五：健康建議  
+- **控制攝食窗口**：建議在禁食期間或早餐時消費，以避免血糖過度波動。  
+- **分次飲用**：可將份量分成兩次飲用，間隔一小時左右，根據個人飽腹感調整。  
+- **材料替代性**：可根據個人喜好調整添加物的種類和數量，如增加其他蔬菜或蛋白質來源。  
+
+### 小節六：結論  
+- 通過科學的食材選擇和調制方法，可以創作出既健康又美味的低碳水化合物 kale 震ipse。  
+- 這種飲品不僅適合酮genic 或間歇性禁食者，也是一般人追求低糖、高營養飲食的理想選擇。
 </details>
 
 <details>
-<summary>1346. 10 Side Effects of TUMS Antacid (Calcium Carbonate) – Dr. Berg</summary><br>
+<summary>1346. [2018-02-15] 10 Side Effects of TUMS Antacid (Calcium Carbonate) – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=tX73T8iFx-o" target="_blank">
     <img src="https://img.youtube.com/vi/tX73T8iFx-o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理與分析
 
+#### 核心主題  
+- 討論長期服用Tums（碳酸鈣）可能引發的副作用及其健康影響。
+
+---
+
+#### 主要觀念  
+1. **胃酸的作用**  
+   - 胃部pH值應保持在1至3之間，強酸性環境有助於蛋白質消化、 mineral吸收以及殺死病原微生物。
+2. **反流的原因**  
+   - 胃酸不足（低酸）會導致食道下端括約肌未能完全關閉，胃酸逆流至食道，引發心燒和反流。
+3. **長期服用抗酸藥的影響**  
+   - 過度依賴碳酸鈣等抗酸劑會進一步降低胃酸，造成消化不全、吸收不良及感染風險增加。
+
+---
+
+#### 問題原因  
+1. **胃酸不足的後果**  
+   - 消化不完全：導致便秘、腹脹、惡臭嗝氣。
+   - 病原微生物入侵：缺乏足夠酸性環境來殺死病菌，增加腸胃感染風險。
+2. ** mineral吸收障礙**  
+   - 電解質失衡：影響心臟功能，可能引發心律不整。
+   - 鈣質沉積：如水龍頭上的白色結晶，過度的鈣沉積可能導致腎结石。
+
+---
+
+#### 解決方法與健康建議  
+1. **改善胃酸不足**  
+   - 使用 **蘋果醋**：加入水中飲用，可幫助恢復胃部酸性環境。
+2. **調整飲食習慣**  
+   - 減少碳酸鈣的過度攝取，避免干擾胃酸平衡。
+3. **監測症狀**  
+   - 如持續有心燒、腹脹等症状，建議諮詢專業醫療人員，評估是否需要其他治療方式。
+
+---
+
+#### 結論  
+- 長期依賴碳酸鈣等抗酸劑可能引發多種健康問題，包括消化不良、感染風險增加及 metabolism失衡。
+- 蘋果醋可作為替代方案，幫助恢復胃部酸性環境，但需配合良好的飲食習慣和醫療建議，以維持整體健康。
+
+---
+
+此整理基於文章內容，使用正式的學術用語，並分小節歸納主要觀念與建議。
 </details>
 
 <details>
-<summary>1345. How To Get Rid of Bad Breath on Keto & Intermittent Fasting? – Dr. Berg</summary><br>
+<summary>1345. [2018-02-14] How To Get Rid of Bad Breath on Keto & Intermittent Fasting? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ySmzyYOyrWE" target="_blank">
     <img src="https://img.youtube.com/vi/ySmzyYOyrWE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節一：核心主題
+- 探讨酮egenic饮食计划中出现口臭（称为“dragon breath”）的问题。
+- 口臭的主要原因是氨味，与蛋白质代谢有关。
 
+### 小節二：主要觀念
+- 氨味来源于氮的排放，而氮主要来自蛋白质分解。
+- 在酮egenic饮食中，过量摄入蛋白质可能导致口臭。
+- 口臭可能反映消化不良或器官功能问题。
+
+### 小節三：問題原因
+- **蛋白质摄入过多**：导致体内氨的生成增加。
+- **消化不良**：未充分消化的蛋白质可能导致气体和胀气。
+- **器官功能不佳**：肾脏或肝脏功能不全可能影响废物排泄，引发口臭。
+
+### 小節四：解決方法
+1. **减少蛋白质摄入量**：
+   - 建议每餐摄入蛋白质量控制在3至6盎司之间。
+   - 根据个人情况调整，逐步降低蛋白质比例。
+2. **改善消化**：
+   - 使用辅助消化产品（如含苹果醋和碳酸氢盐的Digest Formula）以帮助分解蛋白质。
+   - 确保充分咀嚼食物以促进消化。
+
+### 小節五：健康建議
+- 定期监测肾脏和肝脏功能，确保其正常运作。
+- 增加蔬菜摄入量，支持器官排毒和整体健康。
+- 采用间歇性禁食等方法，长期改善器官功能。
+
+### 小節六：結論
+- 酮egenic饮食导致的口臭主要是由于蛋白质代谢和消化问题引起。
+- 通过调整蛋白质摄入、优化消化和关注器官健康，可以有效解决口臭问题。
+- 如持续存在健康问题，建议咨询专业医疗人员。
 </details>
 
 <details>
-<summary>1344. The Best Recipe For Homemade Keto Shake for Weight Loss – Dr. Berg</summary><br>
+<summary>1344. [2018-02-14] The Best Recipe For Homemade Keto Shake for Weight Loss – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HRJuP7HGVcc" target="_blank">
     <img src="https://img.youtube.com/vi/HRJuP7HGVcc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 1. 核心主題
+- 提供一種簡單且高效的飲品配方，旨在幫助改善血糖控制和胰島素抵抗。
+- 適用於糖尿病患者或其他有血糖相關問題的人群。
+- 强調自然成分的療效，結合飲食與健康管理。
+
+#### 2. 主要觀念
+- 肉桂粉（Cinnamon）：具有強大的抗糖尿病特性，可幫助降低血糖水平。
+- 姜黃素（Ginger）：含有豐富的次生代謝物，能夠改善血糖調節並降低炎症反應。
+- 苹果醋（Apple Cider Vinegar）：有助於提高胰島素敏感性，降低胰島素抵抗。
+- 檸檬汁（Lemon Juice）：富含維生素C和礦物質，可促進新陳代謝並支持整體健康。
+
+#### 3. 問題原因
+- 現代生活方式和飲食習慣導致的代謝紊亂，增加了患糖尿病和其他血糖相關疾病的風險。
+- 氧化應激和炎症反應進一步惡化了血糖調節能力。
+- 缺乏針對性強的自然療法，使得患者依賴藥物治療。
+
+#### 4. 解決方法
+- 使用特定成分組合的飲品，作為輔助血糖管理的手段：
+  - 肉桂粉：每日攝取約1茶匙。
+  - 姜末或姜汁：每日攝取約1茶匙。
+  - 苹果醋：每日攝取1-2湯匙。
+  - 檸檬汁：每日攝取2-4湯匙，可根據個人喜好調整劑量。
+- 製作方法：
+  - 將成分混合至 Mason jar 中，加入過濾水或碳酸化水（如 Pellegrino）。
+  - 冷藏後分次飲用，建議每日早晚各一次。
+
+#### 5. 健康建議
+- 適當控制飲用量，避免空腹直接飲用酸性成分（如柠檬汁和苹果醋），以免刺激胃腸道。
+- 糖尿病患者在飲用前後應監測血糖水平，以評估療效。
+- 與其他健康管理措施結合使用，如均衡飲食、規律運動等。
+
+#### 6. 總結
+- 本文介紹的飲品提供了一種天然且實用的血糖管理方法。
+- 飲品成分的功效基於科學研究和傳統食療經驗，具有較高的可信度。
+- 呼籲讀者嘗試該配方並分享個人體驗，以進一步驗證其療效。
+
+---
+
+### 註記
+文章末尾提及作者創建了一個 Facebook 群組「dr. Berg's Kido 和一瞬間的禁食實驗室」，邀請讀者加入並分享健康經驗和結果。
 </details>
 
 <details>
-<summary>1343. Going From Diabetes To Low Blood Sugars On Keto Diet – Dr. Berg</summary><br>
+<summary>1343. [2018-02-13] Going From Diabetes To Low Blood Sugars On Keto Diet – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=c6U8Qe_5gSk" target="_blank">
     <img src="https://img.youtube.com/vi/c6U8Qe_5gSk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 糖尿病患者在實施酮ogenic diet（生酮飲食）和intermittent fasting（間歇性斷食）後，可能會出現低血糖（hypoglycemia）的副作用。  
+- 本文探討了此現象的原因、影響及解決方法。  
 
+---
+
+### 主要觀念  
+1. **糖尿病治療藥物的作用**：  
+   - 糖尿病患者通常服用降糖藥來降低血糖水平。  
+   - 生酮飲食和斷食會降低身體對糖的依賴，從而減少對藥物的需求。  
+2. **血糖水平的新常態**：  
+   - 在實施生酮飲食和斷食後，身體逐漸適應以脂肪為主要能量來源，血糖水平可能會顯著下降（例如降至80、70甚至60以下），但仍能感覺良好。  
+
+---
+
+### 問題原因  
+- **藥物過量**：  
+  - 如果患者在實施生酮飲食和斷食後未及時調整藥物劑量，可能導致血糖過低。  
+- **血糖適應**：  
+  - 生酮飲食和斷食使身體不再依賴糖分作為主要能量來源，這會改變身體的血糖需求，並影響患者對低血糖的感受。  
+
+---
+
+### 解決方法  
+1. **調整藥物劑量**：  
+   - 與醫生合作，根據最新的血糖水平調整降糖藥劑量。  
+2. **逐步實施飲食計劃**：  
+   - 如果患者感覺不適，可以從少量多餐開始（例如一天兩餐或三餐），而非立即進行一餐制斷食。  
+3. **營養補充**：  
+   - 补充 greens（深色葉菜類）、B vitamins（B族維生素）和 potassium（钾）等營養素，以支持 adrenal function（腎上腺功能）。  
+
+---
+
+### 健康建議  
+1. **監控血糖水平**：  
+   - 定期測量血糖，並與醫生討論是否需要調整藥物劑量。  
+2. **避免突然斷食**：  
+   - 減少斷食的強度，逐步增加斷食時間，以讓身體有時間適應。  
+3. **均衡營養攝取**：  
+   - 確保攝入足夠的 greens、B vitamins 和 potassium，以支持腎上腺功能和整體健康。  
+
+---
+
+### 結論  
+- 生酮飲食和斷食導致低血糖是一種積極的副作用，表明身體正在適應新的能量來源（脂肪）。  
+- 患者需要注意藥物劑量的調整，逐步實施飲食計劃，並補充必要的營養素以支持健康。  
+- 與醫生密切合作是確保安全和成功的關鍵。
 </details>
 
 <details>
-<summary>1342. Can't Sleep On Keto & Intermittent Fasting? – Dr. Berg</summary><br>
+<summary>1342. [2018-02-13] Can't Sleep On Keto & Intermittent Fasting? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=e1xay0186_U" target="_blank">
     <img src="https://img.youtube.com/vi/e1xay0186_U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Article Summary and Key Points
 
+#### Core Theme
+The article discusses the challenges faced during the transition to a ketogenic diet combined with intermittent fasting, particularly focusing on sleep disturbances due to increased energy levels. It explains the physiological mechanisms behind these changes and provides practical solutions to address them.
+
+#### Main Concepts
+- **Ketosis and Keto Adaptation**: The body shifts from relying on carbohydrates to burning fat as its primary fuel source. Fat is a denser energy source, which can lead to heightened alertness and energy levels.
+- **Energy Metabolism**: Transitioning to ketosis involves using a different fuel source (fat) that provides more than double the energy storage capacity compared to carbohydrates.
+
+#### Issues Addressed
+- **Sleep Problems**: Individuals on keto/intermittent fasting often struggle with insomnia due to increased energy and reduced fatigue, which can be attributed to the body's adaptation to burning fat.
+- **Blood Sugar Regulation**: Historical blood sugar issues are mentioned, where consuming high-sugar foods (e.g., ice cream) was used as a temporary fix for sleep.
+
+#### Solutions and Recommendations
+1. **Nutritional Interventions**:
+   - **Minerals (Potassium)**: Increasing potassium intake can help stabilize energy levels and improve sleep quality.
+   - **B Vitamins**: Supplementation with B vitamins, particularly through nutritional yeast or tablets, supports mitochondrial function and accelerates the adaptation to ketosis.
+
+2. **Lifestyle Modifications**:
+   - **Exercise**: Incorporating more physical activity, such as longer walks or frequent workouts, can help expend excess energy and improve sleep patterns.
+
+#### Health Recommendations
+- Maintain a balanced intake of essential nutrients during the keto transition to support metabolic adaptations.
+- Engage in regular exercise to manage energy levels and promote better sleep hygiene.
+
+#### Conclusion
+The article emphasizes that the challenges of sleeplessness and excessive energy during ketosis are temporary. By addressing nutritional deficiencies and incorporating physical activity, individuals can successfully adapt to a ketogenic lifestyle, leading to improved overall health and well-being.
 </details>
 
 <details>
@@ -659,36 +913,170 @@
 </details>
 
 <details>
-<summary>1340. 3 Causes Of Dizziness or Vertigo Explained By Dr. Berg</summary><br>
+<summary>1340. [2018-02-12] 3 Causes Of Dizziness or Vertigo Explained By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=jICR0I67IkU" target="_blank">
     <img src="https://img.youtube.com/vi/jICR0I67IkU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：三大眩晕的主要原因及解决方案
 
+#### 核心主題
+本文主要探討導致眩暈的三大主要原因及其在低碳水化合物飲食（如生酮飲食）中的常見性，並提供相應的解決方案和健康建議。
+
+---
+
+#### 主要觀念
+1. 眩暈是一種常見的症狀，可能由多種因素引起。
+2. 在生酮飲食或其他低碳水化合物飲食中，眩暈問題更容易發生。
+
+---
+
+#### 問題原因
+1. **低血糖（Hypoglycemia）**
+   - 血糖水平過低導致腦部供能不足，引發眩暈。
+   - 常見於飯後血糖快速下降或長時間未進食的情況。
+
+2. **低血壓（Hypotension）**
+   - 生酮飲食可能導致體內水分流失，影響血容量，從而降低血壓。
+   - 突然站起來或進行激烈運動時，血壓下降更明顯。
+
+3. ** adrenal 功能減退（Adrenal Insufficiency）**
+   - 腎上腺功能不足會影響身體對壓力的反應能力。
+   - 低血糖、低血壓或其他應激情況下，腎上腺無法有效調節血流，導致眩暈。
+
+---
+
+#### 解决方法
+1. **低血糖**
+   - **飲食調整**：增加脂肪攝取，避免快速降低血糖（如低碳水化合物飲食初期）。
+   - **進食模式**：逐步減少餐次（從三餐開始，逐漸調整為兩餐），避免血糖劇烈波動。
+
+2. **低血壓**
+   - **鹽分攝取**：增加海鹽攝取，補充體內流失的電解質。
+   - **hydration**: 保持充足水分攝取，維持血液容量。
+
+3. ** adrenal 功能減退**
+   - **壓力管理**：避免過度壓力，確保足夠休息。
+   - **營養補給**：考慮補充腎上腺所需的維生素和礦物質（如鹽、脂肪等）。
+
+---
+
+#### 健康建議
+1. 在實施生酮飲食或其他低碳水化合物飲食時，建議逐步調整飲食結構，避免突然改變。
+2. 如出現眩暈症狀，應及時攝取易吸收的碳水化合物或脂肪來源（如香蕉、堅果等）。
+3. 長期進行低碳水化合物飲食前，建議諮詢專業醫療人員，評估個人健康狀況。
+
+---
+
+#### 結論
+眩暈在生酮飲食中是一個常見但可管理的問題。通過調整飲食結構、補充鹽分和水分，以及管理壓力，可以有效解決這些問題。及時採取措施並結合專業建議，能幫助更好地維持健康狀態。
+
+--- 
+
+此整理涵蓋了文章的核心內容，使用正式的學術用語，並以小節形式清晰歸納各個主要方面。
 </details>
 
 <details>
-<summary>1339. Dr. Berg's Easy Tips to Stick to Keto & Intermittent Fasting Plan</summary><br>
+<summary>1339. [2018-02-12] Dr. Berg's Easy Tips to Stick to Keto & Intermittent Fasting Plan</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3IMIzZeyO8Y" target="_blank">
     <img src="https://img.youtube.com/vi/3IMIzZeyO8Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：間歇性斷食的執行與堅持策略
 
+#### 主要觀念：
+- **健康至上的目標轉移**：將目標從「減重」轉移到「維持整體健康」，視減重為健康生活方式的附帶結果。
+- **生理適應期**：初期可能伴隨饥饿感和 craving，但隨著身體適應，這些症狀將逐漸消失（需3至7天）。
+
+#### 問題原因：
+1. **心理抗拒**：過度聚焦於減重目標，導致挫折感。
+2. **食物渴望與替代需求**：對某些食物（如碳水化合物）的渴望可能影響堅持。
+3. **時間管理挑戰**：初期可能因飲食規律的改變而感到不便。
+4. **缺乏準備與知識**：未充分了解斷食機制及相關健康風險，可能导致副作用。
+
+#### 解決方法：
+1. **目標設定調整**：強調健康生活方式的重要性，而非短期減重。
+2. **食物替代策略**：提供健康的食物選擇，滿足味蕾需求。
+3. **時間管理技巧**：制定明確的飲食計劃，逐步適應斷食節奏。
+4. **知識準備**：建議閱讀專業書籍或諮詢專家，了解間歇性斷食的正確執行方法，避免副作用。
+
+#### 健康建議：
+1. **充分 hydration**：注意補充水分及 electrolytes，防止dehydration和 leg cramps等問題。
+2. **循序漸進**：逐步延長斷食時間，讓身體有足夠的適應期。
+3. **均衡飲食**：在非斷食期間攝取營養均衡的食物，維持整體健康。
+
+#### 結論：
+間歇性斷食是一項有效且可持續的健康計劃，但需配合正確的知識、充足的準備及心理調適。成功執行此計劃離不開目標設定的調整、科學的方法和長期的堅持。
+
+---
+
+### 參考資源
+- **Facebook 小組**：Dr. Berg's Keto and Intermittent Fasting Lab  
+  提供支持與經驗分享平台，鼓勵用戶交流成功與失敗經驗。
 </details>
 
 <details>
-<summary>1338. Why High Blood Sugar Levels Won't Come Down On Keto & Intermittent Fasting? – Dr. Berg</summary><br>
+<summary>1338. [2018-02-11] Why High Blood Sugar Levels Won't Come Down On Keto & Intermittent Fasting? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=LpHVa0H5S8I" target="_blank">
     <img src="https://img.youtube.com/vi/LpHVa0H5S8I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **血糖控制失效**：在實施低碳水化合物飲食（如酮ダイエット）和間歇性斷食的情況下，血 sugar 仍然無法恢復正常。
+- **病因**：長期慢性 severe insulin resistance（嚴重的胰島素抗性）導致胰島素水平過高，細胞吸收胰島素的能力受阻。
 
+### 主要觀念
+1. **Insulin Resistance 的影響**：
+   - 慢性的 insulin resistance 會使血糖水平持續偏高。
+2. **飲食結構的重要性**：
+   - 雖然實施低碳水化合物飲食，但仍可能存在 hidden carbs（隱性碳水化合物）攝取過量的問題。
+
+### 問題原因
+- **飲食不當**：
+  - 確保蛋白質、脂肪和蔬菜的攝取是否符合酮ダイエット的要求。
+  - 隱性碳水化合物的攝入可能影響血糖控制。
+- **進食頻率**：
+  - 頻繁的進食或分散的進餐窗口可能干擾血糖穩定。
+- **營養缺乏**：
+  - 缺乏必要的微量營養素，如 B vitamins、Zinc、Chromium 等。
+- **生活方式因素**：
+  - 過度的壓力和睡眠不足會加劇 insulin resistance。
+
+### 解決方法
+1. **飲食調整**：
+   - 降低碳水化合物攝取量：從 50g逐漸降至 20g，甚至更進一步降至 10g。
+   - 檢查並避免隱性碳水化合物的來源。
+2. **進食策略**：
+   - 縮短進餐窗口，逐步將進餐時間集中到一天的某段特定時期。
+3. **營養補充**：
+   - 增加 B vitamins、nutritional yeast、potassium 和 electrolytes 的攝取。
+   - 补充 zinc 和 chromium 以促進胰島素功能。
+4. **運動**：
+   - 定期進行有氧運動和力量訓練，有助於提高 insulin sensitivity。
+5. **針對性解決其他健康問題**：
+   - 檢查並改善消化、激素（如thyroid, adrenal）、肝臟功能以及炎症問題。
+6. **生活方式調整**：
+   - 降低壓力水平，確保充足的睡眠。
+
+### 健康建議
+- **飲食計劃**：參照提供的 mini course 或諮詢專業營養師，制定個化化的飲食計劃。
+- **微量營養素補充**：定期檢測血液中微量元素的水平，根據結果調整攝取量。
+- **運動習慣**：每周至少進行 150 分鐘的中等強度有氧運動或同等強度的力竭訓練。
+- **壓力管理**：使用冥想、瑜伽或其他放鬆技巧來降低壓力水平。
+
+### 結論
+- **短期策略**：
+  - 通過飲食調整和微量營養素補充快速 stabilizes 血糖水平。
+- **長期改善**：
+  - 改善胰島素抗性需要時間，需 persistent 和 comprehensive 的生活方式改變。
+- **最終目標**：
+  - 恢復正常的血糖控制，提升整體健康狀況。
 </details>
 
 <details>
@@ -891,61 +1279,64 @@
         alt="[Youtube]" width="200">
 </a>
 
-### Key Points of the Article
+### 核心主題
+- 這篇文章描述了一段戀愛關係中的挑戰與最終和解的故事。
+- 聲明了在戀愛中「追」與「被追」的動態，尤其是當一方決定放棄後，另一方可能產生的反應。
 
-#### Core Theme: The Evolution of a Professional and Personal Relationship
-- The narrative revolves around the development of a relationship between two individuals, initially characterized by professional interactions and later evolving into personal connections.
-- The story highlights the complexities of liking someone and navigating the dynamics of mutual interest.
+### 主要觀念
+1. **戀愛動態**：
+   - 愛的情緒往往與時間和努力成反比。
+   - 當一方積極追求時，對方可能並不感興趣；而當追求者放棄後，對方卻可能開始感興趣。
 
-#### Major Concepts:
-1. **Three Strikes Theory**:
-   - The concept of "three strikes" is introduced, representing three failed attempts to initiate a romantic relationship. Each strike signifies an opportunity lost due to hesitation or miscommunication.
-   - These strikes include:
-     1. An invitation to go out that was not reciprocated.
-     2. A missed chance during a Christmas gift exchange.
-     3. An invitation to a business holiday party that was initially met with uncertainty.
+2. **挑戰與失敗**：
+   - 主人公在戀愛中遭遇了三次失敗（「三 strikes」），導致他決定結束這段關係。
+   - 這些失敗包括三次邀請被拒絕和一次意外事件（鎖住公寓）。
 
-2. **Building Rapport**:
-   - Efforts were made to build rapport through professional interactions, such as conducting mini-seminars and organizing events like business parties.
-   - The use of Champagne and cookies was an attempt to create a more relaxed environment for public speaking and interaction.
+3. **情感轉折**：
+   - 在聖誕節收到禮物後，主人公用疑問是否對方感興趣。
+   - 最終，在一次特殊場合中，兩人重新連絡並解決了之前的尷尬局面。
 
-3. **Emotional Cues and Christmas Gift Exchange**:
-   - A significant moment occurred during the Christmas gift exchange when the individual received handmade chocolates, suggesting underlying feelings of affection.
-   - The "back look" (a glance over the shoulder) was interpreted as a sign of mutual interest.
+### 問題原因
+1. **溝通不暢**：
+   - 主人公多次邀請未果，可能導致對方缺乏表達 관심 的機會。
+   - 情感表達的雙方存在障礙，使關係陷入僵局。
 
-4. **The Pine Tree Incident**:
-   - A humorous and dramatic event where keys were locked inside an apartment, leading to climbing a pine tree to retrieve them. This incident highlighted the lengths one might go to for a potential romantic opportunity.
-   - The incident also served as a bonding experience, albeit with some unintended consequences.
+2. **自信不足**：
+   - 主人公在追求初期因擔心失敗而缺乏信心，影響了進一步發展的勇氣。
 
-#### Causes of the Problem:
-1. **Miscommunication and Hesitation**:
-   - The primary issue was the lack of clear communication about mutual feelings, leading to missed opportunities.
-   - Both parties seemed hesitant to express their true emotions, creating confusion and uncertainty.
+3. **意外事件**：
+   - 锁住公寓钥匙的意外事件雖然有趣，但也增加了壓力和尷尬感，可能對關係造成短期影響。
 
-2. **Timing and Context**:
-   - The timing of interactions, particularly during professional settings and holidays, complicated the expression of personal interest.
+### 解決方法
+1. **提升自信心**：
+   - 面試後續機會時，主人公用行動證明了自己的勇氣和誠意。
+   - 認清自我價值，即使面臨失敗也能保持積極態度。
 
-#### Solutions and Health Recommendations:
-1. **Open Communication**:
-   - Establishing clear communication about feelings is crucial in resolving misunderstandings and fostering healthy relationships.
-   - Encouraging open dialogue can prevent misinterpretations and build stronger connections.
+2. **改善溝通**：
+   - 給對方表達情感的機會，避免因单方面追求而導致對方壓力。
+   - 主動與被動之間找到平衡，增進雙方的理解和信任。
 
-2. **Emotional Intelligence**:
-   - Developing emotional intelligence can help individuals recognize and respond appropriately to subtle cues, such as the "back look."
-   - Understanding non-verbal signals can enhance interpersonal interactions.
+3. **接受現實**：
+   - 當努力未果時，主人公用理智決定結束關係，而非沉溺於失敗情緒中。
+   - 接受結果，為未來騰出空間，避免浪費時間和精力。
 
-3. **Risk-Taking and Adventure**:
-   - Engaging in bold actions, like climbing a pine tree, can create memorable experiences that strengthen relationships.
-   - However, it is important to balance adventure with practicality to avoid unnecessary risks.
+### 健康建議
+1. **心理調適**：
+   - 面對戀愛失敗，需要適當時間進行自我療癒，避免陷入抑郁或過度自責。
+   - 認清自己價值，不因失敗而否定自我。
 
-4. **Professional- Personal Boundary Management**:
-   - Maintaining clear boundaries between professional and personal interactions is essential to prevent complications.
-   - Using events like business parties as opportunities for building rapport can be effective if handled appropriately.
+2. **社交技巧提升**：
+   - 學會更有效的溝通方式，增進人際互動的質量。
+   - 遊戲心看待戀愛中的挑戰，降低壓力和焦慮。
 
-#### Conclusion:
-The narrative concludes with the realization that both individuals had mutual feelings but failed to communicate them effectively. The story serves as a cautionary tale about the importance of clear communication and taking risks in relationships. The outcome suggests that when both parties are willing to put in effort, even after initial missteps, a relationship can still be salvaged.
+3. **時間管理**：
+   - 合理安排情感投資，避免因過度投入而影響其他方面的生活。
+   - 確保個人時間和空間，保持獨立性和自我成長。
 
-In summary, the article highlights the complexities of navigating romantic interests within professional settings and underscores the significance of communication, emotional awareness, and taking calculated risks in fostering meaningful connections.
+### 結論
+- 雖然戀愛過程充滿挑戰，但正確處理失敗和挫折能幫助我們成長。
+- 感情需要雙方的努力與配合，單方面的追求最終可能無法帶來滿意的結果。
+- 學會接受現實，並為未來的機會做好准備，是成熟面對感情的重要態度。
 </details>
 
 <details>
@@ -1015,74 +1406,63 @@ In summary, the article highlights the complexities of navigating romantic inter
         alt="[Youtube]" width="200">
 </a>
 
-### Key Points of the Article
+### 文章重點整理
 
-#### Core Theme  
-The article discusses the confusion surrounding macronutrient percentages (carbohydrates, proteins, and fats) in a ketogenic diet combined with intermittent fasting. The author aims to clarify the complexities and provide practical solutions for adhering to this dietary plan.
-
----
-
-#### Major Concepts  
-1. **Macronutrient Percentages**  
-   - Traditional ketogenic diet: 5% carbohydrates, 20% protein, 75% fat.  
-   - Intermittent fasting complicates these percentages due to changes in meal frequency and nutrient retention.
-
-2. **Meal Frequency and Caloric Intake**  
-   - Three meals a day: ~1,800 calories.  
-   - Two meals a day: ~1,500 calories.  
-   - One meal a day: ~1,200 calories.  
-   - Reduction in meal frequency affects nutrient retention and caloric intake.
-
-3. **Non-Starchy Vegetables**  
-   - Leafy greens, broccoli, kale, etc., are included in carb counts (~5% total).  
-   - Ten cups of vegetables per day are recommended for three meals, adjusted to eight cups for two meals and six cups for one meal.
-
-4. **Protein Intake**  
-   - Protein percentage remains constant (~20%).  
-   - Grams of protein vary with meal frequency: 75g for two meals, 90g for one meal.
-
-5. **Fat Intake**  
-   - Fat grams adjust based on caloric needs and body fat utilization.  
-   - Example: 140g for three meals, 113g for two meals, 86g for one meal.
+#### 核心主題  
+本文主要探討在酮egenic（生酮飲食）與intermittent fasting（間歇性禁食）計劃中宏量營養素（碳水化合物、蛋白質和脂肪）的計算及其常見混淆點。
 
 ---
 
-#### Causes of Confusion  
-- Variability in macronutrient percentages due to changes in meal frequency.  
-- Difficulty in tracking precise grams of protein and fat.  
-- Lack of clear guidelines on adjusting nutrient intake during intermittent fasting.
+#### 主要觀念  
+1. **宏量營養素的定義**：  
+   宏量營養素是指飲食中碳水化合物、蛋白質和脂肪的百分比，用以衡量飲食結構的合理性。
+
+2. **酮egenic飲食的基本原則**：  
+   通常建議的宏量營養素比例為5%碳水化合物、20%蛋白質和75%脂肪。然而，間歇性禁食的加入會進一步影響這些比例。
+
+3. **間歇性禁食的影響**：  
+   禁食時間的延長（從三餐到一餐）會導致飲食頻率降低，在宏量營養素計算上增加了 complexity。  
 
 ---
 
-#### Solutions  
-1. **Macronutrient Calculator**  
-   - A tool is being developed to help users input their meals and receive feedback on macronutrient balance.  
+#### 問題原因  
+1. **飲食頻率對宏量營養素比例的影響**：  
+   隨著禁食時間的增加，每日攝入的食物總量相對減少，這會導致碳水化合物、蛋白質和脂肪的实际攝取量發生變化。  
 
-2. **Pre-made Meal Plans**  
-   - Available on the author’s website, these plans simplify meal preparation and ensure nutrient consistency.
+2. **碳水化合物的混淆**：  
+   碳水化合物的攝取量通常建議控制在30克以下（理想為20克），但飲食頻率的改變可能使人們誤判其每日攝取量。
 
----
+3. **蛋白質攝取量的變化**：  
+   蛋白質的百分比保持不變，但隨著餐次的減少，每餐所需的蛋白質量可能需要增加。
 
-#### Health Recommendations  
-- Maintain carbohydrate intake below 30g per day (ideally 20g).  
-- Focus on protein portions based on meal frequency to meet daily requirements.  
-- Adjust fat intake according to caloric needs and body adaptation to fasting.  
-- Use non-starchy vegetables to fill nutritional gaps without exceeding carb limits.
+4. **脂肪攝取量的不確定性**：  
+   脂肪的攝取量因人而異，需根據個人情況靈活調整，避免過度飽食或不足。
 
 ---
 
-#### Conclusion  
-The article emphasizes that while the combination of a ketogenic diet and intermittent fasting can be complex, practical tools and resources are available to simplify adherence. By focusing on key macronutrient targets and utilizing provided resources, individuals can successfully implement this dietary approach.
+#### 解決方法  
+1. **使用計算器工具**：  
+   建議開發專用的宏量營養素計算器，幫助用戶輸入每日飲食並獲得反饋，從而更精準地控制宏量營養素比例。  
+
+2. **參考現有Meal Plan（餐計劃）**：  
+   文章作者已提供詳細的飲食計劃，用戶可直接跟隨以避免混淆。
 
 ---
 
-### Summary in Academic Terms (Chinese)  
-本文探讨了结合间歇性断食的生酮饮食中碳水化合物、蛋白质和脂肪的百分比所引发的混淆。作者旨在澄清这些复杂性，并提供实用的解决方案以帮助人们坚持这种饮食计划。文章指出，由于餐次频率的变化，营养素的百分比会有所调整，导致人们在计算和跟踪摄入量时感到困惑。为了解决这一问题，作者提出了开发 Macronutrient Calculator 和提供预设的餐单计划作为辅助工具。此外，文章建议读者关注每日碳水化合物、蛋白质和脂肪的摄入目标，并利用提供的资源来简化饮食规划。最后，结论强调通过实用工具和资源，人们可以成功地遵循这种饮食方式。
+#### 健康建議  
+1. **碳水化合物攝取控制**：  
+   確保每日碳水化合物攝取量不超過30克（理想為20克），無論是三餐還是禁食情況下。  
+
+2. **蛋白質攝取均衡**：  
+   根據飲食頻率調整每餐的蛋白質量，例如在間歇性禁食的情況下，增加每餐的蛋白質量以維持每日攝取目標。
+
+3. **脂肪攝取靈活調適**：  
+   適量攝取脂肪，根據個人飽腹感和宏量營養素需求進行調整。  
 
 ---
 
-### Summary in Academic Terms (English)  
-The article explores the confusion surrounding macronutrient percentages (carbohydrates, proteins, and fats) in a ketogenic diet combined with intermittent fasting. The author aims to clarify these complexities and provide practical solutions for adhering to this dietary plan. It highlights that changes in meal frequency lead to adjustments in nutrient retention and intake, causing confusion in tracking macronutrient balance. To address this, the article proposes developing a Macronutrient Calculator and providing pre-made meal plans as auxiliary tools. Additionally, it recommends focusing on daily carbohydrate, protein, and fat intake targets while utilizing available resources to simplify dietary planning. The conclusion emphasizes that with practical tools and resources, individuals can successfully follow this dietary approach.
+#### 結論  
+文中強調了酮egenic飲食與間歇性禁食在宏量營養素計算上的 complexity，並提出了具體的解決方案，如使用計算器工具和跟隨現有餐計劃，以幫助用戶更好地實現飲食目標。
 </details>
 
 <details>
