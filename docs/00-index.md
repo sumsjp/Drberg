@@ -1,38 +1,143 @@
 <details>
-<summary>100. Fast Weight Loss Success Story</summary><br>
+<summary>100. [2012-07-11] Fast Weight Loss Success Story</summary><br>
 
 <a href="https://www.youtube.com/watch?v=UrJW9dCxVhU" target="_blank">
-    <img src="https://img.youtube.com/vi/UrJW9dCxVhU/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/UrJW9dCxVhU/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
+I. 核心主題  
+- 受訪者分享了自己因擔心腹部脂肪而來到某個地方（可能是健康或減肥機構）的经历。  
+- 强調了通過改變飲食習慣和生活方式後取得的顯著成果，包括體重 loss 和身體不適的改善。  
 
+II. 主要觀念  
+- 腹部脂肪的問題是受訪者最初來的原因，且傳統方法未能有效解決。  
+- 通过調整飲食結構和健康的生活方式，受訪者成功減少了16公斤PBS（可能指體重）。  
+- 受訪者對新的飲食習慣感到滿意，享受烹調過程並樂於看到成果。  
+
+III. 問題原因  
+- 雖然受訪者致力於解決腹部脂肪問題，但傳統方法未能帶來明顯效果。  
+- 之前的飲食和生活方式可能缺乏針對性或科學依據，導致未能有效減肥。  
+- 受訪者報告有髋部疼痛，可能是由於體重過重或其他健康問題引起。  
+
+IV. 解決方法  
+- 改變飲食結構：受訪者採用了與之前完全不同的飲食方式，並表示享受該過程。  
+- 健康的生活方式：通過新的飲食和運動習慣，受訪者不僅減肥，還改善了髋部疼痛問題。  
+
+V. 健康建議  
+- 鼓勵採取科學的飲食計劃以有效管理體重和脂肪。  
+- 確保飲食調整後的食物既健康又美味，以維持長期的依從性。  
+- 注意身體症狀，如疼痛，可能是健康問題的信號，及時尋求解決方案。  
+
+VI. 結論  
+- 改變飲食和生活方式可以有效改善體重和整體健康狀況。  
+- 受訪者對自己取得的成果感到滿意，並對新的生活方式感到樂觀。
 </details>
 
 <details>
-<summary>99. Crohns Disease Success</summary><br>
+<summary>99. [2012-07-11] Crohns Disease Success</summary><br>
 
 <a href="https://www.youtube.com/watch?v=703oYuzXZNo" target="_blank">
-    <img src="https://img.youtube.com/vi/703oYuzXZNo/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/703oYuzXZNo/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
+### 核心主題
+- **慢性炎症性腸病（IBD）**：主要包括克羅恩氏症（Crohn's disease）和 ulcerative colitis。
+- **飲食對腸道健康的影响**：特別是在炎症性腸病患者中，飲食調整對於 symptom management 和疾病 remission 的重要性。
 
+### 主要觀念
+1. 長期的消化系統問題最終被診斷為慢性炎症性腸病。
+2. 炎症性腸病導致患者無法攝取某些食物（如水果、蔬菜和堅果）。
+3. 通過特定飲食調整，患者的消化系統逐漸恢復平衡。
+4. 飲食改善後，患者能夠重新攝取之前不能食用的食物。
+
+### 問題原因
+- **慢性炎症性腸病**：導致患者出現腹痛、腹泻、便秘等症狀，並影響其正常飲食。
+- **免疫系統失衡**：引發持續的 inflammation 和消化道功能紊亂。
+- **營養攝取不足**：由於避免某些食物，患者可能面臨營養不均勻的問題。
+
+### 解決方法
+1. **飲食調整**：
+   - 遵循醫生或營養師建議的特殊飲食計劃。
+   - 減少刺激性食物的攝取，如高fiber食物、乳制品等。
+2. **藥物治療**：
+   - 使用免疫抑制劑、抗炎藥物等來控制炎症和症狀。
+3. **定期監測**：
+   - 定期復查和評估病情變化，根據情況調整飲食和藥物。
+
+### 健康建議
+1. **均衡飲食**：
+   - 選擇易消化、低fiber的食物，逐步恢復對水果、蔬菜和堅果的攝取。
+2. **避免刺激性食物**：
+   - 避免辛辣、油膩、高鹽等可能加重症狀的食物。
+3. **保持良好的飲食習慣**：
+   - 定時進餐，少量多餐，避免暴饮暴食。
+4. **心理調適**：
+   - 保持積極樂觀的態度，減輕壓力對免疫系統和腸道健康的影响。
+
+### 結論
+- 飲食調整在慢性炎症性腸病的管理中扮演重要角色。
+- 患者應該在專業醫療人員的指導下制定個化化的飲食計劃。
+- 隨著病情的好轉，患者可以逐步減少對藥物的依賴，實現更自然的生活方式。
 </details>
 
 <details>
-<summary>98. Dr. Berg’s Healthy Diet Success Story: Potassium Rich Foods</summary><br>
+<summary>98. [2012-07-11] Dr. Berg’s Healthy Diet Success Story: Potassium Rich Foods</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kOcBB3OWPpY" target="_blank">
-    <img src="https://img.youtube.com/vi/kOcBB3OWPpY/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/kOcBB3OWPpY/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
+### Key Themes and Findings from the Article
 
+#### Core Theme
+- The individual's struggle with weight management over the past seven to eight years, characterized by difficulty maintaining weight loss.
+
+#### Major Concepts
+1. **Challenges in Weight Loss**: 
+   - Frequent fluctuations where losing one pound results in gaining two pounds.
+   - Historical difficulty adhering to traditional diets due to complexity and lack of sustainability.
+
+2. **Adoption of Dr. Bur's Diet**:
+   - The diet was perceived as easy to follow, contrary to initial expectations.
+   - Significant weight loss (7 lbs or potentially more) achieved in three weeks.
+
+3. **Dietary Preferences and Constraints**:
+   - Focus on vegetarianism and starch-based diet.
+   - Traditional diets often emphasize protein intake, which can be challenging for vegetarians.
+   - Difficulty in maintaining energy levels due to the lack of focus on carbohydrates.
+
+#### Root Causes
+- Inability to sustain weight loss due to ineffective traditional dietary approaches.
+- Lack of emphasis on potassium-rich foods, which are essential for energy and health.
+
+#### Solutions Implemented
+- Adoption of Dr. Bur's diet, which provided a more sustainable approach to weight management.
+- Incorporation of potassium-rich foods to maintain energy levels and improve overall health.
+
+#### Health Recommendations
+1. **Balanced Nutrition**:
+   - Emphasize the importance of carbohydrates for vegetarians to sustain energy levels.
+   - Include potassium-rich foods in the diet to support health and reduce fatigue.
+
+2. **Sustainable Weight Management**:
+   - Focus on dietary plans that align with individual preferences and constraints (e.g., vegetarianism).
+   - Prioritize health over mere weight loss to ensure long-term sustainability.
+
+#### Conclusion
+- Dr. Bur's diet proved effective in addressing the challenges of weight management, particularly for individuals with specific dietary needs.
+- The integration of potassium-rich foods was instrumental in maintaining energy levels and adherence to the diet.
+- A focus on overall health rather than just weight loss is crucial for sustainable results.
 </details>
 
 <details>
 <summary>97. Stabilizing Exercises  for Low Back & Pelvis</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DKnAb8bIUcY" target="_blank">
-    <img src="https://img.youtube.com/vi/DKnAb8bIUcY/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/DKnAb8bIUcY/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 
@@ -42,17 +147,67 @@
 <summary>96. [2012-06-25] Dr. Berg's Office Quick Tour</summary><br>
 
 <a href="https://www.youtube.com/watch?v=GXirii-9ySo" target="_blank">
-    <img src="https://img.youtube.com/vi/GXirii-9ySo/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/GXirii-9ySo/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
+### 核心主題  
+- 健康與 Wellness 中心的介紹與功能概述  
+- 為患者提供多種健康相關服務，包括診斷、治療和康復訓練  
 
+---
+
+### 主要觀念  
+1. **中心設施**  
+   - 配備等待室、診療室、小型キッチン（廚房）、治療室及康復設備。  
+2. **服務項目**  
+   - 中醫師療：針灸、按摩等。  
+   - 運動建議與訓練。  
+   - 营養諮詢。  
+   - 病理檢測：尿液分析等。  
+3. **科技應用**  
+   - 使用德國進口的尿液快速檢測儀器，可在一分鐘內提供詳細數據。  
+4. **康復設備**  
+   - 提供岩床（rocker）等放松裝置，幫助患者放鬆身心。  
+
+---
+
+### 問題原因  
+- 傳統醫療中常見的等待時間問題。  
+- 市場上多數健康計劃未考慮個人身體差異，導致效果不佳。  
+
+---
+
+### 解決方法  
+1. **提高效率**  
+   - 使用科技手段加快檢測速度（如尿液快速分析儀）。  
+2. **個化化治療**  
+   - 根據患者體型和需求制定不同的飲食、運動計劃。  
+3. **綜合康復**  
+   - 通過按摩、岩床等多種方式降低壓力，改善身體狀況。  
+
+---
+
+### 健康建議  
+1. **健康生活方式**  
+   - 適當運動，避免過度訓練。  
+2. **飲食管理**  
+   - 根據個人體型選擇合適的飲食計劃。  
+3. **定期檢查**  
+   - 通過定期檢測了解身體狀況，及時調整健康策略。  
+
+---
+
+### 總結  
+健康與 Wellness 中心旨在提供全方位的健康管理服務，涵蓋診斷、治療和康復訓練。中心強調個化化治療理念，利用科技手段提高效率，並通過多種方式幫助患者降低壓力、改善體質，實現整體健康目標。
 </details>
 
 <details>
 <summary>95. [2012-06-25] What to do for a Tailbone Injury - for Low Back Pain</summary><br>
 
 <a href="https://www.youtube.com/watch?v=722_8kxeg5A" target="_blank">
-    <img src="https://img.youtube.com/vi/722_8kxeg5A/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/722_8kxeg5A/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題  
@@ -99,7 +254,8 @@
 <summary>94. [2012-06-12] Fat Burning Candy Bar</summary><br>
 
 <a href="https://www.youtube.com/watch?v=gJNnSODgpj0" target="_blank">
-    <img src="https://img.youtube.com/vi/gJNnSODgpj0/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/gJNnSODgpj0/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 # 文章整理： deprivation dieting 與代糖甜點替代方案
@@ -140,7 +296,8 @@
 <summary>93. [2012-05-16] Enhanced Waters are Really Sugar Water</summary><br>
 
 <a href="https://www.youtube.com/watch?v=IHfiEXMgZ_4" target="_blank">
-    <img src="https://img.youtube.com/vi/IHfiEXMgZ_4/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/IHfiEXMgZ_4/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題：飲料中的糖分與營養成分分析及其健康影響
@@ -194,7 +351,8 @@
 <summary>92. [2012-05-07] Do Not Eat Eggs, Unless You Watch This</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hC3D_eeULLU" target="_blank">
-    <img src="https://img.youtube.com/vi/hC3D_eeULLU/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/hC3D_eeULLU/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### Key Themes and Points from the Article
@@ -233,7 +391,8 @@
 <summary>91. [2012-04-18] Try This Weight Loss Shake</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fKjqBZdf3RQ" target="_blank">
-    <img src="https://img.youtube.com/vi/fKjqBZdf3RQ/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/fKjqBZdf3RQ/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 小節結構化整理
@@ -271,7 +430,8 @@
 <summary>90. [2012-04-18] The 2 Types of Exercise for Belly Fat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=1URgrSjgQTY" target="_blank">
-    <img src="https://img.youtube.com/vi/1URgrSjgQTY/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/1URgrSjgQTY/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 文章整理：運動強度與脂肪燃燒的原理
@@ -352,7 +512,8 @@ In conclusion, the choice between high-intensity and low-intensity exercise shou
 <summary>89. [2012-04-18] No More Problems with Sleeping</summary><br>
 
 <a href="https://www.youtube.com/watch?v=6K3oJW26D58" target="_blank">
-    <img src="https://img.youtube.com/vi/6K3oJW26D58/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/6K3oJW26D58/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題  
@@ -392,7 +553,8 @@ In conclusion, the choice between high-intensity and low-intensity exercise shou
 <summary>88. [2012-04-18] Kale Smoothies Recipes</summary><br>
 
 <a href="https://www.youtube.com/watch?v=CIZ3ake2ZBo" target="_blank">
-    <img src="https://img.youtube.com/vi/CIZ3ake2ZBo/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/CIZ3ake2ZBo/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題： kale Shake 的製作與健康益處
@@ -448,7 +610,8 @@ In conclusion, the choice between high-intensity and low-intensity exercise shou
 <summary>87. [2012-04-18] How Not to Become a Procrastinator</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hTqDCao_Caw" target="_blank">
-    <img src="https://img.youtube.com/vi/hTqDCao_Caw/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/hTqDCao_Caw/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 小節一：核心主題  
@@ -505,7 +668,8 @@ In conclusion, the choice between high-intensity and low-intensity exercise shou
 <summary>86. [2012-04-18] Getting the Right Diet for Your Body Type</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Gb5Mztmx-U0" target="_blank">
-    <img src="https://img.youtube.com/vi/Gb5Mztmx-U0/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/Gb5Mztmx-U0/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題
@@ -542,7 +706,8 @@ In conclusion, the choice between high-intensity and low-intensity exercise shou
 <summary>85. [2012-04-18] A Great Tool for Stress Relief</summary><br>
 
 <a href="https://www.youtube.com/watch?v=41HnMrqZAmU" target="_blank">
-    <img src="https://img.youtube.com/vi/41HnMrqZAmU/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/41HnMrqZAmU/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題  
@@ -587,7 +752,8 @@ In conclusion, the choice between high-intensity and low-intensity exercise shou
 <summary>84. [2012-04-14] The Best and Worst Type of Calcium</summary><br>
 
 <a href="https://www.youtube.com/watch?v=s5h3VoMQt9g" target="_blank">
-    <img src="https://img.youtube.com/vi/s5h3VoMQt9g/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/s5h3VoMQt9g/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 小節歸納
@@ -662,7 +828,8 @@ In conclusion, the choice between high-intensity and low-intensity exercise shou
 <summary>83. [2012-04-14] Cheryl Jackson Radio Interview on 104.1 Talking about the Adrenal</summary><br>
 
 <a href="https://www.youtube.com/watch?v=V6Zy00bU5Bo" target="_blank">
-    <img src="https://img.youtube.com/vi/V6Zy00bU5Bo/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/V6Zy00bU5Bo/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題
@@ -724,7 +891,8 @@ In conclusion, the choice between high-intensity and low-intensity exercise shou
 <summary>82. [2012-04-14] The Best and Worst Vitamin C</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DnvnKnu7YBI" target="_blank">
-    <img src="https://img.youtube.com/vi/DnvnKnu7YBI/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/DnvnKnu7YBI/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 文章整理：vitamin C 的重要性與合理攝取
@@ -789,7 +957,8 @@ In conclusion, the choice between high-intensity and low-intensity exercise shou
 <summary>81. [2012-04-14] Make Your Own Weight Loss Drink</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HNNk31aGaYo" target="_blank">
-    <img src="https://img.youtube.com/vi/HNNk31aGaYo/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/HNNk31aGaYo/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 文章整理解讀
@@ -826,7 +995,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>80. [2012-04-14] How to Stop Cravings for Sugar</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fGT5cISbXa4" target="_blank">
-    <img src="https://img.youtube.com/vi/fGT5cISbXa4/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/fGT5cISbXa4/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 全文要旨  
@@ -875,7 +1045,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>79. [2012-04-14] Reverse Sit-ups for Belly Fat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vjHYuEj43fg" target="_blank">
-    <img src="https://img.youtube.com/vi/vjHYuEj43fg/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/vjHYuEj43fg/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題  
@@ -922,7 +1093,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>78. [2012-04-04] The Ultimate Exercise for Posture</summary><br>
 
 <a href="https://www.youtube.com/watch?v=LRxN-30oJx8" target="_blank">
-    <img src="https://img.youtube.com/vi/LRxN-30oJx8/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/LRxN-30oJx8/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 文章整理：改善姿勢的方法
@@ -978,7 +1150,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>77. [2012-04-04] The Best Weight Loss Meal Replacement Shake Ingredients</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8Ray80ec9mk" target="_blank">
-    <img src="https://img.youtube.com/vi/8Ray80ec9mk/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/8Ray80ec9mk/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 文章重點整理
@@ -1028,7 +1201,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>76. [2012-04-04] Why am I Bloated?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=M9Isr1ON3lE" target="_blank">
-    <img src="https://img.youtube.com/vi/M9Isr1ON3lE/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/M9Isr1ON3lE/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 文章整理：核心主題  
@@ -1090,7 +1264,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>75. [2012-04-04] Foods that Burn Fat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vadPxKRGm7k" target="_blank">
-    <img src="https://img.youtube.com/vi/vadPxKRGm7k/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/vadPxKRGm7k/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 文章重點整理
@@ -1164,7 +1339,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>74. [2012-04-04] The Drink More Water Myth</summary><br>
 
 <a href="https://www.youtube.com/watch?v=MQsDeZNlk4c" target="_blank">
-    <img src="https://img.youtube.com/vi/MQsDeZNlk4c/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/MQsDeZNlk4c/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題  
@@ -1224,7 +1400,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>73. [2011-12-12] Successes from The 7 Principles of Fat Burning</summary><br>
 
 <a href="https://www.youtube.com/watch?v=WvO6N9vlmCo" target="_blank">
-    <img src="https://img.youtube.com/vi/WvO6N9vlmCo/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/WvO6N9vlmCo/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 小節歸納：
@@ -1274,7 +1451,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>72. [2011-11-30] A Great Diet Success</summary><br>
 
 <a href="https://www.youtube.com/watch?v=p7KMpyQ7x9k" target="_blank">
-    <img src="https://img.youtube.com/vi/p7KMpyQ7x9k/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/p7KMpyQ7x9k/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 小節結構
@@ -1312,7 +1490,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>71. [2011-11-30] The Healthiest Diet Explained By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=eRjBkoFy9IA" target="_blank">
-    <img src="https://img.youtube.com/vi/eRjBkoFy9IA/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/eRjBkoFy9IA/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題：健康與營養管理的重要性
@@ -1356,7 +1535,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>70. [2011-11-30] Get Rid of Cravings at Night</summary><br>
 
 <a href="https://www.youtube.com/watch?v=EsGvIsqGFpU" target="_blank">
-    <img src="https://img.youtube.com/vi/EsGvIsqGFpU/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/EsGvIsqGFpU/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 # 關於夜間渴望甜食的飲食建議
@@ -1393,7 +1573,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>69. [2011-11-29] The HCG Diet - Reviews</summary><br>
 
 <a href="https://www.youtube.com/watch?v=giPkBbm52CM" target="_blank">
-    <img src="https://img.youtube.com/vi/giPkBbm52CM/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/giPkBbm52CM/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 小節整理
@@ -1432,7 +1613,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>68. [2011-11-29] Improved Breathing, Better Sleep and More Energy</summary><br>
 
 <a href="https://www.youtube.com/watch?v=-LfNqA61-aU" target="_blank">
-    <img src="https://img.youtube.com/vi/-LfNqA61-aU/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/-LfNqA61-aU/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題
@@ -1480,7 +1662,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>67. [2011-11-29] Overcoming Temptation and Help with Weight Loss!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=v-qINKfAm7U" target="_blank">
-    <img src="https://img.youtube.com/vi/v-qINKfAm7U/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/v-qINKfAm7U/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 # 文章重點整理
@@ -1539,7 +1722,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>66. [2011-11-29] How to Rid Stretch Marks</summary><br>
 
 <a href="https://www.youtube.com/watch?v=UUV7CRT8lbE" target="_blank">
-    <img src="https://img.youtube.com/vi/UUV7CRT8lbE/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/UUV7CRT8lbE/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 # 文章整理：消除妊娠紋的方法
@@ -1603,7 +1787,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>65. [2011-11-29] Diet Plan Success</summary><br>
 
 <a href="https://www.youtube.com/watch?v=gc4P7uhZCK8" target="_blank">
-    <img src="https://img.youtube.com/vi/gc4P7uhZCK8/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/gc4P7uhZCK8/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題
@@ -1665,7 +1850,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>64. [2011-11-29] The 600 pound guy</summary><br>
 
 <a href="https://www.youtube.com/watch?v=k6-Tkv_Jnz0" target="_blank">
-    <img src="https://img.youtube.com/vi/k6-Tkv_Jnz0/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/k6-Tkv_Jnz0/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 小節歸納
@@ -1699,7 +1885,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>63. [2011-11-29] Dr. Berg's follow up to his shoulder fracture</summary><br>
 
 <a href="https://www.youtube.com/watch?v=x9espCyDUp8" target="_blank">
-    <img src="https://img.youtube.com/vi/x9espCyDUp8/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/x9espCyDUp8/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題
@@ -1737,7 +1924,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>62. [2011-11-29] Dr. Berg Explains His Pain After Surgery</summary><br>
 
 <a href="https://www.youtube.com/watch?v=TTqsVzse5HY" target="_blank">
-    <img src="https://img.youtube.com/vi/TTqsVzse5HY/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/TTqsVzse5HY/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題  
@@ -1780,7 +1968,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>61. [2011-11-29] What are Phytonutrients?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=NqOpIj_XXFU" target="_blank">
-    <img src="https://img.youtube.com/vi/NqOpIj_XXFU/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/NqOpIj_XXFU/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 文章重點整理
@@ -1888,7 +2077,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>60. Understanding Body Types</summary><br>
 
 <a href="https://www.youtube.com/watch?v=sINOePVcD3I" target="_blank">
-    <img src="https://img.youtube.com/vi/sINOePVcD3I/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/sINOePVcD3I/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 
@@ -1898,7 +2088,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>59. [2011-11-29] What are Carbohydrates?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=krwKqnmidC8" target="_blank">
-    <img src="https://img.youtube.com/vi/krwKqnmidC8/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/krwKqnmidC8/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 文章整理： grains 的營養與健康影響
@@ -1952,7 +2143,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>58. [2011-11-29] How Sugar Effects Your Body</summary><br>
 
 <a href="https://www.youtube.com/watch?v=A7MsLHlDEDc" target="_blank">
-    <img src="https://img.youtube.com/vi/A7MsLHlDEDc/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/A7MsLHlDEDc/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 文章整理與歸納
@@ -1997,7 +2189,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>57. [2011-11-29] The Importance of Sleep and Weight Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=wr82y-dGoTg" target="_blank">
-    <img src="https://img.youtube.com/vi/wr82y-dGoTg/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/wr82y-dGoTg/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 文章整理
@@ -2051,7 +2244,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>56. [2011-11-29] Dr. Berg Discusses Liver Cleansing Food on News Channel 8 Sports Talk Dr. Eric Berg 2</summary><br>
 
 <a href="https://www.youtube.com/watch?v=FTZcZz1ESII" target="_blank">
-    <img src="https://img.youtube.com/vi/FTZcZz1ESII/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/FTZcZz1ESII/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 文章整理：健康飲食與體重管理的核心要素
@@ -2125,7 +2319,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>55. [2011-11-29] A Better Way to Track Weight Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=W_EHiOd8yHQ" target="_blank">
-    <img src="https://img.youtube.com/vi/W_EHiOd8yHQ/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/W_EHiOd8yHQ/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 文章重點整理
@@ -2165,7 +2360,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>54. [2011-11-29] Dr. Eric Berg, Gets Success with Weight Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HhLJz1-SAhw" target="_blank">
-    <img src="https://img.youtube.com/vi/HhLJz1-SAhw/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/HhLJz1-SAhw/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題
@@ -2198,7 +2394,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>53. [2011-11-29] Dr  Eric Berg, Seminar testimonial</summary><br>
 
 <a href="https://www.youtube.com/watch?v=0rh0qiyPxdY" target="_blank">
-    <img src="https://img.youtube.com/vi/0rh0qiyPxdY/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/0rh0qiyPxdY/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題  
@@ -2234,7 +2431,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>52. [2011-11-29] Dr. Eric Berg, Seminar Success with Losing Weight</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fCHw_dW7oH4" target="_blank">
-    <img src="https://img.youtube.com/vi/fCHw_dW7oH4/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/fCHw_dW7oH4/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題  
@@ -2265,7 +2463,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>51. [2011-11-29] Dr  Eric Berg, Seminar testimonial</summary><br>
 
 <a href="https://www.youtube.com/watch?v=lZnVLG-nLTE" target="_blank">
-    <img src="https://img.youtube.com/vi/lZnVLG-nLTE/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/lZnVLG-nLTE/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題  
@@ -2292,7 +2491,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>50. [2011-11-29] A Great Weight Loss Success</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_jV90HZceus" target="_blank">
-    <img src="https://img.youtube.com/vi/_jV90HZceus/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/_jV90HZceus/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題
@@ -2329,7 +2529,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>49. [2011-11-29] Register for Dr. Berg's Seminar</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8SixpXSS6Bw" target="_blank">
-    <img src="https://img.youtube.com/vi/8SixpXSS6Bw/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/8SixpXSS6Bw/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題
@@ -2375,7 +2576,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>48. [2011-11-29] Dr  Eric Berg, Seminar testimonial</summary><br>
 
 <a href="https://www.youtube.com/watch?v=rOd4QNwDTv4" target="_blank">
-    <img src="https://img.youtube.com/vi/rOd4QNwDTv4/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/rOd4QNwDTv4/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 小節整理
@@ -2401,7 +2603,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>47. [2011-11-29] Dr Berg's Patient Speak About Their Success</summary><br>
 
 <a href="https://www.youtube.com/watch?v=YF00ySD6nKE" target="_blank">
-    <img src="https://img.youtube.com/vi/YF00ySD6nKE/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/YF00ySD6nKE/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題  
@@ -2441,7 +2644,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>46. [2011-11-27] Using Acupressure for Headaches</summary><br>
 
 <a href="https://www.youtube.com/watch?v=919B_Ey0fuU" target="_blank">
-    <img src="https://img.youtube.com/vi/919B_Ey0fuU/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/919B_Ey0fuU/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 文章重點整理
@@ -2492,7 +2696,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>45. [2011-11-27] Stretches for Back Pain</summary><br>
 
 <a href="https://www.youtube.com/watch?v=SuRyHA2wQc8" target="_blank">
-    <img src="https://img.youtube.com/vi/SuRyHA2wQc8/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/SuRyHA2wQc8/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 小節：低背部伸展的重要性
@@ -2532,7 +2737,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>44. [2011-11-27] Interesting Success Story</summary><br>
 
 <a href="https://www.youtube.com/watch?v=FckvKNAi44U" target="_blank">
-    <img src="https://img.youtube.com/vi/FckvKNAi44U/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/FckvKNAi44U/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 小節歸納
@@ -2567,7 +2773,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>43. [2011-11-27] Anxiety Relief Success</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Sggj4HgaoO0" target="_blank">
-    <img src="https://img.youtube.com/vi/Sggj4HgaoO0/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/Sggj4HgaoO0/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題  
@@ -2603,7 +2810,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>42. [2011-11-27] The Best and Worst Weight Loss Diets</summary><br>
 
 <a href="https://www.youtube.com/watch?v=yhxWd2jveT8" target="_blank">
-    <img src="https://img.youtube.com/vi/yhxWd2jveT8/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/yhxWd2jveT8/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 小節化整理
@@ -2653,7 +2861,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>41. [2011-11-27] 90 Year Old - Amazing Story</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ZBpNtVSmTN4" target="_blank">
-    <img src="https://img.youtube.com/vi/ZBpNtVSmTN4/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/ZBpNtVSmTN4/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 小節一：核心主題  
@@ -2708,7 +2917,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>40. [2011-11-27] Dr. Eric Berg, Seminar testimonial</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hzYhdetIiHg" target="_blank">
-    <img src="https://img.youtube.com/vi/hzYhdetIiHg/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/hzYhdetIiHg/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題
@@ -2736,7 +2946,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>39. Dr. Berg on Sport's Talk</summary><br>
 
 <a href="https://www.youtube.com/watch?v=s3HfT4yI76A" target="_blank">
-    <img src="https://img.youtube.com/vi/s3HfT4yI76A/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/s3HfT4yI76A/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 
@@ -2746,7 +2957,8 @@ You know, out of all the things that people tell me, probably the biggest confus
 <summary>38. [2011-11-27] The Hidden Source Belly Fat: MSG Monosodium Glutamate</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KkBWi3G9qM0" target="_blank">
-    <img src="https://img.youtube.com/vi/KkBWi3G9qM0/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/KkBWi3G9qM0/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題  
@@ -2791,7 +3003,8 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>37. [2011-11-27] Dr. Berg Grows Kale in His Basement (Part 2)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8JJm4HRq8Oo" target="_blank">
-    <img src="https://img.youtube.com/vi/8JJm4HRq8Oo/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/8JJm4HRq8Oo/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 文章整理：水耕法及其營養價值探討與健康飲品介紹
@@ -2860,7 +3073,8 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>36. [2011-11-27] Dr. Berg Grows Cruciferous Vegetables in his Basement (Part 1)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=qKSlhns1xmg" target="_blank">
-    <img src="https://img.youtube.com/vi/qKSlhns1xmg/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/qKSlhns1xmg/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題
@@ -2909,7 +3123,8 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>35. [2011-06-07] The Best Fat Burning Exercise</summary><br>
 
 <a href="https://www.youtube.com/watch?v=E_AvZcJ9IV4" target="_blank">
-    <img src="https://img.youtube.com/vi/E_AvZcJ9IV4/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/E_AvZcJ9IV4/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 文章重點整理
@@ -2954,7 +3169,8 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>34. [2011-01-06] Dr. Berg's Body Types</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HS0Bm5oB8YI" target="_blank">
-    <img src="https://img.youtube.com/vi/HS0Bm5oB8YI/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/HS0Bm5oB8YI/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題  
@@ -3020,7 +3236,8 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>33. [2010-11-05] Dr Eric Berg's Review: After 2 Adrenal Acupressure Treatments</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5Q6g9e1O35s" target="_blank">
-    <img src="https://img.youtube.com/vi/5Q6g9e1O35s/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/5Q6g9e1O35s/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 文章整理與分析
@@ -3088,7 +3305,8 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>32. [2010-10-13] Get Rid of Cravings at Night</summary><br>
 
 <a href="https://www.youtube.com/watch?v=pbuCC33gKck" target="_blank">
-    <img src="https://img.youtube.com/vi/pbuCC33gKck/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/pbuCC33gKck/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題  
@@ -3148,7 +3366,8 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>31. [2010-10-13] Adrenal Burnout</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hGiN_a0rYJY" target="_blank">
-    <img src="https://img.youtube.com/vi/hGiN_a0rYJY/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/hGiN_a0rYJY/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題
@@ -3193,7 +3412,8 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>30. [2010-08-10] The Best Tip for Reducing Stress Hormones</summary><br>
 
 <a href="https://www.youtube.com/watch?v=TNUaDYqt0uA" target="_blank">
-    <img src="https://img.youtube.com/vi/TNUaDYqt0uA/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/TNUaDYqt0uA/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 小節歸納
@@ -3226,7 +3446,8 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>29. [2010-08-10] Cortisol, The Good, The Bad & The Ugly</summary><br>
 
 <a href="https://www.youtube.com/watch?v=yQ9jy2eCb5I" target="_blank">
-    <img src="https://img.youtube.com/vi/yQ9jy2eCb5I/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/yQ9jy2eCb5I/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題： adrenal function and cortisol imbalance
@@ -3302,7 +3523,8 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>28. [2010-08-10] Thyroid Body Type - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=T3eo4p2LuYw" target="_blank">
-    <img src="https://img.youtube.com/vi/T3eo4p2LuYw/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/T3eo4p2LuYw/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 小節整理
@@ -3349,7 +3571,8 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>27. [2010-08-10] Sleep, Cortisol, & Belly Fat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3GWnU_lma7w" target="_blank">
-    <img src="https://img.youtube.com/vi/3GWnU_lma7w/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/3GWnU_lma7w/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 英文版文章標題  
@@ -3416,7 +3639,8 @@ Dr. Berg
 <summary>26. [2010-08-10] How to Trigger Your Fat Burning Hormones</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Gr5QxkSm9xs" target="_blank">
-    <img src="https://img.youtube.com/vi/Gr5QxkSm9xs/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/Gr5QxkSm9xs/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題：生長激素與arginine的作用及影響
@@ -3447,7 +3671,8 @@ Dr. Berg
 <summary>25. [2010-08-10] Vitamin D Adrenals Belly Fat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kJegLw2qtPc" target="_blank">
-    <img src="https://img.youtube.com/vi/kJegLw2qtPc/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/kJegLw2qtPc/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 小節一：核心主題  
@@ -3489,7 +3714,8 @@ Dr. Berg
 <summary>24. [2010-08-05] Dr. Berg Talks about Body Types on News 9</summary><br>
 
 <a href="https://www.youtube.com/watch?v=bNnmCqGMy8Q" target="_blank">
-    <img src="https://img.youtube.com/vi/bNnmCqGMy8Q/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/bNnmCqGMy8Q/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 文章整理與分析
@@ -3539,7 +3765,8 @@ Dr. Berg
 <summary>23. [2010-08-05] How to Burn Fat I Dr. Berg on Fox and Friends I Talks About Body Types</summary><br>
 
 <a href="https://www.youtube.com/watch?v=M25xpZk5WtU" target="_blank">
-    <img src="https://img.youtube.com/vi/M25xpZk5WtU/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/M25xpZk5WtU/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 文章重點整理
@@ -3594,7 +3821,8 @@ Dr. Berg
 <summary>22. [2010-07-20] Success Story with Belly Fat Loss - Lost over 100 lbs</summary><br>
 
 <a href="https://www.youtube.com/watch?v=rC7cXuNlyR4" target="_blank">
-    <img src="https://img.youtube.com/vi/rC7cXuNlyR4/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/rC7cXuNlyR4/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心_theme  
@@ -3629,7 +3857,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>21. [2010-07-13] Fast Healthy Weight Loss - Patients Speak Their Success!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=G3AFxauJeok" target="_blank">
-    <img src="https://img.youtube.com/vi/G3AFxauJeok/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/G3AFxauJeok/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 小結整理
@@ -3671,7 +3900,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>20. [2010-06-24] Rid Craving</summary><br>
 
 <a href="https://www.youtube.com/watch?v=E7yVINKxiew" target="_blank">
-    <img src="https://img.youtube.com/vi/E7yVINKxiew/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/E7yVINKxiew/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 文章整理：抗碳水化合物 cravings 的飲食計劃
@@ -3732,7 +3962,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>19. [2010-04-24] Body Type Video</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Lk1RlIHx7F0" target="_blank">
-    <img src="https://img.youtube.com/vi/Lk1RlIHx7F0/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/Lk1RlIHx7F0/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題
@@ -3782,7 +4013,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>18. [2009-07-30] Dr. Eric Berg's Review: Patient Speak About Her Success</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Fjqtjq4WRNg" target="_blank">
-    <img src="https://img.youtube.com/vi/Fjqtjq4WRNg/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/Fjqtjq4WRNg/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題
@@ -3832,7 +4064,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>17. [2009-07-30] Dr Eric Berg's Review: No More Problems with Sleeping</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_xR5rYmSvc0" target="_blank">
-    <img src="https://img.youtube.com/vi/_xR5rYmSvc0/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/_xR5rYmSvc0/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 文章重點整理
@@ -3922,7 +4155,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>16. [2009-07-30] Dr. Berg's Example of Acupressure for Weight Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XefowjsRkDo" target="_blank">
-    <img src="https://img.youtube.com/vi/XefowjsRkDo/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/XefowjsRkDo/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題  
@@ -3954,7 +4188,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>15. [2009-07-28] Dr. Eric Berg Review: Gaining Weight after Smoking</summary><br>
 
 <a href="https://www.youtube.com/watch?v=mLk7prs2IdM" target="_blank">
-    <img src="https://img.youtube.com/vi/mLk7prs2IdM/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/mLk7prs2IdM/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題  
@@ -4001,7 +4236,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>14. Dr. Berg in the Media</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hvYEFh3em3Q" target="_blank">
-    <img src="https://img.youtube.com/vi/hvYEFh3em3Q/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/hvYEFh3em3Q/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 
@@ -4011,7 +4247,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>13. [2009-04-04] Dr. Berg Speaks at the Federal Communication Commission</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_kuQPktErD4" target="_blank">
-    <img src="https://img.youtube.com/vi/_kuQPktErD4/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/_kuQPktErD4/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 文章重點整理
@@ -4079,7 +4316,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>12. [2009-04-01] Body Shape Seminar (Part 3)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=IquS1CMFYDA" target="_blank">
-    <img src="https://img.youtube.com/vi/IquS1CMFYDA/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/IquS1CMFYDA/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 文章整理：健康與減肥之道
@@ -4146,7 +4384,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>11. [2009-04-01] Body Shape Seminar (Part 2)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=LqYD6ScfV5Y" target="_blank">
-    <img src="https://img.youtube.com/vi/LqYD6ScfV5Y/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/LqYD6ScfV5Y/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ---
@@ -4210,7 +4449,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>10. [2009-04-01] Body Shape Seminar (Part 1)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=08KUhaJrejs" target="_blank">
-    <img src="https://img.youtube.com/vi/08KUhaJrejs/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/08KUhaJrejs/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 文章重點整理
@@ -4269,7 +4509,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>9. [2009-03-31] Dr.Eric Berg @ News Channel 8 (Behind The Scenes)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=49TxVYeq4m4" target="_blank">
-    <img src="https://img.youtube.com/vi/49TxVYeq4m4/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/49TxVYeq4m4/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題
@@ -4316,7 +4557,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>8. [2009-03-21] Dr. Berg Talks about Healthy Weight Loss on News Channel 8</summary><br>
 
 <a href="https://www.youtube.com/watch?v=z_pRjz-0X7o" target="_blank">
-    <img src="https://img.youtube.com/vi/z_pRjz-0X7o/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/z_pRjz-0X7o/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 文章整理與結構化分析
@@ -4358,7 +4600,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>6. [2009-02-19] Understanding the Best Nutrients for Weight Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=nTOrG4w660c" target="_blank">
-    <img src="https://img.youtube.com/vi/nTOrG4w660c/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/nTOrG4w660c/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 小節整理：脂肪的功能與健康哲學
@@ -4396,7 +4639,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>5. [2009-02-19] Vitamins and Nutrients for Weight Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=McGFltMvSIo" target="_blank">
-    <img src="https://img.youtube.com/vi/McGFltMvSIo/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/McGFltMvSIo/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題
@@ -4447,7 +4691,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>4. [2009-02-17] Adrenal, Stress and Your Sleep</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Q5wN32_3m4o" target="_blank">
-    <img src="https://img.youtube.com/vi/Q5wN32_3m4o/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/Q5wN32_3m4o/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 核心主題
@@ -4509,7 +4754,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>3. [2009-02-17] Exercise</summary><br>
 
 <a href="https://www.youtube.com/watch?v=lgyf5KoRfzE" target="_blank">
-    <img src="https://img.youtube.com/vi/lgyf5KoRfzE/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/lgyf5KoRfzE/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 文章整理與分析
@@ -4578,7 +4824,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>2. [2009-02-17] Body Types</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XO-iyh2Z_s8" target="_blank">
-    <img src="https://img.youtube.com/vi/XO-iyh2Z_s8/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/XO-iyh2Z_s8/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 一、核心主題：身體類型分類与健康关联
@@ -4638,7 +4885,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <summary>1. [2008-12-19] Dr. Berg Works on Duane Clemons, Former NFL Player</summary><br>
 
 <a href="https://www.youtube.com/watch?v=LE8iCYYoXh4" target="_blank">
-    <img src="https://img.youtube.com/vi/LE8iCYYoXh4/maxresdefault.jpg" alt="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/LE8iCYYoXh4/maxresdefault.jpg" width="250"
+    alt="[Youtube]" onerror="this.style.display='none';">
 </a>
 
 ### 小節整理：文章重點歸納
