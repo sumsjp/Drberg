@@ -12,7 +12,6 @@ csv_file = 'video_list.csv'
 
 script_dir = os.path.dirname(os.path.abspath(__file__)) + '/../scripts/'
 summary_dir = os.path.dirname(os.path.abspath(__file__)) + '/../summary/'
-docs_dir = os.path.dirname(os.path.abspath(__file__)) + '/../docs/'
 
 def update_list():
     # === yt-dlp 參數設定 ===
@@ -161,105 +160,15 @@ def summerize_script():
     else:
         print("📌 沒有需要處理的檔案")
 
-def make_doc(filename: str, video_list: list):
-    """
-    將影片清單製作成文件
-    Args:
-        filename (str): 輸出的文件名稱
-        video_list (list): 影片資料列表
-    """
-    details_template = """<details>
-<summary>{idx}. {date}{title}</summary>
-
-[[Youtube]]({url})
-
-{summary_file}
-</details>
-
-"""
-    
-    try:
-        # 確保目標目錄存在
-        os.makedirs(os.path.dirname(filename), exist_ok=True)
-        
-        # 依 idx 由大到小排序
-        sorted_videos = sorted(video_list, key=lambda x: x['idx'], reverse=True)
-        
-        with open(filename, 'w', encoding='utf-8') as f:
-            for video in sorted_videos:
-                # 處理日期格式
-                date_str = f"[{video['date']}] " if video['date'] != 'unknown' else ""
-                
-                # 檢查是否有摘要檔案
-                summary_path = f"{summary_dir}{video['id']}.md"
-                summary_content = ""
-                if os.path.exists(summary_path):
-                    with open(summary_path, 'r', encoding='utf-8') as sf:
-                        summary_content = sf.read()
-                
-                # 填入模板
-                content = details_template.format(
-                    idx=video['idx'],
-                    date=date_str,
-                    title=video['title'],
-                    url=video['url'],
-                    summary_file=summary_content
-                )
-                
-                f.write(content)
-                
-    except Exception as e:
-        print(f"❌ 製作文件失敗 {filename}: {str(e)}")
-
-def create_doc(df):
-    """
-    從 DataFrame 中分批取出影片資料，並呼叫 make_doc 製作文件
-    每批次處理 idx 範圍內的所有資料（如1-100內的所有存在的idx）
-    檔名格式為 01-index.md, 02-index.md, ...
-    """
-    try:
-        # 取得最大的 idx
-        max_idx = df['idx'].max()
-        batch_size = 100
-        
-        # 計算需要產生幾個檔案
-        num_batches = (max_idx + batch_size - 1) // batch_size  # 向上取整
-        
-        # 處理每一批次
-        for batch_num in range(num_batches):
-            # 計算當前批次的 idx 範圍
-            start_idx = batch_num * batch_size + 1
-            end_idx = min((batch_num + 1) * batch_size, max_idx)
-            
-            # 取出符合 idx 範圍的資料
-            batch_df = df[df['idx'].between(start_idx, end_idx)]
-            
-            # 如果這個範圍有資料才處理
-            if not batch_df.empty:
-                # 產生檔名 (01-index.md, 02-index.md, ...)
-                filename = f"{docs_dir}/{batch_num:02d}-index.md"
-                
-                # 將 DataFrame 轉換成字典列表
-                video_list = batch_df.to_dict('records')
-                
-                print(f"📝 處理文件：{filename} (idx: {start_idx}-{end_idx}, 實際筆數: {len(video_list)})")
-                
-                # 呼叫 make_doc 製作文件
-                make_doc(filename, video_list)
-                
-                print(f"✅ 完成文件：{filename}")
-        
-        print(f"📌 總共產生了 {num_batches} 個文件")
-        
-    except Exception as e:
-        print(f"❌ 處理文件時發生錯誤：{str(e)}")
+def create_doc():
+    pass
 
 def email_notify():
     pass
 
 if __name__ == '__main__':
     df = update_list()
-    # download_script(df)
+    download_script(df)
     # summerize_script()
-    create_doc(df)
+    create_doc()
     email_notify()
