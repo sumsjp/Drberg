@@ -4242,113 +4242,555 @@
 </details>
 
 <details>
-<summary>3323. Get the Benefits of Vitamin D Without the Toxicity</summary><br>
+<summary>3323. [2021-02-22] Get the Benefits of Vitamin D Without the Toxicity</summary><br>
 
 <a href="https://www.youtube.com/watch?v=tQ19ysKL8Nc" target="_blank">
     <img src="https://img.youtube.com/vi/tQ19ysKL8Nc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 1. 核心主題  
+- 探讨健康与幸福生活的平衡。  
+- 强调身心靈整體健康的重要性。  
+
+#### 2. 主要觀念  
+- 健康問題：高需求的稅務、血汗工作、壓力導致的疾病（如 hypercalcemia）。  
+- 生活質量：追求工作與生活 harmony，避免過度勞累。  
+- 心理層面：情感連結、希望与夢想的重要性。  
+
+#### 3. 問題原因  
+- 工作壓力大，稅務負擔重。  
+- 長期高強度工作導致身體和心理疲憊。  
+- 社會環境的不公與競爭壓力影響健康。  
+
+#### 4. 解決方法  
+- 平衡工作與生活，避免過度勞累。  
+- 學習放鬆技巧，管理壓力（如正念、冥想）。  
+- 建立良好的社會支持系統，尋求情感支援。  
+
+#### 5. 健康建議  
+- 注意身體信號，定期健康檢查。  
+- 避免過度 dependencies on外部條件（如金錢、職位）。  
+- 採取健康的生活方式，保持均衡飲食和規律運動。  
+
+#### 6. 結論  
+- 健康與幸福生活需要個人努力和社會支持共同作用。  
+- 面對挑戰時，保持希望和信心是關鍵。
 </details>
 
 <details>
-<summary>3322. Why You Need More Salt in Your Diet</summary><br>
+<summary>3322. [2021-02-21] Why You Need More Salt in Your Diet</summary><br>
 
 <a href="https://www.youtube.com/watch?v=RV3o0VWfHuQ" target="_blank">
     <img src="https://img.youtube.com/vi/RV3o0VWfHuQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：鹽與免疫系統的健康策略
 
+#### 一、核心主題
+- **鹽的重要性**：探討食鹽在人體生理功能中的作用，特別是對免疫系統和代謝健康的影響。
+- **免疫系统的營養需求**：強調特定營養素（如維生素D、鎂、Omega-3脂肪酸）在增強免疫力方面的關鍵角色。
+
+#### 二、主要觀念
+1. **鹽的功能**：
+   - 鹽分是人體必需的電解質，參與神經傳導、液體平衡和免疫反應。
+   - 免疫細胞利用鹽分作為武器來殺滅病原體。
+
+2. **免疫系統的營養支持**：
+   - 維生素D：調節免疫功能，降低感染風險。
+   - 鈣鎂：激活維生素D，並參與抗炎反應。
+   - Omega-3脂肪酸：產生具有抗炎作用的脂質衍生物。
+
+#### 三、問題原因
+1. **鹽分攝取失衡**：
+   - 高度加工食品和快餐中過量添加鹽分，導致攝鹽過多。
+   - 盐分攝取不足可能影響immune cell的功能。
+
+2. **營養素缺乏**：
+   - 維生素D deficiency：增加感染風險。
+   - 鈣鎂不足：影響免疫調節功能。
+   - Omega-6脂肪酸過量，擾亂炎症反應平衡。
+
+#### 四、解決方法
+1. **鹽分攝取建議**：
+   - 控制食鹽攝取量，避免過多或過少。
+   - 選擇未加工的天然鹽（如海鹽）以獲得微量元素。
+
+2. **營養素補充策略**：
+   - 確保足夠的日曬以合成維生素D，或通過サプリメント補充。
+   - 增加富含鎂的食物攝取（如綠葉蔬菜、nuts、種子等）。
+   - 遊びを食べるOmega-3脂肪酸來源（如鮭魚、核桃、亞麻籽等）。
+
+#### 五、健康建議
+1. **飲食調整**：
+   - 減少精製油和高血糖指數食物的攝取，避免破壞免疫功能。
+   - 增加含有豐富維生素D的食物（如蛋黃、魚肝油）。
+   - 選擇健康的脂肪來源，平衡Omega-3和Omega-6的比例。
+
+2. **生活方式改善**：
+   - 定期日曬以促進維生素D的合成。
+   - 保持適當運動，增強免疫系統功能。
+   - 管理壓力，避免長期處於高壓状态，以減少炎症反應。
+
+#### 六、結論
+- 鹽分和關鍵營養素在免疫健康中扮演重要角色。
+- 改善飲食結構和生活方式是提升免疫力的有效方法。
+- 避免過度依賴抗生素和消毒產品，轉而重視內在抵抗力的建設。
 </details>
 
 <details>
-<summary>3321. What Is Synthetic Meat?</summary><br>
+<summary>3321. [2021-02-21] What Is Synthetic Meat?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Ktgh51E8V1Q" target="_blank">
     <img src="https://img.youtube.com/vi/Ktgh51E8V1Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Key Points of the Article
 
+#### Core Theme: Synthetic Meat as a Future Trend and Its Environmental Impact  
+- The article explores synthetic meat, also referred to as plant-based clean meat, as a potential solution to address the negative environmental impacts of factory farming.
+
+#### Main Concepts: Composition and Health Concerns of Synthetic Meat  
+- **Ingredients in Synthetic Meat**:  
+  - Autolyzed yeast (flavor enhancer).  
+  - Bleached wheat flour (processed grain, loses vitamin E).  
+  - Artificial food dyes (toxic).  
+  - Canola oil (unstable when heated, promotes free radicals and inflammation).  
+  - Carrageenan (thickening agent causing digestive issues).  
+  - Copper sulphite (used as a pesticide, inhibits microbial growth).  
+  - Corn oil (GMO with glyphosate residues, leads to oxidative stress).  
+  - Corn syrup solids and dextrose (synthetic sugars).  
+  - Hydrolyzed vegetable protein (derived from soy, corn, and wheat).  
+  - Modified food starch (linked to MSG).  
+  - Mycoprotein (produced from fungi grown in glucose-rich medium, ammonia used for extraction).  
+
+- **Health Concerns**:  
+  - Potential gastrointestinal issues (e.g., bloating) as reported by the author after consuming synthetic meat.  
+  - Lack of thorough health research on long-term effects of synthetic meat consumption.  
+
+#### Causes of Concern: Misleading Claims and Processing Issues  
+- The article questions whether synthetic meat is truly plant-based, clean, or less processed despite its marketing claims.  
+- Processing methods may involve harmful additives and extraction techniques (e.g., ammonia use in mycoprotein production).  
+
+#### Recommendations for Healthier Choices  
+- **Avoid Synthetic Meat**: Due to potential health risks and lack of sustainability.  
+- Opt for minimally processed foods with natural ingredients.  
+- Focus on whole, unprocessed plant-based options for better health outcomes.  
+
+#### Conclusion: Sustainability and Health Paradox  
+- For synthetic meat to be sustainable, it must promote human health; otherwise, its adoption may lead to negative health impacts.  
+- The article emphasizes the importance of understanding the true benefits and risks before embracing synthetic meat as a solution to factory farming.  
+
+---
+
+### Academic Summary
+
+The article critically examines synthetic meat, questioning its composition, marketing claims, and potential health effects. It highlights concerns over misleading labels ("plant-based," "clean") and the use of harmful additives. The author's personal experience with digestive issues after consuming synthetic meat underscores the need for caution and further research. Ultimately, the piece argues that synthetic meat may not be a sustainable or healthier alternative unless its production processes and health impacts are thoroughly validated.
 </details>
 
 <details>
-<summary>3320. Rapid Weight Gain...Don't Worry!</summary><br>
+<summary>3320. [2021-02-20] Rapid Weight Gain...Don't Worry!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=1L_2D7O2bSM" target="_blank">
     <img src="https://img.youtube.com/vi/1L_2D7O2bSM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 經驗分享：酮飲食（Keto Diet）在短期內的效果與挑戰。  
+- 水分 retention 與體重變化的混淆。  
+- 如何正確評估酮飲食的效果。  
 
+---
+
+### 主要觀念  
+1. **酮飲食的短期效果**：  
+   - 有些人開始酮飲食後，可能在短短一天內減輕4磅（約1.8公斤），誤以為是脂肪流失。  
+   - 反之，若短時間停止酮飲食，體重可能迅速回升4磅（約1.8公斤），造成情緒低落與放棄。  
+
+2. **快速體重變化的原因**：  
+   - 短期體重的大幅波動主要是由水分 retention 而非脂肪變化引起。  
+   - 一天內不可能大量流失或儲存脂肪，正常來說，每周最多減1-2磅為合理範圍。  
+
+3. **酮飲食的循環使用問題**：  
+   - 經常在酮飲食與高碳水化合物飲食之間切換，會導致身體不斷重新進入酮osis state，增加 frustration。  
+
+---
+
+### 問題原因  
+1. **對體重變化的誤解**：  
+   - 快速體重下降或上升被錯誤歸因於脂肪變化，而非水分 retention 或代謝調整。  
+
+2. **短期效果的誘惑與挫折**：  
+   - 短期成果可能過度optimistic，而短期失敗則容易引發沮喪與放棄。  
+
+3. **飲食模式的不穩定性**：  
+   - 颸馴飲食後又恢復高碳水化合物飲食，會打亂身體代謝平衡，影響酮osis state 的建立。  
+
+---
+
+### 解决方法  
+1. **正確評估體重變化**：  
+   - 了解短期體重波動主要是水分 retention，脂肪流失需要時間，建議每周監測體重。  
+
+2. **穩定飲食模式**：  
+   - 避免頻繁切換酮飲食與高碳水化合物飲食，建議保持連續3天以上才能有效進入酮osis state。  
+
+3. **關注其他指標**：  
+   - 除了體重，還應觀察飢餓感、腹部大小、肌肉量等變化，這些是衡量飲食效果的重要指標。  
+
+---
+
+### 健康建議  
+1. **水分管理**：  
+   - 确保足夠的水份攝取，幫助身體排出 excess 水分 retention。  
+
+2. **補充纖維與礦物質**：  
+   - 通過食物或補充劑攝取高纖維、高鉀食物（如洋蔥、芹菜、香蕉等），促進水分代謝。  
+
+3. **心理調適**：  
+   - 設定合理的飲食目標，避免因短期失敗而氣餬，保持耐心與信心。  
+
+4. **專業諮詢**：  
+   - 若酮飲食效果不明顯或出現不適，建議諮詢營養師或醫療專家。  
+
+---
+
+### 結論  
+酮飲食在短期内可能帶來快速的體重變化，但這些變化主要由水分 retention 引起，而非脂肪流失。正確評估飲食效果需关注多個指標，並避免頻繁切換飲食模式。保持穩定與耐心是成功關鍵，同时建議補充相關健康資源（如免疫系統增強課程）以提升整體健康水平。
 </details>
 
 <details>
-<summary>3319. 6 Things Men Should Not Eat</summary><br>
+<summary>3319. [2021-02-20] 6 Things Men Should Not Eat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=TqqyvRKpu4E" target="_blank">
     <img src="https://img.youtube.com/vi/TqqyvRKpu4E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：男性飲食中的六大危害與健康建議
 
+### 主要觀念：
+1. **植物雌激素對男性的影響**：某些食物含有高濃度的植物雌激素（phytoestrogens），會干擾男性荷爾蒙平衡，降低睾酮水平。
+2. **環境化學物質的危害**：常見農藥和其他化學物質可通过飲食進入人體，增加雌性激素水平，影響男性健康。
+3. **飲食中隱性的 estrogen來源**：包括加工食品中的紅色色素、非有機食品和含 GMO 成分的產品。
+4. **飲用水中的污染物**：南方地區的自來水可能含有高濃度的激素和其他有害化學物質。
+
+### 問題原因：
+1. **植物雌激素過量攝入**：
+   - **亞麻仁（Flaxseed）**：含高水平植物雌激素，建議男性避免食用。
+   - **大豆及其制品**：尤其是大豆蛋白分離物，含有高濃度雌激素，需限制攝取。
+
+2. **環境化學物質污染**：
+   - **Glyphosate 和 Atrazine**：常見農藥，干擾荷爾蒙平衡，增加 estrogen 水平。
+   
+3. **食品添加劑和加工成分**：
+   - **紅色色素**：在加工食品中常見，可顯著增加 estrogen 水平。
+
+4. **飲用水污染**：
+   - 南方自來水含有高濃度的激素和其他污染物，影響男性荷爾蒙平衡。
+
+### 解決方法：
+1. **選擇有機食品**：避免 GMO 和非有機產品，降低農藥和化學物質攝入風險。
+2. **過濾飲用水**：安裝高品質水過濾器，去除自來水中污染物。
+3. **限制乳制品攝取**：
+   - 選擇草饲 cows 製品，確保非 GMO 且有機。
+   - 控制攝量，尤其是奶酪等高脂產品。
+
+4. **飲食選擇**：優先選擇未加工或 minimally processed 的食物，避免含紅色色素的食品。
+
+5. **健康飲食法**：推薦健康的酮genesis飲食，避免潛在有害成分。
+
+### 健康建議：
+1. **飲食控制**：男性應避免攝入高植物雌激素的食物（如亞麻仁和大豆），選擇有機、非 GMO 產品。
+2. **水質改善**：安裝可靠水過濾器，確保飲用水安全。
+3. **限制乳制品**：若食用，選擇來源清潔且控制攝量。
+4. **環境保護**：關注食品包裝和加工過程中的化學物質影響。
+
+### 結論：
+男性健康受多重因素影響，包括飲食中的植物雌激素、環境農藥和飲用水污染。通過選擇有機食品、過濾飲水、限制乳制品攝取和採取健康的酮ogenesis飲食，可有效降低 estrogen 水平，保持睾酮平衡，維護整體健康和生殖功能。
 </details>
 
 <details>
-<summary>3318. Before You Consume Baking Soda: WATCH THIS</summary><br>
+<summary>3318. [2021-02-19] Before You Consume Baking Soda: WATCH THIS</summary><br>
 
 <a href="https://www.youtube.com/watch?v=pqXUCscvzGM" target="_blank">
     <img src="https://img.youtube.com/vi/pqXUCscvzGM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 確定碳酸氫鈉（小蘇打）在治療胃酸逆流中的作用及其潛在影響。
+- 探讨胃酸逆流的根本原因及有效的解決方法。
 
+### 主要觀念
+1. **正常胃酸的pH值**：
+   - 胃部需保持高度酸性（pH 1-3），以促進蛋白質消化、殺菌和礦物質吸收。
+   
+2. **碳酸氫鈉的作用機制**：
+   - 確保小腸中的碳酸氫鹽用於中和胃酸，防止其損傷小 intestine。
+   - 避免在胃部使用外來的碳酸氫鹽，以免干擾消化功能。
+
+3. **胃酸逆流的原因**：
+   - 胃門 valve 失能，導致胃酸倒流至食道（GERD）。
+   確定可能原因包括自主神經系統問題、B1缺乏或胃酸不足。
+
+4. **替代治療方法**：
+   - 使用蘋果醋或鹽酸膽硷（Betaine Hydrochloride）增強胃酸，幫助恢復正常消化功能。
+   - 組合使用氧化鋅卡努辛（Zinc Carnosine）和鹽酸膽硏以提高療效。
+
+### 問題原因
+- 長期攝入碳酸氫鈉可能引發的副作用包括嘔吐、腹瀉、腎臟損傷、呼吸困難、腦出血、 calcium 素缺乏及 potassium 細胞失衡。
+- 暫時舒缓症狀但未能解決根本問題。
+
+### 解決方法
+1. **增強胃酸**：
+   - 使用鹽酸膽硏（Betaine Hydrochloride）或蘋果醋，根據個人需求調整劑量（可能需大劑量，如每次餐前5-10粒）。
+   
+2. **補充礦物質**：
+   - 組合使用氧化鋅卡努辛以促進腸胃健康。
+
+3. **避免濫用碳酸氫鈉**：
+   - 暫時性症狀管理需謹慎，並結合根本原因是必要的。
+
+### 健康建議
+- 首先確定胃酸逆流的根本原因。
+- 在專業人士指導下使用替代療法。
+- 限制碳酸氫鹽的長期使用，以防副作用。
+
+### 結論
+- 長期濫用碳酸氫鈉可能帶來嚴重健康風險。
+- 增強胃酸和恢復腸胃功能是更有效且健康的解決方案。
+- 提醒患者在治療過程中需仔細評估並選擇合適的方法。
+
+---
+
+### 摘要
+此文探討了碳酸氫盐（小蘇打）在治療胃酸逆流中的作用及其潛在副作用。雖然短期內能舒缓症狀，但長期使用可能引發多種健康問題，包括腎臟損害和电解質失衡。文章強調應針對胃酸逆流的根本原因進行治療，如增強胃酸分泌或恢復腸胃功能。建議患者避免濫用碳酸氫鹽，並在專業指導下選擇合適的療法。
 </details>
 
 <details>
-<summary>3317. The 3 Top Allergies on the Planet</summary><br>
+<summary>3317. [2021-02-18] The 3 Top Allergies on the Planet</summary><br>
 
 <a href="https://www.youtube.com/watch?v=PrmEW3NDGAM" target="_blank">
     <img src="https://img.youtube.com/vi/PrmEW3NDGAM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Key Points and Summary of the Article
 
+#### Core Themes
+- **Common Food Allergies**: The article focuses on three of the most prevalent food allergies: milk, shellfish, and peanuts.
+- **Autoimmune Diseases and Molecular Mimicry**: It discusses the link between certain proteins in foods (e.g., milk and wheat) and autoimmune diseases due to molecular mimicry.
+
+#### Main Concepts
+1. **Milk Allergy**:
+   - **Triggers**: Proteins in milk (casein and whey) and dairy products.
+   - **Symptoms**: Primarily skin-related, followed by gastrointestinal and respiratory issues.
+   
+2. **Shellfish Allergy**:
+   - **Types**: Crustaceans (shrimp, crab, lobster) and mollusks (clams, oysters, mussels, scallops).
+   - **Prevalence**: 75% of shellfish allergies are due to crustaceans.
+   - **Hidden Triggers**: Glucosamine supplements can trigger reactions.
+
+3. **Peanut Allergy**:
+   - **Classification**: Peanuts are legumes and seeds.
+   - **Autoimmune Link**: The protein in peanuts mimics sequences in the myelin sheath and insulin-producing cells, contributing to autoimmune diseases like MS and type 1 diabetes.
+
+#### Causes of Allergies
+- **Molecular Mimicry**: Proteins in milk and wheat resemble those in the myelin sheath and pancreatic cells, leading to autoimmune reactions.
+- **Environmental Factors**: Food proteins can trigger allergic responses due to their structural similarity to human tissues.
+
+#### Solutions and Health Recommendations
+1. **Avoidance**:
+   - **Identify Allergens**: Get tested for food allergies to avoid triggering foods.
+   - **Hidden Ingredients**: Be cautious of supplements like glucosamine, which may contain allergenic ingredients.
+
+2. **Fasting**:
+   - **Benefits**: Periodic prolonged fasting can regenerate the immune system by increasing stem cells and T-cells, reducing inflammation, and lowering allergy risk.
+   - **Autoimmune Diseases**: Fasting may help reduce autoimmune conditions by modulating the immune response.
+
+3. **Vitamin D**:
+   - **Importance**: Adequate vitamin D intake supports immune health and is crucial for managing allergies and autoimmune diseases.
+
+#### Conclusion
+- **Prevention and Management**: Identifying and avoiding allergenic foods, combined with fasting and adequate vitamin D intake, can significantly reduce allergy symptoms and potentially eliminate them.
+- **Future Directions**: Further research into fasting and nutrient-based interventions could provide more insights into managing allergies and autoimmune diseases.
+
+### Final Note
+The article emphasizes the importance of dietary modifications, particularly fasting, in improving immune health and reducing allergy prevalence. It also highlights the need for awareness of hidden allergens in food products and supplements.
 </details>
 
 <details>
-<summary>3316. Lard vs Vegetable Oil: Which is Healthier?</summary><br>
+<summary>3316. [2021-02-18] Lard vs Vegetable Oil: Which is Healthier?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Av6akFWExA0" target="_blank">
     <img src="https://img.youtube.com/vi/Av6akFWExA0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：lard（豬油）與蔬菜油的健康比較
 
+### 主要觀念：
+1. **Lard vs. Tallow**：
+   - Lard是豬脂肪，Tallow是牛或羊脂肪。
+   - 本文強調來源於有機、放牧或草饲動物的lard和tallow。
+
+2. **Ideé Fixe（固定思想）**：
+   - 指一種根深蒂固且難以改變的錯誤信念。
+   - 例子：普遍認為「飽和脂肪（如豬油）導致動脈堵塞」是一種固定的錯誤觀念。
+
+3. **Crisco的歷史與影響**：
+   - Crisco是首款氫化植物油，於1918年問世。
+   - 曾被市場宣傳為比lard和tallow更健康的選擇，並在長達97年的時間內被廣泛接受。
+   - 2015年FDA禁止含反式脂肪的食品後，Hydrogenated vegetable oils才開始退出市場。
+
+### 問題原因：
+1. **錯誤的營養宣傳**：
+   - Crisco及其生產商利用有效的行銷策略，將hydrogenated vegetable oils塑造成健康的選擇。
+   - 實際上，這些油含有反式脂肪，會導致多種健康問題，包括心臟病、糖尿病和阿茲海默症。
+
+2. **消費者被操縱的信念**：
+   - 長期以來，公眾被洗腦相信植物油比動物脂肪更健康。
+   - 這導致了對aturated fats的錯誤ophobic（恐懚）態度。
+
+3. **科學研究的延遲與修正**：
+   - 直到近年，scientific consensus才開始重新評估並揭示hydrogenated vegetable oils的危害。
+   - 過去的研究結果被用於支持錯誤的營養建議。
+
+### 解決方法：
+1. **重新認識飽和脂肪**：
+   - 飽和脂肪如lard、tallow、牛油和椰子油是穩定的，適合高溫烹饪。
+   - 它們氧化反應少，自由基損傷低，對健康有益。
+
+2. **避免不健康的植物油**：
+   - 搿開unsaturated vegetable oils（玉米油、大豆油、菜籽油等），因其在高溫下容易氧化，導致炎症和動脈受損。
+   - 寡用或完全避開hydrogenated oils和反式脂肪。
+
+3. **教育與自我意識**：
+   - 消費者需提高對營養宣傳的警覺性，避免被行銷操縱。
+   - 開拓科學知識，基於可靠的數據做出飲食選擇。
+
+### 健康建議：
+1. **廚房用油選擇**：
+   - 使用穩定且耐高溫的油品，如lard、tallow、牛油和椰子油。
+   - 避免使用不耐高溫的蔬菜油，以降低自由基損傷和炎症風險。
+
+2. **飲食習慣調整**：
+   - 增加天然動物脂肪的攝取，但來源需選擇有機或草饲動物產品。
+   - 減少加工食品的消耗，尤其是含氢化植物油的產品。
+
+3. **健康行銷的批判性思維**：
+   - 面對營養建議時保持批判性思考，查證信息來源。
+   - 不盲目相信廣告宣傳，而應基於科學研究做出判斷。
+
+### 結論：
+1. **lard和tallow的優越性**：
+   - 它們比傳統植物油更健康，適合高溫烹饪。
+   - 長期以來被錯誤地妖魔化， 이제는 그 가치가 다시 평가받아야 한다.
+
+2. **行銷力量與消費者教育**：
+   - 證明了市場行銷可以操縱消費者信念，甚至影響公共衛生政策。
+   - 消費者需提升自身知識，避免被錯誤信息誤導。
+
+3. **飲食健康的未來方向**：
+   - 頻繁研究飲食對健康的影响，摒棄過時的營養觀念。
+   - 採取個體化的飲食策略，根據科學證據和個人需求進行調整。
 </details>
 
 <details>
-<summary>3315. Ovaries Removed? Do This...</summary><br>
+<summary>3315. [2021-02-17] Ovaries Removed? Do This...</summary><br>
 
 <a href="https://www.youtube.com/watch?v=w9L_mm09cYk" target="_blank">
     <img src="https://img.youtube.com/vi/w9L_mm09cYk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 1. 核心主題  
+- 探讨卵巢切除术后女性面临的健康问题及其解决方案。
+
+#### 2. 主要觀念  
+- 卵巢切除术在女性中的普遍性（30%的女性可能需要进行此手术）。
+- 卵巢切除可能导致严重的激素失衡及多種副作用，如骨密度降低、阴道乾燥、抑鬱、焦慮、熱潮紅等。
+
+#### 3. 問題原因  
+- 卵巢切除術導致雌激素水平下降，進而引發各種生理和心理症狀。
+- 雖然醫生可能認為卵巢非必需器官，但事實上卵巢在維持女性健康方面起著關鍵作用。
+
+#### 4. 解決方法  
+- **pomegranate（石榴）**：含有多种植物化學物質，可模擬並平衡体內雌激素水平。
+- **flaxseed oil（亞麻籽油）**：作為天然的荷爾蒙替代療法，補充必要的激素。
+- **tribulus（纈草）**：通過刺激促性腺激素來支持腎上腺和垂體功能，並具有抗壓作用。
+- **wild yam（野葛根）**：有助於緩解雌激素缺乏的症狀。
+- **ovatrophin PMG（ ovarian extract ）**：由Standard Process公司生產，是一種 glands 提煉產品，可幫助補充卵巢功能。
+
+#### 5. 健康建議  
+- 考慮通過自然療法和補充劑來平衡激素水平並緩解副作用。
+- 支持腎上腺和垂體功能，以增強身體的整體健康狀況。
+- 在使用任何補充劑之前，建議諮詢醫療專業人員。
+
+#### 6. 結論  
+- 腺切除術雖然常見，但其副作用不容忽視。通過綜合治療和自然療法，可以有效緩解這些症狀並提高生活品質。
 </details>
 
 <details>
-<summary>3314. Shrink Your Enlarged Prostate</summary><br>
+<summary>3314. [2021-02-17] Shrink Your Enlarged Prostate</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hvhs40xmGTA" target="_blank">
     <img src="https://img.youtube.com/vi/hvhs40xmGTA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：前列腺肥大的原因及管理策略
 
+#### 主要觀念：
+- **前列腺肥大**是男性年齡增長常見的問題，影響排尿功能。
+- 前列腺位於膀胱出口處，包圍尿道，其肥大使尿道受壓迫，導致排尿困難。
+
+#### 問題原因：
+1. **激素失衡**：主要涉及具有促進生長作用的**全身性激素（Anabolic Hormones）**。
+   - **前列腺素（Prolactin）**：過高時可導致前列腺肥大。
+   - **雌激素（Estrogen）**：直接影響前列腺大小，並刺激前列腺素分泌。
+   - **二氫睾酮（DHT）**：一種強力的 testosterone 代謝物，促進前列腺生長。
+   - **胰島素（Insulin）**：具有顯著的合成代谢作用。
+   - **生長激素（GH）** 和 **胰島素樣生長因子-1（IGF-1）**：刺激組織生長。
+   - **孕酮（Progesterone）**：可能對前列腺有影響。
+
+2. **外來物質的干擾**：
+   - **乳制品**：含豐富的合成代谢激素，可能是前列腺肥大的重要因素。
+   - **糖分及高碳水化合物飲食**：導致胰島素水平升高，促進前列腺生長。
+   - **大豆產品及其他環境雌激素源**：含有植物性雌激素，干擾身體內源性激素平衡。
+
+#### 解決方法：
+1. **飲食調整**：
+   - **消除乳制品及相關產品**：如牛奶、奶酪、酸奶和凱菲。
+   - **低糖低碳水化合物飲食（酮ogenic diet）**：控制胰島素水平，降低合成代谢壓力。
+   - **減少環境雌激素暴露**：避免大豆產品、非有機食品中的人工化學物質。
+
+2. **補充劑及自然療法**：
+   - **锯棕櫸（Saw Palmetto）**：抑制將睾osterone轉化為DHT的酶，降低前列腺肥大風險。
+   - **綠茶**：含有多酚類化合物，具有抗炎和抗氧化作用，可抑制前列腺生長。
+   - **南瓜子**：提供必需脂肪酸，支持前列腺健康。
+   - **鋅（Zinc）**：促進睾酮代謝，平衡激素水平。
+   - **番茄紅素（Lycopene）**：具有抗氧化作用，研究顯示可幫助縮小前列腺。
+
+3. **生活方式改變**：
+   - **間歇性禁食**：配合酮飲食，進一步降低胰島素水平。
+   - **增加 cruciferous 蔬菜攝取**：如羽衣甘藍、西兰花等，有助平衡雌激素。
+
+#### 健康建議：
+- 適當調整飲食結構，避免刺激性食物和環境干擾物。
+- 結合自然療法和生活方式改變，以達到綜合管理效果。
+- 定期進行健康檢查，監控前列腺狀況。
+
+#### 總結：
+前列腺肥大主要是由於激素失衡及外界因素的影響。通過調整飲食、避免干擾源、使用自然療法並配合適當的生活方式，可以有效管理和改善前列腺肥大的情況。
 </details>
 
 <details>
