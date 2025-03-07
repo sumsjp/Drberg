@@ -1066,35 +1066,153 @@
 </details>
 
 <details>
-<summary>1303. Is Little Bit of Junk Food on Keto or Intermittent Fasting Acceptable? – Dr. Berg</summary><br>
+<summary>1303. [2018-01-25] Is Little Bit of Junk Food on Keto or Intermittent Fasting Acceptable? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=2UB0pKJQ4QE" target="_blank">
     <img src="https://img.youtube.com/vi/2UB0pKJQ4QE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- **影響血糖控制的因素**：強調胰島素在血糖 regulation 中的作用及其對體重管理和脂肪燃燒的影響。  
 
+### 主要觀念  
+1. **高血糖問題**：患者報告即使進行禁食和運動，血糖仍然偏高。  
+2. **隱性不良飲食習慣**：患者攝入少量垃圾食品、甜點和酒精，這些食物可能抵銷其他健康做法的效果。  
+3. **胰島素的作用**：胰島素是一種支配性的激素，即使微量過多也會阻礙體重減輕和脂肪燃燒，最終導致血糖波動和胰島素抵抗。  
+
+### 問題原因  
+- **不良飲食選擇**：患者雖然整體飲食健康，但仍攝入含糖和高碳水化合物的零食和酒精，這些食物會增加血糖並干擾胰島素敏感性。  
+- **胰島素過量**：即使是微量的胰岛素過高，也會影響脂肪燃燒和體重管理，最終導致血糖不穩定和胰岛素抵抗。  
+
+### 解决方法  
+1. **替代甜食**：用低碳水化合物、無糖的可口選項來代替傳統甜點，例如使用酮飲食Friendly的食譜。  
+2. **行為改變**：避免攝入垃圾食品和酒精，即使是在少量的情況下。  
+3. **藥物依賴性**：患者正在服用一種模擬Metformin的草本補充劑，但此做法可能無法完全抵銷胰岛素的影響，需重新評估治療方案。  
+
+### 健康建議  
+1. **飲食調整**：改用低碳水化合物、低糖的替代食品來滿足對甜食的渴望，從而長期控制血糖和體重。  
+2. **生活方式改變**：堅持禁食和運動，但需避免任何可能增加胰岛素水平的食物攝入。  
+3. **定期監測**：密切追蹤血糖和胰島素水平，以評估治療方案的有效性並及時調整。  
+
+### 結論  
+- **成功關鍵**：在控制血糖和體重方面，飲食選擇至關重要。即使是少量的不健康食物也可能干擾整體效果。  
+- **長期策略**：建議患者採用ustainable 的飲食結構，如酮飲食，以避免對傳統甜食的依賴並保持血糖穩定。
 </details>
 
 <details>
-<summary>1302. Dr. Berg's New Book on Video & Audio</summary><br>
+<summary>1302. [2018-01-24] Dr. Berg's New Book on Video & Audio</summary><br>
 
 <a href="https://www.youtube.com/watch?v=U_UyLGoiNas" target="_blank">
     <img src="https://img.youtube.com/vi/U_UyLGoiNas/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 推介一種新的多媒體學習產品，涵蓋一本書的所有章節。  
 
+### 主要觀念  
+1. 產品形式：通過視頻和音頻相结合的方式呈現每章內容。  
+2. 學習便利性：提供下載至電腦、同步到手機的功能，便於隨時隨地學習。  
+3. 使用工具：iTunes用於管理和同步音頻文件。  
+
+### 啟發原因  
+- 現代人希望通過多媒體方式更高效地吸收書籍內容。  
+
+### 解決方案  
+1. **產品功能**：  
+   - 提供視頻 Seminar 和音頻	mp3 文件，涵蓋所有章節。  
+   - 使用閃存盤作為媒介，便於下載和同步。  
+2. **技術支持**：  
+   - 通過iTunes將音頻文件添加至圖書館並同步到手機。  
+3. **操作步驟**：  
+   - 下載閃存盤中的mp3文件至電腦。  
+   - 使用iTunes將文件同步到手機。  
+
+### 健康建議  
+- 經常利用通勤或閒暇時間聽取 Seminar，提升學習效率。  
+
+### 結論  
+- 本書籍的多媒體版本提供了便捷且高效的学习方式，適合現代人的生活節奏。
 </details>
 
 <details>
-<summary>1301. What Causes Low Testosterone & Tips To Increase Testosterone Levels By Dr. Berg</summary><br>
+<summary>1301. [2018-01-24] What Causes Low Testosterone & Tips To Increase Testosterone Levels By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=MLW0Fnva6FE" target="_blank">
     <img src="https://img.youtube.com/vi/MLW0Fnva6FE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Core Theme: The Role and Management of Testosterone in Male Health
 
+---
+
+#### **Introduction to Testosterone Function**
+- **Definition**: Testosterone is a hormone produced primarily by the testicles, with a small contribution from the adrenals.
+- **Functions**:
+  - Sexual development (testes, prostate).
+  - Muscle mass and bone strength enhancement.
+  - Body hair growth (facial and body hair).
+  - Protein synthesis.
+  - Sperm development.
+  - Deep voice and libido.
+  - Erection regulation.
+
+---
+
+#### **Pathophysiology of Testosterone Suppression**
+- **Similarity to Human Growth Hormones**: Testosterone follows pathways similar to human growth hormones.
+- **Adverse Effects of Exogenous Testosterone**:
+  - Atrophy of the testicles.
+  - Thicker blood and potential for high blood pressure.
+  - Acne and male pattern baldness.
+  - Other side effects related to hormone suppression.
+
+---
+
+#### **Primary Cause of Low Testosterone**
+- **High Insulin Levels**: The single most common reason for low testosterone levels.
+- **Mechanism**:
+  - High insulin suppresses both testosterone and human growth hormone.
+  - Common in individuals with diabetes or pre-diabetes (insulin resistance).
+
+---
+
+#### **Symptoms of High Insulin Levels**
+- **Physical Symptoms**:
+  - Excess belly fat (gut).
+  - High blood pressure.
+  - High cholesterol.
+  - High blood sugar levels.
+  - Pre-diabetic or diabetic status.
+- **Other Symptoms**:
+  - Fatigue after meals.
+  - Vision issues.
+  - Loss of muscle tone despite exercise.
+  - Frequent urination at night.
+
+---
+
+#### **Solutions for Low Testosterone**
+- **Dietary Intervention**: Ketogenic Diet.
+  - Emphasizes healthy implementation.
+  - Reduces carbohydrate intake to lower insulin levels.
+- **Intermittent Fasting**:
+  - Helps regulate blood sugar and insulin levels.
+  - Supports overall metabolic health.
+
+---
+
+#### **Health Recommendations**
+- **Ketogenic Diet Course**: Available for further education on proper implementation.
+- **Free Keto Course**: Accessible via Messenger or Facebook, providing essential knowledge in a concise format.
+
+---
+
+#### **Conclusion**
+- **Key Message**: Addressing underlying causes like high insulin levels is crucial for managing low testosterone.
+- **Call to Action**: Adopt lifestyle changes such as the ketogenic diet and intermittent fasting to improve hormonal health.
+- **Further Learning**: Utilize provided resources to gain deeper insights into achieving optimal health through dietary adjustments.
 </details>
 
