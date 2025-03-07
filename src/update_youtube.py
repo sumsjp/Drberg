@@ -7,6 +7,7 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 import markdown
 import time
+import ssl
 
 
 from lib.mytube import download_subtitle, get_video_list
@@ -338,65 +339,66 @@ def email_notify(new_df):
         print("📌 沒有新影片需要通知")
         return
         
-    # 設定 SMTP
+    # 設定 SMTP with SSL
     smtp_server = "smtp.gmail.com"
-    smtp_port = 587
+    smtp_port = 465
     
     try:
-        # 建立 SMTP 連線
-        server = smtplib.SMTP(smtp_server, smtp_port)
-        server.starttls()
-        server.login(sender_email, sender_password)
+        # 建立 SSL context
+        context = ssl.create_default_context()
         
-        # 處理每個影片
-        for _, video in new_df.iterrows():
-            video_id = video['id']
+        # 建立 SMTP_SSL 連線
+        with smtplib.SMTP_SSL(smtp_server, smtp_port, context=context) as server:
+            server.login(sender_email, sender_password)
             
-            # 讀取摘要檔案
-            summary_file = f"{summary_dir}{video_id}.md"
-            summary_content = ""
-            try:
-                with open(summary_file, 'r', encoding='utf-8') as f:
-                    summary_content = f.read()
-            except FileNotFoundError:
-                summary_content = "摘要尚未生成"
-            
-            # 將 Markdown 轉換為 HTML
-            html_content = markdown.markdown(summary_content)
-            
-            # 建立郵件內容
-            msg = MIMEMultipart('alternative')
-            msg['Subject'] = f"新影片通知: {video['title']}"
-            msg['From'] = sender_email
-            
-            # HTML 模板
-            html_template = f"""
-            <html>
-              <body>
-                <h1>{video['title']}</h1>
-                <p>影片連結：<a href="{video['url']}">{video['url']}</a></p>
-                <h2>影片摘要：</h2>
-                {html_content}
-              </body>
-            </html>
-            """
-            
-            # 加入 HTML 內容
-            msg.attach(MIMEText(html_template, 'html'))
-            
-            # 發送給每個收件者
-            for receiver in receiver_emails:
-                msg['To'] = receiver
+            # 處理每個影片
+            for _, video in new_df.iterrows():
+                video_id = video['id']
+                
+                # 讀取摘要檔案
+                summary_file = f"{summary_dir}{video_id}.md"
+                summary_content = ""
                 try:
-                    server.send_message(msg)
-                    print(f"✅ 已發送通知給 {receiver}: {video['title']}")
-                    time.sleep(1)  # 避免發送太快
-                except Exception as e:
-                    print(f"❌ 發送失敗 {receiver}: {str(e)}")
-        
-        server.quit()
-        print("📌 完成所有通知發送")
-        
+                    with open(summary_file, 'r', encoding='utf-8') as f:
+                        summary_content = f.read()
+                except FileNotFoundError:
+                    summary_content = "摘要尚未生成"
+                
+                # 將 Markdown 轉換為 HTML
+                html_content = markdown.markdown(summary_content)
+                
+                # 建立郵件內容
+                msg = MIMEMultipart('alternative')
+                msg['Subject'] = f"Dr. Eric Berg: {video['title']}"
+                msg['From'] = sender_email
+                
+                # HTML 模板
+                html_template = f"""
+                <html>
+                  <body>
+                    <h1>{video['title']}</h1>
+                    <p>影片連結：<a href="{video['url']}">{video['url']}</a></p>
+                    <h2>影片摘要：</h2>
+                    {html_content}
+                  </body>
+                </html>
+                """
+                
+                # 加入 HTML 內容
+                msg.attach(MIMEText(html_template, 'html'))
+                
+                # 發送給每個收件者
+                for receiver in receiver_emails:
+                    msg['To'] = receiver
+                    try:
+                        server.send_message(msg)
+                        print(f"✅ 已發送通知給 {receiver}: {video['title']}")
+                        time.sleep(1)  # 避免發送太快
+                    except Exception as e:
+                        print(f"❌ 發送失敗 {receiver}: {str(e)}")
+            
+            print("📌 完成所有通知發送")
+            
     except Exception as e:
         print(f"❌ SMTP 連線失敗: {str(e)}")
 
