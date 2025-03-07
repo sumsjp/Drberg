@@ -2,6 +2,7 @@ import os
 import pandas as pd
 
 from lib.mytube import download_subtitle, get_video_list
+from lib.myai import get_summary
 
 # === 設定頻道網址 ===
 channel_url = 'https://www.youtube.com/@Drberg/videos'
@@ -10,6 +11,7 @@ channel_url = 'https://www.youtube.com/@Drberg/videos'
 csv_file = 'video_list.csv'
 
 script_dir = os.path.dirname(os.path.abspath(__file__)) + '/../scripts/'
+summary_dir = os.path.dirname(os.path.abspath(__file__)) + '/../summary/'
 
 def update_list():
     # === yt-dlp 參數設定 ===
@@ -112,7 +114,49 @@ def download_script(df):
     return df
 
 def summerize_script():
-    pass
+    # 確保 summary 目錄存在
+    os.makedirs(summary_dir, exist_ok=True)
+    
+    # 取得所有 scripts 目錄下的 txt 檔案
+    script_files = [f for f in os.listdir(script_dir) if f.endswith('.txt')]
+    
+    # 計數器
+    processed_count = 0
+    
+    for script_file in script_files:
+        # 取得檔名（不含副檔名）
+        fname = os.path.splitext(script_file)[0]
+        
+        # 檢查對應的 summary 檔案是否存在
+        summary_file = f"{summary_dir}{fname}.md"
+        script_path = f"{script_dir}{script_file}"
+        
+        if not os.path.exists(summary_file):
+            print(f"📝 處理摘要中：{fname}")
+            
+            try:
+                # 讀取字幕檔案
+                with open(script_path, 'r', encoding='utf-8') as f:
+                    content = f.read()
+                
+                # 產生摘要
+                summary_text = get_summary(content)
+                
+                # 寫入摘要檔案
+                with open(summary_file, 'w', encoding='utf-8') as f:
+                    f.write(summary_text)
+                
+                print(f"✅ 摘要已儲存：{summary_file}")
+                processed_count += 1
+                
+            except Exception as e:
+                print(f"❌ 摘要產生失敗 {fname}: {str(e)}")
+                continue
+    
+    if processed_count > 0:
+        print(f"📌 完成 {processed_count} 個檔案的摘要")
+    else:
+        print("📌 沒有需要處理的檔案")
 
 def create_doc():
     pass
