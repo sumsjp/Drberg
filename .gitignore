@@ -9,6 +9,7 @@ __pycache__/
 tmp.txt
 bin/
 log/
+share/
 
 # C extensions
 *.so
