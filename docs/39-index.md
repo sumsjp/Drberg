@@ -5338,113 +5338,679 @@ Understanding the causes and implementing preventive measures are crucial for ma
 </details>
 
 <details>
-<summary>3914. Say Goodbye to Candida: The Best Ways to Cure It Permanently</summary><br>
+<summary>3914. [2022-03-26] Say Goodbye to Candida: The Best Ways to Cure It Permanently</summary><br>
 
 <a href="https://www.youtube.com/watch?v=a9wWC7M0QxI" target="_blank">
     <img src="https://img.youtube.com/vi/a9wWC7M0QxI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：抗 Candida 調理與健康建議
 
+---
+
+#### **核心主題**
+本文主要探討 Candida 菌株過度生長的影響、其偏好的生存環境，以及如何通過飲食和生活方式的調整來抑制 Candida 的滋生，恢復身體的酸性平衡。
+
+---
+
+#### **主要觀念**
+1. **Candida 的特性**：
+   - Candida 喜歡在鹼性環境中生長。
+   - 其代謝會產生氨，進一步增加體內的鹼性環境。
+   - 高糖飲食、壓力和某些藥物（如避孕藥）會促進 Candida 的滋生。
+
+2. **Candida 生長的影響**：
+   - 可導致多種臨床症狀，包括疲勞、泌尿道感染、皮膚問題等。
+   - 髮菌失衡會削弱免疫系統功能。
+
+---
+
+#### **問題原因**
+1. **飲食因素**：
+   - 高糖飲食為 Candida 提供了豐富的營養來源。
+   - 糖分攝入過多可直接刺激 Candida 生長，並增加體內的鹼性環境。
+
+2. **生活方式因素**：
+   - 長期壓力導致皮質醇分泌增加，促進身體酸度流失，使其偏向鹼性。
+   - 服用避孕藥、抗酸劑等藥物會改變身體 pH 值，為 Candida 提供有利條件。
+
+3. **菌群失衡**：
+   - 長期使用抗生素或其他抑菌劑會殺死有益菌（如乳酸桿菌），破壞腸道屏障功能。
+   - 有益菌的缺失無法有效抑制 Candida 的過度生長。
+
+---
+
+#### **解決方法與健康建議**
+1. **飲食調整**：
+   - **低糖或酮基因飲食**：降低 Candida 的糖分來源，恢復身體酸性平衡。
+   - **增加膳食纖維攝取**：幫助有益菌群恢復，從而抑制 Candida 生長。
+
+2. **益生菌補充**：
+   - 服用含有乳酸桿菌和 bifidobacterium 的益生菌サプリメント，重建腸道菌群平衡。
+   - 可食用發酵食品如酸奶、kimchi 和 Sauerkraut。
+
+3. **自然抗菌劑使用**：
+   - **芳香油（如百里香油）**：具備良好的抗真菌效果，且副作用少。
+   - **大蒜**：含有多種抗氧化物和抗炎成分，有助於抑制 Candida 生長。
+
+4. **酸性環境恢復**：
+   - 飲食中增加酸性食物攝取（如奇異果、蔓越莓汁）或使用.apple cider vinegar。
+   - 減少對抗酸劑的依賴，避免進一步破壞酸鹼平衡。
+
+5. **壓力管理**：
+   - 通過冥想、瑜伽等方式降低壓力水平，從而減少皮質醇的分泌。
+
+---
+
+#### **結論**
+Candida 菌株過度生長是一種多因素導致的全身性問題，涉及飲食、壓力和藥物使用等多个方面。通過調整飲食結構、補充益生菌、自然抗菌劑的使用以及壓力管理等方法，可以有效抑制 Candida 的滋生，恢復身體健康。
+
+---
+
+#### **質疑與修正**
+1. **關於 pH 值的研究**：
+   - 文章提到高糖攝入會使體內 pH 增加（更鹼性），但目前科學研究並未充分證實這一點。血糖水平主要影響胰島素敏感性和胰島素抵抗，而非直接改變全身 pH 值。
+
+2. **酮基因飲食的效果**：
+   - 長期酮基因飲食可能導致營養不均衡問題，需謹慎使用，並在專業醫生指導下進行。
+
+3. **抗生素的影響**：
+   - 文章提到抗生素會殺死有益菌，但事實上，現代抗生素療法多數針對特定病原體，且劑量和疗程均經過科學評估，不會完全消除所有有益菌。
 </details>
 
 <details>
-<summary>3913. Millions of Microbes Are Living in Your Mattress</summary><br>
+<summary>3913. [2022-03-25] Millions of Microbes Are Living in Your Mattress</summary><br>
 
 <a href="https://www.youtube.com/watch?v=qsgYXh9y0ZI" target="_blank">
     <img src="https://img.youtube.com/vi/qsgYXh9y0ZI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章主題：床垫中的微生物及其對健康的影響
 
+---
+
+#### 核心主題：
+本文探討了 mattress 中存在的多種微生物（如塵螨、床蝨、真菌、細菌、寵物皮屑和化學物質）以及這些微生物對人類健康的潛在影響。
+
+---
+
+#### 主要觀念：
+1. **塵螨**：
+   - 約 10 萬至 1000 萬只塵螨可能寄生於床垫。
+   - 難以肉眼察覺，主要依賴人類脫落的皮屑生存。
+   - 可導致過敏反應，如鼻塞、眼睛紅腫和打噴嚏。
+
+2. **床蝨**：
+   - 大小約為苹果籽，活動迅速，喜歡棲息於床垫縫隙。
+   - 以人血為食，叮咬後可能引起皮膚癢痛。
+   - 密度可高達每張床 2,000 只。
+
+3. **真菌與細菌**：
+   - 成年人每年在床鋪中出汗約 26 加侖，營造出適合真菌和細菌滋生的環境。
+   - 某些實驗測得七年使用期的床垫每英寸可達 1600 萬個菌落。
+
+4. **寵物皮屑**：
+   - 約 50% 的寵物主人與寵物共用床鋪，導致寵物皮屑、跳蚤和蜱蟲進入床鋪。
+   - 可能引發過敏反應或其他健康問題。
+
+5. **化學物質**：
+   - 溝睡時人體釋放的熱量可能促使甲醛等揮發性有機化合物（VOCs）從 mattress 中釋出。
+   - 新床垫也可能釋放多種化學物質，影響空氣質量。
+
+---
+
+#### 問題原因：
+1. **濕度**：高濕環境（如浴室通風不佳或夏季潮濕）使塵螨、真菌等微生物更容易繁殖。
+2. **個人衛生**：人體脫落的皮屑和汗液為微生物提供食物來源。
+3. **寵物接觸**：寵物將外界污染物帶入床鋪，增加微生物負荷。
+4. ** mattress 材質**：某些材質可能釋放化學物質，並成為微生物滋生的理想場所。
+
+---
+
+#### 解決方法：
+1. **定期清洗床單與枕套**：
+   - 使用高溫水洗滌，加入小蘇打以殺滅微生物。
+2. **降低濕度**：
+   - 保持浴室門關閉，使用除濕機或空調控制濕度。
+3. **避免寵物進入床鋪**：
+   - 考慮讓寵物睡在地板或其他房間。
+4. **使用空氣清淨器**：
+   - 消除床垫釋放的化學物質和微生物 allergens。
+5. **定期吸塵 mattress**：
+   - 清理床褥上的灰塵、皮屑和其他污染物，減少微生物積累。
+
+---
+
+#### 健康建議：
+1. 如果出現持續性過敏症狀（如鼻塞、打噴嚏、眼睛紅腫），應考慮床垫中的微生物影響。
+2. 對寵物皮屑敏感的人群，建議避免與寵物共睡。
+3. 新購置的 mattress 使用前應通風，以減少化學物質釋放。
+
+---
+
+#### 結論：
+ mattress 中存在的多種微生物對人類健康可能造成不良影響，特別是過敏症狀和呼吸道問題。通過降低濕度、保持清潔和使用合適的家電（如空氣清淨器），可以有效減輕這些風險。
 </details>
 
 <details>
-<summary>3912. 7 Foods That RUIN Your Liver</summary><br>
+<summary>3912. [2022-03-24] 7 Foods That RUIN Your Liver</summary><br>
 
 <a href="https://www.youtube.com/watch?v=1B98PDEe4vU" target="_blank">
     <img src="https://img.youtube.com/vi/1B98PDEe4vU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：保持肝臟健康的飲食建議
 
+#### 核心主題
+- 肝臟健康的重要性
+- 避免對肝臟有害的食物和毒素
+- 促進肝臟健康的飲食選擇
+
+#### 主要觀念
+1. **食物對肝臟的影響**：
+   - 某些食物會增加肝脂肪沉積。
+   - 高糖、高澱粉 foods 可能導致胰島素抵抗。
+   - 肝臟排毒功能受損可能引發多種健康問題。
+
+2. **常見有害物質**：
+   - **麩醯醇（Maltodextrin）**：常見於加工食品，影響肝臟代謝。
+   - **MSG（.monosodium glutamate）**：常用於食品添加劑，可能引發肝損傷。
+   - **赭曲霉毒素（Aflatoxin）**：存在於受潮的花生和玉米中，具有 carcinogenic 性質。
+
+3. **健康飲食建議**：
+   - 增加十字花科蔬菜攝取（如 kale, broccoli），促進肝臟排毒。
+   - 選擇 quality 草饲紅肉，控制鐵攝取量。
+   - 避免高糖和加工食品，選擇天然成分。
+
+#### 問題原因
+1. **現代飲食習慣**：
+   - 高糖、高澱粉食物消費增加。
+   - 加工食品中超標添加劑使用。
+
+2. **環境與食品污染**：
+   - 现代農業和加工技術導致更多有害物質進入食物鏈。
+
+3. **肝臟負荷過重**：
+   - 不當飲食習慣使肝臟排毒功能受損，影響整體健康。
+
+#### 解決方法
+1. **飲食調整**：
+   - 減少精製糖、麩醯醇和 MSG 的攝取。
+   - 選擇無毒或低毒的食品來源（如 Valencia 花生、Dry peanuts）。
+   - 增加富含抗氧化劑的食物，促進肝臟修復。
+
+2. **毒素避免**：
+   - 避免食用可能含有赭曲霉毒素的食物（如受潮花生和玉米）。
+   - 注意食品標籤，拒絕含有多種有害添加物的加工食品。
+
+3. **健康飲食選擇**：
+   - 多攝取十字花科蔬菜，幫助肝臟排毒。
+   - 選擇 quality 草饲紅肉，避免過量鐵攝取。
+
+#### 健康建議
+1. **閱讀食品標籤**：
+   - 提高對食品添加劑的警覺性，拒絕含MSG和麩醯醇的食物。
+   
+2. **選擇有機或自然食品**：
+   - 選擇無毒、低污染的食品來源，降低毒素攝取風險。
+
+3. **飲食多樣化**：
+   - 多攝取各類新鮮蔬菜水果，避免過度依賴加工食品。
+
+4. **控制紅肉攝取**：
+   - 若有鐵攝取問題，可減少紅肉攝取或選擇其他蛋白來源。
+
+5. **保持適當飲食結構**：
+   - 避免高糖、高澱粉食物，維持血糖穩定和胰島素敏感性。
+
+#### 結論
+- 肝臟健康直接影響整體健康。
+- 通過調整飲食習慣，避免有害物質攝取，可有效保護肝臟功能。
+- 健康的飲食策略包括多攝取十字花科蔬菜、控制紅肉攝取、選擇 quality 食品來源並避免加工食品。
 </details>
 
 <details>
-<summary>3911. The Root Cause of Cardiac Arrhythmias Is... (MUST WATCH)</summary><br>
+<summary>3911. [2022-03-22] The Root Cause of Cardiac Arrhythmias Is... (MUST WATCH)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=tQO7JN47Z04" target="_blank">
     <img src="https://img.youtube.com/vi/tQO7JN47Z04/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+---
+
+#### 1. 核心主題  
+本文探討了心血管健康與電解質平衡之間的密切關係，強調了平衡鈣、鎂和钾等關鍵電解質在維持心血管功能中的重要性。  
+
+---
+
+#### 2. 主要觀念  
+- 電解質失衡（低鉀、低鎂、高鈣）是心髒病和高血壓的重要病因。  
+- 药物治療（如 Calcium Channel Blockers 和 Diuretics）可能擾亂電解質平衡，導致副作用（如水肿、 Diabetes、血脂異常）。  
+- 電解質的不平衡會影響其他激素和神經系統的功能，進一步惡化心血管健康。  
+
+---
+
+#### 3. 問題原因  
+- 现代藥物治療often具備副作用，擾亂電解質平衡。  
+- 生活方式、飲食習慣和環境因素導致電解質攝取失衡。  
+- 電解質不平衡干擾心肌收縮和血壓調節機制。  
+
+---
+
+#### 4. 解決方法  
+- 確保均衡飲食，攝取足夠的鉀、鎂和鈣。  
+- 減少對藥物的依賴，尋求更根本的健康改善方式。  
+- 定期監測電解質水平，及時調整飲食或治療方案。  
+
+---
+
+#### 5. 健康建議  
+- 閱讀全文中提到的最佳心血管健康食物清單，增加高鉀、高鎂食物的攝取（如香蕉、杏仁、綠葉蔬菜）。  
+- 避免過量攝入鈣質サプリメント，尤其是已服用 Calcium Channel Blockers 者。  
+- 減少高糖、高鹽和加工食品的攝取，以防止電解質失衡。  
+- 如有心血管問題，建議諮詢營養師或醫生，制定個人化的飲食計劃。  
+
+---
+
+#### 6. 結論  
+心血管健康的根本在於電解質平衡，而非單靠藥物治療。透過調整飲食和生活方式，可以有效改善心血管功能並預防相關疾病。任何干擾此平衡的治療方案都可能帶來更多問題，因此需謹慎選擇。  
+
+---
+
+### 全文英文摘要  
+This article highlights the critical relationship between cardiovascular health and electrolyte balance, emphasizing the importance of maintaining proper levels of calcium, magnesium, and potassium. It discusses how imbalances in these electrolytes can lead to heart disease and hypertension, and examines how certain medications (such as calcium channel blockers and diuretics) may disrupt this balance, causing adverse effects like edema, diabetes, and lipid abnormalities. The article underscores the need for a holistic approach to cardiovascular health, focusing on balanced nutrition and lifestyle adjustments rather than solely relying on pharmacological interventions. It concludes that achieving electrolyte equilibrium is essential for optimal heart function and suggests practical dietary recommendations to support cardiovascular well-being.
 </details>
 
 <details>
-<summary>3910. What CAUSES Tonsil Stones and How to Prevent Them</summary><br>
+<summary>3910. [2022-03-21] What CAUSES Tonsil Stones and How to Prevent Them</summary><br>
 
 <a href="https://www.youtube.com/watch?v=O1YQjA758Gc" target="_blank">
     <img src="https://img.youtube.com/vi/O1YQjA758Gc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 節點總結
 
+#### 核心主題
+- 颴石（tonsil stones）的形成、預防及治療方法。
+- 生物膜（biofilms）在感染中的作用及其對免疫系統的影響。
+
+#### 主要觀念
+1. **顎扁桃腺的功能**：
+   - 顎扁桃腺是免疫系統的第一道防线，負責捕獲和清除病原體。
+   - 它們產生T細胞，幫助身體抵抗感染。
+
+2. **顎扁桃腺结石的形成**：
+   - 颓石是由生物膜（biofilms）形成的結構，這些生物膜由鈣和其他物質構成。
+   - 生物膜是微生物的保護殼，使其免受抗生素等治療的影響。
+
+3. **相關症狀**：
+   - 口臭（如硫化氫氣味）
+   - 金屬味
+   - 咳嗽
+
+#### 問題原因
+1. **導致生物膜形成的因素**：
+   - 慢性扁桃腺炎
+   - 長期使用抗生素，破壞微生物叢平衡
+   - 糖尿病、糖皮質激素的使用、缺鋅或維生素D等免疫抑制條件
+
+2. **其他風險因子**：
+   - 高碳水化合物飲食
+   - 乳制品消費增加（可能導致更多粘液生產）
+   - 慢性炎症（如鼻竇感染、耳 infections）
+
+#### 解決方法與健康建議
+1. **自然抗生素**：
+   - **大蒜（Garlic）**：富含硫化物，具有抗菌特性。
+   - **薄荷油（Oregano Oil）**：有效的天然抗生素，對有益菌影響小。
+   - **葡萄柚籽提取物（Grapefruit Seed Extract）**：具備強大的抗菌作用。
+
+2. **飲食調整**：
+   - 減少高碳水化合物和乳制品的攝取，以降低粘液生產和炎症反應。
+   - 增加富含鋅和維生素D的食物攝取，以增強免疫功能。
+
+3. **避免不必要的抗生素使用**：
+   - 長期使用抗生素會破壞微生物叢平衡，增加生物膜形成的风险。
+   - 使用抗生素後，需補充益生菌恢復腸道健康。
+
+4. **生活習慣調整**：
+   - 保持良好的口腔衛生，定期檢查和清潔扁桃腺。
+   - 避免糖分攝取過多，以防止病原菌滋生。
+
+#### 結論
+- 生物膜在感染中的作用不可忽視，它們保護微生物使其抗藥性增強。
+- 使用自然抗生素和調整飲食習慣可以有效預防和治療顎扁桃腺结石。
+- 長期使用抗生素需謹慎，並注意補充有益菌以維持免疫系統平衡。
+- 維生素D和鋅的攝取不足會增加感染風險，需通過飲食或 supplements 補充。
 </details>
 
 <details>
-<summary>3909. The BEST Remedy for Attention Deficit Hyperactivity Disorder (ADHD)</summary><br>
+<summary>3909. [2022-03-20] The BEST Remedy for Attention Deficit Hyperactivity Disorder (ADHD)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=FVFnq5j0mzY" target="_blank">
     <img src="https://img.youtube.com/vi/FVFnq5j0mzY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **注意力缺陷多動症（ADHD）的營養干預**：探討cod肝油和維生素B1在治療ADHD中的潛在作用。
 
+### 主要觀念
+- **Cod肝油的成分及其健康益處**：
+  - 含豐富的ω-3脂肪酸（DHA和EPA）。
+  - 提供维生素A和维生素D。
+  - 具有抗炎特性，對神經系統有益。
+
+- **ω-3脂肪酸在腦功能中的作用**：
+  - 脳組織中DHA的比例高達20%。
+  - ω-3脂肪酸促進神經元生長及突觸可塑性。
+  - 增加腦源性神經營養因子（BDNF）的水平。
+
+- **ADHD患者的營養缺乏**：
+  - 2018年的Meta分析表明，ADHD兒童DHA和EPA deficiency明顯。
+
+### 問題原因
+- **ADHD的可能病因**：
+  - 神經遞質功能失調。
+  - 脳神經元發育不全。
+  - 炎症因子過多。
+
+### 解決方法
+- **營養干預措施**：
+  - 补充cod肝油以提供必要的ω-3脂肪酸。
+  - 通過飲食改善宏量營養素比例，避免高碳水化合物攝入。
+
+- **額外建議的補充劑**：
+  - 維生素B1（硫胺素）：可從營養酵母中獲取。
+  - 維生素B1有助于減輕多動症狀。
+
+### 健康建議
+- **用藥與飲食結合**：
+  - 配合健康飲食，如低碳水化合物飲食，以提升治療效果。
+  - 注意劑量和來源，選擇野生捕捞的cod肝油。
+
+- **干預時效性**：
+  - 疗效需數月時間（約3個月）。
+  - 定期監測進展並調整方案。
+
+### 結論
+- **cod肝油的潛在益處**：
+  - 改善ADHD患者的注意力、集中力和學習能力。
+
+- **多策略綜合干預**：
+  - 營養補充。
+  - 適當飲食調整。
+  - 額外營養素的使用（如維生素B1）。
+
+- **未來研究方向**：
+  - 更大規模的臨床試驗以證實療效。
+  - 探索其他營養干預的可能性。
 </details>
 
 <details>
-<summary>3908. What Happens When You Eat "100% Whole Grains" Every Day for One Month?</summary><br>
+<summary>3908. [2022-03-19] What Happens When You Eat "100% Whole Grains" Every Day for One Month?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Ga-0CHCrH0s" target="_blank">
     <img src="https://img.youtube.com/vi/Ga-0CHCrH0s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章要點整理
 
+#### 核心主題：全穀物的健康影響與其替代選擇
+
+#### 主要觀念：
+1. **全穀物的營養價值**：
+   - 全穀物富含膳食纖維、礦物質（如鎂、鐵、鋅）、B群維生素和抗氧化劑。
+   
+2. **全穀物的潛在缺點**：
+   - 高含量的植酸（phytic acid）會干擾礦物質吸收。
+   - 富含Omega-6脂肪酸，可能導致炎症反應。
+
+#### 問題原因：
+1. **營養吸收障礙**：
+   - 植酸與礦物結合，降低吸收率。例如，鋅 deficiency可引發兒童 diarrhoea和生長遲緩。
+   
+2. **消化系統負擔**：
+   - 全穀物易導致腹脹、腸胃炎和小腸细菌過多症（SIBO）。
+
+3. **添加劑問題**：
+   - 緩化劑如石蠟可能影響intestinal健康，且合成維生素吸收效果差。
+
+4. **環境污染物影響**：
+   - 除草劑glyphosate殘留可能擾亂腸道菌群並增加 celiac disease風險。
+
+#### 解決方法：
+1. **傳統發酵工藝**：
+   - 发酵可分解植酸，提高營養價值。例如，72小時發酵的穀物更易於消化且礦物吸收率更高。
+   
+2. **選擇性攝取**：
+   - 選擇低植酸的全穀物，如小米和燕麥，並避免過量攝取。
+
+3. **替代飲食方案**：
+   - 採用低碳水化合物或生酮飲食，優先選擇蔬菜、肉類和健康脂肪來源。
+
+#### 健康建議：
+1. 減少全穀物攝取，尤其是未加工產品。
+2. 選擇經過發酵或浸泡的穀物以降低抗營養因子。
+3. 確保飲食多樣化，增加蔬菜和高品質蛋白質攝取。
+
+#### 結論：
+- 全穀物雖具備一定的營養價值，但其潛在缺點不容忽視。消費者應根據個人健康狀況選擇最適合的飲食模式。
 </details>
 
 <details>
-<summary>3907. Fix Your HORMONES with the Right FOOD!</summary><br>
+<summary>3907. [2022-03-18] Fix Your HORMONES with the Right FOOD!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=rmCXk2As1Y4" target="_blank">
     <img src="https://img.youtube.com/vi/rmCXk2As1Y4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 濕 hormone 平衡的重要性：飲食與生活方式的影響
 
+## 核心主題
+- 濾器 balance 是維持身體健康和整體功能的核心。
+- 飲食和生活方式在調節 hormones 平衡中起著關鍵作用。
+
+## 主要觀念
+1. **hormones 平衡的重要性**：
+   - 濕激素失衡會導致多種健康問題，包括糖尿病、polycystic ovarian syndrome (PCOS) 等。
+   - 濕激素平衡對性別特征、代謝和免疫功能有重要影響。
+
+2. **飲食對 hormones 平衡的影響**：
+   - 飲食選擇直接影響激素的合成和調節。
+   - 特定食物可幫助降低或增加特定激素水平，例如 cruciferous vegetables 可降低 excess estrogen。
+
+3. **生活方式對 hormones 平衡的影響**：
+   - 生活方式包括運動、睡眠和壓力管理等，均會影響激素平衡。
+   - 高強度間歇訓練 (HIIT) 和充足睡眠可促進 growth hormone 的分泌。
+
+## 問題原因
+1. **現代環境中的激素干擾物**：
+   - 溫 plastics、化妝品和其他環境污染物具有激素干擾作用，導致 hormones 失衡。
+   - 食品包裝材料和飲用水中含有的塑膠微粒對激素系統造成負面影響。
+
+2. **不良飲食習慣**：
+   - 高糖高碳水化合物飲食導致 insulin 水平升高，增加糖尿病風險。
+   - 低脂飲食可能影響 steroid hormones（如 testosterone 和 estrogen）的合成。
+
+3. **缺乏運動和不良睡眠**：
+   - 缺乏運動和睡眠干擾 growth hormone 和 cortisol 的正常分泌，影響身體修復和代謝功能。
+
+## 解決方法
+1. **飲食調整**：
+   - 低 carb 饮食：幫助降低 insulin 水平和控制血糖。
+   - 增加 cruciferous vegetables（如 kale、broccoli）：帮助調節 estrogen 平衡。
+   - 多攝取富含 zinc 的食物（如紅肉和海産品）：促進 testosterone 合成。
+   - 多食用富含 omega-3 的食物（如鲑鱼和亞麻籽）：支持 progesterone 調節。
+
+2. **生活方式改善**：
+   - 高強度間歇訓練 (HIIT)：促進 growth hormone 分泌，增強代謝。
+   - 保持充足睡眠：提升 growth hormone 和 testosterone 水平。
+   - 管理壓力：通過冥想、瑜伽等方式降低 cortisol 分泌。
+
+3. **環境干擾物的控制**：
+   - 避免使用塑料製品，改用玻璃或不鏽鋼容器。
+   - 安裝水質過濾器，去除飲用水中的塑膠微粒和其他污染物。
+
+## 健康建議
+1. **飲食建議**：
+   - 采低 carb、高蛋白、高 fib 實飲食模式。
+   - 多攝取富含微量營養素的食物，如深色蔬菜和水果。
+   - 避免食用含有激素的 dairy 和加工食品。
+
+2. **運動建議**：
+   - 定期進行高強度間歇訓練 (HIIT) 和力量訓練。
+   - 每周累積至少 150 分鐘的中等強度有氧運動。
+
+3. **睡眠管理**：
+   - 確保每晚獲得 7-9 小時的高質量睡眠。
+   - 避免睡前使用電子產品，創造良好的睡眠環境。
+
+4. **壓力管理**：
+   - 啓用正念冥想、瑜伽等技術來降低壓力水平。
+   - 適當安排工作和休息時間，避免過度疲勞。
+
+## 結論
+- hormones 平衡對整體健康至關重要。
+- 通過調整飲食結構和生活方式，可以有效調節激素平衡，預防相關疾病。
+- 倡導健康的飲食習慣和生活模式是維持 hormones 平衡的關鍵。
 </details>
 
 <details>
-<summary>3906. Before You Eat Another Hamburger WATCH THIS!</summary><br>
+<summary>3906. [2022-03-17] Before You Eat Another Hamburger WATCH THIS!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=B69RS3cZJFk" target="_blank">
     <img src="https://img.youtube.com/vi/B69RS3cZJFk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：.fast_food_burger_analysis
 
+---
+
+#### **核心主題**
+- 分析商用速食漢堡包的成分來源及其對人體健康和環境的影響。
+
+---
+
+#### **主要觀念**
+1. **來源分析**  
+   - 漢堡肉的主要來源為玉米和大豆喂養的牲畜。
+   - 玉米和大豆多數為基因改造（GM）作物，且使用除草劑 glyphosate。
+   
+2. **土壤健康與食物營養**  
+   - 大規模農業操作會破壞土壤生態，影響礦物質吸收。
+   - 目前 Agricultures 主要補充氮、磷、鉀（NPK），但缺乏其他微量元素。
+
+3. **抗生素濫用問題**  
+   - 過度使用抗生素於牲畜飼養中，導致抗藥性病原體的產生。
+   - 研究發現市售速食餐廳肉品中有 traces of antibiotics。
+
+4. **食品添加物與防腐劑**  
+   - 速食漢堡中常含有 sodium diacetate 等防腐劑。
+   - 配料如醬料、薯條和汽水多含高果糖玉米 syrup（HFCS）和其他基因改造成分。
+
+---
+
+#### **問題原因**
+1. **工業化農業實踐**  
+   - 使用 glyphosate 除草劑破壞土壤健康，降低食物營養密度。
+   - 土壤微生物群落被破壞，影響礦物質循環。
+
+2. **濫用抗生素**  
+   - 畜牧業中過度使用 antibiotics 造成抗藥性問題。
+   - 過量使用 antibiotics 影響人類健康，導致「超级bugs」的出現。
+
+3. **食品工業化加工**  
+   - 漢堡包中的成分經過高度加工，添加防腐劑、人工香料和合成維生素。
+   - 素食來源（如玉米油、大豆油）使用基因改造作物，增加健康風險。
+
+---
+
+#### **解決方法**
+1. **提升土壤健康**  
+   - 採用有機農業實踐，恢復土壤微生物群落。
+   - 減少對 glyphosate 的依賴，改用自然除草方式。
+
+2. **合理使用抗生素**  
+   - 限制非 theraputic 抗生素在畜牧業中的使用。
+   - 推動政策監管，防止 antibiotic resistance 的擴散。
+
+3. **選擇健康食品來源**  
+   - 選購 grass-fed 和 organic 肉類產品，確保食物安全。
+   - 自己製作漢堡，使用高品質、非基因改造的原料。
+
+---
+
+#### **健康建議**
+1. **飲食選擇**  
+   - 偏好 grass-fed 和 organically 養殖的牲畜產品。
+   - 工業化加工食品，避免 HFCS 和基因改造成分。
+
+2. **廚房DIY**  
+   - 自己製作漢堡，使用高品質肉類和配料。
+   - 選用 ketogenic-friendly 的麵包或完全避開精緻碳水化合物。
+
+3. **環境保護**  
+   - 支持有機農業，減少對土壤生態的破壞。
+   - 减少食物浪費，促進可持續消費模式。
+
+---
+
+#### **結論**
+- 工业化農業和食品加工對人體健康和環境造成多方面影響。
+- 真正的解決方案在於恢復土壤健康、合理使用抗生素以及改進食品生產方式。
+- 消費者應該更加注重食品來源，選擇高品質、有機的產品，以促進個人健康和生態平衡。
 </details>
 
 <details>
-<summary>3905. Why VALERIAN ROOT Should NOT be Taken for Sleep</summary><br>
+<summary>3905. [2022-03-16] Why VALERIAN ROOT Should NOT be Taken for Sleep</summary><br>
 
 <a href="https://www.youtube.com/watch?v=AqtFt20Ah6c" target="_blank">
     <img src="https://img.youtube.com/vi/AqtFt20Ah6c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 1. 核心主題：自然療法在 anxiety、insomnia 和 depression 中的作用
+
+Valerian root 的效果與 Valium 相似，但副作用較少。
+
+#### 2. 主要觀念：
+- GABA 在緩解焦慮和改善睡眠中的重要性。
+- 紫外線（UV）光與紅外線（IR）光在影響激素（如 melatonin 和 cortisol）方面的不同作用。
+- 太陽照射對降低 cortisol、增加 melatonin 和提升整體心理健康的效果。
+
+#### 3. 問題原因：
+- 现代生活方式中缺乏足夠的太陽光照，導致 melatonin 分泌紊亂和 cortisol 濫升。
+- 難以接觸到紅外線（IR）光，影響激素平衡。
+- 不良的生活習慣（如久坐、缺乏運動、營養不均衡）加重焦慮和睡眠問題。
+
+#### 4. 解決方法：
+- **自然療法**：增加太陽光照時間，尤其是早晨的紫外線和白天的紅外線暴露。
+- **生活方式調整**：
+    - 定期進行高強度間歇訓練（HIIT）或其他形式的運動。
+    - 調整飲食，採用健康的生酮飲食並配合間歇性禁食。
+- **營養補充**：攝取富含維生素 B1 的食物（如營養酵母和葵花籽），以支持神經傳導。
+- **微生物平衡**：通過益生菌、 Sauerkraut 或Kimchi等食物來改善腸道健康，增進 GABA 和 serotonin 的合成。
+
+#### 5. 健康建議：
+- 每天進行至少30分鐘的戶外活動，以接觸紫外線和紅外線。
+- 遭遇失眠或焦慮時，可在睡前食用富含維生素 B1 的食物，如葵花籽。
+- 考慮使用紅外線療法（如 sauna 或紅外線燈）來降低 cortisol 和改善睡眠。
+
+#### 6. 結論：
+自然療法結合健康的生活方式調整能夠有效緩解焦慮、改善睡眠並提升整體心理健康。關鍵在於充分利用太陽光的紅外線和紫外線，保持均衡飲食以及維持腸道健康。
 </details>
 
 <details>
