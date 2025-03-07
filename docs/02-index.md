@@ -285,58 +285,272 @@
 </details>
 
 <details>
-<summary>274. How to do a Real Health Evaluation</summary><br>
+<summary>274. [2015-05-19] How to do a Real Health Evaluation</summary><br>
 
 <a href="https://www.youtube.com/watch?v=9rjpz4nwo4g" target="_blank">
     <img src="https://img.youtube.com/vi/9rjpz4nwo4g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理與分析
 
+#### 核心主題
+- **膽汁分泌不足及其影響**：文章圍繞膽汁不足對消化系統和全身健康的影响展開討論，強調膽汁在吸收脂溶性維生素和 minerals 中的重要性。
+- **整體健康評估**：通過綜合分析患者的症狀，尋找潛在的問題根源，提出針對性的解決方案。
+
+---
+
+#### 主要觀念
+1. **膽汁的功能與重要性**：
+   - 胆汁負責乳化脂肪，促進脂肪吸收。
+   - 維生素 D、K2 和 E 的吸收依賴於膽汁中的脂質Carrier。
+   - 胆汁還能中和胃酸，防止反流。
+
+2. **症狀與膽汁不足的關聯**：
+   - 酸 reflux, constipation, coated tongue, bad breath: 由膽汁不足導致腸道缺乏潤滑。
+   - 紧痛小腿：可能與鈣、鎂吸收不良有關，這些礦物質需依賴維生素 D 才能有效吸收。
+   - 睡眠障礙和疲勞：可能與高皮質醇或激素失衡相關。
+
+3. **其他潛在問題**：
+   - 腺症狀：如壓力、Fatigue, inability to sleep。
+   - 激素失衡：高雌激素水平可能干擾膽汁生成。
+   - 肝臟疤痕組織或纖維化：可能影響膽汁生產。
+
+---
+
+#### 問題原因
+1. **膽汁不足的原因**：
+   - 腎功能受損（如肝硬化、肝炎）。
+   - 激素干擾（如高雌激素水平）。
+   - 長期使用合成甲状腺荷爾蒙（如Synthroid）可能影響代謝。
+
+2. **吸收不良的結果**：
+   - 脂溶性維生素（D, K2, E）缺乏。
+   - 鈣、鎵和 magnesium 的吸收受限，導致肌肉痙攢和其他 mineral deficiency症狀。
+
+---
+
+#### 解決方法
+1. **直接干預措施**：
+   - 补充膽鹽：使用如Purify bile salts來幫助消化脂肪，改善 absorption。
+   - 調整飲食結構：增加高蛋白和高脂肪的早餐，配合膽鹽支持消化。
+
+2. **間接改善方法**：
+   - 支持腺功能：通過Balancer Supplements或其他天然產品來穩定 adrenal function。
+   - 促進肝臟修復：使用具有抗炎和保護肝臟的成分（如特定植物提取物）。
+
+3. **藥物與療法**：
+   - 考慮激素平衡治療，調整高雌激素水平。
+   - 如果存在肝臟疤痕組織，使用能分解scar tissue的產品。
+
+---
+
+#### 健康建議
+1. **飲食調整**：
+   - 早餐攝入高蛋白和健康脂肪（如 avocado, nuts, 淮鮭魚）。
+   - 減少加工食品和高糖食物，以降低腸胃負擔。
+
+2. **補充劑推薦**：
+   - 胆鹽 supplments：改善消化和吸收。
+   - 維生素 D、K2 和 E：彌補因吸收不良導致的不足。
+   - 鈣和鎵 supplments：配合膽鹽使用，以提高吸收效率。
+
+3. **生活方式建議**：
+   - 保持規律的作息時間，改善睡眠質素。
+   - 練習減壓技巧（如冥想、呼吸訓練），以降低 adrenal 負擔。
+
+---
+
+#### 總結
+- 胆汁不足是導致消化問題和全身性症狀的核心原因。
+- 需要多管齊下來解決吸收不良和激素失衡問題，包括補充膽鹽、調整飲食結構和支持腺功能。
+- 通過針對性的干預措施可以顯著改善患者的生活質量。
 </details>
 
 <details>
-<summary>273. Emotional testimonial regarding diabetes - Dr. Berg's Office</summary><br>
+<summary>273. [2015-05-18] Emotional testimonial regarding diabetes - Dr. Berg's Office</summary><br>
 
 <a href="https://www.youtube.com/watch?v=UXMJV4H0oi4" target="_blank">
     <img src="https://img.youtube.com/vi/UXMJV4H0oi4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 病人因膝蓋疼痛和足部腫脹就診，最終接受了物理治療。
+- 病人及其家人有糖尿病史，且病人長期受高血糖和高血壓影響。
+- 病人在治療後血糖和血壓有所改善，並學習了更多關於身體機制的知識。
 
+### 主要觀念
+1. 病人因膝蓋疼痛和足部腫脹Seeking medical help initially felt embarrassed due to past experiences with healthcare providers.
+2. The patient had a history of uncontrolled diabetes and hypertension, which significantly impacted her health.
+3. The treatment involved physical therapy and education about the body's mechanisms, leading to improved blood sugar levels and reduced symptoms.
+
+### 問題原因
+- 病人長期未能有效管理血糖和血壓，導致出現相關併發症如腫脹和疼痛。
+- 過去的治療經歷使病人對醫療機構有所顾虑，影響了她積極就醫的決心。
+
+### 解决方法
+1. **Physical Therapy**: The doctor provided immediate relief for the knee pain and swelling through physical therapy.
+2. **Medication Adjustment**: The doctor adjusted her medications, leading to better blood sugar control.
+3. **Education**: The patient was educated about her body's mechanisms, particularly regarding water retention and electrolyte balance, which helped her understand her condition better.
+
+### 健康建議
+- 病人開始采取更健康的飲食習慣，並計劃長期跟蹤她的血糖和血壓情況。
+- 醫生強調理解身體機制的重要性，鼓勵病人避免依賴藥物，而是通過生活方式的調整來控制病情。
+
+### 结論
+- 經過治療和教育，病人的整體健康狀況有了顯著改善，她表示對生活充滿了希望並感謝醫療團隊。
+- 本案例展示了綜合治療（包括物理治療、藥物調節和健康教育）在管理慢性疾病方面的有效性。
 </details>
 
 <details>
-<summary>272. Amazing Shoulder & Neck Pain Relief – Melt Your Muscle Tension – Dr. Berg</summary><br>
+<summary>272. [2015-05-10] Amazing Shoulder & Neck Pain Relief – Melt Your Muscle Tension – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=WzljxDgJ2h8" target="_blank">
     <img src="https://img.youtube.com/vi/WzljxDgJ2h8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **肩部與肩胛骨 tension 的 Relief 技術**
+- **LEVATOR ANGULOSCAPULA 肌肉的作用與緊張**
 
+### 主要觀念
+1. 大多數人存在上背部 (肩胛骨區域) 的 tension。
+2. 紧张的肌肉主要為LEVATOR ANGULOSCAPULA（提肩肌），負責 shrugging shoulders 和 elevating scapula。
+3. 肩部疼痛可能與肩胛骨、neck 或 back 有關。
+
+### 問題原因
+- **LEVATOR ANGULOSCAPULA 肌肉過度緊張**：導致肩部不適。
+- **肩胛骨的活動受限**：部分人無法充分展開肩胛骨。
+- **肩胛骨後方肌肉 tension**：使肩胛骨移動受阻。
+
+### 解決方法
+1. **按壓對抗肌肉**：
+   - 按壓肩胛骨下緣的肌肉，特別是在 scapula 的內側邊緣。
+   - 使用手掌或拇指施加壓力，保持約 30 秒每次。
+2. **伸展技術**：
+   - 從背部按壓肩胛骨，向上升起並保持壓力。
+   - 可以使用手掌以一定角度按壓，提供廣泛的接觸面。
+
+### 健康建議
+1. 定期進行肩部和上背部的放鬆按摩。
+2. 伸展肩胛骨和neck肌肉，增加活動範圍。
+3. 維持良好的姿勢，避免長時間保持不良姿勢導致肌肉過度緊張。
+
+### 結論
+- 按壓肩胛骨下緣的對抗肌肉是有效的 relief 方法。
+- 正确的按摩技術可以顯著減輕肩部 tension 和疼痛。
+- 肩部健康關鍵在於定期放鬆和適當的伸展運動。
 </details>
 
 <details>
-<summary>271. Is Ketosis Dangerous? – Dr.Berg</summary><br>
+<summary>271. [2015-05-02] Is Ketosis Dangerous? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_434ERRbkj8" target="_blank">
     <img src="https://img.youtube.com/vi/_434ERRbkj8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理 - 低碳水化合物飲食與酮症的研究
 
+---
+
+#### **核心主題：酮症（Ketosis）的定義與健康益處**
+- 酮症是一種脂肪燃燒的生理狀態，身體在酮症中產生酮體作為主要的能量來源。
+- 酮體是一種替代糖類的能量來源，具有清潔、高效的特性，可提供持久的能量。
+
+---
+
+#### **酮症的前提條件**
+- 降低碳水化合物攝取量至每日熱量的5%以下。
+- 控制胰島素水平，避免血糖過高導致脂肪肝和代謝紊亂。
+
+---
+
+#### **問題原因：現代飲食中糖分攝入過多的危害**
+- 平均每人每年攝入145磅糖分，遠超身體儲存能力。
+- 過量糖分促使胰島素激增，將 excess glucose 轉化為脂肪，導致肥胖和代謝綜合征。
+- 糖分攝取過度會增加壞膽固醇、三酸甘油酯水平，並促進炎症反應。
+
+---
+
+#### **健康益處：酮症的多方面優勢**
+- **血脂改善**：降低 LDL（壞膽固醇）和提高 HDL（好膽固醇），降低血液中 triglycerides 水平。
+- **血糖控制**：改善胰島素抵抗，降低糖尿病風險。
+- **神經健康**：增強記憶力，減輕癡呆症症状。
+- **心血管健康**：清除 arteries 中的 plaque，降低心臟病風險。
+
+---
+
+#### **解決方法與飲食建議**
+1. **飲食結構調整**：
+   - 以高脂肪、中蛋白質、低碳水化合物為核心。
+   - 選擇健康的脂肪來源，如 nuts, avocados, 深海魚油等。
+   - 減少精制糖和加工食品的攝取。
+
+2. **逐步適應**：
+   - 身體需時TRANSITION至酮症，建議循序漸進。
+   - 注意鹽分攝取，補充因水分流失而可能降低的血容量。
+
+---
+
+#### **結論：酮症飲食的長期健康效益**
+- 酮症飲食是一種自然而健康的能量來源方式。
+- 長期依從此飲食計劃可顯著提升整體健康，降低慢性病風險。
+
+---
+
+### 附英文摘要(Abstract)
+**Title**: The Health Benefits and Mechanisms of Ketosis in Low-Carbohydrate Diets  
+**Abstract**:  
+This article explores the concept of ketosis, a metabolic state where the body utilizes ketones as an energy source instead of glucose. It highlights the benefits of a low-carbohydrate diet, including improved lipid profiles, enhanced insulin sensitivity, and reduced risk of chronic diseases such as diabetes and cardiovascular disorders. The article also addresses common concerns about fat consumption and provides practical dietary recommendations to achieve and sustain ketosis. The conclusion emphasizes the long-term health advantages of adopting a ketogenic lifestyle for optimal metabolic health.
 </details>
 
 <details>
-<summary>270. Weight Loss & Sleep Success - Dr. Berg's Patient Speaks Out!</summary><br>
+<summary>270. [2015-04-30] Weight Loss & Sleep Success - Dr. Berg's Patient Speaks Out!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=0W_4_nfF2Mo" target="_blank">
     <img src="https://img.youtube.com/vi/0W_4_nfF2Mo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：個人健康改善與生活方式轉變
 
+此篇文章的核心主題圍繞一個人如何通過改變生活方式和遵循特定的健康計劃來顯著改善其整體健康狀況。作者Mark McClain描述了他從睡眠障礙、食物過敏到身體反應問題的挑戰，以及他如何發現並跟隨Dr. Berg的計劃來解決這些問題。
+
+### 主要觀念：多種健康問題的綜合影響
+
+文章強調了Mark在開始Dr. Berg計劃之前所面臨的多重健康問題，包括睡眠障礙、食物過敏（如麸質不耐受和乳糖不耐受）、對各種化學物質的不良反應，以及經常性的糖分和鹽分渴望。這些問題嚴重影響了他的日常生活和整體健康。
+
+### 問題原因：.food allergies and sensitivities, poor sleep quality, lack of vitality
+
+Mark的主要健康問題可以歸因於多種因素，包括食物過敏（如麸質不耐受和乳糖不耐受）、化學物質敏感性以及睡眠障礙。這些因素導致他經常感到疲倦、注意力不集中，並且影響了他的日常生活。
+
+### 解決方法：遵循Dr. Berg的健康計劃
+
+Mark在偶然發現Dr. Berg的網站後，決定參加其健康計劃，該計劃包括飲食調整和特定的補充劑療法。根據他的描述，這個計劃涵蓋了以下方面：
+1. **飲食調整**：避免麸質、乳制品和其他致敏食物，並增加蔬菜（如羽衣甘蓝）和酸性食物（如醋和蔓越莓汁）的攝取。
+2. **補充治療**：使用特定的補充劑來幫助恢復腸道健康和整體免疫功能。
+3. **行為改變**：改善睡眠習慣，避免干擾睡眠的電子產品使用，並增加身體活動。
+
+### 健康建議：個化化飲食計劃和生活方式調整
+
+文章提供了以下幾項健康建議：
+1. **個化化飲食**：根據個人的健康狀況和食物敏感性來制定飲食計劃，避免已知的致敏物。
+2. **補充療法**：在專業醫療人員的指導下使用特定的補充劑來改善整體健康。
+3. **睡眠管理**：建立良好的睡眠習慣，避免睡前使用電子產品，以提高睡眠質量。
+4. **身體活動**：定期進行適量的運動，以增強體力和能量水平。
+
+### 結論：生活方式改變帶來顯著健康提升
+
+Mark在遵循Dr. Berg計劃後取得了顯著的健康改善，包括：
+- 35磅的體重下降
+- 睡眠質量的明顯提高
+- 食欲的控制，尤其是對糖分和鹽分的渴望減輕
+- 白天精力充沛，不再感覺疲倦
+
+這些變化表明，通過個化化的飲食調整和生活方式改變，可以有效解決多種健康問題，並提升整體生活質量。Mark的經驗強調了持續 commitment to a healthier lifestyle的重要性，以及在專業指導下進行健康管理和恢復的價值。
 </details>
 
 <details>
@@ -362,58 +576,262 @@
 </details>
 
 <details>
-<summary>267. Adrenal Discovery – High Cortisol Levels, Blood Sugar Levels & Adrenal Stress – Dr. Berg</summary><br>
+<summary>267. [2015-04-15] Adrenal Discovery – High Cortisol Levels, Blood Sugar Levels & Adrenal Stress – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Z9FWsmmxO7c" target="_blank">
     <img src="https://img.youtube.com/vi/Z9FWsmmxO7c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- **Adrenal Gland Dysfunction**：文章圍繞腎上腺功能失常及其對全身多種疾病的影響展開討論。  
 
+---
+
+### 主要觀念  
+1. **高皮質醇水平的影響**：皮質醇是腎上腺的主要激素之一，其過高水平可導致多種臨床症狀和疾病，包括失眠、注意力分散、痤疮、肥胖、血糖紊亂、骨質疏松等。  
+2. **慢性壓力的作用**：文章強調這些問題其實是由長期壓力引起的，而非獨立的疾病，傳統醫療常將其視為獨立疾病治療，導致病情反覆且難以治愈。  
+
+---
+
+### 問題原因  
+1. **壓力源**：現代人多數面臨來自工作和家庭的慢性壓力，這直接影響腎上腺功能。  
+2. **環境因素**：與壓力相關的工作或生活環境是主要的問題來源。  
+3. **營養不足**：某些營養 deficiency（如B族維生素）可能加重 adrenal dysfunction。  
+
+---
+
+### 解決方法  
+1. **綜合性治療**：通過改善腎上腺功能來解決症狀，而非單純治療症狀。  
+2. **生活方式調整**：包括飲食、運動、 acupuncture、按摩等多種方式來緩解壓力並促進 adrenal 健康。  
+
+---
+
+### 健康建議  
+1. **減壓措施**：改變導致壓力的環境或工作條件，例如休假或遠離高壓環境。  
+2. **自我實驗**：個人可通過調整飲食、運動和休息來觀察 adrenal 功能的改善情況。  
+3. **營養補充**：適當攝取B族維生素等對 adrenal 功能有益的營養素。  
+
+---
+
+### 結論  
+- **腎上腺功能失常**是導致多種慢性疾病的根源，而非獨立的疾病。  
+- 長期壓力是這些問題的主要原因，治療應著重於減輕壓力和改善 adrenal 功能，而非單純對症治療。
 </details>
 
 <details>
-<summary>266. The Dangers Of Stopping Smoking – Dr.Berg On Effects Of Quitting Smoking</summary><br>
+<summary>266. [2015-04-13] The Dangers Of Stopping Smoking – Dr.Berg On Effects Of Quitting Smoking</summary><br>
 
 <a href="https://www.youtube.com/watch?v=uQP3Gq-IGbA" target="_blank">
     <img src="https://img.youtube.com/vi/uQP3Gq-IGbA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 尼古丁成瘾及其戒断效应对身体的影响，尤其是对内分泌系统和代谢功能的长期影响。
 
+### 主要觀念
+- 尼古丁作为中枢神经系统中的神经传递素，通过刺激肾上腺素分泌来产生即时放松效果。
+- 长期吸烟导致尼古丁受体的耐受性和敏感性下降，引发身体对更高剂量的需求。
+- 戒烟时若未适当管理，可能导致严重的生理和代谢失衡。
+
+### 問題原因
+- **尼古丁依赖性**：长期使用尼古丁使身体产生耐受性，戒断时神经递质水平骤降。
+- **肾上腺功能紊乱**：尼古丁刺激导致肾上腺过度活跃，戒断后可能出现功能失调。
+- **代谢失衡**：戒烟过程中可能导致能量代谢混乱，引发体重增加和健康问题。
+
+### 解決方法
+- **补充氨基酸前体**：
+  - 补充苯丙氨酸、酪氨酸及左旋多巴（L-Dopa）等氨基酸，以帮助合成神经递质。
+- **维生素B群的摄入**：
+  - 通过营养酵母或其他天然来源摄取B族维生素，促进神经递质的合成和代谢平衡。
+
+### 健康建議
+- 戒烟时应逐步减少尼古丁摄入，避免突然停止引发严重的生理反应。
+- 结合健康饮食和适量运动，维持代谢稳定。
+
+### 結論
+- 戒烟对健康至关重要，但必须采取科学方法以避免戒断综合征带来的危害。通过补充必要的营养素和合理管理身体状态，可以有效缓解戒烟过程中的不适，确保长期健康。
 </details>
 
 <details>
-<summary>265. The Best & Worst Snacks For Weight Loss – Diet For Losing Weight Dr.Berg</summary><br>
+<summary>265. [2015-04-08] The Best & Worst Snacks For Weight Loss – Diet For Losing Weight Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=WFELadMuPEM" target="_blank">
     <img src="https://img.youtube.com/vi/WFELadMuPEM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 討論不同零食的影響及其對代謝率和體重管理的效果。
 
+---
+
+### 主要觀念  
+1. **代謝速率的重要性**：  
+   - 慢代謝人群需要注意某些常被推薦為健康食品的零食，事實上可能不利於脂肪燃燒。
+2. **糖分控制**：  
+   - 零食中的糖分含量是影響體重管理和代謝率的关键因素。  
+3. **食物敏感性**：  
+   - 某些人對特定食物（如水果或乳制品）的反應可能更為敏感，需要根據個人情況調整攝取量。
+
+---
+
+### 問題原因  
+1. **常見錯誤飲食建議**：  
+   - 部分被推薦的健康零食（如某些蛋白質棒、酸奶等）其實含糖量高。  
+2. **代謝敏感性**：  
+   - 慢代謝人群可能更容易受到食物中糖分和其他成分的影響，導致脂肪燃燒受阻。  
+3. **食物選擇不當**：  
+   - 選擇含糖量高的零食或 Dairy 產品，可能會抑制體重管理和健康目標。
+
+---
+
+### 解決方法  
+1. **優質零食選擇**：  
+   - 素食醬（Hummus）：零糖分，適合低糖攝取需求。  
+   - 花生醬：天然低糖，但需避免添加糖的版本。  
+2. **替代食物建議**：  
+   - 使用蔬菜（如芹菜、 carrots）作為蘸料基底，代替高碳水化合物的零食（如脆餅）。  
+3. **調整攝食策略**：  
+   - 暫時排除某些敏感性食品（如水果），待體重目標達成後再逐步復原。  
+4. **消化問題處理**：  
+   - 若蔬菜引起腹脹，可考慮烹煮或選擇其他低糖替代品。
+
+---
+
+### 健康建議  
+1. **閱讀食物標籤**：  
+   - 注意食品包裝上的 sugar 含量，避免購買含添加糖的產品。  
+2. **循序漸進調整飲食**：  
+   - 減肥初期可先排除高糖零食和 Dairy 產品，逐步找出適合個人的飲食模式。  
+3. **多樣化食物來源**：  
+   - 選擇不同種類的蔬菜和優質蛋白源，保持飲食均衡。  
+4. **注意身體反應**：  
+   - 紀錄飲食與體重、代謝率的變化，找出影響個人健康的食物。
+
+---
+
+### 结論  
+- 通過選擇低糖、高纖維的零食，並根據個人代謝特點調整飲食結構，可以有效促進脂肪燃燒和體重管理。  
+- 零食選擇需要謹慎，避免被市售食品的宣傳所誤導，建議仔細閱讀標籤並實驗不同食物對身體的影響。
 </details>
 
 <details>
-<summary>264. The Egg Yolk Myth – Dr. Berg</summary><br>
+<summary>264. [2015-03-24] The Egg Yolk Myth – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=oerYACBHkuI" target="_blank">
     <img src="https://img.youtube.com/vi/oerYACBHkuI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：蛋黃的健康益處  
+Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些因擔心胆固鈷問題而避免食用蛋黃的人群。他指出蛋黃不僅不會增加壞膽固醇，還能提供豐富的營養和健康功效。
 
+---
+
+### 主要觀念：  
+1. **蛋黃中的營養價值**  
+   - 蛋黃含有高於蛋白的營養成分，包括維生素、礦物質等。  
+   - 每枚蛋黃約含300毫克膽固醇（具體數值可能因サイズ和來源而異）。  
+
+2. **膽固醇的分類與功能**  
+   - 高密度脂蛋白（HDL）被認為是「好」膽固醇，負責將胆固鈷運輸出肝脏。  
+   - 低密度脂蛋白（LDL）則是「壞」膽固醇，負責將胆固鈷運輸入肝脏。  
+   - 胆固醇在人體中具有重要功能，包括支持 hormones 的合成和作為修復組織的原料。  
+
+3. **蛋黃對健康的影響**  
+   - 雖然蛋黃含有較高的膽固醇，但其主要增加的是「好」膽固醇（HDL）。  
+   - 人體每天自然生成約2000毫克的膽固醇，食補來源的膽固醇攝取量對健康影響有限。  
+
+---
+
+### 問題原因：  
+- 公眾對蛋黃胆固鈷的錯誤認識，導致許多人因擔心胆固鈷問題而避免食用蛋黄。  
+- 市場上流傳的健康建議往往過於簡化，忽略了膽固醇的分類及其功能。  
+
+---
+
+### 解決方法：  
+1. **理解膽固醇的平衡**  
+   - 强調膽固醇「流出」和「流入」的平衡，而非單一總量。  
+   - 胆固醇的增加可能反映了身體對修復或激素合成的需求。  
+
+2. **均衡飲食**  
+   - 食用蛋黃時，配合其他健康食物，保持整體飲食的均衡。  
+
+---
+
+### 健康建議：  
+- 不要因擔心胆固鈷而避免食用蛋黄。  
+- 蛋黃是富含營養的健康食品，尤其是其對 hormones 和身體修復的支持功效值得重視。  
+- 如果有特定健康狀況，建議諮詢醫生或營養師以制定個人化飲食計劃。  
+
+---
+
+### 結論：  
+蛋黃不僅不會導致胆固鈷問題，反而提供了多種健康益處。公眾應該摒棄對蛋黄的錯誤看法，將其納入均衡飲食中。
 </details>
 
 <details>
-<summary>263. Dr. Berg's Theory on Dementia, Blood Pressure & Stroke</summary><br>
+<summary>263. [2015-03-15] Dr. Berg's Theory on Dementia, Blood Pressure & Stroke</summary><br>
 
 <a href="https://www.youtube.com/watch?v=dq2herNm4Pc" target="_blank">
     <img src="https://img.youtube.com/vi/dq2herNm4Pc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 探讨钙代谢在痴呆症（dementia）、高血压和中风中的潜在作用及其影响机制。
 
+---
+
+### 主要觀念  
+1. **钙在动脉中的积累**：  
+   - 钙在脑部动脉中的沉积会导致血管硬化，从而引起血压升高。  
+2. **钙转运与维生素D3和K2的关系**：  
+   - 维生素D3促进钙在小肠中的吸收（增加约22倍）。  
+   - 维生素K2将软组织中的钙转移到骨骼中，减少动脉和其他部位的钙沉积。  
+
+3. **脂肪的重要性**：  
+   - 脂肪是维生素K2的主要来源之一，尤其是来自草饲动物的产品（如黄油、奶酪和鸡蛋）。  
+
+---
+
+### 問題原因  
+1. **钙代谢失衡**：  
+   - 钙在软组织中的异常沉积导致血管硬化、高血压及相关疾病。  
+2. **维生素K2缺乏**：  
+   - 现代饮食中对草饲动物性食品的摄入减少，导致维生素K2不足。  
+
+3. **脂肪的误解与避免**：  
+   - 社会普遍对饱和脂肪的恐惧导致人们避免摄入必要的脂肪来源（如黄油、全脂牛奶和奶酪），影响维生素K2的摄取。  
+
+---
+
+### 解決方法  
+1. **补充维生素K2**：  
+   - 增加草饲动物性食品的摄入，包括黄油、奶酪、鸡蛋和牛肉等。  
+2. **优化脂肪摄入**：  
+   - 恢复对饱和脂肪的正确认知，选择健康的脂肪来源以支持维生素K2的吸收。  
+
+3. **改善消化功能**：  
+   - 确保胆汁分泌正常（如通过 bile salts 补充）以帮助脂肪和脂溶性维生素的消化吸收。  
+
+---
+
+### 健康建議  
+1. **饮食调整**：  
+   - 优先选择全脂乳制品、草饲黄油和鸡蛋，避免低脂或无脂产品。  
+2. **关注胆汁健康**：  
+   - 如果存在胆囊切除或其他消化问题，考虑补充 bile salts 以辅助脂肪代谢。  
+3. **咨询医生**：  
+   - 在尝试任何补充剂或饮食调整前，建议与医疗专业人员讨论个人情况和适用性。  
+
+---
+
+### 結論  
+- 钙代谢失衡是痴呆症、高血压和中风的重要潜在原因。通过优化维生素K2的摄入和改善脂肪代谢，可以有效减少钙在血管中的沉积，降低相关疾病的风险。现代饮食文化对饱和脂肪的误解需要被纠正，以支持整体健康。
 </details>
 
 <details>
