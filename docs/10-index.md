@@ -307,113 +307,573 @@
 </details>
 
 <details>
-<summary>1072. In Ketosis But No Ketones In Urine? – Dr. Berg</summary><br>
+<summary>1072. [2017-09-22] In Ketosis But No Ketones In Urine? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=WecG0HDXDSg" target="_blank">
     <img src="https://img.youtube.com/vi/WecG0HDXDSg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小結點整理
 
+#### 核心主題  
+- 低 ketogenic 饮食中尿液中缺乏酮體的原因及改善方法。
+
+#### 主要觀念  
+1. 要想在尿液中檢測到酮體，必須達到充分的酮症狀態。
+2. 低 ketogenic 饮食的效果受到飲食結構、進食時間、睡眠品質和運動等多方面因素的影響。
+
+#### 問題原因  
+1. **酮體消耗殆盡**：身體已成功轉為以酮體為主要能源，因此尿液中檢測不到酮體。
+2. **未充分適應低 ketogenic 饮食**：通常需要至少兩個月時間來建立酮症耐受度。
+3. **缺乏間歇性斷食**：频繁進食會抑制酮症的產生。
+4. **睡眠不足**：睡眠不足影響代謝和酮體生成。
+5. **過量蛋白攝取**： excess protein 可能干擾酮osis 的效果。
+
+#### 解決方法  
+1. **增加間歇性斷食**：每日限制進食時間，減少血糖波動。
+2. **改善睡眠品質**：
+   - 確保每晚獲得7.5到8小時的睡眠。
+   - 減少晚上接觸刺激性信息（如新聞）。
+   - 考慮使用助眠補充劑（如褪黑激素、calcium lactate）。
+3. **調整蛋白質攝取**：
+   - 每餐控制蛋白質攝取量在3至6盎司之間。
+   - 避免睡前進食，以防止影響睡眠和酮osis。
+4. **在空腹期間進行運動**：建議於進食窗口之外的空腹階段進行訓練，以增強生長激素分泌，提高酮osis效果。
+
+#### 健康建議  
+1. **飲食結構**：
+   - 確保主要能量來源為脂肪，限制碳水化合物攝取。
+   - 避免頻繁進食，間歇性斷食可提升酮osis效果。
+2. **生活習慣**：
+   - 保持良好的睡眠品質，避免睡眠不足影響代謝功能。
+   - 減少 вечерние 活動和刺激，以促進深度睡眠。
+3. **運動計劃**：
+   - 選擇在空腹狀態下進行有氧運動或力量訓練，以最大化酮osis效果。
+   - 確保運動後補充足夠的營養，以維持代謝平衡。
+
+#### 結論  
+低 ketogenic 饮食缺乏尿液酮體的原因多樣，可能涉及酮體消耗、未充分適應飲食結構、睡眠不足或進食頻率等問題。通過增強間歇性斷食、改善睡眠品質、控制蛋白質攝取以及在空腹期間進行運動等方式，可以有效提升酮osis效果，促進脂肪燃燒和整體健康。
 </details>
 
 <details>
-<summary>1071. Stress & Anti Stress Hormones (Cortisol & Serotonin) Explained By Dr.Berg</summary><br>
+<summary>1071. [2017-09-21] Stress & Anti Stress Hormones (Cortisol & Serotonin) Explained By Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xmXFhglkz5c" target="_blank">
     <img src="https://img.youtube.com/vi/xmXFhglkz5c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 探讨两种对立激素——血清素（Serotonin）和皮质醇（Cortisol）的作用及其相互关系。
 
+---
+
+### 主要觀念  
+1. **皮質醇的功能**：
+   - 皮質醇是應激荷爾蒙，幫助身體應對壓力。
+   - 高水平的皮質醇會導致壓力、疲勞和其他健康問題。
+
+2. **血清素的功能**：
+   - 血清素是一種「抗壓力」荷爾蒙，與幸福感和鎮定感有關。
+   - 大約90%的血清素集中在消化系統中，參與腸道蠕動和黏液生成。
+
+3. **相互作用**：
+   - 皮質醇和血清素在功能上對立，但二者可以通過代謝途徑相互影響。
+   - 高糖飲食、壓力等因素會促使皮質醇升高，從而抑制血清素的合成。
+
+---
+
+### 問題原因  
+- **皮質醇水平過高**的原因包括：
+  - 過度訓練或恢復不足。
+  - 精神壓力或憤怒等負面情緒。
+  - 不良環境（如接觸消极信息或人物）。
+  - 刺激物攝取（如咖啡因、某些減肥藥）。
+  - 手術或創傷後的生理應激。
+  - 高糖飲食和失眠。
+
+---
+
+### 解決方法  
+1. **降低皮質醇**：
+   - 確保充足的睡眠，避免過度訓練。
+   - 減少刺激物攝取（如咖啡、巧克力）。
+   - 調整飲食結構，限制高糖食物的攝入。
+
+2. **提升血清素水平**：
+   - 保障足夠的睡眠時間，改善睡眠質量。
+   - 接受陽光照射以促進維生素D合成。
+   - 培養樂趣，如音樂和娛樂活動。
+   - 適當運動，避免過度訓練。
+
+3. **腸道健康管理**：
+   - 通過間歇性禁食清潔腸道，改善消化功能。
+   - 補充B族維生素（尤其是尼克酸），促進色胺酸轉化為血清素。
+
+---
+
+### 健康建議  
+1. **睡眠管理**：
+   - 確保每天獲得足夠的睡眠時間，以降低皮質醇並提升血清素。
+
+2. **運動與休息均衡**：
+   - 適當運動可以提高血清素水平，但需避免過度訓練。
+
+3. **飲食調整**：
+   - 減少高糖食物攝入，避免刺激皮質醇分泌。
+   - 通過間歇性禁食改善腸道健康。
+
+4. **心理調適**：
+   - 避免接觸消极信息和人物，保持樂觀心態。
+   - 啟發快樂因子（如音樂、笑聲）來提升血清素水平。
+
+---
+
+### 結論  
+- 血清素和皮質醇在身體中存在對立但平衡的作用。
+- 通過調整睡眠、運動、飲食和心理狀態，可以有效調節這兩種激素的平衡，從而改善整體健康狀況。
 </details>
 
 <details>
-<summary>1070. Dr. Berg's New Books Now on Kindle</summary><br>
+<summary>1070. [2017-09-21] Dr. Berg's New Books Now on Kindle</summary><br>
 
 <a href="https://www.youtube.com/watch?v=OJB9I_3NiYY" target="_blank">
     <img src="https://img.youtube.com/vi/OJB9I_3NiYY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理
 
+#### 1. 核心主題
+- 新 booklet 的發布：  
+  Dr. Burke 推出了新 booklet《It's Not Lose Weight to Get Healthy, It's Good Health to Lose the Weight》，強調健康生活方式的重要性。  
+
+- 中心理念：  
+  健康應該放在首位，減重是健康的一部分，而非唯一目標。
+
+#### 2. 主要觀念
+- **健康至上的理念**：Dr. Burke 强調，健康比減重更重要，健康的身體狀態會自然地引發體重的變化。  
+
+- **胰島素抵抗的問題**：  
+  胰島素抵抗被視為美國乃至全球最大的健康問題之一，並與多種疾病有關。
+
+#### 3. 問題原因
+- **現代飲食習慣**：高糖、高碳水化合物的飲食導致胰島素抵抗，進而引發肥胖和其他代謝性疾病。  
+
+- **生活方式的改變**：缺乏運動和不良的生活習慣進一步加重了健康問題。
+
+#### 4. 解決方法
+- ** intermittent fasting（間歇性禁食）**：  
+  經過簡短的禁食期後增加進食窗口，幫助降低胰島素水平，改善代謝健康。
+
+- **飲食結構調整**：  
+  - **20%蛋白質**：提供足夠的營養支持，增強肌肉。  
+  - **75%脂肪**：以健康脂肪為主（如橄欖油、坚果等），穩定血糖水平。  
+  - **5%碳水化合物**：選擇低GI食物，控制攝取量。
+
+- **圖表化展示**：  
+  booklet 中用圖形形式展示各類食物的攝取比例和具體份量，幫助讀者直觀理解飲食結構。  
+
+#### 5. 健康建議
+- **簡化飲食計劃**：提供三餐或兩餐的示例，便於讀者規劃每日飲食。  
+
+- **教育資源**：  
+  booklet 內附詳細問答部分，解答常見問題，涵蓋所有減重和健康維持所需的信息。
+
+#### 6. 結論
+- **健康生活方式的重要性**：Dr. Burke 認為，健康的身體狀態是減重的結果，而非原因。  
+
+- **新 booklet 的價值**：  
+  這份_quick read_ guides 提供清晰、具體的飲食建議和工具，幫助讀者逐步實現健康目標。
+
+#### 7. 其他信息
+- **發布平臺**：Kindle 平台可免費下載，附有超鏈接。  
+
+- **subscriber 的呼籲**：鼓勵觀眾訂閱頻道以獲得更多內容更新。
 </details>
 
 <details>
-<summary>1069. Will Small Frequent Meals Throughout The Day Enhance Metabolism? – Dr. Berg</summary><br>
+<summary>1069. [2017-09-21] Will Small Frequent Meals Throughout The Day Enhance Metabolism? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DCztEs0Hj4w" target="_blank">
     <img src="https://img.youtube.com/vi/DCztEs0Hj4w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **飲食模式對代謝率的影響**
+- **胰島素的作用及其對脂肪燃燒和血糖水平的調控**
 
+### 主要觀念
+1. **頻繁進餐不會提高代謝率**：文章指出，食用多頓小餐並不會增加代謝率，反而會導致血糖波動和胰島素_spike（ spikes），從而引發饥饿感和 cravings。
+2. **胰島素的作用機制**：
+   - 胰島素在進食後升高，用於將血液中的葡萄糖運輸到細胞內。
+   - 血糖下降至低水平時，會誘發 hunger 和 thirst。
+3. **高糖和精製碳水化合物的影響**：食用高糖、高精製碳水化合物的食物會導致胰島素_spike（ spikes），繼而引發血糖 crash 和 hunger。
+
+### 問題原因
+1. **胰島素抵抗性**： frequent meals 會增加胰島素 resistance，最終導致 weight loss plateaus。
+2. **脂肪分布的改變**： excess fat accumulation 尤其是腹部脂肪可能與胰島素 resistance 有關。
+
+### 解決方法
+1. **間歇性禁食（Intermittent Fasting）**：
+   - 推薦每日進食 2-3 餐，避免零食。
+   - 通過限制進餐次數來降低胰岛素水平，促進 fat burning 和改善 insulin sensitivity。
+2. **控制血糖波動**：保持血糖穩定，避免因血糖_spike（ spikes）導致的 hunger 和 cravings。
+
+### 健康建議
+1. **飲食結構調整**：
+   - 選擇低升糖指數（GI）的食物，避免精製碳水化合物和高糖食物。
+2. **運動習慣**：結合有氧運動和力量訓練，改善胰島素 sensitivity 和促進 fat loss。
+3. **血糖監控**：定期监测血糖水平，了解飲食對血糖的影響。
+
+### 結論
+- 频繁進餐並不能提高代謝率，反而可能導致胰岛素 resistance 和 weight gain。
+- 通過控制進餐次數和選擇合適的食物，可以改善 insulin sensitivity，促進 fat loss，並維持整體健康。
 </details>
 
 <details>
-<summary>1068. Thyroid Success with Keto and Intermittent Fasting – Dr.Berg Interviews Vicki Bales-Humble</summary><br>
+<summary>1068. [2017-09-20] Thyroid Success with Keto and Intermittent Fasting – Dr.Berg Interviews Vicki Bales-Humble</summary><br>
 
 <a href="https://www.youtube.com/watch?v=94iGdKQPze0" target="_blank">
     <img src="https://img.youtube.com/vi/94iGdKQPze0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 探讨酮 diet（ ketogenic diet）及其与时间限制性禁食（time-restricted fasting）的结合。
+- 强调通过科学方法实现健康体重管理和代谢改善。
+- 分享个人成功案例，鼓励读者坚持健康生活方式。
+
+#### 主要觀念
+1. **酮飲食的基本原理**：
+   - 酮飲食是一种低碳水化合物、高脂肪的飲食方式，旨在使身体进入酮症状态，利用脂肪作为主要能量來源。
+   - 通过时间限制性禁食进一步增强酮 diet的效果。
+
+2. **酮飲食的优势**：
+   - 有效减少体脂，改善代谢健康。
+   - 帮助控制血糖和胰岛素水平。
+   - 改善认知功能和整体健康状况。
+
+#### 問題原因
+1. **酮轉換的挑戰**：
+   - 转换为酮燃燒模式需要时间，期间可能经历“酮流感”（keto flu）症状，如疲劳、头痛等。
+   - 缺乏必要的營養補充（如B vitamins, potassium, sodium）可能导致不适。
+
+2. **常見錯誤**：
+   - 忽視 electrolyte 平衡，導致肌肉痙攣或疲勞。
+   - 過度限制鹽分攝取，影響體液平衡。
+
+#### 解決方法
+1. **酮轉換的策略**：
+   - 确保充足的蔬菜攝取以提供必要營養。
+   - 补充 nutritional yeast 提供B vitamins。
+   - 注意 electrolyte 平衡，特別是钠和钾的攝取。
+
+2. **酮飲食的成功關鍵**：
+   - 減少精制糖和高碳水化合物食物的攝取。
+   - 增加健康脂肪的攝入，如坚果、橄榄油等。
+   - 適當運動，促進新陳代謝。
+
+#### 健康建議
+1. **飲食建議**：
+   - 采用低碳水化合物、高脂肪飲食結構。
+   - 縮時進餐（time-restricted fasting）可增強酮 diet效果。
+
+2. **營養補充建議**：
+   - 补充nutritional yeast以提供B vitamins。
+   - 注意電解質平衡，特別是 sodium 和 potassium 的攝取。
+
+3. **運動建議**：
+   - 經常進行有氧運動和力量訓練，促進新陳代謝。
+   - 運動後適當補充碳水化合物，避免酮燃燒模式被打破。
+
+#### 書籍強調
+1. **《The Seven Principles》**：
+   - 這本書详细介紹了酮 diet的基本原理和實踐方法。
+   - 强調健康飲食的7大核心原則，幫助讀者建立科學的飲食習慣。
+
+2. **《Keto in a nutshell fasting》**：
+   - 这本新書進一步深化酮 diet的研究，特別是與時間限制性禁食的結合。
+   - 提供實用的飲食計劃和健康建議，針對不同體型和需求進行調整。
+
+#### 結論
+- 酮 diet是一種有效的飲食方式，但成功的關鍵在於科學方法和堅持。
+- 通過合理的飲食結構、營養補充和運動計劃，可以實現長期的健康目標。
+- 推薦讀者閱讀《The Seven Principles》和《Keto in a nutshell fasting》，以獲得更深入的理解和實用建議。
+
+--- 
+
+以上整理旨在提供文章的核心信息，並使用正式的學術用語進行歸納。如需進一步細化或調整請隨時告知！
 </details>
 
 <details>
-<summary>1067. Best Medicine To Get Rid Of Thick Mucus – Dr.Berg [30 seconds]</summary><br>
+<summary>1067. [2017-09-20] Best Medicine To Get Rid Of Thick Mucus – Dr.Berg [30 seconds]</summary><br>
 
 <a href="https://www.youtube.com/watch?v=z6ba9e3pMp0" target="_blank">
     <img src="https://img.youtube.com/vi/z6ba9e3pMp0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 探讨 Thick Mucus（黏稠的痰或粘液）在 sinus（鼻窦）和 lung（肺部）中的处理方法。
 
+---
+
+### 主要觀念  
+1. **黏稠痰液的问题**：  
+   - 黏稠痰液可能导致呼吸道不适，影响呼吸功能。  
+2. **Venus Greek Herb的作用**：  
+   - 这种草药被推荐用于稀释和分解黏稠的痰液。
+
+---
+
+### 問題原因  
+- 黏稠痰液可能由感染、炎症或其他健康问题引起，导致鼻窦或肺部堵塞。
+
+---
+
+### 解決方法  
+1. **使用Venus Greek Herb**：  
+   - 该草药作为黏液溶剂，能够降低痰液的粘稠度。  
+2. **自然分解和排出痰液**：  
+   - 痰液变稀后，更容易通过咳嗽等方式排出体外。
+
+---
+
+### 健康建議  
+1. **藥物使用**：  
+   - 可通過線上平台或健康商店購買Venus Greek Herb。  
+2. **預防措施**：  
+   - 避免過度暴露於刺激性環境，保持良好的呼吸道健康習慣。
+
+---
+
+### 結論  
+- Venus Greek Herb 是一種有效的自然方法，用於改善黏稠痰液的問題，值得考慮作為輔助治療手段。
 </details>
 
 <details>
-<summary>1066. Benefits and Uses of Wheatgrass Juice Powder for Skin Problems – Dr. Berg</summary><br>
+<summary>1066. [2017-09-19] Benefits and Uses of Wheatgrass Juice Powder for Skin Problems – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=TtpBKBRNeqo" target="_blank">
     <img src="https://img.youtube.com/vi/TtpBKBRNeqo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題  
+- 探讨小麦草汁粉末的外部应用及其在皮肤修复和伤口愈合中的潜在作用。
+
+#### 主要觀念  
+1. 小麦草汁粉末不仅限于内部饮用，还可用于外敷。  
+2. 外用小麦草汁粉末有助于修复多种皮肤问题，包括 burns, cuts, hemorrhoids, anal fissures, sunburn, surgical incisions 等。  
+
+#### 問題原因  
+- 甾体类药膏可能导致皮肤损伤，需寻找替代方案以促进皮肤修复。  
+
+#### 解決方法  
+1. 混合小麦草汁粉末与水制成糊状物，外敷于受伤或受损部位。  
+2. 使用小麦草汁粉末处理因甾体类药膏导致的皮肤损伤。  
+
+#### 健康建議  
+- 在使用小麦草汁粉末外敷前，建议进行皮肤敏感性测试以确保无过敏反应。  
+- 外用时可配合创可贴或其他敷料以保持湿润环境，促进愈合。  
+
+#### 理由與證據  
+1. 小麦草富含多种维生素（如维生素A、C、E）和植物营养素（phytonutrients），具有抗氧化作用。  
+2. 小麦草中的叶绿素（chlorophyll）有助于加速伤口愈合并预防感染。  
+3. 小麦草不含麸质（gluten），适合对麸质敏感的人群使用。  
+
+#### 結論  
+- 小麦草汁粉末作为一种天然疗法，具有多方面的应用潜力，值得在医学和日常健康领域进一步研究与推广。
 </details>
 
 <details>
-<summary>1065. Keto Diet and Intermittent Fasting Success Story – Dr.Berg Interviews Mark Christopher</summary><br>
+<summary>1065. [2017-09-19] Keto Diet and Intermittent Fasting Success Story – Dr.Berg Interviews Mark Christopher</summary><br>
 
 <a href="https://www.youtube.com/watch?v=BSqc30Ka58I" target="_blank">
     <img src="https://img.youtube.com/vi/BSqc30Ka58I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題  
+- 通過酮osis（生酮飲食）實現健康體重管理和疾病逆轉。  
+
+#### 主要觀念  
+1. **酮osis的定義與作用**  
+   - 酮osis是一種身體利用脂肪而非碳水化合物作為主要能源的生理狀態。  
+   - 生酮飲食（低碳水、高脂肪、中蛋白）是實現酮osis的有效方式。  
+
+2. **健康問題的改善**  
+   - 改善血糖控制：降低血液中的胰島素水平，幫助管理糖尿病或前期糖尿病。  
+   - 降低血壓和膽固醇值，減少心血管疾病風險。  
+   - 解決睡眠呼吸中斷症（如阻塞型睡眠 apnea），改善睡眠品質。  
+
+3. **身體功能的提升**  
+   - 提高警覺性與認知功能：受訪者報告更為/alert和專注。  
+   - 改善生活品質：如行動能力提高，不再需要調整汽車方向盤等。  
+
+4. **心理層面的改變**  
+   - 消除對甜食和垃圾食品的渴望，遠離不良飲食習慣。  
+   - 增強自信心與幸福感，享受更健康的生活方式。  
+
+#### 問題原因  
+- 過度攝取碳水化合物導致胰島素抵抗與代謝失衡。  
+- 現代人對高糖、高脂飲食的依賴，加之缺乏運動，引發肥胖及相关疾病。  
+
+#### 解決方法  
+1. **飲食調整**  
+   - 堅持生酮飲食：降低碳水化合物攝取量至每日20-50克，增加健康脂肪的攝入（如橄欖油、 avocado、 nuts等）。  
+   - 選擇高蛋白食物以保持肌肉 mass。  
+
+2. **生活方式改變**  
+   - 增加身體活動：運動可幫助提高胰島素敏感性並消耗體內糖分。  
+   - 保持良好的睡眠習慣，避免干擾代謝功能。  
+
+3. **教育與理解**  
+   - 深入了解酮osis的科學原理，特別是胰岛素的作用機制，增強動力與信心。  
+
+#### 健康建議  
+1. **飲食計劃**  
+   - 制定個人化的生酮飲食计划，根據體重、活動量等因素調整食物攝取。  
+   - 減少精制糖和加工食品的攝入。  
+
+2. **定期監測**  
+   - 監測血糖、血壓和膽固醇等指標，評估健康狀況的改善情況。  
+   - 使用酮osis試紙或血液檢測來確認酮osis狀態。  
+
+3. **心理支持**  
+   - 與有相似目標的人交流，獲得心理支持與動力。  
+   - 避免社交壓力，堅定自己的飲食決定。  
+
+#### 結論  
+- 生酮飲食 conjunction with健康的生活方式可以有效改善肥胖、糖尿病和其他代謝相關疾病。  
+- 受訪者成功案例表明，酮osis不僅能帶來體重的下降，更能从根本 上改善整體健康狀況。  
+- 雖然挑戰重重，但成功的結果使受訪者願意持續此生活方式，并推薦他人嘗試。  
+
+This structured summary captures the essence of the article, presenting key points in a clear and organized manner.
 </details>
 
 <details>
-<summary>1064. Difficulty Getting Pregnant? – Dr. Berg’s Advice On Fertility Vitamins</summary><br>
+<summary>1064. [2017-09-18] Difficulty Getting Pregnant? – Dr. Berg’s Advice On Fertility Vitamins</summary><br>
 
 <a href="https://www.youtube.com/watch?v=N_ZCTOnHoFg" target="_blank">
     <img src="https://img.youtube.com/vi/N_ZCTOnHoFg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節化整理
 
+#### 核心主題  
+- 提升生育能力與孕期營養的重要性。
+
+#### 主要觀念  
+1. 脂溶性維生素（A、E、D）在生育和 prenatal 营養中的關鍵作用。
+2. 痕量元素（如鋅、碘）對生殖健康及胎兒發育的影響。
+3. 避免合成 prenatal 維生素，推薦使用來源於食物的營養補充劑。
+4. 媊乳喂养的重要性及其益處。
+
+#### 問題原因  
+1. 营養不均衡或缺乏關鍵維生素（如脂溶性維生素）可導致不孕症。  
+2. 現代飲食中痕量元素的缺失，可能影響生殖功能和胎兒發育。  
+3. 合成 prenatal 維生素可能存在副作用，部分成分來源於石化產品。  
+4. 過早使用嬰兒配方奶粉（含大豆成分）及果汁瓶裝可能對嬰兒健康造成不良影響。
+
+#### 解決方法  
+1. **飲食調整**：  
+   - 增加富含脂溶性維生素的食物攝取，如高品質橄欖油、 pasture-raised 蛋黃、grass-fed 乳製品和器官肉類（尤其是肝臟）。  
+   - 確保攝取足夠的痕量元素，來源包括海藻、蝦、牛肉和牡蛎。  
+
+2. **營養補充**：  
+   - 選擇食物來源的 prenatal 維生素，避免合成產品。  
+   - 考慮使用高品質的植物基.trace mineral 补充劑以彌補飲食中的不足。  
+
+3. **哺餵方式**：  
+   - 媊乳喂养赤ちゃん，避免立即使用嬰兒配方奶粉。  
+
+#### 健康建議  
+1. 避免给宝宝喝果汁瓶裝，以免損害牙齒健康。  
+2. 確保孕期和哺乳期的飲食富含關鍵營養素，以促進胎兒健康發育。  
+3. 考慮補充高品質的 prenatal 营養品，優先選擇天然食物來源。  
+
+#### 結論  
+- 高質量的營養攝取是提升生育能力及確保孕期健康的關鍵。  
+- 通過均衡飲食和適當的營養補充，可以顯著提高生育機率並促進胎兒健康發育。  
+- 媊乳喂养嬰兒是最好的哺餵方式，有助于嬰兒的整體健康發展。  
+
+---
+
+此整理結構清晰地展現了文章的核心內容和主題，同時使用了正式的學術用語進行表達。
 </details>
 
 <details>
-<summary>1063. What is Spinal Stenosis And It's Causes Explained By Dr. Berg</summary><br>
+<summary>1063. [2017-09-18] What is Spinal Stenosis And It's Causes Explained By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=S1tBzf7eCug" target="_blank">
     <img src="https://img.youtube.com/vi/S1tBzf7eCug/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **脊椎狹窄症 (Spinal Stenosis)**：本文主要探討脊椎狹窄症的成因、影響及自然療法。
 
+### 主要觀念
+1. **脊椎狹窄症的定義**：
+   - 脊椎狹窄症是指脊椎通道空間狹窄，導致脊髓受壓。
+   - 可能影響部位包括頸部、腰部、背部或下肢（如坐骨神經痛）。
+
+2. **傳統病因觀點**：
+   - 常被歸因於年齡相關因素，如骨刺形成、椎間盤退化和關節炎。
+   - 然而，這些症狀的真正成因涉及代謝失調。
+
+3. **MGP（基質GLA蛋白）的作用**：
+   - MGP是一種關鍵蛋白，能抑制骨刺形成和鈣沉積在軟組織中。
+   - 其功能受維生素K2激活。
+
+### 問題原因
+- **MGP缺陷或失活**：
+  - 維生素K2缺乏導致MGP無法有效移動鈣質到骨骼，進而影響其抑制骨刺的能力。
+  
+- **飲食因素**：
+  - 維生素K2主要來源於草饲動物產品（如乳制品、肉類和蛋黃），現代飲食中攝取不足。
+
+- **吸收障礙**：
+  - 腎臟或肝臟功能受損可能影響維生素K2的吸收。
+  - 醫療干預如切除膽囊也可能影響其吸收。
+
+### 解決方法
+1. **補充維生素K2**：
+   - 建議使用天然形式的維生素K2（如MK-7），而非合成版本。
+
+2. **飲食調整**：
+   - 選用草饲動物產品，包括乳制品、肉類和 pasture-raised 蛋。
+   - 素食者可考慮攝取發酵大豆製品Natto。
+
+3. **生活方式改變**：
+   - 確保膽囊和肝臟健康，以促進維生素K2的吸收。
+
+### 健康建議
+- **飲食來源**：
+  - 草饲乳制品、肉類、蛋黃。
+  - Natto（發酵大豆產品）。
+
+- **補充劑選擇**：
+  - 使用高品質的天然維生素K2補充劑（如MK-7）。
+
+- **醫療諮詢**：
+  - 對於有膽囊或肝臟問題的人，需特別注意吸收情況，建議諮詢醫生。
+
+### 結論
+- 脊椎狹窄症的傳統病因需結合代謝因素來理解。
+- 維生素K2在調節鈣質分布中起關鍵作用，其缺乏是導致骨刺和脊椎狹窄的重要原因。
+- 通過調整飲食和補充維生素K2，可提供有效的自然療法，改善症狀並預防進一步惡化。
 </details>
 
 <details>
