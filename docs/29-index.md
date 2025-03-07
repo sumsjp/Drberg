@@ -557,113 +557,540 @@
 </details>
 
 <details>
-<summary>2988. Heart Cells Hate Alcohol</summary><br>
+<summary>2988. [2020-08-17] Heart Cells Hate Alcohol</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ZvSR05wl_3g" target="_blank">
     <img src="https://img.youtube.com/vi/ZvSR05wl_3g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：酒精對心肌組織的危害與影響
 
+---
+
+### 主要觀念：
+1. **酒精引發的心臟病理條件**  
+   - 酒精濫用會導致「酒精性心肌病」，使心臟功能嚴重受損。  
+2. **酒精對心臟的毒性作用**  
+   - 增加乙醛的累積：乙醛是一種毒物，干擾心肌細胞正常功能。  
+   - 干擾蛋白質合成：心肌細胞需要蛋白質來更新和修復，酒精抑制此過程。  
+3. **心臟結構異常**  
+   - 心腔擴大 asymmetry（不對稱擴大），影響瓣膜功能，導致心律失常和雜音。  
+
+---
+
+### 問題原因：
+1. **乙醛的毒性作用**  
+   - 乙醛干擾酶系統，增加炎症反應，促發心臟組織纖維化、鈣沉積和膽固醇堆積。  
+2. **心肌細胞死亡增加**  
+   - 酒精抑制抗 apoptosis 路徑，導致更多心肌細胞死亡。  
+3. **鈣離子失衡**  
+   - 酒精過度增加細胞內鈣濃度，擾亂心臟節律和泵浦功能。  
+
+---
+
+### 解決方法與健康建議：
+1. **限制酒精攝取**  
+   - 建議避免大量飲酒，若為社交或少量攝取，需注意份量控制（如每日半杯葡萄酒）。  
+2. **飲食調整以促進康復**  
+   - **酮genesis diet（生酮飲食）**：心臟偏好脂肪作為能量來源。  
+   - **間歇性禁食**：幫助恢復酒精造成的損傷。  
+3. **補充營養素**  
+   - **Omega-3脂肪酸**：具抗炎作用，改善心臟功能。  
+   - **维生素E（tocatrinos）**：優於合成形式的tocopherol，有助於抗氧化。  
+
+---
+
+### 結論：
+酒精濫用對心臟有顯著危害，包括心肌病、結構異常和功能受損。少量飲酒可能具備 hormetic 效應，但長期過量攝取會導致慢性心臟損害。通過限制酒精攝取、優化飲食（如生酮飲食）、補充Omega-3脂肪酸和维生素E等方式，可以有效降低風險並促進心臟康復。
 </details>
 
 <details>
-<summary>2987. Keto Snacks: Not a Good Idea!</summary><br>
+<summary>2987. [2020-08-17] Keto Snacks: Not a Good Idea!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=p3eNmkTjXOM" target="_blank">
     <img src="https://img.youtube.com/vi/p3eNmkTjXOM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 探讨酮素饮食（keto）中零食摄入的影响及其对健康和体重管理的效果。
 
+---
+
+### 主要觀念  
+1. **酮素飲食的核心目標**：主要目的是降低胰島素水平，以幫助血糖 normalization 和促進整體健康。  
+2. **胰島素的作用**：每次攝入具有一定熱量的食物，特別是含碳水化合物的食物，都會導致胰島素上升。  
+3. **餐次頻率與胰島素的關聯**：進食次數越 frequent，胰島素水平越高，這會阻礙體重減輕和整體健康進展。  
+
+---
+
+### 問題原因  
+1. **過度零食攝取**：許多人在酮素飲食中錯誤地增加零食攝入，尤其是市面上流行的酮Friendly零食（如牛肉乾、蛋白棒、酮球、餅乾、巧可力、堅果等）。  
+2. **血糖控制失敗**：一些遵循酮素飲食的人報告血糖水平偏高，原因與頻繁的零食攝取有關。  
+3. **進食窗口管理不當**：在間歇性禁食期間，若於用餐窗口内過度-snack，會影響血糖和胰島素控制。  
+
+---
+
+### 解決方法  
+1. **限制零食攝取**：除非是蔬菜等低熱量、高纖維的食物，否則應避免頻繁食用酮Friendly零食。  
+2. **間歇性禁食的進食窗口管理**：建议於指定時間內進食，首餐和次餐之間不建議 snack。  
+3. **延長禁食 duration**：建議逐步增加禁食至18-20小時，甚至23小時，以提高酮症效果和整體健康效益。  
+
+---
+
+### 健康建議  
+1. **飲食結構**：優先選擇高纖維、低碳水化合物的食物，如深色蔬菜，避免精緻碳水化合物和高糖零食。  
+2. **進食時間控制**：遵循間歇性禁食模式，將進食時間限制在8-10小時內，並避免餐後零食。  
+3. **血糖 monitoring**：定期監測血糖水平，以評估飲食計劃的效果並及時調整。  
+
+---
+
+### 結論  
+酮素飲食的成功取決於對胰島素水平的有效控制。 frequent零食攝取和不當的進食窗口管理會顯著降低酮素飲食的效果，導致體重 plateau 或血糖失衡。建議限制 snacks，延長禁食 duration，並遵循科學的飲食結構，以實現最佳健康和體重管理效果。
 </details>
 
 <details>
-<summary>2986. The 11 Benefits of Lecithin</summary><br>
+<summary>2986. [2020-08-16] The 11 Benefits of Lecithin</summary><br>
 
 <a href="https://www.youtube.com/watch?v=4pVEedOSXT8" target="_blank">
     <img src="https://img.youtube.com/vi/4pVEedOSXT8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：磷脂（Lecithin）的健康益處與來源分析
 
+#### 主要觀念：
+1. **磷脂的定義**：磷脂是一種類似脂肪的物質，存在於所有細胞中，包括植物和動物细胞。
+2. **ymology**: 磷脂命名源自希臥語"lekthos"，意為蛋黃。
+3. **食物來源**：
+   - 蛋黄：每只蛋約含3,362毫克磷脂。
+   - 牛肉（3.5盎司）：含466毫克磷脂。
+   - 菜花（半杯）：含107毫克磷脂。
+   - 花生（1盎司）：含105毫克磷脂。
+   - 約翰內斯堡肝臟等器官肉類富含磷脂。
+
+#### 問題原因：
+1. **商業來源的問題**：
+   - 大部分市售磷脂來自於大豆，且多數為基因改造（GMO）作物。
+   - 磷脂從大豆中提取時通常使用六氯化碳等溶劑，可能影響產品的安全性。
+
+#### 解決方法：
+1. **選擇優質來源**：
+   - 首選天然食物來源：蛋、牛肉、器官肉類等。
+   - 建議避免市售大豆磷脂，若必需使用，應確保來源為有機大豆。
+
+#### 健康建議：
+1. **磷脂的健康益處**：
+   - **腦部健康**：促進神經 transmitter 的合成，有益於 ADHD、記憶力減退、癡呆症等神經系統問題。
+   - **皮膚健康**：改善痤疮和濕疹等皮膚問題。
+   - **肝臟健康**：含膽硷，有助於脂肪肝的恢復。
+   - **消化健康**：刺激膽汁分泌，促進脂肪分解，預防小腸细菌過生長（SIBO）。
+   - **免疫系統**：增強免疫功能，改善肺部健康。
+   - **心血管健康**：降低血脂，保持動脈清潔。
+   - **生殖健康**：提高精RowCount，增強生育能力。
+
+#### 結論：
+1. **優先選擇天然食物來源**：蛋、牛肉、器官肉類是最為推薦的磷脂來源。
+2. **避免基因改造食品**：市售磷脂產品應選擇有機大豆來源，以降低健康風險。
+3. **均衡飲食的重要性**：通過多樣化的食物攝取，確保獲得足夠的營養成分。
+
+此整理結構清晰地展示了磷脂的定義、來源、問題、解決方案及健康益處，為讀者提供了全面的了解。
 </details>
 
 <details>
-<summary>2985. 12 Complications of Having Your Gallbladder Removed</summary><br>
+<summary>2985. [2020-08-16] 12 Complications of Having Your Gallbladder Removed</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fCP6QxklqI4" target="_blank">
     <img src="https://img.youtube.com/vi/fCP6QxklqI4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題
+- **膽囊切除術後綜合症（Post-Cholecystectomy Syndrome）**：探討膽囊切除後可能引發的並發症及其影響。
+
+#### 主要觀念
+1. **膽汁的作用**：
+   - 胆汁由肝臟產生，儲存於膽囊，用於消化脂肪。
+   - 經過膽道引流至小腸，幫助分解食物中的脂肪。
+
+2. **膽囊切除的影響**：
+   - 切除膽囊後，膽汁直接從肝臟流至小 intestine，缺乏集中儲存和釋放機制。
+   - 可能導致膽汁不足或過量的情況。
+
+3. **並發症的原因**：
+   - 胆汁不足：影響脂肪消化，導致腸道不適。
+   - 胆汁過量：可能引起腹泻或其他腸道問題。
+
+#### 問題原因
+- **脂肪消化失敗**：
+  - 缺乏足夠膽鹽（bile salts）來分解脂肪，導致腹脹、 gases、噁心等症狀。
+  
+- **腸道不適**：
+  - 胆汁不足還可能引起便秘或 diarrhea，具體取決於膽道引流的情況。
+
+- **全身性影響**：
+  - 胆汁缺乏可導致維生素吸收不良（如維生素A、D、E、K），影響免疫功能和視力。
+  - 胆汁淤積還可能引發黃疸或右肩疼痛，影響肝臟功能。
+
+#### 解决方法
+1. **補充膽鹽**：
+   - 使用純化膽鹽 supplements 可幫助刺激膽汁分泌，解決脂肪消化問題。
+   
+2. **藥物干預**：
+   - 在某些情況下，使用藥物來阻斷膽汁過量生產，防止腸道不適。
+
+3. **飲食調整**：
+   - 選擇低脂、高蛋白飲食，避免加重腸胃負擔。
+   
+4. **生活方式改變**：
+   - 確保充足水分攝取，有助於膽汁稀釋和正常引流。
+
+#### 健康建議
+- **定期檢查**：監控肝臟功能和維生素吸收情況，及時發現問題。
+- **_SYMPTOM MANAGEMENT**：右肩痛或胸悶時可考慮補充膽鹽，改善症狀。
+- **營養均衡**：攝取足夠的脂溶性維生素，補充因膽汁不足導致的缺乏。
+
+#### 結論
+- 胆囊切除術後綜合症是一種常見但被低估的併發症。
+- 及時診斷和適當干預可顯著改善患者的生活品質。
+- 未來研究應進一步探討膽鹽補充劑的最佳使用方法及其長期影響。
 </details>
 
 <details>
-<summary>2984. Why Use Cod Liver Oil for Eczema? Remedies for Eczema – Dr. Berg</summary><br>
+<summary>2984. [2020-08-15] Why Use Cod Liver Oil for Eczema? Remedies for Eczema – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=GNXIebMvPCU" target="_blank">
     <img src="https://img.youtube.com/vi/GNXIebMvPCU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理：Cod Liver Oil 在治療濕疹中的作用
 
+#### 1. 核心主題
+- Cod Liver Oil 被譽為治療多種皮膚問題的最佳天然療法之一。
+- 它特別針對濕疹（Atopic Dermatitis）和銀屑病（Psoriasis）等皮膚條件具有顯著效果。
+
+#### 2. 主要觀念
+- **Omega-3脂肪酸**：Cod Liver Oil富含DHA和EPA，這兩種必需脂肪酸對皮膚健康至關重要。
+- **維生素A**：缺乏維生素A會導致 follicular hyperkeratosis 和乾燥、脆弱的皮膚問題。
+- **維生素D**：被認為是治療自身免疫性疾病的最有效方法之一，特別是在銀屑病和濕疹中。
+
+#### 3. 問題原因
+- **必需脂肪酸缺乏**：Omega-3脂肪酸的不足會導致乾燥、脫皮的皮膚症狀（ Dermatitis）。
+- **維生素A缺乏**：
+  - follicular hyperkeratosis：皮膚出現紅棕色小點，通常出現在手臂或背部。
+  - 幹燥脆弱：皮膚失去彈性，呈現乾裂和皸紋。
+- **維生素D缺乏**：與銀屑病和其他自身免疫性皮膚疾病密切相關。
+
+#### 4. 解決方法
+- **Cod Liver Oil**：
+  - 提供Omega-3脂肪酸（DHA和EPA）以平衡皮膚必需脂肪 acid profile。
+  - 含豐富的維生素A，改善因缺乏導致的皮膚問題。
+  - 富含維生素D，幫助抑制炎症並減輕銀屑病和濕疹症狀。
+
+#### 5. 健康建議
+- **飲食調整**：
+  - 增加Omega-3脂肪酸攝取：食用鮭魚、沙丁魚或服用Cod Liver Oil。
+  - 減少Omega-6脂肪酸攝取：避免使用大豆油、玉米油等工業化植物油。
+- **酮症飲食注意事項**：
+  - 即使在酮症飲食中大量使用椰子油和 butter，仍需補充 Omega-3 摄取，因其不含或僅含微量Omega-3。
+
+#### 6. 結論
+- Cod Liver Oil 是一個多合一的療法，能有效改善濕疹和其他皮膚問題。
+- 遆合 Omega-3、維生素A 和維生素D 的作用，Cod Liver Oil 不但能撫平皮膚炎症，還能增強皮膚屏障功能。
+- 維生素D 的抗炎作用更使其成為治療自身免疫性疾病的首選。
+
+#### 7. 參考資料
+- 文章未提及具體研究或數據來源，但可推斷主要信息來自於臨床經驗和 dermatology 風.commonsnowledge.org
 </details>
 
 <details>
-<summary>2983. Are Nuts a Protein or a Fat?</summary><br>
+<summary>2983. [2020-08-15] Are Nuts a Protein or a Fat?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=yN8XOUcOcXA" target="_blank">
     <img src="https://img.youtube.com/vi/yN8XOUcOcXA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：坚果的营养成分分析及其在酮饮食中的应用
 
+#### 主要觀念：
+1. **坚果的基本组成**  
+   - 坚果主要由脂肪、蛋白质和碳水化合物（包括膳食纤维）构成，其中脂肪含量较高，是坚果的主要成分。
+   
+2. **不同坚果的营养差异**  
+   - 不同种类的坚果在脂肪、蛋白质和碳水化合物的含量上存在显著差异：
+     - **杏仁**：高脂肪（73克）、高蛋白（29克）、中等净碳水化合物（14克）。
+     - **核桃**：中等脂肪（52克）、较高蛋白（12克）、低净碳水化合物。
+     - **腰果**：高脂肪（71克）、低蛋白（9克）、低净碳水化合物（4克）。
+     - **夏威夷果**：极高脂肪（102克）、低蛋白（11克）、极低净碳水化合物（7克）。
+     - **开心果**：中等脂肪（52克）、较高蛋白（25克）、高碳水化合物（20克，需扣除纤维后为14克净碳水化合物）。
+
+3. **酮饮食中的坚果选择**  
+   - 酮饮食强调低碳水化合物、高脂肪的摄入，因此低碳水化合物、高脂肪的坚果更适合酮饮食：
+     - 推荐坚果：腰果、夏威夷果。
+     - 不推荐坚果：开心果（因碳水化合物含量较高）。
+
+#### 問題原因：
+1. **坚果的碳水化合物问题**  
+   - 尽管坚果总体上适合酮饮食，但某些坚果如开心果含有较高的碳水化合物，可能影响酮状态的维持。
+   
+2. **个体健康状况的差异**  
+   - 某些坚果可能不适合特定人群：
+     - 高草酸盐坚果（如杏仁）可能增加肾结石风险。
+
+#### 解决方法：
+1. **选择合适的坚果种类**  
+   - 根据个人的营养需求和健康状况，选择适合的坚果种类。例如：
+     - 低血糖或需要控制体重的人群应优先选择低碳水化合物、高脂肪的坚果。
+     - 易患肾结石者应避免高草酸盐坚果。
+
+2. **合理控制摄入量**  
+   - 即使是适合酮饮食的坚果，也需适量食用。过量摄入可能导致碳水化合物或热量超标。
+
+#### 健康建議：
+1. **坚果的营养价值**  
+   - 坚果不仅提供能量，还富含膳食纤维、维生素和矿物质。
+   
+2. **坚果与健康**  
+   - 坚持适量食用坚果可能有助于降低慢性疾病风险，如心脏病和糖尿病。
+
+3. **个体化饮食建议**  
+   - 在选择坚果时，应综合考虑个人的代谢需求、健康状况（如肾结石病史）和营养目标。
+
+#### 結論：
+坚果作为酮饮食中的重要组成部分，提供了丰富的脂肪和蛋白质，同时碳水化合物含量较低。然而，不同坚果的营养成分差异显著，因此在选择时需结合个人需求和健康状况进行合理搭配。适量食用坚果不仅有助于维持酮状态，还能为身体提供必要的营养素。
 </details>
 
 <details>
-<summary>2982. How Fasting Affects Your Body</summary><br>
+<summary>2982. [2020-08-14] How Fasting Affects Your Body</summary><br>
 
 <a href="https://www.youtube.com/watch?v=g-cchLeHwrM" target="_blank">
     <img src="https://img.youtube.com/vi/g-cchLeHwrM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理： fasting 的多方面影響與健康益處
 
+---
+
+#### 1. **核心主題**
+- **Definition of Fasting**: 定義為一定時間內不攝取食物的方式，旨在探討其對身體各系統的多方面影響。
+- **Purpose**: 探索禁食对人体的整體效果，特別是針對新開始禁食的人群。
+
+---
+
+#### 2. **主要觀念**
+- **Neurological Benefits (神經系統益處)**:
+  - **BDNF Stimulation**: 激活腦源性神經營養因子（Brain-Derived Neurotrophic Factor, BDNF），被形容為「大腦的 Miracle-Gro」。
+    > "It will help you stimulate something called bdnf brain derived neurotrophic factor."
+  - **Neurogenesis and Neural Repair**: 促進神經元生成和修復，特別是有損傷或退化的情況。
+    > "You get protein sparing so when you fast the muscles go into a certain state where they stop breaking down."
+
+- **Cardiovascular Benefits (心血管益處)**:
+  - **Heart Rate Variability**: 提升心率變異性（Heart Rate Variability, HRV），增強心臟的適應能力。
+    > "There's an increase in something called heart rate variability."
+  - **Blood Pressure Reduction**: 降低血壓，改善心血管健康。
+
+- **Metabolic Benefits (代謝益處)**:
+  - **Insulin Sensitivity**: 提高胰島素敏感性，改善血糖控制。
+    > "Insulin is going to become more sensitive so it's going to work better."
+  - **Leptin Regulation**: 調節瘦素（Leptin）水平，降低 hunger 感覺。
+    > "It decreases leptin so you're going to find that the messages for hunger are going to go way down."
+
+- **Muscular Benefits (肌肉益處)**:
+  - **Protein Preservation**: 禁食期間肌肉蛋白質分解減少，保持肌肉量。
+    > "When you fast the muscles go into a certain state where they stop breaking down."
+  - **Anabolic Effects**: 提升合成代谢能力，促進肌肉生長。
+
+- **Immunological and Anti-Cancer Potential (免疫與抗癌潛力)**:
+  - 虽然文章未詳細討論，但暗示禁食可能對免疫系統和抗癌有積極作用。
+    > "I didn't get into the anti-cancer effects and there's many other effects but at least this will convince you to try fasting yourself."
+
+---
+
+#### 3. **問題原因**
+- **Misconceptions About Fasting**: 文章提到禁食常被誤解為節食（starving），而事實上它是一種有意義的代謝調節方式。
+    > "Fasting is the thing that creates a faster metabolism which is very different than starving or some low-calorie diet."
+
+---
+
+#### 4. **解決方法**
+- **Structured Fasting**: 推薦有計劃地進行禁食，例如 intermittent fasting（間歇性禁食）或 whole-day fasting。
+- **Balanced Nutrition**: 禁食期間應注意營養均衡，避免導致營養缺乏。
+
+---
+
+#### 5. **健康建議**
+- **Gradual Adaptation**: 初學者應該逐步開始禁食，讓身體有時間適應。
+- **Hydration**: 禁食時需保持足夠的水分攝取，避免脫水。
+- **Consult Healthcare Providers**: 對於有特定健康狀況的人群（如糖尿病患者），建議在專業醫療人員指導下進行。
+
+---
+
+#### 6. **結論**
+- **Overall Benefits of Fasting**: 禁食對身體整體健康有益，包括神經、心血管、代謝和肌肉系統。
+- **Encouragement to Try**: 文章鼓勵觀眾嘗試禁食，體驗其潛在的健康益處。
+
+---
+
+#### 7. **疑問**
+- **文意含糊之處**：
+  - "Less blood pressure because things are more elastic": 語句略顯模糊，建議進一步澄清是 elasticity（彈性）還是其他因素導致血壓下降。
+  - "Increased stress resistance": 需要明確是身體的整體壓力反應還是特定系統的應對能力提升。
 </details>
 
 <details>
-<summary>2981. When Does Fasting Turn Into Starving?</summary><br>
+<summary>2981. [2020-08-13] When Does Fasting Turn Into Starving?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3DYFXrCYAgk" target="_blank">
     <img src="https://img.youtube.com/vi/3DYFXrCYAgk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- ** fasting（禁食）** 與 starvation（饑餓）之間的區別及其健康影響。
+
+#### 主要觀念
+1. **人體能量儲備**：
+   - 平均非肥胖者約有 100,000 大卡的脂肪儲備。
+   - 約存儲了 1700 大卡的糖分，主要為肝醣和肌醣。
+   
+2. **能量消耗與禁食持續時間**：
+   - 平均每日能量消耗約在 1000 到 2000 大卡之間（以 1500 大卡為例）。
+   - 禁食期間，人體主要依靠脂肪儲備提供能量。
+   - 脫脂後進入糖分儲備，最終消耗肌肉和器官組織。
+
+3. **禁食與饑餓的生理反應**：
+   - **禁食**：安靜、平和、能量來源為脂肪，肌肉得到保護，能量水平穩定。
+   - **饑餓**：焦躁、易怒、肌肉萎縮、營養缺乏症（如維生素B1缺乏、壞血病等）。
+
+#### 問題原因
+- 禁食與饑餓的界限不明確，導致人們對禁食產生錯誤認知。
+- 長期禁食可能引發嚴重的健康問題，尤其是營養素不足。
+
+#### 解決方法
+1. **健康管理**：
+   - 識別自身脂肪儲存量，合理規劃禁食時間。
+   
+2. **營養補充**：
+   - 禁食期間可考慮攝取必需營養素（如維生素、礦物質），以避免營養缺乏。
+
+#### 健康建議
+1. 適當禁食需根據個人脂肪儲存量，肥胖者可禁食更長時間。
+2. 禁食期間注意身體反應，若出現明顯饑餓症狀應立即停止禁食。
+3. 初學禁食者建議從短時間禁食開始，逐步增加禁食時長。
+
+#### 結論
+- 禁食是一種有效的健康管理方式，但需謹慎規劃以避免轉為饑餓。
+- 適當的營養補充和合理的禁食策略是安全進行禁食的關鍵。
 </details>
 
 <details>
-<summary>2980. Do This for Attention Deficit Hyperactivity Disorder – Omega 3 Fatty Acids For ADHD – Dr.Berg</summary><br>
+<summary>2980. [2020-08-13] Do This for Attention Deficit Hyperactivity Disorder – Omega 3 Fatty Acids For ADHD – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Qf27HdWFzj0" target="_blank">
     <img src="https://img.youtube.com/vi/Qf27HdWFzj0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理：注意力缺陷多動症（ADHD）的營養干預研究與建議
 
+#### 核心主題
+- ** ADHD 的營養干預**  
+  文章探討了 ADHD 的病因及治療方法，強調其可能由nutrition deficiency引起，並提出以Omega-3脂肪酸為基礎的干預方案。
+
+#### 主要觀念
+1. **ADHD 不是基因問題**  
+   文章否定了 ADHD 病因與遺傳學說的直接關聯，指出缺乏證據支持此假說。
+   
+2. **ADHD 非精神疾病，並非 Ritallin 缺乏症**  
+   認為 ADHD 的症狀源於營養失衡，而非藥物反應或精神疾患。
+
+3. **Omega-3脂肪酸的重要性**  
+   强調 EPA 和 DHA 等 Omega-3 必需脂肪酸在腦部發展、認知功能及情緒調節中的關鍵作用。
+
+#### 問題原因
+1. **Omega-6 與 Omega-3 的失衡**  
+   平均每人 Omega-6 至 Omega-3 的比例為 16:1，遠高於理想值。過量的 Omega-6 可能導致炎症反應增加，影響認知功能。
+
+2. **營養攝取不足**  
+   現代飲食中Omega-3脂肪酸來源減少，而加工食品中Omgea-6含量過高，造成營養失衡。
+
+#### 解決方法
+1. **補充 Omega-3 脫氧脂肪酸**  
+   文章建議每日攝取至少750毫克的 EPA 和 DHA 組合，可通过魚油等產品來實現。研究表明，持續12周可顯著改善 ADHD症狀。
+
+2. **調整飲食結構**  
+   減少Omega-6的攝取，增加 Omega-3 的攝入，包括食用富含Omega-3的食物（如深海 fishes）或服用補充劑。
+
+3. **額外營養補充**  
+   杏葉提取物和硫磺醯胺（Taurine）等輔助成分也被提及，可進一步改善 ADHD症狀。
+
+#### 健康建議
+1. **飲食調整**  
+   - 減少精製油、加工食品及含高Omega-6的食物。
+   - 增加深海魚類、亞麻籽、奇異果和核桃等富含 Omega-3 的食物攝取。
+
+2. **營養補充**  
+   選擇高品質的Omega-3脂肪酸補充劑，建議 daily intake 確保 EPA 和 DHA 足夠。
+
+3. **監測進展**  
+   定期評估症狀變化，根據需要調整飲食和補充方案。
+
+#### 結論
+文章基於一項 double-blind placebo-controlled trial的研究結果，提出 ADHD 的營養干預策略。強調 Omega-3 脫氧脂肪酸在改善 ADHD 症狀中的作用，並建議通過飲食調整和補充劑來恢復Omega-3的平衡。此方法提供了一種非藥物性治療途徑，值得進一步研究與推廣。
+
+---
+
+此整理結構清晰地展示了文章的核心內容，使用了正式的學術用語，並以小節形式分類，便于理解和應用。
 </details>
 
 <details>
-<summary>2979. #1 Sign That Your Kid is Eating Too Much Sugar</summary><br>
+<summary>2979. [2020-08-12] #1 Sign That Your Kid is Eating Too Much Sugar</summary><br>
 
 <a href="https://www.youtube.com/watch?v=zHq6VJ2Q7QU" target="_blank">
     <img src="https://img.youtube.com/vi/zHq6VJ2Q7QU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Key Themes and Points from the Article
 
+#### Core Theme:
+- The link between excessive sugar consumption and mood disorders in children.
+
+#### Main Concepts:
+1. **Mood Symptoms Related to Sugar Intake**:
+   - Irritability, anger, grouchiness, whining, defiance, or pouting.
+   - Hyperactivity, attention deficit problems, difficulty with learning, studying, and retaining information.
+
+2. **Causes of Blood Sugar Imbalance**:
+   - Consumption of sugary foods and drinks: orange juice, grape juice, cherry juice, apple juice, applesauce, fruit snacks, granola bars, vitamin water, energy drinks, sport drinks, cookies, and candies.
+   - These products often contain high amounts of sugar, sometimes with added sugars and refined ingredients.
+
+3. **Physiological Effects of Sugar**:
+   - Rapid spikes in blood sugar followed by crashes leading to low blood sugar symptoms.
+   - Interference with brain neurotransmitter production (e.g., serotonin, dopamine).
+   - Blocking absorption of vitamin C, which is essential for neurotransmitter synthesis.
+   - Depletion of key minerals and vitamins: zinc, vitamin B1, potassium, magnesium.
+
+#### Solutions and Health Recommendations:
+1. **Dietary Interventions**:
+   - Adoption of a "healthy keto" diet to regulate blood sugar levels.
+   - Reduction or elimination of sugary foods and drinks from the child's diet.
+
+2. **Special Recipe Recommendation**:
+   - A grain-free, sugar-free keto recipe for immune system support.
+   - Emphasis on simplicity and ease of preparation for maintaining a keto lifestyle.
+
+#### Conclusion:
+- Excessive sugar consumption can lead to significant mood and behavioral issues in children due to blood sugar imbalances and nutrient deficiencies.
+- Addressing these issues through dietary changes, particularly adopting a healthy keto diet, can improve a child's mood, focus, and overall behavior.
 </details>
 
 <details>
