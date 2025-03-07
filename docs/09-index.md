@@ -98,14 +98,49 @@
 </details>
 
 <details>
-<summary>991. How To Lose Weight Fast Healthily: WRESTLERS ONLY – Dr.Berg</summary><br>
+<summary>991. [2017-08-12] How To Lose Weight Fast Healthily: WRESTLERS ONLY – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=WqnETFltxtM" target="_blank">
     <img src="https://img.youtube.com/vi/WqnETFltxtM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題：
+- 健康且有效的減重方法，特別針對摔跤運動員。
+
+#### 主要觀念：
+- 緊急減重的危險性。
+- 電解質平衡的重要性。
+- 膳食結構對體能和健康的影响。
+- 减少碳水化合物攝取以提高瘦體率。
+- 脂肪在營養中的必要作用。
+- B群維生素的能量來源。
+- 適當的訓練與恢復。
+
+#### 問題原因：
+- 不當的減重方法導致代謝紊亂。
+- 電解質失衡，特別是鈣缺乏。
+- 高強度訓練後未適當恢復。
+- 過量攝取精緻碳水化合物和糖分。
+
+#### 解决方法：
+1. **電解质補充**：使用不含糖的電解質粉末，確保每日至少攝取1000毫克的鈣。
+2. **飲食結構調整**：
+   - 減少精緻碳水化合物和-hidden sugar的攝取。
+   - 增加蔬菜攝量，特別是高鈣 vegetable如菠菜、羽衣甘藍等。
+3. **蛋白質來源**：優先選擇整食物，如雞肉、牛肉、魚類，避免過度依賴蛋白粉。
+4. **脂肪攝取**：加入健康的脂肪來源，如牛油果、花生醬、橄欖油和.cod liver oil，以支持器官功能和營養吸收。
+5. **B群維生素補充**：使用天然的營養ritional yeast來補充B vitamins，提升能量水平。
+
+#### 健康建議：
+- 采用間歇性禁食（如三餐制），避免多次攝食導致胰島素_spike。
+- 避免過度訓練，確保身體恢復時間，特別是周末應減少訓練強度。
+- 睡眠充足，促進身體修復和 recovery。
+
+#### 結論：
+健康且科學的減重方法能提升運動表現並降低健康風險。關鍵在於平衡飲食、適當訓練和充分恢復，以達到最佳體能狀態。
 </details>
 
 <details>
@@ -120,102 +155,558 @@
 </details>
 
 <details>
-<summary>989. Keto Diet and Intermittent Fasting Success Story – Dr.Berg Interviews Johnny Belisle</summary><br>
+<summary>989. [2017-08-10] Keto Diet and Intermittent Fasting Success Story – Dr.Berg Interviews Johnny Belisle</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Zd4R14mBcFw" target="_blank">
     <img src="https://img.youtube.com/vi/Zd4R14mBcFw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+<contents>
+### 核心主題
+- 探讨酮ogenic diet（ ketogenic饮食）在体重管理和健康改善中的效果和挑战。
 
+### 主要观念
+1. **酮ogenic饮食的效果**：
+   - 通过限制碳水化合物的摄入，增加脂肪和蛋白质的比例，可以有效促进体重减轻。
+   - 酮体（ketones）作为能量来源，能够在低碳水环境下为身体提供燃料。
+
+2. **饮食结构与代谢变化**：
+   - 酮ogenic饮食改变了传统的营养学观点，强调脂肪而非碳水化合物在能量代谢中的作用。
+   - 这种饮食方式可能对某些人特别有效，尤其是那些尝试过多种传统减肥方法但未成功的人。
+
+3. **个体差异与适应性**：
+   - 每个人的体质和代谢反应不同，酮ogenic diet的效果因人而异。
+   - 需要根据个人情况调整饮食计划，并观察身体的反应。
+
+### 问题原因
+1. **传统观念的影响**：
+   - 社会普遍认为高碳水化合物、多餐少食是健康的生活方式，导致人们对酮ogenic diet持怀疑态度。
+   
+2. **信息传播与理解障碍**：
+   - 酮ogenic饮食涉及复杂的生理机制（如酮体生成、代谢转换），普通人群对其缺乏足够的科学理解。
+   
+3. **实践中的挑战**：
+   - 需要严格控制碳水化合物的摄入，这对日常生活习惯和食物选择提出了较高要求。
+   - 缺乏专业指导可能导致错误实施饮食计划。
+
+### 解决方法
+1. **教育与信息普及**：
+   - 通过科学讲座、视频等多媒体形式，向公众解释酮ogenic diet的工作原理及其科学依据。
+   
+2. **个性化饮食建议**：
+   - 根据个人的健康状况、代谢特点和生活习惯，制定个性化的饮食计划。
+   
+3. **逐步调整与适应**：
+   - 建议在专业指导下逐渐减少碳水化合物摄入，避免突然改变导致的身体不适。
+
+### 健康建议
+1. **饮食结构调整**：
+   - 优先选择高脂肪、适量蛋白质和低碳水化合物的食物组合。
+   - 增加健康脂肪的摄入（如坚果、橄榄油等），同时减少精制糖和加工食品的消费。
+
+2. **生活方式改变**：
+   - 结合规律的运动，提高代谢率，增强酮体利用效果。
+   - 保持良好的作息习惯，充足的睡眠有助于身体的代谢调节。
+
+3. **监测与反馈**：
+   - 定期监测体重、体脂和健康指标的变化，评估饮食计划的效果。
+   - 如出现头晕、疲劳等不适症状，应及时调整或寻求专业帮助。
+
+### 结论
+酮ogenic diet作为一种有效的体重管理方法，在科学依据的支持下展现出显著的潜力。然而，其成功实施依赖于个体差异、科学指导和持续的自我监测。建议有意向尝试的人在专业人士的指导下进行，并保持开放的心态根据自身反应调整饮食策略。
+</contents>
 </details>
 
 <details>
-<summary>988. The Crazy Side Effects of Thiazide Diuretics (High Blood Pressure Medication) – Dr.Berg</summary><br>
+<summary>988. [2017-08-10] The Crazy Side Effects of Thiazide Diuretics (High Blood Pressure Medication) – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=JfOBh1cAArk" target="_blank">
     <img src="https://img.youtube.com/vi/JfOBh1cAArk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：探究噻嗪類高血壓藥物的副作用與影響
 
+#### 核心主題
+- 探讨噻嗪類（Thiazide）作為治療高血壓及水腫的常見藥物，其作用機制及其引發的主要副作用。
+
+#### 主要觀念
+1. **噻嗪類的作用機制**：
+   - 噻嗪類是一種利尿劑，主要通過增加尿液排出來降低血容量和血壓。
+   - 其核心作用包括促進鈉離子的排泄以及間接影響腫瘤壞死因子（TNF）-α等炎症因子。
+
+2. **噻嗪類的主要副作用**：
+   - **電解質失衡**：主要包括低血鉀（hypokalemia）、低鎂（hypomagnesemia）和低鈣（hypocalcaemia）。
+     - 高血壓患者本身容易存在電解質紊亂，噻嗪類進一步加重此問題。
+   - **代謝性障礙**：
+     - **高血糖（hyperglycemia）**：噻嗪類可能干擾胰島素分泌或敏感性，導致血糖升高。
+     - **高三酸甘油酯血症（hyperlipidemia）**：與腎上腺素水平上升有關，增加心血管風險。
+   - **尿酸升高（hyperuricemia）**：增加痛風發病率。
+   - **低鈉血症（hyponatremia）**：過量排水導致血鈉濃度降低。
+
+#### 問題原因
+- 噻嗪類藥物主要通過利尿作用降低血壓，但此過程擾亂了人體的電解質平衡，影響多個生理系統：
+  - 離子通道干擾：影響心臟和肌肉功能。
+  - 糖代谢紊亂：噻嗪類干擾胰島素分泌，導致血糖升高。
+  - 脂肪 metabolism 亂：腎上腺素水平上升引起血脂異常。
+
+#### 解決方法
+1. **藥物調整**：
+   - 減少噻嗪類劑量或更換其他降壓藥物（如ARB、ACEI等），以降低副作用風險。
+2. **補充療法**：
+   - 鈣離子和鎂離子的補充可緩解低血鈣和低血鎂引起的症狀。
+3. **電解質監測**：
+   - 定期血液檢查，密切監控血鉀、血鎂、血鈉等指標。
+4. **飲食干預**：
+   - 增加富含鉀、鎂和鈣的食物攝入，平衡飲食結構。
+
+#### 健康建議
+1. 高血壓患者在使用噻嗪類藥物期間需特別注意電解質平衡，避免過度利尿。
+2. 定期進行血液檢查，及時發現並處理副作用。
+3. 與醫生密切合作，根據具體情況調整治療方案。
+
+#### 結論
+- 噻嗪類雖然有效，但其引發的電解質失衡和其他代謝性障礙不容忽視。患者在使用過程中需高度警惕相關副作用，並通過藥物調整、補充療法和飲食干預等多種手段來降低風險，以實現安全有效的治療效果。
+
+---
+
+此整理結構清晰地展現了噻嗪類藥物的多重副作用及其潛在影響，為患者和醫生提供了重要的參考信息。
 </details>
 
 <details>
-<summary>987. Pee Smells Bad? What Causes Strong Stinky Odor After Urination? – Dr. Berg</summary><br>
+<summary>987. [2017-08-09] Pee Smells Bad? What Causes Strong Stinky Odor After Urination? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=o6xh5DHbsiw" target="_blank">
     <img src="https://img.youtube.com/vi/o6xh5DHbsiw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 探讨尿液异常气味的原因及其与酮饮 intermittent fasting（間斷性禁食）的关系。
 
+---
+
+### 主要觀念  
+1. **尿液 odor 的可能原因**：  
+   - 尿路感染（UTI）。  
+   - 腫胀損害。  
+   - 饮食不当（如高蛋白攝取過量）。  
+
+2. **酮飲 intermittent fasting 的影響**：  
+   - 初期酮症 adaptation 期間，尿液中可能排放 excess ketones，導致 odor 加重。  
+   - 隨著身體适应，ketone 燧燒效率提高，odor 可能減輕。  
+
+3. **特殊氣味的特性**：  
+   - 激烈臊味（如酮症相關）。  
+   - 化學性氨味（如過量蛋白攝取）。  
+
+---
+
+### 問題原因  
+1. **非酮飲用戶**：  
+   - 尿路感染或肝損害。  
+   - 饮食中蔬菜攝取不足，導致代謝失衡。  
+
+2. **酮飲用戶**：  
+   - 初期酮症 adaptation 期間的 excess ketones 排放。  
+   - 過量蛋白攝取（如 high-protein diet）。  
+
+---
+
+### 解決方法  
+1. **肝臟支持**：  
+   - 摂取富含葉綠素的食物，如菊苣 greens、蒲公英 greens。  
+   - 增加 bitter greens 的攝取以促進肝臟排毒。  
+
+2. **保持足夠水分**：  
+   - 避免dehydration，尤其是酮飲用戶，因酮飲有 diuretic 效應。  
+   - 补充電解質，但避免過度飲水。  
+
+3. **調整蛋白攝取**：  
+   - 限制每日蛋白攝取量在 moderate 範圍（3-6 盎司）。  
+   - 避免 over-consumption of protein，以降低氨味。  
+
+4. **使用葉綠素作為排毒劑**：  
+   - 液體葉綠素或小麦草汁可幫助清潔系統並減輕 odor。  
+
+---
+
+### 健康建議  
+1. **飲食調整**：  
+   - 增加蔬菜攝取，尤其是具有肝臟支持作用的 greens。  
+   - 避免高蛋白 diet，以防止氨味過重。  
+
+2. **hydration 管理**：  
+   - 确保足夠的水分攝取，尤其是在酮飲和 exercise 時。  
+
+3. **定期檢查**：  
+   - 如果 odor 持續或伴有其他症狀（如疼痛、灼熱感），建議及時就醫檢查 UTI 或肝損害。  
+
+---
+
+### 結論  
+尿液 odor 可能由多種原因引起，包括感染、代謝失衡或 diet 不當。酮飲用戶在初期可能因 excess ketones 排放而體驗到 stronger odor，但隨着身體适应，情況通常會改善。為了解決此問題，建議增加肝臟支持食物、保持足夠水分、調整蛋白攝取並使用葉綠素作為排毒劑。如果症狀持續或加重，應及時尋求醫療幫助。
 </details>
 
 <details>
-<summary>986. Keto Diet and Intermittent Fasting Success Story – Dr.Berg Interviews Michel Jourdain</summary><br>
+<summary>986. [2017-08-09] Keto Diet and Intermittent Fasting Success Story – Dr.Berg Interviews Michel Jourdain</summary><br>
 
 <a href="https://www.youtube.com/watch?v=IQf5zeUhJxw" target="_blank">
     <img src="https://img.youtube.com/vi/IQf5zeUhJxw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 1. **Core Themes (核心主題)**  
+   - The importance of intermittent fasting and ketogenic diet for weight loss and muscle maintenance.  
+   - The role of nutrition, exercise, and lifestyle in achieving a lean and healthy body.  
 
+**核心主題**  
+- 间歇性禁食和酮式饮食在减重和肌肉维持中的重要性。  
+- 营养、运动和生活方式在实现苗条健康体魄中的作用。
+
+### 2. **Key Concepts (主要觀念)**  
+   - Intermittent fasting: Benefits include improved metabolic health, fat loss, and muscle preservation.  
+   - Ketogenic diet: Lowers blood sugar levels, reduces appetite, and enhances fat burning.  
+   - Exercise: Strength training and cardio are essential for building and maintaining muscle mass.  
+
+**主要觀念**  
+- 间歇性禁食：好处包括改善代谢健康、减脂和肌肉保留。  
+- 酮式饮食：降低血糖水平，减少食欲并增强脂肪燃烧。  
+- 运动：力量训练和有氧运动对构建和保持肌肉质量至关重要。
+
+### 3. **Issues and Causes (問題原因)**  
+   - Poor dietary choices, especially high-sugar and high-carbohydrate foods like mangoes and bananas on the island.  
+   - Lack of discipline in adhering to a structured diet and fasting schedule.  
+
+**問題原因**  
+- 膳食选择不佳，特别是岛上的高糖和高碳水食物如芒果和香蕉。  
+- 未能遵守结构化饮食和禁食时间表的缺乏纪律。
+
+### 4. **Solutions and Recommendations (解決方法、健康建議)**  
+   - Implement intermittent fasting: Extend fasting periods to enhance muscle leanness and fat loss.  
+   - Follow a ketogenic diet: Focus on high-fat, low-carbohydrate meals to sustain energy and promote weight loss.  
+   - Incorporate strength training and cardio exercises to build and maintain muscle mass.  
+   - Avoid sugary fruits like mangoes and bananas unless part of a refeeding strategy.  
+   - Use supplements like apple cider vinegar for additional health benefits.  
+
+**解決方法、健康建議**  
+- 实施间歇性禁食：延长禁食时间以增强肌肉苗条和减脂效果。  
+- 遵循酮式饮食：专注于高脂肪、低碳水化合物的膳食以维持能量并促进减重。  
+- 结合力量训练和有氧运动来构建和保持肌肉质量。  
+- 避免摄入高糖水果（如芒果和香蕉），除非是再喂食策略的一部分。  
+- 使用苹果醋等补充剂以获得额外健康益处。
+
+### 5. **Conclusion (結論)**  
+   - Intermittent fasting and the ketogenic diet are effective tools for achieving a lean, muscular physique.  
+   - Consistency, discipline, and adherence to a structured plan are crucial for long-term success.  
+   - Natural foods like mangoes should be consumed in moderation or avoided if they hinder progress.  
+
+**結論**  
+- 间歇性禁食和酮式饮食是实现苗条肌肉体魄的有效工具。  
+- 坚持、纪律和遵守结构化计划对长期成功至关重要。  
+- 自然食物如芒果应在适度范围内摄入或避免，以免影响进度。
 </details>
 
 <details>
-<summary>985. How Do I Know If I'm Stressed? – Dr.Berg On Signs of Stress</summary><br>
+<summary>985. [2017-08-08] How Do I Know If I'm Stressed? – Dr.Berg On Signs of Stress</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XZnvdTg_SSE" target="_blank">
     <img src="https://img.youtube.com/vi/XZnvdTg_SSE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題: 請識別壓力與評估 adrenal 功能
 
+壓力是現代生活中常見且影響健康的問題。文章探討了如何通過主觀和客觀的方法來評估壓力水平，特別是與	adrenal	功能的相關性。
+
+### 主要觀念:
+
+1. **壓力的表現形式**:
+   - 焦慮、易怒、情緒波動。
+   - 思考能力受影響，如注意力不集中或過度思維。
+   - 持續感到疲倦和缺乏成就感。
+
+2. **客觀評估方法**:
+   - **Raglan's Test**: 檢測血壓在躺下和站起時的變化。正常情況下，.stationary	應升高6-10mmHg， adrenal功能異常者會有更大或更小的變化。
+   - 經典	Iris	Test: 使用手電筒照射瞳孔，檢查瞳孔是否能持續收縮。adrenal功能異常者會出現不穩定現象。
+   - **皮膚劃痕	test**: 划傷後若留下白痕超過數分鐘，可能與	adrenal	相關。
+   - 毛髮分析：測量	Cortisol	水平，提供較長時間的數據。
+
+### 問題原因:
+
+1. 長期壓力導致	adrenal	功能失調。
+2. 生活方式因素，如睡眠不足、過度訓練和不健康飲食。
+3. 環境變化或飛行可能加重 adrenal 溫馨建議：壓力管理不良會影響整體健康，特別是免疫和激素系統。
+
+### 解決方法:
+
+1. **生活方式調整**:
+   - 增加運動量，每天確保足夠的運動。
+   - 保证充足睡眠，必要時可使用午睡。
+   - 適當休息，避免過度訓練。
+
+2. **壓力管理技巧**:
+   - 使用	acupressure	技術來放鬆身心。
+   - 考慮冥想、瑜伽等方法來降低壓力水平。
+
+3. **營養補充建議**:
+   - 推荐使用"Adrenal Cortisol Relief"產品，支持	adrenal	健康，幫助緩解壓力並增加平靜感。
+
+### 健康建議:
+
+- 定期評估自己的壓力水平和 adrenal 功能。
+- 確保均衡飲食，攝取足夠的維生素和礦物質。
+- 學會時間管理，避免過度工作導致身心俱疲。
+
+### 結論:
+
+壓力是影響整體健康的重要因素。通過客觀評估工具和適當的生活方式調整，可以有效管理和改善 adrenal 功能，從而提高生活質量和健康狀況。使用推薦的補充劑和其他壓力管理技巧，能進一步增強身體的抗壓能力。
 </details>
 
 <details>
-<summary>984. How To Get Rid Of Loose Skin After Weight Loss? – Dr.Berg On Saggy Belly fat</summary><br>
+<summary>984. [2017-08-08] How To Get Rid Of Loose Skin After Weight Loss? – Dr.Berg On Saggy Belly fat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DhH4sy2U4vw" target="_blank">
     <img src="https://img.youtube.com/vi/DhH4sy2U4vw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 影響身體結構與皮膚彈性的生理機制。  
+- 經典低碳水化合物飲食（酮ogenic diet）對體重管理和皮膚健康的作用。  
 
+---
+
+### 主要觀念  
+1. **蛋白質吸收的重要性**：  
+   - 蛋白質是維持身體結構的關鍵成分，特別是在腹部和臀部區域。  
+   - 蛋白質吸收不足會導致皮膚鬆弛、腹腔下垂等問題。  
+
+2. **胰島素抵抗的作用**：  
+   - 胰島素抵抗阻礙蛋白質在細胞內的合成，影響結構蛋白質的形成。  
+   - 這與肥胖和皮膚鬆弛有密切關聯。  
+
+3. **酮ogenic diet的功效**：  
+   - 預防或改善因胰岛素抵抗導致的結構蛋白質不足問題。  
+   - 膽 ketogenic diet可修復insula resistance，使氨基酸得以有效吸收。  
+
+---
+
+### 問題原因  
+- **胰島素抵抗**：阻礙蛋白質在目標區域（如腹部、臀部）的合成，導致皮膚鬆弛和結構萎縮。  
+- **營養吸收障礙**：蛋白質無法進入細胞，影響組織修復與再生。  
+
+---
+
+### 解決方法  
+1. **酮ogenic diet**：  
+   - 通過降低碳水化合物攝取來改善insulin resistance。  
+   - 膽 ketogenic diet可幫助結構蛋白質恢復，使皮膚更緊實。  
+
+2. **間歇性禁食（Intermittent Fasting）**：  
+   - 提昇生長激素（Growth Hormone, GH）水平，有助於保存和修復結構蛋白質。  
+
+---
+
+### 健康建議  
+1. 配合酮ogenic diet進行間歇性禁食，以增強生長激素的效果。  
+2. 針對有皮膚鬆弛問題的人群，特別是腹部和臀部區域，建議評估insulin resistance並採取相應措施改善。  
+
+---
+
+### 結論  
+- 酮ogenic diet可有效解決因胰岛素抵抗導致的結構蛋白質不足問題，從而避免皮膚鬆弛和腹腔下垂。  
+- 通過修復insulin resistance和增強氨基酸吸收，酮ogenic diet不僅幫助減重，還能改善皮膚健康。  
+
+--- 
+
+以上整理涵蓋了文章的主要內容與核心觀點，結構清晰且符合學術用語的要求。
 </details>
 
 <details>
-<summary>983. What is SAMe S-Adenosyl-Methionine Explained By Dr. Berg</summary><br>
+<summary>983. [2017-08-07] What is SAMe S-Adenosyl-Methionine Explained By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=nVWzOdxDlh8" target="_blank">
     <img src="https://img.youtube.com/vi/nVWzOdxDlh8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 文章重點整理：S-腺苷蛋氨酸（SAMe）的作用與應用
 
+## 核心主題
+- 介紹S-腺苷蛋氨酸（SAMe）及其多方面的健康益處。
+
+## 主要觀念
+1. **神經傳導物質的合成**：
+   - SAMe是用於合成激素和神經傳導物質的重要化合物。
+   - 舉例來說，它參與了多巴胺、血清素（5-HT）和GABA等關鍵神經遞質的生成。
+
+2. **心理健康的影響**：
+   - 由於SAMe在神經傳導物質合成中的作用，它可以幫助改善情緒相關問題。
+   - 它被用於輔助治療焦慮症、抑鬱症以及注意力缺陷多動 disorder（ADHD）等疾病。
+
+3. **肝臟健康的作用**：
+   - SAMe對肝臟具有修復和保護功能，特別是在肝臟炎症或損傷的情況下。
+   - 它被推薦用於治療脂肪肝病、肝硬化以及酒精性肝炎等情況。
+
+4. **抗氧化作用**：
+   - SAMe能增加谷胱甘肅肽（glutathione）的水平，這是一種強大的抗氧化劑。
+   - 谷胱甘肅肽在減輕自由基引起的氧化應激中發揮重要作用。
+
+5. **抗炎特性**：
+   - 除了修復肝臟，SAMe還具有抗-inflammatory properties，對關節健康也有益處。
+
+## 問題原因
+- SAMe缺乏可能導致以下問題：
+  1. 情緒障礙，如抑鬱和焦慮。
+  2. 肝臟功能受損或發炎症狀。
+  3. 神經系統相關的注意力缺陷。
+
+## 解決方法
+- **補充SAMe**：
+  - 可通過飲食攝取（例如十字花科蔬菜），也可考慮服用膳食補充劑。
+  
+## 健康建議
+1. **均衡飲食**：
+   - 多食用富含SAMe的食物，如十字花科蔬菜（西蘭花、甘藍等）。
+
+2. **諮詢醫療專業人員**：
+   - 在使用SAMe補充劑之前，應諮詢醫生或營養師，以確保安全和適用性。
+
+3. **整體健康管理**：
+   - 結合良好的生活習慣，如規律運動、充足睡眠和壓力管理，來維護心理健康和肝臟健康。
+
+## 總結
+S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒、修復肝臟功能以及增強抗氧化能力等方面具有重要作用。了解其作用機制和應用範疇，有助於更好地管理相關健康問題。在使用任何補充劑之前，建議諮詢專業醫療人員以確保安全性和有效性。
 </details>
 
 <details>
-<summary>982. How To Prevent TIA (Transient Ischemic Attack) Mini-Stroke? – Dr.Berg</summary><br>
+<summary>982. [2017-08-07] How To Prevent TIA (Transient Ischemic Attack) Mini-Stroke? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=NEQsqwT3xYk" target="_blank">
     <img src="https://img.youtube.com/vi/NEQsqwT3xYk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理重點
 
+#### 核心主題
+- **急性缺血性卒中（TIA）**：一種短期且可逆的神經功能障礙，通常由腦、脊髓或眼部血液供應暫時受阻引起。
+
+#### 主要觀念
+1. **TIA的定義**：
+   - TIA是一種類似ミニ中風的短暫症狀，通常在24小時內恢復。
+   - 它是未來發生完全性腦卒中的風險因素。
+
+2. **TIA的主要症狀**：
+   - 遏茵側偏癱或肌力減弱。
+   - 麻木、視力喪失、言語障礙、困惑。
+   - 有些情況可能無明顯症狀。
+
+3. **病因機制**：
+   - **血栓（Thrombus）**：靜脈或動脈內的血塊，常見於心房顫動患者。
+   - **栓子（Embolus）**：來自分岔血管或心臟的斑塊破裂，阻塞遠端血管。
+   - **動脈瘤（Aneurysm）**：血管壁薄弱導致膨出，最終可能破裂。
+
+#### 問題原因
+1. **血栓形成的原因**：
+   - 心房顫動導致血液流速減慢，增加血栓形成的風險。
+
+2. **栓子形成的病因**：
+   - 高血糖、高胰島素水平導致血管斑塊積累。
+   - 維生素C缺乏引發炎症反應，促進斑塊形成。
+
+3. **動脈瘤的成因**：
+   - 高血壓損傷血管壁，導致动脉瘤形成。
+   - 胰島素抵抗和微量元素（鉀、鎂）缺乏加重血管脆弱性。
+
+#### 解決方法與健康建議
+1. **營養攝取**：
+   - 增加維生素C的攝入，以強化血管壁健康。
+   - 保障充足的鉀和鎂攝取，來源包括蔬菜、堅果等。
+
+2. **生活方式調整**：
+   - 控制血糖和胰島素水平，避免高糖飲食。
+   - 戒煙，減少對心血管系統的損害。
+
+3. **醫療干預**：
+   - 使用DHA（一種健康脂肪酸）來提升腦部氧氣供應。
+   - 服用菸酸胺（維生素B3）以促進神經元再生。
+   - 考慮使用生酮飲食來增強腦細胞修復。
+
+#### 結論
+- TIA是未來發生完全性腦卒中的警示信號，早期identification和干預至關重要。
+- 通過改善營養攝取、調整生活方式和適當的醫療干預，可以有效降低腦卒中風險並促進恢復。
 </details>
 
 <details>
-<summary>981. Juicing On A Ketogenic Diet? – Dr. Berg</summary><br>
+<summary>981. [2017-08-06] Juicing On A Ketogenic Diet? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hwZHaNOwMDk" target="_blank">
     <img src="https://img.youtube.com/vi/hwZHaNOwMDk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：在酮ogenic Diet中飲用果汁的影響
 
+#### 核心主題
+- 探讨在酮ogenic diet（生酮饮食）中是否可以饮用果汁及其健康影響。
+
+#### 主要觀念
+1. **果汁類型**：
+   - 分為水果汁和蔬菜汁兩種。
+   
+2. **水果汁的問題**：
+   - 糖分含量高，特別是果糖。
+   - 纤維被去除，導致血糖快速上升。
+   - 長期過量攝取可能引發低血糖反應。
+
+3. **蔬菜汁的优点**：
+   - 糖分含量低，通常不會引起血糖波動。
+   - 能夠提供豐富的營養素和微量 nutrient。
+
+4. **飲用果汁的挑戰**：
+   - 需要添加水果（如 carrot 和 apple）來增加風味，但這增加了糖分攝取。
+   - 工業化果汁經過高溫殺菌，導致部分酶和維生素喪失。
+
+#### 問題原因
+1. **高糖分攝入**：
+   - 水果汁中的糖分含量過高，特別是果糖，易導致血糖波動。
+   
+2. **纖維缺失**：
+   - 纤維的缺失使得果汁不能有效-buffer insulin response。
+
+3. **加工影響**：
+   - 工業化果汁經過pasteurization，導致營養素和酶的流失。
+
+#### 解決方法
+1. **選擇低糖汁**：
+   - 選擇蔬菜汁，避免添加高糖水果。
+   
+2. **控制攝取量**：
+   - 如果攝取水果汁，建議少量並搭配高纖食物。
+
+3. **優先食用完整食物**：
+   - 舊金山或蔬菜整體攝入，以保留纖維和營養素。
+
+4. **使用替代品**：
+   - 用甜菊糖（stevia）和檸檬來增加風味，避免添加糖分。
+
+#### 健康建議
+1. **飲食選擇**：
+   - 在酮ogenic diet中，優先選擇低糖、高纖維的食物。
+   
+2. **果汁攝取建議**：
+   - 水果汁應極度限量，並注意糖分攝入。
+   - 蔬菜汁可作為補充營養的來源。
+
+3. **加工食品的考量**：
+   - 避免過量消費高溫處理的工業化果汁，以保留更多營養成分。
+
+#### 結論
+- 在酮ogenic diet中，果汁的攝取需謹慎。蔬菜汁可作為營養來源，但水果汁因高糖分不建議多飲。
+- 優先選擇食用完整食物，並控制加工果汁的攝取量。
 </details>
 
 <details>
