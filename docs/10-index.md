@@ -186,25 +186,135 @@
 </details>
 
 <details>
-<summary>1083. Relation Between Ketosis & Uric Acid Stones – Dr.Berg on Keto Kidney Stones</summary><br>
+<summary>1083. [2017-09-27] Relation Between Ketosis & Uric Acid Stones – Dr.Berg on Keto Kidney Stones</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ip4KAIqgBII" target="_blank">
     <img src="https://img.youtube.com/vi/ip4KAIqgBII/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Key Themes and Concepts from the Article
 
+#### Core Theme: Ketogenic Diet and Uric Acid Stones Formation
+- The article discusses the impact of a ketogenic diet on ketosis, acid production in the body, and the potential formation of uric acid stones.
+
+#### Major Ideas:
+1. **Ketones and Acidity**:
+   - Ketones are acidic, leading to an increase in acidity within the body.
+   - This increased acidity results in higher levels of nitrogen being released through the urine.
+
+2. **Gluconeogenesis**:
+   - The body produces glucose from dietary protein and fat (gluconeogenesis) to meet the energy needs of certain brain cells that require sugar.
+   - This process contributes to an increase in nitrogen waste products.
+
+3. **Uric Acid and Gout**:
+   - High levels of uric acid can lead to gout, a form of arthritis characterized by the formation of uric acid crystals in joints.
+   - A high-carb diet with elevated insulin levels can also contribute to high uric acid levels and gout.
+
+4. **Stone Formation**:
+   - Kidney stones are primarily composed of oxalate (90% of cases), but in the context of a ketogenic diet, up to 50% of stones may be uric acid-based due to higher nitrogen excretion.
+
+#### Causes and Concerns:
+- The primary concern is the potential buildup of uric acid due to increased nitrogen release from gluconeogenesis.
+- This can lead to gout and an elevated risk of uric acid kidney stones, especially for individuals on a ketogenic diet.
+
+### Solutions and Health Recommendations
+
+1. **Maintain High Potassium Intake**:
+   - Incorporate large amounts of vegetables rich in potassium to counteract the acidic waste products.
+   - Consider adding potassium citrate as an electrolyte supplement if vegetable intake is insufficient.
+
+2. **Alkaline Environment for Uric Acid Dissolution**:
+   - Use potassium citrate to increase urine alkalinity, which helps dissolve uric acid crystals and prevent stone formation.
+
+3. **Incorporate Lemon Juice**:
+   - Lemon juice provides citrate, which aids in neutralizing uric acid.
+   - Fresh lemon juice is preferable over pasteurized varieties to retain more beneficial compounds.
+
+4. **Adequate Sea Salt Intake**:
+   - Consume one teaspoon of sea salt daily on a ketogenic diet to help counteract uric acid levels.
+   - On a high-carb diet, reduce intake to 1/4 teaspoon per day.
+
+5. **Vitamin K2 Supplementation for Kidney Stone Prevention**:
+   - Individuals with a history of kidney stones should take vitamin K2 to prevent calcium buildup in soft tissues, which can contribute to stone formation.
+
+### Conclusion
+
+- The ketogenic diet, while beneficial for weight loss and metabolic health, carries risks related to increased uric acid levels and potential kidney stone formation.
+- By maintaining adequate potassium intake, using alkalizing agents like potassium citrate and lemon juice, and ensuring proper electrolyte balance through sea salt, individuals can mitigate these risks.
+- For those predisposed to kidney stones, incorporating vitamin K2 is essential for long-term health.
+
+This structured approach highlights the importance of balancing the benefits and potential drawbacks of a ketogenic diet, emphasizing the need for careful monitoring and supplementation to maintain optimal health.
 </details>
 
 <details>
-<summary>1082. Stress-Induced Weight Gain & Cortisol – Dr.Berg's Skype Interview With Cheryl Style</summary><br>
+<summary>1082. [2017-09-27] Stress-Induced Weight Gain & Cortisol – Dr.Berg's Skype Interview With Cheryl Style</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_Zt1pUDbwB0" target="_blank">
     <img src="https://img.youtube.com/vi/_Zt1pUDbwB0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：酮飲食與健康生活方式的核心要素
 
+#### 核心主題
+- **酮飲食**：一種低碳水化合物、高脂肪的飲食方式，旨在利用酮體作為主要能量來源。
+- **健康生活方式**：結合飲食調整、運動及心理平衡，提升整體健康狀況。
+
+#### 主要觀念
+1. **酮飲食的生理機制**：
+   - 降低血糖水平，抑制胰島素分泌。
+   - 利用脂肪產生酮體，作為能量來源。
+   
+2. **健康的社會現象**：
+   - 酮飲食在美國及其他地區逐漸流行，特別是肥胖率上升的背景下。
+   - 非洲人群體展示了良好的骨骼結構和牙齒健康，可能與其傳統飲食習慣有關。
+
+3. **飲食產業的問題**：
+   - 現代飲食工業化導致營養失衡，加工食品充斥市場。
+   - 快餐文化促成肥胖、糖尿病等慢性病的蔓延。
+
+#### 問題原因
+1. **營養失衡**：
+   - 土壤退化導致食物中微量元素缺失。
+   - 现代農業重視主要營養素（如氮、磷、鉀），忽視微量元素的補充。
+
+2. **飲食結構不合理**：
+   - 高糖高碳水化合物飲食引發胰島素抵抗。
+   - 食物加工過程破壞了原有的營養成分。
+
+3. **缺乏健康教育**：
+   - 公眾對酮飲食等健康飲食方式的理解不足。
+   - 媒體和產業推波助瀻，導致錯誤的飲食觀念流傳。
+
+#### 解決方法
+1. **飲食調整**：
+   - 增加海鹽、海藻等富含微量元素的食物攝取。
+   - 選擇grown in volcanic soil或靠近海洋的農產品，以獲取更多.trace minerals.
+
+2. **運動與生活方式**：
+   - 經常進行有氧運動和力量訓練，提升身體代謝率。
+   - 保持心理平衡，避免壓力過大。
+
+3. **健康教育**：
+   - 提高公眾對酮飲食及其他健康飲食方式的認識。
+   - 光食品工業化的問題，促使消費者做出更健康的選擇。
+
+#### 健康建議
+1. **飲食方面**：
+   - 確保每餐包含海鹽或富含微量元素的食物（如海藻、深色蔬菜）。
+   - 選擇未加工或 minimally processed 的食物，避免食品添加劑的攝入。
+
+2. **運動方面**：
+   - 每周至少進行150分鐘中等強度有氧運動，或75分鐘高強度運動。
+   - 結合力量訓練，提升肌肉量和代謝率。
+
+3. **心理平衡**：
+   - 學會壓力管理技巧，如冥想、瑜伽等。
+   - 保持積極心態，避免因ダイエットや食事に過剰なストレスをかけること。
+
+#### 結論
+酮飲食結合健康的生活方式，不僅能有效控制體重，還能改善整體健康狀況。然而，要實現這一目標，需要從飲食結構、營養補充、運動習慣及心理調節等多方面入手。此外，社會應該加大健康教育力度，幫助公眾正確理解並實踐這些健康的飲食和生活方式。
 </details>
 
 <details>
@@ -219,91 +329,423 @@
 </details>
 
 <details>
-<summary>1080. The Ultimate Muscle Building Nutrition Guide with Dr. Berg</summary><br>
+<summary>1080. [2017-09-26] The Ultimate Muscle Building Nutrition Guide with Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=x_VFWscxj34" target="_blank">
     <img src="https://img.youtube.com/vi/x_VFWscxj34/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：肌肉生長與營養策略
 
+#### 1. 核心主題
+- 肌肉生長的營養需求及影響因素。
+- 阻礙肌肉分解的因素。
+
+#### 2. 主要觀念
+- **肌肉生長的基本原理**：
+  - 蛋白質是肌肉修復和重建的主要來源。
+  - 氨基酸是蛋白質的基本單位，需在酶的作用下合成。
+  
+- **營養素的角色**：
+  - 經典的維生素（A、D、E、K）和B族維生素為代謝所必需。
+  - 微量元素（如钾和.trace minerals）對酶活性至關重要。
+
+#### 3. 肌肉流失的原因
+- **營養 deficiency**：
+  - 紐乏關鍵 nutrients 阻礙蛋白質合成。
+  
+- **激素失衡**：
+  - 腸島素抵抗降低蛋白質利用率。
+  - 高皮質醇水平導致肌肉分解。
+
+#### 4. 解決方法與健康建議
+- **飲食策略**：
+  - 減少進餐次數（intermittent fasting）以促生長激素分泌。
+  - 採用 moderate protein攝取，避免過量負荷肝臟。
+  - 選擇 fat-dominant 蛋白來源以降低胰島素 spikes。
+
+- **運動建議**：
+  - High-intensity interval training（HIIT）能有效提升生長激素並保留肌肉。
+  - 避免 long-distance running 和 carbo-loading，以防 insulin resistance 和肌肉萎縮。
+
+- **生活方式調整**：
+  - 确保充足睡眠以促進生長激素分泌。
+  - 減輕壓力，避免慢性壓力導致的皮質醇過高。
+
+#### 5. 結論
+- 肌肉生長不僅依賴蛋白質攝取，還涉及 hormones、nutrients 和生活方式的綜合作用。
+- 適當的飲食結構、運動方式和生活習慣能最大化肌肉保留與增肌效果。
 </details>
 
 <details>
-<summary>1079. What is CoQ10? – Dr.Berg Shares Coenzyme CoQ10 Benefits</summary><br>
+<summary>1079. [2017-09-25] What is CoQ10? – Dr.Berg Shares Coenzyme CoQ10 Benefits</summary><br>
 
 <a href="https://www.youtube.com/watch?v=0XuH31s5k28" target="_blank">
     <img src="https://img.youtube.com/vi/0XuH31s5k28/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：Coenzyme Q10的作用與重要性
 
+- **核心主題**：  
+  Coenzyme Q10（下称CoQ10）是一种维生素样化合物，在体内能量代谢中起关键作用。
+
+### 主要觀念：
+
+1. **Coenzyme Q10的功能**：
+   - 参与能量的生产，尤其在细胞内的线粒体中。
+   - 具有抗氧化作用，保护线粒体DNA免受氧化损伤。
+
+2. **来源**：
+   - 体内自行合成
+   - 饮食摄入（如肉类、鱼类和植物油）
+   - 补充剂
+
+### 問題原因：
+
+1. **Coenzyme Q10的缺乏原因**：
+   - 年龄增长导致体内合成能力下降。
+   - 使用Statins类药物，这类药物会抑制CoQ10的合成。
+
+2. **影响**：
+   - 线粒体功能受损
+   - 能量代谢效率降低
+   - 增加氧化应激相关疾病的风险
+
+### 解決方法：
+
+1. **补充建议**：
+   - 推荐选择Ubiquinol形式，因其吸收率比普通CoQ10高8倍。
+   - 使用剂量较低即可达到效果。
+
+2. **适用人群**：
+   - 老年人
+   - 长期使用Statins药物的患者
+
+### 健康建議：
+
+- 对于年龄增长或正在服用Statins的人群，建议通过饮食或补充剂摄入Coenzyme Q10。
+- 优先选择Ubiquinol形式以提高吸收效率。
+
+### 結論：
+
+- Coenzyme Q10在维持能量代谢和抗氧化防御中至关重要。
+- 年龄和Statins药物使用会导致其水平下降，应及时补充。
+- Ubiquinol是理想的补充形式，具有高效性和较低的剂量需求。
 </details>
 
 <details>
-<summary>1078. Dr.Berg Gives Best Tip on Autoimmune Disorders & Conditions – Autoimmune Diseases</summary><br>
+<summary>1078. [2017-09-25] Dr.Berg Gives Best Tip on Autoimmune Disorders & Conditions – Autoimmune Diseases</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DkM6uPVY0PI" target="_blank">
     <img src="https://img.youtube.com/vi/DkM6uPVY0PI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理： autoimmune conditions 的最佳療法
 
+#### 核心主題
+- **自身免疫性疾病的特性**：免疫系統錯誤地攻擊自身的組織或器官。
+- **常見的自身免疫疾病**：如艾迪生病、僵人症、 Lupus 紅斑狼瘡等，涉及多個器官和組織。
+
+#### 主要觀念
+1. **自身免疫疾病的機制**：
+   - 免疫系統產生抗體攻擊自身組織。
+   - 這種錯誤反應通常由壓力事件觸發。
+2. **傳統治療方式的局限性**：
+   - 常用類固醇（如泼尼松）治癒效果有限，且可能有副作用。
+
+#### 問題原因
+- **壓力因素**：無論是身體還是情緒上的壓力，通常是導致自身免疫疾病爆發的主要原因之一。
+- **抗體過度反應**：免疫系統錯誤地攻擊自身組織，引發持續炎症和器官破壞。
+
+#### 解決方法
+1. ** glandular therapy（腺体療法）**：
+   - 使用來自其他動物的特定腺體提取物（如牛或山羊的腎上腺），作為「誘餌」分散抗體攻擊目標。
+   - 經過小劑量、長時間口服，可使免疫系統將抗體.Redirect至這些外來腺體，減少對自身組織的攻擊。
+2. **選擇療法時的注意事項**：
+   - 避免短期內攝取過高劑量，以防止過劇的免疫反應或類似解毒反應。
+
+#### 健康建議
+1. **早期診斷**：
+   - 通過抗體測試確定受影響的組織或器官。
+2. **療法實施**：
+   - 根據诊断結果選擇相應的 glandular supplements（腺体補充劑），以小劑量、長時間的方式攝取。
+3. **生活方式調整**：
+   - 管理壓力，保持良好的心理和生理狀態。
+4. **產品來源**：
+   - 選擇可靠品牌或通過專業醫師購買 glandular products（腺体產品）。
+
+#### 結論
+- **腺體療法的潛力**：此方法提供了一種非侵入性的替代治療方案，幫助恢復免疫平衡。
+- **未來研究方向**：
+   - 延伸至更多組織的腺體療法研究。
+   - 探索其在其他免疫相關疾病中的應用。
 </details>
 
 <details>
-<summary>1077. Can You Have Normal Blood Sugar And Still Be Insulin Resistant? – Dr.Berg</summary><br>
+<summary>1077. [2017-09-24] Can You Have Normal Blood Sugar And Still Be Insulin Resistant? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Xc7XR4q9V2M" target="_blank">
     <img src="https://img.youtube.com/vi/Xc7XR4q9V2M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 文章主旨與結構整理
 
+## 核心主題
+- 探讨血糖正常但出现胰岛素抵抗症状的原因及其检测方法。
+
+## 主要觀念
+1. **胰岛素抵抗的概念**：胰岛素抵抗是指细胞对胰岛素的反应性降低，导致胰岛素无法有效运输葡萄糖进入细胞。
+2. **糖尿病前期的發展鏈**：
+   - 胰岛素抵抗是糖尿病发展的初始阶段。
+   - 在这一阶段，血糖水平可能仍保持正常，但长期来看，如果不加以干预，可能会发展为糖尿病。
+
+## 問題原因
+- 血糖測試（如空腹血糖）無法早期發現胰島素抵抗。雖然血糖值正常，但高胰岛素水平可能是胰岛素抵抗的指標。
+- 胰岛素抵抗階段可能持續數年甚至數十年，最終導致糖尿病。
+
+## 解決方法
+1. **檢測方式**：
+   - 醫生應進行空腹胰島素測試，以評估胰岛素水平。正常血糖值下，過高的胰岛素指標可能存在胰岛素抵抗。
+2. **干預措施**：
+   - 參考《新體型指南》中的建議，調整生活方式和飲食習慣，以改善胰岛素敏感性。
+
+## 健康建議
+- 定期檢查空腹胰岛素水平，特別是對於有糖尿病家族史或肥胖症的人群。
+- 通過健康飲食、規律運動等方式降低胰岛素抵抗風險。
+- 如有疑問，及時諮詢專業醫師並接受進一步評估。
+
+## 結論
+- 胰岛素抵抗可以在血糖正常的情況下存在，早期發現和干預對於延緩或防止糖尿病的發展至關重要。
 </details>
 
 <details>
-<summary>1076. If I Have Arthritis, Should I Avoid the Nightshade Foods? – Dr.Berg</summary><br>
+<summary>1076. [2017-09-24] If I Have Arthritis, Should I Avoid the Nightshade Foods? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=a3UIPrpgwKk" target="_blank">
     <img src="https://img.youtube.com/vi/a3UIPrpgwKk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 探讨 arthritis 患者是否应避免食用 nightshade vegetables（茄科植物）。  
 
+### 主要觀念  
+1. **Nightshade Vegetables 的成分**：  
+   - 定義：茄科植物包括 potato、tomato、pepper 和 eggplant。  
+   - 主要成分：含有天然殺蟲劑 solanine，主要集中在葉子和莖中，但水果部分的含量極低。  
+
+2. **Solanine 的影響**：  
+   - 基本信息：solanine 是一種生物鹼，具有毒性，但在普通食用量下リスクは低い。  
+   - 含量分布：茄科植物的果實中 solanine 的含量非常少，主要集中在未成熟或變綠的部位。  
+
+3. ** arthritis 患者與 Nightshade Vegetables 的關聯**：  
+   - 研究結果：目前沒有足夠的證據表明 arthritis 患者需要完全避免茄科植物。  
+   - 例外情況：若個體對 solanine 敏感或過敏，可能會引發症狀加重。  
+
+### 問題原因  
+- **Solanine 的毒性潛在**：  
+   - 高劑量攝取可能对人体有害，但常規飲食中的含量通常不會達到有害水平。  
+   - 未成熟或變綠的 potato 中 solanine 含量增加，可能對健康產生影響。  
+
+### 解決方法  
+1. **食用建議**：  
+   - 一般情況下， arthritis 患者可以正常攝取茄科植物，但需注意以下事項：  
+     - 避免食用未成熟或變綠的 potato，因其 solanine 含量較高。  
+     - 若個體對 solanine 敏感，應根據醫生建議調整飲食。  
+
+2. **身體排毒能力**：  
+   - 人體具有自然解毒機制，能夠處理微量的 solanine。  
+   - 食用茄科植物的益處通常超過其潛在風險。  
+
+### 健康建議  
+1. **營養價值**：  
+   - 蕃茄、辣椒等茄科植物富含多種營養素和抗氧化劑，具有抗炎作用。  
+   - 除馬鈴薯外，其他茄科植物的淀粉含量較低，適合健康飲食。  
+
+2. **個體化飲食**：  
+   - 若出現不適症狀（如胃腸問題、頭痛等），建議記錄飲食並諮詢醫生。  
+   - 適當調整飲食結構，避免過量攝取任何食物。  
+
+### 結論  
+- 总结： arthritis 患者通常不需要避免茄科植物，但需注意食物的新鮮度和成熟度，特別是 potato。  
+- 個體差异：若對 solanine 敏感或過敏，應根據個人情況調整飲食。  
+- 平衡飲食：合理攝取茄科植物，享受其營養益處，同時注意身體的反應。
 </details>
 
 <details>
-<summary>1075. Amazing Health & Nutritional Benefits Of Basil | Dr. Berg</summary><br>
+<summary>1075. [2017-09-23] Amazing Health & Nutritional Benefits Of Basil | Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DYfDMbl535Y" target="_blank">
     <img src="https://img.youtube.com/vi/DYfDMbl535Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題： BASIL 的健康益處與applications
 
+---
+
+#### 主要觀念：
+1. **Basil 的多樣化營養成分**：
+   - 芳香植物basil富含多種維生素和微量元素，包括維生素K、锰（Manganese）、β-胡蘿蔔素（Beta-carotene）及 flavonoids。
+   
+2. **Basil 的健康益處**：
+   - **维生素K**：促進血液凝固，幫助 bruises 容易恢復。
+   - **锰**：支持韌帶和關節的健康，預防關節松驰。
+   - **β-胡蘿蔔素**：作為provitamin A，具有抗氧化作用，保護動脈內皮。
+   - **flavonoids**：植物次生代謝物，提供抗炎、抗菌等多重健康功效。
+
+3. **Basil 的抗菌性**：
+   - 研究表明，basil 具有抑制病原細菌的作用，可能幫助抵抗抗生素耐藥性。
+
+4. **抗炎特性**：
+   - Basil 被證實對類風濕關節炎和腸易激惹症（IBS）具有舒缓作用。
+
+---
+
+#### 問題原因：
+- 现代飲食中，許多人未充分攝取足夠的維生素K、礦物質和抗氧化劑，導致血液凝固能力下降、關節健康問題及氧化壓力增加。
+  
+---
+
+#### 解決方法：
+1. **飲食建議**：
+   - 將basil加入日常飲食，如沙拉、湯類或醬料中，以增強營養攝取。
+   
+2. **食用方式**：
+   - 新鮮basil葉可直接使用於烹調，也可製作成香草茶或粉末，方便長期食用。
+
+3. **gricultural 简便性**：
+   - 養植basil相對容易，適合家庭園藝，確保 fresh and high-quality 的原料供應。
+
+---
+
+#### 健康建議：
+- 定期攝取basil，可幫助改善血液凝固能力、增強關節健康、降低炎症反應並提升整體免疫力。
+- 對於經常受傷或有關節問題的人群，建議將basil納入日常飲食計劃。
+
+---
+
+#### 結論：
+Basil 不僅是一種常見的香料，在烹調中提升風味，更具有多種健康益處。其豐富的營養成分和生物活性化合物使其成為促進整體健康的理想選擇。通過簡單地將basil加入飲食或自行栽種，可以輕鬆享受其帶來的健康好處。
 </details>
 
 <details>
-<summary>1074. What is Gamma Linolenic Acid (GLA)? - Dr. Berg</summary><br>
+<summary>1074. [2017-09-23] What is Gamma Linolenic Acid (GLA)? - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=jyjeI7HAfw8" target="_blank">
     <img src="https://img.youtube.com/vi/jyjeI7HAfw8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+## 文章重點整理
 
+### 核心主題
+- 探讨GLA（Gamma-Linolenic Acid）作为一种特殊的Omega-6脂肪酸，在健康和疾病治疗中的作用。
+
+### 主要觀念
+1. **GLA的特性**:
+   - 尽管属于Omega-6家族，但GLA具有抗炎作用。
+   - 是一种强效的抗炎脂肪酸。
+2. **GLA的來源**:
+   - 富含于Borage油、黑芝麻油、 evening primrose oil和大麻籽油中，其中Borage油含量最高。
+3. **健康益處**:
+   - **皮膚健康**: 有效改善eczema（濕疹）、iatasis（瘙癢症）、乾燥性Skin（乾性表皮脫落）等問題。
+   - **關節健康**: 與類風濕性關節炎、骨質關節炎等炎症性疾病有關。
+   - **心血管系統**: 有助於減少arterial inflammation（動脈炎症），預防心臟病。
+   - **呼吸系統**: 對哮喘有幫助。
+   - **内分泌 system**: 尤其對女性激素平衡和更年期症狀有益。
+
+### 問題原因
+- 常見的Omega-6脂肪酸來源（如大豆油、玉米油、菜籽油）多為GMO，且過量攝入會導致炎症。
+- 紫外線、環境污染等外部因素亦可能引起皮膚和關節問題。
+
+### 解決方法
+1. **飲食調整**:
+   - 增加富含GLA的食物攝取，如Borage oil、black cumin seed oil、evening primrose oil和hemp oil。
+2. **Omega-3脂肪酸的補充**:
+   - 綜合攝取健康的Omega-3脂肪酸（如Virgin cod油、 walnut、蛋黃、chia籽等），以平衡Omega-6的作用。
+3. **健康建議**:
+   - 避免使用常見的大豆油、玉米油和菜籽油，選擇非GMO來源的脂肪。
+   - 維生素D和其他抗氧化劑的補充亦有助於增強GLA的效果。
+
+### 結論
+- GLA作為一種抗炎性Omega-6脂肪酸，在改善皮膚健康、關節炎症、心血管疾病和呼吸系統問題等方面有著重要作用。
+- 適當攝取GLA並結合健康的Omega-3脂肪酸，可有效提升整體健康狀況。
+
+---
+
+## 英文摘要
+
+**Title: The Role of Gamma-Linolenic Acid (GLA) in Health and Disease**
+
+### Key Themes:
+1. **Introduction to GLA**: 
+   - GLA is a unique Omega-6 fatty acid with potent anti-inflammatory properties.
+2. **Sources of GLA**:
+   - Primarily found in Borage oil, black cumin seed oil, evening primrose oil, and hemp oil, with Borage oil being the richest source.
+3. **Health Benefits of GLA**:
+   - **Skin Health**: Effective in treating eczema, pruritus, and dry flaky skin.
+   - **Joint Health**: Beneficial for conditions like rheumatoid arthritis and osteoarthritis.
+   - **Cardiovascular System**: Reduces arterial inflammation, contributing to heart health.
+   - **Respiratory System**: Helps alleviate asthma symptoms.
+   - **Endocrine System**: Supports hormonal balance, particularly in menopausal women.
+4. **Recommendations**:
+   - Incorporate GLA-rich oils into your diet while avoiding common GMO sources like soy and corn oil.
+   - Combine with healthy Omega-3 fatty acids (e.g., virgin cod oil, walnuts, chia seeds) for optimal benefits.
+
+### Conclusion:
+GLA emerges as a crucial anti-inflammatory agent within the Omega-6 family, offering significant therapeutic potential across various health conditions. Integrating GLA into a balanced diet alongside Omega-3s can enhance overall well-being and address chronic inflammatory disorders effectively.
 </details>
 
 <details>
-<summary>1073. Bladder Stones: Causes, Symptoms & Remedies | Dr. Berg</summary><br>
+<summary>1073. [2017-09-22] Bladder Stones: Causes, Symptoms & Remedies | Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=BDxij2BcJSc" target="_blank">
     <img src="https://img.youtube.com/vi/BDxij2BcJSc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理
 
+#### 核心主題
+- 膀胱结石的成因及防治方法。
+
+#### 主要觀念
+1. **膀胱结石的來源**：
+   - 由高草酸鹽飲食引起的結晶沉積。
+   - 確源自腎臟结石掉落至膀胱並卡住。
+
+2. **症狀**：
+   - 多數情況下無症狀。
+   - 可能引起低背部疼痛、排尿困難、頻繁排尿及疼痛等症状。
+
+#### 問題原因
+1. 高草酸鹽飲食： spinach, peanuts, chocolate 等食物富含草酸鹽。
+2. 腎臟结石掉落至膀胱並卡住。
+3. 體內缺鉀（低血钾）導致血清枸櫞酸鹽濃度降低，增加結石風險。
+
+#### 解決方法
+1. **中藥治療**：
+   - 茯苓茶（Chauncey Piedra），可用於製作成茶或壓片劑。
+2. **補充枸櫞酸鹽**：
+   - 食用富含枸櫞酸鹽的食物，如檸檬汁。
+   - 使用氯化鉀（Potassium Citrate）來提高血清枸櫞酸鹽水平。
+
+#### 健康建議
+1. **飲食調整**：
+   - 減少高蛋白飲食及高糖飲食，以避免低血钾（Hypokalemia）。
+   - 多攝取富含鉀的蔬菜，每日 recommended 7-10杯蔬菜。
+
+2. **生活方式建議**：
+   - 注意血糖控制，避免高胰島素水平飲食。
+   - 考慮補充枸櫞酸鹽以降低結石風險。
+
+#### 結論
+膀胱结石的形成多與飲食中草酸鹽攝取過量、腎臟结石掉落或血清枸櫞酸鹽濃度不足有關。通過調整飲食結構，增加富含枸櫞酸鹽的食物攝取，並配合適當的中藥治療，可有效預防及幫助溶解膀胱结石。此外，保持良好的生活習慣和血糖控制也是防止膀胱结石的重要措施。
 </details>
 
 <details>
