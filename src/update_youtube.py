@@ -10,9 +10,11 @@ channel_url = 'https://www.youtube.com/@Drberg/videos'
 # === 設定 CSV 檔案名稱 ===
 csv_file = 'video_list.csv'
 
-script_dir = os.path.dirname(os.path.abspath(__file__)) + '/../scripts/'
-summary_dir = os.path.dirname(os.path.abspath(__file__)) + '/../summary/'
-docs_dir = os.path.dirname(os.path.abspath(__file__)) + '/../docs/'
+base_dir = os.path.dirname(os.path.abspath(__file__)) + '/../'
+script_dir = os.path.join(base_dir, 'scripts')
+summary_dir = os.path.join(base_dir, 'summary')  
+docs_dir = os.path.join(base_dir, 'docs')
+readme_file = os.path.join(base_dir, 'README.md')  
 
 def update_list():
     # === yt-dlp 參數設定 ===
@@ -211,6 +213,25 @@ def make_doc(filename: str, video_list: list):
     except Exception as e:
         print(f"❌ 製作文件失敗 {filename}: {str(e)}")
 
+def create_readme_doc(max_idx):
+
+    content = """# Drberg
+
+---
+
+"""
+
+    for i in range(0, max_idx, 100):
+        start_idx = i + 1
+        end_idx = min(i + 100, max_idx)
+        content += f"- [{start_idx:04d}~{end_idx:04d}](docs/{i // 100:02d}-index.md)\n"
+
+    content += "\n---\n"
+
+    with open(readme_file, 'w', encoding='utf-8') as f:
+        f.write(content)
+
+
 def create_doc(df):
     """
     從 DataFrame 中分批取出影片資料，並呼叫 make_doc 製作文件
@@ -250,6 +271,8 @@ def create_doc(df):
                 print(f"✅ 完成文件：{filename}")
         
         print(f"📌 總共產生了 {num_batches} 個文件")
+
+        create_readme_doc(max_idx)
         
     except Exception as e:
         print(f"❌ 處理文件時發生錯誤：{str(e)}")
