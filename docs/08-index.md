@@ -230,113 +230,567 @@
 </details>
 
 <details>
-<summary>879. Multiple Sclerosis: What Causes MS and What to Do if You Have this</summary><br>
+<summary>879. [2017-06-12] Multiple Sclerosis: What Causes MS and What to Do if You Have this</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HUlk0pZhTek" target="_blank">
     <img src="https://img.youtube.com/vi/HUlk0pZhTek/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 多發性硬化症 (MS) 的成因與治療策略。
+- 脂質代謝失調在多發性硬化症中的作用。
 
+### 主要觀念
+1. **髓鞘的作用**：
+   - 髓鞘是神經系統外包裝的脂肪層，類似電線的絕緣體。
+   - 髓鞘的損失導致神經功能障礙。
+
+2. **多發性硬化症與動脈硬化的相似性**：
+   - 多發性硬化症和動脈硬化都涉及組織的硬化（sclerosis）。
+   - 二者的病理過程類似，可能均由脂質代謝失調引發。
+
+3. **免疫反應在疾病中的作用**：
+   - 炎症反應和白血球活化是多發性硬化症的重要特征。
+   - 炎症導致膠原蛋白沉積和斑塊形成，試圖修復受損組織。
+
+4. **代謝失調與胰島素抵抗**：
+   - 腦部糖分供應不足可能引發髓鞘退化。
+   - 高胰島素血症和壓力導致的高皮質醇水平可能是疾病的驅動因素。
+
+### 問題原因
+1. **脂質代謝失調**：
+   - 髓鞘和神經突觸的形成依賴於膽固醇，其生產與胰島素敏感性密切相關。
+   - 胰島素抵抗影響膽固醇代謝，導致髓鞘損失。
+
+2. **炎症反應**：
+   - 炎症因子和免疫细胞活化引發神經組織的進一步損害。
+   - 高糖飲食加重炎症，惡化病情。
+
+3. **壓力與激素失衡**：
+   - 高皮質醇水平可能干擾膽固醇代謝，影響髓鞘修復。
+   - 慢性壓力加劇胰島素抵抗，形成恶性循環。
+
+### 解決方法
+1. **飲食干預**：
+   - 采用生酮飲食降低血糖水平，減少炎症反應。
+   - 生酮飲食提供酮體作為能量來源，改善腦功能。
+
+2. **代謝修復**：
+   - 調節胰島素敏感性，恢復正常的脂質代謝。
+   - 减少糖分攝入，改善血糖穩定期。
+
+3. **抗炎策略**：
+   - 通過飲食和生活方式改變降低全身炎症水平。
+   - 补充抗氧化劑，修復受損組織。
+
+### 健康建議
+1. **dietary recommendations**：
+   - 采納低碳水化合物、高脂肪的生酮飲食模式。
+   - 增加健康脂肪攝取（如橄欖油、坚果等），支持神經修復。
+
+2. **生活習慣調整**：
+   - 管理壓力，避免慢性應激。
+   - 觀察病情變化，定期評估治療效果。
+
+3. **監測與評估**：
+   - 使用特定問卷和工具評估症状，找出根源問題。
+   - 跟蹤胰島素抵抗和其他代謝指標的改善情況。
+
+### 總結
+多發性硬化症的病理機制涉及脂質代謝失調、炎症反應和胰島素抵抗。通過采用生酮飲食等干預措施，可以有效降低血糖水平，減少炎症反應，恢復神經功能。患者應該積極調整生活方式，並密切監測病情變化，以實現最佳治療效果。
 </details>
 
 <details>
-<summary>878. Use Salt Inhaler to Reduce Congestion in Lungs – Dr.Berg</summary><br>
+<summary>878. [2017-06-11] Use Salt Inhaler to Reduce Congestion in Lungs – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=piclSYnxsYQ" target="_blank">
     <img src="https://img.youtube.com/vi/piclSYnxsYQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 探讨使用盐水鼻腔冲洗（Neti Pot）来减轻肺部压力的方法。
+- 强调这种方法对多种呼吸系统疾病的潜在益处。
+
+#### 主要觀念
+1. **鹽水鼻腔沖洗的原理**：
+   - 使用海鹽溶液进行鼻腔冲洗，类似于在海边深呼吸的效果。
+   - 盐水中的矿物质具有抗菌、抗炎作用，并能支持 adrenal功能。
+
+2. **適用症狀**：
+   - 適用於哮喘、支氣管炎、過敏、鼻竇炎、肺部粘液、花粉熱、COPD（慢性阻塞性肺病）、睡眠呼吸中止症和腎上腺疲勞等症狀。
+
+3. **操作方法**：
+   - 使用Neti Pot，將海鹽溶液注入鼻腔。
+   - 操作時間建議：每日5分鐘，重症可延長至20分鐘，甚至分次進行。
+
+4. **健康益處**：
+   - 舒緩肺部壓力，促進肺部健康。
+   - 松弛粘液，自然殺菌消毒。
+   - 支持免疫系統功能，抑制過敏反應。
+
+#### 問題原因
+- 现代生活方式中，城市環境污染、過敏原增多和腎上腺疲勞導致呼吸系統疾病增加。
+- 传统治療方法可能具有副作用或效果有限。
+
+#### 解決方法
+- 推薦使用鹽水鼻腔冲洗作為一種自然療法。
+- 選擇適合的Neti Pot產品，配合海鹽使用。
+
+#### 健康建議
+1. **每日例行公事**：
+   - 早晚進行鼻腔沖洗，保持鼻腔清潔暢通。
+
+2. **症狀加重時**：
+   - 增加操作次數或延長時間（如重症情況下每日20分鐘）。
+
+3. **環境保護**：
+   - 减少接觸過敏原和 pollutants，改善居住環境空氣質素。
+
+4. **綜合治療**：
+   - 配合其他醫療方法使用，如藥物治療或免疫療法。
+
+#### 結論
+- 盐水鼻腔冲洗是一種有效且自然的肺部健康管理方法。
+- 建議有相關症狀的人士嘗試此方法，并根據自身情況調整操作頻率和時間。
+- 保持健康的生活習慣，保護環境，才能真正改善呼吸健康。
 </details>
 
 <details>
-<summary>877. Negatives of the Keto Diet Explained By Dr. Berg</summary><br>
+<summary>877. [2017-06-11] Negatives of the Keto Diet Explained By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=CEFolikYtG0" target="_blank">
     <img src="https://img.youtube.com/vi/CEFolikYtG0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納：
 
+#### 1. 核心主題：
+- 文章主要探討酮脂 diet（即酮ogenic diet）的爭議性、其健康益處以及營養專家對此 diet 的不同看法。
+- 强調酮脂 diet 在減重和改善某些慢性疾病方面的有效性，並批評部分營養專家对其真实效果和可行性的質疑。
+
+#### 2. 主要觀念：
+- **酮脂 diet 的核心機制**：通過限制碳水化合物攝取，使身體轉為燃燒脂肪作為主要能量來源，從而降低血糖水平並改善胰島素抵抗。
+- **酮脂 diet 的健康益處**：
+  - 有效降低體重。
+  - 改善心臟健康，降低膽固醇水平。
+  - 確保大腦功能正常，特別是對於癲癇患者有顯著效果。
+  - 有助於控制糖尿病，尤其是改善胰島素抵抗。
+
+#### 3. 問題原因：
+- **營養專家的反對意見**：
+  - 酮脂 diet 的短期性和不實效果被夸大。
+  - 担心長期攝入高脂肪飲食可能導致健康問題（如膽固醇升高、心血管疾病等）。
+  - 批評酮脂 diet 可能缺乏足夠的膳食纖維和必需營養素，影響整體健康。
+
+#### 4. 解決方法：
+- **科學支持的酮脂 diet 經驗**：
+  - 遵循逐步的低碳水化合物飲食，避免立即進入嚴格的酮症。
+  - 確保飲食中包含足夠的營養素（如膳食纖維、維生素和礦物質）。
+  - 定期監測血糖和胰島素水平，以評估 diet 的效果。
+
+#### 5. 健康建議：
+- **酮脂 diet 的實施建議**：
+  - 初學者應該在專業醫療人員的指導下開始此 diet。
+  - 確保飲食多樣化，避免長期缺乏某些營養素。
+  - 定期進行身體檢查，包括血糖、膽固醇和血壓等指標。
+
+#### 6. 结論：
+- 酮脂 diet 在短期減重和改善某些慢性疾病方面有顯著效果。
+- 尽管如此，其長期效果和安全性仍需更多科學研究來證實。
+- 建議消費者在選擇此diet時，充分考慮個人健康狀況並諮詢專業醫生或營養師。
+
+---
+
+### 文章總結：
+酮脂 diet 作為一種飲食策略，在減重和改善某些慢性疾病方面展示出了顯著的效果。然而，其長期效果和安全性仍存在爭議，需要進一步的研究來支持。消費者在選擇此diet時，應該基於個人健康狀況並結合專業建議做出明智的決定。
 </details>
 
 <details>
-<summary>876. Dr. Berg Interviews Santiago Vitaliano (Intermittent Fasting & Ketosis Before & After)</summary><br>
+<summary>876. [2017-06-10] Dr. Berg Interviews Santiago Vitaliano (Intermittent Fasting & Ketosis Before & After)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=L-Y6RoGGQ2I" target="_blank">
     <img src="https://img.youtube.com/vi/L-Y6RoGGQ2I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 健康飲食與生活模式的改變對身體健康的影響。
+- 创新廚具在健康烹饪中的應用。
+
+#### 主要觀念
+1. **健康飲食的重要性**：
+   - 通過調整飲食結構和生活方式，可以顯著改善體型和整體健康狀況。
+   - 强調低脂、高蛋白飲食的優點。
+
+2. **廚具創新對健康的影響**：
+   - 提出了一種新型 grill（焼き網），專為減少致癌物質並提高烹饪效果而設計。
+
+3. **生活方式的改變**：
+   - 強調個人責任在健康管理中的作用，通過自我監控和調整飲食 habit來控制體重和整體健康。
+
+#### 問題原因
+1. **傳統烹饪方法的缺點**：
+   - 燉肉或脂肪滴落在火源上，導致食物燒焦並產生致癌物質。
+   - 火焰熏味影響食物風味，且清潔不便。
+
+2. **現代生活方式的挑戰**：
+   - 高 calorie、低營養密度飲食氾濫，導致肥胖和其他健康問題。
+   - 缺乏時間和知識來制備健康的餐點。
+
+#### 解決方法
+1. **飲食調整**：
+   - 增加高蛋白、低碳水化合物的食物攝取。
+   - 減少加工食品和外食，自制健康餐點。
+
+2. **廚具創新**：
+   - 推出新型 grill，解決傳統烹饪中的健康隱患。
+   - 這種 grills 可以更均勻地加熱食物，避免脂肪燒焦並减少致癌物質的產生。
+
+3. **健康生活模式**：
+   - 鼓励定期運動和健康娛樂活動，如烧烤派對，將其變成健康的社交活動。
+   - 強調自我監控和責任感，使個人能夠主動管理自己的健康。
+
+#### 健康建議
+1. **飲食方面**：
+   - 選擇瘦肉、魚類和其他高蛋白食物，避免過量脂肪攝取。
+   - 減少加工食品的攝取，增加新鮮蔬菜和水果的比例。
+
+2. **烹饪方法**：
+   - 使用新型 grill 進行健康烹饪，避免燒焦和致癌物質的產生。
+   - 選擇適合的 cooks 工具來提高食物的安全性和營養價值。
+
+3. **生活方式**：
+   - 舉行健康的社交活動，如使用新型 grill 烧烤，既享受美食又保持健康。
+   - 定期監控體重和整體健康指標，及時調整飲食和運動計劃。
+
+#### 結論
+- 通過飲食結構的調整和廚具的創新，可以顯著改善個人健康狀況。
+- 強調健康生活方式的重要性，並鼓勵將健康管理融入日常生活。
+- 新型 grill 的問世為健康烹饪提供了新的可能性，值得廣泛應用。
 </details>
 
 <details>
-<summary>875. Serious Health Benefits of Intermittent Fasting Explained By Dr. Berg</summary><br>
+<summary>875. [2017-06-10] Serious Health Benefits of Intermittent Fasting Explained By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=1lhAhg3ezWI" target="_blank">
     <img src="https://img.youtube.com/vi/1lhAhg3ezWI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理
 
+#### 核心主題
+- 間歇性禁食（In a Minute Fasting）的健康益處。
+
+#### 主要觀念
+1. **神經保護作用**：
+   - 增加腦源性神經營養因子（Brain-Derived Neurotrophic Factor, BDNF），促進現有神經元的存活和新神經元的生長。
+   - 保護海馬結構，防止其退化，海馬與空間定位、記憶功能有關。
+
+2. **抗 Alzheimer 症狀**：
+   - 減少阿滋海默症患者的tau蛋白纏結和amyloid斑塊，保護神經細胞。
+   - 改善記憶力和學習能力，特別是長期和短期記憶。
+
+3. **自噬作用增強**：
+   - 增加細胞的自噬活性，幫助清除毒性代謝廢物，改善整體細胞健康。
+
+4. **胰島素敏感性提升**：
+   - 降低胰島素抵抗，改善糖分調節能力，適合治療前期糖尿病患者。
+
+#### 問題原因
+- 細胞毒性代謝 waste 的累積，導致神經退化性疾病（如阿滋海默症、_Depression_）。
+- 胰島素抵抗和糖分調節失衡，導致代謝相關疾病（如肥胖、2型糖尿病）。
+
+#### 解決方法
+1. **間歇性禁食**：
+   - 通過短期禁食引發輕度壓力反應，觸發 cellular adaptations 和神經保護機制。
+   - 減少 toxic waste 的累積，提升自噬活性。
+
+2. **改善胰島素敏感性**：
+   - 降低胰島素抵抗，增強身體對糖分的調節能力。
+
+#### 健康建議
+1. 適當實施間歇性禁食，以促進神經健康和整體代謝功能。
+2. 確保均衡飲食，配合運動，進一步提升健康效果。
+3. 對於有 Alzheimer 症狀或胰島素抵抗的人群，建議在專業醫療人員的指导下開始禁食計劃。
+
+#### 結論
+- 間歇性禁食具有多方面的健康益處，包括神經保護、改善記憶功能、增強自噬和降低胰島素抵抗。
+- 可作為預防和治療 Alzheimer 症狀及其他神經退化性疾病的有效手段。
 </details>
 
 <details>
-<summary>874. Gallstone Symptoms and Causes Explained – Dr.Berg on Gallbladder Stone Removal</summary><br>
+<summary>874. [2017-06-09] Gallstone Symptoms and Causes Explained – Dr.Berg on Gallbladder Stone Removal</summary><br>
 
 <a href="https://www.youtube.com/watch?v=AXVXUkF9XfU" target="_blank">
     <img src="https://img.youtube.com/vi/AXVXUkF9XfU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- **膽石症（Gall Stones）**：討論膽石症的症狀、成因、治療方法及預防措施。
+
+---
+
+#### 主要觀念
+1. **膽石症的定義**：
+   - 腳石是由膽汁中膽固醇或色素沉積形成的固體物質，可能阻塞膽道並引發炎症或疼痛。
+
+2. **膽石症的危險性**：
+   - 雖然大部分膽石無症狀，但若阻塞膽道或引發感染，可導致嚴重健康問題。
+
+---
+
+#### 症狀
+- 常見症狀包括：
+  1. 腹脹、消化不良。
+  2. 呃逆或反酸。
+  3. 右上腹疼痛（肋骨下緣）。
+  4. 背部疼痛，尤其是右肩胛區。
+  5. 、嘔吐。
+  6. 粪便顏色變淺或浮在水面。
+
+---
+
+#### 成因
+1. **膽汁成分失衡**：
+   - 胆固醇過高或膽鹽不足導致沉積形成结石。
+
+2. **胰岛素抵抗**：
+   - 高胰島素血症會降低膽汁分泌，增加膽石風險。
+
+3. **飲食習慣**：
+   - 高糖、高碳水化合物飲食會誘發胰島素_spike，影響膽汁代謝。
+
+4. **低流動性假說**：
+   - 空腹或禁食時間過長導致膽汁淤積，增加结石形成風險。
+
+---
+
+#### 設問與解答
+- **問題：膽石症的主因是高脂肪飲食還是膽汁不足？**
+  - 高脂肪飲食會刺激膽汁分泌，但長期膽汁不足或胰島素抵抗才是主要成因。
+- **問題：糖尿病患者為何較易患膽石症？**
+  - 糖尿病患者的胰岛素 resistance 可降低膽汁分泌，增加结石風險。
+
+---
+
+#### 設計與建議
+1. **飲食調整**：
+   - 倡導生酮饮食（ketogenic diet）和間歇性禁食以降低胰島素水平，改善膽汁代謝。
+   - 減少高糖、高碳水化合物食物攝取。
+
+2. **補充劑推薦**：
+   - 使用「膽囊配方」（Gallbladder Formula）：
+     1. 提供純化膽鹽以溶解结石。
+     2. 润滑膽管，降低阻塞風險。
+     3. 添加草藥成分（如Stone Root）促進结石溶解。
+     4. 調節胰腺酶分泌，減輕膽囊壓力。
+     5. 使用氫氯化鉀酸化胃液，刺激膽汁釋放。
+
+---
+
+#### 總結
+- **症狀**：腹痛、恶心、消化不良等。
+- **成因**：膽汁成分失衡、胰岛素抵抗、高糖飲食。
+- **治療**：
+  - 飲食調整（生酮飲食、間歇禁食）。
+  - 使用補充劑改善膽汁功能。
+- **預防**：保持健康飲食習慣，避免誘發因素。
+
+---
+
+#### 參考資料
+1. 文章作者提供的信息整合。
 </details>
 
 <details>
-<summary>873. Insulin & Lean Muscle Mass – Insulin Resistance and Muscle Gain Connection – Dr. Berg</summary><br>
+<summary>873. [2017-06-09] Insulin & Lean Muscle Mass – Insulin Resistance and Muscle Gain Connection – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=MvZ6K5ueNI4" target="_blank">
     <img src="https://img.youtube.com/vi/MvZ6K5ueNI4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理結構
 
+#### 1. 核心主題：胰岛素与肌肉质量的关系
+- 胰岛素在肌肉蛋白质合成中的关键作用。
+- 解释了肌肉细胞如何通过胰岛素的作用摄取氨基酸以生成瘦肉蛋白。
+
+#### 2. 主要觀念：
+- **胰岛素抗性**：指身体对胰岛素的反应减弱，常见于2型糖尿病或前期糖尿病患者。此时体内胰岛素水平可能正常或偏高，但无法有效促进氨基酸进入细胞。
+- **肌肉蛋白质合成机制**：胰岛素通过作用于肌肉细胞表面受体，激活钠钾泵，促进氨基酸转运和蛋白质合成。
+
+#### 3. 肌肉质量不足的原因：
+- **胰岛素抗性**：导致氨基酸无法有效进入肌肉细胞，阻碍瘦肉蛋白的生成。
+- **不当的碳水化合物摄入**：过多的碳水化合物导致血糖升高，刺激过度胰岛素分泌，反而引发或加重胰岛素抗性。
+- **蛋白质摄入过量或低质量**：大量低质蛋白质可能干扰肝脏功能并触发胰岛素抵抗。
+- **缺乏运动和恢复**：高强度训练虽能刺激生长激素释放，但过度训练会阻碍肌肉修复和增长。
+
+#### 4. 解決方法：
+- **控制碳水化合物摄入**：避免过量碳水化合物，选择低GI食物以维持血糖稳定。
+- **调整蛋白质攝取**：适量且高品質的蛋白源，如鱼类、蛋类，并避免过度依赖低脂 Whey 蛋白质，若使用可搭配健康脂肪（如椰子油）以减少胰岛素 spikes。
+- **补充钾和钠**：确保每日摄入足够的钾（约4700毫克）和适量的钠（约500毫克），维持钠钾泵功能。建议通过饮食或補充劑攝取。
+- **充分休息与睡眠**：保证充足睡眠以促进肌肉修复和生长激素分泌，避免过度训练。
+
+#### 5. 健康建議：
+- 維持均衡飲食，限制精緻碳水化合物的攝取。
+- 選擇高品質、完整的蛋白源，並注意脂肪和礦物質的配比。
+- 定期進行中等強度以上的運動訓練，但避免過度訓練。
+- 確保足夠的睡眠時間，以促進肌肉恢復與生長激素分泌。
+- 监测并管理血糖水平，预防胰岛素抗性。
+
+#### 6. 科學概念與學術名詞：
+- **胰島素抗性（Insulin Resistance）**：身體细胞对胰岛素的敏感度降低，影响葡萄糖摄取和利用。
+- **瘦肉蛋白合成（Lean Muscle Protein Synthesis）**：指肌肉组织中蛋白质的生成过程。
+- **生長激素刺激（Growth Hormone Stimulation）**：運動可刺激生長激素分泌，促進肌肉修復與增長。
+- **鈉鉀泵（Sodium-Potassium Pump）**：負責維持細胞膜 potentials，對於物質的主動運輸至關重要。
+
+#### 7. 結論：
+- 胰岛素在肌肉质量中起關鍵作用，但其效果受多種因素影響。
+- 解決肌肉質量不足需綜合調整飲食、運動和恢復策略，特別是注意礦物質平衡和胰島素敏感度的管理。
 </details>
 
 <details>
-<summary>872. Keto-Friendly Cranberry Pecan Muffins Recipe – Dr. Berg</summary><br>
+<summary>872. [2017-06-08] Keto-Friendly Cranberry Pecan Muffins Recipe – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=LZj6rbrJqYk" target="_blank">
     <img src="https://img.youtube.com/vi/LZj6rbrJqYk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題
+- 制作低糖、無粉的蔓越莓核桃烤鬆餅（Cranberry Pecan Muffins）食譜介紹。
+
+#### 主要觀念
+1. **食譜特色**：
+   - 低糖或無糖。
+   - 無麗麥成分。
+   - 適合酮genic diet（生酮飲食）。
+   - 使用 blender 制作，簡單方便。
+
+2. **材料選擇**：
+   - 越莓：含少量 carbs，適合酮genic diet。
+   - 核桃：提供健康脂肪和蛋白質。
+   - 无鹽牛油（grass-fed butter）：建議使用天然無添加物的牛油。
+
+3. **食譜優勢**：
+   - 簡單易做，適合家庭製作。
+   - 可以在烤箱中聞到誘人的香味，提升家中的氛圍。
+   - 適合兒童食用，受到孩子歡迎。
+
+#### 問題原因
+- 市面上常見的甜點含糖量高，不适合酮genic diet或其他低碳水化合物飲食者。
+- 經典甜點多使用麗麥，對麸質不耐受者或特定飲食限制的人群來說，選擇有限。
+
+#### 解決方法
+1. **食譜調整**：
+   - 使用無麗麥和低糖材料，適合酮genic diet和其他低碳水化合物飲食需求。
+   - 通過blender混合食材，簡化製作步驟。
+
+2. **健康考量**：
+   - 替代傳統高糖、高碳水化合物的甜點，提供更健康的選擇。
+   - 使用天然成分，如grass-fed牛油和蔓越莓，增加食譜的營養價值。
+
+#### 健康建議
+- genic diet或其他低碳水化合物飲食者可將此食譜納入日常飲食計劃中。
+- 選擇高品質食材，如無添加物的grass-fed牛油和新鮮蔓越莓，以提升整體健康效益。
+
+#### 結論
+- 通過簡單的製作方法和健康的ingredient選擇，可以創作出既美味又符合特定飲食需求的甜點。
+- 鼓励觀眾分享更多食譄請求，以便提供更多的食譜建議和支持。
 </details>
 
 <details>
-<summary>871. Ketosis and Sugar Alcohol Sweeteners Explained By Dr. Berg</summary><br>
+<summary>871. [2017-06-08] Ketosis and Sugar Alcohol Sweeteners Explained By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5kyZxgR1Syc" target="_blank">
     <img src="https://img.youtube.com/vi/5kyZxgR1Syc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 探讨酮症（ketosis）与糖醇类及甜味剂之间的关系。
+- 分析不同类型甜味剂对血糖的影响及其健康风险。
 
+### 主要觀念
+1. **糖醇類甜味劑的分類**：
+   - 糖醇類甜味劑包括山梨糖醇、木糖醇、赤蘗糖醇（erythritol）、 monk fruit 等。
+2. **血糖指數（Glycemic Index, GI）的重要性**：
+   - GI 是衡量食物增加血糖速度的指標，GI 越高，血糖上升越快。
+
+### 問題原因
+1. **高GI甜味劑的危害**：
+   - 高GI甜味劑如 maltodextrin、蔗糖、高果糖玉米 syrup 等會迅速升高血糖，並可能引發胰島素抵抗。
+2. **糖醇類甜味劑的潛在副作用**：
+   - 某些糖醇類甜味劑（如赤蘗糖醇）可能引起腸胃不適，例如腹脹和腹氣。
+
+### 解決方法
+1. **選擇低GI甜味劑**：
+   - 選擇GI較低的甜味劑，如 monk fruit、studio 等。
+2. **控制攝取量**：
+   - 即使低GI甜味劑也有其限額，過量攝取可能引發健康問題。
+
+### 健康建議
+1. **避免高GI甜味劑**：
+   - 應儘量避免 maltodextrin、蔗糖等高GI甜味劑。
+2. **試用不同甜味劑**：
+   - 根據個人体质，選擇適合的糖醇類甜味劑。例如，赤蘗糖醇可能對某些人造成不適，建議少量攝取並觀察反應。
+3. **優先選擇天然甜味劑**：
+   - 如 monk fruit 等天然甜味劑為較佳選擇。
+
+### 總結
+- 酮症患者在選擇甜味劑時需謹慎，應根據GI值和個人体质來決定。
+- 建議优先選用低GI且副作用少的甜味劑如 monk fruit 和 erythritol（注意攝取量），並避免高GI甜味劑以維持血糖穩定。
 </details>
 
 <details>
-<summary>870. Intermittent Fasting & Ketosis Before & After (Dr.Berg Interviews Brenner Stiles)</summary><br>
+<summary>870. [2017-06-07] Intermittent Fasting & Ketosis Before & After (Dr.Berg Interviews Brenner Stiles)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5iQVFcEZDf8" target="_blank">
     <img src="https://img.youtube.com/vi/5iQVFcEZDf8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Article Summary and Key Points
 
+#### Core Themes:
+- **Intermittent Fasting and Ketogenic Diet**: The individual has adopted intermittent fasting and a ketogenic diet, leading to significant health improvements.
+- **Weight Loss and Body Composition**: There is a notable reduction in body weight (from size 18 to 10) and improved physical appearance.
+- **Cognitive Function and Memory Enhancement**: Improved memory recall and cognitive performance, particularly in tasks requiring numerical accuracy.
+
+#### Major Concepts:
+- **Metabolic Benefits**: Shifting the body's primary energy source from glucose to ketones has enhanced metabolic efficiency and reduced blood sugar fluctuations.
+- **Neuroprotective Effects**: Ketones provide better fuel for the brain, potentially reducing the risk of neurodegenerative diseases like Alzheimer's and Parkinson's.
+- **Social Impact**: The individual has successfully influenced family members (mother and sister) to adopt similar lifestyle changes, leading to their weight loss.
+
+#### Issues and Causes:
+- **Initial Cognitive Decline**: Misdiagnosed as age-related memory loss, but actually due to poor metabolic health and glucose dependency.
+- **Blood Sugar Fluctuations**: High glycemic index diets contribute to cognitive decline and memory impairment.
+
+#### Solutions and Recommendations:
+1. **Adopt Intermittent Fasting**: Implement time-restricted eating to optimize metabolic health and weight loss.
+2. **Follow a Ketogenic Diet**: Increase intake of healthy fats and reduce carbohydrate consumption to enhance brain function and sustain energy levels.
+3. **Educate Family Members**: Encourage others by sharing success stories and providing guidance on lifestyle changes.
+
+#### Health Advice:
+- **Monitor Cognitive Function**: Regularly test memory recall to track improvements and reinforce the benefits of a ketogenic lifestyle.
+- **Avoid Glucose Dependency**: Minimize processed sugars and refined carbohydrates to prevent blood sugar crashes and cognitive fog.
+
+#### Conclusion:
+The individual's journey demonstrates that metabolic health significantly impacts both physical and cognitive well-being. By adopting intermittent fasting and a ketogenic diet, they achieved substantial weight loss and improved memory function. Their success serves as an inspiration for others seeking similar transformations, emphasizing the importance of education and personal example in promoting healthier lifestyles.
 </details>
 
 <details>
