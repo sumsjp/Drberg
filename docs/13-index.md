@@ -230,80 +230,429 @@
 </details>
 
 <details>
-<summary>1379. The Importance of Cholesterol for Your Muscles and Testosterone – Dr. Berg</summary><br>
+<summary>1379. [2018-03-03] The Importance of Cholesterol for Your Muscles and Testosterone – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=X35o4V27JBY" target="_blank">
     <img src="https://img.youtube.com/vi/X35o4V27JBY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 胆固醇在身體功能中的重要性，特別是對肌肉、神經系統和内分泌系統的作用。  
 
+### 主要觀念  
+1. **膽固醇的必要性**  
+   - 胆固醇是brain function、neurological health和muscle performance的必需物質。  
+   - 它是bile acids、vitamin D和sex hormones（如 testosterone）的重要前体。  
+
+2. **膽固醇的來源**  
+   - 人體每日自行合成約3,000毫克膽固醇。  
+   - 食用胆固_AVAILABLE_食物可提供總膽固醇的20-25%。  
+
+3. **膳食膽固醇與血液膽固醇的关系**  
+   - 目前無研究表明食用高膽固醇食物會導致血液膽固醇水平顯著上升。  
+
+4. **Statins的副作用**  
+   - Statins（他汀類藥物）可阻斷胆固_AVAILABLE_合成，但其副作用包括myopathy、muscle pain、CoQ10缺乏等。  
+   - 長期使用可能增加糖尿病風險，從而提高心臟病發作的概率。  
+
+### 問題原因  
+- 过度擔心膽固醇攝取導致心臟病，忽略其在身體功能中的重要性。  
+- Statins的副作用影響肌肉健康和整體 Wellness。  
+
+### 解決方法  
+1. **飲食調整**  
+   - 增加富含膽固醇的食物（如蛋類、貝類、紅肉）攝取，以支持健康的睾酮水平和肌肉功能。  
+
+2. **替代療法**  
+   - 採用自然方式穩定膽固醇水平，而非依賴Statins。  
+
+3. **健康建議**  
+   - 不必過度避免食用膽固醇含量高的食物。  
+   - 討論膽固醇攝取與心臟病風險时需基於科學證據。  
+
+### 结論  
+- 高膽固醇飲食不會顯著影響血液膽固醇水平，反而是支持肌肉健康和内分泌系統的必需物質。  
+- Statins雖能降低膽固醇，但其副作用可能帶來更多健康風險。  
+- 採取平衡飲食並避免過度依賴藥物是維持整體健康的最佳策略。  
+
+---
+
+### 摘要  
+膽固醇在身體功能中扮演關鍵角色，特別是對肌肉和内分泌系統的影響。本文強調了膽固醇作為神經傳導、激素合成和脂肪消化的重要物質，同時批駁了膽固醇攝取導致心臟病的傳統觀念。文中指出，食用高膽固醇食物並不會顯著提高血液膽固醇水平，但Statins等降脂藥物可能帶來嚴重副作用，如肌肉損傷和糖尿病風險增加。因此，建議飲食中攝取足夠的膽固醇以支持健康 testosterone 水平，並探索替代療法來維持整體 Wellness。
 </details>
 
 <details>
-<summary>1378. My 3 Stupid Dietary Mistakes: Skipping Meals, Snacking, Animal Protein – Dr. Berg</summary><br>
+<summary>1378. [2018-03-03] My 3 Stupid Dietary Mistakes: Skipping Meals, Snacking, Animal Protein – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xC2ImFM-3Og" target="_blank">
     <img src="https://img.youtube.com/vi/xC2ImFM-3Og/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小結整理：文章重點歸納
 
+#### 核心主題:
+- 分享作者在飲食建議中曾經犯下的三個重大錯誤，並反思這些錯誤對健康和體重管理的影響。
+
+**Core Theme:**  
+"Reflection on Dietary Mistakes and Their Impact"
+
+---
+
+#### 主要觀念:
+1. **建議一：不要跳餐，用堅果、種子和苹果作為零食。**
+   - 原來的建議是通過吃堅果、種子和apple來避免跳餐，這被證明是非常錯誤的。
+2. **建議二：保持血糖穩定，避免饑餓感。**
+   - 推薦隨時隨地進食以防止饥饿，但事實上這種方法會導致血糖波動和胰島素水平升高。
+3. **建議三：首兩周避免攝取動物性蛋白質（如肉類、禽類、海產）。**
+   - 建議在初期禁食動物蛋白，這被證明是錯誤的，因蛋白質對身體組織修復至關重要。
+
+**Primary Concepts:**  
+1. "Avoid Skipping Meals with Nuts, Seeds, and Apples"  
+2. "Prevent Hunger by Grazing Throughout the Day"  
+3. "Eliminate Animal Proteins in the First Two Weeks"
+
+---
+
+#### 問題原因:
+- **建議一的原因：**
+  - 頻繁進食堅果、種子和apple會導致攝入過多熱量，特別是apple的高糖分會妨礙減肥。
+- **建議二的原因：**
+  - 經常進食會刺激胰島素分泌，維持高水平的胰島素不利於脂肪燃燒和體重 reduction。
+- **建議三的原因：**
+  - 過度限制蛋白質攝取會影響身體修復和肌肉生長，導致血糖不穩定。
+
+**Root Causes:**  
+1. "High Caloric Intake from Nuts, Seeds, and Apples"  
+2. "Excessive Insulin Spikes from Frequent Eating"  
+3. "Inadequate Protein Intake Leading to Blood Sugar Instability"
+
+---
+
+#### 解決方法:
+1. **建議一的修正：**
+   - 適當控制堅果、種子和apple的攝取量，避免過度依賴這些零食。
+2. **建議二的修正：**
+   - 限制進食次數，改為少量多餐但不要過度 grazelike 进食模式，以降低胰島素水平。
+3. **建議三的修正：**
+   - 確保攝取足夠的蛋白質，特別是在初期飲食計劃中，以維持血糖穩定和促進身體修復。
+
+**Solutions:**  
+1. "Moderate Intake of Nuts, Seeds, and Apples"  
+2. "Limit Meal Frequency to Avoid Excessive Insulin Spikes"  
+3. "Ensure Adequate Protein Intake for Blood Sugar Stability"
+
+---
+
+#### 健康建議:
+- **飲食建議：**
+  - 選擇低GI（升糖指數）食物作為零食，避免高糖分的水果如apple。
+  - 控制進食次數，避免血糖波動和胰島素水平過高。
+  - 確保攝取足夠的蛋白質，特別是在體能恢復期。
+- **其他建議：**
+  - 定期更新飲食知識，根據最新研究調整飲食計劃。
+  - 請教專業營養師以制定適合個人需求的飲食方案。
+
+**Health Recommendations:**  
+1. "Choose Low-GI Snacks and Avoid High-Sugar Fruits"  
+2. "Control Meal Frequency to Maintain Stable Blood Sugar Levels"  
+3. "Ensure Sufficient Protein Intake for Optimal Recovery"
+
+---
+
+#### 總結:
+- 作者承認過去的飲食建議存在重大錯誤，並強調了反思和改進的重要性。
+- 提醒觀看者不要盲目跟從任何飲食建議，應該根據個人情況和最新研究調整飲食計劃。
+
+**Conclusion:**  
+"Admitting Past Mistakes and Emphasizing the Importance of Continuous Learning in Dietary Advice"
+
+---
+
+#### 文章結尾行動呼籲:
+- 鼓勵觀看者訂閱頻道以獲得未來的更新和更多健康資訊。
+
+**Call to Action at the End:**  
+"Encourage Subscribers for Future Updates on Health Insights"
 </details>
 
 <details>
-<summary>1377. Key Keto Foods on a Ketogenic Diet – Dr. Berg</summary><br>
+<summary>1377. [2018-03-02] Key Keto Foods on a Ketogenic Diet – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=A88BLnhj9Fk" target="_blank">
     <img src="https://img.youtube.com/vi/A88BLnhj9Fk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：酮egenic Diet（生酮飲食）中關鍵的食物與營養素
 
+---
+
+#### 主要觀念：
+1. 生酮飲食強調攝取高脂肪、低碳水化合物的食物。
+2. 在此飲食模式下，需特別注意某些營養素的攝取，以維持整體健康並避免可能的副作用。
+
+---
+
+#### 問題原因：
+1. **糖分與胰島素水平過高**：傳統西式飲食中高糖分和高碳水化合物的攝取導致血糖波動和胰島素水平升高，長時間下來會影響血管、腎臟、神經系統等器官。
+2. **營養不足**：
+   - 維生素C缺乏：生酮飲食可能限制了某些富含維生素C的食物（如水果）的攝取。
+   - B群維生素不足：酮egenic Diet可能增加對B vitamins的需求，尤其是B1。
+   - 鈣、鎂、钾等礦物質不足：蔬菜攝取不足可能導致這些礦物質缺乏。
+3. **微量元素不足**：
+   - 碘：若未攝取海鮮或海藻類食物，碘的來源可能受限。
+   - 鐵：紅肉和臟器是主要來源之一。
+
+---
+
+#### 解決方法：
+1. **維生素C**：
+   - 增加富含維生素C的食物攝取，如綠椒、 Sauerkraut（德國酸菜）或新鮮榨汁的萊mony。
+2. **B群維生素**：
+   - 選擇富含B1的食物，如日曆花籽、豬肉（尤其是未加工的火腿）和營養酵母。
+3. **礦物質攝取**：
+   - 每天攝取7-10杯蔬菜，以確保足夠的鈣、鎂和钾。
+   - 优選高鉀食物，如菠菜、牛油果和甜菜葉。
+4. **微量元素**：
+   - 碘：消費海鮮或海帶等富含碘的食物。
+   - 鐵：攝取紅肉或臟器（如肝脏）來補充鐵質。
+
+---
+
+#### 健康建議：
+1. **多樣化飲食**：確保食物來源的多樣性，以獲得足夠的營養素。
+2. **注意加工食品**：避免選擇高糖、高鹽和高加工的食品，尤其是瓶裝萊mony汁，因其維生素C已因高溫處理而大量流失。
+3. **植物營養素攝取**：
+   - 增加富含植物化學物質的食物攝取，如Broccoli sprouts（ broccoli苗），以提供額外的健康益處。
+4. **個人化飲食計劃**：根據自身需求和偏好調整食物選擇，例如不喜歡 Sauerkraut的人可以改用綠椒來補充維生素C。
+
+---
+
+#### 總結：
+酮egenic Diet雖然是有效的減肥或控制血糖的方法，但仍需注意營養均衡。特別是維生素C、B vitamins、礦物質和微量元素的攝取，以避免因飲食限制導致的健康問題。通過多樣化食物來源並攝取足夠的新鮮蔬菜和富含特定營養素的食物，可以確保酮egenic Diet的長期健康效果。
 </details>
 
 <details>
-<summary>1376. 6 Tricks to Speed Keto Adaptation – Dr. Berg</summary><br>
+<summary>1376. [2018-03-01] 6 Tricks to Speed Keto Adaptation – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Hgn14XgT2to" target="_blank">
     <img src="https://img.youtube.com/vi/Hgn14XgT2to/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理：加速酮osis適應的核心策略
 
+#### 1. 核心主題
+- ** Keto 預算：** 探讨如何通过酮osis（脂肪燃烧状态）来提高身体的代谢效率。
+- ** 能量來源轉換：** 從糖分依靠轉向脂肪利用，優化身體燃料供應。
+
+#### 2. 主要觀念
+- ** 糖分依賴性：** 過去主要靠血糖和儲存糖分（肝臟、肌肉）供能，需頻繁攝取碳水化合物以維持血糖水平。
+- ** 脂肪優勢：** 身體儲備大量脂肪（平均約77,000卡路里），脂肪是更持久、穩定的能量來源。
+- ** 酮osis狀態：** 真正進入酮osis需要降低胰島素水平，促使身體利用脂肪作為主要燃料。
+
+#### 3. 問題原因
+- ** 血糖不穩定：** 在轉換期，血糖可能下降，導致不適（如頭暈、乏力）。
+- ** 胰島素干擾：** 频繁進食會刺激胰島素分泌，延長進入酮osis的時間。
+
+#### 4. 解决不方法
+- ** 經絡整合策略：**
+  - ** 同時進行禁食：** 禁食降低胰島素水平，加速酮osis進入。
+  - ** 減少進食次數：** 频繁進餐會刺激胰島素，建議間隔較長時間且減少進食頻率。
+- ** 轉換期 hunger 管理：**
+  - ** 軽微 hunger 推_through：** 忍受 mild hunger 有助於更快進入酮osis。
+  - ** 強烈 hunger 時可攝取小份脂肪零食：** 如堅果、牛油果，避免蛋白質以免刺激胰島素。
+
+#### 5. 健康建議
+- ** 食物選擇：**
+  - 增加高脂食物攝取（如堅果、牛油果）以穩定能量。
+  - 多食用富含礦物質的食物（如羽衣甘藍、菠菜），幫助穩定血糖和胰島素抵抗。
+- ** 調理飲品：** 柠檬汁加醋水，提供電解質和礦物質，促進酮osis適應。
+- ** 营養補充劑：** 使用營養酵母，改善胰島素抵抗問題。
+
+#### 6. 結論
+- ** 遷移期挑戰：** 初期可能面對血糖不穩定和 hunger 激烈的情況，但通過正確策略可有效應對。
+- ** 總體目標：** 逐步讓身體適應脂肪為主要能量來源，提升整體代謝效率和健康狀態。
+
+此整理涵蓋了文章的核心要點，以正式、客觀的方式分段陳述，提供清晰的理解框架。
 </details>
 
 <details>
-<summary>1375. Top 7 Magnesium Rich Foods – Dr. Berg</summary><br>
+<summary>1375. [2018-03-01] Top 7 Magnesium Rich Foods – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=uwYj50FR8NM" target="_blank">
     <img src="https://img.youtube.com/vi/uwYj50FR8NM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 探讨镁元素在饮食中的重要性及其最佳食物来源。
+- 强调通过膳食补充镁的重要性。
+
+#### 主要觀念
+1. **高镁含量的食物**：
+   - 泵kins 塞eds（ Pumpkin seeds）
+   - 菠菜（Spinach）
+   - 瑞士甜菜（Swiss Chard）
+   - 杏仁（Almonds）
+   - 牛油果（Avocados）
+   - 任何绿叶蔬菜（因含有叶绿素，其中镁是核心矿物质）。
+   
+2. **镁的功能**：
+   - 参与肌肉和神经生理功能。
+   - 激活体内的酶。
+   - 支持能量生产。
+   - 调节血压、减轻压力、改善睡眠质量。
+   - 缓解腿部和足部抽筋。
+
+3. **镁的吸收与储存**：
+   - 镁主要储存在骨骼中。
+   - 需要胃酸来有效吸收。
+   - 大约 99% 的镁存在于细胞内，血液中的镁仅占1%，因此血检不能完全反映体内镁水平。
+
+#### 問題原因
+- **低镁摄入**：
+  - 不食用足够的绿色蔬菜和高镁食物。
+  - 过量的钙摄入可能减少镁的储存。
+  
+- **胃酸不足**：
+  - 服用抗酸药或依赖 Tums（碳酸氢钠片）可能导致镁吸收受限。
+
+#### 解決方法
+1. **饮食调整**：
+   - 增加绿叶蔬菜、坚果、种子和牛油果的摄入。
+   - 选择无糖黑巧克力作为镁的良好来源，可用甜菊糖代替糖分。
+
+2. **补充剂**：
+   - 如果无法通过膳食获取足够的镁，可考虑使用补充剂。
+   - 注意通过食物摄取镁优于单纯依赖补充剂，以确保矿物质比例的合理性。
+
+#### 健康建議
+- 定期摄入富含镁的食物，以预防镁缺乏症。
+- 对于有胃酸问题的人群，应谨慎使用抗酸药物，以免影响镁吸收。
+- 保持均衡饮食，避免过量钙摄入干扰镁代谢。
+
+#### 結論
+- 镁是维持身体健康的重要矿物质，广泛参与身体的各项生理活动。
+- 大部分人群存在镁缺乏的风险，需通过合理膳食或补充剂来确保充足摄入。
+- 自然食物来源提供更全面的营养素组合，优于单一补充剂。
+
+### 中文引用
+此文章中提到：“超过半数的人口可能面临镁缺乏的问题。”
 </details>
 
 <details>
-<summary>1374. Is Kale A Poison To Your Thyroid Problems Or An Anti-Poison? – Dr. Berg</summary><br>
+<summary>1374. [2018-02-28] Is Kale A Poison To Your Thyroid Problems Or An Anti-Poison? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=2Q8X2W4Lpeg" target="_blank">
     <img src="https://img.youtube.com/vi/2Q8X2W4Lpeg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題： kale 的毒性及其对人体的影响  
 
+#### 主要觀念：
+1. **Kale 中的_phytonutrients_**  
+   - Kale 含有超過 125 種不同的 glucosinolates，這些化合物可轉化為具有潛在影響的次生代謝物，例如 isothiocyanate、sulforaphane 和 indole-3-carbinol。
+
+2. **Glucosinolates 的生物活性**  
+   - 轉化後的 compounds 可能對甲状腺功能產生抑制作用，尤其是在碘缺乏的情況下。然而，這些影響在人類中尚未被充分證實。
+
+#### 問題原因：
+1. **動物研究的限制**  
+   - 一些豬的試驗表明，攝取高劑量的 glucosinolates 可能導致甲状腺問題。但這些試驗使用了 rapeseed 和 mustard seed，與 kale 的作用機制不同。
+
+2. **劑量和暴露程度**  
+   - 根據研究，一個人需要攝取至少 17 磅的十字花科蔬菜（如 kale）才可能對甲状腺造成影響。這在日常飲食中極為罕見。
+
+#### 解決方法：
+1. **平衡攝取**  
+   - 雖然 glucosinolates 可能有抑制作用，但其健康益處遠遠超過潛在風險。建議合理攝取，避免過量。
+
+2. **補充碘質**  
+   - 對於擔心甲状腺健康的個體，可以考慮增加碘的攝取（如海藻、海鹽），以平衡可能的抑制效應。
+
+#### 健康建議：
+1. **Kale 的營養價值**  
+   - Kale 是一種強大的抗癌食物，刺激肝臟的 phase one 和 phase two 解毒過程，幫助將毒素轉化為無害物質並排出體外。
+
+2. **環境排毒的重要性**  
+   - 在現代環境中，Glyphosate 等毒素廣泛存在於飲食和環境中。Kale 等十字花科蔬菜能有效幫助身體清除這些有害物質。
+
+#### 結論：
+- Kale 不會作為毒物作用於人體，反而是具有抗氧化、抗癌和解毒功能的健康食品。
+- 目前尚無足夠的人類研究支持 kale 會導致甲状腺問題，且其益處遠勝潛在風險。  
+- 建議將 kale 紮為均衡飲食的一部分，尤其對抗毒性、促進健康具有顯著優勢。
+
+---
+
+此整理基於原文內容，使用了正式的學術用語，並通過小節結構清晰地呈現了文章的核心思想和實質內容。
 </details>
 
 <details>
-<summary>1373. Kill Candida with Keto & Intermittent Fasting – Dr. Berg</summary><br>
+<summary>1373. [2018-02-28] Kill Candida with Keto & Intermittent Fasting – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=InM6gQkYCRQ" target="_blank">
     <img src="https://img.youtube.com/vi/InM6gQkYCRQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理與結構化
 
+#### 核心主題  
+- 如何利用生酮飲食和間斷性禁食來殺滅念珠菌（Candida）。  
+
+---
+
+#### 主要觀念  
+1. **念珠菌感染的原因**：  
+   - 長期使用抗生素會破壞腸道菌群平衡，抑制有益細菌的生長，導致念珠菌等有害微生物繁殖。  
+   - 念珠菌喜歡糖分，高糖飲食會加重其生長與感染。  
+
+2. **間斷性禁食的作用**：  
+   - 禁食可引發自噬（Autophagy），促進細胞清除受損或病原微生物，包括念珠菌。  
+   - 間歇性禁食能有效降低血糖水平，限制念珠菌的糖分來源。  
+
+3. **生酮飲食的效果**：  
+   - 低碳水化合物飲食（每日碳水攝取量低於20克）可抑制念珠菌的生長，避免其利用糖分繁殖。  
+
+---
+
+#### 問題原因  
+- 過度使用抗生素破壞腸道菌群平衡。  
+- 高糖飲食和高 dairy 取為念珠菌提供生長所需的營養。  
+- 長期壓力、免疫系統受損或使用類固醇藥物（如皮質醇）會加重念珠菌感染。  
+
+---
+
+#### 解決方法  
+1. **飲食調整**：  
+   - 采用生酮飲食，限制每日碳水化合物攝取量低於20克。  
+   - 減少糖分和乳制品的攝入，避免為念珠菌提供養分。  
+
+2. **間歇性禁食**：  
+   - 每天保持18小時以上的禁食狀態（例如進食時間限於12點至18點，共6小時）。  
+   - 通過自噬作用清除體內病原微生物。  
+
+3. **輔助療法**：  
+   - 使用薰衣草油和葡萄柚籽提取物來殺滅念珠菌和其他有害微生物。  
+
+---
+
+#### 健康建議  
+1. 避免頻繁進餐，特別是少吃高糖食品，以防止血糖波動和念珠菌生長。  
+2. 減少抗生素的使用，必要時結合益生菌恢復腸道平衡。  
+3. 減輕壓力，避免長期使用類固醇藥物（如皮質醇）。  
+
+---
+
+#### 結論  
+- 生酮飲食和間斷性禁食是有效的念珠菌控制方法，但需配合其他療法（如抗氧化劑和益生菌）以加速恢復。  
+- 減少糖分攝入、避免壓力過大並保持良好的腸道健康是預防和治療念珠菌感染的關鍵。
 </details>
 
 <details>
@@ -318,36 +667,191 @@
 </details>
 
 <details>
-<summary>1371. 16 Most Common Keto Side Effects and Remedies – Dr. Berg</summary><br>
+<summary>1371. [2018-02-26] 16 Most Common Keto Side Effects and Remedies – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=thRboMXI4Rc" target="_blank">
     <img src="https://img.youtube.com/vi/thRboMXI4Rc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：酮酸化適應症狀及解決方案
 
+#### 核心主題  
+本文探討了在開始 ketogenic 饮食時可能遇到的各種症狀及其相應的解決方法。
+
+---
+
+#### 主要觀念  
+1. **酮酸化的適應期**  
+   在轉向酮飲食初期，身體需適應使用酮體作為主要能量來源，此過程會引發一些不適症狀。
+
+2. **常見症狀與原因**  
+   - 肌肉痙攣、心悸、疲勞等症狀通常與電解質失衡（如assium不足）有關。
+   - 其他症狀包括口臭、頭暈、便秘、低背痛等，多與飲食調整和代謝變化相關。
+
+3. **健康建議**  
+   针對不同症狀提供營養和生活方式的建議，以緩解不适並促進酮酸化適應。
+
+---
+
+#### 問題原因  
+1. **肌肉痙攣与心悸**  
+   - 水平不足：酮飲食中碳水化合物攝取降低導致glycogen儲備减少，影響電解質平衡。
+
+2. **頭暈與疲勞**  
+   - 頻繁的水分流失和鹽分丟失引發血壓下降。
+   - B群維生素（特別是B1和B5）缺乏。
+
+3. **便秘**  
+   - 肉類和乳制品攝取過量，或突然增加高纤维蔬菜的攝取。
+
+4. **低背痛與腹部疼痛**  
+   - 可能為腎臟 stones 形成，通常為尿酸 stones。
+
+5. **夢想與皮疹**  
+   - 視覺障礙可能與B1缺乏有關；皮疹或因毒素排出增加。
+
+---
+
+#### 解決方法  
+1. **肌肉痙攣与心悸**  
+   - 增加assium攝取：食用富含钾的食物（如香蕉、 spinach）或補充含钾電解質粉末。
+
+2. **頭暈與疲勞**  
+   - 增加 sodium 摂取：使用海鹽，保持充足水分。
+   - 服用B群營養 yeast 以改善能量代謝。
+
+3. **便秘**  
+   - 減少高脂食物和堅果攝取。
+   - 增加蔬菜攝取，特別是發酵蔬菜，以促進腸道健康。
+
+4. **低背痛與腹部疼痛**  
+   - 大幅增加 potassium 摂取：使用 potassium citrate 電解質粉末，並飲用富含 vitamin C 的果汁（如檸檬汁）。
+
+5. **夢想與皮疹**  
+   - 服用B群營養 yeast 或食用 sunflower seeds 以補充B1。
+   - 確保蔬菜攝取量充足，避免毒素積累。
+
+---
+
+#### 健康建議  
+1. **飲食調整**  
+   - 減少過量蛋白質和脂肪的攝取，特別是在初期階段。
+   - 測試新食物 introduction 的速度，以避免腸胃不適。
+
+2. **補充劑使用**  
+   - 適當使用海鹽、檸檬汁和 apple cider vinegar 來調節電解質平衡。
+   - 考慮攝取 bile salts 或 gallbladder 公式，以促進脂肪消化。
+
+3. **生活習慣**  
+   - 減慢酮飲食的開始速度，避免一次性大幅調整飲食結構。
+   - 適當增加餐次，以穩定血糖水平。
+
+---
+
+#### 結論  
+酮飲食雖有益於健康，但適應期可能伴隨多種不適症狀。關鍵在於通過飲食調整和補充必要的營養素來緩解這些症狀，並逐步讓身體適應酮酸化的 metabolism。
 </details>
 
 <details>
-<summary>1370. Effects of Iodine Deficiency & Mental Health (IQ) – Dr. Berg</summary><br>
+<summary>1370. [2018-02-26] Effects of Iodine Deficiency & Mental Health (IQ) – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HLgcAR0JbRI" target="_blank">
     <img src="https://img.youtube.com/vi/HLgcAR0JbRI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 1. 核心主題：碘元素的重要性及其對智力 quotient (IQ) 的影響
 
+- 碘是支持腦功能、兒童生長發育、激素調節（包括甲狀腺激素和雌性激素）的重要礦物質。
+- 碘缺乏症影響全球約20億人口，占世界總人口的很大比例。
+  
+  【來源】：iodine deficiencies are really a big problem on this planet right now I want to read something to you iodine deficiencies affect approximately 2 billion people world wide now that's a lot of people what is there 7 billion people on the planet and this is like 2 billion so a large percent of us are deficient in iodine.
+
+### 2. 主要觀念：碘缺乏症的影響
+
+- 碘缺乏可導致多種健康問題，包括：
+  - 腺腫（Goiter）：甲狀腺腫大，颈部出現隆起。
+  - 智力障礙（Intellectual Disability）：IQ低于70，伴有運動能力減退、學習遲緩和適應困難。50%的病例病因不明（Idiopathic），但碘缺乏是主要原因之一。
+
+  【來源】：if you're deficient you can become have a goiter where you have this bulge in your neck as well and thyroid gland there is a condition called intellectual disability which is mental retardation where the IQ is less than 70 and the person has lower motor skills slow learning a decrease in solving problems difficulty adapting to a new situation 50% of time this condition is idiopathic it sounds pretty scientific doesn'it I mean if I say you have a idiopathic condition well this means unknown cause they don't know what causes it it's an iodine deficiency okay.
+
+### 3. 問題原因：碘缺乏的原因
+
+- 全球範圍內，約20億人口存在碘缺乏。
+- 海洋污染影響海產物的碘含量，使得從食物中攝取碘變得不安全。
+
+  【來源】：but iodine is also good for a regulating estrogen fibrocystic breast cysts on the ovaries it's good to support a low thyroid and also a goiter in summary I hope now you see the importance of the trace mineral iodine hey guys a lot of you already have my book some of you don't but this new edition called a new body type guide is an upgrade from my last Edition called the seven principles of fat burning it has a hundred fifty six images three hundred seventy eight pages full glossary I talk about Kido in a minute fasting the body types in detail I have a new stressed chapter I'm going to show you exactly what to eat any comprehensive FAQ I put a link down below check it out.
+
+### 4. 解決方法：補充碘的建議
+
+- 確保攝取足夠的碘，優先選擇來自食物源的碘。
+- 避免來源於污染海域的海產物，以減少毒素吸收。
+
+  【來源】：if you are pregnant consume seek help ok I highly recommend it the last thing you want to do is become deficient when you're carrying a baby ok if you know people that are actually going to have a child tell them about this information make sure they get in a good trace mineral make sure the iodine is from a food based seek help and make sure it's a quality seek help because a lot of times the oceans are polluted and you don't want to pull those toxins in.
+
+### 5. 健康建議
+
+- 孕婦特別需要注意碘的攝取，以避免影響胎兒發育。
+- 推薦閱讀相關書籍（如《新體型指南》）以獲得更多關於碘和其他微量元素的信息。
+
+  【來源】：if you are pregnant consume seek help ok I highly recommend it the last thing you want to do is become deficient when you're carrying a baby ok if you know people that are actually going to have a child tell them about this information make sure they get in a good trace mineral make sure the iodine is from a food based seek help and make sure it's a quality seek help because a lot of times the oceans are polluted and you don't want to pull those toxins in.
+
+### 6. 結論
+
+- 碘是維持正常腦功能和整體健康不可或缺的微量元素。
+- 面對碘缺乏問題，應採取積極措施，包括飲食調整和補充劑，以保障身體所需。
+
+  【來源】：in summary I hope now you see the importance of the trace mineral iodine.
 </details>
 
 <details>
-<summary>1369. Does Eating Fat Cause Gallstones? – Dr. Berg</summary><br>
+<summary>1369. [2018-02-25] Does Eating Fat Cause Gallstones? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HBDEuzvvjao" target="_blank">
     <img src="https://img.youtube.com/vi/HBDEuzvvjao/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節一：核心主題  
+- 解除消費者對脂肪攝取導致膽石形成的迷思。
 
+---
+
+### 小節二：主要觀念  
+1. 胆石形成的主要原因是膽汁中膽鹽含量不足，而非脂肪攝取。
+2. 高膽固醇血症和膽石的形成有密切關聯，而高胰島素水平是關鍵因素。
+3. 高級碳水化合物（如精制糖和精制穀物）會提高胰島素水平，間接增加膽石風險。
+4. 雌激素過高也可能導致膽石形成的風險上升。
+
+---
+
+### 小節三：問題原因  
+1. **膽鹽不足**：膽汁中缺乏足夠的膽鹽來溶解脂肪，導致膽固醇沉積形成結石。  
+2. **高胰島素水平**：胰島素升高會增加血液中的膽固醇濃度，促進膽石形成。  
+3. **精制碳水化合物攝取過多**：精制糖和穀物會提高血糖和胰岛素水平，間接增加膽石風險。  
+4. **雌激素影響**：高雌激素水平（如接受雌激素替代治療的女性）會增加膽石形成的機率。
+
+---
+
+### 小節四：解決方法  
+1. **增加膽鹽攝取**：通過攝取純化的膽鹽來幫助溶解和預防膽石。  
+2. **酮ogenic Diet（生酮飲食）**：降低碳水化合物攝取，提高脂肪攝取，以平衡膽汁成分。  
+3. **間歇性斷食**：促進膽汁的自然排放和再吸收，有助於防止膽鹽沉積。  
+4. **避免精制糖和碳水化合物**：控制胰岛素水平，降低膽石風險。
+
+---
+
+### 小節五：健康建議  
+1. 避免過度擔心脂肪攝取，特別是來源於堅果等食物的健康脂肪。  
+2. 保持酮ogenic Diet 和間歇性斷食習慣，以促進整體代謝健康。  
+3. 注意雌激素水平，尤其是接受激素替代治療的人群，需密切監測膽石風險。
+
+---
+
+### 小節六：結論  
+- 胆石的形成與脂肪攝取無直接關聯，反而是膽鹽不足、高胰岛素水平和精制碳水化合物過量攝取等因素起主要作用。  
+- 通過合理的飲食調整（如酮ogenic Diet）和生活習慣改變（如間歇性斷食），可以有效降低膽石風險並促進整體健康。
 </details>
 
 <details>
