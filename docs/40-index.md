@@ -4582,113 +4582,546 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 </details>
 
 <details>
-<summary>4024. The BEST Way to Release a Tight Psoas Muscle for Low Back Pain and Poor Posture</summary><br>
+<summary>4024. [2022-07-22] The BEST Way to Release a Tight Psoas Muscle for Low Back Pain and Poor Posture</summary><br>
 
 <a href="https://www.youtube.com/watch?v=rsCVJ0xTH1c" target="_blank">
     <img src="https://img.youtube.com/vi/rsCVJ0xTH1c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **Psoas 肌肉的重要性**：Psoas 是連接上半身與下半身的唯一肌肉，對於姿勢控制、移動和穩定性具有重要作用。
 
+### 主要觀念
+- **Psoas 肌肉的功能**：
+  - 作為強大的髖屈肌，參與行走、跑步等基本動作。
+  - 負責將下肢拉近胸腔，維持身體姿勢。
+- **Psoas 紧張的影響**：
+  - 可能導致低背部疼痛、姿勢不良、髋部功能障礙。
+  - 影響日常活動，如起床、站起來和行走。
+
+### 問題原因
+- **主要因素**：
+  - 長時間久坐（每天至少10小時）。
+  - 過度使用髖屈肌群（如跑步或騎車）而缺乏相對的肌肉訓練。
+  - 維生素D不足可能間接影響肌肉功能。
+
+### 解決方法
+- **伸展與強化ercise**：
+  1. **基本伸展**：
+     - 通過超伸展姿勢（Hyperextensions）來拉伸和穩定Psoas肌肉，建議每側保持10秒。
+  2. **進階動作**：
+     - 在伸展的基礎上加入手臂舉起動作，進一步刺激相關肌群。
+     - 最後可不依賴椅子，自行完成姿勢穩定訓練。
+  3. **對稱性訓練**：
+     - 檢查並針對張力較大的一側進行更多訓練，以恢復左右對稱。
+
+### 健康建議
+- **姿勢管理**：
+  - 維持良好的坐姿和站姿，避免長時間保持同一姿勢。
+- **活動與鍛煉**：
+  - 定期進行Psoas肌肉的伸展和強化訓練。
+  - 平衡訓練髖屈肌群和其他相對肌肉群，如臀肌。
+- **生活習慣調整**：
+  - 減少長時間久坐，建議每小時起來活動一次。
+  - 確保足夠的日光曝曬以補充足量的維生素D。
+
+### 結論
+- **效果**：
+  - 經過2-3周訓練後，低背部疼痛可明顯減輕甚至消失。
+  - 膝蓋、髖部和脊椎的压力將得到改善，姿勢更加端正。
+- **重要性**：
+  - Psoas肌肉的健康直接影響整體運動功能和姿勢穩定性，值得特別注意和訓練。
 </details>
 
 <details>
-<summary>4023. The 7 Warning Signs of a Vitamin D Deficiency  - Dr. Berg</summary><br>
+<summary>4023. [2022-07-21] The 7 Warning Signs of a Vitamin D Deficiency  - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=nk4DAjtcviI" target="_blank">
     <img src="https://img.youtube.com/vi/nk4DAjtcviI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- **維生素D的作用及其重要性**：文章強調了維生素D在多個生理功能中的作用，包括骨骼健康、情緒調節、免疫功能等。然而，現代醫療常忽視其潛力，導致患者症状未被根本解決。
+
+#### 主要觀念
+1. **維生素D的功能**：
+   - 與神經傳導、免疫功能、血糖平衡、激素分泌有關。
+   - 關鍵於骨骼健康，促進鈣質吸收及骨密度提升。
+2. **缺鉀的影響**：
+   - 骨骼健康受損，導致骨折風險增加。
+
+#### 問題原因
+1. **維生素D缺乏的原因**：
+   - 紫外線照射不足。
+   - 遺傳因素（如VDR缺陷）。
+   - 腸道吸收障礙或肝腎功能異常。
+   - 鐵質、鎂元素及鋅缺乏影響其吸收。
+2. **健康問題與維生素D缺乏的關聯**：
+   - 抑郁症：影響血清素生成。
+   - 糖尿病：干擾胰島素分泌。
+   - 免疫失調：削弱免疫功能。
+
+#### 解決方法
+1. **維生素D的來源**：
+   - 太陽照射：建議每天10-30分鐘紫外線B暴露。
+   - 食物攝取：富含維生素D的食物如魚肝油、沙丁魚、蛋黃。
+2. **補充劑使用**：
+   - 推荐劑量：每日10,000 IU，需長期服用並配合健康飲食。
+3. **聯合治療**：
+   - 維生素K2（M7形式）配合維生素D，促進鈣質沉積於骨骼而非血管或關節。
+
+#### 健康建議
+1. **生活習慣調整**：
+   - 多晒太陽，避免使用防曬霜。
+   - 選擇富含維生素D的飲食。
+2. **定期檢測**：
+   - 监測血液中維生素D水平（25(OH)D）。
+
+#### 結論
+- 維生素D deficiency 是多種慢性疾病的根源，需採取主動措施提升其攝取量。聯合使用K2可增強效果並防止副作用，建議在專業指導下進行補充治療。
 </details>
 
 <details>
-<summary>4022. THIS is the Most Powerful ADAPTOGEN in The World - How it Works and Why it's THE BEST</summary><br>
+<summary>4022. [2022-07-20] THIS is the Most Powerful ADAPTOGEN in The World - How it Works and Why it's THE BEST</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vOsp52De41I" target="_blank">
     <img src="https://img.youtube.com/vi/vOsp52De41I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：Ashwagandha 在應激管理中的作用
 
+#### 主要觀念：
+1. **Ashwagandha 的功能**：
+   - Ashwagandha 是一種常用于傳統印度醫藥的草本植物，具有抗應激和平衡激素的作用。
+   - 它能夠降低皮質醇水平，並在一定程度上降低dehydroepiandrosterone (DHEA) 濾過。
+
+2. **應激對人體的影響**：
+   - 長期應激會導致免疫系統抑制、胰島素抵抗、血壓升高、胃腸道不適以及神經系統損傷。
+   - 特別是，慢性應激會損害海馬，影響記憶和認知功能。
+
+3. **Ashwagandha 的健康益處**：
+   - 降低早晨皮質醇水平，緩解壓力。
+   - 提升睾酮水平，改善免疫系統功能。
+   - 增強耐力和力量，特別是在應激或康復期間。
+   - 改善情緒，幫助擺脫長期壓力的影響。
+
+#### 問題原因：
+1. 長期應激會導致荷爾蒙失衡（如皮質醇和DHEA升高），並引發多種健康問題。
+2. 應激會降低胰島素敏感性，增加鹽水 retention，並損害胃腸道和神經系統。
+
+#### 解決方法：
+1. **使用Ashwagandha**：
+   - 選擇高品質的Ashwagandha產品，按劑量服用，以降低皮質醇水平並改善整體健康狀況。
+2. **生活方式調整**：
+   - 保持良好的睡眠習慣。
+   - 均衡飲食，避免過多攝入鹽分和高糖食物。
+   - 定期進行運動，以增強身體免疫力和耐力。
+
+#### 經驗結論：
+1. Ashwagandha 是一種有效的天然補充劑，能夠有效緩解壓力並改善應激相關的健康問題。
+2. 與生活方式調整結合使用，Ashwagandha 可以提供全面的健康益處，提升整體生活质量。
+
+---
+
+**Summary in English**:  
+The article highlights the role of Ashwagandha, a traditional herb, in managing stress by reducing cortisol levels and improving overall health. It discusses the negative effects of chronic stress on the body, including immune suppression, insulin resistance, gastrointestinal issues, and neurological damage. Ashwagandha is shown to alleviate these effects by lowering cortisol and DHEA, enhancing testosterone levels, improving endurance and strength, and boosting mood. The article concludes that incorporating Ashwagandha into a healthy lifestyle can effectively mitigate stress-related health problems and enhance overall well-being.
 </details>
 
 <details>
-<summary>4021. The Serious SSRI (Selective Serotonin Reuptake Inhibitor) Side Effects: Sexual Side Effects</summary><br>
+<summary>4021. [2022-07-19] The Serious SSRI (Selective Serotonin Reuptake Inhibitor) Side Effects: Sexual Side Effects</summary><br>
 
 <a href="https://www.youtube.com/watch?v=nhMr8NXB3y8" target="_blank">
     <img src="https://img.youtube.com/vi/nhMr8NXB3y8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+---
+
+#### **核心主題**
+- **全球性環境問題**：Glyphosate（草甘膦）的廣泛使用對生態系統和人類健康的影響。
+- **-serotonin（血清素）缺乏症**：Glyphosate可能導致血清素不足，進而引發抑郁症和焦慮症等心理健康問題。
+
+---
+
+#### **主要觀念**
+1. **Glyphosate的環境影響**：
+   - 作為廣泛使用的除草劑，Glyphosate已深入農產品和食物 chain。
+   - 它破壞植物中的酶活性，特別是那些依賴鋁和鎂的反應。
+   
+2. **血清素合成的依賴性**：
+   - 血清素的生產需要色氨酸（Tryptophan）和特定金屬如鎂和鋅。
+   - Glyphosate可能干擾這些礦物質的吸收，影響血清素的生成。
+
+3. **現代飲食結構的問題**：
+   - 高度加工食品、高糖和反式脂肪攝入增加，惡化了健康狀況。
+   - 現今飲食中缺乏足夠的膳食纖維和必需營養素，進一步削弱免疫系統和精神健康。
+
+---
+
+#### **問題原因**
+1. **Glyphosate污染**：
+   - 大量使用 Glyphosate 除草劑導致其在土壤、水源和食物中的累積。
+   - 這些污染物進入食品 chain，最終影響消費者健康。
+
+2. **飲食結構失衡**：
+   - 高度工業化食品的普及，導致必需營養素攝取不足。
+   - 貧瘠土壤和農業實踐降低作物的營養價值。
+
+3. **微生物群失衡**：
+   - 不良飲食習慣破壞腸道菌群平衡，影響免疫功能和神經傳遞物質的合成。
+
+---
+
+#### **解決方法**
+1. **轉向有機農產品**：
+   - 選擇有機食品以降低 Glyphosate 暴露風險。
+   - 確保攝取富含礦物質和膳食纖維的食物。
+
+2. **改善飲食結構**：
+   - 增加蔬菜攝取量，多樣化食物來源以保障營養均衡。
+   - 選擇未加工或 minimally processed 的食品。
+
+3. **補充益生菌**：
+   - 通過食用發酵食品（如泡菜、酸奶）來增強腸道微生態。
+   - 考慮使用高品質益生菌 supplements。
+
+4. **增加日光暴露**：
+   - 定期接觸太陽光以促進血清素和維生素D的生成，改善情緒和骨骼健康。
+
+5. **健康生活方式**：
+   - 规律運動可提高血清素水平，促進心理健康。
+   - 緊密的飲食控制（如生酮飲食）可避免精制糖和反式脂肪的攝入。
+
+---
+
+#### **健康建議**
+1. **飲食調整**：
+   - 選擇有機、未加工食品，避免 GMO 和高 pesticide 濃度的食物。
+   - 多樣化蔬菜攝取，特別是富含礦物質的 greens。
+
+2. **益生菌攝取**：
+   - 增加發酵食品（如 Sauerkraut, Kimchi）的攝入，以平衡腸道菌群。
+
+3. **日光浴**：
+   - 每天 15-30 分鐘的日光暴露，避免紫外線過度照射。
+
+4. **運動習慣**：
+   - 定期進行中等強度運動（如快走、跑步），促進神經傳遞物質的生成。
+
+5. **補充劑使用**：
+   - 考慮補充鎂、鋅等礦物質，以支持血清素合成。
+   - 適當攝取蘋果醋，以改善腸道酸鹼平衡。
+
+---
+
+#### **結論**
+Glyphosate 的廣泛使用和現代飲食結構的問題共同導致了全球性健康挑戰。 通過改進農業實踐、調整飲食結構和採用健康的 lifestyle，可以有效降低 Glyphosate 的影響，恢復血清素平衡，改善心理健康。 論文呼籲公眾提高對Glyphosate危害的認識，並採取積極措施保護自身健康。
 </details>
 
 <details>
-<summary>4020. The DEADLIEST Bacteria in the World - Dr. Berg</summary><br>
+<summary>4020. [2022-07-18] The DEADLIEST Bacteria in the World - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HtRodM1INXE" target="_blank">
     <img src="https://img.youtube.com/vi/HtRodM1INXE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Key Points and Summary of the Article  
 
+#### 1. **Core Theme: Tuberculosis (TB) as a Global Health Issue**  
+- **Definition**: Tuberculosis is caused by *Mycobacterium tuberculosis*.  
+- **Magnitude**: TB kills approximately 1.8 million people annually worldwide.  
+- **Prevalence**: About 25% of the global population has been infected with TB, mostly in its latent (dormant) form.  
+
+#### 2. **Forms of Tuberculosis**  
+- **Active Infection**: Symptoms include chronic cough, blood-tinged sputum, fever, back pain, weight loss, night sweats, and fatigue. It typically takes 8-10 weeks for TB to be detectable.  
+- **Latent Infection**: Asymptomatic with no active disease but can progress to active TB under certain conditions.  
+
+#### 3. **Risk Factors for Active TB**  
+- **Vitamin D Deficiency**: Low vitamin D levels increase the risk of active TB by five times due to its critical role in immune system regulation.  
+- **Genetic Polymorphism**: A genetic defect in the vitamin D receptor increases susceptibility to TB.  
+- **Stress and Cortisol**: High cortisol levels from stress lower vitamin D and impair immune function, increasing vulnerability to TB.  
+- **Age**: Older adults have reduced vitamin D levels and weakened immune systems.  
+- **Chemotherapy and Steroids**: These treatments suppress the immune system, making individuals more susceptible to active TB.  
+
+#### 4. **Pathophysiology**  
+- **Immune System Regulation**: Vitamin D plays a pivotal role in modulating the immune response, particularly against infections like TB.  
+- **Cortisol Effects**: Stress-induced cortisol not only lowers vitamin D but also paralyzes the immune system, making individuals more prone to infections.  
+
+#### 5. **Preventive and Therapeutic Strategies**  
+- **Vitamin D Supplementation**:  
+  - Maintenance dose: 10,000 IU of vitamin D3 daily.  
+  - Higher doses (30-40,000 IU) for individuals with TB or compromised immune systems.  
+- **Sun Exposure**: Regular sun exposure is crucial for natural vitamin D synthesis and overall immune health.  
+- **Addressing Stress**: Managing stress through psychological support and lifestyle modifications to reduce cortisol levels.  
+
+#### 6. **Health Recommendations**  
+- **Diet and Nutrition**: Ensure adequate intake of vitamin D-rich foods (e.g., fatty fish, fortified dairy products).  
+- **Lifestyle Modifications**: Incorporate relaxation techniques, exercise, and sufficient sleep to manage stress effectively.  
+- **Medical Check-ups**: Regular monitoring of vitamin D levels, especially for high-risk populations.  
+
+#### 7. **Conclusion**  
+- Tuberculosis remains a significant global health challenge, with both active and latent forms requiring attention.  
+- Addressing vitamin D deficiency through supplementation and sun exposure is critical for reducing susceptibility to TB.  
+- Integrating immune-enhancing strategies, such as stress management and optimal nutrition, can significantly mitigate the risk of developing active TB.
 </details>
 
 <details>
-<summary>4019. The REAL Cause and Cure for DANDRUFF</summary><br>
+<summary>4019. [2022-07-17] The REAL Cause and Cure for DANDRUFF</summary><br>
 
 <a href="https://www.youtube.com/watch?v=x365pPLtNJo" target="_blank">
     <img src="https://img.youtube.com/vi/x365pPLtNJo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：头皮屑问题及其解决方案
 
+#### 1. 核心主題
+- 头皮屑（dandruff）问题的根本原因在于头皮微生态环境失衡，尤其是念珠菌（Candida）等真菌的过度生长。
+
+#### 2. 主要觀念
+- 头皮屑是头皮微生态失衡的表现，与肠道健康、饮食习惯密切相关。
+- 念珠菌和其他微生物在特定条件下会引发头皮问题。
+- 使用化学洗发水和护发产品可能破坏头皮微生物平衡。
+
+#### 3. 問題原因
+- **念珠菌过度生长**：念珠菌在酸性环境中繁殖，导致头皮屑增多。
+- **饮食因素**：高糖、高碳水化合物饮食促进酵母菌生长。
+- **环境刺激**：氯化物、氟化物等水源污染及高温 styling 工具损伤头皮屏障。
+
+#### 4. 解決方法
+1. **恢复头皮微生物平衡**：
+   - 使用益生菌产品，如从泡菜中提取的乳酸菌溶液。
+   - 外用茶树油、大蒜油或牛至叶油等天然抗真菌剂。
+2. **调整饮食结构**：
+   - 采用低碳水化合物、无糖饮食，抑制念珠菌繁殖。
+   - 选择健康的生酮饮食，避免使用高omega-6的植物油（如大豆油、玉米油）。
+3. **改善洗护产品**：
+   - 使用不含化学防腐剂和刺激性成分的天然 shampoo 和 conditioner。
+4. **水质优化**：
+   - 安装 shower filter，去除水中的氯和氟化物，减少对头皮微生物的伤害。
+
+#### 5. 健康建議
+- **益生菌补充**：通过饮食（如发酵食品：泡菜、酸菜）或外用益生菌产品恢复肠道及头皮微生态平衡。
+- **避免刺激性物质**：减少使用化学 hair products 和高温 styling 工具，防止头皮屏障受损。
+- **定期清洁环境**：确保洗发和沐浴用水经过过滤，降低污染物对皮肤的刺激。
+
+#### 6. 結論
+- 头皮屑问题源于微生物失衡、饮食不当及外部环境因素的综合作用。通过恢复微生态平衡、调整饮食结构和使用温和产品，可以有效改善头皮健康并减少头皮屑。
 </details>
 
 <details>
-<summary>4018. HYPOTHYROIDISM: Don’t Ignore These 7 Early Warning Signs</summary><br>
+<summary>4018. [2022-07-16] HYPOTHYROIDISM: Don’t Ignore These 7 Early Warning Signs</summary><br>
 
 <a href="https://www.youtube.com/watch?v=mogBUWRmraE" target="_blank">
     <img src="https://img.youtube.com/vi/mogBUWRmraE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 1. 核心主題
+- ** autoimmune thyroid diseases (自身免疫性甲狀腺疾病) 
+- ** hormonal imbalance (荷爾蒙失衡)
+- ** thyroid function evaluation and management (甲狀腺功能評估與管理)
+
+#### 2. 主要觀念
+- ** Thyroid hormones are critical for metabolism regulation.
+- ** Many thyroid issues are autoimmune in nature.
+- ** Proper conversion of thyroid hormones is essential for overall health.
+
+#### 3. 問題原因
+1. ** Estrogen Imbalance:**
+   - Postpartum period (產後) often triggers autoimmune conditions due to fluctuating estrogen levels.
+2. ** Stress Events:**
+   - Adrenal fatigue can disrupt hormone balance and contribute to thyroid dysfunction.
+3. ** Iodine Deficiency:**
+   - Insufficient iodine intake impairs thyroid hormone production.
+4. ** Gluten Sensitivity:**
+   - Intestinal inflammation from gluten sensitivity can affect thyroid health.
+
+#### 4. 解決方法
+1. ** Diagnostic Tests:**
+   - **Iodine Patch Test:** To assess iodine levels.
+   - **Achilles Tendon Reflex Test:** To evaluate primary hypothyroidism.
+2. ** Trace Minerals Supplementation:**
+   - Selenium and zinc are essential for thyroid hormone metabolism.
+3. ** Gluten-Free Diet:**
+   - Eliminating gluten can significantly improve thyroid health.
+4. ** Vitamin D Supplementation:**
+   - High-dose vitamin D (e.g., 40,000 IU/week) may be beneficial in autoimmune cases.
+5. ** Herbal Supplements:**
+   - Thyrotrophin PMG (by Standard Process) as a potential immune-modulating agent.
+
+#### 5. 健康建議
+1. ** Laboratory Testing:**
+   - Regular monitoring of thyroid function tests (TSH, free T4, free T3).
+2. ** Dietary Adjustments:**
+   - Increase iodine-rich foods if deficient.
+   - Avoid gluten-containing products to reduce inflammation.
+3. ** Lifestyle Modifications:**
+   - Manage stress through adrenal support and relaxation techniques.
+4. ** Natural Therapies:**
+   - Consider complementary treatments like vitamin D and herbal extracts under professional guidance.
+
+#### 6. 結論
+- Thyroid dysfunction often stems from a combination of hormonal, nutritional, and immunological factors.
+- A comprehensive approach involving diagnosis, nutrition, and natural therapies is essential for effective management.
+- Patients should work closely with healthcare providers to tailor treatments based on individual needs.
 </details>
 
 <details>
-<summary>4017. The Vitamin Deficiency behind TIRED and STRAINED EYES</summary><br>
+<summary>4017. [2022-07-15] The Vitamin Deficiency behind TIRED and STRAINED EYES</summary><br>
 
 <a href="https://www.youtube.com/watch?v=LaPyMljE-pk" target="_blank">
     <img src="https://img.youtube.com/vi/LaPyMljE-pk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Summary of Key Points from the Article
 
+#### Core Theme  
+- **Primary Issue**: Vitamin B2 (Riboflavin) Deficiency as a Leading Cause of Eyestrain and Tired Eyes  
+
+#### Main Concepts  
+1. **Vitamin B2 Functionality**:
+   - Essential for maintaining corneal health.
+   - Prevents abnormal corneal blood vessel growth, which can lead to dryness, irritation, and long-term issues like cataracts.
+
+2. **Symptoms Associated with Deficiency**:
+   - Dry eyes leading to corneal cracking.
+   - Burning, gritty sensation, watering, and redness in the eyes.
+   - Throat soreness, cracked lips (especially corners), and a red tongue.
+
+3. **Interdependence with Other Vitamins**:
+   - Required for the conversion of Vitamin B3 (Niacin) from tryptophan into its active form.
+   - Plays a role in activating Vitamin B6 by converting it from an inactive to active form.
+
+#### Causes of Deficiency  
+1. **Dietary Factors**:
+   - Limited intake of foods rich in B2, such as liver, organ meats, eggs, fish, chicken, and dairy products.
+   - Refined grains (e.g., wheat, corn) often lack sufficient B2 content unless fortified.
+
+2. **Lifestyle and Health Factors**:
+   - Antibiotic use disrupting gut microbiota that naturally produce B2.
+   - High sugar intake and alcohol consumption increasing metabolic demands on B2.
+   - Chronic stress leading to higher utilization of B2 reserves.
+   - Vegan or vegetarian diets, especially for athletes, due to lower mitochondrial efficiency.
+
+3. **Medical Conditions**:
+   - Hypothyroidism may exacerbate deficiency by affecting nutrient metabolism.
+
+#### Solutions and Health Recommendations  
+1. **Dietary Interventions**:
+   - Increase consumption of B2-rich foods: liver, organ meats, eggs, fish, chicken, dairy products, green vegetables.
+   - Consider nutritional yeast or brewer’s yeast as sources of bioavailable B2.
+
+2. **Supplementation**:
+   - Consult healthcare professionals for B2 supplements if dietary intake is insufficient.
+
+3. **Lifestyle Adjustments**:
+   - Limit refined grain consumption to prevent nutrient depletion.
+   - Reduce sugar and alcohol intake to minimize metabolic strain on B2 reserves.
+   - Manage stress through relaxation techniques or therapy to conserve B2 levels.
+
+4. **Preventive Measures**:
+   - Regular eye check-ups to monitor corneal health and address early signs of deficiency.
+   - Fortified foods (e.g., grains) can help maintain adequate B2 intake, though synthetic additives may not be as effective as natural sources.
+
+#### Conclusion  
+- Addressing Vitamin B2 deficiency is crucial for preventing and alleviating ocular discomfort and related conditions such as dry eyes, corneal damage, and long-term vision issues.
+- A balanced diet rich in B2-containing foods, alongside lifestyle modifications to reduce stress and metabolic strain, can effectively mitigate these problems.
 </details>
 
 <details>
-<summary>4016. You DON'T Have a Slow Metabolism, It's THIS Instead...</summary><br>
+<summary>4016. [2022-07-14] You DON'T Have a Slow Metabolism, It's THIS Instead...</summary><br>
 
 <a href="https://www.youtube.com/watch?v=x9DB9ICue-Y" target="_blank">
     <img src="https://img.youtube.com/vi/x9DB9ICue-Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **胰島素抗性**：文章主要探討了胰島素抗性作為代謝問題的核心原因，強調其對體重管理和血糖控制的重要性。
 
+### 主要觀念
+1. **胰島素的作用**：胰島素負責调节血糖水平，將葡萄糖轉化為能量或儲存。然而，胰島素抗性會導致身體對其敏感度降低，進而影響代謝功能。
+2. **常見誤解**：傳統上認為低代謝率是體重不易下降的原因，但文章指出這實際上是由胰島素抗性引起的。
+
+### 問題原因
+1. **飲食因素**：
+   - 高碳水化合物和高糖飲食會導致胰島素分泌過多，引發抗性。
+   - 高蛋白飲食（尤其是低脂或無脂蛋白）也可能影響胰島素水平。
+2. **生活方式因素**：
+   - 缺乏運動：特別是全身性阻力訓練不足。
+   - 慢性壓力：高皮質醇水平間接增加胰島素分泌，導致抗性。
+3. **環境與其他因素**：
+   - 高ω-6脂肪酸的食用油（如玉米油、大豆油）會引起炎症，進而加劇胰島素抗性。
+   - MSG和睡眠不足也被指出可能影響胰島素敏感性。
+
+### 解決方法
+1. **飲食調整**：
+   - **低碳水化合物飲食**：建議採用生酮飲食（Ketogenic Diet），降低碳水攝取，增加健康脂肪的攝入。
+   - **高纖維攝取**：來自有機蔬菜的自然纖維有益於胰島素控制。
+2. **運動**：
+   - 定期進行全身阻力訓練可提高胰島素敏感性。
+3. **壓力管理**：
+   - 通過放鬆技巧或冥想降低壓力水平，間接減少皮質醇對胰島素的干擾。
+4. **補充劑**：
+   - 鹊梅醋、維生素B1、維生素D和鎂可幫助提高胰島素敏感性。
+
+### 健康建議
+- **飲食結構**：優先選擇健康脂肪（如橄欖油、椰子油）而非加工食品，並避免精製糖和高碳水化合物食物。
+- **運動習慣**：定期進行全身性阻力訓練，以改善胰島素反應。
+- **壓力調節**：採取措施降低生活壓力，保持心理健康。
+- **營養補充**：適當攝取建議的補充劑（如維生素D、B1和鎂）來增強胰島素效果。
+
+### 結論
+文章總結了胰島素抗性是導致體重管理和代謝問題的主要原因，並強調了通過飲食調整、運動和壓力管理來克服這些障礙的重要性。建議採用低碳水化合物飲食和定期運動來降低胰島素抗性，從而改善整體健康狀況。
 </details>
 
 <details>
-<summary>4015. The #1 Food That STOPS Your Immune System from Working - Dr. Berg</summary><br>
+<summary>4015. [2022-07-13] The #1 Food That STOPS Your Immune System from Working - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=N23dLLdxtiQ" target="_blank">
     <img src="https://img.youtube.com/vi/N23dLLdxtiQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+## 文章重點整理
 
+### 核心主題  
+- 探讨糖（及快速升糖食物）对维生素D、维生素C和锌这三种免疫必需营养素的影响，及其如何削弱免疫系统功能。  
+
+### 主要觀念  
+- **维生素D**：广泛参与免疫系统的各个组成部分，调节炎症反应，减少病毒感染的 collateral damage。  
+- **维生素C**：增强白血球活性，促进吞噬作用及抗菌武器的生产，血液中的维生素C浓度远低于白细胞内的浓度。  
+- **锌**：对胸腺功能至关重要，影响淋巴组织和免疫细胞的数量，维持胰岛素分泌功能。  
+
+### 問題原因  
+- **糖的干扰**：糖优先被身体代谢，抑制维生素C吸收；阻碍维生素D的活化及合成；导致体内锌的流失。  
+- **高碳水饮食**： refined carbohydrates中的植酸盐进一步干扰锌的吸收。  
+
+### 解決方法  
+- 通过摄入富含维生素C的食物（如发酵蔬菜）补充维生素C。  
+- 多晒太阳或服用维生素D补充剂以获得充足维生素D。  
+- 增加红肉、海鲜等高锌食物的摄入，或在医生建议下补充锌剂。  
+
+### 健康建議  
+- 避免过量摄入糖和 refined carbohydrates，以保护免疫系统功能。  
+- 管理压力，因为长期压力会导致皮质醇水平升高，进一步抑制免疫系统。  
+- 通过均衡饮食和适量运动来维持整体健康。  
+
+### 結論  
+- 糖和快速升糖食物对维生素D、维生素C和锌的负面影响显著削弱免疫力。  
+- 通过调整饮食结构、补充关键营养素及管理压力，可以有效保护免疫系统功能。
 </details>
 
 <details>
