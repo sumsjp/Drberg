@@ -1,6 +1,10 @@
 import os
 import glob
 import re
+from lib.mylog import setup_logger
+
+# 使用與 update_youtube.py 相同的 logger 名稱，這樣會寫入同一個日誌文件
+logger = setup_logger('youtube_update')
 
 def detect_chinese(text):
     # 計算中文字元數量
@@ -23,7 +27,7 @@ def verify_summaries():
     # 取得所有 .md 檔案
     md_files = glob.glob(os.path.join(summary_dir, "*.md"))
     
-    print(f"📝 開始檢查 {len(md_files)} 個檔案")
+    logger.info(f"開始檢查 {len(md_files)} 個檔案")
     
     # 檢查每個檔案
     for md_file in md_files:
@@ -37,17 +41,14 @@ def verify_summaries():
             # 如果比例低於閾值，印出檔案資訊並詢問是否刪除
             if chinese_ratio < threshold:
                 filename = os.path.basename(md_file)
-                print(f"\n❌ 檔案中文比例過低 ({chinese_ratio:.2f}): {filename}")
-                # print("=== 檔案內容 ===")
-                # print(content)
-                # print("===============")
+                logger.warning(f"檔案中文比例過低 ({chinese_ratio:.2f}): {filename}")
                 os.remove(md_file)
-                print(f"✅ 已刪除：{filename}")
+                logger.info(f"已刪除：{filename}")
         
         except Exception as e:
-            print(f"❌ 處理檔案時發生錯誤 {md_file}: {str(e)}")
+            logger.error(f"處理檔案時發生錯誤 {md_file}: {str(e)}")
     
-    print("\n📌 檢查完成")
+    logger.info("檢查完成")
 
 if __name__ == '__main__':
     verify_summaries()

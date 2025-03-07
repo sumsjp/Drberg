@@ -1,21 +1,43 @@
 import os
 import pandas as pd
 import random
+from dotenv import load_dotenv
+import smtplib
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
+import markdown
+import time
+import ssl
+from datetime import datetime
 
 from lib.mytube import download_subtitle, get_video_list
 from lib.myai import get_summary
+from lib.mylog import setup_logger
 
-# === 設定頻道網址 ===
-channel_url = 'https://www.youtube.com/@Drberg/videos'
+# 設定 logger
+logger = setup_logger('youtube_update')
 
-# === 設定 CSV 檔案名稱 ===
-
+# === 設定目錄路徑 ===
 base_dir = os.path.dirname(os.path.abspath(__file__)) + '/../'
 script_dir = os.path.join(base_dir, 'scripts/')
 summary_dir = os.path.join(base_dir, 'summary/')  
 docs_dir = os.path.join(base_dir, 'docs/')
 readme_file = os.path.join(base_dir, 'README.md')  
-csv_file =  os.path.join(base_dir, 'src/video_list.csv')
+csv_file = os.path.join(base_dir, 'src/video_list.csv')
+
+# === 設定頻道網址 ===
+channel_url = 'https://www.youtube.com/@Drberg/videos'
+
+# === 載入環境變數 ===
+load_result = load_dotenv()
+if not load_result:
+    raise Exception(".env 檔案載入失敗")
+sender_email = os.getenv('SENDER_EMAIL')
+sender_password= os.getenv('SENDER_PASSWORD')
+# logger.info(f"email={sender_email}, password={sender_password}")
+
+# receiver_emails = ["jack.wu0205@gmail.com", "mingshing.su@gmail.com", "sibuzu.ai@gmail.com"]
+receiver_emails = ["sibuzu.ai@gmail.com"]
 
 def update_list():
     # === yt-dlp 參數設定 ===
@@ -62,11 +84,13 @@ def update_list():
         
         # 儲存更新後的資料
         combined_df.to_csv(csv_file, index=False)
-        print(f"📌 已更新 {new_videos_mask.sum()} 部新影片")
+        logger.info(f"已更新 {new_videos_mask.sum()} 部新影片")
         return combined_df, new_videos_df
     else:
-        print("📌 沒有新影片")
-        return existing_df, pd.DataFrame()
+        logger.info("沒有新影片")
+        new_df = existing_df.tail(1)
+        return existing_df, new_df
+
 
 def download_script(df):
     # 確保 script_dir 存在
@@ -92,24 +116,24 @@ def download_script(df):
         lst = reversed(lst)
     for idx in lst:
         if download_count >= max_downloads:
-            print(f"📌 已達到最大下載數量 ({max_downloads})")
+            logger.info(f"已達到最大下載數量 ({max_downloads})")
             break
             
         video_id = df.loc[idx, 'id']
         
         # 檢查是否在黑名單中
         if video_id in black_df['id'].values:
-            print(f"⚠️ 跳過黑名單影片：{idx}:{video_id}")
+            # logger.warning(f"跳過黑名單影片：{idx}:{video_id}")
             continue
         
         script_file = f"{script_dir}/{video_id}.txt"
         
         # 檢查檔案是否已存在
         if os.path.exists(script_file):
-            print(f"📌 跳過已存在的字幕：{idx}:{video_id}")
+            # logger.info(f"跳過已存在的字幕：{idx}:{video_id}")
             continue
             
-        print(f"📌 下載字幕中：{idx}:{video_id}")
+        logger.info(f"下載字幕中：{idx}:{video_id}")
         success = False
         try:
             subtitle_text, formatted_date = download_subtitle(video_id, preferred_langs)
@@ -118,7 +142,7 @@ def download_script(df):
             if subtitle_text:
                 with open(script_file, 'w', encoding='utf-8') as f:
                     f.write(subtitle_text)
-                print(f"✅ 字幕已儲存為：{script_file}") 
+                logger.info(f"字幕已儲存為：{script_file}") 
                 download_count += 1
             
                 # 更新 DataFrame 中的 upload_date
@@ -126,10 +150,9 @@ def download_script(df):
                     df.loc[idx, 'date'] = formatted_date
                     # 更新 CSV 檔案
                     df.to_csv(csv_file, index=False)
-                success = True
-                                                   
+                success = True                                                   
         except Exception as e:
-            print(f"❌ 下載失敗 {idx}:{video_id}: {str(e)}")
+            logger.error(f"下載失敗 {idx}:{video_id}: {str(e)}")
         
         if not success:
             # 加入黑名單
@@ -141,7 +164,7 @@ def download_script(df):
             black_df = pd.concat([black_df, new_black], ignore_index=True)
             # 儲存黑名單
             black_df.to_csv(black_list_file, index=False)
-            print(f"⚠️ 已加入黑名單：{idx}:{video_id}")
+            logger.warning(f"已加入黑名單：{idx}:{video_id}")
             continue
    
     return df
@@ -165,7 +188,7 @@ def summerize_script():
         script_path = f"{script_dir}{script_file}"
         
         if not os.path.exists(summary_file):
-            print(f"📝 處理摘要中：{fname}")
+            logger.info(f"處理摘要中：{fname}")
             
             try:
                 # 讀取字幕檔案
@@ -179,17 +202,17 @@ def summerize_script():
                 with open(summary_file, 'w', encoding='utf-8') as f:
                     f.write(summary_text)
                 
-                print(f"✅ 摘要已儲存：{summary_file}")
+                logger.info(f"摘要已儲存：{summary_file}")
                 processed_count += 1
                 
             except Exception as e:
-                print(f"❌ 摘要產生失敗 {fname}: {str(e)}")
+                logger.info(f"摘要產生失敗 {fname}: {str(e)}")
                 continue
     
     if processed_count > 0:
-        print(f"📌 完成 {processed_count} 個檔案的摘要")
+        logger.info(f"完成 {processed_count} 個檔案的摘要")
     else:
-        print("📌 沒有需要處理的檔案")
+        logger.info("沒有需要處理的檔案")
 
 def make_doc(filename: str, video_list: list):
     """
@@ -249,7 +272,7 @@ def make_doc(filename: str, video_list: list):
                 f.write(content)
                 
     except Exception as e:
-        print(f"❌ 製作文件失敗 {filename}: {str(e)}")
+        logger.error(f"製作文件失敗 {filename}: {str(e)}")
 
 def create_readme_doc(max_idx, latest_date):
     content = f"""# Dr. Eric Berg DC ({latest_date})
@@ -303,28 +326,93 @@ def create_doc(df):
                 # 將 DataFrame 轉換成字典列表
                 video_list = batch_df.to_dict('records')
                 
-                print(f"📝 處理文件：{filename} (idx: {start_idx}-{end_idx}, 實際筆數: {len(video_list)})")
+                logger.info(f"處理文件：{filename} (idx: {start_idx}-{end_idx}, 實際筆數: {len(video_list)})")
                 
                 # 呼叫 make_doc 製作文件
                 make_doc(filename, video_list)
                 
-                print(f"✅ 完成文件：{filename}")
+                logger.info(f"完成文件：{filename}")
         
-        print(f"📌 總共產生了 {num_batches} 個文件")
+        logger.info(f"總共產生了 {num_batches} 個文件")
 
         # 取得最新日期
         latest_date = df['date'].iloc[-1]
         create_readme_doc(max_idx, latest_date)
         
     except Exception as e:
-        print(f"❌ 處理文件時發生錯誤：{str(e)}")
+        logger.error(f"處理文件時發生錯誤：{str(e)}")
 
-def email_notify(df):
-    pass
+def email_notify(new_df):
+    if new_df.empty:
+        logger.info("沒有新影片需要通知")
+        return
+        
+    # 設定 SMTP with SSL
+    smtp_server = "smtp.gmail.com"
+    smtp_port = 465
+    
+    try:
+        # 建立 SSL context
+        context = ssl.create_default_context()
+        
+        # 建立 SMTP_SSL 連線
+        with smtplib.SMTP_SSL(smtp_server, smtp_port, context=context) as server:
+            server.login(sender_email, sender_password)
+            
+            # 處理每個影片
+            for _, video in new_df.iterrows():
+                video_id = video['id']
+                
+                # 讀取摘要檔案
+                summary_file = f"{summary_dir}{video_id}.md"
+                summary_content = ""
+                try:
+                    with open(summary_file, 'r', encoding='utf-8') as f:
+                        summary_content = f.read()
+                except FileNotFoundError:
+                    summary_content = "摘要尚未生成"
+                
+                # 將 Markdown 轉換為 HTML
+                html_content = markdown.markdown(summary_content)
+                
+                # HTML 模板
+                html_template = f"""
+                <html>
+                  <body>
+                    <h1>{video['title']}</h1>
+                    <p>影片連結：<a href="{video['url']}">{video['url']}</a></p>
+                    <h2>影片摘要：</h2>
+                    {html_content}
+                  </body>
+                </html>
+                """
+                
+                # 發送給每個收件者
+                for receiver in receiver_emails:
+                    # 為每個收件者建立新的郵件物件
+                    msg = MIMEMultipart('alternative')
+                    msg['Subject'] = f"Dr. Eric Berg: {video['title']}"
+                    msg['From'] = f"no-reply <{sender_email}>"
+                    msg['To'] = receiver
+                    msg.attach(MIMEText(html_template, 'html'))
+                    
+                    try:
+                        server.send_message(msg)
+                        logger.info(f"已發送通知給 {receiver}: {video['title']}")
+                        time.sleep(1)
+                    except Exception as e:
+                        logger.error(f"發送失敗 {receiver}: {str(e)}")
+            
+            logger.info("完成所有通知發送")
+            
+    except Exception as e:
+        logger.error(f"SMTP 連線失敗: {str(e)}")
 
 if __name__ == '__main__':
+    logger.info("開始執行更新程序")
     df, new_df = update_list()
     download_script(df)
     summerize_script()
     create_doc(df)
     email_notify(new_df)
+    logger.info("更新程序完成")

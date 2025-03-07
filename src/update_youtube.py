@@ -8,11 +8,14 @@ from email.mime.multipart import MIMEMultipart
 import markdown
 import time
 import ssl
-import logging
 from datetime import datetime
 
 from lib.mytube import download_subtitle, get_video_list
 from lib.myai import get_summary
+from lib.mylog import setup_logger
+
+# 設定 logger
+logger = setup_logger('youtube_update')
 
 # === 設定目錄路徑 ===
 base_dir = os.path.dirname(os.path.abspath(__file__)) + '/../'
@@ -21,20 +24,6 @@ summary_dir = os.path.join(base_dir, 'summary/')
 docs_dir = os.path.join(base_dir, 'docs/')
 readme_file = os.path.join(base_dir, 'README.md')  
 csv_file = os.path.join(base_dir, 'src/video_list.csv')
-log_dir = os.path.join(base_dir, 'src/log/')
-
-# === 設定 logging ===
-os.makedirs(log_dir, exist_ok=True)
-log_file = os.path.join(log_dir, f'youtube_update_{datetime.now().strftime("%Y%m%d")}.log')
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s',
-    handlers=[
-        logging.FileHandler(log_file, encoding='utf-8'),
-        logging.StreamHandler()  # 同時輸出到控制台
-    ]
-)
-logger = logging.getLogger(__name__)
 
 # === 設定頻道網址 ===
 channel_url = 'https://www.youtube.com/@Drberg/videos'
@@ -47,8 +36,8 @@ sender_email = os.getenv('SENDER_EMAIL')
 sender_password= os.getenv('SENDER_PASSWORD')
 # logger.info(f"email={sender_email}, password={sender_password}")
 
-# receiver_emails = ["jack.wu0205@gmail.com", "mingshing.su@gmail.com", "sibuzu.ai@gmail.com"]
-receiver_emails = ["sibuzu.ai@gmail.com"]
+receiver_emails = ["jack.wu0205@gmail.com", "mingshing.su@gmail.com", "sibuzu.ai@gmail.com"]
+# receiver_emails = ["sibuzu.ai@gmail.com"]
 
 def update_list():
     # === yt-dlp 參數設定 ===
@@ -134,14 +123,14 @@ def download_script(df):
         
         # 檢查是否在黑名單中
         if video_id in black_df['id'].values:
-            logger.warning(f"跳過黑名單影片：{idx}:{video_id}")
+            # logger.warning(f"跳過黑名單影片：{idx}:{video_id}")
             continue
         
         script_file = f"{script_dir}/{video_id}.txt"
         
         # 檢查檔案是否已存在
         if os.path.exists(script_file):
-            logger.info(f"跳過已存在的字幕：{idx}:{video_id}")
+            # logger.info(f"跳過已存在的字幕：{idx}:{video_id}")
             continue
             
         logger.info(f"下載字幕中：{idx}:{video_id}")
