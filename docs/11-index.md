@@ -824,113 +824,559 @@
 </details>
 
 <details>
-<summary>1125. Benefits of Apigenin: The Powerful Phytonutrient – Dr. Berg</summary><br>
+<summary>1125. [2017-10-21] Benefits of Apigenin: The Powerful Phytonutrient – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=7FtBAr5sG8k" target="_blank">
     <img src="https://img.youtube.com/vi/7FtBAr5sG8k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 文章整理：Apigenin 的多效健康作用及飲食建议
 
+## 核心主題
+- Apigenin 是一種強大的植物營養素（phytonutrient），具有多方面的健康效益。
+- 其Effects 包括抗衰老、排毒、抗腫瘤、保護器官功能等。
+
+## 主要觀念
+1. **Apigenin 的.definition 和來源**  
+   - Apigenin 是一種 flavone 成員，廣泛存在於某些蔬菜和茶中。  
+   - 常見富含 apigenin 的食物包括： parsley（parsley）、十字花科蔬菜、芹菜、小麦草汁粉末和洋甘菊茶。
+
+2. **主要健康益處**  
+   - **促進自噬（Autophagy）**  
+     - 自噬是人體清除衰老或受損細胞結構並進行回收的重要機制。  
+     - Apigenin 可刺激此過程，有助於抵抗 ageing 和清除病原體。  
+   - **排毒作用**  
+     - Apigenin 是一種有效的解毒劑，幫助身體減少藥物和化學物質的累積。  
+   - **抗腫瘤特性**  
+     - 能降低腫瘤細胞的耐藥性，提高化療效果。  
+     - 可減輕化療引起的副作用，如腎臟損害。  
+   - **神經保護作用**  
+     - 刺激成年神經發生（adult neurogenesis），促進受損神經元的修復。  
+     - 減少 Alzheimer 痴呆症中 amyloid斑塊的積累。
+
+3. **問題與挑戰**  
+   - Apigenin 的研究仍需進一步證實其臨床效果和安全性。  
+   - 其作用機制尚待更深入的研究以供更好地應用於治療方案。
+
+## 問題原因
+- 現代生活中藥物和化學物質的過量暴露，導致身體排毒負荷加重。  
+- 腫瘤耐藥性增加，使傳統癌症治療效果受限。  
+- 神經退行性疾病如 Alzheimer 的病發機制尚未完全明了。
+
+## 解決方法
+1. **饮食調整**  
+   - 增加富含 apigenin 的食物攝取，如 parsley、十字花科蔬菜、芹菜等。  
+2. **結合治療方案**  
+   - 在接受化療或其他藥物治療時，可搭配食用含 apigenin 的食物以增強療效並減輕副作用。  
+3. **生活方式改進**  
+   - 綜合使用定期斷食等方法來刺激自噬作用。  
+4. **進一步研究**  
+   - 推動針對 apigenin 的藥理學研究，以開發更有效的臨床應用。
+
+## 健康建議
+- 飲食中多攝取富含 apigenin 的食物，尤其在服用藥物或接受化療期間。  
+- 經常食用parsley、十字花科蔬菜（如西兰花、捲心菜）和芹菜等。  
+- 多喝洋甘菊茶以獲取	apigenin 的健康益處。  
+- 配合其他抗氧化劑豐富的食物，形成均衡飲食。
+
+## 結論
+Apigenin 作為一種多功能植物營養素，在抗衰老、排毒、抗癌和神經保護等方面展現出顯著潛力。通過合理攝取含 apigenin 的食物，可以有效提升整體健康水平，特別是在面對藥物治療或慢性疾病時。未來的研究將進一步挖掘其應用價值，為人類健康提供更有力的支持。
 </details>
 
 <details>
-<summary>1124. Using DIM for High Androgens to Help with Facial Hair, Cystic Acne, and Alopecia - Dr. Berg</summary><br>
+<summary>1124. [2017-10-21] Using DIM for High Androgens to Help with Facial Hair, Cystic Acne, and Alopecia - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=skc_QbNtEa0" target="_blank">
     <img src="https://img.youtube.com/vi/skc_QbNtEa0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- **DIM (Diindolylmethane)**：一種超強濃度（25倍）的植物營養素混合物，源自十字花科蔬菜。
 
+---
+
+### 主要觀念  
+1. **DIM的功能**：
+   - 作為芳香酶抑制劑，阻斷雄性激素（Androgens）轉化為雌性激素（Estrogen）。
+   - 調節 estrogen 和 androgen 的平衡，防止因過多的 androgens 引發的問題。
+
+2. **DIM的作用機制**：
+   - 抑制芳香酶酶活性，阻斷 excess androgens 转化為 estrogen 的過程。
+   - 平衡 hormones，改善因激素失衡引發的症狀。
+
+3. **DIM的健康益處**：
+   - 支持前列腺健康（男性）：在雌性素 dominance 情況下提供保護。
+   - 調節激素相關問題，如 женска полиморфність и синтез estrogen.
+
+---
+
+### 問題原因  
+1. **Estrogen Dominance**：
+   - 過多的 estrogen 或 excess androgens 转化為 estrogen。
+   - 可能引發的症状包括 facial hair, polycystic ovarian syndrome (PCOS), hair loss, oily skin, 和 cystic acne。
+
+2. **Aromatase Enzyme的作用**：
+   - 促進 androgens 向 estrogen 的轉換，導致激素失衡。
+
+---
+
+### 解決方法  
+1. **DIM的使用**：
+   - 作為 aromatase inhibitor，阻斷 excess androgens 转化為 estrogen。
+   - 平衡 hormones，改善因激素失衡引發的症狀。
+
+2. **健康建議**：
+   - 使用 DIM 支持前列腺健康（男性）。
+   - 管理因激素失衡導致的問題，如 PCOS、 cystic acne等。
+
+---
+
+### 健康建議  
+1. **DIM的應用**：
+   - 適用於女性：面部毛髮過多、PCOS、脱发、油性皮膚和囊狀痤瘡。
+   - 適用於男性：雌激素 dominance 情況下的前列腺健康。
+
+2. **諮詢專業意見**：
+   - 在使用 DIM 之前，建議諮詢 healthcare provider，以確定其適合個人的健康狀況。
+
+---
+
+### 結論  
+- **DIM** 是一種有效的植物營養素，能夠作為 aromatase inhibitor，平衡激素，改善因 estrogen dominance 和 excess androgens 引發的症狀。
+- 它在管理女性和男性激素相關問題方面具有潛力，但使用前建議諮詢專業意見。
 </details>
 
 <details>
-<summary>1123. Type 2 Diabetes Cure With Two Things – Dr. Berg</summary><br>
+<summary>1123. [2017-10-20] Type 2 Diabetes Cure With Two Things – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hbLdXC3wHGE" target="_blank">
     <img src="https://img.youtube.com/vi/hbLdXC3wHGE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 論述治療和管理2型糖尿病的核心策略。
 
+---
+
+### 主要觀念  
+1. 2型糖尿病是由胰島素抵抗引起的，而非胰岛素分泌不足（如1型糖尿病）。  
+2. 胰島素是一種碳水化合物激素，主要負責調節血糖水平。  
+
+---
+
+### 問題原因  
+- 高糖飲食和頻繁進餐是導致胰島素過度分泌的主要原因。  
+- 糖的來源不僅限於added sugar（添加糖），还包括高升糖指數的食物，如穀物、麵條、燕麥等。  
+- 現代生活中糖分攝入無所不在，來自飲料（如運動飲料、果汁）、零食和社交場合（如聚會）。  
+
+---
+
+### 解決方法  
+1. 減少高升糖指數食物的攝入，將其降至最低水平。  
+2. 減少進餐次數，建議每天進餐2-3次，避免頻繁吃零食。  
+3. 逐漸調整飲食習慣，避免突兀的改變引發 hunger再次。  
+
+---
+
+### 健康建議  
+1. 選擇低升糖指數的食物以穩定血糖水平。  
+2. 控制進餐次數，可從一天三餐開始，逐步減少至兩餐或一餐。  
+3. 減少精製糖和高碳水化合物食物的攝入，注意社交場合中的隱藏糖分。  
+
+---
+
+### 結論  
+- 高糖飲食和頻繁進餐是2型糖尿病的主要誘因。  
+- 通過降低糖分攝入和控制進餐次數，可以有效改善胰島素抵抗，從而管理或恢復血糖健康。  
+- 減少飲食頻率是最有效的策略之一，若能與低糖飲食結合，效果更佳。  
+
+---
+
+### 其他建議  
+1. 推薦觀看附帶的迷你課程，了解具體實施方法。  
+2. 分享此視頻，幫助更多人了解2型糖尿病的管理方法。
 </details>
 
 <details>
-<summary>1122. 9 Common Keto Diet Mistakes Everyone Makes – Dr. Berg</summary><br>
+<summary>1122. [2017-10-20] 9 Common Keto Diet Mistakes Everyone Makes – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kUE8nl5R6bk" target="_blank">
     <img src="https://img.youtube.com/vi/kUE8nl5R6bk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章要點整理
 
+#### 核心主題
+- **低碳水化合物（生酮）飲食常見錯誤**：探討在實施生酮飲食過程中常見的九種錯誤行為及其影響。
+
+#### 主要觀念
+1. 生酮飲食的主要目的是降低胰島素水平，改善胰島素抵抗。
+2. 經常攝入多餐或未配合間歇性禁食可能削弱生酮效果。
+3. 餧指數是飲食選擇的重要依據。
+4. 高蛋白攝取可能影響血糖控制。
+5. 蔬菜在生酮飲食中扮演關鍵角色，提供必需的礦物質和纖維。
+6. 重量秤和酮體試紙的使用需謹慎解讀。
+7. 脂肪攝取量需恰當，過多或不足均可能引發健康問題。
+8. 隱性碳水化合物易致飲食失敗。
+9. 血脂水平在生酮飲食中會變化，但通常不會造成健康風險。
+
+#### 問題原因
+1. **缺乏間歇性禁食**：導致胰島素反覆升高，妨礙脂肪燃燒。
+2. **非飢餧進食**：無謂地提高胰島素水平，影響脂肪分解。
+3. **過量蛋白攝取**：刺激胰島素分泌，干擾酮症生成。
+4. **蔬菜攝取不足**：造成礦物質缺乏，影響身體機能。
+5. **过度依賴秤重和酮試紙**：引發焦慮，且數據未必準確反映進展。
+6. **脂肪攝取失衡**：可能加重新陳代謝負擔或導致能量不足。
+7. **隱性碳水過量**：突破生酮飲食的碳水限制，影響減重效果。
+8. **血脂升高焦慮**：未充分理解生酮飲食對血脂的短期影響。
+
+#### 解決方法
+1. 配合間歇性禁食以增強脂肪燃燒效果。
+2. 依照飢餧進食，避免不必要的胰島素 surge。
+3. 控制蛋白攝取，優先選擇蔬菜和健康脂肪。
+4. 賄足攝取非澱粉類蔬菜，確保礦物質供應。
+5. 监控飲食進展時重視腰圍而非體重。
+6. 縮量食用高品質脂肪，避免過度負荷肝臟。
+7. 檢查食品標籤，控制每日碳水攝取在30克以下。
+8. 了解生酮飲食短期內的血脂變化屬正常現象。
+
+#### 健康建議
+1. **飲食結構**：以脂肪為主要能量來源，配合足夠蔬菜。
+2. **進食時間**：間歇性禁食可提升生酮效果。
+3. **蛋白攝取**： moderation是 key，避免過量。
+4. **脂肪平衡**：適度攝取，注意來源品質。
+5. **血糖監控**：注意隱性碳水，避免攝取過量。
+
+#### 結論
+- 生酮飲食成功關鍵在於正確的飲食結構、進食時機和 nutrient balance。
+- 避免常見錯誤可顯著提升效果，並降低健康風險。
+- 與專業醫療人員合作能進一步保障安全和效果。
 </details>
 
 <details>
-<summary>1121. How To Fix Oily Skin With Simple Hack – Dr. Berg</summary><br>
+<summary>1121. [2017-10-19] How To Fix Oily Skin With Simple Hack – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hJL_b8p9zq8" target="_blank">
     <img src="https://img.youtube.com/vi/hJL_b8p9zq8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 油性皮膚的成因與解決方法  
+- 內分泌失衡對油性皮膚的影響  
 
+---
+
+### 主要觀念  
+1. **油性皮膚的核心問題**：油性皮膚是由過度活躍的皮脂腺引起的，主要原因是雄性激素（Androgens）的過量生產。  
+2. **皮脂腺的功能**：臉部的_Sebum_是由_Sebum glands_分泌的油脂，過量分泌會導致油性皮膚。  
+
+---
+
+### 問題原因  
+1. **雄性激素過多**：  
+   - 雄性激素（Androgens）的過量生產是油性皮膚的主要原因之一。  
+   - 這些激素由_卵巢_和_腎上腺_分泌。  
+2. **壓力因素**：  
+   - 長期壓力會導致腎上腺功能亢進，從而增加雄性激素的分泌。  
+3. **胰島素代謝失衡**：  
+   - 胰島素水平過高（常見於前期糖尿病或多囊卵巢綜合徵PCOS）會將碳水化合物轉化為雄性激素，導致油性皮膚和痤瘡。  
+
+---
+
+### 解決方法  
+1. **藥用級鋅（Zinc）**：  
+   - 鋅可以降低雄性激素的水平，從而減少皮脂分泌。  
+2. **DIM（二吲哚甲氣）**：  
+   - 一種濃縮的十字花科蔬菜提取物，幫助平衡雌激素和雄性激素水平。  
+3. **生活方式調整**：  
+   - 減少壓力：通過放鬆技巧或運動來降低腎上腺的過度活躍。  
+   - 調整飲食：降低糖分攝取，避免頻繁進食，以控制胰島素水平。  
+
+---
+
+### 健康建議  
+1. **飲食調整**：  
+   - 減少精製糖和高GI食物的攝取，以避免胰島素 spikes。  
+   - 增加富含鋅的食物（如坚果、種子、瘦肉蛋白）的攝取。  
+2. **補充劑**：  
+   - 在醫師建議下使用DIM或其他激素平衡補充劑。  
+3. **壓力管理**：  
+   - 適當運動、冥想或瑜伽來降低壓力水平，從而減少腎上腺過度活躍的影響。  
+
+---
+
+### 結論  
+油性皮膚的根本原因是內分泌失衡，特別是雄性激素和胰島素的不當升高。通過飲食調整、補充鋅和DIM、管理壓力等方法，可以有效平衡 hormone 水平，改善油性皮膚問題。建議在專業醫療人員的指導下制定個人化治療計劃。
 </details>
 
 <details>
-<summary>1120. Pumpkin Seeds: Nutrient Dense and Healthy Fats | Dr. Berg</summary><br>
+<summary>1120. [2017-10-18] Pumpkin Seeds: Nutrient Dense and Healthy Fats | Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5jsEi4a8eWQ" target="_blank">
     <img src="https://img.youtube.com/vi/5jsEi4a8eWQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節結構：
 
+#### 1. 核心主題：
+- 橫瓜子（Pumpkin Seeds）的營養價值及其在飲食中的重要性。
+
+#### 2. 主要營養成分及功能：
+- **鎂（Magnesium）**：
+  - 必需微量元素，參與多種酶的合成。
+  - 與蛋白質合成有關，缺乏可能導致肌肉骨骼問題。
+  - 有助於降低血壓和應對壓力。
+
+- **磷（Phosphorus）**：
+  - 確保神經系統正常運作，提供能量。
+  - 遊離不足可能引發腎结石、肝石等钙質沉積。
+
+- **銅（Copper）**：
+  - 支持動脈和膠原蛋白的健康。
+  - 與維生素C共同作用，促進彈性組織形成。
+  - 缺乏時可能導致血管和韌帶僵硬。
+
+- **鋅（Zinc）**：
+  - 对前列腺健康有益。
+  - 助於降低病毒感染載量，改善鼻竇健康。
+
+- **Omega-3脂肪酸**：
+  - 舒適心臟功能，具抗炎作用。
+  - 可緩解更年期症狀如潮紅。
+
+- **色胺酸（Tryptophan）**：
+  - 转化為血清素（Serotonin），幫助睡眠、抑止糖分 cravings 和應對壓力。
+
+- **維生素E**：
+  - 益於心臟和皮膚健康。
+  - 提昇血液携氧能力，適合高海拔環境。
+
+#### 3. 問題原因及影響：
+- 電視台缺：導致肌肉骨骼脆弱、疲勞、結石等問題。
+- 磷不足：可能引發腎结石、肝 Stones 和钙質沉積。
+- 銅缺乏：影響動脈和韌帶的彈性，導致僵硬。
+
+#### 4. 健康建議：
+- 橫瓜子可作為健康零食，適宜在餐後食用。
+- 推薦多種食譜，如無糖巧克力橫瓜子，增強營養攝取。
+- 可選擇生食或烤製方式，保持其營養價值。
+
+#### 5. 結論：
+- 橫瓜子富含多種微量元素和營養成分，對整體健康有顯著益處。
+-  inclusion in diet can prevent deficiency-related health issues and enhance well-being.
+
+### 全文摘要：
+
+本文探討了橫瓜子的多樣化營養價值及其对人体健康的多重益處。文章強調了其富含鎂、磷、銅、鋅、Omega-3脂肪酸、色胺酸和維生素E等關鍵 nutrients，這些成分在能量代謝、神經系統功能、心血管健康、免疫支持等方面發揮重要作用。文中並指出缺乏這些營養素可能導致的健康問題，如疲勞、結石形成和血管僵硬等。此外，文章提供食用建議，推薦將橫瓜子作為健康的零食，可通過生食、烤製或融入食譜（如無糖巧克力橫瓜子）等方式攝取，以最大化其營養效益並預防 deficiency-related 病症，提升整體健康水平。
 </details>
 
 <details>
-<summary>1119. Why Do Doctors Give Insulin Injections To Type-2 Diabetes Patients? – Dr. Berg</summary><br>
+<summary>1119. [2017-10-18] Why Do Doctors Give Insulin Injections To Type-2 Diabetes Patients? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=nMWKu6gE7z8" target="_blank">
     <img src="https://img.youtube.com/vi/nMWKu6gE7z8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題 (Core Theme)
+- **核心主題**  
+  The primary focus of the article is on understanding why Type 2 diabetics are prescribed insulin, despite having already high levels of insulin in their bodies.
 
+---
+
+### 主要觀念 (Key Concepts)
+- **主要觀念**  
+  - Type 2 diabetes involves insulin resistance, where the body's cells become less responsive to insulin.
+  - Elevated blood sugar levels in Type 2 diabetics are a downstream effect of this insulin resistance.
+  - The medical approach often focuses on managing symptoms through medications like insulin, rather than addressing the root cause.
+
+---
+
+### 問題原因 (Root Causes)
+- **問題原因**  
+  - Insulin resistance leads to higher blood sugar levels because cells cannot effectively take up glucose.
+  - The pancreas compensates by producing more insulin, exacerbating insulin resistance and creating a vicious cycle of high blood sugar and increased insulin production.
+
+---
+
+### 解決方法 (Suggested Solutions)
+- **解決方法**  
+  - Address the root cause of insulin resistance through dietary changes, particularly reducing carbohydrate intake.
+  - Limit refined carbohydrates and grains that rapidly convert to glucose, contributing to higher insulin levels.
+  - Consider lifestyle modifications, such as regular exercise, to improve insulin sensitivity.
+
+---
+
+### 健康建議 (Health Recommendations)
+- **健康建議**  
+  - Monitor blood sugar levels closely and understand the role of insulin in managing Type 2 diabetes.
+  - Discuss with healthcare providers why insulin is being prescribed if there are concerns about high insulin levels.
+  - Adopt a diet low in refined carbohydrates to help stabilize blood sugar and reduce reliance on medications.
+
+---
+
+### 結論 (Conclusion)
+- **結論**  
+  The article emphasizes that managing Type 2 diabetes requires addressing the underlying issue of insulin resistance rather than solely relying on medications like insulin. By making appropriate dietary and lifestyle changes, individuals can reduce their dependence on medications and achieve better blood sugar control.
 </details>
 
 <details>
-<summary>1118. 7 Amazing Health Benefits of Chamomile Tea – Dr. Berg</summary><br>
+<summary>1118. [2017-10-17] 7 Amazing Health Benefits of Chamomile Tea – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=lTiUM0AXge8" target="_blank">
     <img src="https://img.youtube.com/vi/lTiUM0AXge8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- ** chamomile茶**：一種歷史悠久（約5,000年）、具有多種健康益處的草本茶。
 
+### 主要觀念
+1. **傳統與歷史背景**
+   - chamomile茶在人類歷史中已有超過五千年的作用。
+2. **健康益處**
+   - 舒緩壓力和焦慮：常被用於缓解神經緊張和焦虑症狀。
+   - 肌肉痙攣 relief：有助於舒缓肌肉痙攣。
+   - 皮膚健康管理：研究顯示其對濕疹等皮膚問題的療效可能優於氫化可的松軟膏。
+   - 消化健康：用於緩解心burn、腸易激惹綜合征（IBS）、腹氣和脹氣等症狀。
+   - 入睡 assistance：具有促進睡眠的作用，因此建議在睡前飲用。
+
+### 問題原因
+- 现代生活壓力大，導致各種與壓力相關的健康問題，如焦慮、肌肉痙攪、消化紊亂和睡眠障礙。
+
+### 解決方法
+- ** chamomile茶**：提供了一種自然、溫和的方式來緩解上述症狀。
+
+### 健康建議
+1. **飲用方式**
+   - 每杯沸水加入一茶匙 chamomile 茶葉，浸泡五至七分鐘。
+   - 需要加强舒緩效果時，可延長浸泡時間。
+2. **注意事項**
+   - 避免在長途旅行前飲用，以免因嗜睡影響安全。
+
+### 結論
+- chamomile茶是一種多用途的天然療法，具有舒緩壓力、促進消化和改善睡眠等多重益處。建議將其納入日常健康管理和保健方案中。
 </details>
 
 <details>
-<summary>1117. The Best Snacks Food for Low Blood Sugar – Dr. Berg</summary><br>
+<summary>1117. [2017-10-17] The Best Snacks Food for Low Blood Sugar – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=jGkGvDyAokQ" target="_blank">
     <img src="https://img.youtube.com/vi/jGkGvDyAokQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+===== 文章開始 =====
 
+# 文章要點整理
+
+## 核心主題  
+- **低血糖症狀及管理**：探討低血糖的原因、影響及解決方法。
+
+## 主要觀念  
+1. **低血糖的定義與影響**：正常血糖水平約為80至90毫克/分升，超過100毫克/分升即屬偏高。低血糖會導致頻繁的血糖波動，進而引發胰島素分泌失衡。
+2. **零食對血糖的影響**：無論是甜食、蛋白質-bars或水果（如苹果加花生醬），都會導致血糖升高後快速下降，形成惡性循環。
+
+## 問題原因  
+1. **過度攝取快升糖食物**：高糖分食物迅速提高血糖，刺激胰島素分泌，造成血糖再度下降。
+2. **缺乏足夠的礦物質攝取**：特別是鉀離子（Potassium）不足，影響胰島素功能，導致血糖穩定性降低。
+3. **飲食結構不均衡**：過度依賴蛋白質攝取，忽略蔬菜和健康脂肪的補充，造成飽足感不足，引發頻繁進食。
+
+## 解決方法  
+1. **調整飲食結構**：
+   - **增加蔬菜攝取量**：每日至少攝取7至10杯蔬菜（清涼沙拉或榨汁），以補充足夠的鉀離子。
+   - **控制蛋白質攝取量**：每餐建議攝取3至6盎司的蛋白質，避免過量刺激胰島素分泌。
+2. **增加健康脂肪攝取**：
+   - 加入 nuts、橄欖油、牛油果等健康脂肪來源，提升飽足感，減少血糖波動。
+3. **限制零食攝取**：避免任何形式的零食，特別是含糖蛋白質-bars，以防血糖進一步惡化。
+
+## 健康建議  
+1. **逐步調整飲食結構**：建議用時兩至三周，讓身體逐漸適應新的飲食模式。
+2. **避免兒童過度攝取零食**：防止兒童習慣性地攝取含糖零食，影響胰島素敏感性。
+3. **分開攝取蛋白質與碳水化合物**：避免將蛋白質與糖分混合攝取，以降低胰島素_spike。
+
+## 結論  
+- 低血糖問題可透過調整飲食結構和攝取足夠的礦物質來改善。關鍵在於減少高糖食物攝取，增加蔬菜和健康脂肪的補充，並逐步讓身體適應新的飲食模式。
+
+===== 文章結束 =====
 </details>
 
 <details>
-<summary>1116. How To Diagnose Diabetes? – Dr. Berg</summary><br>
+<summary>1116. [2017-10-16] How To Diagnose Diabetes? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_lqhgxxtGGQ" target="_blank">
     <img src="https://img.youtube.com/vi/_lqhgxxtGGQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理與結構化總結
 
+#### 核心主題：糖尿病的診斷與血糖管理
+Dr. Burg 在此篇文章中探討了糖尿病的診斷方法，特別是圍繞血糖測試的核心價值。他強調了多項血液檢查的重要性，以更全面地評估糖尿病或前期糖尿病的風險。
+
+---
+
+### 主要觀念：
+1. **血糖水平分級**：
+   - **正常 fasting blood sugar (FBS)**：70-86 mg/dL（Dr. Burg建議的範圍）。
+   - **輕微升高**：100-125 mg/dL，屬於 insulin resistance。
+   - **糖尿病診斷**：≥126 mg/dL。
+
+2. **血糖來源與糖分濃度**：
+   - 血液中血糖水平反映了身體對糖的處理能力，尤其是 gluconeogenesis（糖異生）。
+   - 一般人體血液約為1-1.5 gallon，正常情況下血糖僅需半茶匙糖量即可維持。
+
+3. **A1C 指標**：
+   - 美國糖尿病協會建議目標值：<6%。
+   - Dr. Burg推薦更嚴格的目標：4.6%-5.3%。
+
+4. **餐後血糖測試**：
+   - 2小時後血糖水平應<120 mg/dL（Dr. Burg的建議），美國糖尿病協會則為<140 mg/dL。
+
+---
+
+### 問題原因：
+1. **依賴单一指標的風險**：
+   - 單一血糖測試無法全面反映整體健康狀況，可能掩盖 insulin resistance 或其他問題。
+   
+2. **生活與環境因素干擾**：
+   - 應激、咖啡因攝取、脫水、運動等因素會影響血液檢測結果。
+
+3. **飲食結構的影響**：
+   - 高碳水化合物攝入（如美國糖尿病協會建議的40-60%熱量來源）可能掩蓋早期血糖異常。
+
+---
+
+### 解決方法與健康建議：
+1. **多指標綜合評估**：
+   - 結合 fasting glucose、fasting insulin 和 A1C 進行綜合分析。
+   - 定期測試餐後血糖，特別是在飲食後的2小時內。
+
+2. **生活方式調整**：
+   - 選擇低糖、低碳水化合物飲食（如酮基因飲食）以改善血糖控制。
+   - 減少糖分攝入，避免精製糖和高GI食物。
+
+3. **症狀監測**：
+   - 注意早期症狀，如對甜食的渴望、餐後疲勞、手腳麻木等，這些可能提示 insulin resistance 或前期糖尿病。
+
+4. **壓力管理與運動**：
+   - 保持規律的睡眠、適度運動和有效的應激管理，以改善整體血糖控制。
+
+---
+
+### 結論：
+Dr. Burg 强調，糖尿病的診斷不应依賴单一指標。通過綜合多項血液檢查和生活方式調整，可以更早發現問題並進行有效干預。他建議患者與醫療專業人員合作，制定個化化的健康管理計劃，以降低糖尿病風險或延緩病情進展。
+
+---
+
+### 行動呼籲：
+文中鼓勵觀眾完成評估問卷，進一步了解自身症狀的根本原因，從而獲得針對性的健康建議和報告。
 </details>
 
 <details>
