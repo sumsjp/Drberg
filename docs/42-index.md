@@ -3,7 +3,7 @@
 
 <a href="https://www.youtube.com/watch?v=r8p8-Mrbnm8" target="_blank">
     <img src="https://img.youtube.com/vi/r8p8-Mrbnm8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -82,7 +82,7 @@ VO₂ max的提升需要綜合運用科學的訓練方法、合理的飲食結�
 
 <a href="https://www.youtube.com/watch?v=C2kJQ4ufzXc" target="_blank">
     <img src="https://img.youtube.com/vi/C2kJQ4ufzXc/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：肺部解毒与健康建议
@@ -162,7 +162,7 @@ VO₂ max的提升需要綜合運用科學的訓練方法、合理的飲食結�
 
 <a href="https://www.youtube.com/watch?v=uT2zBPmcmsA" target="_blank">
     <img src="https://img.youtube.com/vi/uT2zBPmcmsA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 調整後之內容：
@@ -251,7 +251,7 @@ VO₂ max的提升需要綜合運用科學的訓練方法、合理的飲食結�
 
 <a href="https://www.youtube.com/watch?v=XspP7Cbw4fA" target="_blank">
     <img src="https://img.youtube.com/vi/XspP7Cbw4fA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 文章整理：碳酸水與二氧化碳的健康影響
@@ -310,7 +310,7 @@ VO₂ max的提升需要綜合運用科學的訓練方法、合理的飲食結�
 
 <a href="https://www.youtube.com/watch?v=AQz5u71G3js" target="_blank">
     <img src="https://img.youtube.com/vi/AQz5u71G3js/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ---
@@ -361,7 +361,7 @@ VO₂ max的提升需要綜合運用科學的訓練方法、合理的飲食結�
 
 <a href="https://www.youtube.com/watch?v=PiO4QZ6ZAQw" target="_blank">
     <img src="https://img.youtube.com/vi/PiO4QZ6ZAQw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：改善睡眠質量的核心策略
@@ -424,7 +424,7 @@ VO₂ max的提升需要綜合運用科學的訓練方法、合理的飲食結�
 
 <a href="https://www.youtube.com/watch?v=-eqa5CMQQes" target="_blank">
     <img src="https://img.youtube.com/vi/-eqa5CMQQes/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：針對銀屑病的新療法介紹
@@ -481,7 +481,7 @@ NAG 作为一种新型的治療手段，為銀屑病患者提供了新的選擇�
 
 <a href="https://www.youtube.com/watch?v=J6ldkOzBG5w" target="_blank">
     <img src="https://img.youtube.com/vi/J6ldkOzBG5w/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -539,7 +539,7 @@ NAG 作为一种新型的治療手段，為銀屑病患者提供了新的選擇�
 
 <a href="https://www.youtube.com/watch?v=6S45px2RLSU" target="_blank">
     <img src="https://img.youtube.com/vi/6S45px2RLSU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 文章重點整理
@@ -614,7 +614,7 @@ NAG 作为一种新型的治療手段，為銀屑病患者提供了新的選擇�
 
 <a href="https://www.youtube.com/watch?v=29NS6PxfE2s" target="_blank">
     <img src="https://img.youtube.com/vi/29NS6PxfE2s/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -667,7 +667,7 @@ NAG 作为一种新型的治療手段，為銀屑病患者提供了新的選擇�
 
 <a href="https://www.youtube.com/watch?v=DtVj-U2hU7k" target="_blank">
     <img src="https://img.youtube.com/vi/DtVj-U2hU7k/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -728,7 +728,7 @@ NAG 作为一种新型的治療手段，為銀屑病患者提供了新的選擇�
 
 <a href="https://www.youtube.com/watch?v=z_cIF3BGctM" target="_blank">
     <img src="https://img.youtube.com/vi/z_cIF3BGctM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 文章重點整理：檸檬水的常見錯誤與健康益處
@@ -816,7 +816,7 @@ NAG 作为一种新型的治療手段，為銀屑病患者提供了新的選擇�
 
 <a href="https://www.youtube.com/watch?v=Jgbv2ZrC1xM" target="_blank">
     <img src="https://img.youtube.com/vi/Jgbv2ZrC1xM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -887,7 +887,7 @@ NAG 作为一种新型的治療手段，為銀屑病患者提供了新的選擇�
 
 <a href="https://www.youtube.com/watch?v=opipxOBhFQY" target="_blank">
     <img src="https://img.youtube.com/vi/opipxOBhFQY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：微量元素鋅缺乏症的罕見症狀與影響
@@ -942,7 +942,7 @@ NAG 作为一种新型的治療手段，為銀屑病患者提供了新的選擇�
 
 <a href="https://www.youtube.com/watch?v=SOkuPlKoXYA" target="_blank">
     <img src="https://img.youtube.com/vi/SOkuPlKoXYA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小結點整理
@@ -1017,7 +1017,7 @@ NAG 作为一种新型的治療手段，為銀屑病患者提供了新的選擇�
 
 <a href="https://www.youtube.com/watch?v=4p3SqQn9izs" target="_blank">
     <img src="https://img.youtube.com/vi/4p3SqQn9izs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：碘試驗檢測食品和補充劑中的隱性澱粉
@@ -1064,7 +1064,7 @@ NAG 作为一种新型的治療手段，為銀屑病患者提供了新的選擇�
 
 <a href="https://www.youtube.com/watch?v=6jyAbqak0xk" target="_blank">
     <img src="https://img.youtube.com/vi/6jyAbqak0xk/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小結整理
@@ -1120,7 +1120,7 @@ NAG 作为一种新型的治療手段，為銀屑病患者提供了新的選擇�
 
 <a href="https://www.youtube.com/watch?v=RfLV7r8Hqm8" target="_blank">
     <img src="https://img.youtube.com/vi/RfLV7r8Hqm8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 正式學術用語整理與小節歸納
@@ -1175,7 +1175,7 @@ NAG 作为一种新型的治療手段，為銀屑病患者提供了新的選擇�
 
 <a href="https://www.youtube.com/watch?v=hTYTC62RCqM" target="_blank">
     <img src="https://img.youtube.com/vi/hTYTC62RCqM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -1263,7 +1263,7 @@ NAG 作为一种新型的治療手段，為銀屑病患者提供了新的選擇�
 
 <a href="https://www.youtube.com/watch?v=OKg8Ik04WpM" target="_blank">
     <img src="https://img.youtube.com/vi/OKg8Ik04WpM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -1342,7 +1342,7 @@ Kellogg燕麥片召回事件揭示了現代加工食品中存在的質量和營�
 
 <a href="https://www.youtube.com/watch?v=CrLaoAngJsw" target="_blank">
     <img src="https://img.youtube.com/vi/CrLaoAngJsw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：便秘的原因與管理策略
@@ -1401,7 +1401,7 @@ Kellogg燕麥片召回事件揭示了現代加工食品中存在的質量和營�
 
 <a href="https://www.youtube.com/watch?v=Vl_bzEBBnZA" target="_blank">
     <img src="https://img.youtube.com/vi/Vl_bzEBBnZA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：提升微生物群落多样性的重要性和实现路径
@@ -1485,7 +1485,7 @@ Kellogg燕麥片召回事件揭示了現代加工食品中存在的質量和營�
 
 <a href="https://www.youtube.com/watch?v=Faup23zVDJU" target="_blank">
     <img src="https://img.youtube.com/vi/Faup23zVDJU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：燕麥的多面性與健康考量
@@ -1542,7 +1542,7 @@ Kellogg燕麥片召回事件揭示了現代加工食品中存在的質量和營�
 
 <a href="https://www.youtube.com/watch?v=Wh8uodrOh-Q" target="_blank">
     <img src="https://img.youtube.com/vi/Wh8uodrOh-Q/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -1582,7 +1582,7 @@ Kellogg燕麥片召回事件揭示了現代加工食品中存在的質量和營�
 
 <a href="https://www.youtube.com/watch?v=TNnUeeAiJko" target="_blank">
     <img src="https://img.youtube.com/vi/TNnUeeAiJko/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：小麦草汁的功效与应用
@@ -1638,7 +1638,7 @@ Kellogg燕麥片召回事件揭示了現代加工食品中存在的質量和營�
 
 <a href="https://www.youtube.com/watch?v=2Be7ndkw5aQ" target="_blank">
     <img src="https://img.youtube.com/vi/2Be7ndkw5aQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：/apple cider vinegar在腎结石預防中的作用/
@@ -1685,7 +1685,7 @@ Kellogg燕麥片召回事件揭示了現代加工食品中存在的質量和營�
 
 <a href="https://www.youtube.com/watch?v=2fR5nVsGlk0" target="_blank">
     <img src="https://img.youtube.com/vi/2fR5nVsGlk0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：植物基蛋白質的挑戰與動物性蛋白質的重要性
@@ -1747,7 +1747,7 @@ Kellogg燕麥片召回事件揭示了現代加工食品中存在的質量和營�
 
 <a href="https://www.youtube.com/watch?v=jIvFURdGEVE" target="_blank">
     <img src="https://img.youtube.com/vi/jIvFURdGEVE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題： Wormwood (Artemisinin) 的多樣化生物活性及其在癌症治療中的潛能
@@ -1797,7 +1797,7 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
 
 <a href="https://www.youtube.com/watch?v=sXm0YPPg9-I" target="_blank">
     <img src="https://img.youtube.com/vi/sXm0YPPg9-I/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：肌肉健康與蛋白質代謝的关键因素
@@ -1881,7 +1881,7 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
 
 <a href="https://www.youtube.com/watch?v=PKF0954tfxs" target="_blank">
     <img src="https://img.youtube.com/vi/PKF0954tfxs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -1923,7 +1923,7 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
 
 <a href="https://www.youtube.com/watch?v=FTAc8IaUWTc" target="_blank">
     <img src="https://img.youtube.com/vi/FTAc8IaUWTc/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：應激反應與自主神經系統的作用
@@ -1982,7 +1982,7 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
 
 <a href="https://www.youtube.com/watch?v=dDUZ0ODBfJs" target="_blank">
     <img src="https://img.youtube.com/vi/dDUZ0ODBfJs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -2037,7 +2037,7 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
 
 <a href="https://www.youtube.com/watch?v=K114ptQ1oUQ" target="_blank">
     <img src="https://img.youtube.com/vi/K114ptQ1oUQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -2081,7 +2081,7 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
 
 <a href="https://www.youtube.com/watch?v=sgybqwSQQSI" target="_blank">
     <img src="https://img.youtube.com/vi/sgybqwSQQSI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -2160,7 +2160,7 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
 
 <a href="https://www.youtube.com/watch?v=3Cty_MmAaMc" target="_blank">
     <img src="https://img.youtube.com/vi/3Cty_MmAaMc/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 1. 核心主題：Coenzyme Q10 的功能與重要性
@@ -2203,7 +2203,7 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
 
 <a href="https://www.youtube.com/watch?v=YYw3J7KSOrw" target="_blank">
     <img src="https://img.youtube.com/vi/YYw3J7KSOrw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：糖尿病及高血糖相關皮膚問題的成因與管理
@@ -2262,7 +2262,7 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
 
 <a href="https://www.youtube.com/watch?v=FyLFwe1hiw0" target="_blank">
     <img src="https://img.youtube.com/vi/FyLFwe1hiw0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -2308,7 +2308,7 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
 
 <a href="https://www.youtube.com/watch?v=N2DGrgMIcsE" target="_blank">
     <img src="https://img.youtube.com/vi/N2DGrgMIcsE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：維生素D的重要性及常被忽視的相關問題
@@ -2355,7 +2355,7 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
 
 <a href="https://www.youtube.com/watch?v=QyyaAek4jjU" target="_blank">
     <img src="https://img.youtube.com/vi/QyyaAek4jjU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 文章整理： depression的營養與生活方式改善
@@ -2424,7 +2424,7 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
 
 <a href="https://www.youtube.com/watch?v=wQ3JNHEeuSw" target="_blank">
     <img src="https://img.youtube.com/vi/wQ3JNHEeuSw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -2464,7 +2464,7 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
 
 <a href="https://www.youtube.com/watch?v=2CVgoPZRv2U" target="_blank">
     <img src="https://img.youtube.com/vi/2CVgoPZRv2U/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -2512,7 +2512,7 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
 
 <a href="https://www.youtube.com/watch?v=eH9llWp0ixs" target="_blank">
     <img src="https://img.youtube.com/vi/eH9llWp0ixs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章要點整理
@@ -2591,7 +2591,7 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
 
 <a href="https://www.youtube.com/watch?v=LKLbPx5zg94" target="_blank">
     <img src="https://img.youtube.com/vi/LKLbPx5zg94/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -2630,7 +2630,7 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
 
 <a href="https://www.youtube.com/watch?v=BCZ6gCxVNWA" target="_blank">
     <img src="https://img.youtube.com/vi/BCZ6gCxVNWA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -2691,7 +2691,7 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
 
 <a href="https://www.youtube.com/watch?v=LzzSSvp4hlI" target="_blank">
     <img src="https://img.youtube.com/vi/LzzSSvp4hlI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：乳酸中毒与动脉钙化的关系及其健康影响
@@ -3224,7 +3224,7 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
 
 <a href="https://www.youtube.com/watch?v=-7BaG8UWWMc" target="_blank">
     <img src="https://img.youtube.com/vi/-7BaG8UWWMc/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -3307,7 +3307,7 @@ Calcium deposits的形成涉及多種因素，包括營養素失衡、副甲狀�
 
 <a href="https://www.youtube.com/watch?v=H0bpMtMbZAE" target="_blank">
     <img src="https://img.youtube.com/vi/H0bpMtMbZAE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章題目： glycation 及其與糖尿病并发症的关系及自然干预措施
@@ -3380,7 +3380,7 @@ Calcium deposits的形成涉及多種因素，包括營養素失衡、副甲狀�
 
 <a href="https://www.youtube.com/watch?v=dGXbg7FKpvg" target="_blank">
     <img src="https://img.youtube.com/vi/dGXbg7FKpvg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：耳垂紋 crease 的心血管疾病指標  
@@ -3439,7 +3439,7 @@ Calcium deposits的形成涉及多種因素，包括營養素失衡、副甲狀�
 
 <a href="https://www.youtube.com/watch?v=S-nrK7wcnvc" target="_blank">
     <img src="https://img.youtube.com/vi/S-nrK7wcnvc/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：sciatica疼痛與相關維生素 deficiency 的影響及管理策略
@@ -3494,7 +3494,7 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
 
 <a href="https://www.youtube.com/watch?v=ElKTOnm2kEw" target="_blank">
     <img src="https://img.youtube.com/vi/ElKTOnm2kEw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -3544,7 +3544,7 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
 
 <a href="https://www.youtube.com/watch?v=WzEcUVsMEMQ" target="_blank">
     <img src="https://img.youtube.com/vi/WzEcUVsMEMQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：補充劑攝取的最佳時機與健康建議
@@ -3617,7 +3617,7 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
 
 <a href="https://www.youtube.com/watch?v=LkeqOfgLypo" target="_blank">
     <img src="https://img.youtube.com/vi/LkeqOfgLypo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -3658,7 +3658,7 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
 
 <a href="https://www.youtube.com/watch?v=0exxcnNmxxI" target="_blank">
     <img src="https://img.youtube.com/vi/0exxcnNmxxI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：動脈硬化與維生素K2缺乏
@@ -3723,7 +3723,7 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
 
 <a href="https://www.youtube.com/watch?v=nm4xVAx7f0U" target="_blank">
     <img src="https://img.youtube.com/vi/nm4xVAx7f0U/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -3764,7 +3764,7 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
 
 <a href="https://www.youtube.com/watch?v=FMoARgf9rx8" target="_blank">
     <img src="https://img.youtube.com/vi/FMoARgf9rx8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：蘋果醋對身體能量和健康的多重益處
@@ -3797,7 +3797,7 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
 
 <a href="https://www.youtube.com/watch?v=ldi9vElgemE" target="_blank">
     <img src="https://img.youtube.com/vi/ldi9vElgemE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題: 延長禁食的益處與風險  
@@ -3837,7 +3837,7 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
 
 <a href="https://www.youtube.com/watch?v=cFSZk1_nXrY" target="_blank">
     <img src="https://img.youtube.com/vi/cFSZk1_nXrY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -3903,7 +3903,7 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
 
 <a href="https://www.youtube.com/watch?v=3gt2GlVUWYQ" target="_blank">
     <img src="https://img.youtube.com/vi/3gt2GlVUWYQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：葉酸（Folic Acid）與甲基葉酸（Methylfolate）之差異及健康影響
@@ -3957,7 +3957,7 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
 
 <a href="https://www.youtube.com/watch?v=3mVUO1LiqE8" target="_blank">
     <img src="https://img.youtube.com/vi/3mVUO1LiqE8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：環境污染對健康的影響及自然排毒策略
@@ -3996,7 +3996,7 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
 
 <a href="https://www.youtube.com/watch?v=0oPkpa3ovSo" target="_blank">
     <img src="https://img.youtube.com/vi/0oPkpa3ovSo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章要點整理
@@ -4045,7 +4045,7 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
 
 <a href="https://www.youtube.com/watch?v=BfRQVPdUflY" target="_blank">
     <img src="https://img.youtube.com/vi/BfRQVPdUflY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -4093,7 +4093,7 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
 
 <a href="https://www.youtube.com/watch?v=GRtkgrBHySQ" target="_blank">
     <img src="https://img.youtube.com/vi/GRtkgrBHySQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：消化道功能與健康管理
@@ -4150,7 +4150,7 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
 
 <a href="https://www.youtube.com/watch?v=9D2VwqySGwA" target="_blank">
     <img src="https://img.youtube.com/vi/9D2VwqySGwA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -4222,7 +4222,7 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
 
 <a href="https://www.youtube.com/watch?v=AwG_vxtCy_8" target="_blank">
     <img src="https://img.youtube.com/vi/AwG_vxtCy_8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 一、核心主題  
@@ -4280,7 +4280,7 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
 
 <a href="https://www.youtube.com/watch?v=euBpveN9-II" target="_blank">
     <img src="https://img.youtube.com/vi/euBpveN9-II/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：  
@@ -4358,7 +4358,7 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
 
 <a href="https://www.youtube.com/watch?v=iQPfYghxXQI" target="_blank">
     <img src="https://img.youtube.com/vi/iQPfYghxXQI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 重點整理
@@ -4439,7 +4439,7 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
 
 <a href="https://www.youtube.com/watch?v=RuZabnJ45r0" target="_blank">
     <img src="https://img.youtube.com/vi/RuZabnJ45r0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：微生物群與人體健康的綜述
@@ -4507,7 +4507,7 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
 
 <a href="https://www.youtube.com/watch?v=7tHijDSVQrI" target="_blank">
     <img src="https://img.youtube.com/vi/7tHijDSVQrI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -4606,7 +4606,7 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
 
 <a href="https://www.youtube.com/watch?v=i80vA_8MJQI" target="_blank">
     <img src="https://img.youtube.com/vi/i80vA_8MJQI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -4668,7 +4668,7 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
 
 <a href="https://www.youtube.com/watch?v=PFW5dB3G-0c" target="_blank">
     <img src="https://img.youtube.com/vi/PFW5dB3G-0c/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -4729,7 +4729,7 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
 
 <a href="https://www.youtube.com/watch?v=k9beFmo-bP0" target="_blank">
     <img src="https://img.youtube.com/vi/k9beFmo-bP0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -4782,7 +4782,7 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
 
 <a href="https://www.youtube.com/watch?v=g2oVyp0k94E" target="_blank">
     <img src="https://img.youtube.com/vi/g2oVyp0k94E/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -4858,7 +4858,7 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
 
 <a href="https://www.youtube.com/watch?v=H5gFtue6X1I" target="_blank">
     <img src="https://img.youtube.com/vi/H5gFtue6X1I/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -4909,7 +4909,7 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
 
 <a href="https://www.youtube.com/watch?v=gxxJbN2Q58I" target="_blank">
     <img src="https://img.youtube.com/vi/gxxJbN2Q58I/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -4977,7 +4977,7 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
 
 <a href="https://www.youtube.com/watch?v=FEeYVUaL170" target="_blank">
     <img src="https://img.youtube.com/vi/FEeYVUaL170/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 關鍵要點整理
@@ -5060,7 +5060,7 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
 
 <a href="https://www.youtube.com/watch?v=lSwHXE9LohA" target="_blank">
     <img src="https://img.youtube.com/vi/lSwHXE9LohA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -5108,7 +5108,7 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
 
 <a href="https://www.youtube.com/watch?v=e_hOK0cvpLs" target="_blank">
     <img src="https://img.youtube.com/vi/e_hOK0cvpLs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -5177,7 +5177,7 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
 
 <a href="https://www.youtube.com/watch?v=nr6xohai9Ec" target="_blank">
     <img src="https://img.youtube.com/vi/nr6xohai9Ec/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：
@@ -5238,7 +5238,7 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
 
 <a href="https://www.youtube.com/watch?v=A6IgSpyBrQI" target="_blank">
     <img src="https://img.youtube.com/vi/A6IgSpyBrQI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -5275,7 +5275,7 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
 
 <a href="https://www.youtube.com/watch?v=P2dLjZxGAc4" target="_blank">
     <img src="https://img.youtube.com/vi/P2dLjZxGAc4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章總結與結構化整理
@@ -5354,7 +5354,7 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
 
 <a href="https://www.youtube.com/watch?v=JtahmxKjfKs" target="_blank">
     <img src="https://img.youtube.com/vi/JtahmxKjfKs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納與整理
@@ -5428,7 +5428,7 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
 
 <a href="https://www.youtube.com/watch?v=A_oadHYkoV0" target="_blank">
     <img src="https://img.youtube.com/vi/A_oadHYkoV0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：钙与骨骼健康的关系
@@ -5502,7 +5502,7 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
 
 <a href="https://www.youtube.com/watch?v=ezJxUTCI9uo" target="_blank">
     <img src="https://img.youtube.com/vi/ezJxUTCI9uo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：吃東西要均衡攝取？為何這是一項錯誤的建議？
@@ -5583,7 +5583,7 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
 
 <a href="https://www.youtube.com/watch?v=SpA5MJjvRt0" target="_blank">
     <img src="https://img.youtube.com/vi/SpA5MJjvRt0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ```markdown
@@ -5657,7 +5657,7 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
 
 <a href="https://www.youtube.com/watch?v=FKKip5qp6_k" target="_blank">
     <img src="https://img.youtube.com/vi/FKKip5qp6_k/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -5718,7 +5718,7 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
 
 <a href="https://www.youtube.com/watch?v=IDwcr8ogZJQ" target="_blank">
     <img src="https://img.youtube.com/vi/IDwcr8ogZJQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節結構：
@@ -5756,7 +5756,7 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
 
 <a href="https://www.youtube.com/watch?v=z46U53n4qkI" target="_blank">
     <img src="https://img.youtube.com/vi/z46U53n4qkI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節整理：文章重點歸納
@@ -5830,7 +5830,7 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
 
 <a href="https://www.youtube.com/watch?v=EQn7VzMYi4s" target="_blank">
     <img src="https://img.youtube.com/vi/EQn7VzMYi4s/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理： Epstein-Barr 病毒慢性感染的管理與預防
@@ -5879,7 +5879,7 @@ Epstein-Barr 病毒的慢性感染需要綜合性管理，包括壓力管理、�
 
 <a href="https://www.youtube.com/watch?v=2ZlMpE3plKM" target="_blank">
     <img src="https://img.youtube.com/vi/2ZlMpE3plKM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：慢性腎臟病及多囊腎的研究與干預策略
@@ -5962,7 +5962,7 @@ Epstein-Barr 病毒的慢性感染需要綜合性管理，包括壓力管理、�
 
 <a href="https://www.youtube.com/watch?v=W24wS8gWpkw" target="_blank">
     <img src="https://img.youtube.com/vi/W24wS8gWpkw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 重點整理
@@ -6016,7 +6016,7 @@ Epstein-Barr 病毒的慢性感染需要綜合性管理，包括壓力管理、�
 
 <a href="https://www.youtube.com/watch?v=nDRf0Lf5sE0" target="_blank">
     <img src="https://img.youtube.com/vi/nDRf0Lf5sE0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -6055,7 +6055,7 @@ Epstein-Barr 病毒的慢性感染需要綜合性管理，包括壓力管理、�
 
 <a href="https://www.youtube.com/watch?v=zMIHzJ6bGnU" target="_blank">
     <img src="https://img.youtube.com/vi/zMIHzJ6bGnU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：青春痘的成因與解決方案
@@ -6116,7 +6116,7 @@ Epstein-Barr 病毒的慢性感染需要綜合性管理，包括壓力管理、�
 
 <a href="https://www.youtube.com/watch?v=HT3oYW2pQSk" target="_blank">
     <img src="https://img.youtube.com/vi/HT3oYW2pQSk/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：白內障的成因、機制及預防策略
@@ -6177,7 +6177,7 @@ Epstein-Barr 病毒的慢性感染需要綜合性管理，包括壓力管理、�
 
 <a href="https://www.youtube.com/watch?v=XcKc5TXbUH0" target="_blank">
     <img src="https://img.youtube.com/vi/XcKc5TXbUH0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 文章重點整理：鹽分攝取與健康問題的再思考
@@ -6225,7 +6225,7 @@ Epstein-Barr 病毒的慢性感染需要綜合性管理，包括壓力管理、�
 
 <a href="https://www.youtube.com/watch?v=Nx2YpCEL0sU" target="_blank">
     <img src="https://img.youtube.com/vi/Nx2YpCEL0sU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -6312,7 +6312,7 @@ Epstein-Barr 病毒的慢性感染需要綜合性管理，包括壓力管理、�
 
 <a href="https://www.youtube.com/watch?v=-brwl5USn44" target="_blank">
     <img src="https://img.youtube.com/vi/-brwl5USn44/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理： broccoli 莽芽及其健康益處
@@ -6369,7 +6369,7 @@ Epstein-Barr 病毒的慢性感染需要綜合性管理，包括壓力管理、�
 
 <a href="https://www.youtube.com/watch?v=rHTsJmiIx9M" target="_blank">
     <img src="https://img.youtube.com/vi/rHTsJmiIx9M/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理： gallstones: Causes, Symptoms, and Natural Solutions
@@ -6434,7 +6434,7 @@ Epstein-Barr 病毒的慢性感染需要綜合性管理，包括壓力管理、�
 
 <a href="https://www.youtube.com/watch?v=pe3-Y_2rnfo" target="_blank">
     <img src="https://img.youtube.com/vi/pe3-Y_2rnfo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -6497,7 +6497,7 @@ Epstein-Barr 病毒的慢性感染需要綜合性管理，包括壓力管理、�
 
 <a href="https://www.youtube.com/watch?v=2YyMY7_T094" target="_blank">
     <img src="https://img.youtube.com/vi/2YyMY7_T094/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -6559,7 +6559,7 @@ The article emphasizes the importance of integrating these approaches to manage 
 
 <a href="https://www.youtube.com/watch?v=kx-G6ucSsyw" target="_blank">
     <img src="https://img.youtube.com/vi/kx-G6ucSsyw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：不同糖類對健康的影響及健康建議

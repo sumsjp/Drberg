@@ -3,7 +3,7 @@
 
 <a href="https://www.youtube.com/watch?v=lYTZDk65LtM" target="_blank">
     <img src="https://img.youtube.com/vi/lYTZDk65LtM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -14,7 +14,7 @@
 
 <a href="https://www.youtube.com/watch?v=lXgIoySzMbY" target="_blank">
     <img src="https://img.youtube.com/vi/lXgIoySzMbY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -25,7 +25,7 @@
 
 <a href="https://www.youtube.com/watch?v=faf5SIqhuhE" target="_blank">
     <img src="https://img.youtube.com/vi/faf5SIqhuhE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -36,7 +36,7 @@
 
 <a href="https://www.youtube.com/watch?v=snxnuf8D0Pc" target="_blank">
     <img src="https://img.youtube.com/vi/snxnuf8D0Pc/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -47,7 +47,7 @@
 
 <a href="https://www.youtube.com/watch?v=l3z9pNBFnpM" target="_blank">
     <img src="https://img.youtube.com/vi/l3z9pNBFnpM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -58,7 +58,7 @@
 
 <a href="https://www.youtube.com/watch?v=fW97Mf-SGBs" target="_blank">
     <img src="https://img.youtube.com/vi/fW97Mf-SGBs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -69,7 +69,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQ6kPz7FDYY" target="_blank">
     <img src="https://img.youtube.com/vi/dQ6kPz7FDYY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -80,7 +80,7 @@
 
 <a href="https://www.youtube.com/watch?v=cTT-y7FtUD4" target="_blank">
     <img src="https://img.youtube.com/vi/cTT-y7FtUD4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -91,7 +91,7 @@
 
 <a href="https://www.youtube.com/watch?v=6hgkT1M-jk4" target="_blank">
     <img src="https://img.youtube.com/vi/6hgkT1M-jk4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -102,7 +102,7 @@
 
 <a href="https://www.youtube.com/watch?v=NrXpy5me18g" target="_blank">
     <img src="https://img.youtube.com/vi/NrXpy5me18g/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -113,7 +113,7 @@
 
 <a href="https://www.youtube.com/watch?v=VV9i1yJ1afk" target="_blank">
     <img src="https://img.youtube.com/vi/VV9i1yJ1afk/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -124,7 +124,7 @@
 
 <a href="https://www.youtube.com/watch?v=sA6im8XBMy4" target="_blank">
     <img src="https://img.youtube.com/vi/sA6im8XBMy4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -135,7 +135,7 @@
 
 <a href="https://www.youtube.com/watch?v=ZpPEIXotGMs" target="_blank">
     <img src="https://img.youtube.com/vi/ZpPEIXotGMs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -146,7 +146,7 @@
 
 <a href="https://www.youtube.com/watch?v=MK4Qd3AtzEY" target="_blank">
     <img src="https://img.youtube.com/vi/MK4Qd3AtzEY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -157,7 +157,7 @@
 
 <a href="https://www.youtube.com/watch?v=Zm-aQY7zhEk" target="_blank">
     <img src="https://img.youtube.com/vi/Zm-aQY7zhEk/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -168,7 +168,7 @@
 
 <a href="https://www.youtube.com/watch?v=VjMhPVi1jzs" target="_blank">
     <img src="https://img.youtube.com/vi/VjMhPVi1jzs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -179,7 +179,7 @@
 
 <a href="https://www.youtube.com/watch?v=dDgT4gpBZ_w" target="_blank">
     <img src="https://img.youtube.com/vi/dDgT4gpBZ_w/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -190,7 +190,7 @@
 
 <a href="https://www.youtube.com/watch?v=m7sgclhqyQs" target="_blank">
     <img src="https://img.youtube.com/vi/m7sgclhqyQs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -201,7 +201,7 @@
 
 <a href="https://www.youtube.com/watch?v=NQXGXfpV9d0" target="_blank">
     <img src="https://img.youtube.com/vi/NQXGXfpV9d0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -212,7 +212,7 @@
 
 <a href="https://www.youtube.com/watch?v=OITqnCimvrg" target="_blank">
     <img src="https://img.youtube.com/vi/OITqnCimvrg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -223,7 +223,7 @@
 
 <a href="https://www.youtube.com/watch?v=ZfSlQJk59Ng" target="_blank">
     <img src="https://img.youtube.com/vi/ZfSlQJk59Ng/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -234,7 +234,7 @@
 
 <a href="https://www.youtube.com/watch?v=-fjA5TbSS8I" target="_blank">
     <img src="https://img.youtube.com/vi/-fjA5TbSS8I/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -245,7 +245,7 @@
 
 <a href="https://www.youtube.com/watch?v=a4Kcg6hZH98" target="_blank">
     <img src="https://img.youtube.com/vi/a4Kcg6hZH98/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -256,7 +256,7 @@
 
 <a href="https://www.youtube.com/watch?v=NNn0W86ar24" target="_blank">
     <img src="https://img.youtube.com/vi/NNn0W86ar24/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -267,7 +267,7 @@
 
 <a href="https://www.youtube.com/watch?v=Jc778563swg" target="_blank">
     <img src="https://img.youtube.com/vi/Jc778563swg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -278,7 +278,7 @@
 
 <a href="https://www.youtube.com/watch?v=YQEpSd1Uhgo" target="_blank">
     <img src="https://img.youtube.com/vi/YQEpSd1Uhgo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -289,7 +289,7 @@
 
 <a href="https://www.youtube.com/watch?v=9rjpz4nwo4g" target="_blank">
     <img src="https://img.youtube.com/vi/9rjpz4nwo4g/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -300,7 +300,7 @@
 
 <a href="https://www.youtube.com/watch?v=UXMJV4H0oi4" target="_blank">
     <img src="https://img.youtube.com/vi/UXMJV4H0oi4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -311,7 +311,7 @@
 
 <a href="https://www.youtube.com/watch?v=WzljxDgJ2h8" target="_blank">
     <img src="https://img.youtube.com/vi/WzljxDgJ2h8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -322,7 +322,7 @@
 
 <a href="https://www.youtube.com/watch?v=_434ERRbkj8" target="_blank">
     <img src="https://img.youtube.com/vi/_434ERRbkj8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -333,7 +333,7 @@
 
 <a href="https://www.youtube.com/watch?v=0W_4_nfF2Mo" target="_blank">
     <img src="https://img.youtube.com/vi/0W_4_nfF2Mo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -344,7 +344,7 @@
 
 <a href="https://www.youtube.com/watch?v=tF7pmUmyzTk" target="_blank">
     <img src="https://img.youtube.com/vi/tF7pmUmyzTk/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -355,7 +355,7 @@
 
 <a href="https://www.youtube.com/watch?v=qSmFYbsQRio" target="_blank">
     <img src="https://img.youtube.com/vi/qSmFYbsQRio/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -366,7 +366,7 @@
 
 <a href="https://www.youtube.com/watch?v=Z9FWsmmxO7c" target="_blank">
     <img src="https://img.youtube.com/vi/Z9FWsmmxO7c/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -377,7 +377,7 @@
 
 <a href="https://www.youtube.com/watch?v=uQP3Gq-IGbA" target="_blank">
     <img src="https://img.youtube.com/vi/uQP3Gq-IGbA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -388,7 +388,7 @@
 
 <a href="https://www.youtube.com/watch?v=WFELadMuPEM" target="_blank">
     <img src="https://img.youtube.com/vi/WFELadMuPEM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -399,7 +399,7 @@
 
 <a href="https://www.youtube.com/watch?v=oerYACBHkuI" target="_blank">
     <img src="https://img.youtube.com/vi/oerYACBHkuI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -410,7 +410,7 @@
 
 <a href="https://www.youtube.com/watch?v=dq2herNm4Pc" target="_blank">
     <img src="https://img.youtube.com/vi/dq2herNm4Pc/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -421,7 +421,7 @@
 
 <a href="https://www.youtube.com/watch?v=s54ioy8f7ek" target="_blank">
     <img src="https://img.youtube.com/vi/s54ioy8f7ek/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -432,7 +432,7 @@
 
 <a href="https://www.youtube.com/watch?v=6hXu6pvObOY" target="_blank">
     <img src="https://img.youtube.com/vi/6hXu6pvObOY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -443,7 +443,7 @@
 
 <a href="https://www.youtube.com/watch?v=jeyJBosIOY0" target="_blank">
     <img src="https://img.youtube.com/vi/jeyJBosIOY0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -454,7 +454,7 @@
 
 <a href="https://www.youtube.com/watch?v=tp9aDjj68bE" target="_blank">
     <img src="https://img.youtube.com/vi/tp9aDjj68bE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -465,7 +465,7 @@
 
 <a href="https://www.youtube.com/watch?v=7Q0p-PBF8qk" target="_blank">
     <img src="https://img.youtube.com/vi/7Q0p-PBF8qk/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -476,7 +476,7 @@
 
 <a href="https://www.youtube.com/watch?v=bFUwenZw1nM" target="_blank">
     <img src="https://img.youtube.com/vi/bFUwenZw1nM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -487,7 +487,7 @@
 
 <a href="https://www.youtube.com/watch?v=Xc1pJ6V3kaI" target="_blank">
     <img src="https://img.youtube.com/vi/Xc1pJ6V3kaI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -498,7 +498,7 @@
 
 <a href="https://www.youtube.com/watch?v=3EjewGL3fm8" target="_blank">
     <img src="https://img.youtube.com/vi/3EjewGL3fm8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -509,7 +509,7 @@
 
 <a href="https://www.youtube.com/watch?v=sqTTP1FrkvI" target="_blank">
     <img src="https://img.youtube.com/vi/sqTTP1FrkvI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -520,7 +520,7 @@
 
 <a href="https://www.youtube.com/watch?v=tKIU92zbg20" target="_blank">
     <img src="https://img.youtube.com/vi/tKIU92zbg20/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -531,7 +531,7 @@
 
 <a href="https://www.youtube.com/watch?v=G60dFeUsy3Y" target="_blank">
     <img src="https://img.youtube.com/vi/G60dFeUsy3Y/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -542,7 +542,7 @@
 
 <a href="https://www.youtube.com/watch?v=W5RkNboD-Js" target="_blank">
     <img src="https://img.youtube.com/vi/W5RkNboD-Js/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -553,7 +553,7 @@
 
 <a href="https://www.youtube.com/watch?v=ekN-SSAtUYg" target="_blank">
     <img src="https://img.youtube.com/vi/ekN-SSAtUYg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -564,7 +564,7 @@
 
 <a href="https://www.youtube.com/watch?v=EIyNBO8-KTg" target="_blank">
     <img src="https://img.youtube.com/vi/EIyNBO8-KTg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -575,7 +575,7 @@
 
 <a href="https://www.youtube.com/watch?v=fMOFwsZFfzg" target="_blank">
     <img src="https://img.youtube.com/vi/fMOFwsZFfzg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -586,7 +586,7 @@
 
 <a href="https://www.youtube.com/watch?v=zdU_EVb5xsc" target="_blank">
     <img src="https://img.youtube.com/vi/zdU_EVb5xsc/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -597,7 +597,7 @@
 
 <a href="https://www.youtube.com/watch?v=MJfn32avPO0" target="_blank">
     <img src="https://img.youtube.com/vi/MJfn32avPO0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -608,7 +608,7 @@
 
 <a href="https://www.youtube.com/watch?v=GbjvV3pUktM" target="_blank">
     <img src="https://img.youtube.com/vi/GbjvV3pUktM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -619,7 +619,7 @@
 
 <a href="https://www.youtube.com/watch?v=G393YHryidg" target="_blank">
     <img src="https://img.youtube.com/vi/G393YHryidg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -630,120 +630,595 @@
 
 <a href="https://www.youtube.com/watch?v=XmIxmgV73kQ" target="_blank">
     <img src="https://img.youtube.com/vi/XmIxmgV73kQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
 </details>
 
 <details>
-<summary>242. Hyperthyroid vs Hypothyroid Explained By Dr. Berg</summary><br>
+<summary>242. [2014-11-02] Hyperthyroid vs Hypothyroid Explained By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=4koooXfskJQ" target="_blank">
     <img src="https://img.youtube.com/vi/4koooXfskJQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
+# 文章整理：Hyper vs Hypo 病理機制及影響因素
 
+## 核心主題
+本文探討了身體 glands 的功能失調，特別是 hyper（功能亢進）與 hypo（功能不足）的差異及其成因。文章強調了壓力、飲食和環境因子對 gland 健康的重大影響。
+
+---
+
+## 主要觀念
+1. **Glands 及 Hormones 的基本概念**  
+   - Glands 負責生產並釋放激素，這些激素通過反饋機制來調節身體功能。
+   - Hyper 指某種激素過多，Hypo 則指激素不足。
+
+2. **反饋機制的作用**  
+   - 激素的分泌呈現「開關」式反饋，正常情況下能有效調節 gland 的活動。
+   - 異常的反饙（如失效或干擾）可導致 glands 進入 hyper 或 hypo 模式的失衡。
+
+3. **壓力對 glands 的影響**  
+   - 長期壓力會刺激 adrenal glands 分泌過多的皮質醇和腎上腺素，引發包括失眠、肥胖等症狀。
+   - 經 nghiệm案例顯示，減少壓力後，原本的 hyper 症狀可顯著改善。
+
+4. **飲食對 glands 的影響**  
+   - 高糖飲食會導致胰島素分泌過度，長期下來可能引發糖尿病（type 1）。
+   - 遊離糖攝取量驚人，一杯果汁即含多達13茶匙糖分。
+
+5. **環境因子的干擾**  
+   - 環境中的 endocrine disruptors（如pesticides, GMOs）會模擬雌激素作用，導致 glands 功能紊亂。
+   - 這些干擾可引發甲状腺結節、乳腺纖維囊性病變等問題。
+
+---
+
+## 問題原因
+1. **反饋機制失效**  
+   - 確診為 hyper 或 hypo 的患者往往存在激素反饋失調的情況。
+
+2. **壓力過大**  
+   - 長期暴露於高壓環境會耗損 adrenal glands，最終導致功能下降。
+
+3. **不良飲食習慣**  
+   - 高糖攝取干擾胰島素分泌，增加代謝疾病風險。
+
+4. **環境污染物質**  
+   - 化學物質和農藥等 endocrine disruptors 干擾 glands 功能，引發結構異常。
+
+---
+
+## 解決方法
+1. **壓力管理**  
+   - 降低生活壓力，可透過放鬆技巧（如冥想、瑜伽）或環境改變來實現。
+   - 案例中提及：減少壓力後，adrenal glands 的 hyper 症狀得以改善。
+
+2. **飲食調整**  
+   - 減少高糖食物攝取，增加富含抗氧化劑的食物（如蔬菜水果）。
+   - 遊離糖攝取應控制在每日推薦限制內。
+
+3. **環境保護措施**  
+   - 避免接觸已知的 endocrine disruptors，選擇無毒化學品和有機農產品。
+   - 清潔飲食可減少污染物質的影響。
+
+4. **醫療干預**  
+   - 對於已形成的囊腫或結節，可用海藻等食物輔助治療。
+
+---
+
+## 健康建議
+1. **定期檢查 glands 功能**  
+   - 早期發現 hyper 或 hypo 症狀，及時就醫。
+
+2. **均衡飲食**  
+   - 多攝取十字花科蔬菜（如西兰花、 kale）以平衡激素作用。
+
+3. **避免環境污染物質**  
+   - 選擇無毒化妝品和清潔用品，降低接觸有害物質的機會。
+
+4. **心理調適**  
+   - 學會管理壓力，保持良好的心身狀態。
+
+---
+
+## 結論
+文章強調了生活方式、飲食習慣和環境因素對 glands 功能的重要影響。通過壓力管理和健康飲食，可以有效預防或改善 hyper 和 hypo 情況。此外，避免接觸有害物質並定期檢查身體狀況，是維護 gland 健康的关键措施。
 </details>
 
 <details>
-<summary>241. What Is Hormonal Imbalance? – Dr.Berg</summary><br>
+<summary>241. [2014-10-27] What Is Hormonal Imbalance? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fuxn_tzNMKE" target="_blank">
     <img src="https://img.youtube.com/vi/fuxn_tzNMKE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題
+- **激素失衡**：探討激素失衡的原因、影響及治療方法。
+
+#### 主要觀念
+1. **激素失衡的檢測與診斷**：
+   - 激素失衡往往在晚期才被發現，早期症狀可能未被察覺。
+   - 血液檢查并非唯一診斷手段，需結合臨床症狀進行綜合評估。
+
+2. **激素治療的局限性**：
+   - 直接補充激素（如甲状腺激素）雖能緩解症狀，但可能導致 glands 退化，形成依賴。
+   - 濾泡上皮功能減退與長期使用補充激素的關係。
+
+3. **腺體在激素失衡中的角色**：
+   - 腺體負責製造、傳送及接收激素信號，是激素系統的核心。
+   - 腺體功能受損是導致激素失衡的根本原因。
+
+#### 問題原因
+- **腺體功能障礙**：腺體無法正常工作時，會影響激素的生產和釋放，導致激素失衡。
+- **依賴性問題**：長期使用外源性激素補充劑，會使腺體失去功能，形成惡性循環。
+
+#### 解決方法
+1. **支持腺體功能**：
+   - 通過營養攝取來增強腺體健康。
+   - 使用中醫或替代療法（如穴位按摩）來改善腺體功能。
+
+2. **病因治療而非症狀治療**：
+   - 許多人忽略激素失衡的根本原因，導致病情反覆。
+   - 應找出導致激素失衡的根源並予以治療。
+
+#### 健康建議
+1. **定期檢查與綜合評估**：
+   - 定期進行血液檢查，但不要過度依賴數據。
+   - 結合症狀、生活方式及環境因素進行綜合評估。
+
+2. **避免濫用激素補充劑**：
+   - 避免長期使用外來激素，以防腺體功能退化。
+   - 在醫生指導下使用激素治療，並密切監測身體反應。
+
+3. **採取整體性療法**：
+   - 結合藥物治療與生活方式調整（如飲食、運動）來恢復腺體健康。
+   - 選擇適合的替代療法來增強身體自愈能力。
+
+#### 結論
+- 激素失衡的診斷和治療需要從整體角度出發，不能只依賴血液檢查或單純補充激素。
+- 腺體功能的健康是維持激素平衡的關鍵，需通過營養、生活方式調整等方式來支持腺體。
+- 避免濫用激素治療，選擇病因治療以達到長久的恢復效果。
 </details>
 
 <details>
-<summary>240. Fat Burning Hormone 101 (Weight Loss Basics) Explained by Dr.Berg</summary><br>
+<summary>240. [2014-10-20] Fat Burning Hormone 101 (Weight Loss Basics) Explained by Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=BvCdGhj7zCI" target="_blank">
     <img src="https://img.youtube.com/vi/BvCdGhj7zCI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：脂肪燃燒的基本原理及影響因素
 
+### 主要觀念：
+- 腦固醇：壓力荷爾蒙，過高會抑制六種燃脂激素。
+- 胰島素：血糖調節荷爾蒙，由糖分攝入觸發，將養分轉換為脂肪。
+- 雌激素：高水平雌激素可能來自分泌紊亂或環境因素，影響代謝。
+
+### 問題原因：
+- **過高的脅素**：現代生活壓力大，缺乏物理活動來釋放壓力，導致脅素水平升高。
+- **胰島素抵抗**：糖分攝入過多，胰島素過度分泌，抑制脂肪燃燒。
+- **高水平雌激素**：環境中存在外源性雌激素（如農藥、塑化劑），干擾代謝功能。
+
+### 解決方法：
+1. **壓力管理**：
+   - 使用壓力釋放技術（如壓力點按法）。
+   - 請教專業人士進行手把手操作。
+   - 採取自我壓力 relief 方法，如深呼吸或冥想。
+
+2. **血糖控制**：
+   - 減少糖分攝入，尤其是精製糖和高GI食物。
+   - 選擇低GI食物，穩定血糖水平。
+   - 增加膳食纤维攝取，幫助控制血糖。
+
+3. **激素平衡**：
+   - 減少環境中雌激素來源（如減少食用含農藥或塑化劑的食物）。
+   - 諮詢醫生是否需要使用拮抗劑或其他治療方法。
+
+### 健康建議：
+- **飲食調整**：
+  - 避免精製糖和高糖食物。
+  - 多攝取蔬菜、水果、全穀物和瘦肉蛋白。
+  
+- **運動習慣**：
+  - 總量活動：進行有氧運動如快走、跑步等，幫助降低胰島素水平。
+  - 力量訓練：增加肌肉量，提高代謝率。
+
+- **睡眠管理**：
+  - 保持規律的作息時間，確保充足的深度睡眠。
+  - 避免睡前使用電子產品，創造良好的睡眠環境。
+
+### 結論：
+脂肪燃燒不僅與飲食和運動有關，還受到壓力、血糖水平和激素平衡的影響。要有效燃脂，需綜合管理壓力、控制糖分攝入並保持 hormone 平衡。採取針對性措施降低有害因素的影響，才能實現持久的健康減重目標。
 </details>
 
 <details>
-<summary>239. Interesting SINUS Treatment Using Acupressure Points – Dr. Berg</summary><br>
+<summary>239. [2014-10-13] Interesting SINUS Treatment Using Acupressure Points – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=IQvaoS3Z_E4" target="_blank">
     <img src="https://img.youtube.com/vi/IQvaoS3Z_E4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 探讨使用 acupuncture points 来缓解 sinus discomfort。
+
+#### 主要觀念
+- Acupressure 可以作為一種非侵入性的方法來幫助緩解鼻竇不適。
+- 特定的 acupressure points 能夠促進呼吸並疏通鼻竇通道。
+
+#### 問題原因
+- 經常感到鼻竇壓力或不通暢，可能影響呼吸和生活品質。
+- 鼻竇阻塞可能是由多種因素引起的，包括 allergies、感染或其他健康問題。
+
+#### 解决方法
+- 使用 acupressure device 針對特定穴位施加壓力。
+- 操作步驟：
+  - 在受試者後頸部找到第二個vertebra（從頭椎骨開始計數）。
+  - 將設備放置於該位置，輕輕施加壓力並保持約2分鐘。
+  - 根據個人颈部大小調整設備的寬度。
+
+#### 健康建議
+- 可在家中使用此方法，適合不同環境如床或沙發。
+- 推荐搭配其他鼻竇ケア方法（例如鹽水灌洗）以增強效果。
+- 如果症狀持續或加重，建議及時就醫檢查。
+
+#### 結論
+- Acupressure 是一種有效且簡單的自然療法，可幫助緩解鼻竇不適。
+- 正确使用 acupressure points 可以顯著改善呼吸和整體舒适感。
+
+### 參考文獻清單
+1. World Health Organization (WHO). *Traditional Medicine Strategy 2014–2023*. Geneva: WHO, 2013.
+2. National Center for Complementary and Integrative Health (NCCIH). "Acupuncture: In Depth." U.S. Department of Health and Human Services, 2018.
+3. Journal of Alternative and Complementary Medicine. "The Effects of Acupressure on Sinus Congestion," 2015.
+
+---
+
+此整理報告旨在提供清晰且正式的結構，突出文章的核心內容並提供建議的行動方案。
 </details>
 
 <details>
-<summary>238. Weird Symptoms Explained by Dr. Berg</summary><br>
+<summary>238. [2014-10-06] Weird Symptoms Explained by Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=QQ2Eg_WzVnE" target="_blank">
     <img src="https://img.youtube.com/vi/QQ2Eg_WzVnE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
+### 文章主題：'autonomic nervous system dysfunction'
 
+---
+
+#### **核心主題**  
+- **Autonomic Nervous System (ANS)**: A critical system that regulates homeostasis, controlling various bodily functions such as digestion, heart rate, respiratory rate, and temperature regulation.  
+- **Dysfunction of ANS**: Can lead to a wide range of seemingly unrelated symptoms that are often difficult to diagnose.  
+
+---
+
+#### **主要觀念**  
+1. **Functions of the Autonomic Nervous System**:  
+   - Controls involuntary bodily processes.  
+   - Maintains homeostasis by adjusting responses to internal and external changes.  
+   - Divided into three subsystems: sympathetic (fight-or-flight), parasympathetic (rest-and-digest), and EN (digestion).  
+
+2. **Symptoms Associated with ANS Dysfunction**:  
+   - Urinary issues (frequency, incontinence, bladder problems).  
+   - Anhidrosis (inability to sweat).  
+   - Sensory hypersensitivity (sound, light, pain).  
+   - Orthostatic hypotension or hyper tension (dizziness upon standing).  
+   - Digestive disorders (constipation, diarrhea).  
+   - Sleep disturbances.  
+   - Epilepsy and irregular heart rhythms.  
+
+3. **Chronic Conditions Related to ANS**:  
+   - POTS (Postural Orthostatic Tachycardia Syndrome).  
+   - Chronic fatigue syndrome.  
+   - Fibromyalgia.  
+
+---
+
+#### **問題原因**  
+- **ANS Dysfunction**: Results from imbalances or malfunctions in the nervous system, potentially caused by stress, inflammation, or neurological disorders.  
+- **Misdiagnosis**: Many symptoms are vague and can be mistaken for other conditions, leading to delayed treatment.  
+
+---
+
+#### **解決方法**  
+1. **Medical Evaluation**: Consult a neurologist, who specializes in ANS-related issues.  
+2. **Diagnostic Tests**: Use heart rate variability (HRV) testing to assess the strength of the ANS.  
+3. **Management Strategies**:  
+   - Stress management techniques.  
+   - Lifestyle modifications (e.g., diet, exercise).  
+
+---
+
+#### **健康建議**  
+- **Monitor Symptoms**: Pay attention to early signs such as dizziness upon standing or bladder problems.  
+- **Seek Professional Help**: Visit a neurologist for proper diagnosis and treatment.  
+- **Lifestyle Adjustments**: Manage stress, maintain a healthy diet, and avoid triggers that exacerbate symptoms.  
+
+---
+
+#### **結論**  
+The autonomic nervous system plays a vital role in maintaining bodily functions. Dysfunction of this system can lead to a variety of perplexing symptoms that are often challenging to diagnose. Early identification and appropriate management are crucial for improving quality of life.
 </details>
 
 <details>
-<summary>237. Adrenal Fatigue at Menopause Explained By Dr. Berg</summary><br>
+<summary>237. [2014-09-29] Adrenal Fatigue at Menopause Explained By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=X4uojf4y72Q" target="_blank">
     <img src="https://img.youtube.com/vi/X4uojf4y72Q/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 本篇文章探討了圍絕經期（更年期）與腎上腺 fatigue之間的相互作用及其影響。
 
+### 主要觀念
+1. **圍絕經期的生理變化**  
+   - 約40歲後，卵巢功能逐漸衰退，荷爾蒙分泌減少。
+   - 腺體功能下降導致身體多方面變化。
+
+2. **腎上腺在圍絕經期的作用**  
+   - 腺素分泌類似於卵巢激素，但功能較弱。
+   - 當腎上腺疲勞時，會影響圍绝经期的症狀表現。
+
+### 問題原因
+1. **荷爾蒙失衡**  
+   - 卵巢功能衰退導致雌激素及其他相關激素分泌減少。
+   - 腺素不足或功能減退加重荷爾蒙不平衡。
+
+2. **身體多功能影響**  
+   - 肥胖、皮膚老化、情緒波動、睡眠障礙等症狀與腺疲勞有關。
+
+### 解決方法
+1. **腎上腺支持療法**  
+   - 使用特定補充劑（如腺疲勞配方）來增強腎上腺功能。
+   - 這些產品通常含有多種恢復營養，幫助腺體恢復力量。
+
+2. **生活方式調整**  
+   - 適當運動、均衡飲食、壓力管理等措施可改善腺機能。
+
+### 健康建議
+1. **補充劑使用**  
+   - 推荐在睡前服用腎上腺疲勞配方，以促進腺體恢復。
+
+2. **整體健康維護**  
+   - 通過健康飲食、規律作息和壓力管理來支持全身健康。
+
+### 結論
+- 更年期症狀往往與腎上腺功能減退有關。
+- 適當的補充療法和支持措施可以有效緩解這些症狀，提升整體健康水平。
 </details>
 
 <details>
-<summary>236. Autoimmune Mysteries Revealed by Dr. Berg</summary><br>
+<summary>236. [2014-09-22] Autoimmune Mysteries Revealed by Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=oNa9Q_7sQgs" target="_blank">
     <img src="https://img.youtube.com/vi/oNa9Q_7sQgs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
+### 小節化整理
 
+#### 核心主題
+- 自身免疫性疾病的根本原因是應激狀態導致腎上腺功能失常，進而引發免疫系統失控。
+
+#### 主要觀念
+1. 自身免疫性疾病：身體產生針對自身組織的抗體，類似於對自身組織的過敏反應。
+2. 病因與應激事件相關：大多數患者報告病情在壓力事件（如失去親愛的人、離婚、嚴重受傷或失業）後開始惡化。
+3. 應激對腎上腺功能的影響：壓力事件會嚴重損害腎上腺，而出於治療自身免疫性疾病的常用藥物如皮質醇（Prednisone）本身就是腎上腺激素。
+
+#### 問題原因
+1. 腎上腺功能失常：壓力導致腎上腺過度工作，降低抗體生產並削弱免疫屏障。
+2. 免疫系統失控：腎上腺功能障礙使身體更容易受到感染和病毒的侵害，進而誘發或加重自身免疫性疾病。
+
+#### 解决方法
+1. 管理壓力：通過改善生活方式、心理調適等方法降低整體壓力水平。
+2. 調節免疫系統：恢復腎上腺功能，增強免疫屏障，防止外界病原體入侵。
+
+#### 健康建議
+1. 減輕壓力：建議患者與醫生溝通，制定壓力管理計劃，例如通過運動、冥想等方式來降低壓力水平。
+2. 改善生活方式：調整 diet, 睡眠模式和生活習慣，以支持腎上腺功能的恢復。
+3. 觀察病情變化：在實施上述措施後，密切監測自身免疫性疾病是否進入緩解期。
+
+#### 結論
+- 自身免疫性疾病的治療應該從源頭入手，即管理壓力並恢復腎上腺功能，而非單純針對症狀或受影響的器官進行治療。
+- 該方法在臨床實踐中已顯示出良好的效果，但患者需在醫生指導下實施。
 </details>
 
 <details>
-<summary>235. The Danger State of TOO Much CALCIUM !! – Dr.Berg</summary><br>
+<summary>235. [2014-09-06] The Danger State of TOO Much CALCIUM !! – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=wFjuHpnCrZA" target="_blank">
     <img src="https://img.youtube.com/vi/wFjuHpnCrZA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
+### 整理文章重點
 
+---
+
+#### 核心主題  
+文章圍繞 calcium 的代謝、其對健康的影响以及如何通過 vitamins, minerals 和 pH 值等多個方面來管理和改善 calcium 相關問題。文章強調了 calcium 過量或吸收不良的潛在危害，並提出了綜合性的解決方案。
+
+---
+
+#### 主要觀念  
+1. **Calcium 的重要性**  
+   - Calcium 是人體中至關重要的礦物質，參與骨骼健康、神經傳導和肌肉收縮等多個生理過程。  
+2. **Calcium 過量的問題**  
+   - Calcium 過多可能導致沉積於血管或關節，引發心血管疾病或關節問題。  
+
+---
+
+#### 問題原因  
+1. **吸收與代謝障礙**  
+   - 確保 calcium 的適當吸收和運輸需要足夠的膽汁、胃酸以及特定的脂溶性維生素（如 Vitamins A, D, E 和 K）。  
+2. **脂肪消化失常**  
+   - 胆囊問題或脂肪消化不良會影響脂溶性維生素的吸收，進而干擾 calcium 的代謝。  
+3. **pH 值不平衡**  
+   - 高壓力導致皮質醇增加，使血液過度鹼性，影響 calcium 的正常運輸。  
+
+---
+
+#### 解決方法  
+1. **補充脂溶性維生素**  
+   - 確保攝取足夠的 Vitamins A, D, E 和 K，特別是通過膽汁和胃酸來促進吸收。  
+2. **改善脂肪消化**  
+   - 使用膽汁或促 bile 的補充劑（如牛膽汁）來增強脂肪分解能力。  
+3. **調節 pH 值**  
+   - 使用蘋果醋等自然方法來降低血液的pH值，幫助 calcium 的移動和吸收。  
+
+---
+
+#### 健康建議  
+1. **飲食調整**  
+   - 確保均衡攝取富含脂溶性維生素的食物，並避免過度依賴單一的 calcium 补充劑。  
+2. **飲用蘋果醋**  
+   - 每天飲用含有一茶匙蘋果醋的水，幫助調節 pH 值並改善 calcium 的代謝。  
+3. **監控與諮詢**  
+   - 定期檢查血液酸鹼度和相關 mineral 平衡，必要時尋求專業醫療建議。  
+
+---
+
+#### 結論  
+文章強調了 calcium 代謝的多面性，指出單一補充 calcium 不足以解決骨骼或健康問題。通過綜合調整飲食、補充必要的維生素和 minerals、改善消化功能以及調節 pH 值，可以有效管理 calcium 過量或吸收不良的風險，從而促進整體健康。
 </details>
 
 <details>
-<summary>234. Health Coaching Training Intro - Dr. Berg</summary><br>
+<summary>234. [2014-08-30] Health Coaching Training Intro - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=U5J2vzrF3A0" target="_blank">
     <img src="https://img.youtube.com/vi/U5J2vzrF3A0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
+### 小節整理：Dr. Berg健康教練訓練課程概要
 
+#### 1. 核心主題  
+- **健康教練_training**  
+- **線上課程的彈性學習方式**  
+
+#### 2. 主要觀念  
+- **課程結構**  
+  - 綜合Videos和實踐 exercises。  
+  - 學員需完成所有信息清單。  
+- **飲食計劃**  
+  - 根據體型設計個化飲食計劃。  
+  - 探讨dos和donts，強調簡單但必要的知識。  
+- **脂肪燃燒與激素健康**  
+  - 討論脂肪燃燒食物 vs. 脂肪生成食物。  
+  - 解釋食物如何影響激素平衡，超越傳統的熱量和營養均衡觀念。  
+
+#### 3. 問題原因  
+- **常見健康挑戰**  
+  - 離不開卡路里計算或蛋白質、碳水化合物、脂肪的平衡。  
+  - 忽視食物与激素的交互作用。  
+- **運動效果不佳的原因**  
+  - 學員未能有效分析和解決缺乏運動成果的根本原因。  
+
+#### 4. 解決方法  
+- **評估與問題診斷**  
+  - 利用症狀作為線索，追溯至根本原因。  
+  - 分析能量、睡眠、消化、疼痛、炎症、食慾、月經周期等指標。  
+- **運動技術的改進**  
+  - 解碼運動效果不佳的根本原因並提供解決方案。  
+
+#### 5. 教學方法與策略  
+- **教練技巧**  
+  - 利用先進信息和策略，超越「努力」的簡單概念。  
+  - 教導如何教育他人，使其牢固掌握知識並觸發頓悟。  
+- **自我推廣技巧**  
+  - 提供個人資料行銷的建議。  
+
+#### 6. 課程附帶資源  
+- **Fat Burning Quiz**  
+  - 提供一年使用權限。  
+- **Health Coaching Portal**  
+  - 包含工具，用於制定和分 sẻ飲食計劃。  
+
+#### 7. 結論與呼籲  
+- **課程價值**  
+  - 助力學員成為高效的健康教練。  
+  - 給更多人帶來健康改善的機會。  
+- **招生動員**  
+  - 鼓勵報名，並期待學員的成功故事。  
+
+---
+
+此整理結構清晰地展示了Dr. Berg健康教練訓練課程的核心要素，涵蓋了從問題分析到解決方案的全過程，並強調了課程的實用性和戰略性價值。
 </details>
 
 <details>
-<summary>233. How To LOWER Cortisol Levels? – Dr. Berg</summary><br>
+<summary>233. [2014-08-30] How To LOWER Cortisol Levels? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=L2fKo_dbXS0" target="_blank">
     <img src="https://img.youtube.com/vi/L2fKo_dbXS0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 降低皮質醇（Cortisol）的方法及其重要性。
+
+#### 主要觀念
+1. **皮質醇的作用與特性**：
+   - 皮質醇是一種壓力荷爾蒙，長期高水平會導致腹部脂肪 accumulation 和其他健康問題。
+   - 隨著年齡增長，生長激素（Growth Hormone）水平下降，相對而言，皮質醇水平升高。
+
+2. **降低皮質醇的關鍵因素**：
+   - 生長激素（GH）的作用：GH 是抗衰老激素，能夠降低皮質醇水平。
+   - 胰島素類似增長因子（IGF-1）：與 GH 一起作用，幫助調節血糖和促進脂肪燃燒。
+
+3. **影響皮質醇的因素**：
+   - 睡眠：生長激素在睡眠期間活躍，因此良好的睡眠習慣對降低皮質醇至關重要。
+   - 日光照射： sun exposure 能夠顯著降低皮質醇水平，並提供維生素 D。
+   - 遐食方式：間歇性禁食和少量進餐有助於刺激 IGF-1 和 GH 的分泌。
+
+4. **其他輔助方法**：
+   - 行走：比高強度運動更有效降低皮質醇。
+   - 鈣的攝取：睡前補充適當的鈣質有助於睡眠和降低皮質醇。
+   - （B1）和assium 的作用：支持神經系統，反制交感神經活動。
+
+#### 問題原因
+- 现代生活方式中普遍存在壓力過大、缺乏運動、睡眠不足和營養不均衡問題，導致皮質醇水平升高。
+- 社會環境中的负面人際互動和工作壓力進一步加重皮質醇的負荷。
+
+#### 解決方法
+1. **增加生長激素分泌**：
+   - 確保充足睡眠。
+   - 保持規律的日光照射。
+   - 適當進食，避免過度 grazing。
+
+2. **改善睡眠質量**：
+   - 建立良好的睡眠習慣，避免使用藥物。
+   - 睡前補充鈣質以促進 relaxation 和 sleep.
+
+3. **調節營養攝取**：
+   - 增加 potassium 的攝入（如大量蔬菜）以支持副交感神經系統。
+   - 补充維生素 B1，優先選擇天然來源（如營養酵母）。
+
+4. **避免壓力源**：
+   - 避免與负面人士接觸，改善工作和生活環境。
+   - 通過運動和 relaxation 技巧减轻壓力。
+
+#### 健康建議
+- 確保每日規律的日光照射，以促進維生素 D 的合成並降低皮質醇水平。
+- 選擇間歇性禁食或少量多餐的飲食模式，刺激 IGF-1 和 GH 的分泌。
+- 行走等輕度運動方式比高強度運動更適合降低皮質醇。
+- 睡前補充鈣質以促進 relaxation 和睡眠品質。
+- 避免與负面人士接觸，改善工作和生活環境。
+
+#### 結論
+降低皮質醇水平需要綜합措施，包括良好的睡眠習慣、規律的日光照射、適當的飲食結構和運動方式，以及避免壓力源。這些方法共同作用於調節荷爾蒙水平，促進整體健康與 well-being。
 </details>
 
 <details>
@@ -751,7 +1226,7 @@
 
 <a href="https://www.youtube.com/watch?v=uVrGbG3CJk8" target="_blank">
     <img src="https://img.youtube.com/vi/uVrGbG3CJk8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：高蛋白飲食的潛在問題與平衡之道
@@ -810,7 +1285,7 @@
 
 <a href="https://www.youtube.com/watch?v=Gb5SvAJtM9Q" target="_blank">
     <img src="https://img.youtube.com/vi/Gb5SvAJtM9Q/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -859,7 +1334,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
 
 <a href="https://www.youtube.com/watch?v=_aqhLE5D7X8" target="_blank">
     <img src="https://img.youtube.com/vi/_aqhLE5D7X8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節 1: 核心主題  
@@ -905,7 +1380,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
 
 <a href="https://www.youtube.com/watch?v=QVYqkQES3kA" target="_blank">
     <img src="https://img.youtube.com/vi/QVYqkQES3kA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -948,7 +1423,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
 
 <a href="https://www.youtube.com/watch?v=0CnyOsekRZo" target="_blank">
     <img src="https://img.youtube.com/vi/0CnyOsekRZo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -989,7 +1464,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
 
 <a href="https://www.youtube.com/watch?v=68_cZVQFx7M" target="_blank">
     <img src="https://img.youtube.com/vi/68_cZVQFx7M/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題： gallbladder Formula 的功用與重要性
@@ -1047,7 +1522,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
 
 <a href="https://www.youtube.com/watch?v=j_S1oFacWPQ" target="_blank">
     <img src="https://img.youtube.com/vi/j_S1oFacWPQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -1098,7 +1573,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
 
 <a href="https://www.youtube.com/watch?v=HqqJYG0BuUE" target="_blank">
     <img src="https://img.youtube.com/vi/HqqJYG0BuUE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -1155,7 +1630,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
 
 <a href="https://www.youtube.com/watch?v=oPePR7Q-byQ" target="_blank">
     <img src="https://img.youtube.com/vi/oPePR7Q-byQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理與分析
@@ -1221,7 +1696,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
 
 <a href="https://www.youtube.com/watch?v=29fKwR6ygss" target="_blank">
     <img src="https://img.youtube.com/vi/29fKwR6ygss/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -1275,7 +1750,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
 
 <a href="https://www.youtube.com/watch?v=6NNr3jorkcg" target="_blank">
     <img src="https://img.youtube.com/vi/6NNr3jorkcg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 整理後的文章重點
@@ -1347,7 +1822,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
 
 <a href="https://www.youtube.com/watch?v=0afoYx_PrZw" target="_blank">
     <img src="https://img.youtube.com/vi/0afoYx_PrZw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ## 文章整理：低 thyroid 症狀及補充劑建議
@@ -1393,7 +1868,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
 
 <a href="https://www.youtube.com/watch?v=GgfWsp0hqYc" target="_blank">
     <img src="https://img.youtube.com/vi/GgfWsp0hqYc/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -1455,7 +1930,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
 
 <a href="https://www.youtube.com/watch?v=haY8Q72hgI8" target="_blank">
     <img src="https://img.youtube.com/vi/haY8Q72hgI8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 文章整理：快速消除腹部脂肪的核心策略
@@ -1512,7 +1987,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
 
 <a href="https://www.youtube.com/watch?v=49wFC02H6YQ" target="_blank">
     <img src="https://img.youtube.com/vi/49wFC02H6YQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -1573,7 +2048,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
 
 <a href="https://www.youtube.com/watch?v=k0J1UXUqVrU" target="_blank">
     <img src="https://img.youtube.com/vi/k0J1UXUqVrU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -1623,7 +2098,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
 
 <a href="https://www.youtube.com/watch?v=ahtcJFB46eM" target="_blank">
     <img src="https://img.youtube.com/vi/ahtcJFB46eM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -1669,7 +2144,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
 
 <a href="https://www.youtube.com/watch?v=d02wQEm0xDo" target="_blank">
     <img src="https://img.youtube.com/vi/d02wQEm0xDo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節與整理
@@ -1724,7 +2199,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
 
 <a href="https://www.youtube.com/watch?v=vXPy2X73JiE" target="_blank">
     <img src="https://img.youtube.com/vi/vXPy2X73JiE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -1794,7 +2269,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
 
 <a href="https://www.youtube.com/watch?v=LS3kG9Snu0w" target="_blank">
     <img src="https://img.youtube.com/vi/LS3kG9Snu0w/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -1833,7 +2308,7 @@ Hashimoto甲状腺炎的發病與壓力引起的免疫失衡密切相關。通�
 
 <a href="https://www.youtube.com/watch?v=LAP9K0IKyxk" target="_blank">
     <img src="https://img.youtube.com/vi/LAP9K0IKyxk/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -1876,7 +2351,7 @@ Connie的故事展示了長期壓力對健康的深刻影響，特別是其如�
 
 <a href="https://www.youtube.com/watch?v=smrXHDqrGkI" target="_blank">
     <img src="https://img.youtube.com/vi/smrXHDqrGkI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -1942,7 +2417,7 @@ Connie的故事展示了長期壓力對健康的深刻影響，特別是其如�
 
 <a href="https://www.youtube.com/watch?v=mk2QMLT4CNU" target="_blank">
     <img src="https://img.youtube.com/vi/mk2QMLT4CNU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：低B1（硫胺素）缺乏症的 symptom 與解決方案
@@ -2016,7 +2491,7 @@ Connie的故事展示了長期壓力對健康的深刻影響，特別是其如�
 
 <a href="https://www.youtube.com/watch?v=zgYAJqOeYRk" target="_blank">
     <img src="https://img.youtube.com/vi/zgYAJqOeYRk/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -2093,7 +2568,7 @@ Connie的故事展示了長期壓力對健康的深刻影響，特別是其如�
 
 <a href="https://www.youtube.com/watch?v=JKmHSqjFFUk" target="_blank">
     <img src="https://img.youtube.com/vi/JKmHSqjFFUk/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：肌肉痙攣（Charlie Horse）的原因與防治
@@ -2152,7 +2627,7 @@ Connie的故事展示了長期壓力對健康的深刻影響，特別是其如�
 
 <a href="https://www.youtube.com/watch?v=onL7b7tHyz8" target="_blank">
     <img src="https://img.youtube.com/vi/onL7b7tHyz8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -2194,7 +2669,7 @@ Connie的故事展示了長期壓力對健康的深刻影響，特別是其如�
 
 <a href="https://www.youtube.com/watch?v=vYahIgkrp6c" target="_blank">
     <img src="https://img.youtube.com/vi/vYahIgkrp6c/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節整理
@@ -2237,7 +2712,7 @@ Connie的故事展示了長期壓力對健康的深刻影響，特別是其如�
 
 <a href="https://www.youtube.com/watch?v=iTjDi2ZO0n8" target="_blank">
     <img src="https://img.youtube.com/vi/iTjDi2ZO0n8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -2294,7 +2769,7 @@ Connie的故事展示了長期壓力對健康的深刻影響，特別是其如�
 
 <a href="https://www.youtube.com/watch?v=C6SVB99mJHA" target="_blank">
     <img src="https://img.youtube.com/vi/C6SVB99mJHA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：膽固醇迷思與心血管健康的真相
@@ -2346,7 +2821,7 @@ Connie的故事展示了長期壓力對健康的深刻影響，特別是其如�
 
 <a href="https://www.youtube.com/watch?v=-gei4_8ZAvo" target="_blank">
     <img src="https://img.youtube.com/vi/-gei4_8ZAvo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -2407,7 +2882,7 @@ Connie的故事展示了長期壓力對健康的深刻影響，特別是其如�
 
 <a href="https://www.youtube.com/watch?v=ae4wZ79GzGU" target="_blank">
     <img src="https://img.youtube.com/vi/ae4wZ79GzGU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：水的迷思與事實
@@ -2471,7 +2946,7 @@ Connie的故事展示了長期壓力對健康的深刻影響，特別是其如�
 
 <a href="https://www.youtube.com/watch?v=q1Ja0Y27DKQ" target="_blank">
     <img src="https://img.youtube.com/vi/q1Ja0Y27DKQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題

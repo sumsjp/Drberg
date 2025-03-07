@@ -3,7 +3,7 @@
 
 <a href="https://www.youtube.com/watch?v=nZV1oYv5Ddo" target="_blank">
     <img src="https://img.youtube.com/vi/nZV1oYv5Ddo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -61,7 +61,7 @@
 
 <a href="https://www.youtube.com/watch?v=_zHW-dDl3tM" target="_blank">
     <img src="https://img.youtube.com/vi/_zHW-dDl3tM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -115,7 +115,7 @@
 
 <a href="https://www.youtube.com/watch?v=gKviXbX8xGM" target="_blank">
     <img src="https://img.youtube.com/vi/gKviXbX8xGM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：快速概覽與分析
@@ -178,7 +178,7 @@
 
 <a href="https://www.youtube.com/watch?v=0QftLonhnuk" target="_blank">
     <img src="https://img.youtube.com/vi/0QftLonhnuk/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -244,7 +244,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 
 <a href="https://www.youtube.com/watch?v=BlnOEpsPt1A" target="_blank">
     <img src="https://img.youtube.com/vi/BlnOEpsPt1A/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -320,7 +320,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 
 <a href="https://www.youtube.com/watch?v=AtBElcAs6H0" target="_blank">
     <img src="https://img.youtube.com/vi/AtBElcAs6H0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理與分析
@@ -382,7 +382,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 
 <a href="https://www.youtube.com/watch?v=JNxZiBTWxSU" target="_blank">
     <img src="https://img.youtube.com/vi/JNxZiBTWxSU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -478,7 +478,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 
 <a href="https://www.youtube.com/watch?v=GcRNVf9XU-M" target="_blank">
     <img src="https://img.youtube.com/vi/GcRNVf9XU-M/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：肾脏健康与饮食的关系
@@ -515,7 +515,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 
 <a href="https://www.youtube.com/watch?v=XEcssz8NOhg" target="_blank">
     <img src="https://img.youtube.com/vi/XEcssz8NOhg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -582,7 +582,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 
 <a href="https://www.youtube.com/watch?v=kUmXIXsMi0g" target="_blank">
     <img src="https://img.youtube.com/vi/kUmXIXsMi0g/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：七大锌缺乏症狀及其影響與解決方案
@@ -635,7 +635,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 
 <a href="https://www.youtube.com/watch?v=OiU1B6VNDvQ" target="_blank">
     <img src="https://img.youtube.com/vi/OiU1B6VNDvQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節整理
@@ -692,7 +692,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 
 <a href="https://www.youtube.com/watch?v=8OSlBn6qRqs" target="_blank">
     <img src="https://img.youtube.com/vi/8OSlBn6qRqs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理與分析
@@ -744,7 +744,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 
 <a href="https://www.youtube.com/watch?v=7lSQ2hnycLg" target="_blank">
     <img src="https://img.youtube.com/vi/7lSQ2hnycLg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -795,7 +795,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 
 <a href="https://www.youtube.com/watch?v=t0jf5NRwKBM" target="_blank">
     <img src="https://img.youtube.com/vi/t0jf5NRwKBM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：病毒感染與免疫系統的對抗策略
@@ -843,7 +843,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 
 <a href="https://www.youtube.com/watch?v=r5_NvTvJBY4" target="_blank">
     <img src="https://img.youtube.com/vi/r5_NvTvJBY4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：均衡飲食與營養豐富食譜
@@ -899,7 +899,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 
 <a href="https://www.youtube.com/watch?v=3Mo1F8ce1yY" target="_blank">
     <img src="https://img.youtube.com/vi/3Mo1F8ce1yY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：關於麵包的健康與選擇
@@ -964,7 +964,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 
 <a href="https://www.youtube.com/watch?v=JmCBAkmJ-rs" target="_blank">
     <img src="https://img.youtube.com/vi/JmCBAkmJ-rs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 文章重點整理
@@ -1039,7 +1039,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 
 <a href="https://www.youtube.com/watch?v=tpo_Iv4EN98" target="_blank">
     <img src="https://img.youtube.com/vi/tpo_Iv4EN98/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節整理：
@@ -1079,7 +1079,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 
 <a href="https://www.youtube.com/watch?v=AXq2ZdXXFCU" target="_blank">
     <img src="https://img.youtube.com/vi/AXq2ZdXXFCU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 維生素D缺乏症的主要表現、原因及解決方案
@@ -1122,7 +1122,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 
 <a href="https://www.youtube.com/watch?v=4t4_ehyKDsU" target="_blank">
     <img src="https://img.youtube.com/vi/4t4_ehyKDsU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理與分析
@@ -1191,7 +1191,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 
 <a href="https://www.youtube.com/watch?v=xUu0vqcP7fE" target="_blank">
     <img src="https://img.youtube.com/vi/xUu0vqcP7fE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：高血壓的營養治療與預防
@@ -1238,7 +1238,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 
 <a href="https://www.youtube.com/watch?v=QTlp6VTu4S8" target="_blank">
     <img src="https://img.youtube.com/vi/QTlp6VTu4S8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -1298,7 +1298,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 
 <a href="https://www.youtube.com/watch?v=wBG8wWvModg" target="_blank">
     <img src="https://img.youtube.com/vi/wBG8wWvModg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -1340,7 +1340,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 
 <a href="https://www.youtube.com/watch?v=5KSi-yCa4hE" target="_blank">
     <img src="https://img.youtube.com/vi/5KSi-yCa4hE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理： Lyme 病與免疫系統保護策略
@@ -1409,7 +1409,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 
 <a href="https://www.youtube.com/watch?v=cojfbFPi9-A" target="_blank">
     <img src="https://img.youtube.com/vi/cojfbFPi9-A/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # B12缺乏症的關鍵點整理
@@ -1480,7 +1480,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 
 <a href="https://www.youtube.com/watch?v=TBSGhpG8yfE" target="_blank">
     <img src="https://img.youtube.com/vi/TBSGhpG8yfE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -1516,7 +1516,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 
 <a href="https://www.youtube.com/watch?v=qY8ypQGEhCA" target="_blank">
     <img src="https://img.youtube.com/vi/qY8ypQGEhCA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理與分析
@@ -1581,7 +1581,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 
 <a href="https://www.youtube.com/watch?v=GFE8qfwN23U" target="_blank">
     <img src="https://img.youtube.com/vi/GFE8qfwN23U/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：消除雙下巴和 turkey neck 的訓練方法
@@ -1641,7 +1641,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 
 <a href="https://www.youtube.com/watch?v=NdQfUJRY6SQ" target="_blank">
     <img src="https://img.youtube.com/vi/NdQfUJRY6SQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節化整理
@@ -1689,7 +1689,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 
 <a href="https://www.youtube.com/watch?v=_JrqyBwy_eo" target="_blank">
     <img src="https://img.youtube.com/vi/_JrqyBwy_eo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -1791,7 +1791,7 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
 
 <a href="https://www.youtube.com/watch?v=0aj0UTxmmv4" target="_blank">
     <img src="https://img.youtube.com/vi/0aj0UTxmmv4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -1876,7 +1876,7 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
 
 <a href="https://www.youtube.com/watch?v=pdKgMQI_JoI" target="_blank">
     <img src="https://img.youtube.com/vi/pdKgMQI_JoI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 本文整理分點摘要
@@ -1973,7 +1973,7 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
 
 <a href="https://www.youtube.com/watch?v=xpH45c2BrMM" target="_blank">
     <img src="https://img.youtube.com/vi/xpH45c2BrMM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ---
@@ -2018,7 +2018,7 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
 
 <a href="https://www.youtube.com/watch?v=WGLgSAwuygo" target="_blank">
     <img src="https://img.youtube.com/vi/WGLgSAwuygo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 [AI generated] 核心主題:
@@ -2071,7 +2071,7 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
 
 <a href="https://www.youtube.com/watch?v=vJu7v9JtD-o" target="_blank">
     <img src="https://img.youtube.com/vi/vJu7v9JtD-o/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 正式學術摘要
@@ -2144,7 +2144,7 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
 
 <a href="https://www.youtube.com/watch?v=ko5ThlWuYaw" target="_blank">
     <img src="https://img.youtube.com/vi/ko5ThlWuYaw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：七種最差的飲食計劃分析與健康建議
@@ -2184,7 +2184,7 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
 
 <a href="https://www.youtube.com/watch?v=xVgfijICfrI" target="_blank">
     <img src="https://img.youtube.com/vi/xVgfijICfrI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -2247,7 +2247,7 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
 
 <a href="https://www.youtube.com/watch?v=PQnS87AnnR0" target="_blank">
     <img src="https://img.youtube.com/vi/PQnS87AnnR0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ## 經絡按摩師的專業見解  
@@ -2282,7 +2282,7 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
 
 <a href="https://www.youtube.com/watch?v=O3EWt8jyX2E" target="_blank">
     <img src="https://img.youtube.com/vi/O3EWt8jyX2E/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -2370,7 +2370,7 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
 
 <a href="https://www.youtube.com/watch?v=3PYi3yIiMig" target="_blank">
     <img src="https://img.youtube.com/vi/3PYi3yIiMig/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 重點整理與分析
@@ -2449,7 +2449,7 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
 
 <a href="https://www.youtube.com/watch?v=Xs1i6QzoB6o" target="_blank">
     <img src="https://img.youtube.com/vi/Xs1i6QzoB6o/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -2532,7 +2532,7 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
 
 <a href="https://www.youtube.com/watch?v=MuVMHPuXWAQ" target="_blank">
     <img src="https://img.youtube.com/vi/MuVMHPuXWAQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -2574,7 +2574,7 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
 
 <a href="https://www.youtube.com/watch?v=K_C3RIudfFw" target="_blank">
     <img src="https://img.youtube.com/vi/K_C3RIudfFw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -2665,7 +2665,7 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
 
 <a href="https://www.youtube.com/watch?v=KPcb9zNRC9I" target="_blank">
     <img src="https://img.youtube.com/vi/KPcb9zNRC9I/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：快餐業的秘密與影響
@@ -2735,7 +2735,7 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
 
 <a href="https://www.youtube.com/watch?v=U1PQy1DeHEk" target="_blank">
     <img src="https://img.youtube.com/vi/U1PQy1DeHEk/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理： sugars and starches in a balanced diet
@@ -2784,7 +2784,7 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
 
 <a href="https://www.youtube.com/watch?v=tJG0kYFUIyE" target="_blank">
     <img src="https://img.youtube.com/vi/tJG0kYFUIyE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 文章整理：有害食品添加劑的核心問題與健康建議
@@ -2824,7 +2824,7 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
 
 <a href="https://www.youtube.com/watch?v=CozZ1Rcm55E" target="_blank">
     <img src="https://img.youtube.com/vi/CozZ1Rcm55E/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：影響睡眠品質的主要因素及解決方案
@@ -2879,7 +2879,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 
 <a href="https://www.youtube.com/watch?v=EWZrSK4xtXs" target="_blank">
     <img src="https://img.youtube.com/vi/EWZrSK4xtXs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：維生素D的研究與有效性評估  
@@ -2932,7 +2932,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 
 <a href="https://www.youtube.com/watch?v=QAQ7r6jLEww" target="_blank">
     <img src="https://img.youtube.com/vi/QAQ7r6jLEww/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -3002,7 +3002,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 
 <a href="https://www.youtube.com/watch?v=i4jfBoOXNs8" target="_blank">
     <img src="https://img.youtube.com/vi/i4jfBoOXNs8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -3050,7 +3050,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 
 <a href="https://www.youtube.com/watch?v=q7xtsTM4ysw" target="_blank">
     <img src="https://img.youtube.com/vi/q7xtsTM4ysw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -3106,7 +3106,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 
 <a href="https://www.youtube.com/watch?v=MuYvGyNXvPk" target="_blank">
     <img src="https://img.youtube.com/vi/MuYvGyNXvPk/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -3155,7 +3155,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 
 <a href="https://www.youtube.com/watch?v=dS3owmZ_QnY" target="_blank">
     <img src="https://img.youtube.com/vi/dS3owmZ_QnY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：七大健康誤區的危害與解決方案
@@ -3203,7 +3203,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 
 <a href="https://www.youtube.com/watch?v=WCyY3OmdJCg" target="_blank">
     <img src="https://img.youtube.com/vi/WCyY3OmdJCg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節分類與整理
@@ -3269,7 +3269,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 
 <a href="https://www.youtube.com/watch?v=znFnEVb-eZ4" target="_blank">
     <img src="https://img.youtube.com/vi/znFnEVb-eZ4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題 (Core Theme)
@@ -3307,7 +3307,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 
 <a href="https://www.youtube.com/watch?v=lFbFEzsKbzc" target="_blank">
     <img src="https://img.youtube.com/vi/lFbFEzsKbzc/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -3370,7 +3370,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 
 <a href="https://www.youtube.com/watch?v=5f5JF2VXpWQ" target="_blank">
     <img src="https://img.youtube.com/vi/5f5JF2VXpWQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -3408,7 +3408,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 
 <a href="https://www.youtube.com/watch?v=kEs2epLMq4Y" target="_blank">
     <img src="https://img.youtube.com/vi/kEs2epLMq4Y/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -3459,7 +3459,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 
 <a href="https://www.youtube.com/watch?v=8iARMPdrblY" target="_blank">
     <img src="https://img.youtube.com/vi/8iARMPdrblY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -3515,7 +3515,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 
 <a href="https://www.youtube.com/watch?v=5wXcNJWrsmQ" target="_blank">
     <img src="https://img.youtube.com/vi/5wXcNJWrsmQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -3614,7 +3614,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 
 <a href="https://www.youtube.com/watch?v=nEQi-jsRFK4" target="_blank">
     <img src="https://img.youtube.com/vi/nEQi-jsRFK4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：六種營養缺乏導致的嚴重健康問題
@@ -3694,7 +3694,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 
 <a href="https://www.youtube.com/watch?v=rP7_UePVK3Q" target="_blank">
     <img src="https://img.youtube.com/vi/rP7_UePVK3Q/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節分類與整理
@@ -3757,7 +3757,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 
 <a href="https://www.youtube.com/watch?v=4Wd5a4veej8" target="_blank">
     <img src="https://img.youtube.com/vi/4Wd5a4veej8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -3826,7 +3826,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 
 <a href="https://www.youtube.com/watch?v=IqGowurcVPs" target="_blank">
     <img src="https://img.youtube.com/vi/IqGowurcVPs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：筋膜的功能與重要性  
@@ -3871,7 +3871,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 
 <a href="https://www.youtube.com/watch?v=_CqXHYgKKtY" target="_blank">
     <img src="https://img.youtube.com/vi/_CqXHYgKKtY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -3909,7 +3909,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 
 <a href="https://www.youtube.com/watch?v=wCNNDojIDto" target="_blank">
     <img src="https://img.youtube.com/vi/wCNNDojIDto/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -3975,7 +3975,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 
 <a href="https://www.youtube.com/watch?v=CrY61zNEL_g" target="_blank">
     <img src="https://img.youtube.com/vi/CrY61zNEL_g/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小腸漏出的核心主題
@@ -4032,7 +4032,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 
 <a href="https://www.youtube.com/watch?v=XbKqWWHE-zw" target="_blank">
     <img src="https://img.youtube.com/vi/XbKqWWHE-zw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：反式脂肪和膽固醇對健康的影響
@@ -4087,7 +4087,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 
 <a href="https://www.youtube.com/watch?v=rsl0Gsqgf94" target="_blank">
     <img src="https://img.youtube.com/vi/rsl0Gsqgf94/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -4139,7 +4139,7 @@ The article explores the impact of modern technology, particularly smartphones, 
 
 <a href="https://www.youtube.com/watch?v=rrnhb2-bQKY" target="_blank">
     <img src="https://img.youtube.com/vi/rrnhb2-bQKY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 文章重點整理
@@ -4186,7 +4186,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 
 <a href="https://www.youtube.com/watch?v=pf_z1OSYxmk" target="_blank">
     <img src="https://img.youtube.com/vi/pf_z1OSYxmk/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -4239,7 +4239,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 
 <a href="https://www.youtube.com/watch?v=Rra9FJ2lURI" target="_blank">
     <img src="https://img.youtube.com/vi/Rra9FJ2lURI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -4294,7 +4294,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 
 <a href="https://www.youtube.com/watch?v=yBOrKcsVbOs" target="_blank">
     <img src="https://img.youtube.com/vi/yBOrKcsVbOs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 文章重點整理
@@ -4381,7 +4381,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 
 <a href="https://www.youtube.com/watch?v=oDHqTnjBM0Y" target="_blank">
     <img src="https://img.youtube.com/vi/oDHqTnjBM0Y/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -4462,7 +4462,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 
 <a href="https://www.youtube.com/watch?v=YC7b3EfnmSw" target="_blank">
     <img src="https://img.youtube.com/vi/YC7b3EfnmSw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章要點整理
@@ -4507,7 +4507,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 
 <a href="https://www.youtube.com/watch?v=1CV8B82r5Sg" target="_blank">
     <img src="https://img.youtube.com/vi/1CV8B82r5Sg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -4604,7 +4604,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 
 <a href="https://www.youtube.com/watch?v=Us6oOuI-S7Y" target="_blank">
     <img src="https://img.youtube.com/vi/Us6oOuI-S7Y/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 重點整理：海藻（Sea Moss）的營養價值與健康益處
@@ -4671,7 +4671,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 
 <a href="https://www.youtube.com/watch?v=HeQffcNyo2w" target="_blank">
     <img src="https://img.youtube.com/vi/HeQffcNyo2w/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 重點整理
@@ -4718,7 +4718,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 
 <a href="https://www.youtube.com/watch?v=3sBFSidJcg0" target="_blank">
     <img src="https://img.youtube.com/vi/3sBFSidJcg0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：緩解便秘的三步策略
@@ -4760,7 +4760,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 
 <a href="https://www.youtube.com/watch?v=gA0p8WkGSCw" target="_blank">
     <img src="https://img.youtube.com/vi/gA0p8WkGSCw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -4830,7 +4830,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 
 <a href="https://www.youtube.com/watch?v=hmkoFDMAvkc" target="_blank">
     <img src="https://img.youtube.com/vi/hmkoFDMAvkc/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主题：深煎炸食物时的最佳油选择与健康影响
@@ -4885,7 +4885,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 
 <a href="https://www.youtube.com/watch?v=YTd9JJw6sc8" target="_blank">
     <img src="https://img.youtube.com/vi/YTd9JJw6sc8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ===== 調整後的文章 =====
@@ -4947,7 +4947,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 
 <a href="https://www.youtube.com/watch?v=T9WkRYMfvp8" target="_blank">
     <img src="https://img.youtube.com/vi/T9WkRYMfvp8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -5027,7 +5027,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 
 <a href="https://www.youtube.com/watch?v=WRp_nuoO8FE" target="_blank">
     <img src="https://img.youtube.com/vi/WRp_nuoO8FE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -5101,7 +5101,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 
 <a href="https://www.youtube.com/watch?v=xVHvzOTgUyU" target="_blank">
     <img src="https://img.youtube.com/vi/xVHvzOTgUyU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -5152,7 +5152,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 
 <a href="https://www.youtube.com/watch?v=bIr5LgufkNQ" target="_blank">
     <img src="https://img.youtube.com/vi/bIr5LgufkNQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章總結：assium缺乏的危害與健康管理
@@ -5211,7 +5211,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 
 <a href="https://www.youtube.com/watch?v=yizGW894YGs" target="_blank">
     <img src="https://img.youtube.com/vi/yizGW894YGs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：青光眼的營養干預與維生素D的角色
@@ -5267,7 +5267,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 
 <a href="https://www.youtube.com/watch?v=NJFOF_VEwFs" target="_blank">
     <img src="https://img.youtube.com/vi/NJFOF_VEwFs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 肝臟健康管理：識別最差食物及改善策略
@@ -5315,7 +5315,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 
 <a href="https://www.youtube.com/watch?v=kSz53G0ByKM" target="_blank">
     <img src="https://img.youtube.com/vi/kSz53G0ByKM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：皮膚疾病的共通點與維生素D的角色
@@ -5355,7 +5355,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 
 <a href="https://www.youtube.com/watch?v=fYmq9JMlFRA" target="_blank">
     <img src="https://img.youtube.com/vi/fYmq9JMlFRA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -5455,7 +5455,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 
 <a href="https://www.youtube.com/watch?v=tlygQAYBZiY" target="_blank">
     <img src="https://img.youtube.com/vi/tlygQAYBZiY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：肌力訓練與營養补充劑的危害
@@ -5502,7 +5502,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 
 <a href="https://www.youtube.com/watch?v=2ALt5tgCFgg" target="_blank">
     <img src="https://img.youtube.com/vi/2ALt5tgCFgg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納：鬆弛手臂下方肌膚問題的研究與解決方案
@@ -5538,7 +5538,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 
 <a href="https://www.youtube.com/watch?v=a4zXbFp3djA" target="_blank">
     <img src="https://img.youtube.com/vi/a4zXbFp3djA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -5608,7 +5608,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 
 <a href="https://www.youtube.com/watch?v=iOO35cEQXfw" target="_blank">
     <img src="https://img.youtube.com/vi/iOO35cEQXfw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納與整理
@@ -5661,7 +5661,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 
 <a href="https://www.youtube.com/watch?v=Ni1bs_nFIPQ" target="_blank">
     <img src="https://img.youtube.com/vi/Ni1bs_nFIPQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -5730,7 +5730,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 
 <a href="https://www.youtube.com/watch?v=RpOpgq727tk" target="_blank">
     <img src="https://img.youtube.com/vi/RpOpgq727tk/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理報告
@@ -5770,7 +5770,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 
 <a href="https://www.youtube.com/watch?v=H_U5QRk_Wrc" target="_blank">
     <img src="https://img.youtube.com/vi/H_U5QRk_Wrc/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -5823,7 +5823,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 
 <a href="https://www.youtube.com/watch?v=KQsR4sVOfaA" target="_blank">
     <img src="https://img.youtube.com/vi/KQsR4sVOfaA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：鎂元素缺乏的危害與影響
@@ -5885,7 +5885,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 
 <a href="https://www.youtube.com/watch?v=cPDHHIgcwlU" target="_blank">
     <img src="https://img.youtube.com/vi/cPDHHIgcwlU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -5941,7 +5941,7 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
 
 <a href="https://www.youtube.com/watch?v=4bpS3VVrKO0" target="_blank">
     <img src="https://img.youtube.com/vi/4bpS3VVrKO0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理

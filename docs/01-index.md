@@ -3,7 +3,7 @@
 
 <a href="https://www.youtube.com/watch?v=r1V4FH3QU_g" target="_blank">
     <img src="https://img.youtube.com/vi/r1V4FH3QU_g/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節一：核心主題  
@@ -53,7 +53,7 @@
 
 <a href="https://www.youtube.com/watch?v=qz4V_oNoclY" target="_blank">
     <img src="https://img.youtube.com/vi/qz4V_oNoclY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -91,7 +91,7 @@
 
 <a href="https://www.youtube.com/watch?v=ktQBLFabQXQ" target="_blank">
     <img src="https://img.youtube.com/vi/ktQBLFabQXQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小結點整理：
@@ -135,7 +135,7 @@
 
 <a href="https://www.youtube.com/watch?v=2DnaljPchA8" target="_blank">
     <img src="https://img.youtube.com/vi/2DnaljPchA8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -191,7 +191,7 @@ In summary, acupressure targeting the thyroid reflex point in the C5-C6 cervical
 
 <a href="https://www.youtube.com/watch?v=lN4tzAe4L9M" target="_blank">
     <img src="https://img.youtube.com/vi/lN4tzAe4L9M/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -226,7 +226,7 @@ In summary, acupressure targeting the thyroid reflex point in the C5-C6 cervical
 
 <a href="https://www.youtube.com/watch?v=cNM_NXwOkcQ" target="_blank">
     <img src="https://img.youtube.com/vi/cNM_NXwOkcQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -281,7 +281,7 @@ In summary, acupressure targeting the thyroid reflex point in the C5-C6 cervical
 
 <a href="https://www.youtube.com/watch?v=f3sx6VNO0F8" target="_blank">
     <img src="https://img.youtube.com/vi/f3sx6VNO0F8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節一：核心主題
@@ -336,7 +336,7 @@ In summary, acupressure targeting the thyroid reflex point in the C5-C6 cervical
 
 <a href="https://www.youtube.com/watch?v=-ZkADMLZCuw" target="_blank">
     <img src="https://img.youtube.com/vi/-ZkADMLZCuw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理與歸納
@@ -393,7 +393,7 @@ In summary, acupressure targeting the thyroid reflex point in the C5-C6 cervical
 
 <a href="https://www.youtube.com/watch?v=tumJRQ01Hmg" target="_blank">
     <img src="https://img.youtube.com/vi/tumJRQ01Hmg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -459,7 +459,7 @@ In summary, acupressure targeting the thyroid reflex point in the C5-C6 cervical
 
 <a href="https://www.youtube.com/watch?v=6iKSL-bpbAM" target="_blank">
     <img src="https://img.youtube.com/vi/6iKSL-bpbAM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：Butter（人造奶油）作為下一代スーパーフード
@@ -525,7 +525,7 @@ Butter 是一種被低估的スーパーフード，具有多種健康益處。�
 
 <a href="https://www.youtube.com/watch?v=iwcLIUd_WiY" target="_blank">
     <img src="https://img.youtube.com/vi/iwcLIUd_WiY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節一：核心主題  
@@ -572,7 +572,7 @@ Butter 是一種被低估的スーパーフード，具有多種健康益處。�
 
 <a href="https://www.youtube.com/watch?v=M5FQYKLAOhg" target="_blank">
     <img src="https://img.youtube.com/vi/M5FQYKLAOhg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理  
@@ -623,7 +623,7 @@ Butter 是一種被低估的スーパーフード，具有多種健康益處。�
 
 <a href="https://www.youtube.com/watch?v=JpmI3Nnyx6o" target="_blank">
     <img src="https://img.youtube.com/vi/JpmI3Nnyx6o/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -675,7 +675,7 @@ Butter 是一種被低估的スーパーフード，具有多種健康益處。�
 
 <a href="https://www.youtube.com/watch?v=8WpaVxsZI1I" target="_blank">
     <img src="https://img.youtube.com/vi/8WpaVxsZI1I/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -724,7 +724,7 @@ Butter 是一種被低估的スーパーフード，具有多種健康益處。�
 
 <a href="https://www.youtube.com/watch?v=Pp7arrSDs5w" target="_blank">
     <img src="https://img.youtube.com/vi/Pp7arrSDs5w/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -762,7 +762,7 @@ Butter 是一種被低估的スーパーフード，具有多種健康益處。�
 
 <a href="https://www.youtube.com/watch?v=kBioeRRPuhg" target="_blank">
     <img src="https://img.youtube.com/vi/kBioeRRPuhg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ===== 文章整理 =====
@@ -812,7 +812,7 @@ Butter 是一種被低估的スーパーフード，具有多種健康益處。�
 
 <a href="https://www.youtube.com/watch?v=gALMXv6KqMo" target="_blank">
     <img src="https://img.youtube.com/vi/gALMXv6KqMo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -847,7 +847,7 @@ Butter 是一種被低估的スーパーフード，具有多種健康益處。�
 
 <a href="https://www.youtube.com/watch?v=fSuvDNeerjs" target="_blank">
     <img src="https://img.youtube.com/vi/fSuvDNeerjs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章要點整理
@@ -895,7 +895,7 @@ Butter 是一種被低估的スーパーフード，具有多種健康益處。�
 
 <a href="https://www.youtube.com/watch?v=8qgwmKq-yjA" target="_blank">
     <img src="https://img.youtube.com/vi/8qgwmKq-yjA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -949,7 +949,7 @@ Butter 是一種被低估的スーパーフード，具有多種健康益處。�
 
 <a href="https://www.youtube.com/watch?v=0C6zoIgraWs" target="_blank">
     <img src="https://img.youtube.com/vi/0C6zoIgraWs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：頭痛與偏头痛的根本病因分析
@@ -1022,7 +1022,7 @@ Butter 是一種被低估的スーパーフード，具有多種健康益處。�
 
 <a href="https://www.youtube.com/watch?v=V6bTwOo3H1A" target="_blank">
     <img src="https://img.youtube.com/vi/V6bTwOo3H1A/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -1077,7 +1077,7 @@ The perfect diet is one that satisfies all nutrient requirements through natural
 
 <a href="https://www.youtube.com/watch?v=lKrFgxVTe28" target="_blank">
     <img src="https://img.youtube.com/vi/lKrFgxVTe28/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -1132,7 +1132,7 @@ The perfect diet is one that satisfies all nutrient requirements through natural
 
 <a href="https://www.youtube.com/watch?v=i0-ZWnXBxxc" target="_blank">
     <img src="https://img.youtube.com/vi/i0-ZWnXBxxc/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -1186,7 +1186,7 @@ The perfect diet is one that satisfies all nutrient requirements through natural
 
 <a href="https://www.youtube.com/watch?v=3c3fQvTvcqQ" target="_blank">
     <img src="https://img.youtube.com/vi/3c3fQvTvcqQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -1237,7 +1237,7 @@ The perfect diet is one that satisfies all nutrient requirements through natural
 
 <a href="https://www.youtube.com/watch?v=HEVJmfvKnwE" target="_blank">
     <img src="https://img.youtube.com/vi/HEVJmfvKnwE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -1248,7 +1248,7 @@ The perfect diet is one that satisfies all nutrient requirements through natural
 
 <a href="https://www.youtube.com/watch?v=LnjZQzB3BP8" target="_blank">
     <img src="https://img.youtube.com/vi/LnjZQzB3BP8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納：
@@ -1289,7 +1289,7 @@ The perfect diet is one that satisfies all nutrient requirements through natural
 
 <a href="https://www.youtube.com/watch?v=TeCwH6vzjzc" target="_blank">
     <img src="https://img.youtube.com/vi/TeCwH6vzjzc/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -1349,7 +1349,7 @@ The perfect diet is one that satisfies all nutrient requirements through natural
 
 <a href="https://www.youtube.com/watch?v=9MpeSudXyRs" target="_blank">
     <img src="https://img.youtube.com/vi/9MpeSudXyRs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -1402,7 +1402,7 @@ The perfect diet is one that satisfies all nutrient requirements through natural
 
 <a href="https://www.youtube.com/watch?v=W8Gtk067h5Y" target="_blank">
     <img src="https://img.youtube.com/vi/W8Gtk067h5Y/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節整理
@@ -1455,7 +1455,7 @@ The perfect diet is one that satisfies all nutrient requirements through natural
 
 <a href="https://www.youtube.com/watch?v=Woad6uGe6m0" target="_blank">
     <img src="https://img.youtube.com/vi/Woad6uGe6m0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -1501,7 +1501,7 @@ The perfect diet is one that satisfies all nutrient requirements through natural
 
 <a href="https://www.youtube.com/watch?v=xypKNntXJv4" target="_blank">
     <img src="https://img.youtube.com/vi/xypKNntXJv4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -1548,7 +1548,7 @@ The perfect diet is one that satisfies all nutrient requirements through natural
 
 <a href="https://www.youtube.com/watch?v=Izi-PNI7_Dc" target="_blank">
     <img src="https://img.youtube.com/vi/Izi-PNI7_Dc/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -1639,7 +1639,7 @@ The perfect diet is one that satisfies all nutrient requirements through natural
 
 <a href="https://www.youtube.com/watch?v=tmRirTYtaS4" target="_blank">
     <img src="https://img.youtube.com/vi/tmRirTYtaS4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -1715,7 +1715,7 @@ The perfect diet is one that satisfies all nutrient requirements through natural
 
 <a href="https://www.youtube.com/watch?v=uMIa3HNm7ks" target="_blank">
     <img src="https://img.youtube.com/vi/uMIa3HNm7ks/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題： 
@@ -1762,7 +1762,7 @@ The perfect diet is one that satisfies all nutrient requirements through natural
 
 <a href="https://www.youtube.com/watch?v=iuXFE_oIQdM" target="_blank">
     <img src="https://img.youtube.com/vi/iuXFE_oIQdM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節整理：脂肪腿和屁股的成因及解決方案
@@ -1834,7 +1834,7 @@ The perfect diet is one that satisfies all nutrient requirements through natural
 
 <a href="https://www.youtube.com/watch?v=hLP3SnbQvEc" target="_blank">
     <img src="https://img.youtube.com/vi/hLP3SnbQvEc/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理： calcium carbonate 的風險及健康影響
@@ -1908,7 +1908,7 @@ The perfect diet is one that satisfies all nutrient requirements through natural
 
 <a href="https://www.youtube.com/watch?v=LpNqXUzwqPs" target="_blank">
     <img src="https://img.youtube.com/vi/LpNqXUzwqPs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：碘缺乏與健康影響及補充策略
@@ -1978,7 +1978,7 @@ The perfect diet is one that satisfies all nutrient requirements through natural
 
 <a href="https://www.youtube.com/watch?v=vOdBZpqay6Q" target="_blank">
     <img src="https://img.youtube.com/vi/vOdBZpqay6Q/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節 1: 核心主題  
@@ -2024,7 +2024,7 @@ The perfect diet is one that satisfies all nutrient requirements through natural
 
 <a href="https://www.youtube.com/watch?v=MWFAUM9OqYk" target="_blank">
     <img src="https://img.youtube.com/vi/MWFAUM9OqYk/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -2058,7 +2058,7 @@ The perfect diet is one that satisfies all nutrient requirements through natural
 
 <a href="https://www.youtube.com/watch?v=TSqHhy3LEKo" target="_blank">
     <img src="https://img.youtube.com/vi/TSqHhy3LEKo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小結點整理：胆固爾之謎與事實解讀
@@ -2121,7 +2121,7 @@ The perfect diet is one that satisfies all nutrient requirements through natural
 
 <a href="https://www.youtube.com/watch?v=iatYZxyoEkU" target="_blank">
     <img src="https://img.youtube.com/vi/iatYZxyoEkU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 整理後的中文文章結構
@@ -2187,7 +2187,7 @@ The perfect diet is one that satisfies all nutrient requirements through natural
 
 <a href="https://www.youtube.com/watch?v=6dbyeQXtCpk" target="_blank">
     <img src="https://img.youtube.com/vi/6dbyeQXtCpk/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -2232,7 +2232,7 @@ The perfect diet is one that satisfies all nutrient requirements through natural
 
 <a href="https://www.youtube.com/watch?v=2BotxbEsPME" target="_blank">
     <img src="https://img.youtube.com/vi/2BotxbEsPME/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 1. 核心主題  
@@ -2271,7 +2271,7 @@ The perfect diet is one that satisfies all nutrient requirements through natural
 
 <a href="https://www.youtube.com/watch?v=pm49uFWTYBI" target="_blank">
     <img src="https://img.youtube.com/vi/pm49uFWTYBI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -2345,7 +2345,7 @@ The perfect diet is one that satisfies all nutrient requirements through natural
 
 <a href="https://www.youtube.com/watch?v=R0GKQDJocnU" target="_blank">
     <img src="https://img.youtube.com/vi/R0GKQDJocnU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 文章要點總結
@@ -2403,7 +2403,7 @@ The perfect diet is one that satisfies all nutrient requirements through natural
 
 <a href="https://www.youtube.com/watch?v=VugA3SZZTbY" target="_blank">
     <img src="https://img.youtube.com/vi/VugA3SZZTbY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節一：核心主題
@@ -2447,7 +2447,7 @@ The perfect diet is one that satisfies all nutrient requirements through natural
 
 <a href="https://www.youtube.com/watch?v=E1CijpqYu88" target="_blank">
     <img src="https://img.youtube.com/vi/E1CijpqYu88/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -2480,7 +2480,7 @@ The perfect diet is one that satisfies all nutrient requirements through natural
 
 <a href="https://www.youtube.com/watch?v=hq2oIc275WA" target="_blank">
     <img src="https://img.youtube.com/vi/hq2oIc275WA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -2511,7 +2511,7 @@ The perfect diet is one that satisfies all nutrient requirements through natural
 
 <a href="https://www.youtube.com/watch?v=6Ml79LrZUHU" target="_blank">
     <img src="https://img.youtube.com/vi/6Ml79LrZUHU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節一：核心主題  
@@ -2545,7 +2545,7 @@ The perfect diet is one that satisfies all nutrient requirements through natural
 
 <a href="https://www.youtube.com/watch?v=7DWg-y875CE" target="_blank">
     <img src="https://img.youtube.com/vi/7DWg-y875CE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -2611,7 +2611,7 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
 
 <a href="https://www.youtube.com/watch?v=36TS6v9YQnU" target="_blank">
     <img src="https://img.youtube.com/vi/36TS6v9YQnU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題 (Core Theme)
@@ -2655,7 +2655,7 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
 
 <a href="https://www.youtube.com/watch?v=B_Y-ceKnSYI" target="_blank">
     <img src="https://img.youtube.com/vi/B_Y-ceKnSYI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理與結構化分析
@@ -2726,7 +2726,7 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
 
 <a href="https://www.youtube.com/watch?v=7INJsjZwSQ8" target="_blank">
     <img src="https://img.youtube.com/vi/7INJsjZwSQ8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理與分析
@@ -2788,7 +2788,7 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
 
 <a href="https://www.youtube.com/watch?v=xGZZESrXSgw" target="_blank">
     <img src="https://img.youtube.com/vi/xGZZESrXSgw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 1. 核心主題
@@ -2822,7 +2822,7 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
 
 <a href="https://www.youtube.com/watch?v=jcrii9_Um0I" target="_blank">
     <img src="https://img.youtube.com/vi/jcrii9_Um0I/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 關鍵重點整理
@@ -2866,7 +2866,7 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
 
 <a href="https://www.youtube.com/watch?v=P7fHYSyvxU0" target="_blank">
     <img src="https://img.youtube.com/vi/P7fHYSyvxU0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：血糖調節與肝臟健康的關係
@@ -2944,7 +2944,7 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
 
 <a href="https://www.youtube.com/watch?v=wWGzfNaVHiE" target="_blank">
     <img src="https://img.youtube.com/vi/wWGzfNaVHiE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：女性荷爾蒙失衡與月经周期紊乱的成因及解决方案
@@ -2994,7 +2994,7 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
 
 <a href="https://www.youtube.com/watch?v=14FhxVeAnwM" target="_blank">
     <img src="https://img.youtube.com/vi/14FhxVeAnwM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -3053,7 +3053,7 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
 
 <a href="https://www.youtube.com/watch?v=HWI1TljBsaw" target="_blank">
     <img src="https://img.youtube.com/vi/HWI1TljBsaw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -3114,7 +3114,7 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
 
 <a href="https://www.youtube.com/watch?v=dqFGhA0hz3o" target="_blank">
     <img src="https://img.youtube.com/vi/dqFGhA0hz3o/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理： 認识酸碱平衡与健康
@@ -3153,7 +3153,7 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
 
 <a href="https://www.youtube.com/watch?v=qQhqjoUinUA" target="_blank">
     <img src="https://img.youtube.com/vi/qQhqjoUinUA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理： gallbladder健康與養生指南
@@ -3202,7 +3202,7 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
 
 <a href="https://www.youtube.com/watch?v=Va476cehZ8s" target="_blank">
     <img src="https://img.youtube.com/vi/Va476cehZ8s/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -3274,7 +3274,7 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
 
 <a href="https://www.youtube.com/watch?v=AhcSWV7d4Ko" target="_blank">
     <img src="https://img.youtube.com/vi/AhcSWV7d4Ko/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -3313,7 +3313,7 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
 
 <a href="https://www.youtube.com/watch?v=PhBAzuKxob8" target="_blank">
     <img src="https://img.youtube.com/vi/PhBAzuKxob8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 1. 核心主題
@@ -3358,7 +3358,7 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
 
 <a href="https://www.youtube.com/watch?v=Hub-MpPIjr0" target="_blank">
     <img src="https://img.youtube.com/vi/Hub-MpPIjr0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -3405,7 +3405,7 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
 
 <a href="https://www.youtube.com/watch?v=hK111hngfoc" target="_blank">
     <img src="https://img.youtube.com/vi/hK111hngfoc/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 小麥的雙面性：危害與救贖
@@ -3456,7 +3456,7 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
 
 <a href="https://www.youtube.com/watch?v=p2dCU4tc634" target="_blank">
     <img src="https://img.youtube.com/vi/p2dCU4tc634/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節整理
@@ -3493,7 +3493,7 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
 
 <a href="https://www.youtube.com/watch?v=QQWTSa9vT7E" target="_blank">
     <img src="https://img.youtube.com/vi/QQWTSa9vT7E/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -3528,7 +3528,7 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
 
 <a href="https://www.youtube.com/watch?v=cD_llOyLXo0" target="_blank">
     <img src="https://img.youtube.com/vi/cD_llOyLXo0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：
@@ -3585,7 +3585,7 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
 
 <a href="https://www.youtube.com/watch?v=6VSg3gebcO0" target="_blank">
     <img src="https://img.youtube.com/vi/6VSg3gebcO0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：Deborah Carrol 言談記錄
@@ -3624,7 +3624,7 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
 
 <a href="https://www.youtube.com/watch?v=fgm4GQAlVIc" target="_blank">
     <img src="https://img.youtube.com/vi/fgm4GQAlVIc/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理與分析
@@ -3699,7 +3699,7 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
 
 <a href="https://www.youtube.com/watch?v=VaUAe-csKjY" target="_blank">
     <img src="https://img.youtube.com/vi/VaUAe-csKjY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：健康與疾病的多維度分析
@@ -3767,7 +3767,7 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
 
 <a href="https://www.youtube.com/watch?v=f0G3PtnI0YY" target="_blank">
     <img src="https://img.youtube.com/vi/f0G3PtnI0YY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -3830,7 +3830,7 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
 
 <a href="https://www.youtube.com/watch?v=xvOwfkg9p2o" target="_blank">
     <img src="https://img.youtube.com/vi/xvOwfkg9p2o/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 文章整理：身體類型與飲食計劃的核心原則
@@ -3905,7 +3905,7 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
 
 <a href="https://www.youtube.com/watch?v=_SNUm2EqXOs" target="_blank">
     <img src="https://img.youtube.com/vi/_SNUm2EqXOs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -3916,7 +3916,7 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
 
 <a href="https://www.youtube.com/watch?v=yXEpjTny9bg" target="_blank">
     <img src="https://img.youtube.com/vi/yXEpjTny9bg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -3959,7 +3959,7 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
 
 <a href="https://www.youtube.com/watch?v=_EdejK5Tl1Q" target="_blank">
     <img src="https://img.youtube.com/vi/_EdejK5Tl1Q/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -4014,7 +4014,7 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
 
 <a href="https://www.youtube.com/watch?v=fSO772BFO34" target="_blank">
     <img src="https://img.youtube.com/vi/fSO772BFO34/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -4057,7 +4057,7 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
 
 <a href="https://www.youtube.com/watch?v=13zda4sCWzI" target="_blank">
     <img src="https://img.youtube.com/vi/13zda4sCWzI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -4090,7 +4090,7 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
 
 <a href="https://www.youtube.com/watch?v=odLJW1KXfqw" target="_blank">
     <img src="https://img.youtube.com/vi/odLJW1KXfqw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -4133,7 +4133,7 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
 
 <a href="https://www.youtube.com/watch?v=_m-R4RqRQqM" target="_blank">
     <img src="https://img.youtube.com/vi/_m-R4RqRQqM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -4180,7 +4180,7 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
 
 <a href="https://www.youtube.com/watch?v=ujZKXeCrA5g" target="_blank">
     <img src="https://img.youtube.com/vi/ujZKXeCrA5g/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -4235,7 +4235,7 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
 
 <a href="https://www.youtube.com/watch?v=XJvdK3W2QIM" target="_blank">
     <img src="https://img.youtube.com/vi/XJvdK3W2QIM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節整理：
@@ -4282,7 +4282,7 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
 
 <a href="https://www.youtube.com/watch?v=cxcMJtFizRU" target="_blank">
     <img src="https://img.youtube.com/vi/cxcMJtFizRU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -4328,7 +4328,7 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
 
 <a href="https://www.youtube.com/watch?v=e49u3rYp9vU" target="_blank">
     <img src="https://img.youtube.com/vi/e49u3rYp9vU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -4367,7 +4367,7 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
 
 <a href="https://www.youtube.com/watch?v=U_VFR0HZs7g" target="_blank">
     <img src="https://img.youtube.com/vi/U_VFR0HZs7g/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -4399,7 +4399,7 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
 
 <a href="https://www.youtube.com/watch?v=mVmgz9oVUo4" target="_blank">
     <img src="https://img.youtube.com/vi/mVmgz9oVUo4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -4440,7 +4440,7 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
 
 <a href="https://www.youtube.com/watch?v=SC0kh6n8ZzQ" target="_blank">
     <img src="https://img.youtube.com/vi/SC0kh6n8ZzQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小結點整理
@@ -4480,7 +4480,7 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
 
 <a href="https://www.youtube.com/watch?v=9qLCLBnnEWs" target="_blank">
     <img src="https://img.youtube.com/vi/9qLCLBnnEWs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -4516,7 +4516,7 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
 
 <a href="https://www.youtube.com/watch?v=u5eWshrxBCY" target="_blank">
     <img src="https://img.youtube.com/vi/u5eWshrxBCY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -4566,7 +4566,7 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
 
 <a href="https://www.youtube.com/watch?v=F4IRIIh3QNo" target="_blank">
     <img src="https://img.youtube.com/vi/F4IRIIh3QNo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -4615,7 +4615,7 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
 
 <a href="https://www.youtube.com/watch?v=Y45YoqRD1Bw" target="_blank">
     <img src="https://img.youtube.com/vi/Y45YoqRD1Bw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -4651,7 +4651,7 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
 
 <a href="https://www.youtube.com/watch?v=T-5AGcCV1W0" target="_blank">
     <img src="https://img.youtube.com/vi/T-5AGcCV1W0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -4686,7 +4686,7 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
 
 <a href="https://www.youtube.com/watch?v=6huEl-z3uPE" target="_blank">
     <img src="https://img.youtube.com/vi/6huEl-z3uPE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -4744,7 +4744,7 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
 
 <a href="https://www.youtube.com/watch?v=VeNlbaZaR3M" target="_blank">
     <img src="https://img.youtube.com/vi/VeNlbaZaR3M/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -4786,7 +4786,7 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
 
 <a href="https://www.youtube.com/watch?v=2yLcn5Rxw9A" target="_blank">
     <img src="https://img.youtube.com/vi/2yLcn5Rxw9A/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -4827,7 +4827,7 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
 
 <a href="https://www.youtube.com/watch?v=mpemNGOgp2o" target="_blank">
     <img src="https://img.youtube.com/vi/mpemNGOgp2o/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -4856,7 +4856,7 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
 
 <a href="https://www.youtube.com/watch?v=LjgvA4v6FAo" target="_blank">
     <img src="https://img.youtube.com/vi/LjgvA4v6FAo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -4891,7 +4891,7 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
 
 <a href="https://www.youtube.com/watch?v=VpHvVSh1gms" target="_blank">
     <img src="https://img.youtube.com/vi/VpHvVSh1gms/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -4923,7 +4923,7 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
 
 <a href="https://www.youtube.com/watch?v=9EObAxl1bZs" target="_blank">
     <img src="https://img.youtube.com/vi/9EObAxl1bZs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題

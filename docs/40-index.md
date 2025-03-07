@@ -3,7 +3,7 @@
 
 <a href="https://www.youtube.com/watch?v=jw36QB6OQdk" target="_blank">
     <img src="https://img.youtube.com/vi/jw36QB6OQdk/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -45,7 +45,7 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 
 <a href="https://www.youtube.com/watch?v=2qGeR0TX2-I" target="_blank">
     <img src="https://img.youtube.com/vi/2qGeR0TX2-I/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理重點
@@ -110,7 +110,7 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 
 <a href="https://www.youtube.com/watch?v=Hjlu-jIY9Ao" target="_blank">
     <img src="https://img.youtube.com/vi/Hjlu-jIY9Ao/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：  
@@ -185,7 +185,7 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 
 <a href="https://www.youtube.com/watch?v=wd37ILZwgKM" target="_blank">
     <img src="https://img.youtube.com/vi/wd37ILZwgKM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -243,7 +243,7 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 
 <a href="https://www.youtube.com/watch?v=cLJ2zWYttOk" target="_blank">
     <img src="https://img.youtube.com/vi/cLJ2zWYttOk/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -298,7 +298,7 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 
 <a href="https://www.youtube.com/watch?v=86Yd1EEWMBA" target="_blank">
     <img src="https://img.youtube.com/vi/86Yd1EEWMBA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理： Alzheimer's Disease: Insights and Management Strategies
@@ -362,7 +362,7 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 
 <a href="https://www.youtube.com/watch?v=sbU_Pw2AegM" target="_blank">
     <img src="https://img.youtube.com/vi/sbU_Pw2AegM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -445,7 +445,7 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 
 <a href="https://www.youtube.com/watch?v=3HMtmxjfCT0" target="_blank">
     <img src="https://img.youtube.com/vi/3HMtmxjfCT0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小結結構化整理
@@ -495,7 +495,7 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 
 <a href="https://www.youtube.com/watch?v=sB6CN3yzPws" target="_blank">
     <img src="https://img.youtube.com/vi/sB6CN3yzPws/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -555,7 +555,7 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 
 <a href="https://www.youtube.com/watch?v=yRfeEraLFqQ" target="_blank">
     <img src="https://img.youtube.com/vi/yRfeEraLFqQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -612,7 +612,7 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 
 <a href="https://www.youtube.com/watch?v=EULddsEzGlQ" target="_blank">
     <img src="https://img.youtube.com/vi/EULddsEzGlQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -662,7 +662,7 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 
 <a href="https://www.youtube.com/watch?v=Ri-soyOq_bU" target="_blank">
     <img src="https://img.youtube.com/vi/Ri-soyOq_bU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：促進肝臟健康的飲食與補充策略
@@ -704,7 +704,7 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 
 <a href="https://www.youtube.com/watch?v=nURgtkKxp84" target="_blank">
     <img src="https://img.youtube.com/vi/nURgtkKxp84/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -755,7 +755,7 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 
 <a href="https://www.youtube.com/watch?v=pfAFYQk-Ek0" target="_blank">
     <img src="https://img.youtube.com/vi/pfAFYQk-Ek0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -814,7 +814,7 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 
 <a href="https://www.youtube.com/watch?v=xhcBuH6NZ0c" target="_blank">
     <img src="https://img.youtube.com/vi/xhcBuH6NZ0c/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章總結：早餐穀片的危害與改进建議
@@ -878,7 +878,7 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 
 <a href="https://www.youtube.com/watch?v=H8rb4DdNmTk" target="_blank">
     <img src="https://img.youtube.com/vi/H8rb4DdNmTk/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重点整理
@@ -953,7 +953,7 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 
 <a href="https://www.youtube.com/watch?v=wORXbV6GB34" target="_blank">
     <img src="https://img.youtube.com/vi/wORXbV6GB34/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -1006,7 +1006,7 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 
 <a href="https://www.youtube.com/watch?v=X9hOOqgbuNM" target="_blank">
     <img src="https://img.youtube.com/vi/X9hOOqgbuNM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 文章重點整理
@@ -1055,7 +1055,7 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 
 <a href="https://www.youtube.com/watch?v=Nay62P7jb8w" target="_blank">
     <img src="https://img.youtube.com/vi/Nay62P7jb8w/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節整理：Apple Cider Vinegar 在血糖管理中的作用
@@ -1111,7 +1111,7 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 
 <a href="https://www.youtube.com/watch?v=ydz2rsKxse8" target="_blank">
     <img src="https://img.youtube.com/vi/ydz2rsKxse8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -1168,7 +1168,7 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 
 <a href="https://www.youtube.com/watch?v=ty6GzNa9SSs" target="_blank">
     <img src="https://img.youtube.com/vi/ty6GzNa9SSs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：肾脏健康与毒素清除的核心要点
@@ -1220,7 +1220,7 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 
 <a href="https://www.youtube.com/watch?v=TI39SNPie_M" target="_blank">
     <img src="https://img.youtube.com/vi/TI39SNPie_M/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：電解質缺乏对人体的影响及重要性
@@ -1278,7 +1278,7 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
 
 <a href="https://www.youtube.com/watch?v=gGAizt3MQ90" target="_blank">
     <img src="https://img.youtube.com/vi/gGAizt3MQ90/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -1320,7 +1320,7 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 
 <a href="https://www.youtube.com/watch?v=7hk81YuHZQg" target="_blank">
     <img src="https://img.youtube.com/vi/7hk81YuHZQg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章要點整理
@@ -1398,7 +1398,7 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 
 <a href="https://www.youtube.com/watch?v=BhRMjL7zaF8" target="_blank">
     <img src="https://img.youtube.com/vi/BhRMjL7zaF8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 調整問題和解決方案： bile salts 和消化健康.pdf
@@ -1409,7 +1409,7 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 
 <a href="https://www.youtube.com/watch?v=JNENcGfFHA8" target="_blank">
     <img src="https://img.youtube.com/vi/JNENcGfFHA8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：運動訓練與恢復的核心原則
@@ -1479,7 +1479,7 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 
 <a href="https://www.youtube.com/watch?v=i8rkUp4IR64" target="_blank">
     <img src="https://img.youtube.com/vi/i8rkUp4IR64/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 文章重點整理
@@ -1539,7 +1539,7 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 
 <a href="https://www.youtube.com/watch?v=waau5CqXguQ" target="_blank">
     <img src="https://img.youtube.com/vi/waau5CqXguQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -1629,7 +1629,7 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 
 <a href="https://www.youtube.com/watch?v=GrEs0ZKper0" target="_blank">
     <img src="https://img.youtube.com/vi/GrEs0ZKper0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 茶葉消費者的三大重要事項：健康影響與飲用建議
@@ -1700,7 +1700,7 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 
 <a href="https://www.youtube.com/watch?v=GW3UMJOJs9E" target="_blank">
     <img src="https://img.youtube.com/vi/GW3UMJOJs9E/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -1754,7 +1754,7 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 
 <a href="https://www.youtube.com/watch?v=pGS-jZCuSK4" target="_blank">
     <img src="https://img.youtube.com/vi/pGS-jZCuSK4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：innamon（桂皮）在糖尿病管理中的應用及其健康益處
@@ -1797,7 +1797,7 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 
 <a href="https://www.youtube.com/watch?v=qWh_3Uv1h2A" target="_blank">
     <img src="https://img.youtube.com/vi/qWh_3Uv1h2A/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -1867,7 +1867,7 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 
 <a href="https://www.youtube.com/watch?v=fSRxZXbQVxA" target="_blank">
     <img src="https://img.youtube.com/vi/fSRxZXbQVxA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -1905,7 +1905,7 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 
 <a href="https://www.youtube.com/watch?v=hiX3XjRkQY0" target="_blank">
     <img src="https://img.youtube.com/vi/hiX3XjRkQY0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -1943,7 +1943,7 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 
 <a href="https://www.youtube.com/watch?v=PTgBa-Fpmlc" target="_blank">
     <img src="https://img.youtube.com/vi/PTgBa-Fpmlc/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：法式炸薯條（French Fries）及其健康影響
@@ -1996,7 +1996,7 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 
 <a href="https://www.youtube.com/watch?v=Mn0EWEulFzE" target="_blank">
     <img src="https://img.youtube.com/vi/Mn0EWEulFzE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -2060,7 +2060,7 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 
 <a href="https://www.youtube.com/watch?v=tst30qwXeeU" target="_blank">
     <img src="https://img.youtube.com/vi/tst30qwXeeU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：運動與心臟健康的綜合分析
@@ -2151,7 +2151,7 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 
 <a href="https://www.youtube.com/watch?v=aeS3UqRiI6g" target="_blank">
     <img src="https://img.youtube.com/vi/aeS3UqRiI6g/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：便秘與硫胺素（维生素B1）缺乏症
@@ -2205,7 +2205,7 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 
 <a href="https://www.youtube.com/watch?v=fnSp_JR5pZk" target="_blank">
     <img src="https://img.youtube.com/vi/fnSp_JR5pZk/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 文章整理：尻肌萎縮的原因及解決方案
@@ -2290,7 +2290,7 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 
 <a href="https://www.youtube.com/watch?v=vnBtihWYZgE" target="_blank">
     <img src="https://img.youtube.com/vi/vnBtihWYZgE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節整理
@@ -2337,7 +2337,7 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 
 <a href="https://www.youtube.com/watch?v=ccc85ALEejw" target="_blank">
     <img src="https://img.youtube.com/vi/ccc85ALEejw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：
@@ -2425,7 +2425,7 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 
 <a href="https://www.youtube.com/watch?v=fqhThRC2ldQ" target="_blank">
     <img src="https://img.youtube.com/vi/fqhThRC2ldQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -2507,7 +2507,7 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 
 <a href="https://www.youtube.com/watch?v=CN5ekrfC4wY" target="_blank">
     <img src="https://img.youtube.com/vi/CN5ekrfC4wY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -2546,7 +2546,7 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 
 <a href="https://www.youtube.com/watch?v=VLGDWYiBGgo" target="_blank">
     <img src="https://img.youtube.com/vi/VLGDWYiBGgo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -2608,7 +2608,7 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 
 <a href="https://www.youtube.com/watch?v=dkLbAthoVkg" target="_blank">
     <img src="https://img.youtube.com/vi/dkLbAthoVkg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理解讀
@@ -2692,7 +2692,7 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 
 <a href="https://www.youtube.com/watch?v=1TP5glJs7cw" target="_blank">
     <img src="https://img.youtube.com/vi/1TP5glJs7cw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理： autoimmune diseases, nutrition, and lifestyle interventions
@@ -2757,7 +2757,7 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 
 <a href="https://www.youtube.com/watch?v=-cwT4MN9cJA" target="_blank">
     <img src="https://img.youtube.com/vi/-cwT4MN9cJA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -2813,7 +2813,7 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 
 <a href="https://www.youtube.com/watch?v=owQiY8_3OLU" target="_blank">
     <img src="https://img.youtube.com/vi/owQiY8_3OLU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：黑 cohosh 作為婦女健康補充劑的功效與機制
@@ -2865,7 +2865,7 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 
 <a href="https://www.youtube.com/watch?v=9iIOBA62FlQ" target="_blank">
     <img src="https://img.youtube.com/vi/9iIOBA62FlQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 重點整理
@@ -2925,7 +2925,7 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 
 <a href="https://www.youtube.com/watch?v=HQleXqetrm0" target="_blank">
     <img src="https://img.youtube.com/vi/HQleXqetrm0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：心臟病風險因素與健康策略
@@ -2980,7 +2980,7 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 
 <a href="https://www.youtube.com/watch?v=fuJi4RtKrVM" target="_blank">
     <img src="https://img.youtube.com/vi/fuJi4RtKrVM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -3024,7 +3024,7 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 
 <a href="https://www.youtube.com/watch?v=kPZannhi8a4" target="_blank">
     <img src="https://img.youtube.com/vi/kPZannhi8a4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -3097,7 +3097,7 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 
 <a href="https://www.youtube.com/watch?v=cuiv4UcVNGM" target="_blank">
     <img src="https://img.youtube.com/vi/cuiv4UcVNGM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### **核心主題**
@@ -3150,7 +3150,7 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 
 <a href="https://www.youtube.com/watch?v=P8M9KlUwHEU" target="_blank">
     <img src="https://img.youtube.com/vi/P8M9KlUwHEU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -3213,7 +3213,7 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 
 <a href="https://www.youtube.com/watch?v=ral-LmSNUmI" target="_blank">
     <img src="https://img.youtube.com/vi/ral-LmSNUmI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：如何阻止心臟病發作及相關健康建議
@@ -3278,7 +3278,7 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
 
 <a href="https://www.youtube.com/watch?v=Hv9LE8rxqMI" target="_blank">
     <img src="https://img.youtube.com/vi/Hv9LE8rxqMI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 文章整理： sugar, ADHD, and cognitive function
@@ -3350,7 +3350,7 @@ Parents are encouraged to explore further resources on low-sugar diets, intermit
 
 <a href="https://www.youtube.com/watch?v=y6Sq209uqOA" target="_blank">
     <img src="https://img.youtube.com/vi/y6Sq209uqOA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節整理
@@ -3387,7 +3387,7 @@ Parents are encouraged to explore further resources on low-sugar diets, intermit
 
 <a href="https://www.youtube.com/watch?v=ED34EEXVjYg" target="_blank">
     <img src="https://img.youtube.com/vi/ED34EEXVjYg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -3437,7 +3437,7 @@ Parents are encouraged to explore further resources on low-sugar diets, intermit
 
 <a href="https://www.youtube.com/watch?v=xoNljqhJiCo" target="_blank">
     <img src="https://img.youtube.com/vi/xoNljqhJiCo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 重点整理
@@ -3479,7 +3479,7 @@ Parents are encouraged to explore further resources on low-sugar diets, intermit
 
 <a href="https://www.youtube.com/watch?v=FrKGI8eUjHc" target="_blank">
     <img src="https://img.youtube.com/vi/FrKGI8eUjHc/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 文章整理：維生素C的認識與健康管理
@@ -3535,7 +3535,7 @@ Parents are encouraged to explore further resources on low-sugar diets, intermit
 
 <a href="https://www.youtube.com/watch?v=RzEjFZmTv54" target="_blank">
     <img src="https://img.youtube.com/vi/RzEjFZmTv54/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -3601,7 +3601,7 @@ Parents are encouraged to explore further resources on low-sugar diets, intermit
 
 <a href="https://www.youtube.com/watch?v=VKb0HNov1Vw" target="_blank">
     <img src="https://img.youtube.com/vi/VKb0HNov1Vw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 重點整理
@@ -3683,7 +3683,7 @@ Parents are encouraged to explore further resources on low-sugar diets, intermit
 
 <a href="https://www.youtube.com/watch?v=Aw-z7MWtdeY" target="_blank">
     <img src="https://img.youtube.com/vi/Aw-z7MWtdeY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章題目：** Milk Thistle：肝病的最佳草藥治療 **
@@ -3754,7 +3754,7 @@ Parents are encouraged to explore further resources on low-sugar diets, intermit
 
 <a href="https://www.youtube.com/watch?v=JbujH5aFOh0" target="_blank">
     <img src="https://img.youtube.com/vi/JbujH5aFOh0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ## 文章整理：碘缺乏症的七大驚人原因及健康建議
@@ -3811,7 +3811,7 @@ Parents are encouraged to explore further resources on low-sugar diets, intermit
 
 <a href="https://www.youtube.com/watch?v=06KgXfwu99c" target="_blank">
     <img src="https://img.youtube.com/vi/06KgXfwu99c/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理： prolonged fasting for health and weight loss
@@ -3850,7 +3850,7 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 
 <a href="https://www.youtube.com/watch?v=v8R0vInlGgk" target="_blank">
     <img src="https://img.youtube.com/vi/v8R0vInlGgk/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：反.saturation 脂肪的益處與低脂飲食的問題
@@ -3919,7 +3919,7 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 
 <a href="https://www.youtube.com/watch?v=LNgId7Eqpek" target="_blank">
     <img src="https://img.youtube.com/vi/LNgId7Eqpek/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -3930,7 +3930,7 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 
 <a href="https://www.youtube.com/watch?v=axYtMI2FZCo" target="_blank">
     <img src="https://img.youtube.com/vi/axYtMI2FZCo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -3941,7 +3941,7 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 
 <a href="https://www.youtube.com/watch?v=eMMpCg0jCtg" target="_blank">
     <img src="https://img.youtube.com/vi/eMMpCg0jCtg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -3952,7 +3952,7 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 
 <a href="https://www.youtube.com/watch?v=kbgueP_CdPw" target="_blank">
     <img src="https://img.youtube.com/vi/kbgueP_CdPw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -3963,7 +3963,7 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 
 <a href="https://www.youtube.com/watch?v=J_i7sNQTFPE" target="_blank">
     <img src="https://img.youtube.com/vi/J_i7sNQTFPE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -3974,7 +3974,7 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 
 <a href="https://www.youtube.com/watch?v=yCeJ7fPsGT4" target="_blank">
     <img src="https://img.youtube.com/vi/yCeJ7fPsGT4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -3985,7 +3985,7 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 
 <a href="https://www.youtube.com/watch?v=BuzQvVF9pAo" target="_blank">
     <img src="https://img.youtube.com/vi/BuzQvVF9pAo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -3996,7 +3996,7 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 
 <a href="https://www.youtube.com/watch?v=CvpAsARoiIY" target="_blank">
     <img src="https://img.youtube.com/vi/CvpAsARoiIY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -4007,7 +4007,7 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 
 <a href="https://www.youtube.com/watch?v=j8qlrFrvpvE" target="_blank">
     <img src="https://img.youtube.com/vi/j8qlrFrvpvE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -4018,7 +4018,7 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 
 <a href="https://www.youtube.com/watch?v=__DKt2uEOUM" target="_blank">
     <img src="https://img.youtube.com/vi/__DKt2uEOUM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -4029,7 +4029,7 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 
 <a href="https://www.youtube.com/watch?v=rsCVJ0xTH1c" target="_blank">
     <img src="https://img.youtube.com/vi/rsCVJ0xTH1c/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -4040,7 +4040,7 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 
 <a href="https://www.youtube.com/watch?v=nk4DAjtcviI" target="_blank">
     <img src="https://img.youtube.com/vi/nk4DAjtcviI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -4051,7 +4051,7 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 
 <a href="https://www.youtube.com/watch?v=vOsp52De41I" target="_blank">
     <img src="https://img.youtube.com/vi/vOsp52De41I/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -4062,7 +4062,7 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 
 <a href="https://www.youtube.com/watch?v=nhMr8NXB3y8" target="_blank">
     <img src="https://img.youtube.com/vi/nhMr8NXB3y8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -4073,7 +4073,7 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 
 <a href="https://www.youtube.com/watch?v=HtRodM1INXE" target="_blank">
     <img src="https://img.youtube.com/vi/HtRodM1INXE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -4084,7 +4084,7 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 
 <a href="https://www.youtube.com/watch?v=x365pPLtNJo" target="_blank">
     <img src="https://img.youtube.com/vi/x365pPLtNJo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -4095,7 +4095,7 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 
 <a href="https://www.youtube.com/watch?v=mogBUWRmraE" target="_blank">
     <img src="https://img.youtube.com/vi/mogBUWRmraE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -4106,7 +4106,7 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 
 <a href="https://www.youtube.com/watch?v=LaPyMljE-pk" target="_blank">
     <img src="https://img.youtube.com/vi/LaPyMljE-pk/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -4117,7 +4117,7 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 
 <a href="https://www.youtube.com/watch?v=x9DB9ICue-Y" target="_blank">
     <img src="https://img.youtube.com/vi/x9DB9ICue-Y/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -4128,7 +4128,7 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 
 <a href="https://www.youtube.com/watch?v=N23dLLdxtiQ" target="_blank">
     <img src="https://img.youtube.com/vi/N23dLLdxtiQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -4139,7 +4139,7 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 
 <a href="https://www.youtube.com/watch?v=leepeUyaMG8" target="_blank">
     <img src="https://img.youtube.com/vi/leepeUyaMG8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -4150,7 +4150,7 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 
 <a href="https://www.youtube.com/watch?v=2orzLp9o3pQ" target="_blank">
     <img src="https://img.youtube.com/vi/2orzLp9o3pQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -4161,7 +4161,7 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 
 <a href="https://www.youtube.com/watch?v=U67eCv5Hd8k" target="_blank">
     <img src="https://img.youtube.com/vi/U67eCv5Hd8k/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -4172,7 +4172,7 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 
 <a href="https://www.youtube.com/watch?v=O4vu_cY43QU" target="_blank">
     <img src="https://img.youtube.com/vi/O4vu_cY43QU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -4183,7 +4183,7 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 
 <a href="https://www.youtube.com/watch?v=XGq7-asWQlg" target="_blank">
     <img src="https://img.youtube.com/vi/XGq7-asWQlg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -4194,7 +4194,7 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 
 <a href="https://www.youtube.com/watch?v=jBx5hJRzFFQ" target="_blank">
     <img src="https://img.youtube.com/vi/jBx5hJRzFFQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -4205,7 +4205,7 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 
 <a href="https://www.youtube.com/watch?v=XcTgFlM681E" target="_blank">
     <img src="https://img.youtube.com/vi/XcTgFlM681E/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -4216,7 +4216,7 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 
 <a href="https://www.youtube.com/watch?v=X0I7g3vcMbw" target="_blank">
     <img src="https://img.youtube.com/vi/X0I7g3vcMbw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -4227,7 +4227,7 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 
 <a href="https://www.youtube.com/watch?v=6hohs3QJVNs" target="_blank">
     <img src="https://img.youtube.com/vi/6hohs3QJVNs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -4238,7 +4238,7 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 
 <a href="https://www.youtube.com/watch?v=l6XzlAtW6cA" target="_blank">
     <img src="https://img.youtube.com/vi/l6XzlAtW6cA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -4249,7 +4249,7 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 
 <a href="https://www.youtube.com/watch?v=QcgChU4RpxM" target="_blank">
     <img src="https://img.youtube.com/vi/QcgChU4RpxM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -4260,7 +4260,7 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 
 <a href="https://www.youtube.com/watch?v=YUoSBF1cJiY" target="_blank">
     <img src="https://img.youtube.com/vi/YUoSBF1cJiY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -4271,7 +4271,7 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 
 <a href="https://www.youtube.com/watch?v=WtNfraQ6Se8" target="_blank">
     <img src="https://img.youtube.com/vi/WtNfraQ6Se8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -4282,7 +4282,7 @@ This structured approach helps navigate the complexities of prolonged fasting, e
 
 <a href="https://www.youtube.com/watch?v=-MjaUhSOf94" target="_blank">
     <img src="https://img.youtube.com/vi/-MjaUhSOf94/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 

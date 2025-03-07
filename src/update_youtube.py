@@ -110,7 +110,7 @@ def download_script(df):
             continue
             
         print(f"📌 下載字幕中：{idx}:{video_id}")
-        
+        success = False
         try:
             subtitle_text, formatted_date = download_subtitle(video_id, preferred_langs)
 
@@ -126,9 +126,12 @@ def download_script(df):
                     df.loc[idx, 'date'] = formatted_date
                     # 更新 CSV 檔案
                     df.to_csv(csv_file, index=False)
+                success = True
                                                    
         except Exception as e:
             print(f"❌ 下載失敗 {idx}:{video_id}: {str(e)}")
+        
+        if not success:
             # 加入黑名單
             new_black = pd.DataFrame([{
                 'idx': idx,

@@ -3,7 +3,7 @@
 
 <a href="https://www.youtube.com/watch?v=mZPQ0bgqoq8" target="_blank">
     <img src="https://img.youtube.com/vi/mZPQ0bgqoq8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 本文要點總結
@@ -80,7 +80,7 @@
 
 <a href="https://www.youtube.com/watch?v=4DdvOVv0JMA" target="_blank">
     <img src="https://img.youtube.com/vi/4DdvOVv0JMA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -132,7 +132,7 @@
 
 <a href="https://www.youtube.com/watch?v=YuO2FwBrmqY" target="_blank">
     <img src="https://img.youtube.com/vi/YuO2FwBrmqY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -186,7 +186,7 @@
 
 <a href="https://www.youtube.com/watch?v=3VkP4tqGhdY" target="_blank">
     <img src="https://img.youtube.com/vi/3VkP4tqGhdY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -241,7 +241,7 @@
 
 <a href="https://www.youtube.com/watch?v=5MLpwK-m7Ss" target="_blank">
     <img src="https://img.youtube.com/vi/5MLpwK-m7Ss/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -289,7 +289,7 @@
 
 <a href="https://www.youtube.com/watch?v=-090IT9HneQ" target="_blank">
     <img src="https://img.youtube.com/vi/-090IT9HneQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 文章重點整理
@@ -348,7 +348,7 @@
 
 <a href="https://www.youtube.com/watch?v=Ef-6rZ93sF0" target="_blank">
     <img src="https://img.youtube.com/vi/Ef-6rZ93sF0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理： Alzheimer's病與飲食及胰島素抵抗的關聯
@@ -454,7 +454,7 @@
 
 <a href="https://www.youtube.com/watch?v=BbAv0MT2UQ0" target="_blank">
     <img src="https://img.youtube.com/vi/BbAv0MT2UQ0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -533,7 +533,7 @@
 
 <a href="https://www.youtube.com/watch?v=5Ld9jCxv_to" target="_blank">
     <img src="https://img.youtube.com/vi/5Ld9jCxv_to/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 文章整理：腸道微生物與飲食健康
@@ -582,7 +582,7 @@
 
 <a href="https://www.youtube.com/watch?v=alWAs9tth9c" target="_blank">
     <img src="https://img.youtube.com/vi/alWAs9tth9c/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：壓力對身體和心智的影響及應對策略
@@ -659,7 +659,7 @@
 
 <a href="https://www.youtube.com/watch?v=Rn7-ZHHjD8I" target="_blank">
     <img src="https://img.youtube.com/vi/Rn7-ZHHjD8I/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 文章整理： turmeric 的健康效益與使用指南
@@ -712,7 +712,7 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 
 <a href="https://www.youtube.com/watch?v=bK8q144Rhds" target="_blank">
     <img src="https://img.youtube.com/vi/bK8q144Rhds/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：高皮質醇的危害及自然調節方法  
@@ -767,7 +767,7 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 
 <a href="https://www.youtube.com/watch?v=8kB4DY8cWYk" target="_blank">
     <img src="https://img.youtube.com/vi/8kB4DY8cWYk/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節整理：文章重點概要
@@ -817,7 +817,7 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 
 <a href="https://www.youtube.com/watch?v=Ac1rrcr6xhY" target="_blank">
     <img src="https://img.youtube.com/vi/Ac1rrcr6xhY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理： toxins and detoxification
@@ -903,7 +903,7 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 
 <a href="https://www.youtube.com/watch?v=LYZA3LRBPu8" target="_blank">
     <img src="https://img.youtube.com/vi/LYZA3LRBPu8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 文章整理：慢性炎症與疼痛的自然療法
@@ -958,7 +958,7 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 
 <a href="https://www.youtube.com/watch?v=X6WCY_tqys8" target="_blank">
     <img src="https://img.youtube.com/vi/X6WCY_tqys8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -1026,7 +1026,7 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 
 <a href="https://www.youtube.com/watch?v=o8EIF2-jT7s" target="_blank">
     <img src="https://img.youtube.com/vi/o8EIF2-jT7s/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理： carbohydrate lies and the truth about carbohydrate deficiency
@@ -1089,7 +1089,7 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 
 <a href="https://www.youtube.com/watch?v=mfIcHEEvqjk" target="_blank">
     <img src="https://img.youtube.com/vi/mfIcHEEvqjk/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：男性荷爾蒙退与更年期症状的关系及解决方案
@@ -1167,7 +1167,7 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 
 <a href="https://www.youtube.com/watch?v=uJGayLwJHXI" target="_blank">
     <img src="https://img.youtube.com/vi/uJGayLwJHXI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -1231,7 +1231,7 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 
 <a href="https://www.youtube.com/watch?v=BmtcCneixqQ" target="_blank">
     <img src="https://img.youtube.com/vi/BmtcCneixqQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：MTHFR 基因與酶功能異常及其影響與解決方案
@@ -1292,7 +1292,7 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 
 <a href="https://www.youtube.com/watch?v=sYMKOVAIcUg" target="_blank">
     <img src="https://img.youtube.com/vi/sYMKOVAIcUg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理與歸納
@@ -1356,7 +1356,7 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 
 <a href="https://www.youtube.com/watch?v=Rx03S_u50mo" target="_blank">
     <img src="https://img.youtube.com/vi/Rx03S_u50mo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：蕈菇的健康益處
@@ -1404,7 +1404,7 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 
 <a href="https://www.youtube.com/watch?v=fDBZM1n_uDE" target="_blank">
     <img src="https://img.youtube.com/vi/fDBZM1n_uDE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -1477,7 +1477,7 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 
 <a href="https://www.youtube.com/watch?v=wYCk-DMEngg" target="_blank">
     <img src="https://img.youtube.com/vi/wYCk-DMEngg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -1537,7 +1537,7 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 
 <a href="https://www.youtube.com/watch?v=BTmqyuDT7dg" target="_blank">
     <img src="https://img.youtube.com/vi/BTmqyuDT7dg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：膽固醇、膽鹽與神經健康
@@ -1608,7 +1608,7 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 
 <a href="https://www.youtube.com/watch?v=ialZZWq9vCE" target="_blank">
     <img src="https://img.youtube.com/vi/ialZZWq9vCE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -1676,7 +1676,7 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 
 <a href="https://www.youtube.com/watch?v=jfrrSbku9t4" target="_blank">
     <img src="https://img.youtube.com/vi/jfrrSbku9t4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：腎结石的成因、風險及自然療法
@@ -1734,7 +1734,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 
 <a href="https://www.youtube.com/watch?v=iBDYdTaMUTg" target="_blank">
     <img src="https://img.youtube.com/vi/iBDYdTaMUTg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章題目：卒中（中風）的營養干預與康復策略
@@ -1805,7 +1805,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 
 <a href="https://www.youtube.com/watch?v=E4ghFFE2Czc" target="_blank">
     <img src="https://img.youtube.com/vi/E4ghFFE2Czc/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：水痘病毒再激活導致疱疹及其影響
@@ -1854,7 +1854,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 
 <a href="https://www.youtube.com/watch?v=VHYycYgJ-vs" target="_blank">
     <img src="https://img.youtube.com/vi/VHYycYgJ-vs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -1926,7 +1926,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 
 <a href="https://www.youtube.com/watch?v=vfSxiTjDQFk" target="_blank">
     <img src="https://img.youtube.com/vi/vfSxiTjDQFk/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 本文重點整理
@@ -1996,7 +1996,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 
 <a href="https://www.youtube.com/watch?v=A_5CyIkC6z4" target="_blank">
     <img src="https://img.youtube.com/vi/A_5CyIkC6z4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理與結構化分析
@@ -2078,7 +2078,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 
 <a href="https://www.youtube.com/watch?v=u_BAzMSjIyA" target="_blank">
     <img src="https://img.youtube.com/vi/u_BAzMSjIyA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 低LDL和低膽固醇的危害：一個被忽略的健康議題
@@ -2144,7 +2144,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 
 <a href="https://www.youtube.com/watch?v=6enzRhTVK8I" target="_blank">
     <img src="https://img.youtube.com/vi/6enzRhTVK8I/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理與分析
@@ -2220,7 +2220,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 
 <a href="https://www.youtube.com/watch?v=z_G2uljzhGs" target="_blank">
     <img src="https://img.youtube.com/vi/z_G2uljzhGs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -2284,7 +2284,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 
 <a href="https://www.youtube.com/watch?v=c4NrX1NwLJA" target="_blank">
     <img src="https://img.youtube.com/vi/c4NrX1NwLJA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：乙酰膽鹼（Acetylcholine）的重要性與影響
@@ -2345,7 +2345,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 
 <a href="https://www.youtube.com/watch?v=AH8XTQAbIRs" target="_blank">
     <img src="https://img.youtube.com/vi/AH8XTQAbIRs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -2419,7 +2419,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 
 <a href="https://www.youtube.com/watch?v=vYm80zXKNgc" target="_blank">
     <img src="https://img.youtube.com/vi/vYm80zXKNgc/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：基因多樣性對低碳飲食反應的影響及應對策略
@@ -2488,7 +2488,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 
 <a href="https://www.youtube.com/watch?v=mm0rRzjiX2k" target="_blank">
     <img src="https://img.youtube.com/vi/mm0rRzjiX2k/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -2550,7 +2550,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 
 <a href="https://www.youtube.com/watch?v=UotvYzbg4DI" target="_blank">
     <img src="https://img.youtube.com/vi/UotvYzbg4DI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 重點整理
@@ -2645,7 +2645,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 
 <a href="https://www.youtube.com/watch?v=hifuVQGjOxg" target="_blank">
     <img src="https://img.youtube.com/vi/hifuVQGjOxg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -2706,7 +2706,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 
 <a href="https://www.youtube.com/watch?v=NHUXAe5miUc" target="_blank">
     <img src="https://img.youtube.com/vi/NHUXAe5miUc/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章核心主題：如何預防牙齒蛀蟲（Cavities）
@@ -2755,7 +2755,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 
 <a href="https://www.youtube.com/watch?v=Zto7tX8GBtQ" target="_blank">
     <img src="https://img.youtube.com/vi/Zto7tX8GBtQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ## 文章整理：維生素C缺乏症的不尋常症狀與影響
@@ -2816,7 +2816,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 
 <a href="https://www.youtube.com/watch?v=wMW8E5aLNsE" target="_blank">
     <img src="https://img.youtube.com/vi/wMW8E5aLNsE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -2899,7 +2899,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 
 <a href="https://www.youtube.com/watch?v=AZx0KMCOSs4" target="_blank">
     <img src="https://img.youtube.com/vi/AZx0KMCOSs4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -2939,7 +2939,7 @@ The article explores the causes, health risks, and natural therapies for kidney 
 
 <a href="https://www.youtube.com/watch?v=serJmA0YFD0" target="_blank">
     <img src="https://img.youtube.com/vi/serJmA0YFD0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理與分析
@@ -3003,7 +3003,7 @@ Sauna 不僅提供舒適的放鬆體驗，更在生理和心理層面帶來多�
 
 <a href="https://www.youtube.com/watch?v=RslGnogsyCA" target="_blank">
     <img src="https://img.youtube.com/vi/RslGnogsyCA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：清除痰液與黏液的方法與建議
@@ -3059,7 +3059,7 @@ Sauna 不僅提供舒適的放鬆體驗，更在生理和心理層面帶來多�
 
 <a href="https://www.youtube.com/watch?v=1e015eLi4lM" target="_blank">
     <img src="https://img.youtube.com/vi/1e015eLi4lM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：為什麼全穀物被推薦為健康的食品？
@@ -3136,7 +3136,7 @@ Sauna 不僅提供舒適的放鬆體驗，更在生理和心理層面帶來多�
 
 <a href="https://www.youtube.com/watch?v=Yu56EawudfU" target="_blank">
     <img src="https://img.youtube.com/vi/Yu56EawudfU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：尿夜频症與糖尿病及其他代謝疾病的關聯及管理策略
@@ -3190,7 +3190,7 @@ Sauna 不僅提供舒適的放鬆體驗，更在生理和心理層面帶來多�
 
 <a href="https://www.youtube.com/watch?v=vYjQHkhzNB4" target="_blank">
     <img src="https://img.youtube.com/vi/vYjQHkhzNB4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章題目：**维生素K1缺乏及其健康影響**
@@ -3269,7 +3269,7 @@ Sauna 不僅提供舒適的放鬆體驗，更在生理和心理層面帶來多�
 
 <a href="https://www.youtube.com/watch?v=--a-m_9gofI" target="_blank">
     <img src="https://img.youtube.com/vi/--a-m_9gofI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 篇章要點整理
@@ -3338,7 +3338,7 @@ Sauna 不僅提供舒適的放鬆體驗，更在生理和心理層面帶來多�
 
 <a href="https://www.youtube.com/watch?v=8asHntsuY20" target="_blank">
     <img src="https://img.youtube.com/vi/8asHntsuY20/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -3393,7 +3393,7 @@ Sauna 不僅提供舒適的放鬆體驗，更在生理和心理層面帶來多�
 
 <a href="https://www.youtube.com/watch?v=PNTz1XBzaRQ" target="_blank">
     <img src="https://img.youtube.com/vi/PNTz1XBzaRQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -3467,7 +3467,7 @@ Sauna 不僅提供舒適的放鬆體驗，更在生理和心理層面帶來多�
 
 <a href="https://www.youtube.com/watch?v=R0kS26BA5BY" target="_blank">
     <img src="https://img.youtube.com/vi/R0kS26BA5BY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -3513,7 +3513,7 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
 
 <a href="https://www.youtube.com/watch?v=Ccjs1IZOL08" target="_blank">
     <img src="https://img.youtube.com/vi/Ccjs1IZOL08/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -3553,7 +3553,7 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
 
 <a href="https://www.youtube.com/watch?v=i-sGhGT7ctA" target="_blank">
     <img src="https://img.youtube.com/vi/i-sGhGT7ctA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -3628,7 +3628,7 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
 
 <a href="https://www.youtube.com/watch?v=LU9GsnAH0Tc" target="_blank">
     <img src="https://img.youtube.com/vi/LU9GsnAH0Tc/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節整理
@@ -3680,7 +3680,7 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
 
 <a href="https://www.youtube.com/watch?v=WNfVJIthdyA" target="_blank">
     <img src="https://img.youtube.com/vi/WNfVJIthdyA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理： toenail fungus的成因與解決方案
@@ -3766,7 +3766,7 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
 
 <a href="https://www.youtube.com/watch?v=q1N9si1HRIo" target="_blank">
     <img src="https://img.youtube.com/vi/q1N9si1HRIo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：假肉產品的健康與環境影響
@@ -3840,7 +3840,7 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
 
 <a href="https://www.youtube.com/watch?v=XxPLWR1U5D0" target="_blank">
     <img src="https://img.youtube.com/vi/XxPLWR1U5D0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -3879,7 +3879,7 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
 
 <a href="https://www.youtube.com/watch?v=CQtX_Xu8H3Q" target="_blank">
     <img src="https://img.youtube.com/vi/CQtX_Xu8H3Q/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：健康飲食與微生귝影響的研究
@@ -3947,7 +3947,7 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
 
 <a href="https://www.youtube.com/watch?v=KWS-Tecjxdk" target="_blank">
     <img src="https://img.youtube.com/vi/KWS-Tecjxdk/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：基于生物薄膜的健康飲食方案
@@ -3994,7 +3994,7 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
 
 <a href="https://www.youtube.com/watch?v=v5hbfUzOggk" target="_blank">
     <img src="https://img.youtube.com/vi/v5hbfUzOggk/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -4063,7 +4063,7 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
 
 <a href="https://www.youtube.com/watch?v=XmebvEWOtzI" target="_blank">
     <img src="https://img.youtube.com/vi/XmebvEWOtzI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：糖分攝取過量的潛在副作用與影響
@@ -4130,7 +4130,7 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
 
 <a href="https://www.youtube.com/watch?v=4h75JTMGsAA" target="_blank">
     <img src="https://img.youtube.com/vi/4h75JTMGsAA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：飲水與健康的多重影響
@@ -4208,7 +4208,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 
 <a href="https://www.youtube.com/watch?v=2Hm6ZRfAbes" target="_blank">
     <img src="https://img.youtube.com/vi/2Hm6ZRfAbes/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 文章要點整理
@@ -4271,7 +4271,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 
 <a href="https://www.youtube.com/watch?v=R4Kp5Ze3eok" target="_blank">
     <img src="https://img.youtube.com/vi/R4Kp5Ze3eok/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納：
@@ -4313,7 +4313,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 
 <a href="https://www.youtube.com/watch?v=-k35KmI8hYs" target="_blank">
     <img src="https://img.youtube.com/vi/-k35KmI8hYs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 文章整理：每日攝取初榨橄欖油的效果與益處
@@ -4370,7 +4370,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 
 <a href="https://www.youtube.com/watch?v=1RpgnDnMC1I" target="_blank">
     <img src="https://img.youtube.com/vi/1RpgnDnMC1I/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：《深度解析 intermittent fasting 的飲食原則與實踐要點》
@@ -4440,7 +4440,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 
 <a href="https://www.youtube.com/watch?v=qmzPV2x7Dcg" target="_blank">
     <img src="https://img.youtube.com/vi/qmzPV2x7Dcg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 文章重點整理： prolonged fasting for health and cancer treatment
@@ -4495,7 +4495,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 
 <a href="https://www.youtube.com/watch?v=T8Ghse_HdKA" target="_blank">
     <img src="https://img.youtube.com/vi/T8Ghse_HdKA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理與分析
@@ -4560,7 +4560,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 
 <a href="https://www.youtube.com/watch?v=Quo5bOpK4GA" target="_blank">
     <img src="https://img.youtube.com/vi/Quo5bOpK4GA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：維生素B1（硫胺素）的重要性及其在健康中的作用
@@ -4594,7 +4594,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 
 <a href="https://www.youtube.com/watch?v=KvjOhVgxxn4" target="_blank">
     <img src="https://img.youtube.com/vi/KvjOhVgxxn4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -4632,7 +4632,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 
 <a href="https://www.youtube.com/watch?v=950fbVKFwHM" target="_blank">
     <img src="https://img.youtube.com/vi/950fbVKFwHM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理與結構化總結
@@ -4685,7 +4685,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 
 <a href="https://www.youtube.com/watch?v=bg_xenOrKPg" target="_blank">
     <img src="https://img.youtube.com/vi/bg_xenOrKPg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：加速胰島素阻抗改善與健康目標之策略
@@ -4751,7 +4751,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 
 <a href="https://www.youtube.com/watch?v=6RPRzN4kTWI" target="_blank">
     <img src="https://img.youtube.com/vi/6RPRzN4kTWI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：鐵代謝與健康
@@ -4833,7 +4833,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 
 <a href="https://www.youtube.com/watch?v=YF_8gVewcKg" target="_blank">
     <img src="https://img.youtube.com/vi/YF_8gVewcKg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -4902,7 +4902,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 
 <a href="https://www.youtube.com/watch?v=jlQ0qEGujic" target="_blank">
     <img src="https://img.youtube.com/vi/jlQ0qEGujic/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：酸 reflux 和胃食道逆流的成因與 해결 방법
@@ -4953,7 +4953,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 
 <a href="https://www.youtube.com/watch?v=ppTAOjdcG04" target="_blank">
     <img src="https://img.youtube.com/vi/ppTAOjdcG04/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：壓力管理和呼吸技巧的作用
@@ -5023,7 +5023,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 
 <a href="https://www.youtube.com/watch?v=eXaSVLHQj3E" target="_blank">
     <img src="https://img.youtube.com/vi/eXaSVLHQj3E/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -5077,7 +5077,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 
 <a href="https://www.youtube.com/watch?v=4u8QGZvRYvo" target="_blank">
     <img src="https://img.youtube.com/vi/4u8QGZvRYvo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理： sugar and refined carbohydrates impact health, leading to various issues like mineral deficiencies and joint problems. The article provides solutions such as dietary adjustments and supplements to counteract these effects.
@@ -5179,7 +5179,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 
 <a href="https://www.youtube.com/watch?v=GpWO3nvWvJ0" target="_blank">
     <img src="https://img.youtube.com/vi/GpWO3nvWvJ0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -5240,7 +5240,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 
 <a href="https://www.youtube.com/watch?v=bxd8Zui3v5Y" target="_blank">
     <img src="https://img.youtube.com/vi/bxd8Zui3v5Y/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：間歇性禁食的enefits與實踐指南
@@ -5326,7 +5326,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 
 <a href="https://www.youtube.com/watch?v=IHay5kYhU1s" target="_blank">
     <img src="https://img.youtube.com/vi/IHay5kYhU1s/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -5410,7 +5410,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 
 <a href="https://www.youtube.com/watch?v=AVaFEanJAUs" target="_blank">
     <img src="https://img.youtube.com/vi/AVaFEanJAUs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 研究報告：壞膽固醇（LDL）的分型、危害與管理策略
@@ -5495,7 +5495,7 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 
 <a href="https://www.youtube.com/watch?v=V2_Jmd6mCUQ" target="_blank">
     <img src="https://img.youtube.com/vi/V2_Jmd6mCUQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -5555,7 +5555,7 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 
 <a href="https://www.youtube.com/watch?v=GzxBOdx3Q68" target="_blank">
     <img src="https://img.youtube.com/vi/GzxBOdx3Q68/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -5631,7 +5631,7 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 
 <a href="https://www.youtube.com/watch?v=N_aUWIBf2VE" target="_blank">
     <img src="https://img.youtube.com/vi/N_aUWIBf2VE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：營養缺乏症狀及解決方案
@@ -5697,7 +5697,7 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 
 <a href="https://www.youtube.com/watch?v=hxY43mBVOOc" target="_blank">
     <img src="https://img.youtube.com/vi/hxY43mBVOOc/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理與分析
@@ -5756,7 +5756,7 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 
 <a href="https://www.youtube.com/watch?v=maLKYkYWMT4" target="_blank">
     <img src="https://img.youtube.com/vi/maLKYkYWMT4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 本文整理重點
@@ -5793,7 +5793,7 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 
 <a href="https://www.youtube.com/watch?v=xH9aLk7WV0o" target="_blank">
     <img src="https://img.youtube.com/vi/xH9aLk7WV0o/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -5838,7 +5838,7 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 
 <a href="https://www.youtube.com/watch?v=U2FUJqYkn5o" target="_blank">
     <img src="https://img.youtube.com/vi/U2FUJqYkn5o/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -5895,7 +5895,7 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 
 <a href="https://www.youtube.com/watch?v=FloMuAVOwoA" target="_blank">
     <img src="https://img.youtube.com/vi/FloMuAVOwoA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -5967,7 +5967,7 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 
 <a href="https://www.youtube.com/watch?v=EgGeX-UxnoA" target="_blank">
     <img src="https://img.youtube.com/vi/EgGeX-UxnoA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -6043,7 +6043,7 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 
 <a href="https://www.youtube.com/watch?v=cPyFIvCvh8U" target="_blank">
     <img src="https://img.youtube.com/vi/cPyFIvCvh8U/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -6094,7 +6094,7 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 
 <a href="https://www.youtube.com/watch?v=wh0R-avRMuM" target="_blank">
     <img src="https://img.youtube.com/vi/wh0R-avRMuM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -6153,7 +6153,7 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 
 <a href="https://www.youtube.com/watch?v=tPom4UOW1vU" target="_blank">
     <img src="https://img.youtube.com/vi/tPom4UOW1vU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：如何在不增加患皮膚癌風險的情況下從太陽中攝取維生素D
@@ -6239,7 +6239,7 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 
 <a href="https://www.youtube.com/watch?v=s-2lr6zuILA" target="_blank">
     <img src="https://img.youtube.com/vi/s-2lr6zuILA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：骨質疏鬆症的 misconception 与 comprehensive管理策略
@@ -6290,7 +6290,7 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 
 <a href="https://www.youtube.com/watch?v=SzQX-3tEDQU" target="_blank">
     <img src="https://img.youtube.com/vi/SzQX-3tEDQU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -6355,7 +6355,7 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 
 <a href="https://www.youtube.com/watch?v=FpnOArocDtA" target="_blank">
     <img src="https://img.youtube.com/vi/FpnOArocDtA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理

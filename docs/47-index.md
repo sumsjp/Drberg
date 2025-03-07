@@ -3,7 +3,7 @@
 
 <a href="https://www.youtube.com/watch?v=bksYSwtJVM0" target="_blank">
     <img src="https://img.youtube.com/vi/bksYSwtJVM0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ## 文章整理：cataracts 的防治與自然療法
@@ -52,7 +52,7 @@
 
 <a href="https://www.youtube.com/watch?v=Sn7T46fCjLE" target="_blank">
     <img src="https://img.youtube.com/vi/Sn7T46fCjLE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：10,000 IU 维生素D3的每日摄入量是否合理？
@@ -116,7 +116,7 @@
 
 <a href="https://www.youtube.com/watch?v=zW8Cu4vcReY" target="_blank">
     <img src="https://img.youtube.com/vi/zW8Cu4vcReY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -193,7 +193,7 @@
 
 <a href="https://www.youtube.com/watch?v=K1whvDMDogU" target="_blank">
     <img src="https://img.youtube.com/vi/K1whvDMDogU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -250,7 +250,7 @@
 
 <a href="https://www.youtube.com/watch?v=xEg9b3YPJj0" target="_blank">
     <img src="https://img.youtube.com/vi/xEg9b3YPJj0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：夜間排尿问题的根源与解决方案
@@ -293,7 +293,7 @@
 
 <a href="https://www.youtube.com/watch?v=23yNXtR-N1s" target="_blank">
     <img src="https://img.youtube.com/vi/23yNXtR-N1s/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理
@@ -353,7 +353,7 @@
 
 <a href="https://www.youtube.com/watch?v=XyX98bnDaow" target="_blank">
     <img src="https://img.youtube.com/vi/XyX98bnDaow/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：禽流感 Gain-of-Function 研究及其影響
@@ -420,7 +420,7 @@
 
 <a href="https://www.youtube.com/watch?v=LEsPN-9ekiA" target="_blank">
     <img src="https://img.youtube.com/vi/LEsPN-9ekiA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -489,7 +489,7 @@
 
 <a href="https://www.youtube.com/watch?v=u6xyOtp5sIE" target="_blank">
     <img src="https://img.youtube.com/vi/u6xyOtp5sIE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -549,7 +549,7 @@
 
 <a href="https://www.youtube.com/watch?v=nm15-Tftb8E" target="_blank">
     <img src="https://img.youtube.com/vi/nm15-Tftb8E/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -612,7 +612,7 @@
 
 <a href="https://www.youtube.com/watch?v=oXhOK2880i8" target="_blank">
     <img src="https://img.youtube.com/vi/oXhOK2880i8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -664,7 +664,7 @@
 
 <a href="https://www.youtube.com/watch?v=L-B5RlVKd7s" target="_blank">
     <img src="https://img.youtube.com/vi/L-B5RlVKd7s/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：抗衰老飲食與烹飪示範
@@ -711,7 +711,7 @@
 
 <a href="https://www.youtube.com/watch?v=neabI31ofMc" target="_blank">
     <img src="https://img.youtube.com/vi/neabI31ofMc/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：食欲抑制與健康管理
@@ -784,7 +784,7 @@
 
 <a href="https://www.youtube.com/watch?v=yEzFQzm0H40" target="_blank">
     <img src="https://img.youtube.com/vi/yEzFQzm0H40/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -850,7 +850,7 @@
 
 <a href="https://www.youtube.com/watch?v=RCjQAQuWiYc" target="_blank">
     <img src="https://img.youtube.com/vi/RCjQAQuWiYc/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -887,7 +887,7 @@
 
 <a href="https://www.youtube.com/watch?v=KyRjO29yHBQ" target="_blank">
     <img src="https://img.youtube.com/vi/KyRjO29yHBQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：白癜風（Vitiligo）的治療與管理  
@@ -961,7 +961,7 @@
 
 <a href="https://www.youtube.com/watch?v=or7kKNlMlDY" target="_blank">
     <img src="https://img.youtube.com/vi/or7kKNlMlDY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：健康與生活方式的核心要素
@@ -1046,7 +1046,7 @@
 
 <a href="https://www.youtube.com/watch?v=5HzMD8v8DFA" target="_blank">
     <img src="https://img.youtube.com/vi/5HzMD8v8DFA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 論文要點總結
@@ -1086,7 +1086,7 @@
 
 <a href="https://www.youtube.com/watch?v=pFVp4QY0FBk" target="_blank">
     <img src="https://img.youtube.com/vi/pFVp4QY0FBk/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -1163,7 +1163,7 @@
 
 <a href="https://www.youtube.com/watch?v=NOV5vIsjQhg" target="_blank">
     <img src="https://img.youtube.com/vi/NOV5vIsjQhg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -1216,7 +1216,7 @@
 
 <a href="https://www.youtube.com/watch?v=J9SjqPQL6WM" target="_blank">
     <img src="https://img.youtube.com/vi/J9SjqPQL6WM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：工業化加工食品對健康的影響及解決方案
@@ -1275,7 +1275,7 @@
 
 <a href="https://www.youtube.com/watch?v=IlT081VhRLM" target="_blank">
     <img src="https://img.youtube.com/vi/IlT081VhRLM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：如何去除皮膚標記和疣
@@ -1348,7 +1348,7 @@
 
 <a href="https://www.youtube.com/watch?v=Uw21AZN7Ulc" target="_blank">
     <img src="https://img.youtube.com/vi/Uw21AZN7Ulc/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -1386,7 +1386,7 @@
 
 <a href="https://www.youtube.com/watch?v=_IfaR9ivpyE" target="_blank">
     <img src="https://img.youtube.com/vi/_IfaR9ivpyE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理與分析
@@ -1444,7 +1444,7 @@
 
 <a href="https://www.youtube.com/watch?v=BAwthZkuB10" target="_blank">
     <img src="https://img.youtube.com/vi/BAwthZkuB10/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章總結與整理
@@ -1539,7 +1539,7 @@
 
 <a href="https://www.youtube.com/watch?v=XHNOAvhkr5Q" target="_blank">
     <img src="https://img.youtube.com/vi/XHNOAvhkr5Q/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：早期癡呆症的蛛絲馬跡與預防策略
@@ -1600,7 +1600,7 @@
 
 <a href="https://www.youtube.com/watch?v=S8kPjMd8akI" target="_blank">
     <img src="https://img.youtube.com/vi/S8kPjMd8akI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章結構整理
@@ -1667,7 +1667,7 @@
 
 <a href="https://www.youtube.com/watch?v=IQC5mxxgEF4" target="_blank">
     <img src="https://img.youtube.com/vi/IQC5mxxgEF4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -1712,7 +1712,7 @@
 
 <a href="https://www.youtube.com/watch?v=tqlMxfAECGg" target="_blank">
     <img src="https://img.youtube.com/vi/tqlMxfAECGg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理重點
@@ -1773,7 +1773,7 @@
 
 <a href="https://www.youtube.com/watch?v=lo77w0bP4Qs" target="_blank">
     <img src="https://img.youtube.com/vi/lo77w0bP4Qs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章主旨與結構整理
@@ -1810,7 +1810,7 @@
 
 <a href="https://www.youtube.com/watch?v=zGRKrUPIpfU" target="_blank">
     <img src="https://img.youtube.com/vi/zGRKrUPIpfU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 篇章整理：文章重點歸納
@@ -1873,7 +1873,7 @@
 
 <a href="https://www.youtube.com/watch?v=rJDDb9EvKr8" target="_blank">
     <img src="https://img.youtube.com/vi/rJDDb9EvKr8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：Castor Oil 的多功能性及其在美容和健康的應用
@@ -1926,7 +1926,7 @@
 
 <a href="https://www.youtube.com/watch?v=vWrzH4IBs-Q" target="_blank">
     <img src="https://img.youtube.com/vi/vWrzH4IBs-Q/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理：肌肉流失對長壽的影響及解決策略
@@ -2010,7 +2010,7 @@
 
 <a href="https://www.youtube.com/watch?v=knY-Foaeqlg" target="_blank">
     <img src="https://img.youtube.com/vi/knY-Foaeqlg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：腎臟健康管理與飲食策略  
@@ -2077,7 +2077,7 @@
 
 <a href="https://www.youtube.com/watch?v=e8gl002hqik" target="_blank">
     <img src="https://img.youtube.com/vi/e8gl002hqik/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -2146,7 +2146,7 @@
 
 <a href="https://www.youtube.com/watch?v=Ixf0DFExhq0" target="_blank">
     <img src="https://img.youtube.com/vi/Ixf0DFExhq0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節整理
@@ -2201,7 +2201,7 @@
 
 <a href="https://www.youtube.com/watch?v=bZ7MLOc9k9c" target="_blank">
     <img src="https://img.youtube.com/vi/bZ7MLOc9k9c/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節化整理
@@ -2283,7 +2283,7 @@
 
 <a href="https://www.youtube.com/watch?v=C_-7966jgAQ" target="_blank">
     <img src="https://img.youtube.com/vi/C_-7966jgAQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -2373,7 +2373,7 @@
 
 <a href="https://www.youtube.com/watch?v=k_Mb7BIo6hA" target="_blank">
     <img src="https://img.youtube.com/vi/k_Mb7BIo6hA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理與分析
@@ -2440,7 +2440,7 @@
 
 <a href="https://www.youtube.com/watch?v=1FPKsx2YlaY" target="_blank">
     <img src="https://img.youtube.com/vi/1FPKsx2YlaY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -2484,7 +2484,7 @@
 
 <a href="https://www.youtube.com/watch?v=3QePHCO8T8Q" target="_blank">
     <img src="https://img.youtube.com/vi/3QePHCO8T8Q/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -2556,7 +2556,7 @@
 
 <a href="https://www.youtube.com/watch?v=oZDTEWbsZd8" target="_blank">
     <img src="https://img.youtube.com/vi/oZDTEWbsZd8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -2592,7 +2592,7 @@
 
 <a href="https://www.youtube.com/watch?v=hrqr3IIoTOs" target="_blank">
     <img src="https://img.youtube.com/vi/hrqr3IIoTOs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # Vitamin D Safety - Addressing Potential Risks and Mitigating Strategies
@@ -2661,7 +2661,7 @@
 
 <a href="https://www.youtube.com/watch?v=CUY90EaVgXg" target="_blank">
     <img src="https://img.youtube.com/vi/CUY90EaVgXg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -2722,7 +2722,7 @@
 
 <a href="https://www.youtube.com/watch?v=GwxOavvgqA0" target="_blank">
     <img src="https://img.youtube.com/vi/GwxOavvgqA0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理與分析
@@ -2816,7 +2816,7 @@
 
 <a href="https://www.youtube.com/watch?v=69eAWgXDGrs" target="_blank">
     <img src="https://img.youtube.com/vi/69eAWgXDGrs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -2901,7 +2901,7 @@
 
 <a href="https://www.youtube.com/watch?v=PYwWTn2MPYo" target="_blank">
     <img src="https://img.youtube.com/vi/PYwWTn2MPYo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 為什麼維生素可能不起作用：原因與解決方案
@@ -2986,7 +2986,7 @@
 
 <a href="https://www.youtube.com/watch?v=DZB84A--178" target="_blank">
     <img src="https://img.youtube.com/vi/DZB84A--178/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -3045,7 +3045,7 @@
 
 <a href="https://www.youtube.com/watch?v=fWFetC50qWc" target="_blank">
     <img src="https://img.youtube.com/vi/fWFetC50qWc/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -3096,7 +3096,7 @@
 
 <a href="https://www.youtube.com/watch?v=Wo_9gjsFT9o" target="_blank">
     <img src="https://img.youtube.com/vi/Wo_9gjsFT9o/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -3145,7 +3145,7 @@ This article discusses the importance of cultural sensitivity and personalized m
 
 <a href="https://www.youtube.com/watch?v=TBf7uK7Urb0" target="_blank">
     <img src="https://img.youtube.com/vi/TBf7uK7Urb0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：頭髮健康的營養與環境影響
@@ -3204,7 +3204,7 @@ This article discusses the importance of cultural sensitivity and personalized m
 
 <a href="https://www.youtube.com/watch?v=eJeTsPEiXRA" target="_blank">
     <img src="https://img.youtube.com/vi/eJeTsPEiXRA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理與分析
@@ -3296,7 +3296,7 @@ This article discusses the importance of cultural sensitivity and personalized m
 
 <a href="https://www.youtube.com/watch?v=MzPw7UvAcio" target="_blank">
     <img src="https://img.youtube.com/vi/MzPw7UvAcio/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -3367,7 +3367,7 @@ This article discusses the importance of cultural sensitivity and personalized m
 
 <a href="https://www.youtube.com/watch?v=ZGEWoPmvPJY" target="_blank">
     <img src="https://img.youtube.com/vi/ZGEWoPmvPJY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 整理後的文章重點
@@ -3446,7 +3446,7 @@ This article discusses the importance of cultural sensitivity and personalized m
 
 <a href="https://www.youtube.com/watch?v=pNKJvrUIAw0" target="_blank">
     <img src="https://img.youtube.com/vi/pNKJvrUIAw0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：《Dark Calories》核心內容與建議
@@ -3506,7 +3506,7 @@ This article discusses the importance of cultural sensitivity and personalized m
 
 <a href="https://www.youtube.com/watch?v=cMEDTX3JqOs" target="_blank">
     <img src="https://img.youtube.com/vi/cMEDTX3JqOs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：男性中的孕激素（Progesterone）及其重要性
@@ -3576,7 +3576,7 @@ This article discusses the importance of cultural sensitivity and personalized m
 
 <a href="https://www.youtube.com/watch?v=y0Wj0kU4-KQ" target="_blank">
     <img src="https://img.youtube.com/vi/y0Wj0kU4-KQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節整理：文章重點
@@ -3632,7 +3632,7 @@ This article discusses the importance of cultural sensitivity and personalized m
 
 <a href="https://www.youtube.com/watch?v=xpU4JrUgqMw" target="_blank">
     <img src="https://img.youtube.com/vi/xpU4JrUgqMw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 文章整理：七種刺激幹細胞的方法
@@ -3682,7 +3682,7 @@ This article discusses the importance of cultural sensitivity and personalized m
 
 <a href="https://www.youtube.com/watch?v=RycWZAkXUEo" target="_blank">
     <img src="https://img.youtube.com/vi/RycWZAkXUEo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：阿育吠陀草藥 - 阿什瓦甘tha（Ashwagandha）的功效與應用
@@ -3741,7 +3741,7 @@ This article discusses the importance of cultural sensitivity and personalized m
 
 <a href="https://www.youtube.com/watch?v=6n32DVD3CiM" target="_blank">
     <img src="https://img.youtube.com/vi/6n32DVD3CiM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節一：核心主題  
@@ -3796,7 +3796,7 @@ This article discusses the importance of cultural sensitivity and personalized m
 
 <a href="https://www.youtube.com/watch?v=PwNXDrXjOY8" target="_blank">
     <img src="https://img.youtube.com/vi/PwNXDrXjOY8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小結整理
@@ -3835,7 +3835,7 @@ This article discusses the importance of cultural sensitivity and personalized m
 
 <a href="https://www.youtube.com/watch?v=LdR3gAzCdpU" target="_blank">
     <img src="https://img.youtube.com/vi/LdR3gAzCdpU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -3892,7 +3892,7 @@ This article discusses the importance of cultural sensitivity and personalized m
 
 <a href="https://www.youtube.com/watch?v=2MzNMBwzZv4" target="_blank">
     <img src="https://img.youtube.com/vi/2MzNMBwzZv4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理： toenail fungus 的治療與預防
@@ -3948,7 +3948,7 @@ This article discusses the importance of cultural sensitivity and personalized m
 
 <a href="https://www.youtube.com/watch?v=UtSvAyRs5OA" target="_blank">
     <img src="https://img.youtube.com/vi/UtSvAyRs5OA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理重點
@@ -4061,7 +4061,7 @@ This article discusses the importance of cultural sensitivity and personalized m
 
 <a href="https://www.youtube.com/watch?v=KGIX50eYaGU" target="_blank">
     <img src="https://img.youtube.com/vi/KGIX50eYaGU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：腳部作為身體健康的診斷窗口  
@@ -4141,7 +4141,7 @@ This article discusses the importance of cultural sensitivity and personalized m
 
 <a href="https://www.youtube.com/watch?v=7FA2nGFPbAM" target="_blank">
     <img src="https://img.youtube.com/vi/7FA2nGFPbAM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 總覽與核心主題  
@@ -4217,7 +4217,7 @@ This article discusses the importance of cultural sensitivity and personalized m
 
 <a href="https://www.youtube.com/watch?v=s0jIXMc3PS0" target="_blank">
     <img src="https://img.youtube.com/vi/s0jIXMc3PS0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -4299,7 +4299,7 @@ This article discusses the importance of cultural sensitivity and personalized m
 
 <a href="https://www.youtube.com/watch?v=ecu697VQopI" target="_blank">
     <img src="https://img.youtube.com/vi/ecu697VQopI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理  
@@ -4372,7 +4372,7 @@ This article discusses the importance of cultural sensitivity and personalized m
 
 <a href="https://www.youtube.com/watch?v=gdJDzdJjXXM" target="_blank">
     <img src="https://img.youtube.com/vi/gdJDzdJjXXM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節整理：文章關於維生素D的常見錯誤與建議
@@ -4421,7 +4421,7 @@ This article discusses the importance of cultural sensitivity and personalized m
 
 <a href="https://www.youtube.com/watch?v=9VJxmAvQX9s" target="_blank">
     <img src="https://img.youtube.com/vi/9VJxmAvQX9s/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理與分析
@@ -4488,7 +4488,7 @@ This article discusses the importance of cultural sensitivity and personalized m
 
 <a href="https://www.youtube.com/watch?v=l8vQk0_Wfck" target="_blank">
     <img src="https://img.youtube.com/vi/l8vQk0_Wfck/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -4545,7 +4545,7 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
 
 <a href="https://www.youtube.com/watch?v=x1SIEftYSvY" target="_blank">
     <img src="https://img.youtube.com/vi/x1SIEftYSvY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：维生素D与癌症的关系及应对策略
@@ -4611,7 +4611,7 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
 
 <a href="https://www.youtube.com/watch?v=MTpnF4V8stA" target="_blank">
     <img src="https://img.youtube.com/vi/MTpnF4V8stA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：如何延缓衰老，保持年轻外貌
@@ -4685,7 +4685,7 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
 
 <a href="https://www.youtube.com/watch?v=H-tboAto7so" target="_blank">
     <img src="https://img.youtube.com/vi/H-tboAto7so/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -4737,7 +4737,7 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
 
 <a href="https://www.youtube.com/watch?v=dktvNq-vCvA" target="_blank">
     <img src="https://img.youtube.com/vi/dktvNq-vCvA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -4787,7 +4787,7 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
 
 <a href="https://www.youtube.com/watch?v=NI5a45kmvr0" target="_blank">
     <img src="https://img.youtube.com/vi/NI5a45kmvr0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -4841,7 +4841,7 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
 
 <a href="https://www.youtube.com/watch?v=89jJ1JlNZlg" target="_blank">
     <img src="https://img.youtube.com/vi/89jJ1JlNZlg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：維生素K2的重要性及其在人體健康中的作用
@@ -4911,7 +4911,7 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
 
 <a href="https://www.youtube.com/watch?v=KHTDAnsSO5k" target="_blank">
     <img src="https://img.youtube.com/vi/KHTDAnsSO5k/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章總結：重要營養素與補充劑的功效及其應用
@@ -4956,7 +4956,7 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
 
 <a href="https://www.youtube.com/watch?v=jhL1mN0uBFw" target="_blank">
     <img src="https://img.youtube.com/vi/jhL1mN0uBFw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：Forever Chemicals 的影響與應對策略
@@ -5025,7 +5025,7 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
 
 <a href="https://www.youtube.com/watch?v=xxdaLKfFD80" target="_blank">
     <img src="https://img.youtube.com/vi/xxdaLKfFD80/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -5060,7 +5060,7 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
 
 <a href="https://www.youtube.com/watch?v=XiMxWUF6k04" target="_blank">
     <img src="https://img.youtube.com/vi/XiMxWUF6k04/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -5153,7 +5153,7 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
 
 <a href="https://www.youtube.com/watch?v=L8QqHBDxA94" target="_blank">
     <img src="https://img.youtube.com/vi/L8QqHBDxA94/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：紅肉的營養價值與健康爭議
@@ -5227,7 +5227,7 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
 
 <a href="https://www.youtube.com/watch?v=p9LrMx1LmCw" target="_blank">
     <img src="https://img.youtube.com/vi/p9LrMx1LmCw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節整理： magnesium 在人體健康中的角色與重要性
@@ -5289,7 +5289,7 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
 
 <a href="https://www.youtube.com/watch?v=8KgNWFyd01g" target="_blank">
     <img src="https://img.youtube.com/vi/8KgNWFyd01g/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：營養缺乏與健康的關聯
@@ -5370,7 +5370,7 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
 
 <a href="https://www.youtube.com/watch?v=bN3vjumXPLU" target="_blank">
     <img src="https://img.youtube.com/vi/bN3vjumXPLU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理與歸納
@@ -5431,7 +5431,7 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
 
 <a href="https://www.youtube.com/watch?v=18ZKgshcwi4" target="_blank">
     <img src="https://img.youtube.com/vi/18ZKgshcwi4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：壓力管理與健康
@@ -5489,7 +5489,7 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
 
 <a href="https://www.youtube.com/watch?v=NZI8qJjN2Qw" target="_blank">
     <img src="https://img.youtube.com/vi/NZI8qJjN2Qw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -5545,7 +5545,7 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
 
 <a href="https://www.youtube.com/watch?v=4-llgWDKEkM" target="_blank">
     <img src="https://img.youtube.com/vi/4-llgWDKEkM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題

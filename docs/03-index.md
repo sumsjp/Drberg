@@ -3,7 +3,7 @@
 
 <a href="https://www.youtube.com/watch?v=-cwojmZxsjY" target="_blank">
     <img src="https://img.youtube.com/vi/-cwojmZxsjY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -14,7 +14,7 @@
 
 <a href="https://www.youtube.com/watch?v=q2vPQYP0dpI" target="_blank">
     <img src="https://img.youtube.com/vi/q2vPQYP0dpI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -25,7 +25,7 @@
 
 <a href="https://www.youtube.com/watch?v=i-YaMWsGHWI" target="_blank">
     <img src="https://img.youtube.com/vi/i-YaMWsGHWI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -36,7 +36,7 @@
 
 <a href="https://www.youtube.com/watch?v=hEVNf-KTvvM" target="_blank">
     <img src="https://img.youtube.com/vi/hEVNf-KTvvM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -47,7 +47,7 @@
 
 <a href="https://www.youtube.com/watch?v=5RskH6iSkqI" target="_blank">
     <img src="https://img.youtube.com/vi/5RskH6iSkqI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -58,7 +58,7 @@
 
 <a href="https://www.youtube.com/watch?v=wXbVEDcvz8g" target="_blank">
     <img src="https://img.youtube.com/vi/wXbVEDcvz8g/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -69,7 +69,7 @@
 
 <a href="https://www.youtube.com/watch?v=Zxvlhc7ythA" target="_blank">
     <img src="https://img.youtube.com/vi/Zxvlhc7ythA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -80,7 +80,7 @@
 
 <a href="https://www.youtube.com/watch?v=IpedthIpUnY" target="_blank">
     <img src="https://img.youtube.com/vi/IpedthIpUnY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -91,7 +91,7 @@
 
 <a href="https://www.youtube.com/watch?v=R8dWWoADCFM" target="_blank">
     <img src="https://img.youtube.com/vi/R8dWWoADCFM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -102,7 +102,7 @@
 
 <a href="https://www.youtube.com/watch?v=Etn-AkPSH0I" target="_blank">
     <img src="https://img.youtube.com/vi/Etn-AkPSH0I/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -113,7 +113,7 @@
 
 <a href="https://www.youtube.com/watch?v=_EhLjMGsnRw" target="_blank">
     <img src="https://img.youtube.com/vi/_EhLjMGsnRw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -124,7 +124,7 @@
 
 <a href="https://www.youtube.com/watch?v=plEulSI2RsY" target="_blank">
     <img src="https://img.youtube.com/vi/plEulSI2RsY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -135,7 +135,7 @@
 
 <a href="https://www.youtube.com/watch?v=gvVziD_YAic" target="_blank">
     <img src="https://img.youtube.com/vi/gvVziD_YAic/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -146,7 +146,7 @@
 
 <a href="https://www.youtube.com/watch?v=6T4zOq7ifTY" target="_blank">
     <img src="https://img.youtube.com/vi/6T4zOq7ifTY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -157,7 +157,7 @@
 
 <a href="https://www.youtube.com/watch?v=Svn6q2qo6Fo" target="_blank">
     <img src="https://img.youtube.com/vi/Svn6q2qo6Fo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -168,7 +168,7 @@
 
 <a href="https://www.youtube.com/watch?v=7_GmGKOLtVk" target="_blank">
     <img src="https://img.youtube.com/vi/7_GmGKOLtVk/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -179,7 +179,7 @@
 
 <a href="https://www.youtube.com/watch?v=xDH_ds-phrs" target="_blank">
     <img src="https://img.youtube.com/vi/xDH_ds-phrs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -190,7 +190,7 @@
 
 <a href="https://www.youtube.com/watch?v=pRcM7c7Z5B4" target="_blank">
     <img src="https://img.youtube.com/vi/pRcM7c7Z5B4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -201,7 +201,7 @@
 
 <a href="https://www.youtube.com/watch?v=GR8bmbiZFtY" target="_blank">
     <img src="https://img.youtube.com/vi/GR8bmbiZFtY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -212,7 +212,7 @@
 
 <a href="https://www.youtube.com/watch?v=eMIA8CswFNc" target="_blank">
     <img src="https://img.youtube.com/vi/eMIA8CswFNc/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -223,7 +223,7 @@
 
 <a href="https://www.youtube.com/watch?v=74s6eiBBBFU" target="_blank">
     <img src="https://img.youtube.com/vi/74s6eiBBBFU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -234,7 +234,7 @@
 
 <a href="https://www.youtube.com/watch?v=SXVle9Ca7M4" target="_blank">
     <img src="https://img.youtube.com/vi/SXVle9Ca7M4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -245,7 +245,7 @@
 
 <a href="https://www.youtube.com/watch?v=DyZ2yd7vbtI" target="_blank">
     <img src="https://img.youtube.com/vi/DyZ2yd7vbtI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -256,7 +256,7 @@
 
 <a href="https://www.youtube.com/watch?v=9zZWBPyQgFA" target="_blank">
     <img src="https://img.youtube.com/vi/9zZWBPyQgFA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -267,7 +267,7 @@
 
 <a href="https://www.youtube.com/watch?v=SWvvnKqNmNA" target="_blank">
     <img src="https://img.youtube.com/vi/SWvvnKqNmNA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -278,7 +278,7 @@
 
 <a href="https://www.youtube.com/watch?v=38oAwqwFMEQ" target="_blank">
     <img src="https://img.youtube.com/vi/38oAwqwFMEQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -289,7 +289,7 @@
 
 <a href="https://www.youtube.com/watch?v=m3DvyRrJDYE" target="_blank">
     <img src="https://img.youtube.com/vi/m3DvyRrJDYE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -300,7 +300,7 @@
 
 <a href="https://www.youtube.com/watch?v=mc98ziMfTqM" target="_blank">
     <img src="https://img.youtube.com/vi/mc98ziMfTqM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -311,7 +311,7 @@
 
 <a href="https://www.youtube.com/watch?v=f4vE4jvcN64" target="_blank">
     <img src="https://img.youtube.com/vi/f4vE4jvcN64/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -322,7 +322,7 @@
 
 <a href="https://www.youtube.com/watch?v=aJcbjSe1Jcc" target="_blank">
     <img src="https://img.youtube.com/vi/aJcbjSe1Jcc/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -333,7 +333,7 @@
 
 <a href="https://www.youtube.com/watch?v=JHtXq_hkUTo" target="_blank">
     <img src="https://img.youtube.com/vi/JHtXq_hkUTo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -344,7 +344,7 @@
 
 <a href="https://www.youtube.com/watch?v=MLHwlEHOBnM" target="_blank">
     <img src="https://img.youtube.com/vi/MLHwlEHOBnM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -355,7 +355,7 @@
 
 <a href="https://www.youtube.com/watch?v=Bf2t8FxD3KU" target="_blank">
     <img src="https://img.youtube.com/vi/Bf2t8FxD3KU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -366,7 +366,7 @@
 
 <a href="https://www.youtube.com/watch?v=5a7Ss7t2OQI" target="_blank">
     <img src="https://img.youtube.com/vi/5a7Ss7t2OQI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -377,7 +377,7 @@
 
 <a href="https://www.youtube.com/watch?v=eaTVQm45Wqw" target="_blank">
     <img src="https://img.youtube.com/vi/eaTVQm45Wqw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -388,7 +388,7 @@
 
 <a href="https://www.youtube.com/watch?v=x7Q_l3-firI" target="_blank">
     <img src="https://img.youtube.com/vi/x7Q_l3-firI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -399,7 +399,7 @@
 
 <a href="https://www.youtube.com/watch?v=5h2aHwpxNMI" target="_blank">
     <img src="https://img.youtube.com/vi/5h2aHwpxNMI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -410,7 +410,7 @@
 
 <a href="https://www.youtube.com/watch?v=4ubWuwzjSGs" target="_blank">
     <img src="https://img.youtube.com/vi/4ubWuwzjSGs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -421,7 +421,7 @@
 
 <a href="https://www.youtube.com/watch?v=8cIYhvRni3Y" target="_blank">
     <img src="https://img.youtube.com/vi/8cIYhvRni3Y/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -432,7 +432,7 @@
 
 <a href="https://www.youtube.com/watch?v=xPXnzwOmzOM" target="_blank">
     <img src="https://img.youtube.com/vi/xPXnzwOmzOM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -443,7 +443,7 @@
 
 <a href="https://www.youtube.com/watch?v=PFXMbBNCq90" target="_blank">
     <img src="https://img.youtube.com/vi/PFXMbBNCq90/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -454,7 +454,7 @@
 
 <a href="https://www.youtube.com/watch?v=gXdlPuKfyXs" target="_blank">
     <img src="https://img.youtube.com/vi/gXdlPuKfyXs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -465,7 +465,7 @@
 
 <a href="https://www.youtube.com/watch?v=aBV0THrWHbM" target="_blank">
     <img src="https://img.youtube.com/vi/aBV0THrWHbM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -476,7 +476,7 @@
 
 <a href="https://www.youtube.com/watch?v=MflNNJ7DEKY" target="_blank">
     <img src="https://img.youtube.com/vi/MflNNJ7DEKY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -487,7 +487,7 @@
 
 <a href="https://www.youtube.com/watch?v=TN9bzEyw8CU" target="_blank">
     <img src="https://img.youtube.com/vi/TN9bzEyw8CU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -498,7 +498,7 @@
 
 <a href="https://www.youtube.com/watch?v=6V3Dl4CpmE4" target="_blank">
     <img src="https://img.youtube.com/vi/6V3Dl4CpmE4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -509,7 +509,7 @@
 
 <a href="https://www.youtube.com/watch?v=xKvnoefh3QY" target="_blank">
     <img src="https://img.youtube.com/vi/xKvnoefh3QY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -520,7 +520,7 @@
 
 <a href="https://www.youtube.com/watch?v=5WWkK_VZka4" target="_blank">
     <img src="https://img.youtube.com/vi/5WWkK_VZka4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -531,7 +531,7 @@
 
 <a href="https://www.youtube.com/watch?v=epNcLy6knx4" target="_blank">
     <img src="https://img.youtube.com/vi/epNcLy6knx4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -542,7 +542,7 @@
 
 <a href="https://www.youtube.com/watch?v=z1cOvH1_vKc" target="_blank">
     <img src="https://img.youtube.com/vi/z1cOvH1_vKc/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -553,7 +553,7 @@
 
 <a href="https://www.youtube.com/watch?v=QM2toEzB9sk" target="_blank">
     <img src="https://img.youtube.com/vi/QM2toEzB9sk/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -564,7 +564,7 @@
 
 <a href="https://www.youtube.com/watch?v=M2ne0tlBlu4" target="_blank">
     <img src="https://img.youtube.com/vi/M2ne0tlBlu4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -575,7 +575,7 @@
 
 <a href="https://www.youtube.com/watch?v=oGzpLXUIVkg" target="_blank">
     <img src="https://img.youtube.com/vi/oGzpLXUIVkg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -586,7 +586,7 @@
 
 <a href="https://www.youtube.com/watch?v=-QAJG1UxTbg" target="_blank">
     <img src="https://img.youtube.com/vi/-QAJG1UxTbg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -597,7 +597,7 @@
 
 <a href="https://www.youtube.com/watch?v=QF3A6-Uzep4" target="_blank">
     <img src="https://img.youtube.com/vi/QF3A6-Uzep4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -608,7 +608,7 @@
 
 <a href="https://www.youtube.com/watch?v=ZR1wH9mwb5o" target="_blank">
     <img src="https://img.youtube.com/vi/ZR1wH9mwb5o/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -619,7 +619,7 @@
 
 <a href="https://www.youtube.com/watch?v=yVe417S38EE" target="_blank">
     <img src="https://img.youtube.com/vi/yVe417S38EE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -630,7 +630,7 @@
 
 <a href="https://www.youtube.com/watch?v=KTCx7toHtFc" target="_blank">
     <img src="https://img.youtube.com/vi/KTCx7toHtFc/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -641,7 +641,7 @@
 
 <a href="https://www.youtube.com/watch?v=VSkFUR_XMRk" target="_blank">
     <img src="https://img.youtube.com/vi/VSkFUR_XMRk/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -652,7 +652,7 @@
 
 <a href="https://www.youtube.com/watch?v=wKLiXJqVIY8" target="_blank">
     <img src="https://img.youtube.com/vi/wKLiXJqVIY8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -663,7 +663,7 @@
 
 <a href="https://www.youtube.com/watch?v=xkiK98L9hCs" target="_blank">
     <img src="https://img.youtube.com/vi/xkiK98L9hCs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -674,7 +674,7 @@
 
 <a href="https://www.youtube.com/watch?v=qlQ8764Epx0" target="_blank">
     <img src="https://img.youtube.com/vi/qlQ8764Epx0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -685,7 +685,7 @@
 
 <a href="https://www.youtube.com/watch?v=_D-Pp0V_z-Q" target="_blank">
     <img src="https://img.youtube.com/vi/_D-Pp0V_z-Q/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -696,7 +696,7 @@
 
 <a href="https://www.youtube.com/watch?v=W4ACwdXIJag" target="_blank">
     <img src="https://img.youtube.com/vi/W4ACwdXIJag/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -707,7 +707,7 @@
 
 <a href="https://www.youtube.com/watch?v=IdDMMs96N9A" target="_blank">
     <img src="https://img.youtube.com/vi/IdDMMs96N9A/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -718,7 +718,7 @@
 
 <a href="https://www.youtube.com/watch?v=jZBRCc_KDoI" target="_blank">
     <img src="https://img.youtube.com/vi/jZBRCc_KDoI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -729,7 +729,7 @@
 
 <a href="https://www.youtube.com/watch?v=54S6mUkrtM0" target="_blank">
     <img src="https://img.youtube.com/vi/54S6mUkrtM0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -740,7 +740,7 @@
 
 <a href="https://www.youtube.com/watch?v=0st9k3bNAi0" target="_blank">
     <img src="https://img.youtube.com/vi/0st9k3bNAi0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -751,7 +751,7 @@
 
 <a href="https://www.youtube.com/watch?v=Kmhvx9uCV-8" target="_blank">
     <img src="https://img.youtube.com/vi/Kmhvx9uCV-8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -762,7 +762,7 @@
 
 <a href="https://www.youtube.com/watch?v=f6nRFIUrDo8" target="_blank">
     <img src="https://img.youtube.com/vi/f6nRFIUrDo8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -773,7 +773,7 @@
 
 <a href="https://www.youtube.com/watch?v=TsoYREVnVH8" target="_blank">
     <img src="https://img.youtube.com/vi/TsoYREVnVH8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -784,7 +784,7 @@
 
 <a href="https://www.youtube.com/watch?v=J-oDjYNmKgo" target="_blank">
     <img src="https://img.youtube.com/vi/J-oDjYNmKgo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -795,7 +795,7 @@
 
 <a href="https://www.youtube.com/watch?v=n4Ld_fI7-SU" target="_blank">
     <img src="https://img.youtube.com/vi/n4Ld_fI7-SU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -806,7 +806,7 @@
 
 <a href="https://www.youtube.com/watch?v=CQ421BJgfwQ" target="_blank">
     <img src="https://img.youtube.com/vi/CQ421BJgfwQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -817,7 +817,7 @@
 
 <a href="https://www.youtube.com/watch?v=meLPsIqeGPw" target="_blank">
     <img src="https://img.youtube.com/vi/meLPsIqeGPw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -828,7 +828,7 @@
 
 <a href="https://www.youtube.com/watch?v=W2jJEAp_R8A" target="_blank">
     <img src="https://img.youtube.com/vi/W2jJEAp_R8A/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -839,7 +839,7 @@
 
 <a href="https://www.youtube.com/watch?v=xe5y7wwz2vY" target="_blank">
     <img src="https://img.youtube.com/vi/xe5y7wwz2vY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -850,7 +850,7 @@
 
 <a href="https://www.youtube.com/watch?v=Y9FRww43ZZw" target="_blank">
     <img src="https://img.youtube.com/vi/Y9FRww43ZZw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -861,7 +861,7 @@
 
 <a href="https://www.youtube.com/watch?v=SJ7jMfPrRhM" target="_blank">
     <img src="https://img.youtube.com/vi/SJ7jMfPrRhM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -872,7 +872,7 @@
 
 <a href="https://www.youtube.com/watch?v=rIBQK72310w" target="_blank">
     <img src="https://img.youtube.com/vi/rIBQK72310w/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -883,7 +883,7 @@
 
 <a href="https://www.youtube.com/watch?v=2MJ4Bx5A4Jg" target="_blank">
     <img src="https://img.youtube.com/vi/2MJ4Bx5A4Jg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -894,7 +894,7 @@
 
 <a href="https://www.youtube.com/watch?v=kITRkhhri2o" target="_blank">
     <img src="https://img.youtube.com/vi/kITRkhhri2o/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -905,7 +905,7 @@
 
 <a href="https://www.youtube.com/watch?v=gqilqf0ZRBY" target="_blank">
     <img src="https://img.youtube.com/vi/gqilqf0ZRBY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -916,7 +916,7 @@
 
 <a href="https://www.youtube.com/watch?v=S209tiroQic" target="_blank">
     <img src="https://img.youtube.com/vi/S209tiroQic/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -927,7 +927,7 @@
 
 <a href="https://www.youtube.com/watch?v=Rdsrb_g5ZLo" target="_blank">
     <img src="https://img.youtube.com/vi/Rdsrb_g5ZLo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -938,7 +938,7 @@
 
 <a href="https://www.youtube.com/watch?v=XeHl5Y7m1xM" target="_blank">
     <img src="https://img.youtube.com/vi/XeHl5Y7m1xM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -949,7 +949,7 @@
 
 <a href="https://www.youtube.com/watch?v=ul5HVtnF5Jw" target="_blank">
     <img src="https://img.youtube.com/vi/ul5HVtnF5Jw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -960,7 +960,7 @@
 
 <a href="https://www.youtube.com/watch?v=7t555iJaTrw" target="_blank">
     <img src="https://img.youtube.com/vi/7t555iJaTrw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -971,7 +971,7 @@
 
 <a href="https://www.youtube.com/watch?v=zGcZGt0kK9I" target="_blank">
     <img src="https://img.youtube.com/vi/zGcZGt0kK9I/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -982,7 +982,7 @@
 
 <a href="https://www.youtube.com/watch?v=eNbngNayePA" target="_blank">
     <img src="https://img.youtube.com/vi/eNbngNayePA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -993,7 +993,7 @@
 
 <a href="https://www.youtube.com/watch?v=PyOSAyOg3e4" target="_blank">
     <img src="https://img.youtube.com/vi/PyOSAyOg3e4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -1004,7 +1004,7 @@
 
 <a href="https://www.youtube.com/watch?v=y7uR2oBopiI" target="_blank">
     <img src="https://img.youtube.com/vi/y7uR2oBopiI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -1015,7 +1015,7 @@
 
 <a href="https://www.youtube.com/watch?v=k1cajxGqMjQ" target="_blank">
     <img src="https://img.youtube.com/vi/k1cajxGqMjQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -1026,7 +1026,7 @@
 
 <a href="https://www.youtube.com/watch?v=S1Z9ObBmRxE" target="_blank">
     <img src="https://img.youtube.com/vi/S1Z9ObBmRxE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -1037,7 +1037,7 @@
 
 <a href="https://www.youtube.com/watch?v=WMtRQ8l_5Rw" target="_blank">
     <img src="https://img.youtube.com/vi/WMtRQ8l_5Rw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -1048,7 +1048,7 @@
 
 <a href="https://www.youtube.com/watch?v=PIJU1q3meFk" target="_blank">
     <img src="https://img.youtube.com/vi/PIJU1q3meFk/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -1059,7 +1059,7 @@
 
 <a href="https://www.youtube.com/watch?v=WH5ZEufCG3k" target="_blank">
     <img src="https://img.youtube.com/vi/WH5ZEufCG3k/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -1070,7 +1070,7 @@
 
 <a href="https://www.youtube.com/watch?v=YR-KPrmIvgo" target="_blank">
     <img src="https://img.youtube.com/vi/YR-KPrmIvgo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -1081,7 +1081,7 @@
 
 <a href="https://www.youtube.com/watch?v=bFbRy1qx8ro" target="_blank">
     <img src="https://img.youtube.com/vi/bFbRy1qx8ro/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -1092,7 +1092,7 @@
 
 <a href="https://www.youtube.com/watch?v=ii_OWTqn1rw" target="_blank">
     <img src="https://img.youtube.com/vi/ii_OWTqn1rw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 

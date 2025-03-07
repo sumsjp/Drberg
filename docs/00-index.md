@@ -3,7 +3,7 @@
 
 <a href="https://www.youtube.com/watch?v=UrJW9dCxVhU" target="_blank">
     <img src="https://img.youtube.com/vi/UrJW9dCxVhU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 I. 核心主題  
@@ -39,7 +39,7 @@ VI. 結論
 
 <a href="https://www.youtube.com/watch?v=703oYuzXZNo" target="_blank">
     <img src="https://img.youtube.com/vi/703oYuzXZNo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -87,7 +87,7 @@ VI. 結論
 
 <a href="https://www.youtube.com/watch?v=kOcBB3OWPpY" target="_blank">
     <img src="https://img.youtube.com/vi/kOcBB3OWPpY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -123,7 +123,7 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 
 <a href="https://www.youtube.com/watch?v=DKnAb8bIUcY" target="_blank">
     <img src="https://img.youtube.com/vi/DKnAb8bIUcY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -134,7 +134,7 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 
 <a href="https://www.youtube.com/watch?v=GXirii-9ySo" target="_blank">
     <img src="https://img.youtube.com/vi/GXirii-9ySo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -193,7 +193,7 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 
 <a href="https://www.youtube.com/watch?v=722_8kxeg5A" target="_blank">
     <img src="https://img.youtube.com/vi/722_8kxeg5A/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -241,7 +241,7 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 
 <a href="https://www.youtube.com/watch?v=gJNnSODgpj0" target="_blank">
     <img src="https://img.youtube.com/vi/gJNnSODgpj0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 文章整理： deprivation dieting 與代糖甜點替代方案
@@ -283,7 +283,7 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 
 <a href="https://www.youtube.com/watch?v=IHfiEXMgZ_4" target="_blank">
     <img src="https://img.youtube.com/vi/IHfiEXMgZ_4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：飲料中的糖分與營養成分分析及其健康影響
@@ -338,7 +338,7 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 
 <a href="https://www.youtube.com/watch?v=hC3D_eeULLU" target="_blank">
     <img src="https://img.youtube.com/vi/hC3D_eeULLU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：鸡蛋的营养价值与健康益处  
@@ -376,7 +376,7 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 
 <a href="https://www.youtube.com/watch?v=fKjqBZdf3RQ" target="_blank">
     <img src="https://img.youtube.com/vi/fKjqBZdf3RQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節結構化整理
@@ -415,7 +415,7 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 
 <a href="https://www.youtube.com/watch?v=1URgrSjgQTY" target="_blank">
     <img src="https://img.youtube.com/vi/1URgrSjgQTY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -469,7 +469,7 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 
 <a href="https://www.youtube.com/watch?v=6K3oJW26D58" target="_blank">
     <img src="https://img.youtube.com/vi/6K3oJW26D58/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -510,7 +510,7 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 
 <a href="https://www.youtube.com/watch?v=CIZ3ake2ZBo" target="_blank">
     <img src="https://img.youtube.com/vi/CIZ3ake2ZBo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題： kale Shake 的製作與健康益處
@@ -567,7 +567,7 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 
 <a href="https://www.youtube.com/watch?v=hTqDCao_Caw" target="_blank">
     <img src="https://img.youtube.com/vi/hTqDCao_Caw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節一：核心主題  
@@ -625,7 +625,7 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 
 <a href="https://www.youtube.com/watch?v=Gb5Mztmx-U0" target="_blank">
     <img src="https://img.youtube.com/vi/Gb5Mztmx-U0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -663,7 +663,7 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 
 <a href="https://www.youtube.com/watch?v=41HnMrqZAmU" target="_blank">
     <img src="https://img.youtube.com/vi/41HnMrqZAmU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -709,7 +709,7 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 
 <a href="https://www.youtube.com/watch?v=s5h3VoMQt9g" target="_blank">
     <img src="https://img.youtube.com/vi/s5h3VoMQt9g/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -785,7 +785,7 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 
 <a href="https://www.youtube.com/watch?v=V6Zy00bU5Bo" target="_blank">
     <img src="https://img.youtube.com/vi/V6Zy00bU5Bo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -848,7 +848,7 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 
 <a href="https://www.youtube.com/watch?v=DnvnKnu7YBI" target="_blank">
     <img src="https://img.youtube.com/vi/DnvnKnu7YBI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：vitamin C 的重要性與合理攝取
@@ -914,7 +914,7 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 
 <a href="https://www.youtube.com/watch?v=HNNk31aGaYo" target="_blank">
     <img src="https://img.youtube.com/vi/HNNk31aGaYo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理解讀
@@ -952,7 +952,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=fGT5cISbXa4" target="_blank">
     <img src="https://img.youtube.com/vi/fGT5cISbXa4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 全文要旨  
@@ -1002,7 +1002,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=vjHYuEj43fg" target="_blank">
     <img src="https://img.youtube.com/vi/vjHYuEj43fg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -1050,7 +1050,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=LRxN-30oJx8" target="_blank">
     <img src="https://img.youtube.com/vi/LRxN-30oJx8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：改善姿勢的方法
@@ -1107,7 +1107,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=8Ray80ec9mk" target="_blank">
     <img src="https://img.youtube.com/vi/8Ray80ec9mk/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -1158,7 +1158,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=M9Isr1ON3lE" target="_blank">
     <img src="https://img.youtube.com/vi/M9Isr1ON3lE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：核心主題  
@@ -1221,7 +1221,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=vadPxKRGm7k" target="_blank">
     <img src="https://img.youtube.com/vi/vadPxKRGm7k/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -1293,7 +1293,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=MQsDeZNlk4c" target="_blank">
     <img src="https://img.youtube.com/vi/MQsDeZNlk4c/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -1354,7 +1354,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=WvO6N9vlmCo" target="_blank">
     <img src="https://img.youtube.com/vi/WvO6N9vlmCo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納：
@@ -1405,7 +1405,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=p7KMpyQ7x9k" target="_blank">
     <img src="https://img.youtube.com/vi/p7KMpyQ7x9k/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節結構
@@ -1444,7 +1444,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=eRjBkoFy9IA" target="_blank">
     <img src="https://img.youtube.com/vi/eRjBkoFy9IA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：健康與營養管理的重要性
@@ -1489,7 +1489,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=EsGvIsqGFpU" target="_blank">
     <img src="https://img.youtube.com/vi/EsGvIsqGFpU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 關於夜間渴望甜食的飲食建議
@@ -1527,7 +1527,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=giPkBbm52CM" target="_blank">
     <img src="https://img.youtube.com/vi/giPkBbm52CM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節整理
@@ -1567,7 +1567,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=-LfNqA61-aU" target="_blank">
     <img src="https://img.youtube.com/vi/-LfNqA61-aU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -1616,7 +1616,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=v-qINKfAm7U" target="_blank">
     <img src="https://img.youtube.com/vi/v-qINKfAm7U/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 文章重點整理
@@ -1676,7 +1676,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=UUV7CRT8lbE" target="_blank">
     <img src="https://img.youtube.com/vi/UUV7CRT8lbE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 # 文章整理：消除妊娠紋的方法
@@ -1741,7 +1741,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=gc4P7uhZCK8" target="_blank">
     <img src="https://img.youtube.com/vi/gc4P7uhZCK8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -1804,7 +1804,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=k6-Tkv_Jnz0" target="_blank">
     <img src="https://img.youtube.com/vi/k6-Tkv_Jnz0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -1839,7 +1839,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=x9espCyDUp8" target="_blank">
     <img src="https://img.youtube.com/vi/x9espCyDUp8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -1878,7 +1878,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=TTqsVzse5HY" target="_blank">
     <img src="https://img.youtube.com/vi/TTqsVzse5HY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -1922,7 +1922,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=NqOpIj_XXFU" target="_blank">
     <img src="https://img.youtube.com/vi/NqOpIj_XXFU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -1980,7 +1980,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=sINOePVcD3I" target="_blank">
     <img src="https://img.youtube.com/vi/sINOePVcD3I/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -1991,7 +1991,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=krwKqnmidC8" target="_blank">
     <img src="https://img.youtube.com/vi/krwKqnmidC8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理： grains 的營養與健康影響
@@ -2046,7 +2046,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=A7MsLHlDEDc" target="_blank">
     <img src="https://img.youtube.com/vi/A7MsLHlDEDc/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理與歸納
@@ -2092,7 +2092,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=wr82y-dGoTg" target="_blank">
     <img src="https://img.youtube.com/vi/wr82y-dGoTg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理
@@ -2147,7 +2147,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=FTZcZz1ESII" target="_blank">
     <img src="https://img.youtube.com/vi/FTZcZz1ESII/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：健康飲食與體重管理的核心要素
@@ -2222,7 +2222,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=W_EHiOd8yHQ" target="_blank">
     <img src="https://img.youtube.com/vi/W_EHiOd8yHQ/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -2263,7 +2263,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=HhLJz1-SAhw" target="_blank">
     <img src="https://img.youtube.com/vi/HhLJz1-SAhw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -2297,7 +2297,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=0rh0qiyPxdY" target="_blank">
     <img src="https://img.youtube.com/vi/0rh0qiyPxdY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -2334,7 +2334,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=fCHw_dW7oH4" target="_blank">
     <img src="https://img.youtube.com/vi/fCHw_dW7oH4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -2366,7 +2366,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=lZnVLG-nLTE" target="_blank">
     <img src="https://img.youtube.com/vi/lZnVLG-nLTE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -2394,7 +2394,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=_jV90HZceus" target="_blank">
     <img src="https://img.youtube.com/vi/_jV90HZceus/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -2432,7 +2432,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=8SixpXSS6Bw" target="_blank">
     <img src="https://img.youtube.com/vi/8SixpXSS6Bw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -2479,7 +2479,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=rOd4QNwDTv4" target="_blank">
     <img src="https://img.youtube.com/vi/rOd4QNwDTv4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節整理
@@ -2506,7 +2506,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=YF00ySD6nKE" target="_blank">
     <img src="https://img.youtube.com/vi/YF00ySD6nKE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -2547,7 +2547,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=919B_Ey0fuU" target="_blank">
     <img src="https://img.youtube.com/vi/919B_Ey0fuU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -2599,7 +2599,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=SuRyHA2wQc8" target="_blank">
     <img src="https://img.youtube.com/vi/SuRyHA2wQc8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節：低背部伸展的重要性
@@ -2640,7 +2640,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=FckvKNAi44U" target="_blank">
     <img src="https://img.youtube.com/vi/FckvKNAi44U/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -2676,7 +2676,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=Sggj4HgaoO0" target="_blank">
     <img src="https://img.youtube.com/vi/Sggj4HgaoO0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -2713,7 +2713,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=yhxWd2jveT8" target="_blank">
     <img src="https://img.youtube.com/vi/yhxWd2jveT8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節化整理
@@ -2764,7 +2764,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=ZBpNtVSmTN4" target="_blank">
     <img src="https://img.youtube.com/vi/ZBpNtVSmTN4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節一：核心主題  
@@ -2820,7 +2820,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=hzYhdetIiHg" target="_blank">
     <img src="https://img.youtube.com/vi/hzYhdetIiHg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -2849,7 +2849,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=s3HfT4yI76A" target="_blank">
     <img src="https://img.youtube.com/vi/s3HfT4yI76A/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -2860,7 +2860,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 
 <a href="https://www.youtube.com/watch?v=KkBWi3G9qM0" target="_blank">
     <img src="https://img.youtube.com/vi/KkBWi3G9qM0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -2906,7 +2906,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 
 <a href="https://www.youtube.com/watch?v=8JJm4HRq8Oo" target="_blank">
     <img src="https://img.youtube.com/vi/8JJm4HRq8Oo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：水耕法及其營養價值探討與健康飲品介紹
@@ -2976,7 +2976,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 
 <a href="https://www.youtube.com/watch?v=qKSlhns1xmg" target="_blank">
     <img src="https://img.youtube.com/vi/qKSlhns1xmg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -3026,7 +3026,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 
 <a href="https://www.youtube.com/watch?v=E_AvZcJ9IV4" target="_blank">
     <img src="https://img.youtube.com/vi/E_AvZcJ9IV4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -3072,7 +3072,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 
 <a href="https://www.youtube.com/watch?v=HS0Bm5oB8YI" target="_blank">
     <img src="https://img.youtube.com/vi/HS0Bm5oB8YI/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -3139,7 +3139,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 
 <a href="https://www.youtube.com/watch?v=5Q6g9e1O35s" target="_blank">
     <img src="https://img.youtube.com/vi/5Q6g9e1O35s/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理與分析
@@ -3208,7 +3208,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 
 <a href="https://www.youtube.com/watch?v=pbuCC33gKck" target="_blank">
     <img src="https://img.youtube.com/vi/pbuCC33gKck/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -3269,7 +3269,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 
 <a href="https://www.youtube.com/watch?v=hGiN_a0rYJY" target="_blank">
     <img src="https://img.youtube.com/vi/hGiN_a0rYJY/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -3315,7 +3315,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 
 <a href="https://www.youtube.com/watch?v=TNUaDYqt0uA" target="_blank">
     <img src="https://img.youtube.com/vi/TNUaDYqt0uA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -3349,7 +3349,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 
 <a href="https://www.youtube.com/watch?v=yQ9jy2eCb5I" target="_blank">
     <img src="https://img.youtube.com/vi/yQ9jy2eCb5I/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -3410,7 +3410,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 
 <a href="https://www.youtube.com/watch?v=T3eo4p2LuYw" target="_blank">
     <img src="https://img.youtube.com/vi/T3eo4p2LuYw/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節整理
@@ -3458,7 +3458,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 
 <a href="https://www.youtube.com/watch?v=3GWnU_lma7w" target="_blank">
     <img src="https://img.youtube.com/vi/3GWnU_lma7w/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 英文版文章標題  
@@ -3526,7 +3526,7 @@ Dr. Berg
 
 <a href="https://www.youtube.com/watch?v=Gr5QxkSm9xs" target="_blank">
     <img src="https://img.youtube.com/vi/Gr5QxkSm9xs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題：生長激素與arginine的作用及影響
@@ -3558,7 +3558,7 @@ Dr. Berg
 
 <a href="https://www.youtube.com/watch?v=kJegLw2qtPc" target="_blank">
     <img src="https://img.youtube.com/vi/kJegLw2qtPc/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節一：核心主題  
@@ -3601,7 +3601,7 @@ Dr. Berg
 
 <a href="https://www.youtube.com/watch?v=bNnmCqGMy8Q" target="_blank">
     <img src="https://img.youtube.com/vi/bNnmCqGMy8Q/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理與分析
@@ -3652,7 +3652,7 @@ Dr. Berg
 
 <a href="https://www.youtube.com/watch?v=M25xpZk5WtU" target="_blank">
     <img src="https://img.youtube.com/vi/M25xpZk5WtU/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -3708,7 +3708,7 @@ Dr. Berg
 
 <a href="https://www.youtube.com/watch?v=rC7cXuNlyR4" target="_blank">
     <img src="https://img.youtube.com/vi/rC7cXuNlyR4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心_theme  
@@ -3744,7 +3744,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 
 <a href="https://www.youtube.com/watch?v=G3AFxauJeok" target="_blank">
     <img src="https://img.youtube.com/vi/G3AFxauJeok/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小結整理
@@ -3787,7 +3787,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 
 <a href="https://www.youtube.com/watch?v=E7yVINKxiew" target="_blank">
     <img src="https://img.youtube.com/vi/E7yVINKxiew/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：抗碳水化合物 cravings 的飲食計劃
@@ -3849,7 +3849,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 
 <a href="https://www.youtube.com/watch?v=Lk1RlIHx7F0" target="_blank">
     <img src="https://img.youtube.com/vi/Lk1RlIHx7F0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -3900,7 +3900,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 
 <a href="https://www.youtube.com/watch?v=Fjqtjq4WRNg" target="_blank">
     <img src="https://img.youtube.com/vi/Fjqtjq4WRNg/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -3951,7 +3951,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 
 <a href="https://www.youtube.com/watch?v=_xR5rYmSvc0" target="_blank">
     <img src="https://img.youtube.com/vi/_xR5rYmSvc0/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -4042,7 +4042,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 
 <a href="https://www.youtube.com/watch?v=XefowjsRkDo" target="_blank">
     <img src="https://img.youtube.com/vi/XefowjsRkDo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -4075,7 +4075,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 
 <a href="https://www.youtube.com/watch?v=mLk7prs2IdM" target="_blank">
     <img src="https://img.youtube.com/vi/mLk7prs2IdM/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -4123,7 +4123,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 
 <a href="https://www.youtube.com/watch?v=hvYEFh3em3Q" target="_blank">
     <img src="https://img.youtube.com/vi/hvYEFh3em3Q/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -4134,7 +4134,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 
 <a href="https://www.youtube.com/watch?v=_kuQPktErD4" target="_blank">
     <img src="https://img.youtube.com/vi/_kuQPktErD4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -4203,7 +4203,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 
 <a href="https://www.youtube.com/watch?v=IquS1CMFYDA" target="_blank">
     <img src="https://img.youtube.com/vi/IquS1CMFYDA/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理：健康與減肥之道
@@ -4271,7 +4271,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 
 <a href="https://www.youtube.com/watch?v=LqYD6ScfV5Y" target="_blank">
     <img src="https://img.youtube.com/vi/LqYD6ScfV5Y/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ---
@@ -4336,7 +4336,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 
 <a href="https://www.youtube.com/watch?v=08KUhaJrejs" target="_blank">
     <img src="https://img.youtube.com/vi/08KUhaJrejs/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -4396,7 +4396,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 
 <a href="https://www.youtube.com/watch?v=49TxVYeq4m4" target="_blank">
     <img src="https://img.youtube.com/vi/49TxVYeq4m4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -4444,7 +4444,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 
 <a href="https://www.youtube.com/watch?v=z_pRjz-0X7o" target="_blank">
     <img src="https://img.youtube.com/vi/z_pRjz-0X7o/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理與結構化分析
@@ -4487,7 +4487,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 
 <a href="https://www.youtube.com/watch?v=H-trFS60Ku4" target="_blank">
     <img src="https://img.youtube.com/vi/H-trFS60Ku4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 
@@ -4498,7 +4498,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 
 <a href="https://www.youtube.com/watch?v=nTOrG4w660c" target="_blank">
     <img src="https://img.youtube.com/vi/nTOrG4w660c/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節整理：脂肪的功能與健康哲學
@@ -4537,7 +4537,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 
 <a href="https://www.youtube.com/watch?v=McGFltMvSIo" target="_blank">
     <img src="https://img.youtube.com/vi/McGFltMvSIo/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -4589,7 +4589,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 
 <a href="https://www.youtube.com/watch?v=Q5wN32_3m4o" target="_blank">
     <img src="https://img.youtube.com/vi/Q5wN32_3m4o/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -4652,7 +4652,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 
 <a href="https://www.youtube.com/watch?v=lgyf5KoRfzE" target="_blank">
     <img src="https://img.youtube.com/vi/lgyf5KoRfzE/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 文章整理與分析
@@ -4722,7 +4722,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 
 <a href="https://www.youtube.com/watch?v=XO-iyh2Z_s8" target="_blank">
     <img src="https://img.youtube.com/vi/XO-iyh2Z_s8/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 一、核心主題：身體類型分類与健康关联
@@ -4783,7 +4783,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 
 <a href="https://www.youtube.com/watch?v=LE8iCYYoXh4" target="_blank">
     <img src="https://img.youtube.com/vi/LE8iCYYoXh4/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 ### 小節整理：文章重點歸納
