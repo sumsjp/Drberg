@@ -373,113 +373,603 @@
 </details>
 
 <details>
-<summary>366. Dr.Berg explains How to Relieve the Pain after Gallbladder Removal Surgery</summary><br>
+<summary>366. [2016-02-15] Dr.Berg explains How to Relieve the Pain after Gallbladder Removal Surgery</summary><br>
 
 <a href="https://www.youtube.com/watch?v=eaTVQm45Wqw" target="_blank">
     <img src="https://img.youtube.com/vi/eaTVQm45Wqw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 本文主要探討 gallbladder 手術後的疼痛問題及其解決方案。
 
+---
+
+### 主要觀念  
+1. **膽囊的功能**：膽囊負責儲存並濃縮肝臟產生的 bile，用於消化脂肪和吸收脂溶性維生素（如 A、D、E、K 和 K2）。  
+2. **手術後的影響**：切除膽囊後，人體無法有效储存和釋放 bile，導致消化功能受阻。  
+
+---
+
+### 問題原因  
+- **生理解剖因素**：膽囊切除後， bile 的自然儲存和集中機制被破壞，導致脂肪消化不完全和脂溶性維生素吸收不足。  
+- **併發症**：可能引發膽管痙攣、肩部放射痛（因神經反射）、夜間視力問題、乾燥皮膚等症狀。  
+
+---
+
+### 解決方法  
+1. **按摩與按壓法**：  
+   - 在膽囊的對側位置（通常靠近胰腺）進行按摩，可緩解疼痛和刺激 bile 的自然流動。  
+   - 按摩時若感到劇烈疼痛，表示按壓位置可能正確，但需注意力度以避免不適。  
+
+2. **藥物補充**：  
+   - 使用「膽囊支持配方」（Gallbladder Support Formula），內含純化後的 bile 盐，用於補充手術後缺失的 bile 成分。  
+   - 服用時間建議與早餐或餐食一同食用，以增強脂肪消化和吸收能力。  
+
+---
+
+### 健康建議  
+1. **定期按摩**：每天進行約 2 分鐘的對側按壓 Massage，持續至少一周，可有效緩解膽囊周圍疼痛。  
+2. **補充劑攝取**：考慮長期服用胆囊支持配方，以防脂肪和脂溶性維生素吸收不足導致的營養失衡。  
+3. **飲食調整**：避免高脂肪飲食，降低膽管痙攣風險。  
+
+---
+
+### 結論  
+- 本文提出了一種簡單有效的非侵入式方法來緩解膽囊手術後的疼痛問題，結合按摩和藥物補充，可顯著改善患者的生活品質。  
+- 按摩和 bile 补充劑的使用已被證實能有效解決手術後的消化功能障礙，值得進一步研究和推廣。
 </details>
 
 <details>
-<summary>365. Importance of Gallbladder & Side Effects of Gallbladder Surgery – Dr. Berg</summary><br>
+<summary>365. [2016-02-15] Importance of Gallbladder & Side Effects of Gallbladder Surgery – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=x7Q_l3-firI" target="_blank">
     <img src="https://img.youtube.com/vi/x7Q_l3-firI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Core Theme (核心主題)
+- **Importance of the Gallbladder**: The gallbladder is crucial for long-term health, contrary to common belief that it is an extra organ.
+  - 經絡：膽囊對長期健康非常重要，與常言われる「余官」ではない。
 
+### Key Concepts (主要觀念)
+- **Role of Bile**: Bile produced by the liver and stored by the gallbladder aids in fat digestion and absorption, which is essential for brain health, nerve function, and cell membrane integrity.
+  - 經絡：胆汁由肝臟產生，儲存在膽囊中，有助於脂肪的消化和吸收，對腦健康、神經功能和細胞膜完整性至關重要。
+- **Vitamin Absorption**: Bile helps in the utilization of fat-soluble vitamins (A, D, E, K2), which are vital for vision, skin, immune system, heart health, and calcium transport.
+  - 經絡：膽汁有助於脂溶性維生素（A、D、E、K2）的吸收，對視力、皮膚、免疫系統、心臟健康和鈣運輸至關重要。
+
+### Problems Caused by Gallbladder Removal (問題原因)
+- **Deficiencies in Fat-Soluble Vitamins**: Without a gallbladder, the absorption of vitamins A, D, E, and K2 is impaired, leading to deficiencies.
+  - 經絡：缺乏膽囊會影響脂溶性維生素（A、D、E、K2）的吸收，導致缺乏症。
+- **Calcium Metabolism Issues**: Poor vitamin K2 absorption can lead to improper calcium transport, resulting in conditions like cataracts, atherosclerosis, heart attacks, high blood pressure, kidney stones, arthritis, bursitis, tendinitis, heel spurs, bunions, and breast tissue calcification.
+  - 經絡：維生素K2吸收不良導致鈣代謝失常，可能引發白內障、动脉硬化、心臟病、高血壓、腎结石、關節炎、滑囊炎、肌腱炎、足底筋膜炎、痛和乳腺組織钙化。
+- **Gastrointestinal Issues**: Without bile, digestion is impaired, leading to bloating, constipation, and right shoulder pain (referred pain).
+  - 經絡：缺乏膽汁會影響消化，導致脹氣、便秘和右肩疼痛（轉移性疼痛）。
+
+### Solutions and Health Recommendations (解決方法與健康建議)
+- **Dietary Adjustments**: Focus on a diet rich in healthy fats, such as avocados, nuts, seeds, and fatty fish, to support bile production and fat absorption.
+  - 經絡：飲食調整，注重富含健康脂肪的食物，如牛油果、堅果、種子和多脂魚，以支持膽汁生成和脂肪吸收。
+- **Supplementation**: Use products like "Gallbladder Formula," which contains purified bile salts, slippery elm bark for colon lubrication, Spanish black radish, and stone root to support digestion and prevent deficiencies.
+  - 經絡：使用「膽囊配方」等產品，含純化胆鹽、牛膝草樹皮以潤滑大腸、西班牙黑.Radish和石根，以支持消化並防止缺乏症。
+- **Regular Monitoring**: Regularly check for vitamin deficiencies and calcium metabolism issues post-gallbladder removal.
+  - 經絡：膽囊切除後定期檢查維生素缺乏症和鈣代謝問題。
+
+### Conclusion (結論)
+- The gallbladder plays a critical role in overall health, particularly in fat digestion, vitamin absorption, and calcium transport. Its removal can lead to significant long-term health issues if not properly managed through diet and supplementation.
+  - 胆囊在整體健康中扮演關鍵角色，特別是在脂肪消化、維生素吸收和鈣運輸方面。如果切除膽囊且未妥善管理，可能會導致嚴重的長期健康問題。
+
+---
+
+### English Version
+
+Core Theme (核心主題)  
+- **Importance of the Gallbladder**: The gallbladder is crucial for long-term health, contrary to common belief that it is an extra organ.
+
+Key Concepts (主要觀念)  
+- **Role of Bile**: Bile produced by the liver and stored by the gallbladder aids in fat digestion and absorption, which is essential for brain health, nerve function, and cell membrane integrity.  
+- **Vitamin Absorption**: Bile helps in the utilization of fat-soluble vitamins (A, D, E, K2), which are vital for vision, skin, immune system, heart health, and calcium transport.
+
+Problems Caused by Gallbladder Removal (問題原因)  
+- **Deficiencies in Fat-Soluble Vitamins**: Without a gallbladder, the absorption of vitamins A, D, E, and K2 is impaired, leading to deficiencies.  
+- **Calcium Metabolism Issues**: Poor vitamin K2吸收 can lead to improper calcium transport, resulting in conditions like cataracts, atherosclerosis, heart attacks, high blood pressure, kidney stones, arthritis, bursitis, tendinitis, heel spurs, bunions, and breast tissue calcification.  
+- **Gastrointestinal Issues**: Without bile, digestion is impaired, leading to bloating, constipation, and right shoulder pain (referred pain).
+
+Solutions and Health Recommendations (解決方法與健康建議)  
+- **Dietary Adjustments**: Focus on a diet rich in healthy fats, such as avocados, nuts, seeds, and fatty fish, to support bile production and fat absorption.  
+- **Supplementation**: Use products like "Gallbladder Formula," which contains purified bile salts, slippery elm bark for colon lubrication, Spanish black radish, and stone root to support digestion and prevent deficiencies.  
+- **Regular Monitoring**: Regularly check for vitamin deficiencies and calcium metabolism issues post-gallbladder removal.
+
+Conclusion (結論)  
+- The gallbladder plays a critical role in overall health, particularly in fat digestion, vitamin absorption, and calcium transport. Its removal can lead to significant long-term health issues if not properly managed through diet and supplementation.
 </details>
 
 <details>
-<summary>364. What Causes Sleep Apnea & How to Get Rid of it? – Home Remedies by Dr.Berg</summary><br>
+<summary>364. [2016-02-15] What Causes Sleep Apnea & How to Get Rid of it? – Home Remedies by Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5h2aHwpxNMI" target="_blank">
     <img src="https://img.youtube.com/vi/5h2aHwpxNMI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小結整理：睡眠呼吸中斷症（Sleep Apnea）的成因、診斷與自然療法
 
+#### 1. 核心主題
+- 睡眠呼吸中斷症（Sleep Apnea）是一種影響-breathing 的疾病，其核心問題在於上氣道阻塞，導致患者在睡眠過程中無法正常呼吸。
+
+#### 2. 主要觀念
+- 睡眠呼吸中斷症並非僅僅是睡眠障礙，而是與呼吸道阻塞密切相關。
+- 阻塞型睡眠呼吸中斷症的主要原因是上氣道塌陷或組織萎縮，導致通氣受阻。
+
+#### 3. 問題原因
+- **解剖結構問題**：後鼻孔區域的塌陷和組織萎縮（atrophy）是主要成因。
+- **肥胖與脂肪分布**：雖然肥胖常被提及，但瘦削者也可能患病，提示其病因複雜。
+- **炎症反應**：過敏、食物不耐受和糖分攝取過量會引發炎症，加重呼吸道阻塞。
+- **免疫功能失衡**：長期使用抗生素可能破壞腸道菌群平衡，導致真菌感染。
+
+#### 4. 解決方法
+- **飲食調整**：
+  - 避免乳制品、糖分和精制碳水化合物（如面包、 pasta）。
+  - 減少致炎食物攝取，以降低呼吸道炎症。
+- **抗過敏治療**：
+  - 使用皇家蜂膠（Royal Jelly）來減輕過敏症狀。
+  - 調整飲食以改善過敏情況。
+- **激素平衡**：
+  - 管理壓力和高皮質醇水平，使用支持腎上腺功能的產品。
+- **腸道健康**：
+  - 补充益生菌，恢復腸道菌群平衡，防止真菌感染。
+
+#### 5. 健康建議
+- **pH值調節**：
+  - 每日攝取蘋果醋以微調身體酸鹼度，增加血液含氧量。
+- **環境改善**：
+  - 在臥室放置植物以提高氧氣濃度。
+  - 選擇潮濕的環境或Thunderstorm天氣以獲得更多氧氣。
+
+#### 6. 結論
+- 睡眠呼吸中斷症的治療應該綜合影食調整、抗過敏療法和壓力管理等多方面措施。
+- 自然療法如飲食控制和益生菌補充可有效改善病情，值得進一步研究與實踐。
 </details>
 
 <details>
-<summary>363. What Causes Pimples and How to Get Rid of Acne</summary><br>
+<summary>363. [2016-02-15] What Causes Pimples and How to Get Rid of Acne</summary><br>
 
 <a href="https://www.youtube.com/watch?v=4ubWuwzjSGs" target="_blank">
     <img src="https://img.youtube.com/vi/4ubWuwzjSGs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 通過調整飲食和生活方式來改善肌膚健康，避免依賴藥物如抗生素或異維甲酸（Accutane）。
+
+#### 主要觀念
+1. **脂溶性維生素的重要性**  
+   - 維生素A、D等脂溶性維生素能影響基因表達，控制acellular功能。
+   - 膳食中的脂肪有助於這些維生素的吸收。
+
+2. **消化系統的作用**  
+   - 腮腺分泌膽汁，幫助分解脂肪和脂溶性維生素。  
+   - 如果肝臟或膽囊功能不良，可能影響這些營養素的吸收。
+
+3. **激素平衡與痤瘡**  
+   - 皮質醇（應激荷爾蒙）和雄性激素（androgens）過高會導致痤瘡。
+   - 高糖飲食和壓力是導致這些激素失衡的主要原因。
+
+4. **營養素對肌膚的影響**  
+   - 維生素B5（泛醇）可改善皮膚狀況，但需注意其與其他維生素如生物素的平衡。
+   - 高糖飲食會刺激胰島素分泌，導致皮脂腺活性增加。
+
+#### 問題原因
+1. **營養失衡**  
+   - 糖分攝取過多導致激素失衡和炎症反應。  
+   - 膳食中缺乏足夠的脂溶性維生素和其他必需營養素。
+
+2. **生活方式因素**  
+   - 高壓力生活引發皮質醇分泌增加，影響皮膚健康。  
+   - 不健康的飲食習慣（如垃圾食品攝取過量）導致營養不均。
+
+#### 解決方法
+1. **飲食調整**  
+   - 減少糖分攝取，包括隱形糖分（如烘焙食品、果汁等）。  
+   - 增加富含脂溶性維生素的食物，如動物肝臟、魚油、蛋黃等。  
+   - 保持均衡飲食，攝入足夠的蔬菜和水果以提供其他必需營養素。
+
+2. **改善消化功能**  
+   - 確保膽汁分泌充足，避免膽囊相關問題。  
+   - 可考慮補充消化酶或調整飲食結構來促進消化吸收。
+
+3. **管理壓力**  
+   - 通過運動、冥想等方式降低壓力水平，控制皮質醇分泌。  
+   - 適當休息，保持良好的睡眠品質。
+
+4. **營養補充**  
+   - 在醫生建議下合理補充維生素B5等有益皮膚的營養素。  
+   - 避免單一營養素過量攝取，注意各營養素之間的平衡。
+
+#### 健康建議
+1. **飲食方面**  
+   - 減少精制糖和高GI食物的攝取，選擇低GI食物以穩定血糖水平。  
+   - 多食用富含脂溶性維生素的食物，並搭配健康脂肪（如橄欖油、 nuts）促進吸收。
+
+2. **生活習慣**  
+   - 建立規律的作息時間，避免熬夜，以降低壓力水平。  
+   - 適當進行戶外活動，接受陽光照射以促進維生素D的合成。
+
+3. **健康管理**  
+   - 定期檢查肝臟和膽囊功能，及時發現並處理相關問題。  
+   - 如存在多囊卵巢綜合征（PCOS）等激素失衡情況，需與醫生合作進行 comprehensive管理。
+
+#### 結論
+改善肌膚健康需要從飲食、荷爾蒙平衡和消化功能三個方面入手。通過減少糖分攝取、增加富含脂溶性維生素的食物、管理壓力並保持良好的生活習慣，可以有效改善痤瘡問題，避免依賴藥物治療。
+
+---
+
+### 總結段落
+本文強調了通過調整飲食和生活方式來改善肌膚健康的必要性。核心在於平衡營養攝取，特別是脂溶性維生素的充足吸收，以及控制糖分和壓力水平以維持激素平衡。作者建議減少高糖飲食、增加健康脂肪攝取、管理壓力並保持良好的消化功能，這些措施共同作用可有效改善痤瘡問題，實現健康的肌膚狀態。
 </details>
 
 <details>
-<summary>362. Dr. Berg's Cortisol Support Formula Ingredients - for Adrenal Fatigue</summary><br>
+<summary>362. [2016-02-12] Dr. Berg's Cortisol Support Formula Ingredients - for Adrenal Fatigue</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8cIYhvRni3Y" target="_blank">
     <img src="https://img.youtube.com/vi/8cIYhvRni3Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 介紹一款名為「Cortisol Support」的新產品，旨在支持 adrenal health 和恢復因burnout或慢性疾病導致的腺疲勞。
 
+---
+
+### 主要觀念  
+1. **Adrenal Burnout 的影響**  
+   - Adrenal burnout 可能導致chronic fatigue syndrome、fibromyalgia等症狀。  
+2. **Cortisol的作用**  
+   - Cortisol 是由 adrenal glands 釋放的激素，過高或不當水平會引發健康問題，如炎症和代謝紊亂。  
+
+---
+
+### 問題原因  
+1. **營養缺乏**  
+   - B5 貪pletion 可能導致能量代謝障礙。  
+2. **壓力影響**  
+   - 慢性壓力可耗竭身體資源，包括 adrenal glands 的功能。  
+3. **不良飲食習慣**  
+   - 食用 GMO 或含有 pesticide 的食物可能影響營養吸收和激素平衡。  
+
+---
+
+### 解決方法  
+1. **補充關鍵營養素**  
+   - **Vitamin C Complex**: 維生素C對adrenal hormones的合成至關重要，Camu Camu Berry 和 Acerola Cherry 提供天然整體形式。  
+   - **Licorice Root**: 調節 adrenal 激素水平，幫助恢復平衡。  
+2. **微量元素**  
+   - Manganese、Zinc 和 Copper 是多種酶反應的必需元素，有助於修復腺機能障礙。  
+3. **產品成分**  
+   - 結合全食物營養素和草本成分，提供整體支持 adrenal health。  
+
+---
+
+### 健康建議  
+1. **劑量調整**  
+   - 每日建議攝取量為1-3粒，根據個人反應調整時間（早晨或晚上）。  
+2. **逐步使用**  
+   - 由低劑量開始，觀察身體反應再決定是否增加劑量。  
+3. **生活方式改變**  
+   - 管理壓力、保持均衡飲食和良好睡眠習慣，以促進 adrenal health 的恢復。  
+
+---
+
+### 結論  
+- Cortisol Support 產品旨在提供針對性支持，幫助恢復因burnout或慢性疾病導致的腺疲勞。  
+- 通過補充關鍵營養素和微量元素，結合整體健康策略，可有效改善 adrenal功能相關問題。
 </details>
 
 <details>
-<summary>361. What causes Kidney Stones & It's Treatment by Dr.Berg</summary><br>
+<summary>361. [2016-02-08] What causes Kidney Stones & It's Treatment by Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xPXnzwOmzOM" target="_blank">
     <img src="https://img.youtube.com/vi/xPXnzwOmzOM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 肾结石的成因及防治方法。
 
+### 主要觀念
+1. **腎臟石的主要類型**：
+   - 最常見的是鈣 oxalate 石。
+2. **腎臟石的形成機制**：
+   - 離子失衡：血液中缺乏枸櫞酸鹽（citrates）導致鈣結晶沈淀。
+3. **影響腎臟石形成的因素**：
+   - 高 oxalate 食物攝取。
+   - 抗酸藥的使用，尤其是含鈣的抗酸藥。
+   - 銷售的鈣補充劑（如鈣碳酸鹽）的濫用。
+   - 糖分過高導致鈣質流失。
+   - 高鹽攝取。
+
+### 問題原因
+1. **血清化學失衡**：
+   - 枸櫞酸鹽不足，無法有效螯合 excess calcium，導致結晶沉積。
+2. **飲食因素**：
+   - 高 oxalate 食物攝取過量（如深色啤酒、 Brassica 蔬菜類、巧克力、堅果、甜菜、菠菜等）。
+   - 高糖飲食造成鈣質流失。
+3. **藥物影響**：
+   - 含鈣的抗酸藥增加體內鈣負荷，加重腎臟沈淀。
+
+### 解決方法
+1. **增加枸櫞酸鹽攝取**：
+   - 每日攝取 1-3 就算匙新鮮檸檬汁或萊姆汁。
+   - 可加入少量蘋果醋增強效果。
+2. **調整飲食**：
+   - 減少高 oxalate 食物的攝取。
+   - 控制鹽分攝取，避免加工食品中過高的 sodium 含量。
+3. **避免不必要的鈣補充劑**：
+   - 慎用 calcium carbonate 等不易吸收的形式。
+4. **維生素 K2 的角色**：
+   - 輔助排除 excess soft tissue calcium。
+
+### 健康建議
+1. **飲食調整**：
+   - 多攝取富含枸櫞酸鹽的食物或補充劑。
+   - 減少高糖、高鹽及高 oxalate 食物的攝取。
+2. **藥物使用注意**：
+   - 慎用含鈣抗酸藥，必要時諮詢醫師。
+3. **補充劑選擇**：
+   - 選擇易吸收的鈣形式，如citrate或malate。
+4. **定期檢查**：
+   - 特別是高風險群（如有家族史、反覆结石患者），需定期追蹤血清化學指標。
+
+### 結論
+- 腎臟石的形成與血液中離子平衡及飲食習慣密切相關。透過調整飲食結構、增加枸櫞酸鹽攝取以及避免濫用藥物和補充劑，可以有效預防腎臟石的形成或复发。
+- 同時，輔以適當的營養補充（如維生素 K2）及健康的生活方式，可進一步降低腎臟相關問題的風險。
 </details>
 
 <details>
-<summary>360. The 2-Minute Sore Throat Solution</summary><br>
+<summary>360. [2016-02-01] The 2-Minute Sore Throat Solution</summary><br>
 
 <a href="https://www.youtube.com/watch?v=PFXMbBNCq90" target="_blank">
     <img src="https://img.youtube.com/vi/PFXMbBNCq90/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：快速消除喉嚨痛的自我治療法
 
+#### 核心主題
+- **自然療法**：介紹了一種不需要藥物或 herbs 的方法來快速缓解喉嚨痛。
+- **穴位按壓（Acupressure）**：強調使用穴位按壓技術來解決喉嚨痛問題。
+
+#### 主要觀念
+1. 喉嚨痛的反覆性：傳統上，喉嚨痛容易反覆發生，尤其在冬季。
+2. 痛點與能量阻塞：喉嚨痛被視為「卡住的能量」，影響淋巴循環和神經功能。
+3. 按壓位置：刺激頸部特定穴位以釋放阻塞的能量。
+
+#### 問題原因
+- 喉嚨痛的發生與淋巴系統堵塞、血液循環不暢以及神經受壓有關。
+- 長期反覆感染導致頸部肌肉緊張和能量淤積。
+
+#### 解决方法
+1. **按壓位置**：
+   - 在喉嚨痛對側的颈部後方進行按壓。
+   - 使用中指和拇指施加穩定但有力的壓力。
+2. **技術要領**：
+   - 找到最敏感且緊張的位置，通常比喉嚨痛更為明顯。
+   - 逐步增加壓力並評估疼痛程度（ pain scale）。
+3. **操作時長**：
+   - 持續按壓約2分鐘或直到疼痛完全消退。
+
+#### 健康建議
+- **預防勝於治療**：定期進行此按壓以防止喉嚨痛的發生。
+- **適用人群**：任何人皆可自行操作，亦可由他人協助完成。
+- **持久效果**：長期使用能減少反覆感染，避免依賴抗生素。
+
+#### 結論
+- 這種非侵入性的自然療法有效且快速，值得在喉嚨痛初期使用。
+- 長期實施可改善頸部肌肉緊張，增強免疫系統功能。
 </details>
 
 <details>
-<summary>359. 2 Simple Stretches / Exercises to Fix Plantar Fasciitis – Dr.Berg</summary><br>
+<summary>359. [2016-01-24] 2 Simple Stretches / Exercises to Fix Plantar Fasciitis – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=gXdlPuKfyXs" target="_blank">
     <img src="https://img.youtube.com/vi/gXdlPuKfyXs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 解決 Morton 腫瘓（Plantar Fasciitis）的快速方法  
 
+---
+
+### 主要觀念  
+- **Morton 腾痛**是由足底韌帶發炎引起的疼痛症狀。  
+- 常規治療方法（如按摩或牽拉腳底）效果不佳且可能加重病情。  
+- 通過伸展小腿前側肌肉群來解除壓力是更有效的治療方式。  
+
+---
+
+### 問題原因  
+- 長期使用足部導致韌帶过度勞損。  
+- 常規治疗方法（如按摩或牽拉腳底）未能針對性地解決問題，反而可能造成進一步損害。  
+
+---
+
+### 解決方法  
+1. **疼痛評分法**：先為疼痛程度打分（0至10分）。  
+2. **小腿前側肌肉伸展**：  
+   - 伸展動作包括將腳趾向下壓迫並放鬆，重複此動作約10-20次。  
+   - 可坐姿進行，臀部著地， heels 接觸地面，身體前傾以增加拉伸效果。  
+3. **全身性信號傳送**：通過伸展小腿前側肌肉群，刺激神經系統來緩解足底壓力。  
+
+---
+
+### 健康建議  
+- 每天進行一次此伸展動作，持續一週即可見效。  
+- 若有全身性問題（如風濕或高尿酸血症），需調整飲食結構，減少糖分攝入並增加蔬菜攝取。  
+
+---
+
+### 結論  
+- 本方法為非侵入性治療，操作簡單且效果顯著。  
+- 建議患者在實施此方法後評估疼痛改善情況，並於評論區分享結果以供交流。
 </details>
 
 <details>
-<summary>358. Gastroesophageal Reflux Disease (GERD) – Causes, Symptoms and Treatment – Dr.Berg</summary><br>
+<summary>358. [2016-01-18] Gastroesophageal Reflux Disease (GERD) – Causes, Symptoms and Treatment – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=aBV0THrWHbM" target="_blank">
     <img src="https://img.youtube.com/vi/aBV0THrWHbM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- **GERD（胃食管反流病）**：本文討論了GERD及其與 acid reflux 和 heartburn 的關聯。
 
+---
+
+### 主要觀念  
+1. GERD 是由胃酸 pH 值升高（偏鹼性）引發，而非傳統認為的過多胃酸。  
+2. 胃部正常 pH 值應維持在 1-3，以確保消化功能正常並防止食管反流。  
+3. 年齡增長導致胃酸分泌量下降，增加 GERD 癥狀風險。  
+
+---
+
+### 問題原因  
+- **胃酸不足**：  
+  - pH 值上升至更接近中性（7），導致胃酸過弱。  
+  - 胃酸不足無法有效殺滅食物中的微生物。  
+  - 閉門閥（LES）因 pH 上升而失去功能，允許胃酸反流。  
+
+---
+
+### 解決方法  
+1. **補充胃酸**：  
+   - 使用 Betaine Hydrochloride （鹽酸芻葜果提取物），一種自然的酸化劑。  
+   - 服用蘋果醋片劑以增加胃部酸度。  
+
+2. **抑制 H pylori 感染**：  
+   - H pylori 在胃 pH 值偏鹼時活躍，導致GERD惡化。  
+   - 確保足夠的胃酸可幫助抑制 H pylori 的活性。  
+
+---
+
+### 健康建議  
+1. **飲食調整**：  
+   - 避免食用易引起胃酸不足的食物（如加工食品、糖分過高的食物）。  
+   - 增加攝取富含維生素C和礦物質的食物，以促進胃酸分泌。  
+
+2. **藥物副作用注意**：  
+   - 抗酸藥雖能暫時缓解症狀，但長期使用會降低胃酸水平，導致病情惡化。  
+
+3. **定期檢查 H pylori 感染**：  
+   - 對GERD患者建議進行H pylori檢測，並在必要時接受治療。  
+
+---
+
+### 結論  
+- GERD 的根本原因是胃酸不足而非過多，補充胃酸是關鍵解決方案。  
+- 適當使用 Betaine Hydrochloride 或蘋果醋片劑可有效改善症狀。  
+- 保持足夠的胃酸水平不僅能預防GERD，還能避免 H pylori 感染和相關並發症。
 </details>
 
 <details>
-<summary>357. Diabetes Burnout to Normal Life – Success Story of Dr.Berg's patient</summary><br>
+<summary>357. [2016-01-15] Diabetes Burnout to Normal Life – Success Story of Dr.Berg's patient</summary><br>
 
 <a href="https://www.youtube.com/watch?v=MflNNJ7DEKY" target="_blank">
     <img src="https://img.youtube.com/vi/MflNNJ7DEKY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Key Themes and Insights from the Article
 
+#### Core Theme: 
+- **Comprehensive Health Transformation Through Lifestyle Changes**: The article highlights the significant improvements in a client's health through disciplined lifestyle modifications, including diet, exercise, stress management, and complementary therapies.
+
+---
+
+#### Major Concepts:
+1. **Shift Work and Its Impact on Health**:
+   - Long-term shift work (second or third shifts) led to burnout, sleep disorders, irregular heartbeat, and weight gain.
+   - Shift work disrupted circadian rhythms, contributing to chronic health issues.
+
+2. **Diabetes Management**:
+   - The client had a long-standing history of type 2 diabetes, which was effectively managed through diet, stress reduction, and medication adjustments.
+
+3. **Medication Side Effects**:
+   - Certain medications (e.g., Lipitor) caused severe side effects like numbness, nausea, diarrhea, and lethargy, highlighting the importance of personalized treatment plans.
+
+4. **Stress and Its Influence on Blood Sugar Levels**:
+   - High stress levels increased cortisol production, leading to elevated blood sugar levels despite a clean diet.
+
+5. **Role of Sleep in Recovery**:
+   - Poor sleep quality from shift work negatively impacted overall health, including blood sugar stability and recovery from injuries like plantar fasciitis.
+
+6. **Impact of Diet on Blood Sugar and Overall Health**:
+   - A diet rich in vegetables, low in carbohydrates, and free from processed foods significantly improved blood sugar control and overall metabolic health.
+
+7. **Exercise and Recovery**:
+   - Interval training and consistent exercise improved energy levels, cardiovascular health, and recovery from chronic injuries.
+
+8. **Complementary Therapies**:
+   - Use of acupressure tools (e.g., "balloon doggie") provided additional support for relaxation and pain relief.
+
+---
+
+#### Root Causes of Health Issues:
+1. **Disrupted Circadian Rhythms**: 
+   - Prolonged shift work led to poor sleep quality and irregular biological rhythms, contributing to metabolic disturbances and chronic health conditions.
+
+2. **Ineffective Medications**:
+   - Standard medications (e.g., Lipitor) caused adverse effects, underscoring the need for personalized treatment approaches.
+
+3. **Poor Stress Management**:
+   - Chronic stress increased cortisol levels, negatively impacting blood sugar control and overall health.
+
+4. **Unhealthy Dietary Patterns**:
+   - High carbohydrate intake and reliance on processed foods contributed to weight gain and poor blood sugar regulation.
+
+---
+
+#### Solutions and Interventions:
+1. **Lifestyle Modifications**:
+   - Adoption of a low-carbohydrate, high-vegetable diet.
+   - Regular interval training and exercise routines.
+   - Stress reduction techniques like acupressure.
+
+2. **Medication Adjustments**:
+   - Discontinuation of problematic medications (e.g., Lipitor) in favor of safer alternatives.
+
+3. **Sleep Optimization**:
+   - Implementation of strategies to improve sleep quality, including consistent bedtime routines and avoiding shift work.
+
+4. **Complementary Therapies**:
+   - Use of acupressure tools for pain relief and relaxation.
+
+---
+
+#### Health Recommendations:
+1. **Dietary Adjustments**:
+   - Prioritize whole foods, especially vegetables, healthy fats (e.g., olive oil), and lean proteins.
+   - Eliminate processed carbohydrates and sugars to improve blood sugar control.
+
+2. **Exercise Routine**:
+   - Incorporate interval training and moderate-intensity exercises like running and walking to enhance cardiovascular health and energy levels.
+
+3. **Stress Management**:
+   - Practice relaxation techniques such as acupressure, meditation, or yoga to reduce cortisol levels and improve overall well-being.
+
+4. **Sleep Hygiene**:
+   - Maintain a consistent sleep schedule, avoid screens before bedtime, and create a conducive sleep environment.
+
+5. **Regular Monitoring**:
+   - Continue monitoring blood sugar levels, cholesterol, and other health markers with a healthcare provider.
+
+---
+
+#### Conclusion:
+- The client's journey demonstrates that comprehensive lifestyle changes can lead to significant improvements in chronic health conditions like diabetes, weight management, and cardiovascular health.
+- Personalized treatment plans, including diet, exercise, stress reduction, and complementary therapies, are essential for achieving optimal health outcomes.
 </details>
 
 <details>
