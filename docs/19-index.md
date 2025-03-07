@@ -1,7 +1,9 @@
 <details>
 <summary>2000. Is It a Vitamin D3 OR Calcium Deficiency? – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=r-IpzwZJDYM)
+<a href="https://www.youtube.com/watch?v=r-IpzwZJDYM" target="_blank">
+    <img src="https://img.youtube.com/vi/r-IpzwZJDYM/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -9,7 +11,9 @@
 <details>
 <summary>1999. How Much Vitamin D3 Should I Take? Is 10,000 IUs of Vitamin D3 Toxic? – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=q2glDkfDUiM)
+<a href="https://www.youtube.com/watch?v=q2glDkfDUiM" target="_blank">
+    <img src="https://img.youtube.com/vi/q2glDkfDUiM/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -17,7 +21,9 @@
 <details>
 <summary>1998. Balsamic Vinegar VS Apple Cider Vinegar on Keto Diet – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=xlilCytP9Pc)
+<a href="https://www.youtube.com/watch?v=xlilCytP9Pc" target="_blank">
+    <img src="https://img.youtube.com/vi/xlilCytP9Pc/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -25,7 +31,9 @@
 <details>
 <summary>1997. Keto Side Effects Tell Deeper Story - Dr. Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=0tXrhPFj9Fw)
+<a href="https://www.youtube.com/watch?v=0tXrhPFj9Fw" target="_blank">
+    <img src="https://img.youtube.com/vi/0tXrhPFj9Fw/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -33,7 +41,9 @@
 <details>
 <summary>1996. Subclinical Pellagra (Vitamin B3 Deficiency) – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=oVXUdhH7z0M)
+<a href="https://www.youtube.com/watch?v=oVXUdhH7z0M" target="_blank">
+    <img src="https://img.youtube.com/vi/oVXUdhH7z0M/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -41,7 +51,9 @@
 <details>
 <summary>1995. The Benefits of Eating Butter on Keto Diet – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=p8cP0zll6do)
+<a href="https://www.youtube.com/watch?v=p8cP0zll6do" target="_blank">
+    <img src="https://img.youtube.com/vi/p8cP0zll6do/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -49,7 +61,9 @@
 <details>
 <summary>1994. Germs That Will Not Die! – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=VyA4Yi2nb5Q)
+<a href="https://www.youtube.com/watch?v=VyA4Yi2nb5Q" target="_blank">
+    <img src="https://img.youtube.com/vi/VyA4Yi2nb5Q/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -57,7 +71,9 @@
 <details>
 <summary>1993. Food Allergies VS Digestion Issues on Keto Diet – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=ZC6hE8iLpiI)
+<a href="https://www.youtube.com/watch?v=ZC6hE8iLpiI" target="_blank">
+    <img src="https://img.youtube.com/vi/ZC6hE8iLpiI/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -65,7 +81,9 @@
 <details>
 <summary>1992. Isn't 70 Percent Fat on Keto Dangerous? – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=tyPTFlE6tKg)
+<a href="https://www.youtube.com/watch?v=tyPTFlE6tKg" target="_blank">
+    <img src="https://img.youtube.com/vi/tyPTFlE6tKg/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -73,7 +91,9 @@
 <details>
 <summary>1991. Stop Feeding Your Pet Mice Keto (Ketogenic Diet) – Dr. Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=2LskFJ5fRK8)
+<a href="https://www.youtube.com/watch?v=2LskFJ5fRK8" target="_blank">
+    <img src="https://img.youtube.com/vi/2LskFJ5fRK8/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -81,7 +101,9 @@
 <details>
 <summary>1990. Calcium Food Sources If You Are Dairy Free On Keto – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=SMTWMwiGlTc)
+<a href="https://www.youtube.com/watch?v=SMTWMwiGlTc" target="_blank">
+    <img src="https://img.youtube.com/vi/SMTWMwiGlTc/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -89,7 +111,9 @@
 <details>
 <summary>1989. Breast Milk and Vitamin D Deficiencies (Subclinical Rickets) – Dr. Berg (MUST WATCH!!)</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=aB2qYuUUoDE)
+<a href="https://www.youtube.com/watch?v=aB2qYuUUoDE" target="_blank">
+    <img src="https://img.youtube.com/vi/aB2qYuUUoDE/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -97,7 +121,9 @@
 <details>
 <summary>1988. Intermittent Fasting, Exercise and Stored Sugar – Dr. Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=F6tYnMRKkXI)
+<a href="https://www.youtube.com/watch?v=F6tYnMRKkXI" target="_blank">
+    <img src="https://img.youtube.com/vi/F6tYnMRKkXI/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -105,7 +131,9 @@
 <details>
 <summary>1987. Is Hypoglycemia The Opposite of Diabetes? – Dr. Berg On Hypoglycemia vs Hyperglycemia</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=ur76HU-S3jA)
+<a href="https://www.youtube.com/watch?v=ur76HU-S3jA" target="_blank">
+    <img src="https://img.youtube.com/vi/ur76HU-S3jA/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -113,7 +141,9 @@
 <details>
 <summary>1986. Why Keto Is Not Working For You? – Dr. Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=HScbz8CflGY)
+<a href="https://www.youtube.com/watch?v=HScbz8CflGY" target="_blank">
+    <img src="https://img.youtube.com/vi/HScbz8CflGY/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -121,7 +151,9 @@
 <details>
 <summary>1985. Brain Repair & BDNF Increase with Intermittent Fasting – Dr. Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=YccBeF1u_Ac)
+<a href="https://www.youtube.com/watch?v=YccBeF1u_Ac" target="_blank">
+    <img src="https://img.youtube.com/vi/YccBeF1u_Ac/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -129,7 +161,9 @@
 <details>
 <summary>1984. 15 Reasons Why You Are Not Losing Weight On A Low Carb Keto Diet Plan – Dr. Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=kx-2iz54huk)
+<a href="https://www.youtube.com/watch?v=kx-2iz54huk" target="_blank">
+    <img src="https://img.youtube.com/vi/kx-2iz54huk/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -137,7 +171,9 @@
 <details>
 <summary>1983. Doing Ketogenic Diet And Intermittent Fasting But Still Craving? Keto Cravings – Dr. Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=woTz1sG8rpI)
+<a href="https://www.youtube.com/watch?v=woTz1sG8rpI" target="_blank">
+    <img src="https://img.youtube.com/vi/woTz1sG8rpI/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -145,7 +181,9 @@
 <details>
 <summary>1982. 9 Bad Keto Food Ingredients to Avoid – Non-Keto Friendly Foods – Dr. Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=FJXXEwvJ5_U)
+<a href="https://www.youtube.com/watch?v=FJXXEwvJ5_U" target="_blank">
+    <img src="https://img.youtube.com/vi/FJXXEwvJ5_U/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -153,7 +191,9 @@
 <details>
 <summary>1981. How To Maintain Weight After Reaching Ketogenic Diet Goal – Keto Weight Maintenance – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=h4yPJCHPfzs)
+<a href="https://www.youtube.com/watch?v=h4yPJCHPfzs" target="_blank">
+    <img src="https://img.youtube.com/vi/h4yPJCHPfzs/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -161,7 +201,9 @@
 <details>
 <summary>1980. Keto Snacks are Very Bad for Your Keto Diet Plan - Keto Foods – Dr. Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=zPF67mY3R8g)
+<a href="https://www.youtube.com/watch?v=zPF67mY3R8g" target="_blank">
+    <img src="https://img.youtube.com/vi/zPF67mY3R8g/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -169,7 +211,9 @@
 <details>
 <summary>1979. Magnesium and Calcium (Part 3): Hypercalcemia Causes & How To Get Rid Of Excess Calcium? – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=9lEAzabnPtk)
+<a href="https://www.youtube.com/watch?v=9lEAzabnPtk" target="_blank">
+    <img src="https://img.youtube.com/vi/9lEAzabnPtk/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -177,7 +221,9 @@
 <details>
 <summary>1978. Magnesium and Calcium (Part 2): Causes Of Hypercalcemia & Hypomagnesemia – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=LcePNeNHefM)
+<a href="https://www.youtube.com/watch?v=LcePNeNHefM" target="_blank">
+    <img src="https://img.youtube.com/vi/LcePNeNHefM/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -185,7 +231,9 @@
 <details>
 <summary>1977. Magnesium and Calcium (Part 1): Hypomagnesemia, Function Of Magnesium & Its Deficiency – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=z8L4uE0ZUVg)
+<a href="https://www.youtube.com/watch?v=z8L4uE0ZUVg" target="_blank">
+    <img src="https://img.youtube.com/vi/z8L4uE0ZUVg/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -193,7 +241,9 @@
 <details>
 <summary>1976. Rhomboid Spasm & Pain Relief Treatment By Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=NJhnwxa9Jz0)
+<a href="https://www.youtube.com/watch?v=NJhnwxa9Jz0" target="_blank">
+    <img src="https://img.youtube.com/vi/NJhnwxa9Jz0/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -201,7 +251,9 @@
 <details>
 <summary>1975. Fasting And Eating Cycle – The Connection Between Fasting And Growth Hormone – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=PleuzF9Ceto)
+<a href="https://www.youtube.com/watch?v=PleuzF9Ceto" target="_blank">
+    <img src="https://img.youtube.com/vi/PleuzF9Ceto/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -209,7 +261,9 @@
 <details>
 <summary>1974. The Sodium-Potassium Ratio Should Be 4:1 – Dr. Berg On Potassium Deficiency Symptoms</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=kS42ykUl5-E)
+<a href="https://www.youtube.com/watch?v=kS42ykUl5-E" target="_blank">
+    <img src="https://img.youtube.com/vi/kS42ykUl5-E/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -217,7 +271,9 @@
 <details>
 <summary>1973. Potential Benefits And Side Effects Of Intermittent Fasting – Dr. Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=Y54sBoT4UbI)
+<a href="https://www.youtube.com/watch?v=Y54sBoT4UbI" target="_blank">
+    <img src="https://img.youtube.com/vi/Y54sBoT4UbI/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -225,7 +281,9 @@
 <details>
 <summary>1972. Dr. Berg's Keto Slogan Contest</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=ptkt-3fBDEs)
+<a href="https://www.youtube.com/watch?v=ptkt-3fBDEs" target="_blank">
+    <img src="https://img.youtube.com/vi/ptkt-3fBDEs/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -233,7 +291,9 @@
 <details>
 <summary>1971. Eye Twitching Causes : What Causes Left Eyelid Twitching – Dr.Berg on Tetany</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=94Q-1Fjp9io)
+<a href="https://www.youtube.com/watch?v=94Q-1Fjp9io" target="_blank">
+    <img src="https://img.youtube.com/vi/94Q-1Fjp9io/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -241,7 +301,9 @@
 <details>
 <summary>1970. Symptoms of Potassium Deficiency: High Potassium Diet Protects Kidneys & Prevent Strokes – Dr. Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=67sCkku8u3o)
+<a href="https://www.youtube.com/watch?v=67sCkku8u3o" target="_blank">
+    <img src="https://img.youtube.com/vi/67sCkku8u3o/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -249,7 +311,9 @@
 <details>
 <summary>1969. Reasons Why You Have Leg Cramps At Night (Nocturnal Leg Cramps)? – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=lEMBTx2EtFw)
+<a href="https://www.youtube.com/watch?v=lEMBTx2EtFw" target="_blank">
+    <img src="https://img.youtube.com/vi/lEMBTx2EtFw/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -257,7 +321,9 @@
 <details>
 <summary>1968. Should You Eat Dairy (Calcium) With Kidney Stones? Food For Kidney Stones – Dr. Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=3GjCWe7rTOc)
+<a href="https://www.youtube.com/watch?v=3GjCWe7rTOc" target="_blank">
+    <img src="https://img.youtube.com/vi/3GjCWe7rTOc/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -265,7 +331,9 @@
 <details>
 <summary>1967. Do These 2 Things Now For Premature Graying Hair Or Losing Hair Color – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=SpWVJ1nGJfo)
+<a href="https://www.youtube.com/watch?v=SpWVJ1nGJfo" target="_blank">
+    <img src="https://img.youtube.com/vi/SpWVJ1nGJfo/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -273,7 +341,9 @@
 <details>
 <summary>1966. Is There A Relation Between The Epstein Barr Virus And Fatigue? – Dr. Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=v8WwNeP5J3o)
+<a href="https://www.youtube.com/watch?v=v8WwNeP5J3o" target="_blank">
+    <img src="https://img.youtube.com/vi/v8WwNeP5J3o/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -281,7 +351,9 @@
 <details>
 <summary>1965. Dr.Berg's Interview With Biggest Loser Contestant, Rob Kidney – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=lGrFu6xIa5k)
+<a href="https://www.youtube.com/watch?v=lGrFu6xIa5k" target="_blank">
+    <img src="https://img.youtube.com/vi/lGrFu6xIa5k/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -289,7 +361,9 @@
 <details>
 <summary>1964. How To Check Nutrient Deficiencies on OMAD (One Meal a Day) and Keto? – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=GvT4YuwKfHw)
+<a href="https://www.youtube.com/watch?v=GvT4YuwKfHw" target="_blank">
+    <img src="https://img.youtube.com/vi/GvT4YuwKfHw/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -297,7 +371,9 @@
 <details>
 <summary>1963. Quick Tips on Keto Diet and Intermittent Fasting For Better Digestion in 1 Minute – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=lmIrehCI1Sk)
+<a href="https://www.youtube.com/watch?v=lmIrehCI1Sk" target="_blank">
+    <img src="https://img.youtube.com/vi/lmIrehCI1Sk/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -305,7 +381,9 @@
 <details>
 <summary>1962. Dr.Berg Interviews On EMFs, Fasting And Other Stuff With Dr. Mercola – Dr.Berg Fasting</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=qsRBYKsdshQ)
+<a href="https://www.youtube.com/watch?v=qsRBYKsdshQ" target="_blank">
+    <img src="https://img.youtube.com/vi/qsRBYKsdshQ/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -313,7 +391,9 @@
 <details>
 <summary>1961. Different Ways of Ketone Testing with Urine, Blood or Breath – Dr. Berg Types Of Ketones</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=eiot3waa3yU)
+<a href="https://www.youtube.com/watch?v=eiot3waa3yU" target="_blank">
+    <img src="https://img.youtube.com/vi/eiot3waa3yU/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -321,7 +401,9 @@
 <details>
 <summary>1960. Gallbladder Removal Diet And The Gallbladder Problems – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=24jitdT7z58)
+<a href="https://www.youtube.com/watch?v=24jitdT7z58" target="_blank">
+    <img src="https://img.youtube.com/vi/24jitdT7z58/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -329,7 +411,9 @@
 <details>
 <summary>1959. List of Vegetables/Foods High In Lectins & Cause Of Bloating – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=9EKlzQzGKpg)
+<a href="https://www.youtube.com/watch?v=9EKlzQzGKpg" target="_blank">
+    <img src="https://img.youtube.com/vi/9EKlzQzGKpg/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -337,7 +421,9 @@
 <details>
 <summary>1958. Why Do Nuts Irritate Your Gallbladder? Lectins In Food & Gallbladder Problems – Dr. Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=e-sYZnG7-HU)
+<a href="https://www.youtube.com/watch?v=e-sYZnG7-HU" target="_blank">
+    <img src="https://img.youtube.com/vi/e-sYZnG7-HU/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -345,7 +431,9 @@
 <details>
 <summary>1957. What Causes Gallstones & Is Gallbladder Cleanse Safe Or Not? – Dr. Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=2oUvwXAZzEI)
+<a href="https://www.youtube.com/watch?v=2oUvwXAZzEI" target="_blank">
+    <img src="https://img.youtube.com/vi/2oUvwXAZzEI/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -353,7 +441,9 @@
 <details>
 <summary>1956. Fennel Seeds Benefits for Stomach Bloating and Cramping – Bloating Stomach Remedies – Dr. Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=mjnJKuFv6X0)
+<a href="https://www.youtube.com/watch?v=mjnJKuFv6X0" target="_blank">
+    <img src="https://img.youtube.com/vi/mjnJKuFv6X0/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -361,7 +451,9 @@
 <details>
 <summary>1955. Ketosis Diet To Lowering Carbs And Insulin - Carbs On Keto Diet – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=4t4OlImxtt0)
+<a href="https://www.youtube.com/watch?v=4t4OlImxtt0" target="_blank">
+    <img src="https://img.youtube.com/vi/4t4OlImxtt0/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -369,7 +461,9 @@
 <details>
 <summary>1954. Difference Between Zero Carb Versus Low Carb On Keto Diet – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=OzGwBeFK87g)
+<a href="https://www.youtube.com/watch?v=OzGwBeFK87g" target="_blank">
+    <img src="https://img.youtube.com/vi/OzGwBeFK87g/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -377,7 +471,9 @@
 <details>
 <summary>1953. Will Fiber Knock Me Out of Ketosis? Fiber On Keto Diet By Dr. Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=AYtbXPExsUM)
+<a href="https://www.youtube.com/watch?v=AYtbXPExsUM" target="_blank">
+    <img src="https://img.youtube.com/vi/AYtbXPExsUM/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -385,7 +481,9 @@
 <details>
 <summary>1952. How to Lower Your Ammonia From Liver Cirrhosis - Ammonia Toxicity In Liver – Dr. Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=iiDbC0KdSzk)
+<a href="https://www.youtube.com/watch?v=iiDbC0KdSzk" target="_blank">
+    <img src="https://img.youtube.com/vi/iiDbC0KdSzk/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -393,7 +491,9 @@
 <details>
 <summary>1951. Dr.Berg's Reaction on Jillian Michaels Keto Diet Confusion!</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=fYOa4z6CiP0)
+<a href="https://www.youtube.com/watch?v=fYOa4z6CiP0" target="_blank">
+    <img src="https://img.youtube.com/vi/fYOa4z6CiP0/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -401,7 +501,9 @@
 <details>
 <summary>1950. Fast Longer with Dr. Berg's Keto Fasting Tea Commercial - Keto Tea – Dr. Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=iwT4oFJ9Vz8)
+<a href="https://www.youtube.com/watch?v=iwT4oFJ9Vz8" target="_blank">
+    <img src="https://img.youtube.com/vi/iwT4oFJ9Vz8/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -409,7 +511,9 @@
 <details>
 <summary>1949. 9 Apple Cider Vinegar Health Benefits – Dr. Berg on ACV Benefits</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=qTzxfoL82n8)
+<a href="https://www.youtube.com/watch?v=qTzxfoL82n8" target="_blank">
+    <img src="https://img.youtube.com/vi/qTzxfoL82n8/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -417,7 +521,9 @@
 <details>
 <summary>1948. What Fast Food Can you Eat on Keto? – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=EXzVJvR4Ui4)
+<a href="https://www.youtube.com/watch?v=EXzVJvR4Ui4" target="_blank">
+    <img src="https://img.youtube.com/vi/EXzVJvR4Ui4/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -425,7 +531,9 @@
 <details>
 <summary>1947. Still Bloated Even with Apple Cider Vinegar? – Dr. Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=hj-q_LPgfQs)
+<a href="https://www.youtube.com/watch?v=hj-q_LPgfQs" target="_blank">
+    <img src="https://img.youtube.com/vi/hj-q_LPgfQs/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -433,7 +541,9 @@
 <details>
 <summary>1946. What is the Ketogenic Diet?</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=JATFrKrG9Cc)
+<a href="https://www.youtube.com/watch?v=JATFrKrG9Cc" target="_blank">
+    <img src="https://img.youtube.com/vi/JATFrKrG9Cc/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -441,7 +551,9 @@
 <details>
 <summary>1945. What Is Hepatitis C? – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=2Qx-c_rqswI)
+<a href="https://www.youtube.com/watch?v=2Qx-c_rqswI" target="_blank">
+    <img src="https://img.youtube.com/vi/2Qx-c_rqswI/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -449,7 +561,9 @@
 <details>
 <summary>1944. Low Carb Diet vs Keto Diet - The Difference Explained by Dr. Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=nDR6TM64xWc)
+<a href="https://www.youtube.com/watch?v=nDR6TM64xWc" target="_blank">
+    <img src="https://img.youtube.com/vi/nDR6TM64xWc/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -457,7 +571,9 @@
 <details>
 <summary>1943. Best Foods For Benign Prostatic Hyperplasia (BPH) – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=CH7Ox6aYwxc)
+<a href="https://www.youtube.com/watch?v=CH7Ox6aYwxc" target="_blank">
+    <img src="https://img.youtube.com/vi/CH7Ox6aYwxc/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -465,7 +581,9 @@
 <details>
 <summary>1942. Can You Eat Dairy Products on Keto Diet? – Dr. Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=Gzuq_7y6s9A)
+<a href="https://www.youtube.com/watch?v=Gzuq_7y6s9A" target="_blank">
+    <img src="https://img.youtube.com/vi/Gzuq_7y6s9A/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -473,7 +591,9 @@
 <details>
 <summary>1941. Dr. Berg and Wounded Warrior Tim Payne on Keto Diet</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=la_3xi8MnEY)
+<a href="https://www.youtube.com/watch?v=la_3xi8MnEY" target="_blank">
+    <img src="https://img.youtube.com/vi/la_3xi8MnEY/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -481,7 +601,9 @@
 <details>
 <summary>1940. How To Get Rid Of Hangover Instantly? – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=ZNH_u-A6RZk)
+<a href="https://www.youtube.com/watch?v=ZNH_u-A6RZk" target="_blank">
+    <img src="https://img.youtube.com/vi/ZNH_u-A6RZk/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -489,7 +611,9 @@
 <details>
 <summary>1939. Why Is Keto BAD? – Dr. Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=SFTJNnRWQbY)
+<a href="https://www.youtube.com/watch?v=SFTJNnRWQbY" target="_blank">
+    <img src="https://img.youtube.com/vi/SFTJNnRWQbY/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -497,7 +621,9 @@
 <details>
 <summary>1938. How To Get Rid Of Phantom Pain Fast? – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=43WLjkVenI8)
+<a href="https://www.youtube.com/watch?v=43WLjkVenI8" target="_blank">
+    <img src="https://img.youtube.com/vi/43WLjkVenI8/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -505,7 +631,9 @@
 <details>
 <summary>1937. Is Coffee Bad For Liver? – Dr. Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=gksfaHvO1kE)
+<a href="https://www.youtube.com/watch?v=gksfaHvO1kE" target="_blank">
+    <img src="https://img.youtube.com/vi/gksfaHvO1kE/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -513,7 +641,9 @@
 <details>
 <summary>1936. Stop Worrying About LDL & High Cholesterol on Keto Diet – Dr. Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=dWMaXJtoXBo)
+<a href="https://www.youtube.com/watch?v=dWMaXJtoXBo" target="_blank">
+    <img src="https://img.youtube.com/vi/dWMaXJtoXBo/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -521,7 +651,9 @@
 <details>
 <summary>1935. Liver Damage From Alcohol Is NOT Coming From Alcohol – Dr. Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=wWlAIxvzlEw)
+<a href="https://www.youtube.com/watch?v=wWlAIxvzlEw" target="_blank">
+    <img src="https://img.youtube.com/vi/wWlAIxvzlEw/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -529,7 +661,9 @@
 <details>
 <summary>1934. Dr. Berg / Karen Live Q&A, Friday (Jan. 4) on the Ketogenic Diet and Intermittent Fasting</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=7-_J31ZykJM)
+<a href="https://www.youtube.com/watch?v=7-_J31ZykJM" target="_blank">
+    <img src="https://img.youtube.com/vi/7-_J31ZykJM/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -537,7 +671,9 @@
 <details>
 <summary>1933. The Natural Liver Cleanser: Apple Cider Vinegar and Lemon Water</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=eqQnJIx17io)
+<a href="https://www.youtube.com/watch?v=eqQnJIx17io" target="_blank">
+    <img src="https://img.youtube.com/vi/eqQnJIx17io/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -545,7 +681,9 @@
 <details>
 <summary>1932. Cholesterol Basics 101 by Dave Feldman & Dr. Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=JkZvFjW82Mk)
+<a href="https://www.youtube.com/watch?v=JkZvFjW82Mk" target="_blank">
+    <img src="https://img.youtube.com/vi/JkZvFjW82Mk/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -553,7 +691,9 @@
 <details>
 <summary>1931. Does Skipping Breakfast Cause Diabetes & Weight Gain? – Dr. Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=vCHnAFnYBRc)
+<a href="https://www.youtube.com/watch?v=vCHnAFnYBRc" target="_blank">
+    <img src="https://img.youtube.com/vi/vCHnAFnYBRc/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -561,7 +701,9 @@
 <details>
 <summary>1930. Low Back Pain Coming From Crossing Your Legs? – Dr. Berg on Back Pain Remedies</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=9audjsJxvdM)
+<a href="https://www.youtube.com/watch?v=9audjsJxvdM" target="_blank">
+    <img src="https://img.youtube.com/vi/9audjsJxvdM/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -569,7 +711,9 @@
 <details>
 <summary>1929. A Surprising Way To Cleanse Fatty Liver – Dr. Berg On Liver Detoxification</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=weZ_BoMptLI)
+<a href="https://www.youtube.com/watch?v=weZ_BoMptLI" target="_blank">
+    <img src="https://img.youtube.com/vi/weZ_BoMptLI/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -577,7 +721,9 @@
 <details>
 <summary>1928. Sugar Alcohols Making You Fat? – Dr. Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=lWrecoI2Wmo)
+<a href="https://www.youtube.com/watch?v=lWrecoI2Wmo" target="_blank">
+    <img src="https://img.youtube.com/vi/lWrecoI2Wmo/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -585,7 +731,9 @@
 <details>
 <summary>1927. #1 Reason Of Not Losing Weight on the Ketogenic Diet – Dr. Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=9S5xspoLTvg)
+<a href="https://www.youtube.com/watch?v=9S5xspoLTvg" target="_blank">
+    <img src="https://img.youtube.com/vi/9S5xspoLTvg/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -593,7 +741,9 @@
 <details>
 <summary>1926. What Happens If You Stop Eating Sugar for 14 Days – Dr. Berg On Quitting Sugar Cravings</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=mRj1RKh4xyY)
+<a href="https://www.youtube.com/watch?v=mRj1RKh4xyY" target="_blank">
+    <img src="https://img.youtube.com/vi/mRj1RKh4xyY/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -601,7 +751,9 @@
 <details>
 <summary>1925. How To Stop A Cold At The First Sign – Dr.Berg On Cold Symptoms & Intermittent Fasting</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=_K-nq704I8E)
+<a href="https://www.youtube.com/watch?v=_K-nq704I8E" target="_blank">
+    <img src="https://img.youtube.com/vi/_K-nq704I8E/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -609,7 +761,9 @@
 <details>
 <summary>1924. Can Too Much Protein Make You Fat? – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=jivs8wYzNxw)
+<a href="https://www.youtube.com/watch?v=jivs8wYzNxw" target="_blank">
+    <img src="https://img.youtube.com/vi/jivs8wYzNxw/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -617,7 +771,9 @@
 <details>
 <summary>1923. The Most Powerful Candida Infection (Yeast Infection) Killer – Dr. Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=OjdweOuY_xw)
+<a href="https://www.youtube.com/watch?v=OjdweOuY_xw" target="_blank">
+    <img src="https://img.youtube.com/vi/OjdweOuY_xw/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -625,7 +781,9 @@
 <details>
 <summary>1922. How Your Feet Are Warning You About Your Liver Problems - Dr. Berg Explains</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=CsTmgX32Uk8)
+<a href="https://www.youtube.com/watch?v=CsTmgX32Uk8" target="_blank">
+    <img src="https://img.youtube.com/vi/CsTmgX32Uk8/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -633,7 +791,9 @@
 <details>
 <summary>1921. 11 Warning Signs You Never Want to Ignore – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=xkBKDbSf4Po)
+<a href="https://www.youtube.com/watch?v=xkBKDbSf4Po" target="_blank">
+    <img src="https://img.youtube.com/vi/xkBKDbSf4Po/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -641,7 +801,9 @@
 <details>
 <summary>1920. The Unique Benefits of Propolis (Bee Glue) – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=LePHVeGDwAk)
+<a href="https://www.youtube.com/watch?v=LePHVeGDwAk" target="_blank">
+    <img src="https://img.youtube.com/vi/LePHVeGDwAk/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -649,7 +811,9 @@
 <details>
 <summary>1919. How To Detox & Flush Your Kidneys? – Dr.Berg On Kidney Cleanse</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=GZhA-pItUo4)
+<a href="https://www.youtube.com/watch?v=GZhA-pItUo4" target="_blank">
+    <img src="https://img.youtube.com/vi/GZhA-pItUo4/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -657,7 +821,9 @@
 <details>
 <summary>1918. Sticky Tarry Black Stool on Keto Diet? Here's Why – Bowel Movement & Steatorrhea – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=4GIAf80ZYKo)
+<a href="https://www.youtube.com/watch?v=4GIAf80ZYKo" target="_blank">
+    <img src="https://img.youtube.com/vi/4GIAf80ZYKo/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -665,7 +831,9 @@
 <details>
 <summary>1917. Is Your Brain Shrinking? – Dr.Berg On Brain Health & Brain Atrophy</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=NOdz26znBbE)
+<a href="https://www.youtube.com/watch?v=NOdz26znBbE" target="_blank">
+    <img src="https://img.youtube.com/vi/NOdz26znBbE/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -673,7 +841,9 @@
 <details>
 <summary>1916. How To Get Teenager To Eat Healthy – Dr.Berg On Teen Nutrition</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=cBOKX4f737w)
+<a href="https://www.youtube.com/watch?v=cBOKX4f737w" target="_blank">
+    <img src="https://img.youtube.com/vi/cBOKX4f737w/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -681,7 +851,9 @@
 <details>
 <summary>1915. Does Apple Cider Vinegar Burn Your Stomach? – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=XID81ZUi5HU)
+<a href="https://www.youtube.com/watch?v=XID81ZUi5HU" target="_blank">
+    <img src="https://img.youtube.com/vi/XID81ZUi5HU/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -689,7 +861,9 @@
 <details>
 <summary>1914. Are You Dehydrated? | Simple Test For Dehydration by Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=hqHim1SVAv0)
+<a href="https://www.youtube.com/watch?v=hqHim1SVAv0" target="_blank">
+    <img src="https://img.youtube.com/vi/hqHim1SVAv0/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -697,7 +871,9 @@
 <details>
 <summary>1913. Dental Plaque Removal Using Only 3 Ingredients: Tea Tree Oil, Xylitol, and Coconut Oil – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=666NgzT3gl8)
+<a href="https://www.youtube.com/watch?v=666NgzT3gl8" target="_blank">
+    <img src="https://img.youtube.com/vi/666NgzT3gl8/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -705,7 +881,9 @@
 <details>
 <summary>1912. Green Blood Therapy – Benefits of Wheatgrass Juice Powder – Dr. Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=1MDGSbA6u4A)
+<a href="https://www.youtube.com/watch?v=1MDGSbA6u4A" target="_blank">
+    <img src="https://img.youtube.com/vi/1MDGSbA6u4A/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -713,7 +891,9 @@
 <details>
 <summary>1911. The Most Caffeinated Beverage In The World!! – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=Z24YLdfN9VM)
+<a href="https://www.youtube.com/watch?v=Z24YLdfN9VM" target="_blank">
+    <img src="https://img.youtube.com/vi/Z24YLdfN9VM/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -721,7 +901,9 @@
 <details>
 <summary>1910. How To Live Longer Without Eating? – Weird But True Facts by Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=ZoDYQa3uWtY)
+<a href="https://www.youtube.com/watch?v=ZoDYQa3uWtY" target="_blank">
+    <img src="https://img.youtube.com/vi/ZoDYQa3uWtY/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -729,7 +911,9 @@
 <details>
 <summary>1909. Why Do I Have Blood in the Urine After Exercise? – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=xcwUfybfRpo)
+<a href="https://www.youtube.com/watch?v=xcwUfybfRpo" target="_blank">
+    <img src="https://img.youtube.com/vi/xcwUfybfRpo/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -737,7 +921,9 @@
 <details>
 <summary>1908. Stents May be the Patch, But Whats the Fix? – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=0WIyGhg686A)
+<a href="https://www.youtube.com/watch?v=0WIyGhg686A" target="_blank">
+    <img src="https://img.youtube.com/vi/0WIyGhg686A/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -745,7 +931,9 @@
 <details>
 <summary>1907. How To Do Intermittent Fasting? – Dr. Berg's Guide [PDF]</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=BphyxMtnwmg)
+<a href="https://www.youtube.com/watch?v=BphyxMtnwmg" target="_blank">
+    <img src="https://img.youtube.com/vi/BphyxMtnwmg/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -753,7 +941,9 @@
 <details>
 <summary>1906. Are You Addicted To Chocolate? – Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=wvTbhP8khzQ)
+<a href="https://www.youtube.com/watch?v=wvTbhP8khzQ" target="_blank">
+    <img src="https://img.youtube.com/vi/wvTbhP8khzQ/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -761,7 +951,9 @@
 <details>
 <summary>1905. Ketogenic Diet Food List: Cheat Sheet (PDF) by Dr.Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=bzs_60vTkpU)
+<a href="https://www.youtube.com/watch?v=bzs_60vTkpU" target="_blank">
+    <img src="https://img.youtube.com/vi/bzs_60vTkpU/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -769,7 +961,9 @@
 <details>
 <summary>1904. Dr.Berg and Dr. Andreas Eenfeldt Discuss Keto In Sweden And..</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=KqrAXYr-Z38)
+<a href="https://www.youtube.com/watch?v=KqrAXYr-Z38" target="_blank">
+    <img src="https://img.youtube.com/vi/KqrAXYr-Z38/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -777,7 +971,9 @@
 <details>
 <summary>1903. Passing a Kidney Stone? Do This Fast! – Dr.Berg on Removing Kidney Stones</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=Fc--yIUWO8o)
+<a href="https://www.youtube.com/watch?v=Fc--yIUWO8o" target="_blank">
+    <img src="https://img.youtube.com/vi/Fc--yIUWO8o/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -785,7 +981,9 @@
 <details>
 <summary>1902. Do Not Eat Peanut Butter Again, Until You Watch This!!</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=NSPWFz6Dn44)
+<a href="https://www.youtube.com/watch?v=NSPWFz6Dn44" target="_blank">
+    <img src="https://img.youtube.com/vi/NSPWFz6Dn44/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>
@@ -793,7 +991,9 @@
 <details>
 <summary>1901. Stinging Nettle Root: Powerful Anti-inflammatory - Dr. Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=HIiM7q8A8Ic)
+<a href="https://www.youtube.com/watch?v=HIiM7q8A8Ic" target="_blank">
+    <img src="https://img.youtube.com/vi/HIiM7q8A8Ic/maxresdefault.jpg" width="200">
+</a>
 
 
 </details>

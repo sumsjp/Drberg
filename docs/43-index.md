@@ -1,7 +1,9 @@
 <details>
 <summary>4400. [2023-09-28] The Best MOUNJARO Alternative (Without the Side Effects) - Dr. Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=MzTCwlOM64Y)
+<a href="https://www.youtube.com/watch?v=MzTCwlOM64Y" target="_blank">
+    <img src="https://img.youtube.com/vi/MzTCwlOM64Y/maxresdefault.jpg" width="200">
+</a>
 
 ### 核心主題  
 - 討論Monjero（司美紺）和Zembic（利司他汀）這兩種用於控制血糖並促進減重的藥物。  
@@ -78,7 +80,9 @@ Monjero在短期內能有效控制血糖並促進減重，但其昂貴的成本�
 <details>
 <summary>4399. [2023-09-27] Does Biotin (or Biotin Shampoo) Really Work for Hair Loss?</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=4UNzPSek8nA)
+<a href="https://www.youtube.com/watch?v=4UNzPSek8nA" target="_blank">
+    <img src="https://img.youtube.com/vi/4UNzPSek8nA/maxresdefault.jpg" width="200">
+</a>
 
 ### 小節歸納
 
@@ -143,7 +147,9 @@ Biotin（维生素B7）在头发、皮肤及神经系统健康中扮演重要角
 <details>
 <summary>4398. [2023-09-26] What to Do Before, During & After a Workout</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=8rMgJRuGj00)
+<a href="https://www.youtube.com/watch?v=8rMgJRuGj00" target="_blank">
+    <img src="https://img.youtube.com/vi/8rMgJRuGj00/maxresdefault.jpg" width="200">
+</a>
 
 ### 核心主題
 - **運動營養與恢復**：探討如何通過飲食來優化運動表現和恢復。
@@ -216,7 +222,9 @@ Biotin（维生素B7）在头发、皮肤及神经系统健康中扮演重要角
 <details>
 <summary>4397. [2023-09-24] The POTASSIUM Epidemic: Dr. Berg Explains Symptoms, Signs, Diet, Causes, and Treatment</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=8kI98hD_Hrs)
+<a href="https://www.youtube.com/watch?v=8kI98hD_Hrs" target="_blank">
+    <img src="https://img.youtube.com/vi/8kI98hD_Hrs/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -279,7 +287,9 @@ Biotin（维生素B7）在头发、皮肤及神经系统健康中扮演重要角
 <details>
 <summary>4396. [2023-09-23] RED MEAT: The Single BEST Food for Healing and Repair</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=EFtMw2ow95M)
+<a href="https://www.youtube.com/watch?v=EFtMw2ow95M" target="_blank">
+    <img src="https://img.youtube.com/vi/EFtMw2ow95M/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：紅肉在健康管理中的角色與應用
 
@@ -336,7 +346,9 @@ This structured summary captures the essence of the article, organizing key poin
 <details>
 <summary>4395. [2023-09-22] The Unique Benefits of Magnesium Glycinate: How It's Different</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=OxCWlEJMS2U)
+<a href="https://www.youtube.com/watch?v=OxCWlEJMS2U" target="_blank">
+    <img src="https://img.youtube.com/vi/OxCWlEJMS2U/maxresdefault.jpg" width="200">
+</a>
 
 ### 归纳文章重点
 
@@ -383,7 +395,9 @@ This structured summary captures the essence of the article, organizing key poin
 <details>
 <summary>4394. [2023-09-20] How to Flatten Your Belly (FOR GOOD)</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=EqNsoFSbbWA)
+<a href="https://www.youtube.com/watch?v=EqNsoFSbbWA" target="_blank">
+    <img src="https://img.youtube.com/vi/EqNsoFSbbWA/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理與結構化歸納
 
@@ -469,7 +483,9 @@ This structured summary captures the essence of the article, organizing key poin
 <details>
 <summary>4393. [2023-09-19] 5 Secrets That the SUGAR Industry Does Not Want You to Know About</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=qaBnx8tCqeA)
+<a href="https://www.youtube.com/watch?v=qaBnx8tCqeA" target="_blank">
+    <img src="https://img.youtube.com/vi/qaBnx8tCqeA/maxresdefault.jpg" width="200">
+</a>
 
 ### 小節一：核心主題  
 - **糖業的秘密操控**：文章揭示了糖業長達60年的隱瞞歷史，特別是將糖與心臟病、中風和其他健康問題的風險相聯繫的研究被掩蓋。  
@@ -501,7 +517,9 @@ This structured summary captures the essence of the article, organizing key poin
 <details>
 <summary>4392. [2023-09-13] Dr. Berg Gets Censored (Silenced)</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=ETonDtzkETw)
+<a href="https://www.youtube.com/watch?v=ETonDtzkETw" target="_blank">
+    <img src="https://img.youtube.com/vi/ETonDtzkETw/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -562,7 +580,9 @@ This structured summary captures the essence of the article, organizing key poin
 <details>
 <summary>4391. [2023-09-11] What Really Causes Styes and How to Get Rid of Them Fast</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=T-XkGB-lfz8)
+<a href="https://www.youtube.com/watch?v=T-XkGB-lfz8" target="_blank">
+    <img src="https://img.youtube.com/vi/T-XkGB-lfz8/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：《.eye健康問題的原因與解決方案》
 
@@ -616,7 +636,9 @@ This structured summary captures the essence of the article, organizing key poin
 <details>
 <summary>4390. [2023-09-10] Eat Different Proteins for Different Problems</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=VC5bhtAlnLY)
+<a href="https://www.youtube.com/watch?v=VC5bhtAlnLY" target="_blank">
+    <img src="https://img.youtube.com/vi/VC5bhtAlnLY/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -695,7 +717,9 @@ This structured summary captures the essence of the article, organizing key poin
 <details>
 <summary>4389. [2023-09-09] The REAL Cause of Autism Revealed: Dr. Berg Explains</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=Grrbekq-6kw)
+<a href="https://www.youtube.com/watch?v=Grrbekq-6kw" target="_blank">
+    <img src="https://img.youtube.com/vi/Grrbekq-6kw/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -754,7 +778,9 @@ This structured summary captures the essence of the article, organizing key poin
 <details>
 <summary>4388. [2023-09-08] The Dangers and Benefits of Alkaline Water</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=6xTdFPOjfSQ)
+<a href="https://www.youtube.com/watch?v=6xTdFPOjfSQ" target="_blank">
+    <img src="https://img.youtube.com/vi/6xTdFPOjfSQ/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理： alkaline water 的影響與健康風險
 
@@ -804,7 +830,9 @@ This structured summary captures the essence of the article, organizing key poin
 <details>
 <summary>4387. [2023-09-07] The Root Cause of Depression is NOT a Chemical Imbalance with Serotonin</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=_unXtsQI8dg)
+<a href="https://www.youtube.com/watch?v=_unXtsQI8dg" target="_blank">
+    <img src="https://img.youtube.com/vi/_unXtsQI8dg/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理與分析
 
@@ -873,7 +901,9 @@ This structured summary captures the essence of the article, organizing key poin
 <details>
 <summary>4386. [2023-09-06] The DOPAMINE Myth</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=0AQ99C1SWps)
+<a href="https://www.youtube.com/watch?v=0AQ99C1SWps" target="_blank">
+    <img src="https://img.youtube.com/vi/0AQ99C1SWps/maxresdefault.jpg" width="200">
+</a>
 
 ### 核心主題： dopamine 的多面性與其在生物體中的複雜作用
 
@@ -944,7 +974,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4385. [2023-09-05] The Benefits of Iodine, Side-Effects and More</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=IGovSgF_h4A)
+<a href="https://www.youtube.com/watch?v=IGovSgF_h4A" target="_blank">
+    <img src="https://img.youtube.com/vi/IGovSgF_h4A/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -984,7 +1016,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4384. [2023-09-04] 4 Skin Signs That Reveal Heavy Metal Toxicity</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=29akFrvyoso)
+<a href="https://www.youtube.com/watch?v=29akFrvyoso" target="_blank">
+    <img src="https://img.youtube.com/vi/29akFrvyoso/maxresdefault.jpg" width="200">
+</a>
 
 ### 核心主題：Heavy Metal Toxicity and Skin Changes
 
@@ -1047,7 +1081,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4383. [2023-09-03] The Best Foods, Smoothies, and Supplements for a Liver Cleanse Detox</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=1KDv3TbOk60)
+<a href="https://www.youtube.com/watch?v=1KDv3TbOk60" target="_blank">
+    <img src="https://img.youtube.com/vi/1KDv3TbOk60/maxresdefault.jpg" width="200">
+</a>
 
 ### 核心主題  
 - 肝臟健康與其功能維護  
@@ -1100,7 +1136,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4382. [2023-08-31] The #1 Exercise to Lose Belly Fat (Easily)</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=iaUspumK5ZU)
+<a href="https://www.youtube.com/watch?v=iaUspumK5ZU" target="_blank">
+    <img src="https://img.youtube.com/vi/iaUspumK5ZU/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -1164,7 +1202,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4381. [2023-08-30] The Best OZEMPIC Alternative (Without the Side Effects)</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=BjmtrhJSAqc)
+<a href="https://www.youtube.com/watch?v=BjmtrhJSAqc" target="_blank">
+    <img src="https://img.youtube.com/vi/BjmtrhJSAqc/maxresdefault.jpg" width="200">
+</a>
 
 ### 小節整理：OSEMPIQUE 藥物分析與健康建議
 
@@ -1227,7 +1267,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4380. [2023-08-29] The #1 Best Food for Your Brain</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=lqbRlKiFYhc)
+<a href="https://www.youtube.com/watch?v=lqbRlKiFYhc" target="_blank">
+    <img src="https://img.youtube.com/vi/lqbRlKiFYhc/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：腦的最佳食物
 
@@ -1300,7 +1342,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4379. [2023-08-27] WARNING: Watch This Video Before Eating Another Egg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=sMuBY5QpEjI)
+<a href="https://www.youtube.com/watch?v=sMuBY5QpEjI" target="_blank">
+    <img src="https://img.youtube.com/vi/sMuBY5QpEjI/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理與分析
 
@@ -1377,7 +1421,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4378. [2023-08-26] When to Change Your KETO DIET (Ketogenic Diet)</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=AJwQQ7SWytU)
+<a href="https://www.youtube.com/watch?v=AJwQQ7SWytU" target="_blank">
+    <img src="https://img.youtube.com/vi/AJwQQ7SWytU/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -1413,7 +1459,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4377. [2023-08-25] Raw vs. Cooked Veggies: Which is Better?</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=MepoaLLacXg)
+<a href="https://www.youtube.com/watch?v=MepoaLLacXg" target="_blank">
+    <img src="https://img.youtube.com/vi/MepoaLLacXg/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -1490,7 +1538,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4376. [2023-08-24] What Does OLIVE OIL Do for Your Body?</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=37tz8sJlbZk)
+<a href="https://www.youtube.com/watch?v=37tz8sJlbZk" target="_blank">
+    <img src="https://img.youtube.com/vi/37tz8sJlbZk/maxresdefault.jpg" width="200">
+</a>
 
 ### 一、核心主題
 - 探讨橄榄油对人体健康的影响及其作用机制。
@@ -1550,7 +1600,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4375. [2023-08-20] The Dark Side of Zinc for Hair: Vital Tip for Hair Growth</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=HBw0va7ut8c)
+<a href="https://www.youtube.com/watch?v=HBw0va7ut8c" target="_blank">
+    <img src="https://img.youtube.com/vi/HBw0va7ut8c/maxresdefault.jpg" width="200">
+</a>
 
 ### 小節歸納
 
@@ -1609,7 +1661,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4374. [2023-08-19] The #1 Best Remedy to Clean Plaque From Your Arteries</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=Cf6ux-mRP2k)
+<a href="https://www.youtube.com/watch?v=Cf6ux-mRP2k" target="_blank">
+    <img src="https://img.youtube.com/vi/Cf6ux-mRP2k/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -1676,7 +1730,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4373. [2023-08-16] Autophagy on Steroids: DRY FASTING</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=eZWI1cys4dA)
+<a href="https://www.youtube.com/watch?v=eZWI1cys4dA" target="_blank">
+    <img src="https://img.youtube.com/vi/eZWI1cys4dA/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章要點整理
 
@@ -1711,7 +1767,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4372. [2023-08-15] How to Fix the Adrenal Body Type - Dr. Berg</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=nhSo8N5-Ars)
+<a href="https://www.youtube.com/watch?v=nhSo8N5-Ars" target="_blank">
+    <img src="https://img.youtube.com/vi/nhSo8N5-Ars/maxresdefault.jpg" width="200">
+</a>
 
 ### 核心主題：應激與腎上腺功能
 
@@ -1798,7 +1856,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4371. [2023-08-12] The Low Magnesium Epidemic: Dr. Berg Explains Signs, Symptoms, Causes, and Treatment</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=0WNNfRlotUg)
+<a href="https://www.youtube.com/watch?v=0WNNfRlotUg" target="_blank">
+    <img src="https://img.youtube.com/vi/0WNNfRlotUg/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：镁元素对人体健康的重要性及其影响
 
@@ -1870,7 +1930,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4370. [2023-08-07] DRINK ONE CUP Per Day for Erectile Dysfunction (NATURAL VIAGRA)</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=ATr3-s5P-Ec)
+<a href="https://www.youtube.com/watch?v=ATr3-s5P-Ec" target="_blank">
+    <img src="https://img.youtube.com/vi/ATr3-s5P-Ec/maxresdefault.jpg" width="200">
+</a>
 
 # 文章整理：自然疗法治疗勃起功能障碍的核心探讨
 
@@ -1937,7 +1999,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4369. [2023-08-06] The Alarming Signs Your Body Needs Trace Minerals</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=92tjKuguW94)
+<a href="https://www.youtube.com/watch?v=92tjKuguW94" target="_blank">
+    <img src="https://img.youtube.com/vi/92tjKuguW94/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -1995,7 +2059,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4368. [2023-08-03] What Happens if You Consumed Omega-3 Fish Oils for 30 Days</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=8qCc_hMCB0w)
+<a href="https://www.youtube.com/watch?v=8qCc_hMCB0w" target="_blank">
+    <img src="https://img.youtube.com/vi/8qCc_hMCB0w/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -2054,7 +2120,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4367. [2023-08-02] Revealing the Secret: Sedentary Lifestyle & 35 Chronic Diseases</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=DNsmUL0KnZs)
+<a href="https://www.youtube.com/watch?v=DNsmUL0KnZs" target="_blank">
+    <img src="https://img.youtube.com/vi/DNsmUL0KnZs/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理與分析
 
@@ -2117,7 +2185,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4366. [2023-07-31] How to STOP Bloating Instantly: Fixing the Root Cause</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=e97mN6U7A4g)
+<a href="https://www.youtube.com/watch?v=e97mN6U7A4g" target="_blank">
+    <img src="https://img.youtube.com/vi/e97mN6U7A4g/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：消化系統與健康的綜合探討
 
@@ -2160,7 +2230,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4365. [2023-07-29] The 12 Signs that Your Gallbladder is in DANGER</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=hD1ag2YmUew)
+<a href="https://www.youtube.com/watch?v=hD1ag2YmUew" target="_blank">
+    <img src="https://img.youtube.com/vi/hD1ag2YmUew/maxresdefault.jpg" width="200">
+</a>
 
 ### 1. 核心主題： gallbladder功能與相關問題  
    - Gallbladder在 lipid metabolism 中起關鍵作用，儲存並集中 bile 以助脂肪消化。  
@@ -2192,7 +2264,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4364. [2023-07-27] The Hidden Dangers Of Excessive Salt Consumption</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=3W81m_wxJj4)
+<a href="https://www.youtube.com/watch?v=3W81m_wxJj4" target="_blank">
+    <img src="https://img.youtube.com/vi/3W81m_wxJj4/maxresdefault.jpg" width="200">
+</a>
 
 ### 核心主題：鹽分攝取過量與不足的影響及健康建議
 
@@ -2245,7 +2319,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4363. [2023-07-22] Drink 1 CUP PER DAY to Shrink an Enlarged Prostate</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=AIbhXK2UJ6w)
+<a href="https://www.youtube.com/watch?v=AIbhXK2UJ6w" target="_blank">
+    <img src="https://img.youtube.com/vi/AIbhXK2UJ6w/maxresdefault.jpg" width="200">
+</a>
 
 ### 小節整理：良性前列腺肥大（BPH）與健康建議
 
@@ -2295,7 +2371,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4362. [2023-07-20] How To Use Ashwagandha To Normalize Cortisol Levels</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=_TyGi9JcTU0)
+<a href="https://www.youtube.com/watch?v=_TyGi9JcTU0" target="_blank">
+    <img src="https://img.youtube.com/vi/_TyGi9JcTU0/maxresdefault.jpg" width="200">
+</a>
 
 ### 核心主題
 - 介紹古代草藥阿育吠陀（Ashwagandha）及其在應對壓力、降低皮質醇方面的效果。
@@ -2353,7 +2431,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4361. [2023-07-19] Dr. Eric Berg Live Show - July 14, 2023</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=0lp4My1qcVo)
+<a href="https://www.youtube.com/watch?v=0lp4My1qcVo" target="_blank">
+    <img src="https://img.youtube.com/vi/0lp4My1qcVo/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：健康與營養相關議題
 
@@ -2426,7 +2506,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4360. [2023-07-18] How To Naturally Reverse Premature Graying of Hair</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=LMLdClbwqhE)
+<a href="https://www.youtube.com/watch?v=LMLdClbwqhE" target="_blank">
+    <img src="https://img.youtube.com/vi/LMLdClbwqhE/maxresdefault.jpg" width="200">
+</a>
 
 ### 核心主題  
 - 預防早秃（premature graying）：探討影響頭髮變白的因素及其預防方法。
@@ -2493,7 +2575,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4359. [2023-07-17] The Shocking Effects of Going Caffeine-free for a Month</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=U_Clz-uwuLg)
+<a href="https://www.youtube.com/watch?v=U_Clz-uwuLg" target="_blank">
+    <img src="https://img.youtube.com/vi/U_Clz-uwuLg/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -2542,7 +2626,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4358. [2023-07-16] The Best Way To Get Rid of Tinnitus (Ringing in the Ears)</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=F8OyASCQyYY)
+<a href="https://www.youtube.com/watch?v=F8OyASCQyYY" target="_blank">
+    <img src="https://img.youtube.com/vi/F8OyASCQyYY/maxresdefault.jpg" width="200">
+</a>
 
 ### 核心主題：耳鳴（Tinnitus）的成因與治療
 
@@ -2580,7 +2666,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4357. [2023-07-15] The TOP Best Foods to Improve Kidney Function (END STAGE KIDNEY DISEASE)</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=kgFR3qTLl90)
+<a href="https://www.youtube.com/watch?v=kgFR3qTLl90" target="_blank">
+    <img src="https://img.youtube.com/vi/kgFR3qTLl90/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理：腎臟疾病的飲食建議
 
@@ -2628,7 +2716,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4356. [2023-07-13] 9 Clear Signs You're in Ketosis: Without Testing</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=tb4_APBiqyY)
+<a href="https://www.youtube.com/watch?v=tb4_APBiqyY" target="_blank">
+    <img src="https://img.youtube.com/vi/tb4_APBiqyY/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：酮egenic Diet的核心主題與影響
 
@@ -2702,7 +2792,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4355. [2023-07-12] Maximizing Gut Health: Optimal Timing for Probiotic Intake</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=CE-obN2bC0s)
+<a href="https://www.youtube.com/watch?v=CE-obN2bC0s" target="_blank">
+    <img src="https://img.youtube.com/vi/CE-obN2bC0s/maxresdefault.jpg" width="200">
+</a>
 
 ### 核心主題：益生菌的生存與消化系统中的酸性環境
 
@@ -2785,7 +2877,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4354. [2023-07-11] The 8 Foods That Negatively Impact Your Skin Health</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=23i8HNdTRV4)
+<a href="https://www.youtube.com/watch?v=23i8HNdTRV4" target="_blank">
+    <img src="https://img.youtube.com/vi/23i8HNdTRV4/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章主題：促進健康 skin 的飲食與生活方式
 
@@ -2828,7 +2922,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4353. [2023-07-10] How to Extend Your Life and Boost Longevity</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=UL4yYBioyqI)
+<a href="https://www.youtube.com/watch?v=UL4yYBioyqI" target="_blank">
+    <img src="https://img.youtube.com/vi/UL4yYBioyqI/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：低血糖、高血糖的危害與控制策略
 
@@ -2903,7 +2999,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4352. [2023-07-09] Get a Deep Refreshing Sleep With These 3 Potent Strategies</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=F4WjuVbR4Tk)
+<a href="https://www.youtube.com/watch?v=F4WjuVbR4Tk" target="_blank">
+    <img src="https://img.youtube.com/vi/F4WjuVbR4Tk/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -2972,7 +3070,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4351. [2023-07-08] This Carb Lowers Your Bad Cholesterol Levels Fast!</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=ad1Or6vVNEE)
+<a href="https://www.youtube.com/watch?v=ad1Or6vVNEE" target="_blank">
+    <img src="https://img.youtube.com/vi/ad1Or6vVNEE/maxresdefault.jpg" width="200">
+</a>
 
 ### 小節整理：降低膽固醇的最佳碳水化合物
 
@@ -3006,7 +3106,9 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
 <details>
 <summary>4350. [2023-07-07] The Most Dangerous Sugar In The World!</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=BUiUZf0iXyU)
+<a href="https://www.youtube.com/watch?v=BUiUZf0iXyU" target="_blank">
+    <img src="https://img.youtube.com/vi/BUiUZf0iXyU/maxresdefault.jpg" width="200">
+</a>
 
 ### 關鍵要點整理
 
@@ -3059,7 +3161,9 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
 <details>
 <summary>4349. [2023-07-06] Cheat Days Can Destroy Your Progress -- Find Out Why!</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=3vjmmkeEdFY)
+<a href="https://www.youtube.com/watch?v=3vjmmkeEdFY" target="_blank">
+    <img src="https://img.youtube.com/vi/3vjmmkeEdFY/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -3113,7 +3217,9 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
 <details>
 <summary>4348. [2023-07-05] The TRUTH About Osteoporosis and Osteopenia</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=hzLGUM1hpUA)
+<a href="https://www.youtube.com/watch?v=hzLGUM1hpUA" target="_blank">
+    <img src="https://img.youtube.com/vi/hzLGUM1hpUA/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：osteoporosis 的防治策略與關鍵因素
 
@@ -3208,7 +3314,9 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
 <details>
 <summary>4347. [2023-07-04] The Truth About Sugar - What They Don't Want You To Know!</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=eDMTlWlTd4w)
+<a href="https://www.youtube.com/watch?v=eDMTlWlTd4w" target="_blank">
+    <img src="https://img.youtube.com/vi/eDMTlWlTd4w/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：糖分攝取與健康的影響
 
@@ -3257,7 +3365,9 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
 <details>
 <summary>4346. [2023-07-03] How to Beat Stress: Master The Single Most Powerful Technique</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=FF4jZv8iJDI)
+<a href="https://www.youtube.com/watch?v=FF4jZv8iJDI" target="_blank">
+    <img src="https://img.youtube.com/vi/FF4jZv8iJDI/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章要點整理
 
@@ -3306,7 +3416,9 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
 <details>
 <summary>4345. [2023-07-02] Find Out How to Predict a Silent Stroke When There Are NO SYMPTOMS Present</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=2TIPd0tNnHU)
+<a href="https://www.youtube.com/watch?v=2TIPd0tNnHU" target="_blank">
+    <img src="https://img.youtube.com/vi/2TIPd0tNnHU/maxresdefault.jpg" width="200">
+</a>
 
 ### 重点整理
 
@@ -3369,7 +3481,9 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
 <details>
 <summary>4344. [2023-06-28] The Risks of Taking 10,000 IUs of Vitamin D3</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=11qN7GUuoy0)
+<a href="https://www.youtube.com/watch?v=11qN7GUuoy0" target="_blank">
+    <img src="https://img.youtube.com/vi/11qN7GUuoy0/maxresdefault.jpg" width="200">
+</a>
 
 # 文章整理：高劑量維生素D攝取的必要性與安全性探討
 
@@ -3426,7 +3540,9 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
 <details>
 <summary>4343. [2023-06-27] How to Permanently Stick to Your Weight Loss Plan</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=eAHG8G0BbKI)
+<a href="https://www.youtube.com/watch?v=eAHG8G0BbKI" target="_blank">
+    <img src="https://img.youtube.com/vi/eAHG8G0BbKI/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -3470,7 +3586,9 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
 <details>
 <summary>4342. [2023-06-26] Fix Your Rhomboid Pain Quickly And Easily! (Shoulder Blade Discomfort)</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=EHvvVzWT2oY)
+<a href="https://www.youtube.com/watch?v=EHvvVzWT2oY" target="_blank">
+    <img src="https://img.youtube.com/vi/EHvvVzWT2oY/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：iropractice 的文章重點
 
@@ -3549,7 +3667,9 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
 <details>
 <summary>4341. [2023-06-25] The Most Effective Natural Antihistamines for Allergies</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=mpF65KLQUHY)
+<a href="https://www.youtube.com/watch?v=mpF65KLQUHY" target="_blank">
+    <img src="https://img.youtube.com/vi/mpF65KLQUHY/maxresdefault.jpg" width="200">
+</a>
 
 ### 小節歸納
 
@@ -3603,7 +3723,9 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
 <details>
 <summary>4340. [2023-06-24] Could You Give Up Bread For 30 Days? See What Happens...</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=uhnPkgrOZys)
+<a href="https://www.youtube.com/watch?v=uhnPkgrOZys" target="_blank">
+    <img src="https://img.youtube.com/vi/uhnPkgrOZys/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：放棄食 Bread 的 30 天影響與健康考量
 
@@ -3685,7 +3807,9 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
 <details>
 <summary>4339. [2023-06-23] Glucosamine For Arthritis: Why It Works</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=1VatMMDs46I)
+<a href="https://www.youtube.com/watch?v=1VatMMDs46I" target="_blank">
+    <img src="https://img.youtube.com/vi/1VatMMDs46I/maxresdefault.jpg" width="200">
+</a>
 
 ### 小節整理： glucosamine 的多樣化健康效益與應用
 
@@ -3743,7 +3867,9 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
 <details>
 <summary>4338. [2023-06-22] The #1 Thing that STOPS You From Losing Belly Fat: Not Sugar or Carbs</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=xxzjDAPBIOc)
+<a href="https://www.youtube.com/watch?v=xxzjDAPBIOc" target="_blank">
+    <img src="https://img.youtube.com/vi/xxzjDAPBIOc/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：酒精攝取對腹部脂肪 accumulation 的影響及解決方案
 
@@ -3802,7 +3928,9 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
 <details>
 <summary>4337. [2023-06-21] Get Relief from Seasonal Allergies (Seasonal Allergic Rhinitis) with this Remedy!</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=gsXsxVIgaiM)
+<a href="https://www.youtube.com/watch?v=gsXsxVIgaiM" target="_blank">
+    <img src="https://img.youtube.com/vi/gsXsxVIgaiM/maxresdefault.jpg" width="200">
+</a>
 
 ### 核心主題  
 - 季節性過敏症（Seasonal Allergic Rhinitis）的自然療法與免疫調節策略。
@@ -3867,7 +3995,9 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
 <details>
 <summary>4336. [2023-06-20] Benfotiamine (Fat-Soluble B1): Benefits and Why It's So Unique</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=83sOzga-i0I)
+<a href="https://www.youtube.com/watch?v=83sOzga-i0I" target="_blank">
+    <img src="https://img.youtube.com/vi/83sOzga-i0I/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：Benine（硫辛酸）在糖尿病管理中的作用
 
@@ -3936,7 +4066,9 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
 <details>
 <summary>4335. [2023-06-19] Don't Fall into These Common Keto Traps: Top 3 Mistakes to Avoid</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=wZtcg17Kznc)
+<a href="https://www.youtube.com/watch?v=wZtcg17Kznc" target="_blank">
+    <img src="https://img.youtube.com/vi/wZtcg17Kznc/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理
 
@@ -4027,7 +4159,9 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
 <details>
 <summary>4334. [2023-06-18] How Synthroid® can Harm your Bones: Crucial Bone Loss Side Effect</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=yCWeTFsI2Lc)
+<a href="https://www.youtube.com/watch?v=yCWeTFsI2Lc" target="_blank">
+    <img src="https://img.youtube.com/vi/yCWeTFsI2Lc/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -4084,7 +4218,9 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
 <details>
 <summary>4333. [2023-06-17] The BEST Foods for Arthritis</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=NbFQ2al6Jn4)
+<a href="https://www.youtube.com/watch?v=NbFQ2al6Jn4" target="_blank">
+    <img src="https://img.youtube.com/vi/NbFQ2al6Jn4/maxresdefault.jpg" width="200">
+</a>
 
 ### 小節化整理
 
@@ -4145,7 +4281,9 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
 <details>
 <summary>4332. [2023-06-16] The Mind-Blowing Benefits of Berberine</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=QX6gCRJZ0dk)
+<a href="https://www.youtube.com/watch?v=QX6gCRJZ0dk" target="_blank">
+    <img src="https://img.youtube.com/vi/QX6gCRJZ0dk/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章題目：Berberine 的多重功效與健康影響
 
@@ -4216,7 +4354,9 @@ Berberine 具備多樣化的健康功效，特別是在代謝調節和心血管�
 <details>
 <summary>4331. [2023-06-15] Revealing the #1 Hidden Source of Digestive Problems</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=A1BiWgHxSL0)
+<a href="https://www.youtube.com/watch?v=A1BiWgHxSL0" target="_blank">
+    <img src="https://img.youtube.com/vi/A1BiWgHxSL0/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -4290,7 +4430,9 @@ Berberine 具備多樣化的健康功效，特別是在代謝調節和心血管�
 <details>
 <summary>4330. [2023-06-14] If You Have Hypothyroidism, Avoid These Foods</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=2puK_SJaYVM)
+<a href="https://www.youtube.com/watch?v=2puK_SJaYVM" target="_blank">
+    <img src="https://img.youtube.com/vi/2puK_SJaYVM/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -4359,7 +4501,9 @@ Berberine 具備多樣化的健康功效，特別是在代謝調節和心血管�
 <details>
 <summary>4329. [2023-06-13] 11 RED FLAGS Your Body Needs More Nutrients</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=7D35xgIVtQM)
+<a href="https://www.youtube.com/watch?v=7D35xgIVtQM" target="_blank">
+    <img src="https://img.youtube.com/vi/7D35xgIVtQM/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章題目：身體症狀分析與健康管理
 
@@ -4417,7 +4561,9 @@ Berberine 具備多樣化的健康功效，特別是在代謝調節和心血管�
 <details>
 <summary>4328. [2023-06-12] The Best Food for Your Eyes</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=wafi94q8gPg)
+<a href="https://www.youtube.com/watch?v=wafi94q8gPg" target="_blank">
+    <img src="https://img.youtube.com/vi/wafi94q8gPg/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -4478,7 +4624,9 @@ Berberine 具備多樣化的健康功效，特別是在代謝調節和心血管�
 <details>
 <summary>4327. [2023-06-11] How To Stop Overeating And Be Satisfied With Your Food</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=54PDV3ckFXE)
+<a href="https://www.youtube.com/watch?v=54PDV3ckFXE" target="_blank">
+    <img src="https://img.youtube.com/vi/54PDV3ckFXE/maxresdefault.jpg" width="200">
+</a>
 
 ### 核心主題  
 - 蛋白質在滿足 hunger 和維持整體健康中的重要性。  
@@ -4543,7 +4691,9 @@ Berberine 具備多樣化的健康功效，特別是在代謝調節和心血管�
 <details>
 <summary>4326. [2023-06-10] The #1 Best Way to Rid ALCOHOL Cravings</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=_D6lMQz8wTw)
+<a href="https://www.youtube.com/watch?v=_D6lMQz8wTw" target="_blank">
+    <img src="https://img.youtube.com/vi/_D6lMQz8wTw/maxresdefault.jpg" width="200">
+</a>
 
 ### 核心主題  
 - L-谷氨酰胺（L-Glutamine）在戒除酒精和糖瘾中的作用及其科學機制。  
@@ -4595,7 +4745,9 @@ L-谷氨酰胺作為一種有效的補充劑，通過提供快速能量、支持
 <details>
 <summary>4325. [2023-06-09] Cyanocobalamin: The REAL Reason Why You Should Avoid Synthetic B12</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=jRger6l4rjc)
+<a href="https://www.youtube.com/watch?v=jRger6l4rjc" target="_blank">
+    <img src="https://img.youtube.com/vi/jRger6l4rjc/maxresdefault.jpg" width="200">
+</a>
 
 # 文章總結：有關氰钴胺（Cyanocobalamin）及其健康影響的探討
 
@@ -4660,7 +4812,9 @@ L-谷氨酰胺作為一種有效的補充劑，通過提供快速能量、支持
 <details>
 <summary>4324. [2023-06-08] The Hidden Source of Heart Attacks That You Never Considered</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=9ykPs8tberw)
+<a href="https://www.youtube.com/watch?v=9ykPs8tberw" target="_blank">
+    <img src="https://img.youtube.com/vi/9ykPs8tberw/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -4712,7 +4866,9 @@ L-谷氨酰胺作為一種有效的補充劑，通過提供快速能量、支持
 <details>
 <summary>4323. [2023-06-06] STOP Keto/Paleo or Intense Exercise – Burn Fat and Get Shredded</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=nl34wXQ4-Ww)
+<a href="https://www.youtube.com/watch?v=nl34wXQ4-Ww" target="_blank">
+    <img src="https://img.youtube.com/vi/nl34wXQ4-Ww/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -4779,7 +4935,9 @@ L-谷氨酰胺作為一種有效的補充劑，通過提供快速能量、支持
 <details>
 <summary>4322. [2023-06-05] One Simple Change that Eliminates Hypoglycemia (Low Blood Sugar)</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=roCcBO2l1Bs)
+<a href="https://www.youtube.com/watch?v=roCcBO2l1Bs" target="_blank">
+    <img src="https://img.youtube.com/vi/roCcBO2l1Bs/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：低血糖與酮體饮食的核心要点
 
@@ -4833,7 +4991,9 @@ L-谷氨酰胺作為一種有效的補充劑，通過提供快速能量、支持
 <details>
 <summary>4321. [2023-06-04] Fix the Root Cause of Dark Circles Under the Eyes</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=P2EKRWR0Tmc)
+<a href="https://www.youtube.com/watch?v=P2EKRWR0Tmc" target="_blank">
+    <img src="https://img.youtube.com/vi/P2EKRWR0Tmc/maxresdefault.jpg" width="200">
+</a>
 
 # 文章要點整理
 
@@ -4878,7 +5038,9 @@ L-谷氨酰胺作為一種有效的補充劑，通過提供快速能量、支持
 <details>
 <summary>4320. [2023-06-03] Key Vitamin Deficiencies Causing Your Back Pain</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=SXzZ1gm72dw)
+<a href="https://www.youtube.com/watch?v=SXzZ1gm72dw" target="_blank">
+    <img src="https://img.youtube.com/vi/SXzZ1gm72dw/maxresdefault.jpg" width="200">
+</a>
 
 ### 核心主題：  
 - 探讨下背部疼痛的营养学根源及其解决方案。
@@ -4946,7 +5108,9 @@ L-谷氨酰胺作為一種有效的補充劑，通過提供快速能量、支持
 <details>
 <summary>4319. [2023-06-01] The BEST Meal to Clean Out Your Arteries</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=qt1OoCX3_0Y)
+<a href="https://www.youtube.com/watch?v=qt1OoCX3_0Y" target="_blank">
+    <img src="https://img.youtube.com/vi/qt1OoCX3_0Y/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理與結構化
 
@@ -5032,7 +5196,9 @@ L-谷氨酰胺作為一種有效的補充劑，通過提供快速能量、支持
 <details>
 <summary>4318. [2023-05-31] Revealing the Shocking Connection: Fatty Liver and Diabetes</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=upOU_EEXsBA)
+<a href="https://www.youtube.com/watch?v=upOU_EEXsBA" target="_blank">
+    <img src="https://img.youtube.com/vi/upOU_EEXsBA/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理： diabetes reversal and liver health
 
@@ -5083,7 +5249,9 @@ L-谷氨酰胺作為一種有效的補充劑，通過提供快速能量、支持
 <details>
 <summary>4317. [2023-05-27] You Will NEVER Want Sugar Again After Watching This</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=i0-yzNEVbbM)
+<a href="https://www.youtube.com/watch?v=i0-yzNEVbbM" target="_blank">
+    <img src="https://img.youtube.com/vi/i0-yzNEVbbM/maxresdefault.jpg" width="200">
+</a>
 
 ## 文章整理：糖對線粒體健康的影響及其健康建議
 
@@ -5126,7 +5294,9 @@ L-谷氨酰胺作為一種有效的補充劑，通過提供快速能量、支持
 <details>
 <summary>4316. [2023-05-26] The Benefits Of Cold Water Immersion for Your Genetics</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=GhGSLffZd0E)
+<a href="https://www.youtube.com/watch?v=GhGSLffZd0E" target="_blank">
+    <img src="https://img.youtube.com/vi/GhGSLffZd0E/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -5213,7 +5383,9 @@ L-谷氨酰胺作為一種有效的補充劑，通過提供快速能量、支持
 <details>
 <summary>4315. [2023-05-25] Find Out The Deeper Causes of Brittle Nails</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=PJ2jCDQMQ00)
+<a href="https://www.youtube.com/watch?v=PJ2jCDQMQ00" target="_blank">
+    <img src="https://img.youtube.com/vi/PJ2jCDQMQ00/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -5281,7 +5453,9 @@ L-谷氨酰胺作為一種有效的補充劑，通過提供快速能量、支持
 <details>
 <summary>4314. [2023-05-24] The Protein That Spikes Insulin More than White Bread</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=XzJqVCJYqys)
+<a href="https://www.youtube.com/watch?v=XzJqVCJYqys" target="_blank">
+    <img src="https://img.youtube.com/vi/XzJqVCJYqys/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章要點整理
 
@@ -5341,7 +5515,9 @@ Whey 蛋白質在提供優質氨基酸、促進肌肉生長方面具有顯著優
 <details>
 <summary>4313. [2023-05-23] Reversing Alopecia: The Power Of 3 Trace Minerals</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=6mOAgbJvhqg)
+<a href="https://www.youtube.com/watch?v=6mOAgbJvhqg" target="_blank">
+    <img src="https://img.youtube.com/vi/6mOAgbJvhqg/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：影響頭髮健康的關鍵營養素及其作用
 
@@ -5389,7 +5565,9 @@ Whey 蛋白質在提供優質氨基酸、促進肌肉生長方面具有顯著優
 <details>
 <summary>4312. [2023-05-21] Drink 1 Cup to Clear Phlegm and Mucus From Lungs</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=4-HmU8O5_EQ)
+<a href="https://www.youtube.com/watch?v=4-HmU8O5_EQ" target="_blank">
+    <img src="https://img.youtube.com/vi/4-HmU8O5_EQ/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：如何清除肺部痰液（黏液）
 
@@ -5443,7 +5621,9 @@ Whey 蛋白質在提供優質氨基酸、促進肌肉生長方面具有顯著優
 <details>
 <summary>4311. [2023-05-20] Never Have Cold Feet Again: The Ultimate Technique Revealed</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=JJANZ8Uwlt0)
+<a href="https://www.youtube.com/watch?v=JJANZ8Uwlt0" target="_blank">
+    <img src="https://img.youtube.com/vi/JJANZ8Uwlt0/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章總結與結構化整理
 
@@ -5510,7 +5690,9 @@ Whey 蛋白質在提供優質氨基酸、促進肌肉生長方面具有顯著優
 <details>
 <summary>4310. [2023-05-18] The #1 Best Meal for Liver Detoxification</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=-vtMP3laIBc)
+<a href="https://www.youtube.com/watch?v=-vtMP3laIBc" target="_blank">
+    <img src="https://img.youtube.com/vi/-vtMP3laIBc/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -5550,7 +5732,9 @@ Whey 蛋白質在提供優質氨基酸、促進肌肉生長方面具有顯著優
 <details>
 <summary>4309. [2023-05-16] Amazing Benefits of WALKING You Never Knew About</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=3Hobt4Pb4iA)
+<a href="https://www.youtube.com/watch?v=3Hobt4Pb4iA" target="_blank">
+    <img src="https://img.youtube.com/vi/3Hobt4Pb4iA/maxresdefault.jpg" width="200">
+</a>
 
 # 走路的多重療癒效益：研究與建議
 
@@ -5605,7 +5789,9 @@ Whey 蛋白質在提供優質氨基酸、促進肌肉生長方面具有顯著優
 <details>
 <summary>4308. [2023-05-15] How to STOP Waking Up Tired in the AM</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=-bkExpmFzMs)
+<a href="https://www.youtube.com/watch?v=-bkExpmFzMs" target="_blank">
+    <img src="https://img.youtube.com/vi/-bkExpmFzMs/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章要點整理
 
@@ -5685,7 +5871,9 @@ Whey 蛋白質在提供優質氨基酸、促進肌肉生長方面具有顯著優
 <details>
 <summary>4307. [2023-05-14] The Dangers and Benefits of Baking Soda</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=udgEofYO4F4)
+<a href="https://www.youtube.com/watch?v=udgEofYO4F4" target="_blank">
+    <img src="https://img.youtube.com/vi/udgEofYO4F4/maxresdefault.jpg" width="200">
+</a>
 
 ### 核心主題  
 - **碳酸氫鈉（Baking Soda）的多樣性與健康效益**  
@@ -5743,7 +5931,9 @@ Whey 蛋白質在提供優質氨基酸、促進肌肉生長方面具有顯著優
 <details>
 <summary>4306. [2023-05-13] Avoid These 6 Mistakes When Treating a Viral Infection</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=Z3kTm3Ac1PI)
+<a href="https://www.youtube.com/watch?v=Z3kTm3Ac1PI" target="_blank">
+    <img src="https://img.youtube.com/vi/Z3kTm3Ac1PI/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -5824,7 +6014,9 @@ Whey 蛋白質在提供優質氨基酸、促進肌肉生長方面具有顯著優
 <details>
 <summary>4305. [2023-05-12] The Most Effective Therapy For Gout (High Uric Acid)</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=7nH-xCegcYk)
+<a href="https://www.youtube.com/watch?v=7nH-xCegcYk" target="_blank">
+    <img src="https://img.youtube.com/vi/7nH-xCegcYk/maxresdefault.jpg" width="200">
+</a>
 
 ### 核心主題
 - **替代性治療與自然療法**  
@@ -5893,7 +6085,9 @@ Whey 蛋白質在提供優質氨基酸、促進肌肉生長方面具有顯著優
 <details>
 <summary>4304. [2023-05-11] Painful Intercourse: Here's What You Need to Know</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=e5qLdSKDkEE)
+<a href="https://www.youtube.com/watch?v=e5qLdSKDkEE" target="_blank">
+    <img src="https://img.youtube.com/vi/e5qLdSKDkEE/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理與結構化分析
 
@@ -5974,7 +6168,9 @@ Whey 蛋白質在提供優質氨基酸、促進肌肉生長方面具有顯著優
 <details>
 <summary>4303. [2023-05-10] The #1 Remedy for Heart Palpitations</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=AWIT9Mj07DY)
+<a href="https://www.youtube.com/watch?v=AWIT9Mj07DY" target="_blank">
+    <img src="https://img.youtube.com/vi/AWIT9Mj07DY/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章結構與重點整理
 
@@ -6074,7 +6270,9 @@ Whey 蛋白質在提供優質氨基酸、促進肌肉生長方面具有顯著優
 <details>
 <summary>4302. [2023-05-09] 8 Surprising Causes of Edema: Uncover the Truth!</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=0pEjjaaFaVs)
+<a href="https://www.youtube.com/watch?v=0pEjjaaFaVs" target="_blank">
+    <img src="https://img.youtube.com/vi/0pEjjaaFaVs/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -6145,7 +6343,9 @@ Whey 蛋白質在提供優質氨基酸、促進肌肉生長方面具有顯著優
 <details>
 <summary>4301. [2023-05-08] The #1 Most Important Nutrient for Hypothyroidism</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=3ykJdD-W_n8)
+<a href="https://www.youtube.com/watch?v=3ykJdD-W_n8" target="_blank">
+    <img src="https://img.youtube.com/vi/3ykJdD-W_n8/maxresdefault.jpg" width="200">
+</a>
 
 ### 1. 核心主題：硒元素在甲状腺疾病中的作用
    - 硒元素是影響甲状腺功能的重要營養素。

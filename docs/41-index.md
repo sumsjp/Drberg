@@ -1,7 +1,9 @@
 <details>
 <summary>4200. [2023-01-21] Groundbreaking New Revelations on Alzheimer's Disease</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=mZPQ0bgqoq8)
+<a href="https://www.youtube.com/watch?v=mZPQ0bgqoq8" target="_blank">
+    <img src="https://img.youtube.com/vi/mZPQ0bgqoq8/maxresdefault.jpg" width="200">
+</a>
 
 ### 本文要點總結
 
@@ -75,7 +77,9 @@
 <details>
 <summary>4199. [2023-01-20] The 5 Best Ways to Treat Autoimmune Disease Naturally</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=4DdvOVv0JMA)
+<a href="https://www.youtube.com/watch?v=4DdvOVv0JMA" target="_blank">
+    <img src="https://img.youtube.com/vi/4DdvOVv0JMA/maxresdefault.jpg" width="200">
+</a>
 
 ### 小節歸納
 
@@ -124,7 +128,9 @@
 <details>
 <summary>4198. [2023-01-19] The 7 MOST Important Nutrients for Your Immune System</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=YuO2FwBrmqY)
+<a href="https://www.youtube.com/watch?v=YuO2FwBrmqY" target="_blank">
+    <img src="https://img.youtube.com/vi/YuO2FwBrmqY/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -175,7 +181,9 @@
 <details>
 <summary>4197. [2023-01-18] The #1 Best Protocol for Gout</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=3VkP4tqGhdY)
+<a href="https://www.youtube.com/watch?v=3VkP4tqGhdY" target="_blank">
+    <img src="https://img.youtube.com/vi/3VkP4tqGhdY/maxresdefault.jpg" width="200">
+</a>
 
 ### 核心主題
 - **研究焦點**：天然治法治療痛風的有效性及其優勢。
@@ -227,7 +235,9 @@
 <details>
 <summary>4196. [2023-01-17] The End of Stiffness with This New Type of Stretching</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=5MLpwK-m7Ss)
+<a href="https://www.youtube.com/watch?v=5MLpwK-m7Ss" target="_blank">
+    <img src="https://img.youtube.com/vi/5MLpwK-m7Ss/maxresdefault.jpg" width="200">
+</a>
 
 ### 核心主題
 - **主軸**：介紹一種更有效的拉伸方法——「主動分隔靈活性」（Active Isolated Flexibility）
@@ -272,7 +282,9 @@
 <details>
 <summary>4195. [2023-01-16] The REAL Reason for Pain Behind the Eyes</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=-090IT9HneQ)
+<a href="https://www.youtube.com/watch?v=-090IT9HneQ" target="_blank">
+    <img src="https://img.youtube.com/vi/-090IT9HneQ/maxresdefault.jpg" width="200">
+</a>
 
 # 文章重點整理
 
@@ -328,7 +340,9 @@
 <details>
 <summary>4194. [2023-01-15] The #1 Food to AVOID to Improve Alzheimer's Disease Symptoms</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=Ef-6rZ93sF0)
+<a href="https://www.youtube.com/watch?v=Ef-6rZ93sF0" target="_blank">
+    <img src="https://img.youtube.com/vi/Ef-6rZ93sF0/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理： Alzheimer's病與飲食及胰島素抵抗的關聯
 
@@ -431,7 +445,9 @@
 <details>
 <summary>4193. [2023-01-14] What Happens If You ONLY Eat Carbs for 14 Days</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=BbAv0MT2UQ0)
+<a href="https://www.youtube.com/watch?v=BbAv0MT2UQ0" target="_blank">
+    <img src="https://img.youtube.com/vi/BbAv0MT2UQ0/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -507,7 +523,9 @@
 <details>
 <summary>4192. [2023-01-12] Dietary FIBER, Bloating, and Intestinal Gas</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=5Ld9jCxv_to)
+<a href="https://www.youtube.com/watch?v=5Ld9jCxv_to" target="_blank">
+    <img src="https://img.youtube.com/vi/5Ld9jCxv_to/maxresdefault.jpg" width="200">
+</a>
 
 # 文章整理：腸道微生物與飲食健康
 
@@ -553,7 +571,9 @@
 <details>
 <summary>4191. [2023-01-11] The Only Way to End Stress and Lower Cortisol</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=alWAs9tth9c)
+<a href="https://www.youtube.com/watch?v=alWAs9tth9c" target="_blank">
+    <img src="https://img.youtube.com/vi/alWAs9tth9c/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：壓力對身體和心智的影響及應對策略
 
@@ -627,7 +647,9 @@
 <details>
 <summary>4190. [2023-01-10] TURMERIC Is Good for Virtually EVERYTHING!</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=Rn7-ZHHjD8I)
+<a href="https://www.youtube.com/watch?v=Rn7-ZHHjD8I" target="_blank">
+    <img src="https://img.youtube.com/vi/Rn7-ZHHjD8I/maxresdefault.jpg" width="200">
+</a>
 
 # 文章整理： turmeric 的健康效益與使用指南
 
@@ -677,7 +699,9 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 <details>
 <summary>4189. [2023-01-09] DRINK 1/2 CUP DAILY to Lower Cortisol, Lose Belly Fat, and Help Depression</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=bK8q144Rhds)
+<a href="https://www.youtube.com/watch?v=bK8q144Rhds" target="_blank">
+    <img src="https://img.youtube.com/vi/bK8q144Rhds/maxresdefault.jpg" width="200">
+</a>
 
 ### 核心主題：高皮質醇的危害及自然調節方法  
 文章圍繞高皮質醇（ cortisol ）對人體健康的影響以及如何通過自然方式降低其水平展開討論。  
@@ -729,7 +753,9 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 <details>
 <summary>4188. [2023-01-08] 11 Bad Habits That Damage Your Brain</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=8kB4DY8cWYk)
+<a href="https://www.youtube.com/watch?v=8kB4DY8cWYk" target="_blank">
+    <img src="https://img.youtube.com/vi/8kB4DY8cWYk/maxresdefault.jpg" width="200">
+</a>
 
 ### 小節整理：文章重點概要
 
@@ -776,7 +802,9 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 <details>
 <summary>4187. [2023-01-07] 11 Ways to Protect Your Liver from Toxins</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=Ac1rrcr6xhY)
+<a href="https://www.youtube.com/watch?v=Ac1rrcr6xhY" target="_blank">
+    <img src="https://img.youtube.com/vi/Ac1rrcr6xhY/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理： toxins and detoxification
 
@@ -859,7 +887,9 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 <details>
 <summary>4186. [2023-01-06] The #1 Best Natural Cox-2 Inhibitor for Pain and Inflammation</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=LYZA3LRBPu8)
+<a href="https://www.youtube.com/watch?v=LYZA3LRBPu8" target="_blank">
+    <img src="https://img.youtube.com/vi/LYZA3LRBPu8/maxresdefault.jpg" width="200">
+</a>
 
 # 文章整理：慢性炎症與疼痛的自然療法
 
@@ -911,7 +941,9 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 <details>
 <summary>4185. [2023-01-05] Normal Vitamin D Levels Will NOT Tell the Whole Picture</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=X6WCY_tqys8)
+<a href="https://www.youtube.com/watch?v=X6WCY_tqys8" target="_blank">
+    <img src="https://img.youtube.com/vi/X6WCY_tqys8/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -976,7 +1008,9 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 <details>
 <summary>4184. [2023-01-04] The 9 Signs of a Carbohydrate Deficiency</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=o8EIF2-jT7s)
+<a href="https://www.youtube.com/watch?v=o8EIF2-jT7s" target="_blank">
+    <img src="https://img.youtube.com/vi/o8EIF2-jT7s/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理： carbohydrate lies and the truth about carbohydrate deficiency
 
@@ -1036,7 +1070,9 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 <details>
 <summary>4183. [2023-01-03] The #1 Best Food for All Menopausal Symptoms</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=mfIcHEEvqjk)
+<a href="https://www.youtube.com/watch?v=mfIcHEEvqjk" target="_blank">
+    <img src="https://img.youtube.com/vi/mfIcHEEvqjk/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：男性荷爾蒙退与更年期症状的关系及解决方案
 
@@ -1111,7 +1147,9 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 <details>
 <summary>4182. [2023-01-02] The Best Remedy for ADD/ADHD (Attention Deficit Disorder)</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=uJGayLwJHXI)
+<a href="https://www.youtube.com/watch?v=uJGayLwJHXI" target="_blank">
+    <img src="https://img.youtube.com/vi/uJGayLwJHXI/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -1172,7 +1210,9 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 <details>
 <summary>4181. [2023-01-01] A Unique Way to Clean a Fatty (Toxic) Liver That You've Never Heard About</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=BmtcCneixqQ)
+<a href="https://www.youtube.com/watch?v=BmtcCneixqQ" target="_blank">
+    <img src="https://img.youtube.com/vi/BmtcCneixqQ/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：MTHFR 基因與酶功能異常及其影響與解決方案
 
@@ -1230,7 +1270,9 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 <details>
 <summary>4180. [2022-12-31] This Deficiency IS Why Your Digestion Is Screwed Up</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=sYMKOVAIcUg)
+<a href="https://www.youtube.com/watch?v=sYMKOVAIcUg" target="_blank">
+    <img src="https://img.youtube.com/vi/sYMKOVAIcUg/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理與歸納
 
@@ -1291,7 +1333,9 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 <details>
 <summary>4179. [2022-12-30] The Mind-Blowing Benefits of 4 Mushrooms</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=Rx03S_u50mo)
+<a href="https://www.youtube.com/watch?v=Rx03S_u50mo" target="_blank">
+    <img src="https://img.youtube.com/vi/Rx03S_u50mo/maxresdefault.jpg" width="200">
+</a>
 
 ### 核心主題：蕈菇的健康益處
 
@@ -1336,7 +1380,9 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 <details>
 <summary>4178. [2022-12-29] The #1 Deficiency behind All Autoimmune Diseases</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=fDBZM1n_uDE)
+<a href="https://www.youtube.com/watch?v=fDBZM1n_uDE" target="_blank">
+    <img src="https://img.youtube.com/vi/fDBZM1n_uDE/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -1406,7 +1452,9 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 <details>
 <summary>4177. [2022-12-28] The Best Remedies for Myocarditis</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=wYCk-DMEngg)
+<a href="https://www.youtube.com/watch?v=wYCk-DMEngg" target="_blank">
+    <img src="https://img.youtube.com/vi/wYCk-DMEngg/maxresdefault.jpg" width="200">
+</a>
 
 ### 核心主題  
 - 自然療法在治療心肌炎（包括自身免疫性心肌炎）中的應用。
@@ -1463,7 +1511,9 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 <details>
 <summary>4176. [2022-12-27] Genetically at Risk for Alzheimer's Disease? DO THIS...</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=BTmqyuDT7dg)
+<a href="https://www.youtube.com/watch?v=BTmqyuDT7dg" target="_blank">
+    <img src="https://img.youtube.com/vi/BTmqyuDT7dg/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：膽固醇、膽鹽與神經健康
 
@@ -1531,7 +1581,9 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 <details>
 <summary>4175. [2022-12-26] How to Get Rid of Loose, Flabby Skin (SKIN TIGHTENING)</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=ialZZWq9vCE)
+<a href="https://www.youtube.com/watch?v=ialZZWq9vCE" target="_blank">
+    <img src="https://img.youtube.com/vi/ialZZWq9vCE/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -1596,7 +1648,9 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
 <details>
 <summary>4174. [2022-12-25] The Deeper Cause of Kidney Stones You've Never Heard About</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=jfrrSbku9t4)
+<a href="https://www.youtube.com/watch?v=jfrrSbku9t4" target="_blank">
+    <img src="https://img.youtube.com/vi/jfrrSbku9t4/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：腎结石的成因、風險及自然療法
 
@@ -1651,7 +1705,9 @@ The article explores the causes, health risks, and natural therapies for kidney 
 <details>
 <summary>4173. [2022-12-24] Take This IMMEDIATELY after a Stroke</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=iBDYdTaMUTg)
+<a href="https://www.youtube.com/watch?v=iBDYdTaMUTg" target="_blank">
+    <img src="https://img.youtube.com/vi/iBDYdTaMUTg/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章題目：卒中（中風）的營養干預與康復策略
 
@@ -1719,7 +1775,9 @@ The article explores the causes, health risks, and natural therapies for kidney 
 <details>
 <summary>4172. [2022-12-23] How to NEVER Get Shingles Again</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=E4ghFFE2Czc)
+<a href="https://www.youtube.com/watch?v=E4ghFFE2Czc" target="_blank">
+    <img src="https://img.youtube.com/vi/E4ghFFE2Czc/maxresdefault.jpg" width="200">
+</a>
 
 ### 核心主題：水痘病毒再激活導致疱疹及其影響
 
@@ -1765,7 +1823,9 @@ The article explores the causes, health risks, and natural therapies for kidney 
 <details>
 <summary>4171. [2022-12-22] The Best Protocol for Sjogren's Syndrome</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=VHYycYgJ-vs)
+<a href="https://www.youtube.com/watch?v=VHYycYgJ-vs" target="_blank">
+    <img src="https://img.youtube.com/vi/VHYycYgJ-vs/maxresdefault.jpg" width="200">
+</a>
 
 ### 小節歸納
 
@@ -1834,7 +1894,9 @@ The article explores the causes, health risks, and natural therapies for kidney 
 <details>
 <summary>4170. [2022-12-21] Never Be Stressed Out Again</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=vfSxiTjDQFk)
+<a href="https://www.youtube.com/watch?v=vfSxiTjDQFk" target="_blank">
+    <img src="https://img.youtube.com/vi/vfSxiTjDQFk/maxresdefault.jpg" width="200">
+</a>
 
 ### 本文重點整理
 
@@ -1901,7 +1963,9 @@ The article explores the causes, health risks, and natural therapies for kidney 
 <details>
 <summary>4169. [2022-12-20] The REAL Benefit of Nutritional Yeast</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=A_5CyIkC6z4)
+<a href="https://www.youtube.com/watch?v=A_5CyIkC6z4" target="_blank">
+    <img src="https://img.youtube.com/vi/A_5CyIkC6z4/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理與結構化分析
 
@@ -1980,7 +2044,9 @@ The article explores the causes, health risks, and natural therapies for kidney 
 <details>
 <summary>4168. [2022-12-19] 10 Surprising Diseases Caused by Low LDL Cholesterol</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=u_BAzMSjIyA)
+<a href="https://www.youtube.com/watch?v=u_BAzMSjIyA" target="_blank">
+    <img src="https://img.youtube.com/vi/u_BAzMSjIyA/maxresdefault.jpg" width="200">
+</a>
 
 # 低LDL和低膽固醇的危害：一個被忽略的健康議題
 
@@ -2043,7 +2109,9 @@ The article explores the causes, health risks, and natural therapies for kidney 
 <details>
 <summary>4167. [2022-12-18] The Most Shocking Underrated Mortality Risk Factor</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=6enzRhTVK8I)
+<a href="https://www.youtube.com/watch?v=6enzRhTVK8I" target="_blank">
+    <img src="https://img.youtube.com/vi/6enzRhTVK8I/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理與分析
 
@@ -2116,7 +2184,9 @@ The article explores the causes, health risks, and natural therapies for kidney 
 <details>
 <summary>4166. [2022-12-17] How to be IMMUNE to Pathogens</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=z_G2uljzhGs)
+<a href="https://www.youtube.com/watch?v=z_G2uljzhGs" target="_blank">
+    <img src="https://img.youtube.com/vi/z_G2uljzhGs/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -2177,7 +2247,9 @@ The article explores the causes, health risks, and natural therapies for kidney 
 <details>
 <summary>4165. [2022-12-16] How to Boost Your Acetylcholine for Super Brain Power</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=c4NrX1NwLJA)
+<a href="https://www.youtube.com/watch?v=c4NrX1NwLJA" target="_blank">
+    <img src="https://img.youtube.com/vi/c4NrX1NwLJA/maxresdefault.jpg" width="200">
+</a>
 
 ### 核心主題：乙酰膽鹼（Acetylcholine）的重要性與影響
 
@@ -2235,7 +2307,9 @@ The article explores the causes, health risks, and natural therapies for kidney 
 <details>
 <summary>4164. [2022-12-15] How to Rid Your Xanthomas (Naturally)</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=AH8XTQAbIRs)
+<a href="https://www.youtube.com/watch?v=AH8XTQAbIRs" target="_blank">
+    <img src="https://img.youtube.com/vi/AH8XTQAbIRs/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -2306,7 +2380,9 @@ The article explores the causes, health risks, and natural therapies for kidney 
 <details>
 <summary>4163. [2022-12-14] Overcoming the GENETIC Slow Metabolism Problem</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=vYm80zXKNgc)
+<a href="https://www.youtube.com/watch?v=vYm80zXKNgc" target="_blank">
+    <img src="https://img.youtube.com/vi/vYm80zXKNgc/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：基因多樣性對低碳飲食反應的影響及應對策略
 
@@ -2372,7 +2448,9 @@ The article explores the causes, health risks, and natural therapies for kidney 
 <details>
 <summary>4162. [2022-12-13] Neutralize the Bad Effects of Caffeine</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=mm0rRzjiX2k)
+<a href="https://www.youtube.com/watch?v=mm0rRzjiX2k" target="_blank">
+    <img src="https://img.youtube.com/vi/mm0rRzjiX2k/maxresdefault.jpg" width="200">
+</a>
 
 ### 小節歸納
 
@@ -2431,7 +2509,9 @@ The article explores the causes, health risks, and natural therapies for kidney 
 <details>
 <summary>4161. [2022-12-12] Forget Getting ANY Vitamin A from Carrots</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=UotvYzbg4DI)
+<a href="https://www.youtube.com/watch?v=UotvYzbg4DI" target="_blank">
+    <img src="https://img.youtube.com/vi/UotvYzbg4DI/maxresdefault.jpg" width="200">
+</a>
 
 ### 重點整理
 
@@ -2523,7 +2603,9 @@ The article explores the causes, health risks, and natural therapies for kidney 
 <details>
 <summary>4160. [2022-12-11] The Best 2 Foods to Rid Anxiety in Your Body</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=hifuVQGjOxg)
+<a href="https://www.youtube.com/watch?v=hifuVQGjOxg" target="_blank">
+    <img src="https://img.youtube.com/vi/hifuVQGjOxg/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -2581,7 +2663,9 @@ The article explores the causes, health risks, and natural therapies for kidney 
 <details>
 <summary>4159. [2022-12-10] How to Never Get Another Cavity Ever Again</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=NHUXAe5miUc)
+<a href="https://www.youtube.com/watch?v=NHUXAe5miUc" target="_blank">
+    <img src="https://img.youtube.com/vi/NHUXAe5miUc/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章核心主題：如何預防牙齒蛀蟲（Cavities）
 
@@ -2627,7 +2711,9 @@ The article explores the causes, health risks, and natural therapies for kidney 
 <details>
 <summary>4158. [2022-12-09] 8 Signs of a Vitamin C Deficiency You've Never Heard About</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=Zto7tX8GBtQ)
+<a href="https://www.youtube.com/watch?v=Zto7tX8GBtQ" target="_blank">
+    <img src="https://img.youtube.com/vi/Zto7tX8GBtQ/maxresdefault.jpg" width="200">
+</a>
 
 ## 文章整理：維生素C缺乏症的不尋常症狀與影響
 
@@ -2685,7 +2771,9 @@ The article explores the causes, health risks, and natural therapies for kidney 
 <details>
 <summary>4157. [2022-12-08] The FIRST Sign of a Vitamin A Deficiency Is...</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=wMW8E5aLNsE)
+<a href="https://www.youtube.com/watch?v=wMW8E5aLNsE" target="_blank">
+    <img src="https://img.youtube.com/vi/wMW8E5aLNsE/maxresdefault.jpg" width="200">
+</a>
 
 ### 小節歸納
 
@@ -2765,7 +2853,9 @@ The article explores the causes, health risks, and natural therapies for kidney 
 <details>
 <summary>4156. [2022-12-07] The #1 Best Remedy for Bloating</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=AZx0KMCOSs4)
+<a href="https://www.youtube.com/watch?v=AZx0KMCOSs4" target="_blank">
+    <img src="https://img.youtube.com/vi/AZx0KMCOSs4/maxresdefault.jpg" width="200">
+</a>
 
 ### 核心主題
 - **Activated Charcoal (活性碳)**：文章主要討論活性碳作為一種有效的療癮劑及其多種用途。
@@ -2802,7 +2892,9 @@ The article explores the causes, health risks, and natural therapies for kidney 
 <details>
 <summary>4155. [2022-12-06] What Happens If You Use a SAUNA for 14 Days</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=serJmA0YFD0)
+<a href="https://www.youtube.com/watch?v=serJmA0YFD0" target="_blank">
+    <img src="https://img.youtube.com/vi/serJmA0YFD0/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理與分析
 
@@ -2863,7 +2955,9 @@ Sauna 不僅提供舒適的放鬆體驗，更在生理和心理層面帶來多�
 <details>
 <summary>4154. [2022-12-05] Stop Constant Throat Clearing: Understanding the 3 Causes of Phlegm in Your Throat</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=RslGnogsyCA)
+<a href="https://www.youtube.com/watch?v=RslGnogsyCA" target="_blank">
+    <img src="https://img.youtube.com/vi/RslGnogsyCA/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：清除痰液與黏液的方法與建議
 
@@ -2916,7 +3010,9 @@ Sauna 不僅提供舒適的放鬆體驗，更在生理和心理層面帶來多�
 <details>
 <summary>4153. [2022-12-04] Healthy Whole Grains Are a JOKE</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=1e015eLi4lM)
+<a href="https://www.youtube.com/watch?v=1e015eLi4lM" target="_blank">
+    <img src="https://img.youtube.com/vi/1e015eLi4lM/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：為什麼全穀物被推薦為健康的食品？
 
@@ -2990,7 +3086,9 @@ Sauna 不僅提供舒適的放鬆體驗，更在生理和心理層面帶來多�
 <details>
 <summary>4152. [2022-12-03] Recognizing the Signs of Kidney Disease: What You Need to Know</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=Yu56EawudfU)
+<a href="https://www.youtube.com/watch?v=Yu56EawudfU" target="_blank">
+    <img src="https://img.youtube.com/vi/Yu56EawudfU/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：尿夜频症與糖尿病及其他代謝疾病的關聯及管理策略
 
@@ -3041,7 +3139,9 @@ Sauna 不僅提供舒適的放鬆體驗，更在生理和心理層面帶來多�
 <details>
 <summary>4151. [2022-12-01] The Deeper Causes of BRUISING (Non-Injury Type)</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=vYjQHkhzNB4)
+<a href="https://www.youtube.com/watch?v=vYjQHkhzNB4" target="_blank">
+    <img src="https://img.youtube.com/vi/vYjQHkhzNB4/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章題目：**维生素K1缺乏及其健康影響**
 
@@ -3117,7 +3217,9 @@ Sauna 不僅提供舒適的放鬆體驗，更在生理和心理層面帶來多�
 <details>
 <summary>4150. [2022-11-30] Low Potassium: Signs, Symptoms, Causes, and Treatment</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=--a-m_9gofI)
+<a href="https://www.youtube.com/watch?v=--a-m_9gofI" target="_blank">
+    <img src="https://img.youtube.com/vi/--a-m_9gofI/maxresdefault.jpg" width="200">
+</a>
 
 ### 篇章要點整理
 
@@ -3183,7 +3285,9 @@ Sauna 不僅提供舒適的放鬆體驗，更在生理和心理層面帶來多�
 <details>
 <summary>4149. [2022-11-29] Do This to Stop That Afternoon Crash (Sleepy after Lunch)</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=8asHntsuY20)
+<a href="https://www.youtube.com/watch?v=8asHntsuY20" target="_blank">
+    <img src="https://img.youtube.com/vi/8asHntsuY20/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -3235,7 +3339,9 @@ Sauna 不僅提供舒適的放鬆體驗，更在生理和心理層面帶來多�
 <details>
 <summary>4148. [2022-11-28] How to Lose That LAST 13 lbs of Stubborn Fat</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=PNTz1XBzaRQ)
+<a href="https://www.youtube.com/watch?v=PNTz1XBzaRQ" target="_blank">
+    <img src="https://img.youtube.com/vi/PNTz1XBzaRQ/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -3306,7 +3412,9 @@ Sauna 不僅提供舒適的放鬆體驗，更在生理和心理層面帶來多�
 <details>
 <summary>4147. [2022-11-27] The #1 Best Remedy to Prevent a Heart Attack for $3.19</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=R0kS26BA5BY)
+<a href="https://www.youtube.com/watch?v=R0kS26BA5BY" target="_blank">
+    <img src="https://img.youtube.com/vi/R0kS26BA5BY/maxresdefault.jpg" width="200">
+</a>
 
 ### 核心主題
 - **niacin（菸酸）**作為預防心臟病的有效補充劑。
@@ -3349,7 +3457,9 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
 <details>
 <summary>4146. [2022-11-26] I Lost 90 Lbs in 5 Months | Dr. Berg Interview</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=Ccjs1IZOL08)
+<a href="https://www.youtube.com/watch?v=Ccjs1IZOL08" target="_blank">
+    <img src="https://img.youtube.com/vi/Ccjs1IZOL08/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -3386,7 +3496,9 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
 <details>
 <summary>4145. [2022-11-25] The 6 Best Ways to Heal a Fatty Liver</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=i-sGhGT7ctA)
+<a href="https://www.youtube.com/watch?v=i-sGhGT7ctA" target="_blank">
+    <img src="https://img.youtube.com/vi/i-sGhGT7ctA/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -3458,7 +3570,9 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
 <details>
 <summary>4144. [2022-11-24] The #1 Best Remedy for Preventing Respiratory Infections</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=LU9GsnAH0Tc)
+<a href="https://www.youtube.com/watch?v=LU9GsnAH0Tc" target="_blank">
+    <img src="https://img.youtube.com/vi/LU9GsnAH0Tc/maxresdefault.jpg" width="200">
+</a>
 
 ### 小節整理
 
@@ -3507,7 +3621,9 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
 <details>
 <summary>4143. [2022-11-23] The REAL Cause of Toenail Fungus is ...</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=WNfVJIthdyA)
+<a href="https://www.youtube.com/watch?v=WNfVJIthdyA" target="_blank">
+    <img src="https://img.youtube.com/vi/WNfVJIthdyA/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理： toenail fungus的成因與解決方案
 
@@ -3590,7 +3706,9 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
 <details>
 <summary>4142. [2022-11-22] Why Fake Meats Will Never Be Popular</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=q1N9si1HRIo)
+<a href="https://www.youtube.com/watch?v=q1N9si1HRIo" target="_blank">
+    <img src="https://img.youtube.com/vi/q1N9si1HRIo/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：假肉產品的健康與環境影響
 
@@ -3661,7 +3779,9 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
 <details>
 <summary>4141. [2022-11-21] Rid Respiratory Mucus with SALT</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=XxPLWR1U5D0)
+<a href="https://www.youtube.com/watch?v=XxPLWR1U5D0" target="_blank">
+    <img src="https://img.youtube.com/vi/XxPLWR1U5D0/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -3697,7 +3817,9 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
 <details>
 <summary>4140. [2022-11-20] The BEST Foods to Strengthen Your Liver</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=CQtX_Xu8H3Q)
+<a href="https://www.youtube.com/watch?v=CQtX_Xu8H3Q" target="_blank">
+    <img src="https://img.youtube.com/vi/CQtX_Xu8H3Q/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：健康飲食與微生귝影響的研究
 
@@ -3762,7 +3884,9 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
 <details>
 <summary>4139. [2022-11-19] The Best MEAL to Clear Out Your Arteries</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=KWS-Tecjxdk)
+<a href="https://www.youtube.com/watch?v=KWS-Tecjxdk" target="_blank">
+    <img src="https://img.youtube.com/vi/KWS-Tecjxdk/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：基于生物薄膜的健康飲食方案
 
@@ -3806,7 +3930,9 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
 <details>
 <summary>4138. [2022-11-18] The BEST Remedies for Dry Skin, Eyes, and Mouth</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=v5hbfUzOggk)
+<a href="https://www.youtube.com/watch?v=v5hbfUzOggk" target="_blank">
+    <img src="https://img.youtube.com/vi/v5hbfUzOggk/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -3872,7 +3998,9 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
 <details>
 <summary>4137. [2022-11-17] 10 Surprising SUGAR Side Effects You've Never Heard About</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=XmebvEWOtzI)
+<a href="https://www.youtube.com/watch?v=XmebvEWOtzI" target="_blank">
+    <img src="https://img.youtube.com/vi/XmebvEWOtzI/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：糖分攝取過量的潛在副作用與影響
 
@@ -3936,7 +4064,9 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
 <details>
 <summary>4136. [2022-11-15] #1 Big Mistake People Make When Drinking Water</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=4h75JTMGsAA)
+<a href="https://www.youtube.com/watch?v=4h75JTMGsAA" target="_blank">
+    <img src="https://img.youtube.com/vi/4h75JTMGsAA/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：飲水與健康的多重影響
 
@@ -4011,7 +4141,9 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 <details>
 <summary>4135. [2022-11-14] The #1 Sign of Iodine Overload (TOXICITY)</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=2Hm6ZRfAbes)
+<a href="https://www.youtube.com/watch?v=2Hm6ZRfAbes" target="_blank">
+    <img src="https://img.youtube.com/vi/2Hm6ZRfAbes/maxresdefault.jpg" width="200">
+</a>
 
 # 文章要點整理
 
@@ -4071,7 +4203,9 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 <details>
 <summary>4134. [2022-11-13] Drain Sinuses and Clear a Stuffy Nose with This Technique</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=R4Kp5Ze3eok)
+<a href="https://www.youtube.com/watch?v=R4Kp5Ze3eok" target="_blank">
+    <img src="https://img.youtube.com/vi/R4Kp5Ze3eok/maxresdefault.jpg" width="200">
+</a>
 
 ### 小節歸納：
 
@@ -4110,7 +4244,9 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 <details>
 <summary>4133. [2022-11-12] What Happens When You Eat 2 TBSP of Olive Oil Daily</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=-k35KmI8hYs)
+<a href="https://www.youtube.com/watch?v=-k35KmI8hYs" target="_blank">
+    <img src="https://img.youtube.com/vi/-k35KmI8hYs/maxresdefault.jpg" width="200">
+</a>
 
 # 文章整理：每日攝取初榨橄欖油的效果與益處
 
@@ -4164,7 +4300,9 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 <details>
 <summary>4132. [2022-11-11] Acceptable Liquids During Fasting: COMPLETE LIST</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=1RpgnDnMC1I)
+<a href="https://www.youtube.com/watch?v=1RpgnDnMC1I" target="_blank">
+    <img src="https://img.youtube.com/vi/1RpgnDnMC1I/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：《深度解析 intermittent fasting 的飲食原則與實踐要點》
 
@@ -4231,7 +4369,9 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 <details>
 <summary>4131. [2022-11-10] The #1 Danger of Prolonged Fasting</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=qmzPV2x7Dcg)
+<a href="https://www.youtube.com/watch?v=qmzPV2x7Dcg" target="_blank">
+    <img src="https://img.youtube.com/vi/qmzPV2x7Dcg/maxresdefault.jpg" width="200">
+</a>
 
 # 文章重點整理： prolonged fasting for health and cancer treatment
 
@@ -4283,7 +4423,9 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 <details>
 <summary>4130. [2022-11-09] The #1 Hidden Cause of Your Hair Loss (Different Types)</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=T8Ghse_HdKA)
+<a href="https://www.youtube.com/watch?v=T8Ghse_HdKA" target="_blank">
+    <img src="https://img.youtube.com/vi/T8Ghse_HdKA/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理與分析
 
@@ -4345,7 +4487,9 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 <details>
 <summary>4129. [2022-11-08] The #1 REAL Reason Why You Are Tired</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=Quo5bOpK4GA)
+<a href="https://www.youtube.com/watch?v=Quo5bOpK4GA" target="_blank">
+    <img src="https://img.youtube.com/vi/Quo5bOpK4GA/maxresdefault.jpg" width="200">
+</a>
 
 ### 核心主題：維生素B1（硫胺素）的重要性及其在健康中的作用
 
@@ -4376,7 +4520,9 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 <details>
 <summary>4128. [2022-11-07] The Most Ignored DISEASE in the World</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=KvjOhVgxxn4)
+<a href="https://www.youtube.com/watch?v=KvjOhVgxxn4" target="_blank">
+    <img src="https://img.youtube.com/vi/KvjOhVgxxn4/maxresdefault.jpg" width="200">
+</a>
 
 ### 小節歸納
 
@@ -4411,7 +4557,9 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 <details>
 <summary>4127. [2022-11-06] Natural Solution for Plaque, Cavities, and Gingivitis</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=950fbVKFwHM)
+<a href="https://www.youtube.com/watch?v=950fbVKFwHM" target="_blank">
+    <img src="https://img.youtube.com/vi/950fbVKFwHM/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理與結構化總結
 
@@ -4461,7 +4609,9 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 <details>
 <summary>4126. [2022-11-05] Drink This EVERY Day to Lose More Belly Fat</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=bg_xenOrKPg)
+<a href="https://www.youtube.com/watch?v=bg_xenOrKPg" target="_blank">
+    <img src="https://img.youtube.com/vi/bg_xenOrKPg/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：加速胰島素阻抗改善與健康目標之策略
 
@@ -4524,7 +4674,9 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 <details>
 <summary>4125. [2022-11-04] The #1 Most Common Mineral Deficiency in the World</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=6RPRzN4kTWI)
+<a href="https://www.youtube.com/watch?v=6RPRzN4kTWI" target="_blank">
+    <img src="https://img.youtube.com/vi/6RPRzN4kTWI/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：鐵代謝與健康
 
@@ -4603,7 +4755,9 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 <details>
 <summary>4124. [2022-11-03] How To Remove Skin Tags And Warts Overnight</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=YF_8gVewcKg)
+<a href="https://www.youtube.com/watch?v=YF_8gVewcKg" target="_blank">
+    <img src="https://img.youtube.com/vi/YF_8gVewcKg/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -4669,7 +4823,9 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 <details>
 <summary>4123. [2022-11-02] Take 2 TABLESPOONS Before a Meal for GERD, Bloating, or Acid Reflux</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=jlQ0qEGujic)
+<a href="https://www.youtube.com/watch?v=jlQ0qEGujic" target="_blank">
+    <img src="https://img.youtube.com/vi/jlQ0qEGujic/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：酸 reflux 和胃食道逆流的成因與 해결 방법
 
@@ -4717,7 +4873,9 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 <details>
 <summary>4122. [2022-11-01] Change Your Breathing and Lower Your Cortisol</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=ppTAOjdcG04)
+<a href="https://www.youtube.com/watch?v=ppTAOjdcG04" target="_blank">
+    <img src="https://img.youtube.com/vi/ppTAOjdcG04/maxresdefault.jpg" width="200">
+</a>
 
 ### 核心主題：壓力管理和呼吸技巧的作用
 
@@ -4784,7 +4942,9 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 <details>
 <summary>4121. [2022-10-31] What Happens after 14 Days of Cold Showers (Part 2)</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=eXaSVLHQj3E)
+<a href="https://www.youtube.com/watch?v=eXaSVLHQj3E" target="_blank">
+    <img src="https://img.youtube.com/vi/eXaSVLHQj3E/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -4835,7 +4995,9 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 <details>
 <summary>4120. [2022-10-30] 7 Ways Dr. Berg BLOCKS the Side Effects Of Carbs While On A Keto Diet</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=4u8QGZvRYvo)
+<a href="https://www.youtube.com/watch?v=4u8QGZvRYvo" target="_blank">
+    <img src="https://img.youtube.com/vi/4u8QGZvRYvo/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理： sugar and refined carbohydrates impact health, leading to various issues like mineral deficiencies and joint problems. The article provides solutions such as dietary adjustments and supplements to counteract these effects.
 
@@ -4934,7 +5096,9 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 <details>
 <summary>4119. [2022-10-29] 7 Warning Signs of an IODINE Deficiency</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=GpWO3nvWvJ0)
+<a href="https://www.youtube.com/watch?v=GpWO3nvWvJ0" target="_blank">
+    <img src="https://img.youtube.com/vi/GpWO3nvWvJ0/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -4992,7 +5156,9 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 <details>
 <summary>4118. [2022-10-28] How to Do Intermittent Fasting for SERIOUS WEIGHT LOSS</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=bxd8Zui3v5Y)
+<a href="https://www.youtube.com/watch?v=bxd8Zui3v5Y" target="_blank">
+    <img src="https://img.youtube.com/vi/bxd8Zui3v5Y/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：間歇性禁食的enefits與實踐指南
 
@@ -5075,15 +5241,92 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 <details>
 <summary>4117. [2022-10-27] Top Diseases That Are REALLY Nutrient Deficiencies</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=IHay5kYhU1s)
+<a href="https://www.youtube.com/watch?v=IHay5kYhU1s" target="_blank">
+    <img src="https://img.youtube.com/vi/IHay5kYhU1s/maxresdefault.jpg" width="200">
+</a>
 
+### 文章重點整理
 
+#### 核心主題
+本文主要探討植物性食物與動物性食物在營養成分上的差異，特別是針對一些關鍵營養素（如維生素A、鐵、锌、B12和Omega-3脂肪酸）的吸收率和生物利用度進行比較。文章強調了植物性飲食中可能存在的一些營養缺陷，並指出動物性食物在提供這些營養素方面更具優勢。
+
+#### 主要觀念
+1. **維生素A（Retinol）**  
+   - 維生素A的活性形式（retinol）主要來源於动物性食物，如肝臟、蛋黃和魚類。  
+   - 植物中的維生素A多為 precursor（如β-葫蘆巴苷），其轉換率低，吸收效果差。  
+   - 維生素A的吸收受植物中抗營養因子（如纖維）的影響。
+
+2. **鐵（Iron）**  
+   - 植物中的鐵主要為非血紅素鐵（non-heme iron），其生物利用率低，約1-15%。  
+   - 劇血紅素鐵（heme iron）來源於動物性食物，吸收率高，約25-40%。  
+   - 植物中的抗營養因子（如植酸鹽）會進一步降低鐵的吸收。
+
+3. **锌（Zinc）**  
+   - 労動性食物中的锌生物利用度高，尤其是紅肉和海鮮。  
+   - 植物中的锌受植酸鹽等抗營養因子影響，吸收率低。  
+
+4. **維生素B12（Cobalamin）**  
+   - 維生素B12主要來源於動物性食物，植物中幾乎不含活性形式的B12。  
+   - 植物性飲食可能導致維生素B12 deficiency。
+
+5. **Omega-3脂肪酸**  
+   - DHA（-docosahexaenoic acid）主要來源於脂肪魚和海藻。  
+   - 植物中的ALA（-alpha-linolenic acid）需轉換為EPA和DHA，但轉換效率低，約8%至4%。
+
+6. **必需胺基酸**  
+   - 植物性食物通常缺乏完整的必需胺基酸 profiles。  
+   - 動物性食物（如肉類、蛋類和器官肉）提供所有必需胺基酸，且 bioavailability 高。
+
+#### 問題原因
+1. **抗營養因子的影響**  
+   - 植物中含有的植酸鹽、纖維和其他抗營養因子會降低礦物質（如鐵、锌）和某些脂溶性維生素的吸收率。  
+
+2. **營養素轉換效率低**  
+   - 植物來源的前體營養素（如β-葫蘆巴苷、ALA）轉換為活性形式的比例低，影響其實際利用率。  
+
+3. **食物組合限制**  
+   - 植物性飲食需要精確的食物配對（如穀物和豆類的結合）來彌補必需胺基酸的不足，否則容易導致營養失衡。  
+
+#### 解決方法
+1. **合理食物配搭**  
+   - 結合不同植物性食物（如穀物+豆類）以提高必需胺基酸的利用率。  
+   - 適當攝取含纖維較低的植物性食物（如芽菜、發芽穀物）以降低抗營養因子的影響。  
+
+2. **補充劑的使用**  
+   - 遊牧人群或長期從事植物性飲食者可考慮補充鐵、锌、B12等關鍵 nutrient 的補充劑。  
+   - 摄取富含ALA的食物（如核桃）並配合适當的轉化條件，以提高Omega-3脂肪酸的利用率。  
+
+3. **多樣化飲食結構**  
+   - 總量植物性食物為主，適當攝取動物性食物來彌補營養素的不足。  
+   - 增加海藻、蛋類等富含DHA的食物來源。  
+
+#### 健康建議
+1. **設計均衡飲食計劃**  
+   - 確保攝取足夠的鐵、锌和B12，特別是孕婦、兒童和青少年。  
+   - 多樣化食物來源，避免長期依賴某一種食物。  
+
+2. **注意營養素轉換與吸收**  
+   - 避免過量攝取高纖維食物，以免影響脂溶性維生素的吸收。  
+   - 適當增加脂肪攝取（如橄欖油）以促進脂溶性維生素的吸收。  
+
+3. **定期營養評估**  
+   - 定期進行血液檢測，監控關鍵 nutrient 的水平，特別是B12和鐵。  
+   - 根據個人健康狀況調整飲食結構。  
+
+#### 研究數據與統計資料
+- **維生素A**：植物來源的β-葫蘆巴苷轉換為retinol的比例約為5%（數據未明確提供）。  
+- **鐵**：非血紅素鐵的吸收率為1-15%，而血紅素鐵的吸收率為25-40%。  
+- **锌**：植物來源的锌吸收率因植酸鹽影響，降低至原來的30%-50%。  
+- **維生素B12**：植物性食物中幾乎不含活性形式的B12，需依賴動物性食物或補充劑。  
+- **Omega-3脂肪酸**：ALA轉換為EPA的比例約為8%，EPA再轉換為DHA的比例約為4%。
 </details>
 
 <details>
 <summary>4116. [2022-10-26] 7 Foods That Lower Bad Cholesterol (LDL)</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=AVaFEanJAUs)
+<a href="https://www.youtube.com/watch?v=AVaFEanJAUs" target="_blank">
+    <img src="https://img.youtube.com/vi/AVaFEanJAUs/maxresdefault.jpg" width="200">
+</a>
 
 # 研究報告：壞膽固醇（LDL）的分型、危害與管理策略
 
@@ -5165,7 +5408,9 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
 <details>
 <summary>4115. [2022-10-25] The Food That is More DEADLY Than Sugar</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=V2_Jmd6mCUQ)
+<a href="https://www.youtube.com/watch?v=V2_Jmd6mCUQ" target="_blank">
+    <img src="https://img.youtube.com/vi/V2_Jmd6mCUQ/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -5222,7 +5467,9 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 <details>
 <summary>4114. [2022-10-24] Think Twice before Getting a Hysterectomy</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=GzxBOdx3Q68)
+<a href="https://www.youtube.com/watch?v=GzxBOdx3Q68" target="_blank">
+    <img src="https://img.youtube.com/vi/GzxBOdx3Q68/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -5295,7 +5542,9 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 <details>
 <summary>4113. [2022-10-23] 13 Signs Your Body is Deficient in Nutrients</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=N_aUWIBf2VE)
+<a href="https://www.youtube.com/watch?v=N_aUWIBf2VE" target="_blank">
+    <img src="https://img.youtube.com/vi/N_aUWIBf2VE/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：營養缺乏症狀及解決方案
 
@@ -5358,7 +5607,9 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 <details>
 <summary>4112. [2022-10-22] The Best and Safest CORTICOSTEROID Alternative</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=hxY43mBVOOc)
+<a href="https://www.youtube.com/watch?v=hxY43mBVOOc" target="_blank">
+    <img src="https://img.youtube.com/vi/hxY43mBVOOc/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理與分析
 
@@ -5414,7 +5665,9 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 <details>
 <summary>4111. [2022-10-21] The Best Test to Determine How Long You Will Live</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=maLKYkYWMT4)
+<a href="https://www.youtube.com/watch?v=maLKYkYWMT4" target="_blank">
+    <img src="https://img.youtube.com/vi/maLKYkYWMT4/maxresdefault.jpg" width="200">
+</a>
 
 ### 本文整理重點
 
@@ -5448,7 +5701,9 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 <details>
 <summary>4110. [2022-10-20] The CURE for Procrastination</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=xH9aLk7WV0o)
+<a href="https://www.youtube.com/watch?v=xH9aLk7WV0o" target="_blank">
+    <img src="https://img.youtube.com/vi/xH9aLk7WV0o/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -5490,7 +5745,9 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 <details>
 <summary>4109. [2022-10-19] 10 Warning Signs Your Kidneys Are Toxic</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=U2FUJqYkn5o)
+<a href="https://www.youtube.com/watch?v=U2FUJqYkn5o" target="_blank">
+    <img src="https://img.youtube.com/vi/U2FUJqYkn5o/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -5544,7 +5801,9 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 <details>
 <summary>4108. [2022-10-18] Type 1 Diabetics MUST Do This to Reduce Insulin</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=FloMuAVOwoA)
+<a href="https://www.youtube.com/watch?v=FloMuAVOwoA" target="_blank">
+    <img src="https://img.youtube.com/vi/FloMuAVOwoA/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -5613,7 +5872,9 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 <details>
 <summary>4107. [2022-10-17] The Quickest Way to Test for Bowel Disease (Crohn's, IBD, UC or SIBO)</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=EgGeX-UxnoA)
+<a href="https://www.youtube.com/watch?v=EgGeX-UxnoA" target="_blank">
+    <img src="https://img.youtube.com/vi/EgGeX-UxnoA/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -5686,7 +5947,9 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 <details>
 <summary>4106. [2022-10-16] What Happens to Your Body When You Quit Sugar for 14 Days</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=cPyFIvCvh8U)
+<a href="https://www.youtube.com/watch?v=cPyFIvCvh8U" target="_blank">
+    <img src="https://img.youtube.com/vi/cPyFIvCvh8U/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -5734,7 +5997,9 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 <details>
 <summary>4105. [2022-10-15] Natural Remedy for Anaphylactic Shock</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=wh0R-avRMuM)
+<a href="https://www.youtube.com/watch?v=wh0R-avRMuM" target="_blank">
+    <img src="https://img.youtube.com/vi/wh0R-avRMuM/maxresdefault.jpg" width="200">
+</a>
 
 ### 小節歸納
 
@@ -5790,7 +6055,9 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 <details>
 <summary>4104. [2022-10-14] Getting Vitamin D from the Sun WITHOUT the Skin Cancer</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=tPom4UOW1vU)
+<a href="https://www.youtube.com/watch?v=tPom4UOW1vU" target="_blank">
+    <img src="https://img.youtube.com/vi/tPom4UOW1vU/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章整理：如何在不增加患皮膚癌風險的情況下從太陽中攝取維生素D
 
@@ -5873,7 +6140,9 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 <details>
 <summary>4103. [2022-10-13] The Calcium-Osteoporosis Myth</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=s-2lr6zuILA)
+<a href="https://www.youtube.com/watch?v=s-2lr6zuILA" target="_blank">
+    <img src="https://img.youtube.com/vi/s-2lr6zuILA/maxresdefault.jpg" width="200">
+</a>
 
 ### 核心主題：骨質疏鬆症的 misconception 与 comprehensive管理策略
 
@@ -5921,7 +6190,9 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 <details>
 <summary>4102. [2022-10-12] How to Burn Belly Fat EXTREMELY Fast – TOP 10 TIPS</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=SzQX-3tEDQU)
+<a href="https://www.youtube.com/watch?v=SzQX-3tEDQU" target="_blank">
+    <img src="https://img.youtube.com/vi/SzQX-3tEDQU/maxresdefault.jpg" width="200">
+</a>
 
 ### 文章重點整理
 
@@ -5983,8 +6254,44 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
 <details>
 <summary>4101. [2022-10-11] The HUGE Mistake Counting Carbs on Keto (Ketogenic Diet)</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=FpnOArocDtA)
+<a href="https://www.youtube.com/watch?v=FpnOArocDtA" target="_blank">
+    <img src="https://img.youtube.com/vi/FpnOArocDtA/maxresdefault.jpg" width="200">
+</a>
 
+### 文章重點整理
 
+#### 核心主題
+- **胰島素指數（Insulin Index）**：文章圍繞胰島素指數展開，強調其在評估食物對胰島素反應中的作用。
+- **酮osis（生酮狀態）**：探討如何通過飲食控制胰岛素水平以進入酮osis。
+
+#### 主要觀念
+1. **胰島素指數的定義**：
+   - 胰島素指數衡量食物引起胰島素分泌的程度，與血糖反應無直接關聯。
+2. **影響胰島素反應的因素**：
+   - **脂肪含量**：高脂肪食物可降低胰島素反應。
+   - **碳水化合物**：快速吸收的碳水化合物會激發高水平胰島素分泌。
+   - **蛋白質**：低脂蛋白質可能引起較高的胰島素反應。
+
+#### 問題原因
+1. **選擇低脂或低脂食品的危害**：
+   - 低脂或去脂食品往往增加碳水化合物攝取，導致胰岛素水平升高。
+2. **加工食品的影響**：
+   - 加工食品中常含添加糖和精制碳水化合物，极易引起胰島素 spikes。
+
+#### 解決方法
+1. **優先選擇完整食物**：
+   - 選擇未經過度加工的食物，如全脂 dairy 和富含脂肪的蛋白質來源。
+2. **控制碳水化合物攝取**：
+   - 選擇低GI（升糖指數）食品，避免精制碳水化合物。
+
+#### 健康建議
+1. **飲食策略**：
+   - **高脂低碳饮食**：幫助降低胰岛素水平，促進酮osis。
+   - **搭配脂肪攝取**：在蛋白質或碳水化合物中添加脂肪可降低胰島素反應。
+2. **酒精 consumption**：
+   - 選擇低影響的酒精，如白葡萄酒，並限制攝量以避免肝臟損害。
+
+#### 結論
+- 胰島素指數提供了評估食物的重要工具，幫助個人制定更健康的飲食計劃。理解和應用胰岛素指數可有效控制血糖水平，降低 insulin resistance，並促進酮osis 的實現。
 </details>
 

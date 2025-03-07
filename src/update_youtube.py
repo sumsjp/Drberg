@@ -173,13 +173,15 @@ def make_doc(filename: str, video_list: list):
     details_template = """<details>
 <summary>{idx}. {date}{title}</summary>
 
-[[Youtube]]({url})
+<a href="https://www.youtube.com/watch?v={id}" target="_blank">
+    <img src="https://img.youtube.com/vi/{id}/maxresdefault.jpg" width="200">
+</a>
 
 {summary_file}
 </details>
 
 """
-    
+
     try:
         # 確保目標目錄存在
         os.makedirs(os.path.dirname(filename), exist_ok=True)
@@ -204,7 +206,7 @@ def make_doc(filename: str, video_list: list):
                     idx=video['idx'],
                     date=date_str,
                     title=video['title'],
-                    url=video['url'],
+                    id=video['id'],
                     summary_file=summary_content
                 )
                 
