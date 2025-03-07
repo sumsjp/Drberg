@@ -3403,113 +3403,656 @@ Fatty liver disease is a significant public health issue, driven by dietary and 
 </details>
 
 <details>
-<summary>3944. How to Fix Bunions in 3 Steps</summary><br>
+<summary>3944. [2022-04-27] How to Fix Bunions in 3 Steps</summary><br>
 
 <a href="https://www.youtube.com/watch?v=N9kdv-1Mias" target="_blank">
     <img src="https://img.youtube.com/vi/N9kdv-1Mias/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題  
+- 腳部結構與功能健康，特別是針對扁平足和大腳趾問題。
+
+---
+
+#### 主要觀念  
+1. **足弓的重要性**：足弓在行走、跑步等活動中起到吸收震蕩和穩定腳部的作用。
+2. **扁平足的影響**：扁平足可能導致足部疼痛、步態異常以及相關結構損傷（如肌腱或關節）。
+3. **大腳趾問題**：大脚趾偏翹或受力不均是造成足部不適的主要原因之一。
+
+---
+
+#### 問題原因  
+1. **解剖學因素**：  
+   - 足弓過度塌陷（扁平足）。  
+   - 骨骼結構異常，如拇趾外翻。  
+2. ** biomechanical 異常**：  
+   - 步態異常或姿勢不良導致足部受力不均。  
+3. **活動與壓力**：  
+   - 長時間站立或行走增加足部負擔。  
+
+---
+
+#### 解決方法  
+1. **結構矯正**：  
+   - 使用orthotics（支撐器）來重塑足弓，分佈壓力。  
+2. **運動訓練**：  
+   - 加強小腿、大腿和核心肌群的training，改善姿勢與步態。  
+3. ** footwear 升級**：  
+   - 選擇合適的鞋子，避免高跟或過軟的鞋款。  
+
+---
+
+#### 健康建議  
+1. **日常護理**：  
+   - 定期進行足部按摩和伸展運動，促進血液循環並放鬆肌肉。  
+2. **姿勢矯正**：  
+   - 保持良好的站姿與坐姿，避免長時間維持同一姿勢。  
+3. **早期干預**：  
+   - 如出現足部疼痛或結構異常，及時就醫檢查和治療。
+
+---
+
+#### 結論  
+- 腳部健康直接影響整體身體功能與活動能力。  
+- 通過矯正、訓練和護理等多方面措施，可以有效改善足部問題，預防相關疾病並提高生活品質。
 </details>
 
 <details>
-<summary>3943. The #1 Healthiest PROTEIN in the World</summary><br>
+<summary>3943. [2022-04-26] The #1 Healthiest PROTEIN in the World</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HeH2npPqAuY" target="_blank">
     <img src="https://img.youtube.com/vi/HeH2npPqAuY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題：蛋類蛋白質的卓越營養價值與健康益處  
+蛋類被譽為最優質的蛋白質來源之一，其獨特的營養成分和多樣化功能使其成為人類 diet 中不可忽視的重要食物。
+
+#### 主要觀念：
+1. **蛋類的營養特性**：  
+   - 蛋類含有超过1500種不同的蛋白質，具有免疫支持、抗菌、抗炎和抗癌等多功能性。  
+   - 蛋白質含量高且品質優異，其必需氨基酸組成接近完美，僅次於母乳。  
+   - 蛋白質的生物利用率高，約49%可轉化為機體組織蛋白質。
+
+2. **蛋類的營養成分**：  
+   - **脂溶性維生素**：A、D、E、K（包括𝐾1和𝐾2）。  
+   - **水溶性維生素**：B群（B1、B2、B3、B5、B6、Biotin、B12）、葉酸等。  
+   - **礦物質**：鈣、磷、镁、钾、硒、鋅、銅等。  
+   - **脂肪酸**：富含ω-3脂肪酸，具備抗炎作用。  
+   - **膽堿**：蛋黃是第二大自然膽堿來源，有助於降血脂和神經傳導。  
+   - **碳棓化合物**：如類胡蘿蔔素（葉黄素、玉米黃質），有益於眼部健康。
+
+3. **蛋類的健康益處**：  
+   - **抗氧化與抗炎**：蛋類中的抗氧化劑和抗炎蛋白質可降低慢性疾病風險。  
+   - **免疫調節**：蛋類蛋白質有助於腸道健康，改善IBS、結直腸炎等炎症性腸病。  
+   - **降血壓作用**：蛋類中某些蛋白質成分具備降低血壓的效果。
+
+#### 問題與原因：
+1. **消費者的疑慮**：  
+   - 長期以來，蛋類因其高膽固醇含量而被誤認為會升高血液中的膽固醇水平。  
+
+2. **常見迷思**：  
+   - 一般人普遍認為蛋清比蛋黃含更多的蛋白質，實際上蛋黄的蛋白質含量（15g/100g）略高於蛋清（11g/100g）。  
+
+#### 解決方法：
+1. **科學食蛋**：  
+   - 選擇來源可靠的蛋類產品，如來自自家養殖的健康雞群。  
+   - 合理控制攝取量，根據個人需求每日食用4-8隻蛋。  
+
+2. **消除疑慮**：  
+   - 通過科普教育，糾正對蛋類膽固醇含量的錯誤認識，強調其營養價值遠超過可能的健康風險。  
+
+#### 健康建議：
+1. **攝取量建議**：  
+   - 根據個人體重和活動量，每日可食用4-8隻蛋。  
+
+2. **搭配飲食**：  
+   - 蛋類可與蔬菜、全穀物等食物搭配食用，以均衡營養。  
+
+3. **注意來源**：  
+   - 選擇散養雞群產的蛋類，避免工業化養殖可能存在的抗生素和污染物問題。  
+
+#### 結論：
+蛋類作為一種高品質、多功能性的蛋白質來源，在人類 diet 中佔據重要地位。其豐富的營養成分和多樣化的健康益處使其成為維護身體健康的重要食物。消費者應摒棄對蛋類膽固醇含量的過度擔憂，合理食用蛋類，享受其帶來的健康好處。
 </details>
 
 <details>
-<summary>3942. 5 Ways YOU Are Being Tricked with Misleading Food Labels</summary><br>
+<summary>3942. [2022-04-25] 5 Ways YOU Are Being Tricked with Misleading Food Labels</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_hwGLQKZjPc" target="_blank">
     <img src="https://img.youtube.com/vi/_hwGLQKZjPc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章結構與重點整理
 
+#### 1. 核心主題  
+- 消費者應該提高對食品標籤和加工食品成分的警覺性，以避免被不實宣傳所影響，並選擇更健康的食品。
+
+#### 2. 主要觀念  
+- **食品加工技術的خداع**：Manufacturers use various tricks to market products as healthier or more nutritious than they actually are.  
+- **營養價值的缺失**：Processed foods often lack nutrient density, despite claims of being "nutrient-rich."  
+- **基因改造生物（ GMO）的隱晦**：Non-GMO labeling does not guarantee the absence of GMOs; it merely follows a checklist to reduce risk.  
+- **抗生素使用的問題**：Labels like "no antibiotics" may still allow the use of antibiotics in certain stages or for specific purposes, not necessarily eliminating them entirely.
+
+#### 3. 問題原因  
+- **營養成分的虛假宣稱**：Manufacturers often mislead consumers with terms like "whole grain" or "low sugar," which do not guarantee nutritional benefits.  
+- **加工食品的低營養價值**：Processed foods, even those marketed as "keto-friendly," lack the nutrient density found in whole, real foods.  
+- **不透明的標籤聲明**：Labels such as "non-GMO" and "no antibiotics" are often misleading or based on incomplete information.  
+- **消費者對食品成分的不了解**：Many consumers are unaware of the true ingredients and processes involved in food production.
+
+#### 4. 解決方法  
+- **提高食品安全意識**：Educate oneself about food labels, processing methods, and the nutritional value of foods.  
+- **選擇整食物品**：Opt for whole, unprocessed foods to ensure nutrient density and minimize exposure to harmful additives.  
+- **支持透明度高的品牌**：Choose brands that provide clear and honest labeling regarding GMOs, antibiotics, and other additives.  
+- **避免過度依賴加工食品**：Reduce reliance on processed foods, even those marketed as "healthy," due to their lack of nutrient density.
+
+#### 5. 健康建議  
+- **均衡飲食**：Prioritize a diet rich in whole foods, including vegetables, fruits, nuts, and seeds, which provide essential nutrients without the risks associated with processed products.  
+- **減少糖分攝取**：Be cautious of hidden sugars in food products, even those labeled as "low sugar" or "keto-friendly."  
+- **注意食品來源**：Choose non-GMO and antibiotic-free products when possible, but understand that these labels may not guarantee complete freedom from such substances.  
+- **支持可追溯的供應鏈**：Support brands with transparent supply chains to ensure the integrity of their products.
+
+#### 6. 結論  
+- Consumers must take responsibility for understanding food labels and making informed choices about their diet. By prioritizing whole, nutrient-dense foods and supporting transparent brands, individuals can significantly improve their health outcomes and avoid being misled by marketing tactics.
 </details>
 
 <details>
-<summary>3941. The REAL Benefit of Exercise is NOT Weight Loss</summary><br>
+<summary>3941. [2022-04-24] The REAL Benefit of Exercise is NOT Weight Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Lofv5L0qq0k" target="_blank">
     <img src="https://img.youtube.com/vi/Lofv5L0qq0k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題：運動的多方面健康益處
+- 運動不僅僅是ダイエット手段，還具有 эпигенетические 效果，能夠積極影響基因。
+- 運動對自主神經系統、心血管健康、心理狀況等有顯著益處。
+
+#### 主要觀念：
+1. **_autonomic nervous system_**
+   - 自主神經系統分為交感神經系統（負責「戰或逃」反應）和副交感神經系統（負責休息與消化）。
+   - 運動可以平衡這兩者的活性，通過心率變異性測試可評估其效果。
+
+2. **心血管健康**
+   - 運動增強心臟的彈性和血流的可塑性，降低心臟病、中風和高血壓的風險。
+   - 心率變異性是評估心血管健康的指標，運動可顯著提高該指數。
+
+3. **癌症預防**
+   - 運動能降低某些癌症（如肺癌、結腸癌、子宮癌、乳腺癌）的風險，通過刺激抗氧化網絡來減少自由基損害。
+
+4. **能量增強**
+   - 運動增加線粒體數量和大小，提升身體的能量生成能力。
+
+5. **代謝健康**
+   - 運動提高胰島素敏感性，降低糖尿病風險，並幫助消耗血糖。
+
+6. **心理健康**
+   - 運動通過調節神經傳導物質（如多巴胺、內啡肽）來降低焦慮和抑鬱，改善情緒。
+   - 提供 distraction 作用，有助於心理療癒。
+
+7. **認知功能提升**
+   - 運動減缓海馬體萎縮，降低失智症風險，增強記憶力和認知能力。
+   - 促進神經生長因子（如brain-derived neurotrophic factor, BDNF）的生成，支持新神經元形成。
+
+8. **整體健康與壽命延長**
+   - 運動降低多種慢性病風險，提高整體健康水平和壽命 expectancy。
+   - 改善生育能力，緩解低背部疼痛和關節不適。
+
+#### 問題原因：
+- 现代生活方式中久坐少動導致多種健康問題（心臟病、 diabetes、心理壓力等）。
+- 運動不足或恢復不當引發炎症反應和運動損傷。
+
+#### 解決方法：
+- 定期從事多元化的運動，包括有氧運動、力量訓練和靈活性練習。
+- 確保足夠的休息與恢復時間，避免過度訓練。
+- 運動結合健康飲食和充足睡眠以最大化健康效益。
+
+#### 健康建議：
+- 每周至少進行150分鐘中等強度有氧運動或75分鐘高強度運動。
+- 理安排力量訓練，每週2-3次，針對所有主要肌群。
+- 運動後進行適當的拉伸和冷卻，預防肌肉酸痛和受傷。
+
+#### 結論：
+- 運動是提升整體健康、延長壽命的重要手段。
+- 养成規律運動習慣能有效預防多種疾病，改善心理和認知功能。
+- 運動不僅帶來身體上的好處，也增強意志力和生活滿意度。
 </details>
 
 <details>
-<summary>3940. The #1 Nutrient to Boost Your Collagen (NOT VITAMIN C)</summary><br>
+<summary>3940. [2022-04-23] The #1 Nutrient to Boost Your Collagen (NOT VITAMIN C)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=tYB9CGGSwFM" target="_blank">
     <img src="https://img.youtube.com/vi/tYB9CGGSwFM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **膠原蛋白的重要性**：膠原蛋白占人體蛋白質約35%，是連接組織的主要成分，參與構成軟骨、肌腱、韌帶、眼睛、皮膚等。
+- **铜（Copper）在膠原蛋白合成中的作用**：銅是促進膠原蛋白生成和防止膠原蛋白流失的關鍵微量元素。
 
+### 主要觀念
+1. **膠原蛋白的功能**：
+   - 提供結構支持，維持組織完整性。
+   - 參与軟骨、肌腱、韌帶等的形成。
+   - 與彈性蛋白相互作用，增強結構穩定性。
+
+2. **銅的作用機制**：
+   - 直接參與膠原蛋白和彈性蛋白的合成。
+   - 確保酶活性，促進蛋白質結構的完整性。
+   - 防止膠原蛋白流失，增強組織韌性。
+
+### 問題原因
+1. **缺銅問題**：
+   - 土壤中礦物質不足導致食物銅含量低。
+   - 遠期胃酸切除手術干擾銅吸收。
+   - 過量攝取維生素C（ascorbic acid）干擾銅的利用率。
+   - 過量攝取鋅影響銅代謝。
+
+2. **缺銅症狀**：
+   - 背部過度拱起（swayback或lordosis）。
+   - 皮膚松弛、疝氣、關節問題、肌肉無力。
+   - 血液系統障礙，如貧血。
+   - 神經系統問題，如平衡失調。
+
+### 解決方法
+1. **飲食調整**：
+   - 增加富含銅的食物攝取：肝臟、腎臟、牡蠣、扇貝、香菇、芝麻籽等。
+
+2. **補充劑使用**：
+   - 考慮銅補充劑，特別是存在明顯缺銅症狀或風險因素時。
+
+3. **均衡營養素攝取**：
+   - 避免過量攝取影響銅代謝的礦物質（如鋅和維生素C）。
+   - 確保通過多元素 комплекс攝取微量元素，避免單一 nutrient過量。
+
+4. **健康生活方式**：
+   - 減少糖分攝取，特別是果糖。
+   - 適當限制酒精攝入。
+   - 避免過度使用功能性纖維，以免干擾礦物質吸收。
+
+### 健康建議
+1. **飲食結構優化**：
+   - 確保日常飲食中包含足夠的高銅食物來源。
+   - 多樣化的飲食習慣有助于攝取全面的營養素。
+
+2. **微量元素平衡**：
+   - 避免單一微量元素的過量攝取，注意礦物質之間的相互作用。
+   - 考慮使用含有多種微量元素的補充劑。
+
+3. **定期健康檢查**：
+   - 定期測定血清銅濃度及其他相關指標，及時發現缺銅問題。
+   - 對于有手術史或特殊飲食習慣的人群，建議進行專業評估。
+
+4. **生活方式調節**：
+   - 戒煙限酒，保持適量運動。
+   - 避免濫用功能性食品和補充劑。
+
+### 結論
+- **核心思想**：銅是維持膠原蛋白功能和組織健康的重要微量元素，缺銅會導致多種健康問題。
+- **行動呼籲**：通過均衡飲食和合理營養攝取來保障銅的足夠攝入，避免因缺銅導致的健康損害。
 </details>
 
 <details>
-<summary>3939. How to Increase Your Height and Grow Taller</summary><br>
+<summary>3939. [2022-04-22] How to Increase Your Height and Grow Taller</summary><br>
 
 <a href="https://www.youtube.com/watch?v=JF8FhfgGe2w" target="_blank">
     <img src="https://img.youtube.com/vi/JF8FhfgGe2w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 1. 核心主題
+**核心主題：**
+- 最大化身高潛力的因素
+- 影響生長激素的因素
+- 饮食和營養對生長發育的作用
 
+---
+
+### 2. 主要觀念
+**主要觀念：**
+- 生長激素是由腦下垂體（pituitary gland）分泌的，其足夠水平對於身高增長至關重要。
+- 很多因素會干擾生長激素的正常分泌，包括碘缺乏、睡眠不足、壓力過大等。
+- 遥遠的飲食結構和某些營養素的攝取量直接影響生長發育。
+
+---
+
+### 3. 問題原因
+**問題原因：**
+- **碘 deficiency**: 碘是合成甲状腺激素的關鍵元素，缺乏會導致生長遲緩。
+- **睡眠不足**: 足夠的睡眠對於生長激素的分泌至關重要。
+- **飲食中含有過多的植酸鹽（phytates）**: 植酸鹽會干擾礦物質吸收，影響營養均衡。
+- **缺乏足夠的維生素D**: 維生素D有助於鈣的吸收，並對骨骼生長有重要作用。
+- **飲食結構不當**: 高碳水化合物、低蛋白質的飲食可能限制身高潛力。
+
+---
+
+### 4. 解決方法
+**解決方法：**
+1. **補充礦物質營養劑**: 確保攝取足夠的鋅（zinc）和其他微量元素，建議使用trace mineral products。
+2. **使用Pituotrophin PMG**: 這是一種支持腦下垂體功能的產品，可促進生長激素分泌。
+3. **改善睡眠質量**: 確保充足的睡眠時間，建立良好的睡覺習慣。
+4. **降低植酸鹽攝取**: 減少 grain 和豆類等富含植酸鹽的食物攝取。
+5. **補充維生素D**: 通过日晒或服用維生素D補充劑來確保足夠的維生素D攝取。
+6. **調整飲食結構**: 採用健康低碳水化合物（healthy ketogenic diet）的飲食方式，優先選擇高蛋白質、高脂肪的食物。
+
+---
+
+### 5. 健康建議
+**健康建議：**
+- 避免食用加工食品和高糖分食物。
+- 多攝取富含鋅的食物，如紅肉、海產品等。
+- 保持規律的運動習慣，特別是那些能刺激生長激素分泌的活動，如力量訓練。
+- 練行間歇性禁食（intermittent fasting），以刺激生長激素的分泌。
+
+---
+
+### 6. 結論
+**結論：**
+- 身高的最大化需要多方面的努力，包括飲食調整、營養補充、良好的睡眠習慣和適當的運動。
+- 生長激素的足夠分泌是關鍵因素，而這取決於整體健康狀況和營養攝取。
+- 避免常見的錯誤飲食建議，如過度依賴穀物和蔬菜油，而應該選擇更健康的飲食模式。
 </details>
 
 <details>
-<summary>3938. Healthy Homemade PROTEIN BARS (5 Ingredients, DIY)</summary><br>
+<summary>3938. [2022-04-21] Healthy Homemade PROTEIN BARS (5 Ingredients, DIY)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=uMan_ylkAcA" target="_blank">
     <img src="https://img.youtube.com/vi/uMan_ylkAcA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 低糖、低碳水化合物（生酮）飲食的重要性。
+- 商業化蛋白質棒的危害與自制替代品的优势。
+
+#### 主要觀念
+1. **商業化蛋白質棒的問題**：
+   - 添加劑和填充劑的潛在危害，如 maltodextrin（麥芽糊精）等可能對健康造成負面影響。
+   - 高成本和低健康價值，許多產品宣稱健康但實際營養成分不佳。
+
+2. **自制蛋白質棒的優勢**：
+   - 可控的原料來源，確保不含有害添加劑。
+   - 結合個人口味偏好，提供多樣化的選擇。
+   - 更高的成本效益和更好的營養均衡。
+
+#### 問題原因
+- 商業化食品制造商為降低成本，使用廉價且可能不健康的添加劑，如 maltodextrin 和其他填充物。
+- 消費者對食品成分的不了解，導致容易被不良產品影響健康。
+
+#### 解決方法
+1. **選擇可靠的蛋白質來源**：
+   - 使用高品質的蛋白質粉末，如全蛋蛋白或乳清蛋白。
+   - 確保甜味劑不含添加物，推薦使用 pure monk fruit syrup（缽 цифр糖漿）等天然成分。
+
+2. **自制健康食品**：
+   - 制作低糖、低碳水化合物的蛋白質棒，通過混合天然材料如牛油、椰子油、蛋白質粉末、堅果和可可粉來完成。
+   - 確保選用不含添加劑的原料，尤其是甜味劑和乳脂成分。
+
+#### 健康建議
+1. **閱讀食品標籤**：
+   - 注意食品中是否含有 hidden sugars（隱形糖分）或不良添加劑如 maltodextrin。
+   - 選擇天然、無添加的食品，避免加工產品。
+
+2. **均衡飲食**：
+   - 多攝取堅果、種子等高纖維食物，增加飽腹感並保持血糖穩定。
+   - 確保蛋白質攝取足夠，以支持肌肉修復和能量需求。
+
+3. **自制食品的優勢**：
+   - 自制食品可完全控制原料來源，避免商業化加工食品中的有害成分。
+   - 可根據個人健康狀況調整配方，更具針對性。
+
+#### 結論
+- 商業化的蛋白質棒可能存在隱藏的危害，消費者應提高警覺。
+- 自制低糖、低碳水化合物的蛋白質棒是一種更健康的選擇，既可以控制原料來源，又能滿足口感需求。
+- 選擇食品時，注重成分標籤，避免被不實廣告誤導，以保障個人健康。
 </details>
 
 <details>
-<summary>3937. How to Shrink Your Prostate Naturally: The #1 Nutrient You Need</summary><br>
+<summary>3937. [2022-04-20] How to Shrink Your Prostate Naturally: The #1 Nutrient You Need</summary><br>
 
 <a href="https://www.youtube.com/watch?v=72j8NXuJ1oY" target="_blank">
     <img src="https://img.youtube.com/vi/72j8NXuJ1oY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 文章重點整理：鋅與前列腺健康之關聯
 
+## 核心主題
+- 鋅（Zinc）在男性生殖系統及前列腺健康中扮演關鍵角色，影響睾丸酮（Testosterone）、前列腺肥大（Prostate Hypertrophy）及前列腺癌風險。
+
+## 主要觀念
+1. **鋅的功能**：
+   - 參與 testosterone 的合成。
+   - 抑制 5α-還原酶（5-alpha reductase），降低其活性，進而控制二氫睾丸酮（DHT）的水平。
+   
+2. **前列腺健康之影響**：
+   - 鋅 deficiency 與慢性前列腺炎、前列腺肥大及前列腺癌相關。
+   - 鋅不足會導致前列腺炎症反應加劇。
+
+3. **DHT 的作用**：
+   - DHT 高濃度與前列腺肥大及男性型脫毛有關。
+   - 抑制 5α-還原酶可降低 DHT 水平，從而改善前列腺健康。
+
+## 問題原因
+1. **飲食因素**：
+   - 素食或低紅肉攝取：植物性食物中鋅含量較低且吸收率差。
+   - 高穀物攝取：榖物中的植酸（Phytic Acid）干擾鋌的吸收。
+
+2. **生理因素**：
+   - 年齡增長導致胃酸分泌下降，影響鋌吸收。
+   
+3. **生活習慣**：
+   - 酗酒、高糖攝入及頻繁進餐（夜食電視）增加胰島素抗性，進一步耗竭鋌。
+
+4. **藥物因素**：
+   - 抗酸劑和利尿劑干擾鋌吸收。
+   - 他汀类藥物降低血液中鋌濃度。
+
+## 解決方法
+1. **飲食調整**：
+   - 增加紅肉（尤其是未加工的草饲牲畜肉）及海產（如牡蠣）攝取，以提高鋌攝入量。
+   
+2. **吸收促進**：
+   - 避免與植酸含量高的食物同食，以提升鋌吸收率。
+
+3. **健康管理**：
+   - 戒除酗酒和高糖飲食習慣，規律飲食以降低胰島素抗性。
+
+4. **補充劑考量**：
+   - 考慮使用優質的礦物質補充劑，但需注意過量攝取可能引發 toxicity（如腸胃不適、銅代謝失衡等）。
+
+## 健康建議
+1. **均衡飲食**：
+   - 確保每日攝入足夠的鋌來源，特別是紅肉和海鮮。
+   
+2. **注意吸收條件**：
+   - 避免與抑制吸收的食物或藥物同時攝取。
+   
+3. **生活方式調整**：
+   - 戒除不良習慣（如酗酒、高糖攝入）以降低鋌耗竭風險。
+
+4. **定期檢查**：
+   - 定期進行血液檢查，監測鋌水平及前列腺健康狀況。
+
+## 結論
+- 鋅在維持男性生殖系統功能及前列腺健康方面具有不可忽視的重要性。
+- 鋅 deficiency 可能導致睾丸酮低下、精子活動力降低、前列腺肥大及增加前列腺癌風險。
+- 改善鋌營養狀況需從飲食結構調整著手，並配合良好的生活習慣以降低相關健康問題的發生率。
 </details>
 
 <details>
-<summary>3936. The #1 Remedy for Gout Attacks (WORKS FAST) - Dr. Berg</summary><br>
+<summary>3936. [2022-04-18] The #1 Remedy for Gout Attacks (WORKS FAST) - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=GwDpBTxSYKM" target="_blank">
     <img src="https://img.youtube.com/vi/GwDpBTxSYKM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- **痛風（Gout）**：一種與免疫反應和代謝紊亂密切相關的炎症性疾病。
+- **代謝綜合征（Metabolic Syndrome）**：高 incidence of gout 的情況，尤其是與糖分攝取過量相關。
+
+#### 主要觀念
+1. **痛風的核心問題**：
+   - 痛風並非由過多的紅肉或內臟直接導致。
+   - 它主要與代謝紊亂、免疫反應異常及環境因素有關。
+
+2. **痛風的病發機制**：
+   - 高尿酸血症（Hyperuricemia）：血液中尿酸水平過高，導致尿酸鹽在關節和組織中沉積。
+   - 炎症反應：免疫系統對沉積的尿酸鹽發生炎症反應。
+
+3. **痛風與代謝綜合征**：
+   - 代謝綜合征患者通常伴有肥胖、胰島素抵抗和高血糖，這些因素增加痛風發病風險。
+
+#### 問題原因
+1. **飲食因素**：
+   - 高糖分攝取：尤其是果糖（fructose）含量高的食物和飲料。
+   - 細緻碳水化合物：如白麵、糕點等。
+   - 酒精，尤其是啤酒。
+
+2. **藥物影響**：
+   - 一些藥物如阿司匹林（aspirin）、利尿劑等會增加血尿酸水平。
+
+3. **遺傳因素**：
+   - 家族中有痛風病史的人更容易患上此病。
+
+4. **生活方式**：
+   - 運動不足、肥胖等因素增加患病風險。
+
+#### 解決方法
+1. **飲食調整**：
+   - 降低糖分攝取，尤其是果糖。
+   - 減少精制碳水化合物的攝入。
+   - 增加蔬菜和高fiber食物的攝入。
+
+2. **戒酒**：
+   - 尤其是啤酒和其他含酒精飲料。
+
+3. **藥物選擇**：
+   - 使用對痛風友好的維生素形式，如煙酸胺（Niacinamide）而非普通煙酸。
+   - 避免使用會增加血尿酸的藥物。
+
+4. **免疫調節**：
+   - 使用小蘇打（碳酸氫鈉）來調整免疫反應，降低炎症反應。
+
+5. **生活方式改變**：
+   - 增加運動量，控制體重。
+   - 適當飲水，促進尿酸排泄。
+
+#### 健康建議
+1. **飲食建議**：
+   - 限制糖分攝取，尤其是含果糖的飲料和食物。
+   - 選擇低脂乳製品、瘦肉和魚類，避免過量紅肉。
+   - 增加蔬菜、水果和全穀物的攝入。
+
+2. **戒酒**：
+   - 完全避免酒精，尤其是啤酒。
+
+3. **藥物使用**：
+   - 避免不必要的利尿劑和其他可能增加血尿酸的藥物。
+   - 使用煙酸胺而非普通煙酸補充維生素B3。
+
+4. **免疫調節**：
+   - 適當使用小蘇打來調整免疫反應，降低炎症水平。
+
+5. **生活方式建議**：
+   - 運動：進行有氧運動，如跑步、游泳等。
+   - 控制體重：通過合理飲食和運動來保持健康體重。
+
+6. **定期檢查**：
+   - 定期監測血尿酸水平，及時調整治療方案。
+
+#### 結論
+痛風是一種可管理的慢性疾病，主要由高尿酸血症和免疫反應異常導致。通過飲食控制、戒酒、藥物選擇和生活方式改變，可以有效預防和治療痛風。關鍵在於降低血尿酸水平，調節免疫系統，並避免誘發因素。
 </details>
 
 <details>
-<summary>3935. Best Home Test for a CALCIUM DEFICIENCY</summary><br>
+<summary>3935. [2022-04-17] Best Home Test for a CALCIUM DEFICIENCY</summary><br>
 
 <a href="https://www.youtube.com/watch?v=yU7taCx-bQE" target="_blank">
     <img src="https://img.youtube.com/vi/yU7taCx-bQE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 钙質缺乏症：成因、症状及家庭測試指南
 
+## 核心主題
+本文主要探討 calcium deficiency（鈣質缺乏症）的相關議題，包括其成因、臨床表現、診斷方法以及預防和治療建議。文章強調了多種因素可能導致鈣質吸收不良，並提供了一個簡單的家庭測試方法來評估鈣質水平。
+
+---
+
+## 主要觀念
+1. **鈣質的重要性**  
+   鈣質是人體中最豐富的礦物質元素，對於維持骨骼健康、神經传导、肌肉收縮和血液凝固等功能至關重要。
+
+2. **鈣質缺乏的影響**  
+   鈣質不足會導致多種健康問題，包括骨質疏鬆症、肌無力、抽搐和免疫功能下降等。
+
+3. **多因素致病機制**  
+   鈣質吸收不良可能由多重因素引起，包括胃酸不足、 magnesium缺乏、血液pH失衡以及激素變化（如雌激素水平降低）等。
+
+---
+
+## 問題原因
+1. **營養攝取不足**  
+   - 日常飲食中缺乏富含鈣的食物，如乳制品、綠葉蔬菜和小魚乾等。
+   - 長期偏食或拒絕食用含鈣豐富的食物。
+
+2. **吸收障礙**  
+   - 消化系統疾病（如胃酸不足）影響鈣質的吸收。
+   - 膳食中存在抑制鈣吸收的因素，例如過量的咖啡因、酒精和高鹽攝取。
+
+3. **代謝失衡**  
+   - 血液pH值過高（代謝性鹼中毒）干擾鈣質的正常功能。
+   - 雌激素水平下降（如更年期後婦女）降低骨密度，增加骨折風險。
+
+4. **其他因素**  
+   - 經常暴露於紫外線不足的環境，影響維生素D的合成，而維生素D是鈣吸收的重要促進因子。
+   - 長期使用某些藥物（如利尿劑）可能增加鈣質丟失。
+
+---
+
+## 解決方法
+1. **改善飲食結構**  
+   - 增加富含鈣的食物攝取，如牛奶、酸奶、芝士、羽衣甘藍和小魚乾等。
+   - 保證均衡飲食，攝取足夠的葉綠素蔬菜以補充鎂元素，促進鈣質吸收。
+
+2. **補充必要營養素**  
+   - 適當補充維生素D，尤其是冬季或紫外線暴露不足的人群。
+   - 考慮服用含HCl（鹽酸）的補充劑或食用蘋果醋來改善胃酸分泌，促進鈣質吸收。
+
+3. **調節血液pH值**  
+   - 適當攝取酸性食物和飲料，如橄欖油和vinegar，幫助恢復血液的酸鹼平衡。
+   - 通過健康飲食逐步糾正代謝失衡，而非依賴短期藥物干預。
+
+4. **激素平衡**  
+   - 對於更年期婦女或其他因激素變化導致鈣質吸收困難的人群，可諮詢醫生關於雌激素替代療法的可行性。
+
+---
+
+## 健康建議
+1. **定期評估鈣質水平**  
+   通過家庭測試（如血壓測試）或專業醫療檢查（如血液檢測）來監測鈣質狀況。
+
+2. **注意身體 signals**  
+   - 網注意疲勞、骨痛、肌肉痠痛和抽搐等症狀，這些可能是鈣質缺乏的早期跡象。
+   - 如有疑慮，及時就醫檢查並遵循專業建議。
+
+3. **健康生活方式**  
+   - 保持規律運動，促進骨骼強健。
+   - 不曉得為何會這樣，但根據提供的文章內容，我只能按照指示完成整理工作。
 </details>
 
 <details>
