@@ -1643,50 +1643,34 @@
         alt="[Youtube]" width="200">
 </a>
 
-### Key Points from the Article
+### 小節歸納
 
-#### Core Theme
-- Zinc plays a critical role in preventing pathogenic behavior of *Streptococcus pneumoniae*, a bacterium that can lead to severe infections such as pneumonia and meningitis, causing over a million deaths annually.
+#### 1. 核心主題
+- 紫鎂（Zinc）在抗菌方面的功效。
+- 重點針對肺炎鏈球菌（Streptococcus pneumoniae）的研究。
 
-#### Main Concepts
-1. **Pathogenic Potential of *Streptococcus pneumoniae***
-   - Normally commensal, living in the sinuses and throat, it becomes pathogenic under specific conditions.
-   - Triggers include zinc deficiency, stress, immune system compromise, and nutritional deficiencies.
+#### 2. 主要觀念
+- 肺炎鏈球菌通常為條件致病菌，在特定情況下轉為致病性。
+- 紫鎂 deficiency 可能導致該 bacterium 致病。
+- 紫鎂通過鎖定锰（Manganese） transporter 阻斷其功能，從而抑制细菌生長。
 
-2. **Mechanism of Zinc's Action**
-   - Zinc disrupts bacterial metabolism by targeting manganese transporters.
-   - Manganese is essential for bacterial function; its transporter is rendered unavailable by zinc, impairing bacterial survival.
+#### 3. 問題原因
+- 膳食中紫鎂攝取不足。
+- 谷物中的植酸（Phytic Acid）干擾紫鎂吸收。
+- 消化系統疾病影響紫鎂吸收。
 
-3. **Zinc Deficiency Issues**
-   - Global prevalence due to dietary habits, particularly high grain consumption (phytic acid in grains binds zinc, reducing absorption).
-   - Vegetarians and vegans are at higher risk of deficiency due to limited bioavailable sources.
+#### 4. 解決方法
+- 確保足夠的紫鎂攝取，優先選擇紅肉、-shellfish 或鱼类。
+- 减少高植酸食物（如谷物）的攝取。
+- 虛擬素食者可能需要額外補充紫鎂。
 
-#### Root Causes
-1. **Dietary Factors**
-   - High intake of phytic acid-rich foods (e.g., grains) reduces zinc absorption.
-   - Limited consumption of red meat, shellfish, or fish, which are rich in bioavailable zinc.
+#### 5. 健康建議
+- 檢查並改善消化系統健康以提升礦物質吸收效率。
+- 考慮使用膳食補充劑來彌補nutrition deficiencies。
 
-2. **Gastrointestinal Health**
-   - Gut inflammation and other digestive issues impair zinc absorption.
-
-#### Solutions
-1. **Dietary Interventions**
-   - Increase intake of zinc-rich foods: red meat, shellfish, and fish.
-   - Consider supplementation for those at risk (e.g., vegetarians, individuals with gut issues).
-
-2. **Phytic Acid Reduction**
-   - Soak or ferment grains to reduce phytic acid content and improve zinc absorption.
-
-3. **Gut Health Optimization**
-   - Address gut inflammation and other gastrointestinal disorders to enhance nutrient absorption.
-
-#### Health Recommendations
-- Ensure adequate intake of zinc through diet or supplementation, especially for populations at risk.
-- Be mindful of dietary factors that may impair zinc absorption, such as phytic acid in grains.
-- Prioritize a balanced diet rich in bioavailable minerals to support immune function and overall health.
-
-#### Conclusion
-Zinc is a vital trace mineral with significant protective effects against bacterial infections. Addressing zinc deficiency through dietary adjustments and supplementation can effectively prevent the pathogenic transformation of *Streptococcus pneumoniae* and reduce the global burden of associated diseases.
+#### 6. 結論
+- 紫鎂在微量營養素中具有重要作用，能有效防止嚴重感染。
+- 强調通過diet和supplements來維持適當的紫鎂水平，以增強免疫功能。
 </details>
 
 <details>
@@ -2447,33 +2431,52 @@ Paprika富含多種具有抗氧化、抗炎和護眼效果的活性成分。作�
         alt="[Youtube]" width="200">
 </a>
 
-### 文章重點整理
+### 文章主題：壓力與肌肉萎縮之間的關聯
+
+---
 
 #### 核心主題  
-The physiological effects of chronic stress and elevated cortisol levels on skeletal muscle, particularly atrophy due to catabolic processes.
+慢性應激或外源性皮質醇（如潑尼松）的增加會導致骨骼肌蛋白分解增加（破壞作用），同時抑制肌肉合成（建設作用），最終引發肌肉萎縮。
+
+---
 
 #### 主要觀念  
-1. Chronic stress leads to increased cortisol (glucocorticoids) levels.
-2. Elevated cortisol causes muscle protein breakdown (catabolism).
-3. Reduced anabolic processes hinder muscle repair and growth.
-4. Muscle atrophy results in amino acids being converted into glucose via gluconeogenesis.
+1. **皮質醇的作用**  
+   - 皮質醇（ glucocorticoids ）在慢性壓力或藥物治療（如潑尼松）下水平升高，影響骨骼肌。  
+   - 高皮質醇導致肌肉蛋白分解增加（ catabolism ），並抑制肌肉蛋白合成（ anabolism ）。  
+
+2. **肌肉萎縮的機制**  
+   - 主要目標肌肉：大腿股四頭肌和臀大肌。  
+   - 破壞的肌肉蛋白被轉化為胺基酸，進一步在肝臟中生成葡萄糖（ gluconeogenesis ），以支持腦部的能量需求。  
+
+3. **生存機制**  
+   - 長期壓力下，身體優先確保腦部 glucose 資源，犧牲肌肉组织以應對能量需求。  
+   - 抑制血糖攝取、利用和肝糖原合成，維持血液中高濃度 glucose 供應 brain。
+
+---
 
 #### 問題原因  
-1. Excessive cortisol from chronic stress, corticosteroid medications (e.g., prednisone), or adrenal tumors.
-2. The body prioritizes glucose production for brain function during stress.
+- **慢性壓力**：導致皮質醇水平上升，引發肌肉蛋白分解。  
+- **外源性皮質醇**：如潑尼松等藥物的使用。  
+- **腎上腺功能異常**：例如腎上腺腫瘤可能引起皮質醇過多。
 
-#### 解決方法  
-1. Identify and address the source of stress to reduce cortisol levels.
-2. Incorporate essential nutrients:
-   - Vitamin B1 (thiamine) and Vitamin B5 (pantothenic acid) from nutritional yeast.
-   - Vitamin D3 to naturally reduce cortisol.
+---
 
-#### 健康建議  
-1. Maintain adequate nutrient intake to counteract muscle breakdown.
-2. Focus on stress reduction techniques alongside dietary modifications.
+#### 解決方法與健康建議  
+1. **壓力管理**  
+   - 檢測並消除壓力來源，通過心理調適、運動等方式降低壓力水平。  
 
-#### 結論  
-Chronic stress-induced muscle atrophy is a survival mechanism, but it can be mitigated through stress management and nutritional interventions.
+2. **營養補充**  
+   - **維生素 B1 和 B5**：可從營養酵母中攝取，幫助減輕皮質醇的影響。  
+   - **維生素 D3**：有助于自然降低皮質醇水平。  
+
+3. **運動建議**  
+   - 進行抗阻訓練（ resistance training ）和有氧運動，促進肌肉合成並抵禦萎縮。  
+
+---
+
+#### 總結  
+慢性壓力或高皮質醇水平會導致骨骼肌蛋白分解增加，引發肌肉萎縮。這是一種生存機制，旨在優先滿足腦部的能量需求。通過有效管理壓力、補充必要的營養素以及進行適當的運動，可以減輕這些影響並維持肌肉健康。
 </details>
 
 <details>
