@@ -1919,58 +1919,97 @@
         alt="[Youtube]" width="200">
 </a>
 
-### Core Theme: Benefits of Sheep Cheese Compared to Goat and Cow Cheeses
+### 中文整理：
 
-Sheep cheese has been shown to offer numerous advantages over goat and cow cheeses in terms of nutritional quality, digestibility, and health benefits. This analysis highlights the comparative strengths of sheep cheese, particularly its superior milk composition, which translates into a more nutritious and easier-to-digest dairy product.
+#### 核心主題：
+- 比較山羊、牛和羊奶的質量。
+- 突出羊奶酪的優越性質及其健康益處。
 
----
+#### 主要觀念：
+1. **消化易：**  
+   - 羊奶酪比山羊奶酪和牛奶酪更容易消化。  
 
-### Key Concepts:
+2. **口感輕盈：**  
+   - 羊奶酪的味道更清淡，不像山羊奶酪那般強烈。  
 
-1. **Comparative Milk Quality**: 
-   - Sheep milk has been found to have higher concentrations of essential nutrients compared to goat and cow milk.
-   - The study emphasizes that sheep cheese derived from this milk outperforms its counterparts in terms of nutritional density.
+3. **高蛋白質含量：**  
+   - 羊奶酪含有較高的蛋白質濃度。  
 
-2. **Nutritional Profile**:
-   - Sheep cheese contains low lactose content due to the bacteria used in its production, making it suitable for individuals with lactose sensitivity.
-   - It provides high-quality protein and fats, including concentrated whey proteins, which are beneficial for muscle repair and overall health.
+4. **低過敏性：**  
+   - 羊奶酪是最易被接受的乳制品之一，適合對其他乳制品過敏的人群。  
 
-3. **Digestibility**:
-   - Sheep cheese is easier to digest compared to goat and cow cheeses, likely due to its lower lactose content and higher concentration of easily digestible fats.
-   - It has a milder taste, making it more palatable for those who find stronger flavors off-putting.
+5. **鈣與鋅的比例優異：**  
+   - 羊奶酪提供更高的鈣與鋅比例，有利於骨骼和免疫系統健康。  
 
-4. **Allergen Tolerance**:
-   - Sheep cheese is reported to be better tolerated by individuals with dairy allergies or sensitivities, suggesting it may be a safer option for such populations.
+6. **鈣磷平衡：**  
+   - 羊奶酪具有理想的鈣磷比例，促進骨骼發展。  
 
-5. **Mineral Ratios**:
-   - Sheep cheese has an optimal calcium-to-phosphorus ratio and a higher calcium-to-zinc ratio, which supports bone health and overall mineral balance.
+7. **維生素含量豐富：**  
+   - 含有高量的維生素A、D和E，有益於視力、免疫系統和皮膚健康。  
 
-6. **Vitamin Content**:
-   - It is rich in vitamins A, D, and E, which are essential for immune function, skin health, and bone development.
-   - High levels of folic acid and vitamin B12 contribute to neurological health and energy production.
+8. **葉酸及B12含量高：**  
+   - 羊奶酪富含葉酸和維生素B12，促進紅血球生成和神經功能。  
 
-7. **Fatty Acid Composition**:
-   - Sheep cheese contains twice the amount of butterfat compared to goat and cow cheeses, providing a richer flavor and potentially more satiating properties.
-   - It also has higher levels of medium-chain triglycerides (MCTs) and small-chain fatty acids, which are beneficial for metabolic health.
+9. **高乳脂含量：**  
+   - 含有兩倍於其他奶酪的 butter fat，提供更高能量和營養密度。  
 
----
+10. **中鏈脂肪酸（MCT）含量高：**  
+    - 羊奶酪含有豐富的小分子脂肪酸，有利於快速燃燒脂肪並提供 длна。  
 
-### Health Recommendations:
+#### 健康建議：
+- 在選擇乳制品時，優先考慮羊奶酪，因其具有多種健康益處。
+- 適合需要低糖、高蛋白質和高營養的人群。
 
-- **Dietary Choice**: Consumers are advised to prioritize sheep cheese over goat or cow cheeses when selecting dairy products, especially for its superior nutritional profile and digestibility.
-- **Keto Diet Considerations**: Sheep cheese aligns well with ketogenic dietary needs due to its high fat content and low sugar levels. It can help individuals on a keto diet achieve their macronutrient goals without inducing blood sugar fluctuations.
-
----
-
-### Conclusion:
-
-Sheep cheese emerges as a superior dairy product with distinct nutritional and health advantages over goat and cow cheeses. Its unique combination of high-quality protein, fats, vitamins, and minerals makes it an ideal choice for those seeking balanced nutrition and easier digestion. Incorporating sheep cheese into one's diet can be particularly beneficial for individuals following the keto lifestyle or managing lactose sensitivity.
+#### 結論：
+- 經研究比較，羊奶酪在消化性、營養價值和健康效益方面明顯優於山羊奶酪和牛奶酪。  
+- 建議消費者在購買乳制品時，考慮選擇羊奶酪以獲得最佳的營養效果。
 
 ---
 
-### Additional Support:
+### English Version:
 
-For those looking to optimize their ketogenic journey or address challenges in maintaining a keto-friendly diet, consulting with a keto specialist is recommended. The contact information provided allows interested individuals to seek personalized guidance tailored to their specific needs.
+#### Core Theme:
+- Comparison of milk quality between goats, cows, and sheep.
+- Highlighting the superior qualities and health benefits of sheep cheese.
+
+#### Key Concepts:
+1. **Ease of Digestion:**  
+   - Sheep cheese is easier to digest compared to goat or cow cheese.  
+
+2. **Mild Flavor:**  
+   - Sheep cheese has a lighter taste, unlike the strong flavor of goat cheese.  
+
+3. **High Protein Content:**  
+   - Sheep cheese contains higher concentrations of protein.  
+
+4. **Low Allergenicity:**  
+   - Sheep cheese is the most tolerated type of dairy product, suitable for those with allergies to other cheeses.  
+
+5. **Calcium to Zinc Ratio:**  
+   - Sheep cheese provides a superior calcium-to-zinc ratio, benefiting bone health and immune function.  
+
+6. **Calcium Phosphorus Balance:**  
+   - Sheep cheese has an ideal calcium-phosphorus ratio, promoting healthy bone development.  
+
+7. **Rich in Vitamins:**  
+   - High levels of vitamins A, D, and E support vision, immunity, and skin health.  
+
+8. **Folic Acid and B12 Content:**  
+   - Sheep cheese is rich in folic acid and vitamin B12, promoting red blood cell formation and nervous system function.  
+
+9. **High Butterfat Content:**  
+   - Contains twice the butter fat of other cheeses, offering higher energy and nutritional density.  
+
+10. **High MCT Fatty Acids:**  
+    - Sheep cheese has high levels of medium-chain triglycerides (MCTs) and short-chain fatty acids, aiding in rapid fat burning and providing quick energy.  
+
+#### Health Recommendations:
+- Prioritize sheep cheese when choosing dairy products due to its numerous health benefits.
+- Ideal for individuals seeking low sugar, high protein, and nutrient-dense options.
+
+#### Conclusion:
+- After comparative studies, sheep cheese stands out as the superior option in terms of digestibility, nutritional value, and health benefits compared to goat and cow cheeses.
+- Consumers are advised to consider sheep cheese for optimal nutrition when purchasing dairy products.
 </details>
 
 <details>
@@ -2033,113 +2072,542 @@ For those looking to optimize their ketogenic journey or address challenges in m
 </details>
 
 <details>
-<summary>3162. Is a Niacin Flush Harmful or Dangerous?</summary><br>
+<summary>3162. [2020-11-21] Is a Niacin Flush Harmful or Dangerous?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=BafsDqvqf3w" target="_blank">
     <img src="https://img.youtube.com/vi/BafsDqvqf3w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理
 
+#### 1. 核心主題
+- Niacin（菸酸）引起的血流反應（flushing response）是否具有危害性或危險性。
+
+#### 2. 主要觀念
+- **Niacin的作用機制**：
+  - 蘸劑：引起血管擴張（vasodilation），增加前列腺素（prostaglandins）的生成。
+  - 前列腺素的功能：
+    - 促進血管擴張，降低血壓。
+    - 助長血液凝固。
+    - 與頭痛、發燒等生理反應有關。
+- **Niacin的健康益處**：
+  - 显著提高高密度脂蛋白（HDL，有益膽固醇）水平（20%-40%）。
+  - 降低低密度脂蛋白（LDL，有害膽固醇），尤其是小而致密的LDL粒子。
+  - 可能降低三酸甘油酯水平。
+- **Niacin在精神疾病中的應用**：
+  - 證據顯示Niacin對 reduc schizophrenia具有積極作用。
+
+#### 3. 問題原因
+- 部分人擔心niacin引起的血流反應（flushing response）可能造成健康損害，但事實上該反應無害。
+  
+#### 4. 解決方法
+- **劑量建議**：
+  - 若要實現降膽固醇效果，每日需服用1000至2000毫克的Niacin。
+  - 非血流型Niacin（no-flush niacin）缺乏降低膽固醇的效果，因其未刺激前列腺素生成。
+
+#### 5. 健康建議
+- **劑量與類型**：
+  - 高於每日200毫克的劑量可有效改善血脂 profiles。
+  - 非血流型Niacin不適合用於降低膽固醇，需選擇普通形式。
+- **其他健康策略**：
+  - 结合酮egenic飲食和間歇性禁食以進一步改善胆固籤水平。
+
+#### 6. 結論
+- Niacin引起的血流反應無害，且具有多項健康益處，特別是對脂質 metabolism和心血管健康的改善。
+- 高劑量Niacin可作為降低膽固醇的有效自然方法，但需注意劑量與類型的選擇。
+
+#### 7. 錯誤與斠正
+- **錯誤**：
+  - 文章提到「niacin可以降低LDL」，但未明確區分總LDL和有害的小而致密LDL粒子。
+    - **斠正**：Niacin主要降低小而致密的LDL particle，而非所有LDL。
 </details>
 
 <details>
-<summary>3161. Fix Your Short Term Memory Loss – Hippocampus Repair – Dr.Berg</summary><br>
+<summary>3161. [2020-11-21] Fix Your Short Term Memory Loss – Hippocampus Repair – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xykt0O98Wpk" target="_blank">
     <img src="https://img.youtube.com/vi/xykt0O98Wpk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 短期記憶喪失及其與海馬區（hippocampus）的關聯。
+- 海馬區在MEMORY、情緒調節及空間導航中的重要作用。
+- 影響海馬區健康的多種因素，包括年齡、壓力、營養缺乏等。
+- 海馬區的再生能力及提升其功能的方法。
+
+#### 主要觀念
+1. **海馬區的結構與功能**：
+   - 海馬區形似 البحر马（seahorse），分為左右兩側，提供備援機制。
+   - 與短期記憶、情緒調節及空間導航密切相關。
+
+2. **短期記憶喪失的原因**：
+   - 年齡導致海馬區萎縮。
+   - 氧氣不足損害海馬區。
+   - 高壓力引起海馬區萎縮。
+   - 高糖分和高碳水化合物飲食影響海馬區健康。
+   - 維生素B1、維生素D及鋅缺乏損害海马区功能。
+
+3. **海馬區的再生能力**：
+   - 海馬區是腦中少數能完全再生的區域。
+   - 可通過增強神經生成（neurogenesis）來提升其功能。
+
+#### 問題原因
+- 年齡相關萎縮：隨著年齡增長，海馬區逐漸萎縮。
+- 氧氣供應不足：缺氧會損害海馬區結構和功能。
+- 高壓力：長期壓力導致海馬區萎縮。
+- 營養缺乏：
+  - **維生素B1 deficiency**：影響神經傳導及能量代謝。
+  - **維生素D deficiency**：干擾神經分化及修復。
+  - **鋅 deficiency**：影響神經突觸可塑性。
+
+#### 解決方法
+1. **增強氧氣供應**：
+   - 觀點一：定期運動，如慢跑、騎車等。
+   - 觀點二：使用高壓氧治療以提高血氧水平。
+
+2. **增進神經生長因子（BDNF）**：
+   - 進行間歇性禁食或斷食，提升腦源性神經營養因子（BDNF）。
+
+3. **營養補充**：
+   - **維生素D**：每日攝取充足維生素D，來源包括日光浴及富含維生素D的食物。
+   - **鋅**：攝取含鋅食物，如貝類、瘦肉和 Brewer's yeast。
+   - **維生素B1**：攝取富含維生素B1的食物或補充劑。
+
+4. **降低壓力**：
+   - 進行正念冥想、瑜伽等放鬆技巧。
+   - 建立健康的生活習慣，如規律作息和適當運動。
+
+5. **增強酮體供應**：
+   - 採用低碳水化合物飲食（ketogenic diet）。
+   - 摂取中鏈脂肪酸（MCT油），提升酮體水平。
+   - 补充外源性酮鹽（exogenous ketones）以提供能量。
+
+#### 健康建議
+- **飲食調整**：
+  - 遵循低碳水化合物飲食，限制精制糖和高碳水化合物食物攝取。
+  - 多攝取富含維生素B1、維生素D及鋅的食物，如瘦肉、貝類和 Brewer's yeast。
+
+- **運動習慣**：
+  - 定期進行有氧運動，如慢跑、騎車和游泳，以提升血流量和氧氣供應。
+  - 長期壓力管理，避免慢性應激對海馬區的損害。
+
+- **心理調適**：
+  - 學習放鬆技巧，降低生活壓力水平。
+  - 確保充足的睡眠，促進神經系統修復。
+
+#### 結論
+短期記憶喪失與海馬區功能下降密切相关。通過改善生活方式、均衡飲食和適當的營養補充，可以有效提升海馬區功能，預防記憶力減退。
 </details>
 
 <details>
-<summary>3160. Any Benefit of Fasting for 14 Hours?</summary><br>
+<summary>3160. [2020-11-20] Any Benefit of Fasting for 14 Hours?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=y6yJ09fiBHE" target="_blank">
     <img src="https://img.youtube.com/vi/y6yJ09fiBHE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小結點整理
 
+#### 核心主題：
+- 探讨14小時斷食法的潛在益處及其對健康的影響。
+
+#### 主要觀念：
+- 14小時斷食法涉及每日進食窗口期為10小時（例如： breakfast at 8 AM 和 dinner at 6 PM），並包含14小時空腹期。
+- 與每日三餐相比，此方法可提供輕微的健康益處，但未能達到更長斷食時間的效果。
+
+#### 問題原因：
+- 14小時斷食法可能無法觸發足夠的自噬作用（autophagy），而自噬作用對抗衰老和組織修復至關重要。
+- 更短的空腹期可能限制了其他健康益處，如炎症 reduction 和認知功能提升。
+
+#### 解決方法：
+- 縮短進食窗口期以增加斷食時間。例如：
+  - 推遲第一餐至9 AM 或10 AM，並保持晚餐在6 PM，從而實現16小時斷食。
+  - 更進一步，將進食窗口期縮短至6小時（如 noon 到6 PM），從而達成18小時斷食。
+
+#### 健康建議：
+- 開始時從14小時斷食開始，逐步增加斷食時間。
+- 確保在進食窗口期內均衡飲食，避免零食攝取。
+- 考慮個人需求和健康狀況調整斷食計劃，必要時尋求專業諮詢。
+
+#### 結論：
+- 14小時斷食法提供了初步的健康益處，但要最大化自噬作用和其他抗衰老效果，建議增加斷食時間至16到20小時。
+- 隨著斷食習慣的養成，個人可能更易於延長空腹期並進一步享受更大的健康好處。
 </details>
 
 <details>
-<summary>3159. Vitiligo: Do These 3 Things</summary><br>
+<summary>3159. [2020-11-19] Vitiligo: Do These 3 Things</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ZOEWWvwCj_s" target="_blank">
     <img src="https://img.youtube.com/vi/ZOEWWvwCj_s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **白癜風（Vitiligo）**：一種影響皮膚色素沉著的疾病，導致身體某些部位失去色素。
 
+### 主要觀念
+1. **病因機制**：
+   - 白癜風與自身免疫疾病相關，但具體原因尚不完全明確。
+   - 病變涉及自由基氧化損傷和過氧化氫的積累。
+   - 銅、鋅等微量元素在抗氧化酶（如超氧化物歧化酶）中起重要作用。
+
+2. **風險因素**：
+   - 維生素D受體基因多態性增加白癜風風險（比一般人高4倍）。
+
+3. **治療方法**：
+   - 光療為常見治療手段。
+   - 維生素D3在臨床試驗中顯示出顯著效果，16名患者中有14名實現了25%-75%的色素恢復。
+
+### 問題原因
+- 自身免疫疾病可能與白癜風並存，但其具體機制尚不明確。
+- 氧化應激和自由基損傷在病發中起重要作用。
+- 維生素D吸收障礙可能是治療效果不佳的原因之一。
+
+### 解決方法
+1. **營養補充**：
+   - 銅：每日1500微克，支持抗氧化酶功能。
+   - 鋅：每日100毫克，促進色素沉著。
+   - 維生素D3：每日35,000 IU，顯著改善白癜風症狀。
+
+2. **治療策略**：
+   - 替代糖皮質激素治療，使用維生素D以避免其副作用。
+   - 光療和紫外線照射可促進色素沉著。
+
+### 健康建議
+- 維生素D具有類固醇作用，可用於白癜風治療而不產生副作用。
+- 長期 intermittent fasting 或 periodic prolonged fasting 可幫助重置免疫系統，特別是伴隨 autoimmune diseases 的患者。
+
+### 結論
+- 白癜風的治療需綜合考慮抗氧化、營養補充和免疫調節。
+- 維生素D3在白癜風治療中展示出巨大潛力。
+- 適當的營養補充和生活方式調整可顯著改善病情。
 </details>
 
 <details>
-<summary>3158. The 10 Benefits of Fiber</summary><br>
+<summary>3158. [2020-11-19] The 10 Benefits of Fiber</summary><br>
 
 <a href="https://www.youtube.com/watch?v=75UsPlOdgjk" target="_blank">
     <img src="https://img.youtube.com/vi/75UsPlOdgjk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：蔬菜纖維的十大益處
 
+#### 核心主題
+- 蔬菜纖維在健康低碳水化合物（ ketogenic ）生活方式中的重要性。
+
+---
+
+#### 主要觀念
+1. ** vegetable fiber 的定義**  
+   - 指來源於蔬菜而非穀物（如 Bran ）的纖維，屬於碳水化合物但對胰島素無影響。
+
+2. **十大益處**  
+   - **1. 調控膽固醇：** 纔能幫助調節脂質和膽固醇水平。  
+     - **2. 抵抗疾病：** 含豐富的植物化學物（ phytonutrients ），具備抗癌特性。  
+     - **3. 護腸健康：** 纖維是大腸有益菌的主要食物來源，生成短鏈脂肪酸（ SCFAs ），促進腸道健康並改善胰島素抵抗。  
+     - **4. 調節 pH 值：** 過量的有益菌（如乳酸菌）可調節腸道環境 pH ，抑制有害細菌生長。  
+     - **5. 調控血糖：** 纖維能減緩碳水化合物的吸收，降低血糖反應。  
+
+---
+
+#### 問題原因
+- 遇到特定情況（如 SIBO 或嚴重胃肠道損傷）時，攝取蔬菜纖維可能加重症狀。
+
+---
+
+#### 解決方法
+- 測試個人對蔬菜纖維的耐受性，必要時調整攝取量或類型。  
+- 推荐從事低碳水化合物生活方式的人群消費足夠的蔬菜纖維。
+
+---
+
+#### 健康建議
+1. 將蔬菜融入日常飲食中，無論是沙拉還是其他形式。  
+2. 考慮腸道健康狀況，酌情調整蔬菜攝取。  
+
+---
+
+#### 總結
+- 蔬菜纖維在促進整體健康方面具有多種益處，包括血糖調控、腸道菌群平衡和膽固醇管理等。  
+- 雖然對大多數人來說是有益的，但需根據個人健康狀況調整攝取量。
 </details>
 
 <details>
-<summary>3157. Feeling Worse with Apple Cider Vinegar (ACV)?</summary><br>
+<summary>3157. [2020-11-18] Feeling Worse with Apple Cider Vinegar (ACV)?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=q2HThyEtD2g" target="_blank">
     <img src="https://img.youtube.com/vi/q2HThyEtD2g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Key Points Summary of the Article
 
+#### Core Theme:
+The article discusses the potential adverse effects of consuming apple cider vinegar (ACV) and provides evidence-based solutions for individuals who experience discomfort, such as stomach pain or nausea, when using ACV. It emphasizes that while ACV can be beneficial for digestion and blood sugar regulation, it may not be suitable for everyone, particularly those with certain gastrointestinal conditions.
+
+#### Main Concepts:
+1. **Gastrointestinal Conditions**:
+   - **Peptic Ulcers**: Open sores in the stomach lining or small intestine.
+   - **Gastritis**: Inflammation of the stomach lining.
+2. **SIBO (Small Intestinal Bacterial Overgrowth)**: A condition where bacteria typically found in the large intestine overgrow in the small intestine.
+
+#### Causes of Discomfort with ACV:
+1. **Underlying Gastrointestinal Issues**:
+   - Peptic ulcers or gastritis can worsen when using ACV due to its acidic nature.
+2. **SIBO Complication**:
+   - SIBO can complicate treatment, as probiotics and fiber (like those in cabbage) may exacerbate the condition.
+
+#### Solutions for Gastrointestinal Issues:
+1. **Zinc Carnosine**:
+   - 50 mg three times daily to support healing of the stomach lining.
+2. **Chlorophyll**:
+   - Recommended from wheatgrass juice powder to promote mucosal healing in the digestive tract.
+3. **Cabbage**:
+   - The best vegetable for soothing ulcers and gastritis, easily incorporated into meals.
+4. **DGL (Deglycyrrhizinated Licorice)**:
+   - A natural remedy to improve symptoms of gastritis and ulcers.
+5. **Probiotics**:
+   - Essential for restoring gut health, particularly when combined with healing protocols.
+
+#### Solutions for SIBO:
+1. **Carnivore Diet**:
+   - A low-fiber diet to avoid feeding the overgrown bacteria in the small intestine.
+2. **Fasting**:
+   - Allows the digestive system to reset and recover.
+3. **Avoid Acidifiers**:
+   - Such as ACV or HCl, which can irritate the gut lining.
+
+#### Health Recommendations:
+1. **Timing of ACV Intake**:
+   - Best taken before meals, but flexible depending on personal preference.
+2. **Dosage Options**:
+   - One tablespoon in water, or equivalent in powder/tablet form.
+3. **Betaine Hydrochloride**:
+   - Can be added for additional digestive support.
+4. **Dietary Considerations**:
+   - Prioritize a diet that supports gut healing and avoids triggers.
+
+#### Conclusion:
+Apple cider vinegar offers significant benefits for digestion and blood sugar regulation, but its use should be cautious in individuals with peptic ulcers, gastritis, or SIBO. Tailoring treatment to individual conditions is crucial for optimal outcomes. The article emphasizes the importance of combining ACV with appropriate remedies and dietary adjustments to address discomfort and promote overall gut health.
+
+---
+
+This summary provides a structured overview of the article's key points, focusing on the core themes, main concepts, causes, solutions, and recommendations.
 </details>
 
 <details>
-<summary>3156. Swollen Face and Puffy Eyes: An Easy Fix</summary><br>
+<summary>3156. [2020-11-18] Swollen Face and Puffy Eyes: An Easy Fix</summary><br>
 
 <a href="https://www.youtube.com/watch?v=BU6CczYqS8o" target="_blank">
     <img src="https://img.youtube.com/vi/BU6CczYqS8o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題 (Core Theme)
+- **核心概念**: 膠原蛋白和脂肪/酮體是身體的主要能量來源。
+- **儲存限制**: 淀粉質（glycogen）的儲存量極為有限，而脂肪（adipose tissue）則無限。
+- **水分依賴**: 淀粉質儲存需要大量水分，導致其儲存量受限。
 
+**英文翻譯 (English Translation):**
+- **Core Concept**: Collagen and fat/ketones are the primary energy sources in the body.
+- **Storage Limitations**: Glycogen storage is extremely limited, while fat storage has no limit.
+- **Water Dependency**: Glycogen storage requires a significant amount of water, restricting its overall storage capacity.
+
+### 主要觀念 (Key Concepts)
+1. 身體主要依靠糖類和脂肪/酮體作為能量來源。
+2. 糖分在體內以肝醣形式儲存，但儲存量極低（約1700卡路里）。
+3. 肝醣的儲存需要大量水分，導致其儲存量受限。
+4. 過量攝取糖分會被轉化為脂肪，並伴隨多余水分 retention，造成面部浮腫和眼部浮腫。
+
+**英文翻譯 (English Translation):**
+1. The body primarily relies on carbohydrates and fat/ketones as energy sources.
+2. Carbohydrates are stored in the body as glycogen, but with extremely limited storage capacity (around 1700 calories).
+3. Glycogen storage requires a significant amount of water, restricting its overall storage capacity.
+4. Excess carbohydrate intake leads to fat conversion and excess fluid retention, resulting in swollen faces and puffy eyes.
+
+### 問題原因 (Problem Causes)
+- **過量糖分攝取**: 過多的糖分攝入超過了肝醣儲存能力，導致多余糖分轉化為脂肪。
+- **水分依賴**: 肝醣儲存需要大量水分，限制其儲存量。
+
+**英文翻譯 (English Translation):**
+- **Excessive Carbohydrate Intake**: Excessive carbohydrate consumption exceeds glycogen storage capacity, leading to excess sugar conversion into fat.
+- **Water Dependency**: Glycogen storage requires a significant amount of water, limiting its overall storage capacity.
+
+### 解決方法 (Solutions)
+1. **限制糖分攝取**: 消除飲食中多余的糖分，避免過量攝入。
+2. **間歇性禁食或酮genic diet**: 采用間歇性禁食或酮genic飲食來降低血糖水平並轉向脂肪燃燒。
+
+**英文翻譯 (English Translation):**
+1. **Reduce Carbohydrate Intake**: Eliminate excess sugar from your diet to avoid overconsumption.
+2. **Intermittent Fasting or Ketogenic Diet**: Adopt intermittent fasting or a ketogenic diet to lower blood glucose levels and shift to fat burning.
+
+### 健康建議 (Health Recommendations)
+- **血糖監控**: 定期監控血糖水平，保持正常範圍（80毫克/分升）。
+- **飲食調整**: 選擇低糖、高蛋白和高脂肪的食物來源。
+- **專業諮詢**: 如有需要，可尋求酮 Specialist的幫助以解決ダイエット相關問題。
+
+**英文翻譯 (English Translation):**
+- **Blood Sugar Monitoring**: Regularly monitor blood sugar levels to maintain a healthy range of 80 mg/dL.
+- **Dietary Adjustments**: Choose low-sugar, high-protein, and high-fat food sources.
+- **Professional Consultation**: Seek help from a keto Consultant if needed to address diet-related issues.
+
+### 結論 (Conclusion)
+- 面部浮腫和眼部浮腫主要是由於過量糖分攝取導致的脂肪儲存和水分 retention。
+- 通過限制糖分攝取並采用酮genic飲食，可以有效解決此問題，恢復面部緊致和眼部清爽。
+
+**英文翻譯 (English Translation):**
+- Facial swelling and puffy eyes are primarily caused by excess sugar intake leading to fat storage and water retention.
+- By reducing sugar intake and adopting a ketogenic diet, you can effectively resolve this issue and restore facial firmness and eye clarity.
 </details>
 
 <details>
-<summary>3155. Fiber and Gallstones</summary><br>
+<summary>3155. [2020-11-17] Fiber and Gallstones</summary><br>
 
 <a href="https://www.youtube.com/watch?v=y9urnCUFMa0" target="_blank">
     <img src="https://img.youtube.com/vi/y9urnCUFMa0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：膳食纖維對膽石症的影響
 
+### 主要觀念：
+1. **膳食纖維攝取與膽汁分泌的關聯**：增加膳食纖維攝取會促進膽汁的釋放。
+2. **膽汁再吸收機制**：超過95%的膽汁在小腸末段被重吸收入肝臟，形成反覆循環。
+3. **負回饋機制的作用**：隨著膽汁的流失，大 intestine中的感測器會向肝臟傳送信號，促使更多膽汁生成。
+4. **膽汁濃度與膽石形成的關係**：增加膽汁生產可降低膽固醇結晶的濃度，從而降低膽石風險。
+
+### 問題原因：
+1. **膽石形成的主因**：膽汁分泌不足導致膽固醇過度沉積，形成結晶。
+2. **缺乏對 bile 功能的理解**：不了解 bile 在脂肪吸收、殺菌及維持肠道健康中的作用。
+
+### 解決方法：
+1. **增加膳食纖維攝取**：推薦食用更多蔬菜纖維而非穀物纖維。
+2. **促進膽汁循環**：通過攝取高纺維食物來刺激膽汁分泌和再吸收，形成良性循環。
+
+### 健康建議：
+1. **膳食選擇**：優先選擇蔬菜纖維，如菠菜、燕麥等，而非精製穀物。
+2. **諮詢專業人士**：如有疑問或需要個人化健康計劃，可尋求註冊營養師或 keto 膳食顧問的幫助。
+
+### 結論：
+增加膳食纖維攝取能有效降低膽石風險，蔬菜纖維比穀物纤維更為推薦。通過刺激膽汁分泌和再吸收，形成良性循環，促進整體健康。
 </details>
 
 <details>
-<summary>3154. Darkened Skin Spots: 3 Causes of Dark Spots on Skin – Dr.Berg</summary><br>
+<summary>3154. [2020-11-17] Darkened Skin Spots: 3 Causes of Dark Spots on Skin – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=otV51XLXa4A" target="_blank">
     <img src="https://img.youtube.com/vi/otV51XLXa4A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **Melasma**：白癜風斑（melasma）是一種皮膚色素沉著過多引起的皮膚問題，主要與 melanocyte 的活性過高有關。
 
+### 主要觀念
+1. **病因**：
+   - 高胰島素血症或胰岛素抵抗。
+   - 高雌激素水平。
+   - 睡眠不足或壓力大導致的皮質醇過多。
+   
+2. **常見情況**：
+   - 多囊卵巢綜合征（PCOS）。
+   - 妊娠期。
+   - 荷爾蒙替代療法或避孕藥使用後。
+
+3. **誘因**：
+   - 長時間暴露在紫外線下。
+
+### 問題原因
+- 激素失衡：高胰岛素、高雌激素水平以及皮質醇過多均會促發 melanocyte 的活化，導致 melanin 生成增加。
+- 內分泌疾病：庫欣氏症候群（Cushing's syndrome）和阿狄森病（Addison's disease）等 adrenal 機能異常也可能引發此病症。
+
+### 解決方法
+1. **激素失衡**：
+   - 高胰岛素血症：健康生酮飲食及間歇性禁食。
+   - 高雌激素水平：攝取更多十字花科蔬菜及海帶。
+   - 皮質醇過多：補充 B 群維生素及維生素 D3。
+
+2. **紫外線曝露**：
+   - 避免長時間暴露於陽光下，使用防曬產品。
+
+### 健康建議
+- **飲食調整**：
+   - 低GI飲食：控制血糖水平。
+   - 製肥瘦素飲食：健康生酮飲食。
+   
+- ** supplements**：
+   - B 群維生素：幫助降低皮質醇。
+   - 維生素 D3：促進免疫系統功能。
+
+### 結論
+白癜風斑（melasma）的發生與多種因素有關，包括激素失衡、壓力和紫外線曝露。針對不同病因采取相應的治療方法，如飲食調整、補充劑物以及生活方式的改變，可以有效改善症狀。
 </details>
 
 <details>
-<summary>3153. Hyperkalemia (High Blood Potassium Levels) – Hyperkalemia Symptoms & Treatment – Dr.Berg</summary><br>
+<summary>3153. [2020-11-16] Hyperkalemia (High Blood Potassium Levels) – Hyperkalemia Symptoms & Treatment – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=VKW99YifhHs" target="_blank">
     <img src="https://img.youtube.com/vi/VKW99YifhHs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：高血钾症（Hyperkalemia）及其相关问题
 
+#### 1. 核心主題：高血钾症（Hyperkalemia）
+- 定義：血液中 potassium 浓度過高的情況。
+- 高血钾症的原因：
+  - 肾臟疾病（尤其是晚期腎病）：腎臟功能受損，無法有效排出 potassium。
+  - 布洛加森氏症（Addison's disease）： adrenal glands 損害導致 sodium 排出過多，相對性地 retention 高血钾。
+  - 藥物影響：某些 NSAIDs 和高血壓藥物可能增加血液中的 potassium 浓度。
+
+#### 2. 主要觀念：Potassium 的分布與測量
+- 生理學特點：
+  - 約98%的 potassium 存儲在細胞内，僅有2%在血液中。
+  - 血液中 potassium 测值不能完全反映整體情況。
+
+#### 3. 問題原因：高血钾症的假性增加（Pseudo-Hyperkalemia）
+- 定義：血樣本采集過程中因紅血球破損導致 potassium 泄漏，造成假性高血钾。
+- 原因：
+  - 血液采集時的物理 trauma 或操作不當。
+
+#### 4. 治療方法：高血钾症的處理
+- 現場急救措施：
+  - 静脉注射 calcium gluconate（降低心肌對高 potassium 的敏感性）。
+  - 静脉注射 insulin 加 dextrose（促進細胞內攝取 potassium）。
+  - 静脉輸注 sodium bicarbonate（提高血漿 pH，促進 potassium 排出）。
+- 注意事項：
+  - 高碳水化合物飲食可能加重病情。
+
+#### 5. 對立面：低血钾症（Hypokalemia）
+- 定義：血液中 potassium 浓度過低的情況。
+- 常見症状：
+  - 腿部抽筋、全身無力、便秘、心律不整等。
+- 高發群體：
+  - 在醫院住院的患者中最常見的電解質失衡。
+
+#### 6. 健康建議：評估 potassium 状态的最佳方法
+- 推荐測試：
+  - 血清 potassium 測試（傳統血液測試）。
+  - 細胞內 potassium 測試（更為準確，反映細胞内的情況）。
+- 注意事項：
+  - 過量攝取 potassium 不會是高血钾症的主要原因，因身體有排泄機制。
+
+#### 7. 結論
+- 高血钾症雖罕見但可能引發嚴重並發症（如心律失常）。
+- 血液中 potassium 测值的局限性：
+  - 只反映血液中的2%，不能代表整體情況。
+- 建議：
+  - 如需了解 intracellular potassium 情況，可進行專門測試。
+  - 諮詢專業人員以評估個人健康狀況。
+
+#### 8. 其他資源
+- 提供 Keto 專業諮詢服務（限美國）：可撥打文末所提供之電話號碼。
 </details>
 
 <details>
