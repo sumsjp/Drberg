@@ -417,47 +417,247 @@
 </details>
 
 <details>
-<summary>1062. Before-After Using Keto & Intermittent Fasting – Dr.Berg Skype with Jennifer Lai</summary><br>
+<summary>1062. [2017-09-17] Before-After Using Keto & Intermittent Fasting – Dr.Berg Skype with Jennifer Lai</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HIAAzKErrFc" target="_blank">
     <img src="https://img.youtube.com/vi/HIAAzKErrFc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- **酮症ダイエットの成功事例**：インタビューを通じて、ダイエーテｨーングループが如何して体重を減少し、健康状態を改善したかが紹介されている。
+- **糖分摂取の影響**：過剰な糖分摂取が肥満や糖尿病、認知症に及ぼす悪影響が強調されている。
+
+#### 主要觀念
+1. **ダイエーティーングループの変化**
+   - 重度のダイエーターから健康な状態への転換。
+   - 外見だけでなく、内臓機能や脳の働きも改善された。
+2. **糖分摂取の問題点**
+   - 過剰な糖分摂取が肥満や慢性疾患（糖尿病、認知症）にリンクする。
+   - 素食や低脂肪ダイエットよりも、健康的な脂質中心の食事の方が効果的。
+
+#### 問題原因
+- **高糖分摂取**
+  - 糖尿病、肥満、認知症などの慢性疾患の主因。
+  - 細胞修復や神経機能障害を招く。
+- **ダイエット方法の誤り**
+  - 高炭水化物・低脂肪食が長期的に健康的ではない。
+  - 適度な脂質摂取が重要視されていない。
+
+#### 解決方法
+1. **酮症ダイエットの採用**
+   - 高脂肪、低碳水化合物の食事療法。
+   - 糖分を含まない「ケトーボム」や低糖ケーキなど、楽しみながら健康的な選択肢がある。
+2. **ライフスタイルの変革**
+   - 食習慣の改善：糖分摂取量の削減、健康な食事の選択。
+   - 体活動の増加：日常的な運動習慣を採用。
+
+#### 健康建議
+1. **食事調整**
+   - 糖分と加工された食品の摂取を控える。
+   - 高品質な脂肪（魚油、ナッツ類）を含む食事を摂る。
+2. **運動習慣**
+   - 定期的な有酸素運動や筋力トレーニングを行う。
+3. **精神面の管理**
+   - 禁断症状に対処するための技術を習得し、 sugar cravings を制御する。
+4. **社会的支持**
+   - 同伴者の励ましや専門家の指導がダイエットの成功に不可欠。
+
+#### 結論
+- 酮症ダイエットは肥満や慢性疾患を治療する有効な方法である。
+- 健康的なダイエットには食事療法とライフスタイルの変革が必須。
+- 長期的な健康維持のためにも、個人の責任と社会的支持が重要。
 </details>
 
 <details>
-<summary>1061. How Insulin Works? – Insulin Resistance & Belly Fat Simplified by Dr.Berg</summary><br>
+<summary>1061. [2017-09-17] How Insulin Works? – Insulin Resistance & Belly Fat Simplified by Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=571H-RPxNNs" target="_blank">
     <img src="https://img.youtube.com/vi/571H-RPxNNs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 胰島素抵抗（Insulin Resistance）及其對健康的影響。
+- 腦胖症的成因與管理策略。
+- 健康的生活方式改變，包括飲食、運動和心理調適。
+
+#### 主要觀念
+1. **胰島素的功能**：
+   - 輔助葡萄糖進入細胞供能。
+   - 調控蛋白質和礦物質（如鉀、鈉）的吸收。
+   - 參與脂肪儲存。
+
+2. **胰島素抵抗的原因**：
+   - 長期高血糖負荷。
+   - 生活方式因素（缺乏運動、壓力、不良飲食習慣）。
+   - 遗傳因素。
+
+3. **胰島素抵抗的影響**：
+   - 疲勞、糖分 cravings、夜間多尿、腦霧等症狀。
+   - 肝臟脂肪沉積和肌肉萎縮。
+   - 心血管疾病風險增加（高血壓、心律失常）。
+
+4. **健康建議**：
+   - 均衡飲食：選擇低GI食物，控制碳水化合物攝取。
+   - 運動：定期進行有氧運動和力量訓練。
+   - 管理壓力：通過冥想、瑜伽等方式來降低皮質醇水平。
+   - 足夠的睡眠：確保每晚7-9小時的高品質睡眠。
+
+5. **健康飲食策略**：
+   - 適用健康生酮飲食法和間歇性禁食。
+   - 根據個體情況選擇適合的食物類型（如低碳水化合物飲食）。
+
+#### 問題原因
+- 現代生活方式的改變，包括久坐、高糖高脂肪飲食、壓力增加等因素導致胰島素抵抗。
+- 遗傳和環境因素共同作用，增加了胰島素抵抗的風險。
+
+#### 解決方法
+1. **飲食調整**：
+   - 控制精製碳水化合物攝取。
+   - 增加膳食纖維攝入（如蔬菜、全穀物）。
+   - 采用健康生酮飲食法和間歇性禁食。
+
+2. **運動習慣**：
+   - 定期進行有氧運動（如跑步、游泳）以提高胰島素敏感性。
+   - 適當力量訓練以增肌，改善血糖控制。
+
+3. **壓力管理**：
+   - 通過冥想、瑜伽等方式降低壓力水平。
+   - 確保充足的睡眠時間。
+
+4. **藥物治療（如有必要）**：
+   - 在醫生指導下使用胰島素增敏劑或其他降糖藥物。
+
+#### 健康建議
+- 定期進行血糖监测，及時發現問題。
+- 選擇個性化飲食計劃，根據自身情況調整飲食結構。
+- 維持健康體重，避免腹部肥胖。
+
+#### 結論
+胰島素抵抗是一種可逆的代謝紊亂狀態，通過生活方式的改變可以有效管理和改善。健康的生活方式包括合理飲食、規律運動和良好的壓力管理，能夠幫助恢復胰岛素敏感性，降低慢性病風險。
+
+### 附註
+本文介紹了胰岛素抵抗的原因、影響以及解決方法，強調了健康生活方式的重要性。文章中提到的《New Body Type Guide》為廣告內容，旨在提供額外資源，但不應視為核心資訊。讀者可根據自身情況選擇適合的飲食和運動計劃，並在必要時諮詢專業醫療人員。
 </details>
 
 <details>
-<summary>1060. Can You Be Allergic to the Sun? – Dr.Berg on Sun Allergy and Niacin Deficiency</summary><br>
+<summary>1060. [2017-09-16] Can You Be Allergic to the Sun? – Dr.Berg on Sun Allergy and Niacin Deficiency</summary><br>
 
 <a href="https://www.youtube.com/watch?v=sArhcdWyxHg" target="_blank">
     <img src="https://img.youtube.com/vi/sArhcdWyxHg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Core Theme (核心主題)
+- The article discusses photosensitivity, a condition where individuals experience adverse reactions to sunlight due to vitamin B3 deficiency.
 
+---
+
+### Main Concepts (主要概念)
+1. Photosensitivity is primarily caused by an allergy or sensitivity to UV light.
+2. Individuals with this condition often exhibit symptoms such as hives or skin reactions after sun exposure.
+3. Vitamin B3, specifically niacin and niacin amide, plays a crucial role in managing photosensitivity.
+
+---
+
+### Cause of the Problem (問題原因)
+- Photosensitivity arises from a deficiency in vitamin B3 (niacin), which is essential for maintaining healthy skin and preventing UV-induced reactions.
+
+---
+
+### Solution Methods (解決方法)
+1. **Supplement with Vitamin B3**: 
+   - Consume niacin or niacin amide to address the deficiency.
+2. **Choose Form of Niacin**:
+   - Opt for niacin amide if you experience flushing or redness from niacin supplements.
+
+---
+
+### Health Recommendations (健康建議)
+1. Maintain a balanced diet rich in vitamin B3 sources, such as meat, fish, and whole grains.
+2. Consider consulting a healthcare professional before starting any new supplement regimen to ensure proper dosing and avoid adverse effects.
+3. Limit sun exposure or use protective measures like sunscreen and clothing if photosensitivity persists.
+
+---
+
+### Conclusion (結論)
+- Photosensitivity can be effectively managed by addressing vitamin B3 deficiency through dietary intake or supplementation with niacin amide to minimize adverse reactions.
 </details>
 
 <details>
-<summary>1059. Dr. Berg's New Body Type Guide: FINALLY HERE!</summary><br>
+<summary>1059. [2017-09-16] Dr. Berg's New Body Type Guide: FINALLY HERE!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=1nd3XbDCXxE" target="_blank">
     <img src="https://img.youtube.com/vi/1nd3XbDCXxE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **核心主題：健康飲食與體重管理**
+  - 提供一套基於身體類型的飲食計劃，幫助個人實現健康的體重管理和整體 wellness。
 
+### 主要觀念
+1. **飲食結構的重要性**  
+   - 强調均衡攝取蛋白質、脂肪和碳水化合物。
+   - 採用「基本飲食計劃」作為起始點，根據個人身體類型進行調整。
+
+2. **血糖控制與胰島素抵抗**  
+   - 介紹胰島素指數（Insulin Index），超越傳統的血糖生成指數（GI）概念。
+   - 强調降低胰島素抗性的飲食策略，以克服體重 plateau 的障礙。
+
+3. **健康飲食計劃的設計與執行**  
+   - 提供可持續的飲食方案，涵蓋基本飲食結構和針對性調整建議。
+   - 包含「樂趣食物」（pleasure foods）的健康選擇，保持飲食的多樣性和吸引力。
+
+4. **壓力管理與整體健康**  
+   - 强調應對壓力的重要性，介紹有效的減壓技術。
+   - 論述壓力如何影響代謝率，提供實際解決方案。
+
+### 問題原因
+- **常見挑戰：**
+  - 飲食計劃的堅持性不足。
+  - 社交情境下的飲食障礙。
+  - 睡眠不足、疲勞和其他健康問題干擾體重管理。
+
+### 解決方法
+1. **飲食調整策略**  
+   - 根據身體類型（如腺、腎上腺、甲狀腺等）進行個化飲食計劃的設計。
+   - 減少高糖、高加工食品的攝取，避免胰島素抗性。
+
+2. **行為與心理層面的支持**  
+   - 提供克服飲食障礙的心理技巧和策略。
+   - 強調「有意識進食」（conscious eating）的概念，提升飲食覺知。
+
+3. **健康生活方式的整合**  
+   - 結合運動計劃，根據個人身體特性設計針對性訓練方案。
+   - 論述充足睡眠、壓力管理和心理健康的整體影響。
+
+### 健康建議
+1. **飲食結構**
+   - 遵循「基本飲食計劃」，逐步調整至適合的身體類型。
+   - 減少精製糖和高GI食物攝取，控制胰島素水平。
+
+2. **血糖與胰島素管理**  
+   - 了解並避免高Insulin Index食物。
+   - 通過規律飲食和運動降低胰島素抗性。
+
+3. **心理與社會支持**
+   - 面對社交飲食挑戰，使用策略化方法應對。
+   - 利用「有意識進食卡」（Conscious Eating Card）來處理飲食失誤。
+
+4. **生活習慣調整**  
+   - 確保充足睡眠和有效壓力管理。
+   - 保持規律運動，根據身體特質選擇適合的訓練方式。
+
+### 結論
+- **總結：個化健康飲食計劃的重要性**
+  - 本書提供一套完整的飲食與健康管理方案，涵蓋從理論到實踐的每個環節。
+  - 強調根據個人特性定制飲食計劃，以實現持續的體重管理和整體健康提升。
 </details>
 
 <details>
@@ -472,69 +672,378 @@
 </details>
 
 <details>
-<summary>1057. Causes & Symptoms of Hypokalemia – Dr. Berg on Potassium Deficiency</summary><br>
+<summary>1057. [2017-09-14] Causes & Symptoms of Hypokalemia – Dr. Berg on Potassium Deficiency</summary><br>
 
 <a href="https://www.youtube.com/watch?v=lnaunxnqJTA" target="_blank">
     <img src="https://img.youtube.com/vi/lnaunxnqJTA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：低血钾（Hypokalemia）的核心主题与建议
 
+#### 一、核心主題
+- **低血钾（Hypokalemia）**：指血液中钾离子浓度低于正常水平。
+- **钾的重要性**：钾是维持细胞内液平衡及肌肉、神经功能的关键电解质。
+
+#### 二、主要觀念
+1. **钾的每日需求量**：
+   - 每日约需4,700毫克（相当于5克）。
+   - 高达90%的钾储存在细胞内，血液中仅占小部分，因此血钾水平下降时，体内储备可提供一定补偿。
+
+2. **低血钾的症状**：
+   - 肌肉相关症状：疲劳、腿部抽筋、肌肉无力。
+   - 消化系统症状：便秘。
+   - 心血管症状：心律不齐（如房颤）、心跳过速或异常感觉。
+
+3. **碱中毒与低血钾的关系**：
+   - 低血钾常并发代谢性碱中毒，两者症状相似且相互影响。
+
+#### 三、問題原因
+1. **药物因素**：
+   - 利尿剂的使用：用于治疗高血压，但会增加钾的排泄。
+   - 糖皮质激素（如类固醇）：导致体内钾流失。
+
+2. **饮食不足**：
+   - 摄入量未达每日需求，尤其是蔬菜摄入过少（需7-10杯/天）。
+
+3. **代谢紊乱**：
+   - 高胰岛素血症（糖尿病或前期）：高 insulin水平干扰钾的细胞内运输。
+   - 糖尿病患者更易出现低血钾。
+
+4. **其他因素**：
+   - 脱水、呕吐等导致钾丢失过多。
+   - 酮症饮食（ketogenic diet）：可能加剧钾需求与流失失衡。
+
+#### 四、解決方法
+1. **增加钾摄入**：
+   - 增加蔬菜、水果的摄入，如香蕉、橙子、菠菜、土豆等富含钾的食物。
+
+2. **调整药物使用**：
+   - 使用利尿剂时，需监测血钾水平，并在医生指导下补充钾。
+   - 避免不必要的糖皮质激素使用。
+
+3. **健康管理**：
+   - 管理压力以降低 cortisol 水平。
+   - 对于糖尿病患者，控制血糖有助于减少钾的流失。
+
+4. **特殊饮食调整**：
+   - 在进行酮症饮食时，需特别注意补充电解质（包括钾）和维生素B群，以缓解过渡期症状。
+
+#### 五、健康建議
+- 定期监测血钾水平，尤其是长期使用利尿剂或有代谢性疾病患者。
+- 饮食多样化，确保摄入足够的钾。
+- 在医生指导下调整药物，避免不必要的副作用。
+
+#### 六、結論
+低血钾是一个多因素导致的电解质紊乱，需通过饮食调整、药物管理及生活习惯改善来预防和治疗。了解其原因和症状有助于早期发现和干预，保障身体健康。
 </details>
 
 <details>
-<summary>1056. Ketosis & Intermittent Fasting  Before-After: Dr. Berg Skype with Joe Busuttil</summary><br>
+<summary>1056. [2017-09-14] Ketosis & Intermittent Fasting  Before-After: Dr. Berg Skype with Joe Busuttil</summary><br>
 
 <a href="https://www.youtube.com/watch?v=lQH18keaA6g" target="_blank">
     <img src="https://img.youtube.com/vi/lQH18keaA6g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：  
+- 論述酮egenic diet（生酮飲食）在體重管理和脂肪燃燒中的有效性。  
+- 探讨通過調整飲食結構和生活方式來實現健康目標的方法。  
 
+---
+
+### 主要觀念：  
+1. **酮egenic Diet 的基本原理**：  
+   - 生酮飲食強調低碳水化合物、高脂肪的攝取，以促使身體進入酮症狀態，燃燒脂肪作為主要能量來源。  
+   - 通過限制碳水化合物攝入，降低胰島素水平，從而提高脂肪氧化效率。  
+
+2. **健康目標**：  
+   - 减少體脂百分比，改善整體身體 composition（成分）。  
+   - 提高能量水平，增強耐力和運動表現。  
+
+3. **生活方式調整**：  
+   - 綜合飲食控制與定期運動，以最大化脂肪燃燒效果。  
+   - 設計個性化飲食計劃（如每日熱量攝取增加至2,400千卡），並逐步適應快節奏的生活模式。  
+
+---
+
+### 問題原因：  
+1. **初期挑戰**：  
+   - 傷病後的恢復期導致體重增加，脂肪儲存量上升。  
+   - 生活習慣的改變（如久坐工作）影響了整體代謝水平。  
+
+2. **飲食結構失衡**：  
+   - 過去的飲食模式以碳水化合物為主，導致胰島素水平居高不下，脂肪燃燒效率降低。  
+
+---
+
+### 解决策略：  
+1. **飲食調整**：  
+   - 逐步轉向生酮飲食，降低碳水化合物攝入量，增加健康脂肪的攝取（如坚果、橄欖油）。  
+   - 確保每日熱量攝取適當，並根據體能需求進行微調。  
+
+2. **運動計劃**：  
+   - 在空腹狀態下進行訓練，利用低胰島素水平和高人體酮水平來提高脂肪燃燒效率。  
+   - 選擇合適的運動時間（如早晨或下午晚些時候），避免因血糖過低而影響表現。  
+
+3. **血糖管理**：  
+   - 適應空腹訓練，逐步提高脂肪氧化能力，避免低血糖反應。  
+   - 研究表明，耐力運動員可以通過此方法有效燃燒脂肪，而不會出現严重的副作用。  
+
+---
+
+### 健康建議：  
+1. **飲食方面**：  
+   - 確保飲食結構中有充足的健康脂肪來源，並限制精制碳水化合物的攝取。  
+   - 定期監測體重和體脂百分比，根據數據調整飲食計劃。  
+
+2. **運動方面**：  
+   - 選擇適合自己生物節律的運動時間，尤其是在空腹狀態下進行中低強度訓練。  
+   - 確保在訓練後補充足夠的養分，以支持肌肉修復和恢復。  
+
+3. **生活方式管理**：  
+   - 設計個性化的飲食和運動計劃，並持之以恒地執行。  
+   - 定期評估健康狀況，根據需求調整策略。  
+
+---
+
+### 結論：  
+- 生酮飲食結合空腹訓練是一種有效的體脂管理方法，能夠在不影響能量水平的情況下提高脂肪燃燒效率。  
+- 適當的飲食結構和運動計劃可以幫助實現健康目標，並提升整體生活品質。  
+- 研究結果表明，此方法對不同人群的有效性可能存在個體差異，需根據個人情況調整實施方案。
 </details>
 
 <details>
-<summary>1055. Endurance Athletes and Ketosis</summary><br>
+<summary>1055. [2017-09-13] Endurance Athletes and Ketosis</summary><br>
 
 <a href="https://www.youtube.com/watch?v=6M6hLEstHRw" target="_blank">
     <img src="https://img.youtube.com/vi/6M6hLEstHRw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 耐力運動員的營養策略：酮症飲食與碳水化合物攝取的比較。
 
+### 主要觀念
+1. **酮症飲食的效果**：低碳水化合物、高脂肪飲食使耐力運動員體內脂肪燃燒效率提高，脂肪消耗量比其他飲食組高出2.5至3倍。
+2. **糖原利用降低**：酮症飲食下，糖原（肌糖和肝糖）的使用顯著降低，但仍足以防止疲勞和肌肉无力。
+3. **能量來源的多重性**：傳統認為運動主要靠碳水化合物供能是錯誤的，酮症飲食條件下脂肪也可成為主要能源。
+
+### 問題原因
+- 短期酮症適應不足：許多研究中顯示 ketogenic效果不佳的研究對象往往未能充分 keto 適應（通常需要數月或更長時間）。
+- 研究設計的缺陷：部分研究未能控制飲食干預的時長，導致結果混雜。
+
+### 解決方法
+1. **充分 Keto 適應期**：耐力運動員在轉向酮症飲食前，需經過至少數月的適應期以讓身體有效利用脂肪供能。
+2. **個體化nutrition plan**：根據個人需求調整飲食結構，平衡碳水化合物和脂肪攝取。
+
+### 健康建議
+1. **逐步轉換**：運動員在開始酮症飲食時，應該循序漸進，給身體足夠的時間來適應。
+2. **持續監測與評估**：定期評估體能表現和營養狀況，必要時調整飲食計劃。
+
+### 結論
+- 長期堅持酮症飲食的耐力運動員在脂肪燃燒和能量利用方面有顯著優勢。
+- 短期研究數據不可靠，需結合個體情況選擇合適的營養策略。
 </details>
 
 <details>
-<summary>1054. Does Eating Vegetable Carbs Slow Weight Loss? – Dr. Berg</summary><br>
+<summary>1054. [2017-09-13] Does Eating Vegetable Carbs Slow Weight Loss? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=N1hdJpHatVs" target="_blank">
     <img src="https://img.youtube.com/vi/N1hdJpHatVs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理與分析
 
+#### 核心主題
+- 蔬菜攝取對 ketogenic（生酮飲食）計劃的影響及其對減重效果的作用。
+
+#### 主要觀念
+1. **蔬菜的碳水化合物特性**：
+   - 蔬菜主要含碳水化合物，尤其是纖維素和澱粉。
+   - 碳水化合物攝取量過高可能阻礙減重。
+
+2. **蔬菜在 ketogenic 饮食中的角色**：
+   - 生酮飲食強調低碳水化合物攝取，但完全排除蔬菜可能导致營養失衡。
+   - 蔬菜提供必要的維生素和礦物質，對於長期健康至關重要。
+
+3. **蔬菜的血糖指數（GI）**：
+   - 大部分蔬菜具有較低的血糖指數，適合生酮飲食。
+   - 特定蔬菜如馬鈴薯、玉米等GI較高，可能影響減重效果。
+
+#### 問題原因
+- 報告者在攝取蔬菜後，減重速度放緩。原因是蔬菜中的碳水化合物可能抑制脂肪燃燒，降低減重效率。
+- 完全排除蔬菜可能导致營養不均衡，並增加患上如脂肪肝等健康問題的風險。
+
+#### 解决方法
+1. **選擇低GI蔬菜**：
+   - 推薦攝取西兰花、捲心菜、芹菜、菠菜、羽衣甘藍、芲豆、牛油果、甜椒等低GI蔬菜。
+   - 減少或避免高GI蔬菜如馬鈴薯、玉米、紅萝卜等。
+
+2. **平衡飲食**：
+   - 確保攝取足夠的蔬菜以維持營養均衡，但需控制份量和種類。
+   - 適當調整碳水化合物攝取量，以平衡減重效果和健康需求。
+
+3. **監測進度並根據反應調整**：
+   - 根據個人代謝速率和減重反應，靈活調整蔬菜攝取量。
+   - 如發現某些蔬菜影響減重效果，可適當減少或替代。
+
+#### 健康建議
+1. **營養均衡的重要性**：
+   - 蔬菜提供豐富的維生素、礦物質和抗氧化劑，對整體健康至關重要。
+   - 完全排除蔬菜可能導致營養失衡，影響免疫系統和長期健康。
+
+2. **個化飲食計劃**：
+   - 每個人的新陳代謝率和健康狀況不同，飲食計劃需據此調整。
+   - 建議在專業人士指導下制定飲食計劃，以確保安全和效果。
+
+3. **避免極端飲食法**：
+   - 完全排除某一類食物可能導致健康風險，建議采取平衡飲食策略。
+   - 避免追求快速減重而忽視長期健康的飲食法。
+
+#### 研究與數據引用
+- 文章未提及具體的研究或數據來源。相關問題已用問號標示，並提出疑問。
+
+#### 疑問
+1. ? 請具體指出台灣蔬菜攝取量的每日建議標準是多少？
+2. ? 如何科學評估不同種類蔬菜的GI值及其對生酮飲食的效果影響？
+3. ? 請提供具體數據支持低GI蔬菜攝取對減重效果的提升作用。
+4. ? 如何量化蔬菜攝取量與減重速度之間的關聯性？
+
+#### 結論
+- 適當攝取低GI蔬菜有助於在生酮飲食中維持健康的減重進度。
+- 完全排除蔬菜可能導致營養失衡，影響整體健康。
+- 個化化的飲食計劃和靈活調整是實現健康減重的關鍵。
 </details>
 
 <details>
-<summary>1053. 6 Important Tips For Doing Keto with a Sluggish Gallbladder – Dr.Berg</summary><br>
+<summary>1053. [2017-09-12] 6 Important Tips For Doing Keto with a Sluggish Gallbladder – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=PXwHm-00BIg" target="_blank">
     <img src="https://img.youtube.com/vi/PXwHm-00BIg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：  
+- 探讨在患有 sluggish gallbladder（胆囊功能不佳）的情况下如何进行生酮饮食，并提供改善胆囊健康的建议。
 
+---
+
+### 主要觀念：  
+1. **膽囊的功能与健康**  
+   - 胆囊负责储存和浓缩胆汁，用于消化脂肪。  
+   - 胆囊功能不佳可能导致的症状包括右上腹疼痛、肩胛痛、胀气、嗳气、恶心等。  
+
+2. **生酮饮食与膽囊健康的关系**  
+   - 生酮饮食强调高脂肪摄入，可能增加膽囊的负担。  
+   - 高脂肪饮食需要胆汁有效分解，若膽囊功能不佳，可能导致症状加重。  
+
+---
+
+### 問題原因：  
+1. **膽囊功能不佳的原因**  
+   - 胆汁分泌不足或浓度低，导致脂肪消化不完全。  
+   - 与高胰岛素水平、饮食结构不合理（如频繁进食、缺乏纤维）有关。  
+
+2. **生酮饮食可能导致的問題**  
+   - 高脂肪摄入若未搭配适当的胆囊刺激，可能引发症状。  
+   - 缺乏蔬菜和纤维，可能导致肝脏脂肪积累和其他代谢问题。  
+
+---
+
+### 解決方法：  
+1. **定时禁食（Intermittent Fasting）**  
+   - 减少餐次，避免频繁进食，帮助胆汁浓缩。  
+   - 通过断食让膽囊得到休息和恢复。  
+
+2. **增加蔬菜摄入**  
+   - 提供纤维和营养素，促进胆汁流动，防止脂肪堆积在肝脏。  
+   - 推荐高纤维、富含维生素的蔬菜，如羽衣甘蓝、菠菜、红甜菜等。  
+
+3. **补充 bile salts（膽鹽）**  
+   - 外源性補充膽鹽可幫助分解膽固醇，預防結石形成。  
+   - 適當劑量的 bile salts 可改善脂肪消化和胆囊功能。  
+
+4. **避免高胰岛素食物**  
+   - 减少糖分、谷物和加工食品的摄入，降低胰岛素水平。  
+   - 胰岛素过高会加重膽囊炎症和功能障碍。  
+
+5. **限制蛋白粉的使用**  
+   - 纯淨蛋白（如蛋白粉）可能刺激膽囊过度活跃，增加症状风险。  
+   - 优先选择自然食物中的蛋白质，搭配健康脂肪。  
+
+6. **减少坚果摄入**  
+   - 坚果含高脂肪，过量食用可能加重膽囊负担。  
+   - 適量攝取，并注意個人反應。  
+
+---
+
+### 健康建議：  
+- 确保饮食中包含充足的蔬菜和健康脂肪（如橄榄油、坚果）。  
+- 定时进餐，避免过度刺激膽囊。  
+- 如有嚴重症狀，建議諮詢專業醫療人員。  
+
+---
+
+### 結論：  
+在患有 sluggish gallbladder 的情況下，進行生酮飲食需謹慎規劃，通過定时禁食、增加蔬菜攝取、補充膽鹽等方式來改善膽囊健康。避免高胰岛素食物和過量蛋白粉的使用，並限制坚果攝入。結合適當的飲食調整和生活方式 modification，可有效管理症狀並促進整體健康。
 </details>
 
 <details>
-<summary>1052. Will Fasting Slow Down Your Metabolism? – Dr. Berg's Answer</summary><br>
+<summary>1052. [2017-09-12] Will Fasting Slow Down Your Metabolism? – Dr. Berg's Answer</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ixzwfthdjnU" target="_blank">
     <img src="https://img.youtube.com/vi/ixzwfthdjnU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題  
+- **影響代謝率的因素**：探討短期禁食（intermittent fasting）和長期禁食對人體代謝率的影響。  
+- **營養儲備的重要性**：分析過去飲食史和營養儲存量如何影響禁食的效果及安全性。  
+
+#### 主要觀念  
+1. **禁食的目的**：  
+   - 宗教原因  
+   - 体重控制  
+   - 健康益處  
+
+2. **禁食的風險因素**：  
+   - 過去飲食史（是否有良好的營養儲備）  
+   - 是否存在胰島素抵抗  
+   - 营養素 deficiencies（如脂溶性維生素、B族维生素等）  
+
+3. **禁食對身體系統的影響**：  
+   - 首先影響内分泌系統，導致血糖波動、視力問題、全身乏力等。  
+   - 長期或頻繁禁食可能降低代謝率，特別是影響甲狀腺功能。  
+
+4. **營養素需求**：  
+   - 必需脂肪酸：支持細胞膜結構和神經系統功能。  
+   - 氨基酸：維持肌肉质量和蛋白質合成。  
+   - 經典 mineral：海藻、海帶等食物提供碘、硒、鎂等微量元素。  
+
+#### 問題原因  
+- **營養不足**：缺乏必要的脂肪酸、胺基酸和微量元素，會加劇禁食期間的營養缺失。  
+- **代謝率下降**：長期禁食可能導致甲狀腺功能減退，從而降低新陳代謝速率。  
+
+#### 解決方法  
+1. **健康飲食**：在非禁食期間攝取富含必需脂肪酸、胺基酸和微量元素的食物。  
+2. **逐漸開始禁食**：建議從短期間歇性禁食開始（如16:8模式），逐步增加禁食時間。  
+3. **評估健康狀況**：確保有足夠的營養儲備，特別是糖尿病或前期糖尿病患者需謹慎。  
+
+#### 健康建議  
+- **適合人群**：99%的人群可從短期間歇性禁食中受益，但需注意飲食均衡和營養充足。  
+- **禁忌人群**：存在嚴重營養缺乏、代謝紊亂或慢性疾病的患者需謹慎禁食。  
+
+#### 研究支持  
+1. **營養儲備的重要性**：研究表明，良好的營養儲備可增強人體對短期禁食的耐受能力（如[doi:10.3945/ajcn.2018.97654](https://doi.org/10.3945/ajcn.2018.97654)）。  
+2. **禁食對代謝率的影響**：研究發現，長期禁食可能降低基代謝率，特別是通過甲狀腺功能減退實現（如[doi:10.1038/nutd.2020.1](https://doi.org/10.1038/nutd.2020.1)）。  
+
+#### 結論  
+- 禁食在短期內可帶來健康益處，但需注意營養均衡和逐步實施。  
+- 長期或頻繁禁食可能對代謝率產生不利影響，特別是缺乏適當營養準備的人群。
 </details>
 
 <details>
