@@ -450,113 +450,505 @@
 </details>
 
 <details>
-<summary>859. Intermittent Fasting & Hypoglycemia Symptoms – Dr.Berg</summary><br>
+<summary>859. [2017-06-02] Intermittent Fasting & Hypoglycemia Symptoms – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=4LTM1gUP0rs" target="_blank">
     <img src="https://img.youtube.com/vi/4LTM1gUP0rs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **低血糖症狀及管理**：探討低血糖患者如何通過飲食調整和生活方式改變來改善症状。
 
+### 主要觀念
+1. **低血糖的定義與影響**：
+   - 低血糖（hypoglycemia）是指血液中葡萄糖濃度過低，導致身體功能障礙。
+   - 即使血糖水平在正常範圍內，患者仍可能出現明顯的低血糖症狀。
+
+2. **低血糖的常見症狀**：
+   - 飢倦、震顫、出汗、頭痛、焦躁易怒、視力模糊等。
+
+3. **低血糖的原因**：
+   - 高胰島素血症（hyperinsulinemia）：過多的胰島素分泌導致血糖下降。
+   - 胰島素抵抗（insulin resistance）：身體對胰島素的反應降低，引發更多胰岛素分泌。
+   - 皮質醇不足（adrenal fatigue）：腎上腺功能減退影響血糖調節。
+
+### 問題原因
+1. **飲食因素**：
+   - 高糖和精制碳水化合物的攝取導致血糖波動。
+   - 頻繁進餐（如六餐一天）加重胰島素抵抗。
+
+2. **生活習慣**：
+   - 經常跳餐或不定時進餐打亂血糖平衡。
+
+### 解決方法
+1. **飲食調整**：
+   - 減少糖分和精制碳水化合物的攝取。
+   - 增加蛋白質和健康脂肪的摄入，延長飽腹感並穩定血糖。
+
+2. **逐步實施 intermittent fasting（間歇性禁食）**：
+   - 從增加餐間時間開始，逐步減少進餐次數。
+   - 确保每日飲食中包含足夠的蔬菜以補充鉀和其他礦物質。
+
+3. **監控與調整**：
+   - 跟蹤血糖水平，根據變化調整飲食和禁食計劃。
+
+### 健康建議
+1. **逐步實施**：
+   - 低血糖患者不宜 sudden changes in diet or fasting schedules.
+
+2. **飲食均衡**：
+   - 確保每餐包含足夠的蛋白質和健康脂肪，避免高糖食物。
+
+3. **補充鉀質**：
+   - 高鉀蔬菜（如菠菜、甜薯）有助於穩定血糖。
+
+4. **Monitoring**：
+   - 定期測量血糖，了解身體反應並及時調整飲食計劃。
+
+### 結論
+- 低血糖患者可以通过逐步減少糖分攝取和實施間歇性禁食來改善症状。
+- 適當的飲食結構和生活方式改變是關鍵，但需根據個人情況逐步進行。
 </details>
 
 <details>
-<summary>858. Keto Diet and Intermittent Fasting Success Story – Dr.Berg Interviews Miroslaw Duda</summary><br>
+<summary>858. [2017-06-01] Keto Diet and Intermittent Fasting Success Story – Dr.Berg Interviews Miroslaw Duda</summary><br>
 
 <a href="https://www.youtube.com/watch?v=U6FrdFQNUUo" target="_blank">
     <img src="https://img.youtube.com/vi/U6FrdFQNUUo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **.INTERVAL FASTING**：間斷性禁食在健康和體育方面的應用。
+- **肌力與肌肉維持**：間斷性禁食對肌力和肌肉量的影響。
+- **代謝率與體型塑造**：低代謝率和內胚型體質對體脂 reduction 和肌肉建構的挑戰。
 
+### 主要觀念
+1. 間斷性禁食可以有效控制體重，特別是對於代謝率低的人群。
+2. 間斷性禁食不會显著影響肌力和肌肉量，前提是足夠攝取蛋白質和其他營養素。
+3. 碳水化合物在周邊訓練中的作用有限，可能需要重新評估其必要性。
+
+### 問題原因
+- **低代謝率**：導致體脂 reduction 和肌肉建構困難。
+- **碳水化合物的依賴性**：傳統認為碳水化合物對運動表現至關重要，但其效果可能被高估。
+- **營養攝取的時間效應**：食物攝取時機對身體代謝和恢復的影響。
+
+### 解决方法
+1. **間斷性禁食**：
+   - 限制每日飲食窗口，通常為8小時內進食，剩餘時間禁食。
+   - 確保主要飲食集中在一天中的某個特定時段。
+2. **維持肌肉與肌力**：
+   - 足夠攝取蛋白質，尤其是高品質的蛋白質來源。
+   - 保持定期的力量訓練以刺激肌肉生長和維持。
+3. **調整碳水化合物攝取**：
+   - 減少碳水化合物在訓練前後的攝取，觀察其對運動表現和恢復的效果。
+4. **補充電解質**：
+   - 在高強度訓練日，可考慮補充含钾、钠、钙等離子的飲料以維持體力。
+
+### 健康建議
+1. **飲食結構**：
+   - 選擇高蛋白質、低碳水化合物和中等脂肪的飲食結構。
+2. **訓練策略**：
+   - 結合力量訓練和有氧運動，以提升整體健身效果。
+3. **營養補充**：
+   - 考慮使用創建ine來促進肌肉恢復和增長。
+4. **hydration管理**：
+   - 在禁食期間注意水份攝取，避免dehydration。
+
+### 總結
+間斷性禁食在控制體重、提升代謝效率和維持肌力方面具有顯著優勢。對於低代謝率和內胚型體質的人群來說，合理規劃飲食結構和訓練計劃是實現理想體型的關鍵。此外，碳水化合物的作用可能被過度強調，值得進一步研究和實驗以找到最適合個人的營養策略。
+
+此方法既提供了一種有效的體重管理工具，也為那些擔心肌肉流失的人提供了信心，證明間斷性禁食不必犧牲健康與力量。
 </details>
 
 <details>
-<summary>857. Intermittent Fasting & Your Thyroid Health – Do Fasting for Thyroid Problems – Dr.Berg</summary><br>
+<summary>857. [2017-06-01] Intermittent Fasting & Your Thyroid Health – Do Fasting for Thyroid Problems – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5SOvEuaQ-Xc" target="_blank">
     <img src="https://img.youtube.com/vi/5SOvEuaQ-Xc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納：
 
+#### 1. 核心主題：
+- **間歇性禁食與甲狀腺健康**  
+  探讨间歇性禁食对甲状腺功能的影响，尤其是针对甲减（包括桥本氏甲状腺炎）患者。
+
+#### 2. 主要觀念：
+- **低热量 diet vs. 間歇性禁食**  
+  - 間歇性禁食与低热量 diet 的区别在于前者保持总热量不变，仅改变进食频率。
+  - 間歇性禁食本身不会直接损害甲状腺功能，但若采用低热量 diet，则可能对甲状腺造成压力。
+
+- **甲狀腺功能異常的影響**  
+  甲减患者的代谢率较低，进一步降低热量摄入（如通过低热量 diet）会加剧代谢放缓。
+
+#### 3. 問題原因：
+- **低热量 diet 的危害**  
+  - 低热量 diet 可能导致身体进入“饑餓模式”，信号 brain 减缓新陈代谢。
+  - 对于甲减患者，这会导致甲状腺功能进一步恶化。
+
+- **營養不足的影響**  
+  - 長期低热量 diet 可能導致营养不均衡，影响甲状腺激素的合成和转化（如 T4 转化为 T3）。
+
+#### 4. 解決方法：
+- **關鍵微量營養素的補充**  
+  - **硒**：有助于将 T4 转换为活性 T3 激素。来源包括巴西莓酵母或 nutritional yeast。
+  - **碘**：对甲状腺激素合成至关重要，可通过 Icelandic celp 等海藻获取。
+
+- **控制 cruciferous vegetables 的攝取**  
+  - 虽然十字花科蔬菜具有抗 estrogen 效果，但过量摄入可能抑制甲状腺功能。建议适量食用。
+
+- **維生素 A 和 D 的重要性**  
+  - **維生素 A**：支持 DNA 表達和免疫功能，可從 CER 油中获取。
+  - **維生素 D**：與PTH（甲状旁腺激素）协同作用，促进钙代谢和甲状腺健康。
+
+#### 5. 健康建議：
+- **間歇性禁食的實施**  
+  - 間歇性禁食若搭配均衡飲食，则可促進 T4 转换为 T3。
+  - 禁食期間需注意營養密度，確保攝取足夠的微量營養素。
+
+- **生活習慣調整**  
+  - 避免長時間低热量 diet，以防影響甲狀腺功能。
+  - 保持規律饮食和充足睡眠，支持整體 metabolism。
+
+#### 6. 結論：
+- **間歇性禁食的雙刃劍效果**  
+  - 若正確實施（保持營養均衡且足夠的總熱量），間歇性禁食可改善甲狀腺功能。
+  - 避免誤用為低热量 diet，否則可能加重甲狀腺問題。
+
+- **綜合管理策略**  
+  - 結合飲食調整、微量營養素補充和生活習慣 modification，以支持甲狀腺健康。
 </details>
 
 <details>
-<summary>856. The Importance of Vitamin A in Pregnancy – Dr.Berg on Source of Vitamin A & Deficiency</summary><br>
+<summary>856. [2017-05-31] The Importance of Vitamin A in Pregnancy – Dr.Berg on Source of Vitamin A & Deficiency</summary><br>
 
 <a href="https://www.youtube.com/watch?v=K-X9ZefdMzs" target="_blank">
     <img src="https://img.youtube.com/vi/K-X9ZefdMzs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理
 
+#### 1. 核心主題
+- **重要性**：孕婦攝取足夠的維生素A對胎兒的健康和發育至關重要。
+- **主題焦點**：探討孕期維生素A的攝取量、來源及其對胎兒發育的影響。
+
+#### 2. 主要觀念
+1. **推薦攝取量（RDA）的變更**：
+   - 過去：孕婦每日所需維生素A為8,000 IU。
+   - 現今：建議提高至20,000-25,000 IU以預防出生缺陷。
+
+2. **維生素A的形式**：
+   - 三種活性形式：Retinol、Retinol 和 Retinyl Acid。
+   - 常見來源為β-胡蘿蔔素（ precursor，需轉化為活性形式）。
+
+3. **合成维生素A的問題**：
+   - 合成維生素A可能有毒性風險。
+   - 制藥業改用低劑量或前體物質以降低毒性風險。
+
+#### 3. 問題原因
+- 合成維生素A的毒性問題導致孕期攝取量過低，增加出生缺陷風險。
+
+#### 4. 解決方法
+1. **提高攝取量**：
+   - 孕婦每日應攝取20,000-25,000 IU的天然維生素A。
+
+2. **來源選擇**：
+   - 推薦使用高品質的未精煉魚肝油（Virgin Cod Liver Oil）。
+   - 選食用來源：草饲肝脏（如牛肝），可作為補充劑或食品攝取。
+
+3. **避免合成維生素A**：
+   - 慎用合成形式，因其可能有毒性影響。
+
+#### 5. 健康建議
+1. **飲食調整**：
+   - 確保孕婦攝取富含天然維生素A的食物，如魚肝油和草饲肝脏。
+   - 至少每周食用一次相關食物或補充劑。
+
+2. **補充劑選擇**：
+   - 選擇高品質、未精煉的魚肝油作為主要來源。
+   - 考慮使用含天然維生素A的サプリメント。
+
+3. **諮詢專業人員**：
+   - 在開始任何營養補充計劃前，建議諮詢醫生或營養師以確保攝取量適當且安全。
+
+#### 6. 結論
+- 孕期充足的維生素A攝取能有效降低出生缺陷風險。
+- 推荐使用天然來源的維生素A（如魚肝油和草饲肝脏）以避免合成形式的毒性影響。
+- 孕婦應密切關注飲食結構，必要時在專業指導下進行補充。
 </details>
 
 <details>
-<summary>855. 3 Tweaks to the Traditional Ketogenic Diet Plan – Low Carb Intermittent Fasting – Dr.Berg</summary><br>
+<summary>855. [2017-05-31] 3 Tweaks to the Traditional Ketogenic Diet Plan – Low Carb Intermittent Fasting – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5ghvkQCIls4" target="_blank">
     <img src="https://img.youtube.com/vi/5ghvkQCIls4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 介紹酮ogenic diet（ ketogenic饮食）的三個重要調整策略：蔬菜攝取量、間歇性禁食以及營養豐富的脂肪選擇。
 
+### 主要觀念  
+1. **蔬菜攝取的重要性**  
+   - ogenic diet允許20至50克碳水化合物攝取，但需區分不同來源。  
+   - 蔬菜（如菠菜、羽衣甘蓝、甜椒等）的碳水化合物含量低，且營養價值高。  
+   - 每天建議攝取7-10杯蔬菜以確保足夠的維生素和礦物質攝取。
+
+2. **間歇性禁食的必要性**  
+   - ogenic diet通常允許零食，但過度攝食會刺激胰島素分泌。  
+   - 通過加入間歇性禁食，可以幫助改善胰島素抵抗和前期糖尿病問題。
+
+3. **營養豐富脂肪的選擇**  
+   - genic diet傳統上未強調脂質來源的差異。  
+   - 應優先選擇天然、未加工的脂肪來源，如草饲肉類、 dairy（乳制品）、椰子油、牛油、橄欖油、橄榄、牛油果、堅果和魚類等。
+
+### 問題原因  
+- 過度依賴精緻碳水化合物或高GI食物：這些食物不僅提供熱量，還可能導致血糖波動和脂肪肝症。  
+- 忽視蔬菜攝取量：低蔬菜攝取會導致營養不足，影響整體健康。  
+- 脂肪來源選擇不當：使用加工油（如大豆油、玉米油）或缺乏脂溶性維生素的油（如MCT油），可能對健康造成潛在風險。
+
+### 解決方法  
+1. **蔬菜攝取**  
+   - 確保每天攝取7-10杯蔬菜，以獲得足夠的維生素和礦物質。  
+   - 避免讓碳水化合物攝取量限制蔬菜的食用量。
+
+2. **間歇性禁食**  
+   - 通過延長禁食時間（例如每日16小時禁食，8小時進食窗口），降低胰島素刺激。  
+   - 適合用於有胰島素抵抗或前期糖尿病的人群。
+
+3. **營養豐富脂肪的選擇**  
+   - 選擇天然、未加工的脂肪來源，確保攝取足夠的脂溶性維生素（如Vitamin A、D、E、K）。  
+   - 避免使用高溫加工油和 GMO 來源的油脂。
+
+### 健康建議  
+- 確保酮ogenic diet中包含豐富的蔬菜攝取，以促進整體營養均衡。  
+- 配合間歇性禁食，以提升ダイエット效果並改善胰島素敏感性。  
+- 選擇多樣化的健康脂肪來源，避免長期依賴單一或不健康的脂肪來源。
+
+### 結論  
+酮ogenic diet是一種有效的飲食方式，但其成功取決於飲食結構的調整和健康習慣的養成。通過增加蔬菜攝取、實施間歇性禁食以及選擇營養豐富的脂肪來源，可以進一步提升酮ogenic diet的效果，促進整體健康並降低慢性病風險。
 </details>
 
 <details>
-<summary>854. Keto Vanilla Chia Pudding by Dr. Berg</summary><br>
+<summary>854. [2017-05-30] Keto Vanilla Chia Pudding by Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=U0bDzE6D0Js" target="_blank">
     <img src="https://img.youtube.com/vi/U0bDzE6D0Js/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 探讨使用奇亚籽（Chia）制作甜点的可能性及其营养价值。
+
+#### 主要觀念
+1. 奇亞籽 pudding 的食譜介紹，強調其健康益處。
+2. 奇亞籽的營養價值：
+   - 富含 Omega-3 必需脂肪酸。
+   - 高蛋白質含量，適合ダイエット或健康飲食需求。
+3. 經驗分享：奇亞籽在不同食譜中使用量的差異。
+
+#### 問題原因
+1. 奇亞籽在 pudding 中用量不一，導致稠度 variation 的疑問。
+2. 消費者可能不了解奇亞籽的最佳使用方法。
+
+#### 解決方法
+1. 根據食譜需求調整奇亞籽用量：
+   - 少量即可使 pudding 稠厚。
+   - 若需更佳的稠度，可增加奇亞籽用量。
+2. 採用 Stevia 甜味劑以符合健康飲食需求。
+
+#### 健康建議
+1. 選擇富含 Omega-3 的食物來源，幫助平衡激素，特別是女性的需求。
+2. 維持均衡飲食，利用高蛋白質、低熱量的食材如奇亞籽來增強營養攝取。
+
+#### 结論
+- 奇亞籽 pudding 是一種健康且美味的甜點選擇，適合追求健康的消費者。
 </details>
 
 <details>
-<summary>853. Intermittent Fasting And Exercise – When to Exercise While Fasting – Dr.Berg</summary><br>
+<summary>853. [2017-05-30] Intermittent Fasting And Exercise – When to Exercise While Fasting – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=nHJhufGbmR0" target="_blank">
     <img src="https://img.youtube.com/vi/nHJhufGbmR0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 本文探討了間歇性禁食（intermittent fasting）與運動時間的最佳搭配，特別是在減脂和整體健康方面的效果。
 
+### 主要觀念
+1. **間歇性禁食的目的**：
+   - 消耗多余脂肪。
+   - 提升整體健康狀況（如感覺更好、增強體力）。
+2. **常見錯誤**：
+   - 同時進行多種 diet 綠法（如間歇性禁食和酮osis），進而增加身體負荷，導致失敗。
+3. **運動的最佳時間**：
+   - 建議在用餐期間或餐後立即進行運動，以利用血糖和肝醣作為能量來源。
+   - 晚間運動可能略微提高脂肪燃燒效果，但差異不大。
+
+### 問題原因
+- 過快實施多種 diet 綠法，導致身體不適（如疲勞、頭暈、低血糖反應）。
+- 選擇錯誤的運動時間，尤其是在空腹或肝醣耗竭的情況下進行高強度訓練。
+
+### 解決方法
+1. **逐步實施 diet 計劃**：
+   - 從較少的飲食調整開始，逐步增加其他措施（如酮osis）。
+2. **選擇合適的運動時間**：
+   - 選擇用餐後或一天中血糖水平較高的時期進行訓練。
+   - 晚間訓練可稍微提高脂肪燃燒效果，但需根據個人狀況調整。
+3. **飲食調整**：
+   - 增加蛋白質攝取，特別是在運動後，以促進肌肉修復和恢復。
+   - 可考慮添加Creatine等補充劑，以提升恢復效果和肌肉生長。
+
+### 健康建議
+- 運動時注意能量水平，避免空腹進行高強度訓練。
+- 根據個人身體反應調整飲食結構，必要時增加蛋白質攝取或補充Creatine。
+- 減脂與運動應循序漸進，避免過度負荷。
+
+### 結論
+- 間歇性禁食結合適當的運動計劃可以有效促進減脂和整體健康。
+- 選擇合適的運動時間和飲食結構是成功實施此策略的關鍵。
+- 個人化調整至關重要，需根據自身反應進行必要的 modifications。
 </details>
 
 <details>
-<summary>852. The Best Nutrients for Menstrual Cramps Relief – Dr. Berg</summary><br>
+<summary>852. [2017-05-29] The Best Nutrients for Menstrual Cramps Relief – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=cWmuC5QsSA0" target="_blank">
     <img src="https://img.youtube.com/vi/cWmuC5QsSA0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理： menstrual cramp relief
 
+#### 核心主題:
+- 月经疼痛（menstrual cramps）的缓解方法。
+
+#### 主要觀念:
+1. **维生素B1 (Thiamine)**: 被提及为缓解月经疼痛的有效自然选择。
+2. **维生素B6 (Pyridoxine)**: 同样作为缓解痛经的重要补充剂。
+3. **钙和镁 (Calcium and Magnesium)**: 用于提供额外的缓解效果。
+
+#### 問題原因:
+- 月经周期中的生理变化可能导致子宫肌肉痉挛，引发疼痛。
+
+#### 解决方法:
+1. 营养补充剂：
+   - **维生素B1**: 可通过天然来源如营养酵母获取。
+   - **维生素B6**: 同样建议选择自然形式。
+2. 补充钙和镁: 有助于缓解肌肉痉挛和减轻疼痛。
+
+#### 健康建議:
+- 使用这些补充剂作为经济实惠且简便的自我护理方法，以获得快速缓解。
+- 鼓励通过均衡饮食结合必要时的营养补充来维持整体健康。
+
+#### 結論:
+- 提供了一套简单易行、成本低的自然疗法，帮助缓解月经疼痛。
 </details>
 
 <details>
-<summary>851. Seeds and Nuts on Keto Diet – Dr.Berg on Ketogenic Diet Nuts & Seeds</summary><br>
+<summary>851. [2017-05-29] Seeds and Nuts on Keto Diet – Dr.Berg on Ketogenic Diet Nuts & Seeds</summary><br>
 
 <a href="https://www.youtube.com/watch?v=JEaHMtJ9bSE" target="_blank">
     <img src="https://img.youtube.com/vi/JEaHMtJ9bSE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：nuts and seeds on a ketogenic diet
 
+#### 1. 核心主題：
+- 探讨坚果和种子在生酮饮食中的适宜性，分析其营养价值、潜在问题及食用建议。
+
+#### 2. 主要觀念：
+- 坚果和种子是生酮饮食中良好的脂肪来源。
+- 不同坚果的营养特点及其对健康的影响。
+
+#### 3. 具體種類與特性：
+- **核桃（Walnuts）**：
+  - 富含ω-6脂肪酸。
+  - 易氧化变质，需确保新鲜度。
+  
+- **山核桃（Macadamia Nuts）**：
+  - 脂肪含量高，适合生酮饮食。
+  - 注意新鲜度以避免變質。
+
+- **美洲山核桃（Pecans）**：
+  - 高脂肪，适合生酮饮食。
+  - 同样需注意新鲜度。
+
+- **堅果醬（Nut Butters）**：
+  - 推荐选择无添加糖、氢化油和防腐剂的产品。
+  - 如花生酱应确保只含「海鹽」和花生成分。
+
+- **腰果（Cashews）**：
+  - 碳水含量較高，需控制攝量。
+  - 易引起過食，注意食用環境管控。
+
+#### 4. 問題原因：
+- 坚果和种子的高脂肪特性可能引发 gallbladder 疫情况。
+- 部分坚果易氧化變質，影響食用安全性。
+- 高碳水含量坚果可能导致生酮飲食破壞。
+
+#### 5. 解決方法：
+- **控制攝量**：每餐限制在2至3盎司（約56.7至85克）之間，尤其是對 gallbladder敏感的人群。
+- **選擇新鮮產品**：購買時注意坚果的新鲜度，避免長期存放導致的氧化和變質。
+- **注意加工食品添加物**：選擇簡潔成份表的堅果醬，確保無添加糖、防腐劑及氫化油。
+
+#### 6. 健康建議：
+- 頻繁食用堅果醬可能引起 gallbladder 病況，特別是未切除 gallbladder 的人。
+- 替代方案：可考慮使用種子來增加膳食纖維和營養攝取，如奇亚籽、亞麻籽等。
+
+#### 7. 結論：
+坚果和种子在生酮飲食中具備重要地位，但需注意品種選擇、食用量及新鮮度。合理規劃可幫助提升飲食健康，避免潛藏問題。
 </details>
 
 <details>
-<summary>850. Natural Remedies to Improve Parkinson's Disease Symptoms – Dr. Berg</summary><br>
+<summary>850. [2017-05-28] Natural Remedies to Improve Parkinson's Disease Symptoms – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Hhg3m8XUWuI" target="_blank">
     <img src="https://img.youtube.com/vi/Hhg3m8XUWuI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 探讨针对帕金森病（Parkinson's disease）的自然营养补充策略。
 
+---
+
+### 主要觀念  
+1. **尼可酰胺**（Niacinamide）作为一种维生素B₃的衍生物，具有神经保护作用。  
+2. **辅酶Q₁₀**（Coenzyme Q10）在形式为 ubiquinone 时，能够有效保护脑部和神经系统。  
+
+---
+
+### 病因分析  
+- 帕金森病的主要特征是多巴胺能神经元退化，导致 dopamine 水平下降，进而引发运动障碍和其他症状。
+
+---
+
+### 解決方法  
+1. **尼可酰胺**：通过补充 250-500 毫克的尼可酰胺，可以保护神经元并预防多巴胺的丢失。  
+2. **辅酶Q₁₀**：使用 ubiquinone 形式，帮助保护脑部和神经系统功能。  
+
+---
+
+### 健康建議  
+1. **劑量 recommendations**：  
+   - 尼可酰胺：每日 250-500 毫克。  
+   - 辅酶Q₁₀：建议选择高质量的 ubiquinone 补充剂，剂量需根据医生指导调整。  
+
+2. **多用途 benefits**：尼可酰胺不仅对神经系统有益，还可能在其他疾病（如 1 型糖尿病和皮肤问题）中发挥作用。  
+
+---
+
+### 結論  
+- 尼可酰胺和辅酶Q₁₀的结合使用，能够有效减轻帕金森病的症状。建议患者在尝试这些补充剂前咨询医疗专业人员，并监测其效果及可能的副作用。
 </details>
 
 <details>
