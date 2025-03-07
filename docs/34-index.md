@@ -3020,113 +3020,613 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
 </details>
 
 <details>
-<summary>3439. The Big Problems with Chronic Inflammation</summary><br>
+<summary>3439. [2021-05-01] The Big Problems with Chronic Inflammation</summary><br>
 
 <a href="https://www.youtube.com/watch?v=WN_AM_9QAcs" target="_blank">
     <img src="https://img.youtube.com/vi/WN_AM_9QAcs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 1. 核心主題：慢性炎症及其健康影響
+   - 慢性炎症是多種疾病的共同病因，包括心血管疾病、哮嘴、關節炎、自身免疫病、糖尿病及癌症等。
+
+#### 2. 主要觀念：
+   - **血管炎症**：高血糖、ω-6脂肪酸等因素導致動脈內皮受損，引發血栓形成和動脈硬化。
+   - **哮喘**：與肺部 inflammation 相關，維生素D 在治療中有重要作用。
+   - **骨關節炎**：退行性 joint 疾病伴隨炎症，主要原因是軟骨退化。
+   - **自身免疫疾病**：通常由腸道 dysbiosis 和壓力誘發，涉及免疫系統攻擊自體組織。
+
+#### 3. 問題原因：
+   - 高糖飲食、ω-6 脂肪酸過量攝取。
+   - 細菌或病毒感染（如牙源性感染）引發全身炎症反應。
+   - 長期壓力導致皮質醇抵抗或 adrenal fatigue，影響免疫功能。
+
+#### 4. 解決方法：
+   - **飲食調整**：健康生酮飲食、間歇性斷食，降低糖分和精制碳水化合物攝取。
+   - **補充營養素**：tocotrienols（維生素E的一種形式）、ω-3脂肪酸、高劑量維生素D。
+   - **傳統草藥**：蒲公英根、大蒜、百里香等具備抗菌和抗炎作用。
+
+#### 5. 健康建議：
+   - 減輕壓力，提升免疫系統功能。
+   - 預防感染，特別是口腔衛生。
+   - 定期進行健康檢查，早期發現炎症相關疾病。
+
+#### 6. 結論：
+   - 慢性炎症是多種疾病的共同病理機制，通過飲食、營養補充和生活方式調整可以有效預防和控制 inflammation-related 疾病。
 </details>
 
 <details>
-<summary>3438. Stress Makes You Stronger</summary><br>
+<summary>3438. [2021-04-30] Stress Makes You Stronger</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KzmVNovsSqM" target="_blank">
     <img src="https://img.youtube.com/vi/KzmVNovsSqM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+===== 理解結果 =====
 
+此篇文章主要探討了壓力（Stress）在增強身體各個系統，尤其是免疫系統中的作用，并提出了通過有意識地暴露於不同類型的壓力來提升整體健康和抵抗力的方法。文章使用了「荷爾蒙效應」（Hormetic Effect）的概念，解釋了壓力如何促使 организм 反應並適應，從而變得更強健。以下為文章的重點整理：
+
+### 核心主題
+- **壓力的作用**：壓力不僅可以增強力量，還是身體适应和成長的必要條件。
+- **荷爾蒙效應**：通過有意識地暴露於適當劑量的壓力，激發身體的生存本能，促使 adaptation 和能力提升。
+
+### 主要觀念
+1. **免疫系統的發展**：
+   - **先天免疫系統**：由母體遺傳決定，基於母親的壓力和适应經驗。
+   - **後天免疫系統**：需通過暴露於病原體來激活，從小環境中隔離或過度保護會削弱其功能。
+   
+2. **運動的作用**：
+   - 運動是一種物理壓力，導致肌肉分解，但通過康復 phase 和激素的幫助，使身體變得更強壯。
+   - 不夠活躍的人會逐漸失去肌肉質量（atrophy），導致整體力量下降。
+
+3. **禁食的效果**：
+   - 禁食看似削弱營養供應，卻能激發身体的修復和再生能力，包括神經元再生、免疫系統更新及慢性疾病康復。
+   - 適度禁食可降低炎症反應並抑制癌細胞活化。
+
+4. **植物化學物質（Phytonutrients）**：
+   - 植物中的天然防禦物質，如殺蟲劑或昆蟲威脅，能激發身體的抗性機制。
+   - 小劑量暴露於這些化合物可提升免疫力和抵抗能力。
+
+5. **冷熱療法（Cryotherapy & Sauna）**：
+   - 冷水浴或低溫浸泡可刺激修復機制，增強體力。
+   - 高溫桑拿也能達到相似效果，但寒冷therapy 更具挑戰性，效應更明顯。
+
+6. **降低氧氣供應（Hypoxia）**：
+   - 高海拔訓練或使用限制空氣的面具，可促使紅血球增生，提升氧氣運輸效率。
+   
+7. **輻射適應**：
+   - 適當接觸紫外線等微量辐射，能激發身體的防禦機制，增強對抗能力。
+
+### 問題原因
+- 過度保護或避免壓力（如生活在 sterile 環境中）會阻礙免疫系統和整體健康的發展。
+- 不良的生活習慣（如缺乏運動、營養過剩、不適當的免疫增強措施）會削弱身體的自然適應能力。
+
+### 解決方法
+1. **有意識地暴露於壓力**：
+   - 經濟有效的免疫系統增強途徑。
+   - 通過運動、禁食、冷熱交替等手段激發身體的适应反應。
+
+2. **均衡管理壓力和康復**：
+   - 避免過度訓練或睡眠不足，確保足夠的康復時間。
+   
+3. **健康飲食建議**：
+   - 多攝取富含植物化學物質的食物（如羽衣甘蓝、菠菜等），以小劑量逐步增加身體的抗性。
+   
+4. **環境適應訓練**：
+   - 游玩在不同氣候條件和高度下，促使身體逐步適應並增強抗逆能力。
+
+### 健康建議
+- **壓力管理**：接受並有意識地利用壓力作為提升健康的工具。
+- **生活習慣調整**：將運動、禁食、冷熱therapy 等融入日常，以激發身體的自然修復和增強機制。
+- **飲食選擇**：多攝取天然植物食品，避免過度加工和營養失衡。
+
+### 結論
+壓力是不可回避的自然現象，但通過有意識地管理和利用壓力，可以激發身體的最大潛力，提升整體健康水平。關鍵在於找到壓力與康復的最佳平衡點，並根據個人情況選擇適合的方式來增強免疫系統和身體適應能力。
+
+===== 理解完成 =====
 </details>
 
 <details>
-<summary>3437. The Best Foods for Bad Breath</summary><br>
+<summary>3437. [2021-04-29] The Best Foods for Bad Breath</summary><br>
 
 <a href="https://www.youtube.com/watch?v=51elgRSku8g" target="_blank">
     <img src="https://img.youtube.com/vi/51elgRSku8g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：消除口臭的最佳食物選擇及健康建議
 
+### 主要觀念：
+- 口臭的主要原因是口腔、食道和鼻竕中某些細菌的過度生長，以及舌苔上酵母或念珠菌的滋生。
+- 這些微生物以糖分為食，因此減少攝取糖分（包括乳糖）是抑制其生長的重要策略。
+
+### 問題原因：
+1. **糖分攝取過多**：細菌和念珠菌偏好糖分，導致其在體內過度生長。
+2. **抗生素濫用**：殺死益生菌，導致有害微生物的過度增殖。
+3. **肝臟功能受損**：可能引起 breath 具有果香、霉味或氨味。
+4. **飲食失衡**：高蛋白和高碳水化合物攝取，缺乏富含葉綠素的食物。
+
+### 解決方法：
+1. **增加葉綠素食物攝取**：如羽衣甘藍、 kale、菊苣等，具有天然除臭作用，並支援肝臟健康。
+2. **攝取益生菌食物**：選擇非乳製品的發酵食品（如泡菜、Kimchi、發酵蔬菜），避免酸奶和 kefir 中的乳糖。
+3. **控制蛋白質攝取量**：每餐 moderation 適當份量（3-8 盎司）。
+4. **優質飲食**：選擇有機、草饲肉類，使用高品質食用油（如特級初榨橄欖油）。
+5. **增加茶飲攝取**：如薄荷茶或綠茶，有助於消除口臭。
+
+### 健康建議：
+- 避免糖分和乳製品的過度攝取。
+- 減少抗生素使用，維持腸道菌群平衡。
+- 保持均衡飲食，並注重食物品質。
+- 多喝水，保持口腔濕潤。
+
+### 結論：
+消除口臭需從調整飲食結構入手，減少糖分攝取，增加富含葉綠素和益生菌的食物，並整體提升免疫系統功能。
 </details>
 
 <details>
-<summary>3436. How to Have Clear Sinuses</summary><br>
+<summary>3436. [2021-04-29] How to Have Clear Sinuses</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Od5JYl58gHo" target="_blank">
     <img src="https://img.youtube.com/vi/Od5JYl58gHo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：鼻竇 clearance and Respiratory Health
 
+The article discusses methods to clear nasal sinuses and improve respiratory health, particularly for individuals suffering from chronic sinus issues or allergies during the allergy season.
+
+---
+
+### 主要觀念：
+
+1. **Chronic Sinus Issues**:
+   - Chronic sinus problems are often caused by infections (viral, fungal, bacterial) that persist in the sinuses.
+   - These infections can lead to inflammation, mucus buildup, and an inhospitable environment for pathogens.
+
+2. **Natural Remedies for Sinus Health**:
+   - **Echinacea Oil and Tea Tree Oil**: Used as a nasal mist or through nebulizers/neti pots to thin mucus, reduce inflammation, and create an unfriendly environment for pathogens.
+   - **Oral Supplements**: Garlic pills, oregano oil pills, and clove pills act as natural antibiotics to combat pathogens internally.
+
+3. **Lifestyle Modifications**:
+   - Regular consumption of apple cider vinegar to shift pH levels and make the environment inhospitable for pathogens.
+   - Use of high-quality, undiluted apple cider vinegar (e.g., Fairchild by Golden Valley Vinegar) for maximum effectiveness.
+
+---
+
+### 問題原因：
+
+- **Pathogenic Infections**: Chronic sinus issues are often caused by persistent infections (viral, fungal, or bacterial).
+- **Allergy Season**: Increased exposure to allergens during specific seasons exacerbates sinus problems.
+- **Commercial Products**: Dilution of apple cider vinegar in some commercial brands reduces its effectiveness.
+
+---
+
+### 解决方法：
+
+1. **Topical Applications**:
+   - Use echinacea oil and tea tree oil as a nasal mist via nebulizers or neti pots to reduce inflammation, thin mucus, and combat pathogens.
+
+2. **Oral Supplements**:
+   - Take garlic, oregano oil, and clove supplements orally to act as natural antibiotics and suppress pathogen growth.
+
+3. **Dietary Interventions**:
+   - Incorporate undiluted apple cider vinegar into daily diet to shift pH balance and create an unfavorable environment for pathogens.
+   - Use high-quality brands like Fairchild by Golden Valley Vinegar for optimal potency.
+
+---
+
+### 健康建議：
+
+- **Environmental Awareness**: Be mindful of allergens during allergy season.
+- **Product Selection**: Choose undiluted, raw, unfiltered apple cider vinegar with the mother to ensure effectiveness.
+- **Consistency**: Regularly incorporate these remedies into your daily routine for sustained sinus health.
+
+---
+
+### 結論：
+
+The article emphasizes a multi-faceted approach to clearing nasal sinuses and improving respiratory health. By combining topical treatments, oral supplements, and dietary modifications, individuals can effectively combat chronic sinus issues and allergies. Strengthening the immune system through these natural methods is key to tolerating and resisting environmental challenges.
+
+---
+
+### 额外資源：
+
+- **Free Course**: The article promotes a free course titled "How to Bulletproof Your Immune System," which focuses on enhancing immune resilience to better withstand environmental stressors. A link to the course is provided in the description.
 </details>
 
 <details>
-<summary>3435. The Benefits of Eucalyptus</summary><br>
+<summary>3435. [2021-04-28] The Benefits of Eucalyptus</summary><br>
 
 <a href="https://www.youtube.com/watch?v=GYVrPWFtrdM" target="_blank">
     <img src="https://img.youtube.com/vi/GYVrPWFtrdM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **Eucalyptus 的多重療效**  
+  文章探討了尤加利樹（Eucalyptus）的多種健康益處，特別是其主要活性成分ユーカリプтол（eucalyptol）的作用。
 
+---
+
+### 主要觀念
+1. **ユーカリプтол的作用機制**  
+   - 舒緩肺部肌肉， vasodilate 肺組織，改善呼吸。
+   - 促進痰液稀化，有助於清除鼻腔及肺部的分泌物。
+   - 展現顯著的抗菌性能，可抑制多種病原體（如結核菌、MRSA、病毒和真菌）。
+   - 抑制咳嗽反射，特別針對慢性或夜間咳嗽效果顯著。
+   - 抗炎作用：通過阻斷細胞因子來降低炎症、腫脹和疼痛。
+
+2. **尤加利的臨床應用**  
+   - 對呼吸系統疾病（如哮喘、肺炎、支氣管炎）有療效。  
+   - 用於外用油劑或淨化鼻腔（如Neti Pot）。
+
+3. **免疫系統的強化**  
+   - 文章強調增強自身免疫系統的重要性，以提高對外界環境的耐受力和抵抗力。
+
+---
+
+### 問題與原因
+- 當代人過於注重避免外部環境干擾，卻忽略了提升自身免疫力的重要性。  
+- 炎症、感染和慢性疾病與免疫功能失調密切相關。
+
+---
+
+### 解決方法
+1. **使用尤加利作為自然療法**  
+   - 灰塵或油劑形式吸入：舒緩呼吸不順、抗菌消炎。  
+   - 外用油劑：缓解肌肉疼痛和關節炎症。
+
+2. **增強免疫系統**  
+   - 通過特定的健康策略（如飲食、生活方式調整）來提升免疫力。  
+   - 文章推薦免費課程，涵蓋免疫系統保健的具體方法。
+
+---
+
+### 健康建議
+- 將尤加利融入日常生活中：  
+  - 使用尤加利油於淨化鼻腔或加入浴缸中浸泡。  
+  - 考慮將其作為補充劑攝取（需注意dosage）。  
+- 配合免疫系統強化的措施，如均衡飲食、規律運動和壓力管理。
+
+---
+
+### 結論
+尤加利因其多樣的療效被譽為廣譜天然藥物，具有舒緩呼吸、抗菌消炎和增強免疫力等多重益處。文章最後推薦免費課程，幫助讀者進一步掌握免疫系統保健的方法，以提升整體健康水平。
+
+--- 
+
+此整理結構清晰地展現了尤加利的療效及其在健康管理中的應用價值。
 </details>
 
 <details>
-<summary>3434. Breaking Old Bad Habits: Part 3</summary><br>
+<summary>3434. [2021-04-28] Breaking Old Bad Habits: Part 3</summary><br>
 
 <a href="https://www.youtube.com/watch?v=z1f0y1DbmrA" target="_blank">
     <img src="https://img.youtube.com/vi/z1f0y1DbmrA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：
 
+- 创建和维持健康的酮症习惯。
+- 克服不良习惯，通过健康的生活方式改善整体健康。
+
+---
+
+### 主要觀念：
+
+1. **健康习惯的创建**：
+   - 需要持续的努力和日常实践。
+   - 健康或疾病的形成是日常选择的结果。
+
+2. **饮食调整策略**：
+   - 提供简单易行的酮症食谱，减少复杂性。
+   - 推荐购买预先制作的酮友好评食品，节省时间和精力。
+
+3. **克服碳水化合物渴望的方法**：
+   - 增加膳食脂肪摄入量以满足饱腹感并减少对零食的需求。
+   - 避免家中存放不健康零食，减少诱惑。
+
+4. **外出就餐的影响**：
+   - 餐馆食品通常含有隐藏的糖分和不良成分，建议尽量避免。
+   - 初期可尝试“脏酮饮食”，优先控制碳水化合物摄入量。
+
+5. **应对压力与无聊的方法**：
+   - 压力时选择健康的应对方式，如补充维生素或食用健康甜点。
+   - 避免因无聊导致的零食摄入，保持忙碌以减少进食冲动。
+
+6. **环境管理**：
+   - 避免置身于容易诱发不良饮食习惯的环境中。
+   - 在社交场合中主动避免诱惑，如拒绝面包和甜点。
+
+7. **酮症习惯的长期维持**：
+   - 建议不要设置“作弊日”，以免破坏酮症状态。
+   - 通过建立强大的健康储备（如降低胰岛素水平）来增强对偶尔放纵的抵抗力。
+
+---
+
+### 問題原因：
+
+- **复杂性**：传统饮食计划过于复杂，难以长期坚持。
+- **诱惑与环境**：社交场合和家庭环境中容易受到不健康食品的诱惑。
+- **心理因素**：压力和无聊时倾向于选择高热量零食。
+- **代谢问题**：慢代谢导致体重管理困难，需通过改善胰岛素敏感性来解决。
+
+---
+
+### 解决方法：
+
+1. **饮食调整**：
+   - 采用简单酮症食谱，减少准备时间。
+   - 购买预先制作的健康食品以节省时间和精力。
+
+2. **环境管理**：
+   - 避免存放不健康零食，减少诱惑。
+   - 在社交场合主动拒绝不健康的选项（如面包和甜点）。
+
+3. **心理应对策略**：
+   - 用健康的方式应对压力，如补充维生素或食用健康甜点。
+   - 保持忙碌以减少因无聊导致的食欲冲动。
+
+4. **长期维持**：
+   - 建立强大的健康储备（如降低胰岛素水平）以增强对偶尔放纵的抵抗力。
+   - 避免设置“作弊日”，以免破坏酮症状态。
+
+---
+
+### 健康建議：
+
+1. **饮食建议**：
+   - 优先选择高脂肪、低碳水化合物的食物。
+   - 使用简单食谱和预先制作的食品以简化饮食计划。
+
+2. **行为建议**：
+   - 避免接触容易诱发不良饮食习惯的环境。
+   - 在压力或无聊时寻找健康的应对方式，如运动或冥想。
+
+3. **代谢优化**：
+   - 通过维持酮症状态降低胰岛素水平，改善新陈代谢。
+
+---
+
+### 結論：
+
+- 创建和维持健康的酮症习惯需要持续的努力、合理的饮食调整和有效的环境管理。
+- 通过简化饮食计划、避免诱惑、应对心理因素以及建立健康储备，可以实现长期的健康目标。
+- 建议采取整体策略，结合饮食、行为和代谢优化，以达到最佳的健康效果。
 </details>
 
 <details>
-<summary>3433. The Best Exercise for Spondylolisthesis</summary><br>
+<summary>3433. [2021-04-27] The Best Exercise for Spondylolisthesis</summary><br>
 
 <a href="https://www.youtube.com/watch?v=zDukLZLUIag" target="_blank">
     <img src="https://img.youtube.com/vi/zDukLZLUIag/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：針對椎體滑脫症（Spondylolisthesis）的最佳運動與健康管理
 
+#### 核心主題
+- 椎體滑脫症（Spondylolisthesis）是一種下背部骨移位的病症，通常涉及腰椎第五節（L5）向前滑脫至骶骨。
+- 病情可能由過去或近期的骨折引起，導致椎弓崩裂，最終造成椎體滑脫。
+
+#### 主要觀念
+- 椎體滑脫會影響脊髓通道，引發下肢疼痛、痺癱及腸胃問題等症狀。
+- 適當的運動可以穩定脊柱，防止未來的並發症。
+
+#### 問題原因
+- 腰椎第五節（L5）向前滑脫，導致脊髓受壓迫。
+- 椎弓骨折或崩裂是主要病因。
+- 不當姿勢或活動可能加重病情。
+
+#### 解決方法
+1. **核心肌群訓練**：
+   - **仰臥膝胸運動**：將 knees to chest 的姿勢用於伸展和強化下腹部肌肉。
+   - **交替抬腿動作**：逐漸提高腿部以增強核心穩定性。
+2. **反向超人運動**（Superman）：避免傳統的背部拱起運動，改為俯臥姿勢以輕 nhẹ.lift 腿部，避免過度後彎。
+3. **動態穩定訓練**：
+   - 俯臥在大球上，利用反作用力輕輕推動椎體回位。
+4. **等距核心訓練**（Planks）：保持身體平穩，不讓脊柱彎曲，強化核心肌群。
+
+#### 健康建議
+1. **飲食調整**：
+   - 採用健康低碳水化合物飲食（如生酮飲食）。
+   - 遵循間歇性斷食以降低炎症反應。
+2. **營養補充**：
+   - 每日攝取至少 20,000 IU 的維生素 D3，以緩解背部疼痛及改善關節健康。
+   - 使用蒲公英根提取物作為天然抗炎劑。
+
+#### 結論
+- 適當的運動和飲食調整可以有效穩定椎體位置，減輕症狀並預防未來問題。
+- 強化核心肌群是最有效的治療策略之一。
 </details>
 
 <details>
-<summary>3432. Breaking Bad Old Habits: Part 2</summary><br>
+<summary>3432. [2021-04-27] Breaking Bad Old Habits: Part 2</summary><br>
 
 <a href="https://www.youtube.com/watch?v=QrWn52EJp4w" target="_blank">
     <img src="https://img.youtube.com/vi/QrWn52EJp4w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：Breaking Bad Old Habits – 碳水化合物的危害與影響
 
+#### 一、核心主題
+- 探讨 refined carbohydrates（精制碳水化合物）的负面影响及其对人体健康的风险。
+- 强调高糖、高脂食品对代谢和健康的具体危害。
+
+#### 二、主要觀念
+1. **Ingredients in Processed Foods (加工食品的成分)**
+   - 含有大量精制糖（如蔗糖、高果糖玉米 syrup）。
+   - 包含反式脂肪（hydrogenated oils），可能带来心血管健康风险。
+   - 使用多种添加剂，包括防腐剂、色素和稳定剂。
+
+2. **Nutritional Label Analysis (營養標籤分析)**
+   - 每份含有高热量、高糖分、高碳水化合物和适量脂肪。
+   - 鈉含量過高，可能來源於加工.ingredients（如防腐劑和其他添加物）。
+
+3. **Metabolic Impact (代謝影響)**
+   - 精制糖和脂肪的組合會導致血糖波動和胰島素抵抗。
+   - 高糖高脂飲食會增加自由基產生，損傷身體組織。
+
+#### 三、問題原因
+1. **Nutrient Deficiencies in Processed Foods (加工食品的營養不足)**
+   - 細緻糖和反式脂肪缺乏必要營養素。
+   - 缺乏抗氧化劑，無法抵消自由基的影響。
+
+2. **Metabolic Dysfunction (代謝失常)**
+   - 高糖高脂飲食過載導致胰島素抵抗。
+   - 自由基過多損傷關鍵器官（眼睛、血管、腦、神經、腎臟和胰腺β細胞）。
+
+3. **Lifestyle Factors (生活習慣因素)**
+   - 現代人缺乏運動，無法消耗高熱量飲食。
+   - 飲食結構不均衡，依賴加工食品。
+
+#### 四、解決方法
+1. **Dietary Adjustments (飲食調整)**
+   - 減少精制糖和反式脂肪的攝入。
+   - 增加膳食纖維、全穀物和健康脂肪（如橄欖油、坚果）的攝取。
+
+2. **Exercise Routine (運動常規)**
+   - 定期進行有氧運動，幫助消耗 excess calories and improve insulin sensitivity.
+
+3. **Supplementation (補充劑)**
+   - 补充抗氧化劑（如維生素C、E和硒），保護細胞免受自由基傷害。
+
+#### 五、健康建議
+1. **Avoid Processed Foods (避免加工食品)**
+   - 選擇天然、未加工的食物，確保營養均衡。
+
+2. **Increase Physical Activity (增加身體活動)**
+   - 確保每日足夠的運動量，幫助維持健康的體重和代謝功能。
+
+3. **Monitor Nutritional Intake (監控營養攝取)**
+   - 學會閱讀食品標籤，避免過量攝入精制糖和反式脂肪。
+
+4. **Strengthen Immune System (增強免疫力)**
+   - 通過健康飲食和補充必要的維生素及礦物質來提升免疫功能。
+
+#### 六、結論
+- 高糖高脂飲食對健康的影響是多方面的，包括代謝失常、氧化應激和器官損傷。
+- 改善飲食結構和生活習慣是預防慢性病的關鍵。
+- 提升自身免疫力可以幫助抵禦外界環境的不良影響，保持整體健康。
 </details>
 
 <details>
-<summary>3431. Are Nuts Making You Gain Weight?</summary><br>
+<summary>3431. [2021-04-26] Are Nuts Making You Gain Weight?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5zJsUEJL0uE" target="_blank">
     <img src="https://img.youtube.com/vi/5zJsUEJL0uE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- **酮飲食中的碳水化合物控制**  
+- **堅果攝取對酮飲食的影響**  
 
+---
+
+### 主要觀念  
+1. 堅果雖常被視為酮飲食的友好選擇，但某些堅果的碳水化合物含量較高。  
+2. 飲食中每日建議攝取的碳水化合物量為20-50克，過低的碳水攝取可能影響代謝率及體重管理。  
+
+---
+
+### 啟發原因  
+1. ** peanuts（花生）**  
+   - 一杯花生（約146克）含24克碳水化合物，易超出每日20克的目標上限。  
+   - 花生醬（一杯258克）含50克碳水化合物，容易過量攝取。  
+
+2. ** pistachios（ Pistachio ）**  
+   - 一杯杏仁（146克）含35克碳水化合物，易造成攝取過量。  
+
+3. ** almonds（杏仁）**  
+   - 一杯杏仁（146克）含14克碳水化合物，雖低於其他堅果，但仍有潛在的攝取 överdose風險。  
+
+4. ** pecans（山核桃）**  
+   - 一杯山核桃（146克）僅含4克碳水化合物，屬於低碳水堅果。  
+
+---
+
+### 問題原因  
+- 堅果雖高蛋白質、高脂肪且低碳水化合物，但某些品種的碳水含量較高。  
+- 容易在無意中攝取過量，導致每日碳水攝取超標。  
+
+---
+
+### 解決方法  
+1. **選擇低碳水堅果**：如山核桃（Pecans）。  
+2. **控制攝取量**：即使低碳水的堅果，也需注意份量，避免過量。  
+3. **搭配其他食物**：若食用花生或杏仁，需謹慎計算總碳水攝取量。  
+
+---
+
+### 健康建議  
+1. 飲食者每日應將碳水化合物攝取控制在20-50克之間。  
+2. 避免過度攝取高碳水堅果（如花生、杏仁）。  
+3. 可優先選擇低碳水的堅果，如山核桃，並注意份量控管。  
+
+---
+
+### 結論  
+- 堅果在酮飲食中雖有益，但需謹慎挑選擝取量。  
+- 選擇低GI、低碳水的堅果品種，並避免過度攝取，以維持酮飲食的效果。
 </details>
 
 <details>
-<summary>3430. Breaking Old Bad Habits: Part 1</summary><br>
+<summary>3430. [2021-04-26] Breaking Old Bad Habits: Part 1</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Ol3cYzeC1FM" target="_blank">
     <img src="https://img.youtube.com/vi/Ol3cYzeC1FM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 1. 核心主題  
+- 談論不良飲食習慣（尤其是碳水化合物攝取過量）及其對身體和心理健康的影響。  
+- 探讨如何打破這些壞習慣，提升健康水平。
+
+#### 2. 主要觀念  
+- 坏習慣通常始於愉悅感，但最終導致不適甚至痛苦。  
+- 碳水化合物的攝取可能引發成癮-like行為，主要涉及 dopamine 和 serotonin 的神經傳導。  
+- 長期食用精緻碳水化合物會影響神經伝導，使人對其產生依賴。
+
+#### 3. 問題原因  
+- 不良飲食習慣的形成：  
+  - 短期愉悅感（如壓力 relief、焦躁紓解）。  
+  - 長期依賴導致身體和心理上的成癮。  
+- 碳水化合物成癮的原因：  
+  - 精緻碳水化合物會干擾神經傳導，降低 Dopamine 和 Serotonin 的敏感度。  
+  - 反復攝取後，身體產生耐受性，需要更高的劑量來獲得相同的愉悅感。
+
+#### 4. 解決方法  
+- **心理層面**：  
+  - 提升改變的意願（將其評估為 0-10 分）。  
+  - 認清壞習慣的短期樂趣與長期痛苦之間的權衡。  
+- **行為層面**：  
+  - 改變環境：移除誘惑物（如Ice cream），並創造不易誘發壞習慣的環境。  
+  - 替代食物：用健康的低碳水化合物甜點取代精緻碳水化合物。  
+- **生理層面**：  
+  - 增加膳食脂肪攝取：有助於延長飽腹感，降低 cravings。  
+  - 补充B vitamins（特別是 B1）：促進神經傳導功能，緩解成癮症狀。
+
+#### 5. 健康建議  
+- **飲食調整**：  
+  - 減少精緻碳水化合物攝取，增加健康脂肪和蛋白質的攝取。  
+  - 選擇如杏仁醬、水果等更健康的零食取代傳統高糖高鹽食品。  
+- **心理調適**：  
+  - 誤解 cravings 的來源，避免因短期不適而放棄改變。  
+  - 學會管理壓力和情緒，尋找非食物的紓壓方式（如運動、冥想）。  
+- **環境控制**：  
+  - 避免社交和媒介中的誘惑（如電視廣告、朋友的不良影響）。  
+
+#### 6. 結論  
+- 坏習慣的形成有其複雜性，但通過有意識的決策和行為改變，可以逐步擺脫依賴。  
+- 改善飲食結構、增強免疫力 和 調整心理狀態 是打破壞習慣的關鍵步驟。
 </details>
 
 <details>
