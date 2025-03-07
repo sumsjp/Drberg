@@ -213,8 +213,10 @@ def make_doc(filename: str, video_list: list):
     except Exception as e:
         print(f"❌ 製作文件失敗 {filename}: {str(e)}")
 
-def create_readme_doc(max_idx):
-    content = """# Drberg
+def create_readme_doc(max_idx, latest_date):
+    content = f"""# Drberg
+
+Latest: {latest_date}
 
 ---
 
@@ -274,7 +276,9 @@ def create_doc(df):
         
         print(f"📌 總共產生了 {num_batches} 個文件")
 
-        create_readme_doc(max_idx)
+        # 取得最新日期
+        latest_date = df['date'].iloc[-1]
+        create_readme_doc(max_idx, latest_date)
         
     except Exception as e:
         print(f"❌ 處理文件時發生錯誤：{str(e)}")

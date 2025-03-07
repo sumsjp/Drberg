@@ -1,5 +1,7 @@
 # Drberg
 
+Latest: 2025-03-05
+
 ---
 
 - [4701~4788](docs/47-index.md)
