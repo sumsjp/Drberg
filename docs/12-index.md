@@ -186,25 +186,126 @@
 </details>
 
 <details>
-<summary>1283. 13 Things That Spike Insulin – Causes of Insulin Resistance – Dr. Berg</summary><br>
+<summary>1283. [2018-01-15] 13 Things That Spike Insulin – Causes of Insulin Resistance – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=V28XNHWHxcc" target="_blank">
     <img src="https://img.youtube.com/vi/V28XNHWHxcc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題
+- **胰岛素的作用與副作用**：胰岛素在调节血糖中起重要作用，但过度分泌会导致胰岛素抵抗及其他健康问题。
+- **生活方式与饮食对胰岛素的影响**：通过调整饮食和生活习惯，可以有效控制胰岛素水平。
+
+#### 主要觀念
+1. **胰岛素的双重角色**：
+   - 胰岛素是调节血糖的重要激素。
+   - 过量胰岛素会导致胰岛素抵抗及其他代谢问题。
+
+2. **胰岛素抵抗的原因**：
+   - 高糖饮食、精制碳水化合物摄入过多。
+   - 频繁进食导致胰岛素分泌频繁。
+   - 不良脂肪（如氢化油）和转基因油的摄入。
+   - 某些药物（如类固醇、皮质醇、利尿剂、他汀类药物）的影响。
+
+3. **营养与矿物质平衡的重要性**：
+   - 矿物质（如钾、镁、钠、锌、铬）和维生素（如B1、维生素D、维生素A）的缺乏会增加胰岛素抵抗的风险。
+
+#### 問題原因
+- **饮食因素**：高糖、精制碳水化合物、氢化油和转基因油的摄入是导致胰岛素抵抗的主要原因之一。
+- **生活习惯**：频繁进食和不合理的蛋白质摄入（如过量或低脂蛋白质）会刺激胰岛素分泌。
+- **环境与药物影响**：某些药物（如类固醇、皮质醇、利尿剂、他汀类药物）和化学物质（如草甘膦）会增加胰岛素抵抗的风险。
+
+#### 解決方法
+1. **饮食调整**：
+   - 减少高糖食物（包括蜂蜜、果汁等）的摄入。
+   - 选择全谷物而非精制谷物，减少淀粉摄入。
+   - 增加健康脂肪的摄入，如橄榄油、坚果和鱼油，避免氢化油和转基因油。
+   - 控制蛋白质摄入量，建议每餐3-6盎司。
+
+2. **生活习惯改善**：
+   - 采用间歇性禁食或减少进食频率以降低胰岛素分泌压力。
+   - 管理压力，避免长期处于应激状态。
+
+3. **补充营养素**：
+   - 补充钾、镁、钠、锌、铬等矿物质。
+   - 确保摄入足够的维生素B1、维生素D和维生素A。
+
+4. **药物与环境因素**：
+   - 避免不必要的皮质醇类药物的使用。
+   - 注意食品中MSG和其他添加剂的含量，选择天然食品。
+
+#### 健康建議
+- 采用均衡饮食，减少精制糖和碳水化合物的摄入。
+- 多摄入健康脂肪和优质蛋白质。
+- 补充必要的矿物质和维生素。
+- 避免使用可能引起胰岛素抵抗的药物。
+- 保持规律的生活习惯，适当运动。
+
+#### 結論
+通过调整饮食、生活习惯及补充必要的营养素，可以有效降低胰岛素抵抗的风险，从而改善整体健康状况。长期坚持这些措施，有助于预防代谢综合征和2型糖尿病等与胰岛素抵抗相关疾病的发生。
+
+### 具體行動建議
+
+1. **飲食調整**：
+   - 每餐控制碳水化合物的摄入量，選擇低GI食物。
+   - 增加健康脂肪的攝取，如 walnut, avocado, olive oil 等。
+   - 控制蛋白質攝取量，在3-6盎司之間。
+
+2. **生活習慣改善**：
+   - 開始進行間歇性禁食，例如每日進食時間限制在8小時內。
+   - 每周至少進行150分鐘的中等強度運動，幫助降低胰島素抵抗。
+
+3. **營養補充**：
+   - 檢查目前飲食中的礦物質和維生素攝取量，必要時購買市售補充劑。
+   - 确保每日攝取足夠的 Vitamin B1、Vitamin D 和 Vitamin A。
+
+4. **藥物與環境管理**：
+   - 與醫生討論正在使用的藥物，是否有其他替代方案。
+   - 避免食用含MSG及其他化學添加劑的食物，選擇天然食品。
 </details>
 
 <details>
-<summary>1282. Additional Functions of Insulin (Beyond Lowering Blood Sugar) – Dr. Berg</summary><br>
+<summary>1282. [2018-01-14] Additional Functions of Insulin (Beyond Lowering Blood Sugar) – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=V1oQh-3pbqY" target="_blank">
     <img src="https://img.youtube.com/vi/V1oQh-3pbqY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題
+- 胰島素的功能超越降低血糖，涉及多個生理過程。
+
+#### 主要觀念
+1. **糖分储存**：胰島素將糖分儲存為肝臟和肌肉中的糖原。
+2. **脂質合成**：胰島素促進糖分轉化為膽固醇、三酸甘油酯，並增加脂肪的生成。
+3. **脂肪囤積與代謝抑制**：胰島素是最有效的 fat-making 濕潤，抑制脂肪燃燒。
+4. **細胞燃料供應**：提供細胞能量來源（ATP）。
+5. **蛋白質合成**：促進肌肉、毛髮等蛋白質的生成。
+6. **礦物質吸收**：幫助吸收鉀、鋅和鎂等 mineral。
+7. **血管功能**：維持動脈 tonus，過高胰島素與高血壓相關。
+
+#### 問題原因
+1. **胰島素抗性**：因過多或錯誤的 insulin 导致 inefficiency，影響蛋白質吸收。
+2. **糖尿病**：高胰岛素血症但功能失常，導致肌肉和膠原蛋白流失。
+3. **代謝紊亂**：胰島素水平失衡干擾新陳代謝過程。
+
+#### 解決方法
+1. **飲食調整**：避免誘發過多胰島素的食物，選擇健康食品。
+2. ** intermittent fasting**：促進自噬作用（Atopic G），幫助細胞 Recycling。
+3. **維持正常胰島素水平**：避免過度使用或抗性。
+
+#### 健康建議
+1. 適當控制血糖和胰岛素水平。
+2. 通過飲食和生活方式改善胰島素敏感性。
+3. 確保足夠的礦物質攝取，以支持胰島素功能。
+
+#### 結論
+胰島素的功能多樣化，影響糖、脂質、蛋白質和 mineral 的代謝。過高的胰岛素水平或抗性會導致肥胖、心臟病和其他健康問題。因此，平衡胰島素水平是維護整體健康的关键。
 </details>
 
 <details>
@@ -219,58 +320,274 @@
 </details>
 
 <details>
-<summary>1280. Ideal Protein Diet vs. Healthy Keto Diet & Intermittent Fasting – Dr. Berg</summary><br>
+<summary>1280. [2018-01-13] Ideal Protein Diet vs. Healthy Keto Diet & Intermittent Fasting – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_5c1vAiPsYc" target="_blank">
     <img src="https://img.youtube.com/vi/_5c1vAiPsYc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小芻節整理
 
+#### 核心主題
+1. 比較酮飲食（Keto）、間歇性禁食與理想蛋白飲食（Ideal Protein）的效果。
+2. 强調健康飲食的重要性，而非單純追求減重。
+
+---
+
+#### 主要觀念
+1. 酮飲食和間歇性禁食相結合的優點：
+   - 低碳水化合物特性促進减重。
+   - 更注重整體健康，而非短期減重。
+2. 理想蛋白飲食的主要缺點：
+   - 依賴低品質的蛋白質來源（如大豆分離蛋白）。
+   - 高人工添加物和合成成分，可能對健康造成負面影響。
+3. 蛋白質來源對胰島素水平的影響：
+   - 低脂蛋白質會刺激胰岛素分泌。
+   - 高脂肪蛋白質更有利于血糖穩定。
+
+---
+
+#### 問題原因
+1. 理想蛋白飲食的缺陷：
+   - 使用低品質、非發酵的大豆蛋白，增加肝臟和膽囊負擔。
+   - 包裝食品中含有合成維生素、modified corn starch、textured wheat protein等低GI成分，可能導致胰島素波動。
+2. 頻繁進食和零食攝取的問題：
+   - 多餐制易引起胰岛素水平波動。
+   - 約束飲食后恢復不良飲食習慣，容易反彈。
+
+---
+
+#### 解决方法
+1. 採用酮飲食與間歇性禁食結合的方式：
+   - 降低餐次，增加禁食時間，穩定血糖和胰岛素水平。
+   - 選擇高品質、未加工的蛋白質來源（如整隻雞胸肉、肥瘦相間的肉類）。
+2. 提供營養建議：
+   - 強調攝取天然食物，避免市售加工食品。
+   - 確保蔬菜攝取量足夠，以補充維生素和 minerals。
+
+---
+
+#### 健康建議
+1. 選擇健康的飲食模式：
+   - 避免依賴蛋白質粉末和低品質加工食品。
+   - 採用高脂肪、低碳水化合物的飲食結構。
+2. 注意食物來源：
+   - 選擇非基因改造（Non-GMO）的食物。
+   - 減少人工添加物和合成甜味劑的攝取。
+
+---
+
+#### 結論
+1. 尽管理想蛋白飲食能在初期幫助減重，但其健康風險較高。
+2. 酮飲食結合間歇性禁食是更健康的選擇，既能减重又能維持整體健康狀態。
+3. 强調飲食的可持續性和食物品質的重要性。
 </details>
 
 <details>
-<summary>1279. The Big Difference Between Gallstones & Kidney Stones – Dr. Berg</summary><br>
+<summary>1279. [2018-01-13] The Big Difference Between Gallstones & Kidney Stones – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3hQ-KRFjSc0" target="_blank">
     <img src="https://img.youtube.com/vi/3hQ-KRFjSc0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章要點整理
 
+#### 核心主題  
+- 区分膽固醇結石（golf stones）和腎结石（kiddie stones），並探討其成因及預防方法。
+
+---
+
+#### 主要觀念  
+1. **膽固醇結石**：  
+   - 成因：膽汁中缺乏足夠的 bile，無法有效溶解脂肪，導致膽固醇沉積形成結石。  
+   - 風險因素：高碳水化合物攝取、高胰島素水平。  
+
+2. **腎结石**：  
+   - 成分：主要由 calcium oxalate 或 uric acid 晶體組成。  
+   - 風險因素：.metabolic acidosis（代謝性酸中毒）或遺傳因素。
+
+---
+
+#### 問題原因  
+1. **膽固醇結石的原因**：  
+   - 高碳水化合物飲食導致胰島素水平升高，增加膽固醇結石風險。  
+   - 飲食中攝取過多的飽和脂肪會降低膽汁分泌，增加結石形成機率。  
+
+2. **腎结石的原因**：  
+   - 體內酸鹼平衡失衡（pH 值過低），促使其尿酸或草酸鹽結晶。  
+
+---
+
+#### 解決方法及健康建議  
+1. **預防膽固醇結石**：  
+   - 低碳水化合物飲食：限制糖分攝取，降低胰島素水平。  
+   - 適當攝取饱和脂肪：避免過量，以維持正常膽汁分泌。  
+   - 中等份量蛋白質：每日攝取 3-6 盎司（約 85-170 克），避免胰島素_spike。  
+   - 增加蔬菜攝取：促進肝臟健康，幫助膽固醇代謝。  
+
+2. **預防腎结石**：  
+   - 擸檬汁攝取：常規飲用，利用 citrate 與 oxalate 中和，降低結石風險。  
+   - 补充 potassium citrate：調整 pH 值，防止酸性環境下的尿酸結晶。  
+   - 保持蔬菜攝取：蔬菜中的鹼性物質有助於改善 acidosis。  
+
+3. **針對低碳水化合物或間歇性禁食的建議**：  
+   - 注意尿酸結石風險增加，可使用檸檬汁和 potassium citrate 調節 pH 值。  
+
+---
+
+#### 結論  
+- 適當飲食控制（如低碳水化合物、適量蛋白質、高蔬菜攝取）可以有效降低膽固醇結石和腎结石的風險。  
+- 擔固醇結石與腎结石的成因不同，需針對其機制采取相應預防措施。  
+- 食物中的酸鹼平衡對於結石預防具有重要影響，建議通過飲食調整來維持健康pH值。
 </details>
 
 <details>
-<summary>1278. The Effects of High Blood Sugar on Arteries – Dr. Berg on Arteriosclerosis & Atherosclerosis</summary><br>
+<summary>1278. [2018-01-12] The Effects of High Blood Sugar on Arteries – Dr. Berg on Arteriosclerosis & Atherosclerosis</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Y6CY5KqK1pE" target="_blank">
     <img src="https://img.youtube.com/vi/Y6CY5KqK1pE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 一、核心主題  
+- 高血糖對血管系統的危害及其引發的並發症。  
 
+### 二、主要觀念  
+1. **高血糖對血管的影響**：  
+   - 高血糖導致動脈壁增厚（arterial sclerosis），失去彈性，增加血壓。  
+   - 动脉粥樣硬化（atherosclerosis）：血液中膽固醇、蛋白質和鈣質在動脈內壁積累，形成斑塊，阻塞血管。  
+
+2. **糖尿病患者的並發症風險**：  
+   - 糖尿病患者因高血糖導致動脈粥樣硬化的風險較一般人高三到四倍。  
+   - 常見併發症包括心臟疾病和周圍血管疾病（如足部潰瘍、水腫等）。  
+
+### 三、問題原因  
+- 高血糖直接損害微小血管，導致血管壁增厚和蛋白質沉積，最終引發動脈粥樣硬化。  
+- 病因與胰島素抵抗或高胰島素血症相關，影響血管功能。  
+
+### 四、健康建議  
+1. **血糖控制**：  
+   - 通過飲食調整、運動和藥物治療降低血糖水平，改善胰島素敏感性。  
+
+2. **生活方式 modification**：  
+   - 確保定期監控血糖，並遵循醫生的建議進行治療。  
+   - 減少精制糖和高碳水化合物攝取，選擇低GI食物以穩定血糖。  
+
+3. **定期檢查**：  
+   - 定期評估血管健康，包括血壓、血脂水平和足部檢查，早期發現並發症。  
+
+### 五、結論  
+- 高血糖是動脈粥樣硬化和相關併發症的關鍵因素。  
+- 糖尿病患者需積極控制血糖，通過綜合治療降低血管疾病風險。  
+- 健康飲食和規律運動可有效改善胰島素抵抗，預防並發症。
 </details>
 
 <details>
-<summary>1277. The Effects of High Blood Sugar On Nerves – Dr. Berg</summary><br>
+<summary>1277. [2018-01-11] The Effects of High Blood Sugar On Nerves – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HemhTNam580" target="_blank">
     <img src="https://img.youtube.com/vi/HemhTNam580/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Key Points from the Article
 
+#### Core Theme:
+The impact of high blood sugar on nerve function, leading to various complications.
+
+#### Main Concepts:
+- **Types of Nerves Affected**:
+  - **Motor Nerves**: These nerves control muscle movement. Damage can result in weakness, muscle atrophy, or paralysis.
+  - **Sensory Nerves**: These nerves are responsible for sensation. Damage may cause numbness, burning sensations, pins and needles, or leg pain, particularly at night due to peripheral nerve involvement.
+  - **Autonomic Nerves**: These nerves regulate functions of glands and organs. Damage can lead to conditions such as impotence, urinary retention, or drooping eyelids (due to muscle weakness around the eyes).
+
+- **Mechanism of Damage**:
+  - High blood sugar leads to damage of blood vessels supplying nerves.
+  - This results in decreased oxygen supply to nerves and destruction of nerve tissue or its myelin sheath.
+
+#### Causes of Nerve Damage:
+- Chronic high blood sugar levels contribute to oxidative stress and advanced glycation end products, which impair nerve function.
+- Depletion of B vitamins (B12, B1, B6, B5) exacerbates神经损伤.
+
+#### Solutions and Health Recommendations:
+1. **Dietary Interventions**:
+   - Adopt a ketogenic diet to stabilize blood sugar levels.
+   - Practice intermittent fasting to improve insulin sensitivity.
+
+2. **Vitamin Supplementation**:
+   - Ensure adequate intake of B vitamins, as they are crucial for nerve function and myelin maintenance.
+   - Consider nutritional yeast or other dietary sources rich in B vitamins.
+
+3. **Lifestyle Modifications**:
+   - Monitor and manage blood sugar levels through regular medical check-ups.
+   - Incorporate stress reduction techniques to mitigate oxidative stress.
+
+#### Conclusion:
+High blood sugar can lead to significant nerve damage, affecting motor, sensory, and autonomic functions. Addressing this condition requires a combination of dietary changes, vitamin supplementation, and lifestyle modifications. Early intervention is crucial to prevent further complications and improve quality of life.
 </details>
 
 <details>
-<summary>1276. Amazing Health Benefits of Turmeric – Dr. Berg</summary><br>
+<summary>1276. [2018-01-11] Amazing Health Benefits of Turmeric – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=d4valTqhkrc" target="_blank">
     <img src="https://img.youtube.com/vi/d4valTqhkrc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：Turmeric（薑黃）的功效與健康益處
 
+#### 主要觀念：
+1. **活性成分**：Turmeric的主要活性成分是Curcumin。
+2. **多重功效**：Turmeric具有抗炎、促進減重、改善皮膚健康、提升認知功能和改善心情等多種健康功效。
+
+#### 問題原因：
+1. **炎症**：炎症是導致許多慢性疾病的根源，包括肥胖和代謝症候群。
+2. **胰島素抵抗**：胰島素抵抗是從前期糖尿病發展為糖尿病的重要步驟。
+3. **β細胞功能障礙**：胰腺中的β細胞負責分泌胰島素，其功能障礙會影響血糖調控。
+
+#### 解決方法：
+1. **Curcumin的作用機制**：
+   - 保護並可能再生胰腺中的β細胞，改善胰島素分泌。
+   - 提升 insulin sensitivity，防止胰島素抵抗。
+2. ** diet integration**：將Turmeric融入日常飲食或作為補充劑攝取。
+
+#### 健康建議：
+1. **飲食建議**：
+   - 將Turmeric加入食物中，如咖哩、湯類或醬料。
+   - 考慮搭配黑胡椒（Pepper）以增強Curcumin的吸收效果。
+2. **補充劑攝取**：可作為每日營養補充的一部分，但需遵醫囑。
+
+#### 結論：
+- Turmeric因其富含Curcumin，提供多方面的健康益處，特別是在抗炎、改善血糖調控和提升整體 wellness 方面。
+-  integration of Turmeric into one's diet or via supplements can significantly contribute to overall health and well-being.
+
+---
+
+### 核心主題：新書推介《New Body Type Guide》
+
+#### 主要觀念：
+1. **內容升級**：新版《New Body Type Guide》相比上一版《The Seven Principles of Fat Burning》，在圖片和章節上有顯著提升。
+2. **新增特色**：
+   - 156張圖片，378頁，附有完整的GLOSSARY。
+   - 新增壓力章節、詳細的身體類型分析、.INTERMITTENT fasting 論述以及 comprehensive FAQ。
+
+#### 問題原因：
+1. **信息需求**：讀者希望獲得更全面、更詳細的健康和健身指南。
+2. **更新需求**：隨著健康研究的進展，舊版書籍可能無法涵蓋最新發現。
+
+#### 解決方法：
+1. **版本升級**：提供一本更具綜合性和深度的新書，滿足讀者的 advanced knowledge需求。
+2. **資源豐富**：通過大量圖片和GLOSSARY 提供更好的學習體驗。
+
+#### 健康建議：
+1. **閱讀指南**：鼓勵讀者根據個人身體類型和目標選擇適合的飲食和運動計劃。
+2. **壓力管理**：利用書中提供的壓力管理策略，提升整體健康水平。
+
+#### 結論：
+- 《New Body Type Guide》是一本綜合性強、內容豐富的健康指南，適合希望深入了解脂肪燃燒原理、身體類型分析以及壓力管理的讀者。
+- 適當參考本書之內容，可幫助讀者制定更有效的健康管理策略。
 </details>
 
 <details>
@@ -296,36 +613,148 @@
 </details>
 
 <details>
-<summary>1273. How to Prevent Kidney Stones on Intermittent Fasting (if you are susceptible) – Dr. Berg</summary><br>
+<summary>1273. [2018-01-09] How to Prevent Kidney Stones on Intermittent Fasting (if you are susceptible) – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=jfnrtPWz_7E" target="_blank">
     <img src="https://img.youtube.com/vi/jfnrtPWz_7E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 調理腎臟健康與處理腎结石的方法。
 
+### 主要觀念
+- 在進行低碳水化合物飲食（如生酮 diet）或間歇性禁食時，某些人可能增加腎结石形成的風險。
+- 使用特定的草本茶來促進腎臟清潔和防止结石形成。
+
+### 問題原因
+- 低血糖飲食（如生酮 diet）或間歇性禁食可能导致代謝變化，增加了腎臟負擔，使某些人更容易形成结石。
+
+### 解決方法
+1. **使用石breaker茶**：
+   - 學名：*Tribulus Terrestris*
+   - 功效：幫助軟化结石，促使其鬆散並容易排出。
+   - 來源：.amazon雨林
+2. **使用蒲公英茶**：
+   - 功效：作為溫和的排毒劑，對肝臟和腎臟有清潔作用。
+   - 創作方法：將茶包浸泡約20分鐘，濃度更高。建議每日攝取量為16至20盎司。
+
+### 健康建議
+- 在進行任何形式的斷食或飲食計劃時，應該監測腎臟健康，特別是那些可能增加结石風險的人。
+- 定期使用上述草本茶進行腎臟清潔，可幫助清除腎臟中的沉積物，並防止结石形成。
+
+### 結論
+- 使用石breaker茶和蒲公英茶的組合，是一種自然且有效的方式來促進腎臟健康，特別是在低血糖飲食或間歇性禁食的情況下。
+- 持續使用此方法約一至兩個月，可顯著改善腎臟功能並預防结石。
 </details>
 
 <details>
-<summary>1272. The Biggest Reason To Eat Organic Meats On Ketogenic Diet – Dr. Berg</summary><br>
+<summary>1272. [2018-01-08] The Biggest Reason To Eat Organic Meats On Ketogenic Diet – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=2nNwET7YPVo" target="_blank">
     <img src="https://img.youtube.com/vi/2nNwET7YPVo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：有機肉與ventional Meat（ traditional meat）在酮飲食或斷食中的健康影響
 
+---
+
+#### 主要觀念：
+1. **有機肉的優勢**：
+   - 有機肉不含有抗生素和外源性生長激素（如rBGH、Serrano）。
+   - 避免了合成化學物質對健康的潛在危害。
+
+2. **傳統家禽的問題**：
+   - 使用抗生素和生長激素可能導致健康風險，包括癌症。
+   - 生長激素（如Serrano）具有極高的類固醇活性，可干擾内分泌系統並促進疾病發展。
+
+3. **有機肉的營養優勢**：
+   - 增加omega-3脂肪酸含量（+47%）。
+   - 提高α-乳酸（ALA，一種健康脂肪酸）含量（+64%）。
+   - 增加共轭亞油酸（CLA，一種健康脂肪）含量（+41%）。
+
+---
+
+#### 問題原因：
+- **傳統家禽的問題**：
+  - 使用抗生素導致抗藥性微生物的滋生。
+  - 生長激素和農藥殘留可能干擾荷爾蒙平衡並增加癌症風險。
+
+---
+
+#### 解決方法：
+1. 選擇有機肉類以避免不必要的化學物質攝入。
+2. 尽量選擇grass-fed（草饲）家禽，進一步提升營養價值。
+
+---
+
+#### 健康建議：
+- 在酮飲食或斷食中，優先選擇有機肉類以確保食品安全和更高的營養密度。
+- 縮少食用傳統家禽的頻率，避免長期暴露於有害化學物質。
+
+---
+
+#### 結論：
+- 有機肉在避免有害添加劑和提升營養素含量方面具備顯著優勢。
+- 選擇有機肉是保障健康的重要步驟，尤其是在追求酮飲食或斷食效果時。
 </details>
 
 <details>
-<summary>1271. Weight Watchers vs Keto - Who is The Ultimate Winner? – Dr. Berg</summary><br>
+<summary>1271. [2018-01-08] Weight Watchers vs Keto - Who is The Ultimate Winner? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=2lTSvNt_hZo" target="_blank">
     <img src="https://img.youtube.com/vi/2lTSvNt_hZo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 比較健康酮osis（生酮飲食）與Weight Watchers Diet的優缺點。
+- 探讨低卡路里 diets 的影響，特別是其對代謝和健康的長期效果。
 
+### 主要觀念
+1. **健康至上的理念**：
+   - 建議先關注整體健康，而非單純追求減重。
+2. **Weight Watchers的缺點**：
+   - 遇見的核心問題：過度強調卡路里計算和短期減重，忽略健康的飲食結構。
+3. **營養成分分配的爭議**：
+   - Weight Watchers推薦的脂肪攝取量（20%-35%）較低，而倡導者建議增加脂肪攝取以降低碳水化合物的比例。
+4. **食物選擇的影響**：
+   - 推薦食用五份水果和蔬菜，但過度依賴高糖水果可能導致胰島素抗性。
+5. **飲食模式的效果**：
+   - 促進少量多餐和零食攝取，可能刺激胰島素分泌，不利於長期健康。
+
+### 問題原因
+1. **低卡路里 diet的副作用**：
+   - 破壞代謝率，導致代謝減慢。
+2. **食物品質不佳**：
+   - 過度依賴加工食品、人造甜味劑和反式脂肪。
+3. **飲食結構不合理**：
+   - 高碳水化合物和低脂肪的組合可能引起血糖波動和胰島素抵抗。
+
+### 解決方法
+1. **優先健康而非減重**：
+   - 採取酮osis（生酮飲食）等更注重營養均衡的飲食方式。
+2. **調整 питания成分分配**：
+   - 增加健康脂肪攝取，降低碳水化合物比例，以穩定血糖和胰島素水平。
+3. **選擇高質量食物**：
+   - 依賴新鮮蔬菜、健康脂肪和足夠的蛋白質來維持營養均衡。
+4. **避免過度依賴加工食品**：
+   - 減少人造甜味劑和反式脂肪的攝取，優先選擇天然食品。
+
+### 健康建議
+1. **飲食結構調整**：
+   - 採取低碳水化合物、高蛋白質和高脂肪的飲食模式。
+2. **控制碳水來源**：
+   - 限制精製糖和高果糖水果的攝取，以避免胰島素抵抗。
+3. **增加健康脂肪攝取**：
+   - 選擇橄欖油、坚果等健康脂肪來源，以提供持久的能量和穩定血糖。
+4. **逐步調整飲食習慣**：
+   - 減少對加工食品的依賴，逐步轉向更健康的飲食選擇。
+
+### 結論
+- Weight Watchers Diet 遇見核心問題在於其低卡路里和高碳水化合物的飲食結構，導致短期減重但長期不利健康。
+- 生酮飲食（ketosis diet）等注重營養均衡和代謝健康的飲食方式更適合長期維持健康和穩定的減重效果。
 </details>
 
 <details>
