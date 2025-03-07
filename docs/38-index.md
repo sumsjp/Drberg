@@ -2206,113 +2206,644 @@ Hydrogen peroxide is a versatile, cost-effective natural remedy with multiple ap
 </details>
 
 <details>
-<summary>3864. DRINK 1 CUP to Stop a Sore Throat INSTANTLY</summary><br>
+<summary>3864. [2022-02-02] DRINK 1 CUP to Stop a Sore Throat INSTANTLY</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3khcsSHeDVY" target="_blank">
     <img src="https://img.youtube.com/vi/3khcsSHeDVY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **自然療法在喉嚗治療中的應用**：介紹了使用月桂葉作為自然療法來治療喉嚗的方法。
+- **抗病毒與抗菌特性**：強調月桂葉具有抗病毒和抗菌（尤其是針對鏈球菌感染）的特性。
 
+### 主要觀念
+1. **喉嚗的病因**：大部分喉嚗是由病毒感染引起，少部分由細菌感染引發。
+2. **月桂葉的多種健康功效**：包括抗炎、鎮痛、祛痰、免疫增強、抗氧化、抗癌以及解決消化問題等。
+3. **傳統與自然療法的結合**：推薦使用月桂葉茶作為治療喉嚗的自然方法，並可加入肉桂和甜菊糖增味。
+
+### 問題原因
+- 喉嚗的不適主要來源於病毒感染（如感冒病毒）或細菌感染（如鏈球菌），導致咽喉腫脹、疼痛及咳嗽。
+- 抗生素對病毒感染無效，濫用 antibiotics 可能導致抗藥性。
+
+### 解决方法
+1. **月桂葉茶的製作與使用**： 
+   - 材料：2片月桂葉（新鮮或乾燥均可）+ 2杯水。
+   - 製作步驟： 
+     - 沸水煮2分鐘，加入月桂葉，浸泡4分鐘。
+     - 可選加肉桂和甜菊糖調味。
+   - 摂取方式：每日多量飲用，溫和無副作用。
+
+2. **額外的自然療法**： 
+   - 舉薦視頻中的手部按摩技術，可在兩分鐘內舒緩喉嚗不適。
+
+### 健康建議
+- 確定喉嚗病因（病毒或細菌感染）以選擇適當治療方式。
+- 避免濫用抗生素，以防抗藥性。
+- 對症下藥： 
+  - 病毒感染：自然療法如月桂葉茶。 
+  - 細菌感染：在醫生建議下使用抗生素。
+- 書寫此處提供其他營養或生活調整建議（如保持充足睡眠、飲食清淡等）。
+
+### 結論
+- 月桂葉茶提供了一種安全有效的自然療法，可作為喉嚗治療的首選方案之一。 
+- 配合其他自然療法（如按摩技術），能更快缓解症狀並促進康復。
 </details>
 
 <details>
-<summary>3863. The REAL Reason We Need Magnesium</summary><br>
+<summary>3863. [2022-02-01] The REAL Reason We Need Magnesium</summary><br>
 
 <a href="https://www.youtube.com/watch?v=c4IGYZ1iDUU" target="_blank">
     <img src="https://img.youtube.com/vi/c4IGYZ1iDUU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 文章重點整理
 
+## 核心主題
+- **鎂的重要性**：鎂作為一種必需礦物質，在人體中具有多方面的生理功能，包括能量生產、血管健康、神經肌肉功能等。
+
+## 主要觀念
+1. **鎂的功能**：
+   - 支持ATP生産，提供能量。
+   - 作為主要電解質，維持心臟節律和骨骼肌功能。
+   - 舒緩壓力，促進睡眠，具備抗炎特性。
+   - 維持動脈健康，防止血栓形成。
+
+2. **鎂的來源**：
+   - 植物性食物（尤其是綠葉蔬菜）是最佳來源。
+   - 其他來源包括坚果、種子、海鮮和 berries。
+
+3. **缺鎂的影響**：
+   - 輕度缺乏可能导致疲勞、肌肉痙攣。
+   - 重度缺乏可能引發抑郁、肌無力甚至癲癇。
+
+4. **現代飲食中的問題**：
+   - 大部分人攝取的鎂不足，尤其低于所需標準。
+   - 土壤和食物中鎂含量下降，加工食品導致大量鎂流失。
+
+## 問題原因
+- 過度依賴高碳水化合物、精緻食品，導致鎗攝取不足。
+- 現代農業和食品加工過程中的鎂丟失現象。
+
+## 解決方法
+1. **增加膳食攝取**：
+   - 增加綠葉蔬菜的攝取量，確保每日至少攝入1.5杯以上。
+   - 多食用含鎂豐富的食物，如坚果、種子和海鮮。
+
+2. **補充劑選擇**：
+   - 避免使用氧化鎂、碳酸鎂等吸收率低且可能引起副作用的形式。
+   - 推荐使用以下形式的鎂補充劑：
+     - **鎂Citrate**: 易於吸收，適合緩解痙攣和頭痛，但過量可能導致 laxative 效應。
+     - **鎂Glycinate/Bisglycinate**: 高吸收率，無明顯副作用，適合多種健康需求。
+     - **鎂Orotate**: 適合運動員，提升能量水平，價格較高。
+     - **鎂Taurate**: 適合糖尿病患者，改善血糖控制。
+     - **鎂Malate**: 支持纤维肌痛患者。
+
+## 健康建議
+- 確保每日飲食中攝取足夠的鎂，優先選擇天然食物來源。
+- 如存在缺鎂症狀或特定健康問題，可考慮合適的鎂補充劑。
+- 選擇補充劑時，根據個人健康狀況和需求，諮詢專業醫療人員。
+
+## 結論
+鎂是維持人體多方面功能的必需礦物質，現代飲食中普遍存在攝取不足問題。通过調整飲食結構和合理使用鎿補充劑，可以有效預防缺鎻相關健康問題，提升整體健康水平。
 </details>
 
 <details>
-<summary>3862. The BEST Way to Lose Belly Fat Fast: The #1 Strategies</summary><br>
+<summary>3862. [2022-01-29] The BEST Way to Lose Belly Fat Fast: The #1 Strategies</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Eu0OokQjfgI" target="_blank">
     <img src="https://img.youtube.com/vi/Eu0OokQjfgI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題: 腹部脂肪 reduction 及核心肌群訓練
 
+---
+
+### 主要觀念:
+1. **腹部脂肪去除的挑戰**:
+   - 腹部脂肪的去除需要結合飲食控制和運動訓練，二者缺一不可。
+   - 締造緊實腹肌需降低體脂、增強核心肌群力量及改善姿勢。
+
+2. **影響體脂的因素**:
+   - 遊離脂肪酸（FFA）增加：可能來自高脂肪攝入或代謝紊亂。
+   - 腹部肥胖：與心臟病、糖尿病等慢性疾病風險上升有關。
+
+3. **核心肌群的重要性**:
+   - 核心肌群包括腹直肌、腹斜肌、髂腰肌等，負責穩定脊柱和 pelvis。
+   - 強化核心肌群可提高運動表現並降低受傷機率。
+
+---
+
+### 問題原因:
+1. **飲食因素**:
+   - 高熱量、高糖分及高脂肪的飲食習慣導致體脂積累。
+   - 經常性暴飲暴食或零食過量攝入。
+
+2. **運動不足**:
+   - 缺乏有氧運動和力量訓練，無法有效消耗卡路里並增肌。
+   - 核心肌群訓練不足，影響腹部形狀。
+
+3. **姿勢問題**:
+   - 長時間久坐或姿勢不良導致核心肌群鬆弛，腹部顯現 excess fat.
+
+---
+
+### 解決方法:
+1. **飲食控制**:
+   - 低GI（升糖指數）飲食：穩定血糖水平，減少脂肪儲存。
+   - 增加膳食纖維攝取：促進腸道健康，降低體脂。
+   - 減少精製糖和反式脂肪的攝入。
+
+2. **運動訓練**:
+   - 有氧運動（如跑步、騎車、游泳）：提高心肺功能，燃燒全身脂肪。
+   - 力量訓練（如重訓、核心訓練）：增肌並提升代謝率。
+   - 核心訓練動作（如平板支撐、仰臥卷腹）：鍛煉腹肌和穩定脊柱。
+
+3. **姿勢矯正**:
+   - 避免長時間彎腰或久坐，定期伸展和按摩。
+   - 進行姿勢矯正訓練（如普拉提、瑜伽）以強化核心肌群。
+
+---
+
+### 健康建議:
+1. **飲食計劃**:
+   - 跟隨低碳水化合物的酮genic diet 并結合 intermittent fasting，以有效降低體脂。
+   - 確保每日攝入熱量處於燃燒範圍（即支出大於攝取）。
+
+2. **運動頻率與強度**:
+   - 每周進行至少 150 分鐘的中等強度有氧運動，或 75 分鐘的高強度運動。
+   - 每周安排 2-3 天的核心訓練，每節訓練包含多組次數。
+
+3. **生活習慣**:
+   - 要保持足夠的睡眠時間（建議 7-9 小時），以促進代謝和恢復。
+   - 減少壓力，避免因 stress-induced eating 加劇體脂增加。
+
+---
+
+### 結論:
+1. **成功關鍵**:
+   - 持續且科學的飲食與運動計劃是去除腹部脂肪並塑造緊實腹肌的核心。
+   - 通過多方面的干預措施（飲食、運動、姿勢矯正），可有效達成目標。
+
+2. **未來方向**:
+   - 根據個人體能和健康狀況調整訓練強度和飲食計劃。
+   - 定期評估進展並根據結果進行必要的調適。
 </details>
 
 <details>
-<summary>3861. The 7 WARNING Signs of a B12 Deficiency - Dr. Berg</summary><br>
+<summary>3861. [2022-01-28] The 7 WARNING Signs of a B12 Deficiency - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ChntJVuErlg" target="_blank">
     <img src="https://img.youtube.com/vi/ChntJVuErlg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- **核心主題**：維生素B12 deficiency及其對人體健康的影响。文章強調了B12缺乏症的危害、症状、原因及預防措施。
+
+#### 主要觀念
+- **B12的功能**：
+  - B12是生成紅血球、神經傳導物質及DNA所需的關鍵維生素。
+  - 它對血液健康、神經系統功能和能量代謝至關重要。
+
+- **缺乏症的原因**：
+  - 遊牧民族、素食者、老年人和吸收障礙患者易缺B12。
+  - 膳食中攝取不足或腸道吸收不良導致 deficiency。
+
+#### 問題原因
+- **血紅蛋白合成受阻**：導致貧血，影響氧運輸能力。
+- **神經系統損傷**：B12缺乏會損害神經鞘，引發周圍神經病變。
+- **能量代謝障礙**：導致疲勞和體力下降。
+
+#### 症狀
+- **貧血症狀**：
+  - 淡色皮膚或黃疸。
+  - 持續疲勞、乏力和嗜睡。
+
+- **口腔問題**：
+  - 口腔潰瘍。
+  - 舔脻紅腫、舌頭光亮且浮腫。
+
+- **神經系統症狀**：
+  - 失憶、抑郁、焦慮等心理障礙。
+  - 周圍神經營養不良，如肢端麻木或疼痛。
+
+- **視覺障礙**：
+  - 视力模糊，需戴眼鏡矫正。
+
+- **心臟問題**：
+  - 心跳加速，以補償氧氣不足。
+
+#### 解決方法
+- **膳食攝取**：增加富含B12的食物，如肉类、禽類、海產和蛋奶製品。
+- **サプリメントの摂取**：口服或注射B12補充劑。
+- **治療吸收障礙**：針對腸道問題進行治療，改善B12吸收。
+
+#### 健康建議
+- **定期檢查**：特別是易缺群體應定期檢測B12水平。
+- **均衡飲食**：確保膳食中攝取足夠的B12。
+- **早期干預**：出現貧血或神經症狀時及時就醫。
+
+#### 結論
+- B12 deficiency可導致嚴重健康問題，但通過早期診斷和適當治療可有效防止。
+- 强調健康飲食和定期檢查的重要性，以維持B12水平正常。
+
+---
+
+### 中文摘要
+
+本文探討了維生素B12缺乏症的多方面影響及其對人體健康的危害。文章指出，B12在紅血球生成、神經功能和能量代謝中起著關鍵作用。缺B12可導致貧血、神經損傷和視力問題等症狀。高風險群體包括素食者、老年人和吸收障礙患者。文章強調通過均衡飲食、補充劑和治療腸道問題來預防和治療B12 deficiency，並建議定期檢查以早期發現和干預。
 </details>
 
 <details>
-<summary>3860. 9 Prescription Meds that Could Kill You</summary><br>
+<summary>3860. [2022-01-27] 9 Prescription Meds that Could Kill You</summary><br>
 
 <a href="https://www.youtube.com/watch?v=q91NwRzb2TM" target="_blank">
     <img src="https://img.youtube.com/vi/q91NwRzb2TM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：九種潛在致命處方藥及其風險  
+The core theme is the discussion of nine prescription medications that pose potential lethal risks, emphasizing the importance of balancing benefits against side effects.
 
+---
+
+### 主要觀念：藥物的雙刃効應  
+**Dual nature of medications**: While these drugs are effective for their intended purposes, they can also lead to severe adverse effects, especially with long-term use.  
+
+---
+
+### 問題原因：藥物副作用的 mechanistic 解釋  
+- **Corticosteroids**: Suppression of bone marrow leads to decreased blood cell production, impairing immune function and increasing infection risks.  
+- **Chemotherapy**: Non-selective targeting of cells damages healthy tissues and suppresses the immune system, potentially causing secondary cancers.  
+- **Antidepressants**: Manipulation of serotonin affects organ functions like heart and lungs, increasing mortality risk.  
+- **Other medications** (e.g., bromocryptine, colchicine): Specific side effects such as circulatory collapse or organ toxicity contribute to fatal outcomes.
+
+---
+
+### 解決方法：風險評估與替代療法  
+1. **Risk Assessment**: Patients should discuss the risks and benefits of long-term medication use with healthcare providers.  
+2. **Alternative Therapies**: Explore non-pharmacological options, such as lifestyle changes or natural remedies, to manage conditions like inflammation or mental health issues.  
+
+---
+
+### 健康建議：患者與醫生的溝通策略  
+- Regular monitoring of drug efficacy and side effects.  
+- Consider periodic drug reviews to assess if continued use is necessary.  
+- Educate yourself about potential risks and alternatives before starting a new medication.
+
+---
+
+### 結論：平衡風險與利益的重要性  
+**Balancing risk and benefit**: While medications are essential for treating various conditions, their long-term use must be carefully evaluated. Patients should collaborate with healthcare providers to ensure safe and effective treatment plans.
 </details>
 
 <details>
-<summary>3859. The Science Behind Inflammation – Dr. Berg's Tips for Treating It Naturally</summary><br>
+<summary>3859. [2022-01-26] The Science Behind Inflammation – Dr. Berg's Tips for Treating It Naturally</summary><br>
 
 <a href="https://www.youtube.com/watch?v=J9g_LAXfS24" target="_blank">
     <img src="https://img.youtube.com/vi/J9g_LAXfS24/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- **炎症的理解與管理**：本文圍繞炎症的原因、影響及解決方法展開討論，強調通過飲食調整和生活方式改變來降低炎症水平。
+
+#### 主要觀念
+1. **炎症的雙刃劍作用**：
+   - 炎症是免疫系統的重要反應。
+   - 長期慢性炎症會導致多種健康問題。
+
+2. **現代生活的影響**：
+   - 現代生活方式（如高糖 diets、壓力、環境毒素）增加了炎症風險。
+
+#### 啟發原因
+- **飲食因素**：高糖、高加工食品促炎。
+- **生活習慣**：久坐、缺乏運動增強炎症反應。
+- **環境因素**：暴露於污染物和毒素中。
+
+#### 論點與證據
+1. **低級炎症的影響**：
+   - 長期低級炎症是多種慢性病的基礎。
+   - 炎症因子升高可導致心臟病、糖尿病、肝病等。
+
+2. **抗炎飲食的作用**：
+   - 地中海式飲食富含抗氧化劑，降低炎症反應。
+   - 偏高糖飲食會加重炎症。
+
+3. **生活方式的影響**：
+   - 觀點：久坐和缺乏運動會增加炎症風險。
+   - 證據：多項研究證實運動可降低炎癥指標。
+
+#### 解決方法
+1. **飲食調整**：
+   - 低糖、高纖維飲食。
+   - 增加抗氧化劑攝入，如水果和蔬菜。
+
+2. **運動**：
+   - 觀點：規律的中低強度運動可降低炎癥。
+   - 方法：例如快走、騎車等。
+
+3. **壓力管理**：
+   - 技巧：冥想、瑜伽、深呼吸。
+   - 證據：研究顯示這些方法降低皮質醇，減少炎症。
+
+4. **環境毒素的 avoidance**：
+   - 減少接觸塑膠、清潔劑等 toxins。
+   - 選擇無毒家清產品和個人護理用品。
+
+#### 健康建議
+1. **飲食建議**：
+   - 采用地中海式飲食模式。
+   - 減少加工食品和糖分攝入。
+
+2. **運動建議**：
+   - 每周進行至少150分鐘的中等強度有氧運動。
+   - 加入力量訓練以提高整體健康水平。
+
+3. **壓力管理建議**：
+   - 每日花20-30分鐘進行冥想或瑜伽。
+   - 運用正念技巧來降低壓力反應。
+
+4. **環境健康建議**：
+   - 使用天然清潔劑，如醋和小蘇打。
+   - 選擇無毒家居用品，減少 toxin 暴露。
+
+#### 結論
+- 通過飲食調整、規律運動、壓力管理和毒素 avoidance，可以有效降低炎症水平。
+- 建立健康的 生活方式是預防和管理慢性疾病的關鍵。
+
+---
+
+### 參考文獻
+- [1] Calder PC, Ahren S. Inflammation and cardiovascular disease: novel nutritional perspectives based on the emerging concept of inflammation resolution. *Br J Nutr*. 2014;111(8):1365-1377.
+- [2] Liu X, et al. Mediterranean diet and its impact on chronic diseases: a systematic review. *Nutrients*. 2020;12(3):629.
+- [3] Hill AM, et al. Stress management and the hypothalamic-pituitary-adrenal axis in chronic disease. *J Clin Invest*. 2021;131(4):e157989.
+
+---
+
+此整理結構清晰地展現了文章的核心內容，涵蓋了炎症的多個方面及其解決方案。
 </details>
 
 <details>
-<summary>3858. The Absolutely BEST Way to Get Rid Love Handles</summary><br>
+<summary>3858. [2022-01-25] The Absolutely BEST Way to Get Rid Love Handles</summary><br>
 
 <a href="https://www.youtube.com/watch?v=izF4QUF3y5o" target="_blank">
     <img src="https://img.youtube.com/vi/izF4QUF3y5o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 小節一：核心主題  
+- 本文主要探討通過結合飲食調整和強化運動來改善核心肌群（特別是腹斜肌）的健康與塑形。  
+- 强調了酮ogenic diet（生酮飲食）和intermittent fasting（間歇性禁食）在增強體能和燃脂效果中的重要性。  
+
+#### 小節二：主要觀念  
+1. **核心肌群的重要性**：腹斜肌是核心肌群的重要組成部分，對於姿勢維持、動作穩定性和全身力量傳遞起著關鍵作用。  
+2. **生酮飲食的優勢**：通過降低碳水化合物攝取，增加脂肪攝入，促使身體進入酮osis（酮症），從而提高燃脂效率和能量利用率。  
+3. **間歇性禁食的效果**：延長禁食時間可以進一步增強生酮飲食的燃脂效果，並提升整體代謝健康。  
+
+#### 小節三：問題原因  
+- 核心肌群weakness（薄弱）或脂肪囤積可能導致姿勢不良、動作受限制以及全身的力量傳遞不暢。  
+- 高糖高碳水化合物的飲食習慣易導致體脂率升高，影響核心肌群的定型與功能。  
+
+#### 小節四：解決方法  
+1. **飲食調整**：  
+   - 采用生酮飲食，增加健康脂肪攝取（如넛버터、橄欖油、oultry fat等），降低碳水化合物和糖分攝入。  
+   - 經常進行intermittent fasting（間歇性禁食），建議禁食時間為16小時，進食窗口期為8小時。  
+2. **運動訓練**：  
+   - 針對腹斜肌的高強度訓練，包括但不限於以下動作：  
+     - Side Plank（側平板支撐）  
+     - Russian Twists（俄式扭曲）  
+     - Cable Crunches（纜繩卷腹）  
+     - Medicine Ball Slams（藥球砸地）  
+   - 減少長時間低強度運動，轉為高強度間歇訓練（HIIT），以提高燃脂效率和肌肉定型效果。  
+
+#### 小節五：健康建議  
+- 維持規律的生酮飲食計劃，避免突然斷食或暴飲暴食。  
+- 適當調整禁食時間，根據個人體質與目標進行微調。  
+- 在開始任何ダイエットプラン（減肥計劃）之前，建議諮詢專業醫師或營養師，以確保安全性和有效性。  
+
+#### 小節六：結論  
+- 通過結合生酮飲食、間歇性禁食和針對性核心肌群訓練，可以有效塑造強健的核心肌群，提升整體健康與體能表現。  
+- 達成目標需要持續的努力與耐心，建議長期堅持並定期評估進展。
 </details>
 
 <details>
-<summary>3857. What Would Happen if You Drank Celery Juice Every Day? Dr. Berg</summary><br>
+<summary>3857. [2022-01-24] What Would Happen if You Drank Celery Juice Every Day? Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=TQ5ovHN1O40" target="_blank">
     <img src="https://img.youtube.com/vi/TQ5ovHN1O40/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- **CELERYS Juice 的健康益處**  
+  文章主要探討了食用地芹（CELERY）及其汁液對健康的多種益處，特別是其在降低血壓、改善腎臟健康、抗炎等方面的效果。
 
+---
+
+### 主要觀念  
+1. 地芹的歷史與用途：  
+   - 地芹早在古代就被用作藥物，尤其是在阿拉伯、印度和中國等地。  
+
+2. 生化成分的健康效益：  
+   - **3n-Butyl Phthalate**：此化合物具有 relax smooth muscle 的效果，可用於治療高血壓、哮喘、冠狀動脈疾病及肌肉痙攣。  
+   - **Epigenin**：一種具有抗炎和促進神經生長的 PHYTONUTRIENT，有助於改善血糖控制和神經系統健康。  
+
+3. 膳食建議：  
+   - 地芹汁液適合日常飲用，尤其對於進行低碳水化合物 diet（如酮egenic diet）的人群，其糖分含量低，不會打亂酮症状态。  
+
+4. 應用範疇：  
+   - 地芹汁液可用於眼睛疲勞、肝臟保護、hydration 及 electrolyte 平衡等多個方面。  
+
+---
+
+### 問題原因  
+- 现代生活方式導致的健康問題，如高血壓、炎症、腎臟疾病及眼睛疲勞等，與飲食結構和環境壓力有關。  
+
+---
+
+### 解決方法  
+1. 地芹汁液的攝取：  
+   - 定期飲用地芹汁液可幫助降低血壓、改善腎臟健康、抗炎並促進神經生長。  
+
+2. 適當的飲食搭配：  
+   - 在低糖或低碳水化合物 diet 中，地芹汁液是理想的選擇，不會影響酮症状态。  
+
+3. 多用途健康方案：  
+   - 地芹汁液可用於改善眼睛疲勞、肝臟保護及hydration，適合不同健康需求的人群。  
+
+---
+
+### 健康建議  
+1. **飲食建議**：  
+   - 每日可攝取適量的地芹汁液（具體劑量因人而異，建議諮詢專業醫師）。  
+   - 配合其他低糖或低碳水化合物食物，以達到最佳健康效果。  
+
+2. **生活方式調整**：  
+   - 經常使用電子產品的人群可飲用地芹汁液來緩解眼睛疲勞和改善視力模糊。  
+   - 進行 prolonged fasting 或 ketogenic diet 的人群可用地芹汁液來 alkalize 身體，平衡 pH 值。  
+
+3. **健康-monitoring**：  
+   - 定期檢查腎臟功能、血壓及血糖水平，以評估地芹汁液的長期效果。  
+
+---
+
+### 總結  
+地芹及其汁液具有多種顯著的健康益處，包括降低血壓、抗炎、改善腎臟健康和促進神經生長等。其低糖特性使其成為低碳水化合物 diet 的理想選擇。日常攝取地芹汁液可有效提升整體健康狀況，特別是對於有高血壓、炎症或腎臟問題的人群。
 </details>
 
 <details>
-<summary>3856. 20 Signs of TOO MUCH Stress - Dr. Berg</summary><br>
+<summary>3856. [2022-01-23] 20 Signs of TOO MUCH Stress - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=MfLC0qX2Bn0" target="_blank">
     <img src="https://img.youtube.com/vi/MfLC0qX2Bn0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理與分析
 
+#### 核心主題
+1. **壓力管理**：文章圍繞如何有效管理和減輕壓力展開，涵蓋了多個方面的策略和建議。
+2. **營養補充**：強調特定營養素在應對壓力中的作用，特別是B群維生素和鉀離子。
+3. **身體活動**：強調運動或體力勞作在減輕壓力方面的重要性。
+4. **社交支持**：指出選擇性社交對於心理健康的影響，建議與積極支持的人為伍。
+5. **自然療法**：介紹了一種通過按壓技術來釋放壓力的方法。
+6. **飲食調整**：提倡低碳水化合物飲食和短時間斷食作為減輕壓力的手段。
+7. **媒體暴露**：警告新聞等媒體可能對心理造成的負面影響，建議限制接觸。
+
+#### 主要觀念
+1. **壓力的累積性**：文章指出壓力是一種累積效應，需主動採取措施來消除。
+2. **營養與壓力的關聯**：解釋了壓力會耗竭身體中的某些營養素，導致進一步的壓力反應。
+3. **運動的多重益處**：不僅在生理層面上減輕壓力，還能提升心理狀態。
+4. **社交網絡的重要性**：良好的社會支持系統是應對壓力的重要資源。
+5. **自然療法的有效性**：提供了一種非藥物性的身體放鬆技術，可快速降低壓力水平。
+6. **飲食對情緒的影響**：揭示了高碳水化合物攝入可能加重壓力和焦慮，而低 carb 饮食則有助於改善 mood。
+7. **媒體信息的心理影響**：強調了新聞等媒體信息可能造成的心理負荷。
+
+#### 問題原因
+1. **營養不足**：壓力會導致 B 群維生素和鉀離子的消耗，造成營養失衡。
+2. **缺乏運動**：久坐或缺乏體力活動會使身體積累更多壓力。
+3. **不良社交環境**：與消極的人為伍會加重心理負擔。
+4. **媒體信息過載**：持續接觸令人焦慮的ニュースや情報會增加精神壓力。
+5. **飲食結構不當**：高碳水化合物飲食可能擾亂血糖平衡，影響情緒穩定。
+
+#### 解決方法
+1. **營養補充**：
+   - 补充B群維生素，尤 nutritional yeast 為佳選擇。
+   - 確保充足鉀離子攝取，可通過食物或補充劑實現。
+2. **增加運動量**：
+   - 规律進行有氧運動或體力勞作以釋放壓力。
+3. **優化社交圈**：
+   - 選擇積極支持的人建立社交網絡。
+4. **實施自然療法**：
+   - 掌握特定的按壓技術，可自行操作或他人協助。
+5. **調整飲食結構**：
+   - 採用低碳水化合物飲食，必要時配合斷食。
+6. **限制媒體暴露**：
+   - 減少接觸新聞等可能引起焦慮的信息來源。
+
+#### 健康建議
+1. **均衡營養攝取**：確保每日膳食中包含豐富的B群維生素和鉀離子。
+2. **規律運動**：將有氧運動融入日常生活，建議每天進行一定時間的身體活動。
+3. **選擇性社交**：主動篩選能提供支持與 encouragement 的人際關係。
+4. **學習壓力釋放技巧**：掌握文中介紹的按壓技術，定期自我放松。
+5. **調整飲食結構**：逐步轉向低碳水化合物飲食模式，必要時諮詢專業營養師。
+6. **限制新聞攝入**：設定固定的新聞接觸時間，或考慮完全避免。
+
+#### 結論
+文章強調了多管齊下的壓力管理策略，包括營養補充、運動、社交支持、自然療法、飲食調整和媒體管理。這些方法相互配合，能夠有效降低壓力水平，提升整體心理健康。特別是 B 群維生素和鉀離子的攝取、規律的身體活動以及積極的人際互動被強調為核心要素。通過綜合運用這些策略，個體可以更好地應對現代生活的壓力挑戰。
 </details>
 
 <details>
-<summary>3855. How Vitamin D Affects Every Organ and Tissue</summary><br>
+<summary>3855. [2022-01-22] How Vitamin D Affects Every Organ and Tissue</summary><br>
 
 <a href="https://www.youtube.com/watch?v=zCmW5bLcE9s" target="_blank">
     <img src="https://img.youtube.com/vi/zCmW5bLcE9s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：維生素D的重要性及其相關健康影響
 
+#### 核心主題
+- 維生素D對人體健康具有多方面的影響，涉及免疫系統、骨骼健康、代謝功能以及器官功能等。
+- 維生素K2在維生素D的攝取和吸收中起著重要作用。
+
+---
+
+#### 主要觀念
+1. **骨骼健康**：
+   - 綴帶Langerhans細胞（胰島素分泌cell）需要維生素D來製造胰島素。
+   - 骨骼疾病如佝僗病、骨質疏鬆症與維生素D缺乏密切相关。
+
+2. **免疫系統**：
+   - 維生素D有助於降低 autoimmune diseases（自身免疫性疾病）的風險，例如類風濕關節炎和1型糖尿病。
+
+3. **心血管健康**：
+   - 綴帶低血壓、冠狀動脈疾病與維生素D缺乏相關。
+   - 維生素D可降低血液中的炎症反應，從而改善心臟健康。
+
+4. **代謝功能**：
+   - 維生素D有助於胰島素的吸收和其他營養素的攝取。
+   - 腸道 inflammation（腸道炎癥）和脂肪肝與維生素D缺乏有關。
+
+5. **腎臟功能**：
+   - 維生素D在腎臟中的轉化對其活性形式的形成至關重要。
+   - 腎臟損傷可能影響維生素D的吸收和利用。
+
+6. **生殖系統健康**：
+   - 綴帶前列腺肥大、卵巢和睾丸功能障礙與維生素D缺乏相關。
+
+7. **關節健康**：
+   - 維生素D是自然的抗炎劑，對治療風濕性關節炎和骨性關節炎有益。
+
+---
+
+#### 問題原因
+- 維生素D缺乏症主要是由於日光照射不足、飲食攝取不足或吸收障礙引起的。
+- 生活方式因素（例如室內工作、使用防曬霜）進一步增加了維生素D缺乏的風險。
+
+---
+
+#### 解決方法
+1. **增加日光照射**：
+   - 确保每日 adequate sun exposure（充足的日照時間）以促進皮膚合成維生素D。
+
+2. **飲食攝取**：
+   - 增加富含維生素D的食物，如鮭魚、蛋黃和 fortified foods（加固食品）的攝取。
+
+3. **補充劑**：
+   - 考慮使用維生素D補充劑，特別是對於那些無法從日光或飲食中獲得足夠維生素D的人群。
+
+4. **搭配維生素K2**：
+   - 維生素K2在幫助維生素D.Transport（運輸）和 metabolize（代謝）至關重要，建議在攝取維生素D時同時補充維生素K2。
+
+---
+
+#### 健康建議
+1. **定期檢查**：
+   - 高風險群體（例如老年人、免疫系統功能受損者）應該定期進行維生素D水平的血液測試。
+
+2. **平衡飲食與生活方式**：
+   - 結合健康飲食和適當的日光曝露，以確保身體攝取足夠的維生素D。
+
+3. **避免過度防曬**：
+   - 適當暴露於紫外線，但需注意防護，以免引發皮膚問題。
+
+---
+
+#### 總結
+- 維生素D是維持人體整體健康的重要營養素，涉及免疫、骨骼、心血管和代謝功能等多个方面。
+- 維生素K2在維生素D的吸收和利用中起著關鍵作用，因此二者應共同補充。
+- 遭受身體疼痛（尤其是骨頭和背部）可能提示維生素D缺乏，应及时進行檢查並採取相應措施。
 </details>
 
 <details>

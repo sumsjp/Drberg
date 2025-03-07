@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 import random
+from dotenv import load_dotenv
 
 from lib.mytube import download_subtitle, get_video_list
 from lib.myai import get_summary
@@ -16,6 +17,10 @@ summary_dir = os.path.join(base_dir, 'summary/')
 docs_dir = os.path.join(base_dir, 'docs/')
 readme_file = os.path.join(base_dir, 'README.md')  
 csv_file =  os.path.join(base_dir, 'src/video_list.csv')
+
+sender_email = os.getenv('SENDER_EMAIL')
+sender_password= os.getenv('SENDER_PASSWORD')
+receiver_emails = ["mingshing.su@gmail.com", "sibuzu.ai@gmail.com"]
 
 def update_list():
     # === yt-dlp 參數設定 ===
