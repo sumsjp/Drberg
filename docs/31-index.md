@@ -3700,25 +3700,120 @@
 </details>
 
 <details>
-<summary>3132. Testosterone Therapy Spiking Estrogen? Why</summary><br>
+<summary>3132. [2020-11-04] Testosterone Therapy Spiking Estrogen? Why</summary><br>
 
 <a href="https://www.youtube.com/watch?v=amsr6TlEaIQ" target="_blank">
     <img src="https://img.youtube.com/vi/amsr6TlEaIQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **Testosterone Replacement Therapy (TRT) 的潛在副作用： estrogen 水平上升**
+- **低 testosterone（Low Testosterone, Low T）的原因與解決方法**
 
+### 主要觀念
+1. **Testosterone Replacement Therapy 的影響**：
+   - 尽管 TRT 用於提高男性睾酮水平，但其可能導致血液中雌二醇（estradiol）濃度上升。
+   - 雌激素過多會引發乳房組織增生及其他與雌激素 excess 相關的症狀。
+
+2. **低 testosterone 的常見症狀**：
+   - 头髮稀疏
+   - 身體毛髮減少，尤其是腿部毛髮 loss
+   - 陽痿（erectile dysfunction）
+   - 性欲降低（decreased libido）
+   - 肌肉量減少
+   - 血糖問題
+
+3. **低 testosterone 的潛在原因**：
+   - **Zinc deficiency**：锌是影響睾酮合成的重要微量元素，缺鎂可能导致 hypogonadism。
+   - 其他因素可能包括年龄、遺傳、生活方式等。
+
+### 問題原因
+- **Testosterone Replacement Therapy 的副作用**：
+  - 墮 excess estrogen 水平主要是因為脂肪細胞中的芳香酶（aromatase）將睾酮轉化為雌二醇，尤其在肥胖或超重個體中更為明顯。
+  
+- **低 testosterone 的主要原因**：
+  - 銅 deficiency 导致的 hypogonadism
+  - 年齡增長
+  - 不健康的生活方式（如缺乏運動、不良飲食習慣）
+  - 其他荷爾蒙失衡或醫療條件
+
+### 解決方法
+1. **針對低 testosterone 的自然療法**：
+   - **補充 Zinc**：通過飲食或補充劑增加锌攝取，以改善睾酮水平。
+   - **使用天然草本產品**：
+     - 芫荽（Fenugreek）
+     - 釣鐘蘭屬植物（Tribulus Terrestris）
+
+2. **管理 Testosterone Replacement Therapy 的副作用**：
+   - 定期監測血液中的激素水平，以避免 excess estrogen。
+   - 考慮生活方式的調整，如控制體重、增加運動量，以降低芳香酶活性。
+
+### 健康建議
+1. **飲食與營養**：
+   - 確保攝取足夠的锌來源，如牛肉、羊肉、豬肉、家禽、海鮮（特別是貝類）、豆類和種子。
+   - 保持均衡飲食，減少高糖、高脂食物的攝取。
+
+2. **運動習慣**：
+   - 定期進行力量訓練和有氧運動，以促進睾酮分泌並提高整體荷爾蒙平衡。
+
+3. **諮詢醫療專業人員**：
+   - 在開始任何激素治療或補充劑之前，應先諮詢醫生或其他合格的醫療提供者。
+   - 定期追蹤並評估療效及副作用。
+
+4. **心理與壓力管理**：
+   - 管理壓力，保持良好的心理狀態，因為壓力也会影响荷爾蒙水平。
+
+### 結論
+Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess estrogen 水平和相關的副作用。低 testosterone 的原因是多樣化的，其中 zinc deficiency 是一個重要的可矯正因素。通過補充锌、調整飲食和運動習慣等自然方法，可以有效提升睾酮水平並改善相應症狀。然而，在使用任何治療或補充方案之前，建議諮詢專業醫療人員以確保安全和效果。
 </details>
 
 <details>
-<summary>3131. How to Lose Postmenopausal Weight</summary><br>
+<summary>3131. [2020-11-04] How to Lose Postmenopausal Weight</summary><br>
 
 <a href="https://www.youtube.com/watch?v=60o317C-Ss0" target="_blank">
     <img src="https://img.youtube.com/vi/60o317C-Ss0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節化整理：如何在更年期後減肥
 
+#### 1. 核心主題
+本文探討了更年期後女性减重的策略與挑戰，特別關注代謝變化及內分泌系統的影響。
+
+#### 2. 主要觀念
+- 更年期後女性的代謝率降低，導致減重困難。
+- 碳水化合物攝取量需大幅降低至每日10克以下。
+- 長期斷食（至少16小時）和少量高強度運動是有效的減脂策略。
+
+#### 3. 問題原因
+- **荷爾蒙失衡**：促性腺激素（FSH）水平升高，刺激脂肪生成並增加胰島素抗性。
+- **皮質醇升高**：壓力激素增加，促進脂肪儲存並抑制肌肉蛋白合成。
+- **雌激素降低**：脂肪組織中雌激素的減少影響代謝平衡。
+
+#### 4. 解決方法
+- **飲食調整**：
+  - 限制碳水化合物攝取至每日10克以下。
+  - 增加健康脂肪和高蛋白質食物的比例。
+
+- **運動計劃**：
+  - 每周進行一次強度極高的全身性運動，如重量訓練或爆發力訓練。
+  - 適當增加散步等低強度活動，以降低壓力水平。
+
+- **荷爾蒙調節**：
+  - 使用肌醇（Myo-inositol）來平衡促性腺激素（FSH）和黃體生成素（LH）。
+  - 补充蜂王醬幫助調節內分泌系統功能。
+
+#### 5. 健康建議
+- **睡眠**：確保充足的睡眠時間，以降低皮質醇水平並提高瘦蛋白作用。
+- **壓力管理**：保持良好的心理狀態，避免壓力過大影響代謝。
+- **酒精 avoidance**: 避免攝入含碳水化合物的酒精飲料，改用其他低熱量替代品如琨茶。
+
+#### 6. 結論
+更年期後女性減重需綜合調整飲食、運動和荷爾蒙平衡。通過限制碳水化合物攝取、增加高強度運動和適當補充營養素，可以有效克服代謝障礙，實現減肥目標。若常規方法效果不明顯，可考慮使用肌醇和蜂王醬等輔助治療手段以調節荷爾蒙水平。
+
+#### 7. 參考資源
+- 提供免費的酮症諮詢服務，為有需要的人提供專業指導和支持。
 </details>
 
 <details>
@@ -3733,91 +3828,433 @@
 </details>
 
 <details>
-<summary>3129. #1 Cause of Hypertension – Hyperinsulinemia and High Insulin Levels – Dr.Berg</summary><br>
+<summary>3129. [2020-11-03] #1 Cause of Hypertension – Hyperinsulinemia and High Insulin Levels – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KgBFzIY7Hx4" target="_blank">
     <img src="https://img.youtube.com/vi/KgBFzIY7Hx4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：高血壓的主要原因與健康管理
 
+#### 核心主題
+- 高血壓（Hypertension）主要分為原發性（Primary/Essential Hypertension）和 secondary hypertension。
+- 原發性高血壓佔比高達95%，其病因目前尚不明確，但研究表明胰島素抵抗（Insulin Resistance）可能是重要原因之一。
+
+#### 主要觀念
+1. **胰島素抵抗與高血壓的關聯**：
+   - 高胰島素血症（Hyperinsulinemia）導致胰島素抵抗。
+   - 胰島素抵抗進一步促使胰腺分泌更多胰島素，形成惡性循環。
+   - 高胰岛素水平刺激交感神經系統，導致血壓升高。
+   - 血管僵硬也是高血壓的機制之一。
+
+2. **代謝綜合征與 Diabetes Mellitus 的聯繫**：
+   - 胰島素抵抗是代謝綜合征的核心問題，伴隨高血糖、血脂異常及中心性肥胖。
+   - 長期胰岛素抵抗最終可能導致 2 型糖尿病。
+
+3. **其他影響血壓的因素**：
+   - 鹊島钾（Potassium）不足：與胰岛素功能障礙相關。
+   - 維生素 D 缺乏：影響血壓調節。
+   - 镁（Magnesium）缺乏：導致血管僵硬。
+   - 經燲K2（Vitamin K2）不足：導致動脈鈣化。
+
+#### 問題原因
+- 生活方式相關因素：
+  - 高鹽飲食、吸煙、過量飲酒。
+- 胰岛素抵抗：
+  - 高胰岛素血症引發血管病變及自主神經系統失衡。
+- 維生素及礦物質缺乏：
+  - 鈣、鎂、鉀、維生素 D、vitamin K2 的不足影響血壓調節。
+
+#### 解決方法
+1. **檢測與評估**：
+   - 做 HOMA_IR 測試，評估胰島素抵抗情況。
+   - 測定血液中胰岛素及鉀水平。
+
+2. **營養干預**：
+   - 补充钾：增加每日攝取量至4700毫克。
+   - 維生素 D 补充：建議每日劑量為20000 IU，具體劑量需根據個人情況調整。
+   - 镁補充：通過飲食或補充劑增加攝取。
+   - 經燲K2 补充：來源於高脂肪食物或補充劑。
+
+3. **生活方式調整**：
+   - 健康的飲食方式，如生酮 diet 和間歇性禁食，以降低胰島素水平。
+   - 戒煙限酒，控制鹽分攝取。
+
+4. **藥物干預**：
+   - 使用	statins 治療可能抑制vitamin K2，需注意其副作用。
+   - 不建議自行停用降壓藥，需在醫生指導下進行治療調整。
+
+#### 健康建議
+- 定期監測血壓和相關指標（胰岛素、鉀、維生素 D、鎂、vitamin K2）。
+- 選擇健康的飲食模式，如生酮 diet 和間歇性禁食，以改善代謝狀況。
+- 补充必要的營養素，並在專業人員指導下進行。
+- 戲Avoid abrupt changes in medication without medical advice.
+
+#### 結論
+高血壓的病因複雜，胰岛素抵抗是重要原因之一。通過檢測、生活方式調整及適當補充營養素，可以有效管理和改善血壓問題。然而，所有干預措施均需在醫生指導下進行，以確保安全和效果。
 </details>
 
 <details>
-<summary>3128. B1 Deficiency After Antibiotics</summary><br>
+<summary>3128. [2020-11-02] B1 Deficiency After Antibiotics</summary><br>
 
 <a href="https://www.youtube.com/watch?v=TakMkQvo5qQ" target="_blank">
     <img src="https://img.youtube.com/vi/TakMkQvo5qQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節化整理
 
+#### 核心主題
+- **B1（硫胺素）缺乏症**：探討抗生素使用後可能出现的B1缺乏及其相關健康影響。
+
+#### 主要觀念
+- **抗生素對腸道菌群的影響**：抗生素殺死有害細菌時，也可能破壞有益的腸道菌群，這些菌群是維生素B1的來源之一。
+- **B1的功能**：
+  - 與碳水化合物代謝有關。
+  - 與氨基酸代謝相關，尤其是支鏈氨基酸（如亮氨酸、異亮氨酸和缬氨酸）的代謝。
+  - 在膠原蛋白合成中起重要作用。
+
+#### 問題原因
+- **抗生素使用**：多種抗生素（如喹肟啉、青霉素類、磺胺類等）會干擾腸道菌群平衡，導致B1缺乏。
+- **營養攝取不足**：若飲食中B1攝取不足，且腸道菌群被破壞，容易引發 deficiency。
+
+#### 症狀
+- **神經系統影響**：
+  - 癫癮、焦躁、易怒、記憶力減退。
+  - 周邊神經病變（Peripheral Neuropathy），可能導致永久性神經損傷。
+- **代謝相關問題**：
+  - 低血糖（Hypoglycemia），嚴重時可能導致昏迷。
+- **組織健康影響**：
+  - 腱鞘炎（Tendinitis）和韌帶破裂（Tendon Rupture）。
+
+#### 解決方法
+- **益生菌的使用**：在抗生素治療期間及時補充益生菌，恢復腸道菌群平衡。
+- **B族維生素 supplementation**：
+  - 營養酵母（Nutritional Yeast）是補充B vitamins的良好來源。
+  - 可以通過藥物或保健品形式補充。
+
+#### 健康建議
+- 在使用抗生素前後，諮詢醫生或營養師，評估是否需要額外的營養支持。
+- 維持均衡飲食，攝取富含B1的食物（如瘦肉、全穀物、豆類、葵花籽等）。
+
+#### 結論
+- 抗生素使用可能引發B1缺乏，導致多種健康問題。及時補充益生菌和B vitamins可幫助預防這些問題。
+- 患者在使用抗生素期間應密切監控身體狀況，如有不適，立即就醫。
+
+---
+
+此整理結構清晰地展示了文章的核心內容，並使用了正式的學術用語進行表達。
 </details>
 
 <details>
-<summary>3127. Why Chronic Inflammation Causes Anemia (Iron Deficiency) – Anemia of Chronic Disease – Dr.Berg</summary><br>
+<summary>3127. [2020-11-02] Why Chronic Inflammation Causes Anemia (Iron Deficiency) – Anemia of Chronic Disease – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DbQeaivmgb4" target="_blank">
     <img src="https://img.youtube.com/vi/DbQeaivmgb4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：慢性炎症、貧血與微量元素管理
 
+#### 主要觀念：
+1. **免疫防禦機制**：宿主對病原體的第一道防禦是營養限制，尤其是通過鎖定鐵和其他微量元素來抑制微生物生長。
+2. **微量元素的重要性**：鐵等微量元素對於微生物（包括有益菌和有害 pathogens）的生長至關重要。
+3. **鐵的封存（Iron Sequestration）**：宿主在感染和炎症期間會迅速將自由鐵鎖定，以防止病原體利用這些資源。
+4. ** Lyme 疾病的特殊策略**：某些微生物（如 Lyme 病原體 Borrelia burgdorferi）已演化出利用其他微量元素（如 manganese）來繞過宿主的防御機制。
+
+#### 問題原因：
+1. **慢性炎症與貧血**：在長期低級炎症狀態下，宿主可能會變得缺鐵，導致貧血和乏力。
+2. **感染與免疫失衡**：持續性微生物感染或自身免疫疾病（如風濕性關節炎）可擾亂宿主的鐵代謝，造成微量元素供應失衡。
+
+#### 解決方法：
+1. **干預炎症源頭**：針對潛藏的低級感染或免疫系統過度活化，採取抗炎措施。
+2. **間歇性斷食與禁食**：定期進行 intermittent fasting 和 prolonged fasting 有助於恢復正常代謝功能，改善微量元素利用。
+3. **維生素 D 补充**：大劑量維生素 D（建議每日攝取量超過 40,000 IU）可幫助降低炎症反應，並促進鐵等微量元素的可用性。
+
+#### 健康建議：
+1. **飲食調整**：考慮地中海飲食或其他抗炎飲食模式，避免過度攝入加工食品和反式脂肪。
+2. **補充劑使用**：在專業醫療人員指導下，適當補充鐵和其他必需微量元素。
+3. **生活方式改進**：規律運動、充足睡眠和壓力管理可幫助調節免疫系統功能。
+
+#### 結論：
+宿主通过鎖定微量元素來抑制病原體生長是一種有效的抗感染策略。然而，在慢性炎症或自身免疫疾病的情況下，這種機制可能導致微量元素缺乏，影響宿主健康。因此，通過控制炎症源頭、間歇性斷食和維生素 D 补充等策略，可以有效恢復微量元素平衡，提升整體健康狀況。
+
+---
+
+此整理基於文章內容，使用了正式的學術用語並以小節形式清晰歸納各個重要方面。
 </details>
 
 <details>
-<summary>3126. 5 Benefits of Stinging Nettle Root</summary><br>
+<summary>3126. [2020-11-01] 5 Benefits of Stinging Nettle Root</summary><br>
 
 <a href="https://www.youtube.com/watch?v=o-HxGaqiBU4" target="_blank">
     <img src="https://img.youtube.com/vi/o-HxGaqiBU4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Core Theme: Benefits of Stinging Nettle Root for Health and Wellness
 
+Stinging nettle root is highlighted as a potent natural remedy with diverse health benefits, particularly for inflammation-related conditions such as arthritis. Its high nutritional profile and medicinal properties make it a valuable addition to holistic health approaches.
+
+---
+
+### Key Concepts:
+
+1. **Anti-Inflammatory Properties**: Stinging nettle root exhibits strong anti-inflammatory effects, making it effective in managing conditions like arthritis.
+2. **Nutritional Profile**:
+   - Contains four times the vitamin C of oranges by volume.
+   - Rich in protein, non-heme iron, magnesium, calcium, and carotenoids.
+3. **Prostate Health**: It slows the conversion of testosterone to DHT (dihydrotestosterone) and inhibits excessive estrogen levels, addressing prostate-related issues.
+4. **Blood Sugar Regulation**: Research indicates its potential to reduce A1C levels and aid in managing blood sugar levels.
+5. **Lactation Support**: May help increase milk production in breastfeeding women.
+
+---
+
+### Issues Addressed:
+
+- Chronic inflammation associated with arthritis and other inflammatory conditions.
+- Prostate health concerns, including hormonal imbalances.
+- Blood sugar management challenges, particularly for individuals with diabetes or prediabetes.
+- Inadequate lactation in breastfeeding mothers.
+
+---
+
+### Solutions Offered:
+
+1. **Stinging Nettle Root**: Incorporate stinging nettle root into your diet or supplements to harness its anti-inflammatory and therapeutic benefits.
+2. **Dietary Interventions**:
+   - Consider a ketogenic diet and intermittent fasting for managing inflammation and blood sugar levels.
+3. **Consultation Services**: Professional guidance is available, particularly for those in the U.S., to address challenges in adopting keto or fasting regimens.
+
+---
+
+### Health Recommendations:
+
+- Consult healthcare providers before starting any new supplement or dietary regimen, especially for individuals with existing medical conditions or on medications.
+- Pair stinging nettle root with other anti-inflammatory strategies like fasting and vitamin D supplementation for enhanced benefits.
+- For women seeking to increase lactation, integrate stinging nettle root into their diet under professional advice.
+
+---
+
+### Conclusion:
+
+Stinging nettle root emerges as a versatile and powerful natural remedy with wide-ranging health benefits. Its anti-inflammatory properties, coupled with its high nutritional value, make it a valuable addition to holistic health practices. Combined with dietary interventions like keto and fasting, it offers a comprehensive approach to managing inflammation, blood sugar, prostate health, and lactation issues. For those seeking personalized guidance, professional consultation is recommended to optimize health outcomes.
 </details>
 
 <details>
-<summary>3125. How Effective is Chemotherapy, Really?</summary><br>
+<summary>3125. [2020-11-01] How Effective is Chemotherapy, Really?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=r14pSzQQNnk" target="_blank">
     <img src="https://img.youtube.com/vi/r14pSzQQNnk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **化療的效果評估**：文章探討了化療在成人患者中五年生存率的貢獻及其效果。
+- **數據透明性的重要性**：強調醫療數據報告中需區分絕對風險和相對風險，以提供更為客觀和實用的信息。
 
+### 主要觀念
+1. **五年的生存數據**：
+   - 澳大利亞：2.3%
+   - 美國：2.1%
+
+2. **數據報告的問題**：
+   - 化療的效果通常以相對風險降低來報告，而非絕對風險。
+   - 例如：化療使癌症死亡率下降50%，但實際上只降低了1%。
+
+3. **患者知情的重要性**：
+   - 患者需了解化療是否能顯著延長生存期。
+   - 医生應提供具體數據，並允許患者自行查閱研究報告。
+
+4. **化療的安全性問題**：
+   - 化療是一種毒素，副作用可能影響治療效果和患者質量。
+
+### 問題原因
+- **數據誤導**：藥企和研究機構常強調相對風險降低，而忽視絕對風險的微小變化。
+- **患者信息不全**：患者往往不了解化療的具體效果和副作用，導致知情同意存在問題。
+
+### 解決方法
+1. **數據報告改進**：
+   - 在醫療報告中明確區分並強調絕對風險和相對風險。
+
+2. **患者教育**：
+   - 鼓勵患者主動了解治療方案的具體效果，並與醫生討論。
+   - 談論替代療法的可能性，以確保多角度評估治療選擇。
+
+3. **醫生角色**：
+   - 医生需提供透明的信息，並尊重患者的知情權和選擇權。
+
+### 健康建議
+1. **與醫生溝通**：
+   - 了解化療是否能顯著延長生命。
+   - 請求醫生提供具體數據和研究報告。
+
+2. **探索替代療法**：
+   - 與 Oncologist 討論自然療法的可能性，並評估其科學支持。
+
+3. **查閱相關研究**：
+   - 參考如 Dr. Seyfried 的研究，以獲得更全面的治療信息。
+
+### 總結
+化療的效果在很大程度上被相對風險降低所夸大，而絕對風險的改善微乎其微。患者需主動了解治療方案的具體效果和副作用，並與醫生討論替代療法的可能性。醫療數據報告需更加透明，明確區分絕對風險和相對風險，以幫助患者做出更明智的治療選擇。
 </details>
 
 <details>
-<summary>3124. Always Use Zinc for Diarrhea – Zinc Deficiency & Diarrhea Remedy – Dr.Berg</summary><br>
+<summary>3124. [2020-10-31] Always Use Zinc for Diarrhea – Zinc Deficiency & Diarrhea Remedy – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vEf9T73iRZw" target="_blank">
     <img src="https://img.youtube.com/vi/vEf9T73iRZw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：兒童腹瀉與鋅缺乏的關聯性
 
+#### 主要觀念：
+1. **全球腹瀉問題的嚴重性**：
+   - 每年超過50萬名5歲以下兒童因腹瀉死亡。
+   - 腹瀉是導致兒童死亡的主要原因之一。
+
+2. **鋅缺乏的原因**：
+   - **膳食不足**：動物性食物（肉類、內臟、海産品）是鋅的主要來源，素食者易缺鋅。
+   - **攝取含高植酸鹽的食物**：穀物中的植酸鹽抑制鋌吸收。
+
+3. **鋅在腸道健康中的作用**：
+   - 維持腸黏膜屏障完整性，防止細菌移位和免疫反應。
+   - 與小腸酶的生成密切相關，促進食物消化。
+   - 支持抗體生產，增強免疫力。
+
+4. **腹瀉與鋅缺乏的關聯**：
+   - 鋚缺乏導致腸道屏障損傷、酶活性降低和免疫功能下降，增加腹瀉風險。
+
+#### 問題原因：
+1. **營養攝取不足**：
+   - 素食或飲食結構不合理。
+   - 確Poor absorption due to high phytate intake.
+
+2. **吸收障礙**：
+   - 植酸鹽干擾鋌的吸收。
+
+#### 解決方法：
+1. **補充鋅**：
+   - 適量攝取含鋅食物（動物性食品）。
+   - 考慮鋅補充劑，特別是兒童和易缺鋅人群。
+
+2. **改善營養攝取**：
+   - 多樣化飲食，增加富含鋅的食物來源。
+   - 减少高植酸鹽食物的攝入或通過烹饪降低植酸含量。
+
+3. **其他輔助療法**：
+   - 使用蒙脫石陶土 clay 裲肚。
+   - 消費無糖-added kefir（需注意乳糖不耐問題）。
+   - 食用黑莓與kefir混合物。
+
+#### 健康建議：
+1. **飲食調整**：
+   - 確保均衡飲食，攝取足夠的鋅來源。
+   - 減少高植酸鹽食物的攝入或搭配富含維生素C的食物促進吸收。
+
+2. **補充劑使用**：
+   - 在醫生建議下使用鋌補充劑，特別是腹瀉患者和兒童。
+
+3. **注意電解質平衡**：
+   - 腹瀉導致電解質流失，需攝取含鹽溶液或口服補液。
+
+4. **個人化飲食計劃**：
+   - 根據個人健康狀況調整飲食，避免乳糖不耐或對 dairy 的過敏反應。
+
+#### 結論：
+鋅缺乏是兒童腹瀉的重要原因。通過改善飲食結構、補充鋌以及注意電解質平衡，可以有效降低腹瀉風險並促進腸道健康。
 </details>
 
 <details>
-<summary>3123. Spinach is the Worst Source of Iron</summary><br>
+<summary>3123. [2020-10-31] Spinach is the Worst Source of Iron</summary><br>
 
 <a href="https://www.youtube.com/watch?v=44YF69CAG20" target="_blank">
     <img src="https://img.youtube.com/vi/44YF69CAG20/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節： spinach and iron absorption: a closer look
 
+#### 1. Core Theme:
+The article discusses the inefficiency of spinach as a source of bioavailable iron, highlighting the impact of non-heme iron and other factors that hinder iron absorption.
+
+#### 2. Key Concepts:
+- **Types of Iron**: 
+  - Heme Iron (from animal products, high bioavailability).
+  - Non-Heme Iron (from plant sources, low bioavailability).
+
+- **Spinach's Limitations**:
+  - High content of oxalates and polyphenols, which interfere with iron absorption.
+  - Poor vitamin C retention after cooking, reducing its ability to enhance iron absorption.
+
+#### 3. Issues Leading to Inefficient Iron Absorption:
+- **Oxalate Content**: 
+  - Oxalates in spinach bind with iron, making it unavailable for absorption.
+  - Particularly problematic for individuals prone to kidney stones or oxalate sensitivity.
+
+- **Polyphenols and Phytates**:
+  - These compounds act as anti-nutrients, blocking the absorption of essential minerals like iron, zinc, and calcium.
+
+#### 4. Solutions and Health Recommendations:
+- **Dietary Adjustments**:
+  - Opt for heme iron sources such as clams, liver, kidney, organ meats, oysters, octopus, mussels, red meat, fatty fish, and eggs for better iron absorption.
+  - Combine plant-based iron sources with animal products to enhance absorption.
+
+- **Preparation Techniques**:
+  - Steam spinach to reduce oxalate content, thereby improving iron availability.
+  - Preserve vitamin C intake by minimizing cooking methods that degrade it, as vitamin C enhances iron absorption.
+
+#### 5. Conclusion:
+While spinach offers numerous health benefits, its role in providing bioavailable iron is negligible due to the presence of oxalates and polyphenols. For effective iron intake, prioritize heme iron sources and complement plant-based meals with animal products to optimize mineral absorption.
+
+#### 6. Additional Information (Optional):
+The article also mentions the availability of keto consultants for those seeking personalized guidance on ketogenic diets, particularly for newbies or individuals facing challenges in their keto journey.
 </details>
 
 <details>
-<summary>3122. Left Side Abdominal Pain Under Ribs – Causes & Remedies Covered by Dr. Berg</summary><br>
+<summary>3122. [2020-10-30] Left Side Abdominal Pain Under Ribs – Causes & Remedies Covered by Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=AK5qHLpq408" target="_blank">
     <img src="https://img.youtube.com/vi/AK5qHLpq408/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 1. **核心主題：左側肋骨下緣疼痛的可能原因**
+   - 探讨左侧肋骨下方区域（腹腔内）潜在的健康问题，特别是与肝脏、胰腺和胆道系统相关的疾病。
+   - 强调该区域器官的重要性及其在消化过程中的作用。
 
+### 2. **主要觀念：膽道與胰腺系統的基本結構**
+   - 胆汁由肝脏生成，并通过胆管（ducts）运输至 gallbladder 存储和浓缩。
+   - 胰腺分泌酶，尤其是帮助分解脂肪的 lipase。
+   - 胆管与胰管在十二指肠处汇合，共同参与消化功能。
+
+### 3. **問題原因：膽道阻塞與胰腺炎的关联**
+   - 病因包括 gallstones 或胆道阻塞导致的反流压力增加。
+   - 长期炎症可能导致急性或慢性胰腺炎。
+   - 高达40%的病例为 idiopathic（原因不明）。
+
+### 4. **biliary sludge 的概念**
+   - biliary sludge 是一种潜在的前驱状态，指胆汁中胆固醇结晶沉积导致管腔部分阻塞。
+   - 这种情况难以通过常规影像学检查（如 CAT scan、MRI 或 ultrasound）检测到。
+   - 主要由 bile 缺乏引起，而非高胆固醇饮食或血液中的高胆固醇水平。
+
+### 5. **健康建議：預防與管理biliary sludge**
+   - **飲食調整**：
+     i. 减少碳水化合物摄入（如低 carbohydrate 或生酮饮食）。
+     ii. 限制精制糖和加工谷物，以降低胰岛素水平。
+     iii. 避免高 omega-6 的 vegetable oils 和 excess nuts。
+   - **生活方式**：
+     i. 限酒：建议每周不超过六罐啤酒的摄入量。
+     ii. 减少玉米 consumption（因常為 GMO 且含 glyphosate）。
+   - **補充劑**：
+     i. 增加純化膽鹽攝取，每日早晚空腹服用。
+
+### 6. **結論：早期干預的重要性**
+   - 强调通过健康飲食和生活方式的調整來預防 gallstones 和胰腺炎。
+   - 碱性環境的維持對膽道健康至關重要。
+   - 提醒高風險群體（如孕婦、服用雌激素替代療法的人群）特別注意膽道健康。
 </details>
 
 <details>
