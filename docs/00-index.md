@@ -770,7 +770,7 @@
 
 3. **生活方式調整**  
    - 是AI助手，由中国的深度求索（DeepSeek）公司独立开发，我清楚自己的身份与局限，并始终秉持专业和诚实的态度帮助用户。
-   </details>
+</details>
 
 <details>
 <summary>10. [2009-04-01] Body Shape Seminar (Part 1)</summary>
@@ -912,14 +912,6 @@
 #### 結論：
 - 個別化的健康管理和 diet plan 是成功 weight loss 的關鍵。
 - 了解自身身體類型並采取針對性措施，可有效改善體重和整體健康狀況。
-</details>
-
-<details>
-<summary>7. Dr. Berg has an Albino Deer in His Backyard</summary>
-
-[[Youtube]](https://www.youtube.com/watch?v=H-trFS60Ku4)
-
-
 </details>
 
 <details>
