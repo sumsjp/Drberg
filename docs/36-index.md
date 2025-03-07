@@ -220,36 +220,165 @@
 </details>
 
 <details>
-<summary>3695. Extra Virgin Olive Oil for Heart Health</summary><br>
+<summary>3695. [2021-09-26] Extra Virgin Olive Oil for Heart Health</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8u8uMAe645s" target="_blank">
     <img src="https://img.youtube.com/vi/8u8uMAe645s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：高質量特級初榨橄欖油的健康益處與辨識方法
 
+---
+
+#### 核心主題  
+- 探讨高質量特級初榨橄欖油（Extra Virgin Olive Oil, EVOO）的健康益處及其國際市場來源。
+
+---
+
+#### 主要觀念  
+1. **品質差異的重要性**：初榨橄欖油的品質存在顯著差異，只有真正高質量的産品才能提供卓越的健康益處。  
+2. **健康功效**：特級初榨橄欗油具有多種生物活性化合物，包括抗炎、抗氧化和抗菌等作用，可預防多種疾病。  
+3. **來源問題**：美國超市中銷售的橄欗油通常品質較低，消費者需通過線上渠道或專賣店購買高質量産品。
+
+---
+
+#### 問題原因  
+- 大部分美國消費者習慣於使用低品質橄欗油，導致無法體驗到特級初榨橄欗油的真正風味和健康功效。  
+- 市面上多數橄欗油未達到真正的特級初榨標準，影響消費者的健康收益。
+
+---
+
+#### 解決方法  
+1. **選擇來源**：購買來自西班牙、希臥黎、義大利、摩洛哥、法國、葡萄牙、土耳其和以色列等地的高品質特級初榨橄欗油。  
+2. **通過線上渠道或專賣店購買**：美國消費者需使用網路平台或訪問 specialty stores 來獲得真正的特級初榨橄欗油。  
+3. **鑑別方法**：依賴其強烈的味道和香味來判斷橄欗油的真偽。
+
+---
+
+#### 健康建議  
+1. **每日攝取量**：建議每天在沙拉中加入 2-4 盎司（約 57-113 公克）高品質特級初榨橄欗油。  
+2. **健康功效**：  
+   - 抗炎作用，可幫助緩解關節炎、腱鞘炎等症狀。  
+   - 抗氧化效應，其成分（如水楊棓酸和羥基酪醇）比綠茶更強效。  
+   - 抗血栓和抗動脈硬化，有助於預防心血管疾病。  
+   - 護眼作用，可保護視網膜免受損傷。  
+   - 抗癌和紫外線防護作用。  
+
+---
+
+#### 結論  
+- 高品質特級初榨橄欗油不僅風味獨特，還具有多種顯著的健康益處。  
+- 消費者需謹慎選擇來源，以確保獲得真正高品質的橄欗油，從而最大化其健康效益。
+
+---
+
+### 簡短英文摘要  
+The article emphasizes the importance of consuming high-quality extra virgin olive oil (EVOO) for its exceptional health benefits and distinct flavor. It highlights that EVOO from countries like Spain, Greece, Italy, Morocco, France, Portugal, Turkey, and Israel contains bioactive compounds such as hydroxytyrosol, which offer potent anti-inflammatory, antioxidant, and other therapeutic properties. The article suggests that while low-quality EVOO is widely available in U.S. supermarkets, true high-quality EVOO must be sourced through specialized stores or online platforms. It recommends incorporating 2-4 ounces of high-quality EVOO into daily diets, particularly for its cardiovascular, anti-inflammatory, and anticancer benefits.
 </details>
 
 <details>
-<summary>3694. Good Bacteria Keep Candida, Fungus and Yeast in Check</summary><br>
+<summary>3694. [2021-09-26] Good Bacteria Keep Candida, Fungus and Yeast in Check</summary><br>
 
 <a href="https://www.youtube.com/watch?v=UnkEcc3xwMI" target="_blank">
     <img src="https://img.youtube.com/vi/UnkEcc3xwMI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：腸道微生物群中的有益真菌及其重要性
 
+### 主要觀念：
+1. **腸道微生態平衡**：人體腸道不僅存在有益細菌，還有多種有益真菌，超過100個不同菌株。
+2. **益生菌的作用**：有益細菌（如乳酸菌）負責控制真菌的增長，防止其過度繁殖並避免成為致病菌（如念珠菌）。
+3. **酵母與真菌的區別**：念珠菌是一種酵母，屬於真菌類群，二者有密切關聯。
+
+### 問題原因：
+1. **抗生素的影響**：抗生素殺死有害細菌時，也破壞了有益菌群平衡，導致真菌（如念珠菌）過度生長。
+2. **環境因素**：Glyphosate（草甘膦）等農藥在非轉基因食品中的殘留可能具有抗生素效果，增加真菌感染風險。
+
+### 解決方法：
+1. **補充有益酵母菌**：推薦使用Sacromyces Balardi（益生菌株），防止念珠菌過度生長。
+2. **飲食調整**：避免攝入糖分和含乳糖的食物，以抑制念珠菌的生長。
+
+### 健康建議：
+1. **食用發酵食品**：如泡菜、酸菜等，幫助恢復腸道有益微生物平衡。
+2. **增強免疫力**：通過飲食和補充益生元等方式，提升免疫系統功能，抵抗真菌感染。
+3. **避免濫用抗生素**：必要時遵醫囑使用，並配合益生菌治療。
+
+### 結論：
+1. 腸道微生物群的平衡對整體健康至關重要，有益真菌在其中發揮重要作用。
+2. 抗生素濫用和不良飲食習慣會擾亂腸道微生態，導致真菌感染。
+3. 通過補充益生菌、調整飲食結構及增強免疫力，可以有效預防和治療真菌相關疾病。
+
+### 额外資源：
+- 推荐免費課程《如何加固免疫系統》，幫助提升自身抵抗力。
 </details>
 
 <details>
-<summary>3693. The Benefits of Wormwood</summary><br>
+<summary>3693. [2021-09-25] The Benefits of Wormwood</summary><br>
 
 <a href="https://www.youtube.com/watch?v=F3ZaPJN6Ml0" target="_blank">
     <img src="https://img.youtube.com/vi/F3ZaPJN6Ml0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 講述蟲（wormwood extract）的功效及其在治療寄生蟲感染等方面的应用。
 
+---
+
+### 主要觀念  
+1. **蟲的療效**  
+   - 作為抗寄生蟲的天然 Remedies，研究顯示其效果與傳統抗寄生蟲藥物相當。  
+2. **適用症狀**  
+   - 對抗多種蠕蟲感染（如 pinworms、round worms、tape worms）有效。  
+   - 可用於 malaria 的治療，特別是通過茶飲形式攝取。  
+
+3. **活性成分**  
+   - 主要活性化合物為 third zone（可能是_artemisinin_ 或其他衍生物）。  
+   - 存在 alpha 和 beta 兩種形式，其中 alpha 形式具毒性，可能引發幻覺。  
+
+4. **歷史與文化影響**  
+   - 過去一些藝術家（如梵高）曾使用蟲以追求創造性的 alteration state。  
+   - 然而，此用途並不被推薦。  
+
+5. **其他健康益處**  
+   - 對 Irritable Bowel Syndrome (IBS)，尤其是 Crohn's 病症有效。  
+   - 能降低腎臟炎症，改善消化功能（如增加胃酸和膽汁分泌）。  
+
+---
+
+### 問題原因  
+- 寸蟲感染和寄生蟲病（如瘧疾）可能引發多種健康問題，包括腸道不適、營養吸收障礙等。  
+- 傳統抗寄生蟲藥物可能存在副作用或依從性問題。  
+
+---
+
+### 解決方法  
+1. **蟲的使用**  
+   - 作為茶飲用以治療瘧疾。  
+   - 可短期內（4周）用於驅蟲和改善腸道健康。  
+
+2. **自然療法優勢**  
+   - 提供一種與傳統藥物同等有效的選擇，同時具備較低的長期使用風險。  
+
+---
+
+### 健康建議  
+1. **禁忌人群**  
+   - 孕妇、哺乳期婦女、兒童及癫痫病患者應避免使用。  
+   - 在使用前需諮詢醫生。  
+
+2. **用法用量**  
+   - 避免長時間使用，建議短期內（4周）使用。  
+
+3. **綜合治療**  
+   - 虻蟲提取物可作為寄生蟲感染和腸道疾病的輔助治療手段，但應結合其他醫療方法。  
+
+---
+
+### 結論  
+蟲是一種具有潛力的天然療法，尤其在驅蟲和腸胃健康方面效果顯著。然而，其使用需謹慎，特別是針對特定人群和用法用量。消費者和醫療專業人員應充分考慮其利弊，在安全的前提下使用。
 </details>
 
 <details>
@@ -275,80 +404,371 @@
 </details>
 
 <details>
-<summary>3690. Male Version of PCOS</summary><br>
+<summary>3690. [2021-09-23] Male Version of PCOS</summary><br>
 
 <a href="https://www.youtube.com/watch?v=JHbxjkV4TJY" target="_blank">
     <img src="https://img.youtube.com/vi/JHbxjkV4TJY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：男性多囊卵巢綜合征（PCOS）的類似症狀、原因及管理策略
 
+#### 主要觀念：
+1. **PCOS的定義**：
+   - PCOS是一種影響女性的内分泌疾病，特征為卵巢中存在多個小囊泡或卵泡，並伴有過高的雄性激素水平。
+   - 在男性中，類似的症狀表現為雄性激素過多症，主要症狀包括男性型秃癬、勃起功能障礙和良性前列腺肥大。
+
+2. **病因**：
+   - PCOS的主要驅動因素是胰島素抵抗導致的高胰島素血症。
+   - 高胰岛素水平會刺激雄性激素的分泌，並干擾脂肪代謝，導致肥胖和其他相關症狀。
+
+3. **男性PCOS的症狀**：
+   - **男性型秃癬（Androgenic Alopecia）**：與雄性激素過多有關。
+   - **勃起功能障礙（Erectile Dysfunction）**：高胰岛素水平會影響血流，導致 erection 問題。
+   - **良性前列腺肥大（Benign Prostatic Hypertrophy）**：胰岛素的生長促進作用導致前列腺增大。
+
+#### 問題原因：
+1. **胰島素抵抗**：
+   - 高碳水化合物攝入是導致胰島素抵抗的主要原因之一。
+   - 胰島素抵抗會進一步惡化雄性激素失衡和代謝功能障礙。
+
+2. **生活方式因素**：
+   - 不良飲食習慣（高糖、高碳水化合物）和缺乏運動會加重PCOS相關症狀。
+
+#### 解決方法與健康建議：
+1. **血液檢測**：
+   - 體檢時應包括空腹胰島素測試或HOMA-IR指標，用於評估胰岛素抵抗情況。
+   - 如果有男性型秃癬、勃起功能障礙或前列腺肥大症狀，建議進行相關檢查。
+
+2. **飲食調整**：
+   - 採納健康的生酮飲食，降低碳水化合物攝取，增加健康脂肪和蛋白質的攝入。
+   - 生酮飲食可有效降低胰島素水平，改善代謝功能。
+
+3. **生活方式 modification**：
+   - 開始進行間歇性禁食，以進一步促進血糖穩定和胰岛素敏感性。
+   - 經常運動（特別是有氧運動）可以提高胰岛素敏感性，幫助控制體重和代謝紊亂。
+
+4. **藥物治療**：
+   - 在生活方式干預效果不明顯的情況下，可考慮使用藥物來控制血糖和雄性激素水平。
+   - 舉例而言，Metformin（二甲雙胍）可用於改善胰島素抵抗。
+
+#### 結論：
+- 男性PCOS的症狀與女性PCOS有著相似的病因機制，主要由高胰岛素血症驅動。
+- 高碳水化合物飲食和胰島素抵抗是導致這些症狀的主要原因。
+- 生酮飲食和間歇性禁食等干預措施可以有效降低胰島素水平，改善相關症狀。
+- 定期體檢和血液檢查（如HOMA-IR或空腹胰島素測試）有助於早期發現和管理這些問題。
 </details>
 
 <details>
-<summary>3689. Reduce Your Liver Fat by 50 Percent in 14 Days</summary><br>
+<summary>3689. [2021-09-23] Reduce Your Liver Fat by 50 Percent in 14 Days</summary><br>
 
 <a href="https://www.youtube.com/watch?v=JcsNqgu3F9U" target="_blank">
     <img src="https://img.youtube.com/vi/JcsNqgu3F9U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 研究表明， ketogenic diet（酮式飲食）在一月內可顯著降低肝脂肪積累。  
 
+### 主要觀念  
+1. **研究概述**：  
+   - 一項为期14天的干預研究發現，在肥胖人群中，采用低碳水化合物飲食（ketogenic diet），每日攝入碳水化合物不超過30克，可使肝脂肪降低43.8%。  
+
+2. **減脂機制**：  
+   - 腫瘤壞死因子-alpha (TNF-α) 細胞因子的表達降低，抑制了脂肪生成並促進了脂肪氧化。  
+   - 研究表明，在肝臟中，酮飲食可使脂肪生成（lipogenesis）降低79.8%，同時脂肪酸氧化（fatty acid oxidation）增加了近5倍。  
+
+3. **其他健康受益**：  
+   - 肝臟損傷標誌物顯著降低。  
+   - 空腹胰島素水平和HOMA_IR（胰岛素抵抗指數）降低，改善了胰島素敏感性。  
+   - 腫瘤壞死因子-alpha (TNF-α) 和C反應蛋白（CRP）等炎症標誌物顯著降低，減少了肝臟炎症。  
+   - 肠道菌群 composition 發生重大變化，1天內即可觀察到94種不同的細菌數量改變， folate（葉酸）水平上升，改善了肝臟脂肪代謝並降低了肝臟炎症風險。  
+
+### 問題原因  
+- 早期的酮飲食可能效果不明顯，導致放棄：  
+   - 短期內體重下降和腰圍變化不大，容易讓人誤判為飲食失敗。  
+
+### 解决方法  
+- 認識酮飲食的優先作用：  
+   - 酮飲食早期主要降低肝臟脂肪和 visceral fat（ visceral fat），而非皮下脂肪，這解釋了為什麼體重下降不明顯。  
+
+### 健康建議  
+1. **飲食建議**：  
+   - 采用ketogenic diet，每日碳水化合物攝取量控制在30克以下。  
+   - 不限制 calorie 摂取，但需注意飲食的均衡性。  
+
+2. **健康監測**：  
+   - 即使早期體重和腰圍變化不明顯，仍建議持續觀察肝臟脂肪變化和其他生化指標。  
+
+3. **腸道健康**：  
+   - 注意維持腸道菌群平衡，可能通過飲食或益生元補充來進一步提升效果。  
+
+### 結論  
+- Ketogenic diet 在降低肝脂肪方面具有顯著效果，特別是對於患有非酒精性脂肪肝病（NAFLD）的肥胖人群。  
+- 酮飲食的效果並非立即顯現於體重或外觀上，而是優先作用於內臟脂肪和肝臟健康。  
+- 維持酮飲食可帶來多方面的健康受益，包括改善胰島素抵抗、降低炎症反應和提升腸道菌群健康。
 </details>
 
 <details>
-<summary>3688. Passion Flower as a Natural Sedative</summary><br>
+<summary>3688. [2021-09-22] Passion Flower as a Natural Sedative</summary><br>
 
 <a href="https://www.youtube.com/watch?v=r51GAVdT8M4" target="_blank">
     <img src="https://img.youtube.com/vi/r51GAVdT8M4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題 (Core Theme)
+- **核心主題**：  
+  探讨 passion flower（PASSIFLORA）作为一种天然植物，在缓解焦虑、改善睡眠和治疗其他健康问题方面的有效性及其机制。
 
+- **Main Theme**:  
+  Explore the effectiveness of passionflower (Passiflora) as a natural plant in alleviating anxiety, improving sleep, and treating other health issues, along with its mechanisms.
+
+---
+
+### 主要觀念 (Key Concepts)
+- **主要觀念**：  
+  Passion flower 具有抗焦慮、鎮靜和改善睡眠的潛能，且副作用較少。
+
+- **Key Ideas**:  
+  Passionflower has potential anxiolytic, sedative, and sleep-improving properties with fewer side effects.
+
+---
+
+### 問題原因 (Underlying Causes)
+- **問題原因**：  
+  现代醫藥中，傳統的抗焦慮藥物如苯二氮卓類（e.g., Oxazipam）雖然有效，但副作用較多，包括嗜睡、依賴性等。
+
+- **Underlying Causes**:  
+  Conventional anxiolytic medications, such as benzodiazepines (e.g., Oxazipam), while effective, have significant side effects, including drowsiness and dependence.
+
+---
+
+### 解決方法 (Solutions)
+- **解決方法**：  
+  利用自然植物 passion flower 的活性成分（如 GABA 增加作用）來提供更安全有效的抗焦慮和鎮靜效果。
+
+- **Solutions**:  
+  Utilize the active compounds in passionflower, such as those that increase GABA activity, to provide a safer and more effective anxiolytic and sedative effect.
+
+---
+
+### 健康建議 (Health Recommendations)
+- **健康建議**：  
+  在使用 passion flower 或其他天然植物治療之前，應諮詢醫生或 healthcare provider，特別是有正在服用藥物或有特定健康狀況的人。
+
+- **Health Recommendations**:  
+  Consult a doctor or healthcare provider before using passionflower or other natural remedies, especially for individuals currently taking medications or with specific health conditions.
+
+---
+
+### 結論 (Conclusion)
+- **結論**：  
+  Passion flower 作為一種自然植物，在缓解焦虑和改善睡眠方面顯示出潛力，值得進一步研究其臨床應用。
+
+- **Conclusion**:  
+  Passionflower shows potential as a natural remedy for anxiety and sleep improvement, warranting further research into its clinical applications.
+
+---
+
+### 參考資料 (References)
+- **中文**：  
+  - 指定的研究和數據鏈接已提供，建議進一步查閱以獲取詳細信息。
+
+- **English**:  
+  - Specific studies and data links are provided; further reference is recommended for detailed information.
 </details>
 
 <details>
-<summary>3687. Use Keto to Normalize Your Period</summary><br>
+<summary>3687. [2021-09-22] Use Keto to Normalize Your Period</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ej1PhkiROl4" target="_blank">
     <img src="https://img.youtube.com/vi/ej1PhkiROl4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理與分析
 
+#### 核心主題
+- ** amenorrhea**（月經紊亂）及其可能的原因。
+- **酮飲食**在調理 menstrual cycle 中的作用。
+
+#### 主要觀念
+1. **Amenorrhea 的定義**：連續錯過三個月經週期的狀況，可能由多種因素引起。
+2. **Amenorrhea 的原因**：
+   - 营養缺乏
+   - 不健康減重或肥胖
+   - 激素干擾
+   - 環境中的内分泌破壞化學物質
+   - 压力
+   - 糖尿病前期或糖尿病
+3. **Insulin Resistance 的影響**：
+   - 高胰島素血症抑制肝脏中的 SHBG（性激素結合蛋白）。
+   - 低 SHBG 可導致性激紊亂，進一步引發 amenorrhea。
+
+#### 問題原因
+- 胰島素抵抗是 amenorrhea 的主要原因之一。
+- 高胰島素血症直接干擾性激素平衡，影響月經週期。
+
+#### 解決方法
+1. **酮飲食的作用**：
+   - 降低胰島素水平，改善胰島素抵抗。
+   - 主要通過減少碳水化合物攝取和間歇性禁食實現。
+2. **酮體的其他益處**：
+   - **抗炎作用**：增強生殖健康。
+   - **調節 HPA 軸（下丘brain-腦垂体-腎上腺軸）**：降低壓力反應，改善激素平衡。
+   - **平衡神經傳導物質**：尤其是 GABA，減輕焦慮和壓力。
+   - **支持大腦健康**：促進下丘脑功能，調控卵巢活動。
+
+#### 健康建議
+- 飲食可作為輔助手段幫助恢復月經週期，但需結合整體健康管理。
+- 初學者建議從健康的酮飲食方法開始，並配合醫生或營養師的指導。
+
+#### 結論
+- 通過降低胰島素水平和改善激素平衡，酮飲食在調理 amenorrhea 方面具有潛力。
+- 生活方式調整（如壓力管理、均衡飲食）對於恢復月經週期至關重要。
 </details>
 
 <details>
-<summary>3686. Best Foods for Keto Flu</summary><br>
+<summary>3686. [2021-09-21] Best Foods for Keto Flu</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kgSrcFOYAFo" target="_blank">
     <img src="https://img.youtube.com/vi/kgSrcFOYAFo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：酮症流感（Keto Flu）的營養管理
 
+---
+
+#### 主要觀念：
+1. **酮症流感**並非真正的病毒性流感，而是一種在过渡期可能出現的不適症狀群。
+2. 酮症流感的主要症狀包括：疲倦、乏力、身體酸痛、腦霧、恶心和頭痛。
+
+---
+
+#### 問題原因：
+1. 在開始 ketogenic（生酮飲食）或 intermittent fasting（間歇性斷食）時，人體會經歷代謝轉型。
+2. 由高碳水化合物飲食轉向低碳水化合物飲食時，身體會流失大量水分和電解質，尤其是鈉、氯化物、鎂和鉀。
+3. 電解質的不平衡是導致酮症流感症狀的主要原因。
+
+---
+
+#### 解決方法：
+1. **增加攝取富含鹽分的食物**：
+   - 使用海鹽，並確保每日飲食中攝取足夠的鹽分。
+   - 增加骨髓湯的攝取量，並在其中添加大量海鹽以補充電解質。
+
+2. **攝取高鉀食物**：
+   - 食用富含鉀的食物，如牛油果、菠菜和土豆等。
+   - 在沙拉中加入大量的海鹽，以平衡鈉的流失。
+
+3. **保持足夠的hydration（ hydration）**：
+   - 多喝水或其他含電解質的飲料，幫助恢復身體水分平衡。
+
+---
+
+#### 健康建議：
+1. 在开始 ketogenic diet 或 intermittent fasting 的初期，建議攝取包含大量海鹽和高鉀食物的餐飲。
+2. 每日飲食中應包括一到兩份富含電解質的食物，以避免在过渡期因電解質失衡而引發不適症狀。
+
+---
+
+#### 結論：
+酮症流感不是感染性疾病，而是代謝轉型期的短期症狀。通過補充足夠的鹽分和高鉀食物，可以有效缓解這些症狀，幫助身體順利進入酮osis（酮症）狀態。
 </details>
 
 <details>
-<summary>3685. Gallbladder Problems and Prolonged Fasting</summary><br>
+<summary>3685. [2021-09-21] Gallbladder Problems and Prolonged Fasting</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XecerR4TBgE" target="_blank">
     <img src="https://img.youtube.com/vi/XecerR4TBgE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題
+- 維生素缺乏症與膽囊問題在禁食期間的潛在風險。
+- 高脂飲食（如酮egenic diet）和禁食對膽汁及膽固醇濃度的影響。
+- 胆石形成的機制及其與長時間禁食的關聯。
+
+#### 主要觀念
+1. **膽囊問題的成因**：
+   - 高膽固醇濃度和低膽鹽濃度導致膽汁黏稠（胆垢）並最終形成膽石。
+2. **禁食對代謝的影響**：
+   - 禁食期間，脂肪分解增加， triglycerides 和膽固醇釋放進入血液。
+   - 在禁食20小時後，膽固醇濃度可能過高，若膽鹽不足，易引發問題。
+
+#### 問題原因
+1. **代謝因素**：
+   - 長期禁食導致脂肪分解增加， triglycerides 和膽固醇釋放。
+   - 膳食中缺乏脂肪攝取，影響膽鹽的正常分泌。
+2. **肝臟和腸道健康問題**：
+   - 肝功能障礙（如脂肪肝、炎症或疤痕組織）降低膽鹽生成。
+   - 抗生素使用導致腸道益生菌不足，影響膽鹽合成。
+
+#### 解決方法
+1. **短期措施**：
+   - 在禁食期間補充純化膽鹽，建議每天早晚各服用兩次。
+2. **長期健康策略**：
+   - 逐步改善肝臟和腸道功能，增加膽鹽的自然生成。
+   - 多樣化的飲食和益生菌攝取，促進腸道微生物平衡。
+
+#### 健康建議
+1. **禁食期間注意事項**：
+   - 监測身體症狀，如有不適及時調整。
+   - 考慮個人健康狀況，必要時諮詢專業醫療人員。
+2. **飲食與健康管理**：
+   - 平衡飲食，避免過度依賴高脂飲食或長時間禁食。
+   - 確保足夠的膳食纖維和益生菌來源，促進腸道健康。
+
+#### 结論
+- 長期禁食具有多項健康益處，但需注意膽囊問題的潛在風險。
+- 通過補充膽鹽和其他健康管理措施，可以有效降低相關風險。
+- 鼓勵持續禁食，但建議個人化調整，根據自身健康狀況制定計劃。
 </details>
 
 <details>
-<summary>3684. What is rBGH in Dairy Products?</summary><br>
+<summary>3684. [2021-09-20] What is rBGH in Dairy Products?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=0scuOg6IGsM" target="_blank">
     <img src="https://img.youtube.com/vi/0scuOg6IGsM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理：Recombinant Bovine Growth Hormone (RBGH) 與其影響
 
+#### 1. 核心主題
+- **Recombinant Bovine Growth Hormone (RBGH)**，又稱為Recombinant Bovine Somatotropin (rBST)，是一種合成激素，模擬牛腦下垂體分泌的天然牛生長激素。
+
+#### 2. 主要觀念
+- **定義與作用**：
+  - RBGH 被用於 dairy farmers 以增加乳畜的奶產量。
+  - 在年輕 calves 中，它作為生長激素促進生長；在泌乳期 cows 中，則能顯著提高奶量。
+
+- **全球使用情況**：
+  - 在美國被 FDA 批准使用，但其他多個國家如歐盟、加拿大等禁止其使用。
+
+#### 3. 問題原因
+- **健康與倫理問題**：
+  - 濕肭的 cows 接種 RBGH 后，會增加以下風險：
+    - **跛行（Lameness）**：Hoof 腳部問題，導致行動不便，風險增加50%。
+    - **乳腺炎（Mastitis）**：感染率上升25%，需使用更多抗生素治療。
+    - **生殖問題**：不孕、卵巢囊腫等。
+    - **先天缺陷**：影響后代健康。
+
+#### 4. 解决方法
+- **替代方案**：
+  - 選擇未添加合成激素的 Dairy products，如有機乳製品，確保不含 RBGH 和其他合成激索。
+
+#### 5. 健康建議
+- **消費者行動指南**：
+  - 確保選購有機 Dairy products，以避免潛在健康風險。
+  - 支持未使用合成激素的農產品，促進動物福利與環境永續。
+
+#### 6. 结論
+- RBGH 的使用雖然提高了 dairy production，但也帶來了多方面的負面影響，包括動物健康問題和消費者健康的隱憂。選擇有機 Dairy products 是避免這些風險的有效途徑。
 </details>
 
 <details>
