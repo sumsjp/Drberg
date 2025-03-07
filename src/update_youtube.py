@@ -28,8 +28,8 @@ csv_file =  os.path.join(base_dir, 'src/video_list.csv')
 load_result = load_dotenv()
 if not load_result:
     raise Exception(".env 檔案載入失敗")
-sender_email = load_dotenv('SENDER_EMAIL')
-sender_password= load_dotenv('SENDER_PASSWORD')
+sender_email = os.getenv('SENDER_EMAIL')
+sender_password= os.getenv('SENDER_PASSWORD')
 # print(f"email={sender_email}, password={sender_password}")
 
 receiver_emails = ["mingshing.su@gmail.com", "sibuzu.ai@gmail.com"]
