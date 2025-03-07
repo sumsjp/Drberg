@@ -1088,13 +1088,86 @@
 </details>
 
 <details>
-<summary>1001. Receding Gums and Vitamin C Explained By Dr.Berg</summary><br>
+<summary>1001. [2017-08-17] Receding Gums and Vitamin C Explained By Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ZaJWKzq-uuQ" target="_blank">
     <img src="https://img.youtube.com/vi/ZaJWKzq-uuQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理與分析
 
+#### 核心主題  
+- ** gums recession and vitamin C deficiency**  
+  - Receding gums are closely linked to a deficiency in vitamin C.  
+
+---
+
+#### 主要觀念  
+1. **Vitamin C's Role in Collagen Synthesis**  
+   - Vitamin C is essential for the production of collagen, a key protein that supports gum health.
+   - Deficiency leads to collagen degradation, causing gum recession and exposure of tooth structures.
+
+2. **Vitamin C and Cellular Junction Integrity**  
+   - Vitamin C strengthens cellular junctions, preventing issues like leaky gut syndrome.
+   - Proteolytic enzymes from bacteria can weaken these junctions, and vitamin C counteracts this effect.
+
+3. **Immune System Support**  
+   - White blood cells contain high levels of vitamin C to protect against pathogens.
+   - Vitamin C enhances immune function and reduces the toxic effects of bacterial infections.
+
+4. **Scurvy as a Manifestation of Deficiency**  
+   - Symptoms include gum bleeding, tooth loss, and other systemic issues.
+   - Gum recession is a common indicator of vitamin C deficiency.
+
+---
+
+#### 問題原因  
+1. **Insulin Resistance or Diabetes**  
+   - High insulin levels can contribute to vitamin C deficiency.
+
+2. **Poor Dietary Intake**  
+   - Inadequate consumption of vitamin C-rich foods (e.g., bell peppers, sauerkraut, and other vegetables).
+
+3. **Sulfonamide Antibiotics**  
+   - Certain medications can impair vitamin C absorption or utilization.
+
+---
+
+#### 解決方法  
+1. **Dietary Interventions**  
+   - Increase intake of vitamin C-rich foods like bell peppers, sauerkraut, and fermented vegetables.
+   - Opt for fresh, locally sourced produce (e.g., from farmers' markets) for higher nutrient content.
+
+2. **Avoid Synthetic Supplements**  
+   - Prioritize whole food sources of vitamin C over synthetic supplements for better bioavailability.
+
+3. **Address Underlying Conditions**  
+   - Manage insulin resistance or diabetes to reduce related risks of deficiency.
+
+4. **Monitor Medication Use**  
+   - Consult healthcare providers about the impact of medications (e.g., sulfonamides) on vitamin C levels.
+
+---
+
+#### 健康建議  
+1. **Incorporate Fermented Vegetables**  
+   - Include sauerkraut and other fermented foods in your diet to boost vitamin C intake.
+
+2. **Opt for Fresh Produce**  
+   - Choose fresh, nutrient-dense vegetables like bell peppers, which are rich in vitamin C.
+
+3. **Mindful Supplementation**  
+   - If supplementation is necessary, choose natural sources over synthetic options.
+
+4. **Regular Dental Check-ups**  
+   - Monitor gum health and address any signs of recession promptly.
+
+---
+
+#### 結論  
+- Vitamin C deficiency is a significant contributor to receding gums.
+- Addressing the root causes through diet, lifestyle changes, and medical management can prevent and reverse gum recession.
+- Prioritize whole foods rich in vitamin C for optimal health benefits.
 </details>
 
