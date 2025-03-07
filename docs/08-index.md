@@ -1,111 +1,438 @@
 <details>
-<summary>900. Remedies For Swollen Hands Explained By Dr.Berg</summary><br>
+<summary>900. [2017-06-22] Remedies For Swollen Hands Explained By Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XLCm3XsBN1w" target="_blank">
     <img src="https://img.youtube.com/vi/XLCm3XsBN1w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：僵硬和腫脹的手部症狀及治療方法
 
+### 主要觀念：
+1. 儵硬和腫脹的手部症狀可能是由多種因素引起的，包括炎症、關節問題或其他健康狀況。
+2. 氨基酸氯化物（Ammonium Chloride）被介紹為一種有效的短期治療方法。
+
+### 問題原因：
+1. 症狀的可能原因是代謝失衡或慢性疾病，如胰島素抵抗。
+2. 胆固醇 deposits 和炎症反應可能加重手部僵硬和腫脹。
+
+### 解決方法：
+1. **氨基氯化物**：作为一种酸性劑和抗結石劑，可以幫助降低鈣沉積並促進排石。
+   - 用途：可作為補充劑使用，需自行搜尋合適產品。
+   - 注意事项：不推薦長期使用，僅適合短期症狀緩解。
+2. **針對胰島素抵抗**：
+   - 治療根因：建議參與相關健康計劃，改善胰島素敏感性以降低炎症反應。
+
+### 健康建議：
+1. 症狀評估：建議使用提供的評估測驗來分析症狀的根源。
+2. 生活方式調整：採取健康飲食和運動來提高整體代謝健康。
+3. 專業諮詢：若有疑慮，建議諮詢醫療專業人員。
+
+### 結論：
+氨基氯化物可作為短期 Relief 的有效工具，但關鍵在於解決根本原因，如胰島素抵抗。通過結合藥物治療和生活方式的改變，可以實現更持久的症状緩解和整體健康提升。
 </details>
 
 <details>
-<summary>899. How Much Dietary Fat Dangerous on a Ketogenic Diet Explained By Dr.Berg</summary><br>
+<summary>899. [2017-06-22] How Much Dietary Fat Dangerous on a Ketogenic Diet Explained By Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kS5nF8YDv2c" target="_blank">
     <img src="https://img.youtube.com/vi/kS5nF8YDv2c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：酮osis 的定義與特性  
+- **酮osis** 是一種代謝狀態，當碳水化合物攝取量極低時，身體轉而利用脂肪作為主要能量來源。  
+- 關鍵特點是血液中酮體水平升高，這是一種正常的生理反應。
 
+### 主要觀念：酮osis 與低碳飲食或高脂飲食的關係  
+- 鮕osis 的主要驅動因素是低碳水化合物攝取，而非高脂肪攝取。  
+- 確保酮osis 的維持需要將碳水化合物攝取量降至總熱量的 5% 以下。  
+
+### 啟發的原因：酮osis 的常見迷思與誤解  
+- 有人錯誤地認為酮osis 是「高脂飲食」，擔心會導致心血管疾病。  
+- 高蛋白攝取可能觸發胰島素分泌，因此不宜過量攝入蛋白質。  
+
+### 解决方法：實現酮osis 的飲食結構  
+- **碳水化合物**：限制至每日熱量的 5%，避免任何形式的糖和快速吸收的碳水化合物。  
+- **蛋白質**：適量攝取，避免過多以防止胰島素激增。  
+- **脂肪**：占每日熱量的 70-75%，主要來源包括健康脂肪如橄欖油、堅果和'avocado'。  
+
+### 健康建議：酮osis 飲食的实际操作  
+- 每日熱量攝取中，脂肪攝取量換算為 40 克/餐（以 1800 卡路里為例）。  
+- 高脂食物的攝取看似嚇人，但其實合理規劃後並非過量。  
+
+### 總結：酮osis 的益處與實踐要點  
+- 鮕osis 可有效幫助減重和改善代謝健康。  
+- 遵循低碳水化合物、適量蛋白質和高脂肪的飲食結構，可順利進入並維持酮osis 狀態。
 </details>
 
 <details>
-<summary>898. The Most Common Hair Loss Causes Explained By Dr. Berg</summary><br>
+<summary>898. [2017-06-21] The Most Common Hair Loss Causes Explained By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=l5wClnJj4_8" target="_blank">
     <img src="https://img.youtube.com/vi/l5wClnJj4_8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Core Theme (核心主題)
+- 掉髮與破損（hair loss and breakage）與壓力相關，涉及皮質醇（cortisol）的作用。
+- 探討壓力如何影響頭髮健康及可能的解決方法。
 
+### Main Ideas (主要概念)
+- 皮質醇是一種由腎上腺分泌的壓力荷爾蒙，過高或過低的皮質醇水平均會導致掉髮。
+- 高皮質醇水平引發代謝紊亂，破壞蛋白質和糖分バランス。
+- 低皮質醇水平可能與自體免疫疾病（如斑秃症 alopecia areata）相關。
+
+### Causes of the Problem (問題原因)
+- **壓力反應**：持續的壓力導致皮質醇分泌失衡。
+- **營養缺乏**：壓力耗竭維生素B、鈣和カリウム等關鍵營養素。
+- **免疫 Dysregulation**：低皮質醇可能引發自體免疫反應，攻擊頭髮根部。
+
+### Solutions and Recommendations (解決方法與建議)
+1. **壓力管理**：
+   - 減少外界壓力來源（工作、家庭等）。
+   - 使用按摩或艾克прессури技術來緩解身體壓力。
+2. **營養補充**：
+   - 补充維生素B、鈣和カリウム以改善頭髮健康。
+3. **生活習慣調整**：
+   - 確保高品質睡眠以促進生長激素分泌。
+   - 進行強度適宜的運動。
+4. **飲食建議**：
+   - 減少零食攝取，採用間歇性斷食以降低皮質醇並刺激生長激素。
+
+### Health Tips (健康建議)
+- 定期檢查頭髮健康，若掉髮情況嚴重儘早就醫。
+- 避免过度使用化學藥劑和熱造型工具以保護頭髮。
+- 總結：壓力管理和均衡飲食是維持頭髮健康的關鍵。
+
+### Conclusion (結論)
+- 掉髮與破損主要由壓力引起的皮質醇失衡導致。
+- 通過有效的壓力管理、營養補充和健康的生活習慣可以改善頭髮健康。
 </details>
 
 <details>
-<summary>897. 7 Common Keto Mistakes That Can Kick You Out of Ketosis – Dr. Berg</summary><br>
+<summary>897. [2017-06-21] 7 Common Keto Mistakes That Can Kick You Out of Ketosis – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=mLzORHS-OzE" target="_blank">
     <img src="https://img.youtube.com/vi/mLzORHS-OzE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理與分析
 
+#### 核心主題  
+本文主要探討導致酮症（ketosis）中断的七個不常被注意的因素，並提供相應的健康建議和解決方案。
+
+---
+
+#### 主要觀念  
+1. **壓力（Stress）**：壓力會引發皮質醇（cortisol）分泌增加，干擾酮症。  
+2. **攝入過量咖啡因（Excessive Caffeine Intake）**：大量攝取咖啡或茶等含咖啡因的飲料，可能刺激胰島素分泌。  
+3. **骨 broth 的攝取量（Bone Broth Intake）**：過多攝入骨 broth 可能輕微干擾酮症。  
+4. **蛋白質攝取過量（Excessive Protein Intake）**：高蛋白飲食可能刺激胰島素分泌，導致酮症中斷。  
+5. **L-谷氨酰胺（L-Glutamine）**：此補充劑雖有助消化健康，但可能干擾酮症。  
+6. **MSG 和人工甜味劑（Artificial Sweeteners and MSG）**：(MSG 和如阿斯巴甜、糖精等人工甜味劑) 可能影響胰島素水平。  
+7. **ミニ Keto 甜點（Mini Keto Desserts）**：即便標榜為酮友好的甜點，過量攝取仍可能破壞酮症。
+
+---
+
+#### 問題原因  
+1. **壓力反應**：皮質醇增加干擾脂肪代謝。  
+2. **咖啡因 excess**：刺激腎上腺素和胰島素分泌。  
+3. **骨 broth 中的蛋白質**：高蛋白攝取可能激活胰島素。  
+4. **過量蛋白攝入**：酮 diets 高蛋白飲食易導致胰島素 spikes。  
+5. **L-谷氨酰胺的作用**：雖有益於腸道健康，但可能干擾酮症。  
+6. **MSG 和人工甜味劑的影響**：潛在增加胰島素水平的食物添加物。  
+7. **ミニ Keto 甜點的糖醇成分**：某些糖醇（如曖肭糖、乳糖醇）雖低GI，但仍可能刺激胰島素。
+
+---
+
+#### 解決方法和健康建議  
+1. **管理壓力**：通過冥想、運動等方式降低皮質醇水平。  
+2. **限製咖啡因攝取**：每日保持在 moderation，避免 excess caffeine intake。  
+3. **控制骨 broth 用量**：少量攝取不會明顯影響酮症。  
+4. **調整蛋白攝取量**：每餐限制在 3-6 盎司（約 85-170 克），避免過量。  
+5. **謹慎使用 L-谷氨酰胺**：若有必要使用，可少量攝取或短期使用。  
+6. **閱讀食品標籤**：避免含 MSG 和人工甜味劑的加工食品。  
+7. ** moderation 消費 Keto 甜點**：選擇少量且低糖醇含量的產品。
+
+---
+
+#### 結論  
+酮症是一種有效的代謝方式，但其穩定性易受環境和飲食因素影響。避免上述七個常被忽視的因素，並結合健康的生活習慣，可有效維持酮症状态，提升整體健康水平。
+
+--- 
+
+### 參考術語解釋  
+- **Cortisol**：皮質醇，由腎上腺分泌，主要負責應對壓力和調節血糖。  
+- **Insulin**：胰島素，用於將血糖轉運至細胞內供能或儲存為脂肪。  
+- **Glycemic Index (GI)**：血糖生成指數，衡量食物攝入後血糖上升的速度。
 </details>
 
 <details>
-<summary>896. Best Keto Crackers You Must Know – Dr.Berg</summary><br>
+<summary>896. [2017-06-20] Best Keto Crackers You Must Know – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=sKiMNEsf74A" target="_blank">
     <img src="https://img.youtube.com/vi/sKiMNEsf74A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 推荐适合酮egenic饮食的脆饼选择。
 
+### 主要觀念
+1. **多樣化的脆餅選擇**：市場上有各種類型的脆餅。
+2. **FiNN CRISP 薄黑麥脆麵包**：被推薦為最佳選擇。
+
+### 問題原因
+- 某些脆餅可能含有較高麸質和碳水化合物，不適合酮egenic diet或其他特定飲食需求。
+
+### 解決方法
+1. **FiNN CRISP 薄黑麥脆麵包**：
+   - 是一款全穀物黑麥產品。
+   - 麸质含量低，適合對麩質敏感的人群。
+   - 每片含碳水化合物5克，膳食纖維1克，淨碳水化合物4克。
+
+### 健康建議
+- **食用建議**：
+  - 可搭配酸奶油、奶酪（如бри cheese）、牛油果泥或豆漿等食物。
+  - 適量食用以符合酮egenic飲食限制。
+
+### 結論
+- FiNN CRISP 薄黑麥脆麵包是一種適合酮egenic飲食的優質選項，但需注意購買渠道（如實體店或網上平台）。
 </details>
 
 <details>
-<summary>895. Nuts on Keto: Best Nuts For Ketogenic Diet – Dr. Berg</summary><br>
+<summary>895. [2017-06-20] Nuts on Keto: Best Nuts For Ketogenic Diet – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=aQxNnElDNjk" target="_blank">
     <img src="https://img.youtube.com/vi/aQxNnElDNjk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：酮飲食中最適合攝取的堅果類食品
 
+---
+
+### 主要觀念：
+1. **酮飲食的基本原則**：
+   - 低Net Carbs（總碳水化合物 - 纤維）。
+   - 高脂肪含量。
+
+2. **堅果在酮飲食中的角色**：
+   - 堅果是酮飲食中重要的能量來源，但需選擇低Net Carbs且高脂肪的品種。
+
+3. **文中比較的堅果類別**：
+   - 檢視了多種常見堅果（如杏仁、核桃、腰果、巴西堅果、山核桃、松子等）的營養成分，特別是Net Carbs和脂肪含量。
+
+---
+
+### 問題原因：
+1. **傳統觀念的限制**：
+   - 一般人可能認為.macadamia nuts是最好的酮飲食堅果，但文中指出其Net Carbs並非最低。
+
+2. **堅果選擇上的迷思**：
+   - 市場上流傳的一些關於堅果營養價值的信息可能存在誤導性。
+
+---
+
+### 解決方法：
+1. **科学評估堅果的營養成分**：
+   - 比較不同堅果的Net Carbs和脂肪含量，選擇最符合酮飲食需求的品種。
+
+2. **推薦食用的堅果**：
+   - ** pecans（美洲山核桃）**：Net Carbs 14克，Fat 71克。
+   - **巴西堅果**：Net Carbs 6克，Fat 88克。
+   - **松子**：Net Carbs 13克，Fat 92克。
+
+3. **避免食用的堅果**：
+   - **腰果**：Net Carbs 35克，Fat 62克，脂肪含量雖然高，但Net Carbs過高，不利酮飲食。
+
+---
+
+### 健康建議：
+1. **堅果攝取量控制**：
+   - 文中強調 comparative values based on one cup（一杯份量），但實際食用時應酌量，避免攝入过多Calories。
+
+2. **堅果醬的选择**：
+   - 関忠 almond butter（杏仁醬）因其Net Carbs較低（21克）且Fat含量高（139克）。
+   - 不建議選擇 peanut butter（花生醬），因Net Carbs過高（35克）。
+
+---
+
+### 結論：
+- **最佳堅果選擇**：pecans、巴西堅果和松子因其低Net Carbs和高脂肪含量，最適合酮飲食。
+- **個人化飲食建議**：根據自身需求和偏好，在推薦的堅果中做出選擇，並避免食用Net Carbs過高的堅果品種。
 </details>
 
 <details>
-<summary>894. Chocolate Chia Pudding Recipe (Keto-Friendly) – Dr. Berg</summary><br>
+<summary>894. [2017-06-19] Chocolate Chia Pudding Recipe (Keto-Friendly) – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=2LSTlkdseyg" target="_blank">
     <img src="https://img.youtube.com/vi/2LSTlkdseyg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小結結構
 
+**核心主題**
+- 文章圍繞健康食谱——黑巧克力奇亞籽布丁的製作與其健康益處展開討論。
+
+**主要觀念**
+1. 奇亞籽富含營養成分，包括Omega-3脂肪酸、膳食纖維和蛋白質。
+2. 本文強調奇亞籽對皮膚健康的益处，特別是對於乾性肌膚的改善作用。
+3. 食材簡單易得，製作過程便捷。
+
+**問題原因**
+1. 文章提及Jared不喜歡巧克力布丁，可能與個人口味偏好或健康因素有關。
+2. 初次接觸奇亞籽的人可能不了解其具體健康功效。
+
+**解決方法**
+1. 採用簡單的食材和工藝製作黑巧克力奇亞籽布丁，適合各類人群。
+2. 通過食谱演示來教育讀者關於奇亞籽的 nutritional values 和食用地點。
+
+**健康建議**
+1. 建議攝入富含Omega-3脂肪酸的食物以促進皮膚健康。
+2. 適當食用黑巧克力可提供抗氧化劑，有益健康。
+
+**結論**
+文章通過介紹一款健康的甜點食谱，展示了奇亞籽的多樣用途及其健康益處。作者鼓勵讀者嘗試製作此布丁作為均衡飲食的一部分。
 </details>
 
 <details>
-<summary>893. How to Overcome Adrenal Stress with Intermittent Fasting? – Dr. Berg</summary><br>
+<summary>893. [2017-06-19] How to Overcome Adrenal Stress with Intermittent Fasting? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=bwuKsf7sWP8" target="_blank">
     <img src="https://img.youtube.com/vi/bwuKsf7sWP8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節結構整理：
 
+#### 核心主題：
+- **逐步适应间歇性禁食的重要性**
+- **酮体代谢与血糖调节的关系**
+
+#### 主要觀念：
+1. 人体长期依赖碳水化合物作为主要能量来源。
+2. 切换到酮体代谢需要时间，期间可能出现不适症状。
+3. 急剧减少食物摄入可能导致血糖波动及应激反应。
+
+#### 問題原因：
+- **快速禁食的后果**：  
+  - 血糖水平骤降导致肾上腺素分泌增加，引发低血糖症状。  
+  - 激增的皮质醇可能加剧代谢压力。
+- **酮体适应期不足**：  
+  - 身体未充分适应脂肪燃烧模式，导致能量供应不稳定。
+
+#### 解決方法：
+1. **逐步减少餐次**：  
+   - 从三餐每日逐渐过渡到两餐。  
+2. **延长进食窗口**：  
+   - 初始阶段保持8小时的进食窗口，再逐步缩短至7小时、6小时等。  
+3. **增加健康脂肪摄入**：  
+   - 通过添加健康脂肪（如坚果、橄榄油）来延长饱腹感并稳定血糖。
+
+#### 健康建議：
+- **循序渐进**：避免突然改变饮食习惯，给予身体足够时间适应代谢转换。  
+- **监测症状**：注意低血糖等不适症状，及时调整进食计划。  
+- **均衡饮食**：确保摄入足够的营养，特别是健康脂肪和优质蛋白质。
+
+#### 結論：
+- 间歇性禁食是一个需要耐心和循序渐进的过程。  
+- 过度激进的饮食调整可能导致生理应激反应，反而影响健康目标的实现。  
+- 通过科学规划和逐步适应，可以有效过渡到酮体代谢状态，改善整体代谢健康。
+
+---
+
+以上整理以正式的學術用語及清晰的小節結構展示了文章的核心內容與要點。
 </details>
 
 <details>
-<summary>892. Residual Pain After Dental Work – Tips on Dental Pain Relief By Dr. Berg</summary><br>
+<summary>892. [2017-06-18] Residual Pain After Dental Work – Tips on Dental Pain Relief By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=BntpMhjGLQc" target="_blank">
     <img src="https://img.youtube.com/vi/BntpMhjGLQc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題
+- 殘留牙痛的原因與解決方法。
+- 口腔手術後的疼痛管理。
+
+#### 主要觀念
+1. 牙科手術後可能出現殘留疼痛，如拔牙、補洞或局部麻醉後的不適。
+2. 疼痛可能源於牙齒本身或周圍組織受損。
+
+#### 問題原因
+- 手術後牙周組織炎症反應導致疼痛。
+- 電刺激或機械性損傷引發的持續 discomfort。
+
+#### 解決方法
+1. **對側按摩法**：
+   - 按摩與痛 tooth 相反側的牙齒或牙齦，以均衡口腔神經系統，促進恢復。
+2. **具體操作步驟**：
+   - 找到對應的對側牙齒或位置。
+   - 輕柔按摩該部位，直到疼痛緩解。
+
+#### 健康建議
+1. 在進行任何牙科手術後，密切觀察身體反應。
+2. 若殘留疼痛持續或加重，及時回診檢查。
+3. 遵醫囑使用藥物或物理方法控制疼痛。
+
+#### 結論
+- 殘留牙痛可通过對側按摩等簡單方法有效緩解。
+- 及時處理和合適的自我護理能促進恢復，提升患者信心。
 </details>
 
 <details>
-<summary>891. The Difference Between Synthetic Vitamins vs Natural Vitamins – Dr. Berg</summary><br>
+<summary>891. [2017-06-18] The Difference Between Synthetic Vitamins vs Natural Vitamins – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=J4VDAgEtkdg" target="_blank">
     <img src="https://img.youtube.com/vi/J4VDAgEtkdg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題：合成維生素與自然維生素的差異及其健康影響
+
+#### 主要觀念：
+1. **合成維生素的佔有率**：約95%至98%的市售維生素為合成版本，自然來源的維生素市場份額極低。
+2. **自然維生素的特性**：
+   - 維生素在自然界中以 комплекс形式存在，包含協同因子（如酶、礦物質、微量元素等）。
+   - 自然維生素通常為D型，而合成維生素為DL型，結構不同可能影響其功能。
+3. **食物來源的維生素優勢**：
+   - 食物基質中的維生素更穩定且功能更強，因其未分離，身體吸收率更高。
+   - 合成維生素常導致尿液中過量排出，表明其利用率低。
+
+#### 問題原因：
+1. **合成維生素的局限性**：
+   - 分子結構不同：DL型合成維生素可能不如D型自然維生素穩定或有效。
+   - 長期攝取合成脂溶性維生素（如A、D、E、K）可能導致 toxicity，影響健康。
+2. **食品加工對維生素的破壞**：
+   - 素食加工過程中常破壞維生素，廠商為補充而添加合成維生素，但其形式未必適合人體需求。
+
+#### 解決方法：
+1. **選擇食物來源的維生素**：
+   - 選擇標有「food-based」或「nutritional yeast」等แหล่ง自然來源的產品。
+2. **短期使用合成維生素的情境**：
+   - 在-detox 或清潔計劃中，可短時間使用合成維生素以幫助毒素排出，但不宜長期服用。
+
+#### 健康建議：
+1. **閱讀標籤**：
+   - 注意劑量是否合理（如各維生素劑量應有差異，而非全部相同）。
+   - 確認來源是否為自然成分，避免使用含「calcium carbonate」等人工添加物的產品。
+2. **優先選擇食物攝取**：
+   - 最佳方式是通過飲食直接攝取維生素，確保營養均衡。
+
+#### 結論：
+合成維生素雖成本低、價格廉宜，但其生物利用率和安全性可能不及自然來源的維生素。消費者應提高警覺，閱讀產品標籤，選擇更健康的食品來源維生素產品，並避免長期依賴合成維生素。
+
+### 全文總結
+此文強調了合成維生素與自然維生素在結構、吸收率及健康影響上的差異，指出市售多數維生素產品為合成版本，可能對人體健康帶來潛在風險。作者建議消費者選擇食物來源的維生素，並注意產品標籤，以避免攝取低效且可能有害的合成維生素。
 </details>
 
 <details>
