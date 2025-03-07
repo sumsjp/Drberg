@@ -2,6 +2,9 @@
 <summary>4788. [2025-03-05] DON'T IGNORE THIS IF YOU'RE OVER 50!!!</summary>
 
 [[Youtube]](https://www.youtube.com/watch?v=bksYSwtJVM0)
+<a href="https://www.youtube.com/watch?v=bksYSwtJVM0" target="_blank">
+    <img src="https://img.youtube.com/vi/bksYSwtJVM0/maxresdefault.jpg" width="200">
+</a>
 
 ## 文章整理：cataracts 的防治與自然療法
 
