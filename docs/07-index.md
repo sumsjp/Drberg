@@ -560,113 +560,576 @@
 </details>
 
 <details>
-<summary>749. Cinnamon Roll Bites Recipe (Low Carb) – Dr. Berg</summary><br>
+<summary>749. [2017-03-31] Cinnamon Roll Bites Recipe (Low Carb) – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kkUFscXhk7M" target="_blank">
     <img src="https://img.youtube.com/vi/kkUFscXhk7M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題: 简单易做的小份甜点—— mug cake 的制作与优点
 
+- 该文章主要介绍了如何利用简单的食材和工具，在一个咖啡杯（mug）中制作出美味的小份蛋糕，特别强调了以 cinnamon roll 为主题的 Mug Cake。
+- 文章的核心在于推广一种轻松、快捷且适合个人享用的烘焙方式，避免传统蛋糕带来的过量食用问题。
+
+### 主要觀念: 小份甜点的优势与创意可能性
+
+- 通过使用 mug cake 的形式，可以精确控制分量，适合少量食用或分享给特定人群（如小孩）。
+- 该制作方法不仅简单，而且可以激发创造力，尝试不同的口味和配方。
+- 制作者展示了 cinnamon roll 型号的 Mug Cake，并强调其口感类似于 Cinnabon 或者 pancakes，具有独特的风味。
+
+### 問題原因: 传统蛋糕食用量过多带来的健康隐患
+
+- 传统蛋糕通常分量较大，容易让人过量摄入热量和糖分。
+- 过度食用甜点可能导致体重增加和其他健康问题，如糖尿病或心血管疾病。
+- 特别是对于那些希望控制食量的人来说，传统蛋糕往往不太合适。
+
+### 解決方法: 利用 Mug Cake 实现适量享受
+
+- 通过制作小份的 Mug Cake，可以轻松掌控每次摄入的热量和糖分，避免过量食用。
+- 这种方式不仅适合个人享用，也便于携带和分享。
+- 文章强调了这种烘焙形式的灵活性和创意空间，鼓励读者尝试不同的口味。
+
+### 健康建議: 平衡饮食与适量享受甜点
+
+- 尽管 Mug Cake 是一种小份甜点，仍需注意控制摄入频率和分量，避免过量食用。
+- 选择健康食材，如全麦面粉或无糖配方，以降低整体热量和糖分的摄入。
+- 结合均衡饮食和适量运动，才能真正实现对健康的管理。
+
+### 結論: Mug Cake 是一种便捷且健康的甜点选择
+
+- 通过简单的制作步骤和小巧的份量，Mug Cake 提供了一种既方便又不会过量享受甜点的方式。
+- 这种烘焙形式尤其适合那些希望控制饮食但又不想完全放弃甜食的人群。
+- 文章鼓励读者尝试这种创新的烘焙方式，并在健康的前提下，享受美食带来的乐趣。
 </details>
 
 <details>
-<summary>748. The 7 Nutrients That Get Rid of Love Handles (Belly Fat) – Dr. Berg</summary><br>
+<summary>748. [2017-03-30] The 7 Nutrients That Get Rid of Love Handles (Belly Fat) – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=i6brnHI1S1Y" target="_blank">
     <img src="https://img.youtube.com/vi/i6brnHI1S1Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：七種營養素降低愛巢.handle（腹部脂肪）
 
+### 主要觀念：
+1. 腹部脂肪與高胰島素血症密切相關。
+2. 降低胰島素水平是消除愛巢.handle的關鍵。
+3. 搭配特定營養素可幫助降低胰島素並促進脂肪燃燒。
+
+### 啟發原因：
+- 高胰島素水平導致身體儲存更多脂肪，特別是在腹部區域。
+- 膳食中缺乏某些營養素可能加劇胰島素抵抗。
+
+### 解决方法：七種關鍵營養素
+1. **钾（Potassium）**：
+   - 功能：幫助調節液電解平衡，降低血壓，間接影響胰島素水平。
+   - 來源：甜菜葉、菠菜、西兰花、牛油果。
+
+2. **維生素D**：
+   - 功能：促進胰島素敏感性，改善胰島素抵抗。
+   - 來源：脂肪魚肝油、日晒蘑菇、蛋黃。
+
+3. **膳食纖維**：
+   - 功能：緩慢糖分吸收，降低血糖_spike，支持腸道健康。
+   - 來源：蔬菜（西兰花、菠菜）、水果（莓類）。
+
+4. **中鏈脂肪酸（MCFAs, Medium-Chain Fatty Acids）**：
+   - 功能：促進脂肪燃燒，提升代謝率。
+   - 來源：椰子油、棕榈油。
+
+5. **鎂（Magnesium）**：
+   - 功能：協助胰島素受體功能，降低胰島素抵抗。
+   - 來源：南瓜種子、菠菜、瑞士甜菜、杏仁。
+
+6. **維生素B1（Thiamine）**：
+   - 功能：降低胰島素需求，改善能量代謝。
+   - 來源：向日葵籽、營養酵母。
+
+7. **鉻（Chromium）**：
+   - 功能：協助胰島素作用，提升血糖控制。
+   - 來源：西兰花、營養酵母。
+
+### 健康建議：
+1. 飲食中多攝取富含上述營養素的食物，尤其是蔬菜和健康脂肪。
+2. 減少精制糖和高GI食物的攝取，以降低血糖_spike。
+3. 考慮補充劑來彌補營養不足，如營養酵母。
+4. 維持均衡飲食與適度運動，共同改善胰島素抵抗。
+
+### 結論：
+通過攝取這七種關鍵營養素，可以有效降低胰島素水平，從而幫助消除愛巢.handle（腹部脂肪）。此方法強調自然營養攝取，配合适當的生活方式調整，可達成健康目標。
 </details>
 
 <details>
-<summary>747. 5 Critical Ketosis Tips – Dr.Berg</summary><br>
+<summary>747. [2017-03-29] 5 Critical Ketosis Tips – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=a321CzhKZnQ" target="_blank">
     <img src="https://img.youtube.com/vi/a321CzhKZnQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Summary of Key Points from the Article
 
+#### Core Theme:
+- The article discusses five critical tips for successfully following a ketosis diet, emphasizing proper hydration, electrolyte balance, digestive health, fat digestion, and food quality.
+
+#### Main Concepts:
+1. **Hydration and Electrolyte Balance**:
+   - Transitioning to a ketogenic diet can lead to fluid loss due to the elimination of retained water from sugar metabolism.
+   - Diuresis occurs, leading to the excretion of electrolytes like potassium and magnesium.
+   - Importance of replenishing fluids and electrolytes to avoid dehydration and maintain bodily functions.
+
+2. **Waste Elimination and Digestive Health**:
+   - Constipation can occur due to toxin release from fat burning and impaired digestive function.
+   - Herbal laxatives or dietary adjustments (e.g., switching to romaine lettuce or adding fermented vegetables) may be necessary to maintain regularity.
+   - Proper elimination is crucial for preventing health issues like thyroid problems and skin conditions.
+
+3. **Fat Digestion and Gallbladder Health**:
+   - Overconsumption of fat can overwhelm the gallbladder, leading to pain and conditions like the keto rash.
+   - Gradual increase in fat intake and use of bile salts may help the body adapt to higher fat digestion.
+
+4. **Food Quality for Healthy Weight Loss**:
+   - Consuming high-quality foods (e.g., grass-fed meats, organic produce, wild-caught fish) is essential to avoid an unhealthy appearance during weight loss.
+   - Poor food choices can lead to an unsightly or unhealthy look despite weight loss.
+
+#### Health Recommendations:
+1. **Hydration and Electrolytes**:
+   - Drink adequate water to replace lost fluids.
+   - Add electrolytes (e.g., potassium, magnesium) to prevent deficiencies.
+   - Consider using nutritional yeast for B vitamins and sea salt for sodium replenishment.
+
+2. **Digestive Support**:
+   - Use herbal laxatives or dietary adjustments if constipated.
+   - Incorporate fiber-rich foods like romaine lettuce and fermented vegetables to aid digestion.
+
+3. **Fat Intake Management**:
+   - Avoid overconsumption of fats to prevent gallbladder strain.
+   - Gradually increase fat intake and consider bile salts if needed.
+
+4. **Dietary Quality**:
+   - Prioritize nutrient-dense foods to maintain healthful appearance during weight loss.
+   - Choose grass-fed, organic, and wild-caught options for optimal nutrition.
+
+#### Conclusion:
+The article highlights the importance of hydration, electrolyte balance, digestive health, controlled fat intake, and food quality in a ketogenic diet. It emphasizes the need for careful dietary adjustments to avoid common pitfalls like dehydration, constipation, gallbladder issues, and an unhealthy appearance. By following these tips, individuals can safely and effectively follow a ketosis diet while maintaining overall health.
 </details>
 
 <details>
-<summary>746. How To Fix a Chronic Cough Explained By Dr.Berg</summary><br>
+<summary>746. [2017-03-28] How To Fix a Chronic Cough Explained By Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=9Vy6xCIjbnA" target="_blank">
     <img src="https://img.youtube.com/vi/9Vy6xCIjbnA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 慢性咳嗽的原因與解決方案  
 
+---
+
+### 主要觀念  
+1. 慢性咳嗽的一個常見原因是缺鈣。  
+2. 骨喉嚨（larynx）缺乏 calcium 可能導致緊張和刺激，進而引發慢性咳嗽。  
+3. 乳酸鈣（calcium lactate）是一種有效的補充劑，吸收速度快，適合用於此類症狀。  
+
+---
+
+### 問題原因  
+- 骨喉嚕缺乏 calcium 可能導致以下問題：  
+  - 喉嚨緊張和不適。  
+  - 慢性咳嗽。  
+- 其他可能的原因包括：  
+  - 胃食道逆流（GERD）。  
+  - 體力不足（adrenal fatigue）。  
+  - B12 缺乏。  
+
+---
+
+### 解决方法  
+1. **補充乳酸鈣**：  
+   - 乳酸鈣吸收速度快，比其他形式的 calcium（如碳酸鈣）更為有效。  
+   - 可用於成人、兒童和嬰兒。  
+2. **使用途徑**：  
+   - 成人可直接攝取乳酸鈣粉末或片劑。  
+   - 對於嬰兒，可將乳酸鈣 powder 混入配方奶中。  
+3. **其他用途**：  
+   - 也可用於治療口腔潰瘻（canker sores）和睡眠障礙。  
+
+---
+
+### 健康建議  
+1. **成人**：  
+   - 遊び前或睡前攝取乳酸鈣，可幫助緩解咳嗽並促進睡眠。  
+2. **嬰兒**：  
+   - 母乳哺育的母親可直接攝取乳酸鈣，通過母乳傳遞给宝宝。  
+   - 配方奶喂養的嬰兒可在奶中加入少量乳酸鈣粉末。  
+3. **兒童**：  
+   - 在兒童發燒或睡眠紊亂時，可用乳酸鈣進行調理。  
+
+---
+
+### 其他可能因素  
+- 如果缺鈣補充後症狀未改善，可考慮以下其他原因：  
+  - 胃食道逆流（GERD）。  
+  - 體力不足（adrenal fatigue）。  
+  - B12 缺乏。  
+
+---
+
+### 結論  
+- 乳酸鈣是一種經濟有效的解決方案，可有效緩解慢性咳嗽和其他相關症狀。  
+- 建議在試用此方法前諮詢醫生或專業醫療人員，以排除其他潛在問題。
 </details>
 
 <details>
-<summary>745. The 6 Fat-Burning Hormone Triggers Explained By Dr. Berg</summary><br>
+<summary>745. [2017-03-27] The 6 Fat-Burning Hormone Triggers Explained By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=mPoUj3ic5sY" target="_blank">
     <img src="https://img.youtube.com/vi/mPoUj3ic5sY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：脂肪燃燒激素的作用及激發方法
 
+#### 主要觀念：
+1. **甲状腺激素（T3 和 T4）**  
+   - T3 是活性形式，主要負責脂肪燃燒。
+   - T4 是非活性形式，需在肝臟、腎臟和膽囊中轉換為 T3。
+   - 碘和硒是關鍵營養素，分別促進激素合成和轉換。
+
+2. **生長激素（GH）**  
+   - 由腺垂體分泌，主要在夜間作用。
+   - 高強度間歇訓練、中等蛋白質攝取、睡眠、禁食和精氨酸可激發 GH。
+   - 高血糖和壓力會抑制 GH。
+
+3. **胰島素樣生長因子-1（IGF-1）**  
+   - 與 GH 作用相似，但由肝臟合成。
+   - 在禁食或低血糖時活躍，主要負責燃燒脂肪。
+   - 高 insulin 水平會抑制 IGF-1。
+
+4. **胰高血糖素（Glucagon）**  
+   - 與胰島素拮抗，促進糖原分解和脂肪燃燒。
+   - 由蛋白質攝取和強度運動激發。
+   - 經加工碳水化合物會抑制其作用。
+
+5. ** testosterone（睪球素）**  
+   - 由睾丸分泌，受飲酒、整體抗阻訓練和維生素 D 激發。
+   - 高 estrogen 和 insulin 水平會抑制 testosterone。
+
+6. **腎上腺素（Adrenaline）**  
+   - 由高強度運動激發，主要作用於脂肪燃燒。
+
+#### 問題原因：
+- 確保膽汁正常循環和肝臟健康是激發甲状腺激素的重要條件。
+- 高血糖、壓力和不良飲食習慣會抑制關鍵脂肪燃燒激素（如 GH 和 IGF-1）。
+- 生活方式因素（如缺乏運動、睡眠不足）會影響激素平衡。
+
+#### 解決方法：
+1. **激發甲状腺激素**  
+   - 取富含碘的食物（如海藻）和硒 rich 的食物（如巴西 nuts）。  
+   - 確保膽汁循環暢通，避免肝臟和膽囊問題。
+
+2. **激發生長激素**  
+   - 進行高強度間歇訓練。  
+   - 控制血糖，避免過量攝取糖分。  
+   - 獲得充足睡眠並增加禁食時間。
+
+3. **激發 IGF-1**  
+   - 遵循間歇性禁食，避免頻繁進餐。  
+
+4. **激發胰高血糖素**  
+   - 取足夠的蛋白質，進行中等至高強度運動。  
+
+5. **提升 testosterone**  
+   - 保持健康的飲酒習慣，進行全身抗阻訓練。  
+   - 確保維生素 D 合成充足（如多晒太陽）。  
+
+6. **激發腎上腺素**  
+   - 定期進行高強度運動，如跑步、騎車或重量訓練。
+
+#### 健康建議：
+- 避免過量攝取糖分和精製碳水化合物，以降低血糖和胰島素水平。  
+- 確保均衡飲食，包含足夠的蛋白質、健康脂肪和複合碳水化合物。  
+- 獲得充足睡眠，並避免長期壓力。  
+- 定期進行高強度間歇訓練（HIIT）和抗阻訓練，以激發多種脂肪燃燒激素。
+
+#### 結論：
+脂肪燃燒是一個由多種激素共同作用的複雜過程。通過合理的飲食安排、運動計劃和生活習慣調整，可以有效激發這些激素的作用，從而實現更高效的體脂降低和整體健康提升。
 </details>
 
 <details>
-<summary>744. Egg Yolk vs Egg Whites – Which One is Healthier? – Dr.Berg</summary><br>
+<summary>744. [2017-03-26] Egg Yolk vs Egg Whites – Which One is Healthier? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=oIF8baDO3UY" target="_blank">
     <img src="https://img.youtube.com/vi/oIF8baDO3UY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：蛋黃與蛋白的營養價值比較及健康影響
 
+#### 1. 蛋白質含量  
+- 蛋黄和蛋白均含有豐富的蛋白質。  
+- 蛋黄提供2.7克，蛋白提供3.6克。
+
+#### 2. 矿物质含量  
+- **蛋黄**：含有多種礦物質，包括 calcium（21.9毫克）、phosphorus（66.3毫克）、potassium。  
+- **蛋白**：礦物質含量較低，主要含有少量的zinc和selenium。
+
+#### 3. 脂肪 soluble 維生素  
+- **蛋黄**：富含維生素A、D、K1和K2，尤其是vitamin K2，具有重要的健康功效。  
+- **蛋白**：不含脂肪 soluble 維生素。
+
+#### 4. 心血管健康  
+- **Vitamin K2**：能移除 arteries 中的鈣質，降低血壓並提高血管彈性。  
+- **膽固醇**：身體每日自然生成約3000毫克膽固醇，攝食蛋類不會顯著影響血液中的膽固醇水平，且可能增加HDL（好膽固醇）。  
+
+#### 5. 膳食纖維及其他營養素  
+- **Choline**：蛋黄是良好的來源，有助於肝臟健康和神經傳導。  
+- **Biotin**：蛋白中含有的某種蛋白質可能干擾biotin的吸收，影響頭髮和指甲健康。
+
+#### 6. 蛋的選擇與食用建議  
+- 選購 pasture-raised（放牧飼養）且organic的雞蛋，以確保營養價值和避免 GMO 或農藥污染。  
+- 煮熟蛋白以避免生物素吸收問題，蛋黄可保持生食或溫柔烹調。
+
+#### 7. 常見誤解與澄清  
+- 蛋白並不比蛋黃更健康，蛋黄營養價值更高且富含多種微量元素和脂肪 soluble 維生素。  
+- 高膽固醇攝入對絕大多數人來說並非問題，除非有特殊遺傳因素。
+
+#### 8. 健康建議  
+- 每天食用4個雞蛋是安全的。  
+- 平衡飲食中可多攝取 pasture-raised 的蛋類，以獲取豐富的營養素和健康脂肪。
+
+#### 9. 總結  
+蛋黄在營養價值上遠勝於蛋白，富含維生素、礦物質和有益健康的成分如DHA。選擇高品質的雞蛋並合理食用，可帶來多方面的健康益處。
 </details>
 
 <details>
-<summary>743. Brain Focus #1 Tip And Trick Explained By Dr.Berg</summary><br>
+<summary>743. [2017-03-25] Brain Focus #1 Tip And Trick Explained By Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=FqUX3wijdi0" target="_blank">
     <img src="https://img.youtube.com/vi/FqUX3wijdi0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理：文章《血糖與大腦功能》要點總結
 
+#### **核心主題**
+- **血糖水平對大腦功能的影響**  
+  文章強調了血糖波動如何干擾認知功能、情緒穩定性以及整體健康。
+
+#### **主要觀念**
+1. **血糖波動的危害**  
+   - 高血糖和低血糖均會導致神經元功能受損。
+   - 短期内的血糖波動可影響注意力和判斷力，而長期波動則可能引發慢性疾病。
+
+2. **糖分攝入對大腦的雙重危害**  
+   - 細胞缺氧： excess sugar consumption reduces oxygen delivery to the brain.
+   - 大腦萎縮： 長期高血糖會導致海馬等腦區萎縮，影響記憶力和學習能力。
+
+3. **醫院飲食的危害**  
+   - 住院期間提供的高糖食物（如Jello、甜點）會引發血糖波動，影響康復效果。
+
+#### **問題原因**
+1. **不良飲食習慣**  
+   - 高糖攝入： 包括精制糖和天然糖漿（蜂蜜、龍舌蘭蜜餍）。
+   - 零食過量： 進食時間不規律，導致血糖持續波動。
+
+2. **餐廳飲食的誘惑**  
+   - 外出就餐時易受高糖、高脂食物誘惑，特別是血糖低時更難抗拒。
+
+3. **醫療環境的不足**  
+   - 医院提供的飲食往往不健康，不利於患者康復。
+
+#### **解決方法**
+1. **飲食調整**  
+   - 減少精制糖攝入： 搵著零用糖、含糖飲料和加工食品。
+   - 遠離零食： 控制進食次數，避免血糖波動。
+
+2. **進食策略**  
+   - 按需進食： 只在饑餓時吃飯，避免強迫性進食。
+   - 縮減餐次： 推薦少量多餐或間歇性禁食，以穩定血糖水平。
+
+3. **增加健康食物攝取**  
+   - 增加蔬菜和高纖維食物的攝取，幫助控制血糖。
+   - 選擇蛋白質和健康脂肪來源，提供持久的能量。
+
+4. **避免誘惑環境**  
+   - 出外就餐前先進食，降低 hunger levels.
+   - 遠離容易誘發糖分攝入的場所（如 bakery, 餐廳等）。
+
+#### **健康建議**
+1. **飲食模式建議**  
+   - 早晨延遲進餐： 直到饑餓感出現時再吃早餐。
+   - 推薦少量多餐或兩餐制，以穩定血糖。
+
+2. **食物選擇**  
+   - 選擇高蛋白、高健康脂肪的食物（如魚類、坚果、 avocado）。
+   - 增加蔬菜和深色葉菜攝取，提供必需營養且低GI。
+
+3. **餐廳就餐策略**  
+   - 先進食降低 hunger levels before dining out.
+   - 選擇清蒸、烤制等健康烹調方式，避免油炸和高糖食物。
+
+#### **結論**
+- **血糖控制的重要性**： 確保血糖水平穩定是維持大腦功能和整體健康的关键。
+- **飲食調整的必要性**： 通過合理的飲食結構來實現血糖平衡，從而保護神經系統免受損害。
+- **生活方式的改變**： 需要採取綜合措施（包括飲食、活動等）來達到並維持健康的血糖水平。
 </details>
 
 <details>
-<summary>742. Why People Smoke Cigarettes Explained By Dr. Berg</summary><br>
+<summary>742. [2017-03-24] Why People Smoke Cigarettes Explained By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=G1M54DRxZ3U" target="_blank">
     <img src="https://img.youtube.com/vi/G1M54DRxZ3U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Core Theme: Understanding the Motivations and Consequences of Cigarette Smoking
 
+#### Main Concepts:
+- **Addiction to Nicotine**: Nicotine is highly addictive due to its calming effects on the body.
+- **Physiological Effects of Nicotine**: Nicotine stimulates the parasympathetic nervous system, promoting relaxation and alertness.
+- **Health Risks Associated with Cigarettes**: The numerous harmful chemicals in cigarettes pose significant health risks, including cancer.
+
+#### Causes of Smoking:
+- **Social Perceptions**: Initially, smoking may be influenced by social factors like wanting to appear cool.
+- **Stress Relief and Relaxation**: Many smoke to manage stress and achieve a sense of calmness and focus.
+
+#### Health Concerns:
+- **Chemical Hazards**: Cigarettes contain 4,000 chemicals, including 42 carcinogens, carbon monoxide, cyanide, arsenic, DDT, cadmium, benzene, and fungicides.
+- **Nicotine's Impact**: While nicotine itself does not cause cancer, it is highly addictive and can lead to long-term health issues by overworking the parasympathetic nervous system.
+
+#### Solutions and Alternatives:
+1. **Switch to Safer Nicotine Delivery Methods**:
+   - Use nicotine patches or vapor cigarettes as healthier alternatives.
+2. **Quit Nicotine Gradually**:
+   - A gradual reduction in nicotine intake can help manage withdrawal symptoms, which may last for about two weeks or longer.
+
+#### Health Recommendations:
+- **Stimulate the Parasympathetic Nervous System**:
+  - **Adaptogens**: Consider using herbs like ashwaganda to calm the nervous system.
+  - **Potassium Intake**: Consume potassium-rich foods and supplements to enhance parasympathetic function.
+  - **Caffeine-Free Green Tea**: Incorporate decaffeinated green tea to stimulate relaxation.
+  - **Vitamin B1 (Thiamine)**: Increase intake of vitamin B1 to support the parasympathetic nervous system.
+  - **Physical Activities**: Engage in low-stress exercises like walking, yoga, or stretching to promote relaxation.
+
+#### Conclusion:
+- Cigarette smoking is driven by the desire for stress relief and relaxation, but it comes with significant health risks due to harmful chemicals. Transitioning to safer nicotine delivery methods and adopting natural strategies to stimulate the parasympathetic nervous system can help achieve similar benefits without the associated dangers. Gradual withdrawal from nicotine and incorporating healthy lifestyle changes are key steps toward improving overall well-being.
 </details>
 
 <details>
-<summary>741. How to Relieve Stress Explained By Dr. Berg</summary><br>
+<summary>741. [2017-03-23] How to Relieve Stress Explained By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xaIeNseFHp4" target="_blank">
     <img src="https://img.youtube.com/vi/xaIeNseFHp4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題  
+- 緓解壓力的方法（八個技巧）  
+
+#### 主要觀念  
+1. **低強度活動的重要性**：行走等低強度活動比高強度運動更有效於降低壓力，因為它提供更多的氧氣並幫助放鬆身心。
+2. **營養補充的影響**： nutritional yeast 可以幫助缓解壓力和改善睡眠。
+3. **食物攝取的關鍵性**：適當的飲食，特別是富含礦物質（如鈣、鎂、鉀）的食物，可以幫助放鬆肌肉並降低整體壓力。
+4. **身體觸發點的作用**：通過按壓特定穴位（如頸部、 adrenal area 和背部），可以有效釋放壓力。
+5. **呼吸的重要性**：深呼吸和慢呼吸是降低壓力的有效方式，特別是在睡前進行。
+6. **代謝狀況的影響**：酮症和生酮飲食有助於降低壓力，因為它使身體燃燒脂肪而非糖類作為能量來源。
+
+#### 問題原因  
+- 现代生活中的壓力來源包括工作、人際關係、經濟問題等，這些因素會導致心理和生理上的緊張。
+- 高強度運動和低氧氣水平的活動可能增加壓力。
+- 营養不均衡和 mineral deficiency 可能導致肌肉緊張和神經系統紊亂。
+- 快速呼吸和其他不良呼吸習慣會加劇壓力感。
+
+#### 解決方法  
+1. **進行低強度活動**：如行走，以幫助放鬆身心並提高氧氣水平。
+2. **攝取營養酵母**：每日一小勺，幫助降低內部壓力和改善睡眠。
+3. **食用適當飲食**：包括富含 adaptogens（如 Ashwagandha 和 Holy Basil）的食物，這些成分有助於增強身體對壓力的抵抗能力。
+4. **按壓特定穴位**：如頸部、 adrenal area 和背部，以釋放壓力。
+5. **進行深呼吸練習**：通過慢速呼吸（吸氣五秒，呼氣五秒）來降低心臟病的風險並放鬆神經系統。
+6. **實施酮症飲食**：通过生酮飲食和間歇性禁食，使身體燃燒脂肪而非糖類作為能量來源，從而降低壓力。
+
+#### 健康建議  
+- 每日攝取一茶匙營養酵母。
+- 食用富含 calcium, magnesium, potassium 的食物，如深綠色蔬菜。
+- 按壓特定穴位以釋放壓力。
+- 練習深呼吸和慢呼吸技巧，特別是在睡前。
+- 將酮症飲食結合間歇性禁食，以降低身體對糖類的依賴。
+
+#### 結論  
+- 通過上述八種方法，可以有效降低壓力並改善整體健康狀況。這些方法包括了運動、營養攝取、呼吸練習和代謝調整等方面，涵蓋了身體和心理的多個方面，從而提供了一個綜合的壓力管理策略。
 </details>
 
 <details>
-<summary>740. Say Goodbye to Acne: Dr. Berg's Proven Methods for Clearing Your Skin</summary><br>
+<summary>740. [2017-03-21] Say Goodbye to Acne: Dr. Berg's Proven Methods for Clearing Your Skin</summary><br>
 
 <a href="https://www.youtube.com/watch?v=TIPXGsDnrLE" target="_blank">
     <img src="https://img.youtube.com/vi/TIPXGsDnrLE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理： acne的多面性與綜合治療
 
+#### 1. 核心主題
+- **痤瘡（acne）**是一種常見的皮膚問題，其成因複雜，涉及內分泌、代謝和環境等多重因素。
+- 親文強調了痤瘡作為身體健康指標的重要性，並提出了從根本原因入手的治療方法。
+
+#### 2. 主要觀念
+- 痰瘡的發生與激素失衡（尤其是雄性激素過多）及皮脂腺活動異常密切相關。
+- 肝臟功能不良、胰島素抵抗以及其他代謝問題可導致痤瘡。
+- 治療應該針對根本原因，而非僅治標。
+
+#### 3. 問題原因
+- **激素失衡**：
+  - 雄性激素過多：刺激皮脂腺分泌，引發粉刺。
+  - 雌激素失衡：肝臟功能不佳導致雌激素代謝受阻，影響皮膚健康。
+  
+- **胰島素抵抗**：導致皮脂腺活性增強，加重痤瘡。
+
+- **環境與生活方式因素**：
+  - 高糖高脂飲食、壓力、睡眠不足等惡化痤瘡。
+  - 某些藥物（如抗生素、抗抑鬱藥）干擾激素平衡，加重痤瘡。
+
+#### 4. 解決方法
+- **調節激素平衡**：
+  - 使用具有抗雄性激素作用的成分：如鋅、維生素A和E。
+  
+- **改善肝臟功能**：
+  - 增加потребление крісферахових вітаминів (например, бруколи, капуста) для боротьби з еструсом перевагою.
+
+- **降低胰島素抵抗**：
+  - 通過飲食控制、運動和藥物來改善胰島素敏感性。
+
+#### 5. 健康建議
+- **飲食調整**：
+  - 減少高糖、高脂食物攝取。
+  - 增加富含維生素A、C和E的食物，如深色蔬菜和水果。
+  
+- **補充營養素**：
+  - 鋅：降低皮脂分泌，抗菌。
+  - 維生素A：促進皮膚再生，減少炎症。
+  - 綴維酸（B5）：幫助維生素A更好地發揮作用。
+
+- **生活方式調整**：
+  - 觀光充足睡眠，管理壓力。
+  - 避免擠壓粉刺，以防感染和疤痕。
+
+#### 6. 推荐的治療方案
+- **自然療法**：
+  - 使用 DIM（Diindolylmethane）：一種濃縮的 Brassica 蔬菜提取物，幫助調節雌激素。
+  - 斯廷根nettler root：天然草藥，有助於平衡激素和改善皮膚健康。
+
+- **藥物治療**：
+  - 鋅 supplements：降低皮脂分泌，抗菌。
+  - 維生素A衍生物（如過氧化苯甲酰）：減少痤瘡桿菌，促進皮膚恢復。
+
+#### 7. 結論
+- 痰瘡的治療需要從根本原因入手，結合飲食、營養補充和生活方式調整。
+- 避免只追求表面效果的快速療法，應注重整體健康，才能實現長期有效的痤瘡管理。
 </details>
 
 <details>
