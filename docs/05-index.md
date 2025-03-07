@@ -340,113 +340,476 @@
 </details>
 
 <details>
-<summary>569. Amazing Chocolate Keto Fat Bombs</summary><br>
+<summary>569. [2016-11-16] Amazing Chocolate Keto Fat Bombs</summary><br>
 
 <a href="https://www.youtube.com/watch?v=BxJLucZVF0I" target="_blank">
     <img src="https://img.youtube.com/vi/BxJLucZVF0I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 文章重點整理
 
+## 核心主題  
+- 制作一款簡單的巧克力脂肪炸弹（Fat Bomb）食譜。
+
+## 主要內容  
+1. **原料**：  
+   - 可可粉  
+   - 椰子油  
+   - 香草精  
+2. **工OCI具**：  
+   - 糕模具（可在文具店購買）  
+3. **制作步驟**：  
+   - 將所有原料混合均勻。  
+   - 倒入模具中冷卻約15分鐘，直至凝固。  
+
+## 健康建議  
+- 作為一頓飯的甜點食用，避免在兩餐之間零食。  
+- 每餐建議食用1-2顆Fat Bomb以控制攝取量。  
+
+## 注意事項  
+- 雷 molds需避免使用洗碗機清洗，以免破損。  
+- 可存放在冰箱或冰柜中，保持其新鮮度。  
+
+## 結論  
+Chocolate Fat Bomb是一道簡單易做、低溫製作的甜點，適合在低碳水化合物飲食中作為 desserts。
 </details>
 
 <details>
-<summary>568. Why People Plateau with Weight Loss – Dr. Berg</summary><br>
+<summary>568. [2016-11-16] Why People Plateau with Weight Loss – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=7oT9cye5KnY" target="_blank">
     <img src="https://img.youtube.com/vi/7oT9cye5KnY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：为何人们会在减重过程中遇到瓶颈——体重 plateau 的成因与解决方案
 
+---
+
+#### 一、核心主题  
+探讨导致体重 plateau（停滞不前）的原因，并提供科学的解决方案。
+
+---
+
+#### 二、主要观念  
+1. **症状 vs 根本原因**：许多人误将体重 plateau 归咎于“新陈代谢减慢”，但这是症状而非根本原因。
+2. **医学评估的局限性**：传统血检可能无法捕捉到早期问题，如亚临床甲状腺功能异常或轻度胰岛素抵抗。
+3. **生活方式的影响**：睡眠不足、过度训练和饮食结构不合理是常见的诱因。
+
+---
+
+#### 三、体重 plateau 的常见原因  
+1. **睡眠问题**：睡眠不足会影响代谢激素的平衡，导致脂肪燃烧效率下降。  
+2. **过度运动**：长时间高强度锻炼可能导致身体进入“保护模式”，减少能量消耗以维持体重。  
+3. **甲状腺功能异常**：甲状腺问题（如甲减）会导致代谢率下降，进而影响体重变化。  
+4. **胰岛素抵抗**：高胰岛素水平会抑制脂肪燃烧，并促进脂肪储存，常见于前期糖尿病阶段。  
+5. **饮食结构不合理**：过多摄入精制糖和加工食品可能导致血糖波动和能量利用效率低下。
+
+---
+
+#### 四、解决方法与健康建议  
+1. **评估与诊断**  
+   - 需要进行全面的医学评估，包括代谢激素检测（如甲状腺功能、胰岛素水平）。
+   - 通过症状分析判断是否存在胰岛素抵抗或其他潜在问题。  
+
+2. **调整生活方式**  
+   - **改善睡眠质量**：保证充足且高质量的睡眠时间，建议每晚7-9小时。  
+   - **适量运动**：避免过度训练，选择中低强度有氧运动结合力量训练。  
+   - **饮食优化**：减少精制糖和高GI食物摄入，增加膳食纤维和健康脂肪的比例。  
+
+3. **针对性治疗**  
+   - 若确诊为甲状腺功能异常或胰岛素抵抗，需在医生指导下进行药物治疗或生活方式干预。
+
+---
+
+#### 五、结论  
+体重 plateau 的成因复杂多样，涉及代谢激素失衡、生活方式不当等多种因素。通过科学的医学评估和个性化的干预措施，可以有效克服这一挑战，实现持续减重目标。
 </details>
 
 <details>
-<summary>567. Jalapeno Bacon Cream Cheese Keto Fat Bombs</summary><br>
+<summary>567. [2016-11-15] Jalapeno Bacon Cream Cheese Keto Fat Bombs</summary><br>
 
 <a href="https://www.youtube.com/watch?v=PO0kciUKs-I" target="_blank">
     <img src="https://img.youtube.com/vi/PO0kciUKs-I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 討論一款 Vegan Fat Bomb 餐點食譜，強調其健康與美味兼具的特性。
 
+---
+
+### 主要觀念  
+1. **食譜介紹**：此款 Fat Bomb 由jalapeño、培根和cream cheese組成，不僅風味獨特，且完全符合 Vegan 饮食需求。  
+2. **食譜特色**：  
+   - 使用健康脂肪來源（如奶油芝士）增添飽足感。  
+   - 芥末椒的加入增加了辣味層次，提升口感豐富度。  
+3. **適用場景**：  
+   - 適合作為正餐或輕食，幫助控制食慾和零食攝取。  
+   - 也適合用於節慶場合，作為開胃菜或派對點心。
+
+---
+
+### 問題原因  
+- 很多人在進食時容易因缺乏飽足感而頻繁零食，導致熱量攝取過高。  
+
+---
+
+### 解決方法  
+1. **增加健康脂肪攝取**：通過使用奶油芝士等健康脂肪來源，幫助提高餐後 Satisfaction，降低食慾。  
+2. **提供豐富口感**：利用 jalapeño 的辣味和培根的鹹香，提升食物風味，使人感到滿足。  
+
+---
+
+### 健康建議  
+1. **均衡飲食**：脂肪攝取應來源於健康脂肪（如植物性奶油、堅果等），避免過量攝取不健康脂肪。  
+2. **份量控制**：Fat Bomb 雖然美味，但仍需注意份量，以免熱量攝取過多。  
+3. **多樣化飲食**：可搭配其他蔬菜或穀物，形成更均衡的饮食結構。  
+
+---
+
+### 結論  
+- 這款 Vegan Fat Bomb 不但風味出眾，且符合健康飲食需求，是一道適合日常食用或節慶場合的佳餚。  
+- 通過控制脂肪來源和豐富口感設計，它能有效幫助人們控製食慾，遠離零食攝取。
 </details>
 
 <details>
-<summary>566. Best Exercise Tips – How to Figure Out Your Perfect Exercise – Dr.Berg</summary><br>
+<summary>566. [2016-11-15] Best Exercise Tips – How to Figure Out Your Perfect Exercise – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=iV3NJ0K9anw" target="_blank">
     <img src="https://img.youtube.com/vi/iV3NJ0K9anw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 探讨并定义“完美锻炼”的概念，强调根据个人身体状况调整锻炼计划的重要性。
 
+### 主要觀念
+1. **完美锻炼的三个变量**：
+   - **时间**：短时间高强度训练效果最佳。
+   - **强度**：选择全身性、高爆发力的运动形式。
+   - **恢复**：充足的休息和睡眠是关键。
+
+2. **目标导向的锻炼方式**：
+   - **塑形与减脂**：需采用不同策略，但核心仍围绕时间、强度和恢复。
+
+3. **过度训练的危害**：
+   - 高强度长时间的锻炼可能导致皮质醇升高，反而不利于健康和体重管理。
+
+### 問題原因
+- **传统高强度长时锻炼的误区**：
+  - 过度依赖长时间低强度或高强度但不充分恢复的锻炼方式。
+  - 忽视身体的恢复需求，导致过度训练综合征（如皮质醇升高、疲劳等）。
+
+- **不当饮食习惯的影响**：
+  - 隐性糖分摄入（如果汁、甜食）干扰锻炼后的恢复效果。
+
+### 解決方法
+1. **科学设计锻炼计划**：
+   - **时间控制**：建议每次训练20至40分钟，避免超过40分钟。
+   - **强度调整**：采用间歇式高强度训练（HIIT），如1-3分钟高强度，配合4-5分钟低强度休息。
+   - **恢复策略**：
+     - 保证充足的睡眠时间，优先于频繁的锻炼。
+     - 根据个人情况调整训练频率，避免过度训练。
+
+2. **优化饮食与生活习惯**：
+   - 减少隐性糖分和精制碳水化合物的摄入。
+   - 确保营养均衡，支持身体恢复。
+
+### 健康建議
+- **锻炼建议**：
+  - 初学者建议从每两天一次、每次20分钟的训练开始。
+  - 高强度训练后确保有足够的休息时间（4-5天），必要时可减少至每周1-2次。
+
+- **生活習慣調整**：
+  - 优先保证睡眠质量，避免因过度锻炼影响恢复。
+  - 注意饮食选择，避免干扰身体代谢和恢复的不良食物。
+
+### 結論
+- “完美锻炼”需根据个人具体情况量身定制，强调时间、强度和恢复三者的平衡。科学合理的训练计划不仅能提升体能，还能有效促进健康和体重管理，避免过度训练带来的负面影响。
 </details>
 
 <details>
-<summary>565. Keto Friendly Pizza Fat Bomb Recipe – Dr. Berg</summary><br>
+<summary>565. [2016-11-14] Keto Friendly Pizza Fat Bomb Recipe – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Rh75ZKzvnHU" target="_blank">
     <img src="https://img.youtube.com/vi/Rh75ZKzvnHU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 製作savory fat bomb（savory乳脂炸弹）。
+- 推荐一款名为“pizza fat bomb”的新食谱。
+
+#### 主要觀念
+- Savory fat bombs是一种受欢迎的小吃，适合在正餐中搭配食用或作为开胃菜。
+- 这类小吃在Pinterest等平台上广为流传，且可以根据个人口味进行调整。
+- 使用的基本食材通常包括奶酪、黄油或其他高脂成分，口感丰富、美味。
+
+#### 啤酒原因
+- 传统的小吃可能含有较高的碳水化合物，不适合低碳饮食人群。
+- 寻找低糖、高饱腹感的替代零食是当前健康饮食的趋势之一。
+
+#### 解決方法
+- 制作pizza fat bomb的具体步骤：
+  1. 准备所需材料：奶酪（如马苏里拉）、黄油、意大利香肠、橄榄等。
+  2. 将奶酪和黄油混合，塑形成小球状。
+  3. 加入其他配料（如意大利香肠、橄榄）进行调味。
+  4. 冷藏定型后即可食用。
+
+#### 健康建議
+- 由于脂肪含量较高，建议适量食用，尤其在搭配正餐时注意整体热量摄入。
+- 对于低碳饮食或需要控制碳水化合物的人群，此小吃是一个理想的替代选择。
+
+#### 結論
+- Pizza fat bomb不仅美味，而且是一种适合各种场合的便捷零食。
+- 制作过程简单，便于家庭自制，且可以根据个人喜好进行创新调整。
 </details>
 
 <details>
-<summary>564. Keto Chocolate Coconut Fat Bombs Recipe – Dr.Berg</summary><br>
+<summary>564. [2016-11-13] Keto Chocolate Coconut Fat Bombs Recipe – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=24UMvyggdpY" target="_blank">
     <img src="https://img.youtube.com/vi/24UMvyggdpY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 文章介紹了一種酮體炸弹（Keto Bomb）的食谱，強調其成分和健康益處。
 
+### 主要觀念
+1. **食譜成分**：
+   - 巧克力。
+   - 花生醬。
+   - 椰子。
+   - 樹脂含量較高。
+   - 含有椰子油。
+   - 含有大麻籽。
+
+2. **食譜特性**：
+   - 經濟实惠。
+   - 富含健康脂肪。
+   - 適合酮飲食（Keto Diet）。
+   - 能夠幫助延長飽足感。
+
+3. **食用建議**：
+   - 放置於冰箱保存。
+   - 食用前需解凍。
+   - 作為餐後甜點，幫助延續饱腹感。
+
+### 問題原因
+1. **數據不足**：
+   - 文章未提供具體的營養成分數據（如熱量、脂肪含量等）。
+   - 缺乏科學研究支持其健康效益。
+   - 未提及可能的副作用或禁忌人群。
+
+2. **食譜缺點**：
+   - 制作過程描述不清晰，如“this didn't come out right”暗示可能存在失敗風險。
+
+### 解決方法
+1. **數據不足**：
+   - 建議查找更多關於酮飲食和椰子油的研究。
+   - 參考其他可靠來源的營養數據表。
+
+2. **食譜缺點**：
+   - 提供具體的制作步驟和成功關鍵。
+
+### 健康建議
+- 食用前諮詢醫生或營養師，確保適合個人健康狀況。
+- 確保飲食均衡，避免过度依賴某一種食物來源。
+
+### 结論
+文章介紹了一款基於酮飲食的甜點食谱，強調其成分和健康益處，但缺乏具體數據支持。建議進一步查證並諮詢專業意見。
 </details>
 
 <details>
-<summary>563. The Best Remedy for Foot Pain (Morton's Neuroma) – Dr.Berg</summary><br>
+<summary>563. [2016-11-12] The Best Remedy for Foot Pain (Morton's Neuroma) – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=dTrA8fT5OWM" target="_blank">
     <img src="https://img.youtube.com/vi/dTrA8fT5OWM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題： Morton neuroma（ Morton 腘肉瘤）的疼痛管理與治療方法
 
+---
+
+### 主要觀念：
+1. **Morton neuroma 的定義**：
+   - 是一種纖維組織形成的瘢痕組織，包繞足底神經，通常位於跖骨之間（即兩個趾骨之間），導致行走困難。
+2. **病因假說**：
+   - 訴因為舊傷可能引發Morton neuroma，但其確切病因尚不清楚。
+
+---
+
+### 問題原因：
+1. **解剖結構異常**：
+   - 跖骨的壓力或異常排列可能導致神經受壓。
+2. **外傷史**：
+   - 既往足部受傷可能是發病的危險因素。
+3. ** footwear**：
+   - 紧窄或高跟鞋可能增加足底神經受壓的风险。
+
+---
+
+### 解決方法：
+1. **保守治療**：
+   - **壓力解除**：使用分隔襪或足垫以減少跖骨之間的壓力。
+   - **按摩與按压**：
+     - 在對側足部相對應位置進行按压，刺激神經信號，從而阻斷痛覺信號傳遞。
+     - 找到疼痛最明顯的位置（ epicenter ），持續按壓直到疼痛逐漸減輕。
+2. **藥物治療**：
+   - 非甾体抗炎藥 (NSAIDs) 可用於短期缓解炎症與疼痛。
+
+---
+
+### 健康建議：
+1. **早期診斷**：
+   - 如出現足底持續性疼痛，应及时就醫，避免病情加重。
+2. ** footwear 的選擇**：
+   - 避免穿著緊窄或高跟鞋，以降低足部壓力。
+3. **定期檢查**：
+   - 定期進行足部檢查，特別是有足部結構問題或外傷史的人群。
+
+---
+
+### 結論：
+1. **治療效果**：
+   - 本文提議的按压方法能有效缓解Morton neuroma引起的疼痛，且無藥物與手術的副作用。
+2. **未來方向**：
+   - 需進一步研究以確立Morton neuroma的确切病因及更有效的治療方法。
 </details>
 
 <details>
-<summary>562. Keto Fat Bomb: Chocolate & Peanut Butter Recipe – Dr.Berg</summary><br>
+<summary>562. [2016-11-11] Keto Fat Bomb: Chocolate & Peanut Butter Recipe – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=YGSOaWUr374" target="_blank">
     <img src="https://img.youtube.com/vi/YGSOaWUr374/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 脂肪 bomb（fat bombs）成為今日焦點。
+- 本文介紹一款名為「巧克力花生醬脂肪炸弹」的食譜。
 
+### 主要觀念
+1. **脂肪 bombs 的基本成分**：
+   - 椰子油
+   - 可可粉
+   - 花生醬
+
+2. **脂肪 bombs 的食用方式**：
+   - 可以直接食用。
+   - 也可以用作飲品。
+
+3. **脂肪 bombs 的儲存方法**：
+   - 需要存放在冰箱冷凍庫中，以便保持其形狀和口感。
+
+### 問題原因
+- 多數 fat bomb 食譜中含有甜味劑，可能影響健康或個人口味偏好。
+
+### 解決方法
+1. **調整甜味劑的使用**：
+   - 根據個人喜好選擇甜味劑（如斯伐洛糖、 monk fruit sugar 等）。
+   - 可以完全不使用甜味劑，依個人口味決定。
+
+2. **實驗與調試**：
+   - 鼓勵自行 experimentation，找到最合適的口感和甜度。
+
+### 健康建議
+- 脂肪 bombs 作為高脂低碳飲食的一部分，適合低碳水化合物或酮osis 維持者。
+- 食用時注意份量控制，避免過量攝入脂肪。
+
+### 結論
+- 巧克力花生醬 fat bomb 是一款簡單易做、可客製化的甜點。
+- 建議根據個人口味和健康需求調整配方，享受製作和品嚐的樂趣。
 </details>
 
 <details>
-<summary>561. The Worst Protein Powder for the Liver – Dr. Berg</summary><br>
+<summary>561. [2016-11-11] The Worst Protein Powder for the Liver – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=O8qAjp3xVn4" target="_blank">
     <img src="https://img.youtube.com/vi/O8qAjp3xVn4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節一：核心主題  
+- 論述 soy protein isolate（大豆蛋白分離物）為最差的蛋白質來源之一。
 
+### 小節二：主要觀念  
+1. 大豆蛋白分離物的危害性高於其他蛋白質如豌豆蛋白和乳清蛋白。  
+2. 大部分大豆經過基因改造，含有除草劑殘留（如 glyphosate）。  
+3. 大豆蛋白分離物可能具有類雌激素作用，影響荷爾蒙平衡。  
+
+### 小節三：問題原因  
+1. **基因改造與農藥殘留**：95%的大豆為基因改造作物，易受除草劑 glyphosate 染。  
+2. **荷爾蒙干擾**：大豆蛋白分離物可能模擬雌激素作用，降低男性睾固酮並增加女性 estrogen 水平。  
+3. **消化與健康影響**：未發酵的大豆蛋白分離物不易消化，對肝臟造成負擔。  
+
+### 小節四：解決方法  
+1. 避免使用含大豆蛋白分離物的蛋白粉、加工食品和嬰兒配方奶粉。  
+2. 選擇經過發酵的大豆產品（如豆腐、Tempeh），以提高消化吸收能力。  
+3. 選擇非基因改造或有機认证的大豆製品，降低農藥殘留風險。  
+
+### 小節五：健康建議  
+1. 消費者應仔細閱讀食品標籤，避免攝取含大豆蛋白分離物的加工食品。  
+2. 考慮選擇其他來源的蛋白質（如豌豆蛋白、乳清蛋白或植物基替代品）。  
+3. 減少食用未發酵的大豆製品，以降低對肝臟的負擔。  
+
+### 小節六：結論  
+- 大豆蛋白分離物由於基因改造、農藥殘留及荷爾蒙干擾等問題，應避免攝取。  
+- 選擇更健康的蛋白質來源和食品形式（如發酵大豆產品或非基因改造食材）是最佳選擇。
 </details>
 
 <details>
-<summary>560. The Fastest Way to Hip Pain Relief – Dr. Berg</summary><br>
+<summary>560. [2016-11-10] The Fastest Way to Hip Pain Relief – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=wD-Q6gAbODQ" target="_blank">
     <img src="https://img.youtube.com/vi/wD-Q6gAbODQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 論述解除髖部疼痛的方法與技巧。
+- 強調按摩和針對性肌肉放鬆在治療髖部疼痛中的作用。
+- 探讨可能引起髖部疼痛的其他健康問題，如卵巢 cyst 和骶髂關節問題。
 
+### 主要觀念
+1. 髖痛可以通过自我按摩或他人幫助來緩解。
+2. 痛點的對側部位按摩是有效的方法之一。
+3. 肌肉緊張和附著於髖部的肌肉可能是導致疼痛的原因。
+4. 额外健康問題，如卵巢 cyst 和骶髂關節不穩定，也可能引起髖部疼痛。
+
+### 問題原因
+1. **肌肉緊張或損傷**：附著在髖部的肌肉（如髂肋肌）過度緊張可能導致疼痛。
+2. **神經壓力**：髂總筋的緊張可能壓迫神經，引起放射性疼痛。
+3. **關節問題**：骶髂關節不穩定或病變也可能引發髖痛。
+4. **內臟問題**：女性可能因卵巢 cyst 等問題導致疼痛放射至髖部。
+
+### 解決方法
+1. **對側按摩法**： 
+   - 按摩與痛點相對的部位，如右側疼痛則按摩左側。
+   - 使用工具（如網球）進行按壓和按摩，持續約2分鐘。
+2. **肌肉放鬆與按摩**：
+   - 放松附著於髖部的肌肉，尤其是髂肋肌。
+   - 可使用泡沫軸或手動按摩來緩解肌肉緊張。
+3. **針對性穴位按壓**： 
+   - 按壓腹腔內與骶髂區域相連的肌肉（如髂腰肌），緩解神經壓力。
+4. **健康補充劑建議**：
+   - 使用海藻サプリメント（Sea Kelp）以補充足量的碘，幫助減少雌激素 dominance，可能對卵巢 cyst 有幫助。
+
+### 健康建議
+- 高強度運動後注意休息與恢復。
+- 定期進行全身性放鬆訓練，預防肌肉過度緊張。
+- 注意飲食均衡，攝取足夠的礦物質，尤其是碘。
+- 如疼痛持續或加重，建議及時就醫檢查是否有其他潛在問題（如關節病變或內臟疾病）。
+
+### 結論
+- 髖部疼痛多數情況下可通過按摩和肌肉放鬆來緩解。
+- 若自我治療無效，需考慮更複雜的健康問題，並及時尋求專業醫療幫助。
 </details>
 
 <details>
