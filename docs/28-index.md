@@ -1527,47 +1527,220 @@ Omega-3脂肪酸在維持人體多個系統的健康方面起著關鍵作用。�
 </details>
 
 <details>
-<summary>2873. Get Your Kids and Babies Off Cereal</summary><br>
+<summary>2873. [2020-06-13] Get Your Kids and Babies Off Cereal</summary><br>
 
 <a href="https://www.youtube.com/watch?v=E2vfxw6pY3g" target="_blank">
     <img src="https://img.youtube.com/vi/E2vfxw6pY3g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小孩食用穀物早餐的危害與影響
 
+#### 核心主題
+小孩食用穀物早餐（cereal）的健康危害及其長期影響。
+
+#### 主要觀念
+1. **嬰幼兒期攝取穀物早餐的問題**：
+   - 紅旗小麥粥等嬰兒穀物產品含無機砷，來源於受汙染的土壤或水體。
+   - 嬰兒缺乏消化穀物所需的酶（如AMYase），導致無法有效消化。
+
+2. **健康風險**：
+   - 未斷糖嬰兒攝取穀物早餐可能增加.autoimmune diseases（自免疫疾病）的風險，尤其是type 1 diabetes（第一型糖尿病）。
+   - 高血糖指數（GI）導致血糖波動及長-term blood sugar issues（長期血糖問題）。
+
+3. **營養吸收支礙**：
+   - 藕posite（植酸）干擾礦物質吸收，影響兒童發育所需鋅等元素。
+   - 小孩穀物早餐含較高糖分，平均比成人產品多40%。
+
+4. **其他健康隱憂**：
+   - 大部份穀物含有麩質（gluten），可能引發腸道過敏或炎症反應。
+   - 現代穀物多數為基因改造 organisms (GMOs)，暴露於除草劑glyphosate，影響免疫系統。
+
+5. **營養補充劑的問題**：
+   - 加工穀物添加的合成維生素（如vitamin A、zn、niacin等）並非自然植物來源，可能在體內累積造成毒性。
+
+#### 問題原因
+1. 簡單加工及高糖分：多數穀物早餐含有大量添加糖，導致血糖波動及肥胖問題。
+2. 营養素吸收阻礙：植酸干擾關鍵礦物質的吸收，影響兒童生長發育。
+3. 開發中免疫系統脆弱：嬰幼兒食用含高金屬污染的穀物產品易受傷害。
+
+#### 解決方法
+1. 減少或避免嬰幼兒期食用加工穀物。
+2. 選擇天然未加工食品，如器官肉、蔬菜泥等，提供嬰幼兒所需營養。
+3. 確保糧食來源安全，選購非基因改造及低汙染農產品。
+
+#### 健康建議
+1. 避免給予未斷糖嬰兒任何穀物產品，尤其是含砷的嬰兒米糊。
+2. 限制兒童穀物攝取量，選擇低糖或無添加糖產品。
+3. 注意食品標籤，避免過度依賴加工食品。
+
+#### 結論
+小孩食用加工穀物早餐存在多重健康風險，包括營養吸收阻礙、免疫系統受損及長期代謝問題。家長應謹慎選擇嬰幼兒食物，優先提供天然未加工的营养來源，以保障兒童健康發育。
 </details>
 
 <details>
-<summary>2872. Game of Thrones Meets Your Immune System</summary><br>
+<summary>2872. [2020-06-13] Game of Thrones Meets Your Immune System</summary><br>
 
 <a href="https://www.youtube.com/watch?v=VON01PTcu2g" target="_blank">
     <img src="https://img.youtube.com/vi/VON01PTcu2g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 免疫系統與微生物之間的戰鬥可比作《權力遊戲》中的政治與軍事衝突， immune system as a complex battle between pathogens and white blood cells.
+
+#### 主要觀念
+1. **免疫系統結構**：
+   - 第一道防線：先天性免疫反應（非特异性免疫），提供快速但非特異性的防禦。
+   - 第二道防線：後天性免疫反應（特异性免疫），包括T細胞和B細胞，具備記憶功能，能針對特定病原體作出反應。
+
+2. **微生物策略**：
+   - 病毒和細菌利用多種策略逃避或干擾免疫系統，例如偽裝、形成生物膜等。
+   - 這些策略類似於《權力遊戲》中間諜和欺詐的手段。
+
+3. **營養與免疫力**：
+   - 微生物可能耗盡宿主體內關鍵營養素（如維生素D、鋅、維生素C），削弱免疫功能。
+   - 與《權力遊戲》中敵方使用策略破壞防禦相似。
+
+#### 問題原因
+- 免疫系統的脆弱性在於其可能受到微生物干擾，導致功能受阻。
+- 理解這些機制對於制定有效的免疫療法和健康管理至關重要。
+
+#### 解決方法
+1. **營養補充**：
+   - 確保充足攝取維生素D、鋅和維生素C等關鍵營養素，增強免疫功能。
+
+2. **免疫系統調節**：
+   - 通過健康飲食和生活方式，促進先天性和特异性免疫的平衡與協作。
+
+3. **防禦策略提升**：
+   - 加強對微生物逃避機制的理解，開發新穎的療法來克服這些挑戰。
+
+#### 健康建議
+- 維持均衡飲食，富含抗氧化劑和礦物質，以支持免疫功能。
+- 定期進行身體活動，減輕壓力，因壓力會影響免疫系統效能。
+- 避免濫用抗生素，以免破壞腸道菌群平衡，削弱免疫防禦。
+
+#### 結論
+- 免疫系統是一個精密的戰鬥体系，需多方面保護與支持。
+- 通過理解其運作機制和微生物的策略，我們能更好地增強自身防禦能力。
 </details>
 
 <details>
-<summary>2871. Use These Spices and Herbs for Rheumatoid Arthritis – Remedies for Rheumatoid Arthritis – Dr.Berg</summary><br>
+<summary>2871. [2020-06-11] Use These Spices and Herbs for Rheumatoid Arthritis – Remedies for Rheumatoid Arthritis – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=dMygKOOhcgA" target="_blank">
     <img src="https://img.youtube.com/vi/dMygKOOhcgA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題： 
+ rheumatoid arthritis (RA) 的治療與康復。
 
+### 主要觀念：
+1. **РА как autoimmune disease**: RA характеризируется аутовідністю, коли імунна система атакує свої вебернуті тканини, зокрема сінвォльні шови.
+2. **Мechanism of inflammation**: В inflammatory process у RA повлікується кілька факторів, зокрема cytokines, leukotrienes, free radicals, а також недостатня функціональність регуляторних Т-клеток (T suppressor cells), які мають мету укриття імунній відгуку.
+3. **Role of nutrition**: Оптимізація дієти, зокрема додавання спеїрів і трав, може позитивно вплинути на симптоми RA.
+
+### 問題原因：
+1. **Disruption of immune regulation**: Нарушення у роботі імунної системи, зокрема недостатня функціональність регуляторних Т-клеток.
+2. **Excessive inflammation**: Завеликість inflammatory processes, які викликуються cytokines, leukotrienes і free radicals.
+3. **Poor diet**: Низка утримання потрібних елементів у дієти та високе потреблення омега-6 жирних кислот, які засилляють inflammation.
+
+### Розв’язки:
+1. **Dietary modifications**:
+   - **Increased potassium intake**: Повісити утримання калія до 5000-6000 мг/день.
+   - **Low sugar and carbohydrate diet**: Зменшити використання цукру і відступитися від висококалоричних углеводних продуктів, таких як злаки.
+   - **Ketogenic diet**: Підтримувати дієту ketogenic для мінімізації inflammation.
+   - **Avoid vegetable oils**: Зменшити використання омега-6 жирних кислот, таких як соєвій, кукурузний і хлопковий олії.
+2. **Supplements and herbs**:
+   - **Curcumin (Turmeric)**: Є potent anti-inflammatory agent.
+   - **Ginger**: Reduces leukotrienes і has antioxidant properties.
+   - **Cinnamon**: Decreases c-reactive protein, якое залучається до inflammation.
+   - **Garlic**: Has strong antimicrobial and antioxidant effects.
+   - **Oregano**: Reduces immune cell weapons used to kill pathogens.
+   - **Black pepper**: Decreases cytokines.
+3. **Vitamin D supplementation**: Повісити рівні vitamin D до 20-50 мілліграмів на день для зменшення inflammation.
+
+### Health Recommendations:
+1. **Dietary Adjustments**:
+   - Follow a ketogenic diet to reduce sugar and carbohydrate intake.
+   - Increase potassium intake through food sources like bananas, spinach, and potatoes.
+   - Avoid inflammatory vegetable oils and opt for healthier fats like olive oil or avocado.
+2. **Supplements**:
+   - Incorporate curcumin, ginger, cinnamon, garlic, black pepper, and oregano into the diet.
+   - Consider vitamin D supplementation to support immune function and reduce inflammation.
+3. **Lifestyle Modifications**:
+   - Regular fasting may be beneficial for autoimmune conditions like RA.
+   - Engage in regular physical activity to support overall health.
+
+### Conclusion:
+ rheumatoid arthritis is a complex autoimmune condition that requires a multifaceted approach to management. By integrating dietary changes, herbal remedies, and lifestyle modifications, individuals can significantly reduce inflammation, support immune function, and improve their quality of life.
 </details>
 
 <details>
-<summary>2870. The Most Important White Blood Cell (WBC)</summary><br>
+<summary>2870. [2020-06-11] The Most Important White Blood Cell (WBC)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3rFnlRtGDZs" target="_blank">
     <img src="https://img.youtube.com/vi/3rFnlRtGDZs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：T 調節性 T 细胞（T Regulatory Cells, Tregs）的重要性
 
+- **核心主題**：
+  - T 調節性 T 细胞是免疫系統中尤為重要的一類白血球，主要負責調節免疫反應和維持自身耐受。
+
+### 主要觀念：
+
+1. **T 調節性 T 细胞的功能**：
+   - 抑制過激的免疫反應。
+   - 產生抗炎性细胞因子。
+   - 防止 autoimmune 病症，避免免疫系統攻擊自身組織。
+
+2. **Tregs 的來源與成熟**：
+   - 在胸腺中形成並成熟，因此名稱為 T 细胞。
+   - 胸腺的健康對 Tregs 的功能至關重要。
+
+3. **缺乏 Tregs 的影響**：
+   - 增加 autoimmune 病症風險，如 IBD、1型糖尿病、類風濕性關節炎等。
+   - 可能導致 cytokine storm，特別是在感染（如 COVID-19）情況下致命。
+
+### 問題原因：
+
+- **Tregs 功能障礙的原因**：
+  - 营養失衡：維生素A和D deficiencies。
+  - GIES：壓力、年齡相關的胸腺萎縮。
+  - 高脂肪飲食，特別是高糖高脂混合飲食。
+  - 抗生素濫用破壞腸道菌群平衡。
+  - 質不耐受或 intolerance 影響免疫調節。
+
+### 解決方法與健康建議：
+
+1. **營養支持**：
+   - 確保足夠的維生素A攝取，以保護黏膜屏障並維持免疫功能。
+   - 补充維生素D，以發揮其抗炎作用。
+   - 增加 DHA（omega-3脂肪酸）攝取，以促進Tregs的功能。
+
+2. **腸道健康**：
+   - 避免濫用抗生素，保持腸道菌群平衡。
+   - 通過攝食益生元和益生菌來支持免疫系統功能。
+
+3. **飲食調整**：
+   - 控制高糖高脂飲食，選擇健康的脂肪來源。
+   - 考慮無麸質飲食，以避免麩質敏感性問題。
+
+4. **壓力管理**：
+   - 減輕長期壓力，避免皮質醇過度分泌導致胸腺萎縮。
+
+5. **年齡相關免疫功能衰退**：
+   - 通過健康的生活方式延缓胸腺萎縮，維持免疫系統的平衡。
+
+### 結論：
+
+T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙會導致 autoimmune 病症和過激免疫反應。通过營養、飲食和生活方式的調整，可以有效支持Tregs的功能，從而維持免疫平衡和整體健康。
 </details>
 
 <details>
@@ -1582,69 +1755,398 @@ Omega-3脂肪酸在維持人體多個系統的健康方面起著關鍵作用。�
 </details>
 
 <details>
-<summary>2868. The Huge Vitamin D Mistake with RDAs</summary><br>
+<summary>2868. [2020-06-10] The Huge Vitamin D Mistake with RDAs</summary><br>
 
 <a href="https://www.youtube.com/watch?v=wq1HcFAg4fQ" target="_blank">
     <img src="https://img.youtube.com/vi/wq1HcFAg4fQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- **维生素D的安全性和有效性**：文章探讨了维生素D的摄入量 recommendation 以及其对人体健康的重要性。  
 
+### 主要觀念  
+1. **维生素D的Recommendation问题**  
+   - 美国国家科学院曾发布一份研究报告，建议成年人每日维生素D摄入量为600 IU（国际单位）。然而，后续研究表明这一数值存在重大错误，实际推荐应为8,900 IU。  
+2. **维生素D缺乏的问题**  
+   - 当前数据显示，全球范围内有大量人口维生素D水平不足，导致免疫系统功能下降、骨质疏松、炎症反应和自身免疫疾病风险增加。  
+
+### 問題原因  
+1. **研究误差的影响**  
+   - 原始研究存在计算错误（低估了实际需求的10倍），但后续更正未被采纳，导致误导性的Recommendation仍然广泛传播。  
+2. **信息来源的可靠性**  
+   - 大众获取维生素D相关信息时需谨慎，注意其科学依据和最新进展，避免被过时或不准确的研究结果影响。  
+
+### 解決方法  
+1. **重新审视维生素D的摄入量**  
+   - 推荐根据最新的科学研究调整维生素D的每日摄入量，以确保满足97.5%健康人群的需求。  
+2. **多途径获取维生素D**  
+   - 除了通过食物摄取外，建议通过日晒等方式补充维生素D，同时考虑个体差异（如肤色、年龄、体重等）。  
+
+### 健康建議  
+1. **个体化补充策略**  
+   - 考虑个人健康状况和吸收能力，必要时咨询医疗专业人员制定个性化补充计划。  
+2. **警惕误导性信息**  
+   - 面对关于维生素D的新闻或网络信息，需核实其来源和科学依据，避免盲目相信低质量的研究结果。  
+
+### 結論  
+- 维生素D是维持人体健康的重要营养素，正确的摄入量对其功能至关重要。当前推荐的600 IU过低，可能导致大量人群维生素D缺乏，从而引发多种健康问题。因此，需根据最新科学研究调整补充策略，并提高公众对维生素D重要性的认识，以促进整体健康水平。
 </details>
 
 <details>
-<summary>2867. Arrhythmias Are Excess Calcium</summary><br>
+<summary>2867. [2020-06-09] Arrhythmias Are Excess Calcium</summary><br>
 
 <a href="https://www.youtube.com/watch?v=6aaKbsrHLCo" target="_blank">
     <img src="https://img.youtube.com/vi/6aaKbsrHLCo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- **	arrhythmias**: Abnormal heart rhythms, which can range from minor palpitations to serious conditions like atrial fibrillation.  
+- **	Calcium physiology**: The role of calcium in heart contractions and its potential to cause arrhythmias when present in excessive amounts inside cells.  
 
+---
+
+### 主要觀念  
+1. **	Electrolytes and Heart Function**:  
+   - Electrolytes (e.g., sodium, calcium, magnesium) play a critical role in conducting electrical signals through the body and activating muscles, including the heart.  
+   - Calcium is responsible for the contraction phase of the heart, while magnesium regulates relaxation and maintains potassium levels outside the cell.  
+
+2. **	Triggers for Arrhythmias**:  
+   - External factors like caffeine, alcohol, sugar, stress, cortisol, and certain chemicals in chocolate can alter calcium physiology and contribute to arrhythmias.  
+   - Medications (e.g., antipsychotics and antidepressants) can increase intracellular calcium levels, raising the risk of life-threatening arrhythmias.  
+
+3. **	Magnesium’s Role**:  
+   - Magnesium is a key regulator of calcium and sodium levels, preventing excessive calcium buildup inside cells.  
+   - Most magnesium is stored intracellularly (99%), but blood tests typically measure only 1%, making them unreliable for diagnosing deficiencies.  
+
+4. **	Vitamin K2 and D3**:  
+   - Vitamin K2 helps redistribute excess calcium from soft tissues (e.g., heart, joints) back into bones.  
+   - Vitamin D3 influences calcium metabolism and reduces arrhythmia risk.  
+
+---
+
+### 問題原因  
+- **	Electrolyte Imbalance**: Dysregulation of calcium, magnesium, and potassium levels can disrupt the heart’s electrical system, leading to arrhythmias.  
+- **	Magnesium Deficiency**: Poor dietary intake (e.g., insufficient leafy greens), insulin resistance, or diabetes can contribute to magnesium deficiency.  
+- **	Vitamin K2 and D3 Deficiencies**: Insufficient intake of these vitamins can exacerbate calcium misplacement in the body.  
+
+---
+
+### 解決方法  
+1. **	Dietary Interventions**:  
+   - Increase consumption of leafy greens (e.g., spinach, kale) to boost magnesium and other electrolyte levels.  
+   - Consider consuming 7-10 cups of vegetables daily or using an electrolyte powder with balanced minerals.  
+
+2. **	Supplementation**:  
+   - Magnesium supplements can help restore intracellular levels, but dosing should be done cautiously under medical supervision.  
+   - Ensure adequate intake of vitamin K2 (e.g., through food sources like natto or supplementation) and vitamin D3 to support calcium metabolism.  
+
+3. **	Lifestyle Modifications**:  
+   - Reduce consumption of caffeine, alcohol, sugar, and stress-inducing substances.  
+   - Monitor medications that may increase intracellular calcium levels and discuss alternatives with healthcare providers.  
+
+---
+
+### 健康建議  
+- **	Evaluate Triggers**: Identify personal triggers (e.g., caffeine, stress) and gradually eliminate or reduce them.  
+- **	Blood Work**: Request comprehensive electrolyte panels to assess magnesium and other mineral levels despite their limitations.  
+- **	Long-Term Commitment**: Re-mineralization of the body may take months, requiring consistent dietary and supplementation efforts.  
+
+---
+
+### 總結  
+The article highlights that arrhythmias primarily result from an imbalance in calcium physiology, often influenced by electrolyte dysregulation, magnesium deficiency, and environmental factors. Addressing these issues through targeted dietary changes, supplements, and lifestyle modifications can help restore heart rhythm and overall health.
 </details>
 
 <details>
-<summary>2866. How Long Does Magnesium Stay in the Body?</summary><br>
+<summary>2866. [2020-06-08] How Long Does Magnesium Stay in the Body?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Ul2MRZWnGCA" target="_blank">
     <img src="https://img.youtube.com/vi/Ul2MRZWnGCA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Core Themes:
+- **Magnesium Retention in the Body**: Unlike minerals such as sodium, iron, and calcium, magnesium is not retained for long periods.
+- **Kidney Function Impact**: The health of kidneys significantly influences magnesium retention and excretion.
 
+---
+
+### Key Concepts:
+- **Magnesium Absorption and Retention**:
+  - Magnesium is absorbed at a rate of 24–76% from dietary sources.
+  - Approximately 50% of magnesium in the body is stored in bones, serving as a reservoir.
+  - Only 1% of magnesium is found outside cells, making blood tests for magnesium levels inaccurate.
+
+- **Dietary Recommendations**:
+  - RDA for magnesium varies by gender: 310–360 mg/day for females and 400–420 mg/day for males.
+  - Current RDAs are set to prevent deficiencies but may not be sufficient for optimal health, with suggested higher intake (500–600 mg/day).
+  - Average magnesium consumption in the U.S. is insufficient (200–300 mg/day).
+
+---
+
+### Causes of Magnesium Deficiency:
+1. **Refined Foods and Empty Calories**: Processed foods often strip magnesium content.
+2. **Phytate Content in Grains**: Phytates bind magnesium, reducing absorption, particularly in whole grains and legumes.
+3. **Insulin Resistance and Diabetes**:
+   - Insulin resistance can impair magnesium uptake and contribute to kidney damage over time.
+   - Approximately 70% of the population may have insulin resistance or prediabetes without awareness.
+4. **Low Consumption of Chlorophyll-Rich Foods**: Vegetables and salads are rich in chlorophyll, a significant source of magnesium.
+
+---
+
+### Symptoms of Magnesium Deficiency:
+- Fatigue (due to reduced ATP production in mitochondria).
+- Muscle weakness and cramps.
+- Palpitations or irregular heart rhythms.
+- Other symptoms include headaches, migraines, and sleep disturbances.
+
+---
+
+### Solutions and Health Recommendations:
+1. **Increase Dietary Intake**:
+   - Consume magnesium-rich foods such as leafy greens (spinach, kale), nuts, seeds, whole grains, and legumes.
+   - Consider supplementation if dietary intake is insufficient.
+
+2. **Optimize Absorption**:
+   - Avoid excessive phytate consumption by limiting raw grain consumption or using preparation techniques to reduce phytate content.
+   - Ensure adequate hydrochloric acid levels in the stomach for proper mineral absorption.
+
+3. **Monitor Kidney Health**:
+   - Regularly check kidney function, especially for individuals with diabetes or insulin resistance.
+   - Manage blood sugar levels to prevent further kidney damage.
+
+4. **Intracellular Testing**:
+   - Use intracellular magnesium tests for more accurate assessment of magnesium levels.
+
+---
+
+### Conclusion:
+Magnesium is a critical mineral essential for energy production, muscle function, and overall health. Due to its rapid turnover in the body, maintaining adequate intake through diet or supplementation is vital. Addressing deficiencies requires a combination of dietary adjustments, monitoring kidney health, and regular testing to ensure optimal magnesium levels.
 </details>
 
 <details>
-<summary>2865. How to Correct Your Constipation</summary><br>
+<summary>2865. [2020-06-08] How to Correct Your Constipation</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Fi0PLevPrbk" target="_blank">
     <img src="https://img.youtube.com/vi/Fi0PLevPrbk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題 (Core Theme)
+- **Constipation on the Ketogenic Diet**: Investigating the causes and solutions for constipation, particularly in the context of starting a ketogenic diet versus long-term constipation.
 
+---
+
+### 主要觀念 (Major Concepts)
+1. **Long-Term Constipation**:
+   - Chronic constipation may indicate underlying gastrointestinal issues.
+   - Professional medical evaluation is crucial to rule out structural or functional abnormalities.
+
+2. **Ketogenic Diet-Induced Constipation**:
+   - Constipation can occur shortly after starting the ketogenic diet due to dietary changes, particularly increased fiber intake and fat consumption.
+
+---
+
+### 問題原因 (Causes of the Problem)
+1. **Insufficient Microbial Adaptation**:
+   - A sudden increase in vegetable fiber can overwhelm gut microbiota that are not yet adapted.
+   
+2. **Dehydration**:
+   - Fiber absorbs water, and inadequate hydration can lead to constipation.
+
+3. **High Protein Intake Without Vegetables**:
+   - Excessive protein consumption without sufficient fiber can cause digestive issues.
+
+4. **Inadequate Bile Secretion**:
+   - The ketogenic diet increases fat intake, which requires more bile for digestion. Insufficient bile production can impair fat breakdown and contribute to constipation.
+
+5. **Electrolyte Imbalance**:
+   - Low potassium levels can affect smooth muscle function in the colon, leading to constipation.
+
+6. **B1 Deficiency**:
+   - A deficiency in vitamin B1 (thiamine) can disrupt nerve function necessary for proper colonic motility.
+
+---
+
+### 解決方法 (Solutions)
+1. **Gradual Increase in Fiber Intake**:
+   - Start with smaller quantities of vegetables and gradually increase to allow gut microbiota to adapt.
+   
+2. **Hydration**:
+   - Ensure adequate water intake to prevent dehydration caused by fiber absorption.
+
+3. **Vegetable Type Adjustment**:
+   - Replace cruciferous vegetables (e.g., broccoli, cauliflower) with easier-to-digest options like green lettuce or celery if they cause distress.
+
+4. **Fermented Vegetables**:
+   - Incorporate fermented vegetables like sauerkraut or kimchi to improve digestion and fiber breakdown.
+
+5. **Bile Supplementation**:
+   - Consider adding purified bile salts after meals to assist in fat digestion and lubricate the colon.
+
+6. **Potassium Intake**:
+   - Increase potassium through diet or electrolyte powders to support smooth muscle function in the colon.
+
+7. **Probiotic Use**:
+   - Introduce a probiotic that survives stomach acidity to enhance fiber breakdown and gut health.
+
+8. **Herbal Laxatives**:
+   - Use herbal laxatives temporarily to relieve constipation if other methods are ineffective.
+
+9. **B1 Supplementation**:
+   - Address potential vitamin B1 deficiency by taking supplements to support neurotransmitter function for colonic motility.
+
+---
+
+### 健康建議 (Health Recommendations)
+- **Consult a Healthcare Professional**: Especially if experiencing long-term or severe constipation.
+- **Monitor Nutrient Intake**: Ensure adequate potassium and vitamin B1 levels.
+- **Adapt Gradually**: Avoid sudden dietary changes, especially when increasing fiber intake.
+- **Stay Hydrated**: Drink sufficient water to support digestion and prevent dehydration.
+
+---
+
+### 結論 (Conclusion)
+The ketogenic diet can lead to constipation due to its high fat and fiber content. However, through gradual adaptation, proper hydration, and strategic use of supplements like bile salts and probiotics, individuals can manage this issue effectively. Chronic constipation should always be evaluated by a healthcare professional to rule out serious underlying conditions.
+
+---
+
+### English Translation
+- **Core Theme**: Constipation on the Ketogenic Diet: Causes and Solutions
+- **Major Concepts**:
+  - Long-term constipation may indicate underlying gastrointestinal issues.
+  - Short-term constipation can occur due to dietary changes in the ketogenic diet.
+- **Causes of the Problem**:
+  - Insufficient microbial adaptation to increased fiber intake.
+  - Dehydration caused by fiber absorption.
+  - High protein intake without sufficient fiber.
+  - Inadequate bile secretion for fat digestion.
+  - Electrolyte imbalance, particularly low potassium levels.
+  - B1 deficiency affecting colonic motility.
+- **Solutions**:
+  - Gradual increase in vegetable fiber intake.
+  - Adequate hydration to prevent dehydration.
+  - Adjustment of vegetable types to avoid problematic cruciferous vegetables.
+  - Incorporation of fermented vegetables for improved digestion.
+  - Use of bile supplements to assist fat digestion.
+  - Increased potassium intake through diet or supplements.
+  - Probiotic use to enhance gut microbiota health.
+  - Temporary use of herbal laxatives if necessary.
+  - B1 supplementation to address potential deficiencies.
+- **Health Recommendations**:
+  - Consult a healthcare professional for persistent constipation.
+  - Monitor nutrient intake, particularly potassium and vitamin B1.
+  - Adapt gradually to dietary changes.
+  - Stay hydrated to support digestion and prevent dehydration.
+- **Conclusion**: Constipation on the ketogenic diet can be managed through gradual adaptation, proper hydration, and strategic use of supplements. Chronic constipation should always be evaluated by a healthcare professional.
 </details>
 
 <details>
-<summary>2864. How Sugar Affects Your Immune System</summary><br>
+<summary>2864. [2020-06-07] How Sugar Affects Your Immune System</summary><br>
 
 <a href="https://www.youtube.com/watch?v=mqd-MdtES4s" target="_blank">
     <img src="https://img.youtube.com/vi/mqd-MdtES4s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Key Points and Summary of the Article
 
+#### **Core Theme**  
+The article discusses the detrimental effects of hyperglycemia (high blood sugar) on the immune system, particularly in the context of diabetes and its implications during the COVID-19 pandemic.
+
+#### **Main Concepts**  
+- **Chemotaxis Inhibition**: High blood sugar impairs the movement of white blood cells towards pathogens or damaged tissues.  
+- **Phagocytosis Impairment**: Reduced functionality of phagocytes, including neutrophils and macrophages, which are crucial for engulfing and destroying pathogens.  
+- **Complement Cascade Disruption**: The sequence of events that leads to bacterial membrane rupture is hindered by hyperglycemia.  
+- **Acidosis Development**: Elevated blood sugar levels cause acidosis (lower pH), which further suppresses immune function.  
+- **Tissue Perfusion Issues**: High blood sugar reduces oxygen delivery to tissues, creating an environment conducive to anaerobic pathogens like fungi (e.g., Candida).  
+- **Innate Immunity Erosion**: The physical barriers (e.g., skin) and early defense mechanisms of the immune system are compromised.
+
+#### **Causes**  
+- Chronic hyperglycemia, commonly seen in diabetes, is a primary factor in immune suppression.  
+- Poor dietary choices, particularly high sugar intake, exacerbate these effects.  
+
+#### **Solutions and Health Recommendations**  
+- **Healthy Keto Diet**: A ketogenic diet may help manage blood sugar levels by reducing carbohydrate intake.  
+- **Intermittent Fasting**: This practice can improve insulin sensitivity and reduce overall glucose levels.  
+- **Blood Sugar Management**: Regular monitoring and control of blood sugar levels, especially in diabetic individuals.  
+- **Pathogen Prevention**: Focus on reducing the risk of infections by maintaining a healthy immune system and avoiding environments conducive to microbial growth.  
+
+#### **Conclusion**  
+Hyperglycemia significantly weakens the immune system, increasing susceptibility to infections and complications, particularly in diabetic patients. Adopting lifestyle changes such as a healthy ketogenic diet and intermittent fasting can help mitigate these effects and improve overall immune function.
 </details>
 
 <details>
-<summary>2863. The Hidden Causes of Heart Palpitation – Revealed by Dr.Berg</summary><br>
+<summary>2863. [2020-06-07] The Hidden Causes of Heart Palpitation – Revealed by Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=QiiCtjZ1y6I" target="_blank">
     <img src="https://img.youtube.com/vi/QiiCtjZ1y6I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章要點整理
 
+---
+
+#### 核心主題  
+- 調查和探討心悸（palpitations）的潛在原因，特別是與 gallbladder 的關係。
+
+---
+
+#### 主要觀念  
+1. 心悸是指心跳 temporary 疾速、翻譯、跳動或flutter等現象。
+2. 大多數情況下，心悸并非嚴重問題，但可能由以下因素引發：
+   - 血糖濃度波動（高血糖或低血糖）。
+   - 摂取含咖啡因和可可鹼的食物或飲料（如巧克力、咖啡）。
+   - 酒精攝入。
+   - 发燒。
+   - 離子不平衡（例如assium或鎂缺乏）。
+3. 心悸的另一個潛在原因是 gallbladder 疾病，包括：
+   - Gallstones。
+   - Gallbladder 膨脹或膽嚙_movements。
+   - 胆汁淤積。
+
+---
+
+#### 啟發性發現  
+- 有研究指出，gallbladder問題可能影響心臟生理活動，並在心電圖（ECG）上顯示異常。
+- ECG異常不一定代表心臟病，可能是 gallbladder 疾病的表現。
+
+---
+
+#### 症狀與影響  
+1. 與 gallbladder 相關的心悸可能伴有以下症狀：
+   - 右肷部疼痛或不適。
+   - 疑症疼痛（例如頭痛、眼痛、肩痛或背部肌肉疼痛）。
+   - 排便異常（如輕色 stools、浮動 stool、便秘或 diarrhea）。
+   - 消化不良症狀（如恶心、腹脹、打嗝等）。
+2. 胆汁在消化脂肪和吸收脂溶性維生素中起重要作用，其 dysfunction 可能導致 constipation 或 diarrhea。
+
+---
+
+#### 問題原因  
+1. 心悸的原因可能包括：
+   - 生理因素（如血糖波動、咖啡因攝入過量）。
+   - 胆道系統的問題（如 gallstones 或膽汁淤積）。
+2. 胆汁的產生和 storage 受飲食影響， deficiencies 可能導致 gallbladder 疾病。
+
+---
+
+#### 健康建議  
+1. 注意飲食對心悸的影響：
+   - 避免 sudden 摂入大量咖啡因、酒精或高脂肪食物。
+   - 觀察並記錄引發心悸的食物，以找出可能的 gallbladder 啟蒙。
+2. 確保均衡飲食，攝取足夠的礦物質（如 potassium 和鎂）以維持心臟健康。
+3. 如有疑似 gallbladder 相關症狀，及時就醫檢查。
+
+---
+
+#### 結論  
+- 心悸雖然通常是良性的，但潛在的原因多樣化，包括 gallbladder 疾病。
+- 了解 gallbladder 的功能及其與心臟的相互作用，有助於避免過度診斷和不必要的侵入性治療。
+- 醫患溝通中提及飲食和症狀，可幫助醫生更精準地定位問題。
 </details>
 
 <details>
