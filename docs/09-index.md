@@ -659,113 +659,574 @@
 </details>
 
 <details>
-<summary>940. Does Intermittent Fasting Cause Muscle Loss? – Dr.Berg</summary><br>
+<summary>940. [2017-07-13] Does Intermittent Fasting Cause Muscle Loss? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ovESvZSue6o" target="_blank">
     <img src="https://img.youtube.com/vi/ovESvZSue6o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理
 
+#### 核心主題
+- 本文探討了間歇性禁食是否導致肌肉流失。
+
+#### 主要觀念
+1. **生長激素的作用**  
+   - 生長激素（Growth Hormone, GH）是人體中關鍵的抗肌肉分解激素，能夠保護肌肉蛋白不被分解。
+2. **壓力荷爾蒙和胰島素的危害**  
+   - 素食、應激反應及高血糖水平會引起壓力荷爾蒙（如皮質醇）和胰島素分泌增加，這會導致肌肉蛋白的破壞。
+
+#### 問題原因
+- 長期禁食或低血糖狀態可能引發對肌肉分解的擔憂，但研究顯示短期至中期禁食不會造成肌肉流失。
+
+#### 解決方法
+1. **間歇性禁食的益處**  
+   - 研究表明，40小時以上的禁食未引起骨骼肌蛋白質的分解。
+2. **酮症飲食的作用**  
+   - 低碳水化合物飲食（生酮飲食）可刺激生長激素分泌，從而保護肌肉蛋白。
+
+#### 健康建議
+1. **保持適度禁食**  
+   - 即使進行一天一餐的斷食模式，也不會顯著影響肌肉量。
+2. **優化睡眠和壓力管理**  
+   - 深度睡眠和控制血糖水平能進一步提升生長激素分泌，保護肌肉。
+3. **運動與營養平衡**  
+   - 硬core訓練及其他強化運動可增肌，配合間歇性禁食更能提升健康效果。
+
+#### 論證支持
+- 多項研究指出，禁食期間生長激素水平顯著提高（可達300%至2,000%），這有助于肌肉保護。
+- 生酮飲食及低血糖狀態也能刺激肌肉保護機制。
+
+#### 結論
+- 間歇性禁食並不會導致肌肉流失，反而是提升生長激素分泌、保護肌肉蛋白的有效方法。合理配合同類生活方式調整，可增強體能與健康效果。
 </details>
 
 <details>
-<summary>939. The Best Stretch Exercise To Do After Whiplash Injury – Dr. Berg</summary><br>
+<summary>939. [2017-07-12] The Best Stretch Exercise To Do After Whiplash Injury – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=BEljWKzQJyI" target="_blank">
     <img src="https://img.youtube.com/vi/BEljWKzQJyI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Core Theme: Best Stretch for a Whiplash Injury
+- The video focuses on providing effective stretching techniques for individuals suffering from chronic post-whiplash injuries.
 
+---
+
+### Key Concepts:
+1. **Understanding Whiplash Injuries**:
+   - Whiplash occurs due to forceful movement of the head and neck, commonly resulting from car accidents.
+   - Two primary types based on collision direction:
+     - Rear-end collision: Head moves backward (hyperextension).
+     - Front-end collision: Head moves forward (hyperflexion).
+
+2. **Pathophysiology**:
+   - Ligament damage in the neck due to sudden force.
+   - Healing of ligaments leads to scar tissue formation, causing stiffness and reduced mobility.
+
+3. **Stretching Principles**:
+   - Stretching should be done after the acute phase of injury.
+   - Focus on stretching the opposite side of the damaged area to improve flexibility and reduce tightness.
+
+---
+
+### Problem Analysis:
+- **Rear-End Collision**:
+  - Damage occurs in the front part of the neck due to hyperextension.
+  - Stiffness and tightness develop over time, limiting mobility.
+  
+- **Front-End Collision**:
+  - Damage occurs in the back part of the neck due to hyperflexion.
+  - Similar stiffness and tightness result from scar tissue formation.
+
+---
+
+### Solution Methods:
+1. **For Rear-End Collisions (Forward Stretch)**:
+   - Perform a forward stretch by gently moving the head forward.
+   - Hands can be placed on the neck for support.
+   - Repeat the stretch 10 times, several times daily.
+
+2. **For Front-End Collisions (Backward Stretch)**:
+   - Perform a backward stretch by gently moving the head backward.
+   - Use the chin to stretch the cervical muscles and ligaments.
+   - Relax and hold the stretch to release tension in the back part of the neck.
+
+---
+
+### Health Recommendations:
+- **Early Intervention**: Begin stretching only after the acute phase of injury has subsided.
+- **Consistency**: Perform stretches regularly (several times daily) for sustained relief.
+- **Avoid Counterproductive Stretching**:
+  - Do not stretch backward if injured from a rear-end collision.
+  - Do not stretch forward if injured from a front-end collision.
+
+---
+
+### Conclusion:
+- Proper stretching techniques can significantly improve neck mobility and reduce stiffness in individuals with chronic whiplash injuries.
+- Always consult healthcare professionals before starting any new exercise regimen, especially after an injury.
 </details>
 
 <details>
-<summary>938. Key Questions In Figuring Out Body Problems – Dr. Berg</summary><br>
+<summary>938. [2017-07-12] Key Questions In Figuring Out Body Problems – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=t0vTVTOGJec" target="_blank">
     <img src="https://img.youtube.com/vi/t0vTVTOGJec/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 重点整理
 
+#### 核心主题
+- 肝脏和胆囊健康问题及其对整体健康的影响。
+- 饮食调整和生活方式改变在改善肝脏功能中的作用。
+
+#### 主要观念
+1. **饮食与肝脏健康的关系**：
+   - 高纤维、低脂肪的饮食有助于促进肝脏和胆囊健康。
+   - 减少加工食品和高糖饮料的摄入，增加蔬菜和优质蛋白质的摄入。
+
+2. **压力管理的重要性**：
+   - 慢性压力会导致肝脏负担加重，影响整体健康。
+   - 通过适当的放松技巧和规律运动来缓解压力。
+
+3. **生活习惯对肝脏的影响**：
+   - 规律作息和充足睡眠有助于肝脏修复和排毒。
+   - 避免过度饮酒和吸烟等不良习惯。
+
+#### 问题原因
+- **饮食不当**：高脂肪、低纤维的饮食导致胆汁淤积，增加胆囊疾病风险。
+- **压力过大**：长期压力会导致肝脏功能受损，影响身体代谢。
+- **缺乏运动**：久坐不动的生活方式会降低新陈代谢率，加重肝脏负担。
+
+#### 解决方法
+1. **饮食调整**：
+   - 增加蔬菜摄入量（7-10杯/天）以促进纤维素摄取。
+   - 选择优质蛋白质来源如鸡蛋、瘦肉和鱼类。
+   - 减少精制糖和高脂肪食物的摄入。
+
+2. **生活习惯改善**：
+   - 规律作息，保证充足的睡眠时间。
+   - 增加日常运动量，如散步、瑜伽等，以促进血液循环和代谢。
+
+3. **压力管理**：
+   - 通过冥想、深呼吸等方式缓解压力。
+   - 学会合理安排工作与休息时间，避免过度劳累。
+
+#### 结论
+- 肝脏健康是整体健康的基础，通过合理的饮食调整和生活习惯改变可以有效改善肝脏功能。
+- 长期坚持健康的生活方式能够预防和治疗胆囊疾病，提升生活质量。
 </details>
 
 <details>
-<summary>937. The Purpose of Potassium – Dr.Berg</summary><br>
+<summary>937. [2017-07-11] The Purpose of Potassium – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Lp4HZLC0v34" target="_blank">
     <img src="https://img.youtube.com/vi/Lp4HZLC0v34/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題：  
+- 鉀的重要性及其在人體中的多樣功能。
+
+---
+
+#### 主要觀念：
+1. **鉀的基本角色**：  
+   - 鉀是必需的大量元素之一，成人每日需求量約為4700毫克。
+   - 它參與所有細胞反應，並在糖分 storage（glycogenesis）中扮演關鍵角色。
+
+2. **糖分 storage 與鉀的作用**：  
+   - 鉀促進血糖以肝糖原和肌糖原的形式儲存，確保能量供應。
+   - 每一分子葡萄糖的儲存需依賴一分子鉀。
+
+3. **食物來源**：  
+   - 高鉀飲食主要來自蔬菜（如菠菜、羽衣甘藍）、水果（如香蕉）和一些海產品。
+
+---
+
+#### 問題原因：
+1. **現代飲食習慣的影響**：  
+   - 西式飲食中鹽分攝取過量，導致鉴失衡。
+   - 糖分和加工食品消耗過多，這些食物通常缺乏鉀且可能含高鹽。
+
+2. **低鉀血症的危害**：  
+   - 鉩不足會導致水肿、高血壓和其他循環系統問題。
+   - 在低碳水化合物飲食（如酮 genesis diet）中，糖分攝取過少易導致鉸流失。
+
+---
+
+#### 解決方法：
+1. **調整飲食結構**：  
+   - 增加蔬菜和水果的攝取，特別是高鉀食物。
+   - 減少精製糖和鹽的攝取。
+
+2. **補充策略**：  
+   - 在進行低碳水化合物飲食時，需注意補充鉀以避免低鉸血症。
+   - 經常監測血壓和血鉣水平，必要時可考慮補充劑。
+
+---
+
+#### 健康建議：
+1. **飲食計劃**：  
+   - 每餐開始食用蔬菜以控制食慾並平衡營養攝取。
+   - 選擇未加工食品，避免精製糖和鹽。
+
+2. **hydration 注意事項**：  
+   - 在脫水或流汗後，補充含鉀的液體而非純水。
+   - 確保飲食中鉾與鈉的比例約為4:1。
+
+3. **血壓管理**：  
+   - 高血壓患者可通過增加鉓攝取來降低血壓，而不必過度限制鹽分。
+
+---
+
+#### 結論：
+- 鉀是維持人體健康的重要礦物質，其缺乏會引發多種健康問題。
+- 通過調整飲食結構和補充策略，可以有效改善鉴失衡，提升整體健康狀況。
 </details>
 
 <details>
-<summary>936. Why Do I Feel So Sleepy Despite Having Enough Sleep? – Dr. Berg</summary><br>
+<summary>936. [2017-07-11] Why Do I Feel So Sleepy Despite Having Enough Sleep? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=NLN8NT7lsqw" target="_blank">
     <img src="https://img.youtube.com/vi/NLN8NT7lsqw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **睡眠性嗜睡症**：討論一種即便睡眠充足仍感到強烈睡意的情況。
 
+---
+
+### 主要觀念
+1. 睡眠性嗜睡症的定義：
+   - 即使 sleeps 8-10 小時，仍然感覺疲倦且無法自床上爬起來。
+2. 症狀：
+   - 強烈的睡眠欲望，伴隨白天思睡和活動力降低。
+
+---
+
+### 問題原因
+1. 可能的原因包括：
+   - **高胰島素血症**：與前糖尿病或糖尿病相關。
+   - **甲狀腺功能減退**。
+   - **低鈉血症**。
+   - **鎂攝取過量**。
+   - **高血鈣症（hypercalcemia）**。
+2. 最常見的原因：
+   - **維生素 B6 缺乏**，尤其是活性形式的缺乏。
+
+---
+
+### 解決方法
+1. **增補活動形式的維生素 B6**：
+   - 推薦使用 **吡哆醇 5 磷酸酯（pyridoxal 5-phosphate）**。
+   - 此為 B6 的活性形式，效果比非活性形式高出五倍。
+2. **其他建議**：
+   - 檢查並調整胰島素水平、甲狀腺功能、電解質平衡等。
+
+---
+
+### 健康建議
+1. **營養補充**：
+   - 確保攝取足夠的維生素 B6，尤其是活性形式。
+2. **諮詢專業醫師**：
+   - 若症狀持續或加重，應及時就醫檢查，排除其他潛在病因。
+
+---
+
+### 總結
+- 睡眠性嗜睡症可能由多種因素引起，但最常見的原因是維生素 B6 缺乏。
+- 通過補充活性形式的維生素 B6（如吡哆醇 5 磷酸酯），可以有效改善睡眠 excess 情況。
+- 如情況未改善，建議進一步檢查以排除其他健康問題。
 </details>
 
 <details>
-<summary>935. What Causes High Pulse Rate? – Dr. Berg</summary><br>
+<summary>935. [2017-07-10] What Causes High Pulse Rate? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=M-eP69y5a6Q" target="_blank">
     <img src="https://img.youtube.com/vi/M-eP69y5a6Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 探讨高脉搏率（High Pulse Rate）的可能原因及其解决方案。
 
+### 主要觀念
+1. 正常脉搏率范围：
+   - 成年人：60至80次/分钟。
+   - 顶级运动员：可低至35次/分钟。
+   - 婴儿：正常为20次/分钟，随着年龄增长逐渐下降。
+
+2. 脉搏率受自主神经系统（特别是副交感神经系统）调控：
+   - 副交感神经系统负责降低脉搏率。
+   - 婴儿的副交感神经系统尚未充分发育，因此脉搏率较高。
+
+### 問題原因
+1. 生理因素：
+   - 甲状腺功能亢进（Hyperthyroidism）：甲状腺激素过多导致代谢加快，增加心率。
+   - 镁和钾缺乏：低钾血症会抑制副交感神经系统，导致脉搏率升高。
+
+2. 药物与物质影响：
+   - 某些药物副作用：如哮喘药、抗抑郁药等。
+   - 过敏反应：使用肾上腺素（EpiPen）后可能导致心率加快。
+   - 刺激性物质：咖啡因和尼古丁摄入过多会增加心率。
+
+3. 心血管问题：
+   - 心脏功能异常：如心律不齐、心脏病等。
+   - 压力与焦虑：交感神经兴奋导致“战或逃”反应，增加心率。
+
+4. 其他内分泌问题：
+   - 肾上腺素过多：肾上腺分泌过多激素可能导致心率加快。
+
+### 解決方法
+1. 营养调整：
+   - 补充钾离子：通过饮食（如香蕉、橙子）或补充电解质。
+   - 确保镁摄入：食物来源包括坚果和绿叶蔬菜。
+
+2. 药物管理：
+   - 咨询医生评估药物副作用，必要时更换药物。
+
+3. 生活方式调整：
+   - 减少咖啡因和尼古丁摄入。
+   - 控制压力与焦虑：通过冥想、运动等方式调节自主神经系统。
+
+4. 医疗干预：
+   - 对于甲状腺功能亢进等内分泌问题，需专业治疗。
+
+### 健康建議
+- 定期监测脉搏率，了解自身正常范围。
+- 若出现持续性高脉搏伴随头晕、胸痛等症状，应及时就医。
+- 保持均衡饮食，适量运动，避免过度摄入刺激性物质。
+
+### 結論
+高脉搏率可能是多种因素导致的，包括生理、药物和病理原因。通过综合评估和调整生活方式，大多数情况下可以得到有效控制。若无法自行解决，建议寻求专业医疗帮助。
 </details>
 
 <details>
-<summary>934. What Is Excessive Yawning? – Dr. Berg</summary><br>
+<summary>934. [2017-07-10] What Is Excessive Yawning? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XzHIZdGXpjM" target="_blank">
     <img src="https://img.youtube.com/vi/XzHIZdGXpjM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 過度打哈欠的原因及解決方法  
 
+---
+
+### 主要觀念  
+1. 過度打哈欠可能與血液中的血紅蛋白含量低（貧鐵）有關。  
+2. 腺苷酸代謝失衡或二氧化碳水平降低也可能引發打哈欠。  
+3. 生活習慣和環境因素，如壓力、疲勞、缺氧，也可能是原因之一。  
+
+---
+
+### 問題原因  
+1. **血液中铁含量不足**：血紅蛋白合成需要鐵元素，缺鐵會導致貧血，進而誘發打哈欠。  
+2. **酸鹼失衡（代謝性 acidosis）**：血液中酸性物質過多可能引起打哈欠。  
+3. **胃酸不足**：胃酸不夠可能影響鐵的吸收，間接導致血紅蛋白降低。  
+
+---
+
+### 解決方法  
+1. **補充鐵質**：  
+   - 增加富含鐵的食物攝取（如紅肉、海鮮、蛋黃、菠菜等）。  
+   - 配合維生素C攝取以促進鐵吸收。  
+2. **調整酸鹼平衡**：  
+   - 服用含鈣離子的補充劑（如枸櫞酸calcium）。  
+   - 調整飲食結構，避免長期酮ogenic diet。  
+3. **改善胃酸分泌**：  
+   - 使用稀鹽酸或蘋果醋來增加胃酸。  
+   - 對於胃酸不足導致的吸收問題，可諮詢醫生使用藥物。  
+
+---
+
+### 健康建議  
+1. 適當攝取富含鐵質的食物，如紅肉、海鮮、蛋黃等。  
+2. 保持均衡飲食，避免長期過度依賴某一類食物。  
+3. 注意胃酸健康，如有消化不良問題，可諮詢專業人士。  
+4. 如持續打哈欠且伴有疲勞或其他症狀，建議及時就醫檢查。  
+
+---
+
+### 結論  
+- 過度打哈欠可能是貧鐵、酸鹼失衡或胃酸不足等問題的表現。  
+- 及時補充營養素、調整飲食結構並改善消化功能可有效緩解症狀。  
+- 如疑慮嚴重，建議尋求專業醫療幫助以確診和治療。
 </details>
 
 <details>
-<summary>933. Best Nutrients For Hashimoto's Thyroiditis – Dr. Berg</summary><br>
+<summary>933. [2017-07-09] Best Nutrients For Hashimoto's Thyroiditis – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ioIYatKpDxE" target="_blank">
     <img src="https://img.youtube.com/vi/ioIYatKpDxE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：橋本病（Hashimoto甲状腺炎）的營養干預策略
 
+---
+
+#### 主要觀念：
+1. 橋本病是一種 autoimmune 疾病，影響甲狀腺功能。
+2. 甲狀腺位於頸部基底，患者會產生攻擊自身甲狀腺的抗體，導致炎症。
+3. 病因通常與壓力（包括情緒和物理壓力）有關，壓力降低免疫力，增加患病風險。
+
+---
+
+#### 啊，問題原因：
+1. 桥本病的發病機制涉及免疫系統异常和氧化應激。
+2. 膳食中某些營養素缺乏或不平衡可能加重病情，如硒、碘、維生素D、維生素A和鎂等。
+3. 睾酮水平失衡（特別是雌激素過高）也可能干擾甲狀腺功能。
+
+---
+
+#### 解決方法：
+1. **營養干預：**
+   - **硒（Selenium）：**  
+     - 必要的微量元素，參與T4向T3轉化。  
+     - 財能谷胱甘肊的合成，具有抗氧化和免疫調節作用。  
+     - 可通過食物攝取（如巴西栗、海 products等）或補充劑（如NAC）。  
+
+   - **碘（Iodine）：**  
+     - 與硒配合同志，支持甲狀腺激素合成。  
+     - 適當攝入含碘食物（如海帶）。  
+
+   - **維生素D和維生素A：**  
+     - 維生素D缺乏會影響免疫功能，可通過補充或晒太陽來提高水平。  
+     - 維生素A（以活性形式Retinol為佳）支持免疫系統並促進T3功能。  
+     - 可通過動物性食物攝取（如肝臟油）。  
+
+   - **鎂（Magnesium）：**  
+     - 助於T4向T3轉化，可從食物或補充劑中攝取。  
+
+2. **器官功能支持：**  
+   - 確保肝臟和腎臟健康，因這兩者參與甲狀腺激素的合成與代谢。  
+
+---
+
+#### 健康建議：
+1. 保持均衡飲食，攝取足夠的硒、碘、維生素D、維生素A和鎂。  
+2. 使用補充劑時需謹慎，尤其是NAC和谷胱甘肊，建議在專業人員指導下使用。  
+3. 管理壓力，通過運動、冥想等方式降低壓力水平。  
+4. 监測並調節激素水平，特別是雌激素 dominance的情況。  
+
+---
+
+#### 結論：
+1. 橋本病的營養干預需要綜合考慮多種營養素的平衡與相互作用。  
+2. 硒、碘、維生素D、維生素A和鎂在甲狀腺功能調節中起到重要作用。  
+3. 通過飲食調整和補充劑來改善營養狀況，可有效降低炎症反應並促進免疫系統健康。  
+
+---
+
+此整理基於文章內容，使用正式的學術用語，結構清晰，客觀性高，適合用於醫療健康主題。
 </details>
 
 <details>
-<summary>932. What Is Vascular Calcification? – Dr.Berg</summary><br>
+<summary>932. [2017-07-09] What Is Vascular Calcification? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=L4-E48eNvxk" target="_blank">
     <img src="https://img.youtube.com/vi/L4-E48eNvxk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- **血管鈣化**：文章主要探討血管鈣化的病理生理過程及其在慢性腎臟病中的重要性。
+- **慢性腎臟病的死因**：血管鈣化是慢性腎臟病患者的主要致死原因，且比高膽固醇更為可靠的ocardial事件預測指標。
+
+#### 主要觀念
+1. **血管鈣化的影響**
+   - 血管（如主動脈）失去彈性，變得僵硬。
+   - 鈣化導致血壓持續升高，而非短期波動。
+2. **维生素K2的作用**
+   - 负責抑制血管鈣化，促進鈣沉積於骨骼而非血管。
+   - 改善骨質疏鬆症和骨質減少症。
+3. **慢性腎臟病患者的營養 deficiency**
+   - 維生素D3在腎臟代謝受限，導致鈣代謝紊亂。
+
+#### 問題原因
+- 血管鈣化的病因主要包括：
+  - 骨化三醇（活性維生素D）的合成受阻。
+  - 維生素K2 deficiency，在透析患者中尤為明顯。
+- 药物干擾：如華法林和庫侖亭等抗凝藥物可能影響维生素K2的作用。
+
+#### 解決方法
+1. **營養補充**
+   - **維生素K2**：通過食物攝取（如 Sauerkraut、發酵大豆制品、草饲乳製品、蛋黃）或補充劑。
+   - **維生素D3**：定期監測血清水平，必要時進行補充。
+2. **生活方式調整**
+   - 避免高鹽、高齡饮食。
+   - 增加運動，促進心血管健康。
+
+#### 健康建議
+- 定期檢查 arterial calcification（如 Coronary artery calcium score）。
+- 對於正在使用抗凝藥物的患者，需在醫生指導下評估维生素K2的補充。
+- 醫療機構應將血管鈣化的篩查納入常規檢查項目。
+
+#### 結論
+- 血管鈣化是慢性腎臟病患者的關鍵健康問題， своевременное визначення та корисне лікування кальциферації між arterial у цих pacientах дуже важливе.
+- 維生素K2和D3在防治血管鈣化中具有重要作用，值得進一步研究和臨床應用。
+- 隨著對維生素K2作用的深入了解，其在未來將成為腎臟病管理的重要組成部分。
 </details>
 
 <details>
-<summary>931. The Non-Stress Cause of High Cortisol – Dr. Berg</summary><br>
+<summary>931. [2017-07-08] The Non-Stress Cause of High Cortisol – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=BiYuIsBzBE4" target="_blank">
     <img src="https://img.youtube.com/vi/BiYuIsBzBE4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 非應激性高皮質醇的原因
+- 皮質醇与胰島素的相互作用
+- 胰島素抗性的影響及解決方法
 
+### 主要觀念
+- 皮質醇（Cortisol）是一種壓力荷爾蒙，主要負責應對緊張和壓力。
+- 高胰島素emia是導致皮質醇升高的另一個重要因素。
+- 皮質醇與胰島素在功能上相互拮抗，影響血糖水平和其他生理過程。
+
+### 問題原因
+1. **高胰岛素血症**：
+   - 長期攝入高糖、高精制碳水化合物飲食。
+   - 經常進食或食用導致胰島素分泌過度的食物（如含MSG的食品）。
+   - 身體對胰島素的敏感性降低，引發胰岛素抗性。
+
+2. **皮質醇的作用**：
+   - 在應激状态下，皮質醇促使身體分解蛋白質以轉化為葡萄糖。
+   - 高皮質醇水平導致肌肉萎縮、脂肪積累（尤其是腹部脂肪）和其他代謝問題。
+
+### 解決方法
+1. **降低胰岛素水平**：
+   - 減少攝取高糖和高精制碳水化合物。
+   - 增加膳食纖維的攝取，幫助控制血糖和胰島素分泌。
+   - 選擇低GI（升糖指數）食物，避免血糖波動。
+
+2. **管理皮質醇水平**：
+   - 通過壓力管理和放鬆技巧（如冥想、瑜伽）來降低皮質醇的分泌。
+   - 確保充足的睡眠和規律的生活習慣。
+
+### 健康建議
+- 避免經常食用刺激胰島素分泌的食物，如糖分高和加工食品。
+- 增加蛋白質攝取，幫助維持肌肉量並降低皮質醇的破壞作用。
+- 定期進行運動，特別是有氧運動和力量訓練，可以提高胰島素敏感性並降低皮質醇水平。
+
+### 結論
+- 高皮質醇血症不僅由壓力引起，還與高胰岛素emia密切相关。
+- 解決皮質醇相關健康問題，關鍵在於控制血糖和胰岛素水平。
+- 通過飲食調整、運動和壓力管理，可以有效降低皮質醇並改善整體健康狀況。
 </details>
 
 <details>
