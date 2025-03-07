@@ -11,9 +11,9 @@ channel_url = 'https://www.youtube.com/@Drberg/videos'
 csv_file = 'video_list.csv'
 
 base_dir = os.path.dirname(os.path.abspath(__file__)) + '/../'
-script_dir = os.path.join(base_dir, 'scripts')
-summary_dir = os.path.join(base_dir, 'summary')  
-docs_dir = os.path.join(base_dir, 'docs')
+script_dir = os.path.join(base_dir, 'scripts/')
+summary_dir = os.path.join(base_dir, 'summary/')  
+docs_dir = os.path.join(base_dir, 'docs/')
 readme_file = os.path.join(base_dir, 'README.md')  
 
 def update_list():
