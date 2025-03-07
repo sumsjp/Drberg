@@ -2,7 +2,7 @@
 <summary>4500. [2024-01-21] How to Ruin Your Health - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=sTnbzWbKgvE" target="_blank">
-    <img src="https://img.youtube.com/vi/sTnbzWbKgvE/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/sTnbzWbKgvE/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 # 文章要點整理
@@ -71,7 +71,7 @@
 <summary>4499. [2024-01-20] The Silent Signs of Dementia: Watch Out for These 10 Warning Signs</summary><br>
 
 <a href="https://www.youtube.com/watch?v=6mxb4If0onI" target="_blank">
-    <img src="https://img.youtube.com/vi/6mxb4If0onI/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/6mxb4If0onI/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -154,7 +154,7 @@
 <summary>4498. [2024-01-19] The Ultimate Natural Antibiotic Drink (Home Remedy Formula)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=TPYllcOyeMA" target="_blank">
-    <img src="https://img.youtube.com/vi/TPYllcOyeMA/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/TPYllcOyeMA/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理：抗icrobial 饮品的功效与应用
@@ -209,7 +209,7 @@
 <summary>4497. [2024-01-18] The Fastest Way to Lose Belly Fat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=x3vnCKivCjs" target="_blank">
-    <img src="https://img.youtube.com/vi/x3vnCKivCjs/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/x3vnCKivCjs/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理：健康與減重策略
@@ -299,7 +299,7 @@
 <summary>4496. [2024-01-17] The Black Seed Oil Benefits You Never Heard About</summary><br>
 
 <a href="https://www.youtube.com/watch?v=7Nxn-rCA1Y4" target="_blank">
-    <img src="https://img.youtube.com/vi/7Nxn-rCA1Y4/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/7Nxn-rCA1Y4/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理  
@@ -374,7 +374,7 @@
 <summary>4495. [2024-01-16] The Truth about Fasting: How It Works</summary><br>
 
 <a href="https://www.youtube.com/watch?v=350bk9Ph3ak" target="_blank">
-    <img src="https://img.youtube.com/vi/350bk9Ph3ak/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/350bk9Ph3ak/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理重點
@@ -454,7 +454,7 @@
 <summary>4494. [2024-01-15] The Ultimate Face Transformation–Dr. Berg's Best Remedy for Dry Skin and Wrinkles</summary><br>
 
 <a href="https://www.youtube.com/watch?v=rGu8php0XoY" target="_blank">
-    <img src="https://img.youtube.com/vi/rGu8php0XoY/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/rGu8php0XoY/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -522,7 +522,7 @@
 <summary>4493. [2024-01-14] The #1 Top Remedy for Dental Plaque (TARTAR)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=TPjZvNA74ds" target="_blank">
-    <img src="https://img.youtube.com/vi/TPjZvNA74ds/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/TPjZvNA74ds/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### I. 核心主題:  
@@ -599,7 +599,7 @@
 <summary>4492. [2024-01-13] The BEST Drink for a Fatty Liver</summary><br>
 
 <a href="https://www.youtube.com/watch?v=2iZygvHLLMI" target="_blank">
-    <img src="https://img.youtube.com/vi/2iZygvHLLMI/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/2iZygvHLLMI/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -652,7 +652,7 @@
 <summary>4491. [2024-01-12] 17 Signs Your Body Needs More Nutrients: Use Superfoods</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Lrrdnedfan8" target="_blank">
-    <img src="https://img.youtube.com/vi/Lrrdnedfan8/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/Lrrdnedfan8/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -691,7 +691,7 @@
 <summary>4490. [2024-01-11] The #1 Worst Food for Your Heart (HINT: It's Not Sugar)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=R61GrYa6KKg" target="_blank">
-    <img src="https://img.youtube.com/vi/R61GrYa6KKg/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/R61GrYa6KKg/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 # 文章重點整理
@@ -733,7 +733,7 @@
 <summary>4489. [2024-01-10] Rid Throat and Sinus Mucus with SALT</summary><br>
 
 <a href="https://www.youtube.com/watch?v=BMfSBFPBAl4" target="_blank">
-    <img src="https://img.youtube.com/vi/BMfSBFPBAl4/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/BMfSBFPBAl4/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章總結與結構化整理
@@ -808,7 +808,7 @@
 <summary>4488. [2024-01-09] How To Get INSTANT RELIEF for Trigeminal Neuralgia (Tic Douloureux)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=NPHTkKgoEgA" target="_blank">
-    <img src="https://img.youtube.com/vi/NPHTkKgoEgA/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/NPHTkKgoEgA/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -887,7 +887,7 @@
 <summary>4487. [2024-01-08] Top BEST Foods to Clean Out Your Liver</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xAT_1LXlJqM" target="_blank">
-    <img src="https://img.youtube.com/vi/xAT_1LXlJqM/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/xAT_1LXlJqM/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理：恢復肝臟健康的策略與建議
@@ -943,7 +943,7 @@
 <summary>4486. [2024-01-07] No More Sleepless Nights: The Ultimate Cure for Waking Up to Pee at Night (Nocturia)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Ku56lZTV7OY" target="_blank">
-    <img src="https://img.youtube.com/vi/Ku56lZTV7OY/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/Ku56lZTV7OY/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -1035,7 +1035,7 @@
 <summary>4485. [2024-01-06] Vitamin B1 (Thiamine) Deficiency Signs, Symptoms, and Treatment Benefits</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vppzm2NsIYo" target="_blank">
-    <img src="https://img.youtube.com/vi/vppzm2NsIYo/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/vppzm2NsIYo/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -1084,7 +1084,7 @@
 <summary>4484. [2024-01-05] THIS is How You Get Rid of Puffy Eyes FOR GOOD!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=-u3k5CUmiXU" target="_blank">
-    <img src="https://img.youtube.com/vi/-u3k5CUmiXU/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/-u3k5CUmiXU/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -1139,7 +1139,7 @@
 <summary>4483. [2024-01-04] THIS Is Why You Should STOP Eating Sugar - by Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=x2ULTvo9zKc" target="_blank">
-    <img src="https://img.youtube.com/vi/x2ULTvo9zKc/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/x2ULTvo9zKc/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理：避免糖分攝取對健康的影響與飲食建議
@@ -1220,7 +1220,7 @@
 <summary>4482. [2024-01-03] Shocking Truth: Dr. Berg's 20-Year Cereal Obsession!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=-gNgtkulaCY" target="_blank">
-    <img src="https://img.youtube.com/vi/-gNgtkulaCY/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/-gNgtkulaCY/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章題目：  
@@ -1277,7 +1277,7 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
 <summary>4481. [2024-01-02] The 30-Day Sugar Detox</summary><br>
 
 <a href="https://www.youtube.com/watch?v=e46xrn8c-eA" target="_blank">
-    <img src="https://img.youtube.com/vi/e46xrn8c-eA/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/e46xrn8c-eA/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理：提升代謝健康與實現酮症的研究與建議
@@ -1339,7 +1339,7 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
 <summary>4480. [2024-01-01] The Best Diet & Exercise for Stubborn Belly Fat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=RHgDOwdZtfQ" target="_blank">
-    <img src="https://img.youtube.com/vi/RHgDOwdZtfQ/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/RHgDOwdZtfQ/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -1379,7 +1379,7 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
 <summary>4479. [2023-12-31] What to Eat to Clean Out Your Arteries—Dr. Berg Explains</summary><br>
 
 <a href="https://www.youtube.com/watch?v=D-K2kwojNXw" target="_blank">
-    <img src="https://img.youtube.com/vi/D-K2kwojNXw/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/D-K2kwojNXw/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -1420,7 +1420,7 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
 <summary>4478. [2023-12-30] 7 Foods that RUIN Your Liver - Dr. Berg Explains</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xgNvNlQ91p4" target="_blank">
-    <img src="https://img.youtube.com/vi/xgNvNlQ91p4/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/xgNvNlQ91p4/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章主旨與結構整理
@@ -1477,7 +1477,7 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
 <summary>4477. [2023-12-29] 7 Top Remedies that Really Work</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3jZqe7RJ73M" target="_blank">
-    <img src="https://img.youtube.com/vi/3jZqe7RJ73M/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/3jZqe7RJ73M/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -1550,7 +1550,7 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
 <summary>4476. [2023-12-28] How to Use Your Feet to Diagnose Liver Problems—Dr. Berg Explains</summary><br>
 
 <a href="https://www.youtube.com/watch?v=9vC3mxSEqf0" target="_blank">
-    <img src="https://img.youtube.com/vi/9vC3mxSEqf0/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/9vC3mxSEqf0/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -1623,7 +1623,7 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
 <summary>4475. [2023-12-27] Who Is Dr. Berg's Doctor?  Metabolomics Discussion</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Ko414UcqKig" target="_blank">
-    <img src="https://img.youtube.com/vi/Ko414UcqKig/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/Ko414UcqKig/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題： 
@@ -1697,7 +1697,7 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
 <summary>4474. [2023-12-26] The Top SUPERFOODS for the Kidneys—Explained by Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=RQM_4aaf8iY" target="_blank">
-    <img src="https://img.youtube.com/vi/RQM_4aaf8iY/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/RQM_4aaf8iY/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理：腎臟健康飲食指南
@@ -1762,7 +1762,7 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
 <summary>4473. [2023-12-25] Is It Safe to Take 10,000 IU of Vitamin D3? Dr. Berg Explains</summary><br>
 
 <a href="https://www.youtube.com/watch?v=uAfVC4l5uZ0" target="_blank">
-    <img src="https://img.youtube.com/vi/uAfVC4l5uZ0/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/uAfVC4l5uZ0/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -1820,7 +1820,7 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
 <summary>4472. [2023-12-24] Ultimate Support for Your Cataracts</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DWOOo2VsyRQ" target="_blank">
-    <img src="https://img.youtube.com/vi/DWOOo2VsyRQ/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/DWOOo2VsyRQ/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理：貓兒症的最終治療法
@@ -1875,7 +1875,7 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
 <summary>4471. [2023-12-23] Vitamin D and Cortisol: (VERY SIMILAR)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=IUGVoT9IwAI" target="_blank">
-    <img src="https://img.youtube.com/vi/IUGVoT9IwAI/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/IUGVoT9IwAI/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -1955,7 +1955,7 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
 <summary>4470. [2023-12-22] Boost Your Workout Stamina (Endurance) with RHODIOLA</summary><br>
 
 <a href="https://www.youtube.com/watch?v=FDgXAW-53oQ" target="_blank">
-    <img src="https://img.youtube.com/vi/FDgXAW-53oQ/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/FDgXAW-53oQ/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -1993,7 +1993,7 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
 <summary>4469. [2023-12-21] The CARB More Dangerous than Sugar (SURPRISING)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=2zaVRd4sNpM" target="_blank">
-    <img src="https://img.youtube.com/vi/2zaVRd4sNpM/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/2zaVRd4sNpM/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -2056,7 +2056,7 @@ Maltodextrin 作为一种高度加工的碳水化合物，雖然被廣泛用於�
 <summary>4468. [2023-12-20] How Sitting Is KILLING Your Back & Body</summary><br>
 
 <a href="https://www.youtube.com/watch?v=t2e4H8M2Q6k" target="_blank">
-    <img src="https://img.youtube.com/vi/t2e4H8M2Q6k/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/t2e4H8M2Q6k/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -2123,7 +2123,7 @@ Maltodextrin 作为一种高度加工的碳水化合物，雖然被廣泛用於�
 <summary>4467. [2023-12-19] 7 Top Supplements That REALLY Work</summary><br>
 
 <a href="https://www.youtube.com/watch?v=2-2CheWxDlY" target="_blank">
-    <img src="https://img.youtube.com/vi/2-2CheWxDlY/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/2-2CheWxDlY/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 小結整理：自然療法的核心主題與建議
@@ -2164,7 +2164,7 @@ Maltodextrin 作为一种高度加工的碳水化合物，雖然被廣泛用於�
 <summary>4466. [2023-12-18] The Unique Benefits of Using Vitamin D and K2 Combined</summary><br>
 
 <a href="https://www.youtube.com/watch?v=uBqNYt6oGCc" target="_blank">
-    <img src="https://img.youtube.com/vi/uBqNYt6oGCc/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/uBqNYt6oGCc/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理與結構化分析
@@ -2223,7 +2223,7 @@ Maltodextrin 作为一种高度加工的碳水化合物，雖然被廣泛用於�
 <summary>4465. [2023-12-17] 14 Earliest Signs of Nutritional Deficiencies</summary><br>
 
 <a href="https://www.youtube.com/watch?v=WW_pBDhJSkk" target="_blank">
-    <img src="https://img.youtube.com/vi/WW_pBDhJSkk/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/WW_pBDhJSkk/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -2279,7 +2279,7 @@ Maltodextrin 作为一种高度加工的碳水化合物，雖然被廣泛用於�
 <summary>4464. [2023-12-16] The #1 Most Inflammatory Food in the World</summary><br>
 
 <a href="https://www.youtube.com/watch?v=lkahiClvvg0" target="_blank">
-    <img src="https://img.youtube.com/vi/lkahiClvvg0/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/lkahiClvvg0/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理：Ultra Processed Foods 对健康的影響與對策
@@ -2336,7 +2336,7 @@ Ultra Processed Foods 及其成分 glyphosate 是導致現代慢性疾病的關�
 <summary>4463. [2023-12-15] How to Remove Skin Tags and Warts Overnight - Dr. Berg Explains</summary><br>
 
 <a href="https://www.youtube.com/watch?v=CgOeXzKHQuA" target="_blank">
-    <img src="https://img.youtube.com/vi/CgOeXzKHQuA/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/CgOeXzKHQuA/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -2373,7 +2373,7 @@ Ultra Processed Foods 及其成分 glyphosate 是導致現代慢性疾病的關�
 <summary>4462. [2023-12-14] This SUCKS! - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=4LEGd8r84Tc" target="_blank">
-    <img src="https://img.youtube.com/vi/4LEGd8r84Tc/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/4LEGd8r84Tc/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -2421,7 +2421,7 @@ Ultra Processed Foods 及其成分 glyphosate 是導致現代慢性疾病的關�
 <summary>4461. [2023-12-13] Heart Rate Variability (HRV): Measure Your Autonomic Nervous System (ANS)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=qUiVQtR9Onk" target="_blank">
-    <img src="https://img.youtube.com/vi/qUiVQtR9Onk/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/qUiVQtR9Onk/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題：Heart Rate Variability (HRV) 的概念與應用  
@@ -2457,7 +2457,7 @@ Ultra Processed Foods 及其成分 glyphosate 是導致現代慢性疾病的關�
 <summary>4460. [2023-12-12] Vitamin D Deficiency and Zinc: (MUST KNOW)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=NP0XtAwFaIg" target="_blank">
-    <img src="https://img.youtube.com/vi/NP0XtAwFaIg/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/NP0XtAwFaIg/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 關鍵主題與核心概念
@@ -2520,7 +2520,7 @@ Ultra Processed Foods 及其成分 glyphosate 是導致現代慢性疾病的關�
 <summary>4459. [2023-12-11] 4 Big Ways to Drop Your Cancer Risk</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_ekWWHnwCbQ" target="_blank">
-    <img src="https://img.youtube.com/vi/_ekWWHnwCbQ/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/_ekWWHnwCbQ/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題：  
@@ -2580,7 +2580,7 @@ Warburg 效應是指癌細胞即使在有充足氧氣供應的情況下，仍偏
 <summary>4458. [2023-12-10] Himalayan vs. Celtic Sea Salt: WHICH IS BETTER?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=jzowdHBwu7o" target="_blank">
-    <img src="https://img.youtube.com/vi/jzowdHBwu7o/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/jzowdHBwu7o/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理：海鹽與健康的關係
@@ -2630,7 +2630,7 @@ Warburg 效應是指癌細胞即使在有充足氧氣供應的情況下，仍偏
 <summary>4457. [2023-12-09] Instantly Lower Blood Pressure within 60 Seconds</summary><br>
 
 <a href="https://www.youtube.com/watch?v=UNqDVQDZRgA" target="_blank">
-    <img src="https://img.youtube.com/vi/UNqDVQDZRgA/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/UNqDVQDZRgA/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理：降低血壓的關鍵策略與健康建議
@@ -2688,7 +2688,7 @@ Warburg 效應是指癌細胞即使在有充足氧氣供應的情況下，仍偏
 <summary>4456. [2023-12-08] Intermittent Water Drinking: DON'T Drink Until Thirsty</summary><br>
 
 <a href="https://www.youtube.com/watch?v=J82s2WCXNkk" target="_blank">
-    <img src="https://img.youtube.com/vi/J82s2WCXNkk/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/J82s2WCXNkk/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題：水的攝取與健康影響
@@ -2721,7 +2721,7 @@ hydration的管理不僅涉及水量，還需要考慮鹽分攝取和飲水容�
 <summary>4455. [2023-12-07] Instead of Body Mass Index (BMI), Use THIS...</summary><br>
 
 <a href="https://www.youtube.com/watch?v=EvFbDZrvfHo" target="_blank">
-    <img src="https://img.youtube.com/vi/EvFbDZrvfHo/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/EvFbDZrvfHo/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 小節整理
@@ -2767,7 +2767,7 @@ hydration的管理不僅涉及水量，還需要考慮鹽分攝取和飲水容�
 <summary>4454. [2023-12-06] The #1 Best Remedy for Hemorrhoids - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=TmxKI5QqTKs" target="_blank">
-    <img src="https://img.youtube.com/vi/TmxKI5QqTKs/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/TmxKI5QqTKs/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題：自然療法治療痔疾
@@ -2800,7 +2800,7 @@ hydration的管理不僅涉及水量，還需要考慮鹽分攝取和飲水容�
 <summary>4453. [2023-12-05] How to STOP Prediabetes Going Into Diabetes</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Rds8TjqbcMs" target="_blank">
-    <img src="https://img.youtube.com/vi/Rds8TjqbcMs/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/Rds8TjqbcMs/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -2843,7 +2843,7 @@ hydration的管理不僅涉及水量，還需要考慮鹽分攝取和飲水容�
 <summary>4452. [2023-12-04] How to Help Regrow Your Hair (UPDATED VITAL INFO)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=9yr7A1fOuKM" target="_blank">
-    <img src="https://img.youtube.com/vi/9yr7A1fOuKM/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/9yr7A1fOuKM/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -2935,7 +2935,7 @@ hydration的管理不僅涉及水量，還需要考慮鹽分攝取和飲水容�
 <summary>4451. [2023-12-03] Clean Out Your Kidneys of Oxalates and Stones - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=BBbQc_-rNw0" target="_blank">
-    <img src="https://img.youtube.com/vi/BBbQc_-rNw0/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/BBbQc_-rNw0/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -2980,7 +2980,7 @@ hydration的管理不僅涉及水量，還需要考慮鹽分攝取和飲水容�
 <summary>4450. [2023-12-02] The Unique Benefits of ASHWAGANDHA (How and When to Take it) - Dr. Berg Explains</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vqzNWVVo5Is" target="_blank">
-    <img src="https://img.youtube.com/vi/vqzNWVVo5Is/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/vqzNWVVo5Is/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -3024,7 +3024,7 @@ Ashwagandha是一種源自古印度的adaptogen，具備多樣化的健康功效
 <summary>4449. [2023-12-01] How WORRY Ruins Your Body (HOW TO STOP IT)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=BWVMkgjw9gY" target="_blank">
-    <img src="https://img.youtube.com/vi/BWVMkgjw9gY/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/BWVMkgjw9gY/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理：壓力管理與皮質醇水平的影響及藝術療法的效果
@@ -3081,7 +3081,7 @@ Ashwagandha是一種源自古印度的adaptogen，具備多樣化的健康功效
 <summary>4448. [2023-11-30] Why You Are TIRED All the Time</summary><br>
 
 <a href="https://www.youtube.com/watch?v=l4kCN3Lgvdc" target="_blank">
-    <img src="https://img.youtube.com/vi/l4kCN3Lgvdc/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/l4kCN3Lgvdc/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理：提升線粒體功能以增強能量與整體健康
@@ -3139,7 +3139,7 @@ Ashwagandha是一種源自古印度的adaptogen，具備多樣化的健康功效
 <summary>4447. [2023-11-29] How STRESS Robs You of These Vitamins</summary><br>
 
 <a href="https://www.youtube.com/watch?v=s41knuxzxOg" target="_blank">
-    <img src="https://img.youtube.com/vi/s41knuxzxOg/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/s41knuxzxOg/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 小節整理：應對壓力的營養策略
@@ -3179,7 +3179,7 @@ Ashwagandha是一種源自古印度的adaptogen，具備多樣化的健康功效
 <summary>4446. [2023-11-28] The 7 Powerful Ways to Increase Autophagy</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vx6RkgoxzgQ" target="_blank">
-    <img src="https://img.youtube.com/vi/vx6RkgoxzgQ/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/vx6RkgoxzgQ/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章重点整理
@@ -3236,7 +3236,7 @@ Ashwagandha是一種源自古印度的adaptogen，具備多樣化的健康功效
 <summary>4445. [2023-11-27] Dr. Berg Fact-checks the Fact-Checker</summary><br>
 
 <a href="https://www.youtube.com/watch?v=h81qq8Ne3go" target="_blank">
-    <img src="https://img.youtube.com/vi/h81qq8Ne3go/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/h81qq8Ne3go/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 小節整理：文章重點
@@ -3289,7 +3289,7 @@ Ashwagandha是一種源自古印度的adaptogen，具備多樣化的健康功效
 <summary>4444. [2023-11-26] Alternative Sweeteners: Monk Fruit, Stevia, Erythritol & Xylitol – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=zMuu68luxgg" target="_blank">
-    <img src="https://img.youtube.com/vi/zMuu68luxgg/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/zMuu68luxgg/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理與分析
@@ -3364,7 +3364,7 @@ Ashwagandha是一種源自古印度的adaptogen，具備多樣化的健康功效
 <summary>4443. [2023-11-25] Magnesium L-Threonate is the Form of Mg for Memory, Concentration & Focus</summary><br>
 
 <a href="https://www.youtube.com/watch?v=RwYKnxLxsZ0" target="_blank">
-    <img src="https://img.youtube.com/vi/RwYKnxLxsZ0/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/RwYKnxLxsZ0/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題：鎂在腦部健康的多面角色及其不同形式的應用
@@ -3448,7 +3448,7 @@ Ashwagandha是一種源自古印度的adaptogen，具備多樣化的健康功效
 <summary>4442. [2023-11-24] This is Why I NEVER Take Vitamin A Supplements</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kng8mGSOKPQ" target="_blank">
-    <img src="https://img.youtube.com/vi/kng8mGSOKPQ/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/kng8mGSOKPQ/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -3518,7 +3518,7 @@ Ashwagandha是一種源自古印度的adaptogen，具備多樣化的健康功效
 <summary>4441. [2023-11-23] The 1st Sign of a Methylcobalamin (B12) Deficiency</summary><br>
 
 <a href="https://www.youtube.com/watch?v=NemgfCwePag" target="_blank">
-    <img src="https://img.youtube.com/vi/NemgfCwePag/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/NemgfCwePag/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 總覽
@@ -3622,7 +3622,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4440. [2023-11-22] 6 Foods That Can Kill You</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KZPuEvVuTaw" target="_blank">
-    <img src="https://img.youtube.com/vi/KZPuEvVuTaw/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/KZPuEvVuTaw/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理與結構化分析
@@ -3710,7 +3710,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4439. [2023-11-21] 9 Ways Dr. Berg BLOCKS the Side Effects Of Carbs While On A Keto Diet</summary><br>
 
 <a href="https://www.youtube.com/watch?v=qS_GSDbxCbE" target="_blank">
-    <img src="https://img.youtube.com/vi/qS_GSDbxCbE/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/qS_GSDbxCbE/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 小節整理：文章重點歸納
@@ -3751,7 +3751,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4438. [2023-11-20] The 4 Causes of Air Hunger / Difficulty Breathing (Dyspnea)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=b0hsCtm5DgI" target="_blank">
-    <img src="https://img.youtube.com/vi/b0hsCtm5DgI/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/b0hsCtm5DgI/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理：呼吸困難的可能原因與解決方案
@@ -3816,7 +3816,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4437. [2023-11-19] What Would Happen if You Drank Soda for 14 Days?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=E1DZUtY9AGA" target="_blank">
-    <img src="https://img.youtube.com/vi/E1DZUtY9AGA/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/E1DZUtY9AGA/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -3870,7 +3870,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4436. [2023-11-18] What Would Happen if You Only Got 5 Hours of Sleep Per Night - NOT GOOD!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=IJ3N_sjqghA" target="_blank">
-    <img src="https://img.youtube.com/vi/IJ3N_sjqghA/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/IJ3N_sjqghA/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -3950,7 +3950,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4435. [2023-11-17] 6 Foods that Lower Cortisol</summary><br>
 
 <a href="https://www.youtube.com/watch?v=1mTzY9qUkIs" target="_blank">
-    <img src="https://img.youtube.com/vi/1mTzY9qUkIs/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/1mTzY9qUkIs/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -4016,7 +4016,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4434. [2023-11-16] The Fastest Way to Pull Yourself Out of Any Stressful Situation</summary><br>
 
 <a href="https://www.youtube.com/watch?v=cbEbavXLAsM" target="_blank">
-    <img src="https://img.youtube.com/vi/cbEbavXLAsM/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/cbEbavXLAsM/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -4074,7 +4074,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4433. [2023-11-15] How to INSTANTLY Relieve Painful Periods (Menstrual Cramps)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=21HEr110HKg" target="_blank">
-    <img src="https://img.youtube.com/vi/21HEr110HKg/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/21HEr110HKg/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理
@@ -4147,7 +4147,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4432. [2023-11-14] 11 Vitamin B6 Deficiency Symptoms You've NEVER Heard Before</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ySdOZkz_ezU" target="_blank">
-    <img src="https://img.youtube.com/vi/ySdOZkz_ezU/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/ySdOZkz_ezU/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -4220,7 +4220,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4431. [2023-11-13] The 12 Triggers of Inflammation: The Root Causes</summary><br>
 
 <a href="https://www.youtube.com/watch?v=CWyijiQq7DU" target="_blank">
-    <img src="https://img.youtube.com/vi/CWyijiQq7DU/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/CWyijiQq7DU/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理：炎症的12個引發原因及對策
@@ -4259,7 +4259,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4430. [2023-11-12] Why Women Can't Lose Belly Fat After Menopause</summary><br>
 
 <a href="https://www.youtube.com/watch?v=eJgpOsjndkA" target="_blank">
-    <img src="https://img.youtube.com/vi/eJgpOsjndkA/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/eJgpOsjndkA/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理：壓力管理與 belly 脂肪 reduction 的關鍵策略
@@ -4335,7 +4335,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4429. [2023-11-10] 12 Things That STOP a Good Night's Sleep</summary><br>
 
 <a href="https://www.youtube.com/watch?v=VInAKJTTtYE" target="_blank">
-    <img src="https://img.youtube.com/vi/VInAKJTTtYE/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/VInAKJTTtYE/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -4399,7 +4399,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4428. [2023-11-08] The Myth of the Apple Cider Vinegar (ACV) "Mother"</summary><br>
 
 <a href="https://www.youtube.com/watch?v=j7wLGQfoCcI" target="_blank">
-    <img src="https://img.youtube.com/vi/j7wLGQfoCcI/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/j7wLGQfoCcI/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理與結構化分析
@@ -4464,7 +4464,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4427. [2023-11-06] Electrolyte Powder: Benefits, Uses and Purposes</summary><br>
 
 <a href="https://www.youtube.com/watch?v=uqEO1Xc2P64" target="_blank">
-    <img src="https://img.youtube.com/vi/uqEO1Xc2P64/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/uqEO1Xc2P64/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理：assium的重要性及其在健康中的作用
@@ -4535,7 +4535,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4426. [2023-11-05] Costochondritis (RIB CAGE PAIN) is NOT What You Think - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=SwIbkBefy54" target="_blank">
-    <img src="https://img.youtube.com/vi/SwIbkBefy54/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/SwIbkBefy54/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -4590,7 +4590,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4425. [2023-11-03] The #1 Best Anti-inflammatory Food in the World (Surprising)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=d3l-PYvPGZ8" target="_blank">
-    <img src="https://img.youtube.com/vi/d3l-PYvPGZ8/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/d3l-PYvPGZ8/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理與分析
@@ -4656,7 +4656,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4424. [2023-11-02] Say Goodbye to Sciatica Nerve Pain in 5 Minutes</summary><br>
 
 <a href="https://www.youtube.com/watch?v=h8-_UI1f2dw" target="_blank">
-    <img src="https://img.youtube.com/vi/h8-_UI1f2dw/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/h8-_UI1f2dw/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理：銅元素與坐骨神經痛（sciatica）之關聯及健康建議
@@ -4720,7 +4720,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4423. [2023-11-01] The 7 Intermittent Fasting Mistakes that Most People Make</summary><br>
 
 <a href="https://www.youtube.com/watch?v=CJ8XnQW4SIk" target="_blank">
-    <img src="https://img.youtube.com/vi/CJ8XnQW4SIk/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/CJ8XnQW4SIk/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -4792,7 +4792,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4422. [2023-10-31] 7 Things You NEVER Knew About Eggs</summary><br>
 
 <a href="https://www.youtube.com/watch?v=k4gY6261jhM" target="_blank">
-    <img src="https://img.youtube.com/vi/k4gY6261jhM/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/k4gY6261jhM/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -4858,7 +4858,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4421. [2023-10-30] DRINKING A LOT OF WATER WILL NOT HYDRATE YOU</summary><br>
 
 <a href="https://www.youtube.com/watch?v=G0lWRnh0GfI" target="_blank">
-    <img src="https://img.youtube.com/vi/G0lWRnh0GfI/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/G0lWRnh0GfI/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 小節一：核心主題  
@@ -4908,7 +4908,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4420. [2023-10-29] Eye Floaters: What Are They & How to Get Rid of Them</summary><br>
 
 <a href="https://www.youtube.com/watch?v=t7VxmoMbD-4" target="_blank">
-    <img src="https://img.youtube.com/vi/t7VxmoMbD-4/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/t7VxmoMbD-4/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -4962,7 +4962,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4419. [2023-10-28] Drink 1/2 Cup at Night to Sleep like a Baby</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xyBOSZVKpNM" target="_blank">
-    <img src="https://img.youtube.com/vi/xyBOSZVKpNM/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/xyBOSZVKpNM/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -5020,7 +5020,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4418. [2023-10-27] This Is WHY You Are Really Deficient in Magnesium</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5hG6SOIoBco" target="_blank">
-    <img src="https://img.youtube.com/vi/5hG6SOIoBco/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/5hG6SOIoBco/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -5059,7 +5059,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4417. [2023-10-26] The Top Foods That Have Been Robbing You of Nutrients (Vitamins & Minerals)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=qDW86yRo-A4" target="_blank">
-    <img src="https://img.youtube.com/vi/qDW86yRo-A4/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/qDW86yRo-A4/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理重點
@@ -5111,7 +5111,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4416. [2023-10-25] 23 WEIRD Vitamin D Deficiency Symptoms</summary><br>
 
 <a href="https://www.youtube.com/watch?v=X2T2Vd9utcs" target="_blank">
-    <img src="https://img.youtube.com/vi/X2T2Vd9utcs/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/X2T2Vd9utcs/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 英文標題：
@@ -5163,7 +5163,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4415. [2023-10-24] Are ACV (Apple Cider Vinegar) Gummies Healthy?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=TAl0cx5WNbg" target="_blank">
-    <img src="https://img.youtube.com/vi/TAl0cx5WNbg/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/TAl0cx5WNbg/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -5200,7 +5200,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4414. [2023-10-22] Vitamin D and the Magnesium Deficiency: IMPORTANT</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xtGinb8VWxc" target="_blank">
-    <img src="https://img.youtube.com/vi/xtGinb8VWxc/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/xtGinb8VWxc/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 小節分類與整理：
@@ -5251,7 +5251,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4413. [2023-10-19] The Dark Side of Fasting (and Intermittent Fasting): Dr. Berg Explains</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DtAyymK81o0" target="_blank">
-    <img src="https://img.youtube.com/vi/DtAyymK81o0/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/DtAyymK81o0/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理：低 carb 生酮飲食與斷食的安全性及實踐指南
@@ -5307,7 +5307,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4412. [2023-10-17] Boost Growth Hormone As You Age</summary><br>
 
 <a href="https://www.youtube.com/watch?v=PicLOEhw3nA" target="_blank">
-    <img src="https://img.youtube.com/vi/PicLOEhw3nA/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/PicLOEhw3nA/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理：增強生長激素的作用及 ketogenic 饮食的影響
@@ -5347,7 +5347,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4411. [2023-10-16] DON'T Make These Mistakes When Trying to Boost Your Metabolism</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3FuXm7CqR4k" target="_blank">
-    <img src="https://img.youtube.com/vi/3FuXm7CqR4k/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/3FuXm7CqR4k/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理：健康ダイエットのための栄養学と生活習慣
@@ -5406,7 +5406,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4410. [2023-10-14] What Would Happen If You Chewed ONE Clove Daily</summary><br>
 
 <a href="https://www.youtube.com/watch?v=C1N_QvsdLrw" target="_blank">
-    <img src="https://img.youtube.com/vi/C1N_QvsdLrw/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/C1N_QvsdLrw/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 # 芝麻油的功效與應用  
@@ -5438,7 +5438,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4409. [2023-10-12] The Huge Benefits of Just 11 Minutes of Exercise a Day - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=4bskn2RrhPM" target="_blank">
-    <img src="https://img.youtube.com/vi/4bskn2RrhPM/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/4bskn2RrhPM/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -5519,7 +5519,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4408. [2023-10-10] Dr. Berg's Survey Results Are Done: Here It Is!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=QxQdJUWdcW8" target="_blank">
-    <img src="https://img.youtube.com/vi/QxQdJUWdcW8/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/QxQdJUWdcW8/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -5554,7 +5554,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4407. [2023-10-08] Slow Metabolism Is a Myth (Not Kidding) - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=IcIT4NwEpAQ" target="_blank">
-    <img src="https://img.youtube.com/vi/IcIT4NwEpAQ/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/IcIT4NwEpAQ/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -5604,7 +5604,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4406. [2023-10-06] The Mind-Blowing Benefits of a Lemon - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=i5oLfvDduMQ" target="_blank">
-    <img src="https://img.youtube.com/vi/i5oLfvDduMQ/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/i5oLfvDduMQ/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 諸多亮點：檸檬的驚人益處  
@@ -5647,7 +5647,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4405. [2023-10-03] Tasty Salad Dressings that Supercharge Your Health - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XH-mc-yMMbA" target="_blank">
-    <img src="https://img.youtube.com/vi/XH-mc-yMMbA/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/XH-mc-yMMbA/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 小結點整理
@@ -5699,7 +5699,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4404. [2023-10-02] The FIRST Sign of a Magnesium Deficiency Is... (Dr. Berg Explains)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=FkZgpKj6wLo" target="_blank">
-    <img src="https://img.youtube.com/vi/FkZgpKj6wLo/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/FkZgpKj6wLo/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 小節整理： magnesium deficiency 的核心主題與建議
@@ -5755,7 +5755,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4403. [2023-10-01] I Lost 100 Pounds in 7 Months: Dr. Berg Interview</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5uQvuJhWzOc" target="_blank">
-    <img src="https://img.youtube.com/vi/5uQvuJhWzOc/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/5uQvuJhWzOc/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -5818,7 +5818,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4402. [2023-09-30] You Will QUIT Sugar After Watching This (Guaranteed) - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=f_gkkgAr3DU" target="_blank">
-    <img src="https://img.youtube.com/vi/f_gkkgAr3DU/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/f_gkkgAr3DU/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題：糖的健康影響及戒除策略
@@ -5874,7 +5874,7 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <summary>4401. [2023-09-29] The Unique Benefits of Zinc: Dr. Berg Explains It's Vital Importance</summary><br>
 
 <a href="https://www.youtube.com/watch?v=TuJXgMex85g" target="_blank">
-    <img src="https://img.youtube.com/vi/TuJXgMex85g/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/TuJXgMex85g/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 # 文章重點整理

@@ -2,7 +2,7 @@
 <summary>100. Fast Weight Loss Success Story</summary><br>
 
 <a href="https://www.youtube.com/watch?v=UrJW9dCxVhU" target="_blank">
-    <img src="https://img.youtube.com/vi/UrJW9dCxVhU/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/UrJW9dCxVhU/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 
@@ -12,7 +12,7 @@
 <summary>99. Crohns Disease Success</summary><br>
 
 <a href="https://www.youtube.com/watch?v=703oYuzXZNo" target="_blank">
-    <img src="https://img.youtube.com/vi/703oYuzXZNo/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/703oYuzXZNo/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 
@@ -22,7 +22,7 @@
 <summary>98. Dr. Berg’s Healthy Diet Success Story: Potassium Rich Foods</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kOcBB3OWPpY" target="_blank">
-    <img src="https://img.youtube.com/vi/kOcBB3OWPpY/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/kOcBB3OWPpY/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 
@@ -32,7 +32,7 @@
 <summary>97. Stabilizing Exercises  for Low Back & Pelvis</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DKnAb8bIUcY" target="_blank">
-    <img src="https://img.youtube.com/vi/DKnAb8bIUcY/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/DKnAb8bIUcY/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 
@@ -42,7 +42,7 @@
 <summary>96. Dr. Berg's Office Quick Tour</summary><br>
 
 <a href="https://www.youtube.com/watch?v=GXirii-9ySo" target="_blank">
-    <img src="https://img.youtube.com/vi/GXirii-9ySo/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/GXirii-9ySo/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 
@@ -52,7 +52,7 @@
 <summary>95. What to do for a Tailbone Injury - for Low Back Pain</summary><br>
 
 <a href="https://www.youtube.com/watch?v=722_8kxeg5A" target="_blank">
-    <img src="https://img.youtube.com/vi/722_8kxeg5A/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/722_8kxeg5A/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 
@@ -62,7 +62,7 @@
 <summary>94. Fat Burning Candy Bar</summary><br>
 
 <a href="https://www.youtube.com/watch?v=gJNnSODgpj0" target="_blank">
-    <img src="https://img.youtube.com/vi/gJNnSODgpj0/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/gJNnSODgpj0/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 
@@ -72,7 +72,7 @@
 <summary>93. Enhanced Waters are Really Sugar Water</summary><br>
 
 <a href="https://www.youtube.com/watch?v=IHfiEXMgZ_4" target="_blank">
-    <img src="https://img.youtube.com/vi/IHfiEXMgZ_4/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/IHfiEXMgZ_4/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 
@@ -82,7 +82,7 @@
 <summary>92. Do Not Eat Eggs, Unless You Watch This</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hC3D_eeULLU" target="_blank">
-    <img src="https://img.youtube.com/vi/hC3D_eeULLU/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/hC3D_eeULLU/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 
@@ -92,7 +92,7 @@
 <summary>91. Try This Weight Loss Shake</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fKjqBZdf3RQ" target="_blank">
-    <img src="https://img.youtube.com/vi/fKjqBZdf3RQ/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/fKjqBZdf3RQ/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 
@@ -102,7 +102,7 @@
 <summary>90. The 2 Types of Exercise for Belly Fat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=1URgrSjgQTY" target="_blank">
-    <img src="https://img.youtube.com/vi/1URgrSjgQTY/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/1URgrSjgQTY/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 
@@ -112,7 +112,7 @@
 <summary>89. No More Problems with Sleeping</summary><br>
 
 <a href="https://www.youtube.com/watch?v=6K3oJW26D58" target="_blank">
-    <img src="https://img.youtube.com/vi/6K3oJW26D58/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/6K3oJW26D58/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 
@@ -122,7 +122,7 @@
 <summary>88. Kale Smoothies Recipes</summary><br>
 
 <a href="https://www.youtube.com/watch?v=CIZ3ake2ZBo" target="_blank">
-    <img src="https://img.youtube.com/vi/CIZ3ake2ZBo/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/CIZ3ake2ZBo/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 
@@ -132,7 +132,7 @@
 <summary>87. How Not to Become a Procrastinator</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hTqDCao_Caw" target="_blank">
-    <img src="https://img.youtube.com/vi/hTqDCao_Caw/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/hTqDCao_Caw/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 
@@ -142,7 +142,7 @@
 <summary>86. Getting the Right Diet for Your Body Type</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Gb5Mztmx-U0" target="_blank">
-    <img src="https://img.youtube.com/vi/Gb5Mztmx-U0/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/Gb5Mztmx-U0/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 
@@ -152,47 +152,154 @@
 <summary>85. A Great Tool for Stress Relief</summary><br>
 
 <a href="https://www.youtube.com/watch?v=41HnMrqZAmU" target="_blank">
-    <img src="https://img.youtube.com/vi/41HnMrqZAmU/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/41HnMrqZAmU/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 
 </details>
 
 <details>
-<summary>84. The Best and Worst Type of Calcium</summary><br>
+<summary>84. [2012-04-14] The Best and Worst Type of Calcium</summary><br>
 
 <a href="https://www.youtube.com/watch?v=s5h3VoMQt9g" target="_blank">
-    <img src="https://img.youtube.com/vi/s5h3VoMQt9g/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/s5h3VoMQt9g/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 
 </details>
 
 <details>
-<summary>83. Cheryl Jackson Radio Interview on 104.1 Talking about the Adrenal</summary><br>
+<summary>83. [2012-04-14] Cheryl Jackson Radio Interview on 104.1 Talking about the Adrenal</summary><br>
 
 <a href="https://www.youtube.com/watch?v=V6Zy00bU5Bo" target="_blank">
-    <img src="https://img.youtube.com/vi/V6Zy00bU5Bo/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/V6Zy00bU5Bo/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 論述不同體型與 adrenal gland（腎上腺）之間的關聯。
+- 强調慢性壓力對健康的影響，特別是與皮質醇激素過高相關的健康問題。
 
+### 主要觀念
+1. **Adrenal Gland Body Type**:
+   - adrenal glands 腳 kidney，負責分泌 stress hormones（如 cortisol）。
+   - 長期暴露於高壓環境下，導致 adrenal glands 的功能紊亂。
+
+2. **Cortisol的作用**:
+   - Cortisol 是一種壓力激素，會將脂肪儲存於腹部。
+   - 不論運動量或飲食控制如何，cortisol 过高都會影響體脂分佈。
+
+3. **身體與認知症狀**:
+   - 持續的思緒混亂，如記憶力減退。
+   - 高血壓、膝關節疼痛等生理問題。
+   - 胃腸不適，包括胃酸逆流和腹脹。
+
+4. **睡眠障礙**:
+   - 睡眠品質差，通常在睡前半小時才能入睡。
+   - 昼夜拖垮，影響日常生活與工作效率。
+
+### 問題原因
+1. 長期壓力未適當管理和調適，導致 adrenal glands 超載工作。
+2. cortisol 濫釋干擾代謝功能，包括脂肪分佈和血糖控制。
+3. 睡眠紊亂惡化整體健康狀況，形成恶性循環。
+
+### 解決方法
+1. **壓力管理**:
+   - 進行壓力減輕活動，如冥想、瑜伽或深呼吸練習。
+   - 適當分配工作與休息時間，避免過度劳累。
+
+2. **飲食調整**:
+   - 減少精製糖和高碳水化合物食物的攝取，以穩定血糖水平。
+   - 增加膳食纖維、健康脂肪和蛋白質的攝入。
+
+3. **運動習慣**:
+   - 進行有氧運動和力量訓練，幫助降低 cortisol 水平。
+   - 積極活動可提高整體健康狀況，改善睡眠品質。
+
+4. **睡眠衛生**:
+   - 建立規律的作息時表，避免睡前使用電子產品。
+   - 睡前進行放鬆活動，如閱讀或冥想。
+
+### 健康建議
+1. 定期監測血壓和血糖水平，早期發現健康問題。
+2. 與醫生合作，制定個人化的健康管理計劃。
+3. 適當補充營養，必要時可諮詢營養師或專業醫療人員。
+
+### 總結
+- 長期壓力導致 adrenal glands 機能失調，引發多項健康問題。
+- 通過綜合管理壓力、調整飲食和運動習慣，可以有效改善相關症狀。
+- 建立良好的睡眠衛生 Habit 可提升整體生活質素。
 </details>
 
 <details>
 <summary>82. [2012-04-14] The Best and Worst Vitamin C</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DnvnKnu7YBI" target="_blank">
-    <img src="https://img.youtube.com/vi/DnvnKnu7YBI/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/DnvnKnu7YBI/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
+### 文章整理：vitamin C 的重要性與合理攝取
 
+---
+
+#### 一、核心主題  
+- 探讨维生素C（vitamin C）在自然中的复杂组成及其合成形式的差异。  
+- 强调自然来源的维生素C相较于人工合成产品的优势。  
+
+---
+
+#### 二、主要觀念  
+1. **维生素C的天然結構**  
+   - 维生素C在自然界中以 complexes 的形式存在，包括抗氧化成分（ascorbic acid）、生物類黃酮（vitamin P）、抗肺炎因子（vitamin J）以及礦物質如銅（以酶形式tyrosinase存在）。  
+
+2. **人工合成维生素C的問題**  
+   - 人工合成的维生素C主要為高劑量的ascorbic acid，來源於玉米澱粉和硫酸。  
+   - 自然界中ascorbic acid的最大劑量約為100毫克，而市售產品常含有數百至上千毫克，遠超出自然劑量。  
+
+3. **過量ascorbic acid的影響**  
+   - 過量攝取ascorbic acid會導致其他成分（如vitamin P、J和銅）的缺乏，引發 deficiencies（如蜘蛛靜脈、疲勞、關節問題）。  
+
+4. **病例研究**  
+   - 一名患者接受大量ascorbic acid注射後，出現嚴重的維生素C deficiency，包括蜘蛛靜脈、痔疮和全身性疲勞。  
+   - 維生素C缺乏症（壞血病）的主要症狀包括疲勞、關節損傷和靜脈問題。  
+
+---
+
+#### 三、問題原因  
+- 市售合成维生素C產品過於強調ascorbic acid，忽略其在自然中存在的複雜成分。  
+- 高劑量ascorbic acid的使用可能導致其他必需營養素的不足。  
+
+---
+
+#### 四、解決方法  
+1. **選擇自然來源的維生素C**  
+   - 選擇標榜低ascorbic acid含量且富含其他成分（如bioflavonoids和vitamin J）的產品。  
+   - 通過食物攝取： bell peppers, green peppers, hot peppers, kiwis, 和 papaya 等均為高維生素C食物。  
+
+2. **注意劑量控制**  
+   - 避免過量攝取ascorbic acid，建議選擇劑量接近自然存在的產品（≤100毫克）。  
+
+3. **補充完整维生素C complex**  
+   - 確保補充劑包含自然中存在的多種成分，以維持身體的平衡。  
+
+---
+
+#### 五、健康建議  
+- 選擇標示清楚且來源於天然食物的維生素C產品，避免 sólo.ascorbic acid 的合成產品。  
+- 多攝取富含維生素C的食物（如奇異果、木瓜和各類辣椒）。  
+- 注意劑量，避免過量補充ascorbic acid，以防影響其他營養素的平衡。  
+
+---
+
+#### 六、結論  
+- 自然來源的維生素C complex 是最佳選擇，人工合成的ascorbic acid產品可能存在風險。  
+- 適當攝取富含多種成分的食物性維生素C，以避免因過量某一部分導致的健康問題。
 </details>
 
 <details>
 <summary>81. [2012-04-14] Make Your Own Weight Loss Drink</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HNNk31aGaYo" target="_blank">
-    <img src="https://img.youtube.com/vi/HNNk31aGaYo/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/HNNk31aGaYo/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理解讀
@@ -229,7 +336,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>80. [2012-04-14] How to Stop Cravings for Sugar</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fGT5cISbXa4" target="_blank">
-    <img src="https://img.youtube.com/vi/fGT5cISbXa4/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/fGT5cISbXa4/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 全文要旨  
@@ -278,7 +385,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>79. [2012-04-14] Reverse Sit-ups for Belly Fat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vjHYuEj43fg" target="_blank">
-    <img src="https://img.youtube.com/vi/vjHYuEj43fg/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/vjHYuEj43fg/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -325,7 +432,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>78. [2012-04-04] The Ultimate Exercise for Posture</summary><br>
 
 <a href="https://www.youtube.com/watch?v=LRxN-30oJx8" target="_blank">
-    <img src="https://img.youtube.com/vi/LRxN-30oJx8/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/LRxN-30oJx8/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理：改善姿勢的方法
@@ -381,7 +488,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>77. [2012-04-04] The Best Weight Loss Meal Replacement Shake Ingredients</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8Ray80ec9mk" target="_blank">
-    <img src="https://img.youtube.com/vi/8Ray80ec9mk/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/8Ray80ec9mk/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -431,7 +538,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>76. [2012-04-04] Why am I Bloated?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=M9Isr1ON3lE" target="_blank">
-    <img src="https://img.youtube.com/vi/M9Isr1ON3lE/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/M9Isr1ON3lE/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理：核心主題  
@@ -493,17 +600,81 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>75. [2012-04-04] Foods that Burn Fat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vadPxKRGm7k" target="_blank">
-    <img src="https://img.youtube.com/vi/vadPxKRGm7k/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/vadPxKRGm7k/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- **核心主題**：探索 calorie counting（卡路里計數）的有效性及其限制，特別是隨著年齡增長（20s, 30s, 40s, 50s）后，激素變化和代謝率下降對 weight loss 的影響。
+
+#### 主要觀念
+1. **主要觀念**：
+   - 卡路里攝取量的減少並不總能導致體重下降。
+   - 年齡增長會導致激素水平和代謝率的改變，影響脂肪儲存和燃燒。
+   - 食物對激素的作用比簡單地 reduction of calories 更關鍵。
+
+2. **主要觀念**：
+   - 簡單的卡路里減量方法往往效果有限，尤其是隨著年齡增長。
+   - 濕潤激素相互作用是 fat burning 的關鍵因素。
+
+#### 問題原因
+1. **問題原因**：
+   - 人們普遍依賴 calorie counting 方法，但對激素和代謝交互作用缺乏深入了解。
+   - 年齡導致的激素變化（如胰島素、代謝率下降）使傳統減肥方法失效。
+   - 医生常使用複雜的術語來混淆患者，而非提供實用建議。
+
+2. **問題原因**：
+   - 簡單的卡路里攝取控制無法考慮到食物對激素的多樣影響。
+   - 大部分飲食計劃缺乏對激素交互作用的 comprehensive understanding。
+
+#### 解決方法
+1. **解決方法**：
+   - 開發一套基於 hormones interaction 的 fat burning triggers 和 fat storing triggers 的綜合性飲食策略。
+   - 簡化信息，提供易於執行的飲食指南，並附上具體操作步驟。
+
+2. **解決方法**：
+   - 提供一份八年研究總結的飲食指引，涵蓋所有激素反應。
+   - 強調飲食計劃需考慮 insulin、glycemic index 等多種因素。
+
+#### 健康建議
+1. **健康建議**：
+   - 下載並使用提供的飲食指南，將其放置在冰箱等顯眼位置，便於執行。
+   - 要求讀者分享成功經驗，以鼓勵他人並收集反饋。
+   - 鼓勵讀者在 Google、Bing 等平台寫下評價，特別是對飲食指南的看法。
+
+2. **健康建議**：
+   - 應用食物如何影響激素水平，而非單純依賴卡路里攝取量。
+   - 定期跟蹤飲食計劃的效果，並根據反饋調整策略。
+
+#### 結論
+1. **結論**：
+   - 傳統的 calorie counting 方法存在局限性，需轉向更 comprehensive 的激素交互作用分析。
+   - 提供簡潔、實用的飲食指南是實現 sustainable weight loss 的關鍵。
+   - 鼓勵讀者積極反饋和分享經驗，以共同改進飲食策略。
+
+2. **結論**：
+   - 確保飲食計劃考慮年齡導致的激素變化和代謝率下降。
+   - 通過了解食物對激素的作用，提升減肥效果。
+
+---
+
+### 英文原文
+
+You know, out of all the things that people tell me, probably the biggest confusion people have is this thing called calorie counting. You know we have all these people eating less but they're not losing weight. And I know it's frustrating because I see people at the gym and they're they're doing everything they should pretty much win an award for trying so hard but it just doesn't work. So there are ideas that are true and they're ideas that are false but you don't know if it's false until you try it. Like I had a doctor who came up to me and told me that in their mind if you give the patient lots of big complex words they will they be impressed and they'll want to see you but I told that person that doctor that's absolutely not true you have to break it down make it simple because they're operating off this false idea but you have to confuse a patient it's crazy. So this whole idea about eating less and losing weight will work but as you age 20s 30s 40s 50s hormones change and your metabolism shuts down what you have to use are the interactions of the foods with hormones not the reduction of calories. Okay so what I've done is I've developed over the last eight years a summary of all of the fat burning triggers that store fat and that burn fat and I have the pictures right here this is eight years of work put on one simple sheet so you can go through it keep in your fridge and use it and apply it. So I hope you appreciate this because you're gonna be able to download it with the link below but all I want is two things in return number one I want you to apply as much of this as you can and then send me your success story because if you applied all this you would be further way further than any other diet that you could be on most diets never ever get into the comprehensiveness of all the hormonal reactions they might talk about insulin or glycemic index but not all of them. Number two I would really appreciate if you went to do a review on me either on Google Bing or yeah whoo and talk about this sheet that I've given you if it helped you or any other thing that aspects of my diet or as coming in as a patient any positive things go ahead and write a review I'd really appreciate that so go ahead and download this now and then I'll wait to hear from you or see the review.
+
+---
+
+### 中文翻譯
+
+你知道，在所有人們告訴我的事情中，最受困擾的應該是這個叫作「卡路里計數」的概念。你知道吧，很多人都在攝取更少的熱量，但體重卻没有下降。這真的讓人感到沮喪，因為我看到很多人在健身房賣力地運動，簡直像是為了獎勵而努力，但效果卻微乎其微。所以，有些想法是正確的，有些則不然，但你只有試一試才知道。比如說，曾有個醫生來找過我，告訴我他的看法：如果一個醫生給病人一大堆複雜的大詞，病人就會被 Impress 并且想再見他。但我對那個醫生說，這絕對不對，你需要簡化信息，因為病人是在錯誤的概念下運作，你不能讓他們感到困惑，病人應該得到簡單明了的建議。所以，關於攝食量減少就能瘦身的理論看似管用，但隨著年齡增長（二十來歲、三十來歲、四十來歲、五十來歲），荷爾蒙会发生變化，新陳代謝率也會降低，你真正需要依靠的是食物如何與荷爾蒙相互作用，而不是簡單地降低熱量攝取。好了，過去八年裡，我總結出一套能促進燃脂和儲存脂肪的觸發因素，這些都整理在這份簡報中了，就是一份多年的 effort 放在一张 simple sheet 上，你可以在冰箱上張貼它並加以利用。我希望你能欣賞这份成果，因為你可以通過提供的連結下載它。但我也希望你能回饋兩點：一是請盡可能地應用這些方法，然後把你的成功故事傳送給我；二是如果你願意的話，在 Google 或 Bing 等平台上為我寫下評價，談談這份簡報是否幫助了你，或是對我的飲食建議有何看法。下載吧，等著聽取你的意見或看到你的評論。
 </details>
 
 <details>
 <summary>74. [2012-04-04] The Drink More Water Myth</summary><br>
 
 <a href="https://www.youtube.com/watch?v=MQsDeZNlk4c" target="_blank">
-    <img src="https://img.youtube.com/vi/MQsDeZNlk4c/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/MQsDeZNlk4c/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -563,7 +734,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>73. [2011-12-12] Successes from The 7 Principles of Fat Burning</summary><br>
 
 <a href="https://www.youtube.com/watch?v=WvO6N9vlmCo" target="_blank">
-    <img src="https://img.youtube.com/vi/WvO6N9vlmCo/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/WvO6N9vlmCo/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 小節歸納：
@@ -613,7 +784,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>72. [2011-11-30] A Great Diet Success</summary><br>
 
 <a href="https://www.youtube.com/watch?v=p7KMpyQ7x9k" target="_blank">
-    <img src="https://img.youtube.com/vi/p7KMpyQ7x9k/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/p7KMpyQ7x9k/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 小節結構
@@ -651,7 +822,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>71. [2011-11-30] The Healthiest Diet Explained By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=eRjBkoFy9IA" target="_blank">
-    <img src="https://img.youtube.com/vi/eRjBkoFy9IA/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/eRjBkoFy9IA/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題：健康與營養管理的重要性
@@ -695,7 +866,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>70. [2011-11-30] Get Rid of Cravings at Night</summary><br>
 
 <a href="https://www.youtube.com/watch?v=EsGvIsqGFpU" target="_blank">
-    <img src="https://img.youtube.com/vi/EsGvIsqGFpU/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/EsGvIsqGFpU/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 # 關於夜間渴望甜食的飲食建議
@@ -732,7 +903,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>69. [2011-11-29] The HCG Diet - Reviews</summary><br>
 
 <a href="https://www.youtube.com/watch?v=giPkBbm52CM" target="_blank">
-    <img src="https://img.youtube.com/vi/giPkBbm52CM/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/giPkBbm52CM/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 小節整理
@@ -771,7 +942,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>68. [2011-11-29] Improved Breathing, Better Sleep and More Energy</summary><br>
 
 <a href="https://www.youtube.com/watch?v=-LfNqA61-aU" target="_blank">
-    <img src="https://img.youtube.com/vi/-LfNqA61-aU/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/-LfNqA61-aU/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -819,7 +990,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>67. [2011-11-29] Overcoming Temptation and Help with Weight Loss!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=v-qINKfAm7U" target="_blank">
-    <img src="https://img.youtube.com/vi/v-qINKfAm7U/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/v-qINKfAm7U/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 # 文章重點整理
@@ -878,17 +1049,71 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>66. [2011-11-29] How to Rid Stretch Marks</summary><br>
 
 <a href="https://www.youtube.com/watch?v=UUV7CRT8lbE" target="_blank">
-    <img src="https://img.youtube.com/vi/UUV7CRT8lbE/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/UUV7CRT8lbE/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
+# 文章整理：消除妊娠紋的方法
 
+## 核心主題
+- 消除妊娠紋（Stretch Marks）的有效方法。
+- 通過按摩和使用特定油膚護理產品來修復受損皮膚組織。
+
+---
+
+## 主要觀念
+1. **妊娠紋的成因**：
+   - 妊娠紋是由于皮膚纖維在孕期過度伸展，導致微小撕裂。
+   - 這些撕裂後形成的疤組織使妊娠紋顯現。
+
+2. **油膚修復的基本原理**：
+   - 維生素E和小麥胚芽油能夠促進疤痕組織的分解。
+   - 椰子油作為載體，增強皮膚屏障功能並促進活性成分吸收。
+
+3. **按摩工具的作用**：
+   - 使用特定的按摩工具（如刮痧板）刺激血液循環，增進養分供應。
+
+---
+
+## 問題原因
+- 妊娠期間皮膚彈性受限，導致纖維撕裂。
+- 疤組織修復不良，形成明顯妊娠紋。
+
+---
+
+## 解決方法
+1. **護理產品組合**：
+   - **小麥胚芽油（Wheat Germ Oil）**：提供維生素E和抗氧化物，促進疤痕修復。
+   - **椰子油（Coconut Oil）**：作為基質，增強皮膚屏障功能，提高其他成分的吸收效果。
+
+2. **按摩程序**：
+   - 每晚使用小麥胚芽油和椰子油混合物塗抹於妊娠紋部位。
+   - 使用按摩工具輕柔按摩，每次每側約2分鐘（共計4分鐘）。
+   - 通過按摩促進血液循環，增強皮膚修復能力。
+
+3. **治療頻率**：
+   - 每隔一天進行一次護理，讓皮膚有足夠的恢復時間。
+   - 維持每月至少1次，根據妊娠紋嚴重程度可延長至2個月。
+
+---
+
+## 健康建議
+- 頻繁按摩可刺激膠原蛋白再生，改善皮膚彈性。
+- 椰子油作為天然護理產品，適合敏感肌膚使用。
+- 維生素E和小麥胚芽油具有抗氧化特性，能有效修復受損組織。
+
+---
+
+## 結論
+- 妊娠紋可以通过規律的按摩和特定油膚護理產品逐步消除。
+- 每月堅持治療可見效，根據個人情況調整治療時間。
+- 此方法安全有效，值得准媽媽們嘗試。
 </details>
 
 <details>
 <summary>65. [2011-11-29] Diet Plan Success</summary><br>
 
 <a href="https://www.youtube.com/watch?v=gc4P7uhZCK8" target="_blank">
-    <img src="https://img.youtube.com/vi/gc4P7uhZCK8/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/gc4P7uhZCK8/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -950,17 +1175,41 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>64. [2011-11-29] The 600 pound guy</summary><br>
 
 <a href="https://www.youtube.com/watch?v=k6-Tkv_Jnz0" target="_blank">
-    <img src="https://img.youtube.com/vi/k6-Tkv_Jnz0/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/k6-Tkv_Jnz0/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 1. 核心主題  
+- 身體健康與整體 wellness 的改善。  
+- 探索有效的減重方法與健康管理策略。  
+
+#### 2. 主要觀念  
+- 身體症狀：腿腫脹、行動困難、疲勞感增加。  
+- 過去的減重努力多數失敗，包括.Weight loss clinics（.Fat Farms）、低碳水化合物飲食（如.Atkins diet）等方法。  
+
+#### 3. 問題原因  
+- 長期受到腿部腫脹與行動限制的影響。  
+- 過去試過多種ダイエット方法但效果有限，缺乏持久性。  
+
+#### 4. 解決方法  
+- 開始遵循 Dr. Burke 設計的飲食與健康管理計劃，包括攝取大量十字花科蔬菜。  
+- 觀察到初步改善：腿部腫脹減輕、睡眠品質提升、能量水平增加、食慾降低。  
+
+#### 5. 健康建議  
+- 減重與健康增進需要簡單且可持續的策略，如均衡飲食與適度運動。  
+- 考慮心理動機與社會支持的重要性，以提高依従性與成功率。  
+
+#### 6. 結論  
+- 對於簡單而有效的健康管理方法抱有期待，並希望恢復膝蓋功能以脫離輪椅dependency。  
+- 强調健康夥伴（如妻子）的支持在實現健康目標中的關鍵作用。
 </details>
 
 <details>
 <summary>63. [2011-11-29] Dr. Berg's follow up to his shoulder fracture</summary><br>
 
 <a href="https://www.youtube.com/watch?v=x9espCyDUp8" target="_blank">
-    <img src="https://img.youtube.com/vi/x9espCyDUp8/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/x9espCyDUp8/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -998,7 +1247,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>62. [2011-11-29] Dr. Berg Explains His Pain After Surgery</summary><br>
 
 <a href="https://www.youtube.com/watch?v=TTqsVzse5HY" target="_blank">
-    <img src="https://img.youtube.com/vi/TTqsVzse5HY/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/TTqsVzse5HY/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -1041,17 +1290,115 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>61. [2011-11-29] What are Phytonutrients?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=NqOpIj_XXFU" target="_blank">
-    <img src="https://img.youtube.com/vi/NqOpIj_XXFU/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/NqOpIj_XXFU/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- **主要焦點**: 蔬菜與健康之間的關係，特別是十字花科蔬菜（cruciferous vegetables）的營養價值和健康益處。
+- **核心信息**: 十字花科蔬菜在飲食中扮演重要角色，其營養成分對人體健康有顯著影響。
+
+#### 主要觀念
+1. **十字花科蔬菜的定義與範疇**:
+   - 包括西蘭花、捲心菜、甘藍、芥菜等。
+2. **十字花科蔬菜的營養價值**:
+   - 含有豐富的維生素C、維生素A、 calcium。
+   - 提供大量膳食纖維。
+3. **健康益處**:
+   - 促進肝臟排毒。
+   - 調節雌激素平衡（phytoestrogens的作用）。
+   - 支持免疫系統。
+   - 助於消化健康（如茴香菜對胃病的改善作用）。
+
+#### 問題原因
+1. **現代飲食習慣**:
+   - 遇到加工食品和精緻食品的影響，導致營養攝取不均衡。
+2. **環境因素**:
+   - 化學污染和生活方式壓力增加了肝臟排毒的負擔。
+3. **營養吸收效率**:
+   - 經加工或高溫處理後，食物的營養價值顯著降低。
+
+#### 解決方法
+1. **增加十字花科蔬菜攝取量**:
+   - 推薦每日至少一至兩份，每份約為一杯或六片冷凍乾燥粉末。
+2. **多樣化攝取方式**:
+   - 生食或輕微烹調以保留營養成分。
+3. **選擇有機產品**:
+   - 確保食物未受農藥汫染，提高營養素的吸收率。
+4. **搭配其他 nutrient-rich 食物**:
+   - 如豆類和全穀物，以平衡蛋白質與纖維攝取。
+
+#### 健康建議
+1. **飲食結構調整**:
+   - 減少精緻食品和加工肉類的攝取。
+2. **增加蔬果比例**:
+   - 確保每日飲食中蔬菜占據主要份額。
+3. **定期食用十字花科蔬菜**:
+   - 至少三至五份每周，以維持身體健康。
+4. **注意烹調方式**:
+   - 生食或短時間蒸煮，避免營養成分的破壞。
+
+#### 結論
+- 十字花科蔬菜是現代飲食中不可或缺的一部分，其豐富的營養成分和多樣化的健康益處對提升整體健康水平具有重要意義。建議公眾增加攝取量，以應對現代生活方式帶來的健康挑戰。
+
+---
+
+### English Version
+
+#### Core Theme
+- **Focus**: The relationship between vegetables and health, with an emphasis on the nutritional value and health benefits of cruciferous vegetables.
+- **Central Message**: Cruciferous vegetables play a significant role in diet, offering substantial health benefits due to their nutrient profile.
+
+#### Key Concepts
+1. **Definition and Scope of Cruciferous Vegetables**:
+   - Includes broccoli, cauliflower, cabbage, kale, and radishes.
+2. **Nutritional Value**:
+   - Rich in vitamin C, vitamin A, and calcium.
+   - Provides abundant dietary fiber.
+3. **Health Benefits**:
+   - Promote liver detoxification.
+   - Regulate estrogen balance (due to phytoestrogens).
+   - Support immune function.
+   - Aid in digestive health (e.g., fennel for gastrointestinal discomfort).
+
+#### Problem Causes
+1. **Modern Dietary Habits**:
+   - Influence of processed foods and refined carbohydrates leading to nutritional imbalance.
+2. **Environmental Factors**:
+   - Chemical exposure and lifestyle stress increase liver detoxification burden.
+3. **Nutrient Absorption Efficiency**:
+   - Processing or high-temperature cooking significantly reduces nutrient content.
+
+#### Solutions
+1. **Increase Cruciferous Vegetable Intake**:
+   - Recommended to consume at least one to two servings daily (one cup or six freeze-dried tablets).
+2. **Diverse Consumption Methods**:
+   - Consume raw or lightly cooked to preserve nutrients.
+3. **Choose Organic Products**:
+   - Ensure food is free from pesticide contamination for better nutrient absorption.
+4. **Combine with Other Nutrient-Rich Foods**:
+   - Pair with legumes and whole grains for balanced protein and fiber intake.
+
+#### Health Recommendations
+1. **Dietary Adjustment**:
+   - Reduce intake of processed foods and cured meats.
+2. **Increase Proportion of Vegetables**:
+   - Ensure vegetables dominate daily diet portions.
+3. **Regular Cruciferous Vegetable Consumption**:
+   - Aim for at least three to five servings weekly to maintain health.
+4. **Mind Cooking Methods**:
+   - Opt for raw consumption or short cooking times to avoid nutrient destruction.
+
+#### Conclusion
+- Cruciferous vegetables are an essential component of modern diets, offering diverse nutritional benefits that contribute significantly to overall health. It is advisable to increase their intake to address the health challenges posed by contemporary lifestyles.
 </details>
 
 <details>
 <summary>60. Understanding Body Types</summary><br>
 
 <a href="https://www.youtube.com/watch?v=sINOePVcD3I" target="_blank">
-    <img src="https://img.youtube.com/vi/sINOePVcD3I/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/sINOePVcD3I/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 
@@ -1061,17 +1408,61 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>59. [2011-11-29] What are Carbohydrates?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=krwKqnmidC8" target="_blank">
-    <img src="https://img.youtube.com/vi/krwKqnmidC8/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/krwKqnmidC8/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
+### 文章整理： grains 的營養與健康影響
 
+---
+
+#### 1. **核心主題**  
+- 論述穎 grain（榖物）的營養價值及其對健康的影響，特別是未加工與精製穀物的不同。
+
+---
+
+#### 2. **主要觀念**  
+- 穀物是草本植物的種子，其營養價值因加工方式而異。  
+- 精製或磨碎的穀物營養價值低，易被氧化，導致營養流失。  
+- 無酵母麵包（如全麥麵包）相較於白麵包，雖營養稍高，但精製過程可能噴洒農藥，影響健康。  
+- 長期食用精製碳水化合物（如麵包、義大利面等）會耗竭體內 B 維生素，增加心血管疾病風險。
+
+---
+
+#### 3. **問題原因**  
+- 精製穀物加工過程中失去大量營養素，尤其是B vitamins。  
+- 長期食用精製碳水化合物易導致血糖波動、体重增加以及心臟病等健康問題。  
+- 市面上的加工食品（如麵條、罐頭）多數經過過去殺菌或長時間保存，營養價值降低。
+
+---
+
+#### 4. **解決方法**  
+- 選擇未精製且發芽的穀物，例如發芢全麥麵包（如Ezekiel麵包），其營養密度高，富含酶和維生素。  
+- 製作或購買即食的健康食品，如脫水蔬菜脆片，以保留更多營養。  
+- 減少精製穀物攝取，改為食用未加工或發芽的穀物。
+
+---
+
+#### 5. **健康建議**  
+- 避免長期依賴精製碳水化合物，以防B 維生素缺乏和相關疾病。  
+- 選擇冷藏或冷凍的新鮮穀物產品，以保留營養價值。  
+- 減少加工食品攝取，轉向食用未加工的高密度營養食物，如生食或微波處理的食物。
+
+---
+
+#### 6. **結論**  
+- 穀物的營養價值取決於加工方式，未精製且發芽的穀物更具健康效益。  
+- 選擇健康的食品形式（如冷凍發芢麵包）可有效提升飲食營養密度，並降低慢性病風險。
+
+---
+
+**整理結束**
 </details>
 
 <details>
 <summary>58. [2011-11-29] How Sugar Effects Your Body</summary><br>
 
 <a href="https://www.youtube.com/watch?v=A7MsLHlDEDc" target="_blank">
-    <img src="https://img.youtube.com/vi/A7MsLHlDEDc/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/A7MsLHlDEDc/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理與歸納
@@ -1116,7 +1507,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>57. [2011-11-29] The Importance of Sleep and Weight Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=wr82y-dGoTg" target="_blank">
-    <img src="https://img.youtube.com/vi/wr82y-dGoTg/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/wr82y-dGoTg/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理
@@ -1170,7 +1561,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>56. [2011-11-29] Dr. Berg Discusses Liver Cleansing Food on News Channel 8 Sports Talk Dr. Eric Berg 2</summary><br>
 
 <a href="https://www.youtube.com/watch?v=FTZcZz1ESII" target="_blank">
-    <img src="https://img.youtube.com/vi/FTZcZz1ESII/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/FTZcZz1ESII/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理：健康飲食與體重管理的核心要素
@@ -1244,17 +1635,47 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>55. [2011-11-29] A Better Way to Track Weight Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=W_EHiOd8yHQ" target="_blank">
-    <img src="https://img.youtube.com/vi/W_EHiOd8yHQ/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/W_EHiOd8yHQ/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- **基於 hormones 的影響**：提出了一種新的 weight loss 方法，強調 hormones 如食物、運動和睡眠對體重的影響。
+- **Fat Burning Tracker (FBT) 程序**：介紹了一款 web-based 互動工具，用於追蹤生活習慣中的 fat-burning 活動並提供反饋。
+
+#### 主要觀念
+- **傳統 calorie 計算法的不足**：指出傳統 weight loss 方法過度依賴 calorie 和 fat grams 的計算，而忽略了 hormones 的重要性。
+- **健康至上的理念**：強調「先健康再瘦」的理念，而非「為瘦而瘦」。
+- **個化化計劃**：FBT 根據個人情況提供量身定制的 weight loss 計劃。
+
+#### 問題原因
+- **信息不足**：傳統 diet 方法未充分考慮 hormones 的影響，導致短期效果但長期失敗。
+- **缺乏反饋和指導**：使用者通常不知道如何持久地進行 weight loss 和保持健康。
+
+#### 解決方法
+1. **FBT 程序**：
+   - 採集並分析個人數據（食物攝取、運動量、睡眠質量等）。
+   - 生成報告和圖表，展示進展並提出改进建議。
+2. **專業指導**：
+   - 提供健康教練的個化化建議和支持，幫助用戶克服挑戰。
+
+#### 健康建議
+- **食物選擇**：基於 hormones 的影響，避免高糖、精緻碳水化合物和高鹽食物，選擇高蛋白質和健康脂肪。
+- **運動習慣**：結合低強度活動（如散步）和有氧運動，促進 fat burning。
+- **睡眠管理**：確保足夠的睡眠時間，改善睡眠質量以維持 hormones 平衡。
+- **壓力管理**：通過冥想、深呼吸等方式降低 stress 水平，防止因壓力導致的暴飲暴食。
+
+#### 結論
+- **FBT 的有效性**：研究表明，基於 hormones 的個化化計劃能有效促進 weight loss 和維持健康。
+- **整合健康生活方式**：結合飲食、運動和心理健康的整體方法是實現長期健康目標的最佳途徑。
 </details>
 
 <details>
 <summary>54. [2011-11-29] Dr. Eric Berg, Gets Success with Weight Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HhLJz1-SAhw" target="_blank">
-    <img src="https://img.youtube.com/vi/HhLJz1-SAhw/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/HhLJz1-SAhw/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -1287,7 +1708,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>53. [2011-11-29] Dr  Eric Berg, Seminar testimonial</summary><br>
 
 <a href="https://www.youtube.com/watch?v=0rh0qiyPxdY" target="_blank">
-    <img src="https://img.youtube.com/vi/0rh0qiyPxdY/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/0rh0qiyPxdY/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -1323,7 +1744,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>52. [2011-11-29] Dr. Eric Berg, Seminar Success with Losing Weight</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fCHw_dW7oH4" target="_blank">
-    <img src="https://img.youtube.com/vi/fCHw_dW7oH4/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/fCHw_dW7oH4/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -1354,7 +1775,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>51. [2011-11-29] Dr  Eric Berg, Seminar testimonial</summary><br>
 
 <a href="https://www.youtube.com/watch?v=lZnVLG-nLTE" target="_blank">
-    <img src="https://img.youtube.com/vi/lZnVLG-nLTE/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/lZnVLG-nLTE/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -1381,7 +1802,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>50. [2011-11-29] A Great Weight Loss Success</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_jV90HZceus" target="_blank">
-    <img src="https://img.youtube.com/vi/_jV90HZceus/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/_jV90HZceus/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -1418,7 +1839,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>49. [2011-11-29] Register for Dr. Berg's Seminar</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8SixpXSS6Bw" target="_blank">
-    <img src="https://img.youtube.com/vi/8SixpXSS6Bw/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/8SixpXSS6Bw/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -1464,7 +1885,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>48. [2011-11-29] Dr  Eric Berg, Seminar testimonial</summary><br>
 
 <a href="https://www.youtube.com/watch?v=rOd4QNwDTv4" target="_blank">
-    <img src="https://img.youtube.com/vi/rOd4QNwDTv4/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/rOd4QNwDTv4/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 小節整理
@@ -1490,7 +1911,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>47. [2011-11-29] Dr Berg's Patient Speak About Their Success</summary><br>
 
 <a href="https://www.youtube.com/watch?v=YF00ySD6nKE" target="_blank">
-    <img src="https://img.youtube.com/vi/YF00ySD6nKE/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/YF00ySD6nKE/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -1530,7 +1951,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>46. [2011-11-27] Using Acupressure for Headaches</summary><br>
 
 <a href="https://www.youtube.com/watch?v=919B_Ey0fuU" target="_blank">
-    <img src="https://img.youtube.com/vi/919B_Ey0fuU/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/919B_Ey0fuU/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -1581,7 +2002,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>45. [2011-11-27] Stretches for Back Pain</summary><br>
 
 <a href="https://www.youtube.com/watch?v=SuRyHA2wQc8" target="_blank">
-    <img src="https://img.youtube.com/vi/SuRyHA2wQc8/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/SuRyHA2wQc8/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 小節：低背部伸展的重要性
@@ -1621,7 +2042,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>44. [2011-11-27] Interesting Success Story</summary><br>
 
 <a href="https://www.youtube.com/watch?v=FckvKNAi44U" target="_blank">
-    <img src="https://img.youtube.com/vi/FckvKNAi44U/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/FckvKNAi44U/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -1656,7 +2077,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>43. [2011-11-27] Anxiety Relief Success</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Sggj4HgaoO0" target="_blank">
-    <img src="https://img.youtube.com/vi/Sggj4HgaoO0/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/Sggj4HgaoO0/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -1692,7 +2113,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>42. [2011-11-27] The Best and Worst Weight Loss Diets</summary><br>
 
 <a href="https://www.youtube.com/watch?v=yhxWd2jveT8" target="_blank">
-    <img src="https://img.youtube.com/vi/yhxWd2jveT8/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/yhxWd2jveT8/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 小節化整理
@@ -1742,7 +2163,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>41. [2011-11-27] 90 Year Old - Amazing Story</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ZBpNtVSmTN4" target="_blank">
-    <img src="https://img.youtube.com/vi/ZBpNtVSmTN4/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/ZBpNtVSmTN4/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 小節一：核心主題  
@@ -1797,7 +2218,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>40. [2011-11-27] Dr. Eric Berg, Seminar testimonial</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hzYhdetIiHg" target="_blank">
-    <img src="https://img.youtube.com/vi/hzYhdetIiHg/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/hzYhdetIiHg/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -1825,7 +2246,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>39. Dr. Berg on Sport's Talk</summary><br>
 
 <a href="https://www.youtube.com/watch?v=s3HfT4yI76A" target="_blank">
-    <img src="https://img.youtube.com/vi/s3HfT4yI76A/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/s3HfT4yI76A/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 
@@ -1835,7 +2256,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <summary>38. [2011-11-27] The Hidden Source Belly Fat: MSG Monosodium Glutamate</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KkBWi3G9qM0" target="_blank">
-    <img src="https://img.youtube.com/vi/KkBWi3G9qM0/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/KkBWi3G9qM0/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -1880,7 +2301,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>37. [2011-11-27] Dr. Berg Grows Kale in His Basement (Part 2)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8JJm4HRq8Oo" target="_blank">
-    <img src="https://img.youtube.com/vi/8JJm4HRq8Oo/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/8JJm4HRq8Oo/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理：水耕法及其營養價值探討與健康飲品介紹
@@ -1949,7 +2370,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>36. [2011-11-27] Dr. Berg Grows Cruciferous Vegetables in his Basement (Part 1)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=qKSlhns1xmg" target="_blank">
-    <img src="https://img.youtube.com/vi/qKSlhns1xmg/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/qKSlhns1xmg/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -1998,7 +2419,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>35. [2011-06-07] The Best Fat Burning Exercise</summary><br>
 
 <a href="https://www.youtube.com/watch?v=E_AvZcJ9IV4" target="_blank">
-    <img src="https://img.youtube.com/vi/E_AvZcJ9IV4/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/E_AvZcJ9IV4/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -2043,7 +2464,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>34. [2011-01-06] Dr. Berg's Body Types</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HS0Bm5oB8YI" target="_blank">
-    <img src="https://img.youtube.com/vi/HS0Bm5oB8YI/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/HS0Bm5oB8YI/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -2109,7 +2530,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>33. [2010-11-05] Dr Eric Berg's Review: After 2 Adrenal Acupressure Treatments</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5Q6g9e1O35s" target="_blank">
-    <img src="https://img.youtube.com/vi/5Q6g9e1O35s/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/5Q6g9e1O35s/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理與分析
@@ -2177,7 +2598,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>32. [2010-10-13] Get Rid of Cravings at Night</summary><br>
 
 <a href="https://www.youtube.com/watch?v=pbuCC33gKck" target="_blank">
-    <img src="https://img.youtube.com/vi/pbuCC33gKck/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/pbuCC33gKck/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -2237,17 +2658,52 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>31. [2010-10-13] Adrenal Burnout</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hGiN_a0rYJY" target="_blank">
-    <img src="https://img.youtube.com/vi/hGiN_a0rYJY/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/hGiN_a0rYJY/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 長期過度使用咖啡因對健康的影響。
+- 皮質醇耗竭（Adrenal Burnout）的症狀與恢復。
 
+### 主要觀念
+1. **咖啡因濫用**：
+   - 每日攝取高達3,000毫克咖啡因，導致嚴重健康問題。
+2. **睡眠障礙**：
+   - 長期睡眠不足及起床困難。
+3. **職業功能受影響**：
+   - 潣 lecturer 工作耗竭，注意力無法集中。
+
+### 問題原因
+- 長期高劑量咖啡因使用導致皮質醇失衡。
+- 睡眠紊亂進一步惡化身體狀況。
+- 职場壓力和 Seminar 工作加重身心負擔。
+
+### 解決方法
+1. **減量並戒除咖啡因**：
+   - 減少咖啡因攝取，逐步恢復 adrenal 功能。
+2. **改善睡眠習慣**：
+   - 確保足夠睡眠時間，提升翌日能量水平。
+3. **調整工作負荷**：
+   - 減輕職場壓力，避免過度耗能。
+
+### 健康建議
+1. **飲食調整**：
+   - 补充營養，尤其是維生素和礦物質以支持 adrenal 功能。
+2. **運動管理**：
+   - 進行適量運動，提升整體健康狀況。
+3. **心理健康**：
+   - 興趣活動，幫助恢復心理平衡。
+
+### 結論
+- 長期咖啡因濫用會導致嚴重的健康問題，包括 adrenal burnout 和注意力下降。
+- 及時戒除咖啡因並配合適當的治療和生活方式調整，可有效恢復健康。
 </details>
 
 <details>
 <summary>30. [2010-08-10] The Best Tip for Reducing Stress Hormones</summary><br>
 
 <a href="https://www.youtube.com/watch?v=TNUaDYqt0uA" target="_blank">
-    <img src="https://img.youtube.com/vi/TNUaDYqt0uA/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/TNUaDYqt0uA/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 小節歸納
@@ -2280,37 +2736,197 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>29. [2010-08-10] Cortisol, The Good, The Bad & The Ugly</summary><br>
 
 <a href="https://www.youtube.com/watch?v=yQ9jy2eCb5I" target="_blank">
-    <img src="https://img.youtube.com/vi/yQ9jy2eCb5I/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/yQ9jy2eCb5I/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
+### 核心主題： adrenal function and cortisol imbalance
 
+- Cortisol is a critical hormone involved in stress response, inflammation regulation, and various bodily functions.
+- Chronic stress can lead to dysregulation of cortisol, resulting in both physical and psychological symptoms.
+
+### 主要觀念：
+
+1. **Cortisol's Role**:
+   - Acts as an anti-inflammatory hormone.
+   - Helps the body cope with acute stress.
+   - Regulates metabolism and immune function.
+
+2. **Chronic Stress and Cortisol Depletion**:
+   - Prolonged exposure to stress leads to depletion of cortisol reserves.
+   - Impaired cortisol signaling results in inflammation, chronic pain, and conditions like fibromyalgia.
+
+3. **Inflammation and Chronic Diseases**:
+   - Inadequate cortisol levels fail to control inflammation effectively.
+   - Chronic inflammation is linked to fibromyalgia, allergies, sinus issues, and other systemic problems.
+
+### 問題原因：
+
+- **Cortisol Resistance**: 
+  - High cortisol levels due to chronic stress lead to downregulation of cortisol receptors.
+  - This results in ineffective cortisol signaling despite high blood/saliva cortisol levels.
+
+- **Neuroendocrine Dysregulation**:
+  - Chronic stress disrupts the hypothalamic-pituitary-adrenal (HPA) axis, impairing the body's ability to regulate hormones effectively.
+
+- **Nutritional Deficiencies**:
+  - Lack of essential nutrients like vitamin A exacerbates inflammation and allergy symptoms.
+
+### 解決方法：
+
+1. **Vitamin A Supplementation**:
+   - High intake of vitamin A can help manage sinus allergies and reduce inflammation.
+   - Source: Cal shake (mentioned in the article).
+
+2. **Stress Management**:
+   - Implement techniques to reduce chronic stress, such as mindfulness, yoga, or adequate sleep.
+
+3. **Dietary Adjustments**:
+   - Increase intake of anti-inflammatory foods.
+   - Limit processed sugars and high-glycemic-index foods to stabilize blood sugar levels.
+
+4. **Lifestyle Modifications**:
+   - Regular physical activity to improve cortisol sensitivity.
+   - Ensure adequate rest and recovery to support adrenal function.
+
+### 健康建議：
+
+- **Monitor Cortisol Levels**: 
+  - Regular testing of salivary cortisol levels can help identify imbalances.
+  - Consult with a healthcare provider for personalized assessment.
+
+- **Address Nutritional Gaps**:
+  - Incorporate foods rich in vitamin A, such as carrots, spinach, and sweet potatoes, into the diet.
+  - Consider supplements if dietary intake is insufficient.
+
+- **Seek Professional Guidance**: 
+  - Work with a healthcare professional to develop a comprehensive treatment plan.
+  - This may include hormone replacement therapy or other targeted interventions.
+
+### 結論：
+
+- Cortisol imbalance due to chronic stress is a significant contributor to various chronic health conditions, including inflammation and fibromyalgia.
+- Addressing the root causes through nutrition, stress management, and lifestyle changes can help restore adrenal function and improve overall health.
 </details>
 
 <details>
 <summary>28. [2010-08-10] Thyroid Body Type - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=T3eo4p2LuYw" target="_blank">
-    <img src="https://img.youtube.com/vi/T3eo4p2LuYw/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/T3eo4p2LuYw/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
+### 小節整理
 
+#### 1. 核心主題：甲状腺功能异常的症状与影响
+- **症状**：
+  - 疲勞（乏力感）
+  - 头发脱落
+  - 指甲出现垂直 ridge（纵向棱纹）
+  - 舌头边缘有凹痕，舌头增厚
+  - 干燥皮肤
+  - 对寒冷敏感（手脚冰凉）
+  - 抑郁情绪
+  - 碳水化合物 cravings
+  - 声音变得低沉
+  - 头发卷曲不持久
+
+- **影响**：
+  - 甲状腺功能减退导致细胞内400多种酶活性受阻，影响蛋白质合成。
+  - 导致头发、指甲、皮肤（松弛和皱纹）、眼睛（出现飞蚊症）等问题。
+
+#### 2. 主要觀念：甲状腺问题的诊断与医生的态度
+- 很多时候医生会等待血液检测结果异常才进行干预，但此时甲状腺功能可能已经显著下降。
+- 医生通常会对甲状腺问题持保留态度，不愿立即采取行动。
+
+#### 3. 問題原因：甲状腺功能异常的潜在因素
+- **内分泌系统干扰**：
+  - 高水平雌激素（如子宫肌瘤或卵巢囊肿）
+  - 环境中过量外源性雌激素
+- **肝脏健康问题**：
+  - 肝脏功能不良会影响甲状腺素的转化，因为甲状腺需要80%的肝脏功能正常才能发挥作用。
+
+#### 4. 解決方法与健康建議：
+- **碘摄入**：确保饮食中含有足够的碘元素（如海藻类食物）。
+- **避免雌激素干扰**：
+  - 减少或避免使用含有雌激素的产品，包括大豆制品（因其含有植物雌激素）。
+- **肝脏支持**：维持良好的肝脏功能以促进甲状腺健康。
+
+#### 5. 結論
+- 甲状腺问题在早期阶段可能不易被传统医学检测到，因此应采取预防措施和替代方法来维护甲状腺健康。
 </details>
 
 <details>
 <summary>27. [2010-08-10] Sleep, Cortisol, & Belly Fat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3GWnU_lma7w" target="_blank">
-    <img src="https://img.youtube.com/vi/3GWnU_lma7w/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/3GWnU_lma7w/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
+### 英文版文章標題  
+**Sleep and Why People Can't Sleep: The Role of Stuck Energy and Natural Remedies**
 
+### 作者  
+Dr. Berg
+
+---
+
+### 文章重點整理  
+
+#### 核心主題  
+- 探讨睡眠障碍的主要原因及其自然解法。  
+- 强调“卡住的能量”（encapsulated energy）在导致睡眠问题中的作用，特别是与旧伤、感染和压力相关的问题。  
+
+#### 主要觀念  
+1. **Sleep Apnea**  
+   - 由高水平的皮質醇（cortisol）引起，属于应激激素，导致脂肪堆积在腹部。  
+   - 高水平的皮質醇会压迫第十二对脑神经（hypoglossal nerve），进而影响呼吸，尤其是在夜间。  
+
+2. **Bladder Issues**  
+   - 夜间频繁起夜与肾上腺功能有关，可能导致睡眠中断。  
+
+3. **Calcium Deficiency**  
+   - 酸性饮食或高水平的皮質醇会耗尽体内的钙，导致入睡困难和神经系统紧张。  
+
+4. **B Vitamins (Thiamine)**  
+   - B1（硫胺素）有助于缓解压力和焦虑，减少睡眠时的神经兴奋。  
+   - 建议通过天然食物来源（如營養酵母）摄取B1，避免合成维生素。  
+
+5. **Children's Health**  
+   - 儿童疾病（如发烧、感染）可能导致睡眠障碍，补充钙质有助于缓解症状并改善睡眠质量。  
+
+#### 問題原因  
+- **Stuck Energy**: 旧伤、感染和长期压力导致体内能量无法流通，形成“卡住的能量”。  
+- **High Cortisol Levels**: 导致脂肪堆积、神经压迫和睡眠呼吸暂停。  
+- **Calcium Depletion**: 酸性饮食或压力耗尽钙质，影响神经系统放松。  
+- **Stress and Anxiety**: 缺乏B1维生素导致神经兴奋和入睡困难。  
+
+#### 解決方法  
+1. **补充钙质**  
+   - 建议睡前服用500毫克的钙（如枸橼酸钙或乳酸钙）。  
+   - 对儿童，可将钙粉碾碎后混入食物中喂食，帮助缓解症状和改善睡眠。  
+
+2. **补充B1维生素**  
+   - 通过天然来源（如營養酵母）摄取B1，以缓解压力和焦虑。  
+
+3. **应对压力和精神紧张**  
+   - 学习放松技巧，减少夜间思维活动。  
+
+#### 健康建議  
+- 避免高酸性饮食，保持均衡饮食，确保足够的钙摄入。  
+- 使用天然来源的维生素B1来缓解压力和改善睡眠。  
+- 对儿童疾病，及时补充钙质以缓解症状并促进睡眠。  
+
+#### 結論  
+- 睡眠障碍的主要原因是体内“卡住的能量”导致的压力和生理功能紊乱。  
+- 通过补充钙质、B1维生素以及调整饮食和生活习惯，可以有效改善睡眠质量。  
+- 自然疗法（如acupressure）和其他综合方法是解决睡眠问题的有效途径。
 </details>
 
 <details>
 <summary>26. [2010-08-10] How to Trigger Your Fat Burning Hormones</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Gr5QxkSm9xs" target="_blank">
-    <img src="https://img.youtube.com/vi/Gr5QxkSm9xs/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/Gr5QxkSm9xs/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題：生長激素與arginine的作用及影響
@@ -2341,7 +2957,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>25. [2010-08-10] Vitamin D Adrenals Belly Fat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kJegLw2qtPc" target="_blank">
-    <img src="https://img.youtube.com/vi/kJegLw2qtPc/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/kJegLw2qtPc/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 小節一：核心主題  
@@ -2383,7 +2999,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>24. [2010-08-05] Dr. Berg Talks about Body Types on News 9</summary><br>
 
 <a href="https://www.youtube.com/watch?v=bNnmCqGMy8Q" target="_blank">
-    <img src="https://img.youtube.com/vi/bNnmCqGMy8Q/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/bNnmCqGMy8Q/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理與分析
@@ -2433,7 +3049,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>23. [2010-08-05] How to Burn Fat I Dr. Berg on Fox and Friends I Talks About Body Types</summary><br>
 
 <a href="https://www.youtube.com/watch?v=M25xpZk5WtU" target="_blank">
-    <img src="https://img.youtube.com/vi/M25xpZk5WtU/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/M25xpZk5WtU/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -2488,17 +3104,42 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>22. [2010-07-20] Success Story with Belly Fat Loss - Lost over 100 lbs</summary><br>
 
 <a href="https://www.youtube.com/watch?v=rC7cXuNlyR4" target="_blank">
-    <img src="https://img.youtube.com/vi/rC7cXuNlyR4/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/rC7cXuNlyR4/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
+### 核心_theme  
+- **成功案例分析**：Susan 的.Weight loss 故事展示了從肥胖到健康生活的轉變。  
+- **ライフスタイルの変化と持続可能性**：強調したのは、健康的な食事と規칙的な運動を通じた持続可能なウェルネス管理。  
 
+### 主要觀念  
+1. **過去の体重問題**：Susan は高校時代から体重増加を経験し、結婚後には298ポンドまで到達した。  
+2. **健康への意識の芽生え**：娘たちが太るのを見て、自身の健康状態に気づき、ダイエットを決意。  
+3. **運動とトレーニングの重要性**：定期的なウォーキングや強度管理されたトレーニングが持続可能なウェルネスへ導いた。  
+
+### 問題原因  
+1. **不健康な食習慣**：Susan は過去に間食や不適切な食事摂取を行っていた。  
+2. **運動不足**：規칙的な運動を怠り、肥満状態が持続した。  
+3. **心理的 barriers**：ダイエットに対する恐怖や挫折感が初期の障害となった。  
+
+### 解決方法  
+1. **健康的な食事計画の導入**：バランスの取れた食事を通じてカロリー摂取を管理。  
+2. **規칙的な運動習慣の確立**：ウォーキングやトレーニングを日常の中に組み込む。  
+3. **心理的サポートと励み**：ダイエット仲間や家族の支持を得て、モチベーションを維持。  
+
+### 健康建議  
+1. **食事管理**：栄養価の高い食品を選択し、適度なカロリー摂取を心掛けよう。  
+2. **運動習慣**：ウォーキングや有酸素運動を週に数回行って、体能を向上させると共にストレス解消。  
+3. **自己効力感の醸成**：自分の身体能力を信じて、目標に向かって粘り強く取り組む姿勢が重要。  
+
+### 結論  
+Susan の成功故事は、健康的なライフスタイルへの転換がいかに人生を向上させるかを示している。特に、50代以上の者にとっては、ダイエットやウェルネス管理が依然として可能であることを強調する。彼女の経験は、自己改善と持続可能な健康状態の達成に向けての道標となりうる。
 </details>
 
 <details>
 <summary>21. [2010-07-13] Fast Healthy Weight Loss - Patients Speak Their Success!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=G3AFxauJeok" target="_blank">
-    <img src="https://img.youtube.com/vi/G3AFxauJeok/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/G3AFxauJeok/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 小結整理
@@ -2540,7 +3181,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>20. [2010-06-24] Rid Craving</summary><br>
 
 <a href="https://www.youtube.com/watch?v=E7yVINKxiew" target="_blank">
-    <img src="https://img.youtube.com/vi/E7yVINKxiew/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/E7yVINKxiew/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理：抗碳水化合物 cravings 的飲食計劃
@@ -2601,7 +3242,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>19. [2010-04-24] Body Type Video</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Lk1RlIHx7F0" target="_blank">
-    <img src="https://img.youtube.com/vi/Lk1RlIHx7F0/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/Lk1RlIHx7F0/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -2651,7 +3292,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>18. [2009-07-30] Dr. Eric Berg's Review: Patient Speak About Her Success</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Fjqtjq4WRNg" target="_blank">
-    <img src="https://img.youtube.com/vi/Fjqtjq4WRNg/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/Fjqtjq4WRNg/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -2701,7 +3342,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>17. [2009-07-30] Dr Eric Berg's Review: No More Problems with Sleeping</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_xR5rYmSvc0" target="_blank">
-    <img src="https://img.youtube.com/vi/_xR5rYmSvc0/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/_xR5rYmSvc0/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -2791,7 +3432,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>16. [2009-07-30] Dr. Berg's Example of Acupressure for Weight Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XefowjsRkDo" target="_blank">
-    <img src="https://img.youtube.com/vi/XefowjsRkDo/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/XefowjsRkDo/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -2823,7 +3464,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>15. [2009-07-28] Dr. Eric Berg Review: Gaining Weight after Smoking</summary><br>
 
 <a href="https://www.youtube.com/watch?v=mLk7prs2IdM" target="_blank">
-    <img src="https://img.youtube.com/vi/mLk7prs2IdM/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/mLk7prs2IdM/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題  
@@ -2870,7 +3511,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>14. Dr. Berg in the Media</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hvYEFh3em3Q" target="_blank">
-    <img src="https://img.youtube.com/vi/hvYEFh3em3Q/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/hvYEFh3em3Q/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 
@@ -2880,7 +3521,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>13. [2009-04-04] Dr. Berg Speaks at the Federal Communication Commission</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_kuQPktErD4" target="_blank">
-    <img src="https://img.youtube.com/vi/_kuQPktErD4/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/_kuQPktErD4/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -2948,7 +3589,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>12. [2009-04-01] Body Shape Seminar (Part 3)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=IquS1CMFYDA" target="_blank">
-    <img src="https://img.youtube.com/vi/IquS1CMFYDA/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/IquS1CMFYDA/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理：健康與減肥之道
@@ -3015,7 +3656,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>11. [2009-04-01] Body Shape Seminar (Part 2)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=LqYD6ScfV5Y" target="_blank">
-    <img src="https://img.youtube.com/vi/LqYD6ScfV5Y/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/LqYD6ScfV5Y/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ---
@@ -3079,7 +3720,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>10. [2009-04-01] Body Shape Seminar (Part 1)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=08KUhaJrejs" target="_blank">
-    <img src="https://img.youtube.com/vi/08KUhaJrejs/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/08KUhaJrejs/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章重點整理
@@ -3138,7 +3779,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>9. [2009-03-31] Dr.Eric Berg @ News Channel 8 (Behind The Scenes)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=49TxVYeq4m4" target="_blank">
-    <img src="https://img.youtube.com/vi/49TxVYeq4m4/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/49TxVYeq4m4/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -3185,7 +3826,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>8. [2009-03-21] Dr. Berg Talks about Healthy Weight Loss on News Channel 8</summary><br>
 
 <a href="https://www.youtube.com/watch?v=z_pRjz-0X7o" target="_blank">
-    <img src="https://img.youtube.com/vi/z_pRjz-0X7o/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/z_pRjz-0X7o/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理與結構化分析
@@ -3227,7 +3868,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>6. [2009-02-19] Understanding the Best Nutrients for Weight Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=nTOrG4w660c" target="_blank">
-    <img src="https://img.youtube.com/vi/nTOrG4w660c/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/nTOrG4w660c/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 小節整理：脂肪的功能與健康哲學
@@ -3265,7 +3906,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>5. [2009-02-19] Vitamins and Nutrients for Weight Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=McGFltMvSIo" target="_blank">
-    <img src="https://img.youtube.com/vi/McGFltMvSIo/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/McGFltMvSIo/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -3316,7 +3957,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>4. [2009-02-17] Adrenal, Stress and Your Sleep</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Q5wN32_3m4o" target="_blank">
-    <img src="https://img.youtube.com/vi/Q5wN32_3m4o/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/Q5wN32_3m4o/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 核心主題
@@ -3378,7 +4019,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>3. [2009-02-17] Exercise</summary><br>
 
 <a href="https://www.youtube.com/watch?v=lgyf5KoRfzE" target="_blank">
-    <img src="https://img.youtube.com/vi/lgyf5KoRfzE/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/lgyf5KoRfzE/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 文章整理與分析
@@ -3447,7 +4088,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>2. [2009-02-17] Body Types</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XO-iyh2Z_s8" target="_blank">
-    <img src="https://img.youtube.com/vi/XO-iyh2Z_s8/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/XO-iyh2Z_s8/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 一、核心主題：身體類型分類与健康关联
@@ -3507,7 +4148,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <summary>1. [2008-12-19] Dr. Berg Works on Duane Clemons, Former NFL Player</summary><br>
 
 <a href="https://www.youtube.com/watch?v=LE8iCYYoXh4" target="_blank">
-    <img src="https://img.youtube.com/vi/LE8iCYYoXh4/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/LE8iCYYoXh4/maxresdefault.jpg" atl="[Youtube]" width="200">
 </a>
 
 ### 小節整理：文章重點歸納
