@@ -4012,42 +4012,34 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
         alt="[Youtube]" width="200">
 </a>
 
-### Core Theme: The Inappropriateness of Yacon Syrup in a Keto Diet
+### 小節一：核心主題  
+- 討論yalcón糖漿是否適合酮飲食（keto-friendly）。  
 
-Yacon syrup, derived from the root of the yacon plant, is often marketed as a healthy sweetener, particularly for those following a ketogenic diet. However, this article critically examines its suitability within a keto lifestyle and highlights its potential drawbacks.
+### 小節二：主要觀念  
+- Yacon糖漿源自於秘魯的Yacon植物，其成分包含以下幾種主要成分：  
+  - **50% 的低聚果糖（Fructo-Oligosaccharides, FOS）**：一種益生元纖維。  
+  - **30% 的果糖（Fructose）**：屬於低碳升糖指數（Low Glycemic Index, LGI）的糖，但會對肝臟造成壓力並引發胰島素抵抗。  
+  - **20% 的其他成分**：包括葡萄糖等。  
 
-### Key Concepts:
+### 小節三：問題原因  
+- Yacon糖漿不适合酮飲食的原因包括以下幾點：  
+  1. **果糖和低聚果糖的影響**：  
+     - 果糖會在肝臟中被代謝，過量攝取可能導致脂肪肝並引發胰島素抗性。  
+     - 低聚果糖雖然有益於腸道健康，但對某些人來說，可能會加重腸胃問題（如念珠菌感染、SIBO或漏 Gut 等）。  
+  2. **酮症阻礙**：  
+     - 果糖和葡萄糖的含量會干擾酮症狀態的維持，影響脂肪燃燒。  
 
-1. **Composition of Yacon Syrup**:
-   - Contains 50% fructo-oligosaccharides (FOS), a prebiotic fiber.
-   - Approximately 30% fructose, a low-glycemic index sugar metabolized primarily in the liver.
-   - The remaining 20% is glucose.
+### 小節四：健康建議  
+- 避免在酮飲食中添加Yacon糖漀。  
+- 如有腸胃問題（如 Candida、SIBO或漏 Gut），應特別謹慎使用此產品。  
+- 更多低碳水化合物的甜味劑選擇包括： erythritol 或 stevia 等。  
 
-2. **Gut Health Concerns**:
-   - Excessive intake can exacerbate conditions such as candida overgrowth, SIBO (Small Intestinal Bacterial Overgrowth), leaky gut syndrome, and other gastrointestinal inflammations due to its high FOS content.
-   - Fructose, while slowly metabolized, can overwhelm the liver, leading to insulin resistance and non-alcoholic fatty liver disease.
+### 小節五：結論  
+- Yacon糖漀雖被某些 Keto 專家推薦，但其高果糖和低聚果糖含量可能對健康造成負面影響，並阻礙酮症的達成。  
+- 更為安全的選擇是避免使用任何含糖產品，以維持酮飲食的效果和整體健康。  
 
-3. **Metabolic Impact**:
-   - The combined effects of fructose and glucose in yacon syrup can disrupt ketosis by raising blood sugar levels and insulin response.
-   - Despite its low glycemic index (40), the presence of sugars makes it unsuitable for sustained weight loss on a keto diet.
-
-### Issues with Yacon Syrup in Weight Management:
-
-- **Insulin Resistance**: High fructose content can lead to hepatic overload, contributing to insulin resistance and hindering fat mobilization.
-- **Ketosis Blockade**: The sugars in yacon syrup prevent the body from entering or maintaining ketosis, which is crucial for fat burning in a ketogenic diet.
-
-### Health Recommendations:
-
-1. **Avoidance in Keto Diets**:
-   - Substitute with keto-friendly sweeteners like stevia or monk fruit.
-   - Prioritize whole foods and low-carbohydrate alternatives to satisfy sweet cravings.
-
-2. **Consultation**:
-   - Seek guidance from healthcare professionals or nutritionists, especially if transitioning to keto or encountering obstacles in achieving desired results.
-
-### Conclusion:
-
-Yacon syrup is not a suitable addition to a ketogenic diet due to its high sugar content and potential to disrupt metabolic goals. Emphasizing whole foods and appropriate sweeteners aligns better with the principles of a healthy, sustainable keto lifestyle.
+### 小節六：附註  
+- 文章提供進一步的研究鏈接和諮詢服務（限美國境內），以幫助有疑問的讀者更好地理解和實施酮飲食。
 </details>
 
 <details>
@@ -4336,113 +4328,560 @@ Yacon syrup is not a suitable addition to a ketogenic diet due to its high sugar
 </details>
 
 <details>
-<summary>3226. Can We Live Without a Liver?</summary><br>
+<summary>3226. [2020-12-28] Can We Live Without a Liver?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=4SlwbrKuM2o" target="_blank">
     <img src="https://img.youtube.com/vi/4SlwbrKuM2o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 文章重點整理
 
+## 核心主題  
+- 肝臟功能的重要性及其再生能力。
+
+## 主要觀念  
+1. 肝臟具有 robust 的再生能力，只需 25% 的肝臟即可維持正常功能。
+2. 大約 75% 的肝臟 tissue 可作為 buffer，必要時可切除而不影響生命。
+3. 即使需要進行肝臟移植，部分肝臟也可通過 regrowth 恢復功能。
+
+## 問題原因  
+1. 肝臟損傷的常見原因包括酒精、垃圾食物和糖分攝取過量。
+2. 長期炎症和 fibrosis 可導致肝臟功能受損。
+
+## 解決方法  
+1. **肝臟移植**：可選擇整肝或部分肝臟移植，後者需要 donor 有相同的血型並願意捐贈。
+2. **藥物治療**：使用免疫抑制劑（如皮質類固醇）來防止肝臟 rejection。
+3. **肝臟再生**：肝臟具有快速再生能力，可在數周內恢復大部分功能。
+
+## 健康建議  
+1. **飲食調整**：
+   - 避免酒精、垃圾食物和高糖分飲食。
+   - 採用健康酮飲食（healthy keto diet）以符合個人體型需求。
+2. **生活習慣**：
+   - 進行間歇性禁食以降低炎症並刺激 stem cells 肝臟再生。
+3. **營養補充**：
+   - 維生素 D：每日攝取約 20,000 IU 可有效降低 inflammation。
+   - Tocotrienols（維生素 E 的一種形式）可防止脂肪肝發展為炎症性肝病。
+   - Bile salts：幫助減缓 fibrosis。
+4. **益生菌**：
+   - 調節腸道微生物群以促進肝臟功能。
+
+## 結論  
+- 肝臟的再生能力令人驚嘆，但保護和維護其健康至關重要。  
+- 避免傷害因素、採取適當飲食習慣和營養補充可有效預防和改善肝臟問題。  
+- 在必要時，肝臟移植是一種有效的治療手段，但仍需考慮 donor 來源和免疫抑制劑的副作用。
+
+---
+
+# 總結報告  
+
+## 核心概念  
+本文探討了人類肝臟的基本需求及其驚人的再生能力。研究表明，僅需25%的肝臟即可維持正常功能，而剩餘75%可作為 buffer，必要時切除而不影響生命。此外，肝臟是唯一能快速再生的 visceral organ，這使得肝臟移植成為可能。
+
+## 主要發現  
+1. **肝臟功能需求**：肝臟只需25%即可維持正常功能，顯示其 robust 的特性。
+2. **肝臟損傷原因**：酒精、垃圾食物和糖分攝取過量是主要的肝臟損害因素。
+3. **肝臟再生能力**：肝臟可在數周內通過 regrowth 恢復大部分功能，這使得部分肝臟移植成為現實。
+4. **健康建議**：
+   - 避免酒精和高糖飲食。
+   - 採用健康酮飲食並配合間歇性禁食以降低炎症並促進肝臟再生。
+   - 維生素 D 和 Tocotrienols 可幫助預防和改善肝臟問題。
+5. **治療選擇**：肝臟移植雖然有效，但仍需面對 donor 來源限制和免疫抑制劑的副作用。
+
+## 總結  
+肝臟的再生能力為其健康提供了有力保障，但保護和維護其功能仍需注意飲食和生活習慣。避免傷害因素、採取適當的營養補充和健康生活方式是關鍵。在必要時，肝臟移植可作為有效的治療手段，但仍需謹慎考慮相關挑戰。
 </details>
 
 <details>
-<summary>3225. Most Common Sign of Low Stomach Acid is...</summary><br>
+<summary>3225. [2020-12-27] Most Common Sign of Low Stomach Acid is...</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8TCsWyI2xSA" target="_blank">
     <img src="https://img.youtube.com/vi/8TCsWyI2xSA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：低胃酸引起的消化不良及相關問題
 
+#### 核心主題
+- 低胃酸（Hypochlorhydria）及其導致的消化不良症狀。
+- 胃酸不足對整體健康造成的影響，包括營養吸收障礙和感染風險增加。
+
+#### 主要觀念
+1. **低胃酸的定義**：
+   - 胃酸不足（Hypochlorhydria）或無胃酸（Achlorhydria）。
+   - 胃酸pH值正常範圍為0.8到3，低於此範圍可能導致消化問題。
+
+2. **低胃酸的影響**：
+   - 干擾食物中蛋白質、膠原蛋白等的消化，無法有效分解為氨基酸。
+   - 抑制病菌、病毒和真菌的滋生，防止腸道感染。
+   - 阻礙礦物質（如鐵、鈣、鎂、鋅和钴）的吸收。
+
+3. **低胃酸的病因**：
+   - 年齡增長導致胃酸分泌減少。
+   - 經常使用抗 acid 藥物，進一步削弱胃酸分泌。
+   - 離子（如鹽中的氯化物）、維生素C、鋅等營養素缺乏影響胃酸生成。
+
+#### 問題原因
+- **胃酸不足**：
+  - 干擾食物消化，導致未完全分解的食物進入腸道，引發腹脹、氣體增加和不適。
+  - 破壞胃黏膜保護層，導致潰瘍和胃炎。
+  
+- **營養吸收障礙**：
+  - 鐵質、鈣質等礦物質無法有效分離於蛋白質結構中，影響吸收。
+
+#### 解决方法
+1. **補充胃酸**：
+   - 使用Betaine Hydrochloride（鹽酸甜菜鹼） supplements。
+   - 建議劑量：餐前3-5粒，依個人情況調整。
+
+2. **改善黏膜保護層**：
+   - 补充鋅和維生素C以增強胃黏膜修復。
+
+3. **避免抑酸藥物濫用**：
+   - 避免長期使用抗 acid 藥物，以免加重低胃酸問題。
+
+#### 健康建議
+1. **飲食調整**：
+   - 增加富含鹽分、維生素C和鋅的食物攝取。
+   - 減少刺激性食物（如辛辣、咖啡因）的攝入。
+
+2. ** supplements 使用**：
+   - 在沒有潰瘍或胃炎的情況下，可考慮使用Betaine Hydrochloride來補充胃酸。
+
+3. **避免抑酸藥物濫用**：
+   - 長期使用抗 acid 藥物可能加重低胃酸問題，需謹慎使用。
+
+#### 結論
+- 低胃酸是一個常被忽略但影響重大的健康問題。
+- 及時補充胃酸和恢復胃黏膜功能可以有效改善消化不良和其他相關症狀。
+- 適當的 supplements 使用在沒有潰瘍或胃炎的情況下是安全且有效的。
 </details>
 
 <details>
-<summary>3224. Is It Safe for an Older Person to Fast?</summary><br>
+<summary>3224. [2020-12-27] Is It Safe for an Older Person to Fast?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=-slAY8esOBQ" target="_blank">
     <img src="https://img.youtube.com/vi/-slAY8esOBQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題  
+- **衰老與禁食的安全性**：文章探討了老年人進行禁食（包括間歇性禁食）的安全性和益處。
+
+#### 主要觀念  
+1. **傳統觀點的批駁**： traditional belief that fasting is unsafe for individuals over 50 is incorrect.
+2. **禁食的必要性**：Fasting becomes more crucial as one ages due to its numerous health benefits.
+3. **壽命延長的作用**：Restricted eating patterns have been shown to increase lifespan in various studies on animals, insects, and bacteria.
+
+#### 問題原因  
+- **老年健康問題**：Aging individuals are prone to health issues such as obesity, inflammation, high blood pressure, dementia, and cancer, which can be mitigated through fasting.
+
+#### 解決方法  
+1. **自噬的作用**：Autophagy, a process activated by fasting, helps recycle damaged proteins and mitochondria, reducing the risk of diseases like cancer.
+2. **酮體的益處**：Increased ketone production during fasting benefits heart and brain health by providing an alternative energy source to glucose.
+
+#### 健康建議  
+1. **間歇性禁食**：Implement intermittent fasting as part of a healthy aging strategy.
+2. **諮詢專家**：Consult a keto consultant for guidance on starting or troubleshooting a ketogenic diet, especially for those in the US.
+
+#### 結論  
+- **禁食的綜合益處**：Fasting offers multiple health benefits, including DNA repair, reduced disease risk, and improved cognitive function.
+- **鼓勵老年人群實施**：Older individuals should consider fasting as a vital component of their health regimen.
 </details>
 
 <details>
-<summary>3223. What Age Can a Child Start Fasting</summary><br>
+<summary>3223. [2020-12-26] What Age Can a Child Start Fasting</summary><br>
 
 <a href="https://www.youtube.com/watch?v=6jk2QxVHXK8" target="_blank">
     <img src="https://img.youtube.com/vi/6jk2QxVHXK8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：兒童開始齡及飲食建議
 
+#### 核心主題：
+- 論述兒童開始的最佳時機及其健康影響。
+- 探讨兒童飲食習慣對身體和心理發育的重要性。
+
+#### 主要觀念：
+1. **兒童齋齡的決定因素**：
+   - 年齡、體重、健康狀況個體化。
+2. **肥胖問題的根本原因**：
+   - 高頻率零食攝取導致胰島素_spike，促進脂肪儲存。
+3. **現代飲食結構的改變**：
+   - 零食消費增加，引發代謝失衡。
+4. **營養均衡的重要性**：
+   - 確保兒童攝取足夠的DHA、微量 mineral、維生素等。
+
+#### 問題原因：
+1. **過度零食攝取**：
+   - 每餐後胰島素升高，影響代謝功能。
+2. **不良早餐習慣**：
+   - 短時間禁食不足，導致血糖波動。
+3. **現代飲食結構改變**：
+   - 高碳水化合物飲食干擾脂肪燃燒。
+
+#### 解決方法：
+1. **飲食調整建議**：
+   - 三餐制，避免零食。
+   - 確保每餐營養密度高，包含足夠的脂肪和蛋白質。
+2. **特殊情況處理**：
+   - 幼兒（1-3歲）：按需喂哺，注重營養密度。
+   - 青少年（停止生長後）：可增加次數。
+3. **疾病管理**：
+   - 癫癇兒童：使用酮ogenic diet模擬齋戒效果。
+
+#### 健康建議：
+1. **飲食結構**：
+   - 低carb飲食為主，避免高carb攝取。
+2. **營養補充**：
+   - 確保DHA、維生素B群、C、D、E等的攝取。
+3. **生長階段管理**：
+   - 生長期需更多營養，建議諮詢醫生。
+
+#### 結論：
+- 雖然兒童齋齡因人而異，但三餐制和低carb飲食為普遍推薦。
+- 幼兒期至青少年期的飲食習慣影響未來健康，家長應重視飲食教育與管理。
 </details>
 
 <details>
-<summary>3222. How To Get Rid of Acne? – The Biggest Mistake in Acne Treatment – Dr. Berg</summary><br>
+<summary>3222. [2020-12-26] How To Get Rid of Acne? – The Biggest Mistake in Acne Treatment – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=bnatKlqU1iE" target="_blank">
     <img src="https://img.youtube.com/vi/bnatKlqU1iE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：痤瘡（Acne）的成因與治療策略
 
+痤瘡是一種常見的皮膚問題，其成因涉及多個方面，包括微 biome 干擾、激素水平失衡以及生活方式因素。
+
+---
+
+### 主要觀念：
+
+1. **痤瘡的傳統治療方法及其局限性**：
+   - 使用洗面奶、清潔劑、酒精濕巾和抗菌霜等產品清潔皮膚，可能破壞皮肤表面的正常菌群。
+   - 酸毒症（Acne）並非由「髒污」或:blackhead: 引起，而是涉及多個生理機制。
+
+2. **微 biome 的重要性**：
+   - 皮膚表面和全身存在數以億計的微生物，這些微生物構成免疫屏障。
+   - 遠端抗生素的副作用可能引發痤瘡，這與腸道菌群和其他表面菌群的相互作用有關。
+
+3. **痤瘡的病理機制**：
+   - 痤瘡涉及皮脂腺（sebaceous gland）的肥大和過量皮脂（sebum）分泌。
+   - 痰癥的形成與毛囊中的pus和細菌感染相關。
+
+---
+
+### 問題原因：
+
+1. **微 biome 干擾**：
+   - 使用清潔產品和抗菌藥膏破壞了皮膚表面的有益菌群，削弱免疫防禦。
+   - 导致炎症反應增強，進一步惡化痤瘡。
+
+2. **激素失衡**：
+   - 雄性激素（Androgens）水平升高是痤瘡的重要原因，尤其是在青春期。
+   - PCOS（多囊卵巢綜合征）患者因高胰島素血症導致雄性激素過高，從而誘發痤瘡。
+
+3. **飲食因素**：
+   - 高碳水化合物飲食導致胰島素水平升高，間接影響雄性激素分泌，加重痤瘡。
+
+---
+
+### 解決方法與健康建議：
+
+1. **飲食調整**：
+   - 採取低碳水化合物飲食，降低胰島素水平。
+   - 結合間歇性禁食（Intermittent Fasting）以加速痤瘡康復。
+
+2. **皮膚護理**：
+   - 避免使用刺激性清潔產品和抗菌藥膏。
+   - 恢複皮膚表面的正常菌群，减少炎症反應。
+
+3. **生活方式改善**：
+   - 管理壓力，保持良好的心理狀態。
+   - 適當運動，促進整體健康與皮膚康復。
+
+---
+
+### 結論：
+
+痤瘡的治療關鍵在於理解其多因素成因，並採取針對性措施。飲食調整和微 biome 調理是核心策略，結合間歇性禁食等生活方式改変可顯著改善痤瘡狀況。本文所述方法已在臨床實踐中得到驗證，具有高度有效性。
+
+--- 
+
+（Note: 以上整理保持了正式和客觀的口吻，並分小節歸納文章重點。）
 </details>
 
 <details>
-<summary>3221. My Favorite Keto Food Swaps</summary><br>
+<summary>3221. [2020-12-25] My Favorite Keto Food Swaps</summary><br>
 
 <a href="https://www.youtube.com/watch?v=LkBbrbnVnOc" target="_blank">
     <img src="https://img.youtube.com/vi/LkBbrbnVnOc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 提供酮飲食中常見不友善食物的替代選擇。
+- 強調使用更健康的酮友食譜來進行食物替換。
 
+### 主要觀念
+1. **食物替代的重要性**：
+   - 在酮飲食中，某些常見食物可能含有高碳水化合物或糖分，需要找到適合的替代品。
+2. **多樣化的替代選擇**：
+   - 提供多種替代方案以滿足不同飲食偏好和需求。
+3. **健康的食品選項**：
+   - 強調使用低碳水化合物、高纖維和自然甜味劑的食品。
+
+### 問題原因
+- 常見食物如麵包、白糖、麥片、白面粉等含有高碳水化合物，不符合酮飲食的要求。
+- 部分糖醇可能影響血糖水平，需選擇適合的甜味劑。
+
+### 解决方法
+1. **替代食物**：
+   - **麵包**：使用bib butter lettuce、roasted portobello mushroom top、napa chinese cabbage或自制菜花.Wrap。
+   - **白糖**：替換為allulose、xylitol、erythritol或monk fruit甜味劑。
+   - **麥片**：使用烤椰子碎片、杏仁碎、水果和奇亚籽等。
+   - **白麵粉**：使用杏仁面粉或椰子面粉，尤以杏仁面粉為佳。
+   - **義大利面/薯條**：使用螺旋狀西葫芦、南瓜 spaghetti squash 或 Shirataki 面條。
+   - **薯餅**：使用蒸 cauliflower Mash 替代。
+   - **米飯**：使用菜花 rice 替代。
+2. **食譜推薦**：
+   - 提供夫妻共同研發的 Cauliflower Wrap 和lasagna食譜，詳細做法可參見影片連結。
+
+### 健康建議
+- 選擇低碳水化合物、高纖維和自然甜味劑的食物以符合酮飲食的要求。
+- 確保替代食物的營養均衡，避免血糖波動。
+- 初學者或遇到困難時，可諮詢專業的酮飲食顧問。
+
+### 結論
+- 酮飲食中食物替代是關鍵，透過多樣化的選擇可以讓飲食更加豐富和健康。
+- 推荐特定食譜和食材，幫助用戶更順利地進行酮飲食計劃。
 </details>
 
 <details>
-<summary>3220. I Can't Last 3 Hours Without Food</summary><br>
+<summary>3220. [2020-12-24] I Can't Last 3 Hours Without Food</summary><br>
 
 <a href="https://www.youtube.com/watch?v=geydnuSgv5c" target="_blank">
     <img src="https://img.youtube.com/vi/geydnuSgv5c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+## 文章重點整理
 
+### 核心主題
+- **血糖問題與肥胖**：探討為什麼很多人無法長時間禁食，及其背後的血糖和胰島素抵抗問題。
+- **脂肪儲存與能量來源**：分析人體如何儲存脂肪及未能有效利用脂肪作為エネルギー的原因。
+
+### 主要觀念
+1. **血糖與脂肪儲存**：
+   - 人體儲存了大量脂肪（約100,000卡路里），但僅有少量糖原儲備（約1700卡路里）。
+2. **胰島素抵抗**：
+   - 胰島素抵抗導致血糖不穩定，進而影響脂肪燃燒。
+
+### 問題原因
+- **高糖攝入**：過量攝取糖分干擾脂肪利用率。
+- **胰島素抵抗**：血液中胰島素濃度过高，阻礙脂肪燃燒。
+
+### 解決方法
+1. **降低糖分攝取**：
+   - 消除所有糖分及含糖食物（如水果、果汁、酸奶、蜂蜜等）。
+2. **酮genesis diet（生酮飲食）**：
+   - 遵循酮 genesis 饮食，極低碳水化合物攝入以降低胰島素水平。
+3. **避免零食**：
+   - 不吃零食，因少量攝食仍會刺激胰岛素分泌，引發血糖波動。
+4. **增加脂肪攝取**：
+   - 在餐後添加額外脂肪（如橄欖油、花生醬），以延長禁食時間。
+5. **增加膳食纖維攝取**：
+   - 通過食用蔬菜增加膳食纖維，改善腸道菌群，生成短鏈脂肪酸（如丁酸鹽）以幫助血糖穩定和胰島素抵抗。
+
+### 健康建議
+- **禁食技巧**：避免刺激性食物，於餐後添加額外脂肪。
+- **飲食結構**：
+  - 首重蔬菜攝取，其次蛋白質，最後添加額外脂肪。
+- **生活方式**：
+  - 維持低糖、低碳水化合物飲食，長時間禁食以提高脂肪利用率。
+
+### 結論
+- **血糖穩定的重要性**：解決禁食困難的關鍵在於調整飲食結構，降低胰島素水平，從而有效利用人體儲存的脂肪。
+- **健康生活方式的必要性**：遵循上述建議可改善血糖控制，提升整體健康狀況。
 </details>
 
 <details>
-<summary>3219. Himalayan Salt vs. Sea Salt</summary><br>
+<summary>3219. [2020-12-23] Himalayan Salt vs. Sea Salt</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3AkZN4FFDLE" target="_blank">
     <img src="https://img.youtube.com/vi/3AkZN4FFDLE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：岩鹽與普通海鹽的差異及其健康影響
 
+#### 核心主題
+- 岩鹽（如喜馬拉雅海鹽）与普通海鹽在成分和來源上存在顯著差異。
+- 微塑膠污染對人體健康的潛在危害。
+
+---
+
+#### 主要觀念
+1. **岩鹽的來源與特性**：
+   - 喜馬拉雅岩鹽源自古代未受污染的海洋沉积物，不含微塑膠。
+   - 含有豐富的微量元素，如鈣、鎂、鉀等。
+
+2. **普通海鹽的問題**：
+   - 大部分普通海鹽來源於現代海洋，可能含有微塑膠（研究顯示90%的品牌含微量塑膠）。
+   - 加工過程常涉及漂白、添加防結塊劑（如氧化鋁）和其他化學物質。
+
+3. **食鹽的健康影響**：
+   - 食鹽（(table salt)）主要成分為氯化鈉，缺乏微量元素，且常含微塑膠和有害 additives。
+   - 過量攝取鹽分可能導致高血壓等健康問題，但適量攝取對消化、免疫等功能至關重要。
+
+---
+
+#### 問題原因
+- **微塑膠污染**：
+  - 微塑膠進入人體後可能引起炎症反應和內分泌干擾。
+  - 塑膠降解需數百年，長期累積會造成健康隱患。
+
+- **加工鹽的問題**：
+  - 食鹽加工過程中添加漂白劑、防結塊劑等有害物質。
+  - 现代海洋污染導致普通海鹽含微塑膠。
+
+---
+
+#### 解決方法
+1. **選擇清潔鹽類**：
+   - 選擇未受污染的岩鹽（如喜馬拉雅海鹽）或潔淨的海鹽（如凱爾特海鹽）。
+   - 避免使用來源不明的普通食鹽。
+
+2. **降低微塑膠暴露**：
+   - 减少使用一次性 пластикowe produits（如塑膠瓶、微波爐餐具等）。
+   - 增加對環保產品的使用，從源頭減少塑膠污染。
+
+---
+
+#### 健康建議
+1. **鹽分攝取量**：
+   - 成人每日建議攝取量為1-2茶匙（具體依活動量調整）。
+   - 按酮飲食者需增加攝取量，以補充因流汗丟失的電解質。
+
+2. **改善微生態平衡**：
+   - 取富含益生元的食物（如大蒜、洋蔥），幫助腸道菌群分解塑膠。
+   - 保持良好的腸胃健康，促進有害物質排出。
+
+3. **增加抗氧化攝取**：
+   - 多食用十字花科蔬菜（如西兰花、 Kale），有助於消除內分泌干擾物。
+   - 补充Omega-3脂肪酸，降低炎症反應。
+
+---
+
+#### 結論
+岩鹽因其天然來源和豐富的微量元素，遠勝於普通海鹽和食鹽。消費者應選擇潔淨的鹽類，避免微塑膠和其他有害 additives的攝取。此外，通過改善飲食結構和生活習慣，可以進一步降低微塑膠對健康的影響，提升整體健康水平。
+
+--- 
+
+此文章強調了岩鹽在現代飲食中的重要性，並提醒消費者注意鹽類來源與加工過程，以避免潛在的健康風險。
 </details>
 
 <details>
-<summary>3218. How to Start the Ketogenic Diet Correctly?</summary><br>
+<summary>3218. [2020-12-23] How to Start the Ketogenic Diet Correctly?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=dR6TnC1RY_8" target="_blank">
     <img src="https://img.youtube.com/vi/dR6TnC1RY_8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 1. 核心主題： ketogenic diet （生酮飲食）
+   - 生酮飲食旨在將身體轉移到酮症狀態，主要依賴脂肪作為能量來源。
+   - 生酮飲食通常高脂肪、低碳水化合物、適量蛋白質。
+
+#### 2. 主要觀念：
+   - **能量來源改變**：傳統飲食主要依賴碳水化合物供能，生酮飲食則以脂肪為主。
+   - **酮體的生成**： организм начинает вырабатывать кетоносы, которые заменяют глюкозу в качестве энергетического источника для мозга и других органов.
+   - **胰島素水平降低**：低碳水化合物飲食可顯著降低胰島素水平，有助於脂肪燃燒和血糖控制。
+
+#### 3. 問題原因：
+   - **傳統飲食結構問題**：高碳水化合物飲食導致血糖波動和胰島素抵抗。
+   - **現代生活習慣**：過度進食、不規律飲食、缺乏運動等影響代謝健康。
+   - **酮症轉換的不适**：初期可能出現頭暈、疲勞等現象，主要是身體適應期。
+
+#### 4. 解決方法：
+   - **飲食調整**：
+     1. 增加脂肪攝取（如橄欖油、 butter、 nuts 等）。
+     2. 減少碳水化合物攝取（避免糖類和精製碳水化合物）。
+     3. 適量蛋白質攝取（過多蛋白質可能干擾酮症生成）。
+   - **飲食時間管理**：
+     1. 間歇性禁食：建議每日進食窗口為6-8小時，其余時間禁食。
+     2. 推遲早餐时间：逐漸延後或跳過 breakfast，幫助進入酮症。
+   - **補充劑**：
+     1. MCT油（中鏈脂肪酸）：可快速轉化為酮體，有助於酮症的建立。
+     2. 茶葉和咖啡：避免加糖，保持低胰島素反應。
+
+#### 5. 健康建議：
+   - **飲食監控**：
+     1. 定期檢測酮症（如使用酮 strips）。
+     2. 確保足夠的脂肪攝取以維持能量水平。
+   - **生活習慣調整**：
+     1. 適當運動：低強度運動（如散步、瑜伽）更適合酮症期間。
+     2. 足夠的水分攝取：保持良好的代謝功能。
+   - **心理調適**：
+     1. 克服對饥饿感的焦慮，學習區分真正 hunger 和習慣性食慾。
+     2. 避免因短期不适而放棄飲食計劃。
+
+#### 6. 結論：
+   - 生酮飲食是一種有效的飲食模式，可幫助控制血糖、降低胰島素水平並促進脂肪燃燒。
+   - 成功實施生酮飲食需要嚴格的飲食管理和時間安排，建議在專業人員指導下進行。
+   - 長期堅持可帶來多方面的健康益處，但需注意個體差異和潛在副作用。
+
+#### 7. 其他資源：
+   - 提供 Keto Consultants 的諮詢服務，幫助解決實施過程中遇到的問題。
 </details>
 
 <details>
-<summary>3217. Vitamin B6 Can Cause Vitamin B6 Deficiency Symptoms</summary><br>
+<summary>3217. [2020-12-22] Vitamin B6 Can Cause Vitamin B6 Deficiency Symptoms</summary><br>
 
 <a href="https://www.youtube.com/watch?v=FS18XMGcT40" target="_blank">
     <img src="https://img.youtube.com/vi/FS18XMGcT40/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：錯誤攝取維生素B6的形式可能導致 deficiency 症狀
 
+#### 核心主題
+- **核心主題**：維生素B6的不同形式（尤其是合成形式）可能對健康產生不良影響，甚至引發 deficiencies。
+- **主要觀念**：
+  - 合成形式的維生素B6（如吡哆辛氫氯化物）可能導致 deficiency 症狀。
+  - 市面上的合成維生素B6來源於石化產品、鹽酸和甲醛，潛在風險較高。
+  - 天然來源的維生素B6形式（如吡哆醇磷酸酯、吡哆醛5磷酸酯）更為安全有效。
+
+#### 問題原因
+- **問題原因**：
+  - 合成形式的吡哆辛氫氯化物來源於石化產品，可能對人體造成負擔。
+  - 酒精攝取、壓力、炎症、口服避孕藥、吸收不良以及基因多態性等因素均可能導致維生素B6 deficiency。
+
+#### 解決方法
+- **解決方法**：
+  - 選擇天然來源的維生素B6，如食物或不含合成添加劑的營養酵母。
+  - 選用吡哆醇磷酸酯或吡哆醛5磷酸酯等更為穩定和有效的形式。
+
+#### 健康建議
+- **健康建議**：
+  - 確保維生素B6來源於天然且未被合成添加劑污染的	source。
+  - 注意個人健康狀況，如有吸收問題或基因多態性，應諮詢專業人員。
+  - 避免過量攝取合成形式的吡哆辛氫氯化物。
+  - 維持均衡飲食，以食物為主來源。
+
+#### 總結
+- **總結**：
+  - 合成形式的維生素B6可能引發 deficiency 症狀，需提高警惕。
+  - 天然來源的維生素B6形式更為推薦。
+  - 個人健康狀況和飲食習慣影響維生素B6的吸收與利用。
 </details>
 
 <details>
