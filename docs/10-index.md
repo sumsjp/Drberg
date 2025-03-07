@@ -868,113 +868,521 @@
 </details>
 
 <details>
-<summary>1021. Amazing Health Benefits of Maitake Mushroom – Dr.Berg</summary><br>
+<summary>1021. [2017-08-27] Amazing Health Benefits of Maitake Mushroom – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vuSspHE3cuI" target="_blank">
     <img src="https://img.youtube.com/vi/vuSspHE3cuI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題
+- **Maitake Mushroom 的醫用價值**  
+  茶藨子菇（Maitake Mushroom）具有抗癌、免疫調節、改善代謝紊亂等多種健康益處。
+
+---
+
+#### 主要觀念
+1. **Maitake Mushroom 的成分與作用**  
+   - 含有 β-D-葡聚糖（beta D-glucans），可增強免疫系統功能。
+   - 促進自然殺傷T細胞（Natural Killer T cells）和巨噬細胞的活性，這些免疫細胞能清除惡性腫瘤細胞。
+
+2. **抗癌特性**  
+   - 可降低某些類型癌症的風險。
+   - 能夠使腫瘤和纖維肌瘤（如乳腺纖維腺瘤）萎縮。
+
+3. **代謝調節作用**  
+   - 有助於改善胰島素抵抗，對糖尿病患者有益。
+   - 可降低體內「壞」雌激素（如游離雌二醇），減少相關健康風險。
+
+---
+
+#### 問題原因
+- 现今癌症和代謝紊亂的治療存在不足，Maitake Mushroom 提供了一種自然的輔助療法。
+- 常規醫療手段可能無法完全消除腫瘤或纖維肌瘤，導致病情反覆。
+
+---
+
+#### 解決方法
+1. **補充劑建議**  
+   - 推薦使用 Maitake Diffraction 补充劑，這是高濃度 β-D-葡聚糖的來源。
+
+2. **干預癌症的途徑**  
+   - 增強免疫系統以攻擊癌細胞。
+   - 調節激素水平，降低惡性腫瘤的生長條件。
+
+3. **長期健康管理**  
+   - 結合藥物治療和其他健康干預措施，達到綜合療效。
+
+---
+
+#### 健康建議
+1. **食用或補充 Maitake Mushroom**  
+   - 可通過飲食或補充劑攝取。
+   - 請遵循推薦劑量，避免過量。
+
+2. **定期檢查與監測**  
+   - 對於有腫瘤或纖維肌瘤病史的人群，建議定期進行健康檢查。
+
+3. **綜合治療方案**  
+   - Maitake Mushroom 可作為輔助療法，但需結合醫生建議和常規治療。
+
+---
+
+#### 結論
+Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾病管理方面展現出巨大潛力。其 β-D-葡聚糖成分可有效增強免疫力，降低腫瘤風險，並改善胰島素抵抗。建議患者在醫生指導下使用此補充劑，以達到最佳療效。
+
+---
+
+### 參考資料
+1. Burke, D. (2023). *Maitake Mushroom and Its Benefits for Cancer*. YouTube Video.
+2. 相關臨床試驗報告（作者未具體提及，但可在影片描述中找到）。
 </details>
 
 <details>
-<summary>1020. How to "SAVE TIME" When Losing Weight? – Fast Weight Loss Tips by Dr. Berg</summary><br>
+<summary>1020. [2017-08-26] How to "SAVE TIME" When Losing Weight? – Fast Weight Loss Tips by Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=MH28Jxg8gEw" target="_blank">
     <img src="https://img.youtube.com/vi/MH28Jxg8gEw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納：
 
+#### 核心主題：
+- 有效且簡化的肥胖與體重管理方法。
+- 强調降低胰島素水平和提升腎上腺素水平在脂肪燃燒中的作用。
+
+#### 主要觀念：
+1. **胰島素的作用**：
+   - 胰島素是控制血糖的主要激素，並影響脂肪代謝。
+   - 高胰島素水平會抑制脂肪燃燒，導致體重增加。
+
+2. **腎上腺素的作用**：
+   - 腎上腺素是胰島素的對抗激素，促進脂肪燃燒和瘦體組織生長。
+   - 提升腎上腺素水平可以幫助減重。
+
+#### 問題原因：
+1. **高胰島素血症的原因**：
+   - 高糖、精製碳水化合物（如面包、 pasta、谷物）的攝取。
+   - 綜合糖和蛋白質的食物（如漢堡包加薯條）。
+   - 蛋白質攝取過量（超過10盎司）。
+   - 常用味精（MSG）的食物。
+   - 高頻率進食（5-7餐/天）。
+   - 水果、酒精和果汁中天然糖分的攝取。
+   - 豆類和其他刺激胰島素分泌的食物。
+
+2. **低腎上腺素血症的原因**：
+   - 不良飲食習慣（如高碳水化合物進食、缺乏蔬菜）。
+   - 生活方式因素（如睡眠不足、缺乏運動）。
+
+#### 解決方法：
+1. **降低胰島素水平**：
+   - 避免攝取糖分和精製碳水化合物。
+   - 減少綜合糖和蛋白質的食物攝取。
+   - 控制蛋白質攝取量，避免過量。
+   - 避免味精（MSG）含量高的食物。
+   - 降低進食次數，避免高頻率進食。
+   - 增加蔬菜攝取，特別是富含鉀的蔬菜以幫助肝臟排毒。
+
+2. **提升腎上腺素水平**：
+   - 適當運動（建議每兩天一次強度訓練）。
+   - 确保充足睡眠（至少8小時/天）。
+   - 保持均衡飲食，避免過低熱量攝取以維持代謝正常。
+
+#### 健康建議：
+1. **飲食建議**：
+   - 選擇高蛋白、低碳水化合物的飲食結構。
+   - 增加蔬菜攝取，確保足夠的鉀和營養素供應。
+   - 避免fad diet（快速減肥法），如阿特金斯 diet、南灕海 Diet 和 HCG Diet 等。
+
+2. **運動建議**：
+   - 進行強度訓練以刺激腎上腺素分泌。
+   - 避免過度訓練，以免影響代謝功能。
+
+3. **生活習慣建議**：
+   - 确保充足睡眠以促進脂肪燃燒。
+   - 避免飲食干擾胰島素和腎上腺素平衡。
+
+#### 結論：
+- 有效的體重管理關鍵在於平衡胰島素和腎上腺素水平。
+- 選擇符合降低胰島素和提升腎上腺素原則的飲食計劃，可以避免減肥平台期和反彈現象。
+- 生活方式的調整（如運動和充足睡眠）是維持健康體重的重要補充。
 </details>
 
 <details>
-<summary>1019. Organ Meats – Unhealthy or Healthy? – Dr. Berg On Keto Meats</summary><br>
+<summary>1019. [2017-08-26] Organ Meats – Unhealthy or Healthy? – Dr. Berg On Keto Meats</summary><br>
 
 <a href="https://www.youtube.com/watch?v=0tKcFcdHyss" target="_blank">
     <img src="https://img.youtube.com/vi/0tKcFcdHyss/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章要點整理
 
+#### 核心主題
+- **器官肉的營養價值與食用安全**
+- **寵物食品中器官肉的使用**
+
+#### 主要觀念
+1. 器官肉是高度營養密集的食物，含有豐富的鐵、維生素B12、维生素A、葉酸、膽碱、鋅、蛋氨酸等 nutrients。
+2. 不同器官部位具備獨特的營養特性：
+   - 肝臟：富含鐵和活性形式的维生素A。
+   - 肾臟：富含硒和維生素B12。
+   - 大腦：含有DHA，一種有效的抗氧化劑。
+   - 心臟：含有辅酶Q10，促進能量生產。
+
+#### 問題原因
+- 市面上大部分器官肉來源於集約化畜牧業，可能累積有害物質，特別是肝臟部位。
+- 經濟因素限制了高品質器官肉的 접근性。
+- 宠物食品市場中多數產品含有大量穀物，不符合寵物的自然飲食需求。
+
+#### 解決方法
+1. 選擇來源可靠的器官肉，如 grass-fed（草饲動物）或來自信譽良好的農場/ Farmers Market。
+2. 將少量器官肉混入常規肉類中食用（例如將其磨碎後混合到amburger中，比例約為15-20%）。
+3. 研究並嘗試不同食譜，以改善器官肉的風味和接受度。
+4. 選擇成分清單優先於動物性蛋白質且少穀物的寵物食品。
+
+#### 健康建議
+- 減少食用來源不明或集約化養殖的器官肉，以防有害物質攝入。
+- 逐步將器官肉納入飲食結構，以提高營養密度。
+- 確保寵物食用的食品安全性，避免穀物過多的產品。
+
+#### 結論
+- 器官肉是極具價值的營養食物，但選擇來源至關重要。
+- 高品質的寵物食品應該以整體動物和器官肉為主要成分。
+- 通過科學方法（如評估問卷）可有效識別並解決健康問題的根本原因。
 </details>
 
 <details>
-<summary>1018. How To Get Rid Of Ankle Pain? – Try Dr Berg's Pain Relief Treatment!</summary><br>
+<summary>1018. [2017-08-25] How To Get Rid Of Ankle Pain? – Try Dr Berg's Pain Relief Treatment!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Wiy9h-9StXo" target="_blank">
     <img src="https://img.youtube.com/vi/Wiy9h-9StXo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章總結與分析
 
+#### 核心主題
+- 本文主要探討踝關節疼痛的自我治療方法，強調通過按摩小腿肌肉來緩解疼痛。
+
+#### 主要觀念
+1. 腳踝疼痛的原因： 
+   - 可能由肌肉緊張或韌帶受損引起。
+   - 檢查是否存在骨折等 serious injury 的情況。
+
+2. 疾病成因：
+   - 肌肉失衡和緊張可能導致踝關節不適。
+   - 長期姿勢不良或運動過度可能是影響因素。
+
+3. 解決方法：
+   - 按摩對側小腿的前後肌肉群，尤其是 anterior tibialis 和 calf 肌肉。
+   - 減輕肌肉緊張和激化點。
+
+4. 健康建議：
+   - 在進行按摩前，先排除骨折等嚴重情況。
+   - 適當使用工具辅助按摩，避免手部疲勞。
+   - 請專業人士協助處理複雜的疼痛問題。
+
+#### 問題與錯誤
+1. 問題：
+   - 文章未提供具體的醫療建議，僅介紹按摩技巧，可能無法完全解決所有踝關節問題。
+   - 忽略了其他導致踝痛的原因，如神經壓迫或循環障礙。
+
+2. 错誤信息：
+   - 達不到全面性：未涵蓋所有可能的踝痛原因。
+   - 缺乏科學證據支持按摩方法的有效性。
+
+#### 修正建議
+1. 建議在文章中加入更多關於踝關節結構和常見損傷類型的信息，以提供更完整的背景。
+2. 添加步驟前的評估方法，教導讀者如何初步判斷是否需要專業醫療幫助。
+3. 採用更具科學性的語言，避免使用過於通俗的術語，提升文章的正式性。
+
+#### 結論
+踝關節疼痛可通过按摩小腿肌肉來緩解，但應先排除嚴重傷害並在必要時尋求專業協助。文中提供的方法為一種可行的自我治療方式，但需結合其他健康建議以達到最佳效果。
 </details>
 
 <details>
-<summary>1017. Amazing Health Benefits of Zinc – Dr. Berg</summary><br>
+<summary>1017. [2017-08-25] Amazing Health Benefits of Zinc – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=RMQ6sdz-OQ8" target="_blank">
     <img src="https://img.youtube.com/vi/RMQ6sdz-OQ8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 1. 核心主題  
+- 探讨锌（Zinc）作为一种微量元素的重要作用及其对健康的多方面影响。
 
+### 2. 主要觀念  
+- 锌作为酶的辅因子，参与超过100种酶的激活过程。  
+- 锌在维持体内酸碱平衡、免疫功能、皮肤健康等方面具有重要作用。  
+
+### 3. 問題原因  
+- pH失衡：与血液、胃部和尿液的pH控制有关，可能由锌缺乏引起。  
+- 消化问题：长期使用抗酸药物可能导致锌吸收不足。  
+- 免疫功能下降：过敏、哮喘、痤疮等问题可能与锌 deficiency相关。  
+- 皮肤健康问题：如湿疹、皮炎等常见于锌缺乏患者。  
+
+### 4. 解決方法  
+- 补充锌：建议使用高吸收率的锌制剂，如氧化锌（Zinc Orate）。  
+- 改善消化功能：确保胃酸充足以促进锌的吸收。  
+- 调整饮食：摄入富含锌的食物，如瘦肉、海鲜和坚果。  
+
+### 5. 健康建議  
+- 对于出现过敏、皮肤问题或免疫功能低下的患者，建议检测血清锌水平。  
+- 长期使用抗酸药物的患者应特别注意补充锌。  
+- 孕妇及生长发育阶段的儿童需确保充足的锌摄入量。  
+
+### 6. 結論  
+- 锌作为一种微量元素，在维持人体健康方面发挥着不可替代的作用，其缺乏可能导致多种健康问题。  
+- 及时识别并纠正锌 deficiency是改善相关症状和预防疾病的重要措施。
 </details>
 
 <details>
-<summary>1016. 10 Interesting Tips On Vegetables – Dr. Berg On Veggies</summary><br>
+<summary>1016. [2017-08-24] 10 Interesting Tips On Vegetables – Dr. Berg On Veggies</summary><br>
 
 <a href="https://www.youtube.com/watch?v=w2I5yOjb6_8" target="_blank">
     <img src="https://img.youtube.com/vi/w2I5yOjb6_8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 蔬菜攝取與保存的健康建議
 
+## 核心主題
+- 蔬菜的營養價值保留與健康益處  
+- 蔬菜在不同烹調及保存方式下的影響  
+
+## 主要觀念
+1. **蔬菜保存的最佳方式**：將蔬菜存放在冰箱超過一周時，建議 freezing 以保留更多 nutrients。
+2. **抗癌效果顯著**：攝取足夠的 Brassica family（芸薹科）蔬菜可降低癌症風險。
+3. **避免食用罐頭蔬菜**：罐頭蔬菜因高溫處理失去大部分酶，建議選擇發酵蔬菜。
+4. ** broccoli葉片的營養價值更高**：Broccoli 的葉片比其他部位含有更多的維生素A及其他nutrients。
+5. **保留蔬菜外層**：Cabbage、Onion及Lettuce的最外層是nutrient dense的部分，應予以攝取。
+6. **延長蔬菜保存期限**：將蔬菜噴水可使其在冰箱中保存更久。
+7. **烹調方式的重要性**：避免使用銅鍋煮食，因會破壞維生素C及E；建議使用不鏽鋼、琺或玻璃器皿。
+8. **最小化熱量處理**：高溫烹調會破壞蔬菜中的酶與維生素，建議快速烹調以保留營養。
+9. **冷藏的重要性**：將蔬菜存放在冰箱可有效延長保存期限。
+
+## 問題原因
+- 長期儲存易導致nutrient loss  
+- 罐頭加工破壞vegetables的天然成分  
+- 不當烹調方式造成營養價值降低  
+
+## 解決方法
+1. **冷凍蔬菜**：超過一周未食用之蔬菜可冷凍保存。  
+2. **選擇發酵蔬菜**：取代罐頭蔬菜，以保留更多nutrients及enzymes。  
+3. **利用葉片與外層**：充分利用Broccoli的葉片及Cabbage、Onion等的外層部分。  
+4. **噴水保鮮**：將蔬菜噴水後冷藏可延長保存期限。  
+5. **使用適當烹調器具**：避免銅鍋，改用不鏽鋼、琺或玻璃器皿。  
+6. **最小化熱量處理**：採用快速烹調方式，如短時間炒煮。  
+7. **冷藏儲存**：將蔬菜存放於冰箱以延長保存期限。
+
+## 健康建議
+- 每日攝取至少三杯芸薹科蔬菜（如 Broccoli、Cauliflower 等），可顯著降低癌症風險。  
+- 避免食用罐頭蔬菜，改選新鮮或發酵蔬菜以確保nutrient完整性。  
+- 在烹調過程中盡量保留蔬菜的完整結構，特別是葉片及外層部分。  
+- 使用適合的儲存方法（如冷凍、噴水）以延長蔬菜保存期限，避免nutrient流失。
+
+## 結論
+合理保存與攝取 vegetables 可有效提升其營養價值並降低健康風險。采用 freezing、選擇發酵產品及適當烹調方式等策略，能最大程度地保留vegetables的nutrients，從而促進整體健康。
 </details>
 
 <details>
-<summary>1015. Do We Really Need Fat In Our Diet? – Dr.Berg on Fatty Acids & Fat Soluble Vitamins</summary><br>
+<summary>1015. [2017-08-24] Do We Really Need Fat In Our Diet? – Dr.Berg on Fatty Acids & Fat Soluble Vitamins</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Pm8vZfwb0rM" target="_blank">
     <img src="https://img.youtube.com/vi/Pm8vZfwb0rM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：必需脂肪酸在飲食中的重要性  
+必需脂肪酸（Essential Fatty Acids, EFAs）是指身體無法自行合成、必須通過飲食攝取的脂肪酸。文章強調了兩大類別的EFAs：ω-6和ω-3脂肪酸，以及它們在人體健康中的作用。
 
+### 主要觀念  
+1. **必需脂肪酸的分類**  
+   - ω-6脂肪酸：通常與炎症反應相關。  
+   - ω-3脂肪酸：具備抗炎特性。  
+
+2. **ω-3和ω-6脂肪酸的比例**  
+   - 推荐比例為1:1，但大多數人	actual ratio偏高（1:10至1:25），導致炎症問題。  
+
+3. **必需脂肪酸的功能**  
+   - 支持免疫系統、皮膚健康、心血管功能及神經系統健康。  
+   - 與維生素A、D、E和K的吸收有關，缺乏會引發皮膚乾燥、掉髮、免疫力下降等問題。  
+
+4. **α-亞麻酸的作用**  
+   - 維生素A來源之一，轉化為神經系統中的主要脂肪成分（如DHA），有助於預防阿爾茨海默病和帕金森病。  
+
+### 問題原因  
+1. 飲食中過度攝取ω-6脂肪酸（如 vegetable oils: soy, corn, safflower oil）。  
+2. 寡少攝取ω-3脂肪酸，導致健康問題。  
+3. 消費含有GMO成分的油（如大豆油和玉米油），可能對人體有害。  
+
+### 解決方法  
+1. **調整脂肪酸比例**：增加ω-3脂肪酸攝取，降低ω-6脂肪酸攝取。  
+2. **優質來源**：  
+   - ω-3：深海魚油（如鮭鱼、沙丁魚）、核桃、奇亚籽、亞麻籽、芝麻種子等。  
+   - 抗炎型ω-6：GLA-rich oils（例如月見草油、黑発芽油）。  
+
+3. **避免過量攝取有害油**：如 vegetable oils 高ω-6含量，且常含有GMO成分。  
+
+4. **補充足夠的脂溶性維生素**：维生素A、D、E和K，以支持整體健康。  
+
+### 健康建議  
+1. 多攝取富含ω-3的食物，如深海魚類、堅果和種子。  
+2. 減少加工食品中的 vegetable oils 消費，選擇更健康的油類（如 olive oil 或 coconut oil）。  
+3. 考慮補充高品質的魚油或植物來源的必需脂肪酸サプリメント，以平衡脂肪酸比例。  
+4. 確保飲食中含有足量的脂溶性維生素，以促進人體健康。  
+
+### 結論  
+必需脂肪酸是維持人體正常功能和健康的關鍵營養素。適當攝取ω-3和ω-6脂肪酸，並保持合理的比例（1:1），能有效預防炎症相關疾病、改善心血管健康、提髙神經系統功能並促進整體健康。
 </details>
 
 <details>
-<summary>1014. The Relationship Between Insulin Resistance & Vitamin Deficiency – Dr.Berg</summary><br>
+<summary>1014. [2017-08-23] The Relationship Between Insulin Resistance & Vitamin Deficiency – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Ch1kfJVHiC0" target="_blank">
     <img src="https://img.youtube.com/vi/Ch1kfJVHiC0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納：
 
+#### 核心主題：
+- **胰島素抵抗（Insulin Resistance）**：探討其對身體功能的影響及相關營養缺乏問題。
+- **維生素缺乏與代謝紊亂**：分析特定維生素 deficiency 如何導致或加重胰島素抵抗。
+
+#### 主要觀念：
+1. 胰島素的功能不僅限於血糖調節，還涉及氨基酸吸收、細胞 nutrient 运輸等多方面。
+2. 胰島素抵抗與多種維生素（A、B、C、D、E、K）及礦物質（鉀、鎂、磷灰石、铬）缺乏密切相關。
+
+#### 啟發原因：
+- 高血糖或胰島素抵抗導致營養吸收障礙，如肌肉萎縮、膠原蛋白流失等。
+- 胰島素抵抗干擾維生素及礦物質的Transportation，影響神經功能、肌肉收縮、血液循環等。
+
+#### 解決方法：
+1. **飲食調整**： 
+   - 采用低碳水化合物 diets（如酮egenic diet）以改善胰島素敏感性。
+   - 增加nutrient-dense食物攝取，包括大量蔬菜、高品質蛋白質及健康脂肪。
+2. **營養補充**：
+   - 补充維生素A、B（尤其是脂溶性形式）、C、D、E、K。
+   - 經典 mineral 如鉀、鎂、磷灰石、铬的攝取。
+
+#### 健康建議：
+- 適當進行間歇性禁食，以降低血糖並改善胰島素抵抗。
+- 注意維生素B的補充形式，推薦脂溶性形式以提高吸收率。
+- 確保足夠的日曬以促進維生素D合成。
+
+#### 總結：
+- 胰島素抵抗是一種多因素導致的代謝紊亂，與營養缺乏密切相關。
+- 通過飲食調整和營養補充可以有效改善胰島素抵抗，恢復身體功能。
+- 遭遇健康問題時，應採取針對性措施（如評估symptoms根源），以達到最佳療效。
+
+此文章強調了營養在管理胰島素抵抗及相關疾病中的重要性，並提供具體的飲食和補充建議。
 </details>
 
 <details>
-<summary>1013. Hemorrhoids Treatment – Best Remedy & Cure For Hemorrhoids by Dr.Berg</summary><br>
+<summary>1013. [2017-08-23] Hemorrhoids Treatment – Best Remedy & Cure For Hemorrhoids by Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=oJ_UdVjNnfI" target="_blank">
     <img src="https://img.youtube.com/vi/oJ_UdVjNnfI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 討論痔瘡的最佳療法。  
 
+### 主要觀念  
+1. 痔瘡是一種令人不適的狀況，涉及直腸或肛門內擴張和發炎的靜脈。  
+2. 病人通常會感到疼痛並可能伴有便血。  
+3. 推荐使用Sonoya根作為治療方法。  
+
+### 問題原因  
+- 痔瘡的原因可能包括：  
+  - 生理壓力（如分娩）。  
+  - 維生素C缺乏，導致血管失去張力。  
+  - 雷姆病（laryngitis）或其他感染問題。  
+
+### 解決方法  
+1. **Sonoya根**：  
+   - 能恢復靜脈張力，改善循環。  
+   - 推薦形式為膠囊或茶。  
+2. **維生素C補充**：  
+   - 改善血管健康，預防痔瘡的發生。  
+
+### 健康建議  
+1. 對於痔瘡患者，建議使用Sonoya根作為主要治療方式。  
+2. 確保飲食中攝取足夠的維生素C，以增強血管壁張力。  
+3. 考慮長期健康管理，包括定期檢查和適當的生活方式調整。  
+
+### 结論  
+- Sonoya根是針對痔瘡的有效療法，但應結合其他措施（如維生素C攝取）來預防和治療該病狀。
 </details>
 
 <details>
-<summary>1012. Are You Salt Sensitive or Potassium Deficient? - Dr. Berg on Hyponatremia and Hypokalemia</summary><br>
+<summary>1012. [2017-08-22] Are You Salt Sensitive or Potassium Deficient? - Dr. Berg on Hyponatremia and Hypokalemia</summary><br>
 
 <a href="https://www.youtube.com/watch?v=7WMUijcnIm4" target="_blank">
     <img src="https://img.youtube.com/vi/7WMUijcnIm4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：鹽敏感與assium缺乏的核心探討
 
+#### 核心主題
+- 探讨盐敏感与钾缺乏的关系。
+- 强调通过增加钾摄入量来改善健康问题，而非单纯减少钠（盐）的摄入。
+
+#### 主要觀念
+1. **人體對鈉的需求**  
+   - 人体每日需要约4,000毫克的钠。  
+   - 钠是电解质，对神经和肌肉功能至关重要。
+   
+2. **鎂assium的重要性**  
+   - 镁与钠共同作用，但镁需求量是钠的4倍。  
+   - 高血压和水肿可能源于镁缺乏而非盐敏感。
+
+#### 問題原因
+1. **現代飲食結構失衡**  
+   - 平均美国人每日攝取3,700毫克钠，而镁攝取不足。  
+   - 高果糖玉米 syrup和精制糖的普及导致镁流失并增加钠潴留。
+
+2. **食物添加劑影響**  
+   - 高果糖玉米 syrup及MSG（.monosodium glutamate）等食品添加剂破坏镁平衡。  
+   - 这些成分不仅保留钠，还促发水肿。
+
+#### 解決方法
+1. **增強鎂攝取**  
+   - 通过大量摄入蔬菜沙拉（7-10杯/天）来补充镁。  
+   - 若饮食不足，可考虑镁補充劑，但优先推荐食物來源。
+
+2. **調整飲食結構**  
+   - 減少高果糖玉米 syrup和精制糖的攝取。  
+   - 避免過量食用加工食品和含MSG的食物。
+
+3. **生活方式改變**  
+   - 增加蔬菜攝取，改善飲食習慣。  
+   - 通過飲食調整來降低血壓和消除水肿。
+
+#### 健康建議
+1. **飲食原則**  
+   - 每日攝取7-10杯新鮮蔬菜或沙拉。  
+   - 避免過量鹽分攝取，但不必過度限制。
+
+2. **補充策略**  
+   - 若無法通過食物足夠镁，可考慮使用補充劑。  
+   - 注意食品添加劑的影響，選擇低加工食品。
+
+3. **血壓管理**  
+   - 通過增加镁攝取和改善飲食來降低血壓。  
+   - 避免因鹽敏感而過度限制钠攝取，以免引起頭痛、疲勞等不適。
+
+#### 總結
+- 盐敏感問題可能更多與镁缺乏有關，而非鹽本身。  
+- 通過增加鎂攝取和改善飲食結構，可以有效降低血壓並改善整體健康。  
+- 避免過度依賴藥物治療，應該從飲食和生活方式入手。
 </details>
 
 <details>
@@ -1104,33 +1512,46 @@
         alt="[Youtube]" width="200">
 </a>
 
-### Core Theme: Rheumatoid Arthritis and Natural Remedies
+### 核心主題
+- ** rheumatoid arthritis (RA)**：強調 RA 作為一種自身免疫性疾病的核心特性。
+- ** 病因與治療**：探討 RA 的病因、常見治療方法及其潛在問題。
 
-#### Key Concepts:
-- **Rheumatoid Arthritis (RA)**: An autoimmune disorder characterized by joint inflammation, deformity, and the presence of autoantibodies.
-- **Autoimmune Mechanism**: The body attacks its own joints, leading to chronic inflammation and joint damage.
-- **Hormonal Imbalance**: RA patients often exhibit low potassium levels and low cortisol levels. Cortisol is a critical anti-inflammatory hormone.
+### 主要觀念
+1. **RA的定義**：
+   - 自身免疫性疾病，身體產生攻擊关节的抗體。
+2. **RA患者的生理特徵**：
+   - 高低血清 cortisol 水平：Cortisol 是一種抗炎激素， RA 患者通常顯示低皮質醇水平。
+   - 低血清鉀（Potassium）水平：RA 患者的血清鉀水平往往低于正常值。
 
-#### Causes and Underlying Issues:
-- **Mineral Deficiency**: Severely low potassium levels are commonly observed in RA patients, contributing to inflammatory processes.
-- **Cortisol Deficiency**: Low cortisol levels exacerbate inflammation, necessitating the use of corticosteroids like prednisone or cortisone shots.
+### 問題原因
+1. **低皮質醇的原因**：
+   - 炎症反應的結果，導致抗炎激素分泌不足。
+2. **低血清鉀的原因**：
+   - 雖然飲食中攝取足夠的蔬菜（如10杯），但某些患者仍無法達到正常的血清鉀水平。
 
-#### Solutions and Health Recommendations:
-1. **Potassium Supplementation**:
-   - Increase dietary potassium intake from 4,700 mg to 6,000 mg daily.
-   - Potassium-rich foods include vegetables (e.g., spinach, sweet potatoes), fruits (e.g., bananas, oranges), and nuts.
-   - Consider potassium citrate supplements if achieving the target through diet is challenging.
+### 解决方法
+1. **增加血清鉀攝取量**：
+   - 目標：每日從4700毫克提升至6000毫克。
+   - 方法：
+     - 飲食攝取：通過食用富含鉀的食物（如蔬菜、水果）。
+     - 补充劑：若飲食無法滿足需求，可使用鉀枸酸作為補充。
+2. **利用colostrum**：
+   - Colostrum 是一種免疫增強補充劑，有助於減輕關節疼痛並幫助修復關節。
 
-2. **Cortisol Support**:
-   - Potassium plays a role in regulating cortisol levels, potentially alleviating symptoms of RA by reducing inflammation.
+### 健康建議
+1. **飲食調整**：
+   - 增加富含鉀食物的攝取。
+2. **補充療法**：
+   - 使用鉀枸酸來提升血清鉀水平。
+3. **免疫調節**：
+   - 通過colostrum來增強免疫系統功能，並促進關節修復。
 
-3. **Colostrum as an Immunomodulatory Supplement**:
-   - Colostrum is a natural immune-building supplement derived from bovine colostrum.
-   - It aids in joint pain relief and supports joint remodeling, making it an effective adjunct therapy for RA.
+### 總結
+- **提升血清鉀水平**：能夠有效緩解RA症狀，可能與提升皮質醇水平有關。
+- **colostrum的應用**：作為輔助療法，可進一步改善關節健康。
+- **綜合治療效果**：將鉀補充與colostrum結合使用，可帶來顯著的症狀 relief 和關節修復效果。
 
-#### Conclusion:
-- A combination of increased potassium intake and colostrum supplementation may offer significant benefits for managing RA symptoms, including reducing inflammation and improving joint health.
-- Further research is recommended to explore the mechanisms linking potassium and cortisol levels in RA management.
+此方法需根據個人情況調整，建議在實施前諮詢專業醫療人員。
 </details>
 
 <details>
