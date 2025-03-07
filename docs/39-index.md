@@ -2237,113 +2237,632 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
 </details>
 
 <details>
-<summary>3964. 8 Unexpected Benefits of COFFEE You've Never Heard Before</summary><br>
+<summary>3964. [2022-05-18] 8 Unexpected Benefits of COFFEE You've Never Heard Before</summary><br>
 
 <a href="https://www.youtube.com/watch?v=wnRli6P9GVc" target="_blank">
     <img src="https://img.youtube.com/vi/wnRli6P9GVc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理  
 
+#### 核心主題  
+本篇文章探討了咖啡的多重健康效益，特別是其未被廣為人知的潛在益處。雖然咖啡因其高度成瘾性及可能的副作用受到質疑，但若 moderation 和選擇高品質（如有機咖啡）的前提下，咖啡可以提供多方面的健康優勢。
+
+---
+
+#### 主要觀念  
+
+1. **咖啡的健康效益**  
+   - 咖啡可降低癡呆症、阿茲海默症和帕金森病的風險，主要通過活化 NRF2 保護性基因，抗 oxidative stress 和神經元死亡。  
+   - 咖啡能降低膽石形成的風險，通過刺激膽汁分泌和流動，防止膽汁淤積。  
+   - 咖啡可降低腎臟結石的風險，並有助於改善慢性腎臟病患者的健康狀況。  
+   - 具有抗癌特性，尤其是對前列腺癌、大腸癌、黑色素瘤（皮膚癌）和肝癌具有顯著效果。  
+   - 具有抗炎作用，可緩解關節炎、腱鞘炎等炎症性疾病。  
+   - 可降低代謝症的風險，包括高血糖、高血壓和高三酸甘油酯血症。  
+   - 咖啡攝取量與全因死亡率下降有關，可能延長壽命。  
+   - 具有保肝作用，可降低脂肪肝、乙肝和丙肝並發症以及肝硬化風險。  
+
+2. **咖啡的副作用**  
+   - 過多攝取咖啡可能導致睡眠障礙、血olesterol 上升和心律紊亂（arrhythmias）。  
+
+---
+
+#### 問題原因  
+
+1. 咖啡普及且濫用，全球每日消費量高達 20 億杯。  
+2. 多數咖啡為非有機種植，農民使用大量化學物質（如 glyphosate，常見於 Roundup），破壞土壤健康。  
+
+---
+
+#### 解决方法  
+
+1. **選擇高品質咖啡**  
+   - 選擇有機咖啡以避免 pesticide 毒害，並減少對肝臟和膽囊的負擔。  
+
+2. ** moderation 消費**  
+   - 每日限制攝取量（如一杯），避免因過量引發副作用。  
+
+---
+
+#### 健康建議  
+
+1. 確保咖啡來源為有機，以降低 pesticide 造成的健康風險。  
+2. 避免在咖啡中添加糖、 syrup 等高血糖負擔的成分，以免影響其健康效益並增加其他代謝問題。  
+3. 考慮加入 MCT 油和 butter 來製作「強脂質咖啡」，以增強酮症作用，提升身體燃燒 fat 的能力。  
+
+---
+
+#### 結論  
+
+在 moderation 和選擇高品質的前提下，咖啡不僅能提供提神醒腦的效果，還具有多項潛在的健康益處，包括抗氧化、抗炎、抗腫瘤和保肝等功效。然而，需注意其可能的副作用，如失眠和心律紊亂，並避免濫用或添加不健康配料。
 </details>
 
 <details>
-<summary>3963. The Hidden Reason Why You Feel OLDER Than Your Age</summary><br>
+<summary>3963. [2022-05-17] The Hidden Reason Why You Feel OLDER Than Your Age</summary><br>
 
 <a href="https://www.youtube.com/watch?v=7YUDXGeMjAY" target="_blank">
     <img src="https://img.youtube.com/vi/7YUDXGeMjAY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 中文整理：文章重點小節
 
+#### 核心主題
+- 探讨如何通过消除潜在病毒和管理压力来改善身体状态，从而感到更年轻、更有活力。
+
+#### 主要觀念
+1. **潛在病毒感染的影響**：
+   - 潜伏病毒（如疱疹病毒、Epstein-Barr 病毒、巨細胞病毒等）可能導致慢性疲勞和其他症狀。
+2. **壓力的作用**：
+   - 压力是激發潛在病毒感染的主要因素，引發免疫反應，導致身體不適。
+
+#### 問題原因
+1. **潛在病毒感染**：
+   - 大部分人口感染了疱疹病毒（如HSV-1, HSV-2）和Epstein-Barr病毒。
+2. **壓力**：
+   - 長期或短期壓力均可激發潛在病毒感染，導致症狀惡化。
+
+#### 解決方法
+1. **管理壓力**：
+   - 認識並評估個人壓力來源，采取措施降低壓力水平。
+2. **使用抗病毒草藥**：
+   - 尤其是Sweet Wormwood Root（甜 Wormwood 根），具有顯著的抗寄生蟲、抗真菌和抗病毒效果。
+
+#### 健康建議
+1. **飲食調整**：
+   - 確保飲食健康，避免加重身體負擔。
+2. **草藥治療**：
+   - 使用如Sweet Wormwood Root等 herbs 來針對潛在病毒感染。
+3. **生活方式的改變**：
+   - 管理壓力、保持良好的睡覺習慣和規律運動。
+
+#### 總結
+- 要感到更年輕，除了飲食和生活方式的調整外，還需注意潛在病毒感染的影響。管理和降低壓力水平是關鍵，配合有效的抗病毒治療可以顯著改善身體狀況。
+
+---
+
+### 英文整理：Article Key Points in Sections
+
+#### Core Theme
+- Exploring how to eliminate latent viruses and manage stress to improve physical condition, thereby feeling younger and more energetic.
+
+#### Main Concepts
+1. **Impact of Latent Viral Infections**:
+   - Latent viruses (e.g., herpesviruses, Epstein-Barr virus, cytomegalovirus) can lead to chronic fatigue and other symptoms.
+2. **Role of Stress**:
+   - Stress is a primary trigger for reactivating latent infections, leading to immune responses and bodily discomfort.
+
+#### Problem Causes
+1. **Latent Viral Infections**:
+   - A significant portion of the population is infected with herpesviruses (e.g., HSV-1, HSV-2) and Epstein-Barr virus.
+2. **Stress**:
+   - Chronic or acute stress can reactivate latent infections, worsening symptoms.
+
+#### Solutions
+1. **Managing Stress**:
+   - Recognize and assess personal sources of stress; take measures to reduce stress levels.
+2. **Using Antiviral Herbs**:
+   - Particularly Sweet Wormwood Root (Artemisia annua), known for its potent antiparasitic, antifungal, and antiviral properties.
+
+#### Health Recommendations
+1. **Dietary Adjustments**:
+   - Ensure a healthy diet to avoid further burdening the body.
+2. **Herbal Therapy**:
+   - Use herbs like Sweet Wormwood Root to target latent viral infections.
+3. **Lifestyle Changes**:
+   - Manage stress, maintain good sleep habits, and engage in regular exercise.
+
+#### Conclusion
+- To feel younger, dietary and lifestyle adjustments are essential, along with addressing the impact of latent infections. Managing and reducing stress levels is crucial, and effective antiviral treatment can significantly improve physical condition.
 </details>
 
 <details>
-<summary>3962. The BEST Natural Antibiotic Drink (Home Remedy Formula)</summary><br>
+<summary>3962. [2022-05-16] The BEST Natural Antibiotic Drink (Home Remedy Formula)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vnvfiCXs45E" target="_blank">
     <img src="https://img.youtube.com/vi/vnvfiCXs45E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：自然抗菌飲料的核心與應用
 
+#### 核心主題
+- **自然抗菌飲料的研究與開發**  
+  探讨利用天然食材（如大蒜、薑黃、青柠等）制成抗菌飲料的可行性及其在健康領域的应用。
+
+---
+
+#### 主要觀念
+1. **自然抗菌成分的作用機制**  
+   - 大蒜含有多種硫化物，具備強效抗菌特性。
+   - 薑含有薑辣素，具有抗炎與抗菌效果。
+   - 檸檬富含維生素C和類黄酮，增強免疫系統。
+   - 曼uka蜂蜜含有的MGO成分，具備抗菌活性。
+
+2. **飲料配方的核心要素**  
+   - 大蒜、薑、檸檬、曼uka蜂蜜、橄欖油（或椰子油）。
+   - 醋酸的酸化作用，促進免疫細胞活化。
+
+---
+
+#### 問題原因
+- 現代抗生素濫用導致耐藥性病菌增多，尋找自然抗菌方法迫在眉睫。
+- 市面上缺乏針對性的天然抗菌產品，消費者需求未被充分滿足。
+
+---
+
+#### 解決方案
+1. **飲料配方設計**  
+   - 將大蒜、薑、檸檬等天然食材混合，利用其抗菌特性。
+   - 加入曼uka蜂蜜提升抗菌功效。
+   - 使用橄欖油或椰子油來提高植物化學物的溶解度。
+
+2. **製備工藝優化**  
+   - 通過冷壓榨和混合工藝保留食材活性成分。
+   - 搮溫控制在4°C，確保飲料 potency 隨時間增加。
+
+---
+
+#### 健康建議
+1. **服用方式**  
+   - 在感染初期服用，每次一小杯（約30毫升），每日可服用4次。
+
+2. **注意事項**  
+   - 孕婦及幼兒需謹慎使用，建議先諮詢醫生。
+   - 避免長期大量攝取，以防胃腸不適。
+
+---
+
+#### 結論
+- 本飲料配方基於天然抗菌成分，提供了一種安全有效的選擇。
+- 其酸化作用和多種活性成分的綜合作用，可顯著增強免疫功能。
+- 推薦廣泛 applicability，特別是在抗生素濫用問題日益嚴重的情況下。
 </details>
 
 <details>
-<summary>3961. The BEST Keto and Intermittent Fasting Tips - Dr. Berg</summary><br>
+<summary>3961. [2022-05-15] The BEST Keto and Intermittent Fasting Tips - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=mGG464f_N_8" target="_blank">
     <img src="https://img.youtube.com/vi/mGG464f_N_8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理重點
 
+#### 核心主題
+- 維生素C deficiency affects brain function and overall health.
+- The role of diet, particularly low-carb and ketogenic diets, in promoting brain health and cognitive function.
+
+#### 主要觀念
+1. **Vitamin C Deficiency and Cognitive Decline**:
+   - Vitamin C is essential for the production of neurotransmitters like dopamine and serotonin.
+   - Chronic deficiency can lead to severe mental disorders such as depression and schizophrenia.
+   - Oxidative stress from vitamin C deficiency contributes to neurodegenerative diseases.
+
+2. **Dietary Impact on Brain Health**:
+   - Low-carb and ketogenic diets are effective in managing conditions like epilepsy, Alzheimer's disease, and Parkinson's by stabilizing blood sugar levels and reducing inflammation.
+   - These diets promote ketosis, which provides an alternative energy source for the brain, improving cognitive function.
+
+#### 問題原因
+- **Nutritional Deficiencies**: Insufficient intake of vitamin C and other essential nutrients can impair neurotransmitter production and lead to oxidative stress.
+- **High-Carb Diets**: Excessive carbohydrate consumption can cause blood sugar fluctuations, contributing to fatigue and cognitive decline.
+- **Hidden Sugars and Artificial Sweeteners**: Many processed foods, including "keto-friendly" snacks, contain hidden sugars and sweeteners that can disrupt ketosis and hinder progress.
+
+#### 解決方法
+1. **Address Nutritional Deficiencies**:
+   - Ensure adequate intake of vitamin C through fruits, vegetables, and supplements.
+   - Incorporate a variety of vitamins and minerals to support brain function.
+
+2. **Adopt a Low-Carb or Ketogenic Diet**:
+   - Reduce carbohydrate intake to stabilize blood sugar levels and promote ketosis.
+   - Focus on consuming healthy fats, proteins, and low-glycemic index vegetables.
+
+3. **Avoid Hidden Sugars and Artificial Sweeteners**:
+   - Read food labels carefully to avoid hidden sugars like maltodextrin and high-fructose corn syrup.
+   - Choose natural sweeteners in moderation, if necessary.
+
+4. **Stay Hydrated and Monitor Electrolytes**:
+   - Adequate hydration is crucial for maintaining cognitive function and physical performance.
+   - Monitor electrolyte levels, especially during ketosis, to prevent dehydration and fatigue.
+
+#### 健康建議
+1. **Prioritize Nutrient-Dense Foods**:
+   - Focus on whole, unprocessed foods rich in vitamins, minerals, and antioxidants.
+   - Include a variety of vegetables, healthy fats (e.g., avocados, nuts), and lean proteins.
+
+2. **Practice Intermittent Fasting**:
+   - Time-restricted eating can enhance ketosis and improve mental clarity.
+
+3. **Regular Physical Activity**:
+   - Engage in regular exercise to support brain health and overall well-being.
+
+4. **Monitor Progress**:
+   - Track changes in energy levels, appetite, and cognitive function rather than relying solely on weight loss.
+   - Adjust diet and lifestyle habits as needed based on progress.
+
+#### 結論
+- Addressing vitamin C deficiency and adopting a low-carb or ketogenic diet can significantly improve brain health and cognitive function.
+- A holistic approach combining proper nutrition, hydration, exercise, and mindful eating is essential for achieving optimal health outcomes.
+- Consistency and patience are key to reaping the long-term benefits of these dietary and lifestyle changes.
 </details>
 
 <details>
-<summary>3960. 9 Unexpected Amazing Benefits of Apple Cider Vinegar (ACV)</summary><br>
+<summary>3960. [2022-05-14] 9 Unexpected Amazing Benefits of Apple Cider Vinegar (ACV)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=9L3qDUTN550" target="_blank">
     <img src="https://img.youtube.com/vi/9L3qDUTN550/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題  
+- 探讨蘋果醋（Apple Cider Vinegar, ACV）的多種健康益處及其科學依據。  
+
+#### 主要觀念  
+1. **核心成分**：蘋果醋的主要活性成分是乙酸（Acetic Acid），它是短鏈脂肪酸中最豐富的一種。  
+2. **能量來源**：乙酸為結腸細胞提供約70%的能量，而全身細胞約10%的能量來自此化合物。  
+3. **多功能性**：蘋果醋在抗炎、免疫調節、抗微生物、抗癌等方面具有多種健康效益。  
+
+#### 問題原因  
+- 市面上常見的搜索工具（如Google）往往無法有效查找特定研究數據，限制了人們對某些健康產品的深入了解。  
+
+#### 解決方法  
+1. **使用專業工具**：利用.illicit.org等高級搜索引擎來查找更多難以發現的研究數據。  
+2. **科學證據支持**：通過研究文獻和臨床試驗，驗證蘋果醋的健康益處。  
+
+#### 健康建議  
+1. **食用方式**：將蘋果醋稀釋後服用（如每日1茶匙至1湯匙），以避免對組織造成刺激。  
+2. **多種用途**：除內部攝取外，蘋果醋还可用于皮膚炎症、耳部真菌感染等外部問題。  
+
+#### 結論  
+- 蘋果醋是一種多功能的天然健康補充劑，具有抗炎、抗菌、抗癌等多种潛在益處，值得進一步研究和應用。  
+---
+
+### Article in English  
+
+This article explores the various health benefits of apple cider vinegar (ACV), highlighting its scientific basis and practical applications. The key points are summarized as follows:
+
+#### Core Theme  
+- Investigating the multiple health benefits of ACV and their scientific rationale.
+
+#### Key Concepts  
+1. **Primary Component**: The main active compound in ACV is acetic acid, a short-chain fatty acid that is highly abundant.  
+2. **Energy Source**: Acetic acid provides about 70% of the energy needed by colon cells and approximately 10% by all body cells.  
+3. **Versatility**: ACV exhibits multiple health benefits, including anti-inflammatory, immune-modulating, antimicrobial, and anticancer properties.  
+
+#### Issues Addressed  
+- Common search engines like Google often fail to retrieve specific research data, limiting public understanding of certain health products.  
+
+#### Solutions Offered  
+1. **Use of Advanced Tools**: Employ advanced search tools like .illicit.org to access hard-to-find research data.  
+2. **Scientific Evidence**: Validate the health benefits of ACV through studies and clinical trials.  
+
+#### Health Recommendations  
+1. **Usage Guidelines**: Dilute ACV before consumption (e.g., 1 teaspoon to 1 tablespoon per day) to prevent tissue irritation.  
+2. **Diverse Applications**: Beyond internal use, ACV can also be applied externally for skin inflammation, ear fungal infections, and more.  
+
+#### Conclusion  
+- Apple cider vinegar is a multifunctional natural health supplement with potential benefits ranging from anti-inflammatory to anticancer effects, making it a subject of further research and practical application.
 </details>
 
 <details>
-<summary>3959. The BEST Foods for a Fatty Liver (MUST WATCH)</summary><br>
+<summary>3959. [2022-05-13] The BEST Foods for a Fatty Liver (MUST WATCH)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=RCXJ4zyVT7M" target="_blank">
     <img src="https://img.youtube.com/vi/RCXJ4zyVT7M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Key Points of the Article
 
+#### Core Theme: Non-Alcoholic Fatty Liver Disease (NAFLD) and Alcoholic Fatty Liver Disease
+- NAFLD affects approximately 1.7 billion people globally.
+- Alcohol-induced fatty liver disease is also prevalent, with significant health implications.
+
+#### Main Concepts:
+1. **Pathophysiology of Fatty Liver Disease**:
+   - Overconsumption of fructose leads to hepatic overload, resulting in fat accumulation.
+   - High insulin levels and inflammation contribute to the progression of fatty liver disease.
+   - A vicious cycle exists between insulin resistance, inflammation, and fat accumulation.
+
+2. **Risk Factors**:
+   - Central obesity (visceral adiposity) is a major indicator of fatty liver disease.
+   - "Skinny fat" refers to individuals with normal body weight but excessive visceral fat.
+
+3. **Intervention Tools**:
+   - **Elicit dorg**: A search tool for accessing over 200 million research papers, aiding in evidence-based information retrieval.
+
+#### Causes and Pathogenesis:
+- Fructose metabolism is unique to liver cells; excessive intake leads to fatty liver.
+- High glycemic index foods and refined carbohydrates exacerbate insulin resistance and fat accumulation.
+- Inflammation and oxidative stress contribute to disease progression.
+
+#### Solutions and Health Recommendations:
+1. **Dietary Interventions**:
+   - **Omega-3 Fatty Acids**: Found in wild-caught salmon, help reduce liver fat by improving insulin sensitivity.
+   - **Olive Oil**: Anti-inflammatory properties aid in reducing hepatic fat accumulation; ensure quality.
+   - **Cruciferous Vegetables**: Arugula, broccoli, Brussels sprouts, cabbage, radish, and Swiss chard support liver health due to high fiber and low sugar content.
+   - **Dandelion Greens**: Effective for reducing liver fat; used in salads or juices.
+   - **Garlic and Onions**: Contain sulfur compounds that promote liver detoxification and reduce fat accumulation.
+
+2. **Probiotics**:
+   - Fermented foods like sauerkraut, kimchi, and kefir improve gut-liver axis health by modulating the microbiome.
+
+3. **Lifestyle Modifications**:
+   - Coffee consumption (in moderation) may help reduce liver fat due to its caffeine and caffeic acid content.
+   - Green tea and black tea also exhibit hepatoprotective properties.
+
+4. **Supplemental Strategies**:
+   - The article references a video detailing a two-week plan to reduce liver fat by 50%, emphasizing dietary adjustments, physical activity, and stress management.
+
+#### Conclusion:
+Fatty liver disease is a significant public health issue, driven by dietary and lifestyle factors. A combination of targeted nutritional interventions, probiotics, and moderate caffeine intake can effectively mitigate hepatic fat accumulation. Evidence-based approaches, supported by tools like Elicit dorg, are essential for developing personalized treatment strategies.
 </details>
 
 <details>
-<summary>3958. 9 Unexpected Benefits of Magnesium (MUST WATCH)</summary><br>
+<summary>3958. [2022-05-12] 9 Unexpected Benefits of Magnesium (MUST WATCH)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=4HMHiY3m_t8" target="_blank">
     <img src="https://img.youtube.com/vi/4HMHiY3m_t8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理： magnesium 的重要性及健康影響
 
+#### 核心主題  
+- **植物與人體中的chlorophyll**：chlorophyll 在植物中扮演的角色及其化學結構與人體血紅蛋白的相似性。  
+- **Magnesium 的多重角色**：作為植物葉綠素形成和人體多項生理功能的重要礦物質。  
+
+---
+
+#### 主要觀念  
+1. **Chlorosis（植物中的chlorosis）**：  
+   - Magnesium 缺乏是導致植物葉片變黃的主要原因之一，類似於人類的貧血（chlorosis in humans）。  
+2. **Magnesium 的來源與吸收**：  
+   - 硬水和礦物質水是良好的 magnesium 來源。  
+   - 加熱或軟化水會降低 mineral 的吸收率。  
+3. **Magnesium 在人體中的功能**：  
+   - 參與 ATP 合成，影響能量水平。  
+   - 與維生素 D 的相互作用，提升其生物利用度。  
+   - 調控 calcium 的沉積位置，預防異常沈淀。  
+4. **Magnesium  deficiency 的影響**：  
+   - 影響微生物群平衡、神經肌肉功能、血壓調節等。  
+
+---
+
+#### 問題原因  
+1. **缺鎂的原因**：  
+   - 食物攝取不足（尤其葉綠蔬菜攝取不足）。  
+   - 水源中 magnesium 含量低或水質軟化處理。  
+   - 疾病（如糖尿病）或藥物（如利尿劑、抗生素、避孕丸）導致吸收或排出障礙。  
+2. **現代飲食習慣**：  
+   - 高度加工食品攝取過多，葉綠蔬菜攝取不足。  
+   - 水源中礦物質缺乏。  
+
+---
+
+#### 解決方法與健康建議  
+1. **增加 magnesium 的攝取**：  
+   - 通過食用富含 magnesium 的食物（如菠菜、羽衣甘藍、杏仁、南瓜子等）。  
+   - 選擇硬水或礦物質水作為飲用水。  
+2. **補充鎂劑**：  
+   - 選擇合適的鎂劑形式（如含維生素 D 的鎂複方產品）。  
+3. **避免過度稀釋 mineral**：  
+   - 避免過量飲用純淨水，保持適當的礦物質攝取。  
+4. **藥物使用注意**：  
+   - 注意某些藥物可能影響 magnesium 的吸收與排出，需諮詢醫生調整劑量或補充方式。  
+
+---
+
+#### 結論  
+- Magnesium 是維持植物健康和人體多項生理功能的關鍵礦物質。  
+- 頻繁見於硬水、葉綠蔬菜及特定補充劑中，攝取不足會引發多種健康問題。  
+- 建議通過均衡飲食和適當使用鎂劑來維持足夠的 magnesium 水準，以促進整體健康。
 </details>
 
 <details>
-<summary>3957. Female Bladder Leakage (THE BEST NATURAL SOLUTION)</summary><br>
+<summary>3957. [2022-05-11] Female Bladder Leakage (THE BEST NATURAL SOLUTION)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=f0PRBRC4oNs" target="_blank">
     <img src="https://img.youtube.com/vi/f0PRBRC4oNs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 文章重點整理： Overactive Bladder 的病因與治療策略
 
+## 核心主題
+- **Overactive Bladder (OAB)** 及其相關症狀（如尿 leakage、膀胱控制能力下降等）的病因探討及治療建議。
+
+## 主要觀念
+1. **自主神經系統的作用**：
+   - OAB 的主要病因與自主神經系統功能失調有關。
+   - 药物常使用抗膽硷ergic藥物，這些藥物阻斷乙酰膽堿，影響膀胱的收縮和放鬆功能。
+
+2. **胰島素抵抗的重要性**：
+   - 胰島素抵抗是導致 OAB 的關鍵因素之一。
+   - 高胰島素血症會干擾自主神經系統的功能，進而影響膀胱肌肉（如 detrusor 肌肉）的正常運作。
+
+3. **其他病因**：
+   - 激素變化（尤其是更年期後雌激素下降）也會影響膀胱功能。
+   - 分娩、肥胖、慢性便秘、長期咳嗽等因素會加重症狀。
+
+## 問題原因
+1. **神經性因素**：
+   - 自主神經系統失調導致膀胱肌肉失控。
+   - 胰島素抵抗干擾神經系統平衡，進一步加重心臟問題。
+
+2. **激素變化**：
+   - 雌激素水平下降影響盆底肌肉和膀胱功能。
+
+3. **生活方式因素**：
+   - 不健康的生活方式（如高糖飲食、缺乏運動）加重胰島素抵抗。
+   - 慢性疾病（如哮喘、慢性咳嗽）和壓力進一步擾亂神經系統平衡。
+
+## 解決方法
+1. **飲食調整**：
+   - 健康酮飲食：限制每日碳水化合物攝取量至 20-50克，並增加健康脂肪的攝取。
+   - 配合短時間禁食（如 16:8 間歇性禁食）以改善胰島素抵抗。
+
+2. **盆底肌肉訓練**：
+   - Kegel 練習：每天進行 3 次，每次 10 下（每下 contraction 和 relaxation 各持續 5秒）。此方法可增強膀胱控制能力。
+
+3. **自然療法**：
+   - 使用具有調節自主神經系統作用的草藥：
+     - Cretiva nirvala stem bark（Varuna）
+     - 軟鞭草（Horse Tail）
+     - 紫杉科植物（Lindura aggregata）
+
+## 健康建議
+1. **飲食與生活方式**：
+   - 採用健康酮飲食並配合間歇性禁食，以降低胰島素水平。
+   - 減少壓力，保持規律運動。
+
+2. **醫療干預**：
+   - 在症狀嚴重或自我照護無效時，建議諮詢專業醫師，考慮藥物治療或其他療法。
+
+3. **草藥研究**：
+   - 選擇已通過雙盲 placebo 控制試驗的天然產品。
+   - 確保所選產品包含.Varuna、Horse Tail 和 Lindura aggregata 三種成分。
+
+## 結論
+- OAB 的治療需綜合考慮病因、生活方式調整和自然療法。
+- 適當的飲食控制（如酮飲食）、運動訓練（Kegel 練習）及草藥使用可有效改善症狀。
+- 如症狀持續或加重，建議尋求專業醫療幫助。
 </details>
 
 <details>
-<summary>3956. 7 SURPRISING GMO Foods That You Must Avoid</summary><br>
+<summary>3956. [2022-05-10] 7 SURPRISING GMO Foods That You Must Avoid</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3eybu-IgeQc" target="_blank">
     <img src="https://img.youtube.com/vi/3eybu-IgeQc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題
+- 探讨生物工程食品（Bioengineered Food Ingredients）及其与转基因食品（GMOs）的关系。
+
+#### 主要觀念
+1. **Bioengineered Food Ingredients 的定義**：
+   - 指含有可檢測的基因材料，通過實驗室技術修改，無法自然形成或傳統育種。
+   
+2. **Food Manufacturing Companies 的策略**：
+   - 使用新名稱 "_bioengineered_” 來避開 GMO 标記andatory labeling laws。
+   - 避免直接使用 GMO 標籤，改用 QR 碼、電話號碼等方式提供信息。
+
+3. **消費者認知不足**：
+   - 大部分消費者不了解 Bioengineered 的含義，導致難以做出知情選擇。
+
+#### 問題原因
+1. **GMO 标籤的挑戰**：
+   - 州法規要求 GMO 產品標籤，廠商擔心影響銷售。
+   
+2. **加工食品中的 GMO 隱藏性**：
+   - 多數加工食品使用高壓、高溫等工藝，使 GMO 成分無法檢測。
+
+3. **消費者信息不對稱**：
+   - 消費者缺乏必要知識，難以通過標籤識別_bioengineered_成分。
+
+#### 解決方法
+1. **提高消費者的教育水平**：
+   - 推廣有關 Bioengineering 的知識，幫助消費者做出明智選擇。
+   
+2. **強化食品標籤要求**：
+   - 要求廠商更透明地披露ingredients 情況，避免過度依賴 QR 碼或電話號碼。
+
+3. **支持非 GMO 和有機產品**：
+   - 非 GMO 和有機食品提供安全選擇，幫助消費者繞道_bioengineered_成分。
+
+#### 健康建議
+1. **閱讀食品標籤**：
+   - 注意成份來源，避免含 Bioengineered 成分的食品。
+   
+2. **選擇非 GMO 和有機產品**：
+   - 對於易受 GMO 影響的食物（如黃瓜、甜菜、木瓜等），優先選擇有機或非 GMO 產物。
+
+3. **了解加工食品的風險**：
+   - 加工食品中 GMO 成分可能不可檢測，考慮減少食用量。
+
+#### 結論
+- Bioengineering 已成為現代食品工業的重要部分，但其隱藏性質和標籤不透明性對消費者造成挑戰。
+- 消費者需提高警覺，依賴教育和選擇非 GMO 產品來降低健康風險。
 </details>
 
 <details>
-<summary>3955. NEVER Put This on Your Face</summary><br>
+<summary>3955. [2022-05-08] NEVER Put This on Your Face</summary><br>
 
 <a href="https://www.youtube.com/watch?v=jC3FurKvP60" target="_blank">
     <img src="https://img.youtube.com/vi/jC3FurKvP60/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題
+- **商業肥皂的潛在危害**  
+  文章主要探討商業肥皂中常見的有害化學成分及其對皮膚健康和全身健康的影響。
+
+#### 主要觀念
+1. **化學成分的危害**  
+   - **硫酸鹽（Sulfates）**：如鈉月桂硫酸鹽（Sodium Lauryl Sulfate）和氨甲基月桂硫酸鹽（Ammonium Lauryl Sulfate），這些成分用於產生泡沫，但可能引起皮膚刺激、炎症和乾燥。
+   - **para羥基苯甲酸酯類（Parabens）**：常見的防腐劑，可能具有雌激素效應，影響生育能力並損害皮膚微生態平衡。
+   - **甲醛（Formaldehyde）**：用於殺菌，但具致癌性和乾燥性。
+   - **合成香料（Synthetic Fragrances）**：多為石油衍生物，可能含有刺激性溶劑，對皮膚有害。
+   - **三氯生（Triclosan）**：強效抗菌劑，殺滅有益菌，導致耐藥菌滋生。
+   - **煤焦油染料（Coal Tar Dyes）**： Petroleum-based 產品，易乾燥並刺激皮膚。
+
+2. **商業肥皂的問題**  
+   - 商業肥皂常含有多種有害化學成分，這些成分可能穿透皮膚，進入血液，影響整體健康。
+   - 長期使用商業肥皂可能导致皮膚乾燥、敏感性皮膚炎、痤疮和其他皮膚問題。
+
+#### 問題原因
+- **化學成分的毒性**：多數商業肥皂中的化學物質具有刺激性、致敏性和潛在致癌性。
+- **破壞皮膚屏障和微生物平衡**：抗生素和防腐劑殺死有益菌，導致皮膚生態失衡，引發感染和炎症。
+- **缺乏自然成分**：合成香料和其他添加劑取代了天然成分，增加了對皮膚的負擔。
+
+#### 解決方法
+1. **選擇更健康的肥皂**  
+   - 選擇不含硫酸鹽、para羥基苯甲酸酯類、甲醛、合成香料和三氯生的肥皂。
+   - 使用含有天然成分（如必需油）和未添加合成 fragrance 的產品。
+
+2. **自制或手作坊肥皂**  
+   - 自己製作肥皂，使用健康的脂肪和自然成分，避免有害化學物質。
+
+3. **閱讀成份標籤**  
+   - 仔細閱讀產品成份，避免購買含有多種有害成分的商品。
+
+#### 健康建議
+- 避免長期使用商業肥皂，尤其是面部清潔。
+- 使用天然、無害的清潔用品，維持皮膚健康和整體免疫功能。
+- 督促廠商提高產品透明度，提供更多環保和健康的選擇。
+
+#### 結論
+- 商業肥皂中的有害成分對皮膚和全身健康有潛在危害。
+- 選擇更自然、無害的清潔用品是維護皮膚健康的重要步驟。
+- 提高消費者對產品成份的覺察，促進市場上更多健康的產品選擇。
 </details>
 
 <details>
