@@ -1500,113 +1500,536 @@
 </details>
 
 <details>
-<summary>3172. Why You Can't Live Without Viruses</summary><br>
+<summary>3172. [2020-11-27] Why You Can't Live Without Viruses</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5WJg00tcQgI" target="_blank">
     <img src="https://img.youtube.com/vi/5WJg00tcQgI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理
 
+#### 核心主題：病毒的重要性及其對生態系統和人類健康的影響
+
+- 病毒在全球生態系統中扮演著關鍵角色。
+- 病毒數量庞大（10^31），主要為非致病性，對維持生物多樣性和生態平衡至關重要。
+- 病毒控制细菌數量，防止其失控，並促進微生物的多樣性。
+
+#### 主要觀念：病毒在自然界中的功能
+
+- ** nutrient cycling**: 病毒幫助分解有機物，促進營養循環，支持植物（如浮游植物）生長。
+- **氧氣生產**: 浮游植物產生地球上50%的氧氣，病毒在其生態中起關鍵作用。
+- **免疫系統演化**: 病毒促使宿主免疫系統演化， giú助力於獲得性免疫的形成。
+
+#### 問題原因：病毒存在的必要性
+
+- 病毒是微生物群的重要組成部分，與宿主基因相互作用（人類DNA含超過10萬個病毒片段）。
+- 病毒的主要目標是生存，而非立即殺害宿主，這導致其不斷演化以降低致病性。
+
+#### 解決方法：應對病毒的策略
+
+- **疫苗接種**: 遏制病毒傳播，降低感染率和重症風險。
+- **抗病毒治療**: 鈴提供針對性干預措施，減輕症狀並促進康復。
+
+#### 健康建議：提升免疫力以應對病毒感染
+
+- **營養攝取**:
+  - 維生素D：支持免疫功能。
+  - 銅：促進抗病原體能力。
+  - 綴他汀：抵抗病毒 replication。
+- **生活方式調整**：
+  - 充足睡眠：增強免疫反應。
+  - 正常飲食：提供必需營養素，保持免疫力。
+  - 溫和運動：提升整體健康狀況。
+
+#### 結論：病毒的雙重性與人類共存的必要性
+
+- 病毒有利有弊，但其存在對生態平衡和免疫系統演化至關重要。
+- 強化免疫系統是應對病毒感染的最佳策略。
+- 通過科學手段管理和調控病毒，可最大限度降低其负面影响。
 </details>
 
 <details>
-<summary>3171. Do I Have High or Low Cortisol – Confusion Clarified on Cortisol Levels by Dr. Berg</summary><br>
+<summary>3171. [2020-11-26] Do I Have High or Low Cortisol – Confusion Clarified on Cortisol Levels by Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=P-EkWPL67G4" target="_blank">
     <img src="https://img.youtube.com/vi/P-EkWPL67G4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- **高皮質醇和低皮質醇的診斷與症狀混淆**  
+  探讨了高皮质醇（如库欣综合征）和低皮质醇（如艾迪生病）的症状可能相互重疊，導致診斷困難。
+
+#### 主要觀念
+1. **高皮质醇症候群（Cushing's Syndrome）**  
+   - 特征：肌肉萎縮、圓臉、失眠、血糖紊亂、痤疮、白癜風、骨質疏松等。
+   - 病因：腎上腺分泌過多皮質醇。
+   - 稀少性：每年約3/100萬人患病。
+
+2. **低皮质醇症候群（Addison's Disease）**  
+   - 特征：體瘦、白癜風、免疫系統Poor、鹽分 cravings等。
+   - 病因：腎上腺分泌不足。
+   - 稀少性：每年約1/10,000人患病。
+
+3. **亞clinical 皮质醇問題**  
+   - 定義：皮质醇水平在血液或唾液檢測中可能未顯示明顯異常，但在晚期才會被察覺。
+   - 病因：皮质醇受體抵抗（Glucocorticoid Resistance），類似於胰島素抵抗。
+
+#### 問題原因
+- **皮质醇受體抵抗（Glucocorticoid Resistance）**  
+  - 概念：皮质醇受體功能減退，導致激素效果降低。
+  - 影響：即使皮质醇分泌正常，也可能出現類似高或低皮质醇的症状。
+
+#### 解決方法
+1. **壓力管理**  
+   - 根本措施： identifies and addresses the sources of stress to reduce cortisol production.
+
+2. **藥物治療的研究方向**  
+   - 調研新藥：開發Glucocorticoid Receptor Agonists，以刺激受體功能。
+   - 傾向於自然方法：例如Panax Ginseng等中草藥可能具有激發受體的作用。
+
+#### 健康建議
+1. **診斷與檢測**  
+   - 注意高皮质醇和低皮质醇的症狀相似性，及時就醫。
+   - 使用血液或唾液檢測評估皮質醇水平。
+
+2. **壓力管理的重要性**  
+   - 减輕壓力是改善皮质醇相關問題的核心策略。
+
+3. **藥物使用的考量**  
+   - 避免使用如prednisone等合成皮质醇藥物，因其副作用顯著。
+   - 採取自然或中草藥方法時需謹慎，並配合壓力管理。
+
+#### 結論
+- 確診高或低皮质醇問題需精確的檢測和專業醫療評估。
+- 皮质醇受體抵抗可能是導致症狀混淆的重要原因。
+- 壓力管理和自然療法是改善相關健康狀況的有效途徑。
 </details>
 
 <details>
-<summary>3170. What to do For Lump in Throat? – Remedies by Dr.Berg</summary><br>
+<summary>3170. [2020-11-26] What to do For Lump in Throat? – Remedies by Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=UAzRA1oywfw" target="_blank">
     <img src="https://img.youtube.com/vi/UAzRA1oywfw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：咽部異物感（Lump in the Throat）
 
+### 主要觀念：
+1. **解剖結構**：
+   - 喉部（Pharynx）
+   - 喉嚨（Larynx）及其聲帶
+   - 管（Trachea）
+   - 食道（Esophagus）
+   - 蝙蝠肌（Epiglottis）
+
+2. **常見原因**：
+   - 紧張或壓力
+   - 病毒感染
+   - 低血鈣症（Hypocalcemia）
+   - 酸 reflux（GERD）
+   - 膳食中維生素 D 和鈣攝取不足
+
+3. **臨床症狀**：
+   - 咽喉部有阻塞感
+   - 肉體性抽搐（Tetany）
+   - 聲音粗糙或嘶啞（Stridor）
+
+### 問題原因：
+1. **神經因素**：
+   - 自主神經系統的不平衡，尤其是副交感神經（Vagus Nerve）和 sympathetic 神經的作用。
+   - 高度敏感的喉部結構在壓力下容易痙攣。
+
+2. **代謝失衡**：
+   - 低血鈣症引發喉部肌肉痙攣。
+   - 酸 reflux 可能與胃酸不足（Hypochlorhydria）有關，影響鈣的吸收。
+
+3. **營養缺乏**：
+   - 維生素 D 和鈣攝取不足，導致血鈣濃度降低。
+   - 病毒感染可能加重喉部痙攣。
+
+### 解決方法：
+1. **藥物治療**：
+   - 鈣鹽（Calcium Lactate 或 Calcium Orotate）：用於緩解肌肉痙攢。
+   - 补充維生素 D：改善血鈣濃度。
+
+2. **生活方式調整**：
+   - 管理壓力和情緒，避免過度緊張。
+   - 調整飲食，增加富含鈣和維生素 D 的食物攝取。
+
+3. **對症治療**：
+   - 對 acid reflux 進行相應的治療，改善胃酸不足問題。
+
+### 健康建議：
+1. **營養補充**：
+   - 每天於空腹時服用鈣劑（2-3次）。
+   - 維生素 D 和鈣質需共同攝取以提高吸收率。
+
+2. **壓力管理**：
+   - 適當放鬆，避免長期處於高壓狀態。
+
+3. **定期檢查**：
+   - 如症狀持續或加重，及時就醫檢查。
+
+### 結論：
+咽部異物感通常與壓力、低血鈣症、酸 reflux 和營養缺乏等因素有關。通過補充鈣質和維生素 D、管理壓力以及調整飲食習慣，可以有效緩解症狀。若情況未改善，建議尋求專業醫療幫助。
+
+---
+
+### 縮要：
+咽部異物感是一種常見的不適症狀，主要與壓力、低血鈣症、酸 reflux 和營養缺乏有關。喉部結構的高度敏感性使其在自主神經系統失衡時容易痙攣。建議採取補充鈣質和維生素 D、管理壓力及調整飲食等措施來緩解症狀。若症狀持續，應及時就醫檢查以排除其他潛在疾病。
 </details>
 
 <details>
-<summary>3169. Gained 3 Pounds From Only 1 Pound of Food? How Could This Happen?</summary><br>
+<summary>3169. [2020-11-25] Gained 3 Pounds From Only 1 Pound of Food? How Could This Happen?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=e32530qunyg" target="_blank">
     <img src="https://img.youtube.com/vi/e32530qunyg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題  
+- 離奇古怪的體重變化：進食少量食物後為什麼會增重三磅。  
+
+#### 主要觀念  
+- 糖原（glycogen）存儲機制與水合作用的關聯性。  
+- 消耗碳水化合物後，人體如何保留水分。  
+
+#### 問題原因  
+- 進食含糖或高碳水化合物的食物會導致血糖升高，刺激胰島素分泌。  
+- 糖原存儲過程中每克糖原會伴隨三至四克的水量被儲存。  
+- 单一餐次攝入大量碳水化合物會迅速增加體內糖原和水分存儲，從而造成短時間內的體重增加。  
+
+#### 解決方法  
+1. 減少高碳水化合物的攝取，避免血糖波動和過量糖原存儲。  
+2. 增加 potassium 的攝取，幫助排出 excess 水分。  
+
+#### 健康建議  
+- 選擇低GI（升糖指數）食物，穩定血糖水平。  
+- 確保飲食中包含足夠的礦物質，尤其是 potassium，以促進水分平衡。  
+- 保持規律的飲食習慣，避免暴飲暴食，特別是高碳水化合物和含糖食物。  
+
+#### 結論  
+- 短時間內體重的快速增加通常是由于糖原存儲和水分潴留造成的，而非脂肪積累。  
+- 通過調整飲食結構和攝取足夠的礦物質，可以有效管理體重並改善整體健康狀況。
 </details>
 
 <details>
-<summary>3168. Nuts Are Not a Healthy Snack</summary><br>
+<summary>3168. [2020-11-25] Nuts Are Not a Healthy Snack</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5WI4_eUhJI0" target="_blank">
     <img src="https://img.youtube.com/vi/5WI4_eUhJI0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **坚果作为健康零食的争议**：文章讨论了坚果虽然营养丰富，但其作为零食摄入可能带来负面影响。
 
+### 主要觀念
+1. **坚果的营养价值**：
+   - 1盎司坚果约含14.2克脂肪、6克蛋白质、6.1克碳水化合物和3.6克膳食纤维。
+   - 净碳水含量为2.5克，属于低脂、高蛋白食物。
+
+2. **零食摄入的负面影响**：
+   - 零食会刺激小肠释放胃抑制多肽（GIP），进而促进胰岛素分泌和脂肪积累。
+   - GIP还导致饥饿感增加，使人们在短时间内再次感到饿。
+
+3. **糖尿病与GIP的关系**：
+   - 糖尿病患者对GIP不敏感，无法有效降低血糖水平，导致血糖升高。
+
+### 問題原因
+- **GIP的作用机制**：零食摄入通过刺激GIP分泌，促使胰岛素释放和脂肪积累。
+- **间歇性禁食的重要性**：频繁进食会持续刺激胰岛素分泌，影响代谢健康。
+
+### 解決方法
+1. **坚果的正确食用方式**：
+   - 与正餐一起食用或饭后食用，避免作为零食单独摄入。
+   - 避免在晚上或两餐之间吃坚果。
+
+2. **糖尿病管理建议**：
+   - 糖尿病患者应采用间歇性禁食，帮助控制血糖和改善代谢健康。
+
+### 健康建議
+- **饮食模式调整**：减少零食摄入频率，选择与正餐结合的方式食用坚果。
+- **生活方式优化**：通过间歇性禁食管理体重和血糖水平。
+
+### 結論
+- **坚果的营养价值高，但食用方式至关重要**：作为单独零食可能导致代谢问题。
+- **GIP的作用机制解释了零食对胰岛素和脂肪积累的影响**。
+- **糖尿病患者应特别注意饮食模式和血糖管理**。
 </details>
 
 <details>
-<summary>3167. Should the Saliva be Acid or Alkaline?</summary><br>
+<summary>3167. [2020-11-24] Should the Saliva be Acid or Alkaline?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=SZnBfT96CFc" target="_blank">
     <img src="https://img.youtube.com/vi/SZnBfT96CFc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 1. **核心主題：口腔pH值的重要性及影響**
+   - **描述**：文章探討了 saliva 的 pH 值及其對口腔健康的影響。正常的唾液 pH 范圍為 6.2 到 7.6，既可能呈弱酸性也可能呈弱堿性。
+   - **註解**：pH 值過低（酸性過強）可能导致牙齒腐蝕和口臭；pH 值过高（堿性過強）可能導致牙石形成和其他口腔問題。這表明 saliva 的 pH 值在維持口腔健康中起著關鍵作用。
+
+#### 2. **主要觀念：酮egenic Diet 对唾液pH的影響**
+   - **描述**： ketogenic 饮食（ Keto diet）因其低碳水化合物特點，可能導致唾液過度酸性。
+   - **註解**：健康的酮飲食，即包含足夠蔬菜、蛋白質和脂肪的平衡飲食，可以幫助調節唾液 pH 值。蔬菜中的礦物質如鈣、鎂和鉀有助於中和酸性。
+
+#### 3. **問題原因： Candida感染和壓力對pH值的影響**
+   - **描述**：口腔念珠菌病（Candida）感染會導致氨的過度產生，氨為堿性，可能擾亂唾液 pH 平衡。此外，長期應激可能导致體內 pH 值失衡。
+   - **註解**：念珠菌感染和壓力是影響口腔和全身 pH 平衡的重要因素，需通過飲食調整和抗真菌治療來控制。
+
+#### 4. **健康建議：飲食調整以調節pH值**
+   - **描述**：作者推薦健康的酮飲食，即含有豐富蔬菜、蛋白質和脂肪的均衡飲食。這有助於提供必要的礦物質來中和酸性並保持 pH 平衡。
+   - **註解**：飲食中應包含多種蔬菜以增加 alkalinity，避免過度依賴高脂肪或高蛋白飲食，防止唾液過度酸化。
+
+#### 5. **問題與解決方法：pH測試的局限性**
+   - **描述**： saliva 和尿液的 pH 測試並不能提供可靠的健康數據。血液 pH 测試受到技術限制，通常難以精確測量。
+   - **註解**：pH 測試只能作為參考指標，不能用於診斷具體健康問題。 systemic factors 如飲食、壓力和感染才是更關鍵的影響因素。
+
+#### 6. **結論：飲食調整是調節pH值的最佳方法**
+   - **描述**：通過健康的酮飲食來調節 pH 值，既可控制 Candida 感染，又能平衡酸堿度。
+   - **註解**：健康的飲食習慣比依賴外部補充劑或极端 pH 誰治法更有效和安全。建議諮詢專業人員以制定個人化飲食計劃。
+
+#### 7. **健康建議：諮詢專家的重要性**
+   - **描述**：文章鼓勵有需要的人諮詢酮飲食顧問，確保飲食計劃的科學性和安全性。
+   - **註解**：專業指導可以幫助個體克服酮飲食中遇到的問題，如 constipation、頭暈等，並根據個人健康狀況進行調整。
+
+#### 8. **結論重申：pH值的調節需 holistic 方法**
+   - **描述**：pH 調節應該結合飲食、壓力管理和疾病治療多方面來考慮。
+   - **註解**：健康的口腔和全身 pH 平衡需要整體性方法，而不能單靠某一方面的調整。
+
+### 總結
+文章強調了 saliva 的 pH 值在口腔健康中的重要性，並探討了酮飲食、 Candida 感染和壓力等因素如何影響 pH 平衡。建議通過健康的酮飲食來調節pH值，并提醒讀者 p 测試的局限性。最後，鼓勵有需要的人諮詢專業人員以制定個人化的健康計劃。
 </details>
 
 <details>
-<summary>3166. Protocol for Calcified Plaque in Your Arteries – Atherosclerosis – Dr.Berg</summary><br>
+<summary>3166. [2020-11-24] Protocol for Calcified Plaque in Your Arteries – Atherosclerosis – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=2hkWSdtVGcg" target="_blank">
     <img src="https://img.youtube.com/vi/2hkWSdtVGcg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 調理動脈中鈣化斑塊的自然化合物與飲食策略  
 
+---
+
+### 主要觀念  
+1. **動脈鈣化的危險性**：動脈鈣化是心血管疾病的重要風險因子，且為死亡率的關鍵 Predictor。
+2. **防治策略**：除了醫學干預，自然療法和生活方式調整可作為輔助手段。
+3. **多管齊下的方法**：整合營養補充、飲食調整及代謝干預（如控制胰島素抵抗）以降低動脈鈣化的風險。
+
+---
+
+### 問題原因  
+- 運輸途徑中鈣沉積導致血管僵硬，增加心血管事件的發生率。
+- 生活方式因素：高糖、高油飲食，缺乏運動等引發胰島素抵抗，進一步加重動脈鈣化。
+
+---
+
+### 解決方法  
+1. **自然化合物**：
+   - **Allicin（大蒜中的活性成分）**：抑制動脈鈣化的動物研究證據。
+   - **Butyrate（丁酸鹽）**：通過益生菌發酵膳食纖維產生，降低動脉硬化的風險。
+   - **Lycopene（番茄紅素）**：降低血管壁厚度與僵硬度，建議搭配橄欗油以促吸收。
+   - **Omega-3脂肪酸**：抗炎作用，.cod liver oil為推薦來源；GLA（γ-亞麻酸）為有益的omega-6類型。
+   
+2. **微量營養素補充**：
+   - **維生素K2（MK-7形式）**：每日300微克，激活抑制鈣沉積的蛋白質。
+   - **tocotrienols（维生素E的一種形式）**：降低炎症反應，降低C反應蛋白水平。
+
+3. **代謝干預**：
+   - **控制胰島素抵抗**：健康生酮飲食與間歇性禁食可有效改善胰岛素敏感性。
+   
+4. **生活方式調整**：
+   - 適當運動、戒煙限酒等，以降低全身炎症反應。
+
+---
+
+### 健康建議  
+1. **飲食調整**：
+   - 增加富含Allicin（大蒜）、Lycopene（番茄）的食物攝取。
+   - 使用橄欖油促進脂溶性營養素的吸收。
+   
+2. ** supplements**：
+   - 維生素K2、tocotrienols、Omega-3脂肪酸.cod liver oil為優先選擇。
+   
+3. **代謝管理**：
+   - 遵循健康生酮飲食與間歇性禁食，避免精制糖分攝入以降低胰島素抵抗。
+
+---
+
+### 總結  
+動脈鈣化的防治需結合自然療法、飲食調整及代謝干預。通過補充Allicin、Butyrate、Lycopene、Omega-3脂肪酸、維生素K2和tocotrienols等 nutrients，並配合健康生酮飲食與間歇性禁食，可有效降低動脉鈣化的風險，改善心血管健康。
 </details>
 
 <details>
-<summary>3165. Cassava on Keto?</summary><br>
+<summary>3165. [2020-11-23] Cassava on Keto?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=L68OzCWyStk" target="_blank">
     <img src="https://img.youtube.com/vi/L68OzCWyStk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章分析報告
 
+#### 1. 核心主題  
+- 探讨如何通过特定方法（如频繁进行窗户关闭操作）来降低脓毒症的发生率。  
+- 强调在特定时间段内（例如晚上独自在家时）采取预防措施的重要性。  
+
+#### 2. 主要觀念  
+- **Sepsis Zero**：指通过某种机制或策略完全消除脓毒症的目標。  
+- **Window Closing Practices**：频繁关闭窗户以减少病菌進入的可能性。  
+- **Special Fund Allocation**：为实现目标设立专项资金，用于研发和实施相关措施。  
+
+#### 3. 問題原因  
+- 病原体通过開放式建築結構或通風系統進入室內，增加感染風險。  
+- 夜間獨处時免疫系統功能下降，易受感染影響。  
+
+#### 4. 解決方法  
+- **提高建築密封性**：使用高品質窗簾和 seals 来減少病原体进入的可能性。  
+- **夜間防護措施**：使用 air purifiers 或其他淨化設備來保持室內空氣質量。  
+- **定期健康檢查**：特別是在感染高發季節，及時發現並處理潛在問題。  
+
+#### 5. 健康建議  
+- 避免在夜間獨處時進行高風險活動（如接觸未煮熟的食物或與病菌接觸的物體）。  
+- 加強營養和免疫系統，以提高身體抵抗感染的能力。  
+- 定期清潔居住環境，特別是窗簾和其他可能藏匿病原体的區域。  
+
+#### 6. 結論  
+- 頻繁关闭窗户和其他防護措施可以顯著降低脓毒症等感染疾病的发生率。  
+- 在特定时间段內采取額外的健康防護措施對於維護整體健康至關重要。
 </details>
 
 <details>
-<summary>3164. 10 Benefits of Sheep Cheese</summary><br>
+<summary>3164. [2020-11-22] 10 Benefits of Sheep Cheese</summary><br>
 
 <a href="https://www.youtube.com/watch?v=dXCl0CIiwi0" target="_blank">
     <img src="https://img.youtube.com/vi/dXCl0CIiwi0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Core Theme: Benefits of Sheep Cheese Compared to Goat and Cow Cheeses
 
+Sheep cheese has been shown to offer numerous advantages over goat and cow cheeses in terms of nutritional quality, digestibility, and health benefits. This analysis highlights the comparative strengths of sheep cheese, particularly its superior milk composition, which translates into a more nutritious and easier-to-digest dairy product.
+
+---
+
+### Key Concepts:
+
+1. **Comparative Milk Quality**: 
+   - Sheep milk has been found to have higher concentrations of essential nutrients compared to goat and cow milk.
+   - The study emphasizes that sheep cheese derived from this milk outperforms its counterparts in terms of nutritional density.
+
+2. **Nutritional Profile**:
+   - Sheep cheese contains low lactose content due to the bacteria used in its production, making it suitable for individuals with lactose sensitivity.
+   - It provides high-quality protein and fats, including concentrated whey proteins, which are beneficial for muscle repair and overall health.
+
+3. **Digestibility**:
+   - Sheep cheese is easier to digest compared to goat and cow cheeses, likely due to its lower lactose content and higher concentration of easily digestible fats.
+   - It has a milder taste, making it more palatable for those who find stronger flavors off-putting.
+
+4. **Allergen Tolerance**:
+   - Sheep cheese is reported to be better tolerated by individuals with dairy allergies or sensitivities, suggesting it may be a safer option for such populations.
+
+5. **Mineral Ratios**:
+   - Sheep cheese has an optimal calcium-to-phosphorus ratio and a higher calcium-to-zinc ratio, which supports bone health and overall mineral balance.
+
+6. **Vitamin Content**:
+   - It is rich in vitamins A, D, and E, which are essential for immune function, skin health, and bone development.
+   - High levels of folic acid and vitamin B12 contribute to neurological health and energy production.
+
+7. **Fatty Acid Composition**:
+   - Sheep cheese contains twice the amount of butterfat compared to goat and cow cheeses, providing a richer flavor and potentially more satiating properties.
+   - It also has higher levels of medium-chain triglycerides (MCTs) and small-chain fatty acids, which are beneficial for metabolic health.
+
+---
+
+### Health Recommendations:
+
+- **Dietary Choice**: Consumers are advised to prioritize sheep cheese over goat or cow cheeses when selecting dairy products, especially for its superior nutritional profile and digestibility.
+- **Keto Diet Considerations**: Sheep cheese aligns well with ketogenic dietary needs due to its high fat content and low sugar levels. It can help individuals on a keto diet achieve their macronutrient goals without inducing blood sugar fluctuations.
+
+---
+
+### Conclusion:
+
+Sheep cheese emerges as a superior dairy product with distinct nutritional and health advantages over goat and cow cheeses. Its unique combination of high-quality protein, fats, vitamins, and minerals makes it an ideal choice for those seeking balanced nutrition and easier digestion. Incorporating sheep cheese into one's diet can be particularly beneficial for individuals following the keto lifestyle or managing lactose sensitivity.
+
+---
+
+### Additional Support:
+
+For those looking to optimize their ketogenic journey or address challenges in maintaining a keto-friendly diet, consulting with a keto specialist is recommended. The contact information provided allows interested individuals to seek personalized guidance tailored to their specific needs.
 </details>
 
 <details>
-<summary>3163. The 9 Benefits of Bile Salts</summary><br>
+<summary>3163. [2020-11-22] The 9 Benefits of Bile Salts</summary><br>
 
 <a href="https://www.youtube.com/watch?v=rWwR_UYdiu0" target="_blank">
     <img src="https://img.youtube.com/vi/rWwR_UYdiu0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理重點
 
+#### 核心主題
+- **膽囊與膽鹽的重要性**：膽囊通常被視為非必需器官，但事實上它在脂肪代謝、毒素排出和腸道健康中扮演著關鍵角色。
+- **純化膽鹽的作用**：介紹純化膽鹽的多種健康益處及其在臨床應用中的潛力。
+
+#### 主要觀念
+1. **膽鹽的功能**
+   - 膽鹽作為乳化的媒介，促進脂肪吸收和新陳代謝。
+   - 膽鹽幫助排出肝臟過濾的毒素，降低有毒物質的負擔。
+   - 膽鹽對維持腸道菌群平衡至關重要。
+
+2. **膽鹽缺乏的原因**
+   - 電子產品使用增加導致肝臟負擔加重。
+   - 現代飲食結構改變，低脂或高糖飲食影響膽鹽分泌。
+   - 药物因素（如皮質醇類藥物）干擾膽鹽生産。
+
+3. **膽鹽缺乏的表現**
+   - 消化不良、脂肪吸收障礙。
+   - 便秘或腹瀉等腸胃不適。
+   - 免疫系統功能下降，易感染。
+
+#### 問題原因
+- **現代生活方式影響**：電子產品使用過度導致肝臟負擔加重，影響膽鹽生産。
+- **飲食結構失衡**：低脂、高糖或高反式脂肪酸飲食破壞膽鹽平衡。
+- **藥物副作用**：某些藥物如皮質醇類藥物干擾膽鹽代謝。
+
+#### 解決方法
+1. **調整飲食習慣**
+   - 增加健康脂肪攝取，如橄欖油、坚果和深海魚類。
+   - 減少精製糖、反式脂肪酸和高果糖玉米糖漿的攝入。
+
+2. **補充足夠水分**
+   - 每日飲用足夠的水，促進膽道系統正常運作。
+
+3. **避免過度使用電子產品**
+   - 控制電子產品使用時間，降低肝臟負擔。
+
+4. **定期進行體育活動**
+   - 規律運動促進新陳代謝，幫助膽鹽有效循環。
+
+#### 健康建議
+- **補充純化膽鹽**：對膽囊切除或膽鹽不足的人群尤為重要。
+- **保持良好的飲食結構**：多攝取富含膳食纖維的食物，避免高糖、高脂肪飲食。
+- **注意毒素暴露**：減少環境 toxins 的接觸，保護肝臟功能。
+
+#### 結論
+- 膽鹽在身體健康中扮演著不可忽視的角色，其缺乏會引發多種健康問題。
+- 通過調整生活方式和飲食習慣，可以有效預防膽鹽不足及其相關問題。
 </details>
 
 <details>
