@@ -692,113 +692,493 @@
 </details>
 
 <details>
-<summary>437. How to Improve Eyesight With Best Exercise – Dr. Berg</summary><br>
+<summary>437. [2016-07-21] How to Improve Eyesight With Best Exercise – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xa9Qci04mPA" target="_blank">
     <img src="https://img.youtube.com/vi/xa9Qci04mPA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：如何改善近視與遠視，避免依賴眼鏡
 
+#### 核心主題
+- 眼睛焦距問題（如近視、遠視）的成因及解決方法。
+- 强調肌肉訓練在眼睛健康中的重要性。
+
+#### 主要觀念
+1. **眼球結構**：
+   - 角膜（cornea）：負責初步聚焦。
+   -虹膜（iris）：控制光線進入量。
+   - 晶狀體（lens）：主要負責焦距調整。
+   - 睫状肌（ciliary muscle）：控制晶狀體形狀，調節焦距。
+
+2. **視力問題的成因**：
+   - 長時間聚焦於近距離物體（如手機、電腦），導致睫状肌持續收縮。
+   - 缺乏遠距離視線訓練，造成肌肉疲勞與atrophy（肌肉萎縮）。
+   - 環境因素：現代生活過度依賴電子產品，戶外活動減少。
+
+#### 問題原因
+1. **睫状肌過度使用**：
+   - 長時間盯著手機、電腦等近距離螢幕，導致睫状肌持續收縮。
+   - 眼睛肌肉得不到充分休息，影響焦距調節能力。
+
+2. **缺乏遠距離視線訓練**：
+   - 現代人少有機會放眼看遠物，眼睛肌肉失去平衡的 contraction 和 relaxation。
+   - 電子產品使用過度，導致眼睛肌肉「疲勞」甚至「萎縮」。
+
+3. **環境與生活習慣**：
+   - 近視兒童戶外活動減少，影響眼睛正常發育。
+   - 工作壓力大，下班後缺少足夠的休息與放鬆時間。
+
+#### 解決方法
+1. **增加遠距離視線訓練**：
+   - 每天花40分鐘至1小時，專注於遠距物體（如雲、樹、鳥）。
+   - 放眼於自然景物，讓眼睛肌肉得以放松與恢復。
+
+2. **降低近距離用眼壓力**：
+   - 限制電子產品使用時間，尤其是兒童。
+   - 工作後多望向遠處，每隔一小時休息眼睛。
+
+3. **增加戶外活動**：
+   - 鼓勵兒童多進行戶外遊び，接觸自然光線與遠距視線。
+   - 成年人也應利用閒暇時間出門散步，放眼看遠物。
+
+#### 健康建議
+1. **生活習慣調整**：
+   - 平衡工作與休息，避免眼睛過度疲勞。
+   - 每隔20分鐘用眼後，花20秒鐘望向20英尺（約6公尺）外的物體。
+
+2. **環境改善**：
+   - 使用螢幕時保持適當距離，並調整光線以降低眼睛壓力。
+   - 在工作環境中增加綠化，讓眼睛有更多機會放鬆。
+
+3. **定期檢查與訓練**：
+   - 定期做眼部健康檢查，早期發現問題。
+   - 考慮進行眼部肌肉訓練，增強睫状肌的功能。
+
+#### 結論
+- 電子產品的普及雖帶來便利，但也導致眼睛健康問題增加。
+- 通過調整生活習慣、增加戶外活動與遠距視線訓練，可以有效改善眼睛焦距問題，降低對眼鏡的依賴。
+- 諸如睫状肌訓練等簡單的眼部運動，結合良好的用眼習慣，是維護眼睛健康的關鍵。
 </details>
 
 <details>
-<summary>436. How to Improve Memory & Connection between Alzheimer's & Insulin – Dr.Berg</summary><br>
+<summary>436. [2016-07-20] How to Improve Memory & Connection between Alzheimer's & Insulin – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=NlbdMb8oGDo" target="_blank">
     <img src="https://img.youtube.com/vi/NlbdMb8oGDo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：記憶障礙、阿茲海默症與胰島素代謝的關聯
 
+#### 主要觀念：
+1. **記憶與糖分攝取的關係**  
+   記憶失常（包括短期和長期記憶問題、失智症及阿茳海默症）可能與腦部葡萄糖供應不足有關。  
+2. **胰島素抵抗性的作用**  
+   長期過高的胰島素水平導致身體對其產生抵抗，影響 glucose 进入腦細胞和其他組織（如肌肉），造成 brain glucose 代謝失常。
+3. **tau斑塊的形成**  
+   胰島素過多可能引發 tau 斑塊，這在阿茳海默症患者腦中發現，並干擾神經功能。
+
+#### 問題原因：
+1. **胰島素抵抗性**  
+   - 長期高胰島素血症導致身體對胰島素的敏感度降低。  
+   - 腦細胞無法有效攝取 glucose，造成腦部供能不足。
+2. **糖代謝障礙**  
+   - 資料來源顯示阿茳海默症患者腦中葡萄糖 metabolism 降低，導致腦部 starvation。  
+3. **飲食因素**  
+   - 高糖、高碳水化合物飲食導致胰島素水平波動，加重抵抗性。
+
+#### 解決方法與健康建議：
+1. **飲食調整**  
+   - 切除所有添加糖和精製食品：包括白糖、砂糖、果汁、汽水、面包、意大利面、燕麥片等。  
+   - 控制水果攝取：選擇低GI水果，並限制份量。  
+   - 避免酒精與高糖酸奶：這些食物含糖量高，需特別注意。  
+2. **減少進食次數**  
+   - 減少餐次至 2-3 次，避免零食，以降低胰島素分泌的頻率。  
+3. **酮症飲食**  
+   - 减少碳水化合物攝取，增加健康脂肪比例，使身體轉為酮症狀態，提供腦部替代能量來源（ketones）。  
+4. ** apple cider vinegar 的使用**  
+   - 每天在水中加入一湯匙 apple cider vinegar，可幫助降低胰島素抵抗性。
+
+#### 結論：
+記憶障礙與阿茳海默症的成因可能與腦部 glucose 供應不足及胰島素抵抗性有關。飲食調整（尤其是限制糖分攝取）、減少進食次數、增加健康脂肪攝取以及使用 apple cider vinegar 可能有效改善這些問題。此方法旨在降低胰島素水平，恢復血糖代謝的正常功能，並為腦部提供更穩定的能量來源。
+
+---
+
+### 總結
+文章強調記憶障礙和阿茳海默症與胰島素抵抗性及血糖攝取不足的密切關聯，提出通過飲食控制、進食次數調整等方法來改善問題。
 </details>
 
 <details>
-<summary>435. Sleep, Exercise & Heart Attacks! – Dr. Berg</summary><br>
+<summary>435. [2016-07-19] Sleep, Exercise & Heart Attacks! – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=UgeiStEQv_E" target="_blank">
     <img src="https://img.youtube.com/vi/UgeiStEQv_E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Key Points from the Article
 
+#### Core Theme: The Impact of Sleep and Exercise on Cardiovascular Health
+- The article discusses the relationship between sleep quality, exercise intensity, and cardiovascular health, highlighting how inadequate sleep combined with high-intensity or long-distance exercise can significantly increase the risk of heart attacks.
+
+#### Major Concepts:
+1. **Exercise and Heart Health**: 
+   - Regular exercise is generally beneficial for heart health, reducing the risk of heart attacks.
+   - However, excessive or high-intensity exercise, when combined with poor sleep quality (e.g., insomnia or sleep apnea), can negatively impact cardiovascular function.
+
+2. **Sleep and Cardiac Function**:
+   - Sleep is crucial for the heart's recovery and overall cardiovascular health.
+   - Lack of sleep places stress on the cardiovascular system, weakening heart performance.
+
+3. **Exercise-Induced Cardiac Stress**:
+   - Engaging in high-intensity or long-distance exercise without adequate sleep can dramatically increase the risk of heart attacks due to cardiac stress.
+
+#### Causes of Increased Heart Attack Risk:
+1. **Sleep Deprivation**: 
+   - Poor sleep quality disrupts the body's ability to heal and recover, particularly affecting the cardiovascular system.
+   - Sleep deprivation leads to increased stress on the heart, making it more vulnerable to damage during physical exertion.
+
+2. **High-Intensity Exercise without Adequate Recovery**:
+   - Combining high-intensity exercise with insufficient sleep overburdens the cardiovascular system.
+   - This combination can lead to chest pain, palpitations, and other cardiac symptoms.
+
+#### Solutions and Health Recommendations:
+1. **Adjust Exercise Intensity Based on Sleep Quality**:
+   - If experiencing poor sleep or fatigue, opt for low-intensity exercises such as yoga, walking, or pilates instead of high-intensity workouts.
+   - High-intensity exercise should only be pursued when sleep quality is good and energy levels are sufficient.
+
+2. **Improve Sleep Quality**:
+   - Use natural sleep aids like the Adrenal Night Formula to enhance sleep without harmful side effects.
+   - Practice acupressure techniques targeting the adrenal glands to promote relaxation and improve sleep.
+
+3. **Monitor for Cardiac Symptoms**:
+   - Be vigilant about symptoms such as chest pain, upper back tension, or fatigue, which may indicate cardiac stress.
+   - Consult healthcare professionals if these symptoms persist.
+
+#### Conclusion:
+- Proper sleep is essential for maintaining cardiovascular health.
+- Exercising within the limits of one's energy levels and sleep quality can prevent unnecessary cardiac strain.
+- Addressing sleep issues through natural remedies and adjusting exercise routines are key strategies to maintain heart health and overall well-being.
 </details>
 
 <details>
-<summary>434. Top Zinc Deficiency Symptoms – MUST WATCH! – Dr. Berg</summary><br>
+<summary>434. [2016-07-18] Top Zinc Deficiency Symptoms – MUST WATCH! – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8XFcwkmBcK0" target="_blank">
     <img src="https://img.youtube.com/vi/8XFcwkmBcK0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章摘要與整理
 
+#### 1. 核心主題：锌缺乏症及其影響
+- 锌是一种必需的微量元素，参与超过300种酶的功能，对身体多个系统至关重要。
+- 缺锌可能导致多种健康问题，包括感官退化、免疫功能下降和皮肤问题。
+
+#### 2. 主要觀念：
+- **感官功能退化**：缺锌会导致嗅觉和味觉减退，食欲不振。
+- **皮膚問題**：痤瘡、濕疹等皮膚疾患可能與缺鋅有關。
+- **免疫系統影響**：缺锌會削弱免疫反應，使病毒復發或加重病情（如普通感冒）。
+- **生殖健康**：低 testosterone 水平可能與缺鋅有關，影響性欲。
+- **其他症狀**：白甲症、脱发、口腔潰瘍等。
+
+#### 3. 問題原因：
+- 高碳水化合物飲食：過量攝取糖分或碳水化合物會耗 depletion of zinc.
+- 土壤貧瘠：某些地區的土壤中缺鋅，導致食物中缺鋅。
+- 腸道吸收障礙：胃酸不足（如心burn患者）或糧食中的抑制物（如全穀物中的植酸）干擾鋅吸收。
+
+#### 4. 解決方法：
+- **飲食攝取**：增加富含鋅的食物，如牡蠣、瘦肉、禽類、蛋類和某些植物性食物。
+- **補充劑**：在醫生建議下使用鋅補充劑，特別是對缺鋅症狀明顯的人群。
+- **改善吸收條件**：
+  - 確保足夠的胃酸，避免因消化不良導致吸收不佳。
+  - 减少植酸干擾，通過浸泡或發芽穀物來降低植酸含量。
+
+#### 5. 健康建議：
+- 定期檢查血液中的鋅水平，特別是免疫力低下的個體、孕婦及兒童。
+- 避免過度攝取糖分和碳水化合物，以防止鋅的耗 depletion.
+- 維持均衡飲食，多攝取富含鋅的食物，並注意食物的加工方式（如全穀物攝取應適當）。
+
+#### 6. 結論：
+- 鋅是維護身體健康的重要礦物質，影響免疫、皮膚、免疫和生殖系統等功能。
+- 雖然缺鋅在工業化國家較少見，但在發展中國家仍是導致兒童死亡的重要原因之一。
+- 預防缺鋅需從飲食調整入手，必要時可考慮補充劑，並注意吸收條件的優化。
+
+---
+
+此文強調了鋅的重要性及其缺乏所引起的多樣健康問題，並提供了實用的建議來預防和管理缺鋅情況。
 </details>
 
 <details>
-<summary>433. How to Relieve Right Foot Pain – Dr. Berg</summary><br>
+<summary>433. [2016-07-18] How to Relieve Right Foot Pain – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=z3NT83k3ym8" target="_blank">
     <img src="https://img.youtube.com/vi/z3NT83k3ym8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題  
+- 腕管症候群（Carpal Tunnel Syndrome）的診斷與治療。
+
+#### 主要觀念  
+1. **腕管解剖結構**：介紹腕管的位置、神經和血管分布，強調正中神經在 wrist flexor muscles 中的作用。
+2. **臨床表現**：描述症狀如麻木、刺痛、握力減弱等，並提到可能影響患者生活品質。
+3. **診斷方法**：包括病史詢問、體格檢查（如 Phalen’s test）和影像學評估。
+
+#### 問題原因  
+1. **神經受壓**：正中神經在腕管內因解剖結構狹窄或發炎導致受壓。
+2. **風險因素**：包括重複性手部動作、骨折、脫骱、腫瘤等因素。
+3. **症狀惡化**：晚期可能出現肌肉萎縮和永久性神經損傷。
+
+#### 解決方法  
+1. **保守治療**：
+   - **休息與活動調整**：避免加重症狀的手部動作。
+   - **支具固定**：使用腕部支具減少神經受壓。
+   - **藥物治療**：非甾體抗炎藥（NSAIDs）減輕炎症和疼痛。
+   - **物理治療**：通過特定的運動和手法therapy改善症狀。
+2. **手術治療**：對於保守治療無效且症狀嚴重的患者，考慮進行腕管松解術。
+
+#### 健康建議  
+1. **早期診斷**：及時就醫以避免症狀惡化。
+2. **生活方式調整**：減少重複性手部動作，增加間歇休息。
+3. **定期評估**：跟蹤治療效果並根據情況調整治療方案。
+
+#### 結論  
+- 腕管症候群是可以有效管理的疾病，早期治療可避免永久性的神經損傷。保守治療通常能取得不錯的效果，但對於症狀持續或惡化的患者，手術是必要的選擇。
 </details>
 
 <details>
-<summary>432. Overcome an Afternoon Slump With 3 Easy Solutions – Dr. Berg</summary><br>
+<summary>432. [2016-07-17] Overcome an Afternoon Slump With 3 Easy Solutions – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_iLiht3fGW8" target="_blank">
     <img src="https://img.youtube.com/vi/_iLiht3fGW8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Summary of the Article: Understanding and Addressing Afternoon Sleepiness
 
+#### Core Theme:
+The article focuses on identifying the primary causes of afternoon sleepiness, particularly after consuming meals, and provides actionable solutions to mitigate this issue.
+
+#### Key Concepts:
+1. **Postprandial Fatigue**: The phenomenon where individuals experience tiredness shortly after eating.
+2. **Timing of Onset**: This fatigue can occur immediately after a meal or up to an hour later, often peaking around 3:00 PM.
+
+#### Causes of Afternoon Sleepiness:
+1. **High Blood Sugar Levels (Insulin Resistance)**:
+   - Consuming meals high in refined carbohydrates, sugars, and processed foods leads to rapid spikes in blood sugar.
+   - Symptoms include fatigue, unsatisfied fullness after eating, and difficulty maintaining energy levels without frequent snacking.
+
+2. **Low Stomach Acid**:
+   - Inadequate stomach acid impairs digestion, leading to symptoms such as bloating, indigestion, constipation, heartburn, and acid reflux.
+   - Poor digestion causes food to linger in the stomach, contributing to post-meal fatigue.
+
+3. **Poor Sleep Quality**:
+   - Insufficient or poor-quality sleep can exacerbate daytime drowsiness, particularly during mid-afternoon hours.
+   - Factors influencing sleep quality include environmental comfort (e.g., pillows, mattresses) and physiological stress (e.g., adrenal fatigue).
+
+#### Solutions and Health Recommendations:
+1. **Addressing High Blood Sugar**:
+   - **Dietary Adjustments**: 
+     - Eliminate refined carbohydrates, sugars, and processed foods from meals.
+     - Opt for nutrient-dense foods such as leafy greens, lean proteins, and healthy fats (e.g., avocado, nuts, olive oil).
+   - **Prevent Insulin Resistance**: Monitor blood sugar levels and adopt a diet that stabilizes glucose metabolism.
+
+2. **Improving Stomach Acid Levels**:
+   - **Apple Cider Vinegar**: Incorporate apple cider vinegar or Bane hydrochloride supplements to enhance stomach acidity.
+   - **Dietary Practices**: Sip on diluted apple cider vinegar before meals to aid digestion.
+
+3. **Enhancing Sleep Quality**:
+   - **Sleep Environment**: Invest in a comfortable pillow (e.g., My Pillow) and ensure a supportive mattress for optimal sleep.
+   - **Adrenal Support**: Use adrenal support supplements or practices, such as acupressure, to manage stress and improve sleep onset.
+   - **Consistent Bedtime Routine**: Maintain a regular sleep schedule and avoid stimulants close to bedtime.
+
+#### Conclusion:
+By addressing the underlying causes of afternoon sleepiness—insulin resistance, low stomach acid, and poor sleep quality—individuals can significantly enhance their energy levels and overall well-being. Implementing dietary adjustments, digestive aids, and improved sleep hygiene are key steps toward achieving sustained energy throughout the day.
 </details>
 
 <details>
-<summary>431. How to Fix Frequent Urination at Night (Nocturia) – Dr. Berg</summary><br>
+<summary>431. [2016-07-16] How to Fix Frequent Urination at Night (Nocturia) – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=FL-790zBpo0" target="_blank">
     <img src="https://img.youtube.com/vi/FL-790zBpo0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：如何處理夜間多尿症
 
+#### 1. 核心主題
+- 討論夜間多尿症的原因及解決方法。
+- 强調與糖尿病（尤其是 Diabetes Cetus）和高血糖（Diabetes Mellitus）的關聯。
+
+---
+
+#### 2. 主要觀念
+- **抗利尿激素的作用**：抗利尿激素（ADH）負責控制體內水分 retention，若被阻斷會導致大量排泄。
+- **糖分與水分的关系**：高血糖或攝取過多糖分會導致水隨糖分排出，增加尿液量。
+
+---
+
+#### 3. 問題原因
+- **抗利尿激素受阻**：Diabetes Cetus 阻止抗利尿激素作用。
+- **高血糖**：血液中過高的葡萄糖進入腎臟和尿液，帶動水分流失。
+- **低 potassium 和 B 維生素缺乏**：影響胰島素需求，間接導致血糖失衡。
+
+---
+
+#### 4. 解決方法
+1. **飲食調整**：
+   - **限制糖分攝取**：避免含糖食物、果汁、酒精及加工食品。
+   - **增加健康脂肪攝取**：如牛油果、橄欖油等，幫助穩定血糖。
+   - **增加膳食纖維**：促進腸道健康，控制血糖。
+
+2. **生活習慣調整**：
+   - **避免零食**：降低胰島素水平，防止血糖波動。
+   - **少量多餐**：每日2-3餐，避免暴食。
+   - **增加高 potassium 食物**：如蔬菜、牛油果，幫助降低胰島素需求。
+
+3. **補充營養素**：
+   - **B 維生素**：選擇未强化的營養 yeast，補充 B 細胞所需的維生素。
+
+---
+
+#### 5. 健康建議
+- 定期監測血糖水平。
+- 避免低脂飲食，因低脂會導致飢餓感和夜間零食攝取。
+- 夜間避免攝取含糖飲料或酒精。
+
+---
+
+#### 6. 結論
+- 夜間多尿症與血糖失衡密切相關。
+- 通過調整飲食、增加營養補充及改善生活習慣，可顯著改善症状。
+- 强調健康生活方式的重要性，以維持血糖穩定和整體健康。
 </details>
 
 <details>
-<summary>430. How to Reduce Bloating Quickly? Bloating Remedies – Dr.Berg</summary><br>
+<summary>430. [2016-07-15] How to Reduce Bloating Quickly? Bloating Remedies – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=A_PaHwx8p54" target="_blank">
     <img src="https://img.youtube.com/vi/A_PaHwx8p54/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：快速減少腹脹的方法
 
+### 主要觀念：
+1. 腹脹不僅影響外貌，還會導致睡眠障礙和衣物不適。
+2. 中醫理論中的腧穴按壓（	acupressure）可以幫助暫時紓解腹脹。
+
+### 問題原因：
+1. **消化系統功能紊亂**：
+   - **膽囊問題**：膽汁不足或膽囊蠕動不良導致脂肪 digestion 煩。
+   - **胰腺酶不足**：胰腺未能有效分泌消化酶，影響食物分解。
+2. **飲食因素**：
+   - **高糖、高碳水化合物食品**：如面包、 Pasta、甜點等，特別是含有麩質（gluten）的食物易引起腹脹。
+   - **脂肪與糖分的 combination**：提高胰島素水平，導致腸胃不適。
+   - **淀粉類食物**：如米飯和馬鈴薯，容易造成腹脹。
+3. **過量蛋白質攝取**：過多蛋白質可能加重腸胃負擔。
+
+### 解决方法：
+1. **腧穴按壓（Acupressure）**：
+   - **右肋下部**：按摩膽囊區，促進膽汁分泌。
+   - **左肋下部**：按摩胰腺區，刺激消化酶分泌。
+2. **飲食調整**：
+   - 避免高糖、高碳水化合物和高麩質食物。
+   - 減少脂肪與糖分的 combination，避免血糖波動。
+3. **增加胃酸**：
+   - 使用蘋果醋或含鹽酸的補充劑（如 betaine hydrochloride）來提升胃酸 levels。
+4. **膽汁補充**：
+   - 服用含純化膽鹽的サプリメント，幫助消化脂肪。
+
+### 健康建議：
+1. 短期紓解腹脹可通過腧穴按壓和飲食調整實現。
+2. 長期來說，需改善飲食習慣，避免致腹脹的食物。
+3. 若症狀持續，建議諮詢專業醫療人員，可能需要進一步的檢查和治療。
+
+### 結論：
+腹脹多數是消化系統功能紊亂和不良飲食習慣引發。通過腧穴按壓、調整飲食結構、增加胃酸和膽汁分泌等方法，可以有效減少腹脹並改善整體腸胃健康。然而，若問題持續，則需尋求專業醫療幫助以進一步診斷和治療。
 </details>
 
 <details>
-<summary>429. How to Fix Shoulder Pain – Techniques REVEALED! – Dr. Berg</summary><br>
+<summary>429. [2016-07-14] How to Fix Shoulder Pain – Techniques REVEALED! – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fLdJOMvuJGY" target="_blank">
     <img src="https://img.youtube.com/vi/fLdJOMvuJGY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理：肩部疼痛的原因與 해결 방법
 
+#### 1. 核心主題  
+- 肩膀 pain, especially in the upper back and neck, is often linked to digestive issues, particularly gallbladder problems.
+
+#### 2. 主要觀念  
+- **消化系統與肩部的連接**：文章強調了胃腸系統與肩部疼痛之間的密切關聯，特別是膽囊問題可能導致右側肩痛。
+- **神經連接**：文中提及有兩條名為Fric nerves的神經從消化系統上行至頸部，影響肩部和颈部 tightness。
+
+#### 3. 問題原因  
+- **膽囊問題**：95%的肩痛可能與膽囊相關，尤其是右側肩痛。
+- **飲食因素**：某些食物（如麵包、 Pasta、糕點、油炸食品等）可能引起膽囊 distension，進而導致肩痛。
+- **結構性損傷**：肩部可能因受傷或退化（如AC關節問題、bicipital腱損傷）而引發疼痛。
+
+#### 4. 解決方法  
+- **按摩 therapy**：  
+  - 按摩與膽囊相關的部位，以緩解肩痛。  
+  - 针对肩部不同部位的疼痛（如AC關節、bicipital腱），按壓相對應的肌肉群來缓解 pain。
+- **反向操作法**：  
+  - 若肩部因結構性損傷導致功能受限，可按壓相反部位的肌肉來恢復活動能力。例如，無法抬高手臂時，按壓對側肩膀的特定位置可能改善情況。
+- **手術介入**：  
+  - 完全撕裂的rotator cuff或supinatus肌腱可能需要手術治療。
+
+#### 5. 健康建議  
+- **飲食調整**：避免攝取易引起膽囊問題的食物，如高脂肪、油炸食品等。
+- **定期檢查**：若肩部疼痛持續或伴隨功能受限，建議及時進行超音波或其他影像學檢查以評估損傷情況。
+- **早期干預**：肩痛可能由輕微的肌肉 tightness或神經壓迫引起，及早按摩和反向操作可有效緩解症狀。
+
+#### 6. 結論  
+- 肩部疼痛的原因多樣化，需根據具體情況結合消化系統健康、結構性損傷等因素進行綜合評估。  
+- 遷延治療可能導致問題惡化，需及時採取適當的按摩、反向操作或手術等方法來恢復肩部功能。
 </details>
 
 <details>
-<summary>428. Can’t Sleep? Try These 5 Tips To Get a Better Night’s Sleep – Dr. Berg</summary><br>
+<summary>428. [2016-07-13] Can’t Sleep? Try These 5 Tips To Get a Better Night’s Sleep – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=V3rGIIFdAVA" target="_blank">
     <img src="https://img.youtube.com/vi/V3rGIIFdAVA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 提供改善睡眠 quality 的多項建議，包括睡姿、呼吸技巧、作息時間、飲食調整和壓力管理。
 
+### 主要觀念
+1. 睡眠姿勢：右侧卧有助于减轻肝脏对心脏的压力。
+2. 呼吸控制：同步化吸入和呼出的時間，改善睡眠 quality。
+3. 作息時間：最佳睡覺時間為晚上10:30至11點，避免錯過生理週期的最佳入睡時間。
+4. 脈搏率：高脈搏率可能與缺鉀有關，影響睡眠。
+5. 压力管理：使用按摩工具刺激特定穴位，幫助放鬆和改善睡眠。
+
+### 問題原因
+- 睡眠障礙可能由肝脏壓力、呼吸不均、錯過最佳入睡時間、缺鉀或高壓力引起。
+
+### 解決方法
+1. **睡姿調整**：右侧卧以减轻肝脏對心脏的壓力。
+2. **呼吸技巧**：均等吸入和呼出，每一步驟約4-5秒。
+3. **作息管理**：早於晚上10:30就寢，以配合生理週期。
+4. **飲食調整**：增加蔬菜攝取，補充鉀質，降低脈搏率。
+5. **壓力管理**：使用按摩工具刺激穴位，幫助放鬆。
+
+### 健康建議
+- 維持良好的睡眠習慣，注意飲食均衡，特別是鉀的攝取。
+- 定期進行壓力_management，以促進整體健康。
+
+### 結論
+- 通過調整睡姿、呼吸、作息時間、飲食和壓力管理，可以有效改善睡眠 quality。
 </details>
 
 <details>
