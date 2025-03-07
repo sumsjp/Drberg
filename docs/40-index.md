@@ -5125,113 +5125,610 @@ Glyphosate 的廣泛使用和現代飲食結構的問題共同導致了全球性
 </details>
 
 <details>
-<summary>4014. 7 Warning Signs of Cirrhosis (End-Stage Liver Disease) - Dr. Berg</summary><br>
+<summary>4014. [2022-07-12] 7 Warning Signs of Cirrhosis (End-Stage Liver Disease) - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=leepeUyaMG8" target="_blank">
     <img src="https://img.youtube.com/vi/leepeUyaMG8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：肝臟纖維化的病因、影響及自然療法
 
+#### 核心主題
+- 肝臟纖維化（Cirrhosis）是一種由慢性肝臟損傷引發的代償性反應，導致肝臟結構破壞和功能受損。
+- 纤维化可進一步惡化為肝硬化，嚴重影響患者健康。
+
+#### 主要觀念
+1. **肝臟纖維化的-definition**  
+   肝臟纖維化是慢性肝病的後期表現，characterized by excessive extracellular matrix deposition and distortion of liver architecture.
+
+2. **影響**
+   - 影響肝臟正常功能。
+   - 可導致多種並發症，如腹水、門脈高壓、食道靜脈曲張等。
+
+#### 病因
+- 慢性病毒性肝炎（如乙型、丙型肝炎）。
+- 长期酒精濫用。
+- 自身免疫性疾病。
+- 肝脂肪變性相關的代謝紊亂。
+- 其他因素，如 toxins exposure 或 genetic disorders.
+
+#### 解決方法
+1. **藥物治療**
+   - 使用抗病毒藥物（如丙型肝炎的 DAA 治療）。
+   - 閊善用藥物來控制症狀。
+
+2. **手術與干預**
+   - 腫瘤切除或肝臟 transplantation 在晚期病例中可能需要考慮。
+
+#### 健康建議
+##### 1. 生活方式調整
+- 戒酒：酒精是導致肝纖維化的主要因素之一。
+- 避免接觸 toxins，包括工業化學品和某些藥物。
+
+##### 2. 饮食建議
+- **酮飲食**：
+  - 採用健康的低碳水化合物飲食模式（如生酮飲食），可幫助控制血糖並減輕肝臟負擔。
+  
+- **十字花科蔬菜**：
+  - 比如 Broccoli、 kale 等，富含抗氧化劑和吲哚，有助於促進肝臟解毒功能。
+
+##### 3. 补充與營養
+- **TUDCA (熊去氧膽酸)**：
+  - 具有抗炎和保護肝細胞的作用，研究顯示其對肝纖維化有效。
+  
+- **tocotrienols**：
+  - 一種強大的抗氧化劑，可幫助分解瘢痕組織。
+
+##### 4. 頻繁禁食
+- 採用間歇性或延長禁食，可以誘導自噬作用，清除肝臟中的損壞蛋白質。
+
+##### 5. 肝臟 suppléments
+- **牛肝丸**：
+  - 充當「 decoy」，吸引抗體攻擊，從而減少對患者自身肝細胞的傷害。
+
+#### 結論
+- 虽然肝纖維化無法完全治愈，但透過綜合性的自然療法和生活方式調整，可以有效延緩病情進展、改善症狀並提高生活質素。
+- 及時干預可幫助患者更長時間地避免 transplantation 的需求。
 </details>
 
 <details>
-<summary>4013. Venous Insufficiency: This is the Most Effective and Safest Remedy for Varicose Veins</summary><br>
+<summary>4013. [2022-07-11] Venous Insufficiency: This is the Most Effective and Safest Remedy for Varicose Veins</summary><br>
 
 <a href="https://www.youtube.com/watch?v=2orzLp9o3pQ" target="_blank">
     <img src="https://img.youtube.com/vi/2orzLp9o3pQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：下肢靜脈問題的治療與預防
 
+#### 主要觀念：
+1. **靜脈系統的功能**：
+   - 静脈負責將下肢和指尖的血液回流至心脏。
+   - 與動脈不同，靜脈缺乏泵浦系統，主要依靠肌肉運動來推動血液流動。
+
+2. **靜脈問題的原因**：
+   - **肝臟疾病**：肝硬化、脂肪肝等肝臟問題會影響門脈血流，導致靜脈壓力增加。
+   - **雌激素水平失衡**：女性在妊娠後期或更年期，男性隨著年齡增長 testosterone下降，均可能引發靜脈問題。
+
+3. **慢性靜脈不足的症狀**：
+   - 下肢沉重、浮腫、疼痛、皮膚變化（光澤或皮革狀）、脱发、瘙癢、顏色改變。
+   - 常見併發症包括：靜脈曲張、蜘蛛靜脉、血栓性靜脉炎。
+
+#### 問題原因：
+1. **肝臟問題**：
+   - 肝臟受損（如脂肪肝、肝硬化）會影響血液回流，導致靜脈壓力上升。
+   - 腎臟功能異常可能加重靜脈問題。
+
+2. **激素失衡**：
+   - 雌激素過多或相對不足（如更年期後雌激素下降但孕激素更低）會影響血管功能。
+   - 男性睾酮降低導致相對雌激素水平升高。
+
+#### 解決方法：
+1. **中藥治療**：
+   - **紅藤葉提取物**：具有顯著的抗炎作用，可改善靜脈曲張、肝脾腫大、下肢浮腫等症狀。
+   - **土木瓜（Tut Cup）**：一種膽鹽，用於改善脂肪肝和肝硬化，促進膽汁流動。
+
+2. **激素平衡**：
+   - **DIM（二吲哚甲基茋）**：用於調節雌激素 dominance，改善因激素失衡引起的靜脈問題。
+
+#### 健康建議：
+1. **生活方式調整**：
+   - 適當運動（如反彈運動和步行），促進淋巴液流動。
+   - 避免長時間坐臥或站立，以減少下肢壓力。
+
+2. **飲食與健康**：
+   - 注意飲食均衡，避免加重肝臟負擔的食物。
+
+#### 總結：
+本文探討了下肢靜脈問題的成因及其治療方法，強調了靜脈功能、肝臟健康和激素平衡的重要性。建議使用紅藤葉提取物和土木瓜等中藥來改善症狀，並配合適當運動和飲食調整以促進整體健康。
 </details>
 
 <details>
-<summary>4012. DRINK 1 CUP PER DAY to Prevent Heart Attacks and a Stroke (GARLIC WATER) - Dr. Berg</summary><br>
+<summary>4012. [2022-07-10] DRINK 1 CUP PER DAY to Prevent Heart Attacks and a Stroke (GARLIC WATER) - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=U67eCv5Hd8k" target="_blank">
     <img src="https://img.youtube.com/vi/U67eCv5Hd8k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 探讨大蒜（Garlic）在心血管健康方面的多重益处及其应用。
+
+#### 主要觀念
+1. **大蒜的生物活性成分**  
+   - 大蒜含有多种生物活性化合物，如硫化物、类黄酮和抗氧化剂，这些成分赋予其显著的药理作用。
+   
+2. **大蒜对心血管系统的影响**  
+   - 通过抑制血小板聚集，降低血液黏稠度，防止血栓形成。
+   - 改善血管弹性，减少动脉 stiffness，从而降低高血压风险。
+
+3. **大蒜在血脂和胆固醇调节中的作用**  
+   - 促进胆汁酸的合成和分泌，帮助清除体内的多余胆固醇，改善脂质代谢。
+
+4. **抗微生物特性**  
+   - 大蒜具有广谱抗菌、抗真菌和抗病毒活性，有助于预防和治疗心血管系统的感染。
+
+#### 問題原因
+- 现代生活方式导致高血压、动脉硬化、高胆固醇血症等心血管疾病的风险增加。
+- 常规治疗方法（如使用血液稀释剂和降脂药物）可能伴随副作用。
+
+#### 解決方法
+1. **大蒜的天然疗法**  
+   - 利用大蒜的天然化合物来抑制血小板聚集，降低血压，改善血脂代谢。
+   
+2. **抗微生物保护**  
+   - 通过大蒜的抗菌特性预防和治疗心血管感染（如 infective endocarditis）。
+
+#### 健康建議
+1. **日常使用建议**  
+   - 推荐将大蒜融入饮食中，例如制作大蒜水或直接食用。
+   - 制作方法： crushing one clove of garlic, steeping in water with extra virgin olive oil for 15 minutes to enhance nutrient release and absorption.
+
+2. **选择优质大蒜**  
+   - 避免来源不明的大蒜，尤其是可能使用有害肥料的中国进口大蒜。建议选择本地产品或自行种植。
+
+3. **补充劑形式**  
+   - 如不便食用新鲜大蒜，可考虑高質量的大蒜サプリメント，但需注意其加工方式以确保活性成分的保留。
+
+#### 結論
+- 大蒜作为一种天然药物，在预防和治疗心血管疾病方面具有显著潜力。
+- 通过科学合理的使用方法（如大蒜水），可以最大化其健康益处，同时避免传统药物的副作用。
+- 建议公众将大蒜作为日常饮食的一部分，以维护心脏健康。
 </details>
 
 <details>
-<summary>4011. The REAL Cause of Abdominal Pain and Bloating - Dr. Berg</summary><br>
+<summary>4011. [2022-07-09] The REAL Cause of Abdominal Pain and Bloating - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=O4vu_cY43QU" target="_blank">
     <img src="https://img.youtube.com/vi/O4vu_cY43QU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理： abdominal pain and its causes and solutions
 
+#### 1. 核心主題  
+The primary focus of the article is to identify the main causes of abdominal pain and provide effective solutions through dietary and lifestyle changes.
+
+---
+
+#### 2. 主要觀念  
+- **Abdominal Pain as a Symptom**: Abdominal pain can be caused by various factors, including diet, frequency of eating, and medical interventions.
+- **Dietary Factors**: Certain foods and additives contribute significantly to digestive discomfort.
+- **Lifestyle Choices**: Overeating, frequent snacking, and poor eating habits are major contributors to abdominal issues.
+
+---
+
+#### 3. 問題原因  
+The article identifies several key causes of abdominal pain:  
+1. **High Frequency of Eating**: Constantly consuming food throughout the day overwhelms the digestive system.  
+2. **Inflammatory Foods**: Grains, seed oils (e.g., soy, corn, canola), and processed foods cause inflammation and disrupt digestion.  
+3. **Medications**: Antacids and antibiotics disrupt the gut microbiome and lead to secondary health issues.  
+4. **Synthetic Fibers**: Artificially added fibers in snacks and drinks irritate the digestive tract.  
+5. **SIBO (Small Intestinal Bacterial Overgrowth)**: Poor dietary habits can contribute to bacterial overgrowth in the small intestine.  
+
+---
+
+#### 4. 解決方法  
+The article suggests several strategies to address abdominal pain:  
+1. **Intermittent Fasting**: Reducing the frequency of meals and allowing periods of fasting to reset the digestive system.  
+2. **Eliminating Inflammatory Foods**: Removing grains, seed oils, and processed foods from the diet.  
+3. **Probiotics and Fermented Foods**: Incorporating these to restore gut health.  
+4. **Hydration**: Drinking sufficient water, especially for those prone to kidney stones.  
+5. **Supplements**:  
+   - Bile salts (TUTTLE) for upper right quadrant pain.  
+   - Enzymes for upper left quadrant discomfort.  
+6. **Dairy Elimination**: For issues related to the lower abdomen or reproductive organs.  
+
+---
+
+#### 5. 健康建議  
+- Avoid frequent snacking and adopt intermittent fasting to reduce digestive stress.  
+- Focus on a diet rich in whole, unprocessed foods, particularly vegetables, healthy fats, and lean proteins.  
+- Limit the intake of grains, seed oils, and synthetic fibers.  
+- Stay hydrated, especially with lemon water for kidney stone prevention.  
+- Consider probiotics and enzymes to support gut health.  
+
+---
+
+#### 6. 結論  
+The article concludes that most abdominal pain is caused by poor dietary habits and frequent eating patterns. By adopting intermittent fasting, eliminating inflammatory foods, and incorporating beneficial supplements and practices, individuals can significantly reduce or eliminate their digestive discomfort.
+
+--- 
+
+This structured summary captures the essence of the article, focusing on the causes, solutions, and health recommendations for addressing abdominal pain.
 </details>
 
 <details>
-<summary>4010. The BEST Vitamin to Cleanse a Fatty Liver - Dr. Berg</summary><br>
+<summary>4010. [2022-07-08] The BEST Vitamin to Cleanse a Fatty Liver - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XGq7-asWQlg" target="_blank">
     <img src="https://img.youtube.com/vi/XGq7-asWQlg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：非酒精性脂肪肝病與膽鹼 deficiency 的關聯
 
+#### 主要觀念：
+1. **非酒精性脂肪肝 disease (NAFLD)** 是導致脂肪肝的主要原因，而cohol 只是其中一個因素。
+2. 膳食中膽鹼不足是脂肪肝的重要原因之一，膽鹼是一種必需營養素，主要功能包括去除肝臟中的脂肪、參與腦和肌肉代謝以及維持細胞膜結構。
+3. **基因多形性**（polymorphism）是一種常見的遺傳缺陷，使得正常劑量的膽鹼無法有效補充 deficiency，需要增加攝取量。
+
+#### 問題原因：
+1. **營養失衡**：膽鹼不足導致脂肪不能有效地從肝臟中排出，累積形成脂肪肝。
+2. **其他因素**：
+   - 酗酒、高碳水化合物飲食、糖分過多（如高果糖玉米糖漿）。
+   - 潴菌感染、解熱鎮痛藥（如對乙酰氨基酚）、皮質類固醇等藥物影響。
+   - 接觸溶劑、石油產品、病毒等因素。
+   - 高脂肪酸（seed oils）攝取過多，導致 inflammation。
+   - 特殊情況如 **厭食症**（anorexia nervosa）、胃繞道手術（gastric bypass）、靜脈營養（parenteral nutrition）、抗生素使用等，均可引發或加重脂肪肝。
+
+#### 解決方法：
+1. **增加膽鹼攝取**：
+   - 通過飲食：蛋黃、豬肝、牛肉、雞肉、十字花科蔬菜、富含脂肪的 salmon、杏仁等。
+   - 遊動劑補充：每日約3克膽鹼。
+
+2. **調整飲食結構**：
+   - 采用低糖、低碳水化合物飲食，避免高果糖玉米糖漿和反式脂肪。
+   - 考慮酮egenic diet（生酮飲食）可加速肝臟脂肪清除，14天內可去除50%脂肪。
+
+3. **生活方式調整**：
+   - 避免過量酒精攝取。
+   - 適當運動，促進脂肪代謝。
+
+4. **醫療干預**：
+   - 對於特殊情況（如胃繞道手術後），需注意營養補充，避免靜脈營養中膽鹼不足。
+   - 使用抗生素時，注意維持腸道微生態平衡，以確保膽鹼的合成。
+
+#### 健康建議：
+1. **飲食攝取**：優先通過食物攝取膽鹼，蛋黃、肝臟等食物是良好的來源。
+2. **補充劑使用**：如有必要，可服用膽鹼補充劑，但需注意劑量和用法。
+3. **定期檢查**：脂肪肝患者應定期進行肝功能檢測，並監控膽鹼水平。
+4. **避免不良習慣**：戒酒、限制高糖高脂飲食、減少不必要的藥物攝取。
+
+#### 結論：
+膽鹼 deficiency 是導致脂肪肝的重要因素之一。通過調整飲食結構、增加膽鹼攝取以及改變生活方式，可以有效預防和改善脂肪肝問題。對於特殊情況下的患者，需結合醫療干預和個人化飲食計劃。
 </details>
 
 <details>
-<summary>4009. How Worry and Stress Affects You at the Cellular Level</summary><br>
+<summary>4009. [2022-07-06] How Worry and Stress Affects You at the Cellular Level</summary><br>
 
 <a href="https://www.youtube.com/watch?v=jBx5hJRzFFQ" target="_blank">
     <img src="https://img.youtube.com/vi/jBx5hJRzFFQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：壓力、焦慮與免疫系統的功能影響及調適策略
 
+#### 核心主題
+- **壓力對免疫系统的影響**  
+  长期慢性压力和焦虑对免疫系统有显著影响，特别是T细胞功能的抑制。
+
+#### 主要觀念
+1. **壓力的雙面性**  
+   - 短暫的压力有助于适应环境，提升能力。  
+   - 长期慢性压力（weeks to months）则会对身体造成负面影响。
+
+2. **免疫系统的受抑**  
+   - 慢性压力导致T细胞功能受限，降低免疫力，增加感染风险。
+
+3. **焦慮與恐慌 attack 的生理反應**  
+   - 焦虑和 panic attacks 会导致呼吸中断、氧气供应不足，引发身体应激反应（amygdala 和 adrenal glands 的作用）。  
+   - 身体进入“战或逃”模式，激素失衡，影响细胞功能。
+
+4. **長期壓力對全身系統的影響**  
+   - 免疫力下降：T细胞功能受限，易感染。  
+   - 神经系统受抑：前额叶皮层（frontal lobe）功能减退，执行功能（decision-making, planning, organizing）受损。  
+   - 生理功能減退：运动能力、创造力、工作效率下降。
+
+#### 問題原因
+- **慢性壓力**  
+  - 长期暴露于压力状态，缺乏恢复时间。  
+  - 导致细胞功能失调，包括线粒体活动减慢和细胞凋亡（apoptosis）增加。
+
+- **焦慮與恐慌 attack 的急性反應**  
+  - 呼吸中止或淺呼吸，导致氧气供应不足，引发身体应激反应和激素失衡。  
+
+#### 解决方法
+1. **自主控制的身體活動**  
+   - **呼吸調節**：簡單的呼吸技巧可幫助恢復平衡，改善氧氣供應。  
+   - **運動**：戶外運動、瑜伽和普拉提等活動可幫助恢復身體控制，提升能量水平。  
+
+2. **心理與行為策略**  
+   - 通過有意義的行動（executive function）來打破壓力 cycle，例如完成具體目標。  
+
+#### 健康建議
+1. **呼吸訓練**  
+   - 採用節律性呼吸技巧，平衡氧氣和二氧化碳濃度，緩解 panic attack 和壓力反應。
+
+2. **運動習慣**  
+   - 瑜伽和普拉提等全身性運動可幫助控制呼吸和肌肉 tension，提升整體身體覺察和應對能力。  
+
+3. **執行功能訓練**  
+   - 通過制定具體目標和計劃來增強前額葉皮層的功能，從而改善壓力管理和決策能力。
+
+#### 結論
+- 長期慢性壓力和焦慮會導致免疫系統和全身 physiologic systems 的功能下降。  
+- 針對性的呼吸調節、運動習慣以及有意義的行動計劃可以有效緩解壓力和焦慮，恢復身體和心理平衡。
 </details>
 
 <details>
-<summary>4008. The Vitamin Deficiency that Mimics Dementia - Dr. Berg</summary><br>
+<summary>4008. [2022-07-05] The Vitamin Deficiency that Mimics Dementia - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XcTgFlM681E" target="_blank">
     <img src="https://img.youtube.com/vi/XcTgFlM681E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 1. 核心主題  
+- **核心主題**：探索導致類似癡呆症狀的最主要維生素缺乏問題，及其對腦功能的影響。
 
+### 2. 主要觀念  
+- **維生素B12的重要性**：
+  - 維生素B12是腦功能的重要營養素。
+  - 缺乏B12會導致認知功能障礙，可能被誤診為癡呆症。
+  - B12主要來源於動物性產品，素食者或需補充劑。
+- **葉酸（Vitamin B9）的作用**：
+  - 葉酸 deficiency 可能與B12 deficiency相互作用，影響神經功能。
+- **維生素B1的重要性**：
+  - 維生素B1在三羧酸循環中起關鍵作用，缺乏會導致能量不足和神經退化。
+- **鋅（Zinc）的作用**：
+  - 鋅參與蛋白質合成和抗氧化作用， deficiency 與阿滋海默症的斑塊形成有關。
+- **維生素D的重要性**：
+  - 維生素D缺乏會加速腦部損害，影響認知功能。
+
+### 3. 問題原因  
+- **營養不平衡**：高碳水化合物飲食增加B1和鋅的需求，導致 deficiency。
+- **吸收障礙**：胃酸不足影響B12的吸收。
+- **環境因素**：日曬不足造成維生素D缺乏。
+
+### 4. 解決方法  
+- **飲食調整**：
+  - 增加高脂肪海鮮和紅肉攝取，補充B12、葉酸、鋅和omega-3脂肪酸。
+  - 選擇全穀物和堅果以獲取磷脂和其他營養素。
+- **藥劑輔助**：
+  - 使用β腎上腺素鹽酸鹽（Betaine Hydrochloride）增強胃酸分泌，改善B12吸收。
+- **日光曝曬**：
+  - 每天接受紫外線照射10-30分鐘以合成維生素D。
+
+### 5. 健康建議  
+- **飲食建議**：
+  - 遵循低碳水化合物或生酮飲食，以降低血糖並減輕胰島素抗性。
+  - 定期食用富含omega-3脂肪酸的食物，如沙丁魚、鯖魚和核桃。
+- **生活方式建議**：
+  - 確保每日足夠的日曬時間，補充維生素D。
+  - 戒煙限酒，避免影響營養吸收。
+- **監測與治療**：
+  - 定期進行血液檢查，監控B12、葉酸和維生素D水平。
+  - 必要時在醫生指導下使用營養補充劑。
+
+### 6. 結論  
+- **主要結論**：類似癡呆症狀可能源於多種 micronutrient deficiency，包括B12、B1、葉酸、鋅和維生素D。
+- **綜合管理**：通過飲食調整、藥劑輔助和生活方式改變，可以有效預防和治療這些 deficiency，從而改善腦功能並延緩神經退化。
+
+### 參考文獻  
+- Author. (Year). Title of the Article. Journal Name, Volume(issue), Page numbers. URL or DOI if applicable.
+
+此結構提供了一個清晰、客觀的整理，涵蓋了文章的所有重要方面，並符合正式學術格式的要求。
 </details>
 
 <details>
-<summary>4007. The BEST Homemade Moisturizer for Dry Skin</summary><br>
+<summary>4007. [2022-07-04] The BEST Homemade Moisturizer for Dry Skin</summary><br>
 
 <a href="https://www.youtube.com/watch?v=X0I7g3vcMbw" target="_blank">
     <img src="https://img.youtube.com/vi/X0I7g3vcMbw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：自制面部保湿霜——针对干性皮肤的解决方案
 
+#### 核心主題
+- 干性皮肤的原因及解决方案。
+- 自制面部保湿霜的方法及其科学依据。
+
+#### 主要觀念
+1. **干性皮肤的本质**：
+   - 干性皮肤并非由脱水引起，而是由于必需脂肪酸（Essential Fatty Acids, EFAs）缺乏所致。
+   - 特别是ω-3脂肪酸的不足会导致皮肤干燥、脱屑。
+
+2. **ω-3脂肪酸的作用**：
+   - 保护皮肤免受紫外线伤害。
+   - 维持皮肤水分，防止干燥。
+
+3. **常见原因**：
+   - 饮食中ω-6脂肪酸摄入过多（如玉米油、大豆油等）。
+   - 环境因素：氯化物、氟化物对皮肤的刺激。
+   - 生活习惯：吸烟、过量饮酒、压力过大等。
+
+4. **自制保湿霜的优势**：
+   - 使用天然成分，避免化学添加剂的伤害。
+   - 成分直接被皮肤吸收，效果显著。
+
+#### 問題原因
+- **营养失衡**：
+  - 饮食中ω-3脂肪酸摄入不足，而ω-6脂肪酸过量。
+- **环境因素**：
+  - 水中的氯化物和氟化物通过洗澡进入皮肤。
+- **生活习惯**：
+  - 吸烟、饮酒、压力过大等对皮肤健康的影响。
+- **护肤产品选择不当**：
+  - 使用含有酒精或石油产品的清洁和保湿产品，破坏皮肤屏障。
+
+#### 解決方法
+1. **自制面部保湿霜配方**：
+   - **成分**：
+     - 水：6茶匙（用于溶解chia种子）。
+     - 破壁奇亚籽：2茶匙（释放ω-3脂肪酸）。
+     - 海藻粉或海藻胶囊：1茶匙（提供矿物质和海洋胶质，帮助保湿）。
+     - 特级初榨橄榄油：1茶匙（作为基础油，促进吸收）。
+
+   - **制作步骤**：
+     1. 将水与破壁奇亚籽混合搅拌至粘稠。
+     2. 加入海藻和橄榄油，充分混合。
+     3. 均匀涂抹于面部，静置15分钟。
+     4. 用温水洗净。
+
+2. **长期解决方案**：
+   - 调整饮食，增加ω-3脂肪酸的摄入（如鱼类、亚麻籽等）。
+   - 使用不含刺激成分的清洁产品。
+   - 安装水质过滤器，减少氯化物和氟化物的影响。
+
+#### 健康建議
+1. **饮食调整**：
+   - 减少ω-6脂肪酸的摄入（避免玉米油、大豆油等）。
+   - 增加富含ω-3脂肪酸的食物（如深海鱼、亚麻籽、核桃等）。
+
+2. **护肤习惯**：
+   - 避免使用含有酒精和石油产品的护肤品。
+   - 选择天然成分的清洁和保湿产品，保护皮肤屏障。
+
+3. **生活方式**：
+   - 减少吸烟和饮酒，保持良好的作息。
+   - 管理压力，通过运动、冥想等方式放松身心。
+
+4. **环境改善**：
+   - 安装水质过滤器，减少洗澡时氯化物和氟化物的摄入。
+   - 使用天然成分的沐浴产品。
+
+#### 結論
+干性皮肤的问题可以通过调整饮食结构、改善护肤习惯以及优化生活环境来有效解决。自制含有奇亚籽和海藻的保湿霜是一种简单有效的解决方案，能够补充必需脂肪酸，维持皮肤屏障功能，长期使用可显著改善皮肤状况。同时，关注整体健康和环境因素对于保持皮肤健康至关重要。
+
+---
+
+### 參考資料
+1. 文章内容。
+2. 相關科學研究：必需脂肪酸与 skin barrier function 的关系。
 </details>
 
 <details>
-<summary>4006. The Health Benefits of Pizza</summary><br>
+<summary>4006. [2022-07-02] The Health Benefits of Pizza</summary><br>
 
 <a href="https://www.youtube.com/watch?v=6hohs3QJVNs" target="_blank">
     <img src="https://img.youtube.com/vi/6hohs3QJVNs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 關鍵點整理：健康飲食中的比薩選擇與メリット
 
+#### 核心主題  
+- 探討低溫制法（如生酮膳食）中比薩的潛在健康益處。
+- 强調通過調整食材來製作健康的比薩。
+
+#### 主要觀念  
+1. **傳統比薩的健康問題**  
+   - 传统比萨的主要不健康因素來自於高碳水化合物的麵包皮（通常使用小麦粉）以及高脂肪、高鹽的配料。
+   
+2. **生酮 diets中的比薩選擇**  
+   - 生酮飲食強調低碳水化合物，高蛋白質和高脂肪。  
+   - 無需放棄比萨，只需改用低碳水化合物的替代食材。
+
+3. **健康比萨的核心： Cauliflower Crust（菜花麵包皮）**  
+   - 以菜花為主要材料製作的麵包皮是生酮飲食中的理想選擇。
+   - 菜花富含膳食纖維，且熱量低，碳水化合物含量相較傳統麵包皮大幅降低。
+
+#### 問題原因  
+- 傳統比薩中高碳水化合物和高鹽分的攝入可能導致血糖波動、肥胖及其他健康問題。
+- 加工食品中的添加劑（如玉米淀粉、麩質等）可能不符合生酮飲食的要求。
+
+#### 解決方法  
+1. **食材選擇**  
+   - 使用菜花製作比薩麵包皮，取代傳統的小麥麵粉。  
+   - 選擇低糖或無糖的番茄醬作為基底。  
+
+2. **配料建議**  
+   - 加入高蛋白質的成分如火腿、意大利辣腸（pepperoni）或新鮮蔬菜（如蘑菇、橄欖）。  
+   - 可酌量加入乳酪，但需注意脂肪含量和整體熱量平衡。
+
+#### 健康建議  
+1. **食材來源**  
+   - 選擇低加工的番茄醬，避免添加額外糖分或防腐劑。  
+   - 菜花麵包皮可自制，也可選購市售產品（如Kibosh品牌），需注意成分表，避免含有麩質或其他不適宜成分。
+
+2. **食用建議**  
+   - 比薩作為生酮飲食的一部分，應 moderation，並搭配其他高蛋白、高纖維的食物。  
+   - 適量攝取醬料和配料，以保持整體熱量和營養均衡。
+
+#### 結論  
+- 生酮飲食中比萨的健康性在於食材的選擇與組合。  
+- 通過使用菜花麵包皮和健康的配料，可以在享受美食的同时，符合生酮膳食的要求。  
+- 市售產品雖便利，仍需注意成分，自制則更可控。
 </details>
 
 <details>
-<summary>4005. The FASTEST TMJ Relief with this Do-It-Yourself Technique</summary><br>
+<summary>4005. [2022-06-30] The FASTEST TMJ Relief with this Do-It-Yourself Technique</summary><br>
 
 <a href="https://www.youtube.com/watch?v=l6XzlAtW6cA" target="_blank">
     <img src="https://img.youtube.com/vi/l6XzlAtW6cA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：颞下颌关节（TMJ）疼痛的缓解与治疗
 
+### 主要觀念：
+1. **颞下颌关节问题的根本原因**：
+   - 颞下颌关节紊乱（TMJ dysfunction）并非单纯由骨骼错位引起，而是主要由于肌肉紧张和软组织问题。
+   - 症状可能包括疼痛、弹响或关节活动受限。
+
+2. **次要病因分析**：
+   - 最常见的原因是近期牙齿修复工作，可能导致咬合不正，进而影响颌骨及周围肌肉的力学平衡。
+   - 右侧颞下颌关节疼痛可能与胆囊问题相关，尤其是当症状伴随右肩或背部不适时。
+
+### 問題原因：
+1. **咬合问题**：
+   - 近期牙齿修复可能导致牙齿咬合不正，影响颌骨和周围肌肉的正常功能。
+   
+2. **全身性因素**：
+   - 颞下颌关节问题可能与其他系统性疾病（如胆囊疾病）相关联。
+
+3. **肌肉过度使用**：
+   - 下颌闭口肌群的过度紧张可能导致局部肌肉痉挛，进而引发疼痛和功能障碍。
+
+### 解决方法：
+1. **自我按摩与放松技术**：
+   - **外侧按压法**：在颞下颌关节外部进行轻柔按压，以缓解关节囊紧张。
+   - **内部肌肉按压法**：将手指置于颊黏膜内侧，分别按压升颌肌群的不同部分，逐步释放肌肉痉挛。
+
+2. **功能性锻炼**：
+   - **开口训练**：通过抵抗阻力练习下颌的开合功能，平衡肌肉力量。
+
+3. **医疗建议**：
+   - 如怀疑与胆囊问题相关，应及时就医进行进一步检查和治疗。
+   - 对于咬合不正的情况，建议咨询口腔科医生调整牙齿咬合关系。
+
+### 健康建議：
+1. **定期自我监测**：
+   - 注意颞下颌关节的活动情况，及时发现异常症状。
+
+2. **避免过度使用**：
+   - 减少长时间张口或咀嚼高硬度食物，以降低肌肉负担。
+
+3. **寻求专业帮助**：
+   - 如疼痛持续或加重，应及时就诊，排除其他潜在疾病。
+
+### 結論：
+颞下颌关节问题通常由咬合不正和肌肉紧张引起，可通过自我按摩、功能性锻炼和医疗干预有效缓解。同时，患者应关注全身健康状况，及时就医以排除相关性疾病的影响。
 </details>
 
 <details>
