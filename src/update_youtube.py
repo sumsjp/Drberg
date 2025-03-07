@@ -88,7 +88,8 @@ def update_list():
         return combined_df, new_videos_df
     else:
         logger.info("沒有新影片")
-        new_df = existing_df.tail(1)
+        # new_df = existing_df.tail(1)
+        new_df = pd.DataFrame()
         return existing_df, new_df
 
 
