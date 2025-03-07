@@ -439,113 +439,524 @@
 </details>
 
 <details>
-<summary>960. Should You Do Bulletproof Coffee on Ketogenic Diet with Intermittent Fasting? – Dr. Berg</summary><br>
+<summary>960. [2017-07-24] Should You Do Bulletproof Coffee on Ketogenic Diet with Intermittent Fasting? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=K4UDZoQjvTQ" target="_blank">
     <img src="https://img.youtube.com/vi/K4UDZoQjvTQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **Bulletproof Coffee**：一種添加了 butter 或 coconut oil 的咖啡，用作早晨的飲品，有時作為餐點替代品。
 
+### 主要觀念
+1. **Bulletproof Coffee的功效**：
+   - 提供持久的能量來源。
+   - 脂肪含量高，可幫助延長上午不感到饥饿的時間。
+   - 适合作為酮ganic diet（生酮飲食）初學者的起始步驟。
+
+2. **酮ganic 飲食的核心原則**：
+   - 每次進食後胰島素水平上升，但脂肪本身對胰島素影響中性。
+   - 胃腸道的激素反應可能導致輕微胰島素分泌。
+
+3. **飲食調整建議**：
+   - 在酮ganic 遊行期間，可逐漸降低咖啡中的脂肪含量（如用奶油取代部分牛油或椰子油）。
+   - 經過適應後，身體將更有效地燃燒自身脂肪儲備。
+
+### 問題原因
+- **為什麼可能影響體重管理**：
+  - 高脂肪攝入可能在酮ganic 遊行初期延缓體重減輕，因為身體需先適應酮ganic 狀態。
+  - 過量脂肪攝取可能导致不適（如噁心）。
+
+### 解決方法
+1. **逐步調整飲食**：
+   - 初學者可從 Bulletproof Coffee 入手，慢慢進入酮ganic 狀態。
+   - 經適應後，再降低脂肪攝入量。
+
+2. **個人化飲食計劃**：
+   - 根據個人需求調整脂肪攝取量。
+   - 若目標為減重，可增加蛋白質攝入並控制總熱量。
+
+### 健康建議
+1. **健康飲食策略**：
+   - 确保飲食結構均衡，逐步適應酮ganic 飲食。
+   - 定期监测體重和健康指標，以評估飲食效果。
+
+2. **生活方式調整**：
+   - 保持規律的進食時間，避免暴飲暴食。
+   - 確保充足的睡眠和適度的運動，以促進酮ganic 遊行。
+
+### 結論
+- **Bulletproof Coffee 的價值**：
+  - 作為酮ganic diet 的起始工具，幫助初學者延長空腹時間並提供持久能量。
+  
+- **飲食策略的彈性**：
+  - 根據個人需求調整脂肪攝入量，逐步達到酮ganic 狀態。
+  - 達成酮ganic 遊行後，可進一步優化飲食結構以維持健康體重。
+
+此整理結構清晰地展示了文章的核心內容，並分門別類地羅列了各個方面，使讀者能快速掌握文中的主要信息。
 </details>
 
 <details>
-<summary>959. Sea Salt vs. Table Salt – Dr.Berg</summary><br>
+<summary>959. [2017-07-23] Sea Salt vs. Table Salt – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=FXdpYjp812o" target="_blank">
     <img src="https://img.youtube.com/vi/FXdpYjp812o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小芻
 
+#### 核心主題
+- 比較食鹽（Table Salt）與海鹽（Sea Salt）的差異及其健康影響。
+
+#### 主要觀念
+1. **成分差異**：
+   - 食鹽主要由氯化鈉（Sodium Chloride）組成，幾乎不含其他礦物質。
+   - 海鹽含有至少84種礦物質，包括硒、碘、硼、鎂等微量元素。
+
+2. **健康影響**：
+   - 食鹽過量攝取可能導致高血壓等問題。
+   - 海鹽因含有豐富的微量元素，對神經传导、肌肉收縮和蛋白質合成具有重要作用。
+
+3. **加工差異**：
+   - 食鹽在高溫（1200°F）下加工，並添加防潮劑和其他化學物質。
+   - 海鹽保留了自然礦物質，未經高溫處理。
+
+#### 問題原因
+- 過量攝取食鹽可能导致血壓升高及其他健康問題。
+- 食鹽的加工過程可能引入有害添加剂。
+
+#### 解決方法
+- 替換為海鹽以減少對身體的危害。
+- 選擇未經過高溫處理且不含添加劑的天然海鹽。
+
+#### 健康建議
+1. 完全避免食用食鹽，改用海鹽。
+2. 選擇含微量元素豐富的喜馬拉雅海鹽或CELERITIC海鹽。
+3. 對於進行酮ogenic diet的人群，推薦使用海鹽以預防肌肉痙攣並促進消化。
+
+#### 結論
+- 海鹽在礦物質含量、健康益處及加工方式上優於食鹽。
+- 選擇未經過度加工的海鹽（如喜馬拉雅海鹽）為最佳選擇。
+
+### 全文主旨要點
+本文探討了食鹽與海鹽在成分、健康影響及加工方式上的差異，強調海鹽因其豐富的礦物質含量和自然加工過程，較食鹽更為健康。文章建議消費者避免食用食鹽，改用未經過高溫處理且含微量元素的海鹽（如喜馬拉雅海鹽），以促進整體健康並預防與鹽攝取相關的疾病。
 </details>
 
 <details>
-<summary>958. Highest Vitamin C Food on the Planet – Dr. Berg on the Benefits of Vitamin C</summary><br>
+<summary>958. [2017-07-22] Highest Vitamin C Food on the Planet – Dr. Berg on the Benefits of Vitamin C</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Wj9tIVIRqSY" target="_blank">
     <img src="https://img.youtube.com/vi/Wj9tIVIRqSY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題 (Core Theme)
+- **Highest Vitamin C Food**: The article highlights sauerkraut as the highest source of vitamin C, surpassing traditional foods like lemons and bell peppers.
 
+---
+
+### 主要觀念 (Key Concepts)
+1. **Vitamin C Content in Common Foods**:
+   - Lemons: Two lemons provide about 90 mg of vitamin C.
+   - Bell Peppers: One bell pepper contains approximately 90 mg of vitamin C.
+   - Mangoes and Cabbage: These are mentioned but found to have lower vitamin C content compared to sauerkraut.
+
+2. **Sauerkraut as a Probiotic Source**:
+   - Sauerkraut contains over a trillion beneficial bacteria, making it one of the most powerful probiotics.
+   - A small amount (4-6 ounces) of sauerkraut is equivalent to multiple bottles of probiotic pills.
+
+3. **Immune Building Properties**: 
+   - Sauerkraut's high vitamin C and probiotic content make it an excellent immune booster.
+
+---
+
+### 問題原因 (Issues Identified)
+1. **Inadequate Vitamin C Intake**:
+   - Many people rely on common sources like lemons or bell peppers, which require larger quantities to meet daily needs.
+   - Limited awareness of sauerkraut as a superior vitamin C source.
+
+2. **Probiotic Deficiency**:
+   - Modern diets often lack sufficient probiotics, which are essential for gut health and immunity.
+
+---
+
+### 解决方法 (Solutions Proposed)
+1. **Incorporate Sauerkraut into Diet**:
+   - Replace or complement traditional vitamin C sources with sauerkraut to meet daily requirements efficiently.
+   - Consume 4-6 ounces of sauerkraut regularly for significant probiotic benefits.
+
+2. **Educate on Nutritional Benefits**:
+   - Promote awareness of sauerkraut's high vitamin C and probiotic content as a sustainable health solution.
+
+---
+
+### 健康建議 (Health Recommendations)
+1. **Daily Vitamin C Intake**:
+   - Aim for the RDA of 90 mg per day, achievable with one cup of sauerkraut or half a bell pepper.
+   
+2. **Probiotic Ingestion**:
+   - Include fermented foods like sauerkraut in daily meals to support gut health and overall immunity.
+
+3. **Balanced Nutrition**:
+   - Diversify diet with nutrient-rich foods to ensure comprehensive nutritional intake.
+
+---
+
+### 結論 (Conclusion)
+- Sauerkraut emerges as a superior food source due to its high vitamin C content and probiotic benefits.
+- Integrating sauerkraut into daily diets can significantly enhance immune function and overall health.
+- The article emphasizes the importance of exploring lesser-known nutrient-dense foods for optimal nutrition.
+
+---
+
+### 中文總結
+文章強調 Sauerkraut 作為地球上維生素C含量最高的食物，不僅提供每日所需的 Vitamin C，還富含益生菌，對免疫系統和腸道健康有顯著好處。建議將其納入日常飲食中，以提升整體營養攝取。
+
+### English Summary
+The article emphasizes Sauerkraut as the highest source of vitamin C on Earth, offering daily requirements and abundant probiotics for immune and gut health. It recommends incorporating sauerkraut into regular diets for optimal nutrition.
 </details>
 
 <details>
-<summary>957. What's Really Behind Leaky Gut? – Dr.Berg On Leaky Gut Symptoms  & Vitamin C Deficiency</summary><br>
+<summary>957. [2017-07-22] What's Really Behind Leaky Gut? – Dr.Berg On Leaky Gut Symptoms  & Vitamin C Deficiency</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3pjaXjmZWpU" target="_blank">
     <img src="https://img.youtube.com/vi/3pjaXjmZWpU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納：
 
+#### 核心主題：
+- **Leaky Gut Syndrome** 的根本原因及其與維生素C缺乏的關聯。
+
+#### 主要觀念：
+1. Leaky Gut Syndrome 是腸道屏障功能障礙引起的病症，導致未消化蛋白質滯留並引發免疫反應。
+2. 維生素C在膠原蛋白合成中的重要作用，缺乏會影響腸道屏障結構。
+3. Leaky Gut Syndrome 与食物過敏、炎症和營養吸收障礙密切相關。
+
+#### 問題原因：
+1. **維生素C deficiency**：主要原因是 diets 中蔬菜攝取不足（建議每天至少7杯蔬菜），或合成維生素C補充劑中缺乏伴隨的生物類黃酮。
+2. **Insulin Resistance**：高胰島素水平會耗盡體內維生素C，導致進一步的 deficiencies。
+3. ** Smoking**：吸煙會大量消耗維生素C，增加 deficiency 的風險。
+
+#### 解決方法：
+1. **飲食調整**：
+   - 增加富含生物類黃酮的食物攝取，如：
+     - 芥菜芽（sprouted buckwheat）
+     - 檸檬、橘子等柑橘類水果
+     - 芫荽、洋蔥、绿茶
+     - 菜花等 cruciferous vegetables
+   - 確保每日攝取足夠的蔬菜，至少7杯。
+
+2. **補充劑建議**：
+   - 選擇含生物類黃酮（如hesperetin）的維生素C補充劑。
+   - 推荐品牌：Santa Process 的_cuda+。
+
+3. **生活方式調整**：
+   - 戒煙以減少對維生素C的消耗。
+   - 管理胰島素抵抗，可能需要通過飲食控制和運動來降低血糖水平。
+
+#### 健康建議：
+1. **評估與檢測**：
+   - 使用提供的評估問卷分析症狀，找出根本原因。
+2. **個化化治療**：
+   - 根據個人情況調整飲食和生活方式。
+3. **持續監測**：
+   - 定期追蹤症狀改善情況，並根據需要調整干預措施。
+
+#### 結論：
+- Leaky Gut Syndrome 的關鍵在於恢復腸道屏障功能，這需要針對性地補充維生素C及其伴隨的生物活性成分，並結合飲食和生活方式的調整。
+- 未來研究可進一步探討維生素C deficiency 在不同人群中的流行率及其對腸道健康的影響。
+
+---
+
+### 文章錯誤或不一致批注：
+1. **關於維生素C的攝取量**：文章建議每日攝取至少7杯蔬菜，但未明確指出是否需要其他來源（如水果）。此外，蔬菜中維生素C的含量可能因種類和烹調方式而異。
+2. **補充劑推薦**：文中提到“Santa Process 的_cuda+”但未提供具體劑量信息，建議進一步查證其有效性和安全性。
+3. **Insulin Resistance 的影響**：文章提到高胰島素水平會耗盡維生素C，但缺乏具體機制的解釋，建議補充相關研究數據。
 </details>
 
 <details>
-<summary>956. Before & After Keto – Intermittent Fasting & Weight Loss session with Dr.Berg and Chris Grant</summary><br>
+<summary>956. [2017-07-21] Before & After Keto – Intermittent Fasting & Weight Loss session with Dr.Berg and Chris Grant</summary><br>
 
 <a href="https://www.youtube.com/watch?v=WNq1IDBOO-U" target="_blank">
     <img src="https://img.youtube.com/vi/WNq1IDBOO-U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：健康生活方式的成功案例分析
 
+#### 核心主題
+- 一個人通過堅持健康的生活方式（包括飲食調整和運動）實現了顯著的體型轉變。
+- 這種改變對周圍人產生了積極影響，激發了他人追求健康的動機。
+
+#### 主要觀念
+1. **健康生活的定義**：
+   - 健康不僅僅是減肥，而是 comprehensive lifestyle change 包括 proper diet, regular exercise, 和 mental well-being.
+
+2. **改變的源动力**：
+   - 个人的健康意識和自我動機是成功關鍵。
+   - 社會支持和榜樣作用在過程中起到了重要作用。
+
+3. **具體措施**：
+   - **飲食方面**：實施了 strict dietary changes，避免高熱量食物，增加蔬菜、水果和高蛋白質攝取。
+   - **運動方面**：包括有氧運動（如跑步、騎車）和力量訓練（如重量lifting），以增強心肺功能和肌肉張力。
+
+#### 問題原因
+1. **現代生活方式的影響**：
+   - 高壓力、久坐的生活方式導致了肥胖和其他健康問題。
+   - 快餐文化和不良飲食習慣增加了健康風險。
+
+2. **缺乏自我Motivation**：
+   - 很多人雖然知道健康的重要性，但缺乏堅持的動力和策略。
+
+#### 解决方法
+1. **個人層面**：
+   - 建立 clear goals 和 concrete plans。
+   - 逐步改變habits，避免 abrupt changes。
+
+2. **社會層面**：
+   - 搶救榜樣作用，通過 personal transformation 激發他人。
+   - 分享 knowledge and strategies via educational content（如YouTube videos）。
+
+3. **Mindset調整**：
+   - 强調健康生活方式的长期益處，超越短期目標。
+   - 達成平衡，享受健康生活而不覺得痛苦。
+
+#### 健康建議
+1. **飲食方面**：
+   - 減少精制糖和反式脂肪的攝取。
+   - 增加膳食纖維、蛋白質和抗氧化劑的攝入。
+   - 避免暴饮暴食，養成規律進餐的習慣。
+
+2. **運動方面**：
+   - 每周至少150分鐘中等強度有氧運動或75分鐘高強度有氧運動。
+   - 結合力量訓練，增強肌肉張力和骨密度。
+   - 減少久坐時間，每小時起來活動幾分鐘。
+
+3. **心理方面**：
+   - 開發健康的attitudes towards food and exercise。
+   - 學會管理壓力，保持良好的mental health。
+
+4. **社會支持**：
+   - 找到志同道合的伙伴，互相激勵和支持。
+   - 分享資源和經驗，幫助他人實現健康目標。
+
+#### 結論
+- 健康的生活方式是可實現的，關鍵在於個人的 commitment 和 persistent efforts。
+- 影響他人需要榜樣作用和教育內容，幫助更多人樹立正確的健康觀念。
+- 長期來看，健康的生活方式不僅帶來體型上的改變，還能提升整體生活質量和社會幸福感。
+
+---
+
+此整理報告結構清晰地展示了文章的主要內容，涵蓋了從問題分析到解決方案的完整脈絡，適合用於進一步的研究或教育目的。
 </details>
 
 <details>
-<summary>955. Can Protein Harm Your Kidneys and Liver? – Dr.Berg on Protein Side Effects</summary><br>
+<summary>955. [2017-07-21] Can Protein Harm Your Kidneys and Liver? – Dr.Berg on Protein Side Effects</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Hrxqd9A0GvA" target="_blank">
     <img src="https://img.youtube.com/vi/Hrxqd9A0GvA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+The potential harm of excessive protein intake on the kidneys and liver, particularly when consumed in overly cooked forms or in large quantities without sufficient vegetable intake.  
 
+---
+
+### 主要觀念  
+1. **Overcooked Protein**: Consuming protein that is overly cooked can strain the liver and kidneys. Raw or rare-cooked proteins are easier to digest and less stressful for these organs.  
+2. **High Protein Intake**: Excessive protein consumption, especially in portions exceeding 3-6 ounces per meal, can lead to long-term damage to the liver and kidneys by increasing ammonia levels and causing fatty liver disease.  
+
+---
+
+### 問題原因  
+1. **Overly Cooked Protein**: Improper cooking methods that destroy beneficial enzymes and nutrients, making digestion harder.  
+2. **High Ammonia Levels**: Excessive protein intake leads to higher ammonia production, which can negatively impact brain function and energy levels.  
+3. **Insufficient Stomach Acid**: Low stomach acid reduces the efficiency of protein digestion, leading to undigested protein particles that strain the liver and kidneys.  
+
+---
+
+### 解決方法  
+1. **Balanced Protein Intake**: Consume 3-6 ounces of protein per meal, adjusting based on individual factors like age, activity level, and size.  
+2. **Inclusion of Vegetables**: Add large quantities of vegetables to meals to protect the liver and kidneys by reducing toxin buildup.  
+3. **Enhance Stomach Acid**: Use apple cider vinegar (1-2 tablespoons in water) with meals to improve digestion and enzyme release.  
+
+---
+
+### 健康建議  
+1. **Dietary Modifications**: Opt for rare or minimally cooked meats, such as sushi or rare-cooked meats, to reduce strain on the digestive system.  
+2. **Monitor Portion Sizes**: Avoid consuming excessive protein in one sitting to prevent overloading the liver and kidneys.  
+3. **Support Digestion**: Incorporate apple cider vinegar into meals to ensure proper digestion and nutrient absorption.  
+
+---
+
+### 结論  
+Excessive or overly cooked protein can harm the liver and kidneys, but mindful consumption, balanced with vegetables and adequate stomach acid, can mitigate these risks. Proper attention to cooking methods, portion sizes, and digestive support is essential for maintaining optimal organ health.
 </details>
 
 <details>
-<summary>954. Commercial Eggs vs. Pasture-Raised Eggs – Dr.Berg</summary><br>
+<summary>954. [2017-07-20] Commercial Eggs vs. Pasture-Raised Eggs – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_l0LMxrWGAo" target="_blank">
     <img src="https://img.youtube.com/vi/_l0LMxrWGAo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Summary of Key Points from the Article
 
+#### Core Theme: Differences Between Commercial and Pasture-Raised Eggs
+
+- **Commercial Eggs**:
+  - Fed with GMO corn and soy.
+  - Contain high levels of Omega-6 fatty acids, which can be pro-inflammatory.
+  - Lower in essential nutrients compared to pasture-raised eggs.
+
+- **Pasture-Raised Eggs**:
+  - Chickens are raised outdoors, feeding on grass.
+  - Higher content of Omega-3 fatty acids, which are anti-inflammatory.
+  - Richer in vitamins (A, E, D, K2) and minerals.
+  - Contains higher levels of carotenoids, beneficial for eye health, heart function, and immune system.
+
+#### Health Benefits of Pasture-Raised Eggs
+
+- **Nutritional Profile**:
+  - High in choline, essential for brain health and prevention of fatty liver.
+  - Contains lecithin, which helps emulsify cholesterol and improve cardiovascular health.
+  - Doubles the amount of vitamin E compared to commercial eggs, enhancing oxygen-carrying capacity and muscle recovery.
+
+- **Cholesterol**:
+  - Cholesterol in eggs is a precursor for adrenal hormones, crucial for stress management.
+  - No negative studies link pasture-raised eggs to heart problems.
+
+#### Health Recommendations
+
+- **Dietary Advice**:
+  - Opt for organic, pasture-raised eggs over commercial ones due to their superior nutritional value.
+  - Consider the ethical and health benefits of supporting local farmers rather than industrial agriculture.
+
+#### Conclusion
+
+- Pasture-raised eggs offer significant nutritional advantages over commercial eggs, making them a healthier choice.
+- The additional cost reflects the higher quality and effort involved in sustainable farming practices.
+- Prioritizing pasture-raised eggs supports both personal health and environmental sustainability.
 </details>
 
 <details>
-<summary>953. Apple Cider Vinegar and Diabetes – Dr. Berg On ACV Benefits</summary><br>
+<summary>953. [2017-07-20] Apple Cider Vinegar and Diabetes – Dr. Berg On ACV Benefits</summary><br>
 
 <a href="https://www.youtube.com/watch?v=elutqxNJmG4" target="_blank">
     <img src="https://img.youtube.com/vi/elutqxNJmG4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 探讨苹果醋（Apple Cider Vinegar）对糖尿病及其前期的影响。
 
+### 主要觀念
+1. 苹果醋显著改善胰岛素敏感性。
+2. 胰岛素抵抗是2型糖尿病和前期糖尿病的关键特征。
+3. 苹果醋的摄入方式及其对血糖水平的影响。
+
+### 問題原因
+- 胰岛素抵抗导致胰岛素作用减弱，进而引发高血糖，可能导致糖尿病的发生。
+
+### 解决方法
+1. 摄入苹果醋可以改善胰岛素敏感性，减少胰岛素抵抗。
+2. 建议在餐前或睡前服用稀释的苹果醋溶液。
+
+### 健康建議
+- **劑量與用法**：
+  - 每餐前或 bedtime，服用2茶匙（约10毫升）的未經過濾、未加糖的 apple cider vinegar 混合水。
+  - 可以在水中稀釋後飲用，以減少對食道的刺激。
+
+- **注意事項**：
+  - 避免空腹直接服用純粹的醋，需用水稀釋。
+  - 長期或過量使用可能導致胃腸不適或其他副作用，建議諮詢醫生意見。
+  - 警告：對醋酸敏感或有特定健康狀況的人士（如胃潰瘍、低血壓等）應特別謹慎。
+
+### 研究證據
+- 有多項研究表明，定期攝取 apple cider vinegar 可顯著降低血糖水平，並改善胰島素敏感性。
+- 研究對象包括正常人、前期糖尿病患者及2型糖尿病人，均顯示出積極效果。
+
+### 結論
+- 苹果醋具有潛力作為輔助手段，幫助管理血糖水平和改善胰岛素敏感性。
+- 雖然其效果顯著，但仍需進一步研究以確定其長期安全性和療效。
 </details>
 
 <details>
-<summary>952. Does Eating Saturated Fat Really Cause Insulin Resistance? – Dr. Berg</summary><br>
+<summary>952. [2017-07-19] Does Eating Saturated Fat Really Cause Insulin Resistance? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=z33CGmmD30g" target="_blank">
     <img src="https://img.youtube.com/vi/z33CGmmD30g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：aturated Fats and Insulin Resistance
 
+### 主要觀念：
+1. **Saturated Fats and Diabetes**: The article discusses the role of saturated fats in insulin resistance and diabetes, challenging the common belief that saturated fats are the primary cause of these conditions.
+2. **Misinformation in Media**: It highlights how media and online content often cite studies out of context, leading to misunderstandings about dietary fats.
+
+### 問題原因：
+1. **Misinterpretation of Studies**: Many sources misrepresent or omit key details from studies comparing saturated and unsaturated fats, particularly the "CET study" which showed only an "almost statistically significant" link between saturated fats and insulin resistance.
+2. **Lack of Access to Research**: The high cost of accessing full studies (often $30-40) limits public understanding, forcing reliance on secondary interpretations that may be biased or misleading.
+
+### 解決方法：
+1. **Critical Evaluation of Sources**: Encourage readers to critically evaluate the credibility of sources and question claims about saturated fats without evidence.
+2. **Direct Study Access**: Suggest accessing studies directly if possible, or seeking credible translations/summaries from experts.
+3. **Improved Scientific Literacy**: Advocate for better understanding of scientific terms and study design to enable informed decision-making.
+
+### 健康建議：
+1. **Balanced Diet**: Emphasize the importance of a balanced diet rather than demonizing any single nutrient like saturated fats.
+2. **Consult Reliable Sources**: advise consulting peer-reviewed studies or reputable health organizations for accurate information.
+3. **Personalized Approach**: recommend personalized dietary advice based on individual needs and medical history.
+
+### 結論：
+The article concludes that the current evidence does not support saturated fats as a direct cause of insulin resistance or diabetes. It calls for skepticism towards sensationalist claims in media and emphasizes the need for informed, evidence-based decisions regarding diet and health.
 </details>
 
 <details>
-<summary>951. Does A High Fat Diet Really Cause Type 2 Diabetes? – Dr.Berg</summary><br>
+<summary>951. [2017-07-19] Does A High Fat Diet Really Cause Type 2 Diabetes? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=0bbBkrYqmZE" target="_blank">
     <img src="https://img.youtube.com/vi/0bbBkrYqmZE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理
 
+#### 核心主題
+- 探讨高脂肪饮食是否导致2型糖尿病。
+
+#### 主要觀念
+1. **研究背景**：最近新闻报道指出，摄入饱和脂肪可能增加患心脏病和糖尿病的风险。
+2. **研究分析**：Dr. Burke 分析了《Pathway to diabetes through attenuation of pancreatic beta cell glycation and glucose transport》这篇研究，并质疑其结论的有效性。
+
+#### 問題原因
+1. **動物試驗的局限性**：研究是在小鼠（C57BL/6J 獨居品種）身上進行，而非人類。
+2. **飲食配方的問題**：
+   - 高碳水化合物含量（25-25.5%來自碳水化合物）。
+   - 使用高血糖指數的糖類（如 maltodextrin 和蔗糖）。
+   - 含有轉基因成分（如玉米和大豆油）。
+   - 食品中含有人工合成的反式脂肪（如氫化椰子油）。
+
+#### 解決方法
+1. **重新評估研究設計**：Dr. Burke建議仔細分析飲食配方，避免輕易接受高脂飲食導致糖尿病的結論。
+2. **引用其他研究支持**：提到了另一項研究《The high-fat, ketogenic diet induces a unique metabolic state in mice》，該研究表明生酮飲食可改善小鼠代謝健康。
+
+#### 健康建議
+1. **避免輕信媒體報導**：メディアが伝える情報は必ずしも科学的根拠に基づいていない場合がある。
+2. **均衡飲食的重要性**：強調了低脂零食（如餅乾）的食用價值，暗示脂肪可能不是健康問題的主要原因。
+3. **個化化健康管理**：鼓勵觀眾參加評估問卷，以找出症狀的根本原因。
+
+#### 結論
+- 当前的研究結果不足以支撐高脂肪飲食直接導致2型糖尿病的結論。
+- 生酮飲食可能對健康有益，但需進一步研究其在人類中的效果。
+- 建議公众保持謹慎，避免盲目跟從媒體報導的健康建議。
 </details>
 
 <details>
@@ -928,31 +1339,46 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
-### 核心主題：.slimming without weight loss and the role of water retention in weight management.
+### 小結整理：「失去體積但不減重」的概念與實踐
 
-### 主要觀念：
-1. **Weight Loss Plateau**: Many individuals experience a plateau where they stop losing weight despite continued efforts, which can be disheartening.
-2. **Water Retention Impact**: Significant fluid retention is common during initial weight loss phases, leading to rapid weight loss followed by a plateau.
-3. **Fat Loss Rate**: The maximum fat loss per week for most people is slow (e.g., 0.5 pounds for individuals in their 40s or 50s), contrary to popular expectations.
-4. **Metabolic Health**: A healthy metabolism takes time to build, especially after years of dieting and metabolic damage.
+---
 
-### 問題原因：
-1. **Misinterpretation of Weight Loss**: Focusing solely on the scale can lead to frustration when fat loss slows down but water retention plateaus.
-2. **Diet History**: Individuals with a history of multiple diets may have impaired metabolism, contributing to slower weight loss.
-3. **Muscle vs. Fat Density**: Muscle tissue is denser than fat, so gaining muscle can sometimes result in a perceived weight gain despite actual fat loss.
+#### 1. 核心主題  
+本文探討了「失去體積（inch loss）但不減重（weight loss）」的現象，強調在健康瘦身過程中，水重量的流失和脂肪燃燒的不同步性。
 
-### 解決方法：
-1. **Monitor Inches Lost**: Track physical measurements (e.g., waist, thighs) as they are more indicative of body composition changes.
-2. **Patience and Persistence**: Understand that building a healthy metabolism takes time; avoid stopping efforts due to slow progress.
-3. **Focus on Fat Burning**: Use strategies like ketogenic diets or intermittent fasting to enhance fat burning and muscle retention.
+---
 
-### 健康建議：
-1. **Avoid Sudden Changes**: Be cautious of rapid weight loss, as it may indicate water loss rather than fat loss.
-2. **Combine Diet and Exercise**: Incorporate strength training to build lean muscle mass while losing fat.
-3. **Stay Consistent**: Maintain a structured diet and exercise routine despite slow progress.
+#### 2. 主要觀念  
+- **短期水分流失的影響**：初期減重主要是由於水分的丟失，而非脂肪的消耗。這通常會讓人錯以為進展良好，但當水重量開始穩定後，可能感到挫折。  
+- **脂肪流失的限制**：健康的成年人每周最多能減少2磅（約0.9公斤）的脂肪，而大部分人尤其是40歲以上的人，平均每月可能只 losing 0.5磅（約0.23公斤）。  
 
-### 結論：
-The key takeaway is that significant weight loss often involves periods of rapid water loss followed by slower fat loss. It's crucial to focus on inches lost rather than the scale, as this reflects meaningful changes in body composition and health. Patience and consistency are vital for long-term success.
+---
+
+#### 3. 問題原因  
+- **水重量的誤解**：很多人未將初期減重歸因於水分流失，導致對短期結果的過高期待。  
+- **代謝率的影響**：長期低代謝的人在開始ダイエット時，可能需要更長時間來恢復正常的脂肪燃燒能力。  
+
+---
+
+#### 4. 解決方法  
+- **關注體積而非重量**：使用腰圍、大腿等部位的尺寸作為主要參考指標，因為體積的變化更能反映身體的實際改善。  
+- **耐心與堅持**：接受瘦身是一個慢過程，保持現狀即為成功，避免因短期結果不理想而放棄。  
+
+---
+
+#### 5. 健康建議  
+- **選擇持久的ダイエット方法**：如生酮飲食或間歇性禁食，這些方法既能幫助減重又能提升代謝能力。  
+- **保持瘦肌肉量**：生長激素在脂肪燃燒中起重要作用，適當的力量訓練有助於維持並增加瘦肌肉質。  
+
+---
+
+#### 6. 結論  
+- 適度接受瘦身的緩慢進展，將注意力集中在體積的減少而非秤重上，這樣能更有效地堅持ダイエット計劃。  
+- 時間是關鍵，健康的代謝系統需要時間來恢復和提升，耐心與毅力是成功的關鍵。  
+
+--- 
+
+本文強調了在健康瘦身中，需理性看待短期結果，並以長期目標為導向進行調整與努力。
 </details>
 
 <details>
