@@ -935,113 +935,662 @@
 </details>
 
 <details>
-<summary>3884. Cure "The Silent Killer" Hepatitis for Only $84,000 (at $1000 a Pill)</summary><br>
+<summary>3884. [2022-02-22] Cure "The Silent Killer" Hepatitis for Only $84,000 (at $1000 a Pill)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=WFhBpWySIyM" target="_blank">
     <img src="https://img.youtube.com/vi/WFhBpWySIyM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 肝炎（Hepatitis）的治療與管理。
+- 探讨肝炎的成因、症状、诊断及现有治疗方法的局限性。
+- 引入低成本 herbal remedies 作为潜在替代治疗方案。
 
+### 主要觀念
+1. **肝炎的定義与影響**
+   - 肝炎是肝脏的炎症，主要由病毒引起，但也可能由自身免疫疾病或其他因素导致。
+   - 病毒性肝炎（如A、B、C型）影响全球约3.25亿人口，因其症状隐匿，常被稱為「沉默殺手」。
+
+2. **肝炎的病理机制**
+   - 肝炎病毒通过逃避宿主免疫系统并抑制抗病毒反应，导致持续性感染。
+   - 长期炎症可導致肝纖維化、肝硬化乃至肝癌。
+
+3. **现有抗病毒药物的成本问题**
+   - 直接作用抗病毒药物（如Sovaldy）療效显著，但成本極高，疗程费用在8萬至16萬美元之間。
+   - 药物研發成本高昂，且政府资助来源于纳税人，形成「前端和后端」付费模式。
+
+4. **替代治療方案**
+   - 专利文件揭示了多种 Herbal Remedies 的潜力：
+     - **第一種：** Wormwood Extract、Coax Root、Red Sage Root，報告 cure rate 分別為95%（A型）和90%（B型）。
+     - **第二種：** 莊蹈草（Nagamotha），被稱為世界上最頑固的雜草，具有抗肝炎特性。
+     - **第三種：** 牛奶芠（Milk Thistle）、洋蓟、甘菊、薑黃、人參、nettles 和薑，用於降冴炎症至纖維化的轉化。
+
+### 問題原因
+- 病毒性肝炎的潛伏性和隱匿性導致大量感染者未被早期發現。
+- 抗病毒药物療效雖高，但高昂成本限制了其可及性，尤其是於發展中國家。
+- 目前主流治療方案缺乏針對免疫調節和炎症修復的有效手段。
+
+### 解決方法
+1. **藥物治療**
+   - 使用直接作用抗病毒藥物（如Sovaldy）進行標準化療程。
+
+2. ** Herbal Remedies 的研究与應用**
+   - 探索已獲专利的 Herbal Remedies，作為低成本、低副作用的輔助或替代治療方案。
+   - 進一步臨床研究這些植物提取物的有效性和安全性。
+
+3. **免疫調節策略**
+   - 补充維生素D以增强免疫系統功能，降低病毒 replication 和炎症反應。
+   - 使用NAC（N-Acetylcysteine）作為谷胱甘肇前驅體，幫助抗氧和減輕炎症傷害。
+
+### 健康建議
+1. **定期篩查**
+   - 高風險人群（如注射藥物使用者、血液接觸者等）應該定期接受肝炎病毒檢測。
+
+2. **維生素D的補充**
+   - 確保血清中25(OH)D水平在40 ng/mL以上，可通過日曬或サプリメント攝取。
+   
+3. ** Herbal Remedies 的使用**
+   - 在專業醫療人員指導下試用已證實有效的植物療法。
+
+4. **生活方式調整**
+   - 避免過度飲酒、控制血糖和血脂水平，以降低肝臟負擔。
+   - 保持適當體重和規律運動，增強免疫功能。
+
+### 結論
+- 肝炎是一項全球性公共衛生挑戰，需綜合藥物治療、免疫調節及健康生活方式來管理。
+- Herbal Remedies 和維生素D補充提供了有前景的低成本治癒路徑，但需進一步臨床研究以證實其療效和安全性。
+- 閊界醫療成本問題，提升可及性，是實現全球肝炎控制的重要步驟。
 </details>
 
 <details>
-<summary>3883. #1 Best Backyard Weed for Arthritis (RHEUMATOID, OSTEO & GOUT)</summary><br>
+<summary>3883. [2022-02-21] #1 Best Backyard Weed for Arthritis (RHEUMATOID, OSTEO & GOUT)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KMHr18e9Nb8" target="_blank">
     <img src="https://img.youtube.com/vi/KMHr18e9Nb8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 重點整理
 
+#### 核心主題
+- **抗炎療法**：介紹一種自然療法——使用刺蔥（Stinging Nettle）來治療關節炎和其他炎症性症狀。
+- **植物特性**：探討刺的生物學特性和其藥用價值。
+
+#### 主要觀念
+- **刺蔥的抗炎作用**：
+  - 刺蔥含有豐富的抗炎化學物質，如檞皮素（quercetin）和β-谷醇（beta-sitosterol）。
+  - 其葉表的刺毛（stellate trichomes）可注射化學物質，包括甲酸、組胺（histamine）、5-羥色胺（serotonin）等，這些物質具有抗炎效果。
+
+#### 問題原因
+- **炎症機制**：
+  - 炎症是導致關節炎疼痛和僵硬的主要原因。
+  - 刺的抗炎作用可能涉及抑制芳香化酶（aromatase），從而降低雌激素水平，平衡荷爾蒙。
+
+#### 解決方法
+- **外用療法**：
+  - 將刺蔥葉直接敷於炎症部位，通過摩擦破壞刺毛，釋放抗炎物質。
+  - 此方法可快速緩解疼痛和僵硬。
+
+#### 健康建議
+- **使用指南**：
+  - 多次每日使用，直到症狀完全缓解。
+  - 可採用手套輔助，避免手部直接接觸可能引起的不適。
+- **安全性**：
+  - 刺外用安全且副作用少，但初次使用時建議小面積測試。
+
+#### 結論
+- **療效證據**：
+  - 多個歷史和現代研究支持刺在治療關節炎和其他炎症性症狀方面的有效性。
+  - 濕疹、哮喘等其他炎症性疾病也可能受益於其抗炎特性。
+
+---
+
+### 整體摘要
+
+此篇文章介紹了一種基於自然療法的抗炎方案，強調使用刺蔥（Stinging Nettle）來緩解關節炎和其他炎症性症狀。文章詳細探討了刺的生物學特性和其抗炎机制，並提供了具體的使用方法和健康建議。研究指出，刺通過多種化學物質的作用，包括甲酸、組胺和5-羥色胺，有效抑制炎症反應，特別是芳香化酶的活性。文章還提到，此療法安全且副作用少，推薦多次每日使用，直到症狀完全缓解。整體而言，刺提供了一種簡單有效的自然抗炎選擇，特別適合於關節炎患者。
 </details>
 
 <details>
-<summary>3882. Discovering the Surprising Benefits of Iodine</summary><br>
+<summary>3882. [2022-02-20] Discovering the Surprising Benefits of Iodine</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ZMaqumn5Lcc" target="_blank">
     <img src="https://img.youtube.com/vi/ZMaqumn5Lcc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### [Core Theme] 核心主題：碘元素的多樣化健康影響及其重要性
 
+- 碘是一種微量元素，對人體細胞功能至關重要，尤其是所有細胞，而不僅限於甲状腺。
+- 甲状腺是碘的主要攝取器官，會大量吸收碘，導致其他部位碘水平不足。
+
+### [Key Concepts] 主要觀念：碘的多重健康效益
+
+1. **抗癌特性**：
+   - 碘有助於防止乳腺、卵巢和前列腺等部位的腫瘤形成。
+   - 缺乏碘會增加良性囊肿轉變成惡性腫瘤的風險。
+
+2. **激素平衡**：
+   - 碘能幫助調節過多的雌激素水平，從而改善激素失衡相關問題。
+
+3. **皮膚修復**：
+   - 碘可促進疤痕組織分解，加速傷口癒合，並可能誘發頭髮再生。
+   - 適用於治療 Dermatological Conditions 如疣和痣。
+
+4. **免疫與排毒**：
+   - 碘有助於排出體內的有毒金屬如汞和鉛，以及氟化物和溴化物。
+   - 遊離基清除能力進一步增強了其抗氧化特性。
+
+5. **心理健康**：
+   - 碘攝取充足可能改善抑郁症狀，具體機制尚不明晰，但與神經傳導功能的提升有關。
+
+6. **腺體健康**：
+   - 碘有助於防止唾液腺（如腮腺）結石的形成。
+   - 能夠減輕潮熱和月經不調症狀，通過平衡雌激素水平實現。
+
+### [Problem Analysis] 問題分析：碘缺乏的原因
+
+- **飲食結構變化**：現代飲食中碘含量降低，尤其是加工食品中幾乎不含碘。
+- **農業 pratique 改變**：土壤肥力下降導致食物中的碘含量減少。
+- **缺碘症現狀**：全球超過十億人口存在不同程度的碘缺乏問題。
+
+### [Solutions] 解決方案：補充碘的途徑
+
+1. **飲食攝取**：
+   - 增加海藻類食品（如紫菜、海帶）和海鮮的攝入。
+   - 選擇標有「含碘」的食鹽。
+
+2. **藥劑補充**：
+   - 使用高品質的碘補充劑，建議選擇不含抗壞血酸的產品以避免破壞。
+
+3. **日常護理**：
+   - 對於疤痕或痤瘡，可使用清潔型碘溶液進行局部治療。
+   - 遊動性皮膚問題可用稀釋的碘液進行濕敷。
+
+### [Health Recommendations] 健康建議
+
+- 定期評估碘水平，特別是對有相關健康問題的人群。
+- 確保飲食多樣化，攝取含碘食物以滿足每日需求。
+- 使用碘補充劑時遵循醫囑，避免過量攝取。
+
+### [Conclusion] 總結
+
+碘作為一種多功能的微量元素，在維持身體健康方面發揮著不可替代的作用。從抗炎、排毒到調節激素和改善心理健康，碘的重要性不容忽視。通過合理的飲食調整和必要時的補充劑使用，可以有效預防並解決因碘缺乏導致的各種健康問題。
 </details>
 
 <details>
-<summary>3881. The 11 Types of Alopecia (AND HOW TO FIX IT) - Dr. Berg</summary><br>
+<summary>3881. [2022-02-19] The 11 Types of Alopecia (AND HOW TO FIX IT) - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=iS00UfjoMXo" target="_blank">
     <img src="https://img.youtube.com/vi/iS00UfjoMXo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題  
+- 探讨脱发问题的原因及解决方案，结合健康建议和生活方式调整。
+
+#### 主要觀念  
+1. **脱发成因**：  
+   - 自身免疫疾病（如斑秃）与肠道健康（漏肠症）有关。  
+   - 雄性激素DHT的作用导致男性型脱发。  
+   - 环境因素、压力和营养缺乏的影响。
+
+2. **解决方案**：  
+   - 使用促进头皮健康的天然产品（如迷迭香油）。  
+   - 调节免疫系统的功能，通过益生菌改善肠道健康。  
+   - 补充锌和维生素D以支持免疫系统。  
+   - 使用红外线治疗设备抑制DHT的作用。  
+
+3. **健康建議**：  
+   - 间歇性禁食和长期断食以降低炎症水平。  
+   - 减轻压力，通过心理调节和环境改善来应对慢性压力。  
+   - 营养补充（如锌、维生素D）。  
+
+#### 問題原因  
+1. **免疫功能异常**：  
+   - 漏肠症导致肠道屏障受损，引发自身免疫反应。  
+
+2. **激素失衡**：  
+   - DHT水平过高导致脱发。  
+
+3. **环境与压力因素**：  
+   - 严重的生活事件（如亲人去世）触发 autoimmune 疾病。  
+
+#### 解決方法  
+1. **藥物與治療**：  
+   - 天然療法：迷迭香油、大蒜油、茶_TREE oil等。  
+   - 草本補充劑：蒲公英根、洋甘菊等。  
+
+2. **設備輔助**：  
+   - 紅外線光療頭盔，用於抑制DHT的生成和作用。  
+
+3. **營養攝取**：  
+   - 补充劑：益生菌、锌、維生素D。  
+   - 避免過度加工食品，選擇高營養密度食物。  
+
+4. **生活調整**：  
+   - 降低壓力：心理治療、瑜伽、冥想。  
+   - 禁食：間歇性禁食和長期斷食來降低炎症並修復腸道屏障。  
+
+#### 健康建議  
+1. **營養與補充劑**：  
+   - 硫酸鋅（Zinc）：支持免疫系統，預防免疫相關脱发。  
+   - 維生素D：免疫調節劑，每日攝取20,000-30,000 IU。  
+
+2. **壓力管理**：  
+   - 認識並評估生活中的壓力源，尋求專業協助來處理 chronic stress。  
+
+3. **生活方式調整**：  
+   - 均衡飲食、規律運動、充足睡眠。  
+   - 避免環境污染物質，減少化妝品和頭髮產品的使用。  
+
+#### 結論  
+- 脫發是一個多因素問題，涉及免疫、激素、壓力和營養等多方因素。  
+- 通過綜合治療（包括藥物、設備輔助、禁食、壓力管理）可以有效控制脱发並改善整體健康狀況。  
+
+### 英文大綱  
+1. **Core Theme**  
+   - Exploring the causes and solutions for hair loss, incorporating health recommendations and lifestyle adjustments.
+
+2. **Key Concepts**  
+   1. Causes of Hair Loss:  
+      - Autoimmune diseases (e.g., alopecia areata) linked to gut health (leaky gut syndrome).  
+      - DHT hormone imbalance causing male pattern baldness.  
+      - Environmental factors, stress, and nutritional deficiencies.  
+
+   2. Solutions:  
+      - Use of natural products promoting scalp health (e.g., rosemary oil).  
+      - Improving immune system function through probiotics to enhance gut health.  
+      - Supplementation with zinc and vitamin D for immune support.  
+      - Infrared light therapy devices to inhibit DHT activity.  
+
+   3. Health Recommendations:  
+      - Intermittent fasting and prolonged fasting to reduce inflammation.  
+      - Stress reduction techniques to manage chronic stress.  
+      - Nutritional supplementation (e.g., zinc, vitamin D).  
+
+3. **Problem Causes**  
+   1. Immunological Dysregulation:  
+      - Leaky gut syndrome leading to autoimmune reactions.  
+
+   2. Hormonal Imbalance:  
+      - Excess DHT causing hair loss.  
+
+   3. Environmental and Stress Factors:  
+      - Severe life events (e.g., bereavement) triggering autoimmune conditions.  
+
+4. **Solutions**  
+   1. Pharmaceuticals and Treatments:  
+      - Natural therapies: rosemary oil, garlic oil, tea tree oil, etc.  
+      - Herbal supplements: dandelion root, chamomile, etc.  
+
+   2. Equipment Assistance:  
+      - Red
 </details>
 
 <details>
-<summary>3880. How to Fix Your Low Back Pain (INSTANTLY!) - Dr. Berg</summary><br>
+<summary>3880. [2022-02-18] How to Fix Your Low Back Pain (INSTANTLY!) - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DgoF2Nr6S3A" target="_blank">
     <img src="https://img.youtube.com/vi/DgoF2Nr6S3A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 1. 核心主題
+- **低背部疼痛**：探討導致低背部疼痛的多種原因及其相應的解決方法。
+
+#### 2. 主要觀念
+- 低背部疼痛可能是由姿勢不良、肌肉勞損、骨骼問題或其他全身性健康狀況引起的。
+- 痛症管理需綜合考慮身體結構、活動模式及潛藏的健康問題。
+
+#### 3. 問題原因
+- **姿勢相關**：
+  - 長時間保持不當姿勢，如久坐或彎腰。
+  - 腰椎過度使用或受壓。
+  
+- **肌肉骨骼問題**：
+  - 肌肉勞損或拉傷。
+  - 骨骼結構異常，如椎間盤突出或骶髂關節 dysfunction。
+
+- **全身性健康問題**：
+  - 泌尿系統問題（腎石）。
+  - 生殖系統問題（子宮肌瘤、卵巢囊肿）。
+  - 經期不適或其他婦科問題。
+
+- **舊傷影響**：
+  - 過去受傷部位未完全康復，導致長期代償性姿勢问题。
+
+#### 4. 解決方法
+- **物理治療**：
+  - 使用按壓法放松腹直肌，緩解低背部肌肉 tension。
+  - 經絡按摩或局部壓力 therapy。
+
+- **運動與伸展**：
+  - 加強核心肌群訓練，改善姿勢控制。
+  - 進行全身性的拉伸運動，恢復關節活動度。
+
+- **行為調整**：
+  - 改善坐姿，避免長時間維持同一姿勢。
+  - 減少高強度或反覆性動作，如舉重物或彎腰。
+
+#### 5. 健康建議
+- **飲食與hydration**：
+  - 確保每日攝取足夠的水分（至少2.5公升），以預防腎石。
+  - 減少 Dairy 摂取，特別是有前列腺問題的人士。
+
+- **健康管理**：
+  - 定期進行身體檢查，早期發現潛在問題。
+  - 若有舊傷 history，需特別注意姿勢和活動方式。
+
+- **心理調適**：
+  - 管理壓力，避免因精神緊張導致肌肉 tension 加劇。
+
+#### 6. 结論
+低背部疼痛是一個多因素引發的複雜問題，需從姿勢、運動、飲食等多方面入手。通過早期發現和綜合治療，可以有效緩解症狀並預防復發。針對個人情況制定計劃，尋求專業醫療建議是至關重要的。
 </details>
 
 <details>
-<summary>3879. The Ultimate Hand Transformation – Dr. Berg's Best Remedy for Dryness and Wrinkles</summary><br>
+<summary>3879. [2022-02-17] The Ultimate Hand Transformation – Dr. Berg's Best Remedy for Dryness and Wrinkles</summary><br>
 
 <a href="https://www.youtube.com/watch?v=pIB3neebwSk" target="_blank">
     <img src="https://img.youtube.com/vi/pIB3neebwSk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章要點整理  
 
+#### 核心主題  
+- 皮膚微生物群的重要性及其對健康的影響。  
+- 手部護理與抗衰老方法。  
+
+---
+
+#### 主要觀念  
+1. **手部健康的重要因素**：  
+   - 手部皮膚是微生物群的棲息地，這些微生物具有抗菌、抗炎和促進修復的作用。  
+   - 違常的清潔或接觸有害化學物質會破壞手部的微生態平衡，導致皮膚問題（如乾燥、脫皮等）。  
+
+2. **脂肪膽固醇類維生素的重要性**：  
+   - 維生素A、D、E和K等.Fat-soluble vitamins對於皮膚健康至關重要，能幫助修復和保護皮膚。  
+   - 这些維生素可通過蛋黃等食物來攝取，並直接被皮膚吸收。  
+
+3. **手部護理的策略**：  
+   - 恢複手部微生物群平衡。  
+   - 补充必要的脂肪膽固醇類物質，以修復受損的皮膚屏障。  
+
+---
+
+#### 問題原因  
+- 電子產品使用、環境因素（如乾燥空氣）及化學物質（如溶劑）會導致手部皮膚乾燥、脆弱。  
+- 過度清潔或使用刺激性洗護用品破壞了手部的自然微生物群，影響其正常功能。  
+
+---
+
+#### 解決方法  
+1. **微生態恢復**：  
+   - 使用含有益生元（如蜂蜜）和滋潤成分（如橄欖油）的手霜，幫助重建手部皮膚的微生物平衡。  
+
+2. **營養補充**：  
+   - 通過食物攝取富含Fat-soluble vitamins的食物（如蛋黃），並直接將其應用於手部皮膚。  
+
+---
+
+#### 健康建議  
+1. **日常護理**：  
+   - 每周2次使用含有蛋黃、蜂蜜和橄欖油的手膜，以滋潤手部皮膚並恢復微生物平衡。  
+   - 避免過度清潔或接觸有害化學物質，減少對手部皮膚的損害。  
+
+2. **飲食建議**：  
+   - 多攝取富含Fat-soluble vitamins的食物，如蛋類、魚肝油等，以促進皮膚健康。  
+
+---
+
+#### 結論  
+- 手部皮膚的健康不僅依賴於清潔和滋潤，還需要維持其微生態平衡。  
+- 通過補充必要的營養成分並恢復微生物群，可以有效改善手部皮膚狀況，延緩衰老並提升整體健康水平。
 </details>
 
 <details>
-<summary>3878. How to Cure Hiccups (INSTANTLY!) - Dr. Berg</summary><br>
+<summary>3878. [2022-02-16] How to Cure Hiccups (INSTANTLY!) - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DHVAwRW10Ww" target="_blank">
     <img src="https://img.youtube.com/vi/DHVAwRW10Ww/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題
+- 論述如何 instantaneously 治療打嗝（hiccups）。
+
+#### 主要觀念
+1. **打嗝的定義與機制**：
+   - 打嗝是由膈肌不自主痙攣所引發，干擾喉嚨部位的聲帶，導致「嗝」聲。
+2. **打嗝的誘因**：
+   - 常見於快速進食、過度談話、大笑或壓力過大等情況。
+
+#### 問題原因
+1. **生理失衡**：
+   - 打嗝的根本原因是血液中二氧化碳（CO₂）和氧氣（O₂）的比例失衡。具體來說，過多的氧氣導致血液酸鹼值下降，觸發膈肌痙攣。
+2. **壓力與活動影響**：
+   - 高強度或壓力過大的活動（如即興演講）會增加呼吸速率，進而提高血氧濃度，誘發打嗝。
+
+#### 解決方法
+1. **改變呼吸模式以增加CO₂濃度**：
+   - 慢速呼吸：將吸氣和呼氣時間各延長至五秒鐘。
+   - 用紙袋呼吸：通過限制呼吸來增加血液中的CO₂濃度。
+2. **短暫憋氣法**：
+   - 短暫憋氣可快速提高血液中CO₂濃度，緩解膈肌痙攣。
+
+#### 健康建議
+1. **壓力管理**：
+   - 適當控制壓力水平，避免過度激動或緊張。
+2. **呼吸訓練**：
+   - 平時進行深呼吸或腹式呼吸訓練，以提升對呼吸節奏的掌控能力。
+3. **飲食與活動建議**：
+   - 慢速進食，避免邊吃飯邊談話或大笑。
+
+#### 結論
+- 打嗝的根本原因是血液中CO₂濃度不足，導致酸鹼失衡。通過增加CO₂濃度的方法（如紙袋呼吸、慢速呼吸等），可以迅速有效地停止打嗝。
+- 了解並掌握這些方法不僅有助於即時緩解打嗝，更能提升整體 Respiratory health and stress management.
 </details>
 
 <details>
-<summary>3877. Fix Plantar Fasciitis Instantly (NO MORE HEEL PAIN!)</summary><br>
+<summary>3877. [2022-02-15] Fix Plantar Fasciitis Instantly (NO MORE HEEL PAIN!)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=mPMvVMayCFo" target="_blank">
     <img src="https://img.youtube.com/vi/mPMvVMayCFo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+---
+
+#### **核心主題**
+- 本文探讨了**足底筋膜炎（Plantar Fasciitis）**的炎症原因及其与饮食、生活方式的关系，并提出了解决方案。
+
+---
+
+#### **主要觀念**
+1. **炎症的原因**：
+   - 饮食中过量摄入**反式脂肪酸**和**加工 vegetable oils**。
+   - 膳食中健康脂肪的缺乏。
+   - 维生素D缺乏。
+   - 过度频繁进食导致的身体负担。
+
+2. **炎症的影響**：
+   - 不仅限于足底筋膜炎，还可能引发其他健康问题如肥胖、心脏病、癌症等。
+
+---
+
+#### **問題原因**
+1. **飲食因素**：
+   - 過量攝取高ω-6脂肪酸的食物（如soy油、corn oil、canola oil）。
+   - 偏好加工食品和餐廳食物，這些通常使用不健康的 vegetable oils。
+   - 健康脂肪的攝取不足（如butter、coconut oil、avocado、olive oil）。
+
+2. **生活方式因素**：
+   - 频繁进食导致身体炎症反应加剧。
+   - 紫外線暴露不足，導致維生素D缺乏。
+
+3. **毒素影響**：
+   - 加工 vegetable oils 中可能含有Glyphosate（除草劑）和Hexane（溶劑），進一步加重炎症。
+
+---
+
+#### **解決方法**
+1. **飲食調整**：
+   - 減少加工 vegetable oils 的攝取，轉向使用健康的脂肪來源（如butter、coconut oil、avocado、olive oil）。
+   - 遵循間歇性斷食以降低炎症反應。
+
+2. **營養補充**：
+   - 补充高劑量維生素D3（建議劑量：10,000-20,000 IU/天），以快速減輕炎症。
+
+3. ** toxins detoxification**：
+   - 減少暴露於Glyphosate和Hexane等毒素，選擇有機食品和天然食用油。
+   - 需要四年時間來排毒這些不健康脂肪。
+
+---
+
+#### **健康建議**
+1. **飲食建議**：
+   - 增加富含ω-3脂肪酸的食物攝取（如深海魚類、核桃等）。
+   - 減少對加工食品和餐廳食物的依賴，因為這些食物通常含有不健康的 vegetable oils。
+
+2. **生活方式建議**：
+   - 多晒太陽以增加維生素D攝取，尤其是在冬季。
+   - 遵循間歇性斷食以改善整體健康狀況。
+
+3. **環境建議**：
+   - 選擇有機食品和天然食用油，避免含有Glyphosate的食物。
+   - 減少外出就餐的次數，因為餐廳通常使用不健康的油脂。
+
+---
+
+#### **結論**
+- 足底筋膜炎的炎症問題與飲食、生活方式密切相关。通過調整飲食結構（如減少反式脂肪酸攝取、增加健康脂肪來源）、補充維生素D、實踐間歇性斷食等方法，可以有效減輕炎症並改善整體健康狀況。
+
+---
+
+### 英文摘要
+This article explores the causes and solutions of plantar fasciitis, focusing on inflammation-related factors such as diet, lifestyle, and environmental toxins. Key points include the role of unhealthy fats (e.g., vegetable oils), vitamin D deficiency, and frequent eating in exacerbating inflammation. Solutions involve dietary adjustments (e.g., reducing processed vegetable oils and increasing healthy fats), vitamin D supplementation, and intermittent fasting.
+
+---
+
+### 中文翻譯
+本文探討了足底筋膜炎的炎症原因及其與飲食、生活方式和環境毒素之間的關聯。主要因素包括不健康脂肪（如植物油）的攝取過量、維生素D缺乏以及頻繁進食導致的炎症加重。解決方法包括調整飲食結構（減少加工植物油攝取，增加健康脂肪來源）、補充維生素D以及實踐間歇性斷食。
 </details>
 
 <details>
-<summary>3876. 9 Unexpected Benefits of Hydrogen Peroxide</summary><br>
+<summary>3876. [2022-02-14] 9 Unexpected Benefits of Hydrogen Peroxide</summary><br>
 
 <a href="https://www.youtube.com/watch?v=YVkR8PCqlZY" target="_blank">
     <img src="https://img.youtube.com/vi/YVkR8PCqlZY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# CORE THEME: MULTIFACETED BENEFITS OF HYDROGEN PEROXIDE AS A NATURAL DISINFECTANT AND HOME REMEDY
 
+---
+
+## PRIMARY CONCEPTS:
+
+- **Definition and Composition**: Hydrogen peroxide (H₂O₂) is a chemical compound consisting of water and oxygen. It is one of the safest natural disinfectants.
+- **Natural Production in the Body**: The body produces hydrogen peroxide as part of its immune defense mechanisms, including in the lungs, thyroid, and gut.
+- **External Sources**: Found in certain foods like instant coffee, green tea, and black tea.
+
+---
+
+## ISSUES AND REASONS:
+
+- **Common Misuse**: While widely used for disinfecting wounds, hydrogen peroxide has numerous other potential benefits that are often overlooked.
+- **Concentration Concerns**: Using higher concentrations (e.g., 10% or 20%) can be harmful; only 3% concentration is recommended for home use.
+
+---
+
+## SOLUTIONS AND HEALTH ADVICE:
+
+### 1. Ear Cleaning:
+- **Method**: Tilt the head and insert a few drops of hydrogen peroxide into the ear using an dropper. Press the earlobe to pump the solution 10 times, allowing it to soften earwax and kill bacteria.
+- **Follow-Up**: After one minute, sit upright and use a cotton swab to remove loosened wax.
+
+### 2. Fungal Infections (e.g., Athlete's Foot):
+- **Application**: Use hydrogen peroxide to treat fungal infections on nails or hands. For athlete's foot, consider combining with iodine for enhanced effectiveness.
+
+### 3. Sore Throat Relief:
+- **Gargling Solution**: Mix one tablespoon of hydrogen peroxide with three ounces of water and gargle to kill throat bacteria.
+
+### 4. Acne Treatment:
+- **Topical Use**: Apply hydrogen peroxide using a cotton ball or swab directly to acne spots to reduce bacterial presence and inflammation.
+
+### 5. Mold and Mildew Cleaning:
+- **Cleaning Solution**: Spray undiluted 3% hydrogen peroxide on moldy surfaces, leave for 30 minutes, then rinse.
+
+### 6. Stain Removal:
+- **Usage**: Treat blood, wine, or grass stains by applying hydrogen peroxide directly to the affected area.
+
+### 7. Plant Fungus Control:
+- **Treatment**: Mix four tablespoons of hydrogen peroxide in a pint of water and spray on infected plants twice weekly.
+
+### 8. Vegetable Washing:
+- **Washing Solution**: Soak vegetables in a solution of one-quarter cup of hydrogen peroxide in a gallon of water for 20 minutes to remove pesticides and pathogens.
+
+---
+
+## CONCLUSION:
+
+Hydrogen peroxide is a versatile, cost-effective natural remedy with multiple applications beyond its traditional use as a wound disinfectant. Its antimicrobial properties make it effective for treating infections, cleaning surfaces, and preserving food. Always use the correct concentration (3%) and follow proper application methods to ensure safety and effectiveness.
 </details>
 
 <details>
-<summary>3875. Calm Your Mind and Body: Dr. Berg's Stress-Reducing Elixir</summary><br>
+<summary>3875. [2022-02-13] Calm Your Mind and Body: Dr. Berg's Stress-Reducing Elixir</summary><br>
 
 <a href="https://www.youtube.com/watch?v=j6I6kbaJPeQ" target="_blank">
     <img src="https://img.youtube.com/vi/j6I6kbaJPeQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：壓力管理與舒緩方案
 
+#### 核心主題  
+本文探討了壓力對人體健康的影响，特別是慢性壓力的潛在危害，並介紹了一種簡單有效的自然舒緩方法——洋甘菊茶（Lemon Balm Tea）。
+
+---
+
+#### 主要觀念  
+1. **壓力的雙面性**：適度的压力是有益的，能增強身體與心理的韌性；但長期過高的压力會導致器官功能衰退。  
+2. **壓力來源**：壓力感知通過下丘腦-垂體-腎上腺軸（HPA Axis）引發皮質醇分泌增加，影響免疫系統、消化系統、呼吸系統及神經系統等功能。  
+
+---
+
+#### 問題原因  
+1. **免疫功能受抑**：壓力導致免疫細胞活性降低，增加感染風險。  
+2. **消化紊亂**：壓力干擾腸胃蠕動，可能引發胃潰瘍或腸易激惹症候群。  
+3. **呼吸障礙**：壓力導致過度換氣，可能誘發哮喘或恐慌 attacks。  
+4. **神經系統耗損**：壓力影響記憶與情緒調節，並降低神經遞質（如GABA）的功效，造成心理紊亂。  
+
+---
+
+#### 解決方法  
+1. **增強GABA功能**：研究顯示，洋甘菊茶中的活性成分能抑制GABA降解酶，提升GABA水平，從而 снижает cortisol分泌，發揮抗焦慮與 antidepressant效果。  
+2. **簡單的舒緩方案**：每日飲用洋甘菊茶（建議早晚各一次），可快速緩解壓力並改善睡眠品質。  
+
+---
+
+#### 健康建議  
+1. **飲食調整**：增加富含Omega-3脂肪酸的食物，如深海魚或亞麻籽，有助於減輕炎症與壓力反應。  
+2. **生活習慣**：保持規律的作息時間，進行适度的運動，以增強身體對抗壓力的能力。  
+3. **心理調適**：學習放鬆技巧（如深度呼吸或冥想），幫助穩定情緒並降低壓力感知。  
+
+---
+
+#### 結論  
+洋甘菊茶作為一種自然療法，在減輕壓力、改善睡眠和提升情緒方面具有顯著效果。結合健康的生活方式，可有效管理壓力，維持整體健康。
 </details>
 
 <details>
