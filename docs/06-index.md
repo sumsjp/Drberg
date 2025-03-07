@@ -670,113 +670,484 @@
 </details>
 
 <details>
-<summary>639. The Deeper Cause of an Eye Stye, Boil or Abscess – Eye Infection Stye – Dr.Berg</summary><br>
+<summary>639. [2017-01-05] The Deeper Cause of an Eye Stye, Boil or Abscess – Eye Infection Stye – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=YKl1j0ZCsLE" target="_blank">
     <img src="https://img.youtube.com/vi/YKl1j0ZCsLE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- **Definition of a Stye**: A stye is a fluid-filled puss sac on the inside of the eyelid, causing significant irritation.  
+- **Relation to Boils**: Similar to boils found in areas such as underarms, back, and behind knees, all resulting from bacterial or viral infections.  
 
+### 主要觀念  
+1. **Pathophysiology of Styes**:  
+   - Styes arise due to infections, primarily bacterial but sometimes viral.  
+   - The immune system's neutrophils (a type of white blood cell) play a crucial role in combating these infections by engulfing and eliminating pathogens.  
+
+2. **Role of Neutrophils**:  
+   - Neutrophils function as the primary defense mechanism against infections, akin to Pac-Man, by consuming bacteria.  
+   - However, excessive sugar consumption can impair their functionality.  
+
+3. **Impact of Sugar on Immunity**:  
+   - High sugar intake, common in conditions like diabetes or prediabetes (including hypoglycemic insulin resistance), diverts neutrophils from fighting infections to focusing on metabolizing sugar.  
+   - This diversion reduces the effectiveness of the immune response, allowing infections to persist.  
+
+### 啟發的原因  
+- **Sugar's Immunomodulatory Effect**: Excessive sugar consumption disrupts neutrophil activity, weakening the body's ability to combat infections effectively.  
+
+### 解決方法  
+1. **Dietary Modifications**:  
+   - Eliminate all forms of sugars, including those found in processed foods like bread, pasta, cereal, crackers, biscuits, waffles, and pancakes.  
+   - Avoid consuming sugary substances such as syrup, glucose-based medications, juice, or sweetened drinks during an infection.  
+
+2. **Lifestyle Adjustments**:  
+   - Reduce snacking habits to minimize sugar intake and promote overall immune health.  
+
+### 健康建議  
+- **Balanced Diet**: Opt for low-sugar, nutrient-rich foods to support immune function.  
+- **Monitor Blood Sugar Levels**: For individuals with diabetes or prediabetes, maintaining stable blood sugar levels is essential for optimal immune response.  
+- **Avoid Sugary Remedies**: Refrain from using sugary medications or beverages when treating infections like styes.  
+
+### 結論  
+- **Importance of Diet in Immune Health**: Reducing sugar intake can significantly enhance the body's ability to fight infections, leading to faster recovery from conditions such as styes and boils.  
+- **Practical Steps for Prevention and Recovery**: By adopting a low-sugar diet and avoiding sugary remedies, individuals can effectively manage and prevent infections related to neutrophil dysfunction.
 </details>
 
 <details>
-<summary>638. Coronary Heart Disease & Vitamin E Explained By Dr. Berg</summary><br>
+<summary>638. [2017-01-04] Coronary Heart Disease & Vitamin E Explained By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KgF99DleFWo" target="_blank">
     <img src="https://img.youtube.com/vi/KgF99DleFWo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小結點整理
 
+#### 1. 核心主題  
+- 探讨维生素E在冠状动脉疾病（Coronary Heart Disease, CHD）中的作用及其影响。
+
+#### 2. 主要觀念  
+- **合成维生素E的问题**：研究中显示，使用合成维生素E可能导致冠状动脉疾病，因其缺乏自然维生素E的复杂成分。
+- **自然维生素E的优势**：自然存在的维生素E是一种复杂的混合物，包含多种抗氧化成分（如α、β、γ、δ-生育酚）以及其他辅助因子，这些成分协同作用有助于预防和改善心脏健康。
+
+#### 3. 問題原因  
+- 合成维生素E无法提供完整的维生素E复杂结构，导致其在预防或治疗冠状动脉疾病方面效果不佳。
+- 现代加工食品中维生素E的破坏：谷物在制成面粉后容易氧化，导致维生素E损失；市售面包通常缺乏有效的维生素E。
+
+#### 4. 解決定見  
+- **选择天然维生素E补充剂**：优先选择标有“tocotrienols”（天然维生素E的一种形式）的产品，因其包含完整的维生素E组件。
+- **通过饮食摄取维生素E**：推荐摄入富含维生素E的食物，如未加工的全谷物、坚果、深绿叶蔬菜（特别是 lettuce）和棕榈油。
+
+#### 5. 健康建議  
+- 饮食建议：
+  - 每日摄入大量新鲜绿叶蔬菜，尤其是lettuce，因其富含维生素E。
+  - 尽量减少加工食品的摄入，选择未精制的全谷物。
+  - 合理使用植物油（如棕榈油），以获取天然维生素E。
+- 补充剂建议：
+  - 使用标明为“天然”且包含多种生育酚形式的产品，避免单一成分合成维生素E。
+
+#### 6. 結論  
+- 自然维生素E通过其抗氧化特性、溶解动脉斑块和防止血小板聚集等多种机制，在预防和治疗冠状动脉疾病中发挥重要作用。
+- 合成维生素E由于缺乏完整的维生素E复杂结构，无法达到相同效果。
+- 建议通过均衡饮食和选择高质量的天然维生素E补充剂来摄取足够的维生素E。
+
+---
+
+以上整理基于原文内容，使用了正式且专业的学术用语，并以小节形式进行了清晰的归纳。
 </details>
 
 <details>
-<summary>637. The Amazing Neutrophil Function – Dr.Berg</summary><br>
+<summary>637. [2017-01-03] The Amazing Neutrophil Function – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=B7Cc7VGpIDw" target="_blank">
     <img src="https://img.youtube.com/vi/B7Cc7VGpIDw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- **核心主題**：探讨中性粒细胞（neutrophils）在免疫系统中的角色及其对健康的影响。
+
+#### 主要觀念
+1. **中性粒细胞的定义与功能**：
+   - 中性粒细胞是一种白血球，属于吞噬细胞（phagocytes），主要负责吞噬和破坏细菌、真菌（如念珠菌）、某些病毒以及死亡的宿主细胞。
+   - 其功能可比作“身体的清道夫”，在感染和炎症反应中发挥重要作用。
+
+2. **中性粒细胞的局限性**：
+   - 饮食中的精制碳水化合物（尤其是糖分）会削弱其抗菌能力，导致免疫系统效率下降。
+   - 感情创伤或悲痛（如丧亲、离婚等）会抑制中性粒细胞的功能，使个体更容易感染和发生自身免疫疾病。
+
+3. **中性粒细胞在自身免疫疾病中的作用**：
+   - 在某些自身免疫疾病（如类风湿性关节炎）中，中性粒细胞可能失去识别“自我”与“非我”的能力，攻击自身组织。
+
+#### 問題原因
+- 糖分摄入过多导致中性粒细胞功能受损。
+- 情绪压力或悲痛事件抑制免疫系统。
+- 营养缺乏（如维生素C不足）影响免疫反应。
+
+#### 解決方法
+1. **营养支持**：
+   - 补充维生素C，优先选择含有生物类黄酮的天然来源（如柠檬、橙子等），避免单一成分补充剂。
+   
+2. **饮食调整**：
+   - 减少精制糖和高碳水化合物的摄入，以维持免疫系统的正常功能。
+
+3. **酸化疗法**：
+   - 通过饮用稀释的苹果 cider vinegar 或其他酸性物质来调节体内pH值，促进中性粒细胞的活性。
+   
+4. **压力管理**：
+   - 减少长期压力，避免情绪创伤对免疫系统的影响。
+
+#### 健康建議
+1. **饮食建议**：
+   - 多摄入富含维生素C的食物（如柑橘类水果、草莓、猕猴桃等）。
+   - 避免过量消费精制糖和高碳水化合物食物。
+
+2. **生活方式建议**：
+   - 管理压力，保持心理健康，避免长期处于高压状态。
+   - 考虑使用酸化疗法作为辅助手段，但需在专业指导下进行。
+
+3. **营养补充建议**：
+   - 选择含有生物类黄酮的维生素C补充剂，确保全面营养。
+
+#### 總結
+中性粒细胞是免疫系统的重要组成部分，其功能受饮食、情绪和营养状态的影响。通过调整饮食结构、补充必要的营养素以及管理压力，可以有效提升中性粒细胞的功能，从而增强免疫力，预防感染和自身免疫疾病的发生。
 </details>
 
 <details>
-<summary>636. Dr. Berg Gets a Chiropractic Adjustment</summary><br>
+<summary>636. [2017-01-02] Dr. Berg Gets a Chiropractic Adjustment</summary><br>
 
 <a href="https://www.youtube.com/watch?v=EkGDRlmsr1k" target="_blank">
     <img src="https://img.youtube.com/vi/EkGDRlmsr1k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 作者分享了自己從患者轉為整脊科醫生的經歷及體驗。
+- 強調整脊技術（Chiropractic Bop Physics）的效果和重要性。
 
+### 主要觀念
+1. 整脊治療的歷史淵源：
+   - 自九年级開始接受整脊 treatment。
+   - 因摔跤導致的受傷促使接觸整脊治療。
+   
+2. 整脊治療的感受與影響：
+   - 第一次 adjustment 結果驚人，帶來極佳的身體感受。
+   - 激發了成為整脊科醫生的決心。
+
+3. 選擇 Dr. Art的原因：
+   - 主要技術：Chiropractic Bop Physics，被譽為最科學、研究充足的調整方法之一。
+   - 多次受傷經歷（出生 травма, 車禍, 摩托車事故）促使尋求專業治療。
+
+### 問題原因
+- 多次受傷導致脊椎問題，影響健康和生活質素。
+- 常規醫療方法可能未能徹底解決問題。
+
+### 解決方法
+1. 選擇經驗豐富的整脊科醫生。
+2. 采用科學且有效的調整技術（Chiropractic Bop Physics）。
+3. 定期進行脊椎調整，以維持脊柱健康和整體平衡。
+
+### 健康建議
+- 如有持續的身體不適或受傷史，考慮接受專業的整脊治療。
+- 了解不同整脊技術的效果，選擇適合自己的治療方式。
+- 設立定期檢查脊椎健康的習慣，預防問題於未然。
+
+### 結論
+- 整脊治療不僅能緩解疼痛，更能从根本改善身體功能和健康狀況。
+- 適當的脊椎調整對於受傷后恢復和長期健康至關重要。
+- 推薦 Dr. Art 作為專業整脊科醫生，尤其是居住在維吉尼亞、DC或馬里蘭地區的人士。
 </details>
 
 <details>
-<summary>635. How To Lose Weight Consistently – Effective Strategies Explained by Dr. Berg</summary><br>
+<summary>635. [2017-01-01] How To Lose Weight Consistently – Effective Strategies Explained by Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=YPUWzVSly4U" target="_blank">
     <img src="https://img.youtube.com/vi/YPUWzVSly4U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：保持一致性以實現目標
 
+#### 核心主題
+- 保持一致性的關鍵作用於個人目標（如體重管理、健康計劃）的成功。
+
+#### 主要觀念
+1. **一致性的重要性**：
+   - 一致性是指在同一方向上持之以恒地執行某項行為或計劃。
+   - 來自拉丁文，意指「停止移動」或「保持立場」，強調不輕易改變方向。
+
+2. **常見失敗原因**：
+   - **缺乏吸引力**：飲食單調導致厭倦。
+   - **干擾因素**：家庭、社交活動等外部干擾。
+   - **忽視進餐**：因忙碌導致血糖降低，影響判斷力，從而偏離原定計劃。
+
+#### 問題原因
+- **缺乏規劃**：未能提前制定飲食计划，導致臨時決定和不一致行為。
+- **心理因素**：在壓力或血糖波動下，容易做出不理智的選擇。
+
+#### 解決方法
+1. **飲食計劃的必要性**：
+   - 提前制定整周飲食計劃（如使用「Meal Maker」工具）。
+   - 確保飲食多樣化，避免單調。
+
+2. **工具支持**：
+   - 使用「Meal Maker」工具快速生成飲食計劃表，涵蓋素食和葷食選擇。
+   - 通過打印計劃表並張貼於冰箱，隨時提醒和督導執行。
+
+3. **行動建議**：
+   - 確定飲食結構（如 breakfast, lunch, dinner）並選定食材。
+   - 利用工具簡化規劃過程，減輕心理負擔。
+
+#### 健康建議
+- 定期進餐以維持血糖穩定，避免因飢餓或壓力導致的不良飲食選擇。
+- 保持飲食多樣化，增加食物的吸引力和持久性。
+
+#### 結論
+- 成功的关键在於制定詳細計劃並堅持執行。使用工具如「Meal Maker」可有效幫助個人克服常見挑戰，實現健康目標。  
+- 推荐加入會員計劃以獲得額外資源和支持，進一步提升成功機率。
+
+---
+
+### 要點總結
+- **核心**：一致性是實現目標的關鍵。
+- **問題**：缺乏規劃、干擾和心理因素導致不一致。
+- **解決**：提前規劃飲食，使用工具如「Meal Maker」。
+- **建議**：保持定期進餐和飲食多樣化。
+- **結論**：借助工具和計劃，增強執行力以達成目標。
 </details>
 
 <details>
-<summary>634. How To Increase Testosterone in Men – Dr.Berg on Boosting Testosterone</summary><br>
+<summary>634. [2016-12-31] How To Increase Testosterone in Men – Dr.Berg on Boosting Testosterone</summary><br>
 
 <a href="https://www.youtube.com/watch?v=0tj7VfiURuk" target="_blank">
     <img src="https://img.youtube.com/vi/0tj7VfiURuk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：提升男性睾酮激素的方法
 
+---
+
+#### 1. 核心主題  
+- 提升男性睾酮激素的水平及其重要性。  
+
+---
+
+#### 2. 主要觀念  
+- 睾酮激素在男性體內的作用：  
+  - 與前列腺健康、 libido（性慚）、肌肉生長、肌力、皮膚健康、毛髮生長等相關。  
+- 隨著年齡增長，睾酮水平會下降，通常在40歲後顯著降低。  
+
+---
+
+#### 3. 問題原因  
+- 睾酮水平降低的原因：  
+  - 年齡導致的自然下降。  
+  - 生物合成激素的副作用（如睾丸和腎上腺功能受抑）。  
+  - 雌激素 dominance（雌激素過多）。  
+  - 肝臟損傷（脂肪肝）或酒精攝取（增加雌激素水平）。  
+  - 高胰島素血症（與糖分攝取過量相關）。  
+  - 濕疹、抗高血壓藥物、糖尿病藥物等藥物的副作用。  
+  - 芳香化酶活性增加（睾丸和腎上腺中將睾酮轉換為雌激素的酶活性增強）。  
+
+---
+
+#### 4. 解決方法  
+- 抑制芳香化酶活性：  
+  - 使用蒲公英根提取物（已知的芳香化酶抑制劑）。  
+  - 补充鋅。  
+- 提高生長激素水平：  
+  - 生長激素有助於促進睾酮分泌。  
+  - 方法包括：均衡飲食、充足睡眠、降低壓力、進行強力全身性運動（如硬舉）。  
+
+---
+
+#### 5. 健康建議  
+- 饮食調整：  
+  - 減少糖分攝取，避免高胰島素血症。  
+  - 低脂飲食，避免肥肉和油炸食品。  
+  - 增加抗雌激素食物（如十字花科蔬菜： kale、broccoli、 Brussels sprouts、cabbage）。  
+- 生活方式調整：  
+  - 適當日曬以降低皮質醇水平。  
+  - 減少壓力，保證充足睡眠。  
+  - 進行規律的抗阻訓練（如硬舉），提高睾酮水平。  
+- 其他建議：  
+  - 避免不必要的藥物攝取。  
+  - 补充維生素D（尤其是在冬季）。  
+
+---
+
+#### 6. 結論  
+- 提升睾酮激素需綜合飲食、運動和生活方式的調整，以達到最佳效果。  
+- 注意避免依賴生物合成激素，並密切關注藥物對激素水平的影響。
 </details>
 
 <details>
-<summary>633. Soft and Chewy Ginger Cookies (Keto Friendly) – Dr.Berg</summary><br>
+<summary>633. [2016-12-30] Soft and Chewy Ginger Cookies (Keto Friendly) – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fB4oTr8sgy0" target="_blank">
     <img src="https://img.youtube.com/vi/fB4oTr8sgy0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- **影片內容總結**：影片結束部分對整個視頻進行了簡單的回顧。
+- **食譜介紹**：主要介紹了一款「軟心薑味曲奇」（chewy ginger cookie）的製作過程。
+
+#### 主要觀念
+- **製作特色**：強調該曲奇的口感特點為「超級有嚼勁」，並歸因於材料與配方。
+- **健康疑問**：提到了是否為「/gluten-free」（無麩質）食品。
+- **食譜調整**：透露在濕料中未及時加入黴糖（molasses），但最終仍取得理想效果。
+
+#### 問題原因
+- **材料疏忽**：製作過程中忘記將黴糖加入濕料混合，導致需要臨時添加。
+- **口感控制**：如何通過配方來實現曲奇的軟糯口感是製作過程中的焦點。
+
+#### 解决方法
+- **材料補救**：在 Wet ingredients 中階段性地加入黴糖，確保食譜完整。
+- **口感調控**：通過合理的原料比例和混合技巧來實現理想的曲奇口感。
+
+#### 健康建議
+- **食譜特性**：無麩質設計，適合特殊飲食需求的人群。
+- **食用建議**：強烈推薦在製作完成後立即食用，以享受最佳口感。
+
+#### 結論
+- **食譜滿意度**：作者對此次的曲奇製作表示滿意，特別是其軟糯的口感。
+- **影片呼籲**：鼓勵觀眾訂閱頻道，並期待下次視頻的播出。
 </details>
 
 <details>
-<summary>632. What is Hypoglycemia and How to Fix it Naturally? – Dr.Berg</summary><br>
+<summary>632. [2016-12-30] What is Hypoglycemia and How to Fix it Naturally? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=n4hTBVFyyKs" target="_blank">
     <img src="https://img.youtube.com/vi/n4hTBVFyyKs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題
+- 低血糖（Hypoglycemia）的成因、影響及解決方法。
+
+#### 主要觀念
+- 血糖水平正常值為100 mg/dL，過低（<70 mg/dL）會引發低血糖症狀。
+- 低血糖症狀包括腦 Fog、甜食 cravings、焦慮、疲勞、震顫和无力。
+
+#### 問題原因
+- 医療行業建議使用快速升糖物（如糖果或葡萄糖片）治癒低血糖，但未解決根本問題。
+- 病因可能包括：
+  - 胰島素劑量過高導致血糖下降過快。
+  - 饮食中含大量精緻碳水化合物和糖分。
+  - 離不攝取足夠蛋白質，未能刺激胰高血糖素分泌。
+
+#### 解決方法
+1. **藥物調整**：
+   - 減少胰島素劑量，避免血糖過低。
+2. **飲食調整**：
+   - 測試蛋白質攝取量（3-5盎司）以刺激胰高血糖素分泌。
+   - 避免精緻碳水化合物和糖分的攝取。
+3. **長期解決方案**：
+   - 用餐時搭配健康脂肪（如牛油果、椰子油），以延緩血糖波動。
+
+#### 健康建議
+- 替代快速升糖物（如糖果或葡萄糖片）為蛋白質，以自然提高血糖水平。
+- 確保每餐均攝取足夠蛋白質和健康脂肪，避免低血糖反覆發生。
+- 參考提供的飲食計劃，以改善胰島素抵抗和其他相關問題。
+
+#### 結論
+- 低血糖問題可通过調整飲食結構和藥物劑量來解決。
+- 長期來說，均衡攝取蛋白質、蔬菜和健康脂肪可恢復血糖調節機制，完全杜絕低血糖症狀。
 </details>
 
 <details>
-<summary>631. Best Chocolate Chip Cookies Recipe – Keto Friendly – Dr.Berg</summary><br>
+<summary>631. [2016-12-29] Best Chocolate Chip Cookies Recipe – Keto Friendly – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XV-TNaYwAuc" target="_blank">
     <img src="https://img.youtube.com/vi/XV-TNaYwAuc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 文章重點整理
 
+## 核心主題
+- 製作符合酮飲食和低碳水化合物需求的巧克力曲奇餅乾。
+
+## 主要觀念
+- 巧克力曲奇餅乾在口感和健康方面存在挑戰，特別是低卡路里和無糖版本。
+- 使用杏仁粉作為主要原料，因其易於取得且適合酮飲食。
+- 調整傳統食譜中的糖分，以符合健康目標。
+
+## 問題原因
+- 传统巧克力曲奇餅乾的口感（脆度和咀嚼感）難以在低卡路里版本中保持。
+- 市場上現有的酮友食譜可能不符合個人口味需求。
+
+## 解決方法
+- 使用杏仁粉作為主要原料，並參考產品包裝上的食譜。
+- 替代傳統糖分，使用白色粉末狀甜eners混合少量黑strap麥芽糖，以降低碳水化合物含量。
+- 控制添加的糖分量（例如：黑strap麥芽糖僅需1/4茶匙），以符合健康目標。
+
+## 健康建議
+- 選擇低GI（升糖指數）和低碳水化合物的原料，以適合酮飲食或低碳飲食。
+- 注意食物份量控制，確保整體飲食平衡。
+
+## 結論
+- 成功開發出一款口感良好且符合健康需求的巧克力曲奇餅乾食譜。
+- 強調食材選擇和配方調整的重要性，以達到美味與健康的平衡。
 </details>
 
 <details>
-<summary>630. Side Effects of Prednisone – Dr.Berg</summary><br>
+<summary>630. [2016-12-29] Side Effects of Prednisone – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DuuRUyO3SW4" target="_blank">
     <img src="https://img.youtube.com/vi/DuuRUyO3SW4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理：Prednisone 的危害與管理策略
 
+#### 1. 核心主題
+- **Prednisone**（地塞米松）是一種合成皮質醇，廣泛用於治療自身免疫疾病、炎症性條件和某些皮膚問題。
+- 雖然有效，但其濫用和副作用引人關注。
+
+#### 2. 主要觀念
+- **Prednisone 的作用機制**：作為激素療法，短時間內能顯著减轻症狀。
+- **濫用現象**：醫生過度開具，患者依賴性增加，導致健康問題惡化。
+
+#### 3. 問題原因
+- **副作用多樣且嚴重**：
+  - 免疫抑制，增加感染風險。
+  - 約束肌肉生成，導致體力下降。
+  - 破壞腺垂體功能，引發激素紊亂。
+  - 增加代謝疾病風險（如糖尿病）。
+  - 影響身心健康，如失眠和心理壓力。
+
+#### 4. 解決方法
+- **逐步減量法**：避免突然停藥，防止反跳性炎症。
+- **補充療法**：
+  - **Cortisol 支持劑**：幫助恢復 adrenal 功能。
+  - **NAC（N-Acetylcysteine）**：增強抗氧化能力，修復氧化應激損傷。
+  - **Nettle 茎根**：天然抗炎成分，減輕炎症反應。
+
+#### 5. 健康建議
+- **飲食調整**：
+  - 增加富含維生素C的食物（如柑橘類水果）和高纖維食物（如燕麥、蔬菜）。
+  - 減少精製糖和反式脂肪的攝取，控制血糖。
+  - 多攝取抗氧化劑，保護細胞免受自由基侵害。
+
+- **生活方式建議**：
+  - 觀光旅遊：保持規律運動，提升整體健康。
+  - 睡眠管理：確保充足睡眠，促進身體恢復。
+  - 情緒調理：壓力管理，避免精神崩潰。
+
+#### 6. 結論
+- **Prednisone 的雙刃功能力**：短期有效但長期風險大。
+- **科學管理和替代方案**：通過逐步減量、補充療法和健康生活方式，降低副作用並恢復健康。
 </details>
 
 <details>

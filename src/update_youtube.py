@@ -32,6 +32,7 @@ sender_email = os.getenv('SENDER_EMAIL')
 sender_password= os.getenv('SENDER_PASSWORD')
 # print(f"email={sender_email}, password={sender_password}")
 
+receiver_emails = ["jack.wu0205@gmail.com", "mingshing.su@gmail.com", "sibuzu.ai@gmail.com"]
 receiver_emails = ["sibuzu.ai@gmail.com"]
 
 def update_list():
