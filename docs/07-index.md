@@ -890,113 +890,608 @@
 </details>
 
 <details>
-<summary>719. Low Carb Chocolate Lava Cake Bites Recipe – Dr. Berg</summary><br>
+<summary>719. [2017-03-07] Low Carb Chocolate Lava Cake Bites Recipe – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=GX47-EE_AM0" target="_blank">
     <img src="https://img.youtube.com/vi/GX47-EE_AM0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題
+- 探讨健康甜點的製作方法，尤其是快速且低負擔的甜點食譜。
+
+#### 主要觀念
+1. ** Mug Cake的概念**：
+   - 快速、簡單、適合忙碌時製作。
+   - 使用少量材料，如 almond flour 和 coconut flour，不含傳統的面粉和糖分。
+
+2. **Brownie版本的創新**：
+   - 作者將傳統的 mug cake 改良為小杯蛋糕形式，製作八個份量。
+   - 使用 sugar-free chocolate chips 提升口感並降低糖分攝取。
+
+#### 問題原因
+- 過度攝取甜點易導致熱量過剩和健康問題。
+- 传统甜點多使用高糖、高脂材料，不符合健康飲食需求。
+
+#### 解決方法
+1. **健康材料的選擇**：
+   - 使用 almond flour 和 coconut flour 等低GI（升糖指數）材料。
+   - 以 sugar-free chocolate chips 替代普通巧克力芯片，降低糖分攝取。
+
+2. **份量控制**：
+   - 制作小杯蛋糕形式，避免一次攝取過多甜點。
+   - 分裝保存，控制每日食用量。
+
+#### 健康建議
+- 選擇低糖、低脂的甜點材料，降低熱量攝取。
+- 控制份量，避免過度食用。
+- 平衡飲食，搭配蔬菜和蛋白質攝取，以達到營養均衡。
+
+#### 結論
+- 健康的甜點製作不僅能滿足味蕾，還能控制熱量攝取。
+- 通過材料和份量的調整，可以輕鬆做出既健康又美味的甜點。
+
+### 亮點（Highlight）
+文章的核心價值在於提供了一個創新且健康的甜點製作方法，將傳統的 mug cake 改良為低糖、低脂的小杯蛋糕形式，適合現代人追求健康飲食的需求。
 </details>
 
 <details>
-<summary>718. Amazing Avocado Benefits – Dr. Berg</summary><br>
+<summary>718. [2017-03-07] Amazing Avocado Benefits – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=yrp_VtKaKlE" target="_blank">
     <img src="https://img.youtube.com/vi/yrp_VtKaKlE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：牛油果在 ketogenic 饮食中的作用及其營養價值
 
+#### 主要觀念：
+1. **牛油果的營養特點**：
+   - 高脂肪、低碳水化合物、幾乎不含糖。
+   - 富含鉀（每杯約800毫克，是香蕉的兩倍）。
+   - 含豐富的維生素C、K、E以及前體维生素A（類胡蘿蔔素），可轉化為活性形式的维生素A（視黃醇）。
+   - 含鎂和大量的維生素B5，有益於腎上腺 glands、恢復力、能量和耐力。
+
+2. **脂肪組成**：
+   - 虽然ω-6脂肪酸含量是ω-3的10倍，但牛油果仍具備抗炎特性。
+   - 含有大量的植物甾醇（phytosterols），有助於降低炎症反應。
+
+3. **營養吸收促進作用**：
+   - 牛油果能增強其他食物中類胡蘿蔔素的吸收，特別是來自 carrots、菠菜和 kale 等食物。
+   - 作為脂肪來源，牛油果幫助將前體维生素A轉化為活性形式的витамінA（視黃醇）。
+
+#### 問題原因：
+- 幾乎所有營養集中在靠近種皮的部分，若處理方式不當，可能無法充分吸收其營養價值。
+
+#### 解決方法：
+- **食用建議**：
+  - 在食用時保留靠近果肉的種皮部分以獲取更多營養。
+  - 切割後輕柔剝離種皮，確保果肉完整，最大限度地保留營養成分。
+
+#### 健康建議：
+- 對於希望增强免疫系統、促進視力健康和改善肌膚狀況的人群，牛油果是一種理想的選擇。
+- 適合需要控制碳水化合物攝取的飲食計劃（如酮egenic diet）。
+
+#### 結論：
+牛油果不僅是高營養價值的食物來源，還能顯著增強其他食物中關鍵營養素的吸收效果。建議在日常飲食中增加牛油果的攝取量，以全面提升健康水平。
 </details>
 
 <details>
-<summary>717. Gallbladder Removed? What Happens Next Explained By Dr. Berg</summary><br>
+<summary>717. [2017-03-06] Gallbladder Removed? What Happens Next Explained By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Hw4MdZQYCwY" target="_blank">
     <img src="https://img.youtube.com/vi/Hw4MdZQYCwY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：膽囊切除後的影響與健康管理
 
+#### 主要觀念：
+1. **膽汁的功能**：
+   - 胆汁由肝臟產生，儲存於膽囊並被濃縮20倍。
+   - 用於分解脂肪（如膽固醇和磷脂），協助吸收脂溶性維生素（A、D、E、K2）及必需脂肪酸（如ω-3和ω-6）。
+
+2. **膽囊切除的影響**：
+   - 胆汁濃度降低，導致脂肪消化不完全。
+   - 可能引發脂溶性維生素 deficiency 和必需脂肪酸缺乏症。
+   - 風險包括腸胃不適（如腹脹、右肩痠痛）、毒性物質積累和甲状腺功能減退。
+
+#### 問題原因：
+1. **膽囊切除的後遺症**：
+   - 胆汁分泌不足，影響脂肪消化。
+   - 可能導致代謝紊亂，如脂溶性維生素吸收障礙。
+
+2. **膽石形成的病因**：
+   - 膳食失衡或代謝異常導致膽汁中膽固醇過多，形成結晶。
+   - 手術後若未糾正根本原因，可能再次發生膽石症。
+
+#### 解決方法與健康建議：
+1. **補充 bile salts**：
+   - 使用純化膽鹽產品（如推薦的「Gall Bladder Formula」），幫助消化和吸收。
+
+2. **飲食調整**：
+   - 低脂肪饮食，避免高脂食物。
+   - 增加膳食纖維攝取，促進腸胃蠕動。
+
+3. **生活方式Modification**：
+   - 定期運動，Maintain健康體重。
+   - 戒煙限酒，避免增加膽囊負擔。
+
+4. **監測與治療**：
+   - 定期檢查，特別是脂溶性維生素水平和甲状腺功能。
+   - 如有症狀，及時就醫。
+
+#### 結論：
+- 胆囊切除可能引發多種健康問題，需積極採取補充措施和飲食調整。
+- 長期管理可改善消化吸收，降低相關並發症風險。
 </details>
 
 <details>
-<summary>716. How to Make Best Blueberry Mini Muffin Bites by Dr. Berg</summary><br>
+<summary>716. [2017-03-06] How to Make Best Blueberry Mini Muffin Bites by Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=RYXNXb7t1wY" target="_blank">
     <img src="https://img.youtube.com/vi/RYXNXb7t1wY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 重點整理
 
+#### 核心主題  
+- 探讨一种新兴的烘焙趋势：**杯蛋糕（Cake Bites）**，结合了传统蛋糕的便捷性和小巧可爱的外形。
+
+#### 主要觀念  
+1. **杯蛋糕的概念**：  
+   - 杯蛋糕是一种以小カップ型模具制作的微型蛋糕，类似于日式松阪蛋糕或戚风蛋糕。  
+   - 它们通常作为甜点，适合单独享用或作为下午茶的小点心。
+
+2. **传统“ Mug Cake ”的局限性**：  
+   - 使用微波炉制作的传统Mug Cake虽然方便，但口感欠佳，质地较硬且缺乏美感。  
+
+3. **改进方法**：  
+   - 将Mug Cake的概念转化为杯蛋糕的形式，通过使用小カップ型模具在烤箱中烘焙，既保留了便捷性，又提升了口感和外观。
+
+#### 問題原因  
+- 微波炉制作的Mug Cake存在以下问题：  
+  1. **口感问题**：密度较高，质地较硬，类似橡膠。  
+  2. **外观问题**：色泽暗淡，缺乏professional appearance。  
+
+#### 解决方法  
+1. **模具选择**：  
+   - 使用小カップ型模具（如杯蛋糕模具）进行烘焙，使得蛋糕更加松软且外形美观。  
+
+2. **烘焙方式改进**：  
+   - 将微波炉制作改为烤箱烘焙，确保蛋糕均匀受热，提升口感和外观质量。  
+
+3. **份量控制**：  
+   - 每个模具的容量较小，适合少量制作，避免过量烘焙导致浪费或诱惑力过大。  
+
+#### 健康建議  
+1. **低糖、无麸质选项**：  
+   - 提供了低糖甚至无糖的食谱选择，适合注重健康的人群。  
+
+2. **份量控制**：  
+   - 杯蛋糕体积小巧，适合适量食用，避免过量摄入热量。  
+
+3. **多样化口味**：  
+   - 可以根据个人喜好添加不同的配料（如水果、坚果等），增加营养均衡的可能性。  
+
+#### 結論  
+- 杯蛋糕是一种既美味又健康的甜点选择，结合了便捷性和美观性。通过改进制作方法和模具选择，可以显著提升其口感和外观，使其成为家庭烘焙的理想选择。
+
+### 參考文獻  
+此整理基于影片腳本之內容，以下是影片的基本信息：  
+**影片標題**：自制杯蛋糕（Cake Bites） - 新興甜點 trend  
+**影片作者**：[影片作者所有者名稱]  
+**頻道名稱**：[頻道名称]  
+**影片發布日期**：[影片發布日期]  
+
+此為影片作者本人提供的內容，未引用外部文獻。
 </details>
 
 <details>
-<summary>715. Low Sodium (Hyponatremia): Dangers, Symptoms, and Causes Explained By Dr.Berg</summary><br>
+<summary>715. [2017-03-05] Low Sodium (Hyponatremia): Dangers, Symptoms, and Causes Explained By Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=JnMCLAYkkXw" target="_blank">
     <img src="https://img.youtube.com/vi/JnMCLAYkkXw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- **低血鈉症（Hyponatremia）的危害**：探討低血鈉症的成因、影響及健康風險。
+- **水鹽平衡的重要性**：強調適當攝取 sodium 和水分的重要性，避免因過度攝水或限制鹽分攝取導致的健康問題。
+
+#### 主要觀念
+1. **低血鈉症的定義與影響**：
+   - 低血鈉症是血液中鈉離子濃度過低的情況，可能引發多種生理功能紊亂。
+   - 腎臟疾病、腎上腺功能不足（如艾迪生病）等因素可能导致低血鈉症。
+
+2. **低血鈉症的臨床表現**：
+   - 症狀包括頭痛、噁心、肌肉痙攣、晕厥、食慾減退、神智混亂，甚至昏迷、充血性心力衰竭和中風。
+   - 頭部水腫是腦組織受壓的嚴重情況。
+
+3. **低血鈉症的病因**：
+   - 過度攝取水分（如暴飲暴食、運動後大量喝水）。
+   - 鈉鹽攝取不足或過度排泄（如使用利尿劑、嘔吐、拉肚子、大量流汗、長時間運動未補充鈉鹽）。
+
+4. **水鹽平衡的調節機制**：
+   - 鈉離子具有高度保水性，約25分子水與之結合。
+   - 血液中鈉濃度下降會導致水分外流至組織間隙，引起浮腫和其他並發症。
+
+#### 問題原因
+- **過度攝取水分**：盲目遵循「多喝水」的建議，忽略身體實際需求，可能擾亂水鹽平衡。
+- **鈉鹽攝取失衡**：長期低鹽飲食或因疾病導致鈉鹽丟失过多，影響體內電解質平衡。
+
+#### 解決方法
+1. **適當攝取鹽分**：
+   - 每天建議攝取量為0.5至1.2克（約1/4茶匙），並來源於食鹽。
+   - 避免過度攝取加工食品中的隱藏鹽分，但也要避免過度限制鹽分攝取。
+
+2. **合理飲水**：
+   - 根據口渴感決定飲水量，而非強制性地大量喝水。
+   - 在長時間運動或高溫環境中，應補充含電解質的液體。
+
+3. **注意特殊群體**：
+   - 腎臟病患者、心脏病患者及服用利尿劑的人需特別注意水鹽平衡。
+   - 腎上腺功能不足者可能需要藥物治療來調節鈉濃度。
+
+#### 健康建議
+- **均衡飲食**：攝取天然食物中的鹽分，如海鹽或岩鹽，避免過量食用加工食品。
+- **聽從身體 signals**：根據口渴感和活動強度調整飲水量。
+- **了解個人健康狀況**：如有腎臟或内分泌系統疾病，建議諮詢醫生關於水鹽攝取的建議。
+
+#### 結論
+低血鈉症是一種常見且可能危及生命的電解質失衡，主要由水鹽攝取失衡引起。關鍵在於保持適當的水鹽平衡，避免過度攝取或限制鹽分。健康飲食和合理飲水是預防低血鈉症的最佳方法。如有疑慮，建議諮詢醫療專業人員以獲得個化化的建議。
+
+---
+
+### 結論
+低血鈉症（Hyponatremia）是一種由水鹽失衡引起的常見且可能危及生命的電解質紊亂。其成因主要包括過度攝取水分和鈉鹽攝取不足或丟失过多。為預防此病，應注意以下幾點：
+1. **均衡飲食**：攝取足夠的鹽分（每天0.5至1.2克），避免過量食用加工食品。
+2. **合理飲水**：根據口渴感和活動強度調整飲水量，避免盲目大量喝水。
+3. **注意特殊群體**：腎臟病、心脏病患者及服用利尿劑的人需特別注意水鹽平衡。
+
+健康的生活方式和對身體 signals 的敏感是預防低血鈉症的关键。如有疑慮，建議諮詢醫生以獲得個化化的建議。
 </details>
 
 <details>
-<summary>714. How to Increase Testosterone? Must Avoid These 3 Things & Boost Testosterone – Dr. Berg</summary><br>
+<summary>714. [2017-03-05] How to Increase Testosterone? Must Avoid These 3 Things & Boost Testosterone – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DwXJ9s7CfxM" target="_blank">
     <img src="https://img.youtube.com/vi/DwXJ9s7CfxM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：男性睾酮優化
 
+#### 主要觀念：
+- **睾酮的降低**：隨著年齡增長，尤其是40歲以後，男性的睾酮水平逐漸下降。
+- **激素相互作用**： insulin、estrogen 和 cortisol 的增加會導致睾酮水平下降。
+- **雌激素的作用**：在男性中，高血清雌激素水平與低 testosterone 水平密切相關，並可能引發皮膚變薄等症狀。
+
+#### 問題原因：
+- **飲食因素**：主要來源於含有 GMO 大豆和玉米的動物.products，這些食物會增加體內雌激素水平。
+- **肥胖問題**：體脂中存在芳香酶，將睾酮轉化為雌激素，進一步降低 testosterone 水平。
+- **環境影響**：酒精消費也被證實具有促雌激素作用。
+
+#### 解決方法：
+- **飲食調整**：
+  - 增加十字花科蔬菜（如 kale、broccoli）的攝取，這些食物具有抗雌激素作用。
+  - 使用橄欖油來降低雌激素水平。
+  - 遊牧飼養的動物.products 可以減少外源性雌激素的攝入。
+- **生活方式改變**：
+  - 限制酒精攝取，以避免其促雌激素效果。
+  - 管理壓力，改善adal 皮質醇水平。
+
+#### 健康建議：
+- **肝臟健康**：維持良好的肝臟功能對於調節體內激素平衡至關重要。
+- **運動**： resistance exercise 可以刺激 testosterone 分泌，但需配合其他調整措施才能有效提升睾酮水平。
+- **補充劑**：考慮使用能降低雌激素的補充劑來幫助恢復睾酮平衡。
+
+#### 結論：
+- 低 testosterone 水平主要是由高血清雌激素和其他壓力激素導致。
+- 最有效的解決方法是通過飲食調整和生活方式改變，降低體內雌激素水平並支持肝臟功能。
+
+---
+
+### **中文翻譯與英文原文對照**
+
+#### 核心主題：
+**核心主題：男性睾酮優化**
+- **Core Theme**: Testosterone Optimization
+
+#### 主要觀念：
+- **主要觀念**：
+  - 睾酮水平的降低會影響男性的性欲、肌肉生長和整體活力。
+  - 高血清雌激素是導致低 testosterone 的主要原因，並可能引發男性乳房肥大等問題。
+  - 飲食中過多的 GMO 大豆和玉米會增加體內雌激素水平，進一步降低睾酮。
+
+**主要觀念：**
+- **Key Concepts**:
+  - Declining testosterone levels impact male libido, muscle growth, and overall vitality.
+  - High serum estrogen is the primary cause of low testosterone, leading to issues like gynecomastia.
+  - Excessive intake of GMO soy and corn in diet increases internal estrogen levels, thereby reducing testosterone.
+
+#### 問題原因：
+- **問題原因**：
+  - 遊牧飼養的動物.products 中的雌激素是導致睾酮降低的重要來源。
+  - 腫肉中存在芳香酶，將睾酮轉化為雌激素，進一步降低睾酮水平。
+
+**問題原因：**
+- **Root Causes**:
+  - Estrogen in grass-fed animal products is a significant source of low testosterone.
+  - Fat tissue contains aromatase, which converts testosterone into estrogen, further reducing testosterone levels.
+
+#### 解決方法：
+- **解決方法**：
+  - 增加十字花科蔬菜的攝取，這些食物具有抗雌激素作用。
+  - 使用橄欖油來降低雌激素水平。
+  - 選擇游牧飼養的動物.products 可以減少外源性雌激素的攝入。
+
+**解決方法：**
+- **Solutions**:
+  - Increase intake of cruciferous vegetables, which have anti-estrogenic properties.
+  - Use olive oil to reduce estrogen levels.
+  - Choose grass-fed animal products to minimize external estrogen intake.
+
+#### 健康建議：
+- **健康建議**：
+  - 維持良好的肝臟功能是調節激素平衡的關鍵。
+  - 適當運動可刺激睾酮分泌，但需配合其他調整措施才能有效提升睾酮水平。
+
+**健康建議：**
+- **Health Recommendations**:
+  - Maintaining good liver function is key to regulating hormone balance.
+  - Appropriate exercise stimulates testosterone production but requires other adjustments for effective elevation.
+
+#### 結論：
+- **結論**：
+  - 低睾酮主要是由高血清雌激素和其他壓力激素導致。
+  - 最有效的解決方法是通過飲食調整和生活方式改變，降低體內雌激素水平並支持肝臟功能。
+
+**Conclusion：**
+- **Conclusion**: Low testosterone is primarily caused by high serum estrogen and other stress hormones.
+- The most effective solution involves dietary adjustments and lifestyle changes to reduce internal estrogen levels and support liver function.
 </details>
 
 <details>
-<summary>713. Can Sports Drinks Cause Dehydration & Weight Gain? – Dr. Berg</summary><br>
+<summary>713. [2017-03-04] Can Sports Drinks Cause Dehydration & Weight Gain? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=sp1hhIiFBkI" target="_blank">
     <img src="https://img.youtube.com/vi/sp1hhIiFBkI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **運動飲料的效果評估**：探討運動飲料在hydrate和提升體能方面的有效性。
 
+### 主要觀念
+1. **含糖量問題**：
+   - 多數運動飲料含有高濃度糖分，例如Gatorade每份含36克糖（相當於9茶匙）。
+   - 高糖飲料可能帶來的副作用包括脫水和血糖波動。
+
+2. **hydration效果的爭議**：
+   - 訴求運動飲料能有效hydrating身體並提升表現，但研究表明其效果有限。
+   - 運動飲料中的糖分反而可能導致dehydration，因高糖分會耗竭關鍵礦物質如鉀、鎂和銣。
+
+3. **對體能和健康的影响**：
+   - 高糖飲料可能阻礙脂肪燃燒並提高胰島素水平。
+   - 運動後攝入運動飲料可能抵消運動帶來的減脂效果。
+
+### 問題原因
+1. **過量糖分的影響**：
+   - 高濃度糖分會耗竭關鍵礦物質，導致dehydration。
+   - 高血糖水平會刺激胰島素分泌，阻礙脂肪燃燒。
+
+2. **消費者對運動飲料的誤解**：
+   - 一般人認為運動後需要補充糖分來恢復glycogen儲備，但高糖飲料可能帶來反效果。
+
+### 解決方法
+1. **選擇低糖或無糖的電解質飲料**：
+   - 選擇不含添加糖的電解質飲料來補充水分和礦物質。
+   - 考慮使用天然素材如椰子水等替代品。
+
+2. **合理的營養攝取**：
+   - 運動後可選擇低GI（升糖指數）食物來補充能量，而非高糖飲料。
+
+### 健康建議
+1. **hydration策略**：
+   - 運動期間和之後，優先選擇清水或低糖電解質飲品。
+   - 保持均衡飲食，攝取足夠的礦物質以維持水分平衡。
+
+2. **運動後營養補充**：
+   - 選擇健康的方式來恢復glycogen儲備，如食用全穀物、蔬菜和水果等天然食物。
+   - 減少高糖飲料的攝取，避免血糖波動和脂肪囤積。
+
+### 結論
+- **運動飲料的效果需重新考量**：高糖分的運動飲料不僅不能有效hydrating身體，還可能導致dehydration和其他健康問題。
+- **消費者應提高警覺**：選擇適合的hydration產品，並注意攝取糖分的影響，以達成最佳體能表現和健康目標。
 </details>
 
 <details>
-<summary>712. 3 Weird Causes of Chronic Fatigue – Dr.Berg</summary><br>
+<summary>712. [2017-03-04] 3 Weird Causes of Chronic Fatigue – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=G-rToZ1Fy8o" target="_blank">
     <img src="https://img.youtube.com/vi/G-rToZ1Fy8o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：三種奇怪的疲勞原因及對應措施
 
+#### 核心主題
+本文探討了疲勞的多方面原因，特別是三個較為奇特但常見的原因，並提供了實用的健康建議。
+
+#### 主要觀念
+1. **疲勞的原因分類**：
+   - 常見原因：睡眠不足、低血糖、壓力過大、腺相關問題等。
+   - 奇特原因：舊頭部受傷史、慢性病毒感染（如單核球增多症）、卵巢功能失調。
+
+2. **疲勞的潛在影響**：
+   - 疲勞可能與全身多個系統有關，包括免疫系統、神經系統和内分泌系統。
+   - 長期疲勞可能掩蓋潛在健康問題，需仔細排查原因。
+
+#### 問題原因
+1. **常見疲勞原因**：
+   - 睡眠质量问题：睡眠中斷（如膀胱充盈、鼻塞等）導致REM睡眠不足。
+   - 激素失衡： adrenal fatigue, 低甲狀腺功能，高雌激素水平。
+
+2. **奇特疲勞原因**：
+   - 頭部受傷史：舊頭部受傷可能影響神經系統，引發慢性疲勞。
+   - 慢性病毒感染：如單核球增多症病毒可能在壓力下復發，導致長期疲勞。
+   - 卵巢功能失調：月經不規則、卵巢囊肿等可能擾亂激素 balance，影響情緒和能量水平。
+
+#### 解決方法
+1. **常見原因的解決**：
+   - 睡眠管理：改善睡眠衛生，治療鼻塞或膀胱問題。
+   - 激素平衡：針對 adrenal fatigue 或甲狀腺問題，調整飲食、補充營養（如硒、碘）。
+   
+2. **奇特原因的解決**：
+   - 頭部受傷史：使用	acupressure 技巧release神經張力，改善頭部血液循環。
+   - 慢性病毒感染：通過免疫系統調節技術，幫助病毒進入 remission，恢復能量。
+   - 卵巢功能失調：調整飲食、補充必需營養素（如鐵質、葉酸），平衡激素。
+
+#### 健康建議
+1. **自我評估**：
+   - 興趣低落或疲勞持續，需檢查是否有舊傷或感染史。
+   - 月經不規則或症狀加重，考慮妇科檢查。
+
+2. **生活調整**：
+   - 確保充足睡眠，避免夜間飲食過量。
+   - 管理壓力，保持健康飲食和運動習慣。
+
+3. **醫療諮詢**：
+   - 如疲勞持續或伴有其他症狀（如體重變化、心悸等），及時就醫檢查。
+
+#### 結論
+疲勞的成因多樣且潛藏深層原因。面對慢性疲勞，需從睡眠、壓力、感染史和激素平衡等方面綜合評估，採取針對性措施改善健康狀況。早發現、早干預是關鍵。
 </details>
 
 <details>
-<summary>711. What Causes Constipation? Can Eating More Fiber Help? – Dr.Berg</summary><br>
+<summary>711. [2017-03-03] What Causes Constipation? Can Eating More Fiber Help? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=B-WQsOvhbHI" target="_blank">
     <img src="https://img.youtube.com/vi/B-WQsOvhbHI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 纖維攝取與腸胃蠕動之間的關係。
+- 構建健康的飲食習慣以促進良好的腸胃功能。
 
+### 主要觀念
+1. **纖維的作用**：
+   - 纖維能增加排便量並吸收水分，有助於腸胃蠕動。
+   - 纖維來源包括蔬菜和水果，但需注意攝取方式。
+
+2. **慢性便秘的現象**：
+   - 患有慢性便秘的人與一般人攝取纖維量相似，但效果不同。
+   - 過量纖維可能導致某些人腸胃不適甚至更严重的便秘。
+
+3. **微生物的作用**：
+   - 胃腸道微生物群的健康狀況影響纖維消化能力。
+   - 缺乏適當菌種的人可能無法有效分解高纖食物。
+
+### 問題原因
+1. **過量攝取或不當攝取纖維**：
+   - 過度增加蔬菜攝取量可能导致腸胃不適。
+   - 過量食用某些蔬菜（如羽衣甘蓝）可能引起腹脹。
+
+2. **水分攝取不足**：
+   - 平 pure 水分攝取過多可能影響電解質平衡，導致大便變乾硬。
+   - 不足的電解質攝取會影響腸道hydration和蠕動。
+
+3. **壓力與神經系統影響**：
+   - 高度壓力會抑制副交感神經，妨礙腸胃蠕動。
+   - 緩解壓力對維持正常的消化功能十分重要。
+
+### 解決方法
+1. **調整纖維攝取量**：
+   - 逐步增加蔬菜攝取量，避免突然大量攝入。
+   - 選擇適合個人腸胃狀況的蔬菜類型，避免敏感食物。
+
+2. **均衡水分與電解質攝取**：
+   - 控制每日水份攝取量，避免過度hydration。
+   - 补充適當的電解質以維持腸道的 hydration 和蠕動。
+
+3. **改善壓力管理**：
+   - 採取放鬆技巧和壓力管理策略，如冥想、深呼吸等。
+   - 確保在輕松的環境下進行排便，避免外界干擾。
+
+### 健康建議
+1. **飲食建議**：
+   - 首要選擇蔬菜作為纖維來源，水果其次，特別是對於需要控制體重的人群。
+   - 經長期習慣高纖餐飲者可攝取更多蔬菜，初學者需逐步增加。
+
+2. **水分攝取建議**：
+   - 每日攝取適量的水份，約1.5-2升（根據個人需求調整）。
+   - 配合電解質補充，如使用含钾、鈣、鎂等的天然	source electrolyte粉末。
+
+3. **生活方式建議**：
+   - 確保足夠的休息和規律的飲食習慣。
+   - 適當運動促進腸胃蠕動，改善便秘情況。
+
+### 總結
+- 纖維攝取對於腸胃健康至關重要，但需根據個人狀況調整攝取量和來源。
+- 過度或不當的纖維攝取可能引發腸胃不適，需注意循序漸進。
+- 平衡水分與電解質，並管理壓力，才能有效促進腸胃蠕動和整體健康。
 </details>
 
 <details>
-<summary>710. Dr. Berg's New Electrolyte Powder: Review</summary><br>
+<summary>710. [2017-03-02] Dr. Berg's New Electrolyte Powder: Review</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fOSHArA3ltU" target="_blank">
     <img src="https://img.youtube.com/vi/fOSHArA3ltU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：電解質粉末的功效與應用
 
+#### 1. 核心主題
+- 引入一種新型產品：**電解質粉末**。
+- 强調其無糖、無 maltodextrin 的特性。
+- 提供高劑量的 **鉀離子（Potassium Citrate）**，以及其他多種礦物質。
+
+#### 2. 主要成分與功效
+- **主要成分**：
+  - 鉄assium Citrate：1000 mg。
+  - 其他礦物質：鈣、鎂、氯化鈉、微量 minerals（共71 種）。
+  - 藥用甜味劑（Stevia）和天然風味（ raspberry 和 lemon）。
+  
+- **主要功效**：
+  - **增進體能**：提升運動表現，降低疲勞。
+  - **心血管健康**：支持心臟功能，穩定心律。
+  - **液體平衡**：促進hydration，防止dehydration。
+  - **神經系統支持**：幫助神經傳導，預防肌肉抽搐。
+  - **酸鹼平衡**（pH值）：維持身體pH的穩態。
+
+#### 3. 問題與原因
+- 現今市場上的大多數電解質粉末含糖量高，可能降低運動表現。
+- 電解質失衡會導致：
+  - 肌肉痙攣、疲勞和無力。
+  - 心律不整和其他心血管問題。
+  - 液體平衡失調，引發浮腫或其他液體相關疾病。
+
+#### 4. 解決方案
+- **電解質粉末**提供了一種健康的選擇：
+  - 無糖、低GI（glycemic index）。
+  - 含有多種必需礦物質，可幫助恢復和維持電解質平衡。
+  - 可每日多次服用，每次1-4份，具體劑量需根據個人需求調整。
+
+#### 5. 健康建議
+- **потребление**：
+  - 每日可攝取3-4次，每次溶解於水後飲用。
+  - 適當攝取量能有效提升運動表現和整體健康。
+  
+- **注意事項**：
+  - 高鉀食物過敏或腎臟功能不佳者需謹慎使用，建議先諮詢醫生。
+
+#### 6. 總結
+- **電解質粉末**是一種創新且健康的補充劑，能有效提升運動表現、支持心血管健康和液體平衡。
+- 其無糖配方使其成為市場上更為優質的選擇。
+- 適當使用可幫助維持身體橢衡，增進整體健康。
 </details>
 
 <details>

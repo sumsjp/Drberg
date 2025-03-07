@@ -32,8 +32,8 @@ sender_email = os.getenv('SENDER_EMAIL')
 sender_password= os.getenv('SENDER_PASSWORD')
 # print(f"email={sender_email}, password={sender_password}")
 
-receiver_emails = ["jack.wu0205@gmail.com", "mingshing.su@gmail.com", "sibuzu.ai@gmail.com"]
-# receiver_emails = ["sibuzu.ai@gmail.com"]
+# receiver_emails = ["jack.wu0205@gmail.com", "mingshing.su@gmail.com", "sibuzu.ai@gmail.com"]
+receiver_emails = ["sibuzu.ai@gmail.com"]
 
 def update_list():
     # === yt-dlp 參數設定 ===
@@ -84,8 +84,8 @@ def update_list():
         return combined_df, new_videos_df
     else:
         print("📌 沒有新影片")
-        # new_df = pd.DataFrame()
-        new_df = existing_df.tail(1)
+        new_df = pd.DataFrame()
+        # new_df = existing_df.tail(1) ### for test
         return existing_df, new_df
 
 
@@ -407,7 +407,7 @@ def email_notify(new_df):
 
 if __name__ == '__main__':
     df, new_df = update_list()
-    # download_script(df)
-    # summerize_script()
-    # create_doc(df)
+    download_script(df)
+    summerize_script()
+    create_doc(df)
     email_notify(new_df)
