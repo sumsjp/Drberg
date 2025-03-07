@@ -1,45 +1,208 @@
 <details>
-<summary>400. Your Brain ONLY Needs Glucose (Carbohydrates) is a MYTH! – Dr.Berg</summary><br>
+<summary>400. [2016-05-31] Your Brain ONLY Needs Glucose (Carbohydrates) is a MYTH! – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=-cwojmZxsjY" target="_blank">
     <img src="https://img.youtube.com/vi/-cwojmZxsjY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 脳部的能量來源不僅限於糖類（葡萄糖），還可以利用酮體作為替代燃料。  
 
+---
+
+### 主要觀念  
+1. **糖類供能的限制**  
+   - 葡萄糖是腦的主要能量來源，但其儲備有限（肝臟和肌肉中的glycogen可維持約72小時）。  
+2. **酮體的代謝角色**  
+   - 糖分攝取量降低時，身體會轉向脂肪 metabolism，產生酮體作為替代燃料。  
+3. **酮osis vs. Ketoacidosis**  
+   - 生理性的酮osis是安全的，而病理性酮acidosis（如糖尿病患者）則具有危險性。  
+
+---
+
+### 問題原因  
+- 過度依賴糖類供能會導致：  
+  - 血糖波動（低血糖和高血糖）。  
+  - 痰癭反應（insulin resistance），增加 Alzheimer病和痴呆症的風險。  
+
+---
+
+### 解決方法  
+1. **飲食調整**  
+   - 減少碳水化合物攝取，改為低碳水化合物飲食（ketogenic diet）。  
+   - 增加蔬菜攝取（7-10杯/天），以補充礦物質和維持消化健康。  
+2. **酮osis的健康益處**  
+   - 更穩定的能量來源，降低血糖波動。  
+   - 减少insulin resistance，可能預防 Alzheimer病和痴呆症。  
+
+---
+
+### 健康建議  
+1. 確保飲食中包含足夠的蔬菜，以提供必需的礦物質和纖維。  
+2. 減少精製糖和高碳水化合物食物的攝取，避免血糖波動。  
+3. 了解酮osis與酮acidosis的區別，並在專業人員指導下進行低碳水化合物飲食。  
+
+---
+
+### 結論  
+- 脳部具有多樣化的能源來源，包括葡萄糖和酮體。  
+- 減少糖類依賴、增加脂肪攝取（酮osis）可能是更健康的選擇，特別是對於有記憶問題或糖尿病風險的人群。
 </details>
 
 <details>
-<summary>399. POTASSIUM: The MOST Important Electrolyte! – Dr. Berg</summary><br>
+<summary>399. [2016-05-30] POTASSIUM: The MOST Important Electrolyte! – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=q2vPQYP0dpI" target="_blank">
     <img src="https://img.youtube.com/vi/q2vPQYP0dpI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：核心主題與主要觀念
 
+**核心主題：**  
+- 高血壓的控制與管理。
+
+**主要觀念：**  
+1. **病理機制：**  
+   - 血管痙攣：高血壓的主要病因，導致血管收縮。
+   - 腺苷三磷酸（ATP）不足：影響血管平滑肌的能量供應，引發痙攣。
+
+2. **關鍵因素：**  
+   - 鈉離子：血液中過多的鈉離子促進水分潴留，增加血容量。
+   - 遺傳因素：家族史與高血壓的密切相關性。
+   - 生活方式：飲食、缺乏運動和壓力等因素加重病情。
+
+---
+
+### 問題原因
+
+**導致高血壓的原因包括：**  
+1. **饮食因素：**  
+   - 高鹽饮食：攝入過多鈉離子，促進水腫。
+   - 缺乏鎂、鋇、釹等礦物質：影響血管舒張。
+
+2. **生活方式：**  
+   - 缺乏運動：導致肥胖和血流不暢。
+   - 高壓力：干擾自律神經系統，引發血管痙攣。
+
+3. **遺傳因素：**  
+   - 家族史中有多人患有高血壓。
+
+---
+
+### 解決方法
+
+**改善高血壓的措施包括：**  
+1. **飲食調整：**  
+   - 減少鹽分攝入：每日攝取量控制在5克以下。
+   - 增加鎂、鋇、釹等礦物質的攝取：通過食用全穀物、蔬菜和堅果來補充。
+
+2. **增加運動：**  
+   - 定期進行有氧運動，如快走、跑步或游泳，以改善心血管功能。
+
+3. **壓力管理：**  
+   - 運用放鬆技巧（如冥想、深呼吸）來降低壓力水平。
+   - 考慮心理諮詢以應對持續性壓力。
+
+4. **藥物治療：**  
+   - 在醫生指導下使用降壓藥物，如利尿劑或血管擴張劑。
+
+---
+
+### 健康建議
+
+1. **-monitor blood pressure regularly-：**  
+   - 定期監測血壓，及時發現並處理異常值。
+
+2. **均衡飲食：**  
+   - 多攝取富含礦物質的食物，減少加工食品和高鹽食物的攝入。
+
+3. **保持健康體重：**  
+   - 通過合理飲食和運動維持適當體重，降低心血管負擔。
+
+4. **戒煙限酒：**  
+   - 避免吸煙，限制酒精攝取量，以降低血壓風險。
+
+---
+
+### 結論
+
+高血壓是一種可防可控的慢性疾病，主要由血液中鈉離子過多導致血管痙攣所致。通過飲食調整、增加運動、壓力管理和必要時使用藥物治療，可以有效控制血壓水平。定期監測和健康的生活方式是預防和管理高血壓的关键措施。
+
+---
+
+希望以上的整理能清晰地概括原文的核心內容，並提供有意義的結構化信息。
 </details>
 
 <details>
-<summary>398. How to Relieve Upper Neck Pain – Dr.Berg</summary><br>
+<summary>398. [2016-05-26] How to Relieve Upper Neck Pain – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=i-YaMWsGHWI" target="_blank">
     <img src="https://img.youtube.com/vi/i-YaMWsGHWI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+要解决颈部的紧张和僵硬，可以通过以下方法：
 
+1. **自我按摩**：轻轻按压下巴下方的肌肉结节，保持数秒后放松。反复操作几次，以减轻肌肉紧张。
+
+2. **调整姿势**：避免长时间保持不良姿势，尤其是在使用电子设备时，确保坐姿正确，减少颈部负担。
+
+3. **定期锻炼**：进行姿态矫正训练，如瑜伽或特定的颈部拉伸动作，增强颈部肌肉的柔韧性和力量。
+
+4. **治疗内部问题**：及时处理可能导致颈部紧张的健康问题，例如消化系统疾病，以减轻整体身体压力。
+
+这些方法结合起来，可以有效缓解颈部紧张和僵硬，提升整体健康水平。
 </details>
 
 <details>
-<summary>397. An APPLE a Day Will NOT Let Your Weight Go Away – Dr. Berg</summary><br>
+<summary>397. [2016-05-24] An APPLE a Day Will NOT Let Your Weight Go Away – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hEVNf-KTvvM" target="_blank">
     <img src="https://img.youtube.com/vi/hEVNf-KTvvM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 蘋果的营养价值及其对体重管理和脂肪燃烧的影响。  
 
+### 主要觀念  
+1. **苹果的营养成分**：  
+   - 极低的脂肪和胆固醇含量。  
+   - 含有大量碳水化合物，其中大部分是糖分（每颗苹果约含40克糖）。  
+
+2. **糖分对代谢的影响**：  
+   - 高糖分摄入会导致胰岛素水平升高，从而抑制脂肪燃烧。  
+   - 过量的糖分摄入可能阻断体重减轻的过程。  
+
+### 問題原因  
+- 苹果中的高糖分含量可能导致以下问题：  
+  1. **胰岛素 spikes**：  
+     高糖分摄入会引发胰岛素水平急剧上升，阻碍脂肪分解。  
+  2. **脂肪燃烧受阻**：  
+     胰岛素的存在抑制了脂肪氧化，从而影响体重管理。  
+
+### 解決方法  
+1. **饮食调整建议**：  
+   - 减少或避免食用苹果及其他高糖水果。  
+   - 采用三餐制，避免零食和额外的餐次。  
+
+2. **替代零食选择**：  
+   - 如果需要零食，优先选择低糖、高脂肪的食物（如坚果、奶酪）。  
+   - 将零食与正餐一起食用，以维持稳定的胰岛素水平。  
+
+### 健康建議  
+- 保持规律的饮食习惯，避免不必要的零食摄入。  
+- 增加健康脂肪的摄入量，帮助稳定血糖和胰岛素水平。  
+- 观看相关视频了解更多关于脂肪与身体代谢的信息。  
+
+### 理論結論  
+- 高糖水果（如苹果）可能不利于体重管理和脂肪燃烧。  
+- 通过控制饮食结构和减少胰岛素 spikes，可以更有效地实现体重目标。  
+
+### Reference List  
+1. Berg, D. (Presenter). (Year). *The Impact of Apples on Weight Management and Fat Burning*. [Video]. YouTube. Retrieved from https://www.youtube.com/watch?v=video_id
 </details>
 
 <details>

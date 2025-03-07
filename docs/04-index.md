@@ -1022,58 +1022,304 @@
 </details>
 
 <details>
-<summary>407. Sciatic Nerve Pain Be Gone: Dr. Berg's Quick Fix Solutions</summary><br>
+<summary>407. [2016-06-11] Sciatic Nerve Pain Be Gone: Dr. Berg's Quick Fix Solutions</summary><br>
 
 <a href="https://www.youtube.com/watch?v=qblkXjb1NyQ" target="_blank">
     <img src="https://img.youtube.com/vi/qblkXjb1NyQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **Sciatica (坐骨神經痛)**：介紹sciatica的定義及其症狀。
+- **治療方法**：提出一種針對sciatica的有效治癒技術。
 
+### 主要觀念
+1. **傳統治療方式的不足**：指出傳統治療sciatica的方式往往效果不佳。
+2. **替代治療法**：強調使用按壓和按摩相對側神經來緩解疼痛的重要性。
+3. **自我治療的可能性**：說明患者可以在家自行進行治療的方法。
+
+### 問題原因
+- **神經受壓迫**：sciatica的疼痛是由於坐骨神經受到擠壓或刺激所引起的。
+- **電流干擾**：比喻為「被困住的波浪」，解釋為什麼按壓相對側的神經可以緩解疼痛。
+
+### 解決方法
+1. **按壓 sciatic notch**：
+   - 找到sciatic notch的位置（位於骶骨附近）。
+   - 用指腹或工具（如網球、羽毛球拍塾）輕柔按壓並沿著神經向下推拿。
+2. **分階段治療**：
+   - 從臀部開始，逐步向下按摩至腿部和足部。
+   - 根據患者疼痛位置的變化調整按壓力度和位置。
+
+### 健康建議
+1. **姿勢矯正**：強調保持正確姿勢的重要性，以避免神經受壓。
+2. **定期按摩**：建議定期進行自我按摩或尋求專業治療來維持神經健康。
+3. **逐漸施力**：按壓時應逐步增加力度，以免造成不適。
+
+### 結論
+- **有效性**：此方法已被證明能有效緩解sciatica的症狀。
+- **可行性**：患者可以自行操作，無需依賴複雜設備或專業人員。
+- **持久性**：定期實踐可幫助患者長期維持神經健康，預防症狀復發。
 </details>
 
 <details>
-<summary>406. Amazing Gallbladder FLUSH Using Acupressure – Dr.Berg</summary><br>
+<summary>406. [2016-06-09] Amazing Gallbladder FLUSH Using Acupressure – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=qAycloYO4KE" target="_blank">
     <img src="https://img.youtube.com/vi/qAycloYO4KE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：肝臟清除此法的介紹與實踐指南
 
+#### 核心主題  
+- 肝臟 congestion（充血或堵塞）及其對健康的影響。  
+- 利用 manual acupressure（手動按壓）進行肝臟清潔，而非傳統的橄欖油、麥芽鹽或甜菜方法。  
+
+---
+
+#### 主要觀念  
+1. **肝臟的重要性**：  
+   - 肝臟是人體最大的內部器官，負責處理毒素、 bile（膽汁）分泌等功能。  
+2. **問題根源**：  
+   - 腺體 congestion 可能導致 bile ducts（膽管）阻塞，影響肝脏功能。  
+3. **解決方法**：  
+   - 使用手動按壓技巧刺激肝臟 drainage（引流），促使其自然清潔。  
+
+---
+
+#### 問題原因  
+- 橫膈膜下壓力不均或腺體 congestion 可導致 bile 流動受阻。  
+- 經常忽略對內臟器官的按摩與疏通，影響整體消化功能。  
+
+---
+
+#### 解決方法  
+1. **按壓位置**：  
+   - 肝臟位於右季肋區，大小約等於一個美式橄欖球。  
+   - 按壓點集中在右下腹，靠近橫膈膜下方。  
+2. **按壓技巧**：  
+   - 使用拇指或其他工具輕柔施加壓力，持續约 1-2 分鐘。  
+   - 從右上方向下按至肝臟區域，促使其自然引流。  
+3. **替代方案**：  
+   - 若 gallbladder（膽囊）被移除，可針對胰腺進行按壓，因胰腺與膽囊功能相輔相成。  
+
+---
+
+#### 健康建議  
+1. **日常護理**：  
+   - 定期進行肝臟按壓按摩，促進消化系統健康。  
+2. **注意症狀**：  
+   - 若按壓時感到過度疼痛或不適，應立即停止並諮詢專業醫療人員。  
+3. **使用工具**：  
+   - 可借助按摩工具輔助按壓，降低手部疲勞並提高效果。  
+
+---
+
+#### 結論  
+- 手動按壓法是一種簡單有效的肝臟清潔方法，可在家自行操作。  
+- 通過疏通膽管和促進 bile 流動，能有效改善消化功能並提升整體健康。  
+- 頻繁進行此方法可幫助預防腺體 congestion 及相關代謝問題。
 </details>
 
 <details>
-<summary>405. Bloating * Indigestion * Constipation * Acid Reflux – Dr.Berg</summary><br>
+<summary>405. [2016-06-09] Bloating * Indigestion * Constipation * Acid Reflux – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=nEfN-PoNoRQ" target="_blank">
     <img src="https://img.youtube.com/vi/nEfN-PoNoRQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 1. 核心主題
+本文主要探討胃腸道常見問題，包括：
+- **腹脹**
+- **消化不良**
+- **便秘**
+- **胃酸逆流**
+
+作者強調這些問題之間的相互關聯性，並提出針對性解決方案。
+
+---
+
+#### 2. 主要觀念
+1. 胃腸道功能失常的根本原因是**胃酸不足**。
+   - 胃的主要功能是分解蛋白質和吸收礦物質（鈣、鐵、鉀）。
+   - 足夠的胃酸可刺激肝臟釋放膽汁，並促進胰腺分泌消化酶。
+
+2. **膽汁與胰酶的關鍵作用**：
+   - 胆汁由肝臟產生，儲存在 gallbladder 中，用於分解脂肪和吸收脂溶性維生素。
+   - 胰酶則負責分解 carbohydrates、蛋白質和脂肪。
+
+3. **GERD（胃食道逆流）的根本原因**：
+   - 由于胃酸不足，下食道括約肌無法正常關閉，導致胃酸倒流。
+
+---
+
+#### 3. 問題原因
+1. **胃酸不足**：
+   - 年齡增長導致胃酸分泌減少。
+   - 長期使用抗酸藥物（如抗酸劑）會加重問題。
+
+2. **膽汁與胰酶不足**：
+   - 胆汁不足會影響脂肪吸收，導致腹脹和便秘。
+   - 胰酶不足會造成食物未被充分分解，阻塞腸道。
+
+3. **胃腸蠕動失常**：
+   - 未消化的食物殘渣在腸道內積累，阻礙蠕動，引發便秘。
+
+---
+
+#### 4. 解决方法
+1. **增加胃酸**：
+   - 使用含鹽酸的補充劑（如蘋果醋精華粉）。
+   - 建議餐前服用，以促進膽汁和胰酶的釋放。
+
+2. **補充膽汁與胰酶**：
+   - 使用含純化膽汁鹽和胰酶的復合肥料。
+   - 餐後服用，以幫助脂肪吸收和腸道蠕動。
+
+3. **改善腸胃蠕動**：
+   - 通過完全消化食物，避免未消化殘渣積累。
+
+---
+
+#### 5. 健康建議
+1. **飲食調整**：
+   - 減少高糖、高脂飲食。
+   - 增加纖維攝取，促進腸胃蠕動。
+
+2. **藥物使用 caution**：
+   - 避免長期依賴抗酸劑。
+   - 在專業指導下使用消化酶和膽汁補充劑。
+
+3. **生活習慣**：
+   - 定時進餐，避免暴饮暴食。
+   - 保持適度運動，促進腸胃蠕動。
+
+---
+
+#### 6. 結論
+本文提出了一種綜合性解決方案，通過增加胃酸、補充膽汁與胰酶來改善腹脹、消化不良、便秘和胃酸逆流。這些方法可以幫助恢復正常的腸胃功能，提升整體健康狀況。
 </details>
 
 <details>
-<summary>404. How to STOP Bloating? – 5 Healthy Tips to Lose Belly Fat – Dr.Berg</summary><br>
+<summary>404. [2016-06-09] How to STOP Bloating? – 5 Healthy Tips to Lose Belly Fat – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=cEEaDS4LP6g" target="_blank">
     <img src="https://img.youtube.com/vi/cEEaDS4LP6g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 論述五項健康習慣，旨在幫助減少腹脹和腹部脂肪。
 
+---
+
+### 主要觀念
+1. **避免 grazingsnacking**：頻繁進食會刺激胰島素分泌，導致腸道炎症和腹部腫脹。
+2. **避免特定蔬菜**：某些蔬菜（如西蘭花、甘藍、卷心菜）可能引起個人腹脹。
+3. **避免穀物和糖分**：穀物中的麸質會引起腸道炎症，且糖分會導致胰島素急升，加重腹部脂肪堆積。
+4. **避免過量進食**：暴飲暴食會延長食物消化時間，增加 bụng脹氣的風險。
+5. **避免非饥饿時進食**：非 hunger 時進食会影響脂肪燃燒，導致食物在腸胃中囤積。
+
+---
+
+### 問題原因
+1. **胰島素過高**：頻繁進食或攝入高糖、高穀物飲食會刺激胰岛素分泌，引發腸道炎症和腹部腫脹。
+2. **食物不耐受**：某些蔬菜和谷物可能引起個體-specific 的腹脹反應。
+3. **消化負擔加重**：過量進食或非 hunger 時進食會增加胃腸道的消化負擔，影響食物正常消化。
+
+---
+
+### 解決方法
+1. **控制餐次**：
+   - 一天三餐，逐步減少至二餐，以降低胰岛素水平。
+2. **識別並避免個人敏感食物**：
+   - 避免攝取會引起腹脹的蔬菜和穀物。
+3. **限制糖分和穀物攝取**：
+   - 消除麸質食物和含糖飲食，以降低腸道炎症和胰岛素水平。
+4. **避免暴飲暴食**：
+   - 控制每餐食量，避免邊看电视或社交時的過度進食。
+5. **按需進食**：
+   - 只在身體需要（ hunger）時進食，以促進脂肪燃燒。
+
+---
+
+### 健康建議
+- 采用間 intermittent fasting 或少量多餐的方式，但需根據個人需求調整。
+- 選擇低糖、無麸質的飲食，並注意個人對食物的反應。
+- 維持良好的消化習慣，避免邊做其他活動時進食。
+
+---
+
+### 結論
+通過避免 grazingsnacking、特定蔬菜、穀物和糖分，控制餐次和食量，以及按需進食，可以有效降低腹脹並促進腹部脂肪燃燒。這些健康habit 能幫助身體維持平衡的胰岛素水平和健康的腸道環境，從而改善整體健康狀況。
 </details>
 
 <details>
-<summary>403. What Causes Charley Horses (Calf Cramp) – Dr. Berg</summary><br>
+<summary>403. [2016-06-08] What Causes Charley Horses (Calf Cramp) – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=EvQhexxMNRc" target="_blank">
     <img src="https://img.youtube.com/vi/EvQhexxMNRc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：.charley horse 的成因與防治
 
+---
+
+#### 核心主題  
+- 談論 charley horse（腿部肌肉痙攣）的原因及其與營養缺乏的關聯。
+- 强調 electrolyte（電解質） deficiency（缺乏症）在痙攣中的重要性。
+
+---
+
+#### 主要觀念  
+1. **Electrolytes 的功能**  
+   - Electrolytes 是礦物質，參與人體電氣系統及肌肉收縮與放鬆的過程。  
+2. **主要涉及的 Electrolytes**  
+   - 骨骼肌痙攣（如 charley horse）通常與鈣（Calcium）、鎂（Magnesium）缺乏有關。  
+3. **Charley Horse 的警示作用**  
+   - 痙攣是身體缺乏特定礦物質的信號，可視為「警戒機制」。
+
+---
+
+#### 問題原因  
+1. **主要 deficiency**  
+   - 骨骼肌痙攣通常是鈣和鎂缺乏引起的。  
+2. **次要 deficiency**  
+   - 若症狀持續未改善，可能涉及鉀（Potassium）缺乏。  
+3. **吸收干擾因素**  
+   - 確定 Electrolytes 的吸收不足時，需檢查飲食中蔬菜攝取量是否足夠。
+
+---
+
+#### 解決方法  
+1. **短期措施**  
+   - 服用鈣鎂合劑（Calcium Magnesium）。  
+     - 建議在飯前或睡前服用，因這些礦物質為鹼性，能在空腹時更好吸收。  
+2. **長期改善**  
+   - 調整飲食結構：增加蔬菜攝取量，建議每日攝取7-10杯蔬菜以補充鉀及其他必需的 Electrolytes。  
+3. **特殊情況**  
+   - 若進行低碳水化合物（ketosis）飲食（如生酮 diet），可能需要額外補充鈣質。
+
+---
+
+#### 健康建議  
+1. **飲食調整**  
+   - 以大量蔬菜、蛋白質和健康脂肪為主的飲食模式，可有效預防 Electrolytes 缺乏。  
+2. **藥物輔助**  
+   - 骨骼肌痙攣時，短期服用鈣鎂合劑可快速緩解症狀。  
+3. **自我檢查**  
+   - 通過腳趾伸直測試（Toe Stretch Test）來初步判斷是否為鈣鎂缺乏引起的痙攣。
+
+---
+
+#### 結論  
+- Charley horse 是身體缺乏特定 Electrolytes 的信號，主要涉及鈣、鎂和鉀。  
+- 適當補充礦物質並改善飲食結構是解決問題的最佳方法。  
+- 請注意，若症狀持續或加重，建議及時就醫檢查以排除其他潛在健康問題。
 </details>
 
 <details>
@@ -1088,13 +1334,64 @@
 </details>
 
 <details>
-<summary>401. How to Fix Knee Pain Fast – REALLY WORKS! – Dr. Berg</summary><br>
+<summary>401. [2016-06-01] How to Fix Knee Pain Fast – REALLY WORKS! – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=rlXWB0C0EcU" target="_blank">
     <img src="https://img.youtube.com/vi/rlXWB0C0EcU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題： knee pain treatment and relief through muscle work
 
+This article discusses a method to alleviate pain in the left knee by targeting specific muscles on the opposite leg. The approach involves manual therapy or tools to release tension and knots in these muscles, which are believed to be linked to the knee pain.
+
+---
+
+### 主要觀念：
+
+- **Neurological Connection**: Pain in one side of the body is connected to the opposite side via the nervous system. Addressing muscle tension on the opposite leg can influence pain perception in the affected knee.
+- **Muscle Function**: The thigh muscles (quadriceps) play a significant role in extending and stabilizing the leg, and their dysfunction can contribute to knee pain.
+- **Knots and Tension**: Pain is described as a "stuck flow" caused by knots or tension in the muscles. Releasing these knots can improve circulation and reduce pain signals.
+
+---
+
+### 問題原因：
+
+- **Muscle Tension**: Knots or tightness in the quadriceps, particularly the vastus lateralis and rectus femoris, may contribute to knee pain.
+- **Limited Range of Motion**: Stiffness or restricted movement in the hip and thigh muscles can exacerbate knee discomfort.
+
+---
+
+### 解決方法：
+
+1. **Target Opposite Leg Muscles**:
+   - Focus on the quadriceps (vastus lateralis, rectus femoris, and vastus medialis) on the opposite leg.
+   - Use manual pressure or tools to release knots in the mid-thigh, near the hip.
+
+2. **Manual Therapy Techniques**:
+   - Press down on the center of the thigh and slowly move up toward the hip.
+   - Target the tender spots along the muscle sheath and tendon near the hip bone.
+
+3. **Foam Rolling or Pinning**:
+   - Use a foam roller or pin to release tension along the side of the leg, particularly on the vastus lateralis.
+   - Roll from the side of the leg up into the hip for 1-2 minutes per session.
+
+4. **Repeat and Monitor**:
+   - Perform these techniques once or twice daily for up to a week.
+   - Assess improvement; if no relief is felt, seek medical imaging to rule out structural issues like tears.
+
+---
+
+### 健康建議：
+
+- **Consistency**: Regularly apply the described techniques to maintain muscle flexibility and reduce tension.
+- **Seek Professional Help**: If pain persists or worsens, consult a healthcare provider for imaging (e.g., MRI) to ensure there are no underlying injuries.
+- **Alternative Methods**: Consider using foam rolling or massage therapy to complement manual release techniques.
+
+---
+
+### 結論：
+
+The article proposes that knee pain can be alleviated by addressing muscle tension on the opposite leg through targeted manual therapy. While this approach may provide temporary relief, it is crucial to rule out structural injuries (e.g., tears) if pain persists. Integrating these methods with professional medical advice is recommended for optimal outcomes.
 </details>
 
