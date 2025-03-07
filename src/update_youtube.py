@@ -174,7 +174,7 @@ def make_doc(filename: str, video_list: list):
 <summary>{idx}. {date}{title}</summary><br>
 
 <a href="https://www.youtube.com/watch?v={id}" target="_blank">
-    <img src="https://img.youtube.com/vi/{id}/maxresdefault.jpg" atl="[Youtube]" width="200">
+    <img src="https://img.youtube.com/vi/{id}/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
 {summary_file}
