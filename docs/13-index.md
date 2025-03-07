@@ -692,91 +692,443 @@
 </details>
 
 <details>
-<summary>1337. Hidden Sugar & Carbohydrates In Restaurant Foods Slowing Down Ketosis – Dr. Berg</summary><br>
+<summary>1337. [2018-02-11] Hidden Sugar & Carbohydrates In Restaurant Foods Slowing Down Ketosis – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Krn_VZzf_oo" target="_blank">
     <img src="https://img.youtube.com/vi/Krn_VZzf_oo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 隐藏碳水化合物对酮症（ketosis）的影响及其在日常饮食中的潜在危害。
 
+### 主要觀念
+1. **外出就餐的风险**：餐馆提供的食物中常含有隐藏的高糖或高血糖指数成分，可能导致酮症中断。
+2. **加工食品中的糖分问题**：
+   - 加工奶酪：含有额外添加的糖和碳水化合物。
+   - 烧烤酱：尤其是鸡翅或排骨上的酱料，通常含糖量较高。
+3. **醬汁与蘸料的影响**：许多醬汁和蘸料（如沙拉醬、甜辣醬）中糖分含量高，可能显著影响血糖水平。
+4. **食品添加劑的危害**：
+   - 膳食纖維：常用于增加食物口感，但会额外增加碳水化合物摄入。
+   - 墨西哥灣胺（MSG）：一种常见的人工味 enhancer，可能导致胰岛素反应激增。
+5. **其他隐藏糖源**：
+   - 辣椒醬和沙司：许多品牌中含有大量糖分。
+   - 蛋白棒和蛋白粉：虽然看似健康，但常添加了高血糖指数的糖类（如果糖、麦芽糖醇）。
+
+### 問題原因
+- 餐館為提升食物風味，經常使用高糖或高血糖指數的成分。
+- 消費者對食品配料缺乏充分了解，導致意外攝入 hidden carbs。
+- 部分加工食品（如델리 육류, 脱水蔬菜等）中添加了隱形糖分。
+
+### 解決方法
+1. **提高消費者的覺醒**：
+   - 學會閱讀食品標籤，特別注意含糖配料（如dextrose, maltitol）。
+2. **選擇更健康的替代品**：
+   - 使用橄欖油和醋制作沙拉醬。
+   - 選擇低糖或無糖的蘸料和醬汁。
+3. **外出就餐時的策略**：
+   - 提前了解餐廳菜單，詢問食物配料。
+   - 要求避免使用.MSG和其他潛在有害添加劑。
+4. **自制食品**：优先选择自制醬汁、蘸料和加工食品，以控制糖分攝入。
+
+### 健康建議
+1. **限制精制糖的攝取**：特別是高血糖指數的糖類（如果糖、麥芽糖醇）。
+2. **多喝水**：保持良好的hydration有助于穩定血糖水平。
+3. **選擇高質量食材**：
+   - 選擇未加工或 minimally processed 的奶酪和醬汁。
+   - 確保蛋白棒和蛋白粉不含隱形糖分。
+4. **定期檢查血糖水平**：特別是對酮症患者，了解食物對血糖的影響。
+
+### 結論
+- 隐藏碳水化合物是影響酮症的重要因素。
+- 消費者需提高覺醒，主動查詢食品配料並做出健康選擇。
+- 通過教育和自我保護，可以顯著降低 hidden carbs 的负面影响，促進整體健康。
 </details>
 
 <details>
-<summary>1336. Dr. Berg's Bloopers</summary><br>
+<summary>1336. [2018-02-10] Dr. Berg's Bloopers</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hTFWxhoEzYA" target="_blank">
     <img src="https://img.youtube.com/vi/hTFWxhoEzYA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 文章主要圍繞低碳水化合物（低碳）和酮鹼友好型（酮友誥）餅乾食譜進行討論。
+- 强調餅乾的製作 simplicity 和健康特性。
 
+### 主要觀念
+- 作者推薦一款餅乾，聲稱其為「最棒的餅乾」。
+- 餅乾符合低碳和酮友好的標準。
+- 製作方法簡單易行，適合家庭製作。
+
+### 問題原因
+- 傳統烘焙食品如面包易導致碳水化合物攝取過量，影響健康飲食目標。
+- 常見餅乾可能不符合低碳或酮鹼飲食的要求。
+
+### 解决方法
+- 提供一款低碳、酮友誥且製作簡単的餅乾食譜。
+- 使用「泡泡療法」（Bubble Therapy）技巧，防止家庭聚餐時攝取過多碳水化合物。
+
+### 健康建議
+- 選擇低碳和酮友誥的食品，以符合特定飲食需求。
+- 確保食品製作過程簡單，適合日常食用。
+
+### 結論
+- 作者強調此餅乾食譜在健康和便利性方面的優越性。
+- 鼓勵讀者試做並享受健康的烘焙樂趣。
 </details>
 
 <details>
-<summary>1335. Beef Liver Is The Most Nutritious Food – Dr. Berg</summary><br>
+<summary>1335. [2018-02-10] Beef Liver Is The Most Nutritious Food – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=1ZmXKYL240E" target="_blank">
     <img src="https://img.youtube.com/vi/1ZmXKYL240E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 推崇牛肉肝臟為一種高營養密度的「超級食品」，強調其多方面的健康益處。
+
+#### 主要內容與觀念
+1. **牛肉肝臟的營養價值**
+   - 富含維生素B12，促進能量生成和血液健康。
+   - 提供生物可利用鐵質，優於植物來源的鐵質。
+   - 含豐富的維生素A，支持視力健康。
+   - 其他關鍵 nutrient包括：
+     - 維生素E：有益心臟和更年期症狀緩解。
+     - 維生素D、K2：幫助調節鈣質沉積，防止動脈硬化和關節問題。
+     - 紫CLA、硒：促進排毒，維持骨骼健康。
+     - Omega-3 EPA/DHA：支持心血管健康。
+     - 鉾鉧、葉酸等多種礦物質。
+
+2. **牛肉肝臟的營養密度**
+   - 比其他食物含有更多關鍵nutrients。
+   - 堪稱為最有效的「血液增強劑」，特別適合女性贫血或月經周期需求。
+
+3. **關於食用器官肉的常見疑問**
+   - **迷思破解**：擔心攝取過量維生素A的毒性。
+     - 研究結果主要針對合成vitamin A，自然來源通常安全。
+     - 特殊案例如海豹肝臟因高維生素A含量可能致毒，但普通牛肉肝臟安全。
+   - **排毒功能**：肝臟為解毒器官，毒素儲存在脂肪組織而非肝臟本身。因此，來源良好的肝臟比脂肪更安全。
+
+4. **食用建議**
+   - 適量攝取，建議每周1-2次。
+   - 可搭配低脂飲食計劃（如生酮飲食）使用。
+   - 推薦來源：高品質、草饲喂養的牛肉肝臟製品（如Us Wellness Meats的牛肉肝臟香腸）。
+
+5. **健康功效**
+   - 提供持久的能量和耐力。
+   - 支持免疫系統功能。
+   - 促進血液健康，改善贫血。
+   - 補充抗氧化劑，延緩衰老。
+   - 改善皮膚健康，提升整體營養狀況。
+
+#### 問題與原因
+- 市面上銷售的肝臟來源品質參差不齊，消費者難以確保其安全性。
+- 郊狼故事和合成vitamin A的研究結果可能引起對食用器官肉的疑慮。
+
+#### 解決方法
+1. **選擇高品質來源**
+   - 推薦Us Wellness Meats等可靠品牌，提供草饲、未使用抗生素的牛肉肝臟製品。
+2. **適量攝取**
+   - 每周1-2次，避免過量導致不適。
+3. **搭配均衡飲食**
+   - 適當攝取蔬菜和其他nutrient來源，以平衡營養攝取。
+
+#### 健康建議
+- 對於需要補血或提升免疫功能的人群（如女性、兒童、老年人），食用牛肉肝臟可提供高效營養支持。
+- 選擇可靠來源的器官肉產品，避免普通超市販售的低品質肝臟。
+
+#### 結論
+- 牛肉肝臟是一種極具營養價值的食物，富含多種關鍵nutrients，能有效增強血液健康和整體免疫力。
+- 高品質的牛肉肝臟製品是現代飲食中補充營養的理想選擇，但需注意來源和攝取量。
+
+---
+
+### 文章主旨要義
+本文強調牛肉肝臟作為高營養密度「超級食品」的重要性，詳細介紹其豐富的nutrients及其健康益處，破解食用器官肉的常見疑慮，並提供科學合理的食用建議。核心在於倡导選擇高品質來源的牛肉肝臟製品，以安全有效地提升整體健康狀況。
 </details>
 
 <details>
-<summary>1334. When Is a High Fat Diet Dangerous? – Dr.Berg</summary><br>
+<summary>1334. [2018-02-10] When Is a High Fat Diet Dangerous? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HKasbW6VSaI" target="_blank">
     <img src="https://img.youtube.com/vi/HKasbW6VSaI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節一：核心主題  
+- 探讨高脂肪饮食的安全性及其潜在风险。  
 
+### 小節二：主要觀念  
+1. 高脂肪饮食本身并非危险，问题通常出在与高碳水化合物的结合上。  
+2. 消耗纯饱和脂肪或健康蛋白质在低碳饮食环境下是安全的。  
+
+### 小節三：問題原因  
+- 当高脂肪与高碳水化合物或蛋白质混合摄入时，会显著升高胰岛素水平，增加代谢负担和健康风险。  
+
+### 小節四：解決方法  
+1. 建议采用低碳水化合物饮食模式（如生酮饮食）以降低胰岛素 spikes 并减少代谢压力。  
+2. 选择单独消耗高脂肪或蛋白质，避免与高碳水化合物同时摄入。  
+
+### 小節五：健康建議  
+- 推荐结合限时禁食（例如Keto in a Minute Fasting Program）来优化血脂水平（如胆固醇、甘油三酯）。  
+- 参考相关书籍（如《The New Body Type Guide》）以获得更详细的饮食指导和身体类型分析。  
+
+### 小節六：結論  
+- 高脂肪饮食本身不一定危险，关键在于其与碳水化合物的搭配方式。  
+- 低碳饮食结合限时禁食是提升代谢健康的有效方法。
 </details>
 
 <details>
-<summary>1333. How Dr. Berg Met His Wife Karen: Interesting Story</summary><br>
+<summary>1333. [2018-02-09] How Dr. Berg Met His Wife Karen: Interesting Story</summary><br>
 
 <a href="https://www.youtube.com/watch?v=C9GBNXGtK74" target="_blank">
     <img src="https://img.youtube.com/vi/C9GBNXGtK74/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Key Points of the Article
 
+#### Core Theme: The Evolution of a Professional and Personal Relationship
+- The narrative revolves around the development of a relationship between two individuals, initially characterized by professional interactions and later evolving into personal connections.
+- The story highlights the complexities of liking someone and navigating the dynamics of mutual interest.
+
+#### Major Concepts:
+1. **Three Strikes Theory**:
+   - The concept of "three strikes" is introduced, representing three failed attempts to initiate a romantic relationship. Each strike signifies an opportunity lost due to hesitation or miscommunication.
+   - These strikes include:
+     1. An invitation to go out that was not reciprocated.
+     2. A missed chance during a Christmas gift exchange.
+     3. An invitation to a business holiday party that was initially met with uncertainty.
+
+2. **Building Rapport**:
+   - Efforts were made to build rapport through professional interactions, such as conducting mini-seminars and organizing events like business parties.
+   - The use of Champagne and cookies was an attempt to create a more relaxed environment for public speaking and interaction.
+
+3. **Emotional Cues and Christmas Gift Exchange**:
+   - A significant moment occurred during the Christmas gift exchange when the individual received handmade chocolates, suggesting underlying feelings of affection.
+   - The "back look" (a glance over the shoulder) was interpreted as a sign of mutual interest.
+
+4. **The Pine Tree Incident**:
+   - A humorous and dramatic event where keys were locked inside an apartment, leading to climbing a pine tree to retrieve them. This incident highlighted the lengths one might go to for a potential romantic opportunity.
+   - The incident also served as a bonding experience, albeit with some unintended consequences.
+
+#### Causes of the Problem:
+1. **Miscommunication and Hesitation**:
+   - The primary issue was the lack of clear communication about mutual feelings, leading to missed opportunities.
+   - Both parties seemed hesitant to express their true emotions, creating confusion and uncertainty.
+
+2. **Timing and Context**:
+   - The timing of interactions, particularly during professional settings and holidays, complicated the expression of personal interest.
+
+#### Solutions and Health Recommendations:
+1. **Open Communication**:
+   - Establishing clear communication about feelings is crucial in resolving misunderstandings and fostering healthy relationships.
+   - Encouraging open dialogue can prevent misinterpretations and build stronger connections.
+
+2. **Emotional Intelligence**:
+   - Developing emotional intelligence can help individuals recognize and respond appropriately to subtle cues, such as the "back look."
+   - Understanding non-verbal signals can enhance interpersonal interactions.
+
+3. **Risk-Taking and Adventure**:
+   - Engaging in bold actions, like climbing a pine tree, can create memorable experiences that strengthen relationships.
+   - However, it is important to balance adventure with practicality to avoid unnecessary risks.
+
+4. **Professional- Personal Boundary Management**:
+   - Maintaining clear boundaries between professional and personal interactions is essential to prevent complications.
+   - Using events like business parties as opportunities for building rapport can be effective if handled appropriately.
+
+#### Conclusion:
+The narrative concludes with the realization that both individuals had mutual feelings but failed to communicate them effectively. The story serves as a cautionary tale about the importance of clear communication and taking risks in relationships. The outcome suggests that when both parties are willing to put in effort, even after initial missteps, a relationship can still be salvaged.
+
+In summary, the article highlights the complexities of navigating romantic interests within professional settings and underscores the significance of communication, emotional awareness, and taking calculated risks in fostering meaningful connections.
 </details>
 
 <details>
-<summary>1332. What's Really At The Core Cause Of Inflammation? – Dr. Berg</summary><br>
+<summary>1332. [2018-02-09] What's Really At The Core Cause Of Inflammation? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=mFozTOH5N0k" target="_blank">
     <img src="https://img.youtube.com/vi/mFozTOH5N0k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小結點整理
 
+#### 核心主題：
+- 炎症的本質及其與激素和代謝功能的關聯。
+- 濕疹壓力、疲勞及其他因素對免疫系統及炎症反應的影響。
+
+#### 主要觀念：
+1. **皮質醇的作用**：
+   - 皮質醇是一種強大的抗炎荷爾蒙，用於治療 inflammatory conditions (如濕疹) 和 pain。
+   - 濕疹壓力或 adrenal fatigue 可能導致皮質醇不足，進而引發炎症。
+
+2. **皮質醇抵抗性**：
+   - 高水平的皮質醇可導致 receptor 抵抗性，降低其抗炎效果。
+   - 這會導致 simultaneous high cortisol 和 low cortisol 的情況。
+
+3. **胰島素的作用**：
+   - 胰島素也具備抗炎功能。
+   - 高糖和高碳水化合物的飲食可引致 insulin resistance，影響血糖控制並增強炎症反應。
+
+4. **胰島素抵抗性與炎症**：
+   - 高血糖和 excess sugar 會直接引起炎症。
+   - 過量脂肪 deposition 可觸發胰岛素 resistant 性，進一步加劇炎症。
+
+#### 問題原因：
+- 經常攝取高糖、高碳水化合物的食物，導致胰島素和皮質醇失衡。
+- 長期壓力或 adrenal fatigue 降低抗炎激素的效果。
+- 腦細胞的受體抵抗性削弱荷爾蒙的作用。
+
+#### 解決方法：
+1. **飲食調整**：
+   - 減少高糖、高碳水化合物食物攝取，避免 frequent eating。
+   - 選擇低血糖指數的食物，穩定血糖水平。
+
+2. **管理壓力**：
+   - 護理 adrenal health，避免過度疲勞。
+   - 可通過放鬆技巧或壓力管理策略來降低皮質醇抵抗性。
+
+3. **荷爾蒙平衡**：
+   - 通過健康飲食和生活方式改善 insulin 和 cortisol 的敏感性。
+   - 考慮諮詢醫生或營養師，制定適合個人的健康管理計劃。
+
+#### 健康建議：
+- 定期進行血糖檢測，監控胰島素抵抗情況。
+- 減少精制糖和加工食品的攝取，選擇天然食物。
+- 適當運動，促進 insulin sensitivity 和整體健康。
+- 保持充足睡眠和壓力管理，維持 adrenal health。
+
+#### 結論：
+ inflammation 的產生與多種因素相互作用有關，包括 hormonal imbalance 和不良飲食習慣。通过調整饮食、管理压力、改善荷爾蒙敏感性，可以有效降低炎症反應並提升整體健康狀況。
 </details>
 
 <details>
-<summary>1331. Ketogenic Diet: Macronutrients Confusion When Doing Keto & Intermittent Fasting Dr.Berg</summary><br>
+<summary>1331. [2018-02-08] Ketogenic Diet: Macronutrients Confusion When Doing Keto & Intermittent Fasting Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vB2EtclQLRA" target="_blank">
     <img src="https://img.youtube.com/vi/vB2EtclQLRA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Key Points of the Article
 
+#### Core Theme  
+The article discusses the confusion surrounding macronutrient percentages (carbohydrates, proteins, and fats) in a ketogenic diet combined with intermittent fasting. The author aims to clarify the complexities and provide practical solutions for adhering to this dietary plan.
+
+---
+
+#### Major Concepts  
+1. **Macronutrient Percentages**  
+   - Traditional ketogenic diet: 5% carbohydrates, 20% protein, 75% fat.  
+   - Intermittent fasting complicates these percentages due to changes in meal frequency and nutrient retention.
+
+2. **Meal Frequency and Caloric Intake**  
+   - Three meals a day: ~1,800 calories.  
+   - Two meals a day: ~1,500 calories.  
+   - One meal a day: ~1,200 calories.  
+   - Reduction in meal frequency affects nutrient retention and caloric intake.
+
+3. **Non-Starchy Vegetables**  
+   - Leafy greens, broccoli, kale, etc., are included in carb counts (~5% total).  
+   - Ten cups of vegetables per day are recommended for three meals, adjusted to eight cups for two meals and six cups for one meal.
+
+4. **Protein Intake**  
+   - Protein percentage remains constant (~20%).  
+   - Grams of protein vary with meal frequency: 75g for two meals, 90g for one meal.
+
+5. **Fat Intake**  
+   - Fat grams adjust based on caloric needs and body fat utilization.  
+   - Example: 140g for three meals, 113g for two meals, 86g for one meal.
+
+---
+
+#### Causes of Confusion  
+- Variability in macronutrient percentages due to changes in meal frequency.  
+- Difficulty in tracking precise grams of protein and fat.  
+- Lack of clear guidelines on adjusting nutrient intake during intermittent fasting.
+
+---
+
+#### Solutions  
+1. **Macronutrient Calculator**  
+   - A tool is being developed to help users input their meals and receive feedback on macronutrient balance.  
+
+2. **Pre-made Meal Plans**  
+   - Available on the author’s website, these plans simplify meal preparation and ensure nutrient consistency.
+
+---
+
+#### Health Recommendations  
+- Maintain carbohydrate intake below 30g per day (ideally 20g).  
+- Focus on protein portions based on meal frequency to meet daily requirements.  
+- Adjust fat intake according to caloric needs and body adaptation to fasting.  
+- Use non-starchy vegetables to fill nutritional gaps without exceeding carb limits.
+
+---
+
+#### Conclusion  
+The article emphasizes that while the combination of a ketogenic diet and intermittent fasting can be complex, practical tools and resources are available to simplify adherence. By focusing on key macronutrient targets and utilizing provided resources, individuals can successfully implement this dietary approach.
+
+---
+
+### Summary in Academic Terms (Chinese)  
+本文探讨了结合间歇性断食的生酮饮食中碳水化合物、蛋白质和脂肪的百分比所引发的混淆。作者旨在澄清这些复杂性，并提供实用的解决方案以帮助人们坚持这种饮食计划。文章指出，由于餐次频率的变化，营养素的百分比会有所调整，导致人们在计算和跟踪摄入量时感到困惑。为了解决这一问题，作者提出了开发 Macronutrient Calculator 和提供预设的餐单计划作为辅助工具。此外，文章建议读者关注每日碳水化合物、蛋白质和脂肪的摄入目标，并利用提供的资源来简化饮食规划。最后，结论强调通过实用工具和资源，人们可以成功地遵循这种饮食方式。
+
+---
+
+### Summary in Academic Terms (English)  
+The article explores the confusion surrounding macronutrient percentages (carbohydrates, proteins, and fats) in a ketogenic diet combined with intermittent fasting. The author aims to clarify these complexities and provide practical solutions for adhering to this dietary plan. It highlights that changes in meal frequency lead to adjustments in nutrient retention and intake, causing confusion in tracking macronutrient balance. To address this, the article proposes developing a Macronutrient Calculator and providing pre-made meal plans as auxiliary tools. Additionally, it recommends focusing on daily carbohydrate, protein, and fat intake targets while utilizing available resources to simplify dietary planning. The conclusion emphasizes that with practical tools and resources, individuals can successfully follow this dietary approach.
 </details>
 
 <details>
-<summary>1330. Natural Remedies for Asthma – Dr. Berg on Asthma Treatment</summary><br>
+<summary>1330. [2018-02-07] Natural Remedies for Asthma – Dr. Berg on Asthma Treatment</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5uTvmnuwQqI" target="_blank">
     <img src="https://img.youtube.com/vi/5uTvmnuwQqI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 文章探討哮喘（asthma）的自然療法及其相關治療方法。
+- 强調微生Balancer物感染，特別是衣原體肺炎 bacteria 在 asthma 中的作用。
 
+### 主要觀念
+1. **哮喘的定義與症狀**：
+   - 哮喘是一種涉及氣道炎症的疾病，主要症狀包括咳嗽、哮鳴、胸悶和呼吸短促。
+   - 症狀可能在爬樓梯或進行體力活動時加重。
+
+2. **微生Balancer物的作用**：
+   - 衣原體肺炎 bacteria 被指出與哮喘有密切關聯，並難以殺滅。
+   - 抗生素雖有成功案例，但文中更側重於自然療法。
+
+### 問題原因
+- 哮 asthma 的炎症反應導致氣道狹窄和阻塞。
+- 衣原體 pneumoniae 感染可能增加重癥和複發風險。
+
+### 解決方法
+1. **自然療法**：
+   - **核心療法**：推薦三種自然成分：
+     1. **Chaga 蘆菇**：具有抗炎和免疫調節作用。
+     2. **蓮子芎（Lotus Rhizome Node）**：可用於清熱化痰，減輕炎症。
+     3. **privet 梨果**：傳統用於呼吸系統健康。
+
+2. **技術與設備**：
+   - 推薦特定的呼吸訓練技術，以增強肺功能。
+   - 提供相關資源鏈接，供進一步探索。
+
+### 健康建議
+- **自然療法優先**：避免抗生素的副作用，選擇更安全的自然療劑。
+- **多種方法結合**：呼吸訓練與自然療法相結合，以提升療效。
+- **個人化治療**：根據患者反應調整療法，並注意可能的交互作用。
+
+### 結論
+- 哮 asthma 的治療需綜合考慮炎症控制和微生Balancer物感染。
+- 自然療法提供了一種副作用較少的替代方案，值得進一步研究與應用。
 </details>
 
 <details>
@@ -791,25 +1143,82 @@
 </details>
 
 <details>
-<summary>1328. Difficulty Eating Enough Fat (75 Percent Total Calories) on Keto and Intermittent Fasting? – Dr.Berg</summary><br>
+<summary>1328. [2018-02-06] Difficulty Eating Enough Fat (75 Percent Total Calories) on Keto and Intermittent Fasting? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=BFqfuZru3v8" target="_blank">
     <img src="https://img.youtube.com/vi/BFqfuZru3v8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：酮症和斷食計劃中的脂肪攝取策略
 
+#### 主要觀念：
+1. **脂肪攝取的重要性**：在酮症（Keto）和斷食（Intermittent Fasting, IF）計劃中，脂肪攝取占總熱量的75%是主要目標。
+2. **挑戰**：許多人在達到此比例時遇到困難，原因是脂肪攝取量過高，導致飲食不適。
+
+#### 問題原因：
+1. **脂肪攝取量的混淆**：脂肪攝取量通常以克數（如140克）或熱量（如1260卡路里）表示，但如何具體實現存在困惑。
+2. **強迫飲食的風險**：過度追求脂肪攝取可能導致強迫進食，影響健康。
+
+#### 解決方法：
+1. **基於飢餓感調整攝取量**：根據個人的飢餓程度決定脂肪攝取量，避免強迫進食。
+2. **食物組合的自然供應**：多數蛋白質食物含有自然脂肪，因此實際脂肪攝取可能高於預期。
+3. **身體適應的影響**：
+   - 初期需較多外來脂肪以幫助過渡。
+   - 隨著身體適應，開始燃燒自身脂肪，此時脂肪攝取需求降低。
+
+#### 健康建議：
+1. **初期策略**：增加脂肪攝取以順利過渡到酮症或斷食狀態。
+2. **維持階段**：達到目標體重後，若處於維持期，可增加脂肪攝取以減少自身脂肪燃燒。
+3. **平衡飲食**：飲食應包含蛋白質、脂肪和微量碳水化合物，避免單一營養素過量。
+
+#### 結論：
+- 達到75%脂肪攝取的目標需根據個人情況調整，而非強制執行。
+- 身體適應後，脂肪攝取需求自然降低，飲食結構更趨平衡。
+- 關鍵在於聽從身體 signals，保持健康和舒適。
 </details>
 
 <details>
-<summary>1327. Vegetarian Diet or Meat-Eater? [Carnivore Diet vs. Vegan Diet] What's Best for You!</summary><br>
+<summary>1327. [2018-02-06] Vegetarian Diet or Meat-Eater? [Carnivore Diet vs. Vegan Diet] What's Best for You!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=1WpGlDPZzU4" target="_blank">
     <img src="https://img.youtube.com/vi/1WpGlDPZzU4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 論述肉食主義者與素食主義者之間的熱烈辯論。  
+- 强調雙方對碳水化合物和動物性脂肪、蛋白質的不同看法。  
 
+### 主要觀念  
+1. **肉食主義者的立場**：  
+   - 碳水化合物被認為是有害的。  
+2. **素食主義者的立場**：  
+   - 動物性脂肪和蛋白質被視為有害。  
+3. **研究解釋的問題**：  
+   - 不同群體基于自身偏見，對研究結果進行不同解讀。  
+
+### 問題原因  
+- **信息混雜**：  
+  - 公眾接收到 conflicting information，導致無法准確認知真相。  
+- **研究解釋的限制**：  
+  - 研究報告需專業知識才能理解，普通公眾依賴他人解讀，易受 bias 影響。  
+
+### 解决方法  
+1. **直接體驗**：  
+   - 鼓勵個人親自尝试不同飲食方式（如素食或酮ogenic diet）。  
+2. **效果比較**：  
+   - 觀察並比較不同飲食方法在體重、血清指標、能量水平和整體健康方面的具體影響。  
+
+### 健康建議  
+- **實驗性食단嘗試**：  
+  - 給自己足夠的時間來體驗每種飲食方式的效果。  
+- **數據記錄**：  
+  - 記錄並比較不同飲食方式帶來的變化，以評估哪種方法更适合自己。  
+
+### 结論  
+- 真理需靠個人經驗验证。  
+- 推薦參加 Dr. Burke 的 Facebook 小組（Dr Bergs keto 和 intermittent fasting lab），分享與討論飲食經驗和成果。
 </details>
 
 <details>
