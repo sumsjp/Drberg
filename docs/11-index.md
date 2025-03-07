@@ -472,113 +472,599 @@
 </details>
 
 <details>
-<summary>1157. Carotenoids: Antioxidant on Steroids – Dr. Berg</summary><br>
+<summary>1157. [2017-11-07] Carotenoids: Antioxidant on Steroids – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=FPJOpeYXeao" target="_blank">
     <img src="https://img.youtube.com/vi/FPJOpeYXeao/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+Carotenoids 是一種重要的植物營養素，具有多種生物功能，包括抗氧化作用和對人體健康的支持。
 
+---
+
+### 主要觀念  
+1. **Carotenoids 的定義與來源**：  
+   - Carotenoids 是一種類胡蘿蔔素的植物化合物，主要呈現在植物中。它們提供黃色、橙色和紅色等色素，在秋季葉子變色時顯現。
+   - 它們在植物中的作用包括吸收光能（參與光合作用）和保護葉綠素免受光損傷。
+
+2. **Carotenoids 的健康益處**：  
+   - **視力支持**：作為维生素A的來源，對眼睛健康至關重要，特別是對 retina 的保護。Carotenoids 能過濾有害的藍光，並促進視網膜健康。  
+   - **免疫系統支持**：增強免疫功能，幫助抵抗疾病。  
+   - **皮膚與整體健康**：維持皮膚健康，具備抗炎和抗氧化特性。  
+   - **神經保護作用**：對神經系統具有保護作用，降低神經退化風險。  
+   - **抗癌潛能**：研究表明Carotenoids可能有助於預防癌症。
+
+3. **Carotenoids 的吸收與來源**：  
+   - 它們是脂溶性化合物，需與脂肪共同攝取以提高吸收率。例如，在沙拉中加入橄欖油或椰子油可增強吸收效果。  
+   - 食物來源包括 spinach, kale, carrot, tomato, pumpkin 和 pepper 等蔬菜水果，以及 dairy products（如 butter 和 egg yolk）和某些海藻。
+
+---
+
+### 問題原因  
+- 膳食中Carotenoids的攝取不足可能與以下因素有關：  
+  - 食物來源的選擇不足。  
+  - 消化吸收受限（脂溶性特性）。  
+
+---
+
+### 解决方法  
+1. **增加食物攝取**：多食用富含Carotenoids的食物，如深色蔬菜水果和含脂肪的乳制品。  
+2. **搭配脂肪攝取**：在飲食中加入健康脂肪（如橄欖油、椰子油）以提高吸收率。  
+3. **補充劑選擇**：若自然攝取不足，可考慮脂溶性Carotenoids的膳食補充劑。
+
+---
+
+### 健康建議  
+- 确保每日飲食中包含足夠的深色蔬菜和水果。  
+- 在食用富含Carotenoids的食物時，搭配健康脂肪以促進吸收。  
+- 適當使用補充劑來彌補攝取不足，但需遵醫囑。
+
+---
+
+### 結論  
+Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護眼、免疫支持、抗氧化和抗癌方面具有顯著作用。了解其特性並合理攝取，對於維持整體健康至關重要。
 </details>
 
 <details>
-<summary>1156. Keto Diet & Kidney Disease – Dr. Berg</summary><br>
+<summary>1156. [2017-11-07] Keto Diet & Kidney Disease – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=X8rrGKGmDdo" target="_blank">
     <img src="https://img.youtube.com/vi/X8rrGKGmDdo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節一：核心主題  
+- 探讨 ketogenic（生酮）饮食是否会导致肾病，并分析其对肾脏的影响。
 
+### 小節二：主要觀念  
+1. **生酮饮食的自然性和适应性**  
+   - 生酮饮食是自然界中身体最原始的代谢状态，适合人体生理需求。
+2. **关于蛋白质摄入的误解**  
+   - 生酮饮食并非高蛋白饮食，蛋白质摄入量为每餐3至6盎司，属于合理范围。
+3. **低碳水饮食对肾脏的保护作用**  
+   - 高碳水和高糖饮食对肾脏有害，而低碳水饮食有助于保护肾脏功能。
+
+### 小節三：問題原因  
+1. **高碳水饮食的危害**  
+   - 过量摄入碳水化合物会导致血糖升高、糖尿病及其并发症（如肾病）。
+2. **酮症酸中毒的风险**  
+   - 在极端情况下，酮体的积累可能导致代谢性酸中毒，但这种情况通常发生在糖尿病患者中。
+
+### 小節四：解決方法  
+1. **合理规划蛋白质摄入**  
+   - 每餐控制在3至6盎司蛋白质，避免过量。
+2. **增加蔬菜摄入**  
+   - 每天建议摄入7至10杯蔬菜，以补充钾元素，保护肾脏功能。
+3. **避免尿酸过高问题**  
+   - 通过足够的蔬菜摄入，预防尿酸结石或痛风的发生。
+
+### 小節五：健康建議  
+1. **实施生酮饮食的注意事项**  
+   - 确保蛋白质适量，增加蔬菜摄入，避免极端限制碳水。
+2. **结合间歇性禁食**  
+   - 采用间歇性禁食（如16:8模式）以增强生酮饮食的效果。
+3. **关注环境因素**  
+   - 减少 GMO 食物的摄入，尤其是含有除草剂 glyphosate 的食品，以降低对肾脏和肝脏的潜在危害。
+
+### 小節六：結論  
+- 生酮饮食本身不会导致肾病，反而可能通过减少碳水摄入保护肾脏功能。  
+- 关键在于合理规划饮食结构，避免极端化，并关注环境因素对健康的影响。
 </details>
 
 <details>
-<summary>1155. Two Causes of Coronary Heart Disease (It's Not Saturated Fat) – Dr. Berg</summary><br>
+<summary>1155. [2017-11-06] Two Causes of Coronary Heart Disease (It's Not Saturated Fat) – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=O_Kk7_sdmUk" target="_blank">
     <img src="https://img.youtube.com/vi/O_Kk7_sdmUk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理： coronary heart disease 的成因與相關議題
 
+**1. 核心主題**  
+- 探讨冠狀动脉疾病（coronary heart disease, CHD）的主要成因及其相关因素。
+
+**2. 主要觀念**  
+   - **血流動力學的控制**：腎上腺素在應激情況下主要導致全身血管收縮，但卻 dilation 冠狀動脈以增加心肌氧供。  
+   - **心臟缺氧的影響**：當心肌因缺氧而痙攣時，會引發心肌梗塞（heart attack）。  
+   - **糖分攝取的問題**：高血糖、碳水化合物和果汁等食物易轉化為膽固醇，導致動脈堵塞。  
+
+**3. 問題原因**  
+   - **應激與腎上腺素過度消耗**：長期壓力會耗竭腎上腺功能，使血管逐漸收縮，增加動脈阻塞風險。  
+   - **高糖飲食的影響**： sugar-rich 飲食（如甜食、果汁）轉化為膽固醇，導致動脈粥樣硬化。  
+
+**4. 解決方法與健康建議**  
+   - **降低壓力水平**：管理情緒和壓力，避免腎上腺功能耗竭。  
+   - **調整飲食結構**：限制高糖分食物的攝取（如碳水化合物、果汁），而非過度忌諜aturated fats。  
+   - **生活方式改善**：保持健康的生活方式，以降低冠心病風險。  
+
+**5. 總結**  
+- 認為冠心病的主要成因是高糖飲食和壓力，而非傳統認為的高脂肪攝取。建議公眾調整飲食結構並管理壓力水平以預防疾病。  
+
+---
+
+### 中英文版本
+
+**中文版本：**
+
+hi guys I' m back again I had another 
+question that relates to the cause of 
+coronary heart disease all right and 
+just realize that all the information 
+I'm sharing with you is just for you to 
+get more information to do your own 
+research I'm not telling you that we 
+have the answers to cure any diseases 
+anything like that just go ahead do your 
+own research 
+
+alright but the point is my opinion it 
+comes from two situations the coronary 
+artery is the main artery that supplies 
+blood to the heart muscle 
+
+okay and there' s two controlling factors 
+over that one is adrenaline an 
+adrenaline has an interesting thing 
+because it causes constriction of the 
+blood vessels except for the coronary 
+artery in which adrenaline opens up that 
+vessel by vaso dilating it all the other 
+vessels are constricted 
+
+this one' s bays are dilated giving the 
+heart muscle more oxygen so the muscle 
+can chill out and work but there' s one 
+thing about the heart if it it lacks 
+oxygen it goes into a cramp and you get 
+a heart attack 
+
+so what causes a spike of adrenaline is stress 
+so if you have yours of stress you can kind of burn out 
+the adrenals to the point where you 
+don' t get that function anymore and now 
+the valve becomes tighter and tighter 
+and tighter more constricting and then 
+we compound that with a clogged artery 
+or even a fibrous adhesion that' s 
+building up because the blood vessel is 
+damaged and that comes from high insulin 
+not necessarily consuming high fats it' s 
+the high sugars in the carbohydrates and 
+the wine and the juice all that converts 
+to cholesterol that' s gonna plug up this 
+artery 
+
+so if you combine stress with 
+high insulin if you' re a pre- diabetic 
+that' s even worse if that' s why a lot of 
+diabetics have coronary heart problems 
+because of this because they' re they' re 
+gonna convert a lot of carbohydrate to 
+that cholesterol and clog these arteries 
+
+right here what' s interesting if you 
+consume saturated fats which everyone 
+says to avoid but the same time cut out 
+the sugars you' re gonna be totally fine 
+so it' s not the fat that' s clogging the 
+arteries it' s the sugar all right that' s 
+my opinion and I' m sticking to it 
+
+hi guys listen I want to thank you so 
+much for your wonderful comment 
+and I want to ask you if you wouldn' t 
+mind giving me your review on Google I 
+put a link down below I' d really 
+appreciate it and thank you in advance 
+
+**英文版本：**
+
+hi guys I'm back again I had another 
+question that relates to the cause of 
+coronary heart disease all right and 
+just realize that all the information 
+I'm sharing with you is just for you to 
+get more information to do your own 
+research I'm not telling you that we 
+have the answers to cure any diseases 
+anything like that just go ahead do your 
+own research 
+
+alright but the point is my opinion it 
+comes from two situations the coronary 
+artery is the main artery that supplies 
+blood to the heart muscle 
+
+okay and there's two controlling factors 
+over that one is adrenaline an 
+adrenaline has an interesting thing 
+because it causes constriction of the 
+blood vessels except for the coronary 
+artery in which adrenaline opens up that 
+vessel by vaso dilating it all the other 
+vessels are constricted 
+
+this one's bays are dilated giving the 
+heart muscle more oxygen so the muscle 
+can chill out and work but there's one 
+thing about the heart if it it lacks 
+oxygen it goes into a cramp and you get 
+a heart attack 
+
+so what causes a spike of adrenaline is stress 
+so if you have yours of stress you can kind of burn out 
+the adrenals to the point where you 
+don't get that function anymore and now 
+the valve becomes tighter and tighter 
+and tighter more constricting and then 
+we compound that with a clogged artery 
+or even a fibrous adhesion that's 
+building up because the blood vessel is 
+damaged and that comes from high insulin 
+not necessarily consuming high fats it's 
+the high sugars in the carbohydrates and 
+the wine and the juice all that converts 
+to cholesterol that's gonna plug up this 
+artery 
+
+so if you combine stress with 
+high insulin if you're a pre- diabetic 
+that's even worse if that's why a lot of 
+diabetics have coronary heart problems 
+because of this because they're they're 
+gonna convert a lot of carbohydrate to 
+that cholesterol and clog these arteries 
+
+right here what's interesting if you 
+consume saturated fats which everyone 
+says to avoid but the same time cut out 
+the sugars you're gonna be totally fine 
+so it's not the fat that's clogging the 
+arteries it's the sugar all right that's 
+my opinion and I'm sticking to it 
+
+hi guys listen I want to thank you so 
+much for your wonderful comment 
+and I want to ask you if you wouldn't 
+mind giving me your review on Google I 
+put a link down below I'd really 
+appreciate it and thank you in advance
 </details>
 
 <details>
-<summary>1154. How To Germinate Seeds And Nuts Fast – Dr. Berg</summary><br>
+<summary>1154. [2017-11-06] How To Germinate Seeds And Nuts Fast – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=F089EEiHvbw" target="_blank">
     <img src="https://img.youtube.com/vi/F089EEiHvbw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小芻部整理
 
+#### 核心主題  
+- 論述種子和堅果的發芽（germination）及其在營養和健康方面的重要性。
+
+#### 主要觀念  
+1. **發芽定義**：  
+   - 發芽是使休眠中的植物種子或坚果從非活性狀態轉為活性狀態，啟動萌芽並發展成植物或樹木的過程。  
+
+2. **發芽的目的**：  
+   - 消除酶抑制劑和抗營養因子（如肌醇六磷酸，俗稱「植酸」），以促進種子的正常發育。  
+   - 提高消化吸收能力，釋放更多營養成分。  
+
+3. **關鍵步驟**：  
+   - **浸泡**：將種子和堅果在水中浸泡12小時，加入兩茶匙海鹽和一茶匙檸檬汁以去除酶抑制劑和抗營養因子。  
+   - **dehydration**：浸泡後，在低溫下（避免高於160°F） dehydration 12小時，以保留營養並降低熱應力對胰腺的影響。  
+
+#### 問題原因  
+- 無發芽處理的種子和堅果含有多量的酶抑制劑和抗營養因子，影響消化吸收，並可能干擾礦物質（如鈣、鎂）的吸收。  
+- 高溫烘焙會破壞維生素和其他營養成分，降低食物的營養價值。  
+
+#### 解決方法  
+1. **浸泡**：利用鹽水和酸性環境（如檸檬汁）去除酶抑制劑和抗營養因子，促進種子和堅果的發芽。  
+2. **低溫dehydration**：避免高溫以保留維生素和其他營養成分，並降低對胰腺的壓力。  
+
+#### 健康建議  
+- 优先選擇未烘焙的堅果和種子，以獲取更高的營養價值。  
+- 經發芽處理後的種子和堅果更易消化，適合敏感人群（如兒童、老人）。  
+
+#### 結論  
+- 發芽是提高種子和堅果營養利用率的有效方法，同時降低抗營養因子的影響。  
+- 適當的加工方式（如低溫dehydration）可保留更多營養成分，有利於整體健康。
 </details>
 
 <details>
-<summary>1153. Friendly Bacteria: Why You Really Need And how it Helps – Dr. Berg</summary><br>
+<summary>1153. [2017-11-05] Friendly Bacteria: Why You Really Need And how it Helps – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KbLAe1T7mUw" target="_blank">
     <img src="https://img.youtube.com/vi/KbLAe1T7mUw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 友敵菌群（Friendly Bacteria）在人體健康中的重要性。
 
+### 主要觀念
+1. **友敵菌群的功能**：
+   - 製造維生素（如B3、K2、葉酸、生物素、B12）。
+   - 支持免疫系統功能。
+   - 調節膽固醇水平。
+   - 防止動脈钙化和軟組織鈣沉積。
+
+2. **人體對友敵菌群的依賴**：
+   - 除了維生素D和B3，其他多數維生素需要依賴微生物製造。
+   - 友敵菌群是維生素和能量的來源。
+
+### 問題原因
+- 抗生素濫用破壞腸道菌群平衡。
+- 现代飲食中缺乏足夠的膳食纖維來喂養友敵菌群。
+- 遠離自然食品（如發酵蔬菜）導致微生物多樣性降低。
+
+### 解決方法
+1. **飲食調整**：
+   - 增加食用高纤维食物（如蔬菜、大蒜、洋蔥）。
+   - 消費發酵食品（如酸菜、泡菜）以增殖有益菌群。
+
+2. **避免不必要的抗生素使用**：
+   - 若需使用抗生素，後期補充益生菌恢復菌群平衡。
+
+3. **認識到友敵菌群的價值**：
+   - 視腸道微生物為夥伴而非敵人，保護並支持其健康。
+
+### 健康建議
+- 定期攝取含豐富膳食纖維的食物以喂養有益菌。
+- 多食用發酵食品來增加微生物多樣性。
+- 避免過度清潔或使用有害化學品破壞腸道環境。
+- 注意抗生素的使用，必要時諮詢醫生並補充益生菌。
+
+### 結論
+友敵菌群對維持人體健康至關重要。通過合理的飲食和生活習慣，可以有效保護並增強腸道菌群，從而提升整體健康水平。
 </details>
 
 <details>
-<summary>1152. Why is High Blood Sugar Levels So Bad? – Dr. Berg</summary><br>
+<summary>1152. [2017-11-05] Why is High Blood Sugar Levels So Bad? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Y13hVozxXD0" target="_blank">
     <img src="https://img.youtube.com/vi/Y13hVozxXD0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 高血糖的危害及其影響。
+- 糖尿病前期症狀及可能的後果。
+- 改善高血糖的健康建議。
+
+#### 主要觀念
+1. **高血糖的主要危害**：
+   - 微血管出血（Microhemorrhages）：血液 vessels 出現 tiny leaks，導致身體用 fibrin 補償，進而引起血流障礙。
+   - 病變包括動脈硬化、高血壓、視網膜損害、肝硬化等。
+
+2. **病例研究**：
+   - 一位患者因長期攝取高糖飲食（如 syrup），導致血糖控制不佳，最終引發微血管出血和視力喪失。
+   - 强調早期干預的重要性。
+
+3. **健康建議**：
+   - 減少糖分攝入。
+   - 短期禁食（Intermittent fasting）。
+   - 使用酶劑（如Sarah pet taste，劑量建議為 150,000 I.U.）來清除動脈斑塊。
+
+#### 問題原因
+- 長期高血糖導致微血管結構破壞，引發一系列併發症。
+- 病人缺乏對疾病的重視，未能及時採取行動。
+
+#### 解決方法
+1. **飲食調整**：
+   - 消除高糖食物和飲料的攝入。
+2. **短期禁食**：
+   - 通過間歇性禁食來降低血糖水平。
+3. **補充酶劑**：
+   - 使用特定酶（如Sarah pet taste）來清除動脈斑塊，恢復血管健康。
+
+#### 健康建議
+1. 定期監測血糖水平。
+2. 避免攝取高糖食品和飲料。
+3. 保持健康的飲食習慣和生活作息。
+4. 如有症狀，及時就醫並遵循醫生建議。
+
+#### 結論
+- 高血糖的危害不容忽視，早期干預可以有效避免併發症的發生。
+- 健康的生活方式是預防和控制高血糖的有效手段。
+
+### 全文總結
+本文強調了高血糖对人体健康的嚴重影響，特別是微血管出血及其引發的一系列並發症。通過一個具體病例，展示了長期高血糖未得到有效控制的後果，包括視力喪失等 irreversible 損害。文章提出三個主要解決方案：減少糖分攝入、短期禁食和使用特定酶劑來清除動脈斑塊。最後，強調了早期干預的重要性，並呼籲讀者重視血糖健康管理。
 </details>
 
 <details>
-<summary>1151. Difference Between Whole Grains and Refined Grains Explained By Dr. Berg</summary><br>
+<summary>1151. [2017-11-04] Difference Between Whole Grains and Refined Grains Explained By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=q0N8xddsDqI" target="_blank">
     <img src="https://img.youtube.com/vi/q0N8xddsDqI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點歸納
 
+#### 1. 核心主題：全穀物（如全麥粉）與精緻穀物的健康影響比較  
+   - 討論了全穀物是否比精緻穀物更健康，並探討其对人体健康的潛在影響。
+
+#### 2. 主要觀念：
+   - **營養價值方面**：  
+     - 全穀物的營養價值略高於精緻穀物，但差異不大。
+     - 精緻穀物加工過程中磨損了外殼和胚芽，導致維生素和其他營養素的喪失。
+   - **氧化問題**：  
+     - 加工后的穀物暴露於氧氣中，造成脂肪酸氧化，破壞營養成分。
+   - **保存問題**：  
+     - 現代加工的全穀物食品（如麵包）通常添加了防腐劑和其他化學物品來延長保存期限。
+
+#### 3. 問題原因：
+   - **營養價值降低**：  
+     - 加工過程破壞了穀物的天然營養成分。
+   - **高血糖指數（GI）**：  
+     - 全麥麵包的血糖指數（GI）為69，接近精緻麵包的73，均屬於高GI食物，攝入後會快速提升血糖水平。
+   - **其他健康問題**：  
+     - 穀物中的麸質和植酸可能干擾營養吸收。
+
+#### 4. 健康建議：
+   - **限制穀物攝取量**：  
+     - 根據USDA的建議，每日攝取6至8盎司的穀物（相當於6-8片麵包），但應謹慎評估其健康影響。
+   - **選擇更健康的替代品**：  
+     - 考慮減少對穀物的依賴，轉向其他低GI、富含纖維的食物來源。
+
+#### 5. 結論：
+   - 全穀物相比精緻穀物略勝一籌，但仍存在多項健康風險。
+   - 遊牧人群應該謹慎消費穀物類食品，並注意選擇新鮮加工的产品以避免添加劑的攝取。
+
+### 參考資源
+1. 美國農業部（USDA）膳食指南  
+2. 《Nutrition Reviews》期刊中關於谷物營養價值的研究文獻  
+3. 相關穀物加工與保存技術的科學報告
 </details>
 
 <details>
-<summary>1150. The Benefits of Selenium in Brazil Nuts Explained by Dr. Berg</summary><br>
+<summary>1150. [2017-11-04] The Benefits of Selenium in Brazil Nuts Explained by Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=TF3tAPqcRTg" target="_blank">
     <img src="https://img.youtube.com/vi/TF3tAPqcRTg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Core Theme: The Importance of Selenium as a Trace Mineral
 
+Selenium is a critical trace mineral that plays multiple roles in human physiology, particularly in detoxification processes, thyroid hormone metabolism, and antioxidant defense mechanisms.
+
+### Key Concepts:
+
+1. **Detoxification and Antioxidant Function**:
+   - Essential for the enzyme glutathione peroxidase, which is crucial for liver detoxification.
+   - Protects cells from oxidative stress and damage.
+
+2. **Thyroid Hormone Metabolism**:
+   - Facilitates the conversion of thyroxine (T4) to triiodothyronine (T3), supporting thyroid function.
+   - Particularly beneficial for individuals with hypothyroidism, including Hashimoto's thyroiditis.
+
+3. **Heavy Metal Detoxification**:
+   - Helps in the detoxification of heavy metals like mercury, commonly found in fish such as tuna and salmon.
+   - The selenium content in these foods often exceeds the mercury content, aiding in its elimination.
+
+4. **Liver Health**:
+   - Low levels of selenium are associated with liver diseases, including non-alcoholic fatty liver disease and cirrhosis.
+   - Selenium is necessary for both absorbing and repairing liver damage.
+
+### Causes of Deficiency:
+
+- Inadequate dietary intake, particularly in regions where soil selenium content is low.
+- Poor absorption due to impaired liver function.
+- Increased bodily demands during detoxification or thyroid hormone production.
+
+### Solutions and Health Recommendations:
+
+1. **Dietary Sources**:
+   - Include selenium-rich foods such as Brazil nuts, pork, tuna, oysters, clams, shrimp, lamb, beef, grass-fed mushrooms, and seeds.
+   - Brazil nuts are particularly high in selenium and can be a primary source.
+
+2. **Supplementation**:
+   - Consider selenium supplements if dietary intake is insufficient or if there are specific health conditions requiring higher doses.
+
+3. **Monitoring**:
+   - Regular blood tests to monitor selenium levels, especially for individuals with thyroid disorders or liver disease.
+
+### Conclusion:
+
+Selenium is vital for maintaining optimal health, particularly in supporting detoxification processes, thyroid function, and protecting against oxidative stress. Ensuring adequate intake through diet or supplementation can significantly improve overall well-being, especially for those with hypothyroidism or liver conditions.
 </details>
 
 <details>
-<summary>1149. What Causes Painful, Numb or Tingling Feet? – Dr. Berg</summary><br>
+<summary>1149. [2017-11-03] What Causes Painful, Numb or Tingling Feet? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Ni5Cb6FnX2E" target="_blank">
     <img src="https://img.youtube.com/vi/Ni5Cb6FnX2E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：Plantar Fasciitis 的病因與足部疼痛的可能原因
 
+#### 主要觀念：
+1. **痛風的可能性**：痛風是由高尿酸血症引起的，可能由腎臟功能不良、過量蛋白攝取或酮egenic diet引發。
+2. **代謝問題**：高血糖情況下，血液中糖分过高會導致神經系統受損，尤其是遠端神經（如足底和指尖）。
+3. **維生素B1缺乏症**：高血糖可能導致維生素B1的丟失，進而影響神經傳導功能。
+
+#### 問題原因：
+1. **痛風**：尿酸 crystals沉積在關節或周圍組織中，引起炎症和疼痛。
+2. **持續高血糖**：長期高血糖會導致神經退化，特別是末梢神經。
+3. **維生素B1缺乏**：高血糖導致維生素B1通過尿液排出增加。
+
+#### 解決方法：
+1. **痛風管理**：使用含柑橘酸（如檸檬汁或檸檬酸鹽）飲料來降低尿酸水平。
+2. **神經恢復**：補充維生素B1以改善神經功能，推薦使用非增強型營養 yeast 作為來源。
+
+#### 健康建議：
+1. **飲食調整**：增加攝取富含 Vitamin B1 的食物，如未加工的營養酵母。
+2. **血糖控制**：注意糖分攝取，避免長期高血糖狀態。
+3. **定期檢查**：如有足部持續疼痛、麻木或灼燒感，建議進行相關檢查以排除痛風或其他代謝疾病。
+
+#### 結論：
+足部疼痛可能是由多種因素引起的，包括痛風和維生素B1缺乏。及時補充Vitamin B1並調整飲食習慣可以有效改善症狀。建議在專業醫療人員的指導下進行治療和管理。
 </details>
 
 <details>
-<summary>1148. Gymnema Herb: The Best Herb for Sugar & Carb Cravings – Dr.Berg</summary><br>
+<summary>1148. [2017-11-02] Gymnema Herb: The Best Herb for Sugar & Carb Cravings – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=I__vEHcBC5I" target="_blank">
     <img src="https://img.youtube.com/vi/I__vEHcBC5I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納： gymnema 草本植物的功效與應用
 
+#### 核心主題：
+- **Gymnema** 是一種具有特殊功效的草本植物，主要因其對甜味感知的阻斷作用和其抗糖尿病特性而受到關注。
+
+#### 主要觀念：
+1. **感官阻斷作用**：將 Gymnema 粉碎後敷於舌頭，可以有效抑制甜味覺的感知。
+2. **抗糖尿病特性**：Gymnema 具有顯著的降血糖效果，能增強胰島素敏感性，並保護β细胞（負責分泌胰島素的細胞）免受損害。
+
+#### 問題原因：
+- 現代人平均每日攝入 31 到 50 茶匙糖分，導致大量人口出現肥胖、胰島素抵抗和前期糖尿病等問題。
+
+#### 解決方法：
+- **Gymnema 的使用**：適用於初期糖尿病或胰島素抵抗患者，作為輔助治療手段。
+- **劑量與來源**：可在市場上購買，形式包括粉末、茶飲等，具體劑量需遵醫囑或參考產品說明。
+
+#### 健康建議：
+1. ** moderation in sugar intake**: 控制日常糖分攝入，養成健康飲食習慣。
+2. **補充 Gymnema**：作為天然的血糖調節劑，可輔助改善胰島素抵抗。
+
+#### 結論：
+- Gymnema 不僅是一種有效的感官阻斷劑，更是一種值得探索的抗糖尿病草本資源。其應用為現代人提供了一個自然健康的選擇，以應對日益嚴峻的代謝性疾病挑戰。
+
+---
+
+此整理結構清晰地展示了 Gymnema 的核心特性、其在健康問題中的作用，以及如何在實際生活中應用此植物來改善血糖管理和整體健康。
 </details>
 
 <details>
@@ -940,31 +1426,79 @@
         alt="[Youtube]" width="200">
 </a>
 
-### 核心主題：酮egenic Diet中高血清尿素氮（BUN）的可能原因及应对策略
+### 核心主題
 
-#### 主要觀念：
-- 血清尿素氮（BUN）是蛋白质代谢的废物，主要由肝脏产生并通过肾脏排出。
-- 在酮egenic diet中，BUN水平升高可能与多种因素有关。
+- 血液中尿素氮（Blood Urea Nitrogen, BUN）水平升高在酮egenic饮食中的潜在问题及其原因和解决方法。
 
-#### 問題原因：
-1. **腎臟功能受損**： kidneys unable to efficiently filter urea, leading to elevated BUN levels.
-2. **肝臟功能異常**：肝脏无法正常处理蛋白质代谢废物。
-3. **過量蛋白攝取**： excessive protein intake exceeds the body's processing capacity.
-4. **过度運動**： intense exercise increases muscle breakdown, leading to higher protein catabolism and subsequent urea production.
-5. **蔬菜攝取不足**： insufficient vegetable intake reduces the body's ability to flush out metabolic waste.
+### 主要觀念
 
-#### 解決方法：
-1. **增加蔬果攝取量**： consume 7-10 cups of raw vegetables daily to aid in detoxification.
-2. **補充綠色蔬菜汁粉**： incorporate concentrated green juice powder for enhanced nutrient intake and detox support.
-3. **添加蒲公英葉**： include dandelion greens in the diet as they are beneficial for kidney and liver health.
+1. **尿素氮的來源與功能**:
 
-#### 健康建議：
-- 減少高強度運動，確保足夠的恢復時間。
-- 考慮定期進行血液檢測，監控腎臟和肝臟功能指標。
-- 平衡蛋白攝取量，避免過量。
+   - 尿素氮是蛋白質代謝過程中產生的廢物，主要來自於蛋白質分解。
 
-#### 結論：
-血清尿素氮水平升高可能反映腎臟、肝臟或代謝功能的問題。在酮egenic diet中，通過增加蔬果攝取、調整運動強度和監控健康指標，可以有效降低BUN水平並促進整體健康。
+   - 腎臟負責排除尿素氮，因此其水平反映了腎臟功能和蛋白質代謝状态。
+
+
+
+2. **酮ogenic饮食的特殊性**:
+
+   - egenic飲食是一种高脂肪、低碳水化合物的飲食方式，常導致身體進入酮osis狀態。
+
+   - 由于碳水化合物攝取量低，身體可能增加對蛋白質的分解利用，進而影響尿素氮水平。
+
+
+
+### 問題原因
+
+1. **腎臟功能異常**:
+
+   - 腎臟疾病可能导致尿素氮排泄受阻，導致其在血液中積累。
+
+2. **肝臟功能障礙**:
+
+   - 肝臟是蛋白質代謝的主要器官，肝功能不全會影響尿素的生成和排泄。
+3. **過量蛋白質攝取**:
+
+   - 酮egenic飲食中若攝取過多蛋白質，超過身體所需，可能導致尿素氮水平升高。
+4. **过度運動**:
+
+   - 過度的體力活動會增加肌肉蛋白分解，使更多蛋白質廢物進入血液。
+5. **蔬菜攝取不足**:
+
+   - 高纖維、高維生素的蔬菜有助于促進身體排毒，尤其是對腎臟和肝臟有益。缺乏足夠的蔬菜攝取可能加重毒素積累。
+
+### 解決方法
+
+1. **增加蔬菜攝取量**:
+
+   - 確保每日攝取7至10杯的新鮮蔬菜，尤其是綠色蔬菜，如菠菜、羽衣甘藍等。
+
+2. **補充 greens汁粉**:
+
+   - 添加高濃度的greens汁粉末到飲食中，以補充必需維生素和礦物質，促進排毒。
+3. **調整蛋白質攝取量**:
+
+   - 適當控制每日蛋白質攝取量，避免過量攝入。
+4. **增加水分攝取**:
+
+   - 足夠的水分攝取有助于稀釋血液中的尿素氮，並促進其排泄。
+5. **適當運動**:
+
+   - 保持適度的運動強度，避免过度消耗肌肉蛋白質。
+
+### 健康建議
+
+1. 定期進行血液檢測，監控BUN水平變化。
+
+2. 遵循均衡飲食原則，即使在酮egenic飲食中也需攝取足夠的蔬菜和微量營養素。
+
+3. 減少加工食品和高糖食物的攝取，以降低腎臟負擔。
+
+4. 與醫生或營養師溝通，根據個人健康狀況調整飲食計劃。
+
+### 結論
+
+血液中尿素氮水平升高在酮egenic饮食中可能是由多種因素引起的，包括腎臟功能、肝臟功能、蛋白質攝取量和生活方式等。通過增加蔬菜攝取、控制蛋白質攝入、保持適當運動和充足水分攝取，可以有效降低BUN水平並改善整體健康狀況。
 </details>
 
 <details>
