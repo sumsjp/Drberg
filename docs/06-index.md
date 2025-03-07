@@ -450,113 +450,649 @@
 </details>
 
 <details>
-<summary>659. What is Leptin? Explained By Dr.Berg</summary><br>
+<summary>659. [2017-01-24] What is Leptin? Explained By Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=o-K9xpu1pzo" target="_blank">
     <img src="https://img.youtube.com/vi/o-K9xpu1pzo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題： leptin的作用與肥胖管理
 
+Leptin 是一種由脂肪細胞分泌的重要荷爾蒙，主要負責調控食慙和能量平衡。
+
+#### 主要觀念：
+1. **Leptin的功能**：
+   - Leptin被稱為「饱食荷尔蒙」，其信號作用於血液，通知身體停止進食。
+   - 它主要由脂肪細胞分泌，體內脂肪儲存量越高， leptin水平也應該越高。
+
+2. **肥胖與leptin抵抗**：
+   - 雖然肥胖者體內脂肪儲存量高，導致leptin水平升高，但長期過高的leptin會使靶器官 receptor 发生抵抗。
+   - 這類似於胰島素抵抗，即身體無法有效響應正常的激素信號。
+
+3. **肥胖者的生理矛盾**：
+   - 尽管體內脂肪儲存量豐富，但因leptin抵抗，患者仍可能持續感到饥饿。
+   - 這種情況使得依賴意志力控制飲食變得極為困難。
+
+#### 問題原因：
+- 高fat水平導致的leptin抵抗是肥胖者持續 hunger感的主要原因。
+- 荷爾蒙失衡擾亂了身體的能量平衡和食慙調控系統。
+
+#### 解決方法：
+1. **降低胰島素水平**：
+   - 降低胰島素水平是恢復 leptin敏感性、改善能量平衡的關鍵。
+   - 可通過飲食調整，例如增加健康脂肪攝取，來實現胰島素水平的下降。
+
+2. **調整飲食結構**：
+   - 近期研究建議增加餐中健康脂肪的攝取量，以幫助穩定血糖和激素水平。
+   - 低GI飲食策略也有助於緩解 hunger感。
+
+3. **行為與心理調節**：
+   - 理解食慙.reward system的來源，避免用食物作為獎賞。
+   - 建立健康的生活習慣，尋找非食物的壓力和激勵方式。
+
+#### 健康建議：
+- 避免依賴leptin補充劑，因目前市面上並未有有效的口服leptin產品。
+- 採取低胰島素水平飲食策略，如低碳水化合物飲食，來恢復荷爾蒙平衡。
+- 減少精製糖和快速昇血糖食物的攝取，以降低整體胰島素負荷。
+
+#### 結論：
+Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平、調整飲食結構和行為干預，可以逐步恢復正常激素功能，最終實現穩定減重和健康生活方式。
 </details>
 
 <details>
-<summary>658. How Cruciferous Vegetables Detoxify (remove poisons) - Dr. Berg</summary><br>
+<summary>658. [2017-01-23] How Cruciferous Vegetables Detoxify (remove poisons) - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ym7Jt7rehko" target="_blank">
     <img src="https://img.youtube.com/vi/ym7Jt7rehko/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理與分析
 
+#### 核心主題  
+- 探讨 cruciferous（十字花科）蔬菜在解毒过程中的作用及其健康影响。
+
+---
+
+#### 主要觀念  
+1. **毒性物質的累積與影響**  
+   - 毒性物質（如 pesticides, herbicides）通常具有脂溶性，易於儲存在脂肪組織中。
+   - 這些物質可能導致全身性中毒，但主要損害特定目標器官（如肝、腎、皮膚等）。
+
+2. **生物轉化與解毒機制**  
+   - 身體通過肝臟的酶系統將脂溶性毒性物質轉化為水溶性代謝物，以便排出。
+   - 這個過程分為兩個主要階段（Phase 1 和 Phase 2），其中 Phase 1 將毒素氧化、還原或水解，而 Phase 2 則進一步使這些代謝物與 glucuronic acid 等結合。
+
+3. **十字花科蔬菜的作用**  
+   - 十字花科蔬菜（如 kale, arugula, bok choy）含有多種植物化學物質，可促進 Phase 2 解毒酶的活性。
+   - 它們還能抑制 Phase 1 的過度活躍，避免毒性代謝物在體內積累。
+
+---
+
+#### 問題原因  
+- 現代環境中，人們長期暴露於 pesticides、herbicides 等化學物質。
+- 這些物質的慢性影響可能在 decades 後才顯現，導致iculty in establishing cause-and-effect relationships（因果關係不明）。
+- 長期毒性積累可損害多個器官，包括thyroid, uterus 等，並增加癌症風險。
+
+---
+
+#### 解決方法  
+1. **飲食干預**  
+   - 常規攝取十字花科蔬菜以促進解毒過程。
+   - 使用高濃度的 cruciferous supplement 或含有DIM（Diindolylmethane）的補充劑，這些成分可顯著增強解毒效果。
+
+2. **平衡激素**  
+   - 十字花科蔬菜及其提取物（如 DIM）有助於平衡體內雌激素水平。
+   - 特別是對於有 estrogen dominance 症狀的人群（如月經不調、乳腺疾病等），DIM 顯著提高了解毒效率。
+
+---
+
+#### 健康建議  
+- **日常飲食**：將十字花科蔬菜融入每日飲食，如 kale, arugula, Brussels sprouts 等。
+- **補充劑選擇**：
+  - **Cruciferous Supplement**：提供多種十字花科植物的營養。
+  - **Estrogen Balance（含DIM）**：適合女性，能更有效地平衡激素並促進排毒。
+- **劑量建議**：
+  - 先從每日一次開始，逐漸增加至每日兩次，以避免腸胃不適。
+
+---
+
+#### 結論  
+- 十字花科蔬菜及其衍生物在解毒和激素平衡方面具有顯著作用。
+- 長期攝取可有效降低毒性物質的累積風險，改善相關健康問題。
+- 推薦將這些食物和補充劑納入日常健康管理中。
 </details>
 
 <details>
-<summary>657. Nutritional Deficiency Symptoms From Eyes – Dr. Berg</summary><br>
+<summary>657. [2017-01-22] Nutritional Deficiency Symptoms From Eyes – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3uBArhJVMLU" target="_blank">
     <img src="https://img.youtube.com/vi/3uBArhJVMLU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 文章整理：通過眼睛診斷營養缺乏症
 
+## 核心主題
+本文探討了如何通過眼睛來診斷潛在的營養缺乏症及健康問題，強調眼睛作為反映身體健康狀況的重要窗口。
+
+---
+
+## 主要觀念
+1. **黃疸（Yellowing of the Eyes）**  
+   - 白眼部分或皮膚呈黃色（jaundice），與膽汁淤積有關。
+   - 背後原因是膽紅素在血液中累積，通常由膽道阻塞或 gallbladder 疾病引發。
+
+2. **血絲眼（Bloodshot Eyes）**  
+   - 可能因酒精攝取過量引起，也可能是維生素 B2 缺乏症的表現。
+   - B2 缺乏常與過度消費精制穀物（如麵包、意面、燕麥等）有關。
+
+3. **眼瞼上的斑塊或小疣**  
+   - 眼瞼上出現小疣或斑塊，可能是高膽固醇血症的徵兆。
+   - 通常為遺傳問題，導致血液中膽固醇水平長期過高。
+
+4. **白內障（Cataracts）**  
+   - 白內障與維生素 B1 缺乏有關，表現為眼睛混浊或出現斑塊。
+   - 維生素 B1缺乏通常由過度攝糖、糖尿病或精制穀物攝取過量引發。
+
+5. **眼瞼紅腫及刺激（Sand-like Irritation）**  
+   - 內眼角膜下呈現紅色和刺激感，可能是低血糖（hypoglycemia）的表現。
+   - 這類問題常見於前期糖尿病患者。
+
+6. **霰粒肿或 sty (眼瞼上的小疣)**  
+   - 眼瞼上出現的小疣，通常與白血球功能異常有關。
+   - 白血球偏好攝取糖分而非直接對抗細菌，導致免疫功能受阻。
+
+---
+
+## 問題原因
+1. **營養不均衡**：精制穀物過度攝取導致維生素 B2 和 B1 缺乏。  
+2. **代謝問題**：高膽固醇血症、糖尿病或低血糖。  
+3. **免疫功能失調**：白血球對糖分的偏好影響其抗菌能力。
+
+---
+
+## 解決方法
+1. **調整飲食**  
+   - 減少精制穀物攝取，增加富含維生素 B2 和 B1 的食物（如瘦肉、乳製品、蛋類）。  
+   - 控制糖分攝取，避免過度攝入精制碳水化合物。
+
+2. **補充營養素**  
+   - 維生素 B2：可通過食用魚類、瘦肉和乳製品獲得。  
+   - 維生素 B1：增加糙米、葵花籽和瘦肉的攝取量。  
+   - 胆固醇管理：補充磷脂（如蛋黃、大豆）和膽堿。
+
+3. **生活方式調整**  
+   - 減少酒精攝取，避免對眼睛造成進一步刺激。  
+   - 管理壓力，保持良好的心理狀態以降低血糖波動。
+
+---
+
+## 健康建議
+- 定期檢查眼部健康，早期發現問題。  
+- 通過均衡飲食和適當補充營養素來預防營養缺乏症。  
+- 如有持續性問題，及時就醫檢查，避免自我診斷。
+
+---
+
+## 總結
+眼睛是反映身體健康的關鍵窗口，許多營養缺乏症或代謝問題均可通過眼部症狀早期發現。本文提供了多種眼部症狀的可能原因及其相應的解決方案，強調飲食調整和營養補充的重要性。及時採取行動可以有效改善健康狀況，預防更嚴重的疾病發生。
 </details>
 
 <details>
-<summary>656. Instant Neck Pain & Stiffness Relief (Do-It-Yourself) – Dr.Berg</summary><br>
+<summary>656. [2017-01-21] Instant Neck Pain & Stiffness Relief (Do-It-Yourself) – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=VUtBqJ4rsiQ" target="_blank">
     <img src="https://img.youtube.com/vi/VUtBqJ4rsiQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- **neck stiffness**（項背僵硬）  
 
+### 主要觀念  
+1. 項背僵硬是一種常見的身體不適，影響日常生活。
+2. 即時減輕項背僵硬的方法可以通過簡單的拉伸技術來實現。
+
+### 問題原因  
+- **肌肉緊張或限制**：項背僵硬通常與頸部肌肉過度緊張或活動範圍受限相關。
+- **姿勢不良**：長時間保持不正確的姿勢（如久坐、低頭看手機）會導致頸部肌肉痠痛和僵硬。
+
+### 解決方法  
+1. **主動拉伸法**：
+   - **前傾 cabeça**（將頭向前傾）：這一步驟用於意識到頸部的活動範圍。
+   - **後仰 cabeça**（將頭向後仰）：如果發現後仰時受限或疼痛，表示可能存在僵硬。
+2. **對抗性拉伸法**：
+   - 如果某個方向受限制（例如後仰受限），則在相反方向進行五次拉伸。此方法基於**拮抗肌原理**，通過刺激神經肌肉來改善活動範圍。
+
+### 健康建議  
+1. **定期進行頸部拉伸**：即使沒有明顯的僵硬感，也應該定期進行頸部拉伸以預防問題。
+2. **注意姿勢**：避免長時間保持不良姿勢，尤其是在使用電子產品時。
+3. **結合其他技術**：此方法可以與其他物理治療技術（如按摩、熱敷）結合使用，以獲得更好的效果。
+
+### 結論  
+- 通過簡單的拉伸技術和拮抗肌原理，可以有效減輕頸部僵硬並恢復正常的活動範圍。
+- 該方法操作简便，適合在日常生活中隨時應用。
 </details>
 
 <details>
-<summary>655. Why Lotion Never Fixes Cracked Heels and Dry Feet – Dr.Berg</summary><br>
+<summary>655. [2017-01-20] Why Lotion Never Fixes Cracked Heels and Dry Feet – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Z2o0fTIdHKs" target="_blank">
     <img src="https://img.youtube.com/vi/Z2o0fTIdHKs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理： cracked heels 的原因與 해결 방안
 
+#### 核心主題
+- **vitamin B3 缺乏症 (pellagra)** 作為導致 cracked heels 的主要因素。
+
+#### 主要觀念
+1. **Vitamin B3 的重要性**
+   - Vitamin B3（尼可酰胺）是維生素B群的重要組成部分。
+   - 其缺乏會引發pellagra，一種影響多個系統的疾病。
+
+2. **Pellagra的症狀**
+   - 胃腸道症狀：腹瀉、胃肠道炎症。
+   - 皮膚問題：敏感性皮膚、粗糙乾燥、腳後跟皲裂、 odor sensitivity。
+   - 神經系統症狀：眩暈、易怒。
+   - 其他症狀：黑舌。
+
+3. **Pellagra的成因**
+   - 遠期原因：
+     * 酗酒。
+     * 長期使用抗生素，破壞腸道菌群平衡。
+     * 營養攝取不足（如玉米為主食的飲食）。
+   - 其他原因：
+     * 胃腸道疾病：胃繞道手術、克隆氏病、乳糖不耐症。
+     * 酸性條件影響吸收。
+
+4. **Vitamin B3 的來源**
+   - 動物性食物：火雞、鸡肉、豬肉、蘑菇、魚類、 grass-fed牛肉。
+   - 植物性來源：種子、牛油果。
+
+#### 問題原因
+- 胃腸道健康問題影響吸收：
+  * 炎症性腸病（如克隆氏病、乳糖不耐症）。
+  * 手術後的腸道結構改變（如胃繞道手術）。
+  - 長期使用抗生素破壞腸道菌群。
+
+- 饮食因素：
+  * 素食或以玉米為主食的飲食，缺乏足夠的tryptophan來合成Vitamin B3。
+  
+#### 解決方案
+1. **針對吸收問題**
+   - 使用腸黏膜修復補充劑：如L-谷氨酰胺（l-glutamine）。
+   - 增加益生菌食物攝取：如康普茶（kombucha）、發酵食品、骨 broth。
+
+2. **飲食調整**
+   - 确保均衡飲食，攝取足夠的Vitamin B3來源。
+   - 減少過量食用玉米，或補充tryptophan來源。
+
+#### 健康建議
+- 如果出現pellagra的症狀，應立即就醫檢查腸胃道健康並接受適當治療。
+- 避免長期使用抗生素，必要時配合醫生指導補充益生菌。
+- 多攝取富含Vitamin B3的食物，或在醫師建議下補充Vitamin B3 supplements。
+
+#### 總結
+- cracked heels 可能是pellagra的早期症狀之一，源於Vitamin B3缺乏。
+- 其背後的原因多數與腸胃道吸收功能受損有關。
+- 治療關鍵在於恢復腸胃道健康並補充必要的營養素。
 </details>
 
 <details>
-<summary>654. Understanding Types of Collagen Explained By Dr. Berg</summary><br>
+<summary>654. [2017-01-19] Understanding Types of Collagen Explained By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=UcSgIhrvaos" target="_blank">
     <img src="https://img.youtube.com/vi/UcSgIhrvaos/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 1. 核心主題：膠原蛋白的種類與功能
+- 膠原蛋白是一種蛋白質，組成身體的連結組織。
+- 它名稱源自希臥語「 glue」，意指其作為身体結構的「粘合劑」。
+
+#### 2. 主要觀念：膠原蛋白的主要類型
+- **I 型膠原蛋白**：
+  - 最為豐富（約佔90%），主要存在於肌腱、韌帶、骨骼和牙齒中。
+  - 與礦物質結合形成堅硬結構，如骨骼和牙齒。
+  - 參与皮膚、動脈壁的形成。
+
+- **II 型膠原蛋白**：
+  - 存在於關節軟骨和articular surfaces。
+  - 維持關節健康，尤其適合退化性關節疾病患者。
+
+- **III 型膠原蛋白**：
+  - 負責連結器官和結構，如肝臟、骨髓和淋巴系統。
+  - 更為脆弱，提供內部組織的分隔和支持。
+
+- **IV 型膠原蛋白**：
+  - 主要存在於呼吸 tract（肺部、腸道周圍組織）。
+  - 維持呼吸系統健康。
+
+- **V 型膠原蛋白**：
+  - 與頭髮和細胞表面結構有關。
+  - 影響外觀和acellular功能。
+
+#### 3. 問題原因：膠原蛋白吸收的限制因素
+- **維生素C deficiency**：
+  - 阻礙膠原蛋白代謝，導致組織脆弱（如關節、軟骨）。
+  - 可引起壞血病（scorbutic disease），包括牙齦出血和牙齒脫落。
+
+- **微小血管出血（microhemorrhages）**：
+  - 約 artery 堵塞的早期現象，與膠原蛋白不足有關。
+
+- **胃繞道手術（gastric bypass surgery）**：
+  - 影響消化能力，導致膠原蛋白吸收困難。
+  - 可能引起皮膚鬆弛和恢復困難。
+
+- **低胃酸（hypochlorhydria）**：
+  - 影響食物中膠原蛋白的消化吸收。
+  - 症狀包括 gas、貧血、b12缺乏和反流病。
+
+#### 4. 解決方法與健康建議
+- **確保足夠的維生素C攝取**：
+  - 維生素C是膠原蛋白合成的必要營養素。
+  - 採納富含VC的食物（如柑橘類水果、草莓、紅椒）或補充劑。
+
+- **提升胃酸水平**：
+  - 改善消化能力，以更好地分解和吸收膠原蛋白。
+  - 可考慮飲食調整（如食用酸性食物）或藥物補充。
+
+- **選擇合適的膠原蛋白來源**：
+  - 根據不同需求選擇來源（如雞胸骨、豬 кожа、魚皮等）。
+  - 確保產品為自然形式，並含有足夠的輔助因子（如 flavonoids）。
+
+#### 5. 總結
+- 膠原蛋白對於維持身體結構至關重要，不同類型的膠原蛋白在身體各部位發揮特定功能。
+- 影響膠原蛋白吸收的因素包括維生素C、胃酸水平和消化道手術等。
+- 要有效利用膠原蛋白，需綜合考慮營養攝取和消化能力，確保其在體內 proper metabolization。
 </details>
 
 <details>
-<summary>653. How To Get Rid of Low Back Pain Fast? – Dr.Berg</summary><br>
+<summary>653. [2017-01-18] How To Get Rid of Low Back Pain Fast? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=o9jyE-Dcjkk" target="_blank">
     <img src="https://img.youtube.com/vi/o9jyE-Dcjkk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：快速缓解背部疼痛的方法
 
+#### 核心主題
+- 提供一種快速缓解背部疼痛的方法，強調通過按摩身體前側來解決背部問題。
+
+#### 主要觀念
+1. **反向治療法**：背部疼痛可以通过按摩身體對應的前側部位來緩解。
+2. **穴位按壓**：按壓肚脐下方的 특정 지점（假想的背痛位置的正前方）可以有效缓解背部疼痛。
+3. **壓力點定位**：背部疼痛的位置和相對應的前側壓力點之間存在直接關聯。
+
+#### 問題原因
+- 背部疼痛通常與肌肉緊張、姿勢不良或潛在的結構性問題（如椎間盤突出）有關。
+- 傳統治療方法多集中於背部按摩，效果有限或需要更長時間。
+
+#### 解決方法
+1. **定位壓力點**：根據背部疼痛的位置，在身體前側找到對應的按壓點。
+2. **按摩技巧**：
+   - 使用按摩工具或手部按壓肚脐下方的區域（約肚脐下兩指位置）。
+   - 按摩時間建議持續30秒至1分鐘，直到壓力感減輕。
+3. **重複操作**：如果疼痛 recurs，可能需要多次治療或進一步檢查。
+
+#### 健康建議
+- 如果背部疼痛在數次按摩後仍未緩解，建議諮詢專業醫生以排除椎間盤問題或其他潛在疾病。
+- 維持良好的姿勢和規律的運動習慣，可以預防背部疼痛的發生。
+
+#### 結論
+- 本文介紹了一種簡單有效的背部疼痛緩解方法，強調通過按摩身體前側來解決背部問題。此方法操作便捷，效果立竿見影，但若疼痛持續建議尋求進一步治療。
 </details>
 
 <details>
-<summary>652. The Root Causes of Sacroiliac Joint Pain – SI Joint Pain Relief – Dr.Berg</summary><br>
+<summary>652. [2017-01-17] The Root Causes of Sacroiliac Joint Pain – SI Joint Pain Relief – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_pZT6SzQ9fg" target="_blank">
     <img src="https://img.youtube.com/vi/_pZT6SzQ9fg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 重點整理  
 
+#### 核心主題  
+- ** sacroiliac joint (SI joint) 痛症**：本文主要探討骶髂joint 疼痛的原因、診斷方法及解決方案。  
+
+---
+
+#### 主要觀念  
+1. **骶髂joint的解剖結構**：  
+   - 骶髂joint 是 pelvis 的一部分，由 sacrum 和 ilium 骨頭組成，具有微小的活動性。  
+2. **骶髂joint疼痛的原因**：  
+   - 可能來源於直接的 joint 為害或REFERRED PAIN（轉移 Pain），例如來自生殖系統或泌尿系統的問題。  
+
+---
+
+#### 問題原因  
+1. **女性**：  
+   - 卵巢問題（如囊腫）可能導致骶髂joint疼痛。  
+2. **男性**：  
+   - 泌尿系統問題（如結石）可能引發骶髂joint區域的不適。  
+3. **直接 injury**：  
+   - 長期坐姿不良、跌倒或其他外力影響可能導致 joint 為害或炎症。  
+4. **舊傷影響**：  
+   - 尾骨受力傳遞至脊椎，導致頸部 tension，進而影響骶髂joint的橢圓形。  
+
+---
+
+#### 解決方法  
+1. **針對REFERRED PAIN**：  
+   - **女性**：處理卵巢問題（如手術或藥物治療）。  
+   - **男性**：解決泌尿系統問題（如結石去除）。  
+2. **直接 joint 為害**：  
+   - 使用网球按壓法：  
+     - 患者躺臥，使用网球按壓對側區域以放鬆周圍肌肉。  
+3. **舊傷恢復**：  
+   - 針對頸部 tension 的牽引和拉伸：  
+     - 舉例來說，輕柔地.lift 和.flex 頭部以釋放脊椎的張力。  
+
+---
+
+#### 健康建議  
+1. **姿勢管理**：  
+   - 維持良好的坐姿，避免長時間維持同一姿勢。  
+2. **定期運動**：  
+   - 加強盆底肌和核心肌群的訓練，以支撐骶髂joint。  
+3. **注意舊傷**：  
+   - 如有尾骨受力史，需定期檢查頸部 tension，必要時進行專業治療。  
+
+---
+
+#### 結論  
+- 骶髂joint疼痛可能來源於多種原因，包括直接 injury 或轉移 Pain。  
+- 治療方法因病因而異，針對性地處理原發問題是關鍵。  
+- 通過姿勢管理、運動和定期檢查，可以有效預防和改善骶髂joint相關問題。  
+
+---
+
+### 英文翻譯  
+
+#### Core Theme  
+- **Pain in the sacroiliac joint (SI joint)**: The article focuses on the causes, diagnosis, and solutions for SI joint pain.  
+
+---
+
+#### Main Concepts  
+1. **Anatomical Structure of the Sacroiliac Joint**:  
+   - The SI joint is part of the pelvis, consisting of the sacrum and ilium bones with minimal movement.  
+2. **Causes of SI Joint Pain**:  
+   - It may originate from direct joint issues or referred pain (e.g., from reproductive or urinary systems).  
+
+---
+
+#### Problem Analysis  
+1. **Women**：  
+   - Ovarian issues (e.g., cysts) can cause SI joint pain.  
+2. **Men**：  
+   - Urinary system problems (e.g., stones) may lead to discomfort in the SI joint area.  
+3. **Direct Injury**:  
+   - Poor sitting posture, falls, or external forces can result in joint dysfunction or inflammation.  
+4. **Old Injuries**:  
+   - Force transmission from a tailbone injury can affect spine tension and indirectly impact the SI joint.  
+
+---
+
+#### Solutions  
+1. **For Referred Pain**：  
+   - **Women**: Address ovarian issues (e.g., surgery or medication).  
+   - **Men**: Resolve urinary system problems (e.g., stone removal).  
+2. **Direct Joint Issues**:  
+   - Use tennis ball pressure method:  
+     - The patient lies down and uses a tennis ball to press on the opposite side for muscle relaxation.  
+3. **Old Injuries**:  
+   - Target neck tension relief through牵引和拉伸：  
+     - For example, gently lift and flex the head to release spine tension.  
+
+---
+
+#### Health Recommendations  
+1. **Posture Management**:  
+   - Maintain good posture and avoid prolonged sitting.  
+2. **Regular Exercise**:  
+   - Strengthen pelvic floor and core muscles to support the SI joint.  
+3. **Monitor Old Injuries**:  
+   - Regularly check for neck tension if there is a history of tailbone injuries, seeking professional treatment if necessary.  
+
+---
+
+#### Conclusion  
+- SI joint pain can result from various causes, including direct injury or referred pain.  
+- Treatment methods vary based on the root cause, with targeted solutions being crucial.  
+- Through posture management, exercise, and regular check-ups, SI joint-related issues can be effectively prevented and improved.
 </details>
 
 <details>
-<summary>651. Foods for Fluid Retention in the Feet and Ankles – Dr.Berg</summary><br>
+<summary>651. [2017-01-16] Foods for Fluid Retention in the Feet and Ankles – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=YAj4e75Yv8Y" target="_blank">
     <img src="https://img.youtube.com/vi/YAj4e75Yv8Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節化整理
 
+#### 核心主題  
+- 膿脹（ swollen feet and ankles）的最佳飲食與治療方法。
+
+---
+
+#### 主要觀念  
+1. **腫脹的嚴重性**：腎臟、肝臟或心臟問題可能引發腫脹，需採取全身性治療。
+2. **機制分析**：
+   - 電解質失衡（較不常見）。
+   - 血液中低蛋白質水平（如白蛋白不足），導致體液滯留。
+3. **飲食修正的重要性**：調整飲食是治癒腫脹的基礎。
+
+---
+
+#### 問題原因  
+1. **器官功能障礙**：
+   - 肝臟或腎臟功能受損，影響白蛋白生成。
+   - 白蛋白不足，導致血管滗漏，體液積聚於組織中。
+2. **其他因素**：
+   - 電解質失衡。
+   - 血流不暢。
+
+---
+
+#### 解決方法  
+1. **飲食調整**：
+   - 增加高品質蔬菜攝取（如西兰花、菠菜、羽衣甘藍），提供礦物質和酶，促進體液排出。
+   - 減少加工食品和高糖食物，避免加重腫脹。
+2. **補充劑與營養品**：
+   - **Serra_PEPTIDE**：一種來自柞蠶的酶，可分解疤痕組織、改善 circulation 和減輕炎症。建議劑量為120,000至250,000國際單位，空腹服用。
+3. **健康飲食原則**：
+   - 選擇高品質蛋白質來源（如草饲牛肉、海鮮）。
+   - 減少糖分攝入。
+
+---
+
+#### 健康建議  
+1. 確保每日攝取充足的新鮮蔬菜，尤其是高營養密度的葉菜類。
+2. 避免加工食品和高糖飲食，以防止腫脹惡化。
+3. 考慮補充Serra_PEPTIDE等保健品，但需與醫生討論後使用。
+
+---
+
+#### 結論  
+1. 腿部腫脹通常反映全身性健康問題，尤其是肝臟或腎臟功能障礙。
+2. 遮食調整是關鍵，但需結合其他治療方法（如補充酶類）以達到最佳效果。
+3. 長期來看，飲食修正和保健品補充可幫助恢復健康，但仍需定期追蹤肝臟和腎臟功能。
 </details>
 
 <details>
-<summary>650. Can I Eat These On A Keto Diet Plan: Beets, Carrots, Peas & Tomatoes? – Dr. Berg</summary><br>
+<summary>650. [2017-01-15] Can I Eat These On A Keto Diet Plan: Beets, Carrots, Peas & Tomatoes? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=krfboRubpKU" target="_blank">
     <img src="https://img.youtube.com/vi/krfboRubpKU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理與分析
 
+#### 核心主題
+本文探討在低碳水化合物（生酮）飲食中是否可以食用特定蔬菜，並分析不同蔬菜的營養價值及其對生酮飲食的影響。
+
+---
+
+#### 主要觀念
+1. **蔬菜種類**：文章討論了以下蔬菜：
+   - 豬心甘（Beet）
+   - 胡萝卜（Carrot）
+   - 豌豆（Peas）
+   - 番茄（Tomatoes）
+   - 土豆（Potato）
+   - 玉米（Corn）
+   - 洋蔥菊芋（Artichoke）
+
+2. **關鍵指標**：分析蔬菜時主要基於以下營養指標：
+   - 鈣륨含量
+   - 碳水化合物含量
+   - 細胞壁含量
+   - 蛋白質含量
+   - 糖分含量
+
+---
+
+#### 問題原因
+1. **高碳水化合物和糖分**：多數蔬菜（如豬心甘、豌豆、土豆和洋蔥菊芋）含有較高的碳水化合物和糖分，可能破壞生酮飲食的效果。
+2. **血糖影響**：高糖分的蔬菜會快速提升血糖水平，影響酮症的維持。
+
+---
+
+#### 解決方法
+1. **選擇低碳水化合物蔬菜**：
+   - 胡萝卜和番茄因其較低的碳水化合物和糖分-content，適合生酮飲食。
+2. **限制攝取量**：即使是低GI（升糖指數）蔬菜，也應控制食用量，避免過多攝入碳水化合物。
+
+---
+
+#### 健康建議
+1. **推薦食用的蔬菜**：
+   - 胡萝卜：富含維生素A，適合生酮飲食。
+   - 番茄：低GI，富含抗氧化劑，適量攝取有益健康。
+2. **避免或限制食用的蔬菜**：
+   - 豬心甘、豌豆、土豆、玉米和洋蔥菊芋：因高碳水化合物和糖分，可能影響酮症。
+3. **替代選擇**：若需要為孩子準備飲食，可考慮使用少量的红薯或紫薯，但需注意份量控制。
+
+---
+
+#### 結論
+在生酮飲食中，蔬菜的选择需謹慎。 carrot 和 tomato 是較好的選擇，而豬心甘、豌豆、土豆、玉米和洋蔥菊芋則應避免或限制攝取。保持均衡飲食並諮詢專業營養師的建議，以確保飲食計劃的有效性和健康性。
+
+---
+
+以上整理基於文章內容，結構化為正式的學術用語，並分小節歸納主要點，供進一步分析和參考。
 </details>
 
 <details>
