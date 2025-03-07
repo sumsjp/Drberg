@@ -76,7 +76,7 @@ def download_script(df):
     preferred_langs = ['en']
     
     # 從最後一筆往前處理
-    for idx in df.index:
+    for idx in reversed(df.index):
         if download_count >= max_downloads:
             print(f"📌 已達到最大下載數量 ({max_downloads})")
             break
@@ -110,6 +110,8 @@ def download_script(df):
         except Exception as e:
             print(f"❌ 下載失敗 {video_id}: {str(e)}")
             continue
+
+        summerize_script()
     
     return df
 
@@ -165,8 +167,8 @@ def email_notify():
     pass
 
 if __name__ == '__main__':
-    # df = update_list()
-    # download_script(df)
-    summerize_script()
+    df = update_list()
+    download_script(df)
+    # summerize_script()
     create_doc()
     email_notify()
