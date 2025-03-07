@@ -901,113 +901,539 @@
 </details>
 
 <details>
-<summary>1218. Are You Itching on a Ketogenic Diet? – Dr. Berg on Keto Rash</summary><br>
+<summary>1218. [2017-12-10] Are You Itching on a Ketogenic Diet? – Dr. Berg on Keto Rash</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Od7LYWhcLFs" target="_blank">
     <img src="https://img.youtube.com/vi/Od7LYWhcLFs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小結整理：酮飲食中感到癢的原因及對策
 
+#### 核心主題
+探讨酮飲食（低糖、低碳水化合物、高脂肪飲食）中出现瘙痒症状的可能原因及其应对策略。
+
+---
+
+#### 主要觀念
+1. **食物過敏**  
+   - 酮飲食可能导致食物過敏反應，需要排除新引入的食物。
+2. **酮症轉換反應**  
+   - 身體進入酮症狀態時的適應性反應可能引起不適症狀。
+3. **肝臟或膽囊問題**  
+   - 肝臟或膽囊功能障礙可能导致瘙痒等症狀。
+4. **毒素釋放**  
+   - 酮飲食中脂肪燃燒過程中可能釋放 toxins，影響身體。
+
+---
+
+#### 問題原因
+1. **食物過敏**  
+   - 新引入的食物可能是過敏原。
+2. **酮症適應性反應**  
+   - 身體在过渡期缺乏必要的營養補充（如B vitamins、鉀）。
+3. **肝臟或膽囊功能障礙**  
+   - 症狀包括右肩疼痛、肋骨下方脹氣等。
+4. **毒素累積與釋放**  
+   - 長期積累在脂肪細胞中的 toxins 在燃燒過程中進入 bloodstream。
+
+---
+
+#### 解決方法
+1. **食物過敏**  
+   - 檢查飲食中新增的食物，逐漸排除疑似過敏原。
+2. **酮症適應性反應**  
+   - 补充B vitamins（如 nutritional yeast）和鉀，保持 electrolyte 平衡。
+3. **肝臟或膽囊問題**  
+   - 減少脂肪攝取，增加蔬菜攝量，逐步調整飲食結構。
+4. **毒素釋放**  
+   - 摂取高纖維食物（如 bentonite clay），清潔腸道。
+
+---
+
+#### 健康建議
+1. **飲食調整**  
+   - 減少脂肪攝取，增加蔬菜攝量，避免 sudden 改變飲食結構。
+2. **營養補充**  
+   - 確保足夠的 B vitamins 和鉀，預防酮症反應。
+3. **排毒支持**  
+   - 檸檬水、bentonite clay 等天然排毒方式可幫助清除毒素。
+
+---
+
+#### 結論
+瘙痒在酮飲食中可能是多種因素導致的，包括食物過敏、酮症反應、肝臟或膽囊問題以及 toxins 釋放。通過針對性地調整飲食結構、補充營養素和採取排毒措施，可以有效緩解症狀並促進健康。建議在實行酮飲食時逐步調整，必要時諮詢專業醫療人員。
 </details>
 
 <details>
-<summary>1217. 5 Tips To Deal With Old Injuries As You Are Aging – Dr. Berg﻿ On Anti-Aging</summary><br>
+<summary>1217. [2017-12-09] 5 Tips To Deal With Old Injuries As You Are Aging – Dr. Berg﻿ On Anti-Aging</summary><br>
 
 <a href="https://www.youtube.com/watch?v=CrVwWGZ4iH0" target="_blank">
     <img src="https://img.youtube.com/vi/CrVwWGZ4iH0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：老傷與年齡相關退化症的管理和預防
 
+---
+
+### 主要觀念：
+1. ** inflammation Reduction** (炎症 reduction) 是管理老傷和退化症的核心。
+2. **Anti-Aging Mechanisms** (抗衰老機制) 可以通過細胞回收來延缓老化。
+3. **Stretching Techniques** (拉伸技巧)：反向拉伸（opposite stretching）可以有效改善受限制的動作範圍。
+4. **Exercise Recommendations** (運動建議)：優先使用自重訓練，避免加重受傷部位的負擔。
+5. **Nutritional Supplements** (營養補充劑)：K2 和 D3 的組合有助於移除關節中的鈣質沉積。
+6. **Emerging Therapies** (新興療法)：干細胞治療被譽為未來治療老傷和重建關節的關鍵技術。
+
+---
+
+### 問題原因：
+1. **Inflammation** (炎症)：慢性炎症是導致關節退化、椎間盤退化和肌肉保護反應的主要原因之一。
+2. **Aging Process** (老化過程)：細胞功能障礙和廢棄物積累是年齡增長的關鍵因素。
+3. **Limited Range of Motion** (活動範圍受限)：受傷後的僵硬和痛楚限制了日常動作。
+
+---
+
+### 解決方法：
+1. **Intermittent Fasting and Keto Diet** (間歇性禁食和酮飲食)：降低全身炎症水平，促進細胞自我清潔。
+2. **Stinging Nettle Root** (刺蕎根)：快速降低炎症的植物補充劑。
+3. **Opposite Stretching Technique** (反向拉伸技巧)：針對受限制的動作範圍，進行相反方向的拉伸以恢復靈活性。
+4. **Bodyweight Exercises** (自重訓練)：避免加重關節負擔，選擇低衝擊力的運動方式。
+5. **K2 and D3 Supplementation** (K2 和 D3 補充)：幫助移除軟組織中的鈣質沉積，改善關節健康。
+6. **Isometrics** (等長訓練)：用於受傷部位的康復，避免運動引發進一步炎症。
+7. **Stem-Cell Therapy** (干細胞治療)：一種潛力巨大的治療技術，可用於重建受損關節。
+
+---
+
+### 健康建議：
+1. **Adopt an Anti-Inflammatory Diet** (adopt an 抗炎飲食)：通過酮飲食和間歇性禁食來降低炎症水平。
+2. **Practice Opposite Stretching** (實施反向拉伸)：針對受傷部位進行相對方向的拉伸以恢復運動範圍。
+3. **Use Bodyweight Exercises** (使用自重訓練)：避免增加額外負荷，選擇低衝擊力的運動方式。
+4. **Consider Nutritional Supplements** (考慮營養補充劑)：K2 和 D3 的組合可改善關節健康。
+5. **Explore Emerging Therapies** (探索新興療法)：干細胞治療為未來康復提供了新的可能性。
+
+---
+
+### 結論：
+針對老傷和年齡相關退化症，關鍵在於降低炎症、恢復運動範圍、避免進一步損傷以及利用前沿技術來促進康復。Combining lifestyle changes, nutritional interventions, and emerging therapies can significantly improve joint health and slow down the aging process.
 </details>
 
 <details>
-<summary>1216. What Causes Insomnia On Keto Diet? – Dr. Berg</summary><br>
+<summary>1216. [2017-12-09] What Causes Insomnia On Keto Diet? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=qbP9e6kcVLE" target="_blank">
     <img src="https://img.youtube.com/vi/qbP9e6kcVLE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 介紹失眠與酮egenic（生酮飲食）相關問題，特別是在從事Aikido等活動後出現失眠的情況。
 
+---
+
+### 主要觀念  
+1. **矿物质缺乏與睡眠影響**  
+   - 钙質和鎂esium缺乏可能導致肌肉痙攣、疲勞但無法進入深度睡眠。  
+2. **assium缺乏的影響**  
+   - 低血鉀可能导致心率加快、血壓升高，並影響神經系統的放鬆。  
+3. **B1（維生素B1）的作用**  
+   - 維生素B1有助於減少過度思考， calm the nervous system, 幫助睡眠。  
+
+---
+
+### 問題原因  
+- 生酮飲食可能導致微輕度礦物質缺乏（如鈣、鎂、鉀），影響睡眠quality。  
+- 高蛋白攝取可能作為刺激物，干擾睡眠。  
+- 進入酮症后，身體能量增加可能导致失眠或過度興奮。  
+
+---
+
+### 解決方法  
+1. **補充礦物質**  
+   - 和鎂：建議以粉末或片劑形式攝取，避免使用 calcium carbonate。  
+   - 鹅蛋assium：可通過食用蔬菜或補充電解質粉來補充。  
+2. **維生素B1的補充**  
+   - 使用非增強型營養酵母作為來源。  
+3. **控制蛋白攝取量**  
+   - 每餐蛋白攝取量建議控制在3至6盎司之間。  
+
+---
+
+### 健康建議  
+- 在進行Aikido等活動後，注意觀察個人的睡眠質素變化。  
+- 確保飲食均衡，特別是礦物質和維生素的攝取。  
+- 高強度運動後，可增加低強度的散步或放鬆活動，以消耗 excess energy.  
+
+---
+
+### 結論  
+- 失眠在生酮飲食中可能與矿物质缺乏、蛋白攝取過量等因素有關。  
+- 通過補充鈣、鎂、鉀和維生素B1，控制蛋白攝取量，並增加放鬆活動，可以改善睡眠quality.  
+
+---
+
+### 全文摘要  
+本文探討了在生酮飲食背景下，失眠問題的可能原因及解決方法。文章指出，矿物质缺乏（如鈣、鎂、鉀）和高蛋白攝取可能是導致失眠的主要因素。建議通過補充這幾種礦物質、控制蛋白攝取量，並增加放鬆活動來改善睡眠quality. 作者強調了均衡飲食和健康生活方式的重要性，以應對生酮飲食可能帶來的副作用。
 </details>
 
 <details>
-<summary>1215. Dr. Berg Evaluates Tara Shimer Symptoms (Part 1)</summary><br>
+<summary>1215. [2017-12-08] Dr. Berg Evaluates Tara Shimer Symptoms (Part 1)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=lGSDOHll-pg" target="_blank">
     <img src="https://img.youtube.com/vi/lGSDOHll-pg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 1. 核心主題：綜合性健康管理与疾病康复
+   - **核心主題**：文章圍繞一個人的整體健康管理、慢性病康復（如糖尿病、代謝症）以及相關的生活方式調整展開討論。強調多方面治療方案的重要性，包括營養、運動和心理健康的整合。
+
+#### 2. 主要觀念：
+   - **疾病的SYSTEMIC性**：強調疾病不是孤立的問題，而是整體健康狀況的反映。
+   - **自然療法的重要性**：提倡使用自然療法（如飲食調整、補充劑、壓力管理）來改善健康狀況。
+
+#### 3. 問題原因：
+   - **代謝紊亂**：長期使用藥物（如Metformin）可能對身體造成負擔，影響整體代謝功能。
+   - **消化系統問題**：多年來胃酸分泌不足導致營養吸收不良。
+   - **壓力與睡眠不足**：慢性壓力和睡眠障礙進一步加劇了荷爾蒙失衡，影響免疫功能和代謝。
+
+#### 4. 解決方法：
+   - **飲食調整**：採用.INTERMITTENT FASTING（間歇性禁食）來降低胰島素抗性。
+   - **營養補充**：
+     - **膽鹽**：改善脂肪消化，支持肝臟功能。
+     - **小麥草汁**：提供大量營養素和抗氧化劑，促進腸胃健康。
+   - **壓力管理**：使用ACUPRESSURE（穴位按壓）來調節自主神經系統，降低壓力激素 cortisol。
+   - **睡眠優化**：通過改善睡覺環境和飲食習慣來提升睡眠品質。
+
+#### 5. 健康建議：
+   - **飲食結構**：
+     - 減少糖分攝取，增加蔬菜和健康脂肪的攝入。
+     - 採用間歇性禁食，限制進餐時間。
+   - **運動**：適量運動，尤其是力量訓練，以提高胰島素敏感性。
+   - **心理健康**：學習壓力管理技巧，如冥想、按壓等，來平衡神經系統。
+   - **藥物依賴性**：
+     - 考慮逐步減少對Metformin的依賴，通過生活方式調整來恢復血糖控制。
+
+#### 6. 結論：
+   - **整合治療方案**：文章強調多管齊下的治療方式對於康復的重要性。
+   - **耐心與堅持**：健康問題的解決需要時間和持續的努力，需耐心配合治療計劃。
+   - **個化化治療**：每個體質不同，治療方案需根據個人情況調整。
+
+#### 7. 其他建議：
+   - 推荐心理諮詢或專業醫師的協助，以制定適合個人的健康計劃。
+   - 使用天然食品作為替代零食選擇，如推薦的健康麥片產品。
+
+---
+
+### 總結
+本文討論了一個複雜的健康問題案例，強調了整合性治療方案的重要性。通過飲食調整、營養補充、壓力管理和藥物依賴性的逐步減少，來改善整體健康狀況。文章最後呼籲病人和醫療專業人員共同努力，制定適合個人需求的治療計劃，並強調持續追蹤和評估治療效果的必要性。
 </details>
 
 <details>
-<summary>1214. Best Remedy for Viruses (Monolaurin) – Dr. Berg</summary><br>
+<summary>1214. [2017-12-07] Best Remedy for Viruses (Monolaurin) – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=LIzaHVz5218" target="_blank">
     <img src="https://img.youtube.com/vi/LIzaHVz5218/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 1. **核心主題**  
+- The primary topic of the article is the discussion of a natural remedy for viral infections, specifically focusing on a compound called "mono Laurel."
 
+### 2. **主要觀念 (Key Concepts)**  
+- **Mono Laurel Definition**: Mono Laurel is a concentrated form of lauric acid, commonly found in coconut oil and breast milk.
+- **Mechanism of Action**: It works by dissolving the lipid layer of viruses, preventing them from attaching to host cells.
+- **Broad-Spectrum Antiviral and Antibacterial Properties**: It is effective against various pathogens, including bacteria (e.g., *Helicobacter pylori*, *Staphylococcus aureus*), viruses (e.g., Epstein-Barr virus, influenza), fungi, and others.
+
+### 3. **問題原因 (Pathophysiology)**  
+- Viruses often have a lipid envelope that protects them and allows them to attach to host cells, facilitating infection.
+- Mono Laurel disrupts this protective layer, rendering the pathogens ineffective.
+
+### 4. **解決方法 (Treatment Approach)**  
+- **Use of Mono Laurel**: It serves as a natural antiviral agent by targeting the lipid layer of viral particles.
+- **Gradual Dose Adjustment**: To minimize side effects such as die-off reactions, it is recommended to start with small doses and gradually increase the intake.
+
+### 5. **健康建議 (Health Recommendations)**  
+- Consider incorporating mono Laurel into your diet, especially if you have chronic conditions like chronic fatigue syndrome or mold illness.
+- Consult healthcare professionals before starting any new supplement regimen.
+
+### 6. **結論 (Conclusion)**  
+- Mono Laurel is a promising natural remedy for combating viral and bacterial infections due to its lipid-dissolving properties.
+- Further research is encouraged to explore its full potential in treating various infectious diseases.
+
+---
+
+### 中文摘要 (Abstract)  
+本文探讨了一种名为“_mono Laurel_”的天然抗病毒化合物，其主要成分是月桂酸（lauric acid），常见于椰子油和母乳中。文章详细介绍了_mono Laurel_的作用机制，即通过溶解病毒的脂质层来防止其附着在宿主细胞上，从而抑制病毒感染。此外，该化合物还具有广谱抗菌和抗真菌特性，适用于多种病原体的治疗。文章建议在使用过程中应从小剂量开始，逐步增加剂量以减少可能的副作用，并提出了针对慢性疾病患者的具体健康建议。最后，文章总结了_mono Laurel_作为自然疗法的潜力，并鼓励进一步研究其在治疗各种感染性疾病中的应用。
 </details>
 
 <details>
-<summary>1213. Real Cause Of High Blood Pressure (Hypertension) – Dr. Berg</summary><br>
+<summary>1213. [2017-12-07] Real Cause Of High Blood Pressure (Hypertension) – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=aOki0gdP_Ps" target="_blank">
     <img src="https://img.youtube.com/vi/aOki0gdP_Ps/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 高血壓（Hypertension）的病因與治療，特別是其與胰島素抵抗（Insulin Resistance）的密切關聯。
+
+#### 主要觀念
+1. **高血壓的分類**
+   - **繼發性高血壓**：由其他疾病引起，如腎臟問題。
+   - **原發性高血壓**（亦稱為特發性高血壓或未知病因高血壓）：病因不明，目前無根治方法。
+
+2. **代謝症候群**
+   - 包含高血ضغط、高三酸甘油酯、高血糖、腹部肥胖和胰島素抵抗。
+   - 胰島素抵抗是導致這些症狀的根本原因而非僅為風險因子。
+
+#### 問題原因
+1. **胰島素抵抗的影響**
+   - 造成動脈硬化（arteriosclerosis）和血壓升高。
+   - 干擾鈉與鉀的平衡，導致鈉潴留和鉀吸收受阻。
+
+2. **飲食因素**
+   - 高糖 diet 會提高胰島素水平，進而加重胰島素抵抗。
+   - 鈣assium攝取不足（通常來自分娩蔬菜）是高血壓的危險因子。
+
+#### 解决策略
+1. **降低胰島素水平的方法**
+   - 增加蔬菜攝取量以提升鈣assium攝入。
+   - 截斷糖分攝取，避免胰島素過度分泌。
+
+2. **生活方式調整**
+   - 間歇性禁食（intermittent fasting）和酮基因飲食（ketogenic diet）有助於降低血糖水平，間接改善胰島素抵抗。
+
+#### 健康建議
+1. **飲食建議**
+   - 每日攝取7至10杯蔬菜以滿足鈣assium需求。
+   - 減少糖分攝取，選擇低GI食物以控制血糖和胰島素水平。
+
+2. **生活型態調整**
+   - 適當運動，促進胰島素敏感性。
+   - 定期監測血壓和血糖，早期发现問題。
+
+#### 結論
+- 胰島素抵抗是高血壓的重要病因，治療應該著重於改善此根底問題而非單純控制症狀。
+- 通過飲食調整、運動和生活方式的改變，可以有效降低胰島素水平，從而改善高血壓和其他相關代謝紊亂。
 </details>
 
 <details>
-<summary>1212. Does the Ketogenic Diet Cause Hypothyroidism or Hashimoto’s Thyroiditis – Dr. Berg</summary><br>
+<summary>1212. [2017-12-06] Does the Ketogenic Diet Cause Hypothyroidism or Hashimoto’s Thyroiditis – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=OaFwMS8-K-A" target="_blank">
     <img src="https://img.youtube.com/vi/OaFwMS8-K-A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：甲狀腺功能異常的原因、影響及解決策略
 
+#### 核心主題
+- **甲狀腺功能異常**：探討甲狀腺功能亢進或低下的原因及其健康影響。
+- **環境 toxin 的作用**：強調 glyphosate（草甘膦）等環境 toxic 物質對甲狀腺健康的干擾。
+
+---
+
+#### 主要觀念
+1. **甲狀腺激素的生成與調節**
+   - **TSH（促甲状腺激素）**：由腦下垂體分泌，用以刺激甲狀腺製造激素。
+     - TSH 高 → 甲狀腺功能低下（低甲狀腺症，hypothyroidism）
+     - TSH 低 → 甲狀腺功能亢進（高甲狀腺症，hyperthyroidism）
+   - **T4 與 T3**：
+     - T4：甲狀腺激素的未活化形式。
+     - T3：甲狀腺激素的活化形式，需通過肝臟和膽囊轉換。
+
+2. **必需微量元素的作用**
+   - **硒、碘、鋅**： critical 元素，參與甲狀腺激素的合成與轉換。
+
+3. **Glyphosate 的影響**
+   - **環境污染源**：廣泛使用於農作物（如玉米、大豆、甜菜）及飼料中。
+   - **毒性作用**：
+     - 直接抑制甲狀腺功能。
+     - 仿雌激素，干擾内分泌系統。
+     - 降低肝臟解毒能力，阻礙相 I 和相 II 解毒反應。
+     - 促發自身免疫疾病（如橋本氏甲狀腺炎）。
+
+---
+
+#### 問題原因
+1. **環境污染**：
+   - Glyphosate 的廣泛使用導致其在食物鏈中普遍存在。
+2. **不良飲食習慣**：
+   - 非機械化加工食品攝取 glyphosate。
+   - 確保足夠的硒、碘和鋅攝取不足。
+
+---
+
+#### 解決方法
+1. **飲食調整**：
+   - 增加有機食物的攝取，以降低 glyphosate 的暴露風險。
+   - 摂取富含硒、碘和鋅的食物（如海藻、巴西堅果、瘦肉）。
+2. **生活方式的改變**：
+   - 進行間歇性禁食和生酮飲食，提高代謝效率，減少對甲狀腺激素的依賴。
+3. **排毒與解毒**：
+   - 增加十字花科蔬菜（如西蘭花、甘藍）的攝取，促進肝臟解毒功能。
+
+---
+
+#### 健康建議
+1. **選擇有機食品**：
+   - 尤其是對玉米、大豆和甜菜等高風險作物。
+2. **補充微量元素**：
+   - 硫辛酸（支持甲狀腺激素轉換）。
+   - 確保碘攝取足夠，但避免過量。
+3. **健康生活方式**：
+   - 保持規律飲食和禁食，促進整體代謝健康。
+
+---
+
+#### 结論
+- 甲狀腺功能異常的發生與多種因素相關，包括激素失衡、營養缺乏及環境污染。
+- 槍豆等環境 toxic 物質對甲狀腺健康的影響不容忽視。
+- 通過飲食調整、生活方式改善和排毒保養，可以有效降低健康風險，提升整體健康水平。
 </details>
 
 <details>
-<summary>1211. Ketogenic Diet & Intermittent Fasting – Big Overview For Beginners By Dr. Berg</summary><br>
+<summary>1211. [2017-12-06] Ketogenic Diet & Intermittent Fasting – Big Overview For Beginners By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=AnyFVWwzgJI" target="_blank">
     <img src="https://img.youtube.com/vi/AnyFVWwzgJI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Introduction  
+The article discusses the benefits and challenges of following a ketogenic diet combined with intermittent fasting. It provides insights into the physiological effects, potential side effects, and long-term health implications of this dietary approach.
 
+---
+
+### Key Themes  
+1. **Physiological Benefits**:  
+   - The ketogenic diet shifts the body's metabolism from carbohydrates to fats as the primary energy source, leading to increased fat burning and efficient fuel utilization.  
+   - Intermittent fasting enhances fat oxidation and promotes cellular recycling processes (e.g., autophagy), which improve skin health, brain function, and cardiovascular health.  
+
+2. **Potential Side Effects**:  
+   - Short-term adaptation symptoms, such as fatigue or irritability, may occur due to the body's transition from glucose to ketone metabolism.  
+   - Temporary increases in cholesterol levels can happen as fat is mobilized and released into the bloodstream, but this is generally not a cause for concern if managed properly.  
+
+3. **Thyroid Function**:  
+   - The article addresses concerns about the ketogenic diet negatively impacting thyroid health. It explains that the diet does not destroy the thyroid but may reduce the need for thyroid hormones due to increased metabolic efficiency.  
+
+---
+
+### Problem Causes and Solutions  
+1. **Causes of Challenges**:  
+   - Poor food choices during refeeding can disrupt ketosis and lead to blood sugar imbalances, causing cravings and hunger spikes.  
+   - Temporary cholesterol elevation is a natural response to fat mobilization and should not be interpreted as a health issue unless persistently high.  
+
+2. **Solutions**:  
+   - Prioritize nutrient-dense foods during meals, including sufficient protein, healthy fats, and non-starchy vegetables.  
+   - Reintroduce carbohydrates gradually after breaking ketosis to avoid severe cravings and insulin spikes.  
+   - Monitor cholesterol levels regularly but focus on reducing inflammation through a balanced diet rather than immediately resorting to medication.  
+
+---
+
+### Health Recommendations  
+1. **Dietary Guidelines**:  
+   - Consume 3-6 ounces of protein per meal, unlimited non-starchy vegetables, and adequate healthy fats (e.g., avocados, nuts, olive oil).  
+   - Avoid low-calorie or nutrient-poor foods to ensure satiety and maintain ketosis.  
+
+2. **Intermittent Fasting**:  
+   - Aim for 18-23 hours of intermittent fasting to maximize fat burning and cellular repair processes (e.g., autophagy).  
+   - Gradually increase fasting duration as the body adapts to prevent initial discomfort.  
+
+3. **Lifestyle Adjustments**:  
+   - Stay hydrated and replenish electrolytes (e.g., sodium, potassium) to avoid keto flu symptoms.  
+   - Maintain a consistent routine and avoid stress eating during refeeding or adjustment phases.  
+
+---
+
+### Conclusion  
+The ketogenic diet combined with intermittent fasting offers significant health benefits, including weight loss, improved brain function, and reduced inflammation. While challenges such as adaptation symptoms and temporary cholesterol changes may arise, these can be managed through careful dietary planning and gradual adjustments. Long-term adherence to this approach requires a focus on nutrient density, proper hydration, and regular medical monitoring to ensure optimal health outcomes.
 </details>
 
 <details>
-<summary>1210. Best Way to Measure Insulin Resistance Without Blood Test – Dr. Berg</summary><br>
+<summary>1210. [2017-12-05] Best Way to Measure Insulin Resistance Without Blood Test – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fTqUgr49-U0" target="_blank">
     <img src="https://img.youtube.com/vi/fTqUgr49-U0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 論述評估胰島素抵抗的最佳方法。
 
+### 主要觀念
+1. 血液測試是評估胰島素抵抗的一種方式，但並非唯一選擇。
+2. 免疫 Waist-to-Height Ratio (WHtR) 是一種較為準確且便捷的替代指標。
+3. 腰圍與身高比例（Waist-to-Height Ratio）的測量需注意方法：
+   - 使用卷尺，在肚臥水平位置進行測量。
+   - 測量時保持腹部放松，避免吸腹或用力擠壓。
+4. 根據性別和 Waist-to-Height Ratio 的不同範圍，可評估個體的肥胖程度及胰島素抵抗風險。
+
+### 問題原因
+- 傳統的血液測試雖然準確，但可能較為昂貴且不方便。
+- 胰島素抵抗通常與中央肥胖（即腰部脂肪 accumulation）密切相關，而 Waist-to-Height Ratio 可以有效地反映這一情況。
+
+### 解決方法
+1. 使用 Waist-to-Height Ratio 作為胰島素抵抗的評估指標：
+   - 測量腰圍並記錄身高。
+   - 腰圍除以身高，得出比例數值。
+2. 根据國際通用的 Waist-to-Height Ratio 標準範圍進行分級，評估個體的健康狀況：
+   - 高度肥胖： Waist-to-Height Ratio ≥ 0.5
+   - 极度超重： Waist-to-Height Ratio ≥ 0.49 且 < 0.5
+   - 超重： Waist-to-Height Ratio ≥ 0.43 且 < 0.49
+   - 偏瘦至健康範圍： Waist-to-Height Ratio ≤ 0.43
+
+### 健康建議
+1. 定期监测 Waist-to-Height Ratio，以早期發現並評估胰島素抵抗風險。
+2. 維持健康的腰圍與身高比例，通過合理飲食和規律運動來控制體重。
+3. 若 Waist-to-Height Ratio 超出健康範圍，建議諮詢專業醫療人員進一步檢查及干預。
+
+### 結論
+- Waist-to-Height Ratio 是一種便捷且準確的評估胰島素抵抗的方法。
+- 相較於單一的體重測量，Waist-to-Height Ratio 更能反映個體的健康狀況。
+- 通過定期监测和適當干預，可以有效降低胰島素抵抗及相關代謝性疾病的风险。
 </details>
 
 <details>
-<summary>1209. Protein To Fat Ratio On Keto & Intermittent Fasting Plan – Dr. Berg﻿ on Keto Macros</summary><br>
+<summary>1209. [2017-12-05] Protein To Fat Ratio On Keto & Intermittent Fasting Plan – Dr. Berg﻿ on Keto Macros</summary><br>
 
 <a href="https://www.youtube.com/watch?v=13DHh-qETAA" target="_blank">
     <img src="https://img.youtube.com/vi/13DHh-qETAA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理：蛋白質與脂肪比率的核心探討
 
+#### 1. 核心主題
+本文主要探討低脂蛋白質（Lean Protein）的概念及其在營養攝取中的作用，特別是其對酮ogenic diet和intermittent fasting的影響。
+
+#### 2. 主要觀念
+- **低脂蛋白質的迷思**：自然界中幾乎不存在 pure low-fat 蛋白質來源，蛋白質通常伴隨脂肪存在。
+- **食物中的蛋白質與脂肪比率**：不同食物的蛋白質與脂肪比例差異顯著，影響食用後的飽足感和血糖穩定。
+
+#### 3. 問題原因
+- **低脂蛋白質的不足**：純粹攝取低脂蛋白質（如雞胸肉）容易導致早饑餧，並可能引發血糖波動。
+- **脂肪的重要性**：脂肪在提供持久能量、增強飽足感和穩定血糖方面起著關鍵作用。
+
+#### 4. 解決方法
+- **選擇適當的食物來源**：
+  - 高脂蛋質食物（如雞蛋、火腿、豬肉香腸）提供更好的蛋白質與脂肪平衡。
+  - 加入健康脂肪來源（如花生醬、堅果、酪梨）以增強低脂蛋白質的食用效果。
+
+#### 5. 健康建議
+- **酮ogenic diet 的食物選擇**：
+  - 選擇具有適當蛋白質與脂肪比率的食物，例如雞蛋、火腿和豬肉香腸。
+  - 加工食品需注意來源，確保健康無添加劑。
+- **intermittent fasting 中的飲食策略**：
+  - 確保每餐包含足夠的脂肪以延長飽足感。
+  - 適當搭配堅果、酪梨等高脂食物來提升整體營養均衡。
+
+#### 6. 结論
+低脂蛋白質本身並非理想選擇，關鍵在於平衡蛋白質與脂肪的比例。合理規劃飲食結構，選用高脂蛋質或添加健康脂肪的食物，才能有效支持酮ogenic diet和intermittent fasting的目標，達到更好的營養效果。
 </details>
 
 <details>
@@ -1271,61 +1697,68 @@
         alt="[Youtube]" width="200">
 </a>
 
-### Core Theme (核心主題)
-- **Erectile Dysfunction (ED)** as a multifactorial condition influenced by cardiovascular health, metabolic disorders, and lifestyle factors.
+### 核心主題  
+- "Erectile Dysfunction (ED) is a complex condition with multiple underlying causes, including cardiovascular issues and metabolic disorders."  
 
 ---
 
-### Key Concepts (主要觀念)
-1. **Pathophysiology of ED**: 
-   - Underlying causes include endothelial dysfunction, vascular issues, and hormonal imbalances.
-   
-2. **Insulin Resistance**:
-   - A pre-diabetic state linked to high insulin levels, which damages the endothelial lining of blood vessels.
+### 主要觀念  
+1. **Insulin Resistance as a Common Denominator**  
+   - ED symptoms are often linked to insulin resistance, a pre-diabetic state characterized by high insulin levels despite normal blood sugar readings.  
+   - Insulin resistance damages the endothelial lining of arteries, impairing circulation and leading to cardiovascular issues like heart disease and hypertension.  
 
-3. **Role of Insulin in Vascular Health**:
-   - High insulin levels contribute to cardiovascular diseases, hypertension, and metabolic syndrome, all of which are risk factors for ED.
+2. **Role of Testosterone Replacement Therapy (TRT)**  
+   - TRT may provide temporary relief but does not address the root cause of insulin resistance or vascular dysfunction.  
 
----
-
-### Root Causes of ED (導致ED的原因)
-1. **Insulin Resistance**:
-   - Impacts vascular health by damaging the endothelial layer, leading to impaired blood flow necessary for erectile function.
-   
-2. **Metabolic Syndrome**:
-   - Includes conditions like obesity, high blood pressure, and diabetes, which are closely tied to insulin resistance.
-
-3. **Lifestyle Factors**:
-   - Poor diet, lack of exercise, smoking, and alcohol consumption exacerbate insulin resistance and overall health.
-
-4. **Medications**:
-   - Certain drugs (e.g., antidepressants, blood pressure medications) can contribute to ED.
+3. **Lifestyle Modifications for Improvement**  
+   - Adopting a ketogenic diet and intermittent fasting can help manage insulin levels and improve metabolic health.  
+   - Reducing stress through adequate sleep, regular exercise (e.g., long walks), and mindfulness practices is essential.  
 
 ---
 
-### Solutions and Health Recommendations (解決方法與健康建議)
-1. **Dietary Interventions**:
-   - Adopt a ketogenic diet to reduce carbohydrate intake and lower insulin levels.
-   - Practice intermittent fasting to improve metabolic health.
-
-2. **Lifestyle Modifications**:
-   - Avoid smoking and excessive alcohol consumption.
-   - Engage in regular physical activity, such as long walks, to reduce stress and improve circulation.
-
-3. **Cortisol Management**:
-   - Lower stress through adequate sleep, meditation, and relaxation techniques to prevent cortisol spikes.
-
-4. **Dietary Avoidances**:
-   - Eliminate high-fructose corn syrup and soy oil from the diet to avoid insulin resistance triggers.
-
-5. **Supplemental Recommendations**:
-   - Consider olive oil and other healthy fats in place of harmful oils like soybean oil.
+### 問題原因  
+- "Underlying causes of ED include cardiovascular diseases, high blood pressure, diabetes, obesity, metabolic syndrome, and kidney disease."  
+- These conditions are often linked to insulin resistance, which compromises vascular health and endothelial function.  
 
 ---
 
-### Conclusion (結論)
-- **Addressing Insulin Resistance** is critical for improving ED symptoms.
-- A holistic approach combining dietary changes, lifestyle modifications, and medical adjustments can effectively manage and reverse the root causes of ED.
+### 解决方法  
+1. **Dietary Interventions**  
+   - Transition to a ketogenic diet to reduce carbohydrate intake and manage blood sugar levels.  
+   - Practice intermittent fasting to further improve insulin sensitivity and metabolic health.  
+
+2. **Lifestyle Adjustments**  
+   - Avoid alcohol and smoking, as these exacerbate vascular damage and insulin resistance.  
+   - Engage in regular physical activity, such as walking, to enhance circulation and reduce stress.  
+
+3. **Medical Considerations**  
+   - Collaborate with a healthcare provider to review and adjust medications that may contribute to ED or insulin resistance (e.g., certain corticosteroids).  
+
+---
+
+### 健康建議  
+1. **Dietary Recommendations**  
+   - Eliminate high-fructose corn syrup and soy oil, as these promote insulin resistance.  
+   - Replace soy oil with healthier alternatives like olive oil.  
+
+2. **Stress Management**  
+   - Prioritize sleep to reduce cortisol levels and improve overall stress response.  
+   - Incorporate mindfulness practices or relaxation techniques to lower chronic stress.  
+
+3. **Medical Monitoring**  
+   - Consult a healthcare provider for guidance on tapering off medications that may worsen ED or insulin resistance.  
+   - Consider regular fasting insulin tests to monitor insulin levels and track progress.  
+
+---
+
+### 結論  
+- "Addressing erectile dysfunction requires a comprehensive approach targeting insulin resistance, vascular health, and lifestyle factors."  
+- By adopting a ketogenic diet, intermittent fasting, stress reduction, and eliminating harmful food additives, individuals can improve their metabolic health and ED symptoms.  
+- Collaboration with healthcare professionals is crucial to ensure safe and effective treatment plans.  
+
+--- 
+
+This structured summary captures the key points of the article, emphasizing the importance of addressing insulin resistance and lifestyle modifications in managing erectile dysfunction.
 </details>
 
 <details>
@@ -1336,65 +1769,41 @@
         alt="[Youtube]" width="200">
 </a>
 
-### 核心主題 (Core Theme)
-- 討論蜘蛛網狀靜脈（Spider Veins）的最佳療法。
-- 探讨慢性静脉功能不全（Chronic Venous Insufficiency, CVI）的治療方法。
+### 小結
 
-**Key Themes in English:**
-- Discussion on the best therapy for spider veins.
-- Exploration of treatment methods for chronic venous insufficiency (CVI).
+#### 核心主題
+- 探讨蜘蛛 veins（Spider Veins）的最佳療法及其相關慢性靜脈功能不全（Chronic Venous Insufficiency, CVI）。
 
----
+#### 主要觀念
+1. **慢性靜脈功能不全的定義**：
+   - 静脈系統在血液回流至心臟方面存在不足，導致下肢循環障礙。
+2. **蜘蛛 veins 與慢性靜脈功能不全的關係**：
+   - 蜘蛛 veins 是慢性靜脈功能不全的一種表現形式。
 
-### 主要觀念 (Major Concepts)
-1. **蜘蛛網狀靜脈**：表面可見的小血管，通常出現在腿部或面部。
-2. **慢性静脉功能不全**：血液回流至心臟受阻，導致下肢循環障礙。
+#### 問題原因
+1. **血流迴圈受阻**：
+   - 静脈無法有效將血液回流至心臟，導致下肢血液淤積。
+2. **併發症**：
+   - 包括.Varicose veins（曲張靜脈）、踝部水腫、皮膚色素沉著改變等。
+3. **與糖尿病的關聯**：
+   - 糖尿病患者常伴有下肢循環障礙，導致皮膚呈現較深色。
 
-**Major Concepts in English:**
-1. **Spider Veins**: Small blood vessels visible on the surface, commonly found on legs or face.
-2. **Chronic Venous Insufficiency (CVI)**: Impaired blood flow back to the heart, leading to circulation issues in the lower extremities.
+#### 解決方法
+1. **馬栗果提取物（Horse Chestnut Extract）**：
+   - 主要活性成分： Jesnotol。
+   - 功能：
+     - 降低靜脈壁的通透性，防止液體滯留。
+     - 改善血液流動，促進營養吸收。
 
----
+#### 健康建議
+1. **產品選擇**：
+   - 觀看者需自行進行研究以確定具體的品牌和劑量。
+2. **諮詢專業意見**：
+   - 在使用任何補充劑之前，建議諮詢醫療專業人員。
 
-### 問題原因 (Causes of the Problem)
-1. 静脈血液回流受阻，導致下肢淤血。
-2. 糧尿病患者常見，因循環不良導致皮膚色素沉著。
-
-**Causes of the Problem in English:**
-1. Restricted venous blood flow leading to pooling in the lower extremities.
-2. Common in diabetic patients due to poor circulation, resulting in skin pigmentation changes.
-
----
-
-### 解決方法 (Solutions)
-1. **馬栗果_extraction（Horse Chestnut Extract）**：含有名為_iessenoside_的有效成分。
-   - 功能：改善靜脈內壁的通透性，促進營養吸收。
-   - 效應：增強血液循环，緩解蜘蛛網狀靜脈和慢性静脉功能不全症状。
-
-**Solutions in English:**
-1. **Horse Chestnut Extract**: Contains the active compound _iesnoside_.
-   - Function: Improves venous wall permeability and nutrient absorption.
-   - Effects: Enhances circulation and alleviates spider veins and CVI symptoms.
-
----
-
-### 健康建議 (Health Recommendations)
-1. 選擇可靠的馬栗果產品，注意劑量。
-2. 研究具體品牌和用量信息，根據個人需求調整。
-
-**Health Recommendations in English:**
-1. Choose a reputable horse chestnut product and pay attention to dosage.
-2. Conduct research on specific brands and dosages, adjusting according to personal needs.
-
----
-
-### 结論 (Conclusion)
-- 馬栗果提取物被譽為治療蜘蛛網狀靜脈和慢性静脉功能不全的最佳療法。
-- 觀看者被鼓勵提供反饋，以幫助頻道成長。
-
-**Conclusion in English:**
-- Horse chestnut extract is hailed as the best remedy for spider veins and chronic venous insufficiency.
-- Viewers are encouraged to provide feedback to help the channel grow.
+#### 總結
+- 馬栗果提取物被譽為治療蜘蛛 veins 和慢性靜脈功能不全的最有效天然療法之一。
+- 觀看者應根據個人需求和健康狀況，選擇合適的品牌和劑量，並在必要時尋求專業指導。
 </details>
 
 <details>
