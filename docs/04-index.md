@@ -252,113 +252,576 @@
 </details>
 
 <details>
-<summary>477. Eyelid Twitching? Find Out Causes and Cure – Dr. Berg</summary><br>
+<summary>477. [2016-08-23] Eyelid Twitching? Find Out Causes and Cure – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=QyFZuTnzhSc" target="_blank">
     <img src="https://img.youtube.com/vi/QyFZuTnzhSc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：眼瞼 spasms 的原因與解決方案
 
+#### 核心主題  
+- 眼瞽左側或其他部位的.twitching現象，其原因是低血钙（hypocalcemia）引發的tetany症狀。
+
+---
+
+#### 主要觀念  
+1. **Twitching的定義**  
+   - Twitching underneath the left eyelid或身體其他部位是一種不自主的肌肉抽搐，稱為tetany。  
+
+2. **病因機制**  
+   - 低血钙（hypocalcemia）導致神經興奮性增加，影響控制臉部肌肉的面神經，進而引發twitching現象。  
+
+3. **低血钙的原因**  
+   - 高磷攝取：過量攝入含磷食物（如紅肉、加工食品等）。  
+   - 確酸飲料攝取：含磷酸鹽的飲料（如可樂）會干擾鈣的吸收。  
+   - 低血镁： magnesium不足可能影響 calcium的利用。  
+   - 體液失衡：血液pH過高（alkalosis）導致鈣與白蛋白結合，降低游離鈣濃度。  
+
+---
+
+#### 問題原因  
+- **代謝性 alkalosis**：血液pH過高（>7.45）干擾鈣的吸收和利用，導致低血钙症狀。  
+- **胃酸不足**：胃酸缺乏影響鈣的吸收，常見於有胃食道逆流或慢性胃炎患者。  
+
+---
+
+#### 解決方法  
+1. **短期救濟**  
+   - **蘋果醋**：服用一茶匙稀釋的蘋果醋可快速降低血液pH，改善twitching症狀。  
+   - **鈣補充劑**：在醫師建議下使用鈣片或含镁鈣複方制剂。  
+
+2. **長期調整**  
+   - **飲食調整**：减少高磷食物攝取，增加富含鈣、鎂的食物（如深綠色蔬菜、堅果、豆類）。  
+   - **改善胃酸分泌**：避免使用抑製胃酸的藥物，可考慮喝溫水或食用刺激性食物以促進胃酸分泌。  
+
+---
+
+#### 健康建議  
+1. **壓力管理**  
+   - 長期 стресс導致腎上腺素過多，引發代謝性 alkalosis，加重低血钙症狀。需通過運動、冥想等方式降低壓力水平。  
+
+2. **定期檢查**  
+   - 如果頻繁出現twitching，建議檢查血液鈣、磷濃度及甲状旁腺功能，排除罕見的低甲状旁腺素症。  
+
+---
+
+#### 結論  
+- 高血钙引起的twitching通常是由代謝性 alkalosis或胃酸不足導致的低血钙問題。  
+- 蘋果醋等酸性物質可快速改善症狀，但需从根本原因（如飲食調整、壓力管理）進行長效治療。  
+- 及時就醫檢查，排除其他潛在疾病（如甲状旁腺功能異常）的重要性不可忽視。
 </details>
 
 <details>
-<summary>476. Say Goodbye to Loose Skin – Dr. Berg's Tips for Tightening and Toning</summary><br>
+<summary>476. [2016-08-22] Say Goodbye to Loose Skin – Dr. Berg's Tips for Tightening and Toning</summary><br>
 
 <a href="https://www.youtube.com/watch?v=H7qWXNaQmwo" target="_blank">
     <img src="https://img.youtube.com/vi/H7qWXNaQmwo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 重 点 整 理
 
+#### 核心主題
+- **松垮肌膚的原因**：探讨松垮肌膚的根本原因，特別是與胰島素抗性及皮質醇水平有關。
+- **健康問題關聯**：討論胰島素抗性如何導致肥胖、代謝症、神經退化疾病等健康問題。
+
+#### 主要觀念
+1. **胰島素抗性的定義**：
+   - 胰島素抗性是一種狀態，其中身體細胞對胰島素的反應降低，導致胰島素不能有效將血糖運輸到細胞內。
+   
+2. **胰島素的作用**：
+   - 促進蛋白質吸收，尤其是支鏈胺基酸（ Branched Chain Amino Acids, BCAAs），這些胺基酸對肌肉修復和增肌至關重要。
+   - 負責將營養輸送到細胞內。
+
+3. **胰島素抗性的影響**：
+   - 細胞無法有效吸收蛋白質和糖分，導致肌膚鬆弛、老化及相關健康問題。
+   - 高胰島素水平與糖尿病、阿茲海默症等疾病有關。
+
+#### 問題原因
+1. **飲食因素**：
+   - 高 sugar 入（如精緻糖、甜食、穀物等）導致胰島素分泌過多。
+   - 合並蛋白質與糖分的飲食會進一步升高胰島素水平。
+   
+2. **生活習慣**：
+   - 酗酒、高咖啡因攝取（如大量喝咖啡）會干擾胰島素平衡。
+   - 不規則進食和頻繁零食攝取破壞血糖穩定。
+
+3. **代謝失衡**：
+   - 胰島素抗性導致身體難以有效利用葡萄糖，最終引發代謝症。
+
+#### 解決方法
+1. **飲食調整**：
+   - 減少精緻糖和高GI食物的攝取。
+   - 避免蛋白質與糖分同時攝入，如避免甜面包、糕點等。
+   - 增加健康脂肪攝取（如椰子油、坚果），但需注意份量。
+
+2. **進食次數**：
+   - 限制每日餐次為2-3次，避免頻繁零食攝取，以穩定血糖水平。
+
+3. **生活習慣改善**：
+   - 減少酒精攝取，特別是與糖分混合的飲料。
+   - 控制咖啡因攝取，建議早晨少量饮用。
+
+4. **運動**：
+   - 進行適量運動，幫助提高胰島素敏感性，促進葡萄糖利用。
+
+#### 健康建議
+1. **飲食選擇**：
+   - 多攝取高蛋白食物（如雞胸肉、魚類），避免與糖分同時食用。
+   - 選擇低GI食物，如蔬菜、全穀物等，幫助穩定血糖。
+
+2. **血糖管理**：
+   - 定時進餐，避免血糖大幅波動。
+   - 增加膳食纖維攝取，有助於延緩糖分吸收。
+
+3. **健康檢查**：
+   - 通過提供的問卷了解自身健康狀況，及早發現問題並尋求專業建議。
+
+#### 結論
+- 胰島素抗性是導致肌膚鬆弛和多種健康問題的主要原因之一。
+- 改善飲食習慣、增加運動量及控制血糖水平可以有效改善胰島素抗性。
+- 建議定期進行健康檢查，評估自身狀況並採取適當措施。
 </details>
 
 <details>
-<summary>475. Self-Massage Tool for Relaxation, Deep Sleep, and Neck Tightness – Dr. Berg</summary><br>
+<summary>475. [2016-08-21] Self-Massage Tool for Relaxation, Deep Sleep, and Neck Tightness – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xgENd9X7Agc" target="_blank">
     <img src="https://img.youtube.com/vi/xgENd9X7Agc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 引入並介紹一款創新設計的頸部和背部自我按摩工具。  
+- 說明該工具的設計理念、功能及適用人群。  
 
+---
+
+### 主要觀念  
+1. **工具設計**  
+   - 工具基於人體工程學，模擬手部按摩動作，針對不同穴位進行設計。  
+   - 適用於不同身高的人群（平均サイズ、小型、大型）。  
+
+2. **使用方式**  
+   - 放置在高背椅或沙發上，靠著工具讓其觸碰到背部穴位。  
+   - 提供一本操作指南，詳細介紹各個按摩點的位置和使用方法。  
+
+3. **健康益處**  
+   - 須穴按壓可刺激與睡眠和覺醒相關的神經節（如locus coeruleus），幫助放松和提高能量水平。  
+   - 放松頸部肌肉，改善全身血液循环，尤其是頭部至脊椎的肌群。  
+   - 調整脊柱曲度，恢復自然姿勢，減少頸肩僵硬。  
+   - 擁有喉嚨和聲帶相關穴位，可改善聲音問題（如沙啞、喉炎）。  
+
+---
+
+### 問題原因  
+- 長期姿勢不良或壓力導致頸部和背部肌肉緊張。  
+- 神經壓迫影響睡眠和覺醒功能。  
+- 脊柱曲度異常可能引發呼吸問題或其他身體不適。  
+
+---
+
+### 解決方法  
+1. **自我按摩**  
+   - 使用工具按壓頭後方（occiput）至第一頸椎（C1），刺激神經節，促進放松和睡眠。  
+   - 從第二頸椎開始向下按摩，逐漸恢復脊柱曲度，改善呼吸功能。  
+
+2. **日常習慣**  
+   - 每晚睡前使用工具按摩兩分鐘以上，保持警覺以避免過早入睡。  
+   - 旅行或工作時攜帶工具，隨時進行放松。  
+
+---
+
+### 健康建議  
+- 定期進行頸部和背部的自我按摩，以維持良好的姿勢和身體狀態。  
+- 注意工作姿勢，避免長時間保持不良姿勢導致肌肉僵硬。  
+- 如有持續的聲音問題或呼吸不暢，可結合該工具使用並諮詢專業醫生。  
+
+---
+
+### 結論  
+- 通過自我按摩工具刺激關鍵穴位，可以有效放松頸部和背部肌肉，改善睡眠質量，增強全身放鬆效果。  
+- 工具便攜且操作簡單，適合日常使用，特別是對於需要長期久坐或壓力大的人群。
 </details>
 
 <details>
-<summary>474. Calcium and Magnesium Absorption Basics – Dr. Berg</summary><br>
+<summary>474. [2016-08-20] Calcium and Magnesium Absorption Basics – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ApxLTx5M45I" target="_blank">
     <img src="https://img.youtube.com/vi/ApxLTx5M45I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 1. 核心主題
+- 確保 calcium 和 magnesium 在身體中的平衡攝取與吸收，以維持整體健康。
+
+#### 2. 主要觀念
+- **Calcium 的功能**：
+  - 支持骨骼和牙齒健康。
+  - 與肌肉、神經系統及細胞間通訊有關。
+- **Magnesium 的功能**：
+  - 輔助肌肉放鬆，促進神經傳導。
+  - 與心臟節律及血液凝固相關。
+- **Vitamin D 的角色**：
+  - 增強 calcium 和 magnesium 在小腸中的吸收效率（約高20倍）。
+  - 負責將礦物質運輸至血液中。
+- **Vitamin K2 的作用**：
+  - 將 calcium 從軟組織運送到骨骼，避免過度鈣化問題。
+
+#### 3. 問題原因
+- 過量攝取 calcium 可導致：
+  - 硬組織鈣化（如骨刺、腎结石、牙垢）。
+  - 动脈硬化、血壓升高及關節僵硬。
+- 缺乏 magnesium 可引起：
+  - 心律不整（如心房顫動）、神經系統紊亂。
+- 過 alkaline 的胃環境影響礦物質吸收。
+- 食用高 oxalate 食物（如菠菜、羽衣甘藍）可能干擾 calcium 吸收。
+
+#### 4. 解決方法
+- **攝取建議**：
+  - 採納 1:1 的 calcium 到 magnesium 比例，除非有 osteoporosis 等特殊情況。
+  - 確保飲食中含有足夠的 leafy greens 和 Dairy 產品以獲取 minerals。
+- **吸收條件**：
+  - 补充 Vitamin D3 以促進礦物質吸收。
+  - 採用酸性環境（如檸檬汁）來提高吸收率。
+  - 確保胃部 pH 值適當，避免過 alkaline。
+
+#### 5. 健康建議
+- 避免長時間攝取高劑量 calcium，特別是已有鈣化問題的人群。
+- 確保飲食中包含豐富的 magnesium 源（如坚果、種子和深綠色蔬菜）。
+- 注意高 oxalate 食物的攝取，必要時搭配含 citrate 的食物或補充劑以提高吸收效率。
+
+#### 6. 结論
+- 確保 calcium 和 magnesium 的平衡攝取至關重要。
+- 合理配比（1:1）和適當的吸收條件是關鍵。
+- 綜合考慮飲食、サプリメント及生活方式調整來維持礦物質平衡。
+
+---
+
+此歸納整理基於文章內容，使用正式學術用語並分小節整理，確保客觀性和結構清晰。
 </details>
 
 <details>
-<summary>473. The Fastest Way to Lose Weight – Fat Loss Tips by Dr.Berg</summary><br>
+<summary>473. [2016-08-19] The Fastest Way to Lose Weight – Fat Loss Tips by Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=553HaQEYCrA" target="_blank">
     <img src="https://img.youtube.com/vi/553HaQEYCrA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **生長激素在脂肪燃燒中的作用**  
+  生長激素（Growth Hormone, GH）是主要的脂肪燃燒 hormone，由腦下垂體分泌，並通過肝臟作用於全身。
 
+### 主要觀念
+1. **生長激素的觸發因素**  
+   - 生長激素的分泌可以被干預，其中間斷性禁食是一種有效的觸發方式。
+2. **飲食結構與分餐次數**  
+   - 遵循三餐制、兩餐制和一至半餐制的循環模式，以提高生長激素水平，從而促進脂肪燃燒。
+
+### 問題原因
+- **傳統飲食建議的缺點**  
+  常見的五小餐或多頻率進食方式會增加胰島素分泌，降低生長激素水平，不利於脂肪燃燒。
+- **高碳水化合物攝取的危害**  
+  高糖、高澱粉的食物會導致胰島素水平升高，抑制生長激素的分泌，影響脂肪燃燒效果。
+
+### 解決方法
+1. **飲食結構調整**  
+   - **三餐制**：每日進食三次，避免零食和夜間加餐。
+   - **兩餐制**：每三天後減少到兩餐，根據 hunger 情況選擇進食時間（ morning 或 afternoon）。
+   - **一至半餐制**：再過三天後，進一步减少到一次大餐和一次綠色奶昔，以降低食物攝取量並保持營養均衡。
+2. **飲食成分建議**  
+   - **蔬菜**：低碳水化合物、高維生素含量，如菠菜、羽衣甘蓝等。
+   - **蛋白質**：控制在手掌大小（約5盎司），來源包括瘦肉、雞胸肉、魚類等。
+   - **健康脂肪**：添加不飽和脂肪或動物性脂肪，如橄欖油、杏仁、花生醬等，以延長饱腹感。
+
+### 健康建議
+- **避免高碳水化合物攝取**  
+  切勿食用含糖量高的食物（如玉米、大米、馬鈴薯）和加工食品，以防胰島素水平過高。
+- **保持規律的飲食模式**  
+  遵循三餐制、兩餐制、一至半餐制的循環，避免不規則的零食攝取。
+- **搭配運動**  
+  經常進行運動可以進一步提高生長激素水平，增強脂肪燃燒效果。
+
+### 總結
+本文提出了一種基於生長激素調節的快速減重策略。通過調整飲食結構、控制碳水化合物攝取、增加健康脂肪和蛋白質攝入，以及避免不規則進食，可以有效提高生長激素水平，從而促進脂肪燃燒和實現快速減重。此方法強調循環性飲食模式，根據個人 hunger 調整餐次，並搭配健康飲食成分，以達到最佳的減重效果。
 </details>
 
 <details>
-<summary>472. The 2 Most DANGEROUS Foods: MUST WATCH! – Dr.Berg</summary><br>
+<summary>472. [2016-08-18] The 2 Most DANGEROUS Foods: MUST WATCH! – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=wIJ-hCOLTss" target="_blank">
     <img src="https://img.youtube.com/vi/wIJ-hCOLTss/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 探讨美國農作物中玉米和大豆（以下簡稱「玉米及豆類」）的廣泛種植及其對人體健康的潛在影響。
+- 强調玉米及豆類作為基因改造 organisms (GMOs) 的比例，以及與殺草劑glyphosate的使用關聯。
+
+#### 主要觀念
+1. **玉米及豆類的消費量**  
+   - 約占美國農作物產量的50%。
+   - 平均每人攝取的熱量中，40%來自這兩種「被誤認為是健康」的食物。
+2. **基因改造(GMO)比例高**  
+   - 93%的美國豆類為GMO品種。
+   - 85%的美國玉米為GMO品種。
+3. **殺草劑glyphosate的使用**  
+   - 美國農民大量使用_glyphosate_（商品名Roundup）來滅草，而基因改造的玉米及豆類能抵抗此icide。
+   - 导致食物中 glyphosate 的殘留量增加。
+
+#### 問題原因
+1. **Glyphosate的健康風險**  
+   - 多項研究指出 glyphosate 可能導致動物出現肝癌、腎臟癌、乳腺癌等問題。
+   - 被世界衛生組織(World Health Organization, WHO)歸類為「可能致癌物質」。
+2. **環境與食品鏈污染**  
+   - 15年來美國Glyphosate的暴露量增加3000倍，對生態和人體健康造成潛在影響。
+3. **微量添加物的風險**  
+   - 玉米及豆類常被加工成多種食品添加劑（如高果糖玉米 syrup、大豆油等），進一步擴大了Glyphosate的暴露途徑。
+
+#### 科學依據評估
+1. **研究可靠性**  
+   - 提到的研究多半來自「獨立」機構，而非 Monsanto 等商業實體。
+   - 需注意 Monsanto 可能影響研究設計和數據解讀的可能性。
+2. **劑量與長期影響**  
+   - WHO要求的90天試驗通過並不代表安全，長期影響仍需更多研究支持。
+
+#### 解決方法
+1. **食品標籤閱讀**  
+   - 消費者需注意食品成分，避免含玉米及大豆衍生物的产品。
+2. **選擇有機食品**  
+   - 有機農產品通常不含 GMO 及合成農藥。
+3. **攝取抗氧化食物**  
+   - 多食用水菜、花椰菜等「十字花科蔬菜」，這些食物富含抗氧化劑，有助於中和Glyphosate的影響。
+
+#### 健康建議
+1. **飲食結構調整**  
+   - 減少精製食品和含玉米及大豆衍生物的食物攝取。
+2. **增加膳食纖維攝取**  
+   - 纤维有助于Glyphosate的腸道排出。
+3. **保持多樣化飲食**  
+   - 多攝取不同來源的食物，降低對單一農作物的依賴。
+
+#### 結論
+- 美國玉米及豆類的廣泛種植和基因改造可能對人體健康造成隱性風險。
+- 倡導消費者提高食品安全意識，通過選擇有機食品、多樣化飲食等方式降低Glyphosate暴露風險。
+- 更多長期研究仍需進一步探討Glyphosate的安全性及其对人体健康的具體影響。
 </details>
 
 <details>
-<summary>471. Biggest Weight Loss Mistakes Explained by Dr. Berg</summary><br>
+<summary>471. [2016-08-17] Biggest Weight Loss Mistakes Explained by Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=6MqkdUJr2Nc" target="_blank">
     <img src="https://img.youtube.com/vi/6MqkdUJr2Nc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 論述現代肥胖治療中存在的錯誤觀念與方法，強調逆向思考的重要性。  
 
+---
+
+### 主要觀念  
+1. **肥胖的定性問題**  
+   - 作者批駁了 Obesity Society 將 obesity（肥胖）定義為疾病的觀點，認為肥胖是不良習慣和飲食失衡的結果，是一種症狀而非疾病。  
+2. **權威機構的推薦缺陷**  
+   - 擲疑權威機構（如美國糖尿病協會、心血管疾病協會等）在肥胖治療方面的建議存在偏差，並強調這些建議往往基於政治化而非科學事實。  
+
+---
+
+### 問題原因  
+1. **飲食指導的局限性**  
+   - 以全穀物為首的食物推薦缺乏營養完整性，無法提供身體所需的多種維生素、礦物質和必需脂肪酸。  
+2. **食物營養密度不足**  
+   - 全穀物如 whole wheat bread 的營養成分單一，主要含有碳水化合物（即糖分），會導致血糖和胰島素水平升高，最終引發肥胖問題。  
+
+---
+
+### 解決方法  
+1. **逆向思維法**  
+   - 不盲從權威機構的建議，而是研究其推薦背後的原因，並執行相反的策略。  
+2. **選擇營養密度高的食物**  
+   - 選擇能提供完整氨基酸和脂肪酸的食物，避免高糖分、低營養密度的加工食品。  
+
+---
+
+### 健康建議  
+1. **飲食結構調整**  
+   - 減少精製穀物攝取，改為食用富含健康脂肪（如魚油、坚果）和蛋白質的食物。  
+2. **避免高血糖指數食物**  
+   - 避免攝入 glycemic index 和 insulin index 过高的食物，以減輕胰島素負擔並控制體重。  
+
+---
+
+### 結論  
+- 作者強調肥胖不是疾病，而是不良飲食習慣和生活方式的結果。  
+- 擲疑權威機構的推薦往往存在偏差，建議消費者 самостоятельно研究並採用與主流建議相悖的方法來實現有效減肥。
 </details>
 
 <details>
-<summary>470. How to Stop Diarrhea Fast Using Easy Home Remedies – Dr. Berg</summary><br>
+<summary>470. [2016-08-16] How to Stop Diarrhea Fast Using Easy Home Remedies – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Xyv3AecSFF4" target="_blank">
     <img src="https://img.youtube.com/vi/Xyv3AecSFF4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 提供一種家庭療法來緩解腹瀉。
 
+---
+
+### 主要觀念  
+- 腹瀉是一種常見且可能對健康造成影響的問題。
+- 使用自然成分的組合作為治療方法是有效的。
+
+---
+
+### 問題原因  
+- 腸道功能紊亂、感染或其他消化系統問題導致腹瀉。
+- 需要一種安全且易於使用的解決方案。
+
+---
+
+### 解決方法  
+1. **主要成分**：  
+   - 平常酸奶（plain yogurt）：含益生菌，有助於恢復腸道微生物平衡。  
+   - 黑莓（blackberries）：富含膳食纖維和抗氧化劑，有助于吸附毒素並促進腸道健康。
+
+2. **使用方式**：  
+   - 可將酸奶與黑莓混合後直接食用。  
+   - 也可將其攪拌成飲品攝取。
+
+---
+
+### 健康建議  
+- 頻繁腹瀉可能是潛在疾病的症狀，建議諮詢醫生以排除其他健康問題。  
+- 減少攝取刺激性食物（如辛辣、高脂肪食品）和乳制品，以避免加重腸胃負擔。  
+- 保持充足的水分攝取，以防脫水。
+
+---
+
+### 總結  
+- 酸奶與黑莓的組合提供了一種簡單有效的家庭療法來緩解腹瀉。  
+- 該方法基於自然成分，副作用少，適合短期使用。  
+- 建議在試用此療法時密切觀察身體反應，必要時尋求專業醫療幫助。
 </details>
 
 <details>
-<summary>469. How to Get Rid of Brain Fog – Best Nutrition Tip by Dr.Berg</summary><br>
+<summary>469. [2016-08-16] How to Get Rid of Brain Fog – Best Nutrition Tip by Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=7H7id3to1cg" target="_blank">
     <img src="https://img.youtube.com/vi/7H7id3to1cg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節總結
 
+#### 核心主題  
+- 論述腦霧（Brain Fog）的原因及其與血糖和胰島素抵抗的關係。  
+- 强調通過飲食調整來改善腦霧的可行性。
+
+---
+
+#### 主要觀念  
+1. 腦霧的主要原因是血糖紊亂，尤其是胰島素抵抗或低血糖症。  
+2. 高糖飲食會導致胰島素水平波動，影響血糖穩定，從而引發或加重腦霧。  
+3. 經常食用精製碳水化合物（如面包、 pasta、餅乾等）會進一步加劇問題。  
+
+---
+
+#### 問題原因  
+1. **胰島素抵抗**：血液中胰島素水平過高，但無法有效運輸葡萄糖進入腦細胞，導致能量供應不足。  
+2. **低血糖（Hypoglycemia）**：血液中血糖水平過低，影響大腦功能。  
+3. **不良飲食習慣**：過量攝入糖分、精製碳水化合物及高糖食物，如蛋白棒、果汁、酒精等。  
+
+---
+
+#### 解決方法  
+1. **降低糖分攝取**：  
+   - 切斷 모든 糖分來源（包括蜂蜜、龍舌蘭糖漿等）。  
+   - 仔細閱讀食品標籤，特別是糖分含量（而非碳水化合物總量）。  
+2. **調整飲食結構**：  
+   - 減少精製碳水化合物的攝取（如面包、 pasta、餅乾等）。  
+   - 避免高糖食物和含糖飲料。  
+3. **增加健康脂肪和蛋白質**：  
+   - 适量攝取健康脂肪（如橄欖油、堅果、花生醬等）以延長饱足感。  
+   - 控制蛋白質攝取量，建議每日 3-6 盎司，避免過量。  
+
+---
+
+#### 健康建議  
+1. **飲食結構**：  
+   - 每餐搭配大量蔬菜（如沙拉），提供維生素和礦物質，改善血糖穩定性。  
+   - 選擇低升糖指數（Low GI）食物，以緩慢釋放能量。  
+2. **生活習慣**：  
+   - 確保充足的睡眠，有助于改善胰島素敏感性和腦功能。  
+   - 保持規律進餐，避免血糖大幅波動。  
+
+---
+
+#### 結論  
+- 改善脑霧的核心在於調整飲食結構，降低糖分攝取，並增加健康脂肪和蛋白質的比例。  
+- 通过簡單的飲食調整，大部分人可以有效改善腦霧問題，但若存在其他健康問題（如睡眠障礙、消化問題等），則需綜合治療。  
+
+--- 
+
+此整理以正式的學術用語為基礎，結構清晰，適合用於進一步研究或教學用途。
 </details>
 
 <details>
-<summary>468. Sleepy After Eating? – Top Reasons Explained by Dr.Berg</summary><br>
+<summary>468. [2016-08-15] Sleepy After Eating? – Top Reasons Explained by Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=052YbMQhgTs" target="_blank">
     <img src="https://img.youtube.com/vi/052YbMQhgTs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Core Theme (核心主題)
+- **The Relationship Between Postprandial Fatigue and Dietary Intake**  
+  餐後疲倦與飲食攝取的關係
 
+### Key Concepts (主要觀念)
+1. **Postprandial Fatigue**  
+   餐後疲倦
+2. **Insulin Response**  
+   胰島素反應
+3. **Blood Sugar Levels**  
+   血糖水平
+4. **Digestive Issues**  
+   消化問題
+
+### Causes of Postprandial Fatigue (餐後疲倦的原因)
+1. **High Insulin Release Due to Refined Carbohydrates**  
+   細緻碳水化合物引起的高胰島素分泌
+2. **Blood Sugar Spikes and Crashes**  
+   血糖的快速上升與下降
+3. **Inefficient Digestion Leading to Bloating**  
+   消化不完全導致脹氣
+
+### Solutions and Health Recommendations (解決方案與健康建議)
+1. **Dietary Adjustments**  
+   饮食調整
+   - Eliminate refined sugars, breads, pasta, cereal, crackers, waffles, pancakes.
+     清除細緻糖、麵包、義大利面、燕麥、脆餅、華夫餅乾等食物。
+   - Opt for a salad with moderate protein (3-6 ounces) and healthy fats.
+     選擇一份含有中量蛋白質（3-6盎司）和健康脂肪的沙拉。
+2. **Supporting Digestion**  
+   補助消化
+   - Use apple cider vinegar to acidify the stomach before meals.
+     用餐前使用蘋果醋來酸化胃部。
+   - Consider supplements that aid digestion, such as those containing apple cider vinegar.
+     考慮服用含蘋果醋的促消化サプリメント。
+
+### Conclusion (結論)
+- **Addressing postprandial fatigue requires a combination of mindful eating and digestive support.**  
+  餐後疲倦的解決需要結合飲食管理和消化支持。
 </details>
 
 <details>
