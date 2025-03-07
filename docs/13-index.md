@@ -461,113 +461,641 @@
 </details>
 
 <details>
-<summary>1358. Can I Take Green Supplements Instead of Eating 7-10 Cups of Salad? – Dr. Berg</summary><br>
+<summary>1358. [2018-02-20] Can I Take Green Supplements Instead of Eating 7-10 Cups of Salad? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=jW8JIjeKVIE" target="_blank">
     <img src="https://img.youtube.com/vi/jW8JIjeKVIE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 對「是否可以以.GREENS產品替代每日攝取7-10杯蔬菜」之探討
 
+## 核心主題
+本篇文章主要探討GREENS產品能否取代每日攝取7至10杯的新鮮蔬菜或沙拉。
+
+## 主要觀念
+- **GREENS產品的作用**：GREENS產品旨在增強營養吸收，而非完全替代新鮮蔬菜。
+- **加工方式的影響**：部分GREENS產品經過高溫處理，導致酶活性降低，影響其營養價值。
+- **每日攝取量的重要性**：人體需要攝取足夠的新鮮蔬菜以維持健康。
+
+## 問題原因
+- **營養需求未被滿足**：GREENS產品無法提供與新鮮蔬菜相同的所有營養成分及酶類。
+- **加工失敗**：某些GREENS產品因高溫處理，失去部分營養價值，導致消費者得不到預期的益處。
+
+## 解决方法
+- **增加新鮮蔬食攝取量**：每日至少攝取7杯，理想為10杯的新鮮蔬菜或沙拉。
+- **多樣化攝取方式**：
+  - 選擇喜歡的蔬菜種類（如胡蘿蔔、芹菜）。
+  - 使用蘸醬增加口感（如Celery with hummus, Cucumber with hummus）。
+  - 增加水果和堅果，提升風味（如加入莓果於沙拉中）。
+- **利用GREENS產品作為輔助**：在攝取足夠的新鮮蔬菜的基礎上，使用GREENS產品增強營養吸收。
+
+## 健康建議
+- **均衡飲食**：除攝取新鮮蔬菜外，可搭配水果、堅果及其他健康食品。
+- **注意加工食品的營養價值**：選擇未經高溫處理的GREENS產品，以保留其酶活性及营养价值。
+
+## 結論
+總結來說，GREENS產品不能完全替代每日攝取的新鮮蔬菜。消費者應注重新鮮蔬食的攝取，並視GREENS產品為輔助，以達到最佳營養吸收效果。
 </details>
 
 <details>
-<summary>1357. Fats or Carbs, What Do You Crave On Keto? – Dr. Berg</summary><br>
+<summary>1357. [2018-02-20] Fats or Carbs, What Do You Crave On Keto? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3G8363xClT8" target="_blank">
     <img src="https://img.youtube.com/vi/3G8363xClT8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理與分析
 
+#### 核心主題
+- 身體對食物的需求 signals 及其對健康和營養計劃的影響。
+- 如何根據身體需求調整飲食以達到最佳健康狀態。
+
+#### 主要觀念
+1. **蛋白質的作用**：
+   - 為修復組織、肌肉恢復及提供必需氨基酸。
+   - 蛋白質來源包括高品質食物如蛋類、瘦肉和低脂家禽。
+   
+2. **脂肪的需求**：
+   - 作為脂溶性維生素（A、D、E、K）的來源。
+   - 維持内分泌系統功能，特別是女性在更年期後葉酸需求增加。
+
+3. **碳水化合物的攝取**：
+   - 主要來自蔬菜形式，提供礦物質和維生素。
+   - 避免精製淀粉攝取以穩定血糖水平。
+
+4. **酮osis 與短期禁食**：
+   - 在酮osis 和短期禁食計劃中需注意營養均衡。
+   - 確保足夠的蛋白質、脂肪和蔬菜攝取以支持健康。
+
+#### 問題原因
+- 難以聽取身體 signals 可能導致進度受阻。
+- 蛋白質消化不良可能影響其效果。
+- 過量攝取精製碳水化合物會擾亂血糖平衡。
+
+#### 解決方法
+1. **蛋白質**：
+   - 增加高品質蛋白來源，如蛋類和瘦肉。
+   - 確保胃酸足夠以促進蛋白消化（可使用vinegar）。
+
+2. **脂肪攝取**：
+   - 選擇健康脂肪來源，避免加工食品。
+   - 补充脂溶性維生素以滿足身體需求。
+
+3. **碳水化合物攝取**：
+   - 增加蔬菜攝取以補充足夠的礦物質和維生素。
+   - 減少精製淀粉攝取，改用低GI食物。
+
+4. **短期禁食與酮osis 管理**：
+   - 定期評估並調整飲食結構，根據身體 signals 誰需要更多蛋白或脂肪。
+   - 保持血糖穩定，避免過度波動。
+
+#### 健康建議
+- 減少精製食品和加工蛋白的攝取。
+- 多食用高品質蛋白來源和健康脂肪。
+- 定期評估營養攝取是否滿足身體需求。
+- 確保足夠的蔬菜攝取以維持臟器健康。
+
+#### 結論
+了解並響應身體 signals 是實現營養均衡和健康的關鍵。根據個人需求調整飲食結構，可幫助達到最佳健康狀態。
 </details>
 
 <details>
-<summary>1356. Causes of Eye Problems: High Blood Sugar & Insulin – Dr. Berg</summary><br>
+<summary>1356. [2018-02-20] Causes of Eye Problems: High Blood Sugar & Insulin – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=YnP136WfSrQ" target="_blank">
     <img src="https://img.youtube.com/vi/YnP136WfSrQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 文章重點整理
 
+## 核心主題
+- 高糖和高胰島素水平對眼睛健康的影響及其導致的潛在視力問題。
+
+---
+
+## 主要觀念
+1. **糖尿病性神經病變**：
+   - 高血糖和高胰島素會損害(retina)（視網膜）中的微小血液併合，導致血管泄漏並最終使 retina 紙 starvation。
+   - 這是導致失明的主要原因之一。
+
+2. **糖尿病性黃斑水腫**：
+   - 黄斑(macula)是视网膜的中央部分，負責中 central vision。
+   - 血管 leakage 可導致 macular edema（黃斑水腫），進而影響視力。
+
+3. **白內障**：
+   - 高糖和高胰島素會影響晶狀體(lens)，使其/cloudy，導致視力模糊，最終可能需要手術治療。
+
+4. **乾眼症**：
+   - 高血糖可導致眼睛dehydration，引起乾澀、不適，類似有異物感的症狀。
+
+5. **青光眼**：
+   - 高血糖導致眼睛內部壓力增加，如同「pressure cooker」，損害視神經，影響視力。
+
+---
+
+## 問題原因
+- **高糖和高胰島素水平**是眼部問題的核心原因。
+  - 高血糖會損壞微小血管，並干擾血液供應。
+  - 高胰島素水平可能與炎症反應和氧化應激有關，進一步加重眼部結構的損害。
+
+---
+
+## 解決方法
+1. **飲食調整**：
+   - 減少糖分和精製碳水化合物的攝入。
+   - 增加具有抗氧化作用的食物，如cruciferous vegetables（十字花科蔬菜），含carotenoids（_CAROTENOIDS_，類胡蘿蔔素）和lutein（葉黃素），可保護眼部健康。
+
+2. **營養補充**：
+   - 消耗富含抗氧化劑的食物，幫助修復受損的血管並保護視網膜。
+
+3. **生活方式改變**：
+   - 通過健康飲食和運動來降低血糖和胰島素水平。
+   - 考慮 intermittent fasting（間歇性禁食）以進一步改善代谢狀況。
+
+---
+
+## 健康建議
+- 定期進行眼部檢查，特別是有糖尿病或前期糖尿病的人群。
+- 及時治療任何早期視力問題，如vision模糊、double vision等。
+- 通過飲食和生活方式的調整來控制血糖水平，降低眼部疾病的风险。
+
+---
+
+## 結論
+高糖和高胰島素水平對眼睛健康有嚴重影響，可能導致多種眼部疾病。及時採取措施控制血糖、改善飲食習慣並保護眼部結構，是預防這些問題的關鍵。
 </details>
 
 <details>
-<summary>1355. What Causes Acanthosis Nigricans (Darkened Skin Folds)? – Dr. Berg</summary><br>
+<summary>1355. [2018-02-19] What Causes Acanthosis Nigricans (Darkened Skin Folds)? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=NCbJxrYqxao" target="_blank">
     <img src="https://img.youtube.com/vi/NCbJxrYqxao/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 本文探討了**腋窩、頸部和腹股溝等部位的黑皮病（acanthosis nigricans）**，並分析其潛在原因及解決方法。
 
+### 主要觀念
+1. **Acanthosis Nigricans 的定義**：
+   - 一種於人體折疊部位（如腋窩、頸部、腹股溝等）出現的色素沉著現象。
+   
+2. **病因分析**：
+   - 與高水平胰島素或胰岛素抵抗有關，屬於前期糖尿病或糖尿病的症狀之一。
+
+### 問題原因
+- 高胰島素血症或胰岛素抵抗導致黑色素沉著，通常與以下因素相關：
+  - 频繁攝取精緻碳水化合物。
+  - 可能存在前期糖尿病或糖尿病情況。
+
+### 解決方法
+1. **飲食調整**：
+   - 減少精緻碳水化合物的攝取。
+   - 考慮間歇性禁食（Intermittent Fasting）和酮osis等飲食策略。
+
+2. **其他可能性**：
+   - 排除pellagra的可能性，即Niacin（維生素B3）缺乏症。此症在早期20世紀美國南部較為常見，與攝取磨碎玉米產品（如玉米粉、玉米片）有關。
+
+### 健康建議
+- 如出現類似症狀，建議：
+  - 檢查血糖水平。
+  - 評估飲食結構，特別是精緻碳水化合物和玉米制品的攝取量。
+  - 如有必要，諮詢醫療專業人員進行進一步評估。
+
+### 結論
+- Acanthosis Nigricans 可能代表前期糖尿病或糖尿病，但也需排除pellagra的可能性。通過調整飲食結構和降低胰島素水平，此症狀是可以逆轉的。
+- 提醒觀眾如有疑慮，應及時尋求專業醫療建議，並分享此文以提高健康意識。
 </details>
 
 <details>
-<summary>1354. Why Having a Weight Loss Goal Is A Bad Idea – Dr. Berg</summary><br>
+<summary>1354. [2018-02-19] Why Having a Weight Loss Goal Is A Bad Idea – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=MwZawlBJyOY" target="_blank">
     <img src="https://img.youtube.com/vi/MwZawlBJyOY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：理解女性在減肥過程中遇到的挑戰及其解決方案
 
+---
+
+#### 主要觀念：
+1. **肌肉與脂肪的差異**：
+   - 肌肉和脂肪按重量計，脂肪體積更大。
+   - 肌肉占用更小空間，脂肪導致身體臃腫。
+
+2. **超重者的肌脂比例失衡**：
+   - 超重者通常肌肉量少於脂肪量。
+
+3. ** ketogenic（生酮飲食）和間歇性禁食的作用**：
+   - 生酮飲食和間歇性禁食促使身體燃燒脂肪，並 triglycerides 濾過。
+   - 這些方法可增加肌肉量，改善代謝率。
+
+4. **減肥的非線性特徵**：
+   - 初期可能快速喪失水分重量，之後進入平台期。
+   - 肌肉增長導致體重下降不顯著，但體形會改善。
+
+5. **激素差異對減肥的影響**：
+   - 女性 estrogen 水平較高，導致脂肪分布和代謝速率不同。
+   - 男性 testosterone 水平較高，通常使他們更容易減肥。
+
+6. **肌肉的代謝作用**：
+   - 肌肉增加可提高基礎代謝率，但需注意燃燒的是脂肪還是糖分。
+   - 生酮飲食可促使肌肉更多燃燒脂肪而非碳水化合物。
+
+---
+
+#### 問題原因：
+1. **對減肥速度的不合理期望**：
+   - 有些人期望快速體重下降，忽略平台期和非線性變化。
+
+2. **激素差異導致的代謝阻礙**：
+   - 女性因 estrogen 水平較高，脂肪儲存和燃燒機制不同。
+
+3. **飲食結構不合理**：
+   - 高碳水化合物飲食導致肌肉主要燃燒糖分，而非脂肪。
+
+4. **缺乏綜合健康目標**：
+   - 只注重大於健康的整體提升，影響減肥效果。
+
+---
+
+#### 解決方法：
+1. **設定多樣化目標**：
+   - 確立體重下降、健康提升和肌肉增長等多重目標。
+   - 通過增肌來提高代謝率，間接促進減肥。
+
+2. **調整飲食結構**：
+   - 啊 ketogenic 飲食降低碳水化合物攝取，迫使身體燃燒脂肪。
+   - 適當增加蛋白質攝取，支持肌肉生長。
+
+3. **了解激素影響**：
+   - 接受女性因激素差異導致的減肥挑戰，調整策略而非氣餒。
+
+4. **合理設定期望值**：
+   - 理解平台期是正常現象，保持耐心和堅持。
+   - 重視體形改善而非單一體重指標。
+
+5. **結合運動與飲食**：
+   - 練習力量訓練增肌，有氧運動燃燒脂肪。
+   - 適當的壓力管理也有助於維持健康代謝。
+
+---
+
+#### 健康建議：
+1. **均衡飲食**：
+   - 降低碳水化合物攝取，增加健康脂肪和蛋白質。
+   - 參考《新身體類型指南》中的飲食計劃。
+
+2. **定期運動**：
+   - 結合力量訓練和有氧運動，提升肌肉量和燃脂效率。
+   - 適當的運動強度和頻率是關鍵。
+
+3. **管理壓力**：
+   - 啊新章節提供了有效的壓力管理方法。
+   - 良好的睡眠和心理状态有助於維持健康代謝。
+
+4. **Monitoring進展**：
+   - 定期評估體重、體脂和肌肉量，而非單一指標。
+   - 關注整體健康狀況的改善。
+
+---
+
+#### 結論：
+1. 女性在減肥過程中需面對激素差異和肌脂比例失衡的挑戰。
+2. 生酮飲食和間歇性禁食是有效的策略，但需配合綜合健康管理。
+3. 設定多樣化目標、合理期望值和科學方法是成功減肥的關鍵。
+4. 通過增肌來改善代謝率，最終實現健康減肥。
 </details>
 
 <details>
-<summary>1353. Should I Do Keto & Intermittent Fasting If I've Had an Eating Disorder? – Dr. Berg</summary><br>
+<summary>1353. [2018-02-18] Should I Do Keto & Intermittent Fasting If I've Had an Eating Disorder? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=d04rfbNnbUw" target="_blank">
     <img src="https://img.youtube.com/vi/d04rfbNnbUw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 探讨患有或曾患进食障碍者进行间歇性断食（尤其是酮饮食）的安全性和适宜性。
 
+---
+
+### 主要觀念  
+1. **低血糖问题**：  
+   - 进食障碍患者通常存在严重的低血糖问题，这可能导致认知功能受损、情绪不稳定等症状。  
+2. **酮饮食的作用**：  
+   - 通过将身体和大脑的能源来源从葡萄糖转换为酮体（脂肪分解产物），可以避免低血糖带来的负面影响。  
+3. **情绪改善**：  
+   - 酮饮食有助于稳定情绪，减少焦虑、抑郁等负面情绪，从而提高自我控制能力。
+
+---
+
+### 問題原因  
+- 进食障碍患者由于长期的碳水化合物摄入不稳定，导致血 sugar levels波动较大，引发一系列情绪和认知问题。  
+
+---
+
+### 解決方法  
+1. **采用酮饮食**：  
+   - 通过间歇性断食结合酮饮食，利用脂肪作为主要能源来源，避免低血糖的发生。  
+2. **控制餐次**：  
+   - 推荐每日1-2餐，避免零食，确保营养均衡。  
+
+---
+
+### 健康建議  
+1. **营养搭配**：  
+   - 选择健康的脂肪来源（如坚果、橄榄油等），保证饮食的健康性。  
+2. **心理调节**：  
+   - 在进行酮饮食的同时，结合心理治疗或咨询，帮助患者更好地管理情绪和行为。  
+
+---
+
+### 結論  
+- 对于进食障碍患者而言，间歇性断食（尤其是酮饮食）是一种可行且有益的方法，能够改善情绪、增强自我控制力，并有助于长期的心理健康。
 </details>
 
 <details>
-<summary>1352. Can You Eat Pork Rinds On Keto? – Dr. Berg</summary><br>
+<summary>1352. [2018-02-18] Can You Eat Pork Rinds On Keto? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HJDzvEwJ0aI" target="_blank">
     <img src="https://img.youtube.com/vi/HJDzvEwJ0aI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節一：核心主題  
+- 推荐食用高质量的豬肉皮（Pork Rinds）作為低碳水化合物飲食的一部分。  
+- 强調其在生酮或其他低碳飲食計劃中的價值。  
 
+### 小節二：主要觀念  
+1. **豬肉皮的營養價值**  
+   - 零碳水化合物，提供平衡的脂肪和蛋白質比例。  
+2. **豬肉皮的應用**  
+   - 可作為脆片替代品，增加沙拉的口感。  
+   - 用於製作外皮酥脆的炸雞（實際上是烘烤）。  
+
+### 小節三：問題原因  
+- 市面上零售渠道（如7-11）銷售的豬肉皮可能品質不明，常添加防腐劑如MSG。  
+- 大部分豬肉皮來源於工業化養殖，餵食可能包含非基因改造玉米和大豆，但缺乏 transparency。  
+
+### 小節四：解決方法  
+1. **選擇高品質豬肉皮**  
+   - 推荐美國US Wellness Meats等品牌，確保豬隻為放牧飼養，食物來源可追溯。  
+2. **閱讀標籤**  
+   - 檢查產品成分，避免含防腐劑和不當添加物。  
+
+### 小節五：健康建議  
+1. **食用方式**  
+   - 碎豬肉皮用於沙拉，增添脆度和風味。  
+2. **食谱推薦**  
+   - 使用豬肉皮製作外酥裡嫩的炸雞（實際為烘烤）。  
+
+### 小節六：核心結論  
+- 高品質豬肉皮是低碳飲食的理想選擇，提供良好的營養均衡與口感。  
+- 消費者需注意產品來源和成分，避免低品質產品的潛在危害。
 </details>
 
 <details>
-<summary>1351. Top 5 Keto Macros Tips – Dr. Berg</summary><br>
+<summary>1351. [2018-02-17] Top 5 Keto Macros Tips – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=bgD19482--Y" target="_blank">
     <img src="https://img.youtube.com/vi/bgD19482--Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：酮egenic diet（生酮飲食）與斷食計劃中的宏量營養素策略
 
+---
+
+### 主要觀念：
+1. **宏量營養素分配**：
+   - 碳水化合物：5%（熱量占比），但具體克數需根據個人代謝率調整，建議20-50克。
+   - 蛋白質：20%（熱量占比），推薦每餐3-6盎司（約85-170克）。
+   - 脂肪：70%（熱量占比），需根據個人需求調整攝取量。
+
+2. **蔬菜的攝取**：
+   - 每天攝取7-10杯蔬菜，以提供纖維和其他營養素，並幫助控制食慾。
+   - 蔬菜可作為每餐的第一步，避免過量蛋白質引起的胰島素_spike。
+
+3. **脂肪的調整**：
+   - 適當攝取高密度脂肪，但需注意避免過量，以免引起腹脹和長期饱腹感。
+   - 確保脂肪來源為高品質（如牛油果、椰子油）。
+
+4. **碳水化合物的管理**：
+   - 以Net carbs（總碳水化合物-膳食纖維）為計算標準，避免隱性糖分攝取。
+   - 適當攝取低GI食物（如堅果、牛油果），並注意外出就餐時的控制。
+
+5. **蛋白質來源**：
+   - 選擇高品質蛋白來源（如野生捕撿魚類、草饲牛肉）以確保營養均衡。
+
+---
+
+### 問題原因：
+1. **宏量營養素攝取失衡**：
+   - 蛋白質過量攝取會引起胰島素_spike，導致疲勞和食慾不振。
+   - 碳水化合物攝取不足或過度可能影響代謝功能。
+
+2. **脂肪攝取不當**：
+   - 過量脂肪攝取易導致腹脹和長期饱腹感。
+   - 飲食中脂肪攝取不足會引起饥饿感。
+
+3. **蔬菜攝取不足**：
+   - 蔬菜攝取不足可能影響纖維攝取，導致消化不順和食慾控制不佳。
+
+---
+
+### 解決方法：
+1. **逐步調整宏量營養素攝取**：
+   - 適當分配碳水化合物、蛋白質和脂肪的攝取比例。
+   - 根據個人感受（如飽腹感、能量水平）調整脂肪攝取量。
+
+2. **優先攝取蔬菜**：
+   - 每餐以蔬菜為開胃菜，幫助控制食慾並提供必要的纖維。
+
+3. **選擇高品質食物來源**：
+   - 選擇野生捕撿、草饲和有機食品，確保營養密度。
+   - 控制外出就餐時的隱性糖分攝取。
+
+4. **監控Net carbs攝取**：
+   - 計算Net carbs以精確控制碳水化合物攝取量。
+   - 選擇低GI食物來平衡血糖水平。
+
+---
+
+### 健康建議：
+1. **飲食結構建議**：
+   - 每餐先攝取蔬菜，再攝取蛋白質，最後調整脂肪攝取。
+   - 確保每天攝取7-10杯蔬菜以維持腸道健康和營養均衡。
+
+2. **食物選擇建議**：
+   - 高品質蛋白來源：野生捕撿魚類、草饲牛肉、雞胸肉。
+   - 高品質脂肪來源：牛油果、椰子油、杏仁等堅果。
+   - 適當攝取低GI碳水化合物：如 berries（莓果）、堅果。
+
+3. **生活方式建議**：
+   - 定期監控體重和代謝指標，根據變化調整飲食計劃。
+   - 確保足夠的睡眠和運動量以支持酮egenic diet的效果。
+
+---
+
+### 總結：
+酮egenic diet是一種高效的減脂和健康改善方法，關鍵在於宏量營養素的合理分配和高品質食物來源的选择。通過逐步調整攝取比例、優先攝取蔬菜並控制隱性糖分，可以有效達到目標。建議配合同一時間的運動和良好的生活習慣，以獲得最佳效果。
+
+--- 
+
+此整理涵蓋了文章的核心主題、主要觀念、問題原因、解決方法、健康建議和結論，結構清晰且客觀，適合用於學術或健康諮詢場景。
 </details>
 
 <details>
-<summary>1350. Common Medications (Drugs Side Effects) That Can Make You Gain Weight – Dr. Berg</summary><br>
+<summary>1350. [2018-02-17] Common Medications (Drugs Side Effects) That Can Make You Gain Weight – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kZzNx3JNhRo" target="_blank">
     <img src="https://img.youtube.com/vi/kZzNx3JNhRo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Core Theme (核心主題)
+- **Impact of Medications on Weight Gain**: The discussion focuses on how certain medications can lead to weight gain as a side effect.
 
+---
+
+### Key Concepts (主要觀念)
+1. **Medications Causing Weight Gain**:
+   - Cortisone/Prednisone: Used for inflammation, allergies, and inflammatory conditions.
+   - Thiazides: Diuretics for high blood pressure.
+   - Beta Blockers: For managing high blood pressure.
+   - SSRIs: Antidepressants for mood disorders like anxiety and depression.
+   - Statins: For reducing cholesterol levels.
+
+2. **Mechanism of Weight Gain**:
+   - These medications increase insulin gradients and resistance, leading to higher insulin levels.
+   - High insulin levels contribute to fat accumulation.
+
+3. **Underlying Causes**:
+   - Inflammation, high blood pressure, mood disorders, and high cholesterol are often symptoms of deeper issues related to high insulin levels.
+
+---
+
+### Problems and Their Causes (問題與原因)
+- **Symptoms Treated as Diseases**: The medications used to treat conditions like inflammation, high blood pressure, and mood disorders often target symptoms rather than addressing the root cause.
+- **Side Effects**: Many medications have side effects that worsen health outcomes, such as weight gain.
+
+---
+
+### Solutions and Health Recommendations (解決方法與健康建議)
+1. **Natural Approaches**:
+   - **Diet**:采用健康的飲食方式，如地中海飲食或低GI飲食，以降低血糖和胰島素水平。
+   - **Exercise**: Regular physical activity to improve insulin sensitivity and reduce weight.
+   - **Stress Management**: Techniques like meditation or yoga to address mood disorders without relying solely on medications.
+
+2. **Addressing Root Causes**:
+   - Focus on reducing inflammation through anti-inflammatory diets and lifestyle changes.
+   - Normalize blood pressure naturally by eliminating processed foods and reducing sodium intake.
+   - Manage cholesterol levels with dietary changes and regular exercise.
+
+3. **Consultation**:
+   - Collaborate with healthcare providers to assess if medications can be adjusted or discontinued as health improves.
+
+---
+
+### Conclusion (結論)
+- **Holistic Approach**: Treating the root causes of health issues through diet, exercise, and stress management can potentially reduce or eliminate the need for certain medications.
+- **Mindful Medication Use**: While medications are necessary in some cases, their side effects should be carefully monitored, and non-pharmacological solutions should be explored whenever possible.
+
+---
+
+### 中文翻譯
+
+### 核心主題
+- **藥物對體重增加的影響**： discussion focuses on how certain medications can lead to weight gain as a side effect.
+
+---
+
+### 主要觀念
+1. **導致體重增加的藥物**：
+   - 濕疹/潑尼松：用於 inflammation, allergies, 和 inflammatory conditions.
+   - 利尿劑：用於高血壓。
+   - beta blockers: 用於控制 high blood pressure.
+   - SSRIs: 抗抑鬱藥用於 mood disorders like anxiety and depression.
+   - 脸得盯：用於降低胆固酶水平。
+
+2. **體重增加的機制**：
+   - 這些藥物增加胰島素梯度和抵抗，導致胰島素水平升高。
+   - 高胰岛素水平會促進脂肪積累。
+
+3. **問題的根本原因**：
+   - 為 inflammation, high blood pressure, mood disorders, 和高胆固醇 是Often symptoms of deeper issues related to 高胰岛素水平.
+
+---
+
+### 問題與原因
+- **症狀被當作疾病來治療**：用於治療炎症、高血壓和情緒障礙的藥物往往針對症狀，而不是解決根本問題。
+- **副作用**：Many medications有副作用，如體重增加，會惡化健康結果。
+
+---
+
+### 解决方法與健康建議
+1. **自然方法**：
+   - **飲食**：Adopt健康的飲食方式，如地中海飲食或低GI飲食，以降低血糖和胰島素水平。
+   - **運動**：定期的體育活動可以提高胰岛素敏感性並減少體重。
+   - **壓力管理**：Techniques like meditation 或瑜伽來 address mood disorders without 依賴藥物。
+
+2. **解決根本原因**：
+   - 對抗炎症 through anti-inflammatory diets 和生活方式改變。
+   - Normalize blood pressure 自然ly by 刪除加工食品和減少食鹽攝入。
+   - 管理胆固醇水平用飲食改變和定期運動。
+
+3. **諮詢**：
+   - 與醫療提供者合作以評估是否可以調整或停止使用藥物，因為健康狀況改善。
+
+---
+
+### 結論
+- **整體方法**：通過 diet, exercise, 和壓力管理來 treatment 根本原因的健康問題可以潛在地減少或消除某些藥物的需要。
+- **藥物的明智使用**：雖然在某些情況下需要药物，但應該謹慎監控其副作用，并探索非藥物解決方案，Whenever possible.
 </details>
 
 <details>
-<summary>1349. Functions & Benefits of Human Growth Hormone (HGH) – Dr.Berg</summary><br>
+<summary>1349. [2018-02-16] Functions & Benefits of Human Growth Hormone (HGH) – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=6jLGTnf2YHc" target="_blank">
     <img src="https://img.youtube.com/vi/6jLGTnf2YHc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：人類生長激素（HGH）的功能與重要性
 
+#### 主要觀念：
+- **HGH的年齡相關變化**：隨著年齡增長，人類生長激素水平逐漸下降。
+- **HGH的自然提升方法**：通過運動和間歇性禁食等自然方式可以有效提高HGH水平。
+- **HGH的多樣性功能**：
+  - **骨骼健康**：促進骨折癒合，增強骨密度，預防骨質疏松症。
+  - **肌肉建構**：增加肌肉質量，與睾酮共同作用於 libido 和性功能。
+  - **脂肪燃燒**：在禁食期間穩定血糖水平，並促進脂肪分解。
+  - **免疫系統刺激**：增強免疫力，幫助預防疾病。
+  - **甲狀腺激素轉化**：將T4（無活性）轉換為T3（有活性），增加甲狀腺激素的可用性。
+  - **抗衰老功效**：提升活力，延緩衰老過程。
+  - **睡眠品質**：改善睡覺時長和深度，主要在睡眠期間發揮作用。
+  - **認知功能提升**：增強記憶力、注意力和集中力。
+
+#### 問題原因：
+- 自然衰老導致HGH水平下降，影響身體多個系統的正常功能。
+
+#### 解決方法：
+- **運動**：通過力量訓練和高強度間歇訓練等方式提高HGH水平。
+- **間歇性禁食**：短期禁食可顯著提升HGH分泌。
+- **健康生活方式**：保持規律的睡眠、均衡飲食和減壓，以促進HGH的自然分泌。
+
+#### 健康建議：
+- 避免使用注射式HGH治療，轉而採取自然方式刺激其分泌。
+- 參考相關教學資源（如影片），進一步了解提升HGH的有效方法。
+
+#### 結論：
+人類生長激素在身體健康中扮演著多重要角色。通過運動、禁食等自然手段提高其水平，不僅能增強體力和免疫力，還能有效延緩衰老，提升整體生活品質。
 </details>
 
 <details>
