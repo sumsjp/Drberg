@@ -63,10 +63,10 @@ def update_list():
         # 儲存更新後的資料
         combined_df.to_csv(csv_file, index=False)
         print(f"📌 已更新 {new_videos_mask.sum()} 部新影片")
-        return combined_df
+        return combined_df, new_videos_df
     else:
         print("📌 沒有新影片")
-        return existing_df
+        return existing_df, pd.DataFrame()
 
 def download_script(df):
     # 確保 script_dir 存在
@@ -319,12 +319,12 @@ def create_doc(df):
     except Exception as e:
         print(f"❌ 處理文件時發生錯誤：{str(e)}")
 
-def email_notify():
+def email_notify(df):
     pass
 
 if __name__ == '__main__':
-    df = update_list()
+    df, new_df = update_list()
     download_script(df)
     summerize_script()
     create_doc(df)
-    email_notify()
+    email_notify(new_df)
