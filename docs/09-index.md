@@ -329,113 +329,583 @@
 </details>
 
 <details>
-<summary>970. The Ketogenic Diet & Body Type Tips Explained By Dr.Berg</summary><br>
+<summary>970. [2017-07-31] The Ketogenic Diet & Body Type Tips Explained By Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=z5nYcy9Vb5U" target="_blank">
     <img src="https://img.youtube.com/vi/z5nYcy9Vb5U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **綜合體型分類、酮egenic饮食与间歇性禁食**：文章讨论了如何将体能类型（腺体型、卵巢型、肝脏型）与酮ogenetic饮食和间歇性禁食相结合，以达到快速健康的目的。
 
+### 主要觀念
+1. **腺体型（Adrenal Type）**：
+   - 需要更高的蛋白质摄入量（建议6盎司/餐），以支持身体的修复和恢复。
+   - 增加睡眠时间，进行压力管理活动如散步、使用针灸放松工具等。
+   - 补充钾元素和维生素C，以支持肾上腺功能。
+   - 高胆固醇饮食，因为肾上腺激素由胆固醇合成。
+
+2. **卵巢型（Ovary Type）**：
+   - 完全采用有机食品，避免 GMO 和内分泌干扰物（如除草剂 glyphosate）。
+   - 增加蛋白质摄入量（建议6盎司/餐），适量摄入高胆固醇食物以支持激素合成。
+   - 摄入大量的十字花科蔬菜（如西兰花、 kale 等）和碘-rich食品（如海藻），以降低雌激素水平。
+
+3. **肝脏型（Liver Type）**：
+   - 限制蛋白质摄入量（建议3盎司/餐），避免过量的坚果，减少对肝脏的压力。
+   - 增加十字花科蔬菜的摄入，帮助修复肝脏功能。
+   - 渐进式增加脂肪摄入，避免一次性大量脂肪导致肝脏负担。
+
+### 問題原因
+- **腺体型**：慢性压力、蛋白质分解模式、钾和维生素C不足。
+- **卵巢型**：雌激素失衡、内分泌干扰物的暴露。
+- **肝脏型**：蛋白质过量、坚果摄入过多、十字花科蔬菜使用不当导致的碘缺乏。
+
+### 解決方法
+1. **腺体型**：
+   - 增加蛋白质和睡眠，进行压力管理活动。
+   - 补充钾元素（如绿叶蔬菜）和维生素C（如柑橘类水果）。
+   - 高胆固醇饮食，包括蛋黄和其他富含胆固醇的食物。
+
+2. **卵巢型**：
+   - 采用有机食品，避免 GMO 和内分泌干扰物。
+   - 增加十字花科蔬菜和碘-rich食物的摄入，以调节雌激素水平。
+
+3. **肝脏型**：
+   - 限制蛋白质和坚果摄入量，避免对肝脏造成负担。
+   - 渐进式增加脂肪摄入，结合大量绿叶蔬菜以支持肝脏修复。
+
+### 健康建議
+- 根据个人体能类型调整饮食和生活方式。
+- 定期监测身体反应，必要时调整个体化计划。
+
+### 結論
+通过将体能类型与酮ogenetic饮食和间歇性禁食相结合，可以有效改善健康状况。然而，个体需根据自身情况选择合适的方案，并持续监测效果以确保最佳健康结果。
 </details>
 
 <details>
-<summary>969. What is Lactose Intolerance Explained By Dr. Berg</summary><br>
+<summary>969. [2017-07-30] What is Lactose Intolerance Explained By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=iRPzSRWNjyY" target="_blank">
     <img src="https://img.youtube.com/vi/iRPzSRWNjyY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：乳糖不耐受的核心知識與管理策略
 
+#### 一、核心主題
+- **乳糖不耐受**：一種影響多數人的消化問題，涉及對乳糖（牛奶中的糖分）的代謝能力受限。
+
+#### 二、主要觀念
+1. **乳糖不耐受的定義**：
+   - 是指人體 inability to digest lactose，導致腹脹、腹痛等症狀。
+2. **與牛奶過敏的區別**：
+   - 乳糖不耐受是對碳水化合物（lactose）的 intolerance。
+   - 牛奶過敏是對蛋白質（casein）的 allergic reaction。
+
+#### 三、問題原因
+1. **腸道損傷**：
+   - 過去使用抗生素或疫苗可能破壞腸道菌群平衡。
+2. **免疫系統受損**：
+   - 慢性壓力或自體免疫疾病削弱免疫功能，增加乳糖不耐受風險。
+3. **年齡相關因素**：
+   - 年齡增長導致 lactase 酶分泌減少，影響乳糖消化能力。
+
+#### 四、症狀
+1. **急性症狀**（通常在食用後數分鐘至一小時內出現）：
+   - 腹部脹氣和疼痛。
+   -  rumbling。
+2. **遲發性症狀**（可能延遲數小時或更久）：
+   - 炎症反應。
+   - 腸道下段反應。
+
+#### 五、解決方法
+1. **益生菌攝取**：
+   - 選擇含乳酸菌（如 *Lactobacillus* 和 *Bifidobacterium*）的產品，幫助恢復腸道菌群並增加 lactase 生成。
+2. **飲食調整**：
+   - 減少或避免高乳糖食品，如加工奶酪、牛奶和酸奶。
+
+#### 六、健康建議
+1. **閱讀食品標籤**：
+   - 注意食品中的糖分含量，因其可能代表乳糖量（如加工奶酪含19克乳糖）。
+2. **選擇低乳糖或無乳糖產品**：
+   - 選擇 aged cheeses（如切達奶酪），這些產品的乳糖含量通常極低或為零。
+
+#### 七、結論
+- 正確辨別乳糖不耐受與牛奶過敏，並通過益生菌和飲食控制來管理症狀。
+- 遭遇持續問題時，建議進行專業檢測以確定具體原因。
 </details>
 
 <details>
-<summary>968. Insomnia on Keto Explained By Dr.Berg</summary><br>
+<summary>968. [2017-07-30] Insomnia on Keto Explained By Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=cqbQAWpOJVE" target="_blank">
     <img src="https://img.youtube.com/vi/cqbQAWpOJVE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理：酮egenic Diet與失眠之影響及對策
 
+#### 核心主題
+- 探讨 ketogenic diet（酮ogenic饮食）与失眠之间的关系及其潜在影响。
+
+#### 主要觀念
+1. **カフェインの過剰摂取**
+   - 大量のカフェイン摂取は中枢神経を刺激し、睡眠障害（insomnia）の一因となる。
+   
+2. **食事間隔と断食法の重要性**
+   - 通常の3食に加え、間食や夜間の食べ物摂取は血中インシュリン値の上昇を引き起こし、睡眠を妨げる。
+
+3. **レタ葉の消化不良**
+   - 大量なケール消費は消化不良を引き起こし、ストレスと不眠に繋がる可能性がある。
+
+4. **カリウム不足**
+   - 高脂肪・低碳水化合物の食事により、カリウム摂取が不足し、神経系の興奮性を高める。
+
+5. **ビタミンB1不足**
+   - 酮体生成過程でビタミンB1消費量が増え、不足時は不安や restless leg syndrome を引き起こす。
+
+6. **カルシウム不足**
+   - 酮dietによりカルシウム需要が増加し、足の攣痛や睡眠障害を引き起こす可能性がある。
+
+7. **夜間血糖値の変動**
+   - 酮dietへの適応期に夜间血糖値の急激な変化が起こり、睡眠を妨げる。
+
+#### 問題原因
+- 咖啡因過剰摂取  
+- 不適切な食事パターン（多間食や夜間の食べ物摂取）  
+- 特定野菜（ケール）の消化不良  
+- カリウム、ビタミンB1、カルシウム等の栄養素不足  
+- 夜間血糖値の不稳
+
+#### 解決方法
+1. **カフェイン摂取制限**
+   - 朝に1杯までの caffeine 制限。
+
+2. **食事パターンの改善**
+   - 間食を避け、昼夜問わず定期的な食事を心掛ける。
+   
+3. **野菜の切り替え**
+   - 消化不良を起こすケールを他の野菜に置換する。
+
+4. **栄養素補充**
+   - カリウム：ポテトassium citrateや電解質粉末摂取  
+   - ビタミンB1：ナットritional yeast摂取  
+   - カルシウム：カルシウムcitrate或calcium magnesiumサプリメント  
+
+5. **血糖値管理**
+   - 夜間の血中糖濃度変動に対処するため、晩酌前に酢 cider vinegarを摂取。
+
+#### 健康建議
+- 酮dietに適応する際は、カフェイン、食事パターン、栄養素補充等を考慮した計画的な進め方が重要。
+- 特定食材の消化不良や栄養不足が睡眠障害を引き起こすため、多様な栄養摂取と食生活の改善を心掛けよう。
+
+#### 結論
+- 酮dietはダイエットや健康維持に効果的であるが、カフェイン、食事パターン、栄養素不足等が睡眠障害を引き起こす可能性がある。
+- これらの問題に対処するためには、合理的な食生活設計と栄養補充が不可欠であり、適応期には特に注意が必要である。
 </details>
 
 <details>
-<summary>967. Keto Diet Dairy (Milk, Yogurt & Cheese) Explained By Dr. Berg</summary><br>
+<summary>967. [2017-07-29] Keto Diet Dairy (Milk, Yogurt & Cheese) Explained By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kuUTAT5N24k" target="_blank">
     <img src="https://img.youtube.com/vi/kuUTAT5N24k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：酮飲與乳制品的關係
 
+#### 核心主題  
+本文探討了在酮飲（ ketogenic diet ）中是否可以攝取乳制品，特別是酸奶、牛奶和奶酪。文章強調了乳制品中的糖分含量及其對酮飲計劃的影響。
+
+---
+
+#### 主要觀念  
+1. **乳制品的糖分含量**：  
+   - 酸奶（plain yogurt）：脂肪含量越低，糖分越高。例如，低脂果味酸奶含47克糖/8盎司，而全脂無糖酸奶含9克糖/8盎司。  
+   - 牛奶（milk）：2%低脂牛奶含12克糖/杯，全脂牛奶含11克糖/杯。  
+   - 奶酪（cheese）：不同品種差異大，如cream cheese含0.45克糖/杯，但加工奶酪含高達19克糖/份。
+
+2. **乳制品的其他健康影響**：  
+   - 乳制品可能引發過敏或不耐受（如對乳糖或酪蛋白的反應），但本文主要討論能量代謝而非免疫反應。  
+
+---
+
+#### 問題原因  
+- 大多數乳制品，尤其是低脂或加工品，含糖量過高，會破壞酮飲狀態（ketosis）。  
+- 果味酸奶和加工奶酪等食品中添加了大量人工甜eners或糖分，進一步增加血糖負擔。  
+
+---
+
+#### 解決方法  
+1. **乳制品的選擇**：  
+   - 選擇低糖或無糖的乳制品，如全脂無糖酸奶、低脂或全脂牛奶（少量攝取）。  
+   - 選擇未加工的奶酪，如cheddar、mozzarella等含糖量較低的品種。  
+
+2. **替代方案**：  
+   - 使用酮飲友好的乳制品替代品，如椰子奶、杏仁奶等植物基乳制品。  
+
+---
+
+#### 健康建議  
+- 在酮飲中攝取乳制品應謹慎，避免高糖或加工品。  
+- 選擇草饲（grass-fed）和有機乳制品，以降低環境激素干擾和其他污染物的風險。  
+- 若對乳制品敏感，可考慮完全避免或逐漸增加攝量以評估反應。  
+
+---
+
+#### 結論  
+酮飲中可以攝取乳制品，但需注意糖分含量和加工程度。選擇低糖、未加工的乳制品，并 moderation使用，以維持酮飲狀態並保障整體健康。
 </details>
 
 <details>
-<summary>966. Vitamin B1 Deficiency Symptoms Explained By Dr. Berg</summary><br>
+<summary>966. [2017-07-29] Vitamin B1 Deficiency Symptoms Explained By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5M5xP_Sv4xQ" target="_blank">
     <img src="https://img.youtube.com/vi/5M5xP_Sv4xQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 維生素 B1 的重要性及其缺乏症狀。  
+- 維生素 B1 在碳水化合物代謝和脂肪代謝中的作用。  
+- 維生素 B1 缺乏在酮ogenic diet 中的影響。  
 
+---
+
+### 主要觀念  
+1. **維生素 B1 的功能**：  
+   - 作為酶的輔因子，參與三羧酸循環等碳水化合物代謝過程。  
+   - 與脂肪 metabolism 相關，支持線粒體中脂肪的燃燒。  
+
+2. **B1 缺乏症狀**：  
+   - 神經興奮性增強（如焦躁、易怒）。  
+   - 水腫（腿部腫脹）。  
+   - 痛癢或麻木（神經系統問題，與神經鞘形成有關）。  
+   - 心率過速。  
+   - 腿部不適和夢遊腿。  
+   - 運動後乳酸積累增加。  
+   - 晕船或噩夢。  
+   - 通氣不足（可能由代謝 acidosis 或 B1 缺乏導致）。  
+
+---
+
+### 問題原因  
+- **不良飲食習慣**：高糖、精製穀物攝取過多，酒精消費過量。  
+- **肝臟損害**：肝硬化或脂肪肝影響 B1 的代謝。  
+- **壓力和咖啡因**：長期壓力和過量咖啡因消耗會耗竭 B1。  
+- **藥物影響**：口服避孕藥和制酸劑可能干擾 B1 的吸收或利用。  
+
+---
+
+### 解決方法與健康建議  
+1. **飲食調整**：  
+   - 減少糖分、精製穀物和酒精的攝取。  
+   - 增加富含維生素 B1 食物的攝入，如全穀物、瘦肉蛋白、花生、葵花籽等。  
+
+2. **營養補充**：  
+   - 使用未添加合成維生素的營養酵母。  
+   - 考慮服用天然來源的維生素 B1 补充劑（避免長期依賴）。  
+
+3. **生活方式改善**：  
+   - 管理壓力，避免過度消耗。  
+   - 限制咖啡因攝取量。  
+   - 適當運動，促進乳酸代謝和恢復。  
+
+---
+
+### 結論  
+- 維生素 B1 是維持能量代謝、神經功能和心血管健康的重要營養素。  
+- B1 缺乏症在酮ogenic diet 中尤為常見，需注意飲食均衡和補充。  
+- 通過調整飲食結構、改善生活方式和適當補充，可以有效預防和解決 B1 缺乏問題。
 </details>
 
 <details>
-<summary>965. Intermittent Fasting Benefits Explained By Dr.Berg</summary><br>
+<summary>965. [2017-07-28] Intermittent Fasting Benefits Explained By Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=JlmSOqjJhKo" target="_blank">
     <img src="https://img.youtube.com/vi/JlmSOqjJhKo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 介紹時間控制飲食（Intermittent Fasting）及其在健康和自我 discipline 中的重要性。  
 
+### 主要觀念  
+1. **食物控制的問題**：大多數人受到食物的控制，特別是高糖分和加工食品，這些食物會導致血糖波動並使人成癮。  
+2. **血 sugar trap**：血糖水平的上下波動導致持續的食欲和疲勞，形成惡性循環。  
+3. **時間控制飲食的優點**：  
+   - 提升生長激素（Growth Hormone）至多 2000%。  
+   - 促進神經元生長，增強認知功能。  
+   - 高酮體水平，改善血糖穩定性。  
+   - 舒緩炎症，提升心血管健康。  
+   - 增強個人意志力和自我 discipline。  
+
+### 問題原因  
+- 社會和食品工業利用食物的短期快感來賺錢，導致人々依賴不健康的飲食習慣。  
+- 大多數人缺乏對自身健康和飲食控制的意識。  
+
+### 解決方法  
+1. **逐步實施時間控制飲食**：  
+   - 從三餐開始，然後逐漸延後進餐時間，最終目標是進行 18-20 小時的斷食。  
+   - 減少零食攝取，並選擇健康的飲食方式。  
+2. **提升自我 discipline**：  
+   - 面對食物誘惑時，強調長遠健康受益而非短期樂趣。  
+
+### 健康建議  
+- 初學者應該逐步增加斷食時間，避免突然改變飲食習慣。  
+- 定期進行血檢，監控健康指標如血糖、血脂等。  
+- 確保飲食均衡，並配合適當的運動以增強效果。  
+
+### 結論  
+- 時間控制飲食不僅能改善身體健康，還能增強個人意志力。  
+- 雖然初期可能伴有不适，但透過漸進式的調整和堅持，最終能帶來顯著的健康提升。
 </details>
 
 <details>
-<summary>964. Keto Diet Without Veggies Explained By Dr. Berg</summary><br>
+<summary>964. [2017-07-26] Keto Diet Without Veggies Explained By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=BC0mRQLoqNA" target="_blank">
     <img src="https://img.youtube.com/vi/BC0mRQLoqNA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **核心主題**：在實施酮egenic（生酮）飲食時，攝入足夠的蔬菜對於維持健康和ダイエットの成功至關重要。
 
+---
+
+### 主要觀念
+1. **蔬菜的重要性**：
+   - 蔬菜提供必需的維生素、礦物質和營養素。
+   - 在酮egenic diet中，脂肪燃燒過程中產生的廢棄物需要通過 vegetable fibre 來清除，否則可能導致健康問題。
+
+2. **常見挑戰**：
+   - 某些人不喜歡蔬菜的味道或質地，影響其攝取量。
+   - 蔬菜攝取不足可能导致營養缺乏和代謝废物積累。
+
+---
+
+### 問題原因
+- **蔬菜攝取不足的原因**：
+  - 個人對某些蔬菜的厭惡或不熟悉（例如不认识西兰花屬於蔬菜）。
+  - 缺乏飲食多樣性，導致蔬菜攝入量低。
+
+---
+
+### 解決方法
+1. **蔬菜攝取策略**：
+   - **選擇喜歡的蔬菜**：從輕微偏好的蔬菜開始，如黄瓜、萵苣等。
+   - **隐藏蔬菜的味道**：將蔬菜融入其他食物中，如加入莓果的 kale 霜淇淋或使用醬料掩蓋味道。
+   - **利用發酵蔬菜**：如泡菜和酸椰菜，這些食物更易消化且富含益生菌。
+
+2. **替代方案**：
+   - 使用蔬菜粉末（如菠菜汁粉末）來補充營養。
+   - 舉食療法或增肌粉等食品級濃縮產品來彌補蔬菜攝取的不足。
+
+3. **平衡飲食建議**：
+   - 配合 cruciferous vegetables（十字花科蔬菜，如西蘭花、卷心菜）使用益生菌和調味劑（如大蒜、薑黃素）來增強其營養效果。
+   - 確保攝取足夠的蔬菜，而不要過度依賴粉末或補充劑。
+
+---
+
+### 健康建議
+1. **飲食策略**：
+   - 減少對加工食品和高糖食物的依賴，增加天然蔬菜的攝入量。
+   - 確保飲食多樣化，以獲得豐富的營養素。
+
+2. **補充劑的使用**：
+   - 選擇高品質的蔬菜粉末或濃縮汁，但不要過度依賴。
+   - 搭配益生菌和調味劑來提高吸收率和口感。
+
+3. **飲食習慣建議**：
+   - 興趣是最好的動機，從喜歡的食物開始逐步增加蔬菜攝入量。
+   - 學會利用醬料、蘸料等方法讓蔬菜更可口。
+
+---
+
+### 結論
+- 在酮egenic diet中，蔬菜的攝取對於健康和ダイエットの成功至關重要。
+- 面對不喜歡蔬菜的情況，可以通過多樣化的飲食策略和補充劑來彌補。
+- 確保蔬菜攝取量足夠且多樣化，才能真正實現酮egenic diet的效果和健康益處。
 </details>
 
 <details>
-<summary>963. What are the Adrenal Glands? – Effects of Cortisol & Adrenal Hormones – Dr.Berg</summary><br>
+<summary>963. [2017-07-26] What are the Adrenal Glands? – Effects of Cortisol & Adrenal Hormones – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=9225P7K7bSs" target="_blank">
     <img src="https://img.youtube.com/vi/9225P7K7bSs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理： adrenal glands 的功能與重要性
 
+#### 1. 核心主題
+- **腎上腺 gland的功能**  
+  腎上腺是位於腎臟上方的小 glands，主要負責在壓力情況下調節身體橢以應對壓力。
+
+#### 2. 主要觀念
+- **腎上腺的結構與分類**  
+  - 外層（ cortex）：分泌三種主要激素，包括 glucocorticoids（如 cortisol）、 mineral corticoids（如 aldosterone）和 androgens（如 testosterone、estrogen 等）。  
+  - 內層（ medulla）：由神經組織組成，負責分泌腎上腺素（ adrenaline）、去甲腎上腺素（ noradrenaline）等 catecholamines。
+
+- **腎上腺的功能**  
+  - 調節血糖水平、免疫抑制、骨密度、電解質平衡、維生素 D 水平。  
+  - 負責應對壓力，激發「戰或逃」反應（ flight or fight mechanism），包括增加心率、血流和精神集中力。
+
+#### 3. 問題原因
+- **腎上腺功能失調的原因**  
+  - 長期壓力：導致腎上腺過度消耗，引發 adrenal fatigue。  
+  - 营養不足：缺乏膽固醇或其他必需營養素影響激素合成。  
+  - 電解質不平衡（如缺鉀）：干擾腎上腺功能。  
+
+#### 4. 解決方法
+- **治療與管理**  
+  - 使用類固醇（如 prednisone）來抑制過度的炎症反應或免疫反應。  
+  - 調整飲食以補充必要的營養素，包括膽固醇、維生素 D 和電解質。  
+  - 減輕壓力：通過放鬆技巧、運動和充足睡眠來保護腎上腺健康。  
+
+#### 5. 健康建議
+- **生活與飲食建議**  
+  - 確保攝取足夠的膽固醇以支持激素合成。  
+  - 补充鉀質：通過食用香蕉、土豆等食物來平衡電解質，緩解腎上腺壓力。  
+  - 避免過度依賴刺激物（如咖啡因），防止腎上腺耗竭。  
+
+#### 6. 結論
+- **腎上腺 gland的重要性**  
+  腎上腺在應對壓力、調節免疫系統和維持內分泌平衡中扮演關鍵角色。其功能失調可能導致多種健康問題，包括免疫疾病、骨質疏鬆和代謝紊亂。  
+
+此文章強調了腎上腺 gland 的核心作用及其在壓力管理和全身健康中的重要性。
 </details>
 
 <details>
-<summary>962. The Ultimate Joint Healer: Growth Hormone – Dr. Berg On Joint Pain Relief</summary><br>
+<summary>962. [2017-07-25] The Ultimate Joint Healer: Growth Hormone – Dr. Berg On Joint Pain Relief</summary><br>
 
 <a href="https://www.youtube.com/watch?v=iDyRN9m2mec" target="_blank">
     <img src="https://img.youtube.com/vi/iDyRN9m2mec/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 文章整理：生長激素在關節修復中的作用及自然提升方法
 
+## 核心主題
+- 生長激素（Growth Hormone, GH）在人體關節修復中扮演重要角色，不僅限於促進肌肉增長和抗衰老。
+
+## 主要觀念
+1. **生長激素的功能**：
+   - 促進蛋白質合成及修復。
+   - 與骨密度、肌腱、韌帶等組織的修復有關。
+   - 參與骨 mineralization 和軟骨修復。
+
+2. **關節問題的來源**：
+   - 骨骼退化（如 osteoporosis）。
+   - 關節軟骨磨損（bone on bone ）。
+   - 退行性椎間盤病變。
+
+## 問題原因
+- 自然老化：20 歲以後，生長激素分泌逐漸下降。
+- 經絡及軟骨的修復能力降低，導致關節問題。
+
+## 解決方法
+1. **改善睡眠**：
+   - 提升深度睡眠以刺激生長激素分泌。
+
+2. **高強度運動**：
+   - 進行全身性阻力訓練以激活生長激素。
+
+3. ** moderation in protein intake**：
+   - 適當攝取蛋白質可刺激生長激素分泌。
+
+4. **colostrum 的使用**：
+   - 提供自然來源的生長激素及相關因子（如 IGF-1、IGF-2）。
+   - 助於軟骨修復、血管修復及組織重塑。
+
+## 健康建議
+- 確保充足的睡眠品質。
+- 定期進行高強度全身性運動。
+- 保持適當的蛋白質攝取，避免過量。
+- 考慮補充colostrum以促進關節健康。
+
+## 結論
+生長激素在維持骨密度和修復關節組織方面具有關鍵作用。透過改善睡眠、規律運動、適當蛋白質攝取及使用colostrum等自然方式，可有效提升生長激素水平，從而緩解關節問題並促進整體健康。
 </details>
 
 <details>
-<summary>961. The Low Fat Diet to Prevent Gallstones "Myth" – Dr. Berg</summary><br>
+<summary>961. [2017-07-24] The Low Fat Diet to Prevent Gallstones "Myth" – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=NC5mJwiX6wA" target="_blank">
     <img src="https://img.youtube.com/vi/NC5mJwiX6wA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：低脂飲食與膽石症的迷思
 
+Dr. Burke 在這篇文章中探討了低脂飲食與膽石症之間的關係，並提出了一些與常見觀點相左的看法。他強調高飽和脂肪並非導致膽石症的主要原因，而是與膽汁分泌不足有更密切的關聯。
+
+---
+
+### 主要觀念：
+
+1. **膽石症的原因**：
+   - 胆石症主要與膽汁中超過飽和的膽固醇有關。
+   - 高胰島素血症（insulin resistance）是導致膽石症的主要原因之一，因為高胰島素會耗竭膽汁。
+
+2. **膽汁的作用**：
+   - 胆汁是由肝臟分泌，用於消化脂肪的關鍵物質。
+   - 饱和脂肪是主要的膽汁釋放因子（bile trigger）。
+   - 胆鹽（bile salts）可以幫助溶解膽石。
+
+3. **膽石症的風險因素**：
+   - 高胰島素血症：與肥胖、糖尿病等因素相關，導致膽汁不足。
+   - 高雌激素水平：懷孕或使用口服避孕藥可能增加膽石症風險。
+   - 碳水化合物攝取過量：尤其是糖分和穀物，會引發高胰岛素血症。
+
+---
+
+### 問題原因：
+
+- **膽汁不足**：
+  - 高胰島素血症會導致膽汁分泌不足，增加膽石形成的風險。
+  - 素食者若攝取過多糖分和穀物，也可能因高胰岛素血症而耗竭膽汁。
+
+- **飲食結構失衡**：
+  - 素食者或肉食者若攝取过多碳水化合物（糖和穀物），都會引發高胰岛素血症。
+  - 過高的糖分攝取會增加膽石風險，而不只是脂肪攝取。
+
+---
+
+### 解決方法：
+
+1. **調整飲食結構**：
+   - 控制糖分和穀物的攝取，避免高胰岛素血症。
+   - 素食者應攝取足夠的 vegetable fiber 以降低膽石風險。
+   - 適當攝取健康脂肪（如 olive oil 或 nuts），刺激膽汁分泌。
+
+2. **補充膽鹽**：
+   - 在醫師建議下，可考慮補充膽鹽以幫助溶解膽石。
+
+3. **生活方式調整**：
+   - 控制體重，避免肥胖。
+   - 管理糖尿病或高胰岛素血症，降低膽石風險。
+
+---
+
+### 健康建議：
+
+- **飲食方面**：
+  - 避免過度限制脂肪攝取，尤其是健康脂肪（如 ω-3 或 olive oil）。
+  - 增加膳食纖維攝取，幫助膽汁排出。
+  - 減少精制糖和高GI食物的攝取。
+
+- **健康管理**：
+  - 定期檢查胰島素水平，及時控制糖尿病或代謝症。
+  - 適當運動，降低體重並改善胰岛素敏感性。
+
+---
+
+### 結論：
+
+Dr. Burke 認為，膽石症的發生與低脂飲食無直接關聯，反而是高胰岛素血症和膽汁不足是主要病因。因此，調整飲食結構、控制糖分攝取、並保持健康的生活方式才是預防膽石症的关键。
 </details>
 
 <details>
@@ -552,70 +1022,45 @@
         alt="[Youtube]" width="200">
 </a>
 
-### 核心主題 (Core Theme)
-- **Highest Vitamin C Food**: The article highlights sauerkraut as the highest source of vitamin C, surpassing traditional foods like lemons and bell peppers.
+### 核心主題
 
----
+- 探讨地球上维生素C含量最高的食物及其营养价值。
 
-### 主要觀念 (Key Concepts)
-1. **Vitamin C Content in Common Foods**:
-   - Lemons: Two lemons provide about 90 mg of vitamin C.
-   - Bell Peppers: One bell pepper contains approximately 90 mg of vitamin C.
-   - Mangoes and Cabbage: These are mentioned but found to have lower vitamin C content compared to sauerkraut.
 
-2. **Sauerkraut as a Probiotic Source**:
-   - Sauerkraut contains over a trillion beneficial bacteria, making it one of the most powerful probiotics.
-   - A small amount (4-6 ounces) of sauerkraut is equivalent to multiple bottles of probiotic pills.
 
-3. **Immune Building Properties**: 
-   - Sauerkraut's high vitamin C and probiotic content make it an excellent immune booster.
+### 主要觀念
 
----
+1. **维生素C的重要性**：维生素C对于免疫系统和整体健康至关重要，成人建议每日摄取量为90毫克（RDA）。
 
-### 問題原因 (Issues Identified)
-1. **Inadequate Vitamin C Intake**:
-   - Many people rely on common sources like lemons or bell peppers, which require larger quantities to meet daily needs.
-   - Limited awareness of sauerkraut as a superior vitamin C source.
+2. **传统观念的误区**：虽然柠檬、红椒和芒果常被认为是高维生素C的食物，但有一种食物的实际含量更高。
 
-2. **Probiotic Deficiency**:
-   - Modern diets often lack sufficient probiotics, which are essential for gut health and immunity.
 
----
 
-### 解决方法 (Solutions Proposed)
-1. **Incorporate Sauerkraut into Diet**:
-   - Replace or complement traditional vitamin C sources with sauerkraut to meet daily requirements efficiently.
-   - Consume 4-6 ounces of sauerkraut regularly for significant probiotic benefits.
+### 問題原因
 
-2. **Educate on Nutritional Benefits**:
-   - Promote awareness of sauerkraut's high vitamin C and probiotic content as a sustainable health solution.
+- 一般人普遍认为柠檬、红椒等是维生素C的最佳来源，忽略了其他潜在的高维生素C食物。
 
----
 
-### 健康建議 (Health Recommendations)
-1. **Daily Vitamin C Intake**:
-   - Aim for the RDA of 90 mg per day, achievable with one cup of sauerkraut or half a bell pepper.
-   
-2. **Probiotic Ingestion**:
-   - Include fermented foods like sauerkraut in daily meals to support gut health and overall immunity.
 
-3. **Balanced Nutrition**:
-   - Diversify diet with nutrient-rich foods to ensure comprehensive nutritional intake.
+### 解決方法
 
----
+1. ** Sauerkraut（酸菜）**：通过发酵 cabbage 制作的 sauerkraut 比未发酵的 cabbage 维生素C含量显著提高，一杯可提供700毫克维生素C，远超其他常见水果蔬菜。
 
-### 結論 (Conclusion)
-- Sauerkraut emerges as a superior food source due to its high vitamin C content and probiotic benefits.
-- Integrating sauerkraut into daily diets can significantly enhance immune function and overall health.
-- The article emphasizes the importance of exploring lesser-known nutrient-dense foods for optimal nutrition.
+2. **益生菌优势**：Sauerkraut富含多种益生菌，4到6盎司中含超过一万亿个乳酸菌，具有强大的免疫增强作用。
 
----
 
-### 中文總結
-文章強調 Sauerkraut 作為地球上維生素C含量最高的食物，不僅提供每日所需的 Vitamin C，還富含益生菌，對免疫系統和腸道健康有顯著好處。建議將其納入日常飲食中，以提升整體營養攝取。
 
-### English Summary
-The article emphasizes Sauerkraut as the highest source of vitamin C on Earth, offering daily requirements and abundant probiotics for immune and gut health. It recommends incorporating sauerkraut into regular diets for optimal nutrition.
+### 健康建議
+
+- 将 sauerkraut纳入日常饮食，以确保充足维生素C摄入并促进肠道健康。
+
+- 每周食用一杯 sauerkraut即可满足一周的维生素C需求，同时带来额外的益生菌优势。
+
+
+
+### 結論
+
+Sauerkraut作为地球上维生素C含量最高的食物之一，不仅提供了丰富的营养素，还具有强大的免疫调节和肠道健康促进作用。建议大家将其加入饮食计划中，以获得最佳的健康效益。
 </details>
 
 <details>
@@ -762,40 +1207,40 @@ The article emphasizes Sauerkraut as the highest source of vitamin C on Earth, o
         alt="[Youtube]" width="200">
 </a>
 
-### 核心主題  
-The potential harm of excessive protein intake on the kidneys and liver, particularly when consumed in overly cooked forms or in large quantities without sufficient vegetable intake.  
+### 小節歸納
 
----
+#### 核心主題
+- 蛋白質攝取對腎臟和肝臟的影響。
 
-### 主要觀念  
-1. **Overcooked Protein**: Consuming protein that is overly cooked can strain the liver and kidneys. Raw or rare-cooked proteins are easier to digest and less stressful for these organs.  
-2. **High Protein Intake**: Excessive protein consumption, especially in portions exceeding 3-6 ounces per meal, can lead to long-term damage to the liver and kidneys by increasing ammonia levels and causing fatty liver disease.  
+#### 主要觀念
+1. 過量攝取高溫烹調的蛋白質可能對肝臟和腎臟造成負擔。
+2. 生食或未完全煮熟的蛋白質較易被消化吸收，降低器官負荷。
+3. 高劑量蛋白質攝取（如9-12盎司每餐）可能導致肝臟和腎臟壓力增加。
+4. 過高蛋白質攝取結合碳水化合物可能引起氨的積累，影響腦功能及能量水平。
+5. 慢性過度蛋白質攝取可能导致肝臟疤痕化（肝硬化）和脂肪肝。
 
----
+#### 啊 Moines 的原因
+- 過量蛋白質攝取導致肝臟和腎臟濾過負荷增加，最終引發器官損傷。
+- 不當烹調方式（如过度烹煮）降低蛋白質消化效率，加重器官負擔。
+- 缺乏蔬菜攝取削弱對肝臟和腎臟的保護作用。
 
-### 問題原因  
-1. **Overly Cooked Protein**: Improper cooking methods that destroy beneficial enzymes and nutrients, making digestion harder.  
-2. **High Ammonia Levels**: Excessive protein intake leads to higher ammonia production, which can negatively impact brain function and energy levels.  
-3. **Insufficient Stomach Acid**: Low stomach acid reduces the efficiency of protein digestion, leading to undigested protein particles that strain the liver and kidneys.  
+#### 啟發：健康建議
+1. 每餐控制蛋白質攝取量：
+   - 3至6盎司（約85至170克）為宜，具體視個人活動水平、年齡及體格而定。
+   - 年輕人可適度增加至8盎司（約226克）。
 
----
+2. 食物配搭建議：
+   - 減少過度烹煮的蛋白質選擇，如生食或 rare meat。
+   - 增加蔬菜攝取量，以提供抗氧化劑和保護器官功能。
 
-### 解決方法  
-1. **Balanced Protein Intake**: Consume 3-6 ounces of protein per meal, adjusting based on individual factors like age, activity level, and size.  
-2. **Inclusion of Vegetables**: Add large quantities of vegetables to meals to protect the liver and kidneys by reducing toxin buildup.  
-3. **Enhance Stomach Acid**: Use apple cider vinegar (1-2 tablespoons in water) with meals to improve digestion and enzyme release.  
+3. 胃酸不足的處理：
+   - 注意是否有消化不良、腹脹、胃灼热等症狀，這些可能表示胃酸不足。
+   - 使用少量/apple cider vinegar/（1-2茶匙）加入水中飲用，幫助促進消化酶分泌。
 
----
-
-### 健康建議  
-1. **Dietary Modifications**: Opt for rare or minimally cooked meats, such as sushi or rare-cooked meats, to reduce strain on the digestive system.  
-2. **Monitor Portion Sizes**: Avoid consuming excessive protein in one sitting to prevent overloading the liver and kidneys.  
-3. **Support Digestion**: Incorporate apple cider vinegar into meals to ensure proper digestion and nutrient absorption.  
-
----
-
-### 结論  
-Excessive or overly cooked protein can harm the liver and kidneys, but mindful consumption, balanced with vegetables and adequate stomach acid, can mitigate these risks. Proper attention to cooking methods, portion sizes, and digestive support is essential for maintaining optimal organ health.
+#### 結論
+- 適當控制蛋白質攝取量和烹調方式，可以降低對肝臟和腎臟的負擔。
+- 平衡飲食，包含充足蔬菜，對於維持器官健康至關重要。
+- 注意消化系統功能，必要時調整飲食習慣和使用輔助工具（如Apple cider vinegar），以促進整體健康。
 </details>
 
 <details>
@@ -806,43 +1251,41 @@ Excessive or overly cooked protein can harm the liver and kidneys, but mindful c
         alt="[Youtube]" width="200">
 </a>
 
-### Summary of Key Points from the Article
+### 文章整理與分析
 
-#### Core Theme: Differences Between Commercial and Pasture-Raised Eggs
+#### 核心主題
+- 比較商業化鸡蛋与 pasture-raised 鸡蛋的差异及其对人体健康的影响。
 
-- **Commercial Eggs**:
-  - Fed with GMO corn and soy.
-  - Contain high levels of Omega-6 fatty acids, which can be pro-inflammatory.
-  - Lower in essential nutrients compared to pasture-raised eggs.
+#### 主要觀念
+1. **商業化雞蛋的問題**：
+   - 富含高Omega-6脂肪酸，可能導致炎症。
+   - 使用基因改造（GMO）玉米和大豆作為飼料。
+   - 可能含有殘留的抗生素（如floridin），影響健康。
 
-- **Pasture-Raised Eggs**:
-  - Chickens are raised outdoors, feeding on grass.
-  - Higher content of Omega-3 fatty acids, which are anti-inflammatory.
-  - Richer in vitamins (A, E, D, K2) and minerals.
-  - Contains higher levels of carotenoids, beneficial for eye health, heart function, and immune system.
+2. **Pasture-raised 鸡蛋的优点**：
+   - 富含高Omega-3脂肪酸，具有抗炎作用。
+   - 提供豐富的抗氧化劑和營養素，包括β-carotene、維生素A、E、D、K2等。
+   - 含有豐富的膽鹼（choline），有助於預防脂肪肝。
+   - 具有天然的磷脂質（lecithin），幫助分解膽固醇。
 
-#### Health Benefits of Pasture-Raised Eggs
+3. **健康影響**：
+   - 高Omega-6攝取可能增加炎症風險，與多種慢性疾病相關。
+   - Pasture-raised 鸡蛋提供多種營養素，有助於改善眼睛、前列腺、心臟和免疫系統功能。
 
-- **Nutritional Profile**:
-  - High in choline, essential for brain health and prevention of fatty liver.
-  - Contains lecithin, which helps emulsify cholesterol and improve cardiovascular health.
-  - Doubles the amount of vitamin E compared to commercial eggs, enhancing oxygen-carrying capacity and muscle recovery.
+#### 問題原因
+- 商業化雞蛋產業為追求成本效益，大量使用GMO飼料和可能含抗生素的飼料，導致鸡蛋營養價值降低並潛藏健康風險。
+- 電子孵卵等工業化生產方式影響雞隻的自然生態，進一步影響蛋質。
 
-- **Cholesterol**:
-  - Cholesterol in eggs is a precursor for adrenal hormones, crucial for stress management.
-  - No negative studies link pasture-raised eggs to heart problems.
+#### 解決方法
+- 選擇 pasture-raised 且有機认证的鸡蛋，確保蛋質更健康、營養豐富。
+- 支持小型農場，促進可持续農業發展。
 
-#### Health Recommendations
+#### 健康建議
+- 減少攝取商業化雞蛋，轉向Pasture-raised 鸡蛋以獲取更多Omega-3脂肪酸和其他重要營養素。
+- 注意蛋殼顏色與飼料來源，有機 pasture-raised 鸡蛋通常蛋殼更自然且營養價值更高。
 
-- **Dietary Advice**:
-  - Opt for organic, pasture-raised eggs over commercial ones due to their superior nutritional value.
-  - Consider the ethical and health benefits of supporting local farmers rather than industrial agriculture.
-
-#### Conclusion
-
-- Pasture-raised eggs offer significant nutritional advantages over commercial eggs, making them a healthier choice.
-- The additional cost reflects the higher quality and effort involved in sustainable farming practices.
-- Prioritizing pasture-raised eggs supports both personal health and environmental sustainability.
+#### 結論
+Pasture-raised 鸡蛋因其較高的營養價值和健康益處，值得比商業化雞蛋支付更高的價格。支持此類農場不僅有益於個人健康，也促進了更健康的食品生產系統的發展。
 </details>
 
 <details>
@@ -895,28 +1338,31 @@ Excessive or overly cooked protein can harm the liver and kidneys, but mindful c
         alt="[Youtube]" width="200">
 </a>
 
-### 核心主題：aturated Fats and Insulin Resistance
+===== 小節歸納 =====
 
-### 主要觀念：
-1. **Saturated Fats and Diabetes**: The article discusses the role of saturated fats in insulin resistance and diabetes, challenging the common belief that saturated fats are the primary cause of these conditions.
-2. **Misinformation in Media**: It highlights how media and online content often cite studies out of context, leading to misunderstandings about dietary fats.
+### 核心主題
+- 論述飽和脂肪（saturated fats）與胰島素抵抗性（insulin resistance）之間的關係，挑戰坊間流傳的飽和脂肪導致糖尿病的說法。
 
-### 問題原因：
-1. **Misinterpretation of Studies**: Many sources misrepresent or omit key details from studies comparing saturated and unsaturated fats, particularly the "CET study" which showed only an "almost statistically significant" link between saturated fats and insulin resistance.
-2. **Lack of Access to Research**: The high cost of accessing full studies (often $30-40) limits public understanding, forcing reliance on secondary interpretations that may be biased or misleading.
+### 主要觀念
+1. 飽和脂肪不一定是導致胰島素抵抗性的罪魁禍首。
+2. 多數研究未能充分證明飽和脂肪攝取與胰島素敏感性或抵抗性之間存在顯著關聯。
+3. 偏離原始數據來源的二手信息可能存在偏差，需直接查閱原著研究以獲取可靠結論。
 
-### 解決方法：
-1. **Critical Evaluation of Sources**: Encourage readers to critically evaluate the credibility of sources and question claims about saturated fats without evidence.
-2. **Direct Study Access**: Suggest accessing studies directly if possible, or seeking credible translations/summaries from experts.
-3. **Improved Scientific Literacy**: Advocate for better understanding of scientific terms and study design to enable informed decision-making.
+### 啊，問題原因
+1. 多數人依賴二手數據和他人對研究的解讀，導致信息可能失真。
+2. 研究_Interpretation可能存在主觀性，影響公眾對飽和脂肪和胰島素抵抗性的看法。
 
-### 健康建議：
-1. **Balanced Diet**: Emphasize the importance of a balanced diet rather than demonizing any single nutrient like saturated fats.
-2. **Consult Reliable Sources**: advise consulting peer-reviewed studies or reputable health organizations for accurate information.
-3. **Personalized Approach**: recommend personalized dietary advice based on individual needs and medical history.
+### 解決方法
+1. 鼓勵直接查閱原版研究，以確保信息來源的準確性。
+2. 提供具體的研究數據和結論，幫助聽眾進行批判性思考。
 
-### 結論：
-The article concludes that the current evidence does not support saturated fats as a direct cause of insulin resistance or diabetes. It calls for skepticism towards sensationalist claims in media and emphasizes the need for informed, evidence-based decisions regarding diet and health.
+### 健康建議
+1. 平衡飲食：攝取多種脂肪類型，避免過量攝入任何一種脂肪。
+2. 注重整體生活方式：結合運動、健康飲食習慣以維持胰島素敏感性。
+
+### 結論
+- 目前研究並不支持飽和脂肪直接導致糖尿病的說法，但需進一步大型長期研究來證實。
+- 請勿輕信未经查證的信息，應該基於可靠的科學數據做出判斷。
 </details>
 
 <details>
