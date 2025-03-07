@@ -898,27 +898,33 @@ Dr. Berg 强調了多方面因素影響蛋白質攝取與吸收，並提供具�
         alt="[Youtube]" width="200">
 </a>
 
-### 核心主題
-- ** almond flour 的多樣用途**
-- ** 其健康益處**
+### 核心主題  
+- 探讨 almond flour（杏仁粉）作为一种替代面粉的选择，其营养价值、健康益处以及适用场景。
 
-### 主要觀念
-1. **gluten-free特性**：almond flour 是 gluten-free 的，可以用于制作 cookies、muffins、bread 和 keto 食品。
-2. ** glycemic index 低**：almond flour 的 glycemic index 專門低於 wheat flour（glycemic index 為 71）。
+### 主要觀念  
+- Almond flour 是一种无麸质（gluten-free）的面粉替代品。  
+- 其 glycemic index 低于小麦面粉，有助于控制血糖水平。  
+- 比较于小麦面粉，almond flour 提供更高的蛋白质、脂肪和纤维含量。  
 
-### 营養對比
-- **蛋白質**：almond flour 提供 22 G 蛋白質，相較於 wheat flour 的 10 G。
-- **碳水化合物**：almond flour 含有 19 G 碳水化合物，少於 wheat flour 的 76 G。
-- **脂肪含量高**：almond flour 提供 56 G 脂肪，遠高於 wheat flour 的 8 G。
-- **膳食纖維**：almond flour 含有 10 G 纤維，而 wheat flour 只有 2 G。
-- **礦物質**：almond flour 含豐富的 potassium（687 mg）、magnesium（279 mg）、calcium（216 mg）和 vitamin E（26 mg），相比之下，wheat flour 的營養成分較為有限。
+### 問題原因  
+- 小麦面粉的 glycemic index 高达71，可能导致血糖波动。  
+- 整粒小麦粉虽然含有较高的营养成分（如钙、镁等），但加工后（如白面粉）营养流失严重。  
+- 白面粉中几乎不含维生素 E 等重要营养素。  
 
-### 健康建議
-- **使用 almond flour 替代 wheat flour**：在烘焙或烹調時，考慮用 almond flour 來增加食餸的營養價值並降低血糖影響。
-- **均衡飲食**：雖然 almond flour 營養豐富，但還是應該保持均衡飲食，避免過量攝取。
+### 解決方法  
+- 选择无麸质的替代品，如 almond flour，以减少对麸质的依赖。  
+- 利用 almond flour 的低血糖指数特性，帮助控制血糖水平。  
+- 增加膳食纤维和健康脂肪的摄入，促进整体营养均衡。  
 
-### 結論
-almond flour 是一個健康且多用途的食材，適合 gluten-free 和注重低血糖指數的人群。它的高蛋白質、高脂肪、高纖維以及豐富的礦物質使其成為優質的糧食選擇。
+### 健康建議  
+- 将 almond flour 用于烘焙食品（如饼干、松饼、面包等），以提升营养价值。  
+- 注意 almond flour 的高热量特性，适量使用以避免过量摄入脂肪。  
+- 结合其他食材（如蔬菜）共同食用，确保全面的营养摄取。  
+
+### 結論  
+- Almond flour 是一种健康且多功能的面粉替代品，适合需要无麸质饮食的人群。  
+- 其高蛋白、高纤维和健康的脂肪含量使其成为均衡饮食的良好选择。  
+- 通过合理使用 almond flour，可以提升食品的营养价值，同时改善血糖控制和整体健康状况。
 </details>
 
 <details>
@@ -1238,53 +1244,62 @@ almond flour 是一個健康且多用途的食材，適合 gluten-free 和注重
         alt="[Youtube]" width="200">
 </a>
 
-### Key Points from the Article on Calcium Deficiency
+### 文章重點整理
 
-#### Core Theme
-- The article discusses the symptoms, causes, and solutions related to calcium deficiency, emphasizing the importance of balancing calcium intake and understanding its role in overall health.
+---
 
-#### Major Concepts
-1. **Calcium's Role in the Body**
-   - Essential for muscle function, hormone regulation (e.g., melatonin), blood clotting, and bone health.
-   - Involved in neurotransmitter activity and pH balance.
+#### 1. 核心主題
+- 討論 calcium deficiency 的症狀、原因及解決方法。
+- 強調 calcium 平衡的重要性，避免過量和不足。
 
-2. **Symptoms of Calcium Deficiency**
-   - **Insomnia**: Early morning awakening due to calcium's role in converting tryptophan to melatonin.
-   - **Muscle Cramps**: Common symptom indicating a need for calcium supplementation (e.g., calcium lactate or citrate).
-   - **Brittle Nails, Tooth Decay, Bone Loss**: Related to inadequate calcium intake affecting structural health.
-   - **Red Purple Spots**: Associated with blood clotting issues.
-   - **Tetany**: Muscle twitching due to low alkaline levels affecting calcium utilization.
-   - **Paresthesia**: Pins and needles sensation around the mouth, hands, or feet, which can also mimic diabetic symptoms.
+---
 
-3. **Causes of Calcium Deficiency**
-   - Hypoparathyroidism: Underactivity of parathyroid glands leading to low calcium levels.
-   - Kidney Damage: Impaired kidney function affecting calcium absorption and regulation.
-   - Use of Calcium Channel Blockers: Medications used for high blood pressure that interfere with calcium utilization.
-   - Antacid Use: Reduction in stomach acid necessary for mineral absorption.
-   - Vomiting or Diarrhea: Fluid loss leading to nutrient depletion.
-   - Excessive Magnesium Intake: Imbalance when magnesium intake exceeds calcium, disrupting their协同作用.
-   - Low Vitamin D Levels: Essential for calcium absorption; influenced by diet, sunlight exposure, and bile production.
-   - Alkalosis: Overly alkaline blood pH due to adrenal stress and high cortisol levels affecting calcium availability.
+#### 2. 主要觀念
+- Calcium 不僅影響骨骼健康，還與激素合成（如 melatonin）、神經肌肉功能等相關。
+- 骨骼健康與多種因素相互作用，包括维生素 D、parathyroid glands 等。
 
-#### Solutions and Health Recommendations
-1. **Dietary Sources of Calcium**
-   - Include grass-fed dairy (cheese), leafy greens (spinach, bok choy, kale), nuts, seeds, and fish (e.g., sardines).
+---
 
-2. **Supplementation**
-   - Opt for calcium lactate or citrate for better absorption.
-   - Avoid calcium carbonate due to poor bioavailability.
+#### 3. 問題原因
+- **hypoparathyroidism**：甲状旁腺功能減退導致 calcium 水平降低。
+- **腎臟損害**：影響 calcium 的吸收和代謝。
+- **Calcium channel blockers**：某些高血壓藥物干擾 calcium 的利用。
+- **抗酸劑的使用**：抑制胃酸分泌，影響 mineral 吸收。
+- **惡性痢疾或嘔吐**：導致體液丟失，間接影響 calcium 水平。
+- **過量攝取 magnesium**：干擾 calcium 平衡。
+- **低 vitamin D 水平**：影響 calcium 的吸收。
+- **胃酸不足**：削弱 mineral 的消化吸收能力。
+- **代謝性鹼中毒（alkalosis）**：血液 pH 過高，影響 calcium 的可用性。
 
-3. **Lifestyle Adjustments**
-   - Ensure adequate vitamin D through sunlight exposure or dietary sources.
-   - Maintain a balanced intake of magnesium and calcium.
-   - Address low stomach acid by consuming acidic foods or supplements to enhance mineral absorption.
+---
 
-4. **Medical Considerations**
-   - Consult healthcare providers for conditions like hypoparathyroidism or kidney damage affecting calcium levels.
-   - Monitor the use of medications (e.g., calcium channel blockers, antacids) that may impact calcium balance.
+#### 4. 解決方法
+- **飲食調整**：
+  - 增加富含 calcium 的食物攝取：如草飼乳酪、深綠色蔬菜（菠菜、羽衣甘藍）、堅果、種子、沙丁魚等。
+- **補充劑選擇**：
+  - 選用 calcium lactate 或 calcium citrate，因其吸收率較高。
+  - 避免 calcium carbonate，因吸收效果差。
+- **恢復胃酸水平**：通過飲食或 Supplements 調節胃酸。
+- **維生素 D 补充**：確保足夠的 vitamin D 來源，如日光照射或補充劑。
+- **平衡 mineral 取**：避免過量 magnesium 干擾 calcium 的作用。
 
-#### Conclusion
-- Calcium deficiency can manifest through various physical and hormonal imbalances, highlighting the need for a holistic approach to nutrition and health management. Addressing underlying causes, maintaining a balanced diet, and cautious supplementation are key strategies to prevent and mitigate calcium deficiency.
+---
+
+#### 5. 健康建議
+- 定期評估 calcium、vitamin D 和其他相關 nutrient 的水平。
+- 避免濫用抗酸劑，保持胃酸的正常功能。
+- 注意觀察症狀，如失眠、肌肉痙攣等，及時調整飲食或就醫。
+
+---
+
+#### 6. 結論
+Calcium deficiency 可能導致多種健康問題，但通過飲食調整和適當補充，可以有效預防和改善。關鍵在於平衡 mineral 摄取，並注意相關健康指標的變化。
+
+---
+
+### 中文摘要
+
+本文探討了 calcium deficiency 的症狀、原因及解決方法。主要指出 calcium 不僅影響骨骼健康，還涉及激素合成和神經肌肉功能。缺鈣的原因包括 hypoparathyroidism、腎臟損害、使用某些藥物（如 calcium channel blockers）、胃酸不足等。建議通過飲食攝取富含 calcium 的食物（如乳酪、深綠色蔬菜、堅果），並選擇吸收率高的補充劑（如 calcium lactate 或 citrate）。此外，應避免濫用抗酸劑，保持胃酸水平，並注意維生素 D 和其他 mineral 的平衡。總結而言，通過飲食調整和適當補充，可以有效預防和改善 calcium deficiency。
 </details>
 
 <details>
