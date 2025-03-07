@@ -578,61 +578,48 @@
         alt="[Youtube]" width="200">
 </a>
 
-### 中文整理： glycemic index and glycemic load 的區別
+### 文章重點整理
 
-#### 核心主題: 確定食物中碳水化合物對血糖影響的不同衡量標準  
-- 介紹兩個主要指標：糖分指數（Glycemic Index, GI）和糖分負荷（Glycemic Load, GL）。  
-- 强調這兩個概念在評估食物如何影響血糖水平上的重要性。  
+#### 核心主題
+- 探讨碳水化合物对血糖的影响。
+- 区分和比较两种衡量指标：** glycemic index (GI) ** 和 ** glycemic load (GL) **。
 
-#### 主要觀念: 糖分指數 (GI) 與糖分負荷 (GL) 的定義與差異  
-- **糖分指數 (GI):** 衡量食物中碳水化合物被消化並進入血液的速度，反映了食物引起血糖上升的快慢程度。  
-- **糖分負荷 (GL):** 量化食物中可攝取的碳水化合物含量，調整了膳食纖維和糖類的比例，強調了食物攝取量對血糖影響的整體效果。  
+#### 主要觀念
+1. **glycemic index (GI)**:
+   - 衡量食物中碳水化合物被消化并进入血液的速度及其对血糖的影响。
+   - 分級標準：
+     - 55 或以下：低 GI。
+     - 56 至 69：中等 GI。
+     - 70 或以上：高 GI。
 
-#### 問題原因: 素食選擇中的常見混淆  
-- 很多人不了解 GL 的概念，容易只根據 GI 來評估食物的健康性。  
-- 高 GI 食物不一定代表高 GL，某些高纖維食物雖有高 GI，但其/GL/ 可能較低，對血糖影響不大。  
+2. **glycemic load (GL)**:
+   - 衡量食物中碳水化合物的實際含量及其對血糖的影響。
+   - 分級標準：
+     - 10 或以下：低 GL。
+     - 10 至 20：中等 GL。
+     - 超過 20：高 GL。
 
-#### 解決方法: 如何綜合考慮 GI 和 GL  
-- 使用兩個指標共同評估食物的血糖反應：  
-  - **GI** 確定碳水化合物吸收速度。  
-  - **GL** 確定碳水化合物攝取量及其對血糖的影響。  
+#### 問題原因
+- 很多人混淆了 GI 和 GL，導致對食物對血糖影響的理解不全面。
+- 部分高 GI 的食物（如生 carrots）可能因纖維含量高而實際上對血糖影響較小。
 
-#### 健康建議: 適當選擇食物以平衡血糖水平  
-- 選擇低 GI 和中等 GL 的食物，避免高GI和高GL的組合攝取。  
-- 注意膳食纖維的作用，增加高纖維食物攝取量，降低血糖波動。  
+#### 解決方法
+1. 理解 GI 和 GL 的區別及其計算方式：
+   - **GI**：反映食物中碳水化合物被消化的速度。
+   - **GL**：綜合考慮食物的份量和纖維含量，更准確地衡量血糖影響。
 
-#### 結論: 理解 GI 和 GL 的重要性對健康飲食至關重要  
-- 遭受血糖問題的人群更應該注意這兩個指標的綜合應用。  
-- 飲食結構需根據個人狀況調整，建議諮詢專業營養師。  
+2. 注意食物的實際營養成分，尤其是纖維含量：
+   - 纖維可以降低食物進入血液的速度，從而減輕對血糖的衝擊。
 
----
+#### 健康建議
+1. 選擇食物時綜合考慮 GI 和 GL。
+2. 減少高 GL 的精緻碳水化合物攝取（如糖果、甜食）。
+3. 多攝取富含纖維的食物以降低血糖波動。
+4. 注意食物的實際份量，即使是低 GI 或低 GL 的食物也需 moderation。
 
-### English Summary: Differences Between Glycemic Index and Glycemic Load
-
-#### Core Theme: Determining the Impact of Carbohydrates on Blood Sugar Levels  
-- Introduce two key metrics: Glycemic Index (GI) and Glycemic Load (GL).  
-- Emphasize their importance in assessing how food affects blood sugar levels.  
-
-#### Key Concepts: Definitions and Differences Between GI and GL  
-- **Glycemic Index (GI):** Measures the rate at which carbohydrates are digested and enter the bloodstream, reflecting how quickly a food raises blood sugar levels.  
-- **Glycemic Load (GL):** Quantifies the amount of digestible carbohydrates in a food portion, adjusted for fiber content, indicating the overall impact on blood sugar.  
-
-#### Issues Arising from Misconceptions: Confusion in Food Choices  
-- Many people are unaware of GL and rely solely on GI to assess food healthiness.  
-- High GI foods don't necessarily mean high GL; some high-fiber foods may have a high GI but low GL, resulting in minimal blood sugar impact.  
-
-#### Solutions: Incorporating Both GI and GL for Better Assessment  
-- Use both metrics together to evaluate blood sugar response:  
-  - **GI** determines carbohydrate absorption speed.  
-  - **GL** determines the overall effect of carbohydrate intake on blood sugar.  
-
-#### Health Recommendations: Balanced Food Selection for Blood Sugar Control  
-- Choose low GI and moderate GL foods, avoiding combinations of high GI and high GL.  
-- Increase fiber intake with high-fiber foods to reduce blood sugar fluctuations.  
-
-#### Conclusion: Understanding GI and GL is Crucial for Healthy Eating  
-- Individuals with blood sugar issues should prioritize the use of these metrics.  
-- Dietary choices should be personalized,建议 consulting a nutritionist for tailored advice.
+#### 結論
+- 深入理解 GI 和 GL 可幫助更科學地管理血糖水平。
+- 飲食選擇應該基於個人血糖反應和整體營養需求，而非單一指標。
 </details>
 
 <details>
