@@ -670,113 +670,617 @@
 </details>
 
 <details>
-<summary>739. Spinach Benefits and Caution Explained By Dr. Berg</summary><br>
+<summary>739. [2017-03-20] Spinach Benefits and Caution Explained By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=dLeBWe-7kQ4" target="_blank">
     <img src="https://img.youtube.com/vi/dLeBWe-7kQ4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：菠菜的營養價值與潛在風險
 
+#### 主要觀念：
+1. **营养价值**：
+   - 菠菜富含鐵、鎂、維生素A（前维生素A）、維生素K、葉綠素、維生素C、葉酸、B2和B6。
+   - 具有抗氧化作用，含有多種植物化學物質，如花青素、類胡蘿蔔素和玉米黃質，對眼睛健康有益。
+
+2. **潛在風險**：
+   - 菠菜富含草酸（oxalates），可能增加腎結石的風險。
+   - 燉煮過度會導致營養成分流失。
+
+#### 問題原因：
+- 草酸含量高：草酸可能與鈣結合，形成腎結石。
+- 燉煮方式不當：過度燉煮會破壞菠菜中的營養成分。
+
+#### 解決方法：
+1. **降低腎結石風險**：
+   - **蒸煮**：適當蒸煮可降低草酸含量而不至於過度破壞營養素。
+   - **搭配檸檬汁**：檸檬汁中的酸性物質可中和草酸，降低結石風險。
+   - **攝取枸櫞酸鹽補充劑**：枸櫞酸鹽可與草酸結合，防止其吸收。
+   - **攝取鈣質**：來源於奶酪等食物的鈣質可在消化系統中結合草酸，降低腎結石風險。
+
+2. **保留營養成分**：
+   - 避免過度燉煮，以保持菠菜的营养价值。
+   - 選擇適當的烹調方式，如蒸煮或涼拌。
+
+#### 健康建議：
+- 遊び食べる時は、以下のポイントを考慮する：
+  - **選擇有機菠菜**：商業栽培的菠菜可能受DDT等 pesticide 影響，應優先選擇有機產品。
+  - **控制攝取量**：特別是腎結石患者，應 moderation 摂取。
+  - **均衡飲食**：將菠菜與富含鈣質的食物一起食用，並搭配酸性食物（如檸檬汁）以降低風險。
+
+#### 結論：
+菠菜是一種營養豐富的蔬菜，但其草酸含量可能增加腎結石患者的风险。通過適當的烹調方式和飲食搭配，可以有效降低這些風險，充分發揮其健康益處。
 </details>
 
 <details>
-<summary>738. Understanding Ulcers: How Do You Know If You Have One? – Dr. Berg</summary><br>
+<summary>738. [2017-03-19] Understanding Ulcers: How Do You Know If You Have One? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ktAgFEVmcNo" target="_blank">
     <img src="https://img.youtube.com/vi/ktAgFEVmcNo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **胃潰瘍的成因與診斷**  
+- **胃潰瘍的治療方法與康復建議**
 
+---
+
+### 主要觀念
+1. 胃潰瘍是消化道黏膜受損形成的「holes」，屬於較為嚴重的問題。
+2. 燃燒感（尤其是在空腹時）和進食後短暫 relief 是胃潰瘍的典型症狀。
+3. 需要區分胃潰瘍與低胃酸，以避免錯誤的治療方法。
+
+---
+
+### 問題原因
+1. **藥物因素**：長期使用阿司匹林、布洛芬等非甾體抗炎藥（NSAIDs）會損害胃黏膜。
+2. **飲食習慣**：
+   - 高消耗精制食品（如白麵包、義大利麵），缺乏維生素E，導致胃酸失衡。
+   - 過量攝取咖啡因和酒精。
+3. **幽門螺杆菌（H pylori）感染**：當胃酸 pH 值偏鹼時，容易滋生此菌，進一步損害胃黏膜。
+
+---
+
+### 解決方法
+1. **避免刺激物**：
+   - 減少或戒除咖啡、酒精的攝取。
+   - 避免使用會損害胃黏膜的藥物（如NSAIDs）。
+2. **修復胃黏膜**：
+   - ** cabbage 及其制品（如椰菜汁、酸椰菜）富含 L-谷氨酰胺，有助於修復胃黏膜。
+   - **小麥草汁中的葉綠素**具備促進癤瘍愈合的特性。
+
+---
+
+### 健康建議
+1. **短期治療方案**：
+   - 服用西洋кусяк （可憐的酸度增加劑，如蘇打水和蘋果醋）以幫助修復。
+   - 避免直接向潰瘍部位添加酸性物質（如蘋果 cider vinegar），以免加重病情。
+2. **長期康復計劃**：
+   - 連續服用 cabbage 汁或相關制品至少 3 個月，以完全修復胃黏膜。
+   - 減少精制食品攝取，增加膳食纖維和營養均衡的飲食。
+3. **酸化管理**：
+   - 在康復後逐步恢復胃酸酸度，避免過度依賴酸性補充劑。
+
+---
+
+### 結論
+- 胃潰瘍是多因素引起的消化道問題，需綜合治療。
+- 通過修復胃黏膜、避免刺激物和飲食調整，可以有效康複。
+- 適當的自然療法（如 cabbage 汁和小麥草汁）能幫助恢復健康，但需配合醫生建議。
 </details>
 
 <details>
-<summary>737. Heart Attack Signs: 1 MINUTE TEST – Dr. Berg</summary><br>
+<summary>737. [2017-03-18] Heart Attack Signs: 1 MINUTE TEST – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=rSiS9qkJUU0" target="_blank">
     <img src="https://img.youtube.com/vi/rSiS9qkJUU0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- **心血管健康評估**：介紹了一種簡單的一分鐘測試方法，用於評估個人是否處於心臟病發風險。  
+- **脈搏恢復能力**：強調了身體在運動後恢復至正常脉搏的能力，作為評估心臟健康的關鍵指標。
 
+### 主要觀念  
+1. **正常靜息脈搏率**：一般為每分鐘72次，但因人而異。  
+2. **高強度運動測試**：進行一次全身體力活動（約70%-80%的最大努力），持續一分鐘，以激發最大心率。  
+3. **脈搏恢復速度**：運動後一分鐘內的脈搏下降幅度是評估心血管健康的重要指標。  
+
+### 問題原因  
+- **低脈搏恢復能力**：若運動後一分鐘內脉搏下降不足12次，可能表明心臟恢復能力較弱，增加心臟病發風險。  
+- **自主神經系統失衡**：主要原因是副交感神經系统的功能減退，導致身體在壓力或運動後無法有效恢復。  
+
+### 解決方法  
+1. **間歇性訓練**：進行短暫的高強度運動後充分休息，以提升心臟的恢復能力。  
+2. **綜合健康生活方式**：包括充足睡眠、均衡飲食和長時間散步等，這些都有助於增強副交感神經系統的功能。  
+
+### 健康建議  
+- 定期進行自我測試，評估脈搏恢復情況，及時發現並改善心臟健康問題。  
+- 関注身體的主動恢復過程，將其納入日常健康管理中。  
+
+### 結論  
+- 脈搏恢復能力是衡量心血管健康的關鍵指標，有效的恢復機制能顯著降低心臟病發風險。  
+- 副交感神經系統在身體恢復中起著至關重要的作用，增強其功能對於整體健康至為重要。
 </details>
 
 <details>
-<summary>736. How to Stop Bedwetting in Children? – Dr.Berg</summary><br>
+<summary>736. [2017-03-17] How to Stop Bedwetting in Children? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HbhcGOGScAU" target="_blank">
     <img src="https://img.youtube.com/vi/HbhcGOGScAU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 討論兒童夜間尿床（bed wetting）的原因及解決方法。
+- 强調問題與成人夜間起牀如廁的原因相似，主要涉及胰島素抵抗（insulin resistance）。
 
+### 主要觀念
+1. **病因分析**： 
+   - 夜間尿床的根本原因是胰島素水平過高。
+   - 胰島素不僅調節血糖，還影響體液分布，導致夜間尿量增加。
+   - 長期胰島素抵抗會使身體對胰島素的敏感性降低，進而引發更多胰島素分泌。
+
+2. **臨床表現**： 
+   - 胰島素抵抗的症狀包括疲勞、易怒、不能長時間不进食等。
+   - 這些症狀在兒童身上可能表現為夜間尿床和情緒問題。
+
+### 問題原因
+- 高糖飲食（尤其是含精制糖的食物）是胰島素抵抗的主要誘因。
+- 現代飲食習慣中過多的零食、淀粉類食物和缺乏蔬菜攝取，進一步惡化了 insulin resistance 的情況。
+
+### 解決方法
+1. **飲食調整**： 
+   - 消除高糖食品，限制精制碳水化合物的攝取。
+   - 采用三餐制，避免零食，確保每餐包含足夠的營養、健康脂肪和蛋白質。
+
+2. **營養補充**： 
+   - 增加蔬菜攝取，特別是富含鉀的蔬菜（如菠菜、羽衣甘蓝），以幫助恢復胰島素敏感性。
+   - 使用酮 bomb 等低脂高營養食品作為健康零食，幫助兒童在進餐間保持滿足感。
+
+3. **補充劑建議**： 
+   - 添加含鉻和B族維生素的營養酵母，以支持健康的胰島素水平。
+   - 考慮使用含有礦物質和維生素的綜合補充劑，以改善兒童的整體健康狀況。
+
+### 健康建議
+1. **飲食結構**： 
+   - 每餐應包含蔬菜、健康脂肪（如 nuts, avocados）和蛋白質（3-6盎司），避免淀粉類和穀物。
+   - 使用蔬菜奶昔作為兒童攝取營養的一種方式，隱藏不愛吃蔬菜的問題。
+
+2. **生活習慣**： 
+   - 限制零食攝取，保持規律的進餐時間。
+   - 鼓勵健康的生活方式，避免高糖食品和加工食品。
+
+### 總結
+- 夜間尿床的根本原因是胰島素抵抗，需通過飲食調整來解決。
+- 建議家長實施三餐制、增加蔬菜攝取、限制精制碳水化合物，並適當補充營養素以恢復兒童的血糖和胰島素調節能力。
+- 這些方法不僅能改善夜間尿床問題，還能提升兒童整體健康狀況。
 </details>
 
 <details>
-<summary>735. How to Lose Belly Fat FAST – Quick Belly Fat Loss – Dr.Berg</summary><br>
+<summary>735. [2017-03-16] How to Lose Belly Fat FAST – Quick Belly Fat Loss – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=aHKaygC0PnQ" target="_blank">
     <img src="https://img.youtube.com/vi/aHKaygC0PnQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：如何有效消除腹部脂肪
 
+#### 核心主題
+- 腹部肥胖的原因及綜合解決方案。
+- 影響體重和脂肪分布的因素。
+
+#### 主要觀念
+1. **飲食結構**：
+   - 高糖、高脂 diets 导致 fat accumulation。
+   - 適當的卡路里攝取是關鍵。
+
+2. **代謝速率**：
+   - 低代謝率會影響 fat 燃燒效率。
+   - 年齡增加導致新陳代謝減慢。
+
+3. **荷爾蒙平衡**：
+   - 腸道菌群不平衡干擾脂肪分解。
+   - 胰島素抵抗及激素失衡（如雌激素、皮質醇）影響 fat 分布。
+
+4. **生活方式因素**：
+   - 靜坐時間長與肥胖相關。
+   - 睡眠不足或紊亂干擾代謝。
+
+5. **壓力管理**：
+   - 高壓導致皮質醇分泌增加，促進脂肪儲存。
+
+6. **環境和食物因素**：
+   - 食物添加劑（如MSG）和防腐劑可能影響健康。
+   - 外食和加工食品攝取過多。
+
+#### 問題原因
+1. **飲食因素**：
+   - 不良飲食習慣：高糖、高脂、高熱量。
+   - 遊牧飲食模式和不規律進餐。
+
+2. **代謝失衡**：
+   - 低代謝率和新陳代謝紊亂。
+
+3. **荷爾蒙干擾**：
+   - 腸道菌群不平衡和激素失衡。
+
+4. **生活方式**：
+   - 缺乏運動與久坐。
+   - 睡眠不足或紊亂。
+
+5. **壓力影響**：
+   - 高壓導致皮質醇分泌增加，促進脂肪堆積。
+
+6. **環境干擾**：
+   - 食物添加劑和加工食品的影響。
+
+#### 解決方法
+1. **飲食調整**：
+   - 低糖、高纖維 diet。
+   - 增加蛋白質攝取以提升代謝率。
+   - 減少加工食品，避免MSG和其他有害添加劑。
+
+2. **運動計劃**：
+   - 結合有氧和力量訓練以提高代謝率。
+   - 適當的高強度間歇訓練（HIIT）。
+
+3. **睡眠管理**：
+   - 保持規律的睡眠模式，7-9小時/晚。
+   - 興趣閱讀或冥想促進睡眠品質。
+
+4. **壓力管理**：
+   - 深呼吸、瑜伽、冥想等放鬆技巧。
+   - 避免新聞和高壓情境。
+
+5. **荷爾蒙平衡**：
+   - 保持腸道健康，益生菌攝取。
+   - 調節激素水平，特別是女性的月經週期管理。
+
+6. **環境控制**：
+   - 减少外出就餐，自制餐點。
+   - 選擇無MSG和天然食品。
+
+7. **恢復與休息**：
+   - 適當安排運動強度，避免過度訓練。
+   - 確保足夠的恢復時間。
+
+#### 健康建議
+1. **飲食習慣**：
+   - 減少精製糖和反式脂肪攝取。
+   - 多食用高纖維食物如全穀物、蔬菜和水果。
+
+2. **運動頻率**：
+   - 每周至少150分鐘中等強度有氧運動或75分鐘高强度活動。
+   - 進行力量訓練以增加肌肉量，提升代謝率。
+
+3. **睡眠衛生**：
+   - 維持固定的睡覺和起床時間。
+   - 避免睡前使用電子產品，創造良好的.sleep environment.
+
+4. **壓力管理**：
+   - 使用放鬆技巧如冥想、瑜伽來降低壓力水平。
+   - 建立健康的生活習慣以避免壓力積累。
+
+5. **腸道健康管理**：
+   - 取益生菌以保持腸道菌群平衡。
+   - 多喝水和食用高纤维食物以促進消化系統健康。
+
+6. **月經周期管理**：
+   - 確保月經週期規律，避免雌激素過多的問題。
+   - 如有不適，及時諮詢醫生。
+
+7. **環境控制**：
+   - 學會閱讀食品標籤，避免含有MSG和其他有害添加劑的食物。
+   - 减少外出就餐 frequency，自制健康餐點。
+
+8. **恢復與休息**：
+   - 適當安排運動計劃，避免過度訓練。
+   - 確保充分的恢復時間，促進身體修復。
+
+#### 總結
+消除腹部脂肪需要綜合調整飲食、運動、睡眠和壓力管理等多方面因素。通過健康的生活方式和持續的努力，可以有效達到減肥和保持苗條的效果。
 </details>
 
 <details>
-<summary>734. 7 Tips to Lower Uric Acid – Dr. Berg</summary><br>
+<summary>734. [2017-03-15] 7 Tips to Lower Uric Acid – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Qz4DmHvRDgg" target="_blank">
     <img src="https://img.youtube.com/vi/Qz4DmHvRDgg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 降低尿酸水平及其重要性，特別是對预防和治疗痛風和腎结石的作用。
+
+#### 主要觀念
+1. 尿酸是蛋白質代謝的最終產物，過高會導致關節炎症（如痛風）和腎臟問題。
+2. 高果糖玉米 syrup 等含糖飲料及高糖食品是尿酸升高的主要來源之一。
+3. 過量攝取肉類蛋白質也可能增加尿酸水平。
+
+#### 問題原因
+1. **飲食因素**：
+   - 高果糖玉米糖漿（常見於汽水和加工食品）。
+   - 高糖食品的攝入。
+2. **生理狀況**：
+   - 酮症（ketosis）可能增加尿酸水平。
+   - 過度節食或使用利尿劑也可能導致尿酸升高。
+
+#### 解決方法
+1. **藥物治療**：
+   - 使用 potassium citrate 以快速降低尿酸水平，幫助中和尿酸 crystals。
+2. **飲食調整**：
+   - 減少高果糖玉米糖漿和高糖食品的攝入。
+   - 增加蔬菜攝取，以提供必要的鉀和其他營養素，並幫助調節 pH 平衡。
+
+#### 健康建議
+1. 在進行酮式飲食（ketosis）時，應搭配大量蔬菜攝取，避免單純依赖脂肪燃燒導致尿酸升高。
+2. 維持均衡飲食，限制高糖和高蛋白質的加工食品攝取。
+3. 如有腎臟問題或痛風病史，建議諮詢醫生後再進行酮式飲食或其他節食計劃。
+
+#### 結論
+- 降低尿酸水平需綜合考慮飲食結構調整和藥物治療，特別是在進行特殊飲食計劃如酮式飲食時，更應注意飲食均衡。
+- 頻繁攝取高糖食品和含糖飲料會顯著增加尿酸水平，導致相關健康問題。
 </details>
 
 <details>
-<summary>733. The Best Vitamin K2 Foods – Dr. Berg</summary><br>
+<summary>733. [2017-03-14] The Best Vitamin K2 Foods – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=1AHdm6xRN1A" target="_blank">
     <img src="https://img.youtube.com/vi/1AHdm6xRN1A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **维生素K2的重要性**：探讨维生素K2的功能及其对人体健康的影响。
 
+### 主要觀念
+1. **维生素K1与维生素K2的区别**：
+   - 维生素K1主要参与血液凝固功能。
+   - 维生素K2负责钙的代谢，特别是将多余的钙从软组织中转移到骨骼。
+
+2. **维生素K2的功能**：
+   - 促进钙的正确代谢，防止钙在动脉、关节等部位沉积。
+   - 减少心血管疾病和骨质疏松的风险。
+
+3. **维生素K2的来源**：
+   - 动物性食品：草饲黄油、肉类、乳制品（如硬奶酪和软奶酪）、鹅肝、鸡肝、萨拉米香肠和蛋黄。
+   - 植物性食品：纳豆（发酵大豆产品）、泡菜和味噌。
+
+### 問題原因
+- **维生素K2缺乏的原因**：
+  - 长期避免高脂肪食物，导致摄入不足。
+  - 不健康饮食习惯，如过量消费糖分和酒精。
+
+### 解決方法
+1. **增加维生素K2的摄入**：
+   - 消费富含维生素K2的食物，特别是动物性食品。
+   - 对于素食者和严格素食主义者，可以选择纳豆等发酵食品。
+
+2. **改善饮食习惯**：
+   - 减少糖分和酒精的摄入，以提高整体健康水平。
+
+### 健康建議
+- **均衡饮食**：结合富含维生素K2的食物和其他营养成分，确保全面健康。
+- **适量消费**：合理食用高脂肪食品，避免极端节食导致营养失衡。
+
+### 結論
+- **维生素K2的重要性**：强调维生素K2在钙代谢中的关键作用，及其对预防心血管疾病和骨质疏松的重要意义。
+- **饮食调整的必要性**：建议重新审视传统饮食观念，合理摄入包括高脂肪食品在内的多样化食物，以改善整体健康状况。
+
+---
+
+### English Version
+
+### Core Theme
+- **The Importance of Vitamin K2**: Explores the functionality and impact of vitamin K2 on human health.
+
+### Key Concepts
+1. **Difference Between Vitamin K1 and Vitamin K2**:
+   - Vitamin K1 primarily involved in blood clotting.
+   - Vitamin K2 responsible for calcium metabolism, particularly moving excess calcium from soft tissues to bones.
+
+2. **Functions of Vitamin K2**:
+   - Promotes correct calcium metabolism, preventing calcium deposits in arteries, joints, etc.
+   - Reduces the risk of cardiovascular diseases and osteoporosis.
+
+3. **Sources of Vitamin K2**:
+   - Animal-based foods: Grass-fed butter, meats, dairy products (e.g., hard cheese and soft cheese), goose liver, chicken liver, salami, and egg yolk.
+   - Plant-based foods: Natto (fermented soy product), sauerkraut, and miso.
+
+### Problem Causes
+- **Causes of Vitamin K2 Deficiency**:
+  - Long-term avoidance of high-fat foods leading to insufficient intake.
+  - Unhealthy dietary habits such as excessive consumption of sugar and alcohol.
+
+### Solutions
+1. **Increasing Vitamin K2 Intake**:
+   - Consume vitamin K2-rich foods, especially animal-based products.
+   - For vegans and vegetarians, opt for natto and other fermented soy products.
+
+2. **Improving Dietary Habits**:
+   - Reduce intake of sugar and alcohol to enhance overall health.
+
+### Health Recommendations
+- **Balanced Diet**: Combine vitamin K2-rich foods with other nutrients for comprehensive health.
+- **Moderate Consumption**: Eat high-fat foods in moderation to avoid nutritional imbalances due to excessive dieting.
+
+### Conclusion
+- **Importance of Vitamin K2**: Emphasizes the crucial role of vitamin K2 in calcium metabolism and its significance in preventing cardiovascular diseases and osteoporosis.
+- **Necessity of Dietary Adjustments**: Advocates for reevaluating traditional dietary views, incorporating a variety of foods including high-fat items, to improve overall health.
 </details>
 
 <details>
-<summary>732. How To Fix Enlarged Prostate Explained By Dr. Berg</summary><br>
+<summary>732. [2017-03-14] How To Fix Enlarged Prostate Explained By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=tTEYCKFI01E" target="_blank">
     <img src="https://img.youtube.com/vi/tTEYCKFI01E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：前列腺健康與荷爾蒙平衡
 
+#### 主要觀念：
+1. **前列腺肥大的迷思**：
+   - 傳統認為過多的睾酮（尤其是DHT）導致前列腺肥大，但事實上DHT被用於治療前列腺肥大。
+   - 隨著年齡增長， testosterone水平下降，前列腺肥大與testosterone水平無直接關聯。
+
+2. **荷爾蒙平衡的重要性**：
+   - 男性體內的雌激素（estrogen）和睾酮共同作用，且隨著年齡增長，testosterone降低而estrogen相對升高。
+   - 高水平的雌激素導致前列腺肥大及其他健康問題。
+
+3. **雌激素來源**：
+   - 體內自行合成：腎上腺 glands 和脂肪組織（脂肪組織可轉化為雌激素）。
+   - 外來食物來源：含外源性雌激素的食物和農藥（如GMO食品、大豆、玉米等）。
+
+#### 問題原因：
+1. **前列腺肥大的主要原因**：
+   - 體內雌激素水平過高，而非睾酮水平過高。
+   - 年齡導致的testosterone降低和estrogen相對升高。
+
+2. **外來雌激素的影響**：
+   - 消費含 estrogen 的食物（如 GMO 素食、 pesticide 殘留的食品）。
+   - 高脂肪量增加体内雌激素合成。
+
+3. **健康風險**：
+   - 雌激素過高與多種癌症（前列腺癌、乳腺癌、子宮頸癌、甲狀腺癌等）相關。
+   - 增加炎症反應和免疫抑制作用。
+
+#### 解決方法：
+1. **飲食調整**：
+   - 減少攝取含外源性雌激素的食物：選擇非 GMO、無污染的食品，避免加工食品。
+   - 增加 cruciferous 蔬菜（如西兰花、捲心菜、甘藍等）攝取量，這些食物含有化合物可幫助排毒和降低 estrogen水平。
+
+2. **補充劑推薦**：
+   - **Stinging Nettle Root**：作為芳香酶抑制劑，有效降低雌激素水平，並具有抗炎功效。
+   - **Seek Help**：可能指某些補充劑或藥物，具備降低 estrogen 和促進前列腺健康的作用。
+
+3. **生活方式建議**：
+   - 管理血糖水平，改善夜間尿频問題。
+   - 減少體脂以降低体内雌激素合成。
+
+#### 健康建議：
+1. 飲食方面：
+   - 採用有機食品，避免 GMO 和 pesticide 殡失的食品。
+   - 確保每日攝取足量的十字花科蔬菜或其他含有排毒化合物的食物。
+
+2. 補充劑使用：
+   - 使用 Stinging Nettle Root 补充劑，建議劑量為每天雙倍。
+   - 考慮其他芳香酶抑制劑來降低雌激素水平。
+
+3. 生活方式調整：
+   - 管理血糖和血脂水平，以減少前列腺健康問題。
+   - 減少酒精攝取和避免菸草，這些因素可能加重前列腺肥大。
+
+#### 结論：
+前列腺肥大的主要原因在於體內雌激素過高而非睾酮水平過高。解決此問題需要調整飲食結構、使用適當的補充劑以及管理整體荷爾蒙平衡。通過降低雌激素水平和改善生活方式，可以有效預防和治療前列腺相關健康問題。
+
+---
+
+此整理內容為正式學術用語下的客觀歸納，涵蓋了文章的核心主題、主要觀念、問題原因、解決方法、健康建議及結論。
 </details>
 
 <details>
-<summary>731. Why Apple Cider Vinegar Works for Weight Loss – Dr.Berg</summary><br>
+<summary>731. [2017-03-14] Why Apple Cider Vinegar Works for Weight Loss – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=SzE3YxKZNRk" target="_blank">
     <img src="https://img.youtube.com/vi/SzE3YxKZNRk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 探讨苹果醋在体重管理中的作用及其科学依据。
 
+### 主要觀念
+1. 苹果醋的主要活性成分是乙酸（Acetic Acid）。
+2. 乙酸通过改善胰岛素抵抗和降低血糖水平来辅助体重管理。
+3. 胰岛素是导致体重增加的关键激素，任何能改善胰岛素功能的方法都有助于减重。
+
+### 問題原因
+- 传统上认为苹果醋的营养成分直接导致减重，实际上其主要作用机制与代谢调节有关。
+
+### 解決方法
+1. **摄入方式**：每日建议服用一至两 tablespoons（约15-30毫升）的苹果醋，可加入水中稀释。
+2. **时间选择**：
+   - 早晨和晚上空腹时饮用。
+   - 餐后饮用以辅助消化，特别是对有消化问题的人群。
+   - 晚间饮用可能有助于稳定血糖。
+
+### 健康建議
+1. 选择无添加的有机苹果醋以避免额外糖分和化学物质。
+2. 可根据个人口味加入天然甜味剂如蜂蜜或液态甜叶菊（Stevia），但注意控制糖分摄入。
+3. 对于儿童或不希望摄入额外糖分的人群，建议直接饮用稀释的苹果醋。
+
+### 結論
+- 苹果醋通过调节胰岛素和血糖水平来辅助体重管理，是一种简单易行的健康补充方法。
 </details>
 
 <details>
-<summary>730. Insomnia, Depression & Anxiety Explained By Dr.Berg</summary><br>
+<summary>730. [2017-03-13] Insomnia, Depression & Anxiety Explained By Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=bS3Ho6ltF78" target="_blank">
     <img src="https://img.youtube.com/vi/bS3Ho6ltF78/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+1. **心理健康問題**：文章主要探討 депресия、 тревога та інших психічних ураженнях.
+2. **替代治療方法**：強調自然療法與生活方式的改變在心理健康的應用。
+3. **新興醫療技術的風險**：警示深腦刺激等新興治療手段的潛在危害。
+
+#### 主要觀念
+1. **傳統藥物療效有限**：文章指出抗抑鬱藥物如Prozac對部分患者效果不明顯，甚至可能引發副作用。
+2. **新興治療技術的安全性問題**：強調深腦刺激等新技術缺乏足夠的科學研究與安全測試。
+3. **自然療法的重要性**：提倡通過營養、運動、環境改變等方式來改善心理健康。
+
+#### 問題原因
+1. **藥物依賴性**：傳統抗抑鬱藥物可能導致患者對藥物依賴，並未能从根本解決問題。
+2. **新技術濫用**：醫學界在追求治療效果的過程中，忽略新技術的安全性和倫理性。
+3. **環境與人際影響**：壓力源、不良人際關係等外部因素嚴重影響心理健康。
+
+#### 解决方法
+1. **營養調整**：
+   - 补充鎂和鈣：幫助緩解焦慮和改善睡眠。
+   - 增加鎂攝取：可通過食物或補充劑來實現。
+   - 平衡飲食：避免過度攝入咖啡因和糖分，保持均衡營養。
+
+2. **生活方式改變**：
+   - 觀光旅遊：改變環境可以有效改善情緒。
+   - 運動：規律的運動能提升endorphin水平，改善心情。
+   - 放松技巧：如冥想、瑜伽等可降低壓力水平。
+
+3. **心理疏導與人際關係管理**：
+   - 通過ounseling或心理治療來解決潛在的心理問題。
+   - 與負面人物保持距離，創造積極的社交環境。
+   - 學會壓力管理技巧，如時間管理和情緒調控。
+
+#### 健康建議
+1. **飲食與營養**：
+   - 確保每日攝取足夠的礦物質和維生素，特別是鎂、鈣和ω-3脂肪酸。
+   - 減少加工食品和高糖食物的攝取。
+
+2. **運動習慣**：
+   - 每周進行至少150分鐘中等強度有氧運動，如快走或騎車。
+   - 綜合力量訓練與心肺功能訓練，提升整體健康狀況。
+
+3. **環境管理**：
+   - 避免長期暴露於高壓力環境，適當休息和放鬆。
+   - 與支持性社交圈保持密切接觸，避免孤立無援。
+
+#### 結論
+1. **自然療法的優越性**：相比藥物治療，自然療法更安全且副作用少，應被更多人接受。
+2. **警惕新興醫療技術**：在缺乏充分研究的情況下，患者和醫生應謹慎对待新技術的應用。
+3. **綜合治療的重要性**：將心理、生理和社会因素結合起來，才能有效解決心理健康問題。
+
+### 總結
+文章強調了自然療法在改善心理健康中的重要性，並警示新興醫療技術可能帶來的风险。建議通過營養調整、生活方式改變和環境管理等多方面入手，綜合治療心理問題。
 </details>
 
 <details>

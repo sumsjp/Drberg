@@ -45,7 +45,7 @@ if not load_result:
     raise Exception(".env 檔案載入失敗")
 sender_email = os.getenv('SENDER_EMAIL')
 sender_password= os.getenv('SENDER_PASSWORD')
-# print(f"email={sender_email}, password={sender_password}")
+# logger.info(f"email={sender_email}, password={sender_password}")
 
 # receiver_emails = ["jack.wu0205@gmail.com", "mingshing.su@gmail.com", "sibuzu.ai@gmail.com"]
 receiver_emails = ["sibuzu.ai@gmail.com"]
@@ -199,7 +199,7 @@ def summerize_script():
         script_path = f"{script_dir}{script_file}"
         
         if not os.path.exists(summary_file):
-            print(f"📝 處理摘要中：{fname}")
+            logger.info(f"處理摘要中：{fname}")
             
             try:
                 # 讀取字幕檔案
@@ -213,17 +213,17 @@ def summerize_script():
                 with open(summary_file, 'w', encoding='utf-8') as f:
                     f.write(summary_text)
                 
-                print(f"✅ 摘要已儲存：{summary_file}")
+                logger.info(f"摘要已儲存：{summary_file}")
                 processed_count += 1
                 
             except Exception as e:
-                print(f"❌ 摘要產生失敗 {fname}: {str(e)}")
+                logger.info(f"摘要產生失敗 {fname}: {str(e)}")
                 continue
     
     if processed_count > 0:
-        print(f"📌 完成 {processed_count} 個檔案的摘要")
+        logger.info(f"完成 {processed_count} 個檔案的摘要")
     else:
-        print("📌 沒有需要處理的檔案")
+        logger.info("沒有需要處理的檔案")
 
 def make_doc(filename: str, video_list: list):
     """
@@ -283,7 +283,7 @@ def make_doc(filename: str, video_list: list):
                 f.write(content)
                 
     except Exception as e:
-        print(f"❌ 製作文件失敗 {filename}: {str(e)}")
+        logger.error(f"製作文件失敗 {filename}: {str(e)}")
 
 def create_readme_doc(max_idx, latest_date):
     content = f"""# Dr. Eric Berg DC ({latest_date})
@@ -337,21 +337,21 @@ def create_doc(df):
                 # 將 DataFrame 轉換成字典列表
                 video_list = batch_df.to_dict('records')
                 
-                print(f"📝 處理文件：{filename} (idx: {start_idx}-{end_idx}, 實際筆數: {len(video_list)})")
+                logger.info(f"處理文件：{filename} (idx: {start_idx}-{end_idx}, 實際筆數: {len(video_list)})")
                 
                 # 呼叫 make_doc 製作文件
                 make_doc(filename, video_list)
                 
-                print(f"✅ 完成文件：{filename}")
+                logger.info(f"完成文件：{filename}")
         
-        print(f"📌 總共產生了 {num_batches} 個文件")
+        logger.info(f"總共產生了 {num_batches} 個文件")
 
         # 取得最新日期
         latest_date = df['date'].iloc[-1]
         create_readme_doc(max_idx, latest_date)
         
     except Exception as e:
-        print(f"❌ 處理文件時發生錯誤：{str(e)}")
+        logger.error(f"處理文件時發生錯誤：{str(e)}")
 
 def email_notify(new_df):
     if new_df.empty:
