@@ -368,41 +368,50 @@
         alt="[Youtube]" width="200">
 </a>
 
-### 核心主題 (Core Theme)
-- **Gluconeogenesis**: 腳糖生成（gluconeogenesis）是身體從非碳水化合物來源（如脂肪和蛋白質）生成葡萄糖的過程。  
-  - *Definition*: Gluconeogenesis is the metabolic process by which the body generates glucose from non-carbohydrate sources such as fat and protein.
+### 文章整理：血糖控制與糖異生（Gluconeogenesis）
 
-### 主要觀念 (Key Concepts)
-- **血糖來源**：糖尿病患者的高血糖不僅來自於攝入的糖分，更主要來源於身體自身生成的葡萄糖。  
-  - *Main Source of Blood Sugar*: High blood sugar in diabetics is not solely due to dietary sugar but significantly from gluconeogenesis.
-- **胰島素抵抗**：糖尿病患者普遍存在胰島素抵抗（insulin resistance），導致胰島素功能失常，無法有效抑制足糖生成。  
-  - *Insulin Resistance*: Insulin resistance is the underlying issue, as insulin fails to regulate gluconeogenesis effectively.
+#### 核心主題：
+- 糖尿病患者的血糖升高不僅來源於攝入的糖分，還與糖異生有關。
+- 膠朊糖原生成（Gluconeogenesis）是身體將非碳水化合物來源（如脂肪和蛋白質）轉化為葡萄糖的過程。
 
-### 問題原因 (Underlying Causes)
-- **胰島素失衡**：高血糖的主因是胰島素抵抗而非血液中胰岛素水平高低。  
-  - *Imbalance in Insulin*: The primary cause is insulin resistance, not necessarily high or low blood insulin levels.
-- **足糖生成過度活躍**： diabetic bodies exhibit enhanced gluconeogenesis due to insulin dysfunction.  
-  - *Overactive Gluconeogenesis*: Diabetic bodies produce excessive glucose through gluconeogenesis.
+#### 主要觀念：
+1. **糖異生的作用**：
+   - 糖異生是指 организм produces glucose from non-carbohydrate sources, such as fat or protein.
+   - 這一過程對維持血糖水平非常重要，特別是糖尿病患者中，糖異生顯著增加。
 
-### 解決方法 (Solutions)
-- **改善胰島素抵抗**：透過飲食調整（如生酮diet）和生活方式改變（如有氧運動、間歇性禁食）來降低胰岛素抵抗。  
-  - *Improving Insulin Sensitivity*: Focus on addressing insulin resistance through dietary changes (e.g., ketogenic diet) and lifestyle modifications.
-- **低糖飲食**：限制 carbohydrate 取，選擇低碳水化合物飲食以減少血糖來源。  
-  - *Low-Carb Diet*: A low-carbohydrate diet can reduce the reliance on glucose production.
+2. **身體對糖的需求**：
+   - 只有少數身體部位（如紅血球、腎臟某些部分、免疫系統的T細胞和睾丸的支持細胞）依賴葡萄糖。
+   - 大多數器官可以利用脂肪酸和酮體等其他能量來源。
 
-### 健康建議 (Health Recommendations)
-- **生酮飲食與間歇性禁食**：這些方法能有效降低胰岛素抵抗並改善血糖控制。  
-  - *Ketogenic Diet and Intermittent Fasting*: These approaches are recommended to improve insulin resistance and blood sugar levels.
-- **持續與耐心**：恢復胰島素敏感性和改善血糖水平需要數月甚至一年的時間，需保持耐心和堅持。  
-  - *Consistency and Patience*: Improving insulin sensitivity and blood sugar levels require months or even a year of consistent effort.
+3. **糖尿病患者血糖升高的原因**：
+   - 糖尿病患者的胰島素抵抗（Insulin Resistance）導致胰島素功能失常，無法有效抑制糖異生。
+   - 即使血液中胰島素水平可能偏高，但其功能受阻，導致血糖升高。
 
-### 結論 (Conclusion)
-- **飲食與生活方式的重要性**：了解足糖生成的機制對於糖尿病管理至關重要，並且飲食和生活方式的調整可以顯著改善血糖控制。  
-  - *Importance of Diet and Lifestyle*: Understanding gluconeogenesis is crucial for diabetes management, and dietary and lifestyle changes can significantly improve blood sugar control.
+#### 問題原因：
+- 胰島素抵抗是導致糖尿病患者血糖升高的主要問題，而非僅攝入的糖分。
+- 糖尿病患者的肝臟和腎臟過量生成葡萄糖，進一步提高血糖水平。
 
-### 补充資源 (Supplementary Resources)
-- **免費課程**：提供如何增強免疫力的免費課程，幫助身體更好地應對外界環境。  
-  - *Free Course*: A free course on "how to bulletproof your immune system" is available to enhance resilience against environmental factors.
+#### 解決方法：
+1. **改善胰島素抵抗**：
+   - 通過生活方式調整（如飲食控制、運動）來改善胰島素敏感性。
+   - 設計用於降低胰島素抵抗的飲食計劃，例如低碳水化合物飲食或生酮飲食。
+
+2. **飲食建議**：
+   - 建議採用生酮飲食（Ketogenic Diet）和間歇性禁食（Intermittent Fasting），這兩種方法已被證明能有效降低胰島素抵抗。
+   - 文章提供相關資源链接，供進一步學習。
+
+3. **耐心與堅持**：
+   - 經改善胰島素抵抗可能需要數月甚至一年時間，患者需保持耐心並持續遵循健康計劃。
+
+#### 健康建議：
+- 除了控制血糖來源外，還應該注意飲食結構的調整，增加膳食纖維攝取。
+- 文章強調免疫系統的重要性，提供免費課程「如何鐵桶化你的免疫系統」，以增強身體抵抗力。
+
+#### 結論：
+- 血糖控制不僅涉及限制攝入糖分，還需理解並管理體內糖異生過程。
+- 改善胰島素抵抗是降低血糖水平的關鍵，而這需要結合飲食、運動和生活方式的調整。
+
+以上整理涵蓋了文章的核心內容，以客觀正式的學術用語展現，並分小節清晰歸納。
 </details>
 
 <details>
@@ -521,50 +530,52 @@
         alt="[Youtube]" width="200">
 </a>
 
-### Structured Abstract of the Article on Fasting and Hypertension
+### 文章重點整理
 
-#### Core Theme:
-The article explores the role of fasting in managing high blood pressure (hypertension) and discusses its underlying mechanisms, particularly focusing on insulin resistance and metabolic factors.
+#### 核心主題
+- **高血壓（Hypertension）**：探討通過禁食降低高血壓的原因及其解決方法。
 
-#### Key Concepts:
-1. **Hypertension Overview**:
-   - Hypertension is a prevalent condition often asymptomatic until tested.
-   - It is categorized into primary (lifestyle-related) and secondary hypertension, with 95% of cases being primary.
+#### 主要觀念
+1. 高血壓的分類：
+   - 原發性高血壓（Primary Hypertension）：佔所有病例的95%，與生活方式有關。
+   - 細菌性高血壓（Secondary Hypertension）：由其他疾病引發。
 
-2. **Traditional Dietary Recommendations**:
-   - Current guidelines suggest consuming fruits, vegetables, whole grains, limiting fats to less than 30% of calories, avoiding saturated fats, and restricting simple sugars to 10% of daily intake.
-   - This equates to about 50 grams or 12 teaspoons of sugar per day.
+2. 常見導致原發性高血壓的原因：
+   - 高鹽攝取。
+   - 腫胖。
+   - 吸煙。
+   - 過量飲酒。
+   - 不健康飲食習慣。
 
-#### Problem Analysis:
-- **Medication Limitations**:
-  - The Sprint Trial (2015) highlighted that while multiple medications improve survival rates, they significantly increase the risk of kidney disease, particularly in severe cases.
-  
-- **Insulin Resistance and Metabolic Syndrome**:
-  - High insulin levels due to insulin resistance contribute to arterial stiffness, a primary cause of hypertension.
-  - Conditions like metabolic syndrome (syndrome X) are linked to hyperinsulinemia.
+3. 標準建議的問題：
+   - 推荐攝入的膳食結構可能存在不合理之處，例如允許10%的簡單糖分攝取（約12茶匙/天）。
 
-#### Solutions and Interventions:
-1. **Fasting**:
-   - Fasting is identified as an effective method to lower insulin levels, thereby reducing arterial stiffness and improving blood pressure control.
-   - A medically supervised study showed a 90% success rate in lowering blood pressure with fasting.
+#### 問題原因
+- **胰島素抵抗（Insulin Resistance）**：高血壓的重要根源之一。高水平胰島素導致動脈僵硬。
+- **代謝综合征（Metabolic Syndrome）**：包含高血壓，與高胰島素血症密切相關。
+- 药物治療的局限性：
+   - SPRINT試驗雖顯示多藥物治療可延長壽命，但增加腎臟疾病的風險。
 
-2. **Nutritional Supplements**:
-   - **Vitamin D**: Plays a role in regulating blood pressure.
-   - **Potassium**: Essential for maintaining arterial flexibility; deficiency leads to stiffness.
-   - **Vitamin K2**: Helps remove excess calcium from arteries, improving elasticity.
-   - **Magnesium**: Supports cardiovascular health and can be obtained through diet or supplements like magnesium orotate.
+#### 解決方法
+1. **禁食（Fasting）**：
+   - 禁食是最有效的降低胰島素水平的方式。
+   - 减輕胰島素抵抗，改善動脈僵硬度。
 
-#### Health Recommendations:
-- Implement intermittent fasting to address insulin resistance.
-- Combine fasting with a low-carb diet for enhanced benefits.
-- Incorporate vitamin D, potassium, vitamin K2, and magnesium into the diet.
-- Consult healthcare providers when adjusting medications alongside these interventions.
+2. 营養補充：
+   - **維生素D**：具有降血壓作用。
+   - **鎂和鉀**：通過攝取大量深色葉菜或其他來源，可軟化動脈，降低血壓。
+   - **維生素K2**：幫助去除動脈中的 excess calcium，增強血管彈性。
 
-#### Conclusion:
-Fasting emerges as a potent strategy to manage hypertension by targeting insulin resistance. Integrating fasting with targeted nutritional supplements can effectively lower blood pressure and reduce reliance on medications. The article emphasizes the importance of lifestyle modifications in preventing and treating hypertension, highlighting the need for further research into complementary therapies.
+3. **低羰bohydrate飲食（Low-Carb Diet）**：
+   - 與禁食結合，有效改善胰島素抵抗。
 
-#### Additional Information:
-- The author encourages viewers to enroll in a free course on bulletproofing the immune system, emphasizing the importance of strengthening internal defenses against external health challenges.
+#### 健康建議
+1. 在醫師指導下逐步減少藥物劑量。
+2. 確保攝取足夠的維生素D、鎂、鉀和K2。
+3. 采用間歇性禁食（Intermittent Fasting）來控制血壓。
+
+#### 結論
+- 禁食與合理飲食調整可有效降低高血壓，特別是針對胰島素抵抗患者。建議在專業醫療人員的監督下實施，並逐步減少藥物依賴。
 </details>
 
 <details>
@@ -781,113 +792,580 @@ Fasting emerges as a potent strategy to manage hypertension by targeting insulin
 </details>
 
 <details>
-<summary>3482. The Best Type of Exercise for Recovery</summary><br>
+<summary>3482. [2021-05-26] The Best Type of Exercise for Recovery</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Z4IrYafP2NU" target="_blank">
     <img src="https://img.youtube.com/vi/Z4IrYafP2NU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 1. 核心主題  
+- 探讨最佳恢复锻炼方法及其对身体健康的益处。
+
+#### 2. 主要運動類型  
+- **等距運動（Isometric Movements）**：肌肉保持在同一位置，既不長也不短，僅 contraction。
+- **向心運動（Concentric Movements）**：肌肉 shortening while contracting（如將重量舉起）。
+- **離心運動（Eccentric Movements）**：肌肉 lengthening while contracting（如緩慢放下重量）。
+
+#### 3. 離心運動的優點  
+- **肌肉生長與強化**：促進更大、更快、更強壯的肌肉生長。
+- **力量提升**：增加肌肉 strength 和可進行的 rep數。
+- **恢復效益**：提供更好的修復效果，特別是在腱、筋膜和手術後的恢復中。
+- **代謝效率**：提高 metabolism，降低炎症，適合改善骨質疏松和肌肉萎縮症。
+
+#### 4. 適用場景  
+- **康複與治療**：用於 tendon, ligament 損傷、肩部或膝蓋手術後的康複。
+- **骨骼健康**：幫助預防 osteoporosis 和 sarcopenia。
+- **炎症管理**：降低 inflammation，促進整體健康。
+
+#### 5. 健康建議  
+- 將離心運動納入日常訓練計劃，特別是針對需要強化肌肉和恢復的人群。
+- 減少集中於向心運動，增加對離心運動的重視，以獲得更好的康複效果。
+- 考慮專業指導，確保安全和有效實施離心運動。
+
+#### 6. 總結  
+- 離心運動在肌肉強化、康複治療和整體健康方面具有顯著優勢。
+- 推薦將其用於提升力量、恢復損傷和改善骨骼健康。
+- 建議進一步研究和實施，以最大化其潛力。
+
+---
+
+### 全文總結  
+文章強調了離心運動在康複和健康方面的多項益處，特別是其在肌肉增長、力量提升、炎症管理和骨骼健康方面的作用。作者建議將此類運動納入日常訓練計劃，並特別推薦給需要康複或有骨骼問題的人群。總結而言，離心運動是一種高效且安全的訓練方式，值得進一步研究和應用。
 </details>
 
 <details>
-<summary>3481. 7 Out of 10 People Take Prescription Drugs</summary><br>
+<summary>3481. [2021-05-24] 7 Out of 10 People Take Prescription Drugs</summary><br>
 
 <a href="https://www.youtube.com/watch?v=RnlJtQgN_58" target="_blank">
     <img src="https://img.youtube.com/vi/RnlJtQgN_58/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 1. 核心主題
+- **高比例人群使用處方藥**：70% 的美國人口正在服用處方藥，尤其是45歲以上的成年人平均服用四種處方藥。
+- **多重用藥的風險**：多種藥物之間可能產生相互作用，導致副作用。
+
+#### 2. 主要觀念
+- **處方藥的普及性與潛在問題**：雖然藥物有其必要性，但長期使用和多種藥物組合可能引發.Side Effects.
+- **醫療計劃的缺乏**：許多患者未被告知藥物的長遠計劃，尤其是是否需要終身服用。
+- **病因不明的情況**：許多症狀（如高血壓）的病因未明，治療可能缺乏針對性。
+
+#### 3. 問題原因
+- **多重用藥的相互作用**：多種藥物可能导致副作用加重。
+- **病因不明**：部分症狀病因不為所知，導致治療方案不足。
+- **飲食與生活方式影響**：不良飲食習慣可能加劇病症。
+
+#### 4. 解決方法
+- **諮詢醫生**：
+  - 詢問藥物的長遠計劃。
+  - 了解藥物副作用及是否需要其他藥物來控制這些副作用。
+  - 討論減量或戒斷的可能性。
+- **飲食調整**：採用健康的飲食計劃來改善症狀，降低對藥物的依賴。
+- **尋找替代療法**：
+  - 使用經過驗證的天然療法（如草藥）來取代或減少藥物使用。
+  - 與醫生合作進行パイロット測試。
+
+#### 5. 健康建議
+- **飲食調整**：採用推薦的健康飲食計劃，改善症狀，降低對藥物的需求。
+- **補充劑輔助**：
+  - **Tudka**：幫助肝臟排毒，減少戒斷副作用。
+  - **奶蓟草**：支持肝臟功能。
+  - **維生素D**：降低炎症反應，改善多種症狀。
+- **免疫系統增強**：通過課程“如何加固免疫系統”來提升自身抵抗力。
+
+#### 6. 結論
+- **藥物依賴的風險**：長期使用多種藥物可能對健康造成負面影響。
+- **整體治療方案的重要性**：
+  - 結合藥物、飲食和自然療法，制定綜合治療計劃。
+  - 與醫生密切合作，逐步減少藥物用量，避免突兀戒斷。
+
+---
+
+此文強調了美國人群中處方藥使用率的高問題，並提出雖然藥物有其必要性，但長期使用可能帶來.Side Effects.和健康風險。作者建議患者與醫生合作，制定長遠治療計劃，並探索飲食調整和自然療法來降低對藥物的依賴，最終達到改善健康的目標。
 </details>
 
 <details>
-<summary>3480. Eat More Mushroom on Keto</summary><br>
+<summary>3480. [2021-05-24] Eat More Mushroom on Keto</summary><br>
 
 <a href="https://www.youtube.com/watch?v=0_F4CEVEFcI" target="_blank">
     <img src="https://img.youtube.com/vi/0_F4CEVEFcI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 文章重點整理
 
+## 核心主題
+- 素食（蘑菇）的營養價值與健康益處  
+- 蘑菇在酮飲食中的適合性  
+- 蘑菇的多樣化生物活性化合物及其对人体的影響  
+
+## 主要觀念
+1. **蘑菇的營養成分**：
+   - 蘆筍富含水分（92%）、低碳hydrates（4%）、蛋白質（2%）和脂肪含量少於1%。
+   - 每一杯蘑菇只含2克碳hydrates、1克膳食纖維，淨碳hydrates僅1克，適合酮飲食。
+   - 諮_WEALTHY_ROOTS_富含B族維生素（尤其是B₂、B₃、B₅和葉酸）、硒、鋅、銅等礦物質。
+
+2. **蘑菇的抗氧化與抗炎特性**：
+   - 含有β-葡聚糖等抗腫瘤活性物質。
+   - 具有多種抗氧化化合物，支持免疫系統、 adrenal功能及整體活力。  
+   - 能夠減輕炎症反應，提升整體健康。
+
+3. **蘑菇的環境影響與生態Role**：
+   - 在地球歷史中早於植物出現，具有強大的適應能力。
+   - 可分解環境中的塑料等污染物質，展示了其生物降解能力。  
+   - 蘑菇和細菌共同作用，將岩石、沙土等礦物質轉化為植物可吸收的養分。
+
+4. **微生物群落中的蘑菇角色**：
+   - 順應性真菌是益生菌的重要組成部分，對免疫系統健康有重要作用。
+   - 蘑菇和細菌合作，提高土壤肥力，促進植物營養吸收。  
+
+## 問題原因
+- 现代飲食中蘑菇攝取不足，錯失了其多樣化的健康益處。  
+- 公眾對蘑菇在免疫系統、環境保護等方面的重要性的認知不足。  
+- 市場上缺乏針對蘑菇健康功效的充分教育和宣傳。  
+
+## 解決方法
+1. **增加蘑菇攝取**：
+   - 將蘑菇加入日常飲食，特別是酮飲食中。
+   - 選擇多種蘑菇品種以最大化其營養價值和藥用效果。
+
+2. **提升健康意識**：
+   - 学習關於蘑菇的營養和醫學用途，了解其在抗氧化、抗炎及免疫支持方面的功效。  
+   - 認識蘑菇在生態系統中的重要性，從而更積極地保護環境。  
+
+3. **科學研究與教育推廣**：
+   - 鼓勵對蘑菇生物活性化合物的研究，進一步揭示其潛在醫藥用途。
+   - 在學校和社區開展相關教育活動，提高公眾對蘑菇健康益處的認識。
+
+## 健康建議
+- 每周攝取至少一至兩次蘑菇，以充分利用其營養價值。  
+- 選擇多種菇類，如 button mushroom、portobello、shiitake等，豐富飲食並最大化健康功效。
+- 确保蘑菇來源新鮮且安全，避免食用有毒品種。
+- 考慮補充含高硒和維生素D的蘑菇製品，以增強抗氧化能力。  
+- 通過gardening等方式增加對蘑菇在土壤肥力中的作用的理解，從而更有效地利用自然資源。
+
+## 結論
+蘑菇作為一種被低估的食物，不僅適合酮飲食，還富含多種營養素和生物活性化合物，帶來多方面的健康益處。其在生態系統和微生物群落中的Role進一步強調了其重要性。通過增加蘑菇攝取、提升健康意識及科學教育推廣，可以更有效地利用蘑菇的潛力，促進整體健康與環境保護。
 </details>
 
 <details>
-<summary>3479. Accidentally Messed Up on Keto? DO THIS…</summary><br>
+<summary>3479. [2021-05-23] Accidentally Messed Up on Keto? DO THIS…</summary><br>
 
 <a href="https://www.youtube.com/watch?v=YddHrz1pnpI" target="_blank">
     <img src="https://img.youtube.com/vi/YddHrz1pnpI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理
 
+#### 核心主題
+- 低碳水化合物飲食（如生酮 diet）失誤後的處理方法。
+- 如何恢復身體和心理狀態，避免因意外攝入糖分而影響健康。
+
+#### 主要問題原因
+1. 意外攝取含糖食物或添加物（如 maltodextrin）。
+2. 食物標籤未仔細閱讀，導致糖分攝入不明。
+3. 糖分過量引發疲勞和焦躁等不適症狀。
+
+#### 問題影響
+1. 身體脫水或 electrolyte 平衡失調。
+2. 血糖波動引致情緒不穩定。
+3. 生酮 diet 遊蕩（ketosis）中斷，導致能量來源不足。
+
+#### 解決方法
+1. **補充酮體：**
+   - 液態中鏈脂肪酸（MCT oil）：
+     - 結構簡單，吸收速度快。
+     - 轉化為酮體效率高。
+     - 成本較低，經濟實惠。
+   - 風味化的 MCT 產品：
+     - 提供更多選擇和口感。
+   - 外源性酮サプリメント（exogenous ketones）：
+     - 直接提升血液中的酮體濃度。
+
+2. **補充電解質：**
+   - 鈉、鉀、鎂等礦物質的補充。
+   - 保持身體水分平衡，預防脫水。
+
+3. **恢復策略：**
+   - 確保次日攝入足夠的健康脂肪和蛋白質。
+   - 減少碳水化合物攝取，迅速回到生酮 state。
+
+#### 免疫系統建議
+1. **增強免疫功能：**
+   - 採納「Bulletproof 免疫系統」策略。
+   - 包括飲食調整、壓力管理及睡眠優化。
+2. **環境因素考量：**
+   - 除避免有害環境，更應提升自身抵抗力。
+
+#### 結論
+1. 生酮 diet 失誤後，迅速補充酮體來源（如 MCT 油）可快速恢復狀態。
+2. 適當調整飲食和生活方式，增強免疫系統，提升對外界環境的耐受力。
+3. 通過.free course 學習具體方法，掌握個人化的健康管理技巧。
 </details>
 
 <details>
-<summary>3478. Herbal Teas to Avoid During Pregnancy</summary><br>
+<summary>3478. [2021-05-23] Herbal Teas to Avoid During Pregnancy</summary><br>
 
 <a href="https://www.youtube.com/watch?v=K0AlsEnNmSM" target="_blank">
     <img src="https://img.youtube.com/vi/K0AlsEnNmSM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Key Points and Themes from the Article
 
+#### Core Theme: Herbal Teas During Pregnancy
+The article focuses on the potential risks associated with consuming certain herbal teas during pregnancy. It highlights the importance of being cautious due to the chemical compounds in plants that can influence bodily functions, including hormonal balance.
+
+#### Major Concepts:
+1. **Hibiscus Tea**: Contains phytonutrients that may delay puberty and potentially cause miscarriage or stimulate menstruation.
+2. **Nettle Tea**: Can stimulate uterine contractions; advisable only during labor or close to delivery.
+3. **Caffeinated Teas**: Includes black, green, white, matcha, and chai teas, which pose a risk of early pregnancy loss or miscarriage at higher caffeine levels (e.g., 100 mg).
+4. **Fennel Tea**: May increase estrogen levels; used to induce labor, so avoid unless ready for delivery.
+5. **Licorice Tea**: Can elevate cortisol levels, a stress hormone that should be managed during pregnancy.
+
+#### Causes of Concern:
+- **Hormonal Disruption**: Some teas can interfere with hormonal balance, leading to adverse effects.
+- **Uterine Contractions**: Certain herbs may stimulate contractions too early or inappropriately.
+- **Caffeine Sensitivity**: High caffeine intake is linked to increased risk of miscarriage.
+- **Labor Induction Risks**: Herbs like fennel and licorice should be avoided unless medically necessary.
+
+#### Recommendations:
+1. **Avoid Specific Teas**: Hibiscus, nettle (except near delivery), caffeinated teas, fennel, and licorice teas should generally be avoided during pregnancy.
+2. **Monitor Caffeine Intake**: Keep caffeine consumption low to minimize risks.
+3. **Consult Healthcare Providers**: Always seek medical advice before consuming herbal teas during pregnancy.
+
+#### Conclusion:
+Pregnant individuals should exercise caution with herbal teas due to their potential hormonal and uterine effects. Prioritizing safer alternatives and consulting healthcare professionals is crucial for a healthy pregnancy.
+
+---
+
+### Summary of Key Recommendations
+
+1. **Avoid the Following Teas**:
+   - Hibiscus Tea
+   - Nettle Tea (except near labor)
+   - Caffeinated Teas (e.g., black, green, matcha)
+   - Fennel Tea
+   - Licorice Tea
+
+2. **Limit Caffeine Intake**: Consume <= 100 mg of caffeine daily to reduce miscarriage risks.
+
+3. **Seek Professional Guidance**: Always consult a healthcare provider before using herbal remedies during pregnancy.
+
+---
+
+### Final Note: Immune System Strengthening
+The article also promotes a free course on "Bulletproofing Your Immune System," emphasizing the importance of enhancing personal immunity to better cope with environmental challenges during pregnancy and beyond.
 </details>
 
 <details>
-<summary>3477. Cutting Carbs But Still Not Losing Weight</summary><br>
+<summary>3477. [2021-05-22] Cutting Carbs But Still Not Losing Weight</summary><br>
 
 <a href="https://www.youtube.com/watch?v=RHuQX5uzodA" target="_blank">
     <img src="https://img.youtube.com/vi/RHuQX5uzodA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **碳水化合物攝取與體重管理**：低 carbohydrate飲食在某些情況下仍不足以促進體重 reduction。
+- **生理節律与荷爾蒙的作用**：睡眠中的褪黑激素（melatonin）和壓力導致的皮質醇（cortisol）水平對體重 loss有重要影響。
 
+### 主要觀念
+1. **褪黑激素的功能**：
+   - 褪黑激素在夜間分泌，促進深度睡眠。
+   - 深度睡眠期間，生長激素（growth hormone）分泌增加，有利於體重 reduction。
+   - 褪黑激素抑制胰島素（insulin）的分泌，降低血糖水平，有利於脂肪燃燒。
+
+2. **皮質醇的作用**：
+   - 皮質醇是一種壓力荷爾蒙，主要負責將脂肪和蛋白質轉化為糖分以應對壓力。
+   - 高水平的皮質醇會抑制胰島素，導致血糖水平升高，增加體重。
+
+### 問題原因
+1. **睡眠干擾**：
+   - 夜間接觸藍光（如手機、電腦屏幕）會抑制褪黑激素的分泌，影響深度睡眠。
+   - 睡前進食，尤其是高碳水化合物食物，會進一步干擾血糖和胰島素水平。
+
+2. **壓力管理失當**：
+   - 高水平的皮質醇會增加 gluconeogenesis（糖異生），導致體內自產糖分，影響體重 reduction。
+   - 慢性壓力會導致胰岛素抵抗（insulin resistance），降低血糖控制效果。
+
+### 解決方法
+1. **優化睡眠環境**：
+   - 避免在睡前2-3小時接觸藍光，以促進褪黑激素的正常分泌。
+   - 睡前避免高碳水化合物食物，防止血糖波動。
+
+2. **管理壓力**：
+   - 通過運動、冥想等方式降低皮質醇水平。
+   - 確保充足的睡眠時間，以幫助身體恢復和平衡荷爾蒙水平。
+
+### 健康建議
+1. **飲食調整**：
+   - 繼續保持低碳水化合物飲食，並增加健康脂肪和蛋白質的攝取。
+   - 避免夜間進食，尤其是高糖高脂食物。
+
+2. **作息管理**：
+   - 建立規律的睡眠習慣，確保每晚充足的深度睡眠。
+   - 睡前1-2小時避免使用電子產品，創造安靜無光的睡眠環境。
+
+3. **壓力管理**：
+   - 遊泳、瑜伽、冥想等活動有助於降低皮質醇水平。
+   - 學會時間管理和情緒調節技巧，以應對日常壓力。
+
+### 結論
+- 低 carbohydrate飲食和間歇性禁食是有效的體重 reduction方法，但若效果不佳，需檢查睡眠和壓力管理的因素。
+- 褪黑激素和皮質醇的不平衡是影響體重 loss的主要因素。
+- 通過優化睡眠習慣、降低壓力水平和調整飲食結構，可以顯著提高體重 reduction的效果。
 </details>
 
 <details>
-<summary>3476. Why the Random Muscle Twitch?</summary><br>
+<summary>3476. [2021-05-22] Why the Random Muscle Twitch?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=wtt-aJXmg3U" target="_blank">
     <img src="https://img.youtube.com/vi/wtt-aJXmg3U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 肌肉無意顫栗（Fasciculation）的現象及其可能原因與解決方法。
 
+### 主要觀念
+1. **肌肉無意顫栗**：約70%的人群會經歷不自主的肌肉顫栗，通常影響眼瞼、手臂、手部、腳部或舌頭等部位。
+2. **良性肌束顫栗症（Benign Fasciculation Syndrome）**：此為一種與營養缺乏相關的醫療狀況。
+
+### 問題原因
+1. **鎂離子缺乏**：
+   - 約70%的人口存在鎂離子不足。
+   - 镁缺乏可能導致疲勞、肌肉痙攣和焦慮等症状。
+2. **鈣質過高**：血液中鈣含量偏高會降低鎂的水平，進而影響神經肌肉功能。
+3. **維生素D缺乏**：維生素D不足可能間接影響鎂的吸收與利用。
+4. **代謝性鹼中毒（Alkalosis）**：
+   - 高碳水化合物飲食或低血鉀症可能导致代謝失衡，使血液pH過高。
+   - 高碳酸鹽環境會干擾鈣離子的正常運輸，導致其在神經周圍沉積，引發顫栗。
+
+### 解決方法
+1. **鎂質補充**：
+   - 增加富含鎂的食物攝取，如深色葉菜類。
+   - 考慮口服鎂劑或注射方式補充。
+2. **飲食調整**：
+   - 平衡鈣與鎂的攝取比例。
+   - 确保足夠的維生素D水平以促進鎂的吸收。
+3. **改善代謝失衡**：
+   - 調整飲食結構，減少高碳水化合物攝入。
+   - 补充鉀質以防止低血鉀導致的代謝性鹼中毒。
+
+### 健康建議
+1. **營養均衡**：確保每日飲食中包含足夠的礦物質和維生素，特別是鎂、鈣和維生素D。
+2. **定期檢查**：如有持續或嚴重的肌肉顫栗症状，建議進行血液檢測以評估鎂、鈣、維生素D等指標。
+3. **生活方式調整**：
+   - 適當運動以促進血液循环和神經肌肉功能。
+   - 管理壓力，保持良好的睡眠質量。
+
+### 結論
+肌肉無意顫栗雖通常是良性的，但若伴隨其他症状或影響生活品質，需及時評估可能的營養缺乏或其他代謝問題。通過補充鎂質、均衡飲食和調整生活方式，可有效改善此現象並提升整體健康狀況。
 </details>
 
 <details>
-<summary>3475. Bile Acid and Cholesterol: The Missing Link</summary><br>
+<summary>3475. [2021-05-21] Bile Acid and Cholesterol: The Missing Link</summary><br>
 
 <a href="https://www.youtube.com/watch?v=uMBWF8A3QdI" target="_blank">
     <img src="https://img.youtube.com/vi/uMBWF8A3QdI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 胆汁酸与胆固醇之间的关系及其重要性。
+
+#### 主要觀念
+1. **膽固醇來源**：
+   - 約75%的膽固醇由人體自行合成，僅25%來自飲食。
+   
+2. **膽汁酸的功能**：
+   - 膳食膽汁酸是膽固醇的主要代謝途徑（catabolism）。
+   - 膽汁酸參與分解膽固醇為簡單分子，供應用於合成維生素D、細胞膜、激素和 bile。
+
+3. **膽鹽對膽固醇周转的影響**：
+   - 約50%的每日膽固醇 turnover 受控於膽鹽。
+   
+4. **膽鹽調節LDL和HDL的比例**：
+   - 膽鹽可降低低密度脂蛋白（LDL）並提高高密度脂蛋白（HDL），有助於改善膽固醇比例。
+
+5. **膽鹽的多樣化功能**：
+   - 作為清潔劑，幫助分解脂肪，促進吸收脂溶性維生素（如A、D、E、K）。
+   - 支持免疫系統健康、肝臟功能及必需脂肪酸（如ω-3脂肪酸）的提取。
+
+#### 問題原因
+1. **_STATIN藥物的副作用**：
+   - 抗膽固醇藥物（Statins）阻斷膽固醇生產，導致膽汁生成不足。
+   - 影響維生素D合成、細胞膜健康及激素生產。
+
+2. **飲食結構調整的影響**：
+   - 低碳水化合物飲食可能增加血液中LDL濃度，因脂肪儲存分解釋放更多膽固醇。
+
+3. **膽鹽不足的影響**：
+   - 膽鹽缺乏導致脂溶性維生素吸收不良及胆固醇代謝失衡。
+
+#### 解決方法
+1. **補充純化膽鹽**：
+   - 對於膽鹽不足的人群，可考慮服用純化膽鹽以改善膽固醇水平。
+   
+2. **調整飲食結構**：
+   - 渐進式增加脂肪攝取，讓身體有時間適應膽鹽的生產。
+
+3. **健康生活方式**：
+   - 保持均衡飲食和適當運動，促進整體代謝健康。
+
+#### 健康建議
+1. **認識膽固醇來源**：
+   - 大部分膽固醇由人體自行合成，飲食僅占少數。
+   
+2. **重視膽汁酸的作用**：
+   - 膽鹽不僅調節胆固醇，還幫助吸收營養並支持免疫功能。
+
+3. **謹慎使用藥物**：
+   - 使用Statins需注意其對膽汁酸和維生素D的影響。
+
+4. **飲食與補充策略**：
+   - 減少精製糖攝取，增加健康脂肪攝入，必要時可補充膽鹽。
+
+#### 總結
+- 膽汁酸在膽固醇代謝中起著關鍵作用，不僅幫助降低LDL、提升HDL，還支持多項生理功能。
+- 遭遇高胆固醇問題時，應全面考量飲食結構、藥物使用及補充劑的綜合影響。
+
+---
+
+### 英文版本精要
+
+**Title**: The Relationship Between Bile Acids and Cholesterol: An Essential Overview
+
+**Core Theme**:  
+The interplay between bile acids and cholesterol, highlighting their critical roles in human physiology.
+
+**Key Concepts**:  
+1. **Cholesterol Sources**:  
+   - Approximately 75% of cholesterol is endogenously produced, with only 25% deriving from diet.  
+
+2. **Bile Acids Function**:  
+   - Bile acids serve as the primary pathway for cholesterol catabolism, breaking down cholesterol into simpler molecules for utilization in synthesizing vitamin D, cell membranes, hormones, and bile.  
+
+3. **Impact of Bile Salts on Cholesterol Turnover**:  
+   - Approximately 50% of daily cholesterol turnover is regulated by bile salts.  
+
+4. **Regulation of LDL and HDL Ratios**:  
+   - Bile salts reduce low-density lipoprotein (LDL) levels while increasing high-density lipoprotein (HDL), enhancing cholesterol balance.  
+
+5. **Diverse Roles of Bile Salts**:  
+   - Act as detergents to break down fats, facilitating absorption of fat-soluble vitamins (A, D, E, K).  
+   - Support immune system health, liver function, and extraction of essential fatty acids like omega-3s.  
+
+**Issues and Causes**:  
+1. **Side Effects of Statin Drugs**:  
+   - Statins block cholesterol production, leading to insufficient bile salt generation and impairing vitamin D synthesis, cell membrane health, and hormone production.  
+
+2. **Impact of Low-Carb Diets**:  
+   - Increased LDL levels may occur due to fat mobilization from adipose tissue.  
+
+3. **Deficiency in Bile Salts**:  
+   - Insufficient bile salts can hinder lipid-soluble vitamin absorption and cholesterol metabolism.  
+
+**Solutions and Recommendations**:  
+1. **Supplementation with Purified Bile Salts**:  
+   - Consider for individuals with bile salt deficiency to improve cholesterol levels.  
+
+2. **Dietary Adjustments**:  
+   - Gradually increase fat intake to allow the body to adapt bile salt production.  
+
+3. **Healthy Lifestyle Practices**:  
+   - Maintain a balanced diet and regular exercise to support overall metabolic health.  
+
+**Conclusion**:  
+Bile acids are pivotal in cholesterol metabolism, regulating lipid profiles and supporting multiple physiological functions. Addressing high cholesterol requires a holistic approach considering diet, medication use, and supplementation.
 </details>
 
 <details>
-<summary>3474. How to Reverse Acanthosis Nigricans</summary><br>
+<summary>3474. [2021-05-20] How to Reverse Acanthosis Nigricans</summary><br>
 
 <a href="https://www.youtube.com/watch?v=58_GuTFrDn0" target="_blank">
     <img src="https://img.youtube.com/vi/58_GuTFrDn0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理：文章重點提綱
 
+#### 1. 核心主題  
+- 討論如何逆轉一種稱為「黑棘皮病」（Acanthosis Nigricans）的條件。  
+
+#### 2. 主要觀念  
+- 黑棘皮病是一種灰褐色色素沉著症，特征為白癜部位白癜部位如頸部、腋下等位置的對稱性暗色斑塊，伴有絨毛狀觸感。  
+- 該病症與多種代謝疾病相關，包括糖尿病、多囊卵巢綜合征（PCOS）、庫欣氏綜合征（Cushing's Syndrome）及代謝症群。  
+
+#### 3. 問題原因  
+- 主要病因為胰島素抵抗（Insulin Resistance），導致血液中胰島素濃度異常升高（Hyperinsulinemia）。  
+- 胰島素抵抗促使身體分泌更多胰島素，進而引發黑棘皮病及其他相關疾病。  
+
+#### 4. 解決方法  
+- **飲食調整**：降低碳水化合物攝取量為核心策略，可有效降低血糖水平及胰岛素濃度。  
+- **生活方式改善**：通過運動、体重管理等方式提升整體代謝健康。  
+
+#### 5. 健康建議  
+- 適當控制碳水化合物攝入，選擇低GI（升糖指數）食物以穩定血糖水平。  
+- 定期進行身體檢查，監測相關代謝指標，如血糖、胰岛素水平等。  
+- 確保均衡飲食與規律運動，預防及改善代謝疾病。  
+
+#### 6. 結論  
+- 黑棘皮病的關鍵在於調整飲食結構，降低碳水化合物攝取量可有效逆轉病情。  
+- 强調整體健康管理的重要性，而非單一病症治療。
 </details>
 
 <details>
-<summary>3473. Why Does Exercise Increase Lifespan?</summary><br>
+<summary>3473. [2021-05-20] Why Does Exercise Increase Lifespan?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KnsFf-kgwb8" target="_blank">
     <img src="https://img.youtube.com/vi/KnsFf-kgwb8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **Exercise and Longevity**: 探讨运动如何延长寿命以及其背后的生物学机制。
 
+### 主要觀念
+1. **进化论视角**：
+   - 持续进行有氧运动（如耐力跑步）是人类基因适应生存环境的结果，旨在帮助获取食物和逃避捕食者。
+2. **心血管健康**：
+   - 心血管疾病是全球头号死因，而运动能显著改善心血管健康，从而延长寿命。
+
+### 問題原因
+- **久坐不动的生活方式**：缺乏身体活动与多种慢性病（如心血管疾病、糖尿病等）密切相关，导致死亡率上升。
+- **炎症反应**：长期炎症会引发 insulin resistance、癌症扩散和机体功能衰退等问题。
+- **自主神经系统失衡**：交感神经兴奋过度而副交感神经调节不足会影响消化、睡眠和整体恢复。
+
+### 解決方法
+1. **有氧运动的好处**：
+   - 提高氧气供应，促进营养吸收和废物排出。
+   - 减少炎症反应，降低慢性病风险。
+   - 增强副交感神经活性，改善休息质量和身体恢复能力。
+2. **调节血糖代谢**：
+   - 通过运动减少 insulin resistance，预防相关代谢性疾病。
+3. **促进生长激素分泌**：
+   - 规律的体力活动，尤其是高强度间歇训练，能刺激生长激素释放，延缓衰老。
+
+### 健康建議
+- **每日运动习惯**：将有氧运动纳入日常生活，建议每周进行150分钟中等强度有氧运动或75分钟高强度运动。
+- **多样化锻炼方式**：结合耐力、力量和柔韧性训练以提高整体健康水平。
+- **配合其他健康策略**：
+   - 保持适度蛋白质摄入和规律饮食。
+   - 充足睡眠，缓解压力。
+
+### 結論
+- **運動对健康的多方面益处**：从心血管健康到代谢调节和抗衰老，运动能显著提升生命质量并延长寿命。
+- **健康生活方式的重要性**：通过科学的运动计划和合理的日常管理，可以有效降低疾病风险，实现更高质量的生活。
 </details>
 
 <details>
