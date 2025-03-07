@@ -439,113 +439,521 @@
 </details>
 
 <details>
-<summary>1260. How To Stick To Diet & Stay Consistent With Healthy Eating? – Dr. Berg</summary><br>
+<summary>1260. [2018-01-02] How To Stick To Diet & Stay Consistent With Healthy Eating? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Cl2vnk4i0t4" target="_blank">
     <img src="https://img.youtube.com/vi/Cl2vnk4i0t4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 探讨人们为何难以坚持健康的饮食习惯及其背后的原因。  
 
+---
+
+### 主要觀念  
+1. 人类倾向于活在当下而非未来，导致缺乏对长期后果的考虑。  
+2. 健康饮食的持续性与个体对未来潜在健康问题的认知密切相关。  
+3. 高水平的胰岛素是多种慢性疾病（如癌症、心血管疾病等）的共同风险因素。  
+
+---
+
+### 問題原因  
+1. **即时满足 vs. 长期后果**：人们更关注眼前的快感，忽视未来可能发生的健康问题。  
+2. **缺乏对未来健康风险的认知**：尽管了解某些疾病的风险（如糖尿病与青光眼的关系），仍未能改变行为模式。  
+3. **心理因素**：对食物的渴望和习惯难以克服，尤其是在面对高糖、高脂等“垃圾食品”时。  
+
+---
+
+### 解决方法  
+1. **提升未来思维**：通过意识卡片等方式提醒自己未来的健康后果，从而做出更理性的饮食决策。  
+2. **教育与认知提升**：理解健康问题的因果关系（如胰岛素水平与疾病的关系），增强对长期健康的重视。  
+
+---
+
+### 健康建議  
+1. 使用“意識飲食卡”工具，在面对诱惑时提醒自己潜在的健康风险。  
+2. 选择容易坚持的饮食计划，如定时禁食法，以减少初期不适并逐步形成习惯。  
+3. 定期反思饮食决策，评估其对长期健康的影响。  
+
+---
+
+### 結論  
+- 均衡饮食与健康生活方式的持续性关键在于对未来潜在健康问题的认知和重视。  
+- 通过教育和工具（如意識飲食卡）帮助个体更好地权衡当前选择与未来后果，从而做出更健康的决策。
 </details>
 
 <details>
-<summary>1259. 9 Things To Make Intermittent Fasting Easier – Dr. Berg</summary><br>
+<summary>1259. [2018-01-01] 9 Things To Make Intermittent Fasting Easier – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=l8GTfCJ3nXE" target="_blank">
     <img src="https://img.youtube.com/vi/l8GTfCJ3nXE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **間歇性斷食的挑戰與策略**  
+  探讨如何通过调整饮食习惯和生活方式来有效进行间歇性断食，解决常见的困难。
 
+---
+
+### 主要觀念
+1. **飲食結構的調整**  
+   - 通過飲食選擇和飲用量來延長禁食時間。
+2. **自然補充能量**  
+   - 利用茶、咖啡、脂肪等天然資源來提供持續的能量，同時避免血糖波動。
+
+---
+
+### 問題原因
+- **常見挑戰**  
+  1. 長期飲食習慣的改變困難。  
+  2. 飢感和血糖不穩定。  
+  3. 生活壓力和睡眠不足影響斷食效果。
+
+---
+
+### 解決方法
+1. **茶的選擇與利用**  
+   - 選擇不含咖啡因的茶（如滑石elm茶），以支持器官健康並避免血糖波動。
+2. **脂肪咖啡的使用**  
+   - 配合牛油或椰子油制作厚實咖啡，延長斷食時間，但需控制攝取量。
+3. **電解質的補充**  
+   - 透過飲用含鉀、鎂和鈣等礦物質的液體來改善胰島素抵抗。
+4. **食醯 vinegar 的應用**  
+   - 使用蘋果醋稀釋後飲用，幫助降低血糖並改善脂肪肝功能。
+5. **高纖維飲品的攝取**  
+   - 配備萊菔汁和小麥草粉的 kale 震懾液，提供營養且低糖分。
+6. **酮體炸彈（ketobombs）的補充**  
+   - 用富含脂肪的食物作為快速能量來源，幫助在过渡期減少饥饿感。
+7. **睡眠管理**  
+   - 確保充分的睡眠時間，以避免疲勞導致的食欲增加和血糖紊亂。
+8. **適度運動**  
+   - 選擇低強度運動（如散步），並在進食後進行，以穩定血糖水平。
+9. **飲食速度與消化管理**  
+   - 慢速食用，充分咀嚼，避免暴飲暴食和胃腸壓力。
+
+---
+
+### 健康建議
+1. **飲食策略**  
+   - 選擇低糖、高纖維、富含礦物質的食物，並利用茶和脂肪來延長斷食時間。
+2. **生活方式調整**  
+   - 確保充足的睡眠，避免疲勞導致的血糖不穩定和食欲增加。
+3. **運動建議**  
+   - 適度的低強度運動有助於穩定血糖，但需注意進食後進行以避免低血糖。
+4. **心理調適**  
+   - 逐步改變飲食習慣，並在進食時放慢速度，以提高斷食的舒適感。
+
+---
+
+### 結論
+- **間歇性斷食的成功關鍵**  
+  適當的飲食選擇、充分的睡眠、規律的運動和良好的消化習慣是成功進行間歇性斷食的重要因素。這些策略不僅能幫助延長禁食時間，還能提高整體健康水平。
 </details>
 
 <details>
-<summary>1258. 23 Benefits of Intermittent Fasting & One Meal A Day – Dr. Berg On OMAD Diet</summary><br>
+<summary>1258. [2018-01-01] 23 Benefits of Intermittent Fasting & One Meal A Day – Dr. Berg On OMAD Diet</summary><br>
 
 <a href="https://www.youtube.com/watch?v=M7RuGvMJndg" target="_blank">
     <img src="https://img.youtube.com/vi/M7RuGvMJndg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 探讨一种名为“OMAD”（One Meal A Day）的单餐日饮食模式，及其与间歇性禁食的关系。  
 
+---
+
+### 主要觀念  
+1. **定义和原则**  
+   - OMAD是一种23小时禁食加1小时进食的饮食模式，属于间歇性禁食的一种形式。  
+   - 进餐时间可以灵活安排，尤其适合社交活动或外出就餐时使用。  
+
+2. **经济与时间效益**  
+   - 通过减少每日餐次，每月可节省至少600美元的食物开销。  
+   - 节省了准备和进食的时间，提高了生活效率。  
+
+3. **生理健康益处**  
+   - **消化系统改善**：给胃肠道器官（如胃、胰腺、胆囊）提供休息时间，有助于缓解肠易激惹综合征（IBS）。  
+   - **免疫系统增强**：通过诱导自噬作用，清除受损蛋白质和病原体（如病毒、真菌），提升免疫力。  
+   - **延长寿命与抗衰老**：自噬作用具有延缓细胞老化的作用。  
+
+4. **代谢与体重管理**  
+   - 促进身体进入酮症状态，增强脂肪燃烧能力，减少饥饿感和食物 cravings。  
+   - 改善血糖调节，降低胰岛素水平，有助于预防或改善糖尿病（包括前期糖尿病和低血糖）。  
+   - 减少内脏脂肪堆积，塑造平坦腹部。  
+
+5. **心理与认知健康**  
+   - 提高情绪稳定性，缓解焦虑和抑郁症状，源于稳定血糖水平对神经功能的调节作用。  
+   - 增强专注力、记忆力及整体认知功能，有助于预防痴呆症。  
+   - 改善精神状态，部分人报告了愉悦感和思维清晰度的提升。  
+
+6. **其他健康益处**  
+   - 降低炎症性疾病的发病率（如关节炎）。  
+   - 降低血压和心脏病风险，通过减少高胰岛素血症实现。  
+   - 改善肝脏健康，帮助消除脂肪肝。  
+   - 增强肌肉代谢，提升肌肉密度和质量，同时保护肌肉免受流失。  
+
+7. **行为与纪律培养**  
+   - OMAD模式要求较强的自律性，通过长时间禁食锻炼意志力和自我控制能力。  
+
+---
+
+### 問題原因  
+- 长期过量进食、不规律饮食及高糖高脂饮食导致的代谢紊乱（如胰岛素抵抗、慢性炎症）。  
+- 现代生活方式中对食物的高度依赖和无节制摄入，引发多种慢性疾病。  
+
+---
+
+### 解决方法  
+1. **采用OMAD模式**  
+   - 选择一天中的特定时间进行高质量的一餐，其余时间保持禁食状态。  
+
+2. **饮食规划与调整**  
+   - 确保进餐内容富含营养且低GI（低升糖指数），以维持稳定的血糖水平。  
+
+3. **行为习惯培养**  
+   - 通过OMAD模式逐步建立规律的进食习惯和较强的自我约束能力。  
+
+---
+
+### 健康建議  
+1. **初始阶段注意事项**  
+   - 初学者应循序渐进地延长禁食时间，避免因血糖骤降引发不适（如头晕、乏力）。  
+   - 进餐时优先选择高蛋白、高纤维的食物以延缓饥饿感。  
+
+2. **长期实践建议**  
+   - 定期监测身体指标（如体重、血糖、血压），评估健康状况的变化。  
+   - 结合适量运动，进一步提升代谢率和整体健康水平。  
+
+3. **禁忌与注意事项**  
+   - 不适合孕妇、哺乳期女性及患有严重低血糖或某些慢性疾病的人群。  
+   - 在开始OMAD模式前，建议咨询专业医疗人员以确保安全性。  
+
+---
+
+### 結論  
+OMAD作为一种间歇性禁食策略，在改善代谢健康、增强免疫力和提升生活质量方面展现出显著潜力。然而，其适用性和效果因人而异，需根据个人健康状况和生活方式进行调整，并在必要时寻求专业指导。
 </details>
 
 <details>
-<summary>1257. Compound Exercises to Help Insulin Resistance (Pre-Diabetes) - Dr. Berg</summary><br>
+<summary>1257. [2017-12-31] Compound Exercises to Help Insulin Resistance (Pre-Diabetes) - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HQ0mIz0I14E" target="_blank">
     <img src="https://img.youtube.com/vi/HQ0mIz0I14E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- **胰島素抵抗（Insulin Resistance）**：一種前期糖尿病狀況，導致胰島素功效降低，引發多種症狀，如餐後疲勞、對甜食的渴望、夜間流汗、腹部肥胖等。
 
+---
+
+### 主要觀念  
+1. **傳統運動的局限性**：  
+   - 45分鐘的跑步機或其他常見器械上的單一肌群訓練無法有效改善胰島素抵抗。
+2. **推薦的運動方式**：  
+   - **複合阻力訓練（Compound Resistance Training）**：涉及多個肌肉群和關節的訓練方法，例如啞鈴深蹲、槓鈴划船等。  
+   - 通過增加重量或 repetitions 至肌肉極限 fatigue，以刺激肌肉生長和代謝改善。
+
+---
+
+### 問題原因  
+- **胰島素抵抗**：導致血糖調節失衡，增加患糖尿病風險。  
+- **傳統運動不足**：單一肌群訓練未能有效刺激全身代謝，降低胰島素敏感性。
+
+---
+
+### 解決方法  
+1. **複合阻力訓練**：  
+   - 涉及多個肌肉群和關節的訓練可提高胰島素敏感性。  
+   - 確保訓練至肌肉極限 fatigue，以避免 overtraining 並防止皮質醇激增。  
+2. **激素調節**：  
+   - 複合阻力訓練可刺激生長激素分泌，有助於脂肪燃燒和血糖控制。
+
+---
+
+### 健康建議  
+1. **飲食配合**：  
+   - 配合低碳水化合物飲食（如酮式飲食）或間歇性禁食，避免高碳水化合物攝入。  
+2. **訓練頻率與強度**：  
+   - 確保訓練頻率和強度適當，避免 overtraining 並防止皮質醇過度分泌。
+
+---
+
+### 結論  
+- 複合阻力訓練是改善胰島素抵抗的有效方法，需配合飲食調整以最大化效果。
 </details>
 
 <details>
-<summary>1256. Why Your Friends & Family Are Not Doing Keto & Intermittent Fasting? – Dr. Berg</summary><br>
+<summary>1256. [2017-12-31] Why Your Friends & Family Are Not Doing Keto & Intermittent Fasting? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ycxS9A2UrHY" target="_blank">
     <img src="https://img.youtube.com/vi/ycxS9A2UrHY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理：為什麼你的朋友和家人都不做 keto 或禁食？
 
+#### 核心主題
+- **拒絕接受新事物**：人們通常不會嘗試自己不了解的事物。
+- **缺乏教育與理解**：未能充分解釋 keto 和禁食的好處，導致他人不敢接受。
+
+#### 主要觀念
+1. **Ketogenic 饮食（生酮飲食）**：
+   - 是一種允許身體burn fat的飲食方式。
+   - 通過使用脂肪作為主要燃料來消耗 excess fat。
+   - 生酮飲食能提高大腦、心臟和荷爾蒙的功能。
+
+2. **Intermittent Fasting（間歇性禁食）**：
+   - 不是一種 diet，而是一種用餐與禁食的頻率模式。
+   - 可觸發脂肪燃燒激素及抗衰老激素。
+
+#### 問題原因
+- **知識匱乏**：他人不了解keto和禁食的好處及操作方式。
+- **缺乏具體指導**：未提供簡單明了的解釋，使人感到困惑或不信任。
+
+#### 解決方法
+1. **提升自身理解**：
+   - 深入了解keto和禁食的原理，才能有效傳播知識。
+   
+2. **簡單明了的解釋**：
+   - 將複雜概念簡化為易懂的語言。
+   - 逐步引導他人瞭解並接受。
+
+3. **提供具體建議**：
+   - 分享免費資源（如keto課程），幫助他人進一步學習和實踐。
+
+#### 健康建議
+- 開始時可參加免費的keto課程，學習基本知識。
+- 游戲化禁食，逐步延長禁食時間。
+
+#### 結論
+- 人們不接受新事物的原因多為不了解其好處及操作方式。
+- 提供簡單且具體的解釋，並分享資源，能有效改變他人態度並促使其實踐。
 </details>
 
 <details>
-<summary>1255. Is Your Eczema Coming from a Salicylate Sensitivity? – Dr. Berg On Atopic Dermatitis</summary><br>
+<summary>1255. [2017-12-30] Is Your Eczema Coming from a Salicylate Sensitivity? – Dr. Berg On Atopic Dermatitis</summary><br>
 
 <a href="https://www.youtube.com/watch?v=2J75mqls4Xw" target="_blank">
     <img src="https://img.youtube.com/vi/2J75mqls4Xw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 探讨濕疹（eczema）的常见诱因之一：水楊酸鹽敏感性（salicylate sensitivity）。  
 
+### 主要概念  
+- 濕疹是一種皮膚疾病，表現為紅腫、瘙癮和脫皮。  
+- 水楊酸鹽（salicylates）是一類在植物、香料和堅果中自然存在的化合物，與阿司匹林（aspirin）的成分相似。  
+
+### 啟發的原因  
+- 阿司匹林屬於水楊酸的合成形式，但天然水楊酸鹽也可能導致敏感反應。  
+- 患者若對水楊酸鹽過敏或敏感，可能會引發濕疹症狀。  
+
+### 解決方法  
+1. **飲食調整**：避免攝入高水楊酸鹽的食物，包括但不限於以下物品：  
+   - 胡椒（cayenne pepper）  
+   - 肉桂（cinnamon）  
+   - 姜黃（turmeric）  
+   - 羅勒（oregano）  
+   - 迷迭香（sage）  
+   - 白蘭地（thyme）  
+   - 黑胡椒（black pepper）  
+   - 芫荽（basil）  
+   - 生薑（ginger）  
+   - 肉豆蔻（nutmeg）  
+   - 西兰花（broccoli）  
+   - 紅辣椒（chili pepper）  
+   - 黃瓜（cucumber）  
+   -菠菜（spinach）  
+   - 南瓜（squash）  
+   - 甜薯（sweet potato）  
+   - 罐頭番茄（canned tomatoes）  
+   - 芥菜（radishes）  
+   - 葫蘆（zucchini）  
+   - 咖啡（coffee）  
+   - 酒精飲料（wine, beer）  
+   - 松子（pine nuts）  
+   - 花生（peanuts）  
+   - 葡萄乾（pistachios）  
+   -杏仁（almonds）。  
+
+2. **測試敏感性**：建議患者在飲食中排除上述食物一週，觀察症狀是否改善，以確定水楊酸鹽敏感性。  
+
+### 健康建議  
+- 若疑為水楊酸鹽引發的濕疹，建議諮詢專業醫療人員進行進一步評估和診斷。  
+- 適當調整飲食結構，避免已知可能誘發症狀的食物。  
+
+### 結論  
+- 水楊酸鹽敏感性可能是導致濕疹的一種重要因素。  
+- 通過飲食控制和測試，患者可以有效管理或改善病情。
 </details>
 
 <details>
-<summary>1254. Getting Enough Nutrients & Calories on Intermittent Fasting ? – Dr. Berg</summary><br>
+<summary>1254. [2017-12-30] Getting Enough Nutrients & Calories on Intermittent Fasting ? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=h1hBRLi5QWY" target="_blank">
     <img src="https://img.youtube.com/vi/h1hBRLi5QWY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納：
 
+#### 1. **核心主題**
+- 探讨在进行每日一次进食（一餐制）时，是否摄入足够的热量以及如何确保营养均衡。
+
+#### 2. **主要觀念**
+- 营养质量比热量数量更重要。
+- 不同食物的营养价值差异显著，需选择高营养价值的食物以减少摄入量。
+- 在禁食一天后进行一次性进食（一餐制）时，身体会进入蛋白质更新状态（Etapa G），从而更高效地利用和保留营养素。
+
+#### 3. **問題原因**
+- 单次进餐可能导致某些微量營養素的攝取不足。
+- 可能出现营养缺乏症状，如疲劳、脱发或指甲脆弱。
+
+#### 4. **解決方法**
+- 选择营养价值高的食物，如深色绿叶蔬菜（例如羽衣甘蓝）、 pasture-raised鸡蛋和野生caught鲑鱼。
+- 控制蛋白质和脂肪的摄入量，避免过量。
+- 增加膳食纤维的摄入，建议食用大量蔬菜（如10杯沙拉）。
+
+#### 5. **健康建議**
+- 使用補充劑（如麥芽粉末、營養酵母片和電解質粉末）以彌補微量營養素的不足。
+- 定期監測身體狀況，如有不適或營養缺乏症狀，及時調整飲食結構。
+
+#### 6. **結論**
+- 在一餐制下，合理選擇高營養價值的食物並注意微量營養素的攝取可以避免營養不良。
+- 身體在禁食後會更有效地利用和保留營養素，但仍需密切關注營養均衡。
+
+### 總結：
+文章強調，在進行每日一次進食時，關鍵在於食物的營養價值而非熱量數量。通過選擇高 nutrient density 的食物、控制蛋白質和脂肪攝取量以及補充微量營養素，可以有效避免營養缺乏問題。
 </details>
 
 <details>
-<summary>1253. Should I Consume Cruciferous Vegetables With a Hypothyroid Condition? – Dr. Berg</summary><br>
+<summary>1253. [2017-12-29] Should I Consume Cruciferous Vegetables With a Hypothyroid Condition? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=V8zMLkDrcIE" target="_blank">
     <img src="https://img.youtube.com/vi/V8zMLkDrcIE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 探讨甲状腺功能减退（hypothyroidism）患者是否可以摄入十字花科蔬菜（cruciferous vegetables）。  
 
+### 主要觀念  
+1. 十字花科蔬菜含有硫苷类化合物，可能干扰碘的吸收。  
+2. 碘是甲状腺激素合成的关键元素，因此需平衡十字花科蔬菜的摄入与碘的摄取。  
+3. 十字花科蔬菜具有显著的健康益处，包括解毒作用和对雌激素代谢的支持。  
+
+### 問題原因  
+- 十字花科蔬菜中的某些成分可能抑制甲状腺对碘的吸收，从而影响甲状腺功能。  
+- 碘缺乏是导致甲状腺问题的主要原因之一，尤其是在甲状腺功能减退患者中。  
+
+### 解決方法  
+1. 建議在食用十字花科蔬菜時搭配高碘食物（如海藻）。  
+2. 選擇低硫苷的十字花科蔬菜品種，例如羽衣甘蓝（kale），以降低對碘吸收的影響。  
+3. 確保攝取足夠的碘，通過補充劑或含碘食物來彌補可能的丟失。  
+
+### 健康建議  
+- 雖然十字花科蔬菜具有多種健康益處，但甲状腺功能減退患者需謹慎平衡其攝取量與碘的攝入。  
+- 可在早晨空腹時服用高品質海藻サプリメント（如海帶 капсулы），以補充碘元素。  
+
+### 結論  
+十字花科蔬菜為健康飲食的重要組成部分，但對於甲状腺功能減退患者來說，需注意其對碘吸收的影響。通過合理搭配含碘食物或補充劑，可以在享受其健康益處的同時，避免可能的負面影響。
 </details>
 
 <details>
-<summary>1252. Ants Love High Fructose Corn Syrup (HFCS) as Much As We Do – Dr. Berg</summary><br>
+<summary>1252. [2017-12-28] Ants Love High Fructose Corn Syrup (HFCS) as Much As We Do – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vYQWh97-MEo" target="_blank">
     <img src="https://img.youtube.com/vi/vYQWh97-MEo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節化整理
 
+#### 核心主題
+- 高果糖玉米糖浆（High Fructose Corn Syrup, HFCS）的成瘾性和健康影響。
+
+#### 主要觀念
+1. **神经伝達物質的刺激**：
+   - HFCS会刺激多巴胺、安多酚和血清otonin等pleasure neurotransmitters，类似于可卡因的作用。
+2. **消費行為的影響**：
+   - HFCS比其他糖分更具吸引力， ants实验表明其对蚂蚁的吸引力超过葡萄糖和其他甜味劑。
+3. **攝取后果**：
+   - HFCS不仅成瘾，还可能导致胰島素抗性、腹部脂肪堆积等健康問題。
+
+#### 問題原因
+1. **神經傳導物质的過度刺激**：
+   - 高剂量HFCS会过度激活pleasure pathway，导致成瘾。
+2. **不滿足感**：
+   - HFCS不能像其他糖分一樣提供足夠的 satiety，導致更多的消費和依賴。
+3. **健康代價**：
+   - HFCS攝取過量會引發胰島素抗性、肥胖和其他代谢相關問題。
+
+#### 解決方法
+1. **避免HFCS攝取**：
+   - 减少在食物和飲料中使用HFCS。
+2. **選擇更健康的糖分**：
+   - 使用天然糖分如蜂蜜或蔗糖，並控制攝量。
+3. **增加膳食纖維**：
+   - 通過攝入高fiber食物來幫助控制血糖水平。
+
+#### 健康建議
+1. **閱讀食品標籤**：
+   - 注意食品中HFCS的含量，優先選擇不含HFCS的產品。
+2. **飲食平衡**：
+   - 確保飲食多樣化，包含足夠的蔬菜、水果和全穀物。
+3. **限製含糖飲料**：
+   - 减少攝取含HFCS的汽水和其他甜味飲料。
+
+#### 結論
+- HFCS因其高度成瘾性和健康風險，需謹慎消費。
+- 通過選擇更健康的糖分和整體飲食調整，可以降低HFCS的影響並改善整體健康狀況。
 </details>
 
 <details>
-<summary>1251. The Benefit Of Egg Yolks On Your Brain Health – Dr. Berg on Egg Nutrition</summary><br>
+<summary>1251. [2017-12-28] The Benefit Of Egg Yolks On Your Brain Health – Dr. Berg on Egg Nutrition</summary><br>
 
 <a href="https://www.youtube.com/watch?v=z3kNAL0NT-Q" target="_blank">
     <img src="https://img.youtube.com/vi/z3kNAL0NT-Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 探讨蛋黄在支持和增强大脑功能中的作用。
 
+### 主要觀念
+1. **磷脂酰胆碱的重要性**：
+   - 磷脂酰胆碱是一种健康的脂肪，是细胞膜的重要组成部分。
+   - 它有助于构建细胞外层结构。
+   - 作为关键营养素，它支持脑功能，包括记忆力、注意力和专注力的提升。
+
+2. **蛋黄作为磷脂酰胆碱的良好来源**：
+   - 蛋黄富含磷脂酰胆碱。
+   - 每日摄入四颗鸡蛋是常见的摄取方式。
+
+### 問題原因
+- 常见的磷脂酰胆碱来源（如大豆）可能存在问题，例如大部分大豆为转基因产品。
+
+### 解決方法
+1. **选择优质来源**：
+   - 推荐食用非转基因的大豆。
+   - 食用富含磷脂酰胆碱的鱼类，如大西洋鲭鱼和鲱鱼。
+   - 优先选择蛋黄作为摄取途径。
+
+2. **克服对鸡蛋的顾虑**：
+   - 解除对鸡蛋可能导致高胆固醇的担忧。
+   - 指出适量摄入鸡蛋不会增加坏胆固醇，反而可能提升好胆固醇。
+
+### 健康建議
+- **饮食建议**：每日摄入四颗鸡蛋以获取磷脂酰胆碱。
+- **健康益处**：支持神经系统和大脑功能，对肝脏修复也有帮助，特别是针对慢性肝炎（A、B、C型）。
+
+### 結論
+- 蛋黄是磷脂酰胆碱的优质来源，有助于提升脑功能和整体健康。
 </details>
 
 <details>
