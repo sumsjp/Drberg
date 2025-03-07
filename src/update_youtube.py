@@ -32,7 +32,7 @@ sender_email = os.getenv('SENDER_EMAIL')
 sender_password= os.getenv('SENDER_PASSWORD')
 # print(f"email={sender_email}, password={sender_password}")
 
-receiver_emails = ["mingshing.su@gmail.com", "sibuzu.ai@gmail.com"]
+receiver_emails = ["sibuzu.ai@gmail.com"]
 
 def update_list():
     # === yt-dlp 參數設定 ===
@@ -84,7 +84,7 @@ def update_list():
     else:
         print("📌 沒有新影片")
         # new_df = pd.DataFrame()
-        new_df = existing_df.tail(2)
+        new_df = existing_df.tail(1)
         return existing_df, new_df
 
 
@@ -388,7 +388,7 @@ def email_notify(new_df):
                     # 為每個收件者建立新的郵件物件
                     msg = MIMEMultipart('alternative')
                     msg['Subject'] = f"Dr. Eric Berg: {video['title']}"
-                    msg['From'] = sender_email
+                    msg['From'] = f"no-reply <{sender_email}>"
                     msg['To'] = receiver
                     msg.attach(MIMEText(html_template, 'html'))
                     
