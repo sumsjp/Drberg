@@ -362,113 +362,525 @@
 </details>
 
 <details>
-<summary>1167. Weight Loss Problem: Overweight People Have Hard Time Losing Fat – Dr. Berg</summary><br>
+<summary>1167. [2017-11-12] Weight Loss Problem: Overweight People Have Hard Time Losing Fat – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xLKVNHn6Fy8" target="_blank">
     <img src="https://img.youtube.com/vi/xLKVNHn6Fy8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 肥胖者難以輕易減重的原因與胰島素抵抗（Insulin Resistance）有關。
 
+---
+
+### 主要觀念  
+1. 胰島素抵抗是一種代謝紊亂狀態，影響身體對胰島素的反應。
+2. 胰島素是由胰腺分泌的激素，負責調節血糖水平並幫助糖分進入細胞。
+3. 在胰島素抵抗的情況下，胰島素無法有效與细胞表面受體結合，導致胰腺過度分泌胰島素。
+
+---
+
+### 問題原因  
+1. 胰岛素抵抗阻礙脂肪燃燒激素的作用。  
+   - 文章指出，至少六種已知的脂肪燃燒激素在胰岛素水平偏高的情況下無法有效工作。
+2. 高胰岛素水平干擾代謝過程，影響減重效果。  
+   - 即使進行運動或降低飲食攝入，高胰岛素水平也不會顯著下降。
+3. 健康食品並不能有效地降低胰岛素水平。  
+
+---
+
+### 解決方法  
+1. 了解導致胰岛素升高的誘因（如高糖、高碳水化合物飲食）。  
+2. 通過特定飲食和生活方式的調整來降低胰岛素水平。  
+3. 文章推薦了一門ミニコース，涵蓋四段短視頻，教授如何降低胰岛素水平並改善胰島素抵抗。
+
+---
+
+### 健康建議  
+1. 確保飲食結構合理，避免高糖和高升糖指数（GI）食物。  
+2. 適當運動，尤其是力量訓練和有氧運動，有助於提高胰岛素敏感性。  
+3. 保持良好的睡眠質裡和心理健康，以支持整體代謝健康。  
+4. 減低炎症水平，通過抗氧化飲食和抗炎生活方式來實現。
+
+---
+
+### 結論  
+- 胰島素抵抗是肥胖者減重困難的核心問題之一。  
+- 降低胰岛素水平不僅有利於減重，還能改善整體健康狀況，包括認知功能、能量水平和睡眠質量。  
+- 文章提供的ミニコース可作為解決此問題的有效資源。
 </details>
 
 <details>
-<summary>1166. Keto And Cholesterol: Why LDL Can Increase on Low Carb Diet – Dr. Berg</summary><br>
+<summary>1166. [2017-11-12] Keto And Cholesterol: Why LDL Can Increase on Low Carb Diet – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=tlprT9FvY6M" target="_blank">
     <img src="https://img.youtube.com/vi/tlprT9FvY6M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 探讨低碳水饮食（如低碳、生酮饮食）期间胆固醇升高的原因及其科学解释。
 
+---
+
+### 主要觀念  
+1. 低碳水饮食通过减少糖分和碳水化合物的摄入，促进脂肪分解。
+2. 脂肪细胞主要由甘油三酯和膽固醇組成，脂肪分解时会释放这些物质进入血液。
+3. 血液中胆固醇水平的短期上升是暂时性的，而非长期问题。
+
+---
+
+### 問題原因  
+- 在低碳水饮食过程中，体内储存的脂肪被分解，导致遊離脂肪酸和膽固醇增加，短时间内反映在血液中。
+
+---
+
+### 解決方法  
+1. **飲食調整**：增加蔬菜攝取量（建議每日7-10杯），以幫助排出 excess 脫氧膽酸和其他代謝物。
+2. **持續監測**：定期檢查血脂指標（如LDL、HDL和甘油三酯），以評估健康狀況。
+3. **健康生活方式**：保持運動習慣，促進脂肪燃燒和整體代謝率。
+
+---
+
+### 健康建議  
+- 確保飲食中包含足夠的膳食纖維，幫助清除血液中的膽固醇。
+- 避免突然增加高飽和脂肪酸的食物攝取，以免加重血脂異常。
+- 如有疑慮，建議諮詢專業醫療人員。
+
+---
+
+### 結論  
+低碳水饮食可能导致短期胆固醇水平上升，但這是脂肪分解的正常生理反應。通過合理的飲食調整和生活習慣，可以有效管理此問題，並長期保持健康。
 </details>
 
 <details>
-<summary>1165. What is "Too Much" Fat on Keto (ketogenic diet)? – Dr. Berg</summary><br>
+<summary>1165. [2017-11-11] What is "Too Much" Fat on Keto (ketogenic diet)? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Y-SOmLTahfI" target="_blank">
     <img src="https://img.youtube.com/vi/Y-SOmLTahfI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：酮飲食中脂肪攝取過量的影響及處理策略
 
+#### 核心主題
+- 探讨酮飲食中脂肪攝取量的平衡，避免過量脂肪對健康造成的負面影響。
+
+#### 主要觀念
+1. 酮飲食中脂肪攝取比例建議為75%，但需要根據個人情況調整。
+2. 過多脂肪攝取可能導致肝臟、膽囊和胰腺負擔加重。
+3. 酮飲食初期，脂肪攝取量需較高以幫助血糖穩定，但長期來看可逐漸減少。
+
+#### 問題原因
+1. **血糖問題**：低血糖患者若脂肪攝取不足，容易感到飢餓且能量不夠。
+2. **胰腺壓力**：糖尿病或胰臟功能不佳者，過多脂肪可能加重胰臟負擔。
+3. **消化不適**：過量脂肪攝取可引起腹脹、噁心、右上腹疼痛等症狀。
+
+#### 解決方法
+1. **初期調整**：
+   - 酮飲食初期增加脂肪攝取，幫助血糖穩定和身體適應酮狀態。
+2. **長期平衡**：
+   - 經過一段時間後，可逐漸降低脂肪攝取量，使身體更有效地切換於糖脂燃燒之間。
+3. **避免酮炸彈（Keto Bombs）**：
+   - 避免過度依賴含高脂肪的小食，防止脂肪攝取過量影響體重LOSS。
+4. **結合間歇性禁食**：
+   - 結合禁食策略，控制脂肪攝取量，避免脂肪堆積。
+
+#### 健康建議
+1. 酮飲食初期，根據血糖狀況調整脂肪攝取量。
+2. 注意脂肪來源的質量，選擇健康脂肪（如橄欖油、坚果等）。
+3. 減少高脂肪零食攝取，防止脂肪攝取過度。
+4. 結合禁食策略，提升酮飲食的效果。
+
+#### 總結
+- 酮飲食的成功關鍵在於平衡脂肪攝取量，避免過量或不足。
+- 初期需較高的脂肪攝取以穩定血糖，但隨時間可逐漸調整至適當水準。
+- 結合禁食策略並注意脂肪來源和攝取方式，能有效提升健康效益。
 </details>
 
 <details>
-<summary>1164. Vitamin B1 Deficiency Symptoms in Diabetes & Hypoglycemia – Dr.Berg</summary><br>
+<summary>1164. [2017-11-11] Vitamin B1 Deficiency Symptoms in Diabetes & Hypoglycemia – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=OlP9j1Z2Qbo" target="_blank">
     <img src="https://img.youtube.com/vi/OlP9j1Z2Qbo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題  
+- 維生素B1（硫胺素）在糖尿病及其前期症狀中的重要性。
+
+---
+
+#### 主要觀念  
+1. **維生素B1的功能**：  
+   - 維生素B1是碳水化合物和葡萄糖代謝相關酶的主要輔因子。  
+   - 支持神經系統的髓鞘（myelin sheath），保護神經並促進神經健康。  
+   - 負責維護血管內皮功能，防止動脈壁受損，降低心血管疾病風險。  
+   - 維生素B1對眼睛，特別是視網膜的健康至關重要。
+
+2. **糖尿病與維生素B1 deficiency**：  
+   - 1型和2型糖尿病人普遍存在维生素B1不足。  
+   - 高血糖會導致維生素B1的消耗增加，並影響其吸收能力。  
+
+3. **臨床表現**：  
+   - 神經病變症狀：如肢端麻木、燒灼感、疼痛等（與髓鞘損傷相關）。  
+   - 血管問題：動脈壁受損可能引發胆固醉斑塊積累、血栓形成及心臟疾病。  
+   - 視力障礙：糖尿病患者常見的視網膜問題可能與維生素B1不足有關。  
+   - 其他症狀：浮腫（踝部和眼周）、睡眠呼吸中斷、自主神經系統失調（如盜汗、心率異常、皮膚過敏反應）。  
+
+---
+
+#### 問題原因  
+1. **營養攝取不足**：  
+   - 高糖飲食、精製碳水化合物攝取過量。  
+   - 維生素B1主要來源於未加工穀物、瘦肉和豆類等食物，但現代飲食中攝取量不足。  
+
+2. **代謝需求增加**：  
+   - 高血糖狀態會導致維生素B1的消耗增加，並影響其吸收能力。  
+
+3. **藥物與醫療干預**：  
+   - 利尿劑、酒精、胃繞道手術等可能導致維生素B1缺乏。  
+
+---
+
+#### 解決方法  
+1. **補充維生素B1**：  
+   - 增加富含維生素B1食物的攝取，如未加工穀物、瘦肉、豆類和酵母菌（nutritional yeast）。  
+   - 避免合成維生素產品，選擇天然複合形式以確保最佳吸收與效果。  
+
+2. **調整飲食習慣**：  
+   - 減少精製糖和高GI食物的攝取，以降低血糖波動並減輕維生素B1的耗損。  
+
+3. **醫療干預**：  
+   - 對於已有嚴重缺乏症狀的患者，可考慮在醫生建議下進行補充治療。  
+
+---
+
+#### 健康建議  
+- 糖尿病患者及前期（如胰島素抵抗）應特別注意維生素B1的攝取量。  
+- 選擇天然食物來源的維生素B1，而非合成劑。  
+- 定期監測相關症狀，如有疑慮可諮詢醫療專業人員。  
+
+---
+
+#### 結論  
+維生素B1在糖尿病管理和併發症 prevention 中扮演重要角色。通過調整飲食、補充足夠的維生素B1，可以有效改善神經、血管和眼部健康，降低心臟病和其他併發症的風險。
 </details>
 
 <details>
-<summary>1163. Glycemic Index vs Glycemic Load (In Simple Terms) – Dr. Berg</summary><br>
+<summary>1163. [2017-11-10] Glycemic Index vs Glycemic Load (In Simple Terms) – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Z-cxMdEvsZM" target="_blank">
     <img src="https://img.youtube.com/vi/Z-cxMdEvsZM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 中文整理： glycemic index and glycemic load 的區別
 
+#### 核心主題: 確定食物中碳水化合物對血糖影響的不同衡量標準  
+- 介紹兩個主要指標：糖分指數（Glycemic Index, GI）和糖分負荷（Glycemic Load, GL）。  
+- 强調這兩個概念在評估食物如何影響血糖水平上的重要性。  
+
+#### 主要觀念: 糖分指數 (GI) 與糖分負荷 (GL) 的定義與差異  
+- **糖分指數 (GI):** 衡量食物中碳水化合物被消化並進入血液的速度，反映了食物引起血糖上升的快慢程度。  
+- **糖分負荷 (GL):** 量化食物中可攝取的碳水化合物含量，調整了膳食纖維和糖類的比例，強調了食物攝取量對血糖影響的整體效果。  
+
+#### 問題原因: 素食選擇中的常見混淆  
+- 很多人不了解 GL 的概念，容易只根據 GI 來評估食物的健康性。  
+- 高 GI 食物不一定代表高 GL，某些高纖維食物雖有高 GI，但其/GL/ 可能較低，對血糖影響不大。  
+
+#### 解決方法: 如何綜合考慮 GI 和 GL  
+- 使用兩個指標共同評估食物的血糖反應：  
+  - **GI** 確定碳水化合物吸收速度。  
+  - **GL** 確定碳水化合物攝取量及其對血糖的影響。  
+
+#### 健康建議: 適當選擇食物以平衡血糖水平  
+- 選擇低 GI 和中等 GL 的食物，避免高GI和高GL的組合攝取。  
+- 注意膳食纖維的作用，增加高纖維食物攝取量，降低血糖波動。  
+
+#### 結論: 理解 GI 和 GL 的重要性對健康飲食至關重要  
+- 遭受血糖問題的人群更應該注意這兩個指標的綜合應用。  
+- 飲食結構需根據個人狀況調整，建議諮詢專業營養師。  
+
+---
+
+### English Summary: Differences Between Glycemic Index and Glycemic Load
+
+#### Core Theme: Determining the Impact of Carbohydrates on Blood Sugar Levels  
+- Introduce two key metrics: Glycemic Index (GI) and Glycemic Load (GL).  
+- Emphasize their importance in assessing how food affects blood sugar levels.  
+
+#### Key Concepts: Definitions and Differences Between GI and GL  
+- **Glycemic Index (GI):** Measures the rate at which carbohydrates are digested and enter the bloodstream, reflecting how quickly a food raises blood sugar levels.  
+- **Glycemic Load (GL):** Quantifies the amount of digestible carbohydrates in a food portion, adjusted for fiber content, indicating the overall impact on blood sugar.  
+
+#### Issues Arising from Misconceptions: Confusion in Food Choices  
+- Many people are unaware of GL and rely solely on GI to assess food healthiness.  
+- High GI foods don't necessarily mean high GL; some high-fiber foods may have a high GI but low GL, resulting in minimal blood sugar impact.  
+
+#### Solutions: Incorporating Both GI and GL for Better Assessment  
+- Use both metrics together to evaluate blood sugar response:  
+  - **GI** determines carbohydrate absorption speed.  
+  - **GL** determines the overall effect of carbohydrate intake on blood sugar.  
+
+#### Health Recommendations: Balanced Food Selection for Blood Sugar Control  
+- Choose low GI and moderate GL foods, avoiding combinations of high GI and high GL.  
+- Increase fiber intake with high-fiber foods to reduce blood sugar fluctuations.  
+
+#### Conclusion: Understanding GI and GL is Crucial for Healthy Eating  
+- Individuals with blood sugar issues should prioritize the use of these metrics.  
+- Dietary choices should be personalized,建议 consulting a nutritionist for tailored advice.
 </details>
 
 <details>
-<summary>1162. Keto Success Stories – Lost 80 Pounds On Keto – Dr. Berg's Skype Interview With Jennifer Rogers</summary><br>
+<summary>1162. [2017-11-10] Keto Success Stories – Lost 80 Pounds On Keto – Dr. Berg's Skype Interview With Jennifer Rogers</summary><br>
 
 <a href="https://www.youtube.com/watch?v=F9PmycCGC14" target="_blank">
     <img src="https://img.youtube.com/vi/F9PmycCGC14/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- **酮飲食（Keto Diet）**：文章圍繞酮飲食的核心主題展開，探討其健康效益、挑戰及長期影響。
+
+#### 主要觀念
+1. **酮飲食的定義與目的**：
+   - 酮飲食是一種低碳水化合物、高脂肪的飲食方式，旨在使身體進入酮症 metabolism，利用脂肪作為主要能量來源。
+   
+2. **健康效益**：
+   - **體重管理**：有效促進減肥，尤其是腹部脂肪的減少。
+   - **血糖控制**：降低血糖水平，有益於糖尿病患者。
+   - **心臟健康**：改善血脂 profle，降低心血管疾病風險。
+   - **能量來源轉化**：酮症下，身體更有效地利用脂肪供能。
+
+#### 問題與原因
+1. **短期挑戰**：
+   - 初期可能出现「酮流感」（ Keto Flu），症狀包括頭暈、疲勞等，原因是身體適應酮症的過程。
+   
+2. **長期挑戰**：
+   - 髮髮脫落：與體重快速下降及營養吸收有關。
+   - 肝臟負荷增加：過量脂肪攝入可能影響肝功能。
+
+#### 解決方法
+1. **逐步適應**：
+   - 減少碳水化合物攝取，增加健康脂肪的攝入，逐步進入酮症。
+   
+2. **營養平衡**：
+   - 確保攝取足夠的蛋白質和微量營養素，避免營養不均衡。
+   
+3. **健康管理**：
+   - 定期監測血糖、血脂等指標，評估健康狀況。
+   
+4. **心理調適**：
+   - 应對初期不适，保持堅持，逐步建立新陳代謝習慣。
+
+#### 健康建議
+1. **飲食調整**：
+   - 選擇高脂肪食物（如橄欖油、坚果）、中等蛋白質來源（如oultry, fish）和低碳水化合物蔬菜。
+   
+2. **運動建議**：
+   - 低強度运动（如慢跑、瑜伽）更適合酮症下的能量水平，增肌訓練則需適當調整。
+
+3. **醫療諮詢**：
+   - 在開始酮飲食前，諮詢醫生或營養師，特別是有慢性疾病或藥物使用情況的人群。
+
+4. **長期跟蹤**：
+   - 定期評估健康指標，根據身體反應調整飲食計劃。
+
+#### 結論
+- 酮飲食提供了一種有效的體重管理和整體健康改善的方法，但需注意其挑戰和潛在影響。科學規劃、合理實施並持續跟蹤是成功的關鍵。
 </details>
 
 <details>
-<summary>1161. Fructose: The Most Dangerous Sugar for Belly – Dr. Berg</summary><br>
+<summary>1161. [2017-11-09] Fructose: The Most Dangerous Sugar for Belly – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ZReCxD5X9Qw" target="_blank">
     <img src="https://img.youtube.com/vi/ZReCxD5X9Qw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：高果糖玉米 syrup的危害及健康建議
 
+#### 核心主題：
+- 高果糖玉米糖漿（High-Fructose Corn Syrup, HFCS）的潛在危害及其健康影響。
+
+---
+
+#### 主要觀念：
+1. **低血糖指數甜eners的安全性**：
+   - 果糖（Fructose）是一種低血糖指數甜ener，但其安全性需謹慎評估。
+   
+2. **HFCS的來源及普及性**：
+   - HFCS在美國被廣泛使用於食品中，包括軟飲料、果汁、果醬等，約占80%以上的加工食品。
+
+3. **HFCS與健康的關係**：
+   - 與酒精相似，果糖無法直接作為細胞的能量來源。
+   - 100%的果糖在肝臟代谢，過量攝取會導致肝臟負荷加重。
+
+---
+
+#### 問題原因：
+- **脂肪肝**：HFCS的大量攝取導致肝臟代謝紊亂，形成脂肪肝。
+- **胰島素抵抗**：影響血糖調控，增加2型糖尿病風險。
+- **腹脂堆積**： visceral fat（內臟脂肪）增加，引發心血管疾病等問題。
+
+---
+
+#### 解決方法：
+1. **避免HFCS攝取**：
+   - 避免含HFCS的食品和飲料，特別是加工食品、軟飲料和果汁。
+   
+2. **選擇健康甜eners**：
+   - 替代HFCS，可考慮使用天然甜eners如蜂蜜、 maple syrup（楓糖漿）或人造代糖如Stevia。
+
+---
+
+#### 健康建議：
+1. **飲食控制**：
+   - 减少精制食品的攝取，多食用 whole foods（未加工食物）。
+   
+2. **家長責任**：
+   - 為兒童提供健康的飲品和食物，避免讓他們攝取HFCS。
+
+---
+
+#### 結論：
+- HFCS對身體的危害類似於酒精，尤其是其對肝臟和代謝系統的影響。
+- 選擇更健康的甜eners和飲食習慣是改善整體健康的重要步驟。
 </details>
 
 <details>
-<summary>1160. Eat More Calories To Lose More Weight (Adding Intermittent Fasting) – Dr. Berg</summary><br>
+<summary>1160. [2017-11-09] Eat More Calories To Lose More Weight (Adding Intermittent Fasting) – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=QaH56AeT1eI" target="_blank">
     <img src="https://img.youtube.com/vi/QaH56AeT1eI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理
 
+#### 核心主題
+- 誤解 calorie 的作用：低熱量食物未必能有效幫助減重。
+- 高 frequency of eating （進食頻率）影響體重管理。
+
+#### 主要觀念
+1. **Insulin 的角色**：
+   - 每次進食都會觸發胰島素分泌，胰島素阻礙脂肪燃燒。
+   - 即使微量的 excess insulin 足以中斷體脂分解。
+
+2. **進食頻率的影響**：
+   - 高頻率進食（例如六餐）會增加胰島素釋放量，妨礙減重。
+   - 低頻率進食（例如兩餐）可顯著降低胰島素水平，促進脂肪燃燒。
+
+3. **Calorie 的誤區**：
+   - 雖然低熱量食物看似健康，但若進食次數過多，仍無法有效減重。
+   - 總熱量控制不如進食頻率和 insulin 水平重要。
+
+#### 問題原因
+- 大眾對 calorie 的迷思：認為低熱量等於健康且能促進減重。
+- 忽視胰島素在體重管理中的關鍵作用。
+- 高頻率進食被普遍接受，但其實不利於脂肪燃燒。
+
+#### 解決方法
+1. **調整進食 frequency**：
+   - 減少進食次數（例如每日兩餐）。
+   - 避免零食和requent grazing。
+
+2. **選擇低胰島素刺激食物**：
+   - 降低血糖波動的食物，以控制 insulin 水平。
+   - 選擇高蛋白質、低碳水化合物的食物。
+
+#### 健康建議
+- **實驗方法**：
+  - 在一週內進行對比：每日攝入1,500大卡但分為多餐 vs. 每日攝入2,000大卡但只吃兩餐。
+  - 觀察體重變化，驗證進食 frequency 的影響。
+
+- **飲食結構**：
+  - 選擇低GI（升糖指數）食物，穩定血糖和胰島素水平。
+  - 增加蛋白質攝取，有助於肌肉維持和脂肪燃燒。
+
+#### 結論
+- 高 frequency of eating 和低熱量飲食並不能有效促進體重管理。
+- 設計合理的飲食結構（少量高頻率）是關鍵。
+- 了解胰島素的作用机制對於成功減重至關重要。
 </details>
 
 <details>
-<summary>1159. Endometriosis: Causes, Symptoms & Link With Iodine – Dr. Berg</summary><br>
+<summary>1159. [2017-11-08] Endometriosis: Causes, Symptoms & Link With Iodine – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=yINSNtpCX2Q" target="_blank">
     <img src="https://img.youtube.com/vi/yINSNtpCX2Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- **Endometriosis**：一種影響女性生殖系统的疾病，其特徵是子宫內膜組織在子宮以外的部位生長，導致疼痛、炎症和不孕等問題。
+
+#### 主要觀念
+- Endometriosis 的病因目前尚不完全明瞭，但研究顯示其與 **雌激素（Estrogen）** 水平過高密切相关。
+- 女性生殖系統對激素高度敏感，特別是雌激素的影響。
+
+#### 問題原因
+- **環境因素**：農作物上的化學物質（如殺蟲劑、除草劑等）可能干擾内分泌系統，模擬雌激素的作用。
+- **飲食因素**：
+  - 非有機食品中的化學物質可能影響激素平衡。
+  - 高糖飲食會加重雌激素的生產。
+- **缺乏必要的營養素**：如碘等微量元素在調節雌激素水平中起重要作用。
+
+#### 解決方法與健康建議
+1. **飲食調整**：
+   - 增加有機食品的攝取，避免常規農作物上的化學物質干擾。
+   - 減少糖分攝入，以降低雌激素過度生產的可能性。
+2. **營養補充**：
+   - **十字花科蔬菜（Cruciferous Vegetables）**：如 kale、broccoli、Brussels sprouts 和 bok choy 等，具有平衡雌激素的作用。建議研究其濃縮形式（如DIM，Diindolylmethane）。
+   - **碘（Iodine）**：來源於清潔海域的海藻（如Sea Kelp），可降低雌激素在受體細胞中的作用，特別是有助於治療卵巢囊肿和乳腺問題。
+
+#### 注意事項
+- 避免在高甲狀腺功能亢進的情況下攝取碘。
+- 確保在早晨服用碘補充劑，以避免影響晚間睡眠。
+
+#### 结論
+- Endometriosis 的治療應該集中在降低雌激素水平和改善整體激素平衡上。通過飲食調整、營養補充和生活方式的改變，可以有效緩解症狀並提高生活質量。
 </details>
 
 <details>
-<summary>1158. How to Never Get Dental Cavities (Decay)? – Permanent Solution by Dr. Berg</summary><br>
+<summary>1158. [2017-11-08] How to Never Get Dental Cavities (Decay)? – Permanent Solution by Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=652zILDBy7c" target="_blank">
     <img src="https://img.youtube.com/vi/652zILDBy7c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 論述如何預防蛀牙，針對不同人群（如牙醫、家長）提供可行建議。  
 
+### 主要觀念  
+1. 腐蝕的來源： Cavities 的來源來自拉丁文 "decay"，表示腐蝕，兒童或青少年因口腔環境惡化導致牙 enamel 腐蝕。  
+2. 牙齒結構強度：牙 enamel 強度高於鋼，需嚴重酸化才會腐蝕。  
+3. 酸性 pH 的影響：口腔正常 pH 約為中性（7），若降至 4 或以下，酸性環境會破壞骨質（牙 enamel）。  
+
+### 問題原因  
+1. 過量攝取糖分：高糖飲食導致口腔內的有害細菌（如 Streptococcus mutans 和 Lactobacillus）大量滋生。  
+2. 細菌作用：這些細菌將糖分轉化為酸，降低口腔 pH，破壞牙 enamel 的礦物質結構（ calcium 和 phosphorus 被溶解）。  
+
+### 解決方法  
+1. 替代性甜味劑：使用如 xylitol、erythritol 或 stevia 等替代傳統糖分。  
+2. 健康食譜建議：提供使用替代糖的食品配方，降低糖分攝取。  
+
+### 健康建議  
+1. 減少糖分攝取：避免含糖飲料（如汽水）和高糖零食。  
+2. 替代糖的選擇：採用對口腔較為友善的甜味劑，如 xylitol，以降低酸化風險。  
+
+### 結論  
+- 腐蝕是可預防的問題，關鍵在於控制口腔 pH 和減少有害細菌的滋生。  
+- 通過飲食調整和使用替代糖，可以有效降低兒童及成人患 cavities 的風險。
 </details>
 
 <details>
