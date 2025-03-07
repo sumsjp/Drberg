@@ -4833,36 +4833,43 @@ Glyphosate 的廣泛使用和現代飲食結構的問題共同導致了全球性
         alt="[Youtube]" width="200">
 </a>
 
-### Key Points from the Article
+### 小節歸納
 
-#### Core Theme: Tuberculosis as a Global Health Issue  
-- **Key Fact**: Tuberculosis (TB), caused by *Mycobacterium tuberculosis*, is one of the deadliest bacterial diseases globally, claiming approximately 1.8 million lives annually.
-- **Interesting Statistic**: One-quarter of the global population is infected with TB in its dormant or latent form.
+#### 1. 核心主題：全球最致命的 bacterial 疾病  
+   - 最致命的細菌性疾病為肺結核（Tuberculosis, TB），由 Mycobacterium tuberculosis 引發。  
+   - 每年約有 180 萬人死於肺結核，全球約 25% 的人口曾感染此病菌。
 
-#### Forms of Tuberculosis  
-- **Active Infection**: Causes severe symptoms such as chronic cough, blood-tinged mucus, fever, back pain, weight loss, and night sweats. Untreated cases result in a 50% fatality rate.
-- **Latent Infection**: Dormant form with no symptoms or contagiousness, affecting about 90% of infected individuals.
+#### 2. 病情分類：潛伏性與活動性肺結核  
+   - **潛伏性肺結核**：多數感染者（90%）為潛伏狀態，無症狀且非傳染性。  
+   - **活動性肺結核**：少數病例（5%-10%）發展為活動性疾病，具傳染性。
 
-#### Risk Factors for Active TB  
-- **Genetic Factors**: Polymorphisms in the vitamin D receptor increase susceptibility to active TB.
-- **Stress and Cortisol**: Post-traumatic stress syndrome (PTSD) increases risk due to cortisol's immune-suppressive effects.
-- **Age**: Older adults are more vulnerable due to lower vitamin D levels and a weakened immune system.
-- **Health Conditions**: Chemotherapy and steroid use can also increase susceptibility.
+#### 3. 病情原因：免疫系統與風險因素  
+   - 免疫能力低下的個體較易發病，包括兒童、老年人及 HIV/AIDS 患者。  
+   - 風險增加的因素：  
+     - 营養不良（如維生素 D 缺乏）。  
+     - 遗傳缺陷（如维生素D受体多態性）。  
+     - 長期壓力或創傷後ストレス障害（PTSD）導致皮質醇過高，抑制免疫系統。  
 
-#### Role of Vitamin D in TB  
-- **Immune Regulation**: Vitamin D plays a crucial role in modulating the immune system, which is essential for fighting TB.
-- **Vitamin D Deficiency**: Low levels of vitamin D increase the risk of active TB by five times.
-- **Sunlight Exposure**: Adequate sun exposure is recommended to maintain optimal vitamin D levels, as UV light also helps deactivate airborne pollutants and microbes.
+#### 4. 病情發病機制：環境與免疫相互作用  
+   - 肺結核的發病涉及宿主免疫反應與病原菌抗性的平衡。  
+   - 紫外線照射可降低空氣中超過數微生物，包括肺結核病菌。
 
-#### Health Recommendations  
-- **Supplementation**:  
-  - Maintain a baseline of 10,000 IU of vitamin D3 daily.  
-  - Increase intake to 30-40,000 IU for individuals with TB or weakened immune systems.
-- **Sunlight Exposure**: Spend time outdoors, ideally before sunburn occurs, to harness the benefits of UV light and infrared radiation.
+#### 5. 治療與管理：藥物治療、營養干預與疫苗接種  
+   - **藥物治療**：標準化療方案通常需多個月時間。  
+   - **營養干預**：補充維生素 D 可降低發病風險，推薦劑量為每日 10,000 IU，特殊情況可增加至 30-40,000 IU。  
+   - **疫苗接種**：卡介苗（BCG）用於嬰幼兒，但保護力有限。
 
-#### Conclusion  
-- **Preventive Measures**: Addressing vitamin D deficiency through supplementation and sunlight exposure can significantly reduce susceptibility to active TB.  
-- **Holistic Approach**: Combining genetic testing for vitamin D receptor polymorphisms with stress management and immune-enhancing practices is crucial for prevention and treatment.
+#### 6. 健康建議與預防措施  
+   - 避免密切接觸肺結核患者，尤其在封閉通風不良的環境中。  
+   - 加強個人免疫力：保持均衡飲食、規律運動、充足睡眠及降低壓力。  
+   - 定期接受紫外線消毒，尤其是在公共場所。
+
+#### 7. 結論與總體建議  
+   - 肺結核仍是全球重大公共衛生挑戰，需多管齊下的綜合策略。  
+   - 加強免疫系統、補充維生素 D 和避免高風險環境是降低發病率的有效方法。  
+
+### 總結性看法與建議  
+肺結核作為全球最致命的細菌性疾病，其防控需結合藥物治療、營養干預和公共衛生措施。個人應注重免疫力提升，特別是維生素 D 的補充，並避免高風險接觸環境。政策制定者則應推動疫苗研發、普及紫外線消毒技術，並針對高危群體提供早期干預。
 </details>
 
 <details>
