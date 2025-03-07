@@ -320,11 +320,11 @@ def create_doc(df):
         print(f"❌ 處理文件時發生錯誤：{str(e)}")
 
 def email_notify(df):
-    pass
+    print(df)
 
 if __name__ == '__main__':
     df, new_df = update_list()
-    download_script(df)
-    summerize_script()
-    create_doc(df)
+    # download_script(df)
+    # summerize_script()
+    # create_doc(df)
     email_notify(new_df)
