@@ -202,7 +202,7 @@ def make_doc(filename: str, video_list: list):
 
 <a href="https://www.youtube.com/watch?v={id}" target="_blank">
     <img src="https://img.youtube.com/vi/{id}/maxresdefault.jpg" 
-        _target="blank" alt="[Youtube]" width="200">
+        alt="[Youtube]" width="200">
 </a>
 
 {summary_file}
