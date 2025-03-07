@@ -66,7 +66,10 @@ def update_list():
         return combined_df, new_videos_df
     else:
         print("📌 沒有新影片")
-        return existing_df, pd.DataFrame()
+        # new_df = pd.DataFrame()
+        new_df = existing_df.tail(2)
+        return existing_df, new_df
+
 
 def download_script(df):
     # 確保 script_dir 存在
