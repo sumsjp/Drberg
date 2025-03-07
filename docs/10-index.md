@@ -553,40 +553,32 @@
         alt="[Youtube]" width="200">
 </a>
 
-### Core Theme (核心主題)
-- The article discusses photosensitivity, a condition where individuals experience adverse reactions to sunlight due to vitamin B3 deficiency.
+### 文章總結：日光敏感性與維生素B3缺乏之探討
 
----
+#### 核心主題：
+- 探讨日光敏感性（photosensitivity）及其与维生素B3（niacin）缺乏的关系。
 
-### Main Concepts (主要概念)
-1. Photosensitivity is primarily caused by an allergy or sensitivity to UV light.
-2. Individuals with this condition often exhibit symptoms such as hives or skin reactions after sun exposure.
-3. Vitamin B3, specifically niacin and niacin amide, plays a crucial role in managing photosensitivity.
+#### 主要觀念：
+1. **日光敏感性**：指个体对阳光中的紫外线（UV）敏感，可能导致皮疹、丘疹或水疱。
+2. **維生素B3的形式**：包括尼可酸（niacin）和尼克酰胺（niacinamide），兩者在功能上相似但有不同的代謝途徑。
 
----
+#### 問題原因：
+- 維生素B3缺乏可導致.photosensitivity，這與日光暴露後的皮膚反應有关。
+- 尼可酸（niacin）可能引起潮紅反應（flushing response），即服用後臉部或全身變紅。
 
-### Cause of the Problem (問題原因)
-- Photosensitivity arises from a deficiency in vitamin B3 (niacin), which is essential for maintaining healthy skin and preventing UV-induced reactions.
+#### 解決方法：
+1. **選擇維生素B3的形式**： 
+   - 選擇尼克酰胺（niacinamide）以避免尼可酸引起的潮紅反應。
+2. **補充劑用量**：建議在專業醫療人員指導下調整劑量，確保攝取足夠的維生素B3。
 
----
+#### 健康建議：
+- 若出現日光敏感症狀（如皮疹、水疱等），應及時就醫並評估是否為維生素B3缺乏所致。
+- 考慮紫外線防護措施，如使用太陽傘、陽光creen和穿著保護性衣物。
 
-### Solution Methods (解決方法)
-1. **Supplement with Vitamin B3**: 
-   - Consume niacin or niacin amide to address the deficiency.
-2. **Choose Form of Niacin**:
-   - Opt for niacin amide if you experience flushing or redness from niacin supplements.
-
----
-
-### Health Recommendations (健康建議)
-1. Maintain a balanced diet rich in vitamin B3 sources, such as meat, fish, and whole grains.
-2. Consider consulting a healthcare professional before starting any new supplement regimen to ensure proper dosing and avoid adverse effects.
-3. Limit sun exposure or use protective measures like sunscreen and clothing if photosensitivity persists.
-
----
-
-### Conclusion (結論)
-- Photosensitivity can be effectively managed by addressing vitamin B3 deficiency through dietary intake or supplementation with niacin amide to minimize adverse reactions.
+#### 結論：
+- 維生素B3缺乏是導致日光敏感性的原因之一。
+- 尼克酰胺是較為理想的補充形式，可減少不適反應。
+- 適當的紫外線防護結合營養補充可有效管理此問題。
 </details>
 
 <details>

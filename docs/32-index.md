@@ -3652,113 +3652,687 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
 </details>
 
 <details>
-<summary>3236. Practical Keto: Dr. Berg at Low Carb Denver 2020</summary><br>
+<summary>3236. [2021-01-02] Practical Keto: Dr. Berg at Low Carb Denver 2020</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kWToXzAFdrQ" target="_blank">
     <img src="https://img.youtube.com/vi/kWToXzAFdrQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：酮症ダイエット（ケトジェニックダイエット）の重要性と実践上の注意点
 
+#### 1. 核心テーマ
+- ** ketogenic diet (ケトジェニックダイエット) のメリットとデメリット**
+- ** ケトーシス状態を誘導する栄養摂取法とその健康影響**
+
+#### 2. 主要な概念
+- ** ケトーシス**：炭水化物の消費を回避し、脂肪を主要エネルギー源とする代謝 상태。
+- ** アチゴンジェニックダイエット**：高脂肪、低糖質、 moderat protein の栄養摂取法。
+
+#### 3. 問題と原因
+- ** 栄養失調リスク**：
+  - 必要な微量栄養素（ビタミン、ミネラル）の不足。
+  - 細かい栄養バランスを維持しない場合の健康問題。
+- ** 特定栄養素の必要性**：
+  - ** ビオチン**：髪や皮膚の健康維持に必要な栄養素。
+  - ** ゼンク**、** selenium**：甲状腺機能、免疫システム、抗酸化作用に関連する栄養素。
+- ** 環境汚染物質への曝露**：
+  - 比較的高濃度の水銀を含む魚種（ Pilot Whale, Mako Shark, Swordfish ）の消費リスク。
+
+#### 4. 解決策略
+- ** 栄養補充**：
+  - 高品質なサプリメントを使用。
+  - 必要に応じて、高密度栄養素を含む食品を選ぶ。
+- ** 栄養摂取の最適化**：
+  - 健康的なケトジェニックダイエット：亜鉛やセリウムを豊富に含む海産物等の消費。
+- ** 飲食の選択肢**：
+  - 乳製品の摂取は、個人の健康状態に応じて判断する必要がある。
+
+#### 5. 健康上の助言
+- ** 栄養の多様性**：幅広い栄養素を含む食品を摂取し、微量栄養素の不足を防ぐ。
+- ** 環境汚染物質への対応**：リスクの高い魚種の消費を控えるか、.selenium を豊富に摂取して水銀の毒性を軽減する。
+- ** 個人化したダイエットプラン**：
+  - 髪や皮膚問題、甲状腺疾患等の個人的な健康状況に基づいて食事療法を調整する。
+  
+#### 6. 結論
+- ** ケトジェニックダイエットの潜在的メリット**：持続可能なエネルギー源として脂肪を利用し、一部の健康上の利益をもたらす。
+- ** 実践時の注意点**：栄養バランスと微量栄養素管理が重要。健康リスクを軽減するためには専門家の助言を参考にするべき。
+
+---
+
+### 要約
+この文章は、ケトジェニックダイエットのメリットとデメリットについて考察し、実践に際して留意すべき点を強調しています。栄養失調や微量栄养素不足、環境汚染物質への曝露等の問題を指摘し、解決策としてサプリメントの使用、健康的な食事選択肢、個別化されたダイエットプランの必要性を提案しています。
 </details>
 
 <details>
-<summary>3235. Vitamin K1 vs. K2: What’s the Difference?</summary><br>
+<summary>3235. [2021-01-01] Vitamin K1 vs. K2: What’s the Difference?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=zgribGK-jkY" target="_blank">
     <img src="https://img.youtube.com/vi/zgribGK-jkY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 文章重點整理：維生素K1與維生素K2的差異與健康影響
 
+## 核心主題  
+本文探討了維生素K1和維生素K2的不同功能、來源及吸收特性，並強調兩者在人體健康中的重要性。
+
+---
+
+## 主要觀念  
+
+### 維生素K1的功能與來源  
+- **功能**：  
+  - 與血液凝固和骨代謝密切相關。  
+  - 缺乏時可能導致瘀青、出血時間延長或牙龈出血等症狀。  
+  - 維生素K1對生存至關重要，缺乏可能导致內外 hemorrhage（流血）。  
+
+- **來源**：  
+  - 主要來自植物性食物，如深色葉菜類（菠菜、羽衣甘藍等）。  
+  - 少數動物性食物也含微量維生素K1。  
+
+- **吸收特性**：  
+  - 吸收率低（約<10%），但因身體 recycling（再利用）機制，缺乏情況较少見。  
+  - 需求量低（微克級），故不易 deficiency（缺乏）。  
+
+---
+
+### 維生素K2的功能與來源  
+- **功能**：  
+  - 與鈣質代謝有關，幫助維持骨密度並防止鈣沉積在血管等軟組織中。  
+
+- **來源**：  
+  - 主要來自動物性食物，如肝臟、蛋黃、奶酪及發酵食品（如納豆、泡菜）。  
+  - 腹腔內菌群可將維生素K1轉化為K2。  
+
+- **吸收特性**：  
+  - 比維生素K1更易於吸收，因其常與脂肪一同攝取，促進 bile（膽汁）分泌及lipase（胰脂酶）作用。  
+  - 高-fat diet（高脂飲食）可增強其吸收效率。  
+
+---
+
+## 問題原因  
+
+- **維生素K1吸收不足**：  
+  - 植物來源的吸收率低，且部分消化系統疾病（如炎症性腸病、瘻管切除術後）可能影響吸收。  
+
+- **維生素K2攝取不足**：  
+  - 主要來源為動物性食物及發酵食品，素食者或低脂飲食者易缺貨。  
+
+- **藥物干擾**：  
+  - 抗凝血藥如warfarin可抑制維生素K1的吸收，導致 deficiency（缺乏）。  
+
+---
+
+## 解決方法  
+
+### 維生素K1  
+- 增加深色葉菜類的攝取量。  
+- 使用油質來提高吸收率（如沙拉中加入橄欖油）。  
+
+### 維生素K2  
+- 食用富含維生素K2的動物性食品，如肝臟、蛋黃及奶酪。  
+- лять發酵食品（如納豆、泡菜）以增加攝取量。  
+
+### 膳食建議  
+- 平衡攝取植物性和動物性食物，以同時滿足維生素K1和K2的需求。  
+- 高脂飲食可增強 fat-soluble vitamins（脂溶性維生素）的吸收。  
+- 患有消化系統疾病或切除膽囊的人，需特別注意維生素K的攝取與吸收，必要時可補充 bile salts（膽鹽）。  
+
+---
+
+## 健康建議  
+
+- **一般人群**：  
+  - 确保均衡飲食，包含多種植物性與動物性食物。  
+  - 高脂飲食可幫助提高 fat-soluble vitamins（如維生素K）的吸收效率。  
+
+- **特殊群體**：  
+  - 素食者：需注意維生素B12和K2的攝取，必要時可補充。  
+  - 消化系統疾病患者：應諮詢醫生或營養師，調整飲食結構。  
+
+---
+
+## 腳注  
+本文整理基於文章內容，未提及具體研究數據或臨床試驗結果，仅供参考。
+
+---
+
+## 參考文獻  
+1. 文章作者/發布者名稱未提及具體來源，但信息基於一般營養學知識整理。
 </details>
 
 <details>
-<summary>3234. Why Does a Fatty Liver Trigger Arthritis? Fatty Liver Inflammation & Joint Inflammation – Dr.Berg</summary><br>
+<summary>3234. [2021-01-01] Why Does a Fatty Liver Trigger Arthritis? Fatty Liver Inflammation & Joint Inflammation – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vS4mY3Xktc4" target="_blank">
     <img src="https://img.youtube.com/vi/vS4mY3Xktc4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理：脂肪肝與關節炎之間的聯絡及其影響
 
+#### 核心主題
+- 脂肪肝與關節炎之間存在密切的炎症反應機制。
+- 腫瘤壞死因子（TNF）和白細胞介素（ILs）等炎症因子在脂肪肝和系統性炎症中起關鍵作用。
+
+#### 主要觀念
+1. **脂肪肝的分期**：
+   - 病變進展：非酒精性脂肪肝（NAFLD）→ 炎症性脂肪肝 → 瘢痕形成 → 肝硬化。
+2. **脂肪肝與系統性炎症的關聯**：
+   - 體脂和 ectopic fat 的存在導致全身性炎癥。
+   - Adipose tissue 作為内分泌腺，分泌促炎性細胞因子。
+
+#### 問題原因
+1. **Ectopic Fat 的影響**：
+   - 不良定位脂肪（ectopic fat）浸潤至其他器官，引發局部和全身炎症。
+2. **Cytokines 的作用**：
+   - 細胞因子如 TNF-α 和 IL-6 促進系統性炎癥並可能引發類風濕關節炎。
+3. **代謝紊亂**：
+   - 瘦素和脂聯素的失衡干擾胰島素敏感性，進一步加重炎症。
+
+#### 解決方法
+1. **飲食調整**：
+   - 采用抗炎飲食，包括高纺色、低糖和富含ω-3脂肪酸的食物。
+2. **生活方式 modification**：
+   - 觀光移動：增加運動量以改善脂質代謝。
+   - 戒煙限酒：減少對肝臟的進一步損害。
+
+#### 健康建議
+1. **保護肝臟**：
+   - 避免過度攝入脂肪和糖分，控制體重。
+2. **管理炎症**：
+   - 通過飲食和運動降低全身性炎癥水平。
+3. **營養吸收**：
+   - 確保足夠的脂溶性維生素（如 Vit A、D、E）攝取，以減輕炎症。
+
+#### 結論
+1. **肝臟健康的重要性**：
+   - 肝臟功能受損會影響全身代謝和免疫系統。
+2. **綜合管理策略**：
+   - 早期干預脂肪肝可有效降低關節炎和其他並發症的風險。
+3. **未來研究方向**：
+   - 探索更有效的抗炎治療方法，針對脂肪肝和關節炎的共同機制。
+
+---
+
+此整理結構清晰地展示了脂肪肝導致關節炎的主要機制、相關原因及解決方案，為患者和醫護人員提供了實用的信息。
 </details>
 
 <details>
-<summary>3233. Hypoglycemia without Symptoms – Dr.Berg</summary><br>
+<summary>3233. [2020-12-31] Hypoglycemia without Symptoms – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DzNDWlbGuto" target="_blank">
     <img src="https://img.youtube.com/vi/DzNDWlbGuto/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：低血糖的種類、原因及健康管理
 
+#### 小節一：低血糖的核心主題
+1. 低血糖的多種類型及其特性。
+2. 非症狀性低血糖與酮egenic diet和禁食的關聯。
+3. 假性低血糖（pseudohypoglycemia）及特發性餐後綜合征。
+4. 反應性低血糖与其他类型的低血糖的区别。
+
+#### 小節二：主要觀念
+1. **非症狀性低血糖**：
+   - 血糖水平低于正常值，但無明顯症狀。
+   - 常見於酮egenic diet或禁食後。
+   - 糖尿病患者的定義為<70 mg/dL，而非糖尿病患者為<54 mg/dL。
+   
+2. **假性低血糖**：
+   - 患者報告低血糖症狀，但血糖水平正常。
+   - 可能與胰島素抵抗或特發性餐後綜合征有關。
+
+3. **反應性低血糖**：
+   - 通常在進食後2-4小時發生。
+   - 與胰島素抵抗或過高的胰島素水平相關。
+
+#### 小節三：問題原因
+1. 非症狀性低血糖的原因：
+   - egenic diet導致碳水化合物攝取量顯著降低，身體轉向脂肪和酮體作為主要能量來源。
+   - 腎臟生成的血糖量減少。
+
+2. 假性低血糖的原因：
+   - 胰島素受體抵抗，導致胰島素作用受限。
+   - 高胰島素血症阻礙葡萄糖進入細胞，造成血液中高胰島素水平但血糖正常。
+
+3. 反應性低血糖的原因：
+   - 養分攝取後胰島素分泌過度，導致血糖迅速下降。
+
+#### 小節四：解決方法
+1. **非症狀性低血糖**：
+   - 逐步轉向酮egenic diet。
+   - 減少碳水化合物攝取，增加蛋白質攝量。
+
+2. **假性低血糖及反應性低血糖**：
+   - 遵循酮egenic飲食以降低胰島素水平。
+   - 視頻進餐（intermittent fasting）以穩定血糖。
+
+3. **糖尿病患者**：
+   - 监控藥物劑量，避免過量胰島素使用。
+   - 準備快速升糖食物以防低血糖突發。
+
+#### 小節五：健康建議
+1. 醮egenic diet的實施：
+   - 減少碳水化合物攝取，增加健康脂肪和蛋白質。
+   - 渐進式調整飲食結構，避免急劇血糖波動。
+
+2. 視頻進餐的重要性：
+   - 减少胰島素刺激，幫助血糖穩定。
+   - 適當延長禁食時間，提升 fat 營養比例。
+
+3. 医療諮詢的必要性：
+   - 在實施任何飲食或健康管理計劃前，建議諮詢醫生或專業醫療人員。
+   - 特别是糖尿病患者，需密切監控血糖和藥物使用。
+
+#### 小節六：結論
+1. 低血糖的成因複雜，需根據個人情況選擇合適的管理策略。
+2. 酮egenic diet和間歇性禁食為有效的管理方法，但需在專業指導下進行。
+3. 健康飲食結合適當的生活方式調整，可有效改善低血糖狀況，提升整體健康水平。
 </details>
 
 <details>
-<summary>3232. Foods That Mimic Body Parts</summary><br>
+<summary>3232. [2020-12-31] Foods That Mimic Body Parts</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kJ3w-z8D4zs" target="_blank">
     <img src="https://img.youtube.com/vi/kJ3w-z8D4zs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 文章整理：食物与人体部位的形态关联及其健康益处
 
+## 核心主題
+文章探讨了某些食物在外观上与人体特定部位相似，并指出这些食物含有对相应身体部位有益的化合物和营养素。
+
+---
+
+## 主要觀念
+1. ** Walnut (核桃)**
+   - 形似大脑，富含ALA（α-亚麻酸），可转化为DHA和EPA。
+   - DHA是大脑功能的关键成分，缺乏会导致大脑无法正常运作。
+   - 核桃中的褪黑激素对脑部健康有益。
+
+2. **Kidney Bean (肾形豆)**
+   - 外观似肾脏，富含精氨酸（氨基酸）。
+   - 精氨酸有助于清除肾脏和肝脏中的氨，减轻糖尿病引起的肾脏损伤。
+
+3. **Tomato (番茄)**
+   - 切开后形状类似心脏 chambers，富含番茄红素（lycopene）。
+   - 番茄红素能降低心血管疾病的风险。
+
+4. **Broccoli ( broccoli 西兰花)**
+   - 外观不直接形似身体部位，但因其树状结构被描述为“癌灶”。
+   - 花椰菜科蔬菜富含硫代葡萄糖苷（sulforaphane），具有抗癌作用，尤其在西兰花芽中含量高。
+
+---
+
+## 問題原因
+文章指出某些疾病或健康问题可能与特定器官受损有关：
+- 大脑功能障碍与DHA缺乏相关。
+- 糖尿病可能导致肾脏损伤。
+- 心血管疾病与氧化应激和炎症有关。
+- 癌症与体内潜在的癌变细胞有关。
+
+---
+
+## 解決方法
+1. ** walnut (核桃)**
+   - 增加核桃摄入，补充大脑所需的ω-3脂肪酸（DHA/EPA）。
+   - 利用其褪黑激素改善睡眠质量。
+
+2. **Kidney Bean (肾形豆)**
+   - 适量摄入以支持肾脏健康，减轻糖尿病相关损伤。
+
+3. **Tomato (番茄)**
+   - 增加番茄在饮食中的比例，通过番茄红素保护心血管系统。
+
+4. **Broccoli (西兰花)**
+   - 多食用花椰菜科蔬菜，尤其是西兰花芽，以抑制癌细胞生长。
+
+---
+
+## 健康建議
+- 多样化饮食，摄入上述食物以支持整体健康。
+- 根据个人健康状况调整饮食，必要时咨询专业营养师或医生。
+- 对于特定健康问题（如糖尿病、心血管疾病），结合药物治疗与饮食调节。
+
+---
+
+## 總結
+文章通过类比食物形态与人体器官，强调了某些食物对相应部位的潜在益处。科学证据支持这些关联，但需结合整体饮食结构和生活方式，才能达到最佳健康效果。
 </details>
 
 <details>
-<summary>3231. Yacon Syrup is Not Keto</summary><br>
+<summary>3231. [2020-12-30] Yacon Syrup is Not Keto</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ky_aLetrqPM" target="_blank">
     <img src="https://img.youtube.com/vi/ky_aLetrqPM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Core Theme: The Inappropriateness of Yacon Syrup in a Keto Diet
 
+Yacon syrup, derived from the root of the yacon plant, is often marketed as a healthy sweetener, particularly for those following a ketogenic diet. However, this article critically examines its suitability within a keto lifestyle and highlights its potential drawbacks.
+
+### Key Concepts:
+
+1. **Composition of Yacon Syrup**:
+   - Contains 50% fructo-oligosaccharides (FOS), a prebiotic fiber.
+   - Approximately 30% fructose, a low-glycemic index sugar metabolized primarily in the liver.
+   - The remaining 20% is glucose.
+
+2. **Gut Health Concerns**:
+   - Excessive intake can exacerbate conditions such as candida overgrowth, SIBO (Small Intestinal Bacterial Overgrowth), leaky gut syndrome, and other gastrointestinal inflammations due to its high FOS content.
+   - Fructose, while slowly metabolized, can overwhelm the liver, leading to insulin resistance and non-alcoholic fatty liver disease.
+
+3. **Metabolic Impact**:
+   - The combined effects of fructose and glucose in yacon syrup can disrupt ketosis by raising blood sugar levels and insulin response.
+   - Despite its low glycemic index (40), the presence of sugars makes it unsuitable for sustained weight loss on a keto diet.
+
+### Issues with Yacon Syrup in Weight Management:
+
+- **Insulin Resistance**: High fructose content can lead to hepatic overload, contributing to insulin resistance and hindering fat mobilization.
+- **Ketosis Blockade**: The sugars in yacon syrup prevent the body from entering or maintaining ketosis, which is crucial for fat burning in a ketogenic diet.
+
+### Health Recommendations:
+
+1. **Avoidance in Keto Diets**:
+   - Substitute with keto-friendly sweeteners like stevia or monk fruit.
+   - Prioritize whole foods and low-carbohydrate alternatives to satisfy sweet cravings.
+
+2. **Consultation**:
+   - Seek guidance from healthcare professionals or nutritionists, especially if transitioning to keto or encountering obstacles in achieving desired results.
+
+### Conclusion:
+
+Yacon syrup is not a suitable addition to a ketogenic diet due to its high sugar content and potential to disrupt metabolic goals. Emphasizing whole foods and appropriate sweeteners aligns better with the principles of a healthy, sustainable keto lifestyle.
 </details>
 
 <details>
-<summary>3230. What Causes Sugar Cravings & How to STOP it? – Dr. Berg</summary><br>
+<summary>3230. [2020-12-30] What Causes Sugar Cravings & How to STOP it? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=-_o12iyNi0s" target="_blank">
     <img src="https://img.youtube.com/vi/-_o12iyNi0s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 糖尿病 cravings（糖癮）及其在酮飲食（keto diet）中的影響。
+- 如何通過酮飲食和其他生活方式調整來控制 sugar cravings。
 
+---
+
+### 主要觀念
+1. **酮飲食的作用**：酮飲食旨在利用脂肪作為主要能量來源，降低血糖水平並改善糖癮。
+2. **糖癮的原因**：
+   - 酮症（ketosis）應該消除糖癮，若仍有糖癮可能表示某些問題。
+   - 藥物（如皮質醇、抗炎藥、抗抑郁藥、抗生素等）可能增加糖癮。
+   - 压力、睡眠不足或受傷導致血糖波動和激素失衡。
+
+---
+
+### 問題原因
+1. **酮飲食執行中的常見錯誤**：
+   - 碳水化合物攝取量未控制在20-50克，尤其是高血糖指數的碳水（如糖、DEXTRON、 maltodextrin）。
+   - 食物頻率過高，導致胰島素水平升高，影響酮症進入。
+   - 忽視蔬菜的攝取，缺乏必要的礦物質和膳食纖維。
+
+2. **生活方式因素**：
+   - 睡眠不足、壓力过大或受傷導致激素失衡，進而引發糖癮。
+   - 酮飲食未結合間歇性禁食，影響效果。
+
+---
+
+### 解決方法
+1. **酮飲食調整**：
+   - 控制碳水化合物攝取量在20-50克之間，優先選擇低血糖指數的來源（如 berries、 nuts、 hummus）。
+   - 減少餐次，延長禁食時間（建議每日兩餐，例如上午12點和下午6點）。
+   - 增加蔬菜攝取量，補充礦物質（如 鈣、鎂）、膳食纖維和益生元。
+
+2. **生活方式改善**：
+   - 管理壓力：通過運動、冥想等方式降低皮質醇水平。
+   - 保障充足睡眠，促進激素平衡。
+   - 適當補充微量營養素（如 鈣、鎂），幫助穩定血糖和減少糖癮。
+
+3. **間歇性禁食結合酮飲食**：
+   - 禁食期間可加入少量 apple cider vinegar 搖晃水，降低 hunger。
+   - 通過增加脂肪來延長饱腹感，控制胰島素水平。
+
+---
+
+### 健康建議
+1. **飲食建議**：
+   - 選擇高脂、低碳水化合物的酮友好食物（如肉类、乳制品、堅果、蔬菜）。
+   - 減少精制糖和高血糖指數碳水化合物的攝取。
+
+2. **生活習慣建議**：
+   - 每日保持充足的睡眠時間（7-9小時）。
+   - 管理壓力，避免長期高壓狀態。
+   - 適當運動，促進酮症進入和全身健康。
+
+3. **營養補充建議**：
+   - 补充微量營養素，如鎂、鈣，幫助穩定血糖。
+   - 增加膳食纖維攝取，改善腸道健康。
+
+---
+
+### 結論
+糖癮的控制需要從酮飲食調整、生活方式改善和間歇性禁食等多方面入手。通過科學執行酮飲食並結合健康的習慣，可以有效降低 sugar cravings，提升整體健康水平。如有疑問或遇到挑戰，建議諮詢專業的酮飲食顧問以獲得個化化指導。
 </details>
 
 <details>
-<summary>3229. What Really Causes Chest Pain Due to Costochondritis (Costosternal Syndrome) – Dr.Berg</summary><br>
+<summary>3229. [2020-12-29] What Really Causes Chest Pain Due to Costochondritis (Costosternal Syndrome) – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_WQ9mPnOtVs" target="_blank">
     <img src="https://img.youtube.com/vi/_WQ9mPnOtVs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題  
+- 成交痛（Costochondritis）：胸骨柄與肋骨連接處的疼痛，屬於胸壁疼痛症。
+
+#### 主要觀念  
+1. 成交痛的定義：胸骨與肋骨連接處的疼痛或觸碰時的敏感性。
+2. 醫學上不明確的病因：多數情況下無法找到明確原因，可能涉及/cartilage/問題或輕微創傷。
+3. 常見於急診室的胸痛病例（約30%）。
+
+#### 問題原因  
+1. 可能的原因：
+   - **低維生素D**：導致骨痛，尤其是在肋骨或胸骨附近。
+   - **消化系統問題**：如肝臟或 gallbladder 病變、膽汁淤積等。
+2. 特殊位置的症狀：
+   - 右側疼痛可能與肝臟相關。
+   - 左側疼痛可能涉及胰腺或其他消化器官。
+
+#### 解決方法  
+1. **低維生素D**：補充維生素D以緩解骨痛。
+2. **膽道問題**：使用 betaine hydrochloride 和純化膽鹽來稀釋膽汁淤泥，改善引流並減輕壓力。
+   - **劑量建議**：
+     - Betaine hydrochloride：餐前服用（3-5粒）。
+     - 膽鹽：早晨空腹服用，飯後和下午各一次。
+
+#### 健康建議  
+1. 就醫檢查：排除心臟病等其他重大問題。
+2. 自我診斷前諮詢醫生：尤其在症狀不明原因時。
+3. 適當補充營養品：如低維生素D情況下，使用補充劑。
+
+#### 結論  
+- 成交痛多數情況病因不明，但需考慮低維生素D和消化系統問題。
+- 使用膽汁稀釋劑和維生素D補充可能有效緩解症狀。
+- 強調就醫檢查的重要性，排除其他潛在疾病。
 </details>
 
 <details>
-<summary>3228. 7 Causes of a Headache</summary><br>
+<summary>3228. [2020-12-29] 7 Causes of a Headache</summary><br>
 
 <a href="https://www.youtube.com/watch?v=yqAoHqi-yjs" target="_blank">
     <img src="https://img.youtube.com/vi/yqAoHqi-yjs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 七項引發頭痛的原因及健康建議
 
+#### 核心主題
+本文主要探討了七個常見引發頭痛的原因，特別是偏頭痛與一般頭痛之間的差異，並提供了相應的健康建議和解決方案。
+
+---
+
+#### 主要觀念
+1. **偏頭痛與一般頭痛的區別**：
+   - 偏頭痛：症狀更為嚴重，常伴隨恶心、視力模糊、光敏感、耳鳴或先兆（如Aura）。
+   - 一般頭痛：症狀較輕微，通常不伴有其他明顯症狀。
+
+2. **頭痛的七個常見原因**：
+   - 緊張與壓力
+   - 遥食 allergies 與飲食問題
+   - 生活環境因素
+   - 濕 hormonal changes
+   - 缺乏睡眠
+   - 內臟問題（如肝、膽）
+   - 藥物副作用
+
+---
+
+#### 問題原因分析
+1. **壓力**：
+   - 頭痛的主要原因之一，通過肌肉緊張影響頸部。
+
+2. **飲食問題**：
+   - 食物過敏（如花生、麩蛋白、乳酪蛋白）。
+   - 高咖啡因攝取、人工甜味劑、酒精、巧克力、MSG 等食物 additives 可引發頭痛。
+
+3. **環境因素**：
+   - 季節性 allergies 影響鼻竇，或天氣變化（如氣壓下降）導致頭痛。
+
+4. **激素變化**：
+   - 月經週期中雌激素水平波動可能引發偏頭痛。
+
+5. **缺乏睡眠**：
+   - 睡眠不足可致頸椎僵硬和throbbing pain。
+
+6. **內臟問題**：
+   - 膠塁或肝膽管道阻塞可導致 unilateral headaches。
+   - 食物引起的腸道不適（如痉挛）可能引發頭痛。
+
+7. **藥物副作用**：
+   - 解痛藥（如阿司匹林、ibuprofen）的反跳性头痛。
+
+---
+
+#### 解決方法與健康建議
+1. **壓力管理**：
+   - 練習放鬆技巧，如深呼吸、冥想或瑜伽。
+
+2. **飲食調整**：
+   - 避免已知過敏食物和trigger foods。
+   - 減少咖啡因、人工甜味劑和酒精攝取。
+   - 注意食品中的MSG和酪胺酸（如乳酪、火腿）。
+
+3. **環境改善**：
+   - 控制室內濕度，使用空氣清淨機。
+   - 關注天氣變化，提前採取預防措施。
+
+4. **激素平衡**：
+   - 考慮補充DIM或其他cruciferous vegetable提取物以幫助平衡雌激素。
+
+5. **充足睡眠**：
+   - 確保每晚7-9小時的高品質睡眠。
+
+6. **內臟健康**：
+   - 保持膽囊和肝臟功能正常，避免高脂肪飲食。
+   - 考慮諮詢醫生關於膽道阻塞的可能性。
+
+7. **藥物使用**：
+   - 避免過度依賴止痛藥，尋找頭痛的根本原因。
+
+---
+
+#### 結論
+頭痛的發生與多種因素相關，需從飲食、壓力、睡眠、激素和內臟健康等多方面入手。通過調整生活方式和飲食習慣，可以有效減輕或預防頭痛。如症狀持續或加重，建議及時就醫尋求專業幫助。
+
+---
+
+#### 增值建議
+- 考慮進行食物敏感測試，找出個人trigger foods。
+- 設計個人化飲食計劃，融入酮ogenic diet或其他健康飲食模式。
+- 經常記錄頭痛日誌，追蹤可能的誘因。
 </details>
 
 <details>
-<summary>3227. Liposomal Vitamins: Dr. Berg's Opinion</summary><br>
+<summary>3227. [2020-12-28] Liposomal Vitamins: Dr. Berg's Opinion</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ypkXVwo_ZwU" target="_blank">
     <img src="https://img.youtube.com/vi/ypkXVwo_ZwU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：唇osomal維生素的功效與挑選指南
 
+---
+
+### 主要觀念：
+1. **唇osomal技術**：
+   - 唇osomes是一種納米級的脂質囊泡，用來包裹活性物質（如維生素或藥物），以提高其在體內的吸收效率。
+   - 唇osomes呈球形，由磷脂分子組成，可攜帶物質進入身體深層。
+
+2. **唇osomal維生素的優勢**：
+   - **吸收率高**：相比傳統維生素，唇osomal維生素的吸收率可提升4至9倍。
+   - **劑量控制**：適合需要精準劑量的人群，如免疫功能低下的個體。
+
+3. **粒徑分類**：
+   - 大型（500-5000 nm）：質量較低，吸收效果差。
+   - 中型（200-800 nm）：中等吸收率。
+   - 小型（20-150 nm）：最高品質，吸收效率最佳。
+
+---
+
+### 問題原因：
+1. **品質問題**：
+   - 市面上的唇osomal維生素產品未經第三方實驗室認證，缺乏可靠的粒徑數據支持。
+   - 使用低品質、大顆粒的唇osomes，導致吸收率下降。
+
+2. **免疫干擾**：
+   - 宏噬細胞（免疫系統中的清潔细胞）可能破壞唇osomal囊泡，影響營養素的釋放。
+
+3. **合成維生素的使用**：
+   - 许多產品使用分離或合成的维生素成分（如ascorbic acid），缺乏完整的维生素複合體。
+   - 合成B族維生素和vitamin E可能來源於非自然途徑，影響整體健康效果。
+
+---
+
+### 解決方法：
+1. **選擇高品質產品**：
+   - 確保產品經過第三方實驗室认证，使用激光動態光散射技術測量粒徑。
+   - 選擇小型（20-150 nm）的唇osomal囊泡，以提高吸收效率。
+
+2. **檢查來源材料**：
+   - 舉縱メーカーに問い合わせて、原料の詳細を確認する必要がある。
+   - 確保維生素成分來自於天然來源，而非合成或分離的產品。
+
+3. **諮詢專業人士**：
+   - 如有疑問，建議諮詢營養師或健康專家，以獲得個化化的建议。
+
+---
+
+### 健康建議：
+1. **唇osomal維生素的使用**：
+   - 適當情況下，優先選擇天然來源的唇osomal維生素。
+   - 確保產品符合藥物監管機構的標準，避免低品質或 synthetic 成分的風險。
+
+2. **免疫系統考量**：
+   - 免疫功能正常的人群可能不需要過度依賴唇osomal產品，而免疫功能低下的個體則可受益於其高效的吸收特性。
+
+3. **綜合營養攝取**：
+   - 唇osomal維生素作為補充劑，應該與均衡飲食結合使用，以確保全面的營養攝取。
+
+---
+
+### 結論：
+唇osomal技術在提高維生素吸收率方面具有顯著優勢，但消費者需謹慎選擇高品質、天然來源的產品。避免因低品質或合成成分而影響健康效果。諮詢專業人士並結合個人需求和免疫狀況，可最大化其益處。
 </details>
 
 <details>
