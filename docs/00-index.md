@@ -179,7 +179,7 @@
 </details>
 
 <details>
-<summary>82. The Best and Worst Vitamin C</summary><br>
+<summary>82. [2012-04-14] The Best and Worst Vitamin C</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DnvnKnu7YBI" target="_blank">
     <img src="https://img.youtube.com/vi/DnvnKnu7YBI/maxresdefault.jpg" width="200">
@@ -189,43 +189,192 @@
 </details>
 
 <details>
-<summary>81. Make Your Own Weight Loss Drink</summary><br>
+<summary>81. [2012-04-14] Make Your Own Weight Loss Drink</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HNNk31aGaYo" target="_blank">
     <img src="https://img.youtube.com/vi/HNNk31aGaYo/maxresdefault.jpg" width="200">
 </a>
 
+### 文章整理解讀
 
+#### 核心主題  
+本文介紹了一款名為「cranberry shake」的飲品製作方法，並強調其健康益處，特別是對肝臟排毒和體重管理的作用。
+
+#### 主要觀念  
+1. **cranberry shake 的成分**：主要由cranberry醬、檸檬汁或青柠汁以及蘋果醋組成。
+2. **選材建議**：
+   - 選用 органический лимон (有機檸檬)，尤其是來自意大利火山的檸檬汁，因其不含防腐劑且風味獨特。
+   - cranberry醬選擇不含添加糖和高果糖玉米糖漿的产品。
+3. **健康益處**：
+   - 含豐富的鉀和其他養分，有助於肝臟排毒。
+   - 苹果醋被譽為有效的排毒劑，甚至可單獨用於減重。
+
+#### 問題原因  
+1. 市面上cranberry醬和檸檬汁產品多數含添加糖或防腐劑，可能對健康造成負面影響。
+2. 自然的cranberry醬帶有苦味，初嚐可能不如加糖版本受歡迎。
+
+#### 解決方法  
+1. 選擇不含添加物的cranberry醬和檸檬汁產品。
+2. 如口感不佳，可加入少量甜味劑如Stevia或蜂蜜來調節味道，但仍需控制糖分攝取以維持減重效果。
+
+#### 健康建議  
+1. **飲用量**：每日可製作多杯，但避免過量飲用，特別是在不感口渴時。
+2. **時間安排**：可在一天中隨時饮用，尤其適合帶至工作地點作為健康飲品。
+
+#### 結論  
+cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富含營養，適合希望排毒和減重的人群。其獨特的風味可能需要時間適應，但調整甜度後即可成為日常飲品的一部分。
 </details>
 
 <details>
-<summary>80. How to Stop Cravings for Sugar</summary><br>
+<summary>80. [2012-04-14] How to Stop Cravings for Sugar</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fGT5cISbXa4" target="_blank">
     <img src="https://img.youtube.com/vi/fGT5cISbXa4/maxresdefault.jpg" width="200">
 </a>
 
+### 全文要旨  
+本文介紹了一種名為「Jима」（Gimma）的草藥，其具有阻斷甜味感知的功能。通過多項實驗演示，文中展示了該草藥如何降低或消除對甜食、酒精等的渴望，進而幫助人們控制飲食和戒除不良習慣。文章強調了 moderation 的重要性，并提供了一種自然方法來協助減肥和改善整體健康。
 
+---
+
+### 小節整理  
+
+#### 1. 核心主題  
+- 探讨使用天然草藥（Jима）阻斷甜味感知的可能性及其應用於控制飲食和戒除不良習慣的效果。  
+
+#### 2. 主要觀念  
+- Jимa 是一種傳統用於治療糖尿病的印度草藥，具有阻斷甜味感知的作用。  
+- 阻斷甜味感知可以幫助人們避免過度攝取糖分和酒精，從而促進健康飲食習慣的形成。  
+
+#### 3. 問題原因  
+- 細胞對甜食和酒精的渴望是導致肥胖、糖尿病和其他代謝疾病的主要原因之一。  
+- 酒精（如葡萄酒和啤酒）中的成分會破壞肝臟功能，影響脂肪燃燒，並增加健康風險。  
+
+#### 4. 解決方法  
+- 使用 Jимa 粉末來阻斷甜味感知：  
+  - 在食用含糖食物或飲用含酒精 beverage 之前，將少量 Gimma 粉末塗抹於舌頭以阻斷甜味感知。  
+  - 通過降低對甜食和酒精的渴望，人們可以更有效地控制攝取量並養成健康的生活習慣。  
+
+#### 5. 健康建議  
+- 遵循 moderation 原則，合理攝取糖分和酒精。  
+- 對於有飲酒或過度食用含糖食物的人群，可考慮使用 Gimma 經驗來輔助控制欲望。  
+- 對兒童和青少年進行早教，讓他們了解健康飲食的重要性，並利用 Gimma 作為一種工具來避免過度攝取垃圾食品。  
+
+#### 6. 實驗結果  
+- 在實驗中，受試者在使用 Gimma 後報告對甜食和酒精的口感顯著降低，甚至喪失了原本的吸引力。  
+- 對含糖飲料（如可口可樂）進行測試時， Gimma 使受試者感覺到飲料變得口味平淡，並能察覺其中的化學成分。  
+
+#### 7. 總結  
+- Gimma 提供了一種自然且有效的方法來控制人們對甜食和酒精的渴望，從而幫助改善整體健康狀況。  
+- 通過阻斷甜味感知， Gimma 可以作為一種輔助工具，幫助人們養成更健康的飲食習慣並避免肥胖等相關疾病。  
+
+---
+
+### 總結  
+本文揭示了 Gimma 草藥在控制甜味和酒精欲望方面的潛力，為那些希望改善飲食習慣和整體健康的人們提供了一種可行的解決方案。
 </details>
 
 <details>
-<summary>79. Reverse Sit-ups for Belly Fat</summary><br>
+<summary>79. [2012-04-14] Reverse Sit-ups for Belly Fat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vjHYuEj43fg" target="_blank">
     <img src="https://img.youtube.com/vi/vjHYuEj43fg/maxresdefault.jpg" width="200">
 </a>
 
+### 核心主題  
+- 介紹一種針對下腹部「小肚子」或皮膚鬆弛的運動方法。
 
+---
+
+### 主要觀念  
+1. **問題定位**：下腹部的小肚子脂肪（俗稱為「 pooch」）通常出現在多次懷孕、剖腹產（C-section）或其他導致皮膚和肌肉鬆弛的情況後。
+2. **傳統方法的局限性**：傳統的仰臥起坐等核心肌群訓練主要針對肌肉 contraction，但未能有效 toning 肌肉表面的 skin 或脂肪層。
+3. **新方法的核心原理**：通過伸展和反覆動作來 toning 皮膚，而非僅限於肌肉的收縮。
+
+---
+
+### 問題原因  
+- 下腹部皮膚和肌肉的鬆弛導致脂肪顯現，傳統訓練方法未能有效解決此問題。
+- 肌肉 contraction（如仰臥起坐）主要作用在肌肉本身，但缺乏對表層皮膚和脂肪的 toning。
+
+---
+
+### 解決方法  
+1. **運動方式**：  
+   - 站立姿勢，反覆進行 backward bending 和 forward bending 的動作。  
+   - 每次伸展時 tightens 股四頭肌（gluts）和腹部肌肉以 stabilise 背部。  
+2. **建議次數與頻率**：  
+   - 初學者從 4-5 組開始，每組 25 次，每組後休息 30 秒。  
+   - 可逐漸增加強度，最終可進行每日多組訓練。  
+
+---
+
+### 健康建議  
+1. **背部保護**：如有背痛問題，應輕柔進行此動作，避免對脊椎造成負擔。  
+2. **逐步增強**：初期訓練時可降低強度，隨時間增加次數和幅度。  
+3. **搭配其他訓練**：此運動雖有效，但建議結合其他核心訓練以全面提升腹部肌群的緊實度。
+
+---
+
+### 結論  
+- 通過反覆伸展和 toning 的方法，可以在較短時間內（如四周）顯著改善下腹部的鬆弛問題。  
+- 此方法相對於傳統的核心訓練更為有效且快速，值得試驗和長期堅持。
 </details>
 
 <details>
-<summary>78. The Ultimate Exercise for Posture</summary><br>
+<summary>78. [2012-04-04] The Ultimate Exercise for Posture</summary><br>
 
 <a href="https://www.youtube.com/watch?v=LRxN-30oJx8" target="_blank">
     <img src="https://img.youtube.com/vi/LRxN-30oJx8/maxresdefault.jpg" width="200">
 </a>
 
+### 文章整理：改善姿勢的方法
 
+#### 核心主題
+- **壞姿勢的問題及解決方法**  
+  該文章探討了現代人常見的壞姿勢問題，特別是由長時間坐姿不正引起的背部緊繃和肌肉不平衡。
+
+#### 主要觀念
+1. **傳統姿勢矯正的局限性**  
+   - 長期以來，人們被建議「坐直」或「挺胸」來改善姿勢，但這些方法往往效果有限。
+2. **姿勢問題的根本原因**  
+   - 背部肌肉過度緊張和前側肌肉（如腹肌、胸肌）的緊繃是導致姿勢不良的主要原因。
+3. ** muscles tightness 的影響**  
+   - 前側肌肉的過度緊繃會將身體向前拉，造成駝背或圓肩等姿勢問題。
+
+#### 問題原因
+- **肌肉不平衡**  
+  長時間坐姿不正導致背部肌肉被拉長且疲勞，而前側 muscles（如腹肌、胸肌）則變得緊繃。
+- **神經肌肉的適應性**  
+  肌肉長期處於不平衡狀態，會形成特定的神經肌肉模式，進一步惡化姿勢。
+
+#### 解決方法
+1. **反向拉伸法（Slouching Stretch Technique）**  
+   - **步驟**：
+     a. 坐直，將腿部稍微分開。
+     b. 深度	slouch，讓背部完全圓起來，並保持幾秒鐘。
+     c. 復原姿勢，重複此動作五次。  
+   - **效果**：此方法透過拉伸前側肌肉來釋放壓力，並通過神經反饋機制松懈緊繃的後背肌肉。
+
+2. **日常訓練建議**  
+   - 定期進行背部和核心肌群的強化訓練，以平衡全身肌肉張力。
+   - 使用姿勢矯正器或靠枕來提供額外支撐。
+
+#### 健康建議
+- **工作間歇活動**  
+  每小時至少起來移動一次，做一些簡單的伸展動作，防止久坐造成的姿勢問題。
+- **調整工作環境**  
+  確保電腦螢幕高度 suitable，椅子和桌子的高度 adjustment，以減少姿勢壓力。
+
+#### 結論
+- **姿勢矯正的新方法**  
+  舊有的「坐直」建議往往未能从根本解決問題。透過反向拉伸法，可以有效解除肌肉緊繃，改善姿勢。
+- **未來研究方向**  
+  需進一步探究此方法的長期效果及其在不同人群中的適用性。
+
+---
+
+以上整理涵蓋了文章的主要內容，以正式的學術用語和清晰的小節結構進行表述。
 </details>
 
 <details>
@@ -347,37 +496,7 @@
     <img src="https://img.youtube.com/vi/vadPxKRGm7k/maxresdefault.jpg" width="200">
 </a>
 
-### Key Points from the Article
 
-#### Core Theme: Misconceptions About Weight Loss and Calorie Counting
-- The primary issue discussed is the widespread confusion surrounding calorie counting as a reliable method for weight loss. Many individuals eat fewer calories but fail to see results, leading to frustration.
-
-#### Main Concepts:
-1. **Caloric Restriction Without Results**: Despite consuming fewer calories, some people do not lose weight, which highlights the limitations of caloric restriction alone.
-2. **Hormonal and Metabolic Factors**: As individuals age (through their 20s, 30s, 40s, and 50s), hormonal changes and a slowdown in metabolism can hinder weight loss efforts.
-3. **Complexity of Hormonal Interactions**: Effective weight management requires understanding how different foods interact with hormones, rather than just focusing on caloric intake.
-
-#### Causes of the Problem:
-- The belief that simple calorie counting is sufficient for weight loss overlooks the intricate hormonal and metabolic processes involved.
-- Many diets fail to address the comprehensive hormonal reactions necessary for fat burning and storage.
-
-#### Solutions and Recommendations:
-1. **Comprehensive Fat-Burning Triggers**: Over eight years, a detailed system has been developed to identify foods that trigger fat burning versus those that promote fat storage.
-2. **Practical Application**: This system is condensed into a simple sheet designed for easy use, which can be kept in the fridge for quick reference.
-
-#### Health and Wellness Advice:
-- Focus on understanding and managing hormonal interactions rather than just reducing calorie intake.
-- Prioritize diets that address all aspects of hormonal reactions, not just isolated factors like insulin or glycemic index.
-
-#### Conclusion:
-- The article emphasizes that successful weight management requires a holistic approach that goes beyond mere caloric restriction. By focusing on the right hormonal triggers, individuals can achieve more sustainable and effective results.
-
-### Call to Action:
-1. **Apply the System**: Use the provided fat-burning trigger sheet and implement its principles in your diet.
-2. **Share Success Stories**: Document your progress and share your success story with the author.
-3. **Provide Feedback**: Write a review on platforms like Google, Bing, or social media about the effectiveness of the system and any positive experiences as a patient.
-
-This structured approach aims to simplify complex dietary concepts while providing actionable steps for achieving sustainable weight loss.
 </details>
 
 <details>
@@ -762,58 +881,7 @@ This structured approach aims to simplify complex dietary concepts while providi
     <img src="https://img.youtube.com/vi/UUV7CRT8lbE/maxresdefault.jpg" width="200">
 </a>
 
-### 小節歸納
 
-#### 核心主題 (Core Theme)
-- **Stretch Mark Removal**  
-  （妊娠紋去除）
-
-#### 主要觀念 (Key Concepts)
-1. **Definition of Stretch Marks**:  
-   Stretch marks are caused by过度延伸的皮肤，导致微纤维撕裂并形成疤痕组织。
-   
-2. **Causes of Stretch Marks**:  
-   - Over-stretching during pregnancy or rapid weight gain.
-   - Scar tissue formation due to skin fiber breakdown.
-
-3. **Ingredients for Treatment**:  
-   - Vitamin E Oil: Helps break down scar tissue and promotes healing.
-   - Wheat Germ Oil: A potent healer for the skin, especially effective in reducing stretch marks.
-   - Coconut Oil/Butter: Enhances oil penetration into the skin due to its similarity to natural skin fats.
-
-4. **Massage Tool**:  
-   A massage tool with prongs is used to scrub the affected areas, enhancing blood flow and circulation.
-
-#### 問題原因 (Problem Causes)
-- Over-stretching of the skin leads to microfiber tears and scar tissue formation.
-- Inadequate skin elasticity during rapid stretching events like pregnancy or weight gain.
-
-#### 解決方法 (Solution Methods)
-1. **Topical Application**:  
-   - Combine Vitamin E oil and wheat germ oil with coconut oil/butter.
-   - Apply the mixture to the affected areas every other night.
-
-2. **Massage Technique**:  
-   - Use a massage tool to scrub the oils into the skin for two minutes per side (total of four minutes).
-   - This promotes blood flow, essential for healing and hormone delivery to the area.
-
-3. **Frequency of Treatment**:  
-   - Perform the treatment every other day for one month.
-   - Extend to two months if necessary, depending on severity.
-
-#### 健康建議 (Health Recommendations)
-1. **Consistency**:  
-   Adhere to the treatment schedule to maximize effectiveness.
-
-2. **Rest and Recovery**:  
-   Allow skin recovery by alternating treatment days with rest days.
-
-3. **Dietary Considerations**:  
-   While not explicitly mentioned, a balanced diet supporting skin health may enhance results.
-
-#### 結論 (Conclusion)
-- Regular application of the oil mixture combined with massage can effectively reduce stretch marks over time.
-- Consistency and patience are key to achieving visible results within one to two months.
 </details>
 
 <details>
@@ -885,51 +953,7 @@ This structured approach aims to simplify complex dietary concepts while providi
     <img src="https://img.youtube.com/vi/k6-Tkv_Jnz0/maxresdefault.jpg" width="200">
 </a>
 
-### 文章重點整理
 
-#### 核心主題  
-- 身體健康與ダイエットに挑む個人の経験と気づき  
-- 特に、体脂肪率の低下やエネルギー源への切り替えを目指す  
-
-#### 主要觀念  
-1. **身体状態の自覚**  
-   - 離床時の疲労感と眠気の減少  
-   - 腿のだるさとむくみの軽減  
-   - 体重管理の難しさ  
-
-2. **これまでのダイエット方法**  
-   - 多様なダイエット法（プロテインダイエット、ベジタarian食、 Atkins-like diet）を試したが効果不十分  
-   - 高額な脂肪溶解クリニックへの訪問も成果なし  
-
-3. **現在の取り組み**  
-   - Dr. Burkeのプログラムに参加し、特に「スイスバレー」（Cruciferous vegetables）摂取開始後、体調改善を実感  
-   - 便秘薬の使用回数が減ったこと  
-   - 睡眠質が向上し、朝の元気が出る  
-
-#### 問題原因  
-- 長期にわたる肥満状態による身体的負担（膝や腹部の不調）  
-- これまでのダイエット法が持続性に欠けていた  
-
-#### 解決方法  
-1. **食事改善**  
-   - クルクマー族野菜（Cruciferous vegetables）を摂取し、体脂肪率の低下とエネルギー源への切り替えを目指す  
-   - 食べてすぐに満腹感を得られるため、ダイエット中のストレスが軽減  
-
-2. **医療サポート**  
-   - Dr. Burkeのプログラムに従い、身体状態をモニターし持続可能な健康改善を目指す  
-   - 医薬品（プロトニック）の使用回数を最小限に抑え、体調管理を行う  
-
-3. **運動と生活習慣**  
-   - 現在は wheelchair を使用しているが、将来的には自立した生活に戻ることを目指す  
-
-#### 健康建議  
-1. 食事面での改善：特に野菜中心の食事を推奨し、体脂肪率の低下を図る  
-2. 定期的な健康チェック：Dr. Burkeのプログラムに従い、身体状態をモニターする  
-3. 生活習慣の見直し：睡眠管理や運動を取り入れた持続可能なダイエット法を採用  
-
-#### 結論  
-- Paul Becker は現在、Dr. Burkeのプログラムに基づき、体調改善とダイエットに取り組んでいる  
-- 将来的には wheelchair を使用せずに自立した生活に戻ることを目指している
 </details>
 
 <details>
@@ -1020,42 +1044,7 @@ This structured approach aims to simplify complex dietary concepts while providi
     <img src="https://img.youtube.com/vi/NqOpIj_XXFU/maxresdefault.jpg" width="200">
 </a>
 
-### 文章整理重點
 
-#### 核心主題
-- **蔬菜nutrient density**  
-- **Organic food vs. processed food**  
-- **Health benefits of cruciferous vegetables**  
-
-#### 主要觀念
-1. **Sprouts as a nutrient-rich food source**: Sprouts are highly nutritious, containing significant amounts of protein, vitamins (especially vitamin A and C), minerals, and fiber.
-2. **Cruciferous vegetables**: These include broccoli, cauliflower, kale, etc., and are particularly noted for their high calcium content, vitamin C, vitamin A, and fiber.
-3. **Impact of processing on nutrients**: Processing or refining foods like wheat berries results in significant loss of nutrients such as vitamin E.
-
-#### 問題原因
-- **Poor diet and lifestyle**: Inadequate consumption of fresh vegetables and excessive intake of processed foods contribute to nutrient deficiencies.
-- **Environmental factors**: Chemical exposure and wear and tear on the liver can impair the body's ability to process and utilize nutrients effectively.
-
-#### 解決方法
-1. **Increase cruciferous vegetable intake**: Consuming 3-5 servings per week is recommended, though more may be necessary depending on individual health history.
-2. **Opt for fresh, organic produce**: Avoid processed foods to preserve nutrient integrity and reduce chemical exposure.
-3. **Juice or blend vegetables**: Particularly wheat grass and other greens to maximize nutrient absorption.
-
-#### 健康建議
-- **Diverse vegetable intake**: Incorporate a variety of cruciferous and other nutrient-dense vegetables into the diet.
-- **Supplemental forms**: If fresh produce is insufficient, consider freeze-dried options to meet daily requirements.
-- **Monitor portion sizes**: Ensure that cruciferous vegetable consumption aligns with individual caloric needs and health goals.
-
-#### 結論
-Incorporating a variety of fresh, organic vegetables, particularly cruciferous ones, into the diet can significantly enhance nutritional intake and overall health. Processing should be minimized to preserve nutrient content, and individuals with poor dietary histories or liver stress may need to increase their vegetable intake beyond recommended levels.
-
----
-
-### 研究方向或研究問題
-
-1. **Nutrient retention in sprouted vs. cooked vegetables**: Investigate how cooking and processing affect the bioavailability of nutrients in cruciferous vegetables, particularly focusing on vitamin E and other heat-sensitive vitamins.
-   
-2. **Impact of cruciferous vegetable consumption on liver detoxification pathways**: Study the effects of regular cruciferous vegetable intake on liver function markers, especially in individuals with a history of poor diet and chemical exposure.
 </details>
 
 <details>
@@ -1075,62 +1064,7 @@ Incorporating a variety of fresh, organic vegetables, particularly cruciferous o
     <img src="https://img.youtube.com/vi/krwKqnmidC8/maxresdefault.jpg" width="200">
 </a>
 
-# 文章重點整理
 
-## 核心主題
-- 粮食（穀物）的營養價值及其加工對健康的影響。
-
-## 主要觀念
-1. **穀物的基本定義**：穀物是草本植物的種子，可分為整粒穀物和加工後的穀物制品。
-2. **未加工穀物的營養價值**：未加工或未精緻加cone的穀物營養價值較低，尤其在氧化後營養成份會迅速流失。
-3. **精緻化穀物的危害**：
-   - 精緻化過程（如碾磨）破壞了穀物的營養成份。
-   - 班級化穀物含有高量的昆蟲殺害劑殘留，可能對健康造成影響。
-4. **白麵包的問題**：主要提供熱量，缺乏營養，且易導致體重增加和B群維生素不足。
-
-## 問題原因
-1. **加工過程破壞營養**：碾磨、烘烤等加工方式使穀物失去大量營養成份。
-2. **氧化作用**：暴露於空氣中，導致營養成份迅速氧化分解。
-3. **長時間儲存**：精緻化穀物制品（如麵包、 pasta）在超市陳列時間長，營養成份進一步流失。
-4. **現代飲食習慣**：過量攝取精緻化穀物導致B群維生素 deficiency，進而影響心血管健康。
-
-## 解決方法
-1. **選擇發芽穀物**：食用已發芽的穀物（如Ezekiel麵包），因其營養成份大幅增加。
-2. **控制攝取量**：在減肥期間限制精緻化穀物的攝取，進入 fat-burning 模式後再逐步加入。
-3. **選用冷凍或即食產品**：購買已發芽但冷凍保存的穀物制品，保持其新鮮度和營養價值。
-4. **多樣化飲食**：增加攝取其他高密度營養食物（如蔬菜、水果、堅果等），避免過度依賴穀物。
-
-## 健康建議
-1. 避免長期食用精緻化穀物，以防 B 群維生素 deficiency 和心血管問題。
-2. 選擇發芽或冷凍保存的穀物制品以獲得更高的營養價值。
-3. 減少對白麵包等高淀粉食品的依賴，以防體重增加。
-4. 考慮使用合成B群維生素補充劑時，優先選擇天然來源的產品。
-
-## 結論
-加工穀物因其低營養價值和潛在的健康風險應減少攝取。發芽穀物和其他高密度營養食物是更健康的選擇，可幫助改善整體營養狀況並預防相關疾病。
-
----
-
-# 英文摘要(Abstract)
-
-This article discusses the nutritional value and health impacts of grains, focusing on unprocessed and processed grains. Key points include:
-
-1. **Core Theme**: The nutritional impact of grains and the effects of processing on health.
-2. **Main Ideas**:
-   - Unprocessed grains have low nutritional value, especially after oxidation.
-   - Processing (e.g., milling) destroys nutrients, and prolonged storage further depletes them.
-   - Refined grains contain high levels of pesticides and can lead to nutrient deficiencies.
-3. **Issues**:
-   - Processing disrupts nutrient content.
-   - Oxidation reduces nutritional value rapidly.
-4. **Solutions**:
-   - Opt for sprouted grains, such as Ezekiel bread, which offers higher nutritional value.
-   - Limit intake of refined grains during weight loss phases and gradually reintroduce them once in a fat-burning state.
-5. **Recommendations**:
-   - Avoid excessive consumption of refined grains to prevent nutrient deficiencies and related health issues.
-   - Prioritize fresh or frozen sprouted grain products to maintain nutrient integrity.
-
-In conclusion, processed grains should be minimized due to their low nutritional value and potential health risks. Sprouted grains and other high-nutrient foods are preferable for improving overall nutrition and preventing disease.
 </details>
 
 <details>
@@ -1313,77 +1247,7 @@ In conclusion, processed grains should be minimized due to their low nutritional
     <img src="https://img.youtube.com/vi/W_EHiOd8yHQ/maxresdefault.jpg" width="200">
 </a>
 
-### Executive Summary
 
-This article introduces the "Fat Burning Tracker," a web-based program designed to assist individuals in achieving long-term weight loss and improved health by focusing on hormonal influences rather than traditional calorie counting. The program emphasizes lifestyle activities that burn fat, providing feedback and support tailored to individual needs.
-
----
-
-### Core Theme: Revolutionizing Weight Loss Through Hormonal Balance
-
-- **Objective**: To shift the focus from short-term dieting to sustainable health through understanding and managing hormone influences.
-- **Innovation**: Unlike conventional weight loss programs, this tool tracks inputs (food consumed) rather than outputs (biometric measurements), offering a proactive approach to preventing deficiencies.
-
----
-
-### Key Concepts:
-
-1. **Hormonal Influence on Weight Loss**:
-   - Hormones play a critical role in regulating metabolism, appetite, and fat burning.
-   - The program identifies and addresses factors such as stress, sleep, exercise, and nutrition that impact hormonal balance.
-
-2. **Comprehensive Tracking System**:
-   - Users input daily food intake, physical activities, and body changes (e.g., sleep, stress levels).
-   - Advanced algorithms analyze this data to provide personalized feedback and recommendations.
-
-3. **Educational Focus**:
-   - The program educates users about the importance of hormone-burning versus sugar-burning states.
-   - Users learn how to make informed decisions based on their unique body type and health status.
-
----
-
-### Problem Analysis: Why Traditional Diets Fail
-
-- **Low Willpower Myth**: Weight loss struggles often stem from a lack of understanding rather than poor self-control.
-- **Sustainability Issues**: Many diets focus on short-term results without addressing underlying hormonal imbalances, leading to relapse.
-- **Inadequate Feedback**: Traditional methods rely on事后 measurements (e.g., blood tests) that fail to provide实时 insights into dietary and lifestyle impacts.
-
----
-
-### Solution: The Fat Burning Tracker Program
-
-1. **Interactive Web-Based Tool**:
-   - Users input daily food consumption, exercise routines, and body changes.
-   - The program generates detailed reports and graphs to visualize progress and areas for improvement.
-
-2. **Personalized Feedback**:
-   - Insights into dietary habits, stress levels, sleep quality, and physical activity are provided.
-   - Recommendations are tailored to help users achieve optimal fat-burning states.
-
-3. **Educational Resources**:
-   - Access to information on hormonal balance, nutrition, and lifestyle modifications.
-   - Users can ask questions and receive immediate answers through the program's dialogue feature.
-
----
-
-### Health Recommendations:
-
-1. **Adopt a Hormone-Focused Approach**:
-   - Prioritize activities and foods that promote fat burning over sugar-burning states.
-   - Incorporate regular exercise, adequate sleep, and stress management into daily routines.
-
-2. **Use Technology for Real-Time Feedback**:
-   - Utilize the Fat Burning Tracker to monitor and adjust dietary and lifestyle choices.
-   - Leverage data visualization tools to track progress and stay motivated.
-
-3. **Seek Professional Guidance**:
-   - Work with a health coach to interpret program results and implement personalized strategies.
-
----
-
-### Conclusion
-
-The Fat Burning Tracker offers a novel approach to weight loss by addressing the root causes of metabolic imbalances. By focusing on hormonal health, real-time feedback, and personalized education, this program empowers individuals to achieve sustainable wellness. Integrating such tools into daily life can lead to long-term success in managing weight and overall health.
 </details>
 
 <details>
@@ -2376,60 +2240,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
     <img src="https://img.youtube.com/vi/hGiN_a0rYJY/maxresdefault.jpg" width="200">
 </a>
 
-### Summary of Key Points from the Article
 
-#### Core Themes:
-- Adrenal fatigue and burnout after prolonged caffeine use.
-- Impact of chronic caffeine consumption on physical and cognitive health.
-- Importance of proper sleep hygiene for overall well-being.
-
-#### Major Concepts:
-1. **Adrenal Fatigue**: 
-   - The individual experienced adrenal fatigue due to excessive caffeine intake over two decades.
-   - Symptoms included extreme tiredness, weight loss, and lack of energy.
-
-2. **Caffeine Intake**:
-   - High daily caffeine consumption (up to 3,000 mg) led to significant health issues.
-   - Caffeine withdrawal was necessary for recovery but was initially challenging.
-
-3. **Sleep Disturbances**:
-   - Poor sleep quality and difficulty getting out of bed were major issues.
-   - Lack of sleep exacerbated feelings of fatigue and cognitive dysfunction.
-
-4. **Cognitive Impairment**:
-   - Difficulty focusing and performing daily tasks, such as making phone calls or using a computer.
-   - Forgetfulness and an inability to concentrate were common.
-
-5. **职业 Impact**:
-   - The individual struggled with their professional life due to lack of focus and energy.
-   - Seminars and public speaking became increasingly difficult as energy levels declined.
-
-#### Causes of the Problem:
-- Chronic caffeine use leading to adrenal exhaustion.
-- Poor sleep hygiene contributing to fatigue and cognitive decline.
-- Lack of proper medical guidance for managing adrenal burnout.
-
-#### Solutions and Health Recommendations:
-1. **Caffeine Detox**:
-   - Gradual reduction of caffeine intake to avoid severe withdrawal symptoms.
-   - Importance of support during the detox process.
-
-2. **Sleep Hygiene**:
-   - Prioritizing quality sleep by maintaining a consistent sleep schedule.
-   - Creating a conducive sleep environment to improve restfulness.
-
-3. **Cognitive Health**:
-   - Engaging in activities that promote mental clarity and focus, such as mindfulness exercises or regular breaks during work.
-   - Incorporating brain-boosting nutrients into the diet.
-
-4. **Medical Consultation**:
-   - Seeking professional guidance for adrenal fatigue and burnout.
-   - Tailored treatment plans to address individual health needs.
-
-#### Conclusion:
-- Adrenal fatigue and chronic caffeine use can have severe consequences on physical and cognitive health.
-- Proper sleep, dietary adjustments, and medical support are essential for recovery.
-- Sustainable lifestyle changes are crucial to prevent relapse and maintain long-term well-being.
 </details>
 
 <details>
@@ -2472,89 +2283,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
     <img src="https://img.youtube.com/vi/yQ9jy2eCb5I/maxresdefault.jpg" width="200">
 </a>
 
-### Key Points Summary
 
-#### Core Theme: The Impact of Chronic Stress on Cortisol Levels and Adrenal Health
-- **Cortisol** is a critical hormone that plays a dual role in stress response and inflammation regulation.
-- Prolonged stress leads to **cortisol depletion**, which disrupts its anti-inflammatory function, resulting in chronic inflammation, pain, and conditions like fibromyalgia.
-
-#### Major Concepts:
-1. **Cortisol's Functions**:
-   - Acts as an anti-inflammatory hormone.
-   - Helps the body respond to stress.
-   - Regulates metabolism and maintains homeostasis.
-
-2. **Chronic Stress Effects**:
-   - Leads to sustained high cortisol levels initially, followed by depletion over time.
-   - Impairs cortisol receptor efficiency, reducing its effectiveness in inflammation control.
-
-3. **Health Issues Associated with Cortisol Imbalance**:
-   - Chronic inflammation and fibromyalgia due to insufficient anti-inflammatory response.
-   - Increased belly fat despite high cortisol levels (ineffective hormone reception).
-   - Persistent sinus allergies, sleep apnea, muscle wasting, bone density issues, and hypertension.
-
-#### Causes of the Problem:
-- Prolonged exposure to stressors leads to dysregulation of the hypothalamic-pituitary-adrenal (HPA) axis.
-- Inefficient cortisol receptor function due to prolonged high cortisol levels.
-
-#### Solutions and Health Recommendations:
-1. **Nutritional Interventions**:
-   - **Vitamin A** supplementation, particularly through a diet rich in beta-carotene (e.g., carrot-based smoothies), supports sinus health and reduces allergy symptoms.
-   - Maintain a balanced diet to support adrenal function.
-
-2. **Lifestyle Modifications**:
-   - Manage stress effectively to prevent chronic cortisol depletion.
-   - Ensure adequate sleep and practice relaxation techniques to improve cortisol regulation.
-
-3. **Medical Considerations**:
-   - Consult healthcare professionals for conditions like hypertension, fibromyalgia, or sleep apnea that may be linked to adrenal dysfunction.
-   - Monitor and address underlying hormonal imbalances through medical supervision.
-
-#### Conclusion:
-Chronic stress significantly impacts cortisol levels, leading to a cascade of health issues. Understanding the role of cortisol in inflammation and metabolism is crucial for managing conditions like fibromyalgia and metabolic syndrome. Integrating nutrition, lifestyle changes, and medical care can help restore adrenal health and mitigate these conditions.
-
----
-
-### Chinese Translation
-
-#### 核心主題：慢性壓力對皮質醇水平和腎上腺健康的影响
-- **皮質醇**是一種關鍵激素，承擔著應激反應和炎症調節的雙重角色。
-- 長期壓力導致**皮質醇耗竭**，破壞其抗炎功能，從而引發慢性炎症、疼痛以及類似於強直性纖維肌痛症等情況。
-
-#### 主要概念：
-1. **皮質醇的功能**：
-   - 作為一種抗炎激素。
-   - 助力身體應付壓力。
-   - 調節代謝並維持機體平衡。
-
-2. **慢性壓力的影響**：
-   - 初期導致持續高水平的皮質醇，隨時間流逝逐漸耗竭。
-   - 降低皮質醇受體效率，削弱其炎症控制能力。
-
-3. **與皮質醇失衡相關的健康問題**：
-   - 慢性炎症和強直性纖維肌痛症（抗炎反應不足）。
-   - 肚腩肥胖（儘管皮質醇水平高但激素作用 ineffective）。
-   - 持續性鼻竇過敏、睡眠呼吸中斷症候群、肌肉萎縮、骨密度降低以及高血壓。
-
-#### 問題的成因：
-- 長期暴露於壓力源會擾亂下丘腦-腺垂體-腎上腺（HPA）軸。
-- 持續高水平皮質醇導致受體功能低效。
-
-#### 解決方案及健康建議：
-1. **營養干預**：
-   - **維生素A**補充，尤其是富含β胡蘿蔔素的飲食（如 carrot-based smoothies），有助於鼻竇健康並減輕過敏症狀。
-   - 確保均衡飲食以支持腎上腺功能。
-
-2. **生活方式調整**：
-   - 有效管理壓力以防皮質醇長期耗竭。
-   - 确保充足睡眠，實踐放鬆技巧以改善皮質醇調節。
-
-3. **醫療考量**：
-   - 就醫諮詢可能與腎上腺功能失常相關的疾病，如高血壓、強直性纖維肌痛症或睡眠呼吸中斷症。
-   - 監測並在專業指導下糾正激素失衡。
-
-#### 結論：
-長期壓力顯著影響皮質醇水平，導致一系列健康問題。理解皮質醇在炎症和代謝中的作用對管理強直性纖維肌痛症等情況至關重要。整合營養、生活方式改變及醫療護理有助於恢復腎上腺健康並緩解這些狀況。
 </details>
 
 <details>
@@ -2564,67 +2293,7 @@ Chronic stress significantly impacts cortisol levels, leading to a cascade of he
     <img src="https://img.youtube.com/vi/T3eo4p2LuYw/maxresdefault.jpg" width="200">
 </a>
 
-### 核心主題： thyroid dysfunction and its impact on health
 
-The article discusses the characteristics, causes, symptoms, and management of thyroid-related issues, particularly focusing on hypothyroidism.
-
----
-
-### 主要觀念：
-
-1. **Thyroid Function and Symptoms**:
-   - Thyroid dysfunction can manifest through various physical and emotional symptoms.
-   - Common symptoms include fatigue, hair loss, nail ridges, tongue abnormalities (indentations or thickness), dry skin, cold sensitivity, carbohydrate cravings, mood changes (depression), and voice changes.
-
-2. **Impact of Reduced Thyroid Activity**:
-   - Reduced thyroid function can impair intracellular enzyme activity, affecting protein synthesis.
-   - This leads to issues such as hair loss, nail problems, skin conditions (dryness, puffiness, wrinkles), eye floaters, and overall tissue health.
-
-3. **Diagnostic Challenges**:
-   - Blood tests may not always detect thyroid dysfunction until it has significantly deteriorated.
-   - Clinical symptoms often precede laboratory abnormalities, highlighting the need for a comprehensive approach to diagnosis.
-
----
-
-### 問題原因：
-
-1. **Hormonal Imbalances**:
-   - High levels of estrogen from conditions like fibroids or ovarian cysts can disrupt thyroid function.
-   - External exposure to estrogen (e.g., environmental estrogens) may also contribute to thyroid issues.
-
-2. **Liver Health**:
-   - The liver plays a crucial role in thyroid function, requiring 80% efficiency for optimal thyroid activity.
-   - Poor liver health can impair thyroid hormone metabolism and excretion.
-
-3. **Nutritional Deficiencies**:
-   - Insufficient iodine intake is a significant factor in thyroid dysfunction.
-   - Excessive consumption of soy products may interfere with thyroid hormone production due to goitrogens.
-
----
-
-### 解決方法和健康建議：
-
-1. **Dietary Adjustments**:
-   - Ensure adequate iodine intake through dietary sources such as kelp or iodized salts.
-   - Avoid excessive consumption of soy products, which can inhibit thyroid function.
-
-2. **Supportive Therapies**:
-   - Address underlying hormonal imbalances, particularly excess estrogen, through appropriate medical or alternative interventions.
-   - Optimize liver health to ensure proper thyroid hormone regulation and metabolism.
-
-3. **Monitoring and Early Intervention**:
-   - Recognize early symptoms of thyroid dysfunction to prevent progression.
-   - Consider complementary diagnostic methods beyond standard blood tests to assess thyroid function more comprehensively.
-
-4. **Lifestyle Modifications**:
-   - Manage stress, as chronic stress can further impair thyroid function.
-   - Maintain a balanced diet rich in nutrients that support thyroid health, including selenium, zinc, and tyrosine.
-
----
-
-### 結論：
-
-Thyroid dysfunction is a multifaceted condition with significant impacts on physical and mental health. Early identification of symptoms and addressing underlying causes, such as hormonal imbalances, liver dysfunction, and nutritional deficiencies, are critical for effective management. Integrating dietary, lifestyle, and medical interventions can help restore thyroid function and improve overall well-being.
 </details>
 
 <details>
@@ -2634,76 +2303,7 @@ Thyroid dysfunction is a multifaceted condition with significant impacts on phys
     <img src="https://img.youtube.com/vi/3GWnU_lma7w/maxresdefault.jpg" width="200">
 </a>
 
-### 核心主題
-- 睡眠障礙的原因與解決方法  
-- 與壓力、荷爾蒙失衡及營養缺乏相關的睡眠問題  
 
----
-
-### 主要觀念
-1. **睡眠障碍的核心原因**  
-   - 過去의 스트레스나 상처가 체내에 고립되어 에너지 사용을 방해한다.
-   - 睡眠障礙는 여러 가지 원인에서 기인한다.
-
-2. **壓力荷爾蒙 (코르티솔) 의 역할**  
-   - 高 코르티솔 수준은 잠잘 때 문제가 발생시킨다.
-   - 高 코르티솔은 肥大脂肪을 유발하고, 睡眠窒息症候群과 같은 문제를 악화시킨다.
-
-3. **膀胱問題에 따른睡眠障碍**  
-   - 尿意로 인해 수면被打斷된다.
-   - 高 코르티솔은 칼슘을 현저히 줄이고, 이는 수면의 질을 저하시킨다.
-
----
-
-### 問題原因
-1. **壓力相關問題**  
-   - 高 코르티솔 수준: 肥大脂肪, 睡眠窒息症候群, 尿의 잦은 배출.
-   - 長期 스트레스는 心理적 휴식을 방해한다.
-
-2. **營養缺乏**  
-   - 칼슘 결핍: 수면유도에 어려움을 주고, 身体의 긴장 상태를 유지시킨다.
-   - B1 (티아민) 결핍: 스트레스 대응能力이 약화된다.
-
-3. **신경 및 기관 문제**  
-   - 高 코르티솔로 인한 肥大脂肪과 nerve萎縮은 睡眠窒息을 일으킨다.
-   - 膺창의 문제는 尿 배출을 자주하게 한다.
-
----
-
-### 解決方法
-1. **영양 보충**  
-   - 칼슘: 수면유도를 돕고, 스트레스를 완화한다. (칼슘 시트레이트나 카르ilate가 좋다.)
-   - B1 (티아민): 营養補給와 스트레스 대응能力을 증진시킨다.
-
-2. **스트레스 관리**  
-   - 要 确保 足夠的 수면 환경과 정신적 휴식 시간.
-   - 使用 natural 来源의 비타민 B1 (e.g., 양조맥가공유).
-
-3. **健康 생활습관**  
-   - 避免 高酸性食物 섭취: 칼슘을 손실시키는 원인이 된다.
-   - 維持 平衡된 膳食과 수분 섭취.
-
----
-
-### 健康建議
-1. **수면 기르기 위한 영양 관리**  
-   - 每晚 칼슘 보충제를 섭취한다.
-   - 子供의 경우에도 칼슘을 통해 스트레스를 완화시킨다.
-
-2. **스트레스 대응能力 提高**  
-   - 要 取 自然來源의 B1, 이를 통해 心理적 안정을 유지한다.
-   - 避免 長期 精神 스트레스를 받는 환경.
-
-3. **생활습관 개선**  
-   - 睡眠 중斷을 줄이기 위해 尿배출 문제를 해결하기 위한 膳食 관리.
-   - 정기적인 운동과 휴식을 통해 身体의 균형을 유지한다.
-
----
-
-### 結論
-- 수면障碍는 여러 가지 원인으로 인해 발생하며, 이에 따른 맞춤형 해결책이 필요하다.
-- 영양 보충과 스트레스 관리가 수면 건강에 특히重要하다.
-- 自然來源의 영양소와 健康한 生活方式을 통해 睡眠 문제를 효과적으로 관리할 수 있다.
 </details>
 
 <details>
@@ -2891,60 +2491,7 @@ Thyroid dysfunction is a multifaceted condition with significant impacts on phys
     <img src="https://img.youtube.com/vi/rC7cXuNlyR4/maxresdefault.jpg" width="200">
 </a>
 
-# Key Points Summary of the Article
 
-## Core Theme
-- The narrative revolves around Susan's journey of weight gain, subsequent struggles with obesity, and her successful transformation through lifestyle changes, including diet and exercise. The story highlights the impact of body image on self-perception and social interactions.
-
-## Main Concepts
-1. **Weight Fluctuations Over Time**:
-   - Susan experienced significant weight changes from her teenage years through adulthood.
-     - Gained weight during high school (from 104 to 152 pounds).
-     - Lost weight temporarily in college, returning to 104 pounds.
-     - Regained weight over a 25-year marriage, reaching a peak of 298 pounds.
-
-2. **Perception and Social Impact**:
-   - Susan felt stigmatized due to her weight, with children making negative comments.
-   - Her weight affected her self-esteem and social interactions, with strangers often not recognizing her after her transformation.
-
-3. **Barriers to Change**:
-   - Lack of motivation initially hindered Susan's ability to make sustainable changes.
-   - Poor dietary habits and lack of exercise were identified as primary contributors to her weight issues.
-
-## Causes of the Problem
-- Poor eating habits, including consuming unhealthy foods, contributed significantly to weight gain.
-- Inadequate physical activity was a major factor in maintaining excess weight.
-- Social pressure and stigmatization due to body image impacted Susan's self-esteem and willingness to address her weight.
-
-## Solutions Implemented
-1. **Lifestyle Changes**:
-   - Adoption of healthier eating habits.
-   - Regular exercise, starting with walking and gradually incorporating more intense interval training.
-
-2. **Support Systems**:
-   - Moving to a new neighborhood provided an opportunity for Susan to rebuild her self-image without the stigma associated with her previous community.
-   - Positive reinforcement from friends and acquaintances who were unaware of her past contributed to her confidence.
-
-## Health Recommendations
-1. **Dietary Adjustments**:
-   - Replace unhealthy food choices with nutrient-dense options.
-   - Focus on balanced meals that promote overall health rather than just weight loss.
-
-2. **Regular Physical Activity**:
-   - Engage in daily exercise, starting with moderate activities like walking and progressing to more intense routines such as interval training.
-   - Make exercise a priority by scheduling it consistently.
-
-3. **Mindset and Attitude**:
-   - Cultivate a positive mindset, focusing on personal achievements rather than external validation.
-   - Ignore age-related stereotypes about weight loss and fitness; maintain determination and focus on individual capabilities.
-
-4. **Social Support**:
-   - Seek environments where body image is not a source of judgment or stigma.
-   - Surround oneself with supportive individuals who encourage health and wellness.
-
-## Conclusion
-- Susan's story demonstrates that significant weight loss and lifestyle transformation are achievable through persistent effort, healthy eating, regular exercise, and a positive attitude.
-- Her journey highlights the importance of addressing both physical and psychological barriers to maintain long-term health and well-being.
 </details>
 
 <details>
