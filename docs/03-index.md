@@ -1055,46 +1055,185 @@
 </details>
 
 <details>
-<summary>304. What Causes Cataracts? – Dr. Berg</summary><br>
+<summary>304. [2015-10-01] What Causes Cataracts? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=WH5ZEufCG3k" target="_blank">
     <img src="https://img.youtube.com/vi/WH5ZEufCG3k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理
 
+#### 1. 核心主題：  
+- 討論白內障（cataracts）的原因及其與酸鹼平衡的關聯。
+
+#### 2. 主要觀念：  
+- 白內障的形成與血液過度偏鹼有密切关系。  
+- 酸鹼失衡主要來源於腎上腺功能亢進，導致皮質醇過量分泌，進而影響酸鹼平衡。
+
+#### 3. 問題原因：  
+- 腎上腺過度作用：  
+  - 皮質醇（cortisol）過多分泌，造成體內酸性物質丟失。  
+  - 酸性物質的大量流失使血液pH值上升，導致「高碳酸血症」或「代謝性鹼中毒」（alkalosis）。  
+- 骨骼肌無氧呼吸：  
+  - 經長時間工作後，乳酸積累，進一步影響酸鹼平衡。
+
+#### 4. 白內障的形成機制：  
+- 血液過度偏鹼：  
+  - 鈣質在全身各處沉積（如神經、關節、眼睛等）。  
+  - 眼睛中鈣鹽沉積導致白內障。  
+
+#### 5. 解決方法：  
+- 酸化體內環境：  
+  - 摂取酸性食物和飲料，如未加工的蔓越莓汁、apple cider vinegar（蘋果醋）、檸檬水等。  
+  - 建議飲用碳酸水（如Pellegrino或Perrier），有助於輕微酸化血液。  
+
+#### 6. 健康建議：  
+- 避免盲目「鹼化」體內環境，需根據具體情況調整。  
+- 注意身體的酸性需求，尤其是腎上腺功能亢進的人群。  
+- 確保足夠的钙攝取，以維持正常的鈣代謝和骨骼健康。  
+
+#### 7. 結論：  
+- 白內障的形成與血液過度偏鹼密切相關。  
+- 調理酸鹼平衡是關鍵，而非單純追求「 alkalize or die」的理念。  
+- 需從根本上解決腎上腺功能失調問題，才能有效預防和治療白內障及其他相關疾病。
 </details>
 
 <details>
-<summary>303. How To Find The Perfect Diet For Your Body? – Dr. Berg</summary><br>
+<summary>303. [2015-09-29] How To Find The Perfect Diet For Your Body? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=YR-KPrmIvgo" target="_blank">
     <img src="https://img.youtube.com/vi/YR-KPrmIvgo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理與分析
 
+#### 核心主題
+- 飲食結構對健康和體重管理的重要性。
+- 各種飲食法（如低碳水化合物、 Paleo、阿特金斯、生酮等）的利弊。
+- 营養均衡與身體功能的關聯。
+
+#### 主要觀念
+1. **飲食定義**：食物應該能夠提供能量和維持組織修復，而非僅為節食或限制某種營養素。
+2. **低碳水化合物飲食的雙面性**：
+   - 可能有效於某些人，但若包含水果或糖分過高的食物，可能影響脂肪燃燒。
+3. **Paleo diet**：強調回歸原始飲食模式，但需注意果糖攝取量以避免干擾 fat-burning。
+4. **阿特金斯 diet**：高蛋白質、低碳水化合物，但可能造成氨基酸失衡。
+5. **生酮 diet**：適合代謝良好的人，否則可能無法有效燃燒自身脂肪。
+
+#### 問題原因
+- 過於狹隘的飲食限制（如極低卡路里）導致營養不足，影響心臟等器官功能。
+- 各種飲食法未充分考慮個人代謝特質、基因及健康狀況。
+- 市面上對「低碳水化合物」、「低脂」等術語缺乏明確定義，造成混淆。
+
+#### 解決方法
+1. **個化飲食計劃**：根據個人的代謝率、健康狀況和基因設計飲食方案。
+2. **均衡營養攝取**：確保足夠的蔬菜攝取以提供維生素和礦物質，避免因過度限制某一種 nutrient 而導致失衡。
+3. **Monitoring and Adjustments**：定期評估飲食效果並根據反應進行調整。
+
+#### 健康建議
+1. 避免極端節食，特別是那些只限制卡路里而不提供足夠營養的飲食。
+2. 確保攝取足夠的脂溶性維生素（A、D、K）來源，這意味著需要攝入一定的健康脂肪。
+3. 注意微量營養素的平衡，以支持心臟和其他器官的功能。
+
+#### 結論
+- 没有一種飲食計劃適合所有人，關鍵在於找到適合個人情況的飲食方式。
+- 飮食不僅是關於卡路里攝取，更重要的是提供身體所需的所有營養素。
+- 個人化和靈活性是成功實施飲食計劃的關鍵。
+
+#### 研究結果引用
+- 文章中未提及具體的研究數據，但強調了個別案例（如心臟病患者的飲食調整）對健康狀況的積極影響。
 </details>
 
 <details>
-<summary>302. How To Do Acupressure? – Try Dr. Berg's Effective Techniques</summary><br>
+<summary>302. [2015-09-28] How To Do Acupressure? – Try Dr. Berg's Effective Techniques</summary><br>
 
 <a href="https://www.youtube.com/watch?v=bFbRy1qx8ro" target="_blank">
     <img src="https://img.youtube.com/vi/bFbRy1qx8ro/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 半島灣研討會於2023年10月3日在美國北維吉尼亞舉辦。
+- 主旨為教授#acupressure#技術及其在身體不同部位（如甲狀腺、腎上腺、卵巢、胰臟）及症狀（如潮熱、月經問題）上的應用。
 
+### 主要觀念
+1. **#acupressure#的多功能性**：
+   - 可針對不同體型和器官提供個化化的治療方案。
+   - 用於緩解常見疼痛、慢性痛和全身性疼痛，特別是REFERRED PAIN。
+2. **BODY SYMMETRY概念**：
+   - 提出通過#acupressure#技術使身體達到前後左右的平衡 symmetry。
+   - 良好的體型對稱性有助於改善睡眠 quality、運動 performance 和減輕關節壓力。
+3. **應激管理**：
+   - 教授快速有效的方法來釋放壓力，促進深度睡眠（Delta波睡眠）。
+
+### 問題原因
+- 現代人普遍存在姿勢不良、身體不平衡及慢性疼痛問題，主要由肌肉緊張和松馳不均引起。
+- 慢性痛和全身性疼痛影響患者的生活質素，常因未明確病因而難以治療。
+
+### 解決方法
+1. **#acupressure#技術**：
+   - 针對不同體型和症狀提供個化化的按壓方案。
+   - 用於緩解REFERRED PAIN並改善全身性疼痛。
+2. **BODY SYMMETRY調理**：
+   - 通過#acupressure#使身體達到平衡，有效改善姿勢、運動能力和關節健康。
+3. **應激管理和睡眠提升**：
+   - 提供快速減壓技巧，促進深度睡眠。
+
+### 健康建議
+- 參加研討會以獲得專業指導和實操經驗。
+- 定期進行#acupressure#治療以維持身體平衡和健康。
+- 注意姿勢管理，防止因姿勢不良導致的慢性疼痛。
+
+### 結論
+- 本次研討會將提供實用的#acupressure#技術和BODY SYMMETRY調理方法，幫助參加者解決多種健康問題。
+- 鼓勵大家踴躍報名參與，通過實際操作和示範學習這些有效的健康技巧。
 </details>
 
 <details>
-<summary>301. Why It's Hard To Turn Stress (Cortisol) Off? – Dr. Berg</summary><br>
+<summary>301. [2015-09-21] Why It's Hard To Turn Stress (Cortisol) Off? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ii_OWTqn1rw" target="_blank">
     <img src="https://img.youtube.com/vi/ii_OWTqn1rw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節化整理：文章關於皮質醇與壓力管理的核心內容
 
+#### 1. 核心主題
+- 文章探討了皮質醇（cortisol）在人體應對壓力中的作用及其累積效應，特別是 adrenal glands 的功能與失衡。
+
+#### 2. 主要觀念
+- **皮質醇的來源與結構**：
+  - 由腎上腺外層分泌。
+  - 腎上腺分為外層（分泌皮質醇）和內層（分泌腎上腺素，如 adrenaline）。
+  
+- **壓力反應機制**：
+  - 總狀：應對短期壓力，提升身體適應能力。
+  - 累積性：長期壓力導致 adrenal glands 濕潤開啟，無法自行關閉。
+
+#### 3. 問題原因
+- **腺體失衡**：腎上腺因長期壓力過載而失去自我調節能力。
+- **自主神經系統失衡**：
+  - 过度活躍的交感神經（sympathetic nervous system）導致持續緊張。
+  - 遺傳性副交感神經（parasympathetic nervous system）不足，影響恢復與放鬆。
+
+#### 4. 解決方法
+- **物理干預技術**：
+  - 使用壓力點按摩或	acupressure	刺激特定部位，促進副交感神經活躍。
+  
+- **神經系統平衡法**：
+  - 利用心率變異性（heart rate variability, HRV）測試評估自主神經系統狀態。
+  - 通過技術激活副交感神經，幫助身體放鬆。
+
+#### 5. 健康建議
+- 定期進行壓力點按摩或	acupressure	以促進放鬆與恢復。
+- 減少長期暴露於高壓環境，增加放鬆活動如冥想、深呼吸等。
+- 監測自主神經系統的健康狀況，及時調整生活方式。
+
+#### 6. 總結
+- 長期壓力導致腎上腺功能失衡，需主動干預以恢復副交感神經的調節作用。
+- 通過物理技術和生活方式調整，可有效降低皮質醇水平，改善整體健康。
 </details>
 
