@@ -76,113 +76,627 @@
 </details>
 
 <details>
-<summary>1293. 20 Things that Result in Mineral Deficiency – Dr. Berg</summary><br>
+<summary>1293. [2018-01-20] 20 Things that Result in Mineral Deficiency – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=RwaBFUDB5RQ" target="_blank">
     <img src="https://img.youtube.com/vi/RwaBFUDB5RQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理： mineral deficiencies and their causes
 
+#### 1. 核心主題:
+The article discusses the various factors that contribute to mineral deficiencies, focusing on essential minerals such as calcium, magnesium, zinc, selenium, iodine, and potassium.
+
+#### 2. 主要觀念:
+- **Soil Depletion**: Modern farming practices often fail to replenish trace minerals in the soil, leading to deficiencies in crops.
+- **Medications**: Certain medications, including diuretics, prednisone, and synthetic hormones, deplete specific mineral reserves.
+- **Dietary Factors**: Poor dietary choices, such as excessive coffee consumption, high sugar intake, and refined grains, can lead to mineral depletion.
+- **Health Conditions**: Chronic conditions like GERD, high insulin levels, thyroid disorders, and kidney stones can affect mineral absorption and utilization.
+
+#### 3. 問題原因:
+- **Soil and Agricultural Practices**: The lack of re-mineralization in agricultural soils results in crops with lower mineral content.
+- **Medications**: Diuretics deplete potassium; prednisone reduces potassium levels; birth control pills decrease magnesium and zinc.
+- **Dietary Choices**: Excessive coffee consumption leads to calcium, magnesium, potassium, and sodium depletion. High sugar intake depletes potassium, magnesium, chromium, and zinc. Refined grains contain phytic acid, which inhibits mineral absorption.
+- **Health Issues**: Low stomach acid impairs the absorption of minerals like calcium, magnesium, zinc, and iron. Chronic stress increases cortisol, leading to calcium and potassium depletion. Hyperthyroidism reduces calcium, magnesium, and selenium levels.
+
+#### 4. 解決方法:
+- **Supplementation**: Use high-quality plant-based supplements for essential minerals.
+- **Dietary Adjustments**: Consume large quantities of vegetables, sea vegetables (e.g., seaweed), and foods rich in trace minerals.
+- **Hydration Practices**: For individuals prone to kidney stones, consuming calcium can help prevent deficiency by binding with oxalate in the digestive system rather than the kidneys.
+- **Pregnancy Nutrition**: Opt for plant-based prenatal vitamins that provide bioavailable nutrients.
+
+#### 5. 健康建議:
+- Avoid excessive coffee and sugar intake to preserve electrolyte balance.
+- Incorporate whole, unrefined grains instead of refined ones to minimize phytic acid interference with mineral absorption.
+- Monitor and manage stress levels to prevent cortisol-induced mineral depletion.
+- Be cautious with medications; consult healthcare providers about potential mineral depletions and consider appropriate supplements.
+
+#### 6. 結論:
+Mineral deficiencies are often caused by a combination of poor dietary choices, soil depletion, and health conditions. Addressing these issues through targeted supplementation, dietary adjustments, and mindful medication use can help maintain optimal mineral levels for overall health.
 </details>
 
 <details>
-<summary>1292. Ever get strange looks when shopping for keto?</summary><br>
+<summary>1292. [2018-01-19] Ever get strange looks when shopping for keto?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KC4-rO13m4I" target="_blank">
     <img src="https://img.youtube.com/vi/KC4-rO13m4I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Introduction  
+This video discusses common interactions and comments grocery store checkout staff might make, highlighting humorous and light-hearted responses to such inquiries. The focus is on how individuals can handle these situations with creativity and wit.
 
+---
+
+### Core Theme  
+- The video explores the social dynamics between customers and grocery store employees, particularly duringcheckout interactions.  
+- It emphasizes the humor and absurdity of certain comments or questions posed by checkout staff.  
+
+---
+
+### Key Concepts  
+1. **Types of Comments at Checkout**:  
+   - Questions about the quantity or selection of items (e.g., "What's the occasion for all the eggs?").  
+   - Remarks about unusual purchases or preferences (e.g., "You must really like kale").  
+   - Queries about产地 or origins (e.g., cheese from Wisconsin).  
+
+2. **Responses to These Comments**:  
+   - Creative and humorous replies to deflect awkwardness or confusion.  
+   - Examples include:  
+     - "Easter is coming early!"  
+     - "We have 18 kids to feed."  
+     - "We're just trying to balance the economy by buying all this kale."
+
+3. **Social Interaction Dynamics**:  
+   - The video highlights how small interactions can lead to unexpected conversations.  
+   - It underscores the importance of quick thinking and humor in navigating such situations.  
+
+---
+
+### Problems and Causes  
+- **Awkwardness or Confusion**:  
+  Checkout staff may ask questions that customers find strange or irrelevant, leading to potential misunderstandings.  
+- **Overly Curious Inquiries**:  
+  Sometimes, employees may inquire too deeply into a customer's purchase, which can feel invasive or unusual.  
+
+---
+
+### Solutions and Strategies  
+1. **Humorous Responses**:  
+   - Use light-hearted remarks to diffuse tension or redirect the conversation.  
+2. **Candid Answers**:  
+   - Provide honest but polite replies if comfortable doing so.  
+3. **Ignoring or Redirecting**:  
+   - If a comment feels awkward, it's acceptable to simply move on without engaging further.  
+
+---
+
+### Health and Wellness Considerations  
+- While the video focuses on social interactions, it indirectly touches on stress management through humor.  
+- Engaging in light-hearted exchanges can foster positive mood and reduce anxiety during routine tasks like grocery shopping.  
+
+---
+
+### Conclusion  
+The video offers a humorous take on everyday checkout interactions, encouraging viewers to embrace creativity and wit in handling such situations. It serves as both entertainment and a reminder of the importance of social adaptability in public settings.  
+
+--- 
+
+This structured summary captures the essence of the video while organizing its content into clear academic sections.
 </details>
 
 <details>
-<summary>1291. Can I Do Keto & Intermittent Fasting If I am a Diabetic on Metformin and Insulin? – Dr. Berg</summary><br>
+<summary>1291. [2018-01-19] Can I Do Keto & Intermittent Fasting If I am a Diabetic on Metformin and Insulin? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=J6RE8AZs6KA" target="_blank">
     <img src="https://img.youtube.com/vi/J6RE8AZs6KA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 關鍵點整理  
+#### Core Themes (核心主題)  
+1. **Diabetes Types** (糖尿病種類):  
+   - Type 1 Diabetes: 胰島素缺乏，胰臟無法正常分泌胰岛素。  
+   - Type 2 Diabetes: 胰岛素抵抗，細胞對胰岛素的反應降低，導致胰臟 overproduction of insulin。  
 
+2. **Metformin and Insulin Use** (使用Metformin和胰岛素):  
+   - Metformin: 提高细胞对胰岛素的敏感度。  
+   - Insulin: 补充body不足的胰岛素，控制血糖。  
+
+3. **Health Concerns with High Insulin Levels** (高胰岛素水平的健康問題):  
+   - 高胰岛素水平可導致腎臟、視網膜、動脈和大腦受損。  
+
+#### Key Concepts (主要觀念)  
+1. **Insulin Resistance and its Implications** (胰岛素抵抗及其影響):  
+   - Type 2 Diabetes中，胰島素 resistant cells 导致血糖升高和胰臟 overproduction of insulin。  
+
+2. **Dietary Adjustments for Diabetics** (糖尿病患者的飲食調整):  
+   - Reducing carbohydrate intake: 可以降低血糖並減少對胰岛素的需求。  
+   - Intermittent Fasting and Keto Diet: 這兩種方法均可幫助控制血糖和胰島素水平。  
+
+3. **Therapeutic Goals** (治療目標):  
+   - Minimizing insulin use to reduce side effects and complications.  
+   - Improving insulin sensitivity through diet and lifestyle changes.  
+
+#### Problem Analysis (問題分析)  
+1. **High Insulin Levels as a Risk Factor** (高胰岛素水平為風險因素):  
+   - High insulin levels可導致多種併發症，包括腎臟病、視網膜病變和心血管疾病。  
+
+2. **Challenges in Managing Diabetes** (管理糖尿病的挑戰):  
+   - Balancing medication use with dietary and lifestyle changes.  
+
+#### Solutions and Recommendations (解決方案與建議)  
+1. **Dietary Interventions** (飲食干預):  
+   - Implementing a low-carbohydrate diet (e.g., ketogenic diet).  
+   - Practicing intermittent fasting to control blood sugar levels.  
+
+2. **Medical Management Optimization** (優化醫療管理):  
+   - Working with healthcare providers to adjust insulin dosage based on dietary changes.  
+   - Monitoring blood sugar and insulin levels regularly.  
+
+3. **Lifestyle Modifications** (生活型態的 modification):  
+   - Incorporating regular physical activity to improve insulin sensitivity.  
+
+#### Conclusion (結論)  
+1. **Feasibility of Keto and Intermittent Fasting for Diabetics** (糖尿病患者可行的生酮飲食和間歇性禁食):  
+   - Yes, it is possible for diabetics on metformin and insulin to follow a ketogenic diet and practice intermittent fasting.  
+
+2. **Importance of Collaboration with Healthcare Providers** (與醫療提供者的合作重要性):  
+   - Close monitoring and collaboration with doctors are essential to adjust medications and ensure safety.
 </details>
 
 <details>
-<summary>1290. Is It Safe For Menopausal Women With Adrenal Fatigue To Do Keto & Intermittent Fasting? – Dr. Berg</summary><br>
+<summary>1290. [2018-01-18] Is It Safe For Menopausal Women With Adrenal Fatigue To Do Keto & Intermittent Fasting? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=u2jYF8GD7Hg" target="_blank">
     <img src="https://img.youtube.com/vi/u2jYF8GD7Hg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理：Menopausal Women with Adrenal Fatigue Practicing Keto and Intermittent Fasting
 
+#### 1. **核心主題**
+- 探討更年期女性在腎上腺 fatigue 情況下實行生酮飲食（Keto）和間歇性禁食的安全性和可行性。
+  
+#### 2. **主要觀念**
+- 生酮飲食和間歇性禁食可能對更年期女性有益，但需謹慎實施以避免血糖不穩定。
+- 腎上腺功能減退會影響血糖水平和胰島素抵抗，進而干擾 weight loss。
+
+#### 3. **問題原因**
+- 更年期後，腎上腺功能逐漸衰退，無法有效維持血糖穩定，導致血液糖分下降，引起眩暈和虛弱。
+- 高皮質醇水平（Cortisol）會增加胰島素分泌，導致胰島素抵抗，影響 weight loss。
+
+#### 4. **解決方法**
+- **逐步實施**：從三餐開始，逐漸延長禁食時間，最終目標為每日兩餐。
+- **營養補充**：
+  - 增加攝取葉酸、B群（建議使用營養酵母）、鉀和海鹽以支持腎上腺功能。
+  - 添加微量元素如鋅和鈷，幫助更快進入酮症狀態。
+- **飲食調整**：
+  - 高蛋白飲食：每日蛋白質攝取量可增加至7-8盎司，促進肌肉生長。
+  - 增加ω-3脂肪酸攝取（如磷蝦油），以減輕炎症和改善整體健康。
+
+#### 5. **健康建議**
+- 選擇低强度運動如散步，避免高強度訓練，以免加重腎上腺負擔。
+- 減輕壓力：包括使用艾灸、冥想等方法，並關注睡眠品質以促進身心健康。
+
+#### 6. **結論**
+- 生酮飲食和間歇性禁食是有效的 weight loss 方法，但更年期女性需注意血糖穩定和腎上腺功能。
+- 舊 gradual approach 和適當的營養補充是成功實施這些 diet plan 的關鍵。
+- 長期來看，這亃斷措施能幫助改善整體健康狀況，並突破 weight loss 平台。
 </details>
 
 <details>
-<summary>1289. 13 Serious Side Effects of Low Cholesterol (Hypocholesterolemia) – Dr. Berg on Cholesterol Control</summary><br>
+<summary>1289. [2018-01-18] 13 Serious Side Effects of Low Cholesterol (Hypocholesterolemia) – Dr. Berg on Cholesterol Control</summary><br>
 
 <a href="https://www.youtube.com/watch?v=gRnmzFB04x0" target="_blank">
     <img src="https://img.youtube.com/vi/gRnmzFB04x0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：低膽固醇的 serious side effects 及其影響
 
+---
+
+#### 1. **核心主題**
+   - 探讨低膽固醇（而非高膽固醇）對健康的潛在危害。
+   - 强調醫學界過於關注高膽固醇，而忽略了低膽固醇的風險。
+
+---
+
+#### 2. **主要觀念**
+   - 胆固醇是身體正常功能不可缺少的物質，參與激素合成、細胞膜結構及免疫功能等。
+   - 高膽固醇本身並非有害，反而是身體對炎症或氧化應激的反應。
+   - 低膽固醇水平可能導致多種嚴重健康問題。
+
+---
+
+#### 3. **低膽固醇的副作用（ Serious Side Effects of Low Cholesterol）**
+   - **癌症風險增加**：低膽固醇可能與某些癌症的發病率上升有關。
+   - **貧血**：膽固醇是合成紅血球的重要成分，缺乏會影響血紅蛋白生成。
+   - **腦卒中风险增加**：低膽固醇可能削弱血管壁結構，增加出血性卒中的風險。
+   - **抗腎上腺皮質功能減退（Adrenal Failure）**：腎上腺激素（如皮質醇）的合成需要膽固醇，缺乏會導致荷爾蒙失衡。
+   - **免疫系統削弱**：膽固醇是免疫細胞功能的重要支撐，低膽固醇會削弱免疫力。
+   - **感染風險增加**：免疫反應降低，導致對病毒和細菌的易感性增強。
+   - **全因死亡率上升**：研究顯示低膽固醇與總死亡率升高有關。
+   - **慢性炎症**：低膽固醇水平可能加劇全身性炎症反應。
+   - **肝臟疾病風險增加**：膽固醇對肝脏功能有重要作用，缺乏會影響其正常運作。
+   - ** respirator disease risk**：低膽固醇可能增加呼吸系統疾病的發生率。
+   - **主動脈夲離（Aortic Dissection）**：低膽固醇導致主動脈壁結構脆弱，增加致命性撕裂風險。
+   - **敗血症和腎上腺功能衰竭**：重症患者更易因低膽固醇而并发敗血症。
+
+---
+
+#### 4. **問題原因**
+   - 醫學界過於焦點高膽固醇的危險，忽略了低膽固醇的潛在危害。
+   - 胆固醇被錯誤地妖魔化，其實它是身體正常運作所需的重要物質。
+   - 對“風險”和“率”的混淆：高膽固醇的心臟病風險被過度誇大。
+
+---
+
+#### 5. **健康建議**
+   - 避免盲目追求低膽固醇水平，需根據個人情況評估膽固醇的適當範圍。
+   - 平衡飲食，攝取足夠的健康脂肪來源，如魚油、 nuts 和橄榄油等。
+   - 定期檢查膽固醇水平，與醫生討論個人化的健康管理方案。
+
+---
+
+#### 6. **結論**
+   - 胆固醇並非“壞東西”，反而是維持身體正常功能的重要物質。
+   - 高膽固醇未必是健康的主要威脅，低膽固醇可能帶來更大風險。
+   - 健康管理應基於全面評估，而非簡單追蹤膽固醇水平。
 </details>
 
 <details>
-<summary>1288. Dr.Berg Interviews Keto Blogger Vivica Menegaz on Her New Keto-Paleo Cookbook</summary><br>
+<summary>1288. [2018-01-17] Dr.Berg Interviews Keto Blogger Vivica Menegaz on Her New Keto-Paleo Cookbook</summary><br>
 
 <a href="https://www.youtube.com/watch?v=QbMrDra_aoo" target="_blank">
     <img src="https://img.youtube.com/vi/QbMrDra_aoo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理與分析
 
+#### 核心主題
+本文圍繞酮基 Paleo 饮食法展開，探討了其在健康飲食、體重管理和慢性病預防中的應用。文章強調了酮基 Paleo 饮食法的核心原則，包括低碳水化合物、高脂肪和適量蛋白質的攝取，以及如何通過此飲食法來改善整體健康。
+
+#### 主要觀念
+1. **酮基 Paleo 饮食法的定義與原則**  
+   - 低碳水化合物：限制糖類和穀物的攝取。
+   - 高脂肪：增加健康脂肪的攝入，如 coconut oil、橄欖油等。
+   - 適量蛋白質：選擇高品質蛋白來源，如肉類、魚類和乳制品。
+
+2. **酮基 Paleo 饮食法的健康益處**  
+   - 促進體重管理和脂肪燃燒。
+   - 縮減胰島素抵抗，改善血糖控制。
+   - 調節血脂 profle，降低壞膽固醇（LDL）和總膽固醇水平。
+   - 提供持久的能量來源，減少飢餓感。
+
+3. **酮基 Paleo 饮食法的科學依據**  
+   - 生酮飲食可增加脂肪氧化，降低血糖水平。
+   - Paleo 饮食法強調回歸原始飲食方式，排除加工食品和農藥殘留。
+   - 綜合兩者優勢，酮基 Paleo 饮食法在減脂、增肌和整體健康方面具有顯著效果。
+
+#### 問題原因
+1. **現代飲食文化的影響**  
+   - 高糖、高鹽、高脂肪的加工食品氾濫，導致民眾攝取過多不健康成分。
+   - 忙碌的生活節奏使得人們依賴速食，缺乏時間和動力準備健康的餐點。
+
+2. **傳統ダイエット方法的局限性**  
+   - 低脂飲食常導致能量不足，難以持續並容易復胖。
+   - 高碳水化合物攝取引發胰島素_spike，加重肥胖和代謝症狀。
+
+3. **酮基 Paleo 饮食法實施中的挑戰**  
+   - 初學者可能因不熟悉健康食材的_prep 而感到困難。
+   - 長期堅持高脂肪飲食可能需要時間來適應，部分人可能出現消化不良等問題。
+
+#### 解决方法
+1. **飲食結構調整**  
+   - 替代加工食品，選擇自然、未經處理的食物，如新鮮蔬菜、水果、肉類和健康油脂。
+   - 減少碳水化合物攝取，增加健康脂肪的份量。
+
+2. **餐點準備與創新**  
+   - 利用酮基 Paleo 食材創-new食谱，確保飲食多樣化且有趣味性。
+   - 提供易於_prep 的食譜，如冰淇淋等甜點，幫助人們在过渡期中滿足 craving。
+
+3. **心理調適與支持**  
+   - 建立持續的飲食計劃，避免極端ダイエット導致的復胖。
+   - 獲得家人和朋友的支持，或參加酮基 Paleo 社群，分享經驗和互相鼓勵。
+
+#### 健康建議
+1. **逐步實施酮基 Paleo 饮食法**  
+   - 減少對加工食品的依賴，逐漸增加健康食材的比例。
+   - 確保蛋白質來源高品質，避免食用農藥殘留和激素超标的肉類。
+
+2. **飲食多樣化與平衡**  
+   - 確保攝取足夠的膳食纖維，以促進腸胃健康。
+   - 適當攝取omega-3脂肪酸，如深海魚油，以降低炎症反應。
+
+3. **密切監控身體反應**  
+   - 定期追蹤體重、血糖和血脂指標，評估飲食法的成效。
+   - 如出现頭暈或乏力等不適症狀，可調整脂肪攝取量或諮詢醫生意見。
+
+4. **心理與行為調節**  
+   - 設定實際可行的目標，避免過度壓力。
+   - 學會獎勵自己，如在成功達成某個目標時，允許少量非酮基 Paleo 食材的攝取。
+
+#### 研究成果展示
+1. **酮基 Paleo 饮食法的效果研究**  
+   - 多項研究表明，酮基 Paleo 饮食法能有效降低體重和体脂率。
+   - 受試者報告了更持久的能量來源和改善的整體健康狀況。
+
+2. **酮基 Paleo 食材的研究與創新**  
+   - 專家推薦使用椰子油、牛油果和奇異籽等高脂肪食材，創-new多種美味食谱。
+   - 健康甜點的研發，如酮基 Paleo 冰淇淋，幫助人們在享受美食的同時保持飲食計劃。
+
+#### 文化影響與未來發展
+1. **酮基 Paleo 饮食法的文化接受度**  
+   - 越來越多的人開始關注健康飲食，酮基 Paleo 饮食法因其科學性和效果受到歡迎。
+   - 健康飲食文化的普及，促使更多廚師和餐廳提供酮基 Paleo 友好的餐點。
+
+2. **未來研究方向**  
+   - 探索酮基 Paleo 饮食法在不同人口（如兒童、孕婦）中的適應性。
+   - 研究其對代謝症狀的長期影響，以及是否能用於治療特定疾病。
+   - 進一步開發適合亞洲口味的酮基 Paleo 食材和食譜，推動飲食文化的本地化。
+
+#### 教育與資源
+1. **教育資源的重要性**  
+   - 提供免費的線上資源，如食譜、ダイエット技巧和科學研究結果，幫助更多人了解酮基 Paleo 饮食法。
+   - 舉办健康飲食講座和工作坊，邀請專家分享經驗和廚藝。
+
+2. **社群支持的力量**  
+   - 建立線上線下的酮基 Paleo 社群，讓人們互相鼓勵和支持。
+   - 分享成功故事和失敗經驗，幫助新加入者更好地適應飲食法。
+
+#### 總結
+酮基 Paleo 饮食法提供了一種有效的健康飲食方式，幫助人們改善體重管理和整體健康。通過科學的飲食結構調整、多樣化的餐點準備和心理上的調適與支持，人們可以更輕鬆地實施此飲食法並享受其益處。未來的研究和教育資源將進一步推動酮基 Paleo 饮食文化的發展，幫助更多人實現健康目標。
 </details>
 
 <details>
-<summary>1287. 3 Amazing Health Benefits of Radish – Dr.Berg</summary><br>
+<summary>1287. [2018-01-17] 3 Amazing Health Benefits of Radish – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Bo9yeFUEhjc" target="_blank">
     <img src="https://img.youtube.com/vi/Bo9yeFUEhjc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 蘑菇（Radishes）的多樣化健康益處及其在清除此部位、促進整體健康的應用。
 
+---
+
+### 主要觀念  
+1. **蘑菇的特性**  
+   - 蘑菇富含硫元素，具有清除此部位粘液的作用。  
+   - 屬於 cruciferous（十字花科）蔬菜，具備抗炎和抗癌特性。  
+
+2. **蘑菇的功能**  
+   - 能夠刺激消化系統，促進毒素排出。  
+   - 有助於改善肝臟、腎臟、膽囊及淋巴atic 系統的健康。  
+
+---
+
+### 問題原因  
+- 慢性此部位感染或過多粘液可能導致：  
+  1. 喉嚨不適。  
+  2. 鼻塞或其他呼吸系統問題。  
+  3. 影響整體免疫功能。  
+
+---
+
+### 解決方法  
+1. **蘑菇汁飲用法**  
+   - 將蘑菇、薑和檸檬榨汁，可稀釋後慢慢攝取。  
+   - 蘑菇的辛辣特性可能刺激腸胃，建議少量使用並搭配其他食材以降低不適感。  
+
+2. **清除此部位的自然療法**  
+   - 通過飲用蘑菇汁或其他相關混合液來促進粘液排出，恢復通道暢通。  
+
+---
+
+### 健康建議  
+1. 將蘑菇融入日常飲食中，如沙拉、湯或榨汁。  
+2. 適量攝取，避免過量使用其辛辣成分對胃腸造成刺激。  
+3. 考慮個人健康狀況，必要時結合其他療法或諮詢專業人員。  
+
+---
+
+### 結論  
+蘑菇不僅是天然的粘液清除劑，還具備多種促進健康的功效。透過適當的攝取方式，可以有效改善此部位問題並提升整體健康水平。建議將蘑菇作為日常飲食的一部分，以享受其多重益處。
 </details>
 
 <details>
-<summary>1286. Is Diabetes Completely Genetic? – Dr.Berg On Type 1 And Type 2 Diabetes</summary><br>
+<summary>1286. [2018-01-16] Is Diabetes Completely Genetic? – Dr.Berg On Type 1 And Type 2 Diabetes</summary><br>
 
 <a href="https://www.youtube.com/watch?v=TBdLVWBHgNg" target="_blank">
     <img src="https://img.youtube.com/vi/TBdLVWBHgNg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題
+- 糖尿病的遺傳性及其影響。
+- 低carb飲食在糖尿病管理中的作用。
+- 新書發布及相关信息。
+
+#### 主要觀念
+1. **糖尿病的分類**：
+   - **第1型糖尿病**：胰島素依賴型，因胰島β細胞功能受損導致胰島素分泌不足。
+   - **第2型糖尿病**：非胰島素依賴型，characterized by insulin resistance（胰島素抵抗）。
+
+2. ** сахарозависимість та метаболічний синдром**：
+   - 遺傳因素在某些族群中導致對糖分的敏感性增強。
+   - 糖尿病與高血壓、低好膽固醇、高血糖及腹部肥胖有關，這些問題均由胰島素過多引起。
+
+#### 問題原因
+- **第1型糖尿病**：
+  - 胰島素分泌不足，需外源性補充。
+  - 病人未正確控制飲食，導致胰島素用量過高。
+
+- **第2型糖尿病**：
+  - 胰島素抵抗，細胞對胰島素的反應降低。
+  - 遺傳因素使某些族群易於發展為糖代謝異常。
+
+#### 解決方法
+1. **飲食調整**：
+   - 建議實施低碳水化合物飲食。
+   - 減少白糖及精緻碳水化合物攝取，以改善血糖控制及相關代謝指標。
+
+2. **藥物治療**：
+   - 第1型糖尿病患者需注射胰島素。
+   - 第2型糖尿病患者可能需要口服降糖藥或胰島素增敏劑。
+
+#### 健康建議
+- 定期監測血糖水平。
+- 保持健康體重，進行規律運動。
+- 選擇高纖維、低GI（升糖指數）的食物以穩定血糖。
+- 適當管理壓力，避免過度飲酒及吸煙。
+
+#### 結論
+- 遗傳因素在糖尿病發病中起重要作用，但通過飲食和生活方式的調整可以有效控制病情。
+- 低碳水化合物飲食對於改善血糖、血壓及脂質異常具有顯著效果。
+- 新書《New Body Type Guide》提供詳細的身體類型分析及健康管理建議，值得參考。
+
+#### 额外信息
+- **新書介紹**：
+  - 名稱：*A New Body Type Guide*
+  - 特點：156張圖片，378頁，附有專業 glossary。
+  - 內容包括：Quito-minute fasting, 身體類型詳細分析，壓力管理章節， comprehensive FAQ。
+
+- **資源链接**：
+  - 在影片描述中提供相關鏈接，供觀眾進一步了解低碳水化合物飲食及新書內容。
 </details>
 
 <details>
-<summary>1285. Low Blood Sugar, Intermittent Fasting & Your Liver – Dr. Berg</summary><br>
+<summary>1285. [2018-01-16] Low Blood Sugar, Intermittent Fasting & Your Liver – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=91d7RAFI-2w" target="_blank">
     <img src="https://img.youtube.com/vi/91d7RAFI-2w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 低血糖反應在間歇性禁食中的影響  
+- 腎臟功能與低血糖之間的關聯  
 
+---
+
+### 主要觀念  
+1. **低血糖的兩大主要影響因素**：
+   - 諾基亞功能失常（ adrenal issues）
+   - 肝臟儲糖能力下降
+2. **血糖來源**：  
+   - 血糖主要來源為食物，而在禁食期間，肝臟中的糖原（glycogen）是維持血糖水平的主要來源。
+3. **IGF-1的作用**：  
+   - 胰島素類似生長因子（IGF-1）是一種在禁食狀態下幫助釋放能量的激素，與胰島素功能相反。  
+
+---
+
+### 問題原因  
+1. **腎臟問題**：
+   - 腎臟損傷或脂肪肝導致糖原儲存能力下降，影響血糖穩定。
+2. **IGF-1失常**：  
+   - IGF-1功能受阻會導致禁食期間血糖水平過低，引發低血糖症狀。  
+3. **不良生活方式**：
+   - 高糖飲食、缺乏運動和睡眠不足等因素會影響激素平衡，加重低血糖問題。
+
+---
+
+### 解決方法  
+1. **改善腎臟功能**：  
+   - 通過健康飲食（如增加奇異果、攝取膽鹼）和短期禁食來恢復肝臟儲糖能力。  
+2. **提升IGF-1水平**：
+   - 減少胰島素分泌（避免高糖飲食）。  
+   - 增加運動量以促進IGF-1功能。  
+3. **生活方式調整**：  
+   - 確保充足睡眠，保持規律生活。  
+
+---
+
+### 健康建議  
+1. **飲食調整**：
+   - 減少精製糖和高碳水化合物攝取。  
+   - 增加蔬菜攝取量，特別是葉綠色蔬菜，以提供必需營養素並改善肝臟功能。  
+2. **運動**：  
+   - 定期進行中等強度運動，如快走或騎車，促進IGF-1分泌。  
+3. **睡眠管理**：  
+   - 確保每天7-9小時的高品質睡眠，以支持腎臟和激素功能。  
+
+---
+
+### 結論  
+低血糖問題在間歇性禁食中可通過改善腎臟功能、增強IGF-1活性和調整生活方式來有效解決。增加蔬菜攝取量、保持規律運動和充足睡眠是實現血糖穩定和健康生活的關鍵步驟。
 </details>
 
 <details>
-<summary>1284. South Beach Diet Vs Healthy Keto & Intermittent Fasting – Dr. Berg</summary><br>
+<summary>1284. [2018-01-15] South Beach Diet Vs Healthy Keto & Intermittent Fasting – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=7s8RrJCz8sg" target="_blank">
     <img src="https://img.youtube.com/vi/7s8RrJCz8sg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題
+- 比較南派海灘飲食法（South Beach Diet）與健康的酮症饮食及 intermittent fasting 的有效性與健康影響。
+
+#### 主要觀念
+1. 南派海灘飲食法的核心要素：
+   - 允許每天六餐，頻繁進食會刺激胰島素分泌。
+   - ase One_：限制精製碳水化合物、水果和豆類，導致短期體重下降。
+   - 推荐低脂蛋白和不健康脂肪（如氫化大豆油）。
+
+2. 南派海灘飲食法的缺點：
+   - 未強調食物品質（如 органические продукты、草饲肉類）。
+   - 過度頻繁進食及推薦不健康脂肪，導致胰島素水平升高。
+   - 短期有效但缺乏長期可持續性。
+
+3. 健康酮症饮食及 intermittent fasting 的優勢：
+   - 降低碳水化合物攝取，增加健康脂肪攝入，提高飽足感。
+   - 减少進食次數，改善胰島素抵抗，促進長久的體脂消耗。
+
+#### 問題原因
+1. 南派海灘飲食法：
+   - 高頻率進食引致持續胰島素 spikes，阻礙脂肪燃燒。
+   - 食物選擇未注重品質，可能攝入轉化脂肪和 GMO 產品。
+   - 短期的體重下降無法維持，導致棄置飲食計劃。
+
+2. 一般低脂高碳水飲食：
+   - 依賴糖分供能，造成血糖波動及unger。
+   - 長期食用易導致胰島素抵抗和肥胖。
+
+#### 解決方法
+1. 健康酮症饮食：
+   - 減少精製碳水化合物攝取，增加健康脂肪（如aturated fats）。
+   - 維持穩定的血糖水平，降低胰島素抗性。
+
+2. Intermittent fasting：
+   - 减少進食次數，延長禁食時間，促使身體利用自身脂肪儲備供能。
+   - 提高代謝率，增強脂肪燃燒效果。
+
+#### 健康建議
+1. 飲食結構調整：
+   - 以健康脂肪為主要能量來源，攝取足夠的蔬菜、優質蛋白和微量營養素。
+   - 避免精製糖、轉化脂肪及加工食品。
+
+2. 養成良好的進食習慣：
+   - 適當控制餐次，避免過度頻繁進食。
+   - 維持 intermittent fasting，如 16:8 模式（16 小時禁食 + 8 小時進食期）。
+
+3. 長期可持續性：
+   - 選擇能融入日常生活的飲食方式，避免短期效應。
+   - 確保食物來源健康，優先選擇 органические、非 GMO 產品。
+
+#### 結論
+- 南派海灘飲食法雖能在短期內帶來體重下降，但其高胰島素刺激和低可持續性使其並不適合長期使用。
+- 健康酮症饮食與 intermittent fasting 提供了一種更為健康的長期解決方案，能有效降低胰島素水平，改善血糖穩定，並提供足夠的飽足感以維持飲食計劃。
+
+---
+
+### 參考文獻
+此分析基於影片之內容，未引用外部學術研究。
 </details>
 
 <details>
@@ -492,40 +1006,45 @@
         alt="[Youtube]" width="200">
 </a>
 
-### Key Points from the Article
+### 核心主題：高血糖對神經系統的影響及管理策略
 
-#### Core Theme:
-The impact of high blood sugar on nerve function, leading to various complications.
+---
 
-#### Main Concepts:
-- **Types of Nerves Affected**:
-  - **Motor Nerves**: These nerves control muscle movement. Damage can result in weakness, muscle atrophy, or paralysis.
-  - **Sensory Nerves**: These nerves are responsible for sensation. Damage may cause numbness, burning sensations, pins and needles, or leg pain, particularly at night due to peripheral nerve involvement.
-  - **Autonomic Nerves**: These nerves regulate functions of glands and organs. Damage can lead to conditions such as impotence, urinary retention, or drooping eyelids (due to muscle weakness around the eyes).
+#### 小芻：
 
-- **Mechanism of Damage**:
-  - High blood sugar leads to damage of blood vessels supplying nerves.
-  - This results in decreased oxygen supply to nerves and destruction of nerve tissue or its myelin sheath.
+1. **核心主題**：
+   - 探讨高血糖對神經系統的多方面影響，包括_motor nerve_, _sensory nerve_, 和_autonomic nerve_ 的損害。
 
-#### Causes of Nerve Damage:
-- Chronic high blood sugar levels contribute to oxidative stress and advanced glycation end products, which impair nerve function.
-- Depletion of B vitamins (B12, B1, B6, B5) exacerbates神经损伤.
+2. **主要觀念**：
+   - 高血糖會導致神經系統受損，尤其是外周神經。
+   - 糖尿病神經病变可分為感覺神經、運動神經和自主神經三類。
+   - 高血糖會破壞供應神經的血管，並削弱神經本身的結構（如髓鞘）。
 
-#### Solutions and Health Recommendations:
-1. **Dietary Interventions**:
-   - Adopt a ketogenic diet to stabilize blood sugar levels.
-   - Practice intermittent fasting to improve insulin sensitivity.
+3. **問題原因**：
+   - 長期高血糖水平直接損害神經組織。
+   - 糖尿病導致血流障礙，影響神經功能。
+   - B族維生素 deficiencies 加重神經損害。
 
-2. **Vitamin Supplementation**:
-   - Ensure adequate intake of B vitamins, as they are crucial for nerve function and myelin maintenance.
-   - Consider nutritional yeast or other dietary sources rich in B vitamins.
+4. **解決方法**：
+   - 通過飲食調整（如酮egenic diet）來控制血糖。
+   - 偵戒短時間禁食以穩定血糖水平。
+   - 使用B族維生素來補充因高血糖而耗竭的營養素。
+   - 改善血液循環，保護神經結構。
 
-3. **Lifestyle Modifications**:
-   - Monitor and manage blood sugar levels through regular medical check-ups.
-   - Incorporate stress reduction techniques to mitigate oxidative stress.
+5. **健康建議**：
+   - 采用酮egenic diet 和短期禁食來控制血糖。
+   - 確保攝取足夠的B族維生素，可通过食物或補充劑（如營養酵母）來實現。
+   - 定期檢查神經功能，早期發現並治療糖尿病神經病变。
 
-#### Conclusion:
-High blood sugar can lead to significant nerve damage, affecting motor, sensory, and autonomic functions. Addressing this condition requires a combination of dietary changes, vitamin supplementation, and lifestyle modifications. Early intervention is crucial to prevent further complications and improve quality of life.
+6. **結論**：
+   - 高血糖對神經系統的危害多樣且嚴重，需采取綜合措施進行管理和預防。
+   - 通過飲食調整和營養補充，可以有效控制病情並改善神經功能。
+
+---
+
+### 中文摘要：
+
+本文探討了高血糖對神經系統的多方面影響，特別是_motor nerve_, _sensory nerve_, 和_autonomic nerve_ 的損害。高血糖會導致神經組織受損，尤其是外周神經，表現為感覺減退、運動障礙和自主神經功能失常。此外，高血糖還會破壞供應神經的血管，進一步削弱神經的功能。針對這些問題，本文提出了控制血糖的飲食策略（如酮egenic diet 和短期禁食）以及通過B族維生素補充來保護神經結構。結論指出，綜合管理血糖和營養補充是預防和改善糖尿病神經病变的重要手段。
 </details>
 
 <details>
