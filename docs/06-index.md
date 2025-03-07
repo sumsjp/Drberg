@@ -120,113 +120,576 @@
 </details>
 
 <details>
-<summary>689. How to Get Rid of Mucus? – Sinus Remedies by Dr. Berg</summary><br>
+<summary>689. [2017-02-20] How to Get Rid of Mucus? – Sinus Remedies by Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KrJk0i6AYS8" target="_blank">
     <img src="https://img.youtube.com/vi/KrJk0i6AYS8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Introduction  
+This article discusses strategies to address sinus mucus accumulation, focusing on the role of vitamin A, bile absorption, and enzymatic treatments. It provides insights into identifying allergies, dietary considerations, and potential solutions for chronic sinus issues.
 
+---
+
+### Core Themes  
+1. **Sinus Mucous Membrane Function**  
+   - The sinuses are lined with a mucous membrane that produces mucus to trap irritants and allergens.  
+   - Chronic stuffiness may indicate underlying allergies or environmental factors.  
+
+2. **Vitamin A's Role in Mucosal Health**  
+   - Vitamin A, particularly retinol, supports goblet cell function responsible for mucus production.  
+   - Deficiency symptoms include night blindness and skin issues.  
+
+3. **Dietary Sources of Vitamin A**  
+   - Animal products like cod liver oil, butter, and grass-fed dairy are rich in active vitamin A.  
+   - Vegetarians may struggle with low retinol absorption.  
+
+4. **Bile's Impact on Vitamin A Absorption**  
+   - Proper bile function is essential for absorbing fat-soluble vitamins like vitamin A.  
+   - Gallbladder issues can impair absorption, necessitating bile salts as an alternative.  
+
+5. **Microbial Biofilms in Sinuses**  
+   - Biofilms are communities of microbes that produce excess mucus and crusty deposits.  
+   - Enzymatic treatments like serapeptase can break down biofilms and reduce sinus congestion.  
+
+---
+
+### Key Issues Identified  
+1. **Allergic and Environmental Triggers**  
+   - Food allergies (e.g., milk, grains, sugar) or environmental factors can cause persistent sinus issues.  
+
+2. **Vitamin A Deficiency**  
+   - Inadequate intake or absorption of vitamin A can lead to mucus overproduction and other health issues.  
+
+3. **Bile Insufficiency**  
+   - Poor bile production or gallbladder dysfunction hinders the absorption of vitamin A, complicating treatment.  
+
+4. **Biofilm-Related Sinusitis**  
+   - Chronic sinus infections may be linked to microbial biofilms that resist conventional treatments.  
+
+---
+
+### Solutions and Health Recommendations  
+1. **Dietary Interventions**  
+   - Increase intake of vitamin A-rich foods: cod liver oil, grass-fed butter, and dairy products.  
+   - For vegetarians, focus on sources like carrots, sweet potatoes, and spinach (though these provide precursor forms).  
+
+2. **Supplemental Treatments**  
+   - Use high-quality cod liver oil or bile salts to support vitamin A absorption.  
+   - Consider serapeptase supplements (200,000 IU) to break down biofilms and reduce mucus buildup.  
+
+3. **Evaluate Bile Function**  
+   - Consult healthcare providers if gallbladder issues or symptoms like bloating and constipation persist.  
+
+4. **Environmental and Allergy Management**  
+   - Identify and avoid food allergens; use air purifiers for environmental irritants.  
+
+5. **Lifestyle Modifications**  
+   - Stay hydrated to thin mucus.  
+   - Consider nasal irrigation techniques (e.g., neti pot) to clear sinuses.  
+
+---
+
+### Conclusion  
+Addressing sinus mucus accumulation requires a multifaceted approach, including dietary adjustments, vitamin supplementation, and enzymatic treatments. Identifying underlying causes such as allergies, vitamin deficiencies, and microbial biofilms is crucial for effective management. By integrating these strategies, individuals can reduce sinus congestion and improve overall respiratory health.
 </details>
 
 <details>
-<summary>688. Hidden Toxins (DDT) in Food Chain & Where They Come From? – Dr.Berg</summary><br>
+<summary>688. [2017-02-19] Hidden Toxins (DDT) in Food Chain & Where They Come From? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=6LK2vbthHpM" target="_blank">
     <img src="https://img.youtube.com/vi/6LK2vbthHpM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：美國出口禁用农药对全球及自身健康的影响
 
+### 主要觀念：
+1. **美國作為全球最大禁用農藥出口國**：美國公司大量出口在國內被禁止或嚴格限制使用的農藥，如DDT和DPC（DBCP）。
+2. **禁用農藥的危害**：
+   - DDT自1972年起在美国被禁止使用，因其對環境和健康的持久影響。
+   - DBCP于1977年被禁止，主要原因是其導致不孕和癌症的風險。
+3. **全球貿易鏈中的循環**：美國出口的這些農藥被用於第三世界國家的農田，最終通過食品供應鏈重新進入美國市場。
+
+### 問題原因：
+1. **监管漏洞**：美国国内禁止使用某些农药，但允许将其出口到其他国家，缺乏全球性协调和限制。
+2. **信息不透明**：第三世界國家可能不了解這些农药已被禁用，導致其農產品中殘留有害物質。
+3. **食品供應鏈的全球化**：來自第三世界國家的農產品（如水果和蔬菜）重新進入美國市場，使得消費者暴露於禁用 pesticide。
+
+### 解決方法：
+1. **增強國際合作**：推動全球性協議，限制或禁止高風險农药的出口和使用。
+2. **提高消費者意識**：教育消費者了解農藥殘留的潛在風險，以及如何選擇安全的食品。
+3. **建立更嚴格的食品安全標準**：確保進口農產品符合美國國內的安全標準，並通過檢測防止有害物質進入市場。
+
+### 健康建議：
+1. **優先選擇本地生產的食品**：購買和消費在美国國內種植和生產的食品，降低暴露於禁用农药的风险。
+2. **支持有機 agriculture**：選擇有機農產品，這些產品通常不使用 synthetic pesticide。
+3. **注意食品標籤**：查看食品來源，避免購買來自可能使用禁用农药國家的產品。
+
+### 結論：
+美國出口禁用农药的做法對全球和自身的公共健康構成serious threat。消費者需提高警惕，采取主動措施，如選擇本地食品和有機產品，以降低暴露風險。國際社會也需共同努力，通過政策和 regulation 來解決此問題。
 </details>
 
 <details>
-<summary>687. 10 Common Causes of Inflammation in the Body – Dr. Berg</summary><br>
+<summary>687. [2017-02-19] 10 Common Causes of Inflammation in the Body – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=QO91P9kYt8E" target="_blank">
     <img src="https://img.youtube.com/vi/QO91P9kYt8E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小結： inflammation 的 10 常見原因與健康建議
 
+---
+
+#### 核心主題  
+本文探討了導致炎症的 10 種常見原因，並提供了相應的健康建議和解決方案。
+
+---
+
+#### 主要觀念  
+炎症是身體對多種因素的反應，這些因素包括激素失衡、舊傷、飲食問題等。本文強調通過調整生活方式和飲食來降低炎症水平。
+
+---
+
+#### 問題原因  
+以下是導致炎症的主要原因：  
+
+1. **低皮質醇（阿德森 fatigue）**：慢性壓力導致 adrenal burnout，皮質醇不足會引發全身性炎症、風濕病等症狀。  
+2. **舊傷**： scar tissue 的形成限制了血液供應，導致僵硬和神經壓迫，加速關節退化。  
+3. **高糖飲食**：糖分攝入過多導致胰島素抵抗，進一步引發炎症。  
+4. **穎粒（ Gluten）**：麸質敏感性腸病（如乳糖不耐受）會引起腸道炎症，並可能蔓延至全身。  
+5. ** vegetable oils**：高 Omega-6 食用油（如玉米油、大豆油）失衡，增加炎性反應。  
+6. **酒精與 Dairy**：過量攝入酒精損害肝臟，而 grain-fed Dairy 中的高 Omega-6 濃度也加重炎症。  
+7. **MSG（味精）**：作為神經毒素，MSG 會導致水腫和炎症。  
+8. **過量蛋白質**：未被充分消化的大宗蛋白質會增加尿酸水平，引發痛風和關節炎。  
+9. **cooked foods**：長期食用煮熟或加工食品破壞酶活性，加重肝臟和胰腺負擔，導致僵硬和關節問題。  
+
+---
+
+#### 解決方法與健康建議  
+
+1. **激素平衡**：  
+   - 管理壓力以維持正常的皮質醇水平。  
+   - 必要時使用類固醇如 prednisone 或 cortisone cream 來補充。  
+
+2. **舊傷管理**：  
+   - 定期進行物理治療，促進關節靈活性和血液循環。  
+   - 避免重複受傷，保護受損部位。  
+
+3. **飲食調整**：  
+   - 減少糖分攝入，改善胰島素抵抗。  
+   - 選擇 Ancient Grains（如 kamut）而非現代小麥，降低麸質引起的炎症反應。  
+   - 增加 Omega-3 取，平衡 Omega-6，例如通過食用魚油或亞麻籽。  
+
+4. **避免有害物質**：  
+   - 減少外出就餐，限制(MSG)的攝入。  
+   - 避免過量蛋白質攝取，特別是來源不明的大宗蛋白質。  
+
+5. **飲食結構优化**：  
+   - 增加生食（如新鮮蔬菜）的比例，保持酶的活性。  
+   - 選擇未加工食品，避免長時間烹煮破壞營養成分。  
+
+---
+
+#### 結論  
+炎症是多種因素共同作用的結果，包括激素失衡、飲食問題和生活方式等。本文提供了具體的健康建議，如平衡飲食、合理運動和管理壓力，以幫助降低炎症水平，改善整體健康狀況。
 </details>
 
 <details>
-<summary>686. Can ketosis worsen adrenal glands? – Dr. Berg on Adrenal Fatigue</summary><br>
+<summary>686. [2017-02-19] Can ketosis worsen adrenal glands? – Dr. Berg on Adrenal Fatigue</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8gDND1jge6w" target="_blank">
     <img src="https://img.youtube.com/vi/8gDND1jge6w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：酮症是否會影響腎上腺 glands？
 
+### 主要觀念：
+1. **腎上腺素與激素**：腎上腺 glands 製造皮質醇（Cortisol），這是一種由壓力觸發的激素。
+2. **皮質醇的作用**：皮質醇會增加胰島素水平，進而影響酮症狀態。
+
+### 問題原因：
+1. **壓力與酮症**：壓力會增加皮質醇分泌，導致胰島素上升，從而擾亂酮症（酮症的目標是降低胰島素水平）。
+2. **皮質醇對身體的影響**：高皮質醇水平可能不利於健康，包括免疫功能下降和血糖紊亂。
+
+### 解決方法：
+1. **降低壓力**：有效的壓力管理策略可以幫助維持酮症狀態。
+2. **低糖飲食**：選擇低碳水化合物、高脂肪的飲食結構，有助於保持穩定的胰島素水平。
+
+### 健康建議：
+1. **壓力管理的重要性**：在進行酮症ダイエット時，應注意壓力管理以避免皮質醇過度分泌。
+2. **健康的生活方式**：結合均衡飲食和適當運動，來促進整體健康。
+
+### 結論：
+1. **酮症對腎上腺 glands 的影響**：酮症本身不會惡化腎上腺 glands 的功能，反而是壓力和皮質醇的升高才是真正需要關注的問題。
+2. **健康飲食的重要性**：通過降低胰島素水平來促進健康的酮症狀態，這對整體健康有益。
 </details>
 
 <details>
-<summary>685. Why Does Insulin Resistance Cause Weight Gain? – Dr. Berg</summary><br>
+<summary>685. [2017-02-18] Why Does Insulin Resistance Cause Weight Gain? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=wducoxnU5YE" target="_blank">
     <img src="https://img.youtube.com/vi/wducoxnU5YE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **胰島素抗性**：探討胰島素抗性如何導致體重增加及其相關機制。
 
+### 主要觀念
+1. 胰臟的作用：
+   - 制造胰島素，一種促進脂肪儲存的激素。
+   
+2. 高血糖指刺激胰島β細胞分泌胰島素。
+3. 許多現代飲食（高糖、精制碳水化合物）會導致血 sugar水平上升，進而刺激胰島素分泌。
+
+### 問題原因
+1. 胰島素抗性的形成：
+   - 經常攝取高糖和精制碳水化合物，導致身體對胰島素的敏感性降低。
+   
+2. 胰岛素抵抗的結果：
+   - 約60-70%的胰岛素無法進入細胞，血液中胰岛素水平升高。
+
+3. 高胰岛素血症的影響：
+   - 增加脂肪儲存，導致體重增加。
+   - 促發炎反應，可能引發更多代謝紊亂。
+
+### 解決方法
+1. 藥物治療：
+   - 使用如二甲雙胍（Metformin）等藥物來提高細胞對胰島素的敏感性。
+
+2. 生活方式干預：
+   - **飲食調整**：避免高糖和精制碳水化合物，選擇低GI食物。
+   - **運動**：有氧運動和力量訓練可提高 insulin 敏感性。
+   - **減壓**：壓力管理可以降低胰島素抵抗。
+
+### 健康建議
+1. 避免攝入高糖、精制碳水化合物等食物，以減少血糖波動和胰岛素分泌。
+2. 增加膳食纖維攝取，幫助控制血糖水平。
+3. 維持規律的運動習慣，特別是有氧運動和力量訓練。
+4. 管理壓力，避免長期處於高壓力狀態。
+
+### 結論
+- 胰岛素抗性是導致體重增加的重要因素。
+- 通過飲食調整、運動和藥物治療可以有效管理胰島素抗性。
+- 長期來看，改善生活方式是解決胰島素抗性和肥胖的最佳途徑。
+
+---
+
+### English Summary
+**Summary of the Article:**
+The article discusses how insulin resistance leads to weight gain. Insulin, produced by the pancreas, promotes fat storage in the presence of certain foods like sugars and refined carbohydrates. Over time, the body develops insulin resistance, leading to higher levels of insulin in the blood. This excess insulin drives weight gain by increasing fat storage. The article suggests using medications like Metformin to improve insulin sensitivity but emphasizes the need for dietary changes and lifestyle interventions to address the root cause of insulin spikes.
+
+**Chinese Translation:**
+本文探討了胰島素抗性導致體重增加的原因。胰腺分泌的胰岛素促進脂肪儲存，尤其在攝取糖分和精制碳水化合物後。長期下來，身體對胰岛素的敏感性降低，導致血液中胰岛素水平升高，從而促使脂肪儲存，造成體重增加。文章建議使用二甲雙胍等藥物來提高胰島素敏感性，但強調需要通過飲食調整和生活方式干預來解決胰岛素水平升高的根源問題。
 </details>
 
 <details>
-<summary>684. 10 Reasons Why You Are Not Losing Weight by Dr. Berg</summary><br>
+<summary>684. [2017-02-18] 10 Reasons Why You Are Not Losing Weight by Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KduElMXY2Fw" target="_blank">
     <img src="https://img.youtube.com/vi/KduElMXY2Fw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 正式學術用語整理與归纳
 
+#### 核心主題
+- **次級問題**：體重問題是由其他潛在健康問題引發的次級症狀。
+- **胰島素作用**：降低胰島素水平是促進減重的关键因素。
+
+#### 主要觀念
+1. **隱性碳水化合物**：
+   - 隱性碳水化合物（如MSG、糖分）藏於加工食品、餐廳食物及果汁中，增加血糖負擔。
+2. **餐間零食**：
+   - 經常進食會干擾血糖穩定，導致胰島素上升。
+3. **能量水平**：
+   - 高能量狀態是減重的必要條件，疲勞會影響代謝功能。
+4. **酮egenic diet（生酮飲食）**：
+   - 生酮飲食需注意脂肪攝取量，過量可能抑制減重效果。
+
+#### 問題原因
+- **潛在健康問題**：如月经不調、炎症、壓力、消化不良等皆可影響體重。
+- **生活方式因素**：睡眠不足、飲食結構失衡、缺乏運動等。
+
+#### 解決方法
+1. **隱性碳水化合物控制**：
+   - 避免加工食品及餐廳食物，特別是含MSG和糖分的食物。
+2. **間歇性斷食法**：
+   - 通過增加進食間隔時間（如每日兩餐）來降低胰島素水平。
+3. **能量管理**：
+   - 確保充足睡眠，改善壓力管理，提昇整體能量水平。
+4. **調整生酮飲食**：
+   - 適當控制脂肪攝取量，避免過量影響減重效果。
+
+#### 健康建議
+1. **生活習慣改進**：
+   - 修正睡眠模式，確保每日7-9小時的高品質睡眠。
+2. **壓力管理**：
+   - 啓用冥想、運動等方法來降低壓力水平。
+3. **消化健康**：
+   - 改善腸胃功能，治療便秘、心burn等問題。
+
+#### 結論
+- **綜合調整**：減重需從改善整體健康開始，而非單純依賴 calorie 控制。
+- **持久效果**：通過降低胰島素水平、改進能量管理及解決潛在健康問題，可達成持久的減重效果。
 </details>
 
 <details>
-<summary>683. Acidosis – Causes, Symptoms & Its Remedies by Dr.Berg</summary><br>
+<summary>683. [2017-02-17] Acidosis – Causes, Symptoms & Its Remedies by Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kBIxzPFLAT0" target="_blank">
     <img src="https://img.youtube.com/vi/kBIxzPFLAT0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **酸osis（酸性中毒）**：身體某部位pH值失衡導致酸性過高的情況。
+- **酮症ダイエットとの関連性**：ケتوزダイエットが引き起こす酸osisのリスク。
 
+### 主要觀念
+1. **体液中pHの重要性**：
+   - 身体各部位ごとに異なるpH値を維持する必要がある。
+   - 理想的にアルカリ性であるべきだとされているが、必ずしもそうではない。
+
+2. **酸osisの症状**：
+   - 神経系の過敏症：イライラ、ストレスに対する低忍容度。
+   - 脱水症状：口渇、呼吸困難（息切れ）、 sighing frequently（深呼吸）。
+   - 光線や音に対する過敏症：特に夜間の運転時や明かりの多い環境での不快感。
+   - 喉の違和感や詰まった感じ、狭い部屋での不快感。
+
+3. **病因**：
+   - 過剰な carbohydrate（炭水化物）or sugar（糖質）摂取：乳酸過多症。
+   - 過剰な protein（タンパク質）摂取：尿酸の増加。
+   - ケتوزダイエット：ケト体が酸性を高める。
+
+### 問題原因
+- **栄養不均衡**：
+  - 高炭水化物・糖質摂取による乳酸過多症。
+  - 高タンパク質摂取による尿酸の増加。
+  - ケتوزダイエット時、野菜不足が招く酸osis。
+
+### 解決方法
+1. **栄養調整**：
+   - 足りない場合は、calcium（カルシウム）、magnesium（マグネシウム）、 potassium citrate（キンAsyncResult
+- **サプリメント補給**：
+  - 睡前にカルシウムとマグネシウムを摂取。
+  - カンゾウ石けん酸カリウム除去。
+
+### 健康建議
+1. **栄養バランスの重要性**：
+   - ケتوزダイエット中でも野菜を十分に摂る必要がある。
+   - 食事療法の際には、栄養素の均衡を保つことが不可欠。
+
+2. **定期的な健康チェック**：
+   - 身体的症状が現れた場合、専門医に相談するべきである。
+   - pH値の測定や血液検査を通じて状態を把握する。
+
+### 結論
+- 酸osisは栄養不均衡や特定のダイエット法によって引き起こされる可能性がある。
+- 必要な栄養素の摂取とサプリメントの使用が、症状軽減に役立つ。
+- 健康状態を維持するためには、バランスの良い食事と定期的な健康チェックが重要である。
+
+---
+
+### 全文要約
+1. **核心主題**：
+   - 酸osis（酸性中毒）とケتوزダイエットに関連する問題。
+
+2. **主要觀念**：
+   - 酸osisの症状包括神経過敏、脱水、光音過敏、喉の違和感。
+   - 病因は高炭水化物・糖質摂取、高タンパク質摂取、ケتوزダイエット。
+
+3. **病因**：
+   - 栄養不均衡が主因。
+
+4. **解決方法**：
+   - 栄養調整とサプリメント補給（カルシウム、マグネシウム、カンゾウ石けん酸カリウム）。
+
+5. **健康建議**：
+   - 均衡の取れた食事を心掛け、定期的な健康チェックを行うこと。
+
+6. **結論**：
+   - 栄養管理とサプリメントが重要で、健康状態を維持するためにはバランスの良い生活習慣が必要。
 </details>
 
 <details>
-<summary>682. Does Ketosis Cause Hypothyroidism? – Dr.Berg</summary><br>
+<summary>682. [2017-02-16] Does Ketosis Cause Hypothyroidism? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=wzrwOlna-T0" target="_blank">
     <img src="https://img.youtube.com/vi/wzrwOlna-T0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 探讨酮症（ketosis）是否会导致甲状腺功能减退（hypothyroidism）。  
 
+---
+
+### 主要觀念  
+1. **酮症与甲状腺功能的关系**：  
+   - 酮症本身不会直接导致甲状腺功能减退。  
+   - 低热量饮食而非低碳水化合物饮食是引发甲状腺问题的主要原因。  
+
+2. **低热量饮食的影响**：  
+   - 通过减少卡路里摄入，对内分泌系统造成压力。  
+   - 营养素摄入不足，尤其是矿物质（如碘、硒等），会影响甲状腺功能。  
+
+3. **甲状腺敏感性**：  
+   - 甲状腺是对营养缺乏非常敏感的内分泌腺。  
+   - 慢性营养不良会导致甲状腺激素合成受阻，进而引发代谢率下降。  
+
+---
+
+### 問題原因  
+1. **营养素缺乏**：  
+   - 长期低热量饮食导致维生素和矿物质摄入不足，尤其是碘、硒等对甲状腺功能至关重要的元素。  
+
+2. **代谢率降低**：  
+   - 甲状腺功能减退会导致细胞代谢率下降，进一步影响营养素的吸收和利用。  
+
+3. **酮症饮食的潜在风险**：  
+   - 酮症饮食可能导致食欲减低，进而摄入不足，加剧营养不良。  
+
+---
+
+### 解決方法  
+1. **补充关键矿物质**：  
+   - 增加碘（如海藻、海鲜）和硒（如巴西坚果、全谷物）的摄入。  
+
+2. **确保充足营养素供给**：  
+   - 在进行低热量或酮症饮食时，保证维生素和矿物质的充分摄取。  
+
+3. **合理控制热量**：  
+   - 避免过度节食导致的营养不良，建议在专业指导下制定饮食计划。  
+
+4. **监测甲状腺功能**：  
+   - 定期检查甲状腺激素水平，及时发现并纠正潜在问题。  
+
+---
+
+### 健康建議  
+1. **均衡饮食**：  
+   - 在进行任何特殊饮食（如酮症饮食）前，确保摄入全面的营养素。  
+
+2. **补充剂的使用**：  
+   - 对于存在甲状腺功能减退风险的人群，可考虑适当补充碘和硒等矿物质。  
+
+3. **专业指导**：  
+   - 在进行低热量或低碳饮食时，建议咨询医生或营养师，确保饮食计划的安全性和科学性。  
+
+4. **关注代谢健康**：  
+   - 注意身体对饮食调整的反应，及时调整以维持内分泌系统的平衡。  
+
+---
+
+### 結論  
+- 酮症本身并不会直接导致甲状腺功能减退，但低热量饮食可能导致营养不良，从而间接影响甲状腺功能。  
+- 通过合理规划饮食、补充必要的营养素以及定期监测健康状况，可以有效预防酮症饮食引发的甲状腺问题。
 </details>
 
 <details>
-<summary>681. Respiratory Alkalosis – Causes, Symptoms & It's Remedies by Dr.Berg</summary><br>
+<summary>681. [2017-02-15] Respiratory Alkalosis – Causes, Symptoms & It's Remedies by Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=FjZQLEcxHI0" target="_blank">
     <img src="https://img.youtube.com/vi/FjZQLEcxHI0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：高血碳酸鹼中毒（Alkalosis）
+- 高血碳酸鹼中毒是指機體酸鹼平衡失調，血液過於鹼性。
+- 酸鹼平衡對人體各系統的正常運作至關重要，任何失衡都可能引發健康問題。
 
+### 主要觀念：
+1. **酸鹼平衡的重要性**：
+   - 每一器官和組織都有其特定的pH值範圍。
+   - 過於酸性或過於鹼性均會干擾正常生理功能。
+
+2. **高血碳酸鹼中毒的臨床表現**：
+   - 肌肉僵硬，特別是清晨。
+   - 肌肉痙攣，如「.accelerator foot」現象。
+   - 消化不良、胃灼熱和噁心。
+   - 冷感（手腳冰涼）。
+   - 眼鼻分泌物增多及過度流涎。
+   - 味覺和嗅覺喪失。
+   - 過敏反應增加。
+
+### 問題原因：
+- **電解質失衡**：高血碳酸鹼中毒常與鈣、鎂等礦物質缺乏有關，影響神經肌肉功能。
+- **消化不全**：胃酸不足導致食物未被充分分解，引發胃部不適。
+- **免疫過敏反應**：酸性環境變化可能降低免疫力，增加過敏風險。
+
+### 解決方法：
+1. **飲食調整**：
+   - 增加酸性食物攝取，如新鮮水果（特別是柑橘類）和蔬菜。
+   - 使用/apple cider vinegar/每日，可幫助平衡體內pH值。
+
+2. **補充劑**：
+   - 遊離胺基酸氫氯化物（Betaine Hydrochloride）可用於提升胃酸分泌，改善消化功能。
+
+3. **生活方式 modification**：
+   - 保持適當的運動量以促進血液循环。
+   - 確保充足的水分攝取，有助於維持電解質平衡。
+
+### 健康建議：
+- 定期監測pH值，可使用家用pH試紙進行自我檢測。
+- 遭遇不明原因的肌肉痙攣或胃部不適時，及時就醫檢查。
+- 避免長期攝取過多的鹼性食物或補充劑。
+
+### 結論：
+高血碳酸鹼中毒是一種常被忽略的健康問題，早期識別和適當干預可以有效改善症狀並預防進一步的健康風險。通過調整飲食、使用天然療法以及健康的生活方式，可以幫助恢復理想的酸鹼平衡，提升整體健康狀況。
 </details>
 
 <details>
-<summary>680. What Is An Amino Acid? – Dr.Berg</summary><br>
+<summary>680. [2017-02-14] What Is An Amino Acid? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=cyh6mo2AeaU" target="_blank">
     <img src="https://img.youtube.com/vi/cyh6mo2AeaU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：氨基酸的功能與重要性
 
+#### 核心主題
+- **氨基酸的基本概念**  
+  氨基酸是蛋白質的基本單位，也是構成生命體的主要成分之一。
+
+#### 主要觀念
+1. **氨基酸的來源與功能**  
+   - 氨基酸可通過飲食攝取或由人體自行合成。
+   - 它們參與構建和修復組織（如肌肉、血液、皮膚、骨骼等），並用於合成神經傳導物質、激素、酶、抗生素等。
+
+2. **氨基酸的分類**  
+   - **必需氨基酸（Essential Amino Acids, EAAs）**：人體無法自行合成，必須通過飲食攝取。
+   - **非必需氨基酸（Non-Essential Amino Acids, NEAAs）**：人體可自行合成，來源於其他蛋白質的分解。
+
+3. **蛋類為優質蛋白質來源**  
+   - 蛋含有所有必須胺基酸，且比例極為適合人體吸收，被譽為最完整的蛋白質來源。
+
+#### 問題原因
+- **缺乏足夠的氨基酸攝取**  
+  若飲食中缺乏必需氨基酸，可能影響身體正常功能和修復能力。
+
+#### 解决方法
+- **均衡飲食**  
+  確保每日飲食中含有足夠的必需氨基酸，建議多攝取蛋、瘦肉、魚類等優質蛋白質來源。
+
+#### 健康建議
+1. **適量攝取蛋白質**  
+   - 每餐攝取3至6盎司（約85-170克）的高品質蛋白質即可滿足需求，過多攝取可能增加肝臟負擔。
+
+2. **注意壓力狀態下的飲食調整**  
+   - 在壓力或疾病恢復期，需增加蛋白質攝取以促進組織修復。
+
+#### 結論
+- 氨基酸在人體中具有不可替代的作用，平衡攝取必需和非必需氨基酸對於維持健康至關重要。蛋類因其營養價值被推薦為優質蛋白源，而適當控制蛋白質攝取量則能避免對身體造成負擔。
+
+---
+
+此整理涵蓋了文章的核心內容，結構清晰且使用正式的學術用語，適合用於進一步的研究或教育目的。
 </details>
 
 <details>
