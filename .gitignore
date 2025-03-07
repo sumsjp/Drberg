@@ -5,9 +5,10 @@ __pycache__/
 
 .env
 *.env
-bin/
 .DS_Store
 tmp.txt
+bin/
+log/
 
 # C extensions
 *.so
