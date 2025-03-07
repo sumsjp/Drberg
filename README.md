@@ -1,4 +1,4 @@
-# Drberg (Latest: 2025-03-05)
+# Dr. Eric Berg DC (2025-03-05)
 
 ---
 
