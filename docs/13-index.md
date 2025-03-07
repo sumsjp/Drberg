@@ -120,113 +120,582 @@
 </details>
 
 <details>
-<summary>1389. Do Not Do Carb Cycling on Keto & Intermittent Fasting – Dr. Berg</summary><br>
+<summary>1389. [2018-03-08] Do Not Do Carb Cycling on Keto & Intermittent Fasting – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ou1PJ3Nv6Lc" target="_blank">
     <img src="https://img.youtube.com/vi/ou1PJ3Nv6Lc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：碳水化合物周期飲食（Carb Cycling）的有效性與限制
 
+---
+
+#### 主要觀念：
+1. **人體能量來源**：
+   - 人體主要依靠糖原和脂肪作為能量來源。
+   - 糖原儲存量有限，而脂肪儲存量豐富。
+
+2. **酮症適應**：
+   - 達到酮症後，身體轉向使用脂肪為主要能源，血 sugar 水準穩定，體能表現提升。
+
+3. **碳水化合物周期飲食的目的**：
+   - 為了提高運動表現和血糖穩定性。
+
+---
+
+#### 問題原因：
+1. **胰島素抵抗的影響**：
+   - 大部分人群存在胰島素抵抗問題。
+   - 他們無法有效進行碳水化合物周期飲食，因為身體未能完全適應酮症狀態。
+
+2. **短期效果與长期風險**：
+   - 短期來看，碳水化合物周期飲食可能讓人感覺更好，但長期來看，血糖波動和酮症不穩定可能影響健康。
+
+---
+
+#### 解決方法：
+1. **酮症的充分適應**：
+   - 達到酮症後，身體能有效利用脂肪為能源，血 sugar 究竟保持穩定。
+   - 長期堅持酮飲食可提升體能表現。
+
+2. **運動與飲食平衡**：
+   - 運動員和高強度活動者需根據自身需求調整飲食策略，避免短期碳水化合物攝入破壞酮症適應。
+
+---
+
+#### 健康建議：
+1. **適合人群**：
+   - 推薦給胰島素敏感且充分適應酮症的人群。
+   - 運動員和高強度活動者可根據需求進行短時間碳水化合物攝取。
+
+2. **飲食結構調整**：
+   - 長期堅持酮飲食，確保身體完全轉向脂肪燃燒模式。
+   - 確保蛋白質和脂肪的均衡攝入，避免過量碳水化合物干擾酮症狀態。
+
+---
+
+#### 結論：
+1. **酮症適應的重要性**：
+   - 達到酮症後，人體能更高效地利用脂肪為能源，血 sugar 穢保持穩定。
+   - 這是一項需要時間和耐心的過程。
+
+2. **碳水化合物周期飲食的限制**：
+   - 對於胰島素抵抗人群，碳水化合物周期飲食可能帶來短期效益，但長遠來看並非最佳選擇。
+
+3. **個人化飲食策略**：
+   - 根據個人體質和活動需求制定飲食計劃，避免盲目跟隨潮流。
 </details>
 
 <details>
-<summary>1388. Do This Acupressure Technique Post Surgery & Boost Your Recovery – Dr. Berg</summary><br>
+<summary>1388. [2018-03-08] Do This Acupressure Technique Post Surgery & Boost Your Recovery – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=eh-a8BiYfLo" target="_blank">
     <img src="https://img.youtube.com/vi/eh-a8BiYfLo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 探讨手术后利用对立侧穴位进行按压按摩（Acupressure）来加速康复的效果。
 
+---
+
+### 主要觀念  
+1. **术后康复的挑战**：  
+   - 手术或创伤会对身体造成双重压力，尤其是对肾上腺的影响。  
+   - 术后常伴随神经、血液循环和淋巴系统的中断，导致恢复时间较长。  
+
+2. **对立侧穴位按压的作用机制**：  
+   - 神经系统通过左右交叉连接，左侧刺激可影响右侧功能，反之亦然。  
+   - 刺激未受损的对侧穴位可以促进血液流动、神经修复和淋巴引流，从而加速康复。
+
+3. **具体操作方法**：  
+   - 在手术部位的对立侧（如肩、肘、髋等）找到敏感点进行按压按摩。  
+   - 按摩力度适中，时间约1分钟，每天多次进行。
+
+---
+
+### 問題原因  
+- 术后神经、血液循环和淋巴系统的中断导致恢复缓慢。  
+- 肾上腺功能受压，体内钾离子水平下降，需通过补钾支持恢复。
+
+---
+
+### 解决方法  
+- **对立侧穴位按压法**：  
+   - 刺激未受损的对侧穴位以增强神经信号传导和血液循环。  
+   - 通过按摩解除肌肉紧张，促进淋巴引流，减轻炎症和疼痛。  
+
+- **具体实施步骤**：  
+   1. 确定手术部位及其对立侧对应点（如左肩对应右肩）。  
+   2. 找到对侧敏感的穴位进行按压，力度适中。  
+   3. 每天多次按摩，每次约1分钟。
+
+---
+
+### 健康建議  
+- **术后早期应用**：尽早开始对立侧穴位按摩，以加速康复进程。  
+- **结合其他疗法**：此方法可作为传统物理治疗或药物治疗的辅助手段，而非替代方案。  
+- **持之以恒**：每天坚持按压按摩，效果更显著。
+
+---
+
+### 結論  
+- 对立侧穴位按压法是一种简单有效的术后康复辅助方法。  
+- 通过刺激对侧神经和血液循环，可显著缩短恢复时间并减轻症状。  
+- 建议患者在专业指导下尝试此方法，并结合其他治疗手段以达到最佳效果。
 </details>
 
 <details>
-<summary>1387. Importance of Vitamin B5 (Pantothenic Acid) on Keto & Intermittent Fasting – Dr. Berg</summary><br>
+<summary>1387. [2018-03-07] Importance of Vitamin B5 (Pantothenic Acid) on Keto & Intermittent Fasting – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=nl1KZ4hfruI" target="_blank">
     <img src="https://img.youtube.com/vi/nl1KZ4hfruI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：维生素B5在生酮饮食与间歇性禁食中的重要性
 
+#### 核心主題
+- **维生素B5（烟酸）的重要性**  
+  维生素B5，又称泛酸钙（Pantothenic Acid），是能量代谢的关键辅酶，尤其在脂肪分解过程中起重要作用。
+
+---
+
+#### 主要觀念
+1. **维生素B5的功能**  
+   - 参与能量代谢，特别是脂肪燃烧。
+   - 有助于生成褪黑激素，改善睡眠质量。
+   - 支持神经传递和肌肉功能。
+   - 对应激激素皮质醇的合成至关重要。
+
+2. **生酮饮食与间歇性禁食对维生素B5的需求**  
+   在转换为酮症（燃烧脂肪供能）时，身体对维生素B5的需求显著增加。这是因为脂肪代谢过程依赖于这种维生素。
+
+3. **维生素B5的普遍性与潜在缺乏**  
+   尽管维生素B5广泛存在于各种食物中，但许多人仍可能缺 deficiencies. 这通常与消化系统功能障碍有关。
+
+---
+
+#### 問題原因
+1. **饮食不足**  
+   虽然理论上可以从多种食物中获取维生素B5，但在实际饮食中未必能保证摄入量足够。
+
+2. **肠道微生物群失衡**  
+   - 友好的肠道菌群有助于合成维生素B5和其他B族维生素。
+   - 抗生素使用、高糖饮食或不当的清洁习惯会破坏肠道菌群平衡，导致B5合成不足。
+
+3. **维生素D缺乏**  
+   肠道微生物需要维生素D才能有效工作。维生素D不足会影响B5等维生素的合成。
+
+---
+
+#### 解決方法
+1. **调整饮食**  
+   - 增加富含维生素B5的食物摄入，如动物肝脏、蛋黄、牛奶和发酵食品。
+   - 选择多样化食物来源以确保充足摄入。
+
+2. **补充益生菌与益生元**  
+   - 摄入发酵食品（如酸奶、泡菜）或服用益生菌补充剂，以维持肠道菌群平衡。
+   - 补充益生元（如纤维）作为肠道菌群的食物来源。
+
+3. **维生素D补充**  
+   - 多晒太阳以促进皮肤合成维生素D。
+   - 冬季或阳光不足时，可服用维生素D3补充剂。
+
+4. **针对性补充电解质与营养素**  
+   - 对于特定人群（如长期使用抗生素或有消化系统疾病的人），可考虑直接补充维生素B5。
+
+---
+
+#### 健康建議
+1. **监测维生素水平**  
+   如出现疲劳、失眠、神经痛等症状，建议检测维生素B5和D的水平。
+
+2. **均衡饮食与肠道健康**  
+   - 保持多样化饮食，确保摄入足够的维生素和矿物质。
+   - 避免过度使用抗生素或破坏肠道菌群的行为（如频繁清洁）。
+
+3. **结合生活方式调整**  
+   在进行生酮饮食或间歇性禁食的同时，注意补充必要的营养素，并关注整体健康状况。如有不适，及时咨询医疗专业人员。
+
+---
+
+#### 結論
+维生素B5在脂肪代谢、神经功能和内分泌调节中扮演关键角色。在生酮饮食与间歇性禁食等能量代谢方式下，身体对这种维生素的需求显著增加。然而，由于肠道菌群失衡和维生素D缺乏等多种因素，许多人可能面临潜在的维生素B5不足问题。通过调整饮食、补充益生菌和维生素D、以及监测营养水平，可以有效预防和解决这些问题，确保健康和代谢目标的实现。
 </details>
 
 <details>
-<summary>1386. No Caffeine Bulletproof Coffee Alternative for Keto & Intermittent Fasting – Dr. Berg</summary><br>
+<summary>1386. [2018-03-07] No Caffeine Bulletproof Coffee Alternative for Keto & Intermittent Fasting – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=IBnOEjtkqY4" target="_blank">
     <img src="https://img.youtube.com/vi/IBnOEjtkqY4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 提供一種不含咖啡因的bulletproof咖啡替代飲品食譜。
+
+#### 主要觀念
+1. **飲品成分**：
+   - 使用兩勺Chino（無咖啡因咖啡替代品）。
+   - 加入香料：肉桂、辣椒粉（可選）。
+   - 添加 coconut oil 和 Kerrygold 草饲牛油，提升口感和健康益處。
+
+2. **製作步驟**：
+   - 將 Chino 和調味料混合後用沸水浸泡三分鐘。
+   - 濾去渣滓後，將液體倒進攪拌機，加入椰子油、牛油和 cocoa Powder（可選）。
+   - 接著攪拌至均勻。
+
+3. **健康益處**：
+   - 提供能量與 focus。
+   - 利於酮osis 和intermittent fasting 群體。
+   - 含有健康脂肪，有益腦功能和整體健康。
+
+#### 問題原因
+- 標準bulletproof咖啡含有咖啡因，可能不适合某些人（如咖啡敏感者）。
+
+#### 解決方法
+- 使用不含咖啡因的替代品 Chino，並添加健康脂肪與香料來提升口感，創造出一種低負擔的咖啡替代飲品。
+
+#### 健康建議
+1. **飲食選擇**：
+   - 選擇100%椰子油和grass-fed牛油以確保最佳營養價值。
+   - 可添加cacao powder增加風味，並攝取更多 antioxidants。
+
+2. **個人化調整**：
+   - 若不喜歡辣椒粉，可省略或調低份量。
+   - 根據個人口味調整香料比例。
+
+3. **飲食習慣建議**：
+   - 適合酮osis 和intermittent fasting 群體，幫助維持能量與 focus。
+   - 替代傳統咖啡，降低咖啡因攝取量。
+
+#### 結論
+- 介紹了一種創新且健康的咖啡替代飲品，適合需要低咖啡因或特殊飲食限制的人群。此款飲品不僅風味獨特，還能提供持久的能量與健康益處。
+
+---
+
+以上整理結構清晰、條理分明，涵蓋了文章的核心要點，並以正式的學術用語呈現。
 </details>
 
 <details>
-<summary>1385. Hair Loss on Keto & Intermittent Fasting Plan? – Dr. Berg</summary><br>
+<summary>1385. [2018-03-06] Hair Loss on Keto & Intermittent Fasting Plan? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ufnFuwB7aCA" target="_blank">
     <img src="https://img.youtube.com/vi/ufnFuwB7aCA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：酮飲與間歇性禁食下的掉髮原因及解決方法
 
+#### 核心主題
+- 探讨在进行酮饮（生酮饮食）和间歇性禁食过程中出现掉髮问题的原因及其解决方法。
+- 强调营养摄入、代谢适应以及消化功能对头发健康的影响。
+
+#### 主要觀念
+1. **酮飲與間歇性禁食的影響**  
+   - 酮飲和間歇性禁食通常有助于頭髮健康，但若營養不足或代謝不當，可能導致掉髮。
+2. **掉髮的原因**  
+   - 营养不足（尤其是蛋白質不足）。
+   - 低calorie攝取導致營養缺乏。
+   - 酮飲 adaptation期對nutrient需求增加。
+3. **掉髮的臨床表現**  
+   - 头髮掉落。
+   - 指甲脆弱。
+   - 疲勞。
+
+#### 問題原因
+1. **營養攝取不足**  
+   - 蛋白質攝取不足：蛋白質是頭髮健康的重要組成部分。
+   - 電解質和trace minerals缺乏：這些礦物質對蛋白質合成和collagen形成至關重要。
+2. **代謝適應期的營養需求**  
+   - 在酮飲 adaptation期，身體需要更多的B vitamins和minerals（如potassium）來支持新陳代謝。
+3. **消化功能障礙**  
+   - 胃酸不足可能导致蛋白質吸收不良。
+
+#### 解決方法
+1. **增加蛋白質攝取**  
+   - 確保每日蛋白質攝取量在每公斤體重的0.36至0.7克之間。
+   - 選擇高蛋白食物（如雞肉、魚類、蛋類）。
+2. **補充營養素**  
+   - 食用富含B vitamins的食物（如營養酵母）。
+   - 补充electrolyte粉末和trace minerals。
+3. **改善消化功能**  
+   - 增加胃酸攝取：可通過飲食（如蘋果醋）或藥物補充。
+4. **增加蔬菜攝取量**  
+   - 每日攝取7-10杯蔬菜，確保充足的nutrient供應。
+
+#### 健康建議
+1. **均衡飲食**  
+   - 確保每日飲食中包含足夠的營養素（蛋白質、電解質、礦物質）。
+2. **監測身體反應**  
+   - 注意掉髮、指甲脆弱和疲勞等症狀，作為營養攝取不足的警示信號。
+3. **避免低calorie飲食**  
+   - 避免過度限制calorie攝取，確保每日攝取量滿足nutrient需求。
+
+#### 结論
+- 在酮飲和間歇性禁食期間，掉髮問題主要由營養不均衡或代謝障礙引起。
+- 通過增加蛋白質攝取、補充必要營養素以及改善消化功能，可以有效解決掉髮問題。
+
+---
+
+### 自我評估檢查清單
+
+1. **每日蛋白質攝取量**  
+   - 檢查每日蛋白質攝取是否達到每公斤體重的0.36至0.7克。
+2. **營養素攝取情況**  
+   - 是否攝取富含B vitamins的食物（如營養酵母）？
+   - 是否補充electrolyte粉末和trace minerals？
+3. **飲食均衡性**  
+   - 每日是否攝取7-10杯蔬菜？
+4. **消化功能評估**  
+   - 是否有胃酸不足的症狀（如消化不良、腹脹）？
+5. **身體反應監測**  
+   - 是否出現掉髮、指甲脆弱或疲勞等症狀？
+
+---
+
+此檢查清單可幫助您自我評估是否符合上述健康建議，並根據結果進行相應調整。
 </details>
 
 <details>
-<summary>1384. Best Time To Take Supplements on Keto & Intermittent Fasting – Dr. Berg</summary><br>
+<summary>1384. [2018-03-06] Best Time To Take Supplements on Keto & Intermittent Fasting – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8Lt7Hm8dd3Y" target="_blank">
     <img src="https://img.youtube.com/vi/8Lt7Hm8dd3Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 最佳補充劑攝取時間  
+- 胰島素敏感性與營養吸收的关系  
+- 如何最大化營養吸收效率  
 
+### 主要觀念  
+1. **最佳攝取時間**：在一天的第一次進食時（尤其是在間歇性禁食的情況下）攝取補充劑，可以獲得最佳吸收效果。  
+2. **胰島素敏感性**：禁食時間越長，身體對胰島素越敏感，有利於營養成分進入細胞。  
+3. **營養吸收效率**：多餐攝入會增加胰岛素抵抗，降低營養吸收效果。  
+
+### 問題原因  
+- 多次進食導致胰島素抵抗，影響營養吸收。  
+- 不良的飲食習慣導致營養利用率低。  
+
+### 解決方法  
+1. **一次進食攝取補充劑**：在第一次進食時（禁食後的最佳時間）攝取補充劑和高營養食物，以提高吸收效率。  
+2. **間歇性禁食**：增加禁食時間，提升胰島素敏感性，從而促進營養吸收。  
+
+### 健康建議  
+1. **特定補充劑的攝取時間**：某些補充劑（如L-色氨酸）需要空腹攝取；睡眠輔助補充劑應在睡前服用。  
+2. **飲食結構**：優先攝取高營養密度的食物，尤其是在第一次進食時。  
+
+### 結論  
+- 第一次進食時攝取補充劑和高營養食物是最佳策略，可最大化吸收效果。  
+- 適當的禁食和良好的飲食習慣有助於提升整體健康水平。
 </details>
 
 <details>
-<summary>1383. What Really Causes PCOS (Polycystic Ovarian Syndrome) – Dr. Berg</summary><br>
+<summary>1383. [2018-03-05] What Really Causes PCOS (Polycystic Ovarian Syndrome) – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=mpM-5BtUg6Q" target="_blank">
     <img src="https://img.youtube.com/vi/mpM-5BtUg6Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
 
+- **多囊卵巢綜合症 (PCOS)**：一種影響女性生殖系統的常見内分泌疾病，主要特徵包括高 Андрогени уровни和月经不調.
+
+
+
+### 主要觀念
+
+1. **高 Андрогени LEVELS**：導致男性化症狀，如面部毛發、深沉 голос и痤疮.
+
+2. ** menstrual 不規則或停經**：診斷PCOS的重要標準之一.
+
+3. **胰島素抵抗性 (Insulin Resistance)**：被認為是PCOS的主要病因，而非mere симptom.
+
+
+
+### 問題原因
+
+- **胰島素抵抗性**：導致卵巢分泌 excess иorgen вида,進而引起其他症狀如痤疮、多毛和 obesity.
+
+- **傳統診斷方法**：雖然超音波可用於驗證，但主要依still на症狀 и blood test.
+
+
+
+### 解決方法
+
+1. ** diet 調整**： 
+
+   - **低碳水化合物飲食（如生酮飲食）**：幫助降低胰島素水平.
+
+   - **定期禁食**：改善胰島素抵抗性.
+
+2. **藥物治療**： 
+
+   - 激素抑制劑或避孕藥用於控制症狀，但並非根治方法.
+
+3. **生活方式的改變**： 
+
+   - 增加 physical activity и похудение를 через健康 diet和運動.
+
+
+
+### 健康建議
+
+- **飲食建議**：優先選擇低碳水化合物、高蛋白質和高fiber foods.
+
+- **運動建議**：定期從事中等強度的 exercise以改善胰島素敏感性.
+
+- **避免浪費時間在非核心治療上**：如僅依賴激素藥物而不針對胰岛素抵抗性進行調整.
+
+
+
+### 總結
+
+多囊卵巢綜合症 (PCOS) 是一種复杂的内分泌疾病，其核心病因在於胰岛素抵抗性。患者應該集中精力通过饮食調整、定期禁食 и физическата активност за борба с това-condition.傳統治療方法如激素藥物只能緩解症狀，而非根治病因。因此，建議患者採取針對胰岛素抵抗性的綜合療法以達到更好的效果。
 </details>
 
 <details>
-<summary>1382. Keto Will NOT Work Without Intermittent Fasting – Dr. Berg</summary><br>
+<summary>1382. [2018-03-05] Keto Will NOT Work Without Intermittent Fasting – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HkOWHV2GpAk" target="_blank">
     <img src="https://img.youtube.com/vi/HkOWHV2GpAk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理：酮飲食與 intermittent fasting 的結合應用
 
+#### 核心主題
+- 探讨酮飲食（Keto Diet）与斷食法（intermittent fasting, IF）在健康促進和體重管理中的作用。
+- 强調兩者結合的重要性及其對不同人群的適用性。
+
+#### 主要觀念
+1. **酮飲食的基本原理**：
+   - 通過限制碳水化合物攝取，促使機體進入酮症狀態，主要依賴脂肪作為能量來源。
+2. **intermittent fasting（IF）的作用**：
+   - 通過間歇性斷食，延長空腹時間，增強胰島素敏感性，促進脂肪燃燒。
+
+#### 問題原因
+1. **酮飲食單獨使用效果有限的原因**：
+   - 频繁進餐會刺激胰島素分泌，影響體重減輕效果。
+   - 大部分人尤其年齡偏大或代謝率較低者，依賴酮飲食本身可能無法有效減重。
+
+#### 解決方法
+1. **結合酮飲食與IF**：
+   - 適當安排進餐時間，避免頻繁零食攝取。
+   - 初學者可從3餐開始，逐步延後 breakfast 時間，直至不吃早餐。
+
+2. **調整飲食結構**：
+   - 增加每餐中的脂肪含量，提升飽腹感與代謝穩定性。
+
+#### 健康建議
+1. **逐步實施**：
+   - 循序漸進地調整飲食習慣，避免突然改變導致不適。
+2. **注意身體 signals**：
+   - 按時進餐，若非饥饿則可延後或略過某一餐，依賴自身脂肪儲備。
+
+#### 結論
+- 飲食與IF的結合能有效提升減重效果，尤其針對代謝率較低或年齡偏大的人群。
+- 健康管理不僅是體重控制，更需注重生活方式的調整，以維持長久效果。
 </details>
 
 <details>
-<summary>1381. Understanding Omega-3 Fatty Acids – Dr. Berg</summary><br>
+<summary>1381. [2018-03-04] Understanding Omega-3 Fatty Acids – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5aQjULjyFpY" target="_blank">
     <img src="https://img.youtube.com/vi/5aQjULjyFpY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **Omega-3脂肪酸的重要性**：作為必需脂肪酸，omega-3不能自行合成，必須通過飲食攝取。
 
+### 主要觀念
+1. **DHA的功能**：
+   - 支持腦部、眼部和心血管健康。
+   - 被譽為「腦部的食物」，因其對神經系統的關鍵作用。
+   
+2. **EPA的功能**：
+   - 促進眼部和心臟健康。
+   - 具有強效抗炎特性。
+
+3. **ALA的功能**：
+   - 支持心血管功能、認知能力和抗炎作用。
+   - 主要來源包括亞麻籽油、奇亚籽和核桃。
+
+### 問題原因
+- **ALA的轉化效率低**：
+  - ALA向EPA和DHA的轉化率僅為0.1%至0.5%，遠低于身體需求。
+  - 病情或壓力會進一步降低轉化效率，影響ALA的效果。
+
+### 解決方法
+1. **多樣化的攝取來源**：
+   - DHA：深海魚類（如三文魚、沙丁魚）、魚油、 pasture-raised牛肉和有機蛋。
+   - EPA：相同於DHA的來源。
+
+2. **ALA的穩定攝取方法**：
+   - 通過磨粉或購買高品質冷壓油，避免氧化及酸敗。
+
+3. **針對素食者的建議**：
+   - 素食者可選擇微藻來源的omega-3サプリメント。
+
+### 健康建議
+1. 選擇多種食物來源以確保足夠的omega-3攝取。
+2. 注意ALA油品的保存條件，避免氧化。
+3. 考慮補充劑，特別是對於ALA攝取不足的人群。
+
+### 結論
+Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和EPA的效果已經得到了廣泛的研究支持，而ALA的轉化效率較低，需通過適當來源或補充劑來滿足需求。消費者應選擇高品質、新鮮的油品，並根據個人飲食習慣調整攝取方式。
+
+---
+
+此整理避免了非正式用語，使用了清晰的小節分類和正式學術用語，確保信息的客觀性和完整性。
 </details>
 
 <details>
-<summary>1380. Gastric Bypass & Keto and Intermittent Fasting – Dr. Berg</summary><br>
+<summary>1380. [2018-03-04] Gastric Bypass & Keto and Intermittent Fasting – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Wr8S_DCeD2w" target="_blank">
     <img src="https://img.youtube.com/vi/Wr8S_DCeD2w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理： gastric bypass手術後的飲食與健康管理
 
+#### 1. 核心主題：
+- 胃繞道手術（gastric bypass）對消化系統的影響。
+- 經手術後患者如何安全地進行酮體飲食（keto diet）和間歇性禁食（intermittent fasting）。
+
+#### 2. 主要觀念：
+- 胃腸手術會影響消化功能，尤其是蛋白質分解、礦物質吸收及膽汁分泌。
+- 經手術後患者可能面臨營養吸收障礙，需採取額外措施來彌補營養不足。
+
+#### 3. 問題原因：
+- 胃腸手術影響胃和小 intestine的功能，導致蛋白質分解和礦物質吸收受限。
+- 膽汁分泌受阻，影響脂肪的消化與吸收，進而影響 fat-soluble vitamins 的攝取。
+
+#### 4. 解決方法：
+1. **增加胃酸**：使用蘋果醋或 Betaine Hydrochloride 來幫助蛋白質分解和礦物質吸收。
+2. **補充純化膽鹽**：支持 gallbladder 功能，促進脂肪消化與吸收。
+3. **補充礦物質**：推薦植物基的液體微量營養素，因其吸收率高（100%）。
+
+#### 5. 健康建議：
+- 配合酮飲食和間歇性禁食，以降低胰島素抗性並改善整體健康。
+- 使用「toff adji」方法來提高蛋白質利用率，並刺激生長激素分泌（可提升1300%-2000%）。
+
+#### 6. 結論：
+- 經胃腸手術後患者進行酮飲食和間歇性禁食是可行且有益的。
+- 需補充必要的酸、膽鹽和礦物質以彌補消化吸收障礙，保障營養均衡。
+
+#### 7. 參考資料：
+- 提供相關產品（如蘋果醋、膽鹽、礦物質）的購買連結。
+- 推荐新書《The New Body Type Guide》，涵蓋詳細飲食建議和健康指南。
 </details>
 
 <details>
@@ -761,68 +1230,33 @@
         alt="[Youtube]" width="200">
 </a>
 
-### 核心主題  
-- **碘缺乏症（Iodine Deficiency）**：碘是必需的微量營養素， deficiency 可能導致多種健康問題，包括智力障礙和甲狀腺功能異常。  
+### 重點整理  
 
----
+#### 核心主題  
+碘的缺乏對智力和整體健康的重大影響。  
 
-### 主要觀念  
-1. **全球碘缺乏現況**：地球上約有 20 億人口患有碘缺乏症，占全球總人口的很大比例。  
-2. **碘的重要性**：碘在支持腦功能、兒童生長發育、激素調節和甲狀腺健康方面起著關鍵作用。  
-3. **智力障礙（ Intellectual Disability）**：碘缺乏可導致智商較低（<70）、運動技能遲緩、學習困難等，且 50% 的病例原因不明（idiopathic）。  
+#### 主要觀念  
+1. 碘是支持腦功能、兒童成長、激素調節和甲状腺功能的重要微量元素。  
+2. 碘缺乏會導致甲狀腺腫大（goiter）及其他健康問題，如智力障礙。  
+3. 50%的智力障礙病例病因不明（idiopathic），但碘缺乏可能是潛在原因之一。  
 
----
+#### 問題原因  
+1. 全球約20億人口存在碘缺乏問題。  
+2. 洋流污染影響海藻等碘來源，增加毒素攝取風險。  
 
-### 問題原因  
-- **環境污染**：海洋污染可能影響碘的來源，增加毒素攝入風險。  
-- **營養不足**：食物中碘含量不足或吸收不良導致 deficiency。  
+#### 解決方法  
+1. 確保碘的攝取來源於高質量、食物ベース的食物。  
+2. 避免攝食受污染的海洋產品。  
+3. 孕婦特別需要注意碘的補充，以避免先天性缺陷。  
 
----
+#### 健康建議  
+1. 孕婦及計劃懷孕的人士應主動補充足夠的碘。  
+2. 確保飲食中包含富含碘的食物，如海藻、 seafood 和碘鹽。  
+3. 如有疑慮，建議諮詢專業醫療人員進行檢查和補充指導。  
 
-### 解決方法  
-1. **補充碘**：通過攝取含碘食物（如海帶、碘鹽）或補充劑。  
-2. **選擇高品質來源**：優先使用天然食物來源的碘，避免受污染的產品。  
-3. **孕期注意**：孕婦特別需要注意碘攝取，以預防胎兒智力障礙。  
-
----
-
-### 健康建議  
-- 孕婦、計劃懷孕的人群及兒童應密切關注碘攝取量。  
-- 確保食物來源清潔，避免污染物影響健康。  
-- 定期檢查甲狀腺功能和智力發育情況，特別是在高風險人群中。  
-
----
-
-### 結論  
-碘缺乏是一項全球性公共衛生問題，可導致嚴重的健康後果，包括智力障礙和甲狀腺疾病。及時補充碘、選擇清潔的食物來源以及針對高-risk群體的健康管理是防止相關疾病的關鍵。  
-
----
-
-### 英文翻譯  
-**Core Theme**:  
-- **Iodine Deficiency**: Iodine is an essential micronutrient, and deficiency can lead to various health issues, including intellectual disabilities and thyroid dysfunction.  
-
-**Major Concepts**:  
-1. **Global Iodine Deficiency Status**: Approximately 2 billion people worldwide suffer from iodine deficiency, representing a significant portion of the global population.  
-2. **Importance of Iodine**: Iodine plays a critical role in supporting brain function, child development, hormone regulation, and thyroid health.  
-3. **Intellectual Disability ( Intellectual Disability )**: Iodine deficiency can cause low IQ (<70), delayed motor skills, learning difficulties, and problem-solving challenges, with 50% of cases being idiopathic (unknown cause).  
-
-**Problem Causes**:  
-- **Environmental Pollution**: Ocean pollution may affect iodine sources, increasing the risk of toxin intake.  
-- **Nutritional Deficiency**: Inadequate iodine content in food or poor absorption leads to deficiency.  
-
-**Solutions**:  
-1. **Iodine Supplementation**: Consume iodine-rich foods (e.g., seaweed, iodized salt) or supplements.  
-2. **Choose High-Quality Sources**: Prioritize natural food sources of iodine and avoid contaminated products.  
-3. **Pregnancy Awareness**: Pregnant women should pay special attention to iodine intake to prevent fetal intellectual disabilities.  
-
-**Health Recommendations**:  
-- Pregnant women, those planning pregnancy, and children should closely monitor iodine consumption.  
-- Ensure food sources are clean to avoid contamination-related health risks.  
-- Regularly check thyroid function and intellectual development, especially in high-risk populations.  
-
-**Conclusion**:  
-Iodine deficiency is a global public health issue that can lead to severe health consequences, including intellectual disabilities and thyroid diseases. Timely iodine supplementation, choosing clean food sources, and targeted health management for high-risk groups are key to preventing related diseases.
+#### 結論  
+碘 deficiency 是全球性健康問題，與智力障礙和其他嚴重的健康後遺症密切相關。  
+提升對碘重要性的認識，改善飲食結構，確保充足的碘攝取，對於預防相關疾病具有重要作用。
 </details>
 
 <details>

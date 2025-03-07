@@ -802,43 +802,26 @@
 </a>
 
 ### 核心主題  
-- 紅มะกอกมีฤทธิ์เป็นกรดหรือด่าง  
-
----
+- 檢視檸檬汁的酸性特性和其對人體 Acid-Base 平衡的影響。
 
 ### 主要觀念  
-1. **สม propriétés acides ou alcalines du jus de citron**  
-   - Le jus de citron contient de l'acide citrique, un acide fort avec une teneur en pH comprise entre 2 et 3, ce qui le rend bien plus acide que l'eau (10 000 à 100 000 fois plus acide).  
-   -Bien qu'il soit acide lors de la consommation, il se transforme en composés alcalins après environ une heure.  
+- 檸檬汁含有強烈的枸櫞酸（Citric Acid），pH 值介於 2 到 3，表明其高酸性。
+- 虽然檸檬汁本身呈酸性，但進入人體後會被中和，最終轉為碱性化合物。
 
-2. **Effets sur le corps**  
-   - Le jus de citron peut alcaliniser l'urine, ce qui est bénéfique pour certaines personnes souffrant de goutte ou d'hyperuricémie.  
-   - L'acide citrique peut réduire les cristaux de urate et les calculs renelles (notamment les calculs biliaires et les calculs calcium oxalate).  
+### 問題原因  
+- 高尿酸血症患者可能因枸櫞酸的缺乏而增加痛風結晶形成的风险。
+- 某些情況下，腎臟结石（如尿酸结石及鈣 oxalate 石）的風險亦可能升高。
 
-3. **Valeurs nutritives**  
-   - Le jus de citron est riche en vitamine C, mais cette vitamine peut être détruite si le jus est pasteurisé ou chauffé.  
+### 解決方法  
+- 檸檬汁中的枸櫞酸可幫助結合並排出體內多余的 oxalates，降低鈣沈淀。
+- 建議食用 fresh-squeezed 檸檬汁以保持其天然維生素 C 的含量。
 
----
+### 健康建議  
+- 适量攝取檸檬汁可促進尿液酸鹼平衡，改善高尿酸血症及腎臟健康。
+- 避免過度依賴市售瓶裝檸檬汁，因其經巴氏消毒可能破壞維生素 C。
 
-### Problèmes associés  
-- La confusion quant à l'effet acide/d​​​​​​​aline du jus de citron sur le corps humain.  
-- L'impact des processus de conservation (pasteurisation) sur les nutriments du jus de citron.  
-
----
-
-### Solutions et conseils pour la santé  
-1. **Consommation optimale**  
-   - Consommez du jus de citron frais而非 pasteurisé pour bénéficier pleinement des effets de la vitamine C.  
-   - Utilisez-le comme complément alimentaire pour réduire les risques de calculs biliaires ou urinaires, notamment chez les personnes souffrant de goutte.  
-
-2. **Précautions**  
-   - Bien que le jus de citron soit acide, il se transforme en alcalin après digestion, donc son impact sur le pH du sang est limité.  
-   - Consultez un professionnel de santé avant d'ajouter des compléments importants à votre régime.  
-
----
-
-### Conclusion  
-Le jus de citron est une boisson riche en nutriments avec des propriétés acides et alcalines. Bien que son effet sur le pH du sang soit mineur, il peut offrir des bénéfices pour la santé, notamment en réduisant les calculs biliaires et en renforçant le système immunitaire grâce à sa teneur en vitamine C. Pour maximiser ses bienfaits, privilégiez le jus frais et non traité.
+### 結論  
+- 檸檬汁雖具高酸性，但其在人體中最終轉為碱性物質，對健康有益。正確攝取可提升免疫力並促進整體健康。
 </details>
 
 <details>
