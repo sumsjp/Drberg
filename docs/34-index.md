@@ -4796,58 +4796,294 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
 </details>
 
 <details>
-<summary>3408. 13 Reasons Why Your Metabolism is Slow</summary><br>
+<summary>3408. [2021-04-12] 13 Reasons Why Your Metabolism is Slow</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DQw01eQ1MfA" target="_blank">
     <img src="https://img.youtube.com/vi/DQw01eQ1MfA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題：代謝率下降的因素及提升方法
+
+文章主要探討影響代謝率的因素及其解決方案，強調通過科學方法改善代謝功能，從而促進健康和體重管理。
+
+---
+
+#### 主要觀念：
+1. **年齡**：隨著年齡增長，生長激素水平下降，但可通过 fasting 和高強度運動提升。
+2. **更年期**：女性在更年期因卵巢功能衰退，導致皮質醇升高，需注意 adrenal 約束及荷爾蒙平衡。
+3. **孕產史**：懷孕增加雌激素水平，可能影響代謝，建議攝取十字花科蔬菜以調節雌激素。
+4. ** diets 過往 dieting 歷史**：錯誤的 dieting 會降低代謝率，建議採用高營養、低頻率飲食模式。
+5. **高碳水化合物飲食**：導致胰岛素抵抗，需通過控制碳水攝取和改善胰島素敏感性來解決。
+6. **慢性壓力**：壓力類似消耗糖分，影響代謝功能。
+7. **甲狀腺問題**（如橋本氏甲亢）：主要由免疫系統及腸道問題引起，需補充硒、維生素D並保持良好的膽汁生成。
+8. **脂肪肝**：脂肪肝干擾多種激素調節，建議採取健康的酮飲食和禁食來恢復。
+9. **肥胖**：肥胖導致雌激素水平升高，反過來抑制甲狀腺功能，影響代謝。
+10. **頻繁進餐及零食攝取**：刺激胰岛素分泌，降低代謝效率。
+11. **酒精消費**：干擾肝臟脂肪燃燒能力，建議限制酒精攝取。
+12. **早期童年感染**：可能導致兒童時期的代謝紊亂，需注意潛在的藥物影響。
+13. **药物依賴**：某些常見藥物（如皮質醇、抗抑鬱劑等）會增加體重並降低代謝率，建議與醫生討論調整方案。
+
+---
+
+#### 問題原因：
+- 年齡導致的生長激素下降。
+- 更年期引起的荷爾蒙失衡。
+- 電子產品使用對睡眠和代謝的影響。
+- 睡眠不足或紊亂干擾荷爾蒙分泌，如瘦素和ghrelin。
+- 遺傳因素在肥胖和代謝率中的作用。
+
+---
+
+#### 解決方法：
+1. **營養攝取**：均衡飲食，控制碳水化合物攝取，增加蛋白質和健康脂肪的摄入。
+2. **運動**：結合有氧運動和力量訓練，以提升代謝率。
+3. **禁食與間歇性飢餓**：通過禁食來減少胰岛素刺激，提高脂肪燃燒效率。
+4. **荷爾蒙調節**：保持良好的腸道健康，攝取十字花科蔬菜以平衡雌激素水平。
+5. **壓力管理**：進行放鬆訓練、冥想等活動以降低慢性壓力。
+6. **藥物諮詢**：與醫生討論是否需要調整影響代謝的藥物。
+7. **健康管理**：定期檢查相關指標，如血糖、胰島素和荷爾蒙水平。
+
+---
+
+#### 健康建議：
+- 避免高頻率進餐和零食攝取，以降低胰岛素抵抗。
+- 限制酒精攝取，特別是葡萄酒，因可能干擾脂肪燃燒。
+- 選擇健康的酮飲食來改善代謝功能。
+- 確保充足的睡眠時間，並保持良好的睡覺品質。
+- 定期進行身體檢查，及時發現和處理潛在的健康問題。
+
+---
+
+#### 結論：
+代謝率下降是由多種因素共同作用的結果，包括年齡、荷爾蒙變化、飲食習慣、壓力水平以及藥物影響等。通過合理的飲食結構、規律的運動習慣、良好的壓力管理和必要的醫療干預，可以有效提升代謝率，從而促進整體健康和體重管理。
 </details>
 
 <details>
-<summary>3407. Adrenal Fatigue Could be a Liver Problem</summary><br>
+<summary>3407. [2021-04-11] Adrenal Fatigue Could be a Liver Problem</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fXdiWW3aq80" target="_blank">
     <img src="https://img.youtube.com/vi/fXdiWW3aq80/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理
 
+#### 核心主題  
+- 低皮質醇症候群（Adrenal Fatigue）的持續性問題可能與肝臟功能受損有關。  
+
+#### 主要觀念  
+1. 身體有多種來源可以產生皮質醇，包括肝臟、免疫細胞、生殖腺和神經系統。  
+2. 肝臟在皮質醇代謝中扮演關鍵角色，尤其是透過「皮質醇結合球蛋白」（Transcortin/Cortisol Binding Globulin, CBG）運輸和鎖定大部分皮質醇。  
+
+#### 啟發原因  
+- 肝臟受損會降低CBG的水平，從而影響 adrenal hormones 的可用性，導致類似低皮質醇症候群的症状。  
+
+#### 具體問題  
+1. 低應激_tolerance：對壓力反應能力下降。  
+2. 免疫系統功能減弱：易感染和炎症。  
+3. 睡眠障礙（如失眠）。  
+4. 吸收困難、皮膚問題和哮喘等免疫相關病症。  
+
+#### 解決方法  
+- 使用合成皮質醇（如 prednisone）可能引起次級效應，包括脂肪肝、血糖紊亂（甚至引發糖尿病）、高血壓、中心性肥胖等。  
+
+#### 健康建議  
+1. **飲食調整**： 
+   - 採用低碳水化合物的健康酮ogenic diet 和間歇性禁食計劃，來改善肝臟功能，降低炎症，並恢復 adrenal function。  
+2. **生活方式改變**： 
+   - 減少環境壓力因素，通過強化免疫系統來提高對外界刺激的耐受力。  
+
+#### 結論  
+- 長期未解決的低皮質醇症候群可能提示肝臟問題。  
+- 改善肝功能不僅能減輕症状，還能提升整體健康狀況，包括免疫功能和壓力抵抗能力。
 </details>
 
 <details>
-<summary>3406. What's Lacking With Split Nails</summary><br>
+<summary>3406. [2021-04-11] What's Lacking With Split Nails</summary><br>
 
 <a href="https://www.youtube.com/watch?v=P8e3z4rdIFY" target="_blank">
     <img src="https://img.youtube.com/vi/P8e3z4rdIFY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 分析導致指甲分層或脆弱的原因及其營養缺乏的可能因素。
 
+---
+
+### 主要觀念  
+1. **問題定義**：分層指甲（Split Nails）是一種醫療條件，稱為Anacostia，表現為指甲脆弱、易碎或剝落。
+2. **常見原因**：
+   - 鐵質缺乏
+   - 生物素（Biotin）不足
+   - 最可能的原因：鈣質攝取不足
+3. **輔助原因**：維生素D deficiency，影響鈣吸收。
+
+---
+
+### 問題原因  
+1. **營養缺乏**：
+   - 鐵質不足導致指甲脆弱。
+   - 生物素不足影響指甲健康。
+   - 鈣質攝取不足是最常見的原因。
+2. **吸收障礙**：維生素D deficiency干擾鈣的吸收。
+
+---
+
+### 解決方法  
+1. **營養補充**：
+   - 鈣源選擇：推薦使用鈣 lactate、calcium orotate 或 calcium citrate，因其吸收效率高。
+   - 替代來源：食用高品質乳製品（如歐洲產的有機草饲奶酪）以增加鈣攝取。
+2. **改善吸收**：
+   - 確保維生素D攝取充足，促進鈣吸收。
+
+---
+
+### 健康建議  
+1. 避免使用鈣 carbonate，因其吸收需要多步驟且效率低。
+2. 調整飲食習慣，增加富含鈣和維生素D的食物攝取。
+3. 监測其他可能的營養缺乏症狀，如疲勞、肌肉痙攉等。
+
+---
+
+### 其他症狀（Calcium Deficiency）  
+1. 疲勞
+2. 握力減弱
+3. 肌肉痙攣或抽搐（腳部或小腿）
+4. 骨骼脆弱或斷裂
+5. 動顫或唇周麻木（Paresthesia）
+
+---
+
+### 結論  
+- 分層指甲的最可能原因是鈣質缺乏。
+- 通過補充高吸收率的鈣源和改善維生素D攝取，可有效解決問題。
+- 強調飲食調整和營養均衡的重要性。
+
+--- 
+
+此整理涵蓋了文章的核心內容，並以正式、客觀的方式分類歸納。
 </details>
 
 <details>
-<summary>3405. Head Lice: Best Home Remedy</summary><br>
+<summary>3405. [2021-04-10] Head Lice: Best Home Remedy</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_7leqEUr_4E" target="_blank">
     <img src="https://img.youtube.com/vi/_7leqEUr_4E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：頭虱的防治與自然療法
 
+#### 主要觀念：
+- **寄生蟲特性**：頭虱是一種寄生昆蟲，寄生于人類的头皮，吸食血液為生。
+- **唾液成分**：頭虱唾液中含有抗凝血劑，可防止血液凝固，增加其叮咬次數。
+- **繁殖位置**：頭虱通常將卵產在耳後或枕骨颥颥部（頭髮開始生長的部位）。
+
+#### 問題原因：
+- **感染途徑**：頭虱無法飛行或跳躍，主要通過接觸受感染的頭髮進行傳播。
+- **影響人群**：每年約有1200萬兒童受到頭虱的影響。
+
+#### 解決方法：
+- **物理移除**：使用細牙梳可有效拔除頭虱。
+- **高溫殺滅**：將頭發暴露在54°C（130°F）以上的高溫下，可以有效殺死頭虱。
+- **自然療法**： olive oil 是一種無副作用的天然 Remedies，建議使用特級初榨橄欖油。
+
+#### 健康建議：
+- **環境衛生**：避免接觸已感染頭虱的人或物品。
+- **免疫系統增強**：通過健康飲食、充足睡眠和適度運動來強化免疫系統，以提高身體對寄生蟲的抵抗力。
+
+#### 經典結論：
+- **防範勝於治療**：預防頭虱的感染比治療更重要。保持個人衛生並定期檢查頭發是關鍵。
+- **整合療法**：結合物理移除和自然療法，可以更有效地控制頭虱問題。
 </details>
 
 <details>
-<summary>3404. Start Adding Garlic to Your Meals</summary><br>
+<summary>3404. [2021-04-10] Start Adding Garlic to Your Meals</summary><br>
 
 <a href="https://www.youtube.com/watch?v=G5gi7nqy2j0" target="_blank">
     <img src="https://img.youtube.com/vi/G5gi7nqy2j0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+ garlic 的多樣化健康益處及其在預防和治療疾病中的作用。
+
+---
+
+#### 主要觀念
+1. **植物營養素的含量**：
+   - 含有多種硫化合物等_phytonutrients_，具有多種生物活性。
+   
+2. **增強運動表現**：
+   - 可提高耐力，特別是有氧運動時的效果更為顯著。
+
+3. **抗微生物特性**：
+   - 具有 antibacterial, antiviral 和 antifungal 效果，可用於抵抗感染和寄生蟲。
+   
+4. **呼吸道健康**：
+   - 能夠減輕咳嗽、改善呼吸功能，並縮短肺部感染的持續時間。
+
+5. **抗炎作用**：
+   - 對關節炎症（如骨關節炎和風濕性關節炎）有顯著的緩解效果。
+
+6. **抗癌特性**：
+   - 含有的_allicin_化合物被證實具有抗癌作用，案例研究表明大蒜在癌症治療中可能起到關鍵作用。
+
+7. **心血管健康**：
+   - 作為自然血液稀釋劑，降低血栓風險；增加一氧化氮（nitric oxide）水平，從而降低血壓；並能降低膽固醇水平。
+
+8. **免疫系統增強**：
+   - 直接殺死病原體，並縮短感染持續時間。
+
+9. **消化健康**：
+   - 促進膽汁流動，改善食物消化，緩解腹脹和放屁問題。
+
+10. **排毒功能**：
+    - 刺激肝臟的一期二期排毒系統，將脂溶性污染物轉化為水溶性廢物，從而促進身體排毒。
+
+11. **骨密度提升**：
+    - 有助於增強骨骼健康。
+
+---
+
+#### 問題原因
+- 现代醫學中，抗生素濫用導致的副作用和抗藥性問題日益嚴重。
+- 生活環境中的污染物和其他致病因子威脅人類健康。
+
+---
+
+#### 解决方法
+1. **膳食攝入**：
+   - 在日常飲食中加入大蒜，如作為調味品使用。
+   
+2. **補充劑形式**：
+   - 遊離的大蒜補充劑可用於加大攝取量。
+
+3. **整體健康管理**：
+   - 與其他健康策略結合使用，如均衡飲食和规律運動。
+
+---
+
+#### 健康建議
+1. 将大蒜融入多種菜式中，以最大化其營養價值。
+2. 配合補充劑使用，但需注意劑量和個人健康狀況。
+3. 考慮將大蒜作為自然療法之一，用於預防疾病和促進整體健康。
+
+---
+
+#### 結論
+ garlic 是一種多功能的天然保健品，具有抗炎、抗氧化、抗菌等多种功效，在提升免疫力、保護心血管系統和增強運動表現等方面有著顯著的效果。其抗癌特性尤其值得一提，案例研究表明大蒜在某些情況下甚至可以幫助患者康復。此外，大蒜對肝臟排毒和骨密度的改善也展現了其多樣化的健康益處。
+
+---
+
+### 總結性文字
+ garlic 不僅是一種常見的調味品，更是現代醫學中不可忽視的天然藥物。它的多種活性成分使其在預防疾病、增強免疫力和促進整體健康方面具有重要價值。通過將大蒜融入日常飲食或使用其補充劑，人們可以有效提升健康水平，降低感染風險，並且減輕某些慢性疾病的症狀。 garlic 無疑是現代人不可忽視的健康資源。
 </details>
 
 <details>
@@ -4862,24 +5098,100 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
 </details>
 
 <details>
-<summary>3402. High Cholesterol After Menopause?</summary><br>
+<summary>3402. [2021-04-08] High Cholesterol After Menopause?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=V4MrwFmlHEc" target="_blank">
     <img src="https://img.youtube.com/vi/V4MrwFmlHEc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Core Themes:
+- **Cholesterol Metabolism**: Understanding the role and dynamics of cholesterol in the body, including its production and function.
+- **Menopause and Aging**: The impact of menopause on cholesterol levels and overall health, particularly in women.
+- **Hormonal Changes**: The influence of estrogen during menopause on cholesterol metabolism and cardiovascular health.
 
+### Key Concepts:
+1. **Cholesterol Production**:
+   - Approximately 75-80% of cholesterol is synthesized by the body, primarily for cell membrane structure, hormone production (e.g., estrogen, testosterone), bile formation, and vitamin D synthesis.
+2. **Menopause-related Cholesterol Changes**:
+   - Estrogen levels decrease during menopause, leading to increased cholesterol levels due to its antioxidant properties being diminished.
+3. **Types of Lipoproteins**:
+   - LDL (Low-Density Lipoprotein): Transports cholesterol from the liver to cells; often referred to as "bad" cholesterol.
+   - HDL (High-Density Lipoprotein): Transports cholesterol back to the liver for recycling; considered "good" cholesterol.
+
+### Causes of Increased Cholesterol in Menopause:
+- **Estrogen Decline**: Estrogen acts as an antioxidant, protecting arteries from damage. Reduced estrogen levels during menopause lead to increased oxidative stress and inflammation, prompting the body to use more cholesterol (via LDL) to repair arterial damage.
+- **Role of LDL**: LDL is not inherently bad but becomes problematic when it contributes to atherosclerosis by forming dense, small particles that can penetrate artery walls.
+
+### Solutions and Health Recommendations:
+1. **Dietary Modifications**:
+   - **Low-Carb Diet**: Focus on minimizing refined carbohydrates and sugars to reduce the production of harmful LDL particles.
+   - **Antioxidant-Rich Foods**: Consume foods high in antioxidants (e.g., fruits, vegetables, nuts) to counteract oxidative stress and reduce cholesterol-related arterial damage.
+2. **Lifestyle Adjustments**:
+   - Regular physical activity to improve lipid profiles and overall cardiovascular health.
+   - Stress management techniques to mitigate the impact of hormonal fluctuations on cholesterol levels.
+
+### Conclusion:
+Menopause and aging necessitate careful attention to diet and lifestyle to maintain optimal cholesterol levels and cardiovascular health. By understanding the role of estrogen, LDL, and HDL, individuals can make informed decisions to reduce cholesterol-related risks. Incorporating antioxidant-rich foods and adopting a low-carb diet are crucial steps in managing cholesterol during menopause.
 </details>
 
 <details>
-<summary>3401. Fatigue Not Improved With Rest</summary><br>
+<summary>3401. [2021-04-08] Fatigue Not Improved With Rest</summary><br>
 
 <a href="https://www.youtube.com/watch?v=I7st93_Owq0" target="_blank">
     <img src="https://img.youtube.com/vi/I7st93_Owq0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：慢性疲勞綜合徵及其他相關症狀的病因與治療
 
+#### 1. 核心主題
+- 慢性疲勞綜合徵（Myalgic Encephalomyelitis/Chronic Fatigue Syndrome, ME/CFS）
+- 其他可能引起類似症狀的疾病，如萊姆病（Lyme disease）、低血糖、維生素D缺乏及 Epstein-Barr 病毒再活化
+
+#### 2. 主要觀念
+1. **慢性疲勞綜合徵的定義**：
+   - 是一種以持續性疲勞為主要症狀的疾病，且此疲勞不會因休息而改善。
+   
+2. **相關症狀**：
+   - 遅發性惡化（Exertional Malaise）：運動或情緒壓力後數小時內出現疼痛或炎症。
+   - 睡眠障礙。
+   - 情緒不穩、易怒。
+   - 認知功能受影響，如腦霧、注意力不集中。
+   - 閉塞性喉嚥（Sore throat）、淋巴腺腫胩。
+   - 肌肉疼痛。
+
+3. **可能病因**：
+   - **萊姆病**：由蜱傳播的螺旋體病原體引起，常見於森林活動後。
+   - **低血糖**：導致類似症狀。
+   - **維生素D缺乏**：影響免疫功能。
+   - **Epstein-Barr病毒再活化**：此病毒常在青春期或大學時期感染，之後進入潛伏期，但在壓力下可能復發。
+
+4. **壓力的影響**：
+   - 压力會萎縮胸腺（T細胞的訓練中心），削弱免疫系統，增加病毒復發風險。
+
+#### 3. 問題原因
+- 生活習慣：久坐少動、高碳水化合物飲食。
+- 季節因素：冬季缺乏維生素D攝取。
+- 環境暴露：蜱蟲叮咬導致萊姆病。
+- 免疫系統功能下降：壓力導致免疫抑制。
+
+#### 4. 解決方法
+1. **自然治療法**：
+   - ** Astragalus 治療**：
+     - 使用六克干燥的板藍根，加水煮沸30分鐘，冷卻後服用。
+     - 功效：抗病毒、減輕壓力。
+   
+2. **營養補充**：
+   - **維生素D**：每日攝取量建議為30,000 IU，直到症狀改善。
+   - **鋅**：每日至少100毫克，有助於免疫功能。
+
+#### 5. 健康建議
+- 加強免疫力：
+  - 避免久坐、控制碳水化合物攝取。
+  - 請加入免費課程「如何打造堅不可摧的免疫系統」，了解具體提升方法。
+  
+#### 6. 结論
+- 慢性疲勞綜合徵及相關症狀可由多種因素引發，包括病毒感染和生活方式。通過抗病毒治療、營養補充及免疫力增強，可有效恢復健康。建議結合自然療法與科學免疫策略，提升整體抵抗力。
 </details>
 
