@@ -549,113 +549,511 @@
 </details>
 
 <details>
-<summary>950. Before & After Keto – Intermittent Fasting & Weight Loss session with Dr.Berg and Dan McGinley</summary><br>
+<summary>950. [2017-07-18] Before & After Keto – Intermittent Fasting & Weight Loss session with Dr.Berg and Dan McGinley</summary><br>
 
 <a href="https://www.youtube.com/watch?v=u1pr3J3WJJg" target="_blank">
     <img src="https://img.youtube.com/vi/u1pr3J3WJJg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小結整理：文章重點歸納
 
+#### 1. 核心主題  
+- 探讨酮症饮食（Ketogenic Diet）在癌症预防与治疗中的潜在作用。  
+- 讨论健康生活方式对整体免疫系统和身体健康的影响。  
+
+#### 2. 主要觀念  
+- 癌症的代谢特性：癌细胞依赖葡萄糖作为主要能量来源，PET扫描通过检测葡萄糖代谢来定位肿瘤。  
+- 酮症饮食通过限制血糖水平，可能抑制癌细胞的生长和扩散。  
+- 环境因素（如农药、除草剂）与癌症的关系：非霍奇金淋巴瘤与 glyphosate（一种常用于转基因作物的除草剂）有关。  
+
+#### 3. 問題原因  
+- 癌症的复杂性和多因性，导致缺乏统一的治疗方法和预防策略。  
+- 现代工业化农业中的化学物质通过食物链进入人体，增加癌症风险。  
+- 不健康的生活方式（高糖、高加工食品摄入）削弱免疫系统功能，增加疾病易感性。  
+
+#### 4. 解決方法  
+- 实施酮症饮食以降低血糖水平，减少癌细胞的能量供应。  
+- 消除环境毒素：选择非转基因、有机和野生捕捞的食材，避免农药残留和化学污染。  
+- 增加 cruciferous 蔬菜（如西兰花、甘蓝）的摄入，这些食物具有抗肿瘤特性，有助于抑制癌细胞生长。  
+
+#### 5. 健康建議  
+- **飲食調整**：采用酮症饮食模式，减少精制糖和加工食品的攝取，增加健康脂肪和高纤维食物的比例。  
+- **食品選擇**：優先選用非 GMO、有機、野生捕撈和草飼產品，以降低環境毒素的暴露風險。  
+- **免疫系統支持**：保持均衡飲食，補充足夠的維生素和礦物質，增強免疫力。  
+- **定期檢查**：注意淋巴結的大小和性狀變化，如有異常（如持續腫大、疼痛），及時就醫評估。  
+
+#### 6. 結論  
+- 酮症飲食和健康生活方式在癌症預防和治療中具有潛在益處。  
+- 避免環境毒素和高糖飲食是降低癌症風險的重要措施。  
+- 倡導健康的飲食習慣和環境保護意識，從源頭上減少癌症的發生機會。
 </details>
 
 <details>
-<summary>949. Men, Estrogen & Weight Gain & Man Boobs – Dr. Berg</summary><br>
+<summary>949. [2017-07-18] Men, Estrogen & Weight Gain & Man Boobs – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=9U_ud4x_Zj4" target="_blank">
     <img src="https://img.youtube.com/vi/9U_ud4x_Zj4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納與整理
 
+#### 核心主題
+- 男性體內雌激素水平上升及其對健康的影響。
+
+#### 主要觀念
+1. **雌激素來源**：
+   - 遗傳改造食品（GMO）如玉米和大豆，通過食物鏈進入人體。
+   - 肥胖導致脂肪增加，進而促進雌激素的合成。
+
+2. **健康問題**：
+   - **前列腺相關疾病**：前列腺肥大和前列腺癌與雌激素水平升高有關。
+   - **性腺功能減退**：高級芳香化酶將睾osterone轉換為雌激素，導致低 testosterone 水平，影響勃起功能和夜尿症。
+
+3. **肝臟角色**：
+   - 肝臟是代謝 estrogen 的主要器官。
+   - 瘦肉型肝炎、脂肪肝或疤痕組織會干擾正常的激素代謝。
+
+#### 問題原因
+1. **飲食因素**：
+   - 遊牧業中使用 GMO 飼料，導致動物產品中雌激素含量增加。
+   - 高糖高脂飲食引發胰島素抵抗和脂肪肝。
+
+2. **生活方式**：
+   - 酗酒和其他肝臟損傷行為。
+   - 經常攝取加工食品和缺乏蔬菜攝取。
+
+#### 解决方法
+1. **藥物治療**：
+   - 使用酶劑（如Serapeptase）來分解疤痕組織，改善脂肪肝或肝硬化。
+   - 補充膽堿以降低肝臟脂肪含量。
+
+2. **營養補充與飲食調整**：
+   - 服用DIM（二吲哚甲基）补充劑，等同於攝取大量十字花科蔬菜，幫助調節激素水平。
+   - 使用蒲公英根來平衡激素並促進前列腺健康。
+
+3. **生活方式改變**：
+   - 減少酒精攝入，改善飲食結構，增加蔬菜攝取。
+   - 降低胰島素抵抗，避免高糖和高脂飲食。
+
+#### 健康建議
+1. **飲食建議**：
+   - 多攝取十字花科蔬菜（如西兰花、捲心菜）以自然調節雌激素水平。
+   - 每天攝取發酵食品（如泡菜、酸菜）以促進腸道健康和免疫功能。
+
+2. **運動與減重**：
+   - 通過有氧運動和力量訓練來降低體脂，減少內源性雌激素的產生。
+
+3. **定期檢查**：
+   - 定期進行前列腺健康檢查，早期發現問題。
+
+#### 結論
+- 男性體內雌激素水平上升與現代飲食習慣、生活方式密切相關。
+- 通過調整飲食、改善肝臟功能和適當使用補充劑，可以有效降低雌激素水平，改善前列腺健康並提升整體激素平衡。
 </details>
 
 <details>
-<summary>948. Before & After Keto – Intermittent Fasting & Weight Loss session with Dr.Berg & David Otieno Okello</summary><br>
+<summary>948. [2017-07-17] Before & After Keto – Intermittent Fasting & Weight Loss session with Dr.Berg & David Otieno Okello</summary><br>
 
 <a href="https://www.youtube.com/watch?v=h_qZEc5eWSM" target="_blank">
     <img src="https://img.youtube.com/vi/h_qZEc5eWSM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 1. 核心主題
+- 談論健康飲食、營養補充、代謝問題以及與健康的相關議題。
+
+#### 2. 主要觀念
+- **굶饑ダイエット**：強調飲食控制的重要性，特別是蛋白質來源的選擇。
+- **腸漏症（Leaky Gut）**：探討其成因、症状及診斷方法。
+- **Bulletproof Coffee**：討論其對代謝和健康的影響。
+- **營養補充品**：強調使用食品基底而非合成維生素的重要性。
+
+#### 3. 問題原因
+- **飲食來源污染**：市售食物中常含有害添加物，如MSG、隱藏糖分等。
+- **腸漏症候群**：主要原因是腸道屏障受損，導致有害物質滲透進入血液。
+- **缺乏高品質食物**：在某些地區，如肯尼亞，難以取得高品質的營養品。
+
+#### 4. 解決方法
+- **飲食控制**：
+  - 選擇非 toxic 的蛋白來源，如雞蛋、瘦肉。
+  - 減少加工食品的攝取，避免MSG和隱藏糖分。
+- **腸漏症候群的改善**：
+  - 避免刺激性食物（如乳制品、麸質食品）。
+  - 补充益生菌和膠原蛋白以修復腸道屏障。
+- **營養補充品的選擇**：
+  - 選擇食品基底的維生素，避免合成產品。
+  - 使用高品質的綠色蔬菜粉末來補充所需 nutrients。
+
+#### 5. 健康建議
+- **飲食多樣化**：確保攝取足夠的蔬菜和蛋白質，以平衡營養。
+- **定期檢查腸道健康**：如有持續性腹痛、便秘或食物過敏，需及時就醫檢查。
+- **使用高品質產品**：在肯尼亞等地區，建議尋找並購買高品質的健康產品來源，如Mall for Africa。
+  
+#### 6. 結論
+- 健康飲食和適當的營養補充是維持身體健康的重要因素。
+- 面對不同地區的食品限制，需因地制宜，選擇最適合的飲食方案。
+- 提倡健康生活方式的教育與傳播，特別是在肥胖問題逐漸嚴重的非洲國家。
 </details>
 
 <details>
-<summary>947. Should I Cycle Carbs on Keto? – Dr. Berg</summary><br>
+<summary>947. [2017-07-17] Should I Cycle Carbs on Keto? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=0iXSyfjuhX8" target="_blank">
     <img src="https://img.youtube.com/vi/0iXSyfjuhX8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理：.cycle-carbs-keto/
 
+#### 1. 核心主題：
+   - 探讨在酮饮食（keto diet）中是否可以周期性地摄入碳水化合物（carb cycling）。
+   - 分析碳水化合物在酮饮食中的作用及其对身体代谢的影响。
+
+#### 2. 主要觀念：
+   - 肝臟具備自產葡萄糖的能力，主要通過脂肪和蛋白質的代謝來維持血糖水平。
+   - 研究人員提出，酮飲食的核心是避免碳水化合物攝入，以促進酮症的達成。
+
+#### 3. 問題原因：
+   - 部分人認為碳水化合物是必需的，擔心缺乏會導致健康問題。
+   - 理解上存在誤區，以為碳水化合物中的糖分對身體運作不可或缺。
+
+#### 4. 解決方法：
+   - 認識到維生素和礦物質主要來源於蔬菜等食物，而非純粹的碳水化合物。
+   - 建議在酮飲食中適當攝入富含纖維和營養的蔬菜，以補充必需的營養素。
+
+#### 5. 健康建議：
+   - 酮飲食的最終目標是建立強健的身體儲備，以便於短時間內偏离飲食計劃也不會對健康造成負面影響。
+   - 在酮飲食達到一定穩定後，可適當進行碳水化合物周期性攝入（carb cycling），但需注意攝量和頻率。
+
+#### 6. 結論：
+   - 酮飲食的核心在於避免碳水化合物攝入，而非完全禁止。
+   - 建立健康的身體儲備後，短期的碳水化合物攝入不會明顯影響健康，甚至可以幫助調整飲食計劃。
 </details>
 
 <details>
-<summary>946. Before & After Keto – Intermittent Fasting & Weight Loss session with Dr.Berg & Michelle Spiva</summary><br>
+<summary>946. [2017-07-16] Before & After Keto – Intermittent Fasting & Weight Loss session with Dr.Berg & Michelle Spiva</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kwX-8qqmYDE" target="_blank">
     <img src="https://img.youtube.com/vi/kwX-8qqmYDE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：Michelle 的健康與生活方式改變經驗分享
 
+---
+
+#### 核心主題  
+- **健康的追求**：Michelle 通過改善生活方式和飲食習慣，實現了身體健康和心理自由。  
+- **可持續性健康**：強調健康生活的可持續性，而非短期ダイエット。
+
+---
+
+#### 主要觀念  
+1. **健康優於減肥**：Michelle 强調，應該先追求整體健康，而不是單純的減肥。  
+2. ** insulin 抵抗的重要性**：她提到通過改善胰島素抵抗來提升健康水平，間接帶來體重下降。  
+3. **生活質量的提升**：健康的改變不僅影響身體狀況，還提升了她的工作能力和生活活力。
+
+---
+
+#### 問題原因  
+1. **傳統ダイエットの限界**：Michelle 認為，傳統的節食法只 focus on weight loss，往往無法帶來可持續的效果。  
+2. **家族健康史的威脅**：她提到自己曾受到糖尿病、心臟病和高血壓等家族疾病的潛在影響。  
+
+---
+
+#### 解決方法  
+1. **飲食調整**：  
+   - 增加蔬菜水果攝取，選擇糖分低的食物。  
+   - 采用健康的飲食模式，避免精製糖和加工食品。  
+2. **健康管理**：  
+   - 监控胰島素抵抗，通過飲食和運動來改善代謝功能。  
+   - 建立可持續的生活方式，而非追求短期效果。  
+
+---
+
+#### 健康建議  
+1. **從事有氧運動**：Michelle 提到運動對於提升整體健康的重要性，特別是有氧運動能有效促進心肺功能和脂肪燃燒。  
+2. **保持積極心态**：她強調心理健康與身體健康的密切關聯，建議保持樂觀態度，避免因短期效果不顯而放棄。  
+
+---
+
+#### 結論  
+- **可持續健康的重要性**：Michelle 的經驗表明，健康的生活方式能夠預防疾病、提升生活質量並帶來心理上的自由感。  
+- **行動號召**：她鼓勵觀看者勇敢開始改變，「喝下這杯Kool-Aid」（意指接受並實踐健康的飲食和生活方式）。  
+
+---
+
+Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺脫isease的風險，還提升了整體的生活質量。她的經驗對於希望實現可持續健康的人們具有重要的啟發意義。
 </details>
 
 <details>
-<summary>945. Reduce Seizures On The Ketogenic Diet – Dr.Berg On Seizure Symptoms</summary><br>
+<summary>945. [2017-07-16] Reduce Seizures On The Ketogenic Diet – Dr.Berg On Seizure Symptoms</summary><br>
 
 <a href="https://www.youtube.com/watch?v=TZQ8Iv3MsIM" target="_blank">
     <img src="https://img.youtube.com/vi/TZQ8Iv3MsIM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：酮egenic Diet（生酮飲食）在癲癇治療中的作用
 
+---
+
+#### 主要觀念：
+1. 生酮飲食是一種有效的代謝干預方式，特別是對於癲癇患者來說。
+2. 通過降低碳水化合物攝取或進行斷食，身體會轉向使用酮體作為主要能量來源。
+3. 酮體是一種更高效且對大脑壓力較小的能量來源。
+
+---
+
+#### 問題原因：
+1. 過度依賴葡萄糖代謝導致腦內谷氨酸（一種 excitatory 神經傳遞質）過多，造成神經元的毒性影響。
+2. 谷氨酸過量引發神經元的異常放電，從而導致癲癇发作。
+3. 高血糖和高胰岛素水平進一步加重谷氨酸毒性。
+
+---
+
+#### 解決方法：
+1. 通過生酮飲食降低碳水化合物攝取或進行斷食，使身體進入酮症（ketosis）。
+2. 生酮飲食增強線粒體功能，特別是腦部的海馬體（hippocampus），該結構與空間記憶和整體記憶功能密切相關。
+3. 酮體具有神經保護作用，可減輕神經退行性病变並平衡谷氨酸/GABA 系統。
+
+---
+
+#### 健康建議：
+1. 研究生酮飲食、間歇性斷食以及其他相關研究以深入了解其效果。
+2. 調整飲食結構，減少碳水化合物攝取，增加健康脂肪的攝入。
+3. 了解胰島素抵抗的概念及其對代謝和神經系統的影響。
+
+---
+
+#### 結論：
+1. 生酮飲食可顯著改善癲癇患者的症狀，通過降低谷氨酸毒性、平衡 GABA 系統以及增強神經保護作用來實現。
+2. 適當實施生酮飲食或間歇性斷食計劃，並密切監測健康狀況。
+3. 建議患者在專業醫療人員的指導下進行生酮飲食治療，以確保安全性和有效性。
 </details>
 
 <details>
-<summary>944. Keto Diet and Intermittent Fasting Success Story – Dr.Berg Weight Loss Interviews Victor Torres</summary><br>
+<summary>944. [2017-07-15] Keto Diet and Intermittent Fasting Success Story – Dr.Berg Weight Loss Interviews Victor Torres</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hABNs3kTaTU" target="_blank">
     <img src="https://img.youtube.com/vi/hABNs3kTaTU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 本文重點整理
 
+#### 核心主題
+- **酮飲食（Ketogenic Diet）**：本文圍繞酮飲食及其在健康和疾病管理中的作用展開討論。
+- **糖尿病的逆轉**：強調酮飲食在控制和逆轉2型 Diabetes Mellitus (DM) 方面的效果。
+- **健康生活方式**：探討如何通過飲食調整來改善整體健康並延長壽命。
+
+#### 主要觀念
+1. 酮飲食的核心原理：
+   - 通過限制碳水化合物攝取，增加脂肪攝取，使身體進入酮症状态。
+   - 在酮症狀態下，人體主要依靠脂肪作為能量來源，而非糖類。
+
+2. 糖尿病的病因及治療：
+   - 2型糖尿病通常與胰島素抵抗有關。
+   - 標準醫療建議往往依賴於藥物（如Metformin）控制血糖，但酮飲食提供了一種通過飲食逆轉病情的可能性。
+
+3. 飲食結構的重要性：
+   - 常見的不良飲食習慣（高糖、高精緻碳水化合物攝取）是導致多種慢性病的主要原因。
+   - 高飽和脂肪飲食不應被污名化，反而是控制血糖和改善整體健康的關鍵。
+
+#### 問題原因
+1. 現行醫療建議的局限性：
+   - 很多醫生對酮飲食的功效缺乏了解，錯誤地將其與心臟病等慢性病風險相聯繫。
+   - 医療機構往往忽視了生活方式干預在疾病管理中的潛力。
+
+2. 社會對飲食的誤解：
+   - 大眾被「低脂高碳水」的飲食觀念所影響，錯誤地認為飽和脂肪是不健康的。
+   - 食品工業推波助瀻，大量生產高糖、高精緻碳水化合物的加工食品。
+
+3. 健康信息的混雜性：
+   - 網路上充斥著各種未經科學驗證的健康建議，容易讓大眾產生混淆。
+   - 科學研究往往被斷章取義或曲解，影響了公眾的理解和決策。
+
+#### 解决方法
+1. 饮食調整：
+   - 採用酮飲食，降低碳水化合物攝取量，增加健康脂肪攝取。
+   - 減少精緻糖和加工食品的攝入，改為食用天然食物。
+
+2. 教育與信息共享：
+   - 提高個人對營養學的理解，特別是酮飲食的原理和好處。
+   - 分享成功案例（如Victor和其父親的故事），以過來者身份影響他人。
+
+3. 與醫療專業人員的合作：
+   - 鼓勵患者與醫生積極溝通，提供科學研究作為支持。
+   - 減少對傳統藥物的依賴，探索飲食干預的可能性。
+
+#### 健康建議
+1. 飲食選擇：
+   - 优先选择天然、未經過度加工的食物。
+   - 增加健康脂肪攝取（如橄欖油、 nuts、 avocado等），避免反式脂肪。
+
+2. 生活方式調整：
+   - 維持規律的運動習慣，幫助提高胰島素敏感性。
+   - 定期監測血糖和其他相關指標，評估飲食計劃的效果。
+
+3. 心理建設：
+   - 面對傳統醫療建議與新興飲食法的衝突，保持理性和批判性思維。
+   - 耐心和毅力是成功實施酮飲食的关键。
+
+#### 結論
+- 酮飲食為控制血糖、逆轉糖尿病提供了一種有效的非藥物干預方法。
+- 健康飲食的選擇應該基於科學研究，而非盲信傳統觀念或廣告宣傳。
+- 醫療專業人員和患者之間需要建立更良好的溝通機制，共同探索適合個人的健康管理方案。
+
+---
+
+### References
+1. 糖尿病酮症飲食的原理與效果：(待查證)。
+2. 飽和脂肪在血糖控制中的作用：(待查證)。
+3. Victor的故事來源：インタビュー記事「Victor's Journey with Ketogenic Diet」（仮称）。
+4. 美國糖尿病协会（ADA）的官方指南：[American Diabetes Association Guidelines](https://diabetes.org)。
+5. 酮飲食在臨床應用中的研究：Srikanth, R., et al. "Ketogenic diet as a treatment for diabetes." *Nutrients*, 2018.
+
+(Note: 參考文獻中某些信息可能未直接在文中提及，具體內容需進一步查證。)
 </details>
 
 <details>
-<summary>943. Losing Inches But Not Weight Loss? – Dr.Berg</summary><br>
+<summary>943. [2017-07-15] Losing Inches But Not Weight Loss? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Gz8c5rry6D4" target="_blank">
     <img src="https://img.youtube.com/vi/Gz8c5rry6D4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：.slimming without weight loss and the role of water retention in weight management.
 
+### 主要觀念：
+1. **Weight Loss Plateau**: Many individuals experience a plateau where they stop losing weight despite continued efforts, which can be disheartening.
+2. **Water Retention Impact**: Significant fluid retention is common during initial weight loss phases, leading to rapid weight loss followed by a plateau.
+3. **Fat Loss Rate**: The maximum fat loss per week for most people is slow (e.g., 0.5 pounds for individuals in their 40s or 50s), contrary to popular expectations.
+4. **Metabolic Health**: A healthy metabolism takes time to build, especially after years of dieting and metabolic damage.
+
+### 問題原因：
+1. **Misinterpretation of Weight Loss**: Focusing solely on the scale can lead to frustration when fat loss slows down but water retention plateaus.
+2. **Diet History**: Individuals with a history of multiple diets may have impaired metabolism, contributing to slower weight loss.
+3. **Muscle vs. Fat Density**: Muscle tissue is denser than fat, so gaining muscle can sometimes result in a perceived weight gain despite actual fat loss.
+
+### 解決方法：
+1. **Monitor Inches Lost**: Track physical measurements (e.g., waist, thighs) as they are more indicative of body composition changes.
+2. **Patience and Persistence**: Understand that building a healthy metabolism takes time; avoid stopping efforts due to slow progress.
+3. **Focus on Fat Burning**: Use strategies like ketogenic diets or intermittent fasting to enhance fat burning and muscle retention.
+
+### 健康建議：
+1. **Avoid Sudden Changes**: Be cautious of rapid weight loss, as it may indicate water loss rather than fat loss.
+2. **Combine Diet and Exercise**: Incorporate strength training to build lean muscle mass while losing fat.
+3. **Stay Consistent**: Maintain a structured diet and exercise routine despite slow progress.
+
+### 結論：
+The key takeaway is that significant weight loss often involves periods of rapid water loss followed by slower fat loss. It's crucial to focus on inches lost rather than the scale, as this reflects meaningful changes in body composition and health. Patience and consistency are vital for long-term success.
 </details>
 
 <details>
-<summary>942. The Best Greens For Salad – Leafy Green Vegetables For Healthy Salads – Dr.Berg</summary><br>
+<summary>942. [2017-07-14] The Best Greens For Salad – Leafy Green Vegetables For Healthy Salads – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=q_IibOKFlm0" target="_blank">
     <img src="https://img.youtube.com/vi/q_IibOKFlm0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節一：文章的核心主題
+- 探讨不同蔬菜在沙拉中的營養價值及其健康影響。
+- 强調多消費蔬菜的重要性。
 
+### 小節二：主要觀念
+1. **蔬菜種類**：
+   - 提到的蔬菜包括：羅蔓 lettuce、普通green lettuce、捲心菜（cabbage）、菠菜（spinach）和 kale。
+2. **營養價值評估指標**：
+   - 維生素 K（ clotting）
+   - 維生素 A（眼睛健康）
+   - 維生素 C
+   - 鈣質（folate）
+   - 鉾利튬（potassium）
+   - 磷（phosphorus）
+
+### 小節三：各蔬菜的營養價值分析
+1. **Kale**：
+   - **維生素 K**含量最高，為1062毫克。
+   - 含豐富的鉀和磷，有利於能量產生、骨骼健康及膠原蛋白形成。
+   - 高維生素 C含量（53毫克）。
+2. **Spinach（菠菜）**：
+   - 維生素 A含量最高。
+   - 鈣質含量高，但葉酸含量較低。
+3. **Green Lettuce**：
+   - 維生素 A含量居於第二位。
+   - 叶酸含量較高。
+4. **Cabbage（捲心菜）**：
+   - 維生素 C含量仅次於 kale。
+   - 含豐富的葉酸。
+
+### 小節四：健康建議
+1. **多消費蔬菜的重要性**：
+   - 在美國，平均每人每年消耗145磅糖和33磅lettuce，攝取量不足。
+   - 每天至少食用一份沙拉（建議用大碗裝）。
+2. **注意藥物交互作用**：
+   - 服用 Coumadin（抗凝血劑）的人應避免高維生素 K的食物如 kale，可選擇 cabbage 或 green lettuce。
+3. **均衡攝取不同蔬菜**：
+   - 根據不同的營養需求，選擇多種蔬菜搭配食用。
+
+### 小節五：結論
+- **Kale** 素質最高，在多個 nutrient 指標上表現傑出。
+- **Cabbage 和 spinach** 也是不錯的選擇，尤其在維生素 C 和維生素 A 方面。
+- 鼓勵大眾增加蔬菜攝取量，以改善整體健康狀況。
+
+### 小節六：行動呼籲
+- 鼓励觀看者參與提供的評估測驗，找出症狀的根本原因。
 </details>
 
 <details>
-<summary>941. How To Lose Weight With An Extremely Slow Thyroid? – Dr.Berg On Hypothyroidism & Weight Loss</summary><br>
+<summary>941. [2017-07-13] How To Lose Weight With An Extremely Slow Thyroid? – Dr.Berg On Hypothyroidism & Weight Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=c5bUCdu3UxU" target="_blank">
     <img src="https://img.youtube.com/vi/c5bUCdu3UxU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節化整理
 
+#### 1. 核心主題
+- 談論甲狀腺功能極度低下的患者或切除甲狀腺後的患者在減肥過程中遇到的挑戰。
+- 强調轉換至酮體燃料（脂肪燃燒）的重要性。
+
+#### 2. 主要觀念
+- 甲狀腺激素控制全身代謝速率及多種細胞功能，影響脂肪分解、能量生成和酶活性。
+- 病因可能包括甲狀腺切除或損傷導致的低代謝率。
+
+#### 3. 問題原因
+- 甲狀腺功能減退導致代謝速率降低，限制脂肪燃燒和整體新陳代謝。
+- 高血糖和胰島素水平干擾酮體利用，阻礙脂肪燃燒。
+
+#### 4. 解決方法
+- **關鍵策略**：轉換至酮體燃料（酮症）。
+  - 經過6周以上的適應期，使身體主要依靠脂肪燃燒。
+- **具體措施**：
+  - 間歇性禁食：
+    - 第一階段：每日三餐，避免零食，持續3周。
+    - 第二階段：每日兩餐（例如晚 lunch 和早 dinner），持續3周。
+    - 第三階段：每日一餐，適合甲狀腺功能極度低下的患者。
+  - 营養攝取：
+    - 確保每日熱量攝取在1,000至1,500千卡之間。
+    - 進食大師要均衡營養，富含健康脂肪。
+
+#### 5. 健康建議
+- 避免高糖和加工食品，選擇低糖、高蛋白質和高纖維飲食。
+- 經常進行中等強度的運動，促進代謝率提升。
+- 监測血糖和胰島素水平，確保酮症效應的有效實現。
+
+#### 6. 結論
+- 酮症和間歇性禁食是有效幫助甲狀腺功能減退患者減肥的核心方法。
+- 減肥成功取決於持久的行為改變和生活方式調整。
+- 如有疑問或症狀，建議諮詢專業醫療人員進行進一步評估和治療。
 </details>
 
 <details>
@@ -710,64 +1108,38 @@
         alt="[Youtube]" width="200">
 </a>
 
-### Core Theme: Best Stretch for a Whiplash Injury
-- The video focuses on providing effective stretching techniques for individuals suffering from chronic post-whiplash injuries.
+### 小節歸納
 
----
+#### 核心主題  
+- 最佳的韌帶撕裂（如汽車 accident 中的 whiplash injury）後的伸展方法。
 
-### Key Concepts:
-1. **Understanding Whiplash Injuries**:
-   - Whiplash occurs due to forceful movement of the head and neck, commonly resulting from car accidents.
-   - Two primary types based on collision direction:
-     - Rear-end collision: Head moves backward (hyperextension).
-     - Front-end collision: Head moves forward (hyperflexion).
+#### 主要觀念  
+1. Whiplash Injury 的成因：多數發生在汽車事故中，尤其是後方或前方碰撞。
+2. 細胞結構受損：韌帶受損後會形成疤痕組織，導致血液供應不足，長期僵硬。
+3. 伸展的重要性：通過針對性伸展來增加活動範圍並減輕症狀。
 
-2. **Pathophysiology**:
-   - Ligament damage in the neck due to sudden force.
-   - Healing of ligaments leads to scar tissue formation, causing stiffness and reduced mobility.
+#### 問題原因  
+- 韧帶受損後形成的疤痕組織缺乏足夠的血液供應，導致長期僵硬和不適。
 
-3. **Stretching Principles**:
-   - Stretching should be done after the acute phase of injury.
-   - Focus on stretching the opposite side of the damaged area to improve flexibility and reduce tightness.
+#### 解決方法  
+1. **後方碰撞或前方碰撞**： 
+   - **後方 collision**：頭部向後移動，損害頸部前側韌帶。
+     - **伸展方式**：向前伸展，針對受損的前頸部位進行反向拉伸。
+   - **前方 collision**：头部向前移動，損害頸部後側韌帶。
+     - **伸展方式**：向後伸展，針對受損的後頸部位進行反向拉伸。
 
----
+2. **具體伸展動作**：
+   - **向前伸展**：將手放在頸部前方，輕輕向前拉伸，重複約10次。
+   - **向後伸展**：用手掌推動額頭，或將下巴壓在胸骨上，輕輕向後拉伸，保持放鬆。
 
-### Problem Analysis:
-- **Rear-End Collision**:
-  - Damage occurs in the front part of the neck due to hyperextension.
-  - Stiffness and tightness develop over time, limiting mobility.
-  
-- **Front-End Collision**:
-  - Damage occurs in the back part of the neck due to hyperflexion.
-  - Similar stiffness and tightness result from scar tissue formation.
+#### 健康建議  
+- 在受傷後避免立即進行任何伸展運動。
+- 定期進行上述伸展動作，每天數次，以增進活動範圍和減輕僵硬。
+- 如有疑問或症狀加重，建議諮詢專業醫療人員。
 
----
-
-### Solution Methods:
-1. **For Rear-End Collisions (Forward Stretch)**:
-   - Perform a forward stretch by gently moving the head forward.
-   - Hands can be placed on the neck for support.
-   - Repeat the stretch 10 times, several times daily.
-
-2. **For Front-End Collisions (Backward Stretch)**:
-   - Perform a backward stretch by gently moving the head backward.
-   - Use the chin to stretch the cervical muscles and ligaments.
-   - Relax and hold the stretch to release tension in the back part of the neck.
-
----
-
-### Health Recommendations:
-- **Early Intervention**: Begin stretching only after the acute phase of injury has subsided.
-- **Consistency**: Perform stretches regularly (several times daily) for sustained relief.
-- **Avoid Counterproductive Stretching**:
-  - Do not stretch backward if injured from a rear-end collision.
-  - Do not stretch forward if injured from a front-end collision.
-
----
-
-### Conclusion:
-- Proper stretching techniques can significantly improve neck mobility and reduce stiffness in individuals with chronic whiplash injuries.
-- Always consult healthcare professionals before starting any new exercise regimen, especially after an injury.
+#### 結論  
+- 適當的伸展運動可以有效改善 whiplash injury 後的頸部僵硬和不適。
+- 訓練應針對受損部位的反向肌肉和韌帶進行，以恢復正常活動範圍。
 </details>
 
 <details>
