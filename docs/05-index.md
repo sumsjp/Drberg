@@ -10,113 +10,528 @@
 </details>
 
 <details>
-<summary>599. How to Make Gomashio</summary><br>
+<summary>599. [2016-12-09] How to Make Gomashio</summary><br>
 
 <a href="https://www.youtube.com/watch?v=mUOCtSAZEkQ" target="_blank">
     <img src="https://img.youtube.com/vi/mUOCtSAZEkQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理與分析
 
+#### 核心主題
+- 介紹一種名為「Gasio」的日式調味料。
+- 探讨其成分、健康益處及食用方式。
+
+#### 主要觀念
+1. **Gasio的定義與來源**：
+   - Gasio是一種日本傳統調味料，主要成分為芝麻和鹽。
+2. **獨特性質**：
+   - 含有珍貴的維生素T，地球上僅少數幾種生物或物質含此營養素（如芝麻、蝓及白蟎）。
+3. **食用價值**：
+   - 具備香脆、鹹香的口感，適合搭配多種食物（如魚類、蔬菜、沙拉等）。
+
+#### 問題原因
+- 維生素T的稀有性可能導致Gasuo的特殊性和健康益處未被廣泛認知。
+
+#### 解決方法
+- 推廣Gasuo的食用，尤其是通過簡單的家庭自制方式（如使用密封罐保存），以增加其普及度和利用率。
+
+#### 健康建議
+1. **營養價值**：
+   - 芝麻提供豐富的蛋白質、健康脂肪及礦物質。
+   - 鹽則增添風味，適量攝取對健康有益。
+2. **食用方式**：
+   - 可作為蘸料或直接撒於食物表面，增加口感和風味。
+
+#### 結論
+- Gasuo不僅是一種美味的調味料，更富含珍貴營養成分，值得被更多人認識和使用。
 </details>
 
 <details>
-<summary>598. Pork vs. Chicken: Which is Healthier? – Dr.Berg</summary><br>
+<summary>598. [2016-12-08] Pork vs. Chicken: Which is Healthier? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=NwIEJdHG2V8" target="_blank">
     <img src="https://img.youtube.com/vi/NwIEJdHG2V8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：雞肉與豬肉的健康比較分析
 
+#### 核心主題
+本文探討了商業化生產的雞肉和豬肉的健康風險，強調選擇來源於 pasture-raised（草饲）產品的重要性。
+
+#### 主要觀念
+1. **商業化動物養殖的危害**：
+   - 飼料中含 GMO 玉米和大豆，導致 pesticide 殡用。
+   - 使用抗生素和砷基藥物，影響消費者健康。
+   - 甲醛用於防止沙門氏菌污染，具毒性。
+
+2. ** pasture-raised 與 free-range 的差異**：
+   - pasture-raised 表示動物可以自由放牧，攝取天然草食。
+   - free-range 並非完全自然，僅限於 barn 中活動。
+
+3. **健康肉類的選擇標準**：
+   - 選擇有機產品以避免 GMO 粮食。
+   - 實驗室肉類加工過程中常添加多種藥物，需注意。
+
+#### 問題原因
+1. 工廠化養殖中，動物暴露於有害農藥、抗生素和有毒化學物質，直接影響其肉質安全。
+2. 雖然雞肉和豬肉看似健康，但商業加工過程中添加的防腐劑和其他添加物使其成為潛在健康風險來源。
+
+#### 解決方法
+1. **購買 pasture-raised 製品**：
+   - 確保肉類來源於自然放牧的動物。
+   - 選擇有機標籤，以避免 GMO 和有害農藥。
+
+2. **注意食品標籤**：
+   - 檢查是否為「無抗生素」、「無激素」和「無硝酸鹽」等加工產品。
+   - 選擇 Paleo 腸肉，避免添加糖分。
+
+#### 健康建議
+1. **飲食選擇**：
+   - 猪肉因脂肪含量較高，在低碳水化合物或酮genesis diet 中更有利於控制胰島素水平。
+   - 雖然雞肉瘦肉部分健康，但需注意皮膚的脂肪含量。
+
+2. **消費者的覺醒**：
+   - 消費者需瞭解並選擇更健康的肉類來源，避免商業化加工產品。
+   - 支持小農和 pasture-raised 製品，雖然價格較高，但健康價值更高。
+
+#### 總結
+本文強調了商業化養殖對消費者健康的危害，並建議選擇 pasture-raised 和有機肉類以提高健康效益。豬肉因其脂肪含量在特定飲食結構中更為優選，而雞肉若來源於自然放牧則可視為較健康的选择。
 </details>
 
 <details>
-<summary>597. The REAL Causes of Fatty Liver Disease (NAFLD) – Dr.Berg</summary><br>
+<summary>597. [2016-12-07] The REAL Causes of Fatty Liver Disease (NAFLD) – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=bfwjORgy6ZM" target="_blank">
     <img src="https://img.youtube.com/vi/bfwjORgy6ZM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：非酒精性脂肪肝病（NAFLD）
+- 非酒精性脂肪肝病是指脂肪在肝臟中積累，通常與過量飲酒無關。
+- 這種疾病在全球範圍內影響了大量人群。
 
+### 主要觀念：
+1. **病因**：
+   - 绦皇的主要原因是胰島素抵抗（Insulin Resistance）。
+   - 胰島素是一種調節血糖的激素，但即使是少量的胰島素也能將碳水化合物轉化為膽固醇和脂肪，這些物質會在肝臟中積累，導致脂肪肝。
+
+2. **臨床表現**：
+   - 病情早期通常無明顯症状。
+   - 肝功能幾乎完全喪失（約90%）時才可能在血液檢查中發現異常。
+   - 脫水晚期可能伴隨 Cirrhosis（肝硬化）、纖維化和器官功能減退。
+
+3. **病理生理學**：
+   - 胰島素抵抗導致肝臟對胰島素的敏感性降低，進而引發更多的胰島素分泌。
+   - 長期高胰島素血症會進一步加重脂肪在肝臟中的積累。
+
+### 問題原因：
+- **胰島素抵抗**：肝臟對胰島素的作用不敏感，導致更多胰島素被分泌以代償，最終引發脂肪肝。
+- **飲食因素**：高糖、高碳水化合物的飲食會加重胰島素 resistance 和脂肪沉積。
+
+### 解決方法：
+1. **生活方式調整**：
+   - **飲食控制**：避免攝取糖分和高齡bohydrate食物，增加蔬菜攝取量。
+   - **運動**：規律的有氧運動可以提高胰島素敏感性，幫助降低體脂。
+
+2. **營養補充**：
+   - **Choline（膽堿）**：一種必需營養素，有助於脂肪代謝和肝臟健康。
+   - **十字花科蔬菜**：如西兰花、捲心菜等，富含硫化物，具有抗氧化作用，能幫助清潔肝臟。
+
+3. **藥物與補充劑**：
+   - 特定的營養補充劑（如ruciferous concentrate）可以作為輔助治療手段，但需在醫生指導下使用。
+
+### 健康建議：
+- 遵循整體健康的生活方式，包括均衡飲食、規律運動和充足睡眠。
+- 避免高糖和高齡bohydrate食物的攝取。
+- 多食用蔬菜，尤其是十字花科蔬菜，以支持肝臟健康。
+- 如有疑問或病情嚴重，建議諮詢專業醫療人員並考慮參加結構化的健康管理計劃。
+
+### 結論：
+非酒精性脂肪肝病是一種可逆性疾病，通過生活方式調整和飲食控制可以有效改善。關鍵在於早期干預，採取整體性的健康管理策略，以避免病情進一步惡化。
 </details>
 
 <details>
-<summary>596. Insulin Resistance, Potassium & Blood Pressure – Dr. Berg</summary><br>
+<summary>596. [2016-12-06] Insulin Resistance, Potassium & Blood Pressure – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=MFmjLloYN7A" target="_blank">
     <img src="https://img.youtube.com/vi/MFmjLloYN7A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 調整後的文章結構及重點整理：
 
+---
+
+#### **核心主題**  
+- **Insulin Resistance, Potassium, and Blood Pressure**  
+  - 中文翻譯：胰島素抵抗、血鉀和血壓之間的關係。
+
+---
+
+#### **主要觀念**  
+1. **Potassium Requirement**:  
+   - The daily recommended potassium intake is 4700 mg.  
+     中文翻譯：每日建議攝取量為4700毫克。
+   - Most people fail to meet this due to insufficient vegetable consumption (typically only 5 cups or fewer per day).  
+     中文翻譯：由於蔬菜攝取量不足（通常每天僅5杯或更少），大部分人無法達到此標準。
+
+2. **Sodium and Potassium Ratio**:  
+   - The ideal ratio is 1:4 (more potassium than sodium).  
+     中文翻譯：理想的鈉與鉀比例為1:4（鉀多於鈉）。
+   - Most individuals consume four times as much sodium as potassium, leading to fluid retention and high blood pressure.  
+     中文翻譯：大部分人攝取的鈉量是鉀的四倍，導致水分潴留和血壓升高。
+
+3. **Role of Potassium in Blood Pressure Regulation**:  
+   - Potassium acts as a physiological relaxer, softening arteries and reducing blood pressure.  
+     中文翻譯：鉀作為生理性的放鬆劑，可以軟化動脈並降低血壓。
+   - Low potassium levels are linked to high blood pressure, arrhythmias, and atrial fibrillation.  
+     中文翻譯：低血鉀與高血壓、心律不整和房顫有關。
+
+4. **Impact of Diuretics**:  
+   - Thiazide diuretics, commonly prescribed for high blood pressure, deplete potassium levels.  
+     中文翻譯：常用于治療高血壓的利尿劑（如噻嗪類）會降低鉀水平。
+   - This reduction in potassium worsens blood pressure control and increases reliance on additional medications.  
+     中文翻譯：這會使血壓控制惡化，增加對其他藥物的需求。
+
+5. **Insulin's Role in Potassium Metabolism**:  
+   - Insulin is essential for potassium absorption into cells.  
+     中文翻譯：胰島素在鉀的吸收中起關鍵作用。
+   - Insulin resistance or diabetes leads to intracellular potassium deficiency, exacerbating blood pressure issues.  
+     中文翻譯：胰島素抵抗或糖尿病會導致細胞內低血鉀，進一步惡化血壓問題。
+
+---
+
+#### **問題原因**  
+- **Nutritional Deficiency**:  
+  - Insufficient vegetable intake leads to low potassium levels.  
+    中文翻譯：蔬菜攝取不足導致低血鉀。
+- **Imbalanced Sodium-to-Potassium Ratio**:  
+  - High sodium intake from processed foods and snacks disrupts the natural balance.  
+    中文翻譯：加工食品和零食中的高鈉攝取打亂了自然平衡。
+- **Medication Side Effects**:  
+  - Diuretics used for blood pressure management deplete potassium levels.  
+    中文翻譯：用於血壓控制的利尿劑會降低鉀水平。
+
+---
+
+#### **解決方法**  
+1. **Increase Vegetable Intake**:  
+   - Consume 7-10 cups of vegetables daily to meet potassium requirements.  
+     中文翻譯：每日攝取7-10杯蔬菜以滿足鉀需求。
+2. **Adjust Sodium and Potassium Intake**:  
+   - Focus on reducing sodium intake while increasing potassium intake rather than restricting salt entirely.  
+     中文翻譯：著重於降低鈉攝取量，同時增加鉀攝取量，而非完全限制鹽分攝取。
+3. **Monitor Medication Effects**:  
+   - Use diuretics cautiously and supplement with potassium if necessary under medical supervision.  
+     中文翻譯：在醫生的監督下謹慎使用利尿劑，如有必要可補充鉀。
+
+---
+
+#### **健康建議**  
+- Incorporate a variety of potassium-rich foods, such as bananas, spinach, potatoes, and oranges, into your diet.  
+  中文翻譯：將富含鉀的食物（如香蕉、菠菜、馬鈴薯和橘子）納入飲食中。
+- Limit the consumption of processed foods high in sodium to maintain a healthy sodium-to-potassium ratio.  
+  中文翻譯：限制加工食品的攝取，這些食品通常高鈉低鉀。
+- Regularly monitor blood pressure and potassium levels, especially if taking medications that may affect potassium balance.  
+  中文翻譯：定期監測血壓和血鉀水平，尤其是服用可能影響鉀平衡的藥物時。
+
+---
+
+#### **結論**  
+- Addressing insulin resistance and managing potassium levels are critical for effective blood pressure control.  
+  中文翻譯：解決胰島素抵抗問題並管理血鉀水平對於有效控制血壓至關重要。
+- A diet rich in vegetables and balanced in sodium and potassium can significantly improve cardiovascular health.  
+  中文翻譯：富含蔬菜且鈉與鉀平衡的飲食可以顯著改善心臟健康。
 </details>
 
 <details>
-<summary>595. The Real Causes of Depression – Dr. Berg</summary><br>
+<summary>595. [2016-12-05] The Real Causes of Depression – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=bBLq0lQmCvg" target="_blank">
     <img src="https://img.youtube.com/vi/bBLq0lQmCvg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- The article discusses the challenges and complexities of overcoming systemic barriers, particularly in the context of local integrated human systems.  
+- It emphasizes the importance of understanding and addressing core issues such as cultural biases, resource allocation, and social dynamics.
 
+**英文段落**: "It is Universal It is Pretty hard to overcome the press without fear that the first impression local system integrated Human Is Our expert it does not allow curves"  
+**中文翻譯**: "普遍而言，克服пресс（媒體）而不擔心第一印象的本地集成人類專家系統不允许曲線是相當困難的。"
+
+---
+
+### 主要觀念  
+- **Systemic Barriers**: The article highlights the difficulty in navigating rigid, top-down systems that prioritize efficiency over adaptability.  
+- **Cultural and Social Dynamics**: It underscores the influence of cultural perceptions and social hierarchies on individual and collective behavior.  
+- **Resource Allocation**: The piece emphasizes the uneven distribution of resources and opportunities, particularly in urban versus rural settings.  
+- **Individual vs. Collective Goals**: There is a tension between personal aspirations and broader societal expectations, often leading to conflict or misalignment.
+
+**英文段落**: "The fastest people like We apologise 62 flash that were accompanied with it and National wildlife fashion show How the weather cities person Switch is superb Monaco và and You're lacking Zing Me Up against other person to its full and press enter valid and restaurant show"  
+**中文翻譯**: "最快的人們 likes 我们道歉 62 閃光 伴隨著它，以及國家野生動植物時尚秀 如何天氣 城市 人 Switch 是超凡的 蒙特卡洛 和 您缺乏 Zing Me Up 對抗其他人 到其最大程度 并按Enter有效和餐廳展示。"
+
+---
+
+### 問題原因  
+- **Inflexible Systems**: The rigidity of traditional systems prevents adaptability and innovation.  
+- **Cultural Misalignment**: Prevailing cultural norms may hinder progress or lead to unintended consequences.  
+- **Resource Inequality**: Unequal access to resources exacerbates disparities between different groups.  
+- **Miscommunication**: Lack of clear communication channels leads to misunderstandings and inefficiencies.
+
+**英文段落**: "It's not what it seems because What happened The fastest people like We apologise 62 flash that were accompanied with it and National wildlife fashion show How the weather cities person Switch is superb Monaco và and You're lacking Zing Me Up against other person to its full and press enter valid and restaurant show"  
+**中文翻譯**: "這並非表面現象，因為事情的本質在於 最快的人們 likes 我们道歉 62 閃光 伴隨著它，以及國家野生動植物時尚秀 如何天氣 城市 人 Switch 是超凡的 蒙特卡洛 和 您缺乏 Zing Me Up 對抗其他人 到其最大程度 并按Enter有效和餐廳展示。"
+
+---
+
+### 解決方法  
+- **Adaptability and Innovation**: Encourage flexible approaches to system design and implementation.  
+- **Cultural Sensitivity**: Foster environments where cultural diversity is respected and leveraged for collective progress.  
+- **Resource Redistribution**: Implement policies aimed at equitable resource allocation to bridge gaps between different regions or groups.  
+- **Improved Communication**: Establish transparent communication channels to mitigate misunderstandings and enhance collaboration.
+
+**英文段落**: "How the weather cities person Switch is superb Monaco và and You're lacking Zing Me Up against other person to its full and press enter valid and restaurant show"  
+**中文翻譯**: "如何天氣 城市 人 Switch 是超凡的 蒙特卡洛 和 您缺乏 Zing Me Up 對抗其他人 到其最大程度 并按Enter有效和餐廳展示。"
+
+---
+
+### 健康建議  
+- **Mental Health Awareness**: Recognize the stress and burnout associated with navigating rigid systems and promote mental health resources.  
+- **Community Support**: Build strong community networks to provide emotional and practical support for individuals facing systemic challenges.  
+- **Education and Empowerment**: Invest in education that equips individuals with skills to adapt to changing environments and advocate for their needs.
+
+**英文段落**: "National wildlife fashion show How the weather cities person Switch is superb Monaco và and You're lacking Zing Me Up against other person to its full and press enter valid and restaurant show"  
+**中文翻譯**: "國家野生動植物時尚秀 如何天氣 城市 人 Switch 是超凡的 蒙特卡洛 和 您缺乏 Zing Me Up 對抗其他人 到其最大程度 并按Enter有效和餐廳展示。"
+
+---
+
+### 結論  
+- The article concludes that overcoming systemic barriers requires a holistic approach that integrates adaptability, cultural sensitivity, equitable resource distribution, and effective communication.  
+- It emphasizes the need for collective effort to create inclusive systems that accommodate diverse needs while fostering individual and societal growth.
+
+**英文段落**: "Let Get Loud and clear White khi phat chi duoc den tat nhau Rise Of the tribez for technical workers of some Portable Visual friend is someone tell her That is in process to calm and fastest almond and Together with Which indicates you go hand-operated instapic your troops of their music speaks out which I"  
+**中文翻譯**: "讓我們LOUD AND CLEAR.WHITE Когда флат чи джузльон Rise Of the tribez для технических работников некоторых可移動的VISUAL друг 是有人告訴她 那是在進行中 平靜下來 并且最快杏仁 並且一起走 向手動操作的INSTAPIC 您的部隊 它們的音樂 speaks out which I."
 </details>
 
 <details>
-<summary>594. Sun-Dried Tomato Pesto Dip Recipe by Dr.Berg</summary><br>
+<summary>594. [2016-12-04] Sun-Dried Tomato Pesto Dip Recipe by Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=NzWW6slx7UU" target="_blank">
     <img src="https://img.youtube.com/vi/NzWW6slx7UU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 文章介紹了一款簡單易做的蘸醬食谱：日晒番茄pesto蘸醬。
+- 這款蘸醬適合各種場合，包括節假日和派對。
+- 强調了其製作過程的便捷性和顏色的美感。
 
+### 主要觀念
+1. **食譜介紹**:
+   - 名稱：日晒番茄pesto蘸醬。
+   - 口號：“dip week”系列食譜之一，強調蘸醬的多樣性與便利性。
+2. **製作步驟**:
+   - 製作過程簡單，適合家庭製作或携帶參加活動。
+3. **食用建議**:
+   - 適合搭配蔬菜一起食用。
+4. **個人偏好**:
+   - 主持人提到日晒番茄是其最喜歡的蘸醬口味之一。
+
+### 問題原因
+- 文章未提供具體食譜步驟，僅提及“click the link below”以獲得完整 рецепто（食谱）。
+- 食材比例和具體調理方法未在文中詳細說明。
+
+### 解決方法
+1. **觀看影片**:
+   - 推薦查看相關影片以獲取更完整的製作指導。
+2. **點擊鏈接**:
+   - 通過提供的链接獲得食譜的詳細步驟和材料清單。
+
+### 健康建議
+- 未提及健康方面信息，但可推測pesto蘸醬富含植物成分，具備一定的營養價值。
+- 搭配蔬菜食用可增加膳食纖維攝取，有益於健康飲食。
+
+### 結論
+- 文章旨在推薦一款簡單又好看的蘸醬食谱，適合多種場合使用。
+- 需透過影片或提供的鏈接獲得具體製作方法以實際操作。
 </details>
 
 <details>
-<summary>593. Transform Your Body in 1 Week – Dr. Berg's Fast Weight Loss Techniques</summary><br>
+<summary>593. [2016-12-04] Transform Your Body in 1 Week – Dr. Berg's Fast Weight Loss Techniques</summary><br>
 
 <a href="https://www.youtube.com/watch?v=6kECxmz0uww" target="_blank">
     <img src="https://img.youtube.com/vi/6kECxmz0uww/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+===== 文章整理 =====
 
+### 核心主題
+- 如何在一週內安全且有效地下降一個服飾尺寸。
+- 強調降低胰島素水平、改善睡眠、管理壓力、適當運動及補充營養的重要性。
+
+### 主要觀念
+1. **降低胰島素水平**：胰島素是影響體重管理和脂肪燃燒的關鍵因素。通过飲食策略控制胰島素水平，促進 fat-burning。
+2. **改善睡眠品質**：深度睡眠對於脂肪燃燒至關重要，建議每晚8小時的睡眠。
+3. **管理壓力**：壓力會導致皮質醇分泌增加，阻礙脂肪燃燒，需通過避免壓力源和放鬆技巧來降低壓力水平。
+4. **適當運動**：高強度間歇訓練（HIIT）結合低強度活動，如散步，以最大化健康收益。
+5. **營養補充**：短期使用特定的營養補充劑，如碘化钾、 nutritional yeast，以支持代謝和整體健康。
+
+### 問題原因
+- 高胰島素水平導致脂肪儲存，影響體重管理。
+- 睡眠不足或低品質睡眠會干擾荷爾蒙平衡，影響脂肪燃燒。
+- 高壓力水平導致皮質醇分泌增加，阻礙 fat-burning 并增加食欲。
+- 膳食中蔬菜攝取量不足，造成關鍵nutrient（如钾）缺乏。
+
+### 解決方法
+1. **飲食調整**：
+   - 采用間歇性斷食或低GI飲食策略，控制胰島素峰值。
+   - 確保每日攝入7-10杯蔬菜以補充 potassium 和其他必需nutrient。
+2. **睡眠優化**：
+   - 每晚確保8小時的高品質深度睡眠。
+   - 創造良好的睡環境，避免電子產品干擾和過度思慮。
+3. **壓力管理**：
+   - 避免壓力源，進行放鬆活動如瑜伽、冥想或散步。
+   - 使用nutritional yeast等補充劑幫助調節 adrenal function 和降低壓力反應。
+4. **運動計劃**：
+   - 進行高強度間歇訓練（HIIT），每次30-60分鐘，增強代謝率和脂肪燃燒。
+   - 搭配低強度的散步或長時間移動，促進全身健康。
+5. **營養補充**：
+   - 短期使用碘化钾補充劑（如Klear），每日攝取500毫克 potassium citrate，以應對ketogenic diet中 potassium 的流失。
+   - nutritional yeast來支持免疫系統和整體健康。
+
+### 健康建議
+- **飲食**：優先選擇高fiber、低GI食物，增加蔬菜攝取量。
+- **運動**：每周至少進行3次HIIT訓練，並保持日常散步習慣。
+- **壓力管理**：定期進行放鬆活動，避免長時間暴露於壓力環境。
+- **睡眠**：保持規律的作息時間，創造有利的睡眠條件。
+- **補充劑**：在短期内使用碘化钾和其他推薦的營養補充劑，以支持代謝和整體健康。
+
+### 總結
+通過結合飲食控制、運動、壓力管理和適當的營養補充，可以在一週內有效地下降一個服飾尺寸。這些方法不僅促進脂肪燃燒，還能改善整體健康狀況，提升生活品質。然而，建議在實施前諮詢專業醫療人員，確保適合個人健康狀況。
 </details>
 
 <details>
-<summary>592. Avocado Ranch Dip Recipe – Dr. Berg</summary><br>
+<summary>592. [2016-12-03] Avocado Ranch Dip Recipe – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=9l0rSikzMBQ" target="_blank">
     <img src="https://img.youtube.com/vi/9l0rSikzMBQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 花生醬的多樣化與創新食譜介紹。
 
+### 主要觀念  
+1. **健康飲食的重要性**：在節日或特殊場合中，保持健康的飲食習慣至關重要。
+2. **創新的蔬菜食用方法**：利用蔬菜來提升食物的風味和口感，使其更美味且更具吸引力。
+3. **社交場合中的飲食考量**：針對訪客到來的情況，提供既健康又美味的食物選擇。
+
+### 問題原因  
+- 節日飲食中常見高熱量、高脂肪的食物，容易破壞健康的飲食平衡。
+- 蔬菜通常被視為清淡或索然無味的食物，不易吸引大眾的食欲。
+
+### 解决方法  
+1. **使用蔬菜作為隱藏健康成分**：通過創新食譜（如花椰菜醬）來提升蔬菜的風味和口感，使其更容易被人接受。
+2. **多樣化的調味方式**：利用不同的香料、醬料或混合食材，增加食物的層次感和吸引力。
+
+### 健康建議  
+- 選擇低熱量、高纖維的食材來制作蘸醬或醬料，以保持飲食的健康平衡。
+- 多樣化飲食結構，確保攝取足夠的蔬菜和其他營養成分，促進整體健康。
+
+### 結論  
+- 通過創新的 culinary 方法，可以將看似普通的蔬菜转变为美味且健康的食品，既滿足味蕾又照顧到身體的需求。
 </details>
 
 <details>
-<summary>591. Cod Liver Oil Benefits – Dr.Berg</summary><br>
+<summary>591. [2016-12-03] Cod Liver Oil Benefits – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=CqlqOSCZmkI" target="_blank">
     <img src="https://img.youtube.com/vi/CqlqOSCZmkI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Core Theme (核心主題)
+- **Cod Liver Oil as a Nutritional Supplement**: 
+  - 鱼肝油作为一种营养补充剂
 
+### Key Concepts (主要觀念)
+1. **Vitamin A and D Balance**:
+   - 维生素A和D的平衡
+2. **Fat-Soluble Vitamins**:
+   - 脂溶性维生素的作用机制
+3. **Immune System Support**:
+   - 免疫系统支持
+4. **Calcium Metabolism**:
+   - 钙代谢的作用
+5. **Processed vs Unprocessed Cod Liver Oil**:
+   - 精制与未精制鱼肝油的差异
+
+### Problem Identification (問題原因)
+- **Inadequate Sun Exposure in Winter**:
+  - 冬季阳光照射不足导致维生素D缺乏
+- **Low-Fat Diet Deficiencies**:
+  - 低脂饮食可能导致维生素A和D不足
+- **Poor-Quality Processed Cod Liver Oil**:
+  - 低质量精制鱼肝油破坏了其中的营养成分
+
+### Solutions (解決方法)
+1. **Supplement with High-Quality Cod Liver Oil**:
+   - 使用高质量未精制鱼肝油补充维生素A和D
+2. **Avoid Traditional Processed Cod Liver Oil**:
+   - 避免使用高温处理的传统鱼肝油
+3. **Consider Fermented Options (Optional)**:
+   - 考虑发酵鱼肝油（需进一步验证）
+
+### Health Recommendations (健康建議)
+1. **Daily Intake During Winter Months**:
+   - 冬季每日服用一茶匙高质量未精制鱼肝油
+2. **Avoid Flu Shots (Personal Opinion)**:
+   - 作者建议避免流感疫苗（个人观点）
+3. **Maintain a Balanced Diet**:
+   - 保持均衡饮食，摄入足够的维生素A和D
+
+### Conclusion (結論)
+- **Fish Liver Oil as a Vital Nutrient Source**:
+  - 鱼肝油作为重要的营养来源
+- **Importance of Quality and Processing Method**:
+  - 质量和加工方法的重要性
 </details>
 
 <details>
-<summary>590. How to Make Raspberry Jam (Low Sugar) – Dr. Berg</summary><br>
+<summary>590. [2016-12-02] How to Make Raspberry Jam (Low Sugar) – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=jbjUBbYxzU0" target="_blank">
     <img src="https://img.youtube.com/vi/jbjUBbYxzU0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 文章圍繞冬季食譜和低糖食品的製作分享，特別強調無糖果醬及其應用於烘焙食證的可能性。
 
+### 主要觀念
+1. **冬季保暖食物的重要性**：強調冬季需要攝取溫暖、滋養的食物，如羊毛衣物和熱食。
+2. **自制低糖果醬的介紹**：
+   - 使用天然水果（如 raspberry）製作無糖果醬。
+   - 保留了水果的 freshness 和 bright taste。
+3. **健康益處**：強調該果醬為 low glycemic，適合控制血糖的人群。
+
+### 問題原因
+- 標準市售果醬常含有高糖分，可能對健康造成負擔，尤其是對 Diabetes 病患者而言。
+- 高糖飲食易導致肥胖和其他健康問題。
+
+### 解決方法
+1. **自制低糖果醬**：通過使用天然水果和避免添加糖來製作果醬，並保持其風味和营养价值。
+2. **多用途應用**：推薦該果醬用於烘焙食品（如 biscuit 和 Brie 拿破崙）以增加食證的健康指數。
+
+### 健康建議
+- 選擇低糖或無糖食品，特別是對於需要控制血糖的人群。
+- 通過使用天然食材製作食品，減少人工添加劑和高熱量成分的攝取。
+
+### 結論
+- 自制低糖果醬不僅健康，還能提升食證的風味，是一種值得推薦的冬季食品選擇。
 </details>
 
 <details>
