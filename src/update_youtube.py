@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+import random
 
 from lib.mytube import download_subtitle, get_video_list
 from lib.myai import get_summary
@@ -8,13 +9,13 @@ from lib.myai import get_summary
 channel_url = 'https://www.youtube.com/@Drberg/videos'
 
 # === 設定 CSV 檔案名稱 ===
-csv_file = 'video_list.csv'
 
 base_dir = os.path.dirname(os.path.abspath(__file__)) + '/../'
 script_dir = os.path.join(base_dir, 'scripts/')
 summary_dir = os.path.join(base_dir, 'summary/')  
 docs_dir = os.path.join(base_dir, 'docs/')
 readme_file = os.path.join(base_dir, 'README.md')  
+csv_file =  os.path.join(base_dir, 'src/video_list.csv')
 
 def update_list():
     # === yt-dlp 參數設定 ===
@@ -73,13 +74,16 @@ def download_script(df):
     
     # 計數器
     download_count = 0
-    max_downloads = 5000
+    max_downloads = 10
     
     # 優先字幕語言列表
     preferred_langs = ['en']
     
     # 從最後一筆往前處理
-    for idx in reversed(df.index):
+    lst = df.index
+    if random.random() < 0.5:
+        lst = reversed(lst)
+    for idx in lst:
         if download_count >= max_downloads:
             print(f"📌 已達到最大下載數量 ({max_downloads})")
             break
@@ -89,11 +93,10 @@ def download_script(df):
         
         # 檢查檔案是否已存在
         if os.path.exists(script_file):
-            print(f"📌 跳過已存在的字幕：{video_id}")
+            print(f"📌 跳過已存在的字幕：{idx}:{video_id}")
             continue
             
-        print(f"📌 下載字幕中：{video_id}")
-        download_count += 1
+        print(f"📌 下載字幕中：{idx}:{video_id}")
         
         try:
             subtitle_text, formatted_date = download_subtitle(video_id, preferred_langs)
@@ -103,6 +106,7 @@ def download_script(df):
                 with open(script_file, 'w', encoding='utf-8') as f:
                     f.write(subtitle_text)
                 print(f"✅ 字幕已儲存為：{script_file}") 
+                download_count += 1
             
                 # 更新 DataFrame 中的 upload_date
                 if formatted_date:
@@ -111,11 +115,9 @@ def download_script(df):
                     df.to_csv(csv_file, index=False)
                                                    
         except Exception as e:
-            print(f"❌ 下載失敗 {video_id}: {str(e)}")
+            print(f"❌ 下載失敗 {idx}:{video_id}: {str(e)}")
             continue
-
-        summerize_script()
-    
+   
     return df
 
 def summerize_script():
@@ -175,7 +177,9 @@ def make_doc(filename: str, video_list: list):
     details_template = """<details>
 <summary>{idx}. {date}{title}</summary><br>
 
-{image}
+<a href="https://www.youtube.com/watch?v={id}" target="_blank">
+    <img src="https://img.youtube.com/vi/{id}/maxresdefault.jpg" alt="[Youtube]" width="200">
+</a>
 
 {summary_file}
 </details>
@@ -183,9 +187,7 @@ def make_doc(filename: str, video_list: list):
 """
 
     # 圖片模板
-    image_template = """<a href="https://www.youtube.com/watch?v={id}" target="_blank">
-    <img src="https://img.youtube.com/vi/{id}/maxresdefault.jpg" alt="[Youtube]" width="200">
-</a>
+    image_template = """
 """
 
     try:
@@ -208,15 +210,12 @@ def make_doc(filename: str, video_list: list):
                     with open(summary_path, 'r', encoding='utf-8') as sf:
                         summary_content = sf.read()
                 
-                image_url = "https://img.youtube.com/vi/{id}/maxresdefault.jpg".format(id=id)
-                image_content = image_template.format(id=id)
-                
                 # 填入模板
                 content = details_template.format(
                     idx=video['idx'],
                     date=date_str,
                     title=video['title'],
-                    image=image_content,
+                    id=id,
                     summary_file=summary_content
                 )
                 

@@ -5,7 +5,6 @@
     <img src="https://img.youtube.com/vi/sTnbzWbKgvE/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 # 文章要點整理
 
 ## 核心主題
@@ -74,7 +73,6 @@
 <a href="https://www.youtube.com/watch?v=6mxb4If0onI" target="_blank">
     <img src="https://img.youtube.com/vi/6mxb4If0onI/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章重點整理
 
@@ -159,7 +157,6 @@
     <img src="https://img.youtube.com/vi/TPYllcOyeMA/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章整理：抗icrobial 饮品的功效与应用
 
 ---
@@ -214,7 +211,6 @@
 <a href="https://www.youtube.com/watch?v=x3vnCKivCjs" target="_blank">
     <img src="https://img.youtube.com/vi/x3vnCKivCjs/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理：健康與減重策略
 
@@ -306,7 +302,6 @@
     <img src="https://img.youtube.com/vi/7Nxn-rCA1Y4/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章重點整理  
 以下是文章的核心主題與主要內容，分為若干小節，供您參考：
 
@@ -381,7 +376,6 @@
 <a href="https://www.youtube.com/watch?v=350bk9Ph3ak" target="_blank">
     <img src="https://img.youtube.com/vi/350bk9Ph3ak/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理重點
 
@@ -463,7 +457,6 @@
     <img src="https://img.youtube.com/vi/rGu8php0XoY/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題
 - 皮肤健康与整体健康的紧密联系。
 - 影响皮肤健康的外部和内部因素。
@@ -531,7 +524,6 @@
 <a href="https://www.youtube.com/watch?v=TPjZvNA74ds" target="_blank">
     <img src="https://img.youtube.com/vi/TPjZvNA74ds/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### I. 核心主題:  
 - 介紹天然去除牙石（tartar）及其預防方法，探討牙石的形成原因、古代潔牙方法的借鑑以及現代自然療法的可行性。
@@ -610,7 +602,6 @@
     <img src="https://img.youtube.com/vi/2iZygvHLLMI/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題  
 - 探讨苹果醋和柠檬混合饮品对肝脏健康的潜在益处。
 
@@ -664,7 +655,6 @@
     <img src="https://img.youtube.com/vi/Lrrdnedfan8/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章重點整理
 
 #### 核心主題
@@ -703,7 +693,6 @@
 <a href="https://www.youtube.com/watch?v=R61GrYa6KKg" target="_blank">
     <img src="https://img.youtube.com/vi/R61GrYa6KKg/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 # 文章重點整理
 
@@ -746,7 +735,6 @@
 <a href="https://www.youtube.com/watch?v=BMfSBFPBAl4" target="_blank">
     <img src="https://img.youtube.com/vi/BMfSBFPBAl4/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章總結與結構化整理
 
@@ -822,7 +810,6 @@
 <a href="https://www.youtube.com/watch?v=NPHTkKgoEgA" target="_blank">
     <img src="https://img.youtube.com/vi/NPHTkKgoEgA/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章重點整理
 
@@ -903,7 +890,6 @@
     <img src="https://img.youtube.com/vi/xAT_1LXlJqM/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章整理：恢復肝臟健康的策略與建議
 
 #### 1. 核心主題  
@@ -959,7 +945,6 @@
 <a href="https://www.youtube.com/watch?v=Ku56lZTV7OY" target="_blank">
     <img src="https://img.youtube.com/vi/Ku56lZTV7OY/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章重點整理
 
@@ -1053,7 +1038,6 @@
     <img src="https://img.youtube.com/vi/vppzm2NsIYo/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章重點整理
 
 #### 核心主題
@@ -1102,7 +1086,6 @@
 <a href="https://www.youtube.com/watch?v=-u3k5CUmiXU" target="_blank">
     <img src="https://img.youtube.com/vi/-u3k5CUmiXU/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 小節歸納
 
@@ -1158,7 +1141,6 @@
 <a href="https://www.youtube.com/watch?v=x2ULTvo9zKc" target="_blank">
     <img src="https://img.youtube.com/vi/x2ULTvo9zKc/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理：避免糖分攝取對健康的影響與飲食建議
 
@@ -1241,7 +1223,6 @@
     <img src="https://img.youtube.com/vi/-gNgtkulaCY/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章題目：  
 **精製穀物攝取對健康的影響及其改善策略**
 
@@ -1298,7 +1279,6 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
 <a href="https://www.youtube.com/watch?v=e46xrn8c-eA" target="_blank">
     <img src="https://img.youtube.com/vi/e46xrn8c-eA/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理：提升代謝健康與實現酮症的研究與建議
 
@@ -1362,7 +1342,6 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
     <img src="https://img.youtube.com/vi/RHgDOwdZtfQ/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章重點整理
 
 #### 核心主題
@@ -1402,7 +1381,6 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
 <a href="https://www.youtube.com/watch?v=D-K2kwojNXw" target="_blank">
     <img src="https://img.youtube.com/vi/D-K2kwojNXw/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 小節歸納
 
@@ -1444,7 +1422,6 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
 <a href="https://www.youtube.com/watch?v=xgNvNlQ91p4" target="_blank">
     <img src="https://img.youtube.com/vi/xgNvNlQ91p4/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章主旨與結構整理
 
@@ -1502,7 +1479,6 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
 <a href="https://www.youtube.com/watch?v=3jZqe7RJ73M" target="_blank">
     <img src="https://img.youtube.com/vi/3jZqe7RJ73M/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 小節歸納
 
@@ -1577,7 +1553,6 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
     <img src="https://img.youtube.com/vi/9vC3mxSEqf0/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章重點整理
 
 #### 核心主題
@@ -1650,7 +1625,6 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
 <a href="https://www.youtube.com/watch?v=Ko414UcqKig" target="_blank">
     <img src="https://img.youtube.com/vi/Ko414UcqKig/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題： 
 - **.metabolomics（代謝組學）**在現代醫學中的應用，特別是在慢性病管理和個人化健康管理中的作用。
@@ -1726,7 +1700,6 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
     <img src="https://img.youtube.com/vi/RQM_4aaf8iY/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章整理：腎臟健康飲食指南
 
 ---
@@ -1792,7 +1765,6 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
     <img src="https://img.youtube.com/vi/uAfVC4l5uZ0/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章重點整理
 
 #### 核心主題
@@ -1851,7 +1823,6 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
     <img src="https://img.youtube.com/vi/DWOOo2VsyRQ/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章整理：貓兒症的最終治療法
 
 #### 核心主題
@@ -1906,7 +1877,6 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
 <a href="https://www.youtube.com/watch?v=IUGVoT9IwAI" target="_blank">
     <img src="https://img.youtube.com/vi/IUGVoT9IwAI/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章重點整理
 
@@ -1988,7 +1958,6 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
     <img src="https://img.youtube.com/vi/FDgXAW-53oQ/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題
 1. ** adaptogens 的研究**：文章主要探討了一種名為Riola的 adaptogen，其在應對壓力和運動中的效果。
 2. **Perceived Effort Reduction**：Riola 被發現可以顯著降低運動後的 perceived effort，使人感覺不那麼疲勞。
@@ -2026,7 +1995,6 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
 <a href="https://www.youtube.com/watch?v=2zaVRd4sNpM" target="_blank">
     <img src="https://img.youtube.com/vi/2zaVRd4sNpM/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題  
 - **主要.carbohydrate（碳水化合物）**：文章聚焦於一種名為 maltodextrin（麥芽糊精）的加工碳水化合物，強調其潛在的危害性和普遍存在性。
@@ -2090,7 +2058,6 @@ Maltodextrin 作为一种高度加工的碳水化合物，雖然被廣泛用於�
 <a href="https://www.youtube.com/watch?v=t2e4H8M2Q6k" target="_blank">
     <img src="https://img.youtube.com/vi/t2e4H8M2Q6k/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題
 - 長時間久坐對健康的多方面影響及應對策略。
@@ -2159,7 +2126,6 @@ Maltodextrin 作为一种高度加工的碳水化合物，雖然被廣泛用於�
     <img src="https://img.youtube.com/vi/2-2CheWxDlY/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 小結整理：自然療法的核心主題與建議
 
 1. **核心主題**
@@ -2200,7 +2166,6 @@ Maltodextrin 作为一种高度加工的碳水化合物，雖然被廣泛用於�
 <a href="https://www.youtube.com/watch?v=uBqNYt6oGCc" target="_blank">
     <img src="https://img.youtube.com/vi/uBqNYt6oGCc/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理與結構化分析
 
@@ -2261,7 +2226,6 @@ Maltodextrin 作为一种高度加工的碳水化合物，雖然被廣泛用於�
     <img src="https://img.youtube.com/vi/WW_pBDhJSkk/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章重點整理
 
 #### 核心主題
@@ -2317,7 +2281,6 @@ Maltodextrin 作为一种高度加工的碳水化合物，雖然被廣泛用於�
 <a href="https://www.youtube.com/watch?v=lkahiClvvg0" target="_blank">
     <img src="https://img.youtube.com/vi/lkahiClvvg0/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理：Ultra Processed Foods 对健康的影響與對策
 
@@ -2376,7 +2339,6 @@ Ultra Processed Foods 及其成分 glyphosate 是導致現代慢性疾病的關�
     <img src="https://img.youtube.com/vi/CgOeXzKHQuA/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題  
 - **HPV感染與皮膚問題**：文章探討了人乳頭瘤病毒（HPV）感染如何導致皮肤 tag 和疣的形成，並強調其與 cervical 癌症的密切關係。  
 
@@ -2413,7 +2375,6 @@ Ultra Processed Foods 及其成分 glyphosate 是導致現代慢性疾病的關�
 <a href="https://www.youtube.com/watch?v=4LEGd8r84Tc" target="_blank">
     <img src="https://img.youtube.com/vi/4LEGd8r84Tc/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章重點整理
 
@@ -2463,7 +2424,6 @@ Ultra Processed Foods 及其成分 glyphosate 是導致現代慢性疾病的關�
     <img src="https://img.youtube.com/vi/qUiVQtR9Onk/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題：Heart Rate Variability (HRV) 的概念與應用  
 - **定義**：心率變異性（HRV）是衡量心臟跳動之間時間差異的指標。  
 - **重要性**：HRV 越高，表示個體健康狀況越好；HRV 越低，則可能反映身體適應和恢復能力較弱。
@@ -2499,7 +2459,6 @@ Ultra Processed Foods 及其成分 glyphosate 是導致現代慢性疾病的關�
 <a href="https://www.youtube.com/watch?v=NP0XtAwFaIg" target="_blank">
     <img src="https://img.youtube.com/vi/NP0XtAwFaIg/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 關鍵主題與核心概念
 
@@ -2564,7 +2523,6 @@ Ultra Processed Foods 及其成分 glyphosate 是導致現代慢性疾病的關�
     <img src="https://img.youtube.com/vi/_ekWWHnwCbQ/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題：  
 - 癌症的發生與 mitochondria 的功能損傷密切相關。  
 - 癌症是一種代償性適應反應，當 mitochondria 遭受損害且能量供應不足時，癌細胞轉而依賴糖酵解（Warburg 效應）來获取能量。  
@@ -2625,7 +2583,6 @@ Warburg 效應是指癌細胞即使在有充足氧氣供應的情況下，仍偏
     <img src="https://img.youtube.com/vi/jzowdHBwu7o/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章整理：海鹽與健康的關係
 
 #### 核心主題
@@ -2675,7 +2632,6 @@ Warburg 效應是指癌細胞即使在有充足氧氣供應的情況下，仍偏
 <a href="https://www.youtube.com/watch?v=UNqDVQDZRgA" target="_blank">
     <img src="https://img.youtube.com/vi/UNqDVQDZRgA/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理：降低血壓的關鍵策略與健康建議
 
@@ -2735,7 +2691,6 @@ Warburg 效應是指癌細胞即使在有充足氧氣供應的情況下，仍偏
     <img src="https://img.youtube.com/vi/J82s2WCXNkk/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題：水的攝取與健康影響
 
 #### 主要觀念：
@@ -2768,7 +2723,6 @@ hydration的管理不僅涉及水量，還需要考慮鹽分攝取和飲水容�
 <a href="https://www.youtube.com/watch?v=EvFbDZrvfHo" target="_blank">
     <img src="https://img.youtube.com/vi/EvFbDZrvfHo/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 小節整理
 
@@ -2816,7 +2770,6 @@ hydration的管理不僅涉及水量，還需要考慮鹽分攝取和飲水容�
     <img src="https://img.youtube.com/vi/TmxKI5QqTKs/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題：自然療法治療痔疾
    - 文章探討了菝葜根（Colonial Root）作為治療痔疾的自然療法。
    - 强調其 historical 和 therapeutic 價值，特別是在美國土著和東方醫學中的應用。
@@ -2849,7 +2802,6 @@ hydration的管理不僅涉及水量，還需要考慮鹽分攝取和飲水容�
 <a href="https://www.youtube.com/watch?v=Rds8TjqbcMs" target="_blank">
     <img src="https://img.youtube.com/vi/Rds8TjqbcMs/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題
 - **胰島素抵抗與糖尿病**：探討胰島素抵抗如何導致2型糖尿病及其進展。
@@ -2893,7 +2845,6 @@ hydration的管理不僅涉及水量，還需要考慮鹽分攝取和飲水容�
 <a href="https://www.youtube.com/watch?v=9yr7A1fOuKM" target="_blank">
     <img src="https://img.youtube.com/vi/9yr7A1fOuKM/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章重點整理
 
@@ -2987,7 +2938,6 @@ hydration的管理不僅涉及水量，還需要考慮鹽分攝取和飲水容�
     <img src="https://img.youtube.com/vi/BBbQc_-rNw0/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題  
 - 胆鹽與氧化後代謝物（oxalates）在人體中的影響及其健康問題。
 
@@ -3033,7 +2983,6 @@ hydration的管理不僅涉及水量，還需要考慮鹽分攝取和飲水容�
     <img src="https://img.youtube.com/vi/vqzNWVVo5Is/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 小節歸納
 
 #### 1. 核心主題
@@ -3077,7 +3026,6 @@ Ashwagandha是一種源自古印度的adaptogen，具備多樣化的健康功效
 <a href="https://www.youtube.com/watch?v=BWVMkgjw9gY" target="_blank">
     <img src="https://img.youtube.com/vi/BWVMkgjw9gY/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理：壓力管理與皮質醇水平的影響及藝術療法的效果
 
@@ -3135,7 +3083,6 @@ Ashwagandha是一種源自古印度的adaptogen，具備多樣化的健康功效
 <a href="https://www.youtube.com/watch?v=l4kCN3Lgvdc" target="_blank">
     <img src="https://img.youtube.com/vi/l4kCN3Lgvdc/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理：提升線粒體功能以增強能量與整體健康
 
@@ -3195,7 +3142,6 @@ Ashwagandha是一種源自古印度的adaptogen，具備多樣化的健康功效
     <img src="https://img.youtube.com/vi/s41knuxzxOg/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 小節整理：應對壓力的營養策略
 
 #### 1. 核心主題
@@ -3235,7 +3181,6 @@ Ashwagandha是一種源自古印度的adaptogen，具備多樣化的健康功效
 <a href="https://www.youtube.com/watch?v=vx6RkgoxzgQ" target="_blank">
     <img src="https://img.youtube.com/vi/vx6RkgoxzgQ/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章重点整理
 
@@ -3294,7 +3239,6 @@ Ashwagandha是一種源自古印度的adaptogen，具備多樣化的健康功效
     <img src="https://img.youtube.com/vi/h81qq8Ne3go/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 小節整理：文章重點
 
 #### 1. 核心主題
@@ -3347,7 +3291,6 @@ Ashwagandha是一種源自古印度的adaptogen，具備多樣化的健康功效
 <a href="https://www.youtube.com/watch?v=zMuu68luxgg" target="_blank">
     <img src="https://img.youtube.com/vi/zMuu68luxgg/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理與分析
 
@@ -3423,7 +3366,6 @@ Ashwagandha是一種源自古印度的adaptogen，具備多樣化的健康功效
 <a href="https://www.youtube.com/watch?v=RwYKnxLxsZ0" target="_blank">
     <img src="https://img.youtube.com/vi/RwYKnxLxsZ0/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題：鎂在腦部健康的多面角色及其不同形式的應用
 
@@ -3509,7 +3451,6 @@ Ashwagandha是一種源自古印度的adaptogen，具備多樣化的健康功效
     <img src="https://img.youtube.com/vi/kng8mGSOKPQ/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章重點整理
 
 #### 核心主題
@@ -3579,7 +3520,6 @@ Ashwagandha是一種源自古印度的adaptogen，具備多樣化的健康功效
 <a href="https://www.youtube.com/watch?v=NemgfCwePag" target="_blank">
     <img src="https://img.youtube.com/vi/NemgfCwePag/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 總覽
 此篇文章探討了B12（methy钴胺素）缺乏症及其相關問題，包括其影響、 toxicity、 deficiency的原因、解決方法和健康建議。核心主題圍繞B12在人體中的重要性、缺乏症的早期徵兆、毒性作用以及如何預防和管理這些問題。
@@ -3685,7 +3625,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/KZPuEvVuTaw/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章整理與結構化分析
 
 ---
@@ -3774,7 +3713,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/qS_GSDbxCbE/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 小節整理：文章重點歸納
 
 #### 1. 核心主題
@@ -3815,7 +3753,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <a href="https://www.youtube.com/watch?v=b0hsCtm5DgI" target="_blank">
     <img src="https://img.youtube.com/vi/b0hsCtm5DgI/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理：呼吸困難的可能原因與解決方案
 
@@ -3882,7 +3819,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/E1DZUtY9AGA/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章重點整理
 
 #### 1. 核心主題：含糖飲料（如汽水）對健康的负面影响
@@ -3936,7 +3872,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <a href="https://www.youtube.com/watch?v=IJ3N_sjqghA" target="_blank">
     <img src="https://img.youtube.com/vi/IJ3N_sjqghA/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章重點整理
 
@@ -4018,7 +3953,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/1mTzY9qUkIs/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章重點整理
 
 ---
@@ -4085,7 +4019,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/cbEbavXLAsM/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題  
 - **壓力管理與睡眠改善**：介紹了一種簡單的呼吸技術，用於快速從壓力中恢復並促進睡眠。  
 - **生理影響**：探討了此呼吸技術對自主神經系統、免疫功能、血壓和心理狀態的積極影響。  
@@ -4143,7 +4076,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <a href="https://www.youtube.com/watch?v=21HEr110HKg" target="_blank">
     <img src="https://img.youtube.com/vi/21HEr110HKg/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理
 
@@ -4218,7 +4150,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/ySdOZkz_ezU/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章重點整理
 
 #### 核心主題
@@ -4292,7 +4223,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/CWyijiQq7DU/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章整理：炎症的12個引發原因及對策
 
 #### 核心主題  
@@ -4331,7 +4261,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <a href="https://www.youtube.com/watch?v=eJgpOsjndkA" target="_blank">
     <img src="https://img.youtube.com/vi/eJgpOsjndkA/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理：壓力管理與 belly 脂肪 reduction 的關鍵策略
 
@@ -4409,7 +4338,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/VInAKJTTtYE/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 小節歸納
 
 #### 核心主題
@@ -4473,7 +4401,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <a href="https://www.youtube.com/watch?v=j7wLGQfoCcI" target="_blank">
     <img src="https://img.youtube.com/vi/j7wLGQfoCcI/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理與結構化分析
 
@@ -4539,7 +4466,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <a href="https://www.youtube.com/watch?v=uqEO1Xc2P64" target="_blank">
     <img src="https://img.youtube.com/vi/uqEO1Xc2P64/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理：assium的重要性及其在健康中的作用
 
@@ -4612,7 +4538,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/SwIbkBefy54/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章重點整理
 
 #### 核心主題  
@@ -4667,7 +4592,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <a href="https://www.youtube.com/watch?v=d3l-PYvPGZ8" target="_blank">
     <img src="https://img.youtube.com/vi/d3l-PYvPGZ8/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理與分析
 
@@ -4735,7 +4659,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/h8-_UI1f2dw/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章整理：銅元素與坐骨神經痛（sciatica）之關聯及健康建議
 
 ---
@@ -4799,7 +4722,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <a href="https://www.youtube.com/watch?v=CJ8XnQW4SIk" target="_blank">
     <img src="https://img.youtube.com/vi/CJ8XnQW4SIk/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章重點整理
 
@@ -4873,7 +4795,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/k4gY6261jhM/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題
 - **核心主題**：雞蛋作為一種健康食品，具有多種營養價值和生產環節中的問題。
   - **翻譯**：雞蛋作为一种健康食品，具有多种营养价值和生产环节中的问题。
@@ -4940,7 +4861,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/G0lWRnh0GfI/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 小節一：核心主題  
 - 水的重要性及風險：水是生命必需品，但過量飲用可能導致健康問題，如水 intoxication（水中毒）或低血鈉症（hyponatremia）。  
 - 遇到的情況：作者曾因討論喝水議題引起爭論，強調自身每天攝取2.5升水，並非反對喝水。  
@@ -4990,7 +4910,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <a href="https://www.youtube.com/watch?v=t7VxmoMbD-4" target="_blank">
     <img src="https://img.youtube.com/vi/t7VxmoMbD-4/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章重點整理
 
@@ -5045,7 +4964,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <a href="https://www.youtube.com/watch?v=xyBOSZVKpNM" target="_blank">
     <img src="https://img.youtube.com/vi/xyBOSZVKpNM/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 小節歸納
 
@@ -5105,7 +5023,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/5hG6SOIoBco/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題
 - 镁（Magnesium）的摄入量在现代饮食中往往不足，且许多食物中含有干扰镁吸收的因素。
 - 讨论镁的重要性和如何通过饮食有效摄取镁。
@@ -5144,7 +5061,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <a href="https://www.youtube.com/watch?v=qDW86yRo-A4" target="_blank">
     <img src="https://img.youtube.com/vi/qDW86yRo-A4/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理重點
 
@@ -5198,7 +5114,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/X2T2Vd9utcs/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 英文標題：
 **The Multiple Health Implications of Vitamin D Deficiency: A Comprehensive Overview**
 
@@ -5251,7 +5166,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/TAl0cx5WNbg/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章重點整理
 
 #### 核心主題
@@ -5288,7 +5202,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <a href="https://www.youtube.com/watch?v=xtGinb8VWxc" target="_blank">
     <img src="https://img.youtube.com/vi/xtGinb8VWxc/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 小節分類與整理：
 
@@ -5340,7 +5253,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <a href="https://www.youtube.com/watch?v=DtAyymK81o0" target="_blank">
     <img src="https://img.youtube.com/vi/DtAyymK81o0/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理：低 carb 生酮飲食與斷食的安全性及實踐指南
 
@@ -5398,7 +5310,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/PicLOEhw3nA/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章整理：增強生長激素的作用及 ketogenic 饮食的影響
 
 #### 1. 核心主題
@@ -5438,7 +5349,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <a href="https://www.youtube.com/watch?v=3FuXm7CqR4k" target="_blank">
     <img src="https://img.youtube.com/vi/3FuXm7CqR4k/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理：健康ダイエットのための栄養学と生活習慣
 
@@ -5499,7 +5409,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/C1N_QvsdLrw/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 # 芝麻油的功效與應用  
 ## 核心主題  
 芝麻油（Clove Oil）源自植物蒴果，具備多種生物活性化合物，特別是丁香酚（Eugenol），佔其精油成分的75-80%。它被廣泛用於醫藥、食品和工業領域。
@@ -5531,7 +5440,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <a href="https://www.youtube.com/watch?v=4bskn2RrhPM" target="_blank">
     <img src="https://img.youtube.com/vi/4bskn2RrhPM/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章重點整理
 
@@ -5614,7 +5522,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/QxQdJUWdcW8/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章重點整理
 
 #### 1. 核心主題
@@ -5649,7 +5556,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <a href="https://www.youtube.com/watch?v=IcIT4NwEpAQ" target="_blank">
     <img src="https://img.youtube.com/vi/IcIT4NwEpAQ/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章重點整理
 
@@ -5701,7 +5607,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/i5oLfvDduMQ/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 諸多亮點：檸檬的驚人益處  
 **核心主題**: 檸檬富含多種營養成分，尤其是 flavonoids（黃酮類化合物），具有多方面的健康效益。
 
@@ -5744,7 +5649,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <a href="https://www.youtube.com/watch?v=XH-mc-yMMbA" target="_blank">
     <img src="https://img.youtube.com/vi/XH-mc-yMMbA/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 小結點整理
 
@@ -5797,7 +5701,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <a href="https://www.youtube.com/watch?v=FkZgpKj6wLo" target="_blank">
     <img src="https://img.youtube.com/vi/FkZgpKj6wLo/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 小節整理： magnesium deficiency 的核心主題與建議
 
@@ -5854,7 +5757,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <a href="https://www.youtube.com/watch?v=5uQvuJhWzOc" target="_blank">
     <img src="https://img.youtube.com/vi/5uQvuJhWzOc/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章重點整理
 
@@ -5919,7 +5821,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/f_gkkgAr3DU/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題：糖的健康影響及戒除策略
 
 #### 主要觀念：
@@ -5975,7 +5876,6 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
 <a href="https://www.youtube.com/watch?v=TuJXgMex85g" target="_blank">
     <img src="https://img.youtube.com/vi/TuJXgMex85g/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 # 文章重點整理
 

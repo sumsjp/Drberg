@@ -5,7 +5,6 @@
     <img src="https://img.youtube.com/vi/UrJW9dCxVhU/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 I. 核心主題  
 - 受訪者分享了自己因擔心腹部脂肪而來到某個地方（可能是健康或減肥機構）的经历。  
 - 强調了通過改變飲食習慣和生活方式後取得的顯著成果，包括體重 loss 和身體不適的改善。  
@@ -40,7 +39,6 @@ VI. 結論
 <a href="https://www.youtube.com/watch?v=703oYuzXZNo" target="_blank">
     <img src="https://img.youtube.com/vi/703oYuzXZNo/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題
 - **慢性炎症性腸病（IBD）**：主要包括克羅恩氏症（Crohn's disease）和 ulcerative colitis。
@@ -89,7 +87,6 @@ VI. 結論
     <img src="https://img.youtube.com/vi/kOcBB3OWPpY/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題  
 - 長期體重管理的挑戰與diet Dr. Burke飲食計劃的效果  
 
@@ -126,7 +123,6 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 </a>
 
 
-
 </details>
 
 <details>
@@ -135,7 +131,6 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 <a href="https://www.youtube.com/watch?v=GXirii-9ySo" target="_blank">
     <img src="https://img.youtube.com/vi/GXirii-9ySo/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題  
 - 健康與 Wellness 中心的介紹與功能概述  
@@ -195,7 +190,6 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
     <img src="https://img.youtube.com/vi/722_8kxeg5A/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題  
 1. 解決慢性下背痛的最後一項技術：針對尾骨舊 injury 的處理。  
 2. 介紹一種新的整體調整方法，超越傳統學校教導的关节調整技巧。  
@@ -243,7 +237,6 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
     <img src="https://img.youtube.com/vi/gJNnSODgpj0/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 # 文章整理： deprivation dieting 與代糖甜點替代方案
 
 ## 核心主題
@@ -284,7 +277,6 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 <a href="https://www.youtube.com/watch?v=IHfiEXMgZ_4" target="_blank">
     <img src="https://img.youtube.com/vi/IHfiEXMgZ_4/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題：飲料中的糖分與營養成分分析及其健康影響
 
@@ -340,7 +332,6 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
     <img src="https://img.youtube.com/vi/hC3D_eeULLU/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題：鸡蛋的营养价值与健康益处  
 - 鸡蛋是高营养价值的食物，尤其是蛋黄部分富含多种营养素，包括脂肪、维生素和必需脂肪酸。  
 - 蛋黄可以被视为一种天然的复合维生素来源。  
@@ -377,7 +368,6 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 <a href="https://www.youtube.com/watch?v=fKjqBZdf3RQ" target="_blank">
     <img src="https://img.youtube.com/vi/fKjqBZdf3RQ/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 小節結構化整理
 
@@ -416,7 +406,6 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 <a href="https://www.youtube.com/watch?v=1URgrSjgQTY" target="_blank">
     <img src="https://img.youtube.com/vi/1URgrSjgQTY/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 小節歸納
 
@@ -471,7 +460,6 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
     <img src="https://img.youtube.com/vi/6K3oJW26D58/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題  
 - 受訪者在過去三周內於健康與 wellness center 接受治療後，睡眠品質得到顯著改善。  
 
@@ -511,7 +499,6 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 <a href="https://www.youtube.com/watch?v=CIZ3ake2ZBo" target="_blank">
     <img src="https://img.youtube.com/vi/CIZ3ake2ZBo/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題： kale Shake 的製作與健康益處
 
@@ -568,7 +555,6 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 <a href="https://www.youtube.com/watch?v=hTqDCao_Caw" target="_blank">
     <img src="https://img.youtube.com/vi/hTqDCao_Caw/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 小節一：核心主題  
 - 言論圍繞「拖延症」（Procrastination）及其對健康和生活質量的影響展開。  
@@ -627,7 +613,6 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
     <img src="https://img.youtube.com/vi/Gb5Mztmx-U0/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題
 - 膳食選擇在健康管理與疾病治療中的重要性。
 - 不同個體之間存在生理差異，影響對不同飲食的反應。
@@ -664,7 +649,6 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 <a href="https://www.youtube.com/watch?v=41HnMrqZAmU" target="_blank">
     <img src="https://img.youtube.com/vi/41HnMrqZAmU/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題  
 - 探讨同步呼吸技术（Synchronization Breathing Technology）作为一种基于科学的减压方法。
@@ -710,7 +694,6 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 <a href="https://www.youtube.com/watch?v=s5h3VoMQt9g" target="_blank">
     <img src="https://img.youtube.com/vi/s5h3VoMQt9g/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 小節歸納
 
@@ -787,7 +770,6 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
     <img src="https://img.youtube.com/vi/V6Zy00bU5Bo/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題
 - 論述不同體型與 adrenal gland（腎上腺）之間的關聯。
 - 强調慢性壓力對健康的影響，特別是與皮質醇激素過高相關的健康問題。
@@ -849,7 +831,6 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
 <a href="https://www.youtube.com/watch?v=DnvnKnu7YBI" target="_blank">
     <img src="https://img.youtube.com/vi/DnvnKnu7YBI/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理：vitamin C 的重要性與合理攝取
 
@@ -916,7 +897,6 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
     <img src="https://img.youtube.com/vi/HNNk31aGaYo/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章整理解讀
 
 #### 核心主題  
@@ -953,7 +933,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <a href="https://www.youtube.com/watch?v=fGT5cISbXa4" target="_blank">
     <img src="https://img.youtube.com/vi/fGT5cISbXa4/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 全文要旨  
 本文介紹了一種名為「Jима」（Gimma）的草藥，其具有阻斷甜味感知的功能。通過多項實驗演示，文中展示了該草藥如何降低或消除對甜食、酒精等的渴望，進而幫助人們控制飲食和戒除不良習慣。文章強調了 moderation 的重要性，并提供了一種自然方法來協助減肥和改善整體健康。
@@ -1004,7 +983,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/vjHYuEj43fg/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題  
 - 介紹一種針對下腹部「小肚子」或皮膚鬆弛的運動方法。
 
@@ -1051,7 +1029,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <a href="https://www.youtube.com/watch?v=LRxN-30oJx8" target="_blank">
     <img src="https://img.youtube.com/vi/LRxN-30oJx8/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理：改善姿勢的方法
 
@@ -1109,7 +1086,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/8Ray80ec9mk/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章重點整理
 
 #### 核心主題  
@@ -1159,7 +1135,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <a href="https://www.youtube.com/watch?v=M9Isr1ON3lE" target="_blank">
     <img src="https://img.youtube.com/vi/M9Isr1ON3lE/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理：核心主題  
 - **核心主題**：探讨腹部胀气（bloating）的原因及其与胆汁（bile）不足的关系，并提供解决方案。
@@ -1222,7 +1197,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <a href="https://www.youtube.com/watch?v=vadPxKRGm7k" target="_blank">
     <img src="https://img.youtube.com/vi/vadPxKRGm7k/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題
 - ** calorie counting 的混淆與限制**
@@ -1295,7 +1269,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/MQsDeZNlk4c/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題  
 - 探讨关于水的常见误区及其科学真相。  
 
@@ -1356,7 +1329,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/WvO6N9vlmCo/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 小節歸納：
 
 #### 1. 核心主題：
@@ -1407,7 +1379,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/p7KMpyQ7x9k/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 小節結構
 
 1. **核心主題**  
@@ -1445,7 +1416,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <a href="https://www.youtube.com/watch?v=eRjBkoFy9IA" target="_blank">
     <img src="https://img.youtube.com/vi/eRjBkoFy9IA/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題：健康與營養管理的重要性
 
@@ -1491,7 +1461,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/EsGvIsqGFpU/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 # 關於夜間渴望甜食的飲食建議
 
 ## 核心主題
@@ -1528,7 +1497,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <a href="https://www.youtube.com/watch?v=giPkBbm52CM" target="_blank">
     <img src="https://img.youtube.com/vi/giPkBbm52CM/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 小節整理
 
@@ -1568,7 +1536,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <a href="https://www.youtube.com/watch?v=-LfNqA61-aU" target="_blank">
     <img src="https://img.youtube.com/vi/-LfNqA61-aU/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題
 - 患者報告了一個涉及主動脉瓣和二尖瓣的醫療手術史。
@@ -1617,7 +1584,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <a href="https://www.youtube.com/watch?v=v-qINKfAm7U" target="_blank">
     <img src="https://img.youtube.com/vi/v-qINKfAm7U/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 # 文章重點整理
 
@@ -1677,7 +1643,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <a href="https://www.youtube.com/watch?v=UUV7CRT8lbE" target="_blank">
     <img src="https://img.youtube.com/vi/UUV7CRT8lbE/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 # 文章整理：消除妊娠紋的方法
 
@@ -1743,7 +1708,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/gc4P7uhZCK8/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題
 - **飲食計劃的效果**：受訪者在短期內體驗到了顯著的健康改善，包括能量增加、 craving 减少和整體生活品質提升。
 - **生活方式的改變**：受訪者將此計劃視為長期的生活方式，而非短期的 diets。
@@ -1806,7 +1770,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/k6-Tkv_Jnz0/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 小節歸納
 
 #### 1. 核心主題  
@@ -1840,7 +1803,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <a href="https://www.youtube.com/watch?v=x9espCyDUp8" target="_blank">
     <img src="https://img.youtube.com/vi/x9espCyDUp8/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題
 - 肩部骨折康復的進展與經驗分享。
@@ -1879,7 +1841,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <a href="https://www.youtube.com/watch?v=TTqsVzse5HY" target="_blank">
     <img src="https://img.youtube.com/vi/TTqsVzse5HY/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題  
 - **意外導致肱骨骨折及肩袖損傷**  
@@ -1925,57 +1886,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 </a>
 
 
-### 核心主題
-- **Sprouts as a Nutritional Powerhouse**: The article emphasizes the nutritional value and health benefits of sprouts, particularly cruciferous vegetables.
-
-### 主要觀念
-1. **Nutritional Composition**:
-   - Sprouts are rich in essential nutrients such as protein, vitamins (A, C), minerals (calcium), and fiber.
-   - They contain antioxidants and phytoestrogens, which have health-promoting properties.
-
-2. **Health Benefits**:
-   - **Detoxification**: Wheatgrass juice is beneficial for liver detoxification.
-   - **Estrogen Balance**: Phytoestrogens in cruciferous vegetables help balance estrogen levels.
-   - **Gastrointestinal Health**: Fennel sprouts are known for their positive effects on stomach upset and digestion.
-
-3. **Comparison with Other Protein Sources**:
-   - Sprouts provide high-quality, easily digestible protein compared to cooked or processed meat proteins.
-
-### 問題原因
-1. **Modern Diet Issues**:
-   - Poor eating habits, chemical exposure, and liver strain due to processed foods contribute to health problems.
-   - Refined grains lose vital nutrients during processing.
-
-2. **Nutrient Loss**:
-   - Oxidation and refining processes cause significant loss of vitamin E and other nutrients in grains like wheat berries.
-
-### 解決方法
-1. **Increase Cruciferous Vegetable Intake**:
-   - Consume at least 3-5 servings per week, with one serving equivalent to one cup or six tablets/capsules of freeze-dried cruciferous vegetables.
-   - Additional intake is recommended for individuals with a history of poor diet and liver stress until health stabilizes.
-
-2. **Optimal Nutrient Retention**:
-   - Eat sprouts fresh to retain maximum nutritional value.
-   - Consider incorporating wheatgrass juice for liver detoxification.
-
-3. **Balanced Diet**:
-   - Replace processed meat proteins with sprouts for better nutrient absorption and reduced liver strain.
-
-### 健康建議
-1. **Dietary Recommendations**:
-   - Include a variety of sprouts in the diet, such as broccoli, radish, onion, and fennel.
-   - Introduce fennel sprouts as a healthy alternative to licorice for children with upset stomachs.
-
-2. **Food Processing Awareness**:
-   - Avoid refined grains and processed foods to prevent nutrient loss.
-   - Choose organic seeds for sprouting to ensure the absence of harmful pesticides.
-
-3. **Supplementation**:
-   - Consider freeze-dried cruciferous vegetables as a convenient way to meet daily intake requirements, especially for those with limited access to fresh produce.
-
-### 結論
-- Sprouts offer a superior nutritional profile compared to conventional protein sources and refined grains.
-- Increasing the consumption of cruciferous vegetables can significantly improve overall health by providing essential nutrients, supporting detoxification, and balancing hormone levels.
 </details>
 
 <details>
@@ -1986,7 +1896,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 </a>
 
 
-
 </details>
 
 <details>
@@ -1995,7 +1904,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <a href="https://www.youtube.com/watch?v=krwKqnmidC8" target="_blank">
     <img src="https://img.youtube.com/vi/krwKqnmidC8/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理： grains 的營養與健康影響
 
@@ -2051,7 +1959,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/A7MsLHlDEDc/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章整理與歸納
 
 #### 核心主題
@@ -2096,7 +2003,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <a href="https://www.youtube.com/watch?v=wr82y-dGoTg" target="_blank">
     <img src="https://img.youtube.com/vi/wr82y-dGoTg/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理
 
@@ -2151,7 +2057,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <a href="https://www.youtube.com/watch?v=FTZcZz1ESII" target="_blank">
     <img src="https://img.youtube.com/vi/FTZcZz1ESII/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理：健康飲食與體重管理的核心要素
 
@@ -2227,7 +2132,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/W_EHiOd8yHQ/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章重點整理
 
 #### 核心主題
@@ -2268,7 +2172,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/HhLJz1-SAhw/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題
 - 認知與思考的深度探索：文章強調了人類思維過程中常被忽視的簡單事實，這些事實雖然看似平凡，卻蘊含著深刻的智慧。
 - 思考習慣的局限性：指出人們常常受限於既定的思維模式，未能充分發揮創造力和批判性thinking。
@@ -2301,7 +2204,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <a href="https://www.youtube.com/watch?v=0rh0qiyPxdY" target="_blank">
     <img src="https://img.youtube.com/vi/0rh0qiyPxdY/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題  
 - 探讨肥胖和体重管理的科学方法。  
@@ -2339,7 +2241,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/fCHw_dW7oH4/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題  
 - 受眾對參加某 Seminar 的積極評價和深刻印象。  
 
@@ -2371,7 +2272,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/lZnVLG-nLTE/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題  
 - 講演者展示了即時幫助受困者的實力與能力。  
 
@@ -2398,7 +2298,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <a href="https://www.youtube.com/watch?v=_jV90HZceus" target="_blank">
     <img src="https://img.youtube.com/vi/_jV90HZceus/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題
 - 半導體研發中的痛點與挑戰。
@@ -2436,7 +2335,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <a href="https://www.youtube.com/watch?v=8SixpXSS6Bw" target="_blank">
     <img src="https://img.youtube.com/vi/8SixpXSS6Bw/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題
 - **慢性疾病的挑戰**：面對肥胖、疲勞、睡眠障礙等健康問題，傳統方法未能有效解決。
@@ -2484,7 +2382,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/rOd4QNwDTv4/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 小節整理
 
 #### 核心主題
@@ -2510,7 +2407,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <a href="https://www.youtube.com/watch?v=YF00ySD6nKE" target="_blank">
     <img src="https://img.youtube.com/vi/YF00ySD6nKE/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題  
 - 受訪者在經過某種治療或計劃後，身體健康和生活方式發生了顯著改善。  
@@ -2551,7 +2447,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <a href="https://www.youtube.com/watch?v=919B_Ey0fuU" target="_blank">
     <img src="https://img.youtube.com/vi/919B_Ey0fuU/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章重點整理
 
@@ -2604,7 +2499,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/SuRyHA2wQc8/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 小節：低背部伸展的重要性
 1. **核心主題**：
    - 低背部健康與日常活動的關聯。
@@ -2645,7 +2539,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/FckvKNAi44U/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 小節歸納
 
 #### 核心主題
@@ -2680,7 +2573,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <a href="https://www.youtube.com/watch?v=Sggj4HgaoO0" target="_blank">
     <img src="https://img.youtube.com/vi/Sggj4HgaoO0/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題  
 - 長期受高焦慮和睡眠障礙困擾，影響生活品質及人際關係。  
@@ -2717,7 +2609,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <a href="https://www.youtube.com/watch?v=yhxWd2jveT8" target="_blank">
     <img src="https://img.youtube.com/vi/yhxWd2jveT8/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 小節化整理
 
@@ -2768,7 +2659,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <a href="https://www.youtube.com/watch?v=ZBpNtVSmTN4" target="_blank">
     <img src="https://img.youtube.com/vi/ZBpNtVSmTN4/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 小節一：核心主題  
 - 文章的核心主題圍繞著Betty Kendall女士在老年時期的卓越成就與影響力。  
@@ -2825,7 +2715,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/hzYhdetIiHg/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題
 - 本篇文章描述了作者在參加一個研討會後的感受及其對所獲得信息和技巧的反應。
 
@@ -2855,7 +2744,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 </a>
 
 
-
 </details>
 
 <details>
@@ -2864,7 +2752,6 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
 <a href="https://www.youtube.com/watch?v=KkBWi3G9qM0" target="_blank">
     <img src="https://img.youtube.com/vi/KkBWi3G9qM0/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題  
 - 調味增強劑（MSG，即單 sodium glutamate）在市場上的廣泛應用及其潛在影響。
@@ -2910,7 +2797,6 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <a href="https://www.youtube.com/watch?v=8JJm4HRq8Oo" target="_blank">
     <img src="https://img.youtube.com/vi/8JJm4HRq8Oo/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理：水耕法及其營養價值探討與健康飲品介紹
 
@@ -2981,7 +2867,6 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
     <img src="https://img.youtube.com/vi/qKSlhns1xmg/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題
 - **Hydroponics（水耕法）**：介紹了一種在水中種植蔬菜的方法，強調其高效性和資源利用率。
 - **Biochar（生物炭）**：一種由高溫缺氧燒制而成的木炭，具有改善土壤肥力的功能。
@@ -3031,7 +2916,6 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
     <img src="https://img.youtube.com/vi/E_AvZcJ9IV4/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章重點整理
 
 #### 核心主題
@@ -3076,7 +2960,6 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <a href="https://www.youtube.com/watch?v=HS0Bm5oB8YI" target="_blank">
     <img src="https://img.youtube.com/vi/HS0Bm5oB8YI/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題  
 - 探讨不同身体类型的分类及其与内分泌系统的关系。  
@@ -3143,7 +3026,6 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <a href="https://www.youtube.com/watch?v=5Q6g9e1O35s" target="_blank">
     <img src="https://img.youtube.com/vi/5Q6g9e1O35s/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理與分析
 
@@ -3213,7 +3095,6 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
     <img src="https://img.youtube.com/vi/pbuCC33gKck/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題  
 - **夜間 cravings 的管理**：探討如何有效控制夜間對甜食或其他食物的渴望。
 
@@ -3274,7 +3155,6 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
     <img src="https://img.youtube.com/vi/hGiN_a0rYJY/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題
 - 長期過度使用咖啡因對健康的影響。
 - 皮質醇耗竭（Adrenal Burnout）的症狀與恢復。
@@ -3320,7 +3200,6 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
     <img src="https://img.youtube.com/vi/TNUaDYqt0uA/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 小節歸納
 
 #### 核心主題
@@ -3354,54 +3233,57 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
     <img src="https://img.youtube.com/vi/yQ9jy2eCb5I/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 本文探討了皮質醇（cortisol）在應激反應中的作用及其長期影響，特別是與腎上腺功能異常相關的健康問題。
 
-### 小節一：核心主題
-- ** adrenal dysfunction and its effects on health.**
-  - The article discusses the impact of chronic stress on adrenal function, particularly the role of cortisol.
-  - Key issues include inflammation, fibromyalgia, metabolic disorders, and neural excitability.
+### 主要觀念  
+1. **皮質醇的功能**  
+   - 皮質醇是一種壓力激素，具有抗炎、調節代謝和維持血糖等功能。
+   - 長期應激導致皮質醇水平紊亂，最終引發慢性炎症和其他健康問題。
 
-### 小節二：主要觀念
-1. **Cortisol's Role in Stress Response**
-   - Cortisol is a critical hormone for managing stress and inflammation.
-   - Prolonged stress leads to cortisol depletion, impairing its anti-inflammatory effects.
-2. **Chronic Inflammation and Fibromyalgia**
-   - Chronic stress results in sustained inflammation due to insufficient cortisol.
-   - Fibromyalgia is characterized by widespread pain caused by a lack of anti-inflammatory hormones.
-3. **Metabolic Dysregulation**
-   - Elevated cortisol levels contribute to belly fat accumulation despite its role as an anti-inflammatory hormone.
-4. **Neural and Muscular Effects**
-   - Chronic stress increases neural excitability, leading to overthinking and mental fatigue.
-   - Muscle wasting occurs due to reduced muscle tone.
+2. **慢性應激的影響**  
+   - 持續多年的壓力會耗竭皮質醇，使其失去抗炎作用，導致慢性炎症、纖維肌痛等症狀。
+   - 高 levels of cortisol 可能失敗，導致代謝紊亂和脂肪沉積。
 
-### 小節三：問題原因
-- **Chronic Stress**
-  - Prolonged exposure to stress triggers adrenal dysfunction.
-  - Impairs cortisol receptors, reducing the hormone's effectiveness.
-- **Hormonal Dysregulation**
-  - Elevated cortisol levels fail to regulate inflammation and allergies effectively.
-- **Receptor Resistance**
-  - Chronic stress downgrades cortisol receptors, leading to ineffective hormone communication.
+3. **受體抵抗現象**  
+   - 長期應激使身體對皮質醇的受體敏感性下降，類似於胰岛素抵抗，導致激素失效。
+   - 這解釋了高皮質醇水平伴隨炎症、肥胖和其他代謝失調的現象。
 
-### 小節四：解決方法
-1. **Vitamin A Supplementation**
-   - Essential for sinus health and reducing allergies.
-   - The article recommends a high-vitamin A shake available on Dr. Berg's website.
-2. **Lifestyle Modifications**
-   - Managing stress through appropriate interventions to prevent adrenal fatigue.
-3. **Dietary Adjustments**
-   - Incorporating nutrient-rich foods to support adrenal function.
+### 問題原因  
+1. **皮質醇耗竭**  
+   - 長期應激使皮質醇水平降低，失去抗炎能力，引發慢性炎症和纖維肌痛。
 
-### 小節五：健康建議
-1. **Monitor Cortisol Levels**
-   - Regular testing of cortisol levels in blood or saliva can help assess adrenal health.
-2. **Address Allergies and Sinus Issues**
-   - Improve sinus health through dietary changes and supplements to reduce allergy symptoms.
-3. **Exercise for Muscle Tone**
-   - Engage in regular physical activity to maintain muscle tone and mitigate wasting.
+2. **受體抵抗**  
+   - 持續高皮質醇水平導致身體對其信號的反應性下降，影響其多種生理功能。
 
-### 小節六：結論
-- Chronic stress significantly impacts adrenal function, leading to a cascade of health issues.
-- Proper management through lifestyle, diet, and supplementation can restore hormonal balance and overall health.
+3. **代謝失調**  
+   - 皮質醇失衡擾亂了脂肪代謝、血糖調節和免疫功能，導致肥胖和其他慢性病。
+
+### 解決方法  
+1. **補充關鍵營養素**  
+   - 維生素A：有助於改善鼻竇健康和抗過敏能力。
+   - Cal shake（富含維生素A的飲品）可作為輔助治療。
+
+2. **壓力管理**  
+   - 通過生活方式調整、心理疏導等方式降低慢性應激水平，恢復皮質醇平衡。
+
+3. **改善免疫功能**  
+   - 补充抗氧化劑和其他抗炎物質，增強身體的抗炎能力。
+
+### 健康建議  
+1. **飲食調整**  
+   - 增加富含維生素A的食物攝入，如 carrots, spinach, and orange vegetables.
+   - 采用低應激、均衡飲食以支持腎上腺功能。
+
+2. **壓力管理**  
+   - 適當運動、冥想、瑜伽等方式降低壓力水平，防止皮質醇過度分泌。
+
+3. **定期檢查**  
+   - 定期評估皮質醇水平和相關健康指標，及時發現問題。
+
+### 結論  
+- 長期應激導致的皮質醇失衡是多種慢性疾病的根源。
+- 通過營養補充、壓力管理和生活方式調整，可以改善腎上腺功能，預防和治療相關疾病。
 </details>
 
 <details>
@@ -3410,7 +3292,6 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <a href="https://www.youtube.com/watch?v=T3eo4p2LuYw" target="_blank">
     <img src="https://img.youtube.com/vi/T3eo4p2LuYw/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 小節整理
 
@@ -3458,7 +3339,6 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
 <a href="https://www.youtube.com/watch?v=3GWnU_lma7w" target="_blank">
     <img src="https://img.youtube.com/vi/3GWnU_lma7w/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 英文版文章標題  
 **Sleep and Why People Can't Sleep: The Role of Stuck Energy and Natural Remedies**
@@ -3527,7 +3407,6 @@ Dr. Berg
     <img src="https://img.youtube.com/vi/Gr5QxkSm9xs/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題：生長激素與arginine的作用及影響
 
 #### 主要觀念：
@@ -3558,7 +3437,6 @@ Dr. Berg
 <a href="https://www.youtube.com/watch?v=kJegLw2qtPc" target="_blank">
     <img src="https://img.youtube.com/vi/kJegLw2qtPc/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 小節一：核心主題  
 - 討論了維生素D缺乏與皮質醇（壓力荷爾蒙）之間的關聯。  
@@ -3601,7 +3479,6 @@ Dr. Berg
 <a href="https://www.youtube.com/watch?v=bNnmCqGMy8Q" target="_blank">
     <img src="https://img.youtube.com/vi/bNnmCqGMy8Q/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理與分析
 
@@ -3652,7 +3529,6 @@ Dr. Berg
 <a href="https://www.youtube.com/watch?v=M25xpZk5WtU" target="_blank">
     <img src="https://img.youtube.com/vi/M25xpZk5WtU/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章重點整理
 
@@ -3709,7 +3585,6 @@ Dr. Berg
     <img src="https://img.youtube.com/vi/rC7cXuNlyR4/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心_theme  
 - **成功案例分析**：Susan 的.Weight loss 故事展示了從肥胖到健康生活的轉變。  
 - **ライフスタイルの変化と持続可能性**：強調したのは、健康的な食事と規칙的な運動を通じた持続可能なウェルネス管理。  
@@ -3744,7 +3619,6 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <a href="https://www.youtube.com/watch?v=G3AFxauJeok" target="_blank">
     <img src="https://img.youtube.com/vi/G3AFxauJeok/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 小結整理
 
@@ -3787,7 +3661,6 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <a href="https://www.youtube.com/watch?v=E7yVINKxiew" target="_blank">
     <img src="https://img.youtube.com/vi/E7yVINKxiew/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理：抗碳水化合物 cravings 的飲食計劃
 
@@ -3850,7 +3723,6 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
     <img src="https://img.youtube.com/vi/Lk1RlIHx7F0/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題
 - 人體有不同的形狀或身體類型，主要分為四種。
 - 身體不同部位囤積脂肪的原因存在未被廣泛了解的事實。
@@ -3901,7 +3773,6 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
     <img src="https://img.youtube.com/vi/Fjqtjq4WRNg/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題
 - 受訪者因 bụng béo 至痛楚而尋求幫助。
 - 經治療後，受訪者在體重、健康狀況及生活品質方面均有顯著改善。
@@ -3951,7 +3822,6 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <a href="https://www.youtube.com/watch?v=_xR5rYmSvc0" target="_blank">
     <img src="https://img.youtube.com/vi/_xR5rYmSvc0/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章重點整理
 
@@ -4043,7 +3913,6 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
     <img src="https://img.youtube.com/vi/XefowjsRkDo/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題  
 1. 本文主要圍繞個人在身體和心理上的舒適感與健康狀況展開，強調音樂對情緒和身體機能的積極影響。  
 
@@ -4075,7 +3944,6 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <a href="https://www.youtube.com/watch?v=mLk7prs2IdM" target="_blank">
     <img src="https://img.youtube.com/vi/mLk7prs2IdM/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題  
 - 病人報告了一系列健康問題，包括睡眠障礙、過敏反應、膝蓋疼痛和體重增加。  
@@ -4125,7 +3993,6 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 </a>
 
 
-
 </details>
 
 <details>
@@ -4134,7 +4001,6 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <a href="https://www.youtube.com/watch?v=_kuQPktErD4" target="_blank">
     <img src="https://img.youtube.com/vi/_kuQPktErD4/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章重點整理
 
@@ -4204,7 +4070,6 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
     <img src="https://img.youtube.com/vi/IquS1CMFYDA/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章整理：健康與減肥之道
 
 #### 核心主題
@@ -4272,7 +4137,6 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
     <img src="https://img.youtube.com/vi/LqYD6ScfV5Y/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ---
 
 ### 一、核心主題：身體類型與健康綜合分析
@@ -4337,7 +4201,6 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
     <img src="https://img.youtube.com/vi/08KUhaJrejs/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章重點整理
 
 #### 核心主題
@@ -4397,7 +4260,6 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
     <img src="https://img.youtube.com/vi/49TxVYeq4m4/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題
 - **飲食與健康**：探討如何通過健康的飲食習慣來提升整體健康。
 - **合成維生素的問題**：分析市面上大多數維生素來自石油衍生物的問題及其潛在風險。
@@ -4445,7 +4307,6 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
     <img src="https://img.youtube.com/vi/z_pRjz-0X7o/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章整理與結構化分析
 
 #### 核心主題：  
@@ -4488,7 +4349,6 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
     <img src="https://img.youtube.com/vi/nTOrG4w660c/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 小節整理：脂肪的功能與健康哲學
 
 #### 1. 核心主題：
@@ -4526,7 +4386,6 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <a href="https://www.youtube.com/watch?v=McGFltMvSIo" target="_blank">
     <img src="https://img.youtube.com/vi/McGFltMvSIo/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題
 - 調控卡路里攝取並非促進健康的有效方法。
@@ -4578,7 +4437,6 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <a href="https://www.youtube.com/watch?v=Q5wN32_3m4o" target="_blank">
     <img src="https://img.youtube.com/vi/Q5wN32_3m4o/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題
 - **整體健康至上的減重理念**：強調通過改善健康狀況來促進減重，而非单纯追求卡路里攝取或燃燒。
@@ -4641,7 +4499,6 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <a href="https://www.youtube.com/watch?v=lgyf5KoRfzE" target="_blank">
     <img src="https://img.youtube.com/vi/lgyf5KoRfzE/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理與分析
 
@@ -4712,7 +4569,6 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
     <img src="https://img.youtube.com/vi/XO-iyh2Z_s8/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 一、核心主題：身體類型分類与健康关联
 
 文章主要探讨了四种不同的身体类型（腺体型、卵巢型、肝型和肾上腺型），并分析了每种类型在体重分布、健康问题及饮食建议方面的特点。
@@ -4772,7 +4628,6 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
 <a href="https://www.youtube.com/watch?v=LE8iCYYoXh4" target="_blank">
     <img src="https://img.youtube.com/vi/LE8iCYYoXh4/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 小節整理：文章重點歸納
 

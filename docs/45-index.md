@@ -5,7 +5,6 @@
     <img src="https://img.youtube.com/vi/HfknEr2ctRI/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題：氧氣與二氧化碳的平衡及呼吸健康
 
 #### 主要觀念：
@@ -60,7 +59,6 @@
     <img src="https://img.youtube.com/vi/s82Ooad0AJQ/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題
 - **研究焦點**：探讨痛风（gout）及其自然療法。
 - **機制探討**：分析尿酸生成和處理的生物學途徑。
@@ -113,7 +111,6 @@
 <a href="https://www.youtube.com/watch?v=vx42_D5bTas" target="_blank">
     <img src="https://img.youtube.com/vi/vx42_D5bTas/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題  
 - 腫腺肥大的病因與治療：探討良性前列腺肥大（BPH）的原因、機制及自然療法。
@@ -186,7 +183,6 @@
     <img src="https://img.youtube.com/vi/MhUgmTCJyiE/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 # 碘元素的多重健康益處與臨床應用
 
 ## 核心主題：碘在人體健康中的重要作用
@@ -247,7 +243,6 @@
     <img src="https://img.youtube.com/vi/WO3X3WNR5Jg/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題
 - 糖尿病性周邊神經病变（Diabetic Peripheral Neuropathy）的原因、機制及解決方法。
 
@@ -288,7 +283,6 @@
 <a href="https://www.youtube.com/watch?v=kE53pHQCPiA" target="_blank">
     <img src="https://img.youtube.com/vi/kE53pHQCPiA/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 小節歸納
 
@@ -348,7 +342,6 @@
 <a href="https://www.youtube.com/watch?v=PB_Ln5HXkwQ" target="_blank">
     <img src="https://img.youtube.com/vi/PB_Ln5HXkwQ/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章重點整理
 
@@ -427,7 +420,6 @@
     <img src="https://img.youtube.com/vi/WM8fUVut1AA/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 小節整理：Articles on Leaky Gut and Inflammation
 
 #### 1. **核心主題**
@@ -479,7 +471,6 @@
 <a href="https://www.youtube.com/watch?v=yVt0qJNR8bI" target="_blank">
     <img src="https://img.youtube.com/vi/yVt0qJNR8bI/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章重點整理
 
@@ -546,7 +537,6 @@
     <img src="https://img.youtube.com/vi/l1fCH6M6vZk/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章重點整理
 
 #### 1. 核心主題  
@@ -588,7 +578,6 @@
 <a href="https://www.youtube.com/watch?v=BGD29BfITAk" target="_blank">
     <img src="https://img.youtube.com/vi/BGD29BfITAk/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題
 - ** arthritis (關節炎) 的治療與營養補充**
@@ -658,7 +647,6 @@
     <img src="https://img.youtube.com/vi/YKZ3PV5mBGw/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章重點整理
 
 #### 核心主題
@@ -711,7 +699,6 @@
 <a href="https://www.youtube.com/watch?v=NCc-EvGcUn0" target="_blank">
     <img src="https://img.youtube.com/vi/NCc-EvGcUn0/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題  
 - 探讨维生素B3（尼克酰胺）在治疗注意力缺陷多动症（ADHD）中的作用及其科学依据。  
@@ -776,7 +763,6 @@
     <img src="https://img.youtube.com/vi/zNxeaMbzCb0/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 小節整理
 
 #### 1. 核心主題  
@@ -832,7 +818,6 @@
 <a href="https://www.youtube.com/watch?v=1XDIC59gPeo" target="_blank">
     <img src="https://img.youtube.com/vi/1XDIC59gPeo/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 小節整理
 
@@ -908,7 +893,6 @@
     <img src="https://img.youtube.com/vi/2WIiiUrV50M/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章整理：牙菌斑去除與口腔健康的科學方法
 
 #### 1. 核心主題
@@ -946,7 +930,6 @@
 <a href="https://www.youtube.com/watch?v=2no13WwLAmo" target="_blank">
     <img src="https://img.youtube.com/vi/2no13WwLAmo/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章重點整理
 
@@ -1020,7 +1003,6 @@
     <img src="https://img.youtube.com/vi/r3qDDne8Saw/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題
 - 睡眠健康與枕頭衛生之間的關聯性。
 - 枕頭中微生物的存在及其對人體健康的影響。
@@ -1055,7 +1037,6 @@
 <a href="https://www.youtube.com/watch?v=stF25xFdeMI" target="_blank">
     <img src="https://img.youtube.com/vi/stF25xFdeMI/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題
 - 證據基.bs的研究結果表明，berberine（巴馬汀）是一種具有多方面健康益處的天然化合物。
@@ -1112,7 +1093,6 @@
 <a href="https://www.youtube.com/watch?v=ug2F8Epd6Ug" target="_blank">
     <img src="https://img.youtube.com/vi/ug2F8Epd6Ug/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題：NAD（煙酸amide腺嘌呤二核苷酸）在成瘾戒斷和整體健康中的作用
 
@@ -1190,7 +1170,6 @@
     <img src="https://img.youtube.com/vi/215MnwwDwdQ/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章整理與分析
 
 #### 核心主題  
@@ -1266,7 +1245,6 @@
     <img src="https://img.youtube.com/vi/UerbdBzb_6Y/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 小節一：核心主題  
 - 探讨 migraine 的常见维生素缺乏问题，特别是与遗传和线粒体功能相关的维生素 B2（核黃素）缺乏。
 
@@ -1318,7 +1296,6 @@
 <a href="https://www.youtube.com/watch?v=fI7DU7-wfv0" target="_blank">
     <img src="https://img.youtube.com/vi/fI7DU7-wfv0/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 重要事實和發現總覽
 
@@ -1396,7 +1373,6 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
     <img src="https://img.youtube.com/vi/joYIVaukiVo/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題：二尖瓣脫垂症與低血清鎂離子 deficiency 的關聯性研究
 
 #### 主要觀念：
@@ -1435,7 +1411,6 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
 <a href="https://www.youtube.com/watch?v=m32KS2eeuvY" target="_blank">
     <img src="https://img.youtube.com/vi/m32KS2eeuvY/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理：去除扁桃體石的更.deep.lying.cause
 
@@ -1506,7 +1481,6 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
 <a href="https://www.youtube.com/watch?v=CeGlTGWtVnM" target="_blank">
     <img src="https://img.youtube.com/vi/CeGlTGWtVnM/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理：植物基肉類的問題與環境影響分析
 
@@ -1586,7 +1560,6 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
     <img src="https://img.youtube.com/vi/aSZ-T2V--Rg/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題：阿育吠陀草藥阿什瓦伽ṇḍuja（Ashwagandha）的功效、潛在風險及使用建議
 
 ---
@@ -1654,7 +1627,6 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
     <img src="https://img.youtube.com/vi/QKeCwKDdWyM/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題：Kuda 背景與免疫療法
 
 - **核心主題**：
@@ -1709,7 +1681,6 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
     <img src="https://img.youtube.com/vi/h-pQNxUlAOI/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章整理：工作室改造與升級
 
 #### 核心主題
@@ -1753,7 +1724,6 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
 <a href="https://www.youtube.com/watch?v=XoxwcE6g7Qw" target="_blank">
     <img src="https://img.youtube.com/vi/XoxwcE6g7Qw/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理：咖啡的多樣益處與健康考量
 
@@ -1833,7 +1803,6 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
     <img src="https://img.youtube.com/vi/f7bQGGW3UTg/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 1. 核心主題：尿液顏色與人體健康的關聯性  
 尿液作為身體健康的重要指標，其顏色變化可以反映內部生理狀況。本文主要探討尿液不同顏色所代表的意義及其潛在的健康問題。
 
@@ -1903,7 +1872,6 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
 <a href="https://www.youtube.com/watch?v=uZeB31exaNA" target="_blank">
     <img src="https://img.youtube.com/vi/uZeB31exaNA/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理：清除動脈斑塊的最佳營養素
 
@@ -1982,7 +1950,6 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
     <img src="https://img.youtube.com/vi/d9SxJau5pxw/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章整理：使用正式學術用語，分段落整理重點
 
 ---
@@ -2052,7 +2019,6 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
     <img src="https://img.youtube.com/vi/WJ7N_9UYK1Y/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 小節歸納：
 
 1. **核心主題**:
@@ -2089,7 +2055,6 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
 <a href="https://www.youtube.com/watch?v=6X0LKxCz1a0" target="_blank">
     <img src="https://img.youtube.com/vi/6X0LKxCz1a0/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題
 - 討論Bill Gates Appeal（BGAE）的安全性及其潛在風險。
@@ -2151,7 +2116,6 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
     <img src="https://img.youtube.com/vi/e7M2oSGwfyU/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心_theme: 皮膚色素沉著與肥胖率的關聯：維生素D的作用機制
 
 #### 主要觀念:
@@ -2166,7 +2130,6 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
 <a href="https://www.youtube.com/watch?v=7yszU0-Molc" target="_blank">
     <img src="https://img.youtube.com/vi/7yszU0-Molc/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理與分析
 
@@ -2249,7 +2212,6 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
     <img src="https://img.youtube.com/vi/QMsItnMlhuo/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題  
 - 本文主要探討間歇性禁食（Intermittent Fasting）對心血管健康的影響，特別是新發表的研究指出，該實踐可能增加患心血管疾病死亡的風險。  
 
@@ -2282,7 +2244,6 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
 <a href="https://www.youtube.com/watch?v=8KUMT9PCwhs" target="_blank">
     <img src="https://img.youtube.com/vi/8KUMT9PCwhs/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 小節整理
 
@@ -2328,7 +2289,6 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
     <img src="https://img.youtube.com/vi/mQ8-saXsQ00/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題
 - ** celery juice 的健康影響**
 - ** 主流媒體對 celery juice 的宣傳與事實之間的差距**
@@ -2372,7 +2332,6 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
 <a href="https://www.youtube.com/watch?v=QlGJA-_a3uM" target="_blank">
     <img src="https://img.youtube.com/vi/QlGJA-_a3uM/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 小節歸納
 
@@ -2429,7 +2388,6 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
 <a href="https://www.youtube.com/watch?v=UHd3ODiJxyQ" target="_blank">
     <img src="https://img.youtube.com/vi/UHd3ODiJxyQ/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理：失眠與健康調理的關鍵因素
 
@@ -2499,7 +2457,6 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
     <img src="https://img.youtube.com/vi/DEiybCei-ls/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章整理：膠原蛋白與甘胺酸的重要性及健康建議
 
 #### 核心主題
@@ -2558,7 +2515,6 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
     <img src="https://img.youtube.com/vi/mecanOOf0SY/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ===== 重點整理 =====
 
 ### 核心主題: 身體營養缺乏的16個徵兆與原因分析
@@ -2612,7 +2568,6 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
     <img src="https://img.youtube.com/vi/9G8WOKe3Tl0/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 小節整理：谷胱甘肅 deficiency 及其管理
 
 #### 1. 核心主題
@@ -2655,7 +2610,6 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
 <a href="https://www.youtube.com/watch?v=h4vpuB13Lvg" target="_blank">
     <img src="https://img.youtube.com/vi/h4vpuB13Lvg/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題：  
 - 睡眠對脂肪燃燒的重要性。  
@@ -2725,7 +2679,6 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
     <img src="https://img.youtube.com/vi/B9TD4aPRd6k/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章整理：健康Hack:Event宣傳與健康議題探討
 
 ---
@@ -2784,7 +2737,6 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
     <img src="https://img.youtube.com/vi/EN9e99iRTCQ/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章整理：早期未被忽視的鎂缺乏症狀
 
 #### 一、核心主題  
@@ -2831,7 +2783,6 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
 <a href="https://www.youtube.com/watch?v=AgD4hrdAYzk" target="_blank">
     <img src="https://img.youtube.com/vi/AgD4hrdAYzk/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題：牙齒感染與心血管疾病的關聯
 
@@ -2892,7 +2843,6 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
     <img src="https://img.youtube.com/vi/TCRrD-4G0Ic/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章整理
 
 #### 核心主題  
@@ -2947,7 +2897,6 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
     <img src="https://img.youtube.com/vi/AlUNBHMDoIw/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 小節歸納
 
 #### 1. **核心主題**
@@ -2982,7 +2931,6 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
 <a href="https://www.youtube.com/watch?v=QlQyvXS6kLk" target="_blank">
     <img src="https://img.youtube.com/vi/QlQyvXS6kLk/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章重點整理
 
@@ -3038,7 +2986,6 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
     <img src="https://img.youtube.com/vi/fWSfGrh-gus/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章整理：维生素B3（尼可酰胺）在关节炎中的应用
 
 #### 核心主题
@@ -3093,7 +3040,6 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
 <a href="https://www.youtube.com/watch?v=r2JcmyEoKos" target="_blank">
     <img src="https://img.youtube.com/vi/r2JcmyEoKos/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 小芻目錄
 1. **核心主題**  
@@ -3153,7 +3099,6 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
 <a href="https://www.youtube.com/watch?v=aZx-8z2U6qY" target="_blank">
     <img src="https://img.youtube.com/vi/aZx-8z2U6qY/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題：慢性胃酸逆流（GERD）的病因與綜合治療策略
 
@@ -3238,7 +3183,6 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
     <img src="https://img.youtube.com/vi/rDeLISqGgfs/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題  
 - 太陽曝露不足的危害性及其與多種健康問題的關聯。
 
@@ -3269,7 +3213,6 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
 <a href="https://www.youtube.com/watch?v=4LBKFQF_EyQ" target="_blank">
     <img src="https://img.youtube.com/vi/4LBKFQF_EyQ/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題： hormesis（霍默西斯）的概念及其在健康的應用  
 Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的壓力或刺激來觸發適應反應，從而增強整體健康和抵抗力。
@@ -3332,7 +3275,6 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
     <img src="https://img.youtube.com/vi/tOMX5I9Qm6k/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章整理：間歇性禁食的最佳技巧以降低腹部脂肪
 
 #### 核心主題
@@ -3386,7 +3328,6 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
 <a href="https://www.youtube.com/watch?v=lDgvkMKA7ds" target="_blank">
     <img src="https://img.youtube.com/vi/lDgvkMKA7ds/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章重點整理
 
@@ -3454,7 +3395,6 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
 <a href="https://www.youtube.com/watch?v=nJEAqOdnF2E" target="_blank">
     <img src="https://img.youtube.com/vi/nJEAqOdnF2E/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題  
 - 解構與水相關的常見 misconception，提供基於研究和實證的健康建議。  
@@ -3529,7 +3469,6 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
     <img src="https://img.youtube.com/vi/haVr3AAYC80/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題：慢性癢的原因與解決方案
 
 #### 主要觀念：
@@ -3595,7 +3534,6 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
 <a href="https://www.youtube.com/watch?v=30vF9gTTwvU" target="_blank">
     <img src="https://img.youtube.com/vi/30vF9gTTwvU/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理與分析
 
@@ -3679,7 +3617,6 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
     <img src="https://img.youtube.com/vi/RCMN5UJzalo/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章整理與分析
 
 #### 核心主題
@@ -3762,7 +3699,6 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
     <img src="https://img.youtube.com/vi/0BrLo04xQ8o/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題：致癌食物及其影響
 
 - **主要觀念**：
@@ -3799,7 +3735,6 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
 <a href="https://www.youtube.com/watch?v=hutwzLgjU4U" target="_blank">
     <img src="https://img.youtube.com/vi/hutwzLgjU4U/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 # 文章整理：OZENIC 药物后体重维持策略与健康建议
 
@@ -3868,7 +3803,6 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
     <img src="https://img.youtube.com/vi/t91rTD0k0SA/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題：艾滋病（ALS）的病因、治療與預防策略
 
 #### 主要觀念：
@@ -3911,7 +3845,6 @@ ALS的治療需 комплексний підхід，重點放在恢復抗氧�
 <a href="https://www.youtube.com/watch?v=kFSflqB-Fzs" target="_blank">
     <img src="https://img.youtube.com/vi/kFSflqB-Fzs/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章重點整理
 
@@ -4005,7 +3938,6 @@ In summary, the article advocates for a personalized approach to nutrition, caut
     <img src="https://img.youtube.com/vi/m9vf2ylY2ds/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章重點整理
 
 #### 核心主題  
@@ -4057,7 +3989,6 @@ In summary, the article advocates for a personalized approach to nutrition, caut
 <a href="https://www.youtube.com/watch?v=LEELE4sv2Ts" target="_blank">
     <img src="https://img.youtube.com/vi/LEELE4sv2Ts/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題: 延長壽命的食物與生活方式
 - **主要觀念**: 
@@ -4129,7 +4060,6 @@ In summary, the article advocates for a personalized approach to nutrition, caut
 <a href="https://www.youtube.com/watch?v=8L7F5ffv6bs" target="_blank">
     <img src="https://img.youtube.com/vi/8L7F5ffv6bs/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章重點整理
 
@@ -4206,7 +4136,6 @@ In summary, the article advocates for a personalized approach to nutrition, caut
     <img src="https://img.youtube.com/vi/T9OHIRGFkqs/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 小節歸納
 
 #### 1. 核心主題：睾酮（Testosterone）的副作用及影響
@@ -4247,7 +4176,6 @@ In summary, the article advocates for a personalized approach to nutrition, caut
 <a href="https://www.youtube.com/watch?v=yy0Ki7z8Czs" target="_blank">
     <img src="https://img.youtube.com/vi/yy0Ki7z8Czs/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章重點整理
 
@@ -4322,7 +4250,6 @@ In summary, the article advocates for a personalized approach to nutrition, caut
     <img src="https://img.youtube.com/vi/8sfl-kS9Xyg/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題  
 - 提供一種科學基於呼吸技巧，能在數分鐘內入睡的方法。  
 
@@ -4380,7 +4307,6 @@ In summary, the article advocates for a personalized approach to nutrition, caut
     <img src="https://img.youtube.com/vi/JAUBavPuXpo/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題：促进头发再生的关键氨基酸——组胺酸
 
 #### 主要觀念：
@@ -4425,7 +4351,6 @@ In summary, the article advocates for a personalized approach to nutrition, caut
     <img src="https://img.youtube.com/vi/U5odrIsm-60/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 1. 核心主題：情緒焦慮與壓力的心理與生理影響  
    - 情緒焦慮被定義為對未來可能發生的不良事件感到緊張或擔憂的狀態。  
    - 經常伴隨著“擔憂”的心理活動，即對不愉快的事情或問題進行持續思考。  
@@ -4458,7 +4383,6 @@ In summary, the article advocates for a personalized approach to nutrition, caut
 <a href="https://www.youtube.com/watch?v=MW_D2Sdlr3k" target="_blank">
     <img src="https://img.youtube.com/vi/MW_D2Sdlr3k/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章重點整理
 
@@ -4512,7 +4436,6 @@ In summary, the article advocates for a personalized approach to nutrition, caut
 <a href="https://www.youtube.com/watch?v=FjfyBJcyoJI" target="_blank">
     <img src="https://img.youtube.com/vi/FjfyBJcyoJI/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章重點整理
 
@@ -4589,7 +4512,6 @@ In summary, the article advocates for a personalized approach to nutrition, caut
     <img src="https://img.youtube.com/vi/DGGOYN148Mg/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題：魚肝油與沙丁鱼的營養價值比較
 
 #### 主要觀念：
@@ -4647,7 +4569,6 @@ In summary, the article advocates for a personalized approach to nutrition, caut
 <a href="https://www.youtube.com/watch?v=e5MhlSjvXh8" target="_blank">
     <img src="https://img.youtube.com/vi/e5MhlSjvXh8/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理：肌肉萎縮的原因與防治策略
 
@@ -4713,7 +4634,6 @@ In summary, the article advocates for a personalized approach to nutrition, caut
 <a href="https://www.youtube.com/watch?v=hHRGqGmGmpg" target="_blank">
     <img src="https://img.youtube.com/vi/hHRGqGmGmpg/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理： vitamins and supplements
 
@@ -4782,7 +4702,6 @@ In summary, the article advocates for a personalized approach to nutrition, caut
     <img src="https://img.youtube.com/vi/YROt0Xgr8QE/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章整理結構
 
 ---
@@ -4838,7 +4757,6 @@ In summary, the article advocates for a personalized approach to nutrition, caut
 <a href="https://www.youtube.com/watch?v=Rqs-kBwt3po" target="_blank">
     <img src="https://img.youtube.com/vi/Rqs-kBwt3po/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章重點整理
 
@@ -4916,7 +4834,6 @@ In summary, the article advocates for a personalized approach to nutrition, caut
     <img src="https://img.youtube.com/vi/M5ADM_V3bJY/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 小節歸納
 
 #### 核心主題
@@ -4958,7 +4875,6 @@ In summary, the article advocates for a personalized approach to nutrition, caut
 <a href="https://www.youtube.com/watch?v=u0TpL4HwcMA" target="_blank">
     <img src="https://img.youtube.com/vi/u0TpL4HwcMA/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 小節整理
 
@@ -5014,7 +4930,6 @@ In summary, the article advocates for a personalized approach to nutrition, caut
 <a href="https://www.youtube.com/watch?v=ESbprbvHKmE" target="_blank">
     <img src="https://img.youtube.com/vi/ESbprbvHKmE/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章重點整理
 
@@ -5080,7 +4995,6 @@ In summary, the article advocates for a personalized approach to nutrition, caut
     <img src="https://img.youtube.com/vi/VhJa6F3fEy8/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題： micronutrient deficiency 影響生長發育
 
 ### 主要觀念：
@@ -5124,7 +5038,6 @@ In summary, the article advocates for a personalized approach to nutrition, caut
 <a href="https://www.youtube.com/watch?v=15ZTN96VifU" target="_blank">
     <img src="https://img.youtube.com/vi/15ZTN96VifU/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 # 文章重點整理：每日攝取乳酪的理由與益處
 
@@ -5205,7 +5118,6 @@ In summary, the article advocates for a personalized approach to nutrition, caut
     <img src="https://img.youtube.com/vi/ozpg9J3qUkU/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章整理：疾病的早期徵兆與自然療法
 
 #### 1. 核心主題
@@ -5285,7 +5197,6 @@ In summary, the article advocates for a personalized approach to nutrition, caut
     <img src="https://img.youtube.com/vi/H-7pN5UMV-Q/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 1. 核心主題  
 - 小腸在消化和營養吸收中的重要作用：  
   - 小腸長約22英尺（6.7公尺）， surface area约为2700平方英尺（250平方米）。  
@@ -5341,7 +5252,6 @@ In summary, the article advocates for a personalized approach to nutrition, caut
 <a href="https://www.youtube.com/watch?v=RzSoPyA30O8" target="_blank">
     <img src="https://img.youtube.com/vi/RzSoPyA30O8/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章重點整理
 
@@ -5406,7 +5316,6 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
     <img src="https://img.youtube.com/vi/6F5ylBMx71Q/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 核心主題
 - ** autoimmune diseases 的流行病學特點：**
   - 每12人中就有1人可能發展為自身免疫疾病。
@@ -5463,7 +5372,6 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
 <a href="https://www.youtube.com/watch?v=oql3QUD2JyI" target="_blank">
     <img src="https://img.youtube.com/vi/oql3QUD2JyI/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 核心主題
 - ** intermittent fasting (間歇性禁食)**：本文強調了間歇性禁食在促進整體健康方面的有效性及其背后的生物化學機制。
@@ -5532,7 +5440,6 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
     <img src="https://img.youtube.com/vi/ATh5u_l3sJQ/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 小節整理：12項易於實施的燃脂技巧
 
 #### 核心主題
@@ -5590,7 +5497,6 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
     <img src="https://img.youtube.com/vi/z8dfLN5qpsI/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章總結與分析
 
 #### 一、核心主題  
@@ -5633,7 +5539,6 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
 <a href="https://www.youtube.com/watch?v=8H7ZGIDmuIw" target="_blank">
     <img src="https://img.youtube.com/vi/8H7ZGIDmuIw/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 小結整理：文章重點歸納
 
@@ -5697,7 +5602,6 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
     <img src="https://img.youtube.com/vi/7mNJF5i8GzU/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章整理：脂肪燃燒與代謝激素的相互作用
 
 #### 核心主題
@@ -5752,7 +5656,6 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
     <img src="https://img.youtube.com/vi/P2v_jJfbVYQ/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章重點整理
 
 #### 核心主題
@@ -5806,7 +5709,6 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
 <a href="https://www.youtube.com/watch?v=vL7NVrC_sUc" target="_blank">
     <img src="https://img.youtube.com/vi/vL7NVrC_sUc/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 本文整理重點
 
@@ -5905,7 +5807,6 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
     <img src="https://img.youtube.com/vi/qz_IABtW0wA/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
 
-
 ### 文章整理與分析
 
 #### 核心主題
@@ -5985,7 +5886,6 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
 <a href="https://www.youtube.com/watch?v=fG63a8vDGXA" target="_blank">
     <img src="https://img.youtube.com/vi/fG63a8vDGXA/maxresdefault.jpg" alt="[Youtube]" width="200">
 </a>
-
 
 ### 文章整理：健康飲食的核心原則與建議
 
