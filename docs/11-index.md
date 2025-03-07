@@ -21,80 +21,503 @@
 </details>
 
 <details>
-<summary>1198. Why Is Dried Fruit Bad For You? – Dr. Berg On Sugar In Fruits</summary><br>
+<summary>1198. [2017-11-29] Why Is Dried Fruit Bad For You? – Dr. Berg On Sugar In Fruits</summary><br>
 
 <a href="https://www.youtube.com/watch?v=-lE1r4d7nHg" target="_blank">
     <img src="https://img.youtube.com/vi/-lE1r4d7nHg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 干果（dried fruit）并不是一種健康的食品。
+- 干果可能是最差的零食之一。
+
+#### 主要觀念
+1. **干果的糖分含量高**：
+   - 半杯新鲜蔓越莓的糖分只有2克，而半杯干蔓越莓的糖分卻高達37克。
+   - 干果是高度濃縮的糖分來源。
+
+2. **加工過程中添加额外糖分**：
+   - 生產商通常會在干果中添加糖漿、麥芽糖或高果糖玉米 syrup等成分。
+   - 部分廠商還會加入硫酸鹽作為防腐劑，這可能引起過敏反應。
+
+3. **消費上的便利性**：
+   - 干果常常與堅果混合食用，或者用於沙拉中。
+   - 人們容易在一次食用大量干果，而不太注意到其高糖分特性。
+
+#### 問題原因
+- 干果的高糖分含量可能導致血糖波動、肥胖及其他代謝問題。
+- 添加劑如硫酸鹽可能引起過敏反應或其他健康問題。
+
+#### 解決方法
+- 避免食用加工干果，尤其是對於進行生酮飲食或希望減肥的人群來說。
+- 選擇未添加糖分的自然干果，並且限制攝取量。
+
+#### 健康建議
+- 保持均衡飲食，多攝取新鮮水果和蔬菜。
+- 如果需要食用干果，建議選擇無添加糖的產品，並適當控制攝取量。
+
+#### 結論
+- 干果雖然常被視為健康食品，但其高糖分和可能的添加剂使其成為不健康的 snack 選擇。
+- 消費者應該提高警覺，選擇更健康的零食來源。
+
+---
+
+### 相關健康議題（未提及但具體建議）
+
+1. **其他加工食品的健康風險**：
+   - 类似於干果，許多加工食品雖然宣稱為健康選擇，卻可能隱含高糖、鹽或不健康添加劑。
+   - 建議消費者仔細閱讀食物標籤，避免過量攝取加工食品。
+
+2. **生酮飲食的其他挑戰**：
+   - 生酮飲食強調低碳水化合物、高脂肪和足夠蛋白質的攝取。
+   - 除了避免干果，還應該注意其他可能含有 hidden 糖分的食物，如醬料、沙拉dressings等。
+
+3. **防腐劑的健康影響**：
+   - 硫酸鹽等防腐劑雖然是常見的食品添加劑，但過敏反應或其他不良反應仍需警惕。
+   - 選擇無添加防腐劑的食品，或諮詢醫生關於個人健康狀況下的食品安全疑慮。
+
+4. **控制糖分攝取的重要性**：
+   - 高糖飲食與肥胖、糖尿病、心臟病等慢性疾病密切相關。
+   - 建議每日糖分攝取量限制在5-10%的總熱量中，兒童和特殊人群應進一步減少。
+
+---
+
+### 具體建議
+
+- **食品選擇**：
+  - 選擇未添加糖的天然干果，如未加工的新疆棗、無花果等。
+  - 多攝取新鮮水果和蔬菜，以獲得更多的營養價值和膳食纖維。
+
+- **飲食習慣**：
+  - 慎食加工食品，尤其是標榜「健康」的產品，需仔細檢查成份標籤。
+  - 適當控制零食攝取量，避免一次食用過多高糖分食物。
+
+- **個人健康管理**：
+  - 定期進行身體檢查，監控血糖、血脂等指標。
+  - 如有特殊健康狀況（如糖尿病），建議諮詢營養師或醫生的飲食建議。
+
+---
+
+### 總結
+本文強調了干果作為零食的潛在危害，特別是其高糖分和可能的添加剂問題。除了避免食用加工干果外，消費者還應該注意其他隱藏糖分的食物，並養成健康的飲食習慣以維護整體健康。
 </details>
 
 <details>
-<summary>1197. Why Alkalizing Your Entire Body Is Dangerous? – Dr. Berg</summary><br>
+<summary>1197. [2017-11-28] Why Alkalizing Your Entire Body Is Dangerous? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=EZfvlOQKL9Q" target="_blank">
     <img src="https://img.youtube.com/vi/EZfvlOQKL9Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題
+- 身體pH值的多樣性與重要性。
+
+#### 主要觀念
+1. 身體不同部位具有不同的pH值需求。
+2. 碱性化身體的迷思及其可能帶來的危害。
+3. 酸性環境在消化和免疫中的重要作用。
+4. 健康飲食的重要性，而非過度追求酸性或鹼性食物。
+
+#### 問題原因
+- 对身体pH值单一化的误解。
+- 过度碱化可能导致的健康問題，如胃部不适、營養吸收障礙等。
+- 忽視不同器官和系統對酸鹼平衡的特定需求。
+
+#### 解決方法
+1. 理解並尊重身體各部位不同的pH值需求。
+2. 保持均衡飲食，避免過度依賴酸性或鹼性食物。
+3. 確保胃部適當的酸性環境以促進消化和抗菌作用。
+4. 維持腸道有益菌群平衡。
+
+#### 健康建議
+1. 避免追求全身完全 alkalize，而是讓各部位保持其理想的pH範圍。
+2. 注意飲食均衡，攝取足夠的營養以支持整體健康。
+3. 保持適當的酸性環境，特別是在胃和腸道中，以促進酶的作用和病原体的殺滅。
+4. 定期監測身體狀況，必要時諮詢專業醫療人員。
+
+#### 結論
+- 過度追求全身 alkalize 是不科學且有害健康的。
+- 身體不同部位對pH值有不同的需求，需予以尊重和滿足。
+- 健康飲食是維持整體酸鹼平衡的最佳方式。
+
+### 縮鍊結論與建議
+**總結：** 過度 alkalize 整個身體是有害的，應該讓身體各部位保持其特定的pH範圍。健康飲食是維持整體酸鹼平衡的最佳方法。
+
+**具體行動方案建議：**
+1. **教育自己：** 學習有關人體 pH 值的基本知識，避免接受不科學的 alkalize 理論。
+2. **均衡飲食：** 多攝取新鮮蔬菜、水果和全穀物，保持飲食多樣化，避免過度依賴酸性或鹼性食物。
+3. **注意胃部健康：** 避免過度使用抗酸劑或其他可能破壞胃部酸性環境的藥物。
+4. **維持腸道平衡：** 通過攝取益生菌食品（如酸奶、泡菜）來支持腸道微生物的健康。
+5. **定期檢查：** 如果有 pH 相關的健康問題，及時諮詢專業醫療人員進行評估和治療。
 </details>
 
 <details>
-<summary>1196. Natural Ways to Raise Dopamine Levels – Dr. Berg</summary><br>
+<summary>1196. [2017-11-28] Natural Ways to Raise Dopamine Levels – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Q0H_EMV28Hg" target="_blank">
     <img src="https://img.youtube.com/vi/Q0H_EMV28Hg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理： dopamine 的作用與管理
 
+#### 核心主題
+- **Dopamine 的重要性**  
+  Dopamine 是一種神經傳導物質，被稱為「動力分子」，對於提升動機、注意力、情緒和認知功能具有重要作用。
+
+#### 主要觀念
+1. **Dopamine 的生理作用**  
+   - 提升動機和積極性。
+   - 舉例而言，缺乏 Dopamine 可能導致抑鬱、焦慮、注意力不集中等問題。
+2. **Dopamine 的外部刺激因素**  
+   - 例如 crack cocaine 和咖啡因等物質會短時間內提升 Dopamine 水平，但長遠來看可能導致耐受性和依賴性增加。
+
+#### 問題原因
+- **Dopamine 缺乏的原因**  
+  - 長期使用刺激物（如咖啡因）會降低 Dopamine 的敏感度。
+  - 高壓力和皮質醇水平會抑制 Dopamine 的生產。
+  - 膳食中缺乏必要的氨基酸（如 L-Tyrosine）或胃酸不足可能影響 Dopamine 的合成。
+
+#### 解決方法
+1. **營養補充**  
+   - **L-Tyrosine**：作為 Dopamine 的前體，可增加其生產所需的原料。
+   - **改善胃酸分泌**：通過攝取vinegar或其他補充劑（如HCl）來提高胃酸水平，以促進蛋白質分解和 Dopamine 前體的吸收。
+2. **降低壓力**  
+   - 使用 adaptogenic 草本提取物，如 Rhodiola 和 Holy Basil，以降低應激激素皮質醇並平衡 Dopamine 的生產。
+3. **改善胰岛素抵抗**  
+   - 減少糖分攝取，避免 insulin resistance，這有助於氨基酸的吸收和神經傳導物質的合成。
+4. ** supplements**  
+   - **Uridine**: 存在於營養酵母中，可幫助提升認知功能和 Dopamine 水平。
+
+#### 健康建議
+1. 避免過度依賴外部刺激物（如咖啡因和毒品），以防止耐受性增加和依賴。
+2. 確保均衡飲食，攝取富含 L-Tyrosine 的食物，如蛋白質豐富的食物。
+3. 管理壓力，透過運動、冥想等方式降低皮質醇水平。
+4. 多晒太陽，自然光線有助於提升 Dopamine 水平。
+
+#### 總結
+- **平衡 Dopamine 水平的關鍵** 在於結合營養攝取、壓力管理和健康的生活方式。  
+  - 避免短期刺激物的濫用，轉而透過長效且健康的途徑來維持 Dopamine 的穩定水平，以促進整體心理健康和認知功能。
 </details>
 
 <details>
-<summary>1195. Fruit Fructose vs. High Fructose Corn Syrup (HFCS) – Dr. Berg﻿ on Artificial Sweeteners</summary><br>
+<summary>1195. [2017-11-27] Fruit Fructose vs. High Fructose Corn Syrup (HFCS) – Dr. Berg﻿ on Artificial Sweeteners</summary><br>
 
 <a href="https://www.youtube.com/watch?v=B1etCiIQk60" target="_blank">
     <img src="https://img.youtube.com/vi/B1etCiIQk60/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 重點整理
 
+#### 核心主題
+- 比較天然水果中的果糖與高果糖玉米糖 syrup（HFCS）的差異。
+- 探讨果糖的代谢特性及其对人体健康的影响。
+
+#### 主要觀念
+1. **果糖來源的不同**：
+   - 天然水果中的果糖伴有纖維、營養素和植物化學物質。
+   - 高果糖玉米糖 syrup（HFCS）是由基因改造玉米制成，可能含除草劑Glyphosate。
+
+2. **果糖的代謝特性**：
+   - 果糖主要在肝臟中代谢，並轉換為脂肪，導致肝臟脂肪 accumulation、 visceral fat和動脈脂肪 deposition。
+   - 果糖可促進胰腺癌細胞的生長。
+
+3. **果糖的功能限制**：
+   - 不提供能量給Brain和肌肉。
+   - 不能滿足食慾，導致過量攝取。
+
+4. **其他甜eners的比較**：
+   - 桌面砂糖：50% 葡萄糖 + 50% 果糖。
+   - 鳗糖漿：約97% 果糖。
+
+5. **美國HFCS消費情況**：
+   - 2009年，平均每人每年攝取35.7磅HFCS。
+   - HFCS廣泛存在於果汁、汽水和加工食品中。
+
+#### 問題原因
+- 高量果糖攝取導致肥胖、代謝症候群和其他健康問題。
+- HFCS的 widespread使用增加了公共健康的風險。
+
+#### 解決方法
+- 避免食用含HFCS的食物和飲料。
+- 選擇天然甜eners，如蜂蜜或少量砂糖。
+
+#### 健康建議
+1. **飲食選擇**：
+   - 優先攝取完整的食物，而非加工食品。
+   - 多攝取富含纖維的水果和蔬菜。
+
+2. **閱讀食品標籤**：
+   - 注意HFCS的存在，避免高果糖產品。
+
+3. **限制甜eners攝取**：
+   - 控制含糖飲料和 snacks 的攝取量。
+
+#### 結論
+- HFCS是公共健康的主要風險因素之一。
+- 避免HFCS攝取是改善健康的首要步驟。
+
+---
+
+### 英文翻譯
+
+#### Core Theme
+- Comparing the differences between fructose from fruits and high-fructose corn syrup (HFCS).
+- Exploring the metabolic characteristics of fructose and its impact on human health.
+
+#### Key Concepts
+1. **Different Sources of Fructose**:
+   - Fructose in natural fruits is accompanied by fiber, nutrients, and phytonutrients.
+   - HFCS is artificially made from genetically modified corn and may contain glyphosate, an herbicide.
+
+2. **Metabolic Characteristics of Fructose**:
+   - Fructose is primarily metabolized in the liver and converted into fat, leading to hepatic fat accumulation, visceral fat, and fat deposition in arteries.
+   - Fructose can promote the growth of pancreatic cancer cells.
+
+3. **Limitations of Fructose Function**:
+   - Does not provide energy to the brain and muscles.
+   - Fails to satisfy hunger, leading to excessive consumption.
+
+4. **Comparison with Other Sweeteners**:
+   - Table sugar: 50% glucose + 50% fructose.
+   - Agave nectar: Approximately 97% fructose.
+
+5. **Consumption of HFCS in the United States**:
+   - In 2009, the average annual consumption was 35.7 pounds per person.
+   - HFCS is widely found in juice, soda, and processed foods.
+
+#### Root Causes
+- High fructose intake leads to obesity, metabolic syndrome, and other health issues.
+- The widespread use of HFCS poses risks to public health.
+
+#### Solutions
+- Avoid consuming foods and beverages containing HFCS.
+- Choose natural sweeteners like honey or minimal amounts of table sugar.
+
+#### Health Recommendations
+1. **Dietary Choices**:
+   - Prioritize whole foods over processed ones.
+   - Increase intake of fiber-rich fruits and vegetables.
+
+2. **Reading Food Labels**:
+   - Be aware of the presence of HFCS and avoid high-fructose products.
+
+3. **Limiting Sugar Intake**:
+   - Control consumption of sugary drinks and snacks.
+
+#### Conclusion
+- HFCS is a major risk factor for public health.
+- Avoiding HFCS intake is a top priority for improving health.
 </details>
 
 <details>
-<summary>1194. The 4 Causes of Feeling Too Cold – Dr. Berg</summary><br>
+<summary>1194. [2017-11-27] The 4 Causes of Feeling Too Cold – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=JZzoSGiyWUg" target="_blank">
     <img src="https://img.youtube.com/vi/JZzoSGiyWUg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 身體感到寒冷的主要原因及其潛在解決方法。
 
+---
+
+### 主要觀念
+1. **thyroid dysfunction**: 慢性甲狀腺功能低下（如橋本病）可導致身體冷感。
+2. **hypoglycemia**: 低血糖是常見的問題，需通過飲食調整來改善。
+3. **iron deficiency**: 鐵質缺乏（貧血）可能是導致寒冷的原因。
+4. **vitamin deficiencies**: 素質缺乏（如B1和B12不足）可能影響代謝。
+
+---
+
+### 問題原因
+1. **thyroid issues**:
+   - 甲狀腺功能低下的病因包括橋本病、高雌激素水平、肝臟或膽囊問題。
+   - 高雌激素水平可能由妊娠、使用避孕藥或激素替代療法引起。
+2. **hypoglycemia**:
+   - 血糖過低的原因包括飲食不均衡或長期不攝入足夠的營養。
+3. **iron deficiency**:
+   - 貧血可能是由於月經失血、雌激素 dominance、胃酸不足或 vegetarian 饮食。
+4. **vitamin deficiencies**:
+   - B1和B12缺乏可能由過量酒精攝取、高糖飲食、壓力過大或某些藥物引起。
+
+---
+
+### 解決方法
+1. **thyroid issues**:
+   - 調理甲狀腺功能需檢查並治療潛在的病因，如降低雌激素水平或改善肝臟和膽囊功能。
+2. **hypoglycemia**:
+   - 通過均衡飲食（參考影片中的建議）來提高血糖水平。
+3. **iron deficiency**:
+   - 增加胃酸攝取（如蘋果醋或鹽水）以促進鐵吸收，並增加動物性蛋白質的攝取。
+4. **vitamin deficiencies**:
+   - 確保攝取足夠的B1和B12，避免過量酒精攝取和壓力。
+
+---
+
+### 健康建議
+- 定期檢查甲狀腺功能、血糖水平和血紅蛋白值。
+- 避免高糖和高酒精飲食，保持均衡飲食。
+- 如有疑慮，及時諮詢醫療專業人員。
+
+---
+
+### 結論
+身體感到寒冷可能是多種因素導致的，包括甲狀腺問題、低血糖、貧血或素質缺乏。通過調整飲食、改善代謝功能和治療潛在病因，可以有效緩解症狀。
+
+---
+
+### English Translation
+
+#### Core Theme
+- The main causes of feeling cold in the body and potential solutions.
+
+---
+
+#### Key Concepts
+1. **Thyroid Dysfunction**: Hypothyroidism, such as Hashimoto's condition, can lead to feeling cold.
+2. **Hypoglycemia**: Low blood sugar is a common issue that needs to be addressed through dietary adjustments.
+3. **Iron Deficiency**: Iron deficiency (anemia) could be a reason for feeling cold.
+4. **Vitamin Deficiencies**: Deficiencies in vitamins B1 and B12 can affect metabolism.
+
+---
+
+#### Causes of the Problem
+1. **Thyroid Issues**:
+   - The causes of hypothyroidism include Hashimoto's disease, high estrogen levels, or liver/gallbladder problems.
+   - High estrogen levels may result from pregnancy, contraceptive pills, hormone replacement therapy, or estrogen dominance.
+2. **Hypoglycemia**:
+   - Low blood sugar can occur due to imbalanced diet or lack of sufficient nutrition intake.
+3. **Iron Deficiency**:
+   - Anemia may be caused by heavy menstrual bleeding, estrogen dominance, low stomach acid, or vegetarianism.
+4. **Vitamin Deficiencies**:
+   - Deficiencies in B1 and B12 can result from excessive alcohol consumption, high sugar intake, stress, or certain medications.
+
+---
+
+#### Solutions
+1. **Thyroid Issues**:
+   - Addressing hypothyroidism requires treating underlying causes such as reducing estrogen levels or improving liver and gallbladder function.
+2. **Hypoglycemia**:
+   - Improve blood sugar levels by following a balanced diet (refer to the suggestions in the video).
+3. **Iron Deficiency**:
+   - Increase intake of stomach acid (e.g., apple cider vinegar or salt water) to aid iron absorption and consume more animal-based proteins.
+4. **Vitamin Deficiencies**:
+   - Ensure adequate intake of B1 and B12, avoid excessive alcohol consumption, and manage stress.
+
+---
+
+#### Health Recommendations
+- Regularly check thyroid function, blood sugar levels, and hemoglobin values.
+- Avoid high-sugar and high-alcohol diets; maintain a balanced diet.
+- Consult healthcare professionals if concerns arise.
+
+---
+
+### Conclusion
+Feeling cold in the body can be caused by multiple factors, including thyroid issues, hypoglycemia, anemia, or vitamin deficiencies. By adjusting your diet, improving metabolic function, and treating underlying causes, you can effectively alleviate symptoms.
 </details>
 
 <details>
-<summary>1193. Subclinical Vitamin B1 Deficiency: Causes & Symptoms By Dr. Berg</summary><br>
+<summary>1193. [2017-11-26] Subclinical Vitamin B1 Deficiency: Causes & Symptoms By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=j3GFjEHUzFU" target="_blank">
     <img src="https://img.youtube.com/vi/j3GFjEHUzFU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：亞clinical維生素B1缺乏症  
+- 維生素B1（硫胺素） deficiency 可能不會立即在血液檢查中顯示出來，屬於subclinical狀態。
+- 這種缺乏症是逐漸惡化的，可能導致多種神經系統和全身性症狀。
 
+### 主要觀念：  
+- **神經系統症狀**：包括焦慮、記憶力減退、注意力不集中、肢體冷感以及共濟失調（如眼球震顫）。
+- **心血管與代謝問題**：高脈搏率、浮腫（踝部腫脹）、胰岛素抵抗或糖尿病。
+- **眼部問題**：晚期B1缺乏可導致肌肉萎縮，影響眼球運動。
+- **其他症狀**：包括白內障和 Baker cyst。
+
+### 問題原因：  
+- 飲食中精制糖、面粉和穀物的過量攝取會耗竭維生素B1。
+- 其他致病因素包括酒精濫用、dextrose使用、化療、HIV/AIDS、腎臟疾病以及高果糖玉米糖漿的攝取。
+
+### 解決方法：  
+- **避免致病因子**：减少精制碳水化合物和含果糖飲料的攝入，限制酒精 consumption。
+- **補充B族維生素**：優先選擇自然來源的B vitamins，如營養酵母，而非合成製劑。
+
+### 健康建議：  
+- 定期評估可能存在的B1 deficiency，特別是對有相關症狀或風險因素的人群。
+- 選擇高品質、未添加合成物質的維生素B補充劑，如天然營養酵母。
+- 確保飲食中包含豐富的全穀物、瘦肉蛋白和富含B1的食物（如葵花籽、堅果、豆類）。
+
+### 結論：  
+- 大眾可能普遍存在未被診斷的subclinical維生素B1缺乏症，需提高對其危害性的認識。
+- 避免致病因素並通過自然來源補充B vitamins是管理此問題的有效方法。
 </details>
 
 <details>
-<summary>1192. Excessive Thinking, Focus & Adrenal Function Explained By Dr. Berg</summary><br>
+<summary>1192. [2017-11-26] Excessive Thinking, Focus & Adrenal Function Explained By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=H5qsjl1_gH8" target="_blank">
     <img src="https://img.youtube.com/vi/H5qsjl1_gH8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理： excessive thinking, focus, and adrenal health
 
+---
+
+#### 1. 核心主題  
+- 討論過度思考、注意力集中以及腎上腺健康之間的關聯。  
+- 强調現代生活中的持續刺激和壓力對身心健康的影响。
+
+---
+
+#### 2. 主要觀念  
+- 現代社會不斷的外界干擾（如新聞、社交媒體、通訊工具）會導致持續的壓力反應，影響注意力和腎上腺功能。  
+- 舊技術設備（如手機、電腦）發出的電磁場（EMF）和藍光對人類健康的潛在危害。  
+
+---
+
+#### 3. 問題原因  
+- **外界干擾**：  
+  - 社交媒體、即時通訊、電話騷擾等持續干擾，破壞注意力集中。  
+  - 新聞的驚悚報導和其他社會壓力來源增加心理負荷。  
+- **技術設備影響**：  
+  - 電子產品的電磁場（EMF）可能對人類健康造成不良影響。  
+  - 螢幕藍光干擾褪黑激素分泌，影響睡眠質量和眼睛健康。  
+- **過度思考**：  
+  - 持續的問題解決模式使腎上腺長期處於壓力狀態，導致功能紊亂。
+
+---
+
+#### 4. 解決方法  
+- **自然療法**：  
+  - 請假遠足或在大自然中散步，有助於放鬆身心。  
+- **興趣愛好**：  
+  - 開發一些手工藝、藝術、音樂等 hobbies，幫助转移注意力，降低壓力水平。  
+- **行為改變**：  
+  - 减少接觸電子產品的時間，尤其是睡前避免使用手機和電腦。  
+
+---
+
+#### 5. 健康建議  
+- 每天至少安排一小時的放鬆時間，避免過度思考，讓腎上腺有機會恢復正常功能。  
+- 使用耳機進行電話及減少接觸電子產品的電磁場干擾。  
+- 避免在睡前使用藍光螢幕產品，以保護視力和促進睡眠質量。
+
+---
+
+#### 6. 總結  
+- 過度思考和持續壓力會對腎上腺功能造成負擔，影響整體健康。  
+- 要改善注意力和腎上腺健康，關鍵在於減少外界干擾、增加自然療法和興趣愛好，並養成良好的電子產品使用習慣。
 </details>
 
 <details>
@@ -109,36 +532,166 @@
 </details>
 
 <details>
-<summary>1190. The Dangers of Sugar – Karen & Dr.Berg's Discussion</summary><br>
+<summary>1190. [2017-11-25] The Dangers of Sugar – Karen & Dr.Berg's Discussion</summary><br>
 
 <a href="https://www.youtube.com/watch?v=M7Ijg9d8p8g" target="_blank">
     <img src="https://img.youtube.com/vi/M7Ijg9d8p8g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理
 
+#### 核心主題
+- 糖分攝取對健康的影響及其在現代飲食中的重要性。
+
+#### 主要觀念
+1. **糖分的種類與健康風險**  
+   - 細胞主要依賴葡萄糖作為能量來源，而果糖（如高果糖玉米 syrup 中的成分）會對肝臟造成負擔，導致脂肪累積和代謝疾病。
+   - 高糖攝取與肥胖、2型糖尿病、心臟病及炎症性病症相關。
+
+2. **食物工業中的糖分添加**  
+   - 糖分廣泛存在於加工食品中，包括醬料、穀物早餐及飲料等，消費者往往未察覺其含量。
+
+3. **兒童肥胖與代謝症的公共衛生問題**  
+   - 近年來兒童肥胖率上升，導致青少年早期出現糖尿病和心臟病風險。
+   - 家長因信息不足或混淆而未能有效控制孩子的糖分攝取。
+
+#### 問題原因
+1. **糖分 addiction 的心理影響**  
+   - 糖分刺激大腦獎賞系統，導致成瘾行為，使人類持續過量攝取。
+
+2. **食品標籤的误导性**  
+   - 许多廠商使用低GI糖分（如果糖）來掩蓋高糖事實，消費者易受騙。
+
+3. **公共衛生意識不足**  
+   - 社會對糖分危害的認識不足，導致缺乏有效的預防措施和教育。
+
+#### 解決方法
+1. **提高健康意識**  
+   - 教育公眾了解不同糖分的影響及其攝取風險。
+
+2. **食品標籤透明化**  
+   - 呼籲政府制定更嚴格的食品標籤規範，讓消費者清楚了解糖分含量。
+
+3. **家庭飲食控制**  
+   - 家長應引導孩子建立健康的飲食習慣，逐步降低糖分攝取。
+
+4. **社區 intervention 計畫**  
+   - 推動地方性健康計劃，為兒童及家長提供營養教育和資源。
+
+#### 健康建議
+1. **閱讀食品標籤**  
+   - 學會識別隱藏糖分，避免攝取高果糖食品。
+
+2. **選擇低糖或無糖替代品**  
+   - 使用天然甜味劑（如蜂蜜、棗泥）並 Experiment 食材的自然風味。
+
+3. **健康飲食教育**  
+   - 從小培养孩子的健康飲食習慣，逐漸減少對加工食品的依賴。
+
+4. **定期評估與改進**  
+   - 家庭可每兩週評估飲食計劃，持續改善饮食結構。
+
+#### 結論
+- 高糖攝取嚴重影響公共衛生，需集體行動以降低兒童肥胖和代謝疾病風險。家長、教育機構及政府應共同努力，通過健康教育和政策引導，幫助公眾做出更健康的選擇。
 </details>
 
 <details>
-<summary>1189. Wheatgrass Juice Powder and Mineral-Rich Soils – Dr. Berg’s Interview</summary><br>
+<summary>1189. [2017-11-24] Wheatgrass Juice Powder and Mineral-Rich Soils – Dr. Berg’s Interview</summary><br>
 
 <a href="https://www.youtube.com/watch?v=FszhFAwpviM" target="_blank">
     <img src="https://img.youtube.com/vi/FszhFAwpviM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理
 
+#### 1. 核心主題
+- 素食草本 juice powder 的研發與營養價值。
+- 燕麥草生長週期對營養成分的影響。
+- 温控干燥技術在產品加工中的應用。
+
+#### 2. 主要觀念
+- 燕麥草在其生命周期中會先積累大量營養素（如蛋白質、葉綠素、β-胡蘿蔔素等），然後轉化為碳水化合物和糖分以供應種子的生長。
+- 在營養最豐富的時期收割燕麥草，可以最大程度地保留其營養價值。
+- 使用溫控干燥技術（106°F）可以在不破壞營養成分的前提下，將その汁粉末加工成產品。
+
+#### 3. 問題原因
+- 燕麥草在成熟後會將營養素轉化為碳水化合物和糖分，導致營養價值降低。
+- 市面上現有產品可能採用過高的溫度進行干燥，破壞了營養成分。
+
+#### 4. 解決方法
+- 在燕麥草轉向種子生長模式之前收割，確保獲得最高營養價值的原料。
+- 運用溫控技術（106°F）進行干燥，既保留了營養成分，又避免了高溫對其造成的破壞。
+
+#### 5. 健康建議
+- 燕麥草汁粉末富含蛋白質、葉綠素和β-胡蘿蔔素等營養成分，適合用於補充每日所需的多種維生素和礦物質。
+- 適當攝取燕麥草相關產品，可以增強免疫力、促進新陳代謝和提供持久的能量來源。
+
+#### 6. 結論
+- 燕麥草在其生命周期中存在最佳收割期，此時的營養價值最高。
+- 温控技術是保持燕麥草汁粉末營養成分的有效方法。
+- 通過科學的加工工藝，可以生產出高营养价值、低溫度破壞的产品。
+
+### 多個關鍵概念
+1. **燕麥草生命周期**：植物在生長初期會積累大量營養素，然後轉化為碳水化合物和糖分以供應種子生長。
+2. **營養價值峰值**：在燕麥草轉向種子生長模式之前收割，可以獲得最高營養價值的原料。
+3. **溫控干燥技術**：使用106°F的溫度進行干燥，可以在不破壞營養成分的前提下加工產品。
+4. **營養保留**：科學的加工工藝可以有效保留燕麥草中的蛋白質、葉綠素和β-胡蘿蔔素等營養成分。
 </details>
 
 <details>
-<summary>1188. How Does Intermittent Fasting Boost The Immune System? – Dr.Berg</summary><br>
+<summary>1188. [2017-11-23] How Does Intermittent Fasting Boost The Immune System? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=cjNuUz1CWb0" target="_blank">
     <img src="https://img.youtube.com/vi/cjNuUz1CWb0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題
+- 本文探討間歇性禁食（In a Minute Fasting）對免疫系統的影響及其在治療各種免疫相關疾病中的應用。
+
+#### 主要觀念
+1. **免疫系统的主要部位**  
+   - 八十 percent of the immune system is located in the gut, 消化道是免疫系統的重要 trú 所，擁有多個淋巴組織和屏障來過濾有害物質。
+
+2. **間歇性禁食對免疫系統的影響**  
+   - 間歇性禁食可刺激白血球（white blood cells），包括巨噬細胞（macrophages）、中性粒細胞（neutrophils）、單核細胞（monocytes）和殺手T細胞（killer T cells），增強免疫反應。
+
+3. **自噬作用（Autophagy）**  
+   - 間歇性禁食能啟動細胞的自噬機制，幫助清除受損或感染的acellular成分，包括病毒、酵母菌、霉菌和真菌。
+
+4. **與癌症的關聯**  
+   - 癌症細胞具有比正常細胞多10到70倍的胰島素受體，通過降低胰島素水平，間歇性禁食可改善胰島素抵抗，並增強免疫系統對癌細胞的監視和清除能力。
+
+#### 問題原因
+- 高頻率進餐：
+  - 持續刺激胰岛素分泌。
+  - 可能導致腸道屏障受損，影響免疫功能。
+  
+- 現代飲食習慣：
+  - 导致免疫系統過度活化，增加 autoimmune diseases 的風險。
+
+#### 解决方法
+1. **實施間歇性禁食**  
+   - 定期進行禁食，讓免疫系統恢復和修復。
+   
+2. **改善飲食結構**  
+   - 減少精製糖和高GI食物的攝取，降低胰島素水平。
+
+3. **增強腸道屏障功能**  
+   - 通過均衡飲食和補充益生菌，維持腸道屏障完整性，防止有害物質滲透。
+
+#### 健康建議
+- 間歇性禁食不僅可幫助減重，更能有效提升免疫系統功能。
+- 配合健康飲食習慣，如攝取足夠的營養和維生素，進一步增強免疫力。
+- 對於患有自體免疫疾病或慢性炎症性疾病的人群，間歇性禁食可能是有效的輔助治療手段。
+
+#### 結論
+- 間歇性禁食是一種簡單而有效的健康策略，可通過多方面提升免疫功能，預防和改善多種免疫相關疾病。
+- 建議個人根據自身情況，在專業醫療人員的指导下，開始間歇性禁食計劃。
 </details>
 
 <details>
@@ -460,45 +1013,39 @@
         alt="[Youtube]" width="200">
 </a>
 
-### 核心主題
-- **Sprouting and Nutritional Benefits**: The process of sprouting seeds releases a significant amount of nutrients, making it more nutritious than consuming the seeds in their raw or ground form.
+# 文章整理與分析
 
-### 主要觀念
-1. **Nutrient Release During Sprouting**:
-   - Vitamin A: 285% increase.
-   - Vitamin B1: 208% increase.
-   - Vitamin B2: Over 500% increase.
-   - Vitamin B3: 256% increase.
-   - Increased levels of Vitamin C, essential fatty acids, enzymes, and minerals (e.g., potassium, calcium).
+## 核心主題  
+- 探讨 sprouts（芽菜）的营养价值及其对人体健康的影响。
 
-2. **Phytic Acid and Enzyme Inhibitors**:
-   - Sprouting reduces phytic acid, which binds to minerals and inhibits their absorption.
-   - It also neutralizes enzyme inhibitors, improving digestibility.
+## 主要觀念  
+1. **營養價值提升**：  
+   - 在發芽過程中，種子釋放了大部分的營養成分。相比直接將種子磨成面粉或製作食物，食用芽菜能提供更高的營養價值。
+   - 芽菜富含維生素（如维生素A、B1、B2、B3、C）、必需脂肪酸、酶和礦物質（如钾、钙）。
 
-3. **Protein Content**:
-   - Protein content increases by 30% when seeds are sprouted.
+2. **具體數據**：  
+   - 維生素A的含量增加285%。  
+   - B1增加208%，B2超過500%，B3超過256%。  
+   - 蛋白質含量提高30%。  
 
-4. **Specific Examples**:
-   - Broccoli sprouts contain 50 times more sulfuraphane than mature broccoli, offering significant phytonutrient benefits.
+3. **特殊案例**：  
+   - 西兰花芽菜含有豐富的植物化學物，其硫氰化物含量比成熟西兰花高50倍。
 
-### 問題原因
-- **Risk of Pathogens**: Commercially bought sprouts may carry bacteria like E. coli or Salmonella due to improper handling or contamination during growth.
+## 問題原因  
+- 市售芽菜可能存在食品安全風險，如大腸桿菌或沙門氏菌污染。
 
-### 解决方法
-- **Home Sprouting**: A cost-effective and safe alternative to purchasing pre-packaged sprouts. Home sprouting allows for better control over the growing process, reducing the risk of bacterial contamination.
+## 解決方法  
+- **自制芽菜**：  
+   - 買賣芽菜可能存在的衛生問題可通过自行發芚來避免。  
+   - 自制芽菜成本低廉且可控，推薦.methods和資源已提供在影片中。
 
-### 健康建議
-- **Incorporate Sprouts into Diet**: Add sprouts to salads, sandwiches, or other dishes to maximize nutrient intake.
-- **DIY Sprouting**: For safety and quality, consider growing your own sprouts at home using simple methods.
+## 健康建議  
+- 食用芽菜時，應選擇新鮮、無污染的來源。  
+- 為確保食品安全，優先考慮自制芽菜或購買可靠來源的產品。  
 
-### 結論
-- **Nutritional Superiority of Sprouts**: Sprouted seeds provide superior nutritional value compared to un-sprouted seeds.
-- **Safety through Home Production**: Growing sprouts at home is recommended to avoid potential health risks associated with store-bought sprouts.
-
----
-
-**總結**:
-Sprouting seeds offers a nutrient-rich alternative to traditional seed consumption, providing enhanced levels of vitamins, minerals, and enzymes. While commercial sprouts may pose health risks due to bacterial contamination, home sprouting is a safe and economical solution. By incorporating sprouts into one's diet and adopting DIY sprouting methods, individuals can maximize nutritional benefits while minimizing health risks.
+## 結論  
+- 芽菜是高營養價值的食物，能提供多種維生素、礦物質和酶。  
+- 自制芽菜不僅經濟實惠，且能有效避免食品安全風險。
 </details>
 
 <details>
