@@ -3067,113 +3067,628 @@
 </details>
 
 <details>
-<summary>3344. Do You Have Salad Bloating Syndrome?</summary><br>
+<summary>3344. [2021-03-05] Do You Have Salad Bloating Syndrome?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8jSgo8WaR0U" target="_blank">
     <img src="https://img.youtube.com/vi/8jSgo8WaR0U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理： Salad Bloating Syndrome 的分析與建議
 
+#### 核心主題
+- ** Salad Bloating Syndrome**：在增加蔬菜攝取後出現腹脹的情況。
+- 本文探討導致此問題的四種可能情況及相應的解決方法。
+
+---
+
+#### 主要觀念
+1. **小腸细菌過生長（SIBO）**
+   - 正常菌群位於大腸，若遷移到小腸即為SIBO。
+2. **腸漏症候群（Leaky Gut）**
+   - 腸道屏障受損，導致物質滲透，引發免疫反應。
+3. **益生菌不足**
+   - 纤維攝取過多而有益菌不足，導致腹脹。
+4. **蔬菜敏感性**
+   - 過敏或不耐受特定蔬菜（如捲心菜、西兰花）。
+
+---
+
+#### 問題原因
+1. **SIBO**：
+   - 膠原蛋白吸收受阻，纖維在小腸發酵，導致腹脹。
+2. **Leaky Gut**：
+   - 蔬菜中的 Lectin 和 Nightshade 類植物（如番茄、甜椒）引起免疫反應。
+3. **益生菌不足**：
+   - 纤維未被充分分解，造成腸道不適。
+4. **蔬菜敏感性**：
+   - 特定蔬菜的成分引發不耐受反應。
+
+---
+
+#### 解決方法
+1. **SIBO**：
+   - 采用 Carnivore 饮食（以肉為主）。
+   - 使用 Betaine Hydrochloride 和 Oregano Oil 調節腸道環境。
+2. **Leaky Gut**：
+   - 增加優質蛋白攝取，選擇 pasture-raised 草饲肉類。
+   - 遠離有害脂肪（如 seed oils），多攝取aturated fats（如lard、Tallow）。
+3. **益生菌不足**：
+   - 补充非乳製的益生菌サプリメント。
+4. **蔬菜敏感性**：
+   - 減少或避免特定敏感蔬菜，選擇較為安全的蔬菜（如卷心菜）。
+
+---
+
+#### 健康建議
+1. **飲食調整**：
+   - 短期試行 Carnivore 饮食以測試效果。
+   - 避免加工食品和有害脂肪，優先選擇天然、健康的脂肪來源。
+2. **益生菌攝取**：
+   - 與蔬菜一同服用高劑量的非乳製益生菌サプリメント。
+3. **個化飲食**：
+   - 根據個人情況調整蔬菜攝取，避免敏感食物。
+
+---
+
+#### 結論
+- Salad Bloating Syndrome 可能由多種因素引起，需針對性解決。
+- 適當調整飲食結構、補充益生菌及注意腸道健康可有效改善症狀。
+- 倡導個化飲食方案，並強調通過課程進一步學習免疫系統的增強方法。
 </details>
 
 <details>
-<summary>3343. Foods That Can Increase Your Libido...Only If...</summary><br>
+<summary>3343. [2021-03-04] Foods That Can Increase Your Libido...Only If...</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Z_43_TQ4lBs" target="_blank">
     <img src="https://img.youtube.com/vi/Z_43_TQ4lBs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：提升 libido 的食物及其健康影響
 
+#### 核心主題
+本文探討了若干foods that can potentially boost libido in both men and women，強調這些食物的 Aphrodisiac 效果，並討論了可能影響 libido 的因素及解決方法。
+
+#### 主要觀念
+1. **Testosterone 的重要性**  
+   Testosterone 是增強 libido 的主要激素，在男性和女性中均發揮重要作用。然而，女性需保持適當平衡，過高會導致副作用如面部毛發增多、聲音低沉等。
+
+2. **Estrogen 的影響**  
+   過多的 estrogen 會降低 testosterone 水平，進而抑制 libido。酒精、乳制品和大豆製品（如豆油、大豆蛋白）可能增加體內 estrogen，需注意攝取量。
+
+3. **水質問題**  
+   自來水中含有各種化學物質和激素，包括 estrogen，建議使用過濾器改善飲用水 quality。
+
+#### 啟發原因
+- 睡眠不足、慢性壓力過大及高碳水化合物、高糖分飲食會削弱 libido 效應。
+- 激素失衡（如 testosterone 和 estrogen 的不平衡）是影響 libido 的重要因素。
+
+#### 解決方法
+1. **健康飲食建議**  
+   - **均衡飲食**：避免高碳水和高糖分食物，選擇低碳水 diet 以支持激素平衡。
+   - **攝取富含礦物質的食物**：如 Pistachios、Oysters 等，增強 testosterone 和其他有益於 libido 的 mineral。
+
+2. **增加 Testosterone 的食物**
+   - **Pistachios**：富含精氨酸，可提升一氧化氮水平，類似 Viagra 的作用。
+   - **Oysters**：富含鋅和硒，能有效提升 testosterone。
+   - **咖啡**：適量攝取含カフェイン和多酚，有助於支持 testosterone 水平。
+   - **藏紅花（Saffron）**：用於治療抑鬱症，可增強情緒和生育能力。
+   - **Maca Root**：俗稱秘魯威而鋼，能提升 testosterone。
+   - **Asparagus**：含有天然類固醇前體，有助於增加 testosterone。
+   - **松露（Truffles）**：某些研究顯示其能增加 testosterone。
+   - **甜菜（Beets）**：可增強一氧化氮，但需注意份量以避免攝入過多糖分。
+
+3. **健康生活方式建議**
+   - **充足睡眠**：確保足夠的休息以維持激素平衡。
+   - **降低壓力**：壓力管理有助於保持 testosterone 水平。
+   - **規律運動**：運動能提升 testosterone 和整體健康。
+
+#### 結論
+雖然某些食物可能對 libido 有積極影響，但這些效果需在良好的生活方式和飲食習慣下才能顯現。因此，建議結合充足睡眠、壓力管理、低碳水 diet 及規律運動，以實現最佳的 libido 效應。
 </details>
 
 <details>
-<summary>3342. The Amazing Macadamia Nut</summary><br>
+<summary>3342. [2021-03-04] The Amazing Macadamia Nut</summary><br>
 
 <a href="https://www.youtube.com/watch?v=c0vl1cDGkfM" target="_blank">
     <img src="https://img.youtube.com/vi/c0vl1cDGkfM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+###  小節整理  
+#### 核心主題：堅果在酮飲食中的角色與	Macadamia nuts 的優點  
 
+1. **主要觀念**：  
+   - Macadamia nuts 是高脂肪、低碳水化合物的食品，適合酮飲食。  
+   - 它們含有豐富的單不飽和脂肪酸（79克/杯），且多不飽和脂肪酸含量低（2克/杯）。  
+
+2. **問題原因**：  
+   - 長時間存放可能导致 Macadamia nuts 变質，影響食用品質。  
+
+3. **健康建議**：  
+   - 選擇新鮮的 Macadamia nuts，避免久存。  
+   - 由于其高脂肪含量，酮飲食中可作為增加熱量和脂肪來源的良好選擇。  
+   - 定期攝取可幫助穩定血糖、提高胰島素敏感性並降低炎症反應。  
+
+4. **營養價值**：  
+   - 富含維生素B1、銅、鎂、鐵、葉酸等多種營養成分。  
+   - 高含量的棕榈油酸（一種ω-7脂肪酸）有助於提高HDL（好膽固醇），降低LDL（壞膽固醇）。  
+
+5. **安全注意**：  
+   - Macadamia nuts 对狗有毒，可能導致腸胃不適或神經系統受損。  
+
+6. **食用建議**：  
+   - 可在餐後食用一小把Macadamia nuts以增加飽足感。  
+
+7. **結論**：  
+   - Macadamia nuts 是酮飲食中理想的高脂肪、低碳水化合物食品，具有多種健康益處，但需注意新鮮度和適量攝取。
 </details>
 
 <details>
-<summary>3341. Good Fat vs. Bad Fats</summary><br>
+<summary>3341. [2021-03-03] Good Fat vs. Bad Fats</summary><br>
 
 <a href="https://www.youtube.com/watch?v=4DJG_FOQF5M" target="_blank">
     <img src="https://img.youtube.com/vi/4DJG_FOQF5M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 1. 核心主題：食用油的分類與健康影響
+- **核心主題**：文章主要探討了食用油的分類及其對健康的影響，強調區分「好脂肪」和「壞脂肪」的重要性。
+
+#### 2. 主要觀念：
+- **壞脂肪來源**：
+  - 大豆油、玉米油、菜籽油、棉籽油等多數為基因改造作物（GMO）來源。
+  - 加工過程中使用有毒溶劑（如六甲苯），可能殘留除草劑（如 glyphosate）。
+  
+- **壞脂肪的危害**：
+  - 富含omega-6脂肪酸，導致炎症反應。
+  - 存在反式脂肪和氧化安定性差，易引起心血管疾病。
+
+#### 3. 好脂肪的特性與來源：
+- **好脂肪特點**：
+  - 富含飽和脂肪，具有良好的氧化穩定性。
+  - 提供必需營養素（如CLA、維生素K2、維生素A等）。
+  
+- **推薦的好油種類**：
+  - **動物性油脂**：
+    - 熊肉 fat (Tallow)
+    - 牛油 (Butter)，建議選擇草饲且未加工的 butter 或酥油（Ghee）。
+    - 駱駝油，富含B12、活性維生素A和CLA。
+  
+  - **植物性油脂**：
+    - 橄欖油（Virgin Olive Oil），推薦高品質 Italian 純天然產品。
+    - 椰子油，含豐富月桂酸，促進酮體生成，適合高溫烹調。
+    - 芒果油，富含抗氧化劑和β-胡萝卜素。
+
+#### 4. 食用油加工與環境影響：
+- **問題原因**：
+  - 非可持續的棕榈油種植破壞生態環境。
+  
+- **解決方法**：
+  - 選擇_eco-friendly_棕榈油，支持可持續農業。
+
+#### 5. 健康建議：
+- **壞脂肪攝取的限制**：
+  - 減少精煉植物油和反式脂肪的攝入。
+  
+- **好脂肪的合理攝取**：
+  - 選擇未加工或 minimally processed 的動物性油脂。
+  - 確保食用油來源可追溯，避免 GMO 製品。
+
+#### 6. 個人化飲食建議：
+- 根據個人健康狀況（如免疫系統、腸胃敏感度）選擇合適的油種。
+- 適當配合酮ogenic diet 或其他飲食模式以增強健康效果。
+
+### 英文要點翻譯
+
+1. **Core Theme**:
+   - The classification and health impact of cooking oils, emphasizing the distinction between "good fats" and "bad fats."
+
+2. **Major Concepts**:
+   - *Bad Fats* Sources: S大豆 oil, corn oil, rapeseed oil, cottonseed oil, mostly from GMO crops.
+     - Processing involves toxic solvents (e.g., hexane) and potential residues of herbicides like glyphosate.
+   
+   - *Bad Fats* Hazards:
+     - High in omega-6 fatty acids, promoting inflammation.
+     - Presence of trans fats and poor oxidative stability, leading to cardiovascular issues.
+
+3. **Good Fats Characteristics and Sources**:
+   - *Good Fats Features*:
+     - Rich in saturated fats with good oxidation stability.
+     - Provide essential nutrients like CLA, vitamin K2, and vitamin A.
+   
+   - Recommended Good Oils:
+     - *Animal Fats*:
+       - Beef fat (Tallow)
+       - Butter, preferably grass-fed and minimally processed, or ghee for those with dairy sensitivity.
+       - Camel fat, abundant in B12, active vitamin A, and CLA.
+
+     - *Plant-Based Oils*:
+       - Virgin olive oil, recommended for high-quality Italian extra virgin varieties.
+       - Coconut oil, rich in lauric acid, supports ketosis, and suitable for high-temperature cooking.
+       - Palm oil, particularly eco-friendly red palm oil with high antioxidant content.
+
+4. **Processing and Environmental Impact**:
+   - *Issue*: Unsustainable palm oil cultivation causing environmental destruction.
+   - *Solution*: Choose eco-friendly palm oil supporting sustainable agriculture practices.
+
+5. **Health Recommendations**:
+   - Limit intake of refined vegetable oils and trans fats.
+   - Opt for unprocessed or minimally processed animal fats.
+   - Ensure traceability and avoid GMO-derived products in oil selection.
+
+6. **Personalized Dietary Advice**:
+   - Tailor oil choices based on individual health conditions (e.g., immune system strength, gut sensitivity).
+   - Incorporate compatible diet plans like keto to enhance health benefits.
+
+---
+
+### 附註
+此整理涵蓋了文章的主要內容，並分門別類地介紹了壞脂肪的來源、危害，以及推薦的好油種類。同時，也強調了環境影響和個人化飲食建議的重要性。
 </details>
 
 <details>
-<summary>3340. How to Get More Discipline for Keto and Exercise</summary><br>
+<summary>3340. [2021-03-03] How to Get More Discipline for Keto and Exercise</summary><br>
 
 <a href="https://www.youtube.com/watch?v=VybIvm0spDo" target="_blank">
     <img src="https://img.youtube.com/vi/VybIvm0spDo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題
+- 通過酮飲食（Keto）和運動來提升自我紀律。
+- 分享從缺乏紀律到具備良好紀律的心路历程。
+- 强調能量管理和情緒控制在增強紀律中的重要作用。
+
+#### 主要觀念
+1. 紀律的定義：自我控制，抵制干擾進展或消極情感的衝動。
+2. 低energy被誤認為是 lazy，其實是疲勞導致缺乏行動力。
+3. 情緒管理對行為的影響：高情緒水平通常伴隨良好的紀律。
+4. 動作速度與情緒及紀律的關聯性。
+
+#### 問題原因
+- 初期酮飲食常被錯誤執行，導致能量不足或健康問題。
+- 經常陷入低energy状态，缺乏行動力。
+- 情緒消極或疲勞影響行為和紀律。
+
+#### 解決方法
+1. 酮飲食的正確實施：參加專業課程以確保成功執行。
+2. 提升情緒：
+   - 使用音樂等工具增強情緒。
+   - 與積極向上的朋友合作或社交。
+3. 增加動作速度，提升能量和情緒水平。
+4. 獲得專業指導：
+   - 雇傭個人教練以超越自我限制。
+   - 討索健康教練的專業建議以彌補信息不足。
+5. 信守承諾：保持一貫性，增強意志力和信任度。
+
+#### 健康建議
+1. 初期酮飲食建議從簡單食譜開始，逐步增加複雜度。
+2. 運動可以由短時間散步或簡單動作開始，循序漸進。
+3. 加強免疫系統：參加「如何加固免疫系統」免費課程，提升對外界環境的耐受力。
+
+#### 結論
+- 通過正確執行酮飲食、情緒管理、專業指導和一貫性行動，可以有效增強自我紀律。
+- 良好的紀律和健康的生活方式需要逐步建立，關鍵在於保持行動力和積極心態。
 </details>
 
 <details>
-<summary>3339. The Benefits of Black Seed Oil</summary><br>
+<summary>3339. [2021-03-02] The Benefits of Black Seed Oil</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vUBgjAh8Ufk" target="_blank">
     <img src="https://img.youtube.com/vi/vUBgjAh8Ufk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+黑種子油（Black Seed Oil）在多個文化中具有悠久歷史，並展示出廣泛的健康和醫療應用。
+
+---
+
+#### 主要觀念
+1. **古代歷史與考古證據**  
+   - 黑種子在古埃及法老圖坦卡蒙陵墓中被發現，表明其使用歷史悠久。
+   
+2. **多樣化的生物活性成分**  
+   - 含有噻嘧啶（Thymoquinone）等抗炎、抗氧化和抗癌成分。
+
+3. **抗癌機制**  
+   - 通過誘導癌細胞凋亡（Apoptosis）來殺死癌细胞，而不影響正常細胞。
+   - 具備Somatostatin Analog的特性，阻斷腫瘤生長所需途徑。
+
+4. **神經保護作用**  
+   - 抗氧化特性可保護神經系統免受自由基損傷。
+
+5. **腎臟保護作用**  
+   - 能夠抵禦由糖尿病、藥物（如對乙酰氨基酚、抗生素等）和環境毒性物質（如鉛、水銀、鎘、鋁、嗎啡）引起的腎臟損害。
+
+6. **其他健康功效**  
+   - 抗痙攣作用，幫助控制癲癇。
+   - 作為利尿劑，減少腹脹。
+   - 支持免疫系統，增加巨噬細胞活性。
+
+---
+
+#### 問題原因
+現代醫學中，腫瘤和神經退行性疾病等疾病的治療往往伴隨著副作用，且缺乏針對性療法。藥物濫用和環境污染物質對人體健康造成威脅。
+
+---
+
+#### 解决方法
+1. **自然療法**  
+   - 使用黑種子油作為補充療法，減少傳統藥物的副作用。
+   
+2. **抗氧化與抗炎治療**  
+   - 通過其抗氧化特性修復氧化應激造成的損傷。
+
+3. **腎臟健康維護**  
+   - 減少接觸環境污染物質，並利用黑種子油的保護作用。
+
+---
+
+#### 健康建議
+1. 考慮將黑種子油納入日常飲食或作為補充劑。
+2. 使用前諮詢醫療專業人員，確保其安全性與適用性。
+3. 結合抗氧化和抗炎飲食，增強整體健康。
+
+---
+
+#### 總結
+黑種子油具有多樣化的生物活性成分，可應對哮喘、高血壓、糖尿病、腫瘤等多種疾病，並提供神經和腎臟保護。其作為自然療法的潛力值得進一步研究與應用。
 </details>
 
 <details>
-<summary>3338. 5 Ways Tallow (Beef Fat) Can Help You Lose Weight</summary><br>
+<summary>3338. [2021-03-02] 5 Ways Tallow (Beef Fat) Can Help You Lose Weight</summary><br>
 
 <a href="https://www.youtube.com/watch?v=rb13pY9CBQ4" target="_blank">
     <img src="https://img.youtube.com/vi/rb13pY9CBQ4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：Tallow（lard油）在.weight loss中的潛在作用
 
+---
+
+#### 主要觀念：
+1. **Historical Context of Fats in Cooking**:
+   - Tallow was the primary fat used for cooking before Crisco became popular.
+   - Crisco, a trans fat made from hydrogenated cottonseed oil, was marketed as a healthier alternative to saturated fats for 97 years.
+
+2. **Misinformation About Saturated Fats and Seed Oils**:
+   - The 1970s introduced the food pyramid, promoting the idea that saturated fats cause heart disease and advocating the use of seed oils rich in omega-6 fatty acids.
+   - Seed oils are highly inflammatory and oxidative, contributing to heart disease, while saturated fats like tallow are stable and less oxidizing.
+
+3. **Tallow's Health Benefits**:
+   - Tallow is high in conjugated linoleic acid (CLA), which promotes fat burning.
+   - It contains fat-soluble vitamins (A, D, E) and omega-3 fatty acids like DHA, supporting longer fasting periods and reducing insulin levels.
+
+4. **Tallow's Role in Weight Loss**:
+   - Tallow helps reduce carbohydrate cravings and hunger due to its satisfying properties.
+   - Unlike carbohydrates and proteins, fat does not trigger significant insulin release, aiding weight loss by maintaining lower insulin levels.
+
+5. **Gut Health and Insulin Resistance**:
+   - Consuming tallow reduces gut inflammation, which in turn lowers insulin resistance and supports better blood sugar regulation.
+
+---
+
+#### 問題原因：
+- The historical promotion of seed oils as healthier alternatives to saturated fats has led to widespread misinformation.
+- Seed oils are highly inflammatory and oxidative, contributing to chronic diseases like heart disease.
+- Modern diets often lack high-quality fats with essential vitamins and nutrients, leading to unsatisfied hunger and poor weight management.
+
+---
+
+#### 解决方法：
+1. **Choose High-Quality Fats**:
+   - Opt for organic, grass-fed tallow as a sustainable and nutritious fat source.
+   - Replace seed oils (omega-6-rich) with saturated fats like tallow to reduce inflammation and oxidative stress.
+
+2. **Adopt Intermittent Fasting**:
+   - Incorporate intermittent fasting to enhance weight loss by reducing insulin levels and curbing carbohydrate cravings.
+
+3. **Enhance Immune System Health**:
+   - Strengthen your immune system through proper nutrition and lifestyle changes, allowing better tolerance of external environmental stressors.
+
+---
+
+#### 健康建議：
+- Include tallow in a healthy ketogenic diet to ensure satisfaction during fasting periods.
+- Prioritize organic and grass-fed sources of tallow for maximum nutritional benefits.
+- Avoid seed oils and focus on stable, nutrient-dense fats for cooking and nutrition.
+
+---
+
+#### 結論：
+The article challenges the historical narrative promoting seed oils over saturated fats, highlighting the superior health benefits of tallow. By incorporating high-quality saturated fats like tallow into one's diet, individuals can experience improved weight loss, reduced inflammation, and better overall health. It emphasizes the importance of reevaluating dietary choices based on accurate nutritional information rather than misleading marketing campaigns.
+
+--- 
+
+This structured approach provides a clear understanding of the article's arguments, evidence, and recommendations regarding the use of tallow for weight management and general health.
 </details>
 
 <details>
-<summary>3337. Is Microwave Popcorn Safe to Eat?</summary><br>
+<summary>3337. [2021-03-01] Is Microwave Popcorn Safe to Eat?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vp8bpUrcvOg" target="_blank">
     <img src="https://img.youtube.com/vi/vp8bpUrcvOg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+1. 討論圍繞於個人健康、情感狀態及環境條件（如天氣）的相互影響。  
+2. 探討心理與生理健康之間的關聯性。  
 
+---
+
+### 主要觀念  
+1. 個人健康狀況受到外界因素（如天氣變化）的顯著影響。  
+2. 情感狀態和社交關係對整體幸福感有重要影響。  
+3. 經驗與學習（如朋友教授英語課程）在個人成長中的價值。  
+
+---
+
+### 問題原因  
+1. 天氣狀況不穩定，導致身體不適和心理壓力增加。  
+2. 情感疏遠或缺乏支持可能影響個人心理健康。  
+3. 知識不足或未正確應用（如未理解パートICLE的概念）可能限制學習進展。  
+
+---
+
+### 解決方法  
+1. 保持對環境變化的敏感性，並採取相應措施（如穿衣適應天氣）。  
+2. 加強與亲友的溝通，尋求情感支持。  
+3. 系統化學習，確保對知識的理解和正確應用。  
+
+---
+
+### 健康建議  
+1. 注意身體 signals，必要時調整生活方式以應對環境變化。  
+2. 遴低應激源，保持心理平衡。  
+3. 通過健康飲食、充足睡眠和適度運動來提升整體免疫力。  
+
+---
+
+### 結論  
+1. 個人健康與幸福是多方面因素的結果，需 комплексно 접근。  
+2. 情感支持和知識累積在個人發展中扮演關鍵角色。  
+3. 面對環境變化時，保持適應性和彈性是維持整體 wellbeing 的關鍵。
 </details>
 
 <details>
-<summary>3336. Keto on Steroids Updated Plan</summary><br>
+<summary>3336. [2021-03-01] Keto on Steroids Updated Plan</summary><br>
 
 <a href="https://www.youtube.com/watch?v=PHX1sTdhhpI" target="_blank">
     <img src="https://img.youtube.com/vi/PHX1sTdhhpI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+---
+
+#### 核心主題  
+文章主要探討了一種結合酮飲食（Ketogenic Diet）和生酮 steroids 的飲食與生活方式策略，旨在提升整體健康、增肌減脂以及改進運動表現。此外，文中強調了定期禁食、壓力管理、睡眠品質等多方面因素對健康的重要影響。
+
+---
+
+#### 主要觀念  
+1. **酮飲食的基本原理**：  
+   酮飲食是一種高脂肪、低碳水化合物的飲食模式，旨在將體內代謝從糖類燃燒轉為脂肪燃燒，進而進入酮症狀態。這種狀態被認為具有多項健康益處，包括減重、增肌和改善胰島素敏感性。
+
+2. **酮飲食與生酮 steroids 的結合**：  
+   文章提到，某些個體可能需要或選擇在酮飲食中加入生酮 steroid（如睾osterone）以進一步提升健身效果。然而，這需根據個人狀況酌情決定。
+
+3. **定期禁食的重要性**：  
+   文章建議每兩周進行一次48小時的禁食（Periodic Prolonged Fasting），旨在為身體提供恢復和更新的機會，促進整體健康和代謝功能。
+
+---
+
+#### 問題原因  
+1. **現代生活方式的影響**：  
+   現代人普遍存在高糖、高碳水化合物的飲食習慣，缺乏運動，且生活壓力大，導致肥胖、代謝紊亂及相關慢性病風險增加。  
+
+2. **營養 deficiency 的潛在風險**：  
+   单一飲食模式（如酮飲食）可能導致某些營養素（如B群維生素、維生素D等）的攝取不足，影響整體健康。
+
+3. **缺乏充足的休息與壓力管理**：  
+   睡眠不足和壓力過大會干擾代謝功能，抑制免疫系統，並增加肥胖和其他疾病的風險。
+
+---
+
+#### 解決方法  
+1. **酮飲食的應用**：  
+   選擇高脂肪、低碳水化合物的食物來源，如肥瘦相間的肉類、魚類、蛋類和健康脂肪（如橄欖油、椰子油）。避免攝入糖分和精制碳水化合物。
+
+2. **生酮 steroid 的使用**：  
+   在醫生或營養專家的指导下，酌情使用生酮 steroid 以增強健身效果。需注意其潛在副作用並定期監測健康指標。
+
+3. **實施定期禁食**：  
+   每兩周進行一次48小時禁食，建議於禁食期間攝取必要電解質（如鹽水），以維持身體橢康並避免不適。
+
+4. **壓力管理與睡眠優化**：  
+   - 避免睡前接觸刺激性活動（如觀看新聞或電子產品）。  
+   - 維繫良好的睡眠時規，建議於晚上9點前就寢，早晨早起。  
+   - 如有需要，可使用天然助眠劑或進行放鬆訓練。
+
+---
+
+#### 健康建議  
+1. **飲食調整**：  
+   遵循酮飲食的基本原則，並根據個人需求調整食物選擇和份量。  
+
+2. **營養補充**：  
+   - 使用營養酵母補充B群維生素。  
+   - 通過攝取 cod liver 或cod liver oil 补充Omega-3脂肪酸、維生素A和D。  
+   - 每日攝取1-1.5茶匙的海鹽，以維持電解質平衡。
+
+3. **運動建議**：  
+   - 每周進行2次高強度全身阻力訓練（如槓鈴或啞鈴訓練）。  
+   - 在禁食期間進行晨跑或其他有氧運動，以增強代謝效果。  
+
+4. **環境與心理調適**：  
+   選擇正向的人際互動，避免接觸Negative影響，並多於自然环境中活動以提升身心健康。
+
+---
+
+#### 結論  
+文章強調，酮飲食結合生酮 steroid、定期禁食以及良好的生活方式（如壓力管理、充足睡眠）能夠顯著改進身體 composition 和整體健康。然而，實施此策略需根據個人狀況量身定制，並在專業人員的指导下進行，以避免潛在風險並最大化健康效益。
+
+--- 
+
+本文提供了一個綜合性的健康管理方案，涵蓋飲食、運動、營養補充和心理調適等多方面，旨在幫助讀者實現更佳的身體與心智狀態。
 </details>
 
 <details>
-<summary>3335. Do Your Nuts Have to Be Organic?</summary><br>
+<summary>3335. [2021-02-28] Do Your Nuts Have to Be Organic?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=GHJXKYB5hGc" target="_blank">
     <img src="https://img.youtube.com/vi/GHJXKYB5hGc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+1. **食品安全與 pesticide 殘留**：文章探討了不同堅果中 pesticide 残留的問題及其健康影響。
+2. **堅果的種類與 pesticide 殡葬**：分析了 walnut、peanut 等堅果在 planting 和加工過程中 pesticide 的使用情況。
+3. **殼的保護作用**：雖然堅果殼提供了一定的物理屏障，但 pesticide 仍可能滲透或在外觀處理中污染堅果。
+
+#### 主要觀念
+1. **pesticide 的遷移特性**：pesticide 多數為 fat-soluble，易於進入堅果脂肪部分。
+2. **堅果加工後的 pesticide 殉葬**：堅果在收割和去殼後可能受到 pesticide 的污染。
+3. **Brazil 坚果的特殊性**：巴西堅果來源於野生雨林，但仍然可能在外觀後期處理中受到 pesticide 污染。
+
+#### 問題原因
+1. **pesticide 使用的普遍性**：現代農業中 pesticide 的廣泛使用導致堅果 contaminations。
+2. **堅果加工環節的污染風險**：.harvest 和去殼過程中 pesticide 的再次應用增加了 contamination 的可能性。
+3. **消費者對 pesticide 残留的不了解**：消費者可能未意識到堅果中的 pesticide 颺含問題。
+
+#### 解決方法
+1. **選擇有機產品**：優先購買 organic 堅果，以降低 pesticide 残留風險。
+2. **選擇公平貿易產品**：Fair Trade 認證的堅果通常 pesticide 使用較少，是一種經濟實惠的選擇。
+3. **自行脫殼**：自行脫殼可減少購買已去殼堅果的 pesticide 殉葬風險，雖增加工作量但更為安全。
+
+#### 健康建議
+1. **均衡飲食**：多攝取 cruciferous vegetables（如西兰花、捲心菜）以幫助身體排除環境毒素。
+2. **控制攝取量**：即使堅果營養豐富，也應 moderation 消耗，尤其是非有機堅果。
+3. **選擇特定品種**：如花生選擇 Valencia 等有機品種，降低 fungicidal 和 pesticide 危害。
+
+#### 結論
+1. **有機食品的重要性**：有機堅果能顯著降低 pesticide 残留，是更健康的選擇。
+2. **消費者角色**：消費者在食品選擇上有重要影響力，可通過購買行為促進更環保的農業實踐。
+3. **雨林保護與食品選擇**：選擇野生巴西堅果可間接支持雨林保護，但需注意其加工過程中的 pesticide 殡葬問題。
+
+---
+
+### 總結
+文章強調了在現代農業背景下，堅果中 pesticide 的問題及其對健康的潛在影響。消費者應通過選擇有機、公平貿易產品和自行處理等方式降低風險，同時注意均衡飲食以增強身體排毒能力。
 </details>
 
 <details>
