@@ -138,43 +138,55 @@
         alt="[Youtube]" width="200">
 </a>
 
-### 小節整理： prolonged fasting 的挑戰與策略
+### 核心主題  
+- 延續性禁食（Prolonged Fasting）的挑戰與益處。  
 
-#### 核心主題
-- **核心主題**：探討 длительните постове (prolonged fasting) и как справиться с преградами, свързани с тях.
+---
 
-#### 主要觀念
-- **主要觀念**：
-  - Пост в дълги периоди е непрост из-за физични и психични причины.
-  - Основните преграды включват茴олия и социални фактори, свързани с хране.
+### 主要觀念  
+1. **延續性禁食的困難**  
+   - 禁食會觸發心理上的生存本能，例如對食物匱乏的抗拒感。  
+   - 物理層面的挑戰包括嗅覺、視覺刺激（如食物廣告）、飲食習慣和社交活動的影響。  
 
-#### 問題原因
-- **问题原因**：
-  - Достъп до аромати от приготовяване на харчваще е утежнител.
-  - Визуални стимулите и социални обстоятелства твърдят преграда.
-  - Психологични связи между удоволствия и хране.
-  - Физични отклики като рокотане на желудъка в почеткови стадии.
+2. **禁食的好處**  
+   - **認知功能提升**：包括注意力集中力、感知能力（如嗅覺、味覺）增強。  
+   - **心理健康改善**：情緒穩定，降低焦躁感。  
+   - **免疫系統修復**：可能幫助治療過敏、自體免疫疾病甚至癌症。  
 
-#### 解決方法
-- **解決辦法**：
-  - Основните прегради могат да се преодолят чрез дисциплина и приготовление.
-  - Начало с коротки интермитентни поasti преди да се опитва надлenghtен пост.
-  - Употребление на електролити, макро и微量元素и за подкрепа.
+3. **禁食的科學原理**  
+   - 在酮症狀態下， hunger 會逐漸消退，身體開始利用脂肪作為主要能量來源。  
 
-#### 健康建議
-- **健康建議**：
-  - Пост при правилното изпълнение не предизвиква гладуване.
-  - Дълги поasti могат да улучят когнитивни функции, настроение и имунна система.
-  - Важно е да се избягва недостатък в елементи, предотвращащо дizziness.
+---
 
-#### 結論
-- **结论**：
-  - Пост в дълги периоди е близък към магія в здравната преговорка.
-  - Человек трябва да придобие власти над своите физични и психични импулсите.
-  - Рекомендуется да се опитва и да проверява индивидуалното сопротивление преди да се озбирай в дълги поasti.
+### 問題原因  
+- 禁食初期的心理抗拒和生理 discomfort（如胃鳴、頭暈）。  
+- 長期禁食可能引發電解質失衡或其他健康問題。  
 
-### 注意事项
-- 文章中提到「快速通話」，修正為「即時通話」或其他適當的表達方式。
+---
+
+### 解決方法  
+1. **逐步適應**  
+   - 先從短期的間歇性禁食開始，讓身體逐漸習慣禁食模式。  
+
+2. **補充營養**  
+   - 禁食期間需注意電解質、微量元素和維生素的攝取（如鈉、鉀、葉酸等）。  
+
+3. **心理調適**  
+   - 面對食物誘惑，可通過 distraction 或改變環境來降低食欲。  
+
+4. **逐步延長禁食時間**  
+   - 從 48 小時開始，逐漸增加到 72 小時或更久。  
+
+---
+
+### 健康建議  
+- 禁食前應諮詢醫療專業人員，特別是有特定健康問題的人群（如低血糖、心血管疾病患者）。  
+- 適當補充電解質，避免因禁食導致的身體不適（如headaches or dizziness）。  
+
+---
+
+### 結論  
+延續性禁食雖然挑戰重重，但其益處顯著，包括認知功能提升、免疫修復和整體健康改善。只要做好準備並逐步實施，即可成功克服初期障礙，享受禁食帶來的好處。
 </details>
 
 <details>
@@ -185,41 +197,41 @@
         alt="[Youtube]" width="200">
 </a>
 
-### 文章重點整理
+## 文章要點整理
 
-#### 核心主題
-1. 探讨 Pediatric Cancer（儿童癌症）的相关议题。
-2. 强调健康管理和预防的重要性。
+### 核心主題  
+- **討論 Pediatric Cancer（兒童癌症）**：文章圍繞兒童癌症展開，強調了其重要性與影響。  
+- **健康相關議題**：涉及健康的多個方面，包括鐵質攝取、健康管理等。  
 
-#### 主要觀念
-1. ** Pediatrics and Cancer**: Focuses on the challenges and considerations in pediatric cancer treatment.
-2. **Health Management**: Highlights the importance of regular health check-ups and preventive measures.
-3. **Environmental Factors**: Discusses potential environmental influences on cancer development.
+### 主要觀念  
+1. ** Pediatric Cancer 的影響**：文章提及 Pediatric Cancer 是一種 serious and challenging condition，需要得到足夠的重視。  
+2. ** 鐵質攝取的重要性**：強調了鐵質在兒童健康中的作用，特別是對於 Pediatric Cancer 患者而言。  
+3. ** 健康管理的多樣性**：提及了包括飲食、環境、心理等多方面的健康管理方法。  
 
-#### 問題原因
-1. ** Pediatric Cancer Incidence**: The rising incidence rate among children.
-2. **Environmental Toxins**: Possible exposure to harmful substances in daily environments.
-3. **Lack of Preventive Measures**: Insufficient emphasis on preventive strategies and early detection.
+### 問題原因  
+- ** 鐵攝取不足的原因**：可能與飲食不均衡、吸收障礙或其他健康問題有關。  
+- ** 環境因素**：某些環境條件可能對兒童健康產生不利影響。  
+- ** 心理壓力**： Pediatric Cancer 患者及家屬可能面臨心理壓力，影響整體健康狀況。  
 
-#### 解決方法
-1. **Early Detection**: Promoting regular health screenings for early cancer detection.
-2. **Preventive Strategies**: Implementing measures to reduce exposure to environmental toxins.
-3. **Public Awareness**: Increasing awareness about the signs and symptoms of pediatric cancers.
-4. **Research Investment**: Encouraging research into the causes and treatments of childhood cancers.
+### 解決方法  
+1. ** 鐵質攝取的改善**：  
+   - 提供富含鐵質的食物，如紅肉、禽類、鱼类、豆類等。  
+   - 考慮補充鐵劑，但需在醫生指導下進行。  
+2. ** 環境管理**：  
+   - 降低兒童暴露於有害環境因素的機會。  
+   - 提供清潔的生活環境與飲食水源。  
+3. ** 心理支持**：  
+   - 為 Pediatric Cancer 患者及其家屬提供心理諮詢與支持服務。  
+   - 通過社會支持 network，幫助家庭應對疾病帶來的挑戰。  
 
-#### 健康建議
-1. **Regular Check-ups**: Parents should schedule regular health check-ups for their children.
-2. **Healthy Lifestyle**: Promote a healthy lifestyle, including balanced nutrition and physical activity.
-3. **Environmental Protection**: Minimize exposure to harmful substances by using eco-friendly products and maintaining clean living spaces.
+### 健康建議  
+1. **均衡飲食**：確保兒童攝取足夠的營養，特別是鐵質和其他必需nutrients。  
+2. **定期檢查**：定期進行健康檢查，早期發現潛在問題。  
+3. **心理ケア**：為 Pediatric Cancer 患者提供心理支持與康復資源。  
 
-#### 結論
-1. Childhood cancer is a significant public health concern that requires immediate attention.
-2. A combination of early detection, preventive measures, and increased awareness can effectively reduce the incidence and impact of pediatric cancers.
-3. Collaboration between healthcare providers, researchers, and policymakers is essential to address this critical issue.
-
----
-
-此整理基于文章内容，采用了正式的學術用語，并以小節作歸納。各小節條理清晰，客觀反映原文主旨。
+### 結論  
+- ** Pediatric Cancer 的重要性**： Pediatric Cancer 是兒童健康中不可忽視的問題，需要多方面的努力來改善患者的生活質量。  
+- **綜合管理的必要性**：通過飲食、環境、心理等多個方面的綜合管理，可以有效提升兒童癌症患者的健康狀況。
 </details>
 
 <details>
@@ -417,67 +429,67 @@
         alt="[Youtube]" width="200">
 </a>
 
-## 論文結構（正式學術用語）
-
-### 1. **核心主題 (Core Theme)**
-   - 認知神經科學 (Cognitive Neuroscience)
-   - 神經可塑性 (Neuroplasticity)
-   - 難忘症 (Dementia)
-   - 腦部健康 (Brain Health)
-
-### 2. **主要觀念 (Primary Concepts)**
-   - **壓力對腦部的影響**: 總狀萎縮 (Atrophy), 尤其在海馬區 (Hippocampus)。
-   - **神經再生能力**: 海馬區及嗅球 (Olfactory Bulb) 具備再生潛力。
-   - **記憶與定向功能**: 海馬區在短期記憶、學習及空間定向中的角色。
-   - **代謝症候群的影響**: 糖尿病 (Diabetes) 與腦萎縮的關聯。
-
-### 3. **問題原因 (Etiological Factors)**
-   - **壓力激素 (Stress Hormones)**: 如皮質醇 (Cortisol), 可導致海馬區神經元退化。
-   - **營養缺乏**: 
-     - 純胺基酸 B1 (Thiamine) 缺乏。
-     - 必需脂肪酸 (Essential Fatty Acids), 特別是 omega-3 脂肪酸 (DHA 和 EPA) 的不足。
-     - 銀皮症 (Zinc Deficiency)。
-   - **生活方式因素**: 
-     - 高糖、高碳水化合物飲食 (High Sugar/Carb Diet)
-     - 缺乏運動 (Physical Inactivity)
-
-### 4. **解決方法與健康建議 (Interventions and Health Recommendations)**
-
-#### a. **營養介入**
-   - **B1 补充**: 推荐使用未添加合成維生素的營養酵母 (Nutritional Yeast)。
-   - **Omega-3 脂肪酸**: 
-     - 魚油 (Fish Oil)
-     - 魚肝油 (Cod Liver Oil)
-     - 海藻 (Algae) 來源
-   - **鋅補充**: 
-     - 海鮮 (Shellfish)
-     - 合成補充劑
-
-#### b. **生活方式干預**
-   - **禁食 (Fasting)**: 提昇神經生長因子 (Brain-Derived Neurotrophic Factor, BDNF)。
-   - **低碳水化合物/生酮飲食 (Ketogenic Diet)**: 利用酮體 (Ketones) 作為腦部能量來源，減少炎症 (Inflammation)。
-   - **運動**: 
-     - 有氧運動 (Aerobic Exercise)
-     - 力量訓練 (Resistance Training)
-     - 可提升神經可塑性及血流 (Cerebral Blood Flow)
-
-#### c. **其他輔助療法**
-   - **高壓氧治療 (Hyperbaric Oxygen Therapy)**: 促進腦部恢復。
-
-### 5. **研究與證據 (Research Evidence)**
-   - 文章引用了多項研究表明:
-     - Omega-3 脂肪酸對海馬區的保護作用。
-     - 禁食對於 BDNF 的提升效果。
-     - 生酮飲食在神經保護中的角色。
-
-### 6. **結論 (Conclusion)**
-   - **壓力管理**: 通過營養、運動及生活方式調整，可有效降低壓力對腦部的影響。
-   - **腦部保健**: 維持健康的飲食習慣、定期運動及補充必要的神經支持物質，可以延緩甚至防止腦萎縮。
-   - **未來研究方向**: 更深入探究不同干預措施在不同人群中的效果。
+### Key Points from the Article: Protecting Your Brain Against Stress
 
 ---
 
-此結構化整理旨在清晰展示文章的核心內容，並使用正式的學術用語進行表達。
+#### Core Theme:
+The primary focus of the article is to discuss effective strategies for protecting the brain, particularly against stress-induced atrophy. The hippocampus and olfactory bulb are highlighted as key brain regions with regenerative potential.
+
+---
+
+#### Main Concepts:
+1. **Stress and Its Effects on the Brain**:
+   - Chronic stress leads to brain atrophy, particularly in the hippocampus.
+   - The hippocampus is crucial for short-term memory, learning, spatial navigation, and orientation.
+   - Damage to the hippocampus can result in disorientation and difficulty in navigating space.
+
+2. **Alzheimer's Disease and Type 2 Diabetes**:
+   - Alzheimer's patients often exhibit type 2 diabetes symptoms, indicating a link between high blood sugar levels and brain atrophy.
+
+3. **Regenerative Potential of Specific Brain Regions**:
+   - The hippocampus and olfactory bulb have the capacity to regenerate, offering hope for reversing stress-induced brain damage.
+
+---
+
+#### Causes of Brain Atrophy:
+1. Psychological Stress:
+   - Chronic stress is a significant contributor to hippocampal atrophy.
+2. Poor Dietary Choices:
+   - High sugar, glucose, and carbohydrate intake can exacerbate brain shrinkage.
+
+---
+
+#### Solutions and Health Recommendations:
+
+1. **Nutritional Interventions**:
+   - **Vitamin B1 (Thiamine)**: Essential for hippocampus function. Suggests consuming unfortified nutritional yeast as a natural source.
+   - **Omega-3 Fatty Acids (DHA and EPA)**: Found in fish oil, cod liver oil, or algae; supports brain structure and prevents atrophy.
+
+2. **Zinc Supplementation**:
+   - Zinc plays a critical role in the hippocampus and olfactory bulb. Sources include shellfish or zinc supplements.
+   - Benefits include immune support and maintenance of testosterone levels.
+
+3. **Fasting**:
+   - Intermittent fasting increases Brain-Derived Neurotrophic Factor (BDNF), promoting neurogenesis and brain health.
+
+4. **Ketogenic Diet**:
+   - A low-carb, high-fat diet produces ketones, which are anti-inflammatory and provide an alternative energy source for the brain, especially in cases of glucose insufficiency.
+
+5. **Physical Exercise**:
+   - Enhances brain health by increasing oxygen delivery, promoting neurotrophic factors, and preventing atrophy.
+
+6. **Additional Therapies**:
+   - Consider hyperbaric oxygen therapy to enhance oxygen delivery to the brain.
+
+---
+
+#### Conclusion:
+The article emphasizes that maintaining a healthy brain requires a multi-faceted approach, including营养补充、代谢调节（如低碳水化合物饮食和间歇性禁食）、锌摄入、规律锻炼等。通过这些方法，可以有效减缓甚至逆转因压力或高糖饮食引起的脑萎缩，保护大脑功能。
+
+--- 
+
+This structured summary captures the essential elements of the article in a clear and organized manner, using academic language and categorized sections for better understanding.
 </details>
 
 <details>
@@ -517,113 +529,545 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
 </details>
 
 <details>
-<summary>3091. Bile Sludge is a Pre-Gallstone Condition!! – Bile Sludge Treatment Covered by Dr. Berg</summary><br>
+<summary>3091. [2020-10-13] Bile Sludge is a Pre-Gallstone Condition!! – Bile Sludge Treatment Covered by Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=dHTBxwBee3c" target="_blank">
     <img src="https://img.youtube.com/vi/dHTBxwBee3c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：膽汁淤泥及其相關健康問題
 
+膽汁淤泥是一種前期膽石症的狀態，是由膽汁中膽固醇濃度升高且缺乏溶解劑（如膽鹽）所導致的病理現象。它可能進一步發展為膽石，並引發多種健康問題。
+
+### 主要觀念：
+
+1. **膽汁成分**：
+   - 胆鹽
+   - 胆固醇 crystals
+   - 銣質鹽
+   - 經血紅蛋白代謝產生的膽紅素
+   - 粘液（mucin）
+   
+2. **膽汁淤泥形成的條件**：
+   - 胆固醇過度濃縮
+   - 缺乏足夠的膽鹽作為溶解劑
+
+3. **膽汁淤泥的危害**：
+   - 阻塞膽管或胰管，導致壓力增加、炎症和疼痛
+   - 可能發展為膽石，影響膽囊功能
+   - 干擾藥物和毒素的排出
+   - 造成肝臟炎癥（如肝炎、肝硬化）
+
+4. **高風險群體**：
+   - 孕婦：腹腔壓力增加導致膽汁流動受阻
+   - 遭受過抗生素治療的人：破壞腸道有益菌，影響膽鹽合成
+   - 胃旁路手術後患者：改變小腸和胃的機械功能，增加石形成風險
+
+### 問題原因：
+
+- **膽汁成分失衡**：膽固醇過高或膽鹽不足
+- ** abdominal 壓力升高**：如妊娠、腹腔手術等導致膽汁流動不暢
+- **腸道菌群失調**：抗生素使用破壞有益菌，影響膽鹽合成
+- **外科手術後遺症**：胃旁路手術改變消化系統機械功能
+
+### 解決方法：
+
+1. **短期措施**：
+   - **服用純化膽鹽**：空腹服用可幫助溶解並排出淤泥，減輕症狀
+
+2. **長期管理**：
+   - **飲食調整**：遵循健康飲食建議（如低脂、高纖維 diet）
+   - **避免不必要的抗生素使用**：保護腸道菌群平衡
+   - **定期檢查和治療**：Monitoring 過膽囊和肝臟功能
+
+### 健康建議：
+
+- **症狀監測**：
+  - 注意右上腹或左側 abdomen 疼痛
+  - 如有症狀，及時就醫
+
+- **飲食與生活方式**：
+  - 確保均衡飲食，避免高脂肪和高膽固醇攝入
+  - 多喝水，促進膽汁流動
+  - 避免長期使用抗生素，除非必要
+  - 定期檢查肝臟和膽囊功能
+
+- **藥物與補充劑**：
+  - 在醫生建議下使用膽鹽補充劑
+  - 慎用可能影響腸道菌群的藥物
+
+### 結論：
+
+膽汁淤泥是膽石形成的重要階段，若不及時處理，可能會引發嚴重健康問題。通過調整飲食、服用膽鹽補充劑和適當的醫療干預，可以有效管理和預防相關疾病。保持良好的生活方式和定期檢查是維持肝臟和膽囊健康的關鍵。
 </details>
 
 <details>
-<summary>3090. Key Points on Yearly Checkups</summary><br>
+<summary>3090. [2020-10-12] Key Points on Yearly Checkups</summary><br>
 
 <a href="https://www.youtube.com/watch?v=4aFi5m4GEm8" target="_blank">
     <img src="https://img.youtube.com/vi/4aFi5m4GEm8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 年度體健檢查中建議進行的血液檢測項目。
+- 確定酮飲食（keto diet）和 intermittent fasting 的效果。
+- 早期發現潛在健康問題，如胰島素抵抗、心血管疾病等。
+
+#### 主要觀念
+1. **年度健康檢查的重要性**：
+   - 即使有預存健康問題（如糖尿病、自免疫疾病），也應該進行例行檢查。
+   - 檢查項目包括CBC（完整血球計數）、BMP（基本代謝.panel）、脂質PROFILE等。
+
+2. **胰島素抵抗檢測**：
+   - HOMA-IR（Homeostatic Model Assessment for Insulin Resistance）是用於評估胰島素抵抗的指標。
+   - 檢測方法基於空腹血糖和空腹 insulin 的公式計算，需注意醫師未必熟悉此項檢查。
+
+3. **心血管健康檢測**：
+   - **CAC（Coronary Artery Calcium Scoring）**：評估冠狀動脈鈣化程度，比一般膽固醇檢測更能反映心血管風險。
+   - **Omega-3到Omega-6脂肪酸比例**：通過血液檢查評估炎症 markers，建議使用家用檢測 kits。
+
+4. **高血olesterol 的管理**：
+   - 建議進行 advanced lipidPROFILE 檢測，深入了解脂質粒徑和類型，而非僅依賴總膽固醇、LDL、HDL 和 triglycerides 的報告。
+
+#### 問題原因
+1. 醫師可能未能充分推薦某些重要檢測（如 HOMA-IR 和 CAC）。
+2. 大眾普遍存在 omega-6 脂肪酸過高和 omega-3 脲肭不足的問題，導致 inflammation 增加。
+
+#### 解决方法
+1. **主動諮詢醫師**：
+   - 請求進行 HOMA-IR、CAC 和 advanced lipidPROFILE 檢測。
+   - 若醫師不熟悉這些檢查，可自行尋找提供相關服務的實驗室。
+
+2. **家用檢測工具**：
+   - 使用 omega-3 到 omega-6 比例的家用血液檢測 kit（附有優惠券）。
+
+3. **健康飲食習慣**：
+   - 遵循酮飲食和 intermittent fasting 以改善胰島素抵抗和整體健康。
+   - 減少食用高omega-6脂肪酸的食物，增加 omega-3 的攝取。
+
+#### 健康建議
+1. 年度健康檢查是早期發現健康問題的重要工具，應主動諮詢醫師所需的檢測項目。
+2. 針對特定健康風險（如胰島素抵抗或心血管疾病），可自行採用家用檢測工具或尋求專業實驗室的服務。
+3. 酮飲食和 intermittent fasting 可有效改善胰島素抵抗和整體代謝狀況，但需注意結合均衡飲食結構。
+
+#### 結論
+- 年度健康檢查是評估整體健康的關鍵步驟。
+- 透過主動檢測和適當的飲食調整，可以早期發現並改善潛在健康問題，提升生活品質。
 </details>
 
 <details>
-<summary>3089. Celery Benefits for Gout – Dr.Berg</summary><br>
+<summary>3089. [2020-10-12] Celery Benefits for Gout – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=uCO1-MwyrDw" target="_blank">
     <img src="https://img.youtube.com/vi/uCO1-MwyrDw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 芹菜（Celery）的健康益處及其在日常生活中的應用。
+
+#### 主要觀念
+1. **芹菜的營養成分**：
+   - 含有豐富的植物化學物質（phytonutrients），尤其是Apiaceous family特有的化合物。
+   - 綜纖含量高，有利於腸胃健康。
+   - 具備一定的抗氧化和抗炎特性。
+
+2. **芹菜的健康益處**：
+   - **降血壓**：芹菜中的某些成分能幫助降低血壓。
+   - **促進睡眠**：食用三到四根芹菜可助眠，建議在睡前一小時攝取。
+   - **利尿作用**：作為天然的利尿劑，有助於減少體內多余水分 retention。
+   - **抗炎作用**：特別是對關節炎症和痛風有良好的舒緩效果。
+   - **抗癌特性**：含有一種名為Apigenin的化合物，具有抗癌功效。
+
+3. **芹菜的其他用途**：
+   - 防治尿路感染（UTIs）。
+   - 碱化身體，改善酸性環境，從而降低痛風發作風險。
+
+#### 問題原因
+- 芹菜含鈉量較高，但通常不會超過每日建議攝取量，除非過度攝食。
+
+#### 解決方法
+1. **食用方式**：
+   - 推荐食用 entire stalks（全芹菜莖），以獲取更多營養。
+   - 避免僅喝芹菜汁，因纖維中的有效成分可能無法充分攝取。
+   - 可選擇芹菜種子提取物，其濃度更高。
+
+2. **飲食建議**：
+   - 每日攝取3-4根芹菜。
+   - 適當時間攝食，避免影響酮osis（酮症）狀態。
+
+#### 健康建議
+1. **血壓管理**：
+   - 芹菜可作為輔助治療高血壓的天然選擇。
+
+2. **睡眠改善**：
+   - 晚間食用芹菜可促進睡眠 quality.
+
+3. **痛風和關節健康**：
+   - 確保每日攝取足夠的芹菜，以降低尿酸水平和炎症反應。
+
+4. **腎臟健康**：
+   - 芹菜的利尿作用有利於腎臟健康，幫助排出多余水分。
+
+#### 注意事項
+- 避免過量食用，尤其是對鈉敏感的人士。
+- 避免在芹菜上添加高熱量醬料（如花生醬），以控制總熱量攝取。
+
+#### 結論
+- 芹菜是一種具備多種健康益處的蔬菜，能幫助降血壓、改善睡眠、抗炎和降低尿酸水平。
+- 適當食用芹菜可作為整體健康管理的一部分，建議每日攝取3-4根，並保持均衡飲食。
 </details>
 
 <details>
-<summary>3088. Why Does Your Body Recycle So Much Bile?</summary><br>
+<summary>3088. [2020-10-11] Why Does Your Body Recycle So Much Bile?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8J5cv200AAY" target="_blank">
     <img src="https://img.youtube.com/vi/8J5cv200AAY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：膽汁的重要性及其回收機制
 
+#### 主要觀念：
+1. **膽汁的六大功能**：
+   - 脂肪吸收：膽汁濃度有助於脂肪消化和吸收。
+   - 脫脂溶解營養素：脂溶性維生素（如A、D、E、K）及Omega-3脂肪酸等依賴膽汁吸收。
+   - 抗菌作用：膽鹽具抗菌特性，防止小腸细菌過生長（SIBO）。
+   - 胆固醇調節： bile salts幫助清除 excess cholesterol，預防高血olesterol問題。
+   - 解毒功能：協助排出毒素、重金属及pesticides。
+   - 免疫系統支持：膽汁在免疫反應中發揮作用。
+
+2. **膽汁的兩種形式**：
+   - ** primary bile salts**: 肝臟合成的膽鹽，需與胺基酸結合（如牛磺酸或甘氨酸）以增加水溶性。
+   - ** secondary bile salts**: 在腸道由微生物將primary膽鹽分解後形成的膽鹽。
+
+3. **膽汁回收循環**：
+   - 每日膽汁回收率高達95%，形成有效的消化和排毒系統。
+
+#### 問題原因：
+1. 胆汁不足或不平衡導致的健康問題：
+   - 脂肪吸收不良。
+   - 营養素缺乏（如維生素A、D、K）。
+   - 消化不滿意及便秘。
+   - 解毒功能障礙，影響代謝及激素轉換。
+
+2. 微生物在膽汁代謝中的作用失衡：
+   - 不當的腸道菌群可能干擾secondary bile salts的形成。
+
+#### 設解決方法：
+1. **飲食調整**：
+   - 通過高纖維食物（如十字花科蔬菜）促進有益菌生長，平衡膽汁代謝。
+   - 补充 Omega-3 脫氧脂肪酸以改善膽汁流动性。
+
+2. **補充劑建議**：
+   - 牛磺酸：幫助primary bile salts的形成。
+   - 甜菜根和蛋黃素：支持肝臟健康，促進膽汁生成。
+
+#### 健康建議：
+1. 確保均衡飲食，包含足夠的膳食纖維和必需脂肪酸。
+2. 避免過度使用抗生素，以防止腸道菌群失衡。
+3. 定期進行身體檢查，_monitor 胆固醇、視力及免疫功能。
+
+#### 結論：
+膽汁在消化、營養吸收及解毒中扮演關鍵角色。其不足或失衡會導致多種健康問題。通過飲食調整和補充劑，可以有效改善膽汁相關的健康問題，提升整體 wellness。
+
+### 英文關鍵字：
+- Bile acids
+- Cholesterol regulation
+- Detoxification
+- SIBO (Small Intestinal Bacterial Overgrowth)
+- Primary and secondary bile salts
+- Digestive health
 </details>
 
 <details>
-<summary>3087. Vitamin E Inhibits Scar Tissue – Benefits of Vitamin E for Fibrosis – Dr.Berg</summary><br>
+<summary>3087. [2020-10-11] Vitamin E Inhibits Scar Tissue – Benefits of Vitamin E for Fibrosis – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=FpjE4gJQ2e4" target="_blank">
     <img src="https://img.youtube.com/vi/FpjE4gJQ2e4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **抑制纖維化**：文章探討了维生素E（尤其是tocotrienols）在抑制纖維化方面的功效。
+- **多器官影響**：纖維化可影響肺部、肝臟、心血管系統等多個器官，造成功能障礙。
 
+### 主要觀念
+1. **纖維化的病理特性**
+   - 紮組織替代正常功能組織，導致組織功能受損。
+   - 纖維化是異常的修復反應，涉及大量瘢痕組織形成。
+2. **tocotrienols的作用機制**
+   - tocotrienols是维生素E的一種形式，其抗氧化能力遠超tocopherols。
+   - 通過中和自由基，降低免疫系統在炎症和修復過程中造成的附帶損傷。
+
+### 問題原因
+- **炎症反應**：白血球在抗炎過程中釋放大量細胞因子和自由基，導致組織過度損傷。
+- **持續炎症**：未受控制的炎症會進一步惡化，最終引發纖維化。
+
+### 解決方法
+- **tocotrienols supplementation**：
+  - tocotrienols能有效抑制纖維化的發生。
+  - 推荐劑量為每日至少300毫克，嚴重情況可酌情增加劑量。
+  
+### 健康建議
+1. **サプリメントの摂取タイミング**
+   - tocotrienolsをtocopherolsと一緒に摂らないこと（tocopherolsがtocotrienolsの効果を弱める可能性あり）。
+2. **早期対応**：
+   - 紺癬化に至る前に炎症を早期に治療すること。
+
+### 結論
+- **tocotrienolsの重要性**：tocotrienolsは炎症性疾患や纖維化を予防するための強力な補足劑。
+- **未然防止の必要性**：炎症が進行しまう前に早期に対処することが最も重要な点。
 </details>
 
 <details>
-<summary>3086. The Role of Insulin in Diabetes: Animation</summary><br>
+<summary>3086. [2020-10-10] The Role of Insulin in Diabetes: Animation</summary><br>
 
 <a href="https://www.youtube.com/watch?v=eakNqJKt-_s" target="_blank">
     <img src="https://img.youtube.com/vi/eakNqJKt-_s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **胰腺的功能**：胰腺通过分泌胰島素來調節血糖水平。
+- **胰島β細胞的作用**：胰島中的β細胞主要負責產 insulin。
 
+### 主要觀念
+1. 胰島素的分泌與作用：
+   - 胰島素由β細胞分泌，並幫助葡萄糖進入keletal肌肉等細胞。
+   - 細胞膜上的胰島素受體促進葡萄糖吸收用於能量生產。
+
+2. 高碳水化合物攝取的影響：
+   - 長期過量攝入碳水化合物導致血液中胰島素水平升高（高胰岛素emia）。
+   - 細胞對胰島素的抵抗性增加，阻礙葡萄糖進入細胞。
+
+3. 胰島素與肥胖及2型糖尿病的關聯：
+   - 高血糖情況下，胰島素促使葡萄糖轉化為脂肪，導致肥胖。
+   - 長期肥胖進一步加重胰岛素emia和抵抗性，最終導致β細胞疲勞。
+
+### 問題原因
+- **高碳水化合物攝取**：導致血糖水平升高和胰島素分泌過度。
+- **胰島素抵抗**：長時間高水平的胰島素使細胞對其受體產生抗性。
+- **β細胞疲勞**：長期超負荷工作後，β細胞功能減退，胰島素產量下降。
+
+### 解決方法
+1. **飲食調整**：
+   - 減少高碳水化合物攝取，選擇低GI（升糖指數）食物。
+2. **增加身體活動**：
+   - 通過運動提高肌肉對胰岛素的敏感性，促進葡萄糖吸收。
+3. **維持健康體重**：
+   - 控制肥胖以降低胰島素抵抗和血糖水平。
+
+### 健康建議
+- 定期監測血糖和血脂水平。
+- 遵循均衡飲食，增加膳食纖維攝取。
+- 保持規律運動習慣，避免久坐。
+
+### 理論結論
+- 長期高碳水化合物攝取引發的胰岛素emia和抵抗性是2型糖尿病的重要病因。
+- 生活方式的調節（飲食、運動、減重）可有效延緩或防止病情發展。
 </details>
 
 <details>
-<summary>3085. What Does Pale-Colored Poop Mean? – Dr.Berg</summary><br>
+<summary>3085. [2020-10-10] What Does Pale-Colored Poop Mean? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=YHH6B1ZqsLU" target="_blank">
     <img src="https://img.youtube.com/vi/YHH6B1ZqsLU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：Pale-Colored Stool: Causes, Solutions, and Health Recommendations
 
+#### 1. **核心主題**
+   - 探讨导致粪便颜色变浅（如灰白色）的原因及其背后的生理机制。
+   - 强调胆汁在消化系统中的作用及其对粪便颜色的影响。
+
+#### 2. **主要觀念**
+   - 胆红素代谢过程是决定粪便颜色的关键因素。
+   - 粪便的正常棕色来源于胆红素通过细菌氧化后的产物。
+   - 胆汁淤积或分泌障碍可能导致粪便颜色变浅。
+
+#### 3. **問題原因**
+   - **膽汁淤積（Cholestasis）**：肝臟到小腸的膽管堵塞，常见原因包括 gallstones 或膽道炎症。
+   - **肝臟功能受損**：肝臟无法正常生成胆汁，影响粪便颜色。
+   - **膽紅素代謝障礙**：膽紅素無法正常排出，導致其在血液中積累。
+
+#### 4. **解決方法**
+   - **藥物治療**：
+     - 使用 bile salts 来帮助溶解胆固醇结晶，改善膽汁流動。
+   - **飲食調整**：
+     - 建議採用酮飲食（Healthy Keto）和間歇性斷食，以从根本原因上改善膽汁代謝問題。
+
+#### 5. **健康建議**
+   - 若出現灰白色粪便、深色尿液、輕微黃疸或皮膚瘙癢等症状，應及時就醫檢查。
+   - 請專業醫師評估膽管是否有阻塞或其他潛在疾病。
+   - 適當調整飲食結構，避免高脂肪攝取以降低膽石形成風險。
+
+#### 6. **結論**
+   - 灰白色粪便多數是膽汁流動受阻或肝臟功能異常的警訊。
+   - 及時的干預和治療可以有效改善症狀，恢復正常的消化功能。
+   - 長期來看，飲食調整和健康管理對於預防相關疾病十分重要。
 </details>
 
 <details>
-<summary>3084. How Much is Too Much Coffee?</summary><br>
+<summary>3084. [2020-10-09] How Much is Too Much Coffee?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=qvKxHQ1RvZQ" target="_blank">
     <img src="https://img.youtube.com/vi/qvKxHQ1RvZQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理：文章重點歸納
 
+#### 1. 核心主題  
+- 探讨咖啡摄入量与健康的关联，尤其是过量饮用咖啡对身体的影响，重点关注钾离子（ potassium）的流失问题。
+
+#### 2. 主要觀念  
+- **咖啡摄入量分类**：
+  - 适量：每日2至3杯（每杯8盎司）。
+  - 过量：每日4杯或更多。
+- **咖啡过量的健康风险**：
+  - 导致钾离子水平下降，可能引发低血钾症（hypokalemia）。
+  - 咖啡因刺激肾上腺素分泌，影响体内电解质平衡。
+
+#### 3. 問題原因  
+- 高剂量咖啡因通过多种机制导致钾离子流失：
+  - **catecholamines（儿茶酚胺）**的增加：咖啡因刺激肾上腺释放大量肾上腺素，导致钾离子从细胞外液转移到细胞内。
+  - **钠钾泵（sodium-potassium pump）**的工作负担加重：体内 billions of these pumps 加强工作，消耗更多钾离子以维持电解质平衡。
+  - **利尿作用（diuresis）**：咖啡因作为利尿剂，增加排尿导致钾离子流失。
+  - **呼吸性碱中毒（respiratory alkalosis）**：过度摄入咖啡因可能导致血液pH值升高，从而促进钾离子的排出。
+
+#### 4. 解決方法  
+- **调整咖啡摄入量**：
+  - 建议每日少量饮用咖啡，不超过2至3杯。
+- **补充钾离子**：
+  - 饮食中增加富含钾的食物，如香蕉、橙子、菠菜等。
+  - 考虑口服补钾剂（需在医生指导下使用）。
+
+#### 5. 健康建議  
+- 避免过量摄入咖啡因，尤其是习惯性饮用高浓度咖啡或含咖啡因的其他饮料（如茶、可乐）。
+- 注意饮食均衡，确保摄入足够的钾离子以维持电解质平衡。
+- 对于已经出现低血钾症状（如心律不齐、疲劳等），应及时就医检查并调整生活习惯。
+
+#### 6. 結論  
+- 咖啡适量饮用是安全的，但过量饮用可能导致严重的健康问题，尤其是钾离子的流失会影响身体多个系统的正常运作。
+- 最佳做法是限制每日咖啡摄入量，并通过饮食补充足够的钾离子以维持电解质平衡。
 </details>
 
 <details>
-<summary>3083. Is Lupin Flour Keto Friendly?</summary><br>
+<summary>3083. [2020-10-08] Is Lupin Flour Keto Friendly?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=T1q3-2aeRVM" target="_blank">
     <img src="https://img.youtube.com/vi/T1q3-2aeRVM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：Lupin Flour 的酮禁忌性  
+- Lupin flour 是從車前子豆中提取的-legume，與花生非常相似。
+- 它是 GMO 自由的。
+- 具有中性的風味，帶有一點微苦味。
+- 独具特色的 textures，類似於其他面粉。
 
+### 主要觀念：營養成分分析  
+- 每四分之一杯 Lupin flour 提供以下營養價值：
+  - 碳水化合物：12克
+  - 纤維：11克（僅1克 net carbs）
+  - 脂肪：2克
+  - 蛋白質：12克
+- 营養成分豐富，包括：
+  - 抗氧化劑（尤其是 carotenoids）
+  - B1、鎂、磷、钾、鐵、鋅、鈣等礦物質。
+
+### 獨特的特性  
+- 完全不含淀粉。
+- 可用於製作酮友好的食物，如義大利面、麵包、餅乾等。
+
+### 問題原因：潛在的敏感性因素  
+- 含有少量 lectins 和 phytic acid。
+- 對某些敏感的人可能引起不適。
+
+### 解決方法：  
+- 多數人可以安全食用 Lupin flour。
+- 遊牧民敏感者需謹慎使用，或先進行小量試食以評估個人反應。
+
+### 健康建議：  
+- Lupin flour 是酮飲食中極具潛力的選項，因其低碳水化合物、高纖維和高蛋白質特性。
+- 遊牧民敏感者在首次使用前，應諮詢醫療專業人員或進行小量試食。
+
+### 結論：  
+- Lupin flour 經濟且營養豐富，適合酮飲食計劃。
+- 它的低碳水化合物和高蛋白質特性使其成為烘焙和烹調的理想選擇。
 </details>
 
 <details>
-<summary>3082. Why Does a Fatty Liver Have No Symptoms? – NAFLD (Non Alcoholic Fatty Liver Disease) by Dr.Berg</summary><br>
+<summary>3082. [2020-10-08] Why Does a Fatty Liver Have No Symptoms? – NAFLD (Non Alcoholic Fatty Liver Disease) by Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=E5PBZhdvaQY" target="_blank">
     <img src="https://img.youtube.com/vi/E5PBZhdvaQY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- **非酒精性脂肪肝病 (NAFLD)**：一種影響全球成年人口的常見疾病，其主要特徵是肝臟中脂肪的積累。
 
+---
+
+### 主要觀念  
+1. **NAFLD 的流行率**：  
+   - 25% 的世界成人人口受影響。  
+   - 美國成人中有高達40%的人患有此病。  
+
+2. **NAFLD 的分類**：  
+   - **第一型**：肝臟中僅積累脂肪，無炎症反應。  
+   - **第二型**：脂肪積累伴隨炎症（非酒精性 steatohepatitis, NASH）。  
+
+3. **病程進展**：  
+   - 脫發初期症狀不明顯，但長期來看，可能導致肝臟纖維化、肝硬化甚至需要肝 transplantation。  
+
+4. **與代謝綜合征的關聯**：  
+   - 被提出重新命名為“代謝 dysfunction associated with fatty liver disease (MAFLD)”，強調其與代謝綜合征（ Syndrome X）的密切關聯。  
+
+5. **高危人群**：  
+   - 90% 的肥胖者、60% 的糖尿病患者、20% 的BMI正常者可能受到影响，絕大部分伴有胰島素抵抗。  
+
+---
+
+### 問題原因  
+1. **脂肪在肝臟中的積累**：  
+   - 胰島素促使葡萄糖轉化為甘油三酯。  
+
+2. **導致高胰島素血症的因素**：  
+   - 高碳水化合物飲食（特別是果糖）。  
+   - 富含omega-6脂肪酸的食用油（如大豆油、玉米油、棉籽油等）。  
+
+3. **與酒精性脂肪肝病的相似性**：  
+   - 虽然病因不同，但對肝臟造成的損害和影響相似。  
+
+---
+
+### 解決方法與健康建議  
+1. **飲食調整**：  
+   - 减少精制碳水化合物和果糖的攝取。  
+   - 減少富含omega-6脂肪酸的食用油使用。  
+
+2. **生活方式改變**：  
+   - 通過運動改善胰島素抵抗，降低全身性代謝紊亂。  
+
+3. **定期評估**：  
+   - 在實施飲食和生活方式干預後的2-3個月，建議進行肝功能評估以監測病情變化。  
+
+---
+
+### 總結  
+- NAFLD 是一種高度流行的慢性疾病，早期症狀不明顯，但長期來看可能引發嚴重健康問題。  
+- 其病因主要與高胰島素血症相關，飲食中過多的碳水化合物和特定脂肪酸是主要危險因素。  
+- 通過調整飲食結構、改善生活方式以及定期評估，可以有效預防和恢復此病。
 </details>
 
 <details>
