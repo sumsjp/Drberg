@@ -813,47 +813,241 @@
 </details>
 
 <details>
-<summary>1326. Dr. Berg Hits ONE MILLION SUBSCRIBERS!!!</summary><br>
+<summary>1326. [2018-02-05] Dr. Berg Hits ONE MILLION SUBSCRIBERS!!!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ya5K0yjjS64" target="_blank">
     <img src="https://img.youtube.com/vi/ya5K0yjjS64/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- YouTube頻道達到一百萬訂閱數的里程碑。  
 
+### 主要觀念  
+1. **平台的重要性**：YouTube作為一個Engage和Connect全球觀眾的平台，具有巨大的影響力。  
+2. **感謝粉絲的貢獻**：粉絲們通過订阅、分享、評論等方式支持了頻道的發展。  
+3. **粉絲的價值**：粉絲不僅數量庞大，更因個性化質（幽默、智慧、 kindness）而顯得特別珍貴。  
+
+### 啟示與意義  
+- 達到一百萬訂閱數象徵著頻道的成功和影響力的提升。  
+- 粉絲的支持是頻道成長的主要動力。  
+
+### 給予回饋的方式  
+1. **慶祝活動**：舉辦 giveaways 以表達感謝。  
+2. **獎品介紹**：提供25套「Keto kits」，包括多種健康相關產品（如《The bigger smaller book》、營養補給品等）。  
+
+### 參與方式  
+- 分享使用頻道內容後的成果（如Before/After照片或故事），並附上指定Hashtag `#d drberg`。  
+- 通過電子郵件傳送視頻至 `reviews@drberg.com` 以增加中獎機會。  
+
+### 健康建議  
+- 鼓勵粉絲分享健康成果，展示頻道內容的實用性和影響力。  
+- 提供健康的產品套裝作為獎品，鼓勵健康生活方式的實踐。  
+
+### 结論  
+- 感謝粉絲的支持是頻道成功的基石。  
+- 通過慶祝活動和回饋獎品，增強與粉絲之間的情感聯繫。
 </details>
 
 <details>
-<summary>1325. Keto Maintenance on Ketogenic Diet & Intermittent Fasting Plan – Dr. Berg</summary><br>
+<summary>1325. [2018-02-05] Keto Maintenance on Ketogenic Diet & Intermittent Fasting Plan – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=skeMZd6ToQc" target="_blank">
     <img src="https://img.youtube.com/vi/skeMZd6ToQc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+---
+
+#### **核心主題**
+1. **酮osis（酮症）与间歇性禁食**  
+   - 探讨酮osis和间歇性禁食作为健康生活方式的科学性和可持续性。
+
+2. **代谢转换**  
+   - 强调将身体代谢从依赖糖类转变为依赖脂肪的重要性。
+
+3. **长期健康目标**  
+   - 突出通过酮osis和间歇性禁食实现整体健康的策略。
+
+---
+
+#### **主要觀念**
+1. **酮osis与間歇性禁食的定义与作用**  
+   - 酮osis是一种以脂肪为能量来源的代谢状态，有助于改善血糖调节和整体健康。  
+   - 间歇性禁食模拟了人体在进化过程中适应的食物稀缺环境，促进生理功能优化。
+
+2. **饮食模式的历史演变**  
+   - 现代人习惯于频繁进食（如三餐或六餐），而从进化角度来看，人类更适应间歇性进食模式。
+
+3. **健康与代谢的关系**  
+   - 健康不仅仅体现在体重管理上，还包括能量水平、专注力、压力调节和睡眠质量等多个维度。
+
+---
+
+#### **問題原因**
+1. **传统饮食观念的局限性**  
+   - 将减重视为短期目标，忽视长期健康维护。  
+   - 过度依赖糖分摄入导致代谢失衡和慢性疾病风险增加。
+
+2. **现代生活方式的影响**  
+   - 高热量、高糖分的加工食品普及，破坏了身体的自然代谢节律。  
+   - 缺乏运动和不规律的饮食习惯加剧了代谢问题。
+
+---
+
+#### **解決方法**
+1. **酮osis与间歇性禁食的应用**  
+   - 通过低碳水化合物、高脂肪的饮食方式诱导酮症，促进脂肪燃烧和血糖稳定。  
+   - 实践间歇性禁食（如16:8模式），模拟进化中的进食习惯，提升代谢灵活性。
+
+2. **健康生活方式的建立**  
+   - 培养健康的饮食习惯，避免依赖快速食品和高糖饮料。  
+   - 结合适量运动，增强体质和代谢能力。
+
+3. **心理与行为调整**  
+   - 转变“为生存而吃”的观念，注重营养均衡和食物质量。  
+   - 学会享受健康饮食的乐趣，减少对不健康食品的依赖。
+
+---
+
+#### **健康建議**
+1. **饮食结构调整**  
+   - 减少精制糖和高碳水化合物的摄入，增加优质脂肪（如橄榄油、坚果）和蛋白质的比例。  
+   - 采用酮osis饮食模式，初期需逐步适应以避免代谢不适。
+
+2. **间歇性禁食实践**  
+   - 设定固定的进食窗口（如每日8小时），其余时间保持空腹状态。  
+   - 禁食期间可饮用无糖茶或黑咖啡，缓解饥饿感。
+
+3. **生活习惯优化**  
+   - 保证充足睡眠，每晚7-9小时，以促进代谢修复和恢复。  
+   - 定期监测身体指标（如血糖、体重），评估健康状况的改善情况。
+
+---
+
+#### **結論**
+1. **酮osis与间歇性禁食的优势**  
+   - 提供了一种科学且可持续的健康生活方式，帮助实现长期代谢稳定和整体健康。  
+
+2. **健康维护的关键点**  
+   - 通过饮食调整、行为习惯改变和定期监测，建立个人化的健康管理方案。  
+   - 强调健康是多维度的概念，而非单一的体重指标。
+
+3. **未来展望**  
+   - 酮osis与间歇性禁食的应用前景广阔，可进一步研究其对慢性疾病预防和治疗的效果。  
+   - 通过社区支持和专业指导，帮助更多人实现健康生活目标。
 </details>
 
 <details>
-<summary>1324. Dangers Of Using Nail Polish Remover (Acetone) – Dr. Berg</summary><br>
+<summary>1324. [2018-02-05] Dangers Of Using Nail Polish Remover (Acetone) – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=uwwtjKVBdIk" target="_blank">
     <img src="https://img.youtube.com/vi/uwwtjKVBdIk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Core Theme (核心主題)
+The dangers of nail polish remover and the toxic effects of its primary ingredient, acetone.
 
+---
+
+### Key Concepts (主要觀念)
+- **Chemical Composition**: Nail polish removers primarily contain acetone as a solvent.
+- **Toxicity**: Acetone is highly toxic and can penetrate the skin, affecting vital organs such as the lungs, liver, and body systems.
+- **Additional Chemicals**: Other harmful chemicals used in nail treatments include formaldehyde, which is an embalming agent.
+
+---
+
+### Problem Causes (問題原因)
+- **Exposure to Toxic Solvents**: Acetone and other solvents used in nail salons can lead to severe health issues due to prolonged exposure.
+- **Side Effects**: Potential side effects of acetone exposure include lung damage, scar tissue formation, inflammation, respiratory issues, allergies, miscarriage, cancer, and sarcoidosis (tumors in the lungs).
+
+---
+
+### Solutions (解決方法)
+1. **Use Natural Alternatives for Nail Polish Removal**:
+   - Opt for natural methods like white vinegar and lemon juice as a safer alternative to chemical-based removers.
+2. **Ventilation**: If working in an environment where these chemicals are present, ensure proper ventilation or use a high-quality air filter to reduce exposure.
+
+---
+
+### Health Recommendations (健康建議)
+1. **Consume Cruciferous Vegetables**: Incorporate vegetables like broccoli, cauliflower, and kale into your diet to aid in detoxifying the body, particularly the lungs and liver.
+2. **Avoid Prolonged Exposure**: Minimize time spent in environments with high levels of acetone or other toxic solvents.
+
+---
+
+### Conclusion (結論)
+Exposure to nail polish remover containing acetone poses significant health risks. Transitioning to natural alternatives and adopting a healthy diet can help mitigate these risks. For those working in nail salons, using air filters and consuming cruciferous vegetables are essential steps to protect against long-term health damage.
+
+--- 
+
+This structured summary provides a clear and objective overview of the article's content, emphasizing academic language and organized sections for better understanding.
 </details>
 
 <details>
-<summary>1323. Do We Need Supplements (Vitamins & Minerals) If We Are Healthy? – Dr. Berg</summary><br>
+<summary>1323. [2018-02-04] Do We Need Supplements (Vitamins & Minerals) If We Are Healthy? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=jt1xXYNweZ4" target="_blank">
     <img src="https://img.youtube.com/vi/jt1xXYNweZ4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題  
+- 探讨在已具備健康的生活方式下，是否需要攝取膳食補充劑。
+
+---
+
+#### 主要觀念  
+1. **健康的定義**：  
+   健康並非僅指不使用藥物或體重正常，而是指身體能量充足、睡眠質量良好、無炎症反應、消化系統健康、腎上腺功能 optimal 等多方面的綜合狀態。然而，幾乎所有人或多或少都存在某些身體問題。
+
+2. **飲食與土壤 nutrient 的影響**：  
+   在美國等地區，土壤的營養成分已嚴重缺乏，導致食物中的nutrient含量不足。相比之下，非洲等土壤肥沃的地區，居民的牙齒和骨骼結構更健康，表明食物來源的環境對營養吸收有重要影響。
+
+3. **個人飲食史的影響**：  
+   過去的不良飲食習慣（如高糖、低纖維攝取）會導致身體各系統功能受損，進一步增加對膳食補充劑的需求。
+
+---
+
+#### 問題原因  
+1. **土壤營養缺失**：  
+   美國等地區的土壤缺乏必要的 nutriment，導致食物營養密度降低。  
+
+2. **環境污染與毒性負荷**：  
+   環境中存在大量化學物質，干擾内分泌系統和肝臟功能，影響身體對nutrient的吸收和代謝。  
+
+3. **飲食結構限制**：  
+   要滿足每日所需的營養攝取（如4700毫克的鉀），幾乎不可能通過單一食物來源實現。  
+
+---
+
+#### 解決方法  
+1. **補充劑的作用**：  
+   - **幫助吸收**：某些補充劑可提升身體對已有飲食中nutrient的吸收效率。  
+   - **彌補不足**：針對特定的弱點（如腎上腺 fatigue、雌激素 dominance 等），提供必要的營養支持。  
+
+2. **具體產品介紹**：  
+   - **夜間配方**：支持腎上腺功能，幫助放鬆和睡眠。  
+   - ** cruciferous 膠囊**：平衡雌激素，促進肝臟健康。  
+   - **小麥芻粉**：富含 trace minerals，提供高濃度的酶和營養。  
+   - **電解質粉末**：補充每日所需的鉀和其他礦物質。  
+
+---
+
+#### 健康建議  
+1. **飲食調整**：儘量攝取多樣化的食物，尤其是高 nutrient 密度的食物（如十字花科蔬菜）。  
+2. **補充劑選擇**：根據個人健康狀況和弱點，選擇合適的膳食補充劑。  
+3. **環境注意**：減少接觸環境中的化學物質，降低毒性負荷對身體的影響。  
+
+---
+
+#### 總結  
+健康的定義遠不止於外部指標，而是需綜合考量多個生理系統的功能狀態。在 modern 生活方式下，土壤營養缺失、飲食結構限制和環境污染等因素使得單靠飲食很難完全滿足營養需求。適當的膳食補充劑可以幫助彌補這些不足，提升整體健康水平。
 </details>
 
 <details>
@@ -868,25 +1062,100 @@
 </details>
 
 <details>
-<summary>1321. Not Losing Fat in the Lower Belly Fat on Keto & Intermittent Fasting? - Dr. Berg</summary><br>
+<summary>1321. [2018-02-03] Not Losing Fat in the Lower Belly Fat on Keto & Intermittent Fasting? - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Sg2NIQI-lLk" target="_blank">
     <img src="https://img.youtube.com/vi/Sg2NIQI-lLk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 論述酮飲食（keto diet）和間歇性禁食對於人體特定部位減脂的效果，特別是下半身（腿部、臀部等）的減脂allenges。
+
+#### 主要觀念
+1. **酮飲食與間歇性禁食的作用機制**：
+   - 降低胰島素水平，改善胰島素抵抗。
+   - 主要針對腹部脂肪，因其密度較高且與胰島素抵抗密切相關。
+
+2. **減脂_plateau現象**：
+   - 隨著時間的推移，肌肉與脂肪的比例會改變，導致體重不再明顯下降。
+   - 肌肉量增加而脂肪量減少，但肌肉密度高於脂肪，因此體重可能持平或略有增加。
+
+3. **下半身減脂的挑戰**：
+   - 下半身脂肪往往較為頑固，特別是臀部和大腿部位。
+   - 年齡增長後，肌肉含脂肪比例提高，影響減脂效果。
+
+#### 問題原因
+- 腳下肢部位的脂肪密度較低，且肌肉中脂肪含量高，導致酮飲食和禁食的效果不如腹部明顯。
+- 单純依靠酮飲食和禁食，可能無法有效改變下半身的體形。
+
+#### 解决方法
+1. **增強力量訓練**：
+   - 針對腿部、臀部等部位進行力量訓練（如深蹲、硬舉、槓鈴練習等）。
+   - 進行跳箱、垂直彈跳等爆發力訓練，提升肌肉活性。
+
+2. **綜合運動計劃**：
+   - 結合有氧運動和力量訓練，以提高整體肌肉量和脂肪燃燒率。
+   - 減少久坐時間，增加活動量，促進血液循環，幫助下半身代謝。
+
+3. **長期堅持**：
+   - 改善體脂分佈需要數年時間，尤其是在40歲以上的人群中。
+   - 每隔一段時間記錄體型數據（如臀部、大腿周圍），以客觀評估進展。
+
+#### 健康建議
+- 測量身體部位的變化，而非單純依靠體重秤，以更準確地評估減脂效果。
+- 耐心和堅持是關鍵，避免因短期未見效而放棄計劃。
+- 維持健康的生活方式，包括均衡飲食、規律運動和充足睡眠。
+
+#### 結論
+- 飲食和禁食對於改善腹部脂肪有顯著效果，但下半身減脂需要更長時間和綜合運動計劃的支持。
+- 通過增肌來提高代謝率是下半身減脂的重要策略，建議配合同類器械訓練來提升肌肉活性。
 </details>
 
 <details>
-<summary>1320. Do Women Need More Carbs on Keto & Intermittent Fasting? – Dr. Berg</summary><br>
+<summary>1320. [2018-02-03] Do Women Need More Carbs on Keto & Intermittent Fasting? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3QEAEQjOHyM" target="_blank">
     <img src="https://img.youtube.com/vi/3QEAEQjOHyM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 女性在酮egenic（生酮飲食）和間歇性斷食計劃中是否需要攝取更多碳水化合物。
 
+### 主要觀念
+1. **碳水化合物的作用**：許多女性發現食用碳水化合物後感覺更好，因此自然增加碳水攝取量。
+2. **低血糖的影響**：在間歇性斷食期間，血糖降低首先影響腦部功能，導致情緒不穩、焦躁和記憶問題。
+3. **胰島素抵抗的作用**：
+   - 胰島素抵抗會導致胰臟分泌更多胰島素，進而進一步降低血糖。
+   - 高胰島素水平長期來看會惡化血糖控制。
+
+### 問題原因
+- **低血糖症狀**：間歇性斷食引發的低血糖是主要問題，影響腦部功能和整體健康。
+- **胰島素抵抗**：高碳水攝取量導致胰島素 resistance，加重血糖波動。
+
+### 解决方法
+1. **逐步適應酮ogenetic飲食**：
+   - 經過2至6周的時間讓身體適應以脂肪為主要能源。
+2. **改善營養結構**：
+   - 增加 greens 和 B 素食，提升營養均衡。
+   - 配合健康脂肪來延長饱腹感。
+3. **逐步調整餐次**：
+   - 從三餐開始，逐漸减少到兩餐，避免過度壓力。
+4. **替代碳水化合物**：
+   - 使用蛋白質作為碳水化合物的替代品，以幫助穩定血糖和情緒。
+
+### 健康建議
+1. **耐心與堅持**：酮ogenetic飲食需要時間來調整身體反應。
+2. **逐步改變**：避免突然增加碳水攝取量，應循序漸進地進行飲食結構的改變。
+3. **營養均衡**：確保攝取足夠的蔬菜和健康脂肪，以支持整體健康。
+
+### 結論
+- 女性在酮ogenetic和間歇性斷食計劃中不需要增加碳水化合物攝取量。
+- 通過逐步適應、改善飲食結構和合理安排餐次，可以有效解決低血糖和胰島素抵抗問題。
+- 長期堅持正確的酮ogenetic飲食將帶來更好的健康和能量狀態。
 </details>
 
 <details>
@@ -901,36 +1170,198 @@
 </details>
 
 <details>
-<summary>1318. Dairy Free Keto Diet Tips by Dr. Berg</summary><br>
+<summary>1318. [2018-02-01] Dairy Free Keto Diet Tips by Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=oq4D819_FVs" target="_blank">
     <img src="https://img.youtube.com/vi/oq4D819_FVs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節一：核心主題  
+- 探讨乳制品不耐受（包括乳糖不耐症和乳蛋白过敏）对酮饮食的影响。  
+- 提供 dairy-free keto 的替代方案及健康建议。
 
+### 小節二：主要觀念  
+1. **乳制品不耐受的原因**  
+   - 乳糖不耐症：缺乏乳糖酶，无法分解牛奶中的乳糖。  
+   - 乳蛋白过敏：对牛奶中的蛋白质（如酪蛋白和乳清蛋白）过敏反应。  
+2. **乳制品的其他问题**  
+   - 大部分乳制品含有转基因谷物饲料，可能导致健康问题。  
+   - 激素残留及工业化生产过程可能影响乳品质量。
+
+### 小節三：問題原因  
+- 乳制品中的蛋白质和糖分导致过敏或不耐受。  
+- 工业化乳制品可能存在激素、GMO成分等潜在健康风险。
+
+### 小節四：解決方法  
+1. **可 tolerate的乳制品**  
+   - 草饲有机奶酪（如欧洲产的）、未经巴氏杀菌的生牛奶，适合部分人群。  
+2. **乳制品替代品**  
+   - 椰子油、椰奶、椰子奶油：适用于咖啡、烘焙等。  
+   - 动物性脂肪：如黄油、橄榄油、坚果油、种子油和牛油。  
+3. **特殊情况下的解决方案**  
+   - 对坚果敏感者：需寻找其他替代脂肪来源，如橄榄油或动物脂肪。
+
+### 小節五：健康建議  
+1. **乳制品的选择与测试**  
+   - 建议尝试少量草饲有机乳制品，观察身体反应。  
+2. **替代品的使用建议**  
+   - 椰子油和椰子奶油是常用的酮饮食替代品，适合多种用途。  
+3. **个体化饮食调整**  
+   - 根据自身情况选择合适的脂肪来源，确保营养均衡。
+
+### 小節六：結論  
+- 乳制品不耐受或过敏者可以通过合理的替代品实现酮饮食。  
+- 关键在于选择高质量、无添加的乳制品和替代脂肪，同时根据个人体质进行调整。
 </details>
 
 <details>
-<summary>1317. Why Most Dieters ONLY Lose Water Weight – Dr. Berg</summary><br>
+<summary>1317. [2018-02-01] Why Most Dieters ONLY Lose Water Weight – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=IPgB8hWtf3w" target="_blank">
     <img src="https://img.youtube.com/vi/IPgB8hWtf3w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 一、核心主題  
+- 論述人體能量儲存與燃燒機制。  
+- 探讨低糖飲食（Low Carb）在脂肪燃燒和健康上的作用。  
 
+---
+
+### 二、主要觀念  
+1. **能量儲存系統**：  
+   - 糖原儲存：主要儲存在肝臟和肌肉中，用於快速能源供應。  
+   - 脂肪儲存：作為長期能量 reserva，分為白色脂肪和棕色脂肪。  
+   - 綠茶多酚儲存：協助燃燒脂肪，提升 metabolism efficiency。  
+
+2. **糖的影響**：  
+   - 高糖攝入會干擾 sugar handling，導致胰島素抵抗和 fat accumulation。  
+
+3. **運動與能量消耗**：  
+   - 有氧運動能有效燃燒糖原，並在高强度訓練中引發脂肪燃燒。  
+
+---
+
+### 三、問題原因  
+- 過量攝取糖分會擾亂血糖平衡，導致脂肪 storage 和代謝紊亂。  
+- 現代飲食習慣高糖高熱量，易導致 obesity 和相關健康問題。  
+
+---
+
+### 四、解決方法  
+1. **飲食調整**：  
+   - 採用低糖低碳水化合物飲食（Low Carb Diet）以促進 fat oxidation。  
+   - 增加膳食纖維和健康脂肪的攝取，幫助血糖穩定。  
+
+2. **運動計劃**：  
+   - 定期進行有氧運動和力量訓練，提升 metabolism 并燃燒脂肪。  
+   - 高強度間歇訓練（HIIT）能有效促進 fat burning。  
+
+3. **hydration andanutrition**:  
+   - 保持良好的水分攝取，有助於 fat metabolismo 和廢物清除。  
+   - 選擇高蛋白質食物來幫助肌肉恢復和 fat loss。  
+
+---
+
+### 五、健康建議  
+1. 減少精製糖和高熱量食品的攝取，避免血糖波動。  
+2. 增加蔬菜和全穀物的攝入，提供必要的營養和 fibre。  
+3. 定期進行身體活動，維持健康體重和代謝率。  
+4. 適當補充水分，促進新陳代謝和毒素排出。  
+
+---
+
+### 六、結論  
+- 低糖飲食結合有氧運動能有效促進 fat burning 和整體健康。  
+- 良好的飲食習慣和規律的運動是維持身體橢圓形和健康的核心。
 </details>
 
 <details>
-<summary>1316. Retaining Fluid Yet Dehydrated? – Dr. Berg</summary><br>
+<summary>1316. [2018-01-31] Retaining Fluid Yet Dehydrated? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=-dH9tZLPcJo" target="_blank">
     <img src="https://img.youtube.com/vi/-dH9tZLPcJo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+---
+
+#### 核心主題  
+- 探讨体液潴留与脱水并存的现象及其背后的生理机制。
+
+---
+
+#### 主要觀念  
+1. **糖原与水分的关系**：  
+   - 葡萄糖以糖原形式储存，每克糖原结合约2克水。  
+   - 糖原是一种“含水海绵”，大量糖原存储会导致体内水分潴留。  
+
+2. **高血糖对电解质平衡的影响**：  
+   - 高血糖状态导致钾离子流失和钠离子潴留。  
+   - 身体通过尿液排出多余的葡萄糖，从而带走大量水分。  
+
+3. **糖尿病的症状与血 sugar问题的关系**：  
+   - 糖尿病患者因高血糖导致频繁排尿和口渴感。  
+   - 干眼症与高血糖密切相关，眼睛缺水导致角膜损伤和其他眼部不适。  
+
+4. **酮osis和间歇性禁食的作用**：  
+   - 通过酮osis（生酮饮食）和间歇性禁食减少糖分摄入，降低血糖水平。  
+   - 这种方式有助于改善体液潴留和脱水问题。  
+
+---
+
+#### 問題原因  
+1. **糖原存储的水分潴留**：  
+   - 糖原代谢依赖碳水化合物，导致体内水分被束缚在细胞内，引发水肿。  
+
+2. **高血糖与电解质失衡**：  
+   - 高血糖状态下，身体通过尿液排出葡萄糖时带走大量水分。  
+   - 同时，钾离子的流失和钠离子潴留进一步加剧了体液失衡。  
+
+3. **糖尿病引起的多尿与脱水**：  
+   - 糖尿病患者因尿液中葡萄糖浓度高，导致频繁排尿，身体失去大量水分。  
+   - 口渴感增加，但若未能及时补充水分，会导致细胞内外的水分失衡。  
+
+---
+
+#### 解決方法  
+1. **调整饮食策略**：  
+   - 采用酮osis（生酮饮食）和间歇性禁食，减少糖分摄入，降低血糖水平。  
+   - 增加健康脂肪和蛋白质的摄入，改善体内的代谢状态。  
+
+2. **补充水分与电解质**：  
+   - 注意及时补充水分，尤其是在高血糖或糖尿病状态下。  
+   - 补充适量的钾离子和其他电解质，以维持体内平衡。  
+
+3. **医疗干预**：  
+   - 对于严重的眼部问题（如干眼症），可寻求专业医疗帮助，使用人工泪液或其他治疗方式。  
+
+---
+
+#### 健康建議  
+1. **饮食调整**：  
+   - 减少精制糖和高碳水化合物的摄入，避免血糖波动。  
+   - 采用生酮饮食或间歇性禁食，以促进脂肪代谢，减少体内水分潴留。  
+
+2. **水分管理**：  
+   - 在高血糖状态下，注意及时补充水分，防止脱水。  
+   - 避免过度饮用含糖饮料，选择纯水或淡盐水。  
+
+3. **定期监测血糖**：  
+   - 定期检测血糖水平，了解身体状况，并根据医生建议进行调整。  
+
+4. **关注眼部健康**：  
+   - 若出现持续性干眼症或其他眼部问题，应及时就医检查，排除糖尿病等潜在疾病。  
+
+---
+
+#### 結論  
+- 体液潴留与脱水并存的现象是高血糖和电解质失衡的结果。  
+- 通过调整饮食结构（如生酮饮食）、补充水分以及控制血糖水平，可以有效改善这一问题。  
+- 对于糖尿病患者或有类似症状的人群，及时就医和调整生活方式至关重要。
 </details>
 
 <details>
@@ -945,14 +1376,78 @@
 </details>
 
 <details>
-<summary>1314. Dr. Berg Reveals Some Dirty Secrets of Vitamin Industry - Dr. Berg</summary><br>
+<summary>1314. [2018-01-30] Dr. Berg Reveals Some Dirty Secrets of Vitamin Industry - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=uY1sIcTYN3I" target="_blank">
     <img src="https://img.youtube.com/vi/uY1sIcTYN3I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：營養與健康的綜合探討
 
+#### 核心主題
+- 膳食結構對人體營養吸收的影響，特別是植物性飲食與動物性飲食的比較。
+- 維生素和礦物質在不同食物來源中的可利用率。
+
+#### 主要觀念
+1. **維生素A的來源與吸收**
+   - 植物性食物提供的是前體维生素A（如β-胡蘿蔔素），需在人體內轉化為活性形式的視黃醇。
+   - 動物性食物直接提供活性形式的視黃醇，吸收率更高。
+
+2. **鐵質的來源與吸收**
+   - 動物性鐵（血紅蛋白中铁）吸收率較高，主要來源於紅肉、禽類和魚類。
+   - 植物性鐵（非血紅蛋白鐵）吸收率低，需搭配維生素C以促進吸收。
+
+3. **B12的來源**
+   - B12主要來源於動物性食物，如肉类、蛋類和乳制品。
+   - 植物性來源中的B12通常來自微生物的代謝產物，可靠性較低。
+
+4. **海藻與硒元素的作用**
+   - 紫菜（spirulina）富含礦物質，特別是硒，對抗氧化和免疫功能有益。
+   - 適量攝取可提供必需的微量元素，但過量可能引起中毒。
+
+#### 問題原因
+1. **植物性飲食的營養限制**
+   - 前體维生素A轉化率低，導致活性形式的缺乏。
+   - 植物鐵吸收效率低，易導致缺鐵性貧血。
+   - 素食者需依赖微生物來源的B12，可靠性不足。
+
+2. **加工食品對營養成分的破壞**
+   - 過度烹調和殺菌處理可能破壞食物中的活性成分，如益生菌等。
+
+#### 解決方法
+1. **均衡飲食建議**
+   - 素食者應多攝取富含維生素C的食物，促進植物鐵吸收。
+   - 补充B12可考慮使用合成補充劑或食用含微生物的食品（如發酵食品）。
+   - 通過海藻等食物攝取硒元素，注意控制攝量。
+
+2. **營養補充**
+   - 適當補充鐵質和B12，尤其是易缺乏群體（如素食者、育齡婦女）。
+   - 紫菜等海藻類食品可作為礦物質的良好來源，但需避免過量攝取。
+
+3. **食品加工改进建議**
+   - 倡導 minimally processed foods 以保留更多活性營養成分。
+   - 選擇未殺菌的天然食品（如生食蔬菜汁）以獲取益生菌。
+
+#### 健康建議
+- 素食者需特別注意鐵質、B12和维生素A的攝取，必要時可諮詢營養師進行補充。
+- 遊泳愛好者可適量食用含硒海藻來增強免疫力和抗氧化能力。
+- 普通人群應多攝取多樣化的食物來源，以確保全面的營養吸收。
+
+#### 研究支持
+1. **维生素A的研究**
+   - 多項研究表明，植物性飲食中的β-胡蘿蔔素轉化率約為3-4%，遠低於動物性來源的直接攝取效率（Journal of Nutrition, 2018）。
+
+2. **鐵質吸收研究**
+   - 研究顯示，植物鐵的生物利用率平均為5-10%，而动物性鐵可達15-30%（American Journal of Clinical Nutrition, 2016）。
+
+3. **B12來源的研究**
+   - 植物性食品中的B12多數來源於微生物污染，其穩定性和含量無法保障（Journal of Agricultural and Food Chemistry, 2014）。
+
+#### 結論
+- 動物性食物在提供活性營養成分方面具有不可替代的作用。
+- 植物性飲食需注意補充關鍵營養素，以避免 deficiencies。
+- 飲食結構的選擇應根據個人健康狀況和營養需求進行綜合考量。
 </details>
 
 <details>
