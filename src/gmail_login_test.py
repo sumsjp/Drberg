@@ -10,7 +10,7 @@ if not load_result:
 
 email = os.getenv("SENDER_EMAIL")
 password = os.getenv("SENDER_PASSWORD")
-print(email, password)
+print(f"email={email}, password={password}")
 
 try:
     server = smtplib.SMTP_SSL(smtp_server, smtp_port)
