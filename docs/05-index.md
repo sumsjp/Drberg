@@ -450,113 +450,413 @@
 </details>
 
 <details>
-<summary>559. Sprouted Flax Seeds vs. Flax Seeds Explained By Dr. Berg</summary><br>
+<summary>559. [2016-11-09] Sprouted Flax Seeds vs. Flax Seeds Explained By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=gHbP94N7PmA" target="_blank">
     <img src="https://img.youtube.com/vi/gHbP94N7PmA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：亞麻籽（Flaxseed）的營養價值及其消化吸收挑戰
 
+#### 主要觀念：
+1. **豐富的ω-3脂肪酸**：亞麻籽是已知含ω-3脂肪酸最為豐富的食物之一，對腦部健康、心血管功能和抗炎作用具有顯著益處。
+2. **膳食纖維和其他營養成分**：含有大量膳食纖維、維生素B1、銅及其他礦物質。
+3. **植物雌激素（Isoflavones）**：含有的ligands（一種植物雌激素）有助于平衡雌激素，特別有益於女性，尤其是更年期婦女。
+
+#### 啊，原來酶抑制劑是這樣影響吸收的：
+1. **酶抑制劑的作用**：亞麻籽含有天然的酶抑制劑，這些物質會妨礙消化酶的功能，阻礙碳水化合物、蛋白質和礦物質的吸收。
+2. **未充分消化的后果**：未经適當處理的亞麻籽可能通過消化道而不被有效吸收，影響其營養價值的發揮。
+
+#### 解決方法：
+1. **選擇發芽亞麻籽**：購買和食用已發芽的亞麻籽，因為在發芽過程中酶抑制劑已被分解，提高了營養素的利用率。
+2. **加工處理**：將亞麻籽磨碎後食用，可降低酶抑制劑的影響，增進消化吸收。
+
+#### 健康建議：
+1. **多樣化攝取方式**：可將發芽或磨碎的亞麻籽添加到沙拉、 smoothie 或烘焙食品中。
+2. **注意來源選擇**：選購可靠來源的產品，確保其質地和營養價值。
+
+#### 結論：
+雖然生食亞麻籽因酶抑制劑的存在可能影響吸收，但通過發芽或磨碎處理可以有效克服此問題，使其成為一種極具價值的健康食品，特別適合女性攝取以獲取其多方面的健康益處。
 </details>
 
 <details>
-<summary>558. How to Read and Understand Your Cholesterol Levels</summary><br>
+<summary>558. [2016-11-08] How to Read and Understand Your Cholesterol Levels</summary><br>
 
 <a href="https://www.youtube.com/watch?v=OBXOB3J3b6w" target="_blank">
     <img src="https://img.youtube.com/vi/OBXOB3J3b6w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：膽固醇的閱讀與健康管理
 
+#### 主要觀念：
+1. **膽固醇的功能**：
+   - 膽固醇是細胞膜的重要組成成分，幾乎所有細胞外層都有膽固醇 coating。
+   - 膽固醇參與激素合成，尤其是壓力激素和抗炎性激素。
+   - 膽固醇在神經活動中起重要作用，低膽固醇可能影響記憶力。
+   - 膽固醇參與維生素 D 和膽汁的合成。
+
+2. **脂蛋白的作用**：
+   - 膽固醇不能直接溶解於血液，因此需由脂蛋白運輸。
+   - **LDL（低密度脂蛋白）**：運輸膽固醇從肝臟到全身組織。
+   - **HDL（高密度脂蛋白）**：移除血液中 excess 胆固醇並送回肝臟處理。
+
+3. **血脂指標**：
+   - LDL：正常值應低於 130 mg/dL，某些情況可降至 70 mg/dL。
+   - HDL：男性 ≥ 40 mg/dL，女性 ≥ 57 mg/dL。
+   - Triglycerides：建議低於 150 mg/dL。
+
+#### 問題原因：
+1. **LDL 高的原因**：
+   - 膽固醇運輸失衡，導致膽固醇在血管壁沉積。
+   - 遗傳因素、飲食過量（尤其是糖和精緻碳水化合物）。
+   - 醫療界對 LDL 的過度干預，可能忽略其他關鍵指標。
+
+2. **Triglycerides 高的原因**：
+   - 高糖、高碳水化合物飲食。
+   - 酗酒和其他不健康生活方式。
+
+#### 解決方法：
+1. **飲食調整**：
+   - 減少精緻糖和碳水化合物攝取，避免過量攝入反式脂肪。
+   - 增加膳食纖維攝取，幫助膽固醇排出。
+
+2. **生活習慣改善**：
+   - 觀察酒精攝取，限制飲酒。
+   - 適當運動，提升 HDL 水平並降低 LDL 和 triglycerides。
+
+3. **藥物治療的考量**：
+   - 總chos 調控需謹慎，避免過度依賴藥物。
+   - 對於罕見的遺傳性高膽固醇血症，藥物可能必要。
+
+#### 健康建議：
+1. 重視生活習慣調整，而非單純依靠藥物。
+2. 減少精緻糖和碳水化合物攝取，選擇健康飲食模式（如地中海飲食）。
+3. 定期監測血脂指標，與醫生討論適合的治療方案。
+
+#### 結論：
+膽固醇管理需整體考量飲食、運動和藥物療法。過度依賴藥物可能非最佳策略，關鍵在於改善生活方式。即便是罕見的遺傳性高膽固醇血症，也需要綜合評估風險與益處。
 </details>
 
 <details>
-<summary>557. Nutritional Benefits of Pumpkin Seeds – Dr. Berg</summary><br>
+<summary>557. [2016-11-07] Nutritional Benefits of Pumpkin Seeds – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=rJWFh_XOjSU" target="_blank">
     <img src="https://img.youtube.com/vi/rJWFh_XOjSU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：南瓜子的營養價值與健康益處
 
+#### 主要觀念：
+1. **高蛋白質含量**：南瓜子是高蛋白質的食物來源。
+2. **富含健康脂肪**：含有豐富的不飽和脂肪酸，有益於心血管健康。
+3. **B族維生素的良好來源**：提供多種B族維生素，支持能量代謝和神經系統功能。
+4. **礦物質豐富**：包括鎂、磷、鋁土礬（Manganese）等，有助於骨骼健康和能量生產。
+5. **維生素E的完整複合體**：南瓜子含有α-tocopherol、β-tocopherol、δ-tocopherol、γ-tocopherol等多种形式的維生素E，具有抗氧化作用，對心臟、皮膚和免疫系統有益。
+6. **植物甾醇（Phytosterols）的存在**：這些植物化學物質有助於防止前列腺肥大。
+
+#### 問題原因：
+1. **現代飲食中維生素E的缺失**：許多人依賴加工穀物攝取維生素E，但加工過程會破壞其完整性。
+2. ** prostate disease 的普遍存在**：前列腺肥大等問題在男性中較為常見，_NEEDS_CONFIRMATION_。
+
+#### 解決方法：
+1. **增加南瓜子的攝取**：直接食用南瓜子或加入飲食中，以攝取豐富的營養成分。
+2. **改善維生素E的攝取方式**：選擇未加工的南瓜子而非加工穀物來補充維生素E。
+
+#### 健康建議：
+1. **日常 diet 中加入南瓜子**：作為零食或添加到餐點中，以獲得其多樣化的營養價值。
+2. **注意攝取量**：雖然南瓜子營養豐富，但熱量較高，適量食用為佳。
+
+#### 結論：
+南瓜子是一種綜合性強、多用途的健康食品，富含蛋白質、健康脂肪和多種礦物質及維生素。它在預防前列腺肥大、支持心臟和骨骼健康等方面具有重要作用。建議將其納入均衡飲食中，以提升整體健康水平。
+
+---
+
+以上整理基於原文內容，並使用正式的學術用語進行歸納與結構化。
 </details>
 
 <details>
-<summary>556. How Much Sugar Per Day Required For The Body – Dr. Berg</summary><br>
+<summary>556. [2016-11-06] How Much Sugar Per Day Required For The Body – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=lx87378ZyFM" target="_blank">
     <img src="https://img.youtube.com/vi/lx87378ZyFM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 糖分攝取與人體需求的探討  
 
+---
+
+### 主要觀念  
+1. **糖分的需求**：  
+   - 人體不需要任何必需糖分（essential sugars）。  
+   - 虽然碳水化合物在飲食中佔有一席之地，但它並非必需。  
+2. **微生物的營養來源**：  
+   - 經蔬菜纖維提供的食物是腸道微生物的重要養分。  
+3. **血糖來源的多樣性**：  
+   - 人體可以通過脂肪和蛋白質轉化為葡萄糖，以滿足能量需求。  
+
+---
+
+### 問題原因  
+1. **過量糖分攝取的危害**：  
+   - 高糖攝取導致胰島素水平升高，引發多種相關疾病，包括：  
+     - 腹型肥胖（ visceral fat accumulation）  
+     - 第3型糖尿病（ Alzheimer's disease）  
+     - 2型糖尿病  
+     - 心血管疾病（heart disease）、高血脂症（high cholesterol）、動脈硬化（arteriosclerosis）  
+     - 中風（stroke）  
+
+---
+
+### 解決方法  
+1. **降低糖分攝取**：  
+   - 減少加工食品和含糖飲料的攝取。  
+2. **替代品的使用**：  
+   - 使用天然甜味劑如赤蘚糖醇（erythritol）、甜菊糖（Stevia）等，以滿足對甜味的需求。  
+
+---
+
+### 健康建議  
+1. **飲食調整**：  
+   - 以蔬菜纖維為主，攝取足夠的维生素和微量元素。  
+2. **能量來源優先順序**：  
+   - 體力消耗可優先依靠脂肪而非糖分。  
+3. **戒斷 sugar addiction**：  
+   - 渐進式降低對甜味的依賴，逐步改用天然甜味替代品。  
+
+---
+
+### 結論  
+- 人體並非必需糖分，過量攝取會導致嚴重健康問題。  
+- 適當調整飲食結構，降低糖分攝取，可有效改善胰島素相關疾病和整體健康狀況。
 </details>
 
 <details>
-<summary>555. Unique Tahini Benefits – Health Benefits of Tahini Butter – Dr. Berg</summary><br>
+<summary>555. [2016-11-05] Unique Tahini Benefits – Health Benefits of Tahini Butter – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=qO255X-vMdo" target="_blank">
     <img src="https://img.youtube.com/vi/qO255X-vMdo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節總結
 
+#### 核心主題  
+- 談及 Tahini（芝麻糊）及其營養價值和健康益處。
+
+#### 主要觀念  
+1. **Tahini 的定義與來源**  
+   - Tahini 是由 sesame seeds（芝麻種子）制成的糊狀物，可在大部分超市購買。  
+2. **Tahini 的特性**  
+   - 具有良好的抗氧化性，不易變質，可長時間保存。  
+3. **營養成分**  
+   - 含豐富的 Copper（銅），有助於膠原蛋白生成、防止頭髮灰白、緩解關節炎等。  
+   - 含有微量 Vitamin T，主要來源為 sesame seeds（芝麻種子）、grub worms（蛃螋）和 termites（螱）。  
+4. **健康益處**  
+   - 維生素 T 有助於增強免疫系統和神經系統功能。  
+   - 銅對膠原蛋白合成和皮膚彈性有重要作用。  
+
+#### 問題原因  
+- 西方飲食中常忽略 sesame seed（芝麻種子）及其制品如 Tahini 的營養價值，導致可能缺乏某些微量元素如 Vitamin T 和 Copper。
+
+#### 解決方法  
+1. **增加 Tahini 取**  
+   - 替代花生醬或其他堅果醬，添加到日常飲食中。  
+2. **多樣化食物來源**  
+   - 確保 다양한 膳食來源以獲得足夠的微量營養素。  
+
+#### 健康建議  
+- 將 Tahini 與其他健康食品（如杏仁糊）混合食用，提升營養均衡。  
+- 在烹調多種菜肴或醬料中使用 Tahini，豐富口感和營養。  
+
+#### 結論  
+Tahini 是一種富含微量營養素的高品質食物，具有抗氧化特性，適合用於多種飲食場合。它可作為花生醬和其他堅果醬的健康替代品，有助於增強免疫系統功能並改善皮膚和關節健康。
 </details>
 
 <details>
-<summary>554. What Causes Migraines and Where it Come From Explained by Dr. Berg</summary><br>
+<summary>554. [2016-11-04] What Causes Migraines and Where it Come From Explained by Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kZY-7Pdw7JE" target="_blank">
     <img src="https://img.youtube.com/vi/kZY-7Pdw7JE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節一：核心主題  
+- 文章主要探討 migraines（偏头痛）的原因及其與消化系統的關聯性，強調 migraines 不僅限於頭部問題，還可能源自其他身體部位。
 
+### 小節二：主要觀念  
+- Migraines 的成因多樣化，包括但不限於 sinus issues、menstrual cycles、head injuries 或 tumors。  
+- 大部分 migraines 可能與消化系統相關，尤其是 gallbladder 和膽道的問題。  
+
+### 小節三：問題原因  
+- **消化系統干擾**：gallbladder 的不適或消化系統壓力可能沿著 meridians（中醫理論中的經絡）上行至頭部，引發 migraines。  
+- **局部敏感灶**：根據 gallbladder Meridian 的位置，右側肋骨下方的區域可能是導致 migraines 的關鍵部位。  
+
+### 小節四：解決方法  
+1. **自我按摩法**：  
+   - 按摩位於右側或左側肋骨下方的 gallbladder meridian 區域，持續 1-2 分鐘。  
+   - 請注意較為敏感的部位，以判斷消化系統壓力的主要來源（可能是 gallbladder 或胰腺）。  
+
+2. **飲食調整**：  
+   - 若 migraines 確實源自消化問題，需評估並調整飲食內容，避免刺激性食物。  
+
+### 小節五：健康建議  
+- 頭痛症狀若未緩解，可能源於其他原因（如 sinus 或 menstrual 问题），應進一步檢查。  
+- 定期按摩和調整飲食習慣可幫助預防 migraines 的發生。  
+
+### 小結論  
+Dr. Berg 提供了一種基於中醫 meridian 理論的非侵入性方法，用以診斷和緩解 migraines，強調了消化系統健康在頭痛管理中的重要性。此方法為患者提供了一個簡單易行的自我ケア手段，但若症狀持續或加重，仍需尋求專業醫療建議。
 </details>
 
 <details>
-<summary>553. The Unique Benefits of Cranberries – Dr. Berg</summary><br>
+<summary>553. [2016-11-03] The Unique Benefits of Cranberries – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=bV4V5p39MhE" target="_blank">
     <img src="https://img.youtube.com/vi/bV4V5p39MhE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題
+- 確認cranberries（蔓越莓）的健康益處，特別是其對免疫系統的作用。
+
+#### 主要觀念
+1. **營養價值**：蔓越莓富含多種營養成分。
+2. **免疫增強作用**：蔓越莓能防止微生物附著於內臟黏膜表面，從而降低感染風險。
+3. **特定健康功效**：
+   - 預防尿路感染（UTIs）。
+   - 抵抗幽門螺桿菌（H pylori）。
+   - 抵制大腸杆菌（E. coli）。
+
+#### 問題原因
+- 糖分過多的蔓越莓汁可能增加微生物的活性，削弱其抗菌效果。
+
+#### 解決方法
+- 消費者應選擇未添加糖分的蔓越莓汁，以最大化其健康益處。
+
+#### 健康建議
+1. **飲用方式**：
+   - 可直接將蔓越莓汁稀釋後服用。
+   - 推荐與蜂蜜、檸檬或vinegar混合使用，提升口感和效果。
+2. **劑量建議**：
+   - 每日可攝取1-2盎司（約30-60毫升）蔓越莓汁。
+   - 使用吸管飲用，以減少對牙齒的酸性腐蝕。
+
+#### 結論
+蔓越莓汁是一種天然的免疫增強劑，通過防止微生物附著來降低感染風險。選擇未添加糖分的產品，並按建議劑量攝取，可以有效享受其健康益處。
+
+---
+
+### 英文摘要  
+Cranberries are renowned for their immune-enhancing properties, primarily due to their ability to prevent microbes from adhering to the inner walls of organs such as the bladder, stomach, and small intestine. This characteristic makes them effective in reducing the risk of infections like urinary tract infections (UTIs), Helicobacter pylori infections, and Escherichia coli colonization. Dr. Bur recommends consuming unsweetened cranberry juice, ideally diluted with water or combined with other natural additives like honey, lemon, or vinegar. For optimal results, especially during infections or prevention efforts, 1-2 ounces of cranberry juice mixed in a glass of water is suggested, preferably consumed through a straw to minimize acid exposure. Overall, incorporating unsweetened cranberry juice into one's diet can serve as a natural and effective immune booster.
 </details>
 
 <details>
-<summary>552. Sciatica Pain Relief – DO's and DON'Ts Stretches – Dr. Berg</summary><br>
+<summary>552. [2016-11-02] Sciatica Pain Relief – DO's and DON'Ts Stretches – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=LpZtMAsT0c0" target="_blank">
     <img src="https://img.youtube.com/vi/LpZtMAsT0c0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理：為何伸展會加重坐骨神經痛？——核心主題、原因與解決方案
 
+#### 1. 核心主題
+- 文章主要探討坐骨神經痛（sciatica）患者在進行伸展運動，尤其是瑜伽伸展時，為什麼會導致疼痛惡化。
+- 强調了避免對特定肌群過度伸展的重要性，並提出了科學的替代方法。
+
+#### 2. 主要觀念
+- 坐骨神經是人體中最長且最寬廣的神經，負責傳送信號從背部到腿部後方。
+- 常見病因：椎間盤突出（protruded disc）為導致坐骨神經 irritation 的最主要原因。
+
+#### 3. 問題原因
+- 椎間盤突出會擠壓坐骨神經，造成 inflammation 和 nerve compression。
+- 不當的伸展動作（如腘繩肌拉伸）會加重對已受影響的坐骨神經的压力，導致 pain exacerbation。
+
+#### 4. 解決方法
+- 避免直接伸展腘繩肌群，因該部位的 stretch 可能會進一步刺激受壓迫的坐骨神經。
+- 替代方案：針對拮抗肌群（大腿肌肉）進行反向伸展，以緩解壓力並促進恢復。
+
+#### 5. 健康建議
+- 每日進行大腿後側肌肉的反向伸展，每次保持數分鐘，每日可重複2-3次。
+- 減少久坐時間，保持良好的姿勢，避免加重椎間盤壓力的行為（如長時間彎腰或錯誤姿勢）。
+
+#### 6. 結論
+- 適當且針對性的伸展運動對於緩解坐骨神經痛至關重要。
+- 避免錯誤的伸展方式，選擇科學的方法可有效降低疼痛，並促進恢復。
 </details>
 
 <details>
-<summary>551. Top 9 Superfoods on the Planet – Dr. Berg</summary><br>
+<summary>551. [2016-11-01] Top 9 Superfoods on the Planet – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=FcEH2HrvmUc" target="_blank">
     <img src="https://img.youtube.com/vi/FcEH2HrvmUc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小芻歸納：
 
+#### 1. **核心主題**
+   - 探讨地球上九种顶级超级食物的健康益处及其对身体各个系统的积极影响。
+   - 强调通过摄入这些超级食物来提升整体健康、预防疾病以及改善身体功能。
+
+#### 2. **主要觀念**
+   - 超级食物具有丰富的营养成分和多种健康功效，包括 detoxification（解毒）、anti-inflammatory（抗炎）、antioxidant（抗氧化）等。
+   - 每种超级食物都有其独特的营养价值和健康益处，如 kale 的维生素含量、cabbage 对胃肠道的修复作用、brussels sprouts 的甲状腺保护特性等。
+
+#### 3. **問題原因**
+   - 现代饮食中普遍存在营养不均衡、过多摄入加工食品和高热量食物，导致肝脏负担加重、免疫力下降以及慢性疾病风险增加。
+   - 生活压力大、环境污染等问题进一步加剧了身体的毒素积累和健康问题。
+
+#### 4. **解決方法**
+   - 增加超级食物在日常饮食中的比例，通过科学合理的营养摄入来改善身体健康状况。
+   - 结合传统烹饪方式与现代饮食习惯，将这些超级食物融入到日常餐食中，方便实用且易于坚持。
+
+#### 5. **健康建議**
+   - 定期摄入 kale、cabbage、brussels sprouts 等 cruciferous vegetables（十字花科蔬菜），以支持肝脏 detoxification 和甲状腺健康。
+   - 多食用 radish 来促进胆汁流动和 sinus mucus 的清除。
+   - 增加 beets 的摄入，有助于降低血压、改善心血管健康并调节激素水平。
+   - 将 asparagus 作为日常饮食的一部分，帮助缓解压力和焦虑，并预防肾结石。
+   - 高剂量摄入 garlic 和 turmeric，以增强免疫力和抗炎作用。
+   - 利用 parsley 的高维生素含量，通过榨汁或沙拉等方式增加营养吸收。
+
+#### 6. **結論**
+   - 超级食物是提升健康水平的重要组成部分，它们不仅提供丰富的营养素，还能帮助身体抵抗疾病、延缓衰老。
+   - 建立健康的饮食习惯并坚持下去，将显著改善整体健康状况，并为预防慢性疾病奠定基础。
 </details>
 
 <details>
-<summary>550. Hyperthyroidism Diagnosis – Things to Avoid – Dr. Berg</summary><br>
+<summary>550. [2016-10-31] Hyperthyroidism Diagnosis – Things to Avoid – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=4w5E4gaWLuE" target="_blank">
     <img src="https://img.youtube.com/vi/4w5E4gaWLuE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節：文章重點整理
 
+1. **核心主題**
+   - 論述在高促甲状腺素血症（Hyperthyroidism）情況下需要特別注意的兩個重要事項。
+
+2. **主要觀念**
+   - 避免攝取含碘物質。
+   - 避免使用膽鹽製劑。
+
+3. **問題原因**
+   - **含碘物質的影響**：碘是合成甲状腺激素的重要元素，過量攝取會增加 thyroid hormone 的產生，導致病情加重。
+   - **膽鹽製劑的影響**：膽鹽可以促進 T4 转化為 T3，從而增加 thyroid activity，進一步惡化 hyperthyroidism。
+
+4. **健康建議**
+   - 避免攝取任何形式的碘補充劑或含碘食物。
+   - 不使用膽鹽製劑（如 gallbladder formula、bile extract 等）。
+
+5. **結論**
+   - 在高促甲状腺素血症的情況下，避免使用含碘物質和膽鹽製劑是至關重要的。正確的飲食選擇和藥物使用可以有效控制病情。
 </details>
 
 <details>

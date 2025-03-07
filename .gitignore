@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.env
+*.env
 bin/
 .DS_Store
 tmp.txt
