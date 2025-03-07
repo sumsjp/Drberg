@@ -880,80 +880,421 @@ Ginseng 作為一種傳統中草藥，具有多方面的健康益處，尤其在
 </details>
 
 <details>
-<summary>2884. How to Repair Your Immune System if it is Old and Damaged</summary><br>
+<summary>2884. [2020-06-19] How to Repair Your Immune System if it is Old and Damaged</summary><br>
 
 <a href="https://www.youtube.com/watch?v=EdeBok0jOT0" target="_blank">
     <img src="https://img.youtube.com/vi/EdeBok0jOT0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：如何修復老化的免疫系統
 
+---
+
+#### **核心主題**
+- 老化對免疫系統的影響及其修復方法。
+- 探讨導致免疫功能下降的原因及改善策略。
+
+---
+
+#### **主要觀念**
+1. **免疫系統的老化現象**：
+   - 自然殺手（NK）細胞數量減少，削弱病毒清除能力。
+   - B-細胞和T-細胞數量下降，導致抗體生成不足，免疫記憶減弱。
+   - 吞噬細胞數量降低，影響病原體清除能力。
+
+2. **外部因素對免疫系統的影響**：
+   - 長期使用抗生素、化療藥物及免疫抑制劑會損害免疫功能。
+   - 睡眠不足、壓力過大及不健康飲食（如高糖、高碳水化合物）進一步削弱免疫力。
+
+---
+
+#### **問題原因**
+1. **年齡相關的免疫衰退**：
+   - 免疫細胞數量和活性隨老化下降。
+   - 免疫反應遲鈻，易受感染影響。
+
+2. **不良生活方式**：
+   - 不健康飲食（高糖、高油）、缺乏運動、睡眠不足及壓力過大導致免疫功能紊亂。
+
+3. **環境與醫藥因素**：
+   - 長期使用抗生素和化療藥物破壞腸道菌群平衡，降低免疫力。
+   - 環境污染及其他外部壓力源增加免疫負擔。
+
+---
+
+#### **解決方法**
+1. **飲食調整**：
+   - 增加富含抗氧化劑的食物（如蔬菜、水果），促進免疫功能。
+   - 減少糖分攝取，避免高碳水化合物飲食以降低胰島素水平。
+
+2. **腸道健康維護**：
+   - 摂取益生菌和益生元，恢復腸道菌群平衡。
+   - 常食用發酵食品（如酸菜、泡菜）以增強 gut microbiota 的免疫支持作用。
+
+3. **定期禁食**：
+   - 間歇性禁食可促進免疫系統更新與修復。
+   - 老年人或免疫力低下者可采用短時間禁食來提升免疫功能。
+
+4. **充足睡眠**：
+   - 保持規律的睡覺時間，確保足夠的深度睡眠以維持正常的免疫調節。
+
+5. **壓力管理**：
+   - 適當進行冥想、瑜伽等放鬆活動，降低皮質醇水平。
+   - 培養良好的心理状态，避免長期焦慮與壓力。
+
+---
+
+#### **健康建議**
+1. **飲食建議**：
+   - 限制精製糖和高碳水化合物攝取，選擇低GI食物。
+   - 多食用富含維生素C、E及锌的食物（如柑橘類水果、坚果、海산類）。
+
+2. **生活方式建議**：
+   - 建立規律的作息時間表，確保每日7-8小時睡眠。
+   - 適當運動，增強體力與免疫力。
+
+3. **腸道健康管理**：
+   - 每日攝取益生菌（如酸奶、泡菜等），恢復腸道菌群平衡。
+   - 減少使用抗生素，除非絕對必要。
+
+4. **心理調適建議**：
+   - 學會壓力管理技巧，如冥想、深呼吸或正念練習。
+   - 保持樂觀心態，避免長期沮喪與焦虑。
+
+---
+
+#### **結論**
+- 老化導致免疫功能下降是不可逆的自然現象，但通過飲食調整、生活方式改善和健康管理可以有效延缓其進展。
+- 加強腸道健康、維持充足睡眠、降低壓力水平及保持均衡飲食是提升免疫力的有效策略。
+- 長期來看，健康的免疫系統取決於個人的生活習慣與環境因素的相互作用。
+
+--- 
+
+以上整理涵蓋了文章的核心內容，並以正式的學術用語進行表達，結構清晰且條理分明。
 </details>
 
 <details>
-<summary>2883. Non-Plant Sources of Vitamin C</summary><br>
+<summary>2883. [2020-06-18] Non-Plant Sources of Vitamin C</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xVKsKzRBwag" target="_blank">
     <img src="https://img.youtube.com/vi/xVKsKzRBwag/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 重点领域归纳
 
+#### 核心主题：维生素C的非植物性来源  
+文章重点讨论了维生素C的非植物性和非蔬菜类食物来源。
+
+#### 主要观念：
+- **维生素C的传统来源**：柑橘类水果、甜椒、 Sauerkraut（泡菜）、绿叶蔬菜（如菠菜和欧芹）、浆果类（如草莓和其他 berries）以及卷心菜。  
+- **其他动物性来源**：肝脏、鲸鱼皮、生蚝等。
+
+#### 问题原因：
+- 过度烹饪肉类会破坏其中的维生素C，导致营养流失。
+- 不同肉类中维生素C含量存在差异，部分肉类可能缺乏该营养素。
+
+#### 解决方法：
+- 食用肉类时选择适当烹饪方式（如避免过度高温或长时间烹饪），以保留维生素C。  
+- 优先选择新鲜且未经过度加工的肉类。
+
+#### 健康建议：
+- **均衡饮食**：通过多样化的食物来源获取维生素C，确保营养全面。  
+- **烹饪技巧**：采用轻度烹饪方法（如轻微煎炒）来保留食材中的维生素C。  
+- **适量摄入**：过量摄入某些动物性食品可能对健康不利，建议适量食用。
+
+#### 结论：
+维生素C不仅存在于常见的植物性食物中，也广泛分布于多种动物性食物中。合理选择和烹饪方式可以有效获取这种重要的营养素，从而增强免疫力并促进整体健康。
 </details>
 
 <details>
-<summary>2882. How to Wake Up Refreshed Every Morning – Inadequate Sleep – Dr.Berg on Melatonin and Sleep</summary><br>
+<summary>2882. [2020-06-18] How to Wake Up Refreshed Every Morning – Inadequate Sleep – Dr.Berg on Melatonin and Sleep</summary><br>
 
 <a href="https://www.youtube.com/watch?v=PxYQLRSsdus" target="_blank">
     <img src="https://img.youtube.com/vi/PxYQLRSsdus/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理重點
 
+#### 核心主題
+文章主要探討了電子磁場（EMF）對人體健康的影響，特別是其如何干擾睡眠質量和降低褪黑激素（melatonin）的分泌。此外，文中還提供了一些簡單的生活建議，以減少暴露在高強度EMF中的風險。
+
+#### 主要觀念
+1. **EMF的來源**：文中提到EMF主要來自家用電器，如燈具、插頭、手機等。
+2. **EMF對健康的影響**：
+   - 干擾褪黑激素分泌，導致睡眠質量下降。
+   - 影響深度睡眠（Delta波睡眠），使人即使在睡覺時也無法充分休息。
+3. **敏感性與長期影響**：有些人對EMF更為敏感，而長期暴露可能引發多種健康問題，如心臟病和免疫系統功能下降。
+
+#### 問題原因
+1. 家用電器的持續 electrical fields 即使在關閉設備時也可能存在。
+2. 手機等無線設備持續發射有害輻射，尤其是在睡眠期間未斷開或開啟飛行模式的情況下。
+3. 未使用屏蔽裝置或技術來降低EMF暴露。
+
+#### 解決方法
+1. **物理干預**：
+   - 使用插電開關切斷設備在不用時的供電。
+   - 將家電移離床鋪區域，確保至少一英尺以上的距離。
+2. **技術干預**：
+   - 使用飛行模式將手機等無線設備的輻射降低至最低水平。
+   - 考慮使用屏蔽材料或技術來隔絕EMF。
+3. **替代方案**：
+   - 側重新購買依賴電源的家電，如電熱毯、水床加溫器等，選擇非電氣化的方式來滿足需求。
+
+#### 健康建議
+1. 認知EMF的危害，並采取主動措施降低暴露。
+2. 使用簡單易行的方法（如飛行模式和拔插頭）來減少EMF暴露。
+3. 定期檢查家中電線和設備的絕緣情況，避免漏電等隱患。
+
+#### 結論
+文章強調了現代生活中不可忽視的EMF問題，並建議通過簡單的生活調整來降低健康風險。雖然完全消除EMF暴露可能不易，但通過合理的管理和干預措施，可以顯著減少其影響，從而提高睡眠質量和整體健康水平。
+
+### 參考文獻
+1. 資料來源：文章內容。
+2. 推荐工具：Trifield EMF Meter (Model TF2) 用於測量環境中的EMF值。
 </details>
 
 <details>
-<summary>2881. 15 Signs of an Omega-3 Fatty Acid Deficiency</summary><br>
+<summary>2881. [2020-06-17] 15 Signs of an Omega-3 Fatty Acid Deficiency</summary><br>
 
 <a href="https://www.youtube.com/watch?v=aDmw9WiUfcE" target="_blank">
     <img src="https://img.youtube.com/vi/aDmw9WiUfcE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Summary of Key Points from the Article
 
+#### Core Theme
+- **Omega-3 Fatty Acid Deficiency and Its Health Implications**
+
+#### Major Concepts
+1. **Sources of Omega-3 Fatty Acids**
+   - Primary sources include fatty fish (e.g., salmon, sardines) and cod liver oil.
+   - Cod liver oil provides additional benefits such as vitamins A and D.
+
+2. **Consequences of Deficiency**
+   - Dermatological Issues: Rough, scaly skin; dry skin; dermatitis; psoriasis.
+   - Ocular Health: Dry eyes and age-related macular degeneration.
+   - Cardiovascular Complications: Arrhythmias, fatty liver disease, hypertension, angina, and heart disease.
+   - Cognitive Impairment: Memory loss and dementia.
+   - Mental Health: Depression, anxiety, ADHD, and increased risk of allergies.
+
+3. **Role of Omega-3 Fatty Acids**
+   - Essential for brain, heart, skin, and eye health.
+   - Anti-inflammatory properties.
+
+#### Causes of Deficiency
+- Inadequate dietary intake, particularly from fatty fish or cod liver oil.
+- Poor lifestyle choices leading to insufficient consumption of omega-3-rich foods.
+
+#### Solutions and Health Recommendations
+1. **Dietary Interventions**
+   - Consume fatty fish (salmon, sardines) two to three times per week.
+   - Use cod liver oil as a supplementary source for omega-3s and vitamins A and D.
+
+2. **Supplementation**
+   - Consider omega-3 supplements if dietary intake is insufficient.
+   - Consult healthcare professionals for appropriate dosages.
+
+#### Conclusion
+Omega-3 fatty acids are crucial for overall health, impacting skin, heart, eyes, brain, and mental well-being. Addressing deficiency through diet or supplementation can mitigate associated health risks and improve quality of life.
+
+### Additional Information
+For further details on omega-3 fatty acids, refer to the video provided in the article.
 </details>
 
 <details>
-<summary>2880. The 3 Fats That Can Fix a Fatty Liver –  Reverse a Fatty Liver – Dr.Berg</summary><br>
+<summary>2880. [2020-06-17] The 3 Fats That Can Fix a Fatty Liver –  Reverse a Fatty Liver – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=l6kfGsAnV0w" target="_blank">
     <img src="https://img.youtube.com/vi/l6kfGsAnV0w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理與分析
 
+#### 核心主題
+- 論述脂肪肝的成因及其逆轉方法。
+
+#### 主要觀念
+1. **脂肪肝的常見迷思**：
+   - 長期以來，公眾對脂肪攝取存在誤解，認為任何脂肪攝入都會導致脂肪肝。
+   
+2. **脂肪肝的主要病因**：
+   - 过量碳水化合物攝取是脂肪肝的主要原因，因其易轉化為脂肪，在肝臟積累。
+
+3. **可逆轉脂肪肝的三種脂肪來源**：
+   - 橄欟油（Olive Oil）
+   - 魚油（Fish Oils）
+   - 總 coconut oil
+
+#### 問題原因
+- **碳水化合物過量攝取**：尤其是高糖、高果糖飲食，導致肝臟脂肪變化。
+- **不良生活方式**：缺乏運動、高熱量攝入等影響肝臟健康。
+
+#### 解決方法
+##### 1. 橄欟油（Olive Oil）
+- **分類與特性**：
+  - 屬於ω-9脂肪酸，富含單不飽和脂肪酸。
+- **營養功效**：
+  - 抗炎作用：降低肝臟炎症反應。
+  - 支持肝臟健康：改善脂肪肝症狀。
+  - 其他益處：降血脂、抗菌等。
+
+##### 2. 魚油（Fish Oils）
+- **分類與特性**：
+  - 富含ω-3多不飽和脂肪酸，如EPA和DHA。
+- **營養功效**：
+  - 抗炎作用：減少肝臟炎症。
+  - 脫脂效果：抑制脂肪在肝臟積累。
+  - 其他益處：支持心血管健康、 retina health及腦功能。
+
+##### 3. 總 coconut oil
+- **分類與特性**：
+  - 中鏈脂肪酸（MCFAs）豐富，易於消化和吸收。
+- **營養功效**：
+  - 脫脂效果：動物研究表明能降低肝臟脂肪含量。
+  - 其他益處：提供快速能量來源，增強免疫功能。
+
+#### 健康建議
+1. **飲食調整**：
+   - 減少高糖、高果糖攝取，控制碳水化合物攝量。
+   - 增加健康脂肪的攝入，如橄榄油、魚油和椰子油。
+
+2. **生活方式改善**：
+   - 定期進行有氧運動，促進脂肪代謝。
+   - 適當 intermittent fasting或 prolonged fasting，降低肝臟 fat stores。
+
+3. **補充劑推薦**：
+   - 經丸：幫助分解膽汁，促進脂肪代謝。
+   - 膳食補充劑如 choline，有助於去除肝臟脂肪。
+
+#### 結論
+- 脫脂飲食結合健康脂肪攝取可有效改善脂肪肝。
+- 高質量的脂肪來源（橄榄油、魚油、椰子油）在逆轉脂肪肝中起關鍵作用。
+- 生活方式調整和定期檢查是維持肝臟健康的關鍵。
 </details>
 
 <details>
-<summary>2879. Can Lemon Juice Really Help You Lose Weight?</summary><br>
+<summary>2879. [2020-06-16] Can Lemon Juice Really Help You Lose Weight?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=2Z6xbpuUsds" target="_blank">
     <img src="https://img.youtube.com/vi/2Z6xbpuUsds/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+根據提供的文章内容，以下是整理後的重点，使用正式的學術用語並分為若干小節：
 
+### 核心主題
+- 探讨个人成长与自我提升的重要性。
+- 强调心理健康和身体健康的平衡。
+
+### 主要觀念
+1. **自我反思与责任**：文中提到“all the blame on self stirring fishers”，表明作者认为个人应对自身行为负责，并通过反思促进成长。
+2. **人际互动与支持**：文章多次提及朋友、学校和社会的支持，如“congratulations to the school slides”和“one direction of your needs to obey”，强调社交网络在个人发展中的作用。
+3. **时间管理和目标设定**：文中提到“steady growth hard-sphere in this profile”，暗示通过合理的时间管理和明确的目标设定来提升效率。
+
+### 問題原因
+1. **缺乏自我认知**：文章指出，“tell me narrated mathematics in this to the witches congratulations”，可能指当前教育体系中对个人兴趣和能力的忽视，导致学生无法充分发展。
+2. **外界干扰与压力**：“how it all turned up for ninja fast your mp3 music download create swap directories”表明现代社会中的信息过载和娱乐 distractions 对专注力的影响。
+
+### 解決方法
+1. **自我激励与目标设定**：建议通过设定具体、可实现的目标来引导个人成长，如“first and best free in new york city uniksul lands”。
+2. **利用社交支持**：强调朋友、学校和社会的支持在克服困难和提升自信中的作用。
+3. **时间管理和专注力培养**：建议采用有效的时间管理技巧，减少外界干扰，专注于重要任务。
+
+### 健康建議
+1. **心理健康维护**：文中提到“health insurance and benefit of heaven in your house”，建议保持积极的心态，并寻求心理辅导以应对压力。
+2. **身体健康关注**：“all health insurance and benefit of heaven in your house when starting world”表明需要关注身体锻炼和健康饮食，以维持整体健康。
+
+### 總結
+- 个人成长是一个多维度的过程，涉及自我反思、人际互动和支持系统的建立。
+- 面对现代生活中的挑战，通过设定目标、有效管理时间和维护身心健康，可以实现个人的全面发展。
 </details>
 
 <details>
-<summary>2878. Heart Disease Starts When You Are a Kid</summary><br>
+<summary>2878. [2020-06-16] Heart Disease Starts When You Are a Kid</summary><br>
 
 <a href="https://www.youtube.com/watch?v=bXDqiZGkBZw" target="_blank">
     <img src="https://img.youtube.com/vi/bXDqiZGkBZw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理與結構化分析
 
+#### 核心主題
+- ** arteriosclerotic changes or disease in young people**  
+  探讨动脉粥样硬化性变化或疾病在年轻人中的早期发生情况。
+
+---
+
+#### 主要觀念
+1. **Early Onset of Coronary Heart Disease (CHD)**
+   - 数据表明，年轻人的冠状动脉和主动脉中已出现CHD的早期迹象。
+   - 研究发现：
+     - 20至29岁的年轻人中有大量脂肪斑块存在。
+     - 甚至有7岁儿童的血管中出现脂肪条纹。
+
+2. **Risk Factors and Mechanisms**
+   - 主要风险因素：**insulin resistance**（胰岛素抵抗）。
+   - 病因机制：
+     - 高 carbohydrate 摄入导致血糖波动和胰岛素分泌增加。
+     - 过量糖分被转化为脂肪或胆固醇，沉积在血管内壁。
+
+3. **Historical Diet Comparison**
+   - 1967年的数据显示，年轻人的饮食结构为：**18% protein, 40% fat, 42% carbs**。
+   - 现代观念指出，应减少carbs摄入至5%，并严格控制added sugars。
+
+---
+
+#### 問題原因
+- **Dietary Factors**
+  - 高 carbohydrate 和高糖饮食是导致年轻人动脉粥样硬化的主要原因。
+  - 过量的 added sugars 加速脂肪和胆固醇的积累。
+
+- **Lack of Symptomatic Awareness**
+  - 年轻人早期缺乏症状，导致未能及时进行健康检查和干预。
+
+---
+
+#### 解決方法
+1. **Dietary Interventions**
+   - 减少carbs摄入，调整饮食结构至**5% carbs**。
+   - 控制added sugars的摄入量（建议不超过6茶匙/天）。
+   - 增加蛋白质和健康脂肪的比例。
+
+2. **Early Prevention and Screening**
+   - 提高公众对年轻人心血管健康的重视。
+   - 推荐定期进行心血管健康检查，特别是有家族史或高风险人群。
+
+3. **Educational Campaigns**
+   - 加强健康教育，普及饮食与心血管疾病的关系。
+   - 提供科学的营养建议和生活方式指导。
+
+---
+
+#### 健康建議
+1. **Dietary Recommendations**
+   - 限制精制糖和高 glycemic index（GI）食物的摄入。
+   - 选择全谷物、蔬菜和健康脂肪源（如鱼油、坚果）。
+   - 保持均衡饮食，避免过量 carbohydrate 摄入。
+
+2. **Lifestyle Modifications**
+   - 增加身体活动，促进胰岛素敏感性和心血管健康。
+   - 避免吸烟和过度饮酒。
+
+3. **Medical Monitoring**
+   - 定期检测血糖、血脂和血压水平。
+   - 对有家族史或高风险因素的人群进行早期干预。
+
+---
+
+#### 結論
+- 年轻人中动脉粥样硬化的早期发生与高 carbohydrate 和高糖饮食密切相关。
+- 通过调整饮食结构、控制 sugar 摄入以及加强健康教育，可以有效预防和延缓疾病的发生。
+- 提高公众对年轻人心血管健康的重视，实施早筛早诊策略，是改善整体公共健康的关键。
 </details>
 
 <details>
@@ -968,36 +1309,193 @@ Ginseng 作為一種傳統中草藥，具有多方面的健康益處，尤其在
 </details>
 
 <details>
-<summary>2876. The Tongue Can Determine a Vitamin C Deficiency</summary><br>
+<summary>2876. [2020-06-15] The Tongue Can Determine a Vitamin C Deficiency</summary><br>
 
 <a href="https://www.youtube.com/watch?v=T1YLaPKNJx8" target="_blank">
     <img src="https://img.youtube.com/vi/T1YLaPKNJx8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節化整理
 
+#### 1. 核心主題
+- 維生素C缺乏症的診斷與影響
+- 舌苔（Scorbutic Tongue）作為维生素C缺乏的臨床表現
+- 維生素C在膠原蛋白和結締組織中的重要作用
+
+#### 2. 主要觀念
+1. **舌苔的特征**：
+   - 濕潤、光亮或呈紅色，伴隨斑點。
+   - 微小血管出血導致的舌部變化。
+   
+2. **维生素C缺乏的原因**：
+   - 維生素C攝取不足。
+   - 高糖飲食干擾吸收。
+   - 長期缺乏導致逐漸惡化的症狀。
+
+3. **臨床表現**：
+   - 舌苔（Scorbutic Tongue）。
+   - 紅紫色斑點，尤為明顯於腿部。
+   - 疲勞、乏力、牙齦出血、骨痛。
+   - 牙齒鬆動、肌腱和韌帶強度降低。
+
+#### 3. 問題原因
+- **營養攝取不足**：
+  - 長期缺乏維生素C。
+  
+- **吸收干擾因素**：
+  - 高糖飲食競爭性抑制維生素C的吸收。
+
+#### 4. 解決方法
+1. **增加維生素C攝取**：
+   - 食用富含維生素C的食物：柑橘類水果（如萊mons）、青椒、紅椒、 Sauerkraut、菠菜、萵苣、甘藍等。
+   
+2. **避免干擾因素**：
+   - 减少糖分攝入，以降低對維生素C吸收的影響。
+
+#### 5. 健康建議
+1. **飲食調整**：
+   - 選擇raw食品來攝取維生素C，因加熱會破壞其活性。
+   
+2. **補充劑使用**：
+   - 若通過飲食攝取不足，可考慮服用維生素C補充劑。
+   
+3. **定期檢查**：
+   - 注意身體症狀，如牙齦出血、疲勞等，及時評估維生素C水平。
+
+#### 6. 結論
+- 維生素C缺乏會導致多種健康問題，特別是膠原蛋白和結締組織的損壞。
+- 舌苔是早期缺乏症的重要臨床徵兆。
+- 避免高糖飲食並增加富含維生素C食物的攝取，可有效預防 deficiency。
 </details>
 
 <details>
-<summary>2875. The Best Way to Get Metabolic Flexibility</summary><br>
+<summary>2875. [2020-06-14] The Best Way to Get Metabolic Flexibility</summary><br>
 
 <a href="https://www.youtube.com/watch?v=PqtS67ov0XU" target="_blank">
     <img src="https://img.youtube.com/vi/PqtS67ov0XU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：代謝靈活性（Metabolic Flexibility）
 
+- **定義**：指身體在不同能量來源之間切換的能力，即從低碳水化合物飲食轉向高碳水化合物飲食時， metabolism仍能有效adapt。
+
+### 主要觀念：
+
+1. **代謝靈活性的稀少性**：
+   - 多數人存在代謝不靈活（Metabolic Inflexibility），導致反覆ダイエット失敗。
+   
+2. **胰島素的作用**：
+   - 胰島素是決定燃燒脂肪還是糖分的關鍵激素。高胰岛素血症抑制脂肪燃燒，促進糖分利用。
+
+3. **代謝不靈活的原因**：
+   - 長期高碳水化合物攝入。
+   - 經常進食（刺激胰島素分泌）。
+   - 濫食與限制飲食的反覆（Yo-Yo Dieting），尤其低熱量、高碳水飲食。
+   - 生活壓力、妊娠、睡眠不足、過度訓練等因素。
+
+### 問題原因：
+
+- **胰岛素抗性**：導致身體難以有效燃燒脂肪，影響代謝率與體重設置（Metabolic Setpoint）。
+- **慢性炎症**：促進 insulin resistance。
+- **生活方式因素**：如夜班工作、過度訓練等干擾代謝平衡。
+
+### 解决方法：
+
+1. **穩定胰島素水平**：
+   - 通過健康酮飲食（Keto Diet）、短時間禁食和定期運動來維持正常胰岛素分泌。
+
+2. **改善生活方式**：
+   - 確保充足睡眠。
+   - 避免過度訓練，保持適當運動量。
+   - 減輕生活與工作壓力。
+
+3. **飲食策略**：
+   - 維持低碳水化合物、高脂肪飲食結構。
+   - 確保營養均衡，攝取足夠的微量營養素。
+
+### 健康建議：
+
+- **避免反覆ダイエット**：尤其是低熱量、高碳水飲食，以防止代謝不靈活。
+- **堅持一致性**：在恢復代謝靈活性之前，需保持一致的飲食與運動習慣。
+- **定期監測**：跟蹤體重、胰島素水平及其他相關指標，評估進展。
+
+### 結論：
+
+- 代謝靈活性是影響ダイエット成效的重要因素，多數人因生活方式及健康狀況而缺乏此能力。
+- 恢復代謝靈活性需時間與持續努力，通過穩定胰岛素、改善生活習慣和飲食結構來實現。
 </details>
 
 <details>
-<summary>2874. Red or White Wine: Which Has More Sulfites?</summary><br>
+<summary>2874. [2020-06-14] Red or White Wine: Which Has More Sulfites?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=iMj5Edcc2bw" target="_blank">
     <img src="https://img.youtube.com/vi/iMj5Edcc2bw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 文章整理：葡萄酒中的硫氰酸鹽及其影響
 
+## 核心主題  
+本文探討了葡萄酒中硫氰酸鹽（sulfites）及單寧（tannins）成分對人體健康可能引起的不良反應，特別是在酮ogenic diet計劃下飲酒的情況。
+
+---
+
+## 主要觀念  
+
+1. **硫氰酸鹽的作用**  
+   - 硫氰酸鹽是一種自然存在的化學物質，在釀造葡萄酒過程中作為抗氧化劑使用，以防止葡萄酒轉為醋酸。  
+   - 它也用於食品工業中作為防腐劑和抗氧化劑。  
+
+2. ** wines 中的硫氰酸鹽含量**  
+   - 白葡萄酒的硫氰酸鹽含量（210 ppm）通常高於紅葡萄酒（160 ppm）。  
+   - 甜酒中的硫氰酸鹽含量最高，可達400 ppm。  
+
+3. **單寧的作用及影響**  
+   - 單寧是一種植物化合物，具有抗氧化作用，但也可能引起某些人的不適反應。  
+   - 常見於紅葡萄酒、茶葉、堅果、黑巧克力等食物中。  
+
+---
+
+## 問題原因  
+
+1. **硫氰酸鹽敏感性**  
+   - 對硫氰酸鹽敏銳的人可能出现以下症狀：皮疹、癢感、臉部潮紅或頭暈。  
+
+2. **單寧引起的不良反應**  
+   - 單寧可能导致 headaches 或 migraines，尤其是對/single-nucleotide polymorphism敏感的個體。  
+
+3. ** histamines 的影響**  
+   - 葡萄酒作為發酵食品，含有 histamines，可能引起鼻塞、頭痛等症狀，尤其是在 histamine 不耐受的人群中。  
+
+---
+
+## 解決方法與健康建議  
+
+1. **選擇低硫氰酸鹽的葡萄酒**  
+   - 選擇標有「無添加硫氰酸鹽」（no sulfites added）的葡萄酒。  
+
+2. **控制飲酒量**  
+   - 避免過量飲酒，以降低酒精中毒或宿醉的可能性。  
+
+3. **注意個人敏感性**  
+   - 如果確定對硫氰酸鹽或單寧敏感，應避免飲用相應類型的葡萄酒。  
+
+4. **替代選擇**  
+   - 選擇不含硫氰酸鹽的 Beverage 或非酒精飲料作為替代品。  
+
+---
+
+## 結論  
+
+- 葡萄酒中的硫氰酸鹽和單寧是導致某些人出現不良反應的主要原因。  
+- 白葡萄酒通常含有較高的硫氰酸鹽，而紅葡萄酒可能因單寧含量高引起不適。  
+- 遊牧飲食計劃下，應謹慎飲酒，並注意個人的敏感性與 intolerance。  
+
+--- 
+
+此整理旨在提供清晰且結構化的信息，便於讀者理解和應用相關知識。
 </details>
 
 <details>
