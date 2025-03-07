@@ -527,113 +527,576 @@
 </details>
 
 <details>
-<summary>252. Top Hypothyroid Diet Tips – Dr.Berg Gives Hypothyroidism Diet Ideas</summary><br>
+<summary>252. [2015-01-18] Top Hypothyroid Diet Tips – Dr.Berg Gives Hypothyroidism Diet Ideas</summary><br>
 
 <a href="https://www.youtube.com/watch?v=G60dFeUsy3Y" target="_blank">
     <img src="https://img.youtube.com/vi/G60dFeUsy3Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 低代謝症（hypothyroidism）飲食建議與常見錯誤。
 
+---
+
+### 主要觀念  
+1. 遮斷低代謝症患者健康進展的主要原因包括：  
+   - 細菌感染或寄生蟲導致的慢性炎症。  
+   - 腸道菌群失衡及其對免疫系統和腸屏障功能的影響。  
+
+2. 低代謝症與代謝紊亂之間存在密切關聯，主要涉及以下幾個方面：  
+   - 濤腺功能異常引起的基礎代謝率下降。  
+   - 免疫反應异常導致的自身免疫性疾患（如橋本氏病）。  
+   - 膳食中碘、硒等微量元素的缺乏或過量攝取。  
+
+---
+
+### 問題原因  
+1. 慢性炎症與感染：  
+   - 細菌、病毒或寄生蟲引起的慢性炎症會影響免疫系統並干擾濾泡上皮細胞的功能。  
+2. 膠原蛋白失衡：  
+   - 過高的膠原蛋白攝取會增加氧化應激，干擾正常的代謝功能。  
+
+---
+
+### 解決方法  
+1. 抗生素治療：  
+   - 使用針對性抗生素消除慢性感染源頭。  
+2. 調理飲食：  
+   - 控制膠原蛋白攝取量以降低氧化應激風險。  
+3. 微元素管理：  
+   - 確保碘和硒的攝取均衡，避免過量或不足。  
+
+---
+
+### 健康建議  
+1. 避免低熱量飲食：  
+   - 低熱量飲食會降低營養攝取，進一步抑制代謝功能。  
+2. 慎用加工食品：  
+   - 含有大豆蛋白分離物的加工食品可能干擾肝臟和甲状竇功能。  
+3. 避免使用刺激性ダイエット薬：  
+   - 刺激性ダイエット薬會耗竭甲状竇功能，長期使用有害健康。  
+
+---
+
+### 結論  
+1. 低代謝症的治療需要綜合考慮病因、飲食和藥物干預。  
+2. 避免錯誤飲食習慣和濫用ダイエット薬是改善低代謝症的重要步驟。
 </details>
 
 <details>
-<summary>251. The Clogged Artery Myth – Dr. Berg</summary><br>
+<summary>251. [2015-01-05] The Clogged Artery Myth – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=W5RkNboD-Js" target="_blank">
     <img src="https://img.youtube.com/vi/W5RkNboD-Js/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題: 血管堵塞的原因與機制  
+- **主要觀念**: 血管堵塞（arterial plaque formation）的主因是炎症反應而非僅限於胆固鈣水平。  
+- **問題原因**: 炎症反應引發血管壁的損傷，導致後續的修復反應中積累olesterol、calcium和 fibrin等物質。  
+- **解決方法**: 適當降低血糖、控制壓力、增加omega-3脂肪酸攝取以及戒煙等生活方式調整。  
+- **健康建議**: 採取整體飲食策略，如植物性飲食，以降低炎症並改善血管健康。  
+- **結論**: 血管堵塞的關鍵在於预防和管理炎症反應，而非單純降低胆固鈴。  
 
+### 主要觀念: 炎症在血管堵塞中的角色  
+- **炎症引發修復反應**: 炎症導致血管壁受損，身體通過積累胆固鈴、calcium和fibrin來修復受損部位。  
+- **CHAIN reaction**: 炎症→修復→ plaque formation → 血管堵塞。  
+
+### 問題原因: 炎症的誘因  
+- 高糖高碳水化合物飲食（ refined grains, sugars, breads, pasta, cereals）引起胰島素 surge 和炎症。  
+- 搭配壓力和 cortisol 升高，加劇血管壁的損傷。  
+- 缺乏 omega-3脂肪酸（如魚油、亞麻籽油），影響抗炎作用。  
+- 其他因素：吸煙、酒精和其他化學物質。  
+
+### 解決方法: 生活方式調整以降低炎症  
+1. **飲食改善**:  
+   - 增加植物性飲食，降低精制碳水化合物和糖的攝取。  
+   - 增加 omega-3脂肪酸的攝入（如深海魚油、亞麻籽）。  
+2. **壓力管理**:  
+   - 通過運動、冥想等方式降低壓力水平，控制Cortisol分泌。  
+3. **戒煙限酒**:  
+   - 避免吸煙和過量酒精攝取，減少化學物質對血管的傷害。  
+
+### 健康建議: 整體飲食策略  
+- 植物性飲食（vegetarian or plant-based diet）已被證實能有效降低炎症和胆固鈴水平。  
+- 適當攝取健康脂肪，避免反式脂肪和過量的飽和脂肪酸。  
+
+### 總結: 血管健康的管理策略  
+- **認識真相**: 血管堵塞的主因是炎症而非胆固鈴。  
+- **行動方案**: 通過飲食、壓力管理和抗氧化來降低 inflammation，改善血管健康。  
+- **未來展望**: 更多研究應該聚焦於炎症和修復反應在心血管疾病中的作用，以提供更有效的治療和預防方法。
 </details>
 
 <details>
-<summary>250. The Best Liver Cleansing Foods – Dr.Berg</summary><br>
+<summary>250. [2014-12-30] The Best Liver Cleansing Foods – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ekN-SSAtUYg" target="_blank">
     <img src="https://img.youtube.com/vi/ekN-SSAtUYg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- **肝臟健康的重要性**：文章強調了肝臟在解毒、排毒和維持整體健康中的關鍵作用。
+- **毒性環境的影響**：現代生活中存在的多種毒素對肝臟功能造成負擔。
+
+#### 主要觀念
+1. **肝臟的功能**：
+   - 負責分解和清除體內毒素。
+   - 確保毒素不會對身體造成損害。
+2. **毒性來源**：
+   - 環境污染（空氣、水、土壤）。
+   - 食物中的化學添加剂。
+   - 日常用品中的有害物質。
+
+#### 問題原因
+- **毒素累積**：現代生活中的有毒物質大量進入體內，超出肝臟處理能力，導致毒素累積。
+- **肝臟負荷過重**：長時間的毒素暴露使肝臟功能受損，影響整體健康。
+
+#### 解決方法
+1. **飲食調整**：
+   - 增加十字花科蔬菜（如西蘭花、捲心菜、甘藍）的攝取。
+   - 這些蔬菜含有特定化合物，幫助激活肝臟解毒酶，促進毒素排出。
+2. **補充劑推薦**：
+   - **有機十字花科食品 capsules**：含有多種有機成分（如西兰花、捲心菜、甘藍等），提供必要的營養支持。
+3. **排毒程序**：
+   - 遵循Dr. Berg的《肝臟增強計劃》（Chapter 10）進行排毒和肝臟健康護理。
+
+#### 健康建議
+1. **飲食建議**：
+   - 多攝取十字花科蔬菜。
+   - 減少接觸環境毒素。
+2. **補充劑使用**：
+   - 按推薦劑量服用有機十字花科食品 capsules。
+3. **排毒計劃**：
+   - 遵循Dr. Berg的《肝臟增強計劃》進行排毒。
+
+#### 結論
+- **健康的重要性**：肝臟健康直接影響整體健康和免疫力。
+- **毒素管理**：有效管理和清除毒素是維持健康的关键。
+- **行動呼籲**：鼓勵讀者採取具體措施，如飲食調整和補充劑使用，來改善肝臟功能。
+
+---
+
+### 摘要
+本文強調了現代生活中毒性環境對肝臟健康的影響，並提出通過十字花科蔬菜飲食和特定補充劑來支持肝臟排毒。文章推薦遵循Dr. Berg的《肝臟增強計劃》進行排毒，並提供了一款有機十字花科食品 capsules 作為解決方案，鼓勵讀者採取具體措施改善肝臟健康。
 </details>
 
 <details>
-<summary>249. What Causes Upper Arm Fat? Losing Fat From Arms Dr.Berg</summary><br>
+<summary>249. [2014-12-23] What Causes Upper Arm Fat? Losing Fat From Arms Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=EIyNBO8-KTg" target="_blank">
     <img src="https://img.youtube.com/vi/EIyNBO8-KTg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理：上臂脂肪與激素平衡
 
+#### 1. 核心主題
+- 探讨上臂脂肪堆积的原因及其与内分泌系统的关联。
+- 强调雌激素在脂肪分布中的作用。
+
+#### 2. 主要觀念
+- 身体脂肪分布受多种因素影响，包括激素水平和代谢状态。
+- 上臂脂肪堆积常与其他部位（如臀部、大腿）的脂肪积累相关联。
+- 雌激素失衡是导致上臂脂肪的关键因素之一。
+
+#### 3. 問題原因
+- **雌激素 dominance**：体内雌激素水平过高或失衡，影响脂肪分布模式。
+- **代谢干扰**：激素失衡可能导致新陈代谢减慢，进一步加剧脂肪堆积。
+
+#### 4. 解決方法
+- **调整内分泌平衡**：
+  - 调节月经周期，支持肝脏解毒功能以减少雌激素积累。
+- **饮食干预**：
+  - 增加富含纤维和抗氧化剂的食物（如羽衣甘蓝）的摄入。
+  - 减少外源性雌激素的摄入，避免过多消费含激素的食品（如非有机肉类、乳制品）。
+
+#### 5. 健康建議
+- **饮食建议**：
+  - 每天饮用羽衣甘蓝 shake，搭配冷冻水果以增加纤维和营养素的摄入。
+  - 避免食用加工食品和高糖饮料，减少雌激素刺激。
+- **生活方式建议**：
+  - 规律运动，特别是力量训练和有氧运动，有助于燃烧脂肪并平衡激素水平。
+  - 管理压力，避免长期处于高压力状态以降低皮质醇水平。
+
+#### 6. 結論
+- 上臂脂肪堆积与雌激素 dominance密切相关。
+- 调整饮食结构、优化生活习惯是改善上臂脂肪的关键步骤。
+- 雌激素平衡不仅是解决上臂脂肪问题的核心，也是整体健康的重要组成部分。
 </details>
 
 <details>
-<summary>248. Summary of Dr. Berg's Webinar on Stress, Pain & Sleep (6:45 minutes)</summary><br>
+<summary>248. [2014-12-18] Summary of Dr. Berg's Webinar on Stress, Pain & Sleep (6:45 minutes)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fMOFwsZFfzg" target="_blank">
     <img src="https://img.youtube.com/vi/fMOFwsZFfzg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理：Dr. Burg 的網路研討會重點摘要
 
+#### 1. 核心主題  
+- **壓力與健康之間的關聯**  
+- **慢性壓力對身體多個系統的影響**  
+
+#### 2. 主要觀念  
+- **壓力激素 cortisone（코르티손）的作用**  
+  - Cortisol 是「液體壓力」，在短期內幫助身體適應突發壓力。  
+  - 長期而言，過高的 cortisol 會導致多種健康問題。  
+
+- **壓力對身體各系統的影響**  
+  - **代謝系統**：升高新陳代謝率，利用糖分供能，但長期壓力會引發糖尿病。  
+  - **神經系統**：短期提升精神集中力，但長期壓力會導致記憶力減退和睡眠障礙。  
+  - **免疫系統**：慢性壓力抑制免疫力，增加 autoimmune 疾病風險。  
+  - **心血管系統**：導致高血壓、高血脂等問題。  
+
+#### 3. 問題原因  
+- **慢性壓力**  
+  - 慢性壓力會使身體組織對激素的敏感度下降（如胰島素抵抗），最終引發代謝症候群及其他慢性疾病。  
+  - 緊張、心理壓力過大等心理因素往往是 autoimmune 疾病的誘因。  
+
+#### 4. 解決方法  
+- **營養補充**  
+  - 推荐补充天然維生素 B1，以幫助緩解壓力和提升能量代謝。  
+    - 可通過營養酵母和酸奶等方式攝取。  
+
+- **運動建議**  
+  - 最佳的減壓運動是步行，因其能有效降低交感神經活性，提升心肺功能。  
+
+- **物理療法**  
+  - 使用特制工具或手法刺激副交感神經（parasympathetic nervous system），以幫助放松和減壓。  
+    - 推荐一款由 Dr. Burg 開發的按摩工具，用於自我壓力釋放。  
+
+#### 5. 健康建議  
+- **日常生活調整**  
+  - 定期進行壓力管理訓練，如深呼吸、冥想或輕度运动。  
+  - 確保足夠的睡眠和均衡飲食。  
+
+- **專業資源利用**  
+  - 如有條件，可諮詢專業治療師，學習更多壓力釋放技巧。  
+
+#### 6. 结論  
+- 慢性壓力是導致多種疾病的關鍵因素，但通過適當的營養、運動和物理療法可以有效管理壓力，維持整體健康。  
+- Dr. Burg 提供了實用且具體的方法，幫助公眾在家中自行進行壓力管理和身體放鬆。
 </details>
 
 <details>
-<summary>247. How to Stop Being Lazy? – Dr.Berg</summary><br>
+<summary>247. [2014-12-09] How to Stop Being Lazy? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=zdU_EVb5xsc" target="_blank">
     <img src="https://img.youtube.com/vi/zdU_EVb5xsc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Summary of Key Points from the Article
 
+#### Core Theme: Addressing Procrastination and Fatigue in Lazy Individuals
+- The article focuses on understanding procrastination as a symptom of underlying fatigue or lack of motivation, rather than inherent laziness.
+
+#### Major Concepts:
+1. **Procrastination as a Symptom**:
+   - Procrastination often stems from fatigue or the absence of immediate results, leading to discouragement and further inaction.
+2. **Fatigue as a Driving Factor**:
+   - Fatigue is a significant contributor to procrastination, making it challenging for individuals to maintain consistent effort.
+
+#### Causes of Fatigue:
+1. **Sleep Deprivation**:
+   - Poor quality or insufficient sleep negatively impacts energy levels and overall productivity.
+2. **Thyroid Issues**:
+   - Fatigue can be linked to thyroid dysfunction, often influenced by liver health, gallbladder function, or high estrogen levels.
+3. **Food Allergies**:
+   - Food allergies, particularly to gluten, can cause significant fatigue due to digestive stress.
+4. **Sinus Allergies**:
+   - High histamine levels from sinus allergies contribute to feelings of exhaustion.
+5. **Blood Sugar Imbalance**:
+   - Excessive sugar intake or low blood sugar (e.g., from consuming orange juice) leads to brain fatigue and reduced mental clarity.
+
+#### Solutions for Overcoming Procrastination:
+1. **Address Fatigue**:
+   - Ensure adequate sleep, manage allergies, balance thyroid function, and stabilize blood sugar levels.
+2. **Strategic Planning**:
+   - Plan meals and activities in advance to avoid last-minute stress and indecision.
+3. **Increase Vegetable Intake**:
+   - Aim for 7-10 cups of vegetables daily to maintain potassium levels, prevent cravings, and support overall health.
+4. **Incorporate Protein at Breakfast**:
+   - Start the day with protein to enhance mental clarity and sustain energy throughout the day.
+
+#### Health Recommendations:
+1. **Dietary Adjustments**:
+   - Prioritize a diet rich in vegetables, low in processed sugars, and free from allergens like gluten.
+2. **Lifestyle Modifications**:
+   - Establish consistent sleep patterns, manage allergies effectively, and incorporate protein into meals to combat fatigue.
+
+#### Conclusion:
+- Procrastination is often a sign of underlying health issues such as fatigue. By addressing these issues through improved sleep, diet, and strategic planning, individuals can overcome procrastination and achieve better productivity and well-being.
 </details>
 
 <details>
-<summary>246. Calcium and Osteoporosis – Calcium Might Cause a Heart Attack – Dr.Berg</summary><br>
+<summary>246. [2014-12-01] Calcium and Osteoporosis – Calcium Might Cause a Heart Attack – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=MJfn32avPO0" target="_blank">
     <img src="https://img.youtube.com/vi/MJfn32avPO0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- osteoporosis（骨質疏鬆症）的原因及治療方式。
+- 骨骼健康的影響因素，包括荷爾蒙、營養與壓力管理。
+
+---
+
+#### 主要觀念
+1. **傳統觀點的挑戰**  
+   - 長期以來， osteoporosis 被認為是缺乏 calcium 所導致。然而，研究證實高劑量 calcium 反而可能增加心臟病風險。
+2. **Cortisol 的角色**  
+   - Cortisol 是壓力荷爾蒙，過高的 cortisol 會破壞骨蛋白和礦物質，並干擾 vitamin D 的功能。
+3. **激素失衡的影響**  
+   - 更年期後，卵巢功能減退， adrenal glands 需要補充 estrogen，但若 adrenals 疲勞，將導致骨骼脆弱。
+
+---
+
+#### 問題原因
+- 高 cortisol 水平：壓力、 adrenals 功能失調。  
+- 膳食 calcium 的錯誤使用（如 calcium carbonate 不易吸收）。  
+- vitamin D 和 K2 缺乏：影響 calcium 的運輸和利用。  
+
+---
+
+#### 解決方法
+1. **營養干預**  
+   - 补充 vitamin D3（10,000 IU/天）以提高骨密度。  
+   - 經常補充 vitamin K2（如 100 微克），幫助 calcium 进入骨骼，避免在血管中沉積。  
+   - 使用易吸收的 calcium 形式：calcium citrate、calcium lactate 或 calcium gluconate。  
+
+2. **壓力管理**  
+   - 緩解壓力以降低 cortisol 水平。  
+   - 遊步、按壓otherapy 等方法可有效降低壓力荷爾蒙。
+
+3. **改善生活習慣**  
+   - 10-15 分鐘的日光浴，免費獲取 vitamin D。  
+   - 增加富含 K2 的食物攝取：草饲牛油、蛋黃、鴨肝等。
+
+---
+
+#### 健康建議
+- 骨骼脆弱患者應避免使用 calcium carbonate。  
+- 經常監測血液中 vitamin D 和 K2 水平，以評估營養干預效果。  
+- 與醫生合作，制定個人化治療方案。  
+
+---
+
+#### 結論
+- osteoporosis 的發生涉及多方面的因素，包括荷爾蒙失衡、營養不均衡和壓力管理不足。  
+- 通過調整飲食、補充關鍵營養素和有效管理壓力，可以顯著改善骨骼健康。  
+- 治療需耐心，恢復骨密度可能需要數年時間。
 </details>
 
 <details>
-<summary>245. Does Eating Yeast Really Cause Yeast Infections or Candida Infections? - Dr. Berg</summary><br>
+<summary>245. [2014-11-24] Does Eating Yeast Really Cause Yeast Infections or Candida Infections? - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=GbjvV3pUktM" target="_blank">
     <img src="https://img.youtube.com/vi/GbjvV3pUktM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 1. 核心主題  
+The article discusses the misconception that consuming yeast, mushrooms, or vinegar leads to yeast infections (e.g., candida). It emphasizes the distinction between beneficial and harmful yeasts and highlights the importance of maintaining a balanced microbiome.
+
+---
+
+#### 2. 主要觀念  
+- **Good Yeast vs. Bad Yeast**: Beneficial microbes, including certain yeasts, protect the body from harmful pathogens like Candida.
+- **Fermented Foods**: Fermented foods (e.g., kefir, yogurt, sauerkraut, kimchi, apple cider vinegar) are rich in probiotics and do not cause yeast infections; they反而有助于改善消化系统和整体健康。
+- **Candida Misconceptions**: The idea that Candida always causes infections is a myth. It can be harmless under certain conditions.
+- **The Role of Microbiome**: A diverse microbiome, including friendly bacteria and yeasts, is crucial for maintaining health and preventing infections.
+
+---
+
+#### 3. 問題原因  
+- **Misinformation**: The article critiques the "Candida diet," which it claims spreads false information about the harmful effects of fermented foods.
+- **Fear of Yeast**: People often avoid yeast-containing foods or vinegar due to unfounded fears of developing yeast infections.
+- **Lack of Understanding**: Public misunderstanding of the beneficial role of yeasts and fungi in the body.
+
+---
+
+#### 4. 解決方法  
+- **Consume Beneficial Fermented Foods**: Include kefir, yogurt (preferably full-fat), sauerkraut, kimchi, and apple cider vinegar in your diet to promote a healthy microbiome.
+- **Probiotics**: Use probiotics like Liquid U Alive to replenish friendly bacteria and yeast in the gut.
+- **Balanced Diet**: Focus on whole, unprocessed foods, especially those rich in fat (e.g., grass-fed dairy) for optimal health.
+
+---
+
+#### 5. 健康建議  
+- **Avoid Processed Foods**: Limit consumption of flavored kefir or yogurt, as they often contain added sugars that can harm gut health.
+- **Support Gut Health**: Incorporate a variety of fermented foods and probiotics to maintain a balanced microbiome.
+- **Challenge Misconceptions**: Educate yourself about the benefits of yeasts and fungi; avoid diets based on misinformation.
+
+---
+
+#### 6. 結論  
+The article concludes that consuming yeast, mushrooms, or vinegar does not cause yeast infections. Instead, these foods are beneficial for digestive health and overall well-being. Maintaining a diverse microbiome is key to preventing infections and promoting health.
+
+---
+
+### 參考文獻  
+Dr. Burg. (n.d.). *Fermented Foods Do Not Cause Yeast Infections*. YouTube Video. Retrieved from [YouTube Link]
 </details>
 
 <details>
-<summary>244. Treatment For Kidney Stone & Kidney Stone Prevention – Dr. Berg</summary><br>
+<summary>244. [2014-11-17] Treatment For Kidney Stone & Kidney Stone Prevention – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=G393YHryidg" target="_blank">
     <img src="https://img.youtube.com/vi/G393YHryidg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題
+- 膽石（腎结石）的原因、影響及自然療法。
+
+#### 主要觀念
+1. **膽石的形成**：
+   - 膽石主要由鈣 oxalate 組成。
+   - 過高的 pH 值可導致鈣沉積，形成膽石。
+   - 遠端器官如關節、動脈和眼睛也可能受影響。
+
+2. **健康風險**：
+   - 膽石疼痛劇烈，可能影響生活品質。
+   - 長期未處理的膽石可能导致其他健康問題。
+
+#### 問題原因
+1. **pH 平衡失調**：
+   - 碱性環境促進鈣沉積，導致膽石形成。
+   
+2. **營養不足**：
+   - 維生素 D 和 K2 水平低，影響鈣的運輸。
+   - 閊鹽攝取不足，可能干擾鈣代謝。
+
+3. **藥物使用**：
+   - 鈣碳酸氫鹽（抗酸劑）易導致腎臟沉積。
+
+4. **飲食因素**：
+   - 低鹽飲食可能增加膽石風險。
+
+#### 解决方法
+1. **自然療法**：
+   - **檸檬汁**：加入水中，預防膽石形成。
+   - **蘋果醋**：幫助溶解膽石。
+   - **蔓越莓汁**：清除過量鈣沉積。
+
+2. **物理療法**：
+   - **按壓法**：輕按腎臟部位，促進结石排出。
+   - **足部反射區按摩**：緩解疼痛並助结石移動。
+
+3. **營養調整**：
+   - 补充維生素 D 和 K2，改善鈣的運輸。
+   - 避免過量攝取鈣碳酸氫鹽和低鹽飲食。
+
+#### 健康建議
+1. **日常防範**：
+   - 每日飲用檸檬水，預防膽石。
+   - 衡鹽攝取，避免低鹽引發問題。
+
+2. **營養補充**：
+   - 確保攝取足夠的 omega-3 和含有維生素 K2 的食物（如蛋黃、奶酪）。
+
+3. **藥物使用 caution**：
+   - 避免過量使用鈣碳酸氫鹽等抗酸劑。
+   - 如有必要，諮詢專業醫師調整用藥。
+
+4. **急性疼痛處理**：
+   - 使用按壓法和足部反射區按摩緩解症狀。
+   - 緊急情況下及時就醫。
+
+#### 結論
+- 膽石的形成與 pH 平衡、營養攝取和藥物使用密切相关。
+- 自然療法如檸檬汁、蔓越莓汁和物理療法可有效預防和緩解膽石問題。
+- 养成良好的飲食習慣，補充足夠的維生素，避免不必要的藥物攝取，是預防膽石的重要策略。
 </details>
 
 <details>
-<summary>243. The Dangers of LOW Cholesterol – Dr. Berg</summary><br>
+<summary>243. [2014-11-10] The Dangers of LOW Cholesterol – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XmIxmgV73kQ" target="_blank">
     <img src="https://img.youtube.com/vi/XmIxmgV73kQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 1. 核心主題：胆固醇的作用与误解
+- 胆固醇不仅是健康问题的核心，也是身体必需的生物分子。
+- 它是性激素（如睾酮、雌激素、孕激素）和皮质醇等关键激素的前体。
+- 胆固醇在细胞膜结构、神经传导及修复过程中扮演重要角色。
+
+#### 2. 主要觀念：胆固醇的传统观念与科学事实
+- 现代医学倾向于将胆固醇水平降至极低，甚至低于正常范围（如100以下），这可能带来健康风险。
+- 正常胆固醇水平应维持在200左右，过低可能导致激素失衡和其他健康问题。
+
+#### 3. 胆固醇的来源
+- 大部分胆固醇由人体自身合成，饮食中的胆固醇影响较小。
+- 糖分和精制碳水化合物（如面包、 pasta、甜食）是体内胆固醇合成的主要来源。
+
+#### 4. 胆固醇与动脉粥样硬化的关系
+- 胆固醇在血管中沉积是由于炎症反应，而非胆固醇本身。
+- 高胰岛素血症和代谢综合征导致的慢性炎症是动脉粥样硬化的根本原因。
+
+#### 5. 胆固醇的代谢与清除机制
+- 大约90%的胆固醇通过胆汁排出，并在肠道中被重新吸收或排出。
+- 肝脏、 gallbladder 和肠道功能障碍会导致胆固醇积累，如脂肪肝和胆石症。
+
+#### 6. 常见问题：药物治疗的副作用与局限性
+- 大部分人长期服用降脂药物（如他汀类）可能导致肌肉疼痛、神经损伤等副作用。
+- 药物仅能降低血液中的LDL胆固醇，但未能解决根本原因（如炎症和代谢异常）。
+
+#### 7. 解決方法：自然调节胆固醇的策略
+1. **改善饮食结构**：
+   - 减少精制糖和碳水化合物的摄入。
+   - 增加膳食纤维、健康脂肪（如橄榄油、坚果）和优质蛋白质的摄入。
+   
+2. **补充营养素**：
+   - 服用胆盐结合剂或特定的天然补充剂（如红曲霉素、 policosanol）帮助调节胆固醇水平。
+
+3. **支持肝脏功能**：
+   - 使用护肝药物或草药（如奶蓟草）来促进肝脏健康，提高胆固醇代谢效率。
+
+4. **生活方式调整**：
+   - 规律运动有助于提高 HDL 胆固醇和降低 LDL 胆固醇。
+   - 保持健康体重，避免肥胖。
+
+#### 8. 健康建議
+- 定期监测胆固醇水平，但不要过度追求过低的数值。
+- 在采用药物治疗前，优先尝试生活方式干预和自然疗法。
+- 与医生充分沟通，评估药物治疗的必要性和潜在风险。
+
+#### 9. 結論
+- 胆固醇是身体必需的重要物质，合理调节胆固醇水平比盲目降低更重要。
+- 通过饮食调整、补充营养素和改善生活习惯可以有效管理胆固醇水平，减少对药物的依赖。
+
+---
+
+### 药物治療 vs 自然方法效果比較表
+
+| **項目**               | **藥物治療**                     | **自然方法**                     |
+|------------------------|----------------------------------|----------------------------------|
+| **降低LDL效果**         | 顯著降低（通常10-50%）          | 中等降低（依個人情況而定）       |
+| **提升HDL效果**         | 有限或無                         | 可能提升，尤其伴隨運動和飲食改善 |
+| **副作用風險**           | 高（肌肉痛、肝臟影響等）        | 低或無                           |
+| **治癒根本原因**         | 未能解決代謝和炎症問題          | 可能改善代謝機能和慢性炎症       |
+| **長期依賴性**           | 易於形成依賴                     | 更易於實現持續健康               |
+
+---
+
+### 總結
+膽固醇不是敵人，而是身體必需的化合物。通過調整飲食、補充營養素和改善生活習慣，可以有效管理胆固築水平，避免藥物治療的副作用。與醫生密切合作，找到適合自己的健康管理方案，才是最佳選擇。
 </details>
 
 <details>
