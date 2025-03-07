@@ -1055,46 +1055,187 @@
 </details>
 
 <details>
-<summary>1104. Mercury Fish: Eating Salmon Is NOT an Issue – Dr. Berg</summary><br>
+<summary>1104. [2017-10-10] Mercury Fish: Eating Salmon Is NOT an Issue – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5kU9iAEJ_OA" target="_blank">
     <img src="https://img.youtube.com/vi/5kU9iAEJ_OA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理
 
+#### 核心主題
+- 本文探討了消費三文魚與汞攝取之間的關係，強調硒元素在抵銷汞毒性的關鍵作用。
+
+#### 主要觀念
+1. **汞在鱼类中的含量**：
+   - 农場飼養的三文魚汞含量比野生捕捞的三文魚低約三分之二。
+   - 野生捕捞的三文魚汞含量仍遠低于有害水平。
+
+2. **硒元素的作用**：
+   - 硒是一種微量元素，具有抗氧化特性。
+   - 硒能有效抵銷重金屬（如汞） toxicity 的毒性影響。
+   - 三文魚中 selenium 含量豐富，攝取後可平衡 mercury 的負面作用。
+
+3. **酶的作用**：
+   - 機體內保護神經系統的酶依賴硒元素。
+   - 硒能防止汞鎖住這些酶，確保其正常功能。
+
+#### 問題原因
+- 雖然汞可能對健康有害，但野生捕捞和農場飼養的三文魚中汞含量均在安全範圍內。
+- 未充分了解硒元素在抵銷汞毒性中的作用，可能導致對三文魚消費的過度擔憂。
+
+#### 解決方法
+1. **攝取富含硒的食物**：
+   - 确保均衡飲食，攝取含豐富硒的食物（如三文魚）。
+   - 通過食物來源獲得足夠的 selenium 可幫助抵抗汞 toxicity。
+
+2. **了解科學數據**：
+   - 基於研究數據，理性看待汞含量問題，避免因噎廢食。
+
+#### 健康建議
+- 經常食用三文魚，利用其高硒含量來抵銷汞可能的毒性影響。
+- 不必過度擔心三文魚中的汞含量，但可諮詢醫生或營養師以制定個人化的飲食計劃。
+
+#### 结論
+- 消費三文魚是安全的，尤其是因其富含硒元素，能有效降低汞 toxicity 的風險。
+- 建議消費者依據科學數據，合理安排饮食結構。
 </details>
 
 <details>
-<summary>1103. Tea Tree Oil Benefits (1 Minute Video) Explained By Dr. Berg</summary><br>
+<summary>1103. [2017-10-09] Tea Tree Oil Benefits (1 Minute Video) Explained By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=QU8r_7YyPt0" target="_blank">
     <img src="https://img.youtube.com/vi/QU8r_7YyPt0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：茶樹油的功效與應用
 
+#### 主要觀念：
+- 茶樹油具有多方面的用途，包括殺蟲、抗 mold、美容護膚和改善呼吸健康等。
+
+#### 問題原因：
+- 家庭中常見的昆蟲（如螞蟻）和 fungal 感染問題。
+- 浴室和地下室的霉菌和黴斑問題。
+- 各類皮膚問題，如頭皮屑、灰指甲、銀屑病等。
+- 上呼吸道感染和鼻塞問題。
+
+#### 解決方法：
+1. **昆蟲控制**：將20滴茶樹油加入四分之一杯水中，裝入噴霧瓶中，均勻噴灑受影響的區域，驅趕昆蟲。
+2. **抗 mold 治療**：將茶樹油直接噴洒在浴室或地下室的霉菌斑上，有效清除霉菌和黴斑。
+3. **皮膚問題治療**：將2滴茶樹油與一茶匙椰子油混合，塗抹於受影響的肌膚部位， تعال مشکلات پوستی مانند قпалین، بردagi، و پсорیازis.
+4. **鼻腔健康**：使用茶樹油於Neti Pot中，幫助清理鼻腔，改善呼吸和 sinus 通暢。
+
+#### 健康建議：
+- 在使用茶樹油前，建議先進行皮膚测试，以確保無過敏反應。
+- 存放茶樹油時應避光、防潮，並儲存於兒童不宜触及的地方。
+- 茶樹油具有高濃度的terpenoids，可能對某些人造成刺激，因此使用時需稀釋。
+
+#### 結論：
+茶樹油是一種多用途的自然產品，具備殺蟲、抗 mold、美容護膚和改善鼻腔健康等多種功效。其非毒性質使其成為家庭清潔和個人護理的理想選擇。然而，在使用時仍需注意適當的稀釋比例和可能的過敏反應。
 </details>
 
 <details>
-<summary>1102. Why Liver Cleanse and Gallbladder Detoxification Are a Waste of Time – Dr. Berg</summary><br>
+<summary>1102. [2017-10-09] Why Liver Cleanse and Gallbladder Detoxification Are a Waste of Time – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=i8lwEf9Tp3I" target="_blank">
     <img src="https://img.youtube.com/vi/i8lwEf9Tp3I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心テーマ：胆汁の解毒効果と肝臓の健康維持
 
+#### 1. 胆汁の生成と機能
+- **胆汁の生成**: 肝臓で生成され、胆管を通って胆嚢へ移送される。
+- **胆嚊の役割**: 脳卒中を促進し、胆汁を濃縮して蓄積する。
+- **胆汁の目的**:
+  - 食物中の脂質（必須脂肪酸、ビタミンA、K）の消化・栄養吸収を助ける。
+  - 腸内の潤滑作用を担い、便秘予防に役立つ。
+
+#### 2. 肝臓の解毒機能
+- **肝臓の解毒能力**: 健康な状態では、99%の有害物質（菌類、化学物質、薬剤、アルコール）を排除する。
+- **肝障害時**:
+  - 肝臓の機能が低下し、有害物質の排出能力が80～70%まで減少。
+  - 病状悪化（脂肪肝、肝硬変）により解毒能力がさらに低下。
+
+#### 3. 解毒機能の阻害要因
+- **主要な原因**:
+  - 高糖分・高インスリン値食事。
+  - 化学物質の摂取。
+  - 薬剤過剰使用。
+  - 過度なアルコール消費。
+
+#### 4. 病状の外現
+- **臨床的症状**:
+  - 腹部肥満（肝脂肪変性や腹水の兆候）。
+  - 解毒不全による毒性蓄積。
+
+#### 5. 解決策略と健康建议
+- **短期クリーンス**: 効果甚少。肝臓機能の回復には長期的な努力が必要。
+- **食事改善**:
+  - 綺麗な野菜を摂取し、インスリン値をコントロール。
+  - 高脂肪・高糖分食事を控える。
+- **アルコール制限**: 肝臓ダメージを最小化するため。
+- **胆汁補充**:
+  - 純度の高い胆汁酸を摂取し、肝内脂肪溶解と解毒機能を促進。
+- **長期的戦略**:
+  - 健康な食習慣を3年以上継続して確立。
+  - 腸内環境改善と全身の毒素排出を支援。
+
+#### 6. 結論
+- 肝臓の健康維持は短期的な努力ではなく、長期的な生活スタイルの変革が不可欠。
+- 根本的な解決策は、適切な食事管理、有害物質からの保護、そして肝臓を支援するサプリメントの使用を通じて達成される。
 </details>
 
 <details>
-<summary>1101. Mercury Fish List: What Fish Should I Eat to Avoid Mercury? – Dr. Berg</summary><br>
+<summary>1101. [2017-10-08] Mercury Fish List: What Fish Should I Eat to Avoid Mercury? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=jZ89N4xRDDU" target="_blank">
     <img src="https://img.youtube.com/vi/jZ89N4xRDDU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納：文章重點整理
 
+#### 核心主題
+- 水銀在魚類中的生物放大現象及其对人体健康的影响。
+
+#### 主要觀念
+1. 生物放大作用（Biomagnification）：指大型 predatory 魚類在食物鏈中逐級攝食小型魚類，導致體內水銀濃度逐漸提高。
+2. 水銀在不同魚類中的含量差異顯著。
+
+#### 問題原因
+- 水銀是一種有毒的重金屬污染物，主要來源於工業汙染和燃煤排放。
+- 海洋生態系統中水銀的甲基化過程使它更容易在食物鏈中累積。
+
+#### 解決方法
+1. 避免食用高汞含量的魚類：
+   - **高汞 рыбы**: 藍魚、格陵蘭鰊鱼、馬革魚、橙 roughy、鮫魚、劍魚和大眼金槍魚（Bigeye Tuna）、ahi。
+   - **中等汞含量鱼类**: 卤IBUT tuna, 鳕魚、石斑魚、_TUNA ALBACORE。
+   - **低汞含量鱼类**: 鰷魚、鱸魚、章魚、沙丁鱼、竹筴魚、蛤蜊、蟹、小龙虾、鱔魚、 Trout 和鯿鱼。
+
+2. 控制食用中等或高汞含量 рыбы的頻率：
+   - 卤IBUT：每月食用一次或两次。
+   - 石斑魚：每周食用一次。
+
+3. 減少接觸水銀來源：
+   - 考慮更換含有汞的 dental amalgams。
+   
+#### 健康建議
+1. 解毒方法：
+   - **自然螯合劑**：攝取富含礦物質的食物，如：
+     - **薑蔗（Cilantro）**：具備天然螯合作用，可幫助排除體內水銀。
+     - **氧化硷性酸（Alpha-Lipoic Acid）**：增強解毒功能。
+     - **硒（Selenium）**：與汞結合，降低其毒性。
+   - 补充微量元素：食用富含鋅和硒的食物或補充劑。
+
+2. 選擇低汞含量的海鮮：
+   - 優先選擇 anchovies, catfish, clam, crab, crawfish, flounder, herring, oyster, sardines, scallop, squid, trout 和 tilapia 等低汞含量 рыбы。
+
+#### 結論
+- 適當控制高汞 fishes 的攝取量，並選擇低汞或中等汞含量的鱼类。
+- 通過飲食調整和補充必要的營養素來幫助排毒，降低水銀对人体的危害。
+- 提升對水銀污染問題的認知，支持環保措施以減少工業汙染。
 </details>
 
