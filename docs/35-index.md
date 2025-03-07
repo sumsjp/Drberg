@@ -4914,44 +4914,41 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-### 核心主題 (Core Theme)
-- **Physical Work vs. Exercise for Sleep Quality**  
-  物理工作與體育運動對睡眠品質的影響。
+### 核心主題
+- 比較體育鍛煉和物理工作對睡眠質量的影響。
+- 探讨身體活動在壓力管理和睡眠改善中的作用。
 
-### 主要觀念 (Main Concepts)
-1. **Exercise Benefits**:  
-   - Increases oxygen uptake, muscle activity, endurance, and stress reduction.  
-     體育運動能增加氧氣攝取、肌肉活動力、耐力，並降低壓力。
-2. **Physical Work Benefits**:  
-   - Enhances sleep quality and stress reduction more effectively than structured exercise.  
-     物理工作更能提升睡眠品質和降低壓力，效果超過結構化的體育運動。
-3. **Differences Between Exercise and Physical Work**:  
-   - Exercise is predictable, repetitive, and focused on symmetric muscle groups.  
-     體育運動具有可預測性、重複性和針對對稱肌肉群的特點。
-   - Physical work is asymmetrical, less structured, and mentally engaging in different ways.  
-     物理工作則是不平衡、結構 loose，且能以不同方式集中精神。
+### 主要觀念
+1. **體育鍛煉 vs 物理工作**：
+   - 體育鍛煉通常是結構化、重複性和對稱性的運動，如健身房或家中的訓練。
+   - 物理工作（如園藝、清潔、修建等）是非結構化的，通常涉及不對稱的身體活動。
 
-### 問題原因 (Problem Causes)
-- **Structured Exercise Limitations**:  
-  遇到睡眠問題的人可能因體育運動的結構化特性，使其在某些方面不如物理工作有效。  
+2. **共同點**：
+   - 二者均可增進氧氣攝取量、肌肉活性、耐力並降低壓力。
 
-### 解決方法 (Solution Approaches) 
-1. **Engage in Physical Work**:  
-   - Participate in activities like yard work, cleaning, building, or remodeling to improve sleep quality.  
-     从事庭院工作、清潔、建造或翻修等活動以提升睡眠質。
-2. **Simulate Physical Work with Exercise**:  
-   - Incorporate whole-body movements into exercise routines to mimic the benefits of physical work.  
-     在運動中加入全身性的移動，模擬物理工作的益處。
+3. **差異**：
+   - 體育鍛煉具有高度的預測性和專注於特定動作。
+   - 物理工作更具多樣性，涉及全身肌肉，且注意力分散在任務本身而非身體動作上。
 
-### 健康建議 (Health Recommendations)
-- **Daily Routine Suggestion**:  
-  If you struggle with sleep, spend at least one to two hours doing physical work around the house and observe improvements in your sleep quality.  
-  如果睡眠有困難，建議每天花一至二小時進行家務勞動，以改善睡眠品質。
+### 問題原因
+- 现代生活方式中久坐缺乏足夠的身體活動導致睡眠問題和壓力增加。
+- 體育鍛煉雖然有益，但其結構化特性可能不如物理工作有效降低壓力。
 
-### 結論 (Conclusion)
-- **Recommendation**:  
-  Prioritize physical work over structured exercise for better sleep and stress reduction, as it offers a more holistic approach to mental and physical health.  
-  建議優先考慮物理工作而非結構化的體育運動，以促進更好的睡眠和壓力 Relief，因其能提供身心整體健康的方法。
+### 解決方法
+1. **建議**：
+   - 增加物理工作的時長（至少1-2小時）以改善睡眠質量。
+   - 結合全身性的活動，如園藝、搬運或家務等。
+
+2. **行動呼籲**：
+   - 參與更多需要全身肌肉參與的非結構化活動，以分散注意力並降低壓力。
+
+### 健康建議
+- **整體健康**：物理工作不僅改善睡眠，還能增強免疫系統和提高環境耐受能力。
+- **具體行動**：每天 dedicating 時間進行戶外活動或家務，以體驗其對身體和心理的綜合益處。
+
+### 結論
+- 物理工作在改善睡眠和降低壓力方面比結構化的體育鍛煉更有效。
+- 通過參與多樣化的物理工作，可以同時提升身體健康和心理福祉。
 </details>
 
 <details>
@@ -5056,41 +5053,35 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-### Core Theme (核心主題)
-- **Bile Acid Diarrhea**: The discussion centers on bile acid diarrhea, a condition where excess bile in the small intestine leads to diarrhea.
+### 核心主題：膽汁酸性腹瀉的機制與管理
 
----
+#### 主要觀念：
+1. **膽汁酸的作用**：膽汁在消化過程中起重要作用，主要功能包括乳化脂肪和促進腸道對脂溶性維生素的吸收。
+2. **膽汁酸性腹瀉的定義**：當膽汁過度分泌或再吸收受阻時，會導致腹瀉。
 
-### Key Concepts (主要觀念)
-1. **Bile's Role in Digestion**: Bile acts as a detergent to break down fats and kill microbes in the small intestine.
-2. **Biliary System Without Gallbladder**: After gallbladder removal, bile flows directly from the liver to the small intestine via a duct, which can lead to unregulated bile flow.
-3. **Recycling of Bile**: Normally, 97% of bile is recycled through enterohepatic circulation, but this process can fail due to intestinal damage or inflammation.
+#### 問題原因：
+1. **膽囊切除術後的影響**：膽囊被切除後，缺乏 storage pouch，導致膽汁直接流入小腸，可能引起膽汁過量。
+2. **腸道再吸收障礙**：正常情況下，97%的膽汁在小肠最後部分（回盲瓣附近）被再吸收。若腸道受損或發炎（如克羅恩病、潰瘍性大腸炎），則會影響再吸收。
+3. **微生物失衡**：膽汁具有抗菌作用，正常情況下可防止腸道有害菌生長。若膽汁不足或再吸收障礙，可能導致小腸內細菌過生長（如SIBO）。
 
----
+#### 解決方法：
+1. **藥物治療**：
+   - 使用膽鹽結合劑（如考來維仑）來降低膽鹽濃度。
+2. **飲食調整**：
+   - 增加膳食纖維攝取，幫助結合過量膽汁，緩解腹瀉。
+   - 選擇低FODMAP食物，減輕腸道不耐受症狀。
+3. **脂肪攝取控制**：降低脂肪攝取，以減少對膽汁分泌的刺激。
 
-### Causes and Issues (問題原因)
-1. **Excess Bile Production**: Overproduction of primary bile acids by the liver or secondary bile salts in the intestine.
-2. **Impaired Bile Recycling**: Damage to the ileum (distal part of the small intestine) or conditions like ileitis can impair bile reabsorption, leading to excess bile.
-3. **Microbial Growth**: Inadequate bile action allows bacteria to grow in the small intestine (SIBO), contributing to bloating and diarrhea.
+#### 健康建議：
+1. **診斷與評估**：
+   - 通過糞便檢測評估膽鹽水平和其他相關指標。
+2. **飲食調整建議**：
+   - 選擇低FODMAP蔬菜，如胡蘿蔔、青豆、番茄、西葫蘆、菠菜、.radish、甘藍和捲心菜。
+3. **生活方式 modification**：
+   - 減少高脂肪食物攝取，避免刺激膽汁過度分泌。
 
----
-
-### Solutions and Health Recommendations (解決方法、健康建議)
-1. **Diagnostic Testing**: Use stool tests to measure bile levels and identify the cause of diarrhea.
-2. **Dietary Modifications**:
-   - **Low FODMAP Diet**: Consume low fermentable oligosaccharides, disaccharides, monosaccharides, and polyols vegetables (e.g., carrots, green beans, tomatoes).
-   - **Reduce Fat Intake**: Decrease fat consumption to lower bile production stimulation.
-3. **Fiber Consumption**: Fiber binds with bile, slowing down digestion and reducing diarrhea.
-
----
-
-### Conclusion (結論)
-- Bile acid diarrhea is a manageable condition with appropriate dietary adjustments and medical interventions.
-- Strengthening the immune system can enhance overall tolerance to environmental factors, aiding in recovery and prevention.
-
----
-
-This structured summary captures the essential points from the article, providing clarity and organization using academic language.
+#### 結論：
+膽汁酸性腹瀉是一種可管理的疾病，主要病因包括膽囊切除術後影響、腸道吸收障礙和微生物失衡。通過藥物治療、飲食調整和生活方式 modification，患者可以有效控制症狀並提高生活質量。推薦諮詢專業醫療人員以制定個人化治療計劃。
 </details>
 
 <details>
@@ -5308,35 +5299,155 @@ This structured summary captures the essential points from the article, providin
 </details>
 
 <details>
-<summary>3503. Weird Taste in Your Mouth: 9 Causes</summary><br>
+<summary>3503. [2021-06-07] Weird Taste in Your Mouth: 9 Causes</summary><br>
 
 <a href="https://www.youtube.com/watch?v=E6X-8b38AXE" target="_blank">
     <img src="https://img.youtube.com/vi/E6X-8b38AXE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 文章要點整理
 
+## 核心主題
+- 口腔異味的原因及對應的解決方案。
+- 強調健康飲食、排毒和免疫系統的重要性。
+
+## 主要觀念
+1. **口腔異味**：可能由多種原因引起，包括真菌感染、營養缺乏、疾病或 diet-related 狀況。
+2. ** Candida（念珠菌病）**：與抗生素使用、高糖攝取有關。
+3. **健康飲食**：通過調整飲食來改善整體健康狀況。
+4. **排毒與肝臟功能**：強調肝臟在解毒過程中的作用。
+5. **免疫系統**：通過特定課程提升免疫力，以應對外界環境的影響。
+
+## 問題原因
+1. ** Candida 感染**：
+   - 抗生素使用
+   - 高糖及精製碳水化合物攝取
+2. **孕期營養缺乏**：
+   - 銅 deficiency
+3. **更年期激素變化**：
+   - 肝臟排毒功能受影響
+4. **糖尿病**：
+   - 神經損傷影響味覺和嗅覺
+5. **肝臟問題**：
+   - 解毒能力降低，導致毒素積累
+6. **低鋅**：
+   - 影響嗅覺和味覺
+7. **胃食道逆流**：
+   - 酸性物質反流至口腔
+8. **鼻竇感染**：
+   - 造成後鼻滴涕，影響口感
+9. **酮egenic diet 的轉換期**：
+   - 生成酮體（如乙酸酮）導致異味
+
+## 解決方法
+1. ** Candida 感染**：
+   - 使用非 dairy 液體益生菌清潔口腔。
+   - 摂取蘋果 cider vinegar，以酸性環境抑制 Candida 生長。
+   - 調整飲食，减少糖和精製碳水化合物攝取。
+2. **孕期營養缺乏**：
+   - 增加鋅的攝取，來源包括海產、紅肉等。
+3. **更年期問題**：
+   - 服用膽鹽以促進肝臟排毒。
+4. **糖尿病**：
+   - 使用 benfotamine（脂溶性 B 群維生素）修復神經系統。
+5. **肝臟問題**：
+   - 增加硒、奶蓟草和十字花科蔬菜的攝取，以提高谷胱甘 含量。
+   - 進行斷食來促進肝臟排毒。
+6. **低鋅**：
+   - 確保足夠的鋅攝取。
+7. **胃食道逆流**：
+   - 使用蘋果 cider vinegar 或 betaine hydrochloride 調理。
+8. **鼻竇感染**：
+   - 使用 Neti pot 進行鼻腔清洗。
+9. **酮egenic diet 的轉換期**：
+   - 理解此為暫時現象，俟身體適應後自然消失。
+
+## 健康建議
+- 定期清潔口腔，保持良好的口腔衛生。
+- 避免高糖和精製碳水化合物的攝取，以降低 Candida 生長風險。
+- 調整飲食結構，增加富含鋅、硒及抗氧化物的食物攝取。
+- 了解自身健康狀況，如有疑慮及時就醫。
+
+## 結論
+口腔異味可能是多種生理或病理狀況的表現。通過調整飲食、補充營養素、使用適當的保健品以及治療潛在疾病，可以有效改善問題。強調健康生活方式和免疫系統的重要性，以應對外界環境的挑戰。
 </details>
 
 <details>
-<summary>3502. No Willpower to Start Intermittent Fasting?</summary><br>
+<summary>3502. [2021-06-07] No Willpower to Start Intermittent Fasting?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vpCXFpDFsXU" target="_blank">
     <img src="https://img.youtube.com/vi/vpCXFpDFsXU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- **自我控制的重要性**：文章強調了將斷食視為訓練意志力的手段，將自我控制（willpower）定義為一種可以通過間歇性斷食來提升的能力。  
 
+### 主要觀念  
+1. **意志力的定義**：意志力是個人控制思想和行動以實現目標的能力，猶如肌肉般需要持續鍛煉。  
+2. **間歇性斷食的作用**：斷食不僅能夠幫助降低體重，更能作為訓練自我控制能力的工具，逐漸增強耐受度。  
+3. **訓練類比**：作者將斷食與軍事訓練、運動等 сравнил，強調逐步訓練的重要性。  
+
+### 問題原因  
+- **缺乏初期意志力**：很多人因缺乏足夠的意志力而不敢嘗試間歇性斷食，導致無法堅持。  
+
+### 解決方法  
+1. **從簡單開始**：建議初學者先實施非酮基斷食，逐步融入日常生活。  
+2. **加入MCT油或bulletproof咖啡**：這些脂肪來源可幫助穩定血糖，提升斷食的可行性。  
+3. **降低碳水化合物攝取**：轉向低碳飲食（如酮genesis）可進一步延長斷食時間並減少血糖波動。  
+4. **替代 любимых食物**：用更健康的食品取代 любимые甜點和垃圾食品，以降低對食物的渴望。  
+
+### 健康建議  
+- **評估與追蹤**：作者建議觀眾在開始斷食前評估自己的意志力等級（0至10分），並於兩週後重新評估，以檢視進展情況。  
+
+### 結論  
+- **斷食的多重益處**：間歇性斷食不僅能增強身體健康，更能提升自我控制能力，對生活目標的完成和自信心的建立有積極影響。  
+- **鼓勵長期堅持**：作者呼籲觀眾分享自己的成功故事，以激勵他人並共同進步。  
+
+此整理結構化地呈現了文章的核心思想，使用正式且客觀的學術用語，同時融入必要的英文術語以增強專業性。
 </details>
 
 <details>
-<summary>3501. Yellow Bumpy Patches Around the Eyelids</summary><br>
+<summary>3501. [2021-06-06] Yellow Bumpy Patches Around the Eyelids</summary><br>
 
 <a href="https://www.youtube.com/watch?v=TUi_9SUWdRQ" target="_blank">
     <img src="https://img.youtube.com/vi/TUi_9SUWdRQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 文章圍繞多個看似雜亂無章的主題展開，涉及技術、法律、健康、娛樂和個人體驗等多個方面。
+- 主旨不明確，可能反映了作者對某些問題或現象的混雜感受。
 
+### 主要觀念
+1. **技術與工具**：
+   - 提到了軟件關鍵字（softkey）、汽車法規工具（cars laws a tool）以及3D技術的应用。
+2. **健康與生活方式**：
+   - 涉及到原始 dildo、健康產品如graphic skin lotion，並提到健康建議（如低劑量paraben）。
+3. **娛樂與興趣**：
+   - 提到了電影《星際大戰》（Star Wars）、YouTube 頻道和電子遊戲等。
+4. **環境與生態**：
+   - 涉及自然元素如樹木、水流，以及對生態的關注。
+
+### 問題原因
+- 文章缺乏條理性和結構性，導致主旨模糊。
+- 多數內容看似	random想到，未能形成有機聯繫。
+
+### 解決方法
+1. **提高結構清晰度**：
+   - 條理化内容，分門別類整理主題。
+2. **強化主旨**：
+   - 確定核心思想並圍繞其展開，避免漫談。
+3. **提升表達准確性**：
+   - 使用正式且清晰的語言，減少模糊和不完整的表述。
+
+### 健康建議
+- 若涉及健康產品（如graphic skin lotion），需進一步諮詢專業醫療人員或仔細查閱產品說明書。
+- 如有健康疑慮，建議採取低劑量、無害健康的選項。
+
+### 結論
+- 文章反映了作者多方面的興趣和關注點，但缺乏統一的結構和主旨。
+- 未來可針對某個特定主題深入探討，以提高內容的深度和價值。
 </details>
 
