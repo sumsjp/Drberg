@@ -780,113 +780,548 @@
 </details>
 
 <details>
-<summary>629. How to Prevent Cataracts With Natural Remedies – Dr. Berg</summary><br>
+<summary>629. [2016-12-28] How to Prevent Cataracts With Natural Remedies – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=7d1rOYvv5Xw" target="_blank">
     <img src="https://img.youtube.com/vi/7d1rOYvv5Xw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 論述白內障的原因及其相關因素。
+- 探讨營養補充和自然療法在治療白內障中的作用。
 
+### 主要觀念
+1. 白內障是晶狀體變得混濁，影響視力的疾病，通常需要手術治療。
+2. 白內障與年齡老化、壓力及某些藥物（如皮質類固醇）有關。
+3. 糖尿病及其前期症狀（如胰島素抵抗）會增加白內障風險。
+4. 膳食和 supplements 可能對預防或治療白內障有幫助。
+
+### 問題原因
+1. 年齡導致晶狀體退化。
+2. 長期使用皮質類固醇（如 prednisone）可能引發白內障。
+3. 糖尿病患者的高血糖水平會損害晶狀體，導致白內障風險增加。
+4. 胰島素抵抗和前期糖尿病也與白內障發生率上升有關。
+
+### 解決方法
+1. **補充營養：**
+   - **硫胺素（B1）**：推薦使用脂溶性B1，因其能穿透細胞膜，進入眼睛深層組織，幫助修復晶狀體。
+   - **NAC滴眼液（N-Acetylcarnosine）**：這是一種常見的自然療法，可用於直接作用於眼睛，修復白內障。
+
+2. **飲食調整：**
+   - 調整飲食以控制血糖水平，改善胰島素抵抗。
+   - 增加富含抗氧化劑的食物攝取，保護眼睛免受氧化應激損害。
+
+### 健康建議
+1. 確保攝入足夠的營養素，尤其是脂溶性B族維生素和NAC。
+2. 控制血糖水平，特別是糖尿病患者，以降低白內障風險。
+3. 使用特定的眼部護理產品（如NAC滴眼液）來改善視力問題。
+4. 經常進行眼部檢查，早期發現和治療眼部問題。
+
+### 結論
+- 白內障是一種可預防且可治療的疾病。
+- 通過調整飲食、補充適當營養素以及使用自然療法，可以有效延緩白內障的發展甚至恢復視力。
+- 特別是對於糖尿病患者來說，及時補充B1和NAC滴眼液等措施能顯著改善眼部健康。
 </details>
 
 <details>
-<summary>628. Two Simple Tests for Adrenal Fatigue – Dr.Berg</summary><br>
+<summary>628. [2016-12-27] Two Simple Tests for Adrenal Fatigue – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=mYfUCMCBYGE" target="_blank">
     <img src="https://img.youtube.com/vi/mYfUCMCBYGE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Core Theme  
+- **Adrenal Fatigue**: The video discusses two simple home tests to assess adrenal fatigue and provides insights into its implications on health.  
 
+---
+
+### Key Concepts  
+1. **Adrenal Function and Breathing**:  
+   - Adrenal glands are linked to respiratory capacity. Poor adrenal function can limit breath-holding ability, a sign of potential adrenal fatigue.  
+2. **Autonomic Nervous System (ANS)**:  
+   - The ANS, particularly the sympathetic nervous system, plays a role in controlling pupil dilation and constriction via the iris in response to light.  
+
+---
+
+### Symptoms and Causes  
+1. **Adrenal Fatigue Symptoms**:  
+   - Difficulty holding breath for extended periods (e.g., less than a minute).  
+   - Inability to maintain pupil constriction under bright light, leading to fluctuating pupil size.  
+2. **Underlying Cause**:  
+   - Weakness or dysfunction in the adrenal glands and related nervous system pathways.  
+
+---
+
+### Diagnostic Tests  
+1. **Breath-Holding Test**:  
+   - Instructions: Hold your breath as long as possible.  
+   - Interpretation: Poor performance may indicate adrenal fatigue.  
+2. **Iris Light Response Test**:  
+   - Instructions: Shine a light into one eye and observe pupil constriction.  
+   - Interpretation: Inability to maintain constriction for at least one minute suggests weak adrenals.  
+
+---
+
+### Solutions and Health Recommendations  
+1. **Adrenal Support Kit**:  
+   - A recommended product is mentioned to aid adrenal function, with details provided in the video (link included).  
+2. **Lifestyle Modifications**:  
+   - Further advice may include dietary changes, stress management, and rest to support adrenal health.  
+
+---
+
+### Conclusion  
+- Early detection of adrenal fatigue through simple home tests can lead to timely intervention.  
+- Strengthening adrenal function is crucial for overall health and vitality.
 </details>
 
 <details>
-<summary>627. Keto Chocolate Mousse Pudding Recipe – Dr. Berg</summary><br>
+<summary>627. [2016-12-27] Keto Chocolate Mousse Pudding Recipe – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=T3Levyqu9s4" target="_blank">
     <img src="https://img.youtube.com/vi/T3Levyqu9s4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Core Theme  
+- The article primarily focuses on the creation and presentation of a low-carb, keto-friendly chocolate mousse recipe.  
 
+---
+
+### Key Concepts  
+1. **Recipe Overview**:  
+   - The chocolate mousse is described as simple to prepare with minimal ingredients.  
+   - It emphasizes the use of whipped cream and sugar-free chocolate chips for garnish.  
+
+2. **Dietary Considerations**:  
+   - The dish aligns with low-carb and keto dietary restrictions, making it suitable for individuals following these diets.  
+
+3. **Presentation and Enjoyment**:  
+   - The recipe suggests serving the mousse in small portions for a delightful experience.  
+   - Optional additions like whipped cream and chocolate drizzle enhance presentation and flavor variety.  
+
+---
+
+### Issues Identified  
+- The initial recording lacked sufficient pauses between key points, potentially making it harder to follow.  
+
+---
+
+### Solutions Proposed  
+1. **Improvement in Delivery**:  
+   - Incorporating brief pauses between main concepts improves clarity and comprehension during presentations or recordings.  
+
+2. **Clarity and Structure**:  
+   - Organizing the content with clear sections (e.g., recipe explanation, preparation steps) ensures better audience engagement.  
+
+---
+
+### Health Recommendations  
+1. **Dietary Fit**:  
+   - The recipe is recommended for individuals adhering to low-carb or keto diets due to its ingredient choices and minimal sugar content.  
+
+2. **Portion Control**:  
+   - Consuming the mousse in small portions aligns with healthy eating practices, even when indulging in treats.  
+
+---
+
+### Conclusion  
+- The article successfully demonstrates how to create a simple, nutritious, and delicious chocolate mousse that fits specific dietary needs.  
+- Emphasizing presentation and clarity enhances the overall appeal and usability of the recipe for a wider audience.
 </details>
 
 <details>
-<summary>626. Doctor Care – Is Your Doctor Looking Beyond Symptoms? – Dr.Berg</summary><br>
+<summary>626. [2016-12-26] Doctor Care – Is Your Doctor Looking Beyond Symptoms? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=1Ie4xrddR3o" target="_blank">
     <img src="https://img.youtube.com/vi/1Ie4xrddR3o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：探索健康真相：症状与根本原因的关系
 
+---
+
+#### **核心主題**
+- 本文主要探討現代醫學中對疾病和症狀的根本原因分析不足，強調通過工具（如「症狀檢查器」）來找出導致健康問題的根源。
+
+---
+
+#### **主要觀念**
+1. 現代醫學常忽視疾病的根本原因，僅關注症狀。
+2. 很多疾病的真正原因是營養缺乏或代謝失衡。
+3. 通過工具分析症狀與根本原因之間的因果關係，可以更好地理解健康問題。
+
+---
+
+#### **問題原因**
+1. 現有醫療信息存在重大缺陷：
+   - 醫療教育中未充分強調營養和代謝在疾病中的作用。
+   - 医療機構重視症狀而非病因。
+2. 對於多種常見疾病的描述不夠科學：
+   - 如白癜風、白癜病、白癜症等，病因不明。
+   - 神經系統疾病（如帕金森病、多發性硬化症）的病因未被探明。
+
+---
+
+#### **解決方法**
+1. 使用「症狀檢查器」工具：
+   - 通過分析症狀和根本原因之間的因果關係，提供科學的健康建議。
+2. 強調營養在疾病治療中的重要性：
+   - 如B族維生素缺乏導致神經系統問題。
+   - K2、D3缺乏引發血管 CALCIFICATION（鈣化）。
+
+---
+
+#### **健康建議**
+1. 調整飲食結構，補充必要的營養素：
+   - B族維生素可改善神經症狀。
+   - 維生素C和K2/D3可預防血管問題。
+2. 避免依賴傳統藥物治療，轉向根源療法。
+
+---
+
+#### **結論**
+- 通過科學工具分析症狀與病因之間的關係，可以幫助個人更好地了解健康狀況並採取行動。
+- 強調營養和生活方式在疾病 prevention 和治療中的重要性。
+- 鉴於現代醫學的局限性，自主學習和使用相關工具是改善健康的關鍵步驟。
+
+---
+
+#### **附註**
+- 本文作者提供了「症狀檢查器」工具作為會員福利，鼓勵讀者進一步了解並利用該工具來提升健康水平。
 </details>
 
 <details>
-<summary>625. Not Losing Weight? The #1 Reason Why People Fail – Dr.Berg</summary><br>
+<summary>625. [2016-12-25] Not Losing Weight? The #1 Reason Why People Fail – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=44EEwcxV7Ls" target="_blank">
     <img src="https://img.youtube.com/vi/44EEwcxV7Ls/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Summary of Key Points from the Article
 
+#### Core Themes
+- **Nutritional Strategies for Weight Loss and Health Optimization**: The article emphasizes the importance of understanding what to eat, what not to eat, and how to structure meals to achieve optimal health and weight loss.
+- **Role of Insulin Management**: A central focus is on managing insulin levels through diet, as excessive insulin spikes can lead to various health issues, including weight gain and metabolic disorders.
+
+#### Major Concepts
+1. **Dietary Composition**:
+   - **Macronutrient Balance**: The importance of balancing carbohydrates, proteins, and fats, with a particular emphasis on the role of healthy fats in satiety and blood sugar regulation.
+   - **Low-Carbohydrate Diet**: Advocacy for reducing carbohydrate intake to minimize insulin spikes and promote fat burning.
+
+2. **Meal Frequency**:
+   - **Intermittent Feeding**: The article suggests that eating two meals a day can help manage insulin levels and reduce overall calorie consumption.
+
+3. **Healthy Fats**:
+   - **Importance of Healthy Fats**: Emphasis on incorporating healthy fats such as avocado, coconut oil, butter, nuts, and almond butter to enhance satiety and prevent insulin spikes.
+
+4. **Social and Environmental Considerations**:
+   - **Eating Out and Social Situations**: Strategies for managing eating out, social gatherings, and stress-related eating.
+
+5. **Advanced Techniques**:
+   - **Exercise and Training**: Discussion on interval training, toning exercises, and fat-burning techniques to complement dietary changes.
+
+#### Problem Analysis
+- **Insulin Spikes**: Excessive carbohydrate intake leads to rapid insulin spikes, which can contribute to weight gain, metabolic syndrome, and other health issues.
+- **Deprivation and Compliance**: Traditional dieting often leads to feelings of deprivation, making it difficult to sustain long-term compliance.
+
+#### Solutions and Health Recommendations
+1. **Dietary Adjustments**:
+   - **Reduce Carbohydrate Intake**: Limit processed sugars and refined carbohydrates to minimize insulin spikes.
+   - **Increase Healthy Fats**: Incorporate fats like avocado, coconut oil, and nuts to enhance satiety and stabilize blood sugar levels.
+
+2. **Meal Planning**:
+   - **Structured Eating Plan**: Use tools like the "meal maker" to create a weekly eating plan, reducing the burden of daily meal decisions.
+
+3. **Behavioral Strategies**:
+   - **Mindful Eating**: Address emotional eating and stress-related eating through awareness and planning.
+   - **Social Situations**: Develop strategies for navigating social events and eating out without compromising dietary goals.
+
+4. **Exercise**:
+   - **Combine Training Modalities**: Use interval training and toning exercises to enhance fat burning and overall fitness.
+
+5. **Supplements and Tools**:
+   - **Membership Program**: Access to a comprehensive membership site with over 200 lessons, including detailed nutritional guidance, exercise routines, and tools like the "meal maker."
+   - **Symptom Checker**: Use a symptom checker tool to identify underlying causes of health issues and tailor interventions accordingly.
+
+#### Conclusion
+- The article presents a holistic approach to weight loss and health optimization through careful attention to diet, meal planning, behavioral strategies, and exercise. By managing insulin levels and focusing on nutrient-dense, satiating foods, individuals can achieve sustainable results without feelings of deprivation. The inclusion of practical tools and resources further enhances the feasibility of implementing these strategies in daily life.
 </details>
 
 <details>
-<summary>624. Get Rid of Shingles Pain Fast – Dr.Berg</summary><br>
+<summary>624. [2016-12-24] Get Rid of Shingles Pain Fast – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=-Xu4BWF-jC0" target="_blank">
     <img src="https://img.youtube.com/vi/-Xu4BWF-jC0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：壓力與病毒再活化之間的關聯及解決策略
 
+#### 核心主題
+- 病毒在壓力和免疫功能下降情況下可能重新活化。
+- 特別關注腎上腺功能與壓力管理對病毒感染的影響。
+
+#### 主要觀念
+1. **腎上腺 glands 的角色**：
+   - 腎上腺是應對壓力的主要 gland，負責分泌激素以幫助身體處理壓力。
+   - 當腎上腺功能受損或壓力過大時，免疫系統會被削弱。
+
+2. **病毒再活化的機制**：
+   - 壓力導致腎上腺疲勞，削弱免疫力。
+   - 免疫力下降使得潛伏病毒（如疱疹病毒）重新活化並導致感染。
+
+3. **營養在免疫调节中的作用**：
+   - 維生素 D 和 K2 在免疫反應和鈣質代謝中起關鍵作用。
+   - 維生素 D 缺乏與流感等病毒感染的發生率增加有關。
+
+#### 問題原因
+- 長期壓力導致腎上腺功能減退，免疫力降低。
+- 維生素 D 和 K2 的不平衡可能促成病毒再活化和鈣質沉積異常。
+
+#### 解決方法
+1. **短期止痛技術**：
+   - 使用鏡像刺激法（Mirroring Technique）來干預疼痛信號傳遞。
+   - 操作：按壓身體受痛部位的對側區域，以中斷神經 circuits 的 pain loop。
+
+2. **長期健康建議**：
+   - **腎上腺支持**：
+     - 使用補充劑來強化腎上腺功能。
+     - 推荐閱讀 Frank Netter MD 的《Adrenal Book》以了解具體方法。
+   - **營養干預**：
+     - 維生素 D3：每日 50,000 IU，增強免疫系統功能。
+     - 維生素 K2（MK-7形式）：每日 500 微克，配合維生素 D 使用，以避免鈣質沉積於軟組織。
+
+#### 健康建議
+1. **壓力管理**：
+   - 適當管理壓力，避免長期高壓導致腎上腺疲勞。
+   - 可采用放鬆技巧、運動和充足睡眠來應對壓力。
+
+2. **營養攝取**：
+   - 確保每日足夠的維生素 D 和 K2 取，特別是在日照不足的季節。
+   - 避免過量攝取維生素 D 而不補充 K2，以防止鈣質代謝失衡。
+
+3. **定期檢查**：
+   - 监測腎上腺功能和免疫指標，及時調整營養和治療方案。
+
+#### 結論
+- 压力管理和免疫支持是預防病毒再活化的關鍵。
+- 通過鏡像刺激法短期缓解疼痛，並配合同源補充劑長期強化免疫系統，可以有效控制病毒感染的風險。
 </details>
 
 <details>
-<summary>623. Why Estrogen Dominance After Menopause? – Dr. Berg</summary><br>
+<summary>623. [2016-12-23] Why Estrogen Dominance After Menopause? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=WZDUoRjQWyw" target="_blank">
     <img src="https://img.youtube.com/vi/WZDUoRjQWyw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：.estrogen Dominance and Health Solutions/
 
+---
+
+#### 核心主題  
+- ** estrogen dominance 的影響及其健康問題。  
+- ** 現代生活中的環境因素如何導致 estrogen 水平失衡。  
+- ** 解決 estrogen 失衡的方法與健康建議。
+
+---
+
+#### 主要觀念  
+1. **Estrogen Dominance**：指體內雌激素水平相對過高，或雄激素不足導致的激素失衡現象。
+2. **環境因素干擾**：現代生活中存在多種干擾内分泌的化學物質，如Glyphosate和GMO作物殘留。  
+3. **食物與健康之間的關聯**：飲食中選擇有機食品、無激素 Meat 可降低外界荷爾蒙干擾。
+
+---
+
+#### 問題原因  
+- **化學物質暴露**：  
+  - Glyphosate（ roundup 的主要成分）具備 estrogen-like 活性，長期低劑量暴露會影響内分泌系統。  
+  - 研究顯示，Glyphosate 在微量濃度下即可干擾人體荷爾蒙平衡。  
+- **飲食因素**：  
+  - 常見農作物（如玉米、大豆）多為 GMO 計畫品種，且常接受大量除草劑噴洒。  
+  - 飼料中的 GMO 成分通過食物鏈進入人體，增加 estrogen 水平。  
+- **營養不均衡**：  
+  - 經現代加工的食品中可能含有激素干擾物，導致内分泌紊亂。
+
+---
+
+#### 解决方法  
+1. **飲食調整**：  
+   - 選擇有機蔬菜和 hormone-free 肉類，避免 GMO 成分。  
+   - 增加 cruciferous vegetables（如西兰花、甘藍）的攝取，因其含有的化合物可幫助降低 estrogen 水平。  
+2. **補充anutrients**：  
+   - 確保足夠的碘攝取，有助于調節激素平衡。  
+   - 使用	Dim （DIM）等-cruciferous 成分濃縮物，作為自然的 aromatase inhibitor。  
+3. ** herb 治療**：  
+   - 使用/nettle root（蒲公英根）提取物，具備強效的 aromatase 抑制作用。  
+
+---
+
+#### 健康建議  
+1. **日常飲食**：  
+   - 選擇有機、非 GMO 食品，减少化學物質暴露。  
+   - 多攝取十字花科蔬菜（如西蘭花、甘蓝），以支持肝臟排毒和激素平衡。  
+2. ** supplements 使用**：  
+   - 確保補充DIM、nettle root等自然成分，以降低 estrogen 水平。  
+3. **壓力管理**：  
+   - 支持 adrenal 功能，避免因應激導致的 hormones 失衡。  
+4. **定期監測**：  
+   - 如有疑慮，可進行激素水平測試，及時調整飲食和治療方案。  
+
+---
+
+#### 結論  
+- **.estrogen dominance 是現代生活中的常見問題，主要由環境化學物質、GMO 食品和營養不均衡引起。  
+- ** 通過選擇有機食品、補充天然成分和管理壓力，可有效降低 estrogen 水平並恢復激素平衡。  
+- ** 長期低劑量的Glyphosate暴露對健康有潛在危害，需提高警惕並採取預防措施。
 </details>
 
 <details>
-<summary>622. The Best Time To Exercise – Dr.Berg</summary><br>
+<summary>622. [2016-12-22] The Best Time To Exercise – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=VQsssG1uEAQ" target="_blank">
     <img src="https://img.youtube.com/vi/VQsssG1uEAQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 早晚運動的最佳時間：高強度訓練的理想選擇
 
+## 核心主題
+本文探討了在早晚兩個時段進行高強度運動的效果差異，特別是針對那些追求最大化健康和體能提升的人群。
+
+## 主要觀念
+1. **高強度訓練的時機**  
+   高強度間歇訓練（HIIT）等重型訓練最好安排在 вечерние שעות，以實現最佳的恢復效果。
+   
+2. **生物鐘對運動表現的影響**  
+   人體的生物節律會影響運動後的康複以及荷爾蒙水平，特別是皮質醇和睾酮的變化。
+
+3. **運動與荷爾蒙調節**  
+   晨練可能增加皮質醇水平，而夕晚訓練則有助于更快降低其水平，從而促進全身康複及 testosterone 的提升。
+
+## 問題原因
+- **晨練的局限性**  
+  早晨進行高強度運動可能导致皮質醇分泌激增，影響整天的康複與荷爾蒙平衡。
+  
+- **康複效率低下**  
+  早上訓練後，身體可能需要更長時間來恢復，限制了整體健康效益。
+
+## 解決方法
+1. **選擇合適的訓練時段**  
+   將高強度訓練安排在傍晚，以利用生物鐘的有利條件，促進更快康複。
+   
+2. **低強度運動的靈活性**  
+   若早晨進行散步等低強度活動，不會影響健康效果。
+
+3. **多次訓練的策略**  
+   高水平運動員可考慮分兩次訓練，將低強度項目安排在早晨，而高强度訓練則放在傍晚。
+
+## 健康建議
+- **針對高強度訓練者**：優先選擇傍晚進行HIIT等重型訓練。
+- **低強度活動者**：早晨散步完全可行，不會擾亂荷爾蒙平衡。
+- **多次訓練計劃**：結合早晨低強度與晚上高强度訓練，以最大化整體效果。
+
+## 結論
+傍晚是進行高強度運動的理想時段，有助于提升康複效率和荷爾蒙效益。合理安排訓練時間表，根據個人需求選擇適合的訓練強度和時段，將有助于實現最佳健康目標。
 </details>
 
 <details>
-<summary>621. Understanding Restless Legs Syndrome and Causes – Dr.Berg</summary><br>
+<summary>621. [2016-12-21] Understanding Restless Legs Syndrome and Causes – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=QAoq14NlDQc" target="_blank">
     <img src="https://img.youtube.com/vi/QAoq14NlDQc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理與結構化歸納
 
+#### 1. 核心主題  
+- 腳部不寧症（Restless Legs Syndrome, RLS）的原因、診斷與自然療法。
+
+---
+
+#### 2. 主要觀念  
+- 腳部不寧症可由兩種主要原因引發：乳酸性中毒和電解質失衡。
+- 維生素B1 deficiency和低血鉀症是導致此症的關鍵因素。
+
+---
+
+#### 3. 問題原因  
+**a. 構成乳酸性中毒的原因**  
+- 過量乳酸累積，阻礙肌肉氧供。  
+- 症狀包括腿部痙攣、震顫及電流樣感覺。  
+
+**b. 電解質失衡（低血鉀症）的原因**  
+1. **飲食不足**：每日所需 potassium為4700毫克，單靠香蕉攝取不夠（每根約300毫克）。  
+2. **胃酸不足**：若服用抗酸藥或有胃酸缺乏，影響 mineral 吸收。  
+3. **血糖紊亂**：低血糖、胰島素抵抗或糖尿病導致 potassium 吸收障礙。
+
+---
+
+#### 4. 解決方法  
+**a. 維生素B1 deficiency的解決方案**  
+- 补充维生素B1，優先來源於天然食物。  
+- 暫時性症狀可短期使用合成補劑。  
+
+**b. 電解質失衡（低血鉀症）的解決方案**  
+1. **增加膳食攝取**：多食用高鉀蔬菜水果（如菠菜、香蕉、橙子等）。  
+2. **改善胃酸分泌**：使用苹果醋或消化酶（如Betaine HCl）來促進 mineral 吸收。  
+3. **短期補充劑**：  
+   - 選擇高劑量的鉀補充劑，如Potassium Citrate粉末。  
+   - 每日分次攝取，每次700毫克，持續2天以緩解症狀。  
+
+---
+
+#### 5. 健康建議  
+- **飲食調整**：增加含鉀食物的攝取，並避免高糖和精緻碳水化合物。  
+- **補充劑使用**：短期補充Potassium Citrate，注意劑量與吸收方式。  
+- **檢查血糖**：若存在血糖紊亂，需針對性治療以解決根本問題。  
+
+---
+
+#### 6. 結論  
+- 腳部不寧症多數情況下可通過自然療法 해결。  
+- 適當的飲食調整和補充劑使用能有效改善症狀，避免依賴藥物。
 </details>
 
 <details>
-<summary>620. Easy Candied Pecans Recipe – Keto Friendly – Dr.Berg</summary><br>
+<summary>620. [2016-12-20] Easy Candied Pecans Recipe – Keto Friendly – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ht498uSzsfk" target="_blank">
     <img src="https://img.youtube.com/vi/ht498uSzsfk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節一：核心主題
+- 文章討論了一種低糖或無糖的糖衣山核桃（Candied Pecans）食譜。
+- 强調了糖衣山核桃在健康飲食中的應用潛力，特別是對於喜歡甜食但需控制血糖或攝取量的人群。
 
+### 小節二：主要觀念
+- 山核桃本身是一種營養豐富的堅果，含有維生素B6，有益於神經系統健康，例如對卡爾帕尼隧道綜合征有幫助。
+- 糖衣山核桃通常是高糖食品，限制了其在某些飲食計劃中的應用。
+
+### 小節三：問題原因
+- 市面上的糖衣堅果通常含有大量糖分，不符合低糖或無糖飲食需求。
+- 高糖含量可能對糖尿病患者或其他需要控制血糖的人群造成健康風險。
+
+### 小節四：解決方法
+- 提供了一種簡單的食譜來製作低糖或無糖的糖衣山核桃。
+- 通過調整糖的比例或使用代糖，降低熱量攝取而不影響甜味。
+
+### 小節五：健康建議
+- 遊戲化飲食：將健康食品融入日常生活，例如在沙拉中添加糖衣山核桃以增加風味。
+- 多用途食材：糖衣山核桃可用於搭配冰淇淋、酸奶或其他甜點，提供豐富的口感和味道。
+- 营養均衡：選擇堅果作為零食，可以攝取必要的營養素，同時控制糖分攝取。
+
+### 小節六：結論
+- 糖衣山核桃是一種既美味又健康的 snack，適合多種飲食需求。
+- 本文提供了創新且健康的食譜，展示了如何在不犧牲口味的情況下保持健康飲食。
 </details>
 
 <details>
