@@ -1,6 +1,4 @@
-# Drberg
-
-Latest: 2025-03-05
+# Drberg (Latest: 2025-03-05)
 
 ---
 
