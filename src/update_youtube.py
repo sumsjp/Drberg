@@ -214,7 +214,7 @@ def make_doc(filename: str, video_list: list):
         print(f"❌ 製作文件失敗 {filename}: {str(e)}")
 
 def create_readme_doc(max_idx, latest_date):
-    content = f"""# Drberg (Latest: {latest_date})
+    content = f"""# Dr. Eric Berg DC ({latest_date})
 
 ---
 
