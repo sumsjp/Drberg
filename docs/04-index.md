@@ -802,113 +802,568 @@
 </details>
 
 <details>
-<summary>427. 4 Constipation Remedies by Dr. Berg That Target Underlying Root Causes</summary><br>
+<summary>427. [2016-07-12] 4 Constipation Remedies by Dr. Berg That Target Underlying Root Causes</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ci-GB094qg0" target="_blank">
     <img src="https://img.youtube.com/vi/ci-GB094qg0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 1. 核心主題: 腸瘉的成因與解決方案  
+   - **核心主題**: 文章主要探討便秘的原因及多種治療方法，強調微生態、膽汁和胃酸在消化過程中的重要性。
+
+#### 2. 主要觀念: 微生物平衡的重要性  
+   - **主要觀念**: 消化系統中-friendly microbes（益生菌）在小腸中進行約90%的消化工作。若微生物失衡，可能導致便秘。
+   - **英文翻譯**: The friendly microbes in the digestive system are responsible for about 90% of digestion, primarily in the small intestine. Imbalance in these microbes can lead to constipation.
+
+#### 3. 病因分析: 微生物失衡的原因  
+   - **病因分析**: 過去使用抗生素、不良飲食習慣或壓力等因素會破壞腸道微生物平衡，導致便秘。
+   - **英文翻譯**: Dysbiosis, often caused by antibiotic use, poor diet, or stress, can disrupt the balance of肠道菌群, leading to constipation.
+
+#### 4. 解決方法: 使用益生菌  
+   - **解決方法**: 選擇高品質的液體益生菌產品，如「Live Prootic Flora」，幫助恢復腸道微生物平衡。建議持續服用一個月後停用一个月，再重複。
+   - **英文翻譯**: Use high-quality liquid probiotics, such as "Live Prootic Flora," to restore microbial balance. Take for a month, then stop for a month before resuming.
+
+#### 5. 胆汁的作用及重要性  
+   - **膽汁作用**: 胆汁由肝臟產生，儲存於 gallbladder 中，用於分解脂肪。缺乏足夠的膽汁會導致消化不良、腹脹和便秘。
+   - **英文翻譯**: Bile, produced by the liver and stored in the gallbladder, is essential for fat digestion. Insufficient bile can cause indigestion, bloating, and constipation.
+
+#### 6. 胃酸的影響  
+   - **胃酸作用**: 足夠的胃酸有助於食物在初期消化階段被分解。缺乏胃酸會導致食物未被充分分解，最終引起便秘。
+   - **英文翻譯**: Adequate stomach acid is crucial for initial food digestion. Low stomach acid can lead to undigested food and constipation.
+
+#### 7. 纤維的作用及來源  
+   - **纖維作用**: 纖維主要作為益生菌的食物，幫助腸道功能。優質的 vegetable fiber 比 grain-based fiber 更為有益。
+   - **英文翻譯**: Fiber serves as food for beneficial microbes. Vegetable fiber is preferable over grain-based fiber due to its nutrient content.
+
+#### 8. 健康建議: 温和的通便劑  
+   - **健康建議**: 在恢復腸道平衡期間，可考慮使用清淡的 herbal laxative 作為短期措施。
+   - **英文翻譯**: Herbal laxatives can be used as a short-term coping mechanism while addressing the root causes of constipation.
+
+#### 9. 結論: 整體化治療法  
+   - **結論**: 便秘的治療應從調整飲食、恢復腸道微生物平衡、補充膽汁和胃酸開始。藥物使用應作為最後手段，而非首要選擇。
+   - **英文翻譯**: Constipation treatment should focus on dietary adjustments, microbial balance restoration, and bile/stomach acid supplementation. Medications should be a last resort rather than the first line of treatment.
+
+---
+
+此文章強調了腸道健康的重要性，並提供了一系列針對便秘的科學化、多角度解決方案。
 </details>
 
 <details>
-<summary>426. Stop the 5 Causes of Inflammation: FAST! – Dr. Berg</summary><br>
+<summary>426. [2016-07-11] Stop the 5 Causes of Inflammation: FAST! – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=OvgQNvq7inI" target="_blank">
     <img src="https://img.youtube.com/vi/OvgQNvq7inI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：抗炎CURIES及其多方面影響
 
+- **核心主題**：本文探討了炎症的成因及多種抗炎策略，強調從飲食、激素、代謝到器官功能等多個層面來綜合管理炎症。
+
+---
+
+### 主要觀念：炎症的多樣性與成因
+
+1. **食物敏感性**：
+   - 食物過敏或不耐受可引發 inflammation。
+   - 常見觸發食物包括柑橘類、Nightshade 蔬菜（如番茄、土豆）等。
+
+2. **激素失衡**：
+   - 皮質醇在抗炎中起關鍵作用，但其水平需保持平衡。
+   - 長期壓力會耗竭 adrenal 功能，導致皮質醇不足。
+
+3. **代謝紊亂**：
+   - 激素抵抗（如胰島素抵抗）會引發慢性 inflammation。
+   - 高糖、精製碳水化合物的攝取是主要誘因。
+
+4. **器官功能障礙**：
+   - 經肝臟和 gallbladder 細菌失衡可導致全身性炎症。
+   - 胆囊問題常與 fibromyalgia 和關節炎相關。
+
+5. **舊傷復發**：
+   - 過去的創傷或手術後遺症可能在多年後引發炎症。
+
+6. **軟組織鈣化**：
+   - 遊離鈣沉積於軟组织可導致 arthritic 症狀和其他結構性問題。
+
+---
+
+### 問題原因： inflammation 的複雜成因
+
+1. **免疫反應異常**：
+   - 食物敏感性和激素失衡干擾免疫調節。
+
+2. **代謝紊亂**：
+   - 胰島素抵抗和高血糖狀態促發慢性炎症。
+
+3. **器官功能障礙**：
+   - 胆囊和肝臟問題影響代謝，導致全身性炎症。
+
+4. **生物物理因素**：
+   - 過去的創傷和軟組織鈣化擾亂了關節結構和功能。
+
+---
+
+### 解決方法：多管齊下的抗炎策略
+
+1. **飲食調整**：
+   - 避免已知觸發食物，如柑橘類、Nightshade 蔬菜。
+   - 采用抗炎飲食模式，限制糖分攝取。
+
+2. **激素管理**：
+   - 使用皮質醇補充劑或壓力管理技巧來平衡 adrenal 功能。
+   - 調節胰島素水平，通過控制血糖和使用 D3 和 K2 維生素來改善代謝健康。
+
+3. **物理療法**：
+   - 按摩對側受影響區域以緩解炎症。
+   - 使用 acupressure 技巧來促進局部血流和恢復。
+
+4. **補充療法**：
+   - 补充 K2 和 D3 維生素，以降低軟組織鈣化風險。
+   - 使用膽囊 комплекс 草本サプリменты для улучшения функции желчного пузыря.
+
+5. **檢查與干預**：
+   - 評估膽囊和肝臟功能，治療潛在的器官問題。
+   - 清除舊傷部位的炎症，恢復關節靈活性。
+
+---
+
+### 健康建議：綜合抗炎生活方式
+
+1. **飲食**：
+   - 避免敏感情境食物，選擇抗炎飲食。
+   - 控制糖分攝取，保持血糖穩定。
+
+2. **壓力管理**：
+   - 練習放鬆技巧，如冥想、瑜伽，以保護 adrenal 功能。
+
+3. **運動**：
+   - 定期進行低強度至中等強度的運動，促進血液循環和免疫功能。
+
+4. **補充營養素**：
+   - 补充 D3 和 K2 維生素，按推薦劑量使用。
+   - 使用膽囊 комплекс 草本サプリменты для поддержки желчного пузыря.
+
+5. **定期檢查**：
+   - 定期評估膽囊和肝臟功能，早期發現問題。
+
+6. **物理療法**：
+   - 對舊傷部位進行按摩和 acupressure，緩解炎症和僵硬。
+
+---
+
+### 結論：綜合管理 inflammation 的重要性
+
+炎症是多種疾患的共同病理機轉，其成因涉及飲食、激素、代謝和器官功能等多個方面。本文提供的抗炎策略強調生活方式調整、營養補充和物理干預的綜合應用，以期達到標本兼治的效果。通過個人化的干預措施，可以有效管理和緩解炎症相關症狀，提升整體健康水平。
+
+--- 
+
+此整理結構清晰地展現了文章的核心思想，並分小節詳細阐述了 inflammation 的成因及解決方案，適合用於進一步研究或教學用途。
 </details>
 
 <details>
-<summary>425. How to Fix Tennis Elbow – Best Self Stretches – Dr. Berg</summary><br>
+<summary>425. [2016-07-11] How to Fix Tennis Elbow – Best Self Stretches – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DSyui8tH_Gg" target="_blank">
     <img src="https://img.youtube.com/vi/DSyui8tH_Gg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 膝蓋外側委託症（Tennis Elbow）的治療方法。
 
+### 主要觀念
+- 膝蓋外側委託症是一種影響肘部外側組織的炎症性疾病，通常與過度使用有關。
+- 風濕按摩療法被提出作為一種有效的治療方式。
+
+### 問題原因
+- 病因通常是肘部反覆或過度使用導致的肌腱 inflammation 和微創傷。
+- 肘部肌肉和肌腱的緊張或僵硬可能加劇症狀。
+
+### 解決方法
+1. **對側按摩法**：
+   - 在受影響的肘部對應的鏡像位置進行按摩，以刺激神經系統並分散疼痛信號。
+   - 按摩時需找到明顯敏感的點，逐步放鬆肌肉。
+
+2. **全身性肌肉放鬆**：
+   - 聲明需按摩與肘部連接的上臂肌肉（如肱二頭肌和肱三頭肌）。
+   - 通過按壓和揉捏來放鬆這些肌肉，以減少肘部的壓力。
+
+3. **神經調節機制**：
+   - 按摩對側部位可以干擾疼痛信號在脊髓和大腦之間的傳遞，從而緩解痛楚。
+   - 這種方法基於身體的整體性，通過影響神經系統來改善症狀。
+
+### 健康建議
+- 定期執行按摩療法，建議每天晚上進行，持續約一至兩周。
+- 如果症狀未見好轉或惡化，應及時就醫檢查是否有肌腱撕裂等 serious injuries。
+- 避免過度使用肘部，適當休息和恢復是防止病情加重的重要步驟。
+
+### 總結
+- 膝蓋外側委託症的治療可以結合局部按摩和全身性肌肉放鬆。
+- 对侧按摩法利用神經調節機制來緩解疼痛，是一種有效的保守治療方法。
+- 遇到顽固病例或疑有結構性損傷時，建議及早接受進一步診斷和治療。
 </details>
 
 <details>
-<summary>424. Irritable Bowel Syndrome (IBS) – Top 5 Tips – Dr.Berg</summary><br>
+<summary>424. [2016-07-10] Irritable Bowel Syndrome (IBS) – Top 5 Tips – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=v_41TUmJs9k" target="_blank">
     <img src="https://img.youtube.com/vi/v_41TUmJs9k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 文章重點整理：管理腸易激惹綜合症（IBS）的有效策略
 
+## 核心主題
+- 腸易激惹綜合症（IBS）的管理和預防。
+- 飲食對腸道健康的重大影響。
+- 如何通過飲食調整和生活方式改變來緩解IBS症状。
+
+## 主要觀念
+1. IBS的主要原因包括食物敏感、過敏以及不良飲食習慣。
+2. 調整飲食結構是改善IBS症状的有效方法。
+3. 酸化胃腸道環境可以幫助分解致病物質，減少腸道刺激。
+
+## 問題原因
+- **麸質不耐受**：麸質蛋白可能引發免疫反應，導致腸道炎症和不適。
+- **乳糖不耐受或 dairy敏感**：部分人對dairy中的casein蛋白或 lactose不耐受，影響消化功能。
+- **飲食混亂**：食物種類過多增加辨別致病食物的难度。
+
+## 解決方法
+1. **避免麸質和 Dairy**：
+   - 避免攝入含麸質的食物（如小麥制品）。
+   - 減少或排除 dairy制品的攝取，尤其是乳糖含量高的食品。
+2. **進行飲食記錄**：
+   - 記錄每日飲食及相應身體反應，用以識別致病食物。
+3. **酸化胃腸道**：
+   - 使用蘋果醋和 Betaine HCl 來調節胃 pH 值，促進蛋白質分解。
+
+## 健康建議
+1. **飲食調整**：
+   - 減少 grains 和 Dairy 的攝取。
+   - 選擇容易消化的食品，如發酵食品（ Sauerkraut, Kefir）。
+2. **補充營養**：
+   - 使用 Glutamine 等腸道修復補充劑。
+3. **生活方式改變**：
+   - 保持簡單飲食，避免過度混搭食物。
+
+## 結論
+- 遮斷致病物質的吸收是改善IBS症状的关键。
+- 請保持對飲食的敏感性，並通過記錄和調整找到適合自己的飲食方案。
+- 酸化胃腸道可顯著提升消化效率，減少腸道刺激。
 </details>
 
 <details>
-<summary>423. Instant TMJ Relief With Simple Exercise – Dr.Berg</summary><br>
+<summary>423. [2016-07-09] Instant TMJ Relief With Simple Exercise – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=P_sBqxy8iRk" target="_blank">
     <img src="https://img.youtube.com/vi/P_sBqxy8iRk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 正式學術用語整理
 
+#### 核心主題
+- 討論-temporomandibular joint (TMJ) 疾病的原因與即時緩解方法。
+
+#### 主要觀念
+1. TMJ 通常不是原發性問題，而是由其他潛在原因引起的.secondary issue.
+2. 造成 TMJ 的主要原因包括牙齒咬合不良和消化系統器官（如膽囊或胰腺）的問題。
+3. 胆囊和胰腺通過經絡系統與顎部連接，影響TMJ健康。
+
+#### 問題原因
+1. **牙齒咬合不良**：
+   - 牙齒修復後不適配，導致 Jaw 疼痛。
+2. **膽囊問題**：
+   - 胆囊的經絡（nerve channel）連接至顎部，膽囊疾病可引發TMJ症狀。
+3. **胰腺問題**：
+   - 左側 Jaw 疼痛可能與胰腺相關。
+
+#### 解决方法
+1. **牙齒咬合調整**：
+   - 回訪牙科醫生，檢查並磨平過大的牙齒以改善咬合。
+2. **局部按壓法**：
+   - 右側 Jaw 疼痛：按壓右下腹膽囊區域（右肋骨下方約一英寸處），保持約兩分鐘。
+   - 左側 Jaw 疼痛：按壓左下腹胰腺區域，方法相同。
+
+#### 健康建議
+1. **飲食調整**：
+   - 避免高糖和精製碳水化合物，以減少膽囊和胰腺的刺激。
+2. **自我診斷與治療**：
+   - 對 Jaw 疼痛進行局部按壓，觀察症狀是否緩解，以判斷病因。
+
+#### 結論
+- TMJ 症狀通常由牙齒或消化系統問題引發。
+- 通過調整咬合和按壓相關穴位可有效緩解症狀。
+- 適當的飲食控制和自我治療可預防並改善TMJ健康。
 </details>
 
 <details>
-<summary>422. How Stress Affects Your Brain – Dr.Berg</summary><br>
+<summary>422. [2016-07-07] How Stress Affects Your Brain – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5olzMcMCCkM" target="_blank">
     <img src="https://img.youtube.com/vi/5olzMcMCCkM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題：應激對大腦的影響及胰島素抵抗的作用
+
+- **核心主題**：文章主要探讨了應激激素皮質醇如何通過影響血糖水平和胰岛素 resistant，進而損害大腦功能，特別是記憶力和認知能力。
+
+#### 主要觀念：
+
+1. **皮質醇的作用**：
+   - 皮質醇是一種由應激引發的激素。
+   - 它會導致大腦氧供不足，逐步影響短時記憶（如人名），最終可能導致空間定向障礙和更嚴重的認知衰退。
+
+2. **胰岛素抵抗與 Alzheimer病**：
+   - 胰岛素抵抗是一種糖代謝紊亂，通常與前期糖尿病相關。
+   - 高水平的皮質醇會增加胰岛素抵抗，阻礙葡萄糖進入大腦。
+   - 脑部缺氧和營養攝取不足導致腦霧、記憶力減退甚至發展為阿茲海默症（ Alzheimer病）。
+
+#### 問題原因：
+
+1. **高血糖與低血糖的波動**：
+   - 高糖飲食引發胰岛素 surge，造成血糖波峰波谷。
+   - 這會干擾大腦功能，導致疲勞、焦躁等情緒問題。
+
+2. **不當飲食習慣**：
+   - 班氏飯後嗜睡（high sugar intake leading to fatigue）。
+   - 高頻率進餐和零食攝入增加胰岛素負擔。
+
+3. **睡眠不足與壓力管理失當**：
+   - 睡眠不足和未得到有效應對的壓力會進一步加劇上述問題。
+
+#### 解决方法：
+
+1. **飲食調整**：
+   - **限制糖分攝取**：避免高糖食物，降低胰岛素 surge。
+   - **控制餐次**：建議每日三餐或少量兩餐，避免零食和頻繁進餐。
+   - **增加健康脂肪與蔬菜攝取**：
+     - 脂肪提供持續的能量來源，幫助穩定血糖。
+     - 蔬菜富含鉀，有助調節血糖並提供必要的營養。
+
+2. **改善壓力管理**：
+   - 通過運動、冥想等方式降低皮質醇水平。
+   - 確保充足睡眠，恢復大腦功能。
+
+3. **生活方式的調整**：
+   - 避免高糖飲食和不規則進餐。
+   - 增加健康脂肪攝取，穩定血糖波動。
+
+#### 健康建議：
+
+- **飲食結構**：以低GI（升糖指數）食物為主，增加膳食纖維攝取。
+- **進餐時間**：避免零食，間隔至少4-5小時進餐。
+- **運動習慣**：經常進行有氧運動，有助於降低皮質醇並提高胰岛素敏感性。
+
+#### 結論：
+
+- 通過調整飲食結構、控制血糖波動和管理壓力，可以有效改善大腦功能，預防認知衰退相關疾病。
 </details>
 
 <details>
-<summary>421. How to Sleep Fast and Better: MUST WATCH – Dr. Berg</summary><br>
+<summary>421. [2016-07-06] How to Sleep Fast and Better: MUST WATCH – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=EX5Zdlm_2OI" target="_blank">
     <img src="https://img.youtube.com/vi/EX5Zdlm_2OI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 如何快速入睡：探讨影响睡眠的因素及解决方案。
 
+### 主要觀念
+- 睡眠的重要性：良好的睡眠对于日間精力、情緒穩定和整體健康至關重要。
+- 影響睡眠的因素包括光線、電視使用、心理壓力、過多能量、消化問題等。
+
+### 問題原因
+1. **光線不足**  
+   - 晚間光線過亮干擾褪黑激素分泌，影響睡眠。
+2. **テレビ視聴**  
+   - 難しい或る刺激的な番組視聴が精神を興奮させ、入眠を妨げる。
+3. **心理的ストレス**  
+   - 大脑思緖過度或焦慮引發神經緊張，影響入睡。
+4. **過剰なエネルギー**  
+   - 運動不足導致身體能量無法釋放，影響睡眠。
+5. **消化不良**  
+   - 胃腸不適或過量蛋白質攝取引起腹脹，干擾睡眠。
+
+### 解決方法
+1. **光線管理**  
+   - 減少晚間光線暴露，利用自然黑暗促進褪黑激素分泌。
+2. **テレビ使用制限**  
+   - 避免睡前观看刺激性節目，建議閱讀等安撫活動。
+3. **ストレス管理**  
+   - 使用腎上腺補充劑（Adrenal-K 和 Adrenal Day）來平衡應激反應，促進睡眠。
+4. **エネルギー消費**  
+   - 每日進行中等強度運動（如45分鐘以上），釋放身體能量。
+5. **消化改善**  
+   - 避免過量蛋白質攝取，睡前食用富含鈣質食物。使用蘋果醋片和膽汁補充劑促進消化。
+
+### 健康建議
+- 保持規律的運動習慣，以管理體能水平。
+- 注意飲食結構，避免睡前過量或刺激性食物攝取。
+- 管理心理壓力，使用自然方法平衡腎上腺功能。
+- 確保睡眠環境 darkness-friendly，減少光線干擾。
+
+### 結論
+良好的睡眠是維持日間精力和整體健康的重要基石。針對影響睡眠的因素，如光線、電視使用、心理壓力、能量水平和消化問題，採取相應的管理措施，可以有效改善睡眠品質。建議結合運動、飲食調整和自然補充劑，來達到更好的睡眠效果。
 </details>
 
 <details>
-<summary>420. How to Start Eating Healthy – Top 4 Tips by Dr. Berg</summary><br>
+<summary>420. [2016-07-06] How to Start Eating Healthy – Top 4 Tips by Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=6nsE7k5WJz8" target="_blank">
     <img src="https://img.youtube.com/vi/6nsE7k5WJz8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：如何堅持健康飲食計劃
 
+#### 核心主題
+- **健康飲食的重要性**：強調健康飲食作為預防疾病和提升整體健康的關鍵。
+- **克服飲食挑戰**：探討如何面對和克服飲食中的困難，如 cravings 和不當的飲食習慣。
+
+#### 主要觀念
+1. **決定的力量**：
+   - 決定是行動的開始，缺乏決心會導致拖延和失敗。
+   - 過去因猶豫而延誤健康飲食的啟程，強調及早采取行动的重要性。
+
+2. **身體的局限性**：
+   - 身體在 cravings 和食欲控制方面缺乏智慧，往往追求即時滿足而非長期利益。
+   - 血糖水平低落會引發不當食物的渴望，需主動管理以避免失控。
+
+3. **降低食物 craving 的方法**：
+   - 消除.hidden sugars 是關鍵，而非簡單地減少碳水化合物攝取。
+   - 通過完全去除糖分來迫使身體轉向脂肪燃燒，從而消除 craving。
+
+4. **環境控制的重要性**：
+   - 清理家中不健康食品，避免誘惑和復食的機會。
+   - 管理飲食環境是成功堅持健康計劃的基础。
+
+#### 問題原因
+- ** indecision 和拖延**：缺乏明確的決心導致行動延遲。
+- **身體的自然反應**：血糖波動和 craving 导致不當飲食。
+- **不良飲食環境**：家中存有誘惑食品，增加失敗風險。
+
+#### 解决方法
+1. **做出明確決定**：
+   - 確定健康飲食的目標並立即采取行動，避免拖延。
+
+2. **管理血糖和 craving**：
+   - 完全去除糖分攝取，迫使身體轉向脂肪燃燒。
+   - 降低血糖波動以控制食欲。
+
+3. **環境整備**：
+   - 清理家中不健康食品，移除誘惑源。
+   - 確保家中只有健康的飲食選擇。
+
+4. **提前規劃飲食**：
+   - 每周或每三天預先計劃餐點，避免臨時決定和血糖波動。
+   - 簡化餐飲 preparation，避免因 complexity 而放棄健康飲食。
+
+#### 健康建議
+1. **飲食選擇**：
+   - 選擇簡單、健康的食材，如新鮮蔬菜和瘦肉蛋白質。
+   - 降低精制糖攝取，增加膳食纤维以穩定血糖。
+
+2. **飲食習慣**：
+   - 定時進餐，避免暴饮暴食和不規則的飲食模式。
+   - 避免因情緒或壓力而尋求食物安慰。
+
+3. **心理調適**：
+   - 建立健康飲食的心理覺悟，將其視為一種生活方式而非短期 diet。
+   - 認可飲食的樂趣，但不過度依賴口味追求。
+
+#### 結論
+- **長期投資於健康**：健康飲食是最佳的預防醫療，避免未來因疾病而承擔高昂費用。
+- **行動的重要性**：立即開始健康的飲食計劃，積累小成果以形成持久習慣。
+- **環境和決心的關鍵作用**：通過清理環境、做出明確決定並持續努力，來實現健康飲食目標。
 </details>
 
 <details>
-<summary>419. What is A1C in Simple Terms – Dr. Berg</summary><br>
+<summary>419. [2016-07-05] What is A1C in Simple Terms – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=dUU1V9ynB9o" target="_blank">
     <img src="https://img.youtube.com/vi/dUU1V9ynB9o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：A1C 指數的定義與意義  
+- A1C 是衡量血糖控制情況的指標，代表糖化血紅蛋白（glycated hemoglobin）。  
+- 它反映了過去三個月內的平均血糖水平，提供了比瞬時血糖測量更全面的評估。  
 
+### 主要觀念：A1C 的測量原理與臨床意義  
+- A1C 指數表示血液中血紅蛋白蛋白質被糖分子附著的程度，即血糖濃度越高，糖化血紅蛋白的比例越高。  
+- 通過測定 A1C 可以評估糖尿病患者的血糖控制情況，幫助醫生制定或調整治療方案。  
+
+### 問題原因：高 A1C 值的影響  
+- 高 A1C 值（如 8.5% 或以上）表明長期血糖水平過高，可能增加 diabetic complications 的風險，如神經病變、腎臟病和心血管疾病。  
+
+### 解決方法：控制血糖的策略  
+- 通過飲食管理（限制高糖、高碳水化合物食物的攝取）、規律運動、藥物治療（如胰島素或口服降糖藥）來降低血糖水平。  
+- 定期監測血糖和 A1C，與醫生保持密切溝通以调整治療計劃。  
+
+### 健康建議：血糖管理的實用 tips  
+- 保持均衡飲食，選擇低GI（升糖指數）食物，避免暴饮暴食。  
+- 每天進行中等強度運動，如快走、游泳，以提高胰島素敏感性。  
+- 定期檢查血糖和 A1C，了解自己的健康狀況並及時調整生活方式。  
+
+### 結論：A1C 的重要性與未來方向  
+- A1C 是評估糖尿病患者病情的重要指標，幫助實現更好的血糖控制和整體健康管理。  
+- 進一步的研究可以探討 A1C 與其他血糖指數的關聯性，以及個化化治療方案的制定。
 </details>
 
 <details>
-<summary>418. How to Treat Varicose Veins Naturally – Dr. Berg</summary><br>
+<summary>418. [2016-07-04] How to Treat Varicose Veins Naturally – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=gL8_-qQHZBM" target="_blank">
     <img src="https://img.youtube.com/vi/gL8_-qQHZBM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理與分析
 
+#### 核心主題
+- **.varicose veins**（靜脈曲張）及其相關問題的治療與預防。
+
+#### 主要觀念
+1. 静脉的功能：將血液從四肢返回心脏。
+2. 静脉與動脈的主要區別：動脈有心臟泵血，而靜脈依靠肌肉收縮來推動血液回流。
+3. varicose veins的成因包括：
+   - 長時間久坐或缺乏運動。
+   - 妊娠期的荷爾蒙影響及腹部壓力增加。
+4. 营養補充劑在varicose veins治療中的效果有限。
+
+#### 問題原因
+- **血流不暢**：靜脈瓣功能失常導致血液淤積。
+- **生活方式因素**：久坐、缺乏運動等。
+- **妊娠相關因素**：荷爾蒙水平變化及腹部壓力增加。
+- **營養過量**：過量的合成維生素C（ascorbic acid）可能引發蜘蛛靜脈。
+
+#### 解決方法
+1. **運動**：
+   - 進行規律的步行或全身性運動，促進血液回流。
+2. **改變生活方式**：
+   - 總結久坐，增加活動量。
+3. **營養調整**：
+   - 增加食物中的維生素C攝取，避免合成ascorbic acid過量。
+
+#### 健康建議
+- 適當運動可有效改善靜脈曲張，但需持續1-2年。
+- 避免使用高劑量合成維生素C補充劑，以免引發蜘蛛靜脈。
+- 適當飲食攝取天然維生素C。
+
+#### 結論
+- 静脉曲張的治療關鍵在於改善血流和改變生活方式。
+- 運動是最有效的自然療法。
+- 合理飲食和避免過量補充合成營養素是重要的健康策略。
 </details>
 
 <details>
