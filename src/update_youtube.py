@@ -72,6 +72,13 @@ def download_script(df):
     # 確保 script_dir 存在
     os.makedirs(script_dir, exist_ok=True)
     
+    # 讀取黑名單
+    black_list_file = os.path.join(base_dir, 'src/black_list.csv')
+    try:
+        black_df = pd.read_csv(black_list_file)
+    except FileNotFoundError:
+        black_df = pd.DataFrame(columns=['idx', 'id', 'url'])
+    
     # 計數器
     download_count = 0
     max_downloads = 10
@@ -89,6 +96,12 @@ def download_script(df):
             break
             
         video_id = df.loc[idx, 'id']
+        
+        # 檢查是否在黑名單中
+        if video_id in black_df['id'].values:
+            print(f"⚠️ 跳過黑名單影片：{idx}:{video_id}")
+            continue
+        
         script_file = f"{script_dir}/{video_id}.txt"
         
         # 檢查檔案是否已存在
@@ -116,6 +129,16 @@ def download_script(df):
                                                    
         except Exception as e:
             print(f"❌ 下載失敗 {idx}:{video_id}: {str(e)}")
+            # 加入黑名單
+            new_black = pd.DataFrame([{
+                'idx': idx,
+                'id': video_id,
+                'url': f"https://www.youtube.com/watch?v={video_id}"
+            }])
+            black_df = pd.concat([black_df, new_black], ignore_index=True)
+            # 儲存黑名單
+            black_df.to_csv(black_list_file, index=False)
+            print(f"⚠️ 已加入黑名單：{idx}:{video_id}")
             continue
    
     return df
