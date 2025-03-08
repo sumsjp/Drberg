@@ -1077,24 +1077,120 @@
 </details>
 
 <details>
-<summary>1902. Do Not Eat Peanut Butter Again, Until You Watch This!!</summary><br>
+<summary>1902. [2018-12-18] Do Not Eat Peanut Butter Again, Until You Watch This!!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=NSPWFz6Dn44" target="_blank">
     <img src="https://img.youtube.com/vi/NSPWFz6Dn44/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 重點整理
 
+#### 核心主題：花生及其醬的多重面向（優點、缺點及挑戰）
+
+花生雖然是常見的食物，但其涉及的健康風險和益處需要仔細評估。
+
+---
+
+#### 主要觀念：
+1. ** peanuts 的分類**：
+   - 花生並非_TREE NUTS_，而是屬於_LEGUMES_。
+2. **農藥污染**：
+   - 花生是 pesticidal、insecticide、herbicide 和 fungicide 等農藥使用最多的作物之一。
+3. ** GMO 連帶影響**：
+   - 花生常與轉基因棉花輪作，導致土壤中殘留的 glyphosate（如 Roundup）進入花生，可能引發過敏反應。
+
+---
+
+#### 問題原因：
+1. **Glyphosate 的健康風險**：
+   - 自 glyphosate 使用後，花生成分 allergies 增加了 400%。
+2. **Aflatoxin 的毒性問題**：
+   - 花生易受黃曲黴菌感染，產生高致癌性的 aflatoxin。
+3. **市售花生醬的問題**：
+   - 许多市售花生醬添加糖、反式脂肪等有害成分。
+
+---
+
+#### 解決方法：
+1. **選擇有機產品**：
+   - 選擇有機花生醬，可降低農藥殘留。
+2. **選用 Valencia 花生醬**：
+   - Valencia 種的 aflatoxin 含量較低。
+3. **加工處理**：
+   - 煎炸或發芽花生以降低抗營養因子，提高營養吸收率。
+
+---
+
+#### 健康建議：
+1. **閱讀標籤**：
+   - 選購時檢查成分表，避免含糖、反式脂肪等添加物。
+2. **食用後搭配含葉綠素的食物**：
+   - 葉綠素可幫助降低 aflatoxin 的毒性。
+3. **多樣化攝取**：
+   - 花生的營養價值與其他堅果相當，可作為均衡飲食的一部分。
+
+---
+
+#### 結論：
+花生及其醬具有一定的營養價值，但生產和加工過程中存在的農藥、毒素等問題需被重視。消費者應選擇高品質、有機產品，並注意食用方式，以最大化其健康益處。
+
+--- 
+
+此整理基於文章內容，使用正式的學術用語，條理清晰地分門別類，便於閱讀和理解。
 </details>
 
 <details>
-<summary>1901. Stinging Nettle Root: Powerful Anti-inflammatory - Dr. Berg</summary><br>
+<summary>1901. [2018-12-17] Stinging Nettle Root: Powerful Anti-inflammatory - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HIiM7q8A8Ic" target="_blank">
     <img src="https://img.youtube.com/vi/HIiM7q8A8Ic/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 探讨抗炎草藥中最具效力的自然療法：刺薺菜根（Stinging Nettle Root）。  
 
+---
+
+### 主要觀念  
+1. 刺薺菜根被譽為最有效的抗炎天然草藥。  
+2. 其主要功效在于抑制 inflammatory compounds，尤其是 tumor necrosis factor-alpha (TNF-Alpha)，從而減輕炎症和疼痛。  
+3. 它提供快速且無副作用的炎症 Relief。  
+
+---
+
+### 問題原因  
+1. 炎症的主要來源包括：  
+   - 高糖飲食導致的高水平血糖和胰島素。  
+   - 可能的微生物感染（如抗菌影片中提到的情況）。  
+
+---
+
+### 解決方法  
+1. **短期 Relief**：  
+   - 使用刺薺菜根作為抗炎補充劑，抑制 TNF-Alpha 並減輕炎症。  
+2. **長期治癒**：  
+   - 維持酮式飲食（Keto diet）和禁食（Intermittent fasting）。  
+   - 搭配具有抗菌效果的草藥，消除炎症的根本原因。  
+
+---
+
+### 健康建議  
+1. 在使用刺薺菜根等天然療法時，應同時針對炎症的根本原因進行干預：  
+   - 調整飲食結構，降低糖分攝入以控制血糖和胰島素水平。  
+   - 如果炎症來源為微生物感染，需參考相關療法（影片中有更多資源）。  
+
+2. 維持綜合性健康生活方式，包括均衡飲食、適度運動和壓力管理。  
+
+---
+
+### 結論  
+- 刺薺菜根是一種極具潛力的抗炎補充劑，能快速提供 Relief，但需配合整體療法治癒炎症。  
+- 觀看者可下載 Dr. Berg 的免費 App，以獲取更多相關資源和課程。  
+
+--- 
+
+此整理涵蓋了文章的核心內容，並以正式且客觀的學術用語進行表達。
 </details>
 
