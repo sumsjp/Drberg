@@ -1066,35 +1066,135 @@
 </details>
 
 <details>
-<summary>1703. #1 Confusion of Every Person Struggling with Weight Loss – Dr. Berg</summary><br>
+<summary>1703. [2018-09-02] #1 Confusion of Every Person Struggling with Weight Loss – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Y3o7VqXFMSs" target="_blank">
     <img src="https://img.youtube.com/vi/Y3o7VqXFMSs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- **胰島素的作用及影響**：文章圍繞胰島素的功能、其對脂肪存儲和代謝的影響以及如何通過調控胰島素水平來實現減重展開討論。
 
+### 主要觀念  
+1. 胰島素不僅降低血糖，還促進脂肪存儲並抑制脂肪釋放。  
+2. 胰島素過高是肥胖和超重的主要原因之一。  
+3. 大多數醫生只測量血糖水平，而忽視了胰島素水平的檢查。  
+
+### 問題原因  
+- **胰島素失衡**：許多 overweight 人士存在胰島素水平升高（insulin resistance）的情況，這會導致脂肪不易被燃燒，從而阻礙減重目標的實現。  
+
+### 解決方法  
+1. **降低胰島素水平**：首要任務是將胰島素水平恢復到正常範圍，而非單純計算熱量攝取或增加運動強度。  
+2. **飲食調整**：通過飲食結構的改變來降低胰島素分泌，例如採用低碳水化合物或生酮飲食。  
+
+### 健康建議  
+1. **參加健康研討會**：文章推薦參加即將於十月舉行的 Keto Health Summit，以获取更多專業知識和策略。  
+2. **提升記憶力與壓力 tolerance**：研討會將介紹增強記憶力、提高應對壓力能力以及加速新陈代谢的方法。  
+
+### 結論  
+- 調控胰島素水平是減重的關鍵，而非傳統的熱量控制或運動方法。  
+- 參加專業健康研討會可獲得更多實用信息和策略，以幫助實現健康目標。
 </details>
 
 <details>
-<summary>1702. Latest News on Monsanto – Dr. Berg</summary><br>
+<summary>1702. [2018-09-02] Latest News on Monsanto – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=E6SeA_J6Ov8" target="_blank">
     <img src="https://img.youtube.com/vi/E6SeA_J6Ov8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+===== 影響力分析 =====
 
+### 核心主題: 
+ Monsanto 事件及其法律後果對全球農業和公共健康的影響。
+
+### 主要觀念:
+1. **monsanto 的責任問題**:
+   - 使用 glyphosate（Roundup Ready）的 GMO 種稙。
+   - 被控製劑引發非霍奇金淋巴瘤。
+2. **法律裁決**:
+   - 初次針對 Monsanto 的成功訴訟，陪審團裁定 2.9 億美元賠償。
+   - 開啟了 4000 人的集體訴訟潮。
+3. **monsanto 的研究操縱**:
+   - 曝光 ghostwriting 和付科學家的研究結論。
+   - 涉及欺詐和不當影響以塑造偏見。
+
+### 問題原因:
+1. **monsanto 的產品安全問題**:
+   - Glyphosate 被指導致癌症等健康問題。
+2. **研究的可靠性缺失**:
+   - 公司內部文檔顯示操縱科學研究。
+   - 影響公眾和政策制定者的信任。
+
+### 解決方法:
+1. **加強監管措施**:
+   - 呼籲更嚴格的農藥審查和標示法規。
+2. **提升透明度**:
+   - 推動 Monsanto 和其他企業公開研究數據。
+3. **消費者教育**:
+   - 提高公眾對 GMO 和 pesticide 危害的认知。
+
+### 健康建議:
+1. **選擇非 GMO 食品**:
+   - 支持有機和本地產品，減少 glyphosate 暴露。
+2. **飲食記錄與分析**:
+   - 記錄日常飲食，評估健康影響。
+3. **定期體檢**:
+   - 尤其注意潛在的癌症徵兆。
+
+### 結論:
+ Monsanto 的法律敗訴標誌著全球農業和公共健康的轉捩點。此裁決強調了企業 responsibility 和科學 integrity的重要性，並鼓勵消費者和政策制定者采取更 proactive 的措施保護公共健康。
 </details>
 
 <details>
-<summary>1701. What is Vitamin E? – Function, Sources, and Deficiency Covered by Dr. Berg</summary><br>
+<summary>1701. [2018-09-01] What is Vitamin E? – Function, Sources, and Deficiency Covered by Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=o4iwGloEUF0" target="_blank">
     <img src="https://img.youtube.com/vi/o4iwGloEUF0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題
+- 維生素E在維護心血管健康中的重要作用。
+
+#### 主要觀念
+1. 維生素E deficiency主要由攝入精緻碳水化合物（如面包、義大利麵、燕麥片等）引起。
+2. 維生素E具有獨特的抗氧化特性，能夠穿越細胞膜，提供全身性的抗氧化保護。
+3. 維生素E複合物包含多種形式（如α-tocopheryl、γ-tocopheryl和δ-tocopherol），每種形式都有其特定的功能。
+4. α-tocopheryl主要由肝臟利用，並需要與LDL（低密度脂蛋白）結合以運輸至全身，發揮抗氧化作用。
+
+#### 問題原因
+- 獨.phase使用α-tocopherylサプリメント可能导致 antioxidant imbalance，無法充分發揮其抗氧化效果。
+- 精緻碳水化合物的攝入過量導致维生素E deficiency，增加慢性病風險。
+
+#### 解決方法
+1. 確保攝取完整的维生素E複合物，而非單一形式（如α-tocopheryl）。
+2. 通過飲食攝取富含维生素E的食物，如橄欖油、種子、堅果和蔬菜。
+3. 使用サプリメント時選擇包含整個複合物的產品。
+
+#### 健康建議
+- 避免過量攝入精緻碳水化合物以預防维生素E deficiency。
+- 確保飲食中攝取多樣化的抗氧化劑來源，以維持整體健康。
+- 定期監測血脂和抗.Free radicals水平，以評估 antioxidant status。
+
+#### 結論
+- 維生素E在心血管健康、癌症預防和皮膚健康等方面具有重要意義。
+- 確保完整的维生素E攝取是維持這些健康益處的關鍵。
+
+---
+
+### 研究方向
+
+1. **抗氧化劑在心血管疾病中的作用機制研究**
+   - 探讨不同的维生素E同分異構體（如α-tocopheryl、γ-tocopheryl和δ-tocopherol）如何相互作用，共同影響血脂 metabolism 和动脉健康。
+   - 研究维生素E在LDL运输中的具體作用，及其對膽固醇氧化的影響。
+
+2. **飲食中精緻碳水化合物攝取與慢性病風險的關聯研究**
+   - 調查精緻碳水化合物攝入如何導致维生素E deficiency。
+   - 探討增加完整抗氧化劑攝取對降低心臟病、中風和癌症風險的效果。
 </details>
 
