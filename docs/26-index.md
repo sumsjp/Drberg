@@ -1154,48 +1154,33 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
         alt="[Youtube]" width="200">
 </a>
 
-### 核心主題  
-**Core Theme**  
-- The negative impact of sensationalism and constant exposure to bad news on mental and physical health.  
+### 文章重點整理
+
+#### 核心主題
+文章的核心主題圍繞於媒體中的「 sensationaism」現象及其對個人心理健康的負面影響。作者強調了媒體報導中過度著重於驚悚、负面新聞的問題，並提出減少接觸這些信息的重要性和健康益處。
+
+#### 主要觀念
+1. **Sensationalism 的定義**：文章指出，SENSATIONALISM 是指通過報道驚人或令人震驚的故事來吸引讀者，而犧牲事實的準確性。
+2. **媒體報導偏向负面新聞的原因**：媒體機構傾向於報導負面事件（如戰爭、犯罪、疫情等），因為這些故事能吸引更多的注意力和銷售量。相比之下，正面新聞往往不易引起轟動，因此較少被報導。
+
+#### 問題原因
+1. **媒體過度曝露负面信息**：現代媒體habitually將悲觀和緊張的ニュースとして24/7で配信、人々は常にネガティブな情報にさらされている。
+2. **SENSATIONALISM 的影響**：這種報導方式不只影響閱聽眾的情緒，還可能導致大眾對社會的看法變得消極，進而增加個人的心理壓力。
+
+#### 解決方法
+1. **限制接觸新聞**：作者建議讀者應該有意識地限制自己接觸新聞的時間和數量，特別是負面新聞。
+2. **轉移焦點至正面新聞**：雖然媒體上正面的新聞較少，但仍有一些平台報導積極的消息。讀者可以主動尋找這些信息，以平衡自己的視野。
+
+#### 健康建議
+1. **心理健康的重要性**：文章強調了心理健康的價值，認為接觸過多的負面信息會對個人的心理健康造成不良影響。
+2. **自我心理建設**：作者鼓勵讀者進行自我心理建設，通過限制接觸負面新聞來提升整體的身心健康。
+
+#### 總結
+媒體中的SENSATIONALISM現象雖然在商業上有效，但對個人心理健康有著不可忽視的负面影响。文章呼籲大眾應該有意識地控制自己接觸新聞的質與量，特別是減少負面信息的攝取，從而提升整體的身心健康。作者相信，如果能夠做到這一點，人們的心理健康和生活質量將會有所提高。
 
 ---
 
-### 主要觀念  
-**Main Ideas**  
-1. Sensationalism in media refers to the use of shocking, exaggerated stories to attract attention, often at the expense of accuracy.  
-2. Negative news dominates media coverage, focusing on issues like war, terrorism, crime, and epidemics.  
-3. Good news is underrepresented because it does not generate high readership or viewer engagement.  
-
----
-
-### 問題原因  
-**Problem Causes**  
-1. Media prioritizes sensationalism to increase ratings and sales, leading to an overemphasis on negative events.  
-2. Constant exposure to bad news creates a state of chronic stress and anxiety among individuals.  
-3. The lack of positive news reinforces a pessimistic worldview, contributing to overall mental health decline.  
-
----
-
-### 解決方法  
-**Solutions**  
-1. Limit the consumption of negative news by setting boundaries on how much and how often one engages with media.  
-2. Actively seek out and consume positive or neutral news to balance the negativity.  
-3. Refocus on personal well-being and activities that promote positivity, such as spending time with loved ones or engaging in hobbies.  
-
----
-
-### 健康建議  
-**Health Recommendations**  
-1. Recognize the impact of negative news on mental health and take proactive steps to reduce exposure.  
-2. Incorporate mindfulness or relaxation techniques to counteract stress caused by sensationalist media.  
-3. Prioritize activities that foster joy, gratitude, and resilience to offset the effects of constant negativity.  
-
----
-
-### 結論  
-**Conclusion**  
-- While staying informed is important, excessive exposure to negative news is detrimental to health.  
-- By managing media consumption and focusing on positive information, individuals can improve their mental and physical well-being.
+以上整理使用了正式的學術用語，並以小節的方式清晰地分類文章的各個方面，涵蓋了核心主題、主要觀念、問題原因、解決方法、健康建議和結論等部分。
 </details>
 
 <details>

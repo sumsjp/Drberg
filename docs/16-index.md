@@ -87,69 +87,392 @@
 </details>
 
 <details>
-<summary>1692. Jackie & Ben – Keto Diet Analysis by Dr. Berg</summary><br>
+<summary>1692. [2018-08-27] Jackie & Ben – Keto Diet Analysis by Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=MhAZ3WFWJp0" target="_blank">
     <img src="https://img.youtube.com/vi/MhAZ3WFWJp0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章總整理與分析
 
+#### 核心主題
+- 身體 composition 的調整與健康飲食策略
+- 針對不同年齡、性別及健康狀況的個體化飲食建議
+- 體重管理特別是menoausal後期的脂肪流失挑戰
+
+#### 主要觀念
+1. **Jackie 的情況**
+   - 年齡：55歲，處於post-menopausal階段。
+   - 過重問題：體脂增加，目標為減輕20磅。
+   - 現行飲食結構分析：
+     - 蛋白質攝取充足（來源包括雞肉、牛肉、豬肉）。
+     - 脫脂及健康脂肪攝取（如椰子油、 butter、half-and-half）。
+     - 食物種類相對 limited，蔬菜攝取不足。
+
+2. **Ben 的情況**
+   - 年齡：24歲，體重178.5磅，目標不明，但飲食結構以高蛋白質為主。
+   - 健康飲食元素：
+     - 多樣化的發酵食品（如sauerkraut、kimchi），支持消化健康。
+     - 高品質脂肪攝取（如橄欖油、 butter）。
+     - 清晰的野-caught海鮮選擇，避免農場飼養產品的危害。
+
+#### 問題原因
+1. **Jackie 的問題**
+   - 膳食纖維不足，特別是蔬菜攝取量低，導致腸道健康可能受影響。
+   - 可能缺乏足夠的微量營養素來支持代謝功能。
+   - 高齡menoausal後期，基礎代謝率降低，脂肪氧化效率下降。
+
+2. **Ben 的問題**
+   - 蛋白質攝取過量，可能對腸道健康造成壓力，尤其是若存在SIBO（小肠细菌过度增殖）情況下。
+   - 食材來源選擇需進一步確認，確保其品質和安全性。
+
+#### 解決方法
+1. **Jackie 的飲食調整建議**
+   - 減少高蛋白質攝取，以避免腸道負擔過重。
+   - 增加膳食纖維攝取，特別是低FODMAP蔬菜（如菠菜、萵苣），以支持腸胃健康。
+   - 進行間歇性斷食，增強代謝效率，促進脂肪燃燒。
+   - 補充微量營養素，尤其是與menoausal相關的營養不足問題。
+
+2. **Ben 的飲食調整建議**
+   - 減少蛋白質攝取量，逐步調整至更均衡的水平。
+   - 確保所有食材來源為高品質，避免農場飼養海鮮和加工肉類的危害。
+   - 增加蔬菜攝取，但選擇低FODMAP食物，以避免腸道不適。
+   - 進行間歇性斷食，幫助恢復腸道健康。
+
+#### 健康建議
+1. **Jackie**
+   - 減少精製糖和刺激物的攝取（如咖啡因、酒精）。
+   - 定期進行有氧運動，提升代謝率。
+   - 補充適量的益生菌，改善腸道微生物平衡。
+
+2. **Ben**
+   - 確保飲食中包含足夠的維生素和礦物質，特別是腸胃健康所需的微量營養素。
+   - 減少加工食品攝取，選擇自然、未經處理的食物。
+   - 如果存在SIBO問題，建議在專業醫師指導下進行治療。
+
+#### 結論
+- 針對不同個體的飲食需求，需採取量身定做的策略。
+- 增加蔬菜攝取和健康脂肪是改善整體健康的關鍵。
+- 減少精製糖和刺激物，並配合同時進行有氧運動，能有效提升減重效果。
 </details>
 
 <details>
-<summary>1691. Will Too Much Protein Bump Me Out of Ketosis? – Dr.Berg</summary><br>
+<summary>1691. [2018-08-27] Will Too Much Protein Bump Me Out of Ketosis? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=rGidqAr9hM0" target="_blank">
     <img src="https://img.youtube.com/vi/rGidqAr9hM0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 重點整理
 
+#### 核心主題
+- 蛋白質攝取量對酮osis（ketosis）的影響。
+
+#### 主要觀念
+1. **蛋白質與胰島素分泌**：
+   - 氨基酸可刺激胰島素分泌，尤其是在血糖濃度上升時，胰島素分泌量可能增加一倍。
+   - 蛋白質在低碳水化合物環境下不會作為主要燃料來源。
+
+2. **蛋白質的生理作用**：
+   - 蛋白質的主要功能是重建和維持身體組織，而非作為能量儲備。
+   - 在禁食期間（如2-3天），肌肉不會被消耗作為能量來源。
+
+3. **蛋白質轉化為葡萄糖的可能性**：
+   - 蛋白質可以轉化為葡萄糖，但主要針對飲食性蛋白質，並非主要的代謝途徑。
+
+4. **攝取量建議**：
+   - 每天蛋白質攝取量建議為0.7克/公斤瘦體重。
+   - 例如：作者本人每日需攝取約58克蛋白質，相當於每餐5-7盎司（視蛋白質類型而定）。
+
+#### 問題原因
+- **過量蛋白質攝取**：
+  - 可能導致胰島素分泌增加，影響酮osis狀態。
+  - 過高的蛋白質攝入可能引發其他健康問題。
+
+- **蛋白質與碳水化合物搭配食用**：
+  - 同時攝入蛋白質和碳水化合物會進一步刺激胰島素分泌，不利於維持酮osis。
+
+#### 解決方法
+1. **控制蛋白質攝取量**：
+   - 避免過量攝取蛋白質，以防止胰島素 spikes。
+   - 確保蛋白質攝取量在建議範圍內（0.7克/公斤瘦體重）。
+
+2. **避免與碳水化合物同時攝食**：
+   - 避免將蛋白質和碳水化合物搭配食用，以降低胰島素分泌。
+
+3. **合理安排飲食結構**：
+   - 在低碳水化合物飲食中，重点关注脂肪、蛋白質和微量營養素的平衡。
+
+#### 健康建議
+- 確保蛋白質攝取量適當，避免過量。
+- 避免在攝食蛋白質時同時攝入碳水化合物。
+- 了解蛋白質的主要功能是維持組織而非作為能量來源，以正确认知其在飲食中的角色。
+
+#### 結論
+- 蛋白質攝取量需謹慎控制，過量可能影響酮osis並引發其他健康問題。
+- 適當的蛋白質攝取對於維持低碳水化合物飲食的穩定性至關重要。
+
+---
+
+### 英文摘要
+
+The article explores the impact of protein intake on ketosis and addresses common concerns about whether excessive protein consumption can disrupt this metabolic state. Key points include:
+
+1. **Protein and Insulin Secretion**:
+   - Amino acids stimulate insulin secretion, particularly when blood glucose levels rise.
+   - In a low-carbohydrate environment, protein does not primarily act as an energy reserve.
+
+2. **Physiological Role of Protein**:
+   - Protein's main function is to repair and maintain bodily tissues, rather than serve as a fuel source.
+   - During fasting (e.g., 2-3 days), muscle tissue is not typically broken down for energy.
+
+3. **Recommendations for Protein Intake**:
+   - Suggested daily protein intake: 0.7 grams per kilogram of lean body mass.
+   - Example: Approximately 58 grams of protein per day for the author, equivalent to 5-7 ounces per meal depending on protein type.
+
+4. **Potential Issues with Excessive Protein Intake**:
+   - Overconsumption can spike insulin levels and disrupt ketosis.
+   - Combining protein with carbohydrates further increases insulin secretion.
+
+5. **Solutions and Advice**:
+   - Monitor protein intake to avoid excessive consumption.
+   - Avoid pairing protein with carbohydrates to minimize insulin spikes.
+   - Maintain a balanced low-carbohydrate diet focusing on fats, proteins, and micronutrients.
+
+In conclusion, while protein is essential for tissue repair, its role as an energy source in ketosis is limited. Properly managing protein intake is crucial for maintaining ketosis and overall health.
 </details>
 
 <details>
-<summary>1690. What is Glucagon? – Dr. Berg</summary><br>
+<summary>1690. [2018-08-26] What is Glucagon? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=QQTUqyarPdY" target="_blank">
     <img src="https://img.youtube.com/vi/QQTUqyarPdY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：血糖調節激素—— glucagon 的作用及其影響
 
+1. **主要觀念**：
+   - Glucagon 是由胰腺 alpha 细胞分泌的一種激素，其功能與胰島素相反。
+   - 它的主要作用是升高血糖，通過分解肝臟中的糖原以及促進新 glucose 的生成（gluconeogenesis）。
+   - 另外，glucagon 還能促進脂肪釋放和代謝，被譽為主要的 fat-burning 濕潤。
+
+2. **問題原因**：
+   - 在低血糖或胰島素水平過低的情況下，機體需要依靠 glucagon 來調節血糖水平。
+   - 高碳水化合物攝取和過量蛋白質攝入可能干擾 glucagon 的作用，因為 insulin 會優先抑制其功能。
+
+3. **解決方法**：
+   - 延續低碳水化合物飲食（如酮egenic diet）以維持較低的胰島素水平。
+   - 控制蛋白質攝取在中等份量，避免過高影響 glucagon 的作用。
+   - 進行中等至高強度運動，特別是耐力訓練，可有效提高 glucagon 的分泌。
+
+4. **健康建議**：
+   - 確保飲食結構以低碳水化合物為主，並搭配適量蛋白質。
+   - 適當增加運動量，尤其是有氧運動，以激發 glucagon 的作用。
+   - 注意血糖水平的調節，避免過度依賴胰島素。
+
+5. **結論**：
+   - 理解 glucagon 和 insulin 的相互作用對於維持血糖平衡和促進脂肪代謝至關重要。
+   - 通過調整飲食結構和運動方式，可以有效提升 glucagon 的水平，從而改善整體健康狀況。
 </details>
 
 <details>
-<summary>1689. The Real Reason for Rosacea – SIBO (Small Intestinal Bacterial Overgrowth) – Dr. Berg</summary><br>
+<summary>1689. [2018-08-26] The Real Reason for Rosacea – SIBO (Small Intestinal Bacterial Overgrowth) – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=s0jKijiZ0Z8" target="_blank">
     <img src="https://img.youtube.com/vi/s0jKijiZ0Z8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：玫瑰痤瘡與小腸细菌過生長的關聯及治療策略
 
+#### 核心主題
+- 玫瑰痤瘡（Rosacea）与小肠细菌过度生长（SIBO）之间的密切关联。
+- 通过调节肠道微生物和改善消化功能来治疗玫瑰痤瘡。
+
+#### 主要觀念
+1. **玫瑰痤瘡的臨床表現**：
+   - 面部紅腫，尤其是 cheeks 紅疹樣 rash。
+   - 可見明顯的擴張血管。
+
+2. **SIBO 的定義與影響**：
+   - 小腸中存在過多的菌群。
+   - 正常情況下，這些菌群應位於大腸中。
+   - SIBO 會干擾營養吸收並引發消化問題。
+
+#### 問題原因
+1. **SIBO 的成因**：
+   - 胃酸分泌不足：導致食物中的病原體未被殺死，進入小腸繁殖。
+   - 長期使用抗生素、抗酸藥物或食用含碳酸氫鹽的食物。
+
+2. **玫瑰痤瘡的加重因素**：
+   - 高纖維飲食：為有害菌提供養分。
+   - 消化不良：導致食物未被充分吸收，營養流失。
+
+#### 解決方法
+1. **避免錯誤做法**：
+   - 不建議增加益生菌攝取：因已有過多微生物。
+   - 減少高纖維食物攝入：防止有害菌進一步生長。
+
+2. **改善策略**：
+   - **降低膳食纖維攝取**：選擇低纖蔬菜與蛋白質豐富的食物，如 carnivore 饮食。
+   - **增加胃酸分泌**：使用蘋果 cider vinegar 或 betaine hydrochloride，建議每餐 8-9 片。
+   - **天然抗生素**：食用大蒜、薑黃素和百里香等具抗菌作用的食材。
+
+3. **腸道清潔與修復**：
+   - 長期空腹（intermittent fasting）：促進腸胃清理，避免食物殘渣堆積。
+   - 減少進食次數：讓腸胃有時間自我修復。
+
+4. **營養吸收改善**：
+   - 確保充分吸收 nutrients：防止微organisms 消耗食物中的營養素。
+
+#### 健康建議
+- 胃酸不足的症狀：如食慾不振、消化不良、反流等。
+- 適當攝取天然抗生素，並配合低纖飲食。
+- 減少食用刺激性食物，避免加重腸胃負擔。
+
+#### 結論
+- 玫瑰痤瘡的治療需從腸道健康入手，特別是調節菌群平衡與改善消化功能。
+- 通過調整飲食結構、增加胃酸分泌和使用天然抗菌方法，可有效控制病情並促進恢復。
 </details>
 
 <details>
-<summary>1688. Dr.Berg Dissects a Keto Day of Eating! – Daily Keto Diet Plan & Keto Meals</summary><br>
+<summary>1688. [2018-08-25] Dr.Berg Dissects a Keto Day of Eating! – Daily Keto Diet Plan & Keto Meals</summary><br>
 
 <a href="https://www.youtube.com/watch?v=4FPXI5DgRl0" target="_blank">
     <img src="https://img.youtube.com/vi/4FPXI5DgRl0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 評估一名女性（Lorna）在酮egenic diet（生酮飲食）下的健康狀況、體重管理和症狀改善情況。
+- 分析其飲食結構、補充劑使用和生活方式對健康效果的影響。
 
+### 主要觀念
+1. **基本資料**：
+   - 年齡：39歲
+   - 體重：149磅
+   - 症狀：疲勞、肌肉疼痛
+   - 運動習慣：每周两次強度較高的訓練（如_boot camp_和另一項訓練）
+
+2. **飲食結構**：
+   - 早晨：含酪梨的檸檬汁、一杯bulletproof咖啡及無糖口香糖。
+   - 中餐：3個蛋、4片培根、1茶匙牛油、1片奶酪和一杯菠菜。
+   - 下午茶：2茶匙 heavy cream 加入咖啡。
+   - 晚餐：四杯 kale 漢堡、四颗草莓及7點的西葫芦和4盎司 Ground beef。
+
+3. **生理指標**：
+   - 血糖水平：空腹84，餐前94。
+   - 酮體水平：0.7至1.7之間。
+
+### 問題原因
+1. **體重穩定**：
+   - 經評估飲食結構和補充劑使用，未見顯著體重下降。
+   
+2. **血糖波動**：
+   - 午餐後血糖輕微上升，可能受 kale 漢堡中草莓影響。
+
+3. **疲勞與肌肉疼痛**：
+   - 可能與 B 群維生素不足、氧化應激及缺乏 Omega-3 有關。
+   
+4. **睡眠干擾**：
+   - 下午茶時間飲用咖啡可能影響晚間睡眠，導致翌日疲勞。
+
+### 解決方法
+1. **調整飲食結構**：
+   - 去除bulletproof咖啡中的脂肪（如MCT油和牛油），改為低脂咖啡。
+   - 縮短進餐次數，將7點的晚餐推遲至更晚，以延長禁食時間。
+
+2. **血糖管理**：
+   - 將kale 漢堡中草莓移除，或增加人工甜味劑（如Stevia）使用。
+   
+3. **補充營養素**：
+   - 增加 B 群維生素攝取（如營養酵母）。
+   - 补充天然的维生素 E 复合物和 Omega-3 心理酸。
+
+4. **改善睡眠質量**：
+   - 消除下午茶時間的咖啡，改用其他方式提神（如B族維生素）。
+
+### 健康建議
+1. **飲食安排**：
+   - 縮短進餐窗口，延長禁食期間。
+   - 減少高糖水果攝取，避免血糖波動。
+
+2. **營養補充**：
+   - 確保足夠的B族維生素、维生素 E 和 Omega-3 心理酸攝取。
+   
+3. **生活方式調整**：
+   - 適當運動，保持規律的作息時間。
+   - 监控血糖和酮體水平，根據數據調整飲食計劃。
+
+### 結論
+Lorna需針對其飲食結構、營養補充和生活習慣進行調整，以改善疲勞、肌肉疼痛並促進體重管理。建議她增加B族維生素攝取、調整飲食時間及減少咖啡攝入，以提升整體健康狀況和酮egenic diet的效果。
+
+---
+
+此整理報告針對Lorna的生酮飲食計劃提供了詳細的分析和改进建議，旨在幫助其達到更好的健康管理效果。
 </details>
 
 <details>
-<summary>1687. Using Fasting to Enhance Stem Cells – Dr. Berg On Intermittent Fasting & Cell Regeneration</summary><br>
+<summary>1687. [2018-08-25] Using Fasting to Enhance Stem Cells – Dr. Berg On Intermittent Fasting & Cell Regeneration</summary><br>
 
 <a href="https://www.youtube.com/watch?v=aadYEhTpeIk" target="_blank">
     <img src="https://img.youtube.com/vi/aadYEhTpeIk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- **衰老與細胞修復**：衰老主要源於細胞修復能力的下降。
+- **幹細胞的作用**：幹細胞在替換老化或受損细胞中起關鍵作用，從而延長壽命並提升生活質量。
+
+#### 主要觀念
+1. **幹細胞的功能**：
+   - 幹細胞是未分化但具有多功能的cell，可轉化為各種所需細胞。
+   - 不同部位的細胞更新速度不同， hippocampus 和beta cells等特定區域的細胞可以再生。
+   
+2. **禁食對幹細胞的影響**：
+   - 長期禁食（如72小時以上）可顯著增強幹細胞的活性和再生能力。
+   - 禁食能降低PKA基因的活化，促進幹細胞的分裂與重生。
+
+#### 問題原因
+- **衰老導致的细胞退化**：隨著年齡增長，細胞修復能力減弱，導致組織功能下降。
+- **特定疾病影響**：
+  - Type 1糖尿病患者的beta cells受損，影響胰島素分泌。
+  - 年齡相關的免疫系統衰退。
+
+#### 解決方法
+1. **禁食策略**：
+   - 定期進行 длінгове постування（prolonged fasting）以激發幹細胞功能。
+   - 禁食可促進脂肪燃燒，為幹細胞提供能量支持。
+
+2. **健康建議**：
+   - 增加禁食頻率，特別是長期禁食，以刺激幹細胞的再生能力。
+   - 保持均衡飲食，避免過度攝入熱量，以維持整體健康狀況。
+
+#### 結論
+- 禁食可以有效延長壽命並提高生活質量。
+- 幹細胞在組織修復和再生中具有巨大潛力，通過禁食等方法可激活其功能。
+- 開展更多研究，探索禁食和其他干預措施對健康的老齡化的影響。
+
+---
+
+### 增補建議
+1. **研究進展**：
+   - 目前已有研究表明，在小鼠模型中，禁食可以促進beta cells的再生。
+   - 進一步的研究需要在人類中驗證這些發現的有效性和安全性。
+
+2. **實踐應用**：
+   - 建議在專業醫療人員的監督下進行禁食，以避免可能的健康風險。
+   - 結合運動和其他生活方式的調整，進一步提升健康效益。
+
+---
+
+### 參考資源
+- 文章中提到的更多詳細信息可在 upcoming summit 中找到，作者提供了相關鏈接供進一步閱讀。
 </details>
 
 <details>
@@ -164,47 +487,219 @@
 </details>
 
 <details>
-<summary>1685. Dr. Berg / Karen Live Q&A, Friday (Aug 24) on the Ketogenic Diet and Intermittent Fasting</summary><br>
+<summary>1685. [2018-08-23] Dr. Berg / Karen Live Q&A, Friday (Aug 24) on the Ketogenic Diet and Intermittent Fasting</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ccoSnBtCtZk" target="_blank">
     <img src="https://img.youtube.com/vi/ccoSnBtCtZk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 共享即將進行的直播活動信息。  
 
+### 主要觀念  
+1. 直播時間：美國東部標準時間上午 11 點。  
+2. 活動內容：探討酮飲食（keto diet）中最常見的錯誤。  
+3. 參與方式：提供鏈接和電話號碼供公眾參與並提問。  
+
+### 問題原因  
+1. 通過分析食物日記，發現某些錯誤反覆出現。  
+2. 大多數人在實行酮飲食時容易犯相同的錯誤。  
+
+### 解决方法  
+1. 提醒公眾注意這些常見錯誤。  
+2. 鼓勵觀看直播以學習他人經驗。  
+
+### 健康建議  
+1. 在實施酮飲食前，建議諮詢專業人士。  
+2. 保持警惕，避免反覆出現的錯誤。  
+
+### 總結  
+- 強調直播的重要性和參加的益處。
 </details>
 
 <details>
-<summary>1684. Keto Hush Puppies Recipe – Dr.Berg</summary><br>
+<summary>1684. [2018-08-23] Keto Hush Puppies Recipe – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hJF6QXwtnn4" target="_blank">
     <img src="https://img.youtube.com/vi/hJF6QXwtnn4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- **酮脂飲食（Keto Diet）**：探討在酮脂飲食中如何平衡食物攝取與享受美食的可能性。
+- ** Hüsg puppies 的食譜**：介紹一種適合酮脂飲食的食谱，強調其簡單性和美味性。
+
+#### 主要觀念
+1. **酮脂飲食的挑戰**：
+   - 脂飲食限制了多種食物攝取，尤其是高碳水化合物的食物。
+   - 有些人可能感到犧牲很大，需要找到替代方案來滿足口感和味覺需求。
+
+2. **Hüsg puppies 的特色**：
+   - 傅統通常使用玉米製作，但此食譜使用其他成分，適合酮脂飲食。
+   - 強調簡單易做且美味，能幫助酮友在不浪費熱量的情況下享受美食。
+
+3. **鹽分的重要性**：
+   - 盐分在飲食中起到關鍵作用，尤其是在酮脂飲食中。
+   - 足夠的鹽分攝取可以預防肌肉痙攣、疲勞和酮流感症狀（如頭痛、噁心）。
+
+#### 問題原因
+- **鹽分不足**：
+  - 酮脂飲食可能導致鹽分攝取不足，引發身體不適。
+  - 盐分不足會導致對高鹽食物（如薯片）的渴望，影響飲食控制。
+
+- **酮友的食物渴望**：
+  - 在限制碳水化合物的情況下，酮友可能更容易感到食物渴望，尤其是對高鹽或高熱量零食的渴望。
+
+#### 解決方法
+1. **攝取足夠的鹽分**：
+   - 每天至少攝取一茶匙食鹽，以維持身體橢平衡。
+   - 可在食物中添加鹽分，如在Hüsg puppies表面灑上海鹽。
+
+2. **平衡飲食與美食享受**：
+   - 選擇適合酮脂飲食的食谱，如Hüsg puppies，來滿足口感需求。
+   - 通過調整食譜成分，既保持美味又符合酮脂飲食的原則。
+
+3. **心理調適**：
+   - 認識到食物渴望是常見現象，並學會控制和管理這些渴望。
+   - 隐藏易致使人分心的食物，如薯片，以避免誘惑。
+
+#### 健康建議
+- **鹽分攝取**：
+  - 確保每日鹽分攝取量足夠，以預防酮流感和其他不適症狀。
+  - 可在飲食中加入鹽水或鹽漬食物來補充鹽分。
+
+- **飲食結構**：
+  - 選擇多種低碳水化合物、高脂肪的食物來豐富飲食內容。
+  - 確保營養均衡，避免因過度限制某種 nutrient 而影響健康。
+
+- **心理與行為管理**：
+  - 學會控制對高鹽或高熱量食物的渴望，如薯片。
+  - 可將易誘惑的食物藏起來，以降低食用的可能性。
+
+#### 結論
+- **酮脂飲食的成功關鍵**：
+  - 平衡鹽分攝取，避免因鹽分不足導致的身體不適和食物渴望。
+  - 選擇適合的食谱，如Hüsg puppies，來滿足味蕾需求，同時保持酮脂飲食的效果。
+
+- **健康生活的綜合策略**：
+  - 注重營養均衡、鹽分攝取和心理調適，才能在酮脂飲食中長時間堅持並享受生活。
 </details>
 
 <details>
-<summary>1683. 6 Child IQ Killers- Low IQ By Iodine Deficiency, Vitamin B12 Deficiency & High Sugar Foods – Dr.Berg</summary><br>
+<summary>1683. [2018-08-23] 6 Child IQ Killers- Low IQ By Iodine Deficiency, Vitamin B12 Deficiency & High Sugar Foods – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Z-x3kDAUqdw" target="_blank">
     <img src="https://img.youtube.com/vi/Z-x3kDAUqdw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Summary of Key Points from the Article
 
+---
+
+#### Core Theme:
+The article focuses on identifying six potential environmental and nutritional factors that may negatively impact a child's IQ, particularly during early development stages such as pregnancy and infancy. It also highlights the importance of adopting specific health strategies to optimize cognitive function.
+
+---
+
+#### Major Concepts:
+1. **Maternal Nutrition During Pregnancy:**
+   - Adequate intake of trace minerals (e.g., iodine) is critical for fetal brain development.
+   - Deficiencies in essential nutrients can lead to significant reductions in IQ (e.g., iodine deficiency reduces IQ by 12.4 points).
+
+2. **Breastfeeding Importance:**
+   - Formula feeding may expose infants to harmful chemicals and excessive sugars, which can negatively impact brain growth and cognitive function.
+   - Extended breastfeeding (up to two years or more) is recommended to support optimal neurodevelopment.
+
+3. **Childhood Diabetes (Type 1):**
+   - Type 1 diabetes can impair cognitive function due to insulin resistance and hypoglycemia.
+   - Links between early-life factors and the development of type 1 diabetes are explored.
+
+4. **Vitamin B12 Deficiency:**
+   - Adequate levels of vitamin B12 are essential for central nervous system development.
+   - Deficiencies can hinder cognitive function in children.
+
+5. **Exposure to Toxins (Phthalates):**
+   - Phthalates, commonly found in plastics and personal care products, can negatively impact IQ by disrupting brain development.
+   - Maternal exposure during pregnancy is particularly concerning.
+
+---
+
+#### Root Causes of Negative Impact:
+- **Nutritional Deficiencies:** Lack of essential minerals and vitamins (e.g., iodine, B12) disrupts fetal and early childhood development.
+- **Toxic Exposure:** Presence of phthalates in everyday products affects brain function.
+- **Early Life Stressors:** Conditions like diabetes and high sugar intake contribute to cognitive impairments.
+
+---
+
+#### Solutions and Health Recommendations:
+1. **Maternal Care:**
+   - Ensure adequate consumption of trace minerals and vitamins (e.g., iodine, B12) during pregnancy.
+   - Opt for a healthy diet, such as the ketogenic plan, rich in nutrient-dense foods.
+
+2. **Breastfeeding Promotion:**
+   - Encourage exclusive breastfeeding for at least six months, extending up to two years or more if possible.
+
+3. **Toxin Avoidance:**
+   - Use non-plastic containers for food storage, especially when heating food.
+   - Choose phthalate-free personal care products and household items.
+
+4. **Dietary Interventions:**
+   - Limit high-sugar diets to prevent insulin resistance and hypoglycemia.
+   - Focus on a low-sugar, high-nutrient diet to support cognitive development.
+
+---
+
+#### Conclusion:
+The article emphasizes the critical role of maternal nutrition, breastfeeding, and avoiding environmental toxins in optimizing children's cognitive development. By addressing these factors through targeted health strategies, parents can significantly enhance their child's intellectual potential. The author also promotes attending the Keto Health Summit for further insights into improving memory, stress tolerance, and metabolism control.
+
+--- 
+
+This structured summary captures the essence of the article while maintaining academic formality.
 </details>
 
 <details>
-<summary>1682. How to STOP Small Intestine Bacterial Overgrowth(SIBO)? – Dr. Berg</summary><br>
+<summary>1682. [2018-08-22] How to STOP Small Intestine Bacterial Overgrowth(SIBO)? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=UQESlxQKIm8" target="_blank">
     <img src="https://img.youtube.com/vi/UQESlxQKIm8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：SIBO（小腸细菌過生長）的核心主題與建議
 
+#### 1. 核心主題
+- **SIBO**（Small Intestinal Bacterial Overgrowth，小腸细菌過生長）是指在小腸中存在異常多的微生物群落。
+- SIBO的主要徵狀包括腹脹、便秘或 diarrhea 等消化系統問題。
+
+#### 2. 主要觀念
+- **正常菌群分布**：胃和小腸原本應含有少量微生物，而大部分應該位於大腸。SIBO 的發生是因為病菌在錯誤的位置大量生長。
+- **胃酸的作用**：正常的 gastric acid（胃酸）濃度（pH 1-3）可以抑制有害菌的生長。若胃酸不足，易導致病菌在小腸中繁殖。
+
+#### 3. 問題原因
+- **胃酸缺乏**：可能由抗生素使用、抗酸藥物、不良飲食習慣（如攝取過多鹼性食物或水）等引起。
+- **飲食習慣**： frequent eating 和 constipation 可能導致食物殘渣在腸道中積累，為病菌提供養分。
+
+#### 4. 解決方法
+- **短期禁食（Intermittent Fasting）**：幫助清潔腸胃，讓消化系統有時間恢復。
+- **酸化胃環境**：
+  - 使用 apple cider vinegar 或 betaine HCl 補充胃酸，以抑製病菌生長。
+- **抗壓力管理**：壓力會干擾消化功能，保持低壓力生活有助改善症狀。
+- **使用天然抗菌物質**：如大蒜和茴香油（oregano oil），可平衡腸道菌群。
+
+#### 5. 健康建議
+- **飲食調整**：
+  - 减少高纤食物攝取，避免過量的蔬菜和水果，防止病菌獲得養分。
+  - 避免攝入糖分，因病菌會利用糖份進行發酵。
+- **醫療檢測**：可通過 breath test 檢測 SIBO 的存在。
+
+#### 6. 結論
+- SIBO 的治療需綜合調整飲食、增加胃酸、管理壓力以及使用天然抗菌物質。若症狀持續，建議諮詢醫生進一步檢查與治療。
+
+此整理基於文章內容，以正式的學術用語和清晰的小節結構，涵蓋了核心主題、主要原因、解决方法等關鍵點。
 </details>
 
 <details>
@@ -634,36 +1129,73 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
         alt="[Youtube]" width="200">
 </a>
 
-### Core Theme: Digestive Health on the Ketogenic Diet
+### 小節歸納
 
-#### Key Issues:
-- **Gastrointestinal Challenges**: Individuals on the keto diet may experience gas, bloating, and other digestive disturbances due to undigested food particles fermenting in the intestines.
-- **Intestinal Dysfunction**: Pre-existing conditions like celiac disease, diverticulitis, or damaged intestinal villi can exacerbate digestive issues.
-- **Microbial Overgrowth**: An overgrowth of harmful bacteria, yeast, or mold in the gut can lead to chronic halitosis, poor digestion, and auto-intoxication.
+#### 核心主題
+- 膳食酮osis（keto diet）計劃中出現腹脹和氣體的問題。
+- 消化系統健康與微生物平衡的重要性。
 
-#### Causes:
-- **Carbohydrates and Vegetables**: The gas-producing effects are often linked to high-carb vegetables consumed in excessive amounts.
-- **Lack of Fermented Foods**: Insufficient intake of fermented foods can disrupt the balance of gut microbiota.
-- **Poor Digestion**: Inadequate breakdown of food due to insufficient enzymes or bile can lead to undigested particles fermenting in the gut.
+#### 主要觀念
+1. **消化系統的基本功能**：
+   - 胃腸道 villi 的重要性：負責吸收營養。
+   - 胃酸、胰酶和膽汁在食物消化中的作用。
 
-#### Solutions:
-1. **Adjust Vegetable Intake**:
-   - Start with smaller quantities and gradually increase to avoid overwhelming the digestive system.
-   - Opt for low-carb, fibrous vegetables like spinach, kale, and broccoli.
+2. **腹脹和氣體的成因**：
+   - 食物未被充分消化，導致腐敗和氣體產生。
+   - 消化不良或腸道微生物失衡。
 
-2. **Incorporate Fermented Foods**:
-   - Include fermented vegetables (e.g., sauerkraut) in the diet to promote gut health.
-   - Consider homemade yogurt with lactose removed through extended fermentation (24 hours at 110°F).
+3. **酮osis飲食中常見問題**：
+   - 確定腹脹來源：可能是蔬菜而非蛋白質或脂肪。
+   - 需調整攝取的蔬菜種類和份量。
 
-3. **Enzyme and Bile Support**:
-   - Use digestive enzymes or bile supplements to aid in breaking down food effectively.
+4. **嬰兒喂養與腸道健康**：
+   - 母乳對嬰兒腸道微生物群的影響。
+   - 配方奶可能導致免疫和消化問題。
 
-#### Health Recommendations:
-- **Breastfeeding for Infants**: Essential for developing a healthy gut microbiota and immune system.
-- **Ketogenic Diet Considerations**: Focus on protein and fat sources while carefully managing carbohydrate intake, particularly from vegetables.
+#### 問題原因
+1. **消化不良**：
+   - 胃酸不足或酶缺乏。
+   - 食物未被充分分解。
 
-#### Conclusion:
-Addressing digestive health on the keto diet requires careful monitoring of food choices, gradual adaptation, and the incorporation of fermented foods to support gut microbiota.
+2. **腸道微生物失衡**：
+   - 不良飲食習慣破壞有益菌平衡。
+
+3. **食物選擇不當**：
+   - 在酮osis diet中過量攝取某些蔬菜。
+
+#### 解決方法
+1. **調整飲食**：
+   - 選擇易消化的蔬菜，如煮熟或發酵蔬菜。
+   - 減少蔬菜攝取量，逐步增加。
+
+2. **增強腸道微生物群**：
+   - 消費自制低乳糖酸奶：長時間發酵至無 lactose。
+   - 补充益生菌以恢復腸道平衡。
+
+3. **改善消化功能**：
+   - 確保足夠的胃酸和酶分泌。
+
+4. **嬰兒喂養建議**：
+   - 高度推薦母乳喂養以建立健康的腸道微生物群。
+
+#### 健康建議
+1. **飲食調整**：
+   - 減少高纖維蔬菜攝取，避免過量。
+   - 選擇發酵或煮熟的蔬菜以促進消化。
+
+2. **益生菌攝取**：
+   - 制作並食用低乳糖酸奶，增強腸道健康。
+
+3. **飲食引入策略**：
+   - 渐進式增加新食物攝取量，避免腸胃負擔過重。
+
+4. **母親喂養指導**：
+   - 母乳喂養嬰兒以確保其免疫和消化系統正常發展。
+
+#### 結論
+- 腹脹和氣體問題在酮osis diet中可通過調整飲食和腸道健康管理得到解決。
+- 健康的腸道微生物群對整體消化和免疫功能至關重要。
+- 母乳喂養嬰兒是建立健康腸道生態的最佳方式。
 </details>
 
 <details>
