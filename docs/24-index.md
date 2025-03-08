@@ -1,45 +1,242 @@
 <details>
-<summary>2500. What to Eat While Breastfeeding</summary><br>
+<summary>2500. [2019-11-04] What to Eat While Breastfeeding</summary><br>
 
 <a href="https://www.youtube.com/watch?v=AeGcW9E1Vtk" target="_blank">
     <img src="https://img.youtube.com/vi/AeGcW9E1Vtk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章總結：孕期與哺乳期營養需求及健康飲食策略
 
+---
+
+#### 核心主題  
+- 孕期和哺乳期婦女的營養需求對胎兒和嬰兒的發育至關重要。  
+- 膳食中必須攝取足夠的微量營養素、宏量營養素以及essential fatty acids，以支持母體健康並促進嬰兒正常發育。
+
+---
+
+#### 主要觀念  
+1. **營養缺乏的危害**  
+   - 营養不足或過度會影響胎兒和嬰兒的生長發育，導致出生缺陷、免疫功能受損、骨骼畸形等問題。  
+
+2. **關鍵微量營養素的作用**  
+   - **硒（Selenium）**：抗氧化作用，支持胎兒神經系統發育。  
+   - **碘（Iodine）**：促進胎兒腦部發育及正常甲狀腺功能。  
+   - **鐵（Iron）**：預防貧血，支持嬰兒血液系統健康。  
+   - **鋅（Zinc）**：提升免疫功能，參與DNA合成。  
+   - **鈷（Copper）**：輔助鐵的吸收與利用，促進骨骼和神經發育。  
+   - **鉬（Manganese）**：支持骨骼健康及代謝功能。  
+
+3. **宏量營養素的重要性**  
+   - **鈣質（Calcium）**：促進胎兒 Bones 與牙齒發育，維持母體骨 density。  
+   - **蛋白質（Protein）**：構建胎兒組織與器官，尤其是腦部和肌肉發展。  
+
+4. **essential Fatty Acids (EFAs)**  
+   - **DHA**：支持嬰兒大腦發育、視力發展及免疫功能。  
+
+---
+
+#### 問題原因  
+1. **營養不均衡**  
+   - 部分孕婦可能因妊娠反應或挑食，攝取不足多種營養素。  
+
+2. **合成 prenatal 补充劑的限制**  
+   - 市面上很多 prenatal vitamins 使用人工合成成分，吸收率低且可能含不良添加物（如大豆成分）。  
+
+3. **飲食來源的局限性**  
+   - 經濟或口味因素導致某些孕婦難以攝取足夠的魚類、海產及 organ meats。  
+
+---
+
+#### 解決方法  
+1. **優質營養來源**  
+   - **野生捕撿 salmon**：提供高品質蛋白質、DHA 和微量營養素。  
+   - **.cod liver oil**：富含維生素A、D和DHA，支持胎兒視力與免疫系統。  
+
+2. **均衡飲食策略**  
+   - **全穀物、深色蔬菜與水果**：提供維生素C、纖維及微量營養素。  
+   - **低脂乳製品**：補充鈣質和蛋白質，支持骨骼健康。  
+   - **海鮮（shellfish）**：攝取豐富的硒、鋅等微量營養素。  
+
+3. **食用 organ meats 的替代方案**  
+   - 選擇 US Wellness Meats 等高品質草地畜牧肉類，含豐富的微量營養素且口感良好。  
+
+4. **補充劑選擇**  
+   - 選用整體食物基質 prenatal 补充劑，避免人工合成成分。  
+
+---
+
+#### 健康建議  
+1. **飲食原則**  
+   - 多攝取富含 omega-3 的食物（如深海魚類）。  
+   - 確保每天攝入足夠的葉酸、鐵、鈣和維生素D。  
+   - 避免低脂飲食，因脂肪是嬰兒神經發育所需的essential nutrients。  
+
+2. **サプリメントの活用**  
+   - 使用高品質的 cod liver oil 或 omega-3 补充劑以確保足夠的 DHA攝取。  
+   - 選用未添加香料和防腐劑的 nutritional yeast 來補充 B 群維生素。  
+
+3. **食品選擇**  
+   - 選擇非 GMO 且有機生產的食物，降低環境毒素影響。  
+   - 多食用蛋黃、深色葉菜和柑橘類水果以攝取足夠的維生素A、C 和葉酸。  
+
+---
+
+#### 結論  
+孕期與哺乳期是嬰兒發育的關鍵時期，母親良好的營養狀況直接影響子代的健康。通過均衡飲食、選擇高品質食物來源及適當補充劑，可有效滿足這段時期的特殊營養需求，為胎兒和嬰兒提供最佳的成长環境。
 </details>
 
 <details>
-<summary>2499. Benfotiamine: Why Every Diabetic Should Take It</summary><br>
+<summary>2499. [2019-11-04] Benfotiamine: Why Every Diabetic Should Take It</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XmYrJ0s7QQU" target="_blank">
     <img src="https://img.youtube.com/vi/XmYrJ0s7QQU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：Benfotiamine在糖尿病管理中的作用
 
+#### 核心主題
+- **核心主題**：探讨合成维生素B1衍生物苯丙噻胺（Benfotiamine）在糖尿病患者中的应用及其健康益处。
+
+#### 主要觀念
+1. **Benfotiamine的特性**：
+   - 脂溶性维生素，能够穿透组织深处。
+   - 具有抗氧作用，能有效减少自由基损伤。
+   
+2. **Diabetes-related Complications**：
+   - 神经病变（Peripheral Neuropathy）
+   - 视网膜损害
+   - 肾脏功能损伤
+   - 心血管疾病
+
+#### 問題原因
+- **高血糖导致的氧化应激**：
+  - 高血糖引发大量自由基，导致组织氧化损伤。
+  
+- **Advanced Glycation End Products (AGEs)**：
+  - 糖化终产物的积累损害血管、神经和眼睛等组织。
+
+#### 解決方法
+1. **Benfotiamine的功能**：
+   - 抗氧化作用，减少氧化应激。
+   - 减少AGEs的形成，防止其对器官的损害。
+   
+2. **臨床應用**：
+   - 神經保護：改善周邊神經病變症狀（如疼痛、麻木）。
+   - 視網膜保护：減輕糖尿病引起的視網膜損傷。
+   -腎臟保護：防止腎小球受損。
+   - 心血管健康：保護血管內皮，預防動脈硬化。
+
+#### 健康建議
+1. **劑量建议**：
+   - 每日至少600毫克，可分次服用。
+   
+2. **飲食建議**：
+   - 配合健康低碳水化合物飲食（如酮飲食）以提升效果。
+   - 減少AGEs的攝入，避免高溫烹調糖質食物。
+
+3. **生活方式**：
+   - 經常監測血糖水平。
+   - 適當運動，促進胰島素敏感性。
+
+#### 結論
+- **重要性**：Benfotiamine是糖尿患者的重要補充劑，能有效保護多個器官免受高血糖損害。
+- **整合治療**：建議將其與飲食控制和生活方式調整結合使用，以達到最佳療效。
 </details>
 
 <details>
-<summary>2498. Are Grass-Fed Burgers Really Worth the Extra Cost?</summary><br>
+<summary>2498. [2019-11-03] Are Grass-Fed Burgers Really Worth the Extra Cost?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=IEMsExZdIZk" target="_blank">
     <img src="https://img.youtube.com/vi/IEMsExZdIZk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：草饲牛肉与传统牛肉的差异及其健康影响
 
+#### 主要觀念：
+1. 草饲牛肉（grass-fed beef）与传统牛肉（conventional beef）在生产过程、营养成分及健康风险方面存在显著差异。
+2. 草饲牛肉若未标明“100%草饲完成”（grass-finished），可能经过谷物 fattening 过程，影响其营养价值和健康属性。
+
+#### 問題原因：
+1. **谷物 fattening 的问题**：传统牛肉生产中，牛只通常在成长后期使用谷物（如玉米、大豆）进行 fattening，以加快生长速度。这种做法可能导致牛肉中的营养成分发生变化，尤其是脂肪比例的增加。
+2. **GMO 谷物的健康风险**：
+   - 大部分谷物是基因改造（Genetically Modified Organisms, GMOs），可能含有对健康有害的化学物质如 glyphosate（草甘膦）。
+   - Glyphosate 是一种广泛使用的除草剂，与多种健康问题相关联，包括 **非霍奇金淋巴瘤（Non-Hodgkin lymphoma, NHL）**。
+   - 美国每年使用超过 **80,000 吨 glyphosate**，对环境和人体健康造成潜在威胁。
+
+#### 解決方法：
+1. 消费者应选择明确标注为“草饲完成”（grass-finished）的牛肉产品，以确保其未经过谷物 fattening 过程。
+2. 优先选择 organic 草饲牛肉，避免 GMO 谷物的潜在风险。
+
+#### 健康建議：
+1. **营养成分分析**：
+   - 牛肉本身几乎不含碳水化合物（0 carbs），适合低碳饮食（如酮饮）。
+   - 蛋白质含量约为 14%，脂肪含量约 30%，其中近一半为水分。
+2. **健康风险规避**：
+   - 减少传统牛肉的摄入频率，尤其是未标明有机认证的产品。
+   - 避免过度加工和搭配高糖、高盐食物（如汉堡面包、番茄酱、薯条、汽水）。
+
+#### 結論：
+1. 草饲牛肉在营养成分和健康风险方面优于传统牛肉，但需注意产品标签的准确性。
+2. 消费者应提高对 GMO 及 glyphosate 健康风险的认知，做出更健康的食品选择。
 </details>
 
 <details>
-<summary>2497. Grass-fed or Organic: Which Is Healthier?</summary><br>
+<summary>2497. [2019-11-03] Grass-fed or Organic: Which Is Healthier?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5ypbjAldKCc" target="_blank">
     <img src="https://img.youtube.com/vi/5ypbjAldKCc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：牛肉與蛋類的選擇：草饲（Grass-Fed）還是有機（Organic）
 
+#### 主要觀念：
+1. **(labels in the food industry)**  
+   - 草饲（Grass-Fed）、 pasture-raised、和有機（Organic）等標籤在食品業界常見，但消費者需了解其背後的含義。
+
+2. **Definition of Grass-Fed vs. Grass-Finished**  
+   - "Grass-fed" 没有法律明確定義，無法得知牛只食用 grass 的時間長短。  
+   - "Grass-finished" 更為重要，意指牛只在 slaughtering 之前主要以 grass 為食，而非 grain。
+
+3. **Nutritional Differences Between Grass-Fed and Grain-Fed Beef**  
+   - 草饲牛肉富含 Omega-3 和CLA（共軛亞油酸），具有抗氧化、抗炎和抗癌功效。  
+   - 粮食喂養的牛肉Omega-6含量高，比例失衡（20:1 vs. 2:1）。  
+
+4. **Benefits of Organic Certification**  
+   - 有機認證意味著不使用 pesticide, herbicide, fungicide, insecticide。  
+   - 禁止使用抗生素、激素及生物固體（biosolids，即 Sewage Sludge）。  
+
+5. **Potential Risks in Non-Organic Products**  
+   - 生物固體被用於動物飼料和土地肥沃化，可能對人體健康造成潛在威脅。  
+
+#### 問題原因：
+1. 消費者面對食品標籤時缺乏足夠的知識，導致選擇困難。  
+2. 經營者可能濫用模糊的標籤（如 Grass-Fed）來吸引消費者。  
+3. 生物固體的使用未被廣泛了解，增加了食品安全隱患。  
+
+#### 解決方法：
+1. 教育消費者理解各類食品標籤的含義，特別是 Grass-Finished 和 Organic 的重要性。  
+2. 選擇信譽良好的品牌，例如 U.S. Wellness Meats 等提供透明農場實踐的品牌。  
+3. 支持有機產品，避免生物固體可能帶來的危害。  
+
+#### 健康建議：
+1. **Prioritize Grass-Finished Beef**  
+   - 選擇標有 "Grass-Finished" 或 "Pasture-Raised" 的牛肉，以確保更高的營養價值和更健康的脂肪比例。  
+
+2. **Opt for Certified Organic Products**  
+   - 確保產品為 100% 認證有機，避免包含可能有害的農藥和其他化學物質。  
+
+3. **Support Sustainable Farming Practices**  
+   - 選擇來源於健康土壤和自然飼養方式的 livestock，支持可持續農業生態系統。  
+
+#### 結論：
+- 對消費者而言，了解食品標籤背後的含義至關重要，以做出更健康的選擇。  
+- 經營者應提高產品透明度，提供更多關於畜牧實踐和飼料來源的信息。  
+- 支持有機和天然養殖方式，促進整體食品安全和環境永續發展。
 </details>
 
 <details>
