@@ -1,34 +1,135 @@
 <details>
-<summary>1800. Understanding the Antioxidant Network - Oxidative Stress & Free Radicals - Dr. Berg</summary><br>
+<summary>1800. [2018-10-23] Understanding the Antioxidant Network - Oxidative Stress & Free Radicals - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=eU64_Ua0Brc" target="_blank">
     <img src="https://img.youtube.com/vi/eU64_Ua0Brc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：抗氧化網絡的作用與重要性
 
+#### 主要觀念：
+1. **自由基的概念**：
+   - 自由基是具有未配對電子的原子，導致其旋轉不穩定且行為 erratic。
+   - 比喻為汽車因鹽分腐蝕而生鏽，造成結構破壞。
+
+2. **抗氧化劑的作用**：
+   - 抗氧化劑提供電子使自由基穩定化，防止其造成的氧化損傷。
+   - 經典例子包括維生素 E 和 C，以及其他微量營養素如鋅、硒和葉酸。
+
+3. **抗氧化網絡的相互作用**：
+   - 多種抗氧化劑协同工作，例如維生素 C 與維生素 E 的電子交換，延長後者的作用時間。
+   - 其他參與的抗氧化劑包括硫辛酸、尿酸和超氧化物歧化酶（SOD）。
+
+4. **自由基來源**：
+   - 素食中铁質、糖分過量、辐射、污染、煙草及反式脂肪等均可促發自由 radicals 的生成。
+
+#### 問題原因：
+1. 自由基的不穩定性導致氧化應激，引發各種生理損傷。
+2. 抗ioxidant network 的不平衡或 deficiencies 可能導致慢性疾病。
+
+#### 解決方法：
+1. **營養攝取**：
+   - 消耗富含抗氧化劑的食物，如十字花科蔬菜、葉菜類、坚果和海產品。
+   - 確保足夠的維生素 C、鋅（來源於貝類）、硒（巴西堅果）及硫辛酸。
+
+2. **生活方式調整**：
+   - 減少接觸自由基來源，如二手煙、污染和高糖攝取。
+   - 適當運動可提升抗氧化劑的效果，但需避免過度疲勞。
+
+3. **補充劑的使用**：
+   - 在飲食中未能滿足的前提下，考慮微量營養素補充劑，但應避免濫用。
+
+#### 健康建議：
+1. 確保均衡飲食，攝取多樣化的抗氧化食物。
+2. 減少環境和飲食中的自由基來源。
+3. 適當運動並保持良好的生活習慣。
+4. 必要時諮詢醫療專業人員關於抗氧化劑補充的建議。
+
+#### 结論：
+- 抗氧化網絡是維持身體健康的重要機制，需通過均衡飲食和健康生活方式來支持。
+- 理解自由基與抗氧化劑的作用，有助於防範慢性病並提升整體健康。
 </details>
 
 <details>
-<summary>1799. Healthy Keto Summit - Order Your Digital Copy</summary><br>
+<summary>1799. [2018-10-22] Healthy Keto Summit - Order Your Digital Copy</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xVkHlj6G518" target="_blank">
     <img src="https://img.youtube.com/vi/xVkHlj6G518/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 本次會議（Down Earth Summit）圍繞健康、體重管理和整體 wellness 展開討論。
+- 强調了健康信息的重要性及其在現代生活中的影響。
 
+### 主要觀念
+1. **健康知識的價值**：與會者強調了健康和體重管理是最為相關且必要的信息。
+2. **教育的力量**：會議提供了豐富的研究成果和專業 knowledge，幫助參加者提升對健康議題的理解。
+3. **個體變化的重要性**：分享了個人在四個月內的顯著改變，展示健康生活方式的實效。
+
+### 問題原因
+- 现代社會中，人們往往忽視健康信息的更新和應用，導致健康問題的滋生。
+
+### 解決方法
+1. **參加專業會議**：通過參與像Down Earth Summit這樣的活動，獲取最新、最可靠的健康信息。
+2. **個人行動計劃**：將所學知識付諸實踐，制定並堅持個體化的健康管理方案。
+
+### 健康建議
+1. **定期更新健康知識**：保持對最新健康研究和管理方法的了解。
+2. **均衡飲食與運動**：結合合理飲食和規律運動，促進整體健康。
+3. **建立支持系統**：尋求家人、朋友或專業人士的支持，幫助維持健康目標。
+
+### 結論
+- 本次會議被評為非常重要且具備深度的活動，參加者表示受益匪淺。
+- 倡導大家將健康管理和體重控制納入日常生活，並鼓勵更多人加入這場 wellness 革命。
 </details>
 
 <details>
-<summary>1798. The Importance of Progesterone for Hot Flashes Relief – Dr. Berg On Progesterone Deficiency</summary><br>
+<summary>1798. [2018-10-22] The Importance of Progesterone for Hot Flashes Relief – Dr. Berg On Progesterone Deficiency</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fTYKyPlU0IE" target="_blank">
     <img src="https://img.youtube.com/vi/fTYKyPlU0IE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 文章重點整理
 
+## 核心主題
+- **progesterone（孕激素）**的重要性及其在女性健康中的作用。
+- **menopause（更年期）**期間progesterone水平的劇烈下降及其影響。
+- **野生薔薇 Yam Extract（山萤菪提取物）**作為一種補充劑的作用。
+
+## 主要觀念
+1. **Hormonal Balance（激素平衡）**：progesterone和estrogen（雌激素）在女性生理功能中的重要作用及相互作用。
+2. **Progesterone的功能**：
+   - 與其他激素的轉化相關，如estrogen、cortisol（皮質醇）等。
+   - 具有鎮靜效果，改善睡眠質量。
+   - 作為利尿劑，幫助消除體液 retention（潴留）。
+3. **Menopause Symptoms（更年期症狀）**：progesterone不足導致的症狀包括阴道乾燥、皮膚萎縮、膠原蛋白流失、性慾減退、熱潮紅、夜汗、失眠及易怒等。
+
+## 問題原因
+1. **Progesterone水平下降**：
+   - 由更年期引發的progesterone劇烈下降。
+   - 高度壓力進一步抑制progesterone分泌。
+2. **飲食因素**：低脂或低膽固醇飲食，以及使用statin（他汀類藥物）可能影響progesterone合成，因其關鍵合成原料為膽固醇。
+
+## 解決方法
+1. **野生薔薇 Yam Extract（山萤菪提取物）**：
+   - 含有可轉化為progesterone的化合物。
+   - 即使在人體中未完全證實其直接轉化為progesterone，但仍能有效改善相關症狀。
+2. **使用方法建議**：
+   - 避免將クリーム塗抹於腕部內側，以避免吸收過快。
+   - 推薦將クリーム塗抹於大腿或手臂等部位，以實現更持久的效果。
+
+## 健康建議
+1. **飲食調整**：增加膽固醇攝取，避免低脂、低膽固醇或使用他汀類藥物的飲食習慣。
+2. **選擇信譽良好的產品**：購買progesteroneクリーム時，選擇評價良好且具備一定濃度的品牌。
+3. **遵循劑量指引**：按照 제품說明書推薦的劑量使用。
+
+## 結論
+- Progesterone在女性健康中扮演著關鍵角色，尤其在更年期期間其不足會導致多種症狀。
+- 野生薔薇 Yam Extract可作為一種自然療法，有效改善這些症狀，但需謹慎選擇和使用產品。
 </details>
 
 <details>
@@ -302,30 +403,59 @@
         alt="[Youtube]" width="200">
 </a>
 
-### 核心主題
-- **Summit Overview**: The summit was a significant event where the speaker and co-host, Jared, had the opportunity to connect with their audience in person.  
-- **Attendee Demographics**: Over 500 individuals from various parts of the world attended, showcasing a diverse range of experiences and backgrounds.
+### 文章整理：2018年QuitSummit會議回顧及未來計劃
 
-### 主要觀念
-- **Quality of Attendees**: The attendees were highly appreciative and shared numerous success stories, including significant transformations such as weight loss and overcoming health conditions like PCOS.  
-- **Speaker Diversification**: A wide array of speakers covered topics in nutrition, cancer, brain physiology, and memory, ensuring that each speaker catered to specific audience segments.  
+---
 
-### 問題原因
-- **Organizational Stress**: The summit required extensive preparation within a short timeframe (three months), leading to high stress levels for the organizers.  
-- **Sleep Deprivation**: The last two weeks of preparation were particularly challenging, with only a few hours of sleep each night.  
+#### 核心主題  
+- **健康與營養Conference**  
+  -QUIT Summit 是一場聚焦於酮飲食（keto diet）、營養、健康轉型的國際盛會。  
+  -吸引來自世界各地的500多名參加者，並有多位知名講師分享專業知識。
 
-### 解決方法
-- **Postponement and Planning**: Despite the challenges, another summit is planned for 2019, with preparations starting earlier in January to allow more time for organization.  
-- **Content Accessibility**: The event will be made available for purchase online, with additional resources such as a video glossary to enhance understanding of complex topics.  
+---
 
-### 健康建議
-- **Download Dr. Berg App**: The speaker recommends downloading the free Dr. Berg app, which offers comprehensive health resources including videos, audio episodes, and mini-courses.  
-- **Stay Informed**: The app provides updates on new content and additional PDF resources for further learning.  
+#### 主要觀念  
+- **參加者的正面反饋**  
+  -參加者普遍認為活動組織有序且信息豐富。  
+  -多位講師如Dr. Westman、Jackie Eber Stein、Dave Feldman等提供了多樣化的主題演講，涵蓋酮飲食的基礎知識、營養策略及健康問題的解決方案。  
 
-### 結論
-- **Positive Experience**: The summit was described as a transformative experience with a strong sense of community among attendees.  
-- **Future Plans**: Another summit is planned, reflecting the popularity and success of the event.  
-- **Technology Integration**: The Dr. Berg app serves as a tool to extend the reach and impact of the summit content beyond the physical event.
+- **成功的轉型故事**  
+  -分享了多個令人感動的成功案例，包括減重、克服疾病（如多囊卵巢綜合征PCOS）及實現生育等。這些故事激勵了參加者並展示了酮飲食的潛力。  
+
+---
+
+#### 問題與原因  
+- **籌備壓力**  
+  -QUIT Summit 的籌備過程耗時且充滿挑戰，尤其在短短三個月內完成所有準備工作，導致主辦方團隊（包括speaker和organizer）承受了巨大的精神壓力。  
+
+- **知識門檻高**  
+  -部分講座涉及複雜的主題（如膽固醇），可能需要更多背景知識才能完全理解。  
+
+---
+
+#### 解決方法  
+- **後續計劃**  
+  -主辦方決定於2019年舉辦第二届QUIT Summit，並提前籌備以降低壓力，預計將在2019年初開始規劃。  
+
+- **提升可及性與易懂性**  
+  -活動影片將會後整理為付費內容，並配備GLOSSARY（專業術語解說），幫助觀看者更好地理解所有講座內容。  
+
+---
+
+#### 健康建議  
+- **持續學習與實踐**  
+  -鼓勵參加者下載免費的Dr. Berg App，利用其豐富的視頻、.audio資源及ミニコース來進一步提升健康知識。  
+  -App還提供PDF資源，涵蓋各種健康主題的小冊子，方便隨時參考。  
+
+---
+
+#### 總結  
+- **活動成功與未來展望**  
+  -2018年QUIT Summit 成功舉辦，並成為有史以來規模最大的酮飲食相關會議之一。  
+  -主辦方感謝所有參加者及講師的參與，並期待在2019年的第二届會議中再次相聚。  
+
+- **科技助力健康教育**  
+  -Dr. Berg App 的推出進一步拓寬了健康知識的傳播渠道，幫助更多人便捷地获取信息和資源。
 </details>
 
 <details>

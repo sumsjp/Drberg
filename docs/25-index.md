@@ -1,78 +1,363 @@
 <details>
-<summary>2600. What’s So Good About Tahini Butter?</summary><br>
+<summary>2600. [2019-12-30] What’s So Good About Tahini Butter?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=UOiY4XdDnBA" target="_blank">
     <img src="https://img.youtube.com/vi/UOiY4XdDnBA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 1. 核心主題  
+Tahini Butter（芝麻糊）的特殊性及其健康益處。
 
+---
+
+### 2. 主要觀念  
+- **定義**：Tahini Butter 是由芝麻種子磨制而成，富含健康脂肪、蛋白質和多種營養成分。  
+- ** Keto  性質**：適合酮飲食，提供豐富的健康脂肪。  
+- **抗氧化特性**：含有維生素E複合物和其他脂溶性維生素（如亞油酸），有助於保護細胞，清除自由基傷害。  
+- **氨基酸優勢**：富含蛋氨酸，可防止頭髮灰白，並促進谷胱甘肽的合成，增強肝臟抗氧化能力。  
+
+---
+
+### 3. 問題原因及解決方法  
+- **問題**：現代生活方式導致 pollution 和 oxidation 經常影響人體健康。  
+- **解決方法**：通過攝取Tahini Butter 提供豐富的抗氧化營養素，幫助修復細胞並降低氧化應激。  
+
+---
+
+### 4. 健康建議  
+- **食用方式**：推薦生食以保留最大化的營養價值，例如加入沙拉醬或混合到 Hummus 中。  
+- **多樣化選擇**：因Tahini Butter風味較為清淡，可與其他坚果醬混合使用，提升口感。  
+
+---
+
+### 5. 結論  
+Tahini Butter 是一種高營養價值的食品，適合追求健康飲食的人群。其富含健康脂肪、蛋白質和多種微量元素（如維生素B1、鋅、銅、鎂、锰），有助於改善膽固醇水平、降低血壓、減輕焦慮、眩暈和頭痛。建議將其融入日常飲食中，以最大化其健康益處。
 </details>
 
 <details>
-<summary>2599. Detox and Die-Off: The Herxheimer Reaction</summary><br>
+<summary>2599. [2019-12-29] Detox and Die-Off: The Herxheimer Reaction</summary><br>
 
 <a href="https://www.youtube.com/watch?v=RW1FSIKhy7k" target="_blank">
     <img src="https://img.youtube.com/vi/RW1FSIKhy7k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納與重點整理
 
+#### 核心主題：解毒反應（Herxheimer Reaction）
+- 解毒反應是一種免疫系統對微生物分解產物的炎症反應，通常發生在使用抗生素、 Herbal remedies 或益生菌等治療後。
+- 這種反應是由免疫系統釋放的 inflammatory cytokines 所引發。
+
+#### 主要觀念：
+1. **解毒反應的定義**：它是一種因微生物死亡後释放的毒素被免疫系統識別並導致炎症反應的現象。
+2. **常見症狀**：包括類似流感的症狀，如aches, 炎性關節痛, fatigue, 喉咙疼痛, 皮疹, 肺部黏液, 咳嗽, 淋巴結腫胩, 頭痛和發燒。
+
+#### 問題原因：
+- 使用抗生素、 Herbal remedies 或益生菌治療時，微生物死亡會釋放毒素。
+- 免疫系統對這些毒素的反應引發了炎症反應。
+
+#### 解決方法：
+1. **漸進式使用療法**：建議逐步增加劑量，以测试身體的耐受性。
+2. **調整劑量**：在出現反應時，減少劑量或暫停治療，待症狀緩解後再逐步恢復。
+3. **吸附劑的使用**：如activated charcoal 或bentonite clay 可幫助吸附毒素，促進其排出。
+4. **補充微量元素**：如Molybdenum 和NAC（N-Acetylcysteine）可幫助降低毒性反應和保護肝臟功能。
+
+#### 健康建議：
+1. **逐步開始治療**：避免一次性使用過量的 Herbal remedies 或益生菌。
+2. **Monitoring 反應**：密切注意身體症狀，及時調整治療方案。
+3. **準備吸附劑**：在進行 detox 程序時，準備activated charcoal或bentonite clay作為應急措施。
+
+#### 結論：
+- 解毒反應是免疫系統對毒素的自然反應，但其症狀可能影響日常生活。
+- 通過漸進式的治療、適當的劑量調整和使用吸附劑等方法，可以有效管理解毒反應。
+- 使用 Herbal remedies 時需謹慎，建議在專業指導下進行。
 </details>
 
 <details>
-<summary>2598. The Amazing Benefits of Alpha-Lipoic Acid</summary><br>
+<summary>2598. [2019-12-29] The Amazing Benefits of Alpha-Lipoic Acid</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KGnzlkx1rcs" target="_blank">
     <img src="https://img.youtube.com/vi/KGnzlkx1rcs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- **抗氧化劑的作用**：介紹α-硫辛酸（alpha-lipoic acid）作為一種強大的抗氧化劑，其在人體中的功能和作用機制。
 
+### 主要觀念  
+1. **α-硫辛酸的來源**：  
+   - 可由人體自行合成。  
+   - 也存在於某些食物中，如紅肉和特定蔬菜。  
+   - 补充劑形式攝取量遠高於人體自身生產量。
+
+2. **抗氧化劑網絡的作用**：  
+   - α-硫辛酸幫助其他抗氧化劑（如谷胱甘肅、維生素E）再生，形成 antioxidants 的互補作用網絡。  
+
+3. **生理功能**：  
+   - 減輕氧化應激，保護組織免受自由基傷害。  
+   - 調控血糖水平，降低血液中糖分。  
+   - 促進神經保護，特別是在神經鞘（myelin sheath）的健康維護中。  
+
+4. **解毒功能**：  
+   - 具有螯合作用，幫助排除體內重金屬如汞。  
+
+5. **能量生產支持**：  
+   - 促進線粒体功能，提高能量生成效率。  
+
+### 問題原因  
+- 氧化應激：自由基過多導致的acellular 損害，引發 각종疾病（如糖尿病、神經退行性疾病）。  
+- 重金屬中毒：汞等有害物質的สะสม對健康的影響。  
+- 神經系統問題：周圍神經病變和自身免疫疾病（如多發性硬化症）導致的神經損傷。  
+
+### 解決方法  
+1. **抗氧化劑補充**：  
+   - 通過攝取α-硫辛酸來增強抗氧化能力，保護組織免受自由基侵害。  
+
+2. **螯合治療**：  
+   - 使用α-硫辛酸螯合重金屬，促進其排出體外。  
+
+3. **神經保護**：  
+   - 減輕神經退行性疾病和周圍神經病變的症狀，改善神經功能。  
+
+4. **血糖調控**：  
+   - 降低血液中的糖分，對糖尿病患者有益。  
+
+### 健康建議  
+1. **劑量建議**：  
+   - 每日攝取600毫克，分三次服用。  
+   - 空腹服用以提高吸收效果。  
+
+2. **用藥注意**：  
+   - 避免與食物同服，以防止競爭吸收。  
+   - 建議自行研究品牌，選擇信譽良好的廠商。  
+
+3. **綜合療法**：  
+   - 可與其他神經保護劑（如苯 Fotiamine）聯合使用，增強效果。  
+
+### 結論  
+α-硫辛酸是一種多功能性化合物，具備抗氧化、抗炎和解毒等多重作用。它能有效降低氧化應激對身體的影響，特別是在神經保护和血糖調控方面表現突出。適當補充α-硫辛酸可作為維持整體健康的重要策略之一，但需遵循劑量建議並注意用藥方式。
 </details>
 
 <details>
-<summary>2597. The Sodium-Potassium Ratio is More Important Than a Low Sodium Diet</summary><br>
+<summary>2597. [2019-12-28] The Sodium-Potassium Ratio is More Important Than a Low Sodium Diet</summary><br>
 
 <a href="https://www.youtube.com/watch?v=z4MFnrMpzBA" target="_blank">
     <img src="https://img.youtube.com/vi/z4MFnrMpzBA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理
 
+1. **核心主題**  
+   - 文章主要探討 sodium 和 potassium 的比例對健康的影響，強調其對於血壓、心血管健康的重要性。
+
+2. **主要觀念**  
+   - 高 sodium 取與低 potassium 摄取會導致血壓升高及心臟病風險增加。  
+   - 理想的 sodium 与 potassium 比例為 1:2 至 1:4，而非常見的反比例。
+
+3. **問題原因**  
+   - 現代飲食中 sodium 含量過高（如加工食品、速食等），而 potassium 含量相對不足。  
+   - 零食和加工食品中添加了大量 sodium chloride 和 MSG，進一步增加 sodium 負荷。  
+   - 碳水化合物攝取過多導致 potassium 水平下降。
+
+4. **數據支持**  
+   - 平均每日建議攝取量：  
+     - Potassium: 4,700 mg  
+     - Sodium: 2,300 mg  
+   - 常見食物中的 sodium 含量：  
+     - 一盎司的面包含 210 mg sodium。  
+     - 八盎司的 V8 西紅柿汁含超過 1,000 mg sodium。  
+     - 一罐番茄湯含 1,260 mg sodium。
+
+5. **健康建議**  
+   - 確保 sodium 和 potassium 的攝取比例為 1:2 至 1:4，甚至更高以改善血壓問題。  
+   - 減少加工食品和高 sodium 食物的攝取（如沙拉醬、披薩、罐頭湯）。  
+   - 增加蔬菜攝取量以提升 potassium 含量。  
+   - 使用天然海鹽而非精製鹽，並注意食品中潛在的MSG添加。
+
+6. **結論**  
+   - Sodium 和 potassium 的比例比單一礦物質的攝取更重要。  
+   - 調整飲食結構至適當比例可有效降低血壓並預防心血管疾病。  
+   - 改善此比例需要時間，建議逐步調整飲食習慣。
 </details>
 
 <details>
-<summary>2596. Will Eating More Fat Knock Me Out of Ketosis?</summary><br>
+<summary>2596. [2019-12-28] Will Eating More Fat Knock Me Out of Ketosis?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=mp3mBSvsRQ4" target="_blank">
     <img src="https://img.youtube.com/vi/mp3mBSvsRQ4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 探讨摄入更多脂肪是否会使人退出酮症状态。
+- 讨论酮症状态下体重变化的可能性及原因。
 
+### 主要觀念
+1. **酮症的本质**：  
+   酮症是通过燃烧体内脂肪产生酮体（ketones）作为能量来源的状态，尤其对大脑和认知功能有益。  
+
+2. **脂肪摄入与酮症的关系**：  
+   高脂饮食（如生酮饮食，70%热量来自脂肪）中的脂肪可以转化为酮体，但过量的外源性脂肪可能导致身体减少分解自身脂肪以生成酮体。
+
+3. **酮症与体重变化**：  
+   即使在酮症状态下，也可能出现体重停滞或无明显下降的情况，这取决于个人代谢速度和摄入的脂肪量。  
+
+### 問題原因
+- **过多外源性脂肪的影响**：  
+  过量摄入额外脂肪（如MCT油、椰子油、黄油等）可能导致身体优先利用这些外部脂肪来源，减少分解体内储存的脂肪以生成酮体。
+
+- **代谢速率差异**：  
+  不同个体的代谢速度不同，某些人可能在高脂饮食中更倾向于保持体重而非减重。  
+
+### 解决方法
+1. **调整脂肪摄入量**：  
+   - 减少额外脂肪的添加（如MCT油、椰子油等）。  
+   - 确保主要热量来自全食物中的蛋白质和脂肪，避免单纯增加外源性脂肪。
+
+2. **增加运动量**：  
+   通过规律的运动消耗更多热量，帮助突破体重停滞期。  
+
+3. **延长禁食时间**：  
+   进行间歇性断食（如16:8模式）或更长时间的禁食，促进体内脂肪分解和酮体生成。  
+
+4. **监测与调整**：  
+   定期监测体重变化和酮症状态，根据实际情况调整饮食计划。  
+
+### 健康建議
+- **饮食结构优化**：  
+  优先选择全食物来源的蛋白质和健康脂肪（如鸡蛋、坚果、橄榄油等），避免过度依赖MCT油或其他加工脂肪产品。
+
+- **个性化调整**：  
+  酮症饮食效果因人而异，建议根据自身情况测试不同策略（如减少脂肪摄入量或增加运动）以找到最佳解决方案。  
+
+- **结合生活方式**：  
+  配合规律的运动和合理的禁食计划，以提高酮症状态下的减重效果。  
+
+### 結論
+- 吃更多脂肪不会直接使人退出酮症，但可能会影响体重变化。
+- 要实现有效的体重管理，需综合考虑饮食结构、代谢速率和个人生活方式。
+- 酮症饮食的成功与否取决于个性化调整和多方面策略的结合。
+
+通过以上整理，可以看出本文主要探讨了高脂饮食对酮症状态的影响及其对体重变化的潜在影响，并提供了一系列针对性的解决方案。
 </details>
 
 <details>
-<summary>2595. What is Restless Leg Syndrome – Dr.Berg on Thiamine Deficiency and Restless Leg Syndrome Connection</summary><br>
+<summary>2595. [2019-12-27] What is Restless Leg Syndrome – Dr.Berg on Thiamine Deficiency and Restless Leg Syndrome Connection</summary><br>
 
 <a href="https://www.youtube.com/watch?v=sJxLymQn0s0" target="_blank">
     <img src="https://img.youtube.com/vi/sJxLymQn0s0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- **不安腿症候群（Restless Leg Syndrome, RLS）**：一種影響睡眠和導致不適感的病症。
+- **B1硫胺素（Thiamine） deficiency**：被提出為導致該病症的主要原因之一。
+
+#### 主要觀念
+- B1硫胺素在能量生產、神經功能和代謝中扮演重要角色。
+- RLS與其他運動控制障礙（如Akathisia 和Tardive Dyskinesia）有相似症狀，可能與B1缺乏有關。
+- B1缺乏還可能影響多巴胺的合成，進而導致注意力缺損超動症（ADHD）。
+
+#### 問題原因
+- **能量生產不足**：B1缺乏會干擾Krebs循環，降低ATP生成，影響神經系統功能。
+- **神經過敏與萎縮**：長期缺乏B1可導致神經炎和外周神經病，初期為刺痛或灼燒感，后期可能引發運動控制障礙。
+- **多巴胺合成不足**：B1是合成多巴胺的必要營養素，缺乏會影響注意力和行為控制。
+
+#### 解決方法
+- **補充B1**：建議攝入富含B1的食物或サプリメント。
+- **改善飲食習慣**：避免過量攝取精緻糖分和高級碳水化合物，這些食物會耗損B1。
+- **整合其他營養素**：如鋅、葉酸和EPA（魚油中的ω-3脂肪酸）可幫助緩解症狀。
+
+#### 健康建議
+- **飲食來源**：優質的自然B1來源包括酵母提取物（nutritional yeast）。
+- **生活調整**：避免長期使用可能導致B1缺乏的藥物，並注意均衡飲食以維持神經健康。
+
+#### 結論
+- B1硫胺素 deficiency 是導致不安腿症候群和其他運動控制障礙的主要原因之一。
+- 通過補充B1並改善生活習慣，可以有效緩解這些症狀，提升整體健康水平。
 </details>
 
 <details>
-<summary>2594. 5 Weird Things That Trigger Excessive Sneezing</summary><br>
+<summary>2594. [2019-12-27] 5 Weird Things That Trigger Excessive Sneezing</summary><br>
 
 <a href="https://www.youtube.com/watch?v=tY4xF6mf6mQ" target="_blank">
     <img src="https://img.youtube.com/vi/tY4xF6mf6mQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **過敏與反射反應**：探討導致過度打噴嚏的五種不常見因素。
+- **生理機制**：解釋打噴嚏的生物學原理。
 
+---
+
+### 主要觀念
+1. **打噴嚏的生理機制**：
+   - 打噴嚏是由鼻腔黏膜受刺激後引發的反射動作。
+   - 涉及的神經路徑包括腦幹、膈肌和胸肌肉，最終導致快速吸入空氣並猛烈排出。
+
+2. **五種不常見的致嚏因素**：
+   - **口服避孕藥**：可能損害肝臟，間接引發打噴嚏。
+   - **肝臟與膽囊 congestion**：肝臟或膽囊問題可能影響呼吸系統，導致打噴嚏。
+   - **光敏感性打噴嚏（ photic sneeze reflex）**：部分人在陽光下會打噴嚏，原因尚不完全明了。
+   - **低 thyroid 條件**（ hypothyroidism）：低 thyroid 功能可能影響免疫系統，導致過度打喷嚏。
+   - **暴飲暴食**：可能加重肝臟與膽囊負擔，引發打噴嚏。
+
+---
+
+### 問題原因
+- **口服避孕藥**：
+  - 可能損害肝臟，間接影響鼻腔黏膜，導致打噴嚏。
+  
+- **光敏感性打噴嚏（ photic sneeze reflex）**：
+  - 神經學機制不明，可能涉及視覺和嗅覺神經的交叉反應。
+
+- **低 thyroid 條件**：
+  - 濕疹或免疫系統異常可能與鼻腔過敏反應有關。
+
+- **環境化學物質**：
+  - 香水中的有毒成分（如苯甲醛、甲基丙烯酸甲酯等）可能引發過敏或毒性反應，導致打噴嚏。
+
+---
+
+### 解決方法
+1. **針對口服避孕藥**：
+   - 考慮其他避孕方式，並諮詢醫生評估肝臟健康狀況。
+
+2. **肝臟與膽囊 health**：
+   - 保持良好的飲食習慣，避免過度攝食，並定期檢查肝功能。
+
+3. **光敏感性打噴嚏**：
+   - 戴太陽眼鏡或遮阳帽以減少光線刺激。
+   - 使用抗組織胺藥物來控制症狀。
+
+4. **低 thyroid 條件**：
+   - 調整甲状腺激素水平，並治療相關的免疫系統問題。
+
+5. **環境化學物質**：
+   - 避免接觸有毒香水和其他化妝品。
+   - 使用天然香薰或無毒產品。
+
+---
+
+### 健康建議
+- **減少化學暴露**：
+  - 檢查家中使用的香水和清潔劑，選擇低 toxicity 或無毒產品。
+  
+- **飲食與生活方式**：
+  - 避免暴飲暴食，保持均衡飲食，並定期進行體檢。
+
+- **個人防護**：
+  - 在陽光强烈時使用太陽眼鏡，減少光線刺激。
+
+---
+
+### 結論
+打噴嚏不僅是簡單的呼吸道反應，還可能與多種不常見因素有關。了解這些原因並採取適當措施，可以有效改善症狀，提升整體健康水平。
 </details>
 
 <details>

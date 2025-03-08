@@ -13,7 +13,7 @@ from datetime import datetime
 from lib.mytube import download_subtitle, get_video_list
 from lib.myai import get_summary
 from lib.mylog import setup_logger
-from .verify_chinese import detect_chinese
+from verify_chinese import detect_chinese
 
 # 設定 logger
 logger = setup_logger('youtube_update')
