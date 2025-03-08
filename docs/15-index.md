@@ -98,36 +98,134 @@
 </details>
 
 <details>
-<summary>1591. The Answer To Obesity Is In The Food Statistics – Dr. Berg</summary><br>
+<summary>1591. [2018-06-30] The Answer To Obesity Is In The Food Statistics – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Erk4_jFDjzQ" target="_blank">
     <img src="https://img.youtube.com/vi/Erk4_jFDjzQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理與分析
 
+#### 核心主題
+- **肥胖率上升**：自1970年起，美國成年人肥胖率已增加三倍，兒童肥胖率幾乎也增加了三倍。
+- **飲食結構問題**：分析2014年美國人平均每日攝取量，探討導致肥胖的主要因素。
+
+#### 主要數據與事實
+- **蔬菜攝取量**：平均每人每天攝取1.6杯蔬菜，遠低於建議的7至10杯。
+- **脂肪攝取量**：
+  - 總脂肪：63克/天。
+  - 饱和脂肪：14.7克/天。
+- **穀物攝取量**：平均每人每天攝取0.48磅（約半磅）穀物，折合每年174磅。
+- **糖分攝取量**：每日攝取23茶匙添加糖，折合每年131磅。
+
+#### 問題原因
+- **蔬菜攝取不足**：每日攝取量遠低於建議值，導致膳食纖維和其他營養素攝取不足。
+- **脂肪攝取過高**：
+  - 總脂肪攝取量偏高，尤其是來自大豆油、芥花籽油和玉米油等转基因作物的植物油。
+  - 饱和脂肪攝取量雖低，但來源可能為不健康加工食品。
+- **穀物攝取過多**：每日半磅的穀物攝取量偏高，且主要為精制穀物，易導致血糖波動和營養失衡。
+- **糖分攝取過高**：每日23茶匙添加糖攝取量遠超建議值（少於10茶匙），增加肥胖和相關疾病的風險。
+
+#### 解決方法
+- **增加蔬菜攝取**：提升至每日7至10杯，以補充膳食纖維和必要營養素。
+- **降低植物油攝取**：減少使用大豆油、芥花籽油和玉米油等转基因作物來源的油，改用更健康的脂肪來源（如橄欽果油或坚果）。
+- **控制穀物攝取量**：將每日攝取量降至更合理的水平，並增加全穀物的比例。
+- **減少添加糖攝取**：每日攝取量應低於10茶匙，選擇天然甜味來源（如水果）。
+
+#### 健康建議
+- **飲食結構調整**：
+  - 提高蔬菜攝取比例，降低精制碳水化合物和添加糖的攝取。
+  - 選擇健康脂肪來源，避免過量食用植物油。
+- **生活方式改善**：
+  - 舉動更多身體活動，配合飲食控制以達到能量平衡。
+  - 建立良好的飲食習慣，避免過度依賴加工食品。
+
+#### 結論
+- 達標肥胖率的上升與不良飲食結構密切相關，尤其是蔬菜攝取不足、脂肪和糖分攝取過高。
+- 改善飲食結構是解決問題的關鍵，需增加蔬菜攝取、降低不健康脂肪和糖分的攝入，並配合健康的生活方式。
 </details>
 
 <details>
-<summary>1590. Quick Relief For Shoulder Pain – Acupressure Points For Shoulder Pain Relief – Dr. Berg</summary><br>
+<summary>1590. [2018-06-30] Quick Relief For Shoulder Pain – Acupressure Points For Shoulder Pain Relief – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=4Q5UP3YrV_k" target="_blank">
     <img src="https://img.youtube.com/vi/4Q5UP3YrV_k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：肩部問題的處理與相關技術
 
+#### 核心主題
+- 肩膀問題的快速治療方法。
+- 介紹一種針對肩部問題的新型按摩技術。
+
+#### 主要觀念
+1. **肩部活動受限**：肩部疼痛或活動受限制是常見問題，通常影響日常生活。
+2. **創新療法**：此技術不同於傳統_methods_，著重於通過按摩對側小腿來緩解肩部不適。
+3. **神經系統連接**： shoulder and foot are connected through the nervous system, allowing manipulation of one area to affect another.
+
+#### 問題原因
+- 肩膀疼痛或僵硬可能是由多種因素引起的，包括肌肉痙攣、神經壓迫或其他結構性問題。
+- 傳統治療可能效果有限，需探索新的方法。
+
+#### 解決方法
+1. **按摩對側小腿**：
+   - 操作步驟：患者臥於腹部，按摩 therapists 針對對側腿的阿基里斯腱進行按摩，持續約1-2分鐘。
+   - 理論基礎：通過刺激神經系統，改善肩部和腿部的連繫，從而緩解肩部不適。
+
+2. **評估效果**：
+   - 在操作前後評估肩部活動範圍，以量化治療效果。
+
+#### 健康建議
+- **早期干預**：及時處理肩部問題，避免情況惡化。
+- **專業諮詢**：若此方法無效，建議進一步檢查是否為膽囊問題或其他潛在的健康隱患。
+- **持續治療**：可結合其他療法（如膽囊按摩）以獲得更好的效果。
+
+#### 結論
+- 此技術提供了一種簡單有效的肩部疼痛緩解方法。
+- 需根據個人情況調整治療，並在必要時尋求進一步的專業幫助。
+
+---
+
+此整理結構清晰地展示了文章的核心內容，涵蓋了問題分析、解決方案及健康建議等多個方面。
 </details>
 
 <details>
-<summary>1589. Quick Fix for Knee Pain Relief – Dr. Berg</summary><br>
+<summary>1589. [2018-06-28] Quick Fix for Knee Pain Relief – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=rrR9mo_squk" target="_blank">
     <img src="https://img.youtube.com/vi/rrR9mo_squk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：膝蓋疼痛的簡單測試與快速恢復方法
 
+#### 主要觀念：
+1. **膝蓋疼痛的原因**：膝蓋疼痛可能由腿部肌肉不平衡或弱點導致，特別是股四頭肌（Quadriceps femoris）和髖屈肌群（如骼腰肌Psoas major）的不協調。
+2. **測試方法**：
+   - **蹲下姿勢**：患者站立後慢慢蹲下至膝蓋感到疼痛的位置。
+   - **抬腿力量測試**：檢查腿部肌肉力量是否平衡，特別是股四頭肌和髖屈肌群的力量對比。
+
+#### 問題原因：
+1. 股四頭肌和髖屈肌群的不平衡或弱點會導致步態異常，進而加劇膝蓋的磨損。
+2. 可能由外傷（如跌倒）或其他不明因素引發。
+
+#### 解决方法：
+1. **按摩治療**：針對對側股四頭肌和髖屈肌群進行深度按揉，特別是肌肉結節部位，以恢復肌肉張力和靈活性。
+2. **力量訓練**：通過抬腿 resistance 電療來增強弱點肌肉的力量，改善肌肉平衡。
+
+#### 健康建議：
+1. 定期進行腿部肌肉評估，早期發現肌肉不平衡問題。
+2. 進行針對性按摩或物理治療以緩解肌群緊張和疼痛。
+3. 練習抬腿動作來增強股四頭肌和髖屈肌群的力量。
+
+#### 結論：
+膝蓋疼痛可能源於腿部和髖部肌肉的不平衡。通過簡單的測試可以快速診斷問題所在，並利用按摩和力量訓練來恢復肌肉平衡，從而有效緩解膝蓋疼痛。此方法不僅操作簡便，且效果顯著，適合自行或在他人幫助下進行。
+
+---
+
+此整理結構清晰地展示了文章的核心內容，並使用了正式的學術用語，提供了客觀且有條理的分析與建議。
 </details>
 
 <details>
@@ -142,80 +240,352 @@
 </details>
 
 <details>
-<summary>1587. What Is Inositol? – Dr. Berg</summary><br>
+<summary>1587. [2018-06-27] What Is Inositol? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=OcMIipPq-lA" target="_blank">
     <img src="https://img.youtube.com/vi/OcMIipPq-lA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：Inositol的功效與應用
 
+#### 核心主題
+- Inositol（肌醇）是一種B族維生素（B-vitamin），具有降低胰島素抵抗作用，被廣泛研究用於治療多種代謝和神經相關疾病。
+
+#### 主要觀念
+1. **Inositol的生物學功能**：
+   - 作為一種關鍵的營養素，Inositol在細胞膜中發揮重要作用。
+   - 與胰島素受體相互作用，增強其活性，從而改善胰島素敏感性。
+
+2. **臨床應用**：
+   - **多囊卵巢綜合征（PCOS）**：通過降低胰島素抵抗，Inositol可幫助恢復 ovarian功能，改善與高胰島素血症相關的症狀。
+   - **痤瘡**：降低胰島素水平，抑制雄性激素過度分泌，從而減少痤瘡的發生。
+   - **神經病變（Neuropathy）**：改善神經功能受損，特別是有糖尿病引起的周邊神經病。
+   - **脂質異常**：通過提升胰島素敏感性，降低血清膽固醇水平。
+
+3. **其他健康益處**：
+   - **腎石風險降低**：可能與改善代謝有關。
+   - **月經不調**：幫助調節婦女的月經週期。
+   - **神經傳導物質合成**：促進神經遞質的生成，改善情緒紊亂。
+
+#### 問題原因
+- 高胰島素血症（Hyperinsulinemia）是導致多囊卵巢綜合征、痤瘡等一系列代謝疾病的根本原因之一。胰島素抵抗使身體細胞對胰島素的反應降低，導致血糖無法有效利用，最終引發代謝紊亂。
+
+#### 解決方法
+- **Inositol補充**：通過攝取Inositol（如IP6），改善胰島素敏感性，降低相關疾病風險。
+- **飲食結構調整**：配合健康酮飲食和阿曼達斷食法（Andman Fasting），進一步提升療效。
+
+#### 健康建議
+1. 推薦型別：
+   - 選擇名為IP6的Inositol形式，因其含有的低聚棓酸（Phytic Acid）具有抗氧化特性，並能清除過量鐵質。
+
+2. 使用效果：
+   - 在配合健康飲食和斷食法的情況下，IP6可顯著改善胰島素抵抗相關症狀，降低腫瘤發生風險，調節月經周期，並提升整體代謝功能。
+
+3. 注意事項：
+   - 適當劑量：需遵醫囑使用，避免過量攝取。
+   - 綜合治療：建議結合生活方式調整和藥物治療，以達到最佳療效。
+
+#### 結論
+- Inositol（尤其是IP6形式）是一種有效的營養補充劑，可通過改善胰島素抵抗來治療多囊卵巢綜合征、痤瘡等代謝疾病。其抗氧化特性進一步降低了腫瘤風險，具有廣泛的臨床應用前景。
+
+---
+
+### 參考資料
+- IP6（Inositol Hexaphosphate）：一種含有多磷酸根的肌醇形式，具有抗氧化和螯合作用。
+- 膵島素抵抗（Insulin Resistance）：身體細胞對胰島素的反應降低，導致血糖利用障礙。
 </details>
 
 <details>
-<summary>1586. What's Healthy About Heart Healthy Whole Grains? – Dr. Berg</summary><br>
+<summary>1586. [2018-06-27] What's Healthy About Heart Healthy Whole Grains? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=31yrGhayPG0" target="_blank">
     <img src="https://img.youtube.com/vi/31yrGhayPG0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：整粒穀物與心臟健康
 
+#### 核心主題：
+- 探讨整粒穀物（whole grains）的定義、構成及其對心臟健康的影響。
+
+#### 主要觀念：
+1. **整粒穀物的定義**：
+   - 美國谷物化學家協會將整粒穀物定義為包含胚芽（germ）、糠皮（bran）和胚乳（endosperm）的混合物，且比例與完整穀粒一致。
+   - 根據美國食品藥品監督管理局（FDA），只要含有51%以上的上述三部分即可稱為整粒穀物。
+
+2. **整粒穀物的結構**：
+   - **糠皮（Bran）**：富含膳食纖維、微量礦物質和B群維生素。
+   - **胚芽（Germ）**：含有B群維生素、維生素E、微量礦物質、植物化學物和健康脂肪。
+   - **胚乳（Endosperm）**：主要為碳水化合物，少量B群維生素。
+
+3. **加工對整粒穀物的影響**：
+   - 磨碎後重新組合的整粒穀物仍暴露於氧氣中，導致维生素E等敏感營養成分氧化變質。
+   - 加工過程中常添加防腐劑以延長保存期限。
+
+4. **市售產品問題**：
+   - 多數消費者購買的是磨碎後的成品，而非完整穀粒。
+   - 许多加工食品（如麥片）中添加了大量糖分和化學物質，影響其健康價值。
+
+#### 問題原因：
+- 加工過程破壞了整粒穀物的營養成分，特別是易氧化的脂溶性維生素和植物化學物。
+- 市售產品常添加糖分和其他不健康成分，削弱其心臟健康的功效。
+
+#### 解決方法：
+1. **選擇未精緻加工的穀物**：
+   - 選擇完整穀粒並自行浸泡、烹調，以保留更多營養成分。
+   
+2. **限制高糖食品攝取**：
+   - 檢查食品標籤，避免含有大量添加糖的整粒穀物產品。
+
+3. **了解酮ogenic飲食中的穀物攝取**：
+   - 約束整粒穀物在低碳水化合物飲食中的份量，因其碳水化合物含量高，可能影響血糖控制。
+
+#### 健康建議：
+- 選擇未加工的完整穀粒，並以適當方式烹調。
+- 消費者應注意食品標籤，避免過度加工及添加糖分高的產品。
+- 在酮ogenic飲食中限制整粒穀物攝取，或選擇低血糖指數的替代品。
+
+#### 結論：
+- 整粒穀物本身具有一定的營養價值，但其健康效益取決於加工方式和食用方法。
+- 遭受過度加工及添加糖分的產品不宜視為心臟健康的佳餚。
+- 消費者需謹慎選擇，以最大化整粒穀物的營養益處。
 </details>
 
 <details>
-<summary>1585. Quick Tip To Get Kids Off Sugar – Dr. Berg</summary><br>
+<summary>1585. [2018-06-26] Quick Tip To Get Kids Off Sugar – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=JcB2l4wsgDI" target="_blank">
     <img src="https://img.youtube.com/vi/JcB2l4wsgDI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+一、核心主題  
+1. 减少儿童摄入添加糖的重要性。  
+2. 通过酮饮食帮助儿童从燃烧糖转变为燃烧脂肪，改善健康状况。  
 
+二、主要觀念  
+1. 平均每名兒童每年攝取66磅的添加糖，未包括隱藏糖分（如面包、意大利面、燕麥等）。  
+2. 添加糖存在于多種食物和飲料中，如甜牛奶、茶、果汁、汽水、運動飲品、醬汁、醃肉等。  
+3. 糖分攝取會導致血糖波動、情緒不穩及認知功能受影響。  
+
+三、問題原因  
+1. 添加糖的攝取量過高，影響兒童健康。  
+2. 違反酮飲食原則，微量胰島素即可抑制酮合成。  
+3. 渐進式减糖效果不佳，兒童仍會有糖分渴望及血糖波動。  
+
+四、解決方法  
+1. 逐步以酮友好的食物代替含糖零食，如酮餅乾、無糖巧克力等。  
+2. 使用甜味劑（如羅漢果、赤藻糖醇或營養酵母）來模擬糖分口感。  
+3. 制作酮飲食食譜，鼓勵兒童參與食物製作，增加接受度。  
+4. 在兩到三天內移除家中所有含糖及隱藏糖的食物，提供酮友好的替代品。  
+
+五、健康建議  
+1. 選擇無糖或低糖的飲料和食品，避免隱藏糖分攝取。  
+2. 提供兒童酮友好的零食作為甜點，取代傳統高糖零食。  
+3. 減少精緻碳水化合物的攝取，如法式 fries 和白麵包。  
+4. 鼓勵兒童參與食物製作，增強對健康飲食的接受度。  
+
+六、結論  
+1. 通过酮飲食幫助兒童戒除糖分，可顯著改善情緒和認知功能。  
+2. 減糖需採取劇烈行動，完全移除含糖食品，提供酮友好的替代品。  
+3. 準備充足的酮飲食食譜，逐步實現健康飲食的轉變。
 </details>
 
 <details>
-<summary>1584. What is Xylitol? – Dr. Berg</summary><br>
+<summary>1584. [2018-06-26] What is Xylitol? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=cz4V4W6ntGc" target="_blank">
     <img src="https://img.youtube.com/vi/cz4V4W6ntGc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 重點整理：Xylitol 的核心主題與相關信息
 
+#### 核心主題：
+- Xylitol 是一種低GI（glycemic index）的甜味劑，具有多種健康益處和潛在風險。
+
+#### 主要觀念：
+1. **感官特性**：
+   - Xylitol 的味道接近於糖，且沒有明顯的後味。
+   
+2. **牙齒健康管理**：
+   - 能有效降低蛀牙的風險，因其性質有助於抑制有害細菌的生長。
+
+3. **血糖影響**：
+   - 低GI值（約7至30），對血糖水平的影響較小。
+   - 在大劑量攝取時，可能引起血糖波動。
+
+4. **消化道問題**：
+   - 高劑量攝取（如50-65克）可能导致腹脹、氣體和消化不適。
+   
+5. **動物毒理學警示**：
+   - 對狗具有毒性，需妥善存放以避免意外攝食。
+
+6. **工業來源與安全性考量**：
+   - 常見於車用甘油（常源自GMO玉米），可能暴露於農藥污染物。
+   - 選擇非 GMO 且有機產製的Xylitol為佳。
+
+#### 問題原因：
+- **狗的毒性**：Xylitol對犬類有毒，主要影響血糖調節。
+- **工業來源污染**：部分Xylitol產自基因改造玉米，可能暴露於農藥残留。
+- **高劑量攝取風險**：超過建議攝取量可能导致消化不適。
+
+#### 解決方法：
+1. **安全存放**：
+   - 將Xylitol存放在兒童和寵物無法触及的地方，如高架 shelf。
+   
+2. **選擇產品時的注意事項**：
+   - 選擇標示為「非 GMO」或「有機」的Xylitol，避免來源不明的產品。
+
+3. **劑量控制**：
+   - 遵循推薦攝取量，避免一次性過量攝取。
+
+#### 健康建議：
+- 在使用Xylitol時，謹記其雖有益處，但需注意劑量和來源。特別是對寵物的風險，必須予以高度重視。
+  
+#### 結論：
+Xylitol 是一種具有多方面應用價值且相對安全的甜味劑，但在使用上仍需謹慎，特別是在劑量控制和產品來源選擇上。消費者應該提高警覺，並採取適當措施確保其安全性。
 </details>
 
 <details>
-<summary>1583. What Is Erythritol? – Dr. Berg</summary><br>
+<summary>1583. [2018-06-25] What Is Erythritol? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=-iSy1nDxovo" target="_blank">
     <img src="https://img.youtube.com/vi/-iSy1nDxovo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：Wreathitol（ wreath rotol）作为一种替代甜味剂的优缺点分析
 
+#### 主要觀念：
+1. Wreathitol是一种糖醇类物质。
+2. 它具有70%的蔗糖甜度，且不含酒精。
+3. 具有冷却感官效果。
+4. 在血糖指数上为零，不会增加血糖水平。
+
+#### 問題原因：
+1. 虽然Wreathitol不易被口腔细菌分解，减少蛀牙风险，但在大量摄入时可能引起胃肠道不适。
+2. 部分产品中添加了菊粉（Inulin），这种可溶性纤维可能导致更多的胀气和 bloating。
+3. 大部分Wreathitol来源于转基因玉米（GMO），存在 glyphosate 等除草剂残留的问题。
+
+#### 解决方法：
+1. 选择非转基因来源的Wreathitol产品，避免 GMO 的潜在健康风险。
+2. 减少同时摄入菊粉的产品，以降低胃肠道不适的可能性。
+3. 控制Wreathitol的摄入量，在适量范围内使用。
+
+#### 健康建議：
+1. 在小剂量下，Wreathitol可以作为安全的替代甜味剂。
+2. 注意产品成分表，避免过多菊粉的存在。
+3. 优先选择非GMO认证的产品以减少健康风险。
+
+#### 結論：
+Wreathitol作为一种替代甜味剂，在提供甜味和热量控制方面具有优势。然而，其潜在的问题主要来自于转基因来源的原料以及可能添加的菊粉成分。消费者应谨慎选择产品，并注意适量使用，以最大化其益处并减少健康风险。
 </details>
 
 <details>
-<summary>1582. Head Injury and Concussion? Do This Acupressure for Head Trauma – Dr. Berg</summary><br>
+<summary>1582. [2018-06-25] Head Injury and Concussion? Do This Acupressure for Head Trauma – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=uOTZ60s1k3Q" target="_blank">
     <img src="https://img.youtube.com/vi/uOTZ60s1k3Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：頭部受傷與足量壓力技巧及飲食建議
 
+#### 1. 核心主題
+- 談論頭部受傷後的處理方法，介紹一種名為「面按」（Acupressure）的技術。
+- 推介兩本關於生酮饮食（Ketogenic Diet）的书籍。
+
+#### 2. 主要觀念
+- 頭部受傷可能導致長期疼痛和緊張，壓力積累在頭骨的縫合處。
+- 生酮飲食能有效幫助減重並改善身體健康問題。
+
+#### 3. 問題原因
+- 頭部受傷（如交通事故、跌倒、擊打）後， tension 可能在頭骨的 sutures 处積累，導致持續性疼痛或沉重感。
+- 生酮飲食可能因個人體質不同而效果不佳，甚至引發副作用。
+
+#### 4. 解決方法
+##### 頭部受傷處理：
+1. **面按技巧**：
+   - 使用拇指向上 pressing 和 inching 的方式，將頭骨的壓力逐步釋放至頭部中央。
+   - 根據受傷位置（如額頭、鼻部或後腦勺），針對性地施壓。
+   - 施壓時，建議對受傷部位及其對側部位進行按壓以平衡 tension。
+
+2. **身體健康調整**：
+   - 調整飲食結構，采用生酮飲食。
+   - 結合間歇性禁食以提高效果。
+
+##### 生酮飲食建議：
+1. **正確執行**：
+   - 避免常見副作用（如 Keto Flu, 腎臟問題等）需注意營養均衡。
+   - 強調「健康酮症」的概念，避免過度追求減重而忽視整體健康。
+
+2. **個人化調整**：
+   - 根據不同身體類型和健康狀況選擇適合的飲食計劃。
+   - 考慮 inflammation 和 stress 等因素，進行個別化設定。
+
+#### 5. 健康建議
+- 頭部受傷後及時處理可有效減輕症狀，恢復頭部舒適感。
+- 生酮飲食需在專業指導下執行，並注意身體的反饋調整。
+
+#### 6. 結論
+- 面按技巧和適當的飲食計劃能幫助受傷者恢復健康。
+- 推介兩本相關书籍以提供理論支撐和實踐指南。
 </details>
 
 <details>
-<summary>1581. Why Can A Fatty Liver Slow Your Thyroid (Hypothyroid)? – Dr. Berg</summary><br>
+<summary>1581. [2018-06-24] Why Can A Fatty Liver Slow Your Thyroid (Hypothyroid)? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XFzxXfi5JzM" target="_blank">
     <img src="https://img.youtube.com/vi/XFzxXfi5JzM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **非代償性脂肪肝（Non-Alcoholic Fatty Liver Disease, NAFLD）**：由高糖分攝入或酒精濫用引發的肝臟脂肪堆積。
+- **甲狀腺功能減退症（Hypothyroidism）**：肝臟損害影響甲狀腺激素轉換，導致活性不足。
 
+### 主要觀念
+1. **代謝與肝臟健康**：
+   - 高胰島素血症：來源於過多精緻碳水化合物攝取和頻繁進食。
+   - 腺嘌呤核苷酸（AMP）活化蛋白 kinase (AMPK)：調控能量平衡，影響脂肪代謝。
+
+2. **肝臟損害的級聯反應**：
+   - 肝臟脂肪堆積 → 炎症 → 瘢痕化 → 硬化（ Cirrhosis ）。
+   - 高血糖素與胰島素失衡：抑制脂肪氧化，促進脂肪合成。
+
+3. **甲狀腺激素轉換**：
+   - T4 轉為 T3 的過程依賴肝臟功能。
+   - 肝臟損害導致 T3 水平降低，影響代謝率。
+
+### 問題原因
+- 高糖飲食：尤其是高果糖玉米糖漿（HFCS）。
+- 酒精濫用：引發類似糖分過量的肝臟損傷。
+- 生活方式因素：
+  - 缺乏運動：降低胰島素敏感性，促進脂肪堆積。
+  - 睡眠不足：干擾代謝調節。
+
+### 解決方法
+1. **飲食干預**：
+   - **生酮飲食（Ketogenic Diet）**：降低碳水化合物攝取，增加脂肪攝入，促使肝臟燃燒脂肪。
+   - **十字花科蔬菜**：富含硫化物前體，促進解毒和脂肪代謝。
+
+2. **營養補充**：
+   - **膽堿（Choline）**：作為B群維生素，促進肝臟清除脂肪。可通過粉末形式攝取，改善口感。
+   
+3. **生活方式調整**：
+   - **短時間斷食（Intermittent Fasting）**：降低胰島素水平，促進脂肪氧化。
+   - 觀注睡眠品質：保障充足睡眠，維持正常的代謝調節。
+
+### 健康建議
+- 定期進行超音波檢查，早期發現脂肪肝。
+- 適當運動，增強胰島素敏感性。
+- 減少精緻糖攝取，避免酒精濫用。
+- 考慮飲食計劃（如生酮飲食）前諮詢專業醫療人員。
+
+### 結論
+非代償性脂肪肝和甲狀腺功能減退之間存在密切關聯。通過調整飲食結構、增加運動量和改善生活習慣，可以有效恢復肝臟功能並提升甲狀腺激素活性，從而改善整體健康狀況。早期干預和持續的健康管理是關鍵。
 </details>
 
 <details>
@@ -527,35 +897,27 @@
         alt="[Youtube]" width="200">
 </a>
 
-### Key Points Summary in Academic Language with Subsections
+### 核心主題  
+- **_homocysteine_ 的定義與作用**：一種蛋白質，能夠轉化為其他蛋白質形式。  
 
-#### Core Theme
-- Homocysteine is a sulfur-containing amino acid involved in various biochemical processes, particularly methionine metabolism.
+### 主要觀念  
+1. _homocysteine_ 是一種蛋白質，其在人體內需依賴特定的 B 維生素（如葉酸、B6）進行轉化。  
+2. 當缺乏必要的 B 維生素時，_homocysteine_ 可能在體內積累，導致健康問題。  
 
-#### Primary Concepts
-- Homocysteine serves as an intermediate in the conversion of methionine to cystathionine.
-- Elevated levels of homocysteine are associated with cardiovascular diseases, including heart attacks and strokes.
+### 問題原因  
+- **缺乏關鍵營養素**：尤其是葉酸和 B6 的攝取不足，會導致 _homocysteine_ 在血液中濃度上升。  
 
-#### Causes of High Homocysteine Levels
-- Deficiency in B vitamins such as folic acid (B9), vitamin B6, and cobalamin (B12) impairs the enzymatic processes required for homocysteine metabolism.
-- Insufficient dietary intake of folate-rich foods contributes to elevated homocysteine levels.
+### 解決方法  
+1. **增加葉酸攝取**：食用富含葉酸的食物，如羽衣甘藍、菠菜、西兰花等十字花科蔬菜。  
+2. **均衡飲食**：通過攝取足夠的Ｂ群維生素來促進 _homocysteine_ 的正常轉化。  
 
-#### Solutions
-- Ensure adequate intake of folic acid through consumption of leafy green vegetables like spinach, kale, and broccoli.
-- Maintain a balanced diet rich in cruciferous vegetables to support proper homocysteine metabolism.
+### 健康建議  
+1. 遵循健康的酮式飲食，並攝取豐富的vegetables（如十字花科蔬菜），以降低 _homocysteine_ 浓度。  
+2. 確保每日飲食中包含足夠的葉酸和Ｂ6來源，以維持心血管健康。  
 
-#### Health Recommendations
-- Incorporate a variety of vegetables into your diet, particularly those high in folic acid.
-- Follow a healthy ketosis program that includes ample vegetable intake to prevent homocysteine buildup.
-
-#### Conclusion
-- Managing homocysteine levels is crucial for cardiovascular health. By addressing dietary deficiencies and adopting a nutrient-rich diet, individuals can mitigate the risks associated with elevated homocysteine levels.
-
----
-
-### Summary in Chinese
-
-Homocysteine is a sulfur-containing amino acid that plays a critical role in methionine metabolism. Elevated levels of this compound are linked to an increased risk of cardiovascular diseases such as heart attacks and strokes. The primary cause of high homocysteine levels is a deficiency in essential B vitamins, particularly folic acid, vitamin B6, and cobalamin, which are necessary for the enzymatic processes that regulate homocysteine metabolism. To address this issue, it is recommended to consume a diet rich in leafy green vegetables like spinach, kale, and broccoli, as these foods are high in folic acid. Additionally, following a healthy ketosis program that includes ample vegetable intake can help maintain optimal homocysteine levels. In conclusion, managing homocysteine levels through proper nutrition is essential for cardiovascular health.
+### 結論  
+- 高水平的 _homocysteine_ 與心臟病、中風等 cardiovascular 疾病風險增加有關。  
+- 通過攝取富含葉酸的食物，可以有效降低 _homocysteine_ 濃度，預防相關健康問題。
 </details>
 
 <details>
@@ -1047,70 +1409,36 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
         alt="[Youtube]" width="200">
 </a>
 
-### Key Points from the Article: A Scientific Overview on Bowel Movements During Intermittent Fasting
+### 核心主題  
+- 探讨间歇性禁食（一天只吃一顿）对排便频率的影响及其健康意义。
 
-#### Core Theme:
-- The relationship between dietary habits, particularly intermittent fasting (eating less frequently), and the frequency of bowel movements.
+### 主要觀念  
+- 饮食频率与排便次数之间的关系。  
+- 区分便秘与其他原因导致的排便频率减少。  
+- 蔬菜摄入量与消化系统的关系。  
 
----
+### 問題原因  
+- 食物体积减少导致排便频率降低。  
+- 纤维摄入过多或不足引发消化问题。  
+- 不适应特定类型的蔬菜（如十字花科蔬菜）。  
+- 胆囊功能异常影响胆汁分泌，导致肠道润滑不足。  
 
-#### Main Concepts:
-1. **Frequency of Bowel Movements**:
-   - Eating less food or less frequently leads to fewer bowel movements due to reduced digestive activity.
-   - Increased meal frequency correlates with more frequent bowel movements because of higher volume and quicker digestion.
+### 解決方法  
+- 增加纤维摄入以促进消化菌群活动。  
+- 减少不耐受的蔬菜种类或采用蒸煮等方式改善消化。  
+- 使用发酵食品辅助消化。  
+- 补充胆囊支持产品（如 gall bladder formula）来增加胆汁分泌。  
 
-2. **Constipation vs. Reduced Bowel Movements**:
-   - Constipation is characterized by bloating, discomfort, and difficulty passing stools, often linked to fiber intake or insufficient bile.
-   - Reduced bowel movement frequency may simply indicate efficient digestion without any discomfort.
+### 健康建議  
+- 饮食频率与排便次数呈正相关，减少餐次可能导致排便频率降低。  
+- 注意纤维摄入的适量性，避免因过多或不足引发消化不适。  
+- 对于不耐受的蔬菜，可通过蒸煮或选择其他种类来改善消化。  
+- 无胆囊者需特别注意胆汁分泌对肠道润滑的影响，必要时寻求辅助治疗。  
 
-3. **Role of Fiber in Digestion**:
-   - Fiber, consumed through vegetables, serves as a primary food source for gut microbes, aiding digestion.
-   - Excessive consumption of high-fiber vegetables (e.g., cruciferous vegetables like cabbage and broccoli) can cause indigestion if the body is not accustomed to them.
-
-4. **Impact of Gallbladder Health**:
-   - Bile production is essential for lubricating the colon and aiding digestion.
-   - Individuals without a gallbladder or with gallbladder dysfunction may experience digestive issues such as floating stools, bloating, and discomfort.
-
----
-
-#### Causes of Digestive Issues:
-1. **Insufficient Fiber Intake**:
-   - Leads to constipation due to inadequate microbial activity in the gut.
-
-2. **Overconsumption of High-Fiber Vegetables**:
-   - Can cause indigestion if the body lacks the necessary enzymes or microbes to break them down effectively.
-
-3. **Gallbladder Dysfunction**:
-   - Results in symptoms like floating stools, bloating, and right lower ribcage discomfort due to insufficient bile production.
-
----
-
-#### Solutions and Health Recommendations:
-1. **Balanced Fiber Intake**:
-   - Gradually increase vegetable consumption to allow the gut microbiome to adapt.
-   - Opt for steamed or fermented vegetables to improve digestibility.
-
-2. **Support for Gallbladder Dysfunction**:
-   - Consider using gallbladder formulas that aid in bile production and support pancreatic function.
-
-3. **Dietary Adjustments**:
-   - Avoid sudden changes in diet; introduce high-fiber foods gradually.
-   - Monitor the types of vegetables consumed to prevent indigestion.
-
-4. **Lifestyle Modifications**:
-   - Stay hydrated to facilitate smooth digestion.
-   - Engage in regular physical activity to promote bowel regularity.
-
----
-
-#### Conclusion:
-- Reduced bowel movement frequency during intermittent fasting is generally normal and reflects efficient digestion.
-- Constipation or discomfort, however, may indicate issues like insufficient fiber intake, overconsumption of certain vegetables, or gallbladder dysfunction.
-- Addressing these issues through dietary adjustments, increased hydration, and supplementation can improve digestive health.
-
---- 
-
-This structured approach provides a comprehensive understanding of the article's content while maintaining scientific rigor.
+### 結論  
+- 排便频率减少并不一定意味着便秘，可能是饮食调整的结果。  
+- 蔬菜摄入量和类型是影响消化系统的重要因素。  
+- 胆囊功能异常可能通过影响胆汁分泌间接导致肠道问题，需适当补充支持产品。
 </details>
 
 <details>
