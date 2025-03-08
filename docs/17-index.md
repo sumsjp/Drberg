@@ -472,113 +472,584 @@
 </details>
 
 <details>
-<summary>1757. What Really Causes Gallstones? - Dr. Berg</summary><br>
+<summary>1757. [2018-09-30] What Really Causes Gallstones? - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=C5PweRDxf6g" target="_blank">
     <img src="https://img.youtube.com/vi/C5PweRDxf6g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題
+- 碎石的原因：膽結石的真正原因是膽汁不足，而非高脂肪飲食。
+- 胆汁在消化中的作用：膽汁負責分解脂溶性維生素和必需脂肪酸，並幫助排出 excess 胆固醇。
+
+#### 主要觀念
+- 胆结石主要是膽固醇結晶形成，與膽汁不足有關。
+- 胆汁的濃度和功能對預防膽結石至關重要。
+
+#### 問題原因
+1. **膽汁不足**：缺乏膽汁導致胆固醉在膽囊中結晶，增加膽結石風險。
+2. **高雌激素水平**：懷孕、激素替代治療或口服避孕藥等情況會降低膽汁量，增加風險。
+3. **高皮質醇水平**：壓力導致的皮質醇升高會耗竭膽汁。
+4. **高胰島素水平**：過高的胰島素與脂肪肝有關，影響膽汁生產。
+
+#### 解決方法
+1. **增加膽汁分泌**：
+   - 通過攝取足夠的飽和脂肪酸來刺激膽汁分泌。
+   - 避免低脂飲食，因缺乏足夠的膽汁會增加結石風險。
+2. **控制胰島素水平**：
+   - 管理血糖，防止脂肪肝影響膽汁生產。
+3. **腸道微生物健康**：
+   - 通過攝取足夠的蔬菜來養護腸道有益菌，這些菌有助於 bile 的回收。
+
+#### 健康建議
+1. **飲食調整**：
+   - 避免將高脂肪與高碳水化合物食物結合（如面包和牛油一起食用）。
+   - 保持低碳水化合物飲食以降低胰島素水平。
+2. **避免濫用抗酸藥**：
+   - 抗酸藥可能干擾胃酸分泌，影響膽汁的正常釋放。
+3. **定期檢查**：
+   - 通過超聲波檢查脂肪肝情況，及時發現和處理。
+
+#### 結論
+- 胆結石的形成與膽汁不足密切相關，而非直接由高脂肪飲食引起。
+- 須從調整飲食、管理胰島素水平和養護腸道微生物等方面入手，來降低膽結石風險。
 </details>
 
 <details>
-<summary>1756. Carbs That Are Worse Than Sugar - Dr.Berg on Carbs On Keto</summary><br>
+<summary>1756. [2018-09-30] Carbs That Are Worse Than Sugar - Dr.Berg on Carbs On Keto</summary><br>
 
 <a href="https://www.youtube.com/watch?v=lIkLQDUE9a0" target="_blank">
     <img src="https://img.youtube.com/vi/lIkLQDUE9a0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：  
+- 探讨某些碳水化合物（如淀粉类食物）比糖类更不健康的科学依据。
 
+---
+
+### 主要觀念：  
+1. ** glycemic index (GI) 說明**：  
+   - GI 是衡量碳水化合物分解速度及其對血糖影響的指標。  
+   - 高GI值表示該食物會快速提升血糖 levels，長時間過量攝取可能導致脂肪、胆固醇或三酰甘油積累。  
+
+2. **高GI食物的危害**：  
+   - 某些碳水化合物（如白米、面包、馬鈴薯和爆米花）的 GI 值甚至超過糖分，會對健康造成更大影響。  
+
+3. **加工與烹調方式的影響**：  
+   - 經加工或高溫烹調的食物（如精緻穀物和熟食馬鈴薯）GI 通常較高。  
+   - 生吃食物（如生馬鈴薯）GI 较低，但人們通常不會食用未煮熟的馬鈴薯。  
+
+4. **蔬菜碳水化合物的優勢**：  
+   - 蔬菜中含豐富纖維，可為腸道益生菌提供養分，促進有益物質（如丁酸）的生成。  
+   - 這些益生元 효과有助于調節血糖並提昇整體健康。  
+
+---
+
+### 問題原因：  
+- 誤將非糖類碳水化合物視作更健康的選擇，忽略其對血糖的影響。  
+- 现代飲食中過度攝取高GI食物，導致肥胖、心臟病和其他代谢疾病風險增加。  
+
+---
+
+### 解決方法：  
+1. **了解食物的 GI 值**：  
+   - 學會判斷不同食物的GI值，避免過量攝取高GI食物。  
+
+2. **優先選擇蔬菜碳水化合物**：  
+   - 選擇富含纖維且低GI的蔬菜，如十字花科蔬菜（西兰花、捲心菜等）。  
+
+3. **限制精緻穀物和淀粉類攝取**：  
+   - 減少食用白米、面包等精緻穀物，選擇全穀物或未加工碳水化合物。  
+
+4. **均衡飲食與健康生活方式**：  
+   - 結合合理飲食結構和運動，維持血糖穩定並促進整體健康。  
+
+---
+
+### 健康建議：  
+- 避免經常食用高GI食物（如白米、馬鈴薯泥和爆米花）。  
+- 多攝取富含膳食纖維的蔬菜，尤其是那些具有低GI值的選擇。  
+- 控制碳水化合物的攝取量，並注意烹調方式對GI值的影響。  
+
+---
+
+### 總結：  
+本篇文章強調了某些高GI碳水化合物比糖分更不健康的事實，並提出了解決方案和健康建議。通過理解食物GI值、選擇低GI蔬菜並限制精緻碳水化合物攝取，可以有效改善血糖控制並提升整體健康水平。
 </details>
 
 <details>
-<summary>1755. How To Kill Parasites? - Dr. Berg</summary><br>
+<summary>1755. [2018-09-29] How To Kill Parasites? - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XbZj0qfVT7s" target="_blank">
     <img src="https://img.youtube.com/vi/XbZj0qfVT7s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題: 論寄生蟲感染及其防治措施  
 
+---
+
+### 主要觀念:
+1. 寄生蟲感染可能引發多種消化系統相關症狀，包括腹痛、 diarrhea, constipation, 恶心、脹氣、疲勞、皮膚癢、生殖器部位不適、不明原因的體重下降、對乳制品的 cravings 以及血糖問題。
+2. 寄生蟲感染的常見來源包括:
+   - 因出差或旅行至其他國家，食用當地飲食或水源。
+   - 外活動時飲用溪水等未處理水源。
+   - 遭受抗生素干擾後免疫力下降，導致寄生蟲或真菌（如念珠菌）感染。
+3. 生吃肉類（如壽司中的生魚片）可能成為寄生蟲來源，特別是肉質安全標準較低的地區。
+4. 胃酸不足是寄生蟲感染的重要風險因素。胃酸在免疫防禦中扮演關鍵角色，其不足會降低對病原體的抵抗能力。
+
+---
+
+### 問題原因:
+1. 生活習慣:
+   - 食用未煮熟或來源不明的食物。
+   - 戸外活動時飲用不潔水源。
+2. 內在因素:
+   - 抗生素使用導致腸道菌群失衡及免疫力下降。
+   - 年齡增長導致胃酸分泌自然降低。
+
+---
+
+### 解決方法:
+1. 避免食用生肉和來源不明的食物，特別是壽司等生食。
+2. 在戶外活動時使用經過淨化或煮沸的水源。
+3. 減少不必要的抗生素使用，以維持腸道菌群平衡。
+4. 調節胃酸至適當水平:
+   - 使用 Betaine Hydrochloride 或蘋果醋來增加胃酸。
+5. 中草藥治療:
+   - 使用具有驅蟲作用的中草药，如wormwood提取物、黑棗殼和丁香。
+
+---
+
+### 健康建議:
+1. 避免攝取乳制品及高糖食物，因其可能助長寄生蟲生長。
+2. 注意飲食衛生，特別是在旅行或出差時。
+3. 督促醫師評估胃酸是否充足，若存在胃酸不足問題，應及時補充。
+4. 減少不必要的抗生素使用，以維持免疫防禦能力。
+
+---
+
+### 结論:
+寄生蟲感染是個可防可控的健康問題。通過改善飲食習慣、增強免疫力、注意衛生保健以及適當使用中草藥或胃酸補充劑，可以有效降低感染風險並恢復腸道健康。
 </details>
 
 <details>
-<summary>1754. Keto And High Blood Pressure – Dr.Berg</summary><br>
+<summary>1754. [2018-09-29] Keto And High Blood Pressure – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=rVL79DvfAyA" target="_blank">
     <img src="https://img.youtube.com/vi/rVL79DvfAyA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 归纳文章重点
 
+#### 核心主题
+- 高血压的成因及解决方案
+- 膳食盐与钾元素的关系
+- 间歇性禁食对高血压的影响
+- 维生素K2在动脉去钙化中的作用
+- 高胰岛素血症与高血压的关系
+
+#### 主要观念
+- 高血压不单纯由高钠饮食引起，还涉及钾元素的平衡。
+- 钾元素摄入不足是导致高血压的重要因素。
+- 膳食中维生素K2有助于去除动脉钙化沉积。
+- 高胰岛素血症与高血压密切相关，尤其是代谢综合征患者。
+
+#### 问题原因
+- **钠钾失衡**：现代饮食中钠摄入过多，而钾摄入不足，导致电解质紊乱。
+- **动脉钙化**：血管壁钙化加重高血压负担。
+- **高胰岛素血症**：长期过量碳水化合物摄入引发胰岛素抵抗，进而导致高血压。
+
+#### 解决方法
+- **增加钾元素摄入**：通过食用富含钾的蔬菜和水果（如菠菜、羽衣甘蓝）来改善钠钾平衡。
+- **补充维生素K2**：选择草饲肉类、乳制品或纳豆等食物来源，帮助去除血管钙化。
+- **控制碳水化合物摄入**：减少精制糖和加工食品的摄入，采用低碳饮食模式（如生酮饮食）。
+
+#### 健康建议
+- 每日蔬菜摄入量应至少达到7杯，理想情况下可增加至10杯以满足钾元素需求。
+- 优先选择天然食物来源获取维生素K2，而非补充剂形式。
+- 定期监测血压和血糖水平，及时调整饮食结构。
+
+#### 结论
+- 高血压的管理需要综合考虑饮食、营养素平衡及代谢因素。
+- 自然疗法（如增加钾摄入、补充维生素K2、控制碳水化合物）是改善高血压的有效途径。
+- 药物治疗应作为辅助手段，同时配合生活方式调整以达到最佳效果。
+
+---
+
+### Conclusion
+
+#### Core Themes
+- Causes and solutions for hypertension
+- Relationship between dietary sodium and potassium
+- Impact of intermittent fasting on hypertension
+- Role of vitamin K2 in arterial decalcification
+- Connection between hyperinsulinemia and hypertension
+
+#### Key Concepts
+- Hypertension is not solely caused by excessive sodium intake but also involves potassium balance.
+- Insufficient potassium intake is a critical factor contributing to hypertension.
+- Vitamin K2 helps remove calcium deposits from arteries.
+- Hyperinsulinemia is closely linked to hypertension, particularly in metabolic syndrome patients.
+
+#### Problem Causes
+- **Sodium-Potassium Imbalance**: Excessive sodium intake with insufficient potassium leads to electrolyte紊乱。
+- **Arterial Calcification**: Calcium buildup in arterial walls exacerbates hypertension。
+- **Hyperinsulinemia**: Overconsumption of carbohydrates causes insulin resistance, leading to hypertension。
+
+#### Solutions
+- **Increase Potassium Intake**: Consume potassium-rich vegetables and fruits (e.g., spinach, kale) to improve sodium-potassium balance。
+- **Supplement with Vitamin K2**: Obtain vitamin K2 from natural food sources like grass-fed meats, dairy products, or natto to aid arterial decalcification。
+
+#### Health Recommendations
+- Aim for a minimum of 7 cups of vegetables daily, ideally increasing to 10 cups to meet potassium needs。
+- Prioritize obtaining vitamin K2 through whole foods rather than supplements.
+- Regularly monitor blood pressure and glucose levels to adjust dietary intake accordingly.
+
+#### Conclusion
+- Managing hypertension requires a holistic approach considering diet, nutrient balance, and metabolic factors。
+- Natural therapies (e.g., increased potassium intake, vitamin K2 supplementation, carbohydrate control) are effective in addressing hypertension。
+- Pharmacological treatment should serve as an adjunct, combined with lifestyle modifications for optimal results。
 </details>
 
 <details>
-<summary>1753. Intermittent Fasting Made Easy By Dr. Berg</summary><br>
+<summary>1753. [2018-09-28] Intermittent Fasting Made Easy By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=OrEWl9NJD_Q" target="_blank">
     <img src="https://img.youtube.com/vi/OrEWl9NJD_Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 1. 核心主題：間歇性斷食（Intermittent Fasting）
+- 介紹間歇性斷食的基本概念，強調其 simplicity 和 flexibility。
+- 强調斷食並非饑餓，而是通過减少進食次數來改善健康。
+
+#### 2. 主要觀念：
+1. **定義與目的**：
+   - 間歇性斷食是限制進食時間，讓身體有更多時間進行修復和代謝。
+   - 斷食期間允許攝取少量液體（如水、茶、咖啡），但建議避免高糖分或含奶精的飲料。
+
+2. **生理機制**：
+   - 斷食初期會經歷血糖下降，可能伴隨頭暈或疲倦，但身體逐漸适应後，能量來源將轉向脂肪。
+   - 長期斷食可改善胰島素敏感性，促進自體修復反應。
+
+#### 3. 問題原因：
+1. **斷食初期的不适**：
+   - 头暈、疲倦、頭痛等症狀可能源於血糖過低或 electrolyte 電解質不平衡。
+   - 缺乏足夠的海鹽攝取會導致肌肉无力或頭痛。
+
+2. **缺乏準備**：
+   - 未提前規劃飲食或活動，可能增加斷食的难度。
+   - 斷食期間若突然進食高熱量食物，易造成血糖波動。
+
+#### 4. 解决方法：
+1. **調整飲食習慣**：
+   - 減少精制糖和碳水化合物攝取，增加健康脂肪和蛋白質來源。
+   - 選擇低GI（升糖指數）食物以穩定血糖水平。
+
+2. **補充 electrolyte**：
+   - 每日攝取適量海鹽（建議1茶匙），可加入飲食或水中。
+   - 高钾assiumサプリメントや電解質ドリンクを利用することもおすすめ。
+
+3. **規劃活動與飲食**：
+   - 提前規劃斷食期間的飲食和活動，避免突然 hunger 突擊。
+   - 多喝水保持 hydration，避免脫水。
+
+#### 5. 健康建議：
+1. **初期執行建議**：
+   - 初學者可從短時間斷食開始（如12-16小時），逐步增加 duration。
+   - 斷食期間可攝取少量低糖飲料或茶，以紓緩 hunger 感。
+
+2. **注意事項**：
+   - 有糖尿病、低血糖或其他健康問題者，建議先諮詢醫生。
+   - 斷食後避免立即攝入高熱量食物，應選擇清淡蔬菜和蛋白質來源。
+
+3. **心理調整**：
+   - 設定實際可行的目標，逐步養成良好的飲食習慣。
+   - 適當分散注意力，如進行戶外活動或閱讀，以減少 hunger 感。
+
+#### 6. 結論與鼓勵：
+- 斷食是一種有效的健康管理方式，但需注意方法和個人差異。
+- 初期可能需要適應，但長期來看能帶來多方面的健康益處。
+- 鼓勵大家根據自身情況調整，逐步養成健康的飲食習慣。
+
+---
+
+以上整理涵蓋了文章的主要內容，以小節形式分門別類，便於理解和應用。
 </details>
 
 <details>
-<summary>1752. Vitamin B1: Boost Energy for Workout – Dr. Berg on B1 Vitamin for Energy Boost</summary><br>
+<summary>1752. [2018-09-28] Vitamin B1: Boost Energy for Workout – Dr. Berg on B1 Vitamin for Energy Boost</summary><br>
 
 <a href="https://www.youtube.com/watch?v=iH2jGTxau58" target="_blank">
     <img src="https://img.youtube.com/vi/iH2jGTxau58/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **B1（硫胺素）在運動健身中的重要性**  
+  探讨B1（硫胺素）在能量代谢、运动表现和疲劳抵抗中的作用。
 
+### 主要觀念
+1. **B1在能量生產中的角色**：
+   - B1是细胞呼吸过程中不可或缺的维生素，参与线粒体的能量生成。
+   - 它涉及五種與碳水化合物 metabolism 相關的酶，促進ATP的產生。
+2. **抗氧化和廢物清除作用**：
+   - B1幫助清除代謝 waste products，如乳酸和氨，從而提高運動耐力。
+3. **B1的需求量与飲食結構**：
+   - 高碳水化合物攝取者需要更多的B1。
+   - 低碳水化合物（如酮ogenic diet）飲食者仍需補充B1以維持.energy levels.
+
+### 問題原因
+- **運動中能量不足或疲勞**：
+  - 可能與B1缺乏有關，影響線粒體功能和代謝 waste removal。
+- **過量攝取B1的風險**：
+  - 長期過量可能引發其他B群維生素的 deficiency.
+
+### 解决方法
+1. **補充B1的方式**：
+   - 推薦使用營養酵母等天然來源，以平衡攝取。
+2. **運動前補充建議**：
+   - 在運動前約半小時補充B1，可提升能量和耐力。
+3. **均衡攝取**：
+   - 避免長期單一補充B1，應攝取完整的B群複合物。
+
+### 健康建議
+- 定期監測體能狀況，根據個人飲食結構調整B1的攝取量。
+- 運動前30分鐘補充B1，以最佳化運動表現。
+- 選擇天然食物來源或補充劑時，注意均衡攝取其他維生素。
+
+### 結論
+- B1是提升運動能量和耐力的重要營養素。
+- 合理補充B1可增強運動表現並降低疲勞感。
+- 維持均衡飲食結構，避免過量攝取某種單一維生素。
 </details>
 
 <details>
-<summary>1751. What is Licorice Root and What Are Its Benefits? – Dr. Berg</summary><br>
+<summary>1751. [2018-09-27] What is Licorice Root and What Are Its Benefits? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_6u9wZ83mkE" target="_blank">
     <img src="https://img.youtube.com/vi/_6u9wZ83mkE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 介紹Licorice Root（甘草根）的功效及其健康應用。
+- 探讨 adrenal glands（腎上腺）的功能及其在應激反應中的角色。
+- 提供食物評估的邀請，鼓勵觀眾參與。
+
+---
+
+#### 主要觀念
+
+1. **Adrenal Glands的功能**  
+   - 腎上腺分為外 cortex 和內 medulla 兩部分。  
+   - Cortex 負責分泌礦物質皮質固醇（mineralocorticoids），幫助調節鈉和鉀的平衡。  
+   - Medulla 產生腎上腺素、去甲腎上腺素和多巴胺等神經傳導物質。
+
+2. **Cortisol的作用與失衡**  
+   - Cortisol 是壓力荷爾蒙，長期高水平會導致「皮質醇抗性」（cortisol resistance），類似於胰島素抵抗。  
+   - 這種失衡會引發慢性炎症和其他健康問題。
+
+3. **Licorice Root的作用**  
+   - 能平衡 cortisol 水平，幫助恢復正常的反饋機制。  
+   - 具有抗炎、保護胃黏膜和治療肝炎等功效。
+
+4. **Food Evaluation邀請**  
+   - 觀眾可以上傳飲食記錄，包括攝取食物的照片、飲食頻率、身體數據（身高、體重、年齡）以及健康問題。  
+   - 作者將評估並提供改进建議，作為YouTube影片內容。
+
+---
+
+#### 問題原因
+
+1. **Cortisol失衡**  
+   - 長期壓力導致 cortisol 水平過高，引發「皮質醇抗性」。  
+   - 這會阻斷反饋迴路，使身體無法正常調節激素水平。
+
+2. **飲食習慣的影響**  
+   - 不良的飲食模式（如間歇性禁食或其他飲食策略）可能影響健康狀況。
+
+---
+
+#### 解決方法
+
+1. **Licorice Root的應用**  
+   - 調節 cortisol 水平，改善壓力相關問題。  
+   - 用於治療胃潧瘍、胃炎和肝炎等慢性炎症疾病。
+
+2. **飲食評估與改進**  
+   - 觀眾可透過上傳飲食記錄，獲得專業的飲食建議。  
+   - 改善飲食結構以提升整體健康狀況。
+
+---
+
+#### 健康建議
+
+1. **壓力管理**  
+   - 使用Licorice Root幫助平衡 cortisol 水平，降低慢性炎症風險。  
+
+2. **胃部健康**  
+   - 面對胃潧瘍或胃炎，可以考慮使用Licorice Root作為輔助治療。  
+
+3. **飲食記錄**  
+   - 紀錄每日飲食並定期評估，以發現潛在的飲食問題並及時調整。
+
+---
+
+#### 結論
+
+- Licorice Root 具有多樣化的健康益處，特別是在調節激素和抗炎方面。  
+- 飲食習慣對整體健康至關重要，建議定期評估並做出適當調整。  
+- 作者邀請觀眾參與食物評估活動，共同探討健康飲食的可能方案。
 </details>
 
 <details>
-<summary>1750. How to Keep Viruses in Remission? – Dr.Berg</summary><br>
+<summary>1750. [2018-09-27] How to Keep Viruses in Remission? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=2W7MEy72l7Q" target="_blank">
     <img src="https://img.youtube.com/vi/2W7MEy72l7Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理重點
 
+#### 核心主題
+- 病毒的特性和其在宿主体內的生命周期。
+- 如何通過增強免疫力和改變生活方式來控制病毒的復發。
+
+#### 主要觀念
+- 病毒並非生物，而是包裹著遗传材料的顆粒，在宿主免疫功能較低時活化。
+- 高壓力、營養不良（尤其是微量元素缺乏）、輻射等因素會增加病毒感染風險。
+- 調節壓力水平和改善營養狀況是防止病毒復發的重要手段。
+
+#### 問題原因
+1. **壓力**：壓力影響腎上腺功能，使免疫系統脆弱，易於感染。
+2. **營養失衡**：微量元素（如鋅、硒）缺乏會削弱免疫功能。
+3. **高糖飲食**：攝取過多糖分會活化病毒。
+4. **輻射**：可能激發病毒感染。
+
+#### 解決方法
+1. **壓力管理**：
+   - 保持健康的生活方式，包括規律運動、均衡飲食和良好的社交關係。
+   - 調解ストレス源，如改善人際關係或尋求專業協助。
+
+2. **營養調整**：
+   - 確保攝取足夠的維生素C（來源：十字花科蔬菜、柑橘類水果）。
+   - 补充維生素A和D（來源：魚肝油、日光照射）。
+   - 避免高糖飲食，選擇天然食物而非加工果汁。
+
+3. **使用補充劑**：
+   - 鈣 lactate 可幫助抑制病毒活化，特別是兒童和成人中的 herpes simplex 感染。
+   - 維生素D可促進鈣吸收，增強免疫功能。
+
+#### 健康建議
+1. **壓力管理**：日常進行散步等輕度運動，保持良好的社交圈子。
+2. **飲食調整**：攝取富含維生素C、A和D的食物，避免過量糖分。
+3. **補充劑使用**：在感染初期使用鈣 lactate 和維生素D。
+4. **環境保護**：降低輻射暴露風險。
+
+#### 結論
+- 通過降低壓力、改善營養和使用適當的補充劑，可以有效控制病毒的復發。
+- 自然療法（如日光浴）比疫苗等傳統方法更值得考慮。
 </details>
 
 <details>
-<summary>1749. How To Fix Your Neck Posture/Curvature for Neck Pain Relief? – Dr. Berg</summary><br>
+<summary>1749. [2018-09-26] How To Fix Your Neck Posture/Curvature for Neck Pain Relief? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=abyNXeKF0kE" target="_blank">
     <img src="https://img.youtube.com/vi/abyNXeKF0kE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 颈椎曲度的重要性及其丧失的影响。
 
+### 主要觀念
+1. **颈椎的正常曲度**：
+   - 正常情况下，颈椎（neck, cervical spine）具有向前凸出的自然曲度。
+   - 这种曲度有助于分散头部重量，保护颈部结构。
+
+2. **头部的重量与支撑**：
+   - 头部平均重约12至15磅（约5.4至6.8公斤），相当于一个较重的 skulls。
+   - 正常颈椎曲度通过椎间盘和肌肉提供缓冲和支持。
+
+3. **颈椎曲度丧失的影响**：
+   - 丧失曲度会增加对颈部肌肉、肌腱、韧带和椎间盘的压力，可能导致疼痛和其他健康问题。
+
+### 問題原因
+1. **外伤因素**：
+   - 撞击或 whiplash（挥鞭样损伤）是导致颈椎曲度丧失的常见原因。
+   - 这种外力会导致颈部突然伸展和屈曲，引发肌肉痉挛并破坏正常曲度。
+
+2. **其他因素**：
+   - 其他姿势问题或长期不良习惯也可能影响颈椎曲度。
+
+### 解决方法
+1. **矫正工具的应用**：
+   - 使用一种简单的小型矫正工具（如文中提到的装置）。
+   - 操作步骤：
+     1. 将工具的最宽部分放置在颈部中间位置。
+     2. 坐在沙发上，身体后倾，让头部自然靠在工具上。
+     3. 利用重力使头部轻轻向后推，以恢复曲度。
+
+2. **频率与时间**：
+   - 每晚睡前使用该装置约两分钟。
+
+### 健康建議
+1. 颈椎健康的重要性：
+   - 维持正常的颈椎曲度对预防颈部疼痛和相关疾病至关重要。
+   
+2. 使用矫正工具的好处：
+   - 通过物理方法恢复颈椎曲度，缓解颈部肌肉紧张，改善睡眠质量。
+
+3. 养成良好的生活习惯：
+   - 避免长时间保持不良姿势，定期进行颈部伸展和 strengthening exercises。
+
+### 結論
+- 失去颈椎的正常曲度可能导致严重的健康问题。
+- 使用适当的矫正工具结合正确的使用方法，可以有效恢复并维持颈椎的自然曲度。
+- 建议读者尝试该方法，并根据个人情况调整以达到最佳效果。
 </details>
 
 <details>
-<summary>1748. Reverse Fatigue When Fasting (Intermittent Fasting) - Dr. Berg's Chronic Fatigue Treatment</summary><br>
+<summary>1748. [2018-09-26] Reverse Fatigue When Fasting (Intermittent Fasting) - Dr. Berg's Chronic Fatigue Treatment</summary><br>
 
 <a href="https://www.youtube.com/watch?v=MpFejI0_gps" target="_blank">
     <img src="https://img.youtube.com/vi/MpFejI0_gps/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Core Themes (核心主題)
+- **Nutritional Optimization**: Emphasizing the importance of nutrient-dense foods for overall health and energy.
+- **Intermittent Fasting**: Discussing the practice of intermittent fasting, its benefits, and common mistakes.
+- **Sleep Health**: Highlighting the role of quality sleep in energy levels and recovery.
 
+### Key Concepts (主要觀念)
+1. **Nutrient-Dense Foods**: Focus on consuming high-quality foods such as kale, salmon, grass-fed beef, organic eggs, and various vegetables to ensure adequate nutrition.
+2. **Intermittent Fasting Benefits**: Intermittent fasting can help with fat burning and improving metabolic health when done correctly.
+3. **Common Mistakes in Fasting**: Many individuals sabotage their fasting efforts by consuming low-quality foods after fasting.
+
+### Problem Causes (問題原因)
+- Poor food choices post-fasting, such as fast food or low-nutrient snacks, can negate the benefits of intermittent fasting.
+- Inadequate sleep quantity and quality can significantly impact energy levels and recovery.
+
+### Solutions and Health Recommendations (解決方法與健康建議)
+1. **High-Quality Nutrition**: Prioritize nutrient-dense foods to support energy and overall health.
+2. **Optimal Sleep Practices**: Aim for at least seven hours of quality sleep per night, and consider power naps if necessary.
+3. **Mindful Fasting**: Gradually adapt to intermittent fasting and avoid poor food choices after fasting periods.
+
+### Conclusion (結論)
+- Combining proper nutrition, intermittent fasting, and sufficient sleep can lead to improved energy levels, better health outcomes, and a more vibrant lifestyle.
 </details>
 
 <details>
@@ -589,28 +1060,61 @@
         alt="[Youtube]" width="200">
 </a>
 
-### Key Points from the Article
+### 文章整理：罕見的維生素D事實
 
-#### Core Themes:
-- **Vitamin D's Role in Mineral Absorption**: Vitamin D is crucial for the absorption of calcium and other minerals such as iron, magnesium, zinc, and phosphate.
-- **Immune System Regulation**: Vitamin D plays a significant role in controlling immune responses, particularly against viral infections and autoimmune diseases.
-- **Respiratory Health**: It helps manage asthma symptoms by influencing cortisol production, which has anti-inflammatory effects.
-- **Bone Health**: Adequate vitamin D intake is essential for strong bones; deficiency can lead to weakened bones, fractures, and skeletal deformities.
+#### 核心主題
+- 維生素D的功能及其對人體健康的重要性。
 
-#### Causes of Vitamin D Deficiency:
-- **Liver and Kidney Issues**: The activation of vitamin D relies on enzymes in the liver and kidneys. Damage to these organs impairs this process.
-- **Malabsorption Syndromes**: Conditions like fatty liver or kidney dialysis can hinder vitamin D absorption, potentially leading to toxicity if intake continues.
+#### 主要觀念
+1. **矿物质吸收的作用**：
+   - 維生素D主要負責鈣質吸收，可提高小腸對鈣質吸收效率約20倍。
+   - 除此以外，維生素D還能增進鐵、鎂、鋅和磷的吸收。
 
-#### Health Recommendations:
-1. **Sun Exposure**: Ensure adequate sun exposure for natural vitamin D synthesis.
-2. **Supplementation**:
-   - Take vitamin D3 with K2 to ensure calcium is properly deposited in bones rather than soft tissues.
-   - Monitor dosage to avoid hypercalcemia, which can cause symptoms like excessive urination, thirst, insomnia, and itching.
-3. **Bone and Joint Health**: Address chronic muscle and skeletal pain associated with vitamin D deficiency by correcting the underlying deficiency.
-4. **Immune Support**: Use vitamin D as a preventive measure against respiratory infections and autoimmune disorders.
+2. **活化機制**：
+   - 維生素D需在肝臟和腎臟中經過酶的作用才能激活，成為活性形式（1,25-二氫維生素D）。
+   - 肝臟或腎臟功能受損可能影響維生素D的活化。
 
-#### Conclusion:
-Vitamin D is a vital hormone precursor that supports mineral absorption, immune function, bone health, and respiratory well-being. Proper management of its intake, including adequate sunlight exposure and balanced supplementation with K2, ensures optimal health benefits while avoiding potential risks associated with excess calcium in soft tissues.
+3. **免疫调节作用**：
+   - 維生素D在調控免疫反應中起重要作用，特別是針對呼吸道病毒和自身免疫性疾病。
+   - 其幫助控制炎症反應，並可抑制哮喘症狀。
+
+4. **骨骼健康**：
+   - 綴乏維生素D會導致骨質脆弱、骨折風險增加，甚至引發佝倭病（如弓形腿或脊柱畸形）。
+   - 肌肉骨骼疼痛可能與維生素D缺乏有關。
+
+5. **激素合成的前體**：
+   - 維生素D是固醇類激素的前體，尤其是腎上腺素皮質醇的合成需要其參與。
+
+#### 問題原因
+- 維生素D缺乏症可能由肝臟或腎臟功能障礙、脂肪肝炎、腎臟透析等因素引起。
+- 遊離形式的維生素D可能导致鈣沉積於軟組織，而非骨骼中，引發高血鈣症。
+
+#### 解決方法
+1. **補充劑建議**：
+   - 維生素D3（膽ifierin）為主要補充形式。
+   - 結合維生素K2使用，以促進鈣質運輸至骨骼，防止高血鈣症。
+
+2. **日光照射**：
+   - 適量接受陽光照射是獲得維生素D的重要方式。
+   - 注意防曬，避免過度曝晒。
+
+3. **飲食攝取**：
+   - 增加富含維生素D的食物攝入，如 fatty fish（沙丁魚、鯔魚）、蛋黃和強化食品。
+
+#### 健康建議
+1. **定期檢查**：
+   - 高風險群體（如老年人、免疫系統疾病患者）應定期檢測維生素D水平。
+
+2. **均衡飲食與補充**：
+   - 確保攝取足夠的維生素D，並配合K2以提高吸收效率。
+   - 避免過量攝取，以防高血鈣症。
+
+3. **注意症狀**：
+   - 監測可能的高血鈣症狀，如多尿、口渴、失眠和癢 sensations。
+
+#### 結論
+- 維生素D不僅是骨骼健康的重要因素，還在免疫調節、肺臟功能和全身炎症反應中起關鍵作用。
+- 適當補充維生素D並搭配K2，可有效提升其效益，降低副作用風險。
 </details>
 
 <details>
