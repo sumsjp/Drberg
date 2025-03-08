@@ -615,80 +615,367 @@
 </details>
 
 <details>
-<summary>1444. Will Lemon Water Kick You Out of Ketosis? – Dr. Berg</summary><br>
+<summary>1444. [2018-04-09] Will Lemon Water Kick You Out of Ketosis? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=yabCpwLzFUs" target="_blank">
     <img src="https://img.youtube.com/vi/yabCpwLzFUs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：檸檬水對酮osis的影響及其健康益處
 
+### 主要觀念：
+1. 檸檬水具有降低尿酸的作用，有益於預防痛風和尿酸性腎结石。
+2. 檸檬中的枸酸可以中和體內的草酸鹽，減少因攝取某些高草酸食物（如菠菜、十字花科蔬菜）而形成的腎结石風險。
+
+### 問題原因：
+1. 酮osis飲食要求低碳水化合物攝入（每日20-50克），而一杯檸檬汁約含2克碳水化合物，理論上可能短暫影響酮osis狀態。
+2. 市售瓶裝檸檬汁因巴氏消毒過程，維生素C含量大幅降低。
+
+### 解決方法：
+1. 雖然檸檬汁含有少量碳水化合物，但其益處遠勝於短期影響，身體通常能快速恢復酮osis狀態。
+2. 建議直接食用新鮮檸檬以獲取足夠的維生素C，或接受市售檸檬汁中較低的維生素C含量。
+
+### 健康建議：
+1. 經常攝取檸檬水，因其對健康益處顯著且碳水化合物影響微小。
+2. 若為維生素C來源考量，優先選擇新鮮檸檬或未經巴氏消毒的冷榨果汁。
+
+### 結論：
+檸檬水在酮osis飲食中幾乎可忽略不計的碳水化合物影響，其健康益處遠超過潛在問題。建議持續攝取檸檬水以享受其多重健康功效。
 </details>
 
 <details>
-<summary>1443. Will Intermittent Fasting (One Meal a Day) Slow Metabolism? – Dr. Berg</summary><br>
+<summary>1443. [2018-04-08] Will Intermittent Fasting (One Meal a Day) Slow Metabolism? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=sEEH_QLoHJM" target="_blank">
     <img src="https://img.youtube.com/vi/sEEH_QLoHJM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 探讨间歇性禁食（Intermittent Fasting）与新陈代谢之间的关系。
+- 讨论低热量饮食对代谢的影响。
+- 结合低碳水化合物饮食（如生酮饮食）在能量消耗中的作用。
 
+### 主要觀念
+1. 间歇性禁食结合低碳水化合物饮食可能有助于避免新陈代谢减慢。
+2. 饮食结构的改变，特别是热量摄入的减少，会影响身体的能量来源。
+3. 生酮饮食通过利用体内脂肪储备提供能量，从而维持新陈代谢速率。
+
+### 問題原因
+- 当采用低热量饮食（如每日1,000大卡）时，单纯依赖外部碳水化合物可能导致新陈代谢减缓。
+- 高碳水化合物饮食无法有效利用体内脂肪储备，限制了身体的能量来源。
+
+### 解決方法
+1. 采用间歇性禁食结合低碳水化合物饮食（如生酮饮食），以增加体内脂肪的使用。
+2. 通过调整饮食结构，确保身体能够持续利用自身脂肪储备提供能量，从而维持新陈代谢速率。
+
+### 健康建議
+- 在进行低热量饮食时，建议结合低碳水化合物饮食以避免新陈代谢减慢。
+- 考虑采用间歇性禁食策略，以提高体内脂肪的利用率并保持代谢稳定。
+
+### 結論
+- 间歇性禁食结合低碳水化合物饮食（如生酮饮食）可能不会导致新陈代谢减缓，并有助于维持能量水平。
+- 饮食结构的调整需要综合考虑热量摄入和营养成分的比例，以达到最佳的健康效果。
 </details>
 
 <details>
-<summary>1442. Effects of Stevia on Ketosis – Dr. Berg</summary><br>
+<summary>1442. [2018-04-07] Effects of Stevia on Ketosis – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=R_O0tGOJDjk" target="_blank">
     <img src="https://img.youtube.com/vi/R_O0tGOJDjk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 研究甜菊糖（Stevia）對酮osis的影響  
 
+---
+
+### 主要觀念  
+1. 甜菊糖可能對血糖和酮/licenses/水平產生輕微影響。  
+2. 研究設計為非 стандар.identifierテスト，結果僅供參考。  
+
+---
+
+### 問題原因  
+- 甜菊糖可能干擾酮osis状态，具體表現為：  
+  - 血糖水平的輕微上升或下降。  
+  - 酮體水平的輕微上升或下降。  
+
+---
+
+### 實驗結果  
+1. **血糖變化**：  
+   - 63%的参与者血糖上升了3個點，但仍處於正常範圍（<100）。  
+   - 37%的参与者血糖下降了8個點。  
+2. **酮體變化**：  
+   - 63%的参与者酮體水平下降了0.1。  
+   - 37%的參與者酮體水平上升了0.2。  
+
+---
+
+### 説明與討論  
+- 結果顯示甜菊糖對血糖和酮/licenses/的影響微乎其微，屬於 insignificance 變化。  
+- 差異可能由個人代謝差異導致。  
+
+---
+
+### 健康建議  
+1. 消費甜菊糖時注意以下事項：  
+   - 避免含 maltodextrin 等添加物的產品。  
+   - 監控血糖和酮/licenses/水平，確保符合酮osis要求。  
+
+---
+
+### 結論  
+- 甜菊糖不太可能顯著干擾酮osis状态，影響微乎其微，無需過度憂慮。  
+- 個人差異存在，建議根據自身狀況調整攝取量。
 </details>
 
 <details>
-<summary>1441. Dr. Berg's Webinar On Stress Relieving: Easily Get Rid of Stress & Sleep Like a Baby</summary><br>
+<summary>1441. [2018-04-07] Dr. Berg's Webinar On Stress Relieving: Easily Get Rid of Stress & Sleep Like a Baby</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ueI10TQbQYY" target="_blank">
     <img src="https://img.youtube.com/vi/ueI10TQbQYY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 1. 核心主題：壓力管理和身體放松技術  
+文章圍繞壓力管理展開，強調通過物理按摩工具和營養補充劑來緩解壓力並提升整體健康。
+
+#### 2. 主要觀念：
+- **自主神經系統平衡**：按摩 tool 可以刺激背部的'autonomic nervous system'，從而平衡交感神經和副交感神經，促進全身放松。
+- **持續壓力影響**：長時間的壓力會對身體造成多方面負荷，包括肌肉緊張、睡眠障礙等。
+- **綜合方法**：結合物理按摩和營養補充劑是更有效的压力管理方式。
+
+#### 3. 問題原因：
+- 長期壓力導致自主神經系統失衡，引發肌肉緊張、睡眠_quality下降、情緒不穩等問題。
+- 經常忽略身體的早期信號，未能有效管理和放松。
+
+#### 4. 解決方法：
+- **物理按摩工具**：使用特殊設計的按摩 tool 持續按壓背部，刺激椎旁肌肉和神經，從而緩解壓力並提升放松效果。
+- **營養補充劑**：通過攝取含有 adrenal extracts 的產品來支持腎上腺功能，增強應對壓力的能力。
+
+#### 5. 健康建議：
+- **按摩工具的使用**：每天使用按摩 tool 進行背部按壓，每次約30秒至1分鐘，覆蓋全身脊椎。
+- **營養補充劑的應用**：
+  - 晚間服用 sleep aid 以改善睡眠質量，不含副作用。
+  - 白天服用 adrenal cortisol relief 來降低壓力激素，提升應對能力。
+- **綜合方案**：建議將按摩 tool、sleep aid 和 adrenal cortisol relief 組合使用，形成全天候的壓力管理系統。
+
+#### 6. 推薦產品：
+- **按摩工具**：便攜式設計，適用於家庭和旅行，附帶60天退貨保證。
+- **night formula（睡眠補充劑）**：含 adrenal extracts，改善睡眠而不影響日間精神狀態。
+- **adrenal cortisol relief（日間補充劑）**：提升壓力_tolerance，提供穩定能量。
+
+#### 7. 結論：
+文章強調通過科學的壓力管理方法和有效的工具，個人可以更有效地應對壓力，改善整體健康和生活品質。推薦的產品方案旨在提供一條綜合、實用且易於實施的壓力管理路徑。
+
+---
+
+以上整理基於原文內容，以正式學術用語進行條理化歸納，涵蓋核心主題、主要觀念、問題分析、解決策略及具體建議等多個方面。
 </details>
 
 <details>
-<summary>1440. How To Determine & Get Rid of Keto Side Effects? – Dr. Berg</summary><br>
+<summary>1440. [2018-04-06] How To Determine & Get Rid of Keto Side Effects? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=0quEszPiEQY" target="_blank">
     <img src="https://img.youtube.com/vi/0quEszPiEQY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：酮體副作用的決定因素及預防策略
 
+### 主要觀念：
+- 酮體飲食（酮飲）可能引起多種副作用，如疲勞、皮疹等。
+- 不同人對酮飲的反應存在差異，有些人會經歷嚴重副作用，而另一些人則幾乎無不適。
+
+### 問題原因：
+- 营養素缺乏是導致酮體副作用的主要原因之一，尤其是B族維生素和矿物质的不足。
+- 長期攝入垃圾食品或高糖飲食的人群更易於出現這些問題，因為他們身體中已存儲了較少的營養素。
+
+### 解决方法：
+- 在開始酮飲或禁食之前，補充必要的營養素，特別是B族維生素和矿物质。
+- 推荐使用營養酵母作為補充來源，以降低副作用的發生率。
+
+### 健康建議：
+- 确保每日飲食中包含足夠的礦物質和B族維生素，以支持身體健康。
+- 在實施酮體 diet 前，評估自身營養狀況，必要時諮詢專業醫生或營養師。
+
+### 結論：
+- 营養素缺乏是酮體副作用的重要決定因素。通過適當的營養補充，可以顯著降低這些副作用的風險。
+- 酮飲的效果和安全性因人而異，需根據個人情況調整飲食計劃並密切監測身體反應。
 </details>
 
 <details>
-<summary>1439. I Have No Appetite, Should I Eat? – Dr. Berg</summary><br>
+<summary>1439. [2018-04-05] I Have No Appetite, Should I Eat? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=W0idEcNNvcg" target="_blank">
     <img src="https://img.youtube.com/vi/W0idEcNNvcg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Core Theme: The Role of Food in Fasting and Keto Diets
 
+The article discusses the importance of food beyond just providing fuel, emphasizing its role in nutrient intake, especially for those following fasting or keto diets. It addresses the issue of low appetite and provides practical advice on maintaining nutritional balance without overeating.
+
+---
+
+#### Key Concepts:
+
+1. **Dual Purpose of Food**  
+   - **Fuel Provision**: Food serves as an energy source, particularly when the body is burning fat (as in fasting or keto).  
+   - **Nutrient Provision**: Essential nutrients, including electrolytes, are necessary for overall health and preventing deficiencies.
+
+2. **Low Appetite in Fasting/Keto Diets**  
+   - Many individuals experience a lack of hunger during these regimens due to the body's adaptation to fat burning.  
+   - This can lead to prolonged periods without eating, potentially causing nutrient deficiencies.
+
+3. **Nutritional Deficiencies Risk**  
+   - Extended fasting or low food intake can result in deficiencies, particularly in electrolytes, which may cause health issues like dizziness or blood pressure problems.
+
+---
+
+#### Causes and Concerns:
+
+1. **Risk of Nutrient Deficiency**  
+   - Prolonged fasting without adequate nutrient intake can lead to deficiencies, especially in electrolytes like sodium, potassium, and magnesium.  
+
+2. **Potential Health Issues**  
+   - Severe hunger or prolonged fasting can result in physical problems such as fainting, low blood pressure, or other complications.
+
+---
+
+#### Solutions and Recommendations:
+
+1. **Minimum Daily Nutrient Intake**  
+   - Consume at least one meal daily to ensure adequate nutrient intake, even if appetite is low.  
+
+2. **Balanced Meal Composition**  
+   - Focus on meals rich in nutrients: a balanced mix of vegetables, protein, and healthy fats.  
+
+3. **Adaptation to Fasting**  
+   - The stomach may shrink during fasting, reducing the need for large meals or excessive calorie intake.  
+
+4. **Weight Maintenance Strategy**  
+   - For those aiming to maintain weight, two smaller meals per day are recommended to avoid overeating and ensure nutrient intake.
+
+---
+
+#### Health Recommendations:
+
+1. **Mindful Eating**  
+   - Eat only when hungry to avoid unnecessary calorie consumption while ensuring minimum daily nutrient intake.  
+
+2. **Electrolyte Balance**  
+   - Monitor and maintain electrolyte levels, especially during prolonged fasting or low-carb diets.  
+
+3. **Gradual Adaptation**  
+   - Allow the body to adapt gradually to fasting or keto regimens to prevent shock or discomfort.
+
+---
+
+#### Conclusion:
+
+The article emphasizes the importance of balancing fuel and nutrient intake during fasting or keto diets, particularly for those with low appetite. While fasting can be beneficial, it is crucial to ensure adequate nutrient consumption to avoid deficiencies and maintain overall health. The key takeaway is to listen to your body's signals but also prioritize nutritional needs.
+
+### Summary:
+
+The article highlights the dual role of food in providing both energy and nutrients, especially for individuals following fasting or keto diets. It addresses the challenge of low appetite and offers practical advice on maintaining nutrient intake without overeating. The main recommendations include consuming at least one meal daily, focusing on balanced nutrition, and being mindful of electrolyte levels to avoid deficiencies and potential health issues.
 </details>
 
 <details>
-<summary>1438. Why Ketosis is Hard Wired Into Our Genetics – Dr. Berg</summary><br>
+<summary>1438. [2018-04-05] Why Ketosis is Hard Wired Into Our Genetics – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=cnzRWYHhmOQ" target="_blank">
     <img src="https://img.youtube.com/vi/cnzRWYHhmOQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+## 文章重點整理
 
+### 核心主題
+- **酮症（Ketosis）**：文章圍繞酮症的好處、適用人群以及其在人體中的自然角色展開討論。
+  
+### 主要觀念
+1. **酮症的自然性**：
+   - 酮症是人類基因中硬-coded 的功能，酮體是脂肪燃燒的副產品。
+   - 酮體是一種主要的能量來源，而非備用能量來源，與此相對的是糖分（葡萄糖）作為備用能量來源。
+
+2. **人體能量來源的設計**：
+   - 母親自然並未設計人體主要以碳水化合物（糖分）為能量來源。
+   - 平均美國人的每日糖分攝取量高達30茶匙，遠超於健康的範圍。
+
+3. **儲能系統的不平衡**：
+   - 非肥胖者體內儲存了約77,000卡路里的脂肪能量，但僅有1,700卡路里的糖分儲存量（glycogen）。
+   - 這種儲能不平衡表明人體更適合以脂肪為主要能量來源。
+
+### 問題原因
+- **現代飲食習慣的影響**：
+  - 現代人頻繁進食，平均每小時半小時進食一次，導致持續消耗和補充糖分儲存量。
+  - 長期依賴碳水化合物作為主要能量來源，未能有效利用脂肪儲備。
+
+### 解決方法
+1. **低碳水化合物飲食**：
+   - 通過降低碳水化合物攝取量，使身體進入酮症狀態，開始燃燒脂肪為主的能量來源。
+
+2. ** intermittent fasting（間歇性禁食）**：
+   - 禁食期間，人體將更多依賴脂肪儲備提供能量，進一步促進酮症的發生。
+
+### 健康建議
+- **健康酮症的實踐**：
+  - 適當進行低碳水化合物飲食和間歇性禁食，以有效利用身體的脂肪儲備。
+  - 確保酮症的實施是健康的，避免可能的副作用。
+
+### 結論
+- **酮症的重要性**：
+  - 酮症不僅是一種有效的能量來源，還具有多方面的治療效果。
+  - 運行以糖分為主要能源（glycolysis）會導致許多健康問題的惡化。
+
+---
+
+## 英文摘要
+
+### Core Theme
+- **Ketosis**: The article discusses the benefits of ketosis, its suitability for certain individuals, and its natural role in human physiology.
+
+### Key Concepts
+1. **Natural Role of Ketosis**:
+   - Ketosis is a hard-coded function in human genetics, with ketones being byproducts of fat burning.
+   - Ketones serve as a primary energy source, unlike glucose (carbohydrates), which acts as an alternative energy source.
+
+2. **Human Energy Source Design**:
+   - The human body was not designed to primarily run on carbohydrates (sugars).
+   - The average American consumes about 30 teaspoons of sugar daily, far exceeding healthy limits.
+
+3. **Imbalance in Energy Storage**:
+   - Non-obese individuals store approximately 77,000 calories of fat but only 1,700 calories of carbohydrate glycogen.
+   - This imbalance suggests a natural preference for fat as the primary energy source.
+
+### Causes of Issues
+- **Impact of Modern Dietary Habits**:
+  - Modern eating patterns involve frequent meals every one and a half hours, leading to constant depletion and replenishment of sugar stores.
+  - Over-reliance on carbohydrates prevents effective utilization of fat reserves.
+
+### Solutions
+1. **Low-Carbohydrate Diet**:
+   - Reducing carbohydrate intake promotes ketosis, enabling the body to burn fats as the primary energy source.
+
+2. **Intermittent Fasting**:
+   - Fasting periods encourage the body to rely more on fat stores for energy, enhancing ketosis.
+
+### Health Recommendations
+- **Practical Ketosis**:
+  - Implement low-carbohydrate diets and intermittent fasting to effectively utilize fat reserves.
+  - Ensure that ketosis is practiced healthily to avoid potential side effects.
+
+### Conclusion
+- **Importance of Ketosis**:
+  - Ketosis is not only an effective energy source but also offers therapeutic benefits.
+  - Running the body primarily on sugars (glycolysis) can exacerbate numerous health issues.
 </details>
 
 <details>
@@ -703,36 +990,114 @@
 </details>
 
 <details>
-<summary>1436. Does Intermittent Fasting Causes Gallstones? – Dr. Berg</summary><br>
+<summary>1436. [2018-04-04] Does Intermittent Fasting Causes Gallstones? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=4W8gASMBz_I" target="_blank">
     <img src="https://img.youtube.com/vi/4W8gASMBz_I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Summary in English
 
+---
+
+#### Core Theme  
+The article discusses the relationship between fasting, skipping meals, and the formation of gallstones. It explains the role of bile in digestion and how dietary choices can influence gallstone development.
+
+---
+
+#### Key Concepts  
+1. **Bile Function**: Bile is produced by the liver, stored in the gallbladder, and concentrated to aid digestion, particularly for breaking down fats.
+2. **Gallstone Formation**: Gallstones develop when bile becomes supersaturated with cholesterol or bilirubin, leading to crystallization.
+3. **Role of Fasting**: Intermittent fasting can increase bile concentration by allowing the gallbladder to store and concentrate bile without food intake.
+
+---
+
+#### Causes of Gallstones  
+1. **Low Bile Secretion**: A lack of stimulation for bile production can lead to supersaturation and stone formation.
+2. **High Saturated Fat Intake**: Overconsumption of saturated fats triggers excess bile production, increasing the risk of gallstone formation.
+3. **Diabetes and High Carbohydrate Diets**: Poor diet quality and frequent meals deplete bile reserves, contributing to gallstones.
+
+---
+
+#### Solutions and Health Recommendations  
+1. **Ketogenic Diet**: Increasing fat intake can stimulate bile production, reducing the risk of gallstones by ensuring regular bile flow.
+2. **Intermittent Fasting**: Allowing the body to concentrate bile during fasting periods can help prevent gallstone formation.
+3. **Balanced Diet**: Avoiding excessive carbohydrates and maintaining a diet rich in healthy fats is crucial for optimal bile function.
+
+---
+
+#### Conclusion  
+The article concludes that intermittent fasting does not cause gallstones. In fact, it may reduce the risk by promoting bile concentration and secretion. However, individuals should be mindful of their overall diet to ensure proper bile function and minimize the risk of gallstone formation.
+
+--- 
+
+This summary provides a clear and concise overview of the article's content using formal academic language while maintaining readability.
 </details>
 
 <details>
-<summary>1435. Why Am I Not Losing Weight On Ketosis? – Dr. Berg</summary><br>
+<summary>1435. [2018-04-03] Why Am I Not Losing Weight On Ketosis? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=YiauxOPZrZk" target="_blank">
     <img src="https://img.youtube.com/vi/YiauxOPZrZk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：酮症（Ketosis）與體重管理
 
+#### 主要觀念：
+1. **酮症的概念**：酮症是指人體在燃燒脂肪過程中產生酮體（ketones），並主要依賴酮體而非葡萄糖作為能量來源的生理狀態。
+2. **進入酮症的條件**：通過降低碳水化合物攝取量，使身體轉向使用脂肪作為主要能量來源。
+
+#### 問題原因：
+1. **酮症不一定導致減重的原因**：
+   - 若每日攝入熱量過高（如10,000大卡），即使處於酮症，酮體的來源可能來自食物中的脂肪而非自身儲存的脂肪。
+   - 高熱量攝取可能使酮症狀態下的身體依賴外來脂肪，而非消耗自身的脂肪 reserves。
+
+#### 解決方法：
+1. **控制熱量攝取**：除了降低碳水化合物攝取，還需注意每日總熱量攝入，避免過高的 calorie intake。
+2. **均衡飲食結構**：保持適當的蛋白質攝取，避免過高蛋白質攝入，並根據個人代謝情況調整脂肪攝取量。
+
+#### 健康建議：
+1. **低 carb 饮食的優勢**：低碳水化合物飲食（如酮ogenic diet）通常有助於防止體重增加，尤其是配合 time-restricted fasting 時。
+2. **注意個體差異**：不同人對脂肪攝取的耐受度和代謝率不同，需根據個人情況調整飲食結構。
+
+#### 結論：
+- 症本身不一定導致減重，關鍵在於整體熱量攝取與飲食結構的平衡。
+- 若要有效減重，建議在保持低碳水化合物的同時，控制總熱量攝入，並根據自身代謝情況調整飲食 composition。
 </details>
 
 <details>
-<summary>1434. Do You Feel Lightheaded On Keto Diet & Intermittent Fasting? – Dr. Berg</summary><br>
+<summary>1434. [2018-04-03] Do You Feel Lightheaded On Keto Diet & Intermittent Fasting? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=EK-ykIPXWEE" target="_blank">
     <img src="https://img.youtube.com/vi/EK-ykIPXWEE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：酮egenic diet（生酮飲食）配合斷食計劃期間的輕頭暈症狀與解決方法
 
+#### 主要觀念：
+1. 轻头暈是酮ogenic diet和斷食計劃常見的副作用之一，通常與血容量或血壓下降有關。
+2. 酮egenic diet初期，人體會排出潴留的碳水化合物相關的水分，導致血容量降低。
+
+#### 問題原因：
+1. 血容量降低：酮ogenic diet和斷食計劃會導致身體排出潴留的水分，從而降低血容量和血壓。
+2. 離子失衡：僅飲用純水而未補充適當的離子（如鹽分、カリウム等）可能會進一步稀釋血液中的離子濃度，加重不適。
+
+#### 解決方法：
+1. 补充水分和鹽分：建議飲用添加了海鹽的水，以迅速恢復血容量。
+   - 推荐用量：每杯水中加入約1/8茶匙海鹽。
+2. 補充其他離子：除鹽分外，還需注意補充カリウム和其他必需的 Minerals。
+
+#### 健康建議：
+1. 減少單一飲水：避免只喝純水，應配合適當的鹽分和離子補充。
+2. 適當攝取 electrolytes：確保每日飲食中包含足夠的鹽分、カリウム和其他 Minerals。
+3. 监控症狀：如果輕頭暈持續或加重，建議諮詢醫生，排除其他潛在疾病（如貧血、低血糖等）。
+
+#### 結論：
+1. 軽頭暈通常是酮ogenic diet和斷食計劃初期的短期副作用，可通过補充水分和鹽分有效緩解。
+2. 長期而言，保持適當的 electrolytes 平衡是維持健康飲食計劃的重要環節。
 </details>
 
 <details>
@@ -948,61 +1313,41 @@
         alt="[Youtube]" width="200">
 </a>
 
-### 核心主題  
-- 正常血糖水平的定義和歷史變遷。  
-- 高胰島素血症在糖尿病前期診斷中的重要性。  
+### 文章重點整理
 
----
+#### 核心主題
+- 正常血糖水平的時間變遷及爭議
+- 高胰島素血症在前期糖尿病中的重要性
+- 健康建議：檢測 fasting insulin level 以早期發現問題
 
-### 主要觀念  
-1. **正常血糖水平的历史变化**：  
-   - 根据美国糖尿病协会（ADA）的标准，正常血糖水平在过去几十年中有所变动：  
-     - 1925年：90-120 mg/dL  
-     - 1968年：130 mg/dL  
-     - 1978年：115 mg/dL  
-     - 1997-2003年：110 mg/dL  
-     - 2004-2007年：100 mg/dL  
+#### 主要觀念
+1. 正常血糖水平的範圍因年代而異：
+   - 1925年：90-120 mg/dL
+   - 1968年：130 mg/dL
+   - 1978年：115 mg/dL
+   - 1997-2003年：110 mg/dL
+   - 2004-2007年：100 mg/dL
 
-2. **高胰岛素血症与糖尿病前期的关系**：  
-   - 高胰岛素血症（high fasting insulin levels）是糖尿病前期的重要指标，且早于血糖升高出现。  
-   - 传统上更关注空腹血糖水平，但忽略了高胰岛素血症的潜在危害。  
+2. 根據Joseph Kraft MD的研究，高胰島素血症是前期糖尿病的最佳指標。
+3. 高胰島素血症在血糖升高之前出現，可能導致低血糖（hypoglycemia），尤其是腎上腺功能不足的情況下。
 
----
+#### 問題原因
+- 現行醫療實踐中，醫生通常不檢測 fasting insulin level。
+- 即使血糖水平正常，患者仍可能出现 fatigue, weight gain等症狀，未能早期發現問題。
 
-### 問題原因  
-- **傳統診斷方法的局限性**：  
-  - 医生通常只測試空腹血糖和糖化血紅蛋白（HbA1c），而未充分評估胰島素水平。  
-- **高胰岛素血症的隱匿性**：  
-  - 高胰岛素血症早期可能不會影響空腹血糖，但仍會導致身體代謝紊亂。  
+#### 解決方法
+1. 建議在下一次就診時要求進行 fasting insulin test。
+2. 參考Joseph Kraft MD的研究，了解高胰島素血症的潛在影響。
 
----
+#### 健康建議
+- 定期檢測血糖和胰島素水平，以早期發現前期糖尿病。
+- 重視身體症狀，即使血糖正常，也要注意疲勞、肥胖等問題。
+- 考慮加入健康社群（如Dr. Berg's Kido and Intermittent Fasting Lab），分享經驗和結果。
 
-### 解決方法  
-1. **建議測試項目**：  
-   - 建議在常規檢查中加入空腹胰島素測試，以評估胰島素水平。  
-2. **改善胰岛素敏感性**：  
-   - 通過飲食控制（如低碳水化合物飲食）、運動和生活方式調整，來提高身體對胰島素的敏感性。  
-
----
-
-### 健康建議  
-1. **定期檢查胰島素水平**：  
-   - 對于有糖尿病前期症狀（如疲勞、肥胖等）的人群，建議諮詢醫生進行空腹胰島素測試。  
-2. **飲食調整**：  
-   - 減少精制糖和高碳水化合物的攝入，增加膳食纖維和健康脂肪的攝取。  
-3. **生活方式改變**：  
-   - 保持規律運動，避免久坐，以提高身體代謝效率。  
-
----
-
-### 結論  
-- 正常血糖水平的定義因年代而異，但高胰岛素血症是糖尿病前期的重要指征。  
-- 及時評估胰島素水平並采取針對性干預措施，可以有效延缓或防止糖尿病的發生。  
-
----
-
-### 英文摘要（Executive Summary）  
-The article discusses the historical evolution of normal blood sugar levels and highlights the importance of fasting insulin levels in identifying pre-diabetes. It emphasizes that high insulin levels often precede elevated blood glucose and are a key indicator of metabolic dysfunction. Traditional diagnostic methods focusing solely on fasting blood glucose may overlook early signs of insulin resistance. The author recommends incorporating fasting insulin tests into routine check-ups and suggests lifestyle changes, such as dietary adjustments and regular exercise, to improve insulin sensitivity. Overall, understanding the role of insulin in metabolic health is crucial for early detection and prevention of diabetes-related conditions.
+#### 結論
+- 正常血糖水平的定義隨時間變遷，需根據最新研究調整。
+- 高胰島素血症是前期糖尿病的重要指標，值得更多關注。
+- 及時檢測胰島素水平，對於早期發現和管理糖尿病至關重要。
 </details>
 
 <details>
