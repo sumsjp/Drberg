@@ -131,25 +131,110 @@
 </details>
 
 <details>
-<summary>1488. Quick Fix For Hiatal Hernia – Dr. Berg</summary><br>
+<summary>1488. [2018-05-04] Quick Fix For Hiatal Hernia – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vgLdr8Kkz7E" target="_blank">
     <img src="https://img.youtube.com/vi/vgLdr8Kkz7E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 文章結構化整理：疝氣（Hiatal Hernia）的家庭治療法
 
+## 核心主題
+- 討論如何處理食道裂孔疝（Hiatal Hernia），介紹一種快速提供症狀 Relief 的手法療法。
+
+---
+
+## 主要觀念
+1. **食道裂孔疝的定義**：
+   - 胃部組織通過膈肌的食道裂孔突出，導致胃食道逆流（GERD）等症狀。
+2. **症狀與影響**：
+   - 食物或酸性液體倒流至食道，引起燒心、反酸等不適。
+
+---
+
+## 問題原因
+- 膈肌和食道下端括約肌的松弛，導致胃內容物逆流。
+- 縂狀部位肌肉緊張或痙攣，影響消化功能。
+
+---
+
+## 解決方法
+1. **手法按摩技術**：
+   - **定位**：位於胸骨下方、肋骨下方的中間位置（膈肌附近）。
+   - **操作步驟**：
+     1. 使用手掌根部或按摩工具，從左側和右側分別按壓肋骨下方的角度。
+     2. 從 ribs 下方開始，以輕柔力道向中心線方向按压。
+     3. 持續按壓1至2分鐘，重複左右两侧的操作。
+2. **注意事項**：
+   - 避免直接按壓胸骨中間的軟骨（sternum）。
+   - 按壓時保持輕柔，以避免肌肉過度緊張。
+
+---
+
+## 健康建議
+1. **日常護理**：
+   - 減少攝取刺激性食物和飲料（如咖啡、辛辣食品、酒精等）。
+   - 保持適當體重，以減輕膈肌的壓力。
+2. **按摩頻率**：
+   - 每天一次，持續1至2週，可幫助鬆解肌肉緊張和改善症狀。
+
+---
+
+## 結論
+- 手法按摩是一種有效的家庭療法，能快速緩解食道裂孔疝引起的症狀。
+- 需配合飲食調整和生活習慣的改變，以達到長期 Relief 和康復效果。
 </details>
 
 <details>
-<summary>1487. Our Daily Nutrient Requirements (RDAs) Are Too Low – Dr. Berg</summary><br>
+<summary>1487. [2018-05-03] Our Daily Nutrient Requirements (RDAs) Are Too Low – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=wI2lyNBO9wE" target="_blank">
     <img src="https://img.youtube.com/vi/wI2lyNBO9wE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### **文章重點整理**
 
+#### **核心主題**
+- 論述RDA（Recommended Dietary Allowances，建議膳食攝取量）為維生素和礦物質的最低每日攝取量，旨在防止 deficiency diseases（缺乏症），如壞血病、貧窮病等。
+- 强調 nutrient-dense foods（營養密集食物）在滿足人體營養需求方面的關鍵作用。
+
+#### **主要觀念**
+1. **RDA 的定義與意義**：
+   - RDA 是防止 deficiency diseases 的最低攝取量，而非 optimal 水平。
+2. **營養攝取的挑戰**：
+   - 很多人不了解自身是否攝取足夠的營養。
+   - 生活壓力、感染、消化問題等因素會增加對營養的需求。
+3. **營養密集食物的重要性**：
+   - 如十字花科蔬菜、野生海產、 pasture-raised eggs（放牧雞蛋）、grass-fed 肉類等，含豐富的營養素。
+4. **低營養密度食物**：
+   - 如西葫蘆、茄子、生菜等，雖可食用，但營養價值較低。
+
+#### **問題原因**
+- 現代飲食習慣中，許多人攝取的營養可能不足或不均衡。
+- 生活壓力和健康狀況（如感染、消化不良）會增加對某些營養素的需求。
+- 即使在酮症ダイエット中，若缺乏鋅、B群等 nutrients，也可能導致副作用。
+
+#### **解決方法**
+1. **.DOWNLOAD 营養食物清單**：
+   - 提供一份詳細的 nutrient-dense foods 清單，幫助消費者有針對性地攝取必要營養素。
+2. **高 vegetable 摄取量**：
+   - 推荐每日攝取7-10杯蔬菜，以滿足多種營養需求，避免 deficiency。
+3. **健康建議**：
+   - 注意個人飲食結構，多攝取 nutrient-dense foods。
+   - 若出現 fatigue、皮疹等症狀，需考慮營養缺乏的可能。
+
+#### **結論**
+- 確保足夠的營養攝取是維持健康的基石。
+- 营養 dense 食物在飲食中佔關鍵地位。
+- 即使是在特殊ダイエット（如酮症）中，也需注意多方面的營養均衡。
+
+### **總結性問答**
+
+**Q: 什麼是RDA？它的主要作用是什麼？**
+
+A: RDA（建議膳食攝取量）是指防止 deficiency diseases 的最低每日攝取量，旨在保障人體基本的營養需求。
 </details>
 
 <details>
@@ -164,91 +249,455 @@
 </details>
 
 <details>
-<summary>1485. I Can’t Do Keto Due to My Intense (Extreme) Cravings – Dr. Berg</summary><br>
+<summary>1485. [2018-05-02] I Can’t Do Keto Due to My Intense (Extreme) Cravings – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=7En2hOOR5HY" target="_blank">
     <img src="https://img.youtube.com/vi/7En2hOOR5HY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 中文版本
 
+#### 核心主題  
+- 探讨如何通过低碳水化合物饮食和酮症来消除 cravings（渴望），并实现长期的血糖稳定。
+
+#### 主要觀念  
+1. **血醣水平與胰島素的作用**  
+   - 血糖水平下降至低血糖状态时，会导致 cravings。
+   - 高胰岛素水平是导致血糖波动和 cravings 的主要原因。
+
+2. **飲食結構對血糖的影響**  
+   - 碳水化合物（carbs）会直接刺激胰岛素分泌，导致血糖升高后迅速下降。
+   - 蛋白质在过量摄入时也会刺激胰岛素分泌。
+   - 脂肪对胰岛素水平几乎没有影响。
+
+3. **酮症ダイエットのメリット**  
+   - 通过低碳水化合物饮食进入酮症状态，可以减少对胰岛素的依赖，稳定血糖水平。
+
+#### 問題原因  
+- 高胰岛素水平导致血糖波动，进而引发 cravings。
+- 标准飲食中碳水化合物和蛋白质的比例过高，刺激胰岛素分泌。
+
+#### 解决方法  
+1. **飲食調整**  
+   - 采用低碳水化合物、适量蛋白质、高脂肪的饮食结构。
+   - 增加蔬菜摄入量以提供必要的营养素。
+
+2. **補充電解質與維生素**  
+   - 使用含钾和B族维生素的电解质粉末，帮助缓解 transition phase（过渡期）的症状。
+   -  cider vinegar 可作为辅助补充剂。
+
+3. **加速适应期**  
+   - 通过补充电解质和营养素，将 transition phase 从三天缩短至1.5天。
+
+#### 健康建議  
+- 在開始任何飲食計劃之前，建議諮詢專業醫療人員。
+- 確保飲食中包含足夠的蔬菜以提供必要 nutrients。
+- 適當補充電解質和 B 群維生素，以幫助身體順應酮症狀態。
+
+#### 結論  
+- 通过调整饮食结构，降低胰岛素水平，可以有效消除 cravings 并实现长期血糖稳定。
+- 酮症ダイエットは、sugar burning（糖分燃燒模式）轉換為 fat burning（脂肪燃燒模式）的有效方法。
+
+### English Version
+
+#### Core Theme  
+- Exploring how a low-carbohydrate diet and ketosis can eliminate cravings and achieve long-term blood sugar stability.
+
+#### Key Concepts  
+1. **Blood Sugar Levels and Insulin's Role**  
+   - Blood sugar levels dropping to hypoglycemia (low blood sugar) triggers cravings.
+   - High insulin levels are the main cause of blood sugar fluctuations and cravings.
+
+2. **Impact of Diet on Blood Sugar**  
+   - Carbohydrates directly stimulate insulin secretion, leading to rapid blood sugar spikes and crashes.
+   - Excessive protein intake can also trigger insulin release.
+   - Fats have no significant impact on insulin levels.
+
+3. **Benefits of Keto Diet**  
+   - Entering a state of ketosis through low-carbohydrate diet reduces dependence on insulin and stabilizes blood sugar levels.
+
+#### Problem Analysis  
+- High insulin levels cause blood sugar fluctuations, leading to cravings.
+- Standard diets with high carbohydrate and protein content stimulate excessive insulin secretion.
+
+#### Solutions  
+1. **Dietary Adjustments**  
+   - Adopt a low-carbohydrate, moderate-protein, high-fat diet structure.
+   - Increase vegetable intake for essential nutrients.
+
+2. **Electrolyte and Vitamin Supplementation**  
+   - Use electrolyte powders rich in potassium and B vitamins to alleviate transition phase symptoms.
+   - Apple cider vinegar can be used as an auxiliary supplement.
+
+3. **Accelerated Adaptation Period**  
+   - Shorten the adaptation period from three days to 1.5 days through proper electrolyte and nutrient supplementation.
+
+#### Health Recommendations  
+- Consult a healthcare professional before starting any diet plan.
+- Ensure adequate vegetable intake for necessary nutrients.
+- Appropriately supplement with electrolytes and B vitamins to help the body adapt to ketosis.
+
+#### Conclusion  
+- Adjusting饮食结构to reduce insulin levels can effectively eliminate cravings and achieve long-term blood sugar stability.
+- Ketosis is an effective method to transition from sugar burning mode to fat burning mode.
 </details>
 
 <details>
-<summary>1484. What Are The Main Causes of Vitamin B1 Deficiency (Thiamine)? – Dr. Berg</summary><br>
+<summary>1484. [2018-05-02] What Are The Main Causes of Vitamin B1 Deficiency (Thiamine)? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=PE_pToQoXx8" target="_blank">
     <img src="https://img.youtube.com/vi/PE_pToQoXx8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：維生素B1缺乏的原因及影響
 
+#### 核心主題
+- 維生素B1（硫胺素）在人體中的重要性及其缺乏的原因和後果。
+
+#### 主要觀念
+1. **維生素B1的功能**：
+   - 與能量代謝、神經功能和免疫系統相關。
+   - 保護against高胰島素和高血糖的損害。
+
+2. **導致缺乏的原因**：
+   - 食用精緻穀物（如白麵包、 pasta、大米）。
+   - 酒精濫用導致肝臟損傷。
+   - 長期使用皮質醇类藥物（如.prednisone）。
+   - 使用Metformin治療2型糖尿病，會增加缺乏風險。
+   - 高糖攝入（尤其是加工食品中的糖）。
+   - 喝茶過量，因鞣酸影響吸收。
+   - 消費生魚或含硫ites的食物。
+   - 胰島素抵抗或糖尿病患者的代謝狀況。
+   - 咖啡攝入過多，影響B1吸收。
+   - 其他藥物（如抗生素、利尿劑）的副作用。
+   - 胃腸道疾病（如IBS）導致吸收不良。
+
+#### 問題原因
+- 維生素B1缺乏主要由飲食結構、藥物使用、生活方式和健康狀況等因素引起。
+
+#### 解決方法
+1. **調整飲食**：
+   - 減少精緻穀物和高糖食品的攝取。
+   - 限制茶和咖啡的摄入，或選擇低鞣酸的茶種。
+   - 選擇富含B1的食物（如瘦肉、全穀物、豆類、葵花籽）。
+
+2. **藥物使用**：
+   - 對於正在服用Metformin或其他影響B1吸收的藥物的人，建議在醫生指導下補充B1。
+
+3. **健康狀況管理**：
+   - 治療肝臟疾病或胃腸道問題以改善吸收。
+   - 控制血糖和胰島素抵抗，降低糖尿病並發症風險。
+
+#### 健康建議
+- 定期評估飲食結構，避免長期依賴精緻食品和含糖飲料。
+- 減少酒精和咖啡的攝入量。
+- 如果有相關疾病或正在服用可能影響B1吸收的藥物，及時諮詢醫療專業人員並考慮補充劑。
+
+#### 結論
+維生素B1缺乏是一個多因素導致的問題，涉及飲食、藥物使用和健康狀況。了解其原因和後果，並採取適當措施，可以有效預防 deficiency並促進整體健康。
 </details>
 
 <details>
-<summary>1483. What Is Gluconeogenesis? – Dr. Berg</summary><br>
+<summary>1483. [2018-05-01] What Is Gluconeogenesis? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=UUryv7amArU" target="_blank">
     <img src="https://img.youtube.com/vi/UUryv7amArU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **Gluconeogenesis**: 腺苷酸從非碳水化合物來源（如蛋白質和某些脂類）生成葡萄糖的生化途徑。
 
+### 主要觀念
+1. **定義與來源**：
+   - Gluconeogenesis 是指在沒有攝入碳水化合物的情況下，機體利用蛋白質和某些脂類（例如三酰甘油）合成葡萄糖。
+   
+2. **生理意義**：
+   - 這一生理過程的主要目的是維持血糖水平，特別是在禁食或進餐間隔期間，防止低血糖症（hypoglycemia）。
+
+3. **代謝需求**：
+   - 大部分身體細胞可以利用酮體作為能量來源，但少數特定的細胞和腦部區域仍需要葡萄糖，例如眼睛某些部分和小腦的一部分。
+
+### 問題原因
+- 無攝入或缺乏碳水化合物時，機體無法直接從外界獲得足夠的能量來源。
+
+### 設計方法
+- **Gluconeogenesis** 作為一種補充性代謝途徑，確保在任何情況下都能夠維持必需的血糖水平。
+
+### 健康建議
+1. **飲食規劃**：
+   - 即使在低碳水化合物或酮ogenic飲食中，了解機體仍能合成必要的葡萄糖至關重要。
+   
+2. **能量來源的平衡**：
+   - 利用蛋白質和脂肪作為主要的能量來源，並意識到機體會動員儲存的脂類來生成酮體。
+
+### 結論
+- 機體具備高度適應性，能夠在缺乏碳水化合物的情況下，通過 gluconeogenesis 和酮體利用來維持血糖穩定和能量供應。這一點對於規劃飲食結構和理解機體代謝運作具有重要意義。
 </details>
 
 <details>
-<summary>1482. Hashimoto's Disease (Hypothyroid) and Keto (Ketogenic Diet) – Dr. Berg</summary><br>
+<summary>1482. [2018-05-01] Hashimoto's Disease (Hypothyroid) and Keto (Ketogenic Diet) – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=OX2tmzcA9GY" target="_blank">
     <img src="https://img.youtube.com/vi/OX2tmzcA9GY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- **自體免疫疾病：橋本氏病（Hashimoto's）**  
+  桥本氏病是一种自体免疫性疾病，主要影响甲状腺功能。
 
+---
+
+### 主要觀念  
+1. **桥本氏病的本质**  
+   - 不仅仅是甲状腺问题，而是与全身性免疫系统失调密切相关。  
+   - 病因通常由应激事件触发，如心理压力、重大生活变故（丧失亲人、离婚、怀孕等）。  
+
+2. **橋本氏病的诱因**  
+   - 高 estrogen 水平：削弱甲状腺功能。  
+   - 高 cortisol 和應激狀態：影響内分泌系统敏感性。  
+   - 营養缺乏：如硒、碘等微量元素不足。  
+   - 不健康飲食：加工食品、反式脂肪（如大豆油、玉米油）、麸質敏感性食物、 GMO 食物。  
+   - 辐射暴露：如 Dental X 光檢查未做好防護。  
+
+---
+
+### 問題原因  
+1. **免疫系統失衡**  
+   - 自体免疫反應攻擊自身組織，特別是甲状腺。  
+
+2. **應激反應的影響**  
+   - 應激事件後免疫功能紊亂，導致橋本氏病發病。  
+
+3. **環境與飲食因素**  
+   - 環境毒素、營養失衡及不良飲食習慣削弱 thyroid 功能。  
+
+---
+
+### 解決方法  
+1. **調整飲食結構**  
+   - 健康生酮飲食：每日進餐次數减少，避免過度影響代謝。  
+   - 減少加工食品和反式脂肪攝入。  
+
+2. **補充營養素**  
+   - 硒（Selenium）：提升免疫功能。  
+   - 膳食中的维生素 A 和维生素 D：來源包括魚油、蛋黃等。  
+
+3. **使用 bile salts**  
+   - 促進 thyroid 功能，幫助將 T4 转化為活性的 T3 濕激素。  
+
+---
+
+### 健康建議  
+1. **免疫系統調理**  
+   - 減少應激反應：通過心理疏導或壓力管理技巧（如冥想、運動）來改善免疫功能。  
+
+2. **飲食建議**  
+   - 增加十字花科蔬菜攝取量（如 Brussels sprouts），因其富含 glutathione，有助于免疫系統修復。  
+
+3. **生活方式調整**  
+   - 定期監測甲状腺功能指標。  
+   - 避免不必要的放射性檢查或做好防護措施。  
+
+---
+
+### 結論  
+- 桥本氏病的治療需綜合考慮免疫功能、飲食習慣和應激管理。  
+- 通過調整飲食結構、補充營養素及改善生活方式，可以有效控制病情並提升整體健康狀況。
 </details>
 
 <details>
-<summary>1481. Top 11 Health Benefits of CELERY – Dr. Berg</summary><br>
+<summary>1481. [2018-04-30] Top 11 Health Benefits of CELERY – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=OqlpjiFmVmg" target="_blank">
     <img src="https://img.youtube.com/vi/OqlpjiFmVmg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小結與整理
 
+#### 核心主題
+- **研究對象**：芹菜（Celery）的健康益處及其活性成分3-nitrobutylbenzene（3-nitrobutyl valerate）的作用。
+
+#### 主要觀念
+1. 芹菜富含多種營養成分，具有多樣化的健康功效。
+2. 3-nitrobutylbenzene是芹菜中的一種活性化合物，能夠提供以下功效：
+   - **降低血壓**：通過 vasodilation（血管舒張）作用來降低血流阻力。
+   - **抑制肌肉痙攣**：具有抗痙挛效果。
+   - **利尿作用**：作為自然的利尿劑，幫助排出 excess fluid，緩解浮腫。
+3. 芹菜可作為輔助治療手段，用於改善多種健康問題，包括：
+   - **腸胃問題**：如腸氣、便秘等。
+   - **生殖健康**：提升睾酮水平，增強性功能。
+   - **睡眠品質**：幫助放鬆並提升睡眠深度。
+
+#### 問題原因
+- 传统芹菜的栽培和銷售過程中，常規芹菜受 pesticide 殡害汙染，影響食用安全性和健康益處。有研究指出，傳統栽培的芹菜可能含有19種不同的殺蟲劑殘留，這些化學物質對人體有害。
+
+#### 解決方法
+- **選擇有機芹菜**：有機耕作方式避免使用合成農藥，提供更潔淨且營養價值更高的產品。
+- **合理食用量**：
+  - 每日建議攝取量為3至4根芹菜，連續攝取數周可觀看到穩定的健康效果。
+  - 參考食用方法：直接生食、蘸醬（如花生醬、 hummus）、加入沙拉 Dressing 等。
+
+#### 健康建議
+1. **食用方式**：
+   - 芹菜適合多種食用方式，包括生食和熟食。
+   - 最佳食用時機為每日最後一餐，可與花生醬等脂肪來源一起食用，以增進吸收。
+2. **健康問題的輔助治療**：
+   - 對於腎臟問題（如腎石、尿酸鹽沉積）：芹菜的利尿和抗炎作用有助於溶解和排出 stones。
+   - 骨骼關節問題（如關節炎、胃潰瘍）：芹菜的抗炎特性可緩解炎症和疼痛。
+
+#### 結論
+- 芹菜是一種多功能的健康食品，其活性成分3-nitrobutylbenzene提供了多方面的健康益處。
+- 消費者應選擇有機芹菜以避免 pesticide 殡害的風險，並通過每日攝取3至4根芹菜來維持長期健康。
+- 芹菜可作為均衡飲食的一部分，用於預防和辅助治療多種健康問題。
 </details>
 
 <details>
-<summary>1480. Intense Withdrawal Symptoms & Headaches on Keto Adaptation – Dr. Berg's Keto Tips</summary><br>
+<summary>1480. [2018-04-30] Intense Withdrawal Symptoms & Headaches on Keto Adaptation – Dr. Berg's Keto Tips</summary><br>
 
 <a href="https://www.youtube.com/watch?v=VSJ4Nqi7PYg" target="_blank">
     <img src="https://img.youtube.com/vi/VSJ4Nqi7PYg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 重點整理
 
+#### 核心主題
+The article discusses the challenges and adaptations associated with transitioning from a sugar-burning metabolism to a fat-burning (ketosis) state, particularly focusing on the symptoms experienced during this transition.
+
+#### 主要觀念
+1. **Metabolic Transition**: The shift from relying on carbohydrates (sugar) as an energy source to burning fats (ketosis) requires physiological adjustments.
+2. **Nutritional Deficiencies**: Adequate intake of nutrients such as B vitamins and potassium is essential for successful adaptation.
+3. **Withdrawal Symptoms**: Similar to withdrawal symptoms from substances like coffee or alcohol, halting sugar or junk food consumption can lead to dopamine deficiency, causing various discomforts including headaches.
+
+#### 問題原因
+1. **Dopamine Deficiency**: Sudden reduction in sugar intake disrupts dopamine levels, leading to withdrawal-like symptoms.
+2. **Abrupt Carbohydrate Reduction**: A rapid decrease in carbohydrate intake without proper adjustment can exacerbate withdrawal effects.
+
+#### 解決方法
+1. **Gradual Carb Adjustment**: Slowly increase carbohydrate intake (e.g., 5 grams at a time) to minimize withdrawal symptoms.
+2. **Phenylalanine Supplementation**: Introduce phenylalanine, an amino acid that aids in dopamine production, to alleviate symptoms.
+
+#### 健康建議
+1. **Incremental Changes**: Avoid drastic changes in diet; instead, make gradual adjustments to allow the body to adapt.
+2. **Supplement Strategically**: Consider adding phenylalanine to support neurotransmitter function during transition.
+3. **Monitor Symptoms**: Be aware of withdrawal symptoms and adjust your approach accordingly.
+
+#### 結論
+The article highlights that while transitioning to a ketogenic diet can be beneficial, it is accompanied by potential challenges due to physiological changes. By understanding the underlying mechanisms (e.g., dopamine deficiency) and implementing strategic adjustments (e.g., gradual carb reintroduction and supplementation), individuals can navigate this transition more comfortably.
 </details>
 
 <details>
-<summary>1479. Causes of Ammonia Body Odor on Keto Diet – Dr. Berg</summary><br>
+<summary>1479. [2018-04-29] Causes of Ammonia Body Odor on Keto Diet – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=p9Wyya44MD8" target="_blank">
     <img src="https://img.youtube.com/vi/p9Wyya44MD8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：氨臭味的成因及健康影響
 
+#### 核心主題  
+本文探討了在進行低碳水化合物飲食（如生酮飲食）或禁食期間，身體出現氨臭味的原因及其潛在健康影響。
+
+---
+
+#### 主要觀念  
+1. **氨的來源與毒性**  
+   - 氨是蛋白質分解的副產品（蛋白質裂解作用），具有高毒性，尤其對神经系统有害。  
+   - 在正常情況下，健康的腎臟會將氨轉化為尿素並排出體外。
+
+2. **氨 buildup 的原因**  
+   - 肝臟功能受損（如脂肪肝或肝硬化）：肝臟排毒能力下降，導致氨無法有效清除。  
+   - 腎臟損害：腎臟功能減退影響尿素的排泄，導致氨在血液中積累。  
+   - 酸osis（代謝性酸中毒）：可能由酮體過多或assium缺乏引發，增加氨的生成和排出。  
+   - 高蛋白飲食：攝入過量蛋白質可能超出肝腎處理能力，造成氨 buildup。
+
+---
+
+#### 問題原因  
+1. **肝臟功能障礙**  
+   - 肝臟無法有效排毒，導致氨在體內積累。  
+
+2. **腎臟功能受損**  
+   - 腎臟無法將氨轉化為尿素或排出，引發氨中毒。  
+
+3. **代謝失衡**  
+   - 酮症飲食或酸osis：缺乏蔬菜攝取或assium不足，導致酸性環境，增加氨的生成和排泄。  
+
+4. **過量蛋白質攝入**  
+   - 高蛋白飲食超出肝腎負荷，增強氨的產生。
+
+---
+
+#### 解決方法與健康建議  
+1. **調整飲食結構**  
+   - 控制蛋白質攝取量，避免過度高蛋白飲食。  
+   - 增加蔬菜攝取，平衡酸性環境，補充必需礦物質（如assium）。  
+
+2. **改善肝臟與腎臟健康**  
+   - 避免酒精和對肝腎有害的藥物，保护器官功能。  
+   - 經常檢查肝腎功能，及時發現問題。  
+
+3. **Monitor 離子平衡**  
+   - 确保assium攝取足夠，防止代謝性酸中毒。  
+
+---
+
+#### 結論  
+氨臭味的出現可能是肝腎功能障礙、酸osis或高蛋白飲食的警示信號。及時調整飲食結構、保護肝腎健康並補充必要的礦物質是關鍵。若情況持續或伴隨其他症狀，建議及時就醫檢查。
 </details>
 
 <details>
-<summary>1478. Fibromyalgia on the Right Side of Your Body – Dr. Berg</summary><br>
+<summary>1478. [2018-04-29] Fibromyalgia on the Right Side of Your Body – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=jjHrwNlI7Q8" target="_blank">
     <img src="https://img.youtube.com/vi/jjHrwNlI7Q8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# Key Points Summary of the Article on Right-Sided Fibromyalgia
 
+## Core Theme
+- The article explores the relationship between fibromyalgia and gallbladder dysfunction, particularly focusing on right-sided fibromyalgia as a symptom of gallbladder congestion.
+
+## Main Concepts
+1. **Prevalence of Right-Sided Fibromyalgia**: 
+   - Majority of clients with fibromyalgia present with symptoms localized to the right side.
+2. **Etiology**:
+   - The primary cause attributed to gallbladder dysfunction, which is located on the right side of the body.
+3. **Phrenic Nerve and Meridians**:
+   - The phrenic nerve, originating from the right side, can refer pain to areas such as the right shoulder, neck, and lower extremities.
+   - Chinese medicine concepts of meridians are also implicated in the spread of pain.
+
+## Underlying Causes
+1. **Dietary Factors**:
+   - Frequent eating (e.g., six meals a day) and snacking contribute to gallbladder stress.
+   - Consumption of nuts, refined sugars, grains, and high sugar intake aggravate gallbladder function.
+2. **Metabolic Factors**:
+   - High cortisol levels from stress or medications can impair gallbladder health.
+   - Elevated estrogen levels (e.g., due to birth control pills, HRT, or pregnancy) increase the risk of gallstones.
+3. **Dietary Patterns**:
+   - Low-fat diets may paradoxically increase the risk of gallstone formation by reducing bile stimulation.
+   - High saturated fat intake can also aggravate gallbladder function but does not necessarily cause stones.
+
+## Health Recommendations
+1. **Gallbladder Support**:
+   - **Intermittent Fasting**: Reduces stress on the digestive system and improves gallbladder function.
+   - **Dietary Adjustments**:
+     - Limit intake of nuts, refined sugars, grains, and high-sugar foods.
+     - Opt for a diet that balances fat intake to avoid overstimulating the gallbladder while preventing stone formation.
+2. **Supplements**:
+   - **Malic Acid**: Found in apples and apple cider vinegar, it helps soften gallstones, improve bile duct function, and promote drainage of gallbladder sludge.
+   - **Bile Salts**: Particularly important for individuals without a gallbladder to aid fat digestion.
+   - **Choline**: Supports fat breakdown and is beneficial for managing a fatty liver.
+
+## Conclusion
+- Fibromyalgia is posited as a secondary condition resulting from gallbladder congestion, emphasizing the importance of addressing underlying digestive health issues for effective symptom management.
 </details>
 
 <details>
@@ -763,25 +1212,41 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-### Core Theme:  
-- The impact of intermittent fasting on adrenal health, particularly its effect on cortisol levels.
+### 1. 核心主題  
+- 探讨间歇性禁食（intermittent fasting）对肾上腺（adrenals）的影响，特别是其是否会导致皮质醇（cortisol）水平升高从而增加肾上腺负担。
 
-### Key Concepts:  
-1. Intermittent fasting may lead to hypoglycemia (low blood sugar).  
-2. Cortisol is released in response to hypoglycemia to stabilize blood sugar levels.  
-3. Elevated cortisol is a normal physiological response, not inherently pathological.  
+---
 
-### Problem Analysis:  
-- Concern arises from the belief that intermittent fasting spikes cortisol, potentially stressing the adrenals.  
-- However, cortisol release during fasting is a regulatory mechanism to counter hypoglycemia.  
+### 2. 主要觀念  
+- 间歇性禁食可能导致血糖降低（hypoglycemia），这是正常的生理反应。
+- 肾上腺通过分泌皮质醇来调节低血糖，这是一种正常且必要的生理机制。
+- 禁食本身并不直接“压力”肾上腺，而是触发其功能以维持血糖稳定。
 
-### Solution and Health Recommendations:  
-1. Use intermittent fasting as a tool to address insulin resistance.  
-2. Support adrenal health through proper blood sugar stabilization.  
-3. Monitor for symptoms of low blood sugar or excessive cortisol response.  
+---
 
-### Conclusion:  
-- Intermittent fasting does not inherently stress the adrenals; its effects depend on individual physiological responses and metabolic status.
+### 3. 問題原因  
+- 禁食可能导致血糖水平下降，引发身体释放皮质醇以应对低血糖状态。
+- 对于存在胰岛素抵抗（insulin resistance）的个体，禁食可能加剧血糖波动，进一步依赖肾上腺功能来维持稳定。
+
+---
+
+### 4. 解決方法  
+- 支持肾上腺健康，例如通过均衡饮食和补充必要的营养素（如维生素C、B族维生素等）。
+- 确保在禁食期间血糖水平不会过度下降，可以通过调整禁食时间或摄入低GI食物来实现。
+- 对于胰岛素抵抗的个体，建议先改善胰岛素敏感性再进行间歇性禁食。
+
+---
+
+### 5. 健康建議  
+- 在进行间歇性禁食之前，评估自身的健康状况，特别是血糖调节能力。
+- 如果出现低血糖症状（如头晕、乏力等），应立即终止禁食并寻求专业建议。
+- 结合其他健康习惯（如规律运动、充足睡眠）来增强整体代谢功能。
+
+---
+
+### 6. 結論  
+- 间歇性禁食本身并不会“压力”肾上腺，反而可能通过改善胰岛素抵抗和血糖调节能力，间接支持肾上腺功能。
+- 关键在于如何管理和优化禁食过程中的生理反应，确保身体的稳定性和适应性。
 </details>
 
 <details>
