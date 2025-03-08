@@ -219,36 +219,178 @@
 </details>
 
 <details>
-<summary>1580. Exogenous Ketones Can Slow Your Weight Loss – Dr. Berg</summary><br>
+<summary>1580. [2018-06-24] Exogenous Ketones Can Slow Your Weight Loss – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=lIfAQZmpCuQ" target="_blank">
     <img src="https://img.youtube.com/vi/lIfAQZmpCuQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 探讨酮症（Ketosis）在体重管理中的作用。
+- 分析外源性酮体补充剂对体重减轻的影响。
+
+#### 主要觀念
+1. **酮症的定义与机制**  
+   - 酮症是身体将脂肪转化为酮体的过程，酮体作为替代燃料。
+   - 酮体可通过两种方式存在于尿液中：通过酮体补充剂或通过低碳饮食使身体进入酮症。
+
+2. **酮体补充剂的作用与局限性**  
+   - 外源性酮体（如丙氨酸酮酸）可以辅助进入酮症状态，但不能替代身体自身生成的酮体。
+   - 使用外源性酮体会抑制身体自身脂肪燃烧和酮体生成，从而影响体重管理。
+
+#### 問題原因
+- **酮体补充剂干扰代谢**  
+  - 外源性酮体的摄入导致身体优先使用外部提供的酮体作为燃料，减少了对自身脂肪的分解需求。
+- **代谢适应性降低**  
+  - 长期依赖外源性酮体会削弱身体自身的代谢调节能力。
+
+#### 解 decisión方法
+1. **低碳饮食法**  
+   - 通过限制碳水化合物摄入，迫使身体燃烧脂肪生成酮体，从而实现有效的体重管理。
+2. **结合间歇性禁食**  
+   - 通过延长禁食时间或采用交替禁食模式，进一步增强酮症状态的持续性和效果。
+
+#### 健康建議
+- **避免依赖外源性酮体补充剂**：优先通过饮食调整实现酮症，以确保身体代谢的自然调节。
+- **逐步适应低碳饮食**：开始时减少碳水化合物摄入量，逐渐过渡到酮症状态，避免出现不适症状。
+- **结合运动与生活方式**：适量运动可以增强脂肪燃烧效果，同时保持良好的作息习惯。
+
+#### 结論
+- 外源性酮体补充剂无法有效促进体重减轻，关键在于通过低碳饮食和生活方式的调整实现酮症状态。
+- 酮症是一种有效的代谢调节方式，但需要结合合理的饮食与生活习惯才能达到最佳效果。
 </details>
 
 <details>
-<summary>1579. Is Keto (Ketogenic Diet) Only Good For Short-Term? – Dr. Berg</summary><br>
+<summary>1579. [2018-06-23] Is Keto (Ketogenic Diet) Only Good For Short-Term? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=VztT1sIeAP0" target="_blank">
     <img src="https://img.youtube.com/vi/VztT1sIeAP0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 中文版權聲明：
+此為翻譯版本，著作權屬於原始作者所有，如需使用請與著作權人接洽。
 
+---
+
+# 文章整理
+
+## 核心主題
+- 分析酮egenesis（生酮飲食）的短期有效性及其被批評的原因。
+- 探讨酮飲食的酸性影響及其他健康問題。
+- 提供健康建議，結合生酮飲食與高蔬菜攝取量以實現長期受益。
+
+---
+
+## 主要觀念
+1. 生酮飲食（Keito Diet）通常被認為僅具備短期效果，原因之一是其高脂肪特性導致酮體的酸性增加。
+2. 膳食中的必需營養素（如必需脂肪酸和胺基酸）來源於植物ベース的食物，這些營養素對人體來說是不可替代的。
+3. 身體不同部位的pH值有不同的需求，例如胃液和尿液天生具備酸性特性。
+4. 病糖尿病患者因過量攝取碳水化合物導致代謝 acidosis（酸中毒），而非脂肪攝取過高。
+
+---
+
+## 問題原因
+- 生酮飲食的高脂肪特性可能導致酮體的酸性增加，引發身體acidosis（酸中毒）。
+- 長期遵循生酮飲食可能導致營養失衡，例如缺乏脂溶性維生素（如維生素A、B12）和其他必需營養素。
+- 素食飲食若未妥善規劃，也可能導致營養 deficiencies（缺乏症），影響長期健康。
+
+---
+
+## 解決方法
+1. 採用「健康的酮osis」模式：
+   - 每日攝取7至10杯蔬菜以平衡酸性，並提供必要的營養素。
+   - 維持適量的動物蛋白質和健康脂肪攝取。
+2. 避免過度 alkalize（鹼化）身體不同部位，尊重各部位的pH需求。
+3. 平衡飲食，結合生酮飲食與高蔬菜攝取量。
+
+---
+
+## 健康建議
+- 生酮飲食的長短期效果需謹慎評估，並在專業醫療人員指導下進行。
+- 確保飲食中包含足夠的植物ベース食物以獲取必需營養素。
+- 避免因追求減重而忽略營養均衡。
+
+---
+
+## 結論
+生酮飲食在短期內可能有效，但其高脂肪特性可能帶來酸性過剩的問題。為實現長期健康受益，建議結合高蔬菜攝取量和適量動物蛋白質及健康脂肪，避免營養失衡。
 </details>
 
 <details>
-<summary>1578. Toxic Effects of Iron Overload – Dr. Berg</summary><br>
+<summary>1578. [2018-06-23] Toxic Effects of Iron Overload – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=brCfMBQ9LPU" target="_blank">
     <img src="https://img.youtube.com/vi/brCfMBQ9LPU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題  
+- 探讨过量铁对健康的毒性作用及其在谷物中的普遍存在。
+
+---
+
+#### 主要觀念  
+1. **鐵的毒性作用**：  
+   - 鉄在体内具有氧化性，可导致组织损伤（如心脑肾等器官）。
+   - 铁会吸引受损组织，引发氧化反应，类似于金属生锈的现象。
+
+2. **鐵的來源與攝取量**：  
+   - 谷物（如面包、 pasta、麥片）常被 fortify 加 iron。  
+   - 每日推薦攝取量 (RDA) 為 8 櫓克，但市售補充劑常含有過高的劑量（如 18-22 櫓克）。  
+
+3. **微生物與鐵的關聯**：  
+   - 所有 microbes（包括益生菌和病原體）都需要鐵来生存。  
+   - 身體在感染時会調節鐵的釋放，以幫助免疫系統功能。  
+
+---
+
+#### 問題原因  
+1. 過量攝取鐵的危害：  
+   - 地區性差異（如美國、加拿大、英國大量 fortify 糧食，但部分歐洲國家未然）。  
+   - 每日只能排出 1.2 櫓克，而攝取量遠超此限。  
+
+2. 补充劑過量：  
+   - 高剂量鐵補充劑可能干擾免疫系統和破壞組織。  
+
+3. 病因與飲食不平衡：  
+   - 過多攝取動物性蛋白質（如紅肉）而缺乏植物性食物，導致鐵 buildup。  
+
+---
+
+#### 解決方法  
+1. **補血的最佳方式**：  
+   - 採用天然來源的鐵，如紅肉或其他高蛋白飲食，而非人工合成的補充劑。  
+
+2. **鐵螯合（Chelation）**：  
+   - 使用 phytic acid （特別是 ip6，一種含六磷酸的肌醇）來螯合一 excess 鐵。  
+   - ip6 是有效的抗氧化劑，可中和鐵的氧化作用並促使其排出體外。  
+
+3. **飲食平衡**：  
+   - 配合攝取蔬菜、堅果和種子等富含 phytic acid 的食物，以幫助減少鐵 buildup。  
+
+---
+
+#### 健康建議  
+1. 避免過量補充鐵劑：  
+   - 應避免攝取高劑量的鐵補充劑，尤其是已有 excess 鐵的人群。  
+
+2. 確保飲食均衡：  
+   - 多攝取植物性食物以平衡動物性蛋白質的攝取，並增加 phytic acid 的來源。  
+
+3. 考慮使用益生菌：  
+   - 益生菌可幫助吸收 excess 鐵，降低病原體可用的鐵濃度。  
+
+---
+
+#### 總結  
+- 過量鐵攝入對健康有害，需避免過度補充並通過螯合劑或飲食調整來清除 excess 鐵。  
+- 平衡飲食和使用益生菌是維持鐵水平的重要策略。
 </details>
 
 <details>
@@ -263,47 +405,201 @@
 </details>
 
 <details>
-<summary>1576. Do Calories Matter When Doing the Ketogenic Diet? – Dr. Berg</summary><br>
+<summary>1576. [2018-06-21] Do Calories Matter When Doing the Ketogenic Diet? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=bkF4vrUjQTQ" target="_blank">
     <img src="https://img.youtube.com/vi/bkF4vrUjQTQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理
 
+---
+
+#### **核心主題**
+- **卡路里是否在酮飲食中重要**  
+  卡路里的影響因類型而異，尤其是脂肪、碳水化合物和蛋白質對荷爾蒙的作用不同。
+
+---
+
+#### **主要觀念**
+1. **「熱量等值」概念的局限性**  
+   - 熱量消耗並非完全取決於總攝入量，而是與食物類型密切相關。
+2. **脂肪、碳水化合物和蛋白質的生理作用**  
+   - **碳水化合物**：主要用於提供能量，會顯著增加胰島素水平。
+   - **蛋白質**：部分用於能量，部分用於維持組織結構（如肌肉、皮膚）。
+   - **脂肪**：部分用於構建身體組織（如腦細胞膜），部分用作能源。
+
+---
+
+#### **問題原因**
+1. **代謝失調**  
+   - 慢性壓力、甲狀腺功能減退或更年期等因素會影響代謝速率，導致酮飲食效果不佳。
+2. **脂肪攝取過量**  
+   - 高脂肪攝入可能抑制自身體脂燃燒，影響減重效果。
+
+---
+
+#### **解決方法**
+1. **逐步調整酮飲食結構**  
+   - 初期增加脂肪攝取以幫助身體適應脂肪燃燒。
+2. **降低脂肪攝取並增加 intermittent fasting**  
+   - 減少食物攝取次數（如一天一餐），逐步延長禁食時間至 23 小時，以利用自身脂肪儲備。
+3. **針對性解決代謝問題**  
+   - 適當運動、管理壓力和治療潛在疾病（如甲狀腺問題）。
+
+---
+
+#### **健康建議**
+1. **選擇正確的酮飲食資源**  
+   - 推薦《The Ketogenic Diet》和《The Body Type Guide》，涵蓋酮飲食的基本原理和解決方案。
+2. **避免酮飲食副作用**  
+   - 確保營養均衡，防止酮流感（keto flu）、酮疲勞和其他健康問題。
+
+---
+
+#### **結論**
+- 鮈飲食中卡路里的影響因類型而異，脂肪在初期至關重要，但需逐步降低以利用自身脂肪燃燒。
+- 燃燒體脂需要代謝健康和適當的禁食策略。
+- 選擇合適的資源並遵循健康酮飲食方法，可最大化減重效果。
+
+--- 
+
+**附註：**  
+- **Ketosis**：酮症，指機體燃燒脂肪供能的狀態。  
+- **Intermittent fasting**：間歇性禁食，通過延長禁食時間來促進脂肪燃燒。
 </details>
 
 <details>
-<summary>1575. Need the Benefits of Intermittent Fasting & Ketosis But Not Weight Loss? – Dr. Berg</summary><br>
+<summary>1575. [2018-06-21] Need the Benefits of Intermittent Fasting & Ketosis But Not Weight Loss? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hPOi9RQ-QSA" target="_blank">
     <img src="https://img.youtube.com/vi/hPOi9RQ-QSA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題  
+本文圍繞如何在不進一步減重的情況下，享受酮飲食（Keto）和間斷性禁食（Intermittent Fasting）的健康益處展開討論。
+
+---
+
+#### 主要觀念  
+1. **酮飲食的基本原理**：酮飲食通過限制碳水化合物攝取，促使身體進入酮症，利用脂肪作為主要能量來源。  
+2. **間斷性禁食的作用**：間斷性禁食結合酮飲食可以增強其效果，提升認知功能、抗炎作用和延年益壽等健康益處。  
+3. **特殊需求群體的挑戰**：對於本身體重較輕且新陈代谢率高的個體來說，傳統的酮飲食可能導致進一步減重，不符合他們的需求。
+
+---
+
+#### 問題原因  
+- 這些個體雖然希望改善健康狀況，但擔心酮飲食和禁食可能引發更多的體重下降。  
+- 高代謝率和低體重使其難以通過傳統方法穩定能量攝取。
+
+---
+
+#### 解決方法  
+1. **調整碳水化合物攝取量**：將每日凈碳水化合物攝取量調高至50克，但仍需控制在該範圍內，避免過高的碳水化合物攝入。  
+2. **增加蛋白質攝取**：蛋白質攝取量可增加到每餐8盎司（約227克），以幫助維持肌肉並提供足夠的營養支持。  
+3. **提高脂肪攝取量**：脂肪攝取應顯著增加，主要來源包括堅果、牛油、椰子油和中鏈脂肪酸（MCT）油等。  
+4. **酮炸（Keto Bomb）的使用**：推薦在每日飲食中加入酮炸，以提高脂肪攝取並改善口感。  
+5. **間斷性禁食的安排**：建議采用12小時間隔禁食模式，例如在中午和晚上進餐，其他時間禁食或僅攝入無糖咖啡等低能量飲品。
+
+---
+
+#### 健康建議  
+- 確保脂肪攝取充足，以維持酮症並提供持久的能量來源。  
+- 適當調整碳水化合物和蛋白質攝取，避免因過度限制而導致體重進一步下降。  
+- 使用酮炸等高脂肪食品作為快速能量補充，提升飲食的可持續性與享受感。  
+- 結合間斷性禁食，合理安排進餐時間，最大化健康益處。
+
+---
+
+#### 總結  
+本文提供了一種針對特殊需求群體的酮飲食和禁食方案，通過調整碳水化合物、蛋白質和脂肪的比例，以及使用酮炸等工具，幫助這些個體在享受健康益處的同时避免不必要的體重下降。此方法需根據個人情況靈活調整，建議在專業指導下實施。
 </details>
 
 <details>
-<summary>1574. What Is Homocysteine? – Dr. Berg</summary><br>
+<summary>1574. [2018-06-20] What Is Homocysteine? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=k2yCpFqk-do" target="_blank">
     <img src="https://img.youtube.com/vi/k2yCpFqk-do/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Key Points Summary in Academic Language with Subsections
 
+#### Core Theme
+- Homocysteine is a sulfur-containing amino acid involved in various biochemical processes, particularly methionine metabolism.
+
+#### Primary Concepts
+- Homocysteine serves as an intermediate in the conversion of methionine to cystathionine.
+- Elevated levels of homocysteine are associated with cardiovascular diseases, including heart attacks and strokes.
+
+#### Causes of High Homocysteine Levels
+- Deficiency in B vitamins such as folic acid (B9), vitamin B6, and cobalamin (B12) impairs the enzymatic processes required for homocysteine metabolism.
+- Insufficient dietary intake of folate-rich foods contributes to elevated homocysteine levels.
+
+#### Solutions
+- Ensure adequate intake of folic acid through consumption of leafy green vegetables like spinach, kale, and broccoli.
+- Maintain a balanced diet rich in cruciferous vegetables to support proper homocysteine metabolism.
+
+#### Health Recommendations
+- Incorporate a variety of vegetables into your diet, particularly those high in folic acid.
+- Follow a healthy ketosis program that includes ample vegetable intake to prevent homocysteine buildup.
+
+#### Conclusion
+- Managing homocysteine levels is crucial for cardiovascular health. By addressing dietary deficiencies and adopting a nutrient-rich diet, individuals can mitigate the risks associated with elevated homocysteine levels.
+
+---
+
+### Summary in Chinese
+
+Homocysteine is a sulfur-containing amino acid that plays a critical role in methionine metabolism. Elevated levels of this compound are linked to an increased risk of cardiovascular diseases such as heart attacks and strokes. The primary cause of high homocysteine levels is a deficiency in essential B vitamins, particularly folic acid, vitamin B6, and cobalamin, which are necessary for the enzymatic processes that regulate homocysteine metabolism. To address this issue, it is recommended to consume a diet rich in leafy green vegetables like spinach, kale, and broccoli, as these foods are high in folic acid. Additionally, following a healthy ketosis program that includes ample vegetable intake can help maintain optimal homocysteine levels. In conclusion, managing homocysteine levels through proper nutrition is essential for cardiovascular health.
 </details>
 
 <details>
-<summary>1573. Try This For Your Autoimmune Disorder/ Disease – Dr. Berg</summary><br>
+<summary>1573. [2018-06-20] Try This For Your Autoimmune Disorder/ Disease – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=BVU4NTP1Isg" target="_blank">
     <img src="https://img.youtube.com/vi/BVU4NTP1Isg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 文章重點整理： autoimmune 病況的營養療法與PMG策略
 
+## 核心主題
+- 探讨 autoimmune 病症的可能營養療法。
+- 介紹Dr. Roy Lee及其提出的PMG（Proto Morphogen）概念。
+
+## 主要觀念
+1. **Autoimmune 病況的定義**：
+   - 身體免疫系統錯誤地攻擊自身組織，導致炎症和功能障礙。
+2. **Dr. Roy Lee 的發現**：
+   - PMG是一種從其他物種提取的DNA，可用作免疫系統的「誘餌」。
+3. **PMG的作用機制**：
+   - 提供相似於人體組織的DNA，吸引過度活躍的抗體，使其轉移至此「誘餌」而非攻擊自身組織。
+
+## 問題原因
+- 免疫系統异常導致抗體錯誤地攻擊自身器官（如thyroid）。
+- 炎症持續，破壞器官功能。
+
+## 解決方法
+1. **PMG的使用**：
+   - 口服給藥，避免直接注射可能引發的嚴重過敏反應。
+2. **營養補充策略**：
+   - 通過攝取特定器官的 glandular extracts（如thyroid PMG）來提供誘餌，使免疫系統抗體轉移目標。
+
+## 健康建議
+1. **產品選擇**：
+   - 選擇可靠的公司提供的PMG或 glandular extracts。
+2. **用法用量**：
+   - 小劑量開始，長期服用。
+   - 推荐於睡前服用以減少短期不適（如疲勞）。
+
+## 結論
+- PMG和 glandular extracts 可能提供一種非侵入性的療法來幫助恢復 autoimmune 病況患者的功能。
+- 值得進一步研究和個體化試驗，以評估其有效性和安全性。
 </details>
 
 <details>
@@ -318,25 +614,102 @@
 </details>
 
 <details>
-<summary>1571. “Sense of Impending Doom” is a Nutritional Deficiency – Dr. Berg</summary><br>
+<summary>1571. [2018-06-19] “Sense of Impending Doom” is a Nutritional Deficiency – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=EI_jhD-eGtc" target="_blank">
     <img src="https://img.youtube.com/vi/EI_jhD-eGtc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 探讨引起“災劫感”（doom and gloom）的原因及其与营养 deficiencies 的关系。
+- 提供改善此種情緒的健康建議。
+
+#### 主要觀念
+1. **災劫感的定義**  
+   災劫感是指個人預期將發生某件壞事而產生的消沉情緒。
+
+2. **營養失衡與災劫感的關聯**  
+   - 多數情況下，災劫感是由營養 deficiency 所導致。
+   - 主要涉及的維生素包括：
+     - 維生素 B1（硫胺素） deficiency。
+     - 維生素 B2（核黃素） deficiency。
+     - 維生素 B3（菸酸） deficiency。
+
+#### 問題原因
+- **主要原因**  
+  - 維生素 B1、B2、B3 的缺乏導致情緒低落和災劫感。
+  - 維生素 D3 缺乏，尤其在冬季或日照不足的環境中，可能加重此種情緒。
+
+#### 解決方法
+1. **營養補充**  
+   - 增加富含 B 群維生素的食物攝取，例如：
+     - 营養ritional yeast（含豐富的 B 群 vitamins）。
+   - 补充綜合維生素 B 复合劑。
+
+2. **日光照射**  
+   - 確保足夠的日光浴以合成足量的維生素 D3，尤其是在冬季或日照不足的時期。
+
+#### 健康建議
+- 定期攝取富含 B 群 vitamins 的食物或補充劑。
+- 每天接受充足的日光照射（10-30 分鐘），以促進維生素 D 的合成。
+- 如有持續的情緒低落，建議諮詢專業醫師進行進一步的評估和治療。
+
+#### 結論
+- 灘劫感主要由營養失衡引起，特別是維生素 B 和 D 的缺乏。
+- 通過補充這些 vitamins 並增加日光照射，可以有效改善此種情緒。
+- 建議採取主動的飲食調整和生活方式改變來預防和改善災劫感。
+
+---
+
+### 全文總結  
+本文探討了災劫感（doom and gloom）的成因及其與營養失衡的關係。研究表明，此种情緒主要由維生素 B1、B2、B3 和 D3 的缺乏所導致。解決方法包括攝取富含 B 群 vitamins 的食物或補充劑，以及增加日光照射以促進維生素 D 的合成。本文強調了通過飲食和生活方式的調整來預防和改善災劫感的重要性，並建議在必要時諮詢專業醫師進行進一步的治療。
 </details>
 
 <details>
-<summary>1570. What is Creatine? – Dr. Berg</summary><br>
+<summary>1570. [2018-06-18] What is Creatine? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=IgGZYVyHrwc" target="_blank">
     <img src="https://img.youtube.com/vi/IgGZYVyHrwc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **Creatine 的作用**：Creatine 是一種化合物，能夠增強肌肉細胞製造能量的能力。
+- **運動性能提升**：Creatine 可幫助延長訓練時間、增強肌力和耐力。
 
+---
+
+### 主要觀念
+1. Creatine 能夠提高肌肉的能源生產效率，從而增加運動表現。
+2. 它有助於肌肉恢復，並促進肌肉生長和增大。
+3. 在低碳水化合物飲食（如酮osis）和間歇性禁食的情況下，Creatine 可作為能量來源的替代方案。
+
+---
+
+### 問題原因
+- **低碳水化合物 diet 的限制**：在酮osis 或間歇性禁食中，缺乏碳水化合物可能影響運動表現。
+- **能量不足**：低碳水化合物飲食可能導致訓練時的能量供應不足。
+
+---
+
+### 解決方法
+- **Creatine 補充**：作為一種有效的能源補充劑，Creatine 可在低碳水化合物飲食中提供額外的エネルギー來源。
+- **肌肉恢復與生長**：Creatine 不僅提升當前訓練表現，還促進肌肉的長期增長。
+
+---
+
+### 健康建議
+1. 考慮在酮osis 或間歇性禁食計劃中加入 Creatine 補充劑以增強運動表現。
+2. 確保足夠的蛋白質攝取，以配合Creatine 的效果，促進肌肉生長。
+
+---
+
+### 結論
+- **Creatine 的重要性**：作為一種有效的運動營養補充劑，Creatine 在提升力量、耐力和恢復方面具有顯著作用。
+- **實用性建議**：特別是在低碳水化合物飲食的情況下，Creatine 可提供關鍵的能量支持，幫助運動員達到最佳表現。
 </details>
 
 <details>
@@ -351,14 +724,40 @@
 </details>
 
 <details>
-<summary>1568. An Interesting Paper on Hyperinsulinemic Syndrome – Dr. Berg</summary><br>
+<summary>1568. [2018-06-17] An Interesting Paper on Hyperinsulinemic Syndrome – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=UvBsqhY-U-o" target="_blank">
     <img src="https://img.youtube.com/vi/UvBsqhY-U-o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 探讨高胰岛素血症（hyperinsulinemia）在代谢综合征及相关疾病中的作用。
+- 通过胃旁路手术降低胰岛素水平对治疗2型糖尿病及其他代谢性疾病的效果。
 
+### 主要觀念
+1. 胰岛素过多可能是多种代谢疾病的共同病因，包括高血压、高胆固醇、动脉粥样硬化、中心性肥胖等。
+2. 传统观点认为胰岛素抵抗是导致2型糖尿病的主要原因，但研究发现高胰岛素血症可能在疾病发生中起更关键作用。
+3. 胰岛素水平的检测比血糖检测更能早期诊断代谢性疾病。
+
+### 問題原因
+- 当前医疗实践中对高胰岛素血症的关注不足，通常仅监测血糖水平，忽视了胰岛素的作用。
+- 传统观念认为胰岛素抵抗导致糖尿病，而非认识到高胰岛素血症可能是更根本的病因。
+
+### 解決方法
+1. **检测与诊断**：建议在初级医疗保健中引入胰岛素水平检测作为常规筛查手段，以早期发现代谢性疾病。
+2. **饮食干预**：通过调整饮食来降低胰岛素水平，而不是依赖药物治疗。强调健康饮食模式（如低碳水化合物饮食）对改善代谢状况的作用。
+3. **手术治疗**：胃旁路手术等代谢手术可以有效降低胰岛素水平，从而逆转2型糖尿病及其他代谢性疾病。
+
+### 健康建議
+- 早期检测和监测胰岛素水平，特别是对于有代谢综合征风险的个体。
+- 采用饮食干预而非药物治疗来控制高胰岛素血症，以预防和治疗代谢性疾病。
+- 考虑手术治疗作为严重代谢性疾病的替代方案。
+
+### 結論
+1. 高胰岛素血症是多种代谢性疾病（如高血压、糖尿病、动脉粥样硬化等）的共同病因。
+2. 当前医疗实践中对高胰岛素血症的关注不足，需要通过教育和检测来提高对其重要性的认识。
+3. 通过饮食干预和手术治疗可以有效降低胰岛素水平，从而预防和逆转代谢性疾病。
 </details>
 
 <details>
@@ -648,62 +1047,70 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
         alt="[Youtube]" width="200">
 </a>
 
-### Summary of the Article: Less Bowel Movements During One-Minute Fasting - Is It Normal?
-
----
+### Key Points from the Article: A Scientific Overview on Bowel Movements During Intermittent Fasting
 
 #### Core Theme:
-- The discussion focuses on the relationship between dietary habits, particularly one-minute fasting (intermittent fasting), and changes in bowel movement frequency.
+- The relationship between dietary habits, particularly intermittent fasting (eating less frequently), and the frequency of bowel movements.
 
 ---
 
-#### Key Concepts:
-1. **Bowel Movement Frequency**: 
-   - Eating less frequently results in fewer bowel movements due to reduced food volume.
-   - Increased meal frequency leads to more frequent bowel movements.
+#### Main Concepts:
+1. **Frequency of Bowel Movements**:
+   - Eating less food or less frequently leads to fewer bowel movements due to reduced digestive activity.
+   - Increased meal frequency correlates with more frequent bowel movements because of higher volume and quicker digestion.
 
 2. **Constipation vs. Reduced Bowel Movements**:
-   - Constipation is characterized by bloating, discomfort, and difficulty passing stools.
-   - Reduced bowel movements may simply indicate a less active digestive system without symptoms of distress.
+   - Constipation is characterized by bloating, discomfort, and difficulty passing stools, often linked to fiber intake or insufficient bile.
+   - Reduced bowel movement frequency may simply indicate efficient digestion without any discomfort.
+
+3. **Role of Fiber in Digestion**:
+   - Fiber, consumed through vegetables, serves as a primary food source for gut microbes, aiding digestion.
+   - Excessive consumption of high-fiber vegetables (e.g., cruciferous vegetables like cabbage and broccoli) can cause indigestion if the body is not accustomed to them.
+
+4. **Impact of Gallbladder Health**:
+   - Bile production is essential for lubricating the colon and aiding digestion.
+   - Individuals without a gallbladder or with gallbladder dysfunction may experience digestive issues such as floating stools, bloating, and discomfort.
 
 ---
 
-#### Causes of the Issue:
-1. **Dietary Factors**:
-   - Insufficient fiber intake (especially from vegetables) can lead to reduced bowel movements or constipation.
-   - Excessive consumption of high-fiber foods, particularly cruciferous vegetables (e.g., cabbage, broccoli), may cause digestive discomfort if not gradually introduced.
+#### Causes of Digestive Issues:
+1. **Insufficient Fiber Intake**:
+   - Leads to constipation due to inadequate microbial activity in the gut.
 
-2. **Microbial Digestion**:
-   - The gut microbiota relies on fiber for nutrition; insufficient dietary fiber can disrupt microbial activity and digestion.
+2. **Overconsumption of High-Fiber Vegetables**:
+   - Can cause indigestion if the body lacks the necessary enzymes or microbes to break them down effectively.
 
-3. **Gallbladder Function**:
-   - Lack of bile production or gallbladder dysfunction (e.g., congestive gallbladder) can lead to symptoms such as floating stools, bloating, and right lower rib cage discomfort.
-   - Bile is essential for lubricating the colon and aiding digestion.
+3. **Gallbladder Dysfunction**:
+   - Results in symptoms like floating stools, bloating, and right lower ribcage discomfort due to insufficient bile production.
 
 ---
 
 #### Solutions and Health Recommendations:
-1. **Dietary Adjustments**:
-   - Gradually increase vegetable intake to support gut microbiota.
+1. **Balanced Fiber Intake**:
+   - Gradually increase vegetable consumption to allow the gut microbiome to adapt.
    - Opt for steamed or fermented vegetables to improve digestibility.
-   - Avoid excessive consumption of cruciferous vegetables unless accustomed to them.
 
-2. **Gallbladder Support**:
-   - If gallbladder issues are suspected, consider supplements like "gallbladder formula" to support bile production and digestive function.
+2. **Support for Gallbladder Dysfunction**:
+   - Consider using gallbladder formulas that aid in bile production and support pancreatic function.
 
-3. **General Digestive Health**:
-   - Ensure adequate fiber intake from a variety of sources.
-   - Stay hydrated to facilitate smooth bowel movements.
+3. **Dietary Adjustments**:
+   - Avoid sudden changes in diet; introduce high-fiber foods gradually.
+   - Monitor the types of vegetables consumed to prevent indigestion.
+
+4. **Lifestyle Modifications**:
+   - Stay hydrated to facilitate smooth digestion.
+   - Engage in regular physical activity to promote bowel regularity.
 
 ---
 
 #### Conclusion:
-- Reduced bowel movements during one-minute fasting are generally normal if accompanied by no symptoms of constipation or discomfort.
-- Constipation or digestive discomfort may indicate dietary imbalances or gallbladder dysfunction, requiring adjustments in diet and possibly supplementation.
+- Reduced bowel movement frequency during intermittent fasting is generally normal and reflects efficient digestion.
+- Constipation or discomfort, however, may indicate issues like insufficient fiber intake, overconsumption of certain vegetables, or gallbladder dysfunction.
+- Addressing these issues through dietary adjustments, increased hydration, and supplementation can improve digestive health.
 
 --- 
 
-This structured summary captures the essential points discussed in the article, providing a clear and objective overview.
+This structured approach provides a comprehensive understanding of the article's content while maintaining scientific rigor.
 </details>
 
 <details>
@@ -714,58 +1121,60 @@ This structured summary captures the essential points discussed in the article, 
         alt="[Youtube]" width="200">
 </a>
 
-### 核心主題：-hot flashes（潮熱）的機制與管理
+### 核心主題：hot flashes（烘熱症）的機制與管理
 
 ---
 
 #### 主要觀念：
-1. **Hot Flashes的定義**  
-   - Hot Flash是一種臨床症狀，醫學上稱為「血管運動不穩定」（vasomotor instability），主要涉及下丘腦和卵巢之間的反饋迴路失衡。
+1. **Hot Flashes 的定義**  
+   - Hot Flash 被稱為 vasomotor instability，涉及下丘腦和卵巢之間的反饋迴路失衡。
+   - 會引起皮膚潮紅、血管擴張（superficial vasodilation）及核心體溫下降，每4分鐘發生一次。
 
 2. **生理機制**  
-   - 下丘腦感知核心溫度下降，引發肢體表面血管擴張（superficial vasodilation）以增加散熱。
-   - 這一過程導致核心溫度瞬間降低，通常每4分鐘發生一次，伴隨心悸、出汗等不適症狀。
-
-3. **Menopause的影響**  
-   - 女性一生約有400個卵子，每月釋放一個。更年期後（平均52歲），卵巢停止激素分泌。
-   - 睾酮レベルの低下が原因で、副腎 glandが代償的に同じホルモンを少量産生する。
+   - 細胞分泌激素失衡：卵巢功能減退導致雌性腺素（estrogen）水平下降。
+   - 皮膚表面血管擴張後，核心溫度驟降，引發不適感。
 
 ---
 
 #### 問題原因：
-1. **Adrenal Fatigue**  
-   - 副腎腺の機能不全が主因。副腎腺は卵巢の機能쇱plementationを行うため、そのضعفがHot Flashの直接原因となる。
+1. **腺體功能衰退**  
+   - 卵巢功能衰退是主要來源，通常發生於更年期（平均52歲）。
+   - 月經周期中卵子數量有限（每月400枚），用罄後進入更年期。
 
-2. **Hormonal Imbalance**  
-   - 卵巣からのエストロゲン分泌停止に伴う急激なホルモンバランス崩壊。
+2. ** adrenal glands 的角色**  
+   - 睾丸酮（androgens）和少量雌性腺素由腎上腺分泌，用於補充卵巢功能。
+   - 腎上腺功能不足會導致激素不平衡，引發 vasomotor instability。
 
 ---
 
 #### 解決方法：
-1. **Hormone Replacement Therapy (HRT)**  
-   - エストロゲンの補充によりHot Flashを一時的に軽減させることが可能。しかし、副作用が懸念されるため、自然療法との組み合わせが推奨される。
+1. **荷爾蒙替代療法（HRT）**  
+   - 通過外部補充雌性腺素來恢復平衡，但可能有副作用。
 
-2. **Adrenal Support**  
-   - 副腎腺の機能を強化するサプリメントやハーブを使用して、根本的な原因に対処する。
-   - 例：Adrenal Fatigue Formula等。
+2. **手術干預**  
+   - 置入.birth control pills或人工生殖器官可暫時恢復卵巢功能。
 
 ---
 
 #### 健康建議：
-1. **Natural Remedies**  
-   - Black Cohosh：フィトエストロゲンを提供し、ホルモンバランスを改善。
-   - Estrogen Balance：ハーブの混合物でエストロゲンを調節。
-   - DIM（Diindolylmethane）：エストロゲン代謝を正常化する。
+1. **支持 adrenal glands**  
+   - 服用腎上腺健康補充劑，如《Adrenal Fatigue Formula》。
+   - 減輕壓力、保持充足睡眠和均衡飲食以支持腎上腺功能。
 
-2. ** lifestyle Modifications**  
-   - 睡眠管理、壓力管理、適度な運動を通じて自律神經系統の安定を図る。
+2. **草本療法**  
+   - 使用黑 cohosh 提供植物性雌性腺素（phytoestrogens）。
+   - 其他選擇包括《Estrogen Balance》和DIM，用於平衡雌性腺素水平。
+
+3. **生活方式調整**  
+   - 保持 moderation in diet and lifestyle.
+   - 避免刺激物，如咖啡因和酒精。
 
 ---
 
 #### 結論：
-- Hot Flashはホルモンバランスと副腎腺機能とのコミュニケーション不全が主因。
-- 自然療法を優先し、必要に応じて医療介入を行うことが理想的。
-- 女性の健康状態を考慮し、個別化した治療プランを立てることが重要。
+- Hot Flashes 是下丘腦、卵巢和腎上腺之間的激素失衡引起的。
+- 腎上腺功能不足是主要根源，需通過支持腎上腺和平衡激素來解決。
+- 自然療法為首選，以避免荷爾蒙替代療法的副作用。
 </details>
 
 <details>
