@@ -132,32 +132,65 @@
         alt="[Youtube]" width="200">
 </a>
 
-### Key Points of the Article
+### 文章要點整理
 
-#### Core Theme
-The article discusses the issue of experiencing diarrhea while following a ketogenic diet, focusing on potential causes and solutions.
+#### 核心主題
+- 探讨酮症（ketosis）过程中出现腹泻的原因及应对策略。
 
-#### Major Concepts
-1. **Ketosis and Digestion**: The body's adaptation to digesting higher amounts of saturated fats and vegetables in ketosis.
-2. **Microbiome Impact**: Changes in gut microbiota due to increased vegetable intake can affect digestion.
+#### 主要觀念
+1. **酮症飲食中的脂肪攝取**：酮症飲食通常富含 saturated fat，這可能導致胃腸道不適。
+2. **蔬菜的消化影響**：某些蔬菜可能對腸道微生物造成壓力，引發消化問題。
 
-#### Causes of Diarrhea
-1. **High Saturated Fat Intake**: Increased consumption of saturated fats, such as MCT oil, butter, or coconut oil, can stimulate bile production and potentially lead to digestive issues.
-2. **Vegetable Overload**: Certain vegetables may overwhelm the gut microbiota, leading to diarrhea.
+#### 問題原因
+1. **脂肪攝取過量**：尤其是液態形式的油（如MCT油、椰子油或.Butter），增加了腸道的負擔。
+2. **蔬菜種類過於複雜**：某些蔬菜含有特定化合物，可能超過腸道微生物的消化能力。
 
-#### Solutions and Recommendations
-1. **Reduce Saturated Fat Intake**: Temporarily decrease liquid forms of saturated fat (e.g., MCT oil) to assess if this alleviates symptoms.
-2. **Adjust Vegetable Consumption**:
-   - Avoid problematic vegetables initially: onions, garlic, artichoke, beetroot, leeks, Brussels sprouts, cabbage, green beans, avocados, blackberries, cauliflower, mushrooms, and fennel.
-   - Opt for easily digestible vegetables: green lettuce, cucumber, tomato, zucchini, bell pepper, and bean sprouts.
-   - Introduce fermented vegetables gradually to support gut health.
+#### 解決方法
+1. **調整脂肪攝取量**：
+   - 減少液態油（如MCT油、椰子油或.Butter）的用量。
+   - 選擇固體形式的脂肪來源。
+2. **選擇易消化蔬菜**：
+   - 暫時避免：洋蔥、大蒜、菊苣、甜菜根、羽衣甘藍、西兰花、捲心菜、四季豆、牛油果、黑莓、蘑菇和茴香。
+   - 選擇更易igestible的蔬菜：綠 lettuce、黄瓜、番茄、西葫蘆、彩色甜椒和豆芽。
+3. **引入發酵蔬菜**：
+   - 增加益生元食物，幫助腸道微生物平衡。
 
-#### Health Recommendations
-- Monitor vegetable intake and transition slowly to more challenging options as the microbiome adapts.
-- Consider avoiding pre-packaged salads with added ingredients; opt for plain green lettuce.
+#### 健康建議
+1. **逐步調整飲食**：
+   - 減少刺激性食物的攝取，待腸道適應後再逐漸恢復。
+2. **注意蔬菜的新鮮度和來源**：
+   - 選擇新鮮、未加工的蔬菜，避免含有防腐劑或添加劑的产品。
 
-#### Conclusion
-Diarrhea during ketosis is often due to adapting to increased fat and vegetable consumption. By adjusting dietary components and allowing time for the gut microbiome to adjust, symptoms can be managed effectively. Gradual reintroduction of diverse vegetables over three to four weeks is recommended.
+#### 結論
+- 膳食調整是關鍵。通過減少脂肪攝取量和選擇易消化的蔬菜，可以緩解酮症飲食引起的腹泻問題。
+- 隨著腸道微生物逐漸適應，可逐步恢復多樣化的蔬菜攝取。
+
+---
+
+### 英文版本精簡摘要
+
+**Title: Understanding Diarrhea During Ketosis and Solutions**
+
+**Core Theme**: Investigating the causes of diarrhea during ketosis and providing actionable solutions.
+
+**Key Concepts**:
+1. High intake of saturated fats in a ketogenic diet can strain intestinal digestion.
+2. Certain vegetables may overwhelm gut microbiota, leading to digestive issues.
+
+**Causes**:
+- Excessive liquid fat sources (e.g., MCT oil, butter, coconut oil).
+- Consumption of complex vegetables that challenge the gut's microbial balance.
+
+**Solutions**:
+1. Reduce intake of liquid fats and opt for solid fat sources.
+2. Temporarily avoid challenging vegetables (e.g., onions, garlic, artichokes) and switch to easily digestible options (e.g., green lettuce, cucumbers).
+3. Incorporate fermented vegetables to support gut health.
+
+**Health Recommendations**:
+- Gradually reintroduce diverse vegetables as the gut adapts.
+- Choose fresh, unprocessed vegetables to avoid additives.
+
+**Conclusion**: Adjusting diet composition is crucial for mitigating diarrhea during ketosis. By reducing fat intake and selecting appropriate vegetables, individuals can alleviate symptoms and improve digestive health.
 </details>
 
 <details>
