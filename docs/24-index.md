@@ -1965,25 +1965,91 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
 </details>
 
 <details>
-<summary>2464. What is a Gallbladder Attack? – Symptoms & Causes Covered by Dr.Berg</summary><br>
+<summary>2464. [2019-10-16] What is a Gallbladder Attack? – Symptoms & Causes Covered by Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5eAE5LmoF3E" target="_blank">
     <img src="https://img.youtube.com/vi/5eAE5LmoF3E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理與分析
 
+#### 一、核心主題：膽汁的功能及其對健康的影響  
+- 胆汁在消化系統中扮演重要角色，主要負責脂肪的消化和吸收，並幫助排出代謝廢物。  
+- 胆汁不足或過 thick 可能導致健康問題，包括膽石症和其他消化不適。
+
+#### 二、主要觀念：膽汁的功能與成分  
+1. **膽汁的成分**  
+   - 主要由水、膽鹽、磷脂、膽固醇和濃度因子（如bilirubin）組成。  
+2. **膽汁的作用**  
+   - 胆汁中的膽鹽是脂溶性分子，能溶解脂肪，促進其消化吸收。  
+   - 胆汁還有助於排出膽紅素和其他代謝廢物。
+
+#### 三、問題原因：膽石症的成因  
+1. **膽石形成的機制**  
+   - 胆鹽濃度不足或膽固醇過高導致膽鹽無法有效溶解膽固醇，形成結晶。  
+2. **風險因素**  
+   - 高碳水化合物飲食、糖尿病、胰島素抵抗、長期使用皮質類固醇藥物、壓力過大、雌激素水平升高（如懷孕或使用避孕藥）。  
+
+#### 四、解決方法與健康建議  
+1. **預防膽石症**  
+   - **飲食調整**：增加膳食纖維攝取，降低血糖波動，避免高糖和高脂肪飲食。  
+   - **保持適當體重**：肥胖人は高いリスクを伴うため、適度な運動とダイエットが推奨される。  
+2. **改善膽汁功能**  
+   - **增加膳食纖維攝取**：幫助腸道菌群平衡，促進膽汁的回收和再利用（95%の胆汁が腸内細菌によってリサイクルされる）。  
+   - **補充 bile salts**：在醫生指導下，適當補充膽鹽可溶解膽石並改善消化問題。  
+3. **生活習慣調整**  
+   - 管理壓力、避免長期使用抗生素（以免破壞腸道菌群平衡）。  
+
+#### 五、針對性建議  
+1. **膽囊切除後的照顧**  
+   - 胆囊切除後，膽汁直接流入小肠，可能造成脂肪吸收不良或腹瀉。  
+   - 在此情況下，適當補充膽鹽可幫助消化和吸收，但需注意避免加重腹瀉。  
+
+#### 六、結論  
+- 胆汁對於消化系統的健康至關重要，膽石症的形成與多種因素相關，包括飲食、代謝紊亂和激素變化。  
+- 通過調整飲食結構、保持適當體重、管理壓力和補充必要的營養素，可以有效預防膽石症並改善消化功能。  
+
+此篇文章強調了膽汁在身體中的多功能性及其對整體健康的影響，並提供了實用的健康建議以促進膽汁健康。
 </details>
 
 <details>
-<summary>2463. 7 Weird Lyme Disease Symptoms that You Need to Know – Dr.Berg</summary><br>
+<summary>2463. [2019-10-15] 7 Weird Lyme Disease Symptoms that You Need to Know – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=jIBGrxj6EJM" target="_blank">
     <img src="https://img.youtube.com/vi/jIBGrxj6EJM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節一： Lyme 病的核心主題  
+- Lyme 病是由受感染蜱蟲叮咬傳播的 Spirochi 杆菌引起的疾病。  
+- 由於抗體需數周時間才會在血液中 detectable，早期診斷存在挑戰。  
 
+### 小節二：主要觀念  
+- Lyme 病不僅影響免疫系統，還可能侵入器官，導致多種併發症。  
+- 典型症状包括疲勞、頭痛、關節疼痛、寒顫、發燒和疑似流感症狀。  
+- 50% 的病例可能出现「靶心狀」紅色皮疹。  
+
+### 小節三：問題原因  
+- 抗體測試的局限性：抗體需數周後才會顯現，導致早期診斷困難。  
+- Lyme 病可能引發多系統炎症反應，影響免疫和神經系統。  
+
+### 小節四：其他非典型症状  
+- 雜耍或肢體顫抖。  
+- 手腳麻木或刺痛感。  
+- 情緒障礙（如抑鬱或焦慮）。  
+- 睡眠紊亂。  
+- 迁移性疼痛（ pain that moves around the body）。  
+
+### 小節五：健康建議  
+- 即使血清測試為陰性，仍需考慮 Lyme 病的可能性，特別是在症狀與暴露史相符的情況下。  
+- 若懷疑感染，儘快就醫並追蹤症狀變化。  
+- 採取自然療法或藥物治療時，需在專業醫師指導下進行。  
+
+### 小節六：結論  
+- Lyme 病具有多樣化且非特異性的症状，易被忽視或误診。  
+- 及時診斷和治療至關重要，以避免併發症的發生。  
+- 面對疑似病例，建議結合臨床症狀、暴露史和實驗室測試進行綜合判斷。
 </details>
 
 <details>
@@ -1998,91 +2064,497 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
 </details>
 
 <details>
-<summary>2461. Quercetin – The Best Natural Antihistamine – Foods With Quercetin – Dr.Berg</summary><br>
+<summary>2461. [2019-10-14] Quercetin – The Best Natural Antihistamine – Foods With Quercetin – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=q5oZtFGUr1c" target="_blank">
     <img src="https://img.youtube.com/vi/q5oZtFGUr1c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 文章整理報告
 
+## 核心主題
+- 探讨一种高效的天然抗组胺物质及其在治疗多种过敏和炎症性疾病中的应用。
+
+## 主要內容與觀念
+1. **介紹核心物質**  
+   - 文章介紹了一種名為"corsetin"（可能為聽寫錯誤，實際應為"quercetin"，即槲皮素）的天然化合物。
+   - 它屬於一種PHYTONUTRIENT（植物次生代謝物），具體來說是一種特定的POLYPHENOL（多酚類化合物）。
+
+2. **健康益處**  
+   - 作為強效的天然抗組胺劑，能有效緩解以下症狀：
+     - 鼻竇 congestion
+     - 肺部痰液積聚
+     - 疹、皮疹、癢感
+     - 哮喘和過敏反應
+   - 具有抗氧化和抗炎特性，適用於治療以下炎症性疾病：
+     - 經絡炎（arthritides）
+     - 骨膜炎（bursitis）
+     - 腱鞘炎（tendinitis）
+
+3. **食物來源**  
+   - Quercetin在多種食物中含量豐富，包括但不限於：
+     - 洋蔥（尤其是外皮）
+     - 紫洋蔥
+     - 辣椒
+     - 芥菜葉
+     - 卡博（Carob）
+     - 香菜（Cilantro）
+     - 菠蘿蔔（Radish leaves）
+     - 芥末（Dill）
+     - 葛籐（Fennel）
+     - 紫甘藍（Kale）
+
+4. **建議的劑量與用法**  
+   - 因サプリメント形式攝取時，劑量可根據症狀嚴重程度調整：
+     - 粉末形式：每次1茶匙
+     - 片劑形式：每次500-250毫克，每日可服用4次，總劑量為1000-4000毫克
+   - 注意：具體劑量需根據產品規格調整
+
+5. **副作用與安全性**  
+   - 文章強調其副作用少，安全性高。
+
+## 健康建議
+1. 遊戲化學習：
+   - 將健康知識融入日常生活遊戲中，例如食譜設計或食療ALLENGE。
+2. 測試個人反應：
+   - 在開始任何新補充劑前，建議先進行小劑量測試，觀察身體反應。
+
+## 結論
+Quercetin是一種高效且安全的天然抗組胺和抗炎AGENT，適合用於緩解多種過敏和炎症相關症狀。儘管其可通過多種食物攝取，但對於症狀較為嚴重的患者，服用サプリメント形式並按建議劑量使用能更快獲得效果。
+
+---
+
+以上整理基於文章內容，未加入任何外部知識。
 </details>
 
 <details>
-<summary>2460. The Black Bubonic Plague – Interesting New Findings – Dr.Berg</summary><br>
+<summary>2460. [2019-10-14] The Black Bubonic Plague – Interesting New Findings – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fPQx7xe6CgQ" target="_blank">
     <img src="https://img.youtube.com/vi/fPQx7xe6CgQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 文章重點整理：黑死病与营养 deficiencies 的关系及其健康启示
 
+## 核心主題
+- 黑死病（Black Death）作为历史上的重大疫情，其发生与维生素 D 缺乏等营养问题密切相关。
+- 探讨营养状态如何影响感染性疾病的发生与发展。
+
+## 主要觀念
+1. **黑死病的定义与时间范围**  
+   - 黑死病是14世纪中期至15世纪在欧洲和亚洲爆发的流行病，由鼠疫杆菌引起，通过受感染跳蚤传播。
+2. **维生素 D 的重要性**  
+   - 维生素D是一种激素，具有强大的免疫调节作用，缺乏时会显著增加感染风险。
+3. **伦敦墓地发现的黑死病遗骸研究**  
+   - 25具黑死病受害者的骨骼显示严重佝偻病（rickets），表明维生素 D 缺乏普遍存在。
+
+## 問題原因
+1. **维生素 D 缺乏的原因**  
+   - 长期缺乏阳光照射导致合成不足。
+   - 营养不良和食物供应问题加剧了这一状况。
+2. **历史事件对营养状态的影响**  
+   - 14世纪初的火山爆发（如塔拉韦拉火山）引发全球气候变化，导致饥荒和粮食短缺。
+   - 战争（如一战）影响了食品运输与储存，造成锌等微量元素的流失。
+
+## 解決方法
+1. **维生素 D 的补充**  
+   - 通过膳食补充剂摄取维生素 D，特别是在阳光照射不足的情况下。
+2. **改善饮食结构**  
+   - 确保均衡营养，避免因战争或灾害导致的食品短缺问题。
+3. **公共卫生措施**  
+   - 加强对营养缺乏症的监测与干预，尤其是在疫情高峰期。
+
+## 健康建議
+1. **维生素 D 补充建议**  
+   - 每天摄取适量维生素 D（通常为600-800 IU），特别是在冬季或阳光不足地区。
+2. **饮食多样化**  
+   - 保证摄入富含维生素D的食物，如鱼类、蛋黄和强化食品。
+3. **关注环境因素对健康的影响**  
+   - 在自然灾害或战争期间，注意营养均衡以增强免疫力。
+
+## 結論
+- 营养状态是影响感染性疾病严重程度的重要因素。
+- 维生素 D 缺乏在黑死病和 Spanish flu 中起到了关键作用，强调了补充维生素 D 的重要性。
+- 历史事件对营养环境的影响不容忽视，未来应注重通过改善营养状况来预防疾病爆发。
 </details>
 
 <details>
-<summary>2459. What is Ginkgo Biloba? – The Benefits of Ginkgo Biloba – Dr.Berg</summary><br>
+<summary>2459. [2019-10-13] What is Ginkgo Biloba? – The Benefits of Ginkgo Biloba – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=lah7yv46Et8" target="_blank">
     <img src="https://img.youtube.com/vi/lah7yv46Et8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 1. 核心主題  
+- **Ginkgo biloba**（銀杏）的功效及其歷史淵源。
 
+### 2. 主要觀念  
+- Ginkgo biloba是一種源自古代的樹種，化石紀錄可追溯至270萬年前。  
+- 其葉子被廣泛用於藥用和保健品中，具有多種健康效益。  
+
+### 3. 生理功效  
+- **記憶增強**：改善腦部血流，增加氧氣供應，提昇記憶功能。  
+- ** circulation（血液循环）**：作為 vasodilator（血管擴張劑），促進血液循環，特別是四肢和腦部的血流。  
+- ** 支援呼吸系統**：對 bronchitis（支氣管炎）有幫助。  
+- ** 抗炎作用**：可用於緩解 arthritis（關節炎）。  
+- **抗菌特性**：具有 antimicrobial（抗微生物）效果。  
+- **紓解壓力**：可減輕 anxiety（焦慮）。  
+- **提升性欲**：可能增強 libido（性慾）。  
+- **降低耳鳴**：有助於緩解 tinnitus（耳鳴）。  
+- **改善視力**：可能提昇眼睛功能。  
+
+### 4. 科學機制  
+- 主要活性成分包括 antioxidants（抗氧化劑）和 phytonutrients（植物營養素）。  
+- 關鍵作用在於增加 nitric oxide（一氧化氮），這是一種 endothelium-derived relaxing factor（內皮源性舒張因子），能放松動脈平滑肌，促進 vasodilation（血管擴張），從而增強血液流動和氧氣供應。  
+
+### 5. 影響因素  
+- **飲食習慣**：若飲食不佳，ginkgo的效果可能受限；良好的飲食習慣可提升其效果。  
+- **其他來源**：蔬菜中含有的 nitrates（氮氧化物）也能增加 nitric oxide，因此富含蔬菜的飲食也有助於提高血液流動性。  
+
+### 6. 適宜人群  
+- 高血壓患者：由於 ginkgo 可改善 circulation（血液循环），有益於降低血壓。  
+- 有氧需求增高的族群：如需增加身體各部位的氧氣供應，ginkgo 可作為輔助手段。  
+
+### 7. 注意事項  
+- 研究結果 mixed（混合），效果可能因人而異，建議在使用前諮詢專業醫療人員。  
+
+### 8. 健康建議  
+- 確保飲食均衡健康，以最大化 ginkgo 的功效。  
+- 考慮搭配富含蔬菜的飲食，以自然增加 nitric oxide。  
+
+### 9. 結論  
+Ginkgo biloba 是一種具有悠久歷史且多效的植物，其主要功效在於通過增加 nitric oxide 改善血液流動和氧氣供應，從而增強記憶、改善 circulation（血液循环）及其他健康問題。然而，其效果受飲食習慣等因素影響，建議在專業指導下使用。
 </details>
 
 <details>
-<summary>2458. What is the Healthiest Country in the World? Centenarians Diet – Dr.Berg</summary><br>
+<summary>2458. [2019-10-13] What is the Healthiest Country in the World? Centenarians Diet – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=31lwfRLyZuU" target="_blank">
     <img src="https://img.youtube.com/vi/31lwfRLyZuU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：日本為世界上最健康的國家
 
+#### 主要觀念：
+1. 日本在健康指標方面表現卓越，包括壽命 expectancy 和慢性病发病率。
+2. 日本人口中的超長壽老人（百歲以上）數量全球領先。
+3. 九州的okinawa是全球 centenarian（百歲老人）密度最高的地區之一。
+
+#### 問題原因：
+1. 年齡相關疾病的低發病率，包括糖尿病、癌症、關節炎和阿茨海默病。
+2. 极低的肥胖率。
+
+#### 解決方法：
+1. **Metabo法**：日本厚生労働省於2009年實施「新陳代謝綜合症」預防政策（Metabo法），針對47歲至74歲人口，每年測量腰圍指標：
+   - 男性 waist circumference 不得超過35.4 cm。
+   - 女性 waist circumference 不得超過31.1 cm。
+2. 超過標準者需接受健康教育課程，以降低胰島素抵抗風險。
+
+#### 健康建議：
+1. **飲食習慣**：
+   - 高攝取量的魚類（包括生魚和海鮮），富含DHA和其他營養素。
+   - 消費大量蔬菜，尤其是海藻類，常見於醃漬或發酵食品，有益腸道健康。
+   - 綠茶 consumption 提供抗氧化劑。
+   - 飲食中包含natto（發酵大豆製品），富含維生素K2，有助於去除血管和關節中的鈣質沉積。
+2. **運動習慣**：
+   - 日本人普遍從事步行等日常活動，增強體力並降低慢性病風險。
+
+#### 結論：
+1. 日本的健康狀況得益於其獨特的飲食結構、積極的生活方式和政府的主動健康管理政策（如Metabo法）。
+2. 這些措施共同促進了日本在壽命 expectancy 和慢性病管理方面的全球領導地位。
 </details>
 
 <details>
-<summary>2457. What is Transdermal Magnesium? Symptoms of Magnesium Deficiency – Dr.Berg</summary><br>
+<summary>2457. [2019-10-12] What is Transdermal Magnesium? Symptoms of Magnesium Deficiency – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=RL10hlP4Lo8" target="_blank">
     <img src="https://img.youtube.com/vi/RL10hlP4Lo8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理與分析
 
+#### 核心主題
+- **外用镁油的效果与局限性**
+- **纤维肌痛（Fibromyalgia）与胆囊问题的关系**
+- **镁元素在人体中的作用及缺乏的影响**
+- **维生素D与镁的相互作用**
+- **生活方式对健康的影响，如间歇性禁食和低碳饮食**
+
+#### 主要觀念
+1. **外用 magnesium oil 的作用机制**  
+   - 通过皮肤吸收，主要进入汗腺和毛囊，仅占表皮面积的1%。  
+   - 提供400多种酶所需的矿物质，参与能量代谢、DNA修复、神经传导等。
+
+2. **纤维肌痛的核心问题**  
+   - 纤维肌痛通常与胆囊功能异常有关（如胆汁淤积或胆囊疾病）。  
+   - 99%的患者症状与右下腹疼痛相关，提示潜在的胆囊问题。  
+
+3. **镁缺乏的症状与影响**  
+   - 心律不齐、疲劳、肌肉无力、颤抖、抽筋、高血压等。  
+   - 镁是维生素D活化的重要辅助因子，缺乏会影响维生素D的作用。
+
+4. **饮食与营养建议**  
+   - 富含镁的食物：绿叶蔬菜（菠菜、羽衣甘蓝）、坚果、种子、牛油果等。  
+   - 大约60%的人群存在镁摄入不足的情况。
+
+5. **生活方式干预**  
+   - 间歇性禁食有助于降低炎症水平。  
+   - 低碳饮食（如生酮饮食）可改善整体健康状况。
+
+#### 問題原因
+1. **外用 magnesium oil 的局限性**  
+   - 虽然对急性肌肉疼痛和运动后恢复有效，但无法解决慢性症状的根本原因。  
+
+2. **纤维肌痛的系统性问题**  
+   - 未被充分认识到的胆囊功能障碍是导致持续症状的主要原因。
+
+3. **镁缺乏的原因**  
+   - 饮食结构不合理，尤其是绿叶蔬菜摄入不足。  
+   - 现代人普遍存在微量营养素不足的问题。
+
+#### 解決方法
+1. **针对急性疼痛的外用镁油**  
+   - 适用于运动后恢复或短期肌肉酸痛，但需结合其他治疗手段解决慢性问题。
+
+2. **纤维肌痛的系统性治疗**  
+   - 通过胆囊功能评估和治疗来缓解症状。  
+   - 参考链接中的视频了解胆囊与纤维肌痛的关系。
+
+3. **补充镁元素**  
+   - 增加富含镁食物的摄入，如绿叶蔬菜、坚果、种子等。  
+   - 考虑口服镁补充剂（需在医生指导下使用）。
+
+4. **维生素D与镁的协同作用**  
+   - 确保充足的维生素D水平，以增强其抗炎效果。  
+   - 镁缺乏时，维生素D的效果可能受限。
+
+5. **生活方式调整**  
+   - 采用间歇性禁食和低碳饮食来降低炎症水平。  
+   - 结合健康饮食与适度运动，改善整体代谢状况。
+
+#### 健康建議
+1. **慢性症状的处理建议**  
+   - 如果出现持续的关节疼痛、肌肉酸痛或纤维肌痛，应深入检查是否有胆囊问题。  
+   - 在使用外用镁油的同时，关注饮食和生活习惯的调整。
+
+2. **营养补充与饮食优化**  
+   - 确保每日摄入足够的镁，尤其是通过天然食物来源。  
+   - 避免高糖、高加工食品，选择富含纤维和微量元素的食物。
+
+3. **生活方式的建议**  
+   - 实行间歇性禁食，减少炎症反应。  
+   - 尝试低碳饮食（如生酮饮食），改善代谢健康。  
+   - 定期进行适度运动，避免过度训练导致的肌肉酸痛。
+
+#### 結論
+- **外用镁油** 是一种有效的短期缓解疼痛的方法，但不能解决慢性问题的根本原因。
+- **纤维肌痛** 的治疗应关注胆囊功能，而非仅依赖止痛药或外用药物。
+- **镁和维生素D的补充** 对于维持身体健康至关重要，尤其是对于存在慢性炎症或代谢紊乱的人群。
+- **健康的生活方式**（如间歇性禁食、低碳饮食）能够显著改善整体健康状况，减少疾病风险。
 </details>
 
 <details>
-<summary>2456. Not Hungry on Keto, Yet Still Feeling Weak? – Dr.Berg on Being Tired on Keto</summary><br>
+<summary>2456. [2019-10-12] Not Hungry on Keto, Yet Still Feeling Weak? – Dr.Berg on Being Tired on Keto</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Z-rGH9zEGg0" target="_blank">
     <img src="https://img.youtube.com/vi/Z-rGH9zEGg0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- **酮症（Ketosis）**：酮飲食和短期禁食的效果及可能遇到的問題。  
 
+---
+
+### 主要觀念  
+1. 酮症是一種代謝狀態，身體燃燒脂肪而非碳水化合物作為主要能量來源。
+2. 酮症的關鍵指標之一是食欲減退或消失。
+3. 在酮症期間，若感覺疲勞或虛弱，通常與營養缺乏相關。
+
+---
+
+### 問題原因  
+1. **肌肉無力**：可能與維生素E缺乏有關。  
+   - 維生素E deficiency 可能導致肌肉無力。  
+2. **低血鈉（Low Sodium）**：酮飲食和短期禁食容易導致鹽分攝取不足。  
+3. **腦霧（Brain Fog）**：可能與胰島素抵抗或維生素D缺乏有關。  
+4. **疲勞（Fatigue）**：可能與維生素B1、B5 deficiency，低血钾（Low Potassium），或鎂缺乏有關。
+
+---
+
+### 解決方法  
+1. **肌肉無力**：  
+   - 补充富含維生素E的食物，如植物油、種子、堅果和深色葉菜。  
+   - 選擇天然的維生素E複合體（Tocotrienols），避免合成的α-tocopherol。  
+
+2. **低血鈉**：  
+   - 每天攝取至少一茶匙食鹽，或服用海鹽 tablets。  
+
+3. **腦霧**：  
+   - 使用中鏈脂肪酸（MCT油）快速提供酮體至大腦。  
+   - 补充維生素D以改善胰島素抵抗和腦功能。  
+
+4. **疲勞**：  
+   - 补充B群 vitamins，尤其是Nutritional Yeast 是良好的來源。  
+   - 確保攝取足夠的钾和鎂，可通過食用蔬菜或補充劑實現。  
+
+---
+
+### 健康建議  
+1. 在酮飲食期間，定期檢測是否進入酮症（使用尿液試紙或血液測試）。  
+2. 注意鹽分攝取，避免低血鈉引起的虛弱。  
+3. 若出現腦霧或疲勞，先排除營養缺乏問題，再調整飲食或補充劑。  
+4. 確保均衡攝取微量營養素，以支持身體的代謝和能量生成。
+
+---
+
+### 结論  
+- 酮症是一種有效的減重和健康改善方法，但需注意可能的營養缺乏問題。  
+- 若出現食欲減退、疲勞或腦霧，應檢查是否進入酮症，并針對具體原因進行調整。  
+- 維持均衡飲食，補充必要的微量營養素，可以有效避免這些問題。
 </details>
 
 <details>
-<summary>2455. If Pasta Is So Bad, Why Do Italians Live So Long? Italian Lifestyle & Longevity – Dr.Berg</summary><br>
+<summary>2455. [2019-10-11] If Pasta Is So Bad, Why Do Italians Live So Long? Italian Lifestyle & Longevity – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=WwasJCB4FaA" target="_blank">
     <img src="https://img.youtube.com/vi/WwasJCB4FaA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：意大利及撒丁岛的长寿秘密
 
+#### 主要觀念：
+1. **撒丁岛和利古里亚的长寿现象**：
+   - 撒丁岛被称为“蓝色地带”，与日本并列长寿地区。
+   - 利古里亚是意大利北部的一个地区，居民寿命较长。
+
+2. **女性长寿的原因**：
+   - 在百岁以上的老人中，87.2%为女性，主要归因于雌激素的抗氧化作用，减缓自由基对DNA和线粒体的损害。
+
+3. **饮食习惯与健康**：
+   - 撒丁岛饮食以有机猪肉、鱼类（富含DHA、碘、硒、锌、铜）、蔬菜（如洋蓟）为主。
+   - 低糖、低精制食品，适量橄榄油，少量 pasta 和面包。
+   - 饮用葡萄酒和啤酒，保持适度。
+
+4. **生活方式**：
+   - 低压力生活，岛民社交圈紧密，社区支持性强。
+   - 日常活动如行走有助于燃烧卡路里。
+
+#### 問題原因：
+1. **工业化饮食的影响**：
+   - 现代饮食倾向于高糖、高加工食品，导致健康问题。
+
+2. **快节奏生活方式的负面影响**：
+   - 快速生活减少家庭烹饪时间，影响饮食质量。
+
+3. **农药和 GMO 的潜在危害**：
+   - 工业化农业可能引入有害物质，破坏自然生态系统。
+
+#### 解決方法與建議：
+1. **饮食调整**：
+   - 减少精制糖和加工食品的摄入。
+   - 增加富含ω-3脂肪酸的食物（如鱼类）的摄入。
+   - 适量饮用葡萄酒，避免过量饮酒。
+
+2. **生活方式优化**：
+   - 保持低压力生活，增加社交互动。
+   - 多进行日常活动，如步行，促进新陈代谢。
+
+3. **环境保护**：
+   - 减少农药和 GMO 的使用，保护自然生态系统。
+   - 支持有机农业，确保食物的天然性和安全性。
+
+4. **文化传承**：
+   - 保留传统饮食习惯和烹饪方法，避免被工业化食品侵蚀。
+
+#### 結論：
+1. 撒丁岛的长寿现象是多因素共同作用的结果，包括健康的饮食、积极的生活方式、低压力环境以及强大的社区支持。
+2. 传统农业和饮食文化的保持对维护健康至关重要。
+3. 全球化背景下，保护地方文化和饮食习惯是实现个人和群体健康的重要策略。
+
+---
+
+### 參考資料：
+1. 文章中的直接引用和观点整理。
+2. 相关健康和营养学研究。
 </details>
 
 <details>
-<summary>2454. Egg Yolks: Orange or Yellow – Pasture Raised Eggs vs. Factory Farm Eggs – Which is Better? – Dr.Berg</summary><br>
+<summary>2454. [2019-10-10] Egg Yolks: Orange or Yellow – Pasture Raised Eggs vs. Factory Farm Eggs – Which is Better? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=j8HNfSGu3CY" target="_blank">
     <img src="https://img.youtube.com/vi/j8HNfSGu3CY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
 
+- 蛋黃顏色的差異及其對應的蛋類來源（如 pasture-raised 与 factory farm）。
+
+- 影響蛋黃顏色的因素，包括飼料、環境和雞隻生活方式。
+
+- 卡紅素（carotenoids）在蛋黃颜色中的作用及健康益處。
+
+
+
+### 主要觀念
+
+1. 蛋黃顏色差異：
+
+   - 深橙色蛋黃通常來自 pasture-raised 或有機蛋。
+
+   - 淡 yellow 色蛋黃來自家禽工廠農場。
+
+2. 影響蛋黄颜色的因素：
+
+   - 料成分（如 pasture-raised 綠色植物、昆蟲、穀物 vs 工廠農場的 GMO 玉米、大豆）。
+
+   - 日曬：pasture-raised 雞隻接觸更多日光，導致蛋黄颜色較深。
+
+3. 卡紅素的作用：
+
+   - 是植物基質化學物質，具有色素和抗氧化劑功能。
+
+   - 提供多種健康益處，如防止氧化損傷、改善眼睛健康（如.macular degeneration）。
+
+
+
+### 問題原因
+
+- 工廠農場蛋黃顏色較淺的原因：
+
+  - 飼料主要為 GMO 玉米和大豆，缺乏多樣性。
+
+  - 雞隻受限於室內環境，缺乏自然日光照射。
+
+
+
+### 解決方法
+
+- 選購 pasture-raised 或有機蛋，以確保蛋黃顏色較深且富含抗氧化劑。
+
+- 檢查產品標籤，避免 GMO 飼料來源的蛋。
+
+### 健康建議
+
+- 选择含豐富卡紅素的食物，因其具有抗氧化作用，可預防氧化損傷，並可能改善眼睛健康。
+- 遊牧飼養或有機蛋較為推薦，因其提供更均衡的營養和更高的健康益處。
+
+
+
+### 結論
+
+- 蛋黃顏色反映了雞隻的生活條件和飲食來源。
+
+- 深橙色蛋黄通常與 pasture-raised 電子相關，富含抗氧化劑，有益於健康。
+
+- 工廠農場的蛋黃顏色較淺，主要原因是飼料成分和缺乏自然光照。消費者應依據自身需求選擇不同類型的蛋品。
 </details>
 
 <details>
