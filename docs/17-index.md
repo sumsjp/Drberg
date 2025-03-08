@@ -802,58 +802,271 @@
 </details>
 
 <details>
-<summary>1727. Is Stress Making You Eat Sugar? – Dr. Berg</summary><br>
+<summary>1727. [2018-09-15] Is Stress Making You Eat Sugar? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=WNp-PVnE8fU" target="_blank">
     <img src="https://img.youtube.com/vi/WNp-PVnE8fU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- **壓力與糖分攝取之間的關聯**：文章探討了壓力如何促使人們消費糖分，並揭示了其中的生物學機制。  
 
+---
+
+### 主要觀念  
+1. **β 内啡肽的作用**  
+   - β 内啡肽是一種由人體自然產生的化學物質，能夠缓解壓力和疼痛，並且其鎮痛效果約為嗎啡的33%。  
+2. **糖分攝取的短期效益**  
+   - 糖分消費能瞬時提升情緒，帶來短暫的愉悅感（持續大約5-20分鐘）。  
+
+---
+
+### 啟發原因  
+1. **壓力導致β 内啡肽濃度降低**  
+   - 當人體處於壓力狀態下，β 内啡肽的水平會下降，使人感到更加焦躁和痛苦。  
+2. **糖分消費的短期快感**  
+   - 人們在壓力下消費糖分，是因為糖分能快速提升血糖水平，並刺激β 内啡肽的釋放，帶來短暫的安慰。  
+
+---
+
+### 啟發問題  
+- 糖分攝取的短期效益會導致長期的負面影響，例如：  
+  - **血糖波動**：短時間內血糖升高後迅速下降，使人重新感到疲勞和壓力。  
+  - **β 内啡肽濃度的進一步降低**：依賴糖分來提升情緒，會削弱人體自然產生β 内啡肽的能力，形成惡性循環。  
+
+---
+
+### 解決方法與健康建議  
+1. **非糖分的紓壓方式**  
+   - 通過運動（如跑步者high）、短暫禁食、按摩或幽默感來刺激β 内啡肽的自然釋放。  
+2. **逐步減少糖分攝取**  
+   - 減少對糖分的依賴，改用健康食品（如無糖巧克力）來滿足口感需求。  
+3. **整合紓壓活動**  
+   - 避免同時進行多項刺激（例如：邊吃糖分邊按摩或大笑），以免增加血糖波動和壓力風險。  
+
+---
+
+### 結論  
+- 糖分消費確かに短期的快感を提供するが、長期的にはβ 内啡肽の消費とストレスの悪化につながる。  
+- 適度な運動や健康的な習慣を通じて自然にβ 内啡肽を分泌させ、持続的な紓圧効果を得ることが重要である。
 </details>
 
 <details>
-<summary>1726. Keto Meal Analysis by Dr. Berg</summary><br>
+<summary>1726. [2018-09-14] Keto Meal Analysis by Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5B-eWnpK0cc" target="_blank">
     <img src="https://img.youtube.com/vi/5B-eWnpK0cc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **飲食評估**：基於酮genesis飲食法的膳食評價與建議。
+- **健康問題分析**：針對右側身體部位的疼痛進行病因探討及建議。
 
+---
+
+### 主要觀念
+1. **膳食結構**：
+   - 經常攝入水果（如奇異果）和乳制品（如酸奶、牛奶），可能增加糖分攝取。
+   - 電子秤使用 almonds 作為零食，但頻繁食用可能干擾消化。
+   - 蔬菜攝取足夠，包括番茄、甜菜葉、瑞士芥菜等高營養價值食物。
+
+2. **健康指標**：
+   - 成功減重：體重從131公斤降至116公斤。
+   - 每日飲水量充足（4-5升）。
+   - 存在消化問題，可能與膽囊或腎臟相關。
+
+---
+
+### 問題原因分析
+1. **右側身體疼痛**：
+   - 可能為膽囊問題：位於上腹部，按壓右肋下部位可緩解。
+   - 腎臟問題：酮 genesis 饮食初期可能增加尿酸水平，形成結晶或结石。
+
+2. **消化不順**：
+   - 低纖維攝取：食物過度烹調可能影響微生物營養及腸道健康。
+   - 牛奶的使用：過去eurized 牛奶可能引發不適。
+
+---
+
+### 解決方法
+1. **飲食調整**：
+   - 減少或消除高糖分食物（如奇異果、酸奶）。
+   - 墮固 almonds 經整合到主餐中，避免頻繁食用 snacks。
+   - 替換為植物奶（如杏仁奶），並增加蔬菜的攝取量。
+
+2. **腎臟與膽囊保健**：
+   - 服用 Hydroxycitric Acid 或 Bile Salts：幫助溶解結晶和促進消化。
+   - 使用 Potassium Citrate：幫助酸鹼平衡，預防结石形成。
+
+3. **生活方式建議**：
+   - 定期按摩右肋下部位：緩解膽囊壓力。
+   - 增加運動量：改善整體健康狀況。
+
+4. **水分與電解質管理**：
+   - 保持每日充足飲水量（4-5升）。
+   - 添加 electrolytes：補充流失的礦物質，維持身體平衡。
+
+---
+
+### 健康建議
+1. **膳食優化**：
+   - 增加 raw salads：提供更多纖維和營養。
+   - 選擇高assium食物（如甜菜葉）：幫助預防腎臟問題。
+
+2. **疼痛管理**：
+   - 如為膽囊問題，按摩右肋下部位可緩解症狀。
+   - 如為腎臟問題，及時採取溶解結晶措施，避免進一步發展。
+
+3. **日常護理**：
+   - 定期監測體重和健康狀況。
+   - 保持良好的水分攝取習慣。
+
+---
+
+### 總結
+-  genesis 饮食法在減重方面效果顯著，但需注意飲食結構的合理性。
+- 右側身體疼痛可能是膽囊或腎臟問題，建議及時就醫並配合飲食調整。
+- 通過優化膳食、增加運動和使用保健產品，可改善消化問題並預防相關健康風險。
 </details>
 
 <details>
-<summary>1725. The Terrible Side Effects of Keto Diet!! – Dr. Berg</summary><br>
+<summary>1725. [2018-09-14] The Terrible Side Effects of Keto Diet!! – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=QiJXYa7rXBM" target="_blank">
     <img src="https://img.youtube.com/vi/QiJXYa7rXBM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 文章重點整理
 
+## 核心主題
+- 探讨酮egenic饮食（生酮饮食）的不良副作用及应对方法。
+
+## 主要觀念
+1. 生酮 diet 是一种通过减少碳水化合物摄入、增加脂肪摄入，使身体从糖类代谢转变为脂肪代谢的饮食方式。
+2. 在过渡到生酮 diet 时，可能会出现一系列副作用，统称为“酮适应期”（keto adaptation）。
+
+## 問題原因
+- 转换过程中，身体需要从以糖类为主要能源来源转变为以脂肪为主，这会导致以下不适症状：
+  - 疲勞（fatigue）
+  - 酮型流感（keto flu），表现为头晕、恶心等症状。
+  - 酮疹（keto rash）
+  - 头痛（headache）
+  - 身體虛弱
+- 这些症状的出现主要是由于体内糖原储备被耗尽，身体需要时间适应脂肪代谢。
+
+## 解決方法
+1. 渐进式转换：
+   - 缓慢减少碳水化合物摄入，逐步增加脂肪比例。
+   - 避免一次性大幅改变饮食结构，以减轻不适感。
+   - 该方法虽然症状较轻，但持续时间较长。
+2. 快速转换（“拔Band Aid”法）：
+   - 结合短時間斷食（minute fasting）进行快速生酮 diet 转换。
+   - 通过断食加速糖原储备的耗尽，迅速进入酮症状态。
+   - 可能在短时间内出现较为强烈的不适症状，但整体时间较短。
+
+## 健康建議
+1. **營養補充**：
+   - 补充B族维生素（尤其是B1），因为脂肪代谢需要更多的B族维生素。
+   - 使用營養酵母作為B族維生素的良好來源。
+   - 確保攝取足夠的鎂和鉀，以幫助身體應對代謝變化。
+2. **電解質平衡**：
+   - 补充海鹽（如喜马拉雅海鹽），以防止因缺 sodium 而導致的頭暈和虛弱。
+3. **飲食結構**：
+   - 在转换过程中保持清淡飲食，避免高糖和高碳水化合物食品。
+
+## 結論
+- 生酮 diet 的不良副作用主要是由于身體适应脂肪代謝所需的時間和條件不夠所致。
+- 通過合理的斷食和營養補充，可以顯著降低這些副作用的強度和持續時間。
+- 要成功進行生酮 diet，關鍵在於在过渡期提供足夠的營養支持和電解質平衡。
 </details>
 
 <details>
-<summary>1724. Forget LDL – Focus on Remnant Cholesterol – Dr. Berg</summary><br>
+<summary>1724. [2018-09-13] Forget LDL – Focus on Remnant Cholesterol – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DN9TEfqTMiE" target="_blank">
     <img src="https://img.youtube.com/vi/DN9TEfqTMiE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：關於殘留胆固醇的核心概念與健康影響
 
+#### 核心主題
+- **殘留 cholesterol (Remnant Cholesterol)** 的重要性及其對健康的影響。
+- 関注殘留 cholesterol 而非傳統的 LDL cholesterol，因其更直接反映心血管疾病風險。
+
+#### 主要觀念
+1. 殘留胆固醇：
+   - 是血液中未被 HDL 或 LDL 承載的游離膽固醇。
+   - 其水平反映身體對糖類和碳水化合物的代謝情況。
+2. 胆固醇分類：
+   - 總膽固醇 ≠ HDL + LDL，殘留胆固醉為總膽固醇的重要組成部分。
+
+#### 問題原因
+- 高殘留胆固醇水平主要由過量攝入糖分、碳水化合物或胰島素抵抗導致。
+- 過多的儲存能量干擾代謝平衡，促使膽固醇「溢出」為殘留胆固醉，進而損傷血管。
+
+#### 解決方法
+1. **飲食調整**：
+   - 減少精制糖和高碳水化合物的攝入。
+   - 增加膳食纖維、健康脂肪（如 omega-3）和蛋白質的攝取。
+2. **生活方式改善**：
+   - 保持規律運動，提升胰島素敏感性。
+   - 管理壓力，避免慢性炎症。
+
+#### 健康建議
+1. 定期檢測殘留胆固醉水平，評估心血管健康狀況。
+2. 使用專業工具（如 Dave Feldman 提供的計算器）進行精確評估。
+3. 達成理想目標值：殘留胆固醇 ≤ 17 mg/dL。
+
+#### 結論
+- 殘留胆固醉是決定性的心血管疾病指標，直接影響死亡率。
+- 関注並管理殘留胆固醉水平對維護心血管健康至關重要。
 </details>
 
 <details>
-<summary>1723. Is Keto (Ketogenic Diet) Too Extreme? – Dr. Berg</summary><br>
+<summary>1723. [2018-09-13] Is Keto (Ketogenic Diet) Too Extreme? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ULBLhjJO3m4" target="_blank">
     <img src="https://img.youtube.com/vi/ULBLhjJO3m4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題  
+- **飲食與健康的平衡**：探討酮式飲食（Keto Diet）及其他飲食方式在健康中的作用與影響。  
+- **美國飲食文化的問題**：揭示美國社會中過度攝取糖分和碳水化合物的現狀及其對健康的危害。  
+
+#### 主要觀念  
+1. **平衡飲食的重要性**：提倡 moderation（ moderation）的概念，即不過度攝取任何一種食物或營養素，而是追求整體的平衡。  
+2. **酮式飲食的理解与争议**：酮式飲食被某些人視為「極端」，主要是因為其限制碳水化合物的摄入量（20-50克/天），這與美國傳統高碳水飲食形成對比。  
+3. **糖分攝取的問題**：美國人平均每天攝取28-31茶匙糖，遠超身體所需，導致血糖紊亂及其他健康問題。  
+
+#### 問題原因  
+- **過度糖分攝取**：美國社會中糖分攝取量近年來大幅上升，成人年均攝取量達100多磅（約45公斤），嚴重影響血糖水平及整體健康。  
+- **Western Diet的影響**：傳統美式飲食高碳水、低脂肪的結構，導致血糖紊亂和代謝失衡。  
+
+#### 解決方法  
+1. **酮式飲食的優勢**：降低碳水化合物攝取量，提高脂肪攝取量，幫助控制血糖水平，從而改善健康狀況。  
+2. **健康飲食建議**：  
+   - 保持每日碳水化合物攝取量在20-50克之間。  
+   - 選擇高質量的脂肪來源（如橄欖油、 nuts 等）。  
+   - 控制糖分攝取，避免過度攝入加工食品和含糖飲料。  
+
+#### 健康建議  
+- **血糖控制**：保持血糖水平在80毫克/分昇左右，避免因高血糖或低血糖導致的健康問題。  
+- **整體健康觀念**：理解「正常」與「極端」的相對性，美國傳統飲食結構才是真正需要調整的「極端」現象。  
+
+#### 結論  
+酮式飲食並非「極端」，反而是幫助恢復健康的合理選擇。美國當前的高糖、高碳水飲食習慣才是真正值得改變的問題。建議人々諮詢專業醫療人員，制定適合個人的飲食計劃，以促進整體健康。  
+
+---
+
+### 參考資源  
+文章中提到的酮式飲食詳細方法可參照以下連結：[具體連結]
 </details>
 
 <details>
@@ -868,58 +1081,294 @@
 </details>
 
 <details>
-<summary>1721. What They Don't Tell You When They Remove Gallbladder? – Dr.Berg</summary><br>
+<summary>1721. [2018-09-12] What They Don't Tell You When They Remove Gallbladder? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=QguqK_DJMK0" target="_blank">
     <img src="https://img.youtube.com/vi/QguqK_DJMK0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題
+- **膽囊切除術後的代償與健康影響**：探討膽囊切除後對人體消化系統的長期影響，特別是膽汁不足所導致的問題。
+
+#### 主要觀念
+1. **膽汁的功能**：
+   - 膽汁作為脂肪分解劑，協助將食物中的脂肪、膽固醇及脂溶性維生素分解並吸收。
+2. **膽囊切除後的生理變化**：
+   - 切除膽囊後，膽汁直接從肝臟以涓滴形式進入消化道，無法形成高濃度的膽汁來有效分解脂肪。
+
+#### 問題原因
+- **脂肪吸收不良**：
+  - 膽汁不足導致脂肪未被充分分解，影響身體對必需脂肪酸（如omega-3）及脂溶性維生素（A、D、E、K）的吸收。
+- **消化系統紊亂**：
+  - 可能引發腹瀉、便秘、腹脹及不完全消化等症狀。
+- **代謝影響**：
+  - 增加脂肪肝風險，因膽汁不足影響胆固醇和脂肪的分解。
+
+#### 解決方法
+1. **飲食調整**：
+   - 選擇不需要胆汁分解的脂肪來源（如中鏈脂肪酸MCT油、椰子油、棕榈油）。
+   - 減少需要膽汁分解的脂肪攝取（如橄榄油、牛油、堅果油等不飽和脂肪）。
+2. **補充 bile salts**：
+   - 使用膽鹽補充劑來幫助脂肪的消化與吸收。
+3. **Omega-3 製劑**：
+   - 补充富含DHA和EPA的魚肝油，以確保必需脂肪酸的攝取。
+
+#### 健康建議
+- 定期監測血脂及相關健康指標，評估膽囊切除後的代謝變化。
+- 諮詢營養師或醫生，制定適合個人情況的飲食計劃和補充劑方案。
+
+#### 理論結論
+- 胆囊切除術後，通過調整飲食結構和使用膽鹽補充劑，可以有效改善脂肪吸收不良及相關健康問題。
 </details>
 
 <details>
-<summary>1720. Dr.Berg Interviews Keto-Carnivore Diet Coach Tristan on Organ Meats</summary><br>
+<summary>1720. [2018-09-11] Dr.Berg Interviews Keto-Carnivore Diet Coach Tristan on Organ Meats</summary><br>
 
 <a href="https://www.youtube.com/watch?v=TijvA-wWtwc" target="_blank">
     <img src="https://img.youtube.com/vi/TijvA-wWtwc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 前言
 
+本文整理自一則訪談紀錄，主要探討了健康飲食、特別是器官肉的重要性，以及相關的烹調技巧和旅遊體驗。訪談中，主講人Dr. Berg分享了多項關於器官肉的健康益處、廚房技巧，並提及了他的旅行經歷和對未來的合作邀約。本文將這些內容分門別類，以正式且客觀的方式呈現在下文中。
+
+---
+
+### 核心主題
+
+1. **器官肉的健康益處**  
+   - 器官肉（如肝臟、腎臟等）富含關鍵營養素，包括鐵質、維生素A、維生素B群和硒。
+   - 它們有助於提升免疫力、促進血液健康並支持整體生理功能。
+
+2. **烹調技巧與食譜建議**  
+   - 推薦使用低溫慢煮或煎炒等方式來 preparation 器官肉，以確保其風味和口感。
+   - 提供了多款適合器官肉的食譜，如肝臟沙拉、腎臟咖哩等。
+
+3. **旅遊體驗與合作邀約**  
+   - 訪談中提及了主講人曾訪問哥倫比亞和厄瓜多爾等地，並對當地食物（如厄瓜多尔的Grass-fed牛肉）讚譽有加。
+   - 提出了未來可能的合作機會，包括在厄瓜多爾設立廚房並邀請聽眾前來品嚐。
+
+---
+
+### 主要觀念
+
+1. **器官肉的營養價值**  
+   - 器官肉是高蛋白質、低脂肪的食物來源。
+   - 它們含有豐富的微量元素，如硒和鋅，這些元素對免疫系統和抗氧化作用至關重要。
+
+2. **健康飲食的重要性**  
+   - 採用均衡飲食結構，包含大量蔬菜、水果、瘦肉蛋白和全穀物，是維持整體健康的基石。
+   - 建議消費者選擇來源可靠的農產品，以確保食品安全性和營養價值。
+
+3. **旅遊的啟發與文化交流**  
+   - 旅行不僅僅是休閒活動，更是探索新文化、新食物和新烹調方法的重要途徑。
+   - 訪談中提到的厄瓜多尔首都基多（Quito）和哥倫比亞的文化遺跡，展現了旅遊對飲食文化的深刻影響。
+
+---
+
+### 問題與原因
+
+1. **器官肉消費量下降的原因**  
+   - 高度工業化食品的氾漤、現代人快節奏的生活方式以及對健康食品認知不足，導致器官肉在現代飲食中逐漸被邊緣化。
+   - 西方飲食文化偏好瘦肉和加工肉類，進一步削弱了器官肉的市場地位。
+
+2. **消費者對健康飲食的誤解**  
+   - 部分消費者錯誤地將高脂肪含量與不健康畫上等號，忽略了健康脂肪（如 Omega-3）的重要性。
+   - 健康飲食常被神話化或过度簡化，導致公眾對其執行性和實用性存在疑問。
+
+---
+
+### 解決方法
+
+1. **提高器官肉的消費意願**  
+   - 通過教育消費者其營養價值和健康益處，來提升器官肉的市場接受度。
+   - 提供多樣化的食譜選擇，降低準備器官肉的技術門檻。
+
+2. **倡導均衡飲食理念**  
+   - 推廣以植物為主、適當搭配動物性蛋白質的飲食結構，幫助消費者擺脫极端飲食法的束縛。
+   - 鼓勵消費者瞭解並選擇ustainably raised 的農產品，支持可持續發展的農業實踐。
+
+3. **旅遊與文化交流的促進**  
+   - 通過旅行和跨文化交換，拓寬飲食視野，學習其他文化的烹調技術和食物智慧。
+   - 開展廚藝課程或工作坊，將不同文化的美食融入本地飲食中。
+
+---
+
+### 健康建議
+
+1. **器官肉的攝取建議**  
+   - 每周可適量攝取1-2次器官肉，以補充關鍵營養素。
+   - 選擇來源可靠的農產品，並注意烹調方式以避免營養損失。
+
+2. **整體飲食結構的調整**  
+   - 增加蔬菜和水果的攝取量，確保每日膳食纤维攝取充足。
+   - 減少加工食品和高糖高鹽食物的攝入，優先選擇天然、未經過度加工的食物。
+
+3. **旅遊與健康的平衡**  
+   - 在旅行中保持良好的飲食習慣，避免過度依賴外食。
+   - 探索當地美食時，注意食品安全，並適量嘗試新食物。
+
+---
+
+### 結語
+
+本次訪談紀錄提供了多個角度的價值觀，從健康飲食到旅遊文化，展現了飲食對人類生活的深刻影響。器官肉的介紹不僅凸顯其營養價值，也呼籲消費者重新評估現代飲食結構的合理性。此外，旅行經驗則啟發我們以更開放的態度面對不同文化的飲食智慧。展望未來，如何將這些理念融入日常生活，並進一步推動健康飲食和文化交流，值得我々深入思考與實踐。
 </details>
 
 <details>
-<summary>1719. 10 Things That Increase Bile Salts</summary><br>
+<summary>1719. [2018-09-11] 10 Things That Increase Bile Salts</summary><br>
 
 <a href="https://www.youtube.com/watch?v=h64_7DYf5_0" target="_blank">
     <img src="https://img.youtube.com/vi/h64_7DYf5_0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 胆汁在消化系統中的重要性及其對脂肪代謝、腸道健康和微生物平衡的作用。
+
+#### 主要觀念
+1. **膽汁的功能**：
+   - 濕潤腸道，促進脂肪 digestion。
+   - 協助吸收脂溶性維生素（如 Vitamin A、D、E、K）和必需脂肪酸。
+   - 具有抗菌作用，平衡腸道微生物。
+
+2. **無膽囊的情況**：
+   - 膽汁未被濃縮，影響脂肪消化和吸 收。
+   - 需要通过食物來刺激肝臟 bile 生產以補充。
+
+#### 問題原因
+- 無膽囊或膽囊功能受損導致 bile 浓度不足。
+- 不良飲食習慣影響腸道微生物群，降低 bile 復用效率。
+
+#### 解決方法
+1. **食物建議**：
+   - **甜菜葉**：富含鉀，可蒸煮或生食，促進肝臟健康。
+   - **薑**：刺激 bile 分泌。
+   - **洋蔥**： majorly 增加 bile 生產。
+   - **萊mons 或 Lime**：可能有助於 bile 分泌。
+   - **蒲公英葉**：具有利尿和促進肝臟健康的作用。
+   - **奶蓟草**：支持肝臟功能。
+   - **膽鹼**：對脂肪肝有益。
+   - **蕃紅花**：可能有助於 bile 分泌。
+   - **純化 bile 鹵汁**：作為補充劑，幫助恢復 bile 水平。
+
+2. **生活方式建議**：
+   - 定期飲食，刺激 bile 分泌。
+   - 確保均衡飲食，攝取足夠的膳食纖維和健康脂肪。
+
+#### 健康建議
+- 適當攝取上述食物以增強肝臟 bile 生產。
+- 考慮使用補充劑，如純化 bile 鹵汁，以彌補不足。
+- 注意腸道微生物群的平衡，促進 bile 的自然循環。
+
+#### 研究方向或問題
+- 探索不同食物成分對 bile 生產和腸道健康的長期影響。
+- 評估膽鹼和其他營養補充劑在改善脂肪代謝方面的效果。
+- 研究intestinal microbiota如何影響 bile 的再利用和整體消化功能。
 </details>
 
 <details>
-<summary>1718. Lemon Cream and Blackberry Fat Bomb Recipe – Dr.Berg</summary><br>
+<summary>1718. [2018-09-10] Lemon Cream and Blackberry Fat Bomb Recipe – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=cmAzDBftr4w" target="_blank">
     <img src="https://img.youtube.com/vi/cmAzDBftr4w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- ** recipe development and presentation**: This article discusses the creation and presentation of a new recipe, specifically a raspberry cream cheese fat bomb.
 
+### 主要觀念
+1. **Recipe Introduction**:
+   - The recipe is part of a series focused on "fat bombs," which are likely low-carbohydrate, high-fat snacks.
+   - The specific recipe introduced is the "raspberry cream cheese fat bomb."
+
+2. **Recipe Characteristics**:
+   - The fat bomb has two layers: raspberry and lemon cream.
+   - It combines raspberries with cream cheese for a creamy texture.
+
+3. **Texture Considerations**:
+   - The ideal texture for these fat bombs is slightly thawed but not rock-hard.
+   - Over-softening can lead to a mushy consistency, which may affect the overall quality of the snack.
+
+### 問題原因
+- **Texture Challenges**: 
+  - Freezing and thawing can result in inconsistent textures, particularly if the fat bombs become too soft or mushy.
+
+### 解決方法
+1. **Optimal Serving Temperature**:
+   - Suggest storing the fat bombs in the fridge to achieve a slightly thawed texture.
+   - Avoid over-thawing to prevent a mushy consistency.
+
+2. **Consistency Tips**:
+   - Ensure proper freezing techniques to maintain shape and texture when thawed.
+
+### 健康建議
+- **Nutritional Considerations**:
+  - The combination of raspberries and lemon cream provides a flavor similar to electrolyte powder, suggesting a balance between taste and potential health benefits.
+  - Fat bombs are typically high in healthy fats and low in carbohydrates, making them suitable for certain dietary lifestyles.
+
+### 結論
+- **Recipe Success**: 
+  - The raspberry cream cheese fat bomb is described as delicious and well-received.
+  - Proper preparation and storage can enhance the overall quality and texture of the snack.
+
+- **Future Considerations**:
+  - Encourages trying similar recipes within the fat bomb series, indicating potential for further experimentation with flavors and textures.
 </details>
 
 <details>
-<summary>1717. What is Nattokinase? – Dr. Berg</summary><br>
+<summary>1717. [2018-09-10] What is Nattokinase? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=cpWTGR2sYtc" target="_blank">
     <img src="https://img.youtube.com/vi/cpWTGR2sYtc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 探讨一种名为NATO Kinase的潜在疗法。
+- 介绍即将举办的Keto Health Summit，并强调其与传统健康会议的不同之处。
 
+### 主要觀念
+1. **NATO Kinase的作用机制**：
+   - 是一种从发酵大豆中提取的高度浓缩酶。
+   - 具有强大的溶栓作用，能溶解血液中的纤维蛋白。
+   - 可减少动脉中的血块和斑块积累，改善血液循环。
+   - 降低心脏病风险和血压。
+   - 能有效溶解黏液，对治疗鼻窦感染、肺部黏液和其他呼吸系统疾病有益。
+
+2. **輔助產品的作用**：
+   - Pycnogenol作为一种辅助产品，具有抗炎作用，可作为天然阿司匹林。
+   - 两者结合使用能形成一个全面的健康方案，且副作用极少。
+
+3. **Keto Health Summit的特点**：
+   - 会议内容精炼，专注于最具影响力的三个策略。
+   - 强调与传统健康会议的不同，避免信息过载。
+
+### 問題原因
+- 其他健康會議通常提供大量信息，導致參加者感到不知所措，难以消化和應用所獲得的知識。
+
+### 解決方法
+1. **NATO Kinase**：
+   - 确保选择非转基因产品。
+   - 通过溶解纤维蛋白来改善血液循环和降低心血管疾病风险。
+
+2. **會議策略**：
+   - 会议内容精炼，专注于三个关键策略：記憶增強、壓力管理、代謝控制。
+
+### 健康建議
+- 使用NATO Kinase与Pycnogenol结合，以最大化其溶栓和抗炎效果。
+- 参加Keto Health Summit，获取专业的健康知识和实用策略。
+
+### 結論
+- NATO Kinase作为一种有潜力的天然疗法，值得进一步研究和应用。
+- Keto Health Summit提供了一個高效的學習平台，幫助參加者掌握關鍵的健康策略，改善整體健康狀況。
 </details>
 
 <details>
