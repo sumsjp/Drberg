@@ -494,25 +494,97 @@
 </details>
 
 <details>
-<summary>1455. Benefits of Boron, One of the Most Deficient Trace Minerals – Dr. Berg</summary><br>
+<summary>1455. [2018-04-16] Benefits of Boron, One of the Most Deficient Trace Minerals – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xEjxkQNYwYo" target="_blank">
     <img src="https://img.youtube.com/vi/xEjxkQNYwYo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小結結構
 
+#### 核心主題
+- **硼（Boron）**作为一种重要的微量元素，在人体健康中发挥着关键作用。
+- 土壤中的微量元素不足导致食物中硼含量低下，进而引发人体硼缺乏的问题。
+
+#### 主要觀念
+1. 硒的多重生理功能：
+   - 促进骨骼健康。
+   - 支持肌肉和骨骼中的钙、鎂比例，缓解肌肉痉挛和紧绷。
+   - 减轻炎症性疾病的症状（如关节炎、肌腱炎等）。
+   - 调节激素水平（包括 testosterone 和 estrogen），对女性更年期症状有帮助。
+   - 具有抗癌作用，预防骨质疏松症和甲状腺功能亢进。
+
+2. 土壤与食物中的硼含量问题：
+   - 硫在土壤中常被忽视，导致农作物吸收不足。
+   - 农业实践中，农民通常不完全将矿物质补充回土壤，造成土地养分失衡。
+   - 食物中硼的主要来源为坚果类（如杏仁、榛子、巴西坚果和核桃），但其生物可利用度受限。
+
+#### 問題原因
+- 土壤退化导致食物中微量元素含量不足。
+- 坚果中的抗营养因子（如 phytic acid）阻碍硼的吸收。
+
+#### 解決方法
+1. 硫补充：
+   - 通过均衡饮食摄入富含硼的食物，尤其是经过处理以提高硼生物可利用度的坚果。
+   - 考虑使用含有多种微量元素的补充剂，确保矿物质间的协同作用。
+
+2. 土壤管理：
+   - 推广可持续农业实践，定期检测并补充土壤中的微量元素。
+   - 恢复土地肥力，确保农作物获得全面的营养供应。
+
+#### 健康建議
+- 建議消費者選擇經過加工（如烘烤或發芽）以提高硼吸收率的堅果類食品。
+- 在使用硼補充劑時，優先選用含有全套微量元素的產品，避免長期單一礦物質攝取可能引起的不平衡問題。
+
+#### 結論
+- 硫作為一種被低估的微量元素，在維護人體健康方面具有重要意義。
+- 土壤退化和不良農業實踐是導致硼缺乏的主要原因。
+- 解決硼缺乏問題需要從源頭（土壤管理）入手，並輔以合理的飲食結構調整和補充劑使用。
 </details>
 
 <details>
-<summary>1454. Enhance Cognitive Function on Healthy Ketosis – Dr. Berg</summary><br>
+<summary>1454. [2018-04-15] Enhance Cognitive Function on Healthy Ketosis – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=qPPIGSNcHT0" target="_blank">
     <img src="https://img.youtube.com/vi/qPPIGSNcHT0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### The Cognitive and Mood Effects of Keto and Intermittent Fasting
 
+#### Core Theme: 
+The impact of keto diet and intermittent fasting on cognitive function and mood, with a focus on blood sugar regulation and neurotransmitter activity.
+
+#### Major Concepts:
+1. **Keto Diet and Epilepsy**: Extensive studies have shown that the keto diet can improve epilepsy.
+2. **Lack of Standardized Keto Studies**: Limited research due to funding constraints from drug and food companies.
+3. **Blood Sugar Levels and Brain Health**:
+   - High blood sugar (diabetes) leads to brain atrophy, memory loss, and cognitive decline.
+   - Low blood sugar (hypoglycemia) causes irritability, anxiety, sadness, and depression.
+4. **Brain's Dependence on Blood Sugar**: The brain lacks its own glycogen reserve, making it vulnerable to fluctuations in blood sugar levels.
+
+#### Causes of Cognitive and Mood Disorders:
+1. **Insulin Resistance**:
+   - Impedes the absorption of amino acids needed for neurotransmitter production (e.g., serotonin, dopamine, GABA).
+2. **Neurotransmitter Deficiency**:
+   - Low levels of serotonin, dopamine, or GABA negatively impact mood and cognitive function.
+3. **Amyloid Plaques in Dementia**:
+   - Accumulation of amyloid plaques contributes to dementia.
+
+#### Solutions:
+1. **Healthy Keto Diet**: Emphasizes the use of healthy fats (e.g., avocados, nuts) rather than unhealthy oils.
+2. **Intermittent Fasting**:
+   - Improves insulin sensitivity.
+   - Promotes neuron regrowth and reduces amyloid plaques in the brain.
+
+#### Health Recommendations:
+1. **Personalized Research**: Conduct self-experiments to observe the effects of healthy keto and intermittent fasting on individual cognitive function and mood.
+2. **Blood Sugar Management**: Address hypoglycemia or insulin resistance through dietary changes.
+3. **Neurotransmitter Support**: Ensure adequate intake of amino acids necessary for neurotransmitter production.
+
+#### Conclusion:
+While formal studies are lacking, evidence suggests that a healthy keto diet combined with intermittent fasting can significantly enhance cognitive function and improve mood by stabilizing blood sugar levels and supporting neurotransmitter activity.
 </details>
 
 <details>
@@ -527,91 +599,445 @@
 </details>
 
 <details>
-<summary>1452. Choline: One of The Best Vitamins for Fatty Liver – Dr. Berg</summary><br>
+<summary>1452. [2018-04-14] Choline: One of The Best Vitamins for Fatty Liver – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=cKLmorBIOVE" target="_blank">
     <img src="https://img.youtube.com/vi/cKLmorBIOVE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **Keto Rash与Fatty Liver**  
+  探讨酮饮食和间歇性禁食可能引起的皮肤反应（Keto Rash）及其与脂肪肝的关系。
 
+---
+
+### 主要觀念
+1. **Keto Rash的成因**：
+   - 膳食中B族维生素不足。
+   - 间歇性禁食期间，身体进行细胞更新和排毒过程（Autophagy），可能引发皮肤反应。
+   
+2. **脂肪肝与代谢功能受限**：
+   - 脂肪肝限制了肝脏的正常功能，影响身体对酮饮食的适应。
+
+3. **Choline的作用**：
+   - Choline是维持肝脏健康的重要营养素，有助于防止和逆转脂肪肝。
+   - Choline协同胆盐促进脂肪消化，改善脂质代谢。
+
+4. **Choline的来源与吸收**：
+   - 主要来源于蛋黄、牛肉肝等食物。
+   - 肠道菌群状态影响Choline的吸收效率。
+
+---
+
+### 問題原因
+1. **B族维生素缺乏**：
+   - 酮饮食中B族维生素摄入不足，导致皮肤敏感和代谢异常。
+   
+2. **脂肪吸收障碍**：
+   - Choline和胆盐不足引发脂肪消化问题，进而影响肝脏功能。
+
+3. **肠道菌群失衡**：
+   - 抗生素使用或便秘等肠道问题干扰Choline的吸收。
+
+---
+
+### 解決方法
+1. **补充B族维生素**：
+   - 确保摄入足够的Choline和其他B族维生素。
+   
+2. **改善脂肪消化**：
+   - 增加蛋黄和牛肉肝的摄入，促进胆盐分泌。
+   
+3. **优化肠道菌群**：
+   - 摄入发酵食品（如酸奶、泡菜）以增强肠道有益菌群。
+
+4. **适量补充Choline**：
+   - 考虑通过膳食或营养补充剂获取适当的Choline剂量。
+
+---
+
+### 健康建議
+1. **饮食调整**：
+   - 在酮饮食中加入富含Choline的食物（如蛋黄、牛肉肝）。
+   
+2. **肠道健康管理**：
+   - 避免不必要的抗生素使用，保持规律的排便习惯。
+   
+3. **营养补充**：
+   - 如存在吸收障碍或摄入不足，可考虑适量补充Choline。
+
+4. **监测身体反应**：
+   - 在进行酮饮食和间歇性禁食时，注意观察皮肤变化及代谢状况。
+
+---
+
+### 結論
+- 酮饮食和间歇性禁食可能导致Keto Rash和脂肪肝问题。
+- Choline是改善肝脏健康、促进脂质代谢的关键营养素。
+- 通过调整饮食结构、优化肠道菌群和适当补充营养，可以有效预防和缓解相关症状。
 </details>
 
 <details>
-<summary>1451. EMFs (Electromagnetic Fields): Cell Phone Radiation Effects on Human Body – Dr. Berg</summary><br>
+<summary>1451. [2018-04-13] EMFs (Electromagnetic Fields): Cell Phone Radiation Effects on Human Body – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HfYbcxvYDYM" target="_blank">
     <img src="https://img.youtube.com/vi/HfYbcxvYDYM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- **電磁場（EMF）的危害**：文章主要探討了電磁場對人體健康的潛在影響，特別是長時間暴露於這些場所可能引起的健康問題。  
 
+### 主要觀念  
+- **EMF的來源**：文中提到現代生活中常见的電子產品和無線設備（如智能手機、Wi-Fi路由器、藍牙、微波爐等）會產生電磁場。  
+- **敏感性差異**：不同人對EMF的敏感度不同，某些人可能更容易受到影響。  
+- **潛在健康風險**：長時間接觸高強度的EMF可能增加患腦瘤（glioma）的风险，並影響睡眠和能量水平。  
+
+### 問題原因  
+- **科學研究的局限性**：文中指出，過去關於某些有害物質（如石棉、bestos和香煙）的研究曾聲稱其安全，但後來被證明存在風險。類似地，EMF的安全性也可能被低估。  
+- **近距離暴露**：將智能手機靠近頭部使用會增加接收到的電磁場強度，從而提高健康風險。  
+
+### 解決方法  
+- **使用空氣管耳機**：避免通過線材直接將電磁能傳導至頭部，選擇無線或含有空氣管設計的耳機。  
+- **測量和降低EMF**：利用感應器測量周圍環境中的電磁場強度，並採取措施減少暴露。  
+
+### 健康建議  
+- **遠距離使用手機**：尽量避免將智能手機靠近頭部，可以使用揚聲模式或配備空氣管耳機進行通話。  
+- **改善生活環境**：在家中和辦公室中安裝EMF測試設備，查找並减少可能的電磁污染源。  
+
+### 結論  
+- **提高意識的重要性**：文章強調了了解電磁場危害的必要性，以避免潛在的健康問題。  
+- **採取主動措施**：通過改進使用習慣和採用科技手段來降低EMF暴露的风险。
 </details>
 
 <details>
-<summary>1450. The 5th Body Type – Dr. Berg</summary><br>
+<summary>1450. [2018-04-12] The 5th Body Type – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=yhf1JAqdeXI" target="_blank">
     <img src="https://img.youtube.com/vi/yhf1JAqdeXI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 探讨人体五大体型类型及其背后的激素失衡原因。
+- 强调通过分析症状和触发因素来确定主要体型类型，并采取相应的解决方法。
+
+#### 主要觀念
+1. **五大体型类型**：
+   - **腺体型（Adrenal）**：由高皮质醇水平引起，表现为全身性体重增加，尤其是腹部下垂。
+   - **甲状腺型（Thyroid）**：由低甲状腺激素（T4/T3）导致，全身性肥胖。
+   - **卵巢型（Ovary）**：与高水平雌激素有关，表现为下半身脂肪堆积（ pear shape）。
+   - **肝脏型（Liver）**：由脂肪肝或肝损伤引起，腹部突出（ basketball belly）。
+   - **胰腺型（Pancreas）**：与高胰岛素水平和胰岛素抵抗相关。
+
+2. **体型类型的主要触发因素**：
+   - 身体形状可能由多种因素导致，如压力、饮食习惯、环境激素、酒精摄入、病毒感染或药物使用等。
+   - 同一身体形状可能是不同原因引起的，例如腺体型可能由压力或高糖饮食引发。
+
+3. **激素失衡与体型的关系**：
+   - 皮质醇、雌激素和胰岛素是主要的脂肪生成激素，抑制脂肪燃烧激素如甲状腺激素（T4/T3）和生长激素。
+   - 胰岛素是最具影响力的激素，可能导致其他腺体功能异常。
+
+#### 問題原因
+1. **腺体型**：
+   - 高皮质醇水平：长期压力、创伤或手术等导致的应激反应。
+   - 饮食因素：高糖和精制碳水化合物摄入过多。
+
+2. **甲状腺型**：
+   - 低甲状腺激素：可能由雌激素过高或肝损伤引起，阻碍T4向T3转换。
+
+3. **卵巢型**：
+   - 环境雌激素：来自农药、除草剂、杀虫剂、 GMO食品或避孕药等。
+   
+4. **肝脏型**：
+   - 脂肪肝：可能由病毒感染（如乙型肝炎）、酒精滥用或非酒精性脂肪肝病引起。
+
+5. **胰腺型**：
+   - 高胰岛素水平：与饮食中糖分和精制碳水摄入过多有关，导致胰岛素抵抗。
+
+#### 解決方法
+1. **腺体型**：
+   - 管理压力：通过冥想、运动等方式。
+   - 调整饮食：减少高糖和精制碳水化合物的摄入，增加健康脂肪和蛋白质。
+
+2. **甲状腺型**：
+   - 优化肝脏功能：增加十字花科蔬菜（如西兰花、羽衣甘蓝）以支持解毒功能。
+   - 管理雌激素水平：减少环境雌激素暴露，考虑使用天然排毒产品。
+
+3. **卵巢型**：
+   - 减少环境激素接触：选择无农药和 GMO的食品，避免使用塑料容器。
+   - 考虑医疗干预：如有必要，咨询医生调整避孕药或其他激素类药物。
+
+4. **肝脏型**：
+   - 治疗脂肪肝或肝损伤：减少酒精摄入，改善饮食习惯，必要时接受抗病毒治疗。
+   - 增加抗氧化剂摄入：如维生素C和E，支持肝脏健康。
+
+5. **胰腺型**：
+   - 控制血糖：通过低GI饮食、增加纤维摄入和定期运动。
+   - 逆转胰岛素抵抗：咨询医生进行药物治疗或生活方式干预。
+
+#### 健康建議
+1. **饮食建议**：
+   - 减少高糖和精制碳水化合物的摄入，选择全谷物、健康脂肪和优质蛋白质。
+   - 多摄入富含纤维的食物，帮助控制血糖和胰岛素水平。
+
+2. **生活方式调整**：
+   - 管理压力：通过运动、冥想等方式减轻心理压力。
+   - 定期锻炼：每周至少150分钟中等强度有氧运动，增强代谢功能。
+
+3. **环境因素**：
+   - 减少暴露于环境激素：选择无农药和非GMO食品，避免使用塑料容器盛放食物。
+
+4. **医疗咨询**：
+   - 如怀疑由感染或药物引起的体型问题，及时咨询医生进行诊断和治疗。
+
+#### 結論
+- 人体体型受多种因素影响，包括激素失衡、饮食习惯和环境因素。
+- 确定具体原因后，可通过饮食调整、生活方式改变和医疗干预来改善体型和健康状况。
+- 预防和管理体型问题需要综合考虑多方面因素，并根据个人情况制定个性化方案。
 </details>
 
 <details>
-<summary>1449. Benefits of Sunlight: Reduce Stress & Lose Belly Fat – Dr. Berg</summary><br>
+<summary>1449. [2018-04-12] Benefits of Sunlight: Reduce Stress & Lose Belly Fat – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=n42UHnAzDY4" target="_blank">
     <img src="https://img.youtube.com/vi/n42UHnAzDY4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 探讨维生素D在降低压力和促进体重管理中的作用。
 
+---
+
+### 主要觀念  
+1. **维生素D的重要性**：  
+   - 维生素D有助于降低皮质醇（cortisol）水平，最多可达40%。  
+   - 它还能够改善胰岛素抵抗，从而提高对胰岛素的敏感性。  
+
+2. **皮质醇与体重管理的关系**：  
+   - 皮质醇是一种应激激素，其水平升高可能导致腹部脂肪堆积，尤其是在一天中随着压力增加而显现。  
+
+3. **维生素D的来源**：  
+   - 天然来源包括阳光照射、富含脂肪的鱼类（如沙丁鱼、鲑鱼）、蘑菇、蛋黄、草饲乳制品和鳕鱼肝油等。  
+
+---
+
+### 問題原因  
+- 现代生活方式可能导致维生素D摄入不足，进而引发皮质醇水平升高和胰岛素抵抗，导致腹部肥胖和其他代谢问题。
+
+---
+
+### 解決方法  
+1. **增加维生素D的摄入**：  
+   - 通过适当晒太阳、饮食调整或补充剂来提高维生素D水平。  
+
+2. **结合其他健康习惯**：  
+   - 如低碳水化合物饮食（如生酮饮食）和间歇性禁食，这些方法可以进一步降低皮质醇和胰岛素水平，促进体重管理。  
+
+---
+
+### 健康建議  
+1. **补充维生素D**：  
+   - 确保每天获得足够的维生素D，可以通过阳光、食物或补充剂实现。  
+
+2. **管理压力**：  
+   - 通过降低皮质醇水平来减少腹部脂肪堆积，建议结合健康饮食和适度运动。  
+
+3. **关注胰岛素抵抗**：  
+   - 维生素D的改善可以提高对胰岛素的敏感性，有助于长期体重管理和代谢健康。  
+
+---
+
+### 結論  
+维生素D不仅是骨骼健康的必需营养素，还对降低皮质醇、改善胰岛素抵抗和促进体重管理具有重要作用。通过合理补充维生素D并结合其他健康生活方式，可以有效降低压力、改善代谢健康，并实现更高效的体重管理。
 </details>
 
 <details>
-<summary>1448. Side Effects of Apple Cider Vinegar (ACV) and Kombucha Tea – Dr. Berg</summary><br>
+<summary>1448. [2018-04-11] Side Effects of Apple Cider Vinegar (ACV) and Kombucha Tea – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3lbA-UL7Sqo" target="_blank">
     <img src="https://img.youtube.com/vi/3lbA-UL7Sqo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題
+- 探讨过量摄入苹果醋和 kombucha 茶可能引起的副作用。
+
+#### 主要觀念
+1. **酸性飲料的雙面性**：
+   - 苹果醋和 kombucha 茶因其富含益生菌和酸性成分，被譽為對消化系統有益。
+   - 然而，過量攝取這些酸性飲料可能引發健康問題。
+
+2. **副作用機制**：
+   - 酸化作用（acidosis）：攝入过多酸性物質導致血液酸度上升。
+   - 胃腸道刺激：高酸性可能加重胃潰瘧或胃炎。
+
+#### 問題原因
+- 過量攝取酸性飲料，特別是晚上攝取大量 kombucha 茶，可引發心率增加、睡眠障礙及呼吸困難。
+- 長期過量攝取可能導致慢性酸化症，影響身體健康。
+
+#### 解決方法
+1. **急性症狀處理**：
+   - 服用鹼性礦物質（如鈣、鎂、钾）或小蘇打以中和酸度。
+   - 減少夜間攝取量，建議晚上僅攝取半瓶 kombucha 茶。
+
+2. **慢性問題的管理**：
+   - 適當控制攝取量：每天不超過 2茶匙苹果醋，使用吸管以防牙齒受損。
+   - 若出現胃灼熱或不適，需暫停攝取並尋求治療。
+
+#### 健康建議
+1. **飲食調整**：
+   - 遊喝酸性飲料時，搭配富含維生素C的食物以促進吸收。
+   - 使用吸管避免接觸牙齒，防止 enamel 素質受損。
+
+2. **胃腸道健康**：
+   - 若有胃潰瘧或胃炎症状，建議先用捲心菜汁或 Sauerkraut 製品修復胃黏膜。
+   - 減少酸性攝取直至恢復健康再逐步恢復飲食。
+
+#### 結論
+- 酸性飲料雖有益，但需謹慎控制攝取量和時間，特別是個體存在胃腸道問題時，建議先修復后再開始攝取。
+
+
+### 整體摘要
+本文探討了過量攝取苹果醋和 kombucha 茶可能引發的副作用，強調酸性飲料的雙刃劍效應，並提供針對急性症狀和慢性問題的解決策略及健康建議，特別是針對胃腸道敏感人群。
 </details>
 
 <details>
-<summary>1447. The Main Causes of High Liver Enzymes & Non-Alcoholic Fatty Liver Disease – Dr. Berg</summary><br>
+<summary>1447. [2018-04-10] The Main Causes of High Liver Enzymes & Non-Alcoholic Fatty Liver Disease – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Fi0YjY8HmYY" target="_blank">
     <img src="https://img.youtube.com/vi/Fi0YjY8HmYY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 1. 核心主題
+- 高肝酶血症的原因及其健康影響。
+
+#### 2. 主要觀念
+- 肝臟功能異常可導致ALT、AST及ALP等肝酶升高。
+- 腫瘤、膽道阻塞和脂肪肝是高肝酶血症的主要原因。
+
+#### 3. 問題原因
+1. **非酒精性脂肪肝病 (NAFLD)**
+   - 由胰岛素抵抗引發，脂肪在肝臟積累，導致炎症及纖維化。
+   - 可能進展為糖尿病。
+2. **酒精性脂肪肝**
+   - 酒精濫用者中90-100%患有脂肪肝。
+   - 長期影響包括肝功能受損。
+3. **藥物與感染**
+   - 調血脂藥、類固醇、對乙酰氨基酚及抗生素等可能損害肝臟。
+   - 病毒（如EB病毒、巨細胞病毒）和寄生蟲可引起肝炎。
+4. **肝硬化 ( Cirrhosis )**
+   - 由長期炎症或損傷導致肝臟瘢痕化，影響肝功能。
+
+#### 4. 解決方法
+- **治療與干預**：
+  - 避免過度飲酒。
+  - 調整藥物使用，避免對肝臟有害的藥物。
+  - 治療潛在感染或炎症。
+
+#### 5. 健康建議
+1. **飲食調整**：
+   - 采用酮症飲食法（如低碳水化合物飲食）以降低肝酶水平。
+2. **生活方式 modification**：
+   - 減少酒精攝取，避免損害肝臟功能。
+3. **健康管理**：
+   - 定期檢查肝功能指標。
+
+#### 6. 結論
+- 高肝酶血症的病因多樣，需針對不同原因進行治療和干預。
+- 生活方式的調整（如飲食控制、限制酒精攝取）能有效降低肝酶水平，改善肝臟健康。
 </details>
 
 <details>
-<summary>1446. What is Epstein Barr Virus (EBV)? - Symptoms & Treatment – Dr. Berg</summary><br>
+<summary>1446. [2018-04-10] What is Epstein Barr Virus (EBV)? - Symptoms & Treatment – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3KaCzadDRuA" target="_blank">
     <img src="https://img.youtube.com/vi/3KaCzadDRuA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理與分析
 
+#### 核心主題
+- **Epstein-Barr病毒 (EBV) 的感染及其潛在影響**
+- **慢性疲勞症候群及其他自體免疫疾病的病因**
+
+#### 主要觀念
+1. **EBV的普遍性**
+   - 約90%成人曾感染Epstein-Barr病毒。
+2. **病毒感染特性**
+   - 病毒為非生命形式，由遗传物質包裹於囊膜中。
+   - 感染初期可導致症狀如發燒、疲勞、喉嚨發炎等。
+3. **EBV的潛伏性（Latency）**
+   - 病毒可在機體內 dormant，待免疫系統降低時重新活化。
+4. **與多種疾病的關聯**
+   - 慢性疲勞症候群、纤维肌痛、類風濕性關節炎等。
+
+#### 問題原因
+1. **EBV的再激活**
+   - 营養缺乏、壓力等因素可觸發病毒重新活化。
+2. **壓力的作用**
+   - 生活中的重大壓力事件（如喪失、分離）常導致 autoimmune 疾病的發生。
+
+#### 解決方法與健康建議
+1. **支持免疫系統**
+   - 提供足夠的睡眠、規律運動以降低壓力。
+2. **營養補充**
+   - **硒**：抗氧化劑，抑制病毒活性。
+   - **鎂**：促進免疫功能及神經傳導。
+   - **硼（Boron）**：微量礦物質，幫助控制病毒感染。
+3. **使用抗病毒產品**
+   - **Monolaurin**（由椰子油製成），具有良好的抗病毒效果。
+4. **環境調整**
+   - 移除壓力來源，改善生活環境以降低壓力水平。
+
+#### 結論
+- EBV的潛伏性與再激活是導致多種 autoimmune 疾病的重要機制。
+- 通過支持免疫系統、營養補充及壓力管理，可以有效抑制病毒活化並緩解症狀。
 </details>
 
 <details>
-<summary>1445. Will The Paleo Diet Plan Put Me Into Ketosis? – Dr. Berg</summary><br>
+<summary>1445. [2018-04-09] Will The Paleo Diet Plan Put Me Into Ketosis? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ZImAHP4Iun4" target="_blank">
     <img src="https://img.youtube.com/vi/ZImAHP4Iun4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 膳食飲⻝計劃對酮症的作用：Paleo diet vs. ketogenic diet.
 
+### 主要觀念  
+1. Paleo饮食包含30%的碳水化合物，高于酮ogenic diet的5%。  
+2. Paleo饮食允许适量摄入水果、红薯、山药和蜂蜜等高碳水化合物食物。  
+3. Paleo饮食中的蛋白质含量较高（30%-38%），而酮ogenic diet中蛋白质占比约为20%。  
+
+### 問題原因  
+- 由于Paleo饮食的碳水化合物和蛋白质含量较高，普通人在遵循该饮食计划时可能会遇到以下问题：  
+  1. 较高的蛋白质摄入可能导致胰岛素水平升高，从而影响进入酮症状态。  
+  2. 平均代谢率较慢或存在胰岛素抵抗的人群更难达到酮症状态。  
+
+### 解決方法  
+- 若Paleo饮食未能使个体进入酮症：  
+  1. 减少碳水化合物和蛋白质的摄入量以降低胰岛素水平。  
+  2. 增加剧烈运动，消耗更多碳水化合物，从而可能提高酮体水平。  
+
+### 健康建議  
+- 对于大多数普通人而言，Paleo饮食可能不足以达到酮症状态，尤其是存在代谢缓慢或胰岛素抵抗的情况。  
+- 若希望进入酮症，建议结合低碳水化合物、低蛋白质的酮ogenic diet，并配合高强度运动。  
+
+### 結論  
+1. Paleo饮食的设计初衷并非用于实现酮症，因此其效果有限。  
+2. 对于希望达到酮症状态的人群，可能需要调整饮食结构或增加运动量以增强酮体生成。
 </details>
 
 <details>
@@ -818,73 +1244,49 @@
         alt="[Youtube]" width="200">
 </a>
 
-### Core Theme: The Role of Food in Fasting and Keto Diets
+# 文章整理：食欲低下的健康管理
 
-The article discusses the importance of food beyond just providing fuel, emphasizing its role in nutrient intake, especially for those following fasting or keto diets. It addresses the issue of low appetite and provides practical advice on maintaining nutritional balance without overeating.
+## 核心主題
+- 食欲低下在低碳飲食（如酮genesis diet）和短時間斷食中的影響。
+- 平衡能量來源與營養攝取的需求。
 
----
+## 主要觀念
+1. **食物的雙重功能**：
+   - 提供能量：主要來源為脂肪，身體適應後能有效燃燒脂肪。
+   - 確保營養吸收：特別是-electrolytes和其他必需營養素。
 
-#### Key Concepts:
+2. **食欲低下的影響**：
+   - 可能導致營養不足，影響健康（如血壓下降、昏厥等）。
+   - 長期不攝食可能造成新陳代謝紊亂。
 
-1. **Dual Purpose of Food**  
-   - **Fuel Provision**: Food serves as an energy source, particularly when the body is burning fat (as in fasting or keto).  
-   - **Nutrient Provision**: Essential nutrients, including electrolytes, are necessary for overall health and preventing deficiencies.
+3. **短時間斷食的適應性**：
+   - 胃容量因短期斷食而萎縮，降低食物需求。
+   - 身體逐步适应低食物攝取，但仍需注意營養均衡。
 
-2. **Low Appetite in Fasting/Keto Diets**  
-   - Many individuals experience a lack of hunger during these regimens due to the body's adaptation to fat burning.  
-   - This can lead to prolonged periods without eating, potentially causing nutrient deficiencies.
+## 問題原因
+- 食欲下降可能導致食物攝取不足，影響必需營養素的吸收。
+- 長期不攝食可能引發健康問題，如血壓下降、昏厥等。
 
-3. **Nutritional Deficiencies Risk**  
-   - Extended fasting or low food intake can result in deficiencies, particularly in electrolytes, which may cause health issues like dizziness or blood pressure problems.
+## 解决方法
+1. **最低飲食建議**：
+   - 每日至少進食一次，確保基本營養需求。
+   - 根據目標（維持或減重），調整餐次數量。
 
----
+2. **進食策略**：
+   - 總量控制：不必攝取過多食物，可選擇小份但均衡的餐點。
+   - 適當時間間隔：若非為減重需求，可在一天中固定進食一次，確保營養攝取。
 
-#### Causes and Concerns:
+3. **飲食組合建議**：
+   - 以蔬菜為主，搭配少量蛋白質和脂肪。
+   - 確保足夠的微量營養素攝取。
 
-1. **Risk of Nutrient Deficiency**  
-   - Prolonged fasting without adequate nutrient intake can lead to deficiencies, especially in electrolytes like sodium, potassium, and magnesium.  
+## 健康建議
+- 定期監測身體狀況：注意是否出現低血糖或其他營養缺乏症狀。
+- 適當補充電解質：特別是在大量流汗或dehydration情況下。
+- 綴續追蹤健康數據：如體重、血壓等，確保身體機能正常。
 
-2. **Potential Health Issues**  
-   - Severe hunger or prolonged fasting can result in physical problems such as fainting, low blood pressure, or other complications.
-
----
-
-#### Solutions and Recommendations:
-
-1. **Minimum Daily Nutrient Intake**  
-   - Consume at least one meal daily to ensure adequate nutrient intake, even if appetite is low.  
-
-2. **Balanced Meal Composition**  
-   - Focus on meals rich in nutrients: a balanced mix of vegetables, protein, and healthy fats.  
-
-3. **Adaptation to Fasting**  
-   - The stomach may shrink during fasting, reducing the need for large meals or excessive calorie intake.  
-
-4. **Weight Maintenance Strategy**  
-   - For those aiming to maintain weight, two smaller meals per day are recommended to avoid overeating and ensure nutrient intake.
-
----
-
-#### Health Recommendations:
-
-1. **Mindful Eating**  
-   - Eat only when hungry to avoid unnecessary calorie consumption while ensuring minimum daily nutrient intake.  
-
-2. **Electrolyte Balance**  
-   - Monitor and maintain electrolyte levels, especially during prolonged fasting or low-carb diets.  
-
-3. **Gradual Adaptation**  
-   - Allow the body to adapt gradually to fasting or keto regimens to prevent shock or discomfort.
-
----
-
-#### Conclusion:
-
-The article emphasizes the importance of balancing fuel and nutrient intake during fasting or keto diets, particularly for those with low appetite. While fasting can be beneficial, it is crucial to ensure adequate nutrient consumption to avoid deficiencies and maintain overall health. The key takeaway is to listen to your body's signals but also prioritize nutritional needs.
-
-### Summary:
-
-The article highlights the dual role of food in providing both energy and nutrients, especially for individuals following fasting or keto diets. It addresses the challenge of low appetite and offers practical advice on maintaining nutrient intake without overeating. The main recommendations include consuming at least one meal daily, focusing on balanced nutrition, and being mindful of electrolyte levels to avoid deficiencies and potential health issues.
+## 結論
+食欲低下在低碳飲食和短期斷食中是常見現象，但需注意平衡能量來源與營養攝取。建議每日至少進食一次，並根據個人需求調整餐次數量，以避免營養不足和健康問題。身體會逐漸適應低食物攝取，但仍需重視營養均衡，確保健康狀況良好。
 </details>
 
 <details>
@@ -895,87 +1297,45 @@ The article highlights the dual role of food in providing both energy and nutrie
         alt="[Youtube]" width="200">
 </a>
 
-## 文章重點整理
+### 文章重點整理
 
-### 核心主題
-- **酮症（Ketosis）**：文章圍繞酮症的好處、適用人群以及其在人體中的自然角色展開討論。
-  
-### 主要觀念
-1. **酮症的自然性**：
-   - 酮症是人類基因中硬-coded 的功能，酮體是脂肪燃燒的副產品。
-   - 酮體是一種主要的能量來源，而非備用能量來源，與此相對的是糖分（葡萄糖）作為備用能量來源。
+#### 核心主題
+- **酮osis 的重要性**：酮osis 是人類基因 hardwired 的特性，作為主要燃料來源。
+- **糖類的角色**：糖類是替代燃料來源，而非主要燃料。
+- **身體適應性**：人體適應低糖、間歇性禁食的環境，而非現代高頻率進食模式。
 
-2. **人體能量來源的設計**：
-   - 母親自然並未設計人體主要以碳水化合物（糖分）為能量來源。
-   - 平均美國人的每日糖分攝取量高達30茶匙，遠超於健康的範圍。
+#### 主要觀念
+1. **酮osis 的自然屬性**：
+   - 酮體是脂肪燃燒的副產品，是主要燃料來源。
+   - 糖類（葡萄糖）為替代性燃料來源。
+2. **人體能量儲存**：
+   - 人體储存大量脂肪（約77,000卡路里），但only储存少量糖分（1700卡路里）。
+3. **現代飲食模式的問題**：
+   - 現代人頻繁進食，不斷消耗和補充糖分儲備。
 
-3. **儲能系統的不平衡**：
-   - 非肥胖者體內儲存了約77,000卡路里的脂肪能量，但僅有1,700卡路里的糖分儲存量（glycogen）。
-   - 這種儲能不平衡表明人體更適合以脂肪為主要能量來源。
+#### 問題原因
+- **過度依賴糖類**：人體主要設計為脂肪燃燒機制，而非 sugar-burning。
+- **能量 storage 的不平衡**：僅能短期储存糖分，長期依賴糖分導致健康問題。
 
-### 問題原因
-- **現代飲食習慣的影響**：
-  - 現代人頻繁進食，平均每小時半小時進食一次，導致持續消耗和補充糖分儲存量。
-  - 長期依賴碳水化合物作為主要能量來源，未能有效利用脂肪儲備。
+#### 解決方法
+1. **低碳飲食**：
+   - 通過低碳水化合物飲食進入酮osis狀態。
+2. **間歇性禁食**：
+   - 禁止進食以啟動酮osis，並利用儲存的脂肪能量。
+3. **健康狀況改善**：
+   - 酮osis 可改善多種健康問題，而依賴糖分則可能惡化健康。
 
-### 解決方法
-1. **低碳水化合物飲食**：
-   - 通過降低碳水化合物攝取量，使身體進入酮症狀態，開始燃燒脂肪為主的能量來源。
+#### 健康建議
+1. **飲食結構調整**：
+   - 增加脂肪攝取，降低碳水化合物攝量。
+2. **進食時間控制**：
+   - 遵循間歇性禁食模式，避免頻繁進食。
+3. **本書推薦**：
+   - 經詳細解說酮osis、體型分類及壓力管理的新版《新身體類型指南》。
 
-2. ** intermittent fasting（間歇性禁食）**：
-   - 禁食期間，人體將更多依賴脂肪儲備提供能量，進一步促進酮症的發生。
-
-### 健康建議
-- **健康酮症的實踐**：
-  - 適當進行低碳水化合物飲食和間歇性禁食，以有效利用身體的脂肪儲備。
-  - 確保酮症的實施是健康的，避免可能的副作用。
-
-### 結論
-- **酮症的重要性**：
-  - 酮症不僅是一種有效的能量來源，還具有多方面的治療效果。
-  - 運行以糖分為主要能源（glycolysis）會導致許多健康問題的惡化。
-
----
-
-## 英文摘要
-
-### Core Theme
-- **Ketosis**: The article discusses the benefits of ketosis, its suitability for certain individuals, and its natural role in human physiology.
-
-### Key Concepts
-1. **Natural Role of Ketosis**:
-   - Ketosis is a hard-coded function in human genetics, with ketones being byproducts of fat burning.
-   - Ketones serve as a primary energy source, unlike glucose (carbohydrates), which acts as an alternative energy source.
-
-2. **Human Energy Source Design**:
-   - The human body was not designed to primarily run on carbohydrates (sugars).
-   - The average American consumes about 30 teaspoons of sugar daily, far exceeding healthy limits.
-
-3. **Imbalance in Energy Storage**:
-   - Non-obese individuals store approximately 77,000 calories of fat but only 1,700 calories of carbohydrate glycogen.
-   - This imbalance suggests a natural preference for fat as the primary energy source.
-
-### Causes of Issues
-- **Impact of Modern Dietary Habits**:
-  - Modern eating patterns involve frequent meals every one and a half hours, leading to constant depletion and replenishment of sugar stores.
-  - Over-reliance on carbohydrates prevents effective utilization of fat reserves.
-
-### Solutions
-1. **Low-Carbohydrate Diet**:
-   - Reducing carbohydrate intake promotes ketosis, enabling the body to burn fats as the primary energy source.
-
-2. **Intermittent Fasting**:
-   - Fasting periods encourage the body to rely more on fat stores for energy, enhancing ketosis.
-
-### Health Recommendations
-- **Practical Ketosis**:
-  - Implement low-carbohydrate diets and intermittent fasting to effectively utilize fat reserves.
-  - Ensure that ketosis is practiced healthily to avoid potential side effects.
-
-### Conclusion
-- **Importance of Ketosis**:
-  - Ketosis is not only an effective energy source but also offers therapeutic benefits.
-  - Running the body primarily on sugars (glycolysis) can exacerbate numerous health issues.
+#### 結論
+- **自然的健康策略**：酮osis 和間歇性禁食是自然而有效的健康管理方式。
+- **現代飲食的危害**：依賴高糖飲食導致多種健康問題，需調整飲食習慣以改善整體健康。
 </details>
 
 <details>
@@ -997,42 +1357,41 @@ The article highlights the dual role of food in providing both energy and nutrie
         alt="[Youtube]" width="200">
 </a>
 
-### Summary in English
+### 小節歸納
 
----
+#### 核心主題
+- **膽石症的原因與預防**
+  
+#### 主要觀念
+1. 胆石症主要由膽汁中某些物質的缺乏或過度濃縮引起。
+2. 胆汁是由肝臟產生並儲存在膽囊中，並在進食時被釋放以 aid 消化。
 
-#### Core Theme  
-The article discusses the relationship between fasting, skipping meals, and the formation of gallstones. It explains the role of bile in digestion and how dietary choices can influence gallstone development.
+#### 問題原因
+- **膽石形成的原因**：
+  - 膽汁的高度濃縮。
+  - 飲食中缺乏能刺激膽汁分泌的成分（如飽和脂肪）。
+  - 經常攝取高碳水化合物、低蛋白質或低脂飲食，導致膽汁量不足。
 
----
+#### 解决方法
+1. **增加膽汁分泌**：
+   - 通過攝入足夠的飽和脂肪來刺激肝臟產生更多膽汁。
+2. **避免膽汁濃度過高**：
+   - 確保膽囊中的膽汁不會長時間高度濃縮，這可以通过定期進食來實現。
 
-#### Key Concepts  
-1. **Bile Function**: Bile is produced by the liver, stored in the gallbladder, and concentrated to aid digestion, particularly for breaking down fats.
-2. **Gallstone Formation**: Gallstones develop when bile becomes supersaturated with cholesterol or bilirubin, leading to crystallization.
-3. **Role of Fasting**: Intermittent fasting can increase bile concentration by allowing the gallbladder to store and concentrate bile without food intake.
+#### 健康建議
+1. **飲食調整**：
+   - 塊竭低脂 diet，改為均衡飲食，包含適量的飽和脂肪。
+2. **進食模式**：
+   - 避免經常性禁食或長期空腹，以防止膽汁過度濃縮。
+3. **生活方式**：
+   - 保持規律的進餐習慣，避免暴饮暴食。
 
----
+#### 結論
+- **低脂 diet 和不規則進食**（如酮飲或間歇性禁食）不會導致膽石症。事實上，增加脂肪攝取可以刺激膽汁分泌，降低膽石風險。
+- 要預防膽石症，關鍵在於保持膽汁的正常分泌和濃度，避免膽囊中膽汁長時間淤積。
 
-#### Causes of Gallstones  
-1. **Low Bile Secretion**: A lack of stimulation for bile production can lead to supersaturation and stone formation.
-2. **High Saturated Fat Intake**: Overconsumption of saturated fats triggers excess bile production, increasing the risk of gallstone formation.
-3. **Diabetes and High Carbohydrate Diets**: Poor diet quality and frequent meals deplete bile reserves, contributing to gallstones.
-
----
-
-#### Solutions and Health Recommendations  
-1. **Ketogenic Diet**: Increasing fat intake can stimulate bile production, reducing the risk of gallstones by ensuring regular bile flow.
-2. **Intermittent Fasting**: Allowing the body to concentrate bile during fasting periods can help prevent gallstone formation.
-3. **Balanced Diet**: Avoiding excessive carbohydrates and maintaining a diet rich in healthy fats is crucial for optimal bile function.
-
----
-
-#### Conclusion  
-The article concludes that intermittent fasting does not cause gallstones. In fact, it may reduce the risk by promoting bile concentration and secretion. However, individuals should be mindful of their overall diet to ensure proper bile function and minimize the risk of gallstone formation.
-
---- 
-
-This summary provides a clear and concise overview of the article's content using formal academic language while maintaining readability.
+#### 參考資料
+- 本文作者：未提供具體來源，但内容基於膽石症成因的基本科學知識。
 </details>
 
 <details>
