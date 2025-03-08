@@ -582,113 +582,501 @@
 </details>
 
 <details>
-<summary>1747. Interesting Facts About Vitamin D - Dr. Berg on the Benefits of Vitamin D</summary><br>
+<summary>1747. [2018-09-25] Interesting Facts About Vitamin D - Dr. Berg on the Benefits of Vitamin D</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Ub495mlpl5g" target="_blank">
     <img src="https://img.youtube.com/vi/Ub495mlpl5g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Key Points from the Article
 
+#### Core Themes:
+- **Vitamin D's Role in Mineral Absorption**: Vitamin D is crucial for the absorption of calcium and other minerals such as iron, magnesium, zinc, and phosphate.
+- **Immune System Regulation**: Vitamin D plays a significant role in controlling immune responses, particularly against viral infections and autoimmune diseases.
+- **Respiratory Health**: It helps manage asthma symptoms by influencing cortisol production, which has anti-inflammatory effects.
+- **Bone Health**: Adequate vitamin D intake is essential for strong bones; deficiency can lead to weakened bones, fractures, and skeletal deformities.
+
+#### Causes of Vitamin D Deficiency:
+- **Liver and Kidney Issues**: The activation of vitamin D relies on enzymes in the liver and kidneys. Damage to these organs impairs this process.
+- **Malabsorption Syndromes**: Conditions like fatty liver or kidney dialysis can hinder vitamin D absorption, potentially leading to toxicity if intake continues.
+
+#### Health Recommendations:
+1. **Sun Exposure**: Ensure adequate sun exposure for natural vitamin D synthesis.
+2. **Supplementation**:
+   - Take vitamin D3 with K2 to ensure calcium is properly deposited in bones rather than soft tissues.
+   - Monitor dosage to avoid hypercalcemia, which can cause symptoms like excessive urination, thirst, insomnia, and itching.
+3. **Bone and Joint Health**: Address chronic muscle and skeletal pain associated with vitamin D deficiency by correcting the underlying deficiency.
+4. **Immune Support**: Use vitamin D as a preventive measure against respiratory infections and autoimmune disorders.
+
+#### Conclusion:
+Vitamin D is a vital hormone precursor that supports mineral absorption, immune function, bone health, and respiratory well-being. Proper management of its intake, including adequate sunlight exposure and balanced supplementation with K2, ensures optimal health benefits while avoiding potential risks associated with excess calcium in soft tissues.
 </details>
 
 <details>
-<summary>1746. 7 Lessons I've Learned From Weight Loss Failures - Dr.Berg</summary><br>
+<summary>1746. [2018-09-25] 7 Lessons I've Learned From Weight Loss Failures - Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=usBkRM-V-2c" target="_blank">
     <img src="https://img.youtube.com/vi/usBkRM-V-2c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：健康生活方式的核心要素與實踐策略
 
+#### 一、核心主題
+- 健康生活的至高重要性。
+- 長期健康目標的實現需基於健康的基石。
+
+#### 二、主要觀念
+1. **健康優先於減肥**：
+   - 很多人過度焦點放在體重數字上，忽視了整體健康狀況的改善。
+2. **健康指標的重要性**：
+   - 能量水平、皮膚狀態、液體平衡等健康指標是衡量生活方式改變成效的重要依據。
+
+#### 三、問題原因
+1. **短期目標的誘惑**：
+   - 追求快速減重往往導致不持久和反彈現象。
+2. **忽視健康基石的建設**：
+   - 大眾易於忽略飲食結構調整、運動習慣養成等基礎工作，直接影響長期效果。
+
+#### 四、解決方法
+1. **建立健康的優先級**：
+   - 強調「健康第一」的理念，將健康指標作為首要目標。
+2. **制定可持續的計劃**：
+   - 通過科學飲食和規律運動，逐步改善整體健康狀況。
+
+#### 五、健康建議
+1. **健康生活方式的要素**：
+   - 良好的飲食習慣：避免暴飲暴食，均衡攝取各種營養。
+   - 觀注能量消耗：保持適當的體力活動，提升代謝率。
+2. **心理調適**：
+   - 接受健康改善的過程，避免因短期結果不理想而氣餡。
+
+#### 六、結論
+- 健康生活方式的養成是個長期且綜合性的工程，需要我們將注意力從體重數字轉向整體健康指標。只有真正建立了健康的foundation，減肥和其它目標才會自然而然地實現。
+
+---
+
+### 中文摘要
+
+本文圍繞「健康生活的至高重要性」這一核心主題，強調了在追求減肥的過程中，應該將健康放在首位。文章指出，很多人過度焦點於體重數字，而忽視了能量水平、皮膚狀態等健康指標的重要性。通過實際案例分享，作者提出了一個新的觀念：健康的身體會自然地擺脫 excess weight。因此，建議大眾樹立「健康優先」的理念，制定可持續的健康計劃，包括科學飲食和規律運動，從而逐步改善整體健康狀況。文章最後強調，健康生活方式的養成是個長期且綜合性的工程，需要我們將注意力從體重數字轉向整體健康指標。只有真正建立了健康的foundation，減肥和其它目標才會自然而然地實現。
 </details>
 
 <details>
-<summary>1745. Menopause Making You Look Masculine?: Dr.Berg on Menopause Symptoms & Androgens In Females</summary><br>
+<summary>1745. [2018-09-24] Menopause Making You Look Masculine?: Dr.Berg on Menopause Symptoms & Androgens In Females</summary><br>
 
 <a href="https://www.youtube.com/watch?v=jo4MvvUQC2k" target="_blank">
     <img src="https://img.youtube.com/vi/jo4MvvUQC2k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：更年期引發雄性激素水平升高的機制與影響
 
+#### 主要觀念：
+1. **雄性激素升高現象**：在女性進入更年期或後更年期時，許多婦女會出現雄性激素水平升高的情況。
+2. **相關症状**：包括男性型脱发、多囊卵巢綜合征（PCOS）、痤瘡、面部毛發增多、聲音低沉、油膩皮膚、炎症增加和性欲增強等。
+
+#### 問題原因：
+1. **胰島素水平上升**：胰岛素水平的升高是導致多囊卵巢綜合征的重要因素，並促使雄性激素的生成。
+2. **腎上腺功能過度激動**：在更年期，卵巢功能減退，腎上腺作為補充 glands 避免荷爾蒙缺失。然而，腎上腺皮質醇的突然_spike_會導致胰岛素水平上升，進而影響雄性激素的轉化。
+3. **性激素結合球蛋白（SHBG）減少**：SHBG 是一種由肝臟產生的蛋白質，用於調節雄性激素水平。其濃度降低會導致雄性激素在血液中升高。
+
+#### 蝎腺與雄性激素的平衡失衡：
+1. 在正常女性身體中，雌激素和雄性激素之間存在一定的平衡。
+2. 更年期時，卵巢功能衰退導致雌激素水平急劇下降，而雄性激素的下降幅度相對較小，造成高雄性激素與低雌激素的比例。
+
+#### 解決方法：
+1. **調節胰岛素水平**：通過控制血糖和飲食來降低胰岛素水平。
+2. **改善腎上腺功能**：管理壓力以平衡皮質醇水平。
+3. **維護肝臟健康**：提升SHBG濃度，通過健康飲食和生活方式來支持肝臟功能。
+
+#### 健康建議：
+1. **飲食調整**：避免高糖攝入，選擇均衡飲食以控制胰岛素水平。
+2. **壓力管理**：採取放鬆技巧、運動等方式降低皮質醇水平。
+3. **定期檢查**：監測激素水平，及時發現並處理相關問題。
+
+#### 結論：
+更年期導致的雄性激素升高主要是由於胰岛素上升、腎上腺功能過度激動和SHBG減少等因素造成的。通過調節這些因素，可以有效改善相應症状，提升整體健康狀況。
 </details>
 
 <details>
-<summary>1744. The Ugly Side Of Beauty & Skin Care Products [Makeup, Cleansers & Lotion] - Dr.Berg</summary><br>
+<summary>1744. [2018-09-24] The Ugly Side Of Beauty & Skin Care Products [Makeup, Cleansers & Lotion] - Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=L3O7b6DU17s" target="_blank">
     <img src="https://img.youtube.com/vi/L3O7b6DU17s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 重點整理
 
+#### 核心主題
+- 化妝品與個人護理產品中的化學物質對健康的潛在影響。
+- 清潔与排毒（detoxification）的重要性。
+- 健康飲食與 detox 經濟的相互作用。
+
+#### 主要觀念
+1. **化妝品成分的危害**：
+   - 化妝品中常含有可能致癌或神經毒性化的物質，如苯、甲醛等。
+   - 長期使用含有這些化學物質的產品可能對人體健康造成不良影響。
+
+2. **排毒的重要性**：
+   - Detoxification 是指身體清除有害化學物質的過程。
+   - 有效的排毒可以幫助恢復健康，避免疾病。
+
+3. **排毒的自然方法**：
+   - 健康飲食：攝取富含抗氧化劑的食物，如菠菜、羽衣甘藍、萵芢等。
+   - 避免有害物質的暴露：減少接觸化妝品和家政用品中的有毒成分。
+
+#### 問題原因
+- 化妝品和護理產品中存在大量有害化學物質，可能导致皮膚問題、神經系統受損甚至癌症。
+- 现代生活方式中普遍存在化學物質污染，影響身體健康。
+
+#### 解決方法
+1. **選擇低毒或無毒的個人護理產品**：
+   - 選擇有機成分的化妝品和清潔產品。
+   - 查看成份標籤，避免使用含有已知有害物質的产品。
+
+2. **排毒方案**：
+   - 飲食排毒：增加高纤维食物攝取，促進腸道排毒。
+   - 水療：多喝水幫助身體排出毒素。
+
+3. **環境排毒**：
+   - 减少接觸有毒化學品，如塑膠、清潔劑等。
+   - 使用自然家政產品代替常規化學清潔劑。
+
+#### 健康建議
+- 定期進行全身排毒，以維持身體健康和皮膚活力。
+- 避免不必要的化妝品使用，尤其是含有有害成分的产品。
+- 注意飲食均衡，攝取足夠的營養素來支持身體排毒功能。
+
+#### 結論
+- 化妝品中的有害化學物質對健康有潛在危害，需提高消費者意識並選擇安全產品。
+- Detoxification 是維持身體健康的重要環節，應該成為日常健康管理的一部分。
+- 通過健康飲食和減少化學暴露，可以有效提升整體健康水平。
+
+---
+
+### 注意事項
+1. 文章中提到的某些化妝品成份（如「press in unison」、「lotion repro slowcial region」等）可能為口語化或打字錯誤，需根據上下文合理校正。
+2. 若文中內容涉及不準確或錯誤的排毒方法，建議在整理時予以修正並提供科學依據的支持。
 </details>
 
 <details>
-<summary>1743. Family Not Taking Your Health Advice (Nutritional Advice)? - Dr. Berg</summary><br>
+<summary>1743. [2018-09-23] Family Not Taking Your Health Advice (Nutritional Advice)? - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=YJIxfta3Ppw" target="_blank">
     <img src="https://img.youtube.com/vi/YJIxfta3Ppw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：固定观念对接受营养建议的影响  
+- 固定观念（Fixed Ideas）是指个体坚信某种观点，拒绝接受新信息或修改已有信念。  
 
+### 主要觀念：  
+1. **固定观念的定义**：  
+   - 固定观念来源于法语“idée fixe”，意为“坚定不移的想法”。  
+   - 这种观念使人们固执己见，难以接受新的观点或信息。  
+
+2. **固定观念的表现**：  
+   - 对新信息持怀疑态度或直接拒绝。  
+   - 个体坚信自己的观念是绝对正确的，不容置疑。  
+   - 在营养和健康领域，常见的固定观念包括“少吃就能减肥”、“ moderation is key（适量原则）”等。  
+
+3. **固定观念的形成原因**：  
+   - 信息来源的局限性：人们可能基于有限的知识或经验形成固定观念。  
+   - 社会环境的影响：周围人的观点和文化背景也可能强化这些信念。  
+   - 心理因素：固执己见有时是由于不愿意承认错误或改变习惯。  
+
+### 問題原因：  
+- 固定观念阻碍了个体接受科学的营养建议，导致健康问题持续存在。  
+- 例如，“少吃就能减肥”的观念可能导致代谢率下降，反而影响减重效果。  
+- “everything in moderation（凡事适量）”的观念可能使人们在不健康的饮食习惯上寻求平衡，而忽视了整体健康。  
+
+### 解決方法：  
+1. **避免冲突**：  
+   - 不要试图直接否定或证明对方的观点是错误的，这会激发防御心理。  
+   - 通过温和的方式引导对方理解新信息的价值。  
+
+2. **提供科学依据**：  
+   - 使用科学研究和数据支持新的营养观念，增强说服力。  
+   - 强调健康饮食的整体性和个性化，而非单一的固定原则。  
+
+3. **自我反思与修正**：  
+   - 即使专家也可能存在固定观念，需保持开放心态，勇于承认错误并及时调整。  
+   - 例如，Dr Burke曾纠正自己关于“五餐制”的建议，体现了科学态度的重要性。  
+
+### 健康建議：  
+1. **摒弃简单化的健康理念**：  
+   - “少吃”或“Moderation（适量）”并非万能法则，需根据个体差异制定饮食计划。  
+   - 例如，水的摄入量应根据活动水平和环境因素调整，而非 rigidly（僵化地）遵循“八杯水”的标准。  
+
+2. **质疑权威**：  
+   - 医疗专业人士虽在某些领域具有权威性，但在营养学方面可能缺乏深入研究。  
+   - 选择值得信赖的科学资源或专家进行咨询。  
+
+3. **教育与沟通**：  
+   - 帮助他人理解基本的生物学概念（如胆固醇、胰岛素、新陈代谢和热量），以减少误解。  
+   - 使用简单易懂的语言，避免专业术语，确保信息传达清晰有效。  
+
+### 結論：  
+- 固定观念是阻碍人们接受营养建议的主要障碍之一。  
+- 解决这一问题需要耐心、科学依据和有效的沟通策略。  
+- 通过教育和理解，可以帮助个体摆脱固定观念的束缚，采纳更健康的饮食方式。
 </details>
 
 <details>
-<summary>1742. What Happens When You Only Use Exercise for Weight Loss? - Dr. Berg</summary><br>
+<summary>1742. [2018-09-23] What Happens When You Only Use Exercise for Weight Loss? - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3tRvxIzFf8o" target="_blank">
     <img src="https://img.youtube.com/vi/3tRvxIzFf8o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理與分析
 
+#### 核心主題
+- 論述單靠運動而忽略飲食計劃的不足，強調飲食控制在減脂和塑造中腹部的重要性。
+
+#### 主要觀念
+1. **運動的局限性**  
+   - 運動無法顯著降低胰島素水平。
+   - 側重於腹肌訓練而不注意飲食，導致核心肌群緊實但脂肪儲存量未減少。
+
+2. **胰島素的作用**  
+   - 胰島素是一種促進 fat storage 的激素。
+   - 高胰島素水平會增加腹部和肝臟的脂肪儲存，並抑制脂肪燃燒。
+
+3. **飲食對中腹脂肪的影響**  
+   - 碳水化合物（如麩皮、意大利面）、酒精和高糖水果会提高胰岛素水平。
+   - 頻繁進餐和零食會持續刺激胰島素分泌，妨礙減脂效果。
+
+#### 問題原因
+- **飲食不當**：高碳水化合物和高glycemic食物攝取過多，導致胰島素水平升高。
+- **進餐頻率過高**：尤其是運動前后進食或零食攝取，進一步提升胰岛素水平。
+- **運動策略不足**：單靠有氧運動而不注意飲食，無法有效降低中腹脂肪。
+
+#### 解決方法
+1. **飲食調整**  
+   - 減少碳水化合物的攝取，尤其是精制穀物和高糖水果。
+   - 采用低碳水化合物飲食或ketogenic diet來降低胰岛素水平。
+
+2. **進餐策略**  
+   - 遵循intermittent fasting，減少每日進餐次數，避免 frequent snacking。
+   - 運動時保持空腹狀態，可攝取少量B族維生素來提供能量。
+
+3. **運動增效**  
+   - 結合核心肌群訓練和有氧運動，進一步塑造腹部肌肉線條。
+   - 通過提高胰島素敏感性來增強減脂效果。
+
+#### 健康建議
+1. **飲食控制**  
+   - 避免精制糖和高glycemic指數食物的攝取。
+   - 增加高纖維、低GI食物（如蔬菜、瘦肉蛋白）的比例。
+
+2. **進食時機管理**  
+   - 選擇16:8或5:2模式進行間歇性禁食，每日限制進餐時間窗口。
+   - 運動後避免立即攝取高糖分食物，以免破壞胰島素平衡。
+
+3. **生活方式調整**  
+   - 保持規律的運動習慣，但需配合飲食計劃。
+   - 监測身體 composition和胰岛素水平，根據情況調整治療方案。
+
+#### 結論
+- 单靠運動無法有效去除中腹脂肪，飲食控制是減脂成功的關鍵。
+- 高碳水化合物飲食和高頻率進餐會妨礙減脂效果。
+- 通過低碳水化合物飲食、間歇性禁食和合理安排進食時機，可以顯著降低胰岛素水平，實現中腹脂肪的減少。
 </details>
 
 <details>
-<summary>1741. Need Potassium to Make Stomach Acid - Dr. Berg on Potassium & Low Stomach Acid</summary><br>
+<summary>1741. [2018-09-22] Need Potassium to Make Stomach Acid - Dr. Berg on Potassium & Low Stomach Acid</summary><br>
 
 <a href="https://www.youtube.com/watch?v=9zHq0rMP28I" target="_blank">
     <img src="https://img.youtube.com/vi/9zHq0rMP28I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題： 
+- 探讨钾（Potassium）与胃酸（Hydrochloric Acid, HCl）之间的关系及其对消化健康的影响。
+
+#### 主要觀念： 
+1. **胃酸的重要性**：
+   - 胃酸（HCl）在蛋白质分解、矿物质吸收和杀灭病原体中起关键作用。
+   
+2. **钾的作用**：
+   - 钾是合成胃酸的重要成分，缺乏钾会影响胃酸的生成。
+
+#### 問題原因： 
+- 现代饮食中蔬菜摄入不足导致钾摄入量普遍偏低，影响胃酸分泌。
+- 患某些疾病（如类风湿性关节炎、糖尿病）的人群对钾的需求更高，但摄入量往往不足。
+
+#### 解決方法： 
+1. **增加钾的摄入**：
+   - 饮食中多摄入富含钾的食物，例如绿叶蔬菜、牛油果、甜菜叶等。
+   
+2. **补充电解质粉末**：
+   - 使用含钾丰富的电解质粉末作为额外补充。
+
+3. **改善饮食习惯**：
+   - 每日摄入7-10杯高营养价值的蔬菜（如深色绿叶蔬菜），避免低营养食物如 iceberg lettuce。
+
+#### 健康建議： 
+- 定期监测钾和胃酸水平，特别是存在消化问题或慢性疾病的人群。
+- 结合补充HCl和增加钾摄入，以全面支持消化健康。
+
+#### 結論： 
+- 钾在胃酸生成中起关键作用，充足摄入对维持消化系统健康至关重要。
+- 提高蔬菜摄入量是获取足够钾的有效途径，同时需注意整体饮食的平衡与多样性。
 </details>
 
 <details>
-<summary>1740. 5 Extreme Weight Loss Hacks - Dr.Berg on Keto on Steroids</summary><br>
+<summary>1740. [2018-09-22] 5 Extreme Weight Loss Hacks - Dr.Berg on Keto on Steroids</summary><br>
 
 <a href="https://www.youtube.com/watch?v=mlJRSebJ0XA" target="_blank">
     <img src="https://img.youtube.com/vi/mlJRSebJ0XA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：酮基 diet 极限减重法的核心要点
 
+#### 1. **核心主题**
+- 提供一种强化版的酮基饮食（keto-on-steroids）方法，专注于通过极端低碳饮食、高脂肪摄入和间歇性禁食来实现快速体重减轻。
+- 强调利用营养学和代谢生理学原理，优化身体代谢状态以促进减重。
+
+#### 2. **主要观念**
+- **酮基饮食**：一种极低碳水化合物、中等蛋白质、高脂肪的饮食模式，旨在将身体切换到酮症状态，利用脂肪作为主要能量来源。
+- **间歇性禁食**：通过延长空腹时间和减少进食频率（如一天一餐或两餐）来增强减重效果。
+- **营养密度与纤维的重要性**：强调摄入富含维生素、矿物质和高纤维的食物，尤其以绿叶蔬菜为主，以支持肠道健康和代谢功能。
+
+#### 3. **问题原因**
+- **现代饮食习惯**：高糖、高碳水化合物的饮食导致胰岛素水平升高，促进脂肪储存而非燃烧。
+- **缺乏运动与禁食**：久坐不动的生活方式和不规律的饮食模式使身体难以有效利用脂肪储备。
+- **血糖不稳定**：高 glycemic 负荷食物导致血糖波动，增加胰岛素抵抗，阻碍减重。
+
+#### 4. **解决方法**
+- **极端低碳水摄入**：严格限制每日碳水化合物摄入量（<20克），主要依赖脂肪和适量蛋白质供能。
+- **增加健康脂肪摄入**：选择优质脂肪来源如坚果、橄榄油、鳄梨等，以维持饱腹感并稳定血糖。
+- **间歇性禁食策略**：
+  - 初期建议采用两餐制，逐步过渡到一餐制。
+  - 听从身体饥饿信号，避免机械式进食。
+  - 建议在傍晚时段进餐，利用昼夜节律优化代谢效率。
+
+#### 5. **健康建议**
+- **电解质平衡**：每日摄入适量的矿物质，尤其是钠（来自海盐）和钾，以防止因低碳饮食导致的电解质失衡。
+- **消化支持**：
+  - 延迟食用高纤维食物（如绿色蔬菜），避免与蛋白质和脂肪同时摄入，减少肠胃不适。
+  - 使用苹果醋调味，促进消化并提升代谢率。
+
+#### 6. **结论**
+- 通过结合酮基饮食、间歇性禁食和营养优化策略，可以有效降低体脂、改善胰岛素敏感性和整体代谢健康。
+- 初学者应循序渐进地适应这种方法，以减少初期可能出现的疲劳和其他不适症状。
+
+文章强调了在极端减重过程中需要严格遵守科学的饮食结构和生活习惯，并建议通过分享让更多人受益于这一方法。
 </details>
 
 <details>
-<summary>1739. Do Not Eat Chicken Again, Until You Watch This...</summary><br>
+<summary>1739. [2018-09-21] Do Not Eat Chicken Again, Until You Watch This...</summary><br>
 
 <a href="https://www.youtube.com/watch?v=bo8b_c8M22g" target="_blank">
     <img src="https://img.youtube.com/vi/bo8b_c8M22g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：.factory Farming and Its Impact on Chicken Consumption
 
+#### 核心主題
+- **工業化禽畜養殖（CAFOs）**：探討工廠化養殖對雞隻的影響及其產業鏈。
+- **食品安全與健康風險**：分析工廠化養殖中使用的藥物殘留及對消費者健康的潛在危害。
+
+#### 主要觀念
+1. **禽類消費量激增**：
+   - 每年全球售出90億只禽鳥，其中99.9%來自工廠化養殖。
+2. **生長周期缩短**：
+   - 1925年需125天飼育成熟的雞，現已縮短至47天。
+3. **工業化養殖的問題**：
+   - 使用抗生素、砷、抗組織胺藥物（如苯那普利）、止痛藥及咖啡因來促進生長和管理ストレス。
+4. **食品標籤的混淆**：
+   - 梁場「vegetarian feed」多為 GMO 玉米和大豆， Cage-free 和 Free-range 的定義及其實質空間有限。
+
+#### 問題原因
+1. **濫用獸藥**：
+   - 使用被禁用的抗生素、砷和其他化學物質，導致藥物殘留。
+2. **環境擠迫**：
+   - 電子監控和高密度飼養導致雞隻ストレス和健康問題。
+3. **食品標籤混淆**：
+   - 消費者對 Cage-free 和 Free-range 的理解不足， pasture-raised 才是較為健康的選擇。
+
+#### 解決方法
+1. **選擇有機和 pasture-raised 產品**：
+   - 選擇來自有機農場、 pasture-raised 的雞肉，價格較高但更健康。
+2. **支持小規模農場**：
+   - 购買來自家禽市場的飼養良好的禽類，避免工廠化產品。
+3. **政策監管與透明度提升**：
+   - 增加食品安全法規，提高供應鏈透明度，讓消費者了解食品來源。
+
+#### 健康建議
+1. **飲食選擇**：
+   - 選擇有機、 pasture-raised 的禽类产品，減少工廠化產品的攝入。
+2. **閱讀標籤**：
+   - 注意食品標籤，避免被 Cage-free 和 Free-range 標籤誤導。
+
+#### 結論
+工廠化養殖對環境和人體健康造成嚴重影響，消費者需提高食品安全意識，選擇更健康的替代品。雖然有機禽类产品價格較高，但從長遠來看更具價值。
 </details>
 
 <details>
-<summary>1738. Bad Cholesterol Can Make You Live Longer - Dr. Berg</summary><br>
+<summary>1738. [2018-09-20] Bad Cholesterol Can Make You Live Longer - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=zEhygI0kvMg" target="_blank">
     <img src="https://img.youtube.com/vi/zEhygI0kvMg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- LDL（低密度脂蛋白）的重新評估：新的研究分析表明，高LDL水平可能與延長壽命有關，並不一定增加心血管疾病風險。
 
+### 主要觀念
+1. **LDL的功能**：
+   - LDL是一種脂蛋白，主要負責運輸膽固醇、三酰甘油和維生素E等物質。
+   - 它參與能量代謝，將燃料輸送到不同細胞。
+   - 具有抗氧化作用，幫助保護細胞。
+
+2. **LDL的「壞」形象**：
+   - 舊有觀念認為LDL是心血管疾病的主要原因，但新研究指出其並非直接罪魁禍首。
+   - LDL更多是在損傷後被動地參與修復過程。
+
+3. **心血管疾病的原因**：
+   - 高胰島素血症和胰島素抵抗是導致心血管疾病的關鍵因素。
+   - 彙orthand和鈣沉積是修復反應的一部分，而非病灶本身。
+
+### 問題原因
+- 傳統觀念過於強調LDL為心血管疾病的主要病因，忽略了其他重要因素（如高胰島素血症）。
+- LDL的複雜功能被بسيط化，導致治療策略的偏頗。
+
+### 解cision和健康建議
+1. **診斷方法**：
+   - 推荐使用冠狀動脈鈣化評分（CAC评分）來評估心血管健康狀況。
+   - CAC评分更能預測壽命長evity，因其直接反映 arterial plaque 的程度。
+
+2. **治療策略**：
+   - 調控胰島素水平和改善胰島素抵抗是關鍵。
+   - 避免過度降低LDL，以免影響其有益功能。
+
+3. **生活方式建議**：
+   - 通過飲食控制、運動和壓力管理來降低胰岛素resistance。
+   - 平衡飲食，攝取足夠的維生素E以利用LDL的抗氧化作用。
+
+### 結論
+- 高LDL水平可能與延長壽命有關，但其作用需結合其他指標綜合評估。
+- 心血管疾病的病因複雜，需全面考量代謝紊亂、炎症反應等因素。
+- 倫理上應重新評估LDL的治療目標，避免過度干預其有益功能。
+
+### 注腳
+1. **LDL**：低密度脂蛋白，負責運輸膽固醇等物質，參與能量代謝和抗氧化作用。
+2. **CAC评分**：冠狀動脈鈣化評分，用於評估冠狀動脈中鈣沉積的程度，反映动脉粥樣硬化情況。
+
+此整理結構清晰地展示了文章的核心思想，並以學術化的語言進行表達。
 </details>
 
 <details>
