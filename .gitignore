@@ -10,6 +10,7 @@ tmp.txt
 bin/
 log/
 share/
+scripts/
 
 # C extensions
 *.so
