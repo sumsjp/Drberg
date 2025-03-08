@@ -1,0 +1,586 @@
+well hey everyone today we have a
+special guest Aaron Davison is the CEO
+of a company chronometer and it's an app
+it's pretty cool it allows you to track
+60 nutrients and probably I don't know
+it could be more by now I was just kind
+of getting this off your website over
+7500 different foods and in the analysis
+of your your macros and your nutrients
+so if you're doing the key tell and if'
+you can track this data so welcome and
+thank you for spending some time just
+kind of answering some questions that I
+have oh yeah thanks for having me
+absolutely
+you know when you do the keto plan I get
+this over and over and over like what do
+I track my calories dry track my
+nutrients one of the macros so you have
+one of the top best apps out there and
+so I wanted to bring you on just to see
+what you're up to see what this app is
+all about and then some features that
+you have that are new that I think
+people will be excited about so can you
+kind of just tell us a little bit about
+your app and a thumbnail sketch and and
+this and also then you maybe can pull up
+a screen too when you're when you're
+ready on on what you have with keto your
+thing yeah we're all about tracking
+we're all about data and deep nutrition
+data in particular and and all about
+science so we really try to take a we're
+trying to present a tool we're not
+trying to push any kind of particular
+diet or regimen on anyone where we try
+to stay impartial but we also try and
+follow the research and keep on top of
+the trends that are in the space and
+yeah like like you mentioned we have
+Sony more than much more than 7,500
+Foods the interesting we have hundreds
+of thousands but we have two types of
+foods in our database which is important
+for everyone to be aware of so we have
+foods that have the full spectrum of
+nutrition so these have the 60
+micronutrients all the amino acids
+vitamins minerals fat breakdown car
+breakdown write down and just sugar
+subtypes sugar alcohols and and just
+immense amount of data when you want to
+like understand what's in food but that
+is limited to a small subset of our
+database so that is typically whole
+foods and greed common ingredients and
+very classic popular products from
+mainly from the US market that so these
+are foods that have gone into the labs
+and been extensively analyzed so that we
+have all these data points then there's
+the hundreds and hundreds of thousands
+every year new products they're like on
+the market on the shelves that are
+shrink-wrapped we don't have like
+obviously those products don't get
+analyzes heavily and we just have what's
+on the label for most of those or what's
+published by it say the restaurants
+nutrition facts and they're not going to
+publish or even do the lab work to give
+you you you know the full spectrum and
+all they're not going to share the
+ingredients if we knew the exact
+ingredients that went into it obviously
+we could create a food you know compiled
+from the thing our ingredient database
+and we would know what what's in it but
+that's just not what happens in the food
+industry right now so we do try and show
+you that within the app and all when I
+demo I'll show the way you can sort of
+discern if you're interested in just
+tracking macros it doesn't matter
+because that's always unavailable but if
+you're also in the nutrients then you
+have to focus your what you're working
+with to real foods and if you're eating
+real food and preparing your meals it's
+never an issue it's it's when you mean
+the stuff you shouldn't be eating or the
+problems it's just there's so many of
+those it's like I don't even think
+personally I don't think we should even
+track that because you shouldn't be
+eating in the first place
+what is there a database that you tapped
+into where you get the data or how do
+you do that yeah so we we source our
+data from a number of databases and we
+have our own in-house curation team as
+well
+Wow that works on constantly enhancing
+and expanding your database both from
+the product side and the research side
+are you able to see my screen now yeah
+okay so this is this is the web version
+there's also a mole
+version that looks a little simpler but
+all the functionality is still there and
+so this is the diary which we're focused
+around and in your diary you get a list
+of what's happened through the day and
+then you're gonna know nothing's showing
+here because I haven't logged anything
+today
+so I'm gonna demonstrate that but you
+can see the list of vitamins minerals
+protein lipids carbs and miscellaneous
+you can track and see information on and
+you can also log your exercises you can
+record biometrics so anything can
+measure whether it's like your ferret
+and blood levels your blood glucose your
+ketone readings that can also get dumped
+in here and graphed alongside nice and
+freeform notes and photos can also be
+kept in your in your journal here as
+well but the the basic workflow here
+would be to add I'm gonna start with my
+breakfast so I had two eggs and I'm just
+gonna make sure I go so we have a couple
+of different categories I had been
+clicked on brands here restaurants
+products that are supplements pills and
+whatnot and then common foods would be
+foods that are in that whole food
+database yeah so if you do want to be
+sure that you're getting comprehensive
+nutrition you can limit your searches on
+this tab let's say for example you had a
+piece of meat for breakfast and would
+you how does it measure in ounces or
+grams or um yeah so so every food will
+have a number of different serving sizes
+it will come up with the default of
+what's the most popular but you cannot
+have old logging grams ounces and then
+if various serving sizes are provided by
+the curators you would also be able to
+select those okay so I'm just saying to
+medium eggs in my scrambled eggs and I'm
+gonna add some bacon
+three strips of bacon avocado half an
+avocado and you can see I'm filio my
+breakfast here I've actually the count
+I'm demoing here is already configured I
+believe with in our ketogenic settings
+mode so normally in the default app this
+would actually over here be showing
+calories but you can change this to net
+carbs for instance if and I want to be
+more focused on on carb tracking you
+still get your whole calorie energy and
+an out balance here so here we can see
+we've gotten seventy percent of her
+calories so far from fats eight percent
+from carbs 22 percent from protein we
+can see where my end my predicted energy
+burn for the day based on my body type
+so my basal metabolic rate and general
+activity now if I went and logged
+exercise will also see so I feel went
+for a thirty minute jog I'm just gonna
+drag that up here now I've also got 250
+calories onto my energy burn here as
+well so so if you're interested in
+calories we do track those but if you're
+doing keto the most important thing
+obviously is keeping track of these
+macros and the balance so we have a
+number of features to support that but
+one of the most interesting ones is when
+you've gone here and logged all your
+foods for the day and you might notice
+that you've blown over your net carb
+limit and you're curious like oh where
+did those pesky carbs come from over
+over any of these bars and see what the
+top contributors were nice and that can
+actually unveil some surprises sometimes
+where you're you weren't aware there
+were few sneaky carbs in something I
+love that and then as far as the the
+individual nutrients is quite a database
+of nutrients so let's see you have let's
+take a just look at potassium I just
+want to look at that Wow look at that
+that 1% of my daily work
+for potassium so these are all
+configured by default to the RDAs for
+your body type you can love it I love it
+you can override these so if your doctor
+tells you you know you have a particular
+condition you need to watch your iron or
+your zinc or what have you you can you
+can change these targets too you can
+personalize them further than than the
+defaults but by default it's it's what
+the general recommendations are for for
+you and yeah so we can see where my
+potassium is coming from it's a great
+way to learn what's in your food
+you even have phytonutrients I think
+yeah you try to find out nutrients in
+vitamin A Michael pain Wow
+yeah and so there's no RTA's or targets
+that he receive you could always add one
+it if you wanted but if but we do show
+the amounts and we you know I should
+mention we we can track a lot more than
+what I'm showing here there just turned
+off by default just to reduce complexity
+yeah yeah we appreciate that and yeah we
+want to kind of keep it simple but the
+ability to expand it this is very very
+cool stuff it's simple a problem you
+know just from a person looking at this
+or praying like wow this is pretty nice
+but the amount of work that you had to
+do to make this simple I could imagine
+because that's the hardest thing is to
+take to make it graph to quickly get the
+representation so I know you probably
+went through this a few times oh yeah
+this is assessable for many years and
+it's continuing to evolve yeah we're
+always trying to find ways to to make it
+more user friendly and maintain the
+power that's always the struggle is when
+you want to present a lot of information
+it can be very overwhelming for new
+users who haven't quite you know when
+they first come to this app and they see
+all of this detail it can be a little
+overwhelming for some people and I just
+want to also mention one thing for those
+of you that are watching I think your
+app is is like three dollars or
+something like that right one of them we
+actually so we have two versions in the
+app store I want is free with ads and
+one is yeah three dollars to to the
+Anthony version you know guys I
+personally
+try to develop something like this in
+the early 2000s and I paid $300,000 to
+come up with that programmers to try to
+build something I gave up it was just
+too too complex too difficult and too
+expensive so and I know you probably
+invested a tremendous amount of work and
+for you know a couple dollars to have
+this data turn off your cell phone I
+mean it's like I think it's it's
+definitely worth it so I appreciate you
+doing all the work it's been fun to do
+the work to be honest but it has been a
+lot of hard work
+yeah yeah just just quickly diving into
+some particularly interesting
+Kito features since your audience would
+be interested in that when you have it
+in set up for ketogenic mode we also
+have some X some handy ways to log your
+your blood urine or breath ketone
+reading squeeze so if you are using a
+device like the keto Mojo or the P
+strips or the ketone express analyzer
+you can you can record that to your
+diary
+Wow and everything at point 5 really
+molars there it is also and when you
+into our trends and charting section or
+report section you can actually start to
+see how what you're eating how you're
+exercising notes on sleep all those
+things might be affecting your your
+ketone and blood glucose reading it's
+kind of like um it's this is so
+important because so many people out if
+I'm not losing weight why is that well
+go you could go back if you track
+everything you can see right before you
+started not losing weight there is
+something you ate or you can look at
+your ketones or your blood sugar so it's
+a it's a great way to figure things out
+I like it plus the glucose reading you
+can check that too and track that
+exactly so it's it's it's usually
+usually record those together and it's
+good idea to track those together if you
+if you're doing a serious ketogenic diet
+just to show everyone where they can set
+up the ketogenic mode
+I click the so there's this
+macronutrient targets section there's a
+little Settings icon here that expands
+to the settings for this area and
+there's a macronutrient target section
+and from that you select the high fat
+ketogenic mode and then you get to
+select either custom values or from some
+presets so if you were doing this for
+medically serious condition where you
+really want to be rigorous we've got a
+few presets here so it's gonna take your
+[Music]
+your body weight and body fat percentage
+and to determine your lean body mass and
+it's gonna give you a certain allotment
+of protein per kilogram body and then
+you also set a cap on how many either
+some people do want to use total carbs
+so include fiber integral cause some
+people want to use Nick most people use
+net carbs for mutagen but that's also an
+option we also let some people disagree
+whether whether to include sugar
+alcohols in their carbs so we've made
+that an option here as well right so we
+have rigorous which would be typically
+for someone who's very sensitive to
+carbs or is doing this for a very very
+serious condition so they don't want to
+mess anything up that's these quite
+strictly moderate well is where almost
+everyone will should get into ketosis on
+moderate if they follow these limits
+it's with few exceptions and then relax
+would be someone like myself I'm not
+doing a ketogenic diet for medical
+reasons I'm not overweight just doing it
+for general health and interest I like
+how it makes me feel and athletic so I
+can tolerate a lot more per day of net
+carbs and we have this athletic bonus
+option with shift ticked
+but an extra allowance of carbs if you
+love more exercise so knowing that
+that's gonna get that blood sugar is
+gonna get burned off in the exercise and
+not affect your your insulin levels as
+much especially for endurance athletes
+zach bitter
+he took the record for a hundred miles
+he's coming to this summit and of course
+he he needs to do more carbs when he's
+running so of course he's not doing
+glucose he's doing you know other types
+of cars but yeah I totally see that and
+of course if these presets don't match
+what you'd like you can use custom and
+you can edit any of these to your liking
+nice don't want the wizard like that's
+calculating all of these things
+dynamically you just want very say
+you've used some other website to
+calculate your macros for keto and you
+know the exact gram amounts and you can
+also use the fixed targets mode which
+lets you you just click these and type
+in the exact amount you want
+they won't change or fluctuate based on
+your exercise or anything so some people
+prefer that type control of most people
+prefer our wizard that dynamically
+figures things out for you that's you
+right if you can go back one field I
+want to just right there you had okay so
+he has 1.5 grams of protein per kilogram
+for lean body mass okay so that's that
+the key thing is not like per weight for
+a lot of the people that are doing my
+program and let's say they're going
+through menopause or metabolism is slow
+we're gonna recommend 0.75 grams of
+protein per kilogram protein body mass
+so that's what plug
+[Music]
+yeah so the 0.75 and then as far as fat
+grams can you can we customize that to 4
+for fat and perhaps so this the way this
+with this keto mode works is basically
+anything left in your calorie budget
+gets assigned to fat okay we've done a
+weight loss bowl for instance then we
+assume the deficit is gonna be made up
+by burning your own fat
+so the your target for the day with for
+fat would work out to that balance the
+dietary fat it for someone that's really
+struggling to lose weight in their
+plateauing we want to keep it under 75
+grams something on average between 60
+and 75 grams if they keep it alow it
+forces their body to burn their own fat
+a lot more but we don't want to go too
+low because I know how deficiencies but
+that's kind of for those of you watching
+it's kind of like a good number to shoot
+for if you really want to get some
+serious weight loss do you go ahead
+sorry and I was just just gonna just add
+like if if our our pedo targeting wizard
+doesn't do the trick for anyone then
+that's where you want to use that fixed
+moment to just plug in the exact values
+you determined yeah so so it's all you
+eat this program is extremely
+configurable it you just might have to
+crack open the user manual or contact
+our support for some of those those
+cases that might not be as obvious but
+it pretty much everything can be tuned
+to how you want it nice let's say for
+example we want to add another layer of
+variables which is in a minute fasting
+mm-hmm do you have anything yet um I'm
+not so we don't we definitely want to
+add some things like but we don't have
+them yet what we recently added over
+time stamp them so you you can
+optionally record the times of your
+meals okay
+I mean in reality it's just you still
+could you just basically just add your
+one meal or two males and then you know
+that will calculate what you need it now
+so it's just with one now that we have
+time stamps we could start showing you
+for instance like how long since your
+last meal or charting the the length of
+time between your time of your fasts for
+instance from that data yeah it gets it
+a little bit complex because you have
+when you go less meals your calories do
+go down because your body is retaining
+nutrients so it's like and then you have
+the variable of how much the person
+weighs and really how many calories they
+need and the the digestive system
+strength and the stress level so it
+probably you can get to the point where
+it's like over-the-top complex so we
+don't want to do that but I think this
+would give you everything you wanted it
+now just on a thumbnail sketch
+exactly and yeah I think in 2019 we'll
+we'll probably have some interesting
+things to support intermittent fasting
+yeah awesome yeah really
+um now just from you doing this what are
+you finding you probably get data from a
+lot of people I don't know if you look
+at the data but are you finding that
+well there's a lot of people are they're
+not consuming enough of a certain
+nutrient have you seen we we haven't we
+actually take data privacy pretty follow
+that pretty strictly right now and in
+our policy and so we do have options to
+enroll and to actually opt in to
+share your data with researchers who
+then would be allowed to look at your
+data but yeah as far as when we've used
+this or we've talked to people who use
+this especially following a ketogenic
+diet you know the usual suspects
+definitely crop up like the electrolytes
+and and things like that can be tricky
+to get from your food especially when
+you need more
+what the RDAs layout right those diets
+here yeah and even even that's like you
+know some of these nutrients you might
+need more especially if your health
+isn't that great then you have the other
+thing if you're doing higher carbs the
+depletion of sometimes as they're
+refined carbs the depletion of mineral
+especially b1 or potassium but I think I
+would be very interested to see I would
+focus on potassium I would bet you
+anything that the average person is not
+even getting close to the amount of
+potassium they need because you need
+4700 as a as a rdas so it's like that's
+like a lot of vegetables so that would
+be interesting to point that out but
+time
+Ventris yeah we have the potential
+certainly to data mine
+and and learn some big broad strokes
+things about about our user base and the
+different diets are on I think the
+challenge is always because it's not a
+controlled study that quality of the
+data the noise and the data you don't
+know did someone if I forgot to log my
+lunch and my dinner versus I was fasting
+for the rest of the day you know we're
+not someone kind of looking at the data
+from a high level mean aggregation is
+not going to be able to to tell the
+difference now was I just meal planning
+or doing a demo or did I actually eat
+this and people use the software for so
+many different different ways that I
+think unless they've actually enrolled
+in a protocol with the researcher and
+then they're sharing their data I think
+that's the way to go yeah yeah it'd be a
+you know it's like um the first thing I
+do like this is what I get a lot from
+people especially if they're not
+familiar with keto
+oh I'm not losing weight I said okay
+well I can't evaluate that unless I have
+a food log so you know if they did this
+they would have it already done and then
+we can evaluate evaluator but then the
+first thing is like making sure they're
+doing it correct and ninety percent of
+time they're not doing a correct so then
+we correct that but this will allow them
+to really look at things and dig down to
+see what's wrong
+yeah so the one thing we have to support
+that is a professional version so anyone
+who's working with patients or clients
+in in that sort of setting whether
+they're in a hospital or their fitness
+coach can use our professional version
+to then give give the app to their
+clients and then their clients data is
+accessible under our pro dashboard so
+they can follow along and see everything
+in there their final then they can set
+their targets and they can they can
+thought they can check in on them every
+day if they want right from there
+stop and say you know give him a shoot
+them a text or a call call the money
+look I noticed you know you missed the
+mark here I'm a pretty detailed and
+hands-on if they need to yeah I think I
+think I'm gonna I'm gonna tell my my
+Kido coaches in my health coaches that I
+have a training course I'm gonna this
+would be perfect to use with their
+clients and especially like um you know
+people that have food allergies and
+inflammatory responses it's always
+connected to something you're eating so
+if you could track it and isolate what
+the heck you're doing because there's so
+many variables you can start eliminating
+things until you actually nail what
+you're allergic to or inflamed so this
+is an awesome awesome tool I'm gonna put
+a link down below of where to get it on
+a desktop and also you just do a search
+on on this product and download it
+there's even a free version to to check
+that out so I want to thank you so much
+for your time I know you're probably
+busy programming and just to share like
+what what this is and the power of it so
+for those of you that need to download
+it I'm gonna put a link down below this
+is awesome so I want to thank you so
+much and I appreciate your time yeah my
+pleasure thank you very much absolutely

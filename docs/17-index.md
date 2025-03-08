@@ -362,113 +362,619 @@
 </details>
 
 <details>
-<summary>1767. Dr. Berg Gets Maria to Change her Diet  | Ketogenic diet, Intermittent fasting & Weight Loss</summary><br>
+<summary>1767. [2018-10-06] Dr. Berg Gets Maria to Change her Diet  | Ketogenic diet, Intermittent fasting & Weight Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=q7iQ06coxHQ" target="_blank">
     <img src="https://img.youtube.com/vi/q7iQ06coxHQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題  
+文中圍繞著一位個案在健康飲食和生活方式改変後的經驗與感受展開討論，特別是其在實施低碳水化合物飲食（酮ogenic diet）及短期禁食後的體驗。文章強調了動機來源、飲食結構調整對身體橢能的影響，以及健康建議的重要性。
+
+---
+
+#### 主要觀念  
+1. **飲食結構調整**：個案從標準美國飲食（SAD，Western diet）轉向低碳水化合物飲食，並實施短期禁食（一日一餐）。  
+2. **動機來源**：鄰居的妊娠 경험과 체중 증가를契机로 건강에 대한 관심을 갖게 됨。  
+3. **身體變化**：體重從109公斤降至160公斤，衣物變 loose，能量水平提升。  
+4. **鹽分攝取的重要性**：在低碳水化合物飲食中，鹽분攝取可幫助穩定 electrolyte 平衡，避免因水分流失導致的疲勞和鹽 craving。
+
+---
+
+#### 問題原因  
+1. **標準美國飲食的缺點**：高糖、高碳水化合物飲食導致體重增加和代謝失衡。  
+2. **缺乏動機**：在沒有外部刺激或動機的情況下，個案初期對健康飲食改変缺乏積極性。  
+
+---
+
+#### 解決方法  
+1. **確定動機**：妊娠 경험과 체중 문제를契机로 건강을 우선시하는 마음가짐을 갖는다.  
+2. **飲食結構調整**：降低碳水化合物攝取，增加脂肪和蛋白質的比例，實施短期禁食（一日一餐）。  
+3. **鹽分補充**：在低碳水化合物飲食中，適量攝取鹽分以維持 electrolyte 平衡。  
+4. **監測進展**：定期監測體重和衣物 tightness 作為改変成效的指標。
+
+---
+
+#### 健康建議  
+1. **飲食調整**：  
+   - 減少精緻糖和高碳水化合物食物的攝取，增加健康脂肪（如 nuts, avocados）和蛋白質。  
+   - 實施短期禁食（如一日一餐），以促進 fat oxidation 和 weight loss。  
+
+2. **鹽分攝取**：  
+   - 在低碳水化合物飲食中，每日適量攝取鹽分（如 Lite Salt 或海鹽）。  
+   - 避免因鹽分不足導致的疲勞和鹽 craving。  
+
+3. **監測與調整**：  
+   - 定期監測體重和能量水平，根據身體反應調整飲食計劃。  
+
+4. **心理調適**：  
+   - 確立明確的健康目標，保持積極心態，以應對飲食改変的挑戰。  
+
+---
+
+#### 結論  
+個案的成功經驗表明，適當的動機、科學的飲食結構調整和鹽分攝取策略可以有效促進 weight loss 和能量提升。然而，實施過程中需密切監測身體反應並根據個人情況進行調整。此案例為有意改変生活方式的人群提供了寶貴的借鑒。
 </details>
 
 <details>
-<summary>1766. Hormones Out of Balance - This is Why! - Dr. Berg On Hormonal Imbalance</summary><br>
+<summary>1766. [2018-10-05] Hormones Out of Balance - This is Why! - Dr. Berg On Hormonal Imbalance</summary><br>
 
 <a href="https://www.youtube.com/watch?v=AqufWFYK_r8" target="_blank">
     <img src="https://img.youtube.com/vi/AqufWFYK_r8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理與分析
 
+#### 核心主題
+本文圍繞著人類的内分泌系統展開，探討了多種激素失衡的問題及其對身體健康造成的影響。文章強調了 hormones 如甲状腺激素、雌激素、睾酮等在人體中的重要性，並介紹了過高或過低的情況下的症狀及可能的原因。
+
+#### 主要觀念
+1. **激素失衡的危害**：激素失衡會導致多種身體不適，包括疲勞、情緒問題、皮膚狀況等。
+2. **激素失衡的來源**：
+   - 環境因素（如化學物質）
+   - 飲食習慣（如高糖、高脂肪飲食）
+   - 生活方式（如缺乏運動、壓力過大）
+3. **症狀與性別差異**：不同激素失衡在男性和女性身上表現的症狀有所不同，例如女性的多囊卵巢綜合征（PCOS）與男性的痤瘡和肌肉增長。
+4. **干預與治療**：
+   - 避免接觸有害化學物質。
+   - 通過飲食調整攝取必要的營養素。
+   - 考慮使用補充劑或藥物。
+
+#### 問題原因
+1. **環境因素**：工業化和現代化的影響，導致大量化學物質污染環境，這些物質可能干擾人體激素的正常功能。
+2. **飲食問題**：
+   - 高糖、高脂肪飲食破壞了血糖平衡，並影響胰島素敏感性。
+   - 化肥和 pesticides 污染食物，導致激素失衡。
+3. **生活方式因素**：
+   - 缺乏運動降低了身體對激素的反應能力。
+   - 長期壓力激活腎上腺素路徑，干擾其他激素的正常分泌。
+
+#### 解決方法
+1. **飲食調整**：
+   - 清除加工食品和高糖飲料，選擇未精緻食物。
+   - 增加蔬菜、水果和全穀物的攝取，補充抗氧化劑和微量營養素。
+2. **運動**：規律的中等強度運動可以提高胰島素敏感性，並幫助平衡激素水平。
+3. **壓力管理**：
+   - 適當放鬆技巧，如冥想、瑜伽。
+   - 確保充足的睡眠，以促進荷爾蒙恢復平衡。
+4. **補充劑**：在醫生建議下使用碘、硒等微量營養素來調節激素失衡。
+
+#### 健康建議
+1. **飲食原則**：
+   - 避免加工食品和高糖飲料。
+   - 選擇有機農產品，以降低 pesticide 暴露風險。
+2. **生活習慣**：
+   - 確保充足的睡眠時間（每晚7-9小時）。
+   - 規律進行中等強度運動（如快走、騎車），每周至少150分鐘。
+3. **避免環境干擾物**：
+   - 避免使用含雙酚A的塑膠容器和罐頭食品。
+   - 使用天然清潔產品，減少家庭化學污染。
+
+#### 結論
+激素失衡是現代社會中常見的健康問題，其成因複雜，但通過飲食調整、運動和壓力管理可以有效預防和改善。關鍵在於建立健康的飲食習慣和生活方式，避免接觸外界干擾物，並定期進行身體檢查以早期發現問題。
 </details>
 
 <details>
-<summary>1765. Cronometer, the Best Keto App - Dr. Berg</summary><br>
+<summary>1765. [2018-10-04] Cronometer, the Best Keto App - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=YA7BTmE3zYQ" target="_blank">
     <img src="https://img.youtube.com/vi/YA7BTmE3zYQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- **營養管理與健康追蹤**：介紹了一款名為Nutritionist Pro Desktop App的軟體，用於協助用戶管理和追蹤飲食及健康狀況。
+
+#### 主要觀念
+1. **軟體功能**：
+   - 提供個人化的飲食計劃和目標設定。
+   - 協助營養師、健身教練等專業人士與客戶合作。
+   - 支援 Macronutrient（宏量營養素）計算、食物日誌記錄、進階報告生成等功能。
+
+2. **健康數據追蹤**：
+   - 跟踪攝入的熱量、蛋白質、脂肪、碳水化合物等宏量營養素。
+   - 支援微量營養素（如葉酸、鐵、鎂）的記錄與分析。
+   - 生成詳細報告，幫助用戶和專業人員評估飲食結構。
+
+3. **數據可視化**：
+   - 提供圖表和報告來展示飲食數據，便於用戶和專業人士進行分析。
+
+#### 問題原因
+1. **營養攝取不平衡**：
+   - 很多用戶在遵循特定飲食計劃（如低碳水化合物飲食）時，可能缺乏足夠的微量營養素攝取。
+   - 高碳飲食可能导致某些 nutrient 的耗竭，例如B族維生素和 potassium。
+
+2. **數據記錄不完整**：
+   - 很多人在使用營養追蹤工具時，可能無法準確記錄所有攝食情況，導致分析結果失真。
+
+3. **缺乏專業指導**：
+   - 非專業用戶可能無法單靠軟體自行診斷飲食問題，需要專業人員的輔導與建議。
+
+#### 解决方法
+1. **使用Nutritionist Pro Desktop App**：
+   - 通過軟體進行飲食記錄和分析，確保數據的準確性。
+   - 設定個人化的營養目標，根據需求調整飲食結構。
+
+2. **專業諮詢**：
+   - 專業人士（如營養師、健身教練）可以使用專業版本來跟蹤客戶的飲食狀況，提供針對性的建議。
+   - 協助用戶排除食物過敏和炎症反應，通過軟體數據找出問題根源。
+
+3. **數據分析與反饋**：
+   - 軟體生成的報告可作為評估工具，幫助用戶和專業人士了解飲食結構的優缺點。
+   - 提供即時反饋，及時調整飲食計劃。
+
+#### 健康建議
+1. **均衡飲食**：
+   - 確保攝取足夠的微量營養素，特別是 potassium 和 B族維生素。
+   - 多攝取蔬菜水果，以滿足每日所需 nutrients。
+
+2. **定期評估與調整**：
+   - 使用軟體定期評估飲食結構，根據結果調整飲食計劃。
+   - 與專業人士合作，確保飲食計劃的科學性和有效性。
+
+3. **數據記錄的重要性**：
+   - 准確記錄每日攝食情況，為分析提供可靠依據。
+   - 利用數據反饋機制，及時發現和解決飲食中的問題。
+
+#### 結論
+- Nutritionist Pro Desktop App 為用戶提供了強大的工具來管理和優化其飲食習慣。
+- 通過軟體的數據分析功能，用戶可以更好地了解自己的營養攝取情況，並及時調整以達到健康目標。
+- 對於專業人士而言，該軟體為他們提供了一個有效的平台來輔導客戶，提升健康管理的效果。
 </details>
 
 <details>
-<summary>1764. Ignored Causes of Heart Disease - Heart Problems - Dr.Berg</summary><br>
+<summary>1764. [2018-10-04] Ignored Causes of Heart Disease - Heart Problems - Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=uYQVVSu5YGw" target="_blank">
     <img src="https://img.youtube.com/vi/uYQVVSu5YGw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+本文探讨了心脏健康与营养之间的关系，分析了导致心血管疾病的主要原因，并提出了解决方案和健康建议。
+
+#### 主要觀念
+1. **心血管疾病的營養因素**：
+   - 膳食中的糖分過高會導致動脈粥樣硬化。
+   - 高血糖會干擾維生素C的吸收，增加氧化應激，損害血管壁。
+   - 維生素E缺乏會降低心肌氧供，增加心絞痛風險。
+
+2. **與心血管疾病相關的營養素**：
+   - **維生素C**：抗氧化作用，保護血管壁免受氧化損傷。
+   - **維生素E**：提升心肌氧含量，防止心臟痙攣。
+   - **B族維生素**（特別是維生素B1、B2、B3）：維持心臟功能，促進動脈 vasodilation。
+   - **鎂和葉酸**：降低血壓，改善心血管健康。
+
+#### 問題原因
+1. **營養失衡**：
+   - 高糖飲食導致血糖升高，干擾維生素C吸收，引發氧化應激。
+   - 維生素E、B族等關鍵營養素缺乏，影響心臟功能和血管Health。
+
+2. **代謝紊亂**：
+   - 胰島素抵抗（insulin resistance）增加心血管疾病風險。
+   - 高血糖轉化為膽固醇，加重血脂異常。
+
+3. **環境與壓力因素**：
+   - 慢性壓力導致腎上腺疲勞，影響血管反應。
+   - 經氧化應激後的血管損傷易形成斑塊。
+
+#### 解決方法
+1. **飲食調整**：
+   - 減少糖分攝入，改善胰島素敏感性。
+   - 增加富含維生素C（如柑橘類水果）、維生素E（如坚果和種子）的食物攝取。
+   - 保證B族維生素的充足來源（如全穀物、瘦肉、蛋類）。
+
+2. **營養補充**：
+   - 补充鎂劑，降低血壓。
+   - 使用整體食物來源的維生素E和B族維生素，以確保綜合營養平衡。
+
+3. **壓力管理**：
+   - 適當放鬆、運動和冥想以減輕壓力，保護腎上腺功能。
+
+4. **生活方式改變**：
+   - 觀察血糖變化，避免高糖食物。
+   - 確保充足睡眠，促進身體恢復。
+
+#### 健康建議
+1. **飲食建議**：
+   - 減少精制糖和碳水化合物的攝入。
+   - 多食用富含抗氧化劑的食物（如深色蔬菜、水果、坚果）。
+   - 確保膳食均衡，攝取足夠的B族維生素。
+
+2. **營養補充策略**：
+   - 考慮服用綜合維生素來源，以彌補飲食中的不足。
+   - 選擇整體食物而非分離式維生素サプリメント。
+
+3. **生活型態建議**：
+   - 定期運動，促進心血管健康。
+   - 管理壓力，保持心理平衡。
+
+#### 結論
+心血管疾病的發生與多種營養和生活方式因素有關。通過調整飲食結構、補充關鍵營養素以及管理壓力，可以顯著降低心臟病風險。本文強調了整體營養策略的重要性，建議以綜合方式來改善心脏健康，而非單一 nutrient 的過量攝取。
 </details>
 
 <details>
-<summary>1763. Use Bile Salts for a Fatty Liver – Non-Alcoholic Fatty Liver Disease (NAFLD) – Dr. Berg</summary><br>
+<summary>1763. [2018-10-03] Use Bile Salts for a Fatty Liver – Non-Alcoholic Fatty Liver Disease (NAFLD) – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ZALPTExG_d0" target="_blank">
     <img src="https://img.youtube.com/vi/ZALPTExG_d0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節化整理
 
+#### 1. 核心主題：脂肪肝與膽汁鹽的作用及影響
+   - 脂肪肝會降低肝臟功能，影響膽汁鹽的生成。
+   - 胆汁鹽在脂質代謝、維生素吸收和膽固醇分解中起重要作用。
+
+#### 2. 主要觀念：
+   - **脂肪肝**：肝臟脂肪蓄積導致功能下降。
+   - **膽汁鹽的功能**：協助脂肪消化、維生素吸收（A、E、D、K2）、降低膽固醇並防止結石形成。
+
+#### 3. 問題原因：
+   - **酒精攝取**：主要來源之一。
+   - **非酒精性脂肪肝病（NAFLD）**：影響約20%人口，與高胰島素血症有關。
+   - **代謝問題**：
+     - 高糖和垃圾食物攝取導致「瘦胖子」現象。
+     - 胰島素促使碳水化合物轉化為肝臟脂肪，尤其是果糖。
+
+#### 4. 健康影響：
+   - **胰島素抵抗**：脂肪肝引發更多胰島素分泌，形成惡性循環。
+   - **甲狀腺功能減退**：膽汁不足干擾T4到T3的轉化。
+   - **腸道菌群失衡**：缺乏足夠膽汁鹽導致小腸细菌過生長（SIBO）。
+
+#### 5. 解決方法與健康建議：
+   - **飲食調整**：
+     - 減少酒精攝取。
+     - 控制糖分攝入，尤其是果糖。
+     - 增加膳食纖維和Omega-3脂肪酸攝取以降低炎症。
+   - **生活方式改變**：
+     - 通過運動來降低體脂和胰島素水平。
+     - 管理壓力，保持心理平衡。
+   - **定期檢查**：
+     - 使用超音波檢測脂肪肝。
+     - 監控血糖、血指標以早期發現問題。
+
+#### 6. 結論：
+   - 脂肪肝不僅影響肝臟功能，還會引發多種代謝和系統性問題。
+   - 須採取綜合措施改善生活方式，恢復膽汁鹽的正常生成，降低相關健康風險。
 </details>
 
 <details>
-<summary>1762. The Carboholic's Only Solution – High Carb Foods & Carb Cravings Dr.Berg</summary><br>
+<summary>1762. [2018-10-03] The Carboholic's Only Solution – High Carb Foods & Carb Cravings Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Xr6F8Mbf1nY" target="_blank">
     <img src="https://img.youtube.com/vi/Xr6F8Mbf1nY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理與分析
 
+#### 核心主題
+- **碳水化合物成癮及其生理影響**：探討對碳水化合物（carbs）的強烈渴望和依賴，並分析其背后的生理機制。
+- **解決策略**：提供科學化的解決方案，包括飲食調整和心理調適。
+
+#### 主要觀念
+1. **食物成癮與習慣的區別**：
+   - 成癮：失去控制，無法抗拒；身體對食物的渴望逐漸增強。
+   - 习惯：可自我控制，屬於日常ROUTINE。
+
+2. **成癮的根本原因**：
+   - 胰島素抵抗（Insulin Resistance）：長期攝入過多碳水化合物導致胰島素效果降低，使細胞無法有效吸收血糖，從而引發對糖的強烈渴望。
+   - 素食 spike of β-endorphins 和 dopamine：消費含糖食物時，腦內啡肽和多巴胺瞬間上昇，帶來短暫愉悅，但之後導致反彈性壓力和 craving。
+
+#### 問題原因
+1. **飲食習慣**：
+   - 過度攝取碳水化合物。
+   - 頻繁進食，打亂了血糖平衡。
+2. **生理機制**：
+   - 胰島素抵抗使細胞無法有效吸收葡萄糖，導致血糖水平失衡。
+   - β-endorphins 和 dopamine 的短期愉悅效應促使反覆消費含糖食物。
+
+#### 解決方法
+1. **飲食調整**：
+   - 減少精緻碳水化合物攝取，選擇高營養密度的食物。
+   - 清除家中垃圾食品，降低誘惑。
+2. **使用替代品**：
+   - 摂取酮 bombs（低碳水、高脂肪的甜點），幫助滿足對甜食的渴望而不影響胰島素水平。
+3. **營養補充**：
+   - 增加維生素B1和钾等關鍵營養素的攝取，保護細胞免受高血糖的傷害，並促進胰島素抵抗的康復。
+
+#### 健康建議
+- **逐步調整飲食結構**：避免 sudden changes，以免引起反彈。
+- **心理調適**：
+   - 認識到問題的物理性質，而非意志力不足。
+   - 減少壓力，尋找替代方式來應對壓力和情緒波動。
+
+#### 結論
+- 低碳水化合物飲食結合高營養補充是解決碳水化合物成癮的有效策略。
+- 通過科學調整飲食結構和心理調適，逐步康復胰島素抵抗，恢復血糖平衡。
 </details>
 
 <details>
-<summary>1761. What Type of Exercise Burns Fat? - Dr. Berg on Fat Burning Exercises</summary><br>
+<summary>1761. [2018-10-02] What Type of Exercise Burns Fat? - Dr. Berg on Fat Burning Exercises</summary><br>
 
 <a href="https://www.youtube.com/watch?v=i-MmwsNZ9OM" target="_blank">
     <img src="https://img.youtube.com/vi/i-MmwsNZ9OM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Key Points from the Article
 
+#### Core Theme: Comparing Aerobic and Anaerobic Exercise for Fat Burning
+- The article discusses the differences between aerobic (low-intensity) and anaerobic (high-intensity) exercises in terms of fat burning efficiency.
+
+#### Definitions:
+1. **Aerobic Exercise**:
+   - Low-intensity activities such as walking, swimming, or cycling.
+   - Characterized by the use of oxygen to sustain prolonged activity.
+2. **Anaerobic Exercise**:
+   - High-intensity activities like sprinting or heavy weight lifting.
+   - Occurs without the use of oxygen and is short-duration.
+
+#### Fat Burning Mechanism:
+1. **Aerobic Exercise**:
+   - Burns stored sugars (glycogen) for the first 30 minutes.
+   - After 30 minutes, it taps into fat stores for energy.
+   - The fat burning rate is moderate but consistent over time.
+2. **Anaerobic Exercise**:
+   - Primarily burns sugar during the workout.
+   - Fat burning occurs post-exercise (14-48 hours later) as part of the body's recovery and adaptation process.
+
+#### Benefits of Aerobic Exercise:
+- Enhances oxygen intake, reduces stress, improves brain function, and promotes brain cell regeneration.
+- Suitable for sustained fat burning over long periods.
+
+#### Advantages of Anaerobic Exercise:
+- Improves cardiovascular endurance and muscle strength.
+- Delays fat burning benefits, which manifest during recovery phases.
+
+#### Misconceptions Addressed:
+- Clarifies the difference between aerobic exercise (activity) and aerobics (a specific type of exercise).
+
+#### Recommendations for Optimal Results:
+1. **Exercise Duration**:
+   - Aerobic: Aim for at least 45 minutes to maximize fat burning.
+   - Anaerobic: Limit sessions to 20-40 minutes to prevent overtraining.
+2. **Recovery and Frequency**:
+   - Avoid excessive exercise frequency (e.g., daily) to allow the body to heal and recover.
+3. **Dietary Considerations**:
+   - Maintain a low-carb diet, especially when engaging in anaerobic exercises.
+   - Avoid high-sugar foods and beverages post-workout to enhance fat burning benefits.
+
+#### Conclusion:
+The article suggests combining both aerobic and anaerobic exercises for the best results. Aerobic exercise is ideal for steady fat burning, while anaerobic exercise enhances strength and cardiovascular endurance with delayed fat burning benefits during recovery. Proper rest and a low-carb diet are crucial to maximize the effectiveness of these workouts.
+
+---
+
+### Academic Summary
+The article provides a comprehensive comparison between aerobic and anaerobic exercises, focusing on their mechanisms of fat burning, benefits, and optimal implementation strategies. It emphasizes the importance of balancing both exercise types, maintaining proper recovery periods, and adhering to a low-carb diet to achieve maximal health and fitness outcomes.
 </details>
 
 <details>
-<summary>1760. Is Fast Weight Loss Healthy? - Dr. Berg</summary><br>
+<summary>1760. [2018-10-02] Is Fast Weight Loss Healthy? - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=rIHF_nZg2oM" target="_blank">
     <img src="https://img.youtube.com/vi/rIHF_nZg2oM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 重点整理：快速减肥是否健康？
 
+#### 核心主题：
+- 快速减肥的健康性取决于方法的选择和实施方式。
+
+#### 主要观念：
+1. **传统低热量饮食的问题**：
+   - 导致身体疲劳、饥饿感强烈、代谢率下降。
+   - 难以维持长期效果，易反弹。
+
+2. **低脂饮食的局限性**：
+   - 可能引发营养素（如脂肪溶性维生素和必需脂肪酸）缺乏。
+   - 影响内分泌系统功能，进而影响脂肪燃烧效率。
+
+3. **使用食欲抑制剂的风险**：
+   - 代谢压力增加， adrenal gland负担加重。
+   - 停用后体重反弹，并可能伴随副作用。
+
+#### 问题原因：
+- 快速减肥方法通常忽视营养均衡，导致代谢紊乱和健康隐患。
+- 长期低热量或低脂饮食引发营养缺乏，影响身体正常功能。
+
+#### 解决方法：
+1. **间歇性禁食**：
+   - 通过延长禁食时间（逐步过渡到每日一餐）实现快速减肥。
+   - 结合高营养价值的餐食，确保营养均衡。
+
+2. **饮食结构优化**：
+   - **蛋白质**：适量摄入高质量蛋白（如瘦肉、鱼类、鸡蛋）以维持代谢和肌肉量。
+   - **蔬菜**：大量摄入叶绿素丰富的蔬菜，提供纤维、维生素C、钾等 nutrients。
+   - **脂肪**：选择健康脂肪来源（如椰子油、黄油），避免加工脂肪。
+   - **低碳饮食**：将碳水化合物降至最低（接近于零），主要通过肉食和非淀粉类蔬菜实现。
+
+3. **营养补充策略**：
+   - 确保摄入足够的必需脂肪酸和维生素，尤其是脂肪溶性维生素A、D、E、K。
+   - 保持矿物质平衡，支持甲状腺功能和整体代谢健康。
+
+#### 健康建议：
+- 避免极端节食和依赖食欲抑制剂，选择可持续的饮食模式。
+- 结合间歇性禁食，合理安排餐次和营养比例，确保身体获得必要 nutrients。
+- 定期监测代谢状况，避免过度限制导致代谢率下降。
+
+#### 结论：
+- 快速减肥若采用健康方法（如间歇性禁食、低碳饮食），可实现安全且有效。
+- 关键在于维持营养均衡，避免因追求速度而忽视长期健康。
 </details>
 
 <details>
-<summary>1759. The Humira Alternative for Inflammation – Dr. Berg On Rheumatoid Arthritis Symptoms</summary><br>
+<summary>1759. [2018-10-01] The Humira Alternative for Inflammation – Dr. Berg On Rheumatoid Arthritis Symptoms</summary><br>
 
 <a href="https://www.youtube.com/watch?v=j_LNCT3KviY" target="_blank">
     <img src="https://img.youtube.com/vi/j_LNCT3KviY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **Humira**：一種 blockbuster 药物，主要用于降低炎症。
+- **慢性 inflammation 的治療**：探索 Humira 以外的替代方案。
+- **美國藥物濫用問題**：指出美國普遍存在過度依賴 Prescription Drugs 的現象。
 
+### 主要觀念
+1. **Humira 的功能與市場地位**：
+   - Humira 是一種抗炎藥，去年銷售額超過 160 億美元。
+   - 它是全球最畅销的藥物之一。
+
+2. **炎症的普遍性**：
+   - 炎症影響廣泛，包括關節炎、腱鞘炎等。
+   - 炎症與 autoimmune diseases 直接相關。
+
+3. **美國藥物濫用現象**：
+   - 70% 的美國人口至少使用一種 prescription drug。
+   - 每年开具超過 40 億張藥方，平均每人 13 張藥。
+   - 大部分藥方未被使用，主要是因為費用高昂。
+
+### 問題原因
+- **高糖、精製碳水化合物的影響**：
+  - 高血糖水平是炎症的重要觸發因素。
+  - 糖類和 vegetable oils（如 soy, corn, canola）均具有促炎性。
+  
+- **胰島素抵抗的問題**：
+  - 過高的胰島素水平會導致 insulin resistance。
+  - 胰島素抵抗進一步加劇炎症反應。
+
+- **飲食習慣與代謝失衡**：
+  - 病患通常攝取過多碳水化合物，導致血糖波動和代謝紊亂。
+  - 高頻率進食或零食的攝取使情況更糟。
+
+### 解決方法
+1. **飲食調整**：
+   - 循序降低碳水化合物攝取量，從而改善胰島素抵抗。
+   - 採取健康的低碳水飲食計劃（Healthy Ketosis）。
+
+2. ** intermittent fasting 的作用**：
+   - 總結：intermittent fasting 能進一步減輕炎症。
+   
+3. **生活方式的改變**：
+   - 了解飲食與 inflammation 的關聯，並執行相應調整。
+
+### 健康建議
+1. **諮詢專業醫師**：
+   - 在嘗試任何飲食計劃前，必須先諮詢醫生。
+
+2. **實驗飲食計劃的效果**：
+   - 鼓勵患者自行測試低醣、低碳水的飲食計劃，以評估其效果。
+
+3. **藥物依賴性的反思**：
+   - 強調了解炎症的根本原因的重要性，而非僅依賴止痛藥或抗炎藥。
+
+### 結論
+- 採取健康的飲食策略（如低醣、低碳水和間歇性禁食）可以有效降低炎症。
+- 雖然 Humira 是有效的抗炎藥，但應該結合生活方式的改變來全面管理 inflammation。
+- 值得進一步研究和實驗以證實這些飲食計劃的效果。
 </details>
 
 <details>
-<summary>1758. How Much Coffee Blocks Fat Burning? - Dr. Berg On Coffee and Weight Loss</summary><br>
+<summary>1758. [2018-10-01] How Much Coffee Blocks Fat Burning? - Dr. Berg On Coffee and Weight Loss</summary><br>
 
 <a href="https://www.youtube.com/watch?v=D-wBWu-dRg4" target="_blank">
     <img src="https://img.youtube.com/vi/D-wBWu-dRg4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Introduction  
+- The purpose of the video is to explore the relationship between coffee consumption and weight loss.  
+- A viewer raised concerns about excessive coffee intake potentially interfering with their ability to lose weight.  
 
+---
+
+### Key Themes  
+1. **Caffeine and Fat-Burning**:  
+   - Caffeine, a stimulant, can temporarily boost metabolism and fat burning.  
+   - However, excessive caffeine consumption may counteract fat-burning effects.  
+
+2. **Adverse Effects of Excessive Coffee Intake**:  
+   - Depletion of essential nutrients such as vitamin B1 and calcium.  
+   - Disruption of sleep patterns, which is critical for weight loss and recovery.  
+
+3. **Sleep Quality and Fat Burn**:  
+   - Sleep cycles (REM and Delta waves) play a significant role in fat burning and growth hormone release.  
+   - Poor sleep quality can hinder weight loss efforts.  
+
+4. **Exercise and Recovery**:  
+   - Lack of quality sleep due to caffeine disrupts muscle recovery and limits the benefits of exercise.  
+
+---
+
+### Problem Analysis  
+1. **Caffeine Overconsumption**:  
+   - Excessive caffeine intake leads to prolonged presence in the system, interfering with liver function and sleep.  
+
+2. **Sleep Deprivation**:  
+   - Poor sleep quality reduces fat burning and impairs recovery, negatively impacting weight loss.  
+
+3. **Exercise Ineffectiveness**:  
+   - Without adequate sleep, exercise results are diminished due to incomplete recovery.  
+
+---
+
+### Solutions and Recommendations  
+1. **Reduce Coffee Intake**:  
+   - Limit coffee consumption to a small amount (e.g., 8 ounces) in the morning.  
+   - Consider switching to decaffeinated coffee processed without harmful chemicals.  
+
+2. **Monitor Sleep Quality**:  
+   - Track weight before bed and upon waking to assess sleep-related fat loss.  
+   - Prioritize deep sleep (Delta wave) for optimal fat burning and recovery.  
+
+3. **Wean Off Caffeine Gradually**:  
+   - If addicted, reduce caffeine intake slowly to avoid withdrawal symptoms.  
+
+4. **Exercise and Recovery Balance**:  
+   - Ensure adequate sleep to maximize the benefits of exercise.  
+
+---
+
+### Health Recommendations  
+- Maintain a balanced diet and mindful hydration.  
+- Avoid excessive consumption of caffeinated beverages to prevent nutrient depletion and sleep disruption.  
+
+---
+
+### Conclusion  
+- Excessive coffee intake, particularly due to high caffeine levels, can negatively impact weight loss by disrupting sleep and impairing recovery.  
+- Reducing caffeine consumption, improving sleep quality, and balancing exercise with adequate rest are key strategies for effective weight management.  
+
+--- 
+
+This structured summary captures the core themes, issues, and solutions presented in the video, providing a clear and concise academic-style overview.
 </details>
 
 <details>
@@ -645,76 +1151,81 @@
         alt="[Youtube]" width="200">
 </a>
 
-### 归纳文章重点
-
-#### 核心主题
-- 高血压的成因及解决方案
-- 膳食盐与钾元素的关系
-- 间歇性禁食对高血压的影响
-- 维生素K2在动脉去钙化中的作用
-- 高胰岛素血症与高血压的关系
-
-#### 主要观念
-- 高血压不单纯由高钠饮食引起，还涉及钾元素的平衡。
-- 钾元素摄入不足是导致高血压的重要因素。
-- 膳食中维生素K2有助于去除动脉钙化沉积。
-- 高胰岛素血症与高血压密切相关，尤其是代谢综合征患者。
-
-#### 问题原因
-- **钠钾失衡**：现代饮食中钠摄入过多，而钾摄入不足，导致电解质紊乱。
-- **动脉钙化**：血管壁钙化加重高血压负担。
-- **高胰岛素血症**：长期过量碳水化合物摄入引发胰岛素抵抗，进而导致高血压。
-
-#### 解决方法
-- **增加钾元素摄入**：通过食用富含钾的蔬菜和水果（如菠菜、羽衣甘蓝）来改善钠钾平衡。
-- **补充维生素K2**：选择草饲肉类、乳制品或纳豆等食物来源，帮助去除血管钙化。
-- **控制碳水化合物摄入**：减少精制糖和加工食品的摄入，采用低碳饮食模式（如生酮饮食）。
-
-#### 健康建议
-- 每日蔬菜摄入量应至少达到7杯，理想情况下可增加至10杯以满足钾元素需求。
-- 优先选择天然食物来源获取维生素K2，而非补充剂形式。
-- 定期监测血压和血糖水平，及时调整饮食结构。
-
-#### 结论
-- 高血压的管理需要综合考虑饮食、营养素平衡及代谢因素。
-- 自然疗法（如增加钾摄入、补充维生素K2、控制碳水化合物）是改善高血压的有效途径。
-- 药物治疗应作为辅助手段，同时配合生活方式调整以达到最佳效果。
+### 核心主題  
+- 高血壓的原因及與干預策略  
+- 低碳水化合物飲食（如酮egenic diet）在調控血壓中的作用  
+- 短期禁食（intermittent fasting）的健康影響  
 
 ---
 
-### Conclusion
+### 主要觀念  
+1. **高血壓的傳統看法**：  
+   - 高血壓常被認為與過量攝取鈉（鹽）有關，加工食品中鈉含量較高。  
+   - 鈉潴留導致體液增加，進而升高血壓。
 
-#### Core Themes
-- Causes and solutions for hypertension
-- Relationship between dietary sodium and potassium
-- Impact of intermittent fasting on hypertension
-- Role of vitamin K2 in arterial decalcification
-- Connection between hyperinsulinemia and hypertension
+2. **鈉與鉀的平衡**：  
+   - 鈉和鉀在人體內需保持適當比例（1:4）。  
+   - 增加鉀攝取比单纯降低鈉更有效，可幫助正常化血壓。  
+   - 大眾通常攝取不足富含鉀的食物（如深色蔬菜），建議每日攝取量至少7杯。
 
-#### Key Concepts
-- Hypertension is not solely caused by excessive sodium intake but also involves potassium balance.
-- Insufficient potassium intake is a critical factor contributing to hypertension.
-- Vitamin K2 helps remove calcium deposits from arteries.
-- Hyperinsulinemia is closely linked to hypertension, particularly in metabolic syndrome patients.
+3. **動脈硬化與高血壓**：  
+   - 动脈钙化會導致血管僵硬，增加血壓。  
+   - 維生素K2（來源於脂肪性食物或納豆）可幫助去除動脈 excess calcium，並促進鈣質沉積在骨骼中。
 
-#### Problem Causes
-- **Sodium-Potassium Imbalance**: Excessive sodium intake with insufficient potassium leads to electrolyte紊乱。
-- **Arterial Calcification**: Calcium buildup in arterial walls exacerbates hypertension。
-- **Hyperinsulinemia**: Overconsumption of carbohydrates causes insulin resistance, leading to hypertension。
+4. **高胰島素血症與血壓升高**：  
+   - 高胰島素水平導致血管 stiffness 和血_pressure上升。  
+   - 與胰岛素抵抗有關，通常由過量攝取碳水化合物或頻繁進食引起。
 
-#### Solutions
-- **Increase Potassium Intake**: Consume potassium-rich vegetables and fruits (e.g., spinach, kale) to improve sodium-potassium balance。
-- **Supplement with Vitamin K2**: Obtain vitamin K2 from natural food sources like grass-fed meats, dairy products, or natto to aid arterial decalcification。
+5. **藥物副作用的影響**：  
+   - 降血脂藥（如他汀類）可能惡化糖尿病和胰岛素抵抗。  
+   - 利尿劑可能增加胰岛素抵抗和 diabetes 风險。
 
-#### Health Recommendations
-- Aim for a minimum of 7 cups of vegetables daily, ideally increasing to 10 cups to meet potassium needs。
-- Prioritize obtaining vitamin K2 through whole foods rather than supplements.
-- Regularly monitor blood pressure and glucose levels to adjust dietary intake accordingly.
+---
 
-#### Conclusion
-- Managing hypertension requires a holistic approach considering diet, nutrient balance, and metabolic factors。
-- Natural therapies (e.g., increased potassium intake, vitamin K2 supplementation, carbohydrate control) are effective in addressing hypertension。
-- Pharmacological treatment should serve as an adjunct, combined with lifestyle modifications for optimal results。
+### 問題原因  
+1. **營養失衡**：  
+   - 鈉攝取過量，鉀攝取不足。  
+   - 維生素K2攝取不足，導致動脈钙化。  
+
+2. **飲食習慣**：  
+   - 高碳水化合物飲食引發高胰岛素血症。  
+   - 過度依賴加工食品，攝取過多鹽分和糖分。  
+
+3. **藥物副作用**：  
+   - 降血壓藥物可能加重代謝紊亂（如 diabetes 和胰岛素抵抗）。  
+
+---
+
+### 解決方法  
+1. **營養調整**：  
+   - 增加富含鉀的食物攝取（如深色蔬菜、水果）。  
+   - 確保維生素K2足夠，可通過食用脂肪性食物（如草饲肉類、乳制品）或納豆來獲取。  
+
+2. **飲食策略**：  
+   - 采用低碳水化合物飲食（酮egenic diet），降低胰岛素水平。  
+   - 考慮短期禁食（intermittent fasting）以改善代謝健康。  
+
+3. **藥物使用注意**：  
+   - 使用降血壓藥物時需監控代謝指標，避免加重胰岛素抵抗。  
+
+---
+
+### 健康建議  
+1. **飲食建議**：  
+   - 每日攝取足夠的深色蔬菜（至少7杯）以補充鉀。  
+   - 選擇富含維生素K2的食物，如草饲肉類、乳制品或納豆。  
+
+2. **生活方式調整**：  
+   - 確保規律進食，避免過度攝取碳水化合物。  
+   - 考慮短期禁食以促進代謝健康。  
+
+3. **藥物使用建議**：  
+   - 在醫生指導下使用降血壓藥物，並定期檢查胰島素抵抗情況。  
+
+---
+
+### 結論  
+高血壓的病因複雜，涉及營養失衡、飲食習慣和藥物副作用等多方面因素。通過調整飲食結構（如增加鉀攝取、采用低碳水化合物飲食）、改善生活方式（如短期禁食）以及合理使用藥物，可以有效控制血壓並降低相關健康風險。
 </details>
 
 <details>
@@ -1029,27 +1540,61 @@
         alt="[Youtube]" width="200">
 </a>
 
-### Core Themes (核心主題)
-- **Nutritional Optimization**: Emphasizing the importance of nutrient-dense foods for overall health and energy.
-- **Intermittent Fasting**: Discussing the practice of intermittent fasting, its benefits, and common mistakes.
-- **Sleep Health**: Highlighting the role of quality sleep in energy levels and recovery.
+### 文章整理：提升能量與健康的生活策略
 
-### Key Concepts (主要觀念)
-1. **Nutrient-Dense Foods**: Focus on consuming high-quality foods such as kale, salmon, grass-fed beef, organic eggs, and various vegetables to ensure adequate nutrition.
-2. **Intermittent Fasting Benefits**: Intermittent fasting can help with fat burning and improving metabolic health when done correctly.
-3. **Common Mistakes in Fasting**: Many individuals sabotage their fasting efforts by consuming low-quality foods after fasting.
+---
 
-### Problem Causes (問題原因)
-- Poor food choices post-fasting, such as fast food or low-nutrient snacks, can negate the benefits of intermittent fasting.
-- Inadequate sleep quantity and quality can significantly impact energy levels and recovery.
+#### 1. 核心主題  
+文章圍繞如何通過調整飲食和生活習慣來提升身體能量水平並實現健康的目標。主要探討了低碳水化合物飲食（間歇性禁食）、營養攝取、睡眠品質等對人體能量和整體健康的重要影響。
 
-### Solutions and Health Recommendations (解決方法與健康建議)
-1. **High-Quality Nutrition**: Prioritize nutrient-dense foods to support energy and overall health.
-2. **Optimal Sleep Practices**: Aim for at least seven hours of quality sleep per night, and consider power naps if necessary.
-3. **Mindful Fasting**: Gradually adapt to intermittent fasting and avoid poor food choices after fasting periods.
+---
 
-### Conclusion (結論)
-- Combining proper nutrition, intermittent fasting, and sufficient sleep can lead to improved energy levels, better health outcomes, and a more vibrant lifestyle.
+#### 2. 主要觀念  
+- **間歇性禁食的重要性**：通過限制進食窗口，增強脂肪燃燒能力，提升身體的能量水平。  
+- **營養密度的關鍵作用**：攝取高營養價值的食物（如深色蔬菜、高質量蛋白質和健康脂肪）以支持整體健康。  
+- **睡眠品質的影響**：充足的睡眠是恢復精力和維持能量平衡的基礎。
+
+---
+
+#### 3. 問題原因  
+- **飲食低劣**：很多人在斷食後攝取營養價值低的食物（如速食或加工食品），導致體內營養不足，無法支撐脂肪燃燒和能量提升。  
+- **缺乏足夠睡眠**：睡眠不足會影響身體的復原能力，降低白天的能量水平。  
+- **營養失衡**：現代飲食中普遍存在高 inflammatory 食物（如大豆油、玉米油），破壞了身體的炎症反應和能量代謝。
+
+---
+
+#### 4. 解決方法  
+- **優化飲食結構**：  
+  - 選擇 nutrient-dense 的食物，例如 kale、深海魚、 pasture-raised 蛋等。  
+  - 減少 inflammatory 食物的攝取，如加工油和速食。  
+  - 增加健康脂肪的攝入（如核桃、杏仁）以支持腦部和免疫系統功能。  
+
+- **改善睡眠品質**：  
+  - 确保每晚至少七小時的睡眠，必要時可補充短時間的午睡。  
+  - 通過飲食调整（如攝取鎂、色氨酸等營養素）或技術手段來促進深度睡眠。  
+
+- **逐步調整禁食計劃**：  
+  - 從短時間禁食開始，逐漸增加禁食時長，讓身體適應脂肪燃燒模式。  
+
+---
+
+#### 5. 健康建議  
+- **飲食建議**：  
+  - 選擇高質量蛋白質來源（如 pasture-raised 蛋、 grass-fed 牛肉）。  
+  - 多攝取 omega-3 經脂酸，以支持心臟、皮膚和腦部健康。  
+
+- **睡眠建議**：  
+  - 確保每天有足夠的睡眠時間並保持良好的睡覺質量。  
+  - 避免電子產品干擾，創造寧靜的睡眠環境。  
+
+- **生活習慣建議**：  
+  - 減少 inflammatory 食物攝取，選擇 nutrient-dense 的食物來源。  
+  - 適當運動，促進身體代謝和能量水平。  
+
+---
+
+#### 6. 結論  
+通過調整飲食結構、改善睡眠品質和逐步適應禁食模式，可以有效提升身體的能量水平和整體健康狀況。關鍵在於選擇高營養價值的食物，保持規律的作息，並避免低劣飲食的影響。這些策略相結合，能夠幫助人們實現更高效能和健康的目標。
 </details>
 
 <details>
