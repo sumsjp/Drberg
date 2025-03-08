@@ -1,12 +1,12 @@
 REM @echo off
 
-REM è‡ªå‹•åˆ‡æ›åˆ° bat æª”æ¡ˆè‡ªèº«æ‰€åœ¨çš„ç›®éŒ„
+REM ¦Û°Ê¤Á´«¨ì bat ÀÉ®×¦Û¨­©Ò¦bªº¥Ø¿ı
 cd /d "%~dp0"
 
-REM å•Ÿå‹•è™›æ“¬ç’°å¢ƒ
+REM ±Ò°ÊµêÀÀÀô¹Ò
 call Scripts\activate.bat
 
-REM åŸ·è¡Œ Python è…³æœ¬
+REM °õ¦æ Python ¸}¥»
 git pull
 python src/update_youtube.py
 git pull
@@ -14,5 +14,5 @@ git add .
 git commit -am .
 git push
 
-REM åœç”¨è™›æ“¬ç’°å¢ƒï¼ˆå¯é¸ï¼‰
+REM °±¥ÎµêÀÀÀô¹Ò¡]¥i¿ï¡^
 call Scripts\deactivate.bat
