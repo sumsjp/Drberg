@@ -3746,157 +3746,741 @@ MCT油具備多樣化的健康益處，特別是在能量供應、酮osis induce
 </details>
 
 <details>
-<summary>2430. Why I am Losing Inches But Not Weight? No Weight Loss on Keto – Dr.Berg</summary><br>
+<summary>2430. [2019-09-27] Why I am Losing Inches But Not Weight? No Weight Loss on Keto – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=eMuvGSzy-QQ" target="_blank">
     <img src="https://img.youtube.com/vi/eMuvGSzy-QQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節化整理
 
+#### 核心主題
+- 失去體脂但體重未下降的情況及其原因與解決方法。
+- 解釋為何身體在特定情況下優先修復肌肉而非直接減肥。
+
+#### 主要觀念
+1. **代謝率降低與胰島素抵抗**：慢代謝和胰島素抵抗是導致體脂減少但體重不下降的主要原因之一。
+2. **胰島素的功能**：胰島素負責將營養物質（如糖分、氨基酸）運輸到細胞內，並促進肌肉蛋白合成。
+3. **酮症與斷食的效果**：酮飲食和斷食可以改善胰島素抵抗，增強蛋白吸收，從而修復肌肉萎縮。
+
+#### 問題原因
+- 胰島素抵抗導致蛋白質吸收不足，影響肌肉生長和修復。
+- 體重計未顯示變化可能因肌肉量增加與脂肪減少的綜合效果。
+
+#### 解決方法
+1. **改善胰島素敏感性**：通過酮飲食和斷食來降低胰島素水平，增進其有效性。
+2. **增加蛋白質攝取**：優先吸收氨基酸以修復肌肉，增肌同時減脂。
+3. **接受健康優先於減肥的理念**：身體在恢復健康（如修復肌肉）後才會有效減肥。
+
+#### 健康建議
+1. **持續進行酮飲食與斷食**：這有助於逐步改善代謝功能和胰島素抵抗。
+2. **關注體能與形體變化**：即使體重未下降，也可以通過其他指標（如肌肉張力、衣物尺寸）來評估進展。
+3. **耐心與堅持**：健康恢復需要時間，短期內可能只會看到體脂減少和肌肉增加。
+
+#### 結論
+- 體重計數未變可能意味著身體正在修復而非減肥。
+- 改善胰島素抵抗和蛋白質吸收是關鍵，這將導致體脂下降和肌肉量增加。
+- 健康恢復為首要目標，短期內的體重結果不必過於焦慮。
 </details>
 
 <details>
-<summary>2429. Is Carbonated Water Healthy Compared to Non Carbonated Water? Dr.Berg on Drinking Carbonated Water</summary><br>
+<summary>2429. [2019-09-26] Is Carbonated Water Healthy Compared to Non Carbonated Water? Dr.Berg on Drinking Carbonated Water</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KqKlNU3ITtY" target="_blank">
     <img src="https://img.youtube.com/vi/KqKlNU3ITtY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **Dagger 50 BS Cabriolet**: 文章圍繞對 dagger 50 bs cabriolet 的討論，涉及其性能、設計和可能的改裝。
+- **openssl**: 加密技術及其在系統安全中的應用。
 
+### 主要觀念
+- **_gradation cavill**: 舊化或損耗現象，影響產品壽命。
+- **bart' s sc toba 50 wins by a lever**: 可能指某種機械裝置的設計優勢。
+- **hp-ux empty**: 操作系統閒置狀態下的性能表現。
+- **organic add what side this all was**: 生物材料在結構或裝飾上的應用。
+- **spoof roi a so not**: 假冒或仿冒產品的問題。
+- **sprout in p pipe iphone compared to select bar 3 other kirk power oil**: 比較不同設備或技術的性能差異。
+
+### 問題原因
+- **_gradation cavill**: 裝置的老化導致性能下降。
+- **oporfilthy grass every cavill**: 環境因素影響產品壽命。
+- **denier turn goara across**: 材料疲勞或設計缺陷引發的故障。
+
+### 解決方法
+- **order or an overly big gradation cavill**: 定期檢查和維護以延長使用壽命。
+- **dance php phone bow etc select behind**: 使用高品質材料和先進技術來改進產品性能。
+- **elephant baria a cabaret ps books**: 通過優化設計來提高可靠性和耐用性。
+
+### 健康建議
+- **exhalation poetic 10**: 注意個人呼吸健康，保持良好的生活習慣。
+- **envious chase write that day makeup**: 適當休息，避免过度劳累。
+
+### 結論
+- **Dagger 50 BS Cabriolet** 在性能和設計上有其優越性，但也存在老化和環境影響等挑戰。
+- openssl 技術在加密領域具有重要地位，但需注意安全漏洞的防范。
+- 需進一步研究和改進材料與設計，以提升產品整體表現。
 </details>
 
 <details>
-<summary>2428. Dr.Berg Explains What Breaks a Fast and What Does not Break a Fast</summary><br>
+<summary>2428. [2019-09-26] Dr.Berg Explains What Breaks a Fast and What Does not Break a Fast</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hjWnxTv1c2g" target="_blank">
     <img src="https://img.youtube.com/vi/hjWnxTv1c2g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 归納整理
 
+#### 核心主題
+本文主要探討在低碳水化合物（酮ogenic）飲食中，不同食物和添加物對血糖、酮症及體重管理的影響。
+
+---
+
+#### 主要觀念
+1. **酮ogenic diet的基本特性**：
+   - 限制碳水化合物攝取以促使身體進入酮症狀態。
+   - 高脂肪、足夠蛋白質是此飲食模式的核心。
+   
+2. **食物與添加物的分類**：
+   - **高影響力食物**：可能顯著干擾酮症（如糖、加工食品）。
+   - **低影響力食物**：對酮症及血糖影響較小或可接受（如某些蔬菜、健康脂肪）。
+
+---
+
+#### 問題原因
+1. **食物選擇不當**：
+   - 選擇高碳水化合物或高糖分的食物會迅速提高血糖，破壞酮症。
+   - 某些加工食品可能含有潛在的抗營養因子（如PHYIC ACID），影響 mineral 吸收。
+
+2. **飲食過於極端**：
+   - 完全排除所有碳水化合物可能导致營養不均衡或短期效果不佳。
+
+---
+
+#### 解決方法
+1. **食物選擇策略**：
+   - 選擇低GI（升糖指數）食物，如非淀粉類蔬菜。
+   - 使用零卡路里甜eners，如史提伐雅（Stevia）和猴面包樹果（Monk Fruit）。
+
+2. **脂肪攝取注意**：
+   - 適量攝取健康脂肪（如橄欖油、椰子油），避免過量以保持體重-loss效果。
+   - 選擇未加工或低溫處理的脂肪來源，如生奶油。
+
+3. **微量營養素管理**：
+   - 补充必要的維生素和礦物質，尤其是被 PHYIC ACID 抑制吸收的鐵和鋅。
+
+---
+
+#### 健康建議
+1. **飲食結構**：
+   - 確保每日脂肪攝取量在合理範圍（如75克），並保持足夠蛋白質。
+   - 減少加工食品和高糖分食物的攝取。
+
+2. ** beverage選擇**：
+   - 選擇零碳水化合物飲料，如不甜ened茶或咖啡。
+   - 檸檬汁可少量加入飲料中，但需注意份量以避免血糖波動。
+
+3. **脂肪使用**：
+   - 优先選擇未加工的天然脂肪來源，如生奶油和橄欖油。
+
+4. **微量營養素補充**：
+   - 考慮補充鐵和鋅，尤其是攝取高PHYIC ACID食物時。
+
+---
+
+#### 結論
+酮ogenic diet是一種有效的體重管理和血糖控制方法，但成功取決於嚴格的食物選擇和合理的飲食結構。通過避免高碳水化合物和高糖分食物、合理使用健康脂肪、注意微量營養素平衡，可以實現長期的健康目標。
 </details>
 
 <details>
-<summary>2427. What is Seaweed? – Dr.Berg Explains Roasted Seaweed Benefits</summary><br>
+<summary>2427. [2019-09-25] What is Seaweed? – Dr.Berg Explains Roasted Seaweed Benefits</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ZaofYAZ5BO4" target="_blank">
     <img src="https://img.youtube.com/vi/ZaofYAZ5BO4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 罗asted seaweed（烤海藻）作为一种营养丰富的食品，具有多方面的健康益处。
+- 海藻作为植物性食物，能够从海水中提取并浓缩矿物质。
 
+### 主要觀念
+1. **营养价值**：
+   - 富含多种矿物质，包括碘、硒、锌、铁等微量元素。
+   - 提供维生素（如维生素C、B族）、氨基酸以及DHA和EPA等Omega-3脂肪酸。
+2. **健康益处**：
+   - 支持甲状腺功能（特别是碘的作用）。
+   - 抵抗雌激素过多及其对内分泌系统的干扰。
+   - 具有抗氧化作用，帮助清除重金属（如汞）。
+   - 促进消化、大脑功能和睾酮水平。
+3. **适用人群**：
+   - 对于素食者，DHA和EPA是优质来源。
+   - 小孩子适量食用可补充矿物质。
+
+### 問題原因
+- 消费者可能对海藻中重金属（如汞）的存在表示担忧。
+- 海藻的污染风险取决于其生长环境。
+
+### 解決方法
+1. **选择高质量产品**：
+   - 来自清洁海洋环境的产品更可靠。
+   - 优先选择有机认证的海藻制品。
+2. **适量食用**：
+   - 尤其是碘含量较高，过量摄入可能对健康产生负面影响。
+
+### 健康建議
+- 定期将烤海藻纳入饮食中，以补充必要的矿物质和营养素。
+- 对于儿童，建议控制摄入量，避免过量。
+- 注意选择来源可靠的海藻产品，确保其安全性。
+
+### 結論
+烤海藻是一种营养丰富、健康益处显著的食品。适当食用可以有效补充微量元素和Omega-3脂肪酸，支持整体健康。消费者应关注产品的来源和质量，并根据自身需求适量摄入。
 </details>
 
 <details>
-<summary>2426. How to Fix the Swollen Face (Facial Puffiness) and Puffy Eyes – Dr.Berg</summary><br>
+<summary>2426. [2019-09-25] How to Fix the Swollen Face (Facial Puffiness) and Puffy Eyes – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Sxs7xSg2CaA" target="_blank">
     <img src="https://img.youtube.com/vi/Sxs7xSg2CaA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：臉部和眼睛腫脹的成因與解決方法
 
+---
+
+#### 核心主題  
+- **問題**：面部和眼部腫脀（edema）的成因及其影響。
+- **目標**：探討腫脀的原因、分類及有效的治療與預防方法。
+
+---
+
+#### 主要觀念  
+1. **腫脀的定義**  
+   - 腫脀是指體內過多液體在細胞内外積累，特別是在acellular space（組織間隙）。
+   - 可能影響面部、眼睛、足踝等部位。
+
+2. **腫脀的分類**  
+   - **特發性腫脀**：原因不明。
+   - **病理性腫脀**：由心臟病、肝硬化、糖尿病等疾病引起。
+
+3. **腫脀的表現**  
+   - 面部和眼部腫脀。
+   - 足踝可見凹陷性腫脀（pitting edema）。
+   - 皮膚可能呈現光亮外觀，或腿部脱发。
+
+---
+
+#### 問題原因  
+1. **飲食因素**  
+   - 高碳水化合物攝取： refined carbohydrates and sugars 擴agas water retention.
+   - 每克碳水化合物可結合3克水分，導致體內水分潴留。
+   - 低蛋白飲食可能導致血漿外液漏出到組織間隙。
+
+2. **鹽分攝取過量**  
+   - 高鹽 diet 可增加腎臟負擔，導致水潴留。
+
+3. **電解質失衡**  
+   - 高碳水化合物攝取會耗竭體內鉀離子（potassium），影響利尿功能。
+   - 正常每日所需鉀攝取量為4,700毫克，但現代飲食通常不足。
+
+---
+
+#### 解決方法  
+1. **飲食調整**  
+   - **降低碳水化合物攝取**：將每日碳水攝取量降至50克以下，或更低至20克。
+   - **增加鉀的攝取**：通過大量攝取蔬菜（尤其是深色葉菜）、食用發酵蔬果、蛋類和瘦肉來補充鉀。
+
+2. **生活方式調整**  
+   - 減少鹽分攝取。
+   - 增加運動，促進水分排出。
+
+---
+
+#### 健康建議  
+1. **飲食建議**  
+   - 以高纖維、低GI食物為主，避免精制碳水化合物和糖分。
+   - 每餐攝取大量蔬菜（如大型沙拉），補充鉀和其他 minerals.
+
+2. **運動習慣**  
+   - 觀察到適當的身體活動可促進新陳代謝及水分排出。
+
+3. **監測與調整**  
+   - 定期評估腫脀情況，根據需要調整治療方案。
+
+---
+
+#### 結論  
+- 腫脀主要由高碳水化合物和鹽分攝取過量導致。
+- 降低碳水攝取、增加鉀的攝取及均衡飲食是有效消除面部和眼部腫脀的方法。
+- 配合適當運動和鹽分控制，可進一步改善整體液電平衡。
 </details>
 
 <details>
-<summary>2425. The Health Benefits of Aloe Vera – Aloe Vera for Skin and Digestion – Dr.Berg</summary><br>
+<summary>2425. [2019-09-24] The Health Benefits of Aloe Vera – Aloe Vera for Skin and Digestion – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=4fVsj2oERcU" target="_blank">
     <img src="https://img.youtube.com/vi/4fVsj2oERcU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 探讨loe vera 的多方面用途及其在健康和医疗中的作用。
 
+---
+
+### 主要觀念  
+1. **營養密度**：Aloe vera富含礦物質、維生素和植物化學物（phytonutrients）。  
+2. **皮膚保養**：對抗紫外線灼傷和痤瘡有顯著效果。  
+3. **頭髮與免疫系統**：促進頭髮健康，增強免疫力。  
+4. **消化系統**：幫助緩解胃食道逆流、GERD、潰瘍及腸易激惹症候群（IBS）等問題。  
+5. **抗菌與抗真菌性**：具有良好的抗菌和抗真菌效果。  
+6. **便秘缓解**：可作為天然輕泻劑，需注意選擇低添加物的產品。  
+
+---
+
+### 問題原因  
+1. **飲食不良**：現代飲食中常見垃圾食品和加工食品，導致身體缺乏必要營養素，削弱療效。  
+2. **醫療體系局限**：傳統醫學過於注重症狀而非根源病因，影響治療效果。  
+
+---
+
+### 解決方法  
+1. **選擇高品質loe vera**：優先選用天然、未添加防腐劑和化學物的產品。  
+2. **改善飲食結構**：推薦低碳水化合物（生酮飲食）和間歇性禁食，以从根本解決健康問題。  
+3. **結合其他療法**：如太陽灼傷可考慮搭配維生素D治療。  
+
+---
+
+### 健康建議  
+- 在使用loe vera或其他天然療法前，先評估個人飲食習慣並進行適當調整。  
+- 醫療專業人員應更重視飲食與整體健康的關聯性。  
+
+---
+
+### 結論  
+Aloe vera 確為一種多功能的自然療法，但其療效依賴於個體的整體健康狀況，尤其是飲食質素。要最大化其效果，建議結合健康的生活方式和飲食調整，而非單純依賴任何单一療法。
 </details>
 
 <details>
-<summary>2424. What Are Telomeres & Why They Are Important in Anti-Aging – Dr.Berg on Telomeres and Aging</summary><br>
+<summary>2424. [2019-09-24] What Are Telomeres & Why They Are Important in Anti-Aging – Dr.Berg on Telomeres and Aging</summary><br>
 
 <a href="https://www.youtube.com/watch?v=uqaR1q2trG8" target="_blank">
     <img src="https://img.youtube.com/vi/uqaR1q2trG8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- **Telomeres（端粒）**：DNA分子末端的保護結構，與細胞老化和 lifespan 相關。
+
+#### 主要觀念
+1. **Telomeres 的功能**：
+   - Telomeres 是染色體末端的 DNA 結構，類似鞋帶末端的塑膠 Protector。
+   - 它們在每次細胞分裂時會逐漸短縮，保護基因不因端粒消耗殆盡而損壞。
+
+2. **Telomeres 與 Aging 的關係**：
+   - 隨著年齡增長，Telomeres 短縮導致基因表達降低，影響修復功能。
+   - 實例：某些兒童天生 Telomeres 短小，身體狀況如老年人， lifespan 受限。
+
+3. **Cancer Cells 的特殊性**：
+   - 癌細胞能產生.telomerase（端粒酶），維持 Telomeres 長度，從而無限期分裂。
+
+#### 問題原因
+- **Telomeres 矮.Shortening**：導致基因表達受限，影響修復和免疫功能。
+- **Aging Process**：Telomeres 短縮是衰老的生物標誌之一。
+
+#### 解決方法
+1. **酶的作用**：
+   - Telomerase 可延長 Telomeres，抑制其短縮。
+   - 相關研究：目前主要在動物和細菌中進行，人類研究仍屬初步階段。
+
+2. **植物補充劑**：
+   - 例如 Astragalus（黄芪），可能具有.boost telomerase activity 和抗衰老效果。
+   - 研究結果尚不充分，需更多臨床試驗支持。
+
+#### 健康建議
+1. **飲食調整**：
+   - 採用健康低碳水化合物的酮式飲食（healthy keto）。
+   - 減少高糖和精緻碳水化合物攝取，控制胰島素水平。
+
+2. **生活方式改善**：
+   - 定期進行微量斷食（intermittent fasting），促進細胞修復和再生。
+
+3. **針對性強化**：
+   - 根據個人健康弱點（如心臟、免疫系統或腎臟）制定策略，降低疾病風險。
+
+#### 結論
+- Telomeres 的研究為抗衰老和癌症治療提供新方向。
+- 雖然目前尚無法證實特定補充劑的延壽效果，但通過改善生活方式可有效增強健康，延長 lifespan。
+- 未來的研究將進一步揭示 Telomerase 和 Astragalus 的潛能。
 </details>
 
 <details>
-<summary>2423. A Much Faster Way to Get Dr.Berg's Wheatgrass Juice Powder</summary><br>
+<summary>2423. [2019-09-23] A Much Faster Way to Get Dr.Berg's Wheatgrass Juice Powder</summary><br>
 
 <a href="https://www.youtube.com/watch?v=6mnjqJ99R1U" target="_blank">
     <img src="https://img.youtube.com/vi/6mnjqJ99R1U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 推廣高品質的小麥草粉末及其產品。  
 
+### 主要觀念  
+1. 小麥草粉末的來源：  
+   - 來自古代海洋盆地的一千英畝有機農場。  
+   - 生長周期為六個月，確保高品質。  
+2. 製品特點：  
+   - 恰當加工，保持「幾乎是生」狀態。  
+3. 網站新功能：  
+   - 提供快速取貨選項，減少 shipping 乾涸時間。  
+
+### 問題原因  
+- 遇到客戶投訴.shipping 和 transportation 時間較長（最多兩天）。  
+
+### 解決方法  
+1. 引入新功能：  
+   - 客戶可直接從購物車取貨，提高便利性。  
+2. 提供自制小麥草汁的教學：  
+   - 分享秘訣，連結至農場網站，展示如何提取小麥草汁。  
+
+### 健康建議  
+1. 小麥grass juice 的健康益處：  
+   - 含豐富的葉綠素，有助於修復腸胃道。  
+   - 提供多種微量元素、維生素和植物營養素。  
+2. 摂取建議：  
+   - 每天早晨空腹飲用，可與咖啡一起服用。  
+
+### 結論  
+- 小麥草粉末及其汁液是高品質、健康的產品，值得試用。  
+- 提供多種便利選項，方便客戶隨時取得。
 </details>
 
 <details>
-<summary>2422. 5 Reasons Why You Need More Salt in Diet? – Dr.Berg on Salt Intake</summary><br>
+<summary>2422. [2019-09-23] 5 Reasons Why You Need More Salt in Diet? – Dr.Berg on Salt Intake</summary><br>
 
 <a href="https://www.youtube.com/watch?v=dl5QTM7mQNY" target="_blank">
     <img src="https://img.youtube.com/vi/dl5QTM7mQNY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題  
+文章主要探討了為什麼某些人可能需要攝取更多鹽的原因及情境，強調鹽在身體健康中的重要性。
+
+---
+
+#### 主要觀念  
+1. **鹽的生理功能**：鹽對維持血容量、血液壓力平衡、神經肌肉功能等具有重要作用。  
+2. **低鹽症的危害**：低鹽可能導致心臟問題、低血糖、腎臟損害等 serious 側 effects。  
+3. **不同健康狀況下的鹽需求**：如艾迪生氏症（Addison's disease）患者因 adrenal 激素不足，需更多鹽；庫欣氏症（Cushing's syndrome）患者則因鹽過量 retention，需注意鹽平衡。
+
+---
+
+#### 問題原因  
+1. **低腎上腺功能（Low Adrenals）**：如艾迪生氏症，導致鹽分流失過多。  
+2. **過度攝取水分**：若未補充足夠的鹽和其他礦物質，可能引發低血鈉症（Hyponatremia）。  
+3. **大量流汗**：運動員或在高溫環境下工作的人，鹽分流失速度增加。  
+4. **低碳水化合物飲食（如生酮 diet）**： ketogenic 饮食會促使體內水分和礦物質流失。  
+5. **攝取大量蔬菜**：高钾食物攝取過多，若鹽分不足，可能引發 potassium 大量堆積。
+
+---
+
+#### 解决方法  
+1. **低腎上腺功能患者**：增加鹽的攝取，建議使用未加工的海鹽（如喜马拉雅鹽或 Celtic 盐）。  
+2. **過度飲水者**：補充鹽分和礦物質，避免低血鈉症。  
+3. **運動後流汗多的人**：及時補充鹽分，建議攝取富含礦物質的海鹽。  
+4. ** ketogenic 饮食者**：每日最少攝取一茶匙海鹽，並可考慮使用電解質粉末補充劑。  
+5. **高蔬菜攝取者**：配合攝取足夠的鹽分，避免 potassium 大量堆積。
+
+---
+
+#### 健康建議  
+1. 選擇未加工的海鹽（如喜马拉雅鹽或 Celtic 盐），因其含有多種微量元素。  
+2. 適當補充鹽分，尤其在特殊飲食模式（如 ketogenic diet）或大量流汗後。  
+3. 避免過度攝取水分而不補充鹽分，以防低血鈉症等健康問題。  
+4. 平衡钾和鹽的攝取，特別是在攝取大量蔬菜時。
+
+---
+
+#### 結論  
+鹽是維持人體正常功能的重要物質。在某些特殊情況下（如低腎上腺功能、 ketogenic diet、大量流汗或高蔬菜攝取），適當增加鹽分攝取可以預防健康問題，但需注意不要過量。建議根據個人健康狀況和飲食模式，諮詢醫生或營養師以制定適合的鹽分攝取計劃。
 </details>
 
 <details>
-<summary>2421. What is Bulletproof Coffee? – Dr. Berg's Coffee Hack</summary><br>
+<summary>2421. [2019-09-23] What is Bulletproof Coffee? – Dr. Berg's Coffee Hack</summary><br>
 
 <a href="https://www.youtube.com/watch?v=SN3XLnH2Tz8" target="_blank">
     <img src="https://img.youtube.com/vi/SN3XLnH2Tz8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章要點整理
 
+#### 核心主題
+- **Bulletproof Coffee 的介紹與變體**
+- **酮飲食（Keto Diet）及其相關健康益處**
+
+#### 主要觀念
+1. **Bulletproof Coffee 的基本組成**
+   - 由咖啡、草饲牛油和中鏈脂肪酸 oils (MCT oil) 組成。
+   - 被設計用於酮飲食，能延長禁食時間並提供能量。
+
+2. **酮飲食的初期挑戰**
+   - 開始酮飲食時，身體需數天至數週才能有效產生酮體。
+   - 在此期間，可能出现酮 fatigue 或腦霧等不適症狀。
+
+3. **Bulletproof Coffee 的改良版本**
+   - 加入少量低GI糖分（如赤inoa）以微調血糖水平。
+   - 加入高 cocoa含量的可可粉或無糖巧克力，增強其營養與認知功能。
+
+#### 問題原因
+- 酮飲食初期酮體不足可能導致腦 fog 和疲勞。
+- 純素Bulletproof Coffee可能缺乏某些營養素或風味。
+
+#### 解決方法
+1. **加入可可粉的益處**
+   - 提供額外的抗氧化劑（如多酚）、鎂和鐵。
+   - 含有微量咖啡因類物質（如theobromine），提神醒腦。
+   - 可提升整體營養均衡和口感。
+
+2. **適合的可可選擇**
+   - 選用100%可可含量的產品，以最大化營養價值。
+   - 替代品如Lily's（含甜菊糖和紅根糖精）可供低糖需求者使用。
+
+#### 健康建議
+1. **血糖控制**
+   - 少量加入低GI糖分（如赤inoa），可幫助穩定血糖，避免劇烈波動。
+   
+2. **營養均衡**
+   - 使用高 cocoa含量的可可粉或無糖巧克力，以增強整體營養價值和健康功效。
+
+3. **睡眠考量**
+   - 避免在晚上攝取含咖啡因的食物，以免影響睡眠品質。
+
+4. **酮飲食的平衡**
+   - 經常添加外來酮源（如MCT oil）可能抑制自身酮體生成，需適當調控使用量。
+
+#### 結論
+- 加入可可粉的Bulletproof Coffee不僅提升了口感和營養價值，還提供了額外的健康益處。
+- 針對酮飲食初期的挑戰，此改良版本能有效緩解不適症狀，同時增強整體健康效果。
 </details>
 
 <details>
-<summary>2420. What is Snoring & How to Get Your Spouse to Stop Snoring? – Dr. Berg</summary><br>
+<summary>2420. [2019-09-22] What is Snoring & How to Get Your Spouse to Stop Snoring? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=n0XBe4eLDGA" target="_blank">
     <img src="https://img.youtube.com/vi/n0XBe4eLDGA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：鼾症的原因與解決方案
 
+#### 主要觀念：
+1. **鼾症的定義**：鼾症是由喉部結構張力降低引起的振動聲響，通常與肥胖、脂肪分布異常或神經系統功能障礙有關。
+2. **鼾症的分類**：
+   - **阻塞性睡眠呼吸中斷症（OSA）**：因頸部或腹腔脂肪堆積導致呼吸道狹窄。
+   - **中枢性睡眠呼吸中斷症（CSA）**：與神經系統控制有關，特別是自主神經系統和相關神經故障。
+
+#### 啕症的原因：
+1. **解剖結構因素**：
+   - 頭頸部脂肪堆積阻塞呼吸道。
+   - 腹腔 visceral fat 墮亂導致膈肌壓力增加。
+2. **神經系統功能障礙**：
+   - 自主神經系統（ANS） dysfunction，影響舌咽神經（第九對颅神經）、迷走神經（第十對颅神經）和胸腹神經（phrenic nerve）。
+   - 糖尿病或前期糖尿病導致的周邊神經病变（neuropathy），進一步干擾呼吸道張力。
+
+#### 啕症的影響：
+1. **生理影響**：
+   - 頻繁醒來，睡眠品質下降。
+   - 脈搏率和血氧濃度異常，增加心血管疾病風險。
+2. **代謝相關問題**：
+   - 高碳水化合物飲食導致維生素B1（硫胺素）缺乏。
+   - 胰島素抗性與肥胖相互作用，加重鼾症。
+
+#### 解決方法：
+1. **營養干預**：
+   - **增加維生素B1攝取**：通過腫瘤酵母或サプリメント補充，改善神經功能和代謝紊亂。
+2. **飲食調整**：
+   - 採用健康版生酮飲食（healthy keto），降低胰島素抗性並促進脂肪燃燒。
+3. **干預措施**：
+   - **短期禁食**：配合生酮飲食，進一步改善代謝功能。
+4. **補充劑**：
+   - **維生素D3**：每日20,000 IU，提升深度睡眠品質，調節自主神經系統功能。
+
+#### 健康建議：
+1. **生活方式調整**：
+   - 保持規則的運動習慣，特別是有氧運動，以降低體脂。
+   - 確保充足的日光曝露，促進維生素D合成。
+2. **監測與治療**：
+   - 定期追蹤睡眠品質和相關健康指標。
+   - 考慮專業醫療干預，如使用CPAP機器或其他呼吸療法。
+
+#### 結論：
+鼾症不僅影響睡眠品質，還與多種代謝和神經系統疾病密切相關。透過調整飲食結構、補充關鍵營養素及改善生活方式，可以有效减轻症状並預防進一步的健康問題。
 </details>
 
 <details>
-<summary>2419. Are Laxatives for Chronic Constipation Dangerous for Long Term? – Dr.Berg</summary><br>
+<summary>2419. [2019-09-22] Are Laxatives for Chronic Constipation Dangerous for Long Term? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Iit6A2ItvB0" target="_blank">
     <img src="https://img.youtube.com/vi/Iit6A2ItvB0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 此文章的核心主題是討論瀉藥的安全性及其在治療便秘中的作用，並探討便秘的根本原因及相關解決方法。
 
+### 主要觀念
+(a) 經常使用瀉藥可能存在一定的危險性，例如 addiction 和 electrolyte imbalance。
+(b) 經常 constipation 的危險性遠高於瀉藥的副作用，包括 toxins reabsorption 危害健康。
+(c) 諸如 cascara Sagrada 之 herbal laxatives 是安全有效的選擇。
+
+### 問題原因
+(i) Constipation 可能由 diet 改變引起，例如 fibre 消耗或攝入過多蛋白質。
+(ii) 長期 constipation 可能與 bile salt 缺乏、vitamin B1 deficiency 或 mineral deficiencies（如 potassium 和 magnesium）有關。
+(iii) 綠色蔬菜攝取不足可能導致 microbe 不足，進而影響消化功能。
+(iv) 抗生素濫用可能破壞腸道微生態平衡。
+
+### 解決方法
+(A) 使用 herbal laxatives 如 cascara Sagrada 來緩解 constipation。
+(B) 調整飲食結構，增加或減少 fibre 取，以恢復腸胃健康。
+(C) 补充 MCT oil 和 bile salts 可幫助改善 constipation 症狀。
+(D) 採用 probiotics 補充劑來恢復腸道菌群平衡。
+(e) 進行短期 fasting 可讓消化系統得到休息和重置。
+
+### 健康建議
+- 避免濫用瀉藥，以免導致 dependency 或 electrolyte imbalance。
+- 經常攝取富含 magnesium 和 potassium 的蔬菜，以預防 constipation。
+- 注意 diet 變化的影響，適時調整飲食結構。
+- 若有慢性 constipation，建議諮詢專業醫療人員尋找根本原因。
+
+### 結論
+- 虽然瀉藥存在一定風險，但相對於 constipation 帶來的健康危害，其危險性較低。
+- 便秘問題應該從 diet、microbiome 平衡和腸道健康等多方面入手，採取綜合性的治療策略。
 </details>
 
 <details>
-<summary>2418. What is A1C Test? Is it an Accurate Blood Test? – Dr.Berg</summary><br>
+<summary>2418. [2019-09-21] What is A1C Test? Is it an Accurate Blood Test? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=pl8Gdu2nZpY" target="_blank">
     <img src="https://img.youtube.com/vi/pl8Gdu2nZpY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 討論血糖監測與糖尿病管理。
+- 强調A1C指數的局限性及其替代檢測方法。
 
+---
+
+### 主要觀念
+1. **A1C指數的定義與作用**：
+   - A1C指數反映過去3個月平均血糖水平，用於評估血液中葡萄糖附著在紅血球上的情況。
+   - 正常值：<5.7%
+   - 糖尿病診斷標準：≥6.5%
+
+2. **A1C指數的臨床意義**：
+   - A1C水平與微血管和大血管並發症風險密切相關。
+   - 每降低1%，糖尿病死亡率下降27%，微血管並發症風險降低37%，心肌梗死風險降低40%。
+
+---
+
+### 問題原因
+1. **A1C指數的局限性**：
+   - A1C受紅血球壽命影響，糖尿病人紅 blood cell turnover rate 短於健康人（81天 vs 146天），導致結果可能不準確。
+   - 其他因素如貧血、地中海貧血、镰刀型細胞性貧血等會干擾測試結果。
+
+2. **黎明現象與血糖波動**：
+   - 早晨血糖偏高可能與激素變化（腎上腺素、皮質醇、生長激素、胰高血糖素）有關。
+   - 腺苷生成增加和脂肪分解產物（如glycerol）轉化為葡萄糖，導致血糖上升。
+
+---
+
+### 解決方法
+1. **優化血糖檢測**：
+   - 採用 fasting glucose 或 post-prandial glucose 測試以獲得更准確的血糖水平。
+   - 使用HOMA-IR（家禽胰島素抵抗指數）評估胰島素抵抗情況。
+
+2. **管理和改善胰島素抗性**：
+   - 通過運動、飲食調整和藥物治療來降低胰島素抗性。
+   - 考慮使用GLP-1受體激動劑或SGLT2抑制劑來幫助控制血糖。
+
+---
+
+### 健康建議
+1. **血糖監測**：
+   - 定期檢查 fasting glucose 和 post-prandial glucose，避免依賴单一的A1C指數。
+   - 在疑問時諮詢醫生，進行更全面的血糖評估。
+
+2. **生活方式調整**：
+   - 保持規律運動，促進胰島素敏感性。
+   - 選擇低糖、高纖維飲食，控制血糖波動。
+   - 管理壓力，避免激素失衡進一步影響血糖水平。
+
+3. **跟蹤與評估**：
+   - 定期評估血糖控制效果，根據情況調整治療方案。
+   - 注意黎明現象的可能存在，必要時進行多時間點血糖監測。
+
+---
+
+### 结論
+- A1C指數雖有其局限性，但仍是一種有用的血糖評估工具。
+- 結合其他檢測方法（如fasting glucose、HOMA-IR）和生活方式干預，可以更全面地管理和控制糖尿病。
+- 針對早晨血糖偏高現象，需考慮胰島素抗性和黎明現象的可能性，並采取相應措施改善血糖控制。
+
+---
+
+此整理涵蓋了文章的核心內容，結構清晰，符合學術化的表達風格。
 </details>
 
 <details>
-<summary>2417. Food Poisoning: Causes, Symptoms & Treatment by Dr.Berg</summary><br>
+<summary>2417. [2019-09-21] Food Poisoning: Causes, Symptoms & Treatment by Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=6BxL8XnbwY8" target="_blank">
     <img src="https://img.youtube.com/vi/6BxL8XnbwY8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理：食物中毒的處理與康復指南
 
+#### 1. 核心主題
+- 食物中毒是由消費受污染的食物引起的疾病，通常涉及細菌、病毒或寄生蟲。
+- 症狀包括 nausea, vomiting, diarrhea, fever 和腹痛。
+
+#### 2. 主要觀念
+- 食物中毒是免疫系統與病原體的鬥爭。
+- 身體會在1至48小時內恢復，但恢復時間因人而異。
+- 抗生素使用需謹慎，因其可能對病毒無效並有副作用。
+
+#### 3. 問題原因
+- 病因：食用受污染食物，含有病原微生物（細菌、病毒、寄生蟲）。
+- 免疫系統 strength 影響恢復時間。
+- 胃酸不足可能導致微生物進入消化道。
+
+#### 4. 解決方法
+- **補充電解質**：丟失的水分和礦物質需及時補充，可飲用含電解質的液體。
+- **促進胃酸分泌**：
+  - 使用蘋果醋或貝塔aine鹽酸（HCl）來增強胃酸功能。
+  - 蘋果醋可加速恢復，可通過飲用稀釋的溶液或藥片形式攝取。
+- **吸附毒素**：
+  - 活性碳和班陶恩黏土可用作吸附劑，幫助消除體內毒素。
+
+#### 5. 健康建議
+- 避免立即使用止瀉藥，讓身體自然排出毒素。
+- 禁食或限制飲食，以減輕腸胃負擔。
+- 清淡飲食：恢復期間食用發酵或醃制食品（如泡菜、酸椰菜），促進腸道康復。
+
+#### 6. 结論
+- 食物中毒通常可自愈，關鍵在於支持身體恢復。
+- 自然療法如補充胃酸、吸附毒素和清淡飲食是有效的輔助治療方法。
+- 適當的醫療干預（如嚴重脫水）不可忽視。
 </details>
 
 <details>
@@ -3911,58 +4495,267 @@ MCT油具備多樣化的健康益處，特別是在能量供應、酮osis induce
 </details>
 
 <details>
-<summary>2415. What Is Oxidation – Dr.Berg on Free Radicals and Antioxidants</summary><br>
+<summary>2415. [2019-09-19] What Is Oxidation – Dr.Berg on Free Radicals and Antioxidants</summary><br>
 
 <a href="https://www.youtube.com/watch?v=4Oowx4269Ig" target="_blank">
     <img src="https://img.youtube.com/vi/4Oowx4269Ig/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章主題：氧化反應與抗氧化劑的作用及健康影響
 
+---
+
+#### 核心主題  
+- 氧化反應（Oxidation）是指在物質中添加氧或失去電子的过程。
+- 自由基（Free Radicals）是由氧化反應產生的不穩定分子，具有攻擊性，會導致組織和DNA損傷。
+- 抗氧化劑（Antioxidants）的作用是中和自由基，維持身體的氧化平衡。
+
+---
+
+#### 主要觀念  
+1. **氧化反應的定義與影響**  
+   - 氧化反應最初指添加氧氣到化合物中，現代擴展為任何導致自由 radicals 生成的過程。  
+   - 自由 radicals 具有未配對電子，會攻擊其他分子，引發氧化應激（Oxidative Stress）。  
+
+2. **抗氧化劑的功能**  
+   - 抗ioxidants 通過捐贈電子或中和自由 radicals， stabilizes 不稳定的原子。  
+   - 抗oxidants 通常以 network 形式存在，相互幫助恢復穩定性。  
+
+3. **氧化應激的來源**  
+   - 高糖攝取：血糖濃度升高會導致大量自由 radicals 生成，加重氧化應激。  
+   - 損害脂肪：高度不飽和脂肪酸（如 ω-6 脂肪酸）容易氧化，增加自由 radicals 的產生。  
+   - 遊離金屬離子：過多的金屬（如鐵）會促進氧化反應，導致組織損害。  
+
+---
+
+#### 問題原因  
+1. **飲食因素**  
+   - 高糖飲食：導致血糖濃度升高，引發大量自由 radicals 生成。  
+   - 損害脂肪：工業化 vegetable oils（如大豆油、玉米油）含有高比例 ω-6 脂肪酸，容易氧化並生成更多自由 radicals。  
+
+2. **環境與加工因素**  
+   - 環境污染和化學物質增加身體的氧化負擔。  
+   - 加工食品中含有的 vegetable oils 受到重複加熱和回收，導致嚴重氧化並產生有害副產物（Advanced Lipid Oxidation End Products, ALEOs）。  
+
+3. **抗氧化劑不足**  
+   - 遠離蔬菜水果等富含抗氧化劑的食物，會導致氧化應激失衡。  
+
+---
+
+#### 解決方法與健康建議  
+1. **飲食調整**  
+   - 減少高糖攝取：控制血糖水平，降低氧化應激。  
+   - 替代有害脂肪：避免使用高度加工的 vegetable oils，選擇更健康的脂肪來源（如椰子油、橄欖油）。  
+
+2. **增加抗氧化劑攝取**  
+   - 多食用富含抗氧化劑的食物：如 berries、坚果、深綠色蔬菜等。  
+   - 注意食品添加物：避免含有有害抗氧化劑（如 Ethoxyquin）的加工食品。  
+
+3. **健康生活方式**  
+   - 選擇健康的烹調方式，避免食物氧化。  
+   - 警惕餐廳用油：注意外出就餐時可能使用的工業化 vegetable oils。  
+
+---
+
+#### 結論  
+- 氧化反應和自由 radicals 是身體正常代謝的副產品，但過度的氧化應激會導致健康問題。  
+- 適當攝取抗氧化劑、避免氧化應激來源（如高糖和有害脂肪）是維持健康的關鍵。
 </details>
 
 <details>
-<summary>2414. The Best Anti Aging Foods for the Brain – Foods for Brain Health – Dr.Berg</summary><br>
+<summary>2414. [2019-09-19] The Best Anti Aging Foods for the Brain – Foods for Brain Health – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=BItR5vMquHU" target="_blank">
     <img src="https://img.youtube.com/vi/BItR5vMquHU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：腦健康的多面策略
 
+---
+
+#### 1. **核心主題**
+本文探討了影響腦健康的主要因素，包括營養缺乏、環境毒素、缺氧和代謝紊亂等，並提出了一系列針對性的解決方案。
+
+---
+
+#### 2. **主要觀念**
+- 腦功能受限於多種生理和環境因素。
+- 营養不足（如B1、碘、硒）會影響記憶力和整體腦健康。
+- 毒素積累（如重金屬）干擾抗氧化系統，增加氧化應激。
+- 缺氧導致腦損傷，可能由外傷或睡眠呼吸中斷引起。
+- 膳食選擇和生活方式直接影響腦代謝和抗氧化能力。
+
+---
+
+#### 3. **問題原因**
+- **營養缺乏**：B1、碘、硒、維生素D等微量營養素的不足會導致MEMORY喪失和其他神經退化症。
+- **毒素積累**：汞等金屬中毒會耗竭抗氧化劑，削弱防禦機制。
+- **缺氧**：腦部供氧不足由外傷、中風或睡眠呼吸暫停綜合征引起。
+- **代謝紊亂**：高糖飲食和酒精消耗導致B1快速耗盡，影響線粒體功能。
+
+---
+
+#### 4. **解決方法**
+- **營養補充**：
+  - **B族維生素**：尤其是B1，改善MEMORY功能。
+  - **碘和硒**：通過海帶等食物攝取，增強抗氧化能力。
+  - **維生素D**： sunlight暴露或サプリメントを摂取。
+- **排毒支持**：
+  - 減少毒物接觸，增加硒攝入以解毒汞。
+- **氧供提升**：
+  - 高強度間歇訓練（HIIT）和有氧運動增強腦血流。
+  - 使用高壓氧艙治療缺氧區域。
+- **抗oxidant support**：
+  - 增加富含抗氧化劑的食物攝取，如深色蔬菜和水果。
+
+---
+
+#### 5. **健康建議**
+- 確保均衡飲食，多攝取深海魚類、Shellfish、 dark leafy greens和坚果。
+- 定期進行有氧運動以促進腦部血液循環。
+- 大於10-20分鐘的日光浴，以合成足夠的維生素D。
+- 考慮補充B族維生素，尤其是B1，避免高糖飲食。
+- 適當使用高壓氧療法來治療缺氧相關疾病。
+
+---
+
+#### 6. **結論**
+腦健康是一個多面體，涉及營養、運動和環境等多重因素。通過針對性地補充必要 nutrient和改善生活方式，可以有效預防和治療與腦功能障礙相關的問題。
 </details>
 
 <details>
-<summary>2413. Dr. Berg's Favorite Keto Food of the Week: Sir Kensington's Mayonnaise – Keto Mayonnaise</summary><br>
+<summary>2413. [2019-09-18] Dr. Berg's Favorite Keto Food of the Week: Sir Kensington's Mayonnaise – Keto Mayonnaise</summary><br>
 
 <a href="https://www.youtube.com/watch?v=GiArs6WToT8" target="_blank">
     <img src="https://img.youtube.com/vi/GiArs6WToT8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 探討Sir Kensington蛋黃醬和芥末醬的成分分析及其健康影響。
 
+### 主要觀念  
+1. Sir Kensington蛋黃醬的主要成分包括：  
+   - 太陽花油  
+   - 蛋 yolks  
+   - 水  
+   - 有機萊姆汁  
+   - 蒸餾醋  
+   - 盐  
+   - 公正貿易的有機甘蔗糖  
+   - 希臘 McCormick香料（包括黑胡椒、芥末粉、辣椒粉等）。  
+
+2. Sir Kensington芥末醬的主要成分包括：  
+   - 水  
+   - 蒸餾醋  
+   - 芥末種子  
+   - 盐  
+   - 公正貿易的有機甘蔗糖  
+   - 印度豆蒄、藏紅椒、丁香和肉桂等調味料。  
+
+### 問題原因  
+- 尽管Sir Kensington蛋黃醬和芥末醬不含常見的大宗添加劑如GMO成分，但兩個產品中均添加了少量的公正貿易有機甘蔗糖，這可能不符合部分消費者對於低糖或無糖產品的需求。  
+
+### 解決方法  
+1. 與公司接洽以移除產品中的糖分，特別是因為糖分含量低於1克，有可能完全去除而不影響產品口感和質地。  
+
+2. 採納替代方案，例如：  
+   - 研究其他無糖蛋黃醬和芥末醬的品牌。  
+   - 制作自家手工調味料，以控制成分和添加劑。  
+
+### 健康建議  
+1. 注意食品包裝上的營養標籤，特別是糖分含量。  
+2. 選擇低糖或無糖的調味品，以符合個人健康目標（如低碳水化合物、低糖飲食）。  
+3. 考慮自制調味料，以更好地控制成分和添加劑。  
+
+### 結論  
+Sir Kensington蛋黃醬和芥末醬在整體成分上表現良好，但微量糖分的添加可能影響其成為完全健康的选择。消費者可通过與公司溝通或尋找其他替代產品來進一步優化選擇。
 </details>
 
 <details>
-<summary>2412. Is it Bad to Crack Your Own Neck? Neck Cracking Side Effects – Dr.Berg</summary><br>
+<summary>2412. [2019-09-18] Is it Bad to Crack Your Own Neck? Neck Cracking Side Effects – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=M4W-v9JD2eM" target="_blank">
     <img src="https://img.youtube.com/vi/M4W-v9JD2eM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：頸椎 cracking 的影響與健康管理
 
+#### 主要觀念：
+1. **頸椎結構特性**：
+   - 頸椎 joints 分為 hypermobile（過度活動）和 hypomobile（活動受限）兩種類型。
+   - 多數人自我調整時，往往只針對 hypermobile 的部位，導致其逐漸鬆弛。
+
+2. **健康問題的來源**：
+   - 頻繁 cracking 可能引發結構性損傷，並造成持續的需求。
+   - 腫瘤、營養不良或jaw 經絡失衡等全身性問題可能影響頸椎健康。
+
+#### 問題原因：
+1. **自我調整的風險**：
+   - 非專業操作易導致 joints 更加鬆弛，甚至損傷周圍組織。
+   - 不當操作可引起其他並發症，如 sinus 阻塞等。
+
+2. **外界因素影響**：
+   - 經絡失衡、牙科問題或內臟疾病（如膽囊問題）可能間接導致頸椎不適。
+
+#### 解決方法：
+1. **專業治療建議**：
+   - 尋找合格且經驗豐富的 chiropractor，根據具體需求進行調整。
+   - 減少自我調整次數，避免結構性損傷。
+
+2. **替代療法**：
+   - 增加伸展運動，促進 neck 和 spine 的健康。
+   - 通過 intermittent fasting 或 ketosis 等方式改善整體健康狀況，間接解決頸椎問題。
+
+#### 健康建議：
+1. **生活方式調整**：
+   - 減少對頸椎的過度使用和壓力。
+   - 保持良好的姿勢，避免長時間維持不良姿勢。
+
+2. **定期檢查**：
+   - 定期進行 chiropractic 檢查，早期發現並處理問題。
+   - 如有牙科或內臟疾病，及時治療以防止其影響到頸椎健康。
+
+#### 結論：
+- 頸椎 cracking 不宜過度依賴，專業治療和綜合性健康管理是關鍵。
+- 減少自我調整，增加伸展運動，並注意整體健康，才能有效預防和改善頸椎問題。
 </details>
 
 <details>
-<summary>2411. Why the Strong Ammonia Odor in My Urine on Keto? Foul Smelling Urine on Ketogenic Diet – Dr.Berg</summary><br>
+<summary>2411. [2019-09-17] Why the Strong Ammonia Odor in My Urine on Keto? Foul Smelling Urine on Ketogenic Diet – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=qRgZWS5iScs" target="_blank">
     <img src="https://img.youtube.com/vi/qRgZWS5iScs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：酮飲食中尿液氨味的原因及影響
 
+#### 主要觀念：
+- **蛋白質代謝與氨產生**：蛋白質在人體內代谢後，會生成氨（ammonia），氨最終以尿素形式排出體外。
+- **酸性尿液的影響**：當血液呈輕度酸性時，會刺激氨的生產，用於中和酸性環境。
+
+#### 問題原因：
+- **酮飲食的代謝特點**：酮飲食增加脂肪燃燒，降低碳水化合物攝取，導致身體產生更多酮體。酮體可能使血液呈酸性，進而刺激氨的生成。
+- **肝臟健康的重要性**：肝功能受損（如肝硬化）會影響蛋白質代謝，導致氨在血液中積累，引發毒性反應。
+
+#### 解決方法：
+- **增加鹼性食物攝取**：通過食用富含礦物質（如鎂和鈣）的蔬菜來提高尿液pH值，降低酸性。
+- **保持足夠的水分攝取**：充足 hydration 可幫助稀釋尿液，減輕氨味。
+
+#### 健康建議：
+- **-monitoring 酮症水平**：酮飲食者應注意酮症的程度，避免過高的酮體生成。
+- **定期健康檢查**：特別是有肝臟疾病風險的人群，需定期監測肝功能和血液中的氨濃度。
+
+#### 結論：
+- 在酮飲食中，尿液氨味通常是人體對酸性環境的正常反應，並非有害。但仍需注意肝臟健康，並通過飲食調整來平衡酸鹼度。
+
+### 中文摘要：
+
+本文探討了在酮飲食中尿液呈現強烈氨味的原因及其影響。蛋白質代謝過程中產生的氨是其主要成因，尤其當血液呈輕度酸性時，氨的生成會顯著增加以中和酸性。文章指出，酮飲食可能導致血液酸化，刺激氨的生成，但只要肝臟功能正常，此現象通常無害。為降低尿液氨味，建議增加富含礦物質的蔬菜攝取，保持足夠水分，並注意酮症的程度。結論強調，在酮飲食中遇到尿液氨味通常是正常的生理反應，但仍需密切關注肝臟健康和整體代謝狀況。
 </details>
 
 <details>
