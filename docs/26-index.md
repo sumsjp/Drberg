@@ -3358,113 +3358,625 @@ The article discusses the comparative health impacts of vaping and smoking, high
 </details>
 
 <details>
-<summary>2637. Benefits of Probiotics That You’ve Never Considered</summary><br>
+<summary>2637. [2020-01-18] Benefits of Probiotics That You’ve Never Considered</summary><br>
 
 <a href="https://www.youtube.com/watch?v=--cRXv4C85o" target="_blank">
     <img src="https://img.youtube.com/vi/--cRXv4C85o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章總結與分析
 
+#### 1. 核心主題
+- **文章核心**：主要圍繞音樂表演、個人健康問題（如脱发）以及社交互動展開。
+- **核心元素**：
+  - 音樂表演活動，包括歌詞創作和現場演唱。
+  - 個人健康管理，特別是脱发問題。
+  - 社交環境中的互動與壓力。
+
+#### 2. 主要觀念
+- **音樂表現**：
+  - 提及多首歌曲名稱及其背後的故事，如《Seoul Garage》、《Rx Dream 4 Nights》等。
+  - 强調音樂在表達情感和個人資訊方面的作用。
+- **健康問題**：
+  - 論述脱发的影響及個人感受。
+  - 呼籲注意壓力管理和健康管理。
+- **社交互動**：
+  - 描述在公共場合中的壓力和不適。
+  - 提到希望獲得理解和支持。
+
+#### 3. 問題原因
+- **音樂方面**：
+  - 歌詞創作與表演壓力大，導致情緒波動。
+  - 缺乏足夠的休息和準備時間。
+- **健康問題**：
+  - 長期高壓工作引發脱发。
+  - 維生素攝取不足、生活不規律等個人習慣影響。
+- **社交方面**：
+  - 公共場合的注目焦點引發焦虑。
+  - 缺乏心理調節能力，無法有效應對外界壓力。
+
+#### 4. 解決方法
+- **音樂方面**：
+  - 制定合理的排練和表演計劃，避免過度負荷。
+  - 與團隊溝通，分攤工作壓力。
+- **健康問題**：
+  - 建立規律的作息時間，保證充足睡眠。
+  - 平衡飲食，攝取足夠的蛋白質和維生素。
+  - 考慮專業治療脱发的方法，如藥物或植發。
+- **社交方面**：
+  - 學習壓力管理技巧，如深呼吸、冥想等。
+  - 運動來緩解壓力，增強自信心。
+  - 與心理諮詢師溝通，尋求心理支持。
+
+#### 5. 健康建議
+- **心理健康**：
+  - 注意情緒調節，避免長期處於高壓狀態。
+  - 興趣愛好應與工作保持平衡，避免過度投入。
+- **身體健康**：
+  - 定期體檢，及時發現和處理健康問題。
+  - 避免不良生活習慣，如熬夜、飲酒過度等。
+
+#### 6. 結論
+- **音樂的雙刃劍**：雖然音樂是表達情感的重要方式，但過度投入可能影響身心健康。
+- **綜合管理的重要性**：在追求夢想的同时，需注重身體和心理的健康管理。
+- **社會支持的必要性**：良好的社交環境和心理支持對個人發展至關重要。
+
+---
+
+### 總結
+本文主要探討了音樂表演、個人健康問題及社交互動之間的相互影響。通過分析文章內容，可以得出以下結論：
+1. 音樂雖然是作者的重要表達方式，但過度投入可能導致身心俱疲。
+2. 諮商量和健康管理是維持身心健康的重要因素。
+3. 社會支持和心理輔導在應對壓力和挑戰中具有不可忽視的作用。
 </details>
 
 <details>
-<summary>2636. Intermittent Fasting Patterns for Different Situations</summary><br>
+<summary>2636. [2020-01-18] Intermittent Fasting Patterns for Different Situations</summary><br>
 
 <a href="https://www.youtube.com/watch?v=aW2w0T4B5HM" target="_blank">
     <img src="https://img.youtube.com/vi/aW2w0T4B5HM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Article Summary and Key Points
 
+#### Core Themes:
+- **Intermittent Fasting:** The article discusses various intermittent fasting protocols and their effects on different bodily systems.
+- **Health Benefits of Fasting:** Focuses on the physiological and biochemical changes that occur during fasting, including growth hormone regulation, cellular repair, inflammation reduction, cancer prevention, stem cell activation, weight loss, and diabetes management.
+
+#### Major Concepts:
+1. **Growth Hormone Regulation:**
+   - Growth hormone (GH) is an anti-aging hormone that promotes fat burning, muscle preservation, and overall health.
+   - GH levels increase after 12 hours of fasting, peaking around 24 hours.
+   - Exercise and sleep also contribute to GH elevation.
+
+2. **Autophagy (Etapa G):**
+   - Defined as the body's process of recycling damaged proteins and eliminating pathogens.
+   - Peaks around 18 hours of fasting, offering benefits such as:
+     - Reduced amyloid plaques in Alzheimer’s patients.
+     - Improved liver health by breaking down cirrhosis or fibrosis.
+     - Removal of advanced glycation end-products (AGEs), which are harmful sticky proteins formed from sugar and protein interactions.
+
+3. **Inflammation Reduction:**
+   - Intermittent fasting, particularly the "One Meal a Day" (OMAD) protocol, reduces inflammation by limiting oxidative stress and promoting cellular repair.
+   - Beneficial for chronic inflammatory conditions and overall health optimization.
+
+4. **Cancer Prevention:**
+   - Fasting inhibits cancer cell growth and enhances the efficacy of chemotherapy.
+   - Cruciferous vegetables consumed during feeding windows can limit tumor blood supply, aiding in cancer prevention.
+
+5. **Stem Cell Activation:**
+   - Prolonged fasting (e.g., 72 hours) reduces PKA levels, activating stem cells that promote tissue regeneration and repair.
+   - Particularly beneficial for brain, immune system, and colon health.
+
+6. **Stubborn Weight Loss:**
+   - Intermittent fasting is effective for addressing stubborn fat, especially in individuals with a history of diabetes.
+   - The OMAD protocol (eating every 48 hours) can help tap into fat reserves when traditional methods fail.
+
+7. **Diabetes Management:**
+   - Fasting helps reduce blood sugar levels by minimizing carbohydrate intake.
+   - Requires careful monitoring and medical adjustment to prevent hypoglycemia, especially in diabetic patients on medications.
+
+#### Problems and Causes:
+- **Chronic Diseases:** Many modern health issues, such as diabetes, obesity, and neurodegenerative diseases, are linked to poor dietary habits, insulin resistance, and inflammation.
+- **Aging and Cellular Degradation:** The accumulation of damaged cells and AGEs contributes to aging-related diseases.
+
+#### Solutions and Recommendations:
+1. **Intermittent Fasting Protocols:**
+   - **Time-Restricted Feeding:** Eat within an 8-hour window, fasting for the remaining 16 hours.
+   - **One Meal a Day (OMAD):** Consume all calories in a single feeding window every 24-48 hours.
+   - **Prolonged Fasting:** Fast for 72 hours periodically to activate stem cells and enhance cellular repair.
+
+2. **Dietary Recommendations:**
+   - Focus on nutrient-dense foods during feeding windows, including:
+     - Leafy greens.
+     - Cruciferous vegetables (e.g., broccoli, kale).
+     - High-quality proteins and fats.
+
+3. **Lifestyle Modifications:**
+   - Incorporate regular exercise to complement fasting and boost GH levels.
+   - Ensure adequate sleep for optimal hormone regulation and recovery.
+
+4. **Medical Considerations:**
+   - Consult healthcare providers before starting any fasting regimen, especially for those with diabetes or other health conditions.
+   - Regular blood sugar monitoring is essential for diabetic patients.
+
+#### Conclusion:
+- Intermittent fasting offers a promising approach to improving metabolic health, reducing inflammation, and preventing chronic diseases.
+- Individual responses vary, so it is crucial to experiment with different protocols and consult healthcare professionals to ensure safety and effectiveness.
 </details>
 
 <details>
-<summary>2635. Can't Sleep Without Carbs? – Try These Sleep Remedies by Dr. Berg</summary><br>
+<summary>2635. [2020-01-17] Can't Sleep Without Carbs? – Try These Sleep Remedies by Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=haaYMq1IZ1U" target="_blank">
     <img src="https://img.youtube.com/vi/haaYMq1IZ1U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：酮egenic飲食與睡眠問題的關聯性
 
+#### 主要觀念：
+1. **酮egenic飲食的影響**：
+   - 酮egenic飲食可能引發或加重胰島素抵抗，尤其是在長期存在胰島素 resistant 的個體中。
+   - 低血糖（hypoglycemia）在夜间可能导致失眠或其他睡眠障礙。
+
+2. **激素的作用**：
+   - 胰島素抵抗導致血液中胰島素水平升高，即便碳水化合物攝取量降低，仍然可能引發血糖下降。
+   - 低血糖會 trig 直昇激素（adrenaline）和皮質醇（cortisol），這兩種激素會干擾睡眠。
+
+#### 問題原因：
+1. **胰島素抵抗**：
+   - 長期存在的胰島素抵抗在酮egenic飲食中可能無法立即解決，需數月甚至一年時間來恢復平衡。
+   
+2. **低血糖問題**：
+   - 降低碳水化合物攝取後，高胰島素水平可能導致夜间血糖過低。
+
+3. **神經系統刺激**：
+   - 高蛋白飲食可能在晚上 stimulant 神经系統，影響睡眠。
+
+4. **營養不足**：
+   - 經常忽略蔬菜攝取，導致钾、鎂等礦物質缺乏，進一步影響神經和激素平衡。
+   
+5. **環境因素**：
+   - 低維生素D水平可能與睡眠障礙相關。
+
+#### 解決方法及健康建議：
+1. **營養調整**：
+   - **增加蔬菜攝取**：每日至少7杯，補充钾、鎂等礦物質。
+   - **補充電解質**：直接攝取 potassium、鎂和 calcium 來平衡神經系統。
+   - **飲用蘋果醋**：睡前服用可幫助穩定血糖並降低胰島素水平。
+
+2. **蛋白攝取時間控制**：
+   - 調整晚間的蛋白攝取量，避免過量刺激神经系统。
+
+3. **微量營養素補充**：
+   - 確保維生素B1（硫胺素）充足，以支持能量代謝、脈搏穩定和情緒平衡。
+   
+4. **カフェイン管理**：
+   - 限制咖啡和茶的攝取，建議每日只喝一小杯晨間飲品。
+
+5. **使用外源性酮體**：
+   - 遊離酮鹽（exogenous ketones）可作為睡前補充劑，穩定血糖並減少對碳水化合物的依賴。
+
+6. **維生素D supplementation**：
+   - 確保充足的日光浴或服用維生素D supplements，以促進更好的睡眠質量。
+
+7. **環境和生活方式調整**：
+   - 考慮睡前放鬆活動，避免電子產品使用，創造良好的睡眠環境。
+
+#### 結論：
+酮egenic飲食雖然帶來一些健康益處，但也可能引發或加重某些健康問題，如胰島素抵抗和低血糖。針對這些問題，通過調整飲食結構、補充必要的營養素以及優化生活方式，可以有效緩解睡眠障礙，改善整體健康狀況。堅持實施這些建議將有助於實現酮egenic飲食的目標，同時保持良好的夜間休息質量。
 </details>
 
 <details>
-<summary>2634. Baking Soda vs (ACV) Apple Cider Vinegar for Indigestion – Dr.Berg Answers Which is Better?</summary><br>
+<summary>2634. [2020-01-16] Baking Soda vs (ACV) Apple Cider Vinegar for Indigestion – Dr.Berg Answers Which is Better?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=D-h4RKeR_sg" target="_blank">
     <img src="https://img.youtube.com/vi/D-h4RKeR_sg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 探讨使用烘焙 Soda（碳酸氢钠）和苹果醋（Apple Cider Vinegar, ACV）缓解消化不良的效果差异及其长期影响。
+
+#### 主要觀念
+- 人体酸碱平衡的重要性：血液 pH 值需维持在狭窄的范围（7.35 至 7.45），偏离此范围可能导致酸中毒或碱中毒。
+- 胃部酸碱平衡与健康的关系：胃酸 pH 值过低（如 4、5 或 6）可能引发消化问题，如 GERD 和贫血。
+
+#### 問題原因
+- **低胃酸症**（Hypochlorhydria）：
+  - 胃酸不足导致蛋白质分解不完全。
+  - 病原体不易被杀死，增加感染风险。
+  - 铁和其他矿物质吸收受阻，可能导致贫血。
+- **高胃酸症**：极端情况下可能引发酮症酸中毒（常见于未控制的 1 型糖尿病患者）或乳酸性酸中毒（由药物副作用引起）。
+
+#### 解決方法
+- **低胃酸症**：
+  - 使用苹果醋（ACV）以增加胃酸，帮助消化和吸收。
+  - 考虑补充维生素 B1 和 B12 以预防乳酸酸中毒。
+- **高胃酸症**：使用碳酸氢钠（baking soda）来暂时缓解症状。
+
+#### 健康建議
+- 在使用碳酸氢钠时，需注意其钠含量较高，可能影响血压。建议同时摄入富含钾的食物或补充剂，以维持钠钾平衡。
+- 长期使用抗酸药可能导致胃酸进一步减少，形成恶性循环，因此应尽量通过饮食和生活方式调整来改善消化问题。
+
+#### 結論
+- 使用烘焙 Soda 或苹果醋缓解消化不良需根据具体情况选择：
+  - **低胃酸症**：优先考虑苹果醋。
+  - **高胃酸症**：短期使用碳酸氢钠。
+- 长期健康应关注整体饮食和生活习惯，避免过度依赖药物。
+
+---
+
+### 相關問題
+
+1. 請解釋核心主題中提到的“胃酸不足”如何導致贫血？
+2. 酮症酸中毒的主要原因有哪些？它與低胃酸症有何關聯？
+3. 在使用烘焙 Soda 時，為什麼需要補充鉀？
+4. 苹果醋在治療低胃酸症時的作用機理是什麼？
+5. 高血壓患者是否適合大量使用烘焙 Soda？為何？
+6. 結合文章內容，如何定義“長期影響”？
+7. 低胃酸症如何導致惡性循環，即為什麼抗酸藥會加重病情？
+8. 文章提到的“酮症酸中毒”和“乳酸性酸中毒”有哪些主要差異？
+9. 維生素 B1 和 B12 如何幫助預防某些代謝問題？
+10. 請解釋為何文章建議使用苹果醋而非烘焙 Soda 來治療低胃酸症？
 </details>
 
 <details>
-<summary>2633. Will Apple Cider Vinegar (ACV) Break Your Fast?</summary><br>
+<summary>2633. [2020-01-16] Will Apple Cider Vinegar (ACV) Break Your Fast?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=K1mzAaCaemc" target="_blank">
     <img src="https://img.youtube.com/vi/K1mzAaCaemc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理：《/apple cider vinegar 在斷食中的影響及其健康效益》
 
+#### 1. **核心主題**
+   - 探讨苹果醋（apple cider vinegar, ACV）在断食期间的影响，特别是其碳水化合物含量对断食效果的潜在影响。
+   - 分析ACV的成分、发酵过程及其对人体代谢的作用。
+
+#### 2. **主要觀念**
+   - **醋的定義與成分**：
+     - 醋主要由乙酸（acetic acid）組成，並含有一些其他微量物質。
+     - 蘋果醋是通過醋酸菌將蘋果中的碳水化合物發酵而成。
+   
+   - **斷食的基本原理**：
+     - 斷食是指在一定時間內不攝入食物，以促進身體燃燒儲存脂肪並提升代谢效率。
+     - 斷食期間的飲食選擇對血糖水平和胰島素反應有重要影響。
+
+#### 3. **問題原因**
+   - 市面上不同種類的醋（如鹽醋、米醋）碳水化合物含量較高，可能影響斷食效果。
+   - 與此相比，蘋果醋的碳水化合物含量極低（每 tablespoon 約0.1克），但仍需評估其對血糖和胰島素水平的潛在影響。
+
+#### 4. **解決方法**
+   - 選擇含碳水化合物量極低的醬料或調味品，如少量使用蘋果醋作為沙拉醬。
+   - 確保在斷食期間攝入的食物和飲料不顯著干擾血糖水平。
+
+#### 5. **健康建議**
+   - 蘋果醋具有穩定血糖、降低胰島素水平和改善胰島素抵抗的作用，這些特性對於減重和維持能量水平有益。
+   - 在斷食期間适量使用蘋果醋，可幫助延長斷食時間並提升整體能量。
+
+#### 6. **結論**
+   - 蘋果醋因其微量碳水化合物含量和對血糖调节的積極作用，在斷食期間是可以接受且有益的。
+   - 建議在日常飲食中加入蘋果醋，以增強身體橢圓和提升整體健康狀況。
 </details>
 
 <details>
-<summary>2632. Dangers of an Ultra Low Fat Diet</summary><br>
+<summary>2632. [2020-01-15] Dangers of an Ultra Low Fat Diet</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3uLGxQo-PYY" target="_blank">
     <img src="https://img.youtube.com/vi/3uLGxQo-PYY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- The dangers and risks associated with ultra-low fat diets.  
+- The importance of adequate fat intake for overall health.  
 
+---
+
+### 主要觀念  
+1. **Essential Role of Fats**:  
+   - Fats are critical for the structure and function of cell membranes, nerve insulation, and hormone production.  
+   - They provide essential fatty acids (EFAs) that the body cannot synthesize.  
+
+2. **Micronutrient Deficiencies**:  
+   - Low-fat diets can lead to deficiencies in fat-soluble vitamins: A, D, E, and K.  
+     - Vitamin A: Vital for immune function and vision.  
+     - Vitamin D: Supports calcium absorption and immune health.  
+     - Vitamin E: Protects cell membranes and supports cardiovascular health.  
+     - Vitamin K: Necessary for blood clotting and calcium regulation (e.g., vitamin K2).  
+
+3. **Impact on Brain Health**:  
+   - The brain is primarily composed of fat, and insufficient fat intake can impair cognitive function and mood.  
+
+4. **Cancer Risk**:  
+   - Essential fatty acids support immune function; their deficiency may increase cancer risk.  
+
+5. **Metabolic Effects**:  
+   - Low-fat diets often lead to increased carbohydrate consumption, which can negatively impact blood sugar levels and insulin sensitivity.  
+
+6. **Satiety and Hunger**:  
+   - Diets low in fat are less satisfying, leading to constant hunger and difficulty adhering to the diet.  
+
+7. **Organ Strain**:  
+   - Excessive protein intake (to compensate for low fat) can strain the liver and kidneys.  
+
+---
+
+### 問題原因  
+- Ultra-low fat diets (fats <15% of total calories) are not biologically sustainable or optimal for human health.  
+- They disrupt micronutrient absorption, brain function, immune response, and metabolic health.  
+
+---
+
+### 解決方法  
+- **Balanced Fat Intake**: Aim for fats to make up approximately 70% of total calories in the diet.  
+- **Incorporate Healthy Fats**: Include sources like avocados, nuts, seeds, olive oil, and fish for essential fatty acids and vitamins.  
+- **Avoid Lean Protein**: Opt for protein sources that come with natural fats (e.g., whole eggs, full-fat dairy) to minimize organ strain.  
+
+---
+
+### 健康建議  
+1. **Dietary Composition**:  
+   - Prioritize a diet rich in healthy fats, moderate protein, and low-glycemic carbohydrates.  
+2. **Vitamin Intake**:  
+   - Ensure adequate consumption of fat-soluble vitamins through dietary sources or supplements if necessary.  
+3. **Mindful Eating**:  
+   - Focus on nutrient-dense foods to avoid deficiencies and maintain satiety.  
+
+---
+
+### 結論  
+Ultra-low fat diets pose significant risks to overall health, including nutrient deficiencies, cognitive decline, and metabolic disturbances. A balanced diet with sufficient fat intake is essential for optimal bodily function and long-term health.  
+
+---
+
+### 標籤  
+- Ultra-low fat diets  
+- Fat-soluble vitamins  
+- Essential fatty acids  
+- Cognitive function  
+- Metabolic health
 </details>
 
 <details>
-<summary>2631. Mistakes with Intermittent Fasting that Ruin Your Results</summary><br>
+<summary>2631. [2020-01-15] Mistakes with Intermittent Fasting that Ruin Your Results</summary><br>
 
 <a href="https://www.youtube.com/watch?v=d_nOL2uDOmQ" target="_blank">
     <img src="https://img.youtube.com/vi/d_nOL2uDOmQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：一分钟断食中的常见错误及其影响
 
+#### 核心主題  
+文章探讨了在进行间歇性断食（特别是16:8方法）时常见的错误行为及其对健康和体重管理的负面影响。
+
+---
+
+#### 主要觀念  
+1. **快速开始断食**  
+   - 未给身体足够时间适应，可能导致血糖不稳定、饥饿感强烈及遵守失败。  
+2. **碳水化合物摄入不当**  
+   - 高碳水饮食或未意识到某些食物（如水果、大米）中的隐性碳水，可能中断酮症状态。  
+3. **5:2断食法的执行问题**  
+   - 前五天随意进食，周末大幅减少热量至500大卡，难以适应且痛苦，易导致放弃。  
+4. **营养不足与低质量食物选择**  
+   - 断食期间未摄入足够的营养素或使用低质量加工食品，可能导致长期健康问题（如脱发、牙龈出血）。  
+5. **微量元素和维生素缺乏**  
+   - 快速断食可能引发B12、DHA、锌等微量营养素不足，影响整体健康。  
+6. **蛋白质摄入过高与脂肪摄入不足**  
+   - 过低的脂肪摄入可能导致必需脂肪酸缺乏，同时过高的蛋白质可能带来代谢压力。
+
+---
+
+#### 啟发與建議  
+1. **循序渐进地开始断食**  
+   - 给身体足够时间适应，避免直接从高热量饮食转为极端限制。  
+2. **注意碳水化合物的摄入量**  
+   - 减少精制糖和高GI食物的摄入，选择低GI、低碳水的食物以维持酮症状态。  
+3. **均衡营养与高质量食材**  
+   - 断食期间确保摄入足够的维生素、矿物质和优质蛋白，避免依赖加工食品或低质量蛋白质来源（如粉末状大豆蛋白）。  
+4. **监测微量營養素水平**  
+   - 尤其是素食者，需额外补充B12、DHA、锌等营养素。  
+5. **平衡脂肪与蛋白质摄入**  
+   - 保持适量的健康脂肪摄入，避免极端降低脂肪导致必需脂肪酸缺乏。
+
+---
+
+#### 總結  
+文章强调，断食的效果不仅取决于热量限制，还与饮食的整体质量密切相关。错误的执行方式可能导致短期失败或长期健康问题，建议在进行间歇性断食时注重循序渐进、营养均衡和避免极端饮食行为。
+
+---
+
+### 英文摘要  
+The article discusses common mistakes in time-restricted feeding (e.g., 16:8 method) and their impact on health outcomes. Key issues include rapid onset of fasting, improper carbohydrate intake, flawed execution of the 5:2 diet, nutrient deficiencies, and imbalanced macronutrient consumption. Recommendations emphasize gradual adaptation, balanced nutrition, and avoidance of extreme dietary practices to ensure successful and sustainable results.
 </details>
 
 <details>
-<summary>2630. Will Zero Carb Alcohol Stop Ketosis?</summary><br>
+<summary>2630. [2020-01-14] Will Zero Carb Alcohol Stop Ketosis?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=GEu6FGEH-aQ" target="_blank">
     <img src="https://img.youtube.com/vi/GEu6FGEH-aQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：酒精攝取對酮症斷啟動止的影響
 
+### 主要觀念：
+1. **酒精類型與碳水化合物含量**：
+   - 啤酒、葡萄酒和混合飲料含有較高碳水化合物。
+   - 伏特加、威士忌、金酒、龍舌蘭酒等烈酒以及乾馬天尼 cocktails 几乎不含碳水化合物。
+
+2. **酒精的糖分與酮症斷啟動止**：
+   - 雖然某些酒精類型不含或低於糖分，但它們仍可能影響酮症斷啟動止。
+   - 酒精本身不直接轉化為糖分，但其攝入會干擾酮症的維持。
+
+3. **酒精的熱量與脂肪轉化**：
+   - 酒精每克有7卡路里，較碳水化合物（4卡路里/克）高。
+   - 身體優先利用酒精的能量來源，未被消耗的部分轉化為脂肪。
+
+### 問題原因：
+1. **肝臟代謝負擔**：
+   - 酒精被肝臟視為毒素，需優先處理。
+   - 乙醇在肝臟中被轉化為有害的乙醛（acetaldehyde），可導致氧化應激、炎症反應和脂肪肝。
+
+2. **營養素缺乏**：
+   - 長期大量攝入酒精會耗竭身體所需的多種營養素，包括B族維生素（如B1、B12）、葉酸（folate）、锌、維生素D和A。
+
+3. **酮症斷啟動止的干擾**：
+   - 酒精提供的熱量干擾脂肪燃燒，影響酮症的持續。
+
+### 解決方法與健康建議：
+1. **限額攝取酒精**：
+   - 遊玩時少量攝取酒精，避免大量飲用。
+   - 確保飲食富含營養，補充因酒精消耗而缺乏的營養素。
+
+2. **飲食均衡**：
+   - 保持酮ogenic飲食結構（低碳水化合物、高脂肪、適量蛋白質）。
+   - 多攝取富含植物化學物（phytonutrients）的食物，以抵銷酒精引起的氧化應激和炎症反應。
+
+3. **定期健康檢查**：
+   - 監測肝臟功能指標，早期發現脂肪肝或纖維化的跡象。
+   - 如有疑慮，諮詢專業醫療人員進行進一步評估。
+
+### 結論：
+酒精攝取雖可能不直接轉化為糖分，但其熱量和代謝影響會干擾酮症的維持。此外，酒精對肝臟的毒性負擔及營養素耗竭問題不容忽視。若要在酮ogenic飲食中加入酒精，應極度限額並注意整體飲食結構，以確保健康效益最大化。
 </details>
 
 <details>
-<summary>2629. 7 Amazing Pain Relief Hacks that Give Instant Results</summary><br>
+<summary>2629. [2020-01-14] 7 Amazing Pain Relief Hacks that Give Instant Results</summary><br>
 
 <a href="https://www.youtube.com/watch?v=p1hgZI4XeOM" target="_blank">
     <img src="https://img.youtube.com/vi/p1hgZI4XeOM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：cranial acupuncture 和 referral pain 的應用與治療技術
 
+#### 核心主題
+- 探讨cranial acupuncture在處理頭痛、顱骨損傷及手術後症狀中的應用。
+- 强調	referral pain（轉引疼痛）的概念及其在臨床診斷和治療中的重要性。
+
+#### 主要觀念
+1. **Cranial Acupuncture 的作用機制**
+   - 通過刺激cranial nerves來調節神經功能，解除顱內壓力。
+   - 能夠影響全身的referral pain，特別是在頭部、頸部和肩背部。
+
+2. **Referral Pain的概念**
+   - 疼痛信號可沿神經傳導到遠端部位，形成轉引疼痛。
+   - 這種現象在頭痛、顱骨手術後及外傷恢復中常見。
+
+#### 問題原因
+1. **顱骨損傷和手术後的並發症**
+   - 頭部外傷或urgery後可能導致顱內壓力異常，影響神經功能。
+   - 痛點往往轉移到遠端部位，如肩背和頸部。
+
+2. **手術後的組織僵硬和疤痕形成**
+   - 手術後的scar tissue 可能限制cranial nerve的功能，導致持續性疼痛。
+
+3. **神經功能紊亂**
+   - 神經受壓或損傷後，可能會引起referral pain，影響患者的生活品質。
+
+#### 解決方法
+1. **Cranial Acupuncture 治療技術**
+   - 使用cranial acupuncture解除顱內壓力，恢復nerve function。
+   - 刺激特定的cranial points來調節疼痛信號。
+
+2. **手術後的康複治療**
+   - 温和按壓受影響的sutures來釋放組織張力。
+   - 按摩受傷部位對面的鏡像位置，以平衡神經活動。
+
+3. **Referral Pain 的管理**
+   - 尋找並按摩遠端痛點，解除其對神經系統的干擾。
+   - 通過牽引技術恢復cranial joints的功能。
+
+#### 健康建議
+1. **早期治療的重要性**
+   - 對於有頭部外傷或urgery後症狀的患者，建議及早進行cranial acupuncture評估和治療。
+
+2. **定期跟蹤與康複訓練**
+   - 在治療後需持續跟蹤患者的恢復進展。
+   - 配合適當的康複訓練來進一步改善神經功能和肌肉張力。
+
+3. **生活方式調整**
+   - 減少頭部受傷風險，如佩帶保護裝備。
+   - 維持良好的姿勢來防止頸部和肩背部的過度緊繃。
+
+#### 結論
+- Cranial acupuncture是一種有效的治療手段，能有效處理由cranial nerve功能障礙引發的referral pain。
+- 通過針對性地刺激cranial points和管理遠端痛點，可顯著改善患者的生活品質。
+- 及時的評估和治療對於預防長期並發症至關重要。
+
+---
+
+### 參考資料
+1. 文章內容：cranial acupuncture 和 referral pain 的應用與治療技術。
 </details>
 
 <details>
-<summary>2628. Sleeping Pills and Insomnia – Dr.Berg</summary><br>
+<summary>2628. [2020-01-13] Sleeping Pills and Insomnia – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=sgKF-ONs1YM" target="_blank">
     <img src="https://img.youtube.com/vi/sgKF-ONs1YM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+---
+
+#### **核心主題**
+- 本文主要探討如何通過	acupressure（穴位按摩）來釋放壓力、改善身體健康及提升生活品質。
+- 强調	acupressure	在特定穴位上的應用，特別是針對頸部和肩部的壓力 relief。
+
+---
+
+#### **主要觀念**
+1. 頭痛、肩頸痠痛及其他身體不適與長期壓力有關。
+2. 穴位按摩可刺激神經系統，促進血液循環，從而緩解壓力並改善健康狀況。
+3. 本文介紹了具體的穴位位置及按壓方法。
+
+---
+
+#### **問題原因**
+- 長期壓力導致身體 tension 和痠痛，特別是頸部和肩部。
+- 現代生活节奏快，工作壓力大，導致许多人忽视身体保健。
+
+---
+
+#### **解決方法**
+1. **穴道按摩**：
+   - 按壓位於頸部的穴位（如	C7、C6等），可刺激	parasympathetic	nervous	system，促進放鬆反應。
+   - 使用特製的按摩器具或徒手按壓，以增加效果。
+2. **姿勢矯正**：
+   - 保持正確姿勢，避免長時間維持同一姿勢，特別是電腦工作時。
+3. **生活調整**：
+   - 減少壓力來源，通過運動、冥想等方式提高整體健康水平。
+
+---
+
+#### **健康建議**
+1. 定期進行穴道按摩，尤其是在感到壓力或身體不適時。
+2. 選擇適合的按摩工具（如特製項圈），便於日常使用。
+3. 減少久坐時間，定期活動筋骨以避免肌肉僵硬。
+
+---
+
+#### **結論**
+- 穴位按摩是一種簡單有效的方法，可幫助緩解壓力和改善身體健康。
+- 通過持續的自我護理和壓力管理，可以顯著提升生活品質並預防相關疾病。
+
+---
+
+### 參考資料
+1. 文章內容整理自提供的文本，在此基礎上進行了結構化與正式化的處理。
 </details>
 
 <details>
