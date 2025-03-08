@@ -21,113 +21,557 @@
 </details>
 
 <details>
-<summary>1498. 7 Keto Diet Myths & Lies – Dr. Berg</summary><br>
+<summary>1498. [2018-05-09] 7 Keto Diet Myths & Lies – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=osZbqfEPB2w" target="_blank">
     <img src="https://img.youtube.com/vi/osZbqfEPB2w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Core Theme (核心主題)
+- **Title**: Debunking Keto Myths and Lies
+- **Focus**: Addressing common misconceptions about the ketogenic diet.
+  
+### Key Concepts (主要觀念)
+1. **Long-term studies on keto**: 
+   - Contrary to belief, there are long-term studies supporting keto's safety and benefits.
+2. **Kidney health and protein intake**:
+   - The ketogenic diet is not overly high in protein; it maintains a moderate level, making it safe for most people.
+3. **Adverse reactions during keto transition**:
+   - Keto flu symptoms (e.g., fatigue, breath odor) occur due to nutritional deficiencies but can be mitigated with proper supplementation.
+4. **Necessity of carbohydrates**:
+   - The body does not require external carbs; essential glucose needs can be met through gluconeogenesis.
+5. **Metabolism impact**:
+   - Keto boosts metabolism, unlike high-carb diets that slow it down.
+6. **Safety of high-fat intake**:
+   - High-fat diets are safe when paired with low carbohydrates; harmful studies often include excessive carbs.
+7. **Sustainability of keto**:
+   - Keto is sustainable long-term due to reduced cravings and increased energy levels.
 
+### Causes of Misconceptions (問題原因)
+- **Lack of awareness**: Many people confuse keto with other high-protein diets like Atkins, leading to incorrect assumptions.
+- **Misleading studies**: Some research misrepresents the effects of high-fat diets by pairing them with excessive carbohydrates.
+- **Cultural perceptions**: Society's long-standing emphasis on carbohydrate-rich diets has created bias against low-carb alternatives.
+
+### Solutions and Health Recommendations (解決方法與健康建議)
+1. **Education**: Understanding the differences between keto and other diets can prevent confusion.
+2. **Supplementation**: Addressing deficiencies in potassium and B vitamins during the transition period can reduce adverse effects.
+3. **Balanced Macronutrients**: Emphasize moderate protein intake and ensure proper fat sources to maintain a healthy keto lifestyle.
+4. **Metabolic Benefits**: Highlight how keto improves metabolic health by enhancing fat utilization and reducing insulin resistance.
+
+### Conclusion (結論)
+- The ketogenic diet is a viable, long-term solution for improving health and sustainability when implemented correctly.
+- Addressing myths with evidence-based information helps individuals make informed dietary choices.
+
+---
+
+### 总结
+文章主要讨论了酮饮食的七个常见误解，并通过科学证据逐一反驳这些说法。主要内容包括长期研究的存在、对肾脏健康的影响、过渡期的不良反应、碳水化合物的必要性、新陈代谢的影响、高脂肪摄入的安全性以及酮饮食的可持续性。作者强调，酮饮食在正确实施下是安全且有益的，并鼓励读者基于事实做出健康选择。
 </details>
 
 <details>
-<summary>1497. Understanding Carbs vs. Sugar on Keto – Dr. Berg</summary><br>
+<summary>1497. [2018-05-08] Understanding Carbs vs. Sugar on Keto – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=lCvUkrVXyRI" target="_blank">
     <img src="https://img.youtube.com/vi/lCvUkrVXyRI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+---
+
+#### 核心主題
+- 梳理酮飲食中碳水化合物和糖分的區別與相互作用。
+- 探讨酮飲食中如何有效控制糖分攝取以避免血糖波動。
+
+---
+
+#### 主要觀念
+1. **糖分與碳水化合物的定義**：
+   - 糖分是碳水化合物的基本單位，包括單糖（如葡萄糖、果糖）和二糖（如蔗糖）。
+   - 碳水化合物不僅限於糖類，还包括多糖（如膳食纖維、淀粉等）。
+
+2. **不同食物中的糖分與碳水來源**：
+   - ** cane sugar**: 來自甘蔗，脫去纖維和營養成分後的精緻糖。
+   - ** grains (穀物)**: 如小麦、大米，加工後失去纖維和營養成分，成為精緻穀物。
+   - ** starchy vegetables (淀粉類蔬菜)**: 如馬鈴薯、番薯，加工方式不同會影響其血糖指數（GI）。
+   - ** fruits (水果)**: 含有果糖和纖維，但現代雜交品種糖分含量較高。
+   - ** berries (莓果)**: 糖分較低，纖維含量較高，適合酮飲食。
+
+3. **血糖指數（GI）的概念**：
+   - GI衡量食物升高血糖的速度和程度。
+   - 酮飲食強調選擇低GI食品以避免血糖波動。
+
+---
+
+#### 問題原因
+1. **食物標籤的混淆**：
+   - 標籤上的碳水化合物和糖分數據容易讓人誤解，尤其是精緻糖和碳水化合物的不同作用。
+   - 經加工的食物常隱藏高糖分（如果汁、沙拉醬）。
+
+2. **現代飲食中高GI食物的普及**：
+   - 精緻穀物、淀粉類食物和高糖零食普遍，導致血糖波動和胰島素抵抗。
+
+---
+
+#### 解决方法
+1. **酮飲食中的攝取策略**：
+   - 避免所有精緻糖和高GI食物（如白米、麵包、馬鈴薯等）。
+   - 總碳水化合物攝取應控制在每日20-50克之間，優先選擇低GI食品。
+
+2. **食物選擇指南**：
+   - **蔬菜**：高纖維、低碳水，適合酮飲食。
+   - **莓果**：黑莓和 raspberry 比草莓和蓝莓更適合（糖分較低）。
+   - **堅果與種子**：選擇低碳水的品種（如杏仁、奇異果籽），避免高碳水的品種（如腰果）。
+
+3. **食品標籤閱讀建議**：
+   - 重点关注“糖分”欄位，將每日攝取量控制在2克以下。
+   - 選擇低GI食品，參考食品標籤上的GI數據。
+
+---
+
+#### 健康建議
+1. **飲食結構的調整**：
+   - 以蔬菜為主，搭配少量水果（如莓果）和堅果。
+   - 減少精緻糖和高GI食物的攝取，避免血糖波動。
+
+2. **食品選擇技巧**：
+   - 選擇低糖或無糖食品（如酸奶、醬料），注意隱藏糖分。
+   - 多喝水，少吃含糖飲料（如.Sprite、果汁）。
+
+3. **監控與調節**：
+   - 定期監測血糖水平，根據個人反應調整攝取量。
+   - 適當運動有助于穩定血糖和胰島素水平。
+
+---
+
+#### 結論
+酮飲食的核心在於控制精緻糖和高GI食物的攝取，優先選擇高纖維、低GI的蔬菜、莓果、堅果等食品。正確閱讀食品標籤、了解食品成分及其血糖影響是成功實施酮飲食的关键。
 </details>
 
 <details>
-<summary>1496. What Is A2 Milk? – Dr. Berg</summary><br>
+<summary>1496. [2018-05-08] What Is A2 Milk? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=GGR8rRwnhYk" target="_blank">
     <img src="https://img.youtube.com/vi/GGR8rRwnhYk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章主題：牛奶蛋白質的種類及其健康影響
 
+#### 核心主題：
+- 探讨牛奶中兩種主要蛋白質（casein）的差異，特別是A1和A2型別對人體消化系統的影響。
+
+#### 主要觀念：
+1. **牛奶中的蛋白質**：牛奶中含有約30%的案例蛋白質（Casein），其分為A1和A2兩種型別。
+2. **基因突變導致差異**：
+   - A1型是由于基因突变產生的，而A2型並非由基因突變引起。
+   - A1型的結構特性使其可能對消化道造成不良影響。
+
+#### 問題原因：
+- A1型蛋白質在消化過程中會分解為BCM-7（Beta-Casomorphin 7），這是一種可能導致腸胃不適、炎症反應甚至免疫系統紊亂的物質。
+
+#### 解決方法：
+1. **選擇更健康的來源**：
+   - A2型蛋白質不會產生BCM-7，因此更适合消費。
+   - 檸檬縣奶牛產的牛奶富含A2型蛋白質。
+2. **乳製品的選擇建議**：
+   - 選擇山羊或綿羊的乳製品，因其主要含A2型蛋白質。
+   - 推荐一家名為Cascadia Creamery的公司，其所有乳酪均為A2型。
+
+#### 健康建議：
+- 考慮個人飲食需求和健康狀況，優先選擇不含或低含量BCM-7的乳製品。
+- 遊客可以通過研究市場上不同品牌的产品來做出更健康的選擇。
+
+#### 總結：
+- A1型蛋白質可能對腸胃健康造成負面影響，而A2型則相對安全。
+- 消費者應注意乳製品的來源，選擇適合自己健康的產品。
 </details>
 
 <details>
-<summary>1495. Side Effects of Purified Bile Salts – Dr. Berg</summary><br>
+<summary>1495. [2018-05-08] Side Effects of Purified Bile Salts – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_tls7EWnsRE" target="_blank">
     <img src="https://img.youtube.com/vi/_tls7EWnsRE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 文章整理：純化膽汁鹽的副作用與使用建議
 
+## 1. 核心主題
+本文探討了純化膽汁鹽的潛在副作用及其使用上的禁忌症狀，特別是針對那些缺乏膽囊或脂肪消化吸收問題的人群。
+
+## 2. 主要觀念
+- 純化膽汁 salt 主要用於補充膽汁以幫助脂肪 digestion 和吸收。
+- 胆汁鹽在某些情況下可能引起副作用，需謹慎使用。
+
+## 3. 問題原因
+### 3.1 胃酸不足（胃過渡 alkaline）
+- 純化膽汁 salt 是碱性物質，若胃酸不足，膽汁未能正常釋放。
+- 胃酸不足導致消化不良，服用純化膽汁 salt 反而可能加重 nausea 和 bloating。
+
+### 3.2 高甲狀腺功能亢進（Hyperthyroidism）
+- 純化膽汁 salt 促進 T4 转換為 T3，加速甲狀腺功能。
+- 高甲狀腺患者使用會導致甲狀腺過度活躍。
+
+### 3.3 慢性腹瀉
+- 純化膽汁 salt 可能加重慢性腹瀉，因其具有 lubricating 效果，增加腸蠕動。
+
+### 3.4 胆鹽吸收不良綜合症（Bile Acid Malabsorption）
+- 小肠功能受損或胃繞道手術後，無法有效回收膽鹽。
+- 純化膽汁 salt 可能導致更多 bile 排入大腸，引發腹瀉。
+
+## 4. 解決方法
+### 4.1 胃酸不足
+- 使用 acidifier 如 betaine hydrochloride 或vinegar tablets 來增加胃酸。
+- 確保膽汁正常釋放。
+
+### 4.2 高甲狀腺功能亢進
+- 不建議使用純化膽汁 salt，需先治療甲狀腺問題。
+
+### 4.3 慢性腹瀉
+- 避免使用純化膽汁 salt，尋求其他解決方案。
+- 可考慮調整飲食或藥物。
+
+### 4.4 胆鹽吸收不良綜合症
+- 先修復小腸功能，而非立即補充純化膽汁 salt。
+- 需專業醫療評估。
+
+## 5. 健康建議
+- 在使用純化膽汁 salt 之前，諮詢醫生或營養師。
+- 注意身體反應，如腹瀉或不適，及時停用並尋求幫助。
+- 確保胃酸足夠，以利膽汁正常作用。
+
+## 6. 結論
+純化膽汁 salt 可為某些人提供重要益處，但需謹慎使用，特別是有特定健康問題的人群。了解潛在副作用並採取適當措施，可確保其安全有效。
 </details>
 
 <details>
-<summary>1494. Why Do You Need Salt For Better Protein Digestion? – Dr. Berg</summary><br>
+<summary>1494. [2018-05-07] Why Do You Need Salt For Better Protein Digestion? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=wZIfyzk0NcE" target="_blank">
     <img src="https://img.youtube.com/vi/wZIfyzk0NcE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題
+- 蛋白質消化與鹽（ sodium chloride）之間的關係。
+- 糖尿生酮飲食（keto diet）對鹽攝取量的影響及其健康后果。
+
+#### 主要觀念
+1. **鹽的作用**  
+   - 鹼氯化物（hydrochloric acid, HCl）在胃中用於消化蛋白質，而鹽提供氯離子（chlorides），是合成HCl的必要條件。
+   
+2. **美國人的鹽攝取量**  
+   - 平均來說，美国人攝取的鹽量遠超過每日所需，達到六倍之多。
+
+3. ** ketogenic diet 的影響**  
+   - 低脂生酮飲食（keto plan）中،人們减少加工食品的攝取，導致鹽攝取量顯著下降。
+   
+4. **水分與電解質的流失**  
+   - 在執行生酮飲食和禁食期間，身體會丟失大量水分和電解質，包括氯離子。
+
+#### 問題原因
+- 盐攝取不足導致氯離子不足，影響HCl的生成。
+- HCl不足會導致蛋白質消化不良。
+- 蛋白質消化不良的常見症狀包括腹脹、腸胃不適及便秘。
+
+#### 解決方法
+1. **增加鹽分攝取**  
+   - 在生酮飲食中適當添加海鹽（sea salt），以補充氯離子，促進HCl的生成。
+   
+2. **輔助措施**  
+   - 使用蘋果醋等酸性物質作為額外的胃酸來源。
+
+#### 健康建議
+- 確保在生酮飲食中足夠攝取鹽分，以維持消化系統的正常功能。
+- 注意補充電解质，尤其是氯離子，以防因水分流失導致的健康問題。
+
+#### 結論
+- 蛋白質消化不良與鹽攝取不足密切相关。
+- 在生酮飲食中適當補充鹽分是必要的，以避免消化系統相關症狀。
 </details>
 
 <details>
-<summary>1493. MyPlate vs. Healthy Ketosis – Dr. Berg</summary><br>
+<summary>1493. [2018-05-07] MyPlate vs. Healthy Ketosis – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KrnFpnakepc" target="_blank">
     <img src="https://img.youtube.com/vi/KrnFpnakepc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 比較美國農部（USDA）飲食指南（choosemyplate.gov）與健康酮osis饮食的核心差異。
 
+### 主要觀念
+1. **USDA飲食指南**：
+   - 推荐五大食物類別：水果、蔬菜、穀物、蛋白質和乳制品。
+   - 每餐建議攝取量：蔬菜占一半 plate, 水果25%, 裸粒穀物25%，蛋白質和乳製品少量 추가。
+   - 熱量分配：蔬菜占5%熱量，但佔據_plate_一半的份額。
+
+2. **健康酮osis饮食**：
+   - 强調高脂肪、低碳水化合物和中等蛋白質攝取。
+   - 每日建議攝取7-10杯蔬菜，脂肪占總熱量的70%，碳水化合物僅20-50克/天，蛋白質3-6盎司/餐。
+
+### 問題原因
+- **USDA飲食指南**：
+  - 遊離糖和精制穀物攝取過多（每日允許7片面包或7杯爆米花）。
+  - 推荐使用含 GMO 的 vegetable oils，可能對健康有害。
+
+- **健康酮osis饮食**：
+  - 碳水化合物攝取過少，可能導致營養不均衡。
+  - 高脂肪攝取可能增加心血管疾病風險。
+
+### 解決方法
+1. 平衡飲食：
+   - 合理分配熱量攝取，避免過度依賴精制穀物和 vegetable oils。
+   - 總結：建議結合兩種飲食方式的優點，如適當攝取蔬菜、蛋白質和健康脂肪，並控制碳水化合物攝取。
+
+2. 避免 GMO 和高糖食品：
+   - 選擇非 GMO 的食材，降低健康風險。
+   - 總結：選擇健康來源的脂肪和碳水化合物，避免過度加工食品。
+
+### 健康建議
+1. **飲食結構**：
+   - 多攝取蔬菜、水果和全穀物，控制精制糖和穀物攝取。
+   - 總結：保持均衡飲食，多樣化食物來源。
+
+2. **脂肪選擇**：
+   - 選擇健康脂肪來源（如橄欖油、 nuts），避免反式脂肪和高溫油炸食品。
+   - 總結：合理攝取健康脂肪，降低心血管疾病風險。
+
+### 結論
+- 健康酮osis饮食在控制碳水化合物和血糖方面有其優點，但長期依賴可能導致營養不均衡。
+- USDA飲食指南更注重全穀物和蔬菜攝取，但允許高糖和精制穀物攝取可能影響健康。
+- 總結：建議根據個人需求選擇飲食方式，並結合兩種飲食的優點，保持均衡飲食。
 </details>
 
 <details>
-<summary>1492. Diabetic Stomach Explained – Dr. Berg</summary><br>
+<summary>1492. [2018-05-06] Diabetic Stomach Explained – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=dn5ecx0i3ZM" target="_blank">
     <img src="https://img.youtube.com/vi/dn5ecx0i3ZM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理： diabetic gastropathy 的核心主題與分析
 
+#### 1. 核心主題：
+- **Diabetic Gastropathy**：一種影響糖尿病患者的胃蠕動功能障礙，導致消化系統相關症狀。
+
+#### 2. 主要觀念：
+- **Autonomic Neuropathy**：自主神經病變是 diabetic gastropathy 的主要病因之一。
+- **Gastric Emptying Delay**：胃排空延迟，影響食物在腸道中的移動速度。
+- **Ketogenic Diet and Intermittent Fasting**：此 diets 可能引發低血糖或消化不適。
+
+#### 3. 問題原因：
+- **Hyperglycemia (High Blood Sugar)**：長期高血糖損壞神經與血管，特別是自主神經，影響胃腸蠕動。
+- **Ketosis and Fasting**：酮症和斷食可能導致血糖過低，引發惡心、嘔吐等症狀。
+
+#### 4. 解決方法：
+- **Gradual Adaptation to Ketogenic Diet**：
+  - 從每日三餐開始，逐漸降低餐次。
+  - 增加脂肪攝取，確保營養均衡。
+  - 達到酮osis適應後再逐步減少餐次。
+  
+- **Monitoring Blood Glucose Levels**：定期監測血糖，避免過低或過高。
+
+#### 5. 健康建議：
+- **Consult Healthcare Professionals**：在實施低碳飲食前，諮詢醫生或營養師。
+- **Avoid Rapid Transition to Ketosis**：不要突然開始斷食或酮ogenic diet，以免引發不適。
+
+#### 6. 結論：
+- **Proactive Management of Diabetes**：糖尿病患者應積極管理血糖，並注意飲食調整對消化系統的影響。
+- **Balanced Approach to Diets**：採用平衡且漸進的方式進行低碳飲食，以降低副作用風險。
 </details>
 
 <details>
-<summary>1491. How Can Eating Fat LOWER Your Cholesterol? – Dr. Berg</summary><br>
+<summary>1491. [2018-05-06] How Can Eating Fat LOWER Your Cholesterol? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ugJR4LxZzYY" target="_blank">
     <img src="https://img.youtube.com/vi/ugJR4LxZzYY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 探讨脂肪摄入对胆固醇水平的影响及其背后的科学依据。
+
+#### 主要觀念
+1. **低脂饮食与高碳水化合物的关系**：
+   - 传统低脂饮食往往导致高碳水化合物摄入，可能引发胰岛素激增。
+2. **身体内源性胆固醇的生成**：
+   - 人体每日自动生成约3000毫克胆固醇，相当于大量食物中的胆固醇含量（如14个鸡蛋或一磅黄油）。
+3. **胆固醇的功能**：
+   - 胆固醇是细胞膜、大脑、激素（包括睾酮和皮质醇）、眼睛及神经系统的重要组成部分。
+
+#### 問題原因
+- 很多研究支持低脂饮食的理论，但这些研究往往涉及高碳水化合物的实验设计，而非单纯的高脂肪摄入。
+- 高碳水化合物与高脂肪的结合可能才是真正导致胆固醇升高的原因。
+
+#### 解决策略
+1. **健康酮饮方式**：
+   - 采用低碳水、高健康脂肪的饮食模式（如生酮饮食）。
+2. **选择优质脂肪**：
+   - 推荐使用椰子油、牛油果、坚果、草饲肉类和乳制品等健康脂肪，避免反式脂肪、氢化油及加工油。
+
+#### 健康建議
+1. **监测胆固醇变化**：
+   - 在开始低碳水饮食后，建议在一个月内检测胆固醇水平，观察其变化。
+2. **个体差异考虑**：
+   - 部分人可能在初期出现胆固醇水平的短暂上升，但通常会恢复正常并逐渐下降。
+
+#### 結論
+- 采用健康酮饮模式（如低碳水、高优质脂肪）能够有效降低胆固醇，并对整体健康产生积极影响。
+- 观众中有30%的人能坚持看完此视频，体现了对该主题的兴趣和重视。
 </details>
 
 <details>
-<summary>1490. Benefits of Vitamin B1 – Numbness & Tingling In Hands & Feet – Dr. Berg</summary><br>
+<summary>1490. [2018-05-05] Benefits of Vitamin B1 – Numbness & Tingling In Hands & Feet – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=d41ttKFOuKo" target="_blank">
     <img src="https://img.youtube.com/vi/d41ttKFOuKo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 理解手部或足部麻木、刺痛或針扎感的差異及其潛在原因。
+- 探讨這些症狀與神經損傷的關聯。
+
+#### 主要觀念
+1. ** numbness in hands or feet**（手腳麻木）：
+   - 表示神經末梢的血液供應不足，通常由神經功能障礙引起。
+2. **tingling or pins and needles sensation**（刺痛或針扎感）：
+   - 多數情況下是神經受壓或血液循環不良所導致。
+
+#### 問題原因
+- 病因可能包括：
+  1. **糖尿病週邊神經病變**（Diabetic Peripheral Neuropathy）：低B族維生素、高血糖及過高的胰島素水平破壞了神經的血液供應。
+  2. **脊柱狹窄症**（Spinal Stenosis）：脊椎通道狹小時擠壓神經，影響血液循環。
+  3. **胸出口綜合征**（Thoracic Outlet Syndrome）：肩頸部位的肌肉痙攣或結構性問題阻礙了神經和血管的正常功能。
+  4. **貧血或其他循環障礙**：血液供應不足導致神經受損。
+
+#### 解決方法
+1. **藥物治療**：
+   - **Benfotiamine**（B族維生素合成品）：脂溶性形式，能更有效地修復神經的髓鞘。
+2. **營養補充**：
+   - **營養酵母**：自然來源的B族維生素，可作為日常補充。
+3. **生活調整**：
+   - 改善飲食結構，增加健康脂肪和抗氧化劑攝取，避免菸酒等刺激性物質。
+4. **醫療建議**：
+   - 如症狀持續或加重，需及時就醫檢查是否有神經受壓、貧血或其他潛在疾病。
+
+#### 健康建議
+- 定期進行身體檢查，特別是對於有糖尿病前期症狀的人群。
+- 適當運動以促進血液循環，避免久坐或姿勢不良。
+- 維持均衡飲食，攝取足夠的維生素和礦物質。
+
+#### 結論
+- 手腳麻木或刺痛可能是神經損傷或其他潛在疾病的早期信號。
+- 及時采取營養補充、生活調整和醫療干預可以有效緩解症狀並防止進一步損害。
+
+---
+
+### 中文摘要  
+本文探討了手部或足部麻木、刺痛或針扎感的差異及其潛在原因，強調這些症狀多與神經損傷有關。文中指出，病因可能包括糖尿病週邊神經病變、脊柱狹窄症、胸出口綜合征或貧血等循環障礙。建議通過補充B族維生素（如Benfotiamine）、改善飲食結構及適當運動來緩解症狀，並提醒如有持續問題需及時就醫。
+
+---
+
+### English Summary  
+This article explores the differences between numbness in hands or feet versus tingling or pins and needles sensations, emphasizing their potential causes. It highlights that these symptoms are often linked to nerve damage, with possible underlying conditions including diabetic peripheral neuropathy, spinal stenosis, thoracic outlet syndrome, or anemia. Recommendations include supplementing with B-vitamins (such as benfotiamine), improving diet, and engaging in moderate exercise. The article advises seeking medical attention if symptoms persist.
 </details>
 
 <details>
-<summary>1489. Menstrual Cycle Cravings and Nutrient Deficiencies  – Dr. Berg</summary><br>
+<summary>1489. [2018-05-05] Menstrual Cycle Cravings and Nutrient Deficiencies  – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=o6bkXRXE0PQ" target="_blank">
     <img src="https://img.youtube.com/vi/o6bkXRXE0PQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納與重點整理
 
+#### 1. 核心主題
+本文主要探討月经周期中不同阶段的健康問題及其解決方法，特別是與 craving（渴望）相關的生理現象和營養補充建議。
+
+---
+
+#### 2. 主要觀念
+- **月经周期的簡化介紹**：文章將 menstrual cycle 簡化為三個主要階段：
+  - 排卵期（ovulation）
+  - 行經前期（PMS，Pre-Menstrual Syndrome）
+  - 行經期間及之後
+- **craving 的原因**：與激素失衡、營養缺乏密切相關。
+- **健康問題**：包括情緒波動、疲勞、消化不良等。
+
+---
+
+#### 3. 問題原因
+- **排卵期**：
+  - **雌激素不平衡**：導致 craving 或其他症狀。
+- **PMS 阶段**：
+  - **B 群維生素缺乏**：影響情緒和身體機能。
+  - **维生素 C 缺乏**：削弱免疫系統和消化功能。
+  - **鐵質不足**：可能引發貧血及其他症狀。
+- **行經期間**：
+  - **鐵質流失**：導致疲勞和 craving。
+- **更年期後**（menopause）：
+  - **性激素水平下降**（如雌激素、睾osterone）。
+  - **維生素 E 缺乏**：影響荷爾蒙合成。
+
+---
+
+#### 4. 解決方法
+##### 排卵期：
+- **飲食建議**：
+  - 增加ruciferous vegetables（十字花科蔬菜，如西兰花、捲心菜）的攝取。
+  - 补充碘質。
+- **營養補充**：無具體推薦劑量，但強調平衡雌激素。
+
+##### PMS 阶段：
+- **B 群維生素**：
+  - 推薦 Brewer’s yeast（ brewer's yeast）及標籤建議劑量。
+  - 建議加倍攝取劑量，特別是 B1（硫胺素）。
+- **维生素 D**：增加日光照射以促進合成。
+- **维生素 C**：
+  - 推薦食物來源（如酸菜）或食品級補充劑。
+  - 避免使用純化抗壞血酸（ascorbic acid）。
+
+##### 行經期間：
+- **钙質和鎂esium**：
+  - 建議攝取 calcium orotate 和 magnesium 或其結合形式。
+  - 助於緩解月經痙攣和 craving。
+
+##### 行經後：
+- **鐵質補充**：
+  - 推薦食用紅肉（特別是草食性來源）。
+  - 可攝取綠葉蔬菜（如 kale）或其他含鐵食物。
+
+##### 更年期後：
+- **維生素 E**：
+  - 推薦.Raw sunflower seeds、杏仁和深色葉菜類。
+  - 建議避免烘烤或加工過的種子。
+- **硼（Boron）**：
+  - 助於平衡雌激素水平，但需注意劑量。
+
+---
+
+#### 5. 健康建議
+- **營養攝取**：根據不同階段的需求調整飲食結構。
+- **日光曝露**：利用紫外線促進 vitamin D 的合成。
+- **自然食品優先**：強調食物來源的營養素比化學合成劑更為有益。
+- **個人化調整**：建議根據自身症狀和需求，選擇適當的食物或補充劑。
+
+---
+
+#### 6. 結論
+了解 menstrual cycle 的不同階段對健康管理和症狀緩解至關重要。通過飲食調整、營養補充和生活方式的改善，可以有效缓解 craving 和相關健康問題，從而提升整體生活質量。
 </details>
 
 <details>
