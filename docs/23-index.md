@@ -746,7 +746,7 @@
 </details>
 
 <details>
-<summary>2386. What's Behind Thyroid Nodules? Thyroid Disorders & Selenium Deficiency – Dr.Berg</summary><br>
+<summary>2386. [2019-09-04] What's Behind Thyroid Nodules? Thyroid Disorders & Selenium Deficiency – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DMi1o9KPqxc" target="_blank">
     <img src="https://img.youtube.com/vi/DMi1o9KPqxc/maxresdefault.jpg" 
@@ -755,11 +755,84 @@
 
 # What's Behind Thyroid Nodules? Thyroid Disorders & Selenium Deficiency – Dr.Berg
 
+### 核心主題：硒元素在甲状腺疾病中的作用及健康管理
 
+---
+
+### 主要觀念：
+
+1. **硒元素和碘元素的重要性**：
+   - 甲状腺是身體中儲存硒元素和碘元素的主要器官。
+   - 硒和碘的比例失衡可能對甲状腺造成損害。
+
+2. **硒元素的抗氧化功能**：
+   - 硒作為抗氧化劑，能夠清除自由基，降低活性氧（ROS）如過氧化氫的危害。
+   - 谷胱甘肊（glutathione）是硒的重要衍生物，具有抗氧化作用。
+
+3. **Hashimoto病（橋本氏甲狀腺炎）的特點**：
+   - 一種自身免疫性甲狀腺疾病，佔多數甲低問題。
+   - 病變過程中會產生大量過氧化氫，造成甲状腺細胞損害和纖維化。
+
+4. **硒元素在激素轉換中的作用**：
+   - 硒參與T4（四碘othyronine）向T3（三碘othyronine）的轉換。
+   - 硒的重要性與碘相同。
+
+---
+
+### 問題原因：
+
+1. **硒 deficiency 的影響**：
+   - 硒缺乏會導致抗氧化能力下降，加重自由基損傷。
+   - 過量的碘也可能對甲状腺造成損害。
+
+2. **Hashimoto病的氧化應激**：
+   - 活性氧（ROS）積累引發氧化應激，破壞 thyroid cells。
+   - 纤維化進一步惡化甲狀腺功能。
+
+---
+
+### 解決方法：
+
+1. **補充硒元素**：
+   - 選擇有機硒形式（如Celino methionine或Celino cysteine）。
+   - 有機硒化合物更易於吸收，並具有抗炎和抗氧化的功效。
+
+2. **調整飲食與營養補充**：
+   - 綜合攝取維生素E、維生素A、維生素D等微量營養素。
+   - 選擇含有tocotrienols的維生素E產品以增強效果。
+
+3. **聯合使用cod肝油**：
+   - 提供多種脂溶性 vitamins（如A、D、E）。
+   - 這些nutrients可與硒元素协同作用，改善甲狀腺健康。
+
+---
+
+### 健康建議：
+
+1. **飲食調整**：
+   - 确保攝取含硒食物（如巴西莓、酵母、蛋類和海藻）。
+   - 適量攝取碘含量高的食物（如海帶），避免過量。
+
+2. **營養補充劑的選擇**：
+   - 使用有機硒サプリメント，並配合維生素E複合劑。
+   - cod肝油可作為天然來源的脂溶性vitamins補充品。
+
+3. **定期監測 thyroid function**：
+   - 在醫師指導下進行血清TSH、T4和T3測試。
+   - 跟踪硒和其他微量元素的水平變化。
+
+---
+
+### 結論：
+
+- 甲狀腺問題，尤其是橋本氏病，與硒缺乏密切相關。
+- 硒元素在抗氧化、激素轉換和免疫調節方面具有重要作用。
+- 適當補充有機硒並配合其他微量營養素（如維生素A、D、E）可顯著改善甲狀腺健康。
+- 建議患者在專業醫療人員的指導下制定個化化的健康管理計劃。
 </details>
 
 <details>
-<summary>2385. Ketones Are Way More Than Just Energy Fuel – Dr.Berg On Benefits Of Ketones</summary><br>
+<summary>2385. [2019-09-04] Ketones Are Way More Than Just Energy Fuel – Dr.Berg On Benefits Of Ketones</summary><br>
 
 <a href="https://www.youtube.com/watch?v=b9G7wR6BRuE" target="_blank">
     <img src="https://img.youtube.com/vi/b9G7wR6BRuE/maxresdefault.jpg" 
@@ -768,11 +841,60 @@
 
 # Ketones Are Way More Than Just Energy Fuel – Dr.Berg On Benefits Of Ketones
 
+### 核心主題：酮體的作用與益處  
+酮體不僅僅是身體的能量來源，還具有多方面的生理作用和健康益處。
 
+---
+
+### 主要觀念：
+1. **酮體的功能**
+   - 作為能量來源。
+   - 調節食欲，降低 hunger 感覺。
+   - 抗氧化作用，减少 oxidative stress。
+   - 放鬆交感神經系統，減輕壓力和焦慮。
+   - 保護心血管健康，防止 arteriosclerosis（動脈硬化）。
+   - 具有抗炎特性，特別是有關關節炎和其他炎症性疾病。
+   - 提供腦部和神經系統的保護。
+   - 抑制癌细胞生長。
+
+2. **酮體在疾病中的角色**
+   - 降低癌症風險：癌細胞依賴葡萄糖生存，酮症可抑制其生長。
+   - 改善心血管健康：酮體使動脈保持彈性，降低血壓。
+   - 神經保護作用：對 Alzheimer 病和其他神經退化性疾病有幫助。
+
+---
+
+### 問題原因：
+- **現代飲食問題**：高糖、高碳水化合物飲食導致胰島素抵抗和慢性炎症。
+- **氧化應激**：自由基過多，抗氧化劑不足，導致細胞損傷和衰老。
+- **壓力和睡眠障礙**：交感神經系統過度活躍，影響睡眠和整體健康。
+
+---
+
+### 解決方法：
+1. **飲食調整**
+   - 降低碳水化合物攝取，增加脂肪比例，促進酮症生成。
+2. **生活方式改變** 
+   - 管理壓力，通過冥想、運動等方式放鬆交感神經系統。
+   - 保持規律的睡眠，改善睡眠品質。
+3. **補充抗氧化劑**
+   - 食用富含抗氧化物的食物（如 berries, 蔬菜等）以平衡氧化應激。
+
+---
+
+### 健康建議：
+- **實施生酮飲食**：在專業指導下開始酮症ダイエットプラン，避免初期不適。
+- **監控健康指標**：定期檢查血壓、血脂和血糖水平。
+- **整體健康管理**：結合運動、充足睡眠和心理壓力管理，全面提升健康狀態。
+
+---
+
+### 結論：
+酮症不僅能提供能量，還能在多個層面改善整體健康。通過飲食調整和生活方式改變，可以利用酮體的多重益處，預防疾病並提升生活品質。
 </details>
 
 <details>
-<summary>2384. What Is Epigenetics: In Simple Terms - DNA Sequencing – Dr.Berg</summary><br>
+<summary>2384. [2019-09-03] What Is Epigenetics: In Simple Terms - DNA Sequencing – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=g12kIu9jrIk" target="_blank">
     <img src="https://img.youtube.com/vi/g12kIu9jrIk/maxresdefault.jpg" 
@@ -781,11 +903,51 @@
 
 # What Is Epigenetics: In Simple Terms - DNA Sequencing – Dr.Berg
 
+### 核心主題：表觀遺傳學（Epigenetics）
+- 表觀遺傳學研究基因表達的可變性，而不涉及DNA序列的更改。
+- 基因是DNA的小段，DNA是生物體的藍圖，轉錄為RNA後指導蛋白質合成。
 
+### 主要觀念：
+1. **基因的功能**：
+   - 基因是DNA的片段，控制蛋白質合成。
+   - RNA作為中介，將DNA指令轉譯為蛋白質。
+
+2. **表觀遺傳學的定義**：
+   - 表現型的可塑性，環境因素影響基因表達。
+   - 基因表達受外界刺激啟動或抑制。
+
+3. **基因表達的控制**：
+   - 基因表達涉及啟動（激活）或沉默（關閉）。
+   - 表現為基因是否被「表達」。
+
+### 環境因素對基因表達的影響：
+- 遐食、營養、禁食、溫度、壓力、睡眠、運動、心理狀態等均能影響基因表達。
+
+### 問題原因：
+- 基因表型受環境而非遺伝子序列控制。
+- 人類基因組中只有1%的差異，其余為表觀遺傳調控。
+
+### 解決方法：
+- 管理環境因素以調控基因表達。
+- 通過健康生活方式改進基因表現。
+
+### 健康建議：
+1. **飲食**：
+   - 注意營養攝取與禁食周期。
+2. **壓力管理**：
+   - 控制壓力水平，促進恢復。
+3. **運動**：
+   - 適當運動調整基因表達。
+4. **精神健康**：
+   - 維持良好的心理狀態，影響基因活動。
+
+### 结論：
+- 個人對基因表達有控制力，環境因素可塑造基因表現。
+- 通過健康的生活方式可以主動調控基因，達到改善健康的目的。
 </details>
 
 <details>
-<summary>2383. Use Epsom Salt For Toenail Fungus - Treatment For Toenail Fungus – Dr.Berg</summary><br>
+<summary>2383. [2019-09-03] Use Epsom Salt For Toenail Fungus - Treatment For Toenail Fungus – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ybWe5N4vCYg" target="_blank">
     <img src="https://img.youtube.com/vi/ybWe5N4vCYg/maxresdefault.jpg" 
@@ -794,7 +956,33 @@
 
 # Use Epsom Salt For Toenail Fungus - Treatment For Toenail Fungus – Dr.Berg
 
+### 文章重點整理
 
+#### 核心主題  
+- 推荐使用Epsom盐（硫酸镁）作为治疗 toenail fungus 的有效天然疗法。
+
+#### 主要觀念  
+1. Epsom盐是一种自然矿物盐，具有良好的抗微生物和抗真菌特性。
+2. 治疗方法包括将Epsom盐溶解于温水中进行浸泡，并结合其他护理措施以改善感染情况。
+
+#### 問題原因  
+- toenail fungus 是一种由真菌引起的感染，通常在潮湿环境中滋生并破坏指甲组织。
+
+#### 解決方法  
+1. **藥物治療**：使用Epsom盐（硫酸镁）溶液进行浸泡。具体步骤如下：
+   - 溶解2茶匙的Epsom盐于4杯水中。
+   - 将溶液加热至温热状态，待其稍微冷却后使用。
+   - 每天浸泡脚趾15分钟，持续3到4周。
+2. **物理治療**：使用指甲锉去除死皮和受感染的指甲部分，以减少真菌藏匿的机会。
+
+#### 健康建議  
+- 避免腳部過度潮濕，因為真菌喜愛潮濕環境。
+- 在公共場所如泳池或健身房等地應穿著通風良好的鞋子，避免赤足行走。
+- 保持足部清潔和干燥，定期修剪指甲以防止真菌滋生。
+
+#### 結論  
+- 使用Epsom盐浸泡结合物理_cleanup是治療 toenail fungus 的有效方法。
+- 持續規律的治療和護理可促進感染康復並預防复发。
 </details>
 
 <details>
@@ -811,7 +999,7 @@
 </details>
 
 <details>
-<summary>2381. Small Intestinal Bacterial Overgrowth(SIBO) Steals Your Nutrients – Dr.Berg</summary><br>
+<summary>2381. [2019-09-02] Small Intestinal Bacterial Overgrowth(SIBO) Steals Your Nutrients – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fOIjbB27enE" target="_blank">
     <img src="https://img.youtube.com/vi/fOIjbB27enE/maxresdefault.jpg" 
@@ -820,11 +1008,68 @@
 
 # Small Intestinal Bacterial Overgrowth(SIBO) Steals Your Nutrients – Dr.Berg
 
+### 文章整理：SIBO 影響營養吸收的核心問題與解決方案
 
+#### 一、核心主題  
+- **小肠细菌过度生长（SIBO）**：指肠道菌群失衡，原本應存在於大腸的有益菌進入小腸，造成菌群失衡。
+
+#### 二、主要觀念  
+1. **正常菌群分布**：
+   - 良性菌群通常位於大腸。
+   - SIBO時，這些菌群移至小腸，導致功能紊亂。
+
+2. **營養吸收受阻**：
+   - 菌群過度生長會發酵碳水化合物，消耗B12、鐵和膽汁等關鍵營養素。
+   - 症狀包括疲勞、貧血及脂溶性維生素（A、D、E、K）缺乏。
+
+3. **代謝影響**：
+   - 菌群分解食物成分，導致脂肪吸收不良，進一步引發维生素缺乏症。
+
+#### 三、問題原因  
+1. **手術後的結構改變**：
+   - 手術可能改變消化道結構，使菌群移至小腸。
+
+2. **胃酸不足**：
+   - 胃酸不足無法有效殺死微生物，導致其進入小腸並繁衍。
+
+3. **膽汁缺乏**：
+   - 膽汁不足影響脂溶性維生素吸收，加重營養缺失。
+
+#### 四、解決方法  
+1. **增加胃酸**：
+   - 使用枸橼酸鉄茋菪堿（betaine hydrochloride）。
+   - 搭配食醋或其粉末增強效果。
+
+2. **間歇性禁食**：
+   - 經常進食使腸道負荷過重，禁食可幫助清潔腸道，恢復菌群平衡。
+
+3. **避免益生元和纖維**：
+   - 暫時避免蔬菜和高纖食物，防止菌群進一步發酵。
+   - 避免使用益生菌，以免加重菌群失衡。
+
+4. **抗生素治療**：
+   - 使用草本抗生素（如百里香、大蒜等）抑制有害菌生長。
+
+#### 五、健康建議  
+1. **飲食調整**：
+   - 暫時採用低纖維飲食，減少腸道負擔。
+   - 減少高碳水化合物食物攝取，避免腸道菌群進一步惡化。
+
+2. **定期檢查**：
+   - 及時進行相關檢測（如呼氣試驗），確診SIBO並跟蹤治療效果。
+
+3. **生活習慣改善**：
+   - 保持規律進餐時間，避免暴飲暴食。
+   - 減少應酬飲酒，降低腸道感染風險。
+
+#### 六、結論  
+- SIBO是一種常被忽略的健康問題，其導致的營養缺乏症可能引發多種嚴重疾病。
+- 早期診斷和治療至關重要，關鍵在於恢復腸道菌群平衡並改善消化功能。
+- 治療策略應結合藥物、飲食調整及生活方式的改變，以實現全面康復。
 </details>
 
 <details>
-<summary>2380. Why has my weight loss plateaued? How do you break a weight loss plateau? – Dr.Berg</summary><br>
+<summary>2380. [2019-09-01] Why has my weight loss plateaued? How do you break a weight loss plateau? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=A8FWRkpbCVI" target="_blank">
     <img src="https://img.youtube.com/vi/A8FWRkpbCVI/maxresdefault.jpg" 
@@ -833,7 +1078,56 @@
 
 # Why has my weight loss plateaued? How do you break a weight loss plateau? – Dr.Berg
 
+### 文章重點整理
 
+#### 1. 核心主題
+- 探讨健康生活方式与体重管理的核心要素，包括饮食、 fasting、微生物平衡和环境因素。
+
+#### 2. 主要觀念
+- 饮食模式对代谢和健康的深远影响。
+- 短期禁食（intermittent fasting）对消化系统和整体健康的益处。
+- 微生物平衡在体重管理和代谢健康中的作用。
+- 环境因素（如农药、抗生素）对体重的影响。
+
+#### 3. 問題原因
+- 不良饮食习惯导致的代谢失衡和慢性疾病。
+- 长期使用抗生素或暴露于农药等环境毒素，破坏肠道菌群平衡。
+- 缺乏足够的休息和消化系统恢复时间。
+- 饮食中隐藏的有害物质（如 glyphosate）对健康的负面影响。
+
+#### 4. 解決方法
+- **饮食调整**：
+  - 增加蔬菜、水果和高纤维食物的摄入。
+  - 减少精制糖和反式脂肪的消费。
+  - 避免 GMO 食品，选择有机产品以减少农药残留。
+
+- **短期禁食（intermittent fasting）**：
+  - 定期进行 16 小時至 72 小時的断食，促进消化系统恢复和代谢优化。
+  - 断食期间补充电解质（如钾、海盐）以维持身体稳定。
+
+- **微生物平衡**：
+  - 增加益生菌和益生元摄入，通过酸奶、发酵食品等调节肠道菌群。
+  - 使用特定的益生菌补充剂（如 Effective Microbes）改善肠道健康。
+
+- **环境因素管理**：
+  - 避免食用含有抗生素的动物产品。
+  - 减少 glyphosate 等农药的摄入，选择有机食品。
+
+#### 5. 健康建議
+- 定期进行 prolonged fasting（如 21 天），以促进细胞修复和代谢改善。
+- 断食后逐步 reintroduce 食物，避免肠胃负担过重。
+- 使用补充剂如维生素 D、苹果醋、肉桂等辅助管理体重和代谢。
+- 建立规律的饮食习惯，避免过度摄入高糖高脂食物。
+
+#### 6. 結論
+- 良好的健康习惯和饮食模式是实现长期体重管理和整体健康的关键。
+- 科学合理的禁食和微生物调节可以显著改善代谢功能和消化系统健康。
+- 减少环境毒素的暴露，选择健康的食品来源，是维护身体健康的重要措施。
+
+---
+
+### 簡潔總結
+文章強調了飲食模式、短期禁食、腸道菌群平衡及環境因素在健康管理和體重控制中的重要性。建議通過調整飲食結構、定期斷食、補充益生菌和避免環境毒素來改善整體健康，並特別提到使用有機食品和scientifically-backed的補充劑來支持這些目標。
 </details>
 
 <details>
@@ -850,7 +1144,7 @@
 </details>
 
 <details>
-<summary>2378. Diabetic Gangrene: Symptoms, Causes & Treatment – Dr.Berg On Diabetic Foot</summary><br>
+<summary>2378. [2019-08-31] Diabetic Gangrene: Symptoms, Causes & Treatment – Dr.Berg On Diabetic Foot</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_HmRSMINhiM" target="_blank">
     <img src="https://img.youtube.com/vi/_HmRSMINhiM/maxresdefault.jpg" 
@@ -859,11 +1153,75 @@
 
 # Diabetic Gangrene: Symptoms, Causes & Treatment – Dr.Berg On Diabetic Foot
 
+### 小節整理：為什麼有些糖尿病患者會發生壞疽，而其他則不會？
 
+#### 核心主題
+- 坏疽（Gangrene）是 diabetic 患者晚期並發症之一，主要影響肢端組織（如足部），導致組織死亡。
+
+#### 主要觀念
+1. **壞疽的定義與成因**
+   - 坏疽是指身體某部位的 tissue 死亡，通常由血液供應不足或感染引起。
+   - 在 diabetic 患者中，壞疽常見於足部和手部，組織顏色會變成黑、黃、紅甚至帶有綠色。
+
+2. **壞疽的病理機轉**
+   - 高血糖（Hyperglycemia）導致血管病變：血液中的過高血糖損害血管內皮細胞（endothelial layer），引發氧化應激和自由基生成。
+   - 血管僵硬與狹窄：糖化作用使血管壁增厚、變硬，影響血流，特別是微小的毛細血管。
+   - 神經病變（Neuropathy）：血糖控制不佳導致神經損傷，降低對肢端組織的感知能力，增加感染風險。
+
+3. **壞疽的分類**
+   - 損傷部位：通常從足部開始，逐漸向上發展。
+   - 病理特徵：組織缺血、感染和潰瘍形成。
+
+#### 問題原因
+1. **血糖控制不良**
+   - 長期高血糖導致微血管損害，影響肢端血液供應。
+   - 血糖濃度越高，血管病變越嚴重。
+
+2. **血管內皮細胞的易感性**
+   - 紅血球和腦細胞等不需要胰島素運輸葡萄糖的組織更易受高血糖影響。
+   - 血管內皮細胞不具備胰島素抵抗 mechanism，因此過多的血糖直接進入血管壁，造成損傷。
+
+3. **神經系統受損**
+   - 糖尿病神經病變導致肢端感官減退，增加外傷風險且不易察覺感染。
+   - 早期可能有疼痛，但隨著神經死亡，患者可能完全失去痛覺。
+
+#### 解決方法
+1. ** Surgically Intervention**
+   - 坏疽晚期可能需要截肢以防止感染蔓延，但患者可能抗拒此選擇。
+
+2. **FDA批准的療法：蛆蟲治療（Maggot Therapy）**
+   - 使用特種 maggots 清除壞死組織，而不傷害健康組織。
+   - 蟲子分泌抗生素和酶，促進癰潰瘍清潔並刺激癒合。
+
+3. **藥物治療**
+   - **Benfotiamine**：一種脂肪可溶性維生素 B 群衍生物，能穿透神經鞘，保護神經免受高血糖侵害。
+   - **劑量建議**：每日四次，分次服用，可有效緩解周邊神經病变。
+
+#### 健康建議
+1. **飲食控制**
+   - 避免攝取過多糖分，選擇低GI食物以穩定血糖水平。
+   - 減少對血液的額外壓力，防止血管進一步損害。
+
+2. **定期檢查與監測**
+   - 定期進行足部檢查，早期發現潰瘍或感染跡象。
+   - 監控血糖濃度，保持在目標範圍內以降低並發症風險。
+
+3. **個人衛生與護理**
+   - 保持肢端清潔，避免外傷和感染。
+   - 穿著舒適、合適的鞋子，防止足部受壓或摩擦。
+
+4. **藥物依從性**
+   - 按時服用醫師開具的藥物，特別是針對神經病變的药物如 Benfotiamine。
+
+#### 總結
+- 坏疽在 diabetic 患者中是一個 serious 并發症，主要由高血糖引起的血管和神經損害導致。
+- 預防關鍵在於良好的血糖控制、定期檢查和肢端護理。
+- 病情晚期可考慮 Surgically Intervention 或替代療法如蛆蟲治療。
+- 早期干預和綜合管理可以顯著降低壞疽的發生率和嚴重性。
 </details>
 
 <details>
-<summary>2377. What is Tonsils & Do You Need Them? – Dr.Berg</summary><br>
+<summary>2377. [2019-08-31] What is Tonsils & Do You Need Them? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=d_igjDskDZI" target="_blank">
     <img src="https://img.youtube.com/vi/d_igjDskDZI/maxresdefault.jpg" 
@@ -872,11 +1230,55 @@
 
 # What is Tonsils & Do You Need Them? – Dr.Berg
 
+### 小節歸納
 
+#### 核心主題
+- **tonsils的功能與重要性**：扁桃腺（tonsils）是免疫系統的一部分，具有防止微生物進入肺部和其他部位、降低呼吸道感染風險的重要功能。
+
+#### 主要觀念
+- **扁桃腺的免疫作用**：
+  - 扁桃腺主要負責防止微生物進入肺部，從而降低 respiratory infection 的發生率。
+  - 它們能夠激活 T-cells，並引發免疫反應以產生抗體，保護身體免受感染。
+
+- **淋巴組織的分布**：
+  - 除了扁桃腺，還有腋下 lymphatic tissue 等部位的淋巴组织，共同作用於防止微生物進入不同的身體部位。
+  - 扁桃腺分佈在喉嚨後方的不同位置，形成多個 lymphoid tissues。
+
+#### 問題原因
+- **扁桃腺切除的問題**：
+  - 雖然有些人主張可以切除扁桃腺而不影響健康，但事實上，所有器官都有其存在的意義和功能。
+  - 切除扁桃腺會增加呼吸道感染的風險。
+
+- **慢性扁桃腺炎的原因**：
+  - 經常患有慢性 tonsil infections 或 swollen tonsils 的人通常有高 sugar 或高 dairy 的飲食習慣。
+  - 高糖和乳制品可能削弱免疫系統，導致感染反覆發生。
+
+#### 解決方法
+- **增強免疫系統的支持**：
+  - **Zinc 和 Vitamin D**：這些微量營養素對於支持淋巴系統的功能、提高免疫力至關重要。
+  - **Fasting（禁食）**： fasting 可以幫助身體排毒，並自然地促進免疫系統的修復和增強。
+
+- **飲食調整**：
+  - 減少高糖和高乳制品的攝入，選擇更健康的飲食習慣，以降低扁桃腺感染的風險。
+
+#### 健康建議
+- **生活方式的改善**：
+  - 養成良好的飲食習慣，避免過量攝取糖分和乳制品。
+  - 考慮定期進行禁食，以促進免疫系統的健康。
+  - 確保攝取足夠的 nutrients，如 Zinc 和 Vitamin D，以維持免疫功能。
+
+#### 結論
+- **扁桃腺的重要性**：
+  - 扁桃腺是免疫系統的重要組成部分，具有防止感染、保護身體免受微生物侵害的功能。
+  - 切除扁桃腺可能增加健康風險，因此應避免不必要的手術干預。
+
+- **整體健康的重要性**：
+  - 健康的飲食和生活方式對於維持免疫系統功能和全身健康至關重要。
+  - 養成良好的生活習慣，如攝取足夠的營養、規律禁食等，可以有效增強免疫力，降低疾病風險。
 </details>
 
 <details>
-<summary>2376. How To Use MCT Oil To Improve Your Sleep – Dr.Berg On MCT Oil Benefits</summary><br>
+<summary>2376. [2019-08-30] How To Use MCT Oil To Improve Your Sleep – Dr.Berg On MCT Oil Benefits</summary><br>
 
 <a href="https://www.youtube.com/watch?v=irGVyiQNn_Y" target="_blank">
     <img src="https://img.youtube.com/vi/irGVyiQNn_Y/maxresdefault.jpg" 
@@ -885,11 +1287,53 @@
 
 # How To Use MCT Oil To Improve Your Sleep – Dr.Berg On MCT Oil Benefits
 
+### 小節歸納
 
+#### 核心主題
+- 探讨中鏈三酰甘油（MCT油）在改善睡眠质量中的潜在作用，特别是针对睡眠呼吸暫停綜合症（Sleep Apnea）的影響。
+
+#### 主要觀念
+1. **酮體的作用**：
+   - 酮體提供比葡萄糖更高效的氧氣供應。
+   - 降低二氧化碳水平，促進更好的氧氣利用。
+2. **腦部對酮體的偏好**：
+   - 腦部某些區域（如松果腺、下丘腦和垂体）可以有效利用酮體作為能量來源。
+3. **睡眠與呼吸之間的關聯**：
+   - 睡眠質量受氧氣供應影響，缺氧會干擾睡眠。
+
+#### 問題原因
+- 睡眠呼吸暫停綜合症導致缺氧，影響睡眠品質。
+- 腦部傳統上被認為只能依靠葡萄糖，限制了酮體在腦功能中的應用。
+
+#### 解決方法
+1. **MCT油的使用**：
+   - MCT油轉化為酮體效率高，可作為快速供能來源。
+   - 推薦睡前一小時服用半茶匙MCT油，逐步增加劑量以避免胃腸不適。
+2. **酮體在腦部的作用**：
+   - 支持松果腺分泌褪黑激素，改善睡眠節律。
+   - 調節下丘腦的昼夜節律 nuclei（如 suprachiasmatic nuclei），增強睡眠品質。
+
+#### 健康建議
+1. **劑量控制**：
+   - 初始使用半茶匙MCT油，逐步增加至一茶匙。
+2. **飲食與生活方式調整**：
+   - 確保酮體的足夠供應，有助於提升腦部功能和睡眠品質。
+3. **監測與反饋**：
+   - 記錄睡眠改善情況，根據個人反應調整用量。
+
+#### 理論依據
+1. **酮體的能量優勢**：
+   - 酮體提供更高效的能量來源，降低二氧化碳水平。
+2. **腦部的代謝彈性**：
+   - 腦部某些區域可利用酮體，減輕對葡萄糖的依賴。
+
+#### 結論
+- MCT油作為酮體前體，在睡前使用可能有效改善睡眠品質，特別是針對睡眠呼吸暫停綜合症患者。
+- 酮體在腦部的能量代謝中具有重要意義，未來研究可進一步探索其在神經健康中的應用。
 </details>
 
 <details>
-<summary>2375. Olive Oil Benefits & Uses For  Anti-Aging Skin – Dr.Berg</summary><br>
+<summary>2375. [2019-08-30] Olive Oil Benefits & Uses For  Anti-Aging Skin – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ZaVGvytCB9w" target="_blank">
     <img src="https://img.youtube.com/vi/ZaVGvytCB9w/maxresdefault.jpg" 
@@ -898,11 +1342,33 @@
 
 # Olive Oil Benefits & Uses For  Anti-Aging Skin – Dr.Berg
 
+### 核心主題
+- 抗衰老與橄欖油的抗氧化特性。
 
+### 主要觀念
+1. 橄欖油富含酚類化合物（phenols），這是一種強大的抗氧化劑。
+2. 研究表明，使用橄欖油可以顯著降低氧化應激對DNA造成的損害。
+3. 隨着年齡增長，基因受到的損害增加，修復能力減弱， chromosome 的端粒（telomeres）逐漸短縮，這與壽命 expectancy 有密切關聯。
+
+### 問題原因
+1. 自由基（free radicals）是由氧化作用產生的不穩定分子，會從其他組織中竊取電子以求穩定，導致組織損傷。
+2. 在線粒體（mitochondria）中，由于其含有自己的DNA且缺乏 nucleus 的保護，容易受到自由基的攻擊，這可能與許多慢性疾病（如癌症）的發生有關。
+
+### 解決方法
+1. 使用橄欖油作為抗氧化劑，特別是其酚類化合物可以有效中和自由基，保護 DNA。
+2. 避免使用其他 vegetable oils（如大豆油、玉米油等），因其可能不是抗氧化劑，甚至可能增加氧化壓力。
+
+### 健康建議
+1. 在日常飲食中加入橄欖油，例如用於沙拉調味。
+2. 選擇 extra virgin olive oil，以確保獲得最高的抗氧化效益。
+
+### 結論
+- 橄欖油因其酚類化合物的抗氧化特性，在抗衰老和預防慢性疾病方面具有重要價值。
+- 遊離基的過度存在會導致基因損傷和端粒短縮，而橄欖油可以有效對抗這些有害影響。
 </details>
 
 <details>
-<summary>2374. Worst Low Carb Foods/ Keto Foods To Avoid – Dr.Berg</summary><br>
+<summary>2374. [2019-08-29] Worst Low Carb Foods/ Keto Foods To Avoid – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3iG8RYyumYE" target="_blank">
     <img src="https://img.youtube.com/vi/3iG8RYyumYE/maxresdefault.jpg" 
@@ -911,11 +1377,73 @@
 
 # Worst Low Carb Foods/ Keto Foods To Avoid – Dr.Berg
 
+### 小節化整理
 
+#### 核心主題  
+- 探讨酮饮食中低糖食品的选择与健康风险，强调低糖并不等同于健康。
+
+---
+
+#### 主要觀念  
+1. **劣质蛋白质来源**：  
+   - 素食蛋白 isolate（如大豆分离蛋白）：低脂、高蛋白，但对肝脏有害，常含有 GMO 成分和除草剂残留。  
+   - 乳清蛋白（Casein）：多来自谷物喂养的奶牛，可能引发胰岛素反应。
+
+2. **糖醇与甜味剂**：  
+   - 马尔托代糖（Maltitol）：高血糖指数，易导致消化不良。  
+   - 三氯蔗糖（Sucralose）：干扰肠道菌群，可能增加胰岛素抵抗。
+
+3. **加工食品问题**：  
+   - 工厂化肉类：含防腐剂和硝酸盐，激素残留风险高。  
+   - 加工奶酪：多来自非草饲牛，添加剂使用不当。  
+
+4. **不健康脂肪来源**：  
+   - 反式脂肪（如人造黄油）：促进炎症反应，影响代谢健康。  
+   - 种子油（如大豆油、玉米油）：高比例 ω-6 脂肪酸，易引发氧化应激和胰岛素抵抗。
+
+5. **其他低质量食品**：  
+   - 农场养殖鱼类：饲料多含 GMO 成分。  
+   - 低脂乳制品：可能含有 glyphosate 殘留，且低脂蛋白可能导致胰岛素升高。
+
+---
+
+#### 問題原因  
+1. **工业化加工**：许多低糖食品经过高度加工，导致营养密度下降并引入有害成分（如防腐剂、添加剂）。  
+2. **GMO 与农药残留**：大量食品原料来自转基因作物，并含有除草剂 glyphosate。  
+3. **不合理的脂肪替代**：使用高ω-6 脂肪酸或反式脂肪代替传统饱和脂肪，增加炎症风险。  
+
+---
+
+#### 解決方法  
+1. **选择优质食材**：  
+   - 优先选用未加工的天然食品。  
+   - 寻找草饲牛肉、有机乳制品和未经基因改造的蛋白质来源。
+
+2. **避免劣质甜味剂**：  
+   - 减少使用糖醇（如 maltitol）和人工甜味剂（如 sucralose）。  
+
+3. **优化脂肪摄入**：  
+   - 增加饱和脂肪的比例，减少ω-6 脂肪酸的摄入。  
+
+4. **关注食品标签**：  
+   - 避免含有不明成分或低质量原料的产品。  
+   - 选择标明非 GMO 的产品以降低农药残留风险。
+
+---
+
+#### 健康建議  
+1. **饮食多样化**：确保摄入足够的膳食纤维、维生素和矿物质，避免单一营养素的过量摄入。  
+2. **优先天然食品**：减少加工食品的消费，尤其是含有人工添加剂的产品。  
+3. **关注长期健康**：酮饮食虽有助于体重管理，但需注意整体代谢健康，避免劣质食品对身体的累积影响。
+
+---
+
+#### 結論  
+酮饮食中选择低糖食品时，需谨慎评估其营养价值和潜在风险。优先选择未经加工、非转基因且来源明确的食材，以确保长期健康效益。劣质食品的选择可能导致胰岛素抵抗、炎症反应和其他代谢问题，因此在追求低碳水化合物生活方式的同时，应注重整体营养平衡与食品安全性。
 </details>
 
 <details>
-<summary>2373. What Does The Spleen Do? – Dr.Berg Explains Spleen Function</summary><br>
+<summary>2373. [2019-08-28] What Does The Spleen Do? – Dr.Berg Explains Spleen Function</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kiXbC0L-e4g" target="_blank">
     <img src="https://img.youtube.com/vi/kiXbC0L-e4g/maxresdefault.jpg" 
@@ -924,11 +1452,53 @@
 
 # What Does The Spleen Do? – Dr.Berg Explains Spleen Function
 
+### 核心主題：脾臟的功能與重要性
 
+- **位置**：脾臟位於腹腔內，緊鄰右側肋骨下方，藏於膈肌之下。
+- **尺寸**：其大小約為2.8至5.5英寸（7至14厘米）。
+
+### 主要觀念：脾臟的多項功能
+
+#### 1. 血液循環中的清潔與再生
+- 脾臟負責清除血液中衰老、畸形或損壞的紅血球，這些紅血球通常呈月牙形狀。
+- 它回收並重複利用鐵質，鐵質是合成血紅蛋白的必需元素。
+
+#### 2. 血液儲備功能
+- 脾臟儲存約一杯血液（約500毫升），在必要時釋放至 circulatory system。
+
+#### 3. 免疫調節作用
+- 脾臟參與免疫反應，清除血液中的病原體和抗原。
+- 假如脾臟被切除，個體對感染的抵抗力會降低。
+
+### 問題原因： spleen的重要性及缺失影響
+
+- **感染風險增加**：缺乏脾臟的人更容易受到感染，尤其是由肺炎球菌、流感桿菌和腦膜炎雙球菌引起的感染。
+- **血液循環問題**：脾臟切除可能導致紅血球清除功能受損，增加 circulatory system 的負擔。
+
+### 解決方法：保養與健康管理
+
+#### 1. 預防感染
+- 定期接受醫療諮詢，了解感染風險並採取適當的預防措施。
+- 在某些情況下，醫生可能會建議接種疫苗以降低感染風險。
+
+#### 2. 健康生活方式
+- 維持均衡飲食，攝取足夠的營養，特別是鐵質和蛋白質，以支持血液健康。
+- 適當運動，增強免疫系統功能。
+
+### 健康建議： spleen保護的重要性
+
+- **定期檢查**：尤其是有脾臟相關疾病的風險群體，應定期進行醫療檢查。
+- **避免過度疲勞**：保持良好的生活節奏，避免身體過度消耗，以保護脾臟功能。
+
+### 結論：脾臟在人體中的關鍵角色
+
+- 脾臟在血液循環、免疫防禦和儲血方面發揮著不可替代的作用。
+- 颫肭的健康直接影響整體健康，特別是感染抵抗能力。
+- 溫馨提示：保持良好的生活習慣，並定期接受醫療檢查，以維護脾臟功能和整體健康。
 </details>
 
 <details>
-<summary>2372. Sneaky Hidden Ways To Make Sugar Look Healthier – Dr.Berg On Hidden Sugars</summary><br>
+<summary>2372. [2019-08-28] Sneaky Hidden Ways To Make Sugar Look Healthier – Dr.Berg On Hidden Sugars</summary><br>
 
 <a href="https://www.youtube.com/watch?v=d66BlatRA38" target="_blank">
     <img src="https://img.youtube.com/vi/d66BlatRA38/maxresdefault.jpg" 
@@ -937,11 +1507,67 @@
 
 # Sneaky Hidden Ways To Make Sugar Look Healthier – Dr.Berg On Hidden Sugars
 
+### 文章整理：隱藏的糖分陷阱：如何讓糖看起來更健康？
 
+#### 核心主題：
+- 探讨食品中隱藏的糖分問題，特別是一些看似健康的糖類產品和加工食品，事實上可能對健康造成不良影響。
+
+#### 主要觀念：
+1. **糖的不同形式及其Marketing策略**：
+   - 白糖、紅糖、黑糖等不同形態的糖在市場上被標榜為更「健康」或「自然」。
+   - 例如：「椰子糖」、「棕糖」、「糙米糖」等，這些糖類產品雖然來源於天然物質，但本质上仍然是高糖分來源。
+
+2. **食品包裝的خداع**：
+   - 许多加工食品在包裝上使用「健康」字眼（如：「Organic」、「Natural」、「Non-GMO」等），騙取消費者信任。
+   - 例如：「含水果」或「以全穀物為基底」的食物，事實上可能含有大量糖分。
+
+3. **食品成分的真相**：
+   - 某些食物看似健康，其實經過高度加工後，營養價值被極大降低，甚至只剩下精餾糖和空熱量。
+   - 例如：果汁濃縮液、果醬等產品，雖然來源於水果，但其高糖分含量可能對健康造成負面影響。
+
+#### 問題原因：
+1. **消費者對於食品成分的認知不足**：
+   - 很多消費者相信「天然」、「Organic」等標籤意味著食物是健康的，而忽略了糖分和熱量的攝取。
+   
+2. **食品產業的Marketing策略**：
+   - 食品廠商利用健康概念作為包裝，掩蓋產品中過高的糖分含量。
+
+3. **缺乏正確的營養知識**：
+   - 消費者往往無法從食品標籤中快速辨識出隱藏的糖分來源，導致攝取過量。
+
+#### 解決方法：
+1. **提高消費者教育水平**：
+   - 需要普及基本的食品安全和營養學常識，幫助消費者理解食品包裝標籤的真相。
+   
+2. **閱讀食品成分表**：
+   - 消費者應該仔細查看食品成分表，注意糖分和其他添加劑的含量。
+
+3. **選擇 minimally processed foods**：
+   - 選擇未經高度加工的食物，如新鮮水果、蔬菜和全穀物，避免加工食品中的隱藏糖分。
+
+#### 健康建議：
+1. **控制糖分攝取**：
+   - 每天的糖分攝取量應限制在世界衛生組織推薦的範圍內（即每日不超過總熱量的10%，約50克）。
+
+2. **閱讀食品標籤**：
+   - 學會識別食物中的隱藏糖分，如「糖」、「 syrup」、「 corn syrup」等。
+
+3. **避免過度依賴加工食品**：
+   - 尽可能自己準備餐點，以減少外界添加的糖分攝取。
+
+4. **飲食均衡**：
+   - 確保飲食中包含足夠的蛋白質、健康脂肪和纖維，幫助穩定血糖水平。
+
+#### 結論：
+- 食品產業通過包裝和Marketing策略，讓許多含高糖分的食物看起來更健康。消費者需要提高警惕，仔細閱讀食品標籤，並選擇 minimally processed foods，以避免攝取過量的糖分，維持整體健康。
+
+---
+
+此整理結構清晰地展示了文章的核心內容，涵蓋了問題的來源、影響以及可行的解決方案，為消費者提供了實用的建議。
 </details>
 
 <details>
-<summary>2371. Should I Be Concerned With Goitrogenic Foods? – Dr.Berg On Hypothyroidism Diet</summary><br>
+<summary>2371. [2019-08-27] Should I Be Concerned With Goitrogenic Foods? – Dr.Berg On Hypothyroidism Diet</summary><br>
 
 <a href="https://www.youtube.com/watch?v=JHJkdadTxDc" target="_blank">
     <img src="https://img.youtube.com/vi/JHJkdadTxDc/maxresdefault.jpg" 
@@ -950,11 +1576,48 @@
 
 # Should I Be Concerned With Goitrogenic Foods? – Dr.Berg On Hypothyroidism Diet
 
+### 小節整理：反芻性食物對健康的影響及建議
 
+#### 1. 核心主題
+- 探讨反芻性（Goitrogenic）食物的潜在健康風險，特別是其對甲状腺功能的可能影響。
+
+#### 2. 主要觀念
+- 反芻性食物是指含有可能抑制碘吸收或干擾 thyroid hormone 生產的成分的食物。
+- 这些食物可能會導致甲状腺腫大（Goiter），特別是在碘攝取不足的情況下。
+
+#### 3. 問題原因
+- **反芻性食物的主要來源**：
+  - 玉米、木薯、甘藍類蔬菜（如 kale, broccoli, brussel sprouts, bok choy）。
+  - 油菜籽（Canola）、大豆、杏仁、櫻桃、草莓、 spinach 和甜薯等。
+- **風險因素**：
+  - 長期大量攝取未煮熟的反芻性食物。
+  - 遊移性碘缺乏。
+  - 個人對這些食物的敏感性。
+
+#### 4. 解決方法
+- **食物處理**：
+  - 煮熟或燉煮可以顯著降低反芻性化合物的含量，從而減輕其影響。
+- **飲食管理**：
+  - 減少攝取高風險食物（如未加工的甘藍類蔬菜、大豆、油菜籽等）。
+  - 避免過量攝取甜薯、玉米和木薯等食物。
+
+#### 5. 健康建議
+- **一般人群**：
+  - 大多數人不需要完全避免反芻性食物，但應控制攝取量和頻率。
+  - 煮熟或加工後食用可進一步降低風險。
+- **有甲状腺問題或碘缺乏的人**：
+  - 應限制反芻性食物的攝取，特別是頻繁且大量攝取的情況。
+  - 定期攝取富含碘的食物（如海鮮、鱼类等）以補充碘。
+  - 考慮補充劑，但需在專業醫師指導下使用。
+
+#### 6. 結論
+- 反芻性食物的影響因人而異，主要取決於攝取量、處理方式及個人健康狀況。
+- 大多數人不需要過度擔心，關鍵在於合理的飲食管理和針對個人情況的調整。
+- 若有疑慮或已存在甲状腺相關問題，建議諮詢專業醫療人員。
 </details>
 
 <details>
-<summary>2370. How To Reverse Insulin Resistance? – Dr.Berg</summary><br>
+<summary>2370. [2019-08-27] How To Reverse Insulin Resistance? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=cUXSPIi5mE0" target="_blank">
     <img src="https://img.youtube.com/vi/cUXSPIi5mE0/maxresdefault.jpg" 
@@ -963,11 +1626,52 @@
 
 # How To Reverse Insulin Resistance? – Dr.Berg
 
+### 核心主題
+- **胰島素抗性**：一種代謝紊亂狀況，導致細胞對胰島素的敏感度下降，影響血糖控制和能量利用。
 
+### 主要觀念
+1. 胰島素抗性的機制：
+   - 細胞膜上的胰島素受體功能障礙，阻止胰島素將葡萄糖攝入細胞。
+   - 高胰島素血症（血液中胰島素濃度過高）導致身體損傷和血糖控制失常。
+
+2. 胰島素抗性的後果：
+   - 細胞營養不良，最終導致功能障礙或死亡（如阿茲海默症）。
+   - 高血糖和動脈硬化等代謝疾病。
+
+### 問題原因
+1. **飲食因素**：
+   - 慢性攝入高碳水化合物食物。
+   - 頻繁進餐和零食攝取，導致胰島素分泌過度。
+
+2. **生活方式因素**：
+   - 經常進行無效的運動或飲食控制。
+
+### 解決方法
+1. **飲食調整**：
+   - 采用健康的生酮飲食（低碳水、高脂肪）。
+   - 結合間歇性禁食，降低胰島素分泌。
+
+2. **營養補充**：
+   - 补充關鍵微量營養素：鋅、維生素D、铬、钾、鎂和B族維生素。
+
+3. **運動與壓力管理**：
+   - 進行有氧運動和力量訓練。
+   - 減輕壓力，改善睡眠質量。
+
+4. ** supplements**：
+   - 使用特定補充劑來標靶胰腺β細胞功能。
+
+### 健康建議
+1. 跟踪血糖水平和Homa-IR指數（評估胰島素抗性的 biomarker）。
+2. 觀察身體變化，如腹部脂肪减少、血壓下降和能量水平提升。
+3. 注意食後 Satisfaction感，反映營養攝取效率。
+
+### 總結性意見
+胰島素抗性是可逆的，需結合健康飲食（如生酮飲食）、間歇性禁食、運動和壓力管理。恢復期通常為3至8個月，甚至一年。堅持正確的生活方式調整能有效改善代謝功能並預防相關疾病。
 </details>
 
 <details>
-<summary>2369. How Long Should I Do Keto & Intermittent Fasting? – Dr.Berg</summary><br>
+<summary>2369. [2019-08-26] How Long Should I Do Keto & Intermittent Fasting? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=zLB9SaE5xMM" target="_blank">
     <img src="https://img.youtube.com/vi/zLB9SaE5xMM/maxresdefault.jpg" 
@@ -976,7 +1680,88 @@
 
 # How Long Should I Do Keto & Intermittent Fasting? – Dr.Berg
 
+===== 文章整理 =====
 
+### 核心主題
+- 本文圍繞多個看似無關的主題展開，未能形成明確的核心主題。
+- 主要涉及科技、健康、心理、社會文化等多元話題。
+
+---
+
+### 主要觀念
+1. **技術與創新**：
+   - 提及LEXY同軸產品和5nm新聞，暗示半導體技術的進步。
+   - 涉及網路安全（如惡意軟件）、雲端計算和IP地址管理。
+   - 討論SQL伺服器、資料庫管理和軟體開發。
+
+2. **健康與 Wellness**：
+   - 提到ambiguous sleep（模糊睡眠）和health issues（健康問題）。
+   - 涉及心理健康，如stress management（壓力管理）和fatigue reduction（疲勞減輕）。
+
+3. **社會與文化**：
+   - 討論教育、就業市場和職涯規劃。
+   - 提及文化差異和社會禮儀。
+
+4. **科技產品與服務**：
+   - 涉及電子產品（如智能手機）、家電和其他消費性科技產品。
+   - 探讨價格競爭力和消費者權益。
+
+---
+
+### 問題原因
+1. **技術限制**：
+   - 5nm制程可能導致芯片過熱或性能瓶頸。
+   - 網路安全漏洞可能引發數據泄露風險。
+   - 軟件功能 ambiguities（模糊性）可能影響用戶體驗。
+
+2. **健康問題**：
+   - 模糊的睡眠模式可能干擾生物鐘，影響整體健康。
+   - 高價科技產品可能對某些消費群造成經濟壓力。
+
+3. **市場競爭**：
+   - 市場飽和導致 price competition（價格競爭）激烈。
+   - 供應鏈問題可能影響產品交付和成本。
+
+---
+
+### 解決方法
+1. **技術改進**：
+   - 開發更高效的散熱技術以解決5nm芯片的性能瓶頸。
+   - 增強網路安全措施，如加密和入侵檢測系統。
+
+2. **健康建議**：
+   - 要求用戶保持規律的睡眠時間表。
+   - 推荐壓力管理技巧，如冥想、瑜伽或充足的休息。
+
+3. **市場策略**：
+   - 提供多種價格層次的產品以滿足不同消費群需求。
+   - 加強供應鏈管理以確保穩定的產品交付。
+
+4. **教育與意識提升**：
+   - 提高消費者對科技產品價值的理解。
+   - 推廣健康的生活方式，減少因科技使用過度導致的健康問題。
+
+---
+
+### 健康建議
+1. **睡眠管理**：
+   - 確保充足的睡眠時間，避免電子產品干擾。
+   - 規律的作息時間有助于提升整體健康。
+
+2. **壓力對策**：
+   - 適當休息，避免過度使用科技產品。
+   - 通過運動、社交活動來缓解壓力。
+
+3. **飲食與運動**：
+   - 確保均衡飲食，攝取足夠的營養。
+   - 定期進行身體鍛煉，增強體力和免疫力。
+
+---
+
+### 結論
+- 尽管本文涉及多個分散的主题，但仍可提取出科技、健康和社會文化三個主要脈絡。
+- 面對技術限制和市場競爭，需通過改進技術、提升用戶教育和健康意識來應對挑戰。
+- 建議消費者在使用科技產品時注意健康，避免過度依賴電子設備。
 </details>
 
 <details>
@@ -993,7 +1778,7 @@
 </details>
 
 <details>
-<summary>2367. 90% of Hypothyroidism Is Hashimoto’s Thyroiditis | Dr. Berg</summary><br>
+<summary>2367. [2019-08-25] 90% of Hypothyroidism Is Hashimoto’s Thyroiditis | Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=rvUthITs4oI" target="_blank">
     <img src="https://img.youtube.com/vi/rvUthITs4oI/maxresdefault.jpg" 
@@ -1002,11 +1787,82 @@
 
 # 90% of Hypothyroidism Is Hashimoto’s Thyroiditis | Dr. Berg
 
+### 文章整理：Hashimoto's 病變機理、病因及管理策略
 
+---
+
+#### 1. 核心主題  
+Hashimoto's 病（橋本氏甲亢）是一種常見的自身免疫性甲状腺疾病，占所有低 thyroid function cases 的 90%-95%。其特點是免疫系統攻擊甲状腺，導致慢性炎症和功能障礙。
+
+---
+
+#### 2. 主要觀念  
+- **thyroid 腺體的功能與調控**：  
+    - Hypothalamus 與 Pituitary 的互動控制 thyroid 激素的分泌。  
+    - TSH（促甲状腺激素）刺激 thyroid 分泌 hormones (T3 和 T4)，並促進 thyroid 生長。  
+
+- **Hashimoto's 的病因機理**：  
+    - 自身免疫反應：抗體攻擊 thyroid 組織，破壞其功能。  
+    - 避免反饋抑制：低甲状腺激素水平未能有效傳送至 hypothalamus 和 Pituitary，導致腺體肥大和炎症。  
+
+- **臨床表現**：  
+    - 類似甲亢或甲減的症状（如疲勞、焦慮、抑鬱）。  
+    - 部分患者可能長期無症狀，潛伏期可達 10-15 年。  
+
+---
+
+#### 3. 病因分析  
+- **激素因素**：  
+    - 妊娠後數月至八個月內，女性患 Hashimoto's 的風險增加 5-8 倍。  
+    - 離子缺乏症（如雌激素不足）可能削弱免疫系統功能。  
+
+- **免疫系統干擾**：  
+    -麸質敏感性：gluten 消化不良導致腸漏，影響免疫反應，誘發自身免疫疾病。  
+    -.trace mineral deficiency (如鋅和硒) 影響免疫調節能力。  
+
+- **營養缺乏**：  
+    - 維生素 D 缺乏增加 autoimmune 疾病風險。  
+    - 紫外線照射不足或飲食中铁 insufficient 也可能促成疾病發病。  
+
+---
+
+#### 4. 解決方法與健康建議  
+- **營養補充**：  
+    - **硒（Se）**：每日攝取量約 300 微克，可降低抗體水平並促進 T4 轉換為活性 T3 濾菌。  
+    - 避免過量補碘，除非確證存在碘缺乏症。  
+
+- **飲食與生活方式調整**：  
+    - 減少麸質攝入，改善腸道屏障功能。  
+    - 低 carb 高蛋白飲食，配合 intermittent fasting 可降低炎症反應。  
+
+- **定期檢測**：  
+    - 檢測 TPO 抗體和 TG 抗體以確診 Hashimoto's。  
+    - 监控維生素 D 和 trace mineral (如鋅、硒) 的水平。  
+
+---
+
+#### 5. 總結  
+Hashimoto's 是一種由免疫失調引發的慢性 thyroid 疾病，主要與激素失衡、營養缺乏和腸道健康有關。通過補充硒元素、調整飲食結構並避免誘因，可以有效管理病情並改善患者的生活質量。
+
+---
+
+### 可能的錯誤或不當之處  
+1. **關於碘攝取的建議**：文章提到 Hashimoto's 不是碘缺乏症，但未提及碘過量可能惡化病情。建议在補充碘之前進行血液檢測以确认是否有必要。  
+
+2. **營養建議的證據力度**：  
+    - 維生素 D 和 trace mineral 的作用需更多臨床試驗支持。  
+    - 避免麸質和低碳飲食的效果因人而異，建议在專業指導下實施。  
+
+3. **忽略其他免疫調節方法**：  
+    - 可能缺少對藥物治療（如免疫抑制劑）的提及，對於嚴重病例可能需要 combinational therapy。  
+
+### 修正建議  
+- 在營養建議中加入更多個體化考量，並強調諮詢醫生的重要性。  
+- 补充碘相關信息，建議在專業人員指導下進行檢測與補充。
 </details>
 
 <details>
-<summary>2366. Fish Is A Very Good Food For Brain Health And EyeSight – Dr.Berg</summary><br>
+<summary>2366. [2019-08-25] Fish Is A Very Good Food For Brain Health And EyeSight – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=G6PopifKHDE" target="_blank">
     <img src="https://img.youtube.com/vi/G6PopifKHDE/maxresdefault.jpg" 
@@ -1015,11 +1871,67 @@
 
 # Fish Is A Very Good Food For Brain Health And EyeSight – Dr.Berg
 
+### 核心主題  
+- DHA（二十二碳六烯酸）是一種omega-3脂肪酸，在腦部和視網膜的結構中扮演重要角色。  
 
+---
+
+### 主要觀念  
+1. **DHA的功能**  
+   - DHA是神經元突觸的基本結構成分，負責神經傳導。  
+   - 在視網膜中，DHA幫助形成光敏感蛋白（如杆狀細胞中的rhodopsin）。  
+
+2. **DHA缺乏的影響**  
+   - **認知功能下降**：包括記憶力、注意力和集中力受損。  
+   - **情緒障礙**：可能導致抑鬱等心理問題。  
+
+3. **EPA的作用**  
+   - EPA主要負責腦部的功能性角色，如抗炎作用和神經保護。  
+
+---
+
+### 問題原因  
+- DHA來源不足或吸收不良會影響腦部和視網膜的正常功能。  
+
+---
+
+### 解决方法  
+1. **食物攝取**  
+   - 富含DHA的食物包括：  
+     1. 鳕子（每100克含3,400毫克）  
+     2. 大西洋馬鈴筍（1,400毫克/100克）  
+     3. 維尼亞鳳尾鱼（1,292毫克/100克）  
+     4. 大西洋鲑魚（1,115毫克/100克）  
+     5. 鰤魚（1,100毫克/100克）  
+     6. 秋刀魚（944毫克/100克）  
+     7. 藤ович鮪（890毫克/100克）  
+     8. 牛腦（855毫克/100克）  
+
+2. **植物來源的替代方案**  
+   - 素食者可攝取微藻，這是DHA的良好來源。  
+
+---
+
+### 健康建議  
+1. **均衡飲食**  
+   - 多攝取富含DHA的食物以促進腦部和視力健康。  
+
+2. **營養 cofactors 的重要性**  
+   - 搭配攝取鋅（Zinc）和碘（Iodine），這些礦物質能幫助DHA在腦部和眼睛中發揮最佳效果。  
+
+3. **夜間視力調整**  
+   - DHA不足可能影響夜間視力，建議補充足夠的維生素A並攝取鋅以增強其功效。  
+
+---
+
+### 總結  
+- DHA是腦部和視網膜健康不可或缺的營養素，主要通過食物攝取來補充。  
+- 富含DHA的食物包括多種海鮮，素食者可選擇微藻作為替代來源。  
+- 鐵質（Zinc）和維生素A等 cofactors 能增強DHA的效果，值得特別注意。
 </details>
 
 <details>
-<summary>2365. How Many Calories Should I Eat On Keto Diet? The Simple Formula – Dr.Berg</summary><br>
+<summary>2365. [2019-08-24] How Many Calories Should I Eat On Keto Diet? The Simple Formula – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=a-4GsqS99zc" target="_blank">
     <img src="https://img.youtube.com/vi/a-4GsqS99zc/maxresdefault.jpg" 
@@ -1028,11 +1940,71 @@
 
 # How Many Calories Should I Eat On Keto Diet? The Simple Formula – Dr.Berg
 
+### 小節整理： calories on a ketogenic diet
 
+#### 核心主題：
+- **卡路里消耗與酮飲食**：探討在酮飲食中如何有效管理卡路里攝取和消耗，以促進體重管理和脂肪燃燒。
+
+#### 主要觀念：
+1. **人體脂肪儲存量**：
+   - 平均而言，一名體重140磅、體脂23%的女性約有32磅脂肪，等於超過10萬卡路里的能量儲備。
+   - 體重過高的個體（如肥胖者）可能攜帶更多脂肪，例如體重140磅、體脂39%的個體約有54磅脂肪，等於近20萬卡路里。
+
+2. **基礎代謝率（BMR）**：
+   - BMR是人體在休息状态下的基本能量消耗。
+   - 以一名每日消耗2,000卡路里的個體為例，若能每日减少500卡路里攝取，理論上可在7天內減少約1磅脂肪。
+
+3. **酮飲食的原理**：
+   - 酮飲食通過降低碳水化合物攝取，迫使身體燃燒自身脂肪儲備以獲取能量（酮osis）。
+   - 燉燒脂肪可分為燃燒自身脂肪儲備或僅燃燒食物中的脂肪。
+
+#### 問題原因：
+1. **代謝率變化的影響**：
+   - 年齡、胰島素抵抗等因素會降低代謝率，影響體重管理效果。
+   - 重複ダイエットにより、代謝が鈍化する可能性がある。
+
+2. **激素與代謝紊亂**：
+   - 胰岛素抵抗或糖尿病等情況會干擾脂肪燃燒過程。
+   - 激素失衡或其他內分泌問題可能影響體重變化。
+
+3. **生活方式因素**：
+   - 睡眠不足、壓力過大等因素均可能抑制脂肪燃燒。
+   - 運動量的不足或過度依賴運動來增加能量消耗，效果有限。
+
+#### 解決方法：
+1. **逐步調整飲食結構**：
+   - **三餐制**：去除零食，簡化飲食結構。
+   - **兩餐制**：進一步减少用餐次數，壓縮攝食窗口。
+   - **一餐制**：每日或隔日進食一次，適用於體脂較高且年齡較大的個體。
+
+2. **生活方式調整**：
+   - 增加有氧運動和力量訓練，提高能量消耗。
+   - 確保充足睡眠、降低壓力水平，以優化代謝環境。
+
+#### 健康建議：
+1. **飲食結構的選擇**：
+   - 根據個人體脂水平和目標，逐步調整餐次與攝食量。
+   - 優質蛋白質和健康脂肪的攝取是酮飲食成功的重要保障。
+
+2. **運動與休息**：
+   - 顧有氧運動和力量訓練以提升整體代謝率。
+   - 保持充足睡眠，降低壓力水平，促進激素平衡。
+
+3. **監測與評估**：
+   - 定期追蹤體重和體脂變化，根據效果調整飲食計劃。
+   - 使用酮飲食計算工具來精確估算攝取量和消耗量。
+
+#### 結論：
+- 酮飲食是一種有效的脂肪燃燒方法，但其成功依賴於個化的飲食結構、生活方式調整等因素。
+- 通過逐步實驗不同餐次與攝取模式，並配合運動和健康的生活習慣，可最大化酮飲食的效果。
+
+---
+
+此整理涵蓋了文章的核心主題、主要觀念、問題原因、解決方法及健康建議等多個方面，為讀者提供了結構化且客觀的-summary。
 </details>
 
 <details>
-<summary>2364. What Is Autophagy & The Real Reason Why It Exists – Dr.Berg</summary><br>
+<summary>2364. [2019-08-24] What Is Autophagy & The Real Reason Why It Exists – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=tf8sSome1lE" target="_blank">
     <img src="https://img.youtube.com/vi/tf8sSome1lE/maxresdefault.jpg" 
@@ -1041,7 +2013,61 @@
 
 # What Is Autophagy & The Real Reason Why It Exists – Dr.Berg
 
+# 文章重點整理與分析
 
+## 1. 核心主題：TAPA G（Autophagy）的機制與重要性  
+- **核心主題**：Tapa G 是一種細胞自我清潔和更新的機制，用於清除損壞或不必要的蛋白質，並回收利用其成分。  
+- **主要觀念**：Tapa G 在生存壓力下啟動，例如饑餓，作為一種存活機制。  
+
+## 2. 問題成因：損傷蛋白質的積累與疾病關聯  
+- **問題原因**：  
+  - 損失蛋白質（如錯誤折叠蛋白、氧化蛋白、糖化蛋白）在體內積累，導致多種慢性病。  
+    - **錯誤折疊蛋白**：例如 Alzheimer 病和 Type 2 糖尿病中的amyloid斑塊。  
+    - **氧化蛋白**：類似於鐵鏽，損壞蛋白質功能。  
+    - **糖化蛋白**：如AGEs（Advanced Glycation End-products），導致AGEs積累，影響眼鏡 lenses 并引起白內障。  
+- **微生物清除**：Tapa G 可幫助消除某些病毒和細菌，但不能直接殺死病原體。  
+
+## 3. 解決方法：啟動與增強 TAPA G 活性  
+- **主要途徑**：  
+  - ** fasting（禁食）**：尤其是 long-term 禁食（18小時以上），可顯著增強Tapa G活性。  
+    - 研究顯示，禁食至24小時可達到較高的Tapa G水平，但不同器官的激活程度可能不同。  
+  - ** exercise（運動）**：運動提高Tapa G效率，促進損傷蛋白質清除。  
+- **其他策略**：  
+  - 避免高血糖水平，因高糖分可能抑制Tapa G。  
+  - 管理炎症反應，因嚴重炎症可能干擾Tapa G。  
+
+## 4. 健康建議  
+- **禁食建議**：  
+  - 初學者可從18小時禁食開始，逐漸增加禁食時間。  
+  - 禁食期間注意營養均衡，避免因營養不足影響健康。  
+- **運動建議**：  
+  - 定期進行有氧運動或力量訓練，增強Tapa G效果。  
+- **飲食調整**：  
+  - 減少精制糖和高血糖指數食物攝取，防止血糖過高抑制Tapa G。  
+
+## 5. 結論  
+- Tapa G 是一種關鍵的細胞保養機制，幫助清除損傷分子，預防慢性病並促進健康老化。  
+- 通過禁食和運動等干預手段，可有效激活與增強Tapa G，提升整體健康水平。  
+
+---
+
+## 文章錯誤與修正建議
+
+### 1. 誤植：
+- **原文**：「there' going to be a certain point where it kind of plateaus and some studies you'are saying 24 hours...」  
+  - **問題**：語法錯誤，應為「some studies say that 24 hours...」或「some studies suggest that at 24 hours...」。  
+
+### 2. 不一致：
+- **原文**：提到Tapa G是「not really an on/ off type mechanism」但后文又將禁食时间分段（18小時、20小時等），暗示有一定的門檻效應。  
+  - **建議**：可澄清Tapa G的激活程度與禁食時間呈正相關，但不同人可能有不同的啟動門檻。  
+
+### 3. 表述模糊：
+- **原文**：「each part of your body has its own etapa G for example there's an entire vltava G which recycles mitochondria...」  
+  - **問題**：「vltava G」可能是筆誤，應為「mitophagy（線粒體自噬）」。  
+
+### 4. 缺乏數據支持：
+- **原文**：未提供具體研究來源或數據支持各個禁食時間點的Tapa G活化程度。  
+  - **建議**：補充引用相關研究，例如citevals等數據，以增強論述可信度。
 </details>
 
 <details>
