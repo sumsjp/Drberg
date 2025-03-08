@@ -615,47 +615,238 @@
 </details>
 
 <details>
-<summary>1644. 3 Best Remedy for Low Progesterone – Phytoestrogen, Sea Kelp & Progesterone Deficiency – Dr. Berg</summary><br>
+<summary>1644. [2018-07-31] 3 Best Remedy for Low Progesterone – Phytoestrogen, Sea Kelp & Progesterone Deficiency – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=SMSE4BYoOv4" target="_blank">
     <img src="https://img.youtube.com/vi/SMSE4BYoOv4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 低progesterone的補充與治療。
+- 健康沙龍（Keto Health Summit）的推介。
+
+#### 主要觀念
+1. **Progesterone的作用**：
+   - 與月經週期的第二階段有關。
+   - 在孕期中協助胎兒存活。
+   - 更年期期間，progesterone的下降比estrogen更劇烈，導致雌激素 dominance。
+
+2. **低Progesterone的症状**：
+   - 疼痛乳房（可能與雌激素 dominant有關）。
+   - 焦慮、睡眠障礙、頭痛、經前綜合徵（PMS）、體重增加、不孕和水腫。
+
+3. **低Progesterone的治療建議**：
+   - 避免使用野生山藥，因其為植物性雌激素，可能無法有效提升progesterone。
+   - 推薦結合當歸樹皮提取物（Chasteberry）與濃縮 Brassica 葡萄球菌提取物（DIM），以平衡荷爾蒙。
+
+#### 問題原因
+- 更年期期間，progesterone和estrogen的比例失衡，導致一系列健康問題。
+- 低progesterone可能由代謝失調或其他内分泌不平衡引起。
+
+#### 解決方法
+1. **荷爾蒙平衡**：
+   - 使用當歸樹皮提取物與DIM，以促進progesterone的自然產生並降低雌激素 excess。
+
+2. **健康管理**：
+   - 通過健康沙龍學習三個策略：提高記憶力、壓力耐受能力以及代謝控制。
+
+#### 健康建議
+- 參加Keto Health Summit，學習三個關鍵策略：
+  1. 提高記憶力和集中力。
+  2. 提升壓力耐受能力，保持心境平靜。
+  3. 控制代謝速率，以實現體重管理。
+
+#### 結論
+- 低progesterone的治療需注重荷爾蒙平衡，避免依賴植物性雌激素產品。
+- 參加健康沙龍可提供實用的健康策略，改善整體健康狀況。
 </details>
 
 <details>
-<summary>1643. Iodine “Beyond the Thyroid” – Iodine Deficiency, Iodine Foods, and Iodine Benefits – Dr. Berg</summary><br>
+<summary>1643. [2018-07-31] Iodine “Beyond the Thyroid” – Iodine Deficiency, Iodine Foods, and Iodine Benefits – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HY2rbMPhVlA" target="_blank">
     <img src="https://img.youtube.com/vi/HY2rbMPhVlA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+碘元素对人体健康的重要性及其多方面的生理作用。
 
+---
+
+### 主要觀念  
+1. **碘与甲状腺功能**：碘是合成甲状腺激素（如T4和T3）的关键成分，直接影响代谢调节。
+2. **兒童發育與母親 Pregnaney**：碘 deficiency 可導致兒童腦部發育不良、智力下降及全身性發育遲緩。妊娠期婦女的碘攝取對胎兒發育至關重要。
+3. **女性生殖健康**：碘在乳腺、子宮頸等器官中具有多個受體，可調節雌激素水平，降低癌症風險。
+4. **碘 deficiency 的來源**：飲食中碘攝取不足（如缺乏海產或未補充礦物質的土壤）、硒元素不足、妊娠期及口服避孕藥導致的荷爾蒙變化增加 estrogen 分泌，以及放射線暴露、煙酒等習慣對碘的消耗。
+
+---
+
+### 問題原因  
+1. **飲食因素**：現代飲食中可能缺乏碘攝取來源（如海產或未補充礦物質的食物）。
+2. **荷爾蒙變化**：妊娠期、口服避孕藥等因素會導致 estrogen 分泌增加，需更多碘來平衡。
+3. **環境與習慣**：放射線暴露、煙酒等 Habit 可耗損體內碘儲備。
+
+---
+
+### 解決方法  
+1. **補充碘攝取**：建議攝入高品質的植物性碘來源，如海帶（kelp）等海洋植物。
+2. **均衡飲食**：確保食物來源中含有足夠的碘和硒元素。
+3. **健康生活方式**：避免放射線暴露、戒煙限酒以減少對碘的消耗。
+
+---
+
+### 健康建議  
+1. 孕婦及育齡女性應特別注意碘攝取，以保障胎兒及自身的健康。
+2. 遭受荷爾蒙失衡（如卵巢囊肿、乳腺疾病）的人群可考慮在醫生建議下使用高品質碘補充劑。
+3. 日常飲食中增加海帶等含碘食物的攝取，或在專業指導下服用碘サプリメント。
+
+---
+
+### 結論  
+碘是維持人體健康不可或缺的微量元素，尤其在兒童發育、女性生殖健康及癌症預防方面具有重要作用。現代生活中普遍存在碘 deficiency 的風險，因此需通過均衡飲食和必要時補充碘來保障健康。
 </details>
 
 <details>
-<summary>1642. Is Menopause Making You Fat? – Dr. Berg on Menopause Weight Gain</summary><br>
+<summary>1642. [2018-07-30] Is Menopause Making You Fat? – Dr. Berg on Menopause Weight Gain</summary><br>
 
 <a href="https://www.youtube.com/watch?v=A-SvpAEVMgQ" target="_blank">
     <img src="https://img.youtube.com/vi/A-SvpAEVMgQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### HTML 網頁格式
 
+```html
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menopause and Weight Gain - Mechanism and Solutions</title>
+</head>
+<body>
+    <h1>更年期與體重增加的機制及解決方案</h1>
+
+    <section id="core_theme">
+        <h2>核心主題</h2>
+        <ul>
+            <li>探討更年期婦女體重增加的原因。</li>
+            <li>分析激素變化對代謝和脂肪囤積的影響。</li>
+            <li>提供針對性的生活方式調整建議。</li>
+        </ul>
+    </section>
+
+    <section id="main_ideas">
+        <h2>主要觀念</h2>
+        <ul>
+            <li>更年期導致卵巢功能衰退，雌激素和孕激素水平下降。</li>
+            <li>雌性荷爾蒙失衡（雌激素優勢）會影響代謝。</li>
+            <li>皮質醇過多是導致肌肉萎縮和脂肪囤積的主要原因之一。</li>
+        </ul>
+    </section>
+
+    <section id="problem_causes">
+        <h2>問題原因</h2>
+        <ul>
+            <li><strong>激素不平衡：</strong>雌激素 dominance 會刺激腦下丘腦釋放皮質醇。</li>
+            <li><strong>肌肉萎縮：</strong>高皮質醇水平導致肌肉蛋白分解增加，降低代謝率。</li>
+            <li><strong>脂肪囤積：</strong>肌糖原轉化為脂肪，並受胰島素影響儲存。</li>
+        </ul>
+    </section>
+
+    <section id="solutions">
+        <h2>解決方法</h2>
+        <ul>
+            <li><strong>恢復肌肉量：</strong>進行抗阻訓練以增加肌肉張力。</li>
+            <ul>
+                <li>力量訓練可提高代謝率，幫助燃燒更多卡路里。</li>
+            </ul>
+
+            <li><strong>管理皮質醇水平：</strong>壓力管理和睡眠改善。</li>
+            <ul>
+                <li>冥想、瑜伽等放鬆技巧。</li>
+                <li>保持充足睡眠以穩定荷爾蒙平衡。</li>
+            </ul>
+
+            <li><strong>健康飲食建議：</strong>均衡飲食，控制熱量攝取。</li>
+            <ul>
+                <li>增加高蛋白食物攝取，如雞胸肉、魚類和豆製品。</li>
+                <li>攝入富含纖維的食物，幫助消化和排毒。</li>
+            </ul>
+        </ul>
+    </section>
+
+    <section id="health_recommendations">
+        <h2>健康建議</h2>
+        <ul>
+            <li><strong>定期運動：</strong>結合有氧運動和力量訓練。</li>
+            <li><strong>荷爾蒙平衡：</strong>諮詢專業醫生，評估是否需要激素替代療法。</li>
+            <li><strong>壓力管理：</strong>學會有效應對生活壓力。</li>
+        </ul>
+    </section>
+
+    <section id="conclusion">
+        <h2>結論</h2>
+        <p>更年期婦女體重增加主要是由激素失衡導致的肌肉萎縮和脂肪囤積。通過結合適當的運動、飲食控制和壓力管理，可以有效改善此問題。關鍵在於恢復肌肉量並降低皮質醇水平，從而實現健康的體重管理和整體 wellness。</p>
+    </section>
+
+    <footer>
+        <h3>成功故事徵集中</h3>
+        <p>歡迎分享您的更年期健康管理經驗！點擊下方連結上傳您的「前後」照片，成為我們的 Featured Success Story。</p>
+        <a href="#" target="_blank">分享你的故事</a>
+    </footer>
+</body>
+</html>
+```
 </details>
 
 <details>
-<summary>1641. Stop Rusting Out Your Brain! Iron Supplements & Iron Overload Causes Brain Damage – Dr. Berg</summary><br>
+<summary>1641. [2018-07-30] Stop Rusting Out Your Brain! Iron Supplements & Iron Overload Causes Brain Damage – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=RngQ-xmYRN8" target="_blank">
     <img src="https://img.youtube.com/vi/RngQ-xmYRN8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 過多鐵質在體內的積累與神經退化性疾病（如阿茲海默症）的關聯。
+- 如何避免因過量鐵質導致的腦部損傷。
 
+### 主要觀念
+1. 鉄質在體內的作用：
+   - 必要的營養元素，但過多會對線粒体和細胞造成氧化損害。
+   - 自由鐵與氧結合形成自由基，攻擊髓鞘（myelin），影響神經系統功能。
+2. 鐵質積累的危害：
+   - 特別是 hippocampus 的受損，可能導致失智症。
+   - 累積的鐵質而非正常的蛋白結合鐵是問題所在。
+
+### 問題原因
+1. 补充劑中的錯誤鐵種類：
+   - 一些市售維生素和補充劑使用非食物來源的鐵，如藥店販賣的合成鐵。
+2. 食物添加劑的影響：
+   - 糕粒等穀物中的人工添加 B 細胞和鐵質，導致攝入過量。
+
+### 解cision 方法
+1. 減少暴露於高鐵來源：
+   - 選擇食物基底的補充劑。
+2. 使用螯合劑清除 excess iron：
+   - 推薦使用phytic acid（IP6），自然結合並排除體內多余鐵質。
+
+### 健康建議
+1. 檢查和選擇補充劑：
+   - 確保補充劑來源於食物，避免合成成分。
+2. 注意飲食中的鐵含量：
+   - 減少攝取添加鐵的谷類食品。
+3. 考慮使用螯合劑：
+   - 如有過量鐵質疑慮，可諮詢醫生後使用IP6等產品。
+
+### 結論
+- 過多鐵質積累會增加神經退化風險。
+- 通過選擇適當的補充劑和飲食，並配合螯合劑，可以有效管理體內鐵質水平，保護腦健康。
 </details>
 
 <details>
@@ -670,69 +861,356 @@
 </details>
 
 <details>
-<summary>1639. Does Coconut Oil Have High Cholesterol? – Dr. Berg</summary><br>
+<summary>1639. [2018-07-28] Does Coconut Oil Have High Cholesterol? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=MsJwSLMEG4E" target="_blank">
     <img src="https://img.youtube.com/vi/MsJwSLMEG4E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題  
+- 茶油（Coconut Oil）的營養成分與健康影響  
+
+---
+
+#### 主要觀念  
+1. **茶油不含膽固醇**  
+   - 胆固醇只存在於動物性食品中，植物性食品（如椰子油）不含膽固醇。  
+
+2. **茶油含有高量飽和脂肪**  
+   - 椰子油富含aturated fats，但並非膽固醇。  
+
+3. **茶油對血清膽固醇的影響**  
+   - 椰子油會增加低密度脂蛋白（LDL，壞膽固醇）水平，同時也增加高密度脂蛋白（HDL，好膽固醇）水平。  
+
+4. **茶油與心血管疾病風險**  
+   - 增加LDL或HDL不會提高心臟病或中風的風險。  
+   - 椰子油對心血管健康無負面影響，甚至可能有益。  
+
+---
+
+#### 問題原因  
+- 一般人常混淆「飽和脂肪」與「膽固醇」的概念，導致對椰子油的營養價值存在誤解。  
+
+---
+
+#### 解決方法  
+1. **正确认知營養成分**  
+   - 区分植物性與動物性食品中的營養成分差異。  
+
+2. **平衡飲食**  
+   - 雖然椰子油含高飽和脂肪，但合理攝取不會對健康造成負面影響。  
+
+---
+
+#### 健康建議  
+- 椰子油可作為健康飲食的一部分，但應 moderation 在整體飲食結構中。  
+- 注重飲食多樣性，避免過量攝取任何單一類型的脂肪。  
+
+---
+
+#### 結論  
+- 椰子油不含膽固醇，且其對血清膽固醇的作用被研究證實為中性或有益。  
+- 遊牧健康 Summit 提供三大重要策略：提升记忆力、增強壓力耐受力和控制代謝率，這些策略將幫助參與者改善整體健康狀況。  
+
+---
+
+#### 其他活動資訊  
+1. **Quito Health Summit**  
+   - 與其他研討會不同，Summit 將聚焦於三個最具影響力的健康策略：  
+     a. 提升記憶力與集中力。  
+     b. 增強壓力耐受力，保持心理平和。  
+     c. 控制代謝率，實現體重管理。  
+
+2. **參加方式**  
+   - 點擊文章中的鏈接報名，參與即有机会掌握上述關鍵健康知識。
 </details>
 
 <details>
-<summary>1638. What is Strontium? – Dr. Berg</summary><br>
+<summary>1638. [2018-07-27] What is Strontium? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=d3HCjw75I9Y" target="_blank">
     <img src="https://img.youtube.com/vi/d3HCjw75I9Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理：Sr 作為治療骨質疏鬆的微量元素
 
+#### 核心主題
+- **Sr（鍅）** 是地球上最豐富的微量元素之一。
+- Sr 在增加骨密度和預防髋部骨折方面具有重要作用。
+
+#### 主要觀念
+1. **Sr 的化學特性**：
+   - Sr 的化學結構與鈣質相似，但其在骨骼中的作用不同，主要增強骨質外層的 rigidness。
+   
+2. **Sr 的吸收形式**：
+   - 存在兩種形式：無機Sr 和有機Sr。
+   - 無機Sr（如岩石中的元素）不易被植物吸收，需通過植物代謝轉化為有機Sr後才易於人體吸收。
+
+3. **有機Sr 的重要性**：
+   - 有機Sr 具有更弱的鍵結，便於人體吸收和利用。
+   - 推薦選擇來源於古代植被（如70百萬年前的植物化石）的有機Sr 补充劑。
+
+#### 問題原因
+- **吸收障礙**：
+  - 無機Sr 和低品質Sr 补充劑不易被人體有效吸收。
+  - 胃酸不足（如胃酸分泌不足導致的胃食管反流或GERD）會進一步影響礦物質吸收。
+
+#### 解決方法
+1. **優質Sr 补充**：
+   - 選擇植物來源的有機Sr 补充劑，確保其有效性。
+   
+2. **搭配飲食建議**：
+   - 與鈣質（推薦使用Calcium Aspartate和Hydrants，吸收率高達98%）及維生素D3共同攝取。
+   - 確保每日攝取足夠的維生素D3（建議劑量為10,000 IU，除非有充足日光曝露）。
+
+3. **改善胃酸環境**：
+   - 使用蘋果醋於每餐中，幫助提升胃酸水平。
+   - 注意：若存在胃酸不足症狀（如心burn、GERD等），需特別注意調整飲食習慣。
+
+#### 健康建議
+- 骨骼健康重建需要時間（1至6年），需堅持健康飲食及適當補充。
+- 諮議其他影響骨密度的因素，如整體飲食結構和生活方式。
+
+#### 結論
+Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適當的有機Sr 补充劑、優質鈣源、足夠的維生素D3攝取以及改善胃酸環境，可有效增強骨密度並降低骨折風險。此方法需長期堅持，並配合整體飲食結構調整以獲得最佳效果。
+
+---
+
+### 參考資源
+- 如有興趣進一步了解相關內容，可參閱影片中的連結，獲取更多關於胃 acid 調節及其他健康議題的詳細信息。
 </details>
 
 <details>
-<summary>1637. How to Get Your Wife to Lose Weight – Dr. Berg</summary><br>
+<summary>1637. [2018-07-27] How to Get Your Wife to Lose Weight – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=L21XGyYSF-c" target="_blank">
     <img src="https://img.youtube.com/vi/L21XGyYSF-c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 如何有效促使妻子减轻体重  
+- 提供实用建议和策略  
+- 介绍健康 Summit 的相关信息  
+
+#### 主要觀念
+1. **避免负面行为**：
+   - 切勿在拥抱时捏脂肪。  
+   - 避免给妻子糖果或高热量食物（如 doughnut）。  
+   - 在餐厅时不批评她的饮食选择。  
+   - 不要在节日期间送健康相关礼物，如体重秤或健身房会员卡。
+
+2. **正面引导策略**：
+   - **以身作则**：自己首先保持健康的生活方式，通过锻炼和健康饮食树立榜样。  
+   - **共同参与健身活动**：邀请她一起参加 gym 或运动项目，但需尊重她的意愿，避免强迫。  
+   - **提供教育资源**：推荐相关健康视频（如 Dr. Berg 的代谢视频），鼓励她学习减肥方法。  
+
+3. **情感支持与沟通技巧**：
+   - **积极肯定**：当她询问外表时，给予正面反馈，即使不真实也要维护她的自信心。  
+   - **避免负面评价**：不要使用模糊或带有负面含义的词汇（如“fine”），以免打击她的积极性。  
+
+4. **现金激励法**：
+   - 在其他方法无效的情况下，可以考虑提供经济奖励以增强她的 compliance。  
+
+#### 問題原因
+- 传统批评和负面反馈可能导致夫妻矛盾和自尊心受挫。  
+- 缺乏有效的支持策略导致减肥失败。  
+
+#### 解决方法
+1. **情感支持与沟通**：
+   - 使用积极的语言鼓励和支持她，避免负面评价。  
+   - 尊重她的意愿，不强迫参与健身活动。  
+
+2. **行为示范与资源提供**：
+   - 通过自身行动展示健康生活方式的重要性。  
+   - 推荐教育资源（如健康视频），帮助她获取科学的减肥方法。  
+
+3. **经济激励**：
+   - 在其他方法无效时，可以考虑提供经济奖励以增加她的 compliance。  
+
+#### 健康建議
+- 鼓励夫妻共同参与健康活动，营造支持性环境。  
+- 提供积极的情感反馈，增强自信心和动力。  
+- 推荐科学的健康教育资源，帮助她掌握有效的减肥策略。  
+
+#### 結論
+- 成功促使妻子减轻体重需要结合情感支持、行为示范和适当激励。  
+- 通过提供正面反馈、共同参与健身活动和推荐教育资源，可以有效提升她的健康意识和行动力。  
+- 参加健康 Summit 可以获取更多科学的健康知识和策略，帮助实现长期健康目标。
 </details>
 
 <details>
-<summary>1636. How To Get Rid Of Lower Neck Pain & Shoulder Pain – Dr. Berg</summary><br>
+<summary>1636. [2018-07-26] How To Get Rid Of Lower Neck Pain & Shoulder Pain – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=OWys1m09JIE" target="_blank">
     <img src="https://img.youtube.com/vi/OWys1m09JIE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：消除颈部僵硬和痠痛的方法
 
+#### 核心主題
+- 提供針對颈部下部僵硬和痠痛的解決方法。
+- 强調使用對抗肌肉來放鬆緊張的肌肉。
+
+---
+
+#### 主要觀念
+1. ** traps 肌肉的功能**：
+   - traps 肌肉（肩胛提肌）的主要功能是 shrug shoulders（提升肩膀）。
+2. **肌肉對抗原則**：
+   - 紧张的 traps 肌肉需要通过激活其對抗肌肉來放鬆。
+
+---
+
+#### 問題原因
+- 長期姿勢不良或重複性動作導致 traps 肌肉緊張，進而引發下颈部僵硬和痠痛。
+- 紧张的 traps 肌肉會影響肩胛骨的活動，間接影響下颈部肌肉。
+
+---
+
+#### 解決方法
+1. **第一步：毛巾輔助拉伸法**
+   - 工具：簡單的毛巾和椅子。
+   - 方法：
+     1. 將毛巾卷起，放置在椅背上。
+     2. 坐下後將毛巾滑入腋下（肩胛骨下方）。
+     3. 微微前傾身體，感覺肩部被拉伸。
+     4. 每邊保持約 2-3 分鐘。
+   - 功效：放鬆 latissimus dorsi 肌肉，間接放鬆 traps 肌肉。
+
+2. **第二步：椅背輔助拉伸法**
+   - 方法：
+     1. 坐在椅子邊緣，將肩胛骨 tips（肩胛骨外側）靠在椅背上。
+     2. 微微後傾身體，感覺肩胛骨被推向上方。
+     3. 每邊保持約 1-2 分鐘。
+   - 功效：放鬆 traps 肌肉，改善肩胛骨活動度。
+
+---
+
+#### 健康建議
+- **姿勢矯正**：
+  - 確保日常工作和生活中的姿勢端正，避免長時間維持不良姿勢。
+- **定期拉伸**：
+  - 每天進行上述拉伸動作，特別是在久坐後或感覺肩部緊張時。
+- **溫馨提示**：
+  - 如果僵硬和痠痛持續存在，建議尋求專業治療師的幫助。
+
+---
+
+#### 結論
+- 該方法簡單易行，利用肌肉對抗原則來放鬆緊張的 traps 肌肉。
+- 適當的拉伸可以有效改善下颈部僵硬和痠痛，但需配合姿勢矯正和常規運動來維持長效效果。
+
+---
+
+**文章来源：**
+[原文鏈接](https://www.youtube.com/watch?v=VIDEO_ID)
 </details>
 
 <details>
-<summary>1635. Natural Sunscreen Recipe – Dr. Berg</summary><br>
+<summary>1635. [2018-07-26] Natural Sunscreen Recipe – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=P6S7Turdha8" target="_blank">
     <img src="https://img.youtube.com/vi/P6S7Turdha8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 自然 Homemade 太陽能防曬霜的介紹與優勢。
 
+### 主要觀念  
+1. **化學防曬產品的危害**：市售許多防曬產品含有化學成分，可能增加皮膚癌的風險。  
+2. **自然防曬霜的安全性**：這款自制防曬霜使用天然原料，避免了化學物質的潛在危害。  
+
+### 問題原因  
+1. 市售防曬產品中常含有害化學成分，可能對健康造成負面影響。  
+2. 化學防曬產品可能增加皮膚癌的風險。  
+
+### 解決方法  
+- 制作一款自然防曬霜，使用以下天然原料：  
+  1. **椰子油**：半杯（提供潤滑和保護作用）。  
+  2. **橄欖油**：1/4 杯（增強防護能力）。  
+  3. **無毒的仙人掌凝膠（loe vera gel）**：1/4 杯（舒緩皮膚，提供額外保護）。  
+  4. **非Nano氧化鋅**：2茶匙（作為物理防晒成分，反射UV rays）。  
+
+### 製作步驟  
+1. 將椰子油和橄欖油混合。  
+2. 輕微加熱以促使其融合。  
+3. 加入loe vera gel，攪拌均勻。  
+4. 慢慢加入氧化鋅，確保充分混合。  
+
+### 健康建議  
+1. 選擇不含化學成分的防曬產品，以降低健康風險。  
+2. 定期使用自制自然防曬霜，尤其是在戶外活動時。  
+3. 確保選用非Nano氧化鋅，避免其被皮膚吸收。  
+
+### 结論  
+- 自制自然防曬霜是一種安全有效的替代方案，適合那些希望避免化學成分的消費者。  
+- 鼓勵觀眾分享使用經驗，以提供更多成功案例和實證數據。
 </details>
 
 <details>
-<summary>1634. What Causes Tingling & Numbness in Hands & Feet? – Dr. Berg</summary><br>
+<summary>1634. [2018-07-25] What Causes Tingling & Numbness in Hands & Feet? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=TDPaoQA53XQ" target="_blank">
     <img src="https://img.youtube.com/vi/TDPaoQA53XQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題
+- 談論手足麻木和刺痛的原因及解決方法。
+- 推廣酮飲食（keto diet）和斷食法在健康管理中的應用。
+- 宣傳即將到來的「酮健康峰會」。
+
+#### 主要觀念
+1. 手足麻木和刺痛可能由以下原因引起：
+   - **B1缺乏症**：通常與攝取大量精製碳水化合物和糖分有關，尤其在前期糖尿病或糖尿病患者中。
+   - **鈣質缺乏症**：影響神經功能及骨骼健康。
+
+2. **B1缺乏症的表現**：
+   - 神經系統症状：焦慮、記憶力減退、思緒混亂、心悸。
+   - 肌肉相關症状：腿部痠痛、足癢、 nightmare（夢遊或噩夢）。
+
+3. **鈣質缺乏症的表現**：
+   - 遐麻抽搐：腿部痙攣、腘繫部不適。
+   - 骨骼健康問題：骨折風險增加、骨質疏鬆。
+   - 納甲問題：脆弱指甲、疲勞。
+
+#### 問題原因
+- **B1缺乏**：與現代飲食習慣中精製糖和碳水化合物攝取過量有關，影響神經 insulation（髓鞘）健康。
+- **鈣質缺乏**：吸收效率低的鈣劑或飲食中鈣質攝取不足。
+
+#### 解決方法
+1. **B1缺乏**：
+   - 推薦使用**脂肪溶解性維生素B1（Benfotiamine）**，因普通B1為水溶性，無法有效穿透神經脂肪層。
+   - 用量建議：輕度症狀每日一次，重度症狀每日四次。
+
+2. **鈣質缺乏**：
+   - 推薦使用**Calcium Aspartate Hydrate**，吸收率高達98%，效果迅速。
+
+#### 健康建議
+1. 調整飲食結構：建議採用酮飲食和斷食法。
+2. 如症狀持續或加重，需進一步檢查以確定病因（B1缺乏或鈣質缺乏）。
+3. 參加「酮健康峰會」了解更多健康管理策略。
+
+#### 峰會亮點
+1. **記憶提升**：介紹如何顯著增強記憶力和集中力。
+2. **壓力管理**：展示如何提高應激耐受能力，保持心境平和。
+3. **代謝控制**：針對體重管理和新陳代謝調節提供有效方法。
+
+#### 總結
+- 手足麻木和刺痛病因明確，可通過補充B1或鈣質有效改善。
+- 建議調整飲食習慣並根據症狀選擇相應補充劑。
+- 推薦參加「酮健康峰會」以獲得更全面的健康管理知識。
 </details>
 
 <details>
@@ -1107,56 +1585,40 @@
         alt="[Youtube]" width="200">
 </a>
 
-# Cell Biology Overview
+### 文章重點整理
 
-## Nucleus and DNA
-- The nucleus is the central part of the cell containing DNA, which serves as the genetic blueprint.
-- DNA dictates cellular functions, tissue formation, and actions.
+#### 核心主題：細胞的基本結構與功能
+- **主要內容**：
+  - 細胞是一個複雜的宇宙，包含多個部分，每個部分都有其特定的功能。
+  - 核心結構包括 nucleus（核）、DNA（脫氧核糖核酸）、RNA（核糖核酸）、mitochondria（線粒體）、endoplasmic reticulum（內質網）、ribosomes（核糖體）、Golgi apparatus（高爾基器）、lysosome（溶酶體）、peroxisome（過氧化物酶體）和cell membrane（細胞膜）。
 
-## RNA Function
-- RNA acts as a copy of DNA, facilitating gene expression.
-- It transports genetic code to ribosomes for protein synthesis.
+#### 主要觀念：DNA與RNA的作用
+- **主要內容**：
+  - DNA是基因的載體，負責提供身體組織和功能的藍圖。
+  - RNA是DNA的副本，用於將遺傳信息轉移到其他部分，類似於計算機程式中的剪貼操作。
 
-## DNA Damage and Repair Mechanisms
-- Cells encounter over 10,000 daily DNA errors due to environmental factors like radiation and oxidation.
-- The cell possesses repair mechanisms:
-  - Proofreader enzymes correct transcription errors.
-  - A secondary proofreading system ensures accuracy.
-  - These systems reduce mutation rates to one in a billion.
+#### 問題原因：DNA與RNA的錯誤
+- **主要內容**：
+  - DNA和RNA每天可能受到超過10,000次的錯誤，來源包括輻射、化學物質和自由基損害。
+  - 細胞具備修復機制，能夠檢測並更正這些錯誤，將錯誤率降低到極低水平。
 
-## Mitochondria
-- Mitochondria are the powerhouses, converting food and oxygen into ATP (energy currency).
+#### 解决方法：細胞的修復與回收機制
+- **主要內容**：
+  - 素修復單位（proofreader units）負責檢測和修復DNA/RNA錯誤。
+  - Lysosome（溶酶體）作為細胞的消化系統，負責分解廢物和受損部分，並通過如禁食等方式進行回收。
 
-## Endoplasmic Reticulum
-- Rough ER synthesizes proteins for cellular structures.
-- Smooth ER produces lipids and steroids essential for tissues like hair, nails, and brain cells.
+#### 健康建議：抗氧化劑與生活方式
+- **主要內容**：
+  - 體內產生自由基來殺死病毒和細菌，但也可能造成損害。
+  - 抗ioxidants（抗氧化劑）用於平衡體內的自由基，既來自外來來源，也由身體自行生成。
+  - 建議通過健康飲食攝取抗氧化劑，並結合如禁食等生活方式來促進細胞健康。
 
-## Ribosomes
-- Ribosomes are protein synthesis machines, producing structural proteins, hormones, neurotransmitters, and blood cells.
+#### 結論：細胞結構的重要性與健康維護
+- **主要內容**：
+  - 細胞的各個部分協作完成複雜的功能，包括能量生產、蛋白質合成、運輸和廢物處理。
+  - 維持細胞健康需注意修復機制的有效性及抗氧化劑的平衡，以預防疾病如癌症。
 
-## Golgi Apparatus
-- Functions as a packaging and tagging system for proteins and lipids.
-- Tags and ships cellular products to their destinations.
-
-## Lysosome
-- Serves as the digestive system, breaking down waste and recycling damaged components.
-- Engages in autophagy during fasting to recycle dysfunctional proteins and pathogens.
-
-## Peroxisome
-- Removes harmful peroxides, neutralizing free radicals.
-- Supports immune defense by degrading hydrogen peroxide.
-
-## Cell Membrane
-- A bilayer of lipids separating the cell from its environment.
-- Facilitates transport of water-soluble and fat-soluble vitamins into the nucleus.
-
-## Health Implications
-- DNA mutations can lead to cancer and diseases.
-- Cellular machinery efficiently repairs and recycles components, enhancing overall health.
-
-## Conclusion
-- The complexity and efficiency of cellular processes highlight the body's intricate design.
-- Maintaining cellular health through antioxidants and proper nutrition is crucial for preventing diseases.
+以上整理涵蓋了文章的主要內容，使用正式的學術用語並分門別類地納入不同小節，以便於理解和歸納。
 </details>
 
 <details>
