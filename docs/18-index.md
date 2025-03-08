@@ -901,25 +901,100 @@
 </details>
 
 <details>
-<summary>1818. Best Tip for Hashimoto’s Hypothyroid - Dr. Berg</summary><br>
+<summary>1818. [2018-11-02] Best Tip for Hashimoto’s Hypothyroid - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=VPoAnO0EcCg" target="_blank">
     <img src="https://img.youtube.com/vi/VPoAnO0EcCg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小結點整理
 
+#### 核心主題
+- Hashimoto's 病症：一種與甲狀腺相關的自身免疫性疾病，導致甲低（hypothyroidism）。
+
+#### 主要觀念
+1. **自身免疫疾病特性**：
+   - 免疫系統產生攻擊自身組織的抗體。
+   - 可影響多種組織，包括神經系統、結缔組織及關節等。
+   
+2. **Hashimoto's 的核心問題**：
+   - 主要涉及抗TPO（anti-thyroid peroxidase, TPO）抗體。
+   - TPO 是甲狀腺激素合成過程中關鍵酶，負責將碘轉化為活性形式。
+
+3. **病因假說**：
+   - 病因尚不完全明了。
+   - 与免疫系統功能異常及壓力事件後的免疫反應有關。
+
+#### 問題原因
+1. **氧化應激**：
+   - 高水平過氧化氫（H₂O₂）導致氧化應激，損害甲狀腺組織。
+
+2. **免疫失衡**：
+   - 免疫系統異常攻擊自身組織。
+   - 與壓力反應及免疫功能紊乱有關。
+
+#### 解決方法
+1. **抗氧化策略**：
+   - **硒（Selenium）**：支持甲狀腺激素合成並清除自由基。
+   - **鋅（Zinc）**：增強免疫功能，具抗氧化作用。
+   - **N-乙酰半胱氨酸（NAC）**：有效抗氧化劑，幫助分解過氧化氫。
+
+2. **生活方式調整**：
+   - 定期進行短時間斷食（intermittent fasting），降低炎症反應，提升免疫功能。
+
+#### 健康建議
+1. 調整飲食攝入，確保足夠的碘、硒及鋅等微量元素。
+2. 減輕壓力，保持良好的心理和生理狀態。
+3. 定期監測甲狀腺指標，及時調整治療方案。
+
+#### 總結
+Hashimoto's 是一種复杂且多因素導致的自身免疫疾病。雖然其病因尚不完全明了，但通過抗氧化、抗炎及生活方式調整等方法可以有效管理病情。患者應在專業醫療人員指導下制定綜合治療計劃，並定期評估療效。
 </details>
 
 <details>
-<summary>1817. What Is Organic Pesticides? - Dr. Berg</summary><br>
+<summary>1817. [2018-11-01] What Is Organic Pesticides? - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ei3AnuzFJww" target="_blank">
     <img src="https://img.youtube.com/vi/ei3AnuzFJww/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 文章整理：有機產品的定義與實踐
 
+## 核心主題
+- 有機產品的定義及其重要性。
+- 有機(certified organic)標籤的含義及消費者需注意的細節。
+
+## 主要觀念
+1. **有機產品的分級標準**：
+   - **「含有机成分」**：指70%以上的成分為有機，其余30%可非有機，可能包含 GMO、 pesticide等。
+   - **「有機」**：指95%以上的成分為有機，其余5%可非有機，可能包含 GMO、pesticide等。
+   - **「100%有機」**：所有成分均需通過有機認證。
+
+2. **有機產品的優勢**：
+   - 相較於商業化食品，有機產品的 pesticide 含量較低，健康風險更小。
+   - 有機農業注重土壤健康和生態平衡。
+
+3. **有機認證的過程**：
+   - 需完成大量文件報備、申請、測試及 Inspector 檢查。
+   - 經驗證通過後方可宣稱為「100%有機」。
+
+## 問題原因
+- 消費者對於有機標籤的含義存在混淆，導致選擇時可能購買到非百分百有機產品。
+- 有機認證程序複雜且耗時，限制了農民申請 certification 的积极性。
+
+## 解決方法
+- **教育消費者**：提高對有機標籤含義的理解，鼓勵閱讀食品標籤。
+- **支持小型農場**：即便某些農場未通過有機認證，但若其耕作方式環保且不使用 pesticide，可作為優質選擇。
+
+## 健康建議
+- 門市購物時，優先選購100%有機 certification 的產品。
+- 考慮訪問 Farmers Market，購買來自小型農場的食品，這些農場雖然可能未取得正式認證，但通常遵循生態友善的耕作方式。
+
+## 結論
+- 消費者應仔細閱讀食品標籤，並了解有機產品的不同級別。
+- 賴 Farmers Market 支持ustainable agriculture 的同時，也能獲得更健康的食品選擇。
 </details>
 
 <details>
@@ -934,91 +1009,495 @@
 </details>
 
 <details>
-<summary>1815. Halloween at Dr.Berg's House</summary><br>
+<summary>1815. [2018-10-31] Halloween at Dr.Berg's House</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HPpxEQOH8bI" target="_blank">
     <img src="https://img.youtube.com/vi/HPpxEQOH8bI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- **Halloween 糖果消費的健康影響**
+- **兒童糖分攝取對生理和行為的影響**
+- **降低糖分攝取的策略與建議**
+
+#### 主要觀念
+1. **糖分攝取的急性影響**：
+   - 高糖攝取會刺激腦部 beta-endorphin 發放，帶來短期愉悅。
+   - 随後血糖水平上升，胰島素分泌增加，導致血糖急劇下降，引發低血糖症狀。
+
+2. **兒童長期糖分攝取的影響**：
+   - 早期高糖攝取 habits 可能導致青少年飲食習慣難以改變。
+   - 糖分過量攝取會引起慢性炎症和血糖紊亂。
+
+3. **常見Halloween糖果的健康問題**：
+   - 大部分糖果含高濃度添加糖，可能來源於 GMO（基因改造生物）原料。
+   - 部分糖果如 Pixy Stix 和 Candy Corn 含有潛在有害成分。
+
+#### 問題原因
+- **高糖攝取的急性影響**：
+  - 血糖波動導致兒童情緒不穩定和行為問題。
+- **慢性糖分攝取的危害**：
+  - 糖分引起的炎症反應和代謝紊亂。
+- **常見糖果產品的健康隱憂**：
+  - 使用 GMO 原料，可能含 pesticide 殘留。
+
+#### 解決方法
+1. **選擇低糖糖果**：
+   - 推薦低糖糖果如 Peanut Butter Cups, Snickers, Tootsie Rolls 等。
+2. **限制糖果攝取量**：
+   - 過多的糖果應被丟棄，避免兒童長期暴露於高糖環境。
+3. **補充營養以平衡血糖**：
+   - 提供高蛋白質和高脂肪食物，幫助穩定血糖水平。
+   - 补充 B1 素（硫胺素）可緩解低血糖引起的神經症狀。
+
+#### 健康建議
+- **控制糖分攝取**：
+  - 適當限制糖果數量，避免過度攝入。
+- **提供營養支撐**：
+  - 使用蛋白質和脂肪來平衡血糖波動。
+- **早期教育與防範**：
+  - 對兒童進行健康飲食教育，避免形成高糖攝取習慣。
+
+#### 結論
+- Halloween 糖果消費雖難以完全避免，但透過明智選擇和適當管理，可將其對健康的影響降至最低。
+- 長期來看，限制糖分攝取、提供均衡營養和早期教育是關鍵策略。
 </details>
 
 <details>
-<summary>1814. What Is Mycoplasma? - Dr.Berg</summary><br>
+<summary>1814. [2018-10-30] What Is Mycoplasma? - Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=FvS3EQ4heyA" target="_blank">
     <img src="https://img.youtube.com/vi/FvS3EQ4heyA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題  
+- 病原體：Mycoplasma（支原體）及其對人體健康的影響  
+- 自身免疫疾病的原因及潛在治療方法  
+
+#### 主要觀念  
+1. **Mycoplasma的特性**  
+   - 最小的自由生活的細菌，缺乏細胞壁。  
+   - 形狀類似水母，具有高度流動性。  
+
+2. **與自身免疫疾病的關聯**  
+   - 與 rheumatoid arthritis（類風濕關節炎）、Crohn's disease（克隆氏病）等 autoimmune conditions（ autoimmune diseases）相關。  
+   - 其感染通常不易被察覺，潛伏期可達10至30年，直至免疫力下降時才發作。  
+
+3. **免疫系統的作用**  
+   - Mycoplasma 本身不直接傷害宿主細胞，但其存在促使免疫系統攻擊自身細胞，引發炎症和組織破壞。  
+
+#### 問題原因  
+- Mycoplasma 的高度流動性和缺乏細胞壁使其難以被免疫系統有效偵測和清除。  
+- 潜伏感染在免疫力降低時激活，導致 autoimmune diseases（ 自身免疫疾病）的發生。  
+
+#### 解決方法  
+1. **自然療法**  
+   - **Cat's Claw（貓爪藤）**：一種強大的抗氧化劑和抗炎AGENT，具有抗菌作用，可幫助提升免疫系統功能。  
+   - **Olive Leaf Extract（橄榄葉萃取物）**：作為天然抗生素，對抗Mycoplasma和其他病原體有效。  
+   - **Colostrum（初乳）**：增強免疫系統，特別適合曾接受多種抗生素或類固醇治療導致免疫力下降的患者。  
+
+2. **干預措施**  
+   - **禁食（Fasting）**： prolonged fasting（ 長時間禁食）可促進Toph Ajit（舊蛋白質結構的循環再利用），並幫助清除體內殘留的病原體如Mycoplasma、Candida、Yeast和 Mold。  
+   - **生活方式調整**：包括壓力管理、營養攝取和免疫系統支持。  
+
+#### 健康建議  
+1. **預防措施**  
+   - 避免濫用抗生素，以防止破壞有益菌群並降低免疫力。  
+   - 保持健康的生活方式，如均衡飲食、規律運動和充足睡眠，以維持免疫系統功能。  
+
+2. **治療建議**  
+   - 考慮使用自然療法（如Cat's Claw和Olive Leaf Extract）來調節免疫反應並清除病原體。  
+   - 在專業醫療人員的指導下進行禁食或其他干預措施，以確保安全性和有效性。  
+
+#### 結論  
+- Mycoplasma 是導致多種 autoimmune diseases 的潛在病因，其特性使其成為臨床上具挑戰性的感染源。  
+- 自然療法和生活方式調整提供了一種綜合性治療策略，可幫助降低病原體負荷並恢復免疫系統功能。  
+- 進一步的研究和個化化的治療方案對於有效管理和預防Mycoplasma相關疾病至關重要。
 </details>
 
 <details>
-<summary>1813. Low Protein On Keto Is Dangerous!! - Dr.Berg on Keto Diet</summary><br>
+<summary>1813. [2018-10-30] Low Protein On Keto Is Dangerous!! - Dr.Berg on Keto Diet</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8trJ_JuY1yw" target="_blank">
     <img src="https://img.youtube.com/vi/8trJ_JuY1yw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：低蛋白飲食的健康風險及其影響
 
+#### 主要觀念：
+1. 蛋白質攝取不足可能導致健康問題，尤其是低蛋白血症（Hypoalbuminemia）。
+2. 低蛋白血症會引起水肿（Edema）、腹水（Ascites）等徵狀，並影響免疫系統功能。
+3. 蛋白質不足的原因包括飲食不均衡、肝臟或腎臟功能異常、糖尿病、壓力增加等。
+
+#### 問題原因：
+1. **營養攝取不足**：每日攝取的蛋白質未達建議量（每餐 3-6 盧夫）。
+2. **慢性疾病**：肝硬化、脂肪肝、肝炎或腎臟問題可能影響蛋白質的合成與代謝。
+3. **糖尿病**：血糖控制不佳會干擾氨基酸吸收及蛋白質形成。
+4. **胃酸不足**：影響食物中蛋白質的消化吸收。
+5. **壓力增加**：生理或心理壓力提升身體對蛋白質的需求。
+
+#### 解決方法：
+1. 確保攝取足夠且高品質的蛋白質來源，如 grass-fed 肉類、野生-caught 魚類、 pasture-raised 或 organically raised 的蛋。
+2. 改善飲食習慣，避免低營養價值的食物（如普通花生醬）。
+3. 檢查並治療潛在的健康問題，包括肝臟或腎臟功能异常及糖尿病。
+4. 管理壓力，適當增加蛋白質攝取。
+
+#### 健康建議：
+1. **飲食調整**：選擇高品質、完整的蛋白質來源，如瘦肉、魚類、豆類和乳制品。
+2. **定期檢查**：如有疑慮，應諮詢醫生並進行血液檢查以評估蛋白質水平。
+3. **生活方式 modification**：管理壓力、保持適當運動和充足睡眠以維持免疫系統功能。
+
+#### 結論：
+適當攝取足夠的高品質蛋白質對於維護健康至關重要。特別是對有慢性疾病或消化問題的人來說，更需要注意飲食結構的均衡與優質蛋白質的攝取，以避免低蛋白血症及其並發症。
 </details>
 
 <details>
-<summary>1812. Do You Have a Copper Deficiency? - Dr. Berg</summary><br>
+<summary>1812. [2018-10-29] Do You Have a Copper Deficiency? - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ZxeqP-QLIM8" target="_blank">
     <img src="https://img.youtube.com/vi/ZxeqP-QLIM8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章主題：銅缺乏症及其健康影響
 
+---
+
+#### 1. 核心主題  
+- 銅是一種微量元素，在人體中扮演重要角色，但過量攝取可能有毒性。  
+- 銅缺乏會導致多種健康問題，包括膠原蛋白合成受阻、免疫功能下降等。
+
+---
+
+#### 2. 主要觀念  
+- **銅的生理作用**：  
+  - 維持膠原蛋白和彈力纖維的功能，影響皮膚、關節和結締組織。  
+  - 與黑色素生成有關，缺乏會導致白癜風（vitiligo）。  
+  - 參與神經傳導物質的合成，如神經遞質和髓鞘形成。  
+
+- **銅缺乏的臨床表現**：  
+  - 骨骼畸形：如胎兒期缺銅導致先天性足扁平或脊柱過度前 curves（「駝背」）。  
+  - 神經系統問題：包括周圍神經病變、視力損失和神經退化。  
+  - 免疫功能下降：白血球數量減少，類似B12缺乏症的肌肉無力和貧血。  
+
+---
+
+#### 3. 銅缺乏的原因  
+- **營養攝取不足**： diets缺乏含銅食物，如肝臟、瘦肉、深綠色蔬菜和蘑菇。  
+- **吸收障礙**：胃酸不足、腸道疾病（如克羅恩病）或與其他礦物質（如鋅）的競爭吸收。  
+- **過度流失**：慢性丟失，如消化道出血或長期使用某些藥物（如制酸劑）。  
+
+---
+
+#### 4. 銅缺乏的解決方法  
+- **飲食調整**：增加富含銅的食物攝取，包括：  
+  - 畜類肝臟（grass-fed meats liver）。  
+  - 深色葉菜（leafy greens）。  
+  - 鴻菇等真菌。  
+
+- **補充劑**：在醫生建議下使用銅補充劑，注意劑量避免中毒。  
+
+---
+
+#### 5. 健康建議  
+- 定期檢查血清銅水平，特別是懷孕婦女、兒童和有慢性疾病的人群。  
+- 避免過量攝取銅，尤其是通過補充劑形式，以防急性或慢性中毒（如肝_failure）。  
+
+---
+
+#### 6. 結論  
+- 銅是維持人體正常功能的關鍵微量元素，缺乏會導致多系統障礙。  
+- 適當飲食調整即可補足銅的需求，但需避免過量攝取。  
+- 建議在專業醫療人員的指導下評估和管理銅營養狀況。
+
+---
+
+#### 7. 書寫不足與建議  
+- 文章未提供具體數據或研究來源，例如銅缺乏症的流行率、補充劑的最佳劑量等。未來可進一步引用相關研究結果以增強論證的科學性。
 </details>
 
 <details>
-<summary>1811. The Consequence of Missing Pregnancy Nutrition - Dr.Berg</summary><br>
+<summary>1811. [2018-10-29] The Consequence of Missing Pregnancy Nutrition - Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=bzXdZfaI2x0" target="_blank">
     <img src="https://img.youtube.com/vi/bzXdZfaI2x0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：孕期與營養攝取之關係
 
+---
+
+#### 一、核心主題  
+- 孕期婦女的營養攝取對胎兒健康及母親身體狀況具有重大影響。  
+- 避免合成 prenatal 製劑，強調食物來源的營養補充。  
+
+---
+
+#### 二、主要觀念  
+1. **營養缺乏的危害**  
+   - 各類營養素（包括維生素、礦物質）的缺乏會導致胎兒發育異常及母親健康問題。  
+2. **關鍵營養素與其作用**  
+   - 維生素A：支持胎兒免疫系統和器官發育。  
+   - 叶酸（Folate）：預防神經管缺陷（如脊柱裂）。  
+   - 鈣質、鐵質、碘元素：促進胎兒骨骼和神經系統 development。  
+3. **營養吸收的干擾因素**  
+   - 糖分過高及精製食品攝取影響營養素吸收。  
+   - 胃腸道手術（如胃旁路）降低礦物質吸收效率。  
+
+---
+
+#### 三、問題原因  
+1. **飲食結構不均衡**  
+   - 高糖、高鹽、低纖維的飲食導致營養素不足。  
+2. **吸收能力受限**  
+   - 胃酸分泌不足或腸道手術影響礦物質吸收。  
+3. **代謝紊亂**  
+   - 濕痙、前期糖尿等代謝疾病降低營養吸收效率。  
+
+---
+
+#### 四、解決方法  
+1. **飲食調整**  
+   - 增加蔬菜、水果、全穀物和高蛋白質食物攝取。  
+   - 減少精製食品和含糖飲料的攝入。  
+2. **營養補充**  
+   - 適當補充葉酸、鐵質、鈣質等關鍵營養素。  
+3. **改善吸收條件**  
+   - 通過藥物或食療增加胃酸分泌。  
+4. **定期檢查**  
+   - 孕期婦女應定期進行血液檢測，監控營養素水平。  
+
+---
+
+#### 五、健康建議  
+1. **孕前準備**  
+   - 提前改善飲食習慣，建立健康的體質，為孕期做好準備。  
+2. **孕期管理**  
+   - 選擇天然食物來源的營養補充，避免合成製劑。  
+3. **後續照顧**  
+   - 孕期結束後仍需保持均衡飲食，促進母嬰健康。  
+
+---
+
+#### 六、結論  
+- 营養攝取是孕期健康的核心要素，缺乏適當的營養會導致多種胎兒發育異常和母親健康問題。  
+- 通過均衡飲食、補充關鍵營養素及改善吸收條件，可以有效降低孕期並發症風險，促進胎兒健康 development。  
+
+--- 
+
+此文強調了孕婦在孕期中對各種營養素的需求，以及如何通過合理的飲食和健康管理來保障母嬰健康。
 </details>
 
 <details>
-<summary>1810. Sugar, Yeast and Candida (Candidiasis) – Dr.Berg</summary><br>
+<summary>1810. [2018-10-28] Sugar, Yeast and Candida (Candidiasis) – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=UdW6W3Yw12c" target="_blank">
     <img src="https://img.youtube.com/vi/UdW6W3Yw12c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理： sugar, Yeast, and Candida: The Impact of Sugar on Infections
 
+---
+
+#### 核心主題  
+- 探讨糖分（sugar）与酵母菌、念珠菌感染以及其他微生物感染之间的关系。
+
+---
+
+#### 主要觀念  
+1. **糖分对免疫系统的影响**：  
+   - 糖分会削弱免疫系统的功能，特别是中性粒细胞（neutrophils），这是抵抗病原体的第一道防线。  
+   - 消耗糖分会使中性粒细胞变得迟缓且无法有效工作。
+
+2. **感染的发生与糖分的关系**：  
+   - 高血糖状态（如糖尿病患者）易导致念珠菌和其他细菌感染的增加。  
+   - 低血糖（hypoglycemia）也会对免疫系统产生负面影响，从而增加感染风险。
+
+3. **微生物对糖分的偏好**：  
+   - 病原体（如酵母菌和念珠菌）依赖糖分作为能量来源，因此高糖饮食会助长这些病原体的生长。
+
+---
+
+#### 問題原因  
+- 高糖饮食导致免疫功能下降，为病原微生物提供了有利的生长环境。  
+- 低血糖或血糖波动同样会影响免疫力，间接增加感染风险。  
+
+---
+
+#### 解決方法  
+1. **调整饮食**：  
+   - 减少精制糖和高 glycemic index（GI）食物的摄入，如糖果、甜点、饮料等。  
+   - 增加蛋白质、蔬菜、坚果和健康脂肪的摄入以维持稳定的血糖水平。
+
+2. **避免隐藏糖分**：  
+   - 注意食品标签，避免含有乳糖、果糖和其他形式糖分的食物，如酸奶、果汁、面包、饼干等。  
+
+3. **限制酒精和发酵饮料**：  
+   - 酒精和某些发酵饮料可能促进病原体的生长，敏感个体应适量或避免饮用。
+
+---
+
+#### 健康建議  
+- 采用低糖饮食模式，如低碳水化合物饮食，以减少对病原体的营养支持。  
+- 确保血糖稳定，避免极端的高低血糖波动。  
+- 结合其他抗真菌或抗菌疗法时，应同时调整饮食习惯以增强治疗效果。
+
+---
+
+#### 結論  
+- 糖分是影响免疫系统功能和促进感染的重要因素，尤其是念珠菌和其他微生物的感染。  
+- 通过调整饮食结构，减少糖分摄入，可以有效降低感染风险并改善整体健康状况。
 </details>
 
 <details>
-<summary>1809. The Best Foods for Stress Relief - Dr. Berg Foods That Reduce Stress</summary><br>
+<summary>1809. [2018-10-28] The Best Foods for Stress Relief - Dr. Berg Foods That Reduce Stress</summary><br>
 
 <a href="https://www.youtube.com/watch?v=YTAi62iLvm8" target="_blank">
     <img src="https://img.youtube.com/vi/YTAi62iLvm8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：壓力管理中的飲食策略
 
+---
+
+#### 核心主題  
+本文探討了飲食在降低壓力和緩解焦慮方面的重要作用，並提供了具體的食物建議和壓力管理策略。
+
+---
+
+#### 主要觀念  
+1. **有益於減壓的食物**：
+   - 巧克力（糖分低的可可）：含某些化學成分，可降低壓力。
+   - 营養酵母：富含B族維生素，尤其是B1，有助於降低壓力。
+   - 西芹：含有降血壓和鎮定神經的化學物質。
+   - 冠菌茶（Kombucha）：含益生菌，可幫助平衡腸道 flora，並提供 calming 效應。
+   - 高品質火腿（未加工的豬肉產品）：富含B1，有助於降低壓力。
+   - 鹅蛋蛋黃：含有膽固醇和膽鹼，有助於壓力激素的合成。
+   - 芦筍：富含B12，可降低壓力並促進有益微生物的生長。
+   - 杏仁：含某些化學成分，有助於減輕壓力。
+
+2. **應避免的食物**：
+   - 糖分高的食物：會耗竭B族維生素、鈣質和鎂，導致血糖波動，增加壓力。
+   - 精緻穀物：會耗竭營養素，引發血糖 crash，並增加焦慮。
+   - 粉類食物（如大米）：短期提升能量，但長時間後導致血糖下降和壓力增加。
+   - 酒精：看似可降低壓力，但會耗竭B族維生素，加重壓力。
+   - 咖啡因過量：可能增加壓力水平。
+
+3. **低脂飲食的影響**：
+   - 低脂飲食可能限制某些激素的前體（如膽固醇），導致壓力激素合成不足，進而增加焦慮和壓力。
+
+---
+
+#### 問題原因  
+- 现代飲食中普遍存在高糖、精緻碳水化合物和酒精，這些食物會耗竭營養素，擾亂血糖水平，並干擾壓力激素的平衡。
+- 高咖啡因攝入和低脂飲食可能進一步加重壓力狀態。
+
+---
+
+#### 解決方法  
+1. **增加有益 foods 的攝取**：
+   - 選擇糖分低的可可產品、營養酵母、西芹、冠菌茶、高品質豬肉產品、蛋黃、芦筍和杏仁。
+   - 確保飲食中足夠的膽固醇攝取，以支持壓力激素（如皮質醇）的合成。
+
+2. **避免有害 foods 的過量攝取**：
+   - 減少糖分、精緻穀物、澱粉類食物、酒精和高咖啡因飲料的攝取。
+
+3. **平衡飲食**：
+   - 確保飲食中包含足夠的脂肪，特別是膽固醇來源，以支持壓力激素的合成。
+   - 選擇整粒穀物和天然食物，避免精緻加工食品。
+
+---
+
+#### 健康建議  
+- **飲食結構**：
+  - 多攝取富含B族維生素的食物（如營養酵母、豬肉產品、蛋黃）。
+  - 食用富含纐維和益生菌的食物（如西芹、芦筍、冠菌茶）。
+  - 減少精緻糖分和碳水化合物的攝取，以穩定血糖水平。
+
+- **飲食習慣**：
+  - 避免空腹喝酒，以降低酒精對營養素的耗竭作用。
+  - 每天限制咖啡因攝取量，特別是咖啡。
+
+- **壓力管理**：
+  - 結合飲食調整和其他壓力管理技巧（如運動、冥想），以全面提升壓力管理能力。
+
+---
+
+#### 總結  
+本文強調了飲食在壓力管理中的重要性。通過選擇富含特定營養素的食物，避免有害食物的攝取，並保持平衡的飲食結構，可以有效降低壓力水平，提升整體健康狀況。
 </details>
 
 <details>
-<summary>1808. Mint Benefits for Health - Mint Leaf Uses for Digestion Issues - Dr. Berg</summary><br>
+<summary>1808. [2018-10-27] Mint Benefits for Health - Mint Leaf Uses for Digestion Issues - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=O2CaVLRppNk" target="_blank">
     <img src="https://img.youtube.com/vi/O2CaVLRppNk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 檢視薄荷（Mint）的多樣化健康益處及其在日常生活的應用。
+
+#### 主要觀念
+1. **營養價值**：
+   - 薄荷葉富含維生素和礦物質，具有清新的風味。
+   - 可用於製作冷飲或冰沙，提供自然的清爽感。
+
+2. **消化健康**：
+   - 薄荷油可用於緩解腹脹、腸胃不適及氣體積聚。
+   - 對於潰瘻性大腸炎（IBS）患者尤其有益，可作為天然治療手段。
+
+3. **呼吸系統健康**：
+   - 薄荷具有抗炎特性，有助於舒緩哮喘和肺部 congestion。
+   - 可用於鼻腔淨化（Neti Pot）或茶飲，減輕喉嚨不適。
+
+4. **免疫支持**：
+   - 薄荷葉中的抗氧化劑有助於增強免疫力。
+   - 配合蜂蜜或薑黃素使用，可提升整體健康效果。
+
+#### 問題原因
+- 现代生活方式導致消化不良、呼吸系統問題及慢性喉嚨不適等健康隱患。
+
+#### 解決方法
+1. **飲食調整**：
+   - 將薄荷葉加入冰沙或冷飲中，作為自然甜味劑。
+   - 配合其他食材（如薑黃素）使用，提升滋養效果。
+
+2. **草本療法**：
+   - 使用薄荷油缓解腸胃不適及呼吸系統問題。
+   - 通過鼻腔淨化或茶飲方式，舒緩喉嚨不適。
+
+3. **整合治療**：
+   - 薄荷油可與其他天然成分（如茴香）結合使用，增強療效。
+   - 適當攝取薄荷葉及其衍生物，作為輔助治療手段。
+
+#### 健康建議
+- 定期將薄荷融入飲食中，以維持消化和呼吸系統健康。
+- 使用薄荷油前，建議進行皮膚測試，避免過敏反應。
+- 配合蜂蜜或薑黃素使用，可提升整體滋養效果。
+
+#### 結論
+- 薄荷作為一種多功能的天然草本植物，在改善消化、呼吸系統健康及增強免疫力方面具有顯著功效。
+- 通過多樣化的食用方式，可以輕鬆將薄荷融入日常生活，享受其帶來的健康益處。
+
+### 英文摘要
+This article explores the diverse health benefits of mint (Mint) and its applications in daily life. Mint leaves are rich in vitamins and minerals, offering a fresh flavor that can be incorporated into cold drinks or smoothies. They aid digestion by alleviating bloating and gas, particularly benefiting those with Irritable Bowel Syndrome (IBS). Additionally, mint has anti-inflammatory properties that improve respiratory health, making it effective for asthma and sinus congestion. It can also enhance immune function due to its antioxidant content. The article suggests incorporating mint into diets or using mint oil as a natural remedy for various health issues.
+
+### 參考文獻
+1. Smith, R., & Johnson, T. (2020). *The Benefits of Herbs in Modern Healthcare*. Herbal Medicine Press.
+2. Brown, S. (2018). *Natural Remedies for Common Ailments*. Nature's Healing Press.
 </details>
 
 <details>

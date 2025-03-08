@@ -13,13 +13,14 @@ from datetime import datetime
 from lib.mytube import download_subtitle, get_video_list
 from lib.myai import get_summary
 from lib.mylog import setup_logger
+from verify_chinese import detect_chinese
 
 # 設定 logger
 logger = setup_logger('youtube_update')
 
 # === 設定目錄路徑 ===
 base_dir = os.path.dirname(os.path.abspath(__file__)) + '/../'
-script_dir = os.path.join(base_dir, 'scripts/')
+subtitle_dir = os.path.join(base_dir, 'subtitle/')
 summary_dir = os.path.join(base_dir, 'summary/')  
 docs_dir = os.path.join(base_dir, 'docs/')
 readme_file = os.path.join(base_dir, 'README.md')  
@@ -36,8 +37,8 @@ sender_email = os.getenv('SENDER_EMAIL')
 sender_password= os.getenv('SENDER_PASSWORD')
 # logger.info(f"email={sender_email}, password={sender_password}")
 
-# receiver_emails = ["jack.wu0205@gmail.com", "mingshing.su@gmail.com", "sibuzu.ai@gmail.com"]
-receiver_emails = ["sibuzu.ai@gmail.com"]
+receiver_emails = ["jack.wu0205@gmail.com", "mingshing.su@gmail.com", "sibuzu.ai@gmail.com"]
+# receiver_emails = ["sibuzu.ai@gmail.com"]
 
 def update_list():
     # === yt-dlp 參數設定 ===
@@ -88,13 +89,14 @@ def update_list():
         return combined_df, new_videos_df
     else:
         logger.info("沒有新影片")
-        new_df = existing_df.tail(1)
+        # new_df = existing_df.tail(1)
+        new_df = pd.DataFrame()
         return existing_df, new_df
 
 
 def download_script(df):
     # 確保 script_dir 存在
-    os.makedirs(script_dir, exist_ok=True)
+    os.makedirs(subtitle_dir, exist_ok=True)
     
     # 讀取黑名單
     black_list_file = os.path.join(base_dir, 'src/black_list.csv')
@@ -126,7 +128,7 @@ def download_script(df):
             # logger.warning(f"跳過黑名單影片：{idx}:{video_id}")
             continue
         
-        script_file = f"{script_dir}/{video_id}.txt"
+        script_file = f"{subtitle_dir}/{video_id}.txt"
         
         # 檢查檔案是否已存在
         if os.path.exists(script_file):
@@ -173,8 +175,8 @@ def summerize_script():
     # 確保 summary 目錄存在
     os.makedirs(summary_dir, exist_ok=True)
     
-    # 取得所有 scripts 目錄下的 txt 檔案
-    script_files = [f for f in os.listdir(script_dir) if f.endswith('.txt')]
+    # 取得所有 subtitle 目錄下的 txt 檔案
+    script_files = [f for f in os.listdir(subtitle_dir) if f.endswith('.txt')]
     
     # 計數器
     processed_count = 0
@@ -185,7 +187,7 @@ def summerize_script():
         
         # 檢查對應的 summary 檔案是否存在
         summary_file = f"{summary_dir}{fname}.md"
-        script_path = f"{script_dir}{script_file}"
+        script_path = f"{subtitle_dir}{script_file}"
         
         if not os.path.exists(summary_file):
             logger.info(f"處理摘要中：{fname}")
@@ -195,9 +197,20 @@ def summerize_script():
                 with open(script_path, 'r', encoding='utf-8') as f:
                     content = f.read()
                 
-                # 產生摘要
-                summary_text = get_summary(content)
-                
+                try_count = 0
+                threshold = 0.3
+                while True:
+                    # 產生摘要
+                    summary_text = get_summary(content)
+                    chinese_ratio = detect_chinese(summary_text)
+                    if chinese_ratio > threshold:
+                        break
+                    try_count += 1
+                    if try_count > 10:
+                        raise Exception(f"無法產生中文摘要")
+                    else:
+                        logger.warning(f"中文比例過低 ({chinese_ratio:.2f}):第{try_count}次")
+            
                 # 寫入摘要檔案
                 with open(summary_file, 'w', encoding='utf-8') as f:
                     f.write(summary_text)
@@ -206,7 +219,7 @@ def summerize_script():
                 processed_count += 1
                 
             except Exception as e:
-                logger.info(f"摘要產生失敗 {fname}: {str(e)}")
+                logger.error(f"摘要產生失敗 {fname}: {str(e)}")
                 continue
     
     if processed_count > 0:

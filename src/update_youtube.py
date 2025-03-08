@@ -20,7 +20,7 @@ logger = setup_logger('youtube_update')
 
 # === 設定目錄路徑 ===
 base_dir = os.path.dirname(os.path.abspath(__file__)) + '/../'
-script_dir = os.path.join(base_dir, 'scripts/')
+subtitle_dir = os.path.join(base_dir, 'subtitle/')
 summary_dir = os.path.join(base_dir, 'summary/')  
 docs_dir = os.path.join(base_dir, 'docs/')
 readme_file = os.path.join(base_dir, 'README.md')  
@@ -96,7 +96,7 @@ def update_list():
 
 def download_script(df):
     # 確保 script_dir 存在
-    os.makedirs(script_dir, exist_ok=True)
+    os.makedirs(subtitle_dir, exist_ok=True)
     
     # 讀取黑名單
     black_list_file = os.path.join(base_dir, 'src/black_list.csv')
@@ -128,7 +128,7 @@ def download_script(df):
             # logger.warning(f"跳過黑名單影片：{idx}:{video_id}")
             continue
         
-        script_file = f"{script_dir}/{video_id}.txt"
+        script_file = f"{subtitle_dir}/{video_id}.txt"
         
         # 檢查檔案是否已存在
         if os.path.exists(script_file):
@@ -175,8 +175,8 @@ def summerize_script():
     # 確保 summary 目錄存在
     os.makedirs(summary_dir, exist_ok=True)
     
-    # 取得所有 scripts 目錄下的 txt 檔案
-    script_files = [f for f in os.listdir(script_dir) if f.endswith('.txt')]
+    # 取得所有 subtitle 目錄下的 txt 檔案
+    script_files = [f for f in os.listdir(subtitle_dir) if f.endswith('.txt')]
     
     # 計數器
     processed_count = 0
@@ -187,7 +187,7 @@ def summerize_script():
         
         # 檢查對應的 summary 檔案是否存在
         summary_file = f"{summary_dir}{fname}.md"
-        script_path = f"{script_dir}{script_file}"
+        script_path = f"{subtitle_dir}{script_file}"
         
         if not os.path.exists(summary_file):
             logger.info(f"處理摘要中：{fname}")
