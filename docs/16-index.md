@@ -736,113 +736,532 @@
 </details>
 
 <details>
-<summary>1633. How Do You Know You're In Ketosis? – Dr. Berg</summary><br>
+<summary>1633. [2018-07-25] How Do You Know You're In Ketosis? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ODQmZKB98Qo" target="_blank">
     <img src="https://img.youtube.com/vi/ODQmZKB98Qo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：了解酮症及如何有效執行酮炭飲食
 
+#### 1. 核心主題
+- 探讨酮症（ketosis）的检测方法及其健康意义。
+- 强调通过尿液试纸检测酮体的局限性，以及长期执行酮炭饮食后身体适应性的变化。
+
+#### 2. 主要觀念
+- 酮症是指体内酮体累积的状态，通常作为脂肪分解的产物被用作替代葡萄糖的能量来源。
+- 长期执行酮炭饮食时，身体会逐渐提高利用酮体和脂肪酸的能力，减少对葡萄糖的依赖。
+
+#### 3. 問題原因
+- 单纯依赖尿液试纸检测酮体来判断酮症状态存在局限性：
+  - 身体适应后，尿液中的酮体可能会减少甚至消失。
+  - 酮体水平受多种因素影响（如运动、水分摄入等），不能全面反映身体的代谢状况。
+
+#### 4. 解決方法
+- 综合评估酮症状态的健康指标：
+  - **主观症状**： cravings（ craving for carbohydrates 减少或消失）、饥饿感降低、能量水平提升。
+  - **体格指標**： 腰圍減小，反映脂肪分解和體脂下降。
+  - **代谢效率**： 非常に重要な指針は、体が効率的に酮体を消費し、脂肪酸を利用してエネルギーを作っているということです。
+
+#### 5. 健康建議
+- 定期监测酮症状态，但不要过度依赖尿液试纸。
+- 通过以下方式确认酮炭饮食的效果：
+  - 观察饥饿感和 cravings 的变化。
+  - 监测能量水平是否稳定提升。
+  - 跟踪体脂和腰圍的变化。
+
+#### 6. 結論
+- 酮症的目的是为了提高身体代谢效率，促进健康而非单纯追求酮体检测阳性。
+- 长期有效的酮炭饮食会使得身体更高效地利用酮体和脂肪酸，进而减少尿液中的酮体水平。
+- 健康管理应该关注整体状态的变化，而不仅仅是单一指标。
+
+#### 7. 行動呼籲
+- 如果对自身健康问题有疑问，建议进行专业的健康评估（如影片末尾提供的链接）。
 </details>
 
 <details>
-<summary>1632. 4 Ways To Decalcify Your Arteries – Dr. Berg</summary><br>
+<summary>1632. [2018-07-24] 4 Ways To Decalcify Your Arteries – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=AAdryNkArwg" target="_blank">
     <img src="https://img.youtube.com/vi/AAdryNkArwg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- ** arteriosclerosis 的 calcium accumulation**  
+  討論如何清除動脈中的鈣沉積。
 
+### 主要觀念
+1. **健康飲食與生活方式的重要性**  
+   - 提倡酮飲食（keto diet）和intermittent fasting，以降低血糖水平並減輕動脈壁的氧化壓力。  
+2. **冠狀動脈钙化評估**  
+   - 推荐進行 coronary artery calcium (CAC) 測試，用於評估動脈中的鈣沉積情況，並作為治療進展的基準。
+
+### 問題原因
+- 鈣沉積在動脈壁中被視為身體對損傷或炎症的修復 mechanism。  
+- 長期來看，過量鈣沉積會導致arteriosclerosis，增加心血管疾病風險。
+
+### 解决方法
+1. **營養干預**  
+   - **Vitamin K2 (MK7)**：具備將 excess calcium 从動脈和關節移至骨骼的功能。  
+   - **Vitamin D3**：與K2協同作用，促進鈣的適當_transportation。  
+   - **Magnesium**：增加攝取可幫助降低體內鈣水平，通過teeter-totter effect 調節 Minerals 平衡。  
+   - **IP6（inositol hexaphosphate）**：作為calcification 的抑制劑，結合 calcium 和其他礦物質，促進其從動脈中排出。
+
+### 健康建議
+1. **飲食調整**  
+   - 采用酮飲食和intermittent fasting來降低血糖並減少動脈壁的氧化壓力。  
+2. **定期評估**  
+   - 定期進行CAC測試，以監控治療進展並獲得即時反饋。  
+3. **營養補充劑**  
+   - 綜合攝取Vitamin K2、D3、Magnesium 和IP6，最好與脂肪一起服用以增強吸收率。
+
+### 结論
+- 鈣沉積的清除需要綜合干預措施，包括健康飲食、定期評估和特定營養補充。  
+- 這些建議可幫助降低心血管疾病風險，改善整體健康狀況。
 </details>
 
 <details>
-<summary>1631. Sleepy After Eating Salad? – Dr. Berg</summary><br>
+<summary>1631. [2018-07-24] Sleepy After Eating Salad? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KzCXBwD2nu8" target="_blank">
     <img src="https://img.youtube.com/vi/KzCXBwD2nu8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 探讨食用沙拉后感到疲倦的原因及其解决方案。
 
+---
+
+### 主要觀念  
+1. **肠道菌群的作用**：  
+   - 肠道中的有益菌依赖于纤维（如沙拉中的纤维）作为能量来源。  
+   - 消化纤维需要特定的酶和发酵过程，由肠道菌群完成。  
+
+2. **沙拉摄入与肠道适应性**：  
+   - 突然增加沙拉摄入量可能导致肠道菌群无法及时适应，导致消化不良或疲劳。
+
+---
+
+### 問題原因  
+1. **肠道菌群的过载**：  
+   - 过量摄入纤维会导致有益菌数量不足，无法有效分解纤维，从而引发疲劳。  
+
+2. **快速发酵产生的代谢产物**：  
+   - 大量纤维在短时间内被发酵，可能产生过多的气体、短链脂肪酸等代谢产物，导致身体不适。
+
+3. **潜在的其他因素**：  
+   - 隐藏在沙拉酱中的糖分可能导致血糖波动，进而引发疲劳感。  
+
+---
+
+### 解決方法  
+1. **逐步增加纤维摄入量**：  
+   - 从少量开始（如5杯蔬菜），逐渐增加到适中水平（如7杯或10杯）。  
+   - 给肠道菌群足够时间适应和调整。
+
+2. **选择适合的沙拉酱料**：  
+   - 减少含糖量高的酱料使用，避免因血糖波动导致疲劳。  
+
+3. **优化饮食结构**：  
+   - 确保摄入足够的蛋白质、健康脂肪和矿物质，以支持整体代谢和能量水平。
+
+---
+
+### 健康建議  
+1. **均衡饮食**：  
+   - 结合多种食物类型（如蔬菜、蛋白质、全谷物等），避免单一食物过量。  
+
+2. **关注身体信号**：  
+   - 如感到不适，及时调整摄入量或咨询专业医生。
+
+3. **长期适应与改善**：  
+   - 通过逐渐增加纤维摄入和优化饮食结构，提升肠道健康和整体代谢能力。
+
+---
+
+### 結論  
+- 食用沙拉后感到疲倦主要是由于肠道菌群无法迅速适应大量纤维的摄入。  
+- 通过逐步增加纤维摄入、选择健康的酱料以及均衡饮食，可以有效缓解疲劳感并提升身体状况。  
+- 建议关注肠道健康，采取科学合理的饮食策略，以实现长期的身体健康目标。
 </details>
 
 <details>
-<summary>1630. Pay Attention to These Health Indicators When Doing Keto & Intermittent Fasting – Dr. Berg</summary><br>
+<summary>1630. [2018-07-24] Pay Attention to These Health Indicators When Doing Keto & Intermittent Fasting – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=SdtAFmBqcds" target="_blank">
     <img src="https://img.youtube.com/vi/SdtAFmBqcds/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理： intermittent fasting and keto diet 的健康策略與建議
 
+#### 核心主題：
+- 探讨间歇性断食（intermittent fasting）和生酮饮食（keto diet）的有效性和健康效益。
+- 强调健康改善而非单纯体重减轻的重要性。
+
+#### 主要觀念：
+1. **健康指標的重要性**： 
+   - 作者認為，應該重点关注能量、睡眠品質、記憶力、注意力、炎症反應、整體情緒、視力和壓力耐受度等健康指標。
+   - 每周記錄這些指標的變化，以評估整體健康狀況的提升。
+
+2. **目標設定**：
+   - 强調應該「增進健康」而非「減輕重量」，因為身體更願意接受前者。
+   - 類比於婚姻中減少爭吵的不良效果，作者強調健康目標應該是積極向上的。
+
+3. **生酮飲食的核心要素**：
+   - **低碳水化合物攝入**：每日碳水化合物攝取量控制在20-50克之間，甚至更低以促進更有效的體重減輕。
+   - **增加蔬菜攝取量**：尤其是富含維生素A的深色葉菜類，這些食物有助於改善視力、肌膚健康並預防疾病。
+   - **持之以恆**：強調飲食計劃的連續性，身體需要時間來適應新的代謝模式。
+
+4. **間歇性斷食的作用**：
+   - 通過限制進餐時間來降低整體碳水化合物攝取，從而促使身體利用脂肪作為主要能量來源。
+   - 間歇性斷食不僅幫助控制體重，還能提升整體健康狀況。
+
+#### 問題原因：
+- 过度關注體重減輕往往導致壓力增加，反而影響健康指標的改善。
+- 短期目標（如減少爭吵）可能帶來反效果，應選擇積極且可持續的目標。
+
+#### 解決方法：
+1. **記錄健康指標**： 
+   - 使用量表評估並定期記錄能量、睡眠品質、記憶力等指標，以客觀反映健康狀況的進展。
+   
+2. **優先增進健康**：
+   - 將注意力放在提升健康指標上，而非減輕體重。這包括飲食調整和生活方式的改變。
+
+3. **飲食策略**：
+   - 控制碳水化合物攝取量，將其作為首要策略。
+   - 增加蔬菜攝取量，尤其是富含維生素A的食物，以提升整體營養素攝取。
+   
+4. **持之以恆**：
+   - 確保飲食計劃的連續性，為身體提供足夠時間來適應新的代謝模式。
+
+#### 健康建議：
+- **飲食選擇**：優先選擇低碳水化合物的食物，增加蔬菜攝取量。
+- **生活習慣**：保持規律的進餐時間，避免不必要的壓力。
+- **目標設定**：將健康指標作為首要關注點，而非體重。
+
+#### 結論：
+- 通過間歇性斷食和生酮飲食策略，可以有效提升整體健康狀況。
+- 持續記錄並評估健康指標是關鍵，這能幫助個人更清晰地看到進展和調整計劃。
+- 雖然體重減輕可能是附帶效果，但應該將注意力放在健康改善上，這樣才能獲得更持久的效果。
 </details>
 
 <details>
-<summary>1629. Cheat Meal After Building Health Reserve – Dr. Berg</summary><br>
+<summary>1629. [2018-07-23] Cheat Meal After Building Health Reserve – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=S_d36tdo1PA" target="_blank">
     <img src="https://img.youtube.com/vi/S_d36tdo1PA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 論述酮飲食（Keto Diet）中 Cheat Meal（作弊餐）的影響及管理策略。  
 
+---
+
+### 主要觀念  
+1. **酮飲食初期不建議作弊**：在酮飲食初期，身體尚未完全適應脂肪燃燒模式， cheats meal 會導致脫穎時間延長（可能需20小時以上才能恢復酮狀態）。  
+2. **適度作弊的可行性**：一旦身體充分適應酮飲食（通常數月後），便可更快恢復酮狀態。  
+3. **作弊的原因分析**：很多人作弊是為了解決血糖問題或情緒低落，而非真正的食欲驅使。  
+
+---
+
+### 啟發思考  
+- 作弊往往源於未被滿足的心理需求或生理需求，需找到問題根源并加以解決。  
+
+---
+
+### 問題原因  
+1. **初期酮飲食的脆弱性**：身體尚未建立穩定的脂肪燃燒機制， cheats meal 容易打破酮狀態。  
+2. **心理因素**：情緒低落、壓力或成癮行為常導致作弊。  
+3. **缺乏自制力**：尤其在面對誘惑時，容易失控。  
+
+---
+
+### 解决方法  
+1. **逐步適應酮飲食**：初期避免作弊，待身體充分適應後再考慮少量作弊。  
+2. **分析作弊原因**：了解作弊的根本原因（如血糖波動、情緒壓力），針對性地解決問題。  
+3. **增強自制力**：通過心理建設和環境控制來減少誘惑。  
+4. **建立健康的生活習慣**：避免將作弊視為短期快感，而應注重長期的健康目標。  
+
+---
+
+### 健康建議  
+1. **初期酮飲食需謹慎**：初學者应從少量、逐步的方式開始，並密切監控身體反應。  
+2. **定期自我檢視**：了解自己作弊的真正原因，及時調整飲食計劃。  
+3. **心理調適**：接受健康飲食的過程是長期且需要耐心的， Cheat meal 不應成為常態。  
+
+---
+
+### 結論  
+1. 酮飲食的成功取決於身體的適應性和個人的自制力。  
+2. 作弊雖然可能在短期內造成影響，但通過合理的計劃和心理調適，可逐步實現長期穩定的酮狀態。  
+3. 健康目標需建立在自我覺察和持續努力的基礎上，而非短暫的放縱。
 </details>
 
 <details>
-<summary>1628. Benefits of Using Green Coffee for Skin – Dr. Berg</summary><br>
+<summary>1628. [2018-07-23] Benefits of Using Green Coffee for Skin – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=uqHcLekah1U" target="_blank">
     <img src="https://img.youtube.com/vi/uqHcLekah1U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 探讨皮肤健康与天然美容产品的使用效果。
+- 比较两种咖啡产品（ roasted coffee grounds 和 green coffee powder）在护肤中的应用。
 
+---
+
+### 主要觀念  
+1. **咖啡渣面膜的功效**：  
+   - 咖啡渣（roasted coffee grounds）被广泛用于面部磨砂，帮助紧致肌肤、减少皱纹，并提供健康光泽。  
+2. **綠咖啡粉的優勢**：  
+   - 綠咖啡粉（unroasted coffee beans powder）含有更多的活性成分（phytochemicals），尤其是未經過高溫烘焙破壞的抗氧化劑和咖啡因，能更好地提亮肌膚、賦予健康光澤。  
+
+---
+
+### 問題原因  
+- 市面上的咖啡渣面膜雖有效，但其功效可能受限於烘焙過程中某些成分的流失。  
+- 干性肌膚使用水基面膜時可能缺乏足夠的保濕效果。
+
+---
+
+### 解決方法  
+1. **建議改用綠咖啡粉**：  
+   - 使用市售綠咖啡粉末或自制未烘焙咖啡豆粉末，搭配清水或橄欖油使用。  
+2. **具體應用方式**：  
+   - 水基面膜：取一茶匙綠咖啡粉，混合等量水，敷於臉部約15分鐘後洗淨。  
+   - 幹性肌膚專用：將綠咖啡粉與橄欖油按1:1比例混合，敷於臉部20分鐘後擦拭乾淨。  
+
+---
+
+### 健康建議  
+- **選擇高品質產品**：購買有機、未烘焙的綠咖啡粉末以確保成分純天然且無污染。  
+- **注意肌膚反應**：使用前可先在小面積皮膚上測試，避免過敏或刺激。  
+- **堅持使用**：定期使用面膜（建議每周2-3次）以維持最佳的 кожний стан。  
+
+---
+
+### 結論  
+- 綠咖啡粉相比咖啡渣更具備科學美容價值，值得作為護膚品項之一。  
+- 觀眾可根據個人肌膚狀況調整配方，實現更有效的保養效果。
 </details>
 
 <details>
-<summary>1627. Can Diabetes Be Reversed? – Dr. Berg</summary><br>
+<summary>1627. [2018-07-22] Can Diabetes Be Reversed? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=NdpnAkYlWwo" target="_blank">
     <img src="https://img.youtube.com/vi/NdpnAkYlWwo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理：糖尿病能否逆轉？
 
+#### 核心主題
+- 糖尿病的逆轉可能性及其影響因素。
+
+#### 主要觀念
+1. **Type 2 Diabetes Remission**:
+   - Type 2 糖尿病的逆轉（完全或部分恢復正常血糖水平）在無手術情況下非常罕見。
+   - 大多數報告的逆轉案例與減肥手術相關，但也有少數病例通過生活方式改變實現。
+
+2. **研究數據**:
+   - 研究顯示，在七年內，1.6% 的 Type 2 糖尿病患者曾經歷任何形式的逆轉。
+     - 其中：
+       - 部分逆轉：1.47%
+       - 完全逆轉：1.4%
+       - 長時間逆轉（5年以上）：0.007%
+   - 應用到美國 2560 萬 Type 2 糖尿病患者中，估計有 384,000 人可能實現逆轉。
+
+#### 問題原因
+- **生活方式改變的局限性**:
+  - 經典的研究數據表明，僅靠生活方式的改變實現糖尿病逆轉的概率極低。
+  
+- **飲食結構的重要性未被充分探索**:
+  - 原始研究未能提供患者具體飲食信息，限制了進一步分析。
+
+#### 解決方法
+1. ** ketogenic diet (生酮飲食)**:
+   - 生酮飲食（ketogenic diet）在某些案例中報告了顯著的療效。
+     - 研究指出，60% 的 Type 2 糖尿病患者在接受一年生酮飲食後，病情出現不同程度的逆轉。
+     - 94% 接受胰島素治療的患者成功降低了藥物使用量或完全戒除。
+
+2. **健康建議**:
+   - 選擇科學的生酮飲食計劃，以實現血糖控制和疾病逆轉。
+   - 經常監測血糖水平，並在專業醫療人員指導下進行飲食調整。
+
+#### 結論
+- 識別糖尿病逆轉的可能性雖低，但通過特定飲食干預（如生酮飲食）可顯著提高療效。
+- 生酮飲食提供了一種潛力巨大的治療途徑，值得進一步研究和推广应用。
 </details>
 
 <details>
-<summary>1626. The Human Cell Structure: Parts & Anatomy Of A Cell – Dr. Berg</summary><br>
+<summary>1626. [2018-07-22] The Human Cell Structure: Parts & Anatomy Of A Cell – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Ezwe0hBdmSM" target="_blank">
     <img src="https://img.youtube.com/vi/Ezwe0hBdmSM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# Cell Biology Overview
 
+## Nucleus and DNA
+- The nucleus is the central part of the cell containing DNA, which serves as the genetic blueprint.
+- DNA dictates cellular functions, tissue formation, and actions.
+
+## RNA Function
+- RNA acts as a copy of DNA, facilitating gene expression.
+- It transports genetic code to ribosomes for protein synthesis.
+
+## DNA Damage and Repair Mechanisms
+- Cells encounter over 10,000 daily DNA errors due to environmental factors like radiation and oxidation.
+- The cell possesses repair mechanisms:
+  - Proofreader enzymes correct transcription errors.
+  - A secondary proofreading system ensures accuracy.
+  - These systems reduce mutation rates to one in a billion.
+
+## Mitochondria
+- Mitochondria are the powerhouses, converting food and oxygen into ATP (energy currency).
+
+## Endoplasmic Reticulum
+- Rough ER synthesizes proteins for cellular structures.
+- Smooth ER produces lipids and steroids essential for tissues like hair, nails, and brain cells.
+
+## Ribosomes
+- Ribosomes are protein synthesis machines, producing structural proteins, hormones, neurotransmitters, and blood cells.
+
+## Golgi Apparatus
+- Functions as a packaging and tagging system for proteins and lipids.
+- Tags and ships cellular products to their destinations.
+
+## Lysosome
+- Serves as the digestive system, breaking down waste and recycling damaged components.
+- Engages in autophagy during fasting to recycle dysfunctional proteins and pathogens.
+
+## Peroxisome
+- Removes harmful peroxides, neutralizing free radicals.
+- Supports immune defense by degrading hydrogen peroxide.
+
+## Cell Membrane
+- A bilayer of lipids separating the cell from its environment.
+- Facilitates transport of water-soluble and fat-soluble vitamins into the nucleus.
+
+## Health Implications
+- DNA mutations can lead to cancer and diseases.
+- Cellular machinery efficiently repairs and recycles components, enhancing overall health.
+
+## Conclusion
+- The complexity and efficiency of cellular processes highlight the body's intricate design.
+- Maintaining cellular health through antioxidants and proper nutrition is crucial for preventing diseases.
 </details>
 
 <details>
-<summary>1625. Keto Macro Nutrition & Insulin Spike Clarification – Dr. Berg</summary><br>
+<summary>1625. [2018-07-21] Keto Macro Nutrition & Insulin Spike Clarification – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=lV-rEkOmDDc" target="_blank">
     <img src="https://img.youtube.com/vi/lV-rEkOmDDc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 調解三大宏量營養素（碳水化合物、蛋白質、脂肪）對胰島素的作用。
+
+#### 主要觀念
+1. **碳水化合物**：
+   - 碳水化合物是影響胰島素水平的主要來源。
+   - 細緻糖和精製碳水化合物（如白麵包、甜食）具有高升糖指數，會導致血糖快速上升並刺激胰島素分泌。
+   - 高纖維、低GI食物（如蔬菜、水果）對血糖影響較小。
+
+2. **蛋白質**：
+   - 蛋白質也會刺激胰島素分泌，但程度遠低於碳水化合物。
+   - 大量攝取蛋白質（尤其是Lean Protein，低脂蛋白質）會增加胰島素分泌。
+   - 添加糖或淀粉的烹調方式（如紅燒肉、醬汁等）會進一步放大胰島素反應。
+
+3. **脂肪**：
+   - 脫脂或低脂食物通常會導致較高的胰島素反應，而高脂食物對胰岛素影響較小。
+   - 純粹的脂肪（如 butter、椰子油）几乎不刺激胰岛素分泌。
+
+4. **餐次與進食頻率**：
+   - 每次進食都會觸發一定程度的胰島素反應，尤其是含有熱量的飲食。
+   - 風俗化requent snacking（常態性零食攝取）會導致持續的胰島素 spikes。
+
+#### 啟發原因
+- 痰痺症、代謝症患者或希望控制體重的人需要注意宏量營養素的攝取方式，以避免過度刺激胰岛素分泌。
+- 胰島素抵抗和慢性疾病與長期高胰島素血症有關。
+
+#### 解決方法
+1. **飲食結構調整**：
+   - 選擇高纖維、低GI的碳水化合物，如全穀物、蔬菜和水果。
+   - 控制蛋白質攝取量，避免過度攝取低脂蛋白質，建議攝取含脂肪的蛋白質來源（如雞肉、魚類）。
+   - 增加健康脂肪的攝取，如 avocado、 nuts、 olive oil等。
+
+2. **進食頻率**：
+   - 遵循間歇性禁食（Intermittent Fasting），如 4小時進食窗口和 20小時禁食，以降低胰島素反應。
+   - 减少常態性零食攝取，避免血糖波動。
+
+#### 健康建議
+- **平衡飲食**：合理分配宏量營養素的比例，推薦以清淡、高纖維、低GI為主。
+- **進食時機**：避免夜間進食，並限制進食窗口的時間。
+- **定期運動**：適度運動可以提高胰島素敏感性，幫助控制血糖水平。
+
+#### 結論
+- 胰岛素反應受飲食組成和進食模式的影響。
+- 通過調整宏量營養素攝取、控制餐次和禁食來降低胰島素 spikes，有利於維持良好的代謝健康。
 </details>
 
 <details>
-<summary>1624. Get Your Body to Eat Its Own Fat – Low Carbs, Fat Burning & Dietary Fat – Dr. Berg</summary><br>
+<summary>1624. [2018-07-21] Get Your Body to Eat Its Own Fat – Low Carbs, Fat Burning & Dietary Fat – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xC1ojK3-GZM" target="_blank">
     <img src="https://img.youtube.com/vi/xC1ojK3-GZM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 1. 核心主題
+- 調整飲食結構以促進身體燃燒自身脂肪。
+- 結合健康酮osis（ketosis）與間歇性禁食（intermittent fasting）來達到 fat burning 的效果。
+
+#### 2. 主要觀念
+- 碳水化合物和糖分攝取過量會抑制身體燃燒脂肪的能力。
+- 達到酮osis 時，身體主要依靠脂肪作為能量來源。
+- 高脂肪攝取在初期有助于適應酮osis 狀態，但后期需適當降低以促進自身脂肪的消耗。
+
+#### 3. 問題原因
+- 高糖、高碳水化合物飲食導致身體優先燃燒外來碳水而非自身脂肪。
+- 忽視蛋白質攝取可能導致肌肉分解，影響整體健康和脂肪燃燒效率。
+
+#### 4. 解決方法
+1. **降低碳水化合物攝取**：
+   - 確保每日碳水化合物攝取量在20至50克之間，必要時可進一步降低至20克以下。
+   
+2. **增加脂肪攝取**：
+   - 初期需提高膳食脂肪的比例以幫助身體適應酮osis 狀態。
+
+3. **適當降低脂肪攝取**：
+   - 經過初期適應后，若出現 plateau（平台效應），可逐步降低膳食脂肪攝取，促使身體更多地利用自身脂肪作為能量來源。
+
+4. **保持 moderate protein intake**：
+   - 每餐攝取3至6盎司的蛋白質，避免因蛋白質不足導致肌肉分解。
+   
+5. **結合間歇性禁食**：
+   - 推荐查看相關資源了解具體實施方法。
+
+#### 5. 健康建議
+- 適當運動可增強脂肪燃燒效果。
+- 確保飲食多樣化，以保障營養均衡。
+- 定期監測身體狀況和 fat burning 效果。
+
+#### 6. 结論
+- 經適當調整飲食結構后，身體能夠有效燃燒自身脂肪，從而達成減脂目標。
+- 達到酮osis 時，需根據個人反應調整膳食脂肪攝取量以維持最佳效果。
 </details>
 
 <details>
@@ -1344,58 +1763,83 @@
         alt="[Youtube]" width="200">
 </a>
 
-### Core Theme (核心主題)
-- **Kidney Stone Prevention and Management (腎結石預防與管理)**
-  - The video discusses various strategies to prevent kidney stones, including dietary recommendations and the use of specific compounds like IP6.
+### 文章整理
 
-### Key Concepts (主要觀念)
-1. **IP6 as a Remedy for Kidney Stones (IP6 腎結石的良藥)**
-   - IP6 is a combination of inositol, phosphorus, and phytic acid.
-   - It prevents the crystallization of calcium oxalate and calcium phosphate, which are common components of kidney stones.
+#### 核心主題
+- 腎臟结石的預防與治療
 
-2. **Dietary Recommendations for Kidney Stone Prevention (腎結石預防飲食建議)**
-   - **Low-Carb Diet (低碳水化合物飲食):** Reduces stone formation.
-   - **Moderate Protein Intake (適量蛋白質攝取):** Avoid excessive protein.
-   - **High Vegetable Consumption (高蔬菜攝取):** Provides phytic acid, which helps prevent stones.
-   - **Avoid Oxalate-Rich Foods:** Such as spinach, chocolate, and peanuts.
+#### 主要觀念
+1. **Ip6（Inositol Hexaphosphate）**：
+   - 是一種結合了肌醇和磷orus的化合物，具有抗結晶化作用。
+   - 可防止鈣 oxalate 和鈣 phosphate 的結晶化。
 
-3. **Vitamin C and Kidney Stones (維生素C與腎結石)**
-   - Vitamin C binds with calcium, preventing the formation of calcium oxalate stones.
-   - Contrary to popular belief, vitamin C does not cause kidney stones but may help prevent them.
+2. **飲食建議**：
+   - 低醣飲食：降低腎臟结石的風險。
+   - 中等蛋白質攝取：避免過量。
+   - 大量蔬菜攝取：提供_phytic acid，有助於預防结石。
+   - 避免高 oxalate食物（如菠菜、巧克力、花生）。
 
-4. **Role of Calcium in Diet (飲食中鈣質的作用)**
-   - Consuming adequate dietary calcium helps reduce calcium levels in the kidneys.
-   - The form of calcium supplement recommended is calcium orotate.
+3. **維生素C的作用**：
+   - 與鈣結合，防止鈣 oxalate的形成。
+   - 有利於腎臟健康，但需注意攝取量。
 
-5. **Magnesium and Kidney Stones (鎂與腎結石)**
-   - Magnesium is important for preventing kidney oxalate stones.
-   - A diet rich in vegetables provides sufficient magnesium.
+4. **水分攝取**：
+   - 適當增加水份攝取，避免過少或過多。
+   - 可添加電解質，尤其是久坐時。
 
-### Causes and Issues (問題原因)
-- **Calcium Deficiency (鈣質不足):** May lead to stone formation as the body retains calcium inappropriately.
-- **Magnesium Deficiency (鎂不足):** Can contribute to kidney stone formation.
-- **Dehydration and Sedentary Lifestyle (脫水和久坐生活):** Increases the risk of stone formation.
+5. **檸檬水的益處**：
+   - 助於抵銷 oxalate结石的形成。
 
-### Solutions and Health Recommendations (解決方法與健康建議)
-1. **Dietary Adjustments:**
-   - Follow a low-carb, moderate-protein diet with an emphasis on vegetables.
-   - Avoid high-oxalate foods unless balanced with adequate calcium and magnesium intake.
+6. **維生素B6的重要性**：
+   - 在預防腎臟结石中起關鍵作用。
 
-2. **Hydration:**
-   - Drink plenty of fluids but avoid excessive consumption.
-   - Add electrolytes to maintain proper hydration, especially if sedentary.
+7. **鈣質攝取**：
+   - 適當攝取 dietary calcium，可降低腎臟中的 calcium含量。
+   - 推薦攝取 grass-fed dairy 中的 calcium。
 
-3. **Supplements:**
-   - Consider IP6 for its stone-preventing properties.
-   - Use calcium orotate as a supplement if needed.
+#### 問題原因
+1. **腎臟结石的形成機制**：
+   - 鈣 oxalate 和鈣 phosphate 的結晶化。
+   - 高碳水化合物飲食增加结石風險。
 
-4. **Lifestyle Modifications:**
-   - Stay active to reduce the risk of stone formation.
-   - Be aware of potential cramping before stones, which may indicate mineral deficiencies.
+2. **缺血性問題**：
+   - 鋪 deficiency可能導致腎臟保留 calcium 形成结石。
 
-### Conclusion (結論)
-- Implementing a combination of dietary changes, adequate hydration, and specific supplements like IP6 can significantly reduce the risk of kidney stones.
-- Understanding the role of calcium and magnesium in stone formation is crucial for effective prevention and management.
+#### 解決方法
+1. **Ip6的使用**：
+   - 可作為腎臟结石的防治補充劑。
+
+2. **飲食調整**：
+   - 低醣、中等蛋白質、高蔬菜攝取。
+   - 避免高 oxalate食物和不當的維生素C攝取。
+
+3. **水份管理**：
+   - 適當喝水，保持適當液體平衡。
+
+4. **補充劑**：
+   - 檸檬汁、維生素B6、適量的鈣質（如 calcium citrate）。
+
+5. **注意缺血症狀**：
+   - 如腿痙攣可能是缺血信號，需及時調整飲食或補充。
+
+#### 健康建議
+1. **飲食結構**：
+   - 低醣、中等蛋白質、高蔬菜。
+   - 避免高 oxalate食物和不當的維生素C攝取。
+
+2. **水分攝取**：
+   - 每日保持充足水份，避免過多或不足。
+
+3. **補充劑使用**：
+   - Ip6、檸檬汁、維生素B6、適量 calcium citrate。
+
+4. **注意症狀**：
+   - 如腿痙攣等缺血症狀，需及時評估飲食和營養狀況。
+
+#### 結論
+- 腎臟结石的預防與治療需要綜合飲食調整、補充劑使用和適當水分攝取。
+- Ip6 和其他自然療法在防治腎臟结石中具有重要作用。
+- 適當的飲食結構和營養補充可有效降低腎臟结石風險。
 </details>
 
 <details>
