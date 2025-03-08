@@ -675,7 +675,7 @@
 </details>
 
 <details>
-<summary>2048. How To Get Rid Of Stomach Ulcer? – Dr.Berg On Peptic Ulcer Treatment</summary><br>
+<summary>2048. [2019-03-04] How To Get Rid Of Stomach Ulcer? – Dr.Berg On Peptic Ulcer Treatment</summary><br>
 
 <a href="https://www.youtube.com/watch?v=sIAyFQNCGKk" target="_blank">
     <img src="https://img.youtube.com/vi/sIAyFQNCGKk/maxresdefault.jpg" 
@@ -684,11 +684,37 @@
 
 # How To Get Rid Of Stomach Ulcer? – Dr.Berg On Peptic Ulcer Treatment
 
+### 核心主題：胃潰瘍的成因、辨別與自然療法
 
+#### 主要觀念：
+1. 胃潰瘍是胃黏膜上的損傷，可能導致出血和疼痛。
+2. 酸 reflux 和胃潰瘍有不同特性，需明確區分。
+
+#### 問題原因：
+1. **幽門螺桿菌（H. pylori）感染**：可破壞胃黏膜，增加潰瘍風險。
+2. **非甾體抗炎藥（NSAIDs）**：長期使用可能損傷胃黏膜。
+3. **壓力**：激活交感神經系統，抑制消化功能，削弱胃黏膜保護。
+4. **未知原因（idiopathic）**：
+   - 過量飲酒
+   - 血鈣過高（hypercalcemia）
+   - 細.Refined foods缺乏抗氧化物，如維生素E，導致黏膜脆弱。
+
+#### 解決方法和健康建議：
+1. **飲食調整**：
+   - **健康的生酮節食法**：降低血糖波動，促進癥狀恢復。
+2. **自然療法**：
+   - **卷心菜汁**：含薁類化合物，有助于潰瘍修復。
+   - **葉綠素**（如羽衣甘蓝、小麥草）：具有強大的抗氧化和修復作用。
+   - **/licorice（甘菊根）**：幫助修復胃黏膜。
+   - **氧化鋅卡尼汀（Zinc Carnosine）**：促進傷口癒合，具備抗炎特性。
+
+#### 結論：
+1. 胃潰瘍的形成與幽門螺桿菌、壓力、藥物使用及飲食習慣密切相关。
+2. 采用健康的飲食結構（如生酮節食法）和自然療法可有效修復胃黏膜，改善癥狀。
 </details>
 
 <details>
-<summary>2047. Can I Eat Pasta on Keto? It Does Not Spike my Blood Sugars Level – Dr.Berg</summary><br>
+<summary>2047. [2019-03-04] Can I Eat Pasta on Keto? It Does Not Spike my Blood Sugars Level – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=UqndDzFRlQc" target="_blank">
     <img src="https://img.youtube.com/vi/UqndDzFRlQc/maxresdefault.jpg" 
@@ -697,11 +723,37 @@
 
 # Can I Eat Pasta on Keto? It Does Not Spike my Blood Sugars Level – Dr.Berg
 
+### 小節整理：文章重點歸納
 
+#### 1. 核心主題
+- 探讨 pasta 消費對血糖的影響。
+- 强調血糖監測的重要性。
+
+#### 2. 主要觀念
+- Pasta 是由 durum 小麥製成，屬於高蛋白質且密度較高的碳水化合物。
+- 意大利文 "durum" 之意為「堅硬」，反映其物理特性。
+- 意麵在血糖指數（GI）上表現良好，GI 紮在45至50之間，明顯低於面包的70。
+
+#### 3. 問題原因
+- 测试者誤判 pasta 的血糖影響，因只測試餐後即時血糖（1-2小時內），未考慮食物完全消化後の血糖反應。
+- 食物需要時間分解和吸收，尤其是蛋白質含量較高的食物如 pasta。
+
+#### 4. 解決方法
+- 建議進行多時段血糖監測：餐後1至4小時，記錄數據以全面評估食物影響。
+- 使用可靠的血糖檢測工具（如 Keto Mojo 血糖試劑）來跟蹤血糖變化。
+
+#### 5. 健康建議
+- 開展個人化實驗，通過持續監測和記錄血糖數據，了解不同食物對自身血糖的具體影響。
+- 確保足夠的消化時間，避免過早判斷食物的血糖反應。
+
+#### 6. 结論
+- Pasta 的血糖指數較低，但其影響因人而異。
+- 觀察餐後1至4小時的血糖變化是評估食物影響的重要方法。
+- 高品質的血糖檢測工具能幫助更精確地了解飲食與健康狀況。
 </details>
 
 <details>
-<summary>2046. What Can Urine Smell Tell You About Your Body? – Dr.Berg</summary><br>
+<summary>2046. [2019-03-03] What Can Urine Smell Tell You About Your Body? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=jPLlLVwh46k" target="_blank">
     <img src="https://img.youtube.com/vi/jPLlLVwh46k/maxresdefault.jpg" 
@@ -710,7 +762,31 @@
 
 # What Can Urine Smell Tell You About Your Body? – Dr.Berg
 
+### 核心主題：尿液气味与身体健康的关系
 
+### 主要觀念：
+1. **尿液气味的变化**：尿液的气味可能反映身体内部的健康状况。
+2. **检测方法**：通过医生的尿液分析或家用尿试纸可以获取更准确的信息。
+
+### 問題原因：
+1. **异常气味的原因**：
+   - **酮症**： fruity smell（水果味）可能表明体内酮体水平升高。
+   - **细菌感染**： foul smell（腐臭味）可能与细菌感染有关。
+   - **脱水**： 强烈的尿液 odor（异味）可能是脱水的表现。
+   - **肝脏问题**： musty mildewed type smell（霉味或泥土味）可能提示肝功能异常。
+
+### 解決方法：
+1. **医疗检测**：建议进行专业的尿液分析，以确定具体原因。
+2. **生活习惯调整**：
+   - 增加水分摄入，防止脱水。
+   - 观察饮食对尿液气味的影响（如食用芦笋后可能出现的特殊味道）。
+
+### 健康建議：
+1. **定期检查**：特别是有异常症状时，及时就医进行相关检查。
+2. **注意饮食影响**：了解某些食物（如芦笋）可能对尿液气味的影响，避免误判健康状况。
+
+### 結論：
+尿液气味的变化可能是身体发出的信号，提示潜在的健康问题。通过科学检测和生活习惯调整，可以有效监测并维护身体健康。如有疑慮，建議及時就醫檢查以獲取精確診斷。
 </details>
 
 <details>
@@ -727,7 +803,7 @@
 </details>
 
 <details>
-<summary>2044. Is it Safe To Eat An Avocado Pit? – Dr.Berg</summary><br>
+<summary>2044. [2019-03-02] Is it Safe To Eat An Avocado Pit? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=K554maMvW00" target="_blank">
     <img src="https://img.youtube.com/vi/K554maMvW00/maxresdefault.jpg" 
@@ -736,11 +812,60 @@
 
 # Is it Safe To Eat An Avocado Pit? – Dr.Berg
 
+### 核心主題 (Core Theme)
+- **Avocado Pit Consumption**: 探讨食用牛油果核的可能性及其健康影响。
 
+---
+
+### 主要觀念 (Key Concepts)
+1. **Benefits of Consuming Avocado Pits**:
+   - 牛油果核富含植物營養素（phytonutrients），其含量遠超果肉。
+   - 具有抗真菌（fungicide）和抗癌（anti-cancer）潛能。
+
+2. **Challenges of Avocado Pit Consumption**:
+   - **Processing**: 需要干燥、粉碎並混合，耗時費力。
+   - **Natural Toxin**: 含有Persin（一種天然 fungicide），可能對某些人造成敏感或過敏反應。
+   - **Toxicity Concerns**: 基於 vitro 研究的證據，需注意劑量和個人健康狀況。
+
+---
+
+### 問題原因 (Problem Analysis)
+- **Toxicological Concerns**:
+  - Persin 在 vitro 研究中顯示可能造成 DNA 損害，但此結果未必適用於人體。
+  - 實際消費中，Persin 會經由消化系統處理，肝臟酶可將其轉化為安全形式。
+
+- **Practical Limitations**:
+  - 加工牛油果核耗時費力，對現代生活節奏而言不實用。
+
+---
+
+### 解決方法 (Solutions)
+1. **Safe Consumption Practices**:
+   - 必須完全加工（干燥、粉碎）後食用。
+   - 注意個人敏感性或過敏反應，必要時咨詢醫療專業人員。
+
+2. **Alternative Approaches**:
+   - 選擇其他富含植物營養素的食物來源，如十字花科蔬菜（cruciferous vegetables）。
+
+---
+
+### 健康建議 (Health Recommendations)
+- **General Advice**:
+  - 雖然牛油果核有益，但並不推荐給所有人。
+  - 考慮個人健康狀況，尤其是肝臟功能是否正常。
+
+- **Balanced Diet**:
+  - 確保飲食多樣化，從不同食物中攝取所需營養素。
+
+---
+
+### 結論 (Conclusion)
+- **Feasibility of Avocado Pit Consumption**: 雖然食用牛油果核具備潛在健康益處，但其加工 complexity 和可能的毒性風險使其不那麼實用。
+- **Final Recommendation**: 想要攝取植物營養素的人群可選擇性地加工並食用牛油果核，但建議結合個人健康狀況和飲食習慣。
 </details>
 
 <details>
-<summary>2043. Top 5 Health Benefits of Avocado – Dr. Berg</summary><br>
+<summary>2043. [2019-03-02] Top 5 Health Benefits of Avocado – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=VhVqz4KuEgI" target="_blank">
     <img src="https://img.youtube.com/vi/VhVqz4KuEgI/maxresdefault.jpg" 
@@ -749,11 +874,79 @@
 
 # Top 5 Health Benefits of Avocado – Dr. Berg
 
+### 重點整理：牛油果的五項健康益處
 
+#### 核心主題
+- 牛油果因其高營養價值和多樣化的健康益處而被譽為「超級食物」。
+
+---
+
+#### 主要觀念
+1. **豐富的礦物質含量**：
+   - 平均每顆牛油果含有500至850毫克的钾，遠遠超過香蕉。
+   - 钾在維持心臟健康、血壓控制和能量代謝中起著重要作用。
+
+2. **脂溶性维生素的優勢**：
+   - 牛油果富含脂溶性维生素（如维生素A、E），這些维生素需要脂肪來幫助吸收，因此牛油果中的健康脂肪增強了營養素的利用率。
+
+3. **酮飲食友好的特性**：
+   - 每杯牛油果約含12克碳水化合物，但其中10克是膳食纖維，淨碳水僅2克。
+   - 這使其成為低碳水飲食（如酮飲食）的理想選擇。
+
+4. **高含量的單不飽和脂肪**：
+   - 牛油果的脂肪含量約為77%，主要為有益於心臟健康的单不飽和脂肪酸，有助於改善血脂水平。
+
+5. **膳食纖維的作用**：
+   - 約75%的纖維是不可溶性（Seibel）纖維，能被腸道菌群發酵產生丁酸，促進腸道健康。
+   - 高比例的不可溶性纖維減緩消化速度，幫助控制血糖和血olesterol水平。
+
+---
+
+#### 健康益處
+1. **心臟健康**：
+   - 鈣、鎂和钾等礦物質有助於降低血壓，預防心血管疾病。
+   - 单不飽和脂肪酸可提高「好」LDL cholesterol，降低「壞」HDL cholesterol。
+
+2. **血糖控制**：
+   - 不溶性纖維的發酵產物丁酸有助于穩定胰島素水平，改善糖尿病患者對血糖的控制。
+
+3. **腸道健康**：
+   - 高比例的不可溶性纖維作為腸道益生元，促進有益菌生長，維持腸道屏障功能。
+
+4. **抗氧化和抗炎作用**：
+   - enoids和phytochemicals具有強大的抗氧化能力，可降低炎症反應，預防慢性病如癌症和心血管疾病。
+
+---
+
+#### 研究來源
+1. 每顆牛油果的钾含量數據來源於美國農業部（USDA）食品成分数据库。
+2. 酮飲食中碳水化合物計算的研究發表在《Nutrition & Metabolism》期刊。
+3. 单不飽和脂肪對血脂影響的研究見於《American Journal of Clinical Nutrition》。
+4. 不溶性纖維的發酵特性及其對腸道健康的影響被《Gut Microbes》研究探討。
+
+---
+
+#### 健康建議
+1. **每日攝入量**：
+   - 每日食用半至一顆牛油果，即可獲得足夠的營養素和健康益處。
+
+2. **搭配飲食**：
+   - 與富含脂肪的食物（如橄欖油、 nuts）一起食用，可增強脂溶性维生素的吸收效率。
+
+3. **注意攝水量**：
+   - 高不可溶性纖維攝入需配合充足水分，避免腸道不適。
+
+4. **適合人群**：
+   - 適合需要控制血糖、血壓或追求低碳水飲食的人群，尤其是酮飲食者。
+
+---
+
+### 總結
+牛油果作為一種多用途的超級食物，提供了豐富的營養素和健康益處。其高含量的礦物質、單不飽和脂肪酸、膳食纖維以及抗氧化成分使其成為促進整體健康的理想選擇。適當食用牛油果可以幫助改善心臟健康、血糖控制和腸道功能，並降低慢性病風險。
 </details>
 
 <details>
-<summary>2042. How Long Before A Diabetic Goes Blind? – Dr.Berg On Diabetic Retinopathy</summary><br>
+<summary>2042. [2019-03-01] How Long Before A Diabetic Goes Blind? – Dr.Berg On Diabetic Retinopathy</summary><br>
 
 <a href="https://www.youtube.com/watch?v=CmYLpii_zVk" target="_blank">
     <img src="https://img.youtube.com/vi/CmYLpii_zVk/maxresdefault.jpg" 
@@ -762,11 +955,50 @@
 
 # How Long Before A Diabetic Goes Blind? – Dr.Berg On Diabetic Retinopathy
 
+### 小節整理：糖尿病及其並發症的影響與管理
 
+#### 1. 核心主題
+- **核心主題**：探討糖尿病患者可能面臨的嚴重並發症（如失明和肢體喪失）及其發生時間，並提供預防和管理建議。
+
+#### 2. 主要觀念
+- **高血糖與併發症的關聯**：
+  - 高血糖會導致多種併發症，包括神經病變、腎臟損傷、視網膜病變（ diabetic retinopathy）和免疫系統抑制。
+  - 經過約10年的持續高血糖暴露，可能引發這些嚴重並發症。
+
+- **糖化蛋白的作用**：
+  - 高血糖與體內蛋白質結合形成糖化蛋白，影響血管功能，尤其是眼部和神經系統的血液供應。
+
+#### 3. 問題原因
+- **血糖控制的局限性**：
+  - 雖然藥物可以降低血糖，但過高的血糖水平最終會導致其他健康問題，如脂肪สะสม、內臟肥胖和胰島素抵抗。
+
+- **胰島素抵抗的作用**：
+  - 在2型糖尿病中，高胰島素血症與胰島素抗性共同作用，進一步加劇了併發症的風險。
+
+#### 4. 解決方法
+- **飲食調整**：
+  - 降低碳水化合物攝取量是關鍵策略，可通過健康低碳饮食（ketogenic diet）實現。
+  - 增加營養密度高的食物攝取，以保護身體免受高血糖的影響。
+
+- **健康管理與生活方式**：
+  - 經常監測血糖和糖化血紅蛋白（A1C）水平。
+  - 考慮間歇性禁食等策略，幫助進一步控制血糖並改善整體健康狀況。
+
+#### 5. 健康建議
+- **早期干預**：
+  - 高血糖初期階段即可採取行動，避免併發症的發生。
+
+- **營養與生活方式結合**：
+  - 維持均衡飲食，配合同等運動計劃，以提高胰島素敏感性和整體健康狀況。
+
+#### 6. 结論
+- **糖尿病管理的重要性**：
+  - 要實現有效的糖尿病管理，必須將血糖控制與營養攝取、生活方式相結合。
+  - 及時採取行動，降低併發症風險，提升生活品質。
 </details>
 
 <details>
-<summary>2041. Overlooked Dangers of High Insulin Levels – Dr.Berg's Keto Summit Presentation</summary><br>
+<summary>2041. [2019-02-28] Overlooked Dangers of High Insulin Levels – Dr.Berg's Keto Summit Presentation</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xR3kau4RFrY" target="_blank">
     <img src="https://img.youtube.com/vi/xR3kau4RFrY/maxresdefault.jpg" 
@@ -775,11 +1007,56 @@
 
 # Overlooked Dangers of High Insulin Levels – Dr.Berg's Keto Summit Presentation
 
+### 文章重點整理
 
+#### 核心主題
+- ** intermittent fasting (間歇性禁食)**：一種通過控制 eating window（進食時間窗口）來促進健康和延年益壽的方法。
+- ** 生酮飲食**：通過增加脂肪攝取、降低碳水化合物攝取，實現酮症的飲食方式。
+
+#### 主要觀念
+1. ** 生酮飲食的作用機制**：
+   - 降低血糖水平，抑制胰島素分泌。
+   - 利用脂肪作為主要能量來源，改善代謝健康。
+2. ** 間歇性禁食的健康益處**：
+   - 切換基因表達，促進腦細胞生長和神經保護。
+   - 增加線粒體數量，提升能量生產效率。
+   - 促進干細胞活化，增強再生能力。
+   - 提高抗衰老激素（如生長激素）水平。
+
+#### 問題原因
+- ** 禁食與飢餓的混淆**：禁食是指有意控制進食時間，而飢餧是營養不足導致的危害。
+- ** 過度攝取精制碳水化合物**：引發炎症反應和代謝紊亂，增加慢性疾病風險。
+
+#### 解決方法
+1. ** 間歇性禁食的實施步驟**：
+   - 從三餐開始，避免零食。
+   - 增加脂肪攝取以延長飽腹感。
+   - 渡過適應期後，逐步縮短進食窗口。
+2. ** 生酮飲食的實踐建議**：
+   - 減少精制碳水化合物攝取。
+   - 增加健康脂肪的攝入，如橄欖油、 nuts 等。
+
+#### 健康建議
+1. ** 間歇性禁食**：
+   - 初學者可從每日進食時間窗口（例如 8 小時）開始。
+   - 隨著適應，逐步延長禁食時間或縮短進食窗口。
+2. ** 生酮飲食**：
+   - 確保足夠的脂肪攝取以維持酮症状态。
+   - 注意微量營養素的平衡，避免營養缺失。
+3. ** 適當運動**：
+   - 禁食期間保持適度活動，提升代謝效率。
+4. ** 疾病與健康管理**：
+   - 感冒或生病時應減少飲食，利用禁食來幫助恢復。
+   - 用於處理 jet lag（時差反應）和提高壓力耐受能力。
+
+#### 結論
+- 間歇性禁食和生酮飲食是一種有效的健康管理策略。
+- 這些方法可促進代謝健康、提升能量水平、增強免疫力並延緩衰老。
+- 建議在實施前諮詢專業醫療人員，尤其是有特定健康狀況的人群。
 </details>
 
 <details>
-<summary>2040. How To Evaluate Sleep Quality? – Dr. Berg On Sleep Evaluation & Debug</summary><br>
+<summary>2040. [2019-02-27] How To Evaluate Sleep Quality? – Dr. Berg On Sleep Evaluation & Debug</summary><br>
 
 <a href="https://www.youtube.com/watch?v=z5yIaH5sDJ8" target="_blank">
     <img src="https://img.youtube.com/vi/z5yIaH5sDJ8/maxresdefault.jpg" 
@@ -788,11 +1065,35 @@
 
 # How To Evaluate Sleep Quality? – Dr. Berg On Sleep Evaluation & Debug
 
+### 文章整理與分析
 
+#### 核心主題  
+文章圍繞著壓力管理、腺腎功能及睡眠質量的改善展開討論，強調通過物理按摩來放松副交感神經，降低應激激素（如皮質醇和腎上腺素）的水平，從而提升整體健康和睡眠品質。
+
+#### 主要觀念  
+1. **壓力與腺腎功能**：現代生活中的心理壓力導致副交感神經無法正常放松，影響腺腎功能，造成應激激素水平持續升高。
+2. **物理按摩的效果**：通過按壓特定穴位（如髂 crest 附近的敏感點），可以促進副交感神經的激活，幫助身體放松並降低應激反應。
+3. **睡眠的重要性**：良好的睡眠對於恢復和健康至關重要，而壓力和腺腎過度活躍常會干擾睡眠品質。
+
+#### 問題原因  
+1. 現代生活壓力導致副交感神經無法有效放松，引發持續性應激反應。
+2. 腺腎缺乏「關閉」 mechanism，壓力積累導致身體處於高警戒状态。
+3. 高應激激素水平干擾睡眠，影響整體健康。
+
+#### 解決方法  
+1. **按摩法**：
+   - 每晚睡前進行約 20 分鐘的手部按摩或使用按摩工具按壓腺腎區域（背部、腰部、髂 crest 附近）。
+   - 尋找並按壓敏感點，直至感覺放鬆。
+2. **健康建議**：
+   - 確保充足的睡眠時間，創造良好的睡眠環境。
+   - 經常進行身體活動，幫助消耗壓力激素，降低整體應激水平。
+
+#### 結論  
+文章強調，通過按摩放松副交感神經，降低應激反應，可有效改善腺腎功能和睡眠品質。此方法簡單易行，適合日常壓力管理。
 </details>
 
 <details>
-<summary>2039. Causes & Treatment For High Blood Sugar on Keto Diet – Dr. Berg</summary><br>
+<summary>2039. [2019-02-26] Causes & Treatment For High Blood Sugar on Keto Diet – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3XtGWAmD1ls" target="_blank">
     <img src="https://img.youtube.com/vi/3XtGWAmD1ls/maxresdefault.jpg" 
@@ -801,11 +1102,65 @@
 
 # Causes & Treatment For High Blood Sugar on Keto Diet – Dr. Berg
 
+### 核心主題
+- 確定酮egenic diet（生酮飲食）期間血糖升高的原因及其潛在機制。
+- 探讨 insulin resistance（胰島素抵抗）在血糖異常中的作用。
+- 提供改善胰島素抵抗和穩定血糖的建議。
 
+### 主要觀念
+1. **Insulin Resistance（胰島素抵抗）**：
+   - 胰島素無法有效將葡萄糖輸送至細胞，導致血液中葡萄糖濃度升高。
+   - 通常見於2型糖尿病前期或未診斷的患者。
+
+2. **Liver Glucose Production（肝臟葡萄糖生成）**：
+   - 在胰島素抵抗的情況下，肝臟過度產生葡萄糖（gluconeogenesis），進一步提高血糖水平。
+
+3. **Ketogenic Diet and Blood Sugar Spikes（生酮飲食與血糖波峰）**：
+   - 過去高碳水化合物攝入導致的胰島素抵抗可能在開始低碳飲食後短期內仍未完全恢復，導致 fasting（禁食）期間血糖升高。
+
+### 問題原因
+1. **Insulin Resistance Mechanism（胰島素抵抗機制）**：
+   - 胰島素信號傳遞受阻，細胞膜上的胰島素受體功能失常。
+   - 細胞內胰島素信号無法有效傳導至肝臟，導致肝臟過度生成葡萄糖。
+
+2. **High Carb Diet Impact（高碳水飲食影響）**：
+   - 過去經常攝取精緻碳水化合物和垃圾食品，促進了胰島素抵抗的形成。
+
+### 解決方法
+1. **Dietary Adjustments（飲食調整）**：
+   - 繼續降低碳水化合物攝取量。
+   - 增加膳食纖維攝入，促進腸道菌群健康，改善胰島素敏感性。
+
+2. **Fasting and Exercise（禁食與運動）**：
+   - きりけん行 fasting（禁食）以降低血糖濃度並促進脂肪燃燒。
+   - 定期進行有氧運動和力量訓練，burn up excess glucose（消耗過剩葡萄糖）。
+
+3. **Supplements and Nutrition（補充劑與營養）**：
+   - 確保充足的日光曝露以合成維生素D，幫助改善胰島素抵抗。
+   - 消耗 apple cider vinegar（蘋果醋），增加 potassium（鉀）和 vitamin B1（硫胺素）的攝取。
+
+4. **Lifestyle Modifications（生活風格改變）**：
+   - 確保充分睡眠以促進整體代謝健康。
+   - 減少壓力水平，通過放鬆技巧或心理therapy來管理壓力。
+
+### 健康建議
+1. **Monitor Blood Sugar Levels（監控血糖水平）**：
+   - 定期測量血糖，跟蹤變化趨勢。
+
+2. **Consult Healthcare Professionals（諮詢醫療專業人員）**：
+   - 在進行任何飲食或生活方式改變之前，諮詢醫生或其他合格的健康專家。
+
+3. **Patient Education and Awareness（患者教育與警覺性）**：
+   - 了解胰島素抵抗和糖尿病前期症狀，早期發現和干預。
+
+### 結論
+- 胰島素抵抗是導致酮egenic diet期間血糖升高的主要因素。
+- 改善胰島素敏感性和降低血糖水平需要時間和多方面的努力，包括飲食控制、運動、禁食和其他生活方式的調整。
+- 隨著這些措施的實施，血液中的葡萄糖濃度將逐漸下降並趨向穩定。
 </details>
 
 <details>
-<summary>2038. Dangers of Glucose In Your Urine – Dr.Berg</summary><br>
+<summary>2038. [2019-02-26] Dangers of Glucose In Your Urine – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=M3scItIB954" target="_blank">
     <img src="https://img.youtube.com/vi/M3scItIB954/maxresdefault.jpg" 
@@ -814,11 +1169,49 @@
 
 # Dangers of Glucose In Your Urine – Dr.Berg
 
+### 核心主題  
+- 論述尿液中存在葡萄糖的危害及其相關健康問題。
 
+---
+
+### 主要觀念  
+1. 尿液中檢測到葡萄糖表示血糖水平至少為225 mg/dL或更高。  
+2. 高血糖導致腎臟排出 excess glucose，引發-osmotic diuresis（滲透性利尿）。  
+
+---
+
+### 問題原因  
+- 高血糖引起 osmotic diuresis，導致以下問題：  
+  - 拉扯出礦物質（如assium、鈣、氯化物等）並造成脫水。  
+  - 脫水會引發頭痛、疲勞、困惑、紫指甲及心律不整等症狀。  
+
+---
+
+### 解決方法  
+1. 調節血糖水平以从根本解決問題。  
+2. 补充必要的礦物質（如assium），可幫助改善血糖控制。  
+
+---
+
+### 健康建議  
+- 糖尿病患者通常伴有高血壓，且常使用利尿劑，這會進一步耗損礦物質。  
+- 避免長期服用抗酸藥，因其可能干擾胃中礦物質的吸收。  
+- 补充鹽分、assium及鎂等礦物質，有助於改善血糖控制和整體健康。  
+
+---
+
+### 理論結論  
+- 解決尿液中葡萄糖問題的核心在於恢復血糖平衡，而非僅依賴補充礦物質。  
+- 必要的營養攝取（如assium）可作為輔助手段，但不能取代血糖控制的根本措施。  
+
+---
+
+### 额外資源  
+- 提供與健康酮osis和一分鐘禁食相關的信息連結，供觀眾進一步參考。
 </details>
 
 <details>
-<summary>2037. Hypoglycemia (Low Blood Sugar) –  Don’t Make This Common Mistake – Dr.Berg</summary><br>
+<summary>2037. [2019-02-25] Hypoglycemia (Low Blood Sugar) –  Don’t Make This Common Mistake – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5pD9HnPYQao" target="_blank">
     <img src="https://img.youtube.com/vi/5pD9HnPYQao/maxresdefault.jpg" 
@@ -827,11 +1220,44 @@
 
 # Hypoglycemia (Low Blood Sugar) –  Don’t Make This Common Mistake – Dr.Berg
 
+### 核心主題
+- **低血糖症（Hypoglycemia）**：探討低血糖的原因、影響及解決方法。
 
+### 主要觀念
+1. 低血糖的主要原因是高胰島素水平。
+2. 胰島素的作用是降低血糖，當其過高時會導致血糖過低。
+3. 在 Type 2 糖尿病中，患者雖有高胰島素水平，但存在胰島素抵抗，使得血糖控制不佳。
+
+### 問題原因
+- **高胰島素血症**：胰島素分泌過多或作用不足，導致血糖下降。
+- **飲食結構失衡**：過高的碳水化合物攝取會進一步提高胰島素水平，惡化低血糖情況。
+- **不良建議**：醫學界常建議增加蛋白質攝取以應對低血糖，但忽視了降低碳水化合物的重要性。
+
+### 解决方法
+1. **調整飲食結構**：
+   - **降低碳水化合物攝取**：避免血糖快速波動。
+   - **增加健康脂肪攝取**：脂肪有助於穩定血糖，提高飽腹感。
+   - **適量蛋白質攝取**：在低碳水飲食下可攝取適當的蛋白質，但需注意與碳水化合物的搭配。
+
+2. **避免過度進餐**：
+   - 避免頻繁进食 six meals a day，以防血糖持續波動。
+
+### 健康建議
+1. **飲食調整**：
+   - 增加健康脂肪攝取（如 nuts, avocados, olive oil）。
+   - 降低精制碳水化合物的攝取量，改為蔬菜等低GI食物。
+   - 適度攝取蛋白質，注意不要與高碳水化合物同時攝入。
+
+2. **生活習慣**：
+   - 確保規律進餐，避免血糖大幅波動。
+   - 監測血糖水平，根據個人情況調整飲食。
+
+### 結論
+低血糖的主要原因是高胰島素血症，醫學界的傳統建議存在不足。有效的解決方法在於調整飲食結構，降低碳水化合物攝取，增加健康脂肪攝取，並避免過度進餐。透過合理的飲食規劃和生活習慣的調整，可有效改善低血糖狀況，提升整體健康水平。
 </details>
 
 <details>
-<summary>2036. Keto, Type 1 Diabetes & Ketosis Explained By Dr. Berg</summary><br>
+<summary>2036. [2019-02-25] Keto, Type 1 Diabetes & Ketosis Explained By Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=6dg1LfF0oCk" target="_blank">
     <img src="https://img.youtube.com/vi/6dg1LfF0oCk/maxresdefault.jpg" 
@@ -840,11 +1266,48 @@
 
 # Keto, Type 1 Diabetes & Ketosis Explained By Dr. Berg
 
+### 小節一：核心主題
+- **核心主題**：探討1型糖尿病患者是否適合采用酮飲食（keto diet），以及如何降低酮酸中毒（ketoacidosis）的风险。
 
+### 小節二：主要觀念
+1. **1型糖尿病的定義**：
+   - 1型糖尿病是由胰島素分泌細胞功能障礙引起的，導致胰島素生產完全停止。
+2. **胰島素的重要性**：
+   - 胰島素負責降低血糖水平。缺乏胰島素會導致血糖升高，引發嚴重健康問題。
+
+### 小節三：問題原因
+1. **高血糖的危害**：
+   - 高血糖（如300 mg/dL以上）會導致葡萄糖無法進入細胞，造成能量缺失。
+2. **酮酸中毒的風險**：
+   - 當身體缺乏胰島素且依賴脂肪分解供能時，酮體水平升高（通常超過9 mmol/L），導致血液 acidity 增加，引發酮酸中毒。
+
+### 小節四：解決方法
+1. **健康酮飲食的優勢**：
+   - 降低對胰島素的需求量。
+2. **電解質平衡的重要性**：
+   - 消耗蔬菜等富含礦物質的食物或補充外來電解質，以防止 electrolyte 失衡。
+3. **監測血糖水平**：
+   - 定期檢查血糖，根據結果調整胰島素劑量。
+
+### 小節五：健康建議
+1. **飲食計劃**：
+   - 選擇健康的酮飲食，包含大量蔬菜，以提供必要的礦物質。
+2. **電解質補充**：
+   - 確保攝取足夠的assium、鎂和鈉等電解質，尤其是在高血糖情況下。
+3. **緊急狀況處理**：
+   - 若酮體水平超過9 mmol/L，立即補充電解質以 buffering 酸性環境。
+
+### 小節六：結論
+- 健康的酮飲食可顯著降低胰島素需求量和酮酸中毒風險。
+- 通過監測血糖、保持健康飲食習慣及適當補充電解質，1型糖尿患者可以安全地采用酮飲食。
+- 理解酮酸中毒的機制是關鍵，從而有效預防此類並發症。
+
+### 小節七：推薦資源
+- 鼓勵觀眾分享個人成功故事和經驗，以鼓勵他人。
 </details>
 
 <details>
-<summary>2035. The Most Accurate Method To Test Blood Sugar is NOT A1C Test – Dr. Berg</summary><br>
+<summary>2035. [2019-02-24] The Most Accurate Method To Test Blood Sugar is NOT A1C Test – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=zLmxcuAfOxw" target="_blank">
     <img src="https://img.youtube.com/vi/zLmxcuAfOxw/maxresdefault.jpg" 
@@ -853,7 +1316,65 @@
 
 # The Most Accurate Method To Test Blood Sugar is NOT A1C Test – Dr. Berg
 
+### 本文核心主題  
+- 血糖評估的方法及其accuracy  
+- 糖尿病患者的血糖管理與健康建議  
 
+---
+
+### 主要觀念  
+1. **A1C測試**：  
+   - A1C是評估過去3個月平均血糖水平的指數，但其accuracy不如即時血糖測量。  
+   - 它測量血紅蛋白中與葡萄糖結合的比例，並非直接反映血糖濃度。  
+
+2. **影響A1C的因素**：  
+   - 貧血（如缺鐵性貧血）會導致A1C讀數偏高。  
+   - 溶血性贫血會使A1C讀數偏低。  
+   - 其他因素，如感染、肝病、腎臟疾病或妊娠，也可能影響A1C的accuracy。  
+
+3. **正常血糖水平**：  
+   - 空腹血糖：70-90 mg/dL（理想為80左右）。  
+   - 餐後2小時血糖：應低於120 mg/dL，最好低於100 mg/dL。  
+
+4. **糖尿病的挑戰**：  
+   - 糖尿病患者的胰島β細胞功能受損，導致insulin分泌不足。  
+   - 長期高血糖會引發多種并发症，包括心血管疾病、腎臟病變、神經損害等。  
+
+5. **營養與生活方式建議**：  
+   - 堅持健康的酮飲食（healthy keto plan），選擇高營養密度的食物。  
+   - 確保攝取足夠的維生素A、C、B1、E等抗氧化劑，以降低高血糖complications的風險。  
+
+---
+
+### 問題原因  
+1. **A1C測試的局限性**：  
+   - 不能直接反映即時血糖水平。  
+   - 受貧血和其他健康狀況影響，導致假陽性或假陰性結果。  
+
+2. **糖尿病管理的障礙**：  
+   - 胰島素抵抗和β細胞功能減退，使血糖控制困難。  
+   - 高血糖引發的慢性炎症和其他組織損害。  
+
+---
+
+### 解決方法與健康建議  
+1. **血糖_MONITORING**：  
+   - 建議使用血糖儀測量餐後1-2小時血糖水平，以評估胰島素反應和血糖控制情況。  
+   - 理想目標：餐後2小時血糖低於100 mg/dL。  
+
+2. **飲食建議**：  
+   - 選擇高營養密度、低碳水化合物的食物，避免精制糖和加工食品。  
+   - 补充B1等維生素，以降低高血糖complications的風險。  
+
+3. **生活方式調整**：  
+   - 維持規律運動，有助于提高insulin敏感性和降血糖。  
+   - 適當管理壓力，壓力會影響血糖水平和整體健康狀況。  
+
+---
+
+### 結論  
+- A1C測試雖為常用的血糖評估指標，但其accuracy有限，建議結合即時血糖監測以全面評估血糖控制情況。  
+- 糖尿病患者需採取綜合性管理策略，包括健康飲食、規律運動和定期血糖監測，以降低complications的風險並改善整體健康狀況。
 </details>
 
 <details>
@@ -870,7 +1391,7 @@
 </details>
 
 <details>
-<summary>2033. How To Get Rid Of Split Ends? – Cause of Split Ends – Dr. Berg</summary><br>
+<summary>2033. [2019-02-23] How To Get Rid Of Split Ends? – Cause of Split Ends – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Klqvzv-Z82Q" target="_blank">
     <img src="https://img.youtube.com/vi/Klqvzv-Z82Q/maxresdefault.jpg" 
@@ -879,11 +1400,58 @@
 
 # How To Get Rid Of Split Ends? – Cause of Split Ends – Dr. Berg
 
+### 文章整理與分析
 
+#### 核心主題
+文章主要探討導致分叉末梢（Split Ends）的原因及其解決方法，並強調健康生活方式的重要性。
+
+---
+
+#### 主要觀念
+1. 分叉末梢的醫學診斷為「Tree Capital OSIS」。
+2. 高溫 styling 工具（如吹風機、卷髮棒）會損害頭發蛋白結構。
+3. 氯化物（Chlorine）破壞頭皮油脂（Sebum），影響頭發保護屏障，導致頭發分叉。
+4. 微量元素缺乏（特別是銅 deficiency）與頭發健康問題密切相關。
+
+---
+
+#### 問題原因
+1. **高溫造成的熱損傷**：使用吹風機、卷髮棒等高溫工具會使頭發蛋白結構受損，導致分叉。
+2. **氯化物的破壞作用**：氯化物溶解於水，破壞頭皮油脂（含維生素E），削弱頭發保護層，最終導致分叉。
+3. **微量元素缺乏**：特別是銅、锌、鐵等微量元素 deficiency 影響酶的功能，妨礙頭發生長，促進分叉。
+
+---
+
+#### 解決方法
+1. **降低熱損傷**：
+   - 减少使用高溫 styling 工具。
+2. **減少氯化物影響**：
+   - 安裝水質過濾器（如安在淋浴頭或全屋淨水系統）。
+   - 游泳時佩戴泳帽，並使用防護產品（如Aqua Guard）保護頭發。
+   - 遊泳後立即沖洗頭髮以去除殘留氯化物。
+3. **補充微量元素**：
+   - 確保攝取足夠的銅、锌、鐵等微量元素。來源包括深色葉菜、海產、內臟等食物。
+   - 選擇植物基礎的微量礦物質サプリメント（如昆布），因其吸收率較高。
+
+---
+
+#### 健康建議
+1. **頭髮護理**：
+   - 使用防護裝備和產品來降低環境因素（如氯化物）對頭發的損害。
+2. **飲食均衡**：
+   - 多攝取含銅、锌等微量元素的食物，促進頭發生長與保護。
+3. **生活習慣**：
+   - 減少使用高溫髮TOOLS以避免熱損傷。
+   - 定期沖洗頭髮，特別是在接觸氯化物後，以保持頭皮和頭發健康。
+
+---
+
+#### 結論
+文章強調了環境因素（如氯化物）、生活方式（如高溫護理）及營養缺乏在導致分叉末梢中的作用。通過安裝過濾器、使用防護產品、攝取足夠的微量元素等方法，可以有效預防和改善頭髮分叉問題。
 </details>
 
 <details>
-<summary>2032. What is Nutritional Yeast? 7 Nutritional Yeast Benefits – Dr. Berg</summary><br>
+<summary>2032. [2019-02-23] What is Nutritional Yeast? 7 Nutritional Yeast Benefits – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vAVSmmIdNpY" target="_blank">
     <img src="https://img.youtube.com/vi/vAVSmmIdNpY/maxresdefault.jpg" 
@@ -892,11 +1460,60 @@
 
 # What is Nutritional Yeast? 7 Nutritional Yeast Benefits – Dr. Berg
 
+### 文章重點整理
 
+#### 核心主題
+- 营养酵母（nutritional yeast）的七項健康益處。
+
+#### 主要觀念
+1. **營養酵母的常見迷思**
+   - 迷思一：食用營養酵母會引發酵母菌感染。
+     - 解釋：事實上，只有少數人可能對酵母過敏，一般情況下不會導致感染。
+   - 迷思二：營養酵母等同於味精（MSG）。
+     - 解釋：此說法不成立，營養酵母並非味精。
+
+2. **營養酵母的成分與建議**
+   - 大部分市售營養酵母含有人工添加的B群維生素。
+   - 建議選擇未加 forts 的天然營養酵母產品。
+
+3. **營養酵母的主要健康益處**
+   - **B族維生素**
+     - B1：減輕壓力，增強能量。
+     - B2和B3：促進皮膚、消化健康，有益頭髮和指甲。
+     - B6：支持線粒體功能，提升能量合成。
+     - 注意：營養酵母通常不含B12，建議選擇含甲基钴胺（methylcobolamine）的來源。
+   - **礦物質**
+     - 含有豐富的Macro-minerals（如鈣、鎂、鉀）和Trace-minerals（如鋅、硒、铬），作為酶活性所需的輔助因子，促進蛋白質代謝和整體健康。
+   - **氨基酸**
+     - 提供完整的必需胺基酸譜，佔營養酵母重量的50%，是優質蛋白來源。
+   - **膳食纖維**
+     - 有助於腸道菌群_health，產生丁醯酸（butyric acid），降低胰島素抗性，改善血糖控制。
+   - **抗氧化劑：谷胱甘肅**
+     - 具有強大的抗氧化作用，中和自由基，保護身體免受氧化損傷。
+   - **β-葡聚糖**
+     - 調控膽固醇水平，增強免疫系統，抵抗病原體。
+
+4. **健康建議**
+   - 在 ketogenic飲食計劃中，營養酵母是補充B族維生素的理想來源。
+   - 注意選擇不含人工添加劑的天然產品。
+
+#### 問題原因
+- 市售營養酵母常含有人工合成的B群維生素，可能對健康不利。
+
+#### 解決方法
+- 選擇未加 forts 的天然營養酵母。
+- 確保B12以甲基钴胺形式存在。
+
+#### 健康建議
+- 營養酵母可作為 ketogenic飲食中補充維生素和蛋白質的來源。
+- 注意個人對酵母的耐受性，過敏者需避免食用。
+
+#### 結論
+營養酵母富含多種營養成分，具有多重健康益處，但需選擇合適的產品以最大化其好處並避免潛在不良影響。
 </details>
 
 <details>
-<summary>2031. How to Do Intermittent Fasting – Intermittent Fasting Basics for Beginners – Dr.Berg</summary><br>
+<summary>2031. [2019-02-22] How to Do Intermittent Fasting – Intermittent Fasting Basics for Beginners – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3dHcT1-K-tw" target="_blank">
     <img src="https://img.youtube.com/vi/3dHcT1-K-tw/maxresdefault.jpg" 
@@ -905,11 +1522,33 @@
 
 # How to Do Intermittent Fasting – Intermittent Fasting Basics for Beginners – Dr.Berg
 
+### 核心主題：簡化斷食法（Intermittent Fasting）
 
+### 主要觀念：
+1. **斷食的基本定義**：斷食是指間歇性地不進食，目的是減少進食次數，而不是 starvation。它強調讓身體自然決定進食和禁食的時機。
+2. **輕微飲品的影響**：在斷食期間，可以攝取補充劑、茶或少量咖啡，這些不會真正打破禁食状态。
+3. ** hunger 的定義**：真正的饥饿是指強烈的胃部不適、頭暈、疲倦等症狀，而轻微的饑餧感應該忽略。
+
+### 問題原因：
+1. **現代飲食習慣**：傳統飲食模式通常包含多餐和零食，這會干擾身體的自然 hunger 調節機制。
+2. **代謝轉型期**：從糖分燃燒轉向脂肪燃燒需要時間，初期可能會經歷血糖下降引起的不適症狀。
+
+### 解決方法：
+1. **降低碳水化合物攝取**：減少碳水化合物可以幫助降低食慾，進而延長斷食時間。
+2. **增加健康脂肪和蔬菜**：健康脂肪（如魚油、坚果）和高纖維蔬菜（如菠菜、西兰花）能提供必要的營養，並穩定血糖水平。
+3. **補充鹽分和電解質**：充足的海鹽攝取可以防止因斷食導致的頭痛和肌肉疲勞。建議每日攝取一茶匙海鹽或含高鉀、鎂的電解質補給品。
+
+### 健康建議：
+1. **環境調整**：避免在家久坐，多参与戶外活動以分散注意力。
+2. **預備食物**：隨時攜帶適合的食物，以應對 unexpected 的饥饿感。
+3. **心理準備**：了解斷食可能引起的短期不适，並耐心等待身體適應。
+
+### 結論：
+間歇性斷食法是一個有效的健康策略，關鍵在於自然地讓身體決定進食和禁食的時機。初期可能需要調整飲食習慣和補充必要的營養素，但長期來看，它能幫助提升代謝效率和整體健康狀況。
 </details>
 
 <details>
-<summary>2030. Dr.Berg's Mitochondria Energy Commercial – Dietary Supplement Keto Energy</summary><br>
+<summary>2030. [2019-02-21] Dr.Berg's Mitochondria Energy Commercial – Dietary Supplement Keto Energy</summary><br>
 
 <a href="https://www.youtube.com/watch?v=iz8960F19vE" target="_blank">
     <img src="https://img.youtube.com/vi/iz8960F19vE/maxresdefault.jpg" 
@@ -918,11 +1557,67 @@
 
 # Dr.Berg's Mitochondria Energy Commercial – Dietary Supplement Keto Energy
 
+## 文章重點整理
 
+### 核心主題
+- 探讨健康与能量 production 的重要性。
+- 强调 mitochondria 在细胞功能中的作用。
+
+### 主要觀念
+1. **Mitochondria 的角色**：
+   - Mitochondria 是细胞内的能量工厂，负责产生 ATP。
+   - 增加 mitochondria 的数量和功能可以提升整体能量水平。
+
+2. **健康生活方式的重要性**：
+   - 通过合理的饮食和运动来优化身体功能。
+   - 充足的睡眠对恢复和能量 production 至关重要。
+
+### 問題原因
+- 现代生活节奏快，压力大，导致许多人忽视了健康的生活习惯。
+- 不良的生活方式（如不规律作息、高热量饮食）影响 mitochondria 的功能。
+- 缺乏运动导致肌肉中的 mitochondria 数量减少。
+
+### 解決方法
+1. **饮食调整**：
+   - 增加富含抗氧化剂的食物，保护 mitochondria 免受自由基损伤。
+   - 适量摄入健康脂肪和蛋白质，支持细胞功能。
+
+2. **规律运动**：
+   - 有氧运动（如跑步、游泳）可以增加肌肉中的 mitochondria 数量。
+   - 力量训练有助于提升整体代谢率。
+
+3. **充足睡眠**：
+   - 每晚保证7-9小时的高质量睡眠，促进身体恢复和能量 production。
+
+4. **减压管理**：
+   - 通过冥想、瑜伽等方式减轻压力，保护 mitochondria 的功能。
+   - 避免长期处于高压状态，以免影响细胞健康。
+
+### 健康建議
+1. **饮食建议**：
+   - 多摄入富含抗氧化剂的食物（如蓝莓、坚果、深绿色蔬菜）。
+   - 适量摄取优质蛋白质（如鱼、豆类、瘦肉）和健康脂肪（如橄榄油、鳄梨）。
+
+2. **運動建議**：
+   - 每周至少进行150分钟的中等强度有氧运动或75分钟的高强度有氧运动。
+   - 结合力量训练，每周进行2-3次阻力训练。
+
+3. **睡眠建議**：
+   - 保持规律的作息时间，避免熬夜。
+   - 创造一个安静、黑暗、凉爽的睡眠环境。
+
+4. **壓力管理建議**：
+   - 每天花30分钟进行冥想或深呼吸练习。
+   - 通过兴趣爱好和社交活动缓解压力。
+
+### 結論
+- 通过优化饮食、运动、睡眠和减压，可以显著提升 mitochondria 的功能。
+- 健康的生活方式不仅能提高能量水平，还能预防慢性疾病。
+- 长期坚持这些健康习惯将带来更高质量的生活。
 </details>
 
 <details>
-<summary>2029. Is Keto a Diet? Understanding Keto Diet – Dr.Berg</summary><br>
+<summary>2029. [2019-02-21] Is Keto a Diet? Understanding Keto Diet – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Dl_Q5QGjtDs" target="_blank">
     <img src="https://img.youtube.com/vi/Dl_Q5QGjtDs/maxresdefault.jpg" 
@@ -931,11 +1626,44 @@
 
 # Is Keto a Diet? Understanding Keto Diet – Dr.Berg
 
+### 文章整理： ketogenic饮食（生酮饮食）是否真的是一种饮食
 
+#### 核心主題  
+- 討論 ketogenic diet（生酮飲食）是否符合「diet」的定義。
+- 强調生酮飲食作為一種健康和減重方式的有效性。
+
+#### 主要觀念  
+1. **「diet」的定義**：  
+   - 根據Macmillan字典，「diet」包括：  
+     a) 食物或飲料，通常由一個人攝取。  
+     b) 為了健康或減重目的而規定的飲食計劃。  
+     c) 考慮食物對身體影響的效果，作為營養來源。
+
+2. **生酮飲食的特性**：  
+   - 生酮飲食強調低碳水化合物、高脂肪和中等蛋白質攝取。  
+   - 這些規則旨在增強健康並促進減重。
+
+#### 問題原因  
+- 有些人對「diet」有負面印象，認為它是短期限制或privation（privation指限制或剝奪）。  
+- 然而，根據定義，任何有意圖的飲食計劃都屬於「diet」，包括生酮飲食。
+
+#### 解決方法  
+1. **重新定義對diet的看法**：  
+   - 將diet視為一種可持續的生活方式，而非短期限制。  
+2. **遵循健康飲食規則**：  
+   - 生酮飲食的規則（如低碳水化合物、高脂肪）旨在提高生存率和整體健康。
+
+#### 健康建議  
+- 維持生酮飲食需注意營養均衡，攝取足夠蔬菜和 Salad。  
+- 生酮飲食不僅幫助減重，還能改善整體健康狀況。
+
+#### 結論  
+- 生酮飲食符合「diet」的定義，且具有顯著的健康益處。  
+- 遵循合理的飲食規則是增強健康的關鍵，而非剝奪營養。
 </details>
 
 <details>
-<summary>2028. Acceptable Snacks To Eat During Intermittent Fasting (Inside Eating Window) – Dr.Berg</summary><br>
+<summary>2028. [2019-02-21] Acceptable Snacks To Eat During Intermittent Fasting (Inside Eating Window) – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=eFwxS3UTXwE" target="_blank">
     <img src="https://img.youtube.com/vi/eFwxS3UTXwE/maxresdefault.jpg" 
@@ -944,7 +1672,35 @@
 
 # Acceptable Snacks To Eat During Intermittent Fasting (Inside Eating Window) – Dr.Berg
 
+### 小節歸納
 
+#### 核心主題
+- **限时饮食（Time-Restricted Feeding）**：文章讨论了在限时饮食期间如何选择零食的问题。
+
+#### 主要观念
+- 限时饮食是一种通过限制进食时间来提高健康和代谢效率的方法，通常建议将进食窗口缩短至4小时，其余时间进行 fasting。
+- 在限时饮食中，零食的选择对血糖和胰岛素水平有显著影响。
+
+#### 問題原因
+- 消费者在限时饮食期间容易因选择不当的零食而导致血糖波动或胰岛素上升。
+- 市场上许多所谓的“健康”零食（如坚果、蛋白棒等）可能含有较高的碳水化合物或蛋白质，不利于保持稳定的代谢状态。
+
+#### 解决方法
+- **选择低胰岛素反应的食物**：优先选择脂肪含量高的食物（如椰子油、黄油、MCT油），这些食物对血糖和胰岛素的影响较小。
+- **增加膳食纤维的摄入**：选择富含可溶性纤维的食物（如绿叶蔬菜）作为零食，有助于稳定血糖并促进肠道健康。
+- **合理搭配脂肪与纤维**：将高脂肪食物与低GI（升糖指数）的纤维食物结合食用，可以进一步降低胰岛素反应。
+
+#### 健康建議
+- 在限时饮食期间，尽量避免摄入高蛋白质或高碳水化合物的零食。
+- 选择健康的脂肪和膳食纤维作为零食，以维持代谢平衡。
+- 避免过度依赖市售“健康”零食，这些产品可能含有隐藏的糖分或添加剂。
+
+#### 結論
+- 在限时饮食期间合理选择零食是保持代谢优势的关键。优先选择低胰岛素反应的食物，并结合膳食纤维和健康脂肪来优化营养摄入。
+- 通过科学选择零食，可以在享受食物的同时，更好地实现健康目标。
+
+### 总结
+文章强调了在限时饮食（Time-Restricted Feeding）中合理选择零食的重要性，并提供了基于代谢和血糖控制的科学建议。通过优先选择低胰岛素反应的食物（如脂肪和膳食纤维），消费者可以更有效地管理代谢状态，从而获得更好的健康效果。
 </details>
 
 <details>
@@ -961,7 +1717,7 @@
 </details>
 
 <details>
-<summary>2026. Why Certain Diseases Go Away During Pregnancy? – Dr. Berg</summary><br>
+<summary>2026. [2019-02-20] Why Certain Diseases Go Away During Pregnancy? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_Ltu4wbGydE" target="_blank">
     <img src="https://img.youtube.com/vi/_Ltu4wbGydE/maxresdefault.jpg" 
@@ -970,7 +1726,26 @@
 
 # Why Certain Diseases Go Away During Pregnancy? – Dr. Berg
 
+### 核心主題：妊娠期 autoimmune 疾病的臨時緩解機制
 
+#### 主要觀念：
+1. 某些自身免疫性疾病在妊娠期間會暫時進入缓解期。
+2. 這些疾病包括類風濕關節炎、橋本氏甲亢（低甲状腺素血症）和uveitis等。
+
+#### 問題原因：
+1. 自身免疫性疾病的特征是免疫系統攻擊自身的組織，導致炎症反應。
+2. 妊娠期間，胎兒的免疫抑制作用可能影響母體的免疫反應，以避免排斥胎兒。
+
+#### 解決方法：
+1. **酶的作用**：妊娠期中，吡ruvate激酶（pyruvate kinase）活性受到抑制，減少炎症信號分子（cytokines）的釋放。
+2. **皮質醇的作用**：妊娠期間皮質醇水平升高，具有抗炎作用。此發現導致了糖皮質激素類藥物如prednisone的開發。
+
+#### 健康建議：
+1. **改善腎上腺功能**：通過減輕壓力、均衡飲食和補充營養來增強腎上腺的功能。
+2. **間歇性斷食**：降低整體炎症反應，從而緩解自身免疫性疾病的症狀。
+
+#### 結論：
+妊娠期間的免疫抑制機制為治療自身免疫性疾病提供了啟發。未來的研究可以進一步探索這些自然生理過程，以開發更安全有效的治療方法。
 </details>
 
 <details>
