@@ -1024,113 +1024,589 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
 </details>
 
 <details>
-<summary>2679. How Intermittent Fasting Affects Your Eyes and Vision</summary><br>
+<summary>2679. [2020-02-10] How Intermittent Fasting Affects Your Eyes and Vision</summary><br>
 
 <a href="https://www.youtube.com/watch?v=QVQ9Q4JNwiA" target="_blank">
     <img src="https://img.youtube.com/vi/QVQ9Q4JNwiA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：斷食對視力改善的潛在益處
 
+---
+
+#### 主要觀念：
+1. **視力受損的原因**：
+   - 糖尿病及其並發症（如糖尿病性網膜病变、青光眼、老年黃斑部退化和白內障）會嚴重影響視力。
+   - 高血糖會損害眼部微血管，導致神經系統 starvation 和氧化應激。
+
+2. **斷食的作用機制**：
+   - **血糖 normalization**：斷食降低血液中的葡萄糖水平，間接改善眼部健康。
+   - **酮體燃燒**：進入酮症状态，利用脂肪作為能量來源，穩定血糖波動。
+   - **組織修復與再生**：斷食觸發身體的自潔機制（如蛋白質修複和再生），清除受損組織並生成新組織。
+
+3. **個人經驗報告**：
+   - 作者在增加斷食時間（18小時至21小時）後，注意到視力、焦點和記憶力的顯著改善。
+   - 大量線上報告顯示，實施斷食的人群中存在視力提升的情況。
+
+---
+
+#### 問題原因：
+- **血糖控制不佳**：高血糖直接損害眼部微血管，導致 diabetic retinopathy 和 macular degeneration 等並發症。
+- **氧化應激與炎症**：過高的糖分引發自由基攻擊，損壞眼部組織。
+- **脂肪燃燒不當**：未適應酮症 state 可能導致血糖波動，影響視力清晰度。
+
+---
+
+#### 解决方法：
+1. **實施斷食**：
+   - 逐步增加斷食時間（如從 18 小時開始），以幫助身體適應酮症。
+   - 確保每天至少 18 小時的斷食，促進血液糖分 normalization 和酮體生成。
+
+2. **飲食調整**：
+   - 摂取富含抗氧化劑的食物（如羽衣甘藍等芸薹屬蔬菜），幫助降低 macular degeneration 的風險。
+   - 增加 nutrient-dense 食物攝入，補充眼部健康所需的營養素。
+
+3. **健康管理**：
+   - 確保穩定的脂肪燃燒，避免血糖波動，以減少視力模糊或下降的可能性。
+   - 定期監測血糖水平，評估斷食對身體的影響。
+
+---
+
+#### 健康建議：
+1. **逐步適應**：
+   - 初學者應該從短時間斷食開始，逐步增加斷食時長，以避免不適。
+
+2. **注意症狀**：
+   - 如果在斷食期間感覺視力惡化，可能是血糖過低的信號。此時需調整斷食策略，逐步實現酮症 state 的穩定。
+
+3. **結合飲食與生活方式**：
+   - 斷食應配合低碳水化合物飲食，以進一步改善血糖控制和整體健康。
+   - 保持良好的hydration 和眼部護理，避免眼睛乾澀和其他不適。
+
+---
+
+#### 結論：
+斷食作為一種有效的健康管理方式，通過 normalization 血糖、促進酮症 state 和觸發組織修復機制，顯著改善視力並降低糖尿病相關並發症的風險。然而，實施斷食需逐步調整，注意血糖變化，並結合均衡飲食以達到最佳效果。
 </details>
 
 <details>
-<summary>2678. 4 Subclinical Vitamin C Deficiency Signs that are Extremely Common</summary><br>
+<summary>2678. [2020-02-09] 4 Subclinical Vitamin C Deficiency Signs that are Extremely Common</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3o7hfGXNAEU" target="_blank">
     <img src="https://img.youtube.com/vi/3o7hfGXNAEU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章結構與核心主題
+- **核心主題**：探討維生素C的重要性及其亞臨床缺乏症（Subclinical Vitamin C Deficiency）。
+- **主要觀念**：
+  - 維生素C的基本功能及重要性。
+  - 亞臨床缺乏症的定義及影響。
+  - 維生素C缺乏的臨床表現。
+  - 維生素C的食物來源及補充建議。
+  - 影響維生素C吸收的因素。
 
+### 維生素C的功能與重要性
+- **抗氧化作用**：維生素C是一種強效抗氧化劑，能保護身體免受自由基損害。
+- **膠原蛋白合成**：在connective tissue（如ligaments, tendons, fascia, cartilage）的生長和修復中起關鍵作用。
+- **神經傳導**：必需於noradrenaline的生成，缺乏會導致疲勞和注意力不集中。
+- **脂肪氧化**：參與carnitine的功能，影響脂肪酸在粒線體中的氧化以產生能量。
+- **免疫功能**：白血球中富含維生素C，缺乏會削弱免疫系統。
+
+### 維生素C缺乏的臨床表現
+- **嚴重缺乏（壞血病/ Classical Vitamin C Deficiency）**：
+  - 閣合不易癒復。
+  - 牙齦炎（gingivitis）。
+  - 微小紅點（peri-follicular hemorrhage），常出現在腿部或臀部。
+  - 紫癜（red-purple blotches），類似蜘蛛 veins，尤見於糖尿病患者。
+- **亞臨床缺乏**：
+  - 感疲勞、免疫力下降。
+  - 可能影響膠原蛋白合成及鐵吸收。
+
+### 影響維生素C吸收的因素
+- **攝入不足**：飲食中缺乏富含維生素C的食物（如柑橘類水果、萵苣、甜椒等）。
+- **氧化壓力**：自由基干擾腸道對维生素C的吸收。
+- ** Smoking**: 吸煙會抑制身體對维生素C的利用。
+- **懷孕與年齡**：妊娠期及老年人對維生素C的需求增加，但吸收能力可能下降。
+- **過度運動**：劇烈運動可能降低血液中的維生素C含量。
+- **糖分攝取**：高糖飲食會干擾維生素C的吸收。
+
+### 健康建議
+- **飲食來源**：
+  - 推荐食物：辣椒、萵苣、其他蔬菜、莓類及 Brassica 蔬菜。
+  - 避免合成補充劑，選擇天然食品基質（如 Acerola cherry）。
+- **補充建議**：
+  - 確保攝取足夠的維生素C，特別是孕婦、老年人及運動員。
+  - 減少糖分攝取以提高吸收效率。
+
+### 結論
+- 維生素C在人體健康中扮演多種關鍵角色。
+- 亞臨床缺乏症雖不如壞血病嚴重，但仍會影響整體健康。
+- 適當的飲食調整及補充可有效預防缺乏，提升免疫功能及整體健康狀態。
 </details>
 
 <details>
-<summary>2677. Your Major Stress is Hidden in Plain Sight – Sensationalism in Media/News – Dr.Berg</summary><br>
+<summary>2677. [2020-02-09] Your Major Stress is Hidden in Plain Sight – Sensationalism in Media/News – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=WJBKUzibslE" target="_blank">
     <img src="https://img.youtube.com/vi/WJBKUzibslE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+**Core Theme**  
+- The negative impact of sensationalism and constant exposure to bad news on mental and physical health.  
 
+---
+
+### 主要觀念  
+**Main Ideas**  
+1. Sensationalism in media refers to the use of shocking, exaggerated stories to attract attention, often at the expense of accuracy.  
+2. Negative news dominates media coverage, focusing on issues like war, terrorism, crime, and epidemics.  
+3. Good news is underrepresented because it does not generate high readership or viewer engagement.  
+
+---
+
+### 問題原因  
+**Problem Causes**  
+1. Media prioritizes sensationalism to increase ratings and sales, leading to an overemphasis on negative events.  
+2. Constant exposure to bad news creates a state of chronic stress and anxiety among individuals.  
+3. The lack of positive news reinforces a pessimistic worldview, contributing to overall mental health decline.  
+
+---
+
+### 解決方法  
+**Solutions**  
+1. Limit the consumption of negative news by setting boundaries on how much and how often one engages with media.  
+2. Actively seek out and consume positive or neutral news to balance the negativity.  
+3. Refocus on personal well-being and activities that promote positivity, such as spending time with loved ones or engaging in hobbies.  
+
+---
+
+### 健康建議  
+**Health Recommendations**  
+1. Recognize the impact of negative news on mental health and take proactive steps to reduce exposure.  
+2. Incorporate mindfulness or relaxation techniques to counteract stress caused by sensationalist media.  
+3. Prioritize activities that foster joy, gratitude, and resilience to offset the effects of constant negativity.  
+
+---
+
+### 結論  
+**Conclusion**  
+- While staying informed is important, excessive exposure to negative news is detrimental to health.  
+- By managing media consumption and focusing on positive information, individuals can improve their mental and physical well-being.
 </details>
 
 <details>
-<summary>2676. Dr. Berg Does Diet Experiment on Jared (his videographer)</summary><br>
+<summary>2676. [2020-02-08] Dr. Berg Does Diet Experiment on Jared (his videographer)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=CsxaUHJSxUY" target="_blank">
     <img src="https://img.youtube.com/vi/CsxaUHJSxUY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 探讨通过增加蔬菜摄入量来改善能量水平、睡眠质量和减少压力的效果。
+- 通过实验验证饮食调整对个人健康的影响。
+
+#### 主要觀念
+1. **饮食习惯的重要性**：文章强调了饮食中蔬菜摄入量不足可能对身体产生的负面影响，特别是在能量代谢和压力管理方面。
+2. **实验设计**：通过让参与者在一周内每天摄入七杯蔬菜（主要为绿叶蔬菜），观察其对能量、睡眠和压力水平的影响。
+3. **科学研究的支持**：文章提到蔬菜中含有维生素C、镁和钾等矿物质，这些成分有助于提高ATP生成、促进放松和缓解压力。
+
+#### 啟發背景
+- 文章指出，现代生活中许多人饮食中蔬菜摄入不足，可能导致身体机能下降，如疲劳、睡眠质量差和压力过大。
+- 作者通过自身经历和观察，发现增加蔬菜摄入量后身体状态有所改善，因此决定进行实验验证。
+
+#### 問題原因
+1. **蔬菜摄入不足**：参与者最初每天仅摄入少量蔬菜，导致体内缺乏必要的营养素。
+2. **能量代谢问题**：由于饮食中缺乏足够的维生素和矿物质，能量生成效率低下，导致疲劳和其他不适症状。
+3. **压力管理不善**：长期的压力可能导致身体机能紊乱，影响睡眠质量和整体健康。
+
+#### 解决方法
+1. **增加蔬菜摄入量**：通过实验建议每天摄入七杯蔬菜，以补充必要的营养素。
+2. **科学饮食调整**：结合低脂高蛋白的酮式饮食，保持饮食结构的均衡性。
+3. **习惯培养**：逐步增加蔬菜摄入量，避免因突然改变饮食而导致身体不适。
+
+#### 健康建議
+1. **逐步增加蔬菜摄入**：建议从少量开始，逐渐增加到每日七杯，以适应身体的变化。
+2. **多样化饮食**：选择多种绿叶蔬菜和高纤维食物，确保营养均衡。
+3. **结合健康的生活方式**：保持适量运动和充足睡眠，促进整体健康。
+
+#### 結論
+- 通过实验可以看出，增加蔬菜摄入量能够显著改善能量水平、睡眠质量和压力管理能力。
+- 虽然实验仅持续一周，但结果表明饮食调整对身体有积极影响，值得进一步研究和长期实践。
+
+#### 其他建議
+- **影片推荐**：文章提到参与者拍摄的影片值得观看，展示了其实验过程和成果。
+- **健康生活方式的重要性**：强调通过科学饮食和生活习惯改变来提升整体健康水平。
 </details>
 
 <details>
-<summary>2675. Potassium, Muscle Strength, and Exercise Endurance</summary><br>
+<summary>2675. [2020-02-08] Potassium, Muscle Strength, and Exercise Endurance</summary><br>
 
 <a href="https://www.youtube.com/watch?v=4e0Zjg_75Qo" target="_blank">
     <img src="https://img.youtube.com/vi/4e0Zjg_75Qo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：assium 在肌肉力量和運動耐力中的作用
 
+#### 主要觀念：
+1. **钠钾泵（Sodium Potassium Pump）**：
+   - 存在于细胞膜上，数量庞大，具有酶活性。
+   - 通过ATP水解提供能量，执行离子转运功能。
+
+2. **离子转运机制**：
+   - 每秒转运约24,000个钠离子和16,000个钾离子，形成跨膜电位差。
+   - 细胞内外的电位差异为肌肉收缩等生理活动提供能量基础。
+
+3. **能量分配**：
+   - 钠钾泵消耗身体约30%的能量，是维持细胞功能的重要机制。
+
+#### 問題原因：
+1. **低钾血症（Hyponatremia）**：
+   - 饮食中钾摄入不足。
+   - 消化系统疾病（如呕吐、腹泻）、过度使用利尿剂等导致钾丢失。
+
+2. **运动相关因素**：
+   - 过度运动导致钠钾泵活性下降。
+   - 缺乏运动会减少肌肉中钠钾泵的数量。
+
+3. **代谢和内分泌问题**：
+   - 胰岛素抵抗或糖尿病影响钠钾泵功能。
+   - 甲状腺功能减退症降低细胞对离子转运的需求。
+
+4. **矿物质缺乏**：
+   - 镁缺乏影响钾的利用，进而干扰钠钾泵的正常运作。
+
+5. **药物和生活习惯因素**：
+   - 利尿剂使用导致钾丢失。
+   - 过量饮用咖啡因饮料（如咖啡）降低钾水平。
+   - 高压力下皮质醇分泌过多引发钾代谢紊乱。
+
+#### 解決方法：
+1. **饮食调整**：
+   - 增加富含钾的食物摄入，如香蕉、土豆、菠菜等蔬菜和水果。
+
+2. **补充剂使用**：
+   - 在医生指导下适量补充钾离子。
+
+3. **生活方式改善**：
+   - 保持规律的体育锻炼以增强肌肉中的钠钾泵数量。
+   - 减少咖啡因摄入，避免过度利尿。
+
+4. **治疗潜在疾病**：
+   - 对于糖尿病、甲状腺功能减退等代谢性疾病进行有效管理。
+
+#### 健康建議：
+- 定期监测血清钾水平，特别是存在慢性疾病或服用可能影响钾平衡药物的情况下。
+- 运动前后注意补充电解质，维持体内离子平衡。
+- 配合医生建议，必要时通过药物调整以改善钠钾泵功能。
+
+#### 結論：
+钾在肌肉收缩和运动耐力中起着关键作用。钠钾泵的正常运作依赖于充足的钾供应以及整体代谢健康状态。通过合理的饮食管理和生活习惯调整，可以有效提升体能表现并预防因低钾血症引发的相关症状。
 </details>
 
 <details>
-<summary>2674. The Hidden Cause of Vitamin D Deficiency</summary><br>
+<summary>2674. [2020-02-07] The Hidden Cause of Vitamin D Deficiency</summary><br>
 
 <a href="https://www.youtube.com/watch?v=6pZ5EuNXyrA" target="_blank">
     <img src="https://img.youtube.com/vi/6pZ5EuNXyrA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理：文章重點概要
 
+#### 1. 核心主題
+- **维生素D缺乏**：文章讨论了维生素D deficiency 的全球性问题及其背后的重要原因。
+- **微生物与免疫系统的关系**：揭示了多种病原体通过干扰维生素D受体（VDR）来削弱宿主免疫系统的机制。
+
+#### 2. 主要觀念
+- **维生素D的功能**：
+  - 调节钙代谢，支持骨骼健康。
+  - 具有广泛的基因调控能力，影响229个基因。
+  - 在免疫调节中起关键作用，能够显著增强或抑制免疫反应。
+  
+- **微生物的策略**：
+  - 病原体通过干扰维生素D受体（VDR）来降低宿主免疫力，从而更容易侵染和生存。
+  - 这种策略称为“继发感染”（successive infection），常见于多种病原体。
+
+#### 3. 問題原因
+- **环境因素**：
+  - 日晒不足：现代生活方式导致户外活动减少，屏幕时间增加。
+  - 饮食中维生素D含量低：食物来源无法提供足够的维生素D。
+
+- **代谢和健康问题**：
+  - 糖尿病前期或胰岛素抵抗：影响维生素D的吸收。
+  - 高糖和精制碳水化合物的摄入：可能导致维生素D水平下降。
+
+- **微生物干扰**：
+  - 多种病原体（如结核杆菌、莱姆菌、梅毒螺旋体、麻风杆菌、EB病毒、HIV等）能够抑制维生素D受体的功能，削弱免疫防御。
+
+#### 4. 解決方法
+- **补充维生素D**：
+  - 在感染期间补充维生素D可以增强免疫力。
+  - 可能需要较大剂量，因为病原体的存在会降低维生素D受体的吸收能力。
+
+- **生活方式调整**：
+  - 增加日晒时间：适当暴露于阳光下以促进皮肤合成维生素D。
+  - 饮食补充：通过富含维生素D的食物（如鱼类、蛋黄、强化食品等）来补充。
+
+#### 5. 健康建議
+- **监测维生素D水平**：
+  - 定期检测血液中的25-羟基维生素D水平，确保其在正常范围内。
+  
+- **均衡饮食与生活方式**：
+  - 结合饮食和日晒，合理摄入维生素D。
+  - 减少高糖和精制碳水化合物的摄入，以维护整体代谢健康。
+
+- **免疫力提升**：
+  - 在感染期间，适当补充维生素D可能有助于增强免疫系统功能。
+  - 维生素D补充剂应在医生指导下使用，避免过量。
+
+#### 6. 總結
+- **维生素D的重要性**：
+  - 维生素D不仅是骨骼健康的关键因素，还在免疫调节中发挥着重要作用。
+  
+- **微生物与维生素D的关系**：
+  - 多种病原体通过干扰维生素D受体来削弱宿主免疫力，这是一种普遍的感染策略。
+
+- **未来研究方向**：
+  - 进一步研究维生素D在不同感染中的具体作用机制。
+  - 探索如何通过调节维生素D水平来增强抗感染能力。
 </details>
 
 <details>
-<summary>2673. What are Adaptogens? – Ashwagandha Explained by Dr. Berg</summary><br>
+<summary>2673. [2020-02-06] What are Adaptogens? – Ashwagandha Explained by Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5JsuPvm6xz0" target="_blank">
     <img src="https://img.youtube.com/vi/5JsuPvm6xz0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題： 
+- 适应原（Adaptogen）的作用与定义  
 
+### 主要觀念：
+1. **适应原的定义**：  
+   - 适应原是一类植物或草药，能够增强机体对有害因素的抵抗力，并促进适应能力。  
+   - 其拉丁语词源“adaptable”意为“调整”或“适应”，希腊语词缀“Gen”意为“产生”。  
+
+2. **压力与内稳态（Homeostasis）**：  
+   - 压力是指任何威胁体内平衡的因素。  
+   - 内稳态是生物体维持正常生理功能的稳定状态，例如体温、心率、血压和血糖水平等。  
+
+3. **适应原的功能**：  
+   - 通过调节压力激素（如皮质醇）水平，帮助恢复内稳态。  
+   - 改善免疫系统功能，增强机体对压力的应对能力。  
+
+### 問題原因：
+- 现代生活中的各种压力因素（如工作压力、环境变化等）可能导致内稳态失衡，引发健康问题。
+
+### 解決方法： 
+1. **使用适应原**：  
+   - 通过服用适应原来调节压力反应，恢复内稳态。  
+
+2. **具体适应原推荐**：  
+   - **西伯利亚人参（Siberian Ginseng）**：增强适应能力。  
+   - **红参（Panax Ginseng）**：改善能量和耐力。  
+   - **罗迪奥拉（Rhodiola）**：减轻压力和疲劳。  
+   - **阿育吠陀补药（Ashwagandha）**：降低皮质醇水平，缓解焦虑和炎症，如关节炎、 ADHD等。  
+
+### 健康建議：
+- 定期服用适应原以维持内稳态，尤其是在面对长期压力时。  
+- 结合健康的生活方式（如均衡饮食、适量运动）以最大化适应原的效果。  
+
+### 結論： 
+- 适应原通过调节机体的生理功能，帮助应对压力，恢复和维护内稳态。  
+- 合理使用适应原则是促进整体健康的有效方法。
 </details>
 
 <details>
-<summary>2672. The #1 Most Powerful Epigenetic Trigger: SURPRISING</summary><br>
+<summary>2672. [2020-02-06] The #1 Most Powerful Epigenetic Trigger: SURPRISING</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fzJtZt4_Y5Y" target="_blank">
     <img src="https://img.youtube.com/vi/fzJtZt4_Y5Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- **表觀遺傳學（Epigenetics）**：研究外界因素如何影響基因的表達或沉默。
+- **健康與壽命的決定因素**：基因以外的因素在疾病、壽命和健康狀況中的作用。
+
+#### 主要觀念
+1. **表觀遺 genetics 的定義與作用**
+   - 表觀遺傳學是指非基因層面的因素，如環境、飲食、壓力等，影響基因的開啟或關閉。
+   - 基因並非完全決定健康命運，表觀遺傳學提供了更多可變性。
+
+2. **影響表觀遺 genetics 的因素**
+   - 環境
+   - 藥物與化學物質
+   - 飲食
+   - 年齡（隨年齡增長，DNA受損增加）
+   - 压力
+   - 营養狀況
+   - 運動
+
+3. **思維与信念的影響**
+   - 思想、信仰和態度對健康有深遠影響。
+   - 意識形態可引發「自癒」現象，如疾病的不藥而癒。
+
+#### 問題原因
+- 長期壓力會抑制自愈能力，使疾病惡化或延長恢復時間。
+- 醫療 profession 通常低估思想的力量，導致表觀遺 genetics 的潛力未被充分開發。
+
+#### 解決方法與健康建議
+1. **管理壓力**
+   - 緓解壓力以促進健康的基因表達。
+
+2. **心理調適**
+   - 培養積極的信念和思維方式。
+   - 適當的心理干預可能提升治療效果。
+
+3. **健康生活方式**
+   - 平衡飲食
+   - 觀光運動
+   - 控制藥物使用，減少化學物質曝露。
+
+#### 結論
+- 表觀遺 genetics 提供了改變健康的途徑。
+- 思想和信念在健康中扮演至關重要的角色。
+- 雖然思想不可見且難以衡量，但其影響不容忽視。
+
+---
+
+### 全文總結
+
+本文探討了表觀遺 genetics 的核心概念及其在人類健康中的重要性。文章強調，基因並不完全決定個體的健康命運，環境、飲食、壓力等外界因素以及思想與信念均能影響基因表現。文中特別指出，思想的力量可引發「自癒」現象，這一點往往被醫療職業低估。最後，本文提出通過管理壓力、心理調適及健康的生活方式來提升整體健康水平。總而言之，表觀遺 genetics учи opens up新的途徑，使個體能夠主動塑造自身的健康命運。
 </details>
 
 <details>
-<summary>2671. Why Babies Thrive on Ketosis</summary><br>
+<summary>2671. [2020-02-05] Why Babies Thrive on Ketosis</summary><br>
 
 <a href="https://www.youtube.com/watch?v=-6r7JcGJDNU" target="_blank">
     <img src="https://img.youtube.com/vi/-6r7JcGJDNU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+1. **新生兒的能量來源**：文章強調了嬰兒在母體內及出生後的能量來源，特別是酮體的作用。
+2. **酮體的重要性**：酮體不僅提供能量，還為嬰兒的大腦提供建築材料，如脂質和神經鞘。
 
+### 主要觀念
+1. **孕期能量分配**：
+   - 孕婦在妊娠晚期，特別是第三 trimester，嬰兒的能量需求中30%來自酮體。
+2. **出生後的エネルギー源**：
+   - 新borns 在出生後最初兩小時主要依靠乳酸（乳糖），隨後轉化為酮體作為能量來源。
+3. **嬰兒大腦的能源需求**：
+   - 嬰兒的大腦占身體重量的11-12%，而新生兒的75%能量用於大腦，而成年人僅需20-25%。
+4. **酮體的建築作用**：
+   - 酮體提供嬰兒大腦白質形成的90%碳源，包括膽固醇和髓鞘形成所需的材料。
+
+### 問題原因
+1. **配方奶粉的影響**：
+   - 市售配方奶粉高碳水化合物，抑制酮體的生成與利用，干擾嬰兒正常的能量來源。
+2. **現代喂養方式**：
+   - 過度依賴配方奶粉而非母乳喂養，可能影響嬰兒的長期健康和智力發育。
+
+### 解决方法
+1. **推廣母乳喂養**：
+   - 母乳富含中鏈脂肪酸（MCTs），這些脂肪被轉化為酮體，提供嬰兒所需的能量和建築材料。
+2. **均衡nutrition for Pregnant Women**：
+   - 孕婦應攝取富含微量元素、B群維生素和维生素C的營養密集食物，以支持嬰兒的最佳發育。
+
+### 健康建議
+1. **妊娠期間的飲食調整**：
+   - 孕妇应避免高碳水化合物飲食，選擇富含健康脂肪和蛋白質的食物。
+2. **母乳喂哺的重要性**：
+   - 尽可能長時間進行母乳喂養，以確保嬰兒獲得最佳營養和能量來源。
+
+### 結論
+1. **酮體的自然作用**：
+   - 酮體在嬰兒的能量供應和腦部發育中扮演關鍵角色。
+2. **現代飲食的影響**：
+   - 高碳水化合物飲食可能干擾嬰兒的正常發育，需提高對此問題的認識。
+3. **健康生活方式的重要性**：
+   - 母乳喂養和均衡飲食是保障嬰兒長期健康的基石。
+
+### 參考資料
+- 文章中提到的研究數據和營養學原理。
 </details>
 
 <details>
-<summary>2670. The Adrenal Fatigue Diet</summary><br>
+<summary>2670. [2020-02-05] The Adrenal Fatigue Diet</summary><br>
 
 <a href="https://www.youtube.com/watch?v=obbsKHDBJWY" target="_blank">
     <img src="https://img.youtube.com/vi/obbsKHDBJWY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- **核心主題**：針對腎上腺疲勞（Adrenal Fatigue）的飲食與生活方式調整，以改善健康狀況並促進減重。
 
+---
+
+### 主要觀念  
+1. **腎上腺疲勞的definitions**：腎上腺疲勞是一種由長期壓力導致的 adrenal 濫耗狀態，影響身體多個系統的功能。  
+2. **壓力與 cortisol 的作用**：慢性壓力會增加皮質醇（cortisol）分泌，導致肌肉分解、脂肪儲存及其他健康問題。  
+3. **飲食在 adrenal 調節中的重要性**：飲食結構的調整可以幫助改善 adrenal 状況，包括蛋白質攝取量、脂肪攝取和特定營養素的補充。  
+
+---
+
+### 問題原因  
+1. **壓力過大**：長期暴露於高壓環境會耗竭腎上腺功能。  
+2. **飲食不足**：低蛋白質、低脂肪或缺乏關鍵營養素（如 B1 維生素、維生素 C 和钾）的飲食會進一步加重 adrenal 疲勞。  
+3. **惡性循環**：高皮質醇水平會導致肌肉分解和脂肪儲存，特別是腹部脂肪 accumulation，影響減重效果。  
+
+---
+
+### 解决方法  
+1. **飲食調整**：  
+   - **蛋白質攝取**：增加每餐的蛋白質攝取量（7-9 盎司/餐），以抵銷肌肉分解並支持組織修復。  
+   - **脂肪攝取**：提高健康脂肪的攝取，如牛油、椰子油和酪梨，以支持 adrenal 濕潤和激素合成。  
+   - **關鍵營養素補充**：  
+     - **維生素 B1**：通過食用營養酵母或サプリメント來補充，幫助應對壓力並緩解神經 tension。  
+     - **維生素 C**：優先選擇食物來源（如紅椒、 Sauerkraut），避免合成補充劑。  
+     - **钾**：攝取富含 potassium 的食物，如香蕉和greens。  
+
+2. **生活方式調整**：  
+   - **運動建議**：進行一小時的戶外散步，接觸自然環境，避免使用電子產品，以降低壓力並增加氧氣供應。  
+   - **壓力管理技術**：推薦使用特定的壓力減輕技巧（如《Stress Webinar》中介紹的方法）。  
+
+3. **補充與支持**：  
+   - **電解質平衡**：通過飲食或天然補充劑來維持身體酸鹼平衡，特別是利用蘋果醋來改善 alkaline 體質。  
+
+---
+
+### 健康建議  
+1. **飲食計劃**：  
+   - 確保每餐蛋白質攝取量充足（7-9 盎司）。  
+   - 增加健康脂肪的攝入，如牛油、椰子油和酪梨。  
+   - 飲食中融入富含維生素 C 和 potassium 的食物。  
+
+2. **運動習慣**：  
+   - 每天進行一小時的戶外散步，避免電子產品干擾，以降低壓力並改善氧氣供應。  
+
+3. **營養補充**：  
+   - 使用營養酵母或サプリメント來補充維生素 B1。  
+   - 選擇天然食物來源的維生素 C，而非合成補充劑。  
+   - 通過飲食攝取足夠的 potassium，並使用蘋果醋來幫助恢復酸鹼平衡。  
+
+4. **壓力管理**：  
+   - 學習並實施特定的压力 reduction 技術（如《Stress Webinar》中介紹的方法）。  
+
+---
+
+### 結論  
+- 腎上腺疲勞是一種可逆的健康狀況，通過飲食調整、運動和壓力管理可以有效改善。  
+- 高蛋白質、高脂肪飲食結合關鍵營養素的補充，能夠幫助恢復 adrenal 功能並促進減重。  
+- 生活方式的改變需要持續性，建議配合同伴或專業指導以確保效果。
 </details>
 
 <details>
