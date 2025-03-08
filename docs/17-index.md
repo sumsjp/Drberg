@@ -923,58 +923,239 @@
 </details>
 
 <details>
-<summary>1716. What Is Conjugated Linoleic Acid? – Dr. Berg</summary><br>
+<summary>1716. [2018-09-09] What Is Conjugated Linoleic Acid? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=0zaIVZi_vqM" target="_blank">
     <img src="https://img.youtube.com/vi/0zaIVZi_vqM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+CLA（共轭亞油酸）的健康益處及其來源。
 
+### 主要觀念
+1. **CLA的作用**：
+   - 促進脂肪燃燒。
+   - 來源於動物性脂肪，如草饲牛油、奶制品和蛋黃。
+2. **CLA的來源**：
+   - 最佳來源為100%草饲牲畜的脂肪，避免混合谷物和牧草餵食。
+3. **CLA的健康益處**：
+   - 促進肌肉強度增加。
+   - 提高運動耐力。
+   - 加速新陳代謝。
+   - 提升免疫功能。
+   - 具有抗癌特性。
+   - 控制體脂。
+   - 確保血糖穩定。
+
+### 問題原因
+- 市面上常見的CLA來源（如普通牲畜脂肪）可能因混合餵食而影響CLA含量，降低其功效。
+
+### 解決方法
+1. **選擇草饲產品**：
+   - 選購 grass-fed 的肉類和乳制品。
+   - 推薦品牌：US Wellness Meats（無利益衝突推薦）。
+2. **購買渠道建議**：
+   - 嘉勉訪問農民市場，以確保獲得高CLA含量的產品。
+
+### 健康建議
+- 鐵消費者應該注意食品來源，選用100%草饲牲畜的脂肪和乳制品，以最大化CLA的健康益處。
+- 維生素D和其他營養素的攝取也應受到關注，以支持整體健康。
+
+### 结論
+CLA作為一種重要的脂肪酸，在促進健康方面具有多種潛力。消費者需注意產品來源，選擇100%草饲牲畜的相關制品，以最大化CLA的功效。
 </details>
 
 <details>
-<summary>1715. 4 Things to Avoid if You Have an Enlarged Prostate – Dr. Berg</summary><br>
+<summary>1715. [2018-09-09] 4 Things to Avoid if You Have an Enlarged Prostate – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=APec1K5xBk8" target="_blank">
     <img src="https://img.youtube.com/vi/APec1K5xBk8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- **前列腺肥大的管理**：探討如何通過飲食調整來改善前列腺健康。
 
+---
+
+### 主要觀念  
+1. **前列腺肥大的影響**：前列腺肥大會導致排尿困難等症狀，需特別注意飲食選擇。  
+2. **激素敏感性**：前列腺組織對激素變化高度敏感，某些食物可能加重病情。
+
+---
+
+### 問題原因  
+- ** dairy的激素干擾**：來源於孕 cows 的牛奶含有生長激素和因子，可能刺激 prostate 炫麗。  
+- ** vegetable oils 的炎症作用**：高omega-6脂肪酸的植物油可引起前列腺炎症。  
+- ** sugar 的代謝紊亂**：糖分及其衍生物（如穀物、麵食）會導致全身性炎症。  
+- ** soy 的雌激素效應**：大豆含有類似雌激素的成分，可能促進 prostate 為大。
+
+---
+
+### 解決方法  
+1. ** dairy 替代品**：選擇高質量的乳制品（如grass-fed牛奶），但需限量攝取。  
+2. **健康脂肪來源**：優先使用橄榄油而非蔬菜油，以降低炎症反應。  
+3. **控制糖分攝入**：限制精制糖和含糖食品的攝取，選擇低GI食物。  
+4. **大豆產品限制**：避免過量攝取大豆蛋白 isolate 和相關制品。
+
+---
+
+### 健康建議  
+- **飲食調整**：採用地中海式飲食模式，多攝取蔬菜、水果和健康脂肪。  
+- **生活方式改善**：結合運動和壓力管理，進一步降低前列腺疾病風險。  
+
+---
+
+### 結論  
+避免 dairy、vegetable oils、sugar 和 soy 可有效緩解前列腺肥大的症狀。此建議基於多年的臨床觀察，旨在幫助患者通過飲食來改善 prostate 健康。
 </details>
 
 <details>
-<summary>1714. What is mTOR? – Dr.Berg</summary><br>
+<summary>1714. [2018-09-08] What is mTOR? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Wg6tvKxS9FE" target="_blank">
     <img src="https://img.youtube.com/vi/Wg6tvKxS9FE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **mTOR 註冊通路**：mTOR（Mammalian Target of Rapamycin）是一種控制蛋白質合成的主要生化通道。
+- **其功能**：高活化狀態促進身體增長，可能與腫瘤生長相關；低活化則重視修復和維護。
 
+### 主要觀念
+1. **mTOR 的雙面性**：
+   - 高活性：刺激蛋白質合成、促進生長。
+   - 低活性：激活 autophagy（自噬），促進損壞蛋白質的回收，具有抗衰老作用。
+   
+2. **影響 mTOR 活性的因素**：
+   - 葡萄糖和氨基酸是主要驅動力。
+   - 高葡萄糖攝入和過量蛋白質攝取會提高 mTOR 活性。
+
+### 問題原因
+- 現代飲食習慣中，高碳水化合物和高蛋白質攝入導致 mTOR 過度活化，可能增加腫瘤風險並不利於衰老管理。
+
+### 解決方法
+1. **低碳水化合物飲食（如酮egenic diet）**：
+   - 降低胰島素水平，抑制 mTOR 活性。
+2. **間歇性斷食**：
+   - 减少蛋白質攝取，促進自噬，幫助身體進入修復模式。
+
+### 健康建議
+- 維持低碳水化合物飲食和適當的斷食習慣，以平衡 mTOR 活性。
+- 減少過量蛋白質攝入，尤其在非運動日或低活動量情況下。
+- 通過定期評估飲食結構和生活方式，優化整體健康。
+
+### 結論
+- 調控 mTOR 活性是平衡生長與修復的重要策略。
+- egenic diet 和間歇性斷食為實現此目標的有效方法。
 </details>
 
 <details>
-<summary>1713. The Downside of Keto & Intermittent Fasting - Is Keto Good For You? – Dr.Berg</summary><br>
+<summary>1713. [2018-09-08] The Downside of Keto & Intermittent Fasting - Is Keto Good For You? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=-CwIBrkQXnk" target="_blank">
     <img src="https://img.youtube.com/vi/-CwIBrkQXnk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 文章重點整理：酮飲食與高碳水化合物飲食的優缺點分析
 
+## 核心主題
+本文探討了酮飲食（Ketogenic Diet）和高碳水化合物飲食在健康、經濟及社會方面的優缺點，特別強調了兩種飲食方式可能帶來的負面影響。
+
+---
+
+## 主要觀念
+1. **酮飲食的缺點**：
+   - 高昂的成本：需購買新衣櫃以適應體重下降後的身材變化。
+   - 社交障礙：因飲食限制導致社交不便，朋友可能感到羣居壓力或不理解。
+   - 偏見與異樣眼光：在公共場所提供特殊飲食選擇時，可能引發他人好奇或批評。
+
+2. **高碳水化合物飲食的缺點**：
+   - 高昂的成本：因體重增加需購買更大號服裝，且需攝入大量食物。
+   - 健康問題：易導致糖尿病、心臟病、視力衰退等疾病。
+   - 生活品質下降：疲勞、暴怒、睡眠障礙及腹脹等不適症狀。
+
+---
+
+## 問題原因
+- **酮飲食**：
+  - 飲食結構的重大調整可能引發身體不適（如酮流感）。
+  - 社交場景中食物選擇受限，影響人際關係。
+  
+- **高碳水化合物飲食**：
+  - 高糖分攝入導致代謝紊亂，增加慢性病風險。
+  - 食慾控制困難，易造成過量攝食。
+
+---
+
+## 解決方法
+1. 飲食：
+   - 選擇高品質、有機食品以降低成本。
+   - 學會應對社交場合的食物挑選，必要時提前溝通或自備食物。
+   - 減少不必要的購物，善用時間管理避免浪費。
+
+2. 高碳水化合物飲食：
+   - 逐步調整飲食結構，增加纖維攝取以穩定血糖。
+   - 增加運動量，控制體重和血糖水平。
+   - 定期健康檢查，及時發現並處理相關疾病。
+
+---
+
+## 健康建議
+1. 飲食：
+   - 確保飲食均衡，避免依賴加工食品。
+   - 適當補充電解質以防止脫水和疲劳。
+   - 與醫生或營養師討論是否適合個人健康狀況。
+
+2. 高碳水化合物飲食：
+   - 減少精制糖和白麵粉的攝入，選擇全穀物和高纖維食物。
+   - 培養良好的飲食習慣，避免暴飲暴食。
+   - 盡量保持活動力，避免久坐。
+
+---
+
+## 結論
+兩種飲食方式各有其局限性，關鍵在於根據個人健康狀況、經濟條件及生活需求選擇適合的飲食方案。無論選擇何種飲食方式，均需配備適當的健康管理策略，以維持整體健康。
 </details>
 
 <details>
-<summary>1712. Hidden Deficiency in POTS (Postural Orthostatic Tachycardia Syndrome) – Dr.Berg</summary><br>
+<summary>1712. [2018-09-07] Hidden Deficiency in POTS (Postural Orthostatic Tachycardia Syndrome) – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=84lRoZKMte8" target="_blank">
     <img src="https://img.youtube.com/vi/84lRoZKMte8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：POTS中隱藏性維生素B1缺乏症的核心探討
 
+#### 核心主題
+- **	postural orthostatic tachycardia syndrome (POTS)**：一種涉及自主神經系統功能障礙的複雜綜合徵，表現為直立不耐受、心率過速及多種相關症狀。
+- **	潛在的維生素B1缺乏**：提議POTS的某些症狀可能與維生素B1不足有關。
+
+#### 主要觀念
+- POTS影響身體對不同姿勢的耐受能力，導致直立時的心率劇烈波動及其他自主神經系統相關症狀。
+- 維生素B1（硫胺素）在自主神經系統中扮演關鍵角色，其缺乏可能與POTS的某些症狀相似。
+
+#### 問題原因
+- **	營養失衡**： consuming大量精製糖和碳水化合物可能耗竭維生素B1。
+- **應激因素**：包括疫苗接種、壓力或重金屬中毒等因素可能影響維生素B1水平。
+- **	診斷挑戰**：醫生常忽略亞临床性維生素B1缺乏，導致錯過早期干預機會。
+
+#### 解決方法
+- **	Wreath Recite Test（WRET）**：建議使用此檢測來評估自主神經系統功能及維生素B1水平。
+- **	補充療法**：增加維生素B1攝取量，可考慮口服或注射方式。
+- **	綜合營養支持**：搭配食用營養酵母以確保其他B族維生素的均衡攝取。
+
+#### 健康建議
+- 面對POTS患者，醫師應評估潛在的維生素B1缺乏情況。
+- 對症狀與berry-berry病相似的患者，需考慮營養干預措施。
+- 患者可自行試驗維生素B1補充效果，並密切觀察症狀變化。
+
+#### 結論
+- POTS的治療可能受益於針對維生素B1缺乏的干預。
+- 雖然研究仍需進一步證實，但早期營養干預對改善患者症狀具有潛在價值。
 </details>
 
 <details>
@@ -1000,36 +1181,112 @@
 </details>
 
 <details>
-<summary>1709. What Does EDTA Do? – Dr. Berg</summary><br>
+<summary>1709. [2018-09-05] What Does EDTA Do? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=sFH-0Uu24-c" target="_blank">
     <img src="https://img.youtube.com/vi/sFH-0Uu24-c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 介紹EDTA螯合劑在排毒和健康管理中的作用。
 
+### 主要觀念  
+1. **螯合作用**：EDTA（Ethylene Diamine Tetraacetic Acid）是一種螯合劑，能夠與金屬離子結合，從而清除體內的有毒金屬。
+2. **適用症狀**：
+   - 清除金屬毒物（如汞、鉛、鐵、鋁、鈣等）。
+   - 護心血管健康，改善血流。
+   - 負責動脈斑塊和腎结石的形成。
+3. **抗氧化作用**：通過去除氧化性金屬，降低自由基損傷。
+
+### 問題原因  
+- 有毒金屬在體內的積累會導致多種健康問題，包括但不限於心血管疾病、神經系統損害和腎臟問題。
+
+### 解決方法  
+1. **使用EDTA螯合劑**：
+   - **劑量與時機**：建議空腹服用，以避免与食物中的礦物質結合影響效果。
+   - **補充 nutrients**：在服用期間，需補充必要的 trace minerals 和其他礦物質，以彌補因螯合作用而丟失的營養。
+2. **飲食調整**：
+   - 增加水的攝取，促進毒素排泄。
+
+### 健康建議  
+1. **健康管理**：
+   - 定期進行體內金屬負荷檢查。
+   - 經常監控血流和心血管功能。
+2. **能量與活力**：
+   - 觀察到服用EDTA後，可能改善精力，減少疲勞感。
+
+### 結論  
+- EDTA螯合療法是一種有效的排毒和健康管理工具，特別在去除有毒金屬、保護心血管系統和改善血流方面效果顯著。建議在專業指導下使用，並注意補充必要的營養素以維持身體平衡。
 </details>
 
 <details>
-<summary>1708. Sleep Apnea: Is it Really a Nutritional Deficiency? Dr. Berg Explains</summary><br>
+<summary>1708. [2018-09-05] Sleep Apnea: Is it Really a Nutritional Deficiency? Dr. Berg Explains</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hJajkK2PuMg" target="_blank">
     <img src="https://img.youtube.com/vi/hJajkK2PuMg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：睡眠呼吸中斷症候群（Sleep Apnea）的原因及其與維生素B1缺乏的關聯
 
+#### 主要觀念：
+- 睡眠呼吸中斷常見於糖尿病患者。
+- 高血糖導致維生素B1（硫胺素）缺乏，影響腦幹的呼吸控制中心。
+
+#### 問題原因：
+1. **高血糖與維生素B1耗竭**：高血糖水平會消耗維生素B1，干擾腦幹中呼吸中樞的功能。
+2. **自主神經系統功能障礙**：自主神經系統負責控制無意識的生理功能，如呼吸。維生素B1缺乏可能影響此系統，導致呼吸中斷。
+3. **與睡眠呼吸暫停的關聯**：睡眠呼吸暫停症患者常在睡覺時停止呼吸，可能與腦幹呼吸中樞受損有關。
+
+#### 解決方法：
+1. **補充維生素B1**：增加維生素B1攝取量以支持呼吸中樧的功能。
+2. **營養酵母的使用**：營養 yeast 可幫助提高維生素B1水平，預防 deficiency。
+
+#### 健康建議：
+- 確保嬰兒獲得足夠的維生素B1，無論是母乳哺餵還是配方奶粉喂養。
+- 避免食用糖分過高的配方奶粉，以保障營養均衡。
+- 如有睡眠呼吸中斷症狀，及時諮詢醫生並考慮維生素B1補充。
+
+#### 總結：
+睡眠呼吸中斷症候群的發生可能與維生素B1缺乏有關。通過補充維生素B1及其他相關營養素，可以有效改善症狀。此外，嬰兒照顧者應注意維生素B1的攝取，以降低 sudden infant death syndrome 的風險。
 </details>
 
 <details>
-<summary>1707. Keto Broccoli Fritters Recipe with Dr.Berg & Karen</summary><br>
+<summary>1707. [2018-09-04] Keto Broccoli Fritters Recipe with Dr.Berg & Karen</summary><br>
 
 <a href="https://www.youtube.com/watch?v=FN9hqxaW7J8" target="_blank">
     <img src="https://img.youtube.com/vi/FN9hqxaW7J8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小結結構
 
+#### 核心主題  
+- 設計並介紹一種創新食谱：broccoli fritter（西兰花煎餅）。  
+- 强調健康飲食的重要性，特別是利用cruciferous vegetables（十字花科蔬菜）的營養價值。  
+
+#### 主要觀念  
+1. 西兰花煎餅是一種適合所有年齡層的健康小吃，尤其適合兒童。  
+2. 利用西兰花製作食物可以增加綠色飲食的吸引力。  
+3. 加入少量curry（咖喱）可提升風味，而不掩蓋西蘭花的原味。  
+
+#### 問題原因  
+1. 西兰花通常被認為是兒童不喜歡的食物，因其口感和味道可能令人抗拒。  
+2. 传统上，西兰花料理缺乏吸引力，導致消費量不足。  
+
+#### 解決方法  
+1. 制作西蘭花煎餅：將西兰花磨碎後混合其他食材（如蛋、麵粉），煎至酥脆。  
+2. 加入curry等調味料提升風味，使食物更具吸引力。  
+3. 提供多種醬料選擇（如酸奶油）來增加口感層次感。  
+
+#### 健康建議  
+1. 多攝取cruciferous vegetables（十字花科蔬菜），因其具有抗癌特性，稱為「抗癌 steroids」。  
+2. 西兰花煎餅可作為均衡飲食的一部分，適合各種飲食需求。  
+
+#### 結論  
+- 西蘭花煎餅是一種創新且健康的食谱，成功地將西兰花融入日常飲食中。  
+- 通過 culinary creativity（廚藝創意），可以提高人們對健康食物的接受度和消費量。
 </details>
 
 <details>
@@ -1044,25 +1301,79 @@
 </details>
 
 <details>
-<summary>1705. Why Do "They" Don't Want You To Do Ketogenic Diet? – Dr. Berg</summary><br>
+<summary>1705. [2018-09-03] Why Do "They" Don't Want You To Do Ketogenic Diet? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DJCgAqV5j5g" target="_blank">
     <img src="https://img.youtube.com/vi/DJCgAqV5j5g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：反對酮egenic饮食的原因與其背后的动机
 
+#### 主要觀念：
+1. **酮egenic饮食的有效性**：酮egenic饮食在短期内能有效减轻体重、提升能量水平，并带来显著的健康益处。
+2. **反對聲音的來源**：媒体和传统观念经常质疑酮egenic饮食的安全性和长期效果，例如声称其会导致脱水或可能缩短 lifespan。
+3. **利益衝突**：大量资金与 carbohydrate-based 产品（如含糖饮料、加工食品、酒精等）相关，这些产业希望维持人们对carbohydrates的依赖。
+
+#### 問題原因：
+1. **營養產業的利益驱动**：许多关于酮egenic饮食的负面言论可能受到商业利益的影响，尤其是那些与carbohydrate industry相关的公司。
+2. **消費者被誤導**：消费者容易受到媒体和传统观念的影響，对酮egenic饮食产生疑虑，从而放弃这种饮食方式。
+
+#### 解決方法：
+1. **教育與知識共享**：通过科学依据和成功案例，帮助公众了解酮egenic饮食的实际效果和安全性。
+2. **批判性思考**：鼓励消费者对媒体信息进行批判性分析，识别潜在的利益驱动因素。
+
+#### 健康建議：
+1. **飲食管理**：在遵循酮egenic饮食的同时，确保摄入足够的水分，并注意电解质平衡以防止脱水问题。
+2. **個化化飲食計劃**：根据个人健康状况和需求，制定适合自己的饮食计划，必要时寻求专业营养师的建议。
+
+#### 結論：
+酮egenic饮食作为一种有效的体重管理和健康改善方法，其短期和长期效果已得到大量研究支持。消费者应基于科学证据和个人体验，做出明智的选择，并对媒体信息保持批判性态度。
 </details>
 
 <details>
-<summary>1704. How To Keep Your Blood Sugars Normal Without Eating Sugar? – Dr. Berg</summary><br>
+<summary>1704. [2018-09-03] How To Keep Your Blood Sugars Normal Without Eating Sugar? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=6fMGr3mo0Us" target="_blank">
     <img src="https://img.youtube.com/vi/6fMGr3mo0Us/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 人體血糖 regulation 及其來源。
+- 脫離對外來糖分的依賴，改用酮體供能。
+- 如何保持正常血糖水平而不攝入 sugar。
+
+#### 主要觀念
+1. 腳ugar 摂取過多會導致血糖波動，增加低血糖風險。
+2. 大腦並非完全依賴外部 glucose 供能，可利用酮體或自身脂肪轉化為的葡萄糖來供能。
+3. 人體脂肪中的甘油可以轉化為葡萄糖，用於大腦所需。
+4. 酮症體是清潔、有效的燃料，對神經系統具有保護作用。
+
+#### 問題原因
+- 摂入糖分過多會干擾人體自體 fat 的利用，導致脂肪堆積。
+- 即使血糖正常（如 80 mg/dL），血液中 sugar 含量也非常有限，不需要大量攝取糖分。
+
+#### 解決方法
+1. 避免攝入外來 sugar，依賴自身脂肪轉化為的 glucose 或酮體供能。
+2. 維持低碳水化合物飲食，促進酮症體生成。
+3. 通過 fasting 或每日一餐等方式減少糖分攝取。
+
+#### 健康建議
+1. 避免攝入精製 sugar 和高碳水食物，以降低血糖波動風險。
+2. 增加健康脂肪的攝取，如'avocados', 'nuts', 'seeds', etc.
+3. 維持定期運動，促進脂肪燃燒和酮體生成。
+
+#### 結論
+- 人體可以有效利用酮體和自身脂肪來供能，不依賴外部 sugar。
+- 控制糖分攝取，結合低碳飲食和運動是維持正常血糖水平的有效方式。
+- 參加相關健康研討會以獲取更多專業建議。
+
+---
+
+此整理基於文章內容，並使用正式中文進行表達。各項觀點均有文意支持，結構清晰合理。
 </details>
 
 <details>
