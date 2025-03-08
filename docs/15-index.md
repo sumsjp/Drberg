@@ -362,91 +362,472 @@
 </details>
 
 <details>
-<summary>1567. Tinnitus "Ringing in the Ears" is an Insulin Problem – Dr. Berg</summary><br>
+<summary>1567. [2018-06-17] Tinnitus "Ringing in the Ears" is an Insulin Problem – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Cbylubjzhhg" target="_blank">
     <img src="https://img.youtube.com/vi/Cbylubjzhhg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理
 
+#### 核心主題
+- 討論耳鳴（Tinnitus）的病因及其與高血糖和高胰岛素水平的关系。
+- 探讨通过营养干预和代谢调节来改善耳鸣症状。
+
+#### 主要觀念
+1. 高血糖和高胰岛素水平对身体多个系统造成损害，包括肾脏、心脏、神经系统和 vascular system。
+2. 耳鳴是由于内耳神经损伤导致的听觉幻觉。
+3. B族维生素（尤其是B1）在神经健康中的重要作用。
+4. Benfotiamine作为一种脂肪溶性维生素，能够缓解高糖和高胰岛素对神经的损害。
+5. 健康的酮症状态（通过间歇性禁食等方式实现）有助于改善代谢问题。
+
+#### 問題原因
+- 高血糖和高胰岛素水平导致内耳神经损伤，进而引发耳鳴。
+- 膳食中B族维生素（尤其是B1）的缺乏加重了神经损伤。
+- 医疗实践中对胰岛素水平的关注不足，导致患者未得到及时诊断和治疗。
+
+#### 解決方法
+1. **營養干預**：
+   - 补充脂肪溶性B族维生素Benfotiamine，帮助修复因高糖和高胰岛素引起的神经损伤。
+   
+2. **代谢调节**：
+   - 通过健康酮症（如间歇性禁食）改善代谢状态，从根本上纠正高血糖和高胰岛素的问题。
+
+#### 健康建議
+- 如果有耳鳴症状，建议咨询医生进行 fasting insulin test 檢查。
+- 在醫生指導下使用Benfotiamine补充劑。
+- 采取健康的生活方式，如均衡飲食、規律運動和間歇性禁食，以維持正常的血糖和胰岛素水平。
+
+#### 結論
+- 耳鳴可能与高血糖和高胰岛素水平密切相关。
+- 及時的營養干預和代谢調節可以有效改善耳鳴症状。
+- 醫療人員應該更加重視對胰島素水平的檢測，以提高早期診斷率。
 </details>
 
 <details>
-<summary>1566. Cognitive Functions & Mood Effects from Keto (Ketogenic Diet) – Dr. Berg</summary><br>
+<summary>1566. [2018-06-16] Cognitive Functions & Mood Effects from Keto (Ketogenic Diet) – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=t1KzPE3alu0" target="_blank">
     <img src="https://img.youtube.com/vi/t1KzPE3alu0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題  
+- 探讨生酮饮食（Keto）及其结合间歇性禁食对认知功能和情绪的影响。
+
+---
+
+#### 主要觀念  
+1. 生酮 diet 的潜在认知和情绪影响缺乏系统研究，主要原因是赞助不足。  
+2. 现有研究表明，高血糖和高胰岛素水平对大脑有害，可能导致脑萎缩、海马体损伤及痴呆症。  
+3. 低血糖（如轻度低血糖）会导致情绪问题，包括 irritability, anxiety, sadness 和 depression。  
+4. 脑部无法储存糖分，依赖血液供应，低血糖会直接影响脑功能，导致头痛、偏头痛和情绪障碍。  
+5. 生酮饮食通过刺激 GABA 神经传递、减少炎症和改善胰岛素敏感性来提升认知功能和情绪状态。  
+
+---
+
+#### 問題原因  
+1. 生酮 diet 的研究有限，主要因为缺乏赞助，尤其是来自制药公司或食品制造商的资金支持不足。  
+2. 传统生酮饮食中使用不健康成分（如 margarine 和油）可能掩盖其潜在益处。  
+3. 医疗机构对替代医学持怀疑态度，限制了相关研究的资助和开展。  
+
+---
+
+#### 解決方法  
+1. 利用现有研究表明高血糖和低血糖对大脑的负面影响，推断生酮 diet 的潜在益处。  
+2. 通过改善胰岛素敏感性、减少炎症和刺激 GABA 神经传递来优化认知功能和情绪健康。  
+3. 结合间歇性禁食（如 Pido）以促进神经元再生和减少痴呆症相关的淀粉样蛋白斑块积累。  
+
+---
+
+#### 健康建議  
+1. 尝试健康的生酮饮食，注重使用健康食材而非传统不健康成分。  
+2. 结合间歇性禁食（例如每天 16 小时禁食）以进一步提升胰岛素敏感性和神经元健康。  
+3. 监测个人的血清素、多巴胺和伽玛氨基丁酸水平，确保 neurotransmitters 的充足供应以支持情绪和认知功能。  
+
+---
+
+#### 結論  
+- 生酮饮食和间歇性禁食可能通过多种机制改善认知功能和情绪健康，包括减少炎症、提升胰岛素敏感性和促进神经元再生。  
+- 尽管缺乏大规模研究，个人可以通过实践这些方法并观察自身变化来验证其效果。
 </details>
 
 <details>
-<summary>1565. Effects of Acid Suppressing Proton Pump Inhibitors(PPIs) on the Body – Dr. Berg</summary><br>
+<summary>1565. [2018-06-16] Effects of Acid Suppressing Proton Pump Inhibitors(PPIs) on the Body – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=MKS2Hm5ofBE" target="_blank">
     <img src="https://img.youtube.com/vi/MKS2Hm5ofBE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 認知整理報告：關於質子泵抑制劑（PPIs）及其影響
 
+## 核心主題  
+- **藥物作用**：PPIs 是一種強效抑酸劑，可降低胃酸分泌，用於治療 acid reflux、GERD、胃炎和潰瘍等疾病。  
+- **副作用與風險**：長期使用 PPIs 可能導致多種胃腸道及其他健康問題，包括 mineral吸收障礙、感染风险增加等。  
+
+## 主要觀念  
+1. **PPIs 的療效**：
+   - 能夠將胃酸降低至正常水平的 99%，是全球銷售量最高的藥物之一。
+2. **胃酸的重要性**：  
+   - 胃酸不僅幫助消化，還能殺死食物中的病原微生物，維持腸道健康。  
+
+## 問題原因  
+1. **胃酸不足導致的影響**：  
+   - **消化功能障礙**：無法有效分解蛋白質，導致腹脹、腹痛和未吸收營養素進入intestinal tract。  
+   - **營養吸收障碍**：缺乏足夠胃酸會影響鈣質、鐵質及 B12 的吸收，導致貧血、疲勞及骨質疏鬆。  
+   - **腸道感染风险增加**：胃酸不足使病原菌在intestinal tract中存活，如 c-diff 感染和小肠细菌過生長。  
+   - **心理影響**：因營養吸收不良導致神經傳導物質（如血清素、多巴胺）合成受阻，引發焦慮和抑鬱。  
+
+## 解決方法  
+1. **自然增加胃酸**：
+   - **食醋（Apple Cider Vinegar, ACV）**：每日餐前飲用稀釋的食醋，可幫助刺激胃酸分泌。
+   - **Pantanè Hydrochloride**：一種天然的酸化劑，可用於補充胃酸。  
+2. **飲食調整**：
+   - 增加富含維生素C的食物攝取，促進胃酸分泌。
+   - 避免食用不易消化的食物，如油炸食品和加工肉類。
+
+## 健康建議  
+1. **諮詢醫生**：在減量或停用PPIs之前， обязательно проконсультироваться с врачом。  
+2. **逐步調整**：不要突然停止使用PPIs，以免引發反跳性胃酸過多（GERD惡化）。  
+3. **飲食習慣改善**：養成良好的飲食習慣，避免過度攝取刺激性食物，並增加膳食纖維的攝取。  
+
+## 結論  
+- 長期使用PPIs 可能導致多種健康問題，但正確使用仍可在醫生指導下提供有效的症状 relief。  
+- 通過自然方法增強胃酸分泌和改善飲食習慣，可以有效降低對 PPIs 的依賴，並預防相關副作用。  
+
+---
+
+# 摘要  
+PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾病。然而，長期使用可能导致胃酸不足，進而影響消化、吸收和腸道健康。本文探討了 PPIs 的作用機制、潛在副作用及替代解決方案，強調通過飲食調整和自然方法來改善胃酸分泌的重要性，並建議在醫生指導下逐步減少對PPIs的依賴。
 </details>
 
 <details>
-<summary>1564. Should I Avoid Seeds & Nuts with Diverticulitis? – Dr. Berg</summary><br>
+<summary>1564. [2018-06-15] Should I Avoid Seeds & Nuts with Diverticulitis? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XMShcbfWIn8" target="_blank">
     <img src="https://img.youtube.com/vi/XMShcbfWIn8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節結構：
 
+1. **核心主題**
+   - 本文探討了在患有 diverticulitis 時是否應該避免攝取堅果和種子的問題。
+   - 解釋了 diverticulitis 的定義及其成因。
+
+2. **主要觀念**
+   - 堅果和種子不會導致或加重 diverticulitis，此為流言。
+   - 真正引發 inflammation 的原因來自於高 inflammatory 飲食，如精製穀物、糖和反式脂肪。
+
+3. **問題原因**
+   - 分析了哪些食物會引起 colon 的 inflammation：
+     - 禾谷類食品（面包、義大利面、麥片等）
+     - 植物油（玉米油、大豆油等）
+     - 高糖飲食
+     - 高 omega-6脂肪酸的食品
+   - 提到 antibiotic 的使用會破壞腸道菌群平衡，增加炎症風險。
+
+4. **解決方法**
+   - 建議採用酮ogenic diet（生酮飲食）和 time-restricted feeding（限時進食）來降低 inflammation。
+   - 強調通過健康飲食修復腸道菌群平衡。
+
+5. **健康建議**
+   - 推薦攝取富含葉綠素的蔬菜，如深色 leafy greens 和 wheatgrass。
+   - 増加發酵食品（如泡菜、酸菜、kimchi）的攝取，以幫助腸道微生物群的恢復。
+
+6. **結論**
+   - 駁斥了堅果和種子導致 diverticulitis 的看法，強調炎症來源於高 inflammatory 飲食。
+   - 提出具體飲食建議，如生酮飲食、增加葉綠素食物攝取和發酵食品攝取，以幫助恢復腸道健康。
+
+---
+
+### 詳細整理：
+
+1. **核心主題**
+   - 本文探討了在患有 diverticulitis 時是否應該避免堅果和種子的問題。
+   - 解釋了 diverticulitis 的成因及其與飲食的关系。
+
+2. **主要觀念**
+   - 堅果和種子不會導致或加重 diverticulitis，此為流言。
+   - 真正引發 inflammation 的原因來自於高 inflammatory 飲食，如精製穀物、糖和反式脂肪。
+   - 膠囊狀結構（diverticula）的炎症與食物阻塞無關。
+
+3. **問題原因**
+   - 分析了哪些食物會引起 colon 的 inflammation：
+     - 禾谷類食品：面包、義大利面、麥片等。
+     - 植物油：玉米油、大豆油等。
+     - 高糖飲食：糖分攝取過多，特別是存在 insulin resistance 的情況下。
+     - 高 omega-6脂肪酸的食品：如加工食品和油炸食物。
+   - 提到 antibiotic 的使用會破壞腸道菌群平衡，增加炎症條件的風險。
+
+4. **解決方法**
+   - 建議採用酮ogenic diet（生酮飲食）來降低 inflammation。
+   - 提倡 time-restricted feeding（限時進食），以幫助修復 colon 炎症。
+   - 強調通過健康飲食修復腸道菌群平衡。
+
+5. **健康建議**
+   - 推薦攝取富含葉綠素的蔬菜，如深色 leafy greens 和 wheatgrass。
+   - 增加發酵食品（如泡菜、酸菜、kimchi）的攝取，以幫助腸道微生物群的恢復。
+
+6. **結論**
+   - 駁斥了堅果和種子導致 diverticulitis 的看法，強調炎症來源於高 inflammatory 飲食。
+   - 提出具體飲食建議，如生酮飲食、增加葉綠素食物攝取和發酵食品攝取，以幫助恢復腸道健康。
 </details>
 
 <details>
-<summary>1563. Does Chocolate Have Caffeine? – Dr. Berg</summary><br>
+<summary>1563. [2018-06-15] Does Chocolate Have Caffeine? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XIkqvSl97Ng" target="_blank">
     <img src="https://img.youtube.com/vi/XIkqvSl97Ng/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 巧克力中含咖啡因及其他活性成分（如茶subcategory）。
 
+---
+
+### 主要觀念  
+1. **咖啡因含量**：  
+   - 一盎司巧克力中的咖啡因含量在4至20毫克之間，相較於咖啡和茶，其含量較低。  
+
+2. **Theobromine的影響**：  
+   - Theobromine是一種血管擴張劑，可放松血液 vessel，降低 blood pressure。  
+   - 也是 mood elevator，能提升情緒，常被用來紓解抑郁。  
+
+3. **咖啡因和Theobromine的作用差異**：  
+   - 咖啡因是血管收縮劑，可能增加 blood pressure。  
+   - Theobromine則可降低 blood pressure 并提升情緒。  
+
+---
+
+### 問題原因  
+- 巧克力中的咖啡因和Theobromine可能干擾睡眠，特別是在晚上攝取時。  
+- 多數市售巧克力含有高糖分，過量攝取 сахара可能對健康有害。  
+
+---
+
+### 解cision方法  
+1. **選擇低糖或無糖的巧克力**：  
+   - 可選用以天然代糖（如Stevia、Inulin或Jerusalem Artichoke根）為甜味劑的產品。  
+
+2. **控制攝取量和時間**：  
+   - 適當控制每日攝取量，並避免在睡前食用，以免影響睡眠質量。  
+
+---
+
+### 健康建議  
+- 巧克力可作為健康飲食的一部分，但需注意其糖分含量和咖啡因/Theobromine的潛在影響。  
+- 有心血管問題或失眠的人群應特別謹慎，必要時諮詢醫生意見。  
+
+---
+
+### 結論  
+- 巧克力含有少量咖啡因和其他活性成分，雖具有一定的健康益處，但需注意其可能的副作用和添加物（如糖分）。  
+- 消費者可通過選擇低糖、高品質的巧克力並合理安排攝取時間來最大化其好處。  
+
+---
+
+### 關鍵詞  
+1. **Caffeine**  
+2. **Theobromine**  
+3. **Blood Pressure Regulation**  
+4. **Mood Enhancement**  
+5. **Sugar Content in Chocolate**
 </details>
 
 <details>
-<summary>1562. Less Bowel Movements with Intermittent Fasting? – Dr. Berg</summary><br>
+<summary>1562. [2018-06-14] Less Bowel Movements with Intermittent Fasting? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=M5FUhtPowps" target="_blank">
     <img src="https://img.youtube.com/vi/M5FUhtPowps/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Summary of the Article: Less Bowel Movements During One-Minute Fasting - Is It Normal?
 
+---
+
+#### Core Theme:
+- The discussion focuses on the relationship between dietary habits, particularly one-minute fasting (intermittent fasting), and changes in bowel movement frequency.
+
+---
+
+#### Key Concepts:
+1. **Bowel Movement Frequency**: 
+   - Eating less frequently results in fewer bowel movements due to reduced food volume.
+   - Increased meal frequency leads to more frequent bowel movements.
+
+2. **Constipation vs. Reduced Bowel Movements**:
+   - Constipation is characterized by bloating, discomfort, and difficulty passing stools.
+   - Reduced bowel movements may simply indicate a less active digestive system without symptoms of distress.
+
+---
+
+#### Causes of the Issue:
+1. **Dietary Factors**:
+   - Insufficient fiber intake (especially from vegetables) can lead to reduced bowel movements or constipation.
+   - Excessive consumption of high-fiber foods, particularly cruciferous vegetables (e.g., cabbage, broccoli), may cause digestive discomfort if not gradually introduced.
+
+2. **Microbial Digestion**:
+   - The gut microbiota relies on fiber for nutrition; insufficient dietary fiber can disrupt microbial activity and digestion.
+
+3. **Gallbladder Function**:
+   - Lack of bile production or gallbladder dysfunction (e.g., congestive gallbladder) can lead to symptoms such as floating stools, bloating, and right lower rib cage discomfort.
+   - Bile is essential for lubricating the colon and aiding digestion.
+
+---
+
+#### Solutions and Health Recommendations:
+1. **Dietary Adjustments**:
+   - Gradually increase vegetable intake to support gut microbiota.
+   - Opt for steamed or fermented vegetables to improve digestibility.
+   - Avoid excessive consumption of cruciferous vegetables unless accustomed to them.
+
+2. **Gallbladder Support**:
+   - If gallbladder issues are suspected, consider supplements like "gallbladder formula" to support bile production and digestive function.
+
+3. **General Digestive Health**:
+   - Ensure adequate fiber intake from a variety of sources.
+   - Stay hydrated to facilitate smooth bowel movements.
+
+---
+
+#### Conclusion:
+- Reduced bowel movements during one-minute fasting are generally normal if accompanied by no symptoms of constipation or discomfort.
+- Constipation or digestive discomfort may indicate dietary imbalances or gallbladder dysfunction, requiring adjustments in diet and possibly supplementation.
+
+--- 
+
+This structured summary captures the essential points discussed in the article, providing a clear and objective overview.
 </details>
 
 <details>
-<summary>1561. Hot Flashes: Causes, Signs & Remedies – Dr. Berg</summary><br>
+<summary>1561. [2018-06-14] Hot Flashes: Causes, Signs & Remedies – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=U6BukNCtJiU" target="_blank">
     <img src="https://img.youtube.com/vi/U6BukNCtJiU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：-hot flashes（潮熱）的機制與管理
 
+---
+
+#### 主要觀念：
+1. **Hot Flashes的定義**  
+   - Hot Flash是一種臨床症狀，醫學上稱為「血管運動不穩定」（vasomotor instability），主要涉及下丘腦和卵巢之間的反饋迴路失衡。
+
+2. **生理機制**  
+   - 下丘腦感知核心溫度下降，引發肢體表面血管擴張（superficial vasodilation）以增加散熱。
+   - 這一過程導致核心溫度瞬間降低，通常每4分鐘發生一次，伴隨心悸、出汗等不適症狀。
+
+3. **Menopause的影響**  
+   - 女性一生約有400個卵子，每月釋放一個。更年期後（平均52歲），卵巢停止激素分泌。
+   - 睾酮レベルの低下が原因で、副腎 glandが代償的に同じホルモンを少量産生する。
+
+---
+
+#### 問題原因：
+1. **Adrenal Fatigue**  
+   - 副腎腺の機能不全が主因。副腎腺は卵巢の機能쇱plementationを行うため、そのضعفがHot Flashの直接原因となる。
+
+2. **Hormonal Imbalance**  
+   - 卵巣からのエストロゲン分泌停止に伴う急激なホルモンバランス崩壊。
+
+---
+
+#### 解決方法：
+1. **Hormone Replacement Therapy (HRT)**  
+   - エストロゲンの補充によりHot Flashを一時的に軽減させることが可能。しかし、副作用が懸念されるため、自然療法との組み合わせが推奨される。
+
+2. **Adrenal Support**  
+   - 副腎腺の機能を強化するサプリメントやハーブを使用して、根本的な原因に対処する。
+   - 例：Adrenal Fatigue Formula等。
+
+---
+
+#### 健康建議：
+1. **Natural Remedies**  
+   - Black Cohosh：フィトエストロゲンを提供し、ホルモンバランスを改善。
+   - Estrogen Balance：ハーブの混合物でエストロゲンを調節。
+   - DIM（Diindolylmethane）：エストロゲン代謝を正常化する。
+
+2. ** lifestyle Modifications**  
+   - 睡眠管理、壓力管理、適度な運動を通じて自律神經系統の安定を図る。
+
+---
+
+#### 結論：
+- Hot Flashはホルモンバランスと副腎腺機能とのコミュニケーション不全が主因。
+- 自然療法を優先し、必要に応じて医療介入を行うことが理想的。
+- 女性の健康状態を考慮し、個別化した治療プランを立てることが重要。
 </details>
 
 <details>
-<summary>1560. Is Having An Alkaline pH Healthy? – Dr. Berg</summary><br>
+<summary>1560. [2018-06-13] Is Having An Alkaline pH Healthy? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=yqAEh4bb4tg" target="_blank">
     <img src="https://img.youtube.com/vi/yqAEh4bb4tg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 論述身體不同部位的pH值特性及其重要性。
+- 探讨碱性身体是否更健康的观念。
+
+#### 主要觀念
+1. **身體多個部位具備不同的pH值**  
+   - 身體各部位（如胃、大腸、尿液等）具有不同的pH值，以支持各項生理功能。  
+   - 例如：胃酸pH值低於7，用於激活蛋白酶（如胃蛋白酶）；大 intestine的酸性環境有助於抑制有害微生物生長。
+
+2. **血液pH值的重要性**  
+   - 血液pH值需維持在7.35至7.45之間，任何 deviation都會影響健康。  
+   - 碱性血pH值（>7.45）可能引發健康問題，原因是pH值差異呈指數級別變化。
+
+3. **飲食與pH值的錯誤觀念**  
+   - 飲食的pH值並不能直接影響全身pH值。  
+   - 健康飲食（如攝取蔬菜、必需脂肪酸、胺基酸等）可幫助維持整體pH平衡，而非特定食物。
+
+#### 問題原因
+1. **對pH值普遍誤解**  
+   - 將身體整體pH值等同於某一個部位的pH值（如血液）。  
+   - 遇見「只需攝取 alkaline食物即可調整全身pH」的錯誤觀念。
+
+2. **過度干預pH平衡的方法**  
+   - 消費者使用小蘇打或人工製造的鹼性水，可能破壞胃酸、大腸酸性環境，影響消化功能及微生物平衡。  
+   - 這些做法可抑制消化酶活性，並增加有害微生物（如念珠菌）生長風險。
+
+#### 解決方法
+1. **了解身體各部位pH值的差異**  
+   - 認識不同器官和液體具備專屬pH需求，避免錯誤干預。  
+
+2. **健康飲食的重要性**  
+   - 選擇均衡飲食，攝取多種營養素，而非過度依賴特定食物來調整pH值。  
+
+3. **避免不必要的干預措施**  
+   - 拒絕濫用小蘇打或人工製造的鹼性水等產品，以免破壞身體自然平衡機制。  
+
+#### 健康建議
+1. **均衡飲食**  
+   - 多攝取蔬菜、優質蛋白質和必需脂肪酸，以維持整體健康與pH平衡。  
+
+2. **避免過度干預**  
+   - 避免濫用化學物質（如小蘇打）或特殊加工水，以免破壞消化功能及微生物平衡。  
+
+3. **了解pH值的科學知識**  
+   - 學習各部位pH值的功能和重要性，以做出合理的健康抉擇。  
+
+#### 結論
+- 身體不同部位具備特定pH值需求，整體來說，血液pH值需在7.35至7.45之間維持平衡。  
+- 健康飲食是維持身體pH平衡的關鍵，而非依賴特定食物或化學物質。  
+- 避免錯誤干預pH值，以免影響消化功能及微生物平衡，導致健康問題。
 </details>
 
 <details>
@@ -461,25 +842,90 @@
 </details>
 
 <details>
-<summary>1558. How To Adjust Keto Diet & Intermittent Fasting Patterns Around Your Lifestyle? – Dr. Berg</summary><br>
+<summary>1558. [2018-06-12] How To Adjust Keto Diet & Intermittent Fasting Patterns Around Your Lifestyle? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kAE1gewiTdQ" target="_blank">
     <img src="https://img.youtube.com/vi/kAE1gewiTdQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 探讨如何根据生活方式调整阿基托（Keto）与间歇性断食模式，以提高工作效率和生活质量。
 
+### 主要觀念
+1. **工作中的能量需求**：在工作中，尤其是需要高度集中注意力的时刻，许多人会感到疲倦和精力不足。
+2. **阿基托与间歇性断食的适应挑战**：部分人在尝试结合阿基托饮食法和间歇性断食时，难以适应并维持这种模式。
+
+### 問題原因
+- **消化系统负担**：在晚上摄入大量蛋白质和脂肪可能导致消化不适，影响睡眠质量。
+- **能量波动**：晚餐后过快入睡可能造成夜间胃部不适，进而干扰正常的睡眠周期。
+
+### 解决方法
+1. **调整进食时间**：
+   - 采用“早饱晚饿”策略，即在早晨和中午进食，晚上避免进食。
+2. **优化营养分配**：
+   - 将蛋白质和脂肪主要集中在早餐和午餐，减少晚餐的摄入量。
+3. **改善消化健康**：
+   - 减少夜间进食，避免胃部过度负担，促进良好的睡眠质量。
+
+### 健康建議
+- 在早晨和中午摄入足够的蛋白质和健康脂肪，以维持稳定的能量水平。
+- 避免在睡前大量进食，确保消化系统得到充分休息。
+- 根据个人的工作节奏和生活习惯调整进食时间，逐步适应阿基托与间歇性断食模式。
+
+### 結論
+通过调整早餐和午餐的营养摄入，减少晚餐的食用量，并结合合理的进食时间安排，可以有效改善工作中的能量水平和消化健康。这种方法不仅能帮助更好地适应阿基托与间歇性断食模式，还能提升整体的生活质量。
+
+---
+
+### 總結
+采用“早饱晚饿”的策略，将蛋白质和脂肪主要集中在早晨和中午，减少晚餐的摄入量，既能提高工作效率，又能改善消化健康，是一种值得尝试的饮食调整方法。
 </details>
 
 <details>
-<summary>1557. Causes of High Blood Glucose on Keto – Dr. Berg</summary><br>
+<summary>1557. [2018-06-12] Causes of High Blood Glucose on Keto – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KqEqzi6eXGY" target="_blank">
     <img src="https://img.youtube.com/vi/KqEqzi6eXGY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理：高血糖在低碳饮食与间歇性断食中的原因及应对策略
 
+#### 核心主題  
+- 高血糖现象在遵循低碳饮食（如酮 diet）和间歇性断食的人群中可能出现。
+
+#### 主要觀念  
+1. **胰岛素抵抗的普遍性**：  
+   大多数人群存在不同程度的胰岛素抵抗，导致体内胰岛素水平显著升高（5-9倍正常值）。  
+
+2. **胰岛素的功能与影响**：  
+   胰岛素通过调节血糖水平，将血液中的葡萄糖推入细胞内，从而降低血糖浓度。  
+
+3. **长期高胰岛素血症的后果**：  
+   长期高水平的胰岛素会耗尽胰腺功能，导致胰岛素分泌减少，最终引发血糖升高，进入前期糖尿病甚至糖尿病阶段。
+
+#### 問題原因  
+- **胰岛素抵抗与高胰岛素血症**：  
+  在开始低碳饮食和间歇性断食之前，体内已经存在较高的胰岛素水平。当去除高糖、精制碳水化合物等刺激因素后，胰岛素水平下降，失去了原本通过降低血糖的“推力”，导致血糖反弹上升。
+
+#### 解決方法  
+1. **调整饮食结构**：  
+   采用低碳饮食和间歇性断食，减少精制糖和高升糖指数食物的摄入，逐步改善胰岛素抵抗。  
+
+2. **过渡期管理**：  
+   在低碳饮食初期可能会出现血糖反弹现象，这是身体适应过程的一部分。随着时间推移，胰岛素水平趋于正常，血糖控制也会逐渐稳定。
+
+3. **监测与耐心**：  
+   定期监测血糖变化，了解自身状况，保持耐心，给予身体足够的时间进行调整。
+
+#### 健康建議  
+- **逐步过渡**：在开始低碳饮食和间歇性断食时，建议循序渐进，避免突然大幅改变饮食习惯。  
+- **保持均衡营养**：确保摄入足够的维生素、矿物质和其他必需营养素，以支持身体的整体健康。  
+- **结合运动**：适量的有氧运动和力量训练有助于提高胰岛素敏感性，改善血糖控制。
+
+#### 總結  
+高血糖在低碳饮食和间歇性断食初期出现的现象是暂时性的，反映了身体正在恢复正常的代谢功能。通过持续遵循健康的饮食模式、保持耐心以及必要的监测，血糖水平将逐渐恢复正常，并带来长期的健康益处。
 </details>
 
 <details>
