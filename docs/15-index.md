@@ -1,67 +1,353 @@
 <details>
-<summary>1600. Drinking Too Much Water Will Do More Harm Than Good – Dr. Berg on Hyponatremia and Overhydration</summary><br>
+<summary>1600. [2018-07-05] Drinking Too Much Water Will Do More Harm Than Good – Dr. Berg on Hyponatremia and Overhydration</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ccpkaie0LCQ" target="_blank">
     <img src="https://img.youtube.com/vi/ccpkaie0LCQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+## 1. 核心主題  
+- 超量飲水可能帶來的危害多於益處。  
+- 鈴木正夫的著作《Waterlogged》探討了過度hydration的風險，挑戰了傳統每日攝取8杯水的建議。  
 
+---
+
+## 2. 主要觀念  
+- **傳統观念**：人們普遍相信每天飲用8杯水（約2升）對健康有益，特別是在運動時需要大量補充水分以防止脫水。  
+- **Tim Noakes的研究**：Tim Noakes博士指出，dehydration並非如一般所擔心的那麼常見，而overhydration或「水分過多症」（hyponatremia）則是有實證支持的 serious健康問題。  
+
+---
+
+## 3. 問題原因  
+- **低血 sodium濃度**：過量攝取水會稀釋血液中的sodium濃度，導致神經系統和心血管系統受影響。  
+- **腦部腫脹**：嚴重的hyponatremia可引發腦水肿，對神經造成壓力。  
+- **心臟負荷加重**：過量飲水增加了心臟泵血的壓力。  
+- **致命風險**：個案報告顯示，有些人因過度飲水而死亡。  
+
+---
+
+## 4. 解決方法  
+- **聆聽身體 signals**：依循thirst感來決定是否喝水。  
+- **適量攝取水分**：在運動時，根據個人的流汗情況和活動強度補充水分，避免一次性過量飲水。  
+- **監控symptoms**：注意headaches、.temperature上升、手腳腫脹等可能指徵，這些可能是overhydration的信號。  
+
+---
+
+## 5. 健康建議  
+- 在運動時，尤其是長時間或高強度活動後，應避免立即大量飲水。  
+- 配合鹽分攝取：在大量流汗後，可補充含電解質的液體以維持sodium平衡。  
+- 請教專業醫療人員：如有疑慮或曾有過hydration相關問題，建議諮詢醫生或營養師的意見。  
+
+---
+
+## 6. 結論  
+- 過度飲水可能帶來 serious health risks，包括hyponatremia和器官功能受損。  
+- 身體自有調節mechanisms（如thirst感）可幫助我們維持水分平衡。  
+- 建議放棄「多多益善」的hydration觀念，轉而採取更為科學和個化的方式管理水分攝取。
 </details>
 
 <details>
-<summary>1599. Get Your Glucose From Proteins, Fats, and Amino Acids – Dr. Berg on Gluconeogenesis</summary><br>
+<summary>1599. [2018-07-04] Get Your Glucose From Proteins, Fats, and Amino Acids – Dr. Berg on Gluconeogenesis</summary><br>
 
 <a href="https://www.youtube.com/watch?v=li0adE4A7fA" target="_blank">
     <img src="https://img.youtube.com/vi/li0adE4A7fA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+---
+
+#### **核心主題**
+- 身體的能量來源多樣化：身體並非只能依靠葡萄糖（血糖）作為能量來源，還可以利用酮體、脂肪酸等其他形式。
+- 糖類攝取的可替代性：即使降低碳水化合物攝取量，身體仍能通過脂肪和蛋白質生成足夠的血糖。
+
+---
+
+#### **主要觀念**
+1. **酮體的作用**：
+   - 體可以提供身體約40%至70%的能量。
+   - 腦部可利用酮體作為主要能量來源，最多可達70%，剩餘部分由乳酸或葡萄糖補充。
+
+2. **脂肪的多重角色**：
+   - 脂肪不僅可轉化為酮體，還能生成脂肪酸，作為身體的能量來源。
+   - 脂肪中的甘油部分可轉化為血糖（ glycolysis through gluconeogenesis）。
+
+3. **蛋白質的代謝功能**：
+   - 某些氨基酸可以轉化為葡萄糖，支援血糖需求。
+
+4. **血糖的內在生成能力**：
+   - 身體可通过「糖異生作用」（gluconeogenesis）將脂肪和蛋白質轉化為葡萄糖。
+   - 成年人每日約需36克葡萄糖，可完全由脂肪和蛋白質供應。
+
+---
+
+#### **問題原因**
+- 傳統觀念限制：普遍認為身體只能依靠葡萄糖作為主要能量來源，忽略了酮體和脂肪酸的潛力。
+- 碳水化合物依賴性：過度依賴碳水化合物攝取，忽視了其他營養素的多樣化作用。
+
+---
+
+#### **解決方法**
+1. **調整飲食結構**：
+   - 減少碳水化合物攝取量，增加健康脂肪和高-quality蛋白質的攝入。
+   - 選擇富含中鏈脂肪酸的食物（如椰子油）以促進酮體生成。
+
+2. **利用身體的代謝能力**：
+   - 依靠糖異生作用，利用脂肪和蛋白質生成所需葡萄糖。
+   - 確保每日所需的36克血糖來自於脂肪和蛋白質的轉化。
+
+---
+
+#### **健康建議**
+1. **飲食規劃**：
+   - 減少精製碳水化合物攝取，增加健康脂肪（如 nuts, avocados, olive oil）和高-quality蛋白質（如瘦肉、魚類）。
+   - 確保攝入足夠的必需氨基酸以支援糖異生。
+
+2. **生活方式調整**：
+   - 適當運動可提高酮體利用率，增強身體對脂肪和蛋白質的能量轉化能力。
+   - 減輕壓力，避免壓力過大導致血糖波動。
+
+3. **監測與調適**：
+   - 定期監測酮體水平（如有條件），以評估飲食調整的效果。
+   - 根據個人情況調整飲食比例，確保能量供應均衡。
+
+---
+
+#### **結論**
+- 身體具備多樣化的能量來源，並非絕對依賴碳水化合物。
+- 通過降低碳水攝取、增加健康脂肪和蛋白質，可有效利用酮體和脂肪酸作為主要能量來源。
+- 糖異生作用確保身體在低碳飲食下仍能滿足血糖需求。
+
+---
+
+**註**：此文整理基於原文內容，使用正式學術用語並分段歸納。
 </details>
 
 <details>
-<summary>1598. Diarrhea On Keto Diet? – Dr. Berg</summary><br>
+<summary>1598. [2018-07-04] Diarrhea On Keto Diet? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=-lGLw0S_0Gw" target="_blank">
     <img src="https://img.youtube.com/vi/-lGLw0S_0Gw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Key Points of the Article
 
+#### Core Theme
+The article discusses the issue of experiencing diarrhea while following a ketogenic diet, focusing on potential causes and solutions.
+
+#### Major Concepts
+1. **Ketosis and Digestion**: The body's adaptation to digesting higher amounts of saturated fats and vegetables in ketosis.
+2. **Microbiome Impact**: Changes in gut microbiota due to increased vegetable intake can affect digestion.
+
+#### Causes of Diarrhea
+1. **High Saturated Fat Intake**: Increased consumption of saturated fats, such as MCT oil, butter, or coconut oil, can stimulate bile production and potentially lead to digestive issues.
+2. **Vegetable Overload**: Certain vegetables may overwhelm the gut microbiota, leading to diarrhea.
+
+#### Solutions and Recommendations
+1. **Reduce Saturated Fat Intake**: Temporarily decrease liquid forms of saturated fat (e.g., MCT oil) to assess if this alleviates symptoms.
+2. **Adjust Vegetable Consumption**:
+   - Avoid problematic vegetables initially: onions, garlic, artichoke, beetroot, leeks, Brussels sprouts, cabbage, green beans, avocados, blackberries, cauliflower, mushrooms, and fennel.
+   - Opt for easily digestible vegetables: green lettuce, cucumber, tomato, zucchini, bell pepper, and bean sprouts.
+   - Introduce fermented vegetables gradually to support gut health.
+
+#### Health Recommendations
+- Monitor vegetable intake and transition slowly to more challenging options as the microbiome adapts.
+- Consider avoiding pre-packaged salads with added ingredients; opt for plain green lettuce.
+
+#### Conclusion
+Diarrhea during ketosis is often due to adapting to increased fat and vegetable consumption. By adjusting dietary components and allowing time for the gut microbiome to adjust, symptoms can be managed effectively. Gradual reintroduction of diverse vegetables over three to four weeks is recommended.
 </details>
 
 <details>
-<summary>1597. Are Ketones Poisons or Therapeutic Fuel? – Diabetic Ketoacidosis vs. Nutritional Ketosis – Dr. Berg</summary><br>
+<summary>1597. [2018-07-03] Are Ketones Poisons or Therapeutic Fuel? – Diabetic Ketoacidosis vs. Nutritional Ketosis – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=4Psqtx-jNvo" target="_blank">
     <img src="https://img.youtube.com/vi/4Psqtx-jNvo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題  
+- 比較酮症（Nutritional Ketosis）和糖尿病性酮症酸中毒（Diabetic Ketoacidosis）。  
+- 解釋酮體的健康益處與常見誤解。  
+
+#### 主要觀念  
+1. **酮症 vs 糖尿病性酮症酸中毒**：  
+   - 酮症是由低碳水化合物飲食引發的生理現象，胰島素足夠的情況下安全且有益。  
+   - 糖尿病性酮症酸中毒是1型糖尿病患者因缺乏胰島素導致酮體過高、血液酸化失衡的危險情況。  
+
+2. **酮體的功能與益處**：  
+   - 酮體是一種高效的能量來源，需氧量低，產生的廢物少於葡萄糖。  
+   - 具有神經保護作用，可幫助修復腦部損傷和神經組織。  
+   - 增加血液流動性（約39%），改善缺氧症狀。  
+
+3. **酮體與 Alzheimer 病及其他疾病的关系**：  
+   - 酮飲食可防止蛋白質在大脑中積累，降低 Alzheimer病風險。  
+   - 葡萄糖代谢失常會導致腦部萎縮、記憶力減退和氧化應激等問題。  
+
+#### 問題原因  
+- 公眾對酮症的理解不足，誤將酮症與糖尿病性酮症酸中毒混為一談。  
+- 医療從業者可能缺乏關於酮症的最新研究知識。  
+
+#### 解決方法  
+1. **教育與科普**：  
+   - 提高公眾和醫療人員對酮症和糖尿病性酮症酸中毒的	distinction。  
+2. **科学研究的支持**：  
+   - 進一步研究酮飲食在神經保護、腦損傷修復等方面的效果。  
+
+#### 健康建議  
+1. **飲食選擇**：  
+   - 選擇 ketogenic 飲食需在胰島素足夠的情況下進行，避免與糖尿病等疾病混淆。  
+2. **諮詢專業人士**：  
+   - 在開始低碳水化合物飲食前，諮詢醫生或營養師，確保健康狀況適合。  
+
+#### 結論  
+- 酮症是一種安全且有益的生理現象，具有多方面的健康益處。  
+- 遏制酮體的危險性質主要是由於對其機理和效果缺乏了解。  
+- 未來研究應進一步探索酮飲食在神經科學和其他臨床領域的應用潛力。
 </details>
 
 <details>
-<summary>1596. Why Diabetics Continue to Need More Medications? – Dr. Berg</summary><br>
+<summary>1596. [2018-07-03] Why Diabetics Continue to Need More Medications? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=eBpKHgTh2jo" target="_blank">
     <img src="https://img.youtube.com/vi/eBpKHgTh2jo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：糖尿病患者需要額外藥物的原因及飲食管理
 
+---
+
+#### **核心主題**
+- 糖尿病患者的血糖控制與長期健康管理。
+- 胰島素抵抗和脂肪堆積在代謝疾病中的作用。
+
+---
+
+#### **主要觀念**
+1. **糖尿病的定義**：
+   - 糖尿病是一種影響糖分 metabolism 的慢性疾病，導致血糖水平升高。
+   - 主要原因與飲食中碳水化合物攝取過多有關。
+
+2. **藥物的作用機制**：
+   - 胰島素及其他降糖藥物主要降低血液中的葡萄糖濃度。
+   - 藥物並未消除體內的糖分，而是將其轉移至其他部位（如脂肪和肝臟）。
+
+3. **糖分儲存與代謝問題**：
+   - 長期使用藥物會導致糖分在脂肪細胞中堆積。
+   - 過量脂肪累積會影響內臟器官（如胰腺、肝脏、腎臟等），引發進一步的健康問題。
+
+---
+
+#### **問題原因**
+1. **代謝失衡**：
+   - 糖尿病的根源在於飲食中碳水化合物攝取過多，導致胰島素抵抗。
+   - 藥物只能暫時降低血糖，未能解決糖分來源的問題。
+
+2. **脂肪堆積與器官損傷**：
+   - 過量糖分轉化為脂肪，並在內臟器官中積累。
+   - 這會加劇胰島素抵抗，導致病情惡化。
+
+---
+
+#### **解決方法**
+1. **飲食調整**：
+   - 减少碳水化合物攝取，特別是精制糖和高GI食物。
+   - 選擇低碳水化合物的飲食模式（如生酮 diets）以控制血糖水平。
+
+2. ** lifestyle modification**：
+   - 通過健康管理（如定期運動、壓力管理）來改善代謝功能。
+
+---
+
+#### **健康建議**
+1. **飲食計劃**：
+   - 遵循低碳水化合物飲食，如生酮 diet 或間歇性禁食。
+   - 增加膳食纖維攝取，幫助血糖穩定。
+
+2. **藥物使用與健康管理**：
+   - 藥物只能暫時控制血糖，需結合飲食調整和生活方式改變。
+   - 定期監測血糖、血脂等指標，評估治療效果。
+
+---
+
+#### **結論**
+- 糖尿病的病因在於長期不健康飲食引起的代謝失衡。
+- 藥物只能治標，關鍵在於通過飲食和 lifestyle modification 治本。
+- 遵循科學的飲食計劃（如生酮 diet）是改善糖尿病的重要手段。
+
+--- 
+
+以上整理基於文章內容與學術用語，條理清晰地彙整了 diabetes 的核心問題及解決方向。
 </details>
 
 <details>
-<summary>1595. Improving Sleep on the Ketogenic Diet / Intermittent Fasting Plan – Dr. Berg</summary><br>
+<summary>1595. [2018-07-02] Improving Sleep on the Ketogenic Diet / Intermittent Fasting Plan – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=qmltV7HWP00" target="_blank">
     <img src="https://img.youtube.com/vi/qmltV7HWP00/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：睡眠在生酮飲食和間歇性禁食中的重要性
 
+### 主要觀念：
+1. **睡眠對脂肪燃燒的作用**：
+   - 睡眠期間是促生長激素分泌的高峰期，該激素負責燃燒硬質脂肪。
+   - 足夠的睡眠有助於提高次日的基礎代謝率。
+
+2. **睡眠與胰島素抵抗及血 sugar 控制**：
+   - 胰島素抵抗患者若缺乏睡眠，血糖水平會進一步紊亂。
+   - 睡眠不足可導致血糖控制不佳，加重糖尿病症狀。
+
+3. **生酮飲食和間歇性禁食對睡眠的影響**：
+   - 遵循生酮飲食和間歇性禁食可以改善夜間尿液頻率，從而促進更好的睡眠。
+   - 睡眠需求在低碳水化合物飲食下會降低。
+
+### 問題原因：
+1. **食物攝取模式**：
+   - 頻繁的零食攝取會擾亂胰島素水平，影響睡眠品質。
+
+2. **膀胱問題**：
+   - 夜間頻繁起夜可能與胰岛素抵抗相關，需通過飲食調整來改善。
+
+3. **壓力和腎上腺功能失調**：
+   - 慢性壓力導致身體處於「戰或逃」模式，影響睡眠。
+   - 腎上腺過度活躍會干擾夜間的深度睡眠。
+
+4. **消化問題**：
+   - 食用易致脹氣的食物（如十字花科蔬菜）會擾亂胃腸道功能，影響睡眠品質。
+
+5. **阻型睡眠呼吸中止症**：
+   - 胰岛素抵抗和過高的血糖水平可能導致睡眠呼吸中止症。
+
+### 解決方法：
+1. **飲食調整**：
+   - 避免食用易致脹氣的食物，選擇容易消化的蔬菜（如生菜）。
+   - 遵循生酮飲食和間歇性禁食模式，降低夜間尿液頻率。
+
+2. **壓力管理**：
+   - 使用營養補充劑支持腎上腺功能，例如攝取必需脂肪酸和維生素C。
+   - 通過放鬆技巧（如冥想）來降低整體壓力水平。
+
+3. **改善消化健康**：
+   - 選擇清淡易消化的食物，避免過量攝取高纖維或十字花科蔬菜。
+   - 可考慮使用益生菌或其他腸道調理方法來增強消化功能。
+
+4. **呼吸中止症的管理**：
+   - 通過控制血糖水平和改善胰岛素敏感性來降低阻塞性睡眠呼吸中止症的風險。
+
+### 健康建議：
+1. 確定主要干擾睡眠的原因（如壓力、消化問題或膀胱問題），並針對性地進行調整。
+2. 遵循生酮飲食和間歇性禁食時，注意食物選擇和攝取模式，以避免影響睡眠品質。
+3. 舉行定期健康檢查，評估胰島素抵抗和其他潛在的健康問題。
+
+### 總結：
+本文強調了睡眠在生酮飲食和間歇性禁食中的重要性，並探討了影響睡眠的主要問題及其解決方法。通過調整飲食、管理壓力和改善消化功能，可以顯著提升睡眠品質，從而增強整體健康狀況。
 </details>
 
 <details>
@@ -76,25 +362,115 @@
 </details>
 
 <details>
-<summary>1593. Fatty Acid Deficiency Despite Taking Essential Fatty Acids (EFA)? – Dr.Berg</summary><br>
+<summary>1593. [2018-07-01] Fatty Acid Deficiency Despite Taking Essential Fatty Acids (EFA)? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ZwuZi9YNKs4" target="_blank">
     <img src="https://img.youtube.com/vi/ZwuZi9YNKs4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節一：核心主題  
+- 探讨冷波羅蘭迪亞（Rolândia）的气候现象及其对当地居民生活和环境的影响。  
 
+### 小節二：主要內容與觀念  
+1. **冷波特性**：  
+   - 描述冷波作为一种极端天气事件，其特征包括低温、降水等。  
+2. **影響範圍**：  
+   - 受影响的区域集中在學校和Rua do Sol，這兩地是羅蘭迪亞市的歷史文化中心（bons x17）。  
+3. **水資源管理**：  
+   - 强調冷波期間需注意水源管理和防洪措施。  
+
+### 小節三：問題與原因  
+- 冷波帶來的低溫和大量降水可能導致：  
+  1. 環境災害，如洪水或土地滑坡。  
+  2. 生活不便，影響交通和教育活動。  
+
+### 小節四：解決方法建議  
+1. **應急措施**：  
+   - 提升城市排水系統，防止積水和洪澇。  
+2. **教育宣導**：  
+   - 加強冷波来临前的預警系統和應對訓練。  
+
+### 小節五：健康建議  
+- 居民需注意保暖，特別是老人、兒童及免疫力較低的人群。  
+- 避免在積水地區活動，以防傳染病或意外傷害。  
+
+### 小節六：結論  
+冷波羅蘭迪亞作為一種自然現象，對當地社區的影響不容忽視。通過有效的應急管理和公共教育，可以最大程度地減輕其帶來的影響，保障居民生活和環境安全。
 </details>
 
 <details>
-<summary>1592. Why High LDL Cholesterol on the Ketogenic Diet? – Dr. Berg</summary><br>
+<summary>1592. [2018-07-01] Why High LDL Cholesterol on the Ketogenic Diet? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=dCiRB29vkds" target="_blank">
     <img src="https://img.youtube.com/vi/dCiRB29vkds/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：酮egenicdiet（ ketogenic diet）對血脂的影響，特別是LDL cholesterol的變化及其健康意義。
 
+---
+
+#### 主要觀念：
+1. **脂肪細胞的組成**：
+   - 脂肪細胞主要由三酰甘油（triglycerides）和膽固醇（cholesterol）組成。
+   
+2. **酮egenicdiet的作用機制**：
+   - 在酮egenicdiet中，脂肪細胞中的三酰甘油被釋放並作為能量來源被燃燒。
+   - 胆固醇無法直接用作燃料，因此在脂肪細胞 shrink 時，膽固醇需要通過肝臟和膽囊排出。
+
+3. **LDL cholesterol的變化**：
+   - 在酮egenicdiet初期，可能會出現LDL cholesterol暫時性升高。
+   - 這種升高通常是脂肪細胞中積累的舊膽固醇被釋放出來，並經過肝臟和膽囊處理的結果。
+
+4. **膽固醇的處理事項**：
+   - 胆固醇需要通過 bile acids 來幫助分解。如果 bile不足，可能會導致膽固醇石的形成。
+   - 健康飲食（如攝入足夠的蔬菜）通常可以避免此問題，但對於易感人群，可考慮使用純化膽鹽。
+
+---
+
+#### 問題原因：
+1. **脂肪細胞 shrink 的結果**：
+   - 在酮egenicdiet中，脂肪細胞逐漸萎縮，儲存於其中的三酰甘油和膽固醇被釋放。
+   
+2. **膽固醇的排出途徑受阻**：
+   - 如果肝臟或膽囊功能受損（如 bile不足），膽固醇可能無法順利排出，導致其在血液中積累。
+
+3. **初期代謝的不適應**：
+   - 酮egenicdiet初期，身體可能需要時間來調整膽固醇的處理機制，導致暫時性血脂異常。
+
+---
+
+#### 解決方法：
+1. **改善肝臟和膽囊功能**：
+   - 使用純化膽鹽（purified bile salts）來幫助溶解膽固醇石。
+   - 確保攝入足夠的蔬菜和其他富含纤维的食物，以促進腸胃健康。
+
+2. **健康管理**：
+   - 定期監測血脂水平，特別是LDL cholesterol和HDL cholesterol的比例。
+   - 如果膽囊功能不佳，建議諮詢醫生或營養師，進行適當的干預。
+
+---
+
+#### 健康建議：
+1. **飲食調整**：
+   - 确保酮egenicdiet的健康實施，避免過度攝入加工食品和反式脂肪。
+   - 多攝取蔬菜和其他高fiber食物，以促進膽固醇的正常排出。
+
+2. **生活方式改變**：
+   - 配合間歇性禁食（intermittent fasting）等方法，進一步提高酮egenicdiet的效果。
+   - 維持適當的運動習慣，促進全身代謝率的提升。
+
+3. **定期監測**：
+   - 定期進行血 lipid 檢測，隨時掌握血脂變化情況。
+   - 如果出現持續性高LDL cholesterol或其他異常，及時就醫檢查。
+
+---
+
+#### 結論：
+1. 酮egenicdiet在初期可能導致LDL cholesterol的暫時性升高，但這通常是身體清除舊膽固醇的正常反應。
+2. 只要實施得當，酮egenicdiet是一種安全且有效的健康飲食方式，可以幫助降低體重並改善整體代謝狀況。
+3. 理解和管理膽固醇的變化至關重要，建議在專業人員的指導下進行。
 </details>
 
 <details>

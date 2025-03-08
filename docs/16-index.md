@@ -1077,24 +1077,97 @@
 </details>
 
 <details>
-<summary>1602. Why Can I Eat Pasta & Pizza in European Countries, But Not in America? – Dr. Berg</summary><br>
+<summary>1602. [2018-07-07] Why Can I Eat Pasta & Pizza in European Countries, But Not in America? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=X6GMuG7NISQ" target="_blank">
     <img src="https://img.youtube.com/vi/X6GMuG7NISQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理：為何歐洲人到美國後吃麵食會腹脹？
 
+---
+
+#### **核心主題**
+- 本文探討了為什麼移居美國的歐洲人在食用 pasta、pizza 等穀物時會感到腹脹，而在家鄉卻不會。
+
+---
+
+#### **主要觀念**
+1. **谷物攝取問題**  
+   - 在美國、加拿大和英國等地，榖物通常經過「强化」（fortification），即添加鐵和其他B群維生素。  
+2. **強化劑的影響**  
+   - 添加的鐵元素會在體內累積，引發氧化應激反應，損害組織並擾亂腸道菌群平衡。  
+3. **基因改造 organism (GMO) 的影響**  
+   - 美國榖物和添加的維生素可能來自基改作物，這些作物常含有除草劑殘留，進一步影響消化系統。
+
+---
+
+#### **問題原因**
+1. **鐵元素的毒性累積**  
+   - 人體每天只能排出微量鐵，長期攝取過量會導致氧化傷害，特別是針對胰島素敏感組織（如動脈壁、腦部和胰臟）。  
+2. **B維生素來源的安全性問題**  
+   - 美國榖物中添加的B維生素通常來自基改酵母，而這些酵母可能攝入基改玉米製成的葡萄糖，導致除草劑殘留。  
+3. **腸道不適**  
+   - 鐵元素和B維生素的過量攝取會擾亂腸道菌群平衡，導致腹脹和其他消化問題。
+
+---
+
+#### **健康建議**
+1. **限制榖物攝取**  
+   - 尤其是加工穀物，因其添加了不必要的營養成分且可能對健康有害。  
+2. **選擇未強化的食物**  
+   - 選擇無基改、未強化的食品，以降低攝取有害 additives的風險。  
+3. **增強鐵排出能力**  
+   - 通過攝取富含維生素C的食物來促進鐵吸收和排出，避免鐵過量累積。  
+
+---
+
+#### **結論**
+- 美國榖物的「强化」政策導致了歐洲移民在食用後出現消化問題。  
+- 解決方案包括限制加工穀物攝取、選擇未強化的食品以及注意營養均衡。
 </details>
 
 <details>
-<summary>1601. The Truth About LDL Cholesterol: Dr. Berg's Interview with Dave Feldman</summary><br>
+<summary>1601. [2018-07-06] The Truth About LDL Cholesterol: Dr. Berg's Interview with Dave Feldman</summary><br>
 
 <a href="https://www.youtube.com/watch?v=eVALtn7atVk" target="_blank">
     <img src="https://img.youtube.com/vi/eVALtn7atVk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題  
+- 探讨酮egenic饮食对血脂代谢的影响及其健康意义。  
+
+#### 主要觀念  
+1. **酮egenic饮食的动态性**：血清胆固醇水平在酮egenic饮食下具有高度可变性，可能在短时间内显著波动。  
+2. **快閃族肥ilitrates的重要性**：进行空腹血脂检测以获得准确结果，避免餐后脂肪对血液的影响。  
+
+#### 問題原因  
+- 未遵循 fasting 指南可能导致血脂检测结果偏差。  
+- 过度关注单一指标（如LDL）而忽视整体代谢状况。  
+
+#### 解決方法  
+1. **空腹血檢**：建议进行12-14小时的水禁食后检测血脂，以获得可靠数据。  
+2. **動態監測**：定期跟踪血脂变化，了解身体对饮食调整的反应。  
+3. **整體代谢评估**：关注整体能量代谢而非单一指标，如LDL或HDL。  
+
+#### 健康建議  
+1. **酮egenic飲食策略**：  
+   - 保持低胰岛素水平，促进脂肪分解和酮体生成。  
+   - 若出现代谢适应性问题，逐步调整饮食结构。  
+
+2. **血檢注意事項**：  
+   - 确保在空腹状态下进行血脂检测以避免餐后影响。  
+   - 与医生讨论个人代谢状况及检测频率。  
+
+3. **生活方式建議**：  
+   - 增加身體活動量，促進代謝 flexibility。  
+   - 注意飲食多樣化，平衡宏量營養素攝取。  
+
+#### 總結  
+酮egenic饮食对血脂代谢具有显著影响，但其效果因人而異。通过空腹检测、动态监测和整体代谢评估，可以更好地了解个人健康狀況並制定相應策略。
 </details>
 

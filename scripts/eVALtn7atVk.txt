@@ -1,0 +1,1053 @@
+[Music]
+hey guys I have a special guest today
+Dave Fellman
+he's a senior software engineer
+okay so work he is the master at
+cholesterol you know and what we you
+know as far as a ketogenic diet goes
+there's so many people that have
+questions about all different aspects
+but one we're gonna focus on today has
+to do with what happens when your
+cholesterol goes up because Dave is the
+man to go to I mean I think it really
+takes someone from the outside of the
+now profession that has enough space
+enough data on logic and systems and
+looking at computers to really observe
+this is these interesting phenomena so
+because I think your body is very
+similar to a computer it has certain
+systems and feedback loops and so so I
+guess the the let's just talk about the
+the most important thing I want to bring
+up can we discuss what happens when you
+dookied oh you're doing in a minute
+fasting and all of a sudden your cluster
+goes up and then you start freaking out
+is that a concern and let's talk about
+that well of course I per your original
+comment I like to joke that the human
+body was doing cloud computing long
+before we were and indeed just like a
+computer it can be a bit complex so I
+try not to answer you know should I be
+concerned or shouldn't I be by a single
+marker but I will say this I will say
+that to this very day I'm finding more
+and more that LDL is one of the least
+useful markers to look at to determine
+your metabolic health and that actually
+there's a very mechanistically sensible
+reason for your LDL to climb when you
+grow on a low card ketogenic diet if
+you're being fueled by fat a lot more
+and so I'm gonna try not to get into the
+weeds too much I sort of want to keep
+this you know friendly for for any
+audience member but one of the most
+common misconceptions that does need to
+get relieved is that
+many people think when you're on a
+ketogenic diet that all of the fat you
+eat gets burned into or gets gets broken
+down into ketones and it's not actually
+true a fraction of the fatty acids you
+ingest will get turned into get ketones
+and that's especially important for the
+brain but actually the majority of
+energy your tissues are using are in the
+form of fatty acids that you're
+ingesting and that are also stored in
+your fat cells in your body that are
+provided directly to your cells and one
+of the means by which they're provided
+or in these kinds of boats that I know
+you talked about in some of your videos
+before that we like to call lipoproteins
+lipid carrying proteins these these
+boats are actually amazing it's the
+genius of the human body that it makes
+it because it carries all of the
+different lipids these fats that include
+not just what you're using for energy
+but also include cholesterol and
+cholesterol it's a common misconception
+people think of cholesterol as being the
+same as poison almost and that our body
+is weirdly are making this poison to
+kill us but the truth is cholesterol is
+in every single cell in your body
+in fact the animal kingdom couldn't
+function without cholesterol holding the
+membranes of every single one of those
+cells together yeah exactly and I think
+that's a good point just to bring up
+from the very beginning um we need
+cholesterol to make hormones doesn't
+would you agree that cholesterol one of
+the functions is it's kind of like a
+protective type band-aid or protective
+absolutely yeah absolutely well and
+another common misconception is that the
+cholesterol in your blood is deleterious
+and that the lower your cholesterol the
+better right as I'm as I'm sure you're
+aware there are many many studies that
+indicate that when people really
+bottomed out on cholesterol there's a a
+wide range of different problems that
+can occur there's lots of issues with
+cognition there are a lot of problems
+with sex hormones a lot of females for
+example will lose their cycle
+unfortunately there there are many other
+issues that can come up with for example
+infection and disease a lot of people
+don't realize that these same boats were
+talking about also clear pathogens in
+the body and this is why people who even
+have the genetic disneys known as
+familial hypercholesterolemia which is
+genetically they have higher levels of
+lipoproteins are known to survive
+pandemics which is why it was considered
+an advantage before the 20th century
+because you typically had a longer
+survival time when infection was a much
+bigger concern not that it isn't a big
+concern now but particularly as you get
+older I mean the data is very compelling
+that the higher your cholesterol the
+more likely your survival and it's
+certainly something you want to be very
+mindful of before you consider taking
+medication wow that's awesome
+being an engineer let's compare this the
+feedback loop with what happens when you
+increase or decrease your dietary
+cluster
+on that that's right I call it the
+inversion pattern so to be sure a lot of
+people go on a ketogenic diet and kind
+of unintuitive Li the more the more lean
+and/or fit you are surprisingly the more
+likely it is that your C or LDL
+cholesterol go up and that's what I
+found in my case my sister and my dad
+had also got inspired to go on the huge
+ink guide at the same time I did their
+cholesterol went up just slightly mine
+went up by a lot and so that's what got
+me very inspired to try to look into
+what was going on and sure enough I
+found that my baseline cholesterol while
+higher if I then added a lot of fat like
+I ate a lot more fat it would then go
+down likewise if I if I fasted or if I
+just brought down the total amount of
+fat I was eating it would then go back
+up again and this is super important to
+get out to your listeners because one of
+the common problems that occur with
+people who try to go on a low-carb diet
+and then try to score a good cholesterol
+test is that though often
+bring down the amount of saturated fat
+they have in the days before the test
+and there's enormous amounts of data
+that both I have demonstrated and many
+of my followers that that'll actually
+spike your total and LDL cholesterol and
+it typically makes your triglycerides go
+higher and your HDL go lower
+that's the inversion pattern in inverts
+and so I demonstrated in my first public
+presentation of my data this inversion
+pattern by going the other way
+I ate a ton of fat I was in fact through
+this conference that I was holding the
+presentation for I had a cooler next to
+me where I was just constantly grabbing
+meats and cheeses and I was taking it
+down and in my presentation I said
+you're actually watching my LDL
+cholesterol plummet and I've bet my
+entire reputation all my data on it that
+when I get a blood test tomorrow it's
+gonna show that it's dropped
+substantially in 3 days and that's
+exactly what happened and so a lot of
+people said would you do a write up for
+this and kind of tell us how how we can
+do this and that's what I did at my site
+cholesterol code comm it's now commonly
+known as the Feldman protocol I'm Bette
+many of your your listeners have done
+this as well because it's shared all
+over the place it's unintuitive but you
+eat a lot of fat coming up to a
+cholesterol test and there's about an 85
+percent success rate for the likelihood
+that you'll actually see your LDL go
+down you know this I mean it's right in
+guidance physiology they found that the
+people that eat more cholesterol goes
+because there's a there's this balance
+mechanism the body will it make
+adjustments it just produces less it
+controls the excess so for those of you
+that miss that cholesterol co.com in
+fact I want to play this I have a closed
+Facebook lab and we do kind of some
+experiments here and there I want to
+actually see if I can have everyone do
+it we have a hundred thousand people so
+oh wow and everyone to do that will get
+some great data just to just you know I
+think you all see you you mentioned
+something about hyper responders and you
+want to kind of just touch on that I do
+so a hyper responder is actually a term
+that predates my time
+- the ketogenic diet and what it was was
+basically a way to refer to those people
+when they go on a ketogenic diet see a
+dramatic increase in their LDL the the
+common refrain is your LDL may go up a
+little and may go down a little but odds
+are you're not one of these small
+subsets of people for which a lot of
+people worried I myself was one of them
+when I found out I was a hyper responder
+Lucy is a fifty hundred percent increase
+in their LDL so my LDL before I went on
+huge a diet was around 131 I think was
+the last test I'd had and it had jumped
+up to 270 which any doctor is gonna say
+two things one they're gonna say stop
+doing what you're doing and two I have
+some drugs I would like you to look at
+to help get that number back down and
+again I'm an engineer I will tell you
+there's a very big difference in the
+culture between those and medicine and
+those in engineering and those of us in
+engineering I'm telling you you could
+you could have the biggest bigwig
+engineer senior engineer walk into a
+meeting with a whole bunch of juniors
+and if that engineer says something
+that's ridiculous the junior engineers
+will challenge and because every
+engineer starts from the assumption that
+they're skeptical of everybody and every
+piece of data they'd like to take it
+apart themselves and that's what I did I
+started taking apart the lipid system
+well that's that's where I found what
+seems to be a big originating factor -
+hyper responders the reason for the
+higher amount of cholesterol that I was
+getting had a lot to do with my being
+leaner and thinner than my dad and my
+sister who were very closely related and
+I'll tell you I literally done an
+experiment that I'm actually still kind
+of in the process of it's pretty long
+one where I've intentionally gained body
+fat about 20 pounds of body fat and I
+incidentally don't want anyone to follow
+me on this one but I have a huge wealth
+of biometric data leading up to this
+point so I wanted to actually capture
+what I believed to be would be the case
+where my LDL cholesterol would be
+actually
+if my body fat were higher and I'm happy
+to tell you right now that that's
+exactly what it was at the very last day
+of my weight gain experiment I was back
+down to 130 LDL but having having what
+would be considered a typical standard
+American diet because I had to leave
+Quito in order to gain weight and it
+worked and I was having footlong Subway
+sandwiches I was having pizza and I
+wasn't even having that much sugar it
+was mainly just starches but it worked
+to not only get give me a lot of weight
+but on top of that it dropped my LDL
+down to 130 milligrams per deciliter I
+know my prior position had I shown them
+my numbers from Quito and shown that my
+numbers from the standard American diet
+they probably go you're doing great
+that's that's so much better but but it
+gives me a segue to talk about the two
+metrics and that same lipid panel that
+matters so much more and that is your
+triglycerides and your HDL cholesterol
+and and I'm telling you right now that I
+have a challenge that's not on Twitter
+that they haven't been able to answer
+yet which is I've been able to find
+studies that show if you stratify
+populations for having low triglycerides
+and high HDL cholesterol is something we
+see with people going on a ketogenic
+diet their total cardiovascular disease
+risk and they're all cause mortality
+improved substantially so it's only when
+they remove those stratifications that
+you get a weak correlation with LDL
+cholesterol and again this is this is a
+challenge I've been putting out for
+quite a long time now and that's why for
+me I mean I can only speak for myself
+but for me I would much rather have an
+LDL of 270 so on his mind triglycerides
+are super low and my HDL is super high I
+see that Wow so let's just touch on this
+one point about let's say for example
+your triglycerides are low and your ADL
+hgo is high yet you have high LDL in
+someone's mind initially they're gonna
+go oh my gosh that's the bad cholesterol
+it's going through my blood what is it
+doing do they need to do
+special like at Essen and mr test to
+figure out what like the type of
+cholesterol you want to touch on that
+high and I and I will say this the NMR
+you're talking about it's a nuclear
+magnetic resonance test and at the time
+that I was coming into Kido I myself was
+very adamant about getting that because
+it it does more than just capture those
+four metrics total LDL cholesterol HDL
+cholesterol and triglycerides it also
+grabs the boats themselves we were just
+talking about the lipoproteins and it
+breaks them out into their different
+types so you hear about the small dense
+versus the big fluffy and the small
+dense is apparently more a thorough
+genic as they would call which means
+it's more likely to be associated with
+the build-up of plaque and the arteries
+and the big fluffy are supposed to be
+generally benign so they don't they
+don't have that same risk because
+they're very buoyant they don't crash
+into your your arteries as I heard the
+refrain go but the truth is when it
+comes down to it I've yet to see any
+compelling data that LDL particles that
+aren't modified in some fashion that
+aren't oxidized or glycated are in fact
+a threat at all and I realize that this
+is this is a something that kind of goes
+against what is considered to be
+conventional medical wisdom the bottom
+line is is the pathogenesis the the
+actual disease state has never been
+demonstrated with a thorough Scott
+o'clock in the absence of injury to the
+vessel walls or oxidative stress or
+basically anything that shows a
+breakdown of the system itself so this
+is this is why like having low
+triglycerides is such a good sign
+because if you have a lot of boats but a
+little bit of cargo it means the boats
+are succeeding at dropping that cargo
+off so you don't even need to be a big
+senior engineer to realize this if
+you're watching boats that are going out
+of the harbor and they're coming back in
+the-- sounds like it's proper shipping
+all around so let's just help people to
+when you talk about boats you're talking
+about the carrier of cholesterol LDL and
+HDL
+so basically when someone talks about
+HDL LDL they're talking about a protein
+that is caring not just cholesterol
+triglycerides fat soluble vitamins and
+antioxidants yeah yeah so basically
+these boats are carrying material for
+for healing repair building tissue
+cellular functions and things like that
+right basically everything your cells
+need that is not already water soluble
+so if you can't swim on its own in the
+bloodstream again genius of the human
+body the body says no worries I've got
+one kind of boat I'm gonna pack it all
+in two and the primary cargo dr. Berg
+the primary cargo is fat based energy
+this triglycerides and that's why
+triglycerides being low in the blood is
+a good sign we're actually on a
+ketogenic diet we're actually powered by
+triglycerides and that gets confusing
+because a lot of people say well wait a
+sec I think triglycerides go down well
+triglycerides left and the bloodstream
+go down because the usage is higher but
+having low triglycerides in the blood
+whether you're on a fat based diet or
+not aren't tightly associated with
+positive outcomes
+so basically when we're talking about
+LDL and H and HDL we're talking about
+it's not just the cholesterol it's the
+triglycerides they're caring and that
+this red is used for energy and other
+things yeah absolutely it's it's
+primarily energy but it can be used for
+other building materials so okay so then
+let's just touch on another point that
+you mentioned which is the the reason
+why it's going in in the first place
+well part of this picture it's it's
+trying to fix some damage some oxidative
+damage a lesion in the inside of the
+artery wall right let's let's touch on
+that and maybe what could cause that
+absolutely and you
+- forgive me I'm gonna geek out a little
+bit here okay so the best way to think
+of it is when you get a cholesterol test
+and you're capturing these LDL particles
+the truth is the vast vast majority of
+them started as something known as the
+LDLs very low-density lipoproteins and
+these vldls
+are the ones that are bloated with the
+triglycerides they have tons and tons of
+this fat based energy those things
+actually drop off the energy very very
+quickly and so it's in just a matter of
+less than an hour of the LDL is becomes
+what's known as an ideal which is an
+intermediate density lipoprotein and
+then in less than half an hour it turns
+into an LDL so when you see your when
+you see your bloodstream as blood
+markers you actually should have a small
+number of those vldls and thus a small
+number of triglycerides if everything is
+working properly so that LDL stage
+that's not an hour half hour that's 2 to
+4 days now you might wonder what why
+would the body want LDL particles these
+boats if they no longer have any
+triglycerides the energy to deliver why
+would the body want them in the
+bloodstream and the truth is for many
+different reasons they actually serve
+many roles so I discussed earlier how
+they bind a pathogen so they have an
+immunological role just just the same as
+your monocytes for example they're
+they're part of that but they're also
+part of the reparative process so
+imagine for example a whole bunch of
+people whose job it is is to get into
+delivery truck and in one hour they
+deliver a bunch of food but then they
+have kind of an all-purpose job where
+they're traveling the neighborhood
+they're looking for bad guys to run off
+the road or they're looking for a house
+that's damaged where you know they
+happen to have some lumber in the back
+that they can then pull up and try to
+help and fix it right cells actually
+have receptors yet that's they're like
+little they're like little arms they
+actually reach out to grab these when
+they're in need of the things that are
+on board and then they can
+endocytosis if they actually it's
+calling it's like golfing it golfing and
+entirely and then they have everything
+that's inside it for their own use
+cholesterol is one of the things that's
+part of its cargo
+but the lipoprotein itself is also made
+of something known as phospholipids well
+guess what our cell membranes are made
+of they're made of free cholesterol and
+phospholipids so cells when they can't
+synthesize enough on their own
+fortunately the body wisely make sure a
+lot of those lipoproteins are just ready
+and able to be provided for the cells to
+be able to get use of and that's why it
+doesn't surprise me by the way when many
+people go on statins will report having
+muscle pain particularly they tend to be
+a bit more athletic this for me I mean I
+and again I'm not really put a lot of
+research into this but I would not be
+surprised at all if it's the lack of
+availability for LDL particles for
+muscle repair and growth which is
+absolutely what they get used for so
+that whole stage I mean the whole stage
+of low-density lipoproteins I know it
+gets villainized a lot but it's actually
+very powerful and necessary to the body
+where we find problems with LDL
+particles being associated with
+cardiovascular disease and risk is where
+we find that they may in fact be getting
+recruited at a higher amount so here's
+what I'm going to get a little geeky if
+you don't mind describe those cells that
+line our vessel wall they're called
+endothelial cells and endothelial cells
+when they get damaged they release a
+signaling molecule that signaling
+molecule is known as a cytokine and
+those cytokines at a certain amount when
+there's really a problem that actually
+signals the liver to route to up
+regulate more low-density lipoproteins
+so it's actually calling for help very
+specifically for low-density
+lipoproteins because it's so important
+for muscle repair when you when you
+twist your ankle and you see some of the
+swelling and some of the heat and so
+forth there's dozens of different
+chemical reactions that are going on
+right but part of what there
+trying to do the swelling itself is
+they're trying to pool blood they're
+trying to get those raw materials to
+that area and something a lot of people
+don't realize is there's something known
+as growth hormone particularly
+platelet-derived growth hormone that
+endothelial cells when they're in the
+presence of will express more LDL
+receptors now I am an engineer dr. Byrd
+I'm an engineer and when I see processes
+already in place that not only say hey
+this could possibly have something to do
+with lipoproteins but are specifically
+receptors that bind to little poor
+low-density lipoproteins themselves I
+have to say give me a reason why this is
+inappropriate for the body to be making
+available to the cells right Wow
+that is it's just it must from just the
+level of understanding that you have it
+must be almost I don't know how you
+react to it but you have this other
+group of people out there that are
+saying no no no it's the cholesterol and
+fat is that's the main problem which is
+totally the exact opposite and I don't
+know how you react to it but the the one
+thing I want to mention is like through
+you know some people are saying that no
+it's the it's the fat it's the
+cholesterol that is causing the insulin
+resistance I guess it's fat within the
+muscle receptor for instance I don't
+know I don't know exactly the argument
+but it's what's your what's your thought
+on that well in your you're talking to
+somebody who probably has more personal
+data points than maybe anybody you'll
+ever even meet I I am close to about a
+hundred blood draws since November 2015
+and it's completely ridiculous I'm
+commonly referred to as a human
+pincushion but I'm a bit OCD and making
+sure I conduct these experiments in a
+very controlled manner and I the vast
+majority of these tests I have fasting
+insulin so I'm very very mindful of
+exactly
+what my basal insulin loads are and from
+that perspective I I have to point this
+out I have observed these changes and
+how much they correlate with weight gain
+weight loss how much they correlate with
+fasting glucose and so forth and without
+question the points in which I am at the
+highest levels of saturated fat in my
+diet the lowest levels of carbs and at
+very moderate levels of protein I have
+absolutely floored near bottom insulin
+levels typically under a 2 to 4 milli I
+am just really really super low but on
+top of that there's a particular group
+of people that you may have heard me
+talk about that are kind of step beyond
+hyper responders I call them lean
+massive responders they tend to have the
+highest levels of LDL but they also tend
+to have the lowest levels the
+triglycerides and the highest levels of
+HDL so they're almost like a super class
+they operate on really really really low
+levels of insulin I I call them in it
+basically in a blended fasted state and
+I guarantee I know several that eat 5000
+calories a day mostly fat and it is
+absolutely having nearly no impact on
+their insulin levels because you need
+insulin primarily particularly the
+postcranial insulin to deal with glucose
+glucose coming into the blood your body
+actually slowly adjusts to exactly how
+much insulin it needs to use to shuttle
+energy away and it seeks to keep that as
+low as possible it does this because the
+higher your insulin the less capability
+your body has for something known as a
+tapa G and that's that's kind of like
+the housekeeping that your cells get to
+to make use of so this is why by the way
+I think people on the far end I
+speculates totally speculative but I
+believe these people these lean mass
+hype responders may be enjoying a higher
+level of etapa G and might literally be
+actually having their cells aged a
+little slower because of that being in a
+blended fastest state is very powerful
+and that's why the ketogenic diet is so
+powerful is you're in many
+is mimicking a fasted state which there
+are plenty of studies on long before the
+ketogenic diet became big as to why
+that's so good for longevity Wow
+so Wow this this is fascinating what's
+your thought on some of the top few
+triggers two things that can start this
+whole cascade of affect like I know
+insulin is gonna be pretty one at the
+top the list right yeah you talk in the
+Cascade of affect that can bring around
+a disease state like with cardiovascular
+disease yes endothelial cells yes so
+here's where it's gonna get a little
+there's there's kind of almost two
+channels two directions we can go and
+ironically or maybe not so ironically
+they both kind of end up with higher
+levels of triglycerides this is why I'm
+very mindful to watch for triglycerides
+so the first one is you actually reach
+what is known as the personal fat
+threshold and that tends to be somewhat
+individualistic there can be some
+commonalities with ethnicities but what
+that means is you're probably insulin
+sensitive up to a point where you've now
+part so much triglycerides into your
+adipose tissue again your body fat that
+now your body needs to find other places
+to park those triglycerides so this is
+where you come up with things like fatty
+liver fatty pancreas even places you
+really don't want to see fat like say
+parts and heart muscle and so forth
+right that's that's a huge sign and a
+very common one for insulin resistance
+and this is this is where you also tend
+to see a lot of this you see a lot of
+things like just a larger waist
+circumference and so forth that you want
+to be mindful of well this is getting
+back to sort of the fasted in fed state
+this is where you're now moving your
+body into a place in which it's more
+predominantly in what it believes is a
+fed state and how you can know this is
+because fasting insulin is high if
+you're if you have fast if you've fasted
+for 12 hours
+and your fasting insulin is above 10 for
+example then what's going on is your
+body still feels like there's too much
+energy and that usually is the case you
+find your fasting glucose is pretty high
+and it's still keeping the insulin high
+to try to put it away
+well now you have less etapa Chi you
+have less of your cells abilities to do
+their housekeeping because it's like the
+lunch Bell is constantly ringing right
+well this is a big problem for
+cardiovascular health too because now
+even the endothelial cells don't get
+their housekeeping time and they need
+that state switch because a lot of
+people don't know this high density
+lipoproteins the HDL the so-called good
+cholesterol they need a fasted phase
+they need a low level of insulin to get
+their job done so during the period of
+time where insulin is high like when
+people get really sick for example and
+there you've heard the term feed feed a
+cold right there's there is a tiny bit
+of truth to that and that that as
+insulin goes up it's part of not just
+the store and build state but it's also
+oftentimes part of the fight state it's
+often a way by which your body can fight
+disease and my colleague Siobhan Huggins
+by the way gets into this quite a bit
+this is how insulin resistance can
+sometimes proceed hyperinsulinemia high
+levels of insulin in the blood well
+again this is important because if
+you're not getting the switch back and
+forth between being fasted and being fed
+and being fasted or for that matter
+fighting a disease and then getting back
+to fasted your your emergency vehicles
+these HDL particles they don't have the
+time to also go out and grab the excess
+cholesterol that might have been used as
+part of the reparative process and what
+is also known very commonly in the
+literature is reverse cholesterol
+transport they're not able to get as
+much of that time as they need to get it
+done overall you just want to have a
+larger amount of time in a fasted State
+this isn't even by practice and fasting
+but just by remaining insulin resistant
+so not maxing out your personal
+threshold in the first place sorry I
+know there was a bit of a long-winded
+answer but to really kind of unpack it
+it's important to kind of get that sense
+there I mean as an engineer it makes
+perfect sense you have insulin handling
+a lot of things at the same time so why
+not go ahead and piggyback these other
+operations on it
+if throughout all of our ancestral
+history we knew they were infrequent
+right we knew when we eat it wasn't
+going to be very common or if we were
+eating a small amount that it wouldn't
+take a lot of insulin to deal with the
+food that was necessary and therefore we
+could count on many other operations you
+know piggybacking on to insulin so in
+short whether you're on a high-fat diet
+or a low-fat diet or whatever diet
+you're on if it brings about
+persistently high insulin in the blood
+it's almost necessarily the worst kind
+of state you can be it Wow so let's go
+back because there's one point that I
+want to clarify you mentioned something
+about reverse something reverse reverse
+cholesterol transport yes let's just
+define that so people drink
+sure so LDL particles these ones that
+we're talking about they're often talked
+about as bad because they'll put
+cholesterol into the arterial walls it's
+really a huge oversimplification but
+there is some truth to that and part of
+the reparative process can be argued is
+in fact atherosclerosis
+it's just progressive atherosclerosis is
+clearly bad just like progressively just
+like insulin is not bad you need insulin
+but progressively high levels of insulin
+aren't bad inflammation absolutely can't
+live without inflammation chronic
+inflammation is bad right so we fully
+anticipate the operating system the
+human operating system fully anticipates
+that cholesterol is coming in to cells
+on a constant basis and for many reasons
+both for the reparative and also for the
+cells themselves but likewise there's
+this whole fleet of HDL particles these
+high density lipoproteins that are on
+hand that are constantly also
+part of the pulling it back out and
+that's why they're commonly associated
+with having better outcomes for
+cardiovascular disease the higher your
+HDL see almost universally the better
+your outcome with cardiovascular disease
+they it's reverse cholesterol transport
+they reverse they bring it out of the
+tissues and then they take it back to
+the liver and some of that cholesterol
+is reusable and they will use it your
+body is actually greedy about holding on
+to and using cholesterol it's very hard
+for it to make and there's some that's
+not so good and that that isn't so good
+goes out through bile acids that we make
+and goes into our digestive system and
+that eventually gets sent back to the
+other side if you know what I mean so
+basically it's kind of a a reverse is
+that a buffer or is it a reverse
+everything just works in Reverse I I
+don't know if I'd say everything works
+in Reverse but it's basically a means by
+which cholesterol has taken out of
+tissues and brought to the liver kind of
+recycling yeah recycling is actually a
+really good way of putting it okay in
+yeah so that the oxy sterols the the
+oxidized cholesterol and so forth that
+ends up getting sent out but anything
+that's usable cholesterol that's going
+to end up getting reused so so as a
+reparative action you have cholesterol
+you also have a calcium right calcium
+tell yes calcification that tends to be
+on a more advanced level though that
+usually tends to that's kind of to keep
+it layperson friendly that's where
+things are bad to the point that we just
+want to pave over the area Kathleen but
+yes that would be a good way of putting
+it so the coronary artery calcium
+scoring test that's a pretty isn't about
+it's a valuable test right to get great
+yes yes and to be sure there is a little
+bit of risk that should always be
+mentioned and that there is some
+exposure to radiation I think the last
+one I saw was like 0.6 millisievert
+something like that comparable to a
+mammogram I believe a mammogram
+0.4 so that would be nothing compared to
+like a cat scan of your abdomen or your
+kidneys right no no no in fact a cat
+scan tends to be the equivalent of
+around 200 chest x-rays yeah so we by
+the way I just want to insert real quick
+I know it's common practice for a
+hospital to just give you a CT for any
+particular reason be very mindful of
+that that really is a lot of radiation
+exposure and just you know I would want
+to say it feel confident that what
+they're awarding it is appropriate given
+the ailments you're talking about oh
+yeah they do and I do think it's a
+modern problem but I'm glad you brought
+it up because I do believe that a CAC I
+mean as metrics go it is one of the most
+powerful neuro but there are if not be
+most powerful for disease progression
+detection certainly you can have heart
+disease without having calcification and
+that should definitely be said but if
+you do have council vacation you do want
+to know about it as soon as reasonably
+possible and you do want to understand
+its progression so it's not even if you
+get a calcium score right now and like
+what would be considered a not good one
+would be say like a four hundred right
+if you find out that you have a four
+hundred it's not really the end of the
+world what you want to be sure of is
+that it's not progressing at a high rate
+such as like 50% per year or something
+along those lines you want to be sure
+that it's you know if it's progressing
+one or two percent let me put it this
+way
+I wouldn't mind have or I would rather
+have a calcium score of 400 that was
+progressing at 1% per year then a
+calcium score of 50 that was progressing
+at 50 percent breeder right that's like
+a no-brainer for me right but that's but
+that's important and I will say this one
+of the most heartbreaking thing is
+heartbreaking things that we have at
+cholesterol code calm is people that
+come that have just gotten their first
+CAC and they're now four years into huge
+Inc diet they've had high LDL but
+they've they're now questioning whether
+the high LDL was good because their
+first days
+four years in says that they have like
+say a 200 and the problem is is that
+there's now no way to know how much of
+that was due to the lifestyle that they
+had before going ketogenic and how much
+was after and that's why I generally
+give advice to people who are pretty
+sure they're gonna go on keto forever
+that it's it's nice to get the CAC as
+close to when you started as possible so
+that you can actually have bookended you
+know when that data start it and that
+way you can I mean first of all
+certainly you would want to know if you
+had a CAC of like 200 or 300 or
+something at the point that you were
+starting to hear genic die anyway right
+um yeah okay I mean the you can't
+evaluate something with one number you
+need two numbers before and after you
+need to see progression was it better
+worse and so do you I'm guessing you do
+in a minute fasting not exactly I would
+say probably my window so when I'm in
+the process of doing these experiments
+my intermittent fasting window may be
+something like 14 hours which I kind of
+don't count because intermittent fasting
+I sort of feel like you have to be at
+least 16 hours to you know it's it's
+like at the ride where you have to be at
+least this tall I'm not I'm not quite
+that tall but but Gian do you do snack
+between meals
+I probably snack more than the typical
+ketover and I and this is actually
+fairly common for lean mass hyper
+responders you'll find a lot of people
+who are very lean and or athletic who
+practice keto and actually they have a
+few things that are in common beyond
+being lean and or athletic and having
+very high levels of LDL they have a very
+difficult time doing fasting
+particularly law particularly very
+elongated fasting like multi day fasting
+they also tend to have higher fasting
+glucose levels which I believe is due to
+more adaptive glucose pairing but it's
+important to keep the context in mind if
+if you have higher fasting glucose as
+you've gotten leaner and healthier and
+feel great
+don't freak out
+because it's very likely that you also
+have lower fasting insulin which is very
+suggested that it's adaptive glucose
+very and by the way lean mass type
+responders also also tend to have lower
+levels of beta hydroxy butyrate so
+relative to a typical kid or for example
+they'll tend to have like say you know
+point 4 to 1.0 and then they'll be
+frustrated because they're couch potato
+keto friend you know is running it like
+three or four or something along those
+lines but again all of this suggests
+higher faster utilization the reason I
+gave a little bit of that set up is that
+I probably like meeting my lean mass
+type responder friends and probably just
+having a tougher time fasting because my
+body is already in such a blended fasted
+state when I'm down at those levels that
+I get more signaling to do something
+about it so it's it's okay in fact that
+there's already probably much more of
+the benefits of the fasted State in the
+first place the downside is that you
+know the famine hits Lima Cyprus martyrs
+will be the first to go like there's a
+price for getting that way in it I think
+you're not going to worry about the
+famine so that's good anytime Lina yeah
+right exactly this is awesome
+do you have any um any less last points
+you want to bring up absolutely yeah so
+I have to tell you dr. bird one of the
+very first and biggest things that I
+want to get across to your listeners is
+please have a fasted cholesterol test or
+for that matter any blood tests you
+should be 12 to 14 hours water fasting
+if you were not and I know the current
+guidelines will say you don't really
+need to be fasted but you physically are
+putting triglycerides from your food
+into your bloodstream and that is why
+oftentimes we have a lot of people that
+come to our site let's say ever since I
+went keto it looks like my triglycerides
+have exploded and look at you know score
+of 200 or 300 and so the first question
+out of it shoot as we go
+was it a water only fasted
+what tests often times let's say no they
+then retest later and it's fine like
+everything's you know below 100 or
+something along those lines so that's
+number one number two is whatever your
+cholesterol score is if you see just 1%
+of my research you'll find that it's
+insanely dynamic it's it's I've moved my
+I move my numbers up and down hundreds
+of milligrams per deciliter in just
+three years I I had the unique
+distinction of having changed my lipid
+numbers more than anybody else in the
+world and I believe anybody else could
+actually do the same thing bear in mind
+this is about any medication supplements
+exercise anything and it's it's because
+the human body is actually fantastically
+a depth and very adaptable and
+cholesterol is really just kind of a
+shadow of the larger energy metabolism
+so you you really need to know that the
+lipid system is very dynamic and
+whatever your cholesterol score is you'd
+be surprised at how quickly it can
+change assuming that you're close to
+metabolic flexibility I do want to throw
+in the caveat because if you're kind of
+down the line it may take a little more
+while to recover from where you need to
+be but that brings me back to the last
+point I really want to get across which
+is even for somebody like myself who may
+be snacking more than the typical person
+or eating a little bit more in the
+typical person when I get down to my
+leaner levels you do want to have your
+body generally in a in a fasted state
+most of the time like this shouldn't
+even really be shouldn't really even
+need to say this but that's what's great
+about the ketogenic diet if you get it
+to work properly is you should actually
+be operating on very low levels of
+insulin overall and I believe that if
+you do it's it's such a huge benefit to
+longevity
+so that's that's definitely what I want
+to fit in awesome that was great advice
+Thanks thank you so much for this
+interview you guys you need to go to his
+website it's cholesterol co.com
+cholesterol code calm alright thanks so
+much Dave I really appreciate it
+thanks for having me on dr. Berg I
+really love your material oh thanks
