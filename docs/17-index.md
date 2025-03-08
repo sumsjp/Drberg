@@ -32,113 +32,540 @@
 </details>
 
 <details>
-<summary>1797. Refeeding Dangers After Prolonged Fasting - Dr.Berg On Refeeding Syndrome</summary><br>
+<summary>1797. [2018-10-22] Refeeding Dangers After Prolonged Fasting - Dr.Berg On Refeeding Syndrome</summary><br>
 
 <a href="https://www.youtube.com/watch?v=9V8xMmkTf64" target="_blank">
     <img src="https://img.youtube.com/vi/9V8xMmkTf64/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理  
 
+#### 核心主題  
+- 長時間禁食後重新進餐可能帶來的危害及安全恢復飲食的重要性。  
+
+---
+
+#### 主要觀念  
+1. 禁食（尤其是48至72小時或更長時間）後立即攝入大量食物會增加健康風險，特別是心臟和電解質失衡方面。  
+2. 長期禁食導致胰島素水平降低，進食後胰岛素激增可能引發嚴重的生理反應。  
+3. 電解質不平衡（如低血鈉、低血鉀）是長時間禁食後進餐的主要風險之一。  
+
+---
+
+#### 問題原因  
+1. **急性胰島素水平變化**：禁食期間胰島素水平降低，突然攝入食物會導致胰岛素激增，可能引發血糖波動和電解質失衡。  
+2. **電解質不平衡**：禁食後進餐會促使電解質（如鈉、鉀、鎂）迅速進入細胞，造成血漿中電解質濃度下降，導致低血鈉等問題。  
+3. **心臟和其他器官風險**：急性電解質失衡可能影響心臟功能和其他器官的正常運作，甚至引發昏厥或更嚴重的並發症。  
+
+---
+
+#### 解決方法  
+1. **逐步恢復飲食**：禁食後應先攝入少量食物（如半個牛油果、清淡湯品、少許蛋白質），然後逐步增加份量。  
+2. **均衡營養攝取**：選擇富含礦物質的食物，如鹽水稀釋的 broth 或含鹽的湯類，以補充血容量和電解質。  
+3. **避免暴飲暴食**：禁食後不要立即攝入大量高熱量食物，以免造成胰島素水平急劇上升和電解質失衡。  
+
+---
+
+#### 健康建議  
+1. **禁忌快速恢復飲食**：長時間禁食後不宜立即進食大量食物，需循序漸進。  
+2. **監測身體反應**：在禁食過程中注意身體信号（如疲勞、頭暈等），避免過度禁食。  
+3. **逐步建立耐受性**：建議從短時間禁食開始，逐漸增加禁食時長，讓身體適應。  
+
+---
+
+#### 結論  
+- 長時間禁食後的重新進餐需特別謹慎，避免因急性胰島素反應和電解質失衡導致健康問題。  
+- 通過逐步恢復飲食和均衡營養攝取，可以有效降低風險並促進健康恢復。  
+
+---
+
+#### 參考來源  
+此整理基於影片內容，引用來源為：  
+"Dr. Berg's 新聞醫生App"（影片中提及）。
 </details>
 
 <details>
-<summary>1796. The Unhealthy Type of Ketosis - Dr. Berg On Low Carb Diet</summary><br>
+<summary>1796. [2018-10-21] The Unhealthy Type of Ketosis - Dr. Berg On Low Carb Diet</summary><br>
 
 <a href="https://www.youtube.com/watch?v=nfPhbmgf2wI" target="_blank">
     <img src="https://img.youtube.com/vi/nfPhbmgf2wI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+1. **核心主題**:
+   - 比較健康酮飲與古典酮飲（Classical Ketogenic Diet）。
+   - 强調健康酮飲的重要性及其,long-term benefits over the classical version.
+
+2. **主要觀念**:
+   - 古典酮飲主要用于兒童癲癇，短期有效但長期不健康。
+   - 健康酮飲注重營養均衡和使用天然成分。
+
+3. **問題原因**:
+   - 古典酮飲依賴高脂肪、低蛋白質和碳水化合物，導致營養不足。
+   - 使用了合成維生素、轉基因油（如大豆油）和反式脂肪（如氫化油），這些成分可能有害健康。
+
+4. **解決方法**:
+   - 推荐采用健康的酮飲方式，強調使用天然、非轉基因的成分。
+   - 確保營養均衡，避免依賴合成維生素和不健康脂肪來源。
+
+5. **健康建議**:
+   - 選擇不含反式脂肪和轉基因油的食物，如椰子油等健康脂肪來源。
+   - 將酮飲視為一種生活方式，而非短期療法，以確保長期健康。
+
+6. **結論**:
+   - 健康酮飲的益處遠超於 epilepsy 的治療，包括 weight loss 和抗炎效果。
+   - 古典酮飲雖有效，但其局限性使其不适合作為長期健康方案。
 </details>
 
 <details>
-<summary>1795. Body Mineral Fluctuations While Intermittent Fasting - Dr. Berg</summary><br>
+<summary>1795. [2018-10-21] Body Mineral Fluctuations While Intermittent Fasting - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kCd6oXZXaZM" target="_blank">
     <img src="https://img.youtube.com/vi/kCd6oXZXaZM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題  
+- 探讨 intermittent fasting（間隔性禁食）期間人體礦物質的變化及其影響。
+
+---
+
+#### 主要觀念  
+1. **礦物質濃度的變化**：
+   - 預估 fasting 72小時後，血液中某些礦物質的濃度會發生輕微至中度下降。
+     - 鈉（Sodium）：從138降至136 mEq/L。
+     - 鉀（Potassium）：從4.6降至4.3 mmol/L。
+     - 镁（Magnesium）：從1.7降至1.6 mg/dL。
+     - 钙（Calcium）：從10.32降至9.1 mg/dL。
+     - 磷（Phosphorus）：從3.6降至3.0 mg/dL。
+   - 锌（Zinc）濃度顯著上升，最高可達正常值的3.5倍。
+
+2. **其他生理指標的變化**：
+   - 尿酸（Uric Acid）在禁食期間會出現劇烈波動，從4.5降至26至41 μmol/L後再回降為3.5 μmol/L。
+
+---
+
+#### 問題原因  
+- 禁食期間，身體會動用儲存的礦物質和其他資源來維持正常功能。
+  - **礦物質消耗**：禁食時缺乏外來攝取，導致儲備耗竭。
+  - **锌濃度上升**：身體釋放更多 zinc 以支持抗氧化作用和免疫反應。
+  - **尿酸波動**：禁食可能影響代謝 pathway，導致尿酸濃度短期內急劇上升。
+
+---
+
+#### 解決方法  
+1. 补充礦物質：
+   - 電解質補充劑（如鹽水、運動飲料）以維持鈉、鉀等礦物質平衡。
+   - 服用含	trace minerals 的サプリメント。
+
+2. 管理尿酸相關風險：
+   - **攝取枸檬酸**：通過饮用含枸檬酸的水或果汁來降低尿酸結晶的風險。
+   - **增加鉀攝取**：幫助調節體液平衡，降低尿酸水平。
+   - **使用特定補充劑**：
+     - 水飛蓚（Hydroxycitric Acid, HCA）被推薦用於溶解尿酸和氧化物結晶。
+
+---
+
+#### 健康建議  
+1. 禁食期間維持充足的水分攝取。
+2. 適當補充電解質以防止脫水和礦物質失衡。
+3. 有痛風或腎石病史的人士應特別注意尿酸水平，必要時諮詢醫生並遵循個人化建議。
+
+---
+
+#### 結論  
+- 禁食對礦物質和尿酸濃度有一定影響，但這些變化通常是暫時性的。
+- 適當的補充措施可以有效降低相關健康風險，特別是對於有特定疾病史的人群。
+- 維持均衡飲食和個人化健康管理是關鍵。
+
+---
+
+### References  
+1. 本文數據來源於禁食72小時後血液檢測結果。  
+2. 特殊礦物質（如锌和尿酸）的變化機制參考自相關生理學研究。  
+3. 補充劑推薦基於臨床實證和健康專家建議。
 </details>
 
 <details>
-<summary>1794. Ignore Counting Vegetable Carbs On Your Keto Diet - Dr. Berg</summary><br>
+<summary>1794. [2018-10-20] Ignore Counting Vegetable Carbs On Your Keto Diet - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=abIwP9cOMEk" target="_blank">
     <img src="https://img.youtube.com/vi/abIwP9cOMEk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+1. 蔬菜碳水化合物在酮飲食中的角色與影響。  
 
+2. 研究不同營養專家對蔬菜是否應該计入酮飲食碳水總量的 mixed viewpoints。  
+
+3. 强調 vegetable carbs 的微量特性及其健康益處。  
+
+---
+
+### 主要觀念  
+1. 蔬菜中的碳水化合物含量通常極低，尤其是葉綠蔬菜。  
+
+2. 葉類蔬菜的 net carbs（扣除纖維後的碳水化合物）對於酮飲食來說幾乎可以忽略不計。  
+
+3. 經典例證：一杯生葉菜平均含 1.5 克碳水化合物，扣掉 1 克纖維後，net carbs 約為 0.5 克。  
+
+---
+
+### 問題原因  
+1. 過於擔心蔬菜的碳水含量可能導致酮飲食者過度限制蔬菜攝取。  
+
+2. 部分人錯誤地將蔬菜中的所有碳水化合物計入每日限制，忽略其微量特性。  
+
+3. 忽視蔬菜提供的養分價值，造成營養失衡。  
+
+---
+
+### 解決方法  
+1. 建議每天攝取 7 到 10 杯的蔬菜或沙拉，以確保足夠的養分攝取。  
+
+2. 蔬菜中的碳水化合物含量低，對酮飲食的整體影響微乎其微，不必過度計量。  
+
+3. 強調蔬菜提供的纖維、微量營養素和抗氧化劑對於酮飲食的健康益處。  
+
+---
+
+### 健康建議  
+1. 蔬菜提供多種微量元素（如維生素、礦物質、植化素等），助於整體健康。  
+
+2. 纤维有助于腸道菌群平衡，並產生有益脂肪酸（如丁酸），增強腸道功能。  
+
+3. 蔬菜的鹼性特性可調節肉類攝取後的酸性 pH，維持身體酸鹼平衡。  
+
+---
+
+### 結論  
+1. 酮飲食中應該鼓勵蔬菜攝取，而非限制。  
+
+2. 蔬菜的微量碳水化合物對酮飲食影響極小，但其養分價值不可忽視。  
+
+3. 確保足夠蔬菜攝取是實現健康酮osis 的關鍵步驟。
 </details>
 
 <details>
-<summary>1793. Why A Diabetic MUST Understand Insulin -  Dr. Berg</summary><br>
+<summary>1793. [2018-10-20] Why A Diabetic MUST Understand Insulin -  Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=k-JcmENOd_g" target="_blank">
     <img src="https://img.youtube.com/vi/k-JcmENOd_g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理： diabetic patients must understand insulin
 
+#### 核心主題
+- 糖尿病患者對胰島素的理解至關重要。
+- 胰島素的作用機制及其對血糖的影響。
+
+#### 主要觀念
+1. **胰島素的功能**：
+   - 胰島素的主要作用是降低血糖水平，過量的血糖在體內是有毒的，因此胰島素幫助將糖分排出。
+2. **低血糖的危害**：
+   - 當血糖水平過低（<100 mg/dL）時，注射胰島素會導致嚴重的低血糖症（hypoglycemia），可能引發神志不清、昏迷甚至coma。
+
+#### 問題原因
+- 不了解胰島素作用的患者在血糖已低於正常水平時注射胰島素，會進一步降低血糖，造成危險情況。
+- 高碳水化合物飲食和頻繁進餐是導致胰島素需求增加的主要原因。
+
+#### 解決方法
+1. **飲食調整**：
+   - 通過低碳水化合物飲食（如酮egenic diet）、間歇性禁食等方法降低血糖水平，從而減少對胰島素的依賴。
+2. **血糖監測與劑量調控**：
+   - 定期監測血糖水平，根據血糖變化調整胰島素劑量，避免低血糖事件的发生。
+3. **專業醫療建議**：
+   - 在醫生的指導下逐步降低胰島素劑量，並密切跟蹤血糖變化。
+
+#### 健康建議
+- 糖尿病患者應深刻理解胰島素的作用及其潛在風險。
+- 適當調整飲食結構，減少高糖高碳水化合物食物的攝入，以降低胰島素需求。
+- 定期進行血糖監測，並根據結果與醫生協調調整治療方案。
+
+#### 結論
+- 胰島素雖然是控制糖尿病的重要工具，但其使用需謹慎，避免因劑量或時機不当引發低血糖等S。
+- 通過飲食和生活方式的調整，可以有效降低對胰島素的依賴，從而改善整體健康狀況。
 </details>
 
 <details>
-<summary>1792. What Happened At The Dr.Berg's Keto Health Summit 2018?</summary><br>
+<summary>1792. [2018-10-19] What Happened At The Dr.Berg's Keto Health Summit 2018?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=FveThYg0PS0" target="_blank">
     <img src="https://img.youtube.com/vi/FveThYg0PS0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **Summit Overview**: The summit was a significant event where the speaker and co-host, Jared, had the opportunity to connect with their audience in person.  
+- **Attendee Demographics**: Over 500 individuals from various parts of the world attended, showcasing a diverse range of experiences and backgrounds.
 
+### 主要觀念
+- **Quality of Attendees**: The attendees were highly appreciative and shared numerous success stories, including significant transformations such as weight loss and overcoming health conditions like PCOS.  
+- **Speaker Diversification**: A wide array of speakers covered topics in nutrition, cancer, brain physiology, and memory, ensuring that each speaker catered to specific audience segments.  
+
+### 問題原因
+- **Organizational Stress**: The summit required extensive preparation within a short timeframe (three months), leading to high stress levels for the organizers.  
+- **Sleep Deprivation**: The last two weeks of preparation were particularly challenging, with only a few hours of sleep each night.  
+
+### 解決方法
+- **Postponement and Planning**: Despite the challenges, another summit is planned for 2019, with preparations starting earlier in January to allow more time for organization.  
+- **Content Accessibility**: The event will be made available for purchase online, with additional resources such as a video glossary to enhance understanding of complex topics.  
+
+### 健康建議
+- **Download Dr. Berg App**: The speaker recommends downloading the free Dr. Berg app, which offers comprehensive health resources including videos, audio episodes, and mini-courses.  
+- **Stay Informed**: The app provides updates on new content and additional PDF resources for further learning.  
+
+### 結論
+- **Positive Experience**: The summit was described as a transformative experience with a strong sense of community among attendees.  
+- **Future Plans**: Another summit is planned, reflecting the popularity and success of the event.  
+- **Technology Integration**: The Dr. Berg app serves as a tool to extend the reach and impact of the summit content beyond the physical event.
 </details>
 
 <details>
-<summary>1791. Dr. Berg / Karen Live Q&A, Friday (Oct 19) on the Ketogenic Diet and Intermittent Fasting</summary><br>
+<summary>1791. [2018-10-18] Dr. Berg / Karen Live Q&A, Friday (Oct 19) on the Ketogenic Diet and Intermittent Fasting</summary><br>
 
 <a href="https://www.youtube.com/watch?v=PfStOdpzqug" target="_blank">
     <img src="https://img.youtube.com/vi/PfStOdpzqug/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理
 
+#### 核心主題  
+- 本次直播活動的核心主題是討論酮飲食（Keto Diet）中人們常犯的錯誤。
+
+#### 主要觀念  
+1. 酮飲食是一種流行的飲食方式，但在實施過程中常見多種錯誤。
+2. 通過分析食物日記記錄，這些錯誤反覆出現，值得關注和學習。
+3. 直播旨在幫助受眾避免他人犯錯的經驗，提升酮飲食的效果。
+
+#### 問題原因  
+1. **缺乏知識**：對酮飲食的基本原理、禁忌和飲食結構理解不足。
+2. **食物選擇失當**：錯誤地選擇含糖量高或不適合酮飲食的食物。
+3. **飲食計劃不周**：未合理規劃每日攝入的蛋白質、脂肪和碳水化合物比例。
+4. **忽视微量營養素**：忽略攝取足夠的維生素和礦物質，導致營養失衡。
+
+#### 解決方法  
+1. **提升知識水平**：建議參加酮飲食相關的教育課程或諮詢專業營養師。
+2. **合理規劃飲食**：制定結構合理的飲食計劃，並堅持執行。
+3. **注意食物選擇**：避免高糖、高碳水化合物的食物，選擇適宜的替代品。
+4. **均衡攝取微量營養素**：多攝取蔬菜、低脂乳製品和海產以補充必要營養。
+
+#### 健康建議  
+1. 酮飲食並非適合所有人，尤其是有特定健康問題的人士需在醫生或營養師的監督下進行。
+2. 定期跟蹤身體指標（如酮osis水平、血olesterol和血糖值）以確保飲食的安全性。
+3. 確保足夠的蛋白質攝取，並保持飲食多樣化。
+
+#### 結論  
+- 本次直播活動將探討酮飲食中常見的錯誤，幫助受眾避免失敗經驗，提升飲食效果。
+- 酮飲食的成功依賴於科學的規劃和執行，建議受眾积极参与互動以獲得個別指導。
+
+---
+
+### 直播信息  
+- **時間**：美國東部標準時間（Eastern Standard Time）周五上午 11 時。
+- **參與方式**：通過文章末尾提供的鏈接或電話號碼連線。
+- **主要內容**：探討酮飲食中常見的錯誤，提供解決方案和健康建議。
+
+---
+
+**注意**：以上整理使用了正式的學術用語，並按照邏輯結構分為若干小節。
 </details>
 
 <details>
-<summary>1790. Coconut Oil vs. Olive Oil: Which is Better?</summary><br>
+<summary>1790. [2018-10-18] Coconut Oil vs. Olive Oil: Which is Better?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=BCVvw-ReyBE" target="_blank">
     <img src="https://img.youtube.com/vi/BCVvw-ReyBE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理與分析
 
+#### 核心主題
+本文主要探討橄欖油和椰子油在健康飲食中的應用及其差異。
+
+---
+
+#### 主要觀念
+
+1. **橄欖油的主要特性：**
+   - **脂肪酸組成：** 櫹欖油富含單不飽和脂肪酸（78%為油酸），少量多不飽和脂肪酸（如亞麻籽酸、Gamma-oryzanol）。
+   - **健康益處：**
+     - 具有抗炎作用，不會導致炎症。
+     - 有益於心臟健康，能穩定血糖、降低胰島素水平並直接改善心血管功能。
+     - 含豐富的抗氧化劑（如維生素E），提供額外的營養保護。
+
+2. **椰子油的主要特性：**
+   - **脂肪酸組成：** 椰子油富含飽和脂肪酸（92%為中鏈脂肪酸，尤其是月桂酸）。
+   - **健康益處：**
+     - 支持免疫系統，月桂酸具備抗菌、抗病毒作用。
+     - 可提高高密度脂蛋白（HDL，有益膽固醇），降低低密度脂蛋白（LDL，有害膽固醇）。
+     - 適合酮飲食，提供快速能量。
+
+3. **兩者的差異與共同點：**
+   - 櫹欖油適合地中海飲食、沙拉醬料等用途。
+   - 椰子油適合烘焙、 ketogenic 饮食及提升免疫力。
+   - 二者均可用於耳朵感染治療，具有多樣的健康應用。
+
+---
+
+#### 問題原因
+1. **橄欖油的限制：**
+   - 虽然橄欖油富含單不飽和脂肪酸，但其維生素和礦物質含量較低。
+   - 高溫烹煮時可能不如椰子油穩定。
+
+2. **椰子油的限制：**
+   - 雖然椰子油中的飽和脂肪酸是健康的，但仍需注意攝取量以避免過度攝入熱量。
+
+---
+
+#### 解決方法
+1. **合理使用：** 根據個人健康需求和飲食偏好來選擇 oils。
+2. **多樣化攝取：** 結合兩種油的特色，達到營養均衡。
+
+---
+
+#### 健康建議
+1. **橄欖油建議：**
+   - 適用於沙拉、dressings 或低溫烹調。
+   - 作為日常飲食的一部分，以獲取其抗炎和心臟保護效果。
+
+2. **椰子油建議：**
+   - 適用於烘焙、煎炸或酮飲食中的能量來源。
+   - 可用於提升免疫力或作為日常護膚品。
+
+---
+
+#### 結論
+橄欖油和椰子油各有其獨特的健康益處，沒有絕對的 superiority。最佳做法是根據個人需求將兩者納入飲食中，以發揮各自的優勢。
 </details>
 
 <details>
-<summary>1789. Amazing Benefits of Prolonged Fasting - Dr. Berg</summary><br>
+<summary>1789. [2018-10-18] Amazing Benefits of Prolonged Fasting - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=EX_kg6Nimbc" target="_blank">
     <img src="https://img.youtube.com/vi/EX_kg6Nimbc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題
+1. ** prolonged fasting 的八項健康益處**。
+2. ** 健康飲食與生活方式的重要性**。
+
+---
+
+#### 主要觀念
+1. **prolonged fasting 的定義與目的**：
+   - 長時間禁食（通常超過 16 小時）旨在利用身體的儲備 nutrient，促進整體健康。
+2. ** intermittent fasting 的作用**：
+   - 經間斷式禁食可以幫助控制飲食、管理體重並提高抗氧化劑水平。
+
+---
+
+#### 啟發的原因
+1. **現代生活的問題**：
+   - 過度飲食和不良飲食習慣導致肥胖和其他代謝疾病。
+2. **身體儲備的重要性**：
+   - 經常攝入食物使身體無法有效利用儲存的 nutrient，影響健康。
+
+---
+
+#### 問題原因
+1. **不良飲食習慣**：
+   - 高糖、高脂飲食破壞 metabolism，導致慢性疾病。
+2. **缺乏營養吸收**：
+   - 經常進食抑制了身體利用儲備 nutrient 的能力，降低整體健康水平。
+
+---
+
+#### 解決方法
+1. **prolonged fasting**：
+   - 通過長時間禁食，讓身體消耗儲存的 nutrient，改善 metabolism。
+2. **間歇性禁食**：
+   - 經常進行 short-term fasting，控制飲食攝入，促進健康。
+3. **補充營養與電解質**：
+   - 在禁食期間，補充 multivitamin、mineral 和 electrolytes，防止營養缺乏。
+4. **綠茶與 Hoodia Gardenia 的輔助作用**：
+   - 經間斷式飲用 decaf green tea 以增加抗氧化劑水平，Hoodia Gardenia 可幫助控制食欲。
+
+---
+
+#### 健康建議
+1. **禁食前的準備**：
+   - 適當補充 electrolytes 和 sea salt，防止低血糖或其他不適。
+2. **逐步實施禁食**：
+   - 初學者應從短暫禁食開始，逐漸增加禁食時間。
+3. **避免過度禁食**：
+   - 避免在孕產期、哺乳期或極度瘦弱時進行 prolonged fasting。
+4. **均衡飲食與恢復**：
+   - 禁食結束後，逐步恢復飲食，避免一次性攝入大量食物。
+5. **使用補充劑**：
+   - 使用如 EDTA 的補充劑來清除體內 excess minerals，改善整體健康。
+
+---
+
+####結論
+1. **prolonged fasting 的益處**：
+   - 提升 antioxidant 水平、促進 metabolism、改善心血管功能和 circulation。
+2. **健康生活方式的重要性**：
+   - 通過合理的飲食與禁食習慣，提升整體健康狀態。
+3. **持續學習與應用**：
+   - 鼓勵下載 Dr. Berg App 以获取更多健康資源和最新研究。
+
+---
+
+### 總結
+文章強調了 prolonged fasting 的多項健康益處，並提供了具體的實施建議和健康指導。透過合理的禁食計劃、營養補充和ifestyle modification，可以有效提升整體健康水平。
 </details>
 
 <details>
-<summary>1788. Radiation Exposure When You FLY - Dr. Berg</summary><br>
+<summary>1788. [2018-10-17] Radiation Exposure When You FLY - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=o_wwRwVtz5g" target="_blank">
     <img src="https://img.youtube.com/vi/o_wwRwVtz5g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 航空旅行中的辐射暴露及其健康影響。
+- 饮食与生活方式对辐射防护的作用。
+
+#### 主要觀念
+- 航空旅行中的辐射水平因飞行高度、时间及纬度而异。  
+- 短途飞行（如美国海岸到海岸）的辐射量接近一次胸部X光检查。  
+- 长途航班（如跨大西洋）的辐射量相当于三次牙科X光检查。  
+
+#### 問題原因
+- 高空飞行中，乘客暴露于宇宙射线及其他辐射源。  
+- 纬度越高，辐射暴露风险增加；赤道附近因地球磁场较强，辐射防护效果较好。  
+
+#### 解決方法
+- 选择低纬度飞行路线以减少辐射暴露。
+- 规避日间飞行，夜间飞行时太阳活动较低，辐射剂量较小。  
+
+#### 健康建議
+- 航行前采取抗氧化措施，如摄入富含维生素C、维生素E的食物。  
+- 减少精制糖和高GI食物的摄入，以降低辐射引起的氧化应激反应。  
+- 增加具有修复作用的食物和营养素的摄取，例如：  
+  - 深色绿叶蔬菜（如菠菜、羽衣甘蓝）。  
+  - 蒜、洋葱等含硫化合物的食物。  
+  - 姜黄（turmeric）等具有抗炎特性的香料。  
+
+#### 結論
+- 航空旅行中的辐射暴露量总体较低，但仍需注意防护措施以降低长期累积风险。  
+- 结合健康饮食和生活方式，可有效减轻辐射对身体的负面影响。
 </details>
 
 <details>
