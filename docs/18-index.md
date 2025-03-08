@@ -340,69 +340,291 @@
 </details>
 
 <details>
-<summary>1869. Keto Friendly Eggnog Recipe - Dr. Berg's Keto Egg Recipes</summary><br>
+<summary>1869. [2018-11-29] Keto Friendly Eggnog Recipe - Dr. Berg's Keto Egg Recipes</summary><br>
 
 <a href="https://www.youtube.com/watch?v=9mZj17AdbrE" target="_blank">
     <img src="https://img.youtube.com/vi/9mZj17AdbrE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 制作酮友好的蛋奶酒（Eggnog）。
 
+### 主要觀念
+1. 蛋奶酒的传统成分通常包含糖分较高或不适合酮饮食的因素。
+2. 提供一种符合酮生酮饮食的蛋奶酒替代食谱。
+
+### 問題原因
+- 市场上常见的蛋奶酒含有高糖、乳制品或其他不符合酮饮食要求的成分，可能不适合特定人群。
+
+### 解决方法
+1. 选择无糖或低糖的甜味剂（如Xylitol）。
+2. 使用符合酮饮食原则的食材：
+   - 草饲黄油（代替传统的奶油）。
+   - 未巴氏杀菌的鸡蛋（确保质量，若担心沙门氏菌风险可选择巴氏杀菌蛋）。
+3. 替代传统糖分，使用无糖或低糖的甜味剂。
+
+### 健康建議
+- 确保食材来源的质量，优先选择草饲黄油和 pasture-raised 鸡蛋。
+- 如果对某些甜味剂有顾虑（如Xylitol），可以选择其他替代品如Swerve、Stevia等。
+- 考虑个人健康状况，适量饮用。
+
+### 方法步驟
+1. 准备材料：
+   - 2杯草饲黄油
+   - 1杯椰奶（coconut milk）
+   - 4个 pasture-raised 鸡蛋（可选巴氏杀菌蛋）
+   - 3汤匙Xylitol或其他无糖甜味剂
+   - 1茶匙香草精
+   - 2茶匙肉桂粉
+   - 1茶匙丁香粉
+
+2. 将所有材料混合搅拌均匀。
+
+3. 冷藏后即可享用。
+
+### 結論
+- 提供了一種健康且符合酮生酮飲食的蛋奶酒食譜，適合追求低糖、高脂飲食的人群。
 </details>
 
 <details>
-<summary>1868. The Carnivore Diet and Vegetable Conflict - Dr. Berg</summary><br>
+<summary>1868. [2018-11-29] The Carnivore Diet and Vegetable Conflict - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Cngf7Gjo_-g" target="_blank">
     <img src="https://img.youtube.com/vi/Cngf7Gjo_-g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題  
+- 探讨生酮飲食（尤其是 carnivore diet）与蔬菜摄入之间的关系及其健康影响。
+
+#### 主要觀念  
+1. 生酮飲食的優點：  
+   - 顯著降低胰島素水平，有益於心血管健康和炎症控制。  
+   - 適合有消化問題（如腹脹、便秘）或小腸菌群過多（SIBO）的人群。  
+
+2. 蔬菜攝取的重要性：  
+   - 提供豐富的維生素、礦物質及植物化學物，具有抗癌等健康益處。  
+   - 經濟易得且營養密度高。  
+
+3. 生酮飲食的缺點：  
+   - 高蛋白攝取可能影響長壽。  
+   - 易導致維生素C、葉酸等 deficiency。  
+
+#### 問題原因  
+- 生酮飲食限制 carbohydrate 取，但過度依賴動物性食物可能导致 nutrient 不均衡。  
+- 純 carnivore diet 缺乏植物化學物和某些維生素（如 C），且可能攝入過多的鐵質，增加自由基風險。  
+
+#### 解決方法  
+1. 廡足營養需求：  
+   - 通過食用富含維生素C的食物或補充劑來防止 deficiency。  
+   - 遊戲食富含鐵質的動物性食物，並攝取含 phytic acid 的蔬菜以平衡鐵質吸收。  
+
+2. 維持腸道健康：  
+   - 添加發酵蔬菜（如 Sauerkraut）以增加益生菌和營養素吸收。  
+
+3. 倫理與實踐：  
+   - 因人而異，根據個人健康狀況調整飲食結構。  
+
+#### 健康建議  
+- 適當攝取蔬菜以平衡營養，尤其是富含維生素C和植物化學物的品種。  
+- 男性應注意鐵質攝取，避免過量；女性則需酌情增加鐵質攝取。  
+- 經常評估飲食效果，必要時諮詢專業醫療人員。  
+
+#### 結論  
+生酮飲食在短期內可能有效，但長期影響尚不明确。蔬菜在飲食中具有不可忽視的價值，應根據個人需求合理搭配 carnivore diet，並注意營養均衡。
 </details>
 
 <details>
-<summary>1867. The Benefits of Omega-7 Fatty Acids - Dr. Berg on Essential Fatty Acids</summary><br>
+<summary>1867. [2018-11-28] The Benefits of Omega-7 Fatty Acids - Dr. Berg on Essential Fatty Acids</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5PBuZRmB4QQ" target="_blank">
     <img src="https://img.youtube.com/vi/5PBuZRmB4QQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題
+- 探讨Omega-7脂肪酸的健康益處及其來源。
+
+#### 主要觀念
+1. Omega-7脂肪酸是一種單不飽和脂肪酸。
+2. 它在化學結構中以希臘字母“Ωmega”作為代表符號，主要強調其化學特性。
+3. Omega-7脂肪酸可通過提升胰島素敏感性來幫助控制血糖水平。
+
+#### 問題原因
+1. 許多人患有胰岛素抵抗症，影響血糖穩定和整體健康。
+2. 復合型肥胖導致的代謝紊亂可能引發相關健康問題。
+
+#### 解決方法
+1. 增加Omega-7脂肪酸的攝入量，以幫助降低胰島素水平、血olesterol和炎症反應。
+2. Omega-7脂肪酸可通過食物來源攝取，如海芲莓果（Sea Buckthorn Berry）和夏威夷果（Macadamia Nut）。
+
+#### 健康建議
+1. 確保每日飲食中包含足夠的Omega-7脂肪酸來源。
+2. 考慮補充劑作為膳食攝取不足的補充手段。
+
+#### 結論
+- Omega-7脂肪酸在促進整體健康方面具有多方面的益處，包括改善血糖控制、降低血olesterol和炎症反應，並有助於皮膚和毛髮健康。
 </details>
 
 <details>
-<summary>1866. Do NOT Take MORE Fiber for Constipation!! – Dr.Berg's Tips</summary><br>
+<summary>1866. [2018-11-28] Do NOT Take MORE Fiber for Constipation!! – Dr.Berg's Tips</summary><br>
 
 <a href="https://www.youtube.com/watch?v=t-jtHOWhAIw" target="_blank">
     <img src="https://img.youtube.com/vi/t-jtHOWhAIw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- **Fiber Consumption and Digestive Health**：探討纖維攝取與消化健康之間的關係，特別是在便秘等情況下的影響。
+
+#### 主要觀念
+1. **Fiber Myths**: 
+   - 纤维常被宣稱可預防大肠癌，但此說法缺乏證據，且研究中使用的纖維多來源於豆 gum 而非蔬菜纖維。
+2. **Vegetable Intake**：
+   - 推薦每日攝取 7-10 份蔬菜或沙拉，主要原因是其營養價值而非纖維含量。
+3. **Digestive System Compromise**：
+   - 若消化系統功能受限（如便秘、憩室炎等），大量攝取蔬菜可能導致腹脹和不適。
+
+#### 問題原因
+- **Traffic Analogy**: 将便秘比作交通堵塞，增加纖維攝取如同向已擁擠的道路添加更多車輛，會加重問題。
+- **Digestive Transit Time**：
+  - 食物通過消化道需時約 35-40 小時，進食頻率過高會影響消化效率。
+
+#### 解决方法
+1. **Intermittent Fasting**：
+   - 減少進食次數，給予消化系統恢復時間。
+2. **Carnivore Diet Trend**：
+   - 通過完全去除纖維和蔬菜來改善消化問題，低人 insulin 水平和 inflammation。
+3. **Microbial Imbalance**：
+   - 纤维攝取可能加重腸道菌群失衡，導致過度發酵和氣體產生。
+
+#### 健康建議
+1. **Reduce Fiber Intake Temporarily**：
+   - 對於有消化問題的人，可短期內去除蔬菜和纖維。
+2. **Opt for Fermented Vegetables**：
+   - 替換為發酵蔬菜可能有助 digestion，但需注意 SIBO 情況。
+3. **Monitor and Adjust**：
+   - 根據身體反應調整飲食結構，必要時進行 SIBO 测试。
+
+#### 結論
+- **Balanced Approach**：
+  - 高纖維攝取不一定適合所有人，尤其是消化系統脆弱的族群。
+- **Individualized Diet Plan**：
+  - 根據個人健康狀況和反應調整飲食，必要時諮詢專業醫療人員。
 </details>
 
 <details>
-<summary>1865. Why Do Diabetics Need To Decrease The Need For Insulin? - Dr.Berg [ MUST WATCH!!]</summary><br>
+<summary>1865. [2018-11-27] Why Do Diabetics Need To Decrease The Need For Insulin? - Dr.Berg [ MUST WATCH!!]</summary><br>
 
 <a href="https://www.youtube.com/watch?v=LppIp928SrA" target="_blank">
     <img src="https://img.youtube.com/vi/LppIp928SrA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- **胰島素需求降低的重要性**：文章強調糖尿病患者（包括1型和2型）應努力降低對胰島素的依賴，以實現血糖 normalization。
+
+#### 主要觀念
+1. **血糖控制的目標**：
+   - 確保血液中的血糖水平正常是首要目標。
+   
+2. **胰島素的作用及潛在問題**：
+   - 胰島素將血糖從血管中移出，但這些糖分被轉化為其他形式儲存於體內（如 visceral fat）。
+   - 長期使用胰島素與心血管疾病風險增加有關。
+
+3. **高胰島素血症的危害**：
+   - 高水平的胰島素會損害心臟、血液壓等，導致动脉硬化和其他健康問題。
+
+#### 問題原因
+- **糖分過多的影響**：
+  - 高血糖直接威脅神經系統、眼睛、腎臟和心臟。
+  
+- **胰島素依賴性增加的原因**：
+  - 碳水化合物攝取量高導致胰島素需求增加。
+
+#### 解決方法
+1. **降低碳水化合物攝取**：
+   - 減少碳水化合物的攝入可降低血糖水平，進而減少對胰島素的需求。
+   
+2. **生活方式調整**：
+   - 通過低碳飲食（如酮ogenic diet）和短期禁食來改善血糖控制。
+
+#### 健康建議
+- 與醫生合作制定個人化的治療計劃，以平衡血糖控制與胰島素用量。
+- 減少碳水化合物攝取，改進整體心血管健康。
+
+#### 結論
+- **降低胰島素依賴的重要性**：
+  - 對糖尿病患者來說，降低胰島素需求不僅能改善血糖控制，還能降低心血管疾病的風險。
+  
+- **簡單有效的解決方案**：
+  - 減少碳水化合物攝取是實現這些目標的關鍵步驟。
+
+---
+
+此文強調了通過飲食調整來降低胰島素依賴的重要性，並提醒醫患雙方注意高胰島素血症對整體健康的影響。
 </details>
 
 <details>
-<summary>1864. Natural Remedies for GERD (Gastroesophageal Reflux Disease) - Dr. Berg</summary><br>
+<summary>1864. [2018-11-27] Natural Remedies for GERD (Gastroesophageal Reflux Disease) - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HSNZlFlTMYw" target="_blank">
     <img src="https://img.youtube.com/vi/HSNZlFlTMYw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：GERD的理解與管理
 
+#### 1. 核心主題
+- **GERD（胃食管反流病）**：一種常見的消化系統疾病，主要特徵是胃酸反流至食道，導致炎症和不適。
+- **病因多樣性**：涉及胃酸過度分泌、食道下括約肌功能失常等因素。
+
+#### 2. 主要觀念
+- **GERD的影響**：不僅限於局部症狀，還可能引發更廣泛的消化系統問題，如SIBO（小腸细菌過生長）。
+- **綜合管理的重要性**：需結合飲食調整、生活習慣改變及藥物治療。
+
+#### 3. 問題原因
+1. **胃酸分泌失衡**：
+   - 過度分泌胃酸或食道下括約肌張力降低，導致胃酸反流。
+2. **腸道菌群失衡**：
+   - 尤其是SIBO情況下，過多的細菌在小腸中生長，影響消化功能。
+3. **飲食與生活習慣**：
+   - 高碳水化合物、低纖維飲食，頻繁進餐導致腸胃負擔加重。
+4. **缺乏休息與排毒**：
+   - 消化系統长期超負荷工作，缺乏休息時間。
+
+#### 4. 解決方法
+1. **飲食調整**：
+   - **低碳水化合物 diet（健康酮飲食）**：減少碳水化合物攝取，降低腸胃壓力。
+   - **增加蔬菜攝取**：如羽衣甘藍、椰菜花等，提供必要營養且不加重腸胃負擔。
+2. **益生菌的使用**：
+   - 有助於恢復腸道菌群平衡，建議使用特定益生菌產品（如Effective Microbes）。
+3. **酸性環境的調節**：
+   - 使用蘋果 cider vinegar 和 betaine HCL 補充胃酸，促進消化功能。
+4. **SIBO 的管理**：
+   - 避免攝入高纖維蔬菜一月，抑制有害細菌生長。
+   - 使用特定的抗菌療法或清潔飲食計劃。
+
+#### 5. 健康建議
+1. **間歇性禁食**：
+   - 經常進餐增加腸胃負擔，禁食可讓消化系統休息並恢復。
+2. **壓力管理**：
+   - 長期壓力導致荷爾蒙失衡，加重GERD症狀，需通過運動、冥想等方式調節。
+3. **生活方式改變**：
+   - 避免躺臥後立即進食，保持適當體重，戒煙限酒。
+
+#### 6. 結論
+- GERD 的治療需要綜合多方面的策略，包括飲食調整、益生菌使用、禁食療法等。
+- 長期來看，恢復腸道健康與平衡是關鍵，建議在專業指導下進行治療計劃。
 </details>
 
 <details>
@@ -417,47 +639,238 @@
 </details>
 
 <details>
-<summary>1862. Correcting Your Ratio of Essential Fatty Acids (EFA) on the Ketogenic Diet - Dr.Berg</summary><br>
+<summary>1862. [2018-11-26] Correcting Your Ratio of Essential Fatty Acids (EFA) on the Ketogenic Diet - Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=P9cAwvkyReg" target="_blank">
     <img src="https://img.youtube.com/vi/P9cAwvkyReg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理： essentials 條列式整理
 
+#### 核心主題
+- **必需脂肪酸（Essential Fatty Acids, EFAs）**  
+  必需脂肪酸是人體無法自行合成的脂肪酸，必須通過飲食攝取。它們對人體健康至關重要。
+
+---
+
+#### 主要觀念
+1. **分類與功能**
+   - **ω-3脂肪酸**：包括ALA（α-亞麻 acid）、EPA（二十碳五烯酸）和DHA（二十二碳六烯酸），主要來源於深海魚類。  
+     - 重要性：支持腦部健康、視力保護、抗炎作用。
+   - **ω-6脂肪酸**：包括GLA（γ-亞麻 acid）、ARA（花生四烯酸）。  
+     - 來源： vegetable oils（玉米油、大豆油等）。  
+     - 功能：參與前列腺素合成，具有抗炎和促修復作用。
+
+2. **平衡的重要性**
+   - 美國人ω-6攝取量是ω-3的20倍。失衡會導致炎症增加、慢性病風險上升。
+
+---
+
+#### 問題原因
+1. **飲食結構失衡**  
+   - 高糖高油飲食盛行，ω-6脂肪酸攝取過多，ω-3相對不足。
+2. **加工食品氾濫**  
+   - 现代工廠化學品加工食品中大量使用 vegetable oils（如玉米油、大豆油），導致ω-6攝取量激增。
+3. **錯誤飲食建議**  
+   - 過去建議用vegetable oils取代aturated fats，但事實上人體絕大多數脂肪儲存為saturated形式。
+
+---
+
+#### 解決方法
+1. **飲食調整**
+   - 增加深海魚類（如三文魚、沙丁魚）攝取。
+   - 食用富含ω-3的植物來源（如胡桃仁、奇亞籽、芝麻）。  
+     - 注意：植物來源的ALA轉化為活性形式效率低，建議搭配動物性來源。
+2. **補充劑**
+   - 考慮魚油或ALAサプリメント。  
+   - ω-6方面可選擇GLA豐富的油（如琉璃苣油、黑currant oil）。
+
+---
+
+#### 健康建議
+1. **控制ω-6攝取**  
+   - 避免過量食用 vegetable oils，限制加工食品攝取。
+2. **均衡飲食**  
+   - 平衡ω-3與ω-6的比例（理想為1:2至1:4）。  
+   - 確保每日攝取足夠的ALA來源。
+3. **注意吸收競爭**
+   - ω-6會干擾ω-3的吸收，若攝取量高，需增加ω-3來源。
+
+---
+
+#### 結論
+必需脂肪酸是人體健康不可或缺的因素。現代飲食中ω-3不足、ω-6過剩導致多種健康問題。調整飲食結構、均衡攝取是關鍵。
 </details>
 
 <details>
-<summary>1861. What Are Reactive Oxygen Species (ROS)? - Dr. Berg</summary><br>
+<summary>1861. [2018-11-25] What Are Reactive Oxygen Species (ROS)? - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=gUUsTbeu4LE" target="_blank">
     <img src="https://img.youtube.com/vi/gUUsTbeu4LE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理與分析
 
+#### 核心主題
+- **Reactive Oxygen Species (ROS)**：本文主要探討反應性氧物種（ROS）的定義、功能及其在生物體內的作用。
+- **酮症與腦健康**：討論酮症如何降低ROS excess，並提昇神經保護作用。
+
+#### 主要觀念
+1. **ROS的定義**：
+   - ROS是指涉及氧原子的自由基或非自由基分子。
+   - 自由基具有未配對電子，導致其具備高度反應性，可能引發氧化應激。
+
+2. **ROS的來源**：
+   - 體內：由代謝過程（如線粒體呼吸作用）產生。
+   - 體外：環境因素（如紫外線、污染、煙酒等）引入。
+
+3. **ROS的作用**：
+   - **有益作用**：參與細胞凋亡，清除受損或病變細胞；免疫系統利用ROS殺死微生物。
+   - **有害作用**：過量ROS引發氧化應激，導致DNA、蛋白質和脂質損傷。
+
+4. **酮症的抗氧化效果**：
+   - 酮體作為氧化還原劑，能有效清除過量ROS。
+   - 高碳水化合物飲食增加ROS生成，損害神經細胞，導致認知衰退。
+
+#### 問題原因
+- 高糖、高碳水飲食引發慢性氧化應激，破壞腦部結構功能，最終導致阿茲海默症等神經退化性疾病。
+- 環境污染、生活方式等因素增加ROS的生成。
+
+#### 解決方法
+1. **抗氧化策略**：
+   - 通過健康飲食（如富含抗氧化物的食物：水果、蔬菜、坚果）降低氧化應激。
+   - 適當運動，促進ROS平衡，增強抗氧化系統。
+
+2. **酮症干預**：
+   - 採用低碳水化合物、高脂肪 diet （生酮diet），利用酮體的抗氧化特性保護神經元。
+
+3. **生活方式調整**：
+   - 戒煙限酒，避免接觸環境污染物。
+   - 管理壓力，保持良好的心理狀態。
+
+#### 健康建議
+- **飲食.modify**：增加健康脂肪攝取，限制簡單糖分和精製碳水化合物。
+- **運動習慣**：適度有氧運動，增強線粒體功能，促進ROS平衡。
+- **抗氧化補充**：食用富含維生素C、維生素E等的食物，或在醫生建議下使用抗氧化補充劑。
+
+#### 總結
+- ROS是雙刃劍，在適當濃度下對身體有益，但過量會引發氧化應激，導致疾病。
+- 酮症具有顯著的神經保護作用，可作為防治神經退化性疾病的有效策略。
+- 建立健康的生活方式，平衡ROS水平，對於維護整體健康尤其是腦健康至關重要。
 </details>
 
 <details>
-<summary>1860. Frustrated Visiting Your Doctor? - Dr. Berg</summary><br>
+<summary>1860. [2018-11-25] Frustrated Visiting Your Doctor? - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Ex2RNOoRNzA" target="_blank">
     <img src="https://img.youtube.com/vi/Ex2RNOoRNzA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小結整理：醫療教育中的營養與飲食斷層
 
+#### 核心主題
+- **醫學教育中存在的知識斷層**：現行医学教育未能充分強調飲食和營養在疾病预防、管理和治療中的重要性。
+- **疾病與飲食的關聯性**：飲食習慣直接影響多種疾病的發病機制，包括癌症、肝病、神經系統 disorder 和心理疾患。
+
+#### 主要觀念
+1. **飲食在疾病管理中的作用**
+   - 高糖和精製碳水化合物攝取導致胰島素水平升高，可能誘發或加重某些疾病。
+   - 遊離糖和玉米 syrup 的消費與肥胖、代謝症相關。
+   - 营養缺乏（如硫胺素 deficiency）可影響神經系統功能。
+
+2. **醫學教育的不足**
+   - 電子教科書和課程設計中常忽略飲食和營養的基本信息。
+   - 學生在學習疾病機制時，鮮少接觸如何通過飲食來干預病情。
+
+3. **臨床實踐中的限制**
+   - 對飲食療法的應用不足，導致患者缺乏有效的飲食指導。
+   - 醫生在面對患者時，往往依賴藥物治療而非營養干預。
+
+#### 問題原因
+1. **教育體系的缺陷**：
+   - 醫學院課程過於狹窄，未能將飲食與健康聯繫起來。
+   - 總量繁重的學習內容導致教師和學生無暇顧及飲食營養的教學。
+
+2. **缺乏臨床實踐機會**：
+   - 學生在臨床見習中鮮少觀察到飲食療法的实际應用，影響其後期職業發展中的相關技能。
+
+3. **行業標準不足**：
+   - 醫療界對飲食營養的重視程度不足，缺乏相應的指南和建議。
+
+#### 解決方法
+1. **教育體系改革**：
+   - 將飲食和營養知識納入醫學院核心課程，並配備專業教師。
+   - 增加臨床實踐中飲食療法的教学機會。
+
+2. **醫療機構的改進**：
+   - 設立營養師團隊，為患者提供個化化的飲食指導。
+   - 開發基於證據的飲食療法指南，並在臨床中推广应用。
+
+3. **跨學科合作**：
+   - 推動醫師、營養師和護士的合作，共同制定綜合性治療方案。
+   - 舉办多學科教 dục活動，增強醫護人員的營養意識。
+
+#### 健康建議
+1. **患者層面**：
+   - 患者應主動學習飲食知識，並與醫師討論如何通過飲食來改善健康狀況。
+   - 選擇均衡饮食，控制糖分和精製碳水化合物的攝取。
+
+2. **醫療專業人員**：
+   - 加強對飲食營養的學習，參加相關培訓課程。
+   - 在臨床實踐中積極推薦飲食療法，並與患者共同制定飲食計劃。
+
+3. **公共衛生層面**：
+   - 推廣全民健康飲食教育，提高公眾對飲食與健康的認識。
+   - 興建社區營養中心，為居民提供免費的飲食諮詢服務。
+
+#### 總結
+- 醫療教育中的飲食營養斷層現象值得高度重視。醫學院應該改革課程設置，增強學生對飲食和健康關係的理解。
+- 醫療機構需建立營養師團隊，為患者提供專業的飲食指導。
+- 只有通過教育體系、醫療實踐和公共衛生的綜合改進，才能真正實現「治未病」的理想，降低疾病發生率。
 </details>
 
 <details>
-<summary>1859. What Food Can You Not Resist: Results of Dr. Berg's Survey</summary><br>
+<summary>1859. [2018-11-24] What Food Can You Not Resist: Results of Dr. Berg's Survey</summary><br>
 
 <a href="https://www.youtube.com/watch?v=1lO8wmnSzik" target="_blank">
     <img src="https://img.youtube.com/vi/1lO8wmnSzik/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 视频主题：探讨人们无法抗拒的食物，并以“面包”作为代表。
+- 重点讨论如何通过食谱和技巧来永久避免对面包的诱惑。
 
+### 主要觀念
+1. **调查结果**：
+   - 收集了超过2,500份关于无法抗拒食物的回答。
+   - 数据显示，“面包”是人们最难以 resist 的食物。
+   
+2. **视频内容**：
+   - 提供了一个与面包相关的食谱。
+   - 分享了一种通过特定技术来彻底避免食用面包的方法。
+
+### 問題原因
+- 面包因其独特的口感和香气，成为人们无法抗拒的主因。
+- 现代饮食习惯中，面包在日常饮食中的普及增加了其诱惑力。
+
+### 解決方法
+1. **食谱替代**：
+   - 提供其他食物或食谱作为替代选择，减少对面包的依赖。
+   
+2. **技巧与策略**：
+   - 分享具体的技巧和方法，帮助人们通过改变饮食习惯来避免食用面包。
+
+### 健康建議
+- 注意饮食多样化，寻找健康的替代食品以满足口感需求。
+- 采用科学的方法和技巧来控制食欲，保持均衡的饮食习惯。
+
+### 結論
+- 面包作为最难抗拒的食物之一，其吸引力主要源于其独特的风味和质地。
+- 通过合理的食谱选择和技巧应用，可以有效减少对面包的依赖，从而实现更健康的饮食习惯。
 </details>
 
 <details>
