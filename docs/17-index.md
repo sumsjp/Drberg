@@ -692,113 +692,642 @@
 </details>
 
 <details>
-<summary>1737. Don't Take Iron Supplements if You Are Getting Sick - Dr. Berg on Iron Toxicity</summary><br>
+<summary>1737. [2018-09-20] Don't Take Iron Supplements if You Are Getting Sick - Dr. Berg on Iron Toxicity</summary><br>
 
 <a href="https://www.youtube.com/watch?v=yPgb2h0RHiU" target="_blank">
     <img src="https://img.youtube.com/vi/yPgb2h0RHiU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：鐵與健康的小節歸納
 
+#### 核心主題  
+- 鐵在人體中的多樣功能及其在感染和炎症中的作用。
+
+#### 主要觀念  
+1. 鐵是許多微生物（包括病原菌）生長所需的必需元素。  
+2. 病原菌無法自行合成鐮刀菌素，因此依賴宿主提供的鐵來生存。  
+3. 感染時，人體通過將鐵儲存於 ferritin 中來限制病原菌的生長，這是一種重要的免疫防禦機制。  
+4. 鐵缺乏可能導致貧血，但感染期間血液中铁含量下降是有其保護意義的。  
+
+#### 問題原因  
+- 在感染或壓力時期，補充含鐵營養素可能會削弱身體的自然防禦機制，使病原菌更容易繁殖。
+
+#### 解決方法  
+1. 感染期間避免攝取含鐵的サプリメント或飲食中的鐵 fortified 綠。  
+2. 選擇不含鐵的補充劑以支持免疫系統的功能。  
+
+#### 健康建議  
+- 在身體感到不適或感染時，應避免使用含鐵產品，包括富含鐵的食物和營養補充劑。  
+- 了解食品包裝上的營養標籤，避免攝取不必要的鐵質來源。  
+
+#### 結論  
+- 鐵是微生物生長的必需元素，感染期間人體降低血液中铁含量是一種有效的免疫策略。  
+- 补充含鐵產品可能反影響健康，特別是在身體免疫力下降時。  
+
+---
+
+### 英文摘要  
+**Title:** The Role of Iron in Health and Why to Avoid It When Sick  
+
+**Summary:**  
+Iron is essential for various bodily functions, including supporting both beneficial and harmful microbes. Pathogenic bacteria require iron for growth, making it a critical resource during infections. In response, the body stores iron in ferritin, reducing its availability to pathogens—a defense mechanism that limits microbial proliferation. During sickness, blood iron levels drop, which may lead to anemia but serves as a protective strategy against infection. Supplementation with iron or consumption of iron-fortified foods should be avoided when feeling unwell, as it may hinder the body's natural defense processes. This article emphasizes the importance of understanding the link between pathogens, inflammation, and iron metabolism to maintain optimal health during illness.
 </details>
 
 <details>
-<summary>1736. Hidden Reason Why You're Fat - Beyond Carbs - Dr. Berg on Fat Burning &  Antibiotics Side Effects</summary><br>
+<summary>1736. [2018-09-19] Hidden Reason Why You're Fat - Beyond Carbs - Dr. Berg on Fat Burning &  Antibiotics Side Effects</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5-CwMkfUuS8" target="_blank">
     <img src="https://img.youtube.com/vi/5-CwMkfUuS8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題
+- 抗生素過度使用及其對人體健康的影響，特別是與肥胖的關聯。
+- 转基因作物殺蟲劑（ glyphosate）的環境和健康影響。
+
+#### 主要觀念
+1. **抗生素的副作用**：
+   - 抗生素被廣泛用於 livestock以促進生長。
+   - 消費者可能間接通過食物鏈攝入抗生藥。
+   - 抗生素干擾腸道微生物平衡，導致 weight gain。
+
+2. **Glyphosate 的暴露問題**：
+   - Glyphosate 被美國環境保護局（EPA）指定為抗生素。
+   - 常見於 GMO 食品（ corn, soy, beet sugar 等）。
+   - 已在 36% 的水樣本中檢測到 glyphosate，且其降解产物在 69% 的水樣本中被發現。
+
+#### 問題原因
+1. **農藥使用**：
+   - 大規模農作物噴灑 glyphosate。
+   - 現場取樣顯示 glyphosate 已滯留於環境和飲用水源。
+
+2. **抗生素濫用**：
+   - 80% 的美國抗生素銷售用於 livestock。
+   - 電子獸藥殘留影響消費者健康。
+
+#### 解決方法
+- 消費者應選擇 antibiotic-free 製品，以降低暴露風險。
+- 安裝家用水質淨化器，去除 glyphosate 和其他污染物。
+- 增加益生菌攝取，恢復腸道微生物平衡。
+
+#### 健康建議
+1. **飲食調整**：
+   - 首要選擇有機食品，尤其是蔬菜和肉類。
+   - 減少暴露於 glyphosate 的風險。
+
+2. **水質管理**：
+   - 安裝高效率淨水器，確保飲用水安全。
+   - 监測家庭用水中的農藥殘留情況。
+
+3. **腸道健康**：
+   - 通過益生菌恢復腸道微生物平衡。
+   - 考慮使用優質益生菌產品或攝取含益生元的食物。
+
+#### 結論
+- 抗生素和 glyphosate 的濫用對人體健康構成潛在威脅，特別是與肥胖和其他代謝疾病相關。
+- 消費者需提高對這些問題的警覺性，通過飲食調整、水質淨化和腸道健康管理來降低風險。
+
+### 未明確提及但相關的重要事實或數據
+1. **Glyphosate 的慢性影響**：
+   - 長期暴露可能對免疫系統和代謝功能造成負面影響。
+   - 尚無充分研究其與肥胖的直接關聯，但動物研究表明其可能擾亂脂肪 metabolism。
+
+2. **抗生素的耐藥性問題**：
+   - 抗生素濫用導致抗藥菌株增加，威脅公共衛生。
+   - 現代醫學面臨「後抗生素時代」的挑戰，需尋找替代療法。
+
+3. **有機農業的重要性**：
+   - 有機農業避免使用 glyphosate 和其他合成農藥，提供更健康的食品選擇。
+   - 鼓励支持小型農戶和有機生產，促進可持續農業發展。
 </details>
 
 <details>
-<summary>1735. Is Your Hair Loss Coming from Your Gut? – Dr. Berg on Biotin & Hair Loss Causes</summary><br>
+<summary>1735. [2018-09-19] Is Your Hair Loss Coming from Your Gut? – Dr. Berg on Biotin & Hair Loss Causes</summary><br>
 
 <a href="https://www.youtube.com/watch?v=C8vItCic5sQ" target="_blank">
     <img src="https://img.youtube.com/vi/C8vItCic5sQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 探讨头发脱落与消化系统之间的关系。
 
+---
+
+### 主要觀念  
+1. **生物素（Biotin）的重要性**：  
+   - 生物素是B族维生素之一，对蛋白质合成和头发健康至关重要。
+   - 它作为酶的辅助因子，参与将氨基酸转化为蛋白质，从而促进头发生长。
+
+2. **肠道微生物与生物素生产的关系**：  
+   - 肠道中的有益菌群能够合成包括生物素在内的多种B族维生素。  
+   - 抗生素使用会破坏肠道菌群平衡，减少生物素的产生。
+
+3. **乳酸杆菌 Marinus的作用**：  
+   - 在抗生素滥用的情况下，某些微生物（如Lactobacillus marinus）的生长会被抑制，导致生物素产量下降。
+
+---
+
+### 問題原因  
+1. **抗生素的使用**：  
+   - 抗生素会破坏肠道菌群平衡，减少有益菌的数量，进而降低生物素的合成。  
+
+2. ** glyphosate（草甘膦）的残留问题**：  
+   - 作为广泛使用的除草剂，glyphosate具有抗生素特性，存在于许多食物中，影响肠道菌群平衡。
+
+3. **饮食中的Glyphosate残留**：  
+   - GMO食品和含玉米油、大豆油的产品中可能含有 glyphosate 殘留，进一步干扰肠道健康。
+
+---
+
+### 解決方法  
+1. **补充益生菌**：  
+   - 通过摄入优质益生菌产品（如酸奶或益生菌制剂）来恢复肠道菌群平衡。  
+
+2. **生物素的直接补充**：  
+   - 摄入含有生物素的食物或营养补充剂，以弥补因微生物失衡导致的生物素不足。
+
+---
+
+### 健康建議  
+1. **饮食调整**：  
+   - 减少摄入含 glyphosate 的 GMO 食品和加工食品。  
+   - 增加富含B族维生素的食物（如全谷物、坚果、鸡蛋等）的摄入。
+
+2. **益生菌补充**：  
+   - 定期服用优质益生菌制剂，维持肠道微生物平衡。  
+
+3. **监测头发健康**：  
+   - 如出现显著的头发脱落症状，建议咨询专业医生或营养师，进行进一步检查和治疗。
+
+---
+
+### 結論  
+头发脱落与消化系统密切相关，主要原因是抗生素使用、 glyphosate 殘留等导致肠道菌群失衡，进而影响生物素的合成。通过补充益生菌和生物素、调整饮食习惯，可以有效改善头发健康。
 </details>
 
 <details>
-<summary>1734. The Big Difference Between Fasting & Starving - Dr. Berg</summary><br>
+<summary>1734. [2018-09-18] The Big Difference Between Fasting & Starving - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=bPAm66TbPcY" target="_blank">
     <img src="https://img.youtube.com/vi/bPAm66TbPcY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理： fasting and starvation 的差異與影響
 
+#### 核心主題
+- 比較禁食（Fasting）和饑餓（Starvation）的概念及其生理影響。
+
+#### 主要觀念
+1. **禁食的生理機制**：
+   - 禁食時， организм consumes stored glycogen（肝臟和肌肉中的儲存糖分）。
+   - 後續進入 fat-burning 模式，使用脂肪作為主要能量來源。
+   - 禁食期間通常伴隨食欲減弱、精力充沛的感覺。
+
+2. **饑餓的生理機制**：
+   - 饑餓是指 glycogen 已耗盡後，進一步消耗脂肪儲備。
+   - 此時身體開始分解肌肉和器官組織作為能源。
+   - 饑餓期間會有劇烈的饥饿感和不適。
+
+#### 問題原因
+- 禁食和饑餓的主要區別在於能量來源：
+  - 禁食利用脂肪儲備，而饑餓則消耗肌肉和器官。
+- 饑餓時的營養缺失導致健康問題。
+
+#### 解決方法
+1. **健康的禁食方式**：
+   - 確保足夠的營養攝取，避免長期禁食導致營養失衡。
+   - 建議配合酮飲食（Keto Diet），促進脂肪燃燒而無劇烈 hunger.
+
+2. **健康建議**：
+   - 適當進行禁食以促進身體修復和代謝。
+   - 监控營養攝取，避免進入饑餓階段。
+   - 注意身體Signal，适时进食以維持能量平衡。
+
+#### 結論
+- 禁食是健康的短期能量來源切換，有利於身體修復和 fat-burning。
+- 饑餓則會導致肌肉分解和嚴重健康問題，需避免過度禁食或營養不良。
 </details>
 
 <details>
-<summary>1733. Is Keto and Intermittent Fasting Too Hard or Restrictive? - Dr. Berg</summary><br>
+<summary>1733. [2018-09-18] Is Keto and Intermittent Fasting Too Hard or Restrictive? - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xeL9O3UUiDY" target="_blank">
     <img src="https://img.youtube.com/vi/xeL9O3UUiDY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：如何輕鬆開始健康生酮飲食計劃
 
+#### 核心主題
+- 探讨如何使生酮飲食計劃更適合新手，特別是針對常見問題提供實用建議。
+
+#### 主要觀念
+1. ** cravings for carbohydrates**
+2. ** hunger and blood sugar issues**
+3. ** love for starches like potato, rice, and bread**
+4. **dislike for vegetables**
+5. **difficulty in meal planning**
+6. **transitioning into the program**
+7. **temptation from junk food**
+8. **access to keto-friendly meals**
+
+#### 問題原因
+1. **Cravings for Carbohydrates**: 
+   - 新手在開始生酮飲食時，可能會受到碳水化合物的強烈渴望影響。
+   
+2. ** Hunger and Blood Sugar Issues**:
+   - 生酮飲食可能導致頻繁的饥饿感和血糖波動。
+
+3. **Love for Starches**:
+   - 喜歡土豆、大米、麵包等淀粉類食物的人，可能會在生酮飲食中感到困難。
+
+4. **Dislike for Vegetables**:
+   - 不喜歡吃蔬菜的新手可能難以攝取足夠的營養和纖維。
+
+5. **Difficulty in Meal Planning**:
+   - 擅長規劃餐點的人可能難以持續進行生酮飲食計劃。
+
+6. **Transitioning into the Program**:
+   - 過渡到生酮飲食可能會遇到適應問題，例如血糖水平的變化。
+
+7. **Temptation from Junk Food**:
+   - 家中或周圍環境中的垃圾食品可能成為堅持生酮飲食的障礙。
+
+8. **Access to Keto-Friendly Meals**:
+   - 難以找到合适数量和質量的低碳水化合物餐點可能影響計劃的執行。
+
+#### 解决方法
+1. **Managing Carbohydrate Cravings**:
+   - 了解在開始生酮飲食後，碳水化合物渴望會逐漸消失。
+   - 探索替代食物來滿足對甜食或零食的欲望，例如使用代用食品如 cauliflower pizza 或 mac and cheese。
+
+2. **Addressing Hunger and Blood Sugar Issues**:
+   - 在餐點中添加健康的脂肪來增加飽足感，例如坚果、牛油果和 almond butter。
+   - 選擇高脂低碳水化合物的食物來穩定血糖水平。
+
+3. **Substituting Starches with Keto-Friendly Options**:
+   - 使用 Cauliflower 等蔬菜作為淀粉的替代品，製作如 pizza 或 mac and cheese。
+   - 探索其他低碳水化合物食物來模擬傳統淀粉類食物的味道和質地。
+
+4. **Incorporating Vegetables Gradually**:
+   - 從少量開始，逐步增加攝取量。例如從小份沙拉開始，然後逐漸加入更多多樣化的蔬菜。
+   - 選擇喜歡的蔬菜形式，如泡菜或 Sauerkraut，來輕易融入飲食中。
+
+5. **Simplifying Meal Planning**:
+   - 制定每日餐點計劃，避免臨時決定導致脫軌。例如安排簡單的兩餐：早餐和晚餐。
+   - 提前為每一天做好食物準備，確保足夠的時間和資源來執行計劃。
+
+6. **Easing into the Program with Intermittent Fasting**:
+   - 開始時採用間歇性禁食，逐步降低飲食次數。例如一天只吃一餐或兩餐。
+   - 減少進食次數有助於降低胰島素水平，提升身體適應生酮狀態的能力。
+
+7. **Removing Temptations**:
+   - 清理家中和周圍環境中的垃圾食品，避免誘惑。
+   - 質疑購買的零食，確保飲食環境中只存在符合生酮飲食的食物選擇。
+
+8. **Improving Access to Keto-Friendly Meals**:
+   - 考慮訂餐服務或自己準備低碳水化合物食物，確保每日攝取足夠的營養。
+   - 利用現代電子產品和應用程序來查找和規劃適合的餐點。
+
+#### 健康建議
+1. **逐步适应**：不要突然切斷所有碳水化合物的攝取，而是逐步降低攝量，讓身體有時間適應酮症。
+2. **注重營養均衡**：確保飲食中包含足夠的蛋白質、健康脂肪和微量營養素，避免營養不均。
+3. **增加運動**：適當的運動可以幫助消耗體內糖分，促進進入酮osis狀態。
+4. **保持 hydration**：充足的水分攝取有助於代謝過程和防止頭暈等副作用。
+
+#### 結論
+- 生酮飲食計劃對於新手來說可能具備挑戰性，但通過適當的策略和方法，可以顯著降低障礙。關鍵在於逐步調整飲食習慣、合理規劃餐點並避免誘惑。每個小改變都能夠積累成持續的成功，幫助新手順利進入並維持酮osis狀態，從而享受健康的生活方式。
 </details>
 
 <details>
-<summary>1732. Dr. Berg "Trying" to Find Keto Friendly Foods at the Grocery Store</summary><br>
+<summary>1732. [2018-09-17] Dr. Berg "Trying" to Find Keto Friendly Foods at the Grocery Store</summary><br>
 
 <a href="https://www.youtube.com/watch?v=52wkOBQ4uQY" target="_blank">
     <img src="https://img.youtube.com/vi/52wkOBQ4uQY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 食品健康與成分分析：探討市售食品中常見的不良添加物及其對健康的影響。
+
+#### 主要觀念
+1. **食品成分的危害**：
+   - 含有高量糖分，包括高果糖玉米 syrup、蔗糖、DEXTRoose 等。
+   - 添加劑如人工香料、色素、防腐劑等可能對健康造成負面影響。
+   - 遊離糖的攝取過量會導致肥胖、糖尿病及其他代謝疾病。
+
+2. **加工食品的問題**：
+   - 多數加工食品含有 GMO 转基因成分，例如大豆油、棕榈油等。
+   - 包裝食品中常見合成物質，如反式脂肪酸、防腐劑等，增加健康風險。
+
+3. **低脂或減糖產品的缺點**：
+   - 即使標榜低糖或無糖，仍可能含有其他高熱量成分，例如代糖或食用油。
+   - 這些產品未必能有效幫助消費者控制血糖或體重。
+
+#### 問題原因
+- 食品工業為追求成本降低及口味提升，常添加廉價且不健康的原料。
+- 消費者對食品標籤的閱讀不足，導致攝取到有害成分而不自知。
+
+#### 解決方法
+1. **選擇天然成分**：
+   - 選擇未加工或 minimally processed 的食物，如水果、蔬菜、全穀物等。
+   - 注意食品包裝上的成份標籤，避免含有 GMO 成分及人工添加劑。
+
+2. **控制糖分攝取**：
+   - 減少飲用含糖量高的飲料，如汽水、運動飲料等。
+   - 選擇低糖或無糖的食品，但需注意其他成分是否健康。
+
+3. **提高食物敏感度**：
+   - 學習如何閱讀食品標籤，特別是小さ ingredients 中可能含有的隱藏糖分及有害添加物。
+   - 對於加工食品保持警覺，避免過度依賴。
+
+#### 健康建議
+1. **均衡飲食**：
+   - 多攝取高纖維食物，如燕麥、糙米等，有助於控制血糖水平。
+   - 增加蛋白質攝取，如魚類、豆類等，提供長時間的飽足感。
+
+2. **健康替代品**：
+   - 使用天然甜味劑，如蜂蜜或椰糖，並盡量少量使用。
+   - 替代不健康的油類，如用橄欖油或花生油取代大豆油。
+
+3. **避免加工食品**：
+   - 避免購買市售即食食品，尤其是含有多種添加劑的產品。
+   - 自己製作食物，可控制食材來源及添加物質。
+
+#### 結論
+- 消費者需提高對食品成份的警覺性，並主動選擇健康的飲食方式。
+- 食品工業應負起更多責任，提供更透明的成份資訊，並減少 harmful additives 的使用。
+- 健康的飲食習慣是預防慢性疾病的關鍵，需長期且持續的努力。
 </details>
 
 <details>
-<summary>1731. 3-Year Follow Up Interview with 600+ lb Steve</summary><br>
+<summary>1731. [2018-09-17] 3-Year Follow Up Interview with 600+ lb Steve</summary><br>
 
 <a href="https://www.youtube.com/watch?v=YbwMKbjhtAA" target="_blank">
     <img src="https://img.youtube.com/vi/YbwMKbjhtAA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 长期健康和体重管理的成功案例与方法。
+- 通过简单的饮食和生活方式改变实现持续的健康改善。
+
+#### 主要觀念
+1. **_simple diet approach_**
+   - 强调饮食简化的重要性，避免复杂的饮食计划。
+   - 倡导选择少量但高质量的食物，如 salads、坚果等。
+   
+2. **_consistent effort and discipline_**
+   - 强调持续的努力和纪律在健康维持中的关键作用。
+   - 通过每日的坚持和自我约束实现长期目标。
+
+3. **_gut health and microbiome importance_**
+   - 提出肠道健康对整体代谢和体重管理的重要性。
+   - 通过饮食调整改善肠道菌群平衡，促进身体代谢功能。
+
+4. **_avoidance of processed foods and sugars_**
+   - 指出加工食品和糖类对健康的负面影响。
+   - 建议减少摄入这些食物以避免健康问题。
+
+5. **_physical activity and exercise_**
+   - 强调规律的运动在体重管理和身体健康中的作用。
+   - 通过定期锻炼提高身体代谢率和能量水平。
+
+#### 問題原因
+1. **_traditional diet plans fail due to complexity_**
+   - 复杂的饮食计划难以长期坚持，导致失败。
+   
+2. **_commercial interests mislead public health_**
+   - 糖类和碳水化合物产业的利益影响公众健康信息，误导消费者。
+
+3. **_social and environmental challenges_**
+   - 社会环境中的不健康食品选择和生活方式对个人健康的挑战。
+
+#### 解决方法
+1. **_adopt a simple and sustainable diet plan_**
+   - 制定简单易行的饮食计划，如每日固定几项食物选择。
+   
+2. **_educate oneself about food and nutrition_**
+   - 提高自身的营养知识，学会正确选择和阅读食品标签。
+
+3. **_practice intermittent fasting_**
+   - 采用间歇性禁食法，帮助控制食欲和摄入量。
+
+4. **_maintain regular physical activity_**
+   - 保持规律的运动习惯，增强体质和代谢功能。
+
+5. **_build a supportive social network_**
+   - 建立支持性的社交网络，互相鼓励和监督健康行为。
+
+#### 健康建議
+1. **_focus on whole, unprocessed foods_**
+   - 多选择全天然、未加工的食物，减少添加剂的摄入。
+   
+2. **_monitor portion sizes and avoid overeating_**
+   - 注意食物分量，避免过量进食。
+   
+3. **_stay hydrated and maintain proper nutrition_**
+   - 保持充足的水分摄入，确保营养均衡。
+
+4. **_prioritize sleep and mental health_**
+   - 确保足够的睡眠时间和良好的心理健康状态。
+
+5. **_track progress and adjust as needed_**
+   - 定期记录健康进展，根据实际情况调整饮食和运动计划。
+
+#### 结論
+- 通过简单的饮食方法、持续的努力和正确的健康观念，可以实现长期的体重管理和身体健康。
+- 避免被复杂饮食计划和社会商业利益误导，选择适合自己的健康生活方式。
+- 健康的生活方式不仅能够改善身体状况，还能提升整体生活质量和社会互动能力。
+
+---
+
+### 英文摘要
+
+This article discusses the successful long-term health and weight management strategies of an individual who has transformed their life through simple dietary changes and consistent effort. The core themes include the importance of a minimalist diet, regular physical activity, and avoiding processed foods and sugars. Key insights emphasize the role of gut health, the challenges posed by commercial interests in promoting unhealthy food choices, and the need for sustained discipline to maintain progress. Practical solutions such as intermittent fasting, mindful portion control, and building a supportive social network are highlighted. The conclusion underscores the benefits of adopting sustainable lifestyle changes that prioritize whole foods, regular exercise, and mental well-being, leading to improved physical health and enhanced quality of life.
 </details>
 
 <details>
-<summary>1730. Normalizing Blood Sugars is Only Part of the Solution</summary><br>
+<summary>1730. [2018-09-16] Normalizing Blood Sugars is Only Part of the Solution</summary><br>
 
 <a href="https://www.youtube.com/watch?v=JoAIA4E2SaM" target="_blank">
     <img src="https://img.youtube.com/vi/JoAIA4E2SaM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：胰島素抵抗與血糖管理
 
+#### 核心主題
+- 胰島素抵抗（Insulin Resistance）及其對健康的影響。
+- 血糖控制在糖尿病治療中的重要性及局限性。
+
+#### 主要觀念
+1. **胰島素的功能**：
+   - 論述胰島素不僅是血糖調節激素，還是處理 excess carbohydrates 的主要工具。
+   
+2. **血糖 disposal 的問題**：
+   - 糖尿病治療中過於關注降低血糖水平，但忽視了血糖去向的問題。
+
+3. **血糖 storage 的風險**：
+   - 血糖被存儲在肝臟、胰腺、心臟等器官以及 visceral fat 中，長期下來會導致這些部位肥大，進而引發其他健康問題。
+
+4. **藥物治療的局限性**：
+   - 藥物如 metformin、glucophage 或胰島素雖能降低血糖，但未解決根本問題，僅是「治標不治本」。
+
+#### 問題原因
+- 糖尿病治療過於依賴藥物，忽視了 diet 和生活方式的調整。
+- 血糖控制目標狹隘，只注重血液中的 glucose 水平，而未考慮其全身性影響。
+
+#### 解決方法
+1. **飲食調整**：
+   - 限制糖分、碳水化合物的攝取，以從源頭上減少血糖負擔。
+   
+2. **生活方式改變**：
+   - 配合運動等方式，提高胰島素敏感性，改善身體對 insulin 的利用。
+
+3. **治療目標的重新設定**：
+   - 強調「normalizing blood glucose」之外，還應該追求「whole-body glucose normalization」。
+
+#### 健康建議
+- 與醫生討論治療目標，不只是血糖水平的控制，更要考慮整體代謝健康。
+- 通過飲食結構的調整來降低對藥物的依賴，从根本解決問題。
+
+#### 結論
+- 藥物治療雖能暫時改善血糖指標，但無法帶來整體健康的好轉。
+- 長期來說，需要依靠飲食和生活方式的改變，實現真正的血糖管理和疾病預防。
 </details>
 
 <details>
-<summary>1729. Cirrhosis, Bile Salts & Your Microbiome – Liver Disease Treatment Dr. Berg</summary><br>
+<summary>1729. [2018-09-16] Cirrhosis, Bile Salts & Your Microbiome – Liver Disease Treatment Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=e1W9fMS1jZM" target="_blank">
     <img src="https://img.youtube.com/vi/e1W9fMS1jZM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- **膽汁、肝脏与腸道菌群的功能及其相互作用**
+- ** bile production, liver health, and gut microbiome**
+
+#### 主要觀念
+1. **膽汁的功能**:
+   - 膽汁作為一種「腸道清潔劑」，主要用於乳化脂肪。
+   - 膽汁將大脂肪顆粒分解為更小的微粒，便於胰酶進一步消化。
+   - 膽汁有助於吸收脂溶性維生素（如維生素D、E、K）和必需脂肪酸（如ω-3脂肪酸，包括DHA）。
+
+2. **膽汁的來源與存儲**:
+   - 胆汁由肝脏生產，並通過膽囊濃縮約20倍。
+   - 無膽囊時，膽汁直接流入小腸，但因未被濃縮，消化效率降低。
+
+3. **腸道菌群的角色**:
+   - 腫大的部分腸道菌群協助循環和再生膽汁。
+   - 每日膽汁可循環4至12次，體內回收效率極高（約95%）。
+
+#### 問題原因
+1. **膽汁不足的原因**:
+   - 醫療干預：如膽囊切除手術導致膽汁濃度降低。
+   - 肝臟損傷：脂肪肝、肝炎或肝硬化影響膽汁生產。
+   - 膳食因素：Omega-3脂肪酸攝取不足，影響脂溶性維生素吸收。
+
+2. **腸道菌群失衡**:
+   - 抗生素使用或 diarrhoea 可導致有益菌數量減少。
+   - 電子產品干擾腸道菌群平衡（文中未詳細提及，但可推測為現代生活方式的影響）。
+   - 膽汁不足可能引發有害菌過度生長。
+
+#### 解決方法
+1. **改善膽汁生產**:
+   - 確保攝取足夠的Omega-3脂肪酸和其他脂溶性維生素。
+   - 通過飲食調整或補充劑來支持肝脏健康。
+
+2. **恢復腸道菌群平衡**:
+   - 適當攝取益生元和益生菌以促進有益菌生長。
+   - 減少抗生素的使用，除非必要。
+
+3. **生活方式調整**:
+   - 控制慢性病（如糖尿病、脂肪肝等）以降低肝脏負擔。
+   - 保持良好的飲食習慣，避免過量攝取糖分和澱粉。
+
+#### 健康建議
+1. **飲食方面**:
+   - 多攝取富含Omega-3脂肪酸的食物（如深海魚類、亞麻籽）。
+   - 減少精製糖和高澱粉食物的攝取，以降低肝脏炎症風險。
+
+2. **健康管理**:
+   - 定期檢查肝脏功能，特別是有脂肪肝或慢性病史的人群。
+   - 跟蹤腸道健康，注意消化系統症狀（如腹脹、 diarrhoea 等）。
+
+3. **藥物使用**:
+   - 避免不必要的抗生素使用，以防止腸道菌群失衡。
+   - 在醫生指導下使用膽汁鹽或其他補充劑。
+
+#### 結論
+- 膽汁、肝脏和腸道菌群之間的相互作用對整體健康至關重要。
+- 膽汁不足不僅影響脂肪消化和營養吸收，還可能導致腸道菌群失衡，進而引發多種健康問題。
+- 通過飲食調整、藥物管理和生活方式改變，可以有效改善膽汁生產和腸道菌群平衡，從而促進整體健康。
 </details>
 
 <details>
-<summary>1728. Prevent Toxemia - Preeclampsia in Pregnancy – Dr.Berg</summary><br>
+<summary>1728. [2018-09-15] Prevent Toxemia - Preeclampsia in Pregnancy – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=UhE-nt_Q0rM" target="_blank">
     <img src="https://img.youtube.com/vi/UhE-nt_Q0rM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：Toxemia（先兆子癇前期）
 
+Toxemia，即先兆子癇前期，是一種妊娠期嚴重並發症，伴隨高血壓、蛋白尿、紅血球破裂、肝腎功能受損、浮腫、癲癇和早產等症狀，對母體和胎兒生命構成威脅。
+
+### 主要觀念：
+
+1. **定義與影響**：
+   - Toxemia是一種妊娠期的嚴重並發症。
+   - 每年美國約有3萬例胎兒死亡和200例孕婦死亡與此相關。
+
+2. **病因學說**：
+   - 根據John Erwin MD的研究，Toxemia主要由B族維生素（特別是硫胺素，即B1）缺乏引起。
+   - 維生素B1吸收障礙可能與胎盤阻隔有關。
+
+### 問題原因：
+
+- **營養失衡**：特定個體因胎盤阻隔導致維生素B1吸收不足，引發Toxemia。
+
+### 解決方法：
+
+1. **營養干預**：
+   - 每日補充100毫克的維生素B1已被證明有效。
+   - 維生素B複合營養素（如營養酵母）的攝取也至關重要，因其中含有多種B族維生素。
+
+2. **教育與預防**：
+   - 門診孕婦和公眾需提高對Toxemia及其預防措施的認識。
+   - 推薦閱讀John Erwin MD的《自然妊娠之路：解開Toxemia之謎》以深入了解。
+
+### 健康建議：
+
+1. **飲食調整**：
+   - 確保均衡飲食，攝取足夠的B族維生素。
+
+2. **補充療法**：
+   - 孕婦每日服用100毫克維生素B1。
+   - 配合攝取營養酵母以獲取更多B族維生素。
+
+3. **定期監測**：
+   - 學會自我監控，早期發現症狀並及時就醫。
+
+### 結論：
+
+Toxemia是一種可防可控的妊娠æa。關鍵在於提高對其病因和防治措施的認識，通過營養干預（特別是維生素B1的補充）來降低發生風險。本書提供了豐富的案例研究和科學依據，強調了孕期營養的重要性。孕婦及相關人員應踴躍閱讀並採納這些建議，以保障母婴健康。
 </details>
 
 <details>
@@ -1281,46 +1810,33 @@
         alt="[Youtube]" width="200">
 </a>
 
-### 核心主題
-- ** recipe development and presentation**: This article discusses the creation and presentation of a new recipe, specifically a raspberry cream cheese fat bomb.
+### 核心主題  
+- 本篇文章主要圍繞如何製作一款名為「 Raspberry Cream Cheese Fat Bomb」的食谱進行介紹。
+- 文章強調了脂肪炸弹（Fat Bomb）的概念及其作為低碳水化合物飲食的一部分的重要性。
 
-### 主要觀念
-1. **Recipe Introduction**:
-   - The recipe is part of a series focused on "fat bombs," which are likely low-carbohydrate, high-fat snacks.
-   - The specific recipe introduced is the "raspberry cream cheese fat bomb."
+### 主要觀念  
+- 脫脂奶酪和水果的組合可以創造出具備豐富口感和風味的脂肪炸弹。
+- 該食谱簡單易做，適合在家製作。
+- 製作者強調了食物 texture 和 flavor 的重要性。
 
-2. **Recipe Characteristics**:
-   - The fat bomb has two layers: raspberry and lemon cream.
-   - It combines raspberries with cream cheese for a creamy texture.
+### 問題原因  
+- 使用cream cheese制作的fat bomb如果 thawed（解凍）過度，可能會變得過於柔軟甚至成為糊狀。
+- 過度解凍導致食物失去其結構和口感。
 
-3. **Texture Considerations**:
-   - The ideal texture for these fat bombs is slightly thawed but not rock-hard.
-   - Over-softening can lead to a mushy consistency, which may affect the overall quality of the snack.
+### 解決方法  
+- 控制解凍的程度，確保脂肪炸弹既不過於堅硬也不過於柔軟。
+- 將脂肪 bombs 存放在冰箱中以保持適當的 texture 和 freshness。
+- 注意 cream cheese 的使用量，避免過多導致成品過於柔軟。
 
-### 問題原因
-- **Texture Challenges**: 
-  - Freezing and thawing can result in inconsistent textures, particularly if the fat bombs become too soft or mushy.
+### 健康建議  
+- 低碳水化合物飲食者可以通過食用fat bomb來增加攝入的健康脂肪。
+- 選擇新鮮的水果如raspberry和lemon來提升食谱的風味，同时提供微量營養素。
+- 食用fat bombs宜在飯後作為甜點，避免單獨當作零食，以維持血糖穩定。
 
-### 解決方法
-1. **Optimal Serving Temperature**:
-   - Suggest storing the fat bombs in the fridge to achieve a slightly thawed texture.
-   - Avoid over-thawing to prevent a mushy consistency.
-
-2. **Consistency Tips**:
-   - Ensure proper freezing techniques to maintain shape and texture when thawed.
-
-### 健康建議
-- **Nutritional Considerations**:
-  - The combination of raspberries and lemon cream provides a flavor similar to electrolyte powder, suggesting a balance between taste and potential health benefits.
-  - Fat bombs are typically high in healthy fats and low in carbohydrates, making them suitable for certain dietary lifestyles.
-
-### 結論
-- **Recipe Success**: 
-  - The raspberry cream cheese fat bomb is described as delicious and well-received.
-  - Proper preparation and storage can enhance the overall quality and texture of the snack.
-
-- **Future Considerations**:
-  - Encourages trying similar recipes within the fat bomb series, indicating potential for further experimentation with flavors and textures.
+### 結論  
+- 本文介紹了一款簡單又美味的 Raspberry Cream Cheese Fat Bomb 食谱。
+- 該食谱結合了健康脂肪來源和新鮮水果，適合低碳水化合物飲食者。
+- 成功製作fat bomb的關鍵在於 texture 和 flavor 的平衡。
 </details>
 
 <details>
