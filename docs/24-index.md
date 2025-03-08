@@ -4952,7 +4952,7 @@ Sir Kensington蛋黃醬和芥末醬在整體成分上表現良好，但微量糖
 </details>
 
 <details>
-<summary>2409. Can Calorie Restriction Slow Aging? – Side Effects of Low Calorie Diet – Dr.Berg</summary><br>
+<summary>2409. [2019-09-16] Can Calorie Restriction Slow Aging? – Side Effects of Low Calorie Diet – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=q-H_eX97M8Q" target="_blank">
     <img src="https://img.youtube.com/vi/q-H_eX97M8Q/maxresdefault.jpg" 
@@ -4961,11 +4961,51 @@ Sir Kensington蛋黃醬和芥末醬在整體成分上表現良好，但微量糖
 
 # Can Calorie Restriction Slow Aging? – Side Effects of Low Calorie Diet – Dr.Berg
 
+### 文章標題  
+The Impact of Caloric Restriction on Longevity and Health: A Critical Analysis  
 
+---
+
+### 小節歸納  
+
+#### 1. 核心主題  
+- 探讨热量限制（caloric restriction）对延长寿命的影响及其在人类中的可行性。  
+
+#### 2. 主要觀念  
+- 热量限制在動物研究中被證明可以延長壽命，但 humans 的效果存在爭議。  
+- 短期的低熱量飲食可能有效，但長期來看往往難以持續且對代謝有害。  
+
+#### 3. 問題原因  
+- 長期低熱量飲食會導致：  
+  - 血糖波動（尤其是在高碳水化合物飲食中）。  
+  - 腸道激素失衡，引發強烈的饥饿感和暴食傾向。  
+  - 代謝率下降，影響長期健康和壽命。  
+- 經常導致營養不足，尤其是长期實施的情況下。  
+
+#### 4. 解決方法  
+- 選擇低碳水化合物、高脂肪的飲食方式（如酮飲食），以降低血糖和胰島素水平，從而激活與长寿相關的表觀遺傳學途徑。  
+- 採用間歇性禁食（intermittent fasting）：  
+  - 縮短進食時間，讓身體有更多機會燃燒脂肪stores。  
+  - 減少進餐次數，自然降低每日攝入熱量。  
+
+#### 5. 健康建議  
+- 避免低脂飲食，因其會刺激 hunger 和影響代謝。  
+- 確保飲食中富含營養密集的食物（nutrient-dense foods），以避免營養缺乏。  
+- 減少精制碳水化合物的攝入，選擇健康的脂肪來源。  
+
+#### 6. 結論  
+- 熱量限制本身未必是最佳策略；關鍵在於通過低血糖飲食和間歇性禁食降低胰島素水平，從而引發有益的表觀遺傳學變化。  
+- 適當調整飲食結構和進餐模式，可以實現可持續的健康改善和壽命延長。  
+
+---
+
+### 英文標題及關鍵字  
+**Title:** The Impact of Caloric Restriction on Longevity and Health: A Critical Analysis  
+**Keywords:** Caloric restriction, longevity, intermittent fasting, epigenetics
 </details>
 
 <details>
-<summary>2408. Cracking Knuckles – Is it Okay to Crack Your Knuckles? Dr.Berg Answers</summary><br>
+<summary>2408. [2019-09-16] Cracking Knuckles – Is it Okay to Crack Your Knuckles? Dr.Berg Answers</summary><br>
 
 <a href="https://www.youtube.com/watch?v=MFs2dwPbwRs" target="_blank">
     <img src="https://img.youtube.com/vi/MFs2dwPbwRs/maxresdefault.jpg" 
@@ -4974,11 +5014,35 @@ Sir Kensington蛋黃醬和芥末醬在整體成分上表現良好，但微量糖
 
 # Cracking Knuckles – Is it Okay to Crack Your Knuckles? Dr.Berg Answers
 
+### 文章重點整理
 
+#### 核心主題
+- 探讨关节弹响（如掰手指）是否会导致骨关节炎（arthritis）。
+
+#### 主要觀念
+1. 关节弹响并不会直接导致骨关节炎。
+2. 骨骼之间的关节由关节囊包裹，内含 synovial fluid（滑液），其中溶解有气体。
+3. 弹响的产生是由于关节囊被拉伸，导致气体从液体中逸出并形成气泡破裂的声音。
+
+#### 問題原因
+- 关节弹响引起的原因：
+  - 肢体动作使关节受到快速拉伸或压缩。
+  - 滑液中的气体（如氮气）在压力变化下迅速释放，产生声响。
+
+#### 解決方法
+- 建议避免过度频繁的关节弹响行为，以减少对周围人的干扰和潜在的关节不适。
+
+#### 健康建議
+1. 若因关节弹响感到疼痛或不适，应咨询医疗专业人员。
+2. 在公共场合进行关节弹响时应保持适度，以免影响他人感受。
+3. 可选择适当的伸展运动来替代频繁的关节弹响行为。
+
+#### 結論
+- 关节弹响本身不会导致骨关节炎，但过度或不当的行为可能会引起周围人的不适或对自身造成潜在的健康问题。因此，建议在进行关节弹响时注意场合和频率，并关注身体反应。
 </details>
 
 <details>
-<summary>2407. The Top Vitamin K2 Foods – Best Vitamin K2 Sources – Dr.Berg</summary><br>
+<summary>2407. [2019-09-15] The Top Vitamin K2 Foods – Best Vitamin K2 Sources – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=flfg5b9b8Vw" target="_blank">
     <img src="https://img.youtube.com/vi/flfg5b9b8Vw/maxresdefault.jpg" 
@@ -4987,11 +5051,49 @@ Sir Kensington蛋黃醬和芥末醬在整體成分上表現良好，但微量糖
 
 # The Top Vitamin K2 Foods – Best Vitamin K2 Sources – Dr.Berg
 
+### 小節結構：
 
+1. **核心主題**
+   - 探讨维生素K2的作用及其在饮食中的重要性。
+
+2. **主要觀念**
+   - 维生素K1与K2的区别：
+     - K1主要功能：参与血液凝固，防止出血。
+     - K2主要功能：调节钙代谢，防止软组织钙化，促进骨骼健康。
+   - 饮食中维生素K2的来源丰富多样。
+
+3. **問題原因**
+   - 维生素K2不足可能导致：
+     - 冠状动脉钙化。
+     - 关节问题。
+     - 骨骼脆弱。
+
+4. **解決方法**
+   - 摄取富含维生素K2的食物：
+     - 发酵食品：纳豆（fermented soybeans）。
+     - 动物肝脏：鹅肝、鸭肝、鸡肝、牛肝、猪肝。
+     - 蛋类： pasture-raised organic鸡蛋的蛋黄。
+     - 牛奶制品： grass-fed牛奶及其制品（如黄油、酸奶奶酪、奶油奶酪）。
+     - 香肠和火腿：如意大利香肠、萨拉米香肠等。
+     - 其他：emu油、 Sauerkraut。
+
+5. **健康建議**
+   - **补充剂量建议**：
+     - 维生素K2每日推荐量：
+       - 维生素K2的 maintenance dose（维持剂量）：100微克。
+       - therapeutic dose（治疗剂量）：400微克。
+     - 注意维生素D3与维生素K2的搭配：
+       - 若服用100微克K2，建议同时补充10,000 IU的维生素D3。
+       - 若服用200微克K2，建议同时补充20,000 IU的维生素D3。
+
+6. **結論**
+   - 维生素K2在促进骨骼健康、防止软组织钙化方面具有重要作用。
+   - 通过饮食摄取足够的维生素K2是维护整体健康的重要策略。
+   - 合理搭配维生素D3与维生素K2，以最大化其对人体的益处。
 </details>
 
 <details>
-<summary>2406. The Benefits of Hyperbaric Oxygen Therapy (HBOT)</summary><br>
+<summary>2406. [2019-09-15] The Benefits of Hyperbaric Oxygen Therapy (HBOT)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=H-8mZBkgKfQ" target="_blank">
     <img src="https://img.youtube.com/vi/H-8mZBkgKfQ/maxresdefault.jpg" 
@@ -5000,7 +5102,58 @@ Sir Kensington蛋黃醬和芥末醬在整體成分上表現良好，但微量糖
 
 # The Benefits of Hyperbaric Oxygen Therapy (HBOT)
 
+### 小節整理：高壓氧療法（Hyperbaric Oxygen Therapy, HBOT）
 
+#### 核心主題
+- **高壓氧療法**：一種通過在高壓環境下吸入純氧來改善組織氧供的治療方法。
+- **科學依據**：由軍事研究支持，已在醫院廣泛應用，保險可報銷。
+
+#### 主要觀念
+1. **正常氧氣攝取不足**：
+   - 常規呼吸中，氧氣濃度僅為21%，導致某些組織（如受損或感染部位）缺氧（低氧血症）。
+2. **高壓氧療法的作用機制**：
+   - 提升氧氣濃度至接近100%，促進氧氣進入血液、組織和器官，改善供氧。
+3. **.stem細胞激活**：
+   - 能夠刺激干細胞增殖（最高可達800%），這些未分化細胞可轉化為特定功能細胞，用於修復受損組織。
+
+#### 應用範圍
+1. **神經系統疾病**：
+   - 阿茲海默症、中風。
+2. **心血管疾病**：
+   - 心絞痛、冠狀动脉病。
+3. **呼吸系統疾病**：
+   - 支氣管哮喘、慢性阻肺病（COPD）。
+4. **免疫及炎症性疾病**：
+   - 多發性硬化症（MS）、自身免疫疾病。
+5. **創傷修復**：
+   - 難以癒合的潰瘍、外傷後炎症。
+6. **腫瘤與癌症**：
+   - 抑制腫瘤生長，阻斷angiogenesis（血管生成），防止腫瘤惡化。
+
+#### 問題原因
+- **缺氧誘發問題**：低氧環境導致組織功能障礙或病灶。
+- **腫瘤的特性**：腫瘤細胞 metabolism 依賴糖酵解，使其存活並增殖。
+
+#### 解決方法
+1. **高壓氧療法**：
+   - 提供高濃度氧氣，改善全身氧供。
+   - 抑制腫瘤生長和血管生成，防止惡化。
+2. **干細胞激活**：
+   - 刺激幹細胞修復受損組織。
+
+#### 健康建議
+1. **治療頻率與時間**：
+   - 每次療程1至3小時，每周3次，具體次數依病情而定。
+2. **獲得方式**：
+   - 至專業機構接受治療（需醫生開具處方）。
+   - 家用設備：可租賃或購買供個人使用。
+3. **長期效果**：
+   - 需25至35次療程才能顯著影響基因表達，建議持續治療。
+
+#### 結論
+- **有效性**：已被大量研究證實，具備科學性和可信度。
+- **應用廣泛性**：不僅用於疾病治療，也可作為康體和抗衰老手段。
+- **未來展望**：值得進一步研究其在更多醫療領域的潛力。
 </details>
 
 <details>
@@ -5017,7 +5170,7 @@ Sir Kensington蛋黃醬和芥末醬在整體成分上表現良好，但微量糖
 </details>
 
 <details>
-<summary>2404. Tomato vs Carrots: Which Is Better On Keto? – Dr.Berg</summary><br>
+<summary>2404. [2019-09-14] Tomato vs Carrots: Which Is Better On Keto? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=L5555CbLp90" target="_blank">
     <img src="https://img.youtube.com/vi/L5555CbLp90/maxresdefault.jpg" 
@@ -5026,11 +5179,82 @@ Sir Kensington蛋黃醬和芥末醬在整體成分上表現良好，但微量糖
 
 # Tomato vs Carrots: Which Is Better On Keto? – Dr.Berg
 
+### 核心主題: 低碳水化合物飲食（生酮飲食）下蔬菜的選擇與影響
 
+- **主要內容**: 討論了番茄、胡蘿蔔和馬鈴薯在生酮飲食中的碳水化合物含量、纖維含量及糖分，強調了淨碳水化合物計算的重要性。
+
+---
+
+### 主要觀念:
+1. **低碳水化合物飲食的基本原理**:
+   - 生酮飲食強調低碳水化合物攝取以保持血糖穩定和胰島素水平。
+   - 推薦使用「淨碳水化合物」（Net Carbs）而非「總碳水化合物」，因纖維不會影響血糖。
+
+2. **蔬菜的選擇標準**:
+   - 選擇低糖、高纖維的蔬菜以降低血糖反應。
+   - 搭配低碳水化合物飲食時，需注意蔬菜的碳水含量及其對血糖的潛在影響。
+
+3. **番茄 vs 胡蘿蔔的比較**:
+   - 番茄: 11克總碳水化合物，1.5克纖維，淨碳水化合物為9.5克。
+   - 胡蘿蔔: 12克總碳水化合物，3克纖維，淨碳水化合物為9克。
+   - 番茄的淨碳水略低於胡蘿蔔，且糖分含量更低。
+
+4. **馬鈴薯的高碳水風險**:
+   - 馬鈴薯含有大量淀粉，屬於高碳水食物。
+   - 生酮飲食中需避免加工馬鈴薯（如炸薯條、烤薯等），因其會快速升高血糖。
+
+---
+
+### 問題原因:
+1. **蔬菜選擇的困惑**:
+   - 很多人在生酮飲食中對如何選擇適合的蔬菜感到迷茫。
+   - 無法准確評估蔬菜中的碳水化合物和纖維對血糖的影響。
+
+2. **淀粉食物的高風險**:
+   - 淀粉含量高的蔬菜（如馬鈴薯）在加工後會導致血糖大幅波動。
+   - 生酮飲食人群中對「低GI」食物的需求未被充分滿足。
+
+---
+
+### 解決方法:
+1. **淨碳水化合物計算法**:
+   - 使用公式：淨碳水化合物 = 總碳水化合物 - 纖維。
+   - 通過此方法精確評估蔬菜的血糖影響，避免過量攝取高碳水食物。
+
+2. **優先選擇低GI蔬菜**:
+   - 選擇低糖、高纖維的蔬菜（如西兰花、羽衣甘藍等）。
+   - 番茄和胡蘿蔔可作為生酮飲食中的 moderatestarchy 滿足微量碳水需求。
+
+3. **避免加工淀粉食物**:
+   - 遠離馬鈴薯及其加工產品（如炸薯條、烤薯片等）。
+   - 限制馬鈴薯的攝取，防止血糖迅速上升。
+
+---
+
+### 健康建議:
+1. **每日碳水化合物攝取目標**:
+   - 生酮飲食推薦每日攝取20-50克淨碳水化合物。
+   - 根據個人代謝情況調整蔬菜攝取量。
+
+2. **食物準備方式的重要性**:
+   - 少加工、少烹調以減少淀粉的釋放和血糖反應。
+   - 原汁原味地食用蔬菜（如生食番茄、簡單蒸煮胡蘿蔔）更有利于控制血糖。
+
+3. **個體化飲食計劃**:
+   - 根據個人健康狀況和代謝速率調整飲食結構。
+   - 必要時諮詢營養師制定適合的飲食方案。
+
+---
+
+### 總結:
+- 生酮飲食中蔬菜的选择需綜合考量碳水化合物、纖維及糖分含量。
+- 番茄因其低淨碳水和低糖特性，更適合生酮飲食；胡蘿蔔可作為替代選擇。
+- 馬鈴薯因高淀粉含量需嚴格限制攝取，避免加工食品以降低血糖波動風險。
+- 通過科學計算和合理選擇，生酮飲食可在享受食物多樣性的同時維持血糖穩定。
 </details>
 
 <details>
-<summary>2403. How To Get Your Spouse Into Ketosis (Keto Diet)? – Dr.Berg</summary><br>
+<summary>2403. [2019-09-13] How To Get Your Spouse Into Ketosis (Keto Diet)? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=YXRrlyE-x64" target="_blank">
     <img src="https://img.youtube.com/vi/YXRrlyE-x64/maxresdefault.jpg" 
@@ -5039,11 +5263,47 @@ Sir Kensington蛋黃醬和芥末醬在整體成分上表現良好，但微量糖
 
 # How To Get Your Spouse Into Ketosis (Keto Diet)? – Dr.Berg
 
+### 核心主題  
+- 如何成功讓配偶接受酮飲食計劃（Keto Diet）。  
 
+---
+
+### 主要觀念  
+1. **多樣化的視角**：每個人對健康的看法不同，配偶可能與你的目標不一致。  
+2. **酮飲食的多重益處**：包括 weight loss、reducing inflammation、提高 energy 和 focus 等。  
+3. **實施酮飲食的層次性**：從簡單易行的方式開始，逐步提升至更健康的版本。  
+
+---
+
+### 問題原因  
+- 多數人對酮飲食的理解停留在「低碳水」，但缺乏對其健康益處的全面認識。  
+- 有些人可能抗拒立即改變飲食習慣或接受高級食材的高昂成本。  
+
+---
+
+### 解決方法  
+1. **從配偶的角度出發**：了解他們的目標（如 weight loss、health improvement）並針對性地提供信息。  
+2. **循序漸進**：  
+   - 初期可選擇「 dirty keto」（低碳水，但食物來源較常見，如快餐），讓配偶容易接受。  
+   - 逐步引入更健康的食材（如 organically grown vegetables、grass-fed meats）。  
+3. **避免一次性改變**：不要強迫配偶立即採用高級酮飲食計劃，以免感到壓力或抗拒。  
+
+---
+
+### 健康建議  
+1. **短期目標**：先讓配偶體驗酮飲食的初步效果（如 weight loss 或 energy 提升），建立信心。  
+2. **逐步提升營養密度**：在配偶逐漸適應後，增加 nutrient-dense 食物的比例。  
+3. **靈活實施**：允許配偶根據自己的口味和需求調整飲食內容，但保持低碳水的基本原則。  
+
+---
+
+### 結論  
+- 關鍵在於因材施教，從配偶的實際情況出發，逐步引導他們接受酮飲食計劃。  
+- 酮飲食的效果取決於堅持和科學的實施方式，而非短期激進的改變。
 </details>
 
 <details>
-<summary>2402. Wonderful Neck Stretch For Whole Body Relaxation – Dr.Berg</summary><br>
+<summary>2402. [2019-09-13] Wonderful Neck Stretch For Whole Body Relaxation – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=wBmtKRxrL2g" target="_blank">
     <img src="https://img.youtube.com/vi/wBmtKRxrL2g/maxresdefault.jpg" 
@@ -5052,11 +5312,81 @@ Sir Kensington蛋黃醬和芥末醬在整體成分上表現良好，但微量糖
 
 # Wonderful Neck Stretch For Whole Body Relaxation – Dr.Berg
 
+### 文章整理： cervical spine manipulation techniques for relaxation and injury recovery
 
+---
+
+#### **核心主題**
+- **焦點**：探讨颈部 manipulation 技術在放松和恢復受傷方面的作用。
+- **目標群體**：普羅大眾，尤其是有頸部疼痛或受傷的人。
+
+---
+
+#### **主要觀念**
+1. **技術特性**：
+   - 以手為工具，施加力於頸椎，尤其是枕骨（occiput）和寰椎（atlas）。
+   - 利用 biomechanics，通過肘部力量進行 manipulation。
+   - 操作時需注意避免拉扯頭髮，保護患者舒适度。
+
+2. **健康益處**：
+   - 放松頸部肌肉，減輕 tension 和疼痛。
+   - 增加颈部 flexibility。
+   - 緩解壓力和 stress。
+   - 促進血液循環，加速受傷恢復。
+
+3. **適用情況**：
+   - 適用於一般性 neck pain、肩頸僵硬和睡眠障礙。
+   - 對於曾遭受尾椎骨受傷（如跌倒）的人特別有效，因受傷力傳導至頸部。
+
+4. **禁忌情況**：
+   - 避免用於 recent whiplash 受傷或 car accident 的患者，尤其是前向碰撞（front-end collision），因其可能導致頸部 ligaments 撕裂。
+   - 若操作時患者感到疼痛，應立即停止。
+
+---
+
+#### **問題原因**
+- **頸部不適**：長時間姿勢不良、壓力、肌肉緊張等因素導致 neck pain 和僵硬。
+- **外傷後遺症**：如尾椎受傷或交通事故（whiplash）後的頸部問題。
+- **操作風險**：若未正確施力，可能加重患者不適。
+
+---
+
+#### **解決方法**
+1. **技術要領**：
+   - 使用拇指或手掌施力於 occiput 或 cervical spine。
+   - 結合輕柔的拉伸動作（chin tuck、head tilt）來增強效果。
+   - 保持姿勢正確，利用身體力量而非僅用手臂。
+
+2. **注意事項**：
+   - 温和施力，避免過度強烈。
+   - 定期練習，逐步增加 flexibility。
+   - 根據患者反饋調整力度。
+
+3. **康復建議**：
+   - 配合放鬆運動（如瑜伽、按摩）來鞏固效果。
+   - 若症狀持續或加重，建議就醫。
+
+---
+
+#### **健康建議**
+- 定期進行颈部放鬆和拉伸，預防頸部問題。
+- 學習正確的姿勢管理技巧，避免姿勢不良導致的頸部壓力。
+- 在專業人士指导下进行 neck manipulation，尤其是受傷後恢復期間。
+
+---
+
+#### **結論**
+- 頸椎 manipulation 是一種有效的放鬆和康復技術，能有效緩解頸部不適並增強 flexibility。
+- 操作時需注意禁忌症，確保患者安全和 comfort。
+- 結合其他康複方法（如物理治療、按摩）可進一步提升效果。
+
+--- 
+
+此整理涵蓋了文章的核心內容，結構清晰，符合學術用語的要求。
 </details>
 
 <details>
-<summary>2401. Is it Possible to Gain Weight on Fruits and Vegetables? – Dr.Berg</summary><br>
+<summary>2401. [2019-09-12] Is it Possible to Gain Weight on Fruits and Vegetables? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=0tLHZE6LfPY" target="_blank">
     <img src="https://img.youtube.com/vi/0tLHZE6LfPY/maxresdefault.jpg" 
@@ -5065,6 +5395,53 @@ Sir Kensington蛋黃醬和芥末醬在整體成分上表現良好，但微量糖
 
 # Is it Possible to Gain Weight on Fruits and Vegetables? – Dr.Berg
 
+### 小節整理
 
+#### 核心主題
+- 探讨通过食用蔬菜和水果是否能够增重。
+
+#### 主要觀念
+1. **蔬菜的影響**：
+   - 大多数蔬菜（尤其是绿叶蔬菜）含有低热量、高纤维，难以通过食用蔬菜显著增重。
+   - 土豆等淀粉含量高的蔬菜可能引起血糖波动并导致体重增加。
+
+2. **水果的影響**：
+   - 水果含有较高的糖分，尤其是果糖，若摄入过多可能导致体重增加。
+   - 现代水果经过改良，糖分和果糖含量显著提高，与传统野生水果有明显差异。
+
+#### 問題原因
+1. **蔬菜方面**：
+   - 蔬菜的高纤维含量导致饱腹感强，限制了大量摄入的可能性。
+   - 高纤维和低热量特性使得通过蔬菜增重较为困难。
+
+2. **水果方面**：
+   - 现代水果糖分含量过高，尤其是果糖，代谢后可能导致肝脏负担加重和胰岛素抵抗。
+   - 过量食用高糖水果会导致能量摄入过剩，进而引起体重增加。
+
+#### 解决方法
+1. **蔬菜方面**：
+   - 适量食用蔬菜，避免过量，以防止因纤维摄入过多导致的消化不适。
+   - 注意烹饪方式，减少淀粉类蔬菜的加工和烹饪时间，降低血糖波动风险。
+
+2. **水果方面**：
+   - 控制水果摄入量，选择低糖水果（如野生水果）或适量食用高纤维、低果糖的水果。
+   - 避免过度依赖水果作为主要能量来源，建议搭配其他食物以平衡营养。
+
+#### 健康建議
+1. **蔬菜攝取**：
+   - 建議每日攝取量不宜過高，尤其是淀粉含量高的蔬菜如土豆。
+   - 確保足夠的纤维攝取，但注意避免因纤维過多引起的腸道不適。
+
+2. **水果攝取**：
+   - 選擇低糖、高纖維的水果，如野生水果或含糖量較低的水果。
+   - 限制高糖水果的攝取，避免過量食用導致的能量失衡。
+
+#### 結論
+- 蔬菜通常难以通过增加摄入量来显著增重，但过量摄入可能导致消化问题和水分潴留。
+- 水果若摄入过多，尤其是高糖水果，可能导致体重增加，特别是腹部脂肪堆积。
+- 平衡饮食是关键，建议结合蔬菜和水果的特性，合理安排能量攝取。
+
+### igaScore
+85.0
 </details>
 
