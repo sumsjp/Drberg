@@ -766,113 +766,564 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
 </details>
 
 <details>
-<summary>2485. How to Reduce the Side Effects of Chemotherapy</summary><br>
+<summary>2485. [2019-10-26] How to Reduce the Side Effects of Chemotherapy</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KiwCEdUHW_M" target="_blank">
     <img src="https://img.youtube.com/vi/KiwCEdUHW_M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 化療的副作用及其影響：化療對健康的正常細胞和癌細胞均具有殺傷力，並引發嚴重的副作用，甚至可能削弱免疫系統，導致癌症復發。
 
+---
+
+### 主要觀念  
+1. **化療的基本問題**：
+   - **缺乏選擇性**：化療無法區分健康細胞與癌細胞，兩者皆被破壞。
+   - **副作用 severity**：常見副作用包括疲勞、脱发、淤青、感染等，可能比癌症本身更令人痛苦。
+   - **免疫抑制**：化療削弱免疫系統，增加癌症復發風險。
+
+2. **癌症的營養策略**：
+   - 癌症細胞依賴糖和谷氨酰胺（glutamate）作為能量來源，通過限制這兩種物質攝取，可以.pojo
+
+### 問題原因  
+1. 化療缺乏選擇性，導致健康細胞受影響。
+2. 化療副作用嚴重，可能降低患者生活品質。
+3. 免疫抑制增加癌症復發的風險。
+
+---
+
+### 解決方法  
+1. **營養干預**：
+   - 採用低碳水化合物、低糖飲食（如生酮 diet）以限制癌細胞的能量來源。
+   - 減少谷氨酰胺攝取，可通過食用低谷氨酰胺食物或使用氨基酸粉末補充必需氨基酸。
+
+2. **替代療法**：
+   - **胰島素增敏化療法（Insulin Potentiation Therapy, IPT）**：利用胰島素降低血糖，使癌細胞因飢餓而更積極吸收糖分，配合小劑量化疗藥物，提高治療效果。
+
+3. **抗炎策略**：
+   - 补充維生素D以降低炎症反應，延缓癌症擴散。
+
+4. **抗氧化與保護劑**：
+   - **綠茶多酚（EGCG）**：具有抗氧化作用，可保護正常細胞免受化療影響，並抑制癌細胞生長。
+   - **葉綠素**：通過補充小麥草汁或粉末形式的葉綠素來進一步保護身體。
+
+---
+
+### 健康建議  
+1. **飲食調整**：
+   - 限制糖分和谷氨酰胺攝取，採用低碳水化合物飲食。
+   - 衡量蛋白質攝取，避免過量的谷氨酰胺攝入。
+
+2. **補充劑**：
+   - 綠茶：每日攝取EGCG以增強保護作用。
+   - 葉綠素：通過小麥草汁或粉末形式補充葉綠素。
+
+3. **其他建議**：
+   - 增加維生素D攝取，降低炎症反應。
+   - 保持適度運動，提升整體健康狀況。
+
+---
+
+### 結論  
+化療雖然在抗癌治療中具有重要作用，但其副作用和局限性不容忽視。通過營養干預、抗氧化劑使用及替代療法，可以有效降低化療副作用並提高治療效果。患者應根據個人情況，在專業醫生的指导下，結合傳統與 complementary 療法，制定綜合治療計劃，以達到最佳療效。
 </details>
 
 <details>
-<summary>2484. The Largest Source of Dietary Sugar Is Coming From....</summary><br>
+<summary>2484. [2019-10-26] The Largest Source of Dietary Sugar Is Coming From....</summary><br>
 
 <a href="https://www.youtube.com/watch?v=bvsEpVHPxtI" target="_blank">
     <img src="https://img.youtube.com/vi/bvsEpVHPxtI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 文章圍繞多個分散的主题展開，主要涉及音樂、技術、健康、教育和社會議題等。
 
+### 主要觀念  
+1. **音樂相關**：提及傳統音樂 instruments（如 Baby, Motis, Sor）及其歷史背景。  
+2. **技術與工具**：提到軟件或技術工具（如 Core, pu, SRT, Spence）。  
+3. **健康議題**：涉及醫療相關服務（如 Nursing, Spa, Constitution）。  
+4. **教育與學習**：包括理論實踐（如 Theory, Practice）和教育機構（如 University, School）。  
+5. **社會與文化**：提及社會現象（如 Ransom, Randomness）和文化差異。  
+
+### 問題原因  
+- 文章缺乏清晰的結構，導致信息混亂且難以提取核心內容。  
+- 使用了大量非正式語言和斷斷續續的句子，影響理解。  
+
+### 解決方法  
+1. **結構化整理**：將分散的信息分門別類，形成清晰的小節。  
+2. **標準化表達**：使用正式學術用語，避免非正式或模糊的表達方式。  
+3. **信息過濾**：剔除不相關或重複內容，提升論述的聚焦性。  
+
+### 健康建議  
+- 確保充足的休息時間（如 8 months warm）。  
+- 避免長時間低效工作，注意工作與生活的平衡。  
+
+### 結論  
+- 文章雖然信息豐富，但缺乏系統性。  
+- 通過結構化整理和標準化表達，可以顯著提升其可讀性和應用價值。
 </details>
 
 <details>
-<summary>2483. Why is Lemon Juice Good for Gout Arthritis and Bad for Osteoarthritis? – Dr.Berg</summary><br>
+<summary>2483. [2019-10-25] Why is Lemon Juice Good for Gout Arthritis and Bad for Osteoarthritis? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=44Ak4mtPs18" target="_blank">
     <img src="https://img.youtube.com/vi/44Ak4mtPs18/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節結構化整理
 
+#### 核心主題
+- 探讨柠檬汁在治療風濕性關節炎和骨關節炎中的不同效果，強調pH值對健康影響的重要性。
+
+#### 主要觀念
+1. **風濕性關節炎（Gout）**：
+   - 特征：高尿酸血症。
+   - 風治療方法：通過提高身體的pH值來緩解症狀。
+2. **骨關節炎（Osteoarthritis）**：
+   - 特征：關節鈣化和軟骨退變。
+   - 治療方法：通過降低身體的pH值來改善症狀。
+
+#### 問題原因
+- 風濕性關節炎患者不宜過度 alkalize，因會影響鈣代謝。
+- 骨關節炎患者不宜過度 alkalize，因可能加重病情。
+- 高果糖玉米 syrup 和高嘌呤飲食是風濕性關節炎的關鍵病因。
+
+#### 解決方法
+1. **風濕性關節炎**：
+   - 激素（如碳酸氫鹽）來提高尿液pH值，促進尿酸溶解。
+   - 使用檸檬汁短時間內緩解症狀，但需注意高剂量可能不利。
+2. **骨關節炎**：
+   - 使用蘋果醋來降低身體pH值。
+   - 注意飲食中鈣攝取和胃酸平衡。
+
+#### 健康建議
+1. 風濕性關節炎患者：
+   - 短期使用檸檬汁或碳酸氫鹽來緩解症狀。
+   - 注意高果糖玉米 syrup 和高嘌呤飲食的攝取。
+   - 考慮長期改善腎臟功能，以根本治療風濕性關節炎。
+
+2. 骨關節炎患者：
+   - 使用蘋果醋來微酸化身體，避免過度 alkalize。
+   - 注意鈣質攝取和胃酸平衡，防止鈣沉積。
+
+3. 一般健康建議：
+   - 短期症狀緩解需謹慎選擇方法，根據具體病情調整。
+   - 注重飲食結構，避免誘發疾病的因素。
+   - 長期健康管理應著重於病因治療和生活方式調整。
+
+#### 結論
+柠檬汁在風濕性關節炎和骨關節炎中的效果截然不同，主要源於pH值對兩種疾病的影響機制。短期症狀管理需根據具體病情選擇合適方法，但更重要的是通過飲食管理和腎臟功能改善來實現長期健康。因此，在使用任何自然療法前，建議諮詢專業醫療人員，以制定個化化的健康管理計劃。
 </details>
 
 <details>
-<summary>2482. Is Keto (Low Carb) Really Safe for the Thyroid?</summary><br>
+<summary>2482. [2019-10-25] Is Keto (Low Carb) Really Safe for the Thyroid?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=rs3_2stWMoQ" target="_blank">
     <img src="https://img.youtube.com/vi/rs3_2stWMoQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+**低卡路里酮飲食對甲狀腺的安全性**  
+：探討酮飲食（ketogenic diet）或低碳水化合物飲食是否會對甲狀腺造成損害。  
 
+---
+
+### 主要觀念  
+1. **甲狀腺的功能**  
+   ：甲狀腺位於頸部，負責 secreting T4（thyroxine），T4需轉換為活性形式T3后才具備生理功能。90%的T4轉換在肝臟完成，其余10%在腎臟完成。  
+
+2. **酮飲食對甲狀腺激素的影響**  
+   ：酮飲食會導致血液中的T4濃度降低，幅度可達40%，但這並未伴隨著代謝速率或甲狀腺功能障礙（如低甲狀腺素血症）的下降。  
+
+3. **T3的敏感性提高**  
+   ：酮飲食可能增強T3的敏感性，使其在更低濃度下也能有效調節代謝。  
+
+---
+
+### 問題原因  
+1. **過度焦慮酮飲食的安全性**  
+   ：部分人擔心酮飲食會直接損害甲狀腺功能，但目前尚無研究證實此類影響。  
+
+2. **信息錯誤與片面理解**  
+   ：一些信息來源只強調T4濃度下降，卻忽略了T3敏感性和整體代謝功能的穩定性。  
+
+---
+
+### 解決方法  
+1. **基於證據的飲食計劃**  
+   ：酮飲食在多種人群中（如運動員和肥胖者）被證明是安全的，且未顯示對甲狀腺造成負面影響。  
+
+2. **避免片面信息**  
+   ：了解酮飲食對甲狀腺的整體影響，而非只關注某一激素濃度的變化。  
+
+---
+
+### 健康建議  
+1. **均衡飲食與監測**  
+   ：雖然酮飲食通常安全，但個體在開始此類飲食計劃前，仍應諮詢醫療專業人員並定期監測甲狀腺功能指標。  
+
+2. **考慮個人差異**  
+   ：不同人對酮飲食的反應可能不同，需根據自身健康狀況調整飲食結構。  
+
+---
+
+### 確論  
+**酮飲食與低碳水化合物飲食對甲狀腺的安全性**  
+：目前無研究表明酮飲食會直接損害甲狀腺功能。酮飲食主要降低了T4濃度，但通過提高T3的敏感性和整體改善代謝效率，反而可能對甲狀腺健康產生積極影響。  
+
+--- 
+
+以上整理基於文章內容，旨在提供客觀、清晰的結構化資訊，並使用正式的學術用語進行表達。
 </details>
 
 <details>
-<summary>2481. You ARE Eating When You Are Fasting</summary><br>
+<summary>2481. [2019-10-24] You ARE Eating When You Are Fasting</summary><br>
 
 <a href="https://www.youtube.com/watch?v=VED5iipS7tk" target="_blank">
     <img src="https://img.youtube.com/vi/VED5iipS7tk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：斷食期間人體的新陳代謝機制  
+1. **核心概念**：斷食時，人體不會感到饑餓，而是利用自身脂肪儲備作為能量來源。  
+2. **主要觀念**：  
+   - **脂肪的分解**：斷食期間，細胞消耗自身脂肪而非外部食物。脂肪分解產生甘油和脂肪酸。  
+   - **酮體的作用**：脂肪酸轉化為酮體，成為身體的主要能量來源，尤其是腦部。  
 
+### 問題原因：對斷食的常見誤解  
+1. **常見錯誤**：認為斷食等同於挨餓或導致肌肉消耗。  
+2. **事實澄清**：只有在極端長期斷食（數天以上）時才會耗盡脂肪儲備，並開始分解肌肉組織。  
+
+### 解決方法：人體的自我調節機制  
+1. **能量來源的多樣性**：  
+   - 脅腋酸用於供能。  
+   - 體提供腦部及其他器官的能量需求。  
+2. **血糖的維持**：  
+   - 通過糖異生（gluconeogenesis）及其他途徑，如乳酸循環和胺基酸轉化，來維持血液 glucose 水平。  
+
+### 健康建議  
+1. **合理的斷食方式**：  
+   - 選擇短時間斷食（如 16:8 方法），以避免過度消耗肌肉組織。  
+   - 確保有足夠的脂肪儲備，以支撐身體的能量需求。  
+
+### 結論  
+1. **人體的適應性**：人體經過長期演化，具備良好的斷食能力，適合短期至中度斷食。  
+2. **現代飲食方式的影響**：常規進餐和零食攝入可能干擾人體的新陳代謝效率，建議採取間歇性斷食來提升整體健康。
 </details>
 
 <details>
-<summary>2480. How to Determine Your Recovery Level – Speed Up Recovery – Dr.Berg</summary><br>
+<summary>2480. [2019-10-24] How to Determine Your Recovery Level – Speed Up Recovery – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KemfGKiGhZg" target="_blank">
     <img src="https://img.youtube.com/vi/KemfGKiGhZg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- **恢復力（Recovery Rate）**：探討如何評估個人的恢復能力。
+- **壓力反應與健康管理**：強調身體對壓力的反應及如何通過科學方法改善健康狀況。
+- ** hormesis（有益壓力）**：介紹 hormesis 概念，即微量壓力對健康的益處。
+
+#### 主要觀念
+1. **恢復力的評估方法**：
+   - 心率恢復測試（Heart Rate Recovery Test）。
+   - 心率變異性測試（Heart Rate Variability, HRV），用於評估自主神經系統的平衡。
+2. **身體恢復與心理恢復的區分**：
+   - 身體恢復：涉及修復蛋白質、酶和營養素的需求。
+   - 心理恢復：個體對壓力的态度及應對能力。
+3. **壓力管理的重要性**：
+   - 長期壓力會影響腎上腺功能，降低身體的適應能力。
+   - 良好的睡眠是压力管理和恢復的重要因素。
+
+#### 問題原因
+1. **高壓力環境**：
+   - 長期暴露於高壓力導致自主神經系統失衡，削弱恢復能力。
+2. **營養不足**：
+   - 微量元素（如鋅、葉酸）和抗氧化劑缺乏影響修復功能。
+3. **恢復不足**：
+   - 過度訓練或錯誤的training方法導致身體無法有效恢復。
+
+#### 解決方法
+1. **科學評估方法**：
+   - 通過心率變異性（HRV）測試評估壓力反應。
+   - 监控訓練後的心率和血壓回歸情況。
+2. **改善睡眠質量**：
+   - 确保足夠的睡眠時間，修正睡眠習慣。
+3. **有益壓力（hormesis）**：
+   - 通過間歇性禁食、適度運動、冷熱otherapy等方式激活修復基因。
+4. **營養補充**：
+   - 补充必要的微量元素和抗氧化劑以支持修復功能。
+
+#### 健康建議
+1. **訓練後恢復**：
+   - 控制訓練強度，確保足夠的恢復時間。
+2. **壓力管理**：
+   - 練習放鬆技巧，如冥想、深呼吸等。
+3. **生活方式調整**：
+   - 遊泳、瑜伽等低impact運動幫助身體恢復。
+4. **環境調適**：
+   - 接觸微量壓力刺激（如冷therapy、短時間紫外線照射）以增強體質。
+
+#### 結論
+- 恢復力是整體健康的重要指標，需綜合評估並採取多種措施來提升。
+- 通過科學方法管理和利用壓力，可以顯著提升身體和心理的健康狀況。
+- 個人化的健康管理方案能有效平衡壓力與恢復，增強生活品質。
+
+---
+
+### 全文要點摘要
+1. **核心主題**：探討個人恢復力的評估與提升方法。
+2. **主要觀念**：
+   - 恢復力涉及心臟功能、自主神經系統平衡及壓力反應能力。
+3. **問題原因**：
+   - 高壓力和營養不足影響身體恢復能力。
+4. **解決方法**：
+   - 通過科學評估和有益壓力刺激提升恢復力。
+5. **健康建議**：
+   - 調整訓練方式、改善睡眠、補充營養以增強身體修復功能。
+6. **結論**：綜合措施能有效提昇個人的健康與生活品質。
 </details>
 
 <details>
-<summary>2479. Why You Can Not Kill a Virus</summary><br>
+<summary>2479. [2019-10-23] Why You Can Not Kill a Virus</summary><br>
 
 <a href="https://www.youtube.com/watch?v=EADzWlbSdVM" target="_blank">
     <img src="https://img.youtube.com/vi/EADzWlbSdVM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：為什麼我們無法殺死病毒？
 
+#### 核心主題
+- 病毒的特性與宿主相互作用
+- 潜伏病毒感染的重新活化
+- 調理免疫系統以抑制病毒活性
+
+#### 主要觀念
+1. **病毒的基本特性**：
+   - 病毒並非真正的生命形式，僅為包裹在衣殼中的基因片段。
+   - 病毒侵入宿主細胞，利用宿主機制（如DNA）進行複製。
+
+2. **潛伏病毒感染**：
+   - 感染後，病毒進入休眠或latent階段，存在於宿主體內而不立即造成症狀。
+   - 常見例子包括 herpes virus、Epstein-Barr virus 和 cytomegalovirus。
+
+3. **壓力誘發病毒重新活化**：
+   - 精神或身體壓力、營養不良等因素可導致潛伏病毒重新活化。
+   - 重新活化的病毒可引起疾病，如疱疹瘭疽（shingles）、宫颈癌等。
+
+#### 問題原因
+- 病毒缺乏自主生命特性，使其難以被「殺死」。
+- 潜伏病毒感染的普遍存在及其在壓力條件下的重新活化。
+- 免疫系統調節不足，導致病毒抑制效果不佳。
+
+#### 解決方法
+1. **營養干預**：
+   - **維生素D**：增強免疫功能，降低感染風險。
+     - 維生素D缺乏可能被某些病毒感染誘導（如 Epstein-Barr virus、HIV）。
+     - 補充維生素D可降低宮頸癌和呼吸道感染風險。
+   
+   - **鋅**：
+     - 減少病毒活化頻率，縮短活化持續時間。
+     - 對疱疹病毒感染（如水痘、帶狀疱疹）具有減輕症狀的作用。
+
+   - **硒**：
+     - 缺乏硒會增加病毒重新活化的風險。
+     - 補充硒可增強免疫功能，抑制病毒活性。
+
+2. **生活方式調整**：
+   - 管理壓力：通過運動、冥想等方式降低壓力水平。
+   - 避免營養不良：保持均衡飲食，確保攝取足夠的微量營養素。
+
+#### 健康建議
+- 定期監測維生素D、鋅和硒等 nutrient 的水平。
+- 在潛伏病毒感染高發人群中（如免疫抑制個體），積極補充上述 nutrient。
+- 面對壓力事件時，注意營養攝取和心理調適。
+
+#### 結論
+病毒無法被「殺死」，但其活性可以通過免疫系統和營養干預得到有效控制。維生素D、鋅和硒等 nutrient 在抑制病毒重新活化和降低感染風險方面起著關鍵作用。保持良好的營養狀況和健康的生活方式是防止病毒感染和減輕症狀的關鍵。
 </details>
 
 <details>
-<summary>2478. How Much of Your Disease and Health is Genetic?</summary><br>
+<summary>2478. [2019-10-23] How Much of Your Disease and Health is Genetic?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=JsM9pl5SX1M" target="_blank">
     <img src="https://img.youtube.com/vi/JsM9pl5SX1M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- **基因在疾病和健康中的作用**：探討基因對疾病和健康的影響程度，強調環境和生活方式的重要性。
+
+#### 主要觀念
+1. **基因缺陷的影響**：
+   - 只有5%至10%的疾病是由遺傳性基因缺陷直接引起的。
+   - 基因突變通常是後天獲得的（即體細胞突變），而非herited。
+
+2. **表觀遺傳學（Epigenetics）**：
+   - 表現為基因表達的可逆調控，包括基因的啟用或抑制。
+   - 約90%至95%的健康和疾病與表觀遺傳學因素有關，環境、壓力、營養等均會影響基因表達。
+
+3. **暴露組（Exposome）**：
+   - 經 nghiệm累積對健康的影響，包括出生前後的環境暴露。
+   - 营養、心理狀態、社會經驗等因素均可觸發疾病相關基因。
+
+4. **基因突變的原因**：
+   - 基因突變多為後天環境因素所致，而非遺傳。
+   - 紅線粒體功能受損會引發代謝變化（如糖酵解），導致癌症等疾病的發生。
+
+#### 問題原因
+- **錯誤認知**：以為疾病完全由基因決定，忽略了生活方式和環境的影響。
+- **基因突變的誤解**：將基因突變視為病因而非症狀，未看到其後續代謝紊亂的根源。
+
+#### 解决方法
+1. **健康飲食**：
+   - 適當攝取營養素以保護DNA並促進修復。
+   - 經濟條件許可下，諮詢營養師制定個人化飲食計劃。
+
+2. **心理調適**：
+   - 保持積極樂觀的態度，降低慢性壓力和焦慮對健康的影響。
+   - 適當進行放鬆訓練或冥想活動。
+
+3. **健康生活方式**：
+   - 觀注環境因素，避免接觸有害物質。
+   - 獲取足夠睡眠，保持規律運動。
+
+#### 健康建議
+- **營養攝取**：補充足夠的抗氧化劑和 vitamins（如維生素D、Omega-3脂肪酸）以支持免疫系統和DNA修復。
+- **心理健康管理**：建立正向思考模式，學習壓力管理技巧。
+- **環境保護**：注意避免接觸致癌物質，保持居住環境清潔。
+
+#### 結論
+- 基因的影響被過分強調，健康主要受生活方式和環境因素的控制。
+- 通過改善飲食、心理狀態和生活習慣，可以有效預防疾病並提升整體健康。
 </details>
 
 <details>
-<summary>2477. Molybdenum for Better Detoxification</summary><br>
+<summary>2477. [2019-10-22] Molybdenum for Better Detoxification</summary><br>
 
 <a href="https://www.youtube.com/watch?v=-7Hez86w7-I" target="_blank">
     <img src="https://img.youtube.com/vi/-7Hez86w7-I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 本文圍繞個人情感與生活經歷展開，涉及自我反思、成長挑戰及對未來的期望。
+- 主要聚焦於個人在面對困難時的心理狀態與應對策略。
+
+#### 主要觀念
+1. **自我反思**  
+   - 文章強調了反思 past experiences 的重要性，用以汲取教訓並改善未來的 decision-making.
+   
+2. **成長挑戰**  
+   - 描述了在面對生活壓力和情感波動時，個人如何逐步建立 resilience 和 adaptability.
+
+3. **未來期望**  
+   - 表達了對 personal growth 和 career development 的渴望，以及希望實現 betterment 的目標。
+
+#### 問題原因
+1. **心理壓力**  
+   - 外部環境的不確定性和内部情感的conflict導致了心理上的負擔。  
+
+2. **缺乏方向感**  
+   - 在面對多樣化的選擇和挑戰時，感到迷茫和迷失方向。  
+
+3. **自我懷疑**  
+   - 因 past failures 或不足而產生 self-doubt，影響自信和行動力。
+
+#### 解決方法
+1. **心理調適**  
+   - 通過冥想、journaling 等方式來管理情緒，提升 mental well-being.
+
+2. **目標設定**  
+   - 制定短期和長期目標，明確方向，增強 motovation.
+
+3. **社會支持**  
+   - 與家人、朋友或 mentors 討論，獲得情感支持和 practical advice.
+
+4. **持續學習**  
+   - 通過 reading, courses 等方式提升技能，增強競爭力。
+
+#### 健康建議
+1. **心理健康**  
+   - 定期進行心理健康檢查，及時發現並處理 potential issues.
+   
+2. **生活方式**  
+   - 確保充足的 sleep, 適當的 exercise 和均衡的飲食，以提升整體健康狀況。
+
+3. **壓力管理**  
+   - 學習有效的壓力管理技巧，如 time management, relaxation techniques.
+
+#### 結論
+- 本文強調了在面對生活挑戰時，自我反思、心理調適和社會支持的重要性。
+- 指出通過持續努力和 practical strategies，個人可以有效地應對困難，實現 personal growth 和 career development.
+- 最後，呼籲讀者重視心理健康，主動寻求 help，並保持 optimistic 的態度來面對生活中的 various challenges.
 </details>
 
 <details>
-<summary>2476. Why Do You Get Acne During Your Period (Menstruation)</summary><br>
+<summary>2476. [2019-10-22] Why Do You Get Acne During Your Period (Menstruation)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=h9gG1ePfRFQ" target="_blank">
     <img src="https://img.youtube.com/vi/h9gG1ePfRFQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 月經周期與痤瘡的關聯及解決方案
 
+## 核心主題
+- 痤瘡在月經週期中的 temporal 演變及其與激素波動的關聯。
+
+## 主要觀念
+1. **月經週期中的卵巢輪流排卵**：
+   - 每個月 ovaries 輪流進行 ovulation，導致痤瘡位置 monthly 遊移。
+   
+2. **激素波動與痤瘡的關係**：
+   - 在月經期間，estrogen 和 progesterone 的水平降至最低。
+   - Testosterone（androgin）的水平相對較高，擾亂了激素平衡。
+
+## 問題原因
+1. **激素失衡**：
+   - 月經週期中，Testosterone 水平相對過高，導致 sebaceous glands 襕胩。
+   - 增加 sebum 分泌，促進痤瘡的形成。
+
+2. **其他可能涉及的因素**：
+   - Cortisol 的水平：壓力增加 adrenal 濁素分泌，間接影響 testosterone 水平。
+   - Insulin 的作用：高 insulin 可能促成更多 testosterone 生成。
+
+## 解決方法
+1. **DIM (Diindolylmethane) 的應用**：
+   - 具有抗雄性激素的效果，可降低 excess Testosterone 和 DHT。
+   - 調節 estrogen 水平，改善痤瘡情況。
+
+2. **生活方式的調整**：
+   - **壓力管理**：降低 cortisol 分泌，間接控制 adrenal 濁素和 testosterone。
+   - **飲食控制**：通過酮egenic 饮食或禁食來調節 insulin 水平，從而平衡激素。
+
+## 健康建議
+1. **DIM 的使用**：
+   - 作為補充劑，可幫助改善痤瘡和 cystic acne。
+   - 注意其對 estrogen 平衡的作用，特別是乳腺癌患者需謹慎使用。
+
+2. **壓力管理**：
+   - 採取放鬆技巧（如冥想、瑜伽）來降低壓力水平。
+
+3. **飲食建議**：
+   - 經酮 diet 或禁食可幫助調節 insulin 和 testosterone 水平。
+
+## 結論
+- 痤瘡在月經週期中的出現與激素波動密切相關，尤其是 Testosterone 的 excess。
+- 通過DIM、壓力管理和飲食調整等多管齊下的方法，可以有效改善痤瘡問題。
 </details>
 
 <details>
