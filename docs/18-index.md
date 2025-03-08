@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Knee Arthritis & Your Mouth Bacteria – Arthritis Knee Pain Relief – Dr.Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -60,6 +62,8 @@
     <img src="https://img.youtube.com/vi/GlpXUIQWBok/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Vitamin B1 (Thiamine Deficiency) and High Carb Diets - Dr.Berg
 
 ### 文章整理：B1 維生素 deficiency 的影響與管理
 
@@ -144,6 +148,8 @@ B1 維生素在機體中扮演著關鍵角色，其缺乏會導致多系統功�
         alt="[Youtube]" width="200">
 </a>
 
+# Why You Get Kidney Stones (Oxalate Type) – Removing Kidney Stones & High Oxalate Foods – Dr.Berg
+
 ### 1. 核心主題  
 - 探讨为何某些人会形成草酸钙肾结石，而其他人则不会。
 
@@ -195,6 +201,8 @@ B1 維生素在機體中扮演著關鍵角色，其缺乏會導致多系統功�
         alt="[Youtube]" width="200">
 </a>
 
+# Natural Antibiotics for C. Difficile Infection (Clostridium Difficile) - Dr.Berg
+
 ### 小節歸納
 
 #### 核心主題
@@ -238,6 +246,8 @@ B1 維生素在機體中扮演著關鍵角色，其缺乏會導致多系統功�
     <img src="https://img.youtube.com/vi/mEHI1HqnTfo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Does Keto (Ketogenic Diet) Kill Your Exercise Performance?: Dr.Berg
 
 ### 文章整理：酮飲食對運動性能及肌肉流失的影響
 
@@ -307,6 +317,8 @@ B1 維生素在機體中扮演著關鍵角色，其缺乏會導致多系統功�
         alt="[Youtube]" width="200">
 </a>
 
+# Can I Do Keto (Ketogenic Diet) If I am on Medications? - Dr. Berg
+
 **Title: Can I Do Keto While On Medications?**
 
 ### 1. **核心主題**
@@ -345,6 +357,8 @@ B1 維生素在機體中扮演著關鍵角色，其缺乏會導致多系統功�
     <img src="https://img.youtube.com/vi/VkK78eTcwX8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Will Reducing Dietary Fat Calories on Keto be a Problem?: Dr.Berg
 
 ### 核心主題
 - **酮症适应与脂肪燃烧**：探讨在酮症状态下单糖代谢向脂肪代谢的转变及其 plateau 的解决策略。
@@ -394,6 +408,8 @@ B1 維生素在機體中扮演著關鍵角色，其缺乏會導致多系統功�
     <img src="https://img.youtube.com/vi/eC1T6gtzbjA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Reduce Respiratory Mucus with Salt - Dr.Berg On Chest Infection, Chronic Bronchitis & Lung Cleanse
 
 ### 核心主題
 - 探讨针对呼吸系统中黏液（mucus）问题的有效解决方案，特别是针对慢性支气管炎、慢阻肺（COPD）、哮喘、鼻窦感染和睡眠呼吸暂停等疾病。
@@ -464,6 +480,8 @@ B1 維生素在機體中扮演著關鍵角色，其缺乏會導致多系統功�
         alt="[Youtube]" width="200">
 </a>
 
+# Never Give A Baby Fruit Juice - Dr.Berg On Nutritional Deficiencies & Healthy Diet For Kids
+
 ### 小節一：核心主題  
 - 紅旗區 juvenile果汁消費對兒童健康的影響及其健康風險。
 
@@ -499,6 +517,8 @@ B1 維生素在機體中扮演著關鍵角色，其缺乏會導致多系統功�
     <img src="https://img.youtube.com/vi/9r3voh7-OcU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Cruciferous Vegetables Can Help Thyroid Function, Not Kill It! - Dr. Berg
 
 ### 正文整理：十字花科蔬菜對甲狀腺及內分泌系統的影响
 
@@ -560,6 +580,8 @@ B1 維生素在機體中扮演著關鍵角色，其缺乏會導致多系統功�
     <img src="https://img.youtube.com/vi/2o7EpKY4XgU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Causes Paraesthesia (Abnormal Nerve Sensation)?: Dr.Berg
 
 ### 核心主題： 
 - **paresthesia**（異常感覺症）的成因、影響及可能的解決方法。
@@ -632,6 +654,8 @@ B1 維生素在機體中扮演著關鍵角色，其缺乏會導致多系統功�
     <img src="https://img.youtube.com/vi/WmmghwWpQR4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is Phytic Acid That Bad?: Dr.Berg
 
 ### 文章整理與結構化歸納
 
@@ -715,6 +739,8 @@ B1 維生素在機體中扮演著關鍵角色，其缺乏會導致多系統功�
         alt="[Youtube]" width="200">
 </a>
 
+# Another Surprising Cause for Low Testosterone - Dr.Berg On Hemochromatosis & Hormone Levels
+
 ### 小節整理：低睾酮症的成因與管理
 
 #### 核心主題
@@ -779,6 +805,8 @@ B1 維生素在機體中扮演著關鍵角色，其缺乏會導致多系統功�
         alt="[Youtube]" width="200">
 </a>
 
+# What I Ate In College, Not Very Good - Dr.Berg Interview With Logan Sneed On Ketogenic Diet
+
 ### 文章整理：Dr. Berg 的健康與營養經驗分享
 
 #### 核心主題
@@ -830,6 +858,8 @@ B1 維生素在機體中扮演著關鍵角色，其缺乏會導致多系統功�
         alt="[Youtube]" width="200">
 </a>
 
+# Why Does Intermittent Fasting Increase Gallbladder Sludge? – Dr.Berg
+
 ### 文章結構與要點整理
 
 #### 1. 核心主題：膽囊問題在.INTERMITTENT FASTING中的影響
@@ -878,6 +908,8 @@ B1 維生素在機體中扮演著關鍵角色，其缺乏會導致多系統功�
     <img src="https://img.youtube.com/vi/oKHmHh1xIGQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Do You Have Dangerous Fat? Dr.Berg On Visceral Fat & Burning Belly Fat
 
 ### 核心主題：(visceral fat) 腹腔內臟周圍脂肪的危險性及其形成的機制
 
@@ -943,6 +975,8 @@ Visceral fat 的累積是多種慢性疾病的共同危險因素，其形成主�
     <img src="https://img.youtube.com/vi/qOyhxTVr5w4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Feet & Keto Leg Cramps at Night on Ketogenic Diet?: Dr.Berg
 
 ### 文章題目：酮飲食中腿部和足部夜間抽筋的原因及解決方法
 
@@ -1020,6 +1054,8 @@ Visceral fat 的累積是多種慢性疾病的共同危險因素，其形成主�
         alt="[Youtube]" width="200">
 </a>
 
+# Dr.Berg and Frank Tufano on the Carnivore Diet - Dr.Berg On All Meat Diet
+
 ### 核心主題：食物品質與營養密度的重要性
 
 #### 主要觀念：
@@ -1089,6 +1125,8 @@ Visceral fat 的累積是多種慢性疾病的共同危險因素，其形成主�
         alt="[Youtube]" width="200">
 </a>
 
+# Unresolved Low Back Pain?: DO THIS! – Dr.Berg
+
 
 </details>
 
@@ -1099,6 +1137,8 @@ Visceral fat 的累積是多種慢性疾病的共同危險因素，其形成主�
     <img src="https://img.youtube.com/vi/eDIrsV01SLI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Unresolved Low Back Pain?: DO THIS! – Dr.Berg
 
 ### 核心主題  
 - 解決持續性下背痛的原因及對策  
@@ -1173,6 +1213,8 @@ Visceral fat 的累積是多種慢性疾病的共同危險因素，其形成主�
         alt="[Youtube]" width="200">
 </a>
 
+# What Is The Pineal Gland? – Dr.Berg On Melatonin Benefits & Serotonin
+
 ### 核心主題：松果腺的功能與影響
 
 松果腺（Pineal Gland）是位於人體中心的重要 glands，負責分泌激素褪黑激素（Melatonin），並在生理和心理功能中扮演關鍵角色。
@@ -1239,6 +1281,8 @@ Visceral fat 的累積是多種慢性疾病的共同危險因素，其形成主�
         alt="[Youtube]" width="200">
 </a>
 
+# Are You Using the Correct Fats on the Ketogenic Diet? – Dr.Berg
+
 
 </details>
 
@@ -1250,6 +1294,8 @@ Visceral fat 的累積是多種慢性疾病的共同危險因素，其形成主�
         alt="[Youtube]" width="200">
 </a>
 
+# Why the Mediterranean Diet Has Not Worked for You? – Dr.Berg
+
 
 </details>
 
@@ -1260,6 +1306,8 @@ Visceral fat 的累積是多種慢性疾病的共同危險因素，其形成主�
     <img src="https://img.youtube.com/vi/9VC7KZg2-ok/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Breaks A Fast? - The Big Confusion Clarified by Dr.Berg
 
 # 文章整理與分析
 
@@ -1329,6 +1377,8 @@ Visceral fat 的累積是多種慢性疾病的共同危險因素，其形成主�
         alt="[Youtube]" width="200">
 </a>
 
+# Diabetes Medication Side Effects: Metformin, Sulfonylurea & Insulin – Dr.Berg
+
 ### 核心主題
 - 糖尿病第二型藥物的不同效果及其對人體的作用機制。
 
@@ -1386,6 +1436,8 @@ Visceral fat 的累積是多種慢性疾病的共同危險因素，其形成主�
     <img src="https://img.youtube.com/vi/WxM1WcdugQ0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Get Rid of Abdominal Gas and Bloating? – Dr.Berg
 
 ### 文章整理：腹腔氣脹與腹脹的成因及解決方案
 
@@ -1476,6 +1528,8 @@ Visceral fat 的累積是多種慢性疾病的共同危險因素，其形成主�
         alt="[Youtube]" width="200">
 </a>
 
+# What Is Betaine HCl? Benefits and How to Use
+
 ### 核心主題  
 **Betaine Hydrochloride (ß-icine 胆碱氢氯化物)**：一種含於 Beetroot、Spinach、Beef 和 Shrimp 等食物中的天然化合物，由 Betaine 和 Hydrochloric Acid 組成。
 
@@ -1538,6 +1592,8 @@ Betaine Hydrochloride 是一種有效的胃酸促進劑，可改善吸收和抗�
     <img src="https://img.youtube.com/vi/OV5OlaPZ6C4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The 6 Main & Common Causes of Depression – Dr.Berg
 
 ### 文章整理：抑郁症的物理病因及解决方案
 
@@ -1623,6 +1679,8 @@ Betaine Hydrochloride 是一種有效的胃酸促進劑，可改善吸收和抗�
         alt="[Youtube]" width="200">
 </a>
 
+# Muscle Aches, Low Cholesterol & Vitamin D Deficiency
+
 ### 核心主題：低膽固醇與維生素D缺乏症的連接
 
 - **核心主題**：探討低膽固醇水平對維生素D合成的影響及其後續健康問題。
@@ -1706,6 +1764,8 @@ Betaine Hydrochloride 是一種有效的胃酸促進劑，可改善吸收和抗�
         alt="[Youtube]" width="200">
 </a>
 
+# What About Canned Vegetables on Keto? - Dr. Berg
+
 ### 文章整理：關於酮飲食中罐裝蔬菜的影響與建議
 
 #### 1. 核心主題
@@ -1746,6 +1806,8 @@ Betaine Hydrochloride 是一種有效的胃酸促進劑，可改善吸收和抗�
         alt="[Youtube]" width="200">
 </a>
 
+# Can the Ketogenic Diet Spike Cortisol? Keto & Cortisol Function – Dr. Berg
+
 ### 小節整理：酮飲食是否會提高皮質醇水平？
 
 #### 1. 核心主題
@@ -1781,6 +1843,8 @@ Betaine Hydrochloride 是一種有效的胃酸促進劑，可改善吸收和抗�
     <img src="https://img.youtube.com/vi/9mZj17AdbrE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Keto Friendly Eggnog Recipe - Dr. Berg's Keto Egg Recipes
 
 ### 核心主題
 - 制作酮友好的蛋奶酒（Eggnog）。
@@ -1829,6 +1893,8 @@ Betaine Hydrochloride 是一種有效的胃酸促進劑，可改善吸收和抗�
     <img src="https://img.youtube.com/vi/Cngf7Gjo_-g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Carnivore Diet and Vegetable Conflict - Dr. Berg
 
 ### 文章重點整理
 
@@ -1880,6 +1946,8 @@ Betaine Hydrochloride 是一種有效的胃酸促進劑，可改善吸收和抗�
         alt="[Youtube]" width="200">
 </a>
 
+# The Benefits of Omega-7 Fatty Acids - Dr. Berg on Essential Fatty Acids
+
 ### 小節歸納
 
 #### 核心主題
@@ -1913,6 +1981,8 @@ Betaine Hydrochloride 是一種有效的胃酸促進劑，可改善吸收和抗�
     <img src="https://img.youtube.com/vi/t-jtHOWhAIw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Do NOT Take MORE Fiber for Constipation!! – Dr.Berg's Tips
 
 ### 文章重點整理
 
@@ -1962,6 +2032,8 @@ Betaine Hydrochloride 是一種有效的胃酸促進劑，可改善吸收和抗�
     <img src="https://img.youtube.com/vi/LppIp928SrA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Do Diabetics Need To Decrease The Need For Insulin? - Dr.Berg [ MUST WATCH!!]
 
 ### 文章重點整理
 
@@ -2017,6 +2089,8 @@ Betaine Hydrochloride 是一種有效的胃酸促進劑，可改善吸收和抗�
         alt="[Youtube]" width="200">
 </a>
 
+# Natural Remedies for GERD (Gastroesophageal Reflux Disease) - Dr. Berg
+
 ### 文章整理：GERD的理解與管理
 
 #### 1. 核心主題
@@ -2070,6 +2144,8 @@ Betaine Hydrochloride 是一種有效的胃酸促進劑，可改善吸收和抗�
         alt="[Youtube]" width="200">
 </a>
 
+# Is Squash Keto Friendly? - Dr. Berg
+
 
 </details>
 
@@ -2080,6 +2156,8 @@ Betaine Hydrochloride 是一種有效的胃酸促進劑，可改善吸收和抗�
     <img src="https://img.youtube.com/vi/P9cAwvkyReg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Correcting Your Ratio of Essential Fatty Acids (EFA) on the Ketogenic Diet - Dr.Berg
 
 ### 文章整理： essentials 條列式整理
 
@@ -2146,6 +2224,8 @@ Betaine Hydrochloride 是一種有效的胃酸促進劑，可改善吸收和抗�
         alt="[Youtube]" width="200">
 </a>
 
+# What Are Reactive Oxygen Species (ROS)? - Dr. Berg
+
 ### 文章整理與分析
 
 #### 核心主題
@@ -2203,6 +2283,8 @@ Betaine Hydrochloride 是一種有效的胃酸促進劑，可改善吸收和抗�
     <img src="https://img.youtube.com/vi/Ex2RNOoRNzA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Frustrated Visiting Your Doctor? - Dr. Berg
 
 ### 小結整理：醫療教育中的營養與飲食斷層
 
@@ -2275,6 +2357,8 @@ Betaine Hydrochloride 是一種有效的胃酸促進劑，可改善吸收和抗�
         alt="[Youtube]" width="200">
 </a>
 
+# What Food Can You Not Resist: Results of Dr. Berg's Survey
+
 ### 核心主題
 - 视频主题：探讨人们无法抗拒的食物，并以“面包”作为代表。
 - 重点讨论如何通过食谱和技巧来永久避免对面包的诱惑。
@@ -2315,6 +2399,8 @@ Betaine Hydrochloride 是一種有效的胃酸促進劑，可改善吸收和抗�
     <img src="https://img.youtube.com/vi/TFs9EZAUzrE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Flight or Fight Adrenal Stress and Vitamin B1 (Thiamine) – Dr. Berg
 
 ### 核心主題
 - **自主神經系統（Autonomic Nervous System, ANS）**：負責調節身體器官以適應外界環境，包括壓力反應和休息模式。
@@ -2367,6 +2453,8 @@ Betaine Hydrochloride 是一種有效的胃酸促進劑，可改善吸收和抗�
     <img src="https://img.youtube.com/vi/mBqpaAKtnXE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg's Guide to Healthy Keto® Eating: Step 2 - What to Eat
 
 ### 文章整理：酮症 diet 與脂肪燃燒的關鍵點
 
@@ -2464,6 +2552,8 @@ The conclusion highlights the effectiveness of ketosis in fat burning but unders
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg / Karen Live Q&A, Friday (Nov. 23) on the Ketogenic Diet and Intermittent Fasting
+
 ### 核心主題  
 - 謎因討論會的邀請與安排。
 
@@ -2496,6 +2586,8 @@ The conclusion highlights the effectiveness of ketosis in fat burning but unders
     <img src="https://img.youtube.com/vi/M3ZiVmj9oDA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Motivation For Eating: Results of Dr.Berg's Survey
 
 ### 小結點整理
 
@@ -2532,6 +2624,8 @@ The conclusion highlights the effectiveness of ketosis in fat burning but unders
     <img src="https://img.youtube.com/vi/mcKEGv5Wucw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Should I Workout While I am Fasting? - Dr. Berg Answers!
 
 ### 小節整理
 
@@ -2630,6 +2724,8 @@ The conclusion highlights the effectiveness of ketosis in fat burning but unders
         alt="[Youtube]" width="200">
 </a>
 
+# The Reason for Strong Odor on Keto Diet – Dr.Berg
+
 ### 文章整理：Keita 强烈 odor 的可能原因及应对措施
 
 #### 1. 核心主題
@@ -2684,6 +2780,8 @@ The conclusion highlights the effectiveness of ketosis in fat burning but unders
     <img src="https://img.youtube.com/vi/_yvy5-pHjQo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Can Teens Do Fasting? - Dr. Berg on Intermittent Fasting
 
 ### 文章整理：青少年禁食的安全性與益處
 
@@ -2743,6 +2841,8 @@ The conclusion highlights the effectiveness of ketosis in fat burning but unders
         alt="[Youtube]" width="200">
 </a>
 
+# Top 3 Benefits and Uses Of Coconut Oil - Dr. Berg
+
 ### 文章要點整理
 
 #### 核心主題
@@ -2796,6 +2896,8 @@ The conclusion highlights the effectiveness of ketosis in fat burning but unders
         alt="[Youtube]" width="200">
 </a>
 
+# The Benefits of Vitamin E - Dr.Berg
+
 ### 小節歸納
 
 #### 1. 核心主題：維生素E的健康益處與食物來源
@@ -2838,6 +2940,8 @@ The conclusion highlights the effectiveness of ketosis in fat burning but unders
     <img src="https://img.youtube.com/vi/4fzJRrLVdWM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best Tips to Get Back on Track with Keto Diet - Dr. Berg's Skype Session
 
 ### 文章重點整理
 
@@ -2931,6 +3035,8 @@ The conclusion highlights the effectiveness of ketosis in fat burning but unders
         alt="[Youtube]" width="200">
 </a>
 
+# Use Inositol for PCOS (Polycystic Ovarian Syndrome) – Dr. Berg
+
 ### 核心主題
 
 - **多囊卵巢綜合症 (PCOS)**：一種影響女性的代謝和生殖健康的疾病，與高胰島素血症和高雄性激素水平相關。
@@ -3004,6 +3110,8 @@ The conclusion highlights the effectiveness of ketosis in fat burning but unders
         alt="[Youtube]" width="200">
 </a>
 
+# Memory Loss and the Hippocampus – Dr.Berg [MUST WATCH!!]
+
 ### 文章整理： hippocampus 與記憶相關之研究及健康建議
 
 #### 核心主題
@@ -3061,6 +3169,8 @@ The conclusion highlights the effectiveness of ketosis in fat burning but unders
     <img src="https://img.youtube.com/vi/OMRCaKYthLg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Viral vs Bacterial Infection: What's the Difference? - Dr. Berg
 
 ### 文章重點整理
 
@@ -3142,6 +3252,8 @@ The conclusion highlights the effectiveness of ketosis in fat burning but unders
         alt="[Youtube]" width="200">
 </a>
 
+# What is Your Motivation to Eat?: Dr.Berg
+
 ### 核心主題
 - 探讨饮食动机及其对健康的影響。
 - 强調飲食意識的重要性與如何通過覺察改善飲食習慣。
@@ -3202,6 +3314,8 @@ The conclusion highlights the effectiveness of ketosis in fat burning but unders
         alt="[Youtube]" width="200">
 </a>
 
+# Antioxidants Control the Leaves Changing Color in the Fall: Dr. Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -3261,6 +3375,8 @@ The conclusion highlights the effectiveness of ketosis in fat burning but unders
         alt="[Youtube]" width="200">
 </a>
 
+# What Food Can You NOT Resist?: Dr.Berg On Healthy Eating & Refined Carbohydrates
+
 ### 核心主題：食物不可抗拒性與飲食控制
 
 #### 主要觀念：
@@ -3303,6 +3419,8 @@ The conclusion highlights the effectiveness of ketosis in fat burning but unders
         alt="[Youtube]" width="200">
 </a>
 
+# Dangers of Plant Based Milk for Infants - Benefits Of Breastfeeding - Dr.Berg
+
 ### 重点整理
 
 #### 核心主题  
@@ -3342,6 +3460,8 @@ The conclusion highlights the effectiveness of ketosis in fat burning but unders
     <img src="https://img.youtube.com/vi/itk_htAckZQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Does Vitamin K1 Do? - Dr. Berg
 
 ### 小節歸納
 
@@ -3424,6 +3544,8 @@ The conclusion highlights the effectiveness of ketosis in fat burning but unders
         alt="[Youtube]" width="200">
 </a>
 
+# Do You Have Orthorexia, the Obsession of Being Healthy?: Dr.Berg
+
 ### 小節歸納
 
 #### 1. 核心主題
@@ -3472,6 +3594,8 @@ The conclusion highlights the effectiveness of ketosis in fat burning but unders
     <img src="https://img.youtube.com/vi/ultcbOkutcQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is Fluoride in Water Safe to Drink? - Tooth Decay & Dental Fluorosis Dr.Berg
 
 ### 核心主題：社區飲水中的氟化物添加及其影響
 
@@ -3523,6 +3647,8 @@ The conclusion highlights the effectiveness of ketosis in fat burning but unders
     <img src="https://img.youtube.com/vi/u0qaaaU9NPU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Longest Fast in the World !!! = Dr.Berg
 
 ### 核心主題
 
@@ -3621,6 +3747,8 @@ The conclusion highlights the effectiveness of ketosis in fat burning but unders
         alt="[Youtube]" width="200">
 </a>
 
+# The Inflammation Factor in Common Diseases – Dr.Berg
+
 ### 文章整理
 
 #### 核心主題
@@ -3675,6 +3803,8 @@ The conclusion highlights the effectiveness of ketosis in fat burning but unders
     <img src="https://img.youtube.com/vi/aBavDwK6jBA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Benefits of Snake Oil - Dr.Berg
 
 ### 文章整理：蛇油的健康益處及對Quackery和DSM-5的批評
 
@@ -3769,6 +3899,8 @@ The conclusion highlights the effectiveness of ketosis in fat burning but unders
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg's Healthy Keto® Diet Plan - Intermittent Fasting and Fat Burning
+
 ### 核心主題：健康的酮症（Healthy Ketosis）與間歇性禁食（Intermittent Fasting）
 
 #### 主要觀念：
@@ -3809,6 +3941,8 @@ The conclusion highlights the effectiveness of ketosis in fat burning but unders
     <img src="https://img.youtube.com/vi/yA8-dsGexyk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Protein On Keto Diet Clarified - Dr.Berg
 
 ### 核心主題  
 - 蛋白質攝取量在飲食中的重要性及其具體建議  
@@ -3856,6 +3990,8 @@ The article discusses the importance of protein intake in a diet and clarifies c
     <img src="https://img.youtube.com/vi/tFp005TDrXY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 3 Key Minerals for PMS (Premenstrual Syndrome) – Dr.Berg On Menstrual Cramps & PMS Food
 
 ### 核心主題  
 - 探讨与月经周期相关的经前综合症（PMS）及痛经的缓解方法。
@@ -3908,6 +4044,8 @@ The article discusses the importance of protein intake in a diet and clarifies c
         alt="[Youtube]" width="200">
 </a>
 
+# Is Splenda Good To Consume On Keto Diet? - Dr.Berg
+
 ### 小節歸納
 
 #### 核心主題
@@ -3946,6 +4084,8 @@ Splenda雖然是市售常見的人工甜味劑，但其成分可能對血糖控�
     <img src="https://img.youtube.com/vi/mvHmYmQspNk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What is Gynecomastia (Man Boobs)? - Dr.Berg on Liver
 
 ### 文章重點整理
 
@@ -3990,6 +4130,8 @@ gilincomastia主要與肝臟功能障礙和環境中endocrine disrupters有關�
     <img src="https://img.youtube.com/vi/rQaQUPu7_yM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Find The Right Bacon On Keto? - Dr.Berg
 
 ### 文章整理：如何選擇健康的培根（Bacon）
 
@@ -4047,6 +4189,8 @@ gilincomastia主要與肝臟功能障礙和環境中endocrine disrupters有關�
     <img src="https://img.youtube.com/vi/kORcxGHdenw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How Sugar & Stress Alter Your pH (Acid Alkaline Levels)? : Dr.Berg
 
 ### 文章整理：壓力與糖分如何影響體內pH值
 
@@ -4122,6 +4266,8 @@ gilincomastia主要與肝臟功能障礙和環境中endocrine disrupters有關�
         alt="[Youtube]" width="200">
 </a>
 
+# Health Benefits of Ghee - Dr. Berg
+
 ### 核心主題： 
 - **Ghee（酥油）** 在腸道健康管理中的多重益處。
 
@@ -4188,6 +4334,8 @@ gilincomastia主要與肝臟功能障礙和環境中endocrine disrupters有關�
     <img src="https://img.youtube.com/vi/np1j4z4sGAM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Carbs Are NOT Energy Foods, But Fatigue Foods – Dr.Berg
 
 ### 文章整理：如何应对亲友对低碳饮食的质疑
 
@@ -4274,6 +4422,8 @@ gilincomastia主要與肝臟功能障礙和環境中endocrine disrupters有關�
         alt="[Youtube]" width="200">
 </a>
 
+# FAQ for Dr. Berg's Friendly Bacteria Probiotic
+
 ### 核心主題  
 - **核心主題**：介紹一種新型（實為復發）液體非 Dairy 菌群益生菌產品及其健康效益和使用建議。
 
@@ -4334,6 +4484,8 @@ gilincomastia主要與肝臟功能障礙和環境中endocrine disrupters有關�
         alt="[Youtube]" width="200">
 </a>
 
+# 5 Things You Must Know About Ketosis - Dr. Berg
+
 ### 文章重點整理
 
 #### 核心主題：健康酮osis與低碳水化合物飲食的科學原理及實踐建議
@@ -4384,6 +4536,8 @@ gilincomastia主要與肝臟功能障礙和環境中endocrine disrupters有關�
         alt="[Youtube]" width="200">
 </a>
 
+# What Is Diatomaceous Earth? - Dr. Berg
+
 ### 小節整理：矽藻土（Diatomaceous Earth）的功效與應用
 
 #### 1. 核心主題
@@ -4428,6 +4582,8 @@ gilincomastia主要與肝臟功能障礙和環境中endocrine disrupters有關�
     <img src="https://img.youtube.com/vi/iDhWIrS0OQ4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Fast Fat Loss For Slow Metabolism: Dr.Berg On Keto Weight Loss
 
 ### 文章整理：加速脂肪燃燒的策略（針對慢代謝）
 
@@ -4502,6 +4658,8 @@ gilincomastia主要與肝臟功能障礙和環境中endocrine disrupters有關�
         alt="[Youtube]" width="200">
 </a>
 
+# Can Taking an Aspirin a Day Hurt You?
+
 ### 文章重點整理
 
 #### 核心主題
@@ -4556,6 +4714,8 @@ gilincomastia主要與肝臟功能障礙和環境中endocrine disrupters有關�
     <img src="https://img.youtube.com/vi/Eu1ldCIdLF0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Sleep Deeply and Wake Up Refreshed (Must Watch!!) - Dr. Berg on Sleep Problems
 
 ### 文章整理：改善睡眠质量的关键因素与解决方案
 
@@ -4616,6 +4776,8 @@ gilincomastia主要與肝臟功能障礙和環境中endocrine disrupters有關�
     <img src="https://img.youtube.com/vi/bZLo_-jXwPw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Eight Causes Of Edema - Dr. Berg
 
 ### 重点整理：水肿（Edema）的原因与解决之道
 
@@ -4690,6 +4852,8 @@ gilincomastia主要與肝臟功能障礙和環境中endocrine disrupters有關�
         alt="[Youtube]" width="200">
 </a>
 
+# 8 Health Benefits of Probiotics - Dr.Berg
+
 ### 小節整理：文章關於益生菌的八項主要利益及其相關議題
 
 #### 核心主題
@@ -4753,6 +4917,8 @@ gilincomastia主要與肝臟功能障礙和環境中endocrine disrupters有關�
         alt="[Youtube]" width="200">
 </a>
 
+# Best Tip for Hashimoto’s Hypothyroid - Dr. Berg
+
 ### 小結點整理
 
 #### 核心主題
@@ -4805,6 +4971,8 @@ Hashimoto's 是一種复杂且多因素導致的自身免疫疾病。雖然其�
         alt="[Youtube]" width="200">
 </a>
 
+# What Is Organic Pesticides? - Dr. Berg
+
 # 文章整理：有機產品的定義與實踐
 
 ## 核心主題
@@ -4850,6 +5018,8 @@ Hashimoto's 是一種复杂且多因素導致的自身免疫疾病。雖然其�
         alt="[Youtube]" width="200">
 </a>
 
+# What Foods To Eat To Break a Prolonged Fast? - Dr.Berg
+
 
 </details>
 
@@ -4860,6 +5030,8 @@ Hashimoto's 是一種复杂且多因素導致的自身免疫疾病。雖然其�
     <img src="https://img.youtube.com/vi/HPpxEQOH8bI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Halloween at Dr.Berg's House
 
 ### 文章重點整理
 
@@ -4919,6 +5091,8 @@ Hashimoto's 是一種复杂且多因素導致的自身免疫疾病。雖然其�
         alt="[Youtube]" width="200">
 </a>
 
+# What Is Mycoplasma? - Dr.Berg
+
 ### 小節歸納
 
 #### 核心主題  
@@ -4974,6 +5148,8 @@ Hashimoto's 是一種复杂且多因素導致的自身免疫疾病。雖然其�
         alt="[Youtube]" width="200">
 </a>
 
+# Low Protein On Keto Is Dangerous!! - Dr.Berg on Keto Diet
+
 ### 核心主題：低蛋白飲食的健康風險及其影響
 
 #### 主要觀念：
@@ -5010,6 +5186,8 @@ Hashimoto's 是一種复杂且多因素導致的自身免疫疾病。雖然其�
     <img src="https://img.youtube.com/vi/ZxeqP-QLIM8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Do You Have a Copper Deficiency? - Dr. Berg
 
 ### 文章主題：銅缺乏症及其健康影響
 
@@ -5075,6 +5253,8 @@ Hashimoto's 是一種复杂且多因素導致的自身免疫疾病。雖然其�
     <img src="https://img.youtube.com/vi/bzXdZfaI2x0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Consequence of Missing Pregnancy Nutrition - Dr.Berg
 
 ### 文章整理：孕期與營養攝取之關係
 
@@ -5149,6 +5329,8 @@ Hashimoto's 是一種复杂且多因素導致的自身免疫疾病。雖然其�
         alt="[Youtube]" width="200">
 </a>
 
+# Sugar, Yeast and Candida (Candidiasis) – Dr.Berg
+
 ### 文章整理： sugar, Yeast, and Candida: The Impact of Sugar on Infections
 
 ---
@@ -5210,6 +5392,8 @@ Hashimoto's 是一種复杂且多因素導致的自身免疫疾病。雖然其�
     <img src="https://img.youtube.com/vi/YTAi62iLvm8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best Foods for Stress Relief - Dr. Berg Foods That Reduce Stress
 
 ### 文章整理：壓力管理中的飲食策略
 
@@ -5290,6 +5474,8 @@ Hashimoto's 是一種复杂且多因素導致的自身免疫疾病。雖然其�
         alt="[Youtube]" width="200">
 </a>
 
+# Mint Benefits for Health - Mint Leaf Uses for Digestion Issues - Dr. Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -5352,6 +5538,8 @@ This article explores the diverse health benefits of mint (Mint) and its applica
     <img src="https://img.youtube.com/vi/Obg2sITsM-c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# When NOT to Eat Vegetables? - Dr. Berg On Phytonutrients & SIBO
 
 ### 文章整理與結構化分析
 
@@ -5434,6 +5622,8 @@ This article explores the diverse health benefits of mint (Mint) and its applica
         alt="[Youtube]" width="200">
 </a>
 
+# How to Eat What You Want & Still Lose Belly Fat? – Dr.Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -5474,6 +5664,8 @@ This article explores the diverse health benefits of mint (Mint) and its applica
     <img src="https://img.youtube.com/vi/KxguzOyFxQA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is Chlorine in Water (Tap Water) Really that Bad? - Dr. Berg
 
 ### 核心主題  
 - 氯在自來水中的存在及其影響。  
@@ -5520,6 +5712,8 @@ This article explores the diverse health benefits of mint (Mint) and its applica
     <img src="https://img.youtube.com/vi/OEwzcBDNxfw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Eat Liver and Egg Yolks to Prevent a Fatty Liver - Dr. Berg
 
 ### 文章重點整理
 
@@ -5578,6 +5772,8 @@ This article explores the diverse health benefits of mint (Mint) and its applica
         alt="[Youtube]" width="200">
 </a>
 
+# Use Vitamin D To Keep Viruses in Remission in Winter Months - Dr. Berg
+
 ### 小節一：核心主題
 - 探讨维生素D在病毒性感染中的作用及其对免疫系统的影响。
 
@@ -5626,6 +5822,8 @@ This article explores the diverse health benefits of mint (Mint) and its applica
     <img src="https://img.youtube.com/vi/oR_DiulU6Eo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Is Diabetes Becoming So Popular Nowadays? - Dr. Berg
 
 ### 核心主題：糖尿病流行的增加及其與飲食建議的關係
 
@@ -5702,6 +5900,8 @@ This article explores the diverse health benefits of mint (Mint) and its applica
     <img src="https://img.youtube.com/vi/iEYDr808bPk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Causes Hives and Itchiness - (Urticaria) Hives Treatment - Dr. Berg
 
 ### 核心主題：膽汁鹽缺乏與相關健康問題
 

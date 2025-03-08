@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Your Brain ONLY Needs Glucose (Carbohydrates) is a MYTH! – Dr.Berg
+
 ### 核心主題  
 - 脳部的能量來源不僅限於糖類（葡萄糖），還可以利用酮體作為替代燃料。  
 
@@ -57,6 +59,8 @@
     <img src="https://img.youtube.com/vi/q2vPQYP0dpI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# POTASSIUM: The MOST Important Electrolyte! – Dr. Berg
 
 ### 文章整理：核心主題與主要觀念
 
@@ -143,6 +147,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How to Relieve Upper Neck Pain – Dr.Berg
+
 要解决颈部的紧张和僵硬，可以通过以下方法：
 
 1. **自我按摩**：轻轻按压下巴下方的肌肉结节，保持数秒后放松。反复操作几次，以减轻肌肉紧张。
@@ -163,6 +169,8 @@
     <img src="https://img.youtube.com/vi/hEVNf-KTvvM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# An APPLE a Day Will NOT Let Your Weight Go Away – Dr. Berg
 
 ### 核心主題  
 - 蘋果的营养价值及其对体重管理和脂肪燃烧的影响。  
@@ -212,6 +220,8 @@
     <img src="https://img.youtube.com/vi/5RskH6iSkqI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Hormones Made Simple (Part 1, 2 3) - Webinar Registration
 
 ### 核心主題：激素的簡明介紹與内分泌系統的作用
 
@@ -271,6 +281,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Forget the Coffee! Do Wheat Grass Juice for ENERGY!
+
 ### 核心主題
 - 探讨小麦草汁与其对人体能量水平的影响。
 
@@ -305,6 +317,8 @@
     <img src="https://img.youtube.com/vi/Zxvlhc7ythA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Lose Belly Fat as a Vegan – Dr. Berg
 
 ### 文章重點整理  
 
@@ -374,6 +388,8 @@
     <img src="https://img.youtube.com/vi/IpedthIpUnY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Causes Insulin Resistance – EXPLAINED By Dr.Berg
 
 ### 文章整理：低碳水化合物飲食對糖尿病及其他代謝疾病的療效與脂肪攝取的安全性
 
@@ -445,6 +461,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How to Prevent Fatty Liver When You Lose Weight – Dr.Berg
+
 ### 核心主題  
 - **脂肪肝的防範與治療**：探討在减重飲食過程中如何防止脂肪肝的形成。
 
@@ -505,6 +523,8 @@
     <img src="https://img.youtube.com/vi/Etn-AkPSH0I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Pre and Post Workout Meal Myth – DO'S and DON'TS – Dr. Berg
 
 ### 小節整理：運動前後進食的迷思與真相
 
@@ -588,6 +608,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How to Lose Fat by Eating Bacon – Dr. Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -649,6 +671,8 @@
     <img src="https://img.youtube.com/vi/plEulSI2RsY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Sodium Myth and Why We Need It! – Dr.Berg
 
 ### 文章整理與分析
 
@@ -742,6 +766,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Are You Addicted to Sweets or Just Love Them? – Dr. Berg
+
 ### 核心主題  
 - **糖分攝取及成癮性**：探討糖分在現代飲食中的氾濫及其成癮性問題。
 - **健康影響**：分析糖分攝取對健康的負面影響，包括血糖波動和慢性病風險。
@@ -782,6 +808,8 @@
     <img src="https://img.youtube.com/vi/6T4zOq7ifTY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Hidden Environmental Stressors – Dr. Berg
 
 ### 文章整理：控制環境以降低壓力與促進 adrenal 健康
 
@@ -839,6 +867,8 @@
     <img src="https://img.youtube.com/vi/Svn6q2qo6Fo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why You Can’t Lose Weight? The Real Reason Explained by Dr. Berg
 
 ### 一、核心主題
 1. **健康為首要目標**：文章強調健康是首要目標，而非直接追求體重減輕。
@@ -906,6 +936,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Update Review on Dr. Berg's Adrenal Membership Site
+
 ### 核心主題:  
 - 經歷 Dr. Berg 的腎上腺恢復計劃（Adrenal Program）後的個人健康改善經驗。
 
@@ -944,6 +976,8 @@
     <img src="https://img.youtube.com/vi/xDH_ds-phrs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Eat Vegetables if You Don't Like Them – Dr. Berg
 
 ### 核心主題  
 - **蔬菜攝取的重要性**：文章強調了蔬菜在人類飲食中的核心角色，特別是其營養價值（如維生素、礦物質、酶等）對健康的重要性。  
@@ -1011,6 +1045,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Did  You Realize that Most People Drink 50 Gallons of Poison Each Year? – Dr. Berg
+
 ### 小節整理：高果糖玉米糖對健康的影響
 
 #### 核心主題  
@@ -1057,6 +1093,8 @@
     <img src="https://img.youtube.com/vi/GR8bmbiZFtY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Lose Arm Fat Fast: Tips from Dr. Berg
 
 ### 文章整理： Loose Skin and Weight Loss: The Connection to Cortisol and Growth Hormone
 
@@ -1164,6 +1202,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Sleep Remedy That May Double Your Fat Burning – Dr.Berg
+
 ### 核心主題  
 - 睡眠對脂肪燃燒的重要性。  
 - 生長激素在睡眠期間的作用。  
@@ -1239,6 +1279,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What Causes Hypoglycemia? – Dr.Berg
+
 ### 小節歸納
 
 #### 核心主題
@@ -1289,6 +1331,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Raw Veggies vs. Cooked Veggies – Dr. Berg
+
 ### 小節歸納
 
 #### 核心主題  
@@ -1330,6 +1374,8 @@
     <img src="https://img.youtube.com/vi/DyZ2yd7vbtI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Worst "Health" Foods for Kids – Dr. Berg
 
 ### 文章整理：兒童健康食品的迷思與真相
 
@@ -1390,6 +1436,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Top 5 Weight Loss Mistakes – Dr. Berg
+
 ### 文章整理：五個常見的減肥錯誤與相應的解決方案
 
 #### 1. **核心主題**
@@ -1446,6 +1494,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Importance of Hydrochloric acid (HCL) in the Stomach – Dr. Berg
+
 # 胃酸不足的影響與解決方法
 
 ## 小節 1: 核心主題
@@ -1491,6 +1541,8 @@
     <img src="https://img.youtube.com/vi/38oAwqwFMEQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why PROTEIN Does Not Help Hair Loss, Brittle Nails, and Collagen Loss – Dr.Berg
 
 ### 核心主題  
 - 論述解決頭髮脫落、指甲脆弱和膠原蛋白老化問題的核心在於 trace minerals（微量元素）而非僅通過攝取更多蛋白質。  
@@ -1539,6 +1591,8 @@
     <img src="https://img.youtube.com/vi/m3DvyRrJDYE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Top Symptoms of Magnesium Deficiency – Dr. Berg
 
 # 文章整理：關於鎂離子的重要性與影響
 
@@ -1613,6 +1667,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What is Ovary Body Type? - Dr. Berg
+
 ### 文章重點整理
 
 #### 1. 核心主題
@@ -1663,6 +1719,8 @@
     <img src="https://img.youtube.com/vi/f4vE4jvcN64/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What is Liver Body Type? - Dr. Berg
 
 ### 文章重點整理
 
@@ -1731,6 +1789,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Best Natural Remedy for Ear Infection – Dr. Berg
+
 ### 核心主題
 - 探讨耳部感染的自然療法。
 
@@ -1762,6 +1822,8 @@
     <img src="https://img.youtube.com/vi/JHtXq_hkUTo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Stretch Tight Hamstrings – Dr. Berg
 
 ### 文章重點整理
 
@@ -1798,6 +1860,8 @@
     <img src="https://img.youtube.com/vi/MLHwlEHOBnM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Achilles Tendonitis (Heel Spur Pain) Exercises & Stretches – Dr. Berg
 
 ### 文章重點整理
 
@@ -1861,6 +1925,8 @@
     <img src="https://img.youtube.com/vi/Bf2t8FxD3KU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Heart Nutrition Presentation Registration Video
 
 ### 核心主題：心臟營養與健康
 
@@ -1927,6 +1993,8 @@ Dr. Berg 警示我們，心臟是對營養反應最快的器官之一。通過�
         alt="[Youtube]" width="200">
 </a>
 
+# Wheat Grass Juice vs Wheat Grass Juice Powder – Benefits by Dr. Berg
+
 ### 小結點整理：
 
 #### 1. 核心主題：
@@ -1961,6 +2029,8 @@ Dr. Berg 警示我們，心臟是對營養反應最快的器官之一。通過�
     <img src="https://img.youtube.com/vi/eaTVQm45Wqw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr.Berg explains How to Relieve the Pain after Gallbladder Removal Surgery
 
 ### 核心主題  
 - 本文主要探討 gallbladder 手術後的疼痛問題及其解決方案。
@@ -2009,6 +2079,8 @@ Dr. Berg 警示我們，心臟是對營養反應最快的器官之一。通過�
     <img src="https://img.youtube.com/vi/x7Q_l3-firI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Importance of Gallbladder & Side Effects of Gallbladder Surgery – Dr. Berg
 
 ### 文章整理： gallbladder的重要性與移除後的副作用及解決方法
 
@@ -2063,6 +2135,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
+# What Causes Sleep Apnea & How to Get Rid of it? – Home Remedies by Dr.Berg
+
 ### 小結整理：睡眠呼吸中斷症（Sleep Apnea）的成因、診斷與自然療法
 
 #### 1. 核心主題
@@ -2109,6 +2183,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
     <img src="https://img.youtube.com/vi/4ubWuwzjSGs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Causes Pimples and How to Get Rid of Acne
 
 ### 文章重點整理
 
@@ -2189,6 +2265,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg's Cortisol Support Formula Ingredients - for Adrenal Fatigue
+
 ### 核心主題  
 - 介紹一款名為「Cortisol Support」的新產品，旨在支持 adrenal health 和恢復因burnout或慢性疾病導致的腺疲勞。
 
@@ -2245,6 +2323,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
     <img src="https://img.youtube.com/vi/xPXnzwOmzOM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What causes Kidney Stones & It's Treatment by Dr.Berg
 
 ### 核心主題
 - 肾结石的成因及防治方法。
@@ -2306,6 +2386,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
+# The 2-Minute Sore Throat Solution
+
 ### 文章整理：快速消除喉嚨痛的自我治療法
 
 #### 核心主題
@@ -2348,6 +2430,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
     <img src="https://img.youtube.com/vi/gXdlPuKfyXs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 2 Simple Stretches / Exercises to Fix Plantar Fasciitis – Dr.Berg
 
 ### 核心主題  
 - 解決 Morton 腫瘓（Plantar Fasciitis）的快速方法  
@@ -2394,6 +2478,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
     <img src="https://img.youtube.com/vi/aBV0THrWHbM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Gastroesophageal Reflux Disease (GERD) – Causes, Symptoms and Treatment – Dr.Berg
 
 ### 核心主題  
 - **GERD（胃食管反流病）**：本文討論了GERD及其與 acid reflux 和 heartburn 的關聯。
@@ -2453,6 +2539,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
+# Diabetes Burnout to Normal Life – Success Story of Dr.Berg's patient
+
 ### 小節歸納
 
 #### 核心主題
@@ -2506,6 +2594,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
+# Success Stories of Diabetes Reversal – Case Study by Dr.Berg
+
 ### 文章重點整理
 
 #### 核心主題  
@@ -2545,6 +2635,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
     <img src="https://img.youtube.com/vi/6V3Dl4CpmE4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Long Term Side Effects of Birth Control Pills & It's Alternatives by Dr.Berg
 
 ### 文章整理
 
@@ -2590,6 +2682,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
     <img src="https://img.youtube.com/vi/xKvnoefh3QY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Get Flat Stomach in a Week – Live Webinar by Dr.Berg
 
 # Seminar Announcement on Beyond Weight Loss: Advanced Strategies for Stubborn Belly Fat
 
@@ -2637,6 +2731,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
     <img src="https://img.youtube.com/vi/5WWkK_VZka4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Chicken Soup for Arthritis Pain Relief – Home Remedies by Dr.Berg
 
 ### 核心主題：關節炎的理解與治療策略
 
@@ -2724,6 +2820,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
+# The Low Potassium Epidemic: Dr. Berg Explains Symptoms, Signs, Diet, Causes, and Treatment
+
 ### 文章整理：低血钾症及其影响与管理
 
 #### 核心主題
@@ -2778,6 +2876,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
     <img src="https://img.youtube.com/vi/z1cOvH1_vKc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr.Berg Exposes Dr.OZ Show
 
 ### 文章重點整理
 
@@ -2861,6 +2961,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg's Massage Tool: what is it used for?
+
 ### 核心主題  
 - 推廣一種按摩工具，用於身體放鬆和壓力 relief。
 
@@ -2917,6 +3019,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
     <img src="https://img.youtube.com/vi/M2ne0tlBlu4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg's Vitamin D3: how to use it
 
 ### 標題：Vitamin D3: 重要性、應用及健康建議
 
@@ -2999,6 +3103,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
+# 8 Weird Things I Tried to Get Healthy – Dr.Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -3035,6 +3141,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
     <img src="https://img.youtube.com/vi/-QAJG1UxTbg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg's Organic Sea Kelp (Icelandic): and how to use it
 
 ### 核心主題  
 - 介紹一種名為**Organic Seel**（ Icelandic 海藻）的健康補充品及其重要性。  
@@ -3082,6 +3190,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg Trace Minerals: and how to use it
+
 ### 核心主題
 - **Trace Minerals (痕量礦物)**  
   - 痕量礦物是指人體需要量極小但至關重要的礦物質。
@@ -3127,6 +3237,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
     <img src="https://img.youtube.com/vi/ZR1wH9mwb5o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg's Raw Wheat Grass Juice Powder: how to use it
 
 ### 核心主題  
 - 推介一種100%Certified Organic的生長草汁粉末產品。
@@ -3191,6 +3303,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg’s Vitamin K2: and How to Use It
+
 ### 小節歸納與整理
 
 #### 1. 核心主題
@@ -3236,6 +3350,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
     <img src="https://img.youtube.com/vi/KTCx7toHtFc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg's Adrenal Night Formula: and how to use it
 
 ### 小芻目清單：
 1. 核心主題  
@@ -3305,6 +3421,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg's Adrenal Day Formula: How to use it
+
 ### 文章重點整理
 
 #### 核心主題
@@ -3357,6 +3475,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
     <img src="https://img.youtube.com/vi/wKLiXJqVIY8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg's Gallbladder Formula: How to Use It
 
 ### 小節：文章核心主題  
 - **核心主題**：介紹一款幫助消化系統特別是 gallbladder（膽囊）功能的配方及其作用機制和應用方法。
@@ -3427,6 +3547,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
+# Why are You Tired on Keto – Keto Diet Fatigue Explained by Dr.Berg
+
 ### 核心主題
 - **酮症 diets**（ketogenic diet）：一種高蛋白、高脂飲食法，旨在將身體的燃料來源從糖類轉向脂肪。
 
@@ -3477,6 +3599,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
     <img src="https://img.youtube.com/vi/qlQ8764Epx0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Get Rid Of Cellulite On Thighs & Buttocks? – Dr.Berg
 
 ### 文章整理：針對臀部和大腿的蜂窩組織脂肪（CELLULITE）處理方案
 
@@ -3535,6 +3659,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
+# Download the New DrBerg App for Free
+
 
 </details>
 
@@ -3545,6 +3671,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
     <img src="https://img.youtube.com/vi/W4ACwdXIJag/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What To Do If You Have Adrenal Fatigue – Dr. Berg Shows Adrenal Fatigue Exercise
 
 ### 核心主題：阿德諾 glands 與應激反應  
 - 阿德諾腺是身體處理壓力的核心器官，負責調節對壓力的反應，包括分泌腎上腺素和皮質醇等激素。  
@@ -3590,6 +3718,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
     <img src="https://img.youtube.com/vi/IdDMMs96N9A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Most Thyroid Issues Are Secondary to Other Problems – Dr. Berg
 
 # 關於甲狀腺 gland 的探討與健康管理
 
@@ -3652,6 +3782,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
     <img src="https://img.youtube.com/vi/jZBRCc_KDoI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Gallbladder, the Most Ignored Organ – Dr.Berg on Gallbladder Problems
 
 ### 文章重點整理
 
@@ -3719,6 +3851,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
+# Cholesterol Function – Amazing Benefits of Cholesterol – Dr. Berg
+
 ### 核心主題：胆固醇的再認識與其健康作用
 
 #### 主要觀念：
@@ -3754,6 +3888,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
     <img src="https://img.youtube.com/vi/0st9k3bNAi0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The "OTHER" Reasons Why People Can't Lose Weight – Dr.Berg on Weight Loss Barriers
 
 ### 文章整理與分析
 
@@ -3810,6 +3946,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
     <img src="https://img.youtube.com/vi/Kmhvx9uCV-8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Insulin is the Cause of Most Major Illnesses – Dr. Berg on High Insulin Levels
 
 ### 文章整理報告
 
@@ -3869,6 +4007,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
+# The Best Workout for Cellulite: Dr. Berg's Expert Advice
+
 ### 核心主題
 - **CELLULITE 的定義與迷思**  
   CELLULITE 被視為一種特殊的脂肪，但事實上它並不是一種特殊的脂肪，而是皮下肌肉萎縮（atrophy）所導致的現象。
@@ -3916,6 +4056,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
     <img src="https://img.youtube.com/vi/TsoYREVnVH8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How Cortisol Effects on Body and Destroy Proteins – Dr.Berg
 
 ### 文章整理與結構化總結
 
@@ -3981,6 +4123,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
     <img src="https://img.youtube.com/vi/J-oDjYNmKgo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Serious Excess Calcium Side Effects (Soft-Tissue Calcium) – Dr.Berg
 
 ### 文章重點整理
 
@@ -4051,6 +4195,8 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
     <img src="https://img.youtube.com/vi/n4Ld_fI7-SU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Deal With Food Cravings By Dr. Berg
 
 ### 小節歸納
 
@@ -4152,6 +4298,8 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
+# How to do a Health Evaluation: Dr. Berg's Doctor Training Video
+
 ### 文章重點整理
 
 #### 核心主題
@@ -4208,6 +4356,8 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
     <img src="https://img.youtube.com/vi/meLPsIqeGPw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What is Blood Pressure?
 
 ### 核心主題  
 - 血壓與心跳速率的測量及其重要性  
@@ -4267,6 +4417,8 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
+# Hair Cortisol Analysis Gone Wrong By Dr.Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -4302,6 +4454,8 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
     <img src="https://img.youtube.com/vi/xe5y7wwz2vY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr.Berg explains 3 Hormones that Affect your Body Shape & Weight Loss
 
 ### 核心主題
 - 腳胖問題的根本原因及其與激素的關聯。
@@ -4354,6 +4508,8 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
+# Dr.Berg finds What Causes Strokes, Vitamin K & Warfarin Diet (Coumadin)
+
 ### 核心主題
 - 探讨抗凝血药物（如Coumadin）与维生素K、中风之间的关系。
 - 强调自然疗法在血液健康中的潜在作用。
@@ -4388,6 +4544,8 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
     <img src="https://img.youtube.com/vi/SJ7jMfPrRhM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg explains "What are Fat Burning Hormones?" in a Simpler Way
 
 ### 小節整理：激素在脂肪燃燒與脂肪生成中的作用
 
@@ -4424,6 +4582,8 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
     <img src="https://img.youtube.com/vi/rIBQK72310w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What is Cortisol? and How Stress Causes Weight Gain? – Dr. Berg
 
 ### 核心主題
 - **Cortisol的作用與影響**：文章主要探討了皮質醇（cortisol）在應激反應中的作用及其對身體的多方面影響。
@@ -4470,6 +4630,8 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
     <img src="https://img.youtube.com/vi/2MJ4Bx5A4Jg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Foods you Need to Avoid to Lose Weight – Diet Analysis by Dr. Berg
 
 # 文章分析與整理
 
@@ -4549,6 +4711,8 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
+# Shoulder Muscle Pain – Causes and Treatments for Relief by Dr. Berg
+
 ### 文章重點整理
 
 #### 1. **核心主題**
@@ -4591,6 +4755,8 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
     <img src="https://img.youtube.com/vi/gqilqf0ZRBY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Real Causes of Pain Without Injury – Dr. Berg
 
 ### 小節整理：疼痛的來源與治療策略
 
@@ -4648,6 +4814,8 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
+# What is the Nervous System? Explained By Dr. Berg
+
 ### 核心主題：神經系統的結構與功能
 
 #### 主要觀念：
@@ -4693,6 +4861,8 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
     <img src="https://img.youtube.com/vi/Rdsrb_g5ZLo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Deeper Causes of Pain & Inflammation – Dr. Berg
 
 ### 小節 1：核心主題  
 - 討論疼痛如何影響整體健康，特別是與睡眠、体重管理和能量水平的關聯。  
@@ -4741,6 +4911,8 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
     <img src="https://img.youtube.com/vi/XeHl5Y7m1xM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The REAL Reason Why Apple Cider Vinegar Helps with WEIGHT LOSS  - Dr. Berg
 
 ### 文章整理：蘋果 cider 的健康益處與飲用指南
 
@@ -4801,6 +4973,8 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
+# Exercise Fat Burning Formula Revealed by Dr.Berg!!
+
 ### 核心主題: 
 - **Exercise Optimization Formula**: 討論如何通過合理安排運動和恢復來最大化健康益處，特別是脂肪燃燒和心臟健康。
 
@@ -4844,6 +5018,8 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
     <img src="https://img.youtube.com/vi/7t555iJaTrw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg's Client Success Story: Getting to the Root
 
 ### 核心主題  
 - Timothy Morris 訴述了他在健康管理方面遇到的問題和經驗，特別是與體脂、睡眠質量和血壓控制相關的挑戰。  
@@ -4896,6 +5072,8 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
     <img src="https://img.youtube.com/vi/zGcZGt0kK9I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why is Weight Loss NOT Natural? – Dr. Berg
 
 ### 文章要點整理
 
@@ -4972,6 +5150,8 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
+# People Who Can't Burn Fat Don't Know the Purpose of FAT! – Dr.Berg
+
 ### 文章整理：脂肪燃燒的核心原則
 
 #### 1. 核心主題
@@ -5008,6 +5188,8 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
     <img src="https://img.youtube.com/vi/PyOSAyOg3e4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Egg Yolk and Butter Myth – Dr. Berg
 
 ### 核心主題
 - **.Butter 和蛋黃的營養價值及對健康的影響**
@@ -5081,6 +5263,8 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
+# Anti Aging
+
 
 </details>
 
@@ -5091,6 +5275,8 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
     <img src="https://img.youtube.com/vi/k1cajxGqMjQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg's Anti-Aging Seminar
 
 ### 文章重點整理
 
@@ -5130,6 +5316,8 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
     <img src="https://img.youtube.com/vi/S1Z9ObBmRxE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Calorie Myth – Why Low Calories Does Not Equal Weight Loss – Dr.Berg
 
 ### 小節歸納
 
@@ -5183,6 +5371,8 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
+# The 4 Electrolytes Signs & Symptoms When Losing Weight – Dr.Berg On Electrolyte Imbalance
+
 * **核心主題：特殊飲食計劃中的電解質失衡與其影響**  
   - 文章探討在特殊飲食計劃中，快速 weight loss 可能導致的電解質 deficiency 及其對身體的多方面影響。
 
@@ -5221,6 +5411,8 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
     <img src="https://img.youtube.com/vi/PIJU1q3meFk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 5 Causes of Sleep Problems – Dr. Berg
 
 ### 重點整理
 
@@ -5297,6 +5489,8 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
+# What Causes Cataracts? – Dr. Berg
+
 ### 小節整理
 
 #### 1. 核心主題：  
@@ -5341,6 +5535,8 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
     <img src="https://img.youtube.com/vi/YR-KPrmIvgo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Find The Perfect Diet For Your Body? – Dr. Berg
 
 ### 文章整理與分析
 
@@ -5389,6 +5585,8 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
+# How To Do Acupressure? – Try Dr. Berg's Effective Techniques
+
 ### 核心主題
 - 半島灣研討會於2023年10月3日在美國北維吉尼亞舉辦。
 - 主旨為教授#acupressure#技術及其在身體不同部位（如甲狀腺、腎上腺、卵巢、胰臟）及症狀（如潮熱、月經問題）上的應用。
@@ -5433,6 +5631,8 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
     <img src="https://img.youtube.com/vi/ii_OWTqn1rw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why It's Hard To Turn Stress (Cortisol) Off? – Dr. Berg
 
 ### 小節化整理：文章關於皮質醇與壓力管理的核心內容
 

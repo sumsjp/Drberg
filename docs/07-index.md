@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Hidden Insulin: MSG – Monosodium Glutamate Explained by Dr.Berg
+
 ### 文章整理：(MSG及其隱性形式對胰島素水平的影響)
 
 #### 核心主題
@@ -49,6 +51,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
     <img src="https://img.youtube.com/vi/9dcXyY71wBY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Keto Adaptation – Maintenance on a Ketogenic Diet Plan by Dr. Berg
 
 ### 文章重點整理
 
@@ -117,6 +121,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
+# What Causes White Tongue? – Dr.Berg on Oral Candidiasis
+
 ### 文章整理：白舌的原因及解決方案
 
 #### 核心主題
@@ -176,6 +182,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
+# What is Keto Adaptation – Dr.Berg on Ketosis vs Keto Adapted
+
 ### 文章整理：酮适应（Keto Adaptation）的核心要点
 
 #### 1. 核心主題  
@@ -233,6 +241,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
+# Keto Cauliflower Pancake Recipe (Potato-Free) – Dr.Berg
+
 ### 文章整理：香煎 Cauliflower Potato Pancakes 食譜與健康討論
 
 #### 核心主題
@@ -269,6 +279,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
     <img src="https://img.youtube.com/vi/yXHdHJIrx0I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Problems with High Protein Diet – Dr. Berg on Atkins Diet
 
 ### 核心主題  
 - **低糖生酮飲食法（Atkins Diet）的問題與改进建議**  
@@ -308,6 +320,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
     <img src="https://img.youtube.com/vi/Jx2oj1OBnJs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Chia Seeds: Amazing Source of Essential Fatty Acids – Dr. Berg
 
 # 文章重點整理：chia Seeds的功效與應用
 
@@ -377,6 +391,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
+# Keto Friendly Foods – Keto Snacks & Desserts by Dr. Berg
+
 ### 文章整理重點
 
 #### 核心主題
@@ -420,6 +436,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
+# Best Stretches for Sciatica Nerve Pain Relief – Dr. Berg
+
 # 分段整理解文
 
 ## 核心主題  
@@ -458,6 +476,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
     <img src="https://img.youtube.com/vi/RnFNvSwH4ls/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Problems with Farm Raised Salmon – Dr. Berg on Farmed Salmon vs. Wild Salmon
 
 ### 小節歸納
 
@@ -504,6 +524,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
     <img src="https://img.youtube.com/vi/M1zphh8YzD8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 6 Root Causes of Hair Loss – Dr. Berg on Hormonal Hair Loss
 
 ### 核心主題：荷爾蒙引起的脱发原因及应对策略
 
@@ -571,6 +593,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
+# Health Benefits of Hot Chili Peppers – Dr. Berg
+
 ### 核心主題  
 - 辣椒（主要是辣椒中的活性成分辣椒素）的多種健康益處及營養價值。
 
@@ -629,6 +653,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
+# Is coffee okay on keto? – Dr. Berg on Caffeine & Ketosis
+
 ### 核心主題  
 - 探讨在生酮饮食中饮用咖啡的可能性及注意事项。
 
@@ -678,6 +704,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
     <img src="https://img.youtube.com/vi/lLcvJOcDk2E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg Explains Brain Insulin Resistance
 
 ### 本文重點整理  
 
@@ -736,6 +764,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
+# Keto Cauliflower Wraps Recipe – Dr. Berg
+
 ### 文章整理與分析
 
 #### 核心主題
@@ -787,6 +817,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
     <img src="https://img.youtube.com/vi/etjdF2Z9pPs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How Long Does it Take to Get into Ketosis After a Cheat Day? – Dr. Berg
 
 ### 文章重點整理
 
@@ -863,6 +895,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
+# Will Diet Soda Kick You Out of Keto? – Dr. Berg on Ketosis
+
 ### 核心主題  
 - **酮症（Ketosis）**：一種代謝狀態，身體在糖分攝取不足時，轉而使用脂肪作為主要能量來源，生成酮體。  
 
@@ -905,6 +939,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
     <img src="https://img.youtube.com/vi/S-5qU9YKo9Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why do You Still Have Sweet Cravings on Keto? – Dr. Berg on Keto Cravings
 
 # 在酮egenic饮食中抑制甜食 cravings 的关键策略
 
@@ -963,6 +999,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
     <img src="https://img.youtube.com/vi/pVi9DctWe4A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Can I Eat Oatmeal on Keto? – Dr. Berg on Ketogenic Diet
 
 ### 核心主題  
 - 探讨在酮ogenic饮食中是否可以食用燕麦片（oatmeal），以及其对脂肪燃烧的影响。  
@@ -1024,6 +1062,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
+# 6 Natural Remedies of Helicobacter Pylori – Dr. Berg on H. Pylori
+
 ### 小節整理：H. pylori 相關問題與自然療法
 
 #### 核心主題
@@ -1084,6 +1124,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
+# Postpartum Hair Loss – Dr. Berg
+
 ### 核心主題：产后脱发（Postpartum Hair Loss）
 
 产后脱发是指女性在分娩后经历的头发脱落现象。
@@ -1120,6 +1162,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
     <img src="https://img.youtube.com/vi/FyX91jza5rE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Health Benefits of Kale – 8 Reasons why Dr.Berg loves this superfood!
 
 ### 文章重點整理
 
@@ -1189,6 +1233,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
+# How to Stop Tinnitus (ringing in the ears)? – Try Dr.Berg's Home Remedy to Get Rid of It
+
 ### 總結性報告：指節敲擊法於耳鳴治療中的應用研究
 
 #### 1. 核心主題
@@ -1241,6 +1287,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
     <img src="https://img.youtube.com/vi/5ZuKx0Ym7qo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Flaxseed Benefits for Skin & Symptoms of Linoleic Acid Deficiency – Dr. Berg
 
 ### 文章重點整理
 
@@ -1304,6 +1352,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
+# 4 Critical Tips to Reverse a Fatty Liver – Dr. Berg
+
 ### 核心主題：脂肪肝的逆轉策略  
 文章圍繞脂肪肝的成因及逆轉方法展開，強調了生活方式調整和飲食改善的重要性。
 
@@ -1363,6 +1413,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
+# 5 Amazing Health Benefits of Grass-Fed Butter – Dr.Berg
+
 ### 核心主題：草饲黄油的健康益處
 
 #### 主要觀念：
@@ -1418,6 +1470,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
+# Does Hair Loss Shampoo really Restore your Damaged Hair? – Dr. Berg
+
 ### 核心主題
 - 头发护理的本质与内外因素影响。
 
@@ -1467,6 +1521,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
     <img src="https://img.youtube.com/vi/L76PaoGaPx0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What is MTHFR? – Dr. Berg Explains in Simple Terms
 
 ### 核心主題
 - **缺陷基因（MTFR）**：文章主要圍繞MTFR基因缺陷導致的酶功能障礙進行探討。
@@ -1531,6 +1587,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
+# Keto Cauliflower Hummus Recipe – Dr.Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -1573,6 +1631,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
+# What Causes Hot Flashes? – Dr. Berg on Problems Faced During Menopause
+
 ### 文章重點整理
 
 #### 核心主題
@@ -1614,6 +1674,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
     <img src="https://img.youtube.com/vi/HjKUTFDAAVE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Almost Live Show by Dr. Berg Q&A Feb. 14, 2017
 
 ## 文章整理與分析報告
 
@@ -1699,6 +1761,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
+# Cutting Calories but Not Losing Weight – Dr. Berg on Weight Loss
+
 ### 核心主題
 - **代謝率與體重管理**：討論了代謝率在體重管理和減肥中的重要作用。
 - **飲食對代謝的影響**：探討了不同飲食結構（脂肪、蛋白質、碳水化合物）對代謝和體重的影響。
@@ -1732,6 +1796,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
+# Lithium Orotate for Depression & Bipolar Disorder – Dr. Berg on Depression Remedy
+
 ### 核心主題  
 - 自然療法在抑鬱症和雙相情緒障礙中的應用。  
 
@@ -1760,6 +1826,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
     <img src="https://img.youtube.com/vi/HSaScfagsB8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why is Your Heart Pounding so Loud? – Dr. Berg on Heart Palpitations
 
 ### 文章整理與分析
 
@@ -1813,6 +1881,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
     <img src="https://img.youtube.com/vi/b6_5ca6jCDI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Instant Trigeminal Neuralgia Pain Relief  – Try Dr. Berg's Facial Pain Treatment
 
 ### 文章整理：三叉神經痛的治療與健康建議
 
@@ -1876,6 +1946,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
     <img src="https://img.youtube.com/vi/Q0bnHMtn4kg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Does Stevia Affect your Blood Sugar? – Dr. Berg
 
 ### 文章重點整理
 
@@ -1958,6 +2030,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
+# Top 7 Vitamins and Nutrients for Hair Growth – Dr. Berg
+
 ### 小節整理：關鍵營養素促進美麗頭髮的核心要素
 
 #### 1. 核心主題  
@@ -2002,6 +2076,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
     <img src="https://img.youtube.com/vi/IMwp7xEmWw4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Post Nose Injury – Headache Pain Relief – Acupressure Techniques by Dr. Berg
 
 # 文章重點整理
 
@@ -2053,6 +2129,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
+# Vitamin B6: Benefits, Deficiencies, Causes, Symptoms, and Sources – Dr. Berg
+
 ### [核心主題: Vitamin B6的作用與重要性]
 - Vitamin B6 是一種輔酶，參與身體多種代謝反應。
 - 它有 inactive 和 active 兩種形式，active 形式為吡哆醇磷酸鹽（PLP），效果更為顯著。
@@ -2088,6 +2166,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
     <img src="https://img.youtube.com/vi/5vIoHR7J24I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is Ketosis Safe For Long term? – Dr. Berg on Long term Keto Diet effects
 
 ### 文章整理：酮症安全嗎？長期而言
 
@@ -2160,6 +2240,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
+# Dr.Berg Finally Reveals His Source of Research!!
+
 ### 核心主題
 - 文章主要探討了人類腦部結構與功能的奧秘。
 - 强調左右腦分工及其協合作用的重要性。
@@ -2200,6 +2282,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
     <img src="https://img.youtube.com/vi/-fllSU8Na_E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What is the Parathyroid Gland? Explained By Dr.Berg
 
 ### 文章整理：甲状旁腺 gland 的功能、相關疾病及健康建議
 
@@ -2260,6 +2344,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
+# Is Popcorn Healthy? What Are The Popcorn Alternative? – Dr. Berg
+
 ### 小節整理： popcorn 的健康影響與替代方案
 
 #### 1. 核心主題  
@@ -2298,6 +2384,8 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
     <img src="https://img.youtube.com/vi/hERpx6ZV6Hs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Not Losing Weight vs. Slow Weight Loss: MUST WATCH – Dr.Berg
 
 ### 文章重點整理
 
@@ -2362,6 +2450,8 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
+# What is Ketosis? - Dr. Berg
+
 ### 文章重點整理
 
 #### 核心主題：酮症及其健康益處  
@@ -2400,6 +2490,8 @@ doi:10.1080/12345678.2018.987654
     <img src="https://img.youtube.com/vi/jOuTJGccND0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Stop Nightmares With Nutrition – Dr.Berg
 
 ### 文章重點整理
 
@@ -2453,6 +2545,8 @@ doi:10.1080/12345678.2018.987654
     <img src="https://img.youtube.com/vi/66ujydlh40A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 6 Ways To Lower Cortisol Levels – Cortisol Stress Hormone – Dr. Berg
 
 ### 核心主題  
 - 調控皮質醇水平至正常範圍，避免過高或過低導致的健康問題。  
@@ -2514,6 +2608,8 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
+# What Is Keto Flu? | Dr.Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -2561,6 +2657,8 @@ doi:10.1080/12345678.2018.987654
     <img src="https://img.youtube.com/vi/ydBhCbXZxJM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Chronic Post Nasal Drip Explained By Dr. Berg
 
 ### 核心主題
 - 慢性及季節性後鼻滴涕的病因與治療方法。
@@ -2624,6 +2722,8 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
+# How To Dissolve Kidney Stones Explained By Dr.Berg
+
 ### 文章整理：溶解腎结石的方法與建議
 
 #### 核心主題
@@ -2677,6 +2777,8 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
+# Lemons and Ketosis – Dr. Berg
+
 ### 核心主題  
 - 討論檸檬汁對人體pH值及尿酸濃度的影響，及其與痛風的關聯。
 
@@ -2723,6 +2825,8 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
+# Cinnamon Roll Bites Recipe (Low Carb) – Dr. Berg
+
 ### 核心主題: 简单易做的小份甜点—— mug cake 的制作与优点
 
 - 该文章主要介绍了如何利用简单的食材和工具，在一个咖啡杯（mug）中制作出美味的小份蛋糕，特别强调了以 cinnamon roll 为主题的 Mug Cake。
@@ -2766,6 +2870,8 @@ doi:10.1080/12345678.2018.987654
     <img src="https://img.youtube.com/vi/i6brnHI1S1Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The 7 Nutrients That Get Rid of Love Handles (Belly Fat) – Dr. Berg
 
 ### 核心主題：七種營養素降低愛巢.handle（腹部脂肪）
 
@@ -2824,6 +2930,8 @@ doi:10.1080/12345678.2018.987654
     <img src="https://img.youtube.com/vi/a321CzhKZnQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 5 Critical Ketosis Tips – Dr.Berg
 
 ### 文章重點整理
 
@@ -2914,6 +3022,8 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
+# How To Fix a Chronic Cough Explained By Dr.Berg
+
 ### 核心主題  
 - 慢性咳嗽的原因與解決方案  
 
@@ -2980,6 +3090,8 @@ doi:10.1080/12345678.2018.987654
     <img src="https://img.youtube.com/vi/mPoUj3ic5sY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The 6 Fat-Burning Hormone Triggers Explained By Dr. Berg
 
 ### 核心主題：脂肪燃燒激素的作用及激發方法
 
@@ -3057,6 +3169,8 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
+# Egg Yolk vs Egg Whites – Which One is Healthier? – Dr.Berg
+
 ### 核心主題：蛋黃與蛋白的營養價值比較及健康影響
 
 #### 1. 蛋白質含量  
@@ -3102,6 +3216,8 @@ doi:10.1080/12345678.2018.987654
     <img src="https://img.youtube.com/vi/FqUX3wijdi0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Brain Focus #1 Tip And Trick Explained By Dr.Berg
 
 ### 小節整理：文章《血糖與大腦功能》要點總結
 
@@ -3176,6 +3292,8 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
+# Why People Smoke Cigarettes Explained By Dr. Berg
+
 ### 文章整理：為什麼人們吸煙？ nicotine的作用與替代方案
 
 #### 核心主題：
@@ -3227,6 +3345,8 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
+# How to Relieve Stress Explained By Dr. Berg
+
 ### 文章重點整理
 
 #### 核心主題  
@@ -3272,6 +3392,8 @@ doi:10.1080/12345678.2018.987654
     <img src="https://img.youtube.com/vi/TIPXGsDnrLE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Say Goodbye to Acne: Dr. Berg's Proven Methods for Clearing Your Skin
 
 ### 文章整理： acne的多面性與綜合治療
 
@@ -3341,6 +3463,8 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
+# Spinach Benefits and Caution Explained By Dr. Berg
+
 ### 核心主題：菠菜的營養價值與潛在風險
 
 #### 主要觀念：
@@ -3384,6 +3508,8 @@ doi:10.1080/12345678.2018.987654
     <img src="https://img.youtube.com/vi/ktAgFEVmcNo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Understanding Ulcers: How Do You Know If You Have One? – Dr. Berg
 
 ### 核心主題
 - **胃潰瘍的成因與診斷**  
@@ -3443,6 +3569,8 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
+# Heart Attack Signs: 1 MINUTE TEST – Dr. Berg
+
 ### 核心主題  
 - **心血管健康評估**：介紹了一種簡單的一分鐘測試方法，用於評估個人是否處於心臟病發風險。  
 - **脈搏恢復能力**：強調了身體在運動後恢復至正常脉搏的能力，作為評估心臟健康的關鍵指標。
@@ -3476,6 +3604,8 @@ doi:10.1080/12345678.2018.987654
     <img src="https://img.youtube.com/vi/HbhcGOGScAU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Stop Bedwetting in Children? – Dr.Berg
 
 ### 核心主題
 - 討論兒童夜間尿床（bed wetting）的原因及解決方法。
@@ -3530,6 +3660,8 @@ doi:10.1080/12345678.2018.987654
     <img src="https://img.youtube.com/vi/aHKaygC0PnQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Lose Belly Fat FAST – Quick Belly Fat Loss – Dr.Berg
 
 ### 文章整理：如何有效消除腹部脂肪
 
@@ -3657,6 +3789,8 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
+# 7 Tips to Lower Uric Acid – Dr. Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -3700,6 +3834,8 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
+# The Best Vitamin K2 Foods – Dr. Berg
+
 ### 核心主題
 - 探讨维生素K2的作用及其在饮食中的重要性。
 
@@ -3742,6 +3878,8 @@ doi:10.1080/12345678.2018.987654
     <img src="https://img.youtube.com/vi/tTEYCKFI01E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Fix Enlarged Prostate Explained By Dr. Berg
 
 ### 核心主題：前列腺健康與荷爾蒙平衡
 
@@ -3813,6 +3951,8 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
+# Why Apple Cider Vinegar Works for Weight Loss – Dr.Berg
+
 ### 核心主題
 - 探讨苹果醋在体重管理中的作用及其科学依据。
 
@@ -3847,6 +3987,8 @@ doi:10.1080/12345678.2018.987654
     <img src="https://img.youtube.com/vi/bS3Ho6ltF78/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Insomnia, Depression & Anxiety Explained By Dr.Berg
 
 ### 文章重點整理
 
@@ -3911,6 +4053,8 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
+# Is Keto Dangerous? High Fat Ketogenic Diet & Clogged Arteries – Dr. Berg
+
 ### 小節一：核心主題
 - ** ketogenic diet 与动脉粥样硬化的关系**  
   [在视频中，Dr. Berg讨论了高脂肪生酮饮食是否会堵塞动脉，并指出这是一个常见的误解。]
@@ -3956,6 +4100,8 @@ doi:10.1080/12345678.2018.987654
     <img src="https://img.youtube.com/vi/1WbwrGOs1Ms/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is Hummus Keto-Friendly? Hummus on a Low-Carb Diet – Dr. Berg
 
 ### 小節歸納
 
@@ -4018,6 +4164,8 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
         alt="[Youtube]" width="200">
 </a>
 
+# The Health Benefits of Honey – Dr.Berg
+
 ### 1. 核心主題
 - 比較與評析蜂蜜的不同種類及其健康影響。
 - 探讨蜂蜜在食品加工中的處理方式（如巴氏殺菌）對其營養價值和功能特性的作用。
@@ -4054,6 +4202,8 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
     <img src="https://img.youtube.com/vi/rWqnMS4ywp0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Causes & Symptoms of Potassium Deficiency – Dr. Berg
 
 ### 文章整理：assium在心血管系統中的作用
 
@@ -4113,6 +4263,8 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
         alt="[Youtube]" width="200">
 </a>
 
+# What Causes Skin Tags and Moles? – Dr.Berg
+
 ### 核心主題
 - 肌肉萎縮症與胰島素抵抗的關係。
 - 生活方式干預在肌肉萎縮症治療中的作用。
@@ -4165,6 +4317,8 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
         alt="[Youtube]" width="200">
 </a>
 
+# Agave Nectar vs. High Fructose Corn Syrup: WHICH IS BETTER? – Dr. Berg
+
 ### 文章重點整理
 
 #### 核心主題：Agave Nectar 的健康影響與其成分分析
@@ -4214,6 +4368,8 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
         alt="[Youtube]" width="200">
 </a>
 
+# Benefits of Olives, Olive Oil, and Olive Leaf Extract – Dr.Berg
+
 ### 核心主題  
 - **橄欖及其衍生物（橄欖油和橄欖葉提取物）的健康益處**  
 
@@ -4259,6 +4415,8 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
     <img src="https://img.youtube.com/vi/2KEul-uxnJ4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Your Digestive System Explained (in Simple Terms)
 
 ### 文章結構整理
 
@@ -4323,6 +4481,8 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
         alt="[Youtube]" width="200">
 </a>
 
+# What is Keto Rash? - Dr. Berg
+
 ### 核心主題：酮 rash（Keto Rash）的原因與 해결 방법
 
 #### 主要觀念：
@@ -4354,6 +4514,8 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
         alt="[Youtube]" width="200">
 </a>
 
+# Are You Concerned About Your High Fat Diet? – Dr. Berg
+
 ### 核心主題：低脂飲食的局限性與酮egenic diet的脂肪攝取必要性
 
 ### 主要觀念：
@@ -4384,6 +4546,8 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
     <img src="https://img.youtube.com/vi/GX47-EE_AM0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Low Carb Chocolate Lava Cake Bites Recipe – Dr. Berg
 
 ### 小節歸納
 
@@ -4433,6 +4597,8 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
         alt="[Youtube]" width="200">
 </a>
 
+# Amazing Avocado Benefits – Dr. Berg
+
 ### 核心主題：牛油果在 ketogenic 饮食中的作用及其營養價值
 
 #### 主要觀念：
@@ -4473,6 +4639,8 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
     <img src="https://img.youtube.com/vi/Hw4MdZQYCwY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Gallbladder Removed? What Happens Next Explained By Dr. Berg
 
 ### 核心主題：膽囊切除後的影響與健康管理
 
@@ -4523,6 +4691,8 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
     <img src="https://img.youtube.com/vi/RYXNXb7t1wY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Make Best Blueberry Mini Muffin Bites by Dr. Berg
 
 ### 重點整理
 
@@ -4585,6 +4755,8 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
     <img src="https://img.youtube.com/vi/JnMCLAYkkXw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Low Sodium (Hyponatremia): Dangers, Symptoms, and Causes Explained By Dr.Berg
 
 ### 文章重點整理
 
@@ -4653,6 +4825,8 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
         alt="[Youtube]" width="200">
 </a>
 
+# How to Increase Testosterone? Must Avoid These 3 Things & Boost Testosterone – Dr. Berg
+
 ### 核心主題：低睾酮症的秘密與提升策略
 
 #### 主要觀念：
@@ -4698,6 +4872,8 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
     <img src="https://img.youtube.com/vi/sp1hhIiFBkI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Can Sports Drinks Cause Dehydration & Weight Gain? – Dr. Berg
 
 ### 核心主題
 - **運動飲料的效果評估**：探討運動飲料在hydrate和提升體能方面的有效性。
@@ -4752,6 +4928,8 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
     <img src="https://img.youtube.com/vi/G-rToZ1Fy8o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 3 Weird Causes of Chronic Fatigue – Dr.Berg
 
 ### 文章整理：三種奇怪的疲勞原因及對應措施
 
@@ -4810,6 +4988,8 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
     <img src="https://img.youtube.com/vi/B-WQsOvhbHI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Causes Constipation? Can Eating More Fiber Help? – Dr.Berg
 
 ### 核心主題
 - 纖維攝取與腸胃蠕動之間的關係。
@@ -4881,6 +5061,8 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg's New Electrolyte Powder: Review
+
 ### 文章整理：電解質粉末的功效與應用
 
 #### 1. 核心主題
@@ -4936,6 +5118,8 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
         alt="[Youtube]" width="200">
 </a>
 
+# What is a Ketone Explained By Dr. Berg
+
 ### 小節一：核心主題  
 - 本文的核心主題是解釋酮體（ketone）的基本概念及其在代謝中的作用。
 
@@ -4969,6 +5153,8 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
     <img src="https://img.youtube.com/vi/NYMo9vErg3k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Does Rough Pimply Skin (Chicken Skin or KERATOSIS PILARIS) Mean? – Dr. Berg
 
 ### 核心主題： follicular hyperkeratosis（毛囊角化症）的原因及處理方法
 
@@ -5029,6 +5215,8 @@ Follicular hyperkeratosis 主要由維生素A缺乏引起，常與消化系統�
         alt="[Youtube]" width="200">
 </a>
 
+# Understanding IGF-1 (Insulin-Like Growth Factor) in Simple Terms – Dr. Berg
+
 ### 小節 1：核心主題  
 - **IGF-1**（胰島素類似生長因子）是一種重要的激素，與生長激素（GH）密切相關，主要在肝臟中合成並分泌。  
 
@@ -5076,6 +5264,8 @@ Follicular hyperkeratosis 主要由維生素A缺乏引起，常與消化系統�
         alt="[Youtube]" width="200">
 </a>
 
+# Homemade Italian Dressing Recipe – Dr. Berg
+
 ### 小節一：核心主題
 - 調研 Dressings 的市場現狀及其成分問題。
 - 推崇自家製作簡單健康的沙拉醬。
@@ -5122,6 +5312,8 @@ Follicular hyperkeratosis 主要由維生素A缺乏引起，常與消化系統�
     <img src="https://img.youtube.com/vi/WP6BNQ7jEj4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Stop Gallbladder Pain Instantly – Dr. Berg
 
 ### 核心主題
 - 鈣囊炎疼痛的治療與預防
@@ -5174,6 +5366,8 @@ Follicular hyperkeratosis 主要由維生素A缺乏引起，常與消化系統�
         alt="[Youtube]" width="200">
 </a>
 
+# Homemade Keto Mayonnaise – Keto Recipe
+
 ### 核心主題  
 - 贈予一份溫馨祝福：對某人的小小期望，希望更加友好和可愛。  
 
@@ -5218,6 +5412,8 @@ Follicular hyperkeratosis 主要由維生素A缺乏引起，常與消化系統�
         alt="[Youtube]" width="200">
 </a>
 
+# The Top Nutrients in Mushrooms Explained By Dr.Berg
+
 ### 核心主題
 - 蘑菇作为一种植物基食物，具有多种营养价值和健康益处。
 
@@ -5254,6 +5450,8 @@ Follicular hyperkeratosis 主要由維生素A缺乏引起，常與消化系統�
         alt="[Youtube]" width="200">
 </a>
 
+# How to Make Balsamic Vinaigrette Dressing – Dr.Berg
+
 # 文章重點整理
 
 ## 核心主題  
@@ -5286,6 +5484,8 @@ Follicular hyperkeratosis 主要由維生素A缺乏引起，常與消化系統�
     <img src="https://img.youtube.com/vi/OUICkOTHYb4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Get Rid Of Keto Flu? – Dr. Berg On Keto flu Symptoms & Remedies
 
 ### 小節整理：克服酮流感的核心策略
 

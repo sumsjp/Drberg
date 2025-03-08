@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How to Increase Blood Oxygen Levels: Breathing Hack
+
 ### 核心主題：氧氣與二氧化碳的平衡及呼吸健康
 
 #### 主要觀念：
@@ -61,6 +63,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Remedy for Gout and Uric Acid - Straight From the Garden
+
 ### 核心主題
 - **研究焦點**：探讨痛风（gout）及其自然療法。
 - **機制探討**：分析尿酸生成和處理的生物學途徑。
@@ -114,6 +118,8 @@
     <img src="https://img.youtube.com/vi/vx42_D5bTas/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The ONE FOOD That Shrinks an Enlarged Prostate
 
 ### 核心主題  
 - 腫腺肥大的病因與治療：探討良性前列腺肥大（BPH）的原因、機制及自然療法。
@@ -187,6 +193,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The AMAZING Benefits of Iodine - Dr. Berg
+
 # 碘元素的多重健康益處與臨床應用
 
 ## 核心主題：碘在人體健康中的重要作用
@@ -248,6 +256,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Peripheral NEUROPATHY (Root Cause and Best Remedy) — Dr. Berg
+
 ### 核心主題
 - 糖尿病性周邊神經病变（Diabetic Peripheral Neuropathy）的原因、機制及解決方法。
 
@@ -289,6 +299,8 @@
     <img src="https://img.youtube.com/vi/kE53pHQCPiA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Zinc Carnosine REALLY Fixes Ulcers and Gastritis
 
 ### 小節歸納
 
@@ -349,6 +361,8 @@
     <img src="https://img.youtube.com/vi/PB_Ln5HXkwQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The REAL Cause of Tremors (Alternative Solution)
 
 ### 文章重點整理
 
@@ -428,6 +442,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# 7 Signs of a Leaky Gut — Dr. Berg
+
 ### 小節整理：Articles on Leaky Gut and Inflammation
 
 #### 1. **核心主題**
@@ -480,6 +496,8 @@
     <img src="https://img.youtube.com/vi/yVt0qJNR8bI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Worst Protein in the World
 
 ### 文章重點整理
 
@@ -547,6 +565,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How Your Food LIES to You!!
+
 ### 文章重點整理
 
 #### 1. 核心主題  
@@ -589,6 +609,8 @@
     <img src="https://img.youtube.com/vi/BGD29BfITAk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Warning: Missing Mineral Causing Arthritis
 
 ### 核心主題
 - ** arthritis (關節炎) 的治療與營養補充**
@@ -659,6 +681,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Worst Food for Your Teeth Is NOT SUGAR
+
 ### 文章重點整理
 
 #### 核心主題
@@ -712,6 +736,8 @@
     <img src="https://img.youtube.com/vi/NCc-EvGcUn0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best Remedy for ADD/ADHD (Attention Deficit Hyperactivity Disorder)
 
 ### 核心主題  
 - 探讨维生素B3（尼克酰胺）在治疗注意力缺陷多动症（ADHD）中的作用及其科学依据。  
@@ -777,6 +803,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Take One Teaspoon at Night to Rid Sinus Congestion
+
 ### 小節整理
 
 #### 1. 核心主題  
@@ -833,6 +861,8 @@
     <img src="https://img.youtube.com/vi/1XDIC59gPeo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Are Expensive Eggs Really Worth It?
 
 ### 小節整理
 
@@ -909,6 +939,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Preventing Dental Plaque Formation Forever: Simple Solution
+
 ### 文章整理：牙菌斑去除與口腔健康的科學方法
 
 #### 1. 核心主題
@@ -947,6 +979,8 @@
     <img src="https://img.youtube.com/vi/2no13WwLAmo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Big REGRET I Had in Practice
 
 ### 文章重點整理
 
@@ -1021,6 +1055,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Cause of Your Sinus Stuffiness (Congestion) Is Hiding in Your Pillow
+
 ### 核心主題
 - 睡眠健康與枕頭衛生之間的關聯性。
 - 枕頭中微生物的存在及其對人體健康的影響。
@@ -1056,6 +1092,8 @@
     <img src="https://img.youtube.com/vi/stF25xFdeMI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Can BERBERINE Be a “Natural Ozempic” for Weight Loss?
 
 ### 核心主題
 - 證據基.bs的研究結果表明，berberine（巴馬汀）是一種具有多方面健康益處的天然化合物。
@@ -1113,6 +1151,8 @@
     <img src="https://img.youtube.com/vi/ug2F8Epd6Ug/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Stop Addictions (Nicotine, Alcohol, & Drugs)
 
 ### 核心主題：NAD（煙酸amide腺嘌呤二核苷酸）在成瘾戒斷和整體健康中的作用
 
@@ -1191,6 +1231,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The MOST Overlooked Cause of Hypertension (High Blood Pressure)
+
 ### 文章整理與分析
 
 #### 核心主題  
@@ -1267,6 +1309,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The #1 Vitamin Deficiency Behind Migraines (MUST KNOW)
+
 ### 小節一：核心主題  
 - 探讨 migraine 的常见维生素缺乏问题，特别是与遗传和线粒体功能相关的维生素 B2（核黃素）缺乏。
 
@@ -1319,6 +1363,8 @@
     <img src="https://img.youtube.com/vi/fI7DU7-wfv0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Fascinating Insights on Hashimoto's (Hypothyroidism)
 
 ### 重要事實和發現總覽
 
@@ -1397,6 +1443,8 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
         alt="[Youtube]" width="200">
 </a>
 
+# Fix Mitral Valve Prolapse with This One Mineral
+
 ### 核心主題：二尖瓣脫垂症與低血清鎂離子 deficiency 的關聯性研究
 
 #### 主要觀念：
@@ -1436,6 +1484,8 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
     <img src="https://img.youtube.com/vi/m32KS2eeuvY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Tonsil Stones: Removing the Deeper Cause
 
 ### 文章整理：去除扁桃體石的更.deep.lying.cause
 
@@ -1507,6 +1557,8 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
     <img src="https://img.youtube.com/vi/CeGlTGWtVnM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# You'll Never Guess What's Really in Plant-Based Meat
 
 ### 文章整理：植物基肉類的問題與環境影響分析
 
@@ -1587,6 +1639,8 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
         alt="[Youtube]" width="200">
 </a>
 
+# The DARK SIDE of Ashwagandha
+
 ### 核心主題：阿育吠陀草藥阿什瓦伽ṇḍuja（Ashwagandha）的功效、潛在風險及使用建議
 
 ---
@@ -1655,6 +1709,8 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
         alt="[Youtube]" width="200">
 </a>
 
+# #1 Selling Drug in the World: 27 Billion Dollars
+
 ### 核心主題：Kuda 背景與免疫療法
 
 - **核心主題**：
@@ -1710,6 +1766,8 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg's YouTube Studio Makeover (BEHIND THE SCENES)
+
 ### 文章整理：工作室改造與升級
 
 #### 核心主題
@@ -1754,6 +1812,8 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
     <img src="https://img.youtube.com/vi/XoxwcE6g7Qw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The REAL Reason You Should Drink Coffee
 
 ### 文章整理：咖啡的多樣益處與健康考量
 
@@ -1834,6 +1894,8 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
         alt="[Youtube]" width="200">
 </a>
 
+# What Your URINE COLOR Says about Your Health
+
 ### 1. 核心主題：尿液顏色與人體健康的關聯性  
 尿液作為身體健康的重要指標，其顏色變化可以反映內部生理狀況。本文主要探討尿液不同顏色所代表的意義及其潛在的健康問題。
 
@@ -1904,6 +1966,8 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
     <img src="https://img.youtube.com/vi/uZeB31exaNA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Best Nutrients to Remove Plaque from Arteries
 
 ### 文章整理：清除動脈斑塊的最佳營養素
 
@@ -1983,6 +2047,8 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
         alt="[Youtube]" width="200">
 </a>
 
+# #1 Backyard Weed to Fix a Fatty Liver
+
 ### 文章整理：使用正式學術用語，分段落整理重點
 
 ---
@@ -2053,6 +2119,8 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
         alt="[Youtube]" width="200">
 </a>
 
+# Lyme Disease Blocks Vitamin D Absorption by 8000%
+
 ### 小節歸納：
 
 1. **核心主題**:
@@ -2090,6 +2158,8 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
     <img src="https://img.youtube.com/vi/6X0LKxCz1a0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is Bill Gates' Apeel Really Safe?
 
 ### 核心主題
 - 討論Bill Gates Appeal（BGAE）的安全性及其潛在風險。
@@ -2152,6 +2222,8 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
         alt="[Youtube]" width="200">
 </a>
 
+# Why Are There No Fat People in Colorado
+
 ### 核心_theme: 皮膚色素沉著與肥胖率的關聯：維生素D的作用機制
 
 #### 主要觀念:
@@ -2167,6 +2239,8 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
     <img src="https://img.youtube.com/vi/7yszU0-Molc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# He Should Have Been Dead 6 Years Ago - STAGE 4 CANCER
 
 ### 文章整理與分析
 
@@ -2250,6 +2324,8 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
         alt="[Youtube]" width="200">
 </a>
 
+# Intermittent Fasting Doubles Your Risk of Dying from a Heart Attack
+
 ### 核心主題  
 - 本文主要探討間歇性禁食（Intermittent Fasting）對心血管健康的影響，特別是新發表的研究指出，該實踐可能增加患心血管疾病死亡的風險。  
 
@@ -2283,6 +2359,8 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
     <img src="https://img.youtube.com/vi/8KUMT9PCwhs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# #1 Vitamin Deficiency in ALL Autoimmune Conditions
 
 ### 小節整理
 
@@ -2329,6 +2407,8 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
         alt="[Youtube]" width="200">
 </a>
 
+# What Happens If You Drink Celery Juice for 7 Days
+
 ### 核心主題
 - ** celery juice 的健康影響**
 - ** 主流媒體對 celery juice 的宣傳與事實之間的差距**
@@ -2373,6 +2453,8 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
     <img src="https://img.youtube.com/vi/QlGJA-_a3uM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The # 1 Dementia Remedy (GAME CHANGER)
 
 ### 小節歸納
 
@@ -2430,6 +2512,8 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
     <img src="https://img.youtube.com/vi/UHd3ODiJxyQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# When NOT to Take Magnesium for Sleep and Anxiety
 
 ### 文章整理：失眠與健康調理的關鍵因素
 
@@ -2500,6 +2584,8 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
         alt="[Youtube]" width="200">
 </a>
 
+# The #1 Collagen Tip for Amazing Hair, Nails, & Skin
+
 ### 文章整理：膠原蛋白與甘胺酸的重要性及健康建議
 
 #### 核心主題
@@ -2559,6 +2645,8 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
         alt="[Youtube]" width="200">
 </a>
 
+# 16 Signs That the Body Needs More Nutrients: Fixing the Deeper Cause
+
 ===== 重點整理 =====
 
 ### 核心主題: 身體營養缺乏的16個徵兆與原因分析
@@ -2613,6 +2701,8 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
         alt="[Youtube]" width="200">
 </a>
 
+# Build up Your Glutathione without Supplements
+
 ### 小節整理：谷胱甘肅 deficiency 及其管理
 
 #### 1. 核心主題
@@ -2656,6 +2746,8 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
     <img src="https://img.youtube.com/vi/h4vpuB13Lvg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 7 Ways to Burn More Fat While Sleeping
 
 ### 核心主題：  
 - 睡眠對脂肪燃燒的重要性。  
@@ -2726,6 +2818,8 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg Speaking at the Hack Your Health Event (MUST ATTEND)
+
 ### 文章整理：健康Hack:Event宣傳與健康議題探討
 
 ---
@@ -2785,6 +2879,8 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
         alt="[Youtube]" width="200">
 </a>
 
+# First Sign of a Magnesium Deficiency NEVER to Ignore
+
 ### 文章整理：早期未被忽視的鎂缺乏症狀
 
 #### 一、核心主題  
@@ -2832,6 +2928,8 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
     <img src="https://img.youtube.com/vi/AgD4hrdAYzk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Hidden Source of Heart Attacks/Strokes: NO ONE TOLD YOU...YET
 
 ### 核心主題：牙齒感染與心血管疾病的關聯
 
@@ -2893,6 +2991,8 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
         alt="[Youtube]" width="200">
 </a>
 
+# Gallbladder Removal (Surgery) - Vital Things to Know: MUST WATCH
+
 ### 文章整理
 
 #### 核心主題  
@@ -2948,6 +3048,8 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
         alt="[Youtube]" width="200">
 </a>
 
+# The Therapeutic Benefits of CASTOR OIL (Skin/Face/Hair)
+
 ### 小節歸納
 
 #### 1. **核心主題**
@@ -2983,6 +3085,8 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
     <img src="https://img.youtube.com/vi/QlQyvXS6kLk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The #1 Nutrient Deficiency in High Blood Pressure (Hypertension)
 
 ### 文章重點整理
 
@@ -3039,6 +3143,8 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
         alt="[Youtube]" width="200">
 </a>
 
+# The #1 Best Vitamin for Arthritis (NOT VITAMIN D)
+
 ### 文章整理：维生素B3（尼可酰胺）在关节炎中的应用
 
 #### 核心主题
@@ -3094,6 +3200,8 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
     <img src="https://img.youtube.com/vi/r2JcmyEoKos/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Do Not Eat Peanut Butter Until You Watch This!
 
 ### 小芻目錄
 1. **核心主題**  
@@ -3154,6 +3262,8 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
     <img src="https://img.youtube.com/vi/aZx-8z2U6qY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Fastest Way To Rid HEARTBURN, GERD and ACID REFLUX
 
 ### 核心主題：慢性胃酸逆流（GERD）的病因與綜合治療策略
 
@@ -3239,6 +3349,8 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
         alt="[Youtube]" width="200">
 </a>
 
+# Avoiding the Sun is Just as Dangerous as Cigarettes?
+
 ### 核心主題  
 - 太陽曝露不足的危害性及其與多種健康問題的關聯。
 
@@ -3270,6 +3382,8 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
     <img src="https://img.youtube.com/vi/4LBKFQF_EyQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Surprising Health Hacks You Won't Believe Actually Work
 
 ### 核心主題： hormesis（霍默西斯）的概念及其在健康的應用  
 Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的壓力或刺激來觸發適應反應，從而增強整體健康和抵抗力。
@@ -3333,6 +3447,8 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
         alt="[Youtube]" width="200">
 </a>
 
+# Say Goodbye To Belly Fat: 7 Must-have Tips!
+
 ### 文章整理：間歇性禁食的最佳技巧以降低腹部脂肪
 
 #### 核心主題
@@ -3387,6 +3503,8 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
     <img src="https://img.youtube.com/vi/lDgvkMKA7ds/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Lose 1 Pound of Fat per Day (20,000 Calories in 5 Days)
 
 ### 文章重點整理
 
@@ -3455,6 +3573,8 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
     <img src="https://img.youtube.com/vi/nJEAqOdnF2E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Avoid These Big Mistakes When Drinking Water
 
 ### 核心主題  
 - 解構與水相關的常見 misconception，提供基於研究和實證的健康建議。  
@@ -3530,6 +3650,8 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
         alt="[Youtube]" width="200">
 </a>
 
+# The 15 Causes of ITCHING You've Never Heard About
+
 ### 核心主題：慢性癢的原因與解決方案
 
 #### 主要觀念：
@@ -3596,6 +3718,8 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
     <img src="https://img.youtube.com/vi/30vF9gTTwvU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# One Cup A Day To Beat Depression - The Ultimate Remedy
 
 ### 文章整理與分析
 
@@ -3680,6 +3804,8 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
         alt="[Youtube]" width="200">
 </a>
 
+# The Early Signs of Colon Cancer You DON'T Want to Ignore
+
 ### 文章整理與分析
 
 #### 核心主題
@@ -3763,6 +3889,8 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
         alt="[Youtube]" width="200">
 </a>
 
+# Warning: These 6 Foods Could Be Giving You Cancer
+
 ### 核心主題：致癌食物及其影響
 
 - **主要觀念**：
@@ -3800,6 +3928,8 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
     <img src="https://img.youtube.com/vi/hutwzLgjU4U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Maintaining Weight Loss After Ozempic: Tips And Tricks
 
 # 文章整理：OZENIC 药物后体重维持策略与健康建议
 
@@ -3869,6 +3999,8 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
         alt="[Youtube]" width="200">
 </a>
 
+# What I Would Do If I Had ALS (Amyotrophic Lateral Sclerosis): Lou Gehrig’s Disease – Dr. Berg
+
 ### 核心主題：艾滋病（ALS）的病因、治療與預防策略
 
 #### 主要觀念：
@@ -3912,6 +4044,8 @@ ALS的治療需 комплексний підхід，重點放在恢復抗氧�
     <img src="https://img.youtube.com/vi/kFSflqB-Fzs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg Goes Carnivore for 2 Weeks
 
 ### 文章重點整理
 
@@ -4006,6 +4140,8 @@ In summary, the article advocates for a personalized approach to nutrition, caut
         alt="[Youtube]" width="200">
 </a>
 
+# How to Get Rid of Blackheads and Sebaceous Filaments - Dr. Berg
+
 ### 文章重點整理
 
 #### 核心主題  
@@ -4058,6 +4194,8 @@ In summary, the article advocates for a personalized approach to nutrition, caut
     <img src="https://img.youtube.com/vi/LEELE4sv2Ts/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 7 Foods That Make You Live Longer
 
 ### 核心主題: 延長壽命的食物與生活方式
 - **主要觀念**: 
@@ -4130,6 +4268,8 @@ In summary, the article advocates for a personalized approach to nutrition, caut
     <img src="https://img.youtube.com/vi/8L7F5ffv6bs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best Remedies to Use When You’re Sick
 
 ### 文章重點整理
 
@@ -4207,6 +4347,8 @@ In summary, the article advocates for a personalized approach to nutrition, caut
         alt="[Youtube]" width="200">
 </a>
 
+# Watch This BEFORE Taking Testosterone - Dr. Berg
+
 ### 小節歸納
 
 #### 1. 核心主題：睾酮（Testosterone）的副作用及影響
@@ -4248,6 +4390,8 @@ In summary, the article advocates for a personalized approach to nutrition, caut
     <img src="https://img.youtube.com/vi/yy0Ki7z8Czs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why You Need To Start Taking Cod Liver Oil Now - Dr. Berg Reveals The Surprising Truth
 
 ### 文章重點整理
 
@@ -4323,6 +4467,8 @@ In summary, the article advocates for a personalized approach to nutrition, caut
         alt="[Youtube]" width="200">
 </a>
 
+# How to Go to Sleep within 60 Seconds
+
 ### 核心主題  
 - 提供一種科學基於呼吸技巧，能在數分鐘內入睡的方法。  
 
@@ -4381,6 +4527,8 @@ In summary, the article advocates for a personalized approach to nutrition, caut
         alt="[Youtube]" width="200">
 </a>
 
+# The Top 3 Foods for Hair Loss - Dr. Berg
+
 ### 核心主題：促进头发再生的关键氨基酸——组胺酸
 
 #### 主要觀念：
@@ -4426,6 +4574,8 @@ In summary, the article advocates for a personalized approach to nutrition, caut
         alt="[Youtube]" width="200">
 </a>
 
+# How to Turn Your Stress to Zero - Dr. Berg
+
 ### 1. 核心主題：情緒焦慮與壓力的心理與生理影響  
    - 情緒焦慮被定義為對未來可能發生的不良事件感到緊張或擔憂的狀態。  
    - 經常伴隨著“擔憂”的心理活動，即對不愉快的事情或問題進行持續思考。  
@@ -4459,6 +4609,8 @@ In summary, the article advocates for a personalized approach to nutrition, caut
     <img src="https://img.youtube.com/vi/MW_D2Sdlr3k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Strange & Weird Niacin (B3) Deficiency Signs and Symptoms
 
 ### 文章重點整理
 
@@ -4513,6 +4665,8 @@ In summary, the article advocates for a personalized approach to nutrition, caut
     <img src="https://img.youtube.com/vi/FjfyBJcyoJI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Get Your Omega-6 to Omega-3 Ratios Balanced
 
 ### 文章重點整理
 
@@ -4590,6 +4744,8 @@ In summary, the article advocates for a personalized approach to nutrition, caut
         alt="[Youtube]" width="200">
 </a>
 
+# Sardines vs Cod Liver: Which is Better for You? - Dr. Berg
+
 ### 核心主題：魚肝油與沙丁鱼的營養價值比較
 
 #### 主要觀念：
@@ -4648,6 +4804,8 @@ In summary, the article advocates for a personalized approach to nutrition, caut
     <img src="https://img.youtube.com/vi/e5MhlSjvXh8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Preserving Your Muscles as You Age - Dr. Berg
 
 ### 文章整理：肌肉萎縮的原因與防治策略
 
@@ -4714,6 +4872,8 @@ In summary, the article advocates for a personalized approach to nutrition, caut
     <img src="https://img.youtube.com/vi/hHRGqGmGmpg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Your Supplements Are a Lie… Really
 
 ### 文章整理： vitamins and supplements
 
@@ -4783,6 +4943,8 @@ In summary, the article advocates for a personalized approach to nutrition, caut
         alt="[Youtube]" width="200">
 </a>
 
+# We Need to Eat Bugs & Insects to Save the Planet - Dr. Berg
+
 ### 文章整理結構
 
 ---
@@ -4839,6 +5001,8 @@ In summary, the article advocates for a personalized approach to nutrition, caut
     <img src="https://img.youtube.com/vi/Rqs-kBwt3po/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Would Happen If You Ate Plant-Based Meat for 2 Weeks - Dr. Berg
 
 ### 文章重點整理
 
@@ -4917,6 +5081,8 @@ In summary, the article advocates for a personalized approach to nutrition, caut
         alt="[Youtube]" width="200">
 </a>
 
+# How to Get Enough Potassium on the Carnivore Diet - Dr. Berg
+
 ### 小節歸納
 
 #### 核心主題
@@ -4959,6 +5125,8 @@ In summary, the article advocates for a personalized approach to nutrition, caut
     <img src="https://img.youtube.com/vi/u0TpL4HwcMA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The 10 Root Causes of Inflammation - Dr. Berg
 
 ### 小節整理
 
@@ -5015,6 +5183,8 @@ In summary, the article advocates for a personalized approach to nutrition, caut
     <img src="https://img.youtube.com/vi/ESbprbvHKmE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 7 Ways to Raise Your ENERGY Big-Time
 
 ### 文章重點整理
 
@@ -5081,6 +5251,8 @@ In summary, the article advocates for a personalized approach to nutrition, caut
         alt="[Youtube]" width="200">
 </a>
 
+# The Nutrient Deficiency That Makes You Short
+
 ### 核心主題： micronutrient deficiency 影響生長發育
 
 ### 主要觀念：
@@ -5125,6 +5297,8 @@ In summary, the article advocates for a personalized approach to nutrition, caut
     <img src="https://img.youtube.com/vi/15ZTN96VifU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why I Eat Cheese Every Day
 
 # 文章重點整理：每日攝取乳酪的理由與益處
 
@@ -5206,6 +5380,8 @@ In summary, the article advocates for a personalized approach to nutrition, caut
         alt="[Youtube]" width="200">
 </a>
 
+# 8 Ways Your Body Tells You Have a Disease
+
 ### 文章整理：疾病的早期徵兆與自然療法
 
 #### 1. 核心主題
@@ -5286,6 +5462,8 @@ In summary, the article advocates for a personalized approach to nutrition, caut
         alt="[Youtube]" width="200">
 </a>
 
+# Bloating: The Ultimate Indicator of the Right Diet
+
 ### 1. 核心主題  
 - 小腸在消化和營養吸收中的重要作用：  
   - 小腸長約22英尺（6.7公尺）， surface area约为2700平方英尺（250平方米）。  
@@ -5342,6 +5520,8 @@ In summary, the article advocates for a personalized approach to nutrition, caut
     <img src="https://img.youtube.com/vi/RzSoPyA30O8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# A Better Way to Eliminate Candida for Good
 
 ### 文章重點整理
 
@@ -5407,6 +5587,8 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
         alt="[Youtube]" width="200">
 </a>
 
+# The #1 Disease More Common than Heart Disease and Cancer
+
 ### 核心主題
 - ** autoimmune diseases 的流行病學特點：**
   - 每12人中就有1人可能發展為自身免疫疾病。
@@ -5464,6 +5646,8 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
     <img src="https://img.youtube.com/vi/oql3QUD2JyI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Fasting Is MORE Important than Diet
 
 ### 核心主題
 - ** intermittent fasting (間歇性禁食)**：本文強調了間歇性禁食在促進整體健康方面的有效性及其背后的生物化學機制。
@@ -5533,6 +5717,8 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
         alt="[Youtube]" width="200">
 </a>
 
+# 12 EASY Ways to Burn Fat Fast as Hell
+
 ### 小節整理：12項易於實施的燃脂技巧
 
 #### 核心主題
@@ -5591,6 +5777,8 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
         alt="[Youtube]" width="200">
 </a>
 
+# Look Younger Instantly: The Secret
+
 ### 文章總結與分析
 
 #### 一、核心主題  
@@ -5634,6 +5822,8 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
     <img src="https://img.youtube.com/vi/8H7ZGIDmuIw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Eating Eggs Increases the Risk of Dying from Heart Disease
 
 ### 小結整理：文章重點歸納
 
@@ -5698,6 +5888,8 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
         alt="[Youtube]" width="200">
 </a>
 
+# How to Burn Fat–Dr. Berg Explains
+
 ### 文章整理：脂肪燃燒與代謝激素的相互作用
 
 #### 核心主題
@@ -5753,6 +5945,8 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
         alt="[Youtube]" width="200">
 </a>
 
+# Why Is This Country the MOST OVERWEIGHT in the World (THE REAL REASON)?
+
 ### 文章重點整理
 
 #### 核心主題
@@ -5807,6 +6001,8 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
     <img src="https://img.youtube.com/vi/vL7NVrC_sUc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What to Drink When Fasting: Dr. Berg Guide
 
 ### 本文整理重點
 
@@ -5906,6 +6102,8 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
         alt="[Youtube]" width="200">
 </a>
 
+# Costco Review of Healthy Foods with @BobbyParrish
+
 ### 文章整理與分析
 
 #### 核心主題
@@ -5986,6 +6184,8 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
     <img src="https://img.youtube.com/vi/fG63a8vDGXA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Healthiest Foods You Need in Your Diet
 
 ### 文章整理：健康飲食的核心原則與建議
 

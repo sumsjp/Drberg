@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Power of Chlorophyll for the Gut
+
 
 </details>
 
@@ -17,6 +19,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Best and Worst Types of Magnesium
+
 
 </details>
 
@@ -27,6 +31,8 @@
     <img src="https://img.youtube.com/vi/EL2E3IvxsWY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Diabetes and Alcohol: Bad Combination
 
 ### 核心主題  
 - **糖尿病與酒精的交互作用**：探討酒精對血糖控制、胰腺功能及相關代謝過程的影響。
@@ -65,6 +71,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Benefits of a Long Walk for Anxiety and Depression
+
 ### 核心主題：長途步行對焦慮和抑鬱的潛在益處
 
 ### 主要觀念：
@@ -96,6 +104,8 @@
     <img src="https://img.youtube.com/vi/KFq4RRZAJtA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Use MCT Oil?
 
 ### 核心主題：MCT油的作用與應用
 
@@ -163,6 +173,8 @@ MCT油是一種高效的能量來源，適合用於斷食、運動增能和腦�
         alt="[Youtube]" width="200">
 </a>
 
+# Avoid These Foods If You Have Herpes
+
 ### 核心主題
 - 論述疱疹病毒（HSV-1 和 HSV-2）患者需要避免的食物以及相應的飲食建議。
 
@@ -217,6 +229,8 @@ MCT油是一種高效的能量來源，適合用於斷食、運動增能和腦�
         alt="[Youtube]" width="200">
 </a>
 
+# Cruciferous Sprouts Are 100X Stronger in Anticancer Properties
+
 ### 小節歸納
 
 #### 核心主題
@@ -261,6 +275,8 @@ MCT油是一種高效的能量來源，適合用於斷食、運動增能和腦�
     <img src="https://img.youtube.com/vi/aU0Z4b_4ptw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Doing Low Carbs BUT Still Hungry and Craving?
 
 ### 文章整理：低 carb 饮食中仍感饥饿的原因及解决方案
 
@@ -325,6 +341,8 @@ MCT油是一種高效的能量來源，適合用於斷食、運動增能和腦�
         alt="[Youtube]" width="200">
 </a>
 
+# Why Do You Sleep Better in a Cold Room
+
 ### 核心主題：睡眠質量與環境因素
 
 - **主要觀念**：
@@ -358,6 +376,8 @@ MCT油是一種高效的能量來源，適合用於斷食、運動增能和腦�
     <img src="https://img.youtube.com/vi/cjb1HdIFOJc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Where Does One Find Reliable Health Information?
 
 ### 文章總結與分析
 
@@ -428,6 +448,8 @@ MCT油是一種高效的能量來源，適合用於斷食、運動增能和腦�
         alt="[Youtube]" width="200">
 </a>
 
+# Is Depression a Disease?
+
 ### 文章重點整理
 
 #### 核心主題
@@ -487,6 +509,8 @@ MCT油是一種高效的能量來源，適合用於斷食、運動增能和腦�
         alt="[Youtube]" width="200">
 </a>
 
+# Keto Interview with a Type 1 Diabetic: INTERESTING
+
 ### 核心主題  
 - 糖尿病管理與健康飲食的重要性  
 - 医療體系在糖尿病治療中的不足  
@@ -525,6 +549,8 @@ MCT油是一種高效的能量來源，適合用於斷食、運動增能和腦�
     <img src="https://img.youtube.com/vi/9HfjiOwsSCI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Take This at the 1st Sign of a Cold – Symptoms & Remedies For Cold – Dr.Berg
 
 ### 核心主題： 
 - **冷症早期症狀及治療方法**  
@@ -591,6 +617,8 @@ MCT油是一種高效的能量來源，適合用於斷食、運動增能和腦�
         alt="[Youtube]" width="200">
 </a>
 
+# Male Menopause (Andropause): 5 Key Tips
+
 ### 小節整理：男性更年期（Andropause）相關問題與解決策略
 
 #### 1. 核心主題
@@ -641,6 +669,8 @@ MCT油是一種高效的能量來源，適合用於斷食、運動增能和腦�
     <img src="https://img.youtube.com/vi/nsUIG5PSENQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Clear Your Arteries with These Nutritious Foods
 
 ### 附錄：推薦食物清單
 
@@ -756,6 +786,8 @@ MCT油是一種高效的能量來源，適合用於斷食、運動增能和腦�
         alt="[Youtube]" width="200">
 </a>
 
+# Shingles: Natural Relief
+
 ### 小節一：核心主題  
 - 該文章圍繞疱疹後遺症（水痘-帋疹病毒再激活導致的疾病）的治療方法展開，強調通過營養補充和特定技術來控制病情。
 
@@ -795,6 +827,8 @@ MCT油是一種高效的能量來源，適合用於斷食、運動增能和腦�
     <img src="https://img.youtube.com/vi/fp0vBqMazEw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Do Carbs Make You Hungry
 
 ### 文章整理
 
@@ -873,6 +907,8 @@ MCT油是一種高效的能量來源，適合用於斷食、運動增能和腦�
         alt="[Youtube]" width="200">
 </a>
 
+# Can MCT Oil Help Burn More Fat?
+
 ### 小芻節整理
 
 #### 核心主題  
@@ -908,6 +944,8 @@ MCT油是一種高效的能量來源，適合用於斷食、運動增能和腦�
     <img src="https://img.youtube.com/vi/HLdGJaPrjZ8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Walk Backwards to Get Rid of Your Knee and Back Pain
 
 ### 文章重點整理  
 
@@ -952,6 +990,8 @@ MCT油是一種高效的能量來源，適合用於斷食、運動增能和腦�
     <img src="https://img.youtube.com/vi/Wto7ajhH970/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 7 Ways to Boost Testosterone Naturally – Dr.Berg
 
 ### 小節歸納
 
@@ -1028,6 +1068,8 @@ testosterone 的水平受多種因素影響，包括飲食、運動、睡眠和�
         alt="[Youtube]" width="200">
 </a>
 
+# Best Nutrients for Runners
+
 ### 文章整理：跑步者的最佳補充劑
 
 #### 核心主題
@@ -1084,6 +1126,8 @@ testosterone 的水平受多種因素影響，包括飲食、運動、睡眠和�
     <img src="https://img.youtube.com/vi/aQrVVVJuPB8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Magnesium's Effect on Mood: Anxiety and Depression
 
 ### 核心主題
 
@@ -1172,6 +1216,8 @@ testosterone 的水平受多種因素影響，包括飲食、運動、睡眠和�
         alt="[Youtube]" width="200">
 </a>
 
+# Real Food Fights Disease with Sayer Ji
+
 ### 文章重點整理
 
 #### 核心主題
@@ -1234,6 +1280,8 @@ testosterone 的水平受多種因素影響，包括飲食、運動、睡眠和�
         alt="[Youtube]" width="200">
 </a>
 
+# Magnesium and Vitamin D: Interesting Relationship
+
 # 文章要點整理
 
 ## 核心主題
@@ -1281,6 +1329,8 @@ testosterone 的水平受多種因素影響，包括飲食、運動、睡眠和�
     <img src="https://img.youtube.com/vi/f9DSzdGThSo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Increasing Immunity and Treating Autoimmune Diseases without Medication - Intestinal Infiltration
 
 ### 文章重點整理
 
@@ -1334,6 +1384,8 @@ testosterone 的水平受多種因素影響，包括飲食、運動、睡眠和�
         alt="[Youtube]" width="200">
 </a>
 
+# Use Ginger for Everything Stomach-related
+
 ### 核心主題
 - ** Ginger作為胃腸道的天然療法：探討其在消化系統中的作用與應用。
 
@@ -1385,6 +1437,8 @@ testosterone 的水平受多種因素影響，包括飲食、運動、睡眠和�
         alt="[Youtube]" width="200">
 </a>
 
+# What Causes Bloodshot Eyes? – Dr.Berg
+
 ### 核心主題：Vitamin B2 缺乏症及其對眼睛和其他健康問題的影響
 
 #### 主要觀念：
@@ -1430,6 +1484,8 @@ Vitamin B2 缺乏不僅會影響眼睛健康，還可能導致多種全身性症
     <img src="https://img.youtube.com/vi/3ZYMZpOr3u4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What is Psoriasis and Is Psoriasis Contagious? Explained by Dr.Berg
 
 ### 文章整理：白癜風 contagious 性質與治療
 
@@ -1507,6 +1563,8 @@ Vitamin B2 缺乏不僅會影響眼睛健康，還可能導致多種全身性症
         alt="[Youtube]" width="200">
 </a>
 
+# The Truth About Nonstick Cookware: Teflon
+
 ### 小節歸納
 
 #### 核心主題
@@ -1542,6 +1600,8 @@ Vitamin B2 缺乏不僅會影響眼睛健康，還可能導致多種全身性症
     <img src="https://img.youtube.com/vi/mc7wRSxdboc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 1st Sign of a Magnesium Deficiency
 
 ### 核心主題：鎂離子缺乏症及其影響與管理
 
@@ -1618,6 +1678,8 @@ Vitamin B2 缺乏不僅會影響眼睛健康，還可能導致多種全身性症
         alt="[Youtube]" width="200">
 </a>
 
+# The 7 Natural Remedies for Gout
+
 ### 核心主題
 - **痛風的介紹**：痛風是一種 sudden acute 疼痛症狀，通常影響大腳趾，但也可能影響其他關節。
 - **尿酸結晶**：痛風是由過量的尿酸形成結晶所引起的炎症反應。
@@ -1661,6 +1723,8 @@ Vitamin B2 缺乏不僅會影響眼睛健康，還可能導致多種全身性症
     <img src="https://img.youtube.com/vi/aGXxzYD0U4w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Breaking the Snacking Habit
 
 ### 核心主題：間歇性禁食與戒除零食 Habit Breaking and Intermittent Fasting
 
@@ -1722,6 +1786,8 @@ Vitamin B2 缺乏不僅會影響眼睛健康，還可能導致多種全身性症
     <img src="https://img.youtube.com/vi/3Thtf50La8o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Best Remedy for Excess Sweating (Hyperhidrosis)
 
 ### 核心主題
 
@@ -1800,6 +1866,8 @@ Vitamin B2 缺乏不僅會影響眼睛健康，還可能導致多種全身性症
         alt="[Youtube]" width="200">
 </a>
 
+# Stop Frying Your Brain With Your Cell Phone
+
 ### 文章重點整理
 
 #### 核心主題： electromagnetic fields (EMFs) 的危害及其防護措施  
@@ -1869,6 +1937,8 @@ Vitamin B2 缺乏不僅會影響眼睛健康，還可能導致多種全身性症
         alt="[Youtube]" width="200">
 </a>
 
+# Rid Migraines with Ketosis
+
 ### 核心主題
 - ** migraine headaches 的成因及治療策略**
 - **酮飲食（ketogenic diet）在 migraines 中的作用**
@@ -1917,6 +1987,8 @@ Vitamin B2 缺乏不僅會影響眼睛健康，還可能導致多種全身性症
     <img src="https://img.youtube.com/vi/L_oH__hmhU4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Wake Up with a Racing Heart?
 
 ### 文章整理：夜間心率過高的原因與應對策略
 
@@ -1990,6 +2062,8 @@ Vitamin B2 缺乏不僅會影響眼睛健康，還可能導致多種全身性症
     <img src="https://img.youtube.com/vi/JgqelFSZz7A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The 9 Causes of Lethargy
 
 ### 文章整理：九個導致疲勞的原因及解決方法
 
@@ -2076,6 +2150,8 @@ Vitamin B2 缺乏不僅會影響眼睛健康，還可能導致多種全身性症
         alt="[Youtube]" width="200">
 </a>
 
+# Are Granola Bars Keto Friendly?
+
 ### 文章整理：關於燕麥棒是否為酮友好的分析
 
 ---
@@ -2153,6 +2229,8 @@ Vitamin B2 缺乏不僅會影響眼睛健康，還可能導致多種全身性症
         alt="[Youtube]" width="200">
 </a>
 
+# The Healthiest Oils To Use When Deep Frying
+
 ### 核心主題
 - **健康飲食中的油選擇**
 - **高溫煎炸油的最佳選擇**
@@ -2194,6 +2272,8 @@ Vitamin B2 缺乏不僅會影響眼睛健康，還可能導致多種全身性症
     <img src="https://img.youtube.com/vi/nllc5CNryhk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Vitamin Deficiencies in Mental Institutions
 
 ### 文章重點整理
 
@@ -2247,6 +2327,8 @@ Vitamin B2 缺乏不僅會影響眼睛健康，還可能導致多種全身性症
         alt="[Youtube]" width="200">
 </a>
 
+# Best Way to Rid Acne Scars
+
 ### 核心主題
 - **痤瘡疤痕的治療**  
   該文章主要探討如何有效消除痤瘡留下的疤痕，特別強調維生素E油在疤痕修復中的作用。
@@ -2299,6 +2381,8 @@ Vitamin B2 缺乏不僅會影響眼睛健康，還可能導致多種全身性症
         alt="[Youtube]" width="200">
 </a>
 
+# Shut Your Brain Off When Sleeping Using Calcium
+
 ### 核心主題  
 - 钙（Calcium）在睡眠和整體健康中的作用。
 
@@ -2344,6 +2428,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
     <img src="https://img.youtube.com/vi/Y33bktjfN9o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Top 3 Best Gallbladder Herbs
 
 ### 文章重點整理
 
@@ -2424,6 +2510,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
         alt="[Youtube]" width="200">
 </a>
 
+# How Much Alcohol Do People Really Drink?
+
 ### 小節整理：文章重點歸納
 
 #### 1. 核心主題
@@ -2473,6 +2561,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
         alt="[Youtube]" width="200">
 </a>
 
+# The New US Diet Guidelines Must Have Forgotten to Add This...
+
 
 </details>
 
@@ -2483,6 +2573,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
     <img src="https://img.youtube.com/vi/xNoanoQ5syY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The 5 Top Health Tips of All Time
 
 ### 核心主題
 - **健康最佳建議**：本文圍繞健康生活的五大最佳建議展開討論，強調了科學飲食、生活習慣和健康管理的重要性。
@@ -2553,6 +2645,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
         alt="[Youtube]" width="200">
 </a>
 
+# Does Toothpaste for Acne Treatment Work? – Dr.Berg
+
 ### 核心主題  
 - 探讨牙膏是否适合用于治疗粉刺（痤疮）。
 - 强调皮肤与牙齿护理产品的差异性。
@@ -2613,6 +2707,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
     <img src="https://img.youtube.com/vi/QuyiwpPKiuU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Vitamin D and Your Skin Color
 
 ### 小節整理
 
@@ -2688,6 +2784,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
     <img src="https://img.youtube.com/vi/IbAAh86YjCA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Secret to Diabetes is Hidden in its Definition
 
 ### 文章主題：糖尿病的核心機制與健康建議
 
@@ -2768,6 +2866,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
         alt="[Youtube]" width="200">
 </a>
 
+# What Food Do You Eat When Stressed? Stop Stress Eating – Dr.Berg
+
 ### 小節整理：壓力下的飲食選擇與健康策略
 
 #### 核心主題
@@ -2837,6 +2937,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
         alt="[Youtube]" width="200">
 </a>
 
+# The 7 Important Intermittent Fasting Rules
+
 ### 核心主題
 - **間歇性斷食的規則與益處**：探討間歇性斷食的核心概念、飲食選擇、 supplementation、以及其對健康的多方面影響。
 
@@ -2902,6 +3004,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
     <img src="https://img.youtube.com/vi/UwGHf22kHmE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# B3 (Niacin) and Schizophrenia
 
 ### 核心主題
 - **精神分裂症的病因與治療**
@@ -2969,6 +3073,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
     <img src="https://img.youtube.com/vi/bXKXZZA4kLw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Guess Who Eats the Most Sugar?
 
 ### 文章重點整理
 
@@ -3047,6 +3153,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
         alt="[Youtube]" width="200">
 </a>
 
+# Secondhand Smoke Kills 600,000 People Per Year
+
 ### 核心主題
 
 - **二手煙的危害**：本文討論了二手煙對非吸煙者的健康影響，包括死亡率和疾病的詳細數據。
@@ -3109,6 +3217,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
     <img src="https://img.youtube.com/vi/0rrFWDnWgmw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 9 Ways to Manage Stress and Anxiety – Boost Stress Tolerance
 
 ### 重點整理
 
@@ -3183,6 +3293,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
         alt="[Youtube]" width="200">
 </a>
 
+# Vitamin D Comes From Sheep's Wool: WHAT???
+
 ### 核心主題
 - 本文圍繞多個不相干的主题進行了混雜的敘述，缺乏明確的核心主題或連貫性。
 - 主要涉及遊戲、下載軟件、健康建議等多個領域。
@@ -3245,6 +3357,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
     <img src="https://img.youtube.com/vi/ue-5F0pQhnY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How Long Will You Live?
 
 ### 核心主題
 - 人類壽命的影響因素。
@@ -3322,6 +3436,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
         alt="[Youtube]" width="200">
 </a>
 
+# 1st Sign of a Kidney Stone: Do This – Kidney Stone Remedies – Dr.Berg
+
 ### 小結點整理：腎结石的早期症狀、成因及處理策略
 
 #### 1. 核心主題：
@@ -3365,6 +3481,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
     <img src="https://img.youtube.com/vi/hgIwYgxuoho/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How Many Carbs Should a Diabetic Eat?
 
 ### 文章重點整理
 
@@ -3437,6 +3555,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
         alt="[Youtube]" width="200">
 </a>
 
+# The Mental Health Benefits of Bird Watching
+
 ### 核心主題
 - 探讨鸟类观察（Bird Watching）作为一种低成本的心理健康疗法的潜力。
 
@@ -3469,6 +3589,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
         alt="[Youtube]" width="200">
 </a>
 
+# At the 1st Sign of Diabetes, Do This...
+
 
 </details>
 
@@ -3480,6 +3602,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
         alt="[Youtube]" width="200">
 </a>
 
+# The Mental Health Benefits of Having a Pet
+
 
 </details>
 
@@ -3490,6 +3614,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
     <img src="https://img.youtube.com/vi/AgCUcPX77Lo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# At the 1st Sign of Dementia: Do This
 
 ### 核心主題
 - **早期痴呆症（阿茲海默症）的跡象與對策**
@@ -3578,6 +3704,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
         alt="[Youtube]" width="200">
 </a>
 
+# New Year’s Resolution 2021
+
 ### 核心主題
 - 新年目標設定與實現策略
 - 健康生活方式的重要性
@@ -3659,6 +3787,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
         alt="[Youtube]" width="200">
 </a>
 
+# Practical Keto: Dr. Berg at Low Carb Denver 2020
+
 ### 文章整理：酮症ダイエット（ケトジェニックダイエット）の重要性と実践上の注意点
 
 #### 1. 核心テーマ
@@ -3711,6 +3841,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
     <img src="https://img.youtube.com/vi/zgribGK-jkY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Vitamin K1 vs. K2: What’s the Difference?
 
 # 文章重點整理：維生素K1與維生素K2的差異與健康影響
 
@@ -3810,6 +3942,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
         alt="[Youtube]" width="200">
 </a>
 
+# Why Does a Fatty Liver Trigger Arthritis? Fatty Liver Inflammation & Joint Inflammation – Dr.Berg
+
 ### 小節整理：脂肪肝與關節炎之間的聯絡及其影響
 
 #### 核心主題
@@ -3866,6 +4000,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
     <img src="https://img.youtube.com/vi/DzNDWlbGuto/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Hypoglycemia without Symptoms – Dr.Berg
 
 ### 文章整理：低血糖的種類、原因及健康管理
 
@@ -3941,6 +4077,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
         alt="[Youtube]" width="200">
 </a>
 
+# Foods That Mimic Body Parts
+
 # 文章整理：食物与人体部位的形态关联及其健康益处
 
 ## 核心主題
@@ -4012,6 +4150,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
         alt="[Youtube]" width="200">
 </a>
 
+# Yacon Syrup is Not Keto
+
 ### 小節一：核心主題  
 - 討論yalcón糖漿是否適合酮飲食（keto-friendly）。  
 
@@ -4049,6 +4189,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
     <img src="https://img.youtube.com/vi/-_o12iyNi0s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Causes Sugar Cravings & How to STOP it? – Dr. Berg
 
 ### 核心主題
 - 糖尿病 cravings（糖癮）及其在酮飲食（keto diet）中的影響。
@@ -4122,6 +4264,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
         alt="[Youtube]" width="200">
 </a>
 
+# What Really Causes Chest Pain Due to Costochondritis (Costosternal Syndrome) – Dr.Berg
+
 ### 小節歸納
 
 #### 核心主題  
@@ -4165,6 +4309,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
     <img src="https://img.youtube.com/vi/yqAoHqi-yjs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 7 Causes of a Headache
 
 ### 七項引發頭痛的原因及健康建議
 
@@ -4262,6 +4408,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
         alt="[Youtube]" width="200">
 </a>
 
+# Liposomal Vitamins: Dr. Berg's Opinion
+
 ### 核心主題：唇osomal維生素的功效與挑選指南
 
 ---
@@ -4335,6 +4483,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
         alt="[Youtube]" width="200">
 </a>
 
+# Can We Live Without a Liver?
+
 # 文章重點整理
 
 ## 核心主題  
@@ -4401,6 +4551,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
         alt="[Youtube]" width="200">
 </a>
 
+# Most Common Sign of Low Stomach Acid is...
+
 ### 文章整理：低胃酸引起的消化不良及相關問題
 
 #### 核心主題
@@ -4466,6 +4618,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
         alt="[Youtube]" width="200">
 </a>
 
+# Is It Safe for an Older Person to Fast?
+
 ### 核心主題  
 - **老年人 intermittent fasting 的安全性與重要性**  
 
@@ -4510,6 +4664,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
     <img src="https://img.youtube.com/vi/6jk2QxVHXK8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Age Can a Child Start Fasting
 
 ### 文章整理：兒童開始齡及飲食建議
 
@@ -4565,6 +4721,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
     <img src="https://img.youtube.com/vi/bnatKlqU1iE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Get Rid of Acne? – The Biggest Mistake in Acne Treatment – Dr. Berg
 
 ### 核心主題：痤瘡（Acne）的成因與治療策略
 
@@ -4636,6 +4794,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
         alt="[Youtube]" width="200">
 </a>
 
+# My Favorite Keto Food Swaps
+
 ### 核心主題
 - 提供酮飲食中常見不友善食物的替代選擇。
 - 強調使用更健康的酮友食譜來進行食物替換。
@@ -4681,6 +4841,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
     <img src="https://img.youtube.com/vi/geydnuSgv5c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# I Can't Last 3 Hours Without Food
 
 ## 文章重點整理
 
@@ -4729,6 +4891,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
     <img src="https://img.youtube.com/vi/3AkZN4FFDLE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Himalayan Salt vs. Sea Salt
 
 ### 文章整理：岩鹽與普通海鹽的差異及其健康影響
 
@@ -4806,6 +4970,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
         alt="[Youtube]" width="200">
 </a>
 
+# How to Start the Ketogenic Diet Correctly?
+
 ### 文章重點整理
 
 #### 1. 核心主題： ketogenic diet （生酮飲食）
@@ -4862,6 +5028,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
         alt="[Youtube]" width="200">
 </a>
 
+# Vitamin B6 Can Cause Vitamin B6 Deficiency Symptoms
+
 ### 文章整理：錯誤攝取維生素B6的形式可能導致 deficiency 症狀
 
 #### 核心主題
@@ -4902,6 +5070,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
     <img src="https://img.youtube.com/vi/OzLsw1Mx3TA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# My Mom Is Skinny and She Eats Sugar
 
 ### 文章整理與分析
 
@@ -4966,6 +5136,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
     <img src="https://img.youtube.com/vi/1O8Ltw8bqIk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Migraine Headaches and Caffeine – Migraine Headache Relief – Dr.Berg
 
 ### 文章要點整理
 
@@ -5059,6 +5231,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
         alt="[Youtube]" width="200">
 </a>
 
+# My Grandfather Ate Bread, Sugar and Drank Alcohol and Lived to be 90
+
 ### 核心主題
 - **個體化健康**：不同人的基因和家庭歷史決定了他們對飲食、環境因素的反應不同。
 - **健康壽命的多 фактор 性**：影響健康的因素包括遺傳、表觀遺傳、飲食、壓力、污染等。
@@ -5121,6 +5295,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
         alt="[Youtube]" width="200">
 </a>
 
+# Is Liver Cirrhosis Reversible? -  Fibrosis vs. Cirrhosis – Dr.Berg
+
 
 </details>
 
@@ -5131,6 +5307,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
     <img src="https://img.youtube.com/vi/IhtjdHOhqdw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Top Addictive Drug in the World: Even Dr. Berg is Addicted
 
 ### 核心主題：咖啡因的全球影響力與健康考量
 
@@ -5169,6 +5347,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
         alt="[Youtube]" width="200">
 </a>
 
+# Guess What Country Consumes the Most Sugar? It's NOT the US
+
 ### 小節歸納
 
 #### 核心主題
@@ -5206,6 +5386,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
     <img src="https://img.youtube.com/vi/Jwb6qCD-GKE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Not Eating Sugar Yet High Blood Sugar Levels?
 
 ### 一、核心主題  
 - **酮症飲食（Keto Diet）與斷食法**：探討在實施酮症飲食和間歇性斷食的情況下，血液中血糖仍然偏高的原因及解決方法。  
@@ -5284,6 +5466,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
         alt="[Youtube]" width="200">
 </a>
 
+# Top 3 Natural Ways to Treat Allergies – Dr.Berg
+
 ### 核心主題
 - **免疫系統與過敏反應**：文章探討了免疫系統中調節T細胞（Tregs）在防止過敏和自身免疫疾病中的作用。
 - **通過增強Tregs來降低過敏症狀**：介紹了三種能增強Tregs的方法，包括益生菌、斷食和維生素D。
@@ -5332,6 +5516,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
     <img src="https://img.youtube.com/vi/Z-oAiANejmQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 70+ Year Old Feel Like a Teenager Again: Keto Success
 
 ### 小節歸納：
 
@@ -5396,6 +5582,8 @@ calcium 是維持睡眠品質和整體健康的重要礦物質，但其補充需
     <img src="https://img.youtube.com/vi/Wc2dUE5lxf0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Best Nutrient for Improved Thinking
 
 ### 正式學術用語整理與結構化歸納
 
@@ -5475,6 +5663,8 @@ Choline 確為提升腦功能和認知能力的重要營養素，其缺乏會導
         alt="[Youtube]" width="200">
 </a>
 
+# Diabetics on Meds Starting Keto: Important
+
 
 </details>
 
@@ -5486,6 +5676,8 @@ Choline 確為提升腦功能和認知能力的重要營養素，其缺乏會導
         alt="[Youtube]" width="200">
 </a>
 
+# Does 600 IU of Vitamin D Even Come Close to What We Need?
+
 
 </details>
 
@@ -5496,6 +5688,8 @@ Choline 確為提升腦功能和認知能力的重要營養素，其缺乏會導
     <img src="https://img.youtube.com/vi/RodguUXxkXs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Frequent Eating = Anti-Survival
 
 ### 核心主題：斷食與人類健康的關係
 
@@ -5563,6 +5757,8 @@ Choline 確為提升腦功能和認知能力的重要營養素，其缺乏會導
         alt="[Youtube]" width="200">
 </a>
 
+# How Fasting Influences Your Genes
+
 ### 文章整理： fasting 的基因影響及其健康益處
 
 #### 核心主題
@@ -5611,6 +5807,8 @@ Choline 確為提升腦功能和認知能力的重要營養素，其缺乏會導
     <img src="https://img.youtube.com/vi/po4p9LWGHG4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Amazing Benefits of Black Elderberry
 
 ### 小節歸納
 
@@ -5665,6 +5863,8 @@ Choline 確為提升腦功能和認知能力的重要營養素，其缺乏會導
     <img src="https://img.youtube.com/vi/m7mEy9miFok/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Never Add Lemon in Hot Tea Unless
 
 ### 核心主題：維生素C在茶中的穩定性及其對健康的影響
 

@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg's Acupressure Technique
+
 ### 核心主題  
 - 推廣一場名為「#acupressure for body types#」的 Seminar，於10月3日舉行。
 - 強調#acupressure#（กดน้ำ）與#acupuncture#的不同，不涉及針刺，而是運用手動療法來改善身體功能。
@@ -67,6 +69,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How to Boost Your Energy Webinar
+
 ### 文章重點整理
 
 #### 核心主題  
@@ -111,6 +115,8 @@
     <img src="https://img.youtube.com/vi/faf5SIqhuhE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg hosts a webinar on Anti-Aging and food
 
 ### 文章整理與分析
 
@@ -174,6 +180,8 @@
     <img src="https://img.youtube.com/vi/snxnuf8D0Pc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg gets Confronted by a Dietitian and an M.D. regarding the Water Myth
 
 ### 文章重點整理
 
@@ -248,6 +256,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Gallbladder, Thyroid & Cholesterol Link (Part - 4) – Dr. Berg
+
 ### 小節整理： gallbladder 的功能及其相關健康議題
 
 #### 核心主題：
@@ -309,6 +319,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Amazing Gallbladder & Vitamin A, D, E and K2 Connection (Part - 3) – Dr.Berg
+
 ### 文章整理： gallbladder 的功能與相關健康問題
 
 #### 核心主題
@@ -357,6 +369,8 @@
     <img src="https://img.youtube.com/vi/dQ6kPz7FDYY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Gallbladder & Right Shoulder Pain (Part-2) – Dr. Berg
 
 ### 小節歸納與整理
 
@@ -407,6 +421,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Gallbladder & Bloating Connection (Part 1) – Dr.Berg [Bloated Stomach & Gallbladder Function]
+
 ## 文章重點整理
 
 ### 小節一：核心主題 - 膽囊的重要性
@@ -452,6 +468,8 @@
     <img src="https://img.youtube.com/vi/6hgkT1M-jk4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Four Years of Heartburn & Acid Reflux Suffering
 
 ### 文章重點整理
 
@@ -517,6 +535,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg's Upcoming Health Webinar Series
+
 ### 核心主題
 - 探讨营养吸收、腰腹脂肪、抗衰老和能量提升等健康议题。
 - 强调疾病症状背后的根源问题而非表面管理。
@@ -553,6 +573,8 @@
     <img src="https://img.youtube.com/vi/VV9i1yJ1afk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# No Sugar Almond Fudge Recipe by Dr. Berg
 
 ### 核心主題
 - **高營養、高蛋白質的零食製作**：文章介紹了一種簡單且富含營養的零食——杏仁ffee（Almond Fudge）的製作方法，強調其高蛋白質和低糖特性。
@@ -606,6 +628,8 @@
     <img src="https://img.youtube.com/vi/sA6im8XBMy4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg Talks to a GMO Corn & Soy Farmer Who Is Switching to Organic
 
 ### 文章重點整理
 
@@ -683,6 +707,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Hypertension, Vitamin K2, and Vitamin D3 Testimonial - Dr. Berg
+
 ### 核心主題  
 - 探讨通过营养干预改善高血压及其相关健康问题的可能性。  
 - 强调维生素D3和K2在调节钙代谢中的作用。  
@@ -741,6 +767,8 @@
     <img src="https://img.youtube.com/vi/MK4Qd3AtzEY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Calcium Benefits: Way Beyond The Bones – Dr. Berg
 
 ### 文章重點整理  
 
@@ -805,6 +833,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Change Your Thoughts, Change Your Body Shape – Dr. Berg On Different Body Types
+
 ### 小節歸納
 
 #### 核心主題
@@ -858,6 +888,8 @@
     <img src="https://img.youtube.com/vi/VjMhPVi1jzs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Test Yourself For Adrenal Fatigue – Dr. Berg On Adrenal Insufficiency
 
 ### 文章重點整理
 
@@ -913,6 +945,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Protein & Fat Burning – Protein Foods & Food For Fat Burning – Dr. Berg
+
 ### 核心主題：蛋白質與脂肪燃燒之間的關聯及其影響
 
 ### 主要觀念：
@@ -953,6 +987,8 @@
     <img src="https://img.youtube.com/vi/m7sgclhqyQs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Upper Back Stretches that Relieve Stiffness – Dr.Berg
 
 # 肩膀活動度不足的原因與解決方法
 
@@ -1006,6 +1042,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What Would I Eat if I had Diabetes? – Try Dr.Berg's Diet For Diabetes
+
 ### 核心主題  
 - 探討寫作與思緒整理的有效性。  
 
@@ -1037,6 +1075,8 @@
     <img src="https://img.youtube.com/vi/OITqnCimvrg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Weight Loss Is NOT Normal For Your Body – Dr.Berg
 
 ### 核心主題： 
 - **身體的生存本能與脂肪儲存**  
@@ -1094,6 +1134,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What is Hypoglycemia? – Low Blood Sugar/Hypoglycemia Basics – Dr.Berg
+
 # 文章整理：低血糖（Hypoglycemia）的理解与应对策略
 
 ## 核心主題
@@ -1148,6 +1190,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How Much Salad Should I Eat? – Dr. Berg
+
 ### 重點整理
 
 #### 核心主題
@@ -1195,6 +1239,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Adrenal Night Formula Sleep Success
+
 ### 核心主題  
 - 新born嬰兒對母親生活品質的重大影響。  
 
@@ -1227,6 +1273,8 @@
     <img src="https://img.youtube.com/vi/NNn0W86ar24/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Evaluation Basics Part 3
 
 ### 核心主題：評估與干預老年人女性健康問題  
 本文圍繞一位71歲女性患者的多種健康問題展開，探討了她白癜病、飲食習慣、血液循環及代謝紊亂等問題的相互關聯，並提出針對性建議。
@@ -1293,6 +1341,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Evaluation Basics - Part 2
+
 ### 核心主題
 - **整合性醫療觀點**：強調edicine過度專業化的缺點，提倡從整體角度看待身體問題。
 - **案例分析**：一名35歲女性患者的多種症狀分析及治療建議。
@@ -1341,6 +1391,8 @@
     <img src="https://img.youtube.com/vi/YQEpSd1Uhgo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Evaluation Basics - Part 1
 
 ### 小節整理：文章重點歸納
 
@@ -1411,6 +1463,8 @@
     <img src="https://img.youtube.com/vi/9rjpz4nwo4g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to do a Real Health Evaluation
 
 ### 文章整理與分析
 
@@ -1495,6 +1549,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Emotional testimonial regarding diabetes - Dr. Berg's Office
+
 ### 核心主題  
 - 糖尿病管理與生活方式干预的成功案例  
 - 通過教育和行為改變來改善身體健康  
@@ -1571,6 +1627,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Amazing Shoulder & Neck Pain Relief – Melt Your Muscle Tension – Dr. Berg
+
 ### 核心主題
 - **肩部與肩胛骨 tension 的 Relief 技術**
 - **LEVATOR ANGULOSCAPULA 肌肉的作用與緊張**
@@ -1611,6 +1669,8 @@
     <img src="https://img.youtube.com/vi/_434ERRbkj8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is Ketosis Dangerous? – Dr.Berg
 
 ### 文章整理 - 低碳水化合物飲食與酮症的研究
 
@@ -1675,6 +1735,8 @@ This article explores the concept of ketosis, a metabolic state where the body u
         alt="[Youtube]" width="200">
 </a>
 
+# Weight Loss & Sleep Success - Dr. Berg's Patient Speaks Out!
+
 ### 核心主題：個人健康改善與生活方式轉變
 
 此篇文章的核心主題圍繞一個人如何通過改變生活方式和遵循特定的健康計劃來顯著改善其整體健康狀況。作者Mark McClain描述了他從睡眠障礙、食物過敏到身體反應問題的挑戰，以及他如何發現並跟隨Dr. Berg的計劃來解決這些問題。
@@ -1721,6 +1783,8 @@ Mark在遵循Dr. Berg計劃後取得了顯著的健康改善，包括：
         alt="[Youtube]" width="200">
 </a>
 
+# Burning Fat Made Easy: Tips and Tricks from Dr. Berg
+
 
 </details>
 
@@ -1732,6 +1796,8 @@ Mark在遵循Dr. Berg計劃後取得了顯著的健康改善，包括：
         alt="[Youtube]" width="200">
 </a>
 
+# How to Reverse a Fatty Liver? - Dr. Berg
+
 
 </details>
 
@@ -1742,6 +1808,8 @@ Mark在遵循Dr. Berg計劃後取得了顯著的健康改善，包括：
     <img src="https://img.youtube.com/vi/Z9FWsmmxO7c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Adrenal Discovery – High Cortisol Levels, Blood Sugar Levels & Adrenal Stress – Dr. Berg
 
 ### 核心主題  
 - **Adrenal Gland Dysfunction**：文章圍繞腎上腺功能失常及其對全身多種疾病的影響展開討論。  
@@ -1787,6 +1855,8 @@ Mark在遵循Dr. Berg計劃後取得了顯著的健康改善，包括：
         alt="[Youtube]" width="200">
 </a>
 
+# The Dangers Of Stopping Smoking – Dr.Berg On Effects Of Quitting Smoking
+
 ### 核心主題
 - 尼古丁成瘾及其戒断效应对身体的影响，尤其是对内分泌系统和代谢功能的长期影响。
 
@@ -1821,6 +1891,8 @@ Mark在遵循Dr. Berg計劃後取得了顯著的健康改善，包括：
     <img src="https://img.youtube.com/vi/WFELadMuPEM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best & Worst Snacks For Weight Loss – Diet For Losing Weight Dr.Berg
 
 ### 核心主題  
 - 討論不同零食的影響及其對代謝率和體重管理的效果。
@@ -1885,6 +1957,8 @@ Mark在遵循Dr. Berg計劃後取得了顯著的健康改善，包括：
         alt="[Youtube]" width="200">
 </a>
 
+# The Egg Yolk Myth – Dr. Berg
+
 ### 核心主題：蛋黃的健康益處  
 Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些因擔心胆固鈷問題而避免食用蛋黃的人群。他指出蛋黃不僅不會增加壞膽固醇，還能提供豐富的營養和健康功效。
 
@@ -1940,6 +2014,8 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
     <img src="https://img.youtube.com/vi/dq2herNm4Pc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg's Theory on Dementia, Blood Pressure & Stroke
 
 ### 核心主題  
 - 探讨钙代谢在痴呆症（dementia）、高血压和中风中的潜在作用及其影响机制。
@@ -2002,6 +2078,8 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
+# What Are The 4 Body Types?: Dr.Berg Explains Different Body Types & Belly Fat
+
 ### 文章結構與重點整理
 
 #### 核心主題
@@ -2056,6 +2134,8 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
+# Instant Neck Pain Relief Exercise & Neck Stretches – Hidden Cause Of Neck Pain – Dr.Berg
+
 ### 核心主題  
 - 探讨颈部疼痛的隐藏病因，特别是与膽囊健康相关的神经反射痛。  
 
@@ -2093,6 +2173,8 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
     <img src="https://img.youtube.com/vi/jeyJBosIOY0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Hair Growth, Natural Skin Care & Nail Care Tips by Dr. Berg
 
 ### 文章歸納與整理
 
@@ -2148,6 +2230,8 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
     <img src="https://img.youtube.com/vi/tp9aDjj68bE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Diet Analysis - Live Event by Dr. Eric Berg DC
 
 ### 文章整理與分析
 
@@ -2207,6 +2291,8 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
+# Why People Can't Lose Weight (Part 3) – Dr.Berg On Blood Sugar Levels & Weight Loss Problems
+
 ### 文章整理：為什麼人們無法減重？——自控力的重要性
 
 #### 核心主題
@@ -2263,6 +2349,8 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
     <img src="https://img.youtube.com/vi/bFUwenZw1nM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why People Can't Lose Weight (Part 2) – Dr. Berg On Fat Burning Hormone & Weight Loss Problems
 
 ### 文章整理重點
 
@@ -2342,6 +2430,8 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
+# Why People Can't Lose Weight (Part 1) – Dr. Berg On Fat Burning & Weight Loss Problems
+
 ### 核心主題
 - 論述影響體重管理的因素，特別是身體代謝和恢復能力。
 
@@ -2398,6 +2488,8 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
+# Fat Burning Tips – Dr. Berg
+
 ### 文章整理：糖分攝取與脂肪燃燒的影響
 
 #### 核心主題  
@@ -2433,6 +2525,8 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
     <img src="https://img.youtube.com/vi/sqTTP1FrkvI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Stretches for Low Back Pain – Dr. Berg
 
 ### 核心主題
 - **_LOWER_BODY_MECHANICS**：文章圍繞下肢及背部的結構與功能展開，強調運動後的恢復與健康。
@@ -2471,6 +2565,8 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
     <img src="https://img.youtube.com/vi/tKIU92zbg20/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How Does the Digestive System Works? – Dr.Berg
 
 ### 小腸健康指南：關鍵問題與解答
 
@@ -2535,6 +2631,8 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
+# Top Hypothyroid Diet Tips – Dr.Berg Gives Hypothyroidism Diet Ideas
+
 ### 核心主題  
 - 低代謝症（hypothyroidism）飲食建議與常見錯誤。
 
@@ -2593,6 +2691,8 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
+# The Clogged Artery Myth – Dr. Berg
+
 ### 核心主題: 血管堵塞的原因與機制  
 - **主要觀念**: 血管堵塞（arterial plaque formation）的主因是炎症反應而非僅限於胆固鈣水平。  
 - **問題原因**: 炎症反應引發血管壁的損傷，導致後續的修復反應中積累olesterol、calcium和 fibrin等物質。  
@@ -2636,6 +2736,8 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
     <img src="https://img.youtube.com/vi/ekN-SSAtUYg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best Liver Cleansing Foods – Dr.Berg
 
 ### 文章重點整理
 
@@ -2693,6 +2795,8 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
+# What Causes Upper Arm Fat? Losing Fat From Arms Dr.Berg
+
 ### 小節整理：上臂脂肪與激素平衡
 
 #### 1. 核心主題
@@ -2736,6 +2840,8 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
     <img src="https://img.youtube.com/vi/fMOFwsZFfzg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Summary of Dr. Berg's Webinar on Stress, Pain & Sleep (6:45 minutes)
 
 ### 小節整理：Dr. Burg 的網路研討會重點摘要
 
@@ -2791,6 +2897,8 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
     <img src="https://img.youtube.com/vi/zdU_EVb5xsc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Stop Being Lazy? – Dr.Berg
 
 ### 核心主題  
 - 論述針對.lazy procrastinator 的建議，涵蓋健康與心理層面的改善方法。
@@ -2855,6 +2963,8 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
+# Calcium and Osteoporosis – Calcium Might Cause a Heart Attack – Dr.Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -2917,6 +3027,8 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
+# Does Eating Yeast Really Cause Yeast Infections or Candida Infections? - Dr. Berg
+
 ### 小節歸納
 
 #### 核心主題
@@ -2957,6 +3069,8 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
     <img src="https://img.youtube.com/vi/G393YHryidg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Treatment For Kidney Stone & Kidney Stone Prevention – Dr. Berg
 
 ### 小節歸納
 
@@ -3030,6 +3144,8 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
     <img src="https://img.youtube.com/vi/XmIxmgV73kQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Dangers of LOW Cholesterol – Dr. Berg
 
 ### 文章重點整理
 
@@ -3107,6 +3223,8 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
     <img src="https://img.youtube.com/vi/4koooXfskJQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Hyperthyroid vs Hypothyroid Explained By Dr. Berg
 
 # 文章整理：Hyper vs Hypo 病理機制及影響因素
 
@@ -3198,6 +3316,8 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
+# What Is Hormonal Imbalance? – Dr.Berg
+
 ### 小節歸納
 
 #### 核心主題
@@ -3256,6 +3376,8 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
+# Fat Burning Hormone 101 (Weight Loss Basics) Explained by Dr.Berg
+
 ### 核心主題：脂肪燃燒的基本原理及影響因素
 
 ### 主要觀念：
@@ -3308,6 +3430,8 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
+# Interesting SINUS Treatment Using Acupressure Points – Dr. Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -3354,6 +3478,8 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
     <img src="https://img.youtube.com/vi/QQ2Eg_WzVnE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Weird Symptoms Explained by Dr. Berg
 
 ### 文章重點整理
 
@@ -3421,6 +3547,8 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
+# Adrenal Fatigue at Menopause Explained By Dr. Berg
+
 ### 核心主題
 - 本篇文章探討了圍絕經期（更年期）與腎上腺 fatigue之間的相互作用及其影響。
 
@@ -3469,6 +3597,8 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
+# Autoimmune Mysteries Revealed by Dr. Berg
+
 ### 小節化整理
 
 #### 核心主題
@@ -3504,6 +3634,8 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
     <img src="https://img.youtube.com/vi/wFjuHpnCrZA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Danger State of TOO Much CALCIUM !! – Dr.Berg
 
 ### 整理文章重點
 
@@ -3563,6 +3695,8 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
     <img src="https://img.youtube.com/vi/U5J2vzrF3A0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Health Coaching Training Intro - Dr. Berg
 
 ### 小節整理：Dr. Berg健康教練訓練課程概要
 
@@ -3627,6 +3761,8 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
     <img src="https://img.youtube.com/vi/L2fKo_dbXS0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To LOWER Cortisol Levels? – Dr. Berg
 
 ### 文章重點整理
 
@@ -3693,6 +3829,8 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
+# Problems with High Protein Diet – Dr. Berg
+
 ### 核心主題：高蛋白飲食的潛在問題與平衡之道
 
 #### 主要觀念：
@@ -3752,6 +3890,8 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
+# The Best Adrenal Night Formula - for Stress and Sleeping
+
 ### 小節歸納
 
 #### 核心主題
@@ -3801,6 +3941,8 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
         alt="[Youtube]" width="200">
 </a>
 
+# The Best Trace Mineral Supplement
+
 ### 小節 1: 核心主題  
 - 探讨植物基礎礦物質（Trace Minerals）的重要性及其在健康中的作用。
 
@@ -3847,6 +3989,8 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
         alt="[Youtube]" width="200">
 </a>
 
+# Organic Raw Wheat Grass Juice Powder - The Ultimate in Nutrition
+
 ### 核心主題
 - **主要產品介紹**：Raw Wheat Grass Juice Powder。
 - **生產工藝**：Bioactive Dehydration 技術。
@@ -3890,6 +4034,8 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
         alt="[Youtube]" width="200">
 </a>
 
+# Ovary Formula for Hot Flashes and Menstrual Cycle Support
+
 ### 核心主題  
 - 介紹一款名為「卵巢支持配方」（Ovary Support Formula）的商品，旨在幫助女性維護健康 ovarian 功能。
 
@@ -3930,6 +4076,8 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
     <img src="https://img.youtube.com/vi/68_cZVQFx7M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg's Gallbladder Formula
 
 ### 核心主題： gallbladder Formula 的功用與重要性
 - **核心主題**：介紹 gallbladder Formula 作為一款針對消化系統健康的产品，強調其在幫助分解脂肪、吸收脂溶性維生素以及改善消化不適等方面的作用。
@@ -3989,6 +4137,8 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
         alt="[Youtube]" width="200">
 </a>
 
+# Organic Sea Kelp (Icelandic)
+
 ### 核心主題  
 - 介紹一種名為Organic Seelp的產品及其來源和特性。  
 
@@ -4039,6 +4189,8 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
     <img src="https://img.youtube.com/vi/HqqJYG0BuUE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Vitamin K2 Benefits and Calcium Metabolism – Dr. Berg
 
 ### 核心主題  
 - 探讨维生素K2的作用及其在钙代谢中的重要性。  
@@ -4096,6 +4248,8 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
     <img src="https://img.youtube.com/vi/oPePR7Q-byQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Problems Being A Vegetarian – Dr. Berg on Downsides of Vegetarian Diets
 
 ### 文章整理與分析
 
@@ -4163,6 +4317,8 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Eric Berg Case's Study - Amazing Sleep & Weight Loss
+
 ### 核心主題
 - **睡眠障礙**：客戶最初因睡眠問題影響生活品質。
 - **體重管理與脂肪燃燒**：客戶不了解睡眠對脂肪燃燒的重要性，並通過健康飲食（如奇異果奶昔）成功減肥。
@@ -4216,6 +4372,8 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
     <img src="https://img.youtube.com/vi/6NNr3jorkcg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The 3 Causes Of Urinary Bladder Problems/Issues – Dr.Berg
 
 ### 整理後的文章重點
 
@@ -4289,6 +4447,8 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
         alt="[Youtube]" width="200">
 </a>
 
+# Hypothyroid Supplement Recommended By Dr.Berg
+
 ## 文章整理：低 thyroid 症狀及補充劑建議
 
 ### 核心主題  
@@ -4334,6 +4494,8 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
     <img src="https://img.youtube.com/vi/GgfWsp0hqYc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Connection Between Thyroid Gland & Estrogen – Dr.Berg
 
 ### 核心主題  
 - 探讨甲状腺功能异常与月经周期及妊娠之间的相互作用关系。
@@ -4397,6 +4559,8 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
         alt="[Youtube]" width="200">
 </a>
 
+# Most Effective Ways to Lose Belly Fat Fast! – Dr.Berg
+
 # 文章整理：快速消除腹部脂肪的核心策略
 
 ## 核心主題
@@ -4453,6 +4617,8 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
     <img src="https://img.youtube.com/vi/49wFC02H6YQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Lose Weight Fast!! – Try Dr.Berg's Easy Tips
 
 ### 核心主題
 - 腦內脂肪燃燒：如何在最短時間內最大化脂肪燃燒。
@@ -4515,6 +4681,8 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
         alt="[Youtube]" width="200">
 </a>
 
+# #1 Top Food to Burn your Belly Fat – Dr. Berg on Fat Burning Foods
+
 ### 核心主題
 - **主要議題**：蛋白質在燃脂，特別是腹部脂肪積累中的作用。
 - **關鍵焦點**：探讨高蛋白飲食對脂肪燃燒的影響及其潛在風險。
@@ -4565,6 +4733,8 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Eric Berg's Case Study - 4 Pots of Coffee to 1 Cup
+
 ### 核心主題  
 - 患者報告與壓力相關的心理和身體症狀，包括 fight-or-flight 反應、睡眠障礙、咖啡因濫用以及慢性背部疼痛。  
 
@@ -4610,6 +4780,8 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
     <img src="https://img.youtube.com/vi/d02wQEm0xDo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr.Berg Clears the Confusion Between the Thyroid, Cruciferous Vegetables, and Iodine
 
 ### 小節與整理
 
@@ -4665,6 +4837,8 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
     <img src="https://img.youtube.com/vi/vXPy2X73JiE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Are My Thyroid Hormones Not Working?
 
 ### 文章重點整理
 
@@ -4736,6 +4910,8 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
         alt="[Youtube]" width="200">
 </a>
 
+# Hashimoto Thyroiditis (Autoimmune Hypothyroid) Simplified by Dr. Berg
+
 ### 小節歸納
 
 #### 核心主題
@@ -4774,6 +4950,8 @@ Hashimoto甲状腺炎的發病與壓力引起的免疫失衡密切相關。通�
     <img src="https://img.youtube.com/vi/LAP9K0IKyxk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Major Stress Relief With Acupressure – Dr. Berg's CASE STUDY
 
 ### 核心主題  
 - **壓力引發的體重問題**：Connie因長期暴露於高壓環境，導致其生理和心理健康受影響，特別是體重增加和相關健康問題。  
@@ -4817,6 +4995,8 @@ Connie的故事展示了長期壓力對健康的深刻影響，特別是其如�
     <img src="https://img.youtube.com/vi/smrXHDqrGkI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Bubble Therapy For Bread Cravings – Dr. Berg
 
 ### 核心主題  
 - **自我控制與飲食管理**：探討將意志力應用於飲食控制，特別是面對麵包等高誘惑食物的挑戰。
@@ -4883,6 +5063,8 @@ Connie的故事展示了長期壓力對健康的深刻影響，特別是其如�
     <img src="https://img.youtube.com/vi/mk2QMLT4CNU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Top Signs and Symptoms of Vitamin B1 Deficiency – Dr. Berg
 
 ### 文章整理：低B1（硫胺素）缺乏症的 symptom 與解決方案
 
@@ -4957,6 +5139,8 @@ Connie的故事展示了長期壓力對健康的深刻影響，特別是其如�
     <img src="https://img.youtube.com/vi/zgYAJqOeYRk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Protein Is Best? – Dr. Berg
 
 ### 文章重點整理
 
@@ -5035,6 +5219,8 @@ Connie的故事展示了長期壓力對健康的深刻影響，特別是其如�
         alt="[Youtube]" width="200">
 </a>
 
+# Muscle Cramps & Spasms – Dr.Berg On Charley Horses
+
 ### 核心主題：肌肉痙攣（Charlie Horse）的原因與防治
 
 ---
@@ -5094,6 +5280,8 @@ Connie的故事展示了長期壓力對健康的深刻影響，特別是其如�
         alt="[Youtube]" width="200">
 </a>
 
+# Wheatgrass Juice Powder: Nature’s Ultimate Healer – Dr. Berg
+
 ### 核心主題
 - **核心主題**：介紹楔.staff wheat grass（韌穗草）及其在健康飲食中的重要性。
 - **主要焦點**：討論其營養價值、加工方法、食用方式以及健康效益。
@@ -5135,6 +5323,8 @@ Connie的故事展示了長期壓力對健康的深刻影響，特別是其如�
     <img src="https://img.youtube.com/vi/vYahIgkrp6c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Causes Tumors, Polyps, Moles & Pimples? – Dr. Berg
 
 ### 小節整理
 
@@ -5178,6 +5368,8 @@ Connie的故事展示了長期壓力對健康的深刻影響，特別是其如�
     <img src="https://img.youtube.com/vi/iTjDi2ZO0n8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Understanding Insulin Resistance & What You Can Do About It – Dr.Berg
 
 ### 文章重點整理
 
@@ -5236,6 +5428,8 @@ Connie的故事展示了長期壓力對健康的深刻影響，特別是其如�
         alt="[Youtube]" width="200">
 </a>
 
+# The Truth About Cholesterol – LDL Cholesterol & HDL Cholesterol – Dr.Berg
+
 ### 核心主題：膽固醇迷思與心血管健康的真相
 
 #### 主要觀念：
@@ -5287,6 +5481,8 @@ Connie的故事展示了長期壓力對健康的深刻影響，特別是其如�
     <img src="https://img.youtube.com/vi/-gei4_8ZAvo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Clogged Arteries, Osteoporosis and Vitamin K2 – Dr. Berg
 
 ### 核心主題
 - **维生素K2的作用及其与骨骼和心血管健康的关系**  
@@ -5348,6 +5544,8 @@ Connie的故事展示了長期壓力對健康的深刻影響，特別是其如�
     <img src="https://img.youtube.com/vi/ae4wZ79GzGU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Drinking 8 Glasses of Water Per Day is a Myth – Dr. Berg Explains
 
 ### 文章整理：水的迷思與事實
 
@@ -5412,6 +5610,8 @@ Connie的故事展示了長期壓力對健康的深刻影響，特別是其如�
     <img src="https://img.youtube.com/vi/q1Ja0Y27DKQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Weight Loss: Only a Small Part of Healthy Lifestyle – Dr.Berg
 
 ### 核心主題
 - ** holistic view of health and weight management**  

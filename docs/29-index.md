@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# 40 Years of Nutrition Policy Reversed Quietly
+
 ### 小節歸納
 
 #### 1. 核心主題
@@ -45,6 +47,8 @@
     <img src="https://img.youtube.com/vi/xJ0g7HJKNgY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Lemon Water is Essential for Fasting
 
 ### 文章整理：檸檬水在斷食與酮egenic diet中的重要性
 
@@ -103,6 +107,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Why is Xylitol Bad for Dogs?
+
 ### 核心主題：
 1. Xylitol 的毒性及其對狗的影響
 
@@ -138,6 +144,8 @@
     <img src="https://img.youtube.com/vi/Dh2mX_o9ZYQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What to do for Alzheimer's Disease if Nothing is Working? – The Perfect Treatment by Dr.Berg
 
 ### 小節歸納
 
@@ -180,6 +188,8 @@
     <img src="https://img.youtube.com/vi/KP8XipP3qTE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Health Benefits of a Cucumber
 
 ### 文章重點整理
 
@@ -225,6 +235,8 @@
     <img src="https://img.youtube.com/vi/xpkyh_VFCzY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is Napping Good for You? 11 Benefits of a Nap By Dr.Berg
 
 ### 文章重點整理
 
@@ -297,6 +309,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Top Foods High in Vitamin B1
+
 ### 小節歸納
 
 #### 1. 核心主題
@@ -341,6 +355,8 @@
     <img src="https://img.youtube.com/vi/3fZ5QAi1iGo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Our Gallbladders Are Not Essential...Really?
 
 ### 小節歸納
 
@@ -387,6 +403,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# On Keto But Can't Stop Losing Weight?
+
 ### 核心主題
 - 文章圍繞Patrick Fischer提出的十二則謎題展開討論，強調這些謎題具有一定的挑戰性且並非全新。
 - 文章涉及音樂元素，可能暗示這些謎題與音響或藝術表達有關。
@@ -431,6 +449,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Highest Zinc Food in the World
+
 ### 核心主題：锌元素的重要性及其在人体中的作用
 
 1. **核心主題**  
@@ -471,6 +491,8 @@
     <img src="https://img.youtube.com/vi/3S6NTcg3bFE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Does Taking Too Much Calcium (Hypercalcemia) Lead to Kidney Stones? – Dr.Berg
 
 # 文章整理：腎结石的成因與防治策略
 
@@ -529,6 +551,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Taking Electrolytes Yet Still Cramping
+
 ### 小節一：核心主題  
 - 文章圍繞個人在特定情境下的感受與反應展開，涉及情感表達、自我反思以及對外界環境的感知。
 
@@ -563,6 +587,8 @@
     <img src="https://img.youtube.com/vi/ZvSR05wl_3g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Heart Cells Hate Alcohol
 
 ### 核心主題：酒精對心肌組織的危害與影響
 
@@ -613,6 +639,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Keto Snacks: Not a Good Idea!
+
 ### 核心主題  
 - 探讨酮素饮食（keto）中零食摄入的影响及其对健康和体重管理的效果。
 
@@ -657,6 +685,8 @@
     <img src="https://img.youtube.com/vi/4pVEedOSXT8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The 11 Benefits of Lecithin
 
 ### 核心主題：磷脂（Lecithin）的健康益處與來源分析
 
@@ -705,6 +735,8 @@
     <img src="https://img.youtube.com/vi/fCP6QxklqI4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 12 Complications of Having Your Gallbladder Removed
 
 ### 小節歸納
 
@@ -767,6 +799,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Why Use Cod Liver Oil for Eczema? Remedies for Eczema – Dr. Berg
+
 ### 小節整理：Cod Liver Oil 在治療濕疹中的作用
 
 #### 1. 核心主題
@@ -814,6 +848,8 @@
     <img src="https://img.youtube.com/vi/yN8XOUcOcXA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Are Nuts a Protein or a Fat?
 
 ### 核心主題：坚果的营养成分分析及其在酮饮食中的应用
 
@@ -872,6 +908,8 @@
     <img src="https://img.youtube.com/vi/g-cchLeHwrM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How Fasting Affects Your Body
 
 ### 文章整理：斷食對身體的多方面影響
 
@@ -945,6 +983,8 @@ Fasting, an ancient practice gaining modern scientific attention, exhibits profo
         alt="[Youtube]" width="200">
 </a>
 
+# When Does Fasting Turn Into Starving?
+
 ### 文章重點整理
 
 #### 核心主題
@@ -992,6 +1032,8 @@ Fasting, an ancient practice gaining modern scientific attention, exhibits profo
     <img src="https://img.youtube.com/vi/Qf27HdWFzj0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Do This for Attention Deficit Hyperactivity Disorder – Omega 3 Fatty Acids For ADHD – Dr.Berg
 
 ### 小節整理：注意力缺陷多動症（ADHD）的營養干預研究與建議
 
@@ -1053,6 +1095,8 @@ Fasting, an ancient practice gaining modern scientific attention, exhibits profo
         alt="[Youtube]" width="200">
 </a>
 
+# #1 Sign That Your Kid is Eating Too Much Sugar
+
 ### 文章重點整理
 
 #### 核心主題
@@ -1094,6 +1138,8 @@ Fasting, an ancient practice gaining modern scientific attention, exhibits profo
         alt="[Youtube]" width="200">
 </a>
 
+# Use Bile Salts for SIBO (Small Intestinal Bacterial Overgrowth) –  Dr. Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -1134,6 +1180,8 @@ Fasting, an ancient practice gaining modern scientific attention, exhibits profo
     <img src="https://img.youtube.com/vi/1k59m6gs7hU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg Interviews Siim Land on Fasting, Autophagy and More
 
 ### 文章整理：《壓力使我更強壯》新書發布暨Autophagy主題討論
 
@@ -1180,6 +1228,8 @@ Fasting, an ancient practice gaining modern scientific attention, exhibits profo
     <img src="https://img.youtube.com/vi/BoomsBmRGbg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is Your Kid a Picky Eater? Do This...
 
 ### 核心主題  
 - 調整兒童飲食習慣，解決挑食問題。  
@@ -1248,6 +1298,8 @@ Fasting, an ancient practice gaining modern scientific attention, exhibits profo
         alt="[Youtube]" width="200">
 </a>
 
+# Always Fast During an Infection
+
 ### 重點整理
 
 #### 核心主題：免疫系統與禁食（Fasting）的關聯  
@@ -1305,6 +1357,8 @@ Fasting, an ancient practice gaining modern scientific attention, exhibits profo
         alt="[Youtube]" width="200">
 </a>
 
+# Endurance Exercise Can Damage Your Heart
+
 ### 核心主題：耐力運動與心臟健康
 - 耐力運動可能對心臟造成負面影響。
 - 長期過度耐力訓練可能导致心臟結構和功能異常。
@@ -1350,6 +1404,8 @@ Fasting, an ancient practice gaining modern scientific attention, exhibits profo
     <img src="https://img.youtube.com/vi/zCpthHQVcC8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Always Fast 12 Hours Before Your Cholesterol Test
 
 ### 小節歸納
 
@@ -1398,6 +1454,8 @@ Fasting, an ancient practice gaining modern scientific attention, exhibits profo
     <img src="https://img.youtube.com/vi/I9Bz_TBvd9A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Cavities: The 2nd Most Common Disease Worldwide...but Why?
 
 ### 文章整理與分析
 
@@ -1484,6 +1542,8 @@ Cavities 作為全球性健康問題，其發生與微生物、飲食習慣和�
         alt="[Youtube]" width="200">
 </a>
 
+# The Olive Oil Scam that You Need to Know About
+
 ### 核心主題
 - **橄欖油產業中的偽劣問題**：文章強調了橄欖油市場中存在大量假冒偽劣產品的現象，並探討了其歷史淵源及對消費者影響。
 - **消費者的覺醒與教育**：通過個人經驗分享，突出了消費者需要提高對於真偽橄欖油辨別能力的重要性。
@@ -1518,6 +1578,8 @@ Cavities 作為全球性健康問題，其發生與微生物、飲食習慣和�
     <img src="https://img.youtube.com/vi/EsyoLmUzBb0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Yogurt vs. Ice Cream: Which is Worse?
 
 ### 小節整理：酸奶與冰淇淋的健康比較
 
@@ -1554,6 +1616,8 @@ Cavities 作為全球性健康問題，其發生與微生物、飲食習慣和�
     <img src="https://img.youtube.com/vi/G_kVwG2wFWI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Get Rid of Stiffness and Feel a Lot Younger – Muscle Soreness & Stiffness – Dr.Berg
 
 ### 文章整理：消除身體僵硬感，重拾年輕活力
 
@@ -1634,6 +1698,8 @@ Cavities 作為全球性健康問題，其發生與微生物、飲食習慣和�
         alt="[Youtube]" width="200">
 </a>
 
+# Blood Sugar Levels High Despite Keto and Fasting?
+
 
 </details>
 
@@ -1644,6 +1710,8 @@ Cavities 作為全球性健康問題，其發生與微生物、飲食習慣和�
     <img src="https://img.youtube.com/vi/87qAnrI4sAs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Potato Chips vs. Corn Chips: What's Worse?
 
 ### 核心主題： 
 
@@ -1771,6 +1839,8 @@ Cavities 作為全球性健康問題，其發生與微生物、飲食習慣和�
         alt="[Youtube]" width="200">
 </a>
 
+# Vitamin D Testing Challenges
+
 ### 核心主題：維生素D測試的挑戰與影響因素
 
 ### 主要觀念：
@@ -1820,6 +1890,8 @@ Cavities 作為全球性健康問題，其發生與微生物、飲食習慣和�
     <img src="https://img.youtube.com/vi/rbWaj-NfbvM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Does Skipping Meals Worsen Your Metabolism?
 
 ### 文章整理：跳餐是否真的會降低新陈代谢？
 
@@ -1874,6 +1946,8 @@ Cavities 作為全球性健康問題，其發生與微生物、飲食習慣和�
     <img src="https://img.youtube.com/vi/xeNIHeD2tOg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Stalled Weight Loss Despite Intermittent Fasting
 
 ### 文章重點整理
 
@@ -1977,6 +2051,8 @@ Cavities 作為全球性健康問題，其發生與微生物、飲食習慣和�
         alt="[Youtube]" width="200">
 </a>
 
+# Bread vs. Potato: What's Worse?
+
 ### 文章整理：「比較馬鈴薯與麵包對血糖及健康的影響」
 
 #### 核心主題
@@ -2060,6 +2136,8 @@ Cavities 作為全球性健康問題，其發生與微生物、飲食習慣和�
         alt="[Youtube]" width="200">
 </a>
 
+# At What Blood Sugar Level Does the Damage Begin?
+
 ### 核心主題  
 - 探讨血糖水平对器官损害的影响，特别是对于糖尿病前期或胰岛素抵抗人群。
 
@@ -2112,6 +2190,8 @@ Cavities 作為全球性健康問題，其發生與微生物、飲食習慣和�
         alt="[Youtube]" width="200">
 </a>
 
+# Melancholy – The Real Cause of Melancholic Depression – Dr.Berg
+
 ### 核心主題：Melancholy（憂郁）及其與膽汁分泌的關係
 
 #### 主要觀念：
@@ -2157,6 +2237,8 @@ Cavities 作為全球性健康問題，其發生與微生物、飲食習慣和�
     <img src="https://img.youtube.com/vi/q82KtaQsOBA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# You Cannot Make Vitamin D Without Cholesterol
 
 ### 核心主題
 - 探讨个人与社会在快速变迁中的适应与成长。
@@ -2237,6 +2319,8 @@ Cavities 作為全球性健康問題，其發生與微生物、飲食習慣和�
         alt="[Youtube]" width="200">
 </a>
 
+# 7 Early Signs of Kidney Disease
+
 ### 核心主題：腎臟疾病的早期跡象與健康管理
 
 #### 主要觀念：
@@ -2279,6 +2363,8 @@ Cavities 作為全球性健康問題，其發生與微生物、飲食習慣和�
         alt="[Youtube]" width="200">
 </a>
 
+# What Causes Clubbing of the Nail?
+
 ### 小節一：核心主題  
 1. 甲床變形（clubbing）的外在表現：指甲增厚、凸起。  
 2. 甲床變形可能與全身性疾病相關。  
@@ -2314,6 +2400,8 @@ Cavities 作為全球性健康問題，其發生與微生物、飲食習慣和�
     <img src="https://img.youtube.com/vi/0p-yUAvZlSg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Best Herbs for Liver Cirrhosis
 
 ### 核心主題：肝纤维化的自然療法
 
@@ -2355,6 +2443,8 @@ Cavities 作為全球性健康問題，其發生與微生物、飲食習慣和�
     <img src="https://img.youtube.com/vi/w_Su41RIJ78/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Amazing Benefits of Berberine
 
 ### 重点整理
 
@@ -2398,6 +2488,8 @@ Berberine 是一种多用途的天然化合物，具有广泛的研究支持，�
     <img src="https://img.youtube.com/vi/ftijsgu6yb8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Will Eating Less Slow Down Metabolism?
 
 ### 文章重點整理
 
@@ -2458,6 +2550,8 @@ Berberine 是一种多用途的天然化合物，具有广泛的研究支持，�
         alt="[Youtube]" width="200">
 </a>
 
+# Glucagon Triggers Ketosis, Insulin Blocks It
+
 ### 小節整理：Glucagon的功能及其在代謝中的作用
 
 #### 1. 核心主題
@@ -2507,6 +2601,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/ql_OUUnzWg4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Do You Need Fat to Stay in Ketosis?
 
 ### 核心主題  
 - 探讨在酮饮食（Ketogenic Diet）中脂肪摄入的重要性及其对维持酮症状态的影响。
@@ -2583,6 +2679,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+# Best Foods for Gallstones
+
 # 文章重點整理：膽石症的飲食管理與預防
 
 ## 核心主題
@@ -2636,6 +2734,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/9xSeNioMQkY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Stress Destroys the Ability to Experience Pleasure
 
 ### 核心主題: 慢性壓力對快樂感受的影響及其應對策略
 
@@ -2699,6 +2799,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+# Zinc Deficiency and Your Liver Problems – Symptoms of Zinc Deficiency – Dr.Berg
+
 ### 核心主題：鋅與肝臟健康的關係
 
 #### 主要觀念：
@@ -2752,6 +2854,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+# The Best Tips for a Heavy Period (Menstrual Cycle) – Painful Periods – Dr.Berg
+
 ### 核心主題  
 - ** estrogen dominance 的影響及其相關症狀（如月經不調、Heavy Periods 等）。  
 - ** 提供針對 estrogen dominance 的自然療法和健康建議。  
@@ -2793,6 +2897,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/dcrQFs4wVOo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best Remedy for Cardiac Arrhythmias
 
 ### 文章重點整理
 
@@ -2864,6 +2970,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/waRdD_UvcNg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Abdominal Pain Assessment – Figuring Out Your Abdominal Pain – Dr.Berg
 
 ### 文章重點整理
 
@@ -2955,6 +3063,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+# What Makes Sugar Addictive
+
 ### 核心主題
 - **糖分的成癮性**：探討糖分為什麼會具有成癮性，涉及生理和心理機制。
 - ** dopamine的作用**：分析多巴胺在糖分攝取中的角色及其對行為的影響。
@@ -3018,6 +3128,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+# Butter vs. Coconut Oil: Which One is Healthier?
+
 ### 小節歸納
 
 #### 1. 核心主題  
@@ -3079,6 +3191,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+# Fascinating Interview with Dr. Chris Knobbe on Vegetable Oils and Macular Degeneration
+
 ### 小節整理
 
 #### 1. 核心主題
@@ -3123,6 +3237,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/jnZhmiz4YcY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Only Food that Will Not Break a Fast
 
 # 文章重點整理
 
@@ -3187,6 +3303,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+# Stomach Growling is a Symptom of...
+
 ### 文章重點整理
 
 #### 核心主題
@@ -3243,6 +3361,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/n5En7I0zVP0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Herbs That Counter Aging
 
 ### 核心主題：抗糖化作用及其健康影響
 
@@ -3306,6 +3426,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+# The OTHER Cause of Sciatica Pain
+
 ### 小節化整理
 
 #### 核心主題
@@ -3355,6 +3477,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+# Spike Your Omega-3 Fats with Bile Salts
+
 ### 重點整理
 
 #### 核心主題  
@@ -3401,6 +3525,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/QB2ZpRmIfr8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Your Muscles Need Most of Your Potassium
 
 ### 小節整理：肌肉所需 potassium 的重要性與功能
 
@@ -3461,6 +3587,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/gzqzY69wbQ8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Best Way to Tell Arsenic Poisoning
 
 ### 小節歸納
 
@@ -3525,6 +3653,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+# Do This Before Your Detox: IMPORTANT
+
 ### 中文摘要  
 本文主要探討排毒反應（Herxheimer Reaction）的原理與影響，並提出通過使用純化的膽鹽來解決相關問題。文章強調了排毒過程中可能引發的免疫反應及其對肝臟和消化系統的影響，同時提供實用的健康建議。
 
@@ -3573,6 +3703,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/rSn5j4OSggI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is Coconut Oil Going to Raise Your Cholesterol?
 
 ### 文章重點整理
 
@@ -3630,6 +3762,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+# The 8 Benefits of Alpha-Lipoic Acid
+
 
 </details>
 
@@ -3640,6 +3774,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/73ixhePSKeA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best Type of Vitamin E is...
 
 ### 文章整理：維生素E комплексів
 
@@ -3693,6 +3829,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+# Your Stress May Be Preventing Full Ketosis
+
 
 </details>
 
@@ -3703,6 +3841,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/RHjX7A02rqc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Bulletproof Your Immune System Course
 
 ### 核心主題  
 - 提供免費免疫系統強化課程，名為「如何打造免疫防護罩」，涵蓋21個不同課堂。  
@@ -3738,6 +3878,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/bmwNw89bl6o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Excessive Thirst Causes and Remedies – Dr.Berg
 
 ### 文章重點整理
 
@@ -3818,6 +3960,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+# Your Fatty Pancreas Caused Your Diabetes
+
 ### 文章重點整理
 
 #### 核心主題  
@@ -3869,6 +4013,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/HB12om9j86Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best Herbs for AIDS (Acquired Immunodeficiency Syndrome)
 
 ### 文章整理報告
 
@@ -3927,6 +4073,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/54CNX4Znwj0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# A Common Keto Fat Ingredient That Will Stop Keto
 
 ### 文章整理：蔬菜油對酮飲食的影響及其健康風險
 
@@ -3999,6 +4147,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+# How Much Zinc is Too Toxic?
+
 ### 文章整理：锌的毒性效应及其对免疫系统的影响
 
 #### 核心主題
@@ -4036,6 +4186,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/vZRWkboolT4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Vitamin E Reverses a Fatty Liver – Detoxify Fatty Liver Disease – Dr.Berg
 
 ### 文章重點整理
 
@@ -4093,6 +4245,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+# 8 Benefits of Milk Thistle for the Liver
+
 
 </details>
 
@@ -4103,6 +4257,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/ZzTxDaX2jgk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# When to Lower Your Dietary Fat on Keto
 
 ### 文章整理：低脂低碳水化合物飲食（生酮飲食）中的脂肪攝取策略
 
@@ -4169,6 +4325,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+# Autonomic Neuropathy: Common Underdiagnosed Problem
+
 ### 文章整理：自主神經神經病（Autonomic Neuropathy）
 
 #### 核心主題  
@@ -4229,6 +4387,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/0liyz4vpksU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 9 Signs of Toxin Build-up in the Liver
 
 ### 文章重點整理
 
@@ -4295,6 +4455,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+# Enhance Autophagy with Coffee and Herbs
+
 ### 文章重點整理
 
 #### 1. 核心主題：自噬作用（Autophagy）的 Enhancement 及其健康益處  
@@ -4341,6 +4503,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/ioiR1XqA55U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Leptin is an Immune Hormone
 
 ### 核心主題
 - ** leptin 的功能**：主要作為食欲激素，抑制 hunger。
@@ -4398,6 +4562,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/2xY7Yxus8JU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Vitamin D, Bile, and Your Gallbladder
 
 ### 小節歸納與整理
 
@@ -4471,6 +4637,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+# Vitamin K2 Goes Beyond Bone Health
+
 ### 核心主題：維生素K2的功能及其健康影響
 
 #### 主要觀念：
@@ -4523,6 +4691,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/ORIg8qCgdX8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Problem With Preventing a Heart Attack
 
 ### 核心主題：心臟病 prevention 的挑戰與自然解決方案
 
@@ -4602,6 +4772,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+# For Leg Cramps at Night Do This
+
 ### 核心主題
 - **腿抽筋的自然療法**：文章主要探討腿抽筋，特別是夜間抽筋的治療方法。
 - **奎inine Bark的作用**：強調奎寧樹皮作為自然來源的療法，其歷史和用途。
@@ -4643,6 +4815,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/08HdsSlWuhs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Use Fasting To Get Rid of Chronic Pain – Intermittent Fasting & Chronic Pain Relief – Dr.Berg
 
 ### 文章總結： fasting for chronic pain relief
 
@@ -4705,6 +4879,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+# Apple Cider Vinegar vs White Vinegar: The Big Difference
+
 ### 核心主題  
 - 比較蘋果醋和白醋的差異及其健康影響。
 
@@ -4765,6 +4941,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+# The Worst Type of Fasting is...
+
 ### 小節歸納
 
 #### 1. 核心主題
@@ -4801,6 +4979,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/ZomvKGvaIgQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Eggs Protect Your Liver if You're Postmenopausal?
 
 ### 核心主題：蛋黃對停經後女性的健康益處
 
@@ -4859,6 +5039,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+# Will MCT Oil Break a Fast?
+
 ### 文章整理與分析
 
 #### 核心主題
@@ -4914,6 +5096,8 @@ MCT油在斷食中具有重要作用，可幫助快速進入酮症並提供多�
     <img src="https://img.youtube.com/vi/02o135UdS-A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Ghaida's Success Story | How She Regained Her Health After 45 Years of Obesity, Depression, Diseases
 
 ### 文章整理：核心與問題解決方案
 
@@ -4980,6 +5164,8 @@ MCT油在斷食中具有重要作用，可幫助快速進入酮症並提供多�
         alt="[Youtube]" width="200">
 </a>
 
+# What Fasting Does to Growth Hormone
+
 ### 核心主題：禁食對生長激素的影響及其對健康的益處
 
 #### 主要觀念：
@@ -5011,6 +5197,8 @@ MCT油在斷食中具有重要作用，可幫助快速進入酮症並提供多�
     <img src="https://img.youtube.com/vi/2qyq8eE3_ZQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The 5 Tips to STOP Grazing & Snacking
 
 ### 核心主題
 - **核心主題**：探討 grazingsnacking（不定時進食和零食攝取）對健康造成的负面影响，並提供通過禁食來改善健康的建議。
@@ -5099,6 +5287,8 @@ MCT油在斷食中具有重要作用，可幫助快速進入酮症並提供多�
         alt="[Youtube]" width="200">
 </a>
 
+# Key Nutrients and Herbs for Fasting
+
 # 關於斷食期間應攝取之營養素的整理與分析
 
 ## 核心主題
@@ -5140,6 +5330,8 @@ MCT油在斷食中具有重要作用，可幫助快速進入酮症並提供多�
     <img src="https://img.youtube.com/vi/kutmypUbuqE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Nausea Remedies – Best Way to Get Rid of Nausea – Dr.Berg
 
 ### 核心主題  
 - **核心主題**：探討並提供消除噁心（nausea）的最佳方法及相關健康建議。
@@ -5213,6 +5405,8 @@ MCT油在斷食中具有重要作用，可幫助快速進入酮症並提供多�
         alt="[Youtube]" width="200">
 </a>
 
+# Use Apple Cider Vinegar for Muscle Spasm/Cramps – Dr.Berg
+
 ### 文章整理：Apple Cider Vinegar 在肌肉痙攣中的作用
 
 #### 核心主題
@@ -5273,6 +5467,8 @@ Apple Cider Vinegar 可能通過多種機制（如促進乙酰膽鹼形成、酸
         alt="[Youtube]" width="200">
 </a>
 
+# Vitamin D Deficiency Can Cause Liver Disease
+
 ### 文章重點整理
 
 #### 核心主題：維生素D對肝臟健康的重要性  
@@ -5318,6 +5514,8 @@ Apple Cider Vinegar 可能通過多種機制（如促進乙酰膽鹼形成、酸
     <img src="https://img.youtube.com/vi/Sk8VdjeZZio/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What is Histamine Intolerance? High Histamine Foods to Avoid – Dr.Berg
 
 # 文章要點整理
 
@@ -5407,6 +5605,8 @@ Apple Cider Vinegar 可能通過多種機制（如促進乙酰膽鹼形成、酸
     <img src="https://img.youtube.com/vi/mLpd2ubu3og/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best Fatty Liver Exercise – Treatment of Fatty Liver – Dr.Berg
 
 ### 核心主題
 - 論述最佳運動方式對脂肪肝的效果及其機制。

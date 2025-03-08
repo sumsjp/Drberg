@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Iodine Benefits Are Beyond Just The Thyroid! – Dr. Berg on Iodine Deficiency
+
 ### 核心主題
 Iodine 的多樣性功能及其對人體健康的重要性。
 
@@ -59,6 +61,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
         alt="[Youtube]" width="200">
 </a>
 
+# Why Should You Include Egg Yolks On Keto Diet & Intermittent Fasting Plan? – Dr. Berg
+
 ### 核心主題：蛋黃的健康益處  
 蛋黃被普遍認為是不健康的食品，但其實它具有多種驚人的健康益處。
 
@@ -91,6 +95,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
     <img src="https://img.youtube.com/vi/yvO4GC2fA_M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 5 Reasons Why You Feel Tired On Keto Diet! – Dr. Berg On Intermittent Fasting & Fatigue
 
 ### 文章重點整理
 
@@ -160,6 +166,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
         alt="[Youtube]" width="200">
 </a>
 
+# If I Don't Have Thyroid, Do I Need To Thyroid Hormones (Synthroid) ? – Dr. Berg
+
 ### 小節整理
 
 #### 1. 核心主題
@@ -199,6 +207,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
     <img src="https://img.youtube.com/vi/GfWvF4NTKbA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Happens to Fat Absorption With NO Gallbladder? – Dr. Berg
 
 ### 重点整理： gallbladder 对脂肪吸收的影响及健康建议
 
@@ -260,6 +270,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
         alt="[Youtube]" width="200">
 </a>
 
+# Does Ketosis Damage Your Kidneys? – Dr. Berg
+
 ### 核心主題：酮飲食對腎臟健康的影響
 
 #### 主要觀念：
@@ -295,6 +307,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
     <img src="https://img.youtube.com/vi/GA2TWA3sVCY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How Much Protein On Keto? – Dr. Berg
 
 ### 小節整理：酮egenic Diet與斷食中的蛋白質攝取
 
@@ -357,6 +371,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
     <img src="https://img.youtube.com/vi/RwaBFUDB5RQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 20 Things that Result in Mineral Deficiency – Dr. Berg
 
 ### 小節歸納
 
@@ -427,6 +443,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
         alt="[Youtube]" width="200">
 </a>
 
+# Ever get strange looks when shopping for keto?
+
 ### 小結點整理
 
 #### 核心主題  
@@ -460,6 +478,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
     <img src="https://img.youtube.com/vi/J6RE8AZs6KA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Can I Do Keto & Intermittent Fasting If I am a Diabetic on Metformin and Insulin? – Dr. Berg
 
 ### 文章整理  
 以下為文章的核心要點，按小節分類整理：
@@ -523,6 +543,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
         alt="[Youtube]" width="200">
 </a>
 
+# Is It Safe For Menopausal Women With Adrenal Fatigue To Do Keto & Intermittent Fasting? – Dr. Berg
+
 ### 小節整理：Menopausal Women with Adrenal Fatigue Practicing Keto and Intermittent Fasting
 
 #### 1. **核心主題**
@@ -562,6 +584,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
     <img src="https://img.youtube.com/vi/gRnmzFB04x0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 13 Serious Side Effects of Low Cholesterol (Hypocholesterolemia) – Dr. Berg on Cholesterol Control
 
 ### 文章整理：低膽固醇的 serious side effects 及其影響
 
@@ -623,6 +647,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
     <img src="https://img.youtube.com/vi/QbMrDra_aoo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr.Berg Interviews Keto Blogger Vivica Menegaz on Her New Keto-Paleo Cookbook
 
 ### 文章整理與分析
 
@@ -729,6 +755,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
         alt="[Youtube]" width="200">
 </a>
 
+# 3 Amazing Health Benefits of Radish – Dr.Berg
+
 ### 核心主題  
 - 蘑菇（Radishes）的多樣化健康益處及其在清除此部位、促進整體健康的應用。
 
@@ -781,6 +809,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
     <img src="https://img.youtube.com/vi/TBdLVWBHgNg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is Diabetes Completely Genetic? – Dr.Berg On Type 1 And Type 2 Diabetes
 
 ### 小節歸納
 
@@ -845,6 +875,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
         alt="[Youtube]" width="200">
 </a>
 
+# Low Blood Sugar, Intermittent Fasting & Your Liver – Dr. Berg
+
 ### 核心主題  
 - 低血糖反應在間歇性禁食中的影響  
 - 腎臟功能與低血糖之間的關聯  
@@ -905,6 +937,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
     <img src="https://img.youtube.com/vi/7s8RrJCz8sg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# South Beach Diet Vs Healthy Keto & Intermittent Fasting – Dr. Berg
 
 ### 小節歸納
 
@@ -975,6 +1009,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
     <img src="https://img.youtube.com/vi/V28XNHWHxcc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 13 Things That Spike Insulin – Causes of Insulin Resistance – Dr. Berg
 
 ### 小節歸納
 
@@ -1058,6 +1094,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
         alt="[Youtube]" width="200">
 </a>
 
+# Additional Functions of Insulin (Beyond Lowering Blood Sugar) – Dr. Berg
+
 ### 小節歸納
 
 #### 核心主題
@@ -1099,6 +1137,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
         alt="[Youtube]" width="200">
 </a>
 
+# How to Determine Blood Sugar Level? – A Simple Way by Dr. Berg
+
 
 </details>
 
@@ -1109,6 +1149,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
     <img src="https://img.youtube.com/vi/_5c1vAiPsYc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Ideal Protein Diet vs. Healthy Keto Diet & Intermittent Fasting – Dr. Berg
 
 ### 小芻節整理
 
@@ -1175,6 +1217,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
         alt="[Youtube]" width="200">
 </a>
 
+# The Big Difference Between Gallstones & Kidney Stones – Dr. Berg
+
 ### 文章要點整理
 
 #### 核心主題  
@@ -1234,6 +1278,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
         alt="[Youtube]" width="200">
 </a>
 
+# The Effects of High Blood Sugar on Arteries – Dr. Berg on Arteriosclerosis & Atherosclerosis
+
 ### 一、核心主題  
 - 高血糖對血管系統的危害及其引發的並發症。  
 
@@ -1274,6 +1320,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
     <img src="https://img.youtube.com/vi/HemhTNam580/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Effects of High Blood Sugar On Nerves – Dr. Berg
 
 ### 核心主題：高血糖對神經系統的影響及管理策略
 
@@ -1323,6 +1371,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
     <img src="https://img.youtube.com/vi/d4valTqhkrc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Amazing Health Benefits of Turmeric – Dr. Berg
 
 ### 核心主題：Turmeric（薑黃）的功效與健康益處
 
@@ -1386,6 +1436,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
         alt="[Youtube]" width="200">
 </a>
 
+# Intermittent Fasting, Low Blood Sugar & Adrenals – Dr. Berg
+
 
 </details>
 
@@ -1397,6 +1449,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
         alt="[Youtube]" width="200">
 </a>
 
+# Is Opioid & Heroin Addiction A Symptom Or A Disease? – Dr. Berg
+
 
 </details>
 
@@ -1407,6 +1461,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
     <img src="https://img.youtube.com/vi/jfnrtPWz_7E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Prevent Kidney Stones on Intermittent Fasting (if you are susceptible) – Dr. Berg
 
 ### 核心主題
 - 調理腎臟健康與處理腎结石的方法。
@@ -1443,6 +1499,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
     <img src="https://img.youtube.com/vi/2nNwET7YPVo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Biggest Reason To Eat Organic Meats On Ketogenic Diet – Dr. Berg
 
 ### 核心主題：有機肉與ventional Meat（ traditional meat）在酮飲食或斷食中的健康影響
 
@@ -1495,6 +1553,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
     <img src="https://img.youtube.com/vi/2lTSvNt_hZo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Weight Watchers vs Keto - Who is The Ultimate Winner? – Dr. Berg
 
 ### 核心主題
 - 比較健康酮osis（生酮飲食）與Weight Watchers Diet的優缺點。
@@ -1553,6 +1613,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
         alt="[Youtube]" width="200">
 </a>
 
+# The #1 Rated Best Diet of 2018 – Dash Diet With Lean Protein by Dr. Berg
+
 ### 核心主題：  
 - 探讨DASH饮食与Keto饮食的比较及其健康影响。
 
@@ -1586,6 +1648,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
     <img src="https://img.youtube.com/vi/H5LuUPA8Hvk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Physiology Of Low Blood Sugar (Hypoglycemia) On Your Brain – Dr. Berg
 
 ### 文章整理：低血糖與腦部健康的關係
 
@@ -1661,6 +1725,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
         alt="[Youtube]" width="200">
 </a>
 
+# Don't Take Calcium Supplements If You Have a Heart Condition or Atrial Fibrillation – Dr. Berg
+
 ### 核心主題
 - 鈣質補充劑在心血管疾病中的潛在風險。
 - 約束與房顫（Atrial Fibrillation）相關的鈣質攝取建議。
@@ -1709,6 +1775,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
     <img src="https://img.youtube.com/vi/f9E-fmDRofY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Transition From 2 Meals to One Meal A Day (OMAD) with Intermittent Fasting – Dr. Berg
 
 ### 文章結構整理
 
@@ -1798,6 +1866,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
         alt="[Youtube]" width="200">
 </a>
 
+# Deep Vein Thrombosis (Blood Clots in Legs) & Vitamin E – Dr. Berg
+
 ### 小節整理：深 vein thrombosis (DVT) 與維生素 E 的關係
 
 #### 1. 核心主題：
@@ -1851,6 +1921,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
     <img src="https://img.youtube.com/vi/X90BBYG_lUM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Have You Ever Eaten These Unhealthy Foods? – Dr. Berg on Healthy Eating Vs. Junk Food
 
 ### 文章整理與分析
 
@@ -1907,6 +1979,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
         alt="[Youtube]" width="200">
 </a>
 
+# Back Pain, Bone Pain & Vitamin D Deficiency Connection – Dr. Berg
+
 ### 文章重點整理
 
 #### 核心主題  
@@ -1959,6 +2033,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
     <img src="https://img.youtube.com/vi/rJQ7EV1P7RI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 5 Reasons Why You Need Dietary Healthy Fats For Fat Burning – Dr. Berg
 
 ### 核心主題：脂肪在燃脂過程中的重要作用
 
@@ -2030,6 +2106,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
         alt="[Youtube]" width="200">
 </a>
 
+# What Causes Tremors Besides Parkinson's Disease? – Dr. Berg on Body Tremors
+
 ### 小節歸納
 
 #### 核心主題
@@ -2068,6 +2146,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
     <img src="https://img.youtube.com/vi/6E55JuMp2OY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# A Hidden Cause of Diabetes Type 1 Found in White Flour – Dr. Berg on Blood Sugar & Refined Flour
 
 ### 核心主題
 - **Alloxan** 作為糖尿病（尤其是 type 1 糖尿病）的潛在隱性成因。
@@ -2118,6 +2198,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
         alt="[Youtube]" width="200">
 </a>
 
+# How To Stick To Diet & Stay Consistent With Healthy Eating? – Dr. Berg
+
 ### 核心主題  
 - 探讨人们为何难以坚持健康的饮食习惯及其背后的原因。  
 
@@ -2162,6 +2244,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
     <img src="https://img.youtube.com/vi/l8GTfCJ3nXE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 9 Things To Make Intermittent Fasting Easier – Dr. Berg
 
 ### 核心主題
 - **間歇性斷食的挑戰與策略**  
@@ -2231,6 +2315,8 @@ IODINE 是維持人體多個系統正常功能的重要礦物質，尤其是對�
     <img src="https://img.youtube.com/vi/M7RuGvMJndg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 23 Benefits of Intermittent Fasting & One Meal A Day – Dr. Berg On OMAD Diet
 
 ### 核心主題  
 - 探讨一种名为“OMAD”（One Meal A Day）的单餐日饮食模式，及其与间歇性禁食的关系。  
@@ -2317,6 +2403,8 @@ OMAD作为一种间歇性禁食策略，在改善代谢健康、增强免疫力�
         alt="[Youtube]" width="200">
 </a>
 
+# Compound Exercises to Help Insulin Resistance (Pre-Diabetes) - Dr. Berg
+
 ### 核心主題  
 - **胰島素抵抗（Insulin Resistance）**：一種前期糖尿病狀況，導致胰島素功效降低，引發多種症狀，如餐後疲勞、對甜食的渴望、夜間流汗、腹部肥胖等。
 
@@ -2366,6 +2454,8 @@ OMAD作为一种间歇性禁食策略，在改善代谢健康、增强免疫力�
         alt="[Youtube]" width="200">
 </a>
 
+# Why Your Friends & Family Are Not Doing Keto & Intermittent Fasting? – Dr. Berg
+
 ### 小節整理：為什麼你的朋友和家人都不做 keto 或禁食？
 
 #### 核心主題
@@ -2413,6 +2503,8 @@ OMAD作为一种间歇性禁食策略，在改善代谢健康、增强免疫力�
     <img src="https://img.youtube.com/vi/2J75mqls4Xw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is Your Eczema Coming from a Salicylate Sensitivity? – Dr. Berg On Atopic Dermatitis
 
 ### 核心主題  
 - 探讨濕疹（eczema）的常见诱因之一：水楊酸鹽敏感性（salicylate sensitivity）。  
@@ -2472,6 +2564,8 @@ OMAD作为一种间歇性禁食策略，在改善代谢健康、增强免疫力�
         alt="[Youtube]" width="200">
 </a>
 
+# Getting Enough Nutrients & Calories on Intermittent Fasting ? – Dr. Berg
+
 ### 小節歸納：
 
 #### 1. **核心主題**
@@ -2511,6 +2605,8 @@ OMAD作为一种间歇性禁食策略，在改善代谢健康、增强免疫力�
         alt="[Youtube]" width="200">
 </a>
 
+# Should I Consume Cruciferous Vegetables With a Hypothyroid Condition? – Dr. Berg
+
 ### 核心主題  
 - 探讨甲状腺功能减退（hypothyroidism）患者是否可以摄入十字花科蔬菜（cruciferous vegetables）。  
 
@@ -2543,6 +2639,8 @@ OMAD作为一种间歇性禁食策略，在改善代谢健康、增强免疫力�
     <img src="https://img.youtube.com/vi/vYQWh97-MEo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Ants Love High Fructose Corn Syrup (HFCS) as Much As We Do – Dr. Berg
 
 ### 小節化整理
 
@@ -2594,6 +2692,8 @@ OMAD作为一种间歇性禁食策略，在改善代谢健康、增强免疫力�
         alt="[Youtube]" width="200">
 </a>
 
+# The Benefit Of Egg Yolks On Your Brain Health – Dr. Berg on Egg Nutrition
+
 ### 核心主題
 - 探讨蛋黄在支持和增强大脑功能中的作用。
 
@@ -2635,6 +2735,8 @@ OMAD作为一种间歇性禁食策略，在改善代谢健康、增强免疫力�
     <img src="https://img.youtube.com/vi/dPhafYuey1k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Does a High Fat Diet Causes Gallstones? – Dr. Berg
 
 ### 重點整理
 
@@ -2712,6 +2814,8 @@ OMAD作为一种间歇性禁食策略，在改善代谢健康、增强免疫力�
         alt="[Youtube]" width="200">
 </a>
 
+# The Cause of Heart Palpitations – Dr. Berg on Insulin Resistance & Electrolytes Deficiency
+
 ### 核心主題  
 - Palpitations: 突發性的心跳不規則或加速現象，常令人感到驚嚇。
 
@@ -2752,6 +2856,8 @@ Palpitations主要是由電解質失衡引發，而這又與胰島素抗性和�
     <img src="https://img.youtube.com/vi/skN1VGtQx8A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Slow Metabolism: 4 Ways To Increase Your Metabolism – Dr. Berg
 
 ### 核心主題
 - 本文探討了如何通过生活方式和饮食调整来增加代谢率，特別著重於影響代謝速率的因素及提升方法。
@@ -2806,6 +2912,8 @@ Palpitations主要是由電解質失衡引發，而這又與胰島素抗性和�
         alt="[Youtube]" width="200">
 </a>
 
+# A Quick Test For Adrenal Fatigue – Dr. Berg on Adrenal Function
+
 ### 核心主題  
 - **腺髭功能測試**：介紹一種免費且無創的腺髭功能測試方法。  
 
@@ -2841,6 +2949,8 @@ Palpitations主要是由電解質失衡引發，而這又與胰島素抗性和�
         alt="[Youtube]" width="200">
 </a>
 
+# Do I Need To Eat 100 % Organic Food? – Dr. Berg
+
 
 </details>
 
@@ -2851,6 +2961,8 @@ Palpitations主要是由電解質失衡引發，而這又與胰島素抗性和�
     <img src="https://img.youtube.com/vi/djc7kX0WBvY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Use Intermittent Fasting to Spike Growth Hormone by 2000% – Dr. Berg On Anti-aging
 
 ### 核心主題  
 - 探讨如何通过**限时禁食（intermittent fasting）**有效刺激生长激素（Growth Hormone, GH）分泌。  
@@ -2920,6 +3032,8 @@ Palpitations主要是由電解質失衡引發，而這又與胰島素抗性和�
         alt="[Youtube]" width="200">
 </a>
 
+# Bulletproof Coffee on Keto Diet & Intermittent Fasting – Dr. Berg's Opinion
+
 ### 文章重點整理
 
 #### 核心主題
@@ -2953,6 +3067,8 @@ Palpitations主要是由電解質失衡引發，而這又與胰島素抗性和�
         alt="[Youtube]" width="200">
 </a>
 
+# Managing vs. Correcting Hypoglycemic Reactions [Low Blood Sugar] With Diabetes – Dr. Berg
+
 ### 小節一：核心主題  
 - 論述糖尿病患者在使用胰島素治療過程中常見的低血糖反應（hypoglycemia）及其影響。  
 
@@ -2985,6 +3101,8 @@ Palpitations主要是由電解質失衡引發，而這又與胰島素抗性和�
     <img src="https://img.youtube.com/vi/VOJnT-bfG4w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Home Remedies for Bacterial Vaginosis Treatment - Dr. Berg
 
 ### 核心主題  
 - 阴道菌群失衡：一种由微生物过度生长引起的健康问题。  
@@ -3030,6 +3148,8 @@ Palpitations主要是由電解質失衡引發，而這又與胰島素抗性和�
     <img src="https://img.youtube.com/vi/10jNZleNH9w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Autophagy & Intermittent Fasting – Activate Garbage Recycling & Cell Regeneration – Dr. Berg
 
 ### 文章重點整理
 
@@ -3077,6 +3197,8 @@ Palpitations主要是由電解質失衡引發，而這又與胰島素抗性和�
     <img src="https://img.youtube.com/vi/Yso79G68SAA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Getting Headaches on Keto & Intermittent Fasting? – Dr. Berg
 
 ### 核心主題  
 - 头痛与Keto饮食及间歇性禁食的关系。  
@@ -3158,6 +3280,8 @@ Palpitations主要是由電解質失衡引發，而這又與胰島素抗性和�
         alt="[Youtube]" width="200">
 </a>
 
+# You Need Salt to Improve Insulin Resistance - Dr. Berg on Potassium Deficiency and Pre-Diabetes
+
 ### 核心主題
 - **低鹽飲食對胰島素抵抗的影響**
 - **鹽敏感性與血壓控制**
@@ -3194,6 +3318,8 @@ Palpitations主要是由電解質失衡引發，而這又與胰島素抗性和�
     <img src="https://img.youtube.com/vi/ciyWGKrQbu0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 7 Recommended Supplements for Keto Diet and Intermittent Fasting by Dr.  Berg
 
 ### 核心主題：酮egenic diet（生酮飲食）與intermittent fasting（間歇性斷食）下的推薦補充劑
 
@@ -3235,6 +3361,8 @@ Palpitations主要是由電解質失衡引發，而這又與胰島素抗性和�
         alt="[Youtube]" width="200">
 </a>
 
+# How Lack of Sleep Affects Insulin Resistance & Blood Sugar? – Dr. Berg
+
 ### 小節一：核心主題  
 - 良質睡眠對胰島素抵抗和整體健康的影響。  
 
@@ -3270,6 +3398,8 @@ Palpitations主要是由電解質失衡引發，而這又與胰島素抗性和�
     <img src="https://img.youtube.com/vi/QbuQR6y-2ck/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Causes of High Pulse Rate & Quality of Sleep – Dr. Berg
 
 ### 核心主題  
 - 脈搏率與睡眠質量之間的關聯。  
@@ -3317,6 +3447,8 @@ Palpitations主要是由電解質失衡引發，而這又與胰島素抗性和�
     <img src="https://img.youtube.com/vi/nHnH8wxbdr8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Feeling Cold On Keto (Intermittent Fasting)? – Dr. Berg
 
 ### 核心主題
 - **冷熱交替在 intermittent fasting 中的作用**  
@@ -3366,6 +3498,8 @@ Palpitations主要是由電解質失衡引發，而這又與胰島素抗性和�
         alt="[Youtube]" width="200">
 </a>
 
+# Acceptable Fats on a Keto Diet & Intermittent Fasting – Dr. Berg
+
 ### 核心主題：酮egenic饮食与间歇性禁食中的可接受脂肪源
 
 酮egenic饮食是一种低碳水化合物、高脂肪的饮食方式，旨在通过燃烧脂肪供能来实现体重管理。间歇性禁食则是一种时间限制的进食模式，通常结合酮egenic饮食以增强其效果。
@@ -3405,6 +3539,8 @@ Palpitations主要是由電解質失衡引發，而這又與胰島素抗性和�
         alt="[Youtube]" width="200">
 </a>
 
+# False Hunger Pangs on Intermittent Fasting – Dr. Berg
+
 ### 核心主題
 - 探讨「假性饥饿」（false hunger）的概念及其在限时禁食中的表现。
 
@@ -3443,6 +3579,8 @@ Palpitations主要是由電解質失衡引發，而這又與胰島素抗性和�
         alt="[Youtube]" width="200">
 </a>
 
+# Low Salt Diets, Cholesterol and Blood Pressure (Hypertension) – Dr. Berg
+
 ### 核心主題  
 - 探讨低鹽飲食對血壓、膽固醇和三酸甘油酯的影響。  
 
@@ -3476,6 +3614,8 @@ Palpitations主要是由電解質失衡引發，而這又與胰島素抗性和�
     <img src="https://img.youtube.com/vi/Hi8FBp3V9hg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Cinnamon Benefits for Insulin Resistance & Diabetes – Dr. Berg
 
 ### 核心主題  
 - 文章圍繞着一次划船比賽（Regatta）展開描述。  
@@ -3524,6 +3664,8 @@ Palpitations主要是由電解質失衡引發，而這又與胰島素抗性和�
     <img src="https://img.youtube.com/vi/-ywto4Z_rEI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Intermittent Fasting Is The Best Way To Boost Testosterone? – Dr. Berg
 
 ### 核心主題： intermittnet fasting（間歇性禁食）對 testosterone（睾酮素）水平的影響
 
@@ -3585,6 +3727,8 @@ intermittent fasting 是一種有效的提高睾酮素水平的方法，通過�
         alt="[Youtube]" width="200">
 </a>
 
+# Can Diabetics Eat Potatoes? – Dr.Berg
+
 ### 小节：文章重点整理
 
 #### 1. 核心主题
@@ -3619,6 +3763,8 @@ intermittent fasting 是一種有效的提高睾酮素水平的方法，通過�
     <img src="https://img.youtube.com/vi/wdIwnUqWSew/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Keto Diet & Intermittent Fasting for Beginners & Procrastinators – Dr. Berg
 
 ### 核心主題  
 - 探讨针对拖延症患者的简单有效的减重方法。  
@@ -3685,6 +3831,8 @@ intermittent fasting 是一種有效的提高睾酮素水平的方法，通過�
         alt="[Youtube]" width="200">
 </a>
 
+# Never Do Intermittent Fasting On High Carb Diet – Dr. Berg
+
 ### 核心主題：結合 intermittent fasting 和低碳水化合物飲食的限制與對策
 
 ---
@@ -3734,6 +3882,8 @@ intermittent fasting 是一種有效的提高睾酮素水平的方法，通過�
         alt="[Youtube]" width="200">
 </a>
 
+# Natural (Skin Fungus) Tinea Versicolor Home Remedies – Dr. Berg
+
 ### 小節歸納
 
 #### 核心主題  
@@ -3780,6 +3930,8 @@ intermittent fasting 是一種有效的提高睾酮素水平的方法，通過�
     <img src="https://img.youtube.com/vi/SBRqSUEbndo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Get Rid Of Wrinkles? – Dr. Berg﻿ on Collagen Peptides
 
 ### 文章重點整理
 
@@ -3849,6 +4001,8 @@ intermittent fasting 是一種有效的提高睾酮素水平的方法，通過�
         alt="[Youtube]" width="200">
 </a>
 
+# Don't Like Salads? Add Crispy Onions as Salad Dressing – Dr. Berg
+
 ### 核心主題  
 - 推荐一種提升沙拉口感和食欲的方法：使用酥脆洋葱。  
 
@@ -3884,6 +4038,8 @@ intermittent fasting 是一種有效的提高睾酮素水平的方法，通過�
         alt="[Youtube]" width="200">
 </a>
 
+# Advanced Techniques to Speed Up Weight Loss Beyond Keto & Intermittent Fasting
+
 
 </details>
 
@@ -3894,6 +4050,8 @@ intermittent fasting 是一種有效的提高睾酮素水平的方法，通過�
     <img src="https://img.youtube.com/vi/0nULbW2Qw9s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Do Sit Ups Really Flatten Your Belly? – Dr. Berg
 
 ### 文章重點整理
 
@@ -3956,6 +4114,8 @@ intermittent fasting 是一種有效的提高睾酮素水平的方法，通過�
     <img src="https://img.youtube.com/vi/c9vcESO3kJs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Berries Vs. Fruits On Keto – Dr. Berg﻿ on Glycemic Index Of Fruits
 
 ```pdf
 PDF 文件名稱：Berries and Fruits Consumption Guidelines.pdf  
@@ -4041,6 +4201,8 @@ PDF 文件名稱：Berries and Fruits Consumption Guidelines.pdf
         alt="[Youtube]" width="200">
 </a>
 
+# High Glycemic Foods To Avoid – Dr. Berg
+
 ### 核心主題  
 - 探讨高血糖指数（GI）食物对健康的影响，特别是那些常被误解为“健康食品”的食物。
 
@@ -4085,6 +4247,8 @@ PDF 文件名稱：Berries and Fruits Consumption Guidelines.pdf
     <img src="https://img.youtube.com/vi/cPUiqWuzadM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Top 3 Ways To Lose Weight – Dr. Berg on Weight Loss
 
 ### 核心主題  
 - 探讨三种常见的减肥方式及其效果和局限性。  
@@ -4147,6 +4311,8 @@ PDF 文件名稱：Berries and Fruits Consumption Guidelines.pdf
     <img src="https://img.youtube.com/vi/Od7LYWhcLFs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Are You Itching on a Ketogenic Diet? – Dr. Berg on Keto Rash
 
 ### 小結整理：酮飲食中感到癢的原因及對策
 
@@ -4213,6 +4379,8 @@ PDF 文件名稱：Berries and Fruits Consumption Guidelines.pdf
         alt="[Youtube]" width="200">
 </a>
 
+# 5 Tips To Deal With Old Injuries As You Are Aging – Dr. Berg﻿ On Anti-Aging
+
 ### 核心主題：老傷與年齡相關退化症的管理和預防
 
 ---
@@ -4265,6 +4433,8 @@ PDF 文件名稱：Berries and Fruits Consumption Guidelines.pdf
     <img src="https://img.youtube.com/vi/qbP9e6kcVLE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Causes Insomnia On Keto Diet? – Dr. Berg
 
 ### 核心主題  
 - 介紹失眠與酮egenic（生酮飲食）相關問題，特別是在從事Aikido等活動後出現失眠的情況。
@@ -4324,6 +4494,8 @@ PDF 文件名稱：Berries and Fruits Consumption Guidelines.pdf
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg Evaluates Tara Shimer Symptoms (Part 1)
+
 ### 文章重點整理
 
 #### 1. 核心主題：綜合性健康管理与疾病康复
@@ -4377,6 +4549,8 @@ PDF 文件名稱：Berries and Fruits Consumption Guidelines.pdf
     <img src="https://img.youtube.com/vi/LIzaHVz5218/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Best Remedy for Viruses (Monolaurin) – Dr. Berg
 
 ### 核心主題：Mono Laurel 作為病毒和病菌的天然療法
 
@@ -4436,6 +4610,8 @@ Mono Laurel 作為一種廣譜抗病毒和抗菌劑，顯示出對多種病原�
         alt="[Youtube]" width="200">
 </a>
 
+# Real Cause Of High Blood Pressure (Hypertension) – Dr. Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -4488,6 +4664,8 @@ Mono Laurel 作為一種廣譜抗病毒和抗菌劑，顯示出對多種病原�
     <img src="https://img.youtube.com/vi/OaFwMS8-K-A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Does the Ketogenic Diet Cause Hypothyroidism or Hashimoto’s Thyroiditis – Dr. Berg
 
 ### 文章整理：甲狀腺功能異常的原因、影響及解決策略
 
@@ -4564,6 +4742,8 @@ Mono Laurel 作為一種廣譜抗病毒和抗菌劑，顯示出對多種病原�
         alt="[Youtube]" width="200">
 </a>
 
+# Ketogenic Diet & Intermittent Fasting – Big Overview For Beginners By Dr. Berg
+
 ### 文章整理：酮症及間歇性禁食的健康益處與常見疑問解答
 
 ---
@@ -4638,6 +4818,8 @@ Mono Laurel 作為一種廣譜抗病毒和抗菌劑，顯示出對多種病原�
         alt="[Youtube]" width="200">
 </a>
 
+# Best Way to Measure Insulin Resistance Without Blood Test – Dr. Berg
+
 ### 核心主題
 - 論述評估胰島素抵抗的最佳方法。
 
@@ -4682,6 +4864,8 @@ Mono Laurel 作為一種廣譜抗病毒和抗菌劑，顯示出對多種病原�
         alt="[Youtube]" width="200">
 </a>
 
+# Protein To Fat Ratio On Keto & Intermittent Fasting Plan – Dr. Berg﻿ on Keto Macros
+
 ### 小節整理：蛋白質與脂肪比率的核心探討
 
 #### 1. 核心主題
@@ -4719,6 +4903,8 @@ Mono Laurel 作為一種廣譜抗病毒和抗菌劑，顯示出對多種病原�
     <img src="https://img.youtube.com/vi/1ujevUNrlSM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Benefits of Magnesium – Dr. Berg﻿ on Magnesium Deficiency
 
 ### 文章整理：鎂和健康的重要性
 
@@ -4780,6 +4966,8 @@ Mono Laurel 作為一種廣譜抗病毒和抗菌劑，顯示出對多種病原�
     <img src="https://img.youtube.com/vi/bnzb1pT9cY8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Function Of Pancreas & Pancreatitis – Dr. Berg﻿ on Pancreatic Insufficiency
 
 ### 文章整理：胰腺的功能、失調及其影響
 
@@ -4844,6 +5032,8 @@ Mono Laurel 作為一種廣譜抗病毒和抗菌劑，顯示出對多種病原�
         alt="[Youtube]" width="200">
 </a>
 
+# Taking Branched Chain Amino Acids (BCAA) On Keto & Intermittent Fasting Plan While Exercising
+
 ### 文章整理與分析
 
 #### 1. 核心主題
@@ -4885,6 +5075,8 @@ Mono Laurel 作為一種廣譜抗病毒和抗菌劑，顯示出對多種病原�
         alt="[Youtube]" width="200">
 </a>
 
+# Having Prediabetes & Not Knowing About It – Dr. Berg
+
 # 文章重點整理
 
 ## 核心主題
@@ -4925,6 +5117,8 @@ Mono Laurel 作為一種廣譜抗病毒和抗菌劑，顯示出對多種病原�
     <img src="https://img.youtube.com/vi/IXHn7mWErDE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Is Worse Than High Fructose Corn Syrup (HFCS) For Causing Weight Gain? – Dr.Berg
 
 ### 文章整理：高油	Global oils and health implications: focus on soy oil
 
@@ -4972,6 +5166,8 @@ Mono Laurel 作為一種廣譜抗病毒和抗菌劑，顯示出對多種病原�
     <img src="https://img.youtube.com/vi/wrrqw0rs5ok/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# #1 Cause & Treatment for Erectile Dysfunction Without Drugs – Dr.Berg
 
 ### 核心主題
 - **核心主題**: 解決勃起功能障礙（Erectile Dysfunction, ED）的根本方法。
@@ -5048,6 +5244,8 @@ Mono Laurel 作為一種廣譜抗病毒和抗菌劑，顯示出對多種病原�
         alt="[Youtube]" width="200">
 </a>
 
+# Best Treatment For Spider Veins & Chronic Venous Insufficiency – Dr. Berg
+
 ### 小結
 
 #### 核心主題
@@ -5092,6 +5290,8 @@ Mono Laurel 作為一種廣譜抗病毒和抗菌劑，顯示出對多種病原�
     <img src="https://img.youtube.com/vi/HBSIfO1YYMc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Blood Sugar Levels Terminology Made Simple – Dr.Berg On Glycemic Index & Insulin
 
 ### 文章整理：血糖相關概念與健康管理
 

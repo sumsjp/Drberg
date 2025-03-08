@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Use Aged Garlic for High Blood Pressure
+
 ### 核心主題  
 - 調查研究表明，.Age Garlic.（ aged garlic ）在治療高血壓方面與常規藥物（如阿替洛爾）具有相似的效果，且副作用较少。  
 
@@ -76,6 +78,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Echinacea is as Effective as Tamiflu for the Flu
+
 
 </details>
 
@@ -86,6 +90,8 @@
     <img src="https://img.youtube.com/vi/SUPlWpf6vY4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best Bladder Remedy I Know
 
 ### 核心主題  
 - 推荐一种名为Baruna的传统天然療法，用于治療膀胱和泌尿系統相關問題。
@@ -132,6 +138,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Cortisol (Stress) and Vitamin D Levels
+
 ### 小節歸納
 
 #### 核心主題
@@ -173,6 +181,8 @@
     <img src="https://img.youtube.com/vi/C5-woTbSCdI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Mitochondrial Protector: AMPK
 
 ### 文章整理與結構化分析
 
@@ -229,6 +239,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Benefits of Hawthorn Berry
+
 ### 核心主題  
 - 探讨山楂 berry extract 作为一种自然疗法在治疗心绞痛和不规则心跳中的作用。
 
@@ -264,6 +276,8 @@
     <img src="https://img.youtube.com/vi/CW2--UKCziU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Four Natural Remedies for Organ Transplant
 
 ### 核心主題
 - 探讨自然療法在器官移植術後的應用。
@@ -324,6 +338,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# HIIT vs. Cardio: Which Is Better for Your Heart?
+
 ### 文章重點整理
 
 #### 核心主題
@@ -360,6 +376,8 @@
     <img src="https://img.youtube.com/vi/v6-GadA80v8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Tired on Keto?
 
 ### 核心主題  
 - 論述酮體制（keto）及間歇性禁食背景下疲勞的原因與解決方法。
@@ -439,6 +457,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What Causes Gastritis?
+
 ### 核心主題：胃炎（Gastritis）及相關炎症問題
 
 ---
@@ -506,6 +526,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Carbs Are the Most Important Fuel Source: REALLY?
+
 ### 小節一：核心主題  
 - 探讨碳水化合物（carbohydrates）作为主要能量来源的传统观念是否正确。  
 - 强调酮体（ketones）在人体能量代谢中的重要作用及其健康益处。  
@@ -569,6 +591,8 @@
     <img src="https://img.youtube.com/vi/fKnyQjL_NpY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Take Apple Cider Vinegar (AVC) Before Bed
 
 ### 核心主題  
 - 探讨服用蘋果醋（Apple Cider Vinegar, ACV）在睡前的健康益處，特別是對血糖控制的作用。
@@ -634,6 +658,8 @@
     <img src="https://img.youtube.com/vi/-uYsq1axkKE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Fixing Lumbar Disc Pain
 
 ### 一、核心主題：腰椎 discs 疼痛的原因與管理
 
@@ -719,6 +745,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Best Diet for Autism
+
 ### 核心主題：自閉症兒童的最佳飲食結構
 
 ### 主要觀念：
@@ -782,6 +810,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Can Ascites Be Fixed?
+
 ### 小節一：核心主題 - 何謂腹水（Ascites）
 - 腹水是一種腹部積液的臨床症狀，通常表現為腹部膨隆。
 - 液體主要來自於腹腔內的液體滯留，而非脂肪堆積。
@@ -837,6 +867,8 @@
     <img src="https://img.youtube.com/vi/glERE0OJZAs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Danger of Getting the Wrong Diagnosis
 
 ### 文章重點整理
 
@@ -925,6 +957,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# On Keto But Slow Weight Loss
+
 ### 核心主題  
 - **低碳水化合物饮食（酮饮食）**：探讨在酮饮食中遇到体重下降缓慢或停滞的问题及其解决方案。
 
@@ -996,6 +1030,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Who Should NOT Take Magnesium
+
 ### 文章重點整理
 
 #### 核心主題  
@@ -1044,6 +1080,8 @@
     <img src="https://img.youtube.com/vi/mfgpEVroBPU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Would Happen If You Got 9 hours of Sleep for 7 Days
 
 ### 文章重點整理
 
@@ -1096,6 +1134,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Fastest Way To Get Fat That I Know
+
 ### 小節歸納
 
 #### 核心主題
@@ -1135,6 +1175,8 @@
     <img src="https://img.youtube.com/vi/Pib5BVgqkV4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Autophagy: Exercise vs. Fasting
 
 ### 核心主題
 
@@ -1219,6 +1261,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Digestive Issues When Breaking a Fast?
+
 ### 核心主題：  
 - 長時間禁食後重新进食可能引發消化系統問題。
 
@@ -1290,6 +1334,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Vitamin D and Hair Loss
+
 ### 核心主題：
 - **維生素D與頭髮健康的關聯**：文章探討了維生素D在頭髮健康中的重要作用，特別是在防止脫發方面。
 
@@ -1356,6 +1402,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What Garlic Does to the Liver
+
 
 </details>
 
@@ -1366,6 +1414,8 @@
     <img src="https://img.youtube.com/vi/4uoCRPVbWdM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Can Your Pulse Rate Tell How Long You'll Live?
 
 # 文章摘述與分析
 
@@ -1422,6 +1472,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# 6 Exercises for a Double Chin
+
 ### 核心主題  
 - 論述如何消除或改善雙下巴（double chin）問題。
 
@@ -1468,6 +1520,8 @@
     <img src="https://img.youtube.com/vi/O0B8vRvIY2Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Makes Good Bacteria Turn Bad
 
 ### 文章整理：有害菌的轉化及其影響
 
@@ -1547,6 +1601,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Does the Bullseye Rash Mean Lyme Disease?
+
 ### 文章重點整理
 
 #### 核心主題
@@ -1597,6 +1653,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Tea Drinkers Should Be Taking Vitamin B1
+
 ### 核心主題  
 - 紅茶消費對維生素B1（硫胺素）水平的影響及其健康后果。
 
@@ -1643,6 +1701,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Zinc Starves Deadly Bacteria
+
 ### 小節歸納
 
 #### 1. 核心主題
@@ -1680,6 +1740,8 @@
     <img src="https://img.youtube.com/vi/dLNAO-w35-4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What is Iodine Good For?
 
 ### 文章整理：碘的功能與重要性
 
@@ -1746,6 +1808,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The First Sign of a Vitamin F Deficiency
+
 ### 核心主題：維生素F缺乏症的早期徵兆與飲食調整
 
 #### 主要觀念：
@@ -1789,6 +1853,8 @@
     <img src="https://img.youtube.com/vi/SFSCcG53H6c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 7 Things that Can Pull You Out of Depression
 
 ### 核心主題：BDNF（腦源性神經營養因子）在抑鬱中的作用及增強方法
 
@@ -1862,6 +1928,8 @@ BDNF在腦健康和情緒調節中扮演關鍵角色。雖然無法直接診斷�
         alt="[Youtube]" width="200">
 </a>
 
+# The Health Benefits of Paprika
+
 ### 核心主題：Paprika 的健康益處  
 Paprika作为一种由干燥红色辣椒制成的香料，在预防眼部疾病、抗炎、抗癌风险和保护皮肤方面具有多种健康益处。
 
@@ -1910,6 +1978,8 @@ Paprika富含多種具有抗氧化、抗炎和護眼效果的活性成分。作�
     <img src="https://img.youtube.com/vi/PQWDBd2wASg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Intermittent Fasting Could Replace Insulin for Diabetes
 
 ### 核心主題
 - **間歇性禁食（Intermittent Fasting, IF）** 作為控制血糖和治療2型糖尿病的新方法。
@@ -1968,6 +2038,8 @@ Paprika富含多種具有抗氧化、抗炎和護眼效果的活性成分。作�
     <img src="https://img.youtube.com/vi/iB1_KJAvG-0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The #1 Top Selling Multivitamin in the World
 
 ### 核心主題  
 - 探讨市面上最畅销的多维生素矿物质补充剂的核心问题及其成分分析。
@@ -2046,6 +2118,8 @@ Paprika富含多種具有抗氧化、抗炎和護眼效果的活性成分。作�
     <img src="https://img.youtube.com/vi/VvNxY8rThQM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The 10th Reason Why You Are Vitamin D Deficient
 
 ### 小節一：核心主題  
 - **核心主題**：本文探討了導致維生素D缺乏的十大原因之一，特別強調了基因多型性（Polymorphism）對維生素D吸收和功能的影響。
@@ -2128,6 +2202,8 @@ Paprika富含多種具有抗氧化、抗炎和護眼效果的活性成分。作�
         alt="[Youtube]" width="200">
 </a>
 
+# The Master Protector Gene: How to Trigger It
+
 ### 核心主題
 - NRF2基因：NRF2（核因子E2相关蛋白1）是一种关键基因，主要负责激活细胞的抗氧化和解毒防御机制。
 - 生物防御网络：该基因调控着数百个与抗氧化、 detoxification相关的基因，形成了体内复杂的生物防御网络。
@@ -2175,6 +2251,8 @@ Paprika富含多種具有抗氧化、抗炎和護眼效果的活性成分。作�
     <img src="https://img.youtube.com/vi/NRB8ZF8gpKg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Tried to Starve Myself to Death, But Something Else Happened
 
 ### 文章重點整理
 
@@ -2244,6 +2322,8 @@ Paprika富含多種具有抗氧化、抗炎和護眼效果的活性成分。作�
     <img src="https://img.youtube.com/vi/f5752J6YBag/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Fasting Makes You Irritable and Angry
 
 ### 核心主題
 - ** fasting和低碳飲食對情緒和耐受性的影响**  
@@ -2324,6 +2404,8 @@ Paprika富含多種具有抗氧化、抗炎和護眼效果的活性成分。作�
         alt="[Youtube]" width="200">
 </a>
 
+# Why Don't Chickens that Eat Ticks Get Lyme Disease
+
 ### 小節歸納
 
 #### 1. 核心主題
@@ -2364,6 +2446,8 @@ Paprika富含多種具有抗氧化、抗炎和護眼效果的活性成分。作�
     <img src="https://img.youtube.com/vi/qAf3moFxZKU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Heart Disease Starts at Age 7
 
 ### 文章整理：早期心血管疾病 prevention 與干預策略
 
@@ -2431,6 +2515,8 @@ Paprika富含多種具有抗氧化、抗炎和護眼效果的活性成分。作�
         alt="[Youtube]" width="200">
 </a>
 
+# Stress Destroys Your Muscles
+
 ### 文章主題：壓力與肌肉萎縮之間的關聯
 
 ---
@@ -2486,6 +2572,8 @@ Paprika富含多種具有抗氧化、抗炎和護眼效果的活性成分。作�
     <img src="https://img.youtube.com/vi/hSoDtNrVzV0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Curcumin vs. Prozac for Depression: What Does the Data Show
 
 ### 文章重點整理
 
@@ -2548,6 +2636,8 @@ Paprika富含多種具有抗氧化、抗炎和護眼效果的活性成分。作�
         alt="[Youtube]" width="200">
 </a>
 
+# Use Ginger for Painful Menstrual Period
+
 ### 核心主題
 
 - 探讨ginger作为缓解痛经（月經疼痛）的自然療法的效果及其机制。
@@ -2604,6 +2694,8 @@ Paprika富含多種具有抗氧化、抗炎和護眼效果的活性成分。作�
     <img src="https://img.youtube.com/vi/OhD9C89hrqk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Benefits of Moringa
 
 ### 核心主題  
 - 探讨Moringa植物（辣木）的多方面益处及其作为超级食品的地位。
@@ -2665,6 +2757,8 @@ Moringa（辣木）作為「奇蹟之樹」，不僅在營養價值上遠超多�
     <img src="https://img.youtube.com/vi/25D2vg37DL0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Get More REM Sleep
 
 ### 核心主題：改善 REM 睡眠質量
 
@@ -2741,6 +2835,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
+# Why Stress Makes Your Hair Gray
+
 ### 核心主題
 - 研究壓力如何導致早白髮的機制。
 
@@ -2778,6 +2874,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
     <img src="https://img.youtube.com/vi/6fPFjJc8_OA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Do You Need a New Liver?
 
 ### 小節整理：肝臟移植與肝臟修復之路
 
@@ -2822,6 +2920,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
     <img src="https://img.youtube.com/vi/n4ydqH2-AAI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Animals Resistant to Diseases that Kill Humans
 
 ### 小節化文章整理：動物對某些人類疾病的抵抗力
 
@@ -2912,6 +3012,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
+# The Health Benefits of Citrus
+
 ### 核心主題  
 - **柑橘類水果的健康益處**：文章主要探討了檸檬和萊姆（以及 oranges 和 grapefruits）的營養價值及其對健康的多方面益處。
 
@@ -2961,6 +3063,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
+# Tryptophan Is Better Than Melatonin for Sleep
+
 
 </details>
 
@@ -2971,6 +3075,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
     <img src="https://img.youtube.com/vi/YLXmhz-AKEU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Most Unhealthy Diet in the World
 
 ### 小節歸納
 
@@ -3048,6 +3154,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
+# Why Is Everyone Getting Shingles?
+
 ### 範例格式：
 
 **[核心主題]**  
@@ -3115,6 +3223,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
+# Can Olive Oil be the Next Ibuprofen?
+
 ### 核心主題  
 - 探讨天然抗炎物质的可能性及其在炎症管理中的应用。  
 
@@ -3148,6 +3258,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
     <img src="https://img.youtube.com/vi/NRRr6ZjKaxQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Do Fasting For Fear-Related Disorder
 
 ### 文章整理：斷食對恐懼相關障礙的效果與機制
 
@@ -3211,6 +3323,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
     <img src="https://img.youtube.com/vi/z3fIF0kmRhs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Most Common Cause of Hypoglycemia
 
 # 文章整理：低血糖的原因與管理
 
@@ -3290,6 +3404,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
+# Cottage Cheese vs. Plain Yogurt: Which is More Keto?
+
 ### 核心主題
 - 比較乳酪（Cottage Cheese）與普通酸奶（Plain Yogurt）的營養價值及健康影響。
 
@@ -3332,6 +3448,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
     <img src="https://img.youtube.com/vi/ZkpD2CzMV4o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Amazing Fatty Liver Success Story: Dr. Berg
 
 ### 小節整理：
 
@@ -3407,6 +3525,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
+# Transitioning Off Psychiatric Drugs
+
 ### 關鍵點整理
 
 #### 核心主題
@@ -3451,6 +3571,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
+# How Fasting Influences the Autonomic Nervous System
+
 ### 核心主題
 - **自覺神經系統（Autonomic Nervous System, ANS）**：包括三個主要部分——交感神經系統（Sympathetic Nervous System, SNS）、副交感神經系統（Parasympathetic Nervous System, PNS）和腸神经系统（Enteric Nervous System, ENS）。
 - **禁食對自覺神經系統的影響**：研究顯示，禁食可以顯著改善副交感神經系統的功能並抑製交感神經系統的活動。
@@ -3494,6 +3616,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
     <img src="https://img.youtube.com/vi/OlV-98bp7z4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Calcium Deficiency vs. Vitamin D Deficiency
 
 ### 小節歸納
 
@@ -3549,6 +3673,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
+# Always Stretch AFTER Your Workout Not Before
+
 ### 文章重點整理
 
 #### 核心主題
@@ -3594,6 +3720,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
     <img src="https://img.youtube.com/vi/O3EQ_w5yDKo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Are You Getting Enough Sulfur in Your Diet?
 
 ### 文章整理：硫在飲食中的重要性及其對健康的影響
 
@@ -3653,6 +3781,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
+# How to Overcome Infertility
+
 ### 文章整理：提升女性生育能力的核心策略
 
 #### 核心主題
@@ -3699,6 +3829,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
     <img src="https://img.youtube.com/vi/IrStg3cn2u0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Happens If You Stop Eating Bread for 14 Days
 
 ### 核心主題
 - **短期麸質和精緻碳水化合物攝取影響**  
@@ -3776,6 +3908,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
+# Always Eat Mushrooms Cooked
+
 # 文章重點整理
 
 ## 核心主題
@@ -3825,6 +3959,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
+# The Mid-Back Stress Connection
+
 ### 核心主題：中背部與壓力水平的關聯性  
 - 探讨中背部結構如何影響身體的壓力反應機制。  
 
@@ -3863,6 +3999,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
     <img src="https://img.youtube.com/vi/8oBGJn64-2M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Potassium Controls Vascular Calcification
 
 ### 核心主題
 - **assium對動脈鈣化和僵硬性的作用**
@@ -3905,6 +4043,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
     <img src="https://img.youtube.com/vi/1T_L9qBcePk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Missing Mineral in Strong Bones
 
 ### 文章整理
 
@@ -3962,6 +4102,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
+# Drink Green Tea for Your Skin
+
 ### 核心主題  
 - 綠茶（Green Tea）對皮膚健康的多種益處，包括抗氧化、抗炎、促進膠原蛋白生成等。
 
@@ -4010,6 +4152,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
+# Health Benefits of Turmeric
+
 ### 核心主題  
 - 探讨 turmeric（薑黃）及其活性成分 curcumin 在治療腸道炎症性疾病（如潁泄性腸躁症、溃疡性結腸炎和克隆氏病）中的作用。  
 
@@ -4041,6 +4185,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
     <img src="https://img.youtube.com/vi/MU5G_VLzWZE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best Exercise for Diabetes
 
 ### 文章整理：糖尿病及前期糖病的最佳運動方式
 
@@ -4078,6 +4224,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
     <img src="https://img.youtube.com/vi/a-gi0K6BBlU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Another Reason Why You Should do Healthy Keto
 
 ### 文章整理：健康酮飲食與 nutrient 吸收改善的核心價值
 
@@ -4153,6 +4301,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
+# The Best Food for Wrinkles
+
 ### 小結：皮膚老化的原因及改善方法
 
 ---
@@ -4215,6 +4365,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
+# Why Eating Eggs Helps Your Brain
+
 ### 核心主題： 
 - 電蛋攝取對腦部健康的多方面益處。
 
@@ -4261,6 +4413,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
     <img src="https://img.youtube.com/vi/9yzC60IZk7M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Use Beets to Detox Your Liver
 
 ### 核心主題：甜菜（Beet）的健康益處與其在肝臟解毒中的作用
 
@@ -4321,6 +4475,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
     <img src="https://img.youtube.com/vi/8x4yuukUSFc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Right Shoulder and Neck Tightness is Gallbladder or Liver
 
 ### 文章整理：右側肩頸痠痛與肝膽問題的關聯及解決方案
 
@@ -4390,6 +4546,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
+# Natural Flavors Don't Mean Vegan
+
 ### 小節一：核心主題  
 - 自然香料 vs. 人工香料的區別及其健康影響。  
 
@@ -4432,6 +4590,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
     <img src="https://img.youtube.com/vi/2mrp1wgW9Z4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The #1 Sign of High Cortisol
 
 ### 文章整理：高皮質醇症狀與影響
 
@@ -4484,6 +4644,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
+# Apple Cider Vinegar (AVC) for Your Dog
+
 ### 核心主題  
 - 探讨苹果醋（Apple Cider Vinegar, ACV）在宠物健康管理中的应用，特别是对狗的作用。
 
@@ -4534,6 +4696,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
+# Eat One Brazil Nut Each Day
+
 ### 核心主題
 - **巴西堅果的每日攝取價值**
 - **硒元素的重要性及全球缺乏狀況**
@@ -4571,6 +4735,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
     <img src="https://img.youtube.com/vi/OL6UD4DLn7A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Gastric Ulcers Are a Zinc Deficiency
 
 ### 核心主題
 - 探讨主流医学对饮食与溃疡关系的看法及其局限性。
@@ -4634,6 +4800,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
     <img src="https://img.youtube.com/vi/LAtgt5NYygo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Avoid ALL Keto Side Effects Easily
 
 ### 小結點整理
 
@@ -4706,6 +4874,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
+# The Side Effects of Skipping Breakfast
+
 ### 小結
 
 #### 核心主題
@@ -4751,6 +4921,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
     <img src="https://img.youtube.com/vi/SIspwIe1Dtw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best Protein for Recovery from Exercise, Stress and Trauma
 
 ### 小節歸納
 
@@ -4811,6 +4983,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
+# Do Intermittent Fasting for ADHD
+
 ### 核心主題：間歇性禁食對 ADHD 的影響  
 - 研究顯示，間歇性禁食和長期禁食（如72小時）可以顯著影響腦部的前額葉功能。  
 - 前額葉負責注意力、決策、組織和計劃等高級認知功能。  
@@ -4850,6 +5024,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
     <img src="https://img.youtube.com/vi/rKOSf0BAzCg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Can Stress Cause an Infection?
 
 # 文章整理：壓力對免疫系統及感染影響之探討
 
@@ -4914,6 +5090,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
+# Exercise vs. Physical Work: What is Better for Sleep?
+
 ### 核心主題
 - 比較體育鍛煉和物理工作對睡眠質量的影響。
 - 探讨身體活動在壓力管理和睡眠改善中的作用。
@@ -4958,6 +5136,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
     <img src="https://img.youtube.com/vi/RRdZ2WcZk2o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Friendly Bacteria and Fungus Gut Relationship
 
 ### 文章整理：腸道菌群與真菌的相互作用及其意義
 
@@ -5012,6 +5192,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
+# The Number One Best Exercise for Depression
+
 ## 文章整理報告
 
 ### 1. 核心主題  
@@ -5053,6 +5235,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
+# Bile Acid Diarrhea
+
 ### 核心主題：膽汁酸性腹瀉的機制與管理
 
 #### 主要觀念：
@@ -5091,6 +5275,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
     <img src="https://img.youtube.com/vi/boTzigj646Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Benefits of TUDCA
 
 ### 文章重點整理
 
@@ -5148,6 +5334,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
+# Make Sure Your Kids Get Enough Zinc
+
 ### 核心主題  
 - 鉄 deficiency in children, particularly during early childhood, can have significant neurological and cognitive impacts.  
 - Zinc plays a critical role in supporting brain function, including reasoning, memory, and attention.  
@@ -5201,6 +5389,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
+# Why Do You Get Gout in Your Big Toe?
+
 ### 小節整理：高尿酸血症與痛風的核心主題
 
 1. **核心主題**：
@@ -5243,6 +5433,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
+# Use Probiotics for Dandruff
+
 
 </details>
 
@@ -5253,6 +5445,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
     <img src="https://img.youtube.com/vi/qxbCNepGhP8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Best Treatment for Eye Floaters
 
 ### 文章整理：眼浮沉的最佳治療方案
 
@@ -5305,6 +5499,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
     <img src="https://img.youtube.com/vi/E6X-8b38AXE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Weird Taste in Your Mouth: 9 Causes
 
 # 文章要點整理
 
@@ -5381,6 +5577,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
+# No Willpower to Start Intermittent Fasting?
+
 ### 核心主題  
 - **自我控制的重要性**：文章強調了將斷食視為訓練意志力的手段，將自我控制（willpower）定義為一種可以通過間歇性斷食來提升的能力。  
 
@@ -5415,6 +5613,8 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
     <img src="https://img.youtube.com/vi/TUi_9SUWdRQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Yellow Bumpy Patches Around the Eyelids
 
 ### 核心主題
 - 文章圍繞多個看似雜亂無章的主題展開，涉及技術、法律、健康、娛樂和個人體驗等多個方面。

@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Perfect Intermittent Fasting Ratio for Maximum Weight Loss (Fat Burning) – Dr.Berg
+
 ### 小節歸納
 
 #### 1. 核心主題：間歇性禁食的最佳比例與脂肪燃燒效果  
@@ -47,6 +49,8 @@
     <img src="https://img.youtube.com/vi/vjMYfJaYxjw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Can I Eat Pomegranates on a Ketogenic Diet? – Dr. Berg on Keto Friendly Fruits
 
 ### 文章整理：在生酮飲食中使用石榴汁的核心探討
 
@@ -91,6 +95,8 @@
     <img src="https://img.youtube.com/vi/-lE1r4d7nHg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Is Dried Fruit Bad For You? – Dr. Berg On Sugar In Fruits
 
 ### 文章重點整理
 
@@ -177,6 +183,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Why Alkalizing Your Entire Body Is Dangerous? – Dr. Berg
+
 ### 小節歸納
 
 #### 核心主題
@@ -229,6 +237,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Natural Ways to Raise Dopamine Levels – Dr. Berg
+
 ### 文章整理： dopamine 的作用與管理
 
 #### 核心主題
@@ -278,6 +288,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Fruit Fructose vs. High Fructose Corn Syrup (HFCS) – Dr. Berg﻿ on Artificial Sweeteners
+
 ### 小節一：核心主題  
 - 比較天然水果中的果糖與加工食品中使用的高果糖玉米 syrup（HFCS）之間的差異。  
 - 探讨果糖的代謝特性及其对人体健康的影响，特別是其在肥胖、肝病和癌症等方面的作用。  
@@ -325,6 +337,8 @@
     <img src="https://img.youtube.com/vi/JZzoSGiyWUg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The 4 Causes of Feeling Too Cold – Dr. Berg
 
 ### 文章整理：身體寒冷的原因及解決方案
 
@@ -398,6 +412,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Subclinical Vitamin B1 Deficiency: Causes & Symptoms By Dr. Berg
+
 ### 核心主題：亞clinical維生素B1缺乏症  
 - 維生素B1（硫胺素） deficiency 可能不會立即在血液檢查中顯示出來，屬於subclinical狀態。
 - 這種缺乏症是逐漸惡化的，可能導致多種神經系統和全身性症狀。
@@ -433,6 +449,8 @@
     <img src="https://img.youtube.com/vi/H5qsjl1_gH8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Excessive Thinking, Focus & Adrenal Function Explained By Dr. Berg
 
 ### 文章整理： excessive thinking, focus, and adrenal health
 
@@ -492,6 +510,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Can't Stop Late Night Snacking (Grazing) on Intermittent Fasting? – Simple Tips by Dr. Berg
+
 
 </details>
 
@@ -502,6 +522,8 @@
     <img src="https://img.youtube.com/vi/M7Ijg9d8p8g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Dangers of Sugar – Karen & Dr.Berg's Discussion
 
 ### 文章整理
 
@@ -568,6 +590,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Wheatgrass Juice Powder and Mineral-Rich Soils – Dr. Berg’s Interview
+
 ### 小節整理
 
 #### 1. 核心主題
@@ -611,6 +635,8 @@
     <img src="https://img.youtube.com/vi/cjNuUz1CWb0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How Does Intermittent Fasting Boost The Immune System? – Dr.Berg
 
 ### 小節歸納
 
@@ -666,6 +692,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What is the Best Food for Good (Friendly) Bacteria? – Dr. Berg
+
 ### 核心主題  
 - 肠道友好菌群的营养供给及其重要性。
 
@@ -699,6 +727,8 @@
     <img src="https://img.youtube.com/vi/-9B73k9CxP8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# High & Low Lectin Foods & Digestive Problems Explained by Dr.Berg
 
 # 文章重點整理：lectins的作用與影響
 
@@ -757,6 +787,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Benefits of Butter: Why Butter Helps You Lose Weight – Dr. Berg
+
 ### 核心主題
 - 探讨黄油（Butter）在体重管理和代谢健康中的潜在作用。
 - 指出传统观念认为黄油会导致体重增加，但实际数据表明其可能有帮助。
@@ -796,6 +828,8 @@
     <img src="https://img.youtube.com/vi/QTWPnJ8T4hk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Saturated Fats Are Healthy – Real Reasons Explained By Dr. Berg
 
 ### 文章重點整理
 
@@ -856,6 +890,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Hepatitis C Treatment – The Best Hepatitis C Natural Remedies By Dr. Berg
+
 ### 小節整理： hepatitis C 的治療與管理
 
 #### 1. 核心主題  
@@ -909,6 +945,8 @@
     <img src="https://img.youtube.com/vi/khq99iz9iV8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Eating When Not Hungry During Ketosis or Intermittent Fasting? – Dr. Berg
 
 ### 小節化整理
 
@@ -977,6 +1015,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Nutritional Benefits of Sprouts Explained By Dr. Berg
+
 # 文章整理與分析
 
 ## 核心主題  
@@ -1019,6 +1059,8 @@
     <img src="https://img.youtube.com/vi/sfYomzrUjN8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Sleeping Schedule: Your SLEEP and Working 3rd Shift – Dr.Berg
 
 ### 核心主題  
 - **影響睡眠品質的因素**：強調工作第三班（夜班）對睡眠品質及健康的影響，特別是與心血管功能、能量水平和體重管理相關。
@@ -1064,6 +1106,8 @@
     <img src="https://img.youtube.com/vi/yTTX2yBEeIU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Keto Friendly Onion Crackers Recipe – Dr.Berg
 
 ### 文章總結與分析
 
@@ -1114,6 +1158,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Understanding Food Labels: What To Focus On – Dr. Berg
+
 # 营养标签阅读指南：关键要点解析
 
 ## 核心主题
@@ -1160,6 +1206,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How to Make Quiche – Keto Friendly Recipe – Dr. Berg
+
 ### 文章重點整理
 
 #### 核心主題：
@@ -1195,6 +1243,8 @@
     <img src="https://img.youtube.com/vi/lPeOKjOmnG0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Prevent Diabetes & its Complications Explained By Dr. Berg
 
 ### 文章整理：糖尿病預防的關鍵與策略
 
@@ -1252,6 +1302,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Intermittent Fasting – Bigger Meals – Avoiding Excessive Bloating – Dr. Berg
+
 ### 核心主題  
 - **間歇性禁食與大餐的平衡**：探討在進行間歇性禁食時，如何避免因大餐引起的腹脹問題。  
 
@@ -1298,6 +1350,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Is Bottled Lemon Juice Rich in Vitamin C? – Dr.Berg
+
 ### 核心主題
 - 探讨柠檬汁中维生素C的实际含量及其是否为显著来源。
 
@@ -1331,6 +1385,8 @@
     <img src="https://img.youtube.com/vi/zUIZBIN_8EQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Weight Loss Plateau 101 for a Slow Metabolism – Dr.Berg
 
 ### 小節一：文章核心主題  
 1. 文章圍繞著個人生活、情感體驗以及對周遭環境的觀察展開，涉及個人成長、健康狀況、社會現象等多個方面。  
@@ -1373,6 +1429,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Keto Biscuits Recipe by Dr.Berg
+
 ### 核心主題：尋找適合載體的榖物產品
 
 #### 主要觀念：
@@ -1409,6 +1467,8 @@
     <img src="https://img.youtube.com/vi/dyDxb6Ysw4o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Raw Foods vs. Cooked Foods and Enzymes – Dr.Berg
 
 ### 核心主題：酶在食物消化与人体健康中的作用
 
@@ -1475,6 +1535,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Use Thyme Oil & Intermittent Fasting for Candida – Dr. Berg
+
 ### 核心主題
 - 探讨百里香油（Thymus vulgaris）在治疗念珠菌感染中的作用。
 - 提供针对念珠菌症状的健康建议。
@@ -1509,6 +1571,8 @@
     <img src="https://img.youtube.com/vi/Yb4HPDw3mIs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Key Vitamins & Minerals on a Ketogenic Diet Plan – Dr.Berg
 
 ### 文章整理與結構化分析
 
@@ -1566,6 +1630,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What is ORAC (Oxygen Radical Absorbance Capacity): Antioxidant Rating – Dr.Berg
+
 ### 小節歸納：
 
 #### 1. 核心主題：
@@ -1604,6 +1670,8 @@
     <img src="https://img.youtube.com/vi/xLKVNHn6Fy8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Weight Loss Problem: Overweight People Have Hard Time Losing Fat – Dr. Berg
 
 ### 核心主題  
 - 肥胖者難以輕易減重的原因與胰島素抵抗（Insulin Resistance）有關。
@@ -1655,6 +1723,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Keto And Cholesterol: Why LDL Can Increase on Low Carb Diet – Dr. Berg
+
 ### 核心主題  
 - 探讨低碳水饮食（如低碳、生酮饮食）期间胆固醇升高的原因及其科学解释。
 
@@ -1697,6 +1767,8 @@
     <img src="https://img.youtube.com/vi/Y-SOmLTahfI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What is "Too Much" Fat on Keto (ketogenic diet)? – Dr. Berg
 
 ### 文章整理：酮飲食中脂肪攝取過量的影響及處理策略
 
@@ -1742,6 +1814,8 @@
     <img src="https://img.youtube.com/vi/OlP9j1Z2Qbo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Vitamin B1 Deficiency Symptoms in Diabetes & Hypoglycemia – Dr.Berg
 
 ### 文章重點整理
 
@@ -1814,6 +1888,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Glycemic Index vs Glycemic Load (In Simple Terms) – Dr. Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -1865,6 +1941,8 @@
     <img src="https://img.youtube.com/vi/F9PmycCGC14/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Keto Success Stories – Lost 80 Pounds On Keto – Dr. Berg's Skype Interview With Jennifer Rogers
 
 ### 文章重點整理
 
@@ -1927,6 +2005,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Fructose: The Most Dangerous Sugar for Belly – Dr. Berg
+
 ### 文章整理：高果糖玉米 syrup的危害及健康建議
 
 #### 核心主題：
@@ -1985,6 +2065,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Eat More Calories To Lose More Weight (Adding Intermittent Fasting) – Dr. Berg
+
 ### 文章整理
 
 #### 核心主題
@@ -2041,6 +2123,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Endometriosis: Causes, Symptoms & Link With Iodine – Dr. Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -2081,6 +2165,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How to Never Get Dental Cavities (Decay)? – Permanent Solution by Dr. Berg
+
 ### 核心主題  
 - 論述如何預防蛀牙，針對不同人群（如牙醫、家長）提供可行建議。  
 
@@ -2113,6 +2199,8 @@
     <img src="https://img.youtube.com/vi/FPJOpeYXeao/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Carotenoids: Antioxidant on Steroids – Dr. Berg
 
 ### 核心主題  
 Carotenoids 是一種重要的植物營養素，具有多種生物功能，包括抗氧化作用和對人體健康的支持。
@@ -2170,6 +2258,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
         alt="[Youtube]" width="200">
 </a>
 
+# Keto Diet & Kidney Disease – Dr. Berg
+
 ### 小節一：核心主題  
 - 探讨 ketogenic（生酮）饮食是否会导致肾病，并分析其对肾脏的影响。
 
@@ -2216,6 +2306,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
         alt="[Youtube]" width="200">
 </a>
 
+# Two Causes of Coronary Heart Disease (It's Not Saturated Fat) – Dr. Berg
+
 ### 核心主題
 - **冠狀動脈疾病的原因**：探討冠狀動脈疾病的成因及其相關因素。
 
@@ -2260,6 +2352,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
         alt="[Youtube]" width="200">
 </a>
 
+# How To Germinate Seeds And Nuts Fast – Dr. Berg
+
 ### 小芻部整理
 
 #### 核心主題  
@@ -2301,6 +2395,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
     <img src="https://img.youtube.com/vi/KbLAe1T7mUw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Friendly Bacteria: Why You Really Need And how it Helps – Dr. Berg
 
 ### 核心主題
 - 友敵菌群（Friendly Bacteria）在人體健康中的重要性。
@@ -2349,6 +2445,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
     <img src="https://img.youtube.com/vi/Y13hVozxXD0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why is High Blood Sugar Levels So Bad? – Dr. Berg
 
 ### 文章重點整理
 
@@ -2405,6 +2503,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
         alt="[Youtube]" width="200">
 </a>
 
+# Difference Between Whole Grains and Refined Grains Explained By Dr. Berg
+
 ### 文章重點歸納
 
 #### 1. 核心主題：全穀物（如全麥粉）與精緻穀物的健康影響比較  
@@ -2450,6 +2550,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
     <img src="https://img.youtube.com/vi/TF3tAPqcRTg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Benefits of Selenium in Brazil Nuts Explained by Dr. Berg
 
 ### 文章整理：硒元素的重要性及健康影響
 
@@ -2516,6 +2618,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
         alt="[Youtube]" width="200">
 </a>
 
+# What Causes Painful, Numb or Tingling Feet? – Dr. Berg
+
 ### 核心主題：Plantar Fasciitis 的病因與足部疼痛的可能原因
 
 #### 主要觀念：
@@ -2548,6 +2652,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
     <img src="https://img.youtube.com/vi/I__vEHcBC5I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Gymnema Herb: The Best Herb for Sugar & Carb Cravings – Dr.Berg
 
 ### 小節歸納： gymnema 草本植物的功效與應用
 
@@ -2584,6 +2690,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
     <img src="https://img.youtube.com/vi/tFwiX1jFpwQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is Keto (Ketogenic Diet) Safe for Kids? – Dr. Berg
 
 ### 文章要點整理
 
@@ -2649,6 +2757,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
         alt="[Youtube]" width="200">
 </a>
 
+# Losing Weight on Keto Diet With Dr.Berg & Shane Jones
+
 ### 文章重點整理
 
 #### 核心主題
@@ -2709,6 +2819,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
         alt="[Youtube]" width="200">
 </a>
 
+# Why Apple Cider Vinegar Helps You Lose Belly Fat – ACV for Weight Loss – Dr. Berg
+
 ### 小節歸納
 
 #### 核心主題
@@ -2758,6 +2870,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
     <img src="https://img.youtube.com/vi/bEEgMvsShLY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best Ear Pain Remedy – Dr. Berg
 
 ### 小節化整理
 
@@ -2821,6 +2935,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
         alt="[Youtube]" width="200">
 </a>
 
+# Computer Screen (LED) Blue Light Destroying Your Sleep and Eyes?
+
 ### 小節：核心主題  
 - 討論電子屏幕（尤其是LED背光屏幕）對睡眠質量的影響及其背后的科學原理。
 
@@ -2852,6 +2968,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
     <img src="https://img.youtube.com/vi/JlSeo4X1jGE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best Sleep Tip Shared By Dr. Berg
 
 ### 核心主題  
 - 推荐通过在卧室放置植物来改善空气质量，从而提高睡眠质量。
@@ -2885,6 +3003,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
     <img src="https://img.youtube.com/vi/gzwtHkUaOfk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Hypoglycemia (Low Blood Sugar) Camouflaged as Anxiety & Depression – Dr. Berg
 
 ### 核心主題：低血糖与情緒障礙之間的關聯  
 1. 低血糖（hypoglycemia）常被誤診為焦虑症、抑郁症等情緒障礙。  
@@ -2925,6 +3045,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
         alt="[Youtube]" width="200">
 </a>
 
+# Green Banana and Plantains on Ketogenic Diet Explained By Dr. Berg
+
 
 </details>
 
@@ -2935,6 +3057,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
     <img src="https://img.youtube.com/vi/4L3xHtI8eQA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# High Levels of BUN (Blood Urea Nitrogen) on a Ketogenic Diet – Dr. Berg
 
 ### 核心主題
 
@@ -3019,6 +3143,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
         alt="[Youtube]" width="200">
 </a>
 
+# What is Vitiligo Explained By Dr. Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -3081,6 +3207,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
         alt="[Youtube]" width="200">
 </a>
 
+# Dog Fasting: Is Intermittent Fasting Safe For Your Pets? – Dr. Berg
+
 ### 核心主題  
 - 探讨狗狗是否需要定时进餐以及健康饮食的重要性。  
 
@@ -3136,6 +3264,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
         alt="[Youtube]" width="200">
 </a>
 
+# Men Using DIM for High Estrogen & Low Testosterone - Dr. Berg
+
 ### 核心主題
 - **DIM（二甲基异山梨醇）**：一種化合物，主要作用於調節雌激素代謝。
 - **雌激素平衡**：DIM幫助降低有害的雌激素水平，尤其在男性和女性中具有重要意義。
@@ -3178,6 +3308,8 @@ DIM作為一種有效的化合物，在調節性激素平衡中具有重要作�
     <img src="https://img.youtube.com/vi/KYCoep237nQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Benefits of One Meal a Day Intermittent Fasting – Dr. Berg
 
 ### 文章整理：一天一餐 intermittent fasting 與酮症的探索與建議
 
@@ -3231,6 +3363,8 @@ DIM作為一種有效的化合物，在調節性激素平衡中具有重要作�
     <img src="https://img.youtube.com/vi/KIlFPzGvbCM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is Exercise Good or Bad for Sleep? Facts Explained By Dr. Berg
 
 ### 文章重點整理
 
@@ -3295,6 +3429,8 @@ DIM作為一種有效的化合物，在調節性激素平衡中具有重要作�
         alt="[Youtube]" width="200">
 </a>
 
+# Insulin Resistance And Electrolyte Absorption Explained By Dr. Berg
+
 ### 小節歸納
 
 #### 核心主題
@@ -3327,6 +3463,8 @@ DIM作為一種有效的化合物，在調節性激素平衡中具有重要作�
     <img src="https://img.youtube.com/vi/-zh5sZwodM8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Diabetes Diet For Type 1 and Type 2 Difference Explained By Dr. Berg
 
 ### 文章重點整理
 
@@ -3375,6 +3513,8 @@ DIM作為一種有效的化合物，在調節性激素平衡中具有重要作�
         alt="[Youtube]" width="200">
 </a>
 
+# How To Fix Cravings For Carbs All The Time – Dr. Berg
+
 
 </details>
 
@@ -3385,6 +3525,8 @@ DIM作為一種有效的化合物，在調節性激素平衡中具有重要作�
     <img src="https://img.youtube.com/vi/3phonr5PUZw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Low Blood Sugar Issues on Keto Diet - Dr. Berg
 
 ### 文章整理
 
@@ -3439,6 +3581,8 @@ DIM作為一種有效的化合物，在調節性激素平衡中具有重要作�
     <img src="https://img.youtube.com/vi/noJunjkx-A8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Keto Diet and Pregnancy: Is It Safe If Pregnant or Breastfeeding? – Dr. Berg
 
 ### 核心主題  
 - **酮症（Ketosis）在孕期或哺乳期的安全性**  
@@ -3495,6 +3639,8 @@ DIM作為一種有效的化合物，在調節性激素平衡中具有重要作�
         alt="[Youtube]" width="200">
 </a>
 
+# Best Source to Get Fiber in Your Diet – Benefits of Fiber Explained By Dr. Berg
+
 ### 核心主題  
 - 纖維的重要性及其來源。
 
@@ -3528,6 +3674,8 @@ DIM作為一種有效的化合物，在調節性激素平衡中具有重要作�
         alt="[Youtube]" width="200">
 </a>
 
+# How Much Wheatgrass Juice Powder Equals How Much Salad? – Dr. Berg
+
 ### 核心主題  
 - 比較穀物草（wheatgrass）汁粉與沙拉的攝取量。  
 
@@ -3560,6 +3708,8 @@ DIM作為一種有效的化合物，在調節性激素平衡中具有重要作�
     <img src="https://img.youtube.com/vi/yZw3nU7vVvI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What is PABA? Explained by Dr. Berg
 
 ### 核心主題
 - **PABA（Para-Amino Benzoic Acid）**：作為一種非必需維生素及葉酸的前體。
@@ -3604,6 +3754,8 @@ DIM作為一種有效的化合物，在調節性激素平衡中具有重要作�
     <img src="https://img.youtube.com/vi/7FtBAr5sG8k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Benefits of Apigenin: The Powerful Phytonutrient – Dr. Berg
 
 # 文章整理：Apigenin 的多效健康作用及飲食建议
 
@@ -3665,6 +3817,8 @@ Apigenin 作為一種多功能植物營養素，在抗衰老、排毒、抗癌�
     <img src="https://img.youtube.com/vi/skc_QbNtEa0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Using DIM for High Androgens to Help with Facial Hair, Cystic Acne, and Alopecia - Dr. Berg
 
 ### 核心主題  
 - **DIM (Diindolylmethane)**：一種超強濃度（25倍）的植物營養素混合物，源自十字花科蔬菜。
@@ -3730,6 +3884,8 @@ Apigenin 作為一種多功能植物營養素，在抗衰老、排毒、抗癌�
         alt="[Youtube]" width="200">
 </a>
 
+# Type 2 Diabetes Cure With Two Things – Dr. Berg
+
 ### 核心主題  
 - 論述治療和管理2型糖尿病的核心策略。
 
@@ -3781,6 +3937,8 @@ Apigenin 作為一種多功能植物營養素，在抗衰老、排毒、抗癌�
     <img src="https://img.youtube.com/vi/kUE8nl5R6bk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 9 Common Keto Diet Mistakes Everyone Makes – Dr. Berg
 
 ### 文章要點整理
 
@@ -3839,6 +3997,8 @@ Apigenin 作為一種多功能植物營養素，在抗衰老、排毒、抗癌�
         alt="[Youtube]" width="200">
 </a>
 
+# How To Fix Oily Skin With Simple Hack – Dr. Berg
+
 ### 核心主題  
 - 油性皮膚的成因與解決方法  
 - 內分泌失衡對油性皮膚的影響  
@@ -3895,6 +4055,8 @@ Apigenin 作為一種多功能植物營養素，在抗衰老、排毒、抗癌�
     <img src="https://img.youtube.com/vi/5jsEi4a8eWQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Pumpkin Seeds: Nutrient Dense and Healthy Fats | Dr. Berg
 
 ### 小節結構：
 
@@ -3958,6 +4120,8 @@ Apigenin 作為一種多功能植物營養素，在抗衰老、排毒、抗癌�
         alt="[Youtube]" width="200">
 </a>
 
+# Why Do Doctors Give Insulin Injections To Type-2 Diabetes Patients? – Dr. Berg
+
 ### 核心主題
 - **胰島素抵抗症**：文章討論了2型糖尿病患者因胰島素抵抗導致血糖升高的問題。
 - **胰島素使用爭議**：探討為什麼會對已經胰島素過多的患者使用更多胰島素。
@@ -3992,6 +4156,8 @@ Apigenin 作為一種多功能植物營養素，在抗衰老、排毒、抗癌�
     <img src="https://img.youtube.com/vi/lTiUM0AXge8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 7 Amazing Health Benefits of Chamomile Tea – Dr. Berg
 
 ### 核心主題
 - ** chamomile茶**：一種歷史悠久（約5,000年）、具有多種健康益處的草本茶。
@@ -4030,6 +4196,8 @@ Apigenin 作為一種多功能植物營養素，在抗衰老、排毒、抗癌�
     <img src="https://img.youtube.com/vi/jGkGvDyAokQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best Snacks Food for Low Blood Sugar – Dr. Berg
 
 ===== 文章開始 =====
 
@@ -4073,6 +4241,8 @@ Apigenin 作為一種多功能植物營養素，在抗衰老、排毒、抗癌�
     <img src="https://img.youtube.com/vi/_lqhgxxtGGQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Diagnose Diabetes? – Dr. Berg
 
 ### 文章整理與結構化總結
 
@@ -4146,6 +4316,8 @@ Dr. Burg 强調，糖尿病的診斷不应依賴单一指標。通過綜合多�
         alt="[Youtube]" width="200">
 </a>
 
+# What is Glutathione?
+
 ### 核心主題
 - **谷胱甘肅**（Glutathione）：一種在體內產生的強大抗氧化劑。
 - **硫代化合物**：谷胱甘肅是一種含硫化合物，主要來源於富含硫的食物。
@@ -4198,6 +4370,8 @@ Dr. Burg 强調，糖尿病的診斷不应依賴单一指標。通過綜合多�
     <img src="https://img.youtube.com/vi/1UL9Cg2FqWI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Find A Healthy Salad Dressing? – Dr. Berg
 
 ### 核心主題  
 - 探讨salad dressing（沙拉醬）的选择与制作，强调其成分对健康的影响。
@@ -4254,6 +4428,8 @@ Dr. Burg 强調，糖尿病的診斷不应依賴单一指標。通過綜合多�
         alt="[Youtube]" width="200">
 </a>
 
+# 10 Amazing Health Benefits of Onion – Dr. Berg
+
 ### 核心主題
 - 探讨自然疗法与健康管理的主题，涉及排毒、代谢、营养补充等方面。
 
@@ -4287,6 +4463,8 @@ Dr. Burg 强調，糖尿病的診斷不应依賴单一指標。通過綜合多�
     <img src="https://img.youtube.com/vi/gAQYXs249fU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What is Astaxanthin, Its Sources & Benefits – Dr. Berg
 
 ### 文章重點整理
 
@@ -4333,6 +4511,8 @@ Dr. Burg 强調，糖尿病的診斷不应依賴单一指標。通過綜合多�
     <img src="https://img.youtube.com/vi/eLoY-rU63nU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What is Tamoxifen, It's Uses & Side Effects – Dr. Berg
 
 ### 核心主題
 - **Tamoxifen**：一種常被開具的藥物，用於阻斷某些類型的雌激素受體，降低乳腺癌風險。
@@ -4406,6 +4586,8 @@ Dr. Burg 强調，糖尿病的診斷不应依賴单一指標。通過綜合多�
         alt="[Youtube]" width="200">
 </a>
 
+# Nutrients in Kale, Beef & Coconut Oil – Dr. Berg
+
 ### 文章整理：營養成分比較——碳水化合物、蛋白質或脂肪哪種更有營養？
 
 #### 核心主題
@@ -4476,6 +4658,8 @@ Dr. Burg 强調，糖尿病的診斷不应依賴单一指標。通過綜合多�
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg’s Opinion on Causes of Rosacea and Its Treatment
+
 # 文章整理：玫瑰痤瘡的原因與治療
 
 ## 核心主題
@@ -4524,6 +4708,8 @@ Dr. Burg 强調，糖尿病的診斷不应依賴单一指標。通過綜合多�
     <img src="https://img.youtube.com/vi/tLnK3otIVPA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Keto Is Not For Me, I Feel Better On High Carb Diet – Dr. Berg
 
 ### 文章整理：酮症與碳水化合物攝取的效果及應對策略
 
@@ -4608,6 +4794,8 @@ Dr. Burg 强調，糖尿病的診斷不应依賴单一指標。通過綜合多�
         alt="[Youtube]" width="200">
 </a>
 
+# How Much Rest & Recovery Do We Need After Workout? – Dr. Berg on Exercise and Recovery
+
 
 </details>
 
@@ -4618,6 +4806,8 @@ Dr. Burg 强調，糖尿病的診斷不应依賴单一指標。通過綜合多�
     <img src="https://img.youtube.com/vi/gRe66ODfwiA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Amazing Weight Loss Success – 610 to 264 Pound – Dr.Berg's Skype Interview With Steven Schaafsma
 
 ### 小節整理：Steve 的減重經驗與健康生活策略
 
@@ -4677,6 +4867,8 @@ Dr. Burg 强調，糖尿病的診斷不应依賴单一指標。通過綜合多�
         alt="[Youtube]" width="200">
 </a>
 
+# Mycotoxins & Joint Stiffness Pain – Causes, Symptoms & Remedy By Dr. Berg
+
 ### 文章重點整理
 
 #### 1. 核心主題：霉毒素（Mycotoxins）與關節疼痛之間的關聯  
@@ -4716,6 +4908,8 @@ Dr. Burg 强調，糖尿病的診斷不应依賴单一指標。通過綜合多�
     <img src="https://img.youtube.com/vi/5kU9iAEJ_OA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Mercury Fish: Eating Salmon Is NOT an Issue – Dr. Berg
 
 ### 小節整理
 
@@ -4765,6 +4959,8 @@ Dr. Burg 强調，糖尿病的診斷不应依賴单一指標。通過綜合多�
         alt="[Youtube]" width="200">
 </a>
 
+# Tea Tree Oil Benefits (1 Minute Video) Explained By Dr. Berg
+
 ### 核心主題：茶樹油的功效與應用
 
 #### 主要觀念：
@@ -4798,6 +4994,8 @@ Dr. Burg 强調，糖尿病的診斷不应依賴单一指標。通過綜合多�
     <img src="https://img.youtube.com/vi/i8lwEf9Tp3I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Liver Cleanse and Gallbladder Detoxification Are a Waste of Time – Dr. Berg
 
 ### 核心テーマ：胆汁の解毒効果と肝臓の健康維持
 
@@ -4850,6 +5048,8 @@ Dr. Burg 强調，糖尿病的診斷不应依賴单一指標。通過綜合多�
     <img src="https://img.youtube.com/vi/jZ89N4xRDDU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Mercury Fish List: What Fish Should I Eat to Avoid Mercury? – Dr. Berg
 
 ### 小節歸納：文章重點整理
 

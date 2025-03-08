@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The BEST Remedy for Your Lungs (Infection, Asthma, and COPD)
+
 ### 文章整理：《肺部健康管理的有效方案》
 
 ---
@@ -70,6 +72,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# #1 Remedy for Chronic Fatigue Syndrome and Fibromyalgia
+
 ### 文章重點整理
 
 #### 核心主題：
@@ -104,6 +108,8 @@
     <img src="https://img.youtube.com/vi/GKLZpquBc_4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The #1 Nontoxic Vegetable Wash
 
 ### 核心主題
 - 探讨非 Toxic 的蔬菜清洗方法。
@@ -159,6 +165,8 @@
     <img src="https://img.youtube.com/vi/tcQbIKbbrrU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 7 Reasons Why You NEED TO SWEAT More Often
 
 ### 核心主題: 汗液的作用與健康益處  
 Sweating is a natural bodily function with significant health benefits that are often overlooked or misunderstood.
@@ -225,6 +233,8 @@ Sweating is a natural bodily function with significant health benefits that are 
     <img src="https://img.youtube.com/vi/5kPtCnZGAwI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# You May Never SNACK Again after Watching This
 
 ### 文章整理：高頻率零食攝取對健康的影響及改善策略
 
@@ -299,6 +309,8 @@ Sweating is a natural bodily function with significant health benefits that are 
         alt="[Youtube]" width="200">
 </a>
 
+# The Best Natural Protocol for Bipolar Disorder and OCD
+
 ### 文章重點整理
 
 #### 核心主題
@@ -370,6 +382,8 @@ Sweating is a natural bodily function with significant health benefits that are 
     <img src="https://img.youtube.com/vi/cc55ExfBwD8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Happens after 2 Weeks of Poor Sleep
 
 ### 文章重點整理
 
@@ -456,6 +470,8 @@ Sweating is a natural bodily function with significant health benefits that are 
         alt="[Youtube]" width="200">
 </a>
 
+# The Top Remedies for Your Heart
+
 ### 文章要點整理
 
 #### 一、核心主題
@@ -513,6 +529,8 @@ Sweating is a natural bodily function with significant health benefits that are 
     <img src="https://img.youtube.com/vi/PvWz5cNTmLE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Fascinating Benefits of RAW MILK Dairy
 
 ### 文章整理：Raw Milk 的益處與影響
 
@@ -591,6 +609,8 @@ Sweating is a natural bodily function with significant health benefits that are 
         alt="[Youtube]" width="200">
 </a>
 
+# The Benefits of Diatomaceous Earth for Humans
+
 ### 核心主題
 - 硅藻土（Diatomaceous Earth, DE）的來源與特性
 - 網 silica 的重要性及其健康益處
@@ -647,6 +667,8 @@ Sweating is a natural bodily function with significant health benefits that are 
     <img src="https://img.youtube.com/vi/rjFk-vMLhhA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 11 Causes of CHEST PAIN That Are NOT Heart Related
 
 ### 文章重點整理
 
@@ -720,6 +742,8 @@ Sweating is a natural bodily function with significant health benefits that are 
     <img src="https://img.youtube.com/vi/MNs1VYAXkS4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The 2 BEST Foods for Your Teeth and Gums
 
 # 文章整理：牙齒與口腔健康的關鍵營養素
 
@@ -813,6 +837,8 @@ Sweating is a natural bodily function with significant health benefits that are 
         alt="[Youtube]" width="200">
 </a>
 
+# You May Never Eat BREAD Again After Watching This
+
 # 文章整理： grains and gluten-related health issues
 
 ## 1. 核心主題  
@@ -849,6 +875,8 @@ Sweating is a natural bodily function with significant health benefits that are 
     <img src="https://img.youtube.com/vi/8QAhZN6S3rU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Bone Broth Is Really Used for Gut Issues and Arthritis
 
 # 骨髓 broth 的效果與機理：分析與建議  
 
@@ -907,6 +935,8 @@ Sweating is a natural bodily function with significant health benefits that are 
     <img src="https://img.youtube.com/vi/T4swm7ZX1nU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# #1 Top Remedy to Lower and Regulate Cholesterol
 
 ### 核心主題：膽固醇管理與代謝機制
 
@@ -982,6 +1012,8 @@ Sweating is a natural bodily function with significant health benefits that are 
         alt="[Youtube]" width="200">
 </a>
 
+# The #1 Best Antihistamine Remedy for Sinus, Itching and Hives
+
 ### 文章要點整理
 
 #### 核心主題
@@ -1045,6 +1077,8 @@ Sweating is a natural bodily function with significant health benefits that are 
         alt="[Youtube]" width="200">
 </a>
 
+# The Best VEGETABLE Replacement Smoothie
+
 ### 核心主題
 
 1. **蔬菜攝取不足的問題**：部分人因各種原因未能攝取足夠的蔬菜，影響健康。
@@ -1087,6 +1121,8 @@ Sweating is a natural bodily function with significant health benefits that are 
     <img src="https://img.youtube.com/vi/vPfQv9Ks1jE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is Your OLD ANKLE SPRAIN Still Bothering You?
 
 ### 文章重點整理
 
@@ -1146,6 +1182,8 @@ Sweating is a natural bodily function with significant health benefits that are 
         alt="[Youtube]" width="200">
 </a>
 
+# Interesting Benefits of Walking Barefoot
+
 ### 核心主題  
 - **足部健康與自然行走的重要性**  
   文章圍繞足部結構的複雜性及其在身體功能中的關鍵作用展開，強調了穿鞋對足部和全身健康的負面影響，並提出了通過光腳行走來改善足部健康的方法。
@@ -1195,6 +1233,8 @@ Sweating is a natural bodily function with significant health benefits that are 
         alt="[Youtube]" width="200">
 </a>
 
+# STOP Sciatica Nerve and Low Back Pain FAST with 1 Stretch
+
 ### 文章重點整理
 
 #### 核心主題
@@ -1241,6 +1281,8 @@ Sweating is a natural bodily function with significant health benefits that are 
         alt="[Youtube]" width="200">
 </a>
 
+# Correct Forward Head Posture with 3 Things - Dr. Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -1282,6 +1324,8 @@ Sweating is a natural bodily function with significant health benefits that are 
     <img src="https://img.youtube.com/vi/hnwWHQJcKFw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Hidden Cause of Arthritis in Your Knees and Hands
 
 ## 文章重點整理
 
@@ -1347,6 +1391,8 @@ Sweating is a natural bodily function with significant health benefits that are 
         alt="[Youtube]" width="200">
 </a>
 
+# The #1 Missing Factor with Low Testosterone Is...
+
 ### 文章整理與結構化
 
 #### 核心主題
@@ -1400,6 +1446,8 @@ Sweating is a natural bodily function with significant health benefits that are 
     <img src="https://img.youtube.com/vi/fbQ7jLhBkIQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Stop Drinking Alcohol and Save Your Liver
 
 以下是文章的核心整理：
 
@@ -1491,6 +1539,8 @@ Sweating is a natural bodily function with significant health benefits that are 
         alt="[Youtube]" width="200">
 </a>
 
+# New Fascinating Research on Grass-Fed Beef
+
 ### 文章要點整理
 
 #### 1. 核心主題
@@ -1526,6 +1576,8 @@ Sweating is a natural bodily function with significant health benefits that are 
     <img src="https://img.youtube.com/vi/GNXzkw8r26Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Gallbladder (Biliary) Sludge in Prolonged Fasting
 
 ### 小節整理
 
@@ -1579,6 +1631,8 @@ Sweating is a natural bodily function with significant health benefits that are 
     <img src="https://img.youtube.com/vi/KJhmGjKDQ9k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Amazing Benefits of GHEE Bulletproof Coffee
 
 ### 核心主題  
 - 探讨使用酥油（Ghee）替代黄油在制作防弹咖啡中的优势及其健康益处。
@@ -1645,6 +1699,8 @@ Sweating is a natural bodily function with significant health benefits that are 
     <img src="https://img.youtube.com/vi/Xm98s6f9HHY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Deeper Reason Why Anxiety Causes Bad Breath
 
 ### 文章整理：微生物群與心理健康的相互作用及其影響
 
@@ -1714,6 +1770,8 @@ Sweating is a natural bodily function with significant health benefits that are 
         alt="[Youtube]" width="200">
 </a>
 
+# You May Never Eat SUGAR Again after Watching This
+
 ### 引言  
 本文探討了糖分攝取對人體健康的影響，特別著重於其對紅血球的毒性作用。文章強調了高糖飲食如何導致胰島素抗性、脂肪肝等問題，並提出了通過降低糖分攝取來改善整體健康狀況的建議。
 
@@ -1780,6 +1838,8 @@ Sweating is a natural bodily function with significant health benefits that are 
         alt="[Youtube]" width="200">
 </a>
 
+# How Iron Affects Your Hair, Skin and Nails
+
 ### 文章重點整理
 
 #### 核心主題
@@ -1835,6 +1895,8 @@ Sweating is a natural bodily function with significant health benefits that are 
     <img src="https://img.youtube.com/vi/SFWvKhiP2Sw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# #1 Backyard Weed That Can Replace ALL Your Medications
 
 ### 核心主題
 - **Dandelion Greens**（蒲公英葉）作為一種具備多種健康益處的天然草藥，其潛力在於替代藥物，同時具有科學依據支持其療效。
@@ -1902,6 +1964,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
         alt="[Youtube]" width="200">
 </a>
 
+# How To Sleep Better - Drink 1/2 Cup of This Before Bed
+
 ### 核心主題  
 - 探讨发酵食品（特别是开菲尔）对睡眠质量的潜在改善作用。  
 
@@ -1961,6 +2025,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
         alt="[Youtube]" width="200">
 </a>
 
+# The FASTEST Way to Heal an Ulcer
+
 # 文章整理：溃疡的成因、治疗与自然疗法
 
 ## 核心主题
@@ -2008,6 +2074,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
     <img src="https://img.youtube.com/vi/LwPlCTDzK1c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# These 6 Nutrient Deficiencies Cause FATIGUE
 
 ### 核心主題：能源生成與健康
 - **主要觀念**：文章探討了影響人體能量生成的主要營養素及其缺乏對健康的影響。
@@ -2059,6 +2127,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
     <img src="https://img.youtube.com/vi/q2RpfrYFCcA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# You've Been Eating Gray Salmon with Synthetic Pink Pigments
 
 ### 核心主題  
 - 比較野生捕撈與養殖鮭魚的健康差異，特別著重於顏色來源及其對人體健康的影響。
@@ -2114,6 +2184,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
     <img src="https://img.youtube.com/vi/ME8jjIwYMRY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Dangers of Urinary Retention on Your Kidneys
 
 ### 文章整理：尿液异常与肾脏健康的综合管理
 
@@ -2189,6 +2261,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
         alt="[Youtube]" width="200">
 </a>
 
+# 8 Unexpected Benefits of COFFEE You've Never Heard Before
+
 ### 文章重點整理  
 
 #### 核心主題  
@@ -2251,6 +2325,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
         alt="[Youtube]" width="200">
 </a>
 
+# The Hidden Reason Why You Feel OLDER Than Your Age
+
 ### 文章整理：如何感受更年輕——抗衰老的新視角
 
 ---
@@ -2306,6 +2382,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
     <img src="https://img.youtube.com/vi/vnvfiCXs45E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The BEST Natural Antibiotic Drink (Home Remedy Formula)
 
 ### 文章整理：自然抗菌飲料的核心與應用
 
@@ -2370,6 +2448,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
         alt="[Youtube]" width="200">
 </a>
 
+# The BEST Keto and Intermittent Fasting Tips - Dr. Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -2407,6 +2487,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
     <img src="https://img.youtube.com/vi/9L3qDUTN550/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 9 Unexpected Amazing Benefits of Apple Cider Vinegar (ACV)
 
 **核心主題：**
 
@@ -2456,6 +2538,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
     <img src="https://img.youtube.com/vi/RCXJ4zyVT7M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The BEST Foods for a Fatty Liver (MUST WATCH)
 
 ### 核心主題：非酒精性脂肪肝病（NAFLD）及酒精性脂肪肝病的飲食療法
 
@@ -2530,6 +2614,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
         alt="[Youtube]" width="200">
 </a>
 
+# 9 Unexpected Benefits of Magnesium (MUST WATCH)
+
 ### 文章整理： magnesium 的重要性及健康影響
 
 #### 核心主題  
@@ -2590,6 +2676,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
     <img src="https://img.youtube.com/vi/f0PRBRC4oNs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Female Bladder Leakage (THE BEST NATURAL SOLUTION)
 
 # 文章重點整理： Overactive Bladder 的病因與治療策略
 
@@ -2661,6 +2749,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
         alt="[Youtube]" width="200">
 </a>
 
+# 7 SURPRISING GMO Foods That You Must Avoid
+
 ### 小節歸納
 
 #### 核心主題
@@ -2720,6 +2810,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
         alt="[Youtube]" width="200">
 </a>
 
+# NEVER Put This on Your Face
+
 ### 小節歸納
 
 #### 核心主題
@@ -2774,6 +2866,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
         alt="[Youtube]" width="200">
 </a>
 
+# Dramatically Spike BRAINPOWER with an 18 Hour Fast
+
 ### 小節歸納
 
 #### 核心主題
@@ -2817,6 +2911,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
     <img src="https://img.youtube.com/vi/iKp9H9LvlqA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The REAL Cause of a Constant Phlegmy (Mucus) Throat
 
 ### 文章重點整理
 
@@ -2876,6 +2972,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
     <img src="https://img.youtube.com/vi/d_1fRLt1EW4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 5 Things Your LIPS Can Tell You about Your Nutritional State
 
 ### 文章整理：通過嘴唇判斷身體健康狀況
 
@@ -2945,6 +3043,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
         alt="[Youtube]" width="200">
 </a>
 
+# The #1 BEST Nutrient for Autoimmune Conditions
+
 以下是對文章重點的整理和分類，使用正式的學術用語並以小節形式歸納：
 
 ---
@@ -3012,6 +3112,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
         alt="[Youtube]" width="200">
 </a>
 
+# Take 1 oz of Apple Cider Vinegar Twice a Day to SHRINK BELLY FAT
+
 ### 核心主題
 - **研究背景**：探讨苹果醋（Apple Cider Vinegar, ACV）对人体健康的影响，尤其是其在减脂和调节血糖方面的效果。
 
@@ -3050,6 +3152,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
     <img src="https://img.youtube.com/vi/mAlaexDCC44/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# AVOID These Synthetic Vitamins
 
 ### 小結整理
 
@@ -3109,6 +3213,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
         alt="[Youtube]" width="200">
 </a>
 
+# 5 Simple Things to Reverse Erectile Dysfunction (ED)
+
 ### 文章重點整理
 
 #### 核心主題： 
@@ -3161,6 +3267,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
     <img src="https://img.youtube.com/vi/HyzNnxplWIA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 7 Unexpected and Amazing Benefits of Potassium
 
 ## 文章重點整理
 
@@ -3221,6 +3329,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
         alt="[Youtube]" width="200">
 </a>
 
+# How Much Alcohol Would You Have to Drink Before Liver Damage
+
 ### 文章整理：酒精攝取對肝臟損害的影响及健康建議
 
 #### 1. 核心主題
@@ -3262,6 +3372,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
     <img src="https://img.youtube.com/vi/sHcaBqko2Vs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The MOST Important Fatty Liver Detox and Cleansing Antioxidant
 
 ### 文章重點整理
 
@@ -3310,6 +3422,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
     <img src="https://img.youtube.com/vi/N9kdv-1Mias/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Fix Bunions in 3 Steps
 
 ### 文章重點整理
 
@@ -3368,6 +3482,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
     <img src="https://img.youtube.com/vi/HeH2npPqAuY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The #1 Healthiest PROTEIN in the World
 
 ### 文章重點整理
 
@@ -3429,6 +3545,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
     <img src="https://img.youtube.com/vi/_hwGLQKZjPc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 5 Ways YOU Are Being Tricked with Misleading Food Labels
 
 ### 文章重點整理  
 
@@ -3497,6 +3615,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
         alt="[Youtube]" width="200">
 </a>
 
+# The REAL Benefit of Exercise is NOT Weight Loss
+
 ### 文章重點整理
 
 #### 核心主題：運動的多方面健康益處
@@ -3560,6 +3680,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
     <img src="https://img.youtube.com/vi/tYB9CGGSwFM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The #1 Nutrient to Boost Your Collagen (NOT VITAMIN C)
 
 ### 核心主題
 - **膠原蛋白的重要性**：膠原蛋白占人體蛋白質約35%，是連接組織的主要成分，參與構成軟骨、肌腱、韌帶、眼睛、皮膚等。
@@ -3635,6 +3757,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
         alt="[Youtube]" width="200">
 </a>
 
+# How to Increase Your Height and Grow Taller
+
 ### 1. 核心主題
 **核心主題：**
 - 最大化身高潛力的因素
@@ -3696,6 +3820,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
         alt="[Youtube]" width="200">
 </a>
 
+# Healthy Homemade PROTEIN BARS (5 Ingredients, DIY)
+
 ### 文章重點整理
 
 #### 核心主題
@@ -3751,6 +3877,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
     <img src="https://img.youtube.com/vi/72j8NXuJ1oY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Shrink Your Prostate Naturally: The #1 Nutrient You Need
 
 # 文章重點整理：鋅與前列腺健康之關聯
 
@@ -3824,6 +3952,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
     <img src="https://img.youtube.com/vi/GwDpBTxSYKM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The #1 Remedy for Gout Attacks (WORKS FAST) - Dr. Berg
 
 ### 文章重點整理
 
@@ -3913,6 +4043,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
         alt="[Youtube]" width="200">
 </a>
 
+# Best Home Test for a CALCIUM DEFICIENCY
+
 # 钙質缺乏症：成因、症状及家庭測試指南
 
 ## 核心主題
@@ -3990,6 +4122,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
         alt="[Youtube]" width="200">
 </a>
 
+# The FASTEST Way to Get Rid of Your Allergies
+
 ### 小節歸納
 
 #### 1. 核心主題
@@ -4046,6 +4180,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
     <img src="https://img.youtube.com/vi/fwksQEwtEMA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why the #1 Best Brain Food to Boost Memory & Focus is SALMON
 
 ### 文章整理：腦力與營養平衡的重要性
 
@@ -4131,6 +4267,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
         alt="[Youtube]" width="200">
 </a>
 
+# The Highest Blood Glucose Level in History is 2656 mg/dl
+
 ### 文章整理
 
 #### 核心主題
@@ -4191,6 +4329,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
     <img src="https://img.youtube.com/vi/rvxVFXEsYs8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best Probiotic Food Is Definitely NOT Yogurt
 
 ### 文章整理與結構化分析
 
@@ -4260,6 +4400,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
     <img src="https://img.youtube.com/vi/V-7GCJoOPSA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 7 Unexpected Amazing Benefits of Zinc That You've Rarely Heard About
 
 ---
 
@@ -4332,6 +4474,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
         alt="[Youtube]" width="200">
 </a>
 
+# Do-It-Yourself Home Test for Hypothyroidism (Low Thyroid)
+
 ### 文章重點整理
 
 #### 核心主題：甲状腺功能減退症（Hypothyroidism）的自我評估與健康建議
@@ -4365,6 +4509,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
     <img src="https://img.youtube.com/vi/SvBi5A6iS9I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 7 Home DIY Tests for Adrenal Fatigue and STRESS
 
 ### 文章重點整理
 
@@ -4426,6 +4572,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
     <img src="https://img.youtube.com/vi/Dkbu16d0qX0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The #1 Worst Ingredient in the World (HIDING IN YOUR FOODS)
 
 ### 文章整理： maltodextrin 的影響與 health 潁考
 
@@ -4492,6 +4640,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
         alt="[Youtube]" width="200">
 </a>
 
+# #1 Early Sign of Toxic Kidneys
+
 ### 小節整理：早期腎臟損害徵兆及健康建議
 
 #### 1. 核心主題：早期腎臟損害的徵兆與管理
@@ -4548,6 +4698,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
     <img src="https://img.youtube.com/vi/gelyrHXLSg4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Popular Sleeping Aids that DO NOT WORK
 
 ### 文章整理：改善睡眠质量的有效策略
 
@@ -4614,6 +4766,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
         alt="[Youtube]" width="200">
 </a>
 
+# The #1 Top Remedy for Dental Plaque (TARTAR)
+
 ### 小節歸納
 
 #### 核心主題
@@ -4663,6 +4817,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
     <img src="https://img.youtube.com/vi/l8FkfVsz76E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The 4 Things about VITAMIN C That Are Quite SHOCKING!
 
 # 文章整理：維生素C的真相與影響
 
@@ -4723,6 +4879,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
     <img src="https://img.youtube.com/vi/ixSwoJDxR1Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Benefits and DANGERS of Carb Loading
 
 # 文章重點整理：運動前碳水化合物-loading的利弊分析
 
@@ -4797,6 +4955,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
         alt="[Youtube]" width="200">
 </a>
 
+# The #1 Worst Drink That Dissolves Your Teeth
+
 ### 整理文章重點
 
 #### 核心主題
@@ -4858,6 +5018,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
     <img src="https://img.youtube.com/vi/_sRyflXdBrw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Use Your Saliva and Urine pH to Find Deeper Health Problems
 
 ### 文章整理與分析
 
@@ -4940,6 +5102,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
     <img src="https://img.youtube.com/vi/6VRkYF9cBUQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# A Faster Way to Rid MUSCLE KNOTS in Your Neck and Shoulders
 
 # 文章整理：肌肉 knots 的成因與解決方案
 
@@ -5027,6 +5191,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
         alt="[Youtube]" width="200">
 </a>
 
+# The Best Exercise for KNEE Pain: (Counter-Intuitive)
+
 ### 文章重點整理
 
 #### 核心主題
@@ -5088,6 +5254,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
     <img src="https://img.youtube.com/vi/-9I2AunSKxo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The #1 Food to Naturally Boost CoQ10 (Coenzyme Q10)
 
 ### 文章重點整理
 
@@ -5151,6 +5319,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
     <img src="https://img.youtube.com/vi/qoXkv1b3fWo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Have You Been on Birth Control without Knowing? MEN and WOMEN
 
 ### 文章重點整理
 
@@ -5226,6 +5396,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
         alt="[Youtube]" width="200">
 </a>
 
+# The MOST Important Video for Pregnant Women
+
 ### 文章重點整理
 
 #### 核心主題：食物營養密度對健康的重要性
@@ -5269,6 +5441,8 @@ Dandelion Greens 是一種被歷史悠久的使用記錄支持的天然療法，
     <img src="https://img.youtube.com/vi/a9wWC7M0QxI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Say Goodbye to Candida: The Best Ways to Cure It Permanently
 
 ### 文章整理：抗 Candida 調理與健康建議
 
@@ -5352,6 +5526,8 @@ Candida 菌株過度生長是一種多因素導致的全身性問題，涉及飲
         alt="[Youtube]" width="200">
 </a>
 
+# Millions of Microbes Are Living in Your Mattress
+
 ### 文章主題：床垫中的微生物及其對健康的影響
 
 ---
@@ -5426,6 +5602,8 @@ Candida 菌株過度生長是一種多因素導致的全身性問題，涉及飲
     <img src="https://img.youtube.com/vi/1B98PDEe4vU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 7 Foods That RUIN Your Liver
 
 ### 文章整理：保持肝臟健康的飲食建議
 
@@ -5505,6 +5683,8 @@ Candida 菌株過度生長是一種多因素導致的全身性問題，涉及飲
         alt="[Youtube]" width="200">
 </a>
 
+# The Root Cause of Cardiac Arrhythmias Is... (MUST WATCH)
+
 ### 文章重點整理
 
 #### 核心主題
@@ -5560,6 +5740,8 @@ Candida 菌株過度生長是一種多因素導致的全身性問題，涉及飲
     <img src="https://img.youtube.com/vi/O1YQjA758Gc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What CAUSES Tonsil Stones and How to Prevent Them
 
 ### 節點總結
 
@@ -5625,6 +5807,8 @@ Candida 菌株過度生長是一種多因素導致的全身性問題，涉及飲
         alt="[Youtube]" width="200">
 </a>
 
+# The BEST Remedy for Attention Deficit Hyperactivity Disorder (ADHD)
+
 ### 核心主題
 - **注意力缺陷多動症（ADHD）的營養干預**：探討cod肝油和維生素B1在治療ADHD中的潛在作用。
 
@@ -5688,6 +5872,8 @@ Candida 菌株過度生長是一種多因素導致的全身性問題，涉及飲
         alt="[Youtube]" width="200">
 </a>
 
+# What Happens When You Eat "100% Whole Grains" Every Day for One Month?
+
 ### 文章要點整理
 
 #### 核心主題：全穀物的健康影響與其替代選擇
@@ -5739,6 +5925,8 @@ Candida 菌株過度生長是一種多因素導致的全身性問題，涉及飲
     <img src="https://img.youtube.com/vi/rmCXk2As1Y4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Fix Your HORMONES with the Right FOOD!
 
 # 濕 hormone 平衡的重要性：飲食與生活方式的影響
 
@@ -5818,6 +6006,8 @@ Candida 菌株過度生長是一種多因素導致的全身性問題，涉及飲
     <img src="https://img.youtube.com/vi/B69RS3cZJFk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Before You Eat Another Hamburger WATCH THIS!
 
 ### 文章整理：.fast_food_burger_analysis
 
@@ -5906,6 +6096,8 @@ Candida 菌株過度生長是一種多因素導致的全身性問題，涉及飲
         alt="[Youtube]" width="200">
 </a>
 
+# Why VALERIAN ROOT Should NOT be Taken for Sleep
+
 ### 文章重點整理
 
 #### 1. 核心主題：自然療法在 anxiety、insomnia 和 depression 中的作用
@@ -5946,6 +6138,8 @@ Valerian root 的效果與 Valium 相似，但副作用較少。
     <img src="https://img.youtube.com/vi/up3pe-X8ZWs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# DRINK 1 CUP DAILY to Normalize High Blood Pressure
 
 ### 核心主題  
 - 探讨 Hibiscus 茶（木槿花茶）在降低血压方面的效果及其机制。
@@ -6016,6 +6210,8 @@ Valerian root 的效果與 Valium 相似，但副作用較少。
     <img src="https://img.youtube.com/vi/JAhvCuJNu3I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Drinking Water Is NOT the Best Way to Stay Hydrated
 
 ### 文章整理：飲水與健康的平衡之道
 
@@ -6092,6 +6288,8 @@ Valerian root 的效果與 Valium 相似，但副作用較少。
         alt="[Youtube]" width="200">
 </a>
 
+# 10 Fake Foods That You Will NEVER Eat Again
+
 ### 1. 核心主題  
 本文探討了市面上常見的十種「假食(fake food)」，這些食品在製作過程中存在不同程度的造假或成分添加問題，消費者往往知らないこれらの偽裝手法。  
 
@@ -6143,6 +6341,8 @@ Valerian root 的效果與 Valium 相似，但副作用較少。
     <img src="https://img.youtube.com/vi/zg0EsOp9kMA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The 10 Top Foods that GUARANTEE You'll Lose Belly Fat Fast
 
 ### 文章整理：幫助減少腹脂肪的食物與飲食建議
 

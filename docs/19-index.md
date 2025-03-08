@@ -1,12 +1,80 @@
 <details>
-<summary>2000. Is It a Vitamin D3 OR Calcium Deficiency? – Dr.Berg</summary><br>
+<summary>2000. [2019-02-08] Is It a Vitamin D3 OR Calcium Deficiency? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=r-IpzwZJDYM" target="_blank">
     <img src="https://img.youtube.com/vi/r-IpzwZJDYM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# Is It a Vitamin D3 OR Calcium Deficiency? – Dr.Berg
 
+# 文章重點整理：維生素D與鈣質的關聯及其健康影響
+
+## 1. 核心主題
+- 探讨維生素D與鈣質之間的相互作用及其對人體健康的影響。
+- 强調兩者的 deficiency 如何導致多種健康問題。
+
+---
+
+## 2. 主要觀念
+### 2.1 維生素D的功能
+- 調控血清鈣和磷的濃度，促進骨骼健康。
+- 支持免疫功能和神經系統的正常運作。
+
+### 2.2 鈣質的功能
+- 確保骨骼強健。
+- 參與神經傳導、肌肉收縮及血壓調節等生理過程。
+
+---
+
+## 3. 問題原因
+### 3.1 維生素D deficiency的原因
+- **缺乏日曬**：冬季或紫外線不足的環境。
+- **飲食攝取不足**：低脂飲食（維生素D主要來源於脂肪性食物）。
+- **吸收障礙**：肝臟或膽囊問題影響 bile 的分泌，導致維生素D吸收不良。
+- **代謝紊亂**：高壓力導致 cortisol 升高，干擾維生素D的合成。
+
+### 3.2 鈣質 deficiency的原因
+- **攝取不足**：
+  - 高碳水化合物飲食干擾鈣質吸收。
+  - 某些食物（如 spinach）中的 oxalates 限制鈣質的利用率。
+- **吸收障礙**：
+  - 胃酸不足影響鈣質吸收。
+  - 腸道疾病（如 IBS）或手術（如胃旁路手術）干擾鈣質吸收。
+- **代謝紊亂**：
+  - 過高的胞內鈣濃度限制可用的血清鈣。
+
+---
+
+## 4. 解決方法
+### 4.1 維生素D deficiency的改善
+- 增加日曬時間，特別是在紫外線充足的環境下。
+- 补充含維生素D的食物或補充劑。
+- 使用膽鹽來提高維生素D的吸收效率。
+
+### 4.2 鈣質 deficiency的改善
+- 選擇富含鈣質且易於吸收的食物，如深綠色蔬菜（菠菜、羽衣甘藍）。
+- 蒸煮高 oxalate 的食物以提高鈣質利用率。
+- 补充鈣質補充劑，並配合維生素D和鎂以平衡吸收。
+
+---
+
+## 5. 健康建議
+- **飲食調整**：
+  - 確保均衡攝取富含鈣質和維生素D的食物。
+  - 避免過度依賴高 oxalate 的食物作為主要鈣源。
+- **日曬習慣**：
+  - 每天適度暴露於紫外線，以促進維生素D的合成。
+- **監測與補充**：
+  - 定期檢查血液中的維生素D和鈣質濃度。
+  - 在醫師建議下使用補充劑。
+
+---
+
+## 6. 結論
+- 維生素D與鈣質 deficiency 可導致多種健康問題，包括骨骼疾病、免疫功能障礙及血壓異常。
+- 解決這些問題需要綜合考慮飲食調整、日曬習慣和必要的補充療法。
+- 達到維生素D和鈣質的平衡是維持整體健康的關鍵。
 </details>
 
 <details>
@@ -17,161 +85,755 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How Much Vitamin D3 Should I Take? Is 10,000 IUs of Vitamin D3 Toxic? – Dr.Berg
+
 
 </details>
 
 <details>
-<summary>1998. Balsamic Vinegar VS Apple Cider Vinegar on Keto Diet – Dr.Berg</summary><br>
+<summary>1998. [2019-02-07] Balsamic Vinegar VS Apple Cider Vinegar on Keto Diet – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xlilCytP9Pc" target="_blank">
     <img src="https://img.youtube.com/vi/xlilCytP9Pc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# Balsamic Vinegar VS Apple Cider Vinegar on Keto Diet – Dr.Berg
 
+### 文章重點整理
+
+#### 核心主題: 調整飲食中的糖分攝取與健康影響  
+- 探讨vinegar（醋）中糖分含量的影響。  
+- 强調選擇低糖或無糖產品的重要性。  
+
+#### 主要觀念:  
+1. ** Vinegar 的糖分問題**  
+   - 多數市售vinegar每湯匙含糖量高達3-9克。  
+   - 高糖攝入會導致血糖_spike（急遽上升）。  
+2. ** 糖分攝取的建議上限**  
+   - 每日允許碳水化合物攝取量為20-50克，但需選擇低升糖指數食物。  
+
+#### 啟發的問題原因:  
+- **市售vinegar含糖量過高**  
+  - 部分品牌每湯匙含糖量達9克，遠超健康建議上限。  
+- **消費者缺乏對產品成份的了解**  
+  - 多數人未注意食品標籤上的糖分含量。  
+
+#### 解決方法:  
+1. **選擇低糖或無糖產品**  
+   - 選擇含糖量低於2克/湯匙的vinegar。  
+2. **閱讀食品成份標籤**  
+   - 進食前仔細閱讀產品成份和營養資訊。  
+
+#### 健康建議:  
+1. **取代高糖產品**  
+   - 選擇含糖量低或無糖的替代品，如.apple cider vinegar（苹果醋）。  
+2. **控制每日糖分攝取**  
+   - 確保每日糖分攝取在建議範圍內，以維持血糖穩定。  
+
+#### 結論:  
+- 高糖vinegar攝入會影響健康，尤其是血糖控製和體重管理。  
+- 消費者需提高對食品成份的警覺性，選擇更健康的替代品。
 </details>
 
 <details>
-<summary>1997. Keto Side Effects Tell Deeper Story - Dr. Berg</summary><br>
+<summary>1997. [2019-02-06] Keto Side Effects Tell Deeper Story - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=0tXrhPFj9Fw" target="_blank">
     <img src="https://img.youtube.com/vi/0tXrhPFj9Fw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# Keto Side Effects Tell Deeper Story - Dr. Berg
 
+### 小節歸納
+
+#### 核心主題  
+- 探讨酮饮食（Keto）和间歇性禁食可能引发的身体副作用及其潜在的深层健康问题。
+
+#### 主要觀念  
+- 营养素缺乏症在酮 diet 和间歇性禁食下会被放大，导致身体出现亚临床症状。
+- 酮 diet 和间歇性禁食会增加身体对某些营养素的需求，从而暴露隐藏的健康问题。
+
+#### 問題原因  
+1. ** gallbladder 问题**：可能导致恶心、胆汁分泌不足或其他相关症状。  
+2. **营养素缺乏**：如维生素 A、E、K2、D 等，可能与脂肪肝或胆囊问题有关。  
+3. **能量代谢障碍**：低维生素 B1（硫胺）和镁导致疲劳，影响线粒体功能。  
+4. **电解质失衡**：钠不足可能导致“酮流感”症状加重。  
+5. **肠道健康问题**：如 SIBO（小肠细菌过度生长）可能引起腹胀和其他消化不适。  
+6. **蛋白质摄入过量**：可能导致高尿酸血症，引发痛风。  
+7. **脱水和电解质不足**：导致尿液颜色加深。  
+8. **维生素缺乏症状**：如维生素 B3 缺乏可能导致皮疹（pellagra）。  
+9. **矿物质不足**：低镁和钾可能引起肌肉痉挛和心脏问题。  
+10. **维生素 C 缺乏**：可能导致牙龈出血。
+
+#### 解決方法  
+1. **补充营养素**：根据症状针对性补充维生素 B1、镁、钾等。  
+2. **调整饮食结构**：增加蔬菜摄入，避免过度依赖单一食物（如鸡胸肉）。  
+3. **管理肠道健康**：减少高纤维食物和益生菌的使用，采用抗 SIBO 治疗方法。  
+4. **控制蛋白质摄入量**：避免过量蛋白质以预防痛风和其他代谢问题。  
+5. **增加水分和电解质**：缓解脱水和尿液颜色变化。  
+6. **寻求专业诊断**：对于严重症状（如皮疹、心脏问题）及时就医，但需注意药物可能带来的副作用。
+
+#### 健康建議  
+- 在进行酮 diet 或间歇性禁食时，密切关注身体的任何异常反应，并及时调整饮食和营养补充。  
+- 通过增加蔬菜摄入量来改善维生素和矿物质缺乏问题。  
+- 管理肠道健康，避免滥用益生菌和高纤维食物，特别是在出现 SIBO 症状时。  
+- 定期监测电解质水平，预防因钠、镁、钾不足引发的症状。
+
+#### 結論  
+酮 diet 和间歇性禁食虽然有助于体重管理和代谢改善，但潜在的营养素缺乏和其他健康问题不容忽视。通过识别和理解这些副作用背后的深层原因，并采取相应的调整措施，可以更安全有效地进行饮食计划。
 </details>
 
 <details>
-<summary>1996. Subclinical Pellagra (Vitamin B3 Deficiency) – Dr.Berg</summary><br>
+<summary>1996. [2019-02-05] Subclinical Pellagra (Vitamin B3 Deficiency) – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=oVXUdhH7z0M" target="_blank">
     <img src="https://img.youtube.com/vi/oVXUdhH7z0M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# Subclinical Pellagra (Vitamin B3 Deficiency) – Dr.Berg
 
+### 小節歸納
+
+#### 1. 核心主題
+- **Subclinical Pellagra**: 論述了次臨床pellagra的概念及其潛在影響。
+- **Vitamin B3 Deficiency**: 强調尼可酰胺（B3）缺乏症的多方面影響。
+
+#### 2. 主要觀念
+- **Pellagra的典型表現**：
+  - 症狀包括「三D」：ementia（痴呆）、Diarrhea（腹瀉）、Dermatitis（皮膚炎），通常影響頸部和手部。
+- **Subclinical Pellagra的症狀**：
+  - 神經系統疲勞（neurasthenia）：中樞神經系統能量耗竭，導致精神疲勞、頭痛、易怒、腦壓升高。
+  - 消化道問題：腹瀉、消化不良。
+  - 諾沃感覺紊亂：如鏡中超我變化、文字或景物移動。
+  - 感官受影響：嗅覺幻覺（聞到並不存在的氣味）。
+
+#### 3. 問題原因
+- **Vitamin B3缺乏的原因**：
+  - 酗酒（特別是長期飲酒）。
+  - 慢性腹瀉。
+  - 高攝取亮氨酸（Leucine，必需脂肪酸之一）。
+  - 鳥胃繞道手術（Gastric Bypass Surgery）。
+  - 玉米蛋白質阻礙B3吸收。
+  - 遇食精製碳水化合物和糖分。
+
+#### 4. 解決方法
+- **補充Niacin**：
+  - 建議攝取10至15倍於正常劑量的尼可酰胺。
+  - 可通過營養酵母或其他食物來源攝取。
+
+#### 5. 健康建議
+- **飲食調整**：
+  - 避免過多攝取玉米和精製食品。
+  - 確保均衡飲食，包含富含B3的食物（如瘦肉、魚類、家禽、穀物）。
+- **生活方式 modification**：
+  - 戒酒或限制酒精攝取。
+  - 管理腸胃健康，防止慢性腹瀉和吸收障礙。
+
+#### 6. 結論
+- **Vitamin B3的重要性**：
+  - 在能量代謝、神經功能和心血管健康中起關鍵作用。
+  - 製定飲食計劃時需考慮B3的攝取量，特別是有症狀或風險因子的人群。
 </details>
 
 <details>
-<summary>1995. The Benefits of Eating Butter on Keto Diet – Dr.Berg</summary><br>
+<summary>1995. [2019-02-05] The Benefits of Eating Butter on Keto Diet – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=p8cP0zll6do" target="_blank">
     <img src="https://img.youtube.com/vi/p8cP0zll6do/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# The Benefits of Eating Butter on Keto Diet – Dr.Berg
 
+### 核心主題
+- **.Butter 在酮飲食中的安全性**  
+  探讨在酮ogenic diet中食用Butter是否会导致心脏病风险。
+
+### 主要觀念
+1. **Butter對血脂的影響**  
+   - Butter不增加LDL（惡性低密度脂蛋白膽固醇），並能提高HDL（良性高密度脂蛋白膽固醇）。
+2. **Butter的脂肪酸組成**  
+   - 含有400多種不同的脂肪酸，其中包括：
+     - 25%的單不飽和脂肪酸
+     - 70%的多不飽和脂肪酸
+     - 2.3%的共轭脂肪酸（CLA）
+3. **膽固醇的作用**  
+   - 食用膽固醇可降低身體內源性膽固醇的生成，這是一項健康益處。
+4. **Butter的營養成分**  
+   - 草饲Butter富含：
+     - 紫羅蘭素（carotenoids）
+     - 维生素E（tocopherols）
+     - 丁酸（butyric acid）
+     - 维生素A、D、E和K2
+5. **Butyrka Acid的健康益處**  
+   - 具有抗炎作用，可降低腸道炎症和瘜肉風險。
+   - 改善胰島素抵抗，降低糖尿病風險。
+   - 抑制有害細菌（如大肠桿菌和沙門氏菌）。
+
+### 問題原因
+- **消費者對Butter的擔心**  
+  部分人擔心食用Butter可能增加心脏病風險，特別是與膽固醇和LDL水平有關。
+
+### 解決方法
+1. **選擇高品質的Butter**  
+   - 推薦使用草饲Butter，因其營養成分更豐富。
+2. **合理攝入量**  
+   - 在酮飲食中适量食用Butter，避免過量攝入脂肪，以維持整體飲食平衡。
+
+### 健康建議
+1. **均衡飲食**  
+   - 配合酮飲食，多攝取蔬菜、低碳水化合物食物和优质蛋白質。
+2. **注意來源**  
+   - 選擇未加工的天然Butter，避免含有反式脂肪的人工.Butter。
+3. **個體化考量**  
+   - 根據個人健康狀況調整Butter攝取量，特別是有心血管疾病史的人士應諮詢醫師。
+
+### 結論
+- 在酮飲食中食用草饲Butter是安全且有益的。其含有多種營養成分和健康脂肪酸，能提供抗炎、改善胰島素抵抗等多重益處。只要控制攝取量並選擇高品質產品，不必擔心心臟病風險。
 </details>
 
 <details>
-<summary>1994. Germs That Will Not Die! – Dr.Berg</summary><br>
+<summary>1994. [2019-02-04] Germs That Will Not Die! – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=VyA4Yi2nb5Q" target="_blank">
     <img src="https://img.youtube.com/vi/VyA4Yi2nb5Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# Germs That Will Not Die! – Dr.Berg
 
+### 小節整理：抗藥性微生物的危害與應對策略
+
+#### 核心主題
+- 抗生素 resistant 微生物（superbugs）的全球性挑戰及其對人類健康的威脅。
+
+#### 主要觀念
+1. **抗生素抵抗機制**：
+   - 微生物通過基因共享、代謝抗生素等方式對抗抗生素。
+   - 微生物的快速突變能力使其變得更難被消滅。
+
+2. **數據與事實**：
+   - 每年約有25,000人死於抗藥性微生物感染。
+   - 美國每年开具超過266 million antibiotic prescriptions。
+   - 全球80%的抗生素用於動物飼養，最終通過食物鏈進入人類體內。
+
+#### 問題原因
+1. **過度使用抗生素**：
+   - 消費者濫用抗生素導致抗藥性微生物增加。
+   - 醫療機構在診斷不精確的情況下开具 antibiotic prescriptions。
+
+2. **農業中的濫用**：
+   - 將抗生素添加到動物飼料中以促生長，增加了抗藥性微生物的風險。
+
+#### 解決方法
+1. **自然抗菌劑**：
+   - 使用天然植物提取物作为替代方案，如rosemary, oregano, garlic等。
+   - 這些天然抗菌劑具有殺菌作用，且不破壞人體有益菌群。
+
+2. **預防措施**：
+   - 在感染前採取预防措施，避免濫用抗生素。
+   - 教育公眾正確使用抗生素和自然療法的重要性。
+
+#### 健康建議
+1. **合理使用抗生素**：
+   - 避免無謂地要求醫生开具 antibiotic prescriptions。
+   - 在感染初期使用自然療法（如 Herbal Remedies）來控制病情。
+
+2. **飲食與生活方式調整**：
+   - 減少食用含抗生素的動物性食品。
+   - 增加攝取富含抗微生物成分的食物，如garlic, ginger等。
+
+#### 結論
+- 抗生素 resistant 微生物的問題需要全球性的應對策略，包括減少濫用抗生素、開發新型抗菌劑和提高公眾教育水平。
+
+---
+
+### 總結段落  
+文章強調了抗藥性微生物（superbugs）對全球公共健康的嚴重威脅，並指出其快速進化和濫用抗生素是主要成因。作者建議採取多管齊下的策略，包括減少抗生素的使用、利用天然抗菌劑和改進農業實踐，以應對這一全球性挑戰。核心信息在於：抗藥性微生物問題亟需重視，通過科學手段和生活方式調整來降低風險，保障人類健康。
 </details>
 
 <details>
-<summary>1993. Food Allergies VS Digestion Issues on Keto Diet – Dr.Berg</summary><br>
+<summary>1993. [2019-02-04] Food Allergies VS Digestion Issues on Keto Diet – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ZC6hE8iLpiI" target="_blank">
     <img src="https://img.youtube.com/vi/ZC6hE8iLpiI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# Food Allergies VS Digestion Issues on Keto Diet – Dr.Berg
 
+### 核心主題：食物過敏與健康影響及管理策略
+
+#### 主要觀念：
+1. 食物過敏常被忽視，其潛在影響包括多種消化道和炎症性病灶。
+2. 免疫系統的主要部分位於腸道，免疫異常可導致局部炎症，進一步引發自身免疫疾病。
+3. 傳統治療如皮質類固醇（例如Prednisone）雖有效但副作用明顯。
+
+#### 問題原因：
+1. 食物過敏未被及時診斷和管理，導致持續的腸道炎症。
+2. 炎症反覆可能引發慢性疾病，影響整體健康。
+
+#### 解決方法：
+1. **食物過敏測試**：通過專業測試確定過敏源並徹底 avoidance。
+2. **腸道修復策略**：
+   - **間歇性禁食**：降低腸道負擔，促進干細胞生成，增強修復能力。
+   - 定期進行長時間禁食（如每周一次或每月一次）以提升修復效果。
+
+#### 健康建議：
+1. **初步行動**：
+   - 避免常見過敏食物（如乳制品、蛋類、麸質穀物、堅果、花生、海鮮和大豆）。
+2. **逐步調整**：
+   - 在症狀改善後，可進行專業測試以精確確認過敏源。
+3. **長期管理**：
+   - 維持禁食習慣以持續降低炎症並修復腸道功能。
+
+#### 結論：
+ foods allergies are often underdiagnosed but play a significant role in chronic health conditions. By identifying and avoiding allergens, coupled with strategies like intermittent fasting, individuals can effectively manage or even reverse these conditions, leading to improved overall health.
+
+---
+
+### 參考資料：
+- 文章中提到的食物過敏常見源和免疫系統的功能。
+- 禁食對腸道修復和免疫系統的影響。
 </details>
 
 <details>
-<summary>1992. Isn't 70 Percent Fat on Keto Dangerous? – Dr.Berg</summary><br>
+<summary>1992. [2019-02-03] Isn't 70 Percent Fat on Keto Dangerous? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=tyPTFlE6tKg" target="_blank">
     <img src="https://img.youtube.com/vi/tyPTFlE6tKg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# Isn't 70 Percent Fat on Keto Dangerous? – Dr.Berg
 
+### 文章重點整理
+
+#### 核心主題
+- 探讨 ketogenic（生酮饮食）计划中脂肪摄入的安全性及其对健康的影响。
+
+#### 主要觀念
+1. 生酮饮食的特点：
+   - 高脂肪（70%热量来源）、低碳水化合物（5%）、适量蛋白质（20%-25%）。
+   - 通过增加脂肪摄入，迫使身体燃烧脂肪而非碳水化合物，从而实现减重和代谢改善。
+
+2. 脂肪摄入的误解：
+   - 许多人认为高脂肪摄入可能导致动脉堵塞和其他健康问题。
+   - 实际上，生酮饮食中的高脂肪比例是以热量为基础的，而非体积基础。
+
+#### 問題原因
+- 对脂肪摄入量的误解：许多人误以为70%的脂肪比例意味着食物中脂肪体积占主导地位，而忽略了脂肪的能量密度（9卡路里/克）远高于蛋白质和碳水化合物（4卡路里/克）的事实。
+
+#### 解決方法
+1. 正确认识生酮饮食中的脂肪摄入：
+   - 70%的热量来源来自脂肪，但实际体积可能不到一半。
+   - 举例说明：1200卡路里的餐中，脂肪的实际体积约为4-5盎司，包括鱼类、橄榄油、牛油果等健康脂肪来源。
+
+2. 合理控制脂肪摄入量：
+   - 通过具体的食谱示例展示如何在生酮饮食中合理安排脂肪摄入。
+   - 示例1：7盎司三文鱼 + 1茶匙橄榄油 + 半个牛油果。
+   - 示例2：6盎司汉堡 + 半个牛油果 + 1茶匙橄榄油。
+
+#### 健康建議
+- 生酮饮食的健康益处：
+   - 有助于体重管理，促进脂肪燃烧。
+   - 改善代谢健康，降低血糖和胰岛素水平。
+
+- 注意事项：
+   - 需要在专业指导下进行，确保营养均衡。
+   - 选择健康的脂肪来源，如橄榄油、牛油果、坚果等。
+
+#### 結論
+- 生酮饮食中的高脂肪摄入并不像想象中那样危险。
+- 正确认识脂肪的热量密度和实际体积有助于消除对生酮饮食的误解。
+- 合理规划餐食，选择健康脂肪来源，可以安全有效地进行生酮饮食。
 </details>
 
 <details>
-<summary>1991. Stop Feeding Your Pet Mice Keto (Ketogenic Diet) – Dr. Berg</summary><br>
+<summary>1991. [2019-02-03] Stop Feeding Your Pet Mice Keto (Ketogenic Diet) – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=2LskFJ5fRK8" target="_blank">
     <img src="https://img.youtube.com/vi/2LskFJ5fRK8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# Stop Feeding Your Pet Mice Keto (Ketogenic Diet) – Dr. Berg
 
+### 核心主題： ketogenic diet 的安全性研究及其對寵物 rodents 的影響
+
+#### 主要觀念：
+- 高脂肪酮egenic diet 可能導致肝臟胰島素抵抗。
+- 實驗中使用的 ketogenic diet 成份與人類常見的有所不同。
+- 實驗中使用的人工合成成分可能影響健康。
+
+#### 問題原因：
+1. 高脂肪 ketogenic diet 會引起 hepatic insulin resistance，進一步導致 fatty liver 和代謝症候群（如糖尿病和高血olesterol）。
+2. 實驗中使用的 ketogenic 饮食成份，包括lard, butter, corn oil, casein, cellulose,合成vitamins和dextrose，這些成分可能對健康有害。
+
+#### 解決方法：
+1. 在引用研究時，需仔細檢視實驗條件和餵食成份。
+2. 比較實驗中使用的 ketogenic diet 與人類常見的 ketogenic diet 的差異。
+
+#### 健康建議：
+- 不建議將寵物 mouse 或其他小型 rodent 放在 ketogenic diet 上，因其可能引起嚴重健康問題。
+- 若考慮為人類實施 ketogenic diet，需注意食物來源和成份的安全性，避免使用合成或過敏原成分。
+
+#### 結論：
+- 高脂肪酮ogenic diet 可能對某些動物的肝臟造成負面影響，但這些結果不能直接推廣至人類。
+- 在引用相關研究時，需全面考慮實驗設計和餵食條件。
 </details>
 
 <details>
-<summary>1990. Calcium Food Sources If You Are Dairy Free On Keto – Dr.Berg</summary><br>
+<summary>1990. [2019-02-02] Calcium Food Sources If You Are Dairy Free On Keto – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=SMTWMwiGlTc" target="_blank">
     <img src="https://img.youtube.com/vi/SMTWMwiGlTc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# Calcium Food Sources If You Are Dairy Free On Keto – Dr.Berg
 
+### 核心主題： dairy-free飲食中的 calcium攝取來源及注意事项
+
+### 主要觀念：
+- **Dairy-free飲食中 calcium的重要性**  
+  認識到在排除乳制品的情況下，仍需攝取足夠的 calcium以維持骨骼健康和整體生理功能。
+
+- **非乳制品的 calcium來源**  
+  包括海產品（如鰯魚）、chia籽、杏仁及其他種子、深色葉菜類（如羽衣甘蓝、菠菜、香菜）以及十字花科蔬菜（如西兰花）等。
+
+### 問題原因：
+- **葉菜類中的 oxalate問題**  
+  某些 greens 中含有較高的 oxalates，這會影響 calcium 的吸收，導致其被「鎖住」而不被有效利用。
+
+- **Calcium carbonate的吸收困難**  
+  雖然是一種常見的補鈣形式，但其吸收率低，容易通過體內而不被利用。
+
+### 解決方法：
+- **食物處理技術**  
+  蒸或炒 spinach、parsley 等 greens 可降低 oxalate 含量，提高 calcium 的吸收效率。
+
+- **選擇合適的補鈣形式**  
+  選擇如 citrate 或其他易吸收形式的補鈣產品，避免使用 calcium carbonate。
+
+### 健康建議：
+- **食物來源為主**  
+  Prioritize obtaining calcium from food sources, as they provide better absorption and overall nutritional balance.
+
+- ** moderation in supplementation**  
+  若需補充 calcium，應選擇易吸收的形式並控制劑量，避免過量攝取。
+
+### 結論：
+- **Dairy-free飲食的可行性**  
+  雖然排除乳制品，但仍可通过多樣化的植物來源獲得足夠的 calcium，關鍵在於合理的食物選擇和適當的烹調方式。
+
+- **健康飲食的重要性**  
+  Emphasize the importance of a balanced diet that includes a variety of nutrient-rich foods to meet nutritional needs without relying solely on dairy products.
 </details>
 
 <details>
-<summary>1989. Breast Milk and Vitamin D Deficiencies (Subclinical Rickets) – Dr. Berg (MUST WATCH!!)</summary><br>
+<summary>1989. [2019-02-02] Breast Milk and Vitamin D Deficiencies (Subclinical Rickets) – Dr. Berg (MUST WATCH!!)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=aB2qYuUUoDE" target="_blank">
     <img src="https://img.youtube.com/vi/aB2qYuUUoDE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# Breast Milk and Vitamin D Deficiencies (Subclinical Rickets) – Dr. Berg (MUST WATCH!!)
 
+### 核心主題
+- 胸 milk 中維生素 D 的含量低。
+- 維生素 D 在嬰兒健康中的重要性。
+
+### 主要觀念
+1. 胸 milk 提供的維生素 D 量不足，無法滿足嬰兒每日所需。
+2. 維生素 D 缺乏可導致rickets和其他骨骼問題。
+3. 綴急性 rickets 與呼吸道感染和消化不良有關。
+4. 維生素 D 在免疫系統、骨骼形成和睡眠中起重要作用。
+
+### 問題原因
+1. 胸 milk 中維生素 D 含量低。
+2. 新生兒暴露於紫外線的機會有限，影響皮膚合成維生素 D。
+3. 部分母親自身可能缺乏維生素 D，影響奶水中的含量。
+
+### 解決方法
+1. 母親攝取高品質的 virgin cod liver oil。
+2. 接受適當的日光照射以促進維生素 D 的合成。
+3. 增加富含維生素 D 的食物攝取，如脂肪魚類（鮭魚、沙丁魚等）。
+
+### 健康建議
+1. 母親在哺乳期應補充足夠的維生素 D。
+2. 確保嬰兒接觸到適當的日光照射。
+3. 考慮给宝宝補充維生素 D 素食劑，需諮詢醫生。
+4. 避免過度包裹嬰兒，以促進皮膚合成維生素 D。
+
+### 結論
+- 維生素 D 缺乏對嬰兒健康有顯著影響，包括骨骼畸形和免疫問題。
+- 母親攝取足夠的維生素 D 是嬰兒健康的重要保障。
+- 及時補充維生素 D 可有效預防 rickets 和其他相關疾病。
 </details>
 
 <details>
-<summary>1988. Intermittent Fasting, Exercise and Stored Sugar – Dr. Berg</summary><br>
+<summary>1988. [2019-02-01] Intermittent Fasting, Exercise and Stored Sugar – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=F6tYnMRKkXI" target="_blank">
     <img src="https://img.youtube.com/vi/F6tYnMRKkXI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# Intermittent Fasting, Exercise and Stored Sugar – Dr. Berg
 
+### 核心主題  
+- **間歇性斷食結合運動**：探討在 fasting 狀態下進行 exercise 的效果及其對健康益處的影響。
+
+### 主要觀念  
+1. **斷食的生理反應**：
+   - 斷食引發輕微壓力，促使身體增強對壓力和疾病的抵抗力。
+   - 在基因水平上改善炎症和自身免疫問題。
+   - 降低氧化應激，延緩退化，帶來多方面的健康益處。
+
+2. **進入斷食狀態的條件**：
+   - 需 fasting 至少 16 小時以實現血糖原儲備的耗竭。
+   - 减少飲食次數可增強斷食的效果。
+   - 推荐每日進食窗口為8小時，逐步減少至1餐/天以增加斷食時間。
+
+3. **血糖原儲備與其耗竭**：
+   - 身體約储存 1,600 到 2,800 卡路里的血糖原，主要儲存在肝臟和肌肉中。
+   - 肌肉中的血糖原仅供肌肉使用，無法供應其他部位。
+
+4. **運動加速血糖原耗竭**：
+   - 經常活動可於12-22小時內耗竭血糖原。
+   - 輕度運動（如慢跑、騎車）需60-90分鐘。
+   - 高強度間歇訓練（HIIT）可在20-40分鐘內耗竭血糖原。
+
+5. **代謝轉換**：
+   - 斷食配合運動促使身體從糖分為主的代謝轉向脂肪燃燒。
+   - 熟悉酮體供能可提高運動表現並避免低血糖問題。
+
+### 問題原因  
+- 初學者在过渡至酮基代謝時可能遇到疲勞、血 sugar 不穩等問題，主要是因為尚未完全適應 fat-burning 模式。
+- 饮食中攝入碳水化合物（尤其是斷食期間）會影響酮症適應，導致消化不順和水分潴留。
+
+### 解決方法  
+1. **逐步調整**：
+   - 給身體足夠的時間來適應酮基代謝。
+   
+2. **飲食控制**：
+   - 在斷食期間避免攝入碳水化合物，以避免干擾酮症適應。
+
+3. **運動計劃**：
+   - 選擇適合的運動強度和時長，以有效耗竭血糖原並促進脂肪燃燒。
+   - 熟悉酮基代謝後，運動表現將顯著提升。
+
+### 健康建議  
+- 結合間歇性斷食、低 carbohydrates 飲食及定期 exercise 來優化健康效益。
+- 初學者應逐步增加 fasting 時長並適應酮基代謝，以避免初期不適。
+
+### 總結  
+- 斷食結合運動可引發多項生理修復反應，改善整體健康。
+- 適當的斷食時間、合理的飲食結構和科學的運動計劃是實現最佳效果的關鍵。
 </details>
 
 <details>
-<summary>1987. Is Hypoglycemia The Opposite of Diabetes? – Dr. Berg On Hypoglycemia vs Hyperglycemia</summary><br>
+<summary>1987. [2019-01-31] Is Hypoglycemia The Opposite of Diabetes? – Dr. Berg On Hypoglycemia vs Hyperglycemia</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ur76HU-S3jA" target="_blank">
     <img src="https://img.youtube.com/vi/ur76HU-S3jA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# Is Hypoglycemia The Opposite of Diabetes? – Dr. Berg On Hypoglycemia vs Hyperglycemia
 
+### 1. 核心主題  
+- **Hypoglycemia**（低血糖）與**Hyperglycemia**（高血糖，即糖尿病）的關聯性及差異。  
+
+---
+
+### 2. 主要觀念  
+- Hypoglycemia 是 Hyperglycemia 的前兆，而非完全對立的概念。  
+- 糖尿病患者通常經歷胰島素抵抗（Insulin Resistance），而低血糖患者則因胰島素作用過強導致血糖迅速下降。  
+
+---
+
+### 3. 問題原因  
+- **Hypoglycemia**的原因：  
+  - 胰島素分泌過量或敏感性過高，導致血糖快速降低。  
+  - 約翰提到的可能因素包括貧弱的腎上腺功能、脂肪肝或其他影響反向激素（如腎上腺素）的因素。  
+
+- **Hyperglycemia**的原因：  
+  - 胰島素抵抗或分泌不足，導致血糖無法有效降低並長期維持高水平。  
+
+---
+
+### 4. 解決方法  
+- **低血糖的解決辦法**：  
+  - 減少碳水化合物攝取，避免血糖快速波動。  
+  - 開始間歇性禁食（Intermittent Fasting），以降低胰島素負擔。  
+
+- **高血糖/糖尿病的治療建議**：  
+  - 使用藥物如二甲雙胍（Metformin）來改善胰岛素敏感性。  
+  - 在病情惡化時，可能需要外源性胰島素注射。  
+
+---
+
+### 5. 健康建議  
+- 避免頻繁進食或零食，以降低胰島素_spike_的發生次數。  
+- 選擇低GI（升糖指數）食物，幫助血糖穩定。  
+
+---
+
+### 6. 結論  
+- Hypoglycemia 是糖尿病的前期狀態，而非對立面。  
+- 高血糖患者需注意胰島素抵抗的惡化，及時調整飲食和治療方式以避免進一步病情加重。  
+- 適當的飲食控制和生活方式改変是關鍵。
 </details>
 
 <details>
-<summary>1986. Why Keto Is Not Working For You? – Dr. Berg</summary><br>
+<summary>1986. [2019-01-31] Why Keto Is Not Working For You? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HScbz8CflGY" target="_blank">
     <img src="https://img.youtube.com/vi/HScbz8CflGY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# Why Keto Is Not Working For You? – Dr. Berg
 
+### 小節整理
+
+#### 核心主題
+- 針對 ketogenic（生酮飲食）進行討論，分析一個人在實踐此飲食法時未見效的原因。
+- 强調正確實施生酮飲食的重要性及其對健康的影響。
+
+#### 主要觀念
+1. 生酮飲食的三大關鍵指標：
+   - 能量水平提升。
+   - 飢欲消除。
+   - 不感到饥饿。
+2. 未能有效進行生酮飲食的原因：
+   - 疲勞感持續。
+   - 飢欲未減。
+   - 餓腹感頻繁。
+
+#### 問題原因
+- **飲食選擇不當**：攝入过多低碳水化合物食物，但未正確平衡脂肪和蛋白質的比例。
+- **不良飲食習慣**：
+  - 過度依賴水果，導致血糖波動。
+  - 不適時進食，尤其是零食攝取過多。
+- **微量營養素不足**：蔬菜攝取不足，影響胰島素抵抗和電解質平衡。
+
+#### 解決方法
+1. **飲食結構調整**：
+   - 增加健康脂肪的攝取（如橄榄油、坚果）以延長酮症狀態。
+   - 降低蛋白質攝取量，避免代謝壓力過大。
+2. **微量營養素補充**：
+   - 多攝取富含礦物質的蔬菜（如甜椒），幫助改善胰島素抵抗。
+   - 使用蘋果醋和檸檬汁來平衡血糖。
+3. **飲食比例建議**：
+   - 碳水化合物：葉菜類占盤子的一半。
+   - 蛋白質：約占四分之一。
+   - 脂肪：約占四分之一，但熱量佔比應達70%。
+
+#### 健康建議
+- 選擇高品質食物：
+  - 野生-caught海鮮（如三文魚）。
+  - 圍場飼養家禽及蛋類（如雞肉、鸡蛋）。
+  - 使用有機奶酪和淡奶油，避免加工產品。
+- 避免低營養密度的食物：
+  - 快速碳水化合物（如白麵包、甜食）。
+  - 空有其名的健康食品（如加工穀物）。
+- 注意飲食時機：
+  - 只在饑餧時進食，避免因外界誘因而进食。
+
+#### 結論
+- 生酮飲食的成功取決於正確的食物選擇和飲食結構。
+- 微量營養素的足夠攝取能提升整體健康效果，並減輕轉型期不適症狀。
+- 長期堅持健康生酮飲食可帶來多重益處，包括体重控制、皮膚改善、認知能力增強和炎症降低。
+
+---
+
+此整理結構清晰地展示了文章的核心內容，從問題分析到解決方案均有詳細闡述，適合用於進一步的研究或實踐參考。
 </details>
 
 <details>
-<summary>1985. Brain Repair & BDNF Increase with Intermittent Fasting – Dr. Berg</summary><br>
+<summary>1985. [2019-01-30] Brain Repair & BDNF Increase with Intermittent Fasting – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=YccBeF1u_Ac" target="_blank">
     <img src="https://img.youtube.com/vi/YccBeF1u_Ac/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# Brain Repair & BDNF Increase with Intermittent Fasting – Dr. Berg
 
+### 文章總結與結構化整理
+
+---
+
+#### **核心主題：**
+- ** fasting (禁食) 对脑源性神经营养因子 (BDNF) 的影响及其在海马体中的作用。**
+
+---
+
+#### **主要觀念：**
+1. **神經元的結構與功能：**
+   - 神经元由樹突（ dendrites，接收信息）、細胞體（cell body）和軸突（axon，傳輸信息）組成。
+   - 樹突負責接收外部信號，軸突負責將信息傳送至下一_neurons。
+
+2. **BDNF的作用：**
+   - BDNF 是一種神經生長因子，促進神經元的存活、分化和可塑性。
+   - 神经可塑性（neural plasticity）是指神經網絡的結構和功能可變性的能力。
+
+3. **禁食對神經系統的影響：**
+   - 禁食增強神經可塑性，促進神經元之間的有效通信。
+   - 禁食增加神經發生（neurogenesis），即新神經元的生成。
+   - 禁食還具有修復神經元DNA的能力，預防突變和疾病。
+
+4. **海馬體的功能：**
+   - 海馬體（hippocampus）與記憶、學習能力、情緒調節和空間導航等功能有關。
+   - 提高海馬體功能可增強記憶力、學習效率、情緒穩定性和自制力。
+
+---
+
+#### **問題原因：**
+- 神經元之間通信失敗導致神經退化（neurodegeneration）。
+- BDNF水平降低與多種疾病相關，包括阿爾茨海默病、糖尿病、炎症反應和自身免疫性疾病（如多發性硬化症 MS）。
+
+---
+
+#### **解決方法：**
+1. 禁食：
+   - 通過限制飲食來提高BDNF水平。
+   - 禁食增強神經可塑性和神經發生，修復神經元DNA。
+
+2. 其他增加BDNF的方法：
+   - **有氧運動**：提昇神經可塑性。
+   - **維生素D**：支持神經健康。
+   - **ω-3脂肪酸**：降低炎症並促進神經保護。
+   - **生酮飲食（keto diet）**：產生酮體，支持腦功能。
+
+---
+
+#### **健康建議：**
+1. 禁食方式：
+   - 避免傳統的低碳熱量飲食，如每小時攝食一次，因會導致血糖波動和營養不足。
+   - 採用間歇性禁食，減少進餐次數，增加每餐份量。
+
+2. 生活習慣建議：
+   - 細胞通信是健康的基礎，需避免長期隔絕神經元之間的通信。
+   - 適當運動和攝取均衡營養以支撐神經功能。
+
+---
+
+#### **結論：**
+- 禁食是一種有效的手段來提高BDNF水平，增強海馬體功能。
+- 通過改善神經可塑性、增加神經發生和修復DNA，禁食可預防並改善多種疾病。
+- 提高海馬體功能可帶來更好的記憶力、學習能力和情緒穩定性。
+
+--- 
+
+**此文章強調了禁食在提升神經健康方面的多重益處，特別是在BDNF和海馬體功能方面。**
 </details>
 
 <details>
@@ -181,6 +843,8 @@
     <img src="https://img.youtube.com/vi/kx-2iz54huk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 15 Reasons Why You Are Not Losing Weight On A Low Carb Keto Diet Plan – Dr. Berg
 
 ### 核心主題：  
 - 探讨低糖生酮飲食（Keto）計劃中可能影響體重下降的因素。
@@ -282,6 +946,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Doing Ketogenic Diet And Intermittent Fasting But Still Craving? Keto Cravings – Dr. Berg
+
 ### 核心主題  
 - 酮症候群（Ketosis）與控制飲食的關係。  
 - 經常感到 craving 和 hunger 的可能原因及解決方法。  
@@ -342,6 +1008,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# 9 Bad Keto Food Ingredients to Avoid – Non-Keto Friendly Foods – Dr. Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -386,6 +1054,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How To Maintain Weight After Reaching Ketogenic Diet Goal – Keto Weight Maintenance – Dr.Berg
+
 ### 小節歸納
 
 #### 核心主題  
@@ -425,6 +1095,8 @@
     <img src="https://img.youtube.com/vi/zPF67mY3R8g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Keto Snacks are Very Bad for Your Keto Diet Plan - Keto Foods – Dr. Berg
 
 ### 文章整理與分析
 
@@ -486,6 +1158,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Magnesium and Calcium (Part 3): Hypercalcemia Causes & How To Get Rid Of Excess Calcium? – Dr.Berg
+
 ### 核心主題  
 - 調控細胞外過剩鈣離子的水平及其健康影響  
 
@@ -536,6 +1210,8 @@
     <img src="https://img.youtube.com/vi/LcePNeNHefM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Magnesium and Calcium (Part 2): Causes Of Hypercalcemia & Hypomagnesemia – Dr.Berg
 
 ### 文章整理：镁与钙的相互作用及其对健康的影響
 
@@ -619,6 +1295,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Magnesium and Calcium (Part 1): Hypomagnesemia, Function Of Magnesium & Its Deficiency – Dr.Berg
+
 ### 核心主題：鎂元素的作用與重要性
 
 - 鎂元素是超過300個酶促反應的輔助因子，對身體多項生理功能至關重要。
@@ -682,6 +1360,8 @@
     <img src="https://img.youtube.com/vi/NJhnwxa9Jz0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Rhomboid Spasm & Pain Relief Treatment By Dr.Berg
 
 ### 文章整理：右側菱形肌痙攣與膽囊相關問題
 
@@ -748,6 +1428,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Fasting And Eating Cycle – The Connection Between Fasting And Growth Hormone – Dr.Berg
+
 ### 文章重點整理
 
 #### 核心主題： fasting and eating cycles 与健康的关系  
@@ -788,6 +1470,8 @@
     <img src="https://img.youtube.com/vi/kS42ykUl5-E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Sodium-Potassium Ratio Should Be 4:1 – Dr. Berg On Potassium Deficiency Symptoms
 
 ### 文章整理：assium的重要性及其在健康中的作用
 
@@ -853,6 +1537,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Potential Benefits And Side Effects Of Intermittent Fasting – Dr. Berg
+
 
 </details>
 
@@ -863,6 +1549,8 @@
     <img src="https://img.youtube.com/vi/ptkt-3fBDEs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg's Keto Slogan Contest
 
 ### 核心主題
 - **核心主題**：尋求創意協助為一件T恤設計出一個吸引人的標語，該T恤將使用於Qtail項目。
@@ -896,6 +1584,8 @@
     <img src="https://img.youtube.com/vi/94Q-1Fjp9io/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Eye Twitching Causes : What Causes Left Eyelid Twitching – Dr.Berg on Tetany
 
 ### 核心主題：.twitching（眼瞼下顫搐）
 
@@ -943,6 +1633,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
     <img src="https://img.youtube.com/vi/67sCkku8u3o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Symptoms of Potassium Deficiency: High Potassium Diet Protects Kidneys & Prevent Strokes – Dr. Berg
 
 ### 核心主題：  
 - 鈉離子（Potassium）在人體健康中的重要性及其對腎臟、心血管系統的保護作用。
@@ -1011,6 +1703,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
+# Reasons Why You Have Leg Cramps At Night (Nocturnal Leg Cramps)? – Dr.Berg
+
 ### 核心主題
 - 夜間腿部痙挛（Nocturnal Leg Cramps）的原因及預防方法。
 
@@ -1061,6 +1755,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
     <img src="https://img.youtube.com/vi/3GjCWe7rTOc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Should You Eat Dairy (Calcium) With Kidney Stones? Food For Kidney Stones – Dr. Berg
 
 ### 小節歸納
 
@@ -1119,6 +1815,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
+# Do These 2 Things Now For Premature Graying Hair Or Losing Hair Color – Dr.Berg
+
 ### 文章重點整理
 
 #### 核心主題  
@@ -1160,6 +1858,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
+# Is There A Relation Between The Epstein Barr Virus And Fatigue? – Dr. Berg
+
 ### 文章重點整理
 
 #### 1. 核心主題：Epstein-Barr Virus (EBV) 與疲勞之間的關聯  
@@ -1193,6 +1893,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
     <img src="https://img.youtube.com/vi/lGrFu6xIa5k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr.Berg's Interview With Biggest Loser Contestant, Rob Kidney – Dr.Berg
 
 ### 文章整理與分析
 
@@ -1234,6 +1936,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
     <img src="https://img.youtube.com/vi/GvT4YuwKfHw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Check Nutrient Deficiencies on OMAD (One Meal a Day) and Keto? – Dr.Berg
 
 ### 小節化整理：如何識別生酮飲食中的一餐一天的營養缺乏
 
@@ -1322,6 +2026,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
+# Quick Tips on Keto Diet and Intermittent Fasting For Better Digestion in 1 Minute – Dr.Berg
+
 ### 核心主題
 - 提供消化問題的飲食調整建議。
 
@@ -1358,6 +2064,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
     <img src="https://img.youtube.com/vi/qsRBYKsdshQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr.Berg Interviews On EMFs, Fasting And Other Stuff With Dr. Mercola – Dr.Berg Fasting
 
 ### 文章整理：電磁場（EMF）暴露及其健康影響
 
@@ -1410,6 +2118,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
     <img src="https://img.youtube.com/vi/eiot3waa3yU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Different Ways of Ketone Testing with Urine, Blood or Breath – Dr. Berg Types Of Ketones
 
 ### 文章重點整理
 
@@ -1490,6 +2200,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
+# Gallbladder Removal Diet And The Gallbladder Problems – Dr.Berg
+
 ### 小節歸納
 
 #### 核心主題
@@ -1535,6 +2247,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
     <img src="https://img.youtube.com/vi/9EKlzQzGKpg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# List of Vegetables/Foods High In Lectins & Cause Of Bloating – Dr.Berg
 
 ### 小節化整理
 
@@ -1596,6 +2310,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
+# Why Do Nuts Irritate Your Gallbladder? Lectins In Food & Gallbladder Problems – Dr. Berg
+
 ### 文章整理：坚果对胆囊的刺激及解决方案
 
 #### 核心主題
@@ -1641,6 +2357,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
     <img src="https://img.youtube.com/vi/2oUvwXAZzEI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Causes Gallstones & Is Gallbladder Cleanse Safe Or Not? – Dr. Berg
 
 ### 1. 核心主題： gallbladder flush 的風險與替代方案
 
@@ -1702,6 +2420,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
+# Fennel Seeds Benefits for Stomach Bloating and Cramping – Bloating Stomach Remedies – Dr. Berg
+
 ### 文章整理
 
 #### 核心主題  
@@ -1762,6 +2482,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
     <img src="https://img.youtube.com/vi/4t4OlImxtt0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Ketosis Diet To Lowering Carbs And Insulin - Carbs On Keto Diet – Dr.Berg
 
 ### 文章重點整理
 
@@ -1832,6 +2554,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
+# Difference Between Zero Carb Versus Low Carb On Keto Diet – Dr.Berg
+
 ### 核心主題：酮飲食中低碳和生酮飲食的差異
 
 #### 主要觀念：
@@ -1885,6 +2609,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
+# Will Fiber Knock Me Out of Ketosis? Fiber On Keto Diet By Dr. Berg
+
 ### 文章整理：fiber對酮症影響之分析
 
 ---
@@ -1934,6 +2660,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
+# How to Lower Your Ammonia From Liver Cirrhosis - Ammonia Toxicity In Liver – Dr. Berg
+
 ### 小節歸納與整理
 
 #### 核心主題
@@ -1981,6 +2709,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
     <img src="https://img.youtube.com/vi/fYOa4z6CiP0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr.Berg's Reaction on Jillian Michaels Keto Diet Confusion!
 
 ### 文章重點整理
 
@@ -2051,6 +2781,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
+# Fast Longer with Dr. Berg's Keto Fasting Tea Commercial - Keto Tea – Dr. Berg
+
 ### 核心主題  
 - 探讨野生动物中雌性个体通过 fasting（禁食）来改善自身吸引力的行为及其背后的原因。
 
@@ -2083,6 +2815,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
     <img src="https://img.youtube.com/vi/qTzxfoL82n8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 9 Apple Cider Vinegar Health Benefits – Dr. Berg on ACV Benefits
 
 ### 文章整理：.apple cider vinegar 的健康益處與使用建議.
 
@@ -2128,6 +2862,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
+# What Fast Food Can you Eat on Keto? – Dr.Berg
+
 
 </details>
 
@@ -2138,6 +2874,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
     <img src="https://img.youtube.com/vi/hj-q_LPgfQs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Still Bloated Even with Apple Cider Vinegar? – Dr. Berg
 
 ### 文章整理：Vitamin B3 与胃酸的关系及其对消化健康的影响
 
@@ -2201,6 +2939,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
+# What is the Ketogenic Diet?
+
 # 文章重點整理：健康酮飲食指南
 
 ## 核心主題
@@ -2257,6 +2997,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
+# What Is Hepatitis C? – Dr.Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -2309,6 +3051,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
+# Low Carb Diet vs Keto Diet - The Difference Explained by Dr. Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -2358,6 +3102,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
+# Best Foods For Benign Prostatic Hyperplasia (BPH) – Dr.Berg
+
 ### 文章整理：良性前列腺肥大的 hormone 影響與食疗建議
 
 #### 1. 核心主題
@@ -2406,6 +3152,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
     <img src="https://img.youtube.com/vi/Gzuq_7y6s9A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Can You Eat Dairy Products on Keto Diet? – Dr. Berg
 
 ### 文章重點整理
 
@@ -2493,6 +3241,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg and Wounded Warrior Tim Payne on Keto Diet
+
 ### 文章整理：《酮 diet 與健康疑問解答》
 
 ---
@@ -2559,6 +3309,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
+# How To Get Rid Of Hangover Instantly? – Dr.Berg
+
 ### 核心主題：缓解宿醉的方法
 
 ### 主要觀念：
@@ -2599,6 +3351,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
     <img src="https://img.youtube.com/vi/SFTJNnRWQbY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Is Keto BAD? – Dr. Berg
 
 ### 文章重點整理
 
@@ -2655,6 +3409,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
     <img src="https://img.youtube.com/vi/43WLjkVenI8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Get Rid Of Phantom Pain Fast? – Dr.Berg
 
 ### 文章整理與分析
 
@@ -2730,6 +3486,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
+# Is Coffee Bad For Liver? – Dr. Berg
+
 ### 文章整理：咖啡對肝臟的影響及相關健康議題
 
 #### 核心主題
@@ -2782,6 +3540,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
     <img src="https://img.youtube.com/vi/dWMaXJtoXBo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Stop Worrying About LDL & High Cholesterol on Keto Diet – Dr. Berg
 
 ### 文章重點整理
 
@@ -2858,6 +3618,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
+# Liver Damage From Alcohol Is NOT Coming From Alcohol – Dr. Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -2915,6 +3677,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg / Karen Live Q&A, Friday (Jan. 4) on the Ketogenic Diet and Intermittent Fasting
+
 ### 核心主題
 - 提醒即將舉辦一場直播活動。
 
@@ -2949,6 +3713,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
     <img src="https://img.youtube.com/vi/eqQnJIx17io/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Natural Liver Cleanser: Apple Cider Vinegar and Lemon Water
 
 # 文章重點整理：蘋果醋和檸檬汁對肝臟的益處
 
@@ -3006,6 +3772,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
     <img src="https://img.youtube.com/vi/JkZvFjW82Mk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Cholesterol Basics 101 by Dave Feldman & Dr. Berg
 
 ### 文章重點整理
 
@@ -3070,6 +3838,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
+# Does Skipping Breakfast Cause Diabetes & Weight Gain? – Dr. Berg
+
 ### 小節一：核心主題  
 - 探讨早餐 Skipping 与 糖尿病和体重增加之间的关系。  
 
@@ -3112,6 +3882,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
     <img src="https://img.youtube.com/vi/9audjsJxvdM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Low Back Pain Coming From Crossing Your Legs? – Dr. Berg on Back Pain Remedies
 
 ### 核心主題  
 - 跨腿坐姿對人體結構的影響及其可能導致的健康問題。
@@ -3170,6 +3942,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
     <img src="https://img.youtube.com/vi/weZ_BoMptLI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# A Surprising Way To Cleanse Fatty Liver – Dr. Berg On Liver Detoxification
 
 ### 文章重點整理
 
@@ -3238,6 +4012,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
+# Sugar Alcohols Making You Fat? – Dr. Berg
+
 ### 文章整理：糖醇對健康的影響與建議
 
 #### 核心主題  
@@ -3269,6 +4045,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
     <img src="https://img.youtube.com/vi/9S5xspoLTvg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# #1 Reason Of Not Losing Weight on the Ketogenic Diet – Dr. Berg
 
 ### 核心主題  
 - 維生素D缺乏症及其影響  
@@ -3303,6 +4081,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
     <img src="https://img.youtube.com/vi/mRj1RKh4xyY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Happens If You Stop Eating Sugar for 14 Days – Dr. Berg On Quitting Sugar Cravings
 
 ### 小節歸納
 
@@ -3376,6 +4156,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
+# How To Stop A Cold At The First Sign – Dr.Berg On Cold Symptoms & Intermittent Fasting
+
 ### 文章總結與結構化整理
 
 #### 核心主題
@@ -3438,6 +4220,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
+# Can Too Much Protein Make You Fat? – Dr.Berg
+
 ### 小節歸納：
 
 #### 1. 核心主題：
@@ -3474,6 +4258,8 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
     <img src="https://img.youtube.com/vi/OjdweOuY_xw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Most Powerful Candida Infection (Yeast Infection) Killer – Dr. Berg
 
 ### 核心主題
 - **Candida感染**：本文探討了Candida感染的成因、症狀及其自然療法。
@@ -3526,6 +4312,8 @@ Candida infections是一種常見但可能嚴重影響健康的問題。大蒜�
     <img src="https://img.youtube.com/vi/CsTmgX32Uk8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How Your Feet Are Warning You About Your Liver Problems - Dr. Berg Explains
 
 ### 文章重點整理
 
@@ -3601,6 +4389,8 @@ Candida infections是一種常見但可能嚴重影響健康的問題。大蒜�
         alt="[Youtube]" width="200">
 </a>
 
+# 11 Warning Signs You Never Want to Ignore – Dr.Berg
+
 ### 核心主題：早期健康警示與風險管理  
 Early Health Warning Signs and Risk Management  
 
@@ -3654,6 +4444,8 @@ Insights from Long-Term Clinical Observation of Patient Behavior Patterns
         alt="[Youtube]" width="200">
 </a>
 
+# The Unique Benefits of Propolis (Bee Glue) – Dr.Berg
+
 ### 小節歸納
 
 #### 核心主題
@@ -3695,6 +4487,8 @@ Insights from Long-Term Clinical Observation of Patient Behavior Patterns
     <img src="https://img.youtube.com/vi/GZhA-pItUo4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Detox & Flush Your Kidneys? – Dr.Berg On Kidney Cleanse
 
 ### 文章整理：腎臟排毒清潔法
 
@@ -3770,6 +4564,8 @@ Insights from Long-Term Clinical Observation of Patient Behavior Patterns
         alt="[Youtube]" width="200">
 </a>
 
+# Sticky Tarry Black Stool on Keto Diet? Here's Why – Bowel Movement & Steatorrhea – Dr.Berg
+
 ### 文章整理：酮egenic Diet中黑色粘稠便便的原因及应对策略
 
 #### 1. 核心主題  
@@ -3830,6 +4626,8 @@ Insights from Long-Term Clinical Observation of Patient Behavior Patterns
     <img src="https://img.youtube.com/vi/NOdz26znBbE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is Your Brain Shrinking? – Dr.Berg On Brain Health & Brain Atrophy
 
 ### 文章整理：腦萎縮與再生之道
 
@@ -3897,6 +4695,8 @@ Insights from Long-Term Clinical Observation of Patient Behavior Patterns
         alt="[Youtube]" width="200">
 </a>
 
+# How To Get Teenager To Eat Healthy – Dr.Berg On Teen Nutrition
+
 # 文章重點整理
 
 ## 核心主題
@@ -3947,6 +4747,8 @@ Insights from Long-Term Clinical Observation of Patient Behavior Patterns
     <img src="https://img.youtube.com/vi/XID81ZUi5HU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Does Apple Cider Vinegar Burn Your Stomach? – Dr.Berg
 
 ### 文章重點整理
 
@@ -4006,6 +4808,8 @@ Insights from Long-Term Clinical Observation of Patient Behavior Patterns
     <img src="https://img.youtube.com/vi/hqHim1SVAv0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Are You Dehydrated? | Simple Test For Dehydration by Dr.Berg
 
 ### 文章重點整理與分析
 
@@ -4076,6 +4880,8 @@ Insights from Long-Term Clinical Observation of Patient Behavior Patterns
         alt="[Youtube]" width="200">
 </a>
 
+# Dental Plaque Removal Using Only 3 Ingredients: Tea Tree Oil, Xylitol, and Coconut Oil – Dr.Berg
+
 ### 文章重點整理
 
 #### 核心主題  
@@ -4109,6 +4915,8 @@ Insights from Long-Term Clinical Observation of Patient Behavior Patterns
     <img src="https://img.youtube.com/vi/1MDGSbA6u4A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Green Blood Therapy – Benefits of Wheatgrass Juice Powder – Dr. Berg
 
 ### 小節歸納
 
@@ -4167,6 +4975,8 @@ Insights from Long-Term Clinical Observation of Patient Behavior Patterns
         alt="[Youtube]" width="200">
 </a>
 
+# The Most Caffeinated Beverage In The World!! – Dr.Berg
+
 ### 小節歸納
 
 #### 1. **核心主題**
@@ -4208,6 +5018,8 @@ Insights from Long-Term Clinical Observation of Patient Behavior Patterns
     <img src="https://img.youtube.com/vi/ZoDYQa3uWtY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Live Longer Without Eating? – Weird But True Facts by Dr.Berg
 
 # 文章重點整理：斷食與壽命延長
 
@@ -4273,6 +5085,8 @@ Insights from Long-Term Clinical Observation of Patient Behavior Patterns
     <img src="https://img.youtube.com/vi/xcwUfybfRpo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Do I Have Blood in the Urine After Exercise? – Dr.Berg
 
 ### 文章重點整理
 
@@ -4348,6 +5162,8 @@ Insights from Long-Term Clinical Observation of Patient Behavior Patterns
         alt="[Youtube]" width="200">
 </a>
 
+# Stents May be the Patch, But Whats the Fix? – Dr.Berg
+
 ### 小節整理：
 
 #### 1. 核心主題：
@@ -4393,6 +5209,8 @@ Insights from Long-Term Clinical Observation of Patient Behavior Patterns
     <img src="https://img.youtube.com/vi/BphyxMtnwmg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Do Intermittent Fasting? – Dr. Berg's Guide [PDF]
 
 ### 核心主題：.INTERMITTENT FASTING（間歇性斷食）的功效與實踐方法
 
@@ -4472,6 +5290,8 @@ INTERMITTENT FASTING 是一種科學支持的健康管理策略，通過規律�
         alt="[Youtube]" width="200">
 </a>
 
+# Are You Addicted To Chocolate? – Dr.Berg
+
 ### 文章主題：巧克力中的活性物質及其對情緒和健康的影響
 
 ---
@@ -4529,6 +5349,8 @@ INTERMITTENT FASTING 是一種科學支持的健康管理策略，通過規律�
     <img src="https://img.youtube.com/vi/bzs_60vTkpU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Ketogenic Diet Food List: Cheat Sheet (PDF) by Dr.Berg
 
 ### 核心主題  
 - 推廣健康的酮osis飲食法則，特別針對新手或剛接觸酮osis的人群。  
@@ -4594,6 +5416,8 @@ INTERMITTENT FASTING 是一種科學支持的健康管理策略，通過規律�
         alt="[Youtube]" width="200">
 </a>
 
+# Dr.Berg and Dr. Andreas Eenfeldt Discuss Keto In Sweden And..
+
 ### 小節歸納
 
 #### 1. 核心主題：健康酮飲食與低碳水化合物生活方式
@@ -4655,6 +5479,8 @@ INTERMITTENT FASTING 是一種科學支持的健康管理策略，通過規律�
         alt="[Youtube]" width="200">
 </a>
 
+# Passing a Kidney Stone? Do This Fast! – Dr.Berg on Removing Kidney Stones
+
 ### 重点归纳
 
 #### 核心主题
@@ -4697,6 +5523,8 @@ INTERMITTENT FASTING 是一種科學支持的健康管理策略，通過規律�
     <img src="https://img.youtube.com/vi/NSPWFz6Dn44/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Do Not Eat Peanut Butter Again, Until You Watch This!!
 
 ### 重點整理
 
@@ -4761,6 +5589,8 @@ INTERMITTENT FASTING 是一種科學支持的健康管理策略，通過規律�
     <img src="https://img.youtube.com/vi/HIiM7q8A8Ic/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Stinging Nettle Root: Powerful Anti-inflammatory - Dr. Berg
 
 ### 核心主題  
 - 探讨抗炎草藥中最具效力的自然療法：刺薺菜根（Stinging Nettle Root）。  

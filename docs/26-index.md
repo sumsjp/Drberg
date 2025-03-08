@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The 9 Low Carb Myths Debunked
+
 ### 小節歸納與整理
 
 #### 1. 核心主題：低醣飲食的九大常見迷思與事實澄清
@@ -64,6 +66,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Could Your Snacking be a Medical Disease?
+
 ### 核心主題 (Core Theme)
 - ** binge eating disorder (BED)** 被介紹為一種新型飲食障礙，首次在DSM-5中被詳細描述。
 
@@ -114,6 +118,8 @@
     <img src="https://img.youtube.com/vi/ATgKFjMTse4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Does Losing Weight Reduce Insulin Resistance? – Dr.Berg
 
 ### 文章主旨
 
@@ -207,6 +213,8 @@ insulin resistance 是肥胖和代謝症的核心問題。健康的飲食模式�
         alt="[Youtube]" width="200">
 </a>
 
+# Need More Carbs to Boost Energy? Hypokalemia/Low Potassium Symptoms – Dr.Berg
+
 ### 文章整理：碳水化合物攝取與疲倦之間的關聯：基於opotassium的角度
 
 ---
@@ -280,6 +288,8 @@ insulin resistance 是肥胖和代謝症的核心問題。健康的飲食模式�
         alt="[Youtube]" width="200">
 </a>
 
+# The 5 Reasons for Stomach Pain on the Ketogenic Diet
+
 ### 小節歸納
 
 #### 核心主題  
@@ -322,6 +332,8 @@ insulin resistance 是肥胖和代謝症的核心問題。健康的飲食模式�
     <img src="https://img.youtube.com/vi/jzF-_79YQRI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Does the Sun Cause or Prevent Melanomas?
 
 ### 核心主題  
 - **爭議與困惑**：太陽曝露與黑色素瘤之間的關聯性及其健康影響。  
@@ -371,6 +383,8 @@ This study highlights the dichotomy between excessive sun avoidance and vitamin 
     <img src="https://img.youtube.com/vi/pzWZt-ZTAnM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Has Keto Gotten a Bad Rap?
 
 ### 核心主題  
 - 分析 ketogenic diet（生酮飲食）在新聞和輿論中被批评为有害的原因。  
@@ -447,6 +461,8 @@ This study highlights the dichotomy between excessive sun avoidance and vitamin 
         alt="[Youtube]" width="200">
 </a>
 
+# Vitamin D: How Much Food Would You Have to Eat?
+
 # 文章重點整理
 
 ## 核心主題 [0:00]
@@ -499,6 +515,8 @@ This study highlights the dichotomy between excessive sun avoidance and vitamin 
     <img src="https://img.youtube.com/vi/AupL5gTil8o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The #1 Thing Missing in Addiction Recovery
 
 ### 小節整理：酒精成癮恢復中的營養與代謝失衡及其解決方案
 
@@ -558,6 +576,8 @@ This study highlights the dichotomy between excessive sun avoidance and vitamin 
         alt="[Youtube]" width="200">
 </a>
 
+# Who Consumes More Soda: Mexico, China or the USA?
+
 ### 核心主題
 - 比較墨西哥、中國和美國的人均含糖飲料消費量及其與糖尿病和肥胖率的關聯。
 
@@ -595,6 +615,8 @@ This study highlights the dichotomy between excessive sun avoidance and vitamin 
         alt="[Youtube]" width="200">
 </a>
 
+# The Best Type of Exercise for Your Brain
+
 
 </details>
 
@@ -605,6 +627,8 @@ This study highlights the dichotomy between excessive sun avoidance and vitamin 
     <img src="https://img.youtube.com/vi/Ns2tnZW0tDE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Sleep Deprivation and the Profound Effects on Your Well-being
 
 ### 文章整理與結構化分析
 
@@ -684,6 +708,8 @@ This study highlights the dichotomy between excessive sun avoidance and vitamin 
         alt="[Youtube]" width="200">
 </a>
 
+# Are Rancid Oils Irritating Your Gut?
+
 ### 核心主題：氧化不穩定性導致脂肪酸敗及其對健康的影響
 
 脂肪和油在暴露於光、氧氣、熱或加工過程中會發生氧化反應，尤其是不飽和脂肪酸更容易受到影響。此過程產生的活性氧（ROS）和自由基會破壞脂肪分子，導致其成為氧化脂質。
@@ -720,6 +746,8 @@ This study highlights the dichotomy between excessive sun avoidance and vitamin 
         alt="[Youtube]" width="200">
 </a>
 
+# Benefits of Nutritional Yeast that Go Beyond B-Vitamins
+
 
 </details>
 
@@ -730,6 +758,8 @@ This study highlights the dichotomy between excessive sun avoidance and vitamin 
     <img src="https://img.youtube.com/vi/lXZNQWtkrL8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Your Fat Determines Your Vitamin D
 
 ### 核心主題：脂肪細胞與維生素D水平之間的相互作用
 
@@ -770,6 +800,8 @@ This study highlights the dichotomy between excessive sun avoidance and vitamin 
         alt="[Youtube]" width="200">
 </a>
 
+# Plantar Fasciitis and Heel Spurs: The Biggest Mistake
+
 
 </details>
 
@@ -780,6 +812,8 @@ This study highlights the dichotomy between excessive sun avoidance and vitamin 
     <img src="https://img.youtube.com/vi/akeEDfNHJkA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Best Remedies for Rheumatoid
 
 ### 核心主題：自身免疫性疾病，尤其是類風濕關節炎的研究與自然療法
 
@@ -848,6 +882,8 @@ This study highlights the dichotomy between excessive sun avoidance and vitamin 
     <img src="https://img.youtube.com/vi/Czu9yMSj6oM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Will Adrenal Fatigue Cause Weight Gain? Cushing's Syndrome & High Cortisol Levels – Dr.Berg
 
 ### 文章整理： adrenal fatigue, weight gain, and stress management
 
@@ -928,6 +964,8 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
         alt="[Youtube]" width="200">
 </a>
 
+# How Stress Affects Your White Blood Cells (WBCs) and Immune System
+
 ### 核心主題：壓力對免疫系統的影響
 
 #### 主要觀念：
@@ -970,6 +1008,8 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
     <img src="https://img.youtube.com/vi/9yuZgsglX-I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Subclinical Hypothyroidism and Zinc Deficiency – Dr.Berg
 
 ### 核心主題  
 - 探讨锌在亚临床甲状腺功能减退症（subclinical hypothyroidism）中的重要性及其对甲状腺功能的影响。
@@ -1020,6 +1060,8 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
         alt="[Youtube]" width="200">
 </a>
 
+# What is Alzheimer's Disease? – Causes, Symptoms & Treatment Simplified by Dr. Berg
+
 
 </details>
 
@@ -1030,6 +1072,8 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
     <img src="https://img.youtube.com/vi/QVQ9Q4JNwiA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How Intermittent Fasting Affects Your Eyes and Vision
 
 ### 核心主題：斷食對視力改善的潛在益處
 
@@ -1098,6 +1142,8 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
         alt="[Youtube]" width="200">
 </a>
 
+# 4 Subclinical Vitamin C Deficiency Signs that are Extremely Common
+
 ### 文章結構與核心主題
 - **核心主題**：探討維生素C的重要性及其亞臨床缺乏症（Subclinical Vitamin C Deficiency）。
 - **主要觀念**：
@@ -1154,6 +1200,8 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
         alt="[Youtube]" width="200">
 </a>
 
+# Your Major Stress is Hidden in Plain Sight – Sensationalism in Media/News – Dr.Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -1190,6 +1238,8 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
     <img src="https://img.youtube.com/vi/CsxaUHJSxUY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg Does Diet Experiment on Jared (his videographer)
 
 ### 文章重點整理
 
@@ -1237,6 +1287,8 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
     <img src="https://img.youtube.com/vi/4e0Zjg_75Qo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Potassium, Muscle Strength, and Exercise Endurance
 
 ### 核心主題：assium 在肌肉力量和運動耐力中的作用
 
@@ -1303,6 +1355,8 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
     <img src="https://img.youtube.com/vi/6pZ5EuNXyrA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Hidden Cause of Vitamin D Deficiency
 
 ### 小節整理：文章重點概要
 
@@ -1373,6 +1427,8 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
         alt="[Youtube]" width="200">
 </a>
 
+# What are Adaptogens? – Ashwagandha Explained by Dr. Berg
+
 ### 核心主題： 
 - 适应原（Adaptogen）的作用与定义  
 
@@ -1418,6 +1474,8 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
     <img src="https://img.youtube.com/vi/fzJtZt4_Y5Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The #1 Most Powerful Epigenetic Trigger: SURPRISING
 
 ### 文章重點整理
 
@@ -1480,6 +1538,8 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
         alt="[Youtube]" width="200">
 </a>
 
+# Why Babies Thrive on Ketosis
+
 ### 核心主題
 1. **新生兒的能量來源**：文章強調了嬰兒在母體內及出生後的能量來源，特別是酮體的作用。
 2. **酮體的重要性**：酮體不僅提供能量，還為嬰兒的大腦提供建築材料，如脂質和神經鞘。
@@ -1531,6 +1591,8 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
     <img src="https://img.youtube.com/vi/obbsKHDBJWY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Adrenal Fatigue Diet
 
 ### 核心主題  
 - **核心主題**：針對腎上腺疲勞（Adrenal Fatigue）的飲食與生活方式調整，以改善健康狀況並促進減重。
@@ -1602,6 +1664,8 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
         alt="[Youtube]" width="200">
 </a>
 
+# 6 Huge Benefits of Copper
+
 
 </details>
 
@@ -1612,6 +1676,8 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
     <img src="https://img.youtube.com/vi/vUBe0e8c27c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 10 Benefits of Cryotherapy (Freezing)
 
 ### 核心主題：冷療（Cryotherapy）的十項健康益處
 
@@ -1646,6 +1712,8 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
     <img src="https://img.youtube.com/vi/2jfJUPeYs2M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 7 Benefits of Avocado Oil
 
 # 芭蕉油（酪梨油）的健康益處與應用
 
@@ -1702,6 +1770,8 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
     <img src="https://img.youtube.com/vi/T7w_ffSmHoY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Did the Caveman Really Eat?
 
 ### 小節歸納
 
@@ -1764,6 +1834,8 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
     <img src="https://img.youtube.com/vi/mRwlMlKxD2g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Do I Feel Worse When Eating Red Meat?
 
 ### 核心主題：紅肉攝取後身體不適的原因與解決方案
 
@@ -1836,6 +1908,8 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
         alt="[Youtube]" width="200">
 </a>
 
+# Eat More Magnesium Foods and You'll Feel a Lot Better
+
 ### 小節歸納
 
 #### 核心主題
@@ -1893,6 +1967,8 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
         alt="[Youtube]" width="200">
 </a>
 
+# What is Menopause... Really
+
 ### 核心主題：opause （更年期）
 - 更年期是指女性卵巢功能衰退，卵子數量耗竭，導致月经停止和生育能力終止。
 - 伴隨而來的症狀包括热潮紅、阴道乾燥、骨質疏鬆等。
@@ -1946,6 +2022,8 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
         alt="[Youtube]" width="200">
 </a>
 
+# Sleepy After Lunch?  Your SIESTA Means You Have...
+
 ### 核心主題
 - **午后疲倦（Siesta）的文化現象**：探討午後感到疲倦並小睡的文化背景及其與飲食結構的關聯。
 - **餐後疲倦（Post Prandial Somnolence）的生理機制**：分析餐後疲倦的原因，特別是高碳水化合物攝取對血糖和胰島素水平的影響。
@@ -1997,6 +2075,8 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
         alt="[Youtube]" width="200">
 </a>
 
+# Egg Yolk vs. Egg White: What's the Difference?
+
 ### 小節結構整理：
 
 #### 1. 核心主題：蛋黃與蛋白的營養差異及其健康影響  
@@ -2041,6 +2121,8 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
         alt="[Youtube]" width="200">
 </a>
 
+# 7 Things That Boost Insulin Sensitivity or Reverse Insulin Resistance - Dr. Berg
+
 
 </details>
 
@@ -2051,6 +2133,8 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
     <img src="https://img.youtube.com/vi/DzknJGLYk9I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Intermittent Fasting and Muscle Mass Gain – Dr.Berg
 
 ### 文章重點整理：在進行間歇性斷食時增肌的可能性及方法
 
@@ -2134,6 +2218,8 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
         alt="[Youtube]" width="200">
 </a>
 
+# Stop Using Anti-aging Face Creams and Follow this Anti-aging Hacks
+
 ### 文章重點整理
 
 #### 核心主題：抗衰老 creams 的效果有限，真正的抗衰老方法源自於內部健康與生活方式的改善。
@@ -2171,6 +2257,8 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
     <img src="https://img.youtube.com/vi/6jBpfyI22hU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 14 Amazing Benefits of Oregano Oil
 
 ### 1. 核心主題  
 - 探讨野生百里香油（Oregano Oil）的多重療效及其在健康領域的重要性。
@@ -2218,6 +2306,8 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
     <img src="https://img.youtube.com/vi/kOzpoa-M5Mo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Nattokinase’s Amazing Effect on Blocked Arteries & Circulation – Natural Blood Thinner – Dr.Berg
 
 ### 文章重點整理
 
@@ -2272,6 +2362,8 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
     <img src="https://img.youtube.com/vi/RehsL9FROME/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Ever in the Mood For Healthy Foods?
 
 ### 文章重點整理
 
@@ -2362,6 +2454,8 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
         alt="[Youtube]" width="200">
 </a>
 
+# Thyroid Health is Dependent on the Liver
+
 ### 文章重點整理
 
 #### 核心主題
@@ -2443,6 +2537,8 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
         alt="[Youtube]" width="200">
 </a>
 
+# Check Out What Happened When I Fasted for 21 Hours - Dr. Berg’s Intermittent Fasting Experiment
+
 ### 核心主題：間歇性禁食對認知功能的影響
 
 #### 主要觀念：
@@ -2488,6 +2584,8 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
     <img src="https://img.youtube.com/vi/klWN5kkAlAw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Fat Soluble vs. Water Soluble Vitamins: When Do You Take Them?
 
 # 文章要點整理
 
@@ -2561,6 +2659,8 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
         alt="[Youtube]" width="200">
 </a>
 
+# Not Losing on Keto: See 9 Reasons Why
+
 ### 文章重點整理
 
 #### 一、核心主題
@@ -2623,6 +2723,8 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
     <img src="https://img.youtube.com/vi/EWnKGxRCNAE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 8 Warning Signs You Should Go See a Doctor
 
 ### 文章重點整理
 
@@ -2692,6 +2794,8 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
         alt="[Youtube]" width="200">
 </a>
 
+# The Book that Turned My Health Around: Dr. Berg
+
 ### 整理後的文章要點
 
 #### 核心主題
@@ -2753,6 +2857,8 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
         alt="[Youtube]" width="200">
 </a>
 
+# The Side Effects of Vitamin D Come From a Magnesium Deficiency
+
 ### 文章重點整理
 
 #### 核心主題  
@@ -2791,6 +2897,8 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
     <img src="https://img.youtube.com/vi/WDrNV-cPBGM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Did Mexico Surpass America in Obesity?
 
 ### 文章要點整理
 
@@ -2837,6 +2945,8 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
     <img src="https://img.youtube.com/vi/PWnfwLX2Bno/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The #1 Barrier to Healing and Recovery is Chronic Stress – Fight or Flight Mode – Dr.Berg
 
 ### 核心主題：壓力對健康的影響及其在康復中的障礙作用
 
@@ -2887,6 +2997,8 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
     <img src="https://img.youtube.com/vi/aBpuEQyj3_U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is Vaping Better than Smoking?
 
 ### 文章重點整理
 
@@ -2967,6 +3079,8 @@ The article discusses the comparative health impacts of vaping and smoking, high
         alt="[Youtube]" width="200">
 </a>
 
+# The Difference Between the Colon and Intestines
+
 ### 归纳的重点和结构：
 
 1. **核心主题**:
@@ -3003,6 +3117,8 @@ The article discusses the comparative health impacts of vaping and smoking, high
     <img src="https://img.youtube.com/vi/TRkF4-9ya_0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg Interviews Dr. Jeff Gerber About the Low Carb Denver 2020
 
 ### 文章整理：低碳飲食與健康Conference主題討論
 
@@ -3067,6 +3183,8 @@ The article discusses the comparative health impacts of vaping and smoking, high
     <img src="https://img.youtube.com/vi/ThDBb-QoqdU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# When Vitamin D Doesn't Work...Do This!
 
 ### 核心主題
 - 影響維生素D效果的因素及其解決方案。
@@ -3136,6 +3254,8 @@ The article discusses the comparative health impacts of vaping and smoking, high
         alt="[Youtube]" width="200">
 </a>
 
+# Can't Live Without Bread...Not Doing Keto
+
 ### 核心主題
 - 面包消費的影響與替代方案  
 - 高碳水化合物飲食的健康風險  
@@ -3189,6 +3309,8 @@ The article discusses the comparative health impacts of vaping and smoking, high
         alt="[Youtube]" width="200">
 </a>
 
+# Could Vitamin D Help You Lose More Weight?
+
 ### 小節整理：文章核心主題與重點
 
 #### 1. 核心主題  
@@ -3234,6 +3356,8 @@ The article discusses the comparative health impacts of vaping and smoking, high
         alt="[Youtube]" width="200">
 </a>
 
+# Red vs. Green Cabbage: Which is Healthier?
+
 ### 核心主題：紅菜頭與綠菜頭的健康差異 comparative health differences between red and green cabbage
 
 ### 主要觀念：
@@ -3272,6 +3396,8 @@ The article discusses the comparative health impacts of vaping and smoking, high
     <img src="https://img.youtube.com/vi/91p0PVir2Jk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How Intermittent Fasting Affects Your Heart (Cardiovascular System)
 
 ### 核心主題：斷食對心血管系統的影響
 - **核心主題**：探討 intermittent fasting（間歇性斷食）如何影響 cardiovascular system（心血管系統），並強調其在Heart Health（心臟健康）方面的多方面益處。
@@ -3365,6 +3491,8 @@ The article discusses the comparative health impacts of vaping and smoking, high
         alt="[Youtube]" width="200">
 </a>
 
+# Benefits of Probiotics That You’ve Never Considered
+
 ### 文章總結與分析
 
 #### 1. 核心主題
@@ -3439,6 +3567,8 @@ The article discusses the comparative health impacts of vaping and smoking, high
         alt="[Youtube]" width="200">
 </a>
 
+# Intermittent Fasting Patterns for Different Situations
+
 ### 小節整理：斷食模式與身體狀況的影響
 
 #### 核心主題
@@ -3505,6 +3635,8 @@ The article discusses the comparative health impacts of vaping and smoking, high
         alt="[Youtube]" width="200">
 </a>
 
+# Can't Sleep Without Carbs? – Try These Sleep Remedies by Dr. Berg
+
 ### 核心主題：酮egenic飲食與睡眠問題的關聯性
 
 #### 主要觀念：
@@ -3568,6 +3700,8 @@ The article discusses the comparative health impacts of vaping and smoking, high
         alt="[Youtube]" width="200">
 </a>
 
+# Baking Soda vs (ACV) Apple Cider Vinegar for Indigestion – Dr.Berg Answers Which is Better?
+
 ### 文章重點整理
 
 #### 核心主題
@@ -3624,6 +3758,8 @@ The article discusses the comparative health impacts of vaping and smoking, high
         alt="[Youtube]" width="200">
 </a>
 
+# Will Apple Cider Vinegar (ACV) Break Your Fast?
+
 ### 小節整理：《/apple cider vinegar 在斷食中的影響及其健康效益》
 
 #### 1. **核心主題**
@@ -3664,6 +3800,8 @@ The article discusses the comparative health impacts of vaping and smoking, high
         alt="[Youtube]" width="200">
 </a>
 
+# Dangers of an Ultra Low Fat Diet
+
 ### 核心主題：Ultra Low 脂肪飲食的危害與其對健康的影響
 
 #### 主要觀念：
@@ -3695,6 +3833,8 @@ Ultra Low 脂肪飲食模式存在多方面的健康風險，包括營養失衡�
     <img src="https://img.youtube.com/vi/d_nOL2uDOmQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Mistakes with Intermittent Fasting that Ruin Your Results
 
 ### 文章整理：一分钟断食中的常见错误及其影响
 
@@ -3750,6 +3890,8 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
+# Will Zero Carb Alcohol Stop Ketosis?
+
 ### 核心主題：酒精攝取對酮症斷啟動止的影響
 
 ### 主要觀念：
@@ -3800,6 +3942,8 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
     <img src="https://img.youtube.com/vi/p1hgZI4XeOM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 7 Amazing Pain Relief Hacks that Give Instant Results
 
 ### 文章整理：cranial acupuncture 和 referral pain 的應用與治療技術
 
@@ -3871,6 +4015,8 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
+# Sleeping Pills and Insomnia – Dr.Berg
+
 ### 文章重點整理
 
 ---
@@ -3930,6 +4076,8 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
+# Doesn't Keto Cause Gallstones Eating All That Fat?
+
 ### 小節整理：能否在患有膽石的情況下進行生酮飲食和間歇性斷食？
 
 #### 核心主題
@@ -3976,6 +4124,8 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
     <img src="https://img.youtube.com/vi/V-pktwBVeBw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Adrenal Insufficiency and Low Cortisol: Symptoms, Causes & Solutions – Dr.Berg
 
 ### 一、核心主題  
 - 本文圍繞壓力管理與身心健康展開討論，強調通過物理治療和自我療癒來緩解壓力，提升整體健康狀況。
@@ -4033,6 +4183,8 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
+# How to Get Rid of Bloating and Abdominal Distention – Remedy For Abdominal Bloating – Dr.Berg
+
 # 如何消除腹脹和腹部脹氣：關鍵要點總結
 
 ## 核心主題
@@ -4087,6 +4239,8 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
+# Sharp Stomach Pain That Comes and Goes
+
 ### 小節歸納
 
 #### 1. 核心主題  
@@ -4127,6 +4281,8 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
     <img src="https://img.youtube.com/vi/5LOZIry2-7k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The 9 Best Ketogenic Diet Ingredients
 
 ### 核心主題： ketogenic 饮食的最佳食材及其健康影響
 
@@ -4174,6 +4330,8 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
+# 30-Day Keto Low Carb Challenge with Dr. Berg
+
 
 </details>
 
@@ -4185,6 +4343,8 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
+# Intermittent Fasting Resets Your Sleep Cycle (Circadian Rhythm)
+
 
 </details>
 
@@ -4195,6 +4355,8 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
     <img src="https://img.youtube.com/vi/6GHVuUnX0H4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Most Pain is Referred Pain – Explained By Dr. Berg
 
 ### 文章要點整理
 
@@ -4233,6 +4395,8 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
     <img src="https://img.youtube.com/vi/xe4mgb90VJg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Benefits of Energy Drinks...Are There Any? Effects of Energy Drinks – Dr.Berg
 
 ### 核心主題：能量飲料的效果與替代方案
 
@@ -4301,6 +4465,8 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
     <img src="https://img.youtube.com/vi/UwQfb_ZBBy0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Do This For Instant Chronic Pain Relief – Manage Chronic Pain – Dr.Berg
 
 ### 重點整理
 
@@ -4394,6 +4560,8 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
+# What is Chronic Fatigue Syndrome?
+
 ### 小節化整理
 
 #### 核心主題
@@ -4463,6 +4631,8 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
+# Intermittent Fasting for Beginners: THE MOST IMPORTANT TIPS
+
 ### 文章重點整理
 
 #### 核心主題
@@ -4530,6 +4700,8 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
+# The Best Foods for a Recovering Alcoholic
+
 ### 小節歸納
 
 #### 核心主題
@@ -4592,6 +4764,8 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
     <img src="https://img.youtube.com/vi/4KJrK949t40/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Hidden Reasons for High Blood Sugar
 
 ### 文章重點整理
 
@@ -4656,6 +4830,8 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
+# Black Pepper: The Good and Bad Health Effects
+
 
 </details>
 
@@ -4666,6 +4842,8 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
     <img src="https://img.youtube.com/vi/exKzSs2aohI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What is Jaundice? – Causes & Treatment Covered by Dr.Berg
 
 ### 文章重點整理
 
@@ -4740,6 +4918,8 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
+# Milk Thistle: The Amazing Herb for Your Liver
+
 ### 核心主題  
 - 探讨牛奶蓟（Milk Thistle）对肝脏健康的主要益处及其活性成分西利宾（Silybin）。  
 
@@ -4806,6 +4986,8 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
     <img src="https://img.youtube.com/vi/DvA-wpmuaCI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# When NOT to Take Extra Vitamin D
 
 ### 核心主題
 - **核心主題**: 探讨维生素D的重要性及其潜在的不良反应，强调在特定情况下避免使用维生素D。
@@ -4876,6 +5058,8 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
+# What Is Inflammation and How to Reduce it with Vitamin D – Dr. Berg
+
 ### 核心主題：維生素D在抗炎免疫調節中的作用
 
 ---
@@ -4943,6 +5127,8 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
+# Can I Eat Fruit Once I Lose the Weight on Keto?
+
 ### 文章重點整理
 
 #### 核心主題
@@ -4992,6 +5178,8 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
     <img src="https://img.youtube.com/vi/eXiWXVnfqWc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Funny Keto Comments
 
 ### 小節一：核心主題  
 - 討論酮式飲食（Keto Diet）的常見误解與事實。  
@@ -5065,6 +5253,8 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
+# Doing The Ketogenic Diet Without Side Effects
+
 
 </details>
 
@@ -5075,6 +5265,8 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
     <img src="https://img.youtube.com/vi/Q_51QZsORXg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Rid Your Back Fat: The Fastest Way
 
 ### 文章整理：快速消除背部脂肪的方法
 
@@ -5152,6 +5344,8 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
+# Ketogenic Diet Plan for Beginners - Dr. Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -5220,6 +5414,8 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Jason Fung MD and Intermittent Fasting
+
 ### 小節歸納：
 
 #### 1. 核心主題：
@@ -5262,6 +5458,8 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
     <img src="https://img.youtube.com/vi/MOwPN-_6cjg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Effects of Autophagy on Infection
 
 ### 核心主題：Tapa G 在抗感染中的作用
 
@@ -5324,6 +5522,8 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
     <img src="https://img.youtube.com/vi/3zjypsbzMTI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Ketogenic Diet and Electrolytes
 
 ### 核心主題：酮飲食中電解質的重要性  
  ketogenic diet 中，電解質不足會導致多種不良症狀，如酮流感（keto flu）、便秘、疲勞、痙攣等。

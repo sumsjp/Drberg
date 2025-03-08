@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Understanding the Antioxidant Network - Oxidative Stress & Free Radicals - Dr. Berg
+
 ### 核心主題：抗氧化網絡的作用與重要性
 
 #### 主要觀念：
@@ -59,6 +61,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Healthy Keto Summit - Order Your Digital Copy
+
 ### 核心主題
 - 本次會議（Down Earth Summit）圍繞健康、體重管理和整體 wellness 展開討論。
 - 强調了健康信息的重要性及其在現代生活中的影響。
@@ -92,6 +96,8 @@
     <img src="https://img.youtube.com/vi/fTYKyPlU0IE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Importance of Progesterone for Hot Flashes Relief – Dr. Berg On Progesterone Deficiency
 
 # 文章重點整理
 
@@ -139,6 +145,8 @@
     <img src="https://img.youtube.com/vi/9V8xMmkTf64/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Refeeding Dangers After Prolonged Fasting - Dr.Berg On Refeeding Syndrome
 
 ### 文章重點整理  
 
@@ -194,6 +202,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Unhealthy Type of Ketosis - Dr. Berg On Low Carb Diet
+
 ### 小節歸納
 
 1. **核心主題**:
@@ -228,6 +238,8 @@
     <img src="https://img.youtube.com/vi/kCd6oXZXaZM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Body Mineral Fluctuations While Intermittent Fasting - Dr. Berg
 
 ### 文章重點整理
 
@@ -300,6 +312,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Ignore Counting Vegetable Carbs On Your Keto Diet - Dr. Berg
+
 ### 核心主題  
 1. 蔬菜碳水化合物在酮飲食中的角色與影響。  
 
@@ -361,6 +375,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Why A Diabetic MUST Understand Insulin -  Dr. Berg
+
 ### 小節整理： diabetic patients must understand insulin
 
 #### 核心主題
@@ -402,6 +418,8 @@
     <img src="https://img.youtube.com/vi/FveThYg0PS0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Happened At The Dr.Berg's Keto Health Summit 2018?
 
 ### 文章整理：2018年QuitSummit會議回顧及未來計劃
 
@@ -466,6 +484,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg / Karen Live Q&A, Friday (Oct 19) on the Ketogenic Diet and Intermittent Fasting
+
 ### 小節整理
 
 #### 核心主題  
@@ -516,6 +536,8 @@
     <img src="https://img.youtube.com/vi/BCVvw-ReyBE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Coconut Oil vs. Olive Oil: Which is Better?
 
 ### 文章整理與分析
 
@@ -585,6 +607,8 @@
     <img src="https://img.youtube.com/vi/EX_kg6Nimbc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Amazing Benefits of Prolonged Fasting - Dr. Berg
 
 ### 小節歸納
 
@@ -666,6 +690,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Radiation Exposure When You FLY - Dr. Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -705,6 +731,8 @@
     <img src="https://img.youtube.com/vi/RpJqcSa_Udc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Do I Get Exhausted After Giving Up On Carbs? - Dr. Berg
 
 ### 核心主題
 - 能量代謝與營養素對身體能量產生的作用。
@@ -751,6 +779,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# 4 Remedies To Relieve Allergy Symptoms - Dr. Berg
+
 ### 核心主題  
 - 探讨针对过敏症状的自然缓解方法。  
 
@@ -792,6 +822,8 @@
     <img src="https://img.youtube.com/vi/6ko3Y9L_IKw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is Your Fiber Making You FAT? – Dr. Berg
 
 ### 文章重點整理
 
@@ -867,6 +899,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Big Problem with Medical Research Study - Dr. Berg
+
 ### 文章重點整理與歸納
 
 #### 核心主題
@@ -930,6 +964,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Not Losing Weight Fast Enough? - Try Dr.Berg's Tips
+
 ### 文章重點整理
 
 #### 核心主題  
@@ -974,6 +1010,8 @@
     <img src="https://img.youtube.com/vi/rjVXFqiPDwE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Vitamin B1 (Thiamine) Deficiency: The "Great Imitator" of Other Illnesses
 
 ### 文章整理：硫胺素（Vitamin B1）的重要性及應用
 
@@ -1035,6 +1073,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Weight Loss Stopped? - Don't Make This Mistake! - Dr.Berg
+
 ### 文章整理：保持健康來減肥
 
 #### 核心主題
@@ -1074,6 +1114,8 @@
     <img src="https://img.youtube.com/vi/1dP87mseObk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Fluid Retention On Keto Diet? - Dr. Berg
 
 ### 核心主題
 
@@ -1142,6 +1184,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Why Does Removing The Gallbladder Make You Fat? - Dr.Berg
+
 ### 文章整理與分析
 
 #### 核心主題
@@ -1205,6 +1249,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Why We Really Love Carbs? - Dr. Berg
+
 ### 核心主題：碳水化合物的成瘾机制及其健康影響
 
 ### 主要觀念：
@@ -1250,6 +1296,8 @@
     <img src="https://img.youtube.com/vi/H7AqABw5-_A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Worst Sugar Alcohol (Artificial Sweeteners) for Weight Loss - Dr. Berg
 
 ### 核心主題  
 - 探讨糖醇（sugar alcohols）作为低热量甜味剂的选择及其对血糖的影响。
@@ -1313,6 +1361,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Amazing Magnesium Benefits - Dr. Berg
+
 ### 核心主題：鎂（Magnesium）的重要性和其对人体的作用
 
 ### 主要觀念：
@@ -1360,6 +1410,8 @@
     <img src="https://img.youtube.com/vi/00sD_Y359xU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg's Favorite Keto Products
 
 ### 文章整理： Keto 食品評測報告
 
@@ -1409,6 +1461,8 @@
     <img src="https://img.youtube.com/vi/EWxYhaaColY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Grass Fed vs. Grain Fed - Dr. Berg
 
 ### 小節歸納與整理
 
@@ -1471,6 +1525,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Knocked Out of Ketosis vs. Breaking the Fast - Dr. Berg
+
 ### 小節化整理
 
 #### 核心主題
@@ -1523,6 +1579,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What is a Carcinogen? - Dr. Berg
+
 ### 小節歸納
 
 #### 核心主題
@@ -1572,6 +1630,8 @@
     <img src="https://img.youtube.com/vi/2A1SddpHsus/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Silent Killer: Identifying Liver Cirrhosis Before It's Too Late
 
 ### 文章整理與分析
 
@@ -1641,6 +1701,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Hidden Sugars in So-Called Healthy Foods - Dr. Berg
+
 ### 小節一：核心主題  
 - 探讨市售标榜為健康的食品中隱藏的糖分問題。  
 
@@ -1675,6 +1737,8 @@
     <img src="https://img.youtube.com/vi/HH7etpYcv30/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 9 Ways to Become Nutritionally Deficient - Dr. Berg
 
 ### 文章重點整理
 
@@ -1757,6 +1821,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# 10 Triggers of Inflammation – Dr. Berg On Causes Of Inflammation
+
 ### 小節歸納
 
 #### 核心主題
@@ -1812,6 +1878,8 @@
     <img src="https://img.youtube.com/vi/q7iQ06coxHQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg Gets Maria to Change her Diet  | Ketogenic diet, Intermittent fasting & Weight Loss
 
 ### 文章重點整理
 
@@ -1871,6 +1939,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Hormones Out of Balance - This is Why! - Dr. Berg On Hormonal Imbalance
+
 ### 文章整理與分析
 
 #### 核心主題
@@ -1929,6 +1999,8 @@
     <img src="https://img.youtube.com/vi/YA7BTmE3zYQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Cronometer, the Best Keto App - Dr. Berg
 
 ### 文章重點整理
 
@@ -1999,6 +2071,8 @@
     <img src="https://img.youtube.com/vi/uYQVVSu5YGw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Ignored Causes of Heart Disease - Heart Problems - Dr.Berg
 
 ### 文章重點整理
 
@@ -2073,6 +2147,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Use Bile Salts for a Fatty Liver – Non-Alcoholic Fatty Liver Disease (NAFLD) – Dr. Berg
+
 ### 小節化整理
 
 #### 1. 核心主題：脂肪肝與膽汁鹽的作用及影響
@@ -2119,6 +2195,8 @@
     <img src="https://img.youtube.com/vi/Xr6F8Mbf1nY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Carboholic's Only Solution – High Carb Foods & Carb Cravings Dr.Berg
 
 ### 文章整理與分析
 
@@ -2170,6 +2248,8 @@
     <img src="https://img.youtube.com/vi/i-MmwsNZ9OM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Type of Exercise Burns Fat? - Dr. Berg on Fat Burning Exercises
 
 # 文章整理：有氧運動 vs 無氧運動 之 脂肪燃燒效果比較
 
@@ -2237,6 +2317,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Is Fast Weight Loss Healthy? - Dr. Berg
+
 ### 重点整理：快速减肥是否健康？
 
 #### 核心主题：
@@ -2291,6 +2373,8 @@
     <img src="https://img.youtube.com/vi/j_LNCT3KviY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Humira Alternative for Inflammation – Dr. Berg On Rheumatoid Arthritis Symptoms
 
 ### 核心主題
 - **Humira**：一種 blockbuster 药物，主要用于降低炎症。
@@ -2358,6 +2442,8 @@
     <img src="https://img.youtube.com/vi/D-wBWu-dRg4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How Much Coffee Blocks Fat Burning? - Dr. Berg On Coffee and Weight Loss
 
 ### 文章整理：咖啡摄入与体重管理的关系
 
@@ -2432,6 +2518,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What Really Causes Gallstones? - Dr. Berg
+
 ### 小節歸納
 
 #### 核心主題
@@ -2478,6 +2566,8 @@
     <img src="https://img.youtube.com/vi/lIkLQDUE9a0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Carbs That Are Worse Than Sugar - Dr.Berg on Carbs On Keto
 
 ### 核心主題：  
 - 探讨某些碳水化合物（如淀粉类食物）比糖类更不健康的科学依据。
@@ -2542,6 +2632,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How To Kill Parasites? - Dr. Berg
+
 ### 核心主題: 論寄生蟲感染及其防治措施  
 
 ---
@@ -2597,6 +2689,8 @@
     <img src="https://img.youtube.com/vi/rVL79DvfAyA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Keto And High Blood Pressure – Dr.Berg
 
 ### 核心主題  
 - 高血壓的原因及與干預策略  
@@ -2683,6 +2777,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Intermittent Fasting Made Easy By Dr. Berg
+
 ### 小節歸納
 
 #### 1. 核心主題：間歇性斷食（Intermittent Fasting）
@@ -2751,6 +2847,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Vitamin B1: Boost Energy for Workout – Dr. Berg on B1 Vitamin for Energy Boost
+
 ### 核心主題
 - **B1（硫胺素）在運動健身中的重要性**  
   探讨B1（硫胺素）在能量代谢、运动表现和疲劳抵抗中的作用。
@@ -2797,6 +2895,8 @@
     <img src="https://img.youtube.com/vi/_6u9wZ83mkE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What is Licorice Root and What Are Its Benefits? – Dr. Berg
 
 ### 文章重點整理
 
@@ -2879,6 +2979,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How to Keep Viruses in Remission? – Dr.Berg
+
 ### 文章整理重點
 
 #### 核心主題
@@ -2928,6 +3030,8 @@
     <img src="https://img.youtube.com/vi/abyNXeKF0kE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Fix Your Neck Posture/Curvature for Neck Pain Relief? – Dr. Berg
 
 ### 核心主題
 - 颈椎曲度的重要性及其丧失的影响。
@@ -2986,6 +3090,8 @@
     <img src="https://img.youtube.com/vi/MpFejI0_gps/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Reverse Fatigue When Fasting (Intermittent Fasting) - Dr. Berg's Chronic Fatigue Treatment
 
 ### 文章整理：提升能量與健康的生活策略
 
@@ -3052,6 +3158,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Interesting Facts About Vitamin D - Dr. Berg on the Benefits of Vitamin D
+
 ### 文章整理：罕見的維生素D事實
 
 #### 核心主題
@@ -3117,6 +3225,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# 7 Lessons I've Learned From Weight Loss Failures - Dr.Berg
+
 ### 文章整理：健康生活方式的核心要素與實踐策略
 
 #### 一、核心主題
@@ -3166,6 +3276,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Menopause Making You Look Masculine?: Dr.Berg on Menopause Symptoms & Androgens In Females
+
 ### 核心主題：更年期引發雄性激素水平升高的機制與影響
 
 #### 主要觀念：
@@ -3202,6 +3314,8 @@
     <img src="https://img.youtube.com/vi/L3O7b6DU17s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Ugly Side Of Beauty & Skin Care Products [Makeup, Cleansers & Lotion] - Dr.Berg
 
 ### 重點整理
 
@@ -3264,6 +3378,8 @@
     <img src="https://img.youtube.com/vi/YJIxfta3Ppw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Family Not Taking Your Health Advice (Nutritional Advice)? - Dr. Berg
 
 ### 核心主題：固定观念对接受营养建议的影响  
 - 固定观念（Fixed Ideas）是指个体坚信某种观点，拒绝接受新信息或修改已有信念。  
@@ -3328,6 +3444,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What Happens When You Only Use Exercise for Weight Loss? - Dr. Berg
+
 ### 文章整理與分析
 
 #### 核心主題
@@ -3391,6 +3509,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Need Potassium to Make Stomach Acid - Dr. Berg on Potassium & Low Stomach Acid
+
 ### 文章重點整理
 
 #### 核心主題： 
@@ -3433,6 +3553,8 @@
     <img src="https://img.youtube.com/vi/mlJRSebJ0XA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 5 Extreme Weight Loss Hacks - Dr.Berg on Keto on Steroids
 
 ### 文章整理：酮基 diet 极限减重法的核心要点
 
@@ -3478,6 +3600,8 @@
     <img src="https://img.youtube.com/vi/bo8b_c8M22g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Do Not Eat Chicken Again, Until You Watch This...
 
 ### 文章整理：.factory Farming and Its Impact on Chicken Consumption
 
@@ -3528,6 +3652,8 @@
     <img src="https://img.youtube.com/vi/zEhygI0kvMg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Bad Cholesterol Can Make You Live Longer - Dr. Berg
 
 ### 核心主題
 - LDL（低密度脂蛋白）的重新評估：新的研究分析表明，高LDL水平可能與延長壽命有關，並不一定增加心血管疾病風險。
@@ -3583,6 +3709,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Don't Take Iron Supplements if You Are Getting Sick - Dr. Berg on Iron Toxicity
+
 ### 核心主題
 - 鐵在人體中的重要性及其雙刃力建立於免疫反應與病原體生長之間。
 
@@ -3635,6 +3763,8 @@
     <img src="https://img.youtube.com/vi/5-CwMkfUuS8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Hidden Reason Why You're Fat - Beyond Carbs - Dr. Berg on Fat Burning &  Antibiotics Side Effects
 
 ### 小節歸納
 
@@ -3706,6 +3836,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Is Your Hair Loss Coming from Your Gut? – Dr. Berg on Biotin & Hair Loss Causes
+
 ### 核心主題  
 - 探讨头发脱落与消化系统之间的关系。
 
@@ -3771,6 +3903,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Big Difference Between Fasting & Starving - Dr. Berg
+
 ### 文章整理： fasting and starvation 的差異與影響
 
 #### 核心主題
@@ -3814,6 +3948,8 @@
     <img src="https://img.youtube.com/vi/xeL9O3UUiDY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is Keto and Intermittent Fasting Too Hard or Restrictive? - Dr. Berg
 
 ### 文章整理：如何輕鬆開始健康生酮飲食計劃
 
@@ -3906,6 +4042,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg "Trying" to Find Keto Friendly Foods at the Grocery Store
+
 ### 文章重點整理
 
 #### 核心主題
@@ -3969,6 +4107,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# 3-Year Follow Up Interview with 600+ lb Steve
+
 很抱歉，我無法直接將文件.upload到雲端儲存平台。但是，我可以幫助您整理文章的內容，並提供一個清晰的結構化摘要，然後您可以將其.upload到所需的平台上。
 
 ---
@@ -4019,6 +4159,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Normalizing Blood Sugars is Only Part of the Solution
+
 ### 文章整理：胰島素抵抗與血糖管理
 
 #### 核心主題
@@ -4068,6 +4210,8 @@
     <img src="https://img.youtube.com/vi/e1W9fMS1jZM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Cirrhosis, Bile Salts & Your Microbiome – Liver Disease Treatment Dr. Berg
 
 ### 文章重點整理
 
@@ -4140,6 +4284,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Prevent Toxemia - Preeclampsia in Pregnancy – Dr.Berg
+
 ### 核心主題：Toxemia（先兆子癇前期）
 
 Toxemia，即先兆子癇前期，是一種妊娠期嚴重並發症，伴隨高血壓、蛋白尿、紅血球破裂、肝腎功能受損、浮腫、癲癇和早產等症狀，對母體和胎兒生命構成威脅。
@@ -4193,6 +4339,8 @@ Toxemia是一種可防可控的妊娠æa。關鍵在於提高對其病因和防�
         alt="[Youtube]" width="200">
 </a>
 
+# Is Stress Making You Eat Sugar? – Dr. Berg
+
 ### 核心主題  
 - **壓力與糖分攝取之間的關聯**：文章探討了壓力如何促使人們消費糖分，並揭示了其中的生物學機制。  
 
@@ -4243,6 +4391,8 @@ Toxemia是一種可防可控的妊娠æa。關鍵在於提高對其病因和防�
     <img src="https://img.youtube.com/vi/5B-eWnpK0cc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Keto Meal Analysis by Dr. Berg
 
 ### 核心主題
 - **飲食評估**：基於酮genesis飲食法的膳食評價與建議。
@@ -4323,6 +4473,8 @@ Toxemia是一種可防可控的妊娠æa。關鍵在於提高對其病因和防�
         alt="[Youtube]" width="200">
 </a>
 
+# The Terrible Side Effects of Keto Diet!! – Dr. Berg
+
 # 文章重點整理
 
 ## 核心主題
@@ -4375,6 +4527,8 @@ Toxemia是一種可防可控的妊娠æa。關鍵在於提高對其病因和防�
         alt="[Youtube]" width="200">
 </a>
 
+# Forget LDL – Focus on Remnant Cholesterol – Dr. Berg
+
 ### 文章整理：關於殘留胆固醇的核心概念與健康影響
 
 #### 核心主題
@@ -4417,6 +4571,8 @@ Toxemia是一種可防可控的妊娠æa。關鍵在於提高對其病因和防�
     <img src="https://img.youtube.com/vi/ULBLhjJO3m4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is Keto (Ketogenic Diet) Too Extreme? – Dr. Berg
 
 ### 文章重點整理
 
@@ -4461,6 +4617,8 @@ Toxemia是一種可防可控的妊娠æa。關鍵在於提高對其病因和防�
         alt="[Youtube]" width="200">
 </a>
 
+# C-Section vs Normal Delivery – Long Term Effects Explained by Dr. Berg
+
 
 </details>
 
@@ -4471,6 +4629,8 @@ Toxemia是一種可防可控的妊娠æa。關鍵在於提高對其病因和防�
     <img src="https://img.youtube.com/vi/QguqK_DJMK0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What They Don't Tell You When They Remove Gallbladder? – Dr.Berg
 
 ### 小節歸納
 
@@ -4515,6 +4675,8 @@ Toxemia是一種可防可控的妊娠æa。關鍵在於提高對其病因和防�
     <img src="https://img.youtube.com/vi/TijvA-wWtwc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr.Berg Interviews Keto-Carnivore Diet Coach Tristan on Organ Meats
 
 ### 前言
 
@@ -4611,6 +4773,8 @@ Toxemia是一種可防可控的妊娠æa。關鍵在於提高對其病因和防�
         alt="[Youtube]" width="200">
 </a>
 
+# 10 Things That Increase Bile Salts
+
 ### 文章重點整理
 
 #### 核心主題
@@ -4665,6 +4829,8 @@ Toxemia是一種可防可控的妊娠æa。關鍵在於提高對其病因和防�
         alt="[Youtube]" width="200">
 </a>
 
+# Lemon Cream and Blackberry Fat Bomb Recipe – Dr.Berg
+
 ### 核心主題  
 - 本篇文章主要圍繞如何製作一款名為「 Raspberry Cream Cheese Fat Bomb」的食谱進行介紹。
 - 文章強調了脂肪炸弹（Fat Bomb）的概念及其作為低碳水化合物飲食的一部分的重要性。
@@ -4701,6 +4867,8 @@ Toxemia是一種可防可控的妊娠æa。關鍵在於提高對其病因和防�
     <img src="https://img.youtube.com/vi/cpWTGR2sYtc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What is Nattokinase? – Dr. Berg
 
 ### 核心主題
 - 探讨一种名为NATO Kinase的潜在疗法。
@@ -4750,6 +4918,8 @@ Toxemia是一種可防可控的妊娠æa。關鍵在於提高對其病因和防�
         alt="[Youtube]" width="200">
 </a>
 
+# What Is Conjugated Linoleic Acid? – Dr. Berg
+
 ### 核心主題
 CLA（共轭亞油酸）的健康益處及其來源。
 
@@ -4793,6 +4963,8 @@ CLA作為一種重要的脂肪酸，在促進健康方面具有多種潛力。�
     <img src="https://img.youtube.com/vi/APec1K5xBk8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 4 Things to Avoid if You Have an Enlarged Prostate – Dr. Berg
 
 ### 核心主題  
 - **前列腺肥大的管理**：探討如何通過飲食調整來改善前列腺健康。
@@ -4839,6 +5011,8 @@ CLA作為一種重要的脂肪酸，在促進健康方面具有多種潛力。�
         alt="[Youtube]" width="200">
 </a>
 
+# What is mTOR? – Dr.Berg
+
 ### 核心主題
 - **mTOR 註冊通路**：mTOR（Mammalian Target of Rapamycin）是一種控制蛋白質合成的主要生化通道。
 - **其功能**：高活化狀態促進身體增長，可能與腫瘤生長相關；低活化則重視修復和維護。
@@ -4878,6 +5052,8 @@ CLA作為一種重要的脂肪酸，在促進健康方面具有多種潛力。�
     <img src="https://img.youtube.com/vi/-CwIBrkQXnk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Downside of Keto & Intermittent Fasting - Is Keto Good For You? – Dr.Berg
 
 # 文章重點整理：酮飲食與高碳水化合物飲食的優缺點分析
 
@@ -4948,6 +5124,8 @@ CLA作為一種重要的脂肪酸，在促進健康方面具有多種潛力。�
         alt="[Youtube]" width="200">
 </a>
 
+# Hidden Deficiency in POTS (Postural Orthostatic Tachycardia Syndrome) – Dr.Berg
+
 ### 文章整理：POTS中隱藏性維生素B1缺乏症的核心探討
 
 #### 核心主題
@@ -4986,6 +5164,8 @@ CLA作為一種重要的脂肪酸，在促進健康方面具有多種潛力。�
         alt="[Youtube]" width="200">
 </a>
 
+# What is De Novo Lipogenesis? Fatty Acid Synthesis, Carbohydrates & Stored Fat – Dr. Berg
+
 
 </details>
 
@@ -4997,6 +5177,8 @@ CLA作為一種重要的脂肪酸，在促進健康方面具有多種潛力。�
         alt="[Youtube]" width="200">
 </a>
 
+# What is Angiogenesis? – Dr. Berg
+
 
 </details>
 
@@ -5007,6 +5189,8 @@ CLA作為一種重要的脂肪酸，在促進健康方面具有多種潛力。�
     <img src="https://img.youtube.com/vi/sFH-0Uu24-c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Does EDTA Do? – Dr. Berg
 
 ### 核心主題  
 - 介紹EDTA螯合劑在排毒和健康管理中的作用。
@@ -5048,6 +5232,8 @@ CLA作為一種重要的脂肪酸，在促進健康方面具有多種潛力。�
         alt="[Youtube]" width="200">
 </a>
 
+# Sleep Apnea: Is it Really a Nutritional Deficiency? Dr. Berg Explains
+
 ### 核心主題：睡眠呼吸中斷症候群（Sleep Apnea）的原因及其與維生素B1缺乏的關聯
 
 #### 主要觀念：
@@ -5079,6 +5265,8 @@ CLA作為一種重要的脂肪酸，在促進健康方面具有多種潛力。�
     <img src="https://img.youtube.com/vi/FN9hqxaW7J8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Keto Broccoli Fritters Recipe with Dr.Berg & Karen
 
 ### 小結結構
 
@@ -5117,6 +5305,8 @@ CLA作為一種重要的脂肪酸，在促進健康方面具有多種潛力。�
         alt="[Youtube]" width="200">
 </a>
 
+# Can I Eat Yogurt On Keto Diet? – Dr. Berg
+
 
 </details>
 
@@ -5127,6 +5317,8 @@ CLA作為一種重要的脂肪酸，在促進健康方面具有多種潛力。�
     <img src="https://img.youtube.com/vi/DJCgAqV5j5g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Do "They" Don't Want You To Do Ketogenic Diet? – Dr. Berg
 
 ### 核心主題：反對酮egenic饮食的原因與其背后的动机
 
@@ -5158,6 +5350,8 @@ CLA作為一種重要的脂肪酸，在促進健康方面具有多種潛力。�
     <img src="https://img.youtube.com/vi/6fMGr3mo0Us/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Keep Your Blood Sugars Normal Without Eating Sugar? – Dr. Berg
 
 ### 文章重點整理
 
@@ -5204,6 +5398,8 @@ CLA作為一種重要的脂肪酸，在促進健康方面具有多種潛力。�
         alt="[Youtube]" width="200">
 </a>
 
+# #1 Confusion of Every Person Struggling with Weight Loss – Dr. Berg
+
 ### 核心主題  
 - **胰島素的作用及影響**：文章圍繞胰島素的功能、其對脂肪存儲和代謝的影響以及如何通過調控胰島素水平來實現減重展開討論。
 
@@ -5235,6 +5431,8 @@ CLA作為一種重要的脂肪酸，在促進健康方面具有多種潛力。�
     <img src="https://img.youtube.com/vi/E6SeA_J6Ov8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Latest News on Monsanto – Dr. Berg
 
 ===== 影響力分析 =====
 
@@ -5286,6 +5484,8 @@ CLA作為一種重要的脂肪酸，在促進健康方面具有多種潛力。�
     <img src="https://img.youtube.com/vi/o4iwGloEUF0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What is Vitamin E? – Function, Sources, and Deficiency Covered by Dr. Berg
 
 ### 小節歸納
 

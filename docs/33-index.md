@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Allergic to Water (Aquagenic Pruritus)? DO THIS
+
 ### 核心主題
 - 文章探讨了数字时代下信息管理与资源获取的重要性。
 - 强调了备份和存储资源（如 herbs）在现代社会中的关键作用。
@@ -71,6 +73,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Worst Type of Stress in the World
+
 ### 核心主題：壓力對免疫系統的影響，尤其是喪失性壓力（bereavement stress）
 
 - **核心主題**：文章強調了喪失性壓力（如失去親愛的人、離婚或重大損失）是對免疫系統最具破壞性的压力源之一。
@@ -116,6 +120,8 @@
     <img src="https://img.youtube.com/vi/Vj02pWPBJ6g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Rid Your Addiction....I'm Sorry, I Meant Cravings
 
 ### 文章整理：如何控制上癮與渴望
 
@@ -187,6 +193,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Quick Benefits of Stopping Smoking
+
 ### 核心主題：戒煙後好處的時間表
 
 戒煙對健康的影響是漸進但顯著的，不同時期的好處包括生理功能恢復、疾病風險降低等。
@@ -249,6 +257,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Most Nutrient-Dense Food in the World
+
 ### 文章重點整理
 
 #### 核心主題
@@ -303,6 +313,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Hiatal Hernia: The Best Home Treatment
+
 ### 小節歸納
 
 #### 核心主題
@@ -351,6 +363,8 @@
     <img src="https://img.youtube.com/vi/thEUBB4SoXw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The BEST Motivation to Lose Weight
 
 ### 文章重點整理
 
@@ -428,6 +442,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg's Surprise Birthday at the Studio
+
 ### 核心主題  
 - 庆祝 Dr. Berg 的 39 岁生日。  
 - 表达对 Dr. Berg 工作和贡献的认可与感激之情。  
@@ -478,6 +494,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Cold Feet? Don't Forget Iodine
+
 ### 小節整理：碘缺乏症及其影響與干預措施
 
 #### 1. 核心主題
@@ -518,6 +536,8 @@
     <img src="https://img.youtube.com/vi/2teHeyQjl04/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Would You Eat a Credit Card Weekly?
 
 ### 小節一：核心主題  
 - 人類每周攝入約5克塑膠微粒（相當於1,769顆），主要來源包括飲食、飲用水和空氣。  
@@ -567,6 +587,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Will Microwaving Food Give You Radiation?
+
 ### 文章重點整理
 
 #### 核心主題：微波爐的安全性和使用影響
@@ -611,6 +633,8 @@
     <img src="https://img.youtube.com/vi/UlDhJEjZZKM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What is Leech Therapy?
 
 ### 核心主題
 
@@ -679,6 +703,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# A Fever is Beneficial and a Normal Response – Benefits of Fever Explained by Dr.Berg
+
 ### 小節歸納
 
 #### 1. 核心主題: 理解發燒的意義與自然處理方法
@@ -731,6 +757,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How to Make Up the Damage from Eating Refined Carbs
+
 ### 核心主題： refined carbohydrates (精緻碳水化合物) 的危害及修復策略
 
 #### 主要觀念：
@@ -770,6 +798,8 @@
     <img src="https://img.youtube.com/vi/mNll4oTHsQk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Depression and the HPA Axis
 
 ### 核心主題：抑郁與下丘腦-垂體-腎上腺（HPA）軸的作用機制及干預策略
 
@@ -825,6 +855,8 @@
     <img src="https://img.youtube.com/vi/cDeRjqM30eU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Unclog Your Ears
 
 ### 核心主題
 - 耳朵堵塞或感染的原因及其自然療法。
@@ -885,6 +917,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Stop Carbohydrate Cravings Fast With 4 Things
+
 ### 文章總結與分析
 
 #### 核心主題：
@@ -924,6 +958,8 @@
     <img src="https://img.youtube.com/vi/l_H8U-_2Ik4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Winter Blues? Easy Fix
 
 ### 核心主題
 - 季節性情感障礙（Seasonal Affective Disorder, SAD）的成因與解決方法。
@@ -985,6 +1021,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Your Liver Does NOT Store Toxins
+
 ### 文章整理：肝臟解毒功能與健康建議
 
 #### 核心主題
@@ -1029,6 +1067,8 @@
     <img src="https://img.youtube.com/vi/HFY-C9rG70E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 6 Stages of Fasting
 
 ### 重点整理：六阶段断食的生理与健康效应
 
@@ -1078,6 +1118,8 @@
     <img src="https://img.youtube.com/vi/8ipbkwzyO_8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg's Wife Has Crazy High Cholesterol of 261..
 
 ### 小節一：核心主題
 - 胆固醇和脂肪酸在人體健康中的作用。
@@ -1148,6 +1190,8 @@
     <img src="https://img.youtube.com/vi/yWEIToAT5rc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 10 Reasons Why Your Cravings Will NOT Go Away
 
 ### 小結點整理： ketogenic diet 的挑戰與改進策略
 
@@ -1243,6 +1287,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How to Lower Your Cholesterol on Keto (Ketogenic Diet)
+
 
 </details>
 
@@ -1253,6 +1299,8 @@
     <img src="https://img.youtube.com/vi/_mb33J4Bjfg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Refeeding Symptoms After a Fast
 
 ### 小節整理：Re-feeding Symptoms After Prolonged Fasting
 
@@ -1291,6 +1339,8 @@
     <img src="https://img.youtube.com/vi/zq6cNVZqZYA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Foods that Can Prevent a Miscarriage
 
 ### 核心主題  
 - 預防流產的食物與飲食策略  
@@ -1344,6 +1394,8 @@
     <img src="https://img.youtube.com/vi/-pBvIoTKNj4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Do Stones Develop In Your Kidney and Gallbladder?
 
 ### 核心主題
 - 膽石與腎结石的差異及其形成的機制。
@@ -1422,6 +1474,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Fasting for 7 Days: Here's What Will Happen
+
 ### 文章重點整理
 
 ---
@@ -1491,6 +1545,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Loss of Smell (Anosmia): THE Solution
+
 ### 重點整理
 
 #### 核心主題
@@ -1539,6 +1595,8 @@
     <img src="https://img.youtube.com/vi/4dWjn_uf6MY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Can You Get Fat on Too Much Protein?
 
 ### 文章重點整理
 
@@ -1600,6 +1658,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Does MCT Oil Raise Your Cholesterol?
+
 ### 核心主題  
 - 探讨中鏈三酰甘油（MCT oil）对胆固醇水平的影响及其健康益处。
 
@@ -1650,6 +1710,8 @@
     <img src="https://img.youtube.com/vi/2nbdIrvwYEU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Liver Damage Makes You Estrogen Dominant: MEN
 
 ### 核心主題：肝臟損害與男性體內雌激素水平的關聯
 
@@ -1742,6 +1804,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How to Really Become Fat Adapted
+
 # 文章重點整理：酮飲食（Keto Diet）的 fat adapted 過程及相關建議
 
 ## 核心主題
@@ -1809,6 +1873,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Lazy vs. Dirty Keto: The Difference
+
 ### 文章整理：.lazy Keto vs Dirty Keto 的差異與影響
 
 #### 核心主題
@@ -1875,6 +1941,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Highest Vitamin E Food is...
+
 ### 核心主題：
 - **文章主旨**：探討富含維生素E的食物來源及其重要性。
 - **主要焦點**：太陽花籽在常見食品中含維生素E量最高。
@@ -1936,6 +2004,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How to Get Rid of Sunspots on Your Skin
+
 ### 核心主題
 - 太陽斑（Sun Spots）的成因及治療方法。
 
@@ -1973,6 +2043,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Best Berries on Keto Are...
+
 ### 核心主題： ketogenic diet 中的最佳莓果選擇及其影響
 
 ### 主要觀念：
@@ -2004,6 +2076,8 @@
     <img src="https://img.youtube.com/vi/uCjr_jRfNGY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Benefits of Lycopene
 
 ### 文章整理：番茄紅素（Lycopene）的功效與應用
 
@@ -2065,6 +2139,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Evolution and Origin of Vitamin D
+
 ### 小節整理
 
 #### 核心主題
@@ -2117,6 +2193,8 @@
     <img src="https://img.youtube.com/vi/EXksWu3FZgg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Stop Being Tricked Reading Food Labels
 
 ### 核心主題：酮egenic Diet中的食品標籤閱讀與選擇策略
 
@@ -2171,6 +2249,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# It's the TYPE of Carbs on Keto That Matter
+
 
 </details>
 
@@ -2181,6 +2261,8 @@
     <img src="https://img.youtube.com/vi/xUiWC9clnjA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Epilepsy and The Ketogenic Diet
 
 ### 一、核心主題
 
@@ -2257,6 +2339,8 @@
     <img src="https://img.youtube.com/vi/K_XOUs4IkNo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# At the 1st Sign of a Stroke: DO THIS...
 
 ### 小節歸納
 
@@ -2343,6 +2427,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Does Keto Cause Bone Loss?
+
 ### 核心主題  
 - ** ketogenic diet 的骨骼健康影響**  
 - **運動員與常人的酮飲食適應差異**  
@@ -2409,6 +2495,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Folate Deficiency Creates the Same Damage as Radiation
+
 ### 小節整理
 
 #### 核心主題
@@ -2455,6 +2543,8 @@
     <img src="https://img.youtube.com/vi/g00S7VXawFw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best Foods to Shrink Fibroids
 
 ### 核心主題
 - **子宮肌瘤的營養管理**：探討通過飲食調整來幫助縮小子宮肌瘤的方法。
@@ -2523,6 +2613,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# I Thought Keto Was Supposed to Cure My Diabetes
+
 ### 核心主題  
 - 探讨酮饮食（keto diet）在治疗糖尿病中的作用及其局限性。  
 
@@ -2576,6 +2668,8 @@
     <img src="https://img.youtube.com/vi/Z_XgLP45EcE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Most Important Vitamin for Adrenal Glands
 
 ### 核心主題
 - **壓力管理**：探討壓力對身心健康的影響及其綜合管理策略。
@@ -2637,6 +2731,8 @@
     <img src="https://img.youtube.com/vi/z8K2ApTIKos/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How Much Water to Drink When Fasting
 
 ### 核心主題
 
@@ -2711,6 +2807,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Choose Your Protein Wisely on Keto
+
 ### 文章整理
 
 #### 核心主題
@@ -2757,6 +2855,8 @@
     <img src="https://img.youtube.com/vi/GRN_W9d6y84/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# If Nothing is Working for Acne, Try This Acne Removal Treatment – Dr.Berg
 
 ### 文章整理：痤瘡（青春痘）的成因與自然療法
 
@@ -2814,6 +2914,8 @@
     <img src="https://img.youtube.com/vi/4U43bPxkx7M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Does Keto and Fasting Increase Stress Hormones?
 
 ### 核心主題：酮飲食與斷食對人體激素及整體健康影響之探討
 
@@ -2879,6 +2981,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Boost Your Mood With Negative Ions
+
 
 </details>
 
@@ -2889,6 +2993,8 @@
     <img src="https://img.youtube.com/vi/rYvqG9TMd2o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How Much Coffee is Too Much?
 
 ### 核心主題
 - **咖啡消費現狀**：83%的美國成年人攝取咖啡。
@@ -2947,6 +3053,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Dangers of Red Food Dye
+
 ### 核心主題
 - 文章圍繞個人生活的多個方面展開，包括音樂偏好、飲食習慣、購物活動、運動行為以及家庭責任等。
 
@@ -2982,6 +3090,8 @@
     <img src="https://img.youtube.com/vi/-a05dS2KWx8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Does the Hypothalamus Do?
 
 ### 文章重點整理
 
@@ -3030,6 +3140,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Instant PMS Relief: Use This...
+
 ### 小節歸納
 
 #### 核心主題
@@ -3073,6 +3185,8 @@
     <img src="https://img.youtube.com/vi/8jSgo8WaR0U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Do You Have Salad Bloating Syndrome?
 
 ### 文章整理： Salad Bloating Syndrome 的分析與建議
 
@@ -3145,6 +3259,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Foods That Can Increase Your Libido...Only If...
+
 ### 文章整理：提升 libido 的食物及其健康影響
 
 #### 核心主題
@@ -3196,6 +3312,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Amazing Macadamia Nut
+
 ###  小節整理  
 #### 核心主題：堅果在酮飲食中的角色與	Macadamia nuts 的優點  
 
@@ -3232,6 +3350,8 @@
     <img src="https://img.youtube.com/vi/4DJG_FOQF5M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Good Fat vs. Bad Fats
 
 ### 文章要點整理
 
@@ -3283,6 +3403,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How to Get More Discipline for Keto and Exercise
+
 ### 小節歸納
 
 #### 核心主題
@@ -3329,6 +3451,8 @@
     <img src="https://img.youtube.com/vi/vUBgjAh8Ufk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Benefits of Black Seed Oil
 
 ### 文章重點整理
 
@@ -3397,6 +3521,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# 5 Ways Tallow (Beef Fat) Can Help You Lose Weight
+
 ### 核心主題
 - **Tallow Beef Fat 的健康功效**  
   探讨 Tallow Beef Fat 在减重中的潜在作用及其历史背景。
@@ -3450,6 +3576,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Is Microwave Popcorn Safe to Eat?
+
 ### 核心主題  
 1. 討論圍繞於個人健康、情感狀態及環境條件（如天氣）的相互影響。  
 2. 探討心理與生理健康之間的關聯性。  
@@ -3497,6 +3625,8 @@
     <img src="https://img.youtube.com/vi/PHX1sTdhhpI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Keto on Steroids Updated Plan
 
 ### 文章重點整理
 
@@ -3582,6 +3712,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Do Your Nuts Have to Be Organic?
+
 ### 文章重點整理
 
 #### 核心主題
@@ -3627,6 +3759,8 @@
     <img src="https://img.youtube.com/vi/1sdSsxFZMCQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Can I Do Grapefruit on Keto?
 
 ### 文章重點整理
 
@@ -3685,6 +3819,8 @@
     <img src="https://img.youtube.com/vi/8iDbrE9USYw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Normal Hair Loss vs. Abnormal Hair Loss
 
 ### 文章重點整理
 
@@ -3759,6 +3895,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The MOST Carcinogenic Nut is..
+
 ### 核心主題
 - 探讨最致癌的坚果及其替代品。
 - 强调 peanuts（花生）作为 legume（豆科植物）在生长环境中的潜在致癌风险。
@@ -3809,6 +3947,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Benefits of Lactobacillus (a Friendly Microbe)
+
 
 </details>
 
@@ -3819,6 +3959,8 @@
     <img src="https://img.youtube.com/vi/GhFxnhEMYlE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Bad Food and Drug Combinations
 
 ### 文章整理：壞食物與藥物的組合風險及建議
 
@@ -3876,6 +4018,8 @@
     <img src="https://img.youtube.com/vi/bk_Jm7ONr7U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# WHY You Need Keto and Intermittent Fasting
 
 ### 文章整理：酮飲食與禁食的結合及其健康益處
 
@@ -3951,6 +4095,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Best Foods for Maximum Energy
+
 ### 核心主題：慢性疲劳的飲食調整與能量恢復
 
 ---
@@ -4013,6 +4159,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Tired From Not Consuming Enough Salt?… Here’s Why
+
 ### 小節整理：低鹽攝取對酮飲食的影響及其健康建議
 
 #### 1. 核心主題
@@ -4058,6 +4206,8 @@
     <img src="https://img.youtube.com/vi/jFb8yUbiwY0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Think Twice About Drinking Tap Water
 
 ### 文章整理
 
@@ -4107,6 +4257,8 @@
     <img src="https://img.youtube.com/vi/TzbSipV15JQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Ketogenic Diet Causes Scarring of the Heart...GOSH DARN IT!
 
 ### 核心主題
 
@@ -4160,6 +4312,8 @@
     <img src="https://img.youtube.com/vi/kLOPA3OyTBw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Constant Urge to Pee? Here's Why...
 
 ### 文章整理：頻繁排尿的原因及解決方案
 
@@ -4249,6 +4403,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Get the Benefits of Vitamin D Without the Toxicity
+
 ### 文章重點整理
 
 #### 1. 核心主題  
@@ -4287,6 +4443,8 @@
     <img src="https://img.youtube.com/vi/RV3o0VWfHuQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why You Need More Salt in Your Diet
 
 ### 文章整理：鹽與免疫系統的健康策略
 
@@ -4349,6 +4507,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What Is Synthetic Meat?
+
 ### 小節一：核心主題
 - 探讨合成肉（synthetic meat）作为替代传统肉类的可能性及其对环境和健康的潜在影响。
 - 分析合成肉的实际成分及其健康风险。
@@ -4389,6 +4549,8 @@
     <img src="https://img.youtube.com/vi/1L_2D7O2bSM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Rapid Weight Gain...Don't Worry!
 
 ### 核心主題  
 - 經驗分享：酮飲食（Keto Diet）在短期內的效果與挑戰。  
@@ -4462,6 +4624,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# 6 Things Men Should Not Eat
+
 ### 核心主題：男性飲食中的六大危害與健康建議
 
 ### 主要觀念：
@@ -4512,6 +4676,8 @@
     <img src="https://img.youtube.com/vi/pqXUCscvzGM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Before You Consume Baking Soda: WATCH THIS
 
 ### 核心主題
 - 確定碳酸氫鈉（小蘇打）在治療胃酸逆流中的作用及其潛在影響。
@@ -4571,6 +4737,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The 3 Top Allergies on the Planet
+
 ### 小節歸納
 
 #### 核心主題
@@ -4624,6 +4792,8 @@
     <img src="https://img.youtube.com/vi/Av6akFWExA0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Lard vs Vegetable Oil: Which is Healthier?
 
 ### 核心主題：lard（豬油）與蔬菜油的健康比較
 
@@ -4702,6 +4872,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Ovaries Removed? Do This...
+
 ### 文章重點整理
 
 #### 1. 核心主題  
@@ -4738,6 +4910,8 @@
     <img src="https://img.youtube.com/vi/hvhs40xmGTA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Shrink Your Enlarged Prostate
 
 ### 核心主題：前列腺肥大的原因及管理策略
 
@@ -4792,6 +4966,8 @@
     <img src="https://img.youtube.com/vi/9u8BUl1nr4Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Herb Has the Most Antioxidants?
 
 ### 文章重點整理
 
@@ -4851,6 +5027,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Best and Worst Belly Bloating Foods
+
 ### 核心主題：腹部脹氣的原因及飲食管理
 
 ### 主要觀念：
@@ -4893,6 +5071,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What Happens if You Stop Eating Fast Food for 7 Days
+
 ### 核心主題  
 - 探讨停止食用快餐一周对身体多方面的积极影响，超越仅限于碳水化合物和糖分的讨论。
 
@@ -4910,6 +5090,8 @@
     <img src="https://img.youtube.com/vi/vwCjbGwJqrU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# If You Have a Brain, You Need to Fast
 
 ### 小節化整理
 
@@ -4963,6 +5145,8 @@
     <img src="https://img.youtube.com/vi/y5Y2WIlkir4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Vitamin Deficiencies Cause Serious Diseases
 
 # 文章重點整理
 
@@ -5030,6 +5214,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Top Natural Remedies for a UTI (Urinary Tract Infection)
+
 ### 小節整理：尿路感染（UTI）的自然療法
 
 #### 核心主題
@@ -5096,6 +5282,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Visualize Your Plate Instead of Counting Calories
+
 ### 小節整理：_macros and Keto Diet_
 
 #### 1. 核心主題
@@ -5152,6 +5340,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Hunger Waves: Is It Really Hunger?
+
 
 </details>
 
@@ -5162,6 +5352,8 @@
     <img src="https://img.youtube.com/vi/DE7lhrW6t3c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best Herbs for Parasites
 
 ### 小節整理：寄生蟲感染與自然療法
 
@@ -5224,6 +5416,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Music's Effect on the Body and Brain
+
 ### 重點整理
 
 #### 核心主題
@@ -5281,6 +5475,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Is Cheese a Good Probiotic?
+
 
 </details>
 
@@ -5291,6 +5487,8 @@
     <img src="https://img.youtube.com/vi/x-XVGDr0oUI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Most Deadly Mushroom and Its Antidote
 
 ### 文章整理與分析
 
@@ -5349,6 +5547,8 @@
     <img src="https://img.youtube.com/vi/n1AvkBv1zR8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Get Rid of Hiccups
 
 ### 文章整理：如何消除打嗝及相關健康建議
 

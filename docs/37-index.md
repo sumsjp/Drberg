@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How to Burn Belly Fat EXTREMELY Fast with Dr. Berg's 5 Expert Tips
+
 ### 小節歸納
 
 #### 1. 核心主題
@@ -64,6 +66,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# 7 Warning Signs That Your Kidneys Are Toxic
+
 ### 文章整理：保護腎臟健康之飲食與生活策略
 
 #### 核心主題：
@@ -121,6 +125,8 @@
     <img src="https://img.youtube.com/vi/v0lrJXU92-Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Fasting Drink List: Dr. Berg's Guide to What You Can Drink During Fasting
 
 ### 一、核心主題
 - **低碳水化合物飲食與斷食法（Keto Diet & Fasting）**  
@@ -185,6 +191,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Keto Macros in Maintenance Phase
+
 ### 文章整理與分析
 
 #### 核心主題
@@ -238,6 +246,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Stevia Kills Lyme Pathogen: New Study
+
 ### 核心主題  
 - 探讨Stevia（甜叶菊）在 Lyme 病治疗中的潜在作用及其机制。
 
@@ -286,6 +296,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# 7 Things Your Face Tells You About Your Blood Sugars
+
 
 </details>
 
@@ -296,6 +308,8 @@
     <img src="https://img.youtube.com/vi/Yfywkbv4W-4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is Coconut Milk or Water Keto Friendly?
 
 ### 核心主題
 - 調查椰奶和椰水在酮egenic diet中的適合性。
@@ -339,6 +353,8 @@
     <img src="https://img.youtube.com/vi/xoCfjgaweO0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Cooking and Heating Turmeric Enhances Nutrients
 
 ### 文章整理：Turmeric 加熱的效果與健康益處
 
@@ -403,6 +419,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Calcium and Your Immune System: IMPORTANT
+
 
 </details>
 
@@ -413,6 +431,8 @@
     <img src="https://img.youtube.com/vi/ZuKcIZt9nDI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# If You HAD to Pick One: Stroke or Heart Attack?
 
 ### 小節歸納
 
@@ -464,6 +484,8 @@
     <img src="https://img.youtube.com/vi/dIqjfGS3ovc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is MCT Oil Good or Bad for a Fatty Liver
 
 ### 核心主題
 - MCT油（中鏈三酰甘油）對肝臟的影響及其健康效果。
@@ -521,6 +543,8 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
         alt="[Youtube]" width="200">
 </a>
 
+# How to Read a Coronary Artery Calcium (CAC) Score
+
 ### 小節歸納
 
 #### 核心主題
@@ -570,6 +594,8 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
         alt="[Youtube]" width="200">
 </a>
 
+# Good Luck Trying to Get Vitamin D from Foods
+
 
 </details>
 
@@ -580,6 +606,8 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
     <img src="https://img.youtube.com/vi/pNzFW7nZCLg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is Your Cell Phone Causing Sweet Cravings Late at Night?
 
 ### 核心主題
 - 藍光對人體生理節律和血糖水平的影響。
@@ -627,6 +655,8 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
         alt="[Youtube]" width="200">
 </a>
 
+# How Does NAC (N-Acetylcysteine) Work
+
 ### 核心主題
 - 文章主要圍繞著某個事件或情況進行描述，涉及信息不完整、行動描述以及情感表達。
 
@@ -660,6 +690,8 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
     <img src="https://img.youtube.com/vi/QgMksKGvI0Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Zinc Controls Many Key Hormones
 
 ### 小節歸納
 
@@ -709,6 +741,8 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
     <img src="https://img.youtube.com/vi/FbRpfe7Iruo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Top Sign That You're Consuming Too Much Protein
 
 ### 核心主題：蛋白質攝取過量的徵兆及酮飲食中的蛋白質攝取建議
 
@@ -769,6 +803,8 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
         alt="[Youtube]" width="200">
 </a>
 
+# 98 Percent of Sleep Apnea Cases Have Low Vitamin D
+
 ### 核心主題  
 - 睡眠呼吸中斷症（Sleep Apnea）與低血清維生素D水平之間存在密切關聯。
 
@@ -816,6 +852,8 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
         alt="[Youtube]" width="200">
 </a>
 
+# 10 Signs of a Dying Liver  (End Stage Liver Disease)
+
 ### 核心主題
 - 論述晚期肝病（即肝硬化末期）的十大徵兆。
 
@@ -853,6 +891,8 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
     <img src="https://img.youtube.com/vi/7hkTOt3M9R4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Most Common Cause of Hair Loss
 
 ### 核心主題：雄激素性脱发（Androgenic Alopecia）
 - **定義**：一種與雄性激素密切相關的(pattern hair loss)，在男性中表現為後退發際和頭頂脫髮，在女性中則為全身性脱发。
@@ -902,6 +942,8 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
         alt="[Youtube]" width="200">
 </a>
 
+# The Importance of Zinc for Muscles
+
 ### 文章整理與分析
 
 #### 1. 核心主題  
@@ -940,6 +982,8 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
     <img src="https://img.youtube.com/vi/I4cPhtVXArg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Do Spices and Herbs Have an Expiration Date?
 
 ### 核心主題
 - **香料和調味品的保存期限**  
@@ -1003,6 +1047,8 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
         alt="[Youtube]" width="200">
 </a>
 
+# Probiotics for Constipation? Maybe Not
+
 ### 文章整理
 
 #### 核心主題
@@ -1049,6 +1095,8 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
     <img src="https://img.youtube.com/vi/2BmTnaA606I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best Form of Broccoli Is..
 
 ### 核心主題： 
 - **Broccoli 及其活性成分 Sulforaphane 的健康效益**  
@@ -1103,6 +1151,8 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
     <img src="https://img.youtube.com/vi/ODmFi5wHVs4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Omega-3 Fatty Acids Reduce Insulin Resistance
 
 ### 文章整理報告
 
@@ -1182,6 +1232,8 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
         alt="[Youtube]" width="200">
 </a>
 
+# Medications Are Designed From Nature
+
 ### 核心主題  
 - **自然產物在藥物開發中的重要性**：文章強調了許多現代藥物源自自然界，尤其是過去25年中70%的藥物來自於自然產品。  
 
@@ -1239,6 +1291,8 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
         alt="[Youtube]" width="200">
 </a>
 
+# 5 Herbal Remedies for Sciatica
+
 
 </details>
 
@@ -1249,6 +1303,8 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
     <img src="https://img.youtube.com/vi/ghmHZCvULsE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Lead in Nutritional Products: MUST WATCH
 
 ### 核心主題
 - 探讨Prop 65法规对营养补充剂中铅含量的影响及其背后的科学依据。
@@ -1311,6 +1367,8 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
     <img src="https://img.youtube.com/vi/EK0aBMtgGOc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Causes Right Ankle Edema?
 
 ### 文章重點整理
 
@@ -1381,6 +1439,8 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
         alt="[Youtube]" width="200">
 </a>
 
+# Use DIM for HPV (Human Papilloma Virus)
+
 # 文章重點整理
 
 ## 核心主題
@@ -1416,6 +1476,8 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
     <img src="https://img.youtube.com/vi/QUnf4OXDnCk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# I Get My Vitamin D From Food...
 
 ### 正式英文標題  
 **Understanding Vitamin D Sufficiency: Sources, Barriers, and Implications**
@@ -1475,6 +1537,8 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
         alt="[Youtube]" width="200">
 </a>
 
+# How Much Vitamin D Do I Need? SURPRISING
+
 ### 核心主題：維生素D的日攝取量及其影響
 
 #### 主要觀念：
@@ -1506,6 +1570,8 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
     <img src="https://img.youtube.com/vi/DUSlNTe3Cg0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Sleepy After You Eat?
 
 ### 文章重點整理
 
@@ -1576,6 +1642,8 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
         alt="[Youtube]" width="200">
 </a>
 
+# What is NAC (N-Acetyl-L-Cysteine)?
+
 ### 文章整理：N-乙酰半胱氨酸（NAC）的功效與應用
 
 #### 核心主題
@@ -1630,6 +1698,8 @@ NAC 是一種多用途的抗氧化劑，通過增強谷胱甘肅醇系統和調�
         alt="[Youtube]" width="200">
 </a>
 
+# Just Two Days of Sugar Devastates Your Gut Health
+
 ### 核心主題  
 - 短期增加糖分攝取對健康的影響及其與炎症性腸病的關聯。
 
@@ -1678,6 +1748,8 @@ NAC 是一種多用途的抗氧化劑，通過增強谷胱甘肅醇系統和調�
         alt="[Youtube]" width="200">
 </a>
 
+# Crave Carbs Late at Night?
+
 
 </details>
 
@@ -1688,6 +1760,8 @@ NAC 是一種多用途的抗氧化劑，通過增強谷胱甘肅醇系統和調�
     <img src="https://img.youtube.com/vi/VhkoLn6OVAg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How Many Soft Drinks Do People Drink?
 
 ### 文章整理：軟飲料消費與健康的關係
 
@@ -1739,6 +1813,8 @@ NAC 是一種多用途的抗氧化劑，通過增強谷胱甘肅醇系統和調�
         alt="[Youtube]" width="200">
 </a>
 
+# Arrhythmias and Calcium
+
 ### 核心主題：鈣與心血管系統的關係  
 - 鈣不 только 與骨骼健康有關，還涉及多個生理過程，包括細胞間信號傳遞、血液凝固和肌肉收縮與放鬆。  
 - 鈣在體內不易快速排出，易導致過量或不足的情況。  
@@ -1776,6 +1852,8 @@ NAC 是一種多用途的抗氧化劑，通過增強谷胱甘肅醇系統和調�
     <img src="https://img.youtube.com/vi/07qxjaufFZE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Eat This to Counter Obesogens
 
 ### 文章重點整理
 
@@ -1834,6 +1912,8 @@ NAC 是一種多用途的抗氧化劑，通過增強谷胱甘肅醇系統和調�
         alt="[Youtube]" width="200">
 </a>
 
+# Is Ketosis Safe While Pregnant?
+
 ### 小節歸納：ketosis and Pregnancy
 
 #### 核心主題  
@@ -1882,6 +1962,8 @@ NAC 是一種多用途的抗氧化劑，通過增強谷胱甘肅醇系統和調�
     <img src="https://img.youtube.com/vi/F-d9qim8uow/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Vitamin D Actually Feeds Your Microbes
 
 ### 核心主題  
 - **維生素D對人體微生物群的重要性**  
@@ -1953,6 +2035,8 @@ NAC 是一種多用途的抗氧化劑，通過增強谷胱甘肅醇系統和調�
         alt="[Youtube]" width="200">
 </a>
 
+# 8 Natural Beta Blockers
+
 ### 核心主題：自然β受體阻斷劑及其在降低應激反應中的作用
 
 ### 主要觀念：
@@ -2012,6 +2096,8 @@ NAC 是一種多用途的抗氧化劑，通過增強谷胱甘肅醇系統和調�
     <img src="https://img.youtube.com/vi/AFp-70RJ4Tg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Insulin's Partner Glucagon
 
 ### 文章整理：胰島素與胰高血糖素的作用及健康管理
 
@@ -2081,6 +2167,8 @@ NAC 是一種多用途的抗氧化劑，通過增強谷胱甘肅醇系統和調�
         alt="[Youtube]" width="200">
 </a>
 
+# The Health Benefits of Rosemary
+
 ### 核心主題
 - **Rosemary 的多功能性**：作為一種具有多種用途的香草植物，Rosemary 在食物、健康和美容等方面均有重要應用。
 
@@ -2142,6 +2230,8 @@ NAC 是一種多用途的抗氧化劑，通過增強谷胱甘肅醇系統和調�
         alt="[Youtube]" width="200">
 </a>
 
+# Is Sodium Lauryl Sulfate Safe?
+
 # 文章重點整理
 
 ## 核心主題
@@ -2187,6 +2277,8 @@ NAC 是一種多用途的抗氧化劑，通過增強谷胱甘肅醇系統和調�
     <img src="https://img.youtube.com/vi/xbeJTLjgOIA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Craving Salt After Eating Sweets? Here's Why
 
 ### 核心主題：鹽分攝取與碳水化合物攝食後的生理反應
 
@@ -2246,6 +2338,8 @@ NAC 是一種多用途的抗氧化劑，通過增強谷胱甘肅醇系統和調�
     <img src="https://img.youtube.com/vi/Z0AmWd57pfg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Real Reason for a Vitamin D Deficiency
 
 # 文章整理：為什麼維生素D缺乏如此普遍及其挑戰
 
@@ -2314,6 +2408,8 @@ NAC 是一種多用途的抗氧化劑，通過增強谷胱甘肅醇系統和調�
     <img src="https://img.youtube.com/vi/6g-vqHVKZQI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Soda Melts Your Bones
 
 ### 文章重點整理
 
@@ -2386,6 +2482,8 @@ NAC 是一種多用途的抗氧化劑，通過增強谷胱甘肅醇系統和調�
     <img src="https://img.youtube.com/vi/ZAqb98mw4Xs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Banned Ingredients That We Still Eat
 
 ### 小節歸納
 
@@ -2461,6 +2559,8 @@ NAC 是一種多用途的抗氧化劑，通過增強谷胱甘肅醇系統和調�
         alt="[Youtube]" width="200">
 </a>
 
+# Why the White Ring Around Your Iris?
+
 ### 核心主題  
 - 白色虹膜環（Arcus senilis）的現象及其意義。
 
@@ -2513,6 +2613,8 @@ NAC 是一種多用途的抗氧化劑，通過增強谷胱甘肅醇系統和調�
     <img src="https://img.youtube.com/vi/DbsRZYFTKYA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Chronic Pain and Monosodium Glutamate (MSG)
 
 ### 英文標題：  
 The Connection Between Chronic Pain and Monosodium Glutamate (MSG)
@@ -2585,6 +2687,8 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
     <img src="https://img.youtube.com/vi/YndOK6L44ik/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# High Pulse Rate Keeping You From Sleep?
 
 ### 文章整理與重點摘錄
 
@@ -2662,6 +2766,8 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
+# Preventing Bacterial Vaginosis
+
 
 </details>
 
@@ -2672,6 +2778,8 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
     <img src="https://img.youtube.com/vi/owBNOfG6UiI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Insulin Resistance and Gluconeogenesis
 
 ### 文章重點整理
 
@@ -2762,6 +2870,8 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
+# The Benefits of Chromium
+
 
 </details>
 
@@ -2772,6 +2882,8 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
     <img src="https://img.youtube.com/vi/8H-lDiFpW3w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Use Probiotics for Acid Reflux
 
 ### 核心主題：  
 - 探讨益生菌在改善酸反流（GERD）和烧心症状中的作用及其机制。
@@ -2840,6 +2952,8 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
+# Night Shift Work Is Classified as a Probable Carcinogen to Humans
+
 ### 核心主題：夜班工作對健康的影響及風險管理
 
 #### 主要觀念：
@@ -2879,6 +2993,8 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
     <img src="https://img.youtube.com/vi/LFFyk1L9UpM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best Stretch for Shoulder Pain
 
 ### 核心主題  
 - 肩膀疼痛的治療與預防  
@@ -2938,6 +3054,8 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
+# Why Avocados Help You Lose Weight
+
 ### 核心主題：牛油果及其在減重中的潛在作用
 
 #### 主要觀念：
@@ -2979,6 +3097,8 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
+# Green Bananas for Diarrhea
+
 ### 核心主題  
 - **慢性腹瀉的危害**：慢性腹瀉導致營養流失，尤其是微量元素鋅，可能危及生命。  
 - **恢復腸道健康的重要性**：補充電解質、益生菌和有益物質以改善腸道功能。  
@@ -3017,6 +3137,8 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
     <img src="https://img.youtube.com/vi/0rzexuLihp4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Drinking Water Makes You Weak When Fasting
 
 ### 文章重點整理
 
@@ -3074,6 +3196,8 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
+# Dead Sea Salt vs. Sea Salt
+
 ### 核心主題：死海盐与普通海盐的区别及其健康影响
 
 ### 主要觀念：
@@ -3119,6 +3243,8 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
+# The Best and Worst Seeds on Keto
+
 
 </details>
 
@@ -3129,6 +3255,8 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
     <img src="https://img.youtube.com/vi/v6hYXfg_uCQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best Way to Get Off Sugar
 
 ### 核心主題：戒糖的挑戰與解决方案
 
@@ -3156,6 +3284,8 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
     <img src="https://img.youtube.com/vi/X8aUKfAFecE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Foods to Avoid When Pregnant
 
 ### 文章整理：孕婦飲食禁忌與健康建議
 
@@ -3231,6 +3361,8 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
+# Kefir vs. Kombucha Tea: Which One is Healthier?
+
 ### 核心主題  
 - **比較 kefir 與 kombucha 的健康效益**  
 - **探討二者在發酵過程中菌種及其代謝產物的差異**
@@ -3294,6 +3426,8 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
     <img src="https://img.youtube.com/vi/sg-2C2lmcAU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Chronic Neck Misalignment Does Not Come From the Neck
 
 ### 小節歸納
 
@@ -3384,6 +3518,8 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
+# American Wheat vs. European Wheat Products
+
 ### 總結文章重點
 
 #### 核心主題
@@ -3470,6 +3606,8 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
+# Nuts Have the Highest Phytic Acid
+
 ### 核心主題
 - 探讨坚果消费中常见的消化问题及其原因。
 - 强调 PHYTIC ACID（植酸）在坚果中的作用及其对矿物质吸收的影响。
@@ -3518,6 +3656,8 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
     <img src="https://img.youtube.com/vi/LlBiR-y0n8s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Amazing Benefits of Sugar
 
 ### 小節歸納
 
@@ -3578,6 +3718,8 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
     <img src="https://img.youtube.com/vi/Ob8sR4A-UIA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Most Common Nutrient Deficiency in IBD (Inflammatory Bowel Disease)
 
 ### 核心主題  
 - 腸道易激惹症（IBD），包括克隆氏病和潰瘍性大腸炎，常伴有營養素缺乏。
@@ -3650,6 +3792,8 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
+# Seven Ways to Improve Bone Health
+
 ### 核心主題：
 - 骨骼健康的改善與維護。
 - 骨密度峰值及其後逐年下降的現象。
@@ -3694,6 +3838,8 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
     <img src="https://img.youtube.com/vi/mh2FkuBoseU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Knee Pain and Tight Calf Muscles
 
 ### 小節整理：膝蓋前側疼痛與小腿緊繃
 
@@ -3742,6 +3888,8 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
+# Why is Low Glycemic Fructose Bad for You?
+
 
 </details>
 
@@ -3752,6 +3900,8 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
     <img src="https://img.youtube.com/vi/hQO8wLlK74c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Belly Fat is Merely a Symptom
 
 ### 小節整理：文章重點摘述
 
@@ -3794,6 +3944,8 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
     <img src="https://img.youtube.com/vi/SpkJXveFArs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Causes of Ingrown Toenails
 
 ### 核心主題：Ingrown Toenail (甲溝炎)
 
@@ -3853,6 +4005,8 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
+# Silymarin in Milk Thistle is a Powerhouse for the Liver
+
 
 </details>
 
@@ -3863,6 +4017,8 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
     <img src="https://img.youtube.com/vi/0Rl9dZ5svj0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Best Exercise for Telomere Length
 
 ### 小節歸納
 
@@ -3913,6 +4069,8 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
+# The Benefits of Walking
+
 ### 文章整理與分析
 
 #### 核心主題  
@@ -3949,6 +4107,8 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
     <img src="https://img.youtube.com/vi/pMx33GqFspc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Color Is Your Phlegm (Mucus)?
 
 ### 重點整理
 
@@ -4000,6 +4160,8 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
     <img src="https://img.youtube.com/vi/CwKXVDUJEMo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# FODMAPS and Irritable Bowel Syndrome
 
 ### 核心主題  
 - 論述低FODMAP飲食在治療炎症性腸病（IBD）和腸易激惹症（IBS）中的作用。  
@@ -4065,6 +4227,8 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
     <img src="https://img.youtube.com/vi/lq9fCgPN5KE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Body Fat Location Can Predict Disease
 
 ### 核心主題：性別差異與脂肪分佈對健康的影響
 
@@ -4146,6 +4310,8 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
+# DHEA and Menopause
+
 ### 核心主題：DHEA 在更年期女性中的 therapeutic benefits
 
 ### 主要觀念：
@@ -4191,6 +4357,8 @@ DHEA 是一種有潛力的輔助療法，可幫助改善更年期婦女的激素
     <img src="https://img.youtube.com/vi/qR-4ETHrlzk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Eat This Food for Osteoarthritis
 
 ### 核心主題  
 - 類風濕關節炎（Autoimmune Disease）與骨性關節炎（Osteoarthritis）的不同。  
@@ -4239,6 +4407,8 @@ DHEA 是一種有潛力的輔助療法，可幫助改善更年期婦女的激素
     <img src="https://img.youtube.com/vi/8PgYpW9FO7I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What's More Dangerous: Sugar or Wheat?
 
 ### 文章重點整理
 
@@ -4304,6 +4474,8 @@ DHEA 是一種有潛力的輔助療法，可幫助改善更年期婦女的激素
         alt="[Youtube]" width="200">
 </a>
 
+# A Fatty Liver Spreads to All of Your Organs
+
 ### 小節整理：脂肪肝的多器官影響及治療策略
 
 #### 1. 核心主題  
@@ -4341,6 +4513,8 @@ DHEA 是一種有潛力的輔助療法，可幫助改善更年期婦女的激素
     <img src="https://img.youtube.com/vi/1LgDS7DSEnM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Worst Therapy for Tendons is Rest
 
 ### 核心主題：慢性肌腱病灶的康復與傳統治療方式的效果探討
 
@@ -4388,6 +4562,8 @@ DHEA 是一種有潛力的輔助療法，可幫助改善更年期婦女的激素
     <img src="https://img.youtube.com/vi/APePm9y0F74/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Sinus Infection (Sinusitis): 2 Natural Remedies
 
 ### 文章整理：慢性鼻竇感染的自然療法
 
@@ -4446,6 +4622,8 @@ DHEA 是一種有潛力的輔助療法，可幫助改善更年期婦女的激素
     <img src="https://img.youtube.com/vi/mDn9SHhTgf8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Secret to Getting Rid of Anxiety and Depression
 
 ### 文章整理：腸道 microbiome 與情緒障礙之關係
 
@@ -4517,6 +4695,8 @@ DHEA 是一種有潛力的輔助療法，可幫助改善更年期婦女的激素
         alt="[Youtube]" width="200">
 </a>
 
+# Are High Ketones During Fasting Dangerous?
+
 ### 核心主題
 - 家庭經濟壓力與失業影響。
 - 個人健康管理與目標設定。
@@ -4558,6 +4738,8 @@ DHEA 是一種有潛力的輔助療法，可幫助改善更年期婦女的激素
         alt="[Youtube]" width="200">
 </a>
 
+# Why Do Astronauts Use Spirulina?
+
 
 </details>
 
@@ -4568,6 +4750,8 @@ DHEA 是一種有潛力的輔助療法，可幫助改善更年期婦女的激素
     <img src="https://img.youtube.com/vi/8vV_DHagyCE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Don't Like Germs? WATCH THIS!
 
 ### 文章重點整理：微生物在人類健康與生態中的重要性
 
@@ -4612,6 +4796,8 @@ DHEA 是一種有潛力的輔助療法，可幫助改善更年期婦女的激素
     <img src="https://img.youtube.com/vi/JubfKxpJnCE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# When Keto Doesn’t Work, This is Why
 
 ### 核心主題
 - **核心主題**：探讨 ketogenic（生酮）饮食在体重管理中的应用效果及其局限性。
@@ -4677,6 +4863,8 @@ DHEA 是一種有潛力的輔助療法，可幫助改善更年期婦女的激素
         alt="[Youtube]" width="200">
 </a>
 
+# The 7th Reason Why You Can't Lose Weight
+
 ### 文章整理與分析
 
 #### 核心主題  
@@ -4733,6 +4921,8 @@ DHEA 是一種有潛力的輔助療法，可幫助改善更年期婦女的激素
         alt="[Youtube]" width="200">
 </a>
 
+# Low Fat Diets and Sex Hormones
+
 
 </details>
 
@@ -4744,6 +4934,8 @@ DHEA 是一種有潛力的輔助療法，可幫助改善更年期婦女的激素
         alt="[Youtube]" width="200">
 </a>
 
+# Arterial Stiffness and Vitamin D
+
 
 </details>
 
@@ -4754,6 +4946,8 @@ DHEA 是一種有潛力的輔助療法，可幫助改善更年期婦女的激素
     <img src="https://img.youtube.com/vi/QYXCisEmIQs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Most Powerful Agent to Raise HDL
 
 ### 核心主題  
 - 高密度脂蛋白（HDL）的重要作用及其健康影響。  
@@ -4788,6 +4982,8 @@ DHEA 是一種有潛力的輔助療法，可幫助改善更年期婦女的激素
     <img src="https://img.youtube.com/vi/w_yCfz1bp2c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 6 Herbs Toxic for Your Liver
 
 ### 核心主題：草藥對肝臟的影響及其風險
 
@@ -4891,6 +5087,8 @@ DHEA 是一種有潛力的輔助療法，可幫助改善更年期婦女的激素
         alt="[Youtube]" width="200">
 </a>
 
+# Low Salt Increases Your Risk of Heart Attacks
+
 ### 核心主題
 - 盐分摄入与心血管健康的关联。
 - 重新审视低盐饮食对健康的影响。
@@ -4937,6 +5135,8 @@ DHEA 是一種有潛力的輔助療法，可幫助改善更年期婦女的激素
     <img src="https://img.youtube.com/vi/52ufLL45oIs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Plastic Pollution: Good and Bad News
 
 ### 核心主題  
 - 塑料污染的影響及其對環境和健康的危害。  

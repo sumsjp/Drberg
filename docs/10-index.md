@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Bloating Causes: Bloated Belly After Exercise? – Dr. Berg
+
 ### 核心主題
 - **壓力引起的腹部脹氣**：探討在運動後或長期壓力下導致腹部脹氣的原因及其與皮質醇的关系。
 
@@ -80,6 +82,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Jaundice Symptoms Explained by Dr.Berg (In Very Simple Terms!!)
+
 ### 核心主題
 - **關鍵概念**： jaundice（黃疸）是一種症狀，通常與血液中膽紅素（bilirubin）水平升高有關。
 - **核心現象**： 胆紅素是由血紅蛋白分解產生的代謝產物。
@@ -130,6 +134,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Biggest Benefit of Intermittent Fasting - Weight Loss or Autophagy? – Dr. Berg
+
 ### 文章整理： intermittent fasting and cellular health
 
 #### 核心主題:
@@ -178,6 +184,8 @@
     <img src="https://img.youtube.com/vi/TopndbVfJT0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Keto-Adaptation and Nutritional Yeast
 
 ### 核心主題  
 營養 yeast 在酮osis 独.phase 中的作用及其相關疑問解答  
@@ -243,6 +251,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Science Behind Lutein and Brain Health – Dr. Berg on Carotenoids
+
 ### 核心主題：Lutein 的健康益處及其在Brain和Eye中的作用
 
 #### 主要觀念：
@@ -297,6 +307,8 @@ Lutein 的重要性在於其對視力和腦部健康的保護作用。了解其�
         alt="[Youtube]" width="200">
 </a>
 
+# 4 Most Common Causes of Bone Pain – Dr. Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -349,6 +361,8 @@ Lutein 的重要性在於其對視力和腦部健康的保護作用。了解其�
         alt="[Youtube]" width="200">
 </a>
 
+# Slow Weight Loss In Menopause? – Dr. Berg Explains Why It Takes So Long
+
 
 </details>
 
@@ -359,6 +373,8 @@ Lutein 的重要性在於其對視力和腦部健康的保護作用。了解其�
     <img src="https://img.youtube.com/vi/EzSEuEvcueg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Should You Stop Eating Snacks At Nighttime? – Dr. Berg On Late Night Cravings
 
 ### 文章標題：如何戒除深夜零食壞習慣
 
@@ -417,6 +433,8 @@ Lutein 的重要性在於其對視力和腦部健康的保護作用。了解其�
         alt="[Youtube]" width="200">
 </a>
 
+# Best Recovery Supplement After A Workout | Dr.Berg on Post Workout Nutrition
+
 ### 文章重點整理
 
 #### 核心主題
@@ -472,6 +490,8 @@ D-ribose被視為一種有效的營養補充劑，尤其是在需要加速ATP再
         alt="[Youtube]" width="200">
 </a>
 
+# Dr.Berg On Identifying Type 1 Diabetes – Insulin And Potassium Relationship
+
 ### 小節歸納
 
 #### 核心主題
@@ -522,6 +542,8 @@ D-ribose被視為一種有效的營養補充劑，尤其是在需要加速ATP再
     <img src="https://img.youtube.com/vi/KosvTTNe6Pk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Not Losing Weight On A Very Low Calorie Diet? – Dr. Berg Explains Why
 
 ### 英文標題  
 The Dynamics of Low-Calorie Dieting: Understanding Metabolic Adaptations and Effective Weight Management  
@@ -584,6 +606,8 @@ The Dynamics of Low-Calorie Dieting: Understanding Metabolic Adaptations and Eff
         alt="[Youtube]" width="200">
 </a>
 
+# Why Women Crave Chocolate During Their Menstrual Cycle? – Dr. Berg on Period Cravings
+
 ### 核心主題：巧克力消費與女性生理周期（月经）期間的关联
 
 #### 1. 巧克力的主要活性成分及其作用
@@ -634,6 +658,8 @@ The Dynamics of Low-Calorie Dieting: Understanding Metabolic Adaptations and Eff
     <img src="https://img.youtube.com/vi/qZFaXAuymro/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Top 10 Nutrient Blockers – Dr.Berg
 
 ### 文章整理：阻礙營養吸收的因素及相關建議
 
@@ -738,6 +764,8 @@ The Dynamics of Low-Calorie Dieting: Understanding Metabolic Adaptations and Eff
         alt="[Youtube]" width="200">
 </a>
 
+# How to Prevent Macular Degeneration – Dr. Berg
+
 ### 核心主題：視網膜與黃斑部退化的 overview
 
 ### 主要觀念：
@@ -796,6 +824,8 @@ The Dynamics of Low-Calorie Dieting: Understanding Metabolic Adaptations and Eff
         alt="[Youtube]" width="200">
 </a>
 
+# How Much Salt on Keto Diet? – Dr. Berg
+
 ### 核心主題
 - 低卡高脂飲食（酮ogenic diet）中鹽分攝取的重要性。
 
@@ -835,6 +865,8 @@ The Dynamics of Low-Calorie Dieting: Understanding Metabolic Adaptations and Eff
     <img src="https://img.youtube.com/vi/lQVKaWS_QZc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why To Add Healthy FATS To Your Salads? – Dr. Berg
 
 ### 小結點整理
 
@@ -893,6 +925,8 @@ The Dynamics of Low-Calorie Dieting: Understanding Metabolic Adaptations and Eff
         alt="[Youtube]" width="200">
 </a>
 
+# Why Diabetics Patients Get High Blood Pressure? – Dr.Berg on Diabetes
+
 ### 文章整理：糖尿病患者高血壓的原因及管理
 
 #### 核心主題
@@ -950,6 +984,8 @@ The Dynamics of Low-Calorie Dieting: Understanding Metabolic Adaptations and Eff
         alt="[Youtube]" width="200">
 </a>
 
+# Relation Between Ketosis & Uric Acid Stones – Dr.Berg on Keto Kidney Stones
+
 ### 文章重點整理
 
 #### 核心主題
@@ -994,6 +1030,8 @@ The Dynamics of Low-Calorie Dieting: Understanding Metabolic Adaptations and Eff
     <img src="https://img.youtube.com/vi/_Zt1pUDbwB0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Stress-Induced Weight Gain & Cortisol – Dr.Berg's Skype Interview With Cheryl Style
 
 ### 文章整理：酮飲食與健康生活方式的核心要素
 
@@ -1065,6 +1103,8 @@ The Dynamics of Low-Calorie Dieting: Understanding Metabolic Adaptations and Eff
         alt="[Youtube]" width="200">
 </a>
 
+# Dr.Berg's Take On Exogenous Ketone Pills (Keto BHB Supplement Review)
+
 
 </details>
 
@@ -1075,6 +1115,8 @@ The Dynamics of Low-Calorie Dieting: Understanding Metabolic Adaptations and Eff
     <img src="https://img.youtube.com/vi/x_VFWscxj34/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Ultimate Muscle Building Nutrition Guide with Dr. Berg
 
 ### 文章整理：肌肉生長與營養策略
 
@@ -1125,6 +1167,8 @@ The Dynamics of Low-Calorie Dieting: Understanding Metabolic Adaptations and Eff
     <img src="https://img.youtube.com/vi/0XuH31s5k28/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What is CoQ10? – Dr.Berg Shares Coenzyme CoQ10 Benefits
 
 ### 核心主題：Coenzyme Q10的作用與重要性
 
@@ -1183,6 +1227,8 @@ The Dynamics of Low-Calorie Dieting: Understanding Metabolic Adaptations and Eff
         alt="[Youtube]" width="200">
 </a>
 
+# Dr.Berg Gives Best Tip on Autoimmune Disorders & Conditions – Autoimmune Diseases
+
 ### 文章整理： autoimmune conditions 的最佳療法
 
 #### 核心主題
@@ -1232,6 +1278,8 @@ The Dynamics of Low-Calorie Dieting: Understanding Metabolic Adaptations and Eff
         alt="[Youtube]" width="200">
 </a>
 
+# Can You Have Normal Blood Sugar And Still Be Insulin Resistant? – Dr.Berg
+
 # 文章主旨與結構整理
 
 ## 核心主題
@@ -1269,6 +1317,8 @@ The Dynamics of Low-Calorie Dieting: Understanding Metabolic Adaptations and Eff
     <img src="https://img.youtube.com/vi/a3UIPrpgwKk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# If I Have Arthritis, Should I Avoid the Nightshade Foods? – Dr.Berg
 
 ### 核心主題  
 - 探讨 arthritis 患者是否应避免食用 nightshade vegetables（茄科植物）。  
@@ -1323,6 +1373,8 @@ The Dynamics of Low-Calorie Dieting: Understanding Metabolic Adaptations and Eff
     <img src="https://img.youtube.com/vi/DYfDMbl535Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Amazing Health & Nutritional Benefits Of Basil | Dr. Berg
 
 ### 核心主題： BASIL 的健康益處與applications
 
@@ -1381,6 +1433,8 @@ Basil 不僅是一種常見的香料，在烹調中提升風味，更具有多�
         alt="[Youtube]" width="200">
 </a>
 
+# What is Gamma Linolenic Acid (GLA)? - Dr. Berg
+
 ### 核心主題
 - 探讨GLA（Gamma-Linolenic Acid）作为一种特殊的Omega-6脂肪酸，其独特的抗炎作用及其健康益处。
 
@@ -1412,6 +1466,8 @@ Basil 不僅是一種常見的香料，在烹調中提升風味，更具有多�
     <img src="https://img.youtube.com/vi/BDxij2BcJSc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Bladder Stones: Causes, Symptoms & Remedies | Dr. Berg
 
 ### 小節整理
 
@@ -1459,6 +1515,8 @@ Basil 不僅是一種常見的香料，在烹調中提升風味，更具有多�
     <img src="https://img.youtube.com/vi/WecG0HDXDSg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# In Ketosis But No Ketones In Urine? – Dr. Berg
 
 ### 小結點整理
 
@@ -1509,6 +1567,8 @@ Basil 不僅是一種常見的香料，在烹調中提升風味，更具有多�
     <img src="https://img.youtube.com/vi/xmXFhglkz5c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Stress & Anti Stress Hormones (Cortisol & Serotonin) Explained By Dr.Berg
 
 ### 核心主題  
 - 探讨两种对立激素——血清素（Serotonin）和皮质醇（Cortisol）的作用及其相互关系。
@@ -1589,6 +1649,8 @@ Basil 不僅是一種常見的香料，在烹調中提升風味，更具有多�
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg's New Books Now on Kindle
+
 ### 小節整理
 
 #### 1. 核心主題
@@ -1647,6 +1709,8 @@ Basil 不僅是一種常見的香料，在烹調中提升風味，更具有多�
         alt="[Youtube]" width="200">
 </a>
 
+# Will Small Frequent Meals Throughout The Day Enhance Metabolism? – Dr. Berg
+
 ### 核心主題
 - **飲食模式對代謝率的影響**
 - **胰島素的作用及其對脂肪燃燒和血糖水平的調控**
@@ -1686,6 +1750,8 @@ Basil 不僅是一種常見的香料，在烹調中提升風味，更具有多�
     <img src="https://img.youtube.com/vi/94iGdKQPze0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Thyroid Success with Keto and Intermittent Fasting – Dr.Berg Interviews Vicki Bales-Humble
 
 ### 文章重點整理
 
@@ -1764,6 +1830,8 @@ Basil 不僅是一種常見的香料，在烹調中提升風味，更具有多�
         alt="[Youtube]" width="200">
 </a>
 
+# Best Medicine To Get Rid Of Thick Mucus – Dr.Berg [30 seconds]
+
 ### 核心主題  
 - 探讨 Thick Mucus（黏稠的痰或粘液）在 sinus（鼻窦）和 lung（肺部）中的处理方法。
 
@@ -1810,6 +1878,8 @@ Basil 不僅是一種常見的香料，在烹調中提升風味，更具有多�
         alt="[Youtube]" width="200">
 </a>
 
+# Benefits and Uses of Wheatgrass Juice Powder for Skin Problems – Dr. Berg
+
 ### 小節歸納
 
 #### 核心主題  
@@ -1846,6 +1916,8 @@ Basil 不僅是一種常見的香料，在烹調中提升風味，更具有多�
     <img src="https://img.youtube.com/vi/BSqc30Ka58I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Keto Diet and Intermittent Fasting Success Story – Dr.Berg Interviews Mark Christopher
 
 ### 文章重點整理
 
@@ -1915,6 +1987,8 @@ This structured summary captures the essence of the article, presenting key poin
         alt="[Youtube]" width="200">
 </a>
 
+# Difficulty Getting Pregnant? – Dr. Berg’s Advice On Fertility Vitamins
+
 ### 小節化整理
 
 #### 核心主題  
@@ -1966,6 +2040,8 @@ This structured summary captures the essence of the article, presenting key poin
     <img src="https://img.youtube.com/vi/S1tBzf7eCug/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What is Spinal Stenosis And It's Causes Explained By Dr. Berg
 
 ### 核心主題
 - **脊椎狹窄症 (Spinal Stenosis)**：本文主要探討脊椎狹窄症的成因、影響及自然療法。
@@ -2030,6 +2106,8 @@ This structured summary captures the essence of the article, presenting key poin
         alt="[Youtube]" width="200">
 </a>
 
+# Before-After Using Keto & Intermittent Fasting – Dr.Berg Skype with Jennifer Lai
+
 ### 文章重點整理
 
 #### 核心主題
@@ -2084,6 +2162,8 @@ This structured summary captures the essence of the article, presenting key poin
     <img src="https://img.youtube.com/vi/571H-RPxNNs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How Insulin Works? – Insulin Resistance & Belly Fat Simplified by Dr.Berg
 
 ### 文章重點整理
 
@@ -2159,6 +2239,8 @@ This structured summary captures the essence of the article, presenting key poin
         alt="[Youtube]" width="200">
 </a>
 
+# Can You Be Allergic to the Sun? – Dr.Berg on Sun Allergy and Niacin Deficiency
+
 ### 文章總結：日光敏感性與維生素B3缺乏之探討
 
 #### 核心主題：
@@ -2194,6 +2276,8 @@ This structured summary captures the essence of the article, presenting key poin
     <img src="https://img.youtube.com/vi/1nd3XbDCXxE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg's New Body Type Guide: FINALLY HERE!
 
 ### 核心主題
 - **核心主題：健康飲食與體重管理**
@@ -2266,6 +2350,8 @@ This structured summary captures the essence of the article, presenting key poin
         alt="[Youtube]" width="200">
 </a>
 
+# Keto Weight Loss - Intermittent Fasting [Before & After] – Dr.Berg's Interview With Donovan Duke
+
 
 </details>
 
@@ -2276,6 +2362,8 @@ This structured summary captures the essence of the article, presenting key poin
     <img src="https://img.youtube.com/vi/lnaunxnqJTA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Causes & Symptoms of Hypokalemia – Dr. Berg on Potassium Deficiency
 
 ### 文章整理：低血钾（Hypokalemia）的核心主题与建议
 
@@ -2343,6 +2431,8 @@ This structured summary captures the essence of the article, presenting key poin
     <img src="https://img.youtube.com/vi/lQH18keaA6g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Ketosis & Intermittent Fasting  Before-After: Dr. Berg Skype with Joe Busuttil
 
 ### 核心主題：  
 - 論述酮egenic diet（生酮飲食）在體重管理和脂肪燃燒中的有效性。  
@@ -2419,6 +2509,8 @@ This structured summary captures the essence of the article, presenting key poin
         alt="[Youtube]" width="200">
 </a>
 
+# Endurance Athletes and Ketosis
+
 ### 核心主題
 - 耐力運動員的營養策略：酮症飲食與碳水化合物攝取的比較。
 
@@ -2451,6 +2543,8 @@ This structured summary captures the essence of the article, presenting key poin
     <img src="https://img.youtube.com/vi/N1hdJpHatVs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Does Eating Vegetable Carbs Slow Weight Loss? – Dr. Berg
 
 ### 文章整理與分析
 
@@ -2522,6 +2616,8 @@ This structured summary captures the essence of the article, presenting key poin
     <img src="https://img.youtube.com/vi/PXwHm-00BIg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 6 Important Tips For Doing Keto with a Sluggish Gallbladder – Dr.Berg
 
 ### 核心主題：  
 - 探讨在患有 sluggish gallbladder（胆囊功能不佳）的情况下如何进行生酮饮食，并提供改善胆囊健康的建议。
@@ -2596,6 +2692,8 @@ This structured summary captures the essence of the article, presenting key poin
         alt="[Youtube]" width="200">
 </a>
 
+# Will Fasting Slow Down Your Metabolism? – Dr. Berg's Answer
+
 ### 文章重點整理
 
 #### 核心主題  
@@ -2651,6 +2749,8 @@ This structured summary captures the essence of the article, presenting key poin
     <img src="https://img.youtube.com/vi/ynpqxnxtLi8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Statins: Side Effects & Alternative Ways to Lower Cholesterol by Dr.Berg
 
 ### 核心主題
 - **Statin 药物的效果與風險**  
@@ -2709,6 +2809,8 @@ Statins 虽然在降低心脏病风险方面有一定效果，但其潜在副作
         alt="[Youtube]" width="200">
 </a>
 
+# Is "5-Hour Energy" Drink Bad For You? – Dr. Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -2748,6 +2850,8 @@ Statins 虽然在降低心脏病风险方面有一定效果，但其潜在副作
         alt="[Youtube]" width="200">
 </a>
 
+# Why Potassium Makes Muscle Growth? – Dr.Berg's Answer
+
 ### 核心主題
 - 鉀的生理作用及其對肌肉生長的影響。
 
@@ -2786,6 +2890,8 @@ Statins 虽然在降低心脏病风险方面有一定效果，但其潜在副作
     <img src="https://img.youtube.com/vi/jhYK9yn668M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Will a Sugar-Free Diet Help Me to Lose Weight? – Dr. Berg on Weight Loss
 
 ### 小節化整理
 
@@ -2840,6 +2946,8 @@ Statins 虽然在降低心脏病风险方面有一定效果，但其潜在副作
         alt="[Youtube]" width="200">
 </a>
 
+# Does Stevia Spike Insulin? – Dr. Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -2880,6 +2988,8 @@ Statins 虽然在降低心脏病风险方面有一定效果，但其潜在副作
     <img src="https://img.youtube.com/vi/45wgOBpbVWY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Type of Protein Is Best For Weight Loss? – Dr. Berg
 
 ### 小節歸納
 
@@ -2957,6 +3067,8 @@ Statins 虽然在降低心脏病风险方面有一定效果，但其潜在副作
         alt="[Youtube]" width="200">
 </a>
 
+# How To Make a Healthier Lemonade or Limeade? – Dr. Berg On Keto Lemonade
+
 # 文章重點整理：健康檸檬汽水製作與健康益處
 
 ## 核心主題
@@ -3003,6 +3115,8 @@ Statins 虽然在降低心脏病风险方面有一定效果，但其潜在副作
     <img src="https://img.youtube.com/vi/W1Bj7sKWxi8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Top 8 Health Benefits of Green Tea – Dr. Berg
 
 ### 核心主題：綠茶的健康益處與其在體重管理中的角色
 
@@ -3058,6 +3172,8 @@ Statins 虽然在降低心脏病风险方面有一定效果，但其潜在副作
         alt="[Youtube]" width="200">
 </a>
 
+# Take Manganese for Herniated Disc & Strengthening Ligaments – Dr.Berg
+
 ### 小節結構：
 
 1. **核心主題**
@@ -3092,6 +3208,8 @@ Statins 虽然在降低心脏病风险方面有一定效果，但其潜在副作
     <img src="https://img.youtube.com/vi/uFlFUtHdhY0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Read Food Labels? – Important Tips by Dr. Berg
 
 ### 核心主題  
 本文圍繞著如何選擇健康的食品展開討論，強調了閱讀食品標籤的重要性，並提出了多個關鍵標準來評估食品的健康性。核心在於避免高糖、高 GMO 成分以及低品質的加工食品，並提倡選擇 органически и природните продукти （organic 和 natural 的產品）。  
@@ -3141,6 +3259,8 @@ Statins 虽然在降低心脏病风险方面有一定效果，但其潜在副作
         alt="[Youtube]" width="200">
 </a>
 
+# What Causes Leg Cramps Even If You are Taking Minerals? – Dr. Berg
+
 ### 核心主題
 - 腿部抽筋的原因及解決方法，特別是在低碳水化合物飲食（如酮egenic diet或斷食）的情況下。
 
@@ -3189,6 +3309,8 @@ Statins 虽然在降低心脏病风险方面有一定效果，但其潜在副作
         alt="[Youtube]" width="200">
 </a>
 
+# How to Relieve Peripheral Neuropathy Pain? – Dr. Berg
+
 ### 核心主題：糖尿病周邊神經病变（Peripheral Neuropathy in Diabetes）
 
 #### 主要觀念：
@@ -3225,6 +3347,8 @@ Statins 虽然在降低心脏病风险方面有一定效果，但其潜在副作
     <img src="https://img.youtube.com/vi/xiZmcc1K-Fs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Thyroid & Importance of Vitamin A – Dr.Berg
 
 ### 核心主題  
 - **核心主題**：維生素A與甲狀腺功能之間的相互影響及其重要性。
@@ -3268,6 +3392,8 @@ Statins 虽然在降低心脏病风险方面有一定效果，但其潜在副作
         alt="[Youtube]" width="200">
 </a>
 
+# Is Arsenic Dangerous in Sea Kelp? – Dr.Berg
+
 ### 小節一：核心主題  
 - 討論海藻（Seek Help）及其含砷量的安全性。  
 
@@ -3298,6 +3424,8 @@ Statins 虽然在降低心脏病风险方面有一定效果，但其潜在副作
     <img src="https://img.youtube.com/vi/IGvw1UC7tro/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 4 Natural Aspirin Alternatives – Dr. Berg
 
 ### 1. 核心主題: Aspirin的使用及其替代方案  
 Aspirin被廣泛用於預防心臟病、中風、疼痛和炎症，但其潛在副作用（如肝臟、腎臟損害及內出血）不容忽視。本文探討了Aspirin的安全性及其替代品。
@@ -3358,6 +3486,8 @@ Aspirin雖然有其醫療價值，但其潛在的副作用不容忽視。通過�
         alt="[Youtube]" width="200">
 </a>
 
+# Keto Diet Diarrhea – Causes & Treatments By Dr. Berg
+
 ### 文章整理：酮症與 diarrhea 的重要性及處理方法
 
 #### 核心主題  
@@ -3394,6 +3524,8 @@ Aspirin雖然有其醫療價值，但其潛在的副作用不容忽視。通過�
     <img src="https://img.youtube.com/vi/CABVB3vI3x4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Connection Between Insulin Resistance and Vitamin C Deficiency - Dr. Berg
 
 ### 小節整理：文章重點
 
@@ -3438,6 +3570,8 @@ Aspirin雖然有其醫療價值，但其潛在的副作用不容忽視。通過�
     <img src="https://img.youtube.com/vi/pnEalszQO8s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Relieve Chronic Pain After Surgery? – Dr. Berg
 
 ### 核心主題  
 - **慢性手術後遺症疼痛**：探討手術後導致的慢性殘餘疼痛問題及其解決方法。
@@ -3491,6 +3625,8 @@ Aspirin雖然有其醫療價值，但其潛在的副作用不容忽視。通過�
         alt="[Youtube]" width="200">
 </a>
 
+# Reason Why You Feel So Irritable on Keto ? – Dr. Berg on Mood Swings & Ketosis
+
 ### 小節一：核心主題  
 - 探讨间歇性禁食（Intermittent Fasting）过程中可能出现的症状及其原因。  
 - 强调从糖分依赖向脂肪燃烧过渡的重要性。  
@@ -3535,6 +3671,8 @@ Aspirin雖然有其醫療價值，但其潛在的副作用不容忽視。通過�
     <img src="https://img.youtube.com/vi/EjMZfXuOzRY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Should You Skip Breakfast? – Dr. Berg
 
 ### 核心主題  
 - **間歇性斷食與早餐攝取**：探討早晨是否應該進食，以及其對健康和體重管理的影響。
@@ -3582,6 +3720,8 @@ Aspirin雖然有其醫療價值，但其潛在的副作用不容忽視。通過�
     <img src="https://img.youtube.com/vi/p-PirkZ7xOA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 9 Factors You Need to Know About Protein – Dr. Berg
 
 ### 影響蛋白質攝取與吸收的九個重要因素
 
@@ -3659,6 +3799,8 @@ Dr. Berg 强調了多方面因素影響蛋白質攝取與吸收，並提供具�
         alt="[Youtube]" width="200">
 </a>
 
+# Spoon Nails: Causes & Treatments By Dr. Berg
+
 ### 核心主題  
 - 瓣 Nail（ spoon nails）：指甲開始向後彎曲的情況，通常與缺鐵有關。  
 
@@ -3716,6 +3858,8 @@ Dr. Berg 强調了多方面因素影響蛋白質攝取與吸收，並提供具�
         alt="[Youtube]" width="200">
 </a>
 
+# Benefits of Almond Flour - Dr. Berg
+
 ### 核心主題  
 - 探讨 almond flour（杏仁粉）作为一种替代面粉的选择，其营养价值、健康益处以及适用场景。
 
@@ -3752,6 +3896,8 @@ Dr. Berg 强調了多方面因素影響蛋白質攝取與吸收，並提供具�
     <img src="https://img.youtube.com/vi/305lzlZBg_k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Can Drinking More Water Help You To Lose Weight? – Dr. Berg
 
 ### 小節整理：
 
@@ -3790,6 +3936,8 @@ Dr. Berg 强調了多方面因素影響蛋白質攝取與吸收，並提供具�
     <img src="https://img.youtube.com/vi/kZxuPXzjUUc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Type of Foods Trigger Ketosis? – Dr. Berg
 
 # 文章重點整理
 
@@ -3838,6 +3986,8 @@ Dr. Berg 强調了多方面因素影響蛋白質攝取與吸收，並提供具�
     <img src="https://img.youtube.com/vi/ReAdVazcEe8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Knee Osteoarthritis: Bone On Bone Knee Pain Relief Treatment By Dr.Berg
 
 ### 文章整理：骨頭摩擦膝蓋疼痛及手術延後的非手術治療方法
 
@@ -3888,6 +4038,8 @@ Dr. Berg 强調了多方面因素影響蛋白質攝取與吸收，並提供具�
         alt="[Youtube]" width="200">
 </a>
 
+# Can Kids Do Intermittent Fasting? – Dr. Berg On Kids Diet
+
 ### 小節歸納
 
 #### 核心主題
@@ -3937,6 +4089,8 @@ Dr. Berg 强調了多方面因素影響蛋白質攝取與吸收，並提供具�
     <img src="https://img.youtube.com/vi/kHiqo4jQoxQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Which Nutritional Deficiency Causes ADHD? – Dr. Berg
 
 ### 文章整理：ADHD與營養缺乏的關聯及健康建議
 
@@ -4024,6 +4178,8 @@ Dr. Berg 强調了多方面因素影響蛋白質攝取與吸收，並提供具�
         alt="[Youtube]" width="200">
 </a>
 
+# What Is Caffeine & How Does It Works? – Dr. Berg
+
 ### 核心主題：咖啡因的作用與影響
 
 #### 主要觀念：
@@ -4061,6 +4217,8 @@ Dr. Berg 强調了多方面因素影響蛋白質攝取與吸收，並提供具�
     <img src="https://img.youtube.com/vi/YWPazdIDASg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Causes & Symptoms Of Calcium Deficiency – Dr. Berg
 
 ### 文章重點整理
 
@@ -4127,6 +4285,8 @@ Calcium deficiency 可能導致多種健康問題，但通過飲食調整和適�
     <img src="https://img.youtube.com/vi/vuSspHE3cuI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Amazing Health Benefits of Maitake Mushroom – Dr.Berg
 
 ### 小節歸納
 
@@ -4201,6 +4361,8 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
         alt="[Youtube]" width="200">
 </a>
 
+# How to "SAVE TIME" When Losing Weight? – Fast Weight Loss Tips by Dr. Berg
+
 ### 小節歸納：
 
 #### 核心主題：
@@ -4272,6 +4434,8 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
         alt="[Youtube]" width="200">
 </a>
 
+# Organ Meats – Unhealthy or Healthy? – Dr. Berg On Keto Meats
+
 ### 文章要點整理
 
 #### 核心主題
@@ -4315,6 +4479,8 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
     <img src="https://img.youtube.com/vi/Wiy9h-9StXo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Get Rid Of Ankle Pain? – Try Dr Berg's Pain Relief Treatment!
 
 ### 文章總結與分析
 
@@ -4365,6 +4531,8 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
         alt="[Youtube]" width="200">
 </a>
 
+# Amazing Health Benefits of Zinc – Dr. Berg
+
 ### 1. 核心主題  
 - 探讨锌（Zinc）作为一种微量元素的重要作用及其对健康的多方面影响。
 
@@ -4400,6 +4568,8 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
     <img src="https://img.youtube.com/vi/w2I5yOjb6_8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 10 Interesting Tips On Vegetables – Dr. Berg On Veggies
 
 # 蔬菜攝取與保存的健康建議
 
@@ -4449,6 +4619,8 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
     <img src="https://img.youtube.com/vi/Pm8vZfwb0rM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Do We Really Need Fat In Our Diet? – Dr.Berg on Fatty Acids & Fat Soluble Vitamins
 
 ### 核心主題：必需脂肪酸在飲食中的重要性  
 必需脂肪酸（Essential Fatty Acids, EFAs）是指身體無法自行合成、必須通過飲食攝取的脂肪酸。文章強調了兩大類別的EFAs：ω-6和ω-3脂肪酸，以及它們在人體健康中的作用。
@@ -4501,6 +4673,8 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
         alt="[Youtube]" width="200">
 </a>
 
+# The Relationship Between Insulin Resistance & Vitamin Deficiency – Dr.Berg
+
 ### 小節歸納：
 
 #### 核心主題：
@@ -4544,6 +4718,8 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
         alt="[Youtube]" width="200">
 </a>
 
+# Hemorrhoids Treatment – Best Remedy & Cure For Hemorrhoids by Dr.Berg
+
 ### 核心主題  
 - 討論痔瘡的最佳療法。  
 
@@ -4581,6 +4757,8 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
     <img src="https://img.youtube.com/vi/7WMUijcnIm4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Are You Salt Sensitive or Potassium Deficient? - Dr. Berg on Hyponatremia and Hypokalemia
 
 ### 文章整理：鹽敏感與assium缺乏的核心探討
 
@@ -4646,6 +4824,8 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
         alt="[Youtube]" width="200">
 </a>
 
+# [Prebiotics vs.Probiotics] Difference Between Prebiotics And Probiotics – Dr.Berg
+
 ## 文章主題：益生元與益生菌的區別及作用
 
 ### 核心主題：
@@ -4706,6 +4886,8 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
         alt="[Youtube]" width="200">
 </a>
 
+# Worst Advice Given To Diabetics – Dr.Berg on High Blood Sugar & Insulin
+
 ### 核心主題
 - ** diabetic 管理：五餐制飲食建議的批判與替代方案分析**
 
@@ -4765,6 +4947,8 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
         alt="[Youtube]" width="200">
 </a>
 
+# Best Tip For Rheumatoid Arthritis – Joint Pain Relief By Dr.Berg
+
 ### 核心主題
 - ** rheumatoid arthritis (RA)**：強調 RA 作為一種自身免疫性疾病的核心特性。
 - ** 病因與治療**：探討 RA 的病因、常見治療方法及其潛在問題。
@@ -4815,6 +4999,8 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
         alt="[Youtube]" width="200">
 </a>
 
+# Best Natural & Home Remedies To Get Rid Of Dandruff – Dr. Berg
+
 ### 文章整理：治療頭皮屑的最佳方法
 
 #### 核心主題
@@ -4859,6 +5045,8 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
     <img src="https://img.youtube.com/vi/J7V1osGCi0c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Causes Liver Spots (Age Spots)? – Dr. Berg on Vitamin C Deficiency
 
 ### 小節化整理
 
@@ -4929,6 +5117,8 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
         alt="[Youtube]" width="200">
 </a>
 
+# Why Am I Not Losing Weight While Others Are? – Dr. Berg
+
 ### 本文核心主題與要點整理
 
 #### 1. 核心主題
@@ -4974,6 +5164,8 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
     <img src="https://img.youtube.com/vi/OruLOrhgTPE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Causes Burping? – Dr.Berg
 
 ### 文章重點整理
 
@@ -5043,6 +5235,8 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
         alt="[Youtube]" width="200">
 </a>
 
+# What Causes Bruising (Without Trauma) – Dr. Berg
+
 ### 文章重點整理
 
 #### 核心主題  
@@ -5073,6 +5267,8 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
     <img src="https://img.youtube.com/vi/EIjwgAKvm-g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Gallbladder Removed: Can I Eat What I Want? – Dr. Berg
 
 ### 文章題目：無膽囊後飲食與健康的考量
 
@@ -5147,6 +5343,8 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
         alt="[Youtube]" width="200">
 </a>
 
+# Health Benefits of Kimchi - Dr. Berg
+
 ### 核心主題
 - **Kimchi 的核心價值**：Kimchi 是一種韓國傳統發酵蔬菜食品，具有豐富的文化和健康意義。
 - **全球飲食文化中的重要性**：作為發酵食品，Kimchi 在東亞飲食中佔有重要地位，並因其多樣的營養成分和健康益處受到廣泛關注。
@@ -5197,6 +5395,8 @@ Kimchi 作為一種傳統韓國發酵食品，在現代健康飲食中佔有重�
     <img src="https://img.youtube.com/vi/ZaJWKzq-uuQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Receding Gums and Vitamin C Explained By Dr.Berg
 
 ### 核心主題：牙齦退縮與維生素C缺乏症
 

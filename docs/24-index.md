@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What to Eat While Breastfeeding
+
 ### 文章總結：孕期與哺乳期營養需求及健康飲食策略
 
 ---
@@ -95,6 +97,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Benfotiamine: Why Every Diabetic Should Take It
+
 ### 文章整理：Benfotiamine在糖尿病管理中的作用
 
 #### 核心主題
@@ -154,6 +158,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Are Grass-Fed Burgers Really Worth the Extra Cost?
+
 ### 核心主題：草饲牛肉与传统牛肉的差异及其健康影响
 
 #### 主要觀念：
@@ -191,6 +197,8 @@
     <img src="https://img.youtube.com/vi/5ypbjAldKCc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Grass-fed or Organic: Which Is Healthier?
 
 ### 核心主題：牛肉與蛋類的選擇：草饲（Grass-Fed）還是有機（Organic）
 
@@ -247,6 +255,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Natural Desiccated Thyroid: Why Some People React Badly
+
 ### 文章重點整理
 
 #### 核心主題
@@ -298,6 +308,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Armour Thyroid versus Synthroid
+
 ### 1. 核心主題  
 - 探讨激素转换与健康问题的关系，特别是甲状腺激素（如T3和T4）在体内的转化及其对身体的影响。
 - 强调补充剂和自然疗法在解决激素失衡中的作用。
@@ -346,6 +358,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Potato Chips vs French Fries: Which is Worse?
+
 
 </details>
 
@@ -356,6 +370,8 @@
     <img src="https://img.youtube.com/vi/4WGFStZ4028/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Are Carrots Okay to Eat on Keto?
 
 ### 小節整理：食用 carrots 在低碳水化合物（酮ogenic）飲食中的影響
 
@@ -397,6 +413,8 @@
     <img src="https://img.youtube.com/vi/6IwNcN1RN8o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Do You Get Heart Palpitations After Eating? – Dr.Berg
 
 ### 文章整理與分析
 
@@ -448,6 +466,8 @@
     <img src="https://img.youtube.com/vi/1yk-FT3XgQQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Are French Fries So Addictive?
 
 # 分析報告：法式炸薯條的成瘾性及其健康影響
 
@@ -505,6 +525,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How to Reduce Lung (Respiratory) Mucus
+
 # 文章重點整理
 
 ## 核心主題
@@ -540,6 +562,8 @@
     <img src="https://img.youtube.com/vi/xU9o6V0BIZc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Vitamin D Deficiency Effects on Your Teeth – Dr.Berg
 
 ### 核心主題
 - **骨質與牙齒健康**：文章主要探討維生素D缺乏如何影響牙齒健康，特別是嬰兒和兒童時期的牙齒發育。
@@ -583,6 +607,8 @@
     <img src="https://img.youtube.com/vi/xTVMGyJ8cZU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The 7 Benefits of a Cold Shower
 
 ### 核心主題  
 - **冷療（Cryotherapy）**：本文主要探討冷療的多種健康益處，特別是通過短時間暴露於寒冷環境來促進身體的 hormesis 效應。
@@ -646,6 +672,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Will Your Blood Test Detect Vitamin Deficiencies?
+
 ### 文章整理：血液檢測是否能揭示營養缺乏症？
 
 #### 核心主題：
@@ -700,6 +728,8 @@
     <img src="https://img.youtube.com/vi/4wf1B-YPFzE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The 9 Benefits of Heat Therapy
 
 ### 文章整理： heat therapy 的九項益處與機制
 
@@ -773,6 +803,8 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
+# How to Reduce the Side Effects of Chemotherapy
+
 ### 核心主題  
 - 化療的副作用及其影響：化療對健康的正常細胞和癌細胞均具有殺傷力，並引發嚴重的副作用，甚至可能削弱免疫系統，導致癌症復發。
 
@@ -838,6 +870,8 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
+# The Largest Source of Dietary Sugar Is Coming From....
+
 ### 核心主題  
 - 文章圍繞多個分散的主题展開，主要涉及音樂、技術、健康、教育和社會議題等。
 
@@ -873,6 +907,8 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
     <img src="https://img.youtube.com/vi/44Ak4mtPs18/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why is Lemon Juice Good for Gout Arthritis and Bad for Osteoarthritis? – Dr.Berg
 
 ### 小節結構化整理
 
@@ -926,6 +962,8 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
     <img src="https://img.youtube.com/vi/rs3_2stWMoQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is Keto (Low Carb) Really Safe for the Thyroid?
 
 ### 核心主題  
 **低卡路里酮飲食對甲狀腺的安全性**  
@@ -989,6 +1027,8 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
+# You ARE Eating When You Are Fasting
+
 ### 核心主題：斷食期間人體的新陳代謝機制  
 1. **核心概念**：斷食時，人體不會感到饑餓，而是利用自身脂肪儲備作為能量來源。  
 2. **主要觀念**：  
@@ -1023,6 +1063,8 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
     <img src="https://img.youtube.com/vi/KemfGKiGhZg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Determine Your Recovery Level – Speed Up Recovery – Dr.Berg
 
 ### 文章重點整理
 
@@ -1099,6 +1141,8 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
+# Why You Can Not Kill a Virus
+
 ### 文章整理：為什麼我們無法殺死病毒？
 
 #### 核心主題
@@ -1159,6 +1203,8 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
+# How Much of Your Disease and Health is Genetic?
+
 ### 文章重點整理
 
 #### 核心主題
@@ -1215,6 +1261,8 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
     <img src="https://img.youtube.com/vi/-7Hez86w7-I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Molybdenum for Better Detoxification
 
 ### 文章重點整理
 
@@ -1279,6 +1327,8 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
+# Why Do You Get Acne During Your Period (Menstruation)
+
 # 月經周期與痤瘡的關聯及解決方案
 
 ## 核心主題
@@ -1334,6 +1384,8 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
+# 8 Ways to Use Nutritional Yeast in Your Diet
+
 ### 核心主題
 - 营養酵母（nutritional yeast）作为一种重要的食品添加剂和营养来源，具有丰富的营养价值和广泛的用途。
 
@@ -1374,6 +1426,8 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
     <img src="https://img.youtube.com/vi/gEYEngrauCo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The 7 Reasons for a Chronic Cough
 
 ### 七個導致慢性咳嗽的原因及其分析
 
@@ -1448,6 +1502,8 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
+# Synthetic vs. Natural Vitamin B12
+
 ### 小節歸納
 
 #### 核心主題
@@ -1517,6 +1573,8 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
+# MSG vs Glutamate: What's the Difference?
+
 ### 核心主題
 - 比較單一谷氨酸钠（MSG）與谷氨酸（glutamate）的差異及其健康影響。
 
@@ -1577,6 +1635,8 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
     <img src="https://img.youtube.com/vi/mDkGEO0anBI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Danger of Excess Phosphorus
 
 ### 文章大綱
 
@@ -1652,6 +1712,8 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
+# How Much Potassium is Lost with Sweating
+
 ### 文章整理：運動員鹽分與assium的需求與管理
 
 #### 核心主題
@@ -1704,6 +1766,8 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
     <img src="https://img.youtube.com/vi/wQXsfPskVQY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 4 Big Benefits of Eating Pistachios
 
 ### 小節歸納
 
@@ -1763,6 +1827,8 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg's New Keto Desserts Now Available
+
 
 </details>
 
@@ -1773,6 +1839,8 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
     <img src="https://img.youtube.com/vi/6Lfi0CM-h3c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Unhealthiest Country in the World – Revealed by Dr.Berg
 
 ### 核心主題
 - **美國的公共衛生狀況**：探討美國在醫療支出和健康結果之間存在的巨大差距。
@@ -1833,6 +1901,8 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
     <img src="https://img.youtube.com/vi/JeKgZ4Zjpu8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 7 RED Flags That You are Not Getting Enough Sleep – Dr. Berg on Poor Sleep Quality
 
 ### 文章主題：睡眠不足的征兆、影響及健康建議
 
@@ -1928,6 +1998,8 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
+# What is Herpes? – Types of Herpes & Remedies Covered by Dr.Berg
+
 ### 小節整理： herpes病毒及其自然療法
 
 #### 核心主題
@@ -1971,6 +2043,8 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
     <img src="https://img.youtube.com/vi/5eAE5LmoF3E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What is a Gallbladder Attack? – Symptoms & Causes Covered by Dr.Berg
 
 ### 文章整理與分析
 
@@ -2021,6 +2095,8 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
+# 7 Weird Lyme Disease Symptoms that You Need to Know – Dr.Berg
+
 ### 小節一： Lyme 病的核心主題  
 - Lyme 病是由受感染蜱蟲叮咬傳播的 Spirochi 杆菌引起的疾病。  
 - 由於抗體需數周時間才會在血液中 detectable，早期診斷存在挑戰。  
@@ -2060,6 +2136,8 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
+# What is Sulfite? – Sulfite Sensitivity Symptoms – Dr.Berg
+
 
 </details>
 
@@ -2070,6 +2148,8 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
     <img src="https://img.youtube.com/vi/q5oZtFGUr1c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Quercetin – The Best Natural Antihistamine – Foods With Quercetin – Dr.Berg
 
 # 文章整理報告
 
@@ -2136,6 +2216,8 @@ Quercetin是一種高效且安全的天然抗組胺和抗炎AGENT，適合用於
         alt="[Youtube]" width="200">
 </a>
 
+# The Black Bubonic Plague – Interesting New Findings – Dr.Berg
+
 # 文章重點整理：黑死病与营养 deficiencies 的关系及其健康启示
 
 ## 核心主題
@@ -2188,6 +2270,8 @@ Quercetin是一種高效且安全的天然抗組胺和抗炎AGENT，適合用於
         alt="[Youtube]" width="200">
 </a>
 
+# What is Ginkgo Biloba? – The Benefits of Ginkgo Biloba – Dr.Berg
+
 ### 1. 核心主題  
 - **Ginkgo biloba**（銀杏）的功效及其歷史淵源。
 
@@ -2237,6 +2321,8 @@ Ginkgo biloba 是一種具有悠久歷史且多效的植物，其主要功效在
         alt="[Youtube]" width="200">
 </a>
 
+# What is the Healthiest Country in the World? Centenarians Diet – Dr.Berg
+
 ### 核心主題：日本為世界上最健康的國家
 
 #### 主要觀念：
@@ -2275,6 +2361,8 @@ Ginkgo biloba 是一種具有悠久歷史且多效的植物，其主要功效在
     <img src="https://img.youtube.com/vi/RL10hlP4Lo8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What is Transdermal Magnesium? Symptoms of Magnesium Deficiency – Dr.Berg
 
 ### 文章整理與分析
 
@@ -2366,6 +2454,8 @@ Ginkgo biloba 是一種具有悠久歷史且多效的植物，其主要功效在
         alt="[Youtube]" width="200">
 </a>
 
+# Not Hungry on Keto, Yet Still Feeling Weak? – Dr.Berg on Being Tired on Keto
+
 ### 核心主題  
 - **酮症（Ketosis）**：酮飲食和短期禁食的效果及可能遇到的問題。  
 
@@ -2426,6 +2516,8 @@ Ginkgo biloba 是一種具有悠久歷史且多效的植物，其主要功效在
     <img src="https://img.youtube.com/vi/WwasJCB4FaA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# If Pasta Is So Bad, Why Do Italians Live So Long? Italian Lifestyle & Longevity – Dr.Berg
 
 ### 核心主題：意大利及撒丁岛的长寿秘密
 
@@ -2492,6 +2584,8 @@ Ginkgo biloba 是一種具有悠久歷史且多效的植物，其主要功效在
     <img src="https://img.youtube.com/vi/j8HNfSGu3CY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Egg Yolks: Orange or Yellow – Pasture Raised Eggs vs. Factory Farm Eggs – Which is Better? – Dr.Berg
 
 ### 核心主題
 
@@ -2565,6 +2659,8 @@ Ginkgo biloba 是一種具有悠久歷史且多效的植物，其主要功效在
         alt="[Youtube]" width="200">
 </a>
 
+# Why I Eat 4 to 5 Eggs a Day – Eggs and Cholesterol – Dr.Berg on Benefits of Eating Eggs
+
 ### 小節整理
 
 #### 核心主題  
@@ -2617,6 +2713,8 @@ Ginkgo biloba 是一種具有悠久歷史且多效的植物，其主要功效在
     <img src="https://img.youtube.com/vi/IJtHfOLcj4Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Do You Eat When You Are Not Hungry? Stop Hunger Cravings – Dr.Berg
 
 ### 文章重點整理
 
@@ -2691,6 +2789,8 @@ Ginkgo biloba 是一種具有悠久歷史且多效的植物，其主要功效在
     <img src="https://img.youtube.com/vi/2VXvVuMk9ks/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Break a Prolonged Fast? – Dr.Berg's Advice on Prolonged Fasting Refeeding
 
 ### 核心主題  
 - **Refeeding Syndrome**: 在長時間禁食後快速恢復攝食所引發的一系列生理反應和潜在危險。
@@ -2772,6 +2872,8 @@ Ginkgo biloba 是一種具有悠久歷史且多效的植物，其主要功效在
         alt="[Youtube]" width="200">
 </a>
 
+# What Do Nail Polish Remover and Fat Burning Have In Common? – Dr.Berg
+
 ### 核心主題：酮症及其與酮體的關聯
 
 酮症是一種代謝狀態，當身體燃燒脂肪作為主要能量來源時產生酮體。酮體包括β-羥基丁酸、乙酰acetate和丙酮，其中丙酮具有特殊意義。
@@ -2823,6 +2925,8 @@ Ginkgo biloba 是一種具有悠久歷史且多效的植物，其主要功效在
         alt="[Youtube]" width="200">
 </a>
 
+# What is in HOT DOGS? Are Hot Dogs Good for You? – Dr.Berg
+
 
 </details>
 
@@ -2833,6 +2937,8 @@ Ginkgo biloba 是一種具有悠久歷史且多效的植物，其主要功效在
     <img src="https://img.youtube.com/vi/vIM_ZHBZcJo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 8 Natural Herbs for Reducing Excess Androgen – Dr.Berg
 
 ### 核心主題
 - 自然降低雄性激素（Androgens）的方法。
@@ -2880,6 +2986,8 @@ Ginkgo biloba 是一種具有悠久歷史且多效的植物，其主要功效在
     <img src="https://img.youtube.com/vi/4ROajvw1AkQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Top Health Benefits of Mustard – Dr.Berg
 
 ### 小結點整理：芥末的健康益處
 
@@ -2933,6 +3041,8 @@ Ginkgo biloba 是一種具有悠久歷史且多效的植物，其主要功效在
     <img src="https://img.youtube.com/vi/mlg1h3cDsuQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What is L-Carnitine & What is it's Biggest Benefit? – Dr.Berg
 
 ### 核心主題：L-肉鹼（L-Carnitine）的功能及其健康影響
 
@@ -3008,6 +3118,8 @@ L-肉鹼不僅是體脂燃燒的重要媒介，更是心臟健康的關鍵因素
         alt="[Youtube]" width="200">
 </a>
 
+# Use Manganese Trace Mineral for Excessive Blinking, Jerking, Twitching and other Tics – Dr.Berg
+
 ### 核心主題：微量元素锰对神经运动障碍的影响及补充建议
 
 #### 主要觀念：
@@ -3066,6 +3178,8 @@ L-肉鹼不僅是體脂燃燒的重要媒介，更是心臟健康的關鍵因素
         alt="[Youtube]" width="200">
 </a>
 
+# The ADA (American Diabetes Association) Says the Low Carb Diet is Beneficial for Diabetes – Dr.Berg
+
 ### 核心主題
 - 美國糖尿病協會（ADA）終於承認低碳水化合物飲食對2型糖尿病人有益。
 - 這項承認被視為朝正確方向邁進的重要一步。
@@ -3108,6 +3222,8 @@ L-肉鹼不僅是體脂燃燒的重要媒介，更是心臟健康的關鍵因素
     <img src="https://img.youtube.com/vi/ykcMGi4vM-w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is Red Meat Good or Bad? – Dr.Berg
 
 ### 核心主題：紅肉的健康影響與爭議
 
@@ -3159,6 +3275,8 @@ L-肉鹼不僅是體脂燃燒的重要媒介，更是心臟健康的關鍵因素
     <img src="https://img.youtube.com/vi/d6cTk-fynW8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Keto Success Stroies: From 315lbs to 138lbs Using Keto & Intermittent Fasting – Dr.Berg
 
 ### 小結點整理
 
@@ -3259,6 +3377,8 @@ L-肉鹼不僅是體脂燃燒的重要媒介，更是心臟健康的關鍵因素
         alt="[Youtube]" width="200">
 </a>
 
+# How to Get Rid of Butt Cramp on Keto? – Dr.Berg on Butt Pain Relief
+
 ### 文章整理：酮飲食中臀肌痙攣的原因及處理
 
 #### 核心主題
@@ -3306,6 +3426,8 @@ L-肉鹼不僅是體脂燃燒的重要媒介，更是心臟健康的關鍵因素
         alt="[Youtube]" width="200">
 </a>
 
+# How to Recover From Cheat Day? – Dr.Berg on Cheat Meal
+
 
 </details>
 
@@ -3316,6 +3438,8 @@ L-肉鹼不僅是體脂燃燒的重要媒介，更是心臟健康的關鍵因素
     <img src="https://img.youtube.com/vi/cnJB2dGk8d0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Common Nutrient Deficiencies Caused by Drugs that You Should Know – Dr.Berg on Nutrient Depletion
 
 ### 文章重點整理
 
@@ -3372,6 +3496,8 @@ L-肉鹼不僅是體脂燃燒的重要媒介，更是心臟健康的關鍵因素
         alt="[Youtube]" width="200">
 </a>
 
+# How Much Dietary Proteins Will Prevent Muscle Loss? Need of Protein & Loss of Muscle – Dr.Berg
+
 ### 文章整理
 
 #### 核心主題
@@ -3424,6 +3550,8 @@ L-肉鹼不僅是體脂燃燒的重要媒介，更是心臟健康的關鍵因素
         alt="[Youtube]" width="200">
 </a>
 
+# The Big Benefits of Exercise is Not Weight Loss – Dr.Berg
+
 
 </details>
 
@@ -3434,6 +3562,8 @@ L-肉鹼不僅是體脂燃燒的重要媒介，更是心臟健康的關鍵因素
     <img src="https://img.youtube.com/vi/QiLHEZCPo2s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr.Berg's Keto Health Summit 2019 – 12 Speakers on Keto and Intermittent Fasting
 
 ### 核心主題
 - 演讲者分享了其在体重管理和健康生活方式方面的个人经历和成功经验。
@@ -3472,6 +3602,8 @@ L-肉鹼不僅是體脂燃燒的重要媒介，更是心臟健康的關鍵因素
     <img src="https://img.youtube.com/vi/jaQRLkvvp48/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Adderall Side-Effects and Natural Adderall Alternatives – Dr. Berg
 
 ### 核心主題
 - 本文探討ADDERALL的使用及其可能的替代方案，強調ADDERALL的作用機制、副作用以及腦健康的重要性。
@@ -3532,6 +3664,8 @@ ADDERALL雖然在短期內有效，但其副作用和潛在風險不容忽視。
         alt="[Youtube]" width="200">
 </a>
 
+# Use Clove Oil For A Toothache or Dental Abscess – Dr. Berg
+
 # 文章重點整理
 
 ## 核心主題
@@ -3563,6 +3697,8 @@ ADDERALL雖然在短期內有效，但其副作用和潛在風險不容忽視。
     <img src="https://img.youtube.com/vi/tQxKHG2zcWo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The 15 Benefits of MCT Oil (Medium Chain Triglyceride) – Dr.Berg
 
 ### 核心主題
 - MCT油（中鏈三酰甘油）的健康益處與潛在缺點。
@@ -3632,6 +3768,8 @@ MCT油具備多樣化的健康益處，特別是在能量供應、酮osis induce
     <img src="https://img.youtube.com/vi/2keRi0WQA_M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Counting Sheep Does Not Work for Sleep – Cause of Insomnia & Improving Sleep – Dr. Berg
 
 ### 文章重點整理
 
@@ -3703,6 +3841,8 @@ MCT油具備多樣化的健康益處，特別是在能量供應、酮osis induce
         alt="[Youtube]" width="200">
 </a>
 
+# Type 2 Diabetes is an Insulin Disease More than a Glucose Disease – High Insulin Levels – Dr.Berg
+
 ### 小節整理：第二型糖尿病的核心概念與管理策略
 
 #### 1. 核心主題
@@ -3753,6 +3893,8 @@ MCT油具備多樣化的健康益處，特別是在能量供應、酮osis induce
         alt="[Youtube]" width="200">
 </a>
 
+# Why I am Losing Inches But Not Weight? No Weight Loss on Keto – Dr.Berg
+
 ### 小節化整理
 
 #### 核心主題
@@ -3791,6 +3933,8 @@ MCT油具備多樣化的健康益處，特別是在能量供應、酮osis induce
     <img src="https://img.youtube.com/vi/KqKlNU3ITtY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is Carbonated Water Healthy Compared to Non Carbonated Water? Dr.Berg on Drinking Carbonated Water
 
 ### 核心主題
 - **Dagger 50 BS Cabriolet**: 文章圍繞對 dagger 50 bs cabriolet 的討論，涉及其性能、設計和可能的改裝。
@@ -3831,6 +3975,8 @@ MCT油具備多樣化的健康益處，特別是在能量供應、酮osis induce
     <img src="https://img.youtube.com/vi/hjWnxTv1c2g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr.Berg Explains What Breaks a Fast and What Does not Break a Fast
 
 ### 归納整理
 
@@ -3903,6 +4049,8 @@ MCT油具備多樣化的健康益處，特別是在能量供應、酮osis induce
         alt="[Youtube]" width="200">
 </a>
 
+# What is Seaweed? – Dr.Berg Explains Roasted Seaweed Benefits
+
 ### 核心主題
 - 罗asted seaweed（烤海藻）作为一种营养丰富的食品，具有多方面的健康益处。
 - 海藻作为植物性食物，能够从海水中提取并浓缩矿物质。
@@ -3947,6 +4095,8 @@ MCT油具備多樣化的健康益處，特別是在能量供應、酮osis induce
     <img src="https://img.youtube.com/vi/Sxs7xSg2CaA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Fix the Swollen Face (Facial Puffiness) and Puffy Eyes – Dr.Berg
 
 ### 文章整理：臉部和眼睛腫脹的成因與解決方法
 
@@ -4027,6 +4177,8 @@ MCT油具備多樣化的健康益處，特別是在能量供應、酮osis induce
         alt="[Youtube]" width="200">
 </a>
 
+# The Health Benefits of Aloe Vera – Aloe Vera for Skin and Digestion – Dr.Berg
+
 ### 核心主題  
 - 探讨loe vera 的多方面用途及其在健康和医疗中的作用。
 
@@ -4072,6 +4224,8 @@ Aloe vera 確為一種多功能的自然療法，但其療效依賴於個體的�
     <img src="https://img.youtube.com/vi/uqaR1q2trG8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Are Telomeres & Why They Are Important in Anti-Aging – Dr.Berg on Telomeres and Aging
 
 ### 文章重點整理
 
@@ -4128,6 +4282,8 @@ Aloe vera 確為一種多功能的自然療法，但其療效依賴於個體的�
         alt="[Youtube]" width="200">
 </a>
 
+# A Much Faster Way to Get Dr.Berg's Wheatgrass Juice Powder
+
 ### 核心主題  
 - 推廣高品質的小麥草粉末及其產品。  
 
@@ -4168,6 +4324,8 @@ Aloe vera 確為一種多功能的自然療法，但其療效依賴於個體的�
     <img src="https://img.youtube.com/vi/dl5QTM7mQNY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 5 Reasons Why You Need More Salt in Diet? – Dr.Berg on Salt Intake
 
 ### 文章重點整理
 
@@ -4220,6 +4378,8 @@ Aloe vera 確為一種多功能的自然療法，但其療效依賴於個體的�
     <img src="https://img.youtube.com/vi/SN3XLnH2Tz8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What is Bulletproof Coffee? – Dr. Berg's Coffee Hack
 
 ### 文章要點整理
 
@@ -4280,6 +4440,8 @@ Aloe vera 確為一種多功能的自然療法，但其療效依賴於個體的�
         alt="[Youtube]" width="200">
 </a>
 
+# What is Snoring & How to Get Your Spouse to Stop Snoring? – Dr. Berg
+
 ### 核心主題：鼾症的原因與解決方案
 
 #### 主要觀念：
@@ -4334,6 +4496,8 @@ Aloe vera 確為一種多功能的自然療法，但其療效依賴於個體的�
         alt="[Youtube]" width="200">
 </a>
 
+# Are Laxatives for Chronic Constipation Dangerous for Long Term? – Dr.Berg
+
 ### 核心主題
 - 此文章的核心主題是討論瀉藥的安全性及其在治療便秘中的作用，並探討便秘的根本原因及相關解決方法。
 
@@ -4373,6 +4537,8 @@ Aloe vera 確為一種多功能的自然療法，但其療效依賴於個體的�
     <img src="https://img.youtube.com/vi/pl8Gdu2nZpY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What is A1C Test? Is it an Accurate Blood Test? – Dr.Berg
 
 ### 核心主題
 - 討論血糖監測與糖尿病管理。
@@ -4448,6 +4614,8 @@ Aloe vera 確為一種多功能的自然療法，但其療效依賴於個體的�
         alt="[Youtube]" width="200">
 </a>
 
+# Food Poisoning: Causes, Symptoms & Treatment by Dr.Berg
+
 ### 小節整理：食物中毒的處理與康復指南
 
 #### 1. 核心主題
@@ -4491,6 +4659,8 @@ Aloe vera 確為一種多功能的自然療法，但其療效依賴於個體的�
         alt="[Youtube]" width="200">
 </a>
 
+# Slow vs. Fast Metabolism: Interesting Difference – Dr.Berg on Increasing Metabolism
+
 
 </details>
 
@@ -4501,6 +4671,8 @@ Aloe vera 確為一種多功能的自然療法，但其療效依賴於個體的�
     <img src="https://img.youtube.com/vi/4Oowx4269Ig/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Is Oxidation – Dr.Berg on Free Radicals and Antioxidants
 
 ### 文章主題：氧化反應與抗氧化劑的作用及健康影響
 
@@ -4571,6 +4743,8 @@ Aloe vera 確為一種多功能的自然療法，但其療效依賴於個體的�
         alt="[Youtube]" width="200">
 </a>
 
+# The Best Anti Aging Foods for the Brain – Foods for Brain Health – Dr.Berg
+
 ### 文章整理：腦健康的多面策略
 
 ---
@@ -4633,6 +4807,8 @@ Aloe vera 確為一種多功能的自然療法，但其療效依賴於個體的�
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg's Favorite Keto Food of the Week: Sir Kensington's Mayonnaise – Keto Mayonnaise
+
 ### 核心主題  
 - 探討Sir Kensington蛋黃醬和芥末醬的成分分析及其健康影響。
 
@@ -4681,6 +4857,8 @@ Sir Kensington蛋黃醬和芥末醬在整體成分上表現良好，但微量糖
     <img src="https://img.youtube.com/vi/M4W-v9JD2eM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is it Bad to Crack Your Own Neck? Neck Cracking Side Effects – Dr.Berg
 
 ### 核心主題：頸椎 cracking 的影響與健康管理
 
@@ -4732,6 +4910,8 @@ Sir Kensington蛋黃醬和芥末醬在整體成分上表現良好，但微量糖
         alt="[Youtube]" width="200">
 </a>
 
+# Why the Strong Ammonia Odor in My Urine on Keto? Foul Smelling Urine on Ketogenic Diet – Dr.Berg
+
 ### 核心主題：酮飲食中尿液氨味的原因及影響
 
 #### 主要觀念：
@@ -4766,6 +4946,8 @@ Sir Kensington蛋黃醬和芥末醬在整體成分上表現良好，但微量糖
         alt="[Youtube]" width="200">
 </a>
 
+# Should I Do Cardio for Weight Loss? – Dr.Berg Talks About Exercise, Cardio and Weight Loss
+
 
 </details>
 
@@ -4776,6 +4958,8 @@ Sir Kensington蛋黃醬和芥末醬在整體成分上表現良好，但微量糖
     <img src="https://img.youtube.com/vi/q-H_eX97M8Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Can Calorie Restriction Slow Aging? – Side Effects of Low Calorie Diet – Dr.Berg
 
 
 </details>
@@ -4788,6 +4972,8 @@ Sir Kensington蛋黃醬和芥末醬在整體成分上表現良好，但微量糖
         alt="[Youtube]" width="200">
 </a>
 
+# Cracking Knuckles – Is it Okay to Crack Your Knuckles? Dr.Berg Answers
+
 
 </details>
 
@@ -4798,6 +4984,8 @@ Sir Kensington蛋黃醬和芥末醬在整體成分上表現良好，但微量糖
     <img src="https://img.youtube.com/vi/flfg5b9b8Vw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Top Vitamin K2 Foods – Best Vitamin K2 Sources – Dr.Berg
 
 
 </details>
@@ -4810,6 +4998,8 @@ Sir Kensington蛋黃醬和芥末醬在整體成分上表現良好，但微量糖
         alt="[Youtube]" width="200">
 </a>
 
+# The Benefits of Hyperbaric Oxygen Therapy (HBOT)
+
 
 </details>
 
@@ -4820,6 +5010,8 @@ Sir Kensington蛋黃醬和芥末醬在整體成分上表現良好，但微量糖
     <img src="https://img.youtube.com/vi/BIgVJGj25DU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 2 Trace Minerals Linked To Live Long (100 Years!!) – Dr.Berg
 
 
 </details>
@@ -4832,6 +5024,8 @@ Sir Kensington蛋黃醬和芥末醬在整體成分上表現良好，但微量糖
         alt="[Youtube]" width="200">
 </a>
 
+# Tomato vs Carrots: Which Is Better On Keto? – Dr.Berg
+
 
 </details>
 
@@ -4842,6 +5036,8 @@ Sir Kensington蛋黃醬和芥末醬在整體成分上表現良好，但微量糖
     <img src="https://img.youtube.com/vi/YXRrlyE-x64/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Get Your Spouse Into Ketosis (Keto Diet)? – Dr.Berg
 
 
 </details>
@@ -4854,6 +5050,8 @@ Sir Kensington蛋黃醬和芥末醬在整體成分上表現良好，但微量糖
         alt="[Youtube]" width="200">
 </a>
 
+# Wonderful Neck Stretch For Whole Body Relaxation – Dr.Berg
+
 
 </details>
 
@@ -4864,6 +5062,8 @@ Sir Kensington蛋黃醬和芥末醬在整體成分上表現良好，但微量糖
     <img src="https://img.youtube.com/vi/0tLHZE6LfPY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is it Possible to Gain Weight on Fruits and Vegetables? – Dr.Berg
 
 
 </details>

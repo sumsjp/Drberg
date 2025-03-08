@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# This Was DESTROYING My Life
+
 ### 文章整理：如何在深夜失眠後重回睡夢
 
 #### 核心主題  
@@ -56,6 +58,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# DON'T IGNORE THIS IF YOU'RE OVER 50!!!
+
 ## 文章整理：cataracts 的防治與自然療法
 
 ### 1. 核心主題  
@@ -104,6 +108,8 @@
     <img src="https://img.youtube.com/vi/Sn7T46fCjLE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 10,000 IU of Vitamin D: HUGE MISTAKE?!
 
 ### 文章整理：10,000 IU 维生素D3的每日摄入量是否合理？
 
@@ -168,6 +174,8 @@
     <img src="https://img.youtube.com/vi/zW8Cu4vcReY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 80% of Heart Attacks & Strokes Happen Because of THIS
 
 ### 核心主題  
 - 大部分的心臟病發作和中風並不是由動脈中的斑塊、膽固醇或鈣積累引起的，而是由於血栓的形成。
@@ -246,6 +254,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# CRITICAL: Detoxify Your Brain from Microplastics
+
 ### 文章重點整理
 
 #### 核心主題
@@ -303,6 +313,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# STOP Nighttime Peeing Now: IT REALLY WORKS
+
 ### 核心主題：夜間排尿问题的根源与解决方案
 
 #### 主要觀念：
@@ -345,6 +357,8 @@
     <img src="https://img.youtube.com/vi/23yNXtR-N1s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# #1 Best Meal to Clean Out Your Arteries
 
 ### 文章整理
 
@@ -405,6 +419,8 @@
     <img src="https://img.youtube.com/vi/XyX98bnDaow/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Egg Prices Are NOT by Accident
 
 ### 文章整理：禽流感 Gain-of-Function 研究及其影響
 
@@ -472,6 +488,8 @@
     <img src="https://img.youtube.com/vi/LEsPN-9ekiA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# THIS HAS GOT TO STOP!!
 
 ### 文章重點整理
 
@@ -542,6 +560,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# End Dry Cough in 5 Minutes – Here’s How!
+
 ### 核心主題  
 - 探讨快速缓解咳嗽的方法，尤其是针对干咳和有痰咳嗽的有效解决方案。
 
@@ -601,6 +621,8 @@
     <img src="https://img.youtube.com/vi/nm15-Tftb8E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# This Vitamin MISTAKE is Super Unhealthy!
 
 ### 小節歸納
 
@@ -665,6 +687,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# #1 Deficiency Behind POOR EYESIGHT
+
 ### 小節歸納
 
 #### 核心主題
@@ -717,6 +741,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The #1 Most Powerful Remedy in the World
+
 ### 文章整理：抗衰老飲食與烹飪示範
 
 #### 核心主題
@@ -763,6 +789,8 @@
     <img src="https://img.youtube.com/vi/neabI31ofMc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# BETTER Than Ozempic! STOP Your Cravings
 
 ### 文章整理：食欲抑制與健康管理
 
@@ -837,6 +865,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# They Don't Want You to Know
+
 ### 核心主題
 - **高血壓與動脈健康的關聯**  
   高血壓（即高血压）及其相關問題，如動脈粥樣硬化、動脈鈣化等，與維生素D缺乏密切相關。
@@ -903,6 +933,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Microbe That Changes EVERYTHING
+
 ### 核心主題  
 - **益生菌研究**：聚焦於一種具有重要健康的微organisms，並探討其在維護腸道健康中的作用。  
 - **腸道 microbiome 護理**：強調如何通過特定方法保護和增強腸道微生物群，尤其是在接受抗生素治療時。  
@@ -939,6 +971,8 @@
     <img src="https://img.youtube.com/vi/KyRjO29yHBQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Best Remedy for Hyperpigmentation
 
 ### 核心主題：白癜風（Vitiligo）的治療與管理  
 白癜風是一種導致皮膚失去色素沉著的慢性疾病，影響多數患者的外貌和自信心。文章強調了白癜風的病因、診斷方法以及傳統治療方案的局限性，並介紹了基於光療和局部皮質類固醇的新型治療方法。
@@ -1013,6 +1047,8 @@
     <img src="https://img.youtube.com/vi/or7kKNlMlDY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# THIS Ruins Your Health!
 
 ### 文章整理：健康與生活方式的核心要素
 
@@ -1099,6 +1135,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Viral Health Tips You Need to STOP Now
+
 ### 論文要點總結
 
 #### 1. 核心主題
@@ -1138,6 +1176,8 @@
     <img src="https://img.youtube.com/vi/pFVp4QY0FBk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# You’ve Been Lied To...
 
 ### 核心主題
 - **營養與健康管理**：探討 питания（飲食）對健康的影響，特別是針對常見的健康建議中存在的误解和錯誤。
@@ -1216,6 +1256,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# NEVER Cook with This Again
+
 ### 文章重點整理
 
 #### 核心主題
@@ -1268,6 +1310,8 @@
     <img src="https://img.youtube.com/vi/J9SjqPQL6WM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The MOST Toxic Ingredients You Should NEVER Eat
 
 ### 核心主題：工業化加工食品對健康的影響及解決方案
 
@@ -1327,6 +1371,8 @@
     <img src="https://img.youtube.com/vi/IlT081VhRLM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Remove Skin Tags and Warts Overnight
 
 ### 文章整理：如何去除皮膚標記和疣
 
@@ -1401,6 +1447,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The #1 Vitamin Depleting Food in the World
+
 ### 小節歸納
 
 #### 核心主題  
@@ -1438,6 +1486,8 @@
     <img src="https://img.youtube.com/vi/_IfaR9ivpyE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Are We Doing This to Our Kids?
 
 ### 文章整理與分析
 
@@ -1496,6 +1546,8 @@
     <img src="https://img.youtube.com/vi/BAwthZkuB10/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Can't I Talk About This?
 
 ### 文章總結與整理
 
@@ -1592,6 +1644,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Earliest Warning Sign (DON'T IGNORE)
+
 ### 文章整理：早期癡呆症的蛛絲馬跡與預防策略
 
 #### 核心主題
@@ -1652,6 +1706,8 @@
     <img src="https://img.youtube.com/vi/S8kPjMd8akI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Teeth Whitening at Home
 
 ### 文章結構整理
 
@@ -1720,6 +1776,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The SILENT KILLER Nobody Talks About
+
 ### 小節歸納
 
 #### 1. 核心主題
@@ -1764,6 +1822,8 @@
     <img src="https://img.youtube.com/vi/tqlMxfAECGg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Breakfast is a Lie
 
 ### 文章整理重點
 
@@ -1826,6 +1886,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# BEST Foods to Detox and Clean Out Your Liver
+
 ### 文章主旨與結構整理
 
 #### 核心主題
@@ -1862,6 +1924,8 @@
     <img src="https://img.youtube.com/vi/zGRKrUPIpfU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why is No One Doing This??? IT WORKS
 
 ### 篇章整理：文章重點歸納
 
@@ -1926,6 +1990,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Castor Oil for Your Face (Nature's Botox)
+
 ### 核心主題：Castor Oil 的多功能性及其在美容和健康的應用
 
 ### 主要觀念：
@@ -1978,6 +2044,8 @@
     <img src="https://img.youtube.com/vi/vWrzH4IBs-Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Growing MUSCLES over 50 Years of Age
 
 ### 文章重點整理：肌肉流失對長壽的影響及解決策略
 
@@ -2063,6 +2131,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# 7 Foods to REVERSE Kidney Damage (Must Watch)
+
 ### 核心主題：腎臟健康管理與飲食策略  
 文章圍繞腎臟健康展開，強調通過飲食來預防和逆轉腎臟損傷，特別是針對腎臟疾病的常見原因、飲食建議以及生活方式的調整。
 
@@ -2129,6 +2199,8 @@
     <img src="https://img.youtube.com/vi/e8gl002hqik/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Tighten and Flatten Stomach with Just ONE EXERCISE
 
 ### 文章重點整理
 
@@ -2199,6 +2271,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Best Remedies for INFLAMMATION (Autoimmune, Gut, and Arthritis) That You Never Considered
+
 ### 小節整理
 
 #### 1. 核心主題
@@ -2253,6 +2327,8 @@
     <img src="https://img.youtube.com/vi/bZ7MLOc9k9c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The #1 Most Dangerous Ingredient in the World
 
 ### 小節化整理
 
@@ -2335,6 +2411,8 @@
     <img src="https://img.youtube.com/vi/C_-7966jgAQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# INSTANT Plantar Fasciitis Fix
 
 ### 文章重點整理
 
@@ -2426,6 +2504,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The #1 Anti-aging Hack
+
 ### 文章整理與分析
 
 #### 核心主題
@@ -2493,6 +2573,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Battle of the Cabbages
+
 ### 核心主題  
 - 比較兩種流行發酵蔬菜：酸菜（Sauerkraut）與泡菜（Kimchi）的健康差異及其益處。
 
@@ -2536,6 +2618,8 @@
     <img src="https://img.youtube.com/vi/3QePHCO8T8Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# They Lied to Us
 
 ### 文章重點整理
 
@@ -2609,6 +2693,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Some GOOD NEWS in North Carolina (Update)
+
 ### 核心主題  
 本文圍繞美國北卡羅萊納州遭遇的重大災害及其後續救援行動展開，強調了籌款、志願者努力以及災後重建的重要性。文章通過個案分享和數據展示，凸顯了災民的困境及外部援助的必要性。
 
@@ -2644,6 +2730,8 @@
     <img src="https://img.youtube.com/vi/hrqr3IIoTOs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# VITAMIN D IS DANGEROUS
 
 # Vitamin D Safety - Addressing Potential Risks and Mitigating Strategies
 
@@ -2714,6 +2802,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The BIG Magnesium Mistake
+
 ### 核心主題  
 - **鎂（Magnesium）的重要性**：鎂是身體中最關鍵的矿物质之一，參與數百種生化反應，影響多個系統如心血管、神經與肌肉功能等。
 
@@ -2774,6 +2864,8 @@
     <img src="https://img.youtube.com/vi/GwxOavvgqA0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Would Happen If You Chewed ONE Clove Daily
 
 ### 文章整理與分析
 
@@ -2869,6 +2961,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# STOP Ignoring This!!!
+
 ### 核心主題
 - 高血糖及其相關症狀與影響
 - 胰島素抵抗的作用機制
@@ -2953,6 +3047,8 @@
     <img src="https://img.youtube.com/vi/PYwWTn2MPYo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Your Vitamins Are Not Working
 
 # 為什麼維生素可能不起作用：原因與解決方案
 
@@ -3039,6 +3135,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# STOP Taking This Now
+
 ### 文章重點整理
 
 #### 核心主題
@@ -3098,6 +3196,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# STOP Doing THIS for Low Back Pain
+
 ### 文章重點整理
 
 #### 核心主題  
@@ -3149,6 +3249,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Why Do Most Indian Men Have Potbellies?!
+
 ### 文章重點整理
 
 #### 1. 核心主題  
@@ -3197,6 +3299,8 @@ This article discusses the importance of cultural sensitivity and personalized m
     <img src="https://img.youtube.com/vi/TBf7uK7Urb0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Get Thick and Shiny Hair
 
 ### 文章整理：頭髮健康的營養與環境影響
 
@@ -3256,6 +3360,8 @@ This article discusses the importance of cultural sensitivity and personalized m
     <img src="https://img.youtube.com/vi/eJeTsPEiXRA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Do NOT Make These Mistakes (Especially After 50)
 
 ### 文章整理與分析
 
@@ -3349,6 +3455,8 @@ This article discusses the importance of cultural sensitivity and personalized m
         alt="[Youtube]" width="200">
 </a>
 
+# The Benefit of Apple Cider Vinegar That NO ONE KNOWS
+
 ### 核心主題
 - 苹果醋（Apple Cider Vinegar, ACV）的潛在健康益處，尤其是其對腸道微生物平衡的影響。
 
@@ -3419,6 +3527,8 @@ This article discusses the importance of cultural sensitivity and personalized m
     <img src="https://img.youtube.com/vi/ZGEWoPmvPJY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# This Has Gone Too Far!
 
 ### 整理後的文章重點
 
@@ -3499,6 +3609,8 @@ This article discusses the importance of cultural sensitivity and personalized m
         alt="[Youtube]" width="200">
 </a>
 
+# You Will Never Consume THIS Again After Watching This
+
 ### 文章整理：《Dark Calories》核心內容與建議
 
 ---
@@ -3558,6 +3670,8 @@ This article discusses the importance of cultural sensitivity and personalized m
     <img src="https://img.youtube.com/vi/cMEDTX3JqOs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Forgotten Hormone
 
 ### 核心主題：男性中的孕激素（Progesterone）及其重要性
 
@@ -3629,6 +3743,8 @@ This article discusses the importance of cultural sensitivity and personalized m
         alt="[Youtube]" width="200">
 </a>
 
+# My Vitamin D Levels SUCKED for Decades
+
 ### 小節整理：文章重點
 
 #### 1. 核心主題
@@ -3685,6 +3801,8 @@ This article discusses the importance of cultural sensitivity and personalized m
         alt="[Youtube]" width="200">
 </a>
 
+# Regenerate Your Stem Cells
+
 # 文章整理：七種刺激幹細胞的方法
 
 ## 核心主題
@@ -3734,6 +3852,8 @@ This article discusses the importance of cultural sensitivity and personalized m
     <img src="https://img.youtube.com/vi/RycWZAkXUEo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Ashwagandha: The Adaptogen on Steroids
 
 ### 核心主題：阿育吠陀草藥 - 阿什瓦甘tha（Ashwagandha）的功效與應用
 
@@ -3794,6 +3914,8 @@ This article discusses the importance of cultural sensitivity and personalized m
         alt="[Youtube]" width="200">
 </a>
 
+# 7 Warning Signs of Parasites and How to Fight Back
+
 ### 小節一：核心主題  
 - 文章主要探討寄生蟲感染的七個警告знаки以及其對人體健康的影響。  
 - 探讨寄生蟲與宿主之間的共演化關係（Red Queen Hypothesis）。  
@@ -3849,6 +3971,8 @@ This article discusses the importance of cultural sensitivity and personalized m
         alt="[Youtube]" width="200">
 </a>
 
+# DEVASTATING!
+
 ### 小結整理
 
 #### 1. **核心主題**
@@ -3887,6 +4011,8 @@ This article discusses the importance of cultural sensitivity and personalized m
     <img src="https://img.youtube.com/vi/LdR3gAzCdpU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Eliminate Bloating: The Ultimate Solution by Dr. Berg
 
 ### 文章重點整理
 
@@ -3945,6 +4071,8 @@ This article discusses the importance of cultural sensitivity and personalized m
         alt="[Youtube]" width="200">
 </a>
 
+# The Fastest Way to Get Rid of Toenail Fungus
+
 ### 文章整理： toenail fungus 的治療與預防
 
 ---
@@ -4000,6 +4128,8 @@ This article discusses the importance of cultural sensitivity and personalized m
     <img src="https://img.youtube.com/vi/UtSvAyRs5OA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Here’s My 2 Cents: "Making America Healthy Again"
 
 ### 文章整理重點
 
@@ -4114,6 +4244,8 @@ This article discusses the importance of cultural sensitivity and personalized m
         alt="[Youtube]" width="200">
 </a>
 
+# Use Your Feet As Warning Signs
+
 ### 核心主題：腳部作為身體健康的診斷窗口  
 文章強調腳部是反映整體健康狀況的重要指標，特別是早期疾病的跡象，例如糖尿病、循環問題和神經系統疾病。腳部的血液供應 poorest，使其成為檢測健康問題的理想窗口。
 
@@ -4194,6 +4326,8 @@ This article discusses the importance of cultural sensitivity and personalized m
         alt="[Youtube]" width="200">
 </a>
 
+# How to Reverse Aging
+
 ### 總覽與核心主題  
 - 文章圍繞「延緩衰老」這一核心主題展開，強調通過營養、生活方式調整等多方面方法來改善皮膚老化和整體健康狀態。  
 
@@ -4269,6 +4403,8 @@ This article discusses the importance of cultural sensitivity and personalized m
     <img src="https://img.youtube.com/vi/s0jIXMc3PS0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The #1 Best Probiotic for Autoimmune Conditions
 
 ### 文章重點整理
 
@@ -4352,6 +4488,8 @@ This article discusses the importance of cultural sensitivity and personalized m
         alt="[Youtube]" width="200">
 </a>
 
+# STOP OVERTHINKING 24/7
+
 ### 文章整理  
 此篇文章探討了思維與心理健康的關聯，特別是過度思考對精神狀態和身體激素的影響，並提出了營養不平衡作為導致這些問題的原因之一。文章進一步討論了藥物治療的副作用，並強調了补充維生素D和恢復腸道菌群平衡的重要性。
 
@@ -4425,6 +4563,8 @@ This article discusses the importance of cultural sensitivity and personalized m
         alt="[Youtube]" width="200">
 </a>
 
+# These Vitamin D Mistakes Are Bad
+
 ### 小節整理：文章關於維生素D的常見錯誤與建議
 
 #### 核心主題
@@ -4473,6 +4613,8 @@ This article discusses the importance of cultural sensitivity and personalized m
     <img src="https://img.youtube.com/vi/9VJxmAvQX9s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 7 Foods You Should Be Eating After You Reach the Age of 50
 
 ### 文章整理與分析
 
@@ -4541,6 +4683,8 @@ This article discusses the importance of cultural sensitivity and personalized m
         alt="[Youtube]" width="200">
 </a>
 
+# Get Rid of Mucus Fast
+
 ### 小節歸納
 
 #### 核心主題  
@@ -4597,6 +4741,8 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
     <img src="https://img.youtube.com/vi/x1SIEftYSvY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Cancer HATES This!
 
 ### 文章整理：维生素D与癌症的关系及应对策略
 
@@ -4663,6 +4809,8 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
     <img src="https://img.youtube.com/vi/MTpnF4V8stA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Look Younger
 
 ### 文章整理：如何延缓衰老，保持年轻外貌
 
@@ -4738,6 +4886,8 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
         alt="[Youtube]" width="200">
 </a>
 
+# Worse than Sugar
+
 ### 文章重點整理
 
 #### 核心主題
@@ -4790,6 +4940,8 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
         alt="[Youtube]" width="200">
 </a>
 
+# Why Is No One Talking About This...
+
 ### 核心主題
 - 自身免疫疾病的发病率正在迅速上升，超越心血管疾病和癌症，成為全球主要健康問題。
 - 自身免疫疾病的成因與免疫系統失衡密切相关，尤其是Tregs（調節性T細胞）的功能減弱。
@@ -4839,6 +4991,8 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
     <img src="https://img.youtube.com/vi/NI5a45kmvr0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# You've Been Lied to About This
 
 ### 小節歸納
 
@@ -4893,6 +5047,8 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
     <img src="https://img.youtube.com/vi/89jJ1JlNZlg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Greatest Overlooked Nutrient in Medicine
 
 ### 核心主題：維生素K2的重要性及其在人體健康中的作用
 
@@ -4964,6 +5120,8 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
         alt="[Youtube]" width="200">
 </a>
 
+# The Supplements That ACTUALLY WORK
+
 ### 文章總結：重要營養素與補充劑的功效及其應用
 
 #### 一、核心主題
@@ -5008,6 +5166,8 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
     <img src="https://img.youtube.com/vi/jhL1mN0uBFw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# I Was Shocked When I Learned About This
 
 ### 文章整理：Forever Chemicals 的影響與應對策略
 
@@ -5078,6 +5238,8 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
         alt="[Youtube]" width="200">
 </a>
 
+# Vitamin B1 and SUGAR Experiment: WARNING
+
 ### 文章重點整理
 
 #### 1. 核心主題  
@@ -5112,6 +5274,8 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
     <img src="https://img.youtube.com/vi/XiMxWUF6k04/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Gluten Free Exposed: The Shocking Reality
 
 ### 文章重點整理
 
@@ -5206,6 +5370,8 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
         alt="[Youtube]" width="200">
 </a>
 
+# The #1 Superfood in the World
+
 ### 文章整理：紅肉的營養價值與健康爭議
 
 #### 核心主題
@@ -5280,6 +5446,8 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
         alt="[Youtube]" width="200">
 </a>
 
+# The Most Neglected Nutrient By Doctors
+
 ### 小節整理： magnesium 在人體健康中的角色與重要性
 
 #### 1. 核心主題
@@ -5341,6 +5509,8 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
     <img src="https://img.youtube.com/vi/8KgNWFyd01g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 21 Signs Your Body Needs Specific Nutrients
 
 ### 文章整理：營養缺乏與健康的關聯
 
@@ -5423,6 +5593,8 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
         alt="[Youtube]" width="200">
 </a>
 
+# This Is CRAZY!
+
 ### 文章整理與歸納
 
 ---
@@ -5484,6 +5656,8 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
         alt="[Youtube]" width="200">
 </a>
 
+# THIS Increases Heart Attack Risk over 2000%
+
 ### 文章整理：壓力管理與健康
 
 ---
@@ -5542,6 +5716,8 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
         alt="[Youtube]" width="200">
 </a>
 
+# The BEST Fibroid Shrinking Vitamin (based on science)
+
 ### 文章重點整理
 
 #### 核心主題
@@ -5597,6 +5773,8 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
     <img src="https://img.youtube.com/vi/4-llgWDKEkM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The #1 Ingredient That Makes You Fat (NOT SUGAR)
 
 ### 核心主題
 - **.MSG（單 sodium 亮氨酸甲酯）的安全性與其對健康的影響**

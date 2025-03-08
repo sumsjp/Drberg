@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What is LDL? Understanding in Simple Terms with Dr.Berg
+
 ### 文章整理：低密度脂蛋白（LDL）的核心概念與健康影響
 
 ---
@@ -96,6 +98,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Regrow Your Brain with Intermittent Fasting – Brain Derived Neurotrophic Factor (BDNF) – Dr.Berg
+
 ### 小節歸納
 
 #### 核心主題
@@ -146,6 +150,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Best Vegan Source of Vitamin B12 – Nori (red algae), Chlorella & Spirulina – Dr. Berg
+
 ### 小節一：核心主題  
 - 素食者如何有效攝取維生素B12。  
 
@@ -184,6 +190,8 @@
     <img src="https://img.youtube.com/vi/pSt6dxWWYY0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Nighttime Hypoglycemia – Low Blood Sugar & Insulin resistance – Dr.Berg
 
 ### 文章重點整理
 
@@ -229,6 +237,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Gout & Ketosis – Uric Acid Stones & High Uric Acid On Keto – Dr. Berg
+
 ### 小節一：核心主題
 - 討論酮症（ketosis）及斷食對具備高尿酸鹽或腎结石風險個體的影響。
 - 探讨酮症和断食如何可能加重尿酸鹽問題。
@@ -267,6 +277,8 @@
     <img src="https://img.youtube.com/vi/egsDvNJDgGs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Best Coffee Substitutes – Decaf Coffee & Other Coffee Alternatives – Dr.Berg
 
 # 文章重點整理：咖啡替代品的選擇與健康考量
 
@@ -312,6 +324,8 @@
     <img src="https://img.youtube.com/vi/Au9UujxWF20/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Keto Diet & Intermittent Fasting Success Story – Dr.Berg Interviews Chris Hill on Keto Success
 
 ### 文章重點整理
 
@@ -377,6 +391,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Long Term Effects of a Low Carbohydrate Diet
+
 ### 核心主題  
 - 長期低碳水化合物飲食的效果  
 
@@ -429,6 +445,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How Fat Gets Burned? Science Of Fat Burning Simplified – Dr. Berg
+
 ### 核心主題：脂肪燃燒的機制與影響因素
 
 ### 主要觀念：
@@ -472,6 +490,8 @@
     <img src="https://img.youtube.com/vi/WqnETFltxtM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Lose Weight Fast Healthily: WRESTLERS ONLY – Dr.Berg
 
 ### 小節歸納
 
@@ -519,6 +539,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Type of Carbs To Avoid On A Keto Diet – Dr.Berg
+
 
 </details>
 
@@ -529,6 +551,8 @@
     <img src="https://img.youtube.com/vi/Zd4R14mBcFw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Keto Diet and Intermittent Fasting Success Story – Dr.Berg Interviews Johnny Belisle
 
 <contents>
 ### 核心主題
@@ -594,6 +618,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Crazy Side Effects of Thiazide Diuretics (High Blood Pressure Medication) – Dr.Berg
+
 ### 文章整理：探究噻嗪類高血壓藥物的副作用與影響
 
 #### 核心主題
@@ -649,6 +675,8 @@
     <img src="https://img.youtube.com/vi/o6xh5DHbsiw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Pee Smells Bad? What Causes Strong Stinky Odor After Urination? – Dr. Berg
 
 ### 核心主題  
 - 探讨尿液异常气味的原因及其与酮饮 intermittent fasting（間斷性禁食）的关系。
@@ -724,6 +752,8 @@
     <img src="https://img.youtube.com/vi/IQf5zeUhJxw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Keto Diet and Intermittent Fasting Success Story – Dr.Berg Interviews Michel Jourdain
 
 ### 文章重點整理
 
@@ -820,6 +850,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How Do I Know If I'm Stressed? – Dr.Berg On Signs of Stress
+
 ### 核心主題: 請識別壓力與評估 adrenal 功能
 
 壓力是現代生活中常見且影響健康的問題。文章探討了如何通過主觀和客觀的方法來評估壓力水平，特別是與	adrenal	功能的相關性。
@@ -875,6 +907,8 @@
     <img src="https://img.youtube.com/vi/DhH4sy2U4vw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Get Rid Of Loose Skin After Weight Loss? – Dr.Berg On Saggy Belly fat
 
 ### 核心主題  
 - 影響身體結構與皮膚彈性的生理機制。  
@@ -936,6 +970,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What is SAMe S-Adenosyl-Methionine Explained By Dr. Berg
+
 # 文章重點整理：S-腺苷蛋氨酸（SAMe）的作用與應用
 
 ## 核心主題
@@ -992,6 +1028,8 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
     <img src="https://img.youtube.com/vi/NEQsqwT3xYk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Prevent TIA (Transient Ischemic Attack) Mini-Stroke? – Dr.Berg
 
 ### 文章整理重點
 
@@ -1051,6 +1089,8 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
     <img src="https://img.youtube.com/vi/hwZHaNOwMDk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Juicing On A Ketogenic Diet? – Dr. Berg
 
 ### 文章整理：在酮ogenic Diet中飲用果汁的影響
 
@@ -1121,6 +1161,8 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
         alt="[Youtube]" width="200">
 </a>
 
+# Interesting Benefits of Bentonite Clay – Dr.Berg
+
 ### 小節結構整理
 
 #### 核心主題
@@ -1167,6 +1209,8 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
         alt="[Youtube]" width="200">
 </a>
 
+# Can a Ketogenic Diet Cause Fatty Liver Disease? – Dr.Berg
+
 ### 文章整理： ketogenic diet 与脂肪肝的关系
 
 #### 核心主題
@@ -1201,6 +1245,8 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
     <img src="https://img.youtube.com/vi/RzzTNlJqCW0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Chronic Right Rhomboid Muscle Pain, Tightness & Trigger Points – Dr.Berg
 
 ### 核心主題：慢性右肩胛痛和緊張及其病因與治療
 
@@ -1237,6 +1283,8 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
     <img src="https://img.youtube.com/vi/OjJ1VbmbwQc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Ketosis & Intermittent Fasting Before & After – Dr. Berg Skype Interview with Priscila Nuvamsa
 
 ### 文章整理與分析
 
@@ -1294,6 +1342,8 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
         alt="[Youtube]" width="200">
 </a>
 
+# What is Vitamin B4? – Dr.Berg
+
 ### 核心主題：維生素B4的作用與重要性
 
 - **核心概念**：維生素B4（腺嘌呤）是最早被發現的B群維生素之一，主要功能在於預防周圍神經麻痹和神經傳導障礙，特別是对心脏的影響。
@@ -1337,6 +1387,8 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
     <img src="https://img.youtube.com/vi/It3Bn4hbWzg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Is Dry Burning Eyes & How To Get Rid Of Dry Eyes? – Dr.Berg
 
 ### 文章重點整理
 
@@ -1408,6 +1460,8 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
         alt="[Youtube]" width="200">
 </a>
 
+# The Underlying Cause Of Diabetes – Dr.Berg
+
 ### 文章整理：糖尿病的 deeper cause 及其管理策略
 
 #### 核心主題
@@ -1469,6 +1523,8 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
     <img src="https://img.youtube.com/vi/6F-vU0VdhEk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# My Beef with "What The Health Documentary" Explained By Dr. Berg
 
 ### 文章整理：反對《What the Health》節目中關於糖尿病病因的說法
 
@@ -1550,6 +1606,8 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
         alt="[Youtube]" width="200">
 </a>
 
+# Is "Acid in Stomach" Unhealthy? Explained By Dr. Berg
+
 ### 小節歸納
 
 #### 1. 核心主題
@@ -1612,6 +1670,8 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
         alt="[Youtube]" width="200">
 </a>
 
+# The Most Important Fat-Soluble Vitamin For Diabetics: Benfotiamine – Dr.Berg
+
 ### 核心主題
 - 維生素B1在糖尿病管理中的重要作用。
 
@@ -1645,6 +1705,8 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
     <img src="https://img.youtube.com/vi/z5nYcy9Vb5U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Ketogenic Diet & Body Type Tips Explained By Dr.Berg
 
 ### 核心主題
 - **綜合體型分類、酮egenic饮食与间歇性禁食**：文章讨论了如何将体能类型（腺体型、卵巢型、肝脏型）与酮ogenetic饮食和间歇性禁食相结合，以达到快速健康的目的。
@@ -1701,6 +1763,8 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
         alt="[Youtube]" width="200">
 </a>
 
+# What is Lactose Intolerance Explained By Dr. Berg
+
 ### 文章整理：乳糖不耐受的核心知識與管理策略
 
 #### 一、核心主題
@@ -1753,6 +1817,8 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
     <img src="https://img.youtube.com/vi/cqbQAWpOJVE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Insomnia on Keto Explained By Dr.Berg
 
 ### 小節整理：酮egenic Diet與失眠之影響及對策
 
@@ -1823,6 +1889,8 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
         alt="[Youtube]" width="200">
 </a>
 
+# Keto Diet Dairy (Milk, Yogurt & Cheese) Explained By Dr. Berg
+
 ### 文章整理：酮飲與乳制品的關係
 
 #### 核心主題  
@@ -1875,6 +1943,8 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
     <img src="https://img.youtube.com/vi/5M5xP_Sv4xQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Vitamin B1 Deficiency Symptoms Explained By Dr. Berg
 
 ### 核心主題  
 - 維生素 B1 的重要性及其缺乏症狀。  
@@ -1938,6 +2008,8 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
         alt="[Youtube]" width="200">
 </a>
 
+# Intermittent Fasting Benefits Explained By Dr.Berg
+
 ### 核心主題  
 - 介紹時間控制飲食（Intermittent Fasting）及其在健康和自我 discipline 中的重要性。  
 
@@ -1979,6 +2051,8 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
     <img src="https://img.youtube.com/vi/BC0mRQLoqNA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Keto Diet Without Veggies Explained By Dr. Berg
 
 ### 核心主題
 - **核心主題**：在實施酮egenic（生酮）飲食時，攝入足夠的蔬菜對於維持健康和ダイエットの成功至關重要。
@@ -2048,6 +2122,8 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
         alt="[Youtube]" width="200">
 </a>
 
+# What are the Adrenal Glands? – Effects of Cortisol & Adrenal Hormones – Dr.Berg
+
 ### 文章整理： adrenal glands 的功能與重要性
 
 #### 1. 核心主題
@@ -2095,6 +2171,8 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
     <img src="https://img.youtube.com/vi/iDyRN9m2mec/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Ultimate Joint Healer: Growth Hormone – Dr. Berg On Joint Pain Relief
 
 # 文章整理：生長激素在關節修復中的作用及自然提升方法
 
@@ -2147,6 +2225,8 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
     <img src="https://img.youtube.com/vi/NC5mJwiX6wA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Low Fat Diet to Prevent Gallstones "Myth" – Dr. Berg
 
 ### 核心主題：低脂飲食與膽石症的迷思
 
@@ -2226,6 +2306,8 @@ Dr. Burke 認為，膽石症的發生與低脂飲食無直接關聯，反而是�
         alt="[Youtube]" width="200">
 </a>
 
+# Should You Do Bulletproof Coffee on Ketogenic Diet with Intermittent Fasting? – Dr. Berg
+
 ### 核心主題
 - **Bulletproof Coffee**：一種添加了 butter 或 coconut oil 的咖啡，用作早晨的飲品，有時作為餐點替代品。
 
@@ -2285,6 +2367,8 @@ Dr. Burke 認為，膽石症的發生與低脂飲食無直接關聯，反而是�
         alt="[Youtube]" width="200">
 </a>
 
+# Sea Salt vs. Table Salt – Dr.Berg
+
 ### 小芻
 
 #### 核心主題
@@ -2331,6 +2415,8 @@ Dr. Burke 認為，膽石症的發生與低脂飲食無直接關聯，反而是�
     <img src="https://img.youtube.com/vi/Wj9tIVIRqSY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Highest Vitamin C Food on the Planet – Dr. Berg on the Benefits of Vitamin C
 
 ### 核心主題
 
@@ -2380,6 +2466,8 @@ Sauerkraut作为地球上维生素C含量最高的食物之一，不仅提供了
     <img src="https://img.youtube.com/vi/3pjaXjmZWpU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What's Really Behind Leaky Gut? – Dr.Berg On Leaky Gut Symptoms  & Vitamin C Deficiency
 
 ### 小節歸納：
 
@@ -2440,6 +2528,8 @@ Sauerkraut作为地球上维生素C含量最高的食物之一，不仅提供了
     <img src="https://img.youtube.com/vi/WNq1IDBOO-U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Before & After Keto – Intermittent Fasting & Weight Loss session with Dr.Berg and Chris Grant
 
 ### 文章整理：健康生活方式的成功案例分析
 
@@ -2517,6 +2607,8 @@ Sauerkraut作为地球上维生素C含量最高的食物之一，不仅提供了
         alt="[Youtube]" width="200">
 </a>
 
+# Can Protein Harm Your Kidneys and Liver? – Dr.Berg on Protein Side Effects
+
 ### 小節歸納
 
 #### 核心主題
@@ -2560,6 +2652,8 @@ Sauerkraut作为地球上维生素C含量最高的食物之一，不仅提供了
     <img src="https://img.youtube.com/vi/_l0LMxrWGAo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Commercial Eggs vs. Pasture-Raised Eggs – Dr.Berg
 
 ### 文章整理與分析
 
@@ -2606,6 +2700,8 @@ Pasture-raised 鸡蛋因其較高的營養價值和健康益處，值得比商�
         alt="[Youtube]" width="200">
 </a>
 
+# Apple Cider Vinegar and Diabetes – Dr. Berg On ACV Benefits
+
 ### 核心主題
 - 探讨苹果醋（Apple Cider Vinegar）对糖尿病及其前期的影响。
 
@@ -2648,6 +2744,8 @@ Pasture-raised 鸡蛋因其較高的營養價值和健康益處，值得比商�
         alt="[Youtube]" width="200">
 </a>
 
+# Does Eating Saturated Fat Really Cause Insulin Resistance? – Dr. Berg
+
 ===== 小節歸納 =====
 
 ### 核心主題
@@ -2682,6 +2780,8 @@ Pasture-raised 鸡蛋因其較高的營養價值和健康益處，值得比商�
     <img src="https://img.youtube.com/vi/0bbBkrYqmZE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Does A High Fat Diet Really Cause Type 2 Diabetes? – Dr.Berg
 
 ### 文章整理
 
@@ -2723,6 +2823,8 @@ Pasture-raised 鸡蛋因其較高的營養價值和健康益處，值得比商�
         alt="[Youtube]" width="200">
 </a>
 
+# Before & After Keto – Intermittent Fasting & Weight Loss session with Dr.Berg and Dan McGinley
+
 ### 小結整理：文章重點歸納
 
 #### 1. 核心主題  
@@ -2763,6 +2865,8 @@ Pasture-raised 鸡蛋因其較高的營養價值和健康益處，值得比商�
     <img src="https://img.youtube.com/vi/9U_ud4x_Zj4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Men, Estrogen & Weight Gain & Man Boobs – Dr. Berg
 
 ### 小節歸納與整理
 
@@ -2828,6 +2932,8 @@ Pasture-raised 鸡蛋因其較高的營養價值和健康益處，值得比商�
         alt="[Youtube]" width="200">
 </a>
 
+# Before & After Keto – Intermittent Fasting & Weight Loss session with Dr.Berg & David Otieno Okello
+
 ### 文章重點整理
 
 #### 1. 核心主題
@@ -2874,6 +2980,8 @@ Pasture-raised 鸡蛋因其較高的營養價值和健康益處，值得比商�
         alt="[Youtube]" width="200">
 </a>
 
+# Should I Cycle Carbs on Keto? – Dr. Berg
+
 ### 小節整理：.cycle-carbs-keto/
 
 #### 1. 核心主題：
@@ -2908,6 +3016,8 @@ Pasture-raised 鸡蛋因其較高的營養價值和健康益處，值得比商�
     <img src="https://img.youtube.com/vi/kwX-8qqmYDE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Before & After Keto – Intermittent Fasting & Weight Loss session with Dr.Berg & Michelle Spiva
 
 ### 文章整理：Michelle 的健康與生活方式改變經驗分享
 
@@ -2965,6 +3075,8 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
+# Reduce Seizures On The Ketogenic Diet – Dr.Berg On Seizure Symptoms
+
 ### 核心主題：酮egenic Diet（生酮飲食）在癲癇治療中的作用
 
 ---
@@ -3010,6 +3122,8 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
     <img src="https://img.youtube.com/vi/hABNs3kTaTU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Keto Diet and Intermittent Fasting Success Story – Dr.Berg Weight Loss Interviews Victor Torres
 
 ### 本文重點整理
 
@@ -3095,6 +3209,8 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
+# Losing Inches But Not Weight Loss? – Dr.Berg
+
 ### 小結整理：「失去體積但不減重」的概念與實踐
 
 ---
@@ -3144,6 +3260,8 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
     <img src="https://img.youtube.com/vi/q_IibOKFlm0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best Greens For Salad – Leafy Green Vegetables For Healthy Salads – Dr.Berg
 
 ### 小節一：文章的核心主題
 - 探讨不同蔬菜在沙拉中的營養價值及其健康影響。
@@ -3201,6 +3319,8 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
+# How To Lose Weight With An Extremely Slow Thyroid? – Dr.Berg On Hypothyroidism & Weight Loss
+
 ### 小節化整理
 
 #### 1. 核心主題
@@ -3246,6 +3366,8 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
+# Does Intermittent Fasting Cause Muscle Loss? – Dr.Berg
+
 ### 小節整理
 
 #### 核心主題
@@ -3290,6 +3412,8 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
+# The Best Stretch Exercise To Do After Whiplash Injury – Dr. Berg
+
 ### 小節歸納
 
 #### 核心主題  
@@ -3331,6 +3455,8 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
     <img src="https://img.youtube.com/vi/t0vTVTOGJec/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Key Questions In Figuring Out Body Problems – Dr. Berg
 
 ### 重点整理
 
@@ -3382,6 +3508,8 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
     <img src="https://img.youtube.com/vi/Lp4HZLC0v34/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Purpose of Potassium – Dr.Berg
 
 ### 文章重點整理
 
@@ -3453,6 +3581,8 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
+# Why Do I Feel So Sleepy Despite Having Enough Sleep? – Dr. Berg
+
 ### 核心主題
 - **睡眠性嗜睡症**：討論一種即便睡眠充足仍感到強烈睡意的情況。
 
@@ -3508,6 +3638,8 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
     <img src="https://img.youtube.com/vi/M-eP69y5a6Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Causes High Pulse Rate? – Dr. Berg
 
 ### 核心主題
 - 探讨高脉搏率（High Pulse Rate）的可能原因及其解决方案。
@@ -3571,6 +3703,8 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
+# What Is Excessive Yawning? – Dr. Berg
+
 ### 核心主題  
 - 過度打哈欠的原因及解決方法  
 
@@ -3624,6 +3758,8 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
     <img src="https://img.youtube.com/vi/ioIYatKpDxE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Best Nutrients For Hashimoto's Thyroiditis – Dr. Berg
 
 ### 核心主題：橋本病（Hashimoto甲状腺炎）的營養干預策略
 
@@ -3693,6 +3829,8 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
+# What Is Vascular Calcification? – Dr.Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -3742,6 +3880,8 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
+# The Non-Stress Cause of High Cortisol – Dr. Berg
+
 ### 核心主題
 - 非應激性高皮質醇的原因
 - 皮質醇与胰島素的相互作用
@@ -3790,6 +3930,8 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
     <img src="https://img.youtube.com/vi/NUNorglHg1U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Is Dopamine? – Dr.Berg
 
 ### 文章整理與重點歸納
 
@@ -3848,6 +3990,8 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
+# Can A Man Go Through Menopause? – Dr.Berg on Male Menopause
+
 ### 小節歸納
 
 #### 核心主題  
@@ -3888,6 +4032,8 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
     <img src="https://img.youtube.com/vi/-7IawR3gJMw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Improve Glaucoma? – Dr.Berg On Glaucoma Treatment
 
 ### 文章重點整理
 
@@ -3931,6 +4077,8 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
     <img src="https://img.youtube.com/vi/X1Rs4o7Bgjg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best Natural AntiHistamine for Sinus & Lung Congestion – Dr.Berg
 
 ### 文章整理：自然抗組織胺療法中的摩門茶
 
@@ -3984,6 +4132,8 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
     <img src="https://img.youtube.com/vi/ttvrIK-F68E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is Melatonin a Good Sleep Aid? – Dr.Berg on Melatonin Side Effects
 
 ### 文章整理：Melatonin and the Pineal Gland
 
@@ -4039,6 +4189,8 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
+# Feeling Dizzy When You Stand Up? – Dr. Berg
+
 ### 小節整理：
 
 #### 核心主題：
@@ -4080,6 +4232,8 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
     <img src="https://img.youtube.com/vi/qdQ-2m-czIc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Repair Liver Damage After Alcohol? – Dr.Berg on Liver Cirrhosis
 
 # 文章整理：酒精性肝臟損傷的修復方案
 
@@ -4126,6 +4280,8 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
     <img src="https://img.youtube.com/vi/cV1dSHyYXnA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Excessive Thirst & Excess Urination – Dr.Berg
 
 ### 核心主題
 - 談論過度口渴和尿液增多的原因及其潛在健康問題。
@@ -4191,6 +4347,8 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
+# What is Vitamin B5 (Pantothenic Acid)? – Dr. Berg
+
 ### 核心主題  
 - 維生素B5（泛鈣醇）在身體能量代謝和應激激素合成中的重要性。  
 
@@ -4253,6 +4411,8 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
+# Why Women Lose Weight Slower Than Men? – Dr.Berg
+
 ### 文章要點整理
 
 #### 核心主題  
@@ -4305,6 +4465,8 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
     <img src="https://img.youtube.com/vi/YCGQp-ApeCc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Increasing Muscle Mass (myofibrillar hypertrophy) – Dr. Berg
 
 ### 核心主題  
 - **肌肉增長的核心原則**：影片強調了通過高重量、低次數的訓練來增加肌肉質量的基本原理。  
@@ -4368,6 +4530,8 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
+# Diabetes Type I and II & the Need For Excess Insulin – Dr.Berg
+
 ### 核心.theme
 - 本文探討了糖尿病患者在使用胰島素治療時遇到的問題，特別是當血糖水平持續偏高且飲食調整無效的情況。
 - 提出了一種輔助治療的方法，涉及一種名為「amalin」（或其模擬劑）的激素。
@@ -4428,6 +4592,8 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
+# How to Get Rid of Migraine with Ketogenic Diet? – Dr.Berg
+
 ### 文章重點整理
 
 ---
@@ -4485,6 +4651,8 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
     <img src="https://img.youtube.com/vi/ZRSIFbM8YCo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Menopausal Weight Loss Success with Dr.Berg & Lori Bigelow
 
 ### 文章重點整理
 
@@ -4560,6 +4728,8 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
+# Is Gluten-Free Okay on a Ketogenic Diet? – Dr. Berg on Gluten-Free Foods on a Keto Diet
+
 ### 核心主題：麸質-free飲食在生酮饮食中的健康考量
 
 #### 主要觀念：
@@ -4593,6 +4763,8 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
     <img src="https://img.youtube.com/vi/2jBcyu4OgFI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Before & After Intermittent Fasting & Keto Success – Dr.Berg Interview – Amit Nikharge
 
 ### 文章重點整理
 
@@ -4660,6 +4832,8 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
+# Can I do a Ketogenic Diet Without a Gallbladder? – Dr. Berg on Keto Diet Without Gallbladder
+
 ### 核心主題： 
 - 腎臟病患者能否在酮osis diet中成功進行酮症？ 
 
@@ -4709,6 +4883,8 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
+# Before & After Intermittent Fasting & Keto Success – Dr. Berg Interview – Aysha Islam
+
 ### 1. 核心主題 (Core Theme)
 - 談話圍繞著個人健康轉型的故事與經驗展開，強調通過飲食和生活方式的改變來實現健康的目標。
 
@@ -4752,6 +4928,8 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
     <img src="https://img.youtube.com/vi/rwpVDXZqq24/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What is Maltodextrin – One of the Worst Hidden Sugars – Dr. Berg on Maltodextrin Dangers
 
 ### 重点归纳与分析
 
@@ -4809,6 +4987,8 @@ Maltodextrin 虽然在改善食品质地方面发挥了作用，但其高升糖�
         alt="[Youtube]" width="200">
 </a>
 
+# Ketogenic Diet and Intermittent Fasting Before & After – Dr.Berg Interview: Salem Alrashed
+
 ### 文章整理：健康飲食與ダイエットの成功事例研究
 
 #### 1. 核心主題
@@ -4853,6 +5033,8 @@ Maltodextrin 虽然在改善食品质地方面发挥了作用，但其高升糖�
     <img src="https://img.youtube.com/vi/rjnQZfeqHBw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Intermittent Fasting WITHOUT doing Keto? Healthy Weight Loss – Dr. Berg
 
 ### 文章重點整理
 
@@ -4906,6 +5088,8 @@ Maltodextrin 虽然在改善食品质地方面发挥了作用，但其高升糖�
     <img src="https://img.youtube.com/vi/mp9Phm2zqiQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Roasted Brussel Sprouts Recipe – Dr. Berg
 
 ### 核心主題
 
@@ -4975,6 +5159,8 @@ Maltodextrin 虽然在改善食品质地方面发挥了作用，但其高升糖�
     <img src="https://img.youtube.com/vi/SYVvqY-evqQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Intermittent Fasting Turbo: Dr. Berg's Proven Tricks for Faster Weight Loss
 
 ### 文章整理與分析
 
@@ -5077,6 +5263,8 @@ Maltodextrin 虽然在改善食品质地方面发挥了作用，但其高升糖�
         alt="[Youtube]" width="200">
 </a>
 
+# Before & After Keto & Intermittent Fasting Success Stories – Dr.Berg Interviews Prenny Abraham
+
 ### 文章整理：酮症 diet 的成功案例與啟示
 
 #### 一、核心主題  
@@ -5134,6 +5322,8 @@ Maltodextrin 虽然在改善食品质地方面发挥了作用，但其高升糖�
         alt="[Youtube]" width="200">
 </a>
 
+# Keto and Heart Disease – Dr.Berg Answers Does Ketogenic Diet Increase or Decrease Heart Health?
+
 ### 文章重點整理
 
 #### 核心主題
@@ -5174,6 +5364,8 @@ Maltodextrin 虽然在改善食品质地方面发挥了作用，但其高升糖�
     <img src="https://img.youtube.com/vi/7ugn924mFCo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Low vs. High Cortisol Levels Symptoms Explained By Dr.Berg
 
 ### 小節歸納
 
@@ -5252,6 +5444,8 @@ Maltodextrin 虽然在改善食品质地方面发挥了作用，但其高升糖�
     <img src="https://img.youtube.com/vi/Vqdy0RxsCvw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Burning Calories vs. Burning FAT Calories? – Dr. Berg
 
 ### 核心主題
 - **差異分析**：運動時燃燒的「一般卡路里」與「脂肪卡路里」之間的差異。
@@ -5334,6 +5528,8 @@ Maltodextrin 虽然在改善食品质地方面发挥了作用，但其高升糖�
         alt="[Youtube]" width="200">
 </a>
 
+# Keto & Intermittent Fasting Before and After – Dr.Berg's Skype Interview with Allen Rogers
+
 ### 文章重點整理
 
 #### 核心主題
@@ -5408,6 +5604,8 @@ Maltodextrin 虽然在改善食品质地方面发挥了作用，但其高升糖�
         alt="[Youtube]" width="200">
 </a>
 
+# The Missing Nutrients Explained by Dr. Berg
+
 ### 小節整理：	trace minerals 的重要性與應用
 
 
@@ -5452,6 +5650,8 @@ Maltodextrin 虽然在改善食品质地方面发挥了作用，但其高升糖�
     <img src="https://img.youtube.com/vi/KGHHqefwtr0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Get Better Sleep and Energy Explained by Dr. Berg
 
 ### 核心主題
 - **睡眠健康的重要性**  

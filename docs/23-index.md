@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Amazing Skull Massage for a Deep Restful Sleep – Dr.Berg
+
 
 </details>
 
@@ -16,6 +18,8 @@
     <img src="https://img.youtube.com/vi/8ijINiL4H64/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is Bone Broth Good For You? – Dr.Berg's Opinion
 
 
 </details>
@@ -28,6 +32,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Importance Of The Intestinal Mucosal Barrier Explained By Dr.Berg
+
 
 </details>
 
@@ -38,6 +44,8 @@
     <img src="https://img.youtube.com/vi/ZHfzcBy52Hw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Are You Protein Deficient? – Dr.Berg on Symptoms and Treatment for Protein Deficiency
 
 
 </details>
@@ -50,6 +58,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What Is Hormesis & How It Works? – Dr.Berg
+
 
 </details>
 
@@ -60,6 +70,8 @@
     <img src="https://img.youtube.com/vi/j3T6fkDH8q4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Have To Die of Something, Might As Well Enjoy Yourself...RIGHT? – Dr.Berg
 
 
 </details>
@@ -72,6 +84,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Eat More Shellfish On Keto (Ketogenic Diet) – Dr.Berg
+
 
 </details>
 
@@ -82,6 +96,8 @@
     <img src="https://img.youtube.com/vi/ONisoHrkPw8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Amazing Benefits of Pine Oil
 
 
 </details>
@@ -94,6 +110,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Important Nutrient – Longevity Link – Nutritional Deficiency & DNA Damage
+
 
 </details>
 
@@ -104,6 +122,8 @@
     <img src="https://img.youtube.com/vi/JQXgAMkv1EE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Brazil Nuts May Not Be The Best Source of Selenium – Dr.Berg
 
 
 </details>
@@ -116,6 +136,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Diabetic And Pregnant? Risks Of Diabetic Pregnancy & Insulin Resistance – Dr.Berg
+
 
 </details>
 
@@ -126,6 +148,8 @@
     <img src="https://img.youtube.com/vi/shxB16oL3qo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Is Amyotrophic Lateral Sclerosis (ALS) Or Lou Gehrig's Disease? – Dr.Berg On ALS Symptoms
 
 
 </details>
@@ -138,6 +162,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Can Dairy Affect Your Hormones? Dairy Products & Hormonal Imbalance – Dr.Berg
+
 
 </details>
 
@@ -148,6 +174,8 @@
     <img src="https://img.youtube.com/vi/ZyrcYVH6qtU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Lesson From Spanish Flu Pandemic Of 1918 - Acute Respiratory Distress Syndrome (ARDS) – Dr.Berg
 
 
 </details>
@@ -160,6 +188,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What's Behind Thyroid Nodules? Thyroid Disorders & Selenium Deficiency – Dr.Berg
+
 
 </details>
 
@@ -170,6 +200,8 @@
     <img src="https://img.youtube.com/vi/b9G7wR6BRuE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Ketones Are Way More Than Just Energy Fuel – Dr.Berg On Benefits Of Ketones
 
 
 </details>
@@ -182,6 +214,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What Is Epigenetics: In Simple Terms - DNA Sequencing – Dr.Berg
+
 
 </details>
 
@@ -192,6 +226,8 @@
     <img src="https://img.youtube.com/vi/ybWe5N4vCYg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Use Epsom Salt For Toenail Fungus - Treatment For Toenail Fungus – Dr.Berg
 
 
 </details>
@@ -204,6 +240,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Toxic Effects Of Nutrients If Consumed In Excess - Hemochromatosis, Hypercalcemia – Dr.Berg
+
 
 </details>
 
@@ -214,6 +252,8 @@
     <img src="https://img.youtube.com/vi/fOIjbB27enE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Small Intestinal Bacterial Overgrowth(SIBO) Steals Your Nutrients – Dr.Berg
 
 
 </details>
@@ -226,6 +266,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Why has my weight loss plateaued? How do you break a weight loss plateau? – Dr.Berg
+
 
 </details>
 
@@ -236,6 +278,8 @@
     <img src="https://img.youtube.com/vi/mAv0SkpJdRA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is Cycling Bad for Tight Hip Flexors? – Dr.Berg
 
 
 </details>
@@ -248,6 +292,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Diabetic Gangrene: Symptoms, Causes & Treatment – Dr.Berg On Diabetic Foot
+
 
 </details>
 
@@ -258,6 +304,8 @@
     <img src="https://img.youtube.com/vi/d_igjDskDZI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What is Tonsils & Do You Need Them? – Dr.Berg
 
 
 </details>
@@ -270,6 +318,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How To Use MCT Oil To Improve Your Sleep – Dr.Berg On MCT Oil Benefits
+
 
 </details>
 
@@ -280,6 +330,8 @@
     <img src="https://img.youtube.com/vi/ZaVGvytCB9w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Olive Oil Benefits & Uses For  Anti-Aging Skin – Dr.Berg
 
 
 </details>
@@ -292,6 +344,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Worst Low Carb Foods/ Keto Foods To Avoid – Dr.Berg
+
 
 </details>
 
@@ -302,6 +356,8 @@
     <img src="https://img.youtube.com/vi/kiXbC0L-e4g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Does The Spleen Do? – Dr.Berg Explains Spleen Function
 
 
 </details>
@@ -314,6 +370,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Sneaky Hidden Ways To Make Sugar Look Healthier – Dr.Berg On Hidden Sugars
+
 
 </details>
 
@@ -324,6 +382,8 @@
     <img src="https://img.youtube.com/vi/JHJkdadTxDc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Should I Be Concerned With Goitrogenic Foods? – Dr.Berg On Hypothyroidism Diet
 
 
 </details>
@@ -336,6 +396,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How To Reverse Insulin Resistance? – Dr.Berg
+
 
 </details>
 
@@ -346,6 +408,8 @@
     <img src="https://img.youtube.com/vi/zLB9SaE5xMM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How Long Should I Do Keto & Intermittent Fasting? – Dr.Berg
 
 
 </details>
@@ -358,6 +422,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Keto Diet & Intermittent Fasting Made Me Depressed – Dr.Berg
+
 
 </details>
 
@@ -368,6 +434,8 @@
     <img src="https://img.youtube.com/vi/rvUthITs4oI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 90% of Hypothyroidism Is Hashimoto’s Thyroiditis | Dr. Berg
 
 
 </details>
@@ -380,6 +448,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Fish Is A Very Good Food For Brain Health And EyeSight – Dr.Berg
+
 
 </details>
 
@@ -390,6 +460,8 @@
     <img src="https://img.youtube.com/vi/a-4GsqS99zc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How Many Calories Should I Eat On Keto Diet? The Simple Formula – Dr.Berg
 
 
 </details>
@@ -402,6 +474,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What Is Autophagy & The Real Reason Why It Exists – Dr.Berg
+
 
 </details>
 
@@ -412,6 +486,8 @@
     <img src="https://img.youtube.com/vi/gsifREzstI4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Benefits Of Manganese & Foods High In Manganese – Dr.Berg
 
 
 </details>
@@ -424,6 +500,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Stop Carb Cravings – 3 Reasons Why You Crave Carbs & Are Not Satisfied – Dr.Berg
+
 
 </details>
 
@@ -434,6 +512,8 @@
     <img src="https://img.youtube.com/vi/hzC95NphH5w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Burning Throat Syndrome or Silent Acid Reflux Causes – Dr.Berg
 
 
 </details>
@@ -446,6 +526,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Different Benefits Between The Ketogenic Diet vs Intermittent Fasting – Dr.Berg
+
 
 </details>
 
@@ -456,6 +538,8 @@
     <img src="https://img.youtube.com/vi/h93KKivvIPM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why is There a Major Zinc Deficiency Problem in India and Pakistan? - Dr. Berg
 
 
 </details>
@@ -468,6 +552,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Cauliflower, The Ultimate Keto Food – Dr.Berg
+
 
 </details>
 
@@ -478,6 +564,8 @@
     <img src="https://img.youtube.com/vi/UOwC9ASVTAM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Respond To A Keto Diet Critic? – Dr. Berg
 
 
 </details>
@@ -490,6 +578,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What Healthy Desserts Can I Eat To Help Me Lose Weight? – Dr.Berg
+
 
 </details>
 
@@ -500,6 +590,8 @@
     <img src="https://img.youtube.com/vi/OxZBvKr-3x8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best Way To Know If You Have Low Stomach Acid – Dr.Berg
 
 
 </details>
@@ -512,6 +604,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# 7 Interesting Benefits of Sea Kelp Beyond the Thyroid – Dr.Berg
+
 
 </details>
 
@@ -522,6 +616,8 @@
     <img src="https://img.youtube.com/vi/OWnUiSuVgj8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best Vitamin for Tuberculosis (TB) – Dr.Berg On Vitamin D3 Benefits
 
 
 </details>
@@ -534,6 +630,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How Sweets and Grains Deplete Your Vitamins? – Dr.Berg On Effects Of Sugar
+
 
 </details>
 
@@ -544,6 +642,8 @@
     <img src="https://img.youtube.com/vi/wkPPUYOW8HE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Bad Food Combining Will Make You Old Quickly? – Dr.Berg
 
 
 </details>
@@ -556,6 +656,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Why You Should Opt For Keto Diet & What Are Its Benefits? – Dr.Berg
+
 
 </details>
 
@@ -566,6 +668,8 @@
     <img src="https://img.youtube.com/vi/uS8rt6VNr50/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Breathe Better / More Oxygen With Keto Diet? – Dr.Berg
 
 
 </details>
@@ -578,6 +682,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Should I Remove My Gallbladder If I have Stones? – Dr.Berg
+
 
 </details>
 
@@ -588,6 +694,8 @@
     <img src="https://img.youtube.com/vi/iHrP06tUQu8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Symptoms & Natural Remedies For Pre - Post Menopause Estrogen Deficiency – Dr.Berg
 
 
 </details>
@@ -600,6 +708,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# SULFUR: The Most Important Element in Detoxification – Dr.Berg
+
 
 </details>
 
@@ -610,6 +720,8 @@
     <img src="https://img.youtube.com/vi/krD-IQ_5lQk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr.Berg Interviews Dorian Greenow, CEO Of Keto Mojo
 
 
 </details>
@@ -622,6 +734,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Dr.Berg's Keto Health Summit 2019
+
 
 </details>
 
@@ -632,6 +746,8 @@
     <img src="https://img.youtube.com/vi/3Jvimhr_-wA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 7 Things Your Eyes Can Tell You About Your Blood Sugars – Dr.Berg
 
 
 </details>
@@ -644,6 +760,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What's Worse: White Sugar vs White Flour? – Dr.Berg
+
 
 </details>
 
@@ -654,6 +772,8 @@
     <img src="https://img.youtube.com/vi/A5Aj-LhHtmw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# If Rice Is So Bad, Why Are the Chinese So Thin? – Dr.Berg
 
 
 </details>
@@ -666,6 +786,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Why Women Live Longer than Men? – Dr.Berg
+
 
 </details>
 
@@ -676,6 +798,8 @@
     <img src="https://img.youtube.com/vi/534qYlimqBQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is it Safe to Eat Shellfish with Heavy Metals? – Dr.Berg
 
 
 </details>
@@ -688,6 +812,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# 8 Factors Which Determine If You Can Absorb Zinc or NOT? – Dr.Berg
+
 
 </details>
 
@@ -698,6 +824,8 @@
     <img src="https://img.youtube.com/vi/7cf33DCzuqk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why People Shrink With Age and How to Prevent Shrinking? – Dr .Berg
 
 
 </details>
@@ -710,6 +838,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Do Gallstones Come From High Cholesterol? – Dr.Berg
+
 
 </details>
 
@@ -720,6 +850,8 @@
     <img src="https://img.youtube.com/vi/oLgRvzIUKSo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Can Intermittent Fasting Change Your Nutrient Requirements? – Dr.Berg
 
 
 </details>
@@ -732,6 +864,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# If Sugar Is So Bad, Then Why Is Fruit Healthy? | Dr. Eric Berg
+
 
 </details>
 
@@ -742,6 +876,8 @@
     <img src="https://img.youtube.com/vi/DDMGm-Qd3OM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dairy, Menstrual Cycle & Female Hormone – High Estrogen Foods To Avoid During Menstruation – Dr.Berg
 
 
 </details>
@@ -754,6 +890,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Not Losing That Last 20 Pounds No Matter What You Do? Try This! – Dr.Berg
+
 
 </details>
 
@@ -764,6 +902,8 @@
     <img src="https://img.youtube.com/vi/bFpwPrnOQoY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Avoid Folic Acid and Take Folate (as Methylfolate) – Folic Acid vs. Folate | Dr.Berg
 
 
 </details>
@@ -776,6 +916,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How Much Grams Of Protein on Keto? – Dr.Berg CLARIFIES!
+
 
 </details>
 
@@ -786,6 +928,8 @@
     <img src="https://img.youtube.com/vi/xVG2K1zew4c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Fix Your Chapped Lips? – Dr.Berg On  Remedy For Chapped Lips
 
 
 </details>
@@ -798,6 +942,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Hidden Cause of Diabetes and Belly Fat – Hemochromatosis and Iron Food Fortification – Dr.Berg
+
 
 </details>
 
@@ -808,6 +954,8 @@
     <img src="https://img.youtube.com/vi/_5wFZPF7xhI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Causes Crusty Eyes/ Eye Boogers? – Dr.Berg
 
 
 </details>
@@ -820,6 +968,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Is Coffee Good for the Liver? - Dr. Berg
+
 
 </details>
 
@@ -830,6 +980,8 @@
     <img src="https://img.youtube.com/vi/pevprJsbDNY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Can I Do Intermittent Fasting & Keto If I Am On Heart Medication? – Dr.Berg
 
 
 </details>
@@ -842,6 +994,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How to Boost Pregnenolone for More Hormone Energy? – Dr.Berg
+
 
 </details>
 
@@ -852,6 +1006,8 @@
     <img src="https://img.youtube.com/vi/Ura4uZGYdm0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg’s Electrolyte Powder is Not a Sodium Electrolyte Replacement!!
 
 
 </details>
@@ -864,6 +1020,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What Causes Allergies? What are the Missing Nutrients in Allergies – Dr. Berg
+
 
 </details>
 
@@ -874,6 +1032,8 @@
     <img src="https://img.youtube.com/vi/l4_8vRmQVmA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Causes Sweaty / Dry Hands & How To Get Rid Of It? – Dr. Berg
 
 
 </details>
@@ -886,6 +1046,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Vitamin Deficiencies That Causes Dry or Oily Hair – Dr. Berg
+
 
 </details>
 
@@ -896,6 +1058,8 @@
     <img src="https://img.youtube.com/vi/m11PixK4G90/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# If Bread is so Bad, Why Are The French People So Thin? – Dr. Berg
 
 
 </details>
@@ -908,6 +1072,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Reactive Hypoglycemia: Not As Complex As You May Think! – Dr.Berg
+
 
 </details>
 
@@ -918,6 +1084,8 @@
     <img src="https://img.youtube.com/vi/dVGr_ywd_iI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Get Rid Of Cravings During Menstrual Cycle With ONE Nutrient? – Dr.Berg
 
 
 </details>
@@ -930,6 +1098,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Should I Reduce Carbs OR Sugar On Keto Diet? – Dr.Berg
+
 
 </details>
 
@@ -940,6 +1110,8 @@
     <img src="https://img.youtube.com/vi/bJ4S-0XJ1fA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Do You Get High Cholesterol After Intermittent Fasting? – Dr.Berg
 
 
 </details>
@@ -952,6 +1124,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# 7 Reasons Why You Get Up During the Night – Dr.Berg On Sleep Apnea
+
 
 </details>
 
@@ -962,6 +1136,8 @@
     <img src="https://img.youtube.com/vi/v-ApGpz9FD4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# No Thyroid (Thyroidectomy): What About Calcitonin? – Dr.Berg
 
 
 </details>
@@ -974,6 +1150,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Feeling Weak and Faint After 20 Hours of Intermittent Fasting? Do this! – Dr.Berg
+
 
 </details>
 
@@ -984,6 +1162,8 @@
     <img src="https://img.youtube.com/vi/dbxXJgnAaKw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is It Safe To Use Apple Cider Vinegar For Hair? – Dr. Berg
 
 
 </details>
@@ -996,6 +1176,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How High Blood Glucose Levels Destroys These 4 Organs – Dr.Berg
+
 
 </details>
 
@@ -1006,6 +1188,8 @@
     <img src="https://img.youtube.com/vi/SWO-ll6p_yg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 7 Reasons Why You Experience Metallic Taste in Mouth – Dr.Berg
 
 
 </details>
@@ -1018,6 +1202,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How To Burn More Calories Without Exercise OR Eating Less? – Dr.Berg
+
 
 </details>
 
@@ -1028,6 +1214,8 @@
     <img src="https://img.youtube.com/vi/L8bFLDWUs3k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Slow Down The Aging Process: 3 Life Hacks For Anti Aging – Dr.Berg
 
 
 </details>
@@ -1040,6 +1228,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Resolve Digestive / Stomach Problems On Keto Diet – Dr.Berg
+
 
 </details>
 
@@ -1050,6 +1240,8 @@
     <img src="https://img.youtube.com/vi/j91eC2z9Om4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Ultimate Fat Burning Guide: Dr. Berg's Webinar on Maximum Weight Loss
 
 
 </details>
@@ -1062,6 +1254,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What is Normal Fasting Blood Sugar Levels on Intermittent Fasting? – Dr.Berg
+
 
 </details>
 
@@ -1072,6 +1266,8 @@
     <img src="https://img.youtube.com/vi/B3cfLaWCufo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Get Faster Weight Loss Despite Having Hypothyroidism? – Dr.Berg's Advice
 
 
 </details>
@@ -1084,6 +1280,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Is It Okay To Eat Melon On Keto? – Dr.Berg
+
 
 </details>
 
@@ -1094,6 +1292,8 @@
     <img src="https://img.youtube.com/vi/ndyMstnfZxg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Keto Diet Is The Best For Menopausal Belly Fat? – Dr.Berg
 
 
 </details>

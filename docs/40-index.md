@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# 3 Interesting Benefits of Using Caffeine on Your Skin
+
 ### 核心主題
 - 探讨咖啡因在护肤中的 topical 应用及其潜在益处。
 
@@ -47,6 +49,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
     <img src="https://img.youtube.com/vi/2qGeR0TX2-I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Shocking Link Between Your Liver and Your Feet: 12 Things Your Feet Can Tell You
 
 ### 文章整理重點
 
@@ -112,6 +116,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
     <img src="https://img.youtube.com/vi/Hjlu-jIY9Ao/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# #1 Sign That You Overdosed on Vitamin D
 
 ### 核心主題：  
 - **維生素D中毒的風險與症狀**  
@@ -188,6 +194,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
         alt="[Youtube]" width="200">
 </a>
 
+# The REAL Reason You Have Erectile Dysfunction
+
 ### 核心主題
 - **性功能障礙（勃起功能障礙，Erectile Dysfunction, ED）**  
   文章探討了ED的原因、傳統治療方法及其可能的副作用，同時提出自然療法和生活方式調整作為替代或補充方案。
@@ -246,6 +254,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
         alt="[Youtube]" width="200">
 </a>
 
+# The 10 Causes of Inflammation
+
 ### 文章重點整理
 
 #### 核心主題
@@ -300,6 +310,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
     <img src="https://img.youtube.com/vi/86Yd1EEWMBA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The 10 WARNING Signs of Dementia
 
 ### 文章整理： Alzheimer's Disease: Insights and Management Strategies
 
@@ -364,6 +376,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
     <img src="https://img.youtube.com/vi/sbU_Pw2AegM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to STOP Acid Reflux Instantly
 
 ### 文章重點整理
 
@@ -448,6 +462,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
         alt="[Youtube]" width="200">
 </a>
 
+# DRINK ONE PER DAY for Hypertension (High Blood Pressure)
+
 ### 小結結構化整理
 
 #### 1. 核心主題  
@@ -497,6 +513,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
     <img src="https://img.youtube.com/vi/sB6CN3yzPws/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The REAL Cause of Alzheimer's Is NOT Amyloid Plaque in the Brain
 
 ### 文章重點整理
 
@@ -558,6 +576,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
         alt="[Youtube]" width="200">
 </a>
 
+# The Dark Side of the Birth Control Pill
+
 ### 小節歸納
 
 #### 核心主題
@@ -615,6 +635,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
         alt="[Youtube]" width="200">
 </a>
 
+# How to Stop Excessive Sweating (Hyperhidrosis)
+
 ### 核心主題
 - ** excessive sweating (hyperhidrosis) 的治療與管理**
 
@@ -665,6 +687,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
         alt="[Youtube]" width="200">
 </a>
 
+# The BEST 7 Foods to Clean Out Your Liver
+
 ### 文章整理：促進肝臟健康的飲食與補充策略
 
 #### 1. 核心主題
@@ -706,6 +730,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
     <img src="https://img.youtube.com/vi/nURgtkKxp84/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Bizarre Symptoms of Vitamin B1 Deficiency That You've Never Heard Before
 
 ### 小節歸納
 
@@ -757,6 +783,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
     <img src="https://img.youtube.com/vi/pfAFYQk-Ek0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# #1 Best Remedy for a UTI (Urinary Tract Infection)
 
 ### 核心主題
 - **尿路感染 (UTI)**：文章討論了尿路感染的症狀、成因、常見病原體（主要是大腸桿菌）、傳統治療方法及其局限性，並提出自然療法作為替代方案。
@@ -816,6 +844,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
     <img src="https://img.youtube.com/vi/xhcBuH6NZ0c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# You May NEVER Eat Cereal Again After Watching This
 
 ### 文章總結：早餐穀片的危害與改进建議
 
@@ -880,6 +910,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
     <img src="https://img.youtube.com/vi/H8rb4DdNmTk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 15 SKIN Signs that Reveal Your Liver is in Trouble
 
 ### 文章重点整理
 
@@ -956,6 +988,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
         alt="[Youtube]" width="200">
 </a>
 
+# Why Insomniacs ALWAYS Have Gut Problems
+
 ### 文章重點整理
 
 #### 核心主題：消化與睡眠之間的關聯
@@ -1009,6 +1043,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
         alt="[Youtube]" width="200">
 </a>
 
+# The BEST Homemade Toothpaste (Only 4 Ingredients)
+
 # 文章重點整理
 
 ## 核心主題
@@ -1057,6 +1093,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
     <img src="https://img.youtube.com/vi/Nay62P7jb8w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Take 2 TABLESPOONS before Bed for Perfect Blood Sugars
 
 ### 小節整理：Apple Cider Vinegar 在血糖管理中的作用
 
@@ -1113,6 +1151,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
     <img src="https://img.youtube.com/vi/ydz2rsKxse8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Drink COFFEE for a Fatty Liver and Gallstones
 
 ### 文章重點整理
 
@@ -1171,6 +1211,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
         alt="[Youtube]" width="200">
 </a>
 
+# The #1 Food for Toxic Kidneys
+
 ### 文章整理：肾脏健康与毒素清除的核心要点
 
 #### 1. 核心主题
@@ -1222,6 +1264,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
     <img src="https://img.youtube.com/vi/TI39SNPie_M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# THIS Is What Happens When You Run Out of Electrolytes (NOT GOOD)
 
 ### 核心主題：電解質缺乏对人体的影响及重要性
 
@@ -1281,6 +1325,8 @@ Topical 咖啡因在护肤方面具有显著的临时效果，尤其在减少 ce
         alt="[Youtube]" width="200">
 </a>
 
+# The REAL Reason You Should Eat Liver (MTHFR Gene Mutation)
+
 ### 文章重點整理
 
 #### 核心主題
@@ -1322,6 +1368,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
     <img src="https://img.youtube.com/vi/7hk81YuHZQg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why You Need to Eat 2 to 4 Eggs Daily
 
 ### 文章要點整理
 
@@ -1401,6 +1449,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
         alt="[Youtube]" width="200">
 </a>
 
+# You May NEVER Have Bloating Again after Watching This
+
 ### 調整問題和解決方案： bile salts 和消化健康.pdf
 </details>
 
@@ -1411,6 +1461,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
     <img src="https://img.youtube.com/vi/JNENcGfFHA8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The #1 Best Exercise Hack for Maximum Results
 
 ### 文章整理：運動訓練與恢復的核心原則
 
@@ -1482,6 +1534,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
         alt="[Youtube]" width="200">
 </a>
 
+# How to Put Your Autoimmune Disease In Remission
+
 # 文章重點整理
 
 ## 核心主題
@@ -1541,6 +1595,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
     <img src="https://img.youtube.com/vi/waau5CqXguQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 12 Extreme Belly Fat Weight Loss Tips
 
 ### 文章重點整理
 
@@ -1632,6 +1688,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
         alt="[Youtube]" width="200">
 </a>
 
+# STOP Drinking Tea Until You Watch This
+
 # 茶葉消費者的三大重要事項：健康影響與飲用建議
 
 ## 核心主題  
@@ -1703,6 +1761,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg Goes Back to Eating Breakfast?
+
 ### 文章重點整理
 
 #### 核心主題
@@ -1757,6 +1817,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
         alt="[Youtube]" width="200">
 </a>
 
+# Take ONE Teaspoon of This Spice to Fix Your Diabetes
+
 ### 核心主題：innamon（桂皮）在糖尿病管理中的應用及其健康益處
 
 #### 主要觀念：
@@ -1799,6 +1861,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
     <img src="https://img.youtube.com/vi/qWh_3Uv1h2A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# #1 Best Remedy for Depression
 
 ### 核心主題
 - 抑郁症的治療與管理
@@ -1870,6 +1934,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
         alt="[Youtube]" width="200">
 </a>
 
+# The REAL Reasons Why You Should Drink Distilled Water
+
 ### 小節歸納
 
 #### 1. 核心主題
@@ -1908,6 +1974,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg Hair Formula Supplement Commercial
+
 ### 小節歸納
 
 #### 核心主題  
@@ -1945,6 +2013,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
     <img src="https://img.youtube.com/vi/PTgBa-Fpmlc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The #1 Most Dangerous Food in the World
 
 ### 文章整理：法式炸薯條（French Fries）及其健康影響
 
@@ -1998,6 +2068,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
     <img src="https://img.youtube.com/vi/Mn0EWEulFzE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best Treatment for ALL Autoimmune Diseases
 
 ### 核心主題  
 - ** autoimmune diseases (自免疫疾病) 的治療挑戰及其與其他重大疾病的對比。  
@@ -2062,6 +2134,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
     <img src="https://img.youtube.com/vi/tst30qwXeeU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Dangers of Exercise (ex. Death)
 
 ### 文章整理：運動與心臟健康的綜合分析
 
@@ -2154,6 +2228,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
         alt="[Youtube]" width="200">
 </a>
 
+# The TOP Nutritional Deficiency Behind Constipation
+
 ### 文章整理：便秘與硫胺素（维生素B1）缺乏症
 
 #### 核心主題
@@ -2207,6 +2283,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
     <img src="https://img.youtube.com/vi/fnSp_JR5pZk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Here's Why You Lost Your BUTT but Gained a BELLY
 
 # 文章整理：尻肌萎縮的原因及解決方案
 
@@ -2293,6 +2371,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
         alt="[Youtube]" width="200">
 </a>
 
+# #1 Best Remedy Restore Eyelashes
+
 ### 小節整理
 
 #### 核心主題  
@@ -2339,6 +2419,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
     <img src="https://img.youtube.com/vi/ccc85ALEejw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# You May Never Eat CHICKEN Again After Watching This
 
 ### 核心主題：
 - 工廠化養殖雞隻對環境和健康的影響。
@@ -2428,6 +2510,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
         alt="[Youtube]" width="200">
 </a>
 
+# 7 Warning Signs of a SALT Deficiency
+
 ### 文章重點整理
 
 #### 核心主題
@@ -2510,6 +2594,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
         alt="[Youtube]" width="200">
 </a>
 
+# The Simplest Way to Balance the Omega-6 to Omega-3 Ratio
+
 ### 小節歸納
 
 #### 核心主題
@@ -2548,6 +2634,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
     <img src="https://img.youtube.com/vi/VLGDWYiBGgo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# You May Never Eat Fruit Again after Watching This
 
 ### 文章重點整理
 
@@ -2610,6 +2698,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
     <img src="https://img.youtube.com/vi/dkLbAthoVkg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# #1 Food to Boost Testosterone
 
 ### 文章整理解讀
 
@@ -2695,6 +2785,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
         alt="[Youtube]" width="200">
 </a>
 
+# 7 Surprising Causes of Autoimmune Diseases They Never Told You About
+
 ### 文章整理： autoimmune diseases, nutrition, and lifestyle interventions
 
 #### 核心主題  
@@ -2760,6 +2852,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
         alt="[Youtube]" width="200">
 </a>
 
+# 7 Ways to Boost Your ABSORPTION of Vitamin D
+
 ### 文章重點整理
 
 #### 核心主題  
@@ -2816,6 +2910,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
         alt="[Youtube]" width="200">
 </a>
 
+# The #1 Best Remedy for Hot Flashes and Menstrual Problems
+
 ### 文章整理：黑 cohosh 作為婦女健康補充劑的功效與機制
 
 #### 核心主題
@@ -2867,6 +2963,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
     <img src="https://img.youtube.com/vi/9iIOBA62FlQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The 11 Causes of Leg Pain Revealed
 
 ### 重點整理
 
@@ -2928,6 +3026,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
         alt="[Youtube]" width="200">
 </a>
 
+# The 9 IGNORED Risk Factors for Heart Attacks
+
 ### 文章整理：心臟病風險因素與健康策略
 
 ---
@@ -2983,6 +3083,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
         alt="[Youtube]" width="200">
 </a>
 
+# What If You Drank 2.2 Liters of Coca-Cola Every Day?
+
 ### 核心主題  
 - 墨西哥奇瓦瓦斯州（Chiapas）的 Coca-Cola 消費量及其健康影響。  
 - 糖分過量攝取對健康的危害，特別是肥胖、糖尿病和心血管疾病。  
@@ -3026,6 +3128,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
     <img src="https://img.youtube.com/vi/kPZannhi8a4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The BEST Way a Woman Can Rid Facial Hair
 
 ### 核心主題
 - **面部毛發過多 (Hirsutism)**：女性面部毛發過多的問題及其相關病因。
@@ -3100,6 +3204,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
         alt="[Youtube]" width="200">
 </a>
 
+# Extend Lifespan by Fixing Your Sleep (LIVE LONGER)
+
 ### **核心主題**
 - **睡眠健康的重要性**：睡眠不足或低質量睡眠會顯著增加全因死亡率（up to 12-fold increase in mortality risk with less than five hours of sleep）。
 - **生物鐘與健康**：人體的 circadian rhythms（生物鐘）在整體健康中起著關鍵作用，尤其是通過 melatonin（褪黑激素）來調節。
@@ -3152,6 +3258,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
     <img src="https://img.youtube.com/vi/P8M9KlUwHEU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best Homemade Remedy for a Cough and a Sore Throat
 
 ### 小節歸納
 
@@ -3215,6 +3323,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
     <img src="https://img.youtube.com/vi/ral-LmSNUmI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Stop a Heart Attack
 
 ### 文章整理：如何阻止心臟病發作及相關健康建議
 
@@ -3281,6 +3391,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
         alt="[Youtube]" width="200">
 </a>
 
+# Sugar's Effect on Brain Power (Attention, Focus & Concentration)
+
 ### 摘要：文章重點整理
 
 ---
@@ -3338,6 +3450,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
         alt="[Youtube]" width="200">
 </a>
 
+# 6 Things You Don't Know about Vitamins
+
 ### 小節整理
 
 #### 1. 核心主題：保健品 industry 的潛在問題
@@ -3374,6 +3488,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
     <img src="https://img.youtube.com/vi/ED34EEXVjYg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The 10 Causes of Exhaustion (Fatigue)
 
 ### 文章重點整理
 
@@ -3425,6 +3541,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
         alt="[Youtube]" width="200">
 </a>
 
+# The #1 Best Tip for Hair Growth and Thicker Hair - Dr. Berg
+
 ### 重点整理
 
 #### 核心主題
@@ -3466,6 +3584,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
     <img src="https://img.youtube.com/vi/FrKGI8eUjHc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The 7 Signs You're Not Getting Enough Vitamin C
 
 # 文章整理：維生素C的認識與健康管理
 
@@ -3522,6 +3642,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
     <img src="https://img.youtube.com/vi/RzEjFZmTv54/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Get Rid of Hyperpigmentation (Aging or Dark Spots)
 
 ### 文章重點整理
 
@@ -3588,6 +3710,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
     <img src="https://img.youtube.com/vi/VKb0HNov1Vw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 4 Mineral Deficiencies That LOWER Your IQ (Intelligence)
 
 ### 重點整理
 
@@ -3671,6 +3795,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
         alt="[Youtube]" width="200">
 </a>
 
+# THIS Herb is the #1 Absolute BEST for liver diseases (Fatty Liver, Hepatitis and Cirrhosis)
+
 ### 文章題目：** Milk Thistle：肝病的最佳草藥治療 **
 
 ---
@@ -3742,6 +3868,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
         alt="[Youtube]" width="200">
 </a>
 
+# Iodine Deficiency: Seven Reasons Why You Might Be Deficient in Iodine
+
 ## 文章整理：碘缺乏症的七大驚人原因及健康建議
 
 ### 核心主題
@@ -3799,6 +3927,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
         alt="[Youtube]" width="200">
 </a>
 
+# The Proven Benefits of Prolonged Fasting: 7 Critical Things You Need to Know
+
 ### 文章整理：間歇性斷食與長期禁食的要點解析
 
 ---
@@ -3854,6 +3984,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
     <img src="https://img.youtube.com/vi/v8R0vInlGgk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 12 Reasons Why You Should Eat SATURATED Animal Fat
 
 ### 文章整理：反.saturation 脂肪的益處與低脂飲食的問題
 
@@ -3923,6 +4055,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
     <img src="https://img.youtube.com/vi/LNgId7Eqpek/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Ultimate Hormone Balancing Solution: The #1 Absolute Best Way to Balance Your Hormones
 
 ### 文章整理：間歇性斷食對人體影響的綜述
 
@@ -3994,6 +4128,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
         alt="[Youtube]" width="200">
 </a>
 
+# 9 Foods that Contain ALL Of Your Fat-Soluble Vitamins
+
 ### 文章整理與分析
 
 #### 核心主題
@@ -4064,6 +4200,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
         alt="[Youtube]" width="200">
 </a>
 
+# THIS is What REALLY RUINS Your Metabolism
+
 ### 文章整理與分析
 
 #### 核心主題
@@ -4102,6 +4240,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
     <img src="https://img.youtube.com/vi/kbgueP_CdPw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 7 Ways to BOOST Human Growth Hormone (HGH) - Dr. Berg
 
 ### 小節歸納與整理
 
@@ -4150,6 +4290,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
     <img src="https://img.youtube.com/vi/J_i7sNQTFPE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The REAL Reason Why Your Arteries are Calcifying and Turning into Bone
 
 ### 文章重點整理
 
@@ -4212,6 +4354,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
     <img src="https://img.youtube.com/vi/yCeJ7fPsGT4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Biggest CRAVING in the World (SURPRISING)
 
 ### 核心主題：全球最普遍的 cravings 及其對身心的影響
 
@@ -4314,6 +4458,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
         alt="[Youtube]" width="200">
 </a>
 
+# The Shocking Fact about Your Food - Dr. Berg
+
 ### 核心主題
 - **微生物在土壤健康中的作用**：文章強調了微生物在土壤生態系統中的重要性，特別是在農業和園藝中的應用。
 - **快速土壤檢測方法**：介紹了一種便携式、即用型的土壤微生物檢測工具，可幫助用戶了解土壤健康狀況。
@@ -4388,6 +4534,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
         alt="[Youtube]" width="200">
 </a>
 
+# The Top Mineral Deficiency in Rotator Cuff Repair / Pain / Tears
+
 ### 文章整理：旋後肌群受傷與營養 deficiencies 的影響及恢復策略
 
 ---
@@ -4459,6 +4607,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
         alt="[Youtube]" width="200">
 </a>
 
+# What Would Happen if You Only Ate Eggs for 30 Days
+
 # 文章重點整理
 
 ## 核心主題
@@ -4501,6 +4651,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
     <img src="https://img.youtube.com/vi/__DKt2uEOUM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best Trick for Clear Skin (Acne, Aging, Wrinkles, Liver Spots)
 
 ### 文章整理： fasting and skin health
 
@@ -4591,6 +4743,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
         alt="[Youtube]" width="200">
 </a>
 
+# The BEST Way to Release a Tight Psoas Muscle for Low Back Pain and Poor Posture
+
 ### 核心主題
 - **Psoas 肌肉的重要性**：Psoas 是連接上半身與下半身的唯一肌肉，對於姿勢控制、移動和穩定性具有重要作用。
 
@@ -4644,6 +4798,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
         alt="[Youtube]" width="200">
 </a>
 
+# The 7 Warning Signs of a Vitamin D Deficiency  - Dr. Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -4695,6 +4851,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
         alt="[Youtube]" width="200">
 </a>
 
+# THIS is the Most Powerful ADAPTOGEN in The World - How it Works and Why it's THE BEST
+
 ### 小節歸納
 
 #### 1. 核心主題：
@@ -4739,6 +4897,8 @@ MTHFR基因突變是一種常見的遺傳問題，影響葉酸和B12的代謝。
     <img src="https://img.youtube.com/vi/nhMr8NXB3y8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Serious SSRI (Selective Serotonin Reuptake Inhibitor) Side Effects: Sexual Side Effects
 
 ### 文章重點整理
 
@@ -4833,6 +4993,8 @@ Glyphosate 的廣泛使用和現代飲食結構的問題共同導致了全球性
         alt="[Youtube]" width="200">
 </a>
 
+# The DEADLIEST Bacteria in the World - Dr. Berg
+
 ### 小節歸納
 
 #### 1. 核心主題：全球最致命的 bacterial 疾病  
@@ -4880,6 +5042,8 @@ Glyphosate 的廣泛使用和現代飲食結構的問題共同導致了全球性
         alt="[Youtube]" width="200">
 </a>
 
+# The REAL Cause and Cure for DANDRUFF
+
 ### 文章整理：头皮屑问题及其解决方案
 
 #### 1. 核心主題
@@ -4924,6 +5088,8 @@ Glyphosate 的廣泛使用和現代飲食結構的問題共同導致了全球性
         alt="[Youtube]" width="200">
 </a>
 
+# HYPOTHYROIDISM: Don’t Ignore These 7 Early Warning Signs
+
 ### 核心主題：甲状腺功能異常的原因與解決方案
 
 #### 主要觀念：
@@ -4967,6 +5133,8 @@ Glyphosate 的廣泛使用和現代飲食結構的問題共同導致了全球性
         alt="[Youtube]" width="200">
 </a>
 
+# The Vitamin Deficiency behind TIRED and STRAINED EYES
+
 ### 小節歸納
 
 #### 1. 核心主題
@@ -5009,6 +5177,8 @@ Glyphosate 的廣泛使用和現代飲食結構的問題共同導致了全球性
     <img src="https://img.youtube.com/vi/x9DB9ICue-Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# You DON'T Have a Slow Metabolism, It's THIS Instead...
 
 ### 核心主題
 - **胰島素抗性**：文章主要探討了胰島素抗性作為代謝問題的核心原因，強調其對體重管理和血糖控制的重要性。
@@ -5057,6 +5227,8 @@ Glyphosate 的廣泛使用和現代飲食結構的問題共同導致了全球性
         alt="[Youtube]" width="200">
 </a>
 
+# The #1 Food That STOPS Your Immune System from Working - Dr. Berg
+
 ## 文章重點整理
 
 ### 核心主題  
@@ -5093,6 +5265,8 @@ Glyphosate 的廣泛使用和現代飲食結構的問題共同導致了全球性
     <img src="https://img.youtube.com/vi/leepeUyaMG8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 7 Warning Signs of Cirrhosis (End-Stage Liver Disease) - Dr. Berg
 
 ### 文章整理：肝臟纖維化的病因、影響及自然療法
 
@@ -5162,6 +5336,8 @@ Glyphosate 的廣泛使用和現代飲食結構的問題共同導致了全球性
         alt="[Youtube]" width="200">
 </a>
 
+# Venous Insufficiency: This is the Most Effective and Safest Remedy for Varicose Veins
+
 ### 核心主題：下肢靜脈問題的治療與預防
 
 #### 主要觀念：
@@ -5213,6 +5389,8 @@ Glyphosate 的廣泛使用和現代飲食結構的問題共同導致了全球性
     <img src="https://img.youtube.com/vi/U67eCv5Hd8k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# DRINK 1 CUP PER DAY to Prevent Heart Attacks and a Stroke (GARLIC WATER) - Dr. Berg
 
 ### 文章重點整理
 
@@ -5268,6 +5446,8 @@ Glyphosate 的廣泛使用和現代飲食結構的問題共同導致了全球性
     <img src="https://img.youtube.com/vi/O4vu_cY43QU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The REAL Cause of Abdominal Pain and Bloating - Dr. Berg
 
 ### 文章重點整理
 
@@ -5372,6 +5552,8 @@ Glyphosate 的廣泛使用和現代飲食結構的問題共同導致了全球性
         alt="[Youtube]" width="200">
 </a>
 
+# The BEST Vitamin to Cleanse a Fatty Liver - Dr. Berg
+
 ### 核心主題：非酒精性脂肪肝病與膽鹼 deficiency 的關聯
 
 #### 主要觀念：
@@ -5422,6 +5604,8 @@ Glyphosate 的廣泛使用和現代飲食結構的問題共同導致了全球性
     <img src="https://img.youtube.com/vi/jBx5hJRzFFQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How Worry and Stress Affects You at the Cellular Level
 
 ### 文章整理：壓力、焦慮與免疫系統的功能影響及調適策略
 
@@ -5485,6 +5669,8 @@ Glyphosate 的廣泛使用和現代飲食結構的問題共同導致了全球性
         alt="[Youtube]" width="200">
 </a>
 
+# The Vitamin Deficiency that Mimics Dementia - Dr. Berg
+
 ### 1. 核心主題  
 - **核心主題**：探索導致類似癡呆症狀的最主要維生素缺乏問題，及其對腦功能的影響。
 
@@ -5544,6 +5730,8 @@ Glyphosate 的廣泛使用和現代飲食結構的問題共同導致了全球性
     <img src="https://img.youtube.com/vi/X0I7g3vcMbw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The BEST Homemade Moisturizer for Dry Skin
 
 ### 文章整理：自制面部保湿霜——针对干性皮肤的解决方案
 
@@ -5633,6 +5821,8 @@ Glyphosate 的廣泛使用和現代飲食結構的問題共同導致了全球性
         alt="[Youtube]" width="200">
 </a>
 
+# The Health Benefits of Pizza
+
 ### 關鍵點整理：健康飲食中的比薩選擇與メリット
 
 #### 核心主題  
@@ -5686,6 +5876,8 @@ Glyphosate 的廣泛使用和現代飲食結構的問題共同導致了全球性
     <img src="https://img.youtube.com/vi/l6XzlAtW6cA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The FASTEST TMJ Relief with this Do-It-Yourself Technique
 
 ### 核心主題：颞下颌关节（TMJ）疼痛的缓解与治疗
 
@@ -5741,6 +5933,8 @@ Glyphosate 的廣泛使用和現代飲食結構的問題共同導致了全球性
     <img src="https://img.youtube.com/vi/QcgChU4RpxM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Soy Is One of the Healthiest Foods You Can Eat...Right?
 
 ### 核心主題：
 - 素食及其在現代飲食中的 prevalency  
@@ -5813,6 +6007,8 @@ Glyphosate 的廣泛使用和現代飲食結構的問題共同導致了全球性
         alt="[Youtube]" width="200">
 </a>
 
+# STOP Using Cold Therapy for Acute Injuries
+
 ===== 文章整理 =====
 
 ### 核心主題
@@ -5853,6 +6049,8 @@ Glyphosate 的廣泛使用和現代飲食結構的問題共同導致了全球性
     <img src="https://img.youtube.com/vi/WtNfraQ6Se8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Walnuts Are the ONLY Nut with Omega 3 Fats
 
 ### 核心主題：核桃的ALA成分及其健康益處與食用挑戰
 
@@ -5913,6 +6111,8 @@ ALA在核桃中的存在提供了多種健康益處，但其轉化率限制了�
     <img src="https://img.youtube.com/vi/-MjaUhSOf94/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The REAL Cause of Your Breathing Problems (Snoring and Sleep Apnea)
 
 ### 小節整理
 

@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What Is Acrylamide? – Dr. Berg
+
 ### 核心主題  
 - 本文討論了丙烯酰胺（acrylamide）的危害及其在食物中的普遍存在。
 
@@ -68,6 +70,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Vitamin B1: Synthetic vs. Natural – Dr. Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -120,6 +124,8 @@
     <img src="https://img.youtube.com/vi/osZbqfEPB2w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 7 Keto Diet Myths & Lies – Dr. Berg
 
 ### 七大生酮飲食迷思與真相
 
@@ -189,6 +195,8 @@
     <img src="https://img.youtube.com/vi/lCvUkrVXyRI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Understanding Carbs vs. Sugar on Keto – Dr. Berg
 
 ### 文章重點整理
 
@@ -271,6 +279,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What Is A2 Milk? – Dr. Berg
+
 ### 文章主題：牛奶蛋白質的種類及其健康影響
 
 #### 核心主題：
@@ -309,6 +319,8 @@
     <img src="https://img.youtube.com/vi/_tls7EWnsRE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Side Effects of Purified Bile Salts – Dr. Berg
 
 # 文章整理：純化膽汁鹽的副作用與使用建議
 
@@ -368,6 +380,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Why Do You Need Salt For Better Protein Digestion? – Dr. Berg
+
 ### 小節歸納
 
 #### 核心主題
@@ -415,6 +429,8 @@
     <img src="https://img.youtube.com/vi/KrnFpnakepc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# MyPlate vs. Healthy Ketosis – Dr. Berg
 
 ### 核心主題
 - 比較美國農部（USDA）飲食指南（choosemyplate.gov）與健康酮osis饮食的核心差異。
@@ -470,6 +486,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Diabetic Stomach Explained – Dr. Berg
+
 ### 文章整理： diabetic gastropathy 的核心主題與分析
 
 #### 1. 核心主題：
@@ -508,6 +526,8 @@
     <img src="https://img.youtube.com/vi/ugJR4LxZzYY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How Can Eating Fat LOWER Your Cholesterol? – Dr. Berg
 
 ### 文章重點整理
 
@@ -550,6 +570,8 @@
     <img src="https://img.youtube.com/vi/d41ttKFOuKo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Benefits of Vitamin B1 – Numbness & Tingling In Hands & Feet – Dr. Berg
 
 ### 文章重點整理
 
@@ -607,6 +629,8 @@ This article explores the differences between numbness in hands or feet versus t
     <img src="https://img.youtube.com/vi/o6bkXRXE0PQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Menstrual Cycle Cravings and Nutrient Deficiencies  – Dr. Berg
 
 ### 小節歸納與重點整理
 
@@ -695,6 +719,8 @@ This article explores the differences between numbness in hands or feet versus t
         alt="[Youtube]" width="200">
 </a>
 
+# Quick Fix For Hiatal Hernia – Dr. Berg
+
 # 文章結構化整理：疝氣（Hiatal Hernia）的家庭治療法
 
 ## 核心主題
@@ -751,6 +777,8 @@ This article explores the differences between numbness in hands or feet versus t
         alt="[Youtube]" width="200">
 </a>
 
+# Our Daily Nutrient Requirements (RDAs) Are Too Low – Dr. Berg
+
 ### **文章重點整理**
 
 #### **核心主題**
@@ -802,6 +830,8 @@ A: RDA（建議膳食攝取量）是指防止 deficiency diseases 的最低每�
         alt="[Youtube]" width="200">
 </a>
 
+# Wrinkled Pruney Fingers – Causes & Remedy – Dr. Berg
+
 
 </details>
 
@@ -812,6 +842,8 @@ A: RDA（建議膳食攝取量）是指防止 deficiency diseases 的最低每�
     <img src="https://img.youtube.com/vi/7En2hOOR5HY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# I Can’t Do Keto Due to My Intense (Extreme) Cravings – Dr. Berg
 
 ### 核心主題  
 - 探讨如何通过低碳水化合物饮食和酮症状态来消除 cravings（渴望），并实现长期血糖稳定。
@@ -890,6 +922,8 @@ A: RDA（建議膳食攝取量）是指防止 deficiency diseases 的最低每�
         alt="[Youtube]" width="200">
 </a>
 
+# What Are The Main Causes of Vitamin B1 Deficiency (Thiamine)? – Dr. Berg
+
 ### 文章整理：維生素B1缺乏的原因及影響
 
 #### 核心主題
@@ -946,6 +980,8 @@ A: RDA（建議膳食攝取量）是指防止 deficiency diseases 的最低每�
         alt="[Youtube]" width="200">
 </a>
 
+# What Is Gluconeogenesis? – Dr. Berg
+
 ### 核心主題
 - **Gluconeogenesis**: 腺苷酸從非碳水化合物來源（如蛋白質和某些脂類）生成葡萄糖的生化途徑。
 
@@ -983,6 +1019,8 @@ A: RDA（建議膳食攝取量）是指防止 deficiency diseases 的最低每�
     <img src="https://img.youtube.com/vi/OX2tmzcA9GY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Hashimoto's Disease (Hypothyroid) and Keto (Ketogenic Diet) – Dr. Berg
 
 ### 核心主題  
 - **自體免疫疾病：橋本氏病（Hashimoto's）**  
@@ -1056,6 +1094,8 @@ A: RDA（建議膳食攝取量）是指防止 deficiency diseases 的最低每�
         alt="[Youtube]" width="200">
 </a>
 
+# Top 11 Health Benefits of CELERY – Dr. Berg
+
 ### 小結與整理
 
 #### 核心主題
@@ -1103,6 +1143,8 @@ A: RDA（建議膳食攝取量）是指防止 deficiency diseases 的最低每�
         alt="[Youtube]" width="200">
 </a>
 
+# Intense Withdrawal Symptoms & Headaches on Keto Adaptation – Dr. Berg's Keto Tips
+
 ### 小節整理：文章重點歸納
 
 #### 1. 核心主題  
@@ -1138,6 +1180,8 @@ A: RDA（建議膳食攝取量）是指防止 deficiency diseases 的最低每�
     <img src="https://img.youtube.com/vi/p9Wyya44MD8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Causes of Ammonia Body Odor on Keto Diet – Dr. Berg
 
 ### 文章整理：氨臭味的成因及健康影響
 
@@ -1200,6 +1244,8 @@ A: RDA（建議膳食攝取量）是指防止 deficiency diseases 的最低每�
         alt="[Youtube]" width="200">
 </a>
 
+# Fibromyalgia on the Right Side of Your Body – Dr. Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -1250,6 +1296,8 @@ A: RDA（建議膳食攝取量）是指防止 deficiency diseases 的最低每�
     <img src="https://img.youtube.com/vi/_j3eNTaDT_I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Symptoms Evaluation – Dr. Berg's Skype Session with Tara Shimer (Part 2)
 
 ### 文章整理： mould健康影響與解決方案
 
@@ -1332,6 +1380,8 @@ A: RDA（建議膳食攝取量）是指防止 deficiency diseases 的最低每�
         alt="[Youtube]" width="200">
 </a>
 
+# Insulin Resistance of the Brain – Dr. Berg
+
 ### 文章整理：腦部胰島素抵抗的核心問題與解決方案
 
 #### 1. 核心主題
@@ -1384,6 +1434,8 @@ A: RDA（建議膳食攝取量）是指防止 deficiency diseases 的最低每�
     <img src="https://img.youtube.com/vi/NKx10Yq-15M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Molybdenum and Its Benefits – Dr. Berg
 
 ### 核心主題  
 - 探讨微量元素**錳（Manganum）**的功能及其对人体健康的重要性。
@@ -1447,6 +1499,8 @@ A: RDA（建議膳食攝取量）是指防止 deficiency diseases 的最低每�
         alt="[Youtube]" width="200">
 </a>
 
+# Which Fermented Foods Can You Eat on Ketogenic Diet? – Dr. Berg
+
 ### 正文：
 
 #### 核心主題：
@@ -1506,6 +1560,8 @@ A: RDA（建議膳食攝取量）是指防止 deficiency diseases 的最低每�
         alt="[Youtube]" width="200">
 </a>
 
+# Why Does My Breath Smell Like Acetone on Keto Diet? – Dr. Berg
+
 
 </details>
 
@@ -1516,6 +1572,8 @@ A: RDA（建議膳食攝取量）是指防止 deficiency diseases 的最低每�
     <img src="https://img.youtube.com/vi/SSHmvOL3U44/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Feeling Stuffed But Then Hungry 2hrs After Eating On Intermittent Fasting Plan? – Dr. Berg
 
 ### 核心主題  
 本文主要探討了快速飽腹後又迅速感到飢餓的原因及其對身體健康的影响，並提出了解決此問題的方法和建議。
@@ -1564,6 +1622,8 @@ A: RDA（建議膳食攝取量）是指防止 deficiency diseases 的最低每�
     <img src="https://img.youtube.com/vi/wkI8lg_kWHc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 8 Emotional Eating Tips – Dr. Berg
 
 ### 文章整理：八個情緒性飲食的解決策略
 
@@ -1634,6 +1694,8 @@ A: RDA（建議膳食攝取量）是指防止 deficiency diseases 的最低每�
         alt="[Youtube]" width="200">
 </a>
 
+# Are You Calcium Deficient? – Dr. Berg
+
 ### 正式英文標題：
 Calcium Deficiency: Causes, Symptoms, and Management Strategies  
 
@@ -1692,6 +1754,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
     <img src="https://img.youtube.com/vi/6vn7-OjX4Kc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Estrogen, Mood Swings & Menopause Connection – Dr. Berg
 
 # 文章重點整理：.estrogen, Menopause, and Hormonal Balance
 
@@ -1755,6 +1819,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
+# Is Intermittent Fasting Safe for Your Adrenals? – Dr. Berg
+
 ### 1. 核心主題  
 - 探讨间歇性禁食（intermittent fasting）对肾上腺（adrenals）的影响，特别是其是否会导致皮质醇（cortisol）水平升高从而增加肾上腺负担。
 
@@ -1799,6 +1865,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
     <img src="https://img.youtube.com/vi/g6E8KigSZeU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Taking Apple Cider Vinegar For Iron Deficiency Anemia – Dr. Berg
 
 ### 小節結構化整理
 
@@ -1857,6 +1925,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
     <img src="https://img.youtube.com/vi/Z-HB_Xt8dUw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Blood Type Diet vs. Body Type Diet – Dr. Berg
 
 ```markdown
 # 文意整理
@@ -1921,6 +1991,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
     <img src="https://img.youtube.com/vi/DtXFs0GmbEU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Prevent Afternoon Blood Sugar Crash – Dr. Berg
 
 ### 核心主題：如何防止下午血糖崩潰
 
@@ -1998,6 +2070,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
+# The Best Way to Determine Adrenal Fatigue Is How You Feel After Exercise – Dr. Berg
+
 
 </details>
 
@@ -2008,6 +2082,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
     <img src="https://img.youtube.com/vi/2hSCdJ2m7EI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Did You Gain Weight Eating Salad? – Dr. Berg
 
 ### 核心主題
 - 探讨仅通过摄入大量沙拉导致体重增加的可能性及其潜在机制。
@@ -2053,6 +2129,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
     <img src="https://img.youtube.com/vi/Qe9QE2sUYY8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Grass-Fed vs. Grass-Finished Beef – Dr. Berg
 
 ### 核心主題  
 - 探讨草饲牛肉与草喂养至屠宰牛肉（grass-fed 和 grass-finished）的区别。
@@ -2112,6 +2190,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
     <img src="https://img.youtube.com/vi/ZKpiH7R8HS8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Stop Snacking Between Meals & Do Intermittent Fasting – Dr. Berg
 
 ### 文章重點整理
 
@@ -2215,6 +2295,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
+# Losing Hair But Getting Facial Hair Growth? – Dr. Berg
+
 # 文章重點整理：多囊卵巢症候群（Polycystic Ovarian Syndrome, PCOS）的成因與管理策略
 
 ## 核心主題
@@ -2258,6 +2340,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
     <img src="https://img.youtube.com/vi/3whucfwWndE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is Bulletproof Coffee Slowing Your Weight Loss? – Dr. Berg
 
 ### 核心主題  
 - 探讨_bulletproof coffee_对体重管理的影响及其与酮饮食计划的关系。  
@@ -2311,6 +2395,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
     <img src="https://img.youtube.com/vi/BnBbVgIrg_c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Do I Need Multivitamins on Intermittent Fasting? – Dr. Berg
 
 ### 文章重點整理
 
@@ -2383,6 +2469,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
+# Can Antibiotics Cause Weight Gain? – Dr. Berg
+
 ### 小節化整理
 
 #### 核心主題  
@@ -2447,6 +2535,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
+# Should I Do the Ketogenic Diet & Intermittent Fasting If I am Underweight? – Dr. Berg
+
 ### 小節歸納
 
 #### 1. 核心主題  
@@ -2508,6 +2598,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
+# Benefits of Boron, One of the Most Deficient Trace Minerals – Dr. Berg
+
 ### 小結結構
 
 #### 核心主題
@@ -2557,6 +2649,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
     <img src="https://img.youtube.com/vi/qPPIGSNcHT0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Enhance Cognitive Function on Healthy Ketosis – Dr. Berg
 
 ### 核心主題：酮症（Keto Diet）和斷食對認知功能及情緒的影響
 
@@ -2619,6 +2713,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
+# Is Lactic Acid Making You Sore After Workout? – Dr. Berg
+
 
 </details>
 
@@ -2629,6 +2725,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
     <img src="https://img.youtube.com/vi/cKLmorBIOVE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Choline: One of The Best Vitamins for Fatty Liver – Dr. Berg
 
 ### 核心主題
 - **Keto Rash与Fatty Liver**  
@@ -2710,6 +2808,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
+# EMFs (Electromagnetic Fields): Cell Phone Radiation Effects on Human Body – Dr. Berg
+
 ### 核心主題  
 - **電磁場（EMF）的危害**：文章主要探討了電磁場對人體健康的潛在影響，特別是長時間暴露於這些場所可能引起的健康問題。  
 
@@ -2742,6 +2842,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
     <img src="https://img.youtube.com/vi/yhf1JAqdeXI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The 5th Body Type – Dr. Berg
 
 ### 文章重點整理
 
@@ -2832,6 +2934,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
+# Benefits of Sunlight: Reduce Stress & Lose Belly Fat – Dr. Berg
+
 ### 核心主題  
 - 探讨维生素D在降低压力和促进体重管理中的作用。
 
@@ -2888,6 +2992,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
+# Side Effects of Apple Cider Vinegar (ACV) and Kombucha Tea – Dr. Berg
+
 ### 小節歸納
 
 #### 核心主題
@@ -2940,6 +3046,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
+# The Main Causes of High Liver Enzymes & Non-Alcoholic Fatty Liver Disease – Dr. Berg
+
 ### 小節歸納
 
 #### 1. 核心主題
@@ -2989,6 +3097,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
+# What is Epstein Barr Virus (EBV)? - Symptoms & Treatment – Dr. Berg
+
 ### 文章整理與分析
 
 #### 核心主題
@@ -3037,6 +3147,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
+# Will The Paleo Diet Plan Put Me Into Ketosis? – Dr. Berg
+
 ### 核心主題  
 - 膳食飲⻝計劃對酮症的作用：Paleo diet vs. ketogenic diet.
 
@@ -3072,6 +3184,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
+# Will Lemon Water Kick You Out of Ketosis? – Dr. Berg
+
 ### 核心主題：檸檬水對酮osis的影響及其健康益處
 
 ### 主要觀念：
@@ -3101,6 +3215,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
     <img src="https://img.youtube.com/vi/sEEH_QLoHJM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Will Intermittent Fasting (One Meal a Day) Slow Metabolism? – Dr. Berg
 
 ### 核心主題
 - 探讨间歇性禁食（Intermittent Fasting）与新陈代谢之间的关系。
@@ -3136,6 +3252,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
     <img src="https://img.youtube.com/vi/R_O0tGOJDjk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Effects of Stevia on Ketosis – Dr. Berg
 
 ### 核心主題  
 - 研究甜菊糖（Stevia）對酮osis的影響  
@@ -3191,6 +3309,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg's Webinar On Stress Relieving: Easily Get Rid of Stress & Sleep Like a Baby
+
 ### 文章重點整理
 
 #### 1. 核心主題：壓力管理和身體放松技術  
@@ -3237,6 +3357,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
+# How To Determine & Get Rid of Keto Side Effects? – Dr. Berg
+
 ### 核心主題：酮體副作用的決定因素及預防策略
 
 ### 主要觀念：
@@ -3267,6 +3389,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
     <img src="https://img.youtube.com/vi/W0idEcNNvcg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# I Have No Appetite, Should I Eat? – Dr. Berg
 
 # 文章整理：食欲低下的健康管理
 
@@ -3321,6 +3445,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
+# Why Ketosis is Hard Wired Into Our Genetics – Dr. Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -3370,6 +3496,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg's New Keto Coach Certification
+
 
 </details>
 
@@ -3380,6 +3508,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
     <img src="https://img.youtube.com/vi/4W8gASMBz_I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Does Intermittent Fasting Causes Gallstones? – Dr. Berg
 
 ### 小節歸納
 
@@ -3426,6 +3556,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
+# Why Am I Not Losing Weight On Ketosis? – Dr. Berg
+
 ### 核心主題：酮症（Ketosis）與體重管理
 
 #### 主要觀念：
@@ -3457,6 +3589,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
     <img src="https://img.youtube.com/vi/EK-ykIPXWEE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Do You Feel Lightheaded On Keto Diet & Intermittent Fasting? – Dr. Berg
 
 ### 核心主題：酮egenic diet（生酮飲食）配合斷食計劃期間的輕頭暈症狀與解決方法
 
@@ -3490,6 +3624,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
     <img src="https://img.youtube.com/vi/qEMRttnQPpg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Will Eating Fungus (Mushrooms) Give You Fungus? – Dr. Berg
 
 ### 文章整理：蘑菇的營養價值與健康益處
 
@@ -3545,6 +3681,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
+# Keto & Intermittent Fasting Reduces Need For Sleep – Dr. Berg
+
 ### 小節一：核心主題  
 - 探讨酮飲食（keto diet）和間歇性禁食（intermittent fasting）對睡眠需求的影響。  
 
@@ -3577,6 +3715,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
     <img src="https://img.youtube.com/vi/XjQdUB-4QWs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Renew & Protect Your Brain Cells | Brain Derived Neurotrophic Factor – Dr. Berg
 
 ### 文章整理：再生神經與腦組織的三種方法
 
@@ -3634,6 +3774,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
     <img src="https://img.youtube.com/vi/lvpSW8U3Nr4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Do Women Get Diabetes During Pregnancy? – Dr. Berg
 
 ### 文章重點整理
 
@@ -3696,6 +3838,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
+# High Insulin Before High Blood Sugar Levels – Dr. Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -3741,6 +3885,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
+# What Causes Precocious Puberty? – Dr. Berg
+
 ### 文章重點整理
 
 #### 1. 核心主題：早期青春期/puberty
@@ -3785,6 +3931,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
     <img src="https://img.youtube.com/vi/-eA0IB6TW_0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Unique Benefits of Hazelnuts – Dr. Berg
 
 ### 小節歸納
 
@@ -3844,6 +3992,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
     <img src="https://img.youtube.com/vi/-YDGgPvmkXA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Can I Overdo Vitamin D?  Vitamin D Toxicity and the Side Effects of Too Much Vitamin D – Dr. Berg
 
 ### 文章重點整理
 
@@ -3907,6 +4057,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
     <img src="https://img.youtube.com/vi/9QghSvUdtME/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Does Dr. Berg See Clients Anymore?
 
 ### 核心主題
 
@@ -3977,6 +4129,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
+# Fat Burning & Keto For Beginners 101 – Dr. Berg
+
 ### 核心主題
 - **酮症與斷食法**：介紹酮症（Keto）和間歇性斷食（Intermittent Fasting）的概念及其在脂肪燃燒和體重管理中的作用。
 - **脂肪細胞的控制**：探討脂肪存儲與燃燒的激素調控機制。
@@ -4043,6 +4197,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
+# Will Wheatgrass Juice Powder Kick Me Out of Ketosis? – Dr. Berg
+
 ### 核心主題
 - 本文探讨了小麦草汁粉对酮症状态的影响。
 
@@ -4073,6 +4229,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
     <img src="https://img.youtube.com/vi/KLOydO-GBHA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Eating Causes You To Eat More – Dr. Berg
 
 ### 核心主題  
 - 探讨进食导致饥饿的原因及其对代谢和血糖水平的影响。
@@ -4130,6 +4288,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg's Supplements
+
 
 </details>
 
@@ -4140,6 +4300,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
     <img src="https://img.youtube.com/vi/A7kvYaZqbmg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The True Cause of High Triglycerides – Dr. Berg
 
 ### 核心主題
 - **高血清三酰甘油（Triglycerides）的原因與管理**
@@ -4175,6 +4337,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
     <img src="https://img.youtube.com/vi/JWzF6aO-RkM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best Cheese on Keto Diet – Dr. Berg
 
 ### 小節歸納
 
@@ -4215,6 +4379,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
     <img src="https://img.youtube.com/vi/wff2JZ66wH0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Keto Success Stories – Dr. Berg Interviews Shawn Rega on Keto, Intermittent Fasting & Weight Loss
 
 ### 文章總結
 
@@ -4297,6 +4463,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
     <img src="https://img.youtube.com/vi/EhCW031DDVo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg & Karen: Questions & Answers on the Ketogenic Diet and Other Stuff
 
 ### 核心主題: 健康管理與壓力管理  
 **英文翻譯:** Core Theme: Health Management and Stress Management  
@@ -4382,6 +4550,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
+# Will 7-10 Cups of Salad Give The Total Requirements for Potassium? – Dr. Berg
+
 ### 核心主題
 - **每日assium攝取量的需求**：影片探討了每日所需的钾攝取量及其來源。
 
@@ -4427,6 +4597,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
     <img src="https://img.youtube.com/vi/hYJ6BZOPZ_4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Exercise To Boost HGH (Human Growth Hormone) – Dr. Berg
 
 ### 核心主題  
 - 探讨通过短跑训练提升人类生长激素（HGH）水平的有效性及其背后机制。
@@ -4476,6 +4648,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
     <img src="https://img.youtube.com/vi/0duUYXn1UoI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Keto Foods Does Dr. Berg Eat? – Dr. Berg
 
 ### 文章要點整理
 
@@ -4548,6 +4722,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
+# Can I Drink Alcohol on Keto (Ketogenic Diet)? – Dr. Berg
+
 ### 核心主題
 - 酮症候群（Keto）飲食法與禁食計畫下的酒精攝取問題。
 
@@ -4589,6 +4765,8 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
     <img src="https://img.youtube.com/vi/xwTGZ27LNFQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dangers of Fasting for 24 Hours or Longer – Dr. Berg
 
 ### 文章重點整理
 
@@ -4636,6 +4814,8 @@ intermittent fasting 是一種有效的健康管理方法，但實施時需考�
         alt="[Youtube]" width="200">
 </a>
 
+# Did Ketosis Stop Working? Here's Why! – Dr. Berg
+
 
 </details>
 
@@ -4646,6 +4826,8 @@ intermittent fasting 是一種有效的健康管理方法，但實施時需考�
     <img src="https://img.youtube.com/vi/L7-BmO6o-7o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Best Home Remedies for Parasites – Dr. Berg
 
 ### 核心主題  
 - **寄生蟲感染**：探討寄生蟲感染的症状、原因及家用治療方法。
@@ -4700,6 +4882,8 @@ intermittent fasting 是一種有效的健康管理方法，但實施時需考�
         alt="[Youtube]" width="200">
 </a>
 
+# Difference Between Low Cortisol & High Cortisol Symptoms – Dr. Berg
+
 
 </details>
 
@@ -4710,6 +4894,8 @@ intermittent fasting 是一種有效的健康管理方法，但實施時需考�
     <img src="https://img.youtube.com/vi/bk1LqdNll7M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Am I Feeling So Irritable On Keto (Ketogenic Diet)? – Dr. Berg
 
 ### 核心主題：酮症飲食（Keto Diet）為什麼會讓人感到易怒？
 
@@ -4788,6 +4974,8 @@ intermittent fasting 是一種有效的健康管理方法，但實施時需考�
         alt="[Youtube]" width="200">
 </a>
 
+# The Best Natural Sources of Omega-3 Fatty Acids – Dr. Berg
+
 ### 核心主題：最佳Omega-3來源及其重要性
 
 #### 主要觀念：
@@ -4820,6 +5008,8 @@ intermittent fasting 是一種有效的健康管理方法，但實施時需考�
         alt="[Youtube]" width="200">
 </a>
 
+# Why Am I Getting Gas & Bloating on Keto Diet? – Dr. Berg
+
 
 </details>
 
@@ -4830,6 +5020,8 @@ intermittent fasting 是一種有效的健康管理方法，但實施時需考�
     <img src="https://img.youtube.com/vi/rqxt0-EE0Ys/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Importance of Phosphorus for Energy – Dr. Berg
 
 ### 核心主題  
 - 磷（Phosphorus）是人體內非常重要的礦物質，涉及多個生理功能。
@@ -4890,6 +5082,8 @@ intermittent fasting 是一種有效的健康管理方法，但實施時需考�
     <img src="https://img.youtube.com/vi/ROtJQs184Rk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Real Reason Why Low-Fat Diets Became So Popular – Dr. Berg
 
 ### 小節化整理
 
@@ -4958,6 +5152,8 @@ intermittent fasting 是一種有效的健康管理方法，但實施時需考�
         alt="[Youtube]" width="200">
 </a>
 
+# What is Pycnogenol?
+
 ### 文章重點整理
 
 #### 核心主題
@@ -4991,6 +5187,8 @@ intermittent fasting 是一種有效的健康管理方法，但實施時需考�
     <img src="https://img.youtube.com/vi/aE9zbEB4Oco/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Keto (The Ketogenic Diet) Is Considered Dangerous
 
 ### 核心主題
 - **酮症（Ketosis）在某些社區中的負面聲譽**  
@@ -5055,6 +5253,8 @@ intermittent fasting 是一種有效的健康管理方法，但實施時需考�
     <img src="https://img.youtube.com/vi/GeekUj-JHWI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What is the Dawn Phenomenon?
 
 ### 文章整理：黎明現象（Dawn Phenomenon）
 

@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What Triggers Human Growth Hormone (HGH)? – Dr. Berg
+
 ### 核心主題  
 - 生長激素在人體 ageing 認老化中的關鍵作用。
 
@@ -45,6 +47,8 @@
     <img src="https://img.youtube.com/vi/OBnoVmsPODg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What is an Electrolyte & What is Caused by Electrolyte Imbalance by Dr. Berg
 
 ### 小節歸納
 
@@ -89,6 +93,8 @@
     <img src="https://img.youtube.com/vi/e1wy2NeItQQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is Red Meat Bad for You? – Dr. Berg
 
 ### 文章整理：紅肉的真相與健康影響
 
@@ -144,6 +150,8 @@
     <img src="https://img.youtube.com/vi/iXXBwBMtGmQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Omega-3 and Omega-6 Fatty Acids: Food Sources and Inflammation
 
 ### 核心主題：Omega-6 和 Omega-3 脂肪酸對炎症的作用及飲食平衡的重要性
 
@@ -212,6 +220,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Biggest Ketosis Mistakes Revealed by Dr. Berg
+
 ### 核心主題
 - **酮osis Diet 的常見錯誤**  
   文章主要探討在執行酮症diet（ketosis diet）時最容易出錯的地方，特別是過量攝取脂肪的問題。
@@ -262,6 +272,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Dr.Berg Explains Will Vegetables Slow Down Ketosis Adaptation?
+
 ### 核心主題
 - 蔬菜是否影響酮症（ketosis）效果。
 - 酮症飲食中蔬菜的角色與建議攝取量。
@@ -311,6 +323,8 @@
     <img src="https://img.youtube.com/vi/HPEC4QsW8E4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Lower Back Pain Treatment for Tailbone Injury – Demo By Dr. Berg
 
 ### 文章整理：尾椎骨受傷後的復發與治療
 
@@ -371,6 +385,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Relationship between Chromium & Insulin Resistance shown By Dr. Berg
+
 ### 1. 核心主題  
 - **romium（鉻）**：一種微量元素，具有提高胰島素功能的作用。
 
@@ -400,6 +416,8 @@
     <img src="https://img.youtube.com/vi/7W9BJpFMaa4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 12 Scientific Health Benefits of Wheat Grass Powder by Dr. Berg
 
 ### 核心主題：韌草（Wheatgrass）的科學健康益處
 
@@ -457,6 +475,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Lactic Acid Bacteria and Fermented Foods: Benefits – Dr.Berg
+
 ### 核心主題
 - **乳酸及其作用**：乳酸是一種由乳酸菌產生的有益酸性物質，具有多方面的健康益處。
 - **estinal Health**：腸道健康與乳酸的作用密不可分。
@@ -495,6 +515,8 @@
     <img src="https://img.youtube.com/vi/AwJd1qXSfcQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Addicted to Sweets? Try this...
 
 ### 核心主題  
 - 介紹一種名為Jima（糖分破壞者）的 herbs，其主要功能是阻斷糖分的味道感知。
@@ -538,6 +560,8 @@
     <img src="https://img.youtube.com/vi/KrJk0i6AYS8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Get Rid of Mucus? – Sinus Remedies by Dr. Berg
 
 ### 小節歸納
 
@@ -605,6 +629,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Hidden Toxins (DDT) in Food Chain & Where They Come From? – Dr.Berg
+
 ### 核心主題：美國出口禁用农药对全球及自身健康的影响
 
 ### 主要觀念：
@@ -640,6 +666,8 @@
     <img src="https://img.youtube.com/vi/QO91P9kYt8E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 10 Common Causes of Inflammation in the Body – Dr. Berg
 
 ### 小結： inflammation 的 10 常見原因與健康建議
 
@@ -707,6 +735,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Can ketosis worsen adrenal glands? – Dr. Berg on Adrenal Fatigue
+
 ### 核心主題：酮症是否會影響腎上腺 glands？
 
 ### 主要觀念：
@@ -737,6 +767,8 @@
     <img src="https://img.youtube.com/vi/wducoxnU5YE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Does Insulin Resistance Cause Weight Gain? – Dr. Berg
 
 ### 核心主題
 - **胰島素抗性**：探討胰島素抗性如何導致體重增加及其相關機制。
@@ -797,6 +829,8 @@ The article discusses how insulin resistance leads to weight gain. Insulin, prod
         alt="[Youtube]" width="200">
 </a>
 
+# 10 Reasons Why You Are Not Losing Weight by Dr. Berg
+
 ### 正式學術用語整理與归纳
 
 #### 核心主題
@@ -847,6 +881,8 @@ The article discusses how insulin resistance leads to weight gain. Insulin, prod
     <img src="https://img.youtube.com/vi/kBIxzPFLAT0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Acidosis – Causes, Symptoms & Its Remedies by Dr.Berg
 
 ### 核心主題
 - **酸osis（酸性中毒）**：身體某部位pH值失衡導致酸性過高的情況。
@@ -926,6 +962,8 @@ The article discusses how insulin resistance leads to weight gain. Insulin, prod
         alt="[Youtube]" width="200">
 </a>
 
+# Does Ketosis Cause Hypothyroidism? – Dr.Berg
+
 ### 核心主題  
 - 探讨酮症（ketosis）是否会导致甲状腺功能减退（hypothyroidism）。  
 
@@ -1001,6 +1039,8 @@ The article discusses how insulin resistance leads to weight gain. Insulin, prod
         alt="[Youtube]" width="200">
 </a>
 
+# Respiratory Alkalosis – Causes, Symptoms & It's Remedies by Dr.Berg
+
 ### 核心主題：高血碳酸鹼中毒（Alkalosis）
 - 高血碳酸鹼中毒是指機體酸鹼平衡失調，血液過於鹼性。
 - 酸鹼平衡對人體各系統的正常運作至關重要，任何失衡都可能引發健康問題。
@@ -1053,6 +1093,8 @@ The article discusses how insulin resistance leads to weight gain. Insulin, prod
         alt="[Youtube]" width="200">
 </a>
 
+# What Is An Amino Acid? – Dr.Berg
+
 ### 文章整理：氨基酸的功能與重要性
 
 #### 核心主題
@@ -1101,6 +1143,8 @@ The article discusses how insulin resistance leads to weight gain. Insulin, prod
     <img src="https://img.youtube.com/vi/3VdaGyHHrXw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Get Rid of Trigger Finger Pain – Dr. Berg
 
 ### 文章整理：觸發點與相反側按壓技術在慢性疼痛管理中的應用
 
@@ -1154,6 +1198,8 @@ The article discusses how insulin resistance leads to weight gain. Insulin, prod
     <img src="https://img.youtube.com/vi/yD3bW2z-yNw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Iron Deficiency – Functions, Symptoms, & Causes Explained By Dr. Berg
 
 ### 文章重點整理：鐵缺乏症的知識與建議
 
@@ -1219,6 +1265,8 @@ The article discusses how insulin resistance leads to weight gain. Insulin, prod
     <img src="https://img.youtube.com/vi/9dOK9fR9hDU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Normal A1C But Why Do I have Insulin Resistance? – Dr. Berg
 
 ### 文章整理：Insulin Resistance with Normal A1C
 
@@ -1301,6 +1349,8 @@ The article discusses how insulin resistance leads to weight gain. Insulin, prod
         alt="[Youtube]" width="200">
 </a>
 
+# What Boosts More Growth Hormone? | Dr. Berg
+
 ### 核心主題
 - 生長激素（Growth Hormone, GH）在.Fat Burning、體脂降低、肌肉質量維持和抗衰老中的重要作用。
 - 比較間歇性禁食與高強度間歇訓練對生長激素分泌的影響。
@@ -1339,6 +1389,8 @@ The article discusses how insulin resistance leads to weight gain. Insulin, prod
         alt="[Youtube]" width="200">
 </a>
 
+# What's Worse than Sugar? – Dr. Berg
+
 ### 1. 核心主題  
 - 探讨糖分与蛋白质共同摄入对健康的影响，特别是其对胰岛素水平的潜在负面影响。
 
@@ -1369,6 +1421,8 @@ The article discusses how insulin resistance leads to weight gain. Insulin, prod
     <img src="https://img.youtube.com/vi/ScXWNQdNBOM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Best Sources of Calcium Explained by Dr.Berg
 
 ### 核心主題：最佳 calcium 来源及其健康影響
 
@@ -1428,6 +1482,8 @@ The article discusses how insulin resistance leads to weight gain. Insulin, prod
         alt="[Youtube]" width="200">
 </a>
 
+# The Best Stretching Exercise for Scoliosis – Treatment by Dr.Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -1468,6 +1524,8 @@ The article discusses how insulin resistance leads to weight gain. Insulin, prod
     <img src="https://img.youtube.com/vi/hL20rKw8FME/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The "Alkalize Your Body and Fight Disease" MYTH! – Dr.Berg
 
 ### 核心主題  
 **The Alkaline Cancer Protection Myth**  
@@ -1523,6 +1581,8 @@ Dr. Berg指出，「 alkaline diet防癌」的理論缺乏 scientific evidence�
     <img src="https://img.youtube.com/vi/rIWb2vlUNaM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Urine Color Indicates About Your Body – Dr.Berg
 
 # 文章整理與分析
 
@@ -1591,6 +1651,8 @@ Dr. Berg指出，「 alkaline diet防癌」的理論缺乏 scientific evidence�
         alt="[Youtube]" width="200">
 </a>
 
+# 7 Foods You Should Never Eat – Dr. Berg
+
 # 文章重點整理
 
 ## 核心主題
@@ -1635,6 +1697,8 @@ Dr. Berg指出，「 alkaline diet防癌」的理論缺乏 scientific evidence�
     <img src="https://img.youtube.com/vi/_VqsQNLZDpE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 7 Benefits of Ketogenic Diet – Dr. Berg
 
 ### 核心主題：酮egenic飲食在長期健康的優勢
 
@@ -1715,6 +1779,8 @@ Dr. Berg指出，「 alkaline diet防癌」的理論缺乏 scientific evidence�
         alt="[Youtube]" width="200">
 </a>
 
+# What is Parkinson's Disease and What Causes this Disease? - Explained by Dr. Berg
+
 ### 小節整理：帕金森病的核心主題與建議
 
 #### 1. 核心主題：帕金森病的基本定義
@@ -1768,6 +1834,8 @@ Dr. Berg指出，「 alkaline diet防癌」的理論缺乏 scientific evidence�
     <img src="https://img.youtube.com/vi/UJQmdF_8t9c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What is Gallbladder? – Explained by Dr. Berg
 
 ## 胆囊的功能与健康：全面解析
 
@@ -1826,6 +1894,8 @@ Dr. Berg指出，「 alkaline diet防癌」的理論缺乏 scientific evidence�
         alt="[Youtube]" width="200">
 </a>
 
+# No Time To Exercise? TRY THIS! – Dr. Berg
+
 ### 核心主題
 - **短時高效運動方案**：介紹了一種名為Tabata protocol的短時間高強度全身訓練方法。
   
@@ -1876,6 +1946,8 @@ Dr. Berg指出，「 alkaline diet防癌」的理論缺乏 scientific evidence�
         alt="[Youtube]" width="200">
 </a>
 
+# Can the Brain Run On No Carbs?
+
 ### 文章重點整理
 
 #### 核心主題  
@@ -1917,6 +1989,8 @@ Dr. Berg指出，「 alkaline diet防癌」的理論缺乏 scientific evidence�
     <img src="https://img.youtube.com/vi/JE3PeG4hi4w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Best Remedy for Hormonal Cystic Acne – Dr.Berg
 
 ### 文章整理： hormonal cystic acne 的背后因素及解決方案
 
@@ -1976,6 +2050,8 @@ Dr. Berg指出，「 alkaline diet防癌」的理論缺乏 scientific evidence�
         alt="[Youtube]" width="200">
 </a>
 
+# How To Fix Hunchback With The Correct Stretch – Dr. Berg
+
 ### 小節歸納
 
 #### 核心主題  
@@ -2028,6 +2104,8 @@ Dr. Berg指出，「 alkaline diet防癌」的理論缺乏 scientific evidence�
         alt="[Youtube]" width="200">
 </a>
 
+# Get Full Exercise Benefits With This Practice...
+
 ### 核心主題  
 - **睡眠不足或低質量睡眠**是影響運動效果的主要因素。
 
@@ -2067,6 +2145,8 @@ Dr. Berg指出，「 alkaline diet防癌」的理論缺乏 scientific evidence�
     <img src="https://img.youtube.com/vi/mDGcXTGWzaY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How Low Calorie Diets & Intermittent Fasting Affect Metabolism – Dr.Berg
 
 ### 核心主題  
 **低 calorie 饮食 vs. 间歇性禁食：代谢影响与健康效果的对比**
@@ -2132,6 +2212,8 @@ Dr. Berg指出，「 alkaline diet防癌」的理論缺乏 scientific evidence�
     <img src="https://img.youtube.com/vi/4r8Mf7BL2Pk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Regrow Hair (the Two Causes of Hair Loss) – Dr. Berg
 
 ### 核心主題 (Core Theme)
 - **核心主題**: 探讨脱发的主要原因及其营养和激素解决方案。
@@ -2223,6 +2305,8 @@ Dr. Berg指出，「 alkaline diet防癌」的理論缺乏 scientific evidence�
         alt="[Youtube]" width="200">
 </a>
 
+# What is Leptin? Explained By Dr.Berg
+
 ### 核心主題： leptin的作用與肥胖管理
 
 Leptin 是一種由脂肪細胞分泌的重要荷爾蒙，主要負責調控食慙和能量平衡。
@@ -2273,6 +2357,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
     <img src="https://img.youtube.com/vi/ym7Jt7rehko/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How Cruciferous Vegetables Detoxify (remove poisons) - Dr. Berg
 
 ### 文章整理與分析
 
@@ -2337,6 +2423,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
     <img src="https://img.youtube.com/vi/3uBArhJVMLU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Nutritional Deficiency Symptoms From Eyes – Dr. Berg
 
 # 文章整理：通過眼睛診斷營養缺乏症
 
@@ -2414,6 +2502,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
+# Instant Neck Pain & Stiffness Relief (Do-It-Yourself) – Dr.Berg
+
 ### 核心主題  
 - **neck stiffness**（項背僵硬）  
 
@@ -2449,6 +2539,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
     <img src="https://img.youtube.com/vi/Z2o0fTIdHKs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Lotion Never Fixes Cracked Heels and Dry Feet – Dr.Berg
 
 ### 文章整理： cracked heels 的原因與 해결 방안
 
@@ -2515,6 +2607,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
     <img src="https://img.youtube.com/vi/UcSgIhrvaos/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Understanding Types of Collagen Explained By Dr. Berg
 
 ### 文章重點整理
 
@@ -2587,6 +2681,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
+# How To Get Rid of Low Back Pain Fast? – Dr.Berg
+
 ### 文章整理：快速缓解背部疼痛的方法
 
 #### 核心主題
@@ -2623,6 +2719,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
     <img src="https://img.youtube.com/vi/_pZT6SzQ9fg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Root Causes of Sacroiliac Joint Pain – SI Joint Pain Relief – Dr.Berg
 
 ### 文章整理：骶髂关节疼痛的缓解方法
 
@@ -2689,6 +2787,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
+# Foods for Fluid Retention in the Feet and Ankles – Dr.Berg
+
 ### 小節化整理
 
 #### 核心主題  
@@ -2747,6 +2847,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
     <img src="https://img.youtube.com/vi/krfboRubpKU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Can I Eat These On A Keto Diet Plan: Beets, Carrots, Peas & Tomatoes? – Dr. Berg
 
 ### 文章整理與分析
 
@@ -2813,6 +2915,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
+# Vegan Peanut Dressing For a Kale Salad (Keto-Friendly) – Dr. Berg
+
 ### 核心主題
 - 推廣食用多種蔬菜的重要性，尤其是 kale（羽衣甘蓝）。
 
@@ -2847,6 +2951,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
     <img src="https://img.youtube.com/vi/Zeh-fA9Cl3k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Lose Back Fat – Dr. Berg
 
 # 如何有效消除腹部脂肪及改善背部姿勢：整合建議與策略
 
@@ -2914,6 +3020,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
+# What is Wheatgrass Juice Powder? Benefits Explained By Dr. Berg
+
 ### 小節歸納
 
 #### 1. 核心主題
@@ -2957,6 +3065,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
     <img src="https://img.youtube.com/vi/zGtiylOAtM0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Get Rid of Puffy Eyes for Good with Dr. Berg's Proven Techniques
 
 ### 文章要點整理
 
@@ -3048,6 +3158,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
+# Keto Waffles Recipe with Dr.Berg & Karen
+
 ### 核心.theme  
 - 文章圍繞「無面粉韌性食物的創新應用」展開，強調利用杏仁粉制作出具有良好口感和質地的食物。  
 
@@ -3091,6 +3203,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
     <img src="https://img.youtube.com/vi/XRYGJvD3mkw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Can Trace Minerals Inactivate Viruses? – Dr. Berg
 
 ### 小結
 
@@ -3145,6 +3259,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
     <img src="https://img.youtube.com/vi/okE3-YV__ck/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Healthy Pizza Recipe – How to Make a Keto-Friendly Pizza (PART 2) – Dr.Berg
 
 ### 核心主題  
 - 提供一種無面粉披薩食譜的改進版食譄，強調其健康特性與制作技巧。
@@ -3205,6 +3321,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
+# Pre diabetes Symptoms Explained By Dr.Berg
+
 ### 核心主題
 - **前期糖尿病的早期指標**：文章強調了前期糖尿病的主要指標是飯後不滿足感，這可能表明胰島素抵抗或低血糖。
 
@@ -3247,6 +3365,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
     <img src="https://img.youtube.com/vi/n_TZbz16C-U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Intestinal Obstruction & Vitamin Deficiencies – Dr. Berg
 
 ### 小腸漏、ibs和克隆氏病與維生素缺乏症的文章要點整理
 
@@ -3305,6 +3425,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
     <img src="https://img.youtube.com/vi/UJQmI3XOHCM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best Time to Eat to Lose the Most Weight Possible – Dr.Berg
 
 ### 核心主題  
 - 本文探討了利用間歇性禁食（Intermittent Fasting）來實現減重的效果及其背后的機制。
@@ -3375,6 +3497,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
+# The Deeper Cause of an Eye Stye, Boil or Abscess – Eye Infection Stye – Dr.Berg
+
 ### 核心主題
 - 論述風格（stytes）及其相關感染。
 - 探讨细菌和病毒感染的免疫反应机制。
@@ -3430,6 +3554,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
+# Coronary Heart Disease & Vitamin E Explained By Dr. Berg
+
 ### 小結點整理
 
 #### 1. 核心主題  
@@ -3472,6 +3598,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
     <img src="https://img.youtube.com/vi/B7Cc7VGpIDw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Amazing Neutrophil Function – Dr.Berg
 
 ### 文章重點整理
 
@@ -3532,6 +3660,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg Gets a Chiropractic Adjustment
+
 ### 核心主題
 - 作者分享了自己從患者轉為整脊科醫生的經歷及體驗。
 - 強調整脊技術（Chiropractic Bop Physics）的效果和重要性。
@@ -3576,6 +3706,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
     <img src="https://img.youtube.com/vi/YPUWzVSly4U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Lose Weight Consistently – Effective Strategies Explained by Dr. Berg
 
 ### 文章整理：保持一致性以實現目標
 
@@ -3634,6 +3766,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
     <img src="https://img.youtube.com/vi/0tj7VfiURuk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Increase Testosterone in Men – Dr.Berg on Boosting Testosterone
 
 ### 文章整理：提升男性睾酮激素的方法
 
@@ -3701,6 +3835,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
+# Soft and Chewy Ginger Cookies (Keto Friendly) – Dr.Berg
+
 ### 文章重點整理
 
 #### 核心主題
@@ -3736,6 +3872,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
     <img src="https://img.youtube.com/vi/n4hTBVFyyKs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What is Hypoglycemia and How to Fix it Naturally? – Dr.Berg
 
 ### 小節歸納
 
@@ -3780,6 +3918,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
+# Best Chocolate Chip Cookies Recipe – Keto Friendly – Dr.Berg
+
 # 文章重點整理
 
 ## 核心主題
@@ -3815,6 +3955,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
     <img src="https://img.youtube.com/vi/DuuRUyO3SW4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Side Effects of Prednisone – Dr.Berg
 
 ### 小節整理：Prednisone 的危害與管理策略
 
@@ -3865,6 +4007,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
+# How to Prevent Cataracts With Natural Remedies – Dr. Berg
+
 ### 核心主題
 - 論述白內障的原因及其相關因素。
 - 探讨營養補充和自然療法在治療白內障中的作用。
@@ -3910,6 +4054,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
+# Two Simple Tests for Adrenal Fatigue – Dr.Berg
+
 ### 文章重點整理
 
 #### 核心主題:
@@ -3953,6 +4099,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
     <img src="https://img.youtube.com/vi/T3Levyqu9s4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Keto Chocolate Mousse Pudding Recipe – Dr. Berg
 
 ### 文章重點整理
 
@@ -4006,6 +4154,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
     <img src="https://img.youtube.com/vi/1Ie4xrddR3o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Doctor Care – Is Your Doctor Looking Beyond Symptoms? – Dr.Berg
 
 ### 文章整理：探索健康真相：症状与根本原因的关系
 
@@ -4069,6 +4219,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
+# Not Losing Weight? The #1 Reason Why People Fail – Dr.Berg
+
 # 文章整理與分析報告
 
 ## 核心主題  
@@ -4131,6 +4283,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
+# Get Rid of Shingles Pain Fast – Dr.Berg
+
 ### 文章整理：壓力與病毒再活化之間的關聯及解決策略
 
 #### 核心主題
@@ -4191,6 +4345,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
     <img src="https://img.youtube.com/vi/WZDUoRjQWyw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Estrogen Dominance After Menopause? – Dr. Berg
 
 ### 文章整理：.estrogen Dominance and Health Solutions/
 
@@ -4261,6 +4417,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
+# The Best Time To Exercise – Dr.Berg
+
 # 早晚運動的最佳時間：高強度訓練的理想選擇
 
 ## 核心主題
@@ -4309,6 +4467,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
     <img src="https://img.youtube.com/vi/QAoq14NlDQc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Understanding Restless Legs Syndrome and Causes – Dr.Berg
 
 ### 文章整理與結構化歸納
 
@@ -4369,6 +4529,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
+# Easy Candied Pecans Recipe – Keto Friendly – Dr.Berg
+
 ### 小節一：核心主題
 - 文章討論了一種低糖或無糖的糖衣山核桃（Candied Pecans）食譜。
 - 强調了糖衣山核桃在健康飲食中的應用潛力，特別是對於喜歡甜食但需控制血糖或攝取量的人群。
@@ -4402,6 +4564,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
     <img src="https://img.youtube.com/vi/K5q4CrlOKNM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Problems with Low Cortisol Levels/Adrenal Insufficiency - Dr.Berg
 
 ### 文章整理：低皮質醇症狀與管理策略
 
@@ -4450,6 +4614,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
+# Keto Short Bread Cookies Recipe – Dr. Berg
+
 ### 小節歸納與整理
 
 #### 1. 核心主題  
@@ -4481,6 +4647,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
     <img src="https://img.youtube.com/vi/yIytVCMSq2w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Iodine Facts and Deficiency Causes – Dr. Berg
 
 ### 文章重點整理
 
@@ -4561,6 +4729,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
+# Peanut Butter Cookies: Keto Friendly
+
 ### 核心主題  
 - 討論如何製作經典的花生醬曲奇餅。
 
@@ -4602,6 +4772,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
     <img src="https://img.youtube.com/vi/J8t74XMziP8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What is Fibromyalgia – Surprising Finding Explained by Dr. Berg
 
 ### 核心主題
 - ** fibromyalgia 的意外發現**  
@@ -4675,6 +4847,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
+# Easy Spiced Nut Mix Recipe: Keto Friendly
+
 ### 文章整理：香料堅果混合物食譜與討論
 
 ---
@@ -4724,6 +4898,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
     <img src="https://img.youtube.com/vi/nKDLK3ZW19A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Keto Friendly Maple Syrup
 
 ### 文章重點整理
 
@@ -4793,6 +4969,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
+# The 2 Most Ignored Minerals In Diabetes and Insulin Resistance – Dr.Berg
+
 ### 文章整理： minerals 与糖尿病的关系及解决方案
 
 #### 核心主题
@@ -4852,6 +5030,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Eric Berg's YouTube Channel Welcome
+
 ### 核心主題
 - 探討脂肪燃燒的七項原則及其對人體健康的影响。
 - 强調不同身體類型與健康問題的關聯性。
@@ -4895,6 +5075,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
+# Keto Zucchini Goat Cheese Rolls Recipe – Dr.Berg
+
 ### 核心主題  
 - 文章介紹了一款以西葫蘆為主要食材的食譜：**西葫蘆捲（Zucchini Roll）**。  
 
@@ -4935,6 +5117,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
     <img src="https://img.youtube.com/vi/3msvCdGOYFQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Causes a Goiter? Causes of Thyroid Enlargement – Dr.Berg
 
 ### 小節劃分與整理
 
@@ -4986,6 +5170,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
+# Will High Carb Vegetables Stop Ketosis? – Dr.Berg
+
 ### 小節整理
 
 #### 核心主題  
@@ -5031,6 +5217,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
+# Are You Feeling Tired After Sleeping? – Dr. Berg
+
 ### 核心主題
 - 睡眠質量不足導致白天疲倦。
 - 解決壓力積累和 adrenal glands 的問題以改善睡眠。
@@ -5073,6 +5261,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
     <img src="https://img.youtube.com/vi/zsl5ENgZnr0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Say Goodbye to Unhealthy Bread – Dr. Berg's Healthiest Bread in the World
 
 ### 核心主題  
 - 提供一種無麸質、無麩質蛋白、低糖且健康的新穎麵包食譜。  
@@ -5125,6 +5315,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
+# Goat Cheese Jalapeno Poppers Recipe – Dr. Berg
+
 ### 核心主題
 - 文章主要介紹了一道簡單又健康的 Jalapeño 菓子食譜，強調其便利性和風味特點。
 
@@ -5156,6 +5348,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
     <img src="https://img.youtube.com/vi/lG57mNSDM1M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Symptoms and Causes of Vitamin D Deficiency Explained by Dr.Berg
 
 ### 文章整理：維生素D缺乏症的影響與管理
 
@@ -5210,6 +5404,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
+# Jalapeño Cheese Chips
+
 ### 核心主題：jalapeno cheddar chips 的製作與介紹
 
  Jalapeno Cheddar Chips 是一款簡單且美味的零食，主要由.MONTEREY JACK 芝士和jalapeño 制成，具有酥脆、 salty 和微辣的口感。
@@ -5241,6 +5437,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
     <img src="https://img.youtube.com/vi/0ko6qqAvKCA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Cause of Night Blindness – Vitamin A Deficiency – Dr.Berg
 
 ### 核心主題
 - 夜盲症的原因及解決方案。
@@ -5289,6 +5487,8 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
     <img src="https://img.youtube.com/vi/jl-eMcz-7Bw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Connection Between Cortisol (Stress) and Insulin (Sugar) – Dr. Berg
 
 ### 核心主題
 - 探讨皮质醇（Cortisol）与胰岛素（Insulin）之间的关系及其对代谢健康的影响。

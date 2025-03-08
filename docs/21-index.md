@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg's Healthy Keto Summit 2019
+
 
 </details>
 
@@ -16,6 +18,8 @@
     <img src="https://img.youtube.com/vi/uZWRFA_rjfU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Use Vitamin B1 To Reduce Hyperthyroidism Symptoms – Dr.Berg
 
 
 </details>
@@ -28,6 +32,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Use Ginger Lemon Water to Do Intermittent Fasting Longer – Dr. Berg
+
 
 </details>
 
@@ -38,6 +44,8 @@
     <img src="https://img.youtube.com/vi/wNrpqqYagOI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Branched Chain Amino Acids (BCAA) Do NOT Make Muscle – Dr.Berg
 
 
 </details>
@@ -50,6 +58,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Before You Get Your Ovaries Removed: WATCH THIS! – Dr.Berg
+
 
 </details>
 
@@ -60,6 +70,8 @@
     <img src="https://img.youtube.com/vi/u8lul9X1nsE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Enhance Autophagy with This ONE Vitamin! – Dr.Berg
 
 
 </details>
@@ -72,6 +84,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Eat Egg Yolks to Prevent Gallstones – Dr.Berg
+
 
 </details>
 
@@ -82,6 +96,8 @@
     <img src="https://img.youtube.com/vi/xsm7rChLI7w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Supercharge Your Gut Bacteria with Intermittent Fasting – Dr. Berg
 
 
 </details>
@@ -94,6 +110,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# 9 College Keto Foods When On A Budget – Dr.Berg
+
 
 </details>
 
@@ -104,6 +122,8 @@
     <img src="https://img.youtube.com/vi/W58TvKl3Hzo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is Potassium Good or Bad for Your Kidneys? – Dr.Berg
 
 
 </details>
@@ -116,6 +136,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Will Bulletproof Coffee Block Autophagy? – Dr.Berg
+
 
 </details>
 
@@ -126,6 +148,8 @@
     <img src="https://img.youtube.com/vi/M0FCUqkQhyE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg Interviews Naturopathic Doctor Nadia Pateguana (PCOS) – Dr.Berg
 
 
 </details>
@@ -138,6 +162,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# 9 Signs That You Are Eating Too Much Fat – Dr.Berg
+
 
 </details>
 
@@ -148,6 +174,8 @@
     <img src="https://img.youtube.com/vi/hXIY3N56K10/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Can a Frail Senior Parent Do Intermittent Fasting? Dr.Berg
 
 
 </details>
@@ -160,6 +188,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Key Vitamin Deficiencies After Bariatric Surgery – Dr.Berg
+
 
 </details>
 
@@ -170,6 +200,8 @@
     <img src="https://img.youtube.com/vi/GKeNXVqCMLY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 9 Reasons Why You Are Vitamin D Deficient – Dr.Berg
 
 
 </details>
@@ -182,6 +214,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Intermittent Fasting and Chronic Obstructive Pulmonary Disease (COPD) – Dr.Berg
+
 
 </details>
 
@@ -192,6 +226,8 @@
     <img src="https://img.youtube.com/vi/QcHv-0vpGz8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Alternative Allergy Relief: Low Dose Allergen Immunotherapy – Dr.Berg
 
 
 </details>
@@ -204,6 +240,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What To Do For "Normal" Childhood Infections? – Dr.Berg
+
 
 </details>
 
@@ -214,6 +252,8 @@
     <img src="https://img.youtube.com/vi/B1mwm5QQvgg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Causes a Leaky Bladder? – Dr.Berg
 
 
 </details>
@@ -226,6 +266,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How Much Sun Do We Need To Get Our Vitamin D From Sunlight? – Dr.Berg
+
 
 </details>
 
@@ -236,6 +278,8 @@
     <img src="https://img.youtube.com/vi/ls-mUFF1gDU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Cardiologist (Dr. Nadir Ali) Explains LDL Bad Cholesterol Spike With Keto – Dr.Berg
 
 
 </details>
@@ -248,6 +292,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Intermittent Fasting & STDs (Sexually Transmitted Disease) – Dr.Berg On Alternate Day Fasting
+
 
 </details>
 
@@ -258,6 +304,8 @@
     <img src="https://img.youtube.com/vi/C_WDK-Sh9aw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Getting Up To Urinate Several Times At Night? – Dr.Berg On Frequent Urination At Night
 
 
 </details>
@@ -270,6 +318,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Is Intermittent Fasting Really Different for Women? – Dr.Berg
+
 
 </details>
 
@@ -280,6 +330,8 @@
     <img src="https://img.youtube.com/vi/TYTsQbahME0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Natural Ways to Reduce Glyphosate (GMO chemicals) in Body – Dr.Berg On GMO Foods & Toxic Chemicals
 
 
 </details>
@@ -292,6 +344,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How to Increase Your Vitamin D Absorption?
+
 
 </details>
 
@@ -302,6 +356,8 @@
     <img src="https://img.youtube.com/vi/KeFixO8y7n8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr.Berg Interviews Tristan Haggard On Benefits of Fatty Foods
 
 
 </details>
@@ -314,6 +370,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What Nutrients Are Recommended on OMAD (One Meal A Day)? – Dr. Berg
+
 
 </details>
 
@@ -324,6 +382,8 @@
     <img src="https://img.youtube.com/vi/vlZOAAqtibY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Will Metformin (for Type 2 Diabetes) Stop Ketosis? Metformin Side Effects & Lactic Acidosis Dr.Berg
 
 
 </details>
@@ -336,6 +396,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How To Know if You Have Bile Deficiency? - Dr. Berg
+
 
 </details>
 
@@ -346,6 +408,8 @@
     <img src="https://img.youtube.com/vi/CXg7OONSTIE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Lower Cortisol and Fix Your Sleep: Circadian Rhythm, Cortisol, and Sleep - Dr. Berg
 
 
 </details>
@@ -358,6 +422,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What Are The Benefits of Emu Oil? – Dr.Berg
+
 
 </details>
 
@@ -368,6 +434,8 @@
     <img src="https://img.youtube.com/vi/vU8CyIcytX8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Do Diuretics (water pills) Now Cause Heart Attacks? – Dr.Berg On Thiazide Diuretics Side Effects
 
 
 </details>
@@ -380,6 +448,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Crave Dirt or Chalk? HERE'S WHY!! – Dr.Berg On Zinc Deficiency & Low Iron Levels
+
 
 </details>
 
@@ -390,6 +460,8 @@
     <img src="https://img.youtube.com/vi/ecw1-uPbfOk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 7 Signs You Are Not Drinking Enough Water – Dr.Berg On Dehydration Symptoms & Water Retention
 
 
 </details>
@@ -402,6 +474,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# 12 Ways You Can Get Vitamin B1 (Thiamine) Deficiency – Dr. Berg
+
 
 </details>
 
@@ -412,6 +486,8 @@
     <img src="https://img.youtube.com/vi/u8YFHAAuC7A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is Gluten Bad For You? – Dr.Berg Discusses The Big Problem With Gluten Free Foods
 
 
 </details>
@@ -424,6 +500,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What Is Bisphenol A (BPA) & How To Reduce Exposure To It? – Dr.Berg
+
 
 </details>
 
@@ -434,6 +512,8 @@
     <img src="https://img.youtube.com/vi/1et-c3Ntbm4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Will Apple Cider Vinegar Burn Your Skin or Heal It? – Dr.Berg
 
 
 </details>
@@ -446,6 +526,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What is Vitamin K2, Its Benefits & Sources? – Dr.Berg
+
 
 </details>
 
@@ -456,6 +538,8 @@
     <img src="https://img.youtube.com/vi/CsJBQKzDgrw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Are You Getting Enough Vitamin D From Foods? HIGHLY UNLIKELY! – Dr.Berg
 
 
 </details>
@@ -468,6 +552,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Dr.Berg and Thomas Delauer Chat On How They Ended Up In The Keto World
+
 
 </details>
 
@@ -478,6 +564,8 @@
     <img src="https://img.youtube.com/vi/KSdMr2JkMGM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Causes Varicose Veins & How To Get Rid Of It? – Dr. Berg
 
 
 </details>
@@ -490,6 +578,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# 5 Big Keto Diet Myths That Are Dead Wrong – Dr. Berg
+
 
 </details>
 
@@ -500,6 +590,8 @@
     <img src="https://img.youtube.com/vi/1A_InYwsXz0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Lower Blood Pressure Naturally JUST With Breathing – Dr. Berg
 
 
 </details>
@@ -512,6 +604,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How To Put Multiple Sclerosis (MS) In Remission? – Dr.Berg
+
 
 </details>
 
@@ -522,6 +616,8 @@
     <img src="https://img.youtube.com/vi/-JarYMpNmYo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 7 Natural Blood Thinners – Dr. Berg
 
 
 </details>
@@ -534,6 +630,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Bad Cholesterol (LDL) is NOT Cholesterol and Is NOT Bad! – Dr.Berg
+
 
 </details>
 
@@ -544,6 +642,8 @@
     <img src="https://img.youtube.com/vi/fvO9kriQ7vc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why African Americans Have A Higher Risk of Diabetes & High Blood Pressure? – Dr.Berg
 
 
 </details>
@@ -556,6 +656,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What To Do Before Coloring Your Hair? – Dr.Berg
+
 
 </details>
 
@@ -566,6 +668,8 @@
     <img src="https://img.youtube.com/vi/Ig5mG_R6ysQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Top 5 Symptoms Of Eating Too Much Protein – Dr.Berg
 
 
 </details>
@@ -578,6 +682,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Amazing Zinc [Part 3]: Its Importance for Prostate, Testosterone, and Sperm Viability – Dr.Berg
+
 
 </details>
 
@@ -588,6 +694,8 @@
     <img src="https://img.youtube.com/vi/KlJM_e4-iXY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Amazing Zinc [Part 2]: Its Benefits and How Zinc Deficiency Affects Skin – Dr.Berg
 
 
 </details>
@@ -600,6 +708,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Amazing Zinc (Part 1): Its Main Function and Zinc Deficiency Symptoms – Dr.Berg
+
 
 </details>
 
@@ -610,6 +720,8 @@
     <img src="https://img.youtube.com/vi/qPM3ccMJrE4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# When to Take Vitamins and Supplements ? – Dr.Berg
 
 
 </details>
@@ -622,6 +734,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The MOST Important Vitamins For Eye Health – Dr.Berg
+
 
 </details>
 
@@ -632,6 +746,8 @@
     <img src="https://img.youtube.com/vi/10F_ie3TGPM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# These 5 Things Will Not Break Your Fast: MAKE NOTE! – Dr.Berg
 
 
 </details>
@@ -644,6 +760,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How To Relieve From Post Hysterectomy Depression? – Dr.Berg
+
 
 </details>
 
@@ -654,6 +772,8 @@
     <img src="https://img.youtube.com/vi/gBUr89EVoWc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Shrinking Testicles and Man Boobs – Dr.Berg
 
 
 </details>
@@ -666,6 +786,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# High Blood Sugar leads to Smaller Brains – Dr.Berg's Tips to Regenerate Brain
+
 
 </details>
 
@@ -676,6 +798,8 @@
     <img src="https://img.youtube.com/vi/vM5jLrHG9DI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The 7 Signs & Symptoms That Prove You Are Burning Fat – Dr.Berg
 
 
 </details>
@@ -688,6 +812,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What Do You Do If You Get Ketoacidosis? – Dr.Berg
+
 
 </details>
 
@@ -698,6 +824,8 @@
     <img src="https://img.youtube.com/vi/iu-J1-o8G14/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Should I Do Keto With Hypoglycemia? – Dr.Berg
 
 
 </details>
@@ -710,6 +838,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How to Live Longer – The One Exercise That Makes You Live Longer – Dr.Berg
+
 
 </details>
 
@@ -720,6 +850,8 @@
     <img src="https://img.youtube.com/vi/TUT2tP6QWvs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Get Rid Of Acne? Eliminate Acne Permanently! – Dr.Berg
 
 
 </details>
@@ -732,6 +864,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Tired After Eating on OMAD (One Meal a Day)? Here's why! – Dr.Berg
+
 
 </details>
 
@@ -742,6 +876,8 @@
     <img src="https://img.youtube.com/vi/NwlI4ESv6HY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Introducing Food to Baby – Transitioning Your Baby From Breast Milk to Food – Dr.Berg
 
 
 </details>
@@ -754,6 +890,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Anti-Aging Hacks for a Youthful Appearance with Dr. Berg
+
 
 </details>
 
@@ -764,6 +902,8 @@
     <img src="https://img.youtube.com/vi/16x8ONcyVjM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Should You Drink Water With Your Meal or Not? – Dr.Berg
 
 
 </details>
@@ -776,6 +916,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Chemotherapy vs Cruciferous Vegetables – Side Effects of Chemotherapy – Dr.Berg
+
 
 </details>
 
@@ -786,6 +928,8 @@
     <img src="https://img.youtube.com/vi/tjIePX66TvU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 5 Types of People Who Should Not Do Intermittent Fasting – Dr.Berg
 
 
 </details>
@@ -798,6 +942,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Could This Magnesium Mineral Deficiency Give You Diabetes? – Dr.Berg on Magnesium and Diabetes
+
 
 </details>
 
@@ -808,6 +954,8 @@
     <img src="https://img.youtube.com/vi/mkq_asOwBjU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Get Rid of SIBO (Small Intestinal Bacteria Overgrowth) With Intermittent Fasting – Dr.Berg
 
 
 </details>
@@ -820,6 +968,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Why I Don't Recommend the 5:2 Method of Intermittent Fasting? – Dr.Berg
+
 
 </details>
 
@@ -830,6 +980,8 @@
     <img src="https://img.youtube.com/vi/gzyKk76rP30/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How Many Nuts Can You Eat on Keto? – Dr.Berg
 
 
 </details>
@@ -842,6 +994,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Biggest Secret of The Keto Universe – Dr. Berg
+
 
 </details>
 
@@ -852,6 +1006,8 @@
     <img src="https://img.youtube.com/vi/udNP-_mETU4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 5 Easy Keto Hacks For Busy People – Dr.Berg
 
 
 </details>
@@ -864,6 +1020,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# 5 Cool "Sleep Tricks" You Probably Haven't Heard About! – Try Dr.Berg's Sleeping Hacks
+
 
 </details>
 
@@ -874,6 +1032,8 @@
     <img src="https://img.youtube.com/vi/5FMSCoX71Go/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Collarbone Stretches for Shoulder Pain Relief and Tightness – Dr.Berg
 
 
 </details>
@@ -886,6 +1046,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Sitting Kills Your Low Back Curve. Do These Low Back Pain Relief Exercises DAILY! – Dr.Berg
+
 
 </details>
 
@@ -896,6 +1058,8 @@
     <img src="https://img.youtube.com/vi/eW4LB-cqs-Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Delicious Keto Cake Recipe by Dr.Berg & Karen Berg
 
 
 </details>
@@ -908,6 +1072,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Is Exercise on Keto Diet a Must for Keto Success? – Dr.Berg
+
 
 </details>
 
@@ -918,6 +1084,8 @@
     <img src="https://img.youtube.com/vi/zn_h5F8PvcI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Support Immunity With Intermittent Fasting – Boost Immune System With Fasting – Dr.Berg
 
 
 </details>
@@ -930,6 +1098,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Hidden Side of Clinical Research Trials – Paid Research Studies & US Department Of Health – Dr.Berg
+
 
 </details>
 
@@ -940,6 +1110,8 @@
     <img src="https://img.youtube.com/vi/QFWlxA5bI4g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Canned Water vs. Plastic Water Bottles: Which is Better? – Dr. Berg
 
 
 </details>
@@ -952,6 +1124,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Break Carbohydrate Addiction & Increase Your Willpower – Stop Carb Cravings – Dr.Berg
+
 
 </details>
 
@@ -962,6 +1136,8 @@
     <img src="https://img.youtube.com/vi/DmBL4MXKXBs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Ovarian Cysts: Causes, Symptoms & Natural Treatment – Dr.Berg
 
 
 </details>
@@ -974,6 +1150,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Don’t Take A Keto Diet Pill Until You Watch This! – Dr.Berg
+
 
 </details>
 
@@ -984,6 +1162,8 @@
     <img src="https://img.youtube.com/vi/_YFXiowjS1c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 7 Tips To Lower Blood Pressure Naturally – Dr.Berg
 
 
 </details>
@@ -996,6 +1176,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# 3 Weird Signs & Symptoms Of Fatty Liver – Dr.Berg
+
 
 </details>
 
@@ -1006,6 +1188,8 @@
     <img src="https://img.youtube.com/vi/ZWrMhU577SY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Aching Joints? This “Miracle Mineral” Could End Your Suffering – Dr.Berg
 
 
 </details>
@@ -1018,6 +1202,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Can Drinking More Water Help You Lose Weight? – Dr.Berg On Water Diet For Weight Loss
+
 
 </details>
 
@@ -1028,6 +1214,8 @@
     <img src="https://img.youtube.com/vi/3OOG5EMVads/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Yeast Infection vs Candida Infection: Is there a Difference? – Dr.Berg
 
 
 </details>
@@ -1040,6 +1228,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How To Get Rid Herpes Virus with Autophagy Fasting?  - Dr. Berg
+
 
 </details>
 
@@ -1050,6 +1240,8 @@
     <img src="https://img.youtube.com/vi/EbhKmW1Xt-U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 5 Reasons for Cold Feet – Hypothyroid, Low Blood Pressure, Diabetes & More – Dr.Berg
 
 
 </details>
@@ -1062,6 +1254,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How To Improve Attention Span & Focus? – Dr.Berg
+
 
 </details>
 
@@ -1072,6 +1266,8 @@
     <img src="https://img.youtube.com/vi/VFaz16wrEL4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Huge Belly but NOT Fat? – Dr.Berg On Cirrhosis & Ascites
 
 
 </details>
@@ -1084,6 +1280,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How To Control Your Appetite After Meals? – Dr.Berg
+
 
 </details>
 
@@ -1094,6 +1292,8 @@
     <img src="https://img.youtube.com/vi/2su8e-nhMGw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 3 Important Reasons To SKIP Breakfast – Dr.Berg On Effects Of Skipping Breakfast
 
 
 </details>

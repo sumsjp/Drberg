@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Link Between Alzheimer's Disease & DDT – Dr. Berg
+
 ### 小節一：核心主題  
 - 探讨 Alzheimer's 病因中环境毒素的作用及其与 DDT 的关联。  
 - 强调通过改变饮食习惯（如选择有机食品）来减少化学物质暴露的重要性。  
@@ -56,6 +58,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# 3 Causes of Polycystic Ovarian Syndrome (PCOS) & High Androgens – Dr. Berg
+
 ### 小節歸納
 
 #### 1. 核心主題
@@ -93,6 +97,8 @@
     <img src="https://img.youtube.com/vi/ktQBLFabQXQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Flight or Fight Mechanism Explained In A Simple Way – Autonomic Nervous System Dr. Berg
 
 ### 小結點整理：
 
@@ -137,6 +143,8 @@
     <img src="https://img.youtube.com/vi/2DnaljPchA8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Thyroid Acupressure Techniques for Cold Hands and Feet – Acupressure Therapy Dr. Berg
 
 ### 核心主題  
 - 探讨利用针灸压力（Acupressure）刺激甲状腺反射点来改善手部和足部寒冷感的方法。
@@ -194,6 +202,8 @@ In summary, acupressure targeting the thyroid reflex point in the C5-C6 cervical
         alt="[Youtube]" width="200">
 </a>
 
+# Healthiest Cookies in the World!!
+
 ### 核心主題  
 - 提供一款健康的無糖、無面粉餅乾食譜。  
 
@@ -228,6 +238,8 @@ In summary, acupressure targeting the thyroid reflex point in the C5-C6 cervical
     <img src="https://img.youtube.com/vi/cNM_NXwOkcQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Do a Garlic Nasal Rinse? – Dr.Berg
 
 ### 核心主題  
 - 探讨大蒜鼻腔沖洗（Garlic nasal rinse）作为一种自然療法，用于缓解慢性鼻窦 congestion 和 sinusitis 的方法。
@@ -284,6 +296,8 @@ In summary, acupressure targeting the thyroid reflex point in the C5-C6 cervical
         alt="[Youtube]" width="200">
 </a>
 
+# Metallic Nutrients In Food? – Dr. Berg on Trace Minerals and Synthetic Vitamins
+
 ### 小節一：核心主題
 - 本文探討了食品中使用植物性礦物質與金屬礦物質（如岩石來源）之間的差異及其對人類健康的潛在影響。
 - 核心主題圍繞食品工業中.synthetic vitamins 和金屬礦物質（如鐵、鈣）的使用問題。
@@ -338,6 +352,8 @@ In summary, acupressure targeting the thyroid reflex point in the C5-C6 cervical
     <img src="https://img.youtube.com/vi/-ZkADMLZCuw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr.Berg's Most Important Weight Loss Tips
 
 ### 文章整理與歸納
 
@@ -395,6 +411,8 @@ In summary, acupressure targeting the thyroid reflex point in the C5-C6 cervical
     <img src="https://img.youtube.com/vi/tumJRQ01Hmg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Underlying Root Cause Of Hair Loss – Treatment For Hair Loss Dr. Berg
 
 ### 小節歸納
 
@@ -462,6 +480,8 @@ In summary, acupressure targeting the thyroid reflex point in the C5-C6 cervical
         alt="[Youtube]" width="200">
 </a>
 
+# Why Can Eating Butter Make You Skinny? – Dr.Berg on Weight Loss and Benefits of Butter
+
 ### 核心主題：Butter（人造奶油）作為下一代スーパーフード
 
 但此篇文章主要是推銷"Butter"為下一波スーパーフード，強調其多種健康益處。
@@ -528,6 +548,8 @@ Butter 是一種被低估的スーパーフード，具有多種健康益處。�
         alt="[Youtube]" width="200">
 </a>
 
+# Genetically Modified Foods - GMO or OMG? Get Immune Against Genetically Modified Organisms – Dr.Berg
+
 ### 小節一：核心主題  
 - 討論基因改造 organism (GMO) 的潛在風險及其對健康的影響。  
 
@@ -574,6 +596,8 @@ Butter 是一種被低估的スーパーフード，具有多種健康益處。�
     <img src="https://img.youtube.com/vi/M5FQYKLAOhg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Get Motivated With Losing Weight – Dr.Berg on Weight Loss Motivation
 
 ### 文章重點整理  
 
@@ -625,6 +649,8 @@ Butter 是一種被低估的スーパーフード，具有多種健康益處。�
     <img src="https://img.youtube.com/vi/JpmI3Nnyx6o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Prevent Sagging Skin with Losing Weight? – Dr.Berg On Loose Skin After Weight Loss
 
 ### 核心主題
 - 防止皮膚在減重過程中出現鬆弛。
@@ -678,6 +704,8 @@ Butter 是一種被低估的スーパーフード，具有多種健康益處。�
         alt="[Youtube]" width="200">
 </a>
 
+# Drinking Alcohol & Still Losing Weight – Is it Possible? – Dr. Berg
+
 ### 核心主題
 - 探讨如何在饮酒的同时保持体重并减少对肝脏的损害。
 
@@ -727,6 +755,8 @@ Butter 是一種被低估的スーパーフード，具有多種健康益處。�
         alt="[Youtube]" width="200">
 </a>
 
+# How To Lose Weight Without Losing Muscle? – Dr. Berg on Weight Loss & Muscle Gain
+
 ### 核心主題  
 - **如何在減肥過程中避免肌肉流失**  
 
@@ -764,6 +794,8 @@ Butter 是一種被低估的スーパーフード，具有多種健康益處。�
     <img src="https://img.youtube.com/vi/kBioeRRPuhg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Effects Of Stress On The Brain – Dr. Berg
 
 ===== 文章整理 =====
 
@@ -815,6 +847,8 @@ Butter 是一種被低估的スーパーフード，具有多種健康益處。�
         alt="[Youtube]" width="200">
 </a>
 
+# Forget The Calories, Reduce Sugar – Dr. Berg
+
 ### 小節歸納
 
 #### 1. 核心主題：糖分攝取過量與其健康影響  
@@ -849,6 +883,8 @@ Butter 是一種被低估的スーパーフード，具有多種健康益處。�
     <img src="https://img.youtube.com/vi/fSuvDNeerjs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 17 Ways To Eat More Vegetables in Your Diet – Dr. Berg
 
 ### 文章要點整理
 
@@ -897,6 +933,8 @@ Butter 是一種被低估的スーパーフード，具有多種健康益處。�
     <img src="https://img.youtube.com/vi/8qgwmKq-yjA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Tryptophan, Turkey & Causes of Sleepiness After Thanksgiving Meal – Dr. Berg
 
 ### 核心主題  
 - 探讨感恩节火鸡色氨酸（Tryptophan）导致疲劳的传统观念及其科学依据。
@@ -951,6 +989,8 @@ Butter 是一種被低估的スーパーフード，具有多種健康益處。�
     <img src="https://img.youtube.com/vi/0C6zoIgraWs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Causes Headaches? – Dr. Berg
 
 ### 核心主題：頭痛與偏头痛的根本病因分析
 
@@ -1025,6 +1065,8 @@ Butter 是一種被低估的スーパーフード，具有多種健康益處。�
         alt="[Youtube]" width="200">
 </a>
 
+# The Perfect Diet – Dr.Berg
+
 ### 核心主題
 - 探讨世界上最完美的饮食结构。
 - 强调通过食物满足营养需求的重要性。
@@ -1079,6 +1121,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
     <img src="https://img.youtube.com/vi/lKrFgxVTe28/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Get Your Wife to Lose Weight? [FOR MEN ONLY!] – Dr. Berg
 
 ### 核心主題  
 - 如何有效地促使配偶（妻子）减轻体重。
@@ -1135,6 +1179,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
         alt="[Youtube]" width="200">
 </a>
 
+# Vegetarian vs Meat Eater, What Is Better? – Dr.Berg
+
 ### 核心主題  
 - 比較素食者與肉食者的飲食選擇之優劣。  
 
@@ -1189,6 +1235,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
         alt="[Youtube]" width="200">
 </a>
 
+# Acupressure for Adrenal Stress – Dr. Berg
+
 ### 核心主題  
 - **促進睡眠**：介紹了一種結合穴位按壓（Acupressure）和自創設備的方法，用於幫助入睡並改善睡覺品質。
 
@@ -1240,6 +1288,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
         alt="[Youtube]" width="200">
 </a>
 
+# Fat Burning Foods – Dr. Berg
+
 
 </details>
 
@@ -1250,6 +1300,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
     <img src="https://img.youtube.com/vi/LnjZQzB3BP8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best Breathing Exercise for Sleep – Dr.Berg
 
 ### 小節歸納：
 
@@ -1291,6 +1343,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
     <img src="https://img.youtube.com/vi/TeCwH6vzjzc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Causes Fatigue? – Dr. Berg
 
 ### 小節歸納
 
@@ -1352,6 +1406,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
         alt="[Youtube]" width="200">
 </a>
 
+# How Food Affects Your Mood / Improve Anxiety, Depression & ADD – Dr. Berg
+
 ### 核心主題  
 - **身心綜合健康問題**：文章強調心理和身體健康之間的重大關聯，指出許多情緒問題其實是由於生理因素引起的。  
 
@@ -1404,6 +1460,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
     <img src="https://img.youtube.com/vi/W8Gtk067h5Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg's Recipe for the Healthiest Pizza in the World
 
 ### 小節整理
 
@@ -1458,6 +1516,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
         alt="[Youtube]" width="200">
 </a>
 
+# Kale Super Food Green Juice
+
 ### 核心主題
 - **スーパーフードとしてのケールの重要性**: ケールは非常に栄養価の高い野菜である。
 - **ケールスムージーのメリット**: ケールをベースにしたスムージーが健康に有益であることを伝える。
@@ -1503,6 +1563,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
     <img src="https://img.youtube.com/vi/xypKNntXJv4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Singer's Cure: For Laryngitis, Hoarseness, Vocal Cord Paralysis, and Sore Throats – Dr. Berg
 
 ### 核心主題
 - 自然療法在改善喉部症狀（如喉炎、聲嘶等）中的應用。
@@ -1550,6 +1612,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
     <img src="https://img.youtube.com/vi/Izi-PNI7_Dc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Stop Procrastinating & Improve Low Willpower? – Dr.Berg
 
 ### 核心主題  
 - 分析導致人們自認為「 lazy 」或被錯誤診斷的根本原因。  
@@ -1642,6 +1706,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
         alt="[Youtube]" width="200">
 </a>
 
+# What To Do When Nothing Works For Weight Loss? – Dr.Berg's Tips
+
 ### 核心主題  
 - 本文探討了影響人體脂肪存儲和代謝的主要激素及其相互作用，特別是 cortisol、insulin 和 estrogen 的角色。
 
@@ -1718,6 +1784,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
         alt="[Youtube]" width="200">
 </a>
 
+# Fibromyalgia Pain Relief Using Acupressure Points – Dr.Berg
+
 ### 核心主題： 
 - 談論 fibromyalgia 的治療方法，強調一種利用穴位按壓（acupressure）技術來改善症狀的方法。
 
@@ -1764,6 +1832,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
     <img src="https://img.youtube.com/vi/iuXFE_oIQdM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Sudden Flabby Thighs & Butt in Menopause and Perimenopause – Dr. Berg
 
 ### 小節整理：脂肪腿和屁股的成因及解決方案
 
@@ -1836,6 +1906,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
     <img src="https://img.youtube.com/vi/hLP3SnbQvEc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Are Calcium Supplements Safe For You? – Dr. Berg
 
 ### 文章整理： calcium carbonate 的風險及健康影響
 
@@ -1911,6 +1983,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
         alt="[Youtube]" width="200">
 </a>
 
+# Benefits of Iodine: The Healing Trace Minerals for Cysts, Thyroid, PCOD and more – Dr.Berg
+
 ### 文章整理：碘缺乏與健康影響及補充策略
 
 ---
@@ -1981,6 +2055,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
         alt="[Youtube]" width="200">
 </a>
 
+# What's Missing In Healthcare is the Health Part – Dr.Berg
+
 ### 小節 1: 核心主題  
 - **缺 医療健康中的「健康」部分**：醫療系統缺乏對健康的真正關注，導致患者得不到正確的營養信息和症狀根源治療。  
 
@@ -2027,6 +2103,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg's Most Effective Remedies
+
 ### 小節歸納
 
 #### 核心主題  
@@ -2060,6 +2138,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
     <img src="https://img.youtube.com/vi/TSqHhy3LEKo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Cholesterol Myths & Facts
 
 ### 小結點整理：胆固爾之謎與事實解讀
 
@@ -2123,6 +2203,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
     <img src="https://img.youtube.com/vi/iatYZxyoEkU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Reasons for Deficiency of Vitamin D – Dr.Berg
 
 ### 整理後的中文文章結構
 
@@ -2190,6 +2272,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
         alt="[Youtube]" width="200">
 </a>
 
+# Synthetic Vitamins – Most Vitamins Are Synthetic – Dr. Berg
+
 ### 核心主題  
 - 区分合成维生素与全食物浓缩物的重要性。  
 
@@ -2235,6 +2319,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
         alt="[Youtube]" width="200">
 </a>
 
+# The Myths Of Soy As A Health Food – Dr. Berg
+
 ### 1. 核心主題  
 - 探讨大豆（soy）的健康性及其不同加工方式对健康的影响。  
 
@@ -2273,6 +2359,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
     <img src="https://img.youtube.com/vi/pm49uFWTYBI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What are the Real Causes of Thyroid Problems? – Dr.Berg
 
 ### 文章重點整理
 
@@ -2348,6 +2436,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
         alt="[Youtube]" width="200">
 </a>
 
+# Gloria Patterson talks about her visit with Dr. Berg
+
 # 文章要點總結
 
 ## 核心主題 (Core Theme)
@@ -2406,6 +2496,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
         alt="[Youtube]" width="200">
 </a>
 
+# Tondra Denise Turner Talks About Dr. Berg's Visit
+
 ### 小節一：核心主題
 - 探讨个体体重管理和健康问题。
 - 介绍Dr. Berg的身体类型理论及其对个人健康的影响。
@@ -2450,6 +2542,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
         alt="[Youtube]" width="200">
 </a>
 
+# Karen Crock talks about her success with Dr. Berg with sleep
+
 ### 核心主題
 - **能量不足與低能量狀態**：Karen Crock 在接受治療前報告了嚴重的疲勞、低能量和注意力分散問題，影響了她的工作效能。
 - **Dr. Berg 的診療方法**：Karen 興趣於 Dr. Berg 的壓力技術和其他自然療法，這些方法幫助她恢復精力。
@@ -2483,6 +2577,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
         alt="[Youtube]" width="200">
 </a>
 
+# Linda Fitzpatrick talks about her visit with Dr. Berg
+
 ### 核心主題  
 - 求診者（Linda Fitzpatrick）因健康問題尋求專業.Weight loss consultation with Dr. Berg.
 
@@ -2513,6 +2609,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
     <img src="https://img.youtube.com/vi/6Ml79LrZUHU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Nancy Belsoy talks about her visit with Dr Berg
 
 ### 小節一：核心主題  
 - 患者因自身健康問題（體重增加、睡眠障礙、疲勞）尋求專業醫療建議。  
@@ -2547,6 +2645,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
     <img src="https://img.youtube.com/vi/7DWg-y875CE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Norma Setner Talks about her visit with Dr. Eric Berg DC
 
 ### 核心主題  
 - 患者Norma Sentner因過重及健康問題Seeking alternatives to conventional medicine.  
@@ -2614,6 +2714,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
         alt="[Youtube]" width="200">
 </a>
 
+# Sheila Gray Talks About Her Visit with Dr. Berg
+
 ### 核心主題 (Core Theme)
 - **名稱**: Core Theme  
   **解說**: 文章的核心主題圍繞Sheila Gray與Dr. Berg之間的互動，特別是她在減肥過程中遇到的挑戰和從Dr. Berg那裡獲得的專業建議。
@@ -2657,6 +2759,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
     <img src="https://img.youtube.com/vi/B_Y-ceKnSYI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Get Rid of Sinus Congestion? – Acupressure for Sinus – Dr. Berg
 
 ### 文章整理與結構化分析
 
@@ -2729,6 +2833,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
         alt="[Youtube]" width="200">
 </a>
 
+# The Pain Of Pleasure Foods – Dr. Berg
+
 ### 文章整理與分析
 
 #### 核心主題
@@ -2791,6 +2897,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
         alt="[Youtube]" width="200">
 </a>
 
+# The Reason Why Protein Is Used for Fat Burning – Dr. Berg
+
 ### 1. 核心主題
 本文主要探討脂肪燃燒與蛋白質攝取之間的平衡與相互作用，強調通過合理的飲食結構來促進脂肪燃燒並避免對肝臟和其他器官造成負擔。
 
@@ -2824,6 +2932,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
     <img src="https://img.youtube.com/vi/jcrii9_Um0I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Cause of Neck and Shoulder Pain – Dr. Berg
 
 ### 關鍵重點整理
 
@@ -2868,6 +2978,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
     <img src="https://img.youtube.com/vi/P7fHYSyvxU0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Blood Sugar and Diabetes Myths Exposed: Dr. Berg Uncovers the Truth
 
 ### 文章整理：血糖調節與肝臟健康的關係
 
@@ -2947,6 +3059,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
         alt="[Youtube]" width="200">
 </a>
 
+# Understanding the Women Menstrual Cycle and Estrogen Dominance – Dr. Berg
+
 ### 文章整理：女性荷爾蒙失衡與月经周期紊乱的成因及解决方案
 
 #### 1. 核心主題
@@ -2996,6 +3110,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
     <img src="https://img.youtube.com/vi/14FhxVeAnwM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Real Agenda Behind the Gun Debate
 
 ### 核心主題  
 - 探讨枪支管制辩论背后未被充分讨论的心理药物问题及其对枪支暴力的影响。
@@ -3055,6 +3171,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
     <img src="https://img.youtube.com/vi/HWI1TljBsaw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Sugar Toxicity
 
 ### 文章重點整理
 
@@ -3117,6 +3235,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
         alt="[Youtube]" width="200">
 </a>
 
+# Understanding Acidity, Alkalinity, and the Many Myths About pH
+
 ### 文章整理： 認识酸碱平衡与健康
 
 #### 1. 核心主題  
@@ -3155,6 +3275,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
     <img src="https://img.youtube.com/vi/qQhqjoUinUA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Amazing Gallbladder
 
 ### 文章整理： gallbladder健康與養生指南
 
@@ -3204,6 +3326,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
     <img src="https://img.youtube.com/vi/Va476cehZ8s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Metabolism Problem, Weight Symptom - Most Weight Loss Programs are Health Loss Programs
 
 ### 核心主題  
 - 體重問題的核心在於代謝率而非单纯的重量管理。  
@@ -3277,6 +3401,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
         alt="[Youtube]" width="200">
 </a>
 
+# Dr Eric Berg interviews Charmain Josie's Testimonial
+
 ### 核心主題
 - 身體健康管理與生活方式的改變。
 - 应對壓力和整體健康的关注。
@@ -3315,6 +3441,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
     <img src="https://img.youtube.com/vi/PhBAzuKxob8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Eric Berg's Testimonial with Tobi Harden
 
 ### 1. 核心主題
 - **整體健康評估與問題 해결**: Toby Harden 訪問 Dr. Berg 的主要目的是針對自身的多個健康問題進行評估和治療，包括皮膚問題（如痤瘡）、膝蓋疼痛、體重管理以及關節炎等。
@@ -3360,6 +3488,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
     <img src="https://img.youtube.com/vi/Hub-MpPIjr0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Eric Berg's Success Story with Angela Hightower
 
 ### 核心主題
 - **肥胖與體重管理**：Angela自述其一生的體重變化歷程，並提到她在不同時期尝试過不同的方法來控制體重。
@@ -3407,6 +3537,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
     <img src="https://img.youtube.com/vi/hK111hngfoc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Wheat - Health Destroyer or Body Healer?
 
 # 小麥的雙面性：危害與救贖
 
@@ -3459,6 +3591,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
         alt="[Youtube]" width="200">
 </a>
 
+# Dr Eric Berg's Success Story - Stephanie Williams
+
 ### 小節整理
 
 #### 核心主題  
@@ -3496,6 +3630,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
         alt="[Youtube]" width="200">
 </a>
 
+# Peripheral Neuropathy Nerve Support Formula - Dr. Berg
+
 ### 小節歸納
 
 #### 核心主題
@@ -3530,6 +3666,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
     <img src="https://img.youtube.com/vi/cD_llOyLXo0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Eric Berg's Success with Tracy Moreland
 
 ### 核心主題：
 - Tracy Morin分享了她在健康方面遇到的挑戰及她如何尋求Dr. Berg的幫助來解決這些問題。
@@ -3588,6 +3726,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Eric Berg's Client's Testimonial with Debra Carroll
+
 ### 文章整理：Deborah Carrol 言談記錄
 
 #### 核心主題  
@@ -3626,6 +3766,8 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
     <img src="https://img.youtube.com/vi/fgm4GQAlVIc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr Eric Berg's Success Story with Sheila Beander
 
 ### 文章整理與分析
 
@@ -3702,6 +3844,8 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
         alt="[Youtube]" width="200">
 </a>
 
+# How to Read Your Body
+
 ### 文章整理：健康與疾病的多維度分析
 
 #### 1. 核心主題  
@@ -3770,6 +3914,8 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
         alt="[Youtube]" width="200">
 </a>
 
+# The Best Adrenal Supplement for Adrenal Fatigue
+
 ### 核心主題  
 - 介紹一款名為「Adrenal Body Type Support」的產品，其主要功效在於支持腎上腺健康，降低壓力並改善整體 wellbeing。
 
@@ -3832,6 +3978,8 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
     <img src="https://img.youtube.com/vi/xvOwfkg9p2o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What to Eat for Your Body Type?
 
 # 文章整理：身體類型與飲食計劃的核心原則
 
@@ -3908,6 +4056,8 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
         alt="[Youtube]" width="200">
 </a>
 
+# Adrenal Body Type, Cortisol & Belly Fat! – Dr. Berg
+
 
 </details>
 
@@ -3918,6 +4068,8 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
     <img src="https://img.youtube.com/vi/yXEpjTny9bg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# It's Get Healthy to Lose Weight NOT Lose Weight to Get Healthy!
 
 ### 小節歸納
 
@@ -3961,6 +4113,8 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
     <img src="https://img.youtube.com/vi/_EdejK5Tl1Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Two Fat Making Hormones, Cortisol and Insulin / How they Dominate all Six Fat Burning Hormones
 
 ### 核心主題
 - 討論與脂肪燃燒相關的激素及其相互作用。
@@ -4017,6 +4171,8 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
         alt="[Youtube]" width="200">
 </a>
 
+# Relief with Reflex Sympathetic Dystrophy (RSD) and Complex Regional Pain Syndrome (CRPS)
+
 ### 核心主題
 - 探讨疼痛的本质及其治疗方法。
 - 介紹一種基於「對側原理」的疼痛 Relief 技術。
@@ -4060,6 +4216,8 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
         alt="[Youtube]" width="200">
 </a>
 
+# The Shocking Truth About Our Foods!
+
 ### 核心主題  
 - 营養標籤上的營養成分含量分析及其實用性。  
 
@@ -4092,6 +4250,8 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
     <img src="https://img.youtube.com/vi/odLJW1KXfqw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Trace Minerals, the Missing Nutrient in Our Soils, Plants and Bodies!
 
 ### 核心主題  
 - **微量元素的重要性**：文章強調了微量元素（trace minerals）在人體健康中的關鍵作用，並探討其在全球範圍內的公共衛生意義。  
@@ -4135,6 +4295,8 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
     <img src="https://img.youtube.com/vi/_m-R4RqRQqM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg's Body Type Seminar
 
 ### 文章重點整理
 
@@ -4182,6 +4344,8 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
     <img src="https://img.youtube.com/vi/ujZKXeCrA5g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Do Not Eat Eggs - Unless You Watch This
 
 ### 核心主題  
 - 蛋白質（雞蛋）的營養價值及其健康益處。  
@@ -4238,6 +4402,8 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg's Weight Loss Success
+
 ### 小節整理：
 
 #### 核心主題：
@@ -4285,6 +4451,8 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
         alt="[Youtube]" width="200">
 </a>
 
+# Burn 450% More Belly Fat by Workout – Dr. Berg
+
 ### 核心主題
 - **高強度間歇訓練（HIIT）**：文章強調了高強度間歇訓練在脂肪燃燒和生長激素分泌方面的有效性。
 - **生長激素的作用**：生長激素在抗衰老和脂肪燃燒方面具有重要作用，而高強度訓練可以顯著提高其水平。
@@ -4331,6 +4499,8 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
         alt="[Youtube]" width="200">
 </a>
 
+# Best Healthy Pasta Recipe for Weight Loss by Dr. Berg
+
 ### 小節歸納
 
 #### 1. 核心主題
@@ -4370,6 +4540,8 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
         alt="[Youtube]" width="200">
 </a>
 
+# The BEST Acupressure Technique for Relieving Stress of Your Adrenals
+
 ### 核心主題  
 - 介紹使用按摩工具來釋放腹部壓力和放鬆全身的方法。  
 
@@ -4401,6 +4573,8 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
     <img src="https://img.youtube.com/vi/mVmgz9oVUo4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg's Stress Relieving Technique for Occipital Tension
 
 ### 核心主題  
 - 身體姿勢矯正與頸椎健康  
@@ -4443,6 +4617,8 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg's Stress Relieving Technique for Upper Neck Tightness
+
 ### 小結點整理
 
 #### 核心主題:
@@ -4483,6 +4659,8 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg's Stress Relieving Acupressure Technique for Mid-back Tightness
+
 ### 文章重點整理
 
 #### 1. 核心主題
@@ -4518,6 +4696,8 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
     <img src="https://img.youtube.com/vi/u5eWshrxBCY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The BEST Acupressure Technique for Stress Relief - Part 1 Dr. Eric Berg DC
 
 ### 核心主題
 - 使用按摩工具進行頸部放松和壓力 relief。
@@ -4569,6 +4749,8 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
         alt="[Youtube]" width="200">
 </a>
 
+# Dr.Berg's Stress Relieving Technique for a Stiff Neck Relief (MUST TRY!)
+
 ### 核心主題
 - 示範如何使用按摩工具進行鎖骨伸展。
 - 強調按摩工具的多種宽度設計及其用途。
@@ -4618,6 +4800,8 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
         alt="[Youtube]" width="200">
 </a>
 
+# The BEST Acupressure Technique For Neck Tension
+
 ### 核心主題  
 1. 介紹一種消除頸部壓力的技巧，以改善睡眠品質。  
 
@@ -4654,6 +4838,8 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
         alt="[Youtube]" width="200">
 </a>
 
+# Fat Burning, Hormones & Aging
+
 ### 核心主題  
 - 年齡對代謝率及體重管理的影響。  
 
@@ -4688,6 +4874,8 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
     <img src="https://img.youtube.com/vi/6huEl-z3uPE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg Discusses Body Types, Belly Fat & Other Shapes
 
 ### 文章重點整理
 
@@ -4747,6 +4935,8 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
         alt="[Youtube]" width="200">
 </a>
 
+# How I Came Up with the 4 Body Types
+
 ### 核心主題  
 - 探讨不同体型与健康问题之间的关系，特别是脂肪分布与内分泌系统功能障碍的联系。  
 
@@ -4789,6 +4979,8 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
         alt="[Youtube]" width="200">
 </a>
 
+# Weight Loss Success stories from Dr Eric Berg's healthy weightloss clinic
+
 ### 核心主題
 - 情感與身體健康的提升
 - 通過改變生活方式來改善整體健康狀況
@@ -4830,6 +5022,8 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
         alt="[Youtube]" width="200">
 </a>
 
+# Video 8
+
 ### 核心主題  
 - 按摩therapy對壓力管理和身體健康的影響。  
 
@@ -4858,6 +5052,8 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
     <img src="https://img.youtube.com/vi/LjgvA4v6FAo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Healthy Weight Loss Success Story by Dr. Eric Berg
 
 ### 核心主題
 - 論述心理健康的重要性及其改善的可能性。
@@ -4894,6 +5090,8 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
         alt="[Youtube]" width="200">
 </a>
 
+# Video 6
+
 ### 核心主題
 - 記述個人睡眠質量的變化及其對生活和健康的影響。
 
@@ -4925,6 +5123,8 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
     <img src="https://img.youtube.com/vi/9EObAxl1bZs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg Testimonial on Fast Weight Loss
 
 ### 核心主題
 - 身體形態和健康狀況的改善  

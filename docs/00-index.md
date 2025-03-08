@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Fast Weight Loss Success Story
+
 I. 核心主題  
 - 受訪者分享了自己因擔心腹部脂肪而來到某個地方（可能是健康或減肥機構）的经历。  
 - 强調了通過改變飲食習慣和生活方式後取得的顯著成果，包括體重 loss 和身體不適的改善。  
@@ -41,6 +43,8 @@ VI. 結論
     <img src="https://img.youtube.com/vi/703oYuzXZNo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Crohns Disease Success
 
 ### 核心主題
 - **慢性炎症性腸病（IBD）**：主要包括克羅恩氏症（Crohn's disease）和 ulcerative colitis。
@@ -90,6 +94,8 @@ VI. 結論
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg’s Healthy Diet Success Story: Potassium Rich Foods
+
 ### 核心主題  
 - 長期體重管理的挑戰與diet Dr. Burke飲食計劃的效果  
 
@@ -126,6 +132,8 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
         alt="[Youtube]" width="200">
 </a>
 
+# Stabilizing Exercises  for Low Back & Pelvis
+
 
 </details>
 
@@ -136,6 +144,8 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
     <img src="https://img.youtube.com/vi/GXirii-9ySo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg's Office Quick Tour
 
 ### 核心主題  
 - 健康與 Wellness 中心的介紹與功能概述  
@@ -196,6 +206,8 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
         alt="[Youtube]" width="200">
 </a>
 
+# What to do for a Tailbone Injury - for Low Back Pain
+
 ### 核心主題  
 1. 解決慢性下背痛的最後一項技術：針對尾骨舊 injury 的處理。  
 2. 介紹一種新的整體調整方法，超越傳統學校教導的关节調整技巧。  
@@ -244,6 +256,8 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
         alt="[Youtube]" width="200">
 </a>
 
+# Fat Burning Candy Bar
+
 # 文章整理： deprivation dieting 與代糖甜點替代方案
 
 ## 核心主題
@@ -285,6 +299,8 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
     <img src="https://img.youtube.com/vi/IHfiEXMgZ_4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Enhanced Waters are Really Sugar Water
 
 ### 核心主題：飲料中的糖分與營養成分分析及其健康影響
 
@@ -341,6 +357,8 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
         alt="[Youtube]" width="200">
 </a>
 
+# Do Not Eat Eggs, Unless You Watch This
+
 ### 核心主題：鸡蛋的营养价值与健康益处  
 - 鸡蛋是高营养价值的食物，尤其是蛋黄部分富含多种营养素，包括脂肪、维生素和必需脂肪酸。  
 - 蛋黄可以被视为一种天然的复合维生素来源。  
@@ -378,6 +396,8 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
     <img src="https://img.youtube.com/vi/fKjqBZdf3RQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Try This Weight Loss Shake
 
 ### 小節結構化整理
 
@@ -417,6 +437,8 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
     <img src="https://img.youtube.com/vi/1URgrSjgQTY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The 2 Types of Exercise for Belly Fat
 
 ### 小節歸納
 
@@ -472,6 +494,8 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
         alt="[Youtube]" width="200">
 </a>
 
+# No More Problems with Sleeping
+
 ### 核心主題  
 - 受訪者在過去三周內於健康與 wellness center 接受治療後，睡眠品質得到顯著改善。  
 
@@ -512,6 +536,8 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
     <img src="https://img.youtube.com/vi/CIZ3ake2ZBo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Kale Smoothies Recipes
 
 ### 核心主題： kale Shake 的製作與健康益處
 
@@ -569,6 +595,8 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
     <img src="https://img.youtube.com/vi/hTqDCao_Caw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How Not to Become a Procrastinator
 
 ### 小節一：核心主題  
 - 言論圍繞「拖延症」（Procrastination）及其對健康和生活質量的影響展開。  
@@ -628,6 +656,8 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
         alt="[Youtube]" width="200">
 </a>
 
+# Getting the Right Diet for Your Body Type
+
 ### 核心主題
 - 膳食選擇在健康管理與疾病治療中的重要性。
 - 不同個體之間存在生理差異，影響對不同飲食的反應。
@@ -665,6 +695,8 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
     <img src="https://img.youtube.com/vi/41HnMrqZAmU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# A Great Tool for Stress Relief
 
 ### 核心主題  
 - 探讨同步呼吸技术（Synchronization Breathing Technology）作为一种基于科学的减压方法。
@@ -711,6 +743,8 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
     <img src="https://img.youtube.com/vi/s5h3VoMQt9g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best and Worst Type of Calcium
 
 ### 小節歸納
 
@@ -788,6 +822,8 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
         alt="[Youtube]" width="200">
 </a>
 
+# Cheryl Jackson Radio Interview on 104.1 Talking about the Adrenal
+
 ### 核心主題
 - 論述不同體型與 adrenal gland（腎上腺）之間的關聯。
 - 强調慢性壓力對健康的影響，特別是與皮質醇激素過高相關的健康問題。
@@ -850,6 +886,8 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
     <img src="https://img.youtube.com/vi/DnvnKnu7YBI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best and Worst Vitamin C
 
 ### 文章整理：vitamin C 的重要性與合理攝取
 
@@ -917,6 +955,8 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
         alt="[Youtube]" width="200">
 </a>
 
+# Make Your Own Weight Loss Drink
+
 ### 文章整理解讀
 
 #### 核心主題  
@@ -954,6 +994,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/fGT5cISbXa4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Stop Cravings for Sugar
 
 ### 全文要旨  
 本文介紹了一種名為「Jима」（Gimma）的草藥，其具有阻斷甜味感知的功能。通過多項實驗演示，文中展示了該草藥如何降低或消除對甜食、酒精等的渴望，進而幫助人們控制飲食和戒除不良習慣。文章強調了 moderation 的重要性，并提供了一種自然方法來協助減肥和改善整體健康。
@@ -1005,6 +1047,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
+# Reverse Sit-ups for Belly Fat
+
 ### 核心主題  
 - 介紹一種針對下腹部「小肚子」或皮膚鬆弛的運動方法。
 
@@ -1052,6 +1096,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/LRxN-30oJx8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Ultimate Exercise for Posture
 
 ### 文章整理：改善姿勢的方法
 
@@ -1110,6 +1156,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
+# The Best Weight Loss Meal Replacement Shake Ingredients
+
 ### 文章重點整理
 
 #### 核心主題  
@@ -1160,6 +1208,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/M9Isr1ON3lE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why am I Bloated?
 
 ### 文章整理：核心主題  
 - **核心主題**：探讨腹部胀气（bloating）的原因及其与胆汁（bile）不足的关系，并提供解决方案。
@@ -1223,6 +1273,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/vadPxKRGm7k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Foods that Burn Fat
 
 ### 核心主題
 - ** calorie counting 的混淆與限制**
@@ -1296,6 +1348,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
+# The Drink More Water Myth
+
 ### 核心主題  
 - 探讨关于水的常见误区及其科学真相。  
 
@@ -1357,6 +1411,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
+# Successes from The 7 Principles of Fat Burning
+
 ### 小節歸納：
 
 #### 1. 核心主題：
@@ -1408,6 +1464,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
+# A Great Diet Success
+
 ### 小節結構
 
 1. **核心主題**  
@@ -1446,6 +1504,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/eRjBkoFy9IA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Healthiest Diet Explained By Dr. Berg
 
 ### 核心主題：健康與營養管理的重要性
 
@@ -1492,6 +1552,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
+# Get Rid of Cravings at Night
+
 # 關於夜間渴望甜食的飲食建議
 
 ## 核心主題
@@ -1529,6 +1591,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/giPkBbm52CM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The HCG Diet - Reviews
 
 ### 小節整理
 
@@ -1569,6 +1633,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/-LfNqA61-aU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Improved Breathing, Better Sleep and More Energy
 
 ### 核心主題
 - 患者報告了一個涉及主動脉瓣和二尖瓣的醫療手術史。
@@ -1618,6 +1684,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/v-qINKfAm7U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Overcoming Temptation and Help with Weight Loss!
 
 # 文章重點整理
 
@@ -1678,6 +1746,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/UUV7CRT8lbE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Rid Stretch Marks
 
 # 文章整理：消除妊娠紋的方法
 
@@ -1744,6 +1814,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
+# Diet Plan Success
+
 ### 核心主題
 - **飲食計劃的效果**：受訪者在短期內體驗到了顯著的健康改善，包括能量增加、 craving 减少和整體生活品質提升。
 - **生活方式的改變**：受訪者將此計劃視為長期的生活方式，而非短期的 diets。
@@ -1807,6 +1879,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
+# The 600 pound guy
+
 ### 小節歸納
 
 #### 1. 核心主題  
@@ -1841,6 +1915,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/x9espCyDUp8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg's follow up to his shoulder fracture
 
 ### 核心主題
 - 肩部骨折康復的進展與經驗分享。
@@ -1880,6 +1956,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/TTqsVzse5HY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg Explains His Pain After Surgery
 
 ### 核心主題  
 - **意外導致肱骨骨折及肩袖損傷**  
@@ -1924,6 +2002,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/NqOpIj_XXFU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What are Phytonutrients?
 
 ### 文章重點整理
 
@@ -1983,6 +2063,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
+# Understanding Body Types
+
 
 </details>
 
@@ -1993,6 +2075,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/krwKqnmidC8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What are Carbohydrates?
 
 ### 文章整理： grains 的營養與健康影響
 
@@ -2049,6 +2133,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
+# How Sugar Effects Your Body
+
 ### 文章整理與歸納
 
 #### 核心主題
@@ -2094,6 +2180,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/wr82y-dGoTg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Importance of Sleep and Weight Loss
 
 ### 文章整理
 
@@ -2149,6 +2237,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/FTZcZz1ESII/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg Discusses Liver Cleansing Food on News Channel 8 Sports Talk Dr. Eric Berg 2
 
 ### 文章整理：健康飲食與體重管理的核心要素
 
@@ -2225,6 +2315,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
+# A Better Way to Track Weight Loss
+
 ### 文章重點整理
 
 #### 核心主題
@@ -2266,6 +2358,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Eric Berg, Gets Success with Weight Loss
+
 ### 核心主題
 - 認知與思考的深度探索：文章強調了人類思維過程中常被忽視的簡單事實，這些事實雖然看似平凡，卻蘊含著深刻的智慧。
 - 思考習慣的局限性：指出人們常常受限於既定的思維模式，未能充分發揮創造力和批判性thinking。
@@ -2299,6 +2393,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/0rh0qiyPxdY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr  Eric Berg, Seminar testimonial
 
 ### 核心主題  
 - 探讨肥胖和体重管理的科学方法。  
@@ -2337,6 +2433,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Eric Berg, Seminar Success with Losing Weight
+
 ### 核心主題  
 - 受眾對參加某 Seminar 的積極評價和深刻印象。  
 
@@ -2369,6 +2467,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
+# Dr  Eric Berg, Seminar testimonial
+
 ### 核心主題  
 - 講演者展示了即時幫助受困者的實力與能力。  
 
@@ -2396,6 +2496,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/_jV90HZceus/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# A Great Weight Loss Success
 
 ### 核心主題
 - 半導體研發中的痛點與挑戰。
@@ -2434,6 +2536,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/8SixpXSS6Bw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Register for Dr. Berg's Seminar
 
 ### 核心主題
 - **慢性疾病的挑戰**：面對肥胖、疲勞、睡眠障礙等健康問題，傳統方法未能有效解決。
@@ -2482,6 +2586,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
+# Dr  Eric Berg, Seminar testimonial
+
 ### 小節整理
 
 #### 核心主題
@@ -2508,6 +2614,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/YF00ySD6nKE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr Berg's Patient Speak About Their Success
 
 ### 核心主題  
 - 受訪者在經過某種治療或計劃後，身體健康和生活方式發生了顯著改善。  
@@ -2549,6 +2657,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/919B_Ey0fuU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Using Acupressure for Headaches
 
 ### 文章重點整理
 
@@ -2602,6 +2712,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
+# Stretches for Back Pain
+
 ### 小節：低背部伸展的重要性
 1. **核心主題**：
    - 低背部健康與日常活動的關聯。
@@ -2643,6 +2755,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
+# Interesting Success Story
+
 ### 小節歸納
 
 #### 核心主題
@@ -2678,6 +2792,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/Sggj4HgaoO0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Anxiety Relief Success
 
 ### 核心主題  
 - 長期受高焦慮和睡眠障礙困擾，影響生活品質及人際關係。  
@@ -2715,6 +2831,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/yhxWd2jveT8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best and Worst Weight Loss Diets
 
 ### 小節化整理
 
@@ -2766,6 +2884,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/ZBpNtVSmTN4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 90 Year Old - Amazing Story
 
 ### 小節一：核心主題  
 - 文章的核心主題圍繞著Betty Kendall女士在老年時期的卓越成就與影響力。  
@@ -2823,6 +2943,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Eric Berg, Seminar testimonial
+
 ### 核心主題
 - 本篇文章描述了作者在參加一個研討會後的感受及其對所獲得信息和技巧的反應。
 
@@ -2852,6 +2974,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg on Sport's Talk
+
 
 </details>
 
@@ -2862,6 +2986,8 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
     <img src="https://img.youtube.com/vi/KkBWi3G9qM0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Hidden Source Belly Fat: MSG Monosodium Glutamate
 
 ### 核心主題  
 - 調味增強劑（MSG，即單 sodium glutamate）在市場上的廣泛應用及其潛在影響。
@@ -2908,6 +3034,8 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
     <img src="https://img.youtube.com/vi/8JJm4HRq8Oo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg Grows Kale in His Basement (Part 2)
 
 ### 文章整理：水耕法及其營養價值探討與健康飲品介紹
 
@@ -2979,6 +3107,8 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg Grows Cruciferous Vegetables in his Basement (Part 1)
+
 ### 核心主題
 - **Hydroponics（水耕法）**：介紹了一種在水中種植蔬菜的方法，強調其高效性和資源利用率。
 - **Biochar（生物炭）**：一種由高溫缺氧燒制而成的木炭，具有改善土壤肥力的功能。
@@ -3029,6 +3159,8 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
         alt="[Youtube]" width="200">
 </a>
 
+# The Best Fat Burning Exercise
+
 ### 文章重點整理
 
 #### 核心主題
@@ -3074,6 +3206,8 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
     <img src="https://img.youtube.com/vi/HS0Bm5oB8YI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg's Body Types
 
 ### 核心主題  
 - 探讨不同身体类型的分类及其与内分泌系统的关系。  
@@ -3141,6 +3275,8 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
     <img src="https://img.youtube.com/vi/5Q6g9e1O35s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr Eric Berg's Review: After 2 Adrenal Acupressure Treatments
 
 ### 文章整理與分析
 
@@ -3211,6 +3347,8 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
         alt="[Youtube]" width="200">
 </a>
 
+# Get Rid of Cravings at Night
+
 ### 核心主題  
 - **夜間 cravings 的管理**：探討如何有效控制夜間對甜食或其他食物的渴望。
 
@@ -3272,6 +3410,8 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
         alt="[Youtube]" width="200">
 </a>
 
+# Adrenal Burnout
+
 ### 核心主題
 - 長期過度使用咖啡因對健康的影響。
 - 皮質醇耗竭（Adrenal Burnout）的症狀與恢復。
@@ -3318,6 +3458,8 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
         alt="[Youtube]" width="200">
 </a>
 
+# The Best Tip for Reducing Stress Hormones
+
 ### 小節歸納
 
 #### 核心主題
@@ -3351,6 +3493,8 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
     <img src="https://img.youtube.com/vi/yQ9jy2eCb5I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Cortisol, The Good, The Bad & The Ugly
 
 ### 核心主題  
 - 本文探討了皮質醇（cortisol）在應激反應中的作用及其長期影響，特別是與腎上腺功能異常相關的健康問題。
@@ -3413,6 +3557,8 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
         alt="[Youtube]" width="200">
 </a>
 
+# Thyroid Body Type - Dr. Berg
+
 ### 小節整理
 
 #### 1. 核心主題：甲状腺功能异常的症状与影响
@@ -3460,6 +3606,8 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
     <img src="https://img.youtube.com/vi/3GWnU_lma7w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Sleep, Cortisol, & Belly Fat
 
 ### 英文版文章標題  
 **Sleep and Why People Can't Sleep: The Role of Stuck Energy and Natural Remedies**
@@ -3529,6 +3677,8 @@ Dr. Berg
         alt="[Youtube]" width="200">
 </a>
 
+# How to Trigger Your Fat Burning Hormones
+
 ### 核心主題：生長激素與arginine的作用及影響
 
 #### 主要觀念：
@@ -3560,6 +3710,8 @@ Dr. Berg
     <img src="https://img.youtube.com/vi/kJegLw2qtPc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Vitamin D Adrenals Belly Fat
 
 ### 小節一：核心主題  
 - 討論了維生素D缺乏與皮質醇（壓力荷爾蒙）之間的關聯。  
@@ -3603,6 +3755,8 @@ Dr. Berg
     <img src="https://img.youtube.com/vi/bNnmCqGMy8Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg Talks about Body Types on News 9
 
 ### 文章整理與分析
 
@@ -3654,6 +3808,8 @@ Dr. Berg
     <img src="https://img.youtube.com/vi/M25xpZk5WtU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Burn Fat I Dr. Berg on Fox and Friends I Talks About Body Types
 
 ### 文章重點整理
 
@@ -3711,6 +3867,8 @@ Dr. Berg
         alt="[Youtube]" width="200">
 </a>
 
+# Success Story with Belly Fat Loss - Lost over 100 lbs
+
 ### 核心_theme  
 - **成功案例分析**：Susan 的.Weight loss 故事展示了從肥胖到健康生活的轉變。  
 - **ライフスタイルの変化と持続可能性**：強調したのは、健康的な食事と規칙的な運動を通じた持続可能なウェルネス管理。  
@@ -3746,6 +3904,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
     <img src="https://img.youtube.com/vi/G3AFxauJeok/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Fast Healthy Weight Loss - Patients Speak Their Success!
 
 ### 小結整理
 
@@ -3789,6 +3949,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
     <img src="https://img.youtube.com/vi/E7yVINKxiew/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Rid Craving
 
 ### 文章整理：抗碳水化合物 cravings 的飲食計劃
 
@@ -3852,6 +4014,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
         alt="[Youtube]" width="200">
 </a>
 
+# Body Type Video
+
 ### 核心主題
 - 人體有不同的形狀或身體類型，主要分為四種。
 - 身體不同部位囤積脂肪的原因存在未被廣泛了解的事實。
@@ -3903,6 +4067,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Eric Berg's Review: Patient Speak About Her Success
+
 ### 核心主題
 - 受訪者因 bụng béo 至痛楚而尋求幫助。
 - 經治療後，受訪者在體重、健康狀況及生活品質方面均有顯著改善。
@@ -3953,6 +4119,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
     <img src="https://img.youtube.com/vi/_xR5rYmSvc0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr Eric Berg's Review: No More Problems with Sleeping
 
 ### 文章重點整理
 
@@ -4045,6 +4213,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg's Example of Acupressure for Weight Loss
+
 ### 核心主題  
 1. 本文主要圍繞個人在身體和心理上的舒適感與健康狀況展開，強調音樂對情緒和身體機能的積極影響。  
 
@@ -4077,6 +4247,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
     <img src="https://img.youtube.com/vi/mLk7prs2IdM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Eric Berg Review: Gaining Weight after Smoking
 
 ### 核心主題  
 - 病人報告了一系列健康問題，包括睡眠障礙、過敏反應、膝蓋疼痛和體重增加。  
@@ -4126,6 +4298,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg in the Media
+
 
 </details>
 
@@ -4136,6 +4310,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
     <img src="https://img.youtube.com/vi/_kuQPktErD4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg Speaks at the Federal Communication Commission
 
 ### 文章重點整理
 
@@ -4206,6 +4382,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
         alt="[Youtube]" width="200">
 </a>
 
+# Body Shape Seminar (Part 3)
+
 ### 文章整理：健康與減肥之道
 
 #### 核心主題
@@ -4274,6 +4452,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
         alt="[Youtube]" width="200">
 </a>
 
+# Body Shape Seminar (Part 2)
+
 ---
 
 ### 一、核心主題：身體類型與健康綜合分析
@@ -4339,6 +4519,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
         alt="[Youtube]" width="200">
 </a>
 
+# Body Shape Seminar (Part 1)
+
 ### 文章重點整理
 
 #### 核心主題
@@ -4399,6 +4581,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
         alt="[Youtube]" width="200">
 </a>
 
+# Dr.Eric Berg @ News Channel 8 (Behind The Scenes)
+
 ### 核心主題
 - **飲食與健康**：探討如何通過健康的飲食習慣來提升整體健康。
 - **合成維生素的問題**：分析市面上大多數維生素來自石油衍生物的問題及其潛在風險。
@@ -4447,6 +4631,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg Talks about Healthy Weight Loss on News Channel 8
+
 ### 文章整理與結構化分析
 
 #### 核心主題：  
@@ -4490,6 +4676,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg has an Albino Deer in His Backyard
+
 
 </details>
 
@@ -4500,6 +4688,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
     <img src="https://img.youtube.com/vi/nTOrG4w660c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Understanding the Best Nutrients for Weight Loss
 
 ### 小節整理：脂肪的功能與健康哲學
 
@@ -4539,6 +4729,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
     <img src="https://img.youtube.com/vi/McGFltMvSIo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Vitamins and Nutrients for Weight Loss
 
 ### 核心主題
 - 調控卡路里攝取並非促進健康的有效方法。
@@ -4591,6 +4783,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
     <img src="https://img.youtube.com/vi/Q5wN32_3m4o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Adrenal, Stress and Your Sleep
 
 ### 核心主題
 - **整體健康至上的減重理念**：強調通過改善健康狀況來促進減重，而非单纯追求卡路里攝取或燃燒。
@@ -4654,6 +4848,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
     <img src="https://img.youtube.com/vi/lgyf5KoRfzE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Exercise
 
 ### 文章整理與分析
 
@@ -4725,6 +4921,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
         alt="[Youtube]" width="200">
 </a>
 
+# Body Types
+
 ### 一、核心主題：身體類型分類与健康关联
 
 文章主要探讨了四种不同的身体类型（腺体型、卵巢型、肝型和肾上腺型），并分析了每种类型在体重分布、健康问题及饮食建议方面的特点。
@@ -4785,6 +4983,8 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
     <img src="https://img.youtube.com/vi/LE8iCYYoXh4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg Works on Duane Clemons, Former NFL Player
 
 ### 小節整理：文章重點歸納
 

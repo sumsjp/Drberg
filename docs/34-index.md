@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Why Athletes Need More Potassium
+
 ### 核心主題  
 - 鉀（Potassium）在運動營養中的重要性及其對體能表現的影響。
 
@@ -61,6 +63,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Avoid Sardines with Soybean Oil
+
 ### 小節歸納
 
 #### 核心主題
@@ -109,6 +113,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Urine Test Simplified
+
 很抱歉，我無法理解您提供的文章內容。這篇文章似乎包含了很多混亂和不連貫的句子，缺乏明確的主题或結構。如果您能提供更清晰的文章或問題描述，我很乐意幫助您整理和歸納重點。
 
 如果您有具體的研究主題或疑問，請告訴我，我可以根據您的需求提供相應的建議或整理。
@@ -121,6 +127,8 @@
     <img src="https://img.youtube.com/vi/JaDJh0oypzU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The #1 Mistake Treating Heartburn
 
 ### 文章整理：心burn治療中醫師常犯的錯誤及其解決方案
 
@@ -170,6 +178,8 @@
     <img src="https://img.youtube.com/vi/t70TVLmnVBI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Benefits of Watercress
 
 ### 核心主題  
 - 探讨水蔊菜（Watercress）作为一种十字花科蔬菜的独特营养价值及其对人体健康的多种益处。
@@ -227,6 +237,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Exercise Keeps Your Brain From Shrinking as You Age
+
 ### 核心主題：運動對腦容積萎縮的預防作用
 
 #### 主要觀念：
@@ -258,6 +270,8 @@
     <img src="https://img.youtube.com/vi/HI0TPqXmHv0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Health Benefits of Cumin
 
 # 文章重點整理：薑黃素的研究與應用
 
@@ -303,6 +317,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Air Pollution Can Cause Diabetes
+
 ### 核心主題：空氣汙染與糖尿病之關聯及其防禦策略
 
 ---
@@ -344,6 +360,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# I Hit 5 Million Subscribers! Thank You!!!
+
 ### 核心主題
 - 作者宣布頻道訂閱數達到500萬，感到驚訝與激動。
 - 表達對subscriber的感謝之情。
@@ -367,6 +385,8 @@
     <img src="https://img.youtube.com/vi/K59U4n2PIhg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Diabetic's High Sugar Coming From Another Source
 
 ### 文章整理：血糖控制與糖異生（Gluconeogenesis）
 
@@ -422,6 +442,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Low Vitamin D Linked to Depressed Teens
+
 ### 1. 核心主題  
 - 維生素D缺乏在青少年中的普遍存在及其與抑鬱症狀的密切關聯性。  
 
@@ -459,6 +481,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Carbs vs. Sugar Clarified
+
 
 </details>
 
@@ -469,6 +493,8 @@
     <img src="https://img.youtube.com/vi/neuWm45EnI4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The First Sign of a Zinc Deficiency is...
 
 ### 文章整理：缺鋅的早期跡象與健康影響
 
@@ -530,6 +556,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Fasting Lowers Blood Pressure
+
 ### 文章重點整理
 
 #### 核心主題
@@ -586,6 +614,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Your Liver is Making Your Body Stiff
+
 ### 文章重點整理
 
 #### 核心主題
@@ -638,6 +668,8 @@
     <img src="https://img.youtube.com/vi/2AyFdr3Fd0c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Dr. Berg Eats
 
 ### 文章整理：健康飲食與生活方式的核心要素
 
@@ -713,6 +745,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Smartphone Effects on the Brain in Children and Teens
+
 ### 核心主題：青少年和兒童手機成癮及其健康影響
 
 #### 主要觀念：
@@ -747,6 +781,8 @@
     <img src="https://img.youtube.com/vi/DoC21ItfQbM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Did I Get PCOS (Polycystic Ovarian Syndrome)?
 
 ### 文章整理：多囊卵巢綜合征（PCOS）的解析與管理
 
@@ -799,6 +835,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Best Type of Exercise for Recovery
+
 ### 小節歸納
 
 #### 1. 核心主題  
@@ -843,6 +881,8 @@
     <img src="https://img.youtube.com/vi/RnlJtQgN_58/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 7 Out of 10 People Take Prescription Drugs
 
 ### 小節歸納
 
@@ -896,6 +936,8 @@
     <img src="https://img.youtube.com/vi/0_F4CEVEFcI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Eat More Mushroom on Keto
 
 # 文章重點整理
 
@@ -961,6 +1003,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Accidentally Messed Up on Keto? DO THIS…
+
 ### 小節整理
 
 #### 核心主題
@@ -1017,6 +1061,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Herbal Teas to Avoid During Pregnancy
+
 ### 小節化整理：
 
 #### 核心主題：
@@ -1053,6 +1099,8 @@
     <img src="https://img.youtube.com/vi/RHuQX5uzodA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Cutting Carbs But Still Not Losing Weight
 
 ### 核心主題
 - **碳水化合物攝取與體重管理**：低 carbohydrate飲食在某些情況下仍不足以促進體重 reduction。
@@ -1113,6 +1161,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Why the Random Muscle Twitch?
+
 ### 核心主題
 - 肌肉無意顫栗（Fasciculation）的現象及其可能原因與解決方法。
 
@@ -1159,6 +1209,8 @@
     <img src="https://img.youtube.com/vi/uMBWF8A3QdI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Bile Acid and Cholesterol: The Missing Link
 
 ### 核心主題：膽汁酸與膽固醇的關聯
 
@@ -1227,6 +1279,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How to Reverse Acanthosis Nigricans
+
 ### 小節整理：文章重點提綱
 
 #### 1. 核心主題  
@@ -1261,6 +1315,8 @@
     <img src="https://img.youtube.com/vi/KnsFf-kgwb8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Does Exercise Increase Lifespan?
 
 ### 核心主題
 - **Exercise and Longevity**: 探讨运动如何延长寿命以及其背后的生物学机制。
@@ -1305,6 +1361,8 @@
     <img src="https://img.youtube.com/vi/kScFxH9ZOYI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Alzheimer's Disease Starts in the Liver – Prevent Alzheimer's With Good Liver Health – Dr.Berg
 
 ### 文章重點整理
 
@@ -1361,6 +1419,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Eating Nuts Can Deplete Zinc
+
 # 文章整理：關於堅果中的抗營養因子植酸及其影響
 
 ## 核心主題
@@ -1411,6 +1471,8 @@
     <img src="https://img.youtube.com/vi/kZn9vRvvvbw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Food Has the Highest Calcium?
 
 ### 核心主題
 - **高鈣食物**：Parmesan奶酪是鈣含量最高的食物之一。
@@ -1472,6 +1534,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Ketogenic Diet Started in the 1800s
+
 ### 核心主題：酮egenic Diet（生酮飲食）的歷史淵源與現代發展
 
 #### 主要觀念：
@@ -1507,6 +1571,8 @@
     <img src="https://img.youtube.com/vi/5ZF-cAKKXTo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# So Tired But Can’t Go to Sleep?
 
 ### 小節化整理：改善睡眠质量的关键策略
 
@@ -1566,6 +1632,8 @@
     <img src="https://img.youtube.com/vi/oao64yh0duA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Fasting and Visceral (Belly) Fat: The Correct Way
 
 ### 核心主題
 - **.INTERMITTENT FASTING AND KETO DIET FOR VISCERAL FAT REDUCTION**
@@ -1630,6 +1698,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Best Way to Measure Your pH
+
 ### 文章整理
 
 #### 核心主題：血液pH值的測量及其影響因素
@@ -1690,6 +1760,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Here's Why I Would Recommend Cod Liver Oil to Those with Thyroid Problems (Hypothyroidism)
+
 ### 核心主題
 - **甲状腺功能不足（甲低）的原因與營養補充策略**
 - **碘、硒和維生素A在甲状腺功能中的重要性**
@@ -1743,6 +1815,8 @@
     <img src="https://img.youtube.com/vi/1GKKcZNtDe4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Starving Your Body of Sleep: This is What Happens
 
 ### 小節化整理
 
@@ -1804,6 +1878,8 @@
     <img src="https://img.youtube.com/vi/u7HWe3nZJtQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Constipation Is Not Just a Lack of Fiber
 
 ### 文章整理：便秘的多面成因與綜合治療策略
 
@@ -1913,6 +1989,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Dr. Berg's Opinion on Botox | What is it and is it Safe?
+
 
 </details>
 
@@ -1923,6 +2001,8 @@
     <img src="https://img.youtube.com/vi/3tLnIDDnPT4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Eight Different Reasons for Poor Sleep
 
 # 文章重点整理与归纳
 
@@ -2013,6 +2093,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Fake Wasabi vs. Real Wasabi
+
 ### 核心主題
 - 真正的山葵（Wasabi）在市場上並不常見且價格昂貴。
 - 大部分市售山葵產品是由其他成分（如馬根或芥末）制成的仿制品。
@@ -2052,6 +2134,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Bee Sting Therapy
+
 ### 小芻目錄：
 1. **核心主題**  
    - 探讨蜜蜂蜇 Venom 的潛在健康益處及其實際應用。
@@ -2086,6 +2170,8 @@
     <img src="https://img.youtube.com/vi/vd58Ic9Y9ls/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Reason is You're Not Eating Enough...
 
 ### 核心主題
 - 探讨体重管理中的常见误解及其科学解决方案。
@@ -2134,6 +2220,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Why Do Stones Develop in Your Kidney and Gallbladder
+
 ### 核心主題：肥胖與體重減輕增加膽石風險的原因及解決方案
 
 #### 主要觀念：
@@ -2165,6 +2253,8 @@
     <img src="https://img.youtube.com/vi/2owiZffYQ0U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Can Losing 5 Pounds Per Month Be Normal?
 
 ### 文章整理：每月瘦五磅是否正常？脂肪燃燒與代謝率的討論
 
@@ -2222,6 +2312,8 @@
     <img src="https://img.youtube.com/vi/dBY86H9MuUc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Seven Amazing Mushrooms and Their Powerful Properties
 
 ### 核心主題：蘑菇的多樣化健康效益及其醫藥潛能
 
@@ -2303,6 +2395,8 @@
     <img src="https://img.youtube.com/vi/gCm2S5Jwe8Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Coconut Flour vs. Almond Flour
 
 ### 文章整理：椰子 flour 與杏仁 flour 的健康與酮友好性比較
 
@@ -2387,6 +2481,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What is the Best Apple Cider Vinegar?
+
 
 </details>
 
@@ -2397,6 +2493,8 @@
     <img src="https://img.youtube.com/vi/_bjOV8Ucmp4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Maximize the Anticancer Effects of Garlic
 
 ### 核心主題
 - **大蒜的抗癌功效**：大蒜中含有的alicin具有多種抗癌作用。
@@ -2449,6 +2547,8 @@
     <img src="https://img.youtube.com/vi/xVaXYh2hldw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Is the Pituitary Gland?
 
 ### 文章重點整理
 
@@ -2520,6 +2620,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Use ACV (Apple Cider Vinegar) for Eczema
+
 ### 文章整理：蘋果醋對皮膚健康的作用及其他自然療法
 
 #### 核心主題
@@ -2582,6 +2684,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Soils Are NOT Depleted of Nutrients...WHAT?
+
 ### 文章整理：土壤微生物多样性与人类健康的关联
 
 #### 核心主題
@@ -2640,6 +2744,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# 9 Proven Benefits of Chlorophyll
+
 ### 核心主題  
 - 氯ophyll的多樣化健康益處及其在植物中的角色。
 
@@ -2673,6 +2779,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
     <img src="https://img.youtube.com/vi/vkpvPrek3X8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The 1st Symptom of a Salt Deficiency
 
 ### 文章總結：低鹽攝取的症状與影響
 
@@ -2743,6 +2851,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
         alt="[Youtube]" width="200">
 </a>
 
+# Lard or Coconut Oil: Which has More Saturated Fat?
+
 
 </details>
 
@@ -2753,6 +2863,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
     <img src="https://img.youtube.com/vi/kyFqw7zdUzo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Vegetables with Virtually ZERO Net Carbs
 
 很抱歉，我無法理解您提供的文章內容。這篇文章似乎由多個不相關或混亂的句子組成，缺乏清晰的主題或結構。因此，我無法有效地提取重點或進行正式的學術整理。
 
@@ -2766,6 +2878,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
     <img src="https://img.youtube.com/vi/ggv93uGUBB8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 11 Health Benefits of Chocolate
 
 ### 文章整理：可可（Cacao）與黑巧克力的健康益處
 
@@ -2822,6 +2936,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
     <img src="https://img.youtube.com/vi/-yiEbEjzf3Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 97 Percent of Overweight People Gain the Weight Back
 
 ### 文章重點整理
 
@@ -2886,6 +3002,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
         alt="[Youtube]" width="200">
 </a>
 
+# The 8 Selenium Deficiency Symptoms
+
 ### 文章主旨與核心主題
 - **核心主題**：硒（Selenium） deficiency及其對健康的影響。
 - **主要觀念**：
@@ -2942,6 +3060,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
         alt="[Youtube]" width="200">
 </a>
 
+# Your Brain on Processed Foods
+
 ### 文章重點整理
 
 #### 核心主題：  
@@ -2994,6 +3114,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
         alt="[Youtube]" width="200">
 </a>
 
+# Why Sleep With a Pillow Between Your Legs?
+
 ### 核心主題：睡覺姿勢對健康的影響
 
 ### 主要觀念：
@@ -3026,6 +3148,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
     <img src="https://img.youtube.com/vi/WN_AM_9QAcs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Big Problems with Chronic Inflammation
 
 ### 文章重點整理
 
@@ -3064,6 +3188,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
     <img src="https://img.youtube.com/vi/KzmVNovsSqM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Stress Makes You Stronger
 
 ===== 理解結果 =====
 
@@ -3137,6 +3263,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
         alt="[Youtube]" width="200">
 </a>
 
+# The Best Foods for Bad Breath
+
 ### 核心主題：消除口臭的最佳食物選擇及健康建議
 
 ### 主要觀念：
@@ -3173,6 +3301,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
     <img src="https://img.youtube.com/vi/Od5JYl58gHo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Have Clear Sinuses
 
 ### 文章整理與分析  
 
@@ -3231,6 +3361,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
     <img src="https://img.youtube.com/vi/GYVrPWFtrdM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Benefits of Eucalyptus
 
 ### 核心主題
 - **Eucalyptus 的多重療效**  
@@ -3295,6 +3427,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
     <img src="https://img.youtube.com/vi/z1f0y1DbmrA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Breaking Old Bad Habits: Part 3
 
 ### 核心主題：
 
@@ -3394,6 +3528,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
         alt="[Youtube]" width="200">
 </a>
 
+# The Best Exercise for Spondylolisthesis
+
 ### 文章整理：針對椎體滑脫症（Spondylolisthesis）的最佳運動與健康管理
 
 #### 核心主題
@@ -3438,6 +3574,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
     <img src="https://img.youtube.com/vi/QrWn52EJp4w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Breaking Bad Old Habits: Part 2
 
 ### 文章整理：Breaking Bad Old Habits – 碳水化合物的危害與影響
 
@@ -3510,6 +3648,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
         alt="[Youtube]" width="200">
 </a>
 
+# Are Nuts Making You Gain Weight?
+
 ### 核心主題  
 - **酮飲食中的碳水化合物控制**  
 - **堅果攝取對酮飲食的影響**  
@@ -3571,6 +3711,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
         alt="[Youtube]" width="200">
 </a>
 
+# Breaking Old Bad Habits: Part 1
+
 ### 小節歸納
 
 #### 1. 核心主題  
@@ -3624,6 +3766,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
         alt="[Youtube]" width="200">
 </a>
 
+# The Benefits of Bee Pollen
+
 ### 核心主題
 - **蜂花粉的營養價值**  
   蜂花粉是蜜蜂的主要食物來源，富含多種營養成分，包括碳水化合物、蜂蜜、維生素、氨基酸、必需脂肪酸、礦物質和微量元素等。
@@ -3673,6 +3817,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
         alt="[Youtube]" width="200">
 </a>
 
+# One and a Half Meals Per Day (OAAHM) Keto
+
 ### 核心主題  
 - 过渡到每日一餐（OMAD）的方法和策略。  
 
@@ -3712,6 +3858,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
     <img src="https://img.youtube.com/vi/MRPMk6VaG2U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Does an Electrolyte Do?
 
 ### 小节一：核心主题  
 - 电解质在人体生理功能中的重要作用。  
@@ -3770,6 +3918,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
     <img src="https://img.youtube.com/vi/iwjOVt2IRYU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Ignore Hunger Waves While Fasting
 
 ### 核心主題  
 - **斷食的效果**：文章探討了斷食對人體的影響，特別是針對饥饿感和運動動機這兩個方面。
@@ -3843,6 +3993,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
         alt="[Youtube]" width="200">
 </a>
 
+# The Worst Diet Advice in the World
+
 ### 核心主題：反對不良飲食建議與提倡健康策略
 
 #### 主要觀念：
@@ -3915,6 +4067,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
         alt="[Youtube]" width="200">
 </a>
 
+# Can You Scare People Into Health?
+
 
 </details>
 
@@ -3925,6 +4079,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
     <img src="https://img.youtube.com/vi/hJ7fTjE3FvA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Get a Second Opinion?
 
 ### 文章整理：多角度評估醫療決策的重要性
 
@@ -3978,6 +4134,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
         alt="[Youtube]" width="200">
 </a>
 
+# The Most Widely Used Pesticide in the World
+
 ### 小節歸納
 
 #### 1. 核心主題
@@ -4025,6 +4183,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
     <img src="https://img.youtube.com/vi/fgwN7mdTpCc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Soft Drinks and Fatty Liver Disease: Interesting
 
 ### 文章整理：軟飲料與肝臟健康的關係
 
@@ -4094,6 +4254,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
         alt="[Youtube]" width="200">
 </a>
 
+# Diet Soda can Cause a Fatty Liver
+
 ### 文章整理：人工甜味劑對健康的影響：以阿斯PARTAME為例
 
 #### 核心主題
@@ -4145,6 +4307,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
     <img src="https://img.youtube.com/vi/zScbg5UNBgw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Postmenopausal Women Need More Butter and Egg Yolks
 
 ### 核心主題：meno潮後女性骨質疏鬆與骨質流失的營養管理
 
@@ -4214,6 +4378,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
         alt="[Youtube]" width="200">
 </a>
 
+# Sleeping Detoxifies Your Brain
+
 ### 核心主題
 - 睡眠對身體和腦部的修復與排毒作用。
 
@@ -4262,6 +4428,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
     <img src="https://img.youtube.com/vi/mVf69tUiAOI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why is Tomato Tasteless?
 
 ### 小節一：核心主題  
 - 探讨现代食品中营养密度下降及其对味觉和饮食习惯的影响。  
@@ -4323,6 +4491,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
         alt="[Youtube]" width="200">
 </a>
 
+# Amazing Arugula: 6 Benefits
+
 ### 文章整理：羽衣甘藍（Arugula）的功效與特性
 
 ---
@@ -4368,6 +4538,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
     <img src="https://img.youtube.com/vi/0KwdtWCdGCo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The 9 Symptoms of Sleep Deprivation
 
 ### 文章重點整理
 
@@ -4429,6 +4601,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
         alt="[Youtube]" width="200">
 </a>
 
+# The Benefits of Plank Exercises
+
 ### 文章重點整理
 
 #### 核心主題
@@ -4485,6 +4659,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
     <img src="https://img.youtube.com/vi/Q4RGr_K4RM4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Emotion Triggers Adrenaline?
 
 ### 文章整理： adrenaline 的作用、影響及管理策略
 
@@ -4564,6 +4740,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
         alt="[Youtube]" width="200">
 </a>
 
+# Vitamin D2 vs. D3: VERY DIFFERENT
+
 ### 核心主題：維生素D2與維生素D3的差異及其對健康的影響
 
 ---
@@ -4622,6 +4800,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
         alt="[Youtube]" width="200">
 </a>
 
+# How to Relax
+
 # 文章要點整理
 
 ## 核心主題
@@ -4673,6 +4853,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
         alt="[Youtube]" width="200">
 </a>
 
+# What Food Has the Most Pesticides?
+
 ### 核心主題
 - ** pesticide 暴露與食物選擇**
 - **酮飲食（keto diet）中的食品安全**
@@ -4709,6 +4891,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
     <img src="https://img.youtube.com/vi/CMyyvMfT2gQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Lose Fat and Build Muscle at the Same Time
 
 ### 文章整理：在同一時間增肌和減脂是否可能？
 
@@ -4803,6 +4987,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
         alt="[Youtube]" width="200">
 </a>
 
+# 13 Reasons Why Your Metabolism is Slow
+
 ### 文章重點整理
 
 #### 核心主題：代謝率下降的因素及提升方法
@@ -4869,6 +5055,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
         alt="[Youtube]" width="200">
 </a>
 
+# Adrenal Fatigue Could be a Liver Problem
+
 ### 小節整理
 
 #### 核心主題  
@@ -4908,6 +5096,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
     <img src="https://img.youtube.com/vi/P8e3z4rdIFY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What's Lacking With Split Nails
 
 ### 核心主題  
 - 分析導致指甲分層或脆弱的原因及其營養缺乏的可能因素。
@@ -4976,6 +5166,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
         alt="[Youtube]" width="200">
 </a>
 
+# Head Lice: Best Home Remedy
+
 ### 核心主題：頭虱的防治與自然療法
 
 #### 主要觀念：
@@ -5008,6 +5200,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
     <img src="https://img.youtube.com/vi/G5gi7nqy2j0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Start Adding Garlic to Your Meals
 
 ### 文章重點整理
 
@@ -5094,6 +5288,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
         alt="[Youtube]" width="200">
 </a>
 
+# Stress Eater? WATCH THIS
+
 
 </details>
 
@@ -5104,6 +5300,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
     <img src="https://img.youtube.com/vi/V4MrwFmlHEc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# High Cholesterol After Menopause?
 
 ### 核心主題：膽固醇、更年期與老化
 
@@ -5178,6 +5376,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
     <img src="https://img.youtube.com/vi/I7st93_Owq0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Fatigue Not Improved With Rest
 
 ### 文章整理：慢性疲勞綜合徵及其他相關症狀的病因與治療
 

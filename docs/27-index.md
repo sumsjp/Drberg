@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Absent-Minded? How to Stop It! Absent Mindedness & Forgetfulness Cure – Dr.Berg
+
 ### 文章整理： absentee-mindedness 的成因及改善方法
 
 ---
@@ -58,6 +60,8 @@ Absent-mindedness 是腦部能量供應不足和神經元損傷導致的症狀�
     <img src="https://img.youtube.com/vi/-cF7cLlrJn8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 5 Reasons to Avoid Synthetic Vitamins
 
 ### 核心主題：
 - 比較合成維生素與天然維生素的不同。
@@ -114,6 +118,8 @@ Absent-mindedness 是腦部能量供應不足和神經元損傷導致的症狀�
     <img src="https://img.youtube.com/vi/UTmdWe8c5so/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Zinc Enhanced Trace Minerals: Dr. Berg's Product Review
 
 ### 整理文章重點
 
@@ -195,6 +201,8 @@ Absent-mindedness 是腦部能量供應不足和神經元損傷導致的症狀�
         alt="[Youtube]" width="200">
 </a>
 
+# My Opinion on Fasting Ramadan
+
 ### 核心主題：Ramadan斷食與免疫效應之間的關係
 
 #### 主要觀念：
@@ -247,6 +255,8 @@ Ramadan斷食對免疫系統具有顯著的正面影響，但其效果可通過�
         alt="[Youtube]" width="200">
 </a>
 
+# Autoimmune Condition and Vitamin D
+
 ===== 小節整理 =====
 
 ### 核心主題
@@ -289,6 +299,8 @@ Ramadan斷食對免疫系統具有顯著的正面影響，但其效果可通過�
     <img src="https://img.youtube.com/vi/_MIIzI6wIw0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How HIV Destroys the Immune System
 
 ### 核心主題：免疫系統與HIV/AIDS的相互作用  
 - HIV/AIDS是一種由人類免疫缺陷病毒（Human Immunodeficiency Virus, HIV）引發的免疫系統疾病，導致後天免疫 deficiency 細菌。
@@ -347,6 +359,8 @@ Ramadan斷食對免疫系統具有顯著的正面影響，但其效果可通過�
         alt="[Youtube]" width="200">
 </a>
 
+# The 7 Benefits of Fever Explained by Dr.Berg
+
 ### 核心主題：發燒的益處與免疫反應機制
 
 #### 主要觀念：
@@ -388,6 +402,8 @@ Ramadan斷食對免疫系統具有顯著的正面影響，但其效果可通過�
     <img src="https://img.youtube.com/vi/hgDSa8F4CYU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How Age Influences Your Immune System
 
 ### 小節整理
 
@@ -461,6 +477,8 @@ Ramadan斷食對免疫系統具有顯著的正面影響，但其效果可通過�
         alt="[Youtube]" width="200">
 </a>
 
+# 8 Recommendations for Autism
+
 ### 文章整理：自閉症兒童的健康建議與病因分析
 
 #### 核心主題
@@ -520,6 +538,8 @@ Ramadan斷食對免疫系統具有顯著的正面影響，但其效果可通過�
     <img src="https://img.youtube.com/vi/Zfyn_gOpxHU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Your Immune System Is Mostly Gut Bacteria
 
 ### 文章重點整理
 
@@ -585,6 +605,8 @@ Ramadan斷食對免疫系統具有顯著的正面影響，但其效果可通過�
         alt="[Youtube]" width="200">
 </a>
 
+# Vitamin E Corrects Muscle Dysfunction
+
 # 維生素E在肌肉功能中的重要性：運動與健康的角度
 
 ## 核心主題
@@ -643,6 +665,8 @@ Ramadan斷食對免疫系統具有顯著的正面影響，但其效果可通過�
     <img src="https://img.youtube.com/vi/frFzCZXGYIY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How Keto Protects Your Immune System
 
 ### 核心主題： ketogenic diet（生酮飲食）對免疫系統的保護作用及其在新型冠狀病毒（COVID-19）感染中的應用。
 
@@ -713,6 +737,8 @@ Ramadan斷食對免疫系統具有顯著的正面影響，但其效果可通過�
         alt="[Youtube]" width="200">
 </a>
 
+# Chronic Stress Literally Destroys Immunity
+
 ### 核心主題
 - 慢性壓力對免疫系統的破壞性影響。
 - 高皮質醇水平如何削弱免疫功能。
@@ -768,6 +794,8 @@ Ramadan斷食對免疫系統具有顯著的正面影響，但其效果可通過�
     <img src="https://img.youtube.com/vi/hynF5ZLEluc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Thymus, the Missing Link in Viral Protection
 
 ### 小結點整理：有關胸腺 glands 與病毒的關係
 
@@ -831,6 +859,8 @@ Ramadan斷食對免疫系統具有顯著的正面影響，但其效果可通過�
         alt="[Youtube]" width="200">
 </a>
 
+# How to Reduce Stress Naturally? – Dr. Berg on Natural Stress Remedy
+
 ### 文章整理：應對壓力的有效策略
 
 #### 核心主題
@@ -875,6 +905,8 @@ Ramadan斷食對免疫系統具有顯著的正面影響，但其效果可通過�
         alt="[Youtube]" width="200">
 </a>
 
+# Salt Water Gargle
+
 ## 文章結構化整理
 
 ### 核心主題  
@@ -911,6 +943,8 @@ Ramadan斷食對免疫系統具有顯著的正面影響，但其效果可通過�
         alt="[Youtube]" width="200">
 </a>
 
+# Hypothyroidism May Not Be a Thyroid Problem But Hashimoto Thyroiditis – Dr. Berg
+
 
 </details>
 
@@ -921,6 +955,8 @@ Ramadan斷食對免疫系統具有顯著的正面影響，但其效果可通過�
     <img src="https://img.youtube.com/vi/pdWU0oaPYNo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Postmenopausal Estrogen Comes from Your Own Fat
 
 ### 核心主題  
 - 圍產後雌激素代謝及其對女性健康的影響。
@@ -981,6 +1017,8 @@ Ramadan斷食對免疫系統具有顯著的正面影響，但其效果可通過�
         alt="[Youtube]" width="200">
 </a>
 
+# Do Fasting for Depression and Improve Your Mood
+
 ### 核心主題
 - 探讨间歇性禁食（Intermittent Fasting）作为新型抗抑郁手段的可能性及其潜在机制。
 
@@ -1019,6 +1057,8 @@ Ramadan斷食對免疫系統具有顯著的正面影響，但其效果可通過�
     <img src="https://img.youtube.com/vi/PUTN58BiFOA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Heart Signs and Symptoms You May Not Know About
 
 ### 文章整理：心臟症狀與健康管理
 
@@ -1075,6 +1115,8 @@ Ramadan斷食對免疫系統具有顯著的正面影響，但其效果可通過�
         alt="[Youtube]" width="200">
 </a>
 
+# Consequences of High Estrogen in Men – Estrogen Dominance Effects in Men – Dr.Berg
+
 ### 核心主題：男性過高雌激素的危害及應對策略
 
 ### 主要觀念：
@@ -1128,6 +1170,8 @@ Ramadan斷食對免疫系統具有顯著的正面影響，但其效果可通過�
         alt="[Youtube]" width="200">
 </a>
 
+# Why Diabetes Makes You More Susceptible to Viruses
+
 ### 小節歸納：糖尿病患者感染新型冠狀病毒肺炎（COVID-19）的風險及原因
 
 #### 1. 核心主題  
@@ -1172,6 +1216,8 @@ Ramadan斷食對免疫系統具有顯著的正面影響，但其效果可通過�
     <img src="https://img.youtube.com/vi/xBzFo9EvCmw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How Ketones Affect Hormones and the Endocrine System
 
 ### 文章整理與分析：酮體與激素的關係
 
@@ -1254,6 +1300,8 @@ Ramadan斷食對免疫系統具有顯著的正面影響，但其效果可通過�
         alt="[Youtube]" width="200">
 </a>
 
+# Why do Ears and Nose Grow as You Age?
+
 ### 核心主題： ageing導致身體部位的變化及其原因與解決方法
 
 ### 主要觀念：
@@ -1308,6 +1356,8 @@ Ramadan斷食對免疫系統具有顯著的正面影響，但其效果可通過�
         alt="[Youtube]" width="200">
 </a>
 
+# The Downfall of High Fructose Corn Syrup (HFCS)
+
 ### 小節歸納
 
 #### 1. 核心主題
@@ -1350,6 +1400,8 @@ Ramadan斷食對免疫系統具有顯著的正面影響，但其效果可通過�
         alt="[Youtube]" width="200">
 </a>
 
+# Gaining Weight During Lockdown? Do This to avoid Weight Gain in Quarantine – Dr.Berg
+
 
 </details>
 
@@ -1360,6 +1412,8 @@ Ramadan斷食對免疫系統具有顯著的正面影響，但其效果可通過�
     <img src="https://img.youtube.com/vi/r4VviKpJsu8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Now a Virtual Event: Dr. Berg's Keto Summit
 
 ### 核心主題  
 - 2020 Virtual Healthy Keto Summit 的核心主題圍繞於酮飲食（Keto Diet）和間歇性禁食（Intermittent Fasting）的最新研究、實用知識及其健康益處。
@@ -1412,6 +1466,8 @@ Virtual Healthy Keto Summit 為參加者提供了一個綜合學習平台，涵�
     <img src="https://img.youtube.com/vi/7XUIgpYlDOY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Top 10 Things Americans Consume
 
 ### 重點整理
 
@@ -1519,6 +1575,8 @@ Virtual Healthy Keto Summit 為參加者提供了一個綜合學習平台，涵�
         alt="[Youtube]" width="200">
 </a>
 
+# Increase Gut Bacteria Diversity: Here's How
+
 ### 核心主題：腸道微生物群的多樣性及其對健康的影響
 
 #### 主要觀念：
@@ -1550,6 +1608,8 @@ Virtual Healthy Keto Summit 為參加者提供了一個綜合學習平台，涵�
     <img src="https://img.youtube.com/vi/EeBMiSGjpWE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Coronavirus Destroys Sense of Smell: Why? – Dr. Berg
 
 # 文章要點整理
 
@@ -1596,6 +1656,8 @@ Virtual Healthy Keto Summit 為參加者提供了一個綜合學習平台，涵�
     <img src="https://img.youtube.com/vi/hKpCHV4paPg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg's Birthday (55) and Being in Healthcare for 30 Years
 
 ### 小節整理
 
@@ -1660,6 +1722,8 @@ Virtual Healthy Keto Summit 為參加者提供了一個綜合學習平台，涵�
         alt="[Youtube]" width="200">
 </a>
 
+# The Effects of Caffeine for Hair Loss – Remedy by Dr. Berg
+
 ### 核心主題  
 - 探讨咖啡因在治療脫髮中的作用及其科學依據。
 
@@ -1696,6 +1760,8 @@ Virtual Healthy Keto Summit 為參加者提供了一個綜合學習平台，涵�
     <img src="https://img.youtube.com/vi/kGFQkegsKLs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Key Reasons for a Zinc Deficiency – Decrease in Zinc Absorption | Dr.Berg
 
 ### 1. 核心主題 (Core Theme)
 
@@ -1754,6 +1820,8 @@ Virtual Healthy Keto Summit 為參加者提供了一個綜合學習平台，涵�
     <img src="https://img.youtube.com/vi/Rh7GI_bj104/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Importance of Zinc for the Immune System
 
 ### 核心主題  
 - **重要性**：锌（Zinc）是人体中最重要的微量元素之一，对免疫系统及其他生理功能具有重要作用。
@@ -1820,6 +1888,8 @@ Virtual Healthy Keto Summit 為參加者提供了一個綜合學習平台，涵�
     <img src="https://img.youtube.com/vi/pIsjyfPNLeQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Sperm Count Have Dropped by 60 Percent!
 
 ### 核心主题  
 - 精子数量从1973年至2011年下降了60%，这是一个显著且令人关注的趋势。
@@ -1909,6 +1979,8 @@ Virtual Healthy Keto Summit 為參加者提供了一個綜合學習平台，涵�
         alt="[Youtube]" width="200">
 </a>
 
+# How Coronavirus Targets Your Lungs – Dr. Berg
+
 # 文章整理：新型冠狀病毒與肺部健康的關係
 
 ## 核心主題
@@ -1972,6 +2044,8 @@ Virtual Healthy Keto Summit 為參加者提供了一個綜合學習平台，涵�
         alt="[Youtube]" width="200">
 </a>
 
+# Hidden Cause of Depression and Anxiety – Brain and Gut Connection – Dr. Berg
+
 ### 核心主題：腸道微生物組與心理健康之間的相互作用
 
 #### 主要觀念：
@@ -2004,6 +2078,8 @@ Virtual Healthy Keto Summit 為參加者提供了一個綜合學習平台，涵�
     <img src="https://img.youtube.com/vi/Z5UPhiIl4dQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 5 Potential Coronavirus Herbal Remedies
 
 ### 核心主題  
 - 探讨五种 Herbal Remedies 对新型冠状病毒（COVID-19）的作用及其科学依据。
@@ -2040,6 +2116,8 @@ Virtual Healthy Keto Summit 為參加者提供了一個綜合學習平台，涵�
     <img src="https://img.youtube.com/vi/r9g3OO3hkL0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Gut Bacteria and Viruses
 
 ### 文章重點整理
 
@@ -2116,6 +2194,8 @@ Virtual Healthy Keto Summit 為參加者提供了一個綜合學習平台，涵�
         alt="[Youtube]" width="200">
 </a>
 
+# 12 Amazing Benefits of Selenium
+
 ### 核心主題  
 - **硒（Selenium）**：一種微量元素，具有強大的抗氧化特性，在多種酶反應中作為協同因子。  
 - **健康益處**：硒對免疫系統、thyroid功能、抗氧化防老化的影響。  
@@ -2174,6 +2254,8 @@ Virtual Healthy Keto Summit 為參加者提供了一個綜合學習平台，涵�
         alt="[Youtube]" width="200">
 </a>
 
+# Is Fasting Messing Up Your Sleep?
+
 ### 核心主題
 - **影響睡眠的因素**  
   探讨间歇性禁食（特別是酮egenic饮食）如何影响人体的睡眠模式。
@@ -2231,6 +2313,8 @@ Virtual Healthy Keto Summit 為參加者提供了一個綜合學習平台，涵�
     <img src="https://img.youtube.com/vi/ZRjBPuj4q6I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# High Doses of Vitamin D Can Deplete Magnesium
 
 ### 核心主題：維生素D與鎂的相互作用及其對健康的影響
 
@@ -2325,6 +2409,8 @@ Virtual Healthy Keto Summit 為參加者提供了一個綜合學習平台，涵�
         alt="[Youtube]" width="200">
 </a>
 
+# The Side Effects of Calcium Carbonate You Need to Know
+
 ### 核心主題： calcium carbonate 的副作用及其健康影響
 
 #### 主要觀念：
@@ -2361,6 +2447,8 @@ Calcium carbonate雖常用於補鈣和治療GERD，但其副作用不容忽視�
         alt="[Youtube]" width="200">
 </a>
 
+# What is a Carbohydrate: Simplified
+
 ### 文章重點整理
 
 #### 1. 核心主題：碳水化合物與糖類的基本概念  
@@ -2395,6 +2483,8 @@ Calcium carbonate雖常用於補鈣和治療GERD，但其副作用不容忽視�
         alt="[Youtube]" width="200">
 </a>
 
+# Xanthan Gum and Guar Gum: Keto Friendly?
+
 ### 核心主題
 - 比較瓊脂和瓜耳膠在酮ogenic diet中的適合性。
 
@@ -2426,6 +2516,8 @@ Calcium carbonate雖常用於補鈣和治療GERD，但其副作用不容忽視�
     <img src="https://img.youtube.com/vi/FUGJjIi3UG4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Stress (Cortisol) Makes You Fat (Spikes Insulin) – Stress and Weight Gain – Dr.Berg
 
 # 素材整理：壓力如何導致肥胖
 
@@ -2482,6 +2574,8 @@ Calcium carbonate雖常用於補鈣和治療GERD，但其副作用不容忽視�
         alt="[Youtube]" width="200">
 </a>
 
+# Fasting Effects on the Diabetic's Eyes
+
 ### 核心主題
 - 禮事：禁食對糖尿病患者眼睛和其他神經系統的影響。
 - 研究基礎：研究是在小鼠上進行的，結果可為 diabetic 患者提供參考。
@@ -2521,6 +2615,8 @@ Calcium carbonate雖常用於補鈣和治療GERD，但其副作用不容忽視�
     <img src="https://img.youtube.com/vi/H6vKmPPvsn8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Coronavirus Resistance and the Stress Factor – Dr.Berg
 
 ===== 小節歸納 =====
 
@@ -2571,6 +2667,8 @@ Calcium carbonate雖常用於補鈣和治療GERD，但其副作用不容忽視�
         alt="[Youtube]" width="200">
 </a>
 
+# Do Not Use Herbal Detox Remedies Without..
+
 ### 小節歸納與重點整理
 
 #### 1. 核心主題  
@@ -2610,6 +2708,8 @@ Calcium carbonate雖常用於補鈣和治療GERD，但其副作用不容忽視�
     <img src="https://img.youtube.com/vi/ivYMo59SRRI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Vitamin C's Immune Benefits
 
 ### 核心主題：維生素C的免疫效益及其缺乏症
 
@@ -2667,6 +2767,8 @@ Calcium carbonate雖常用於補鈣和治療GERD，但其副作用不容忽視�
         alt="[Youtube]" width="200">
 </a>
 
+# Psyllium Husks, Uses, Dosage and Side Effects
+
 ### 小節歸納
 
 #### 1. 核心主題  
@@ -2710,6 +2812,8 @@ Calcium carbonate雖常用於補鈣和治療GERD，但其副作用不容忽視�
     <img src="https://img.youtube.com/vi/D2UEHG6lx4A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Magnesium Protects Against the Bad Effects of Calcium
 
 ### 核心主題  
 - **鎂（Magnesium）的重要性及其多樣化的生理作用**  
@@ -2775,6 +2879,8 @@ Calcium carbonate雖常用於補鈣和治療GERD，但其副作用不容忽視�
     <img src="https://img.youtube.com/vi/vf35Ql6KfHw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Your Good Bacteria Are Vitamin-Making Machines
 
 ### 文章題目  
 The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health  
@@ -2846,6 +2952,8 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
     <img src="https://img.youtube.com/vi/dhIEqen1siQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The 10 Key Symptoms of Prediabetes
 
 ### 文章整理：糖尿病前期症狀及病因分析
 
@@ -2923,6 +3031,8 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
         alt="[Youtube]" width="200">
 </a>
 
+# Dangers and Benefits of Erythritol
+
 ### 核心主題  
 - ** erythritol 的性質與用途**  
   - Erythritol 是一種糖醇（sugar alcohol），可用作代用甜味劑。  
@@ -2960,6 +3070,8 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
     <img src="https://img.youtube.com/vi/Iz9NLpg8S08/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# My Best Tip for Figuring Out Health Issues
 
 ### 核心主題：健康問題的病因分析與解決策略
 
@@ -3002,6 +3114,8 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
     <img src="https://img.youtube.com/vi/rczpsqO40mE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# This Is What Sugar Does to Your Arteries
 
 ### 文章整理：糖對血管和糖尿病的影響及健康建議
 
@@ -3063,6 +3177,8 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
     <img src="https://img.youtube.com/vi/5hIiixbdx2w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Turn Off Your Anxiety with This – Fight or Flight Response – Control Anxiety – Dr.Berg
 
 ### 文章整理：情緒焦慮的成因與应对策略
 
@@ -3132,6 +3248,8 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
     <img src="https://img.youtube.com/vi/WuyyXsGdFyQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 7 Best Natural Laxatives
 
 ### 文章重點整理
 
@@ -3207,6 +3325,8 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
         alt="[Youtube]" width="200">
 </a>
 
+# Susceptibility to the Coronavirus? Facts Covered by Dr.Berg
+
 ### 文章重點整理
 
 #### 1. 病毒的複製與干擾策略
@@ -3277,6 +3397,8 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
         alt="[Youtube]" width="200">
 </a>
 
+# 4 Ways  to Neutralize Uric Acid
+
 ### 核心主題：尿酸的中和及其對健康的影響
 
 #### 主要觀念：
@@ -3314,6 +3436,8 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
     <img src="https://img.youtube.com/vi/NfkX-B_20EY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Does Insulin Cause PCOS (Polycystic Ovary Syndrome)? – Dr.Berg
 
 ## 小節整理：胰島素導致PCOS的作用機制及健康建議
 
@@ -3368,6 +3492,8 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
         alt="[Youtube]" width="200">
 </a>
 
+# Use Spanish Black Radish for Gallstones
+
 ### 文章總結
 
 #### 核心主題
@@ -3413,6 +3539,8 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
     <img src="https://img.youtube.com/vi/2KaMsMUnt5o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 11 Ways to Boost Your Melatonin and Sleep Like a Baby
 
 ### 文章重點整理
 
@@ -3467,6 +3595,8 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
         alt="[Youtube]" width="200">
 </a>
 
+# The Best Diet for a Healing Bone: Fracture, Surgery or Trauma
+
 ### 文章整理與分析
 
 #### 核心主題
@@ -3519,6 +3649,8 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
         alt="[Youtube]" width="200">
 </a>
 
+# Avoid Carb Withdrawal Symptoms When Starting Keto
+
 
 </details>
 
@@ -3529,6 +3661,8 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
     <img src="https://img.youtube.com/vi/zNmH2F2njFY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Your Liver is Triggering Your Right Shoulder Blade Pain – Liver Problems & Shoulder Pain – Dr.Berg
 
 ### 文章整理：肝臟與右肩胛痛的連接
 
@@ -3580,6 +3714,8 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
         alt="[Youtube]" width="200">
 </a>
 
+# Does the Sight and Smell of Carbs Knock You Out of Ketosis?
+
 ### 文章重點整理
 
 #### 1. 核心主題  
@@ -3626,6 +3762,8 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
         alt="[Youtube]" width="200">
 </a>
 
+# The Healthy Keto Summit 2020 is HERE!
+
 ### 核心主題  
 - **2020健康酮 Summit**：於2020年8月29日至30日在美國馬里蘭州國家海港的Gaylord National Resort and Convention Center舉行。  
 - **酮飲食與間歇性禁食**：會議聚焦於深入探討酮飲食（Ketogenic Diet）和間歇性禁食（Intermittent Fasting）的最新研究、應用及其健康影響。  
@@ -3670,6 +3808,8 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
         alt="[Youtube]" width="200">
 </a>
 
+# The Most Important Function of Vitamin E
+
 ### 核心主題：維生素E的功能與重要性
 
 #### 主要觀念：
@@ -3704,6 +3844,8 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
         alt="[Youtube]" width="200">
 </a>
 
+# Why Keto Gives You More Energy
+
 
 </details>
 
@@ -3714,6 +3856,8 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
     <img src="https://img.youtube.com/vi/qhObso_z3YE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Lowest and Highest Carb Vegetables are...
 
 ### 文章重點整理
 
@@ -3760,6 +3904,8 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
     <img src="https://img.youtube.com/vi/EsPT7EOJkrE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# An Aging Face: Can Anything Be Done?
 
 ### 彙納整理：衰老臉部的問題與解決方案
 
@@ -3821,6 +3967,8 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
         alt="[Youtube]" width="200">
 </a>
 
+# Organic vs. Inorganic Minerals: Biggest Confusion
+
 ### 核心主題  
 - **有機與無機礦物質的區別及其對人體健康的影響**  
 
@@ -3864,6 +4012,8 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
     <img src="https://img.youtube.com/vi/qoz0BN7r5nY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Causes Acne? – The Surprising Hidden Source of Acne – Dr.Berg
 
 ### 核心主題  
 - 探讨痤疮（acne）的隐藏诱因，特别是与饮食中乳制品的关系。
@@ -3942,6 +4092,8 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
     <img src="https://img.youtube.com/vi/X-rSusG4HZk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# A Major Hidden Reason for Hair Loss, Especially Alopecia – Biotin Deficiency – Dr.Berg
 
 ### 核心主題  
 - 探讨维生素H（生物素）缺乏引起的脱发问题及其潜在原因。
@@ -4026,6 +4178,8 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
         alt="[Youtube]" width="200">
 </a>
 
+# Apple Cider Vinegar and Mineral Absorption
+
 # 文章整理：胃酸與礦物質吸收中的蘋果醋功效
 
 ## 核心主題  
@@ -4094,6 +4248,8 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
         alt="[Youtube]" width="200">
 </a>
 
+# Prevent Adrenal Fatigue on Keto with This – Himalayan Sea Salt for Keto Adrenal Fatigue – Dr.Berg
+
 ### 小節整理：酮症飲食與腎上腺 fatigue 的關聯及建議
 
 #### 1. 核心主題
@@ -4131,6 +4287,8 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
     <img src="https://img.youtube.com/vi/_czOxHKx6Og/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Most Important Benefit of Autophagy: Will Surprise You
 
 ### 核心主題：自噬（Autophagy）及其在癌症預防中的重要作用
 
@@ -4203,6 +4361,8 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
         alt="[Youtube]" width="200">
 </a>
 
+# Eat Avocados and Eggs for Amazing Hair and Nails
+
 
 </details>
 
@@ -4213,6 +4373,8 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
     <img src="https://img.youtube.com/vi/SDpxUn4qShA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 12 Ways to Trigger Autophagy
 
 ### 核心主題
 - **自噬作用（Autophagy）**：細胞自我修復和清潔機制，通過回收損壞蛋白質和故障器官來維持健康。
@@ -4274,6 +4436,8 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
         alt="[Youtube]" width="200">
 </a>
 
+# 14 Things to Consume to Make Fasting Easier
+
 ### 核心主題  
 - **核心主題**：探討在禁食期間可以攝取的14種食物和飲料，以幫助穩定血糖、改善胰島素抵抗並提升整體健康。
 
@@ -4320,6 +4484,8 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
     <img src="https://img.youtube.com/vi/SI4zOHcdr5w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Fasting vs Keto: What's Better?
 
 ### 文章整理：酮飲食與斷食之比較及其健康影響
 
@@ -4373,6 +4539,8 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
         alt="[Youtube]" width="200">
 </a>
 
+# Think Twice Before You Start a Low Fat Diet
+
 
 </details>
 
@@ -4383,6 +4551,8 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
     <img src="https://img.youtube.com/vi/LsEXWcIY5ZA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Carb Addiction Success Story Interview
 
 ### 文章重點整理
 
@@ -4431,6 +4601,8 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
     <img src="https://img.youtube.com/vi/cyQ_Mty-q7s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Intermittent Fasting Effects on Wrinkles and Skin
 
 ### 核心主題：禁食對 кожі та боротьба з морщинами
 
@@ -4509,6 +4681,8 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
         alt="[Youtube]" width="200">
 </a>
 
+# How to Stop Diarrhea? - Diarrhea Remedies by Dr. Berg
+
 ### 文章整理：如何停止 diarrhoea 的核心要素與健康建議
 
 ---
@@ -4570,6 +4744,8 @@ Diarrhea 的管理需綜合考慮 electrolytes、nutrients、microbes 和 bile �
     <img src="https://img.youtube.com/vi/XE4X926W6x8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 7 Sneaky Viral Strategies That Hack Your Immune System
 
 ### 小節整理：七種病毒狡猾策略及其影響
 
@@ -4647,6 +4823,8 @@ Diarrhea 的管理需綜合考慮 electrolytes、nutrients、microbes 和 bile �
         alt="[Youtube]" width="200">
 </a>
 
+# The Top Keto-Friendly Magnesium-Rich Foods
+
 ### 核心主題  
 - 探讨在低碳水化合物（生酮饮食）框架下，富含镁食物的选择及其重要性。
 
@@ -4719,6 +4897,8 @@ Diarrhea 的管理需綜合考慮 electrolytes、nutrients、microbes 和 bile �
         alt="[Youtube]" width="200">
 </a>
 
+# Take Magnesium to Sleep Like a Baby
+
 
 </details>
 
@@ -4729,6 +4909,8 @@ Diarrhea 的管理需綜合考慮 electrolytes、nutrients、microbes 和 bile �
     <img src="https://img.youtube.com/vi/Txr9C7wyhXI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# My Opinion on Dry Fasting: Dr. Berg
 
 # 干燥禁食（Dry Fasting）分析報告
 
@@ -4793,6 +4975,8 @@ Diarrhea 的管理需綜合考慮 electrolytes、nutrients、microbes 和 bile �
         alt="[Youtube]" width="200">
 </a>
 
+# What is the Dietary Requirement for Carbohydrates?
+
 ### 小節整理：低 carb 饮食的膳食需求與健康影響
 
 #### 1. 核心主題
@@ -4843,6 +5027,8 @@ Diarrhea 的管理需綜合考慮 electrolytes、nutrients、microbes 和 bile �
         alt="[Youtube]" width="200">
 </a>
 
+# Is Tapioca Fiber Keto?
+
 ### 小節整理：文章核心主題與重點分析
 
 #### 1. 核心主題：
@@ -4879,6 +5065,8 @@ Diarrhea 的管理需綜合考慮 electrolytes、nutrients、microbes 和 bile �
     <img src="https://img.youtube.com/vi/oVS84yERyek/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Early Signs & Causes of Appendicitis Explained by Dr.Berg
 
 ### 文章重點整理
 
@@ -4941,6 +5129,8 @@ Diarrhea 的管理需綜合考慮 electrolytes、nutrients、microbes 和 bile �
     <img src="https://img.youtube.com/vi/dW7RJS21K_o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The 6 Best Natural Pain Killers: Dr. Berg Recommendation
 
 ### 小結整理：文章核心主題與重點
 
@@ -5031,6 +5221,8 @@ Diarrhea 的管理需綜合考慮 electrolytes、nutrients、microbes 和 bile �
         alt="[Youtube]" width="200">
 </a>
 
+# What Exactly Do Electrolytes Do?
+
 ### 重點整理
 
 #### 核心主題
@@ -5092,6 +5284,8 @@ Diarrhea 的管理需綜合考慮 electrolytes、nutrients、microbes 和 bile �
     <img src="https://img.youtube.com/vi/hyHpd9fh_WQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Stop Panic Attacks? – Dr.Berg
 
 ### 小節一：核心主題
 - 談論如何有效停止恐慌攻擊（Panic Attacks）。
@@ -5161,6 +5355,8 @@ Diarrhea 的管理需綜合考慮 electrolytes、nutrients、microbes 和 bile �
         alt="[Youtube]" width="200">
 </a>
 
+# The Relationship Between Hepatitis C, Iron, and Cirrhosis Explained by Dr. Berg
+
 ### 核心主題：丙型肝炎（Hep C）與鐵過載、肝硬化及相關症狀
 
 #### 主要觀念：
@@ -5220,6 +5416,8 @@ Diarrhea 的管理需綜合考慮 electrolytes、nutrients、microbes 和 bile �
     <img src="https://img.youtube.com/vi/DLwPMnFBwSA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Significantly Boost Your Red Blood Cell (RBC) Production With.....
 
 # 文章整理：紅血球的功能與強化策略
 
@@ -5288,6 +5486,8 @@ Diarrhea 的管理需綜合考慮 electrolytes、nutrients、microbes 和 bile �
     <img src="https://img.youtube.com/vi/bAlOPIXhEbE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# So-Called Keto Friendly Condiments May Not Be Friendly
 
 ### 文章重點整理
 

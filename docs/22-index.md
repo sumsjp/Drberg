@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How To Lose More Weight If You Are A Diabetic? – Dr.Berg On Diabetic Weight Loss
+
 
 </details>
 
@@ -16,6 +18,8 @@
     <img src="https://img.youtube.com/vi/RopzcyBbXDk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What do Your Nails Say About Your Health & Nutrition? – Dr.Berg
 
 
 </details>
@@ -28,6 +32,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Connection Between Fasting & Chronic Inflammation Explained! – Dr.Berg
+
 
 </details>
 
@@ -38,6 +44,8 @@
     <img src="https://img.youtube.com/vi/QcEBNUVHRec/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The 7 Causes of Arrhythmias – Dr.Berg
 
 
 </details>
@@ -50,6 +58,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What Is Water Fasting? – Dr. Berg
+
 
 </details>
 
@@ -60,6 +70,8 @@
     <img src="https://img.youtube.com/vi/tw1lO0MXPzg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 5 Reasons for High Creatinine on Keto (Ketogenic Diet) – Dr.Berg
 
 
 </details>
@@ -72,6 +84,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Will Skipping Meals Increase Your Metabolism? – Dr.Berg
+
 
 </details>
 
@@ -82,6 +96,8 @@
     <img src="https://img.youtube.com/vi/86VNVf9pklU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Most Important Nutrient On A Vegan Keto Diet Plan – Dr.Berg
 
 
 </details>
@@ -94,6 +110,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Kidney Stones 101: Causes, Symptoms & Remedies – Dr.Berg
+
 
 </details>
 
@@ -104,6 +122,8 @@
     <img src="https://img.youtube.com/vi/mupYHvBrCRI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Pharmaceuticals Industry - It's "Backed By Science" TRUST US! – Dr.Berg
 
 
 </details>
@@ -116,6 +136,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Will Eating More FAT Boost My Metabolism? – Dr.Berg
+
 
 </details>
 
@@ -126,6 +148,8 @@
     <img src="https://img.youtube.com/vi/OHsAoW3fs34/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Lean (Low Fat) Meat On Keto? – Dr.Berg
 
 
 </details>
@@ -138,6 +162,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Why do You Have Salt Cravings at Night? – Dr.Berg
+
 
 </details>
 
@@ -148,6 +174,8 @@
     <img src="https://img.youtube.com/vi/2ZRfTLoGNnw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 5 Uncommon Signs & Symptoms of Potassium Deficiency – Dr.Berg
 
 
 </details>
@@ -160,6 +188,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Real Causes of Acid Reflux, Heartburn & GERD – Dr.Berg
+
 
 </details>
 
@@ -170,6 +200,8 @@
     <img src="https://img.youtube.com/vi/LFGN0YSk4Ow/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Hidden Causes of Acne & How to Get Rid of it? – Dr.Berg
 
 
 </details>
@@ -182,6 +214,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What is the REAL Cause of Cold Feet – 6 Possible Causes – Dr.Berg
+
 
 </details>
 
@@ -192,6 +226,8 @@
     <img src="https://img.youtube.com/vi/53eqdCTMRVw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Selenium: The Amazing Trace Mineral – Dr.Berg
 
 
 </details>
@@ -204,6 +240,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Receding Hairline: Causes And Remedies – Dr.Berg
+
 
 </details>
 
@@ -214,6 +252,8 @@
     <img src="https://img.youtube.com/vi/_zfdf3voy2I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The 3 Causes Of Eye Twitching (Tetany) – Dr.Berg
 
 
 </details>
@@ -226,6 +266,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# 5 Things NOT To Do When Starting Intermittent Fasting – Dr.Berg
+
 
 </details>
 
@@ -236,6 +278,8 @@
     <img src="https://img.youtube.com/vi/IiRg-U8mwuM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 4 Causes of Kidney Pain (Low Back Pain) on Keto Diet – Dr. Berg
 
 
 </details>
@@ -248,6 +292,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Postmenopausal Osteoporosis – Osteoclast and Osteoblast – Dr.Berg
+
 
 </details>
 
@@ -258,6 +304,8 @@
     <img src="https://img.youtube.com/vi/GQ5fY3ULhdQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Can Intermittent Fasting Reverse a Poor Memory From Aging? – Dr.Berg
 
 
 </details>
@@ -270,6 +318,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# “Hard of Hearing” and Iodine Deficiency
+
 
 </details>
 
@@ -280,6 +330,8 @@
     <img src="https://img.youtube.com/vi/NX2HB7-tD_o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Your Brain DOES NOT Need to Adapt to Ketosis
 
 
 </details>
@@ -292,6 +344,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# 7 Weird Signs/Symptoms of Zinc Deficiency – Dr.Berg
+
 
 </details>
 
@@ -302,6 +356,8 @@
     <img src="https://img.youtube.com/vi/3caP3r95fZ4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 5 Subclinical Magnesium Deficiency Symptoms
 
 
 </details>
@@ -314,6 +370,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Should a Woman Who is Pregnant or Breastfeeding do Intermittent Fasting?
+
 
 </details>
 
@@ -324,6 +382,8 @@
     <img src="https://img.youtube.com/vi/ydQuw8JtRo0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Are You on the Keto-ish Diet?
 
 
 </details>
@@ -336,6 +396,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Are You Paying $12 a Gallon for BOTTLED WATER?
+
 
 </details>
 
@@ -346,6 +408,8 @@
     <img src="https://img.youtube.com/vi/85cT2ctYvHI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Too Scared to do Fasting (or Intermittent Fasting)?
 
 
 </details>
@@ -358,6 +422,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How to Rid Pain Coming From the Top Of Your Shoulder – Dr.Berg on Simple Stretch For Shoulder Pain
+
 
 </details>
 
@@ -368,6 +434,8 @@
     <img src="https://img.youtube.com/vi/EhZK_MUPxrc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Dr. Berg’s Meals and Intermittent Fasting Pattern
 
 
 </details>
@@ -380,6 +448,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Reasons for High Blood Sugars in the Morning
+
 
 </details>
 
@@ -390,6 +460,8 @@
     <img src="https://img.youtube.com/vi/eSQ4x06HsBw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Most Important Nutrient for Infants
 
 
 </details>
@@ -402,6 +474,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# What Determines If You Lose or Gain Weight With Stress – Cortisol and Insulin – Dr.Berg
+
 
 </details>
 
@@ -412,6 +486,8 @@
     <img src="https://img.youtube.com/vi/mu8mC792R10/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why the Dark Circles Under Your Child's Eyes
 
 
 </details>
@@ -424,6 +500,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Strep Throat – The Fastest Way to Relieve Pain – Remedies for Strep Throat – Dr.Berg
+
 
 </details>
 
@@ -434,6 +512,8 @@
     <img src="https://img.youtube.com/vi/wu2kyiEE0rc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Avoid a Silent Stroke
 
 
 </details>
@@ -446,6 +526,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Is Honey a Better Substitute for Sugar?
+
 
 </details>
 
@@ -456,6 +538,8 @@
     <img src="https://img.youtube.com/vi/gVFKqrfeyuY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Fasting Helps Lupus Symptoms
 
 
 </details>
@@ -468,6 +552,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Solve Diabetes Overnight Understanding This Simple....
+
 
 </details>
 
@@ -478,6 +564,8 @@
     <img src="https://img.youtube.com/vi/RpMEMX-c7VU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Can Parkinson's Disease Be Reversed?
 
 
 </details>
@@ -490,6 +578,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Can Keto (Ketogenic Diet) Help Cirrhosis of the Liver?
+
 
 </details>
 
@@ -500,6 +590,8 @@
     <img src="https://img.youtube.com/vi/OSwhSam_hLU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Best PREDNISONE Alternative
 
 
 </details>
@@ -512,6 +604,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Fix Vitiligo With Copper
+
 
 </details>
 
@@ -522,6 +616,8 @@
     <img src="https://img.youtube.com/vi/wqCxyW_CVWE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The 13 Top Foods We Eat in the US
 
 
 </details>
@@ -534,6 +630,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Benefits of Sweating
+
 
 </details>
 
@@ -544,6 +642,8 @@
     <img src="https://img.youtube.com/vi/1vCaFzqB6iA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Keto Rash is a Vitamin B2 (Riboflavin) Deficiency – Dr.Berg
 
 
 </details>
@@ -556,6 +656,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Use Oregano Essential Oil as a Natural Antibiotic
+
 
 </details>
 
@@ -566,6 +668,8 @@
     <img src="https://img.youtube.com/vi/TYnzZ7VlaV8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 4-Year Follow Up Interview with 600+ lb Steve
 
 
 </details>
@@ -578,6 +682,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Aluminum Toxicity and Silica
+
 
 </details>
 
@@ -588,6 +694,8 @@
     <img src="https://img.youtube.com/vi/ZU40MOnU44s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Does Looking at Sweets Spike Your Blood Sugar?
 
 
 </details>
@@ -600,6 +708,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Navy Seals Are Now Doing Keto (Ketogenic Diet)
+
 
 </details>
 
@@ -610,6 +720,8 @@
     <img src="https://img.youtube.com/vi/ZzyWh9SYPVI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Insulin Resistance and Pregnancy – Why Pregnant Women Develop Insulin Resistance – Dr.Berg
 
 
 </details>
@@ -622,6 +734,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Can Keto (Ketogenic Diet) Reverse Kidney Disease?
+
 
 </details>
 
@@ -632,6 +746,8 @@
     <img src="https://img.youtube.com/vi/NIoFlMGMJMw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What's Missing in a Keto (Ketogenic) Diet?
 
 
 </details>
@@ -644,6 +760,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# In Deep Ketosis (Positive Ketone Test) But NO Weight Loss?
+
 
 </details>
 
@@ -654,6 +772,8 @@
     <img src="https://img.youtube.com/vi/MTrqUv4a4Rg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why is Agave Nectar Bad if it's Low Glycemic?
 
 
 </details>
@@ -666,6 +786,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Most Important Blood Test: MUST WATCH!
+
 
 </details>
 
@@ -676,6 +798,8 @@
     <img src="https://img.youtube.com/vi/kgUdJBLo8-M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why a Fatty Keto (Ketogenic) Diet Can Help Reverse a Fatty Liver – Dr. Berg
 
 
 </details>
@@ -688,6 +812,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Damage Control From Your Cheat-Day on Keto
+
 
 </details>
 
@@ -698,6 +824,8 @@
     <img src="https://img.youtube.com/vi/oM-MFQlN7h0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# OMAD (One Meal A Day) Every Other Day: Is it Good or Bad?
 
 
 </details>
@@ -710,6 +838,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Do Cruciferous Vegetables Increase or Decrease Estrogen?
+
 
 </details>
 
@@ -720,6 +850,8 @@
     <img src="https://img.youtube.com/vi/_Ys3QDmXiEA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Does Keto and Intermittent Fasting Work? – Dr.Berg
 
 
 </details>
@@ -732,6 +864,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Not Losing Weight On Keto, What Am I Doing Wrong? – Dr.Berg
+
 
 </details>
 
@@ -742,6 +876,8 @@
     <img src="https://img.youtube.com/vi/k4oStGeSoK8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Are Slimfast Keto Products Really Keto-Friendly? – Dr.Berg
 
 
 </details>
@@ -754,6 +890,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# 3 Worst Ingredient In So Called Keto Friendly Foods – Dextrose, Maltitol & Keto Sweeteners – Dr.Berg
+
 
 </details>
 
@@ -764,6 +902,8 @@
     <img src="https://img.youtube.com/vi/BqYmrJcXGFg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Benefits of Grass-Fed Products Go Beyond Just Omega-3 Fatty Acids – Dr. Berg
 
 
 </details>
@@ -776,6 +916,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Brain-Gut Connection: Anxiety & Stress Coming from Missing Gut Bacteria – Dr.Berg
+
 
 </details>
 
@@ -786,6 +928,8 @@
     <img src="https://img.youtube.com/vi/KfLFFHnim7E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Gatorade vs Powerade: Which One Is Better For Dehydration – Dr. Berg
 
 
 </details>
@@ -798,6 +942,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Use Massage Technique for GERD Gastroesophageal Reflux Disease – Dr.Berg On Treating GERD At Home
+
 
 </details>
 
@@ -808,6 +954,8 @@
     <img src="https://img.youtube.com/vi/iJwOpUprZR4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Would Happen if You Get Rid of All Gut Bacteria? – Dr.Berg
 
 
 </details>
@@ -820,6 +968,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Get Restorative Sleep with Vitamin D – Dr.Berg On Sleep and Vitamin D Benefits
+
 
 </details>
 
@@ -830,6 +980,8 @@
     <img src="https://img.youtube.com/vi/7mzrAGfr3UM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Table Sugar vs High Fructose Corn Syrup (HFCS) – Dr.Berg
 
 
 </details>
@@ -842,6 +994,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Why Are My Feet Shrinking on Keto (Ketogenic Diet)? – Dr.Berg
+
 
 </details>
 
@@ -852,6 +1006,8 @@
     <img src="https://img.youtube.com/vi/kX_fDq24Vm0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why Boosting Metabolism Does Not Work – Dr.Berg
 
 
 </details>
@@ -864,6 +1020,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Let's NOT Fight the War Against Obesity – Dr.Berg
+
 
 </details>
 
@@ -874,6 +1032,8 @@
     <img src="https://img.youtube.com/vi/KppqsVXb_2c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Benefits of Eating More Sardines on Keto (Ketogenic Diet) – Dr. Berg
 
 
 </details>
@@ -886,6 +1046,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Plant Pigments, Phytonutrients, and Antioxidants – Dr.Berg
+
 
 </details>
 
@@ -896,6 +1058,8 @@
     <img src="https://img.youtube.com/vi/AhVDHS_PLQY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 7 Reasons for Bloating, Especially on Keto (Ketogenic Diet) – Dr.Berg
 
 
 </details>
@@ -908,6 +1072,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How Much Alcohol Will Stop Weight Loss and Ketosis? – Dr.Berg
+
 
 </details>
 
@@ -918,6 +1084,8 @@
     <img src="https://img.youtube.com/vi/GzYkM5DOTps/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Lower Blood Pressure Naturally by Cutting Out Sugar – Dr.Berg
 
 
 </details>
@@ -930,6 +1098,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Is Your Computer Destroying Your Vision? – Dr.Berg on Computer Vision Syndrome
+
 
 </details>
 
@@ -940,6 +1110,8 @@
     <img src="https://img.youtube.com/vi/9yKAtk3L-pM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Danger Of NOT Absorbing Fats – Dr.Berg
 
 
 </details>
@@ -952,6 +1124,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Why Does Dietary Protein NOT Cause Gout? – Dr.Berg
+
 
 </details>
 
@@ -962,6 +1136,8 @@
     <img src="https://img.youtube.com/vi/Ran77tMbtAs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Are Avocados Healthy & Can They Spike Your Cholesterol? – Dr.Berg
 
 
 </details>
@@ -974,6 +1150,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Can I Drink Diet Coke / Coke Zero on Keto (Ketogenic Diet)? – Dr.Berg
+
 
 </details>
 
@@ -984,6 +1162,8 @@
     <img src="https://img.youtube.com/vi/30khOXUP2Qk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Could Tremors Be Just a Vitamin Deficiency? – Dr.Berg
 
 
 </details>
@@ -996,6 +1176,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Why Should You Use Apple Cider Vinegar (ACV) For Diabetes? – Dr.Berg
+
 
 </details>
 
@@ -1006,6 +1188,8 @@
     <img src="https://img.youtube.com/vi/o3Q2zzYN8ms/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is Your Poor Posture Linked To Vitamin D Deficiency? – Dr.Berg
 
 
 </details>
@@ -1018,6 +1202,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# 5 Reasons Why B12 Is NOT Absorbed By The Body – Dr.Berg
+
 
 </details>
 
@@ -1028,6 +1214,8 @@
     <img src="https://img.youtube.com/vi/1XRTkE7hO8I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How To Boost Dopamine Levels With Keto (Ketogenic Diet)? – Dr.Berg
 
 
 </details>
@@ -1040,6 +1228,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The ONLY Fat That Cause Insulin Resistance is "TRANS FAT" – Dr.Berg
+
 
 </details>
 
@@ -1050,6 +1240,8 @@
     <img src="https://img.youtube.com/vi/qR34AY8KUM4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Use Keto (Ketogenic Diet) To Balance Hormones – Dr.Berg
 
 
 </details>
@@ -1062,6 +1254,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Potassium and Vitamin B12 Balance Explained by Dr.Berg!!
+
 
 </details>
 
@@ -1072,6 +1266,8 @@
     <img src="https://img.youtube.com/vi/cmoNH7ZLrXs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What is the Difference Between Virgin vs. Extra Virgin Olive Oil? – Dr. Berg
 
 
 </details>
@@ -1084,6 +1280,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Ketone: The Best Fuel For A Failing / Dysfunctional Heart – Dr. Berg
+
 
 </details>
 
@@ -1094,6 +1292,8 @@
     <img src="https://img.youtube.com/vi/Rw5yboim2Po/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why People Really Fail with Intermittent Fasting? – Dr.Berg
 
 
 </details>

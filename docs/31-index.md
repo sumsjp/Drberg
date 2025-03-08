@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Fat-to-Protein Ratio on Keto: Healthy vs. Gut Issues
+
 ### 小節歸納
 
 #### 核心主題
@@ -68,6 +70,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Peripheral Neuropathy Diabetes – Best Diet for Peripheral Neuropathy – Dr.Berg
+
 ### 小節歸納
 
 - **核心主題**：
@@ -113,6 +117,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Heat Intolerance – One Deeper Cause – Low Vitamin B1 & Heat Intolerance – Dr.Berg
+
 ### 1. 核心主題：Heat Intolerance（熱不耐受）
    - Heat intolerance 是一種症狀，表現在炎夏中容易過於燥熱或流汗過多/流汗不足。
    - 此症狀可能與多發性硬化症（MS）、POTS 等疾病有關。
@@ -151,6 +157,8 @@
     <img src="https://img.youtube.com/vi/IrgxOaIDt5c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Sleep Off Your Belly Fat
 
 ### 關鍵要點整理
 
@@ -235,6 +243,8 @@
     <img src="https://img.youtube.com/vi/C95PkgqnGN0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Keto Desserts and Gut Issues
 
 ### 文章整理：酮飲食中的甜點與零食攝取對腸道健康的影响
 
@@ -321,6 +331,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Important Unknown Purpose of Magnesium
+
 ### 小節整理：文章重點
 
 #### 核心主題
@@ -389,6 +401,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Tired While Doing Intermittent Fasting? tired while fasting
+
 ### 核心主題  
 - **疲勞在低碳水化合物飲食中的影響**  
   探讨酮osis（生酮饮食）和周期性禁食可能导致疲劳的原因及其解决方案。
@@ -454,6 +468,8 @@
     <img src="https://img.youtube.com/vi/g4MwvHyiJs0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The HUGE Problem with the Glycemic Index (GI)
 
 ### 文章重點整理
 
@@ -525,6 +541,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Asthma, Vitamin D and Remodeling of the Lung
+
 ### 小芻歸納
 
 #### 1. 核心主題  
@@ -565,6 +583,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Worst Way to Convince People to do Keto
+
 
 </details>
 
@@ -575,6 +595,8 @@
     <img src="https://img.youtube.com/vi/QqcFCk9TiYY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Does Inflammation Cause Diabetes?
 
 ### 核心主題
 - 炎症、胰島素抵抗性和超重之間的相互作用及其因果關係。
@@ -659,6 +681,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The FIRST Symptom / Early Signs of Fatty Liver – Dr.Berg
+
 ### 小節歸納
 
 #### 1. 核心主題
@@ -707,6 +731,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Isn't Our Body Supposed to Run on Sugar?
+
 # 文章整理：酮osis與人體能量來源的探讨
 
 ## 核心主題
@@ -751,6 +777,8 @@
     <img src="https://img.youtube.com/vi/NktTodLBugw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Noom Weight Loss: Dr. Berg's Opinion
 
 ### 核心主題  
 - 評論Noom App及其效果  
@@ -824,6 +852,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How do Probiotics Work for Fatty Liver Disease? – Dr. Berg
+
 ### 核心主題：肝臟問題與益生菌的作用
 
 ### 主要觀念：
@@ -855,6 +885,8 @@
     <img src="https://img.youtube.com/vi/zMl-ZtARmJg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# High Pulse Rate on Keto? Do This...
 
 ### 核心主題
 - 高脈搏率在酮ogenic diet（生酮飲食）中常見的原因及解決方法。
@@ -910,6 +942,8 @@
     <img src="https://img.youtube.com/vi/_nJMzbYmzKA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Interesting Cause of Air Hunger (Difficulty Breathing) – Dr.Berg on Shortness of Breath
 
 # 短暫呼吸困難（Air Hunger）的原因與處理
 
@@ -981,6 +1015,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Bigger Problem with Chronic Inflammation
+
 # 文章重點整理
 
 ## 核心主題
@@ -1034,6 +1070,8 @@
     <img src="https://img.youtube.com/vi/6cADeKDW65g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 5 Reasons for Cold Intolerance – Nutritional Deficiencies & Feeling Cold – Dr.Berg
 
 ### 核心主題
 - **營養與寒冷敏感性**  
@@ -1099,6 +1137,8 @@
     <img src="https://img.youtube.com/vi/dLxuWLSUWmY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Two Reasons for Chronic Sinus Congestion – Sinus Remedies by Dr.Berg
 
 ### 文章整理：文本分析與結構化
 
@@ -1169,6 +1209,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# How to be Calm
+
 ### 小節歸納
 
 #### 核心主題
@@ -1212,6 +1254,8 @@
     <img src="https://img.youtube.com/vi/QHfUDDn_hAw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why is Vitamin A Named Retinol?
 
 # 文章整理：維生素A（Retinol）的作用與重要性
 
@@ -1258,6 +1302,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Detoxify 1000s of Chemicals From Your Body Just With Food
+
 ### 核心主題：身體排毒與環境毒物對健康的影響
 
 ### 主要觀念：
@@ -1292,6 +1338,8 @@
     <img src="https://img.youtube.com/vi/7dH1rB64MfU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Is Your Child Clumsy or Not Coordinated?
 
 ### 小節化整理
 
@@ -1348,6 +1396,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Most Powerful Skin Vitamin: Not Vitamin C or E
+
 ### 小節歸納
 
 #### 1. 核心主題：維生素B3對皮膚健康的影響
@@ -1384,6 +1434,8 @@
     <img src="https://img.youtube.com/vi/PJ2cW7mF9RE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Hidden Sources of Gluten: Surprising
 
 ### 小節歸納
 
@@ -1432,6 +1484,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Real Benefit of Rebounding Exercise
+
 ### 核心主題：反彈運動（Rebounding Exercise）的健康益處
 
 #### 主要觀念：
@@ -1473,6 +1527,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Use Vitamin A for Kidney Stones – Vitamin A Deficiency & Kidney Stones – Dr.Berg
+
 ### 核心主題：维生素A与肾结石的关系及其预防作用
 
 #### 主要觀念：
@@ -1506,6 +1562,8 @@
     <img src="https://img.youtube.com/vi/5WJg00tcQgI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Why You Can't Live Without Viruses
 
 ### 小節整理
 
@@ -1556,6 +1614,8 @@
     <img src="https://img.youtube.com/vi/P-EkWPL67G4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Do I Have High or Low Cortisol – Confusion Clarified on Cortisol Levels by Dr. Berg
 
 ### 文章重點整理
 
@@ -1616,6 +1676,8 @@
     <img src="https://img.youtube.com/vi/UAzRA1oywfw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What to do For Lump in Throat? – Remedies by Dr.Berg
 
 ### 核心主題：咽部異物感（Lump in the Throat）
 
@@ -1692,6 +1754,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Gained 3 Pounds From Only 1 Pound of Food? How Could This Happen?
+
 ### 文章重點整理
 
 #### 核心主題  
@@ -1727,6 +1791,8 @@
     <img src="https://img.youtube.com/vi/5WI4_eUhJI0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Nuts Are Not a Healthy Snack
 
 ### 核心主題
 - **坚果作为健康零食的争议**：文章讨论了坚果虽然营养丰富，但其作为零食摄入可能带来负面影响。
@@ -1773,6 +1839,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Should the Saliva be Acid or Alkaline?
+
 ### 文章重點整理
 
 #### 1. **核心主題：口腔pH值的重要性及影響**
@@ -1818,6 +1886,8 @@
     <img src="https://img.youtube.com/vi/2hkWSdtVGcg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Protocol for Calcified Plaque in Your Arteries – Atherosclerosis – Dr.Berg
 
 ### 核心主題  
 - 調理動脈中鈣化斑塊的自然化合物與飲食策略  
@@ -1881,6 +1951,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Cassava on Keto?
+
 ### 文章分析報告
 
 #### 1. 核心主題  
@@ -1918,6 +1990,8 @@
     <img src="https://img.youtube.com/vi/dXCl0CIiwi0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 10 Benefits of Sheep Cheese
 
 ### 核心主題  
 - 比較羊奶與山羊奶及牛奶的品質，強調羊奶製作的乳酪（Sheep Cheese）在多方面的優勢。
@@ -1973,6 +2047,8 @@
     <img src="https://img.youtube.com/vi/rWwR_UYdiu0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The 9 Benefits of Bile Salts
 
 ### 文章整理重點
 
@@ -2033,6 +2109,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Is a Niacin Flush Harmful or Dangerous?
+
 ### 小節整理
 
 #### 1. 核心主題
@@ -2084,6 +2162,8 @@
     <img src="https://img.youtube.com/vi/xykt0O98Wpk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Fix Your Short Term Memory Loss – Hippocampus Repair – Dr.Berg
 
 ### 文章重點整理
 
@@ -2165,6 +2245,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Any Benefit of Fasting for 14 Hours?
+
 ### 小結點整理
 
 #### 核心主題：
@@ -2200,6 +2282,8 @@
     <img src="https://img.youtube.com/vi/ZOEWWvwCj_s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Vitiligo: Do These 3 Things
 
 ### 核心主題
 - **白癜風（Vitiligo）**：一種影響皮膚色素沉著的疾病，導致身體某些部位失去色素。
@@ -2250,6 +2334,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The 10 Benefits of Fiber
+
 ### 文章整理：蔬菜纖維的十大益處
 
 #### 核心主題
@@ -2299,6 +2385,8 @@
     <img src="https://img.youtube.com/vi/q2HThyEtD2g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Feeling Worse with Apple Cider Vinegar (ACV)?
 
 ### 文章整理：Apple Cider Vinegar 使用後不適的原因及解決方案
 
@@ -2367,6 +2455,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Swollen Face and Puffy Eyes: An Easy Fix
+
 ### 核心主題：面部腫脹和眼部浮腫的原因及解決方案
 
 #### 主要觀念：
@@ -2399,6 +2489,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Fiber and Gallstones
+
 ### 核心主題：膳食纖維對膽石症的影響
 
 ### 主要觀念：
@@ -2430,6 +2522,8 @@
     <img src="https://img.youtube.com/vi/otV51XLXa4A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Darkened Skin Spots: 3 Causes of Dark Spots on Skin – Dr.Berg
 
 ### 核心主題
 - **Melasma**：白癜風斑（melasma）是一種皮膚色素沉著過多引起的皮膚問題，主要與 melanocyte 的活性過高有關。
@@ -2481,6 +2575,8 @@
     <img src="https://img.youtube.com/vi/VKW99YifhHs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Hyperkalemia (High Blood Potassium Levels) – Hyperkalemia Symptoms & Treatment – Dr.Berg
 
 ### 文章整理：高血钾症（Hyperkalemia）及其相关问题
 
@@ -2543,6 +2639,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Tanning Beds: Any Vitamin D?
+
 ### 小節整理：從太陽浴床獲得維生素D的可能性
 
 #### 核心主題
@@ -2600,6 +2698,8 @@
     <img src="https://img.youtube.com/vi/YR-z6lw-YCg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Still Hungry in the Morning While Fasting and Doing Keto?
 
 ### 核心主題：早晨感到饥饿的原因及解决方案（在酮 diet 和间歇性禁食下）
 
@@ -2666,6 +2766,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Best Nutrient for FEAR
+
 ### 小節歸納
 
 #### 1. 核心主題
@@ -2705,6 +2807,8 @@
     <img src="https://img.youtube.com/vi/IoAGKwEhU5I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Non-Stress Cause of Adrenal Fatigue Symptoms – Vitamin B1/Thiamine Deficiency – Dr.Berg
 
 ### 文章整理：非壓力性 adrenal fatigue 的成因與影響
 
@@ -2776,6 +2880,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Worst Intermittent Fasting Pattern is...
+
 ### 核心主題  
     1. 探讨间歇性禁食的不同模式及其对人体健康的影响。  
     2. 强调选择合适的间歇性禁食模式以最大化健康益处并避免负面影响。  
@@ -2811,6 +2917,8 @@
     <img src="https://img.youtube.com/vi/yzBnjfjbjUM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# You Don't Get Vitamin A From Vegetables
 
 ### 小節一：核心主題  
 - 文章主要探討了健康與 wellness 的概念，特別是針對心臟病患者和整體健康人群的需求。  
@@ -2853,6 +2961,8 @@
     <img src="https://img.youtube.com/vi/cWeXMuGZvOQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Fibrocystic Breast: The Best Remedy is...
 
 ### 文章重點整理
 
@@ -2932,6 +3042,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The 7 Nutrient-Dense Foods for Keto
+
 ### 核心主題：營養密集食物的重要性
 
 - 遆合 nutrient-dense foods 是確保身體健康和充足營養的重要方式。
@@ -2994,6 +3106,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Fastest Way to Get Rid of Arthritis Knee Pain – Omega Fatty Acids Foods for Arthritis – Dr.Berg
+
 ### 核心主題  
 - 最快速消除膝蓋疼痛（及其他關節炎症，如下背部僵硬、肩頸不適）的方法。
 
@@ -3048,6 +3162,8 @@
     <img src="https://img.youtube.com/vi/tsXEBm_tSbE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Good and Bad Ways to Trigger Ketosis
 
 ### 核心主題：促進酮體生產的方法
 
@@ -3122,6 +3238,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# 6 Benefits of a High Fat Diet
+
 # 高脂肪飲食的健康益處與常見迷思
 
 ## 1. 核心主題
@@ -3174,6 +3292,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Number ONE Cause of Chronic Fatigue: 50 Years or Older
+
 ### 核心主題：低胃酸與慢性疲勞的關聯（尤其是50歲以上人群）
 
 - 慢性疲勞在50歲以上的成年人中是一個常見問題。
@@ -3222,6 +3342,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# The Importance of Selenium for the Thyroid
+
 ### 小節整理：碘與硒在 thyroid 功能中的重要性
 
 #### 核心主題
@@ -3269,6 +3391,8 @@
     <img src="https://img.youtube.com/vi/VRaoSg7UEZM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# What Causes a Goiter? Iodine Deficiency & Thyroid Nodules – Dr.Berg
 
 ### 小節歸納
 
@@ -3325,6 +3449,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Iron Deficiency Symptoms and Causes of Anemia – Dr.Berg
+
 ### 文章整理：鐵缺乏性貧血的原因與應對策略
 
 #### 1. 核心主題
@@ -3377,6 +3503,8 @@
     <img src="https://img.youtube.com/vi/58ddoKMDOko/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Hidden Reason for Prostate Enlargement – Dr.Berg
 
 ### 核心主題
 - 腺嘌呤酶的作用及其在睾酮轉化為雌二醇中的角色。
@@ -3444,6 +3572,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Use Iodine for Skin Tags and Warts – Dr.Berg on Skin Tag Removal
+
 ### 小節結構化整理
 
 #### 核心主題
@@ -3492,6 +3622,8 @@
     <img src="https://img.youtube.com/vi/Ntl6aTCdf8c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Black Tea: Its Most Powerful Benefit
 
 ### 文章重點整理
 
@@ -3589,6 +3721,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Use Chromium Picolinate for Insulin Resistance – Benefits of Chromium – Dr. Berg
+
 ### 核心主題：  
 - **Insulin Resistance**（胰岛素抵抗）及其相關健康問題。  
 - **Chromium Picolinate**（铬(picolenate)）在改善胰岛素抵抗中的作用。
@@ -3657,6 +3791,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+# Is Your Fat Giving You Inflammation?
+
 ### 核心主題
 - 腫肉（visceral fat）是導致炎症的重要因素。
 - 脂肪細胞（adipocyte）具有内分泌功能，分泌多種激素和炎性因子。
@@ -3706,6 +3842,8 @@
     <img src="https://img.youtube.com/vi/amsr6TlEaIQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Testosterone Therapy Spiking Estrogen? Why
 
 ### 核心主題
 - **Testosterone Replacement Therapy (TRT) 的潛在副作用： estrogen 水平上升**
@@ -3776,6 +3914,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
+# How to Lose Postmenopausal Weight
+
 ### 小節化整理：如何在更年期後減肥
 
 #### 1. 核心主題
@@ -3824,6 +3964,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
+# Celery Juice vs. Sodium Nitrates in Hot Dogs
+
 
 </details>
 
@@ -3834,6 +3976,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
     <img src="https://img.youtube.com/vi/KgBFzIY7Hx4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# #1 Cause of Hypertension – Hyperinsulinemia and High Insulin Levels – Dr.Berg
 
 ### 文章整理：高血壓的主要原因與健康管理
 
@@ -3903,6 +4047,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
+# B1 Deficiency After Antibiotics
+
 ### 小節化整理
 
 #### 核心主題
@@ -3955,6 +4101,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
+# Why Chronic Inflammation Causes Anemia (Iron Deficiency) – Anemia of Chronic Disease – Dr.Berg
+
 ### 核心主題：慢性炎症、貧血與微量元素管理
 
 #### 主要觀念：
@@ -3992,6 +4140,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
     <img src="https://img.youtube.com/vi/o-HxGaqiBU4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 5 Benefits of Stinging Nettle Root
 
 ### 核心主題
 - **Stinging Nettle Root 的健康益處**  
@@ -4044,6 +4194,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
     <img src="https://img.youtube.com/vi/r14pSzQQNnk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How Effective is Chemotherapy, Really?
 
 ### 核心主題
 - **化療的效果評估**：文章探討了化療在成人患者中五年生存率的貢獻及其效果。
@@ -4102,6 +4254,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
     <img src="https://img.youtube.com/vi/vEf9T73iRZw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Always Use Zinc for Diarrhea – Zinc Deficiency & Diarrhea Remedy – Dr.Berg
 
 ### 核心主題：兒童腹瀉與鋅缺乏的關聯性
 
@@ -4170,6 +4324,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
+# Spinach is the Worst Source of Iron
+
 # 文章整理： spinach 鐵質攝取之迷思與事實
 
 ## 核心主題：
@@ -4224,6 +4380,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
+# Left Side Abdominal Pain Under Ribs – Causes & Remedies Covered by Dr. Berg
+
 ### 1. **核心主題：左側肋骨下緣疼痛的可能原因**
    - 探讨左侧肋骨下方区域（腹腔内）潜在的健康问题，特别是与肝脏、胰腺和胆道系统相关的疾病。
    - 强调该区域器官的重要性及其在消化过程中的作用。
@@ -4267,6 +4425,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
     <img src="https://img.youtube.com/vi/b7W6Q1xStwQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# How to Cook Eggs for Maximum Antioxidant Nutrients
 
 ### 文章重點整理
 
@@ -4322,6 +4482,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
     <img src="https://img.youtube.com/vi/QXAtIQI84hI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Headaches on Keto? Do This...
 
 ### 文章重點整理
 
@@ -4410,6 +4572,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
+# High / Low Protein in Your Blood: What Does It Mean?
+
 ### 小節歸納
 
 #### 1. 核心主題：血液中的蛋白質類型及其功能
@@ -4464,6 +4628,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
+# Raynauds Syndrome – What Can you do for Raynaud's Syndrome – Dr.Berg
+
 ### 小節化整理：雷諾氏症（Raynaud's Syndrome）
 
 #### 1. 核心主題
@@ -4507,6 +4673,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
     <img src="https://img.youtube.com/vi/yK32xrQ_9pE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Autoimmune Conditions: Key Foods to Avoid
 
 ### 文章重點整理
 
@@ -4571,6 +4739,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
+# Why Would Triglycerides Elevate on Keto? Causes of High Triglycerides on Keto – Dr.Berg
+
 ### 核心主題：酮飲食（Keto Diet）中 triglycerides（三酸甘油酯）偏高的原因與解決方法
 
 #### 主要觀念：
@@ -4629,6 +4799,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
+# 7 Unusual Vitamin B1 Deficiency Symptoms
+
 ### 文章整理與分析
 
 #### 核心主題
@@ -4678,6 +4850,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
     <img src="https://img.youtube.com/vi/z5zv8bvbBEc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The Most Common Nutrient Deficiency in the Elderly
 
 # 老年人營養 deficiencies 的綜合分析
 
@@ -4763,6 +4937,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
+# Drinking Too Much Beer Will Deplete...
+
 ### 核心主題
 - 啤酒過量飲用引發的營養缺乏症。
 
@@ -4805,6 +4981,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
     <img src="https://img.youtube.com/vi/PUn3_n7Y4Ns/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Causes of High Creatinine Levels in Blood – Dr.Berg on Elevated Creatinine Levels
 
 ### 核心主題：血清肌酸酐升高及其影響與原因分析
 
@@ -4868,6 +5046,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
+# Why Keto isn't Helping My Joint Pain? – Dr.Berg
+
 ### 小節一：核心主題  
 - 探讨酮飲食（Keto）和間歇性禁食（Intermittent Fasting）在缓解关节疼痛中的效果及其可能的原因。  
 
@@ -4906,6 +5086,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
     <img src="https://img.youtube.com/vi/Th252QYGXWc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Does Fasting Increase Adrenaline?
 
 ### 文章整理：短時間禁食對腎上腺素及壓力反應的影響
 
@@ -4972,6 +5154,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
+# Amazing Dr. Berg Success Story: Joseph Golisano
+
 ### 核心主題
 
 - **成功減重**：Joseph 在實施酮飲食和間歇性禁食後，從 242.5 磅減至最低體重 139.4 磅，減重超過 100 磅。
@@ -5027,6 +5211,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
+# The Two Causes for GERD – Gastroesophageal Reflux Disease (Acid Reflux) – Dr.Berg
+
 ### 文章整理：GERD的兩個潛在病因及解決方案
 
 #### 核心主題
@@ -5078,6 +5264,8 @@ GERD 的發生與多種因素有關，但通過補充維生素D和增加胃酸�
     <img src="https://img.youtube.com/vi/g7mwonjsCuI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Right-Sided Trap Tightness: An Easy Fix
 
 # 文章整理：右側肩胛肌緊繃問題的根源與解決方案
 
@@ -5139,6 +5327,8 @@ GERD 的發生與多種因素有關，但通過補充維生素D和增加胃酸�
         alt="[Youtube]" width="200">
 </a>
 
+# K2 Inhibits Vascular and Joint Calcification
+
 ### 小節整理：維生素K2的功效與重要性
 
 #### 1. 核心主題
@@ -5190,6 +5380,8 @@ GERD 的發生與多種因素有關，但通過補充維生素D和增加胃酸�
     <img src="https://img.youtube.com/vi/gnj81A3C3xs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# Important Thyroid Tips
 
 # 甲状腺问题的分析与建议
 
@@ -5263,6 +5455,8 @@ GERD 的發生與多種因素有關，但通過補充維生素D和增加胃酸�
         alt="[Youtube]" width="200">
 </a>
 
+# My Keto Diet is NOT Working & Hypoglycemia is Back – Here is Why!! Dr.Berg
+
 ### 核心主題
 - 論文討論了酮genesis（生酮飲食）在治療低血糖症中的有效性及其局限性。
 - 强調了生活方式改變的重要性，特別是酮ogenesis和Intermittent Fasting（間歇性禁食）作為長期飲食策略的必要性。
@@ -5323,6 +5517,8 @@ GERD 的發生與多種因素有關，但通過補充維生素D和增加胃酸�
         alt="[Youtube]" width="200">
 </a>
 
+# What’s at the Root of an Autoimmune Condition
+
 ### 文章重點整理
 
 #### 核心主題：自身免疫性疾病的機制與管理
@@ -5371,6 +5567,8 @@ GERD 的發生與多種因素有關，但通過補充維生素D和增加胃酸�
     <img src="https://img.youtube.com/vi/WXZcFlxEgKs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# 10 Benefits of L-Arginine
 
 ### 核心主題
 - **L-ARGININE 的多重功效**  
@@ -5440,6 +5638,8 @@ L-ARGININE 締造出多方面的健康益處，特別是在心血管健康、血
     <img src="https://img.youtube.com/vi/kMjpK_Iel0w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+# The 3rd Purpose of Your Immune System
 
 ### 文章重點整理
 
