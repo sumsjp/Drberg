@@ -107,7 +107,7 @@ def download_script(df):
     
     # 計數器
     download_count = 0
-    max_downloads = 10
+    max_downloads = 20
     
     # 優先字幕語言列表
     preferred_langs = ['en']

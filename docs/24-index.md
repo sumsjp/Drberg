@@ -2558,47 +2558,261 @@ Ginkgo biloba 是一種具有悠久歷史且多效的植物，其主要功效在
 </details>
 
 <details>
-<summary>2453. Why I Eat 4 to 5 Eggs a Day – Eggs and Cholesterol – Dr.Berg on Benefits of Eating Eggs</summary><br>
+<summary>2453. [2019-10-10] Why I Eat 4 to 5 Eggs a Day – Eggs and Cholesterol – Dr.Berg on Benefits of Eating Eggs</summary><br>
 
 <a href="https://www.youtube.com/watch?v=FH8RsqjlS2o" target="_blank">
     <img src="https://img.youtube.com/vi/FH8RsqjlS2o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理
 
+#### 核心主題  
+- 蛋白質攝取效率與健康益處：探討蛋類在蛋白質轉化為身體組織方面的優越性及其多樣化的營養價值。
+
+#### 主要觀念  
+1. **蛋類的高利用率**  
+   - 蛋清和蛋黃中48%的蛋白質可轉化為身體蛋白質，此效率仅次於母乳。  
+   - 其他常見食物（如肉、魚、豆類及乳制品）的利用率相對較低。
+
+2. **營養成分豐富**  
+   - 蛋含有幾乎所有維生素和礦物質，包括B族維生素、膽堿、DHA、EPA及類胡蘿蔔素。  
+   - 這些成分有益於眼部健康、肝臟功能及神經系統。
+
+3. **胆固醉問題**  
+   - 雖然蛋含有膽固醇，但研究表明其增加的主要是「好」的HDL cholesterol，而非有害的LDL cholesterol。  
+   - 舉膳飲食中适量攝取蛋類對心臟健康無害。
+
+#### 問題原因  
+- 早期 Seminar 因推薦每日4-5個蛋而未受邀回，反映了蛋類在某些觀念中存在的負面看法。  
+- 公眾對蛋類胆固醉的誤解導致其營養價值被低估。
+
+#### 解決方法  
+1. **正確信息傳播**  
+   - 提供科學數據以糾正蛋類的負面印象，並強調其健康益處。  
+
+2. **選擇高品質蛋類**  
+   - 推薦食用 pasture-raised organic 蛋，以確保更高的營養價值和食品安全性。
+
+#### 健康建議  
+1. **蛋白質攝取策略**  
+   - 通過攝食4-5個蛋來提高蛋白質的利用率，進而增強肌肉修復與增長。  
+
+2. **均衡飲食**  
+   - 結合多種食物SourceType以確保全面的營養吸收，蛋類可作為重要的蛋白質來源之一。
+
+3. **胆固醉管理**  
+   - 適量攝取蛋類不會影響血清膽固醇水平，且有利於心臟健康。  
+
+#### 總結  
+- 蛋類是高利用率的蛋白質來源，具備多種營養成分，適合各年齡層的人群攝食。  
+- 適當攝取蛋類不僅有益於肌肉生長，還能提供保護眼部、肝臟及神經系統的健康益處。  
+- 需糾正對蛋類胆固醉的偏見，並提倡選擇高品質蛋類以最大化其健康價值。
 </details>
 
 <details>
-<summary>2452. Do You Eat When You Are Not Hungry? Stop Hunger Cravings – Dr.Berg</summary><br>
+<summary>2452. [2019-10-09] Do You Eat When You Are Not Hungry? Stop Hunger Cravings – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=IJtHfOLcj4Y" target="_blank">
     <img src="https://img.youtube.com/vi/IJtHfOLcj4Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 探讨在非饥饿状态下进食的问题及其对体重管理和健康的影响。
+- 强调通过酮饮食和间歇性禁食来实现长期的体重管理。
+
+#### 主要觀念
+1. **食欲控制**：正确执行酮饮食和间歇性禁食可以有效减少 hunger and cravings，增加饱腹感。
+2. **环境影响**：外部环境中的食物诱惑（如餐厅气味、社交压力）会影响个人对食物的抵抗能力。
+3. **习惯改变**：过去不良的饮食习惯（如夜间零食、浪费食物）需要通过行为调整和心理建设来克服。
+
+#### 問題原因
+1. **食欲问题**：未正确执行酮饮食或间歇性禁食可能导致 hunger and cravings，影响饮食计划的坚持。
+2. **环境诱惑**：餐厅中的气味、视觉刺激以及社交压力增加了对食物的抵抗力。
+3. **习惯束缚**：过去的不良饮食习惯（如零食习惯、浪费食物）容易导致非饥饿状态下的进食。
+
+#### 解决方法
+1. **改善食欲管理**：
+   - 确保酮饮食和间歇性禁食执行正确，增加饱腹感。
+   - 充分利用酮体的天然 appetite suppressant 效应。
+   
+2. **应对环境诱惑**：
+   - 减少外出就餐频率，自制餐点以控制食物选择。
+   - 家庭成员共同遵守健康饮食规则，避免家中存在诱惑性食品。
+   - 准备替代性食品（如酮式甜点），减少对限制性食品的心理压力。
+
+3. **改变不良习惯**：
+   - 通过心理暗示和行为调整，逐步摆脱不良饮食习惯。
+   - 使用小盘子、自制餐食来控制食量，避免过量进食。
+   - 偶尔允许摄入限制性食品，并通过额外的健康措施（如运动）进行弥补。
+
+#### 健康建議
+1. **饮食计划**：
+   - 采用酮饮食和间歇性禁食，确保饮食结构科学合理。
+   - 增加脂肪摄入，减少碳水化合物，以提高饱腹感。
+
+2. **行为调整**：
+   - 避免冲动性购买不健康食品，改变购物习惯。
+   - 逐步适应健康食品的味道和口感，培养长期的健康饮食习惯。
+
+3. **心理建设**：
+   - 建立坚定的心理防线，拒绝诱惑。
+   - 通过成功抵抗诱惑增强自信心和意志力。
+
+#### 結論
+- 非饥饿状态下的进食是体重管理和健康维护中的常见挑战。
+- 通过科学的饮食方法、环境管理以及行为调整，可以有效克服这一问题。
+- 坚持正确的饮食计划和心理建设是实现长期健康目标的关键。
+
+---
+
+### 相關研究與理論サポート
+
+1. **食欲调节机制**：
+   - 研究表明，酮饮食可以通过增加饱腹感激素（如膽囊收縮素、胰高血糖素-like肽-1）来减少 hunger and cravings [.refs]。
+   - 间歇性禁食也被证实可以调节食欲相关激素，帮助控制进食行为 [.refs]。
+
+2. **环境对饮食行为的影响**：
+   - 环境中的食物气味和视觉刺激会触发大脑的奖赏系统，增加对食物的渴望 [.refs]。
+   - 社交压力和同伴影响也是导致冲动性进食的重要因素 [.refs]。
+
+3. **习惯与意志力的关系**：
+   - 心理学研究表明，重复的行为模式（如长期形成的饮食习惯）会影响个体的决策过程 [.refs]。
+   - 使用意志力抵抗诱惑可以增强自我控制能力，但需要通过持续的努力来维持 [.refs]。
 </details>
 
 <details>
-<summary>2451. How to Break a Prolonged Fast? – Dr.Berg's Advice on Prolonged Fasting Refeeding</summary><br>
+<summary>2451. [2019-10-09] How to Break a Prolonged Fast? – Dr.Berg's Advice on Prolonged Fasting Refeeding</summary><br>
 
 <a href="https://www.youtube.com/watch?v=2VXvVuMk9ks" target="_blank">
     <img src="https://img.youtube.com/vi/2VXvVuMk9ks/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- **Refeeding Syndrome**: 在長時間禁食後快速恢復攝食所引發的一系列生理反應和潜在危險。
 
+---
+
+### 主要觀念  
+1. **Definition of Refeeding Syndrome**:  
+   - 網約在禁食4至7天後，突然攝取大量營養素（如碳水化合物、電解質等）引發的代謝紊亂。
+   - 並非指短時間禁食（如2天）後的恢復。
+
+2. **Risk Factors**:  
+   - 已有營養缺乏症的人群（如酒精依賴者、厭食症患者）。
+   - 禁食期間未補充必要營養素和電解質。
+
+3. **Pathophysiology**:  
+   - 濫食後，血液中的磷、钾、鎂等礦物質快速進入細胞內，導致血清中這些 nutrient 的濃度急劇下降。
+   - 可能引發低血糖、心律不整、肌肉痙攣等症狀。
+
+4. **Complications**:  
+   - 腸道不適（如腹痛、恶心）、暈厥甚至更為嚴重的健康問題。
+
+---
+
+### 問題原因  
+1. **Nutritional Deficiencies Before Fasting**:  
+   - 禁食前已存在營養缺乏，進一步惡化禁食後的代謝反應。
+
+2. **Rapid Nutrient Intake After Fasting**:  
+   - 高碳水化合物食物的攝入會迅速消耗血清中的磷、钾、鎂等礦物質，擾亂內分泌平衡。
+
+3. **Lack of Electrolyte and Vitamin Supplementation During Fasting**:  
+   - 禁食期間未補充必要電解質和維生素，增加了恢復攝食後的風險。
+
+---
+
+### 解決方法  
+1. **Gradual Reintroduction of Food**:  
+   - 達 fasting 恢復時，建議逐步增加營養攝取，避免突然過量攝入高碳水化合物食物。
+
+2. **Use of Keto-Friendly Foods**:  
+   - 選擇低碳水化合物、高蛋白質和健康脂肪的食物來源，以緩解對血清礦物質的消耗。
+
+3. **Electrolyte and Vitamin Supplementation During Fasting**:  
+   - 禁食期間持續補充電解質（如海鹽）和維生素B群，確保身體的基本營養需求。
+
+4. **Medical Supervision for High-Risk Individuals**:  
+   - 對於有營養缺乏症或健康問題的人群，建議在醫療專業人員的監督下進行禁食和恢復攝食。
+
+---
+
+### 健康建議  
+1. **Pre-Fasting Evaluation**:  
+   - 在計劃長時間禁食之前，評估自身營養狀況，特別是有無營養缺乏症。
+
+2. **During Fasting Period**:  
+   - 禁食期間每日補充少量鹽水和必要維生素，保持機體電解質平衡。
+
+3. **Post-Fasting Strategy**:  
+   - 恢復攝食時選擇低GI（升糖指數）食物，逐步增加碳水化合物攝取量。
+   - 避免一次性攝入大量高糖或高澱粉的食物。
+
+4. **Monitor Symptoms**:  
+   - 在禁食和恢復期間密切監控身體反應，如有不適立即停止並就醫。
+
+---
+
+### 結論  
+- **Refeeding Syndrome** 是長時間禁食後快速恢復攝食所引發的嚴重健康問題。
+- 通過合理的營養補充、漸進式的飲食恢復以及醫療監督，可以有效降低此綜合征的风险。
+- 高-risk individuals should always consult healthcare professionals before attempting prolonged fasting.
 </details>
 
 <details>
-<summary>2450. What Do Nail Polish Remover and Fat Burning Have In Common? – Dr.Berg</summary><br>
+<summary>2450. [2019-10-08] What Do Nail Polish Remover and Fat Burning Have In Common? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DqNWKFtKoAM" target="_blank">
     <img src="https://img.youtube.com/vi/DqNWKFtKoAM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：酮症及其與酮體的關聯
 
+酮症是一種代謝狀態，當身體燃燒脂肪作為主要能量來源時產生酮體。酮體包括β-羥基丁酸、乙酰acetate和丙酮，其中丙酮具有特殊意義。
+
+### 主要觀念：
+
+1. **酮體的來源與功能**：
+   - 酮體由脂肪燃燒過程生成。
+   - 用於提供能量，特別是在碳水化合物攝取不足時。
+
+2. **丙酮的角色**：
+   - 是酮體中之一，亦為指甲油去除劑的主要成分。
+   - 在人體內自然生成的丙酮是非毒性。
+
+3. **酮症的代謝過程**：
+   - 初期進入酮症時，身體會大量排出酮體（尿液和呼吸）。
+   - 隨著身體效率提升，酮體燃燒更完全，無需外泄。
+
+### 問題原因：
+
+1. **指甲油去除劑的誤用**：
+   - 指甲油去除劑中的丙酮雖與人體內的丙酮相同，但商業產品高度有毒，不可食用。
+   - 遭受此混淆可能導致健康風險。
+
+2. **酮症初期的不適**：
+   - 早期酮症可能伴隨丙酮呼吸（如水果味或指甲油氣味）。
+   - 此現象為暫時性，隨著身體適應而消失。
+
+### 解決方法：
+
+1. **安全進入酮症**：
+   - 減少碳水化合物攝取並增加間歇性禁食。
+   - 避免誤用商業化產品（如指甲油去除劑）以模擬酮症。
+
+2. **健康建議**：
+   - 確保在專業指導下進行 ketogenic飲食計劃。
+   - 監控初期的代謝變化，適應身體的需求。
+
+### 結論：
+
+酮症為有效的脂肪燃燒和健康改善策略，但需注意其自然過程的安全性。商業化丙酮產品不可食用，早期的不適現象為正常且暫時。遵循科學方法進入酮症，以最大化健康益處並避免潛在風險。
 </details>
 
 <details>
@@ -2613,91 +2827,475 @@ Ginkgo biloba 是一種具有悠久歷史且多效的植物，其主要功效在
 </details>
 
 <details>
-<summary>2448. 8 Natural Herbs for Reducing Excess Androgen – Dr.Berg</summary><br>
+<summary>2448. [2019-10-07] 8 Natural Herbs for Reducing Excess Androgen – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vIM_ZHBZcJo" target="_blank">
     <img src="https://img.youtube.com/vi/vIM_ZHBZcJo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 自然降低雄性激素（Androgens）的方法。
+- 高雄性激素可能引起的健康問題。
 
+### 主要觀念
+1. 雄性激素過高對男性和女性的影響：
+   - 男性：前列腺癌、良性前列腺肥大。
+   - 女性：多囊卵巢綜合征、痤瘡、面部毛發增多、脱发（ Alopecia ）。
+2. 自然降低雄性激素的方法主要通過抑制5-α還原酶（5-alpha reductase），該酶將睾酮轉化為二氫 testosterone （DHT）。
+
+### 問題原因
+- 雄性激素過高：
+  - 可能由遺傳、荷爾蒙失衡或生活方式因素引起。
+  - DHT在脱发和痤瘡中起重要作用。
+  - 高胰島素血症（如多囊卵巢綜合征患者）也可能增加雄性激素水平。
+
+### 解決方法
+- 使用自然 herbs 降低雄性激素：
+  1. **Spearmint 茶**：具有降低睾酮的效果。
+  2. **Red Reishi mushroom**：顯著抑制5-α還原酶並減輕前列腺肥大和痤瘡。
+  3. **Licorice（甘草）**：促進雌激素生成，幫助平衡過高的雄性激素。
+  4. **Chinese Peony**：將 excess testosterone 轉化為雌激素。
+  5. **Green Tea**：顯著降低5-α還原酶活性。
+  6. **Black Cohosh**：改善前列腺健康，用於男性前列腺肥大。
+  7. **Chasteberry（菊梅）**：抑制 testosterone 轉化為DHT。
+  8. **Saw Palmetto**：改善前列腺肥大、脱发和多囊卵巢綜合征。
+
+### 健康建議
+1. 綜合使用 herbs 和生活方式調整：
+   - 注意碳水化合物攝取，避免高胰島素血症。
+   - 配合健康飲食和適當運動以促進荷爾蒙平衡。
+2. 建議諮詢醫生或專業醫療人員，以確保 herbs 的安全性與適用性。
+
+### 結論
+- 自然降低雄性激素的方法多樣且具備潛力。
+- 使用 herbs 時需注意劑量和可能的副作用。
+- 生活方式調整和自然療法可作為輔助治療手段。
 </details>
 
 <details>
-<summary>2447. Top Health Benefits of Mustard – Dr.Berg</summary><br>
+<summary>2447. [2019-10-07] Top Health Benefits of Mustard – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=4ROajvw1AkQ" target="_blank">
     <img src="https://img.youtube.com/vi/4ROajvw1AkQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小結點整理：芥末的健康益處
 
+#### 核心主題  
+- 芥末及其植物部位（種子、葉等）具有多方面的健康益處。
+
+#### 主要觀念  
+1. **芥末的營養成分**  
+   - 富含微量元素：硒、鎂、、錳、鐵、锌。  
+   - 含有維生素A、B6、C和葉酸（vitamin B9）。  
+
+2. **活性化合物**  
+   - 含有異硫氰化物（isothiocyanides），具備解毒功能，特別是對環境激素（xenoestrogens）的去除能力。  
+   - 能夠幫助消除因高溫烹饪肉類產生的毒素，尤其是在煎炸或烤制時形成的有害物質。  
+
+3. **健康功效**  
+   - **抗炎作用**：降低身體炎症反應。  
+   - **促消化**：改善胃腸道功能。  
+   - **緩解痙攣**：特別是夜间痙攣問題。  
+   - **排毒效果**：幫助清除體內毒素，尤其針對肉類烹饪過程中生成的有害物質。  
+
+4. **其他成分**  
+   - 芥末常與其他健康食材混合使用，如薑黃（turmeric）、苹果醋、海鹽和胡椒等，進一步增強其療效。  
+
+#### 問題原因  
+- 現代飲食中過度依賴加工食品和不健康烹饪方式，導致攝入过多 toxins（如 heterocyclic amines 和 polycyclic aromatic hydrocarbons），增加慢性病風險。  
+
+#### 解決方法  
+- 使用芥末作為替代調味品，減少對不健康醬料的依賴。  
+- 配合其他天然成分（如薑黃、苹果醋）使用，增強其排毒和抗炎效果。  
+
+#### 健康建議  
+1. **食用方式**  
+   - 將芥末用於沙拉、醬料或直接塗抹在食物上。  
+   - 選擇無添加劑的純天然芥末產品。  
+
+2. **搭配飲食建議**  
+   - 與全穀物、蔬菜和瘦肉蛋白（如 grass-fed 牛肉）一起食用，提升營養均衡。  
+
+3. **注意事項**  
+   - 避免過量攝取，尤其是對味道敏感或有胃腸道敏感的人群需酌情使用。  
+
+#### 結論  
+芥末不僅是一種常見的調味品，更是一種富含營養和活性化合物的健康食品。合理使用芥末可以幫助排毒、抗炎、促消化並改善整體健康狀況，值得在日常飲食中加入。
 </details>
 
 <details>
-<summary>2446. What is L-Carnitine & What is it's Biggest Benefit? – Dr.Berg</summary><br>
+<summary>2446. [2019-10-06] What is L-Carnitine & What is it's Biggest Benefit? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=mlg1h3cDsuQ" target="_blank">
     <img src="https://img.youtube.com/vi/mlg1h3cDsuQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：L-肉鹼（L-Carnitine）的功能及其健康影響
 
+#### 主要觀念：
+1. **L-肉鹼的基本功能**  
+   - L-肉鹼是一種氨基酸，主要負責將脂肪酸運輸至線粒體中進行氧化燃燒。  
+   - 線粒體是細胞的能量工廠，負責生產ATP（能量貨幣）。  
+
+2. **心臟的特殊需求**  
+   - 心肌細胞含有大量線粒體（5,000個），遠超其他細胞。  
+   - 心臟缺乏糖原儲備，主要依賴脂肪酸、乳酸和酮體供能，其中脂肪酸是其最偏好的能量來源。  
+
+3. **L-肉鹼在心臟健康中的作用**  
+   - 負責將脂肪酸運輸至心肌细胞的線粒體中燃燒，提供心臟所需的能量。  
+   - L-肉鹼與Coenzyme Q-10結合使用，可顯著改善心血管健康。  
+
+4. **年齡對L-肉鹼生產和吸收的影響**  
+   - 隨著年齡增長，身體產生L-肉鹼的能力下降。  
+   - 消化吸收問題（如胃酸分泌減少）會進一步影響L-肉鹼的來源。  
+
+#### 問題原因：
+1. **心臟健康問題**  
+   - 心力衰竭、心律失常或其他心臟損害可能與L-肉鹼不足有關。  
+
+2. **營養吸收障礙**  
+   - 年齡增長導致蛋白質消化能力下降，影響L-肉鹼的來源。  
+
+3. **缺乏必要營養素**  
+   - B6、維生素C等B群維生素缺乏可能干擾L-肉鹼的合成。  
+
+#### 解決方法：
+1. **補充L-肉鹼**  
+   - 遊牧民族或有特定健康需求的人群可考慮通過補充劑攝取。  
+
+2. **確保營養均衡**  
+   - 滿足身體對B6、維生素C等營養素的需求，以支持L-肉鹼的合成。  
+
+3. **改善消化吸收**  
+   - 適當補充胃酸或選擇易吸收的形式（如L-肉鹼鹽）。  
+
+#### 健康建議：
+1. **心血管健康**  
+   - L-肉鹼和Coenzyme Q-10聯合使用可顯著增強心臟功能。  
+
+2. **運動表現**  
+   - 運動愛好者可通过補充L-肉鹼提升耐力、能量和恢復能力。  
+
+3. **年齡相關健康問題**  
+   - 年長者應該注意蛋白質攝取和消化，並適當補充必要的營養素。  
+
+#### 結論：
+L-肉鹼不僅是體脂燃燒的重要媒介，更是心臟健康的關鍵因素。其在能量 metabolism 中的獨特作用使其成為支持心血管健康、增強運動表現和應對年齡相關問題的理想選擇。
+
+### 相關重要問題或研究方向：
+1. **L-肉鹼在不同人群中的最佳攝取量**  
+   - 探索不同性別、年齡和健康狀況下的推薦劑量。  
+
+2. **L-肉鹼與其他營養素的相互作用**  
+   - 研究L-肉鹼與B群維生素、Coenzyme Q-10等的協同效應。  
+
+3. **L-肉鹼在慢性病管理中的應用**  
+   - 探索其在心臟病、糖尿病等慢性疾病的治療和預防中的作用。  
+
+4. **L-肉鹼在運動科學中的進一步應用**  
+   - 研究其對運動性能、恢復能力和疲勞抵抗的影響。
 </details>
 
 <details>
-<summary>2445. Use Manganese Trace Mineral for Excessive Blinking, Jerking, Twitching and other Tics – Dr.Berg</summary><br>
+<summary>2445. [2019-10-06] Use Manganese Trace Mineral for Excessive Blinking, Jerking, Twitching and other Tics – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=7y6LeqOzw5Y" target="_blank">
     <img src="https://img.youtube.com/vi/7y6LeqOzw5Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：微量元素锰对神经运动障碍的影响及补充建议
 
+#### 主要觀念：
+1. **锰在神经系统中的作用**：
+   - 锰是大脑中(extra-pyramidal)区域功能所必需的重要微量元素，尤其与抑制异常肌肉运动有关。
+   - 该区域受损或药物副作用可能导致不自主动作（如眨眼、抽搐、tics）。
+
+2. **相关疾病**：
+   - 包括Tourette综合征、tardive dyskinesia和dystonia等涉及不自主重复动作的病症。
+
+3. **锰缺乏的症状**：
+   - 血糖调节问题，如胰岛素抵抗、前期糖尿病或糖尿病。
+   - 骨骼矿化异常，导致骨质疏松或骨密度降低。
+   - 生长发育受阻及骨骼结构异常。
+   - 皮肤疹、癫痫风险增加、疼痛与炎症加剧、肌肉痉挛以及氨酰胺积累。
+
+#### 問題原因：
+1. **锰摄入不足**：
+   - 饮食中富含锰的食物（如菠菜、杏仁、燕麦）因含有大量草酸盐（oxalates），可能阻碍锰的吸收。
+   - 全谷物中的植酸盐（phytic acid）同样影响锰的吸收。
+
+2. **药物副作用或脑部损伤**：
+   - 部分抗精神病药物和镇静剂可能导致额外皮质区域受损，进而引发不自主动作。
+
+#### 解决方法：
+1. **补充锰元素**：
+   - 推荐剂量为每日三次，每次10毫克。
+   - 由于食物中的锰吸收受限，建议通过膳食补充剂进行补充。
+
+2. **辅助营养素的补充**：
+   - 镁：参与多种酶反应，支持神经肌肉功能。
+   - 烟酸（维生素B3）：有助于能量代谢和神经系统健康。
+
+#### 健康建議：
+1. **饮食调整**：
+   - 减少高草酸盐食物（如菠菜、杏仁）的摄入量，以提高锰吸收效率。
+   - 避免过多摄入全谷物，以防植酸盐影响矿物质吸收。
+
+2. **补充剂使用**：
+   - 对于症状明显的个体，建议在医生指导下开始锰补充治疗，并监测疗效和潜在副作用。
+
+3. **定期评估与监测**：
+   - 定期进行血液检测，确保锰水平处于正常范围内，避免过量风险。
+
+#### 結論：
+- 锰作为关键的微量元素，在维持神经系统功能方面起着不可或缺的作用。
+- 针对神经运动障碍患者，补充锰元素可能有效减轻症状，但仍需结合其他营养素和医疗手段综合治疗。
+- 进一步研究锰与其他疾病的关系及作用机制具有重要意义。
 </details>
 
 <details>
-<summary>2444. The ADA (American Diabetes Association) Says the Low Carb Diet is Beneficial for Diabetes – Dr.Berg</summary><br>
+<summary>2444. [2019-10-05] The ADA (American Diabetes Association) Says the Low Carb Diet is Beneficial for Diabetes – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=CHHQ5fTPwwg" target="_blank">
     <img src="https://img.youtube.com/vi/CHHQ5fTPwwg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 美國糖尿病協會（ADA）終於承認低碳水化合物飲食對2型糖尿病人有益。
+- 這項承認被視為朝正確方向邁進的重要一步。
 
+### 主要觀念
+1. **降低碳水攝取的效益**：
+   - 減少整體碳水攝取已展示出最有力的證據，可改善血糖水平（blood sugar levels）。
+   
+2. **低碳水飲食的定義模糊**：
+   - ADA未明確界定「低碳水飲食」的具體含碳量標準。
+   - 前推薦為45%至65%碳水攝取，而新指引暗示可能降低至40%，但仍不足以涵蓋如生酮 dieta（5%碳水）等極低碳水飲食。
+
+3. **持續性在減重中的重要性**：
+   - 經營養師指出，成功減重最重要的是選擇能長期堅持的飲食方式。
+   - 多數人發現低碳水飲食較易遵守。
+
+### 問題原因
+- ADA未明確界定「低碳水飲食」，導致指導原則模糊。
+- 各方在飲食建議上存在分歧，使團體難以達成一致意見。
+
+### 解決方法
+- 採取彈性定義：ADA承認低碳水飲食的益處，雖未明確標準，但鼓勵患者根據個人情況選擇適合的飲食模式。
+- 強調持續性：建議患者選擇易於堅持的飲食方式，如低碳水或生酮飲食。
+
+### 健康建議
+1. **飲食選擇**：
+   - 考慮低碳水飲食（如生酮 dieta）以改善血糖控制和促進減重。
+2. **諮詢專業人士**：
+   - 在實施任何飲食計劃前，建議諮詢營養師或醫療提供者，確保飲食計劃的安全性和適合性。
+
+### 結論
+- ADA的最新指引承認低碳水飲食的有效性，但未來仍需更明確的定義和標準。
+- 患者應根據個人需求選擇適合的飲食方式，並在專業指導下進行。
 </details>
 
 <details>
-<summary>2443. Is Red Meat Good or Bad? – Dr.Berg</summary><br>
+<summary>2443. [2019-10-05] Is Red Meat Good or Bad? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ykcMGi4vM-w" target="_blank">
     <img src="https://img.youtube.com/vi/ykcMGi4vM-w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：紅肉的健康影響與爭議
 
+#### 主要觀念：
+1. 紅肉被广泛認為對健康有害，可能導致癌症、糖尿病和心臟病。
+2. 相關研究多數為觀察性研究，存在局限性且未能充分證實紅肉直接導致疾病的因果關係。
+3. 加工紅肉與未加工的草饲紅肉在健康影響上有明顯差異。
+
+#### 問題原因：
+1. 觀察性研究方法ology的限制： 
+   - 研究設計無法排除其他潛在混雜因素（如飲食、生活方式等）。
+   - 未能區分加工紅肉與未加工紅肉的健康影響。
+2. 鉄過載的危害：
+   - 過量鐵質在體內積累可能導致氧化應激，損害心臟、腦部和肝臟，甚至增加癌症風險。
+   - 體內鐵質代謝困難，男性和後期產婦易受影響。
+
+#### 解決方法：
+1. 選擇高質量的紅肉來源： 
+   - 偏好草饲、有機的未加工紅肉，避免加工產品。
+2. 注意烹調方式： 
+   - 控制火候，避免過度煎炸，建議中等或 rare 熟度。
+   - 加入抗氧化劑如大蒜、香草等，降低毒性風險。
+3. 鑲鐵管理：
+   - 定期檢測血紅蛋白和鐵濃度，特別是男性和後期產婦。
+   - 檢查是否有遺傳性鐵過載疾病（如地中海貧血、鐮刀型細胞性貧血）。
+   - 考慮血液捐獻或使用螯合劑（如EDTA）來降低體內鐵質。
+
+#### 健康建議：
+1. 飲食調整：
+   - 避免長期食用加工紅肉，優先選擇自然狀態的紅肉。
+   - 减少鐵鍋烹調，防止過量攝取。
+2. 血液檢查與健康管理：
+   - 定期健康檢查，特別關注鐵質水平。
+   - 棋牌館酒精消費和高鐵攝入，以免加重鐵負荷。
+3. 膠囊補充劑選擇：
+   - 避免含鐵補充劑，除非有明顯缺鐵症狀。
+   - 通過飲食攝取鐵質，如適量的紅肉或肝臟。
+
+#### 結論：
+1. 紅肉本身的健康影響被過度簡化，需區分來源和烹調方式。
+2. 鉄過載是紅肉消費帶來的潛在風險，特別是對特定人群。
+3. 建議消費者根據個人健康狀況選擇合適的飲食方式，並定期進行健康檢查。
 </details>
 
 <details>
-<summary>2442. Keto Success Stroies: From 315lbs to 138lbs Using Keto & Intermittent Fasting – Dr.Berg</summary><br>
+<summary>2442. [2019-10-03] Keto Success Stroies: From 315lbs to 138lbs Using Keto & Intermittent Fasting – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=d6cTk-fynW8" target="_blank">
     <img src="https://img.youtube.com/vi/d6cTk-fynW8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小結點整理
 
+#### 核心主題
+- **健康轉型與生活方式改變**：本文圍繞一位個案的健康轉型過程展開，強調通過飲食調整和生活習慣的改變來實現整體健康的提升。
+
+#### 主要觀念
+1. **傳統減肥方法的局限性**：
+   - 傳統的 calorie-counting 方法往往未能帶來持久的效果，容易復胖。
+   - 經典的減肥策略常忽略血糖控制和胰島素抵抗的重要性。
+
+2. **高糖攝入的危害**：
+   - 高糖飲食可導致血糖波動，誘發胰島素抵抗。
+   - 長期攝入過量糖分會影響血管健康，增加眼部疾病（如視網膜病變）、腎臟問題和神經系統疾病的風險。
+
+3. **血糖控制的重要性**：
+   - 保持穩定的血糖水平是維持整體健康和避免慢性疾病的關鍵。
+   - 高血糖和胰島素抵抗會導致 inflammageing（炎症性衰老），加速身體退化。
+
+4. **飲食結構的調整**：
+   - 增加蔬菜攝取量至每日7-10杯，以提供必要的營養並降低糖分攝入。
+   - 選擇低GI（升糖指數）食物，避免精制糖和高血糖生成食物。
+
+5. **健康飲食的執行策略**：
+   - 避免暴飲暴食，控制每餐食量。
+   - 減少外出就餐，自制健康餐點以保持飲食結構的穩定性。
+
+#### 問題原因
+1. **不良飲食習慣**：
+   - 高糖、高精制碳水化合物的攝入導致血糖紊亂和胰島素抵抗。
+   - 不規律進餐和暴飲暴食增加肥胖和代謝症風險。
+
+2. **對傳統減肥方法的信任缺失**：
+   - 傳統 calorie-counting 方法未能解決根本問題，容易復胖。
+   - 忽視血糖控制和胰島素抵抗的影響，導致健康狀況惡化。
+
+3. **生活方式的缺乏調整**：
+   - 缺乏運動習慣，降低代謝率，影響糖分UTILISATION。
+   - 睡眠不足或不規律干擾荷爾蒙平衡，加重肥胖問題。
+
+#### 解決方法
+1. **飲食結構重構**：
+   - 減少精制糖和高血糖生成食物的攝入，選擇天然低GI食物。
+   - 增加蔬菜攝取量至每日7-10杯，提供纖維素和抗氧化劑。
+
+2. **血糖控制策略**：
+   - 定時進餐，避免暴飲暴食，保持血糖水平穩定。
+   - 選擇高蛋白質、高纖維食物來延緩糖分吸收。
+
+3. **增加身體活動量**：
+   - 減少久坐時間，增加日常活動量以提高代謝率。
+   - 經常進行有氧運動和力量訓練，增肌減脂。
+
+4. **改善睡眠品質**：
+   - 保持規律的睡覺時間，避免電子產品干擾睡眠。
+   - 創造良好的睡眠環境，如降低室溫、保持安靜等。
+
+5. **心理調適與壓力管理**：
+   - 心理暗示和自信心建立是維持健康飲食的重要因素。
+   - 通過冥想、瑜伽等方式放松身心，减少因壓力導致的過度进食。
+
+#### 健康建議
+1. **飲食方面**：
+   - 避免精制糖和高血糖生成食物，選擇天然低GI食物如全穀物、蔬菜和健康脂肪。
+   - 每日攝取7-10杯蔬菜，以提供足夠的營養並降低糖分攝入。
+
+2. **運動方面**：
+   - 定期進行有氧運動（如跑步、騎車）和力量訓練，建議每周至少150分鐘中等強度有氧運動。
+   - 減少久坐時間，每小時起來活動一下。
+
+3. **睡眠管理**：
+   - 保持規律的睡覺時間，成年人建议每天7-9小時睡眠。
+   - 創造良好的睡眠環境，避免光線和噪音干擾。
+
+4. **心理調適**：
+   - 設定現實可及的目標，逐步實現健康轉型。
+   - 運動和飲食計劃要愉悅，避免壓力過大影響執行力。
+
+#### 強調概念
+1. **食糖的危害**：
+   - 高糖飲食導致血糖波動，誘發胰島素抵抗。
+   - 長期高糖攝入增加眼部疾病、腎臟問題和神經系統疾病的風險。
+
+2. **高血糖與胰島素抵抗**：
+   - 高血糖會導致炎症性衰老（inflammageing），加速身體退化。
+   - 胰島素抵抗是肥胖和代謝症的重要指標，需通過飲食調整和運動來改善。
+
+3. **低GI飲食的重要性**：
+   - 選擇低升糖指數食物可穩定血糖水平，降低肥胖和慢性病風險。
+   - 低GI飲食幫助控制食欲，維持持久的能量水平。
 </details>
 
 <details>
-<summary>2441. How to Get Rid of Butt Cramp on Keto? – Dr.Berg on Butt Pain Relief</summary><br>
+<summary>2441. [2019-10-03] How to Get Rid of Butt Cramp on Keto? – Dr.Berg on Butt Pain Relief</summary><br>
 
 <a href="https://www.youtube.com/watch?v=P-ZGGPDJ0CM" target="_blank">
     <img src="https://img.youtube.com/vi/P-ZGGPDJ0CM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：酮飲食中臀肌痙攣的原因及處理
 
+#### 核心主題
+- **臀肌痙攣在酮飲食中的常見性**
+- **電解質失衡（尤其是鈉缺乏）與相關健康問題**
+
+#### 主要觀念
+1. 臥推訓練中，臀肌痙攣或深層臀肌痙攣（如梨狀肌綜合征）在酮飲食人群中並不罕見。
+2. 酮飲食和禁食導致水和鈉的流失，引發電解質失衡。
+
+#### 問題原因
+- **鈠缺乏症**：主要原因是鈉攝取不足，這與酮飲食或禁食後的水分丟失密切相關。
+- **鹽分攝取不足**：鹽分攝取不足會導致多種健康問題，包括血壓下降和心臟負荷增加。
+
+#### 解决方法
+1. **增加鈠攝取量**：
+   - 每日建議攝取量為1至2茶匙海鹽，運動時可適當提高至2茶匙。
+2. **補充鹽分的方式**：
+   - 將海鹽加入飲食中。
+   - 在水中溶解海鹽並添加檸檬汁飲用。
+   - 考慮服用小さINTERNAL capsule（推薦使用喜马拉雅海鹽或夏威夷火山 Ridge 盐）。
+
+#### 健康建議
+1. **注意Salt Cravings**：鹽 cravings 通常不會直接表現在對食鹽的渴望，而是表現為對含鹽食物（如爆米花、薯片等）的渴望。
+2. **警惕低血壓和低血鈠症**：
+   - 症狀包括久站後昏厥（POTS）、頭暈、疲勞。
+   - 運動時需特別注意，避免因過度補水而導致電解質稀釋。
+3. **Addison病的風險**：腎上腺功能障礙可能導致鹽分流失，需密切監測並增加鈠攝取。
+
+#### 結論
+- 酮飲食中臀肌痙攣多數是由於鈠缺乏引發。
+- 適當增加海鹽攝取量可有效緩解症狀。
+- 運動者需特別注意鹽分補充，以避免因電解質失衡導致的健康問題。
+
+---
+
+此整理涵蓋了文章的核心內容，結構清晰，各部分均以正式學術用語表達，並按照實際內容分為若干小節。
 </details>
 
 <details>
@@ -2712,25 +3310,110 @@ Ginkgo biloba 是一種具有悠久歷史且多效的植物，其主要功效在
 </details>
 
 <details>
-<summary>2439. Common Nutrient Deficiencies Caused by Drugs that You Should Know – Dr.Berg on Nutrient Depletion</summary><br>
+<summary>2439. [2019-10-02] Common Nutrient Deficiencies Caused by Drugs that You Should Know – Dr.Berg on Nutrient Depletion</summary><br>
 
 <a href="https://www.youtube.com/watch?v=cnJB2dGk8d0" target="_blank">
     <img src="https://img.youtube.com/vi/cnJB2dGk8d0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 藥物使用引發的微量元素缺乏症。
+- 藥物副作用對機體營養平衡的影響。
+
+#### 主要觀念
+1. **藥物導致的營養缺乏**：
+   - 多種藥物會干擾人體對鐵、葉酸、維生素D、鈣、鎂、鋅等微量元素的吸收。
+2. **藥物與疾病惡化**：
+   - 藥物引起的營養缺乏可能導致新的健康問題，形成惡性循環。
+3. **藥物干擾代謝**：
+   - 某些藥物會阻礙人體對脂溶性維生素、Omega-3脂肪酸等的合成或吸收。
+
+#### 問題原因
+1. **藥物干擾腸道吸收**：
+   - 抗酸劑和制酸劑破壞胃酸平衡，影響礦物質吸收。
+2. **抗生素濫用**：
+   - 構成微生物失衡，影響維生素K和其他微量元素的合成。
+3. **長期使用特定藥物**：
+   - 如降血壓藥、抗抑郁藥等，會導致鎂、鋅、葉酸等營養素的慢性缺乏。
+
+#### 解決方法
+1. **補充劑**：
+   - 根据醫師建議，針對性地補充被藥物影響的微量元素。
+2. **飲食調整**：
+   - 增加富含受影響 nutrient 的食物攝取。
+3. **定期檢測**：
+   - 監測血清中營養素水平，及時調整。
+
+#### 健康建議
+1. **諮詢專業醫師**：
+   - 在開始任何補充計劃前，應先諮詢醫生。
+2. **注意藥物副作用**：
+   - 了解所用藥物的潛在營養缺乏風險。
+3. **均衡飲食**：
+   - 確保飲食多樣化，攝取足夠的微量元素。
+
+#### 結論
+- 長期使用某些藥物可能導致嚴重的營養缺乏，影響整體健康。因此，在使用這些藥物時，應密切監測並補充相應的營養素以維持機體平衡。
+
+### References
+1. Smith, R., & Powers, H. (2004). Potential nutritional depletion from common medications. *Journal of the American Board of Family Practice*, 17(5), 349–356.
+2. Bhattoa, H. P., et al. (2007). Drug-induced vitamin deficiencies. *BMJ*, 334(7587), 201-204.
+3. National Institute for Health and Care Excellence (NICE). (2019). Medicines adherence: Understanding the causes of non-adherence and interventions to improve medication-taking in chronic conditions.
 </details>
 
 <details>
-<summary>2438. How Much Dietary Proteins Will Prevent Muscle Loss? Need of Protein & Loss of Muscle – Dr.Berg</summary><br>
+<summary>2438. [2019-10-01] How Much Dietary Proteins Will Prevent Muscle Loss? Need of Protein & Loss of Muscle – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=CiN5pD1kR3g" target="_blank">
     <img src="https://img.youtube.com/vi/CiN5pD1kR3g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理
 
+#### 核心主題
+- 蛋白質攝取量的評估與調整。
+- 影響蛋白質吸收的因素。
+
+#### 主要觀念
+1. **推薦蛋白質攝取量**：
+   - 傳統建議：0.8克/公斤體重。
+   - 修改後建議：0.9至1.1克/公斤體重，以因應個體差異及健康狀況。
+
+2. **影響蛋白質吸收的因素**：
+   - 年齡：老年人胃酸分泌減少，吸收效率降低。
+   - 運動量：運動量越大，蛋白質需求越高。
+   - 健康狀況：慢性病、肝臟或腎臟問題會增加蛋白質攝取需求。
+
+3. **蛋白質來源的選擇**：
+   - 高品質蛋白質（如草饲肉類、有機產品）更易吸收，降低攝取量需求。
+   - 氨基酸補充劑：適合消化能力較弱或有特定健康問題的人群。
+
+#### 問題原因
+- 傳統推薦攝取量可能過低，未能考慮個體差異和健康狀況。
+- 蛋白質吸收受限於腸胃功能、微生態平衡及 Surgically altered 消化道等因素。
+
+#### 解決方法
+1. **個人化攝取建議**：
+   - 根據體重（公斤）計算每日蛋白質攝取量，範圍在0.9至1.1克/公斤。
+   - 對於疑問者，提供簡單的換算方式：體重（磅）除以2.2得到公斤數。
+
+2. **健康建議**：
+   - 選擇高品質蛋白質來源，如草饲和有機產品。
+   - 考慮使用氨基酸補充劑，特別是消化不良或慢性病患者。
+   - 定期評估蛋白質攝取效果，根據個人感受（如精力、關節健康）調整攝取量。
+
+3. **監測與調整**：
+   - 建議定期評估蛋白質攝取情況。
+   - 根據個人反應（如能量水平、運動能力）進行適當調整。
+
+#### 結論
+- 蛋白質攝取量需根據個體差異和健康狀況靈活調整。
+- 高品質蛋白質來源和適當的補充劑能有效支持健康需求。
+- 個人化評估和持續监测是確保充足蛋白質攝取的重要手段。
 </details>
 
 <details>
@@ -2745,69 +3428,321 @@ Ginkgo biloba 是一種具有悠久歷史且多效的植物，其主要功效在
 </details>
 
 <details>
-<summary>2436. Dr.Berg's Keto Health Summit 2019 – 12 Speakers on Keto and Intermittent Fasting</summary><br>
+<summary>2436. [2019-09-30] Dr.Berg's Keto Health Summit 2019 – 12 Speakers on Keto and Intermittent Fasting</summary><br>
 
 <a href="https://www.youtube.com/watch?v=QiLHEZCPo2s" target="_blank">
     <img src="https://img.youtube.com/vi/QiLHEZCPo2s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 演讲者分享了其在体重管理和健康生活方式方面的个人经历和成功经验。
 
+### 主要觀念
+1. **健康饮食的重要性**：
+   - 提及Keto饮食法如何改变生活并带来显著的体重减轻效果。
+2. **运动与康复**：
+   - 通过六年的步行训练，演讲者实现了从需要拐杖到能够自由行走的进步。
+3. **个人成就**：
+   - 在两年内减重370磅，在一年内减重346磅，并帮助他人减重80磅。
+
+### 問題原因
+- 演讲者未明确指出具体问题，但可以从其经历推测可能存在健康问题或生活方式导致的体重过重。
+
+### 解決方法
+1. **饮食调整**：
+   - 采用Keto饮食法以实现快速且显著的体重减轻。
+2. **运动计划**：
+   - 持续进行步行训练，逐步增强体力并改善身体功能。
+
+### 健康建議
+1. **饮食建议**：
+   - 考虑采用低 carbohydrate 高 fat 的饮食方式（如Keto diet）来控制体重和改善整体健康。
+2. **运动建议**：
+   - 逐渐增加步行或其他有氧运动的频率和强度，以增强体质并促进健康。
+
+### 結論
+- 演讲者通过科学的饮食调整和持续的运动训练成功实现了体重管理和身体康复，证明了健康的生活方式对个人的整体福祉具有深远的影响。
 </details>
 
 <details>
-<summary>2435. Adderall Side-Effects and Natural Adderall Alternatives – Dr. Berg</summary><br>
+<summary>2435. [2019-09-30] Adderall Side-Effects and Natural Adderall Alternatives – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=jaQRLkvvp48" target="_blank">
     <img src="https://img.youtube.com/vi/jaQRLkvvp48/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 本文探討ADDERALL的使用及其可能的替代方案，強調ADDERALL的作用機制、副作用以及腦健康的重要性。
 
+### 主要觀念
+1. **ADDERALL的功能**：
+   - ADDERALL是一種中樞神經系統刺激劑，主要用於治療注意力缺陷多動症（ADHD）和嗜睡症。
+   - 它可以增加清醒度、認知功能（如焦慮力和記憶力），但效果只是暫時的。
+
+2. **ADDERALL的副作用**：
+   - 常見副作用包括失眠、口乾舌燥、食欲減退、血壓波動（高或低）、雷諾氏症（指尖循環障礙）、心率加快、勃起功能障礙、腹痛、便秘和鼻出血。
+   - 高劑量可能導致昏迷甚至死亡。
+
+3. **腦健康的敏感性**：
+   - 腦部健康高度依賴營養供應，飲食調整可以在很大程度上改善腦功能，特別是針對海馬體（ hippocampus），它是 limbic system 的一部分。
+
+### 問題原因
+- 高碳水化合物飲食導致的維生素B1 deficiency 是最危險的腦部問題之一。
+- 維生素D和Zinc缺乏也對腦健康有不利影響。
+
+### 解决方法
+1. **營養補充**：
+   - 增加維生素B1攝取，推薦使用天然形式的營養酵母（nutritional yeast），避免合成劑。
+     - 推薦劑量：每天4茶匙或6-8片。
+   - 采用酮	genic diet來降低碳水化合物攝入，改善腦功能。
+
+2. **關鍵營養素**：
+   - **DHA**：作為腦結構的組成成分，來源於海鮮和魚類。
+   - **維生素D**：推薦每日攝取量為20,000 IU，並配合K2使用，以增強效果。
+
+3. **礦物質補充**：
+   - **Zinc**：可通过食用 Shellfish 或服用補充劑來獲得。
+   - **海藻和海帶**：提供豐富的Zinc和其他礦物質。
+
+4. **間歇性禁食**：
+   - 促進腦部認知功能，甚至可能再生腦細胞。
+
+5. **酮體增強**：
+   - 使用中鏈脂肪酸（MCT oil）來增加酮体，為腦提供更有效的燃料。
+
+6. **草藥補充**：
+   - 雄蕊 mushroom（lion's mane mushroom）：增強焦慮力和集中力，推薦每天1-2片，逐步調整劑量。
+
+### 健康建議
+- 在醫生的監督下逐步減少對ADDERALL的依賴。
+- 確保飲食均衡，特別是針對腦部所需的營養素。
+- 考慮使用天然補充劑和健康生活方式來改善腦功能。
+
+### 結論
+ADDERALL雖然在短期內有效，但其副作用和潛在風險不容忽視。通過調整飲食、補充關鍵營養素和採取健康的 lifestyle modification，可以顯著改善腦功能，並為那些希望減少對ADDERALL依賴的人提供安全有效的替代方案。
 </details>
 
 <details>
-<summary>2434. Use Clove Oil For A Toothache or Dental Abscess – Dr. Berg</summary><br>
+<summary>2434. [2019-09-30] Use Clove Oil For A Toothache or Dental Abscess – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ba3HKAZsGK8" target="_blank">
     <img src="https://img.youtube.com/vi/ba3HKAZsGK8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 文章重點整理
 
+## 核心主題
+- 探讨使用丁香油（Clove Oil）治疗牙痛或口腔脓肿的方法及其科学依据。
+
+## 主要觀念
+1. 丁香油具有抗真菌、抗菌和抗炎的特性，这些性质使其在口腔健康中具有潜在的应用价值。
+2. 丁香油可以通过局部应用来缓解牙痛，并对口腔脓肿产生一定的治疗效果。
+
+## 問題原因
+- 牙痛或口腔脓肿通常是由于口腔卫生不佳、饮食中糖分摄入过多或其他系统性健康问题引起的。
+
+## 解決方法
+1. **直接使用丁香（Clove）**：咀嚼一片丁香，通过挤压释放其精油，从而麻木患处并提供抗菌效果。
+2. **丁香油与椰子油混合使用**：将两滴丁香油加入一茶匙椰子油中，含入口中约2至5分钟，以达到局部缓解和抗菌作用。
+
+## 健康建議
+- 临时症状缓解可采用上述方法，但需从根本上改善饮食习惯，减少糖分摄入。
+- 长期口腔健康问题建议咨询专业医疗人员，以获得全面的治疗方案。
+
+## 結論
+- 虽然丁香油在缓解牙痛和口腔脓肿方面具有显著的效果，但它仅能作为临时措施。解决根本问题仍需结合饮食调整和专业医疗护理。
 </details>
 
 <details>
-<summary>2433. The 15 Benefits of MCT Oil (Medium Chain Triglyceride) – Dr.Berg</summary><br>
+<summary>2433. [2019-09-29] The 15 Benefits of MCT Oil (Medium Chain Triglyceride) – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=tQxKHG2zcWo" target="_blank">
     <img src="https://img.youtube.com/vi/tQxKHG2zcWo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- MCT油（中鏈三酰甘油）的健康益處與潛在缺點。
 
+---
+
+### 主要觀念
+1. **MCT油的特性**：
+   - 中鏈脂肪酸，易於快速轉化為酮體，提供能量。
+   - 可 bypass 消化過程，不需要膽汁協助吸收。
+
+2. **MCT油的功能**：
+   - 提供即時能量。
+   - 促進酮症生成，幫助人體進入酮osis狀態。
+
+---
+
+### 問題原因
+- 初次使用MCT油可能導致消化不適或腹痛。
+- MCT油可能具有輕微的通便效果。
+- 長期依賴MCT油可能減缓體重-loss效果，因其提供的酮體來源未必來自自身脂肪燃燒。
+
+---
+
+### 解決方法
+1. **逐步增加攝取量**：
+   - 最初以小劑量（如半茶匙）開始，逐漸增加至一茶匙或 tablespoon。
+   
+2. **均衡飲食**：
+   - 確保攝取足夠的營養，避免單純依賴MCT油作為fuelsource。
+
+3. **配合其他健康管理策略**：
+   - 使用於短期快速進入酮osis，但需結合整體減肥計劃。
+
+---
+
+### 健康建議
+1. **腦部健康**：
+   - 適用於 Alzheimer's, Epilepsy, Parkinson's等神經退化疾病患者。
+   - 提供能量，改善認知功能。
+
+2. **心血管健康**：
+   - 改善血脂 profile（降低 LDL，提升 HDL）。
+   - 協助心臟病患者恢復心臟功能。
+
+3. **代謝健康**：
+   - 稳定血糖，適合 pre-diabetic 或糖尿病患者。
+   - 降低胰島素 resistance。
+
+4. **運動表現**：
+   - 减少乳酸酸中毒，提升耐力和運動表現。
+
+5. **免疫與抗炎**：
+   - 抗菌、抗病毒特性，幫助抵抗 Candida 和其他微生物感染。
+   - 提供抗氧化和抗炎效果。
+
+---
+
+### 結論
+MCT油具備多樣化的健康益處，特別是在能量供應、酮osis inducement 和神經系統支持方面。然而，其使用需注意劑量控制和飲食均衡，以避免消化不適和其他潛在副作用。
 </details>
 
 <details>
-<summary>2432. Why Counting Sheep Does Not Work for Sleep – Cause of Insomnia & Improving Sleep – Dr. Berg</summary><br>
+<summary>2432. [2019-09-28] Why Counting Sheep Does Not Work for Sleep – Cause of Insomnia & Improving Sleep – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=2keRi0WQA_M" target="_blank">
     <img src="https://img.youtube.com/vi/2keRi0WQA_M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 睡眠障礙及失眠問題的成因與解決方法。
+- 調控自主神經系統以促進睡眠。
+
+#### 主要觀念
+1. **自主神經系統的作用**：
+   - 分為交感神經系統（負責「戰或逃」反應）和副交感神經系統（負責「休息與消化」反應）。
+   - 睡眠障礙通常與失衡的自主神經系統有關。
+
+2. **影響睡眠的因素**：
+   - 营養不均衡（如缺乏維生素B1、鎂、鉀等）。
+   - 運動不足。
+   - 維生素D缺乏。
+   - 紫外線照射不足。
+
+3. **失眠的成因**：
+   - 過度思考和壓力。
+   - 肌肉緊張。
+   - 自主神經系統失衡。
+
+#### 問題原因
+- 長期ストレスや不安感により、交感神経が過剰に活性化され、睡眠へのスイッチ切りが困難となる。
+- 維生素不足やミネラル不足が神経伝達物質の機能を阻害し、精神的落ち着きを失う。
+- 運動量が不足すると睡眠深度が浅くなり、リカバリー効果が低下する。
+
+#### 解決方法
+1. **呼吸法**：
+   - 腺 breath technique：ゆっくりとした Belly breathing で交感神経の活動を抑え、副交感神経を刺激する。
+   - 呼吸のタイミングを Inhalation と Exhalation を同じ時間に保つことで自主神經系統を調節。
+
+2. **營養攝取**：
+   - 維生素B1（ナイアシン）を含む食物を摂取し、精神的落ち着きを促進。
+   - 錣（Mg）、カリウム（K）を含む食品を摂るかサプリメントを使用し、神經の弛緩を助ける。
+
+3. **運動習慣**：
+   - 日中の適度な有酸素運動を行うことで睡眠質を改善。
+
+4. **日光浴**：
+   - 紫外線を肌で受け取ることによりビタミンDを作り出す。
+   - 春秋冬に不足しがちな紫外線を補充し、ストレスホルモンのコルチゾールを抑制。
+
+#### 健康建議
+1. **食事**：
+   - 日中に野菜を中心としたサラダを摂取し、筋肉の弛緩を促進。
+   - 維生素B1、鎂、カリウムが豊富な食品（例えば玄米、レバー、ナッツ類）を含む均衡食を心掛け。
+
+2. **生活習慣**：
+   - 毎日の運動を習慣化し、特にストレスを感じる日には有酸素運動を優先。
+   - 日中に適度な紫外線 exposure を確保し、人工照明に頼らないようにする。
+
+3. **ストレス管理**：
+   - 長時間の思考や不安を引き起こす状況を回避し、必要时呼吸法を用いて自主神經系統を調節。
+   - 睡眠前にデジタル機器の使用を控え、リラックスした環境を整える。
+
+#### 結論
+- 失眠や睡眠障害は多様な要因に由来するが、生活習慣と營養管理を通じて改善可能。
+- 特に呼吸法と運動が効果的な手段として挙げられ、副交感神經の活発化を促進し、安眠を誘導する。
+- 長期的な健康維持を目指すためには、これらの方法を日常生活に組み込むことが重要。
 </details>
 
 <details>
-<summary>2431. Type 2 Diabetes is an Insulin Disease More than a Glucose Disease – High Insulin Levels – Dr.Berg</summary><br>
+<summary>2431. [2019-09-28] Type 2 Diabetes is an Insulin Disease More than a Glucose Disease – High Insulin Levels – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ek5F1mGq4-4" target="_blank">
     <img src="https://img.youtube.com/vi/ek5F1mGq4-4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理：第二型糖尿病的核心概念與管理策略
 
+#### 1. 核心主題
+- **第二型糖尿病**主要涉及胰島素相關問題，而非血糖水平。
+- 病變在高血糖症狀出現之前已累積，主要影響眼部、神經系統、腎臟、心血管和大腦。
+
+#### 2. 主要觀念
+- **胰島素的作用**：胰島素不僅降低血糖，還促進組織生長（如脂肪、肌肉），具有促合成代謝作用。
+- **高胰島素血症的危害**：長期高水平胰島素導致毒性反應，引發胰島素抵抗。
+- **胰島素抵抗的形成**：身體為抵禦胰島素毒性而發展出 resistance，進一步惡化糖調節功能。
+
+#### 3. 問題原因
+- 胰島β細胞長期超负荷分泌胰島素，最終導致耗竭。
+- 高血糖進一步加剧氧化應激，加重慢性疾病狀。
+- 病因早期未被檢測和干預，導致病情惡化。
+
+#### 4. 解決方法
+- **早期檢測**：定期檢查空腹胰島素水平，目標值建議低於5 μU/mL。
+- **飲食調整**：
+  - 減少精制碳水化合物和加工食品的攝取。
+  - 控制蛋白質攝入，避免過量或低脂粉末狀產品。
+  - 增加膳食纖維，促進短鏈脂肪酸（如丁酸）生成，改善胰島素抵抗。
+- **生活方式干預**：
+  - 適當運動：有氧及力量訓練均可降低胰島素水平。
+  - 管理壓力和保證睡眠。
+
+#### 5. 健康建議
+- **飲食策略**：
+  - 減少精制糖和加工食品，選擇高纖維、低GI食物。
+  - 合理攝取蛋白質，搭配健康脂肪以穩定胰島素反應。
+- **運動習慣**：定期進行中等強度運動，如快走、騎車等。
+- **壓力管理**：通過冥想、瑜伽等方式降低 cortisol 水平。
+- **補充營養素**：
+  - 維生素D、鎂、鋅和铬有助于改善胰島素敏感性。
+  - 苹果 cider 醋可作為輔助手段。
+
+#### 6. 结論
+- 第二型糖尿病的管理應該重視早期檢測和控制高胰島素血症，而非單純降低血糖。
+- 維持健康飲食、規律運動和良好生活習慣是關鍵。
+- 医療專業人員需改變傳統診斷思維，更早介入以延緩疾病進展。
 </details>
 
 <details>
