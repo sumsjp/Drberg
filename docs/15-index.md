@@ -483,69 +483,335 @@
 </details>
 
 <details>
-<summary>1556. Should You Take Hormones When You Get Older? – Dr. Berg</summary><br>
+<summary>1556. [2018-06-11] Should You Take Hormones When You Get Older? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=U4ucHy32Ls4" target="_blank">
     <img src="https://img.youtube.com/vi/U4ucHy32Ls4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理
 
+#### 1. 核心主題  
+- 論述年齡增長時是否需要補充激素。  
+
+#### 2. 主要觀念  
+- 濕周分泌腺體的作用：腺體負責製造激素，激素作為信號分子，通過血液傳遞指令，調節身體功能。  
+- 純粹補充生物 identical hormones 并非最佳選擇，因可能忽略導致 glands 関聯停止的原因。  
+
+#### 3. 問題原因  
+- **反 hormone（Counter Hormones）**：如胰島素、雌激素和皮質醇，這些激素可以阻礙其他激素的功能。  
+- **環境干擾物（Endocrine Disrupters）**：包括農藥、殺蟲劑、除草劑等，可干擾激素受體，影響腺體功能。  
+- **飲食與代謝問題**：如酒精和垃圾食品導致脂肪肝，影響肝臟對激素的調節能力。  
+- **藥物影響**：Statins 類藥物阻礙膽固醇生成，而膽固醇是多種 hormones 的前体，導致肌肉疼痛和其他副作用。  
+
+#### 4. 解決方法  
+- **健康飲食計劃**：如健康的生酮飲食和間歇性禁食，可改善能量系統和整體健康。  
+- **攝取大量十字花科蔬菜**：幫助清除環境干擾物，促進肝臟排毒功能。  
+- **高質量腺體補充劑**：選擇草fed 來源的サプリメント，支持腺体功能。  
+
+#### 5. 健康建議  
+- 首先從基本的生活方式開始改善，如飲食和禁食，而不是立即追求症狀治療。  
+- 注意環境因素對激素系統的影響，避免接觸有害物質。  
+- 警惕藥物副作用，尤其是可能干擾激素生成的藥物。  
+
+#### 6. 結論  
+- 年齡增長導致激素水平下降是自然現象，但通過健康的生活方式和適當的補充劑可以有效改善。  
+- 請不要忽視生活方式的影響，其對激素平衡的重要性遠超短期症狀治療。
 </details>
 
 <details>
-<summary>1555. How To Stop Snacking When Bored? – Dr. Berg</summary><br>
+<summary>1555. [2018-06-11] How To Stop Snacking When Bored? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=2L6_AlXO8CU" target="_blank">
     <img src="https://img.youtube.com/vi/2L6_AlXO8CU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- ** snacks out of boredom**：因無聊導致的零食攝取是阻礙目標的主要問題。
 
+---
+
+### 主要觀念  
+1. **在家工作與退休人士的挑戰**  
+   - 近年来，更多人选择在家工作，家中容易囤積食物，增加了因無聊而吃零食的機會。
+   - 退休人員閒暇時間較多，若缺乏足夠的活動，易陷入不健康的飲食習慣。
+
+2. **.snacking 的影響**  
+   - 經常性地為了解癮吃零食會干擾血糖穩定和胰島素水平，導致血糖波動及更強烈的饥饿感。  
+   - 這類行為容易阻礙健康目標的實現。
+
+---
+
+### 問題原因  
+1. **食物環境的便利**  
+   - 家中囤積大量零食、糖果等高熱量食物，增加了隨時攝取的可能性。  
+   - 冷藏食品的易得性讓飲食習慣更難控制。
+
+2. **心理因素**  
+   - 無聊、壓力或缺乏成就感導致的過度飲食行為。  
+   - 滿足短期快樂而非真正的生理需求。
+
+3. **時間管理不足**  
+   - 離散的时间利用不佳，容易陷入拖延或低效狀態，增加了零食攝取的機會。  
+
+---
+
+### 解決方法  
+1. **改善食物環境**  
+   - 清理家中所有垃圾食品和高糖零食，避免誘惑。  
+   - 若家庭成員不在低碳飲食計劃中，可將這些食物移出廚房或藏起來。
+
+2. **制訂嚴格的飲食規則**  
+   - 面對零食誘惑時，詢問自己是否真正感到饥饿。  
+   - 若否，建議以其他活動代替，如咀嚼筆記本或進行手部活動（注意：不建議真的啃手指甲）。  
+
+3. **增強生產力和時間管理**  
+   - 通過制訂每日計劃表，填滿有意義且productive的活動，避免空閒時間。  
+   - 使用工具記錄每日行動，提升自我覺察和效率。
+
+4. **營養補充**  
+   - 確保攝取足夠的B族維生素（如B12），可通過營養酵母等食物來源增強免疫力和降低壓力水平。  
+
+5. **調整晚間飲食習慣**  
+   - 避免晚間電視前的「grazing」行為，建議最後一餐攝取高脂肪、富含蔬菜的食物，以降低夜間 hunger感。
+
+---
+
+### 健康建議  
+1. **心理調適**  
+   - 理解因無聊或壓力導致的零食攝取只是短期滿足，長期來看會影響健康目標。  
+
+2. **飲食結構調整**  
+   - 選擇高蛋白質、高纖維和高脂肪的食物作為 snack 代替品，幫助延長飽腹感。  
+
+3. **建立積極的生活習慣**  
+   - 替代性活動如閱讀、運動或藝術創作可以有效分散注意力，避免因無聊而吃零食。  
+
+---
+
+### 結論  
+- **.snacking out of boredom** 是現代生活中常見的健康挑戰，但通過改善環境、提升生產力和調整飲食結構，個人可以有效地克服這種壞習慣。  
+- 關鍵在於增強自我覺察，制訂具體計劃並堅持執行，從而實現健康目標。
 </details>
 
 <details>
-<summary>1554. Messed Up On Keto, Now What? – Dr. Berg</summary><br>
+<summary>1554. [2018-06-10] Messed Up On Keto, Now What? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=uW8I4VcAqYs" target="_blank">
     <img src="https://img.youtube.com/vi/uW8I4VcAqYs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理：酮症ダイエットにおける失敗後の対処法
 
+#### 核心主題
+- 酮症ダイエット（ケトーシックダイエット）中の失敗を防止し、効果的に復帰する方法。
+
+#### 主要觀念
+1. **初期失敗 vs 時期の成熟した失敗**
+   - 初期段階での失敗は、再スタートに長い時間がかかる。
+   - 酮症適応（脂肪燃焼体が形成された状態）後の失敗は比較的容易に復帰可能。
+
+2. **失敗時の食料品の影響**
+   - 空洞 carbohydrate (精製糖、白砂糖、アルコール)：栄養価が低いことで代謝に悪影響。
+   - 高栄養食品（フルーツや蜂蜜）：栄養成分が多く、身体への有害性が軽減される。
+
+#### 問題原因
+- **栄養不足**：空洞 carbohydrate 摂取によるミネラルやビタミンの不足。
+- **インスリン抵抗性**：高糖分摂取による血糖値とインスulin 計制への負担。
+- **不一致性**：慢性的な失敗は、ダイエットの持続可能性を損ねる。
+
+#### 解決方法
+1. **栄養素の補充**
+   - 空洞 carbohydrate 摂取後にビタミンやミネラルを補充する。
+     - 推奨アイテム：ナトリウム、ケイ素、マグネシウム、ビタミンB群。
+     - 使用例：栄養ritional yeast、電解質粉末。
+
+2. **ダイエットの再建と管理**
+   - 高栄養食品での失敗後は、直接復帰し、悪い習慣を避け続ける。
+   - 慢性的な失敗時は、知識習得を強化する。
+     - 推奨アクション：専門書や関連ビデオの参考。
+     - 必要なトピック：インスulin 抵抗性、ケトーシス、短時間断食。
+
+3. **持続可能性のための行動**
+   - 知識と理解を深めることで自己コントロールを強化する。
+   - 定期的な学習を通じてダイエット法の正確さを維持する。
+
+#### 健康建議
+- 酮症ダイエット中に失敗しても、慌てずに栄養素を補充し、再度正しい方法でスタート。
+- 空洞 carbohydrate を避け、高栄養食品を選択することを優先。
+- 慢性的な失敗時には、教育と自己研鑽を通じてダイエット法の理解を深める。
+
+#### 結論
+- 酮症ダイエットは成功させるためには知識と一貫性が不可欠。
+- 失敗しても適切な対処と復帰戦略を立てることが重要。
+- 栄養状態と教育を通じて、持続可能なダイエッタとして成長することができる。
 </details>
 
 <details>
-<summary>1553. How To Get Rid of Stretch Marks After Pregnancy? – Dr. Berg</summary><br>
+<summary>1553. [2018-06-10] How To Get Rid of Stretch Marks After Pregnancy? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=JIDlUCJaSwo" target="_blank">
     <img src="https://img.youtube.com/vi/JIDlUCJaSwo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- **Stretch Marks (伸展紋)**：一種皮膚受應力後形成的疤痕組織，通常出現在妊娠、體重快速增加或其他身體變化的時期。
 
+### 主要觀念
+1. **Definition of Stretch Marks**：
+   - 繼續性皮膚組織的超伸展。
+   - 胶原蛋白纖維被拉扯過度，導致真皮層出現 fissures（裂縫）。
+   - 裸露的真皮層最終形成疤痕組織。
+
+2. **Causes of Stretch Marks**：
+   - 妊娠、快速體重增加或皮膚受應力後的反應。
+   - 紅色階段通常伴隨炎症反應，然後轉為銀白色永久性疤痕。
+
+3. **Treatment Approach**：
+   - 使用自然療法來改善疤痕組織的外觀和恢復彈性。
+
+### 問題原因
+- **Mechanisms Leading to Stretch Marks**：
+  - 結織組織被超伸展，導致膠原蛋白纖維損壞。
+  - 紅色炎症反應後形成疤痕組織，缺乏皮下脂肪支持。
+
+### 解決方法
+1. **Coffee Grounds and Olive Oil Therapy**：
+   - 材料：2湯匙有機咖啡渣、1湯匙特級初榨橄欽油。
+   - 檯法：將混合物塗在受影響的肌膚上，輕柔按摩5分鐘至微紅，然後敷20分鐘後洗去。
+   - 理由：
+     - 咖啡渣中的珊瑚膠酸（Corallic Acid）促進疤痕修復。
+     - 咖啡渣中的化合物 Ravanel collecTin 與橄欽油的維生素E和營養成分共同作用，恢復皮膚彈性。
+
+2. **Dietary Recommendations**：
+   - **蛋黃**：富含維生素A，促進皮膚修復。
+   - **羽衣甘藍（Kale）**：同樣富含維生素A和其他抗氧化劑。
+
+### 健康建議
+- **生活方式調整**：
+  - 維持健康飲食，如低碳水化合物飲食（Keto Diet）和間歇性禁食（Intermittent Fasting），以控制體重和避免皮膚受過度應力。
+  - 確保攝取富含維生素A的食物，以促進皮膚健康。
+
+### 結論
+- **療效**：咖啡渣和橄欽油的混合物被宣稱為有效改善伸展紋，主要基於其成分對疤痕組織修復的支持。
+- **多管齊下**：建議結合飲食調整和自然療法，以實現最佳效果。
+
+### 參考資料
+- 文章中提到的研究表明，咖啡渣中的某些成分確實具有促進皮膚修復的潛力，而維生素A在皮膚健康中也扮演著重要角色。
 </details>
 
 <details>
-<summary>1552. Are You Getting Too Skinny on Keto? – Dr. Berg</summary><br>
+<summary>1552. [2018-06-09] Are You Getting Too Skinny on Keto? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Ev4SLhGsBEA" target="_blank">
     <img src="https://img.youtube.com/vi/Ev4SLhGsBEA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題  
+- 探讨酮饮食中体重过轻的问题及其解决方案。  
+
+#### 主要觀念  
+- 酮飲食可能導致體重過輕，需調整飲食策略以維持健康體重。  
+
+#### 問題原因  
+- 經常攝取低碳水化合物食物，導致身體脂肪儲備不足。  
+
+#### 解決方法  
+1. **增加脂肪攝取**：  
+   - 飲用MCT油混合的bulletproof咖啡或Ticino飲料，以提供額外脂肪。  
+   - 制作並食用酮 bombs（高脂零食）。  
+
+2. **控制蛋白質攝取量**：  
+   - 每餐蛋白質控制在7-8盎司，避免過多消耗酮體。  
+
+3. **選擇合適的碳水化合物來源**：  
+   - 選擇低GI蔬菜（如西芹）和少量莓果（如草莓、黑莓）。  
+
+4. **增加熱量攝取**：  
+   - 通過食用堅果、果醬或高脂沙拉醬來提高整體熱量攝取。  
+
+#### 健康建議  
+- 維持酮飲食的同時，確保攝取足夠的營養素和維生素。  
+- 適當增加脂肪攝取，但避免過量攝入加工食品或糖分高的食物。  
+
+#### 結論  
+- 通过調整飲食結構、增加脂肪攝取和控制蛋白質攝取量，可以在酮飲食中維持健康體重，並保持酮狀態。
 </details>
 
 <details>
-<summary>1551. The Bacteria in Mouth is Linked to Osteoarthritis – Dr. Berg</summary><br>
+<summary>1551. [2018-06-09] The Bacteria in Mouth is Linked to Osteoarthritis – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=UehkgVAmlsk" target="_blank">
     <img src="https://img.youtube.com/vi/UehkgVAmlsk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# Osteoarthritis 的成因與自然療法
 
+## 核心主題  
+- 探讨骨关节炎（osteoarthritis）的潜在病因及自然疗法。
+
+## 主要觀念  
+1. 骨關節炎的传统观念：  
+   - 传统认为骨关节炎是由于关节软骨退化，常见于负重关节，如髋关节和膝关节。  
+
+2. 新興發現：  
+   - 近期研究表明，牙菌可能导致骨关节炎的发生。  
+   - 牙菌可能通过感染传播到关节，引发炎症反应。  
+
+3. 炎症的作用：  
+   - 炎症导致关节功能退化，影响患者的活动能力。  
+
+## 問題原因  
+1. 年齡因素：  
+   - 隨著年齡增長，關節軟骨逐漸退化，增加骨關節炎風險。  
+
+2. 牙齒健康問題：  
+   - 牙齒感染、牙垢和蛀牙可能成為病原體來源。  
+   - 病菌進入血液後影響關節健康。  
+
+3. 內分泌失衡：  
+   - 75%的骨關節炎患者伴有胰島素抵抗，導致全身性炎症。  
+
+## 解決方法  
+1. 抗菌治療：  
+   - 使用具有抗菌作用的天然療法，如百里香油（oregano oil）、松皮提取物（pine bark extract）和葡萄籽提取物（grape seed extract）。  
+   - 這些成分可針對微生物生物膜，抑制致病菌生長。  
+
+2. 膳食干預：  
+   - 健康的生酮飲食（keto diet）和斷食：  
+     - 控制血糖水平，降低炎症反應。  
+     - 减少糖分攝入，限制微生物的食物來源。  
+
+3. 補充療法：  
+   - 使用葡萄糖胺（glucosamine）補充劑：  
+     - 有助於修復和增強關節軟骨結構。  
+     - 提供關節保護與舒緩症狀。  
+
+## 健康建議  
+1. 牙齒保健：  
+   - 定期清潔牙齒，預防牙垢和牙菌滋生。  
+   - 及時治療牙齒感染，避免病菌扩散至全身。  
+
+2. 飲食調整：  
+   - 採用低 inflammatory 饮食模式，如生酮飲食。  
+   - 減少精制糖和高GI食物的攝取。  
+
+3. 檢查與治療：  
+   - 如有牙齒問題或疑似骨關節炎症狀，及時就醫檢查。  
+   - 考慮血液測試評估胰島素抵抗情況。  
+
+## 結論  
+- 骨關節炎的病因複雜，涉及年齡、牙齒健康和內分泌等因素。  
+- 自然療法如抗菌劑、飲食調整和補充療法可有效緩解症狀並改善患者生活質素。  
+- 未來研究應進一步探索牙菌與骨關節炎的關聯，為治療提供新方向。
 </details>
 
 <details>
@@ -560,14 +826,56 @@
 </details>
 
 <details>
-<summary>1549. Best Remedy For Throbbing Vascular Migraine – Dr. Berg</summary><br>
+<summary>1549. [2018-06-07] Best Remedy For Throbbing Vascular Migraine – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=opT3TaVebbQ" target="_blank">
     <img src="https://img.youtube.com/vi/opT3TaVebbQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Summary of Key Points from the Article
 
+#### Core Theme:
+- The article discusses the relationship between hormone-related migraines, particularly focusing on estrogen and oxytocin, and explores potential solutions to alleviate these symptoms.
+
+#### Main Concepts:
+1. **Hormonal Influence on Migraines**:
+   - Estrogen levels fluctuate during the menstrual cycle.
+   - Oxytocin and vasopressin are involved in migraine mechanisms.
+   - Changes in these hormones can trigger migraines.
+
+2. **Role of Vitamins and Minerals**:
+   - Vitamin C is essential for hormone production.
+   - Magnesium plays a role in relaxing tissues and may help reduce migraine symptoms.
+
+3. **Alternative Remedies**:
+   - Oxytocin nasal spray has been used to alleviate headaches.
+   - Natroshima (salt water) is another remedy mentioned, though its effectiveness varies.
+
+#### Problem Analysis:
+- Fluctuating estrogen levels during the menstrual cycle can trigger migraines.
+- Dehydration and changes in cerebral spinal fluid pressure contribute to migraine symptoms.
+
+#### Solutions and Recommendations:
+1. **Hormone Regulation**:
+   - Maintain adequate vitamin C intake to support hormone synthesis.
+   - Use magnesium supplements for muscle relaxation.
+
+2. **Hydration and Sodium Balance**:
+   - Avoid excessive sodium intake (e.g., table salt).
+   - Opt for natural sources of sodium, such as celery juice, to avoid dehydration and reduce cerebral spinal fluid pressure.
+
+3. **Alternative Therapies**:
+   - Consider oxytocin nasal spray for缓解 headaches.
+   - Explore natroshima or other remedies based on personal effectiveness.
+
+#### Health Recommendations:
+- Incorporate celery juice into your diet to naturally increase sodium levels and potentially reduce migraine symptoms.
+- Monitor and adjust vitamin C and magnesium intake as needed.
+- Stay hydrated and maintain a balanced electrolyte status.
+
+#### Conclusion:
+- Hormone-related migraines can be effectively managed by addressing underlying hormonal imbalances and adopting lifestyle changes such as proper hydration, dietary adjustments, and the use of natural remedies.
 </details>
 
 <details>
@@ -582,36 +890,158 @@
 </details>
 
 <details>
-<summary>1547. The Best Vitamins for PMS Mood Swings – Dr. Berg</summary><br>
+<summary>1547. [2018-06-06] The Best Vitamins for PMS Mood Swings – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=jLWpSVzO8Lo" target="_blank">
     <img src="https://img.youtube.com/vi/jLWpSVzO8Lo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
+- 剖析女性經前症狀（PMS）及其自然調理方法。
 
+### 主要觀念
+1. PMS是一類影響婦女健康的常見問題。
+2. 經前綜合征可導致情緒不穩定、疲勞、乳房脹痛等症狀。
+3. 調理PMS需針對不同症狀采取相應措施。
+
+### 問題原因
+- **營養失衡**：缺乏特定維生素和礦物質可能加劇PMS症狀。
+- **激素變化**：雌激素和孕激素的波動是導致PMS的主要原因之一。
+
+### 解決方法
+1. **補充维生素B6**：
+   - 推荐劑量：每日50毫克，分3次服用。
+   - 功效：改善情緒不穩、 depressive symptoms 和易怒。
+
+2. **補充碘元素**：
+   - 使用形式：選擇海藻類サプリメント。
+   - 功效：有效緩解乳房脹痛和相關症狀。
+
+### 健康建議
+1. 適當運動：規律的有氧運動可幫助調節激素水平，改善情緒。
+2. 平衡飲食：增加富含B族維生素的食物攝取，如鈣質、镁和全穀物。
+3. 睡眠管理：保持充足且有規律的睡眠，促進身體康複。
+
+### 结論
+- PMS的症狀可通过自然調理方法有效緩解。
+- 選擇適當的營養補充劑是調理PMS的重要手段之一。
+- 建立健康的生活習慣對於預防和改善PMS具有重要作用。
 </details>
 
 <details>
-<summary>1546. Avoid Complex Keto Recipes & Cooking on Keto –  Dr. Berg</summary><br>
+<summary>1546. [2018-06-05] Avoid Complex Keto Recipes & Cooking on Keto –  Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=zy9uuqaa2xo" target="_blank">
     <img src="https://img.youtube.com/vi/zy9uuqaa2xo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節一：核心主題  
+**Core Theme**: 快速酮飲食（Quick Keto Diet）  
+- **中文**: 本文圍繞如何在酮飲食中快速 preparation meals 展開，強調通過簡化烹饪過程來保持健康生活方式。  
+- **英文**: The article focuses on how to quickly prepare meals in a keto diet, emphasizing simplified cooking processes to maintain a healthy lifestyle.  
 
+### 小節二：主要觀念  
+**Main Concepts**:  
+1. **快速餐飲策略（Quick Meal Strategies）**  
+   - **中文**: 提供多種簡單易行的餐飲選擇，如即食蛋白 powder、蔬菜沙拉和罐頭食材。  
+   - **英文**: Provides various quick and easy meal options, such as ready-to-eat protein powders, vegetable salads, and canned foods.  
+
+2. **酮飲食的好處（Benefits of Keto Diet）**  
+   - **中文**: 强調酮飲食在健康和體重管理方面的優勢，特別是其高效的 fat-burning 效果。  
+   - **英文**: Highlights the benefits of a keto diet in terms of health and weight management, particularly its efficient fat-burning effects.  
+
+### 小節三：問題原因  
+**Problem Causes**:  
+1. **現代生活的壓力（Stress of Modern Life）**  
+   - **中文**: 現代生活节奏快，人們缺乏足夠的時間和精力來 preparation 健康飲食。  
+   - **英文**: The fast pace of modern life leaves people with little time and energy to prepare healthy meals.  
+
+2. **傳統酮飲食的缺點（Drawbacks of Traditional Keto Diet）**  
+   - **中文**: 一些酮飲食食譜 preparation 時間長，操作複雜，不符合快節奏生活方式。  
+   - **英文**: Some keto diet recipes require lengthy preparation and complex steps, which do not align with fast-paced lifestyles.  
+
+### 小節四：解決方法  
+**Solutions**:  
+1. **利用即食食品（Ready-to-Eat Foods）**  
+   - **中文**: 採用即食食品如煮熟的蛋、罐頭 tuna 和 sardines 來快速 preparation 健康餐。  
+   - **英文**: Use ready-to-eat foods like boiled eggs, canned tuna, and sardines to quickly prepare healthy meals.  
+
+2. **簡化烹饪過程（Simplify Cooking Process）**  
+   - **中文**: 採用簡單的 cooking 方法，如沙拉 preparation 和即食蔬菜，來節省時間。  
+   - **英文**: Simplify the cooking process by preparing salads and ready-to-eat vegetables to save time.  
+
+3. **利用高品質食材（High-Quality Ingredients）**  
+   - **中文**: 選擇高品質的食材如Parmesan cheese 和高品質香腸，來提升 meal 的營養價值。  
+   - **英文**: Choose high-quality ingredients like Parmesan cheese and high-quality sausages to enhance the nutritional value of meals.  
+
+### 小節五：健康建議  
+**Health Recommendations**:  
+1. **均衡飲食（Balanced Diet）**  
+   - **中文**: 確保飲食中包含足夠的蛋白質、脂肪和蔬菜，以維持酮osis 的平衡。  
+   - **英文**: Ensure a balanced diet with adequate protein, fat, and vegetables to maintain ketosis balance.  
+
+2. **選擇健康脂肪來源（Healthy Fat Sources）**  
+   - **中文**: 選擇富含健康脂肪的食材如 nuts、nut butters 和 sardines，以促進整體健康。  
+   - **英文**: Choose healthy fat sources like nuts, nut butters, and sardines to promote overall health.  
+
+3. **保持hydration（Stay Hydrated）**  
+   - **中文**: 記得多喝水，保持身體hydrated，以支持酮osis 的效果。  
+   - **英文**: Remember to stay hydrated by drinking plenty of water to support the effects of ketosis.  
+
+### 小節六：結論  
+**Conclusion**:  
+1. **主要結論（Main Conclusion）**  
+   - **中文**: 酮飲食可以在快節奏的生活中保持健康，關鍵在於簡化 preparation 過程並選擇適當的食物。  
+   - **英文**: A keto diet can maintain health in a fast-paced lifestyle, with the key being to simplify the preparation process and choose appropriate foods.  
+
+2. **行動呼籲（Call to Action）**  
+   - **中文**: 如果還沒閱讀相關书籍，建議查看以進一步了解酮飲食的優點和實踐方法。  
+   - **英文**: If you haven't read the book, consider checking it out for further insights into the benefits and practical methods of a keto diet.  
+
+### 參考資源  
+**References**:  
+- **中文**: 《健康酮osis：為健康而減肥，而非為減肥而健康》  
+- **英文**: *Healthy Ketosis: Lose Weight to Get Healthy, Not the Other Way Around*
 </details>
 
 <details>
-<summary>1545. Best Sitting Tips for Lower Back Pain Relief – Dr. Berg</summary><br>
+<summary>1545. [2018-06-05] Best Sitting Tips for Lower Back Pain Relief – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=f90LDS-_A-Y" target="_blank">
     <img src="https://img.youtube.com/vi/f90LDS-_A-Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 長時間坐姿對脊椎健康的影響，特別是低背部疼痛和 sciatica 的問題。
 
+### 主要觀念  
+1. 坐姿不良導致低背部 curves 的喪失，影響脊椎健康。  
+2. 骶骨（sacrum）在脊椎支撐中的重要性。  
+3. 泡沫軸用於骶骨的壓力治療，以恢復低背部曲線。  
+
+### 問題原因  
+- 長時間坐姿導致骶骨向後傾，失去低背部自然向前的曲線（lumbar curve）。  
+- 這會增加椎間盤的壓力，並可能引發低背部疼痛、sciatica 和退化性椎間盤病。  
+
+### 解決方法  
+1. 使用泡沫軸作為支撐：  
+   - 將泡沫軸放置於椅背或汽車座位上，用來施加壓力在骶骨位置。  
+   - 這可以幫助將骶骨向前推送，恢復低背部的自然曲線。  
+
+2. 調整坐姿：  
+   - 確保 pelvis 前傾，保持膝蓋微彎，以減少盆骨向後傾的压力。  
+
+### 健康建議  
+1. 使用適合大小的泡沫軸（approximate size mentioned in the video）。  
+2. 定期進行姿勢矯正訓練，以維持脊椎健康。  
+3. 長時間坐著時，建議每小時起來活動或拉伸。  
+
+### 結論  
+- 泡沫軸用於骶骨的壓力治療是一種有效的方法，可幫助恢復低背部曲線，預防低背部疼痛和相關問題。  
+- 良好的姿勢管理和定期的身體活動是維持脊椎健康的重要環節。
 </details>
 
 <details>
