@@ -3315,66 +3315,201 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
         alt="[Youtube]" width="200">
 </a>
 
-### Summary of Key Points from the Article
+### 核心主題：PCOS（多囊卵巢綜合徵）與胰島素的作用機制
 
-#### Core Theme:
-- **Polycystic Ovarian Syndrome (PCOS)**: A condition in women characterized by excessive androgen levels, irregular menstrual cycles, and ovarian cysts.
+#### 主要觀念：
+1. **PCOS的定義**：  
+   多囊卵巢綜合徵（Polycystic Ovarian Syndrome, PCOS）是一種女性常見疾病， caractérisée par une production excessive d'androgènes (hormones masculines comme la testostérone), ce qui peut entraîner des symptômes tels que le développement de poils faciaux et corporels excessifs, l'acné, la perte de cheveux, des cycles menstruels irréguliers ou la disparition des règles, ainsi que la formation de kystes ovariques.
 
-#### Major Concepts:
-1. **Pathophysiology of PCOS**:
-   - Excess androgens lead to symptoms such as hirsutism, acne, hair loss, voice deepening, and irregular or absent menstrual cycles.
-   - The development of ovarian cysts is also associated with this condition.
+2. **Rôle de l'insuline dans PCOS**：  
+   L'insuline joue un rôle clé dans le développement de PCOS via deux mécanismes principaux :
+   - **augmentation de l'hormone lutéinistique (LH)** : Une hausse des niveaux d'insuline provoque une augmentation de LH, qui stimule les cellules folliculaires de l'ovaire pour produire plus d'androgènes.
+   - **diminution de la globuline liante aux hormones sexuelles (SHBG)** : L'insuline réduit les niveaux de SHBG, une protéine qui lie et inactive les androgènes. Cela libère plus de testostérone dans le sang, exacerbant les symptômes associés à PCOS.
 
-2. **Role of Insulin in PCOS**:
-   - **Mechanism 1**: Increased insulin levels trigger a surge in luteinizing hormone (LH) from the pituitary gland, which activates follicular cells in the ovaries to produce more androgens.
-   - **Mechanism 2**: Elevated insulin reduces the production of sex hormone-binding globulin (SHBG) in the liver, leading to higher levels of free testosterone.
+#### 問題原因：
+1. **Hyperandrogenisme** : La production excessive d'androgènes est la cause principale des symptômes de PCOS.
+2. **Insulin Resistance** : L'intolérance à l'insuline contribue à l'augmentation des niveaux d'insuline, which in turn exacerbates les symptômes via les deux mécanismes mentionnés ci-dessus.
 
-#### Causes:
-- Insulin plays a dual role in exacerbating PCOS by increasing LH-dependent androgen production and reducing SHBG-mediated buffering of androgens.
+#### 解決方法：
+1. **Gestion de la tolérance à l'insuline** : 
+   - **Alimentation équilibrée** : Consommer une alimentation riche en fibres, faible en glucides raffinés et en graisses saturées.
+   - **Exercice régulier** : pratiquer une activité physique pour améliorer l'utilisation de l'insuline par le corps.
 
-#### Health Recommendations:
-1. **Dietary Interventions**:
-   - Focus on a diet that stabilizes blood sugar levels to reduce insulin spikes.
-2. **Lifestyle Modifications**:
-   - Engage in regular physical activity to improve insulin sensitivity.
-3. **Medical Management**:
-   - Consult healthcare professionals for potential treatments aimed at managing insulin levels or addressing SHBG deficiency.
+2. **Traitement des symptômes** :
+   - ** Médecaments pour réduire les androgènes** : Des médicaments tels que la lotion anti-androgénique ou les contraceptifs oraux peuvent être utilisés pour atténuer les symptômes.
+   - **Thérapie substitutive** : Dans certains cas, une insuffisance ovarienne peut être traitée par des hormones.
 
-#### Conclusion:
-- Understanding the dual mechanisms by which insulin contributes to PCOS provides a foundation for developing targeted interventions to manage this condition effectively.
+3. **Surveillance et suivi** :
+   - **Contrôle des niveaux hormonaux** : Régulièrement évaluer les niveaux d'insuline, de LH et de SHBG.
+   - **Suivi gynécologique** : Monitoring des cycles menstruels et de la santé reproductive.
+
+#### 健康建議：
+1. **Adopter une alimentation saine** :
+   - Limiter la consommation d'aliments riches en sucre et en graisses saturées.
+   - Augmenter la consommation de fibres, de légumes verts et de fruits non tropicaux.
+
+2. **Pratiquer un exercice régulier** :
+   - Effectuer une activité physique au moins 30 minutes par jour, cinq jours par semaine.
+
+3. **Éviter le stress** :
+   - Gérer le stress via des techniques telles que la méditation ou la yoga pour éviter son impact sur les niveaux d'insuline.
+
+4. **Consultez un professionnel de santé** :
+   - Si des symptômes s'aggravent ou si des complications émergent, consultez un médecin pour une évaluation et un traitement appropriés.
+
+#### Conclusión：
+L'insuline joue un rôle crucial dans le développement de PCOS en augmentant les niveaux d'hormones androgéniques via l'augmentation de LH et la réduction de SHBG. La gestion de l'intolérance à l'insuline, une alimentation équilibrée et un exercice régulier sont essentiels pour atténuer les symptômes et améliorer la santé globale des femmes souffrant de PCOS. Une approche holistique combinant ajustements lifestyle et traitement médical est recommandée pour obtenir les meilleurs résultats.
 </details>
 
 <details>
-<summary>2738. Use Spanish Black Radish for Gallstones</summary><br>
+<summary>2738. [2020-03-12] Use Spanish Black Radish for Gallstones</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8nef_zgqCas" target="_blank">
     <img src="https://img.youtube.com/vi/8nef_zgqCas/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章總結
 
+#### 核心主題
+- 探讨黑西班牙.Radish（黑.Radish）作为治疗胆结石的天然療法。
+
+#### 主要觀念
+1. 黑.Spanish Radish在降低膽固醇和促進 bile 流動方面的效果。
+2. 胆石形成的兩大原因：高濃度膽固醇和 bile 分泌不足。
+3. 肝臟在 bile 生產中的重要作用。
+4. 高脂肪飲食對 bile 分泌的影響。
+5. Radish 的多種健康益處，包括抗癌、抗糖尿病、抗菌、促進肝臟排毒等。
+
+#### 問題原因
+- 胆石形成的關鍵因素：
+  - 血液中膽固醇濃度过高。
+  - bile 分泌不足或功能障礙（如脂肪肝、疤痕組織或其他炎症條件）。
+- 高膽固醇水平和低脂肪飲食導致的 bile 饑餓。
+
+#### 解決方法
+1. 使用黑.Spanish Radish：
+   - 降低膽固醇水平。
+   - 刺激 bile 流動，防止膽石形成。
+2. 調整飲食習慣：
+   - 平衡脂肪攝取，避免過低脂肪飲食導致的 bile 分泌不足。
+3. 增加.Radish 的攝入量：
+   - 通過食用或榨汁等方式增加.Radish 消耗。
+
+#### 健康建議
+1. 食用黑.Spanish Radish以促進膽臟健康。
+2. 注意飲食結構，保持適當的脂肪攝取以維持正常的 bile 分泌。
+3. 若有膽石疑慮，可考慮將.Radish 入日常飲食中作為輔助療法。
+
+#### 結論
+- 黑.Spanish Radish 作為一種有效的天然療法，在降低膽固醇和促進 bile 流動方面具有顯著作用。
+- 胆石的形成與膽固醇水平和 bile 分泌密切相關，通過調整飲食和攝取.Radish 可有效預防和治療膽石問題。
+- Radish 不僅對膽臟有益，還具有多種健康益處，值得在日常生活中多加利用。
 </details>
 
 <details>
-<summary>2737. 11 Ways to Boost Your Melatonin and Sleep Like a Baby</summary><br>
+<summary>2737. [2020-03-12] 11 Ways to Boost Your Melatonin and Sleep Like a Baby</summary><br>
 
 <a href="https://www.youtube.com/watch?v=2KaMsMUnt5o" target="_blank">
     <img src="https://img.youtube.com/vi/2KaMsMUnt5o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- 調控褪黑激素（Melatonin）分泌以改善睡眠品質。
+
+#### 主要觀念
+1. 褪黑激素是由松果腺分泌的荷爾蒙，受光線和黑暗刺激影響。
+2. 光線波長（如藍光和紅光）對褪黑激素分泌有不同的效果。
+3. 遇睡前攝取大量食物或糖分會干擾睡眠。
+4. 压力、咖啡因和其他環境因素會影響褪黑激素的分泌。
+
+#### 問題原因
+1. 不當的光線暴露（如夜晚接觸藍光，白天缺乏陽光）。
+2. 睡前攝取高糖或高脂肪食物導致血糖波動和壓力激素增加。
+3. 適量咖啡因攝取可能干擾褪黑激素分泌。
+4. 避免刺激性節目和新聞影響心理狀態。
+
+#### 解決方法
+1. **光線管理**：
+   - 確保夜晚環境黑暗，避免藍光暴露（如電子產品、人工照明）。
+   - 白天多接觸自然陽光以促進褪黑激素的正常分泌。
+   - 使用有益的紅光 therapy 來增強褪黑激素。
+
+2. **飲食調整**：
+   - 避免睡前大量攝食，特別是高糖和高脂肪食物。
+   - 確保均衡飲食，攝取足夠的礦物質（如鎂、葉酸、B群 vitamins、鋅、鈣）來支持褪黑激素的合成。
+
+3. **行為與環境調整**：
+   - 減少咖啡因攝取量，建議在早上或白天限制飲用量。
+   - 避免睡前使用電子產品或觀看刺激性節目和新聞。
+   - 睡前進行放鬆活動，如閱讀輕松的書籍。
+
+4. **心理與壓力管理**：
+   - 降低生活壓力，避免讓壓力激素（如皮質醇）干擾褪黑激素分泌。
+   - 可考慮使用放鬆技巧或冥想來促進睡眠。
+
+#### 健康建議
+- 避免使用褪黑激素補充劑作為長期解決方案，因其可能增加依賴性。
+- 睡前攝取含色氨酸的食物（如核桃、牛奶）可幫助提升褪黑激素水平，但需注意整體飲食均衡。
+
+#### 結論
+- 褪黑激素的分泌受光線、 diet 和心理因素多方面影響，採取綜合性的調整措施能有效改善睡眠品質。
+- 長期而言，養成良好的生活習慣和環境控制是更為可取的方式。
 </details>
 
 <details>
-<summary>2736. The Best Diet for a Healing Bone: Fracture, Surgery or Trauma</summary><br>
+<summary>2736. [2020-03-11] The Best Diet for a Healing Bone: Fracture, Surgery or Trauma</summary><br>
 
 <a href="https://www.youtube.com/watch?v=moSq3Dr9MeE" target="_blank">
     <img src="https://img.youtube.com/vi/moSq3Dr9MeE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理與分析
 
+#### 核心主題
+本文探討了骨骨折後的飲食與康復過程，強調營養攝取在加速骨癥愈合中的重要性。
+
+#### 主要觀念
+1. **骨癥癒初期階段**：
+   - 血栓形成：骨折後即刻形成的血栓提供必要的營養和支持。
+   - 白血球、免疫細胞及巨噬細胞的參與：這些細胞負責清除碎片並啟動修復過程。
+
+2. **再生修復機制**：
+   - 干細胞的作用：分化為骨組織或其他必要細胞，初期形成軟骨以支撐結構。
+   - 成骨細胞（Osteoblasts）的功能：負責骨質的形成與沉積。
+   - 破骨細胞（Osteoclasts）的角色：在修復後清理過量骨痂，進行骨 remodeling。
+
+3. **骨組織的成分**：
+   - 骨骼主要由膠原蛋白、 minerals 和水組成，其中 calcium、phosphorus、magnesium 等礦物質至關重要。
+   - 微量元素如 zinc、copper、boron、selenium 等在骨代谢中起關鍵作用。
+
+#### 問題原因
+- 高糖飲食或高碳水化合物飲食會延缓巨噬細胞和白血球的功能，影響修復速度。
+- 糖尿病患者因血糖控制不佳，常伴有較慢的癒合進度。
+
+#### 解決方法與健康建議
+1. **飲食調整**：
+   - 採取低糖、高營養密度的飲食，如健康酮飲食（Low Carb, High Fat）。
+   - 增加富含膠原蛋白的食物攝取：如骨髓、蹄筋等。
+
+2. **微量營養素的補充**：
+   - 維生素 E：從深綠色蔬菜、坚果、種子中攝取，促進修復。
+   - 紫外線vitamin D3 和витамін K2 的聯合作用：前者幫助鈣質吸收，後者將鈣引導至骨骼。
+
+3. **飲食建議**：
+   - 增加骨髓湯（Bone Broth）的攝取，提供豐富的膠原蛋白和礦物質。
+   - 消耗富含zinc的食物：如紅肉、海鮮、鮭魚和肝臟。
+
+4. **生活習慣調整**：
+   - 間歇性禁食：刺激干細胞活化，加速組織修復。
+   - 減少攝取精制糖分，優先選擇莓類等低糖水果。
+
+#### 結論
+合理的飲食結構和健康的生活方式對骨癥康復至關重要。採用低糖、高營養的飲食策略，配合微量營養素的補充，可顯著加速骨折癒合進度，並提升整體康復效果。
 </details>
 
 <details>
@@ -3389,47 +3524,177 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
 </details>
 
 <details>
-<summary>2734. Your Liver is Triggering Your Right Shoulder Blade Pain – Liver Problems & Shoulder Pain – Dr.Berg</summary><br>
+<summary>2734. [2020-03-10] Your Liver is Triggering Your Right Shoulder Blade Pain – Liver Problems & Shoulder Pain – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=zNmH2F2njFY" target="_blank">
     <img src="https://img.youtube.com/vi/zNmH2F2njFY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：肝臟與右肩胛痛的連接
 
+#### 核心主題
+- 探讨肝臟健康与右肩胛区域疼痛之间的关联。
+
+#### 主要觀念
+1. 右肩胛區域的疼痛可能并非局部肌肉或骨骼問題，而是由內臟器官問題引發。
+2. 肝臟是導致右肩胛痛的最常見來源之一，但通常被誤認為是肌肉或關節炎症（如肌腱炎、滑囊炎）。
+3. 痛點的位置可以幫助判斷病因：肩胛上方疼痛多與膽囊有關，下方則可能是肝臟問題；左側可能涉及胰臟。
+
+#### 問題原因
+1. 肝臟和膽道相關問題：
+   - **肝臟**：脂肪肝、炎症或纖維化等。
+   - **膽囊**：結石、阻塞或膽管炎。
+2. 饮食因素：
+   - 高碳水化合物飲食。
+   - 酒精攝取過量。
+   - 大量攝入 vegetable oils（尤其是 GMO 作物）。
+3. 其他因素：
+   - 違常的鐵攝取。
+   - 藥物副作用。
+
+#### 解決方法
+1. **飲食調整**：
+   - 减少高碳水化合物和精制糖的攝取，特別是來源於玉米甜eners（如 HFCS）的食物。
+   - 減少 vegetable oils 的使用，改用更健康的油類（如橄欖油、椰子油）。
+2. **生活方式改變**：
+   - 采用健康酮飲食和定期禁食，以促進肝臟健康。
+3. **治療與管理**：
+   - 調整飲食後，疼痛可能自行消失。
+
+#### 健康建議
+1. 提高對肝臟健康問題的警覺性，特別是右肩胛區域的持續疼痛。
+2. 檢查飲食結構，避免過度攝取炎症性食物。
+3. 考慮進行定期的身體檢查和專業醫療評估。
+
+#### 結論
+- 右肩胛痛可能與肝臟或膽囊問題密切相關，而非局部肌肉損傷。
+- 適當調整飲食和生活方式可以有效緩解症狀。
+- 提升對肝臟健康的關注，早期發現和治療可避免進一步的健康問題。
 </details>
 
 <details>
-<summary>2733. Does the Sight and Smell of Carbs Knock You Out of Ketosis?</summary><br>
+<summary>2733. [2020-03-10] Does the Sight and Smell of Carbs Knock You Out of Ketosis?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=MgAqm4fkS7Q" target="_blank">
     <img src="https://img.youtube.com/vi/MgAqm4fkS7Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 1. 核心主題  
+- 探讨酮体状态（ketosis）在暴露于碳水化合物刺激（如气味、视觉）时的变化及其对食欲和成瘾的影响。
+
+#### 2. 主要觀念  
+- 气味和视觉刺激可能引发与奖励相关的神经递质 dopamine 的释放。  
+- Dopamine 在大脑中与愉悦感和奖励机制相关，可能导致对食物的渴望增加。  
+
+#### 3. 啟發因素  
+- 碳水化合物（如巧克力曲奇、烘焙面包、披萨、炸鸡）的气味或视觉刺激可能引发食欲反应。  
+- 气味和视觉刺激可能通过影响 dopamine 来增强对特定食物的渴望，尤其是在有相关成瘾或 binge eating 行为的人群中。
+
+#### 4. 啟發因素的原因分析  
+- 气味和视觉刺激作为感官线索，能够激活大脑的奖励系统。  
+- 对于具有成瘾倾向或体重问题的人群，这些感官刺激更容易触发 dopamine 的释放，从而增强对食物的渴望。  
+
+#### 5. 解決方法（酮体饮食与间歇性禁食的作用）  
+- 酮体饮食（ketogenic diet）和间歇性禁食（intermittent fasting）能够减少对频繁进食的需求。  
+- 这种饮食方式使个体在面对食物刺激时，更不容易因 dopamine 的释放而产生强烈的食欲反应。  
+
+#### 6. 健康建議  
+- 对于希望通过改变饮食习惯来克服成瘾（如酒精、药物或碳水化合物）的人群，酮体饮食和间歇性禁食是一个值得尝试的方法。  
+- 在日常生活中，减少对高糖、高碳水化合物食物的感官暴露（如气味、视觉），有助于降低食欲和渴望。  
+
+#### 7. 研究結果總結  
+- 只有在特定条件下（如个体已有成瘾或 binge eating 行为）下，气味和视觉刺激才会显著增加 dopamine 的释放。  
+- 对于没有相关问题的个体，暴露于这些刺激不会引发明显的 dopamine 增加，从而减少了对食物的渴望。
+
+#### 8. 结論  
+- 酮体饮食和间歇性禁食不仅有助于体重管理，还能通过减少对频繁进食的需求，帮助个体更好地抵抗食物诱惑。  
+- 了解感官刺激对大脑奖励系统的影响，对于制定有效的饮食管理和成瘾治疗策略具有重要意义。  
+
+---
+
+此整理基于文章内容的结构化分析，使用正式的学术用语，并以小节的形式清晰呈现了核心主题、主要觀念、问题原因、解决方法、健康建议和结论等关键点。
 </details>
 
 <details>
-<summary>2732. The Healthy Keto Summit 2020 is HERE!</summary><br>
+<summary>2732. [2020-03-09] The Healthy Keto Summit 2020 is HERE!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ny8mI-JOtmI" target="_blank">
     <img src="https://img.youtube.com/vi/ny8mI-JOtmI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- **2020健康酮 Summit**：於2020年8月29日至30日在美國馬里蘭州國家海港的Gaylord National Resort and Convention Center舉行。  
+- **酮飲食與間歇性禁食**：會議聚焦於深入探討酮飲食（Ketogenic Diet）和間歇性禁食（Intermittent Fasting）的最新研究、應用及其健康影響。  
 
+---
+
+### 主要觀念  
+1. **酮飲食的多樣化益處**：包括抗衰老、腦功能改善、心血管健康等。  
+2. **間歇性禁食的研究進展**：探討其對壽命延長和體脂 composition 的影響。  
+3. **營養缺乏與酮飲食的結合**：討論酮飲食和禁食可能引起的營養不足問題。  
+
+---
+
+### 問題原因  
+- **酮飲食與禁食的潛在風險**：長期進行酮飲食和間歇性禁食可能導致某些營養素攝取不足，影響整體健康。  
+- **缺乏系統化的研究支持**：部分CLAIMS關於酮飲食和禁食的效果尚未得到充分的臨床驗證。  
+
+---
+
+### 解決方法  
+1. **補充必要的營養素**：在進行酮飲食和禁食時，需注意攝取足夠的維生素、礦物質和其他必需營養素。  
+2. **個體化飲食計劃**：根據個人健康狀況設計酮飲食和禁食方案，避免盲目跟從。  
+3. **結合運動與健康生活方式**：將間歇性禁食與適當的運動結合，以提高整體健康效益。  
+
+---
+
+### 健康建議  
+- **諮詢專業醫師或營養師**：在進行酮飲食和禁食前，應先諮詢醫療專業人員，確保飲食計劃的安全性和適宜性。  
+- **逐步調整飲食結構**：避免 abrupt的飲食變化，以免引發不適反應。  
+
+---
+
+### 结論  
+2020健康酮 Summit 為參加者提供了豐富的知識和實用建議，幫助提升對酮飲食與間歇性禁食的理解。專家們強調了這些飲食方式的潛在益處，但也提醒需注意其可能的副作用並採取適當的防範措施。會議呼籲公眾在追求健康目標時，應基於個人情況制定合理的飲食和生活方式計劃。
 </details>
 
 <details>
-<summary>2731. The Most Important Function of Vitamin E</summary><br>
+<summary>2731. [2020-03-09] The Most Important Function of Vitamin E</summary><br>
 
 <a href="https://www.youtube.com/watch?v=1FYcC3O64fY" target="_blank">
     <img src="https://img.youtube.com/vi/1FYcC3O64fY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：維生素E的功能與重要性
 
+#### 主要觀念：
+1. **穩定細胞膜**：維生素E能防止氧化反應，保護細胞膜中的脂肪結構，包括磷脂雙分子層（含飽和及不飽和脂肪酸）。
+2. **抗氧化作用**：維生素E作為抗氧化劑，與硒元素合作，防止自由基損傷，保護視網膜和其他富含脂肪的組織。
+3. **神經保護**：維生素E保護並修復神經鞘（如髓鞘），預防神經退化性疾病。
+4. **激素合成**：維生素E在性腺和腦垂體中儲存豐富，保護由膽固醇合成的性激索（如雌激素、前列腺素）免受氧化損傷。
+5. **肝臟健康**：維生素E降低肝纖維化的風險，通過抗氧化作用減輕肝臟炎症和自由基損害。
+
+#### 問題原因：
+1. **吸收障礙**：某些人因消化系統手術（如胃旁路）、膽囊問題或腸道疤痕組織，導致維生素E吸收不良。
+2. ** deficiency**：雖然飲食中通常含有足夠的維生素E，但吸收問題或其他因素仍可能引發缺鐵。
+
+#### 解決方法：
+1. **補充劑選擇**：建議服用天然形式的維生素E，包含所有tocopherols和tocotrienols。
+2. **健康飲食**：增加富含維生素E的食物攝取，如植物油、坚果、種子和深綠色蔬菜。
+
+#### 健康建議：
+1. **抗氧化防病**：維生素E能預防與氧化應激相關的疾病，如心血管疾病、糖尿病和癌症。
+2. **運動表現**：維生素E可增強肌肉力量，改善運動性能。
+3. **皮膚健康**：外用維生素E油保濕並修復受損皮膚。
+
+#### 結論：
+維生素E在身體多個功能中扮演關鍵角色，特に在抗氧化、神經保護和 hormone regulation方面。缺乏時可能引發多種健康問題，因此需注意攝取足夠的維生素E，尤其是有吸收障礙的人群。
 </details>
 
 <details>
@@ -3444,36 +3709,153 @@ The Vital Role of Gut Microbiota in Vitamin Synthesis and Overall Health
 </details>
 
 <details>
-<summary>2729. The Lowest and Highest Carb Vegetables are...</summary><br>
+<summary>2729. [2020-03-08] The Lowest and Highest Carb Vegetables are...</summary><br>
 
 <a href="https://www.youtube.com/watch?v=qhObso_z3YE" target="_blank">
     <img src="https://img.youtube.com/vi/qhObso_z3YE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題：蔬菜中的低碳水化合物選擇及其在酮飲食中的應用
+
+#### 主要觀念：
+1. **碳水化合物與膳食纖維的概念**：
+   - 風味.Profile 碳水化合物是指食物中糖類和淀粉的總稱。
+   - 膳食纖維是一種不能被人體消化吸收的多糖，對血糖和胰島素水平無顯著影響。
+
+2. **低碳水蔬菜的分類**：
+   - **低於1克碳水化合物/杯**：羽衣甘藍、萵苣、紫杉葉等。
+   - **低於3克碳水化合物/杯**：牛油果、筍瓜、黃瓜等。
+
+#### 問題原因：
+- 低碳飲食（如酮飲食）中，人們常擔心蔬菜攝入過多會影響體重或酮osis狀態。
+
+#### 解決方法：
+1. **選擇低碳水化合物蔬菜**：
+   - 選擇上述列出的低碳水化合物蔬菜，這些蔬菜對血糖和胰島素水平影響微乎其微。
+
+2. **定量攝取**：
+   - 每天允許攝入20-50克碳水化合物，低碳水蔬菜的攝入量可以酌情增加，但仍需注意總攝入量。
+
+#### 健康建議：
+1. **多吃高纖維蔬菜**：
+   - 高纖蔬菜不僅能提供膳食纖維，還富含維生素C、葉酸、礦物質（如 potassium 和 magnesium）等營養素。
+
+2. **避免過度攝入高碳水化合物蔬菜**：
+   - 如豌豆、玉米等，這些蔬菜的碳水含量相對較高，需限制攝食量。
+
+3. **個體化調整**：
+   - 根據個人的酮飲食計劃和健康目標，適當調整蔬菜種類和攝食量。
+
+#### 結論：
+- 低碳飲食中，合理選擇並攝入低碳水化合物蔬菜，不僅不會影響酮osis狀態，還能提供必要的營養素，促進整體健康。
+- 避免過度擔心蔬菜的碳水化合物含量，關鍵在於均衡攝食和個體化調整。
 </details>
 
 <details>
-<summary>2728. An Aging Face: Can Anything Be Done?</summary><br>
+<summary>2728. [2020-03-08] An Aging Face: Can Anything Be Done?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=EsPT7EOJkrE" target="_blank">
     <img src="https://img.youtube.com/vi/EsPT7EOJkrE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 彙納整理：衰老臉部的問題與解決方案
 
+#### 核心主題
+- **面部衰老**：隨著年齡增長，面部皮膚會逐漸失去彈性、膠原蛋白和脂肪，導致皺紋、眼袋、眼皮下垂等一系列衰老跡象。
+
+#### 主要觀念
+1. **衰老的原因**：
+   - **氧化應激**：自由基攻擊細胞蛋白質，導致組織破壞。
+   - **紫外線照射**：過度曝露於紫外線會加速皮膚老化。
+   - **環境因素**：空氣汙染、化妝品中的有害 chemical、酒精和菸草等都會影響皮膚健康。
+   - **飲食習慣**：高糖、高鹽、精製碳水化合物及壓力均會加速衰老。
+
+2. **面部衰老的表現**：
+   - 皺紋（水平線和垂直線）。
+   - 眼袋和暗 circles。
+   - 面部皮膚變薄，失去 elasticity。
+   - 下巴部位脂肪萎縮，導致 turkey gobbler appearance。
+   - 骨骼萎縮，導致臉頰bones 大小改變。
+
+#### 問題原因
+- **氧化應激**：自由基攻擊細胞蛋白質，導致組織破壞。
+- **紫外線照射**：過度曝露於紫外線會加速皮膚老化。
+- **環境因素**：空氣汙染、化妝品中的有害 chemical、酒精和菸草等都會影響皮膚健康。
+- **飲食習慣**：高糖、高鹽、精製碳水化合物及壓力均會加速衰老。
+
+#### 解決方法
+1. **抗氧化劑攝取**：
+   - **蔬菜**：尤其是十字花科vegetables，富含 antioxidant。
+   - **魚類和海鮮**：如三文魚、沙丁魚等富含 DHA 和 omega-3。
+   - **蛋質**：如雞蛋。
+
+2. **營養補充劑**：
+   - **維生素B3**： deficiency 可能導致 DNA 損害，需避免過量攝取酒精和糖分。
+   - **鎂**：來源於深色 leafy greens 和 nuts。
+   - **鋅**：來源於 shellfish、seafood 和海藻。
+   - **葉酸**：來源於vegetables和 fruits。
+   - **維生素C**：來源於自然食物，如柑橘類水果。
+
+3. **生活方式調整**：
+   - **定期運動**：促進血液循環，為皮膚提供更多氧氣。
+   - **間歇性斷食**：增加抗氧化 capacity，啟動自噬作用，清除損壞的蛋白質並生成新組織。
+   - **壓力管理**：降低 stress 水平，減少自由基產生。
+
+#### 健康建議
+- 減少攝取高糖、高鹽和精製碳水化合物。
+- 避免過度曝露於紫外線，使用防護措施如 sunblock 和帽子。
+- 們應該避免吸煙和限酒。
+
+#### 結論
+衰老是不可避免的自然過程，但通過抗氧化飲食、規律運動和健康的生活方式，可以有效延緩面部衰老。
 </details>
 
 <details>
-<summary>2727. Organic vs. Inorganic Minerals: Biggest Confusion</summary><br>
+<summary>2727. [2020-03-07] Organic vs. Inorganic Minerals: Biggest Confusion</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Y0civQTZh-4" target="_blank">
     <img src="https://img.youtube.com/vi/Y0civQTZh-4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- **有機與無機礦物質的區別及其對人體健康的影響**  
 
+---
+
+### 主要觀念  
+1. **有機礦物質的定義**：由植物轉化而來，以其生物可利用性為特點。  
+2. **無機礦物質的定義**：直接來自岩石和土壤，未經植物轉化的礦物質。  
+3. **人體對有機與無機礦物質的吸收差異**：有機礦物質更易被吸收利用，而無機礦物質的生物可利用率較低。  
+
+---
+
+### 問題原因  
+- **市售補充劑中多數為無機礦物質**：這導致其效果不佳且不易被人體吸收。  
+- **消費者的認知偏差**：很多人混淆了有機與無機礦物質的概念，影響健康選擇。  
+
+---
+
+### 解決方法  
+1. **優先通過食物攝取礦物質**：選擇富含有機礦物質的新鮮蔬菜、水果和動物性食品。  
+2. **選擇高品質的礦物質補充劑**：確保產品標注為“有機礦物質”。  
+3. **避免依賴低質量補充劑**：因其生物可利用率低，可能導致資源浪費並影響健康。  
+
+---
+
+### 健康建議  
+- **均衡飲食**：多攝取含豐富有機礦物質的食物，如深色蔬菜、漿果和海藻等。  
+- **サプリメントの選定**：補充劑應選擇來源於植物的有機礦物質，而非岩石或土壤提取的無機礦物質。  
+
+---
+
+### 結論  
+- **有機礦物質的重要性**：其高生物可利用率使其成為更健康的選擇。  
+- **消費者教育的必要性**：需提高公眾對有機與無機礦物質差異的认知，以做出明智的健康決策。
 </details>
 
 <details>
