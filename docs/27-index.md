@@ -1121,47 +1121,233 @@ Ramadan斷食對免疫系統具有顯著的正面影響，但其效果可通過�
 </details>
 
 <details>
-<summary>2779. Why Diabetes Makes You More Susceptible to Viruses</summary><br>
+<summary>2779. [2020-04-09] Why Diabetes Makes You More Susceptible to Viruses</summary><br>
 
 <a href="https://www.youtube.com/watch?v=A2fGntTtSpY" target="_blank">
     <img src="https://img.youtube.com/vi/A2fGntTtSpY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納：糖尿病患者感染新型冠狀病毒肺炎（COVID-19）的風險及原因
 
+#### 1. 核心主題  
+- 糖尿病患者感染COVID-19的風險較高，且其死亡率為非糖尿病患者的三倍。  
+
+#### 2. 主要觀念  
+- COVID-19病毒通过ACE2受体进入宿主细胞进行复制。  
+- 糖尿病患者的细胞表面ACE2受体量更高，提高了感染COVID-19的风险。  
+
+#### 3. 問題原因  
+- **ACE2受体表达量增加**：糖尿病患者由于高血糖和高水平的胰岛素，导致细胞表面ACE2受体数量增多，从而增加了病毒入侵的机会。  
+- **免疫功能受损**：  
+  - **胰岛素抵抗**：约75%的人口存在某种程度的胰岛素抵抗，这会削弱机体对病毒感染的免疫反应。  
+  - **高血糖导致中性粒细胞减少**：  
+    - 中性粒细胞是白细胞的主要组成部分（约占70%），在抗病毒和抗菌免疫中起重要作用。  
+    - 糖尿病患者的高血糖状态会导致中性粒细胞数量下降，削弱免疫系统的防御能力。  
+    - 中性粒细胞的功能包括：  
+      1. 吞噬并消灭病毒和细菌（称为吞噬作用）。  
+      2. 分泌抗菌化学物质（如过氧化氢、次氯酸等），杀死病原体。  
+      3. 形成“NETs”（中性粒细胞胞外陷阱），通过释放网状结构捕获并溶解微生物。  
+
+#### 4. 解決方法  
+- **饮食调整**：  
+  - 减少高碳水化合物食物的摄入，降低血糖水平。  
+  - 通过少量多餐的方式改善代谢状态，从而减少ACE2受体的表达并增强免疫力。  
+
+#### 5. 健康建議  
+- 糖尿病患者应采取以下措施以降低COVID-19感染风险：  
+  1. 遵医嘱控制血糖水平，避免高血糖状态。  
+  2. 调整饮食结构，减少精制糖和高GI（升糖指数）食物的摄入。  
+  3. 定期监测免疫功能指标，必要时寻求医疗帮助以增强免疫力。  
+
+#### 6. 結論  
+- 糖尿病患者因ACE2受体表达量增加和免疫功能受损，感染COVID-19的风险显著升高。  
+- 通过饮食调整和血糖控制，可以有效降低感染风险，并改善整体健康状况。
 </details>
 
 <details>
-<summary>2778. How Ketones Affect Hormones and the Endocrine System</summary><br>
+<summary>2778. [2020-04-08] How Ketones Affect Hormones and the Endocrine System</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xBzFo9EvCmw" target="_blank">
     <img src="https://img.youtube.com/vi/xBzFo9EvCmw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理與分析：酮體與激素的關係
 
+#### 1. 核心主題  
+酮體對人體激素系統的影響，特別是在低胰島素、低碳水化合物飲食條件下的作用。
+
+---
+
+#### 2. 主要觀念  
+
+- **酮體的生成與胰島素水平**  
+  - 胰島素水平降低是酮體產生的主要觸發因素。  
+  - 高胰島素水平抑制酮體生成，並迫使身體依賴葡萄糖供能。
+
+- **激素相互作用**  
+  1. **胰高血糖素（Glucagon）**：  
+     - 與胰島素相拮抗，促進脂肪燃燒。  
+     - 受中等量蛋白攝取或強度運動啟發。  
+  2. **IGF-1（胰岛素样生长因子-1）**：  
+     - 由肝臟產生，與生長激素功能相似，參與蛋白質合成和脂肪燃燒。  
+     - 胰島素水平降低時，IGF-1增加，促進脂肪分解。  
+
+- **其他激素影響**  
+  1. **皮質醇（Cortisol）**：  
+     - 高壓力導致皮質醇升高，引發糖原分解和胰島素 spikes，最終導致腹腔脂肪堆積。  
+  2. **甲状腺激素（T3、T4）**：  
+     - 生酮飲食可能降低活性 thyroid hormone (T3)，但酮體增強能量轉化效率，因此通常不會引起明顯症狀。  
+
+- **性激素影響**  
+  1. **雌激素（Estrogen）**：  
+     - 雌激素增加胰島素敏感性；低雌激素可能导致代謝問題和血 sugar issues。  
+     - 腩胖女性可能因脂肪組織過度生成雌激素，導致激素失衡。  
+  2. **睾酮（Testosterone）**：  
+     - 高碳水飲食降低男性睾酮水平；生酮飲食可提升 testosterone，改善代謝健康。  
+
+---
+
+#### 3. 問題原因  
+
+- **高胰島素血症**：  
+  - 膳食中過量攝取精制碳水化合物和糖分，導致胰島素水平升高，抑制酮體生成，並可能引發胰島素抵抗。  
+
+- **激素失衡**：  
+  - 長期高血糖和高胰島素血症破壞激素平衡，影響甲状腺、性腺等功能。  
+
+---
+
+#### 4. 解決方法  
+
+- **低碳水化合物飲食（生酮飲食）**：  
+  - 降低胰島素水平，促進酮體生成，改善代謝健康。  
+
+- **壓力管理**：  
+  - 控制壓力以避免皮質醇過高，防止脂肪堆積和代謝紊亂。  
+
+- **補充必要的營養素**：  
+  - 確保足夠的蛋白質攝取，支撐激素平衡和代謝功能。  
+
+---
+
+#### 5. 健康建議  
+
+1. 選擇低碳水化合物飲食模式（如生酮飲食），以改善胰島素敏感性和整體代謝健康。  
+2. 減少精制糖和高GI食物的攝取，避免高胰島素血症。  
+3. 管理壓力水平，通過運動、冥想等方式降低皮質醇。  
+4. 針對特定激素失衡（如PCOS），可考慮諮詢專業醫師或營養師進行個化化干預。  
+
+---
+
+#### 6. 結論  
+
+酮體在低胰島素條件下對人體具有多種益處，包括改善胰島素敏感性、平衡激素水平和增強代謝效率。 生酮飲食和其他低胰島素飲食策略可有效調節激素失衡，特別是在治療肥胖症、脂肪肝和激素相關疾病（如PCOS）方面展現出潛力。 適當調整飲食結構並結合健康的生活方式，可顯著提升整體健康水平。
 </details>
 
 <details>
-<summary>2777. Why do Ears and Nose Grow as You Age?</summary><br>
+<summary>2777. [2020-04-07] Why do Ears and Nose Grow as You Age?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=t6KFyBt9BNs" target="_blank">
     <img src="https://img.youtube.com/vi/t6KFyBt9BNs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題： ageing導致身體部位的變化及其原因與解決方法
 
+### 主要觀念：
+1. **年齡增長對外貌的影響**：
+   - 隨著年齡增加，耳垂、鼻尖和眉毛等部位會逐漸長大。
+   - 其他明顯現象包括耳毛和鼻毛過於茂盛。
+
+2. **解剖學與生理學原因**：
+   - **骨骺停止生長**：骨骼在二十多歲時停止生長，但軟骨（如耳垂、鼻尖）會持續微量增長。
+   - **膠原蛋白流失**：缺乏 connective tissue 使得軟骨失去支撐，導致松弛和下垂。
+   - **荷爾蒙變化**：
+     - DHT（二氫睾固酮）水平上升，尤其是男性。
+     - DHT 是一種強力的雄性激素，會影響毛髮生長模式。
+
+3. **DHT 的雙面作用**：
+   - 促進某些部位的毛髮生長（如 eyebrows, ears, nose），導致這些部位的毛髮過於茂盛。
+   - 造成男性型脫發（baldness）。
+
+4. **相關健康問題**：
+   - DHT 增加還可能影響前列腺大小，需注意其健康狀況。
+
+### 問題原因：
+1. **解剖結構變化**：
+   - 軟骨持續生長和膠原蛋白流失導致外部器官（如耳垂、鼻尖）的形狀改變。
+   
+2. **荷爾蒙失衡**：
+   - DHT 水平上升引發毛髮生長模式的改變及其他腺體功能改變。
+
+### 解決方法及健康建議：
+1. **接受生理變化**：
+   - 這些變化是年齡增長的自然現象，無法完全避免。
+   
+2. **個人護理**：
+   - 定期修剪耳毛和鼻毛，以維持外觀整潔。
+   
+3. ** nutritional interventions**：
+   - 取富含 5-alpha reductase 抑制劑的食物，如南瓜籽，可減缓 DHT 的作用。
+   - 這些抑制劑可能有助於改善由DHT過多引起的問題。
+
+4. **健康Monitoring**：
+   - 注意前列腺健康的變化，必要時尋求醫療建議。
+
+### 結論：
+年齡導致的耳垂、鼻尖和眉毛等部位的生長是由骨骼停止生長後軟骨持續微量增長以及荷爾蒙（DHT）水平上升所引起的。雖然這些變化無法完全避免，但通過個人護理和飲食調整，可以適當緩解其影響。接受這些變化並採取積極措施，能夠幫助我們更好地應對年齡帶來的外觀改變。
 </details>
 
 <details>
-<summary>2776. The Downfall of High Fructose Corn Syrup (HFCS)</summary><br>
+<summary>2776. [2020-04-05] The Downfall of High Fructose Corn Syrup (HFCS)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=o6QVVwPOQwk" target="_blank">
     <img src="https://img.youtube.com/vi/o6QVVwPOQwk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### Key Points and Themes from the Article
 
+#### Core Theme: Decline of High-Fructose Corn Syrup (HFCS)
+- HFCS has been a dominant sweetener in the U.S. for the past three decades.
+- Consumption peaked at 61 pounds per capita in 2000 but decreased to 39 pounds by 2015, with further declining trends observed recently.
+
+#### Major Concepts:
+1. **HFCS Composition and Health Concerns**:
+   - HFCS contains approximately 53% glucose and 42% fructose.
+   - Fructose is metabolized primarily in the liver, leading to serious health issues such as insulin resistance, non-alcoholic fatty liver disease (NAFLD), and cirrhosis.
+
+2. **Comparison with Sucrose**:
+   - Table sugar (sucrose) is roughly 50% glucose and 50% fructose, making it equally harmful due to its high fructose content.
+   - Both HFCS and sucrose contribute significantly to liver damage and weight gain.
+
+3. **Production and GMO Concerns**:
+   - HFCS is produced from corn starch, which is often derived from genetically modified organisms (GMOs).
+   - Beet sugar, another common sweetener, is also GMO and may contain glyphosate residues, unlike cane sugar.
+
+#### Causes of Decline in HFCS Consumption:
+- Growing consumer awareness of the health risks associated with HFCS and other sugars.
+- Shift by major food companies (e.g., PepsiCo, Snapple, Pizza Hut, Kraft Foods) towards alternative sweeteners like stevia.
+
+#### Health Recommendations:
+1. **Reduction of Sugar Intake**:
+   - Limit consumption of HFCS, sucrose, and other sugars to reduce the risk of metabolic diseases.
+   - Opt for natural sweeteners like honey or maple syrup in moderation.
+
+2. **Dietary Shifts**:
+   - Increase consumption of whole, unprocessed foods.
+   - Choose healthier protein sources, such as chicken, while being mindful of its potential health risks.
+   - Avoid highly processed foods, especially those with added sugars and vegetable oils.
+
+3. **Avoidance of GMO Products**:
+   - Consider choosing non-GMO alternatives for corn-based products and甜eners to minimize exposure to glyphosate.
+
+#### Conclusion:
+- The decline in HFCS consumption reflects a broader shift towards healthier dietary choices.
+- While sugar is unlikely to disappear completely, its gradual reduction is a positive trend driven by increased awareness of health risks.
+- Consumers are advised to make informed decisions about their food choices to promote better health outcomes.
 </details>
 
 <details>
@@ -1176,69 +1362,339 @@ Ramadan斷食對免疫系統具有顯著的正面影響，但其效果可通過�
 </details>
 
 <details>
-<summary>2774. Now a Virtual Event: Dr. Berg's Keto Summit</summary><br>
+<summary>2774. [2020-04-03] Now a Virtual Event: Dr. Berg's Keto Summit</summary><br>
 
 <a href="https://www.youtube.com/watch?v=r4VviKpJsu8" target="_blank">
     <img src="https://img.youtube.com/vi/r4VviKpJsu8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 2020 Virtual Healthy Keto Summit 的核心主題圍繞於酮飲食（Keto Diet）和間歇性禁食（Intermittent Fasting）的最新研究、實用知識及其健康益處。
 
+---
+
+### 主要觀念  
+1. **酮飲食與營養缺乏症**：Dr. Eric Berg 將探討在進行酮飲食和間歇性禁食時可能出現的營養缺乏問題。
+2. **抗衰老效果**：Dr. Jeff Gerber 論述酮飲食的抗衰老作用及其在臨床實踐中的應用。
+3. **酮飲食與認知功能**：Professor Stephen Cunnane 分享酮體對老年人大腦老化影響的研究，並探討如何利用酮體提升認知能力。
+4. **間歇性禁食策略**：Cynthia Thurlow 將介紹突破常見障礙的間歇性禁食實用策略。
+5. **低碳水化合物飲食在内分泌系統中的應用**：Dr. Alial Lawati 分享其在中東地區clinical practice 中使用低碳水化合物飲食的經驗。
+6. **酮飲食與心血管健康**：Ivor Cummins 論述酮飲食對心血管系統的影響，特別是胆固醇（LDL）和動脈粥樣硬化的最新研究。
+7. **酮飲食實用技巧**：Stephani Person 分享酮飲食的實用建議，幫助參加者提升健康效果。
+8. **生酮飲食與長壽**：Siim Land 探討間歇性禁食、運動和代謝自噬（Metabolic Autophagy）對身體組成和长寿的研究成果。
+9. **酮飲食的挑戰與成功案例**：Nikolas Tsokanos 分享其成為歐洲首位酮飲食結合間歇性禁食的IRONMAN選手的故事，展示酮飲食在體能訓練和比賽中的實際應用。
+
+---
+
+### 問題原因  
+- 飲食和間歇性禁食在實踐中可能導致營養缺乏或其他健康問題。
+- 一般公眾對酮飲食和間歇性禁食的科學原理、健康益處及潛在風險的理解不足。
+- 經驗豐富的專家知識分散，缺乏一個集中平台供大眾學習。
+
+---
+
+### 解決方法  
+1. **教育培訓**：通過Virtual Healthy Keto Summit提供トップエキスパートによる講座和 Q&A 對話，提升參加者對酮飲食和間歇性禁食的理解。
+2. **實用策略分享**：專家們將介紹如何克服實踐中遇到的障礙，提供可操作的建議。
+3. **最新研究討論**：探討酮體、抗衰老、心血管健康和認知功能等領域的最新研究成果，為參加者提供科學依據。
+
+---
+
+### 健康建議  
+1. 在進行酮飲食或間歇性禁食前，建議諮詢專業醫師或營養師。
+2. 確保酮飲食中包含足夠的微量營養素，以避免營養缺乏症。
+3. 適當結合運動和代謝自噬策略，提升健康效果和體能表現。
+4. 定期监测身體指標（如膽固醇、血糖等），評估飲食方案的效果和安全性。
+
+---
+
+### 結論  
+Virtual Healthy Keto Summit 為參加者提供了一個綜合學習平台，涵蓋酮飲食和間歇性禁食的科學理論、實用技巧和最新研究成果。此次峰會旨在幫助參加者全面了解這些飲食方式的潛在益處與挑戰，並通過專家指導提升健康水平。無論是初學者還是進階(Level-up)用戶，都能夠從中獲得寶貴的知識和啟發。
 </details>
 
 <details>
-<summary>2773. The Top 10 Things Americans Consume</summary><br>
+<summary>2773. [2020-04-02] The Top 10 Things Americans Consume</summary><br>
 
 <a href="https://www.youtube.com/watch?v=7XUIgpYlDOY" target="_blank">
     <img src="https://img.youtube.com/vi/7XUIgpYlDOY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 重點整理
 
+#### 核心主題：美國人常食十大不健康食物及其影響
+
+文章探討了美國人常消費的十大popular食物，分析其對健康的潛在危害，並強調了這些食物如何導致肥胖、糖尿病及其他慢性疾病。
+
+---
+
+#### 主要觀念：
+
+1. **高糖攝取**：
+   - 平均每人每年攝取44.7加侖（約374磅）的含糖飲料。
+   - 高糖攝取會引發胰島素抵抗，並增加肥胖和代謝症風險。
+
+2. **精緻碳水化合物與麩質影響**：
+   - 平均每人每年消費53磅麵包，含有大量精緻碳水化合物及麸質。
+   - 麥醇（gluten）可能擾亂腸道健康，並導致消化和認知問題。
+
+3. **高溫烹調的 glycation 效應**：
+   - 經高溫烹調的食物（如漢堡、薯條、炸雞等）會生成glycation化合物。
+   - 這些化合物會使血液變得黏稠，並與血糖升高情況相關。
+
+4. **油炸食品的危害**：
+   - 平均每人攝取49.2磅馬鈴薯產品及1.5十億磅薯片。
+   - 油炸過程中生成的丙烯酰胺（acrylamide）為致癌物質。
+
+5. **乳脂甜點的心血管風險**：
+   - 平均每人每年消費23磅冰淇淋，含有高糖、脂肪和蛋白質。
+   - 高糖攝取會導致血糖波動及代謝問題。
+
+6. **加工肉類的健康隱憂**：
+   - 每年銷售20十億根熱狗，多為含亞硝酸鹽和MSG的加工肉類。
+   - 這些添加物可能對健康造成負面影響。
+
+7. **高熱量零食的消費**：
+   - 年銷超過25十億個甜甜圈及25十億包奧利奥餅乾。
+   - 高糖和油炸製品增加肥胖風險。
+
+8. **兒童餐的健康挑戰**：
+   - 每年銷售23十億份雞 Nugget 和 strips，多為高鹽、高糖和深層油炸食品。
+   - 這些食品易導致兒童肥胖及代謝失衡。
+
+---
+
+#### 問題原因：
+
+1. **過量攝入精緻糖**：
+   - 含糖飲料、甜點等食物提供空熱量，且缺乏營養價值。
+   - 高糖攝取會干擾胰島素功能，導致胰島素抵抗和肥胖。
+
+2. **不良的加工食品**：
+   - 大多數上榜食物為加工食品，含有大量添加物、防腐劑及不健康脂肪。
+   - 這些食品通常高鹽、高糖、高熱量，不利健康。
+
+3. **油炸食品的致癌風險**：
+   - 油炸過程中生成丙烯酰胺等有害物質。
+   - 高溫烹調亦會破壞食物中的營養成分。
+
+4. **缺乏健康飲食教育**：
+   - 美國社會對健康飲食的重視不足，導致消費者易受不健康食品誘惑。
+
+5. **食品安全標準不足**：
+   - 部分加工食品含有可能危害健康的添加物，如亞硝酸鹽和MSG。
+
+---
+
+#### 解決方法：
+
+1. **提升健康意識**：
+   - 消費者需了解高糖、高鹽及油炸食品的危害。
+   - 選擇低糖、未加工食品以改善飲食結構。
+
+2. **強化食品安全法規**：
+   - 政府應制定更嚴格的食品添加物標準，限制有害成分的使用。
+
+3. **推廣健康飲食教育**：
+   - 學校及社區需提供關於均衡飲食的知識，幫助消費者做出健康選擇。
+
+4. **鼓勵企業責任**：
+   - 食品廠商應降低產品中不健康添加物的比例，提供更多健康選項。
+
+---
+
+#### 健康建議：
+
+1. 減少含糖飲料及甜點攝取。
+2. 選擇未加工食品，如全穀物、新鮮蔬果和瘦肉蛋白。
+3. 避免油炸及高鹽食品，以降低慢性病風險。
+4. 增加膳食纖維攝取，改善腸道健康。
+5. 定期進行身體活動，保持健康體重。
+
+---
+
+#### 結論：
+
+美國人常消費的十大食物多數含有害健康的成分，如過量糖分、有害添加物及不健康脂肪。這些食物導致肥胖、糖尿病及其他慢性疾病。為改善健康狀況，需提升消費者健康意識、強化食品安全法規並推廣健康飲食教育。
 </details>
 
 <details>
-<summary>2772. Increase Gut Bacteria Diversity: Here's How</summary><br>
+<summary>2772. [2020-04-01] Increase Gut Bacteria Diversity: Here's How</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DUqVHZSFKZo" target="_blank">
     <img src="https://img.youtube.com/vi/DUqVHZSFKZo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：腸道微生物群的多樣性及其對健康的影響
 
+#### 主要觀念：
+1. 腫瘤微環境中的免疫抑制性巨噬細胞（MDSCs）會阻礙抗腫瘤免疫反應。
+2. 炎癥相關巨噬細胞（iMacs）在惡性腫瘤中被激活並增殖，進一步抑制免疫系統。
+
+#### 問題原因：
+1. 腫瘤微環境中存在的免疫抑制性巨噬細胞和炎癥相關巨噬細胞會削弱宿主的抗腫瘤免疫力。
+2. 这些巨噬細胞的活化和增殖是由腫瘤釋放的因子誘導的。
+
+#### 解決方法：
+1. 開發針對免疫抑制性巨噬細胞的治療策略，以恢復抗腫瘤免疫反應。
+2. 探索干預腫瘤微環境中巨噬細胞活化的機制，以降低炎癥水平並增強免疫力。
+
+#### 健康建議：
+1. 保持良好的免疫系統功能，預防腫瘤的發生和發展。
+2. 經過醫生指導，考慮使用針對巨噬細胞的治療手段來提高抗腫瘤效果。
+
+#### 結論：
+1. 腸道微生物群的多樣性對整體健康具有重要意義。
+2. 遭受腸道菌群失衡可能導致慢性疾病和免疫紊亂。
+3. 通過飲食調整、生活方式改善等手段，可以有效提升腸道微生物群的多樣性。
 </details>
 
 <details>
-<summary>2771. Coronavirus Destroys Sense of Smell: Why? – Dr. Berg</summary><br>
+<summary>2771. [2020-03-31] Coronavirus Destroys Sense of Smell: Why? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=EeBMiSGjpWE" target="_blank">
     <img src="https://img.youtube.com/vi/EeBMiSGjpWE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 文章要點整理
 
+## 核心主題
+- 新型冠狀病毒（COVID-19）的額外症狀：嗅覺喪失（ anosmia ）及味覺障礙。
+
+## 主要觀念
+- 嗅覺和味覺的感知依賴於碳酐酶6（carbonic anhydrase 6），這是一種需要鋅離子的酶。
+- 鋪 deficiency 可能是導致嗅覺喪失的主要原因。
+
+## 問題原因
+1. **感染影響**：肺部感染會消耗大量鋅，且人體不易儲存鋅，容易導致缺鋌。
+2. **免疫保護功能**：鋅在抵抗微生物和病毒方面具有重要作用，缺乏鋅會削弱免疫力。
+3. **其他相關疾病**：
+   - 上呼吸道感染
+   - 肺炎（16%由鋅 deficiency 引發）
+   - 鼻瘡
+   - 天然原因引起的低促性腺激素性腺功能衰退症（idiopathic hypogonadotropic hypogonadism）
+   - 甲狀腺功能減退症（hypothyroidism）
+   - 糖尿病（高血糖會消耗鋅）
+   - 库欣氏綜合症（Cushing's syndrome，高皮質醇水平會耗竭鋅）
+   - 鈣鎢中毒（镉會耗竭鋅）
+   - 卡爾曼綜合症（Kallmann syndrome，遺傳性低促性腺激素性腺功能衰退症）
+   - 原發性纤毛運動障礙（primary ciliary dyskinesia，影響精子功能，與鋅水平有關）
+
+## 解決方法
+- **補充鋅**：通過飲食或補充劑增加鋅攝取。
+- **檢測鋅水平**：使用唾液テスト或其他方法來評估鋅 status。
+
+## 健康建議
+1. 確保均衡飲食，攝入含鋅食物（如紅肉、海鮮、豆類等）。
+2. 在感染期間，特別是肺部感染時，應注意補充鋅以支持免疫系統。
+3. 如有嗅覺或味覺障礙，可諮詢醫生是否需要進行鋅測試。
+
+## 結論
+- 嗟覺喪失可能是鋅 deficiency 的結果，補充鋅不僅可以改善嗅覺，還能增強免疫力，縮短感染病程。
+- 鋅在免疫系統和感官功能中起著關鍵作用，應重視其攝取和平衡。
 </details>
 
 <details>
-<summary>2770. Dr. Berg's Birthday (55) and Being in Healthcare for 30 Years</summary><br>
+<summary>2770. [2020-03-31] Dr. Berg's Birthday (55) and Being in Healthcare for 30 Years</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hKpCHV4paPg" target="_blank">
     <img src="https://img.youtube.com/vi/hKpCHV4paPg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節整理
 
+#### 核心主題
+- 庆祝Dr. Berg的生日及其30年从医纪念。
+- 表彰Dr. Berg在健康和营养领域的贡献。
+- 强调其对员工、客户及社会的影响。
+
+#### 主要觀念
+1. **Dr. Berg的核心价值观**:
+   - 以患者为中心，解决实际问题。
+   - 鼓励深入研究，不盲从现有研究或建议。
+   - 倡导健康生活方式，提升生活质量。
+   
+2. **对团队的领导力**:
+   - 尊重员工，创造积极的工作环境。
+   - 提供成长机会，激发工作热情。
+   - 以身作则，成为团队的榜样和导师。
+
+3. **健康信息传播的重要性**:
+   - 教育公众科学知识，提升健康意识。
+   - 通过教育改变世界，实现社会进步。
+
+#### 問題原因
+- 健康问题日益严重，传统方法效果有限。
+- 公众对营养和健康缺乏深入了解。
+- 医疗信息鱼目混珠，误导性强。
+
+#### 解決定案
+1. **Dr. Berg的方法论**:
+   - 通过科学研究提供可靠建议。
+   - 终身学习，不断优化解决方案。
+   
+2. **团队协作与支持**:
+   - 员工共同努力，推广健康理念。
+   - 客户反馈形成正向激励。
+
+#### 健康建議
+1. **饮食调整**:
+   - 采用Dr. Berg推荐的“血糖支持”等产品。
+   - 注重营养均衡，避免极端 diet。
+   
+2. **生活习惯改善**:
+   - 定期锻炼，保持身体活力。
+   - 充足睡眠，维持身心健康。
+
+3. **健康管理**:
+   - 定期体检，及时发现问题。
+   - 遵医嘱调整生活方式。
+
+#### 結論
+- Dr. Berg在健康领域的贡献显著，改变了无数人的生活。
+- 团队合作与科学教育是实现健康目标的关键。
+- 未来将继续努力，推动健康知识普及，创造更美好的世界。
 </details>
 
 <details>
-<summary>2769. The Effects of Caffeine for Hair Loss – Remedy by Dr. Berg</summary><br>
+<summary>2769. [2020-03-31] The Effects of Caffeine for Hair Loss – Remedy by Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=0Nfy8vUBx8c" target="_blank">
     <img src="https://img.youtube.com/vi/0Nfy8vUBx8c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 探讨咖啡因在治療脫髮中的作用及其科學依據。
 
+### 主要觀念  
+1. 咖啡因能夠刺激毛囊生長。
+2. 咖啡因能拮抗DHT（二氫睾酮）的抑制作用，從而防止脱发。 
+3. DHT過高會導致脫髮，咖啡因可降低其影響。
+4. 咖啡因促進頭髮生長速度。
+
+### 問題原因  
+- 高水平的DHT會阻礙毛囊生長，導致脫髮。
+- 年齡增長會導致睾酮水平下降，從而引發脫髮和其他健康問題（如肌肉萎縮、力量減弱）。
+- 缺乏微量元素（如鋅）可能干擾 testosterone 的正常功能。
+
+### 解决方法  
+1. 使用含咖啡因的洗髮水進行局部治療。  
+2. 通過藥物或自然方式抑制DHT酶，降低其水平。  
+3. 補充鋅等 микроэлементы以幫助調節睾酮水平。  
+
+### 健康建議  
+- 選擇含有咖啡因的洗髮產品作為一種非侵入性治療選擇。  
+- 注意年齡相關的激素變化，必要時諮詢醫生。  
+- 確保均衡飲食，攝取足夠的鋅等微量元素以維持頭發健康。  
+
+### 結論  
+- 咖啡因在防止脱发方面顯示出潛力，但其效果需進一步研究以確立其療效和安全性。  
+- 年齡導致的激素變化是脫髮的重要原因，綜合治療方案可能更有效。
 </details>
 
 <details>

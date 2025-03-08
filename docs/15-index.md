@@ -734,56 +734,32 @@
 ### 小節歸納
 
 #### 核心主題
-- 比較 Monk Fruit、Stevia、Xylitol 和另一種未提及的甜eners 的特性及其健康影響。
-- 探讨這四種甜eners 在低血糖指數（GI）和酮飲食中的應用。
+- 比較 Monk Fruit、Stevia 和 Xylitol 作為甜味劑的特性及其健康影響。
+- 探讨低GI（glycemic index）甜味劑在飲食中的應用。
 
 #### 主要觀念
-1. Monk Fruit、Stevia 和 Xylitol 三者均具有零或低血糖指數，適合低碳水化合物或酮飲食。
-2. Xylitol 的血糖指數為30，屬低GI甜eners，但攝取過量可能引起輕微血糖波動。
-3. Monk Fruit 和 Stevia 都帶有微量後味，Monk Fruit 更為甜美，用量較少；Stevia 則常用于調味水和汽水。
-4. Xylitol 具備接近糖的口感，適合多種食谱，但需注意來源（如非 GMO 且來自樺木樹皮）。
+1. Monk Fruit、Stevia 和 Xylitol 均為零或低GI甜味劑，適合需要控制血糖的人群。
+2. Xylitol 的GI值為30，屬於低GI，但攝取過量可能引起輕微血糖波動。
+3. Monk Fruit 和 Stevia 具有相似的特性，均具有 slight aftertaste，但在不同食物中表現出不同的食用效果。
+4. Recruit All（Riether Tall）不含後味且口感較冷，適合用於需要平衡味道的食物。
 
 #### 問題原因
-1. 部分甜eners 可能引起輕微的消化不適，尤其是攝取量過大時。
-2. Monk Fruit 和 Stevia 的後味可能不适合所有食谱。
-3. 某些糖醇（如 Xylitol）若來源為 GMO 或非天然，可能影響健康。
+1. 某些甜味劑可能引起輕微的消化不良問題，如腹脹或便秘，特別是在攝取量過大的情況下。
+2. 部分甜味劑（如Xylitol）可能來源於 GMO，需選擇非 GMO 產品。
 
 #### 解決方法
-1. 選擇合適的甜eners 經過第三方認證的非 GMO 來源。
-2. 控制攝取量，避免因過量引起消化問題。
-3. 根據食谱需求混合使用不同甜eners，以平衡口感和後味。
+1. 控制攝取量：避免一次性攝取過多的甜味劑，以減少消化不良的風險。
+2. 注意來源：選擇非 GMO 的甜味劑產品，確保其安全性。
+3. 綜合使用：將不同的甜味劑結合使用，以平衡口感和味道。
 
 #### 健康建議
-1. 選擇低GI或零GI甜eners 以維持血糖穩定。
-2. 注意長期攝取糖醇可能對腸道功能的影響，尤其是酮飲食中。
-3. 避免使用人工甜eners（如阿斯巴甜甜菊糖等），選擇天然甜eners 更為健康。
+1. Xylitol 可安全用於間歇性禁食，不會干擾酮osis 狀態。
+2. 使用 Monk Fruit 和 Stevia 時，注意其後味可能影響某些食物的風味。
+3. Recruit All 適合用於需要冷甜味的食物，如冰淇淋或冷飲。
 
 #### 結論
-- 每種甜eners 有其特點和適用場景，在不同的食谱和個人需求下可選擇最適合的產品。
-- 控制攝取量及注意來源是使用這些甜eners 的關鍵，以避免潛在的副作用並最大化健康益處。
-
----
-
-### 英文摘要
-
-**Summary:**
-
-This article compares the characteristics and health impacts of four natural sweeteners: Monk Fruit, Stevia, Xylitol, and another unspecified sweetener. The key themes include their glycemic index (GI), taste profiles, suitability for low-carbohydrate or ketogenic diets, and potential digestive effects.
-
-- **Core Themes:**  
-  - Comparative analysis of Monk Fruit, Stevia, and Xylitol in terms of GI and their application in keto-friendly recipes.
-  - Emphasis on natural, non-GMO sources to ensure health benefits.
-
-- **Key Concepts:**  
-  - Monk Fruit and Stevia have zero-calorie profiles with minimal glycemic impact but may leave a slight aftertaste.  
-  - Xylitol has a GI of 30, making it a low-GI option, though excessive consumption can lead to mild digestive issues.
-
-- **Health Recommendations:**  
-  - Opt for certified non-GMO and natural sources to avoid potential health risks associated with artificial additives.  
-  - Monitor intake to prevent digestive discomfort; combine sweeteners if necessary to enhance flavor balance.
-
-- **Conclusion:**  
-  The choice of sweetener depends on individual preferences, recipe requirements, and health goals. Prioritizing natural, low-GI options ensures better alignment with nutritional objectives while minimizing adverse effects.
+1. 每種甜味劑均有其獨特的特性與适用場景，選擇時需根據個人口味偏好和健康需求進行判斷。
+2. 適當使用，避免過量攝取，以最大程度地享受甜味劑带来的便利，同時保持良好的身體狀況。
 </details>
 
 <details>
