@@ -681,113 +681,601 @@
 </details>
 
 <details>
-<summary>1838. The Longest Fast in the World !!! = Dr.Berg</summary><br>
+<summary>1838. [2018-11-13] The Longest Fast in the World !!! = Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=u0qaaaU9NPU" target="_blank">
     <img src="https://img.youtube.com/vi/u0qaaaU9NPU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題
 
+- **長時間斷食的可行性與安全性**：探討一個人在監督下進行382天斷食的成功案例及其健康影響。
+
+- **斷食對人體的綜合影響**：包括身體機能、代謝變化及相關健康問題的處理。
+
+
+
+### 主要觀念
+
+1. **斷食的定義與目的**： 
+
+   - 斷食是指長時間不攝取食物，但需通過補充維生素、電解質和礦物質等方式來維持身體機能。
+
+   - 斷食旨在改變代謝方式，從糖分轉向脂肪燃燒，以達到減重和其他健康目標。
+
+
+
+2. **案例分析：Angus Barbary** 
+
+   - 一名27歲男性，在斷食382天後體重從456磅降至180磅。
+
+   - 斷食期間需監控並補充關鍵營養素，如钾、钠和維生素等。
+
+
+
+### 問題原因
+
+- **低血糖風險**： 
+
+  - 長期斷食可能導致血糖水平降低，但若身體已適應脂肪燃燒模式，低血糖未必會引發明顯症狀。
+
+- **高尿酸血症**： 
+
+  - 斷食過程中，尿酸水平升高是正常的生理反應，與蛋白質代謝和抗氧化網絡的激活有關。
+
+
+
+### 解決方法
+
+1. **營養補充策略**： 
+
+   - 在斷食期間攝取維生素、礦物質和電解質，以防止 deficiencies 和代謝紊亂。
+
+   - 使用含钾鹽（如枸櫸酸氫鉀）來平衡尿酸的酸性作用。
+
+
+
+2. **生活方式調整**： 
+
+   - 減少食物攝取次數，逐步從多餐制轉向少量多餐或甚至一天一餐。
+
+   - 確保充足的脂肪攝取，以支撐身體的脂肪燃燒模式。
+
+### 健康建議
+
+1. **斷食前評估**： 
+
+   - 在進行長時間斷食之前，需評估自身健康狀況，特別是有無低血糖或高尿酸相關病史。
+
+   - 必要時尋求專業醫療監督。
+
+
+
+2. **營養補充與飲水**： 
+
+   - 斷食期間保持足夠的水分攝取，並適當補充含钾和維生素的液體。
+
+   - 可在水中加入微量酸性成分（如檸檬汁）以平衡pH值。
+
+
+
+3. **逐步適應**： 
+
+   - 初學者可從短時間斷食開始，逐步延長至更長時間，讓身體逐漸適應脂肪燃燒模式。
+
+   - 減重過速可能帶來健康風險，建議設定合理目標並保持耐心。
+
+### 結論
+
+- **斷食的潛力**： 
+
+  - 長期斷食在監督和適當營養補充下是可行且健康的，能夠有效促進減重和整體健康。
+
+- **個化化健康管理**： 
+
+  - 斷食適合不同的人，但需根據個人狀況制定合理的斷食計劃，並密切關注身體反應。
 </details>
 
 <details>
-<summary>1837. The Inflammation Factor in Common Diseases – Dr.Berg</summary><br>
+<summary>1837. [2018-11-12] The Inflammation Factor in Common Diseases – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=AHkvagiOE8U" target="_blank">
     <img src="https://img.youtube.com/vi/AHkvagiOE8U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理
 
+#### 核心主題
+- **慢性疾病的研究**：包括心血管疾病、神經退化性疾病（如阿茲海默症）、自身免疫疾病和癌症。
+- **炎症的作用**： inflammation 是多種慢性疾病的共同特征。
+
+#### 主要觀念
+- **蛋白質斑塊的形成**：在心臟病、阿茲海默症和某些自身免疫疾病中，Amyloid beta斑塊的積累與疾病發病機制相關。
+- **壓力事件的影響**：重大生活壓力（如親人的喪失）可能引發 autoimmune 疾病。
+- **營養和飲食的保護作用**：特定食物（如十字花科蔬菜、富含B1的食物、抗氧化劑豐富的食物）可以保護細胞和器官免受損傷。
+
+#### 問題原因
+- **高糖攝入**： high sugar intake 可能導致血糖紊亂，並促進 inflammation 和癌症生長。
+- **慢性壓力**： prolonged stress 可能影響免疫系統功能，並增加 autoimmune 疾病的風險。
+- **微生物失衡**： gut microbiota 的失衡可能擾亂免疫反應，導致疾病。
+
+#### 解决方法
+- **壓力管理**：通過減輕壓力來降低 autoimmune 疾病的風險。
+- **低糖飲食**：如低碳水化合物或健康酮飲食，以控制血糖和抑制 cancer 生長。
+- **益生菌和膳食纖維**：支持健康的 gut microbiota，以促進免疫系統功能。
+
+#### 健康建議
+1. **飲食選擇**
+   - 迴 cruziferous vegetables（如西兰花、捲心菜）來保護線粒體。
+   - 消耗富含 B1 的食物（如瘦肉蛋白、全穀物）以預防糖尿病和血糖問題。
+   - 增加抗氧化劑的攝取（如維生素C和E）來保護心血管健康。
+
+2. **壓力管理**
+   - 避免長期暴露於高壓力環境，及時採取措施減輕壓力。
+
+3. **血糖控制**
+   - 保持低糖飲食，避免高血糖水平，以降低 inflammation 和 cancer 的風險。
+
+4. **營養攝取**
+   - 增加富含維生素和礦物質的食物攝取，以保護組織健康。
+
+5. **禁食**
+   - 定期進行間歇性禁食（如16:8模式），以促進身體修復和免疫功能。
+
+6. **腸道健康**
+   - 消耗益生菌和高纖維食物來平衡 gut microbiota，支持免疫系統。
+
+#### 研究與數據
+- **壓力對 autoimmune 的影響**：[研究1](https://pubmed.ncbi.nlm.nih.gov/23408567)、[研究2](https://pubmed.ncbi.nlm.nih.gov/29186719)
+- **糖攝入與慢性疾病的關聯**：[研究3](https://pubmed.ncbi.nlm.nih.gov/25301984)、[研究4](https://pubmed.ncbi.nlm.nih
 </details>
 
 <details>
-<summary>1836. The Benefits of Snake Oil - Dr.Berg</summary><br>
+<summary>1836. [2018-11-12] The Benefits of Snake Oil - Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=aBavDwK6jBA" target="_blank">
     <img src="https://img.youtube.com/vi/aBavDwK6jBA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：蛇油的健康益處及對Quackery和DSM-5的批評
 
+#### 核心主題：
+1. 蛇油的健康益處及其與其他來源（如三文魚油）的比較。
+2. 二十世紀八十年代的研究結果支持蛇油的功效。
+3. Quackery的定義及其在醫療實務中的表現。
+4. Quack Watch網站的批判及其 hypocrisy。
+
+#### 主要觀念/問題：
+1. 蛇油富含ω-3脂肪酸，包括EPA和DHA，對腦部、神經系統、情緒和心血管健康有益。
+2. 蛇油的EPA含量比三文魚油高20%，具有更高的营养价值。
+3. Quackery被定義為偽裝具備醫療技能的行爲或實務，屬於欺詐性醫療。
+4. Quack Watch網站反對另類健康療法，攻擊非傳統醫藥，存在偏見和/selective scrutiny。
+5. 由精神科醫生運營的Quack Watch涉嫌 hypocrisy，因其 profession 存在大量詐騙行為（如濫用藥物治療、缺乏客觀測試）。
+6. DSM-5的精神疾病診斷標準通過投票決定，導致診斷氾濫和濫 диагностика。
+7. DSM-5包含一些奇怪或主觀的診斷，如咖啡因濫用症、邊緣人格障礙等，甚至家庭關係問題被列入診斷。
+
+#### 主要原因：
+1. 蛇油的健康益處被傳統醫藥系統忽略，未得到足夠的宣傳和研究。
+2. Quack Watch網站過度批判另類療法，掩蓋其自身 profession 的詫騙問題。
+3. DSM-5的編纂缺乏客觀性和科學依據，導致精神疾病診斷標準不科學。
+
+#### 解決方法/建議：
+1. 加強蛇油健康益處的研究和宣傳，提高公眾認知度。
+2. 要求Quack Watch網站采取更公正的態度，減少對另類療法的偏見，全面評估各類醫療實務。
+3. 改進 DSM-5 的編纂流程，增加客觀測量和科學根據，避免濫 диагностика。
+
+#### 健康建議：
+1. 考慮蛇油作為保健品來源之一，因其高EPA含量對健康有益。
+2. 消費者在選擇醫療療法時需保持批判性思維，不盲目跟從主流醫藥或另類療法。
+3. 對 DSM-5 的診斷標準保持質疑态度，避免被濫用來強制治療。
+
+#### 結論：
+1. 蛇油作為傳統保健品有其科學價值，值得進一步研究和推廣。
+2. Quack Watch的反另類療法立場存在 hypocrisy，需警惕其背后的動機。
+3. DSM-5 的診斷標準存在重大缺陷，影響精神健康診斷的準確性，亟需改革。
+
+---
+
+### 調整和改進：
+1. 確保每個小節中的條目與文章內容高度相關。
+2. 使用正式且客觀的學術用語，避免非正式語言。
+3. 保持各小節之間的良好邏輯連貫性。
+4. 檢查是否漏掉了重要的信息點。
+
+---
+
+### 最終整理版本：
+
+#### 核心主題：
+1. 蛇油的健康益處及其與其他來源（如三文魚油）的比較。
+2. 二十世紀八十年代的研究結果支持蛇油的功效。
+3. Quackery的定義及其在醫療實務中的表現。
+4. Quack Watch網站的批判及其 hypocrisy。
+
+#### 主要觀念/問題：
+1. 蛇油富含ω-3脂肪酸，包括EPA和DHA，對腦部、神經系統、情緒和心血管健康有益。
+2. 蛇油的EPA含量比三文魚油高20%，具有更高的营养价值。
+3. Quackery被定義為偽裝具備醫療技能的行爲或實務，屬於欺詐性醫療。
+4. Quack Watch網站反對另類健康療法，攻擊非傳統醫藥，存在偏見和/selective scrutiny。
+5. 由精神科醫生運營的Quack Watch涉嫌 hypocrisy，因其 profession 存在大量詐騙行為（如濫用藥物治療、缺乏客觀測試）。
+6. DSM-5的精神疾病診斷標準通過投票決定，導致診斷氾濫和濫 диагностика。
+7. DSM-5包含一些奇怪或主觀的診斷，如咖啡因濫用症、邊緣人格障礙等，甚至家庭關係問題被列入診斷。
+
+#### 主要原因：
+1. 蛇油的健康益處被傳統醫藥系統忽略，未得到足夠的宣傳和研究。
+2. Quack Watch網站過度批判另類療法，掩蓋其自身 profession 的詫騙問題。
+3. DSM-5的編纂缺乏客觀性和科學依據，導致精神疾病診斷標準不科學。
+
+#### 解決方法/建議：
+1. 加強蛇油健康益處的研究和宣傳，提高公眾認知度。
+2. 要求Quack Watch網站采取更公正的態度，減少對另類療法的偏見，全面評估各類醫療實務。
+3. 改進 DSM-5 的編纂流程，增加客觀測量和科學根據，避免濫 диагностика。
+
+#### 健康建議：
+1. 考慮蛇油作為保健品來源之一，因其高EPA含量對健康有益。
+2. 消費者在選擇醫療療法時需保持批判性思維，不盲目跟從主流醫藥或另類療法。
+3. 對 DSM-5 的診斷標準保持質疑态度，避免被濫用來強制治療。
+
+#### 結論：
+1. 蛇油作為傳統保健品有其科學價值，值得進一步研究和推廣。
+2. Quack Watch的反另類療法立場存在 hypocrisy，需警惕其背后的動機。
+3. DSM-5 的診斷標準存在重大缺陷，影響精神健康診斷的準確性，亟需改革。
 </details>
 
 <details>
-<summary>1835. Dr. Berg's Healthy Keto® Diet Plan - Intermittent Fasting and Fat Burning</summary><br>
+<summary>1835. [2018-11-11] Dr. Berg's Healthy Keto® Diet Plan - Intermittent Fasting and Fat Burning</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vMZfyEy_jpI" target="_blank">
     <img src="https://img.youtube.com/vi/vMZfyEy_jpI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：健康的酮症（Healthy Ketosis）與間歇性禁食（Intermittent Fasting）
 
+#### 主要觀念：
+1. **酮症的作用**：酮症是指人體燃燒脂肪並生成酮體作為能量來源，相比糖分，酮體是更乾淨、高效的燃料。
+2. **健康酮症的定義**：強調在燃燒脂肪和減重之前，先確保身體獲得充足營養，攝入高品質食物以滿足營養需求。
+3. **間歇性禁食（IF）的概念**：一種飲食模式，通過减少餐次來降低胰島素水平，而非極低熱量攝取。
+
+#### 問題原因：
+1. **過高的胰島素水平**：現代飲食中碳水化合物過多導致胰島素分泌過盛，長期下來會引發代謝紊亂。
+2. **慢性疾病的根源**：高胰島素血症與肥胖、2型糖尿病、高血壓和髕 osteoporosis 等疾病密切相關。
+3. **飲食結構失衡**：常見的高精制碳水化合物攝取，以及過度頻繁的進餐，破壞了身體的脂肪燃燒機制。
+
+#### 解決方法：
+1. **降低碳水化合物攝取**：避免精制糖、穀物、 Pasta 等高升糖食物，基於酮症飲食結構（低碳水化合物、中蛋白質、高脂肪）。
+2. **實施間歇性禁食**：從每日三餐開始，逐步減少餐次至二餐或一餐，避免零食，降低胰島素波動。
+3. **營養均衡**：
+   - 每餐以蔬菜為主（佔一半），蛋白質和脂肪各占四分之一。
+   - 選擇高品質脂肪來源，如 nuts, avocados, 和 olive oil。
+4. **激素調節**：間歇性禁食可提高生長激素水平，保護肌肉組織，防止肌肉流失。
+
+#### 健康建議：
+1. **飲食結構調整**：
+   - 遵循「_plate model」：蔬菜占一半，蛋白質和脂肪各佔四分之一。
+   - 注意食物份量，避免過度攝取脂肪。
+2. **血糖管理**：穩定血糖水平，避免因胰島素波動引發的饑餓感和 cravings。
+3. **生活方式改進**：
+   - 定期運動，增強代謝能力。
+   - 充足睡眠，改善激素平衡。
+
+#### 結論：
+健康的酮症和間歇性禁食不僅有效減重，更能从根本提升整體健康水平。通過降低胰島素水平、控制血糖、減少炎症反應，這種生活方式可顯著降低慢性疾病風險，同時提高認知能力和情緒穩定性。
 </details>
 
 <details>
-<summary>1834. Protein On Keto Diet Clarified - Dr.Berg</summary><br>
+<summary>1834. [2018-11-11] Protein On Keto Diet Clarified - Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=yA8-dsGexyk" target="_blank">
     <img src="https://img.youtube.com/vi/yA8-dsGexyk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 蛋白質攝取量在飲食中的重要性及其具體建議  
 
+---
+
+### 主要觀念  
+1. **推薦蛋白質攝取量**：每日飲食中，每餐建議攝取3至6盎司（約85至170公克）的整件肉類、海鮮或蛋類。  
+2. **常見混淆點**：此建議中的「 ounces 」指的是食物本身的重量，而非蛋白質含量。  
+
+---
+
+### 問題原因  
+- 多數人誤以為推薦的3至6盎司是指食物中蛋白質的淨含量，而非整件食物的重量。  
+- 各種食物（如雞肉、牛肉、豬肉、海鮮等）的蛋白質含量差異顯著，容易造成混淆。  
+
+---
+
+### 解決方法  
+1. **明確定義**：強調推薦的3至6盎司是指整件食物的重量，而非蛋白質淨含量。  
+2. **數據示範**：提供不同食物（如雞肉、牛肉、豬肉、三文魚、龍蝦和蛋類）的蛋白質含量數據，以幫助理解差異。  
+
+---
+
+### 健康建議  
+1. **實驗法**：鼓勵個人根據自身需求（如體重、活動量、代謝率等）調整蛋白質攝取量，逐步從3盎司開始，逐漸增加至6盎司，並觀察身體反應。  
+2. **個體化調適**：平均來說，4盎司的蛋白質攝取量可滿足大多數人的能量和耐力需求，但具體需求因人而異。  
+
+---
+
+### 結論  
+- 蛋白質攝取量需根據個人情況調整，建議從小份量開始，逐步找到適合自己的最佳攝取量。  
+- 明確食物重量與蛋白質含量的差別，有助於更科學地規劃飲食結構。  
+
+---
+
+### 英文摘要  
+The article discusses the importance of protein intake in a diet and clarifies common misconceptions about recommended portions. It emphasizes that the suggested 3 to 6 ounces per meal refers to the actual weight of whole foods like meat, fish, or eggs, not the protein content alone. The author provides specific examples of protein amounts in various foods and advises individuals to experiment with different portion sizes to determine their optimal intake based on personal needs such as metabolism, activity level, and health conditions.
 </details>
 
 <details>
-<summary>1833. 3 Key Minerals for PMS (Premenstrual Syndrome) – Dr.Berg On Menstrual Cramps & PMS Food</summary><br>
+<summary>1833. [2018-11-10] 3 Key Minerals for PMS (Premenstrual Syndrome) – Dr.Berg On Menstrual Cramps & PMS Food</summary><br>
 
 <a href="https://www.youtube.com/watch?v=tFp005TDrXY" target="_blank">
     <img src="https://img.youtube.com/vi/tFp005TDrXY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題  
+- 探讨与月经周期相关的经前综合症（PMS）及痛经的缓解方法。
 
+---
+
+### 主要觀念  
+1. **矿物质在缓解PMS和痛经中的作用**：钙、镁和碘是关键矿物质，能够通过调节激素水平、改善情绪和放松肌肉来缓解症状。  
+2. **激素失衡与PMS的关系**：PMS常与雌激素水平过高（ estrogen dominance）有关，而这些矿物质可以帮助平衡激素水平。
+
+---
+
+### 問題原因  
+1. **激素失衡**：雌激素水平过高可能导致月经周期相关的问题，如痛经和PMS。  
+2. **缺乏必要的矿物质**：钙、镁和碘的不足可能加剧肌肉紧张、情绪波动和激素不平衡。
+
+---
+
+### 解決方法  
+1. **补充钙和镁**：  
+   - 钙有助于调节雌激素水平，缓解痛经。  
+   - 镁参与300多种酶的功能，有助于放松肌肉、改善神经传导和提升情绪。  
+   - 建议同时补充钙和镁，以达到协同效果。  
+
+2. **补充碘**：  
+   - 碘是微量元素，能够帮助平衡雌激素水平，减少雌激素过多引起的症状（如乳腺纤维囊性变或卵巢 cysts）。  
+   - 可通过高-quality海藻（如海带）获取碘。
+
+3. **其他补充建议**：  
+   - 维生素B6和维生素D也对缓解PMS有益。  
+
+---
+
+### 健康建議  
+1. **矿物质补充**：优先选择钙镁复合制剂，以确保同时摄入这些关键元素。  
+2. **饮食调整**：增加富含碘的食物（如海带）的摄入，同时保证均衡饮食。  
+3. **生活方式改善**：结合适量运动、充足睡眠和压力管理，进一步缓解PMS症状。  
+
+---
+
+### 結論  
+钙、镁和碘是缓解月经周期相关问题的有效矿物质。通过合理补充这些元素，并配合健康的生活方式，可以有效减轻痛经和PMS的症状，提升整体健康水平。
 </details>
 
 <details>
-<summary>1832. Is Splenda Good To Consume On Keto Diet? - Dr.Berg</summary><br>
+<summary>1832. [2018-11-10] Is Splenda Good To Consume On Keto Diet? - Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=cY6EVoD7vrM" target="_blank">
     <img src="https://img.youtube.com/vi/cY6EVoD7vrM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題
+- 討論人工甜味劑Splenda（蔗糖醇）的安全性和健康影響。
+
+#### 主要觀念
+1. **化學成分**：Splenda是一種氯化糖，含有氯元素和麥芽糊精。
+2. **血糖影響**：麥芽糊精具有高血糖指數（GI），可能不利於血糖控制。
+3. **腸道菌群改變**：Splenda會干擾腸道微生物平衡，與肥胖和代謝紊亂有關。
+4. **代謝健康風險**：可能增加胰島素抵抗和糖化血清蛋白（HbA1c）水平，影響血液糖分控制。
+5. **癌症風險**：有研究指出Splenda可能與白血病等癌症相關。
+6. **免疫系統影響**：可能影響胸腺功能，干擾免疫系統。
+
+#### 問題原因
+- 化學成分中的氯和麥芽糊精對血糖和腸道健康的不利影響。
+- 干擾腸道菌群平衡，導致代謝紊亂。
+- 可能的致癌性和免疫抑制效果。
+
+#### 解決方法
+- 避免過量攝取Splenda或其他人工甜味劑。
+- 選擇更健康的天然甜味劑，如非轉基因木糖醇、甘露糖或甜菊糖。
+
+#### 健康建議
+- 保持均衡飲食，限制加工食品和含有人工添加劑的食物攝取。
+- 盡量選擇低GI指數的食材，以維持穩定血糖水平。
+- 確保腸道菌群平衡，通過攝入益生元和益生菌來促進intestinal健康。
+
+#### 結論
+Splenda雖然是市售常見的人工甜味劑，但其成分可能對血糖控制、腸道健康和免疫系統造成負面影響。消費者應謹慎使用，并考慮轉向更健康的天然替代品。
 </details>
 
 <details>
-<summary>1831. What is Gynecomastia (Man Boobs)? - Dr.Berg on Liver</summary><br>
+<summary>1831. [2018-11-09] What is Gynecomastia (Man Boobs)? - Dr.Berg on Liver</summary><br>
 
 <a href="https://www.youtube.com/watch?v=mvHmYmQspNk" target="_blank">
     <img src="https://img.youtube.com/vi/mvHmYmQspNk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題
+- **Gilincomastia（男性乳房肥大症）**：本文主要探討gilincomastia（常被稱為「男人的乳房」或「man boobs」），其病因及與肝臟功能障礙的關聯。
+- **肝臟功能障礙**：強調肝臟在解毒 estrogen 中的作用，並分析肝臟功能受損如何導致gilincomastia。
+
+#### 主要觀念
+- **Gilincomastia的原因**：
+  - 腸臟功能障礙（如脂肪肝、肝炎或肝硬化）影響estrogen的排毒。
+  - 環境中的endocrine disrupters（如pesticides, herbicides, fungicides等）模擬 estrogen 的作用，導致gilincomastia。
+- **Gilincomastia的危險因素**：
+  - 高糖高碳水化合物飲食引致胰島素_spike，增加肝臟脂肪積累。
+  - 酒精攝取、某些藥物（如降血壓藥、抗憂鬱症藥）影響肝臟功能。
+
+#### 問題原因
+- **Gilincomastia的病理機制**：
+  - 肝臟中的Phase 1和Phase 2解毒酶負責將estrogen轉化為水溶性且無害的形式。當肝臟受損，這些酶的功能受限，導致estrogen積累。
+  - 環境中的endocrine disrupters干擾正常的激素平衡，增加gilincomastia的風險。
+
+#### 解決方法
+- **肝臟修復**：
+  - **健康生酮飲食**：降低碳水化合物攝取，促進肝臟修復。
+  - **定期禁食**：幫助肝臟排毒。
+- **Gilincomastia的治療**：
+  - **蔬菜攝取**：增加cruciferous vegetables（如 kale, broccoli等）的攝取，這些蔬菜富含nutrients，有助於解毒。
+  - **DIM補充劑**：一種高度浓缩的cruciferous提取物，幫助排毒和平衡estrogen。
+
+#### 健康建議
+- 避免攝取高糖、高碳水化合物食物。
+- 減少酒精攝取，注意藥物使用對肝臟的影響。
+- 多攝取cruciferous vegetables，並考慮DIM補充劑以幫助解毒。
+
+#### 結論
+gilincomastia主要與肝臟功能障礙和環境中endocrine disrupters有關。通過健康飲食、定期禁食和適當的營養補充，可以改善肝臟功能，降低gilincomastia的風險。
 </details>
 
 <details>
-<summary>1830. How To Find The Right Bacon On Keto? - Dr.Berg</summary><br>
+<summary>1830. [2018-11-08] How To Find The Right Bacon On Keto? - Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=rQaQUPu7_yM" target="_blank">
     <img src="https://img.youtube.com/vi/rQaQUPu7_yM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：如何選擇健康的培根（Bacon）
 
+#### 核心主題  
+本文主要探討如何在購買培根時閱讀標籤，選擇更健康、更高品質的豬肉產品。
+
+---
+
+#### 主要觀念  
+1. **高品質豬肉的來源**  
+   - 建議優先選擇 farmers market 的豬肉產品，因其通常具有較高的品質。  
+
+2. **標籤.Claims 的分析**  
+   - **All-Natural**: 並非可靠的指標，因「自然」的定義模糊且可能含人工添加物。  
+   - **Raised Without Antibiotics**: 已不符合現實，因豬隻禁止使用抗生素，此聲明多為行銷手段。  
+   - **No Nitrates**: 避免含有硝酸鹽，因其與癌症風險相關。  
+   - **Never Fed Animal By-Products**: 指豬飼料未添加來自家禽或 cattle 的廢棄物，需注意其真實性。  
+
+3. **飼料成分的關注**  
+   - **All Vegetarian Diet**: 通常指猪隻食用了 GMO 玉米和大豆，建議選擇有機產品以確保飼料為非轉基因且無害。  
+   - **Grass-Fed Pigs**: 與牛不同，豬無法主要靠草生存，需配合高能量飼料（如穀物）。  
+
+4. **有機認證的重要性**  
+   - 獵fügCERTIFIED ORGANIC 的豬肉產品，其飼料和環境條件均符合非轉基因且無害的標準。  
+
+---
+
+#### 問題原因  
+1. 市面上培根標籤常使用模糊或行銷性質的文字（如 All-Natural、Vegetarian Diet），消費者難以判斷其真實性。  
+2. 消費者對豬飼料成分和豬隻飼養條件的不了解，導致易受錯誤信息影響。  
+
+---
+
+#### 解cision.Methods  
+1. **選擇 farmers market**：購買本地生產的高品質豬肉產品。  
+2. **閱讀標籤.Claims**：避免含硝酸鹽、動物副產品及轉基因成分的培根。  
+3. **尋找有機認證**：確保飼料和豬隻飼養條件符合健康標準。  
+
+---
+
+#### 健康建議  
+1. **低糖選擇**：盡量選擇不含糖或含糖量極低（<1克）的培根，避免過量攝入添加糖分。  
+2. **注意硝酸鹽含量**：偏好標有「No Nitrates」的产品，以降低健康風險。  
+
+---
+
+#### 結論  
+消費者應提高對豬肉產品標籤的理解，選擇高品質、低風險的培根產品。優先考慮 farmers market 或有機認證的商品，並注意飼料成分和糖分含量，從而做出更健康的食品選擇。
 </details>
 
 <details>
-<summary>1829. How Sugar & Stress Alter Your pH (Acid Alkaline Levels)? : Dr.Berg</summary><br>
+<summary>1829. [2018-11-08] How Sugar & Stress Alter Your pH (Acid Alkaline Levels)? : Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kORcxGHdenw" target="_blank">
     <img src="https://img.youtube.com/vi/kORcxGHdenw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：壓力與糖分如何影響體內pH值
 
+---
+
+#### 核心主題  
+本文探討了 sugars 和 stress 如何影響人體的 pH 值，特別是血液 pH 的平衡。文章強調了酸性或鹼性失衡的原因、症狀及解決方法。
+
+---
+
+#### 主要觀念  
+1. **pH 的重要性**  
+   - 不同部位的 pH 值不同（如唾液、血液、腸道等），但血液 pH 維持在 7.35 到 7.45 的狹窄範圍內。  
+   - 酸性或鹼性的失衡會影響整體健康。
+
+2. **糖分對 pH 的影響**  
+   - 高糖攝取導致乳酸的累積，造成血液過酸（乳酸中毒）。  
+   - 糖分代谢不足會耗竭 B 維生素和鎂，引發疲勞和其他症狀。  
+
+3. **壓力對 pH 的影響**  
+   - 去甲腎上腺素增加導致氫離子（H+）流失，血液過鹼（代償性呼吸性鹼中毒）。  
+   - 高壓力使身體失去鈣和鉀，進一步擾亂 pH 平衡。
+
+---
+
+#### 問題原因  
+1. **糖分攝取過量**  
+   - 糖分未被充分氧化，導致乳酸累積。  
+   - B 維生素（如硫胺素）或鎂不足會惡化情況。  
+
+2. **壓力反應**  
+   - 高 cortisol 水平引發氫離子流失，血液 pH 上升。  
+   - 鈣和鉀的丟失進一步擾亂電解質平衡。  
+
+---
+
+#### 解決方法  
+1. **糖分引起的酸性失衡**  
+   - 控制糖分攝取，避免過量 refined carbs。  
+   - 补充 B 維生素（尤其是硫胺素）和鎂以支持代謝功能。  
+
+2. **壓力引起的鹼性失衡**  
+   - 減輕壓力，通過放鬆技巧或運動來降低 cortisol 水平。  
+   - 使用天然酸化劑如蘋果醋來平衡 pH。  
+   - 补充鈣和鉀以恢復電解質平衡。  
+
+---
+
+#### 健康建議  
+1. **飲食調整**  
+   - 減少精製糖和碳水化合物的攝取量。  
+   - 增加蔬菜和水果的攝取，尤其是富含鉀和鈣的食物（如香蕉、菠菜）。  
+
+2. **營養補充**  
+   - 硫胺素（B1） deficiency 時，可考慮服用 supplements。  
+   - 鈣和鉀的補充應遵循醫師建議。  
+
+3. **壓力管理**  
+   - 啓用壓力 relief 技巧，如冥想、深呼吸或瑜伽。  
+   - 確保充足的睡眠以降低壓力水平。  
+
+---
+
+#### 結論  
+糖分攝取和壓力反應會對血液 pH 平衡產生相反的影響。理解這些機制並採取相應措施（如飲食調整和壓力管理）是維持整體健康的重要步驟。
 </details>
 
 <details>
