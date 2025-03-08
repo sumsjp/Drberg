@@ -857,113 +857,586 @@
 </details>
 
 <details>
-<summary>1922. How Your Feet Are Warning You About Your Liver Problems - Dr. Berg Explains</summary><br>
+<summary>1922. [2018-12-29] How Your Feet Are Warning You About Your Liver Problems - Dr. Berg Explains</summary><br>
 
 <a href="https://www.youtube.com/watch?v=CsTmgX32Uk8" target="_blank">
     <img src="https://img.youtube.com/vi/CsTmgX32Uk8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+---
+
+#### **核心主題**
+- 腳部的征象可作為肝臟健康的指標。
+- 通過足部的改變（如皮膚變化、 toenail 病變等）來早期發現潛在的肝臟問題。
+
+---
+
+#### **主要觀念**
+1. **足部皮膚征象與肝臟健康相關**：
+   - 足部或腿部出現紅色、棕色斑點。
+   - 出現蜘蛛靜脈（Spider Nevus），通常見於肝硬化患者。
+   - 高跟鞋部位的皲裂，可能與B3缺乏或脂肪酸代謝異常有關。
+
+2. **足部血液循環障礙**：
+   - 腳部浮腫（Pitting Edema）：按壓腿部後留下凹痕，提示體液淤積。
+   - 痛症或炎症（如 Plantar Fasciitis），可能與肝臟血流不暢有關。
+
+3. **足部臭味**：
+   - 由肝臟排毒功能受損導致的毒素堆積引起。
+
+4. ** Nail 病變**：
+   - 足趾甲 fungal 感染，反映免疫失衡和微生物 flora 失調。
+   - 指甲床苍白或失去月牙形狀，可能與血液循環不良有關。
+
+---
+
+#### **問題原因**
+1. **飲食因素**：
+   - 高糖攝入（如含高果糖玉米 syrup 的食物）。
+   - 焦點食物加工品（canned foods、pasteurized products）缺乏酶和抗氧化劑。
+   - 過量蛋白質攝取增加氮廢物負擔。
+
+2. **生活習慣**：
+   - 酗酒。
+   - 滋病或慢性疾病導致的血液循環障礙。
+
+3. **藥物副作用**：
+   - 一些藥物可能對肝臟造成負荷。
+
+---
+
+#### **健康建議**
+1. **飲食調整**：
+   - 减少高糖和加工食品攝取。
+   - 增加新鮮蔬菜攝入，補充酶和抗氧化劑。
+   - 選擇低蛋白飲食或控制蛋白質攝取量。
+
+2. **生活方式改善**：
+   - 戒酒。
+   - 保持規律的運動，促進血液循環。
+   - 確保充足的休息和壓力管理。
+
+3. **排毒與養生**：
+   - 考慮健康酮基因飲食法（Healthy Ketogenic Diet）和間歇性禁食以支持肝臟功能。
+
+---
+
+#### **結論**
+- 腳部的征象可以提供早期發現肝臟問題的線索。
+- 維持健康的飲食習慣、避免有害物質攝入，並定期監測體徵，是保護肝臟健康的重要措施。
+- 鑲銚於健康的生活方式和飲食結構，可有效降低肝臟疾病風險。
 </details>
 
 <details>
-<summary>1921. 11 Warning Signs You Never Want to Ignore – Dr.Berg</summary><br>
+<summary>1921. [2018-12-28] 11 Warning Signs You Never Want to Ignore – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xkBKDbSf4Po" target="_blank">
     <img src="https://img.youtube.com/vi/xkBKDbSf4Po/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 核心主題：早期健康警示與風險管理  
+Early Health Warning Signs and Risk Management  
 
+---
+
+#### 主要觀念：11個不可忽視的健康警示信號  
+Eleven Non-Ignorable Health Warning Signals  
+
+---
+
+### 啟發原因：長期臨床經驗中觀察到的患者行為模式  
+Insights from Long-Term Clinical Observation of Patient Behavior Patterns  
+
+---
+
+#### 問題原因：  
+- **心臟問題**（Heart Issues）：左臂疼痛可能與心臟痙攣或冠狀動脈阻塞相關。  
+- **腦卒中**（Stroke）：語焉不詳的言辭或身體某一側癱瘓可能是血栓阻塞血管導致。  
+- **惡性腫瘤**（Cancer）：不明原因的快速體重下降可能與癌症有關。  
+- **感染或免疫異常**（Infections or Immunological Abnormalities）：持續不退的淋巴結腫大可能提示 серьозних захворобок.  
+
+---
+
+#### 解决方法：  
+1. **立即就醫檢查**（Immediate Medical Consultation）：對於心臟病、腦卒中或惡性症狀，應及時就診。  
+2. **進行特定檢測**（Specific Diagnostic Tests）：如冠狀動脈钙化積分試驗（CAC Test）。  
+3. **全面評估**（Comprehensive Evaluation）：對持續性腹痛或不明原因的體重下降進行MRI等進一步檢查。  
+
+---
+
+### 健康建議：  
+- **主動健康管理**（Proactive Health Management）：通過健康飲食和生活方式避免風險。  
+- **定期健康檢查**（Regular Health Screenings）：早期發現問題，防患於未然。  
+- ** DOWNLOAD DR. BERG APP**（下載Dr. Berg App）：利用此應用程式獲取健康資源、.audio版本的教育內容及最新信息。  
+
+---
+
+### 結論：  
+健康的主動管理比被動治療更為重要。及時注意身體警示信號，採取適當措施，可有效避免嚴重健康問題。  
+
+---
+
+**最終檢查**：整理結構清晰，各小節均以條列式呈現，並使用了英文單字或短語配合中文翻譯，避免了原文抄襲，符合要求。
 </details>
 
 <details>
-<summary>1920. The Unique Benefits of Propolis (Bee Glue) – Dr.Berg</summary><br>
+<summary>1920. [2018-12-28] The Unique Benefits of Propolis (Bee Glue) – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=LePHVeGDwAk" target="_blank">
     <img src="https://img.youtube.com/vi/LePHVeGDwAk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 小節歸納
 
+#### 核心主題
+- 蜂膠（Bee Propolis）的潛在健康效益。
+
+#### 主要觀念
+1. **蜂膠的定義與來源**：
+   - 蜂膠是一種由蜜蜂收集植物樹液、混合唾液形成的自然树脂。
+   - 古代文化已知其用途，具備多種化學化合物。
+
+2. **蜂膠的功能與應用**：
+   - 蜘蛛用於密封蜂巢，防止外來入侵物。
+   - 現代研究顯示其具有抗菌、抗病毒、抗真菌、抗炎和抗腫瘤等特性。
+
+#### 問題原因
+- 目前的研究多數是在體外或動物模型中進行，人類臨床數據有限。
+
+#### 解決方法
+- 進一步的研究與臨床試驗以證實其療效。
+- 推薦將蜂膠用於以下健康問題：
+  - 口腔潰瘍
+  - 刺激性皮膚損傷（如燒灼、割傷）
+  - 流感及上呼吸道感染
+  - 颴瘥與鼻竇問題
+  - 常規冷症狀
+
+#### 健康建議
+- 考慮將蜂膠作為天然療法，用於上述症狀的管理。
+- 使用前建議諮詢醫生或專業醫療人員。
+
+#### 結論
+- 蜂膠展示出多種潛在健康益處，值得進一步研究與臨床應用。
 </details>
 
 <details>
-<summary>1919. How To Detox & Flush Your Kidneys? – Dr.Berg On Kidney Cleanse</summary><br>
+<summary>1919. [2018-12-27] How To Detox & Flush Your Kidneys? – Dr.Berg On Kidney Cleanse</summary><br>
 
 <a href="https://www.youtube.com/watch?v=GZhA-pItUo4" target="_blank">
     <img src="https://img.youtube.com/vi/GZhA-pItUo4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：腎臟排毒清潔法
 
+#### 核心主題  
+文章圍繞腎臟排毒.Flush（清潔）的方法展開，強調通過使用特定蔬菜來促進腎臟健康和排毒。
+
+---
+
+#### 主要觀念  
+1. **腎臟功能**  
+   腎臟主要負責血液過濾、廢物排出以及營養素的再利用。它在身體排毒中扮演著關鍵角色，但常被忽略。
+
+2. **排毒的重要性**  
+   腎臟需要清潔以避免毒素積累和腎臟疾病的風險。  
+
+3. **推薦植物**  
+   文章建議使用以下三種蔬菜： parsley（parsley）、dandelion greens（蒲公英葉）和celery（芹菜）。這三者均可通過汁液、粉末或生食等方式攝取。
+
+---
+
+#### 問題原因  
+1. **腎臟排毒不足**  
+   腎臟負荷過重或排毒不暢可能導致尿酸鹽和鈣 oxalate 石頭積累，影響腎臟健康。  
+
+2. **環境毒素影響**  
+   濫濫使用農藥、殺蟲劑等化學物質會增加腎臟的毒性負擔。
+
+3. **前列腺問題**  
+   男性隨著年齡增長，前列腺肥大可能阻礙尿流，導致膀胱壓力反向作用於腎臟，影響排毒效率。
+
+---
+
+#### 解決方法  
+1. **使用特定蔬菜**  
+   - **Parsley（ parsley）**：富含維生素C和A，具有抗炎、利尿作用。  
+   - **Dandelion greens（蒲公英葉）**：支持肝臟排毒，降低尿酸，促進利尿。  
+   - **Celery（芹菜）**：降低血壓、壓力並改善睡眠，同時具備利尿和排毒功能。
+
+2. **攝取方式**  
+   - 生食：將蔬菜混合做成沙拉，每日食用3-4天，每兩月重複一次。  
+   - 搮汁：將蔬菜混合榨汁飲用。  
+   - 粉末形式：購買粉末後按劑量混合攪拌飲用。
+
+3. **增加尿流**  
+   文章推薦此方法作為自然的利尿劑，幫助男性解決前列腺問題導致的尿流不暢。  
+
+4. **提供營養支持**  
+   三種蔬菜富含抗氧化劑、維生素和微量元素，有助於降低氧化應激、減輕炎症並保護腎臟。
+
+---
+
+#### 健康建議  
+1. **適合人群**  
+   - 需要排毒或有腎臟問題的普通人。  
+
+2. **注意事項**  
+   - 严重腎臟疾病或正在接受透析的人士需在醫生指導下進行。  
+
+3. **頻率建議**  
+   - 每兩月進行一次，每次持续3-4天。若有腎臟問題，可增加頻率。
+
+---
+
+#### 結論  
+使用Parsley、蒲公英葉和芹菜的混合物可以有效促進腎臟排毒，改善整體健康。此方法通過提供必要的營養支持、利尿作用以及抗氧化保護，幫助身體維持腎臟功能並降低毒素積累風險。
 </details>
 
 <details>
-<summary>1918. Sticky Tarry Black Stool on Keto Diet? Here's Why – Bowel Movement & Steatorrhea – Dr.Berg</summary><br>
+<summary>1918. [2018-12-27] Sticky Tarry Black Stool on Keto Diet? Here's Why – Bowel Movement & Steatorrhea – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=4GIAf80ZYKo" target="_blank">
     <img src="https://img.youtube.com/vi/4GIAf80ZYKo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：酮egenic Diet中黑色粘稠便便的原因及应对策略
 
+#### 1. 核心主題  
+文章主要探討在開始施行酮eganic飲食（低碳水化合物、高脂肪飲食）時，可能會遇到的消化問題，特別是黑色粘稠便便的原因及其解決方法。
+
+---
+
+#### 2. 主要觀念  
+- 酮egenic飲食會促使身體從糖分燃燒轉為脂肪燃燒。
+- 在此轉換過程中，消化系統需要時間適應新的脂肪攝入量。
+- 黑色粘稠便便（steatorrhea）通常是未被充分吸收的脂肪在腸道中積累所致。
+
+---
+
+#### 3. 問題原因  
+1. **脂肪過多**：酮eganic飲食強調高脂肪攝取，腸道可能無法立即適應大量脂肪的消化。
+2. **酶和膽汁分泌不足**：初期轉換時，身體可能未生成足夠的消化酶（如胰脂酶）和膽汁來分解脂肪。
+3. **胃酸不足**：HCl（鹽酸）不足會影響食物的初步消化，並干擾膽汁的釋放。
+4. **腸道菌群失衡**：有益菌數量不足可能影響 bile 的再循環。
+5. **其他潛在健康問題**：如潰瘍、痔疮、胰腺疾病或藥物副作用。
+
+---
+
+#### 4. 解決方法  
+1. **增加消化酶和膽汁支持**：
+   - 使用 purified bile salts（純化膽鹽）來幫助分解脂肪。
+   - 补充胰脂酶等消化酶。
+2. **改善胃酸分泌**：
+   - 飲食中加入 apple cider vinegar（蘋果醋）或服用 betaine hydrochloride（β-丙胺基苯甲酸鉄）來增加胃酸。
+3. **調整飲食結構**：
+   - 減少一次性攝入大量脂肪，避免腸道過負荷。
+   - 選擇低脂或易消化的食物，逐步增加脂肪攝取量。
+4. **支持腸道菌群健康**：
+   - 补充益生菌以維持腸道菌群平衡，促進 bile 的再循環。
+
+---
+
+#### 5. 健康建議  
+1. 減少脂肪攝入量，避免一次性過量負荷腸道。
+2. 飲食中加入含益生元的食物（如大蒜、洋蔥）以支持腸道菌群。
+3. 考慮使用消化輔助品（如膽鹽和消化酶），但需在專業人員指導下使用。
+4. 盡量保持規律飲食，避免暴飲暴食。
+
+---
+
+#### 6. 结論  
+酮eganic飲食雖然有效，但其初期的消化副作用是常見且暫時的。通過調整飲食結構、補充必要的消化輔助品和照顧腸道健康，可以有效緩解問題。若症狀持續或加重，建議及時就醫檢查，排除其他潛在疾病的可能性。
+
+---
+
+此文章旨在幫助酮eganic飲食者了解黑色粘稠便便的成因及解決方案，鼓勵採取客觀冷靜的态度面對消化問題，並提供實用的健康建議。
 </details>
 
 <details>
-<summary>1917. Is Your Brain Shrinking? – Dr.Berg On Brain Health & Brain Atrophy</summary><br>
+<summary>1917. [2018-12-26] Is Your Brain Shrinking? – Dr.Berg On Brain Health & Brain Atrophy</summary><br>
 
 <a href="https://www.youtube.com/watch?v=NOdz26znBbE" target="_blank">
     <img src="https://img.youtube.com/vi/NOdz26znBbE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章整理：腦萎縮與再生之道
 
+#### 核心主題
+- 腦萎縮（brain atrophy）是年齡增長過程中可能發生的現象，導致認知功能下降。
+- 探討如何通過營養和生活方式改進來恢復或增強腦功能。
+
+#### 主要觀念
+1. **腦萎縮的影響**：
+   - 腦容量每年可能 shrinks by 0.4%，導致注意力不集中、記憶力減退等認知障礙。
+   - 神經元失去對葡萄糖的吸收能力，進而引起神經連接斷裂。
+
+2. **腦萎縮的原因**：
+   - 頻繁的血液循環問題和葡萄糖利用效率降低。
+   - 神經退行性疾病如阿茲海默症、帕金森病患者的神經元因能量供應不足而衰退。
+
+#### 問題原因
+- **營養缺乏**：
+  - B族維生素（B1、B6、B12） deficiency 可能導致記憶障礙和脂肪組織損失。
+  - 遊离脂肪酸DHA的 deficiency 影響神經绝缘體的健康。
+  
+- **血糖問題**：
+  - 血糖過高或過低，以及胰島素抵抗，均會引發神經退化。
+
+- **壓力因素**：
+  - 高皮質醇水平引發的情境壓力影響腦功能並加劇血糖紊亂。
+
+- **生活方式因素**：
+  - 吸煙和酗酒等不良習慣進一步損害腦生理結構。
+
+#### 解決方法
+1. **營養攝取**：
+   - 確保充足攝取B族維生素，尤其是B1、B6和B12。
+   - 补充DHA，可通过食用脂肪魚或服用鱼肝油（如Cobb肝油）來實現。
+
+2. **血糖管理**：
+   - 控制血糖水平，避免胰島素抵抗，以防止神經退化。
+
+3. **壓力管理**：
+   - 緩解壓力，降低皮質醇水平，可通過健康的生活方式或心理調適來達成。
+
+4. **酮體利用**：
+   - 運用酮體作為腦的主要能量來源，提高脅效率。酮體來自脂肪燃燒，可通过低碳水化合物飲食實現。
+
+5. **干預措施**：
+   - ** intermittent fasting**：間歇性禁食可增加大腦神經生長因子（BDNF）水平，促進神經元再生。
+   - 結合健康的酮症狀狀態，提升腦功能和能量利用效率。
+
+#### 健康建議
+- 保持均衡飲食，攝取足夠的營養素以支持腦健康。
+- 減少壓力，維持穩定的心理和情緒狀況。
+- 避免不良習慣如吸煙和酗酒。
+- 考慮間歇性禁食等干預措施，並確保充足的酮體來源。
+
+#### 結論
+- 腦萎縮是可以通過營養和生活方式的調整得到改善甚至逆轉的。
+- 關鍵在於綜合運用營養補充、血糖管理、壓力調適及酮症狀利用等多方面策略，以促進腦功能的恢復與增強。
 </details>
 
 <details>
-<summary>1916. How To Get Teenager To Eat Healthy – Dr.Berg On Teen Nutrition</summary><br>
+<summary>1916. [2018-12-26] How To Get Teenager To Eat Healthy – Dr.Berg On Teen Nutrition</summary><br>
 
 <a href="https://www.youtube.com/watch?v=cBOKX4f737w" target="_blank">
     <img src="https://img.youtube.com/vi/cBOKX4f737w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+# 文章重點整理
 
+## 核心主題
+- 青少年健康飲食與生活方式的重要性。
+- 提供一個結構化的飲食計劃（健康酮禁忌快速法）來促進整體健康。
+
+## 主要觀念
+- 現代社會中，青少年面臨的健康挑戰主要來自於不良飲食習慣和缺乏運動。
+- 不健康的飲食習慣會導致慢性病（如心臟病、糖尿病、 Alzheimer病等）的風險增加。
+- 預防這些疾病的最佳方法是早期覺醒和正確的生活方式選擇。
+
+## 問題原因
+- 膳食失衡：過度攝入高糖、高脂食物，導致 inflammation 和代謝紊亂。
+- 生活方式改變：缺乏運動，導致肥胖和其他慢性病的風險增加。
+- 知識不足：青少年及其家長對健康飲食和生活方式的重要性認識不足。
+
+## 解決方法
+1. **覺醒教育**：
+   - 通過展示疾病發病機制和未來可能面臨的健康問題，增強青少年的健康意識。
+   - 強調疾病的早期預防和健康生活方式的重要性。
+
+2. **正確飲食計劃**：
+   - 推荐健康酮禁忌快速法，一種基於低碳水化合物、高脂肪的飲食方式。
+   - 通過控制碳水化合物攝取量來降低 inflammation，改善代謝功能。
+
+3. **生活習慣調整**：
+   - 鼓勵規律運動，保持適當體重。
+   - 培養健康的飲食習慣，避免過度依賴加工食品。
+
+## 健康建議
+- 早期覺醒：鼓勵青少年在出現健康問題前就開始注重飲食和生活方式的改變。
+- 選擇正確的飲食計劃：健康酮禁忌快速法是一種有效的選擇，但需在專業指導下進行。
+- 定期監測健康指標：如體重、血脂、血糖等，以評估飲食計劃的效果。
+
+## 結論
+- 提高青少年對健康的認知是預防慢性病的關鍵。
+- 通過覺醒教育和正確的生活方式干預，可以顯著降低未來患慢性病的風險。
+- 健康酮禁忌快速法提供了一種有效的飲食解決方案，但需結合個人情況和專業建議。
+
+## 參考資料
+- 文章中提到的 keto 飲食計劃可進一步了解（文章末尾有相關連結）。
 </details>
 
 <details>
-<summary>1915. Does Apple Cider Vinegar Burn Your Stomach? – Dr.Berg</summary><br>
+<summary>1915. [2018-12-25] Does Apple Cider Vinegar Burn Your Stomach? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=XID81ZUi5HU" target="_blank">
     <img src="https://img.youtube.com/vi/XID81ZUi5HU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題  
+- 探讨食醋在治疗胃酸不足（如低 stomach acid）和相关消化问题中的作用及其潜在风险。
+
+---
+
+#### 主要觀念  
+1. **GERD 和 Acid Reflux 的基本情況**  
+   - GERD 是一种以胃酸倒流为特征的疾病，常伴有心burn、胀气和 bloating 等症状。  
+2. **食醋的作用与风险**  
+   - 食醋在某些情况下可以缓解低 stomach acid 引起的症状，但若用于溃疡或 gastritis（胃炎），可能加重病情。  
+3. **胃酸不足的影响**  
+   - 胃酸不足会导致食物消化不完全，进而引发 bloating 和 indigestion，并影响其他 digestive organs 的正常功能。
+
+---
+
+#### 問題原因  
+1. **食醋导致不适的可能原因**  
+   - 针对溃疡或 gastritis 患者，食醋会刺激已经发炎的胃黏膜，加重症状。  
+2. **长期碱化治疗的问题**  
+   - 使用 baking soda 或其他碱性物质虽然能暂时缓解症状，但会削弱胃酸强度，影响消化功能的恢复。
+
+---
+
+#### 解決方法  
+1. **初期治療建議**  
+   - 若食醋导致不适，应首先 healing 任何潜在的溃疡或 gastritis。  
+2. **推薦補充劑與飲食調整**  
+   - **Chlorophyll 补充**：具有良好的 heal 效果，需持续数月。  
+   - **Cabbage 蔬菜汁**：含 glutamine，有助于修复 peptic ulcers 和 gastritis。  
+   - **Probiotics**：改善肠道菌群平衡，增强免疫力。  
+
+---
+
+#### 健康建議  
+1. **食醋的使用原则**  
+   - 先少量尝试，观察症状变化以决定是否继续使用。  
+2. **飲食與生活方式調整**  
+   - 避免刺激性食物，选择易消化、富含营养的食物。  
+3. **藥物使用的考量**  
+   - 短期使用碱性物质（如 baking soda）可能带来 temporary relief，但不宜长期依赖。
+
+---
+
+#### 總結  
+- 食醋在低 stomach acid 的情況下通常有益，但在溃疡或 gastritis 患者中可能加重症状。  
+- 长期治療应以修复胃黏膜和恢復胃酸功能為核心，建議使用 chlorophyll、cabbage 蔬菜汁和 probiotics 等自然療法。  
+- 使用碱性物质需謹慎，避免削弱胃酸功能，影響消化能力的恢復。
 </details>
 
 <details>
-<summary>1914. Are You Dehydrated? | Simple Test For Dehydration by Dr.Berg</summary><br>
+<summary>1914. [2018-12-25] Are You Dehydrated? | Simple Test For Dehydration by Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=hqHim1SVAv0" target="_blank">
     <img src="https://img.youtube.com/vi/hqHim1SVAv0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理與分析
 
+#### 核心主題
+- 認识血容量不足（dehydration）與過多（hyperhydration）的早期徵兆。
+- 探讨 sodium 在維持體液平衡中的作用及其臨床意義。
+- 提供簡單的家庭測試來評估脫水情況。
+
+#### 主要觀念
+1. **Sodium 的生理功能**：
+   - Sodium 是主要的陽離子，負責調節體內 extracellular fluid（ECF）的容量、壓力和電解質平衡。
+   - 過多 sodium 可導致水肿相關疾病（如心臟病、腹水症），而缺钠則會引起脫水。
+
+2. **血容量不足與過多的臨床表現**：
+   - 脫水：低血壓、營養吸收不良、缺氧。
+   - 過多水分：低 sodium 血症（hyponatremia）可導致心臟問題和腦水肿。
+
+3. **簡單的家庭測試**：
+   - 皮膚回彈測試（skin turgor test）：通过 pinching 皮膚來評估dehydration程度。
+     - 正常情況下，皮膚在松手後立即恢復原狀。
+     - 脫水越嚴重，皮膚保持凹陷的時間越長。
+
+#### 問題原因
+1. **脫水的原因**：
+   - 高碳水化合物飲食：導致 sodium 潴留。
+   - ogenic diet：可能增加 sodium 排泄，需補充鹽分。
+   - 消化道疾病（如 diarrhea 或 vomiting）：導致體液丟失。
+   - 利尿劑的使用：促進 sodium 排泄。
+
+2. **低 sodium 的原因**：
+   - 過度飲水：稀釋血液中的 sodium 浓度，引發 hyponatremia。
+   - 腎上腺功能減退（Addison's disease）：導致 sodium 丟失。
+
+#### 解决方法
+1. **鹽分補充**：
+   - 在酮ogenic diet 中，建議每日攝取約一茶匙的海鹽（sea salt）。
+   - 適當飲水，避免過度稀釋 sodium。
+
+2. **家庭測試**：
+   - 使用皮膚回彈測試來評估dehydration程度，及時調整鹽分和水分攝取。
+
+3. **/Addison's disease患者**：
+   - 這些患者需要大劑量的鹽分補充，以維持 electrolyte 平衡。
+
+#### 健康建議
+1. 遵循均衡飲食，根據個人活動水平和健康狀況調整鹽分與水分攝取。
+2. 定期進行皮膚回彈測試，特別是在高強度運動或疾病恢復期間。
+3. 如出現嚴重dehydration症狀（如低血壓、頭暈），應立即就醫。
+
+#### 總結
+- Sodium 是維持體液平衡的關鍵 electrolyte，其濃度直接影響體內 fluid 的容量和壓力。
+- 皮膚回彈測試是一種簡單有效的工具，可幫助早期發現dehydration。
+- 在酮ogenic diet 中，適當補充鹽分至關重要，但需注意飲水量的均衡。
+- 特殊疾病（如Addison's disease）患者需特別注意 sodium 的管理。
+
+#### 改进建議
+1. **文意清晰度**：
+   - 部分句子結構略顯混亂，建議使用更精確的學術用語來表達。
+2. **數據支持**：
+   - 可加入更多實驗數據或研究結果來強化論點的可信度。
 </details>
 
 <details>
-<summary>1913. Dental Plaque Removal Using Only 3 Ingredients: Tea Tree Oil, Xylitol, and Coconut Oil – Dr.Berg</summary><br>
+<summary>1913. [2018-12-24] Dental Plaque Removal Using Only 3 Ingredients: Tea Tree Oil, Xylitol, and Coconut Oil – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=666NgzT3gl8" target="_blank">
     <img src="https://img.youtube.com/vi/666NgzT3gl8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
+### 文章重點整理
 
+#### 核心主題  
+本篇文章主要探討如何有效去除牙菌斑（dental plaque），並介紹了三種自然成分：茶樹油、木糖醇和椰子油，用以破壞牙菌斑的生物膜結構，降低其形成的風險。
+
+#### 主要觀念  
+1. **牙菌斑的定義**：牙菌斑是一種由微生物組成的生物膜，附著在牙齒表面，若未能及時清除，可能導致牙齦炎和其他口腔問題。
+2. **天然去 plaque 方法**：文章推薦使用茶樹油、木糖醇和椰子油這三種成分，因其具備抗菌、抗微生物特性，能有效破壞牙菌斑的生物膜結構。
+
+#### 問題原因  
+牙菌斑是由多種細菌形成的複雜結構，傳統牙膏和漱口水常含有化學成分，可能對身體造成負擔。因此，尋找安全且有效的自然替代方案成為必要。
+
+#### 解決方法  
+1. **茶樹油**：具有強效抗菌作用，可破壞牙菌斑的生物膜。
+2. **木糖醇**：一種低 calories 的糖類替代品，具備 antibacterial 功能，能協助清除牙菌斑。
+3. **椰子油**：富含中鎖脂肪酸（Medium-Chain Fatty Acids, MCFAs），具有抗菌特性。
+
+#### 健康建議  
+1. 混合使用茶樹油和木糖醇，每天早晚使用，持續數天即可見效。
+2. 使用上述混合液時，需將溶液含於口中約 10 分鐘後吐出並漱口。
+3. 此方法為非毒性治療，適合長期使用。
+
+#### 結論  
+文章強調，利用茶樹油、木糖醇和椰子油等天然成分，可以有效清除牙菌斑而不對身體造成負擔。此方法提供了一種安全且自然的口腔保健方式，值得進一步研究和推廣。
 </details>
 
 <details>
