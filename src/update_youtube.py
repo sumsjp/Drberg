@@ -13,6 +13,7 @@ from datetime import datetime
 from lib.mytube import download_subtitle, get_video_list
 from lib.myai import get_summary
 from lib.mylog import setup_logger
+from .verify_chinese import detect_chinese
 
 # 設定 logger
 logger = setup_logger('youtube_update')
@@ -196,9 +197,20 @@ def summerize_script():
                 with open(script_path, 'r', encoding='utf-8') as f:
                     content = f.read()
                 
-                # 產生摘要
-                summary_text = get_summary(content)
-                
+                try_count = 0
+                threshold = 0.3
+                while True:
+                    # 產生摘要
+                    summary_text = get_summary(content)
+                    chinese_ratio = detect_chinese(summary_text)
+                    if chinese_ratio > threshold:
+                        break
+                    try_count += 1
+                    if try_count > 10:
+                        raise Exception(f"無法產生中文摘要")
+                    else:
+                        logger.warning(f"中文比例過低 ({chinese_ratio:.2f}):第{try_count}次")
+            
                 # 寫入摘要檔案
                 with open(summary_file, 'w', encoding='utf-8') as f:
                     f.write(summary_text)
@@ -207,7 +219,7 @@ def summerize_script():
                 processed_count += 1
                 
             except Exception as e:
-                logger.info(f"摘要產生失敗 {fname}: {str(e)}")
+                logger.error(f"摘要產生失敗 {fname}: {str(e)}")
                 continue
     
     if processed_count > 0:

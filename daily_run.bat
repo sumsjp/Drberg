@@ -9,7 +9,6 @@ call Scripts\activate.bat
 REM 執行 Python 腳本
 git pull
 python src/update_youtube.py
-python src/verify_chinese.py
 git pull
 git add .
 git commit -am .
