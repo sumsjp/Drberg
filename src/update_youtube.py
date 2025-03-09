@@ -113,10 +113,7 @@ def download_script(df):
     preferred_langs = ['en']
     
     # 從最後一筆往前處理
-    lst = df.index
-    if random.random() < 0.5:
-        lst = reversed(lst)
-    for idx in lst:
+    for idx in reversed(df.index):
         if download_count >= max_downloads:
             logger.info(f"已達到最大下載數量 ({max_downloads})")
             break
