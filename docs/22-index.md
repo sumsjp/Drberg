@@ -1637,7 +1637,7 @@
 </details>
 
 <details>
-<summary>2272. Should a Woman Who is Pregnant or Breastfeeding do Intermittent Fasting?</summary><br>
+<summary>2272. [2019-07-04] Should a Woman Who is Pregnant or Breastfeeding do Intermittent Fasting?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=AatvLqKEH7U" target="_blank">
     <img src="https://img.youtube.com/vi/AatvLqKEH7U/maxresdefault.jpg" 
@@ -1646,11 +1646,57 @@
 
 # Should a Woman Who is Pregnant or Breastfeeding do Intermittent Fasting?
 
+### 核心主題  
+- **regnancy and breastfeeding nutrition**  
+  - 論述了孕產婦在進行任何形式的斷食（如 intermittent fasting）時的風險和限制。  
+  - 强調健康飲食的重要性，尤其是健康的酮ogenic diet，以保障母體及胎兒的營養需求。  
 
+### 主要觀念  
+- **孕期營養需求**  
+  - 孕婦需攝取足夠的營養素，因其「吃兩人份」的特性，任何營養缺乏都會被放大。  
+  - 違反此原則可能引發胎兒發育問題，包括神經系統、骨骼結構和免疫功能等。  
+
+- **斷食法的風險**  
+  - 在regnancy和breastfeeding期間進行intermittent fasting可能增加母體營養缺乏的风险。  
+  - 具體來說，若孕婦已有潛在的微量營養素不足，斷食會進一步惡化此問題。  
+
+### 問題原因  
+- **營養缺乏的影響**  
+  - 胎兒對DHA、維生素A、維生素D等營養素特別敏感，缺乏這些 nutrient 可能導致胎兒的腦部發育遲缓、視力問題以及keletal畸形。  
+  - 母乳哺育期間，若營養不足會影響乳汁的營養密度，進而影響嬰兒的健康發展。  
+
+- **斷食法的局限性**  
+  - 斷食雖然降低營養需求，但孕婦仍需攝取足夠的營養以支持胎兒和自身的生理需求。  
+  - 孕婦常見的cravings（如pica現象）通常反映微量營養素缺乏，而非 simples的食欲驅使。  
+
+### 解決方法  
+- **健康的酮ogenic diet**  
+  - 推荐pregnant women采用健康的酮ogenic飲食，以避免因高糖攝取引發的insulin resistance和gestational diabetes。  
+  - 高脂肪、低碳水化合物的飲食模式有助于穩定血糖，降低胎兒代謝疾病的风险。  
+
+### 健康建議  
+- **關鍵食物來源**  
+  - **DHA**：來自cod liver oil和wild-caught salmon，對胎兒腦部結構發展至關重要。  
+  - **維生素A和D**：cod liver oil是最佳來源，有助于胎兒免疫系統和骨骼發育。  
+  - **碘**： seafood（如海帶、海藻）是優質來源，防止胎兒neurodevelopmental deficits。  
+
+- **微量營養素的攝取**  
+  - 確保攝取足夠的trace minerals（如鐵、鋅、鈣），以預防pica等異食現象及相關健康問題。  
+
+- **均衡飲食**  
+  - 消耗高品質蛋白質來源（如eggs和grass-fed meats）。  
+  - 多攝取greens（如菠菜、羽衣甘藍）以補充維生素C、カリウム、マグネ슘等。  
+
+### 結論  
+- **斷食法的不推薦**  
+  - 避免在regnancy和breastfeeding期間進行intermittent fasting，以防營養缺乏影響胎兒發育及母體健康。  
+
+- **健康飲食的重要性**  
+  - 健康酮ogenic diet是pregnant women的理想選擇，可最大限度地保障母嬰健康，並降低未來代謝疾病的風險。
 </details>
 
 <details>
-<summary>2271. Are You on the Keto-ish Diet?</summary><br>
+<summary>2271. [2019-07-04] Are You on the Keto-ish Diet?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ydQuw8JtRo0" target="_blank">
     <img src="https://img.youtube.com/vi/ydQuw8JtRo0/maxresdefault.jpg" 
@@ -1659,11 +1705,53 @@
 
 # Are You on the Keto-ish Diet?
 
+### 文章重點整理
 
+#### 核心主題
+- 酮飲食（Keto Diet）的不同做法及其對健康和生活方式的影響。
+- 探讨酮飲食在不同層面的应用及其效果。
+
+#### 主要觀念
+1. **酮飲食的多樣性**：
+   - 健康酮：強調高品質、營養密集的食物，結合間歇性禁食。
+   - 五二酮（5:2 Keto）：週末嚴格執行酮飲食，平日則較為自由。
+   - 酮（Dirty Keto）：主要依循低碳水化合物原則，但食物來源可能低品質。
+   - 懶人酮（Lazy Keto）：簡單降低碳水攝取，但不限制熱量或食物數量。
+
+2. **酮飲食的三個目標**：
+   - 解決當前身體問題（如肥胖、炎症等）。
+   - 培養健康的生活習慣，使酮飲食成為自然反應而非刻意 counting。
+   - 建立健康的儲備，增強整體健康韌性，以應對短期偏離。
+
+3. **常見問題**：
+   - 過度消費某些碳水化合物、酒精及其他不符合酮飲食原則的食品，影響健康效果。
+   - 新鮮蔬菜攝取不足，導致營養失衡。
+
+#### 解決方法
+- 根據個人健康目標選擇適合的酮飲食方式。
+- 提倡食用高品質食物（如草飼、牧場放養產品），並結合間歇性禁食來提高酮症效果。
+- 重視建立健康的儲備，使其成為 flexibly 践行酮飲食的基礎。
+
+#### 健康建議
+1. **飲食質量**：優先選擇 nutrient-dense 和 high-quality 的食物。
+2. **間歇性禁食**：作為增強酮症效應的有效工具。
+3. **習慣養成**：將健康飲食融入日常生活，避免因環境或情緒因素影響飲食選擇。
+4. **儲備健康**：通過持續的健康生活方式建立足夠的健康儲備，以應對可能的短期偏離。
+
+#### 結論
+- 酮飲食的效果取決於個人實施的方式和目標。
+- 建立健康的儲備是最為重要的長期策略，使酮飲食成為一種工具而非限制。
+
+---
+
+### 提出問題
+1. 酮飲食中，哪種做法最適合短期快速減重？請提供科學依據支持您的答案。
+2. 在建立健康儲備的過程中，如何量化個人的健康改善進展？
+3. 如何有效避免酮飲食中因缺乏足夠蔬菜攝取導致的營養失衡問題？
 </details>
 
 <details>
-<summary>2270. Are You Paying $12 a Gallon for BOTTLED WATER?</summary><br>
+<summary>2270. [2019-07-03] Are You Paying $12 a Gallon for BOTTLED WATER?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3yKLWYBCi7E" target="_blank">
     <img src="https://img.youtube.com/vi/3yKLWYBCi7E/maxresdefault.jpg" 
@@ -1672,11 +1760,55 @@
 
 # Are You Paying $12 a Gallon for BOTTLED WATER?
 
+### 核心主題  
+- 比較瓶裝水和自來水的成本與潛在危害。  
+- 推荐使用高效率的淨水器來改善飲用水品質。  
 
+---
+
+### 主要觀念  
+1. 瓶裝水的成本高昂：  
+   - 16.9盎司的瓶裝水售價約 $1.5，換算成每加侖成本為 $12，價格昂貴且不環保。  
+   - 虽然大批量購買可以降低成本，但仍難免塑料污染和潛在化學物質危害。  
+
+2. 自來水的隱憂：  
+   - 含有氯、重金屬、藥物殘留等有害物質。  
+   - 可能存在苯荓脂等農藥和其他污染物。  
+
+---
+
+### 問題原因  
+- 瓶裝水的高成本和塑料污染問題。  
+- 自來水中的化學污染物可能對人體健康造成影響。  
+
+---
+
+### 解決方法  
+1. 使用淨水器：  
+   - 安裝廚房或淋浴淨水器，甚至全屋淨水系統。  
+   - 推荐使用「Crystal Quest」浄水器，其特點包括：  
+     - 四級過濾技術，有效去除多種污染物。  
+     - 濾芯壽命長達2000加侖，成本效益高。  
+
+2. 替代方案：  
+   - 考慮其他品牌淨水器，如Brita，但需注意更換濾芯的頻率和成本。  
+
+---
+
+### 健康建議  
+- 避免直接飲用未凈化的自來水。  
+- 使用高效率的淨水器以去除潛在有害物質，確保飲用水的安全性和健康性。  
+
+---
+
+### 結論  
+- 高昂的 bottle water 成本和環保問題使其不宜長期使用。  
+- 自來水中可能存在的污染物對健康有風險。  
+- 選擇合適的淨水器是改善飲用水品質的有效方法，尤其推薦「Crystal Quest」浄水器。
 </details>
 
 <details>
-<summary>2269. Too Scared to do Fasting (or Intermittent Fasting)?</summary><br>
+<summary>2269. [2019-07-03] Too Scared to do Fasting (or Intermittent Fasting)?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=85cT2ctYvHI" target="_blank">
     <img src="https://img.youtube.com/vi/85cT2ctYvHI/maxresdefault.jpg" 
@@ -1685,11 +1817,37 @@
 
 # Too Scared to do Fasting (or Intermittent Fasting)?
 
+### 核心主題：間歇性斷食的有效實施與其健康益處
 
+#### 主要觀念：
+1. **間歇性斷食的核心目的**：主要目標應是消除饥饿感和控制食欲，而非立即追求體重減輕。
+2. **酮飲食的作用**：酮飲食通過降低碳水化合物攝取，幫助身體進入酮osis，利用脂肪作為能量來源。
+
+#### 問題原因：
+1. **對斷食的恐懚**：個案因極度擔心饥饿和肌肉流失而抗拒斷食。
+2. **不穩定的飲食習慣**：頻繁進食導致食物攝取不滿足，造成體重不易下降及睡眠障礙。
+
+#### 解决方法：
+1. **逐步調整飲食結構**：
+   - 開始階段采用三餐，避免零食。
+   - 增加脂肪攝取以增加飽腹感，延長斷食時間。
+2. **降低碳水化合物攝取**：初期保持低碳水化合物飲食，後期可根據適應情況調整脂肪攝量。
+
+#### 健康建議：
+1. **逐步實施策略**：
+   - 從三餐開始，逐漸減少至二餐，最終可考慮一餐。
+   - 推遲進餐時間，使身體適應更長的斷食期間。
+2. **心理調适**：克服對饥饿和肌肉流失的恐懚，樹立長期健康目標。
+
+#### 結論：
+1. **間歇性斷食的綜合利益**：除了體重管理，還能提升認知功能、情緒和整體健康。
+2. **個案飲食調整的重要性**：通過科學方法逐步實施，可有效克服斷食障礙，實現健康目標。
+
+此整理結構清晰地展示了文章的核心思想及其在健康飲食策略中的應用。
 </details>
 
 <details>
-<summary>2268. How to Rid Pain Coming From the Top Of Your Shoulder – Dr.Berg on Simple Stretch For Shoulder Pain</summary><br>
+<summary>2268. [2019-07-02] How to Rid Pain Coming From the Top Of Your Shoulder – Dr.Berg on Simple Stretch For Shoulder Pain</summary><br>
 
 <a href="https://www.youtube.com/watch?v=DL74upsPqZs" target="_blank">
     <img src="https://img.youtube.com/vi/DL74upsPqZs/maxresdefault.jpg" 
@@ -1698,11 +1856,53 @@
 
 # How to Rid Pain Coming From the Top Of Your Shoulder – Dr.Berg on Simple Stretch For Shoulder Pain
 
+### 文章重點整理
 
+#### 核心主題
+- 肩膀上方疼痛的原因及解決方法。
+
+#### 主要觀念
+1. **肩部解剖結構**：
+   - 肩膀由肱骨、肩胛骨和鎖骨組成。
+   - 旋後 cuff 肌腱（四塊肌肉）負責穩定手臂與肩關節。
+   - 肋肌鎧是肩胛骨背面的肌肉。
+
+2. **疼痛原因**：
+   - 痛症可能因肩袖肌腱受損、部分撕裂或完全撕裂引起。
+   - 為了保護受損部位，患者通常避免抬高手臂進行「 deduction」動作。
+
+#### 問題原因
+- 肩膀上方疼痛的原因包括：
+  - 肩袖肌腱受損（完全或部分撕裂）。
+  - 長期炎症（如關節炎）。
+  - 外力 trauma。
+
+#### 解決方法
+1. **按摩與pressive技術**：
+   - 刺激對抗肌肉「肋肌鎧」以解除肩部張力。
+   - 按摩位置：腋下至背部下方區域。
+   - 方法：由他人執行深層按壓，持續約一分鐘。
+
+2. **自我伸展方法**：
+   - 無人協助時，可利用槓桿（如門框或橫樑）進行肋肌鎧拉伸。
+   - 伸展方式：手臂下垂，身體前傾以增加肌肉張力。
+
+#### 健康建議
+1. **飲食與營養**：
+   - 採取低炎症飲食（如生酮飲食、短時間禁食）以減少全身性炎症。
+   - 补充硅質（Silica），有助於維持結締組織健康。
+
+2. **運動與恢復**：
+   - 在症狀允許的範圍內，逐步恢復肩部活動度。
+   - 避免過度使用肩部以防止進一步受損。
+
+#### 結論
+- 肩膀上方疼痛可通过按摩、伸展和適當飲食來有效緩解。
+- 若症狀嚴重或持續，建議及時就醫檢查，特別是疑似肌腱完全撕裂的情況。
 </details>
 
 <details>
-<summary>2267. Dr. Berg’s Meals and Intermittent Fasting Pattern</summary><br>
+<summary>2267. [2019-07-02] Dr. Berg’s Meals and Intermittent Fasting Pattern</summary><br>
 
 <a href="https://www.youtube.com/watch?v=EhZK_MUPxrc" target="_blank">
     <img src="https://img.youtube.com/vi/EhZK_MUPxrc/maxresdefault.jpg" 
@@ -1711,11 +1911,68 @@
 
 # Dr. Berg’s Meals and Intermittent Fasting Pattern
 
+### 文章題目：我的近期飲食與間歇性禁食常規
 
+---
+
+#### 1. 核心主題
+- 作者分享了其近期飲食習慣及間歇性禁食（time-restricted feeding）的具體實踐。
+- 强調飲食結構以高蛋白質、高脂肪為主，並配合禁食周期。
+
+---
+
+#### 2. 主要觀念
+- 間歇性禁食的核心在於將進餐時間限制在一天的特定幾個小時內（通常為3-4小時），從而延長 fasting 時間。
+- 作者偏好簡單、一致的飲食結構，避免每日飲食 variation。
+- 禁食期間注重補充水分及微量營養素。
+
+---
+
+#### 3. 問題原因
+- 過去因長期大量攝入咖啡導致身體不適（如burning issues）。
+- 喜歡少量多餐但擔心體重過度下降，需平衡飲食以維持理想體重。
+- 一餐攝入3,000-3,500大卡較為困難，因此選擇分兩次進餐。
+
+---
+
+#### 4. 解決方法
+- **早晨**：
+  - 飲少量黑咖啡（grass-fed heavy cream和xylitol）。
+  - 补充維生素及微量營養素（如檸檬汁、水）。
+- **第一餐（1-3時段）**：
+  - 四個 pasture-raised 有機蛋。
+  - 四盎司 organic 綠茶熏肉。
+  - 三盎司 sheep 或 goat cheese。
+  - 加入 olives、番茄等蔬菜。
+- **第二餐（5-6時段）**：
+  - 大份 salads（lettuce-based），加入 Parmesan cheese、橄欖油和 balsamic vinaigrette。
+  - 7 盎司高品質蛋白質來源（如 sardines, wild-caught 鮭魚，grass-fed 牛肉或熱狗）。
+  - 加入 mustard 和發酵蔬菜（如 sauerkraut）。
+- **零食**：
+  - 偶爾食用少量堅果（pecans 或 pistachios）。
+
+---
+
+#### 5. 健康建議
+- 選擇高品質食物，強調有機、pasture-raised 和 grass-fed。
+- 禁食期間保持充足水分攝取，並補充微量營養素。
+- 飲食結構以植物性膳食 fibre、健康脂肪和優質蛋白質為主。
+- 避免精製糖和高GI食物，降低血糖波動。
+
+---
+
+#### 6. 结論
+- 簡單、一致的飲食結構有助於身體穩定運行。
+- 高品質食物和間歇性禁食結合可作為健康生活方式的有效策略。
+- 個人化飲食計劃需根據自身需求調整，但核心原則包括高蛋白質、高脂肪、低糖及足夠的膳食纖維。
+
+--- 
+
+此文章展示了作者如何通過結構化的飲食習慣和禁食來維持健康，強調了食物品質和飲食時間管理的重要性。
 </details>
 
 <details>
-<summary>2266. Reasons for High Blood Sugars in the Morning</summary><br>
+<summary>2266. [2019-07-01] Reasons for High Blood Sugars in the Morning</summary><br>
 
 <a href="https://www.youtube.com/watch?v=12njrfrfMg4" target="_blank">
     <img src="https://img.youtube.com/vi/12njrfrfMg4/maxresdefault.jpg" 
@@ -1724,11 +1981,59 @@
 
 # Reasons for High Blood Sugars in the Morning
 
+### 核心主題：清晨血糖升高的黎明現象（Dawn Phenomenon）
 
+---
+
+#### 主要觀念：
+- **黎明現象**是一種在清晨起床時血糖水平上升的現象，可能影響以下人群：
+  - 1型糖尿病患者
+  - 2型糖尿病患者
+  - 激素抵抗或前期糖尿病患者
+
+---
+
+#### 問題原因：
+1. **皮質醇激增（Cortisol Spike）**：
+   - 毛絨猴時間：通常在凌晨3點至上午9點之間達到高峰。
+   - 功能：皮質醇在應對壓力時 mobilizes 葡萄糖，增加血糖水平。
+   
+2. **生長激素（Growth Hormone）的作用**：
+   - 1型糖尿病患者中，生長激素可能導致肝臟分泌更多葡萄糖。
+
+3. **2型糖尿病患者的 gluconeogenesis**：
+   - 肝臟在清晨過度生成葡萄糖，增加血糖水平。
+   
+4. **胰高血糖素（Glucagon）和腎上腺素（Epinephrine）的作用**：
+   - 這兩種激素也會 mobilize 葡萄糖，進一步升高血糖。
+
+5. **前一天晚間攝入碳水化合物過多**：
+   - 過量的碳水化合物可能導致血糖在清晨升高。
+
+---
+
+#### 解決方法與健康建議：
+1. **生活方式調整**：
+   - ** intermittent fasting（間隔禁食）** 和 **生酮飲食（Keto Diet）** 可幫助降低胰島素抵抗。
+   - **運動**：早晨進行低至中等強度的運動，有助于消耗血糖。
+
+2. **飲食建議**：
+   - 晚餐避免攝入過多碳水化合物。
+   - 使用 **vinegar（醋）** 與水混合，晚間服用以穩定血糖。
+
+3. **藥物與胰島素管理**：
+   - 適當調整胰島素劑量，但需在醫生指導下進行。
+
+---
+
+#### 結論：
+- 黌尿病患者清晨血糖升高是多因素作用的結果，包括激素激增和飲食習慣。
+- 通過生活方式 modification、飲食控制和運動，可以有效改善此現象。
+- 長期來看，健康的生活方式（如生酮飲食和禁食）有助于恢復胰島素敏感性，降低血糖波動的風險。
 </details>
 
 <details>
-<summary>2265. The Most Important Nutrient for Infants</summary><br>
+<summary>2265. [2019-07-01] The Most Important Nutrient for Infants</summary><br>
 
 <a href="https://www.youtube.com/watch?v=eSQ4x06HsBw" target="_blank">
     <img src="https://img.youtube.com/vi/eSQ4x06HsBw/maxresdefault.jpg" 
@@ -1737,11 +2042,64 @@
 
 # The Most Important Nutrient for Infants
 
+### 核心主題  
+- DHA（二十二碳六烯酸）是嬰兒最為重要的營養素之一，尤其在腦部和視網膜發育中起著關鍵作用。
 
+---
+
+### 主要觀念  
+1. **DHA的重要性**  
+   - DHA占嬰兒腦脂質的30%以上，占視網膜脂質的50%以上。  
+   - 它對嬰兒腦部大小、功能以及視力發育至關重要。  
+
+2. **嬰兒配方奶粉的不足**  
+   - 大部分嬰兒配方奶粉中的DHA含量不足，影響嬰兒的认知能力和智力發展。  
+
+3. **母乳喂養的重要性**  
+   - 母乳是嬰兒獲得DHA的最佳來源。  
+   - 雖然推薦持續母乳喂養至一歲或更長時間，但在斷奶後需補充其他富含DHA的食物。  
+
+---
+
+### 問題原因  
+- 市面上的嬰兒配方奶粉往往未能提供足夠的DHA，導致嬰兒在腦發育和視力方面可能受到影響。  
+
+---
+
+### 解决方法  
+1. **食物補充**  
+   - 綜合使用魚肝油（cod liver oil）和蛋黃進行補充。  
+   - 選擇 pasture-raised 或 organics 來源的蛋，以確保營養價值和安全性。  
+
+2. **均衡飲食**  
+   - 蛋黃富含磷脂、維生素A、D、E、K2、β-胡蘿蔔素以及礦物質（如鋅和硒）。  
+   - 蛋白部分（蛋清）建議在一歲後逐步引入，以降低過敏風險。  
+
+---
+
+### 健康建議  
+1. **母乳喂養**  
+   - 尽可能延長母乳喂養時間，至一歲或更久，以確保嬰兒獲得足夠的營養。  
+
+2. **斷奶後的飲食計劃**  
+   - 確保嬰兒在斷奶後繼續攝取富含DHA的食物，如魚肝油和蛋黃。  
+   - 選擇高質量、無污染的食材來源，以保障嬰兒健康。  
+
+---
+
+### 結論  
+- DHA是嬰兒腦部和視力發育的關鍵營養素。  
+- 母乳喂養是最好的選擇，但斷奶後需通過食物補充DHA和其他必需營養素。  
+- 選擇高質量的食物來源（如 pasture-raised 蛋和魚肝油）可以有效滿足嬰兒的營養需求。  
+
+---
+
+### 全文摘要  
+本文強調了DHA在嬰兒發育中的重要性，特別是其對腦部和視網膜的影響。文中指出，許多嬰兒配方奶粉未能提供足夠的DHA，可能對嬰兒的智力和視力造成不良影響。推薦母乳喂養至一歲或更久，並建議在斷奶後補充富含DHA的食物，如魚肝油和 pasture-raised 蛋黃。文章還強調了均衡飲食的重要性，以確保嬰兒獲得多種必需的營養素，從而促進其整體健康與發育。
 </details>
 
 <details>
-<summary>2264. What Determines If You Lose or Gain Weight With Stress – Cortisol and Insulin – Dr.Berg</summary><br>
+<summary>2264. [2019-06-30] What Determines If You Lose or Gain Weight With Stress – Cortisol and Insulin – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xmxWqW3SxFw" target="_blank">
     <img src="https://img.youtube.com/vi/xmxWqW3SxFw/maxresdefault.jpg" 
@@ -1750,11 +2108,41 @@
 
 # What Determines If You Lose or Gain Weight With Stress – Cortisol and Insulin – Dr.Berg
 
+### 文章整理：壓力與體重變化的原因及影響
 
+#### 核心主題
+- 調查ストレスと体重変化の関係性。
+
+#### 主要概念
+1. **ホルモンの役割**
+   - **インシュリン**: 糖を脂肪に変換し、 excess glucose を脂肪として貯蔵する。
+   - **コルチゾール**: ストレスホルモン。血糖値を上昇させ、糖、タンパク質、脂肪を分解して糖生成。
+
+2. **急性ストレス vs 慢性ストレス**
+   - **急性ストレス (短期間)**: インシュリン分泌を抑制し、血糖値が身体のエネルギーとして使用されるため、体重減少。
+   - **慢性ストレス (長期)**: インシュリン分泌を亢進し、血糖値が高い状態を維持するために脂肪貯蔵が促進され、肥満リスク上昇。
+
+#### 問題原因
+- 慢性ストレス下では、コルチゾールの過剰分泌によりインシュリンが増加。この結果、血糖値の異常と脂肪蓄積が生じる。
+- 高用量のプレドニゾン（コルチゾール様合成薬）使用者は肥満リスクが高い。
+
+#### 解決方法
+1. **運動習慣**
+   - 定期的な身体活動を通じて血糖値を消費し、脂肪蓄積を防止する。
+2. **ストレス管理**
+   - 心理的ストレスを軽減するための精神的支援やレラックス手法（例えばメディテーション）を採用する。
+
+#### 健康上の助言
+- 高度な精神的ストレスを抱える者は、規則的な運動を通じて血糖値管理を行うことが重要。
+- 医療従事者と協力し、肥満リスクの管理に適した戦略を採用する。
+
+#### 結論
+- ストレスの性質（急性 vs 慢性）が体重変化を左右する。短期ストレスでは体重減少がみられ、長期ストレスでは肥満リスクが高まる。
+- 生活習慣の改善と適切なストレス管理を通じて、ストレス関連の肥満を予防できる。
 </details>
 
 <details>
-<summary>2263. Why the Dark Circles Under Your Child's Eyes</summary><br>
+<summary>2263. [2019-06-30] Why the Dark Circles Under Your Child's Eyes</summary><br>
 
 <a href="https://www.youtube.com/watch?v=mu8mC792R10" target="_blank">
     <img src="https://img.youtube.com/vi/mu8mC792R10/maxresdefault.jpg" 
@@ -1763,11 +2151,79 @@
 
 # Why the Dark Circles Under Your Child's Eyes
 
+### 文章整理：兒童眼皮下黑色圈的原因及鐵質缺乏影響
 
+#### 核心主題
+- **鐵質缺乏導致的兒童眼皮下黑色 circles**  
+  探讨铁质缺乏与儿童眼睑下方黑色圈的关系，强调铁质缺乏不仅限于贫血，还可能引发其他健康问题。
+
+---
+
+#### 主要觀念
+1. **鐵質缺乏不一定等於貧血**  
+   - 雖然鐵質缺乏常導致貧血，但兒童可能僅有鐵質不足而未達到貧血程度。
+   
+2. **鐵質在人體中的重要性**  
+   - 鐵質參與多種化學途徑和酶反應，影響能量代謝、免疫功能及生長發育。
+
+3. **鐵質缺乏的其他症狀**  
+   - 疲勞、無力、頭暈、面色苍白、異食癖（如冰或泥土）、生長遲緩等。
+
+---
+
+#### 問題原因
+1. **飲食攝取不足**  
+   - 鐵質攝取量低，尤其是植物性鐵質（非血紅素鐵）吸收率較低。  
+
+2. **食物成分干擾吸收**  
+   - 植物中的「抗壞血酸」或「植酸」（phytates）會抑制鐵的吸收。
+
+3. **消化系統問題**  
+   - 胃腸道疾病（如IBS、克羅恩病）影響礦物质吸收。  
+
+4. **藥物使用影響**  
+   - 長期使用抗酸劑或抗生素可能干擾鐵質吸收。
+
+5. **谷物攝取過多**  
+   - 全穀物中的 Bran 含有植酸，抑制鐵的吸收。
+
+---
+
+#### 解決方法
+1. **增加動物性鐵質攝取**  
+   - 食用紅肉、雞肉、火鸡、豬肉等富含血紅素鐵的食物，因其吸收率高。  
+
+2. **替代方案**  
+   - 若不食用肝臟，可選擇草饲肝臟サプリメント或其他含鐵食物（如海藻、牡蠣、蛤蜊）。  
+
+3. **改善飲食結構**  
+   - 減少高植酸食物的攝取，或搭配富含維生素C的食物促進吸收。  
+
+4. **避免非必要的藥物**  
+   - 减少使用抗酸劑和抗生素，以降低對鐵質吸收的干擾。
+
+---
+
+#### 健康建議
+1. **均衡飲食**  
+   - 確保兒童攝取足夠的動物性鐵質，並搭配維生素C促進吸收。  
+
+2. **監測與補充**  
+   - 若疑有鐵質缺乏，應諮詢醫生進行血液檢測，避免自行服用市售鐵劑。  
+
+3. **多樣化飲食**  
+   - 提供富含礦物质的蔬菜和水果，補充其他必需營養素。  
+
+---
+
+#### 結論
+- 鐵質缺乏是導致兒童眼睑下方黑色圈的可能原因之一，但需結合飲食、吸收及其他健康問題綜合考量。  
+- 解決關鍵在於改善飲食結構、增加易吸收的鐵源，並避免干擾鐵吸收的因素。  
+- 如有疑慮，建議及時諮詢專業醫療人員進行評估與治療。
 </details>
 
 <details>
-<summary>2262. Strep Throat – The Fastest Way to Relieve Pain – Remedies for Strep Throat – Dr.Berg</summary><br>
+<summary>2262. [2019-06-29] Strep Throat – The Fastest Way to Relieve Pain – Remedies for Strep Throat – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ACHHOswD56s" target="_blank">
     <img src="https://img.youtube.com/vi/ACHHOswD56s/maxresdefault.jpg" 
@@ -1776,11 +2232,71 @@
 
 # Strep Throat – The Fastest Way to Relieve Pain – Remedies for Strep Throat – Dr.Berg
 
+### 文章整理：咽喉炎的病因、診斷與綜合治療策略
 
+#### 核心主題
+- 咽喉炎的病因及治療方法探討。
+
+---
+
+#### 主要觀念
+1. **咽喉炎的病原體分類**：
+   - 大多數情況下，咽喉炎是由腺病毒或Epstein-Barr病毒等病毒感染引起。
+   - 約20%的情況由細菌感染（如鏈球菌）導致。
+
+2. **季節性特征**：
+   - 咽喉炎在冬春換季期間（12月至4月）高發，可能與維生素D缺乏有關。
+
+3. **常見治療方法的局限性**：
+   - 抗生素對病毒感染無效，且易導致抗藥性。
+   - 需探索非傳統療法以提升免疫力並加速康復。
+
+---
+
+#### 問題原因
+1. **季節性維生素不足**：
+   - 冬春季节日照時間短，導致維生素D合成減少，降低免疫功能。
+
+2. **抗生素濫用**：
+   - 抗生素對病毒感染無效，且長期使用會引發抗藥性。
+
+3. **傳統療法局限性**：
+   - 現有治療方法在提升免疫力和針對病毒方面效果有限。
+
+---
+
+#### 解决方法
+1. **營養補充**：
+   - **維生素D**：推薦在冬春季节每日補充，增強免疫功能。
+   - **維生素C（非轉基因來源）**：高劑量攝取可刺激免疫反應，並對抗病毒和細菌感染。
+
+2. **自然療法**：
+   - **蘋果醋**：稀釋後飲用，酸化體內環境，促進巨噬細胞功能。
+   - **短時間斷食（18小時）**：誘導自噬作用，清除損傷蛋白和病原體。
+
+3. **中醫及物理療法**：
+   - **穴位按壓**：刺激特定部位以缓解咽喉疼痛。可使用工具自行操作或他人協助。
+
+---
+
+#### 健康建議
+1. **日常防範措施**：
+   - 在冬春季节定期補充維生素D和非轉基因維生素C。
+   - 避免濫用抗生素，除非確定為細菌感染。
+
+2. **病情管理**：
+   - 症狀初發時，可採用蘋果醋和短時間斷食來加速康復。
+   - 使用穴位按壓技術來缓解咽喉不適。
+
+---
+
+#### 结論
+- 咽喉炎多由病毒感染引起，治療需結合營養補充、自然療法及物理療法，以增強免疫力並促進康復。
+- 維生素D和維生素C的補充可作為防範措施，而斷食和穴位按壓則是有效的輔助治療手段。
 </details>
 
 <details>
-<summary>2261. How to Avoid a Silent Stroke</summary><br>
+<summary>2261. [2019-06-28] How to Avoid a Silent Stroke</summary><br>
 
 <a href="https://www.youtube.com/watch?v=wu2kyiEE0rc" target="_blank">
     <img src="https://img.youtube.com/vi/wu2kyiEE0rc/maxresdefault.jpg" 
@@ -1789,11 +2305,68 @@
 
 # How to Avoid a Silent Stroke
 
+### 文章重點整理
 
+#### 核心主題
+- ** silent stroke (無症狀腦卒中) 的危害及預防
+- ** 高胰島素血症與多種慢性疾病（如糖尿病、高血壓等）的關聯
+- ** 通過飲食和生活方式 modification 降低中風風險
+
+#### 主要觀念
+1. **Silent Stroke 的特性**
+   - 無明顯症狀，卻造成腦部損害。
+   - 常影響與言語或運動控制無關的脑區。
+   - 比大規模卒中更常見（高達 14 倍）。
+
+2. **Silent Stroke 的風險因素**
+   - 高血壓
+   - 糖尿病
+   - 高胆固醇
+   - 肥胖
+   - 心房顫動
+   - 代謝症群
+   - 睡眠呼吸中斷症
+
+3. **共同病因：高胰島素血症**
+   - 上述疾病多與高胰島素水平有關。
+   - 高胰岛素可導致胰島素抗性，進一步增加慢性病風險。
+
+#### 問題原因
+- **高胰岛素血症** 是導致多種中風相關疾病的共同病因。
+- 現代飲食習慣（如高糖、高精製碳水化合物攝取）易導致胰岛素水平升高。
+
+#### 解決方法與健康建議
+1. **營養干預**
+   - **增加 ω-3 脂肪酸攝取**：
+     - EPA 和 DHA 可通過食用脂肪魚（如沙丁魚、鮭魚）、亞麻籽或 algae 补充。
+     - 這些脂肪酸具有抗炎作用，並促進腦部結構和功能。
+
+   - **大蒜的應用**：
+     - 大蒜含有的硫化物具備良好的抗凝血特性。
+     - 可作為自然抗凝血劑，避免藥物副作用。
+
+2. **生活方式調整**
+   - **定期運動**：促進全身血流，包括腦部和心臟。
+   - **酮體的使用**：
+     - 適量攝取酮鹽或酮酯（尤其在嚴重心腦損傷或高強度運動時）。
+     - 酮體可繞過受損組織，直接為腦細胞提供能量。
+
+3. **營養補充**
+   - **天然維生素 E**：選擇全複合形式的維生素 E，避免合成版本，以有效預防血栓。
+
+4. **飲食計劃**
+   - 採用健康生酮飲食（Keto Diet）和短時間禁食：
+     - 降低胰島素水平，改善胰島素抗性。
+     - 减少慢性病風險，間接降低中風發生率。
+
+#### 結論
+- **Silent Stroke** 是潛在的健康隱患，但可通过調整飲食和生活方式來有效預防。
+- 高胰岛素血症是多種疾病的根源，改善胰島素抗性是關鍵。
+- 通過增加 ω-3 脂肪酸、大蒜攝取，配合酮體使用及健康生酮飲食，可顯著降低中風風險並促進整體健康。
 </details>
 
 <details>
-<summary>2260. Is Honey a Better Substitute for Sugar?</summary><br>
+<summary>2260. [2019-06-27] Is Honey a Better Substitute for Sugar?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Ih8b8mFZjo4" target="_blank">
     <img src="https://img.youtube.com/vi/Ih8b8mFZjo4/maxresdefault.jpg" 
@@ -1802,11 +2375,47 @@
 
 # Is Honey a Better Substitute for Sugar?
 
+### 核心主題  
+- 蜂蜜是否為糖的良好替代品？  
 
+---
+
+### 主要觀念  
+1. 普通食糖（精制蔗糖）由50%果糖和50%葡萄糖組成。  
+2. 蜂蜜含有60%果糖和40%葡萄糖，因此果糖含量較高。  
+3. 蜂蜜因其低血糖指數（GI為19），被認為可能對糖尿病患者有益。  
+
+---
+
+### 問題原因  
+1. **果糖的代謝問題**：  
+   - 果糖主要在肝臟中代謝，過量攝入會導致肝臟負擔加重。  
+   - 果糖會誘發胰島素抵抗和脂肪肝積累。  
+
+2. **蜂蜜的血糖影響**：  
+   - 虽然蜂蜜的血糖指數低，但其果糖含量仍然可能對健康造成不良影響。  
+
+---
+
+### 健康建議  
+1. **蜂蜜的局限性**：  
+   - 蜂蜜並非適合糖尿病患者的理想替代品。  
+   - 其作用主要在於提供抗氧化劑和某些維生素及植物化學物質，用於輔助治療過敏症或降低 diabetic 發症，而非作為血糖控制的手段。  
+
+2. **環境影響**：  
+   - 蜂蜜生產受到農藥污染（如Glyphosate）的影響，導致蜂群數量下降。  
+   - 蜂蟲是食物鏈中不可或缺的_pollinators_，但蜂蜜本身的食用價值並不等同於生態保護的重要性。  
+
+---
+
+### 結論  
+- 蜂蜜並非糖的良好替代品，其高果糖含量可能對健康造成隱性風險。  
+- 消費者應避免將蜂蜜視為降低血糖或預防糖尿病的手段。  
+- 更應該重視環境保護政策，以保護蜂群及其生態價值，而非過度依賴蜂蜜作為食品來源。
 </details>
 
 <details>
-<summary>2259. Why Fasting Helps Lupus Symptoms</summary><br>
+<summary>2259. [2019-06-27] Why Fasting Helps Lupus Symptoms</summary><br>
 
 <a href="https://www.youtube.com/watch?v=gVFKqrfeyuY" target="_blank">
     <img src="https://img.youtube.com/vi/gVFKqrfeyuY/maxresdefault.jpg" 
@@ -1815,11 +2424,52 @@
 
 # Why Fasting Helps Lupus Symptoms
 
+### 文章整理：狼瘡的自然療法與健康建議
 
+#### 核心主題
+- 狼瘡（ Lupus ）是一種自體免疫疾病，影響多個器官和系統。
+- 探讨其病因、觸發因素及可能的自然療法。
+
+#### 主要觀念
+1. **狼瘡的定義與症狀**：
+   - 狼瘡是免疫系統攻擊自身組織的疾病，常影響關節、皮膚、腎臟、血液、心臟和肺部。
+   - 常見症狀包括關節疼痛、發燒、皮疹、疲勞、口腔潰瘍、淋巴結肿脹及光敏感。
+
+2. **病因與觸发因素**：
+   - 光線曝露（UV light）、避孕藥（含雌激素）、低維生素D水平、某些药物和壓力。
+   - 約90%患者為女性，尤其是非裔美國人，其發病率較其他族群高三倍。
+
+3. **狼瘡的治療與挑戰**：
+   - 常用皮質類固醇（corticosteroids）控制炎症，但副作用较多。
+   - 維生素D的作用被忽視，其實它具有免疫調節功能，可作為自然療法的一部分。
+
+#### 問題原因
+- 狼瘡的多系統影響導致診斷困難，常被誤診為其他疾病（「great imitator」）。
+- 治療主要依賴皮質類固醇，但其副作用限制了長期使用。
+
+#### 解決方法
+1. **維生素D的應用**：
+   - 維生素D具有免疫調節作用，可降低炎症反應。
+   - 推薦每日攝取20,000 IU（需諮詢醫生後開始）。
+   - 注意與維生素K2和鎂結合使用以避免副作用。
+
+2. **干 intermittent fasting**：
+   - 間歇性禁食可增強T細胞活性，恢復免疫系統幹細胞。
+   - 具有抗炎作用，可有效緩解狼瘡的炎症症狀。
+
+#### 健康建議
+- 在使用任何自然療法前，諮詢醫生以確保安全並避免藥物干擾。
+- 維生素D治療需搭配其他營養素（如維生素K2和鎂）以增效並降低風險。
+- 間歇性禁食可作為輔助療法，但具體方法需根據個人情況調整。
+
+#### 結論
+- 狼瘡的治療不僅依賴傳統藥物，還可通过自然療法如維生素D和禁食來改善症狀和炎症反應。
+- 維生素D的免疫調節作用值得進一步研究和應用。
+- 醫患合作是關鍵，患者需在醫生指導下結合多種療法以達到最佳效果。
 </details>
 
 <details>
-<summary>2258. Solve Diabetes Overnight Understanding This Simple....</summary><br>
+<summary>2258. [2019-06-26] Solve Diabetes Overnight Understanding This Simple....</summary><br>
 
 <a href="https://www.youtube.com/watch?v=zKNaT1Wnd6g" target="_blank">
     <img src="https://img.youtube.com/vi/zKNaT1Wnd6g/maxresdefault.jpg" 
@@ -1828,11 +2478,47 @@
 
 # Solve Diabetes Overnight Understanding This Simple....
 
+### 核心主題  
+- 胰島素 resistance 和其在 2 型糖尿病中的作用。  
+- 碳水化合物攝取過量導致胰島素水平升高及其後果。  
 
+---
+
+### 主要觀念  
+1. **胰島素的功用**：胰島素由胰腺分泌，用於降低血糖水平。  
+2. **碳水化合物對胰島素的影響**：攝入高碳水化合物飲食會刺激胰島素分泌。  
+3. **胰島素抵抗性**：長期過量攝取碳水化合物導致身體對胰島素產生抗性，進而加劇胰島素分泌。  
+
+---
+
+### 問題原因  
+1. **高碳水化合物攝取**：美國農業部建議的每日碳水化合物攝取量（45-60%熱量來源）過高，導致胰島素水平失衡。  
+2. **醫學界對病因的混淆**：部分專家如湯姆·桑德斯教授拒絕承認糖分攝取過量是心臟病和糖尿病的主要原因，可能受到糖業lobby影響。  
+
+---
+
+### 解決方法  
+1. **低脂 diet 的不足**：傳統飲食建議過於著重降低脂肪攝取，未能有效解決胰島素抵抗問題。  
+2. **酮ogenic diet（生酮飲食）**：通過限制碳水化合物攝取，降低胰島素水平，改善胰島素抵抗。  
+3. **Intermittent Fasting（間歇性斷食）**：幫助恢復血糖和胰島素平衡。  
+
+---
+
+### 健康建議  
+1. **飲食調整**：優先選擇低碳水化合物飲食，控制每日碳水化合物攝取量。  
+2. **避免加工食品**：減少糖分和精緻碳水化合物的攝取，以降低胰島素抵抗風險。  
+3. **定期檢測血糖**：監控血糖水平，及時調整飲食和治療方案。  
+
+---
+
+### 結論  
+- 高碳水化合物攝取是引發胰島素抵抗和 2 型糖尿病的主要原因之一。  
+- 生酮飲食和間歇性斷食等低碳水化合物策略能有效降低胰島素水平，改善血糖控制。  
+- 改變傳統飲食建議，重視胰島素代謝在糖尿病管理中的作用至關重要。
 </details>
 
 <details>
-<summary>2257. Can Parkinson's Disease Be Reversed?</summary><br>
+<summary>2257. [2019-06-26] Can Parkinson's Disease Be Reversed?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=RpMEMX-c7VU" target="_blank">
     <img src="https://img.youtube.com/vi/RpMEMX-c7VU/maxresdefault.jpg" 
@@ -1841,11 +2527,51 @@
 
 # Can Parkinson's Disease Be Reversed?
 
+### 文章重點整理：帕金森病的逆轉之路
 
+#### 核心主題
+文章探討了帕金森病（Parkinson's disease）的可能逆轉方法，強調通過抗氧化、抗炎和修復神經元等途徑來改善症狀。
+
+#### 主要觀念
+1. **氧化應激**：帕金森病患者普遍存在氧化應激現象，導致自由基過多，損傷細胞。
+2. **線粒體功能障礙**：神經元的能量生產不足，影響其正常功能。
+3. **運動神經元受損**：導致運動障礙，如步態紊亂和姿勢不稳。
+
+#### 問題原因
+- **氧化應激**：自由基過多攻擊細胞成分。
+- **線粒體損害**：能量不足，影響神經元功能。
+- **鐵代謝失衡**：鐵在腦中過量沉積，促發氧化應激和炎症反應。
+
+#### 解決方法
+1. **補充维生素B2（核黃素）**：
+   - 強效抗氧化劑，降低氧化應激。
+   - 修復線粒體功能，增強谷胱甘肅的作用。
+   - 改善運動能力，減少谷氨酸毒性。
+
+2. **降低鐵含量**：
+   - 使用螯合劑如EDTA或含磷脂酰肌醇六磷酸（IP6）的補充劑。
+   - 避免攝取高鐵食物（如紅肉和海產品）及不必要的含鐵サプリメント。
+
+3. **干預措施**：
+   - **禁食 therapy**：通過間斷性禁食降低炎症，促進神經生長。
+   - **健康酮飲食**：限制糖分攝入，減少氧化應激。
+
+4. **使用苯褔妥胺（Benfotiamine）**：
+   - 脂溶性B族維生素，穿透力強。
+   - 助修復神經元的髓鞘，改善線粒體功能。
+
+#### 健康建議
+- 遵循間斷性禁食計劃，促進腦部修復。
+- 采用健康的酮式飲食，避免高糖攝入。
+- 补充B2和苯褔妥胺，降低鐵含量。
+- 避免過量攝取含鐵食物及サプリメント。
+
+#### 總結
+帕金森病的逆轉需綜合治療策略，包括抗氧化、抗炎、修復神經元等功能。主要措施為補充B2、降低鐵水平、禁食和健康飲食，這些方法可改善症狀並延緩病情進展。患者應遵循科學的生活方式建議，結合醫囑進行治療。
 </details>
 
 <details>
-<summary>2256. Can Keto (Ketogenic Diet) Help Cirrhosis of the Liver?</summary><br>
+<summary>2256. [2019-06-25] Can Keto (Ketogenic Diet) Help Cirrhosis of the Liver?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=gmabQuELWFg" target="_blank">
     <img src="https://img.youtube.com/vi/gmabQuELWFg/maxresdefault.jpg" 
@@ -1854,11 +2580,61 @@
 
 # Can Keto (Ketogenic Diet) Help Cirrhosis of the Liver?
 
+### 文章重點整理
 
+#### 核心主題
+- **肝硬化的成因、症狀及治療方法**  
+  肝硬化（Cirrhosis）是一種晚期肝臟疾病，characterized by the accumulation of scar tissue in the liver, leading to impaired liver function.
+
+#### 主要觀念
+1. **肝臟的基本功能**
+   - 肝臟每分鐘可過濾1.7升血液。
+   - 擁有超過500項生理功能，包括解毒、合成蛋白質、膽汁生成等。
+2. **肝硬化的病理機制**
+   - 長期炎症反應導致肝臟組織纖維化（scar tissue formation）。
+   - 纖維化阻礙血液流動，引起高血壓和其他並發症。
+
+#### 問題原因
+1. **病因**
+   - 病毒性肝炎（如乙型、丙型肝炎）。
+   - 高鐵質血症（high iron levels）。
+   - 酒精濫用和藥物副作用。
+   - **未被充分重視的主要原因是高胰島素血症和胰岛素抵抗（insulin resistance）。**
+2. **病理生理學**
+   - 纖維化阻塞肝臟血流，導致門靜脈高壓（portal hypertension）。
+   - 浴室壓力升高引發腹水（ascites）、蜘蛛狀血管瘤（spider nevi）、黃疸（jaundice）等並發症。
+
+#### 解決定論
+1. **代償性與失代償性肝硬化**
+   - **代償性肝硬化**：肝臟功能仍可維持，瘢痕組織尚未廣泛影響功能。
+   - **失代償性肝硬化**：肝臟功能喪失，並發症嚴重，需立即干預。
+
+#### 健康建議
+1. **飲食調整**
+   - ** ketogenic diet（生酮飲食）**：降低碳水化合物攝取以減少炎症反應。
+   - 適量蛋白質攝取，避免過多胺基酸代謝產生氨（ammonia）。
+2. **營養補充**
+   - **必需胺基 acids（essential amino acids, EAAs）**：作為補充劑，幫助合成蛋白質，降低氨水平。
+   - 電解質攝取（如鉀和鎂），以促進水分排出。
+3. **藥物與 supplementation**
+   - **膽鹽（bile salts）**：協助脂肪吸收和維生素吸收。
+   - **益生菌（probiotics）**：恢復腸道微生態平衡。
+4. **生活方式調整**
+   - 減輕體重，改善胰島素抗性。
+   - 限酒戒煙，避免肝臟進一步受損。
+
+#### 結論
+- 肝硬化是一種可以通過早期干預和生活方式改變來控制的慢性病。 
+- 维生素、飲食調整、營養補充和藥物治療相結合，可以有效改善症狀並延緩病情進展。
+- 進一步的研究應該集中在胰島素抵抗和其他代謝紊亂在肝硬化中的作用上。
+
+---
+
+此整理結構清晰地展示了文章的核心內容，使用正式的學術用語進行表達，並以小節形式分類歸納。
 </details>
 
 <details>
-<summary>2255. The Best PREDNISONE Alternative</summary><br>
+<summary>2255. [2019-06-25] The Best PREDNISONE Alternative</summary><br>
 
 <a href="https://www.youtube.com/watch?v=OSwhSam_hLU" target="_blank">
     <img src="https://img.youtube.com/vi/OSwhSam_hLU/maxresdefault.jpg" 
@@ -1867,11 +2643,60 @@
 
 # The Best PREDNISONE Alternative
 
+### 核心主題：Prednisone 的副作用及其替代方案 Vitamin D3
 
+---
+
+#### 主要觀念：
+1. **Prednisone 的定義與作用**：
+   - Prednisone 是一種合成皮質醇（cortisol），具有强大的抗炎作用，廣泛用於治療哮喘、過敏、皮膚病（如濕疹、牛皮癬）、關節炎及其他炎症性疾病。
+   
+2. **Prednisone 的副作用**：
+   - 長期或高劑量使用會抑制身體自身皮質醇的生產，導致 adrenal 抑制。
+   - 常見副作用包括血糖紊亂（可能引發糖尿病）、骨密度降低、肥胖、白內障等。
+   
+3. **Vitamin D3 作為替代品的可行性**：
+   - Vitamin D3 是一種甾體激素，具有抗炎特性，並能有效治療哮喘、過敏症、皮膚病及自身免疫性疾病（如多發性硬化症）。
+   - 與Prednisone相比，Vitamin D3 的副作用較少且相對安全。
+
+---
+
+#### 問題原因：
+- **Prednisone 的濫用**：
+  - 長期使用導致身體 adrenal 系統受抑制，引起多種代謝紊亂及慢性健康問題。
+  
+- **患者需求未被滿足**：
+  - 對於長期需要抗炎治療的患者來說，Prednisone 的副作用可能使其無法繼續使用。
+
+---
+
+#### 解決方法：
+1. **Vitamin D3 的使用**：
+   - 使用高劑量 Vitamin D3（20,000-30,000 IU/天）作為 Prednisone 的替代品。
+   - 綜合補充 K2（300微克），以避免過量 Vitamin D3 引起的鈣代謝問題。
+
+---
+
+#### 健康建議：
+1. **劑量控制**：
+   - 在使用 Vitamin D3 治療前，應先諮詢專業醫療人員，確定劑量是否適合個人情況。
+   
+2. **監測與評估**：
+   - 定期進行血液檢查，以確保 Vitamin D3 和 K2 的有效性及安全性。
+
+3. **生活方式調整**：
+   - 維持健康飲食，增加富含鈣質和維生素D的食物攝取。
+   - 適當晒太陽，促進自然合成維生素D。
+
+---
+
+#### 結論：
+- Vitamin D3 可作為Prednisone的安全替代品，特別是在處理炎症性疾病時。
+- 患者在使用任何激素類藥物或補充劑之前，應仔細評估利弊並遵循醫囑。
 </details>
 
 <details>
-<summary>2254. Fix Vitiligo With Copper</summary><br>
+<summary>2254. [2019-06-24] Fix Vitiligo With Copper</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3qzn1MF7X5I" target="_blank">
     <img src="https://img.youtube.com/vi/3qzn1MF7X5I/maxresdefault.jpg" 
@@ -1880,7 +2705,42 @@
 
 # Fix Vitiligo With Copper
 
+### 小節歸納
 
+#### 核心主題
+- **Vitiligo 的病因及與銅的關係**：探討白癜風（vitiligo）作為 autoimmune 疾病的特性，其病因與酪氨酸酶（tyrosinase）及銅元素的相互作用。
+- **氧化應激在 vitiligo 中的作用**：強調自由基和過氧化氫在疾病發展中的角色。
+
+#### 主要觀念
+1. **Vitiligo 的基本定義**：
+   - Vitiligo 是一種自身免疫性疾病，導致黑色素細胞被破壞，從而引起白癜風斑。
+2. **酪氨酸酶的作用**：
+   - 酪氨酸酶是合成黑色素的關鍵酶，其功能依賴於銅元素作為輔因子。
+3. **氧化應激的影響**：
+   - 髮白風患者的皮膚中存在過量的自由基和過氧化氫，導致抗氧化系統失衡。
+4. **微量元素的作用**：
+   - 銅和鋅在抗氧酶中起重要作用，缺乏這些元素會加重氧化應激。
+
+#### 問題原因
+- **自身免疫反應**：身體產生抗體攻擊自身的黑色素細胞，引發白癜風。
+- **抗氧化系統缺陷**：導致過氧化氫清除不足，進一步破壞黑色素細胞。
+- **微量元素缺乏**：銅和鋅的不足影響酪氨酸酶活性，加重色素缺失。
+
+#### 解決方法
+1. **局部補充銅元素**：
+   - 使用含銅的乳膏直接塗抹於白癜風斑，以提供必需的微量元素。
+2. **補充鋅元素**：
+   - 鋅作為抗氧化劑，有助於改善氧化應激狀態。
+3. **維生素 D3 的作用**：
+   - 維生素 D3 具有免疫調節功能，可幫助降低炎症反應。
+
+#### 健康建議
+- **飲食調整**：增加含銅和鋅食物的攝取，如貝類、堅果和種子。
+- **抗氧化劑攝取**：食用富含維生素 C 和 E 的水果和蔬菜，以增強抗氧化能力。
+- **規律監測**：定期檢查微量元素水平，確保足夠的補充。
+
+#### 結論
+- Vitiligo 的治療需綜合考慮多方面因素，包括局部用藥、口服補充劑及生活方式調整。維生素 D3 和微量元素的補充在降低炎症和恢復色素沉著中起重要作用。
 </details>
 
 <details>
