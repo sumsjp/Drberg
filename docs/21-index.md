@@ -324,7 +324,7 @@
 </details>
 
 <details>
-<summary>2175. Natural Ways to Reduce Glyphosate (GMO chemicals) in Body – Dr.Berg On GMO Foods & Toxic Chemicals</summary><br>
+<summary>2175. [2019-05-13] Natural Ways to Reduce Glyphosate (GMO chemicals) in Body – Dr.Berg On GMO Foods & Toxic Chemicals</summary><br>
 
 <a href="https://www.youtube.com/watch?v=TYTsQbahME0" target="_blank">
     <img src="https://img.youtube.com/vi/TYTsQbahME0/maxresdefault.jpg" 
@@ -333,11 +333,72 @@
 
 # Natural Ways to Reduce Glyphosate (GMO chemicals) in Body – Dr.Berg On GMO Foods & Toxic Chemicals
 
+### 核心主題  
+- 探讨 glyphosate（莠去津）对人体的影响及其去除方法。
 
+---
+
+### 主要觀念  
+1. Glyphosate 是一种广泛存在于 GMO 食物中的化学物质。
+2. 它通过食物链影响人体健康，尤其是通过破坏肠道微生物平衡和干扰营养吸收。
+3. 科学界对 glyphosate 的安全性存在争议，但其对人体健康的潜在危害不容忽视。
+
+---
+
+### 問題原因  
+1. **Glyphosate 的毒性机制**：
+   - 干扰氨基酸、蛋白质及神经递质的合成。
+   - 影响肠道微生物平衡，进而影响免疫系统和营养吸收能力。
+   - 抑制锌和其他微量元素的吸收，这些元素对代谢和免疫力至关重要。
+
+2. **食物链中的Glyphosate污染**：
+   - 通过 GMO 食物（如玉米和大豆）进入人体。
+   - 动物摄入受污染饲料后， glyphosate 可能残留在肉类产品中。
+
+3. **慢性健康风险**：
+   - 导致微量元素缺乏。
+   - 削弱免疫系统功能。
+   - 可能增加癌症和其他疾病的风险。
+
+---
+
+### 解決方法  
+1. **饮食调整**：
+   - 选择有机食品，避免 GMO 食物及其衍生产品。
+   - 包括肉类、乳制品等，确保食物链的每个环节都未受污染。
+
+2. **补充剂辅助**：
+   - **Humic 和 Folic 酸**：有助于清除体内的 glyphosate。
+   - **Dandelion Greens（蒲公英绿叶）**：作为天然解毒剂，可通过饮食或补充电方式摄入。
+   - **Activated Charcoal（活性炭）**：用于吸附和中和毒素。
+   - **Bentonite Clay（蒙脱石 clay）**：具有吸附性，帮助清除体内毒素。
+
+3. **活性炭的急救用途**：
+   - 在中毒情况下，活性炭可快速中和毒物，是一种有效的急救措施。
+
+---
+
+### 健康建議  
+1. **饮食建议**：
+   - 优先选择有机食品，减少 GMO 食物的摄入。
+   - 多摄入富含纤维的食物，如蒲公英绿叶，有助于排毒。
+
+2. **补充剂使用建议**：
+   - 在空腹时服用活性炭和蒙脱石 clay，以最大化其吸附效果。
+   - 补充 Humic 和 Folic 酸，支持身体的代谢和排毒功能。
+
+3. **生活方式调整**：
+   - 提高对食品标签的关注，确保选择未受污染的产品。
+   - 考虑定期进行身体 detox（排毒）。
+
+---
+
+### 結論  
+Glyphosate 的潜在危害不容忽视，尤其是其对人体微生物群、免疫系统和微量元素吸收的影响。通过饮食调整和补充特定的天然解毒剂，可以有效降低 glyphosate 对人体健康的威胁。预防措施（如选择有机食品）和辅助治疗手段相结合，能够帮助维护身体健康并减少相关疾病的风险。
 </details>
 
 <details>
-<summary>2174. How to Increase Your Vitamin D Absorption?</summary><br>
+<summary>2174. [2019-05-13] How to Increase Your Vitamin D Absorption?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_zqatJkyhPU" target="_blank">
     <img src="https://img.youtube.com/vi/_zqatJkyhPU/maxresdefault.jpg" 
@@ -346,11 +407,55 @@
 
 # How to Increase Your Vitamin D Absorption?
 
+### 核心主題：維生素D的吸收與其重要性
+- 維生素D不僅僅是補充劑，其在炎症、情緒調節、睡眠障礙（如失眠和睡眠呼吸中斷症候群）、自身免疫疾病及皮膚問題等方面具有重要作用。
+- 骨骼疼痛，尤其是胸骨和小腿的壓痛，可能是維生素D缺乏的徵兆。
 
+### 主要觀念：
+1. **壓力與疲勞**：通過按壓胸骨和小腿來檢查是否有壓痛，這些症狀可能表明維生素D缺乏。
+2. **簡單測試法**：在臨床環境中，讓患者服用高劑量維生素D後，若30分鐘內疼痛消失，可初步判定為維生素D deficiency。
+
+### 問題原因：
+- **遺傳因素**：某些基因突變可能影響維生素D受體的功能，導致吸收不良。
+- **低膽固醇飲食**：低膽固醇或低脂飲食會影響皮膚中膽固醇的供應，而膽固醇是合成維生素D的前驅物。
+- **藥物干擾**：如他汀类药物（statins）會抑制胆固酵合成，間接影響維生素D的生成。
+
+### 解決方法：
+1. **日光曝露**：增加戶外活動，以促進皮膚中的膽固醇轉化為維生素D。
+2. **基因檢測**：進行遺傳學檢查以確定是否存在影響維生素D吸收的突變。
+3. **補充劑量調整**：根據基因結果，可能需要更高劑量的維生素D來彌補吸收不足。
+
+### 健康建議：
+1. **飲食與營養**：
+   - 摂取富含維生素A的食物（如魚肝油），因其有助於維生素D的吸收。
+   - 維生素K2與維生素D3的結合使用，可幫助調節鈣質沉積，防止其在動脈等軟組織中堆積。
+   - 补充锌以提升維生素D的吸收效率。
+
+2. **吸收增效策略**：
+   - **脂肪攝取**：隨餐服用維生素D，因爲它是一種脂溶性維生素，需與脂肪共同攝取以提高吸收率。
+   - **壓力管理**：降低压力水平可以提升維生素D的吸收效果。
+
+3. **藥物注意事項**：
+   - 使用他汀類藥物的患者應密切監控其對維生素D水平的影響，必要時調整補充劑量。
+
+4. **運動與消化**：
+   - 適當的強度運動可增進維生素D的吸收。
+   - 確保充足的鎂攝取，因其在維生素D和鈣質的代謝中扮演重要角色。
+
+5. **益生菌的作用**：
+   - 益生菌有助於循環利用膽汁，從而提高維生素D的消化吸收效率。
+
+6. **硼與K2的輔助作用**：
+   - 硸（boron）能促進骨FORMATION並提升睾酮水平。
+   - 維生素K2在運動表現和能量代谢中具有重要作用，可增強線粒體的能量輸出。
+
+### 結論：
+- 維生素D的吸收是一個多因素相互作用的過程，涉及飲食、基因、藥物使用及生活方式等多個方面。
+- 通過綜合調整飲食結構、補充適當劑量的維生素D、管理壓力並避免干擾因素，可以有效提升其吸收效果，進而最大程度地發揮其健康益處。
 </details>
 
 <details>
-<summary>2173. Dr.Berg Interviews Tristan Haggard On Benefits of Fatty Foods</summary><br>
+<summary>2173. [2019-05-12] Dr.Berg Interviews Tristan Haggard On Benefits of Fatty Foods</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KeFixO8y7n8" target="_blank">
     <img src="https://img.youtube.com/vi/KeFixO8y7n8/maxresdefault.jpg" 
@@ -359,11 +464,35 @@
 
 # Dr.Berg Interviews Tristan Haggard On Benefits of Fatty Foods
 
+### 核心主題  
+- 探讨低糖、低碳水化合物饮食对健康的积极影响。  
+- 强调脂肪作为主要能量来源的健康益处。  
 
+### 主要觀念  
+1. 脂肪是身体的重要营养素，提供稳定的能量和必要的脂肪酸。  
+2. 低碳水化合物饮食有助于维持血糖稳定、降低炎症水平并改善代谢健康。  
+3. 动物性食品（如肝脏、心脏）富含关键营养素，具有显著的营养价值。  
+
+### 問題原因  
+- 现代饮食文化中高糖、高碳水化合物和加工食品的普及导致多种健康问题，包括肥胖、糖尿病和慢性炎症。  
+
+### 解決方法  
+1. 采用低碳水化合物、高脂肪的饮食模式（如生酮饮食）。  
+2. 增加动物性食品的摄入，尤其是富含内脏器官的食物（如肝脏、心脏），以获取关键营养素。  
+3. 推荐使用传统食物保存技术（如制作 pemmican）以便于携带和长期储存健康食品。  
+
+### 健康建議  
+1. 优先选择未经加工的动物性食品，避免过多摄入精制糖和碳水化合物。  
+2. 制定合理的饮食计划，确保营养均衡并结合适量运动。  
+3. 尝试制作传统食物如 pemmican，以备不时之需或作为旅行食品。  
+
+### 结論  
+- 通过调整饮食结构，采用低糖、低碳水化合物的饮食模式，并增加脂肪和动物性食品的摄入，可以显著改善整体健康状况和代谢功能。  
+- 建议公众关注科学饮食方法，以预防慢性疾病并提升生活质量。
 </details>
 
 <details>
-<summary>2172. What Nutrients Are Recommended on OMAD (One Meal A Day)? – Dr. Berg</summary><br>
+<summary>2172. [2019-05-12] What Nutrients Are Recommended on OMAD (One Meal A Day)? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Y-A1vwS8p4E" target="_blank">
     <img src="https://img.youtube.com/vi/Y-A1vwS8p4E/maxresdefault.jpg" 
@@ -372,11 +501,92 @@
 
 # What Nutrients Are Recommended on OMAD (One Meal A Day)? – Dr. Berg
 
+### 文章重點整理
 
+#### 核心主題
+- 一天一餐（Ohm）的飲食方式及其對營養吸收的影響。
+- 維生素和礦物質在不同飲食模式下的攝取需求。
+
+---
+
+#### 主要觀念
+1. **Ohm飲食的基本特點**：
+   - 通常一天只進食一餐，禁食時間約23小時。
+   - 減少熱量攝取，但脂肪燃燒補償了熱量不足。
+   
+2. **營養需求的變化**：
+   - 維生素和礦物質的需求降低，但仍需注意關鍵營養素的攝取。
+   - 需根據飲食質量調整營養攝取。
+
+3. **關鍵營養素的來源與補充建議**：
+   - **維生素A**：推薦直接攝取動物性產品（如蛋黃、魚類）而非依賴植物來源的β-胡蘿蔔素。
+   - **維生素D**：可在日照充足時攝取，否則可通過蘑菇、乳制品和魚類補充。.Code Liver Oil為佳選。
+   - **維生素E**：可通过蔬菜、堅果、種子及橄欖油攝取，若需針對特定問題可額外補充。
+   - **維生素K**：K1易於從深色葉菜攝取，但K2（如乳制品）較為重要。可考慮補充劑。
+   - **礦物質**：
+     - 電解質（鈣、鎂、鉀、氯）建議使用電解質粉末補充。
+     - 微量元素（碘、鋅）可通过海藻或植物基補充劑攝取。
+
+4. **脂肪酸與蛋白質**：
+   - 健康的酮飲食已提供充足的脂肪酸，.cod Liver Oil為優質來源。
+   - 蛋白質攝取建議增加至7-8盎司以應對禁食需求。
+
+---
+
+#### 問題原因
+1. ** soils depletion**：導致微量營養素（如碘、鋅）缺乏。
+2. **飲食限制**：一天一餐可能影響某些營養素的攝取。
+3. **轉化效率低**：植物來源的ω-3脂肪酸（ALA）需多步驟轉化，吸收效果有限。
+
+---
+
+#### 解決方法
+1. **均衡飲食**：
+   - 確保主要營養素（如維生素A、D、E、K及礦物質）攝取充足。
+   
+2. **補充劑的使用**：
+   - 電解質粉末補充關鍵礦物質。
+   - 海藻或植物基微量元素補充劑彌補土壤貧瘠導致的缺乏。
+
+3. **優化脂肪酸攝取**：
+   - 使用cod肝油等富含ω-3脂肪酸的食物來源。
+
+---
+
+#### 健康建議
+1. **飲食結構**：
+   - 確保一天一餐中包含足夠的健康脂肪和蛋白質。
+   
+2. **營養補充**：
+   - 電解質粉末、cod肝油及微量營養素補充劑為推薦選擇。
+
+3. **日常監測**：
+   - 定期評估營養狀況，根據需求調整飲食或補充方案。
+
+---
+
+#### 結論
+一天一餐的Ohm飲食模式需特別注意關鍵營養素的攝取。通過均衡飲食和適當使用補充劑，可保障營養需求並維持健康。cod肝油、電解質粉末及微量營養素補充劑為實現此目標的重要工具。
+
+---
+
+### 文章英文摘要(Abstract)
+
+This article explores the nutritional implications of Ohm (one meal a day) dietary practices, focusing on vitamin and mineral intake. Key points include:
+1. **Core Themes**: The impact of Ohm diet on nutrient absorption.
+2. **Key Concepts**:
+   - Reduced caloric intake compensated by fat burning.
+   - Adjusted needs for vitamins and minerals based on food quality.
+3. **Recommendations**:
+   - Prioritize animal-based sources for Vitamin A.
+   - Use cod liver oil for omega-3 fatty acids and consider supplements for trace minerals like zinc and iodine.
+4. **Conclusion**: Ohm diet requires careful attention to essential nutrients, with supplementation as a viable solution.
+
+The article emphasizes the importance of balanced nutrition and strategic use of dietary supplements to maintain health on an Ohm regimen.
 </details>
 
 <details>
-<summary>2171. Will Metformin (for Type 2 Diabetes) Stop Ketosis? Metformin Side Effects & Lactic Acidosis Dr.Berg</summary><br>
+<summary>2171. [2019-05-11] Will Metformin (for Type 2 Diabetes) Stop Ketosis? Metformin Side Effects & Lactic Acidosis Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vlZOAAqtibY" target="_blank">
     <img src="https://img.youtube.com/vi/vlZOAAqtibY/maxresdefault.jpg" 
@@ -385,11 +595,74 @@
 
 # Will Metformin (for Type 2 Diabetes) Stop Ketosis? Metformin Side Effects & Lactic Acidosis Dr.Berg
 
+### 文章整理與結構化摘要
 
+#### 核心主題
+- **Metformin 的作用及潛在副作用**  
+  Metformin 是用於治療 type 2 糖尿病和多囊卵巢綜合征的藥物，主要針對胰島素抵抗，提高 insulin 的使用效率。
+
+#### 主要觀念
+1. **Mechanism of Metformin**: 
+   - 不會增加體內胰島素水平，而是增強胰島素受体的作用，改善胰島素敏感性。
+   
+2. **Safety Profile**:
+   - 被認為相對安全，但因其潛在的嚴重副作用（如乳酸性酸中毒），需附上黑匣子警告。
+
+3. **Lactic Acidosis Risk**: 
+   - 小概率但可能致命的副作用，與腎臟、肝臟或心臟功能受損患者風險增加有關。
+   
+4. **Thiamine (Vitamin B1) 的角色**:
+   - Metformin 會抑制 Thiamine 的運輸，導致其缺乏，進而增加乳酸性酸中毒的風險。
+
+#### 問題原因
+- **Metformin 的副作用機制**: 
+  - 電子競爭干擾：Metformin 影響紅血球對氧氣和營養素（如維生素 B1）的吸收，導致缺氧和 pH 干擾。
+  
+- **患者群體的脆弱性**:
+  - 糖尿病患者通常伴有腎臟、肝臟或心血管疾病，這些情況會增加乳酸性酸中毒的風險。
+
+#### 解決方法
+1. **Thiamine 补充**:
+   - 在使用 Metformin 的過程中，補充維生素 B1 可以有效降低乳酸性酸中毒的風險。
+   
+2. **劑量管理**:
+   - 適當監控藥物劑量，根據患者健康狀況調整用法。
+
+3. **併發症早期干預**:
+   - 如出現疲勞、心悸或腹痛等症狀，立即評估乳酸性酸中毒的可能性並及時干預。
+
+#### 健康建議
+1. **患者教育**:
+   - 糖尿病患者需了解 Metformin 的潛在副作用及其簡單的解決方案（如維生素 B1 补充）。
+   
+2. **醫師監測**:
+   - 定期追蹤患者的腎臟、肝臟功能，特別是有風險因素的患者。
+
+3. **生活方式干預**:
+   - 鼓勵健康飲食和短期禁食以減少對 Metformin 的依賴，從而降低副作用風險。
+
+#### 結論
+- **Metformin 的平衡使用**: 
+  - 尽管其有效，但需謹慎評估患者狀況並密切監測副作用。
+  
+- **維生素 B1 的重要性**:
+  - 补充維生素 B1 可作為簡單有效的預防措施，降低乳酸性酸中毒的風險。
+
+---
+
+### 結構化摘要全文
+
+Metformin 是用於治療 type 2 糖尿病和多囊卵巢綜合征的重要藥物，其主要作用機制是增強胰島素受体的功能，改善胰島素敏感性。然而，該藥物附有黑匣子警告，因其潛在的严重副作用——乳酸性酸中毒（lactic acidosis）而受到關注。
+
+乳酸性酸中毒是一種罕見但可能致命的症狀，主要與腎臟、肝臟或心臟功能受損患者有關。Metformin 會抑制維生素 B1 的運輸，導致其缺乏，進而增加乳酸性酸中毒風險。研究表明，早期補充維生素 B1 可顯著降低此類併發症的發生。
+
+為降低風險，醫師應密切監測患者的器官功能，並建議患者在使用 Metformin 時補充維生素 B1。此外，健康的生活方式干預，如短期禁食和均衡飲食，可幫助部分患者減少對藥物的依賴，進一步降低副作用風險。
+
+總結而言，Metformin 的使用需謹慎平衡，確保患者在醫師監測下安全有效地使用此藥物，並通過補充維生素 B1 等措施最大限度地降低併發症風險。
 </details>
 
 <details>
-<summary>2170. How To Know if You Have Bile Deficiency? - Dr. Berg</summary><br>
+<summary>2170. [2019-05-11] How To Know if You Have Bile Deficiency? - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vvagzivxGO0" target="_blank">
     <img src="https://img.youtube.com/vi/vvagzivxGO0/maxresdefault.jpg" 
@@ -398,11 +671,76 @@
 
 # How To Know if You Have Bile Deficiency? - Dr. Berg
 
+### 文章整理：膽汁缺乏症狀與影響
 
+#### 核心主題  
+- 胆汁在消化和全身健康中扮演多個重要角色。
+- 胆汁缺乏會導致多種身體機能失調。
+
+---
+
+#### 主要觀念  
+1. **膽汁的功能**  
+   - 作為皂化劑，幫助分解脂肪。  
+   - 協助吸收脂溶性維生素（A、D、E、K）及必需脂肪酸（如ω-3脂肪酸）。  
+   - 維持腸道微生物平衡。  
+   - 預防肝臟脂肪積累和毒性废物排除。  
+   - 調節膽固醇水平，並幫助潤滑大腸。
+
+2. **膽汁缺乏的症狀**  
+   - **脂溶性維生素 deficiency**：  
+     - 維生素 A 缺乏：夜盲症、乾眼症。  
+     - 綴生素 D 缺乏：骨痛、抑鬱、免疫功能降低。  
+     - 經基 E 缺乏：乾燥皮膚、胸痛、肌肉無力。  
+     - 維生素 K1 缺乏：瘀血；K2缺乏：腎结石、动脉硬化、高血壓、關節鈣化。  
+   - **黃疸**：皮膚和眼白變黃。  
+   - **便秘**：膽汁潤滑大腸受影響。  
+   - **脂肪消化不良**：導致腹脹、打嗝、反酸，可能引發 gallbladder 腳病。  
+   - **輕便或浮動的便便**：未消化的脂肪進入糞便。  
+   - **膽石**：膽汁不足降低膽鹽濃度，促進膽石形成。
+
+3. **膽汁缺乏的原因**  
+   - 遮低脂飲食，導致膽囊不刺激。  
+   - 肝臟損傷（如脂肪肝、炎症或肝硬化）。  
+   - 約東切除術後，無法存儲和集中膽汁。  
+   - 胃腸道菌群失衡，影響膽鹽循環。  
+   - 胃腸道結構破壞（如Crohn病、潁血性大腸炎），限制膽鹽吸收。
+
+---
+
+#### 問題原因  
+- 飲食因素：低脂飲食或缺乏饱和脂肪酸攝取。  
+- 解剖結構問題： gallbladder 切除術。  
+- 腫器官功能障礙：肝臟疾病（脂肪肝、炎症、硬化）。  
+- 胃腸道健康問題：如Crohn病、潁血性大腸炎，影響膽鹽吸收。  
+
+---
+
+#### 解決方法與健康建議  
+1. **飲食調整**  
+   - 增加饱和脂肪酸的攝取（如橄欖油、花生油）。  
+   - 減少加工食品和反式脂肪攝入。  
+
+2. **補充 bile salts**  
+   - 對於 gallbladder 切除術後患者，建議在餐後服用膽鹽補充劑。  
+
+3. **維持腸道健康**  
+   - 保持益生菌平衡，促進膽汁循環。  
+   - 適當補充益生元，支持腸道功能。  
+
+4. **健康管理**  
+   - 定期檢查肝臟功能和膽固醇水平。  
+   - 對症治療：如高血壓、腎结石等問題需專業醫療干預。  
+
+---
+
+#### 結論  
+- 胆汁是維持消化和全身健康的重要物質，其缺乏會導致多種臨床症狀和並發症。  
+- 通過飲食調整、膽鹽補充和腸道健康管理，可以有效改善膽汁缺乏問題。
 </details>
 
 <details>
-<summary>2169. How to Lower Cortisol and Fix Your Sleep: Circadian Rhythm, Cortisol, and Sleep - Dr. Berg</summary><br>
+<summary>2169. [2019-05-10] How to Lower Cortisol and Fix Your Sleep: Circadian Rhythm, Cortisol, and Sleep - Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=CXg7OONSTIE" target="_blank">
     <img src="https://img.youtube.com/vi/CXg7OONSTIE/maxresdefault.jpg" 
@@ -411,11 +749,71 @@
 
 # How to Lower Cortisol and Fix Your Sleep: Circadian Rhythm, Cortisol, and Sleep - Dr. Berg
 
+### 核心主題  
+- 糠化皮質醇（Cortisol）的urnal rhythm及其對睡眠品質的影響。
 
+### 主要觀念  
+1. **Cortisol的urnal Pattern**  
+   - 早晨8點左右 cortisol 水平最高，隨後逐漸下降。  
+   - 凌晨2點至凌晨4點為cortisol最低點，此時應處於深度睡眠狀態。
+
+2. **Circadian Rhythm的重要性**  
+   - Circadian Rhythm的紊亂會導致cortisol分泌失衡，影響睡眠品質。
+
+3. **Melatonin的作用**  
+   - Melatonin由松果腺分泌，受光線（尤其黑暗）刺激。  
+   - 光線干擾會打亂Circadian Rhythm，影響睡眠。
+
+4. **Sleep Cycle的結構**  
+   - 每90分鐘一個睡眠週期，包含REM和非REM睡眠。  
+   - 環境光線影響睡眠週期的同步性。
+
+### 問題原因  
+1. **Circadian Rhythm紊亂**  
+   - 高cortisol在夜間、低cortisol於早晨。  
+   - 光線干擾（如人工光源）破壞昼夜節律。
+
+2. **血 sugar 索控**  
+   - 低血糖引發反調節激素（如腎上腺素），干擾深度睡眠。
+
+3. **EMF暴露**  
+   - 電磁場干擾松果腺功能，影響cortisol和睡眠。
+
+4. **過度運動**  
+   - 缺乏恢復導致心率過高，影響睡眠 quality.
+
+5. **營養不足**  
+   - 鈣、鎂、B1缺乏會增加cortisol levels.
+
+### 解決方法與健康建議  
+1. **調整飲食**  
+   - 經常進餐以穩定血糖。  
+   - 健康的生酮飲食和間歇性禁食幫助控制血糖，改善消化。
+
+2. **管理光線暴露**  
+   - 减少晚上使用電子產品，避免干擾松果腺分泌melatonin.
+
+3. **補充營養素**  
+   - 鈣、鎂： calming神經肌肉，降低cortisol。  
+   - 維生素B1：幫助降低cortisol，改善睡眠 quality.
+
+4. **規律運動**  
+   - 适度的有氧運動（如每日30-45分鐘散步）可降低cortisol水平。
+
+5. **避免EMF干擾**  
+   - 離遠電源插座、使用防護設備等，保護松果腺功能。
+
+6. **恢復睡眠環境**  
+   - 确保睡房無光線和噪音干擾，提供安靜、黑暗的環境。
+
+### 結論  
+- Cortisol的urnal rhythm紊乱是影響睡眠品質的主要原因之一。  
+- 通過調整飲食、補充營養、管理光線暴露及規律運動等方法，可有效降低cortisol水平，改善睡眠_quality.  
+- 電磁場和過度運動等因素也需注意，以全面提升睡眠健康。
 </details>
 
 <details>
-<summary>2168. What Are The Benefits of Emu Oil? – Dr.Berg</summary><br>
+<summary>2168. [2019-05-09] What Are The Benefits of Emu Oil? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fJHwWG6pJII" target="_blank">
     <img src="https://img.youtube.com/vi/fJHwWG6pJII/maxresdefault.jpg" 
@@ -424,7 +822,48 @@
 
 # What Are The Benefits of Emu Oil? – Dr.Berg
 
+### 核心主題  
+- 探讨emu油的多方面健康益处及其在皮肤和内部健康中的应用。
 
+### 主要觀念  
+1. **Emu Oil的來源**：  
+   - 來自澳洲鳥類Emuneath下的脂肪。  
+
+2. **成分特性**：  
+   - 富含必需脂肪酸（Omega-3、Omega-6、Omega-9）。  
+   - 具有抗氧化和抗炎性能。  
+   - 含豐富的維生素A和植物營養素。  
+
+3. **皮膚健康用途**：  
+   - 與白癜風、濕疹、銀屑病、乾燥肌膚、皺紋、類天疱瘡、癢癬性皮膚炎及水痘疤痕的治療有關。  
+   - 可改善皮膚外觀，使肌膚更年輕健康。  
+
+4. **腸胃健康用途**：  
+   - 助於修復消化道內壁，促進腸胃整體健康。  
+
+5. **關節與肌肉健康用途**：  
+   - 與關節疼痛、肌肉酸痛的緩解有關。  
+
+### 問題原因  
+- 當代生活方式中皮膚問題（如乾燥、老化）及內部疾病（如腸胃不適、關節炎）普遍存在，與營養不足或氧化應激有關。  
+
+### 解決方法  
+1. **外用Emu Oil**：  
+   - 請求醫生建議，將EMU油作為輔助治療手段，塗抹於皮膚受影響區域，以改善肌膚狀況。  
+
+2. **內服Emu Oil**：  
+   - 可通過膠囊形式攝取EMU油，以增強腸胃健康、緩解關節疼痛。  
+
+3. **結合飲食法與EMU油**：  
+   - 配合健康的生酮飲食及間歇性禁食，從內而外改善整體健康狀況。  
+
+### 健康建議  
+1. 在使用EMU油之前，諮詢專業醫療人員，以評估其適合性與可能的副作用。  
+2. 外用EMU油時，建議先做斑ji測試，確保不會引起過敏反應。  
+3. 確保EMU油來源可靠，選擇純淨無污染的产品。  
+
+### 結論  
+EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具有潛力。然而，其效果因人而異，需配合醫生建議及整體健康管理策略。
 </details>
 
 <details>
@@ -441,7 +880,7 @@
 </details>
 
 <details>
-<summary>2166. Crave Dirt or Chalk? HERE'S WHY!! – Dr.Berg On Zinc Deficiency & Low Iron Levels</summary><br>
+<summary>2166. [2019-05-08] Crave Dirt or Chalk? HERE'S WHY!! – Dr.Berg On Zinc Deficiency & Low Iron Levels</summary><br>
 
 <a href="https://www.youtube.com/watch?v=of1w2GupsJo" target="_blank">
     <img src="https://img.youtube.com/vi/of1w2GupsJo/maxresdefault.jpg" 
@@ -450,11 +889,42 @@
 
 # Crave Dirt or Chalk? HERE'S WHY!! – Dr.Berg On Zinc Deficiency & Low Iron Levels
 
+### 小節歸納
 
+#### 核心主題
+- 探讨食用非食物物质（如chalk, dirt, clay等）的原因及背后的健康问题。
+
+#### 主要觀念
+1. 食用非食物物质的现象：
+   - 包括 chalk、dirt、clay 等。
+2. 這些物質的組合方式：
+   - 濕麵包屑、洗衣粉、冰塊等混合。
+3. 興趣點：將非食物流體化為食物形式（如tin foil sandwich）。
+
+#### 問題原因
+1. 食用非食物物质的原因：
+   - 可能與營養缺乏有關，尤其是缺鐵或缺鋅。
+2. 燉身問題：
+   - 體內鐵過多不易排出，需通過飲食攝取。
+   - 鋅可通過飲食或補充劑攝取。
+
+#### 解決方法
+1. 改善缺鐵：
+   - 增加紅肉攝取。
+   - 消化肝臟（如未喜愛肝臟，可選擇草飼肝臟丸）。
+2. 补鋅：
+   - 通過飲食或補充劑攝取。
+
+#### 健康建議
+1. 营養均衡飲食的重要性。
+2. 避免食用非食物物質，以防健康風險。
+
+#### 結論
+- 食用非食物物质可能反映營養缺乏問題，需通過合理飲食或補充劑來改善。
 </details>
 
 <details>
-<summary>2165. 7 Signs You Are Not Drinking Enough Water – Dr.Berg On Dehydration Symptoms & Water Retention</summary><br>
+<summary>2165. [2019-05-08] 7 Signs You Are Not Drinking Enough Water – Dr.Berg On Dehydration Symptoms & Water Retention</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ecw1-uPbfOk" target="_blank">
     <img src="https://img.youtube.com/vi/ecw1-uPbfOk/maxresdefault.jpg" 
@@ -463,11 +933,72 @@
 
 # 7 Signs You Are Not Drinking Enough Water – Dr.Berg On Dehydration Symptoms & Water Retention
 
+### 重點整理
 
+#### 核心主題：dration Signs and Solutions
+ dehydration是影響健康的重要問題，影片探討了dehydration的七大徵兆及相應的解決方法，特別著重於飲食計劃（如低碳饮食）下的水分攝取與健康管理。
+
+---
+
+#### 主要觀念：
+1. **dehydration的危害**  
+   - 雖然過量飲水有風險，但dehydration會導致健康問題。
+   - 水分不足會影響尿液濃度，增加結石形成的風險。
+
+2. **水分攝取的指標**  
+   - 除了口渴感，還有其他生理徵兆表明需補充水分。
+
+3. **特殊族群的考量**  
+   - 病史為泌尿系統結石（注：原文「石廠」應改正為「泌尿系統結石」）的人群需要特別注意多喝水以降低結石風險。
+   - 遵循低碳饮食（如酮飲食）的人群可能因鹽分攝取不足而影響水分平衡。
+
+---
+
+#### 問題原因：
+1. **泌尿系統結石**  
+   - 水分攝取不足導致尿液濃度升高，促成結晶沈淀形成结石。
+
+2. **低血壓與酮飲食相關問題**  
+   - 饮食可能降低體內碳水化合物與鹽分攝取，導致血容量下降和低血壓。
+
+3. **纖維攝取不足或水分不足引起的便秘**  
+   - 經蔬菜中的纖維需要足夠的水分才能形成凝膠狀物質，否則可能引起便秘。
+
+---
+
+#### 解决方法：
+1. **增加水分攝取**  
+   - 特別是對有泌尿系統結石病史的人群和低血壓患者。
+
+2. **鹽分攝取平衡**  
+   - 每日建議攝取約1000毫克的食鹽，以幫助維持液體平衡。
+
+3. **監控尿液顏色**  
+   - 理想尿液顏色為淡黃色（如草桿），過深表示可能dehydration。
+
+4. **皮膚彈性測試**  
+   - 用來評估hydrated狀態的簡單方法，皮膚回弾速度可反映液體平衡。
+
+5. **飲食調整與補充水分**  
+   - 食用高纖維食物後，應增加水份攝取以避免便秘。
+
+---
+
+#### 健康建議：
+1. 定期檢查血壓和尿液顏色，作為hydrated指標。  
+2. 確保每日足夠的水分攝取，特別是在進行低碳飲食時。  
+3. 適當攝取鹽分，避免因鹽分不足導致低血壓或脫水。  
+4. 通過皮膚彈性測試自我評估hydrated程度。  
+5. 多喝水以促進纖維的作用，防止便秘。
+
+---
+
+#### 結論：
+影片強調hydration的重要性，並提供多項實用建議來幫助觀眾評估和改善自己的水分攝取狀況。雖然dehydration是常見問題，但藉由注意身體徵兆和調整飲食習慣，可以有效避免相關健康風險。
 </details>
 
 <details>
-<summary>2164. 12 Ways You Can Get Vitamin B1 (Thiamine) Deficiency – Dr. Berg</summary><br>
+<summary>2164. [2019-05-07] 12 Ways You Can Get Vitamin B1 (Thiamine) Deficiency – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ZbFmzRm-Liw" target="_blank">
     <img src="https://img.youtube.com/vi/ZbFmzRm-Liw/maxresdefault.jpg" 
@@ -476,11 +1007,68 @@
 
 # 12 Ways You Can Get Vitamin B1 (Thiamine) Deficiency – Dr. Berg
 
+### 文章主題：維生素B1 deficiency及相關影響與防治策略
 
+---
+
+#### 核心主題：
+- 維生素B1（硫胺素）在人體內扮演重要角色，缺乏時會引發多種健康問題。
+- 需要探討其缺因、影響及防治方法。
+
+---
+
+#### 主要觀念：
+1. **維生素B1的功能**：
+   - 與能量代謝有關。
+   - 保護神經系統免受高血糖損害。
+   - 維持記憶功能，特別是新記憶的形成。
+
+2. **缺乏症狀**：
+   - **神經系統問題**：周邊神經病變、聽力損失、耳鳴、視網膜異常（如糖尿病性視網膜病变）。
+   - **心血管問題**：乳酸酸中毒、心臟負荷增加、水腫。
+   - **全身性影響**：疲勞、壓力增大、呼吸受阻。
+
+3. **缺乏的原因**：
+   - 饮食因素： refined carbohydrates（精制碳水化合物，如白麵包、義大利面）、white rice（白米）。
+   - 生活方式：酒精攝取過量。
+   - 疾病與藥物：胃繞道手術、感染、抗生素（如Flagyl或Cipro）、Diuretics（利尿劑）、Metformin（二甲雙胍）。
+
+---
+
+#### 問題原因分析：
+- 遥遠的原因包括飲食選擇、酒精濫用、疾病干擾吸收或代謝。
+- 薯糧加工導致B1流失，且精緻碳水化合物需更多B1代謝，但常被合成添加而非自然攝取。
+
+---
+
+#### 解決方法：
+1. **調整飲食**：
+   - 減少精緻 carbs 取。
+   - 增加天然富含 B1 的食物：瘦肉、全穀物、豆類、葵花籽、花生。
+
+2. **藥物干預**：
+   - 使用補充劑，如自然形式的硫胺素（建議使用未被強化的人工合成營養酵母）。
+   - 適當補充可迅速改善乳酸酸中毒等症狀。
+
+3. **基因因素**：
+   - 對於運輸缺陷患者，需長期依賴補充或特殊飲食管理。
+
+---
+
+#### 健康建議：
+- 定期評估 B1 狀況，特別是糖尿病患者及使用Metformin的人群。
+- 避免過量酒精攝取，注意藥物副作用。
+- 選擇全穀物、瘦肉等天然來源，而非精緻加工食品。
+
+---
+
+#### 結論：
+- 維生素B1缺乏可導致多種嚴重健康問題，需從飲食、藥物及基因層面全面防治。
+- 自然補充途徑有效且安全，值得重視。
 </details>
 
 <details>
-<summary>2163. Is Gluten Bad For You? – Dr.Berg Discusses The Big Problem With Gluten Free Foods</summary><br>
+<summary>2163. [2019-05-07] Is Gluten Bad For You? – Dr.Berg Discusses The Big Problem With Gluten Free Foods</summary><br>
 
 <a href="https://www.youtube.com/watch?v=u8YFHAAuC7A" target="_blank">
     <img src="https://img.youtube.com/vi/u8YFHAAuC7A/maxresdefault.jpg" 
@@ -489,11 +1077,52 @@
 
 # Is Gluten Bad For You? – Dr.Berg Discusses The Big Problem With Gluten Free Foods
 
+# 文章重點整理
 
+## 核心主題  
+ Gluten-free饮食是否与Keto-friendly兼容及其健康影响。
+
+---
+
+## 主要觀念  
+1. **麸質（Gluten）的定义**：  
+   麸質是小麦等谷物中的一种蛋白质，可能引发乳糜泻等炎症性肠道疾病。
+   
+2. **麸质敏感性的影响**：  
+   对麸质敏感的人群可能会出现肠道、甲状腺等多种部位的炎症问题。
+
+3. **麸质-free饮食的潜在问题**：  
+   通过去除麸质（蛋白质部分），谷物中碳水化合物的浓度相对增加，可能引发血糖和胰岛素水平的剧烈波动，导致更多炎症反应。
+
+---
+
+## 問題原因  
+1. 替代麸质的原料（如大米粉、土豆淀粉、玉米淀粉、木薯淀粉）通常含有较高的碳水化合物。  
+2. 这些替代品可能导致血糖指数升高，引发更多的代谢和炎症问题。
+
+---
+
+## 解決方法  
+1. **减少谷物摄入**：  
+   采用无谷物饮食（Grain-free），避免大米、土豆、玉米和木薯淀粉等高碳水化合物来源。  
+
+2. **选择低升糖替代品**：  
+   使用Keto-friendly的替代食品，以降低血糖波动并维持代谢健康。
+
+---
+
+## 健康建議  
+1. 优先选择低碳水化合物的食物，如蔬菜、坚果和种子，而非麸质-free谷物。  
+2. 结合Keto饮食原则，确保营养均衡且避免高升糖食物。
+
+---
+
+## 結論  
+尽管麸质-free饮食有助于减少乳糜泻等炎症性疾病的发病风险，但其替代品可能导致血糖和胰岛素水平的波动，进而引发更多健康问题。建议采用无谷物饮食，并结合Keto-friendly原则以实现长期代谢健康。
 </details>
 
 <details>
-<summary>2162. What Is Bisphenol A (BPA) & How To Reduce Exposure To It? – Dr.Berg</summary><br>
+<summary>2162. [2019-05-06] What Is Bisphenol A (BPA) & How To Reduce Exposure To It? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HAb5Oe18XHs" target="_blank">
     <img src="https://img.youtube.com/vi/HAb5Oe18XHs/maxresdefault.jpg" 
@@ -502,11 +1131,62 @@
 
 # What Is Bisphenol A (BPA) & How To Reduce Exposure To It? – Dr.Berg
 
+### 文章題目：Bisphenol A (BPA) 的危害及其健康影響
 
+---
+
+#### 一、核心主題  
+- **BPA**（雙酚A）是一種廣泛存在的環境化學物質，具有内分泌干擾作用。  
+- BPA可模擬人體雌性激素的作用，且其影響具有累積性。  
+
+---
+
+#### 二、主要觀念  
+1. **BPA的來源及暴露途徑**  
+   - 存於塑膠容器、瓶裝水、嬰兒奶瓶等日常用品中。  
+   - 通過飲食、接觸等方式進入人體。  
+
+2. **健康影響**  
+   - **婦女健康問題**：增加多囊卵巢綜合症（PCOS）風險，干擾激素平衡。  
+   - **男性健康問題**：降低精子數量和睾丸素水平，導致乳腺組織增生等問題。  
+   - **兒童與嬰兒的敏感性**：此群體對BPA更加脆弱，暴露後可能引發長期影響。  
+
+3. **生物機制**  
+   - BPA可刺激芳香化酶（aromatase），促進睾酮轉化為雌激素，打破荷爾蒙平衡。  
+
+---
+
+#### 三、問題原因  
+- 現代生活對塑膠產品的高度依賴導致了BPA的大規模暴露。  
+- 興趣產業對塑膠容器的廣泛使用增加了環境和人體暴露風險。  
+
+---
+
+#### 四、解決方法與健康建議  
+1. **降低BPA暴露**  
+   - 使用玻璃、陶瓷或不鏽鋼材質的餐具和 containers，避免微波爐中使用塑膠器皿。  
+   - 選擇裝有水濾芯的淨水器，減少瓶裝水的使用。  
+
+2. **飲食干預**  
+   - 增加十字花科蔬菜（如西兰花、甘藍）的攝取，這些蔬菜富含硫化物和抗氧化劑，有助於分解和排出體內的内分泌干擾物。  
+
+3. **特殊群體注意事項**  
+   - 孕婦、哺乳期婦女、嬰兒及兒童應特別避免接觸塑膠制品，尤其是奶瓶和吸管杯。  
+
+---
+
+#### 五、結論  
+- BPA作為一種廣泛存在的内分泌干擾物，對人體健康具有多方面的危害。  
+- 消除完全暴露的可能性雖具挑戰性，但通過改用安全材質和攝取特定食物，可以有效降低風險。  
+- 健康管理應從日常習慣入手，特別是針對易感人群，需更加謹慎地避免環境毒素的影響。  
+
+--- 
+
+此文整理結構清晰，用詞正式，適合學術用途。
 </details>
 
 <details>
-<summary>2161. Will Apple Cider Vinegar Burn Your Skin or Heal It? – Dr.Berg</summary><br>
+<summary>2161. [2019-05-06] Will Apple Cider Vinegar Burn Your Skin or Heal It? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=1et-c3Ntbm4" target="_blank">
     <img src="https://img.youtube.com/vi/1et-c3Ntbm4/maxresdefault.jpg" 
@@ -515,11 +1195,93 @@
 
 # Will Apple Cider Vinegar Burn Your Skin or Heal It? – Dr.Berg
 
+===== 整理後的文章 =====
 
+# 文章整理：關於使用.external_applied_acid對皮膚的影响及建議
+
+## 核心主題
+- 探讨外部使用酸性物質（如蘋果 cider vinegar）對人體皮膚的影響及其安全性。
+
+---
+
+## 主要觀念
+
+1. **皮膚pH值的重要性**
+   - 皮膚表面的正常pH值為5.5，呈弱酸性。
+   - pH值低於7表示酸性增強，高於7則表 알カリ성 증가。
+   - pH值每降低一個數位，酸性強度增加10倍（例如：pH 6比pH 7酸10倍）。
+
+2. **皮膚分泌物的酸性特質**
+   - 汗液和油脂（Sebum）具有弱酸性，pH值在4至5.5之間。
+
+3. **外部使用酸性物質的風險**
+   - 蘋果 cider vinegar的pH值在2至3之間，比皮膚酸性高百倍以上。
+   - 高濃度酸性物質直接接觸皮膚會引發刺激甚至灼傷。
+
+4. **外用酸性物質的作用機制**
+   - 通過提供酸性環境來抑製某些有害微生物的生長，增強皮膚免疫力。
+   - 可能有助於清潔毛孔並使皮膚更柔軟、有彈性。
+
+---
+
+## 問題原因
+
+1. **高濃度酸性物質的刺激性**
+   - 蘋果 cider vinegar的pH值過低，直接使用會破壞皮膚屏障功能，導致不適甚至損傷。
+
+2. **對痤瘡（Acne）的作用有限**
+   - 文章指出，痤瘡通常與維生素A缺乏或激素失衡有關，而非外部酸性物質可以直接治愈。
+
+---
+
+## 解决方法
+
+1. **稀釋使用酸性物質**
+   - 推薦將_EXTERNAL_APPLIED_ACID_（如蘋果 cider vinegar）以1茶匙兌1杯水的比例稀釋。
+   - 確保外部使用的酸性溶液pH值接近皮膚的自然環境，以降低刺激風險。
+
+2. **選擇合適的皮膚護理產品**
+   - 使用經過調配、適合皮膚pH值的清潔和護理產品。
+
+---
+
+## 健康建議
+
+1. **痤瘡治療的綜合方法**
+   - 通過飲食調整（如降低碳水化合物攝取）、酮飲食及其他方式來改善痤瘡。
+   - 补充微量元素（如鋅、維生素A）和進行間歇性禁食。
+
+2. **保護皮膚屏障功能**
+   - 避免使用高濃度酸性物質直接接觸皮膚，以免擾亂其自然pH平衡。
+
+3. **諮詢專業意見**
+   - 若有疑問或皮膚問題，建議諮詢 дерматолог для個化化的治療建議。
+
+---
+
+## 理論上的錯誤與含糊之處
+
+1. **痤瘡病因的表述不夠精準**
+   - 文章提到痤瘡與「vitamin A deficiency」或「androgen excess」有關，但未明確其因果關係。
+   - 須進一步強調痤瘡的多因素性，包括遺傳、激素水平、皮脂腺活性等。
+
+2. **外部酸性物質的效果表述過於籠統**
+   - 文章提到外部使用酸性物質可「清潔 pores」和「軟化 skin」，但缺乏具體的科學依據支持這些CLAIM。
+   - 需要引用更多研究來驗證其效用。
+
+3. **稀釋比例的建議可能不足**
+   - 推荐1茶匙兌1杯水的比例，但未提及具體pH值目標範圍。
+   - 建議進一步測試稀釋後溶液的pH值，以確保其安全性。
+
+---
+
+## 總結
+
+外部使用酸性物質（如蘋果 cider vinegar）需謹慎，因其高濃度可能對皮膚造成刺激。正確的方法是將其稀釋至合適的pH範圍，並避免直接接觸敏感部位。對於痤瘡等問題，建議採取綜合治療方案，包括飲食調整、補充微量營養素和諮詢專業人員。
 </details>
 
 <details>
-<summary>2160. What is Vitamin K2, Its Benefits & Sources? – Dr.Berg</summary><br>
+<summary>2160. [2019-05-05] What is Vitamin K2, Its Benefits & Sources? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=OjmyXDdoJsg" target="_blank">
     <img src="https://img.youtube.com/vi/OjmyXDdoJsg/maxresdefault.jpg" 
@@ -528,11 +1290,55 @@
 
 # What is Vitamin K2, Its Benefits & Sources? – Dr.Berg
 
+### 核心主題：維生素K2的作用與重要性
 
+#### 主要觀念：
+1. **维生素K的分類**：
+   - **vitamin K1**：主要功能為促 clotting，幫助血液凝固、止血，並參與骨密度的形成。身體通常不易缺乏。
+   - **vitamin K2**：與K1不同，K2在多個生理過程中起關鍵作用，包括 calcium 的調節和能量代謝。
+
+2. **维生素K2的功能**：
+   - 調控 calcium 的分布，將其從軟組織運送到骨骼。
+   - 促進線粒體的能量代谢，提升運動耐力和心臟輸出量。
+   - 具有抗炎作用，可能有助於關節健康。
+
+3. **维生素K2的來源**：
+   - 主要來源於菌類、草食性動物產品（如肝臟、蛋黃、肉類、乳酪）及發酵食品（如納豆）。
+   - 补充劑中常見的形式為MK-4和MK-7，尤以天然的MK-7為推薦。
+
+#### 問題原因：
+1. **缺乏的原因**：
+   - 遷移性 diet 中攝取不足。
+   - 長期使用抗生素、抗酸藥或statins等藥物影響腸道菌群，降低K2的合成能力。
+   - 消化系統疾病（如Crohn’s病、IBS）影響吸收。
+
+#### 解決方法：
+1. **補充建議**：
+   - 增加富含vitamin K2的食物攝取。
+   - 考慮服用天然形式的MK-7補充劑，以彌補不足。
+
+2. **聯合使用其他維生素**：
+   - 維生素D3與K2應共同補充，避免過量 calcium 在軟組織中沉積。
+   - 遊離 calcium 補充時需搭配K2，以指導 calcium 的正確分布。
+
+#### 健康建議：
+1. **特定人群的補充**：
+   - 曾接受大量抗生素、抗酸藥或statins治療的人群。
+   - 存在胃腸道疾病（如 diverticulitis、炎症性腸病）患者。
+   - 骨骼健康問題者，尤其是更年期婦女。
+
+2. **運動與能量**：
+   - 補充K2可提升運動耐力和心臟功能，適合需要增強體能的人群。
+
+3. **孕期與關節健康**：
+   - 孕妇及有炎症或關節問題的人群應注意攝取足夠的K2。
+
+#### 結論：
+维生素K2在 calcium 調控、能量代謝和整體健康中具有不可替代的作用。由於現代 diet 和藥物使用常導致其缺乏，補充vitamin K2對於預防骨質疏鬆、心血管疾病及提升運動表現至關重要。建議通過飲食調整或天然補充劑來確保足夠攝取，並結合其他維生素如D3共同使用，以發揮最佳健康效果。
 </details>
 
 <details>
-<summary>2159. Are You Getting Enough Vitamin D From Foods? HIGHLY UNLIKELY! – Dr.Berg</summary><br>
+<summary>2159. [2019-05-05] Are You Getting Enough Vitamin D From Foods? HIGHLY UNLIKELY! – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=CsJBQKzDgrw" target="_blank">
     <img src="https://img.youtube.com/vi/CsJBQKzDgrw/maxresdefault.jpg" 
@@ -541,11 +1347,71 @@
 
 # Are You Getting Enough Vitamin D From Foods? HIGHLY UNLIKELY! – Dr.Berg
 
+# 文章整理：維生素D攝取與健康影響
 
+## 核心主題
+- 維生素D的攝取來源及其對健康的影響。
+- 探讨是否能通過飲食獲得足夠的維生素D。
+
+## 主要觀念
+1. **每日推薦攝取量（RDA）**：
+   - 維生素D的日需求量為400至800國際單位（IU），此數值主要基於防禦疾病如佝價病，而非維持健康。
+   - 實際需求可能遠高於現行推薦值。
+
+2. **食物來源及含量**：
+   - **富含維生素D的食物**包括：
+     - 沙丁魚（3.5盎司：640 IU）
+     - 魷魚（4盎司：410 IU）
+     - 素食罐頭（3盎司：175 IU）
+     - 黃花魚（4盎司：92 IU）
+   - **蛋類**（1個：42 IU）及**牛肝油**（1茶匙：1360 IU）也是良好來源。
+   - 維生素D多見於脂肪含量較高的食物中。
+
+3. **其他來源**：
+   - **蘑菇**（半杯）含維生素D2，但轉化為活性形式的效率不高。
+   - 動物性來源主要提供維生素D3，吸收率較高。
+
+## 問題原因
+1. **飲食攝取不足**：
+   - 即使攝取富含維生素D的食物，每日總攝取量仍難以達到推薦值。
+   - 部分食物提供的維生素D為非活性形式（如D2），吸收效果較差。
+
+2. **紫外線暴露限制**：
+   - 雖然陽光照射是合成維生素D的重要來源，但多種因素影響其有效性：
+     - **年齡**：隨著年齡增長，皮膚對紫外線的吸收能力下降。
+     - **體重**：肥胖或超重者較難有效吸收維生素D。
+     - **肌膚色調**：深色肌膚人群需要更多陽光照射以合成足夠的維生素D。
+   - 地理位置亦影響紫外線暴露，北部地區居民尤易缺乏。
+
+3. **健康狀態影響**：
+   - 肝臟功能、维生素D受體突變等因素會降低吸收效率。
+   - 濕疹等皮膚問題可能影響維生素D的合成。
+
+4. **生活習慣**：
+   - 使用防曬霜、穿著覆蓋全身的衣服或生活在陰暗地區，均限制紫外線暴露。
+
+## 解決方法與健康建議
+1. **增加陽光暴晒**：
+   - 每天10至30分鐘的紫外線暴露（具體時長依皮膚色調及地理位置調整），裸露臉部、雙臂或腿部。
+   - 避免防曬霜，並確保皮膚直接接觸陽光。
+
+2. **飲食調整**：
+   - 增加富含維生素D食物的攝取量，如脂肪魚類、蛋類及牛肝油。
+
+3. **補充劑使用**：
+   - 考慮口服維生素D補充劑，特別是對於無法足夠暴露陽光或存在吸收障礙的人群。
+
+4. **健康檢查**：
+   - 定期檢測血清25-羟基維生素D水平，以評估 deficiency 況並及時調整攝取量。
+
+## 結論
+- 飲食來源難以滿足足夠的維生素D需求。
+- 維生素D缺乏問題普遍存在，影響多方面健康。
+- 結合陽光暴晒、飲食調整及必要補充劑是有效的解決途徑。
 </details>
 
 <details>
-<summary>2158. Dr.Berg and Thomas Delauer Chat On How They Ended Up In The Keto World</summary><br>
+<summary>2158. [2019-05-04] Dr.Berg and Thomas Delauer Chat On How They Ended Up In The Keto World</summary><br>
 
 <a href="https://www.youtube.com/watch?v=btR4y0TP0Lg" target="_blank">
     <img src="https://img.youtube.com/vi/btR4y0TP0Lg/maxresdefault.jpg" 
@@ -554,11 +1420,40 @@
 
 # Dr.Berg and Thomas Delauer Chat On How They Ended Up In The Keto World
 
+### 文章重點整理
 
+#### 1. 核心主題  
+- 探讨维生素D和Omega-3脂肪酸对人体健康的重要性及其作用机制。  
+- 强调阳光照射、饮食摄入以及补充剂在维持维生素D水平中的关键作用。  
+
+#### 2. 主要觀念  
+- 维生素D不仅是骨骼健康的必需营养素，还对免疫系统、抗炎反应和整体代谢具有重要作用。  
+- Omega-3脂肪酸（如鱼油）具有抗炎特性，并能提供大脑和心血管系统的保护。  
+
+#### 3. 問題原因  
+- 现代生活方式导致维生素D摄入不足：  
+  - 长时间室内工作，减少阳光暴露。  
+  - 饮食中缺乏富含维生素D的食物（如鱼类、蛋黄）。  
+  - 地理位置和季节变化影响阳光照射量。  
+
+#### 4. 解決方法  
+- 增加阳光暴露：每天10-30分钟的适度日晒，避免过度防晒。  
+- 饮食调整：摄入富含维生素D的食物（如鱼类、蛋黄、强化食品）。  
+- 补充剂使用：选择高质量的维生素D补充剂，建议在医生指导下进行剂量调整。  
+
+#### 5. 健康建議  
+- 定期监测维生素D水平，确保其维持在正常范围内（通常为30-100 ng/mL）。  
+- 结合Omega-3脂肪酸的摄入，以增强抗炎效果和整体健康状况。  
+- 对于特殊人群（如孕妇、儿童、老年人），需特别关注维生素D的摄入量。  
+
+#### 6. 結論  
+- 维生素D和Omega-3脂肪酸对人类健康至关重要，缺乏会导致多种疾病风险增加。  
+- 通过合理膳食、适度日晒和必要补充，可以有效预防相关健康问题。  
+- 建议公众关注自身维生素D水平，并与医疗专业人员合作制定个性化健康管理计划。
 </details>
 
 <details>
-<summary>2157. What Causes Varicose Veins & How To Get Rid Of It? – Dr. Berg</summary><br>
+<summary>2157. [2019-05-04] What Causes Varicose Veins & How To Get Rid Of It? – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KSdMr2JkMGM" target="_blank">
     <img src="https://img.youtube.com/vi/KSdMr2JkMGM/maxresdefault.jpg" 
@@ -567,11 +1462,41 @@
 
 # What Causes Varicose Veins & How To Get Rid Of It? – Dr. Berg
 
+### 小節歸納
 
+#### 核心主題  
+- 变形性静脉曲张（Varicose Veins）的成因与雌激素（Estrogen）的关系及其影响机制。
+
+#### 主要觀念  
+1. 雌激素水平升高与静脉扩张及静脉曲张的临床表现密切相关。
+2. 身体内的芳香酶（Aromatase）将睾酮（Testosterone）转化为雌激素，脂肪组织中存在该酶，导致肥胖者体内雌激素水平过高。
+
+#### 問題原因  
+1. 雌激素过多：  
+   - 自然产生的雌激素（Endogenous Estrogen）增加导致静脉扩张和扭曲。  
+2. 脂肪组织的作用：  
+   - 体内芳香酶将睾酮转化为雌激素，脂肪较多的人体容易成为“雌激素工厂”，导致内分泌失调。
+
+#### 解決方法  
+1. 减少雌激素的产生：  
+   - 控制体重，减少脂肪储存以降低芳香酶活性。  
+2. 膳食干预：  
+   - 摄入富含异硫氰酸盐（Isothiocyanates）的食物，如十字花科蔬菜（Kale, Broccoli, Brussels Sprouts, Cabbage），以抑制芳香酶活性。  
+   - 可考虑补充DIM（Diindolylmethane），一种更高效的芳香酶抑制剂。  
+3. 生活方式调整：  
+   - 坚持适度至高强度的有氧运动，促进血液回流，改善静脉功能。  
+
+#### 健康建議  
+1. 采用健康的低碳饮食（如生酮饮食）和间歇性禁食以控制体重。  
+2. 增加十字花科蔬菜的摄入量，并考虑使用DIM补充剂。  
+3. 定期进行高强度运动，促进血液循环。  
+
+#### 結論  
+- 变形性静脉曲张与体内雌激素水平密切相关。通过控制体重、调整饮食和增加运动量，可以有效降低雌激素 dominance 的风险并改善静脉健康。
 </details>
 
 <details>
-<summary>2156. 5 Big Keto Diet Myths That Are Dead Wrong – Dr. Berg</summary><br>
+<summary>2156. [2019-05-03] 5 Big Keto Diet Myths That Are Dead Wrong – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=CcweqjpQs7I" target="_blank">
     <img src="https://img.youtube.com/vi/CcweqjpQs7I/maxresdefault.jpg" 
@@ -580,11 +1505,91 @@
 
 # 5 Big Keto Diet Myths That Are Dead Wrong – Dr. Berg
 
+### 文章整理：五個被誤傳的迷思與真相
 
+#### 核心主題
+本文旨在糾正五個常見的健康飲食迷思，並提供科學依據和建議。
+
+---
+
+#### 主要觀念
+
+1. **脂肪攝取與心血管健康**
+   - 長期以來，脂肪攝取被錯誤地認為會導致心臟病。
+   - 真相：脂肪本身不直接導致心臟問題，反而是糖分和精緻碳水化合物的過量攝取才會引起健康問題（如glycation）。
+
+2. **低碳水化合物飲食與腦部功能**
+   - 論點：低碳水飲食會「餓死」 brain。
+   - 真相：
+     - 大腦主要依賴葡萄糖，但也能利用酮體作為能量來源。
+     - 在某些神經退化性疾病（如阿爾茨海默症和帕金森病）中，問題根源在於胰島素抵抗，而非低碳水飲食。
+
+3. **高蛋白飲食的副作用**
+   - 論點：高蛋白飲食會導致口臭和便秘。
+   - 真相：
+     - 低碳水化合物飲食（如生酮 diet）並非高蛋白飲食，而是中等蛋白質攝取。
+     - 口臭和便秘通常與碳水化合物攝取過量有關。
+
+4. **酮症酸中毒的風險**
+   - 論點：酮症可能引發酮症酸中毒。
+   - 真相：
+     - 酮症酸中毒是病理條件（如1型糖尿病）下的危險情況，而營養酮osis是一種安全的生理性代謝状态。
+
+5. **脂肪攝取的可持續性**
+   - 論點：食用 butter 和 bacon fat 不健康且不可持續。
+   - 真相：
+     - 生酮飲食中包含健康的aturated fats（如grass-fed牛油和 органический ветчин），而非單純依賴油炸食品。
+     - 反而是大量的 vegetable oils（如玉米油、大豆油）才是真正不健康且不可持續的來源。
+
+---
+
+#### 問題原因
+1. **脂肪污名化**：傳統觀念中，脂肪被錯誤地與肥胖和心臟病畫上等號。
+2. **神經退化疾病的誤解**：將神經退化症歸咎於低碳水飲食，而未考慮胰島素抵抗等因素。
+3. **酮症酸中毒的混淆**：將營養酮osis 與病理性的酮症酸中毒混為一談。
+4. **脂肪來源的錯誤判斷**：忽視了健康 fats（如牛油）與不健康的 vegetable oils 之間的差異。
+
+---
+
+#### 解決方法
+
+1. 平衡飲食結構：
+   - 控制碳水化合物攝取，避免精緻糖和加工食品。
+   - 確保足夠的健康脂肪來源（如avian fat, nuts, 和 olive oil）。
+   - 中等蛋白質攝取以維持肌肉和神經功能。
+
+2. 選擇健康 fats：
+   - 選用未精製的aturated fats（如grass-fed牛油、橄欖油）。
+   - 拒絕工業化 vegetable oils（如玉米油、大豆油）。
+
+3. 管理血糖和胰島素：
+   - 減少慢性碳水化合物攝取以避免胰岛素抵抗。
+   - 適當 intermittent fasting 促進神經元新生（neurogenesis）。
+
+---
+
+#### 健康建議
+
+1. **飲食結構調整**：
+   - 採用低碳水化合物、中等蛋白質和健康脂肪的飲食模式。
+   - 減少精緻糖和加工食品的攝取。
+
+2. **脂肪來源選擇**：
+   - 選擇天然、未精製的aturated fats。
+   - 深入了解食物來源（如 GMO 與非 GMO 產品）。
+
+3. **健康生活方式**：
+   - 定期運動以提高胰島素敏感性。
+   - 確保充足的睡眠和壓力管理，促進整體健康。
+
+---
+
+#### 結論
+本文指出，許多常見的飲食迷思源於對脂肪和碳水化合物作用的錯誤理解。事實上，合理的飲食結構（如低碳水化合物飲食）不僅不會損害健康，反而能改善血糖控制、促進神經元新生並降低慢性病風險。建議公眾在選擇飲食方式時，應基於科學證據，避免被錯誤信息誤導。
 </details>
 
 <details>
-<summary>2155. How To Lower Blood Pressure Naturally JUST With Breathing – Dr. Berg</summary><br>
+<summary>2155. [2019-05-02] How To Lower Blood Pressure Naturally JUST With Breathing – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=1A_InYwsXz0" target="_blank">
     <img src="https://img.youtube.com/vi/1A_InYwsXz0/maxresdefault.jpg" 
@@ -593,7 +1598,49 @@
 
 # How To Lower Blood Pressure Naturally JUST With Breathing – Dr. Berg
 
+### 核心主題
+- **自主神經系統（ANS）**：文章圍繞自主神經系统的功能和其對血壓的影響展開。
+- **呼吸控制 technique**：介紹了一種通過呼吸技巧來調節自主神經系統的方法，從而降低血壓。
 
+### 主要觀念
+1. **自主神經系統的功能**：
+   - 分為交感神經（「戰或逃」反應）和副交感神經（「休息和消化」反應）。
+   - 這些系統共同調節心率、血壓等生理指標。
+
+2. **血壓的組成**：
+   - 收縮壓（systolic pressure，即心臟收縮時的壓力）代表血管的收縮能力。
+   - 舒張壓（diastolic pressure，即心臟放鬆時的壓力）代表血管的松弛能力。
+
+3. **血壓昇高的原因**：
+   - 經常情況下，收縮壓可能率先昇高，隨後舒張壓也可能跟隨上升。
+   - 不良呼吸模式（如應激狀態下的不規則呼吸）會影響自主神經系統的平衡。
+
+### 問題原因
+- **不良呼吸模式**：
+  - 經常在壓力下，人們的呼吸變得紊亂，例如吸氣過長而呼氣短促。
+  - 這種不平衡的呼吸方式擾亂了自主神經系統的平衡，導致血壓昇高。
+
+### 解決方法
+1. **呼吸控制技巧**：
+   - 慢速吸氣和呼氣，各持續五秒鐘。
+   - 重複此過程二到三分鐘（或可長達五分钟）。
+   - 此技巧可促進副交感神經的活動，從而引發整體放鬆反應。
+
+### 健康建議
+- **實施時機**：
+  - 睡前進行：有助於改善睡眠品質。
+  - 駕車或其他壓力情境下：可即時緩解壓力。
+  - 患有失眠症的個體：此方法也可作為助眠技巧。
+
+### 結論
+- **呼吸控制的效果**：
+  - 能有效降低血壓，特別是收縮壓。
+  - 可提升整體身心健康，改善睡眠 quality。
+
+### 其他建議
+- **分享和反饋**：
+  - 鼓励讀者將此技巧推薦給可能受益的人。
+  - 在評論區分享個人體驗，以促進更多人了解此方法。
 </details>
 
 <details>
