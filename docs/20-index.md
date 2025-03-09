@@ -1,5 +1,5 @@
 <details>
-<summary>2100. Use Ajoene (in Garlic) to Prevent Storkes – Benefits of Garlic – Dr.Berg</summary><br>
+<summary>2100. [2019-04-01] Use Ajoene (in Garlic) to Prevent Storkes – Benefits of Garlic – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=o-gW0u3HRk4" target="_blank">
     <img src="https://img.youtube.com/vi/o-gW0u3HRk4/maxresdefault.jpg" 
@@ -8,11 +8,31 @@
 
 # Use Ajoene (in Garlic) to Prevent Storkes – Benefits of Garlic – Dr.Berg
 
+### 核心主題
+- 探讨大蒜中一种特殊的化合物Ajoene及其对人体健康的潜在益处。
 
+### 主要觀念
+1. Ajoene是一种在大蒜中发现的化合物，具有多种生物活性。
+2. 大蒜中的化合物需要通过 crushing 激活其效用。
+
+### 問題原因
+- 由于Ajoene的特殊性和健康效益，Big Pharma正在努力对其进行专利化研究。
+
+### 解決方法
+1. 针对高风险人群或已患病个体，建议增加大蒜摄入量。
+2. 利用天然食品（如大蒜）作为预防和辅助治疗手段。
+
+### 健康建議
+- 对于有中風風險的人群，食用大蒜可能有助于降低血栓形成和相關並發症的風險。
+- 大蒜可作為抗真菌、抗菌及抗腫瘤的自然選擇。
+
+### 結論
+- Ajoene及其相關化合物具有多方面的健康益處，值得進一步研究。
+- 消費者可以考慮增加大蒜攝取量以預防疾病。
 </details>
 
 <details>
-<summary>2099. The "So-Called" Healthy Fat Dr.Berg Avoids – Dangers of Soy</summary><br>
+<summary>2099. [2019-03-31] The "So-Called" Healthy Fat Dr.Berg Avoids – Dangers of Soy</summary><br>
 
 <a href="https://www.youtube.com/watch?v=61QV7ua-kgk" target="_blank">
     <img src="https://img.youtube.com/vi/61QV7ua-kgk/maxresdefault.jpg" 
@@ -21,11 +41,53 @@
 
 # The "So-Called" Healthy Fat Dr.Berg Avoids – Dangers of Soy
 
+### 文章重點整理
 
+#### 核心主題  
+- 探讨 soy oil（大豆油）的健康影響及其在現代飲食中的廣泛消費。
+
+---
+
+#### 主要觀念  
+1. **Soy Oil 的消費量激增**  
+   - 過去40年，全球 soy oil 消費量增長超過1000%，2007年產量達40多百萬噸。  
+   - 大部分 soy oil 是 GMO（遺傳改造生物）。  
+
+2. **Soy Oil 在食用油中的佔比**  
+   - 約50%的可食用植物油為 soy oil。  
+
+3. **健康影響的研究結論**  
+   - 比起果糖，soy oil 更易導致 excess weight、fatty liver、糖尿病風險增加、insulin resistance 加強、肝臟損害和炎症。  
+   - 為flammation 不僅限於肝臟，還可能影響心血管系統。  
+
+---
+
+#### 問題原因  
+- **加工食品的廣泛使用**  
+  - soy oil 出現在多種食品中，包括醬料、薯片、餅乾、麵包等。  
+  - 大部分嬰兒配方奶粉也含 soy oil。  
+
+- **餐廳用油選擇**  
+  - 不管是快餐還是其他類型的餐廳，經常使用 soy oil 作為主要烹調用油。  
+
+---
+
+#### 健康建議  
+1. **提高消費者意識**  
+   - 購物時仔細閱讀食品標籤，避免含 soy oil 的產品。  
+
+2. **外出就餐主動詢問**  
+   - 在餐廳用餐時，向服務員了解廚房使用的烹調油種類，並盡量選擇不含 soy oil 的選項。  
+
+---
+
+#### 結論  
+- Soy oil 的廣泛消費與多種健康問題息息相關。  
+- 消費者需提高對 soy oil 影響的認識，主動避免其攝入，以降低健康風險。
 </details>
 
 <details>
-<summary>2098. Cod Liver Oil vs. Fish Oil: Is there a Difference?</summary><br>
+<summary>2098. [2019-03-31] Cod Liver Oil vs. Fish Oil: Is there a Difference?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=A_COFYJNdxk" target="_blank">
     <img src="https://img.youtube.com/vi/A_COFYJNdxk/maxresdefault.jpg" 
@@ -34,11 +96,41 @@
 
 # Cod Liver Oil vs. Fish Oil: Is there a Difference?
 
+### 小節歸納
 
+#### 核心主題
+- 比較 cod liver oil 和 fish oil 的差異及其健康效益。
+
+#### 主要觀念
+1. **Omega-3 含量**：
+   - Cod liver oil：含較低的 EPA (8%) 和 DHA (10%)。
+   - Fish oil：含較高的 EPA (18%) 和 DHA (12%)，適合追求高 Omega-3 效益的人群。
+
+2. **維生素含量**：
+   - Cod liver oil：富含維生素 A 和 D，具備營養均衡的优点。
+   - Fish oil：缺乏維生素 A 和 D。
+
+#### 問題原因
+- 過於依賴ALA（ω-3 的前體形式）可能無法提供足夠的活性 Omega-3 簡單因為轉化率低。
+
+#### 解决方法
+- 選擇高品質的 virgin cod liver oil，確保自然維生素 A 和 D 的存在，避免加工過程中營養成分的流失。
+
+#### 健康建議
+1. **Omega-3 的來源**：
+   - EPA 和 DHA 是更具活性和功效的 Omega-3 形式。
+   - ALA 轉化為 EPA 和 DHA 的效率低，不宜作為主要來源。
+
+2. **補充劑選擇**：
+   - 選擇 virgin cod liver oil 以獲取自然且高品質的維生素 A 和 D。
+   - 根據個人需求選擇魚油以增強 Omega-3 效益。
+
+#### 結論
+Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群；Fish oil 則因高含量的 EPA 和 DHA，適合重視抗炎和心臟健康的人士。根據個人需求選擇合適的產品。
 </details>
 
 <details>
-<summary>2097. What Is Colostrum ? – Dr.Berg on Benefits of Colostrum</summary><br>
+<summary>2097. [2019-03-30] What Is Colostrum ? – Dr.Berg on Benefits of Colostrum</summary><br>
 
 <a href="https://www.youtube.com/watch?v=4a5V4Bx3qss" target="_blank">
     <img src="https://img.youtube.com/vi/4a5V4Bx3qss/maxresdefault.jpg" 
@@ -47,11 +139,45 @@
 
 # What Is Colostrum ? – Dr.Berg on Benefits of Colostrum
 
+### 核心主題
+- **colostrum**（初乳）的定義及其重要性。
 
+### 主要觀念
+1. Colostrum 是哺乳動物在分娩後最初分泌的奶汁形式。
+2. 它被視作免疫系統的「.super food」，特別是在嬰兒生長發育中扮演關鍵角色。
+3. Colostrum 可作為補充劑用於改善多種健康問題。
+
+### 問題原因
+1. **炎症性胃腸道疾病**：如潰瘍性結腸炎或克羅恩病。
+2. **運動員的表現與恢復**：尤其是在高強度訓練後。
+3. **慢性類固醇使用**：長期使用導致免疫系統受損，類固醇效果減弱的情況。
+4. **抗生素耐藥性**：長時間使用抗生素破壞腸道菌群平衡。
+
+### 解決方法
+1. **作為補充劑使用**：
+   - **炎症性條件**：幫助降低炎症反應。
+   - **運動員的性能與恢復**：促進肌肉修復和整體表現提升。
+   - **免疫系統修復**：在慢性類固醇或抗生素使用後，幫助恢復免疫功能。
+2. **腸胃健康**：
+   - 補救因抗生素或其他治療導致的腸道不平衡。
+   - 助長益生菌的作用，促進腸胃康癒。
+
+### 健康建議
+1. **劑量建議**：
+   - 初次使用：每日 1/4 養樂多匙，逐步增加至每日 1 茶匙。
+   - 減少一次性過量攝取，避免免疫反應。
+2. **產品選擇**：
+   - 推薦選擇草饲來源的colostrum，確保高品質和效果。
+3. **經濟考量**：
+   - 草饲colostrum價格較高，但其療效更為顯著。
+
+### 結論
+- Colostrum 作為一種多功能補充劑，在免疫調節、腸胃健康以及運動性能等方面具有重要價值。
+- 適當使用可有效改善多種健康問題，特別是與免疫系統相關的狀況。
 </details>
 
 <details>
-<summary>2096. Do You Get That Jittery Feeling From Too Much Coffee? Try This! – Dr.Berg</summary><br>
+<summary>2096. [2019-03-30] Do You Get That Jittery Feeling From Too Much Coffee? Try This! – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=J51TNShTJmw" target="_blank">
     <img src="https://img.youtube.com/vi/J51TNShTJmw/maxresdefault.jpg" 
@@ -60,11 +186,37 @@
 
 # Do You Get That Jittery Feeling From Too Much Coffee? Try This! – Dr.Berg
 
+### 核心主題
+- 如何有效處理因攝入過量咖啡因所引起的「抖動感」（jittery feeling）。
 
+### 主要觀念
+1. 過量攝取咖啡因可能對身體造成不良影響。
+2. 維生素B1能夠有效緩解由咖啡因引發的神經緊張和焦慮。
+3. 营養酵母是補充維生素B1的理想來源。
+
+### 問題原因
+- 過量攝取含咖啡因的飲料（如咖啡、蘇打水）會導致以下問題：
+  - 打亂身體內分泌平衡。
+  - 增加腎上腺素水平，引起神經興奮和不適感。
+
+### 解決方法
+1. 減少咖啡因攝取量，建議每日限制在一杯小份量的咖啡。
+2. 补充維生素B1：
+   - 維生素B1能有效緩解由咖啡因過量引起的神經過敏和焦慮。
+   - 推薦來源：營養酵母（未添加其他成分的），可選片劑形式。
+
+### 健康建議
+- 減少攝取含咖啡因飲品，避免長期依賴。
+- 遊戲人為攝入過量咖啡因後，及時補充維生素B1以紓解不適感。
+- 維生素B1的劑量和來源需選擇合適產品。
+
+### 結論
+- 綴長咖啡因攝取是關鍵，但若已攝入過多，補充維生素B1能在短時間內有效緩解抖動感和其他不適症狀。
+- 通過簡單的生活習慣調整和營養補充，可以有效管理咖啡因引起的身體反應。
 </details>
 
 <details>
-<summary>2095. Is Intermittent Fasting Good For A Diabetic? – Dr.Berg on Fasting and Blood Sugar</summary><br>
+<summary>2095. [2019-03-29] Is Intermittent Fasting Good For A Diabetic? – Dr.Berg on Fasting and Blood Sugar</summary><br>
 
 <a href="https://www.youtube.com/watch?v=a4WnWzTnMEY" target="_blank">
     <img src="https://img.youtube.com/vi/a4WnWzTnMEY/maxresdefault.jpg" 
@@ -73,11 +225,50 @@
 
 # Is Intermittent Fasting Good For A Diabetic? – Dr.Berg on Fasting and Blood Sugar
 
+### 核心主題  
+- **間歇性禁食與糖尿病**：探討間歇性禁食對糖尿病患者的安全性及其潛在益弊。
 
+---
+
+### 主要觀念  
+1. **糖尿病定義**：糖尿病是一種以高血糖（hyperglycemia）為特征的代謝 disorder，主要由於胰島素分泌不足或作用異常導致。
+2. **低血糖風險**： diabetic患者使用胰島素或其他降糖藥物時，可能引發低血糖（hypoglycemia），這是一種危險的副作用。
+3. **間歇性禁食的作用機制**：
+   - 降低對胰島素的需求。
+   - 减少碳水化合物攝取，從而降低血糖水平。
+4. **酮症與脂肪燃燒**：在間歇性禁食期間，身體可能轉向使用酮體和脂肪作為能量來源，而非依賴糖分。
+
+---
+
+### 問題原因  
+1. **藥物過量風險**： diabetic患者在進行間歇性禁食時，若未調整藥物劑量，可能會因血糖降低而導致低血糖。
+2. **胰島素副作用**：外源性胰島素（如 genetically modified insulin）可能具備潛在的副作用，特別是劑量過大時。
+
+---
+
+### 解決方法  
+1. **漸進式實施**：逐步開始間歇性禁食，讓身體有時間適應。
+2. **醫生協助調整藥物**：在進行間歇性禁食前，諮詢醫生以調整治療方案和藥物劑量。
+3. **Monitoring血糖水平**：定期監測血糖，避免過度降低至危險水平。
+4. **飲食結構調整**：减少碳水化合物攝取，增加健康脂肪和蛋白質的攝入。
+
+---
+
+### 健康建議  
+1. **個化化治療**：糖尿病患者的禁食計劃需根據個人情況量身定制。
+2. **專業指導**：在醫療專業人員的監督下進行間歇性禁食，以確保安全性和有效性。
+3. **生活方式改變**：結合運動和其他健康習慣，進一步改善血糖控制和整體健康。
+
+---
+
+### 結論  
+- 間歇性禁食對於糖尿病患者來說並非絕對禁忌，但需謹慎施行。
+- 在醫生的指導下調整藥物劑量，並逐步實施禁食計劃，可以有效降低低血糖風險。
+- 此方法不僅有助於改善胰腺功能，還可能幫助患者逐漸減少對藥物的依賴。
 </details>
 
 <details>
-<summary>2094. Can the Ketogenic Diet Cause a Fatty Liver Without Enough Vegetables? – Dr.Berg</summary><br>
+<summary>2094. [2019-03-28] Can the Ketogenic Diet Cause a Fatty Liver Without Enough Vegetables? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=CFd975X2hmg" target="_blank">
     <img src="https://img.youtube.com/vi/CFd975X2hmg/maxresdefault.jpg" 
@@ -86,11 +277,38 @@
 
 # Can the Ketogenic Diet Cause a Fatty Liver Without Enough Vegetables? – Dr.Berg
 
+### 核心主題
+- 探讨 ketogenic diet 是否可能导致脂肪肝（fatty liver），尤其是在蔬菜摄入不足的情况下。
 
+### 主要觀念
+1. **Guyton 的理論**：低胰岛素水平可能导致脂肪肝。
+2. **酮egenic diet 的效果**：许多人在遵循酮ogenic diet 后脂肪肝有所改善，但也有研究表明可能存在问题。
+3. **蔬菜的重要性**：蔬菜在提供營養、抗氧化劑和支持腸道微organisms 方面起著關鍵作用。
+
+### 問題原因
+1. **低品質的酮ogenic 饮食**：使用加工食品（如精製大豆油）和不健康的選項（如臟酮 diet）可能導致脂肪肝。
+2. **缺乏蔬菜**：蔬菜不足可能导致營養失衡，腸道健康問題，以及胰島素抵抗。
+
+### 解決方法
+1. **選擇高品質的酮ogenic 食物**：優先食用未加工、有機的食品，避免精製油和添加糖。
+2. **增加蔬菜攝取**：
+   - 提供豐富的硝酸鹽和其他營養成分。
+   - 支持腸道微organisms 生長，促進短鏈脂肪酸（SCFA）的生成，改善胰島素敏感性。
+   - 裫化膽汁循環，降低膽固醇和脂肪在肝臟中的堆積。
+
+### 健康建議
+1. **均衡飲食**：酮ogenic diet 不應該完全基於肉類，而應該包含大量的蔬菜來提高營養價值。
+2. **選擇有機食品**：避免基因改造大豆油和其他可能導致健康問題的加工成分。
+3. **關注腸道健康**：通過攝取足夠的膳食纖維和多種植物化合物來支持腸道功能。
+
+### 結論
+- 酮egenic diet 本身不一定導致脂肪肝，但其效果依賴於飲食品質和蔬菜攝取量。
+- 蔬菜在酮ogenic diet 中扮演著重要的角色，不僅提供營養，還能幫助預防和改善脂肪肝問題。
+- 建議在遵循酮ogenic diet 時，注重飲食的整體健康和多樣性。
 </details>
 
 <details>
-<summary>2093. How To Get Rid Of Acne Fast? Try Dr.Berg's Home Remedies For Acne</summary><br>
+<summary>2093. [2019-03-28] How To Get Rid Of Acne Fast? Try Dr.Berg's Home Remedies For Acne</summary><br>
 
 <a href="https://www.youtube.com/watch?v=lofgjPLbgE8" target="_blank">
     <img src="https://img.youtube.com/vi/lofgjPLbgE8/maxresdefault.jpg" 
@@ -99,7 +317,69 @@
 
 # How To Get Rid Of Acne Fast? Try Dr.Berg's Home Remedies For Acne
 
+### 文章整理：痤瘡的原因及解決方案
 
+---
+
+#### 1. 核心主題  
+痤瘡（青春痘）的成因多樣化，涉及飲食、激素水平、營養 deficiency、壓力等多重因素。本文探討了導致痤瘡的主要原因及相應的解決策略。
+
+---
+
+#### 2. 主要觀念  
+- 痤瘡的發生與食物過敏、激素失衡（如高 Андрогени、高雌性激素）、營養缺乏（如維生素A和鋅）等因素密切相关。  
+- 生活方式，如飲食模式（間歇性禁食）和壓力管理，在痤瘡的發病機制中起重要作用。  
+
+---
+
+#### 3. 啗瘡的原因分析  
+1. **食物過敏與敏感性**  
+   - 特定食物可能引發皮膚反應，導致紅腫、乾燥或脫皮等症狀。  
+   - 飲食中的化學物質或食品不耐受也可能影響皮膚健康。  
+
+2. **激素失衡**  
+   - **高 Андрогени**：女性過高的雄性激素水平可導致面部毛發增生、掉髮、聲音低沉等症状，並加重痤瘡。  
+     - 常見原因包括高胰島素血症（如PCOS患者）和壓力激動副腎皮質醇及 testosterone-DHT 的作用。  
+   - **高雌性激素**：雌激素水平過高可導致囊腫性痤瘡，屬於雌激素 dominance 病變。  
+
+3. **營養缺乏**  
+   - **維生素A deficiency**：影響皮膚健康，合成的全反式維生素A不足可能導致痤瘡。  
+   - **鋅缺乏**：乾燥、脫皮或斑塊狀皮膚問題與低鋅水平有關。  
+
+4. **壓力因素**  
+   - 長期壓力會激發副腎和腎上腺，增加 Андрогени 和osterone-DHT的分泌，進一步加劇痤瘡。  
+
+---
+
+#### 4. 解決方法  
+1. **飲食調整**  
+   - **間歇性禁食**：有助於降低食物過敏風險、改善皮膚修復功能。  
+   - **健康生酮飲食**：針對PCOS患者，降低胰島素水平，平衡 Андрогени 水平。  
+
+2. **補充營養素**  
+   - **維生素A**：推薦使用 virgin cod liver oil，特別是 gallbladder 病患需搭配膽鹽以利吸收。  
+   - **鋅**：建議攝取 zinc picolinate 或食用健康草饲肝臟。  
+
+3. **激素平衡**  
+   - 使用DIM（Diindolylmethane）補充劑，降低 excess estrogen 並阻斷由 testosterone 轉化而來的多余雌激素。  
+
+4. **抗炎與抗氧化**  
+   - 多食用十字花科蔬菜或服用 DIM 补充劑，平衡身體激素，降低炎症反應。  
+
+5. **皮膚護理**  
+   - 使用 **尼可酰胺（vitamin B3）** 與椰子油或橄欖油混合外敷，改善皮膚色素沈淀和暗斑問題。  
+
+---
+
+#### 5. 健康建議  
+- 遵循健康生酮飲食模式，配合間歇性禁食以降低痤瘡風險。  
+- 管理壓力水平，避免長期壓力干擾激素平衡。  
+- 及時補充關鍵營養素（如維生素A和鋅），維持皮膚健康。  
+
+---
+
+#### 6. 结論  
+痤瘡的發生是由多種因素共同作用的結果。通過飲食調整、營養補充、激素管理和壓力管理，可以有效改善痤瘡症狀並預防其復發。
 </details>
 
 <details>
