@@ -103,7 +103,7 @@
 </details>
 
 <details>
-<summary>2092. Dr. Berg Talks About Thymus Gland, Stress and Immune System</summary><br>
+<summary>2092. [2019-03-27] Dr. Berg Talks About Thymus Gland, Stress and Immune System</summary><br>
 
 <a href="https://www.youtube.com/watch?v=SjbDiOMe2MY" target="_blank">
     <img src="https://img.youtube.com/vi/SjbDiOMe2MY/maxresdefault.jpg" 
@@ -112,11 +112,60 @@
 
 # Dr. Berg Talks About Thymus Gland, Stress and Immune System
 
+### 重點整理
 
+#### 核心主題：壓力對胸腺 gland 的影響及其與免疫系統的關聯
+
+- 胸腺 gland 是免疫系統的重要組成部分，負責生產和成熟 T 細胞。
+- T 細胞在抗感染和腫瘤形成中發揮關鍵作用。
+
+#### 主要觀念：
+
+1. **胸腺 gland 的功能**：
+   - 胸腺 gland 為 T 細胞提供培訓和成熟環境。
+   - 在嬰兒時期，胸腺 gland 非常發育，但隨年齡增長逐漸萎縮。
+
+2. **壓力對免疫系統的影響**：
+   - 压力激素皮質醇（cortisol）會抑制胸腺功能。
+   - 激素水平升高會降低 T 細胞數量和免疫反應能力。
+
+3. **壓力與疾病易感性的關聯**：
+   - 高壓力狀態下，個體更易受到病毒感染、腫瘤和自身免疫疾病的影響。
+   - 压力事件後，感染率明顯增加。
+
+#### 問題原因：
+
+1. **皮質醇的作用**：
+   - 皮質醇抑制胸腺 gland，降低免疫功能。
+   - 長期壓力導致慢性皮質醇過多，削弱免疫系統。
+
+2. **壓力事件的誘發作用**：
+   - 突發或chronic stress 會顯著增加感染和 autoimmune 疾病的風險。
+   - 压力源（如喪失 Loved ones 或創傷）常被報告為 autoimmune 病情加重的觸發點。
+
+#### 解決方法與健康建議：
+
+1. **壓力管理**：
+   - 減少慢性壓力暴露，使用心理調適策略。
+   - 考慮壓力管理技巧，如冥想、深呼吸和瑜伽。
+
+2. **營養支持**：
+   - 增加維生素 C 和锌的攝取，這些微量營養素對免疫功能至關重要。
+   - 經過均衡飲食以支持整體免疫健康。
+
+3. **醫療干預**：
+   - 在壓力或 autoimmune 病情中，可考慮使用皮質類固醇（如 prednisone）來抑制炎症反應。
+   - 適當治療壓力相關的疾病，以降低免疫系統負擔。
+
+#### 結論：
+
+- 胸腺 gland 的健康直接影響免疫功能和整體健康狀況。
+- 压力管理在預防和治療 autoimmune 和感染性疾病中具有重要意義。
+- 區域性地解決壓力問題，並配合適當的營養和醫療干預，能夠顯著改善免疫系統功能。
 </details>
 
 <details>
-<summary>2091. What Causes An Abdominal Hernia? – Dr.Berg on Hernia Causes</summary><br>
+<summary>2091. [2019-03-27] What Causes An Abdominal Hernia? – Dr.Berg on Hernia Causes</summary><br>
 
 <a href="https://www.youtube.com/watch?v=uyoJW3Rh31Y" target="_blank">
     <img src="https://img.youtube.com/vi/uyoJW3Rh31Y/maxresdefault.jpg" 
@@ -125,11 +174,39 @@
 
 # What Causes An Abdominal Hernia? – Dr.Berg on Hernia Causes
 
+### 核心主題：疝氣的理解與管理
+1. 疝氣是因膠原蛋白或彈力纖維的弱化導致的組織結構損傷。
+2. 疝气可影響多個部位，包括腹壁、動脈血管壁等。
+3. 疝气的發生與年齡、生活方式（如吸煙）及代謝狀況密切相關。
 
+### 主要觀念：糖化蛋白的作用機制
+1. 糖化蛋白是指糖分子與蛋白質結合的化合物，會削弱膠原蛋白的結構。
+2. 高血糖或糖尿病患者易形成糖化蛋白，增加疝氣、動脈瘤等疾患風險。
+3. 果糖比葡萄糖更易引起糖化反應，需特別注意其攝取量。
+
+### 問題原因：導致膠原蛋白弱化的因素
+1. 年齡增長使膠原蛋白逐漸退化。
+2. 吸煙會影響膠原蛋白的修復，削弱組織結構。
+3. 高血糖或糖尿病狀態直接促發糖化反應。
+
+### 解決方法：降低糖化蛋白的策略
+1. 控制血糖水平，特別是糖尿病和前期糖尿病患者。
+2. 減少高果糖食物的攝取，如濃縮果汁、龍舌蘭蜜等。
+3. 避免食用高溫加工食品，這些食品中糖化蛋白含量較高。
+
+### 健康建議：飲食調整與生活方式改進
+1. 限制高糖食品及飲料的攝取，尤其是含高果糖成分的食物。
+2. 選擇未加工或低糖食物，以降低糖化反應風險。
+3. 戒煙並保持適度運動，促進膠原蛋白修復。
+
+### 結論：綜合管理的重要性
+1. 疝气的發生與多種因素相關，需從飲食、生活方式等多方面進行管理。
+2. 降低血糖和糖化蛋白水平是預防疝氣及其他相關疾患的关键。
+3. 適當的生活調整可有效降低 hernia 的風險並促進整體健康。
 </details>
 
 <details>
-<summary>2090. Keto Health Summit 2019 Corny Commercial #3 – Dr.Berg</summary><br>
+<summary>2090. [2019-03-26] Keto Health Summit 2019 Corny Commercial #3 – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=LJIvQwWvPFI" target="_blank">
     <img src="https://img.youtube.com/vi/LJIvQwWvPFI/maxresdefault.jpg" 
@@ -138,11 +215,35 @@
 
 # Keto Health Summit 2019 Corny Commercial #3 – Dr.Berg
 
+### 核心主題
+- 討論酮飲食（keto diet）與其限制。
+- 探讨 Cheat Day（作弊日）在酮飲食中的作用和影響。
 
+### 主要觀念
+1. **Cheat Day 的定義**：指在酮飲食期間，短時間內攝入高碳水化合物食物的日子。
+2. **Dr. Berg 的立場**：Dr. Berg 不推薦 Cheat Day，認為其可能破壞酮狀態並影響健康。
+3. **實驗者的心態**：實驗者表示 Dr. Berg 不在場，因而考慮偷偷進行一次 Cheat Day。
+
+### 問題原因
+- 酮飲食的嚴格限制可能導致心理壓力和對食物的渴望。
+- Cheat Day 可能會破壞酮狀態，影響身體適應和健康目標。
+
+### 解決方法
+1. **心理調適**：理解酮飲食的挑戰，並尋找其他方式來紓解壓力。
+2. **規劃策略**：若決定進行 Cheat Day，應該 moderation（ moderation ）並及時恢復酮狀態。
+3. **諮詢專家**：在考慮 Cheat Day 前，建議諮詢專業醫生或營養師。
+
+### 健康建議
+- 遵循科學研究和專業指導，避免擅自更改飲食計劃。
+- 若決定進行 Cheat Day，應該 moderation（ moderation ）並密切觀察身體反應。
+
+### 總結
+- Cheat Day 可能對酮飲食造成負面影響，但若實驗者堅持進行，需謹慎行事並注意身體變化。
+- 長期來看，保持穩定的酮狀態更有助於健康和目標達成。
 </details>
 
 <details>
-<summary>2089. How do Allergies Start? – Stomach Acid & Allergies Explained by Dr.Berg</summary><br>
+<summary>2089. [2019-03-26] How do Allergies Start? – Stomach Acid & Allergies Explained by Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ZBttSj0kLqw" target="_blank">
     <img src="https://img.youtube.com/vi/ZBttSj0kLqw/maxresdefault.jpg" 
@@ -151,11 +252,69 @@
 
 # How do Allergies Start? – Stomach Acid & Allergies Explained by Dr.Berg
 
+### 文章整理與結構化總結
 
+#### 核心主題：
+- 探讨胃酸不足（低胃酸）与过敏反应之间的联系。
+
+#### 主要觀念：
+1. **胃酸的功能**：
+   - 胃液的正常pH值范围为1至3，具有高度酸性。
+   - 胃酸的主要作用包括：
+     - 消化蛋白质。
+     - 抵抗和滅殺微生物（如病毒、細菌、酵母菌及念珠菌）。
+     - 促進礦物質吸收。
+
+2. **低胃酸的危害**：
+   - 导致未消化的蛋白質進入腸道，若存在漏腸症，可能引發免疫反應，造成過敏或哮喘。
+   - 增加 Candida 和小肠细菌过度增殖（SIBO）的风险。
+   - 引起胃食管反流病（GERD）等症狀。
+
+#### 問題原因：
+1. **低胃酸的病因**：
+   - 甲減。
+   - 飲食中鹽分攝取不足。
+   - 抗生素使用。
+   - 胃繞道手術後的結構改變。
+   - 幽門螺杆菌感染（Helicobacter pylori）。
+   - 維生素B3缺乏。
+
+2. **診斷方法**：
+   - 海德堡試驗：通過吞嚥附有繫繩的小膠囊，拉出後測定pH值。此方法已不易取得，可考慮替代方案。
+
+#### 解決方法：
+1. **補充胃酸的途徑**：
+   - 使用藥物：ßaine鹽酸（Betaine Hydrochloride）和蘋果醋。
+   - 調整飲食習慣，增加攝取含氯化物食物。
+
+2. **療程建議**：
+   - 在專業醫生指導下開始治療，遵循藥品標籤指示或醫師建議。
+   - 監測症狀改善情況，及時調整劑量。
+
+#### 健康建議：
+1. **飲食調整**：
+   - 遊び食鹽攝取，以促進胃酸分泌。
+   - 減少抗生素的濫用，防止破壞腸道菌群平衡。
+
+2. **生活方式改善**：
+   - 管理壓力，因壓力會影響胃酸分泌。
+   - 定期進行身體檢查，特別是針對幽門螺杆菌感染和甲減等問題。
+
+3. **症狀監測**：
+   - 如有持續的胃部不適或過敏症狀，及時就醫檢查，以排除低胃酸或其他潛在疾病。
+
+#### 結論：
+- 低胃酸是影響免疫系統功能和導致過敏反應的重要因素。
+- 補充胃酸可有效緩解相關症狀，但需在專業醫療人員的建議下進行。
+- 適當的飲食調整和生活改變也能幫助改善胃酸不足問題。
+
+---
+
+此總結以正式學術用語整理了文章的關鍵點，結構清晰，涵蓋核心主題、主要觀念、問題原因、解決方法、健康建議及結論等多個方面，並以條列格式客觀呈現。
 </details>
 
 <details>
-<summary>2088. How to Reverse Damage from Diabetes?  – Dr.Berg on Reversing Diabetes</summary><br>
+<summary>2088. [2019-03-26] How to Reverse Damage from Diabetes?  – Dr.Berg on Reversing Diabetes</summary><br>
 
 <a href="https://www.youtube.com/watch?v=qZa81ApMA60" target="_blank">
     <img src="https://img.youtube.com/vi/qZa81ApMA60/maxresdefault.jpg" 
@@ -164,11 +323,50 @@
 
 # How to Reverse Damage from Diabetes?  – Dr.Berg on Reversing Diabetes
 
+### 小節整理
 
+#### 核心主題
+- 糖尿病損害的可逆性：探讨糖尿病导致的身体损害是否可以逆转。
+
+#### 主要觀念
+- **糖基化（Glycosylation）**：糖分子与蛋白质结合的过程，导致蛋白质功能受损。
+- **AGEs（Advanced Glycation End-Products, 活性氧末梢產物）**：糖基化终产物，会导致动脉堵塞、神经损伤及其他健康问题。
+
+#### 問題原因
+1. 高血糖引起糖基化反应，生成AGEs，导致蛋白质功能异常。
+2. AGEs的积累引发多种糖尿病并发症：
+   - 神经病变（Neuropathy）：末梢神经受损，出现麻木、刺痛等症状。
+   - 动脉粥样硬化：AGEs沉积在血管壁，阻碍血液流动。
+   - 视网膜病变（Diabetic Retinopathy）：影响视力甚至导致失明。
+   - 植物神经功能障碍：如 gastroparesis（胃輕瘫），消化系统功能紊乱。
+
+#### 解决方法
+1. **饮食调整**：
+   - 采用低碳水化合物（Low Carb）或健康酮ogenic饮食，减少血糖波动。
+   - 结合间歇性禁食（Intermittent Fasting），帮助降低血糖水平并促进脂肪燃烧。
+
+2. **营养补充**：
+   - **维生素B1（Thiamine）**：选择脂溶性形式（如 Benfotiamine），有助于修复神经损伤，吸收效率比水溶性形式高25倍。
+   - **α-硫辛酸（Alpha-Lipoic Acid）**：具有抗氧化作用，推荐剂量为600毫克每日三次，可加速AGEs的清除。
+
+#### 健康建議
+1. 持之以恒地进行饮食调整和生活方式改变，控制血糖水平。
+2. 维生素B1和α-硫辛酸需按疗程使用，建议在医生指导下进行剂量调节。
+3. 神经系统修复较慢，需耐心等待组织再生，可能需要数月甚至数年时间。
+
+#### 結論
+糖尿病引起的損害在某些程度上是可以逆转的，關鍵在於早期干預、飲食控制和適當的營養補充。雖然恢復過程可能較長，但通過科學的管理和治療，可以顯著改善健康狀況。
+
+---
+
+### 提問
+1. **AGEs在糖尿病并发症中的作用**：AGEs是如何形成的？它們如何引發特定的併發症？
+2. **間歇性禁食的作用機制**：為什麼間歇性禁食有助於降低血糖並促進脂肪燃燒？
+3. **營養補充劑的效果**：脂溶性維生素B1和α-硫辛酸在治療糖尿病併發症中具體有哪些證據支持？
 </details>
 
 <details>
-<summary>2087. Before You Eat Another Chicken Nugget, Watch This! – Dr.Berg</summary><br>
+<summary>2087. [2019-03-25] Before You Eat Another Chicken Nugget, Watch This! – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=C7Ngj36q7Lo" target="_blank">
     <img src="https://img.youtube.com/vi/C7Ngj36q7Lo/maxresdefault.jpg" 
@@ -177,11 +375,38 @@
 
 # Before You Eat Another Chicken Nugget, Watch This! – Dr.Berg
 
+### 核心主題
+- 探讨睡眠与工作及个人 passion 之间的平衡关系。
 
+### 主要觀念
+- 睡眠质量直接影响个体的工作效率和生活品质。
+- 工作与 passion 的冲突可能导致睡眠中断。
+- 音乐（[Music]）作为缓解压力和改善睡眠的工具。
+
+### 問題原因
+- 工作压力导致难以入睡或睡眠浅薄。
+- 个人 passion 可能占用时间，影响作息规律。
+- 睡眠中断可能引发疲劳或其他健康问题。
+
+### 解決方法
+1. **时间管理**：合理安排工作与 passion 的时间，避免过度劳累。
+2. **音乐疗法**：利用音乐放松身心，改善睡眠质量。
+3. **建立良好的睡眠习惯**：
+   - 保持规律的作息时间。
+   - 创造有利于睡眠的环境（如减少噪音、光线等干扰）。
+
+### 健康建議
+- **心理调节**：学会在工作与 passion 之间找到平衡点，避免过度投入导致压力过大。
+- **身体锻炼**：适度的身体活动有助于提高睡眠质量。
+- **饮食调整**：避免摄入过多咖啡因和糖分，选择健康营养的饮食。
+
+### 結論
+- 平衡工作、 passion 和睡眠是提升生活品质的关键。
+- 通过科学的方法和自我调节，可以有效改善睡眠问题，从而提高整体生活质量。
 </details>
 
 <details>
-<summary>2086. Soda vs 100% Real Fruit Juice: What Is Healthier? – Dr.Berg</summary><br>
+<summary>2086. [2019-03-25] Soda vs 100% Real Fruit Juice: What Is Healthier? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=qeNnRpMn8s8" target="_blank">
     <img src="https://img.youtube.com/vi/qeNnRpMn8s8/maxresdefault.jpg" 
@@ -190,11 +415,61 @@
 
 # Soda vs 100% Real Fruit Juice: What Is Healthier? – Dr.Berg
 
+### 核心主題：飲用含高果糖飲料的健康影響
 
+---
+
+#### 主要觀念：
+1. **高果糖玉米糖漿的危害**  
+   - 經典可樂等汽水通常含高果糖玉米糖漿，其成分中約55%為果糖。
+   
+2. **果汁的隱藏危害**  
+   - 百分百未稀釋的果汁雖名為「天然」，但其果糖含量更高，達65%，且營養價值低於整塊水果。
+
+3. **果糖的代謝特性**  
+   - 果糖在肝臟中被處理，與酒精類似，需由肝臟完全處理。此過程可能導致脂肪 생성 및胰島素 저항성 증가。
+
+4. **果汁的加工影響**  
+   - 雖然水果汁經過巴氏殺菌，但高溫處理會破壞大部分營養成分，且添加回的營養價值有限。
+   - 果汁缺乏纖維，導致糖分吸收快，血糖波動大。
+
+---
+
+#### 問題原因：
+1. **果糖代謝負荷**  
+   - 高果糖攝入使肝臟產生大量新脂肪（de novo lipidogenesis），長期積累引發脂肪肝。
+   
+2. **氧化壓力增加**  
+   - 果糖在體內易形成高血糖毒性物质，如AGEs（glycated end products），這些物質會損傷蛋白質，導致氧化壓力。
+
+3. **兒童攝入過量問題**  
+   - 美國兒科醫學院院士建議限制兒童飲用果汁，因其可致肥胖、糖尿病前期症狀及牙齒腐蝕。
+
+---
+
+#### 健康建議：
+1. 最佳選擇：  
+   - 減少含糖飲料攝入，改喝純淨水或天然茶飲。
+   
+2. 飲食結構調整：  
+   - 优先選擇完整水果而非果汁，以獲取膳食纖維及其他營養成分。
+
+3. 適當控制攝量：  
+   - 若需飲用含糖飲料，建議 moderation，并搭配均衡飲食，以降低健康風險。
+
+---
+
+#### 結論：
+- **果糖過度攝入的危害**：果汁與汽水皆可能導致脂肪肝、胰島素抵抗及代謝症候群。
+- **最佳飲食策略**：增加蔬菜和水果的整體攝取量，避免高果糖飲料的常態化消費。
+
+---
+
+此整理涵蓋了文章的核心要點，並以學術化的結構清晰呈現。
 </details>
 
 <details>
-<summary>2085. Eggs Increase Your Risk of Early Death from a Heart Attack: A FALSE STUDY! – Dr. Berg</summary><br>
+<summary>2085. [2019-03-24] Eggs Increase Your Risk of Early Death from a Heart Attack: A FALSE STUDY! – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=YkoPpvtSVyo" target="_blank">
     <img src="https://img.youtube.com/vi/YkoPpvtSVyo/maxresdefault.jpg" 
@@ -203,11 +478,48 @@
 
 # Eggs Increase Your Risk of Early Death from a Heart Attack: A FALSE STUDY! – Dr. Berg
 
+### 文章整理：鸡蛋与心血管疾病的关系及饮食建议
 
+#### 核心主题
+- 针对鸡蛋消费与心血管疾病风险的研究及其争议。
+
+#### 主要观念
+1. **最新研究发现**：
+   - 一项涉及30,000人的研究表明，摄入过多鸡蛋可能增加心血管疾病和死亡率的风险。
+   - 每天额外摄入300毫克胆固醇可能导致心血管疾病风险上升17%，死亡率上升18%。
+
+2. **研究的局限性**：
+   - 数据收集为一次性问卷调查，未能长期追踪饮食模式。
+   - 研究部分由美国心脏病协会资助，可能影响其客观性。
+
+#### 问题原因
+- 饮食数据依赖于回忆报告，准确性存疑。
+- 研究设计的局限性可能导致结果偏差。
+
+#### 解决方法
+1. **科学证据评估**：
+   - 多项研究显示，鸡蛋摄入量与血液胆固醇水平及冠心病发病率无显著关联。
+   - 鸡蛋中的胆固醇可能提高HDL（高密度脂蛋白，即“好”胆固醇）水平，改善心血管健康。
+
+2. **个体差异考虑**：
+   - 胆固醇代谢存在个体差异，部分人对鸡蛋中的胆固醇更为敏感。
+
+#### 健康建议
+1. **合理摄入**：
+   - 鸡蛋是优质蛋白和营养素的良好来源，适量消费（如每天4个）不会对健康造成负面影响。
+   - 选择 pasture-raised 和 organic 的鸡蛋，确保饮食质量。
+
+2. **生活习惯调整**：
+   - 注意整体饮食结构的均衡，减少精制碳水化合物和糖分的摄入。
+   - 定期进行体检，监测胆固醇水平。
+
+#### 结论
+- 鸡蛋本身是健康的食品，适量消费不会增加心血管疾病风险。
+- 科学证据支持鸡蛋在营养和健康方面的益处，但需避免过度解读单项研究结果。
 </details>
 
 <details>
-<summary>2084. Consequences of a Fatty Liver that can Surprise You – Result of Fatty Liver Disease – Dr.Berg</summary><br>
+<summary>2084. [2019-03-24] Consequences of a Fatty Liver that can Surprise You – Result of Fatty Liver Disease – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=S4A3BaTrOOQ" target="_blank">
     <img src="https://img.youtube.com/vi/S4A3BaTrOOQ/maxresdefault.jpg" 
@@ -216,11 +528,63 @@
 
 # Consequences of a Fatty Liver that can Surprise You – Result of Fatty Liver Disease – Dr.Berg
 
+# 文章整理：脂肪肝的後果與管理
 
+## 核心主題
+- 脂肪肝不僅影響肝脏功能，還會引發全身性健康問題。
+
+## 主要觀念
+1. **炎症反應增加**  
+   - 脂肪肝導致全身炎症 markers 上升。
+   - 慢性炎症可誘發胰島素抵抗（insulin resistance），進一步惡化代謝機能。
+
+2. **肝臟功能受損**  
+   - 長期炎症導致肝臟纖維化（cirrhosis）。
+   - 肝臟功能下降影響多種生理過程，包括膽汁生成、毒素清除及激素轉換。
+
+3. **脂溶性維生素吸收障礙**  
+   - 膽汁不足導致 Vitamin A、D、E、K 等吸收不良。
+   - 可能引發視力問題、情緒低落、皮膚乾燥、肌肉疼痛等症狀。
+
+4. **代謝與激素失衡**  
+   - 肝臟功能下降影響 thyroid 濕潤轉換（T4 转换為 T3）。
+   - 純 testosterone 分泌減少，導致性腺機能減退。
+
+5. **代謝症候群**  
+   - 高血糖、高血壓、高三酸甘油酯等問題增加。
+   - 腹部肥胖是脂肪肝的重要指標。
+
+## 問題原因
+1. **飲食因素**  
+   - 高碳水化合物 diet，尤其是富含 fructose（如高果糖玉米糖漿）的食物。
+   - 過量酒精攝取。
+
+2. **營養不足**  
+   - Choline 缺乏影響脂肪代謝。
+   - Vitamin E（包括tocotrienols）不足導致炎症反應及纖維化惡化。
+
+## 解决方法與健康建議
+1. **飲食調整**  
+   - 低碳水化合物 diet，限制高 fructose 食物攝取。
+   - 增加健康脂肪的攝取，如酮egenic diet（生酮飲食）結合 intermittent fasting。
+
+2. **營養補充**  
+   - Choline 补充：來源包括蛋黃等食物。
+   - Vitamin E 补充：選擇天然複合型 Vitamin E，包含tocotrienols。
+
+3. **生活方式改變**  
+   - 定期運動，避免腹部肥胖。
+   - 戒酒或限制酒精攝取。
+
+4. **定期檢查**  
+   - 监測肝臟功能指標及相關代謝指標。
+
+## 結論
+脂肪肝是可以 reversible 的疾病，關鍵在於早期發現與積極干預。通過調整飲食結構、補充必要的營養素以及改善生活方式，可以有效控制並逆轉脂肪肝的進展，避免進一步的健康問題。
 </details>
 
 <details>
-<summary>2083. The Only Carbohydrate that Lower Insulin – Dr.Berg on Carbs on Keto Diet</summary><br>
+<summary>2083. [2019-03-23] The Only Carbohydrate that Lower Insulin – Dr.Berg on Carbs on Keto Diet</summary><br>
 
 <a href="https://www.youtube.com/watch?v=d553XRNoIlc" target="_blank">
     <img src="https://img.youtube.com/vi/d553XRNoIlc/maxresdefault.jpg" 
@@ -229,11 +593,71 @@
 
 # The Only Carbohydrate that Lower Insulin – Dr.Berg on Carbs on Keto Diet
 
+### 文章整理與分析
 
+---
+
+#### **核心主題**
+- 纤维是唯一一种具有降低胰岛素潜力的碳水化合物。
+- 肠道微生物通过发酵纤维产生短链脂肪酸（SCFAs），特别是丁酸（butyric acid）。
+- 丁酸对改善胰岛素抵抗、降低炎症、预防结肠癌等多种健康益处。
+
+---
+
+#### **主要觀念**
+1. 纤维的定义与特性：
+   - 纤维属于碳水化合物，但无法被人体直接消化吸收。
+   - 肠道微生物在大肠中将纤维转化为短链脂肪酸（SCFAs）。
+
+2. 丁酸的功能：
+   - 改善胰岛素抵抗：通过提高细胞对胰岛素的敏感性，降低血糖水平。
+   - 提供结肠细胞的主要能量来源。
+   - 减轻炎症反应：有助于缓解IBS等炎症性肠道疾病。
+   - 抗癌作用：减少结肠癌的风险。
+   - 增强抗氧化能力：通过增加谷胱甘肽的生成。
+   - 具有神经保护作用：对大脑和肠道神经有益。
+
+3. 纤维的来源与健康建议：
+   - 推荐摄入富含纤维的食物，如蔬菜（西兰花、羽衣甘蓝等）。
+   - 蔬菜中还含有钾和镁，有助于改善胰岛素抵抗。
+
+---
+
+#### **問題原因**
+- 传统 ketogenic饮食强调高脂肪、低碳水化合物，但忽视了纤维对肠道健康的重要性。
+- 高-fat饮食可能导致代谢综合征、炎症反应等问题，若缺乏纤维的调节作用，可能加重这些问题。
+
+---
+
+#### **解決方法**
+1. 在 ketogenic饮食中增加纤维摄入：
+   - 选择富含纤维的食物（如蔬菜）作为碳水化合物来源。
+   - 纤维通过肠道微生物发酵产生丁酸，改善代谢和炎症状态。
+
+2. 使用优质脂肪源：
+   - 建议使用天然黄油或无乳清黄油（ghee），这些脂肪中含有一定量的丁酸，可进一步增强健康效果。
+
+---
+
+#### **健康建議**
+1. 饮食建议：
+   - 优先选择蔬菜作为纤维来源。
+   - 结合高-fat饮食与纤维摄入，平衡营养需求。
+
+2. 注意事项：
+   - 若有消化不良或 bloating问题，需关注纤维的种类和摄入量。
+   - 对于特殊人群（如肠道敏感者），建议逐步增加纤维摄入，并观察身体反应。
+
+---
+
+#### **結論**
+- 纤维在 ketogenic饮食中具有重要作用，尤其是通过产生丁酸改善代谢健康。
+- 丁酸不仅能降低胰岛素抵抗，还能缓解炎症、预防癌症和增强抗氧化能力。
+- 建议在日常饮食中增加蔬菜的摄入量，并关注纤维对肠道健康的长期益处。
 </details>
 
 <details>
-<summary>2082. The Ketogenic Diet, Women & Hormones – Hormonal Imbalance In Women On Keto – Dr.Berg</summary><br>
+<summary>2082. [2019-03-23] The Ketogenic Diet, Women & Hormones – Hormonal Imbalance In Women On Keto – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=OHZoFFKrP58" target="_blank">
     <img src="https://img.youtube.com/vi/OHZoFFKrP58/maxresdefault.jpg" 
@@ -242,11 +666,69 @@
 
 # The Ketogenic Diet, Women & Hormones – Hormonal Imbalance In Women On Keto – Dr.Berg
 
+### 核心主題  
+- 探讨酮ogenic diet（生酮饮食）和intermittent fasting（间歇性禁食）对女性激素健康的影响，澄清其是否真的有害。
 
+---
+
+### 主要觀念  
+1. **胰岛素的作用**  
+   - 胰岛素是一种促进脂肪合成的激素，抑制脂肪分解。通过降低胰岛素水平，可以增强甲状腺激素、生长激素、肾上腺素等脂肪燃烧激素的作用，从而提高脂肪代谢效率。
+
+2. **膽汁的作用**  
+   - 生酮饮食中健康脂肪的摄入增加胆汁分泌，有助于将T4（甲状腺激素的储存形式）转化为活性形式T3，提升甲状腺功能。
+   - 胆汁还促进维生素A、D和E等脂溶性维生素的吸收，这些维生素对激素健康至关重要。
+
+3. **甾体激素的合成**  
+   - 生酮饮食提供足够的胆固醇和脂肪，作为制造雌激素、孕激素、睾osterone和皮质醇等甾体激素的基本原料。低脂肪饮食可能导致激素分泌不足。
+
+4. **多囊卵巢综合征（PCOS）的改善**  
+   - 高胰岛素血症是导致女性PCOS的重要原因。通过降低胰岛素水平，可以缓解与PCOS相关的症状，如雄性化表现和生殖问题。
+
+5. **酮体对大脑的保护作用**  
+   - 生酮饮食使身体利用酮体作为能量来源，酮体具有神经保护作用，支持脑部健康。
+   - 间歇性禁食激活修复基因，促进新脑细胞生成，并改善下丘脑和垂体功能，进而优化内分泌调节。
+
+6. **胰腺压力的减轻**  
+   - 生酮饮食减少胰岛素分泌负担，使胰腺能够更有效地参与血糖调节和消化功能，从而提升生育能力和性欲。
+
+---
+
+### 問題原因  
+- 传统观点认为生酮饮食和间歇性禁食可能对女性激素健康有害，主要集中在以下几个方面：
+  - 胰岛素水平的剧烈波动可能导致内分泌失调。
+  - 酮体生成可能干扰甲状腺功能。
+  - 过度限制热量或营养不均衡可能导致激素分泌不足。
+
+---
+
+### 解决方法  
+1. **科学实施生酮饮食**  
+   - 确保摄入足够的健康脂肪，提供激素合成所需的原料。
+   - 合理控制碳水化合物和蛋白质的摄入量，避免过度降低胰岛素水平导致代谢紊乱。
+
+2. **逐步适应间歇性禁食**  
+   - 以渐进的方式开始禁食计划，避免对内分泌系统造成过大压力。
+   - 监测身体反应，必要时调整禁食时间和频率。
+
+3. **关注激素变化的信号**  
+   - 如果出现怕冷、月经不调或性欲下降等症状，可能是饮食方式过激的表现，需及时调整。
+
+---
+
+### 健康建議  
+- 选择健康的生酮饮食版本（Healthy Keto），确保营养均衡。
+- 结合适量的运动和压力管理，进一步优化激素健康。
+- 定期监测甲状腺功能、胰岛素水平和激素指标，必要时咨询专业医生或营养师。
+
+---
+
+### 結論  
+生酮饮食和间歇性禁食在女性中可能具有显著的代谢和内分泌调节作用。通过科学实施这些方法，可以改善脂肪燃烧效率、支持甲状腺功能、优化激素合成并减轻胰腺负担。然而，需要注意个体化差异，避免过度或不当操作导致内分泌失调。
 </details>
 
 <details>
-<summary>2081. Plants Do Not Like to be Eaten: Thus the Anti Nutrients – Dr.Berg On Phytoestrogens & Phytic Acid</summary><br>
+<summary>2081. [2019-03-22] Plants Do Not Like to be Eaten: Thus the Anti Nutrients – Dr.Berg On Phytoestrogens & Phytic Acid</summary><br>
 
 <a href="https://www.youtube.com/watch?v=GgnnklDVhso" target="_blank">
     <img src="https://img.youtube.com/vi/GgnnklDVhso/maxresdefault.jpg" 
@@ -255,11 +737,61 @@
 
 # Plants Do Not Like to be Eaten: Thus the Anti Nutrients – Dr.Berg On Phytoestrogens & Phytic Acid
 
+### 文章重點整理
 
+#### 1. 核心主題：植物中的抗營養物質及其影響
+- 植物為保護自身免受食草動物侵害而演化出多種防禦機制。
+- 主要抗營養物質包括：
+  - 豆類雌激素（phytoestrogens）
+  - 酚酸（phytic acid）
+  - 胞嘧啶（lectins）
+  - 氧連化合物（oxalates）
+
+#### 2. 主要觀念：抗營養物質的雙面性
+- **豆類雌激素**：
+  - 具有.birth control effect./，防止昆蟲繁殖。
+  - 高劑量或加工產品可能對健康產生不良影響。
+- **酚酸**：
+  - 干擾礦物質吸收（如鋅、鐵、鈣）。
+  - 具備 antioxidant 和 anticancer 潛能。
+- **胞嘧啶**：
+  - 可損害腸道屏障，導致漏 Gut 症候群。
+  - 夜shade、大豆等食物中含量較高。
+- **氧連化合物**：
+  - 與鈣結合形成結晶，增加腎石風險。
+  - 富集於parsley、spinach、peanuts等食物。
+
+#### 3. 啟發的原因：抗營養物質的健康問題
+- 遊離鐵過多導致氧化應激和心臟病風險。
+- 慢性炎症和自身免疫疾病的加重。
+- 胃腸道功能紊亂（如 SIBO）引發的不適。
+
+#### 4. 解決方法：降低抗營養物質影響
+- **加工處理**：
+  - 熔化、醃製或发酵食物以降低抗營養物質活性。
+- **飲食調整**：
+  - 根據個人情況選擇低抗營養物質的食物。
+  - 腳航員蔬菜的攝取方式（如葉菜 vs. 十字花科蔬菜）。
+- **健康管理**：
+  - 適當控制抗營養物質攝入，特別是腎石患者。
+
+#### 5. 健康建議
+- **普通人群**：
+  - 如無特殊情況，可正常食用富含抗營養物質的食物。
+  - 注意食物加工方式和攝取量。
+- **特定健康問題群體**：
+  - 自身免疫疾病患者：限制 lectins 取。
+  - 腎石患者：控制 oxalates 的攝入。
+  - SIBO 患者：短期避免高纖維食物，採用酸性飲食和抗生素治療。
+
+#### 6. 總結
+- 抗營養物質雖對植物生存有益，但過多或不當攝取可能影響人類健康。
+- 適當的飲食管理和加工方式可有效降低其不良影響。
+- 根據個人健康狀況調整食物選擇，以實現均衡飲食。
 </details>
 
 <details>
-<summary>2080. Does Ketogenic Diet Puts Your Body Into An Emergency State? – Dr.Berg</summary><br>
+<summary>2080. [2019-03-21] Does Ketogenic Diet Puts Your Body Into An Emergency State? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HKVm2Qh4z54" target="_blank">
     <img src="https://img.youtube.com/vi/HKVm2Qh4z54/maxresdefault.jpg" 
@@ -268,11 +800,49 @@
 
 # Does Ketogenic Diet Puts Your Body Into An Emergency State? – Dr.Berg
 
+### 文章整理：酮飲食适应期的挑战与解决方案
 
+#### 核心主題
+- 酮飲食（Keto Diet）在适应期可能引发身体不适，需采取措施减轻副作用，并确保长期一致性以实现脂肪燃烧状态。
+
+#### 主要觀念
+1. **酮飲食适应期的症状**：
+   - 初期过渡时可能出现低血糖症状，如 irritability 和 fatigue（即所谓的“酮流感”）。
+   
+2. **酮飲食的生理机制**：
+   - 酮體有助于抑制交感神經系統（Sympathetic Nervous System, SNS），使身體進入副交感神經系統（Parasympathetic Nervous System, PNS） dominance，促進放鬆和恢復。
+   
+3. **酮飲食的健康益處**：
+   - 改善壓力反應、血壓、睡眠品質和情緒穩定性。
+
+#### 問題原因
+- 高碳水化合物飲食導致B族維生素（特別是B1）不足，影響自主神經系統功能，使身體長期處於應激狀態。
+- 碳水化合物攝取不一致（斷斷續續）會干擾酮體生成和脂肪燃燒的穩定性。
+
+#### 解决方法
+1. **補充關鍵營養素**：
+   - 食鹽、海鹽：維持電解質平衡。
+   - 鈾：支持神經系統功能。
+   - 確酸鈣：緩解肌肉痙攣和壓力反應。
+   - 維生素B1（來源於營養酵母）：支撐自主神經系統。
+
+2. **飲食一致性**：
+   - 避免短期切換碳水化合物攝取，保持酮飲食的連續性以促進酶和細胞機器的穩定生成。
+
+3. **逐步適應**：
+   - 減少在过渡期的不適，通過補充營養素輕鬆過渡。
+
+#### 健康建議
+- 確保均衡攝取宏量和微量營養素，特別是B族維生素。
+- 避免突然切換飲食模式，保持酮飲食的一致性以促進身體適應。
+- 初學者可考慮補充營養酵母來提供必需的營養支持。
+
+#### 結論
+- 酮飲食具有显著的健康益處，但适应期需謹慎管理，通過營養補充和飲食一致性克服副作用，實現長期脂肪燃燒並改善整體 wellbeing。
 </details>
 
 <details>
-<summary>2079. Eliminate Kidney Stones With Lemons – Kidney Stone Causes & Lemon Benefits – Dr.Berg</summary><br>
+<summary>2079. [2019-03-21] Eliminate Kidney Stones With Lemons – Kidney Stone Causes & Lemon Benefits – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=R6siqTxxgdE" target="_blank">
     <img src="https://img.youtube.com/vi/R6siqTxxgdE/maxresdefault.jpg" 
@@ -281,11 +851,60 @@
 
 # Eliminate Kidney Stones With Lemons – Kidney Stone Causes & Lemon Benefits – Dr.Berg
 
+### 文章重點整理
 
+#### 核心主題
+- 肾臟石碏的形成及其自然療法，特別是使用檸檬汁作為核心療法。
+
+#### 主要觀念
+1. **腎臟石碏的分類與成因**
+   - 大約59%的腎臟石碏為氧化鈣结石。
+   - 氧化鈣结石的形成涉及膽鹽、草酸鹽和鈣質在腎臟中的相互作用，導致結晶沉積。
+
+2. **健康風險因素**
+   - 脫水：攝水量不足會增加腎臟石碏的風險。
+   - 高草酸鹽飲食：草酸鹽來源包括食物攝取和人體內自然生成，過量的草酸鹽會促成结石。
+   - 高鈣血症：血液中鈣質水平升高。
+   - 低枸橼酸尿：尿液中枸橼酸含量不足，增加结石形成風險。
+
+#### 問題原因
+- 草酸鹽攝取過量或人體生成過多。
+- 尿液酸鹼失衡（酸性過高）。
+- 枸橼酸缺乏，導致無法有效抑制氧化鈣結晶沉積。
+
+#### 解決方法
+1. **飲食調整**
+   - 限制高草酸鹽食物攝取，每日草酸鹽攝取量建議不超過50毫克。
+   - 配合進餐食用含鈣豐富的食物（如山羊奶酪或花生），以降低膳食草酸鹽的吸收。
+
+2. **增加枸橼酸攝取**
+   - 使用檸檬汁：檸檬汁富含枸橼酸，能有效抑制氧化鈣結晶。
+   - 檸檬汁可中和尿液酸性，促進结石溶解並降低腎臟組織附著。
+
+3. **dration Strategies**
+   - 早晨空腹飲用一杯純粹檸檬汁。
+   - 將一杯檸檬汁稀釋於十杯水中，全天分次攝取，以維持高枸橼酸水平。
+
+#### 健康建議
+- 在實施任何自然療法前，諮詢醫生，特別是正在接受醫療治療的患者。
+- 選擇新鮮檸檬汁或有機產品，因其维生素 C含量更高且炎症作用更佳。
+- 使用吸管飲用檸檬水，以減少對牙齒的酸蝕。
+
+#### 研究數據與證據
+- 草酸鹽攝取過量可能增加结石風險，但研究結果存在分歧，關鍵在於來源（合成vs天然）。
+- 低枸橼尿症患者通過增加枸橼酸攝取可有效降低结石复发率。
+
+#### 结論
+- 檸檬汁作為自然療法，在增加枸橼酸、平衡尿液pH值方面具有顯著效果，但需配合飲食調整和充足水分攝取。
+- 倡導個體化治療方案，患者應與醫生密切合作以確保療效和安全性。
+
+---
+
+此整理結構清晰，涵蓋了文章的主要內容，並使用正式的學術用語進行表達。
 </details>
 
 <details>
-<summary>2078. Dangerous Cholesterol Is Coming From Carbs, Not Fat! – Dr.Berg On Cholesterol Causes & Saturated Fat</summary><br>
+<summary>2078. [2019-03-20] Dangerous Cholesterol Is Coming From Carbs, Not Fat! – Dr.Berg On Cholesterol Causes & Saturated Fat</summary><br>
 
 <a href="https://www.youtube.com/watch?v=A-EzTe3qrj4" target="_blank">
     <img src="https://img.youtube.com/vi/A-EzTe3qrj4/maxresdefault.jpg" 
@@ -294,11 +913,43 @@
 
 # Dangerous Cholesterol Is Coming From Carbs, Not Fat! – Dr.Berg On Cholesterol Causes & Saturated Fat
 
+### 小節一：核心主題  
+- 膳食脂肪並非導致動脈斑塊形成（plaquing）的主要原因。  
+- 危險性胆固爾主要來源於碳水化合物和糖分的代謝。
 
+### 小節二：主要觀念  
+1. **新陳代謝概念**：  
+   - 膳食脂肪和身體自行合成的脂質（de novo lipidogenesis）對血清膽固醇水平有不同的影響。  
+2. **碳水化合物的作用**：  
+   - 確認性研究指出，高血糖指數食物（如精緻碳水化合物和糖分）會刺激身體生成更多危險性的低密度脂蛋白（LDL），並增加動脈斑塊的風險。
+
+### 小節三：問題原因  
+1. **公眾對胆固爾來源的誤解**：  
+   - 大眾普遍認為高膽固醇血症是由於攝入過多脂肪，尤其是動物性產品（如蛋類、肉類）。  
+2. **碳水化合物代謝的限制**：  
+   - 身體對碳水化合物的儲存能力有限（主要為糖原）， excess carbohydrates are converted into fat or stored as visceral fat, leading to increased LDL levels and inflammation.
+
+### 小節四：解決方法  
+1. **飲食調整**：  
+   - 降低精緻碳水化合物和糖分的攝取量，以減少dangerous LDL的生成。  
+2. **提高脂肪攝取**：  
+   - 高脂 diets（如地中海飲食）在限制碳水化合物的情況下，不會導致危險性胆固爾水平上升。  
+
+### 小節五：健康建議  
+1. **飲食結構**：  
+   - 采用低碳水化合物、高健康脂肪的飲食模式（例如 avocado, nuts, olive oil等）。  
+2. **生活方式**：  
+   - 維持規律運動，以促進脂質代謝和整體心血管健康。  
+
+### 小節六：結論  
+- 膳食脂肪並非導致動脈斑塊形成的主要原因，反而是精緻碳水化合物和糖分才是真正危險的來源。  
+- 通過降低碳水化合物攝取、增加健康脂肪攝入，可以有效降低心血管疾病風險。  
+
+此整理基於.articles的內容，旨在提供客觀且正式的結構化信息。
 </details>
 
 <details>
-<summary>2077. Intermittent Fasting and Ketosis May Spike Your Cholesterol – Dr. Berg</summary><br>
+<summary>2077. [2019-03-20] Intermittent Fasting and Ketosis May Spike Your Cholesterol – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=0OJltvn0mVM" target="_blank">
     <img src="https://img.youtube.com/vi/0OJltvn0mVM/maxresdefault.jpg" 
@@ -307,11 +958,51 @@
 
 # Intermittent Fasting and Ketosis May Spike Your Cholesterol – Dr. Berg
 
+# 文章重點整理
 
+## 核心主題
+- 膳食中膽固醇對血液膽固醇水平的影響。
+- ary cholesterol 的作用及其與內源性膽固醇的相互作用。
+- 酮症ダイエット（keto diet）和斷食（fasting）對膽固醇水平的短期影響。
+
+## 主要觀念
+1. **膽固醇的來源**：
+   - 內源性膽固醇合成占總膽固醇的75%。
+   - 膳食膽固醇占25%，存在反饋調節機制，攝入多時 synthesis 减少。
+
+2. **膽固醇的功能**：
+   - 結構功能：參與所有細胞膜的形成。
+   - 合成激素：如維生素D、腎上腺素、性激素等。
+
+3. **斷食對膽固醇的影響**：
+   - 斷食期間，身體燃燒脂肪儲備，釋放大量游離膽固醇。
+   - 胆固醇不直接用於供能，主要進入肝臟或 bile production。
+
+4. **酮症ダイエット（keto diet）的影響**：
+   - 營養代謝轉向脂肪燃燒，可能導致短期膽固醇上升。
+   - 濫食後膽固醇水平恢復正常。
+
+## 問題原因
+- 斷食和酮症ダイエット期間，脂肪分解增加，游離膽固醇釋放到血液中，短期內膽固醇水平升高。
+- 常規血脂檢測多在空腹時進行，斷食可能影響結果的準確性。
+
+## 解決方法
+1. **檢測指標**：
+   - 重視「殘留膽固醇（remnant cholesterol）」而非傳統的LDL。
+   - 殘留膽固醇高於30則需特別注意。
+
+2. **健康建議**：
+   - 保持低胰島素水平，有助於膽固醇的有效利用和排出。
+   - 避免精制碳水化合物和糖分攝取，以降低殘留膽固醇風險。
+
+## 結論
+- 斷食和酮症ダイエット期間膽固醇上升是暫時現象，通常無害。
+- 檢測殘留膽固醇更能反映心血管疾病風險。
+- 保持低胰島素飲食結構，可降低健康風險。
 </details>
 
 <details>
-<summary>2076. Lectins and Autoimmune Conditions</summary><br>
+<summary>2076. [2019-03-19] Lectins and Autoimmune Conditions</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Ymwrvek3bXQ" target="_blank">
     <img src="https://img.youtube.com/vi/Ymwrvek3bXQ/maxresdefault.jpg" 
@@ -320,11 +1011,60 @@
 
 # Lectins and Autoimmune Conditions
 
+### 文章整理： lectins對免疫系統及健康的影響
 
+#### 核心主題  
+- 講述lectins（凝集素）的作用及其對人體健康，特別是免疫系統的影響。
+
+---
+
+#### 主要觀念  
+1. **什么是 Lectins**  
+   - Lectins 是大型蛋白質分子，由植物合成。  
+   - 植物通過進化產生lectins來防禦昆蟲和其他掠食者。  
+
+2. **Lectins 的功能與影響**  
+   - 與消化道結合並可能破壞腸道屏障（黏膜）。  
+   - 形成「孔隙」，導致腸漏（intestinal permeability）。  
+
+3. **腸漏的後果**  
+   - 允許大分子蛋白質進入血液，觸發免疫反應。  
+   - 造成炎症並可能引發自身免疫疾病。  
+
+4. **與自身免疫疾病的關聯**  
+   - 病例包括橋本氏病、 lupus、類風濕性關節炎和多IPLE硬化症等。  
+
+---
+
+#### 問題原因  
+- 高lectins食物的攝入，尤其是對已有炎症或 autoimmune 條件的人群。  
+- 常見高lectins食物包括：  
+  - 全穀物（如麩質含量高的食物）。  
+  - 大豆及衍生物。  
+  - 豆科植物（legumes）。  
+  - 药椒屬蔬菜（nightshades，如番茄、南瓜、馬鈴薯、甜椒等）。  
+
+---
+
+#### 解決方法  
+1. **飲食調整**  
+   - 選擇低lectins食物。  
+   - 採用發酵工藝處理高lectins食物以降低其含量。  
+
+2. **健康建議**  
+   - 若有慢性炎症或 autoimmune 疾病，可考慮限制lectins攝取。  
+   - 配合其他飲食策略（如生酮飲食或間歇性禁食）仍無法改善症狀時， reduction of lectins可能有助於降低炎症。  
+
+---
+
+#### 結論  
+- Lectins 可能會加重炎症和 autoimmune 病情。  
+- 低lectins飲食可能是某些患者的有益選擇，但需根據個人情況調整。  
+- 更多詳細資訊可參閱附帶的lectins含量清單。
 </details>
 
 <details>
-<summary>2075. The Benefits of Tocotrienols (Part of the Vitamin E) – Benefits Of Vitamin E – Dr.Berg</summary><br>
+<summary>2075. [2019-03-18] The Benefits of Tocotrienols (Part of the Vitamin E) – Benefits Of Vitamin E – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=0J2e_NXk3rw" target="_blank">
     <img src="https://img.youtube.com/vi/0J2e_NXk3rw/maxresdefault.jpg" 
@@ -333,11 +1073,38 @@
 
 # The Benefits of Tocotrienols (Part of the Vitamin E) – Benefits Of Vitamin E – Dr.Berg
 
+### 小芻目錄
+1. **核心主題**  
+   - 探讨tocotrienols作为维生素E复合体的一部分及其健康益处。
+   
+2. **主要觀念**  
+   - Tocotrienols和tocopherols共同组成了维生素E的完整复合体。  
+   - Tocotrienols具有独特的生物活性，包括神经保护、降胆固醇、抗氧化等作用。  
+   - 历史研究表明，维生素E（特别是tocotrienols）在治疗多种疾病方面有显著效果。
 
+3. **問題原因**  
+   - 大部分研究集中于α-tocopherol，忽略了tocotrienols的潜在益处。  
+   - 高剂量合成维生素E（如α-tocopherol）可能增加全因死亡率，误导公众远离天然维生素E源。  
+
+4. **解決方法**  
+   - 优先使用天然来源的维生素E，包含tocotrienols和tocopherols的完整复合体。  
+   - 更加重视tocotrienols的研究与应用，以全面评估其健康益处。
+
+5. **健康建議**  
+   - 增加富含维生素E的食物摄入，如坚果、种子、鱼类、蛋黄和绿叶蔬菜。  
+   - 避免仅依赖合成的单一成分（如α-tocopherol），选择天然完整的维生素E补充剂。  
+
+6. **結論**  
+   - Tocotrienols具有显著的抗氧化和治疗潜力，值得进一步研究与推广。  
+   - 历史和现代研究表明，维生素E的完整复合体对健康至关重要，应避免片面否定其价值。
+
+---
+
+以上整理基于文章内容，强调了tocotrienols的重要性及其在健康领域的广泛应用潜力。
 </details>
 
 <details>
-<summary>2074. How To Know if You’re in Ketosis (the Signs of Ketosis & Keto Adaptation) – Dr. Berg</summary><br>
+<summary>2074. [2019-03-18] How To Know if You’re in Ketosis (the Signs of Ketosis & Keto Adaptation) – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=RE8Xh8wEAMQ" target="_blank">
     <img src="https://img.youtube.com/vi/RE8Xh8wEAMQ/maxresdefault.jpg" 
@@ -346,11 +1113,43 @@
 
 # How To Know if You’re in Ketosis (the Signs of Ketosis & Keto Adaptation) – Dr. Berg
 
+### 核心主題：進入酮症（Ketosis）及相關疑問解答
 
+#### 主要觀念：
+1. **酮症的定義**：酮症是一種身體利用脂肪burning產生酮體作為主要能量來源的代謝狀態。酮體代表脂肪燃燒的40%，而60%則是游離脂肪酸。
+2. **酮症的優勢**：酮症提供更乾淨的能量來源，降低血糖依賴，適合長時間_runner或特定疾病患者。
+
+#### 問題原因：
+1. **酮症測試的混淆**：
+   - 血液、尿液和呼吸測試各有局限性。
+   - 尿液和呼吸測試在初期可能不準確，因未完全metabolized。
+2. **外源性酮體的誤用**：市場上的酮體補充劑被錯誤認為能直接將人推入酮症，但其實需先降低碳水化合物攝取以建立酮燃燒機制。
+
+#### 解決方法：
+1. **測試建議**：
+   - 血液測試最準確。
+   - 初期尿液測試經濟實惠，呼吸測試亦可。
+2. **進入酮症的關鍵**：降低碳水化合物攝取以降低血糖，激發酮體生成。
+
+#### 健康建議：
+1. **飲食調整**：
+   - 減少碳水化合物攝取是進入酮症的核心。
+   - 飽足unger、 cravings消失、能量穩定、認知功能正常及情緒良好為健康酮症的標誌。
+2. **特殊情況下的酮體補充**：
+   - 長距離_runner可考慮酮體補充，但需謹慎。
+   - 阿茲海默症或帕金森氏病患者若脂肪儲備不足可使用酮體補充。
+
+#### 結論：
+- 進入酮症的核心在於降低碳水化合物攝取，而非依賴外源性酮體補充。
+- 健康的酮症應伴隨著良好的能量、認知功能和情緒狀態。若出現不適，需重新評估飲食策略。
+
+---
+
+**附註**：影片作者強調了健康進入酮症的重要性，並提供進一步資源以幫助觀眾正確執行酮飲食計劃。
 </details>
 
 <details>
-<summary>2073. What Nuts Have the Lowest Amounts of Oxalates to Minimize Kidney Stones?</summary><br>
+<summary>2073. [2019-03-17] What Nuts Have the Lowest Amounts of Oxalates to Minimize Kidney Stones?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=U9PJLekWSK0" target="_blank">
     <img src="https://img.youtube.com/vi/U9PJLekWSK0/maxresdefault.jpg" 
@@ -359,7 +1158,44 @@
 
 # What Nuts Have the Lowest Amounts of Oxalates to Minimize Kidney Stones?
 
+# 肾结石风险人群坚果摄入指南
 
+## 核心主題
+- 探讨肾结石风险人群如何通过选择低草酸盐（oxalates）含量的坚果来降低患病风险。
+
+## 主要觀念
+1. **草酸鹽的作用**：草酸鹽是一種化學化合物，可與鈣結合，形成不溶性沉積物，可能刺激腎臟及其他組織，增加腎结石風險。
+2. **食物中的草酸鹽來源**：多種食物含有草酸鹽，包括某些蔬菜（如菠菜）、水果（如薺薺）以及加工食品（如巧克力）。
+
+## 問題原因
+- 草酸鹽在食物中廣泛存在，幾乎無法完全避免。高攝入量可能增加腎结石風險，特別是對於已經有腎结石病史或易感人群。
+
+## 解決方法
+1. **選擇低草酸鹽的堅果**：
+   - 按每100克計算，不同堅果的草酸鹽含量如下：
+     - 杏仁：469毫克（最高）
+     - 紅栗子、松子、花生、核桃（中等）
+     - 巴旦杏、 Pistachio、Macadamia nuts（最低）
+   - 推薦選擇低草酸鹽的堅果，如巴旦杏、夏威夷果和山櫻桃杏仁。
+
+2. **攝食策略**：
+   - **搭配含鈣食物**：食用堅果時，可搭配奶酪等含鈣食物， calcium 可與 oxalate 结合，形成不溶性沉積物，隨消化道排出。
+   - **增加枸橼酸攝取**：食用檸檬汁、柑橘類水果或補充 potassium citrate/calcium citrate，可降低草酸鹽的結石風險。
+
+## 健康建議
+1. 飲食調整：
+   - 減少高草酸鹽食物的攝入，如菠菜和巧克力。
+   - 選擇低草酸鹽的堅果，並搭配其他食物（如奶酪）以降低風險。
+2. 生活方式：
+   - 保持足夠的水分攝取，促進排泄。
+   - 考慮補充枸橼酸鹽，以進一步降低腎结石風險。
+
+## 結論
+- 適當選擇低草酸鹽的堅果，並搭配含鈣或含枸橼酸的食物，可有效降低腎结石風險。對於易感人群來說，合理飲食結構和攝食策略至關重要。
+
+---
+
+此指南基於研究和實證數據，為腎结石風險人群提供客觀、清晰的飲食建議，幫助其在日常生活中做出更健康的選擇。
 </details>
 
 <details>
