@@ -597,7 +597,7 @@
 </details>
 
 <details>
-<summary>2154. How To Put Multiple Sclerosis (MS) In Remission? – Dr.Berg</summary><br>
+<summary>2154. [2019-05-02] How To Put Multiple Sclerosis (MS) In Remission? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kN8KmYAlass" target="_blank">
     <img src="https://img.youtube.com/vi/kN8KmYAlass/maxresdefault.jpg" 
@@ -606,11 +606,49 @@
 
 # How To Put Multiple Sclerosis (MS) In Remission? – Dr.Berg
 
+### 小節整理：多重硬化症與Cobras_protocol下的維生素D3療法
 
+#### 1. 核心主題
+- 探讨维生素D3在治疗和改善自身免疫疾病（特别是多发性硬化症）中的作用。
+- 强调高剂量维生素D3的使用及其潜在效果。
+
+#### 2. 主要觀念
+- **维生素D3的作用**：作为免疫调节剂，影响超过3,000个基因，调控几乎每一个免疫细胞的功能。
+- **地理位置与MS发病率的关系**：纬度较高的地区阳光照射较少，MS发病率较高，提示维生素D在其中可能起关键作用。
+- **孕期维生素D的重要性**：孕妇补充维生素D或增加日晒可降低后代患哮喘和自身免疫疾病的风险。
+
+#### 3. 問題原因
+- **维生素D受体的多态性**：约有4%的人口存在维生素D受体基因突变，导致对维生素D的吸收效率低下。
+- **高剂量维生素D3的副作用风险**：可能导致血钙浓度过高（hypercalcemia），引发一系列症状如脱水、恶心和心脏问题。
+
+#### 4. 解決方法
+- **监测与调整剂量**：
+  - 在开始治疗前进行血液检测，测量甲状旁腺激素水平。
+  - 根据甲状旁腺激素的变化调整维生素D3的剂量：若甲状旁腺激素下降，则需增加剂量以维持疗效。
+  
+- **辅助营养素的使用**：
+  - **维生素K2（MK7形式）**：按10,000 IU维生素D3对应100微克的比例补充，防止钙质沉积。
+  - **omega-3脂肪酸（DHA）**、锌：支持免疫调节和减少炎症。
+  - **镁、胆碱、B族维生素（如B2、B12、葉酸）、铬和硒**：辅助维生素D3的吸收与代谢。
+
+#### 5. 健康建議
+- **水分摄入**：
+  - 每日饮用至少2.5升水，预防因钙浓度升高导致的肾结石。
+  
+- **饮食调整**：
+  - 避免摄入乳制品及其他高钙食物，以减少血钙水平。
+
+#### 6. 結論
+- 高剂量维生素D3在治疗自身免疫疾病如MS方面显示出显著效果，但需谨慎管理剂量以避免副作用。
+- 维生素D3的疗效因个体差异而异，特别是受体多态性的影响，因此个性化医疗方案至关重要。
+- 联合使用辅助营养素和监测指标（如甲状旁腺激素）是确保治疗安全有效的关键。
+
+#### 7. 參考資源
+- 提供Cobras protocol的详细链接，供进一步研究与参考。
 </details>
 
 <details>
-<summary>2153. 7 Natural Blood Thinners – Dr. Berg</summary><br>
+<summary>2153. [2019-05-01] 7 Natural Blood Thinners – Dr. Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=-JarYMpNmYo" target="_blank">
     <img src="https://img.youtube.com/vi/-JarYMpNmYo/maxresdefault.jpg" 
@@ -619,11 +657,63 @@
 
 # 7 Natural Blood Thinners – Dr. Berg
 
+### 文章整理：七大自然血液稀釋劑及其健康影響
 
+#### 核心主題
+- 探讨天然血液稀釋劑的作用及其健康益處。
+- 强調自然方法在血液健康管理中的重要性。
+
+#### 主要觀念
+1. **維生素E**  
+   - 具有血液稀釋作用，需選擇含tocotrienols和tocopherols的天然形式，避免合成版本。
+
+2. **大蒜（Garlic）**  
+   - 通過其特有的植物化學物質（如皂甙類化合物）具有抗血栓效果。
+   - 現今受到大型藥廠重視，因其成分可能被合成並專利化。
+
+3. **蒲公英 kinase（Pycnogenol）**  
+   - 一種源自松樹皮的天然血液稀釋劑，效果與阿司匹林相當。
+
+4. **薑黃素（Turmeric）**  
+   - 具有自然血液稀釋特性，常見於印度草藥。
+
+5. **蘋果醋（Apple Cider Vinegar）**  
+   - 可通過飲食攝入，幫助稀釋血液。
+
+6. **魚油及Cod Liver Oil**  
+   - 含Omega-3脂肪酸，具有自然血液稀釋作用。
+
+#### 問題原因
+- 高血糖和高胰島素水平是血栓形成的重要原因之一。
+  - 胰島素抵抗會增加血栓風險。
+  - 梅克洛汀（Metformin）等藥物雖能降低血栓風險，但需謹慎使用。
+
+#### 解決方法
+1. **飲食調整**  
+   - 減少高vitamin K1食物的攝入（如深綠色蔬菜），以配合抗凝血治療。
+   - 依醫生建議選擇低vitamin K1但富含其他營養素的食物。
+
+2. **生活方式改善**  
+   - 採用健康酮飲食和間歇性禁食，降低血糖和胰島素水平，降低血栓風險。
+
+3. **草藥與補充劑**  
+   - 考慮使用天然血液稀釋劑（如維生素E、大蒜等），但需諮詢醫生後使用。
+
+#### 健康建議
+- 在開始任何自然療法或改變飲食結構前，請先諮詢專業醫療人員。
+- 理解藥物（如Coumadin）的作用機制及其對飲食的限制。
+
+#### 總結
+天然血液稀釋劑提供了一種更為溫和且副作用較少的健康管理方式。然而，這並非要取代 conventional medicine，而是作為一種補充手段。患者應在醫生指導下，根據個人狀況選擇合適的治療方案，以降低血栓和中風風險，同時維持整體健康。
+
+---
+
+### 參考資源
+- Dr. Berg 提供健康酮飲食計劃（免費下載）。
 </details>
 
 <details>
-<summary>2152. Bad Cholesterol (LDL) is NOT Cholesterol and Is NOT Bad! – Dr.Berg</summary><br>
+<summary>2152. [2019-05-01] Bad Cholesterol (LDL) is NOT Cholesterol and Is NOT Bad! – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=nsISdNl2tWo" target="_blank">
     <img src="https://img.youtube.com/vi/nsISdNl2tWo/maxresdefault.jpg" 
@@ -632,11 +722,63 @@
 
 # Bad Cholesterol (LDL) is NOT Cholesterol and Is NOT Bad! – Dr.Berg
 
+### 小節整理：低密度脂蛋白（LDL）的功能與健康管理
 
+#### 核心主題：
+- LDL（低密度脂蛋白）是血液中運輸脂質的重要載體，並非「壞膽固醇」。
+
+#### 主要觀念：
+1. **脂蛋白的結構與功能**：
+   - 脂蛋白是由蛋白質殼包裹脂肪和其他物質形成的微粒。
+   - VLDL（極低密度脂蛋白）和LDL均為運輸脂質的載體，但 composition 略有不同。
+
+2. **VLDL 至 LDL 的轉化**：
+   - VLDL 主要負責運輸三酰甘油、膽固醇等物質。
+   - 在血液中，VLDL 釋放三酰甘油後，殘留的蛋白質和膽固醇組成 LDL。
+
+3. **LDL 的功能**：
+   - 提供細胞所需的脂肪酸作為能量來源。
+   - 參與細胞膜的修復及激素合成。
+   - 在動脈粥樣硬化斑塊中起到保護作用，提供修復材料。
+
+4. **氧化LDL的危害**：
+   - 氧化膽固醇是導致 cardiovascular disease 的重要因素。
+   - 高胰島素血症和高血糖會增加 LDL 氧化風險。
+
+#### 問題原因：
+1. **LDL 氧化的誘因**：
+   - 高血糖：血液中過高的葡萄糖濃度會促使 LDL 氧化。
+   - 高胰島素血症：胰島素抵抗導致胰島素分泌增加，促進 LDL 氧化。
+
+2. **現代飲食習慣的影響**：
+   - 高糖高熱量飲食引發胰島素抵抗和高血糖，間接導致 LDL 氧化。
+
+#### 解決方法：
+1. **降低 LDL 氧化的策略**：
+   - 控制血糖水平：避免過度攝入簡單碳水化合物。
+   - 降低胰島素水平：通過健康飲食（如生酮飲食）和 intermittent fasting 調節胰島素分泌。
+
+2. **生活方式的調整**：
+   - 適當運動：提高胰島素敏感性，降低血糖和胰島素水平。
+   - 均衡飲食：增加膳食纖維攝取，有助於穩定血糖。
+
+#### 健康建議：
+1. **飲食建議**：
+   - 選擇低糖、低碳水化合物的飲食模式（如生酮飲食）。
+   - 增加健康脂肪（如橄欖油、坚果）和高纖維食物的攝取。
+
+2. **生活習慣建议**：
+   - 維持規律的 intermittent fasting，以降低胰島素水平。
+   - 定期監測血糖和血脂指標，及時調整飲食和生活方式。
+
+#### 結論：
+- LDL 并非「壞膽固醇」，而是血液中重要的脂質運輸載體。
+- LDL 的氧化才是導致心血管疾病的罪魁禍首。
+- 通過控制血糖和胰島素水平，可以有效降低 LDL 氧化風險，維持心血管健康。
 </details>
 
 <details>
-<summary>2151. Why African Americans Have A Higher Risk of Diabetes & High Blood Pressure? – Dr.Berg</summary><br>
+<summary>2151. [2019-04-30] Why African Americans Have A Higher Risk of Diabetes & High Blood Pressure? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=fvO9kriQ7vc" target="_blank">
     <img src="https://img.youtube.com/vi/fvO9kriQ7vc/maxresdefault.jpg" 
@@ -645,11 +787,52 @@
 
 # Why African Americans Have A Higher Risk of Diabetes & High Blood Pressure? – Dr.Berg
 
+### 文章重點整理
 
+#### 核心主題
+- 探讨assium摄入不足与糖尿病及高血压等代谢性疾病的关系。
+
+#### 主要觀念
+1. ** potassium的重要性**：
+   - 人体每日所需钾量为4700毫克，远高于钠的1000毫克。
+   - 钾在血糖调节、胰岛素敏感性、血管弹性及肾脏保护中起关键作用。
+
+2. **低钾饮食的危害**：
+   - 导致糖原储存不足，引发对糖类的 cravings和血糖波动。
+   - 加重胰岛素抵抗，升高血糖水平。
+   - 血管僵硬，血压上升。
+
+3. **高血压与糖尿病患者的特点**：
+   - 钾摄入量通常低于需求，同时钠摄入过量（来自加工食品等）。
+   - 使用利尿剂会进一步导致钾流失。
+
+#### 問題原因
+- 一般饮食中钾摄入不足，而钠摄入过多。
+- 现代饮食习惯偏向高碳水化合物，加重钾缺乏。
+- 利尿剂的使用和某些药物影响钾水平。
+
+#### 解決方法
+1. **增加 potassium摄入**：
+   - 增加蔬菜和水果的攝取量，特別是富含 potassium的食物（如菠菜、香蕉等）。
+   - 通过饮食调整而非依赖補充劑，因市面上補充劑劑量不足。
+
+2. **調整飲食結構**：
+   - 推崇低碳水化合物 diet（如生酮 diet），以减少糖分攝取并增加vegetables的摄入。
+   - 每日攝取7-10杯蔬菜，輕鬆達成钾需求。
+
+#### 健康建議
+- 避免過量攝取加工食品和含 sodium的添加物（如MSG）。
+- 注意藥物對 potassium水平的影響，必要時諮詢醫生調整劑量。
+- 通過飲食而非補充劑來滿足 potassium需求。
+
+#### 結論
+- 足夠的 potassium攝入可顯著改善血糖控制和血壓水平。
+- 高碳水化合物 diet 和低钾攝取是代謝性疾病的重要風險因素。
+- 調整飲食結構至低 carbs且富含vegetables，可有效提升健康狀況。
 </details>
 
 <details>
-<summary>2150. What To Do Before Coloring Your Hair? – Dr.Berg</summary><br>
+<summary>2150. [2019-04-30] What To Do Before Coloring Your Hair? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=luOg2Ckr2Jc" target="_blank">
     <img src="https://img.youtube.com/vi/luOg2Ckr2Jc/maxresdefault.jpg" 
@@ -658,11 +841,49 @@
 
 # What To Do Before Coloring Your Hair? – Dr.Berg
 
+**核心主題：健康Beauty產品的風險與自然解決方案**
 
+* 化妝品和護理產品中常見的化學物質對人體有害；
+* 天然和有機產品是較為安全的選擇；
+* 白發的原因與抗氧化劑水平下降有關；
+* 通過補充抗氧化劑可以改善頭髮健康。
+
+**主要觀念：皮膚吸收能力**
+
+* 皮膚表面具有吸收功能，類似於海綿結構；
+* 化學物質易於穿透皮膚屏障，進入人體；
+* 長期累積可能對健康造成影響。
+
+**問題原因：化學物質的危害**
+
+* 染髮劑中的氨、parabens、PPD、甲苯和甲醛等成分具有毒性；
+* 這些化學物質可導致皮膚乾燥，並增加癌症風險（如 follicular lymphoma 和 chronic lymphocytic leukemia）；
+* 年齡增長導致抗氧化劑水平下降，過氧氫大量積累，使頭髮失去色素。
+
+**解決方法：天然護理與抗氧化劑補充**
+
+* 使用有機或自然的染髮產品，減少毒性暴露；
+* 補充以下抗氧化劑以改善頭髮健康：
+  * Catalase：分解過氧氫的酶；
+  * Glutathione：_master antioxidant_;
+  * Selenium：重要的抗氧化礦物質；
+  * 檸檬油和椰子油：外用護理產品。
+
+**健康建議：選擇低毒性的個人護理用品**
+
+* 檢查化妝品和護理產品的成分，避免使用高毒性產品；
+* 選擇有機或自然品牌的產品；
+* 分享此信息給髮廊業者，鼓勵他們改用更安全的產品。
+
+**結論：健康與美可以共存**
+
+* 使用天然產品既能保持 Hairstyling，又能降低健康風險；
+* 通過補充抗氧化劑緩解白發問題；
+* 長期累積的化學物質影響健康，值得特別注意。
 </details>
 
 <details>
-<summary>2149. Top 5 Symptoms Of Eating Too Much Protein – Dr.Berg</summary><br>
+<summary>2149. [2019-04-29] Top 5 Symptoms Of Eating Too Much Protein – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Ig5mG_R6ysQ" target="_blank">
     <img src="https://img.youtube.com/vi/Ig5mG_R6ysQ/maxresdefault.jpg" 
@@ -671,11 +892,49 @@
 
 # Top 5 Symptoms Of Eating Too Much Protein – Dr.Berg
 
+### 小節歸納：文章重點整理
 
+#### 1. 核心主題
+- **蛋白質攝取過量的危害與症状**  
+  文章主要探討了攝取過多蛋白質可能引起的五種症狀，包括泡沫尿、痛風、食欲下降、水腫和疲勞。
+
+#### 2. 主要觀念
+- **蛋白質在體內的代謝與影響**  
+  蛋白質需經肝臟代謝，若攝取過量可能增加肝臟和腎臟的負擔，導致蛋白質漏出到尿液中（泡沫尿）。
+- **尿酸生成的機制**  
+  過多的蛋白質分解會增加尿酸的產生，進而引發痛風。
+- **水腫與疲勞的原因**  
+  蛋白質攝取過量可能影響體液平衡，導致輕微水腫和疲勞。
+
+#### 3. 問題原因
+- **泡沫尿的成因**  
+  肾臟過負荷導致蛋白質漏出到尿液中。
+- **痛風的生成機制**  
+  過多的尿酸在關節積累形成結晶。
+- **水腫與疲勞的原因**  
+  蛋白質攝取過量可能干擾體內水分鹽分平衡，導致輕微水腫和疲勞。
+
+#### 4. 解決方法
+- **調整蛋白質攝取量**  
+  減少蛋白質攝取，觀察症狀是否改善。
+- **健康飲食建議**  
+  選擇適量的蛋白質來源，保持均衡飲食。
+
+#### 5. 健康建議
+- **每日蛋白質攝取量建議**  
+  每餐攝取3至6盎司蛋白質為宜，具體視年齡、體重和消化能力而定。
+- **間歇性禁食的考量**  
+  間歇性禁食可降低腎臟負擔，若攝取蛋白質不過量，一天一餐的方式也能有效。
+
+#### 6. 結論
+- ** moderation is key**  
+  適當的蛋白質攝取對健康至關重要，過量攝取會增加肝臟和腎臟的負擔，導致多種健康問題。
+- **養成良好的飲食 habits**  
+  平衡飲食、適度運動是維持健康的基石。
 </details>
 
 <details>
-<summary>2148. The Amazing Zinc [Part 3]: Its Importance for Prostate, Testosterone, and Sperm Viability – Dr.Berg</summary><br>
+<summary>2148. [2019-04-29] The Amazing Zinc [Part 3]: Its Importance for Prostate, Testosterone, and Sperm Viability – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=qph8JsQ-CJQ" target="_blank">
     <img src="https://img.youtube.com/vi/qph8JsQ-CJQ/maxresdefault.jpg" 
@@ -684,11 +943,66 @@
 
 # The Amazing Zinc [Part 3]: Its Importance for Prostate, Testosterone, and Sperm Viability – Dr.Berg
 
+### 文章重點整理
 
+#### 核心主題
+- **鋅（Zinc）**：一種至關重要的微量元素，影響多個生理功能和整體健康。
+
+---
+
+#### 主要觀念
+1. **前列腺健康**：
+   - 前列腺是人體中鋅含量最高的組織。
+   - 鋅缺乏可能導致低睾酮症（hypogonadism），表現為睾丸萎縮和 testosterone 分泌減少。
+   - 除此外，鋅還能抑制二氫睾酮（DHT）的生成，幫助控制前列腺肥大。
+
+2. **胰島素 metabolism**：
+   - 鋅與胰島素的生產、儲存和分泌密切相關。
+   - 糖尿病患者，特別是 2 型糖尿病患者，應注意補充鋅。
+   - 膵腺炎症或不足（如胰腺功能不全）常伴隨鋅水平降低。
+
+3. **免疫系統功能**：
+   - 鋮是mast cells的主要礦物質，這些細胞在過敏反應和哮喘中起關鍵作用。
+   - 鋚具有天然抗生素、抗炎和抗病毒特性，可縮短感冒病程。
+   - 真菌（如念珠菌）可能奪取宿主的鋅，削弱免疫系統。
+
+---
+
+#### 問題原因
+- **缺鋅**：導致前列腺問題、胰島素功能紊亂、免疫功能下降等健康問題。
+- **微生物競爭**：病原體如 Candida 可能搶奪宿主的鋅，進一步抑制免疫反應。
+
+---
+
+#### 解決方法
+1. **補充鋅**：
+   - 通過飲食（如紅肉、家禽、貝類和植物性食物）或補充劑。
+   - 注意選擇完整的礦物質補充產品，而非單一的鋅補充劑，以避免 Mineral 干擾。
+
+2. **注意胰腺健康**：
+   - 胰腺功能不全患者需要特別關注鋅的攝取，以支持胰酶和激素的正常分泌。
+
+3. **免疫系統支持**：
+   - 及時補充鋅可幫助抵抗感染，如在感冒初期服用可能縮短病程。
+   - 遴.Amount of.Zinc intake to prevent microbial overgrowth and immune suppression.
+
+---
+
+#### 健康建議
+- 定期攝取完整的礦物質補充劑，以彌補現代飲食中常見的微量營養素缺乏。
+- 注意個人飲食結構，增加含鋅食物的比例，尤其是對前列腺健康和免疫功能至關重要的群體（如男性、免疫力低下者）。
+- 如有疑慮，建議諮詢專業醫療人員。
+
+---
+
+#### 總結
+- 鋚在人體中扮演多種關鍵角色，包括生殖健康、胰島素 metabolism、免疫防禦等。
+- 缺鋅可能引發多種健康問題，從前列腺病變到免疫功能減退。
+- 及時和適當的鋅補充是維護整體健康的重要措施。
 </details>
 
 <details>
-<summary>2147. The Amazing Zinc [Part 2]: Its Benefits and How Zinc Deficiency Affects Skin – Dr.Berg</summary><br>
+<summary>2147. [2019-04-28] The Amazing Zinc [Part 2]: Its Benefits and How Zinc Deficiency Affects Skin – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KlJM_e4-iXY" target="_blank">
     <img src="https://img.youtube.com/vi/KlJM_e4-iXY/maxresdefault.jpg" 
@@ -697,11 +1011,71 @@
 
 # The Amazing Zinc [Part 2]: Its Benefits and How Zinc Deficiency Affects Skin – Dr.Berg
 
+### 小節歸納
 
+#### 一、核心主題：鋅（Zinc）的健康影響  
+文章主要探討了鋅在神經系統、心理健康及皮膚健康方面的多重作用，強調其對人體健康的多方面益處。
+
+---
+
+#### 二、主要觀念  
+1. **鋅作為天然抗抑鬱劑**：  
+   - 鋈缺乏與重大 depressive disorders密切相關。  
+   - 鋈在神經系統中集中於AMYGDALA（杏仁核）和HIPPOCAMPUS（海馬），這些腦區涉及壓力反應、記憶形成及空間定位。  
+
+2. **鋅對神經可塑性的影響**：  
+   - 通過間歇性禁食刺激HIPPOCAMPUS的再生，改善記憶力和空間定位能力。  
+   - 鋈與多巴胺結合，影響愉悅感，從而調節情緒。  
+
+3. **鋅對皮膚健康的作用**：  
+   - 鋈缺乏可導致痤疮、濕疹、皮炎等皮膚問題。  
+   - 鋒缺乏會使 кожа засохати та створити язвочки на внутрінній та зовнішній поверхності skóry.  
+
+4. **鋅的其他健康影響**：  
+   - 與白癜風、脱发等自體免疫疾病相關。  
+   - 影響指甲和皮膚健康，為身體第三豐富的微量元素。  
+
+---
+
+#### 三、問題原因  
+1. 鋈缺乏與以下情況有關：  
+   - 抑鬱症及其他心理障礙。  
+   - 多種皮膚疾病（如濕疹、痤疮、 rosacea）。  
+   - 神經退化性疾病及記憶力減退。  
+
+2. 鋇缺乏的可能原因：  
+   - 膳食中鋅攝取不足。  
+   - 消化吸收障礙或其他健康問題導致鋅利用率降低。  
+
+---
+
+#### 四、解決方法  
+1. **補充鋅**：  
+   - 經由口服或外用方式（如皮膚 creams）。  
+   - 通過均衡飲食攝取富含鋅的食物，如牡蠣、瘦肉、禽類、豆類及坚果。  
+
+2. **間歇性禁食**：  
+   - 刺激HIPPOCAMPUS再生，改善記憶力和情緒障礙。  
+
+3. **健康建議**：  
+   - 定期檢查鋅水平，特別是有心理問題或皮膚疾病的患者。  
+   - 適當攝取富含鋅的食物，避免長期缺鋅。  
+
+---
+
+#### 五、結論  
+文章強調了鋅在維持神經健康、心理健康及皮膚健康方面的關鍵作用。補充鋅可作為治療抑鬱症、皮膚疾病及其他相關問題的有效途徑之一。此外，間歇性禁食等生活方式的調整也可幫助提升鋅的效果，從而改善整體健康狀況。
+
+---
+
+#### 六、數據或研究結果提及  
+1. 鋈缺乏普遍見於重大 depressive disorders患者。  
+2. HIPPOCAMPUS的再生能力可用於治療記憶力減退及情緒障礙。  
+3. 多巴胺與鋅的結合對情緒調節至關重要。
 </details>
 
 <details>
-<summary>2146. The Amazing Zinc (Part 1): Its Main Function and Zinc Deficiency Symptoms – Dr.Berg</summary><br>
+<summary>2146. [2019-04-28] The Amazing Zinc (Part 1): Its Main Function and Zinc Deficiency Symptoms – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=dkv1rW6JQcM" target="_blank">
     <img src="https://img.youtube.com/vi/dkv1rW6JQcM/maxresdefault.jpg" 
@@ -710,11 +1084,48 @@
 
 # The Amazing Zinc (Part 1): Its Main Function and Zinc Deficiency Symptoms – Dr.Berg
 
+### 文章整理：關於鋅（Zinc）的重要性和相關問題
 
+#### 核心主題  
+- 銅是人體必需的微量元素，對多個生理功能至關重要。  
+- 全球約有20億人口存在鋅 deficiency，情況可能更為嚴重。  
+
+#### 主要觀念  
+- 銅無法在人體內儲存，需通過飲食不斷攝取。  
+- 銅作為酶的協同因子，參與超過1000種酶促反應，涉及DNA轉錄、蛋白質合成等關鍵生物過程。  
+- 約10%的人類蛋白與鋅結合，表明其在人體功能中的核心作用。  
+
+#### 問題原因  
+- **土壤和食物鏈的問題**：全球 soils, 尤其是亞洲，普遍缺鋅，導致 crops 和 livestock 的營養不足。  
+- **農業化肥的使用**：過度依賴工業化肥料破壞了 soil 中微量元素的平衡，導致缺鋅現象加重。  
+- **Glyphosate（草 glycoprotein）的影響**：常見於 GMO 綠色食品中，作為螯合劑阻止鋅等礦物質吸收。  
+- **消化系統問題**：胃繞道手術、腸易激惹症（IBS）、克羅恩病（Crohn's disease）等疾病影響鋅的吸收。  
+- **低胃酸**：許多現代人因藥物或健康問題導致胃酸不足，妨礙礦物質吸收。  
+
+#### 健康影響  
+- 生長遲緩（尤其是兒童）。  
+- 感冒和感染風險增加。  
+- 泌尿系統和前列腺功能障礙。  
+- 皮膚問題、抑鬱症、糖尿病等代謝疾病。  
+- 視力損傷，如老年性黃斑病變。  
+
+#### 預防與補充建議  
+- **膳食攝取**：含鋅豐富的食物包括牡蠣、牛肉、螃蟹和南瓜子。  
+- **避免抑制因子**：減少高纖維食物（如全穀物）、豆類的攝取，或通過加工降低其影響。  
+- **補充劑**：在醫生建議下使用鋅補充劑，尤其是高風險群體。  
+- **注意胃酸足夠**：可考慮使用益生菌或酸性食物來提高胃酸水平。  
+
+#### 結論  
+- 銅 deficiency 是全球公共健康問題之一，必須引起高度重視。  
+- 土壤恢復和農業實踐的改進是解決缺鋅的根本途徑。  
+- 加強對Glyphosate等環境因素的研究，以減輕其對人體健康的影響。  
+
+### 總結  
+本文強調了鋅在人體健康中的重要性，並探討了導致缺鋅的主要原因及其健康影響。通過改善飲食結構、土壤管理和減少環境干擾因素，可以有效預防和解決鋅 deficiency 問題。
 </details>
 
 <details>
-<summary>2145. When to Take Vitamins and Supplements ? – Dr.Berg</summary><br>
+<summary>2145. [2019-04-27] When to Take Vitamins and Supplements ? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=qPM3ccMJrE4" target="_blank">
     <img src="https://img.youtube.com/vi/qPM3ccMJrE4/maxresdefault.jpg" 
@@ -723,11 +1134,55 @@
 
 # When to Take Vitamins and Supplements ? – Dr.Berg
 
+### 小節歸納
 
+#### 1. 核心主題：サプリメントの摂取タイミングに関する指南
+   - サプリメントを効果的に摂取するための最適なタイミングについて説明する。
+
+#### 2. 主要観念：
+   - 水溶性ビタミンと脂溶性ビタミンの違い。
+   - 食事と一緒に摂取すべきサプリメント。
+   - 空腹時や起床前など特定のタイミングでのサプリメント摂取の重要性。
+
+#### 3. 問題原因：
+   - 不適切な摻取タイミングによるサプリメントの不効果。
+   - 食事中の脂肪不足が脂溶性ビタミン吸収への悪影響。
+   - 酸性環境や腸内細菌叢への影響。
+
+#### 4. 解決方法：
+   - 水溶性サプリメントはいつでも摂取可。
+   - 脳由来神経伝達物質（B族ビタミン）は食事と一緒に摂取。
+   - 脂肪分を含む食事と一緒の摂取を推奨。
+   - 酸性サプリメント（例：酢の錠剤）は空腹時や食事前に摂取。
+   - 碱性サプリメント（例：カルシウム、消化酵素）は食事後や特定タイミングで摂取。
+
+#### 5. 健康的建议：
+   - 食べるタイミグを考慮し、サプリメントの効率的な吸収を目指す。
+   - 脳由来神経伝達物質（B族ビタミン）や脂溶性ビタミン摂取時は脂肪分と共に摂取する。
+   - 酸性サプリメントは食事前に、アルカリ性サプリメントは食事後に摂取。
+   - 重大な健康問題の場合は医療専門家に相談。
+
+#### 6. 結論：
+   - 最適なタイミングでのサプリメント摻取が重要。
+   - 個々のサプリメントの特性を理解し、タイミングを選択することが効果的なダイエットや健康管理に役立つ。
+
+
+### 文献内容の総結与及建議
+
+#### 総结：
+此文獻提供されたサプリメントの摂取タイミングに関する指南は、主にサプリメントの水溶性／脂溶性特性、食事との関係、そして特定サプリメント（例えば、神経伝達物質や消化補助剤）の特殊な摻取要領が強調されています。とりわけ、脂肪分と一緒に摂取することで脂溶性ビタミンの吸収を促進する点は重要です。
+
+#### 建議：
+1. 空腹時や食事前に酸性サプリメント（如：酢錠）を摂取し、消化能力を高める。
+2. 脳由来神経伝達物質や脂溶性ビタミンは、脂肪分を含む食事と一緒に摂取する。
+3. 碱性サプリメント（如：カルシウム）は食事後に摂取し、胃酸の希釈を防ぐ。
+4. 高温多湿や紫外線に晒されない場所でサプリメントを保管。
+5. 薄い茶色になったEDTAやキーライターのようなサプリメントは、重金屬除去後に Mineral 补充を行う。
+6. 特定の健康状況下では医療専門家と相談しながらサプリメントを使用する。
 </details>
 
 <details>
-<summary>2144. The MOST Important Vitamins For Eye Health – Dr.Berg</summary><br>
+<summary>2144. [2019-04-27] The MOST Important Vitamins For Eye Health – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=G_-bGCgJOmE" target="_blank">
     <img src="https://img.youtube.com/vi/G_-bGCgJOmE/maxresdefault.jpg" 
@@ -736,11 +1191,52 @@
 
 # The MOST Important Vitamins For Eye Health – Dr.Berg
 
+### 文章整理：眼部健康與營養
 
+#### 核心主題
+- 眼部問題（如老年性黃斑病變、視網膜病變、白內障、青光眼）的發生通常與氧化應激有關，而氧化應激往往來源自血糖水平過高或飲食中糖分攝取過量。
+- 营養素（包括維生素、礦物質和植物營養素）在預防和改善眼部問題中扮演重要角色。
+
+#### 主要觀念
+1. **氧化應激與糖分攝取**：
+   - 高血糖水平會導致氧化應激，進而增加眼部疾病的風險。
+   - 糖尿病患者因高血糖，更容易出現眼部並發症。
+
+2. **營養素的抗氧化作用**：
+   - 變量A、B1、B2、B3、Zinc、Carotenoids（如葉黃素）、Vitamin D、Vitamin E 和 Vitamin C 等 nutrients 作為抗氧化劑，有助於降低氧化應激對眼部組織的損害。
+
+#### 問題原因
+- **高血糖**：導致氧化應激，增加眼部疾病的風險。
+- **營養不足**：某些維生素和礦物質（如維生素A、B1、Zinc）缺乏會直接影響眼部健康，並增加白內障和老年性黃斑病變的風險。
+
+#### 解決方法
+1. **飲食調整**：
+   - 增加富含維生素A的食物攝取（如 carrots, spinach, 蛋黃）。
+   - 补充B群維生素，特別是B1（benfotiamine為佳），以降低白內障和視網膜病變的風險。
+   - 食用富含Zinc的食物（如瘦肉、南瓜子、貝類）以促進 Vitamin A 的功能。
+   - 增加Carotenoids攝取（如深綠色蔬菜、番茄），有助於.prevent 老年性黃斑病變。
+
+2. **補充劑**：
+   - 使用fat-soluble形式的維生素（如benfotiamine）以提高吸收效果。
+   - 食用營養酵母來獲取B群維生素。
+
+3. **健康管理**：
+   - 控制血糖水平，特別是糖尿病患者。
+   - 定期檢查眼部健康。
+
+#### 健康建議
+- 確保飲食中攝取足夠的抗氧化劑，以降低氧化應激對眼部的影響。
+- 注意Zinc和維生素A的攝取，因其在眼健康中起著關鍵作用。
+- 適當補充B群維生素，尤其是B1，以降低白內障和視網膜病變的風險。
+
+#### 結論
+- 眼部問題多數與氧化應激有關，而血糖水平過高是主要來源。
+- 通過飲食調整和營養補充，可以有效降低眼部疾病的風險。
+- 加強對Zinc、維生素A和其他抗氧化劑的攝取，對於維護眼健康至關重要。
 </details>
 
 <details>
-<summary>2143. These 5 Things Will Not Break Your Fast: MAKE NOTE! – Dr.Berg</summary><br>
+<summary>2143. [2019-04-26] These 5 Things Will Not Break Your Fast: MAKE NOTE! – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=10F_ie3TGPM" target="_blank">
     <img src="https://img.youtube.com/vi/10F_ie3TGPM/maxresdefault.jpg" 
@@ -749,11 +1245,63 @@
 
 # These 5 Things Will Not Break Your Fast: MAKE NOTE! – Dr.Berg
 
+### 核心主題
+- **斷食期間飲食選擇的重要性**  
+  斷食是一種常見的健康管理方法，但其效果取決於飲食選擇是否正確。
 
+### 主要觀念
+1. **胰島素的作用**  
+   胰島素水平的高低直接影響斷食的效果。降低胰島素水平可以增強斷食的益處。
+   
+2. **碳水化合物和蛋白質對胰島素的影響**  
+   - 碳水化合物（包括乳糖、糖等）會顯著提高胰島素水平。
+   - 蛋白質（如乳清蛋白粉）也會刺激胰島素分泌，儘管程度較低。
+
+3. **膳食纖維的作用**  
+   膳食纖維含量高的食物（如蔬菜）對胰島素的影響較小，適合斷食期間攝取。
+
+4. **脂肪的影響**  
+   中鏈脂肪酸（MCT油）、椰子油和黃油等純粹的脂肪來源幾乎不含碳水化合物，對胰島素影響最小。
+
+5. **代糖的安全性**  
+   - 酬神醇（erythritol）等糖醇類代糖可能略微提高胰岛素水平，但影響很小。
+   - 甜菊糖和 monk fruit 等自然甜味劑不含碳水化合物，對胰島素無影響。
+
+6. **茶和咖啡的影響**  
+   茶和咖啡本身不會顯著影響胰島素，但過量攝入可能因壓力導致皮質醇上升，間接提高胰島素水平。
+
+7. **補充劑的影響**  
+   綠粉等補充劑通常含糖量低，主要成分為纖維和chlorophyll，適合斷食期間食用。
+
+### 問題原因
+- 很多人在斷食期間因攝取高碳水化合物或高蛋白質的食物，導致胰島素水平升高，影響斷食效果。
+- 部分代糖和加工食品可能對胰島素有隱藏性影響，需謹慎選擇。
+
+### 解決方法
+1. **飲食選擇**  
+   - 以高纖維、低碳水化合物的食物為主（如新鮮蔬菜）。
+   - 使用純脂肪來源（如椰子油、黃油）代替含碳水的半奶（half-and-half）。
+
+2. **代糖使用**  
+   選擇對胰島素影響最小的甜菊糖或 monk fruit，避免酬神醇等可能升高血糖的代糖。
+
+3. **茶和咖啡攝取**  
+   控制攝量，減少因壓力導致皮質醇上升的可能性。
+
+4. **補充劑選擇**  
+   選擇低糖、高纖維的綠粉等補充劑，避免影響胰島素水平。
+
+### 健康建議
+- 斷食期間飲食應以不影響胰島素為前提，优先選擇高纖維、低糖、低蛋白質的食物。
+- 使用自然甜味劑和純脂肪來源代替含糖或高碳水化合物的食品。
+- 注意壓力管理，避免因壓力導致胰島素水平升高。
+
+### 結論
+正確選擇食物和飲品是確保斷食效果的關鍵。通過控制胰岛素水平，可以最大化斷食的健康益處，包括 weight loss、血糖控制和整體代謝改善。
 </details>
 
 <details>
-<summary>2142. How To Relieve From Post Hysterectomy Depression? – Dr.Berg</summary><br>
+<summary>2142. [2019-04-25] How To Relieve From Post Hysterectomy Depression? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=bRTdoBmU8_g" target="_blank">
     <img src="https://img.youtube.com/vi/bRTdoBmU8_g/maxresdefault.jpg" 
@@ -762,11 +1310,55 @@
 
 # How To Relieve From Post Hysterectomy Depression? – Dr.Berg
 
+### 核心主題  
+- **圍手術期抑郁**：探討手術後（如子宮切除術）可能引發的抑郁、焦慮及其他症狀的原因及解決方法。  
 
+---
+
+### 主要觀念  
+1. **子宮切除術對内分泌系統的影響**  
+   - 子宮切除術（尤其是伴隨卵巢切除的情況）會導致 sudden hormonal changes，類似於突發性更年期。  
+2. **激素失衡與心理症狀的關聯**  
+   - 由于卵巢功能的突然喪失， adrenal glands 需要接替激素分泌，但其能力遠不及卵巢，導致 hormones 如 progesterone 和 estrogen 的嚴重不足。  
+3. **壓力反應与副腎腺功能過勞**  
+   - 副腎腺因應激反應會釋放 excess cortisol，進一步擾亂内分泌平衡。  
+
+---
+
+### 問題原因  
+1. **激素水平突然下降**  
+   - 子宮切除術後，卵巢被移除，導致 estrogen 和 progesterone 激素的 abrupt reduction。  
+2. **副腎腺功能不足**  
+   - 副腎腺無法提供足夠的 hormones 來補充卵巢的功能，造成激素失衡。  
+3. **壓力反應加劇**  
+   - 手術後的心理和生理應激導致副腎腺 overwork，cortisol 濾出過多，影響整體内分泌平衡。  
+
+---
+
+### 解決方法與健康建議  
+1. **維生素D的補充**  
+   - 確保每天接觸日光照射至少45分鐘，或補充足夠的Vitamin D3，以改善情緒和 depressive symptoms。  
+2. **外用progesterone cream**  
+   - 使用progesterone creams來補充激素，幫助紓解抑郁症狀。  
+3. **支持副腎腺功能**  
+   - 通過降低壓力、健康飲食和 supplements 支持 adrenal glands 的健康。  
+4. **CBD油的使用**  
+   - 選擇 THC-free CBD oil 來平衡内分泌系統，並幫助管理焦慮和抑郁。  
+5. **B族維生素的補充**  
+   - 通過營養酵母攝取B vitamins，尤其是vitamin B1，以改善情緒和整體健康。  
+6. **飲食建議**  
+   - 採用健康的酮症飲食計劃（如Dr. Berg提供的「健康酮飲食計畫」），以支持整體健康和激素平衡。  
+
+---
+
+### 結論  
+- 子宮切除術後的抑郁和焦慮主要歸因於激素失衡和副腎腺功能受損。  
+- 通過補充 hormones、支持副腎腺功能、降低壓力及採取適當的飲食調整，可以有效改善這些症狀。  
+- 維生素D、progesterone cream、CBD油和B vitamins 等補充劑可作為重要的調理工具。
 </details>
 
 <details>
-<summary>2141. Shrinking Testicles and Man Boobs – Dr.Berg</summary><br>
+<summary>2141. [2019-04-25] Shrinking Testicles and Man Boobs – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=gBUr89EVoWc" target="_blank">
     <img src="https://img.youtube.com/vi/gBUr89EVoWc/maxresdefault.jpg" 
@@ -775,11 +1367,81 @@
 
 # Shrinking Testicles and Man Boobs – Dr.Berg
 
+# 文章整理：肝臟功能異常導致男性生殖健康問題的原因與解決方案
 
+## 核心主題
+本文探討了肝臟損害對男性生殖健康的影響，特別是低睾酮血症及其引起的相關症狀，如	testicular atrophy（睪丸萎縮）和	gynecomastia（男子乳房發育）。文章強調了修復肝臟功能以解決這些問題的重要性。
+
+---
+
+## 主要觀念
+1. **低睾酮血症的原因**：
+   - 腫丸萎縮（testicular atrophy）和男子乳房發育（gynecomastia）通常與低睾酮血症有關。
+   - 低睾酮血症可由肝臟損害引發，包括脂肪肝、炎症性肝病或肝硬化（cirrhosis）。
+
+2. **肝臟與激素的相互作用**：
+   - 腫丸功能依賴於生長激素（growth hormone, GH）和胰島素樣 growth factor-1（IGF-1）。
+   - 肝臟受損會影響GH的受體功能，降低IGF-1的生產，進而抑制睾酮的生成。
+
+3. **低睾酮血症的後果**：
+   - 睾酮水平下降導致雌二醇（estrogen）水平升高。
+   - 低睾酮血症可引起性欲減退、勃起功能障礙、乳房 feminizing 象以及精液量減少等問題。
+
+4. **酒精對肝臟的影響**：
+   - 酒精濫用會加重肝臟損害，影響其解毒功能。
+   - 肝臟功能受損進一步加劇睾酮至雌二醇的轉化，惡化生殖健康狀況。
+
+---
+
+## 問題原因
+1. **肝臟功能受損**：
+   - 病因包括脂肪肝、炎症性肝病或肝硬化（cirrhosis）。
+   - 肝臟損害導致GH信號傳導障礙，影響睾酮生成。
+
+2. **酒精濫用**：
+   - 加重肝臟負擔，影響其解毒功能，增加毒素積累。
+
+3. **氧化應激與代謝紊亂**：
+   - 慢性疾病和不良生活方式引發的氧化應激和代謝失衡，進一步損害肝臟功能。
+
+---
+
+## 解決方法
+1. **修復肝臟功能**：
+   - 肝臟具有強大的再生能力，通過健康的生活方式可以逐步恢復。
+   - 減少酒精攝入，避免進一步損害肝臟。
+
+2. **激素干預**：
+   - 通過改善肝臟功能，促進睾酮的正常生成。
+   - 考慮使用IGF-1或其他激索替代療法（需在醫生指導下進行）。
+
+---
+
+## 健康建議
+1. **飲食調整**：
+   - 遵循健康的低碳水化合物飲食計劃（如生酮饮食）。
+   - 增加富含葉綠素和十字花科蔬菜的攝取，這些食物具有抗氧化和解毒作用。
+
+2. **抗氧化營養補充**：
+   - 維生素E（tocotrinols 和 tocopherols）和維生素D3可保護肝臟並促進修復。
+   - 补充富含微量元素的食物，如硒、鋅等，支持生殖健康。
+
+3. **生活方式的調整**：
+   - 進行規律的有氧運動，增強心肺功能，改善血液循環。
+   - 遷行Intermittent fasting（間歇性禁食），促進生長激素分泌，並幫助修復肝臟損傷。
+
+4. **定期檢查與醫療諮詢**：
+   - 定期監測肝功能和睾酮水平。
+   - 與專業醫師合作，制定適合個人狀況的治療計劃。
+
+---
+
+## 結論
+肝臟功能受損是導致男性低睾酮血症及相關生殖健康問題的主要原因。通過修復肝臟功能、改善生活方式和適當的醫療干預，可以有效恢復睾酮水平，解決性腺功能障礙，提升整體生殖健康。本文提供的飲食建議、抗氧化補充和運動計劃為.restore男性生殖健康提供了實用的指導方案。
 </details>
 
 <details>
-<summary>2140. High Blood Sugar leads to Smaller Brains – Dr.Berg's Tips to Regenerate Brain</summary><br>
+<summary>2140. [2019-04-24] High Blood Sugar leads to Smaller Brains – Dr.Berg's Tips to Regenerate Brain</summary><br>
 
 <a href="https://www.youtube.com/watch?v=h6KMKzX-eRM" target="_blank">
     <img src="https://img.youtube.com/vi/h6KMKzX-eRM/maxresdefault.jpg" 
@@ -788,11 +1450,50 @@
 
 # High Blood Sugar leads to Smaller Brains – Dr.Berg's Tips to Regenerate Brain
 
+### 文章重點整理
 
+#### 核心主題
+- 高血糖及其對腦部結構和功能的影響。
+
+#### 主要觀念
+1. **高血糖與胰島素抵抗**：
+   - 高血糖會導致胰島素分泌增加，長時間的慢性高胰島素血症會引發胰島素抵抗。
+   - 胰島素抵抗會導致腦灰質（gray matter）萎縮，特別是海馬體（hippocampus）。
+
+2. **海馬體的功能與影響**：
+   - 海馬體是記憶和學習的重要結構，具有最高的胰島素受體密度。
+   - 腳球抵抗會使海馬體功能受損，導致記憶力減退、學習能力下降和思維遲鈍。
+
+3. **能量代謝與腦 fog**：
+   - 脳萎縮會降低氧氣攝取量、血流灌注和ATP生成。
+   - 能量不足會導致精神鈍化和腦霧（brain fog）。
+
+#### 問題原因
+- 高血糖引起的胰島素抵抗，導致海馬體功能受損，進而影響記憶力和學習能力。
+- 慢性高血糖狀態影響能量代謝，造成腦部萎縮和功能減退。
+
+#### 解決方法
+1. ** intermittent Fasting**：
+   - 間歇式禁食可以提高胰島素敏感性。
+   - 促進神經突觸.CONNECTIVITY，增強腦部通信。
+
+2. **健康飲食**：
+   - 降低糖分攝取，推薦健康的生酮飲食（healthy keto）。
+   - 控制血糖水平，減少胰岛素抵抗。
+
+#### 健康建議
+- 選擇間歇式禁食而非極端的卡路里限制，以避免營養不良。
+- 採用低糖飲食，如健康生酮飲食，來進一步改善血糖和胰島素水平。
+- 確保足夠的能量攝取，以維持腦部功能和能量代謝。
+
+#### 結論
+- 高血糖和胰島素抵抗會導致腦萎縮和認知功能下降。
+- 通過間歇式禁食和健康飲食習慣，可以改善胰島素敏感性，增強神經通信，並促進腦部恢復。
+- 控制血糖和維持健康的能量代謝是關鍵，以避免腦 fog 和認知功能減退。
 </details>
 
 <details>
-<summary>2139. The 7 Signs & Symptoms That Prove You Are Burning Fat – Dr.Berg</summary><br>
+<summary>2139. [2019-04-23] The 7 Signs & Symptoms That Prove You Are Burning Fat – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=vM5jLrHG9DI" target="_blank">
     <img src="https://img.youtube.com/vi/vM5jLrHG9DI/maxresdefault.jpg" 
@@ -801,11 +1502,68 @@
 
 # The 7 Signs & Symptoms That Prove You Are Burning Fat – Dr.Berg
 
+### 文章整理：七項證明你正在燃燒脂肪的症状
 
+#### 核心主題  
+本文探討了酮osis（酮症）的七項關鍵症状，強調這些變化不僅體現在外觀上，更反映身體整體健康狀況的提升。文章特別指出，健康的減肥應該先注重健康然後才是體重 reduction。
+
+---
+
+### 主要觀念  
+1. **酮osis的七大指標**：  
+   - **認知功能的改善**：記憶力、注意力集中等能力有所提升。  
+   - **情緒穩定性增強**：心情較為愉悅，壓力耐受度提高。  
+   - **能量水平上升，睡眠需求降低**：體內能源來源轉換後，精力更充沛。  
+   - **碳水化合物 cravings消退**：不再有對糖、淀粉的強烈渴望。  
+   - **食欲減弱**：能長時間不進食而不感饥饿。  
+   - **腰圍縮小**：體脂逐漸減少， Waistline 顯著變瘦。  
+   - **體重 reduction**：最終實現健康減肥。
+
+2. **酮osis的生理機制**：  
+   酮症通過刺激促生長激素（Testosterone、IGF-1）、胰島素和腎上腺素等	anabolic hormones，促進組織修復與肌肉重建。  
+
+3. **年齡與性別對酮osis效果的影響**：  
+   - 年齡增長或更年期可能導致肌肉萎縮，影響酮osis初期的效果。  
+   - 體內激素水平變化會影響脂肪燃燒和肌肉維持的速度。
+
+---
+
+### 問題原因  
+- **胰島素抵抗**：許多肥胖者存在胰島素抵抗，導致肌肉蛋白合成受阻，組織修復效率降低。  
+- **肌肉萎縮**：隨著年齡增長，腿部肌肉（股四頭肌、臀部等）可能萎縮，影響脂肪燃燒效果。  
+
+---
+
+### 解決方法  
+1. **健康酮飲食法**：  
+   - 限制碳水化合物攝取量，增加健康脂肪攝入，保持中度蛋白質攝取。  
+   - 適當運動（如力量訓練與有氧運動）可刺激 testosterone 和 growth hormone 的分泌。  
+
+2. **改善胰島素敏感性**：  
+   - 通過健康酮飲食和斷食法（如一天一餐或一天兩餐），逐步恢復胰島素的有效性。  
+
+3. **增肌與組織修復**：  
+   - 確保足夠的蛋白質攝取，並配合力量訓練，以維持或增加肌肉量。  
+
+4. **進階策略（Keto on Steroids Updated）**：  
+   - 對於 serious 的健身愛好者，可考慮進一步降低碳水化合物攝取至每日10克以下，並減少外源性脂肪攝入（如MCT油、椰子油）。  
+
+---
+
+### 健康建議  
+- **飲食調整**：採用健康酮飲食法，限制精制糖和加工食品的攝取。  
+- **運動習慣**：規律進行有氧與力量訓練，提升整體代謝率和肌肉張力を。  
+- **斷食法**：可選擇間歇性斷食或一天一餐來加速酮osis效果。  
+- **監測進度**：定期追蹤體重、腰圍、肌力等指標，以評估飲食與運動計劃的效果。  
+
+---
+
+### 結論  
+酮osis不僅是一種減肥方式，更是一種提升整體健康的生理狀態。通過科學的飲食與運動計劃，可以有效改善認知功能、情緒穩定性並促進脂肪燃燒。對於希望實現健康目標的人來說，堅持執行且根據個人需求調整計劃是關鍵。
 </details>
 
 <details>
-<summary>2138. What Do You Do If You Get Ketoacidosis? – Dr.Berg</summary><br>
+<summary>2138. [2019-04-23] What Do You Do If You Get Ketoacidosis? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=JCLgKyjn7Kw" target="_blank">
     <img src="https://img.youtube.com/vi/JCLgKyjn7Kw/maxresdefault.jpg" 
@@ -814,11 +1572,52 @@
 
 # What Do You Do If You Get Ketoacidosis? – Dr.Berg
 
+### 文章重點整理
 
+#### 核心主題
+- 澄清酮症（Ketosis）與酮酸中毒（Ketoacidosis）的不同。
+- 强調 diabetic ketoacidosis (DKA) 的危險性及處理方法。
+
+#### 主要觀念
+1. **酮症 vs 酮酸中毒**：
+   - 鮊肥酮症（Nutritional Ketosis）是一種正常的生理狀態，通常由低碳水化合物飲食引發。
+   - 酮酸中毒是高血糖和代謝失常導致的嚴重疾病。
+
+2. ** diabetic ketoacidosis (DKA) 的定義**：
+   - 主要發生於1型糖尿病患者，因胰島素不足導致血糖極高、酮體積累及酸中毒。
+   - 2型糖尿病患者在某些藥物使用下也可能發生。
+
+#### 問題原因
+- **胰島素不足**：導致血糖無法有效利用，酮體生成增加。
+- **代謝失常**：酮體過多干擾血液酸鹼平衡，引發酸中毒。
+- **脫水與電解質紊亂**：高血糖、利尿作用及呼吸丟失導致脫水和關鍵礦物質缺乏。
+
+#### 解決方法
+1. **糖尿病患者**：
+   - 定期監控血糖和酮體水平。
+   - 適當補充胰島素，並在醫生指導下調整劑量。
+   - 確保充足水分攝取，防止脫水。
+
+2. **健康飲食建議**：
+   - 進行「健康酮飲食」（Healthy Keto），攝入足夠的礦物質豐富的食物，如蔬菜，以維持電解質平衡。
+   - 控制碳水化合物攝取，避免血糖過高。
+
+#### 健康建議
+- **監測指標**：
+  - 使用尿液或血液試紙檢測酮體水平。
+    - 血液：正常 <0.6 mmol/L，深度酮症 0.6–1.5 mmol/L，DKA >3 mmol/L。
+    - 尿液：正常（陰性至微量），酮症 (+) 至 (+++), DKA (+++++)。
+
+- **_SYMPTOMS_WATCH**：
+  - 注意口渴、多尿、疲勞、呼吸困難、頭暈等症狀，可能提示酮酸中毒。
+
+#### 結論
+- 鮸肥酮症是一種安全且有益的生理狀態，但需注意其與酮 acidosis 的界限。
+- 糖尿病患者特別是1型糖尿病患者，需密切監控血糖和酮體水平，並遵從醫囑治療。
 </details>
 
 <details>
-<summary>2137. Should I Do Keto With Hypoglycemia? – Dr.Berg</summary><br>
+<summary>2137. [2019-04-22] Should I Do Keto With Hypoglycemia? – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=iu-J1-o8G14" target="_blank">
     <img src="https://img.youtube.com/vi/iu-J1-o8G14/maxresdefault.jpg" 
@@ -827,11 +1626,57 @@
 
 # Should I Do Keto With Hypoglycemia? – Dr.Berg
 
+### 文章整理：低血糖與胰島素抵抗的綜合探討
 
+#### 核心主題
+- **低血糖的原因**：低血糖是由高血糖和胰島素分泌激增引起的。
+- **胰島素抵抗的角色**：胰島素抵抗是導致多種代謝紊亂的核心問題，包括2型糖尿病。
+
+#### 主要觀念
+1. **低血糖的機制**：
+   - 低血糖並非孤立現象，而是高血糖後胰島素分泌過度抑制血糖水平的結果。
+   - 胰島素抵抗患者體內胰島素水平異常升高，遠超正常需求。
+
+2. **胰島素抵抗的危害**：
+   - 長期暴露於高胰島素環境會加重胰島素抵抗，形成惡性循環。
+   - 高胰島素水平進一步誘發低血糖，影響代謝穩定。
+
+#### 問題原因
+- **傳統治療的局限性**：
+  - 遇到低血糖時，通過攝入糖分來恢復血糖水平的做法會刺激更多胰島素分泌，加劇病情。
+  - 常規飲食建議過於寬鬆（如不限制碳水化合物攝取），無法有效降低胰島素水平。
+
+#### 解決方法
+1. **飲食調整**：
+   - 採用健康的生酮飲食法，限制碳水化合物攝取，降低胰岛素需求。
+   - 適當進行間歇性禁食，幫助身體轉向脂肪燃燒模式，進一步減輕胰島素負荷。
+
+2. **營養補充**：
+   - 补充鎂、鉀和B1等 Minerals 和維生素，支持胰島素抵抗的改善。
+   - 確保飲食富含蛋白質、電解質和B群維生素，以穩定血糖水平。
+
+3. **逐步實施計劃**：
+   - 初期建議每日攝取三餐，避免零食，逐漸过渡至兩餐制，幫助身體適應節食模式。
+   - 通過循序漸進的方式降低胰島素依賴，恢復血糖平衡。
+
+#### 健康建議
+- **專家建議**：
+  - 參考權威醫學手冊（如Murphy's Manual）的低血糖處理指南，強調患者及其家屬掌握低血糖急救措施的重要性。
+  - 適當攝入糖分用於緊急情況，但避免長期依賴。
+
+- **飲食策略**：
+  - 確保飲食:flexible but balanced，既不過度限制碳水化合物，又能有效控制胰島素水平。
+  - 採用健康的生酮飲食計劃，如Dr. Berg提供的免費 eating plan。
+
+#### 結論
+- **低血糖與胰島素抵抗的綜合管理**：
+  - 降低胰岛素水平是改善低血糖和胰島素抵抗的核心策略。
+  - 生酮飲食和間歇性禁食是有效的飲食干預手段，能幫助患者逐步恢復血糖穩定。
+  - 維生素和礦物質的補充及科學的飲食安排是實現長期健康的重要保障。
 </details>
 
 <details>
-<summary>2136. How to Live Longer – The One Exercise That Makes You Live Longer – Dr.Berg</summary><br>
+<summary>2136. [2019-04-22] How to Live Longer – The One Exercise That Makes You Live Longer – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3IQLDlWMl7Q" target="_blank">
     <img src="https://img.youtube.com/vi/3IQLDlWMl7Q/maxresdefault.jpg" 
@@ -840,11 +1685,43 @@
 
 # How to Live Longer – The One Exercise That Makes You Live Longer – Dr.Berg
 
+### 核心主題
+- **HIV（Heart Rate Variability）**：一種能預測心血管疾病 mortality 的生理指標。
+- **心率變異性**：心臟活動的靈活性和適應能力與健康密切相關。
 
+### 主要觀念
+1. **心率變異性的定義**：
+   - 心跳的間期應該是多樣化的，而非固定的。正常情況下，心跳間期會有微小變化。
+2. **自主神經系統的作用**：
+   - 應激反應（交感神經）：激活時心率增加。
+   - 放鬆反應（副交感神經）：恢復時心率降低。
+3. **高強度間歇訓練的重要性**：
+   - 短時間的高強度運動後跟著充分休息，能有效提升心血管健康。
+
+### 問題原因
+- 長期持續性運動可能削弱副交感神經系統的功能，導致恢復能力降低。
+- 心率在運動後無法快速下降，暗示身體缺乏足夠的恢復机制。
+
+### 解決方法
+1. **心率恢復測試**：
+   - 記錄運動後的心率，評估恢復情況。
+2. **間歇訓練法**：
+   - 短暫的高強度運動（1-1.5 分鐘）後跟著休息（2-3 分鐘），重複此過程。
+
+### 健康建議
+1. **運動方式調整**：
+   - 避免長時間持續性運動，改用高強度間歇訓練。
+   - 可將此方法應用於各類運動，如騎車、跑步等。
+2. **恢復的重要性**：
+   - 確保運動後有足夠的休息時間，讓副交感神經系統發揮作用。
+
+### 結論
+- 高強度間歇訓練能有效提升心血管健康，延長壽命。
+- 心率變異性是評估健康的重要指標，應定期監測。
 </details>
 
 <details>
-<summary>2135. How To Get Rid Of Acne? Eliminate Acne Permanently! – Dr.Berg</summary><br>
+<summary>2135. [2019-04-21] How To Get Rid Of Acne? Eliminate Acne Permanently! – Dr.Berg</summary><br>
 
 <a href="https://www.youtube.com/watch?v=TUT2tP6QWvs" target="_blank">
     <img src="https://img.youtube.com/vi/TUT2tP6QWvs/maxresdefault.jpg" 
@@ -853,7 +1730,74 @@
 
 # How To Get Rid Of Acne? Eliminate Acne Permanently! – Dr.Berg
 
+### 核心主題
+- **痤瘡（青春痘）的永久治療**
+- **痤瘡病因及綜合性 해결 방안**
 
+---
+
+### 主要觀念
+1. 痤瘡的形成涉及多個因素，包括激素水平、皮脂腺功能失常、死皮細胞堵塞以及細菌感染。
+2. 雄激素（Androgens）在青春期分泌增加，導致皮脂腺擴張和油脂過量分泌。
+3. 死皮細胞和油膩物的積累會阻塞毛孔，形成黑頭和白頭，並可能引發炎症反應。
+4. 細菌（Propionibacterium acnes）在毛囊中过度增殖，產生 inflammatory factors 和臭味物質。
+
+---
+
+### 問題原因
+1. **激素失衡**：
+   - 雄性激素過多導致皮脂腺肥大和油脂分泌增加。
+   - PCOS（多囊卵巢綜合征）患者常伴有高雄性激素水平，引發痤瘡。
+   
+2. **糖分攝取**：
+   - 高糖飲食會提高胰島素水平，間接促進雄性激素分泌。
+
+3. **營養 deficiency**：
+   - 維生素 A 和 E 的缺乏影響皮膚健康，導致疤痕和炎症加重。
+
+4. **細菌感染**：
+   - Propionibacterium acnes 在毛孔中繁殖，引發局部炎症並惡化痤瘡。
+
+5. **生活方式因素**：
+   - 高壓力水平會激活雄性激素分泌。
+   - 不良的皮膚護理習慣導致毛囊堵塞和繼發感染。
+
+---
+
+### 解决方法
+1. **降低雄性激素水平**：
+   - 通過健康飲食（如酮genesis diet）來控制胰島素水平，間接降低雄性激素分泌。
+   
+2. **抑制細菌生長**：
+   - 減少糖分攝取以削弱細菌的營養來源。
+   - 使用天然抗生素（如迷迭香和丁香油）來殺滅痤瘡相關細菌。
+
+3. **補充維生素A和E**：
+   - 增加富含維生素A的食物攝取（如蛋黃、魚肝油）以恢復皮膚健康。
+   - 使用含有維生素E的產品來促進疤痕修復和抗氧化。
+
+4. **抗炎治療**：
+   - 通過短時間斷食（intermittent fasting）降低全身性炎症反應，改善皮膚狀況。
+
+---
+
+### 健康建議
+1. **飲食建議**：
+   - 遵循酮ogenesis diet，限制糖分和精制碳水化合物的攝取。
+   - 增加健康脂肪（如蛋黃、魚油）的攝入以補充維生素A。
+
+2. **皮膚護理**
+   - 使用天然抗菌成分（如迷迭香和丁香油）的清潔產品。
+   - 避免擠壓痘痘，防止炎症擴散和疤痕形成。
+
+3. **生活習慣調整**：
+   - 管理壓力，保持良好的心理狀况。
+   - 定期進行短時間斷食以促進全身抗炎效果。
+
+---
+
+### 結論
+痤瘡的治療需要多管齊下的綜合性方法。通過控制激素水平、抑制細菌生長、補充關鍵營養素以及降低 inflammation，可以實現皮膚健康和痤瘡的永久改善。結合健康飲食（如酮ogenesis diet）、自然護理產品和生活方式調整，能夠有效預防和治療痤瘡問題。
 </details>
 
 <details>
