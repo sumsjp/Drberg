@@ -1,38 +1,111 @@
 from openai import OpenAI
+import google.generativeai as genai
+from dotenv import load_dotenv
+import logging
+import time
 
-prompt = '''
-您是個專業的研究員，可幫忙整理學術文獻的重要內容。
-1. 請你務必**用中文回答**，除人名與專有名詞外，不要使用英文。
-2. 整理學術文獻，會使用正式的學術用語。
-3. 提供清晰、客觀的文獻總結時，會使用正式的學術用語。
-4. 歸納文獻的主要重點，包括主題、觀念、原因、解決方案、結論和建議。
-5. 提供清楚的、目標性的、正確的重點總結。
-6. 避免個人意見和推浮，是一個可信賴的工具，用于整理各個領域的複雜學術內容，非常適於研究人員、學生和學術人士。
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger('youtube_update')
+
+prompts = [
+'''您是個專業的文件整理員
+''',
+           
+'''# 工作目標：
+1. 用 中文 整理文稿
+# 輸出要求:
+1. 只能用 中文 回答
 '''
+]
 
-# MODEL = 'deepseek-r1:14b'
-MODEL = 'gemma3:27b'
+templates = [
+'''
+請用 中文 整理下面文稿:\n
+{text}
+''',
+
+'''
+===== 文章開始 =====
+{text}
+===== 文章結束 =====\n
+請用 中文 整理上面文稿:
+''',
+]
+
+models = {
+    "A": "gemini-2.0-flash",
+    "B": "gemma3:27b",
+    "C": "deepseek-r1:14b"
+}
 
 def get_summary(text):
+    model_id = "A"
+    pidx = 1
+
+    model_name = models[model_id]
+    prompt = prompts[pidx]
+    template = templates[pidx]
+
+    start_time = time.time()
+
+    try:
+        if model_id == "A":
+            summary = chat_with_gemini(model_name, prompt, template, text)
+        else:
+            summary = chat_with_openai(model_name, prompt, template, text)
+
+        elapsed_time = time.time() - start_time
+        logger.info(f"Model {model_id}({model_name}) took {elapsed_time:.2f} seconds")
+
+        return summary
+    except Exception as e:
+        logger.error(f"Error generating summary: {e}")
+        return f"Error generating summary: {e}"
+
+
+def chat_with_gemini(model_name, prompt, template, message):
+    try:
+        # Configure the model
+        load_dotenv()
+        genai.configure(api_key=os.environ.get("GEMINI_API_KEY"))
+        
+        # Create the model instance
+        model = genai.GenerativeModel(model_name)
+        
+        content = template.format(text=message)
+        
+        # Create a chat instance
+        chat = model.start_chat(history=[])
+        
+        # Add system prompt
+        chat.send_message(prompt)
+        
+        # Send the content and get response
+        response = chat.send_message(content)
+        
+        summary = response.text.strip()
+        
+        # Handle </think> tag if present
+        if '</think>' in summary:
+            last_think_pos = summary.rindex('</think>')
+            summary = summary[last_think_pos + 8:].lstrip()
+            
+        return summary
+        
+    except Exception as e:
+        return f"Error generating summary: {str(e)}"
+
+def chat_with_openai(model_name, prompt, template, message):
     client = OpenAI(
         api_key='ollama',
         base_url='http://solarsuna.com:34567/v1'
     )
     
     try:
-        content = f'''
-===== 文章開始 =====
-
-{text}
-
-===== 文章結束 =====
-
-請整理此文章重點，使用正式的學術用語，並以小節作歸納。
-將原文章用中文重寫，用中文列出詳細重點，作清楚客觀的整理。
-'''
+        content = template.format(text=message)
         
         response = client.chat.completions.create(
-            model=MODEL,
+            model=model_name,
             messages=[
                 {
                     "role": "system",
@@ -49,11 +122,9 @@ def get_summary(text):
         
         summary = response.choices[0].message.content.strip()
         
-        # 處理 </think> tag
+        # Handle </think> tag if present
         if '</think>' in summary:
-            # 找到最後一個 </think> 的位置
             last_think_pos = summary.rindex('</think>')
-            # 只保留 tag 之後的內容，並去除開頭的空白
             summary = summary[last_think_pos + 8:].lstrip()
             
         return summary
