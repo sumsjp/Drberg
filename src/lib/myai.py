@@ -3,6 +3,7 @@ import google.generativeai as genai
 from dotenv import load_dotenv
 import logging
 import time
+import os
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger('youtube_update')
@@ -39,7 +40,7 @@ models = {
 }
 
 def get_summary(text):
-    model_id = "A"
+    model_id = "B"
     pidx = 1
 
     model_name = models[model_id]
