@@ -7,12 +7,11 @@ import time
 import xml.etree.ElementTree as ET
 
 logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger("main")
+logger = logging.getLogger('youtube_update')
 
+PROMPT_FILE = os.path.dirname(os.path.abspath(__file__)) + '/prompts.txt'
 
-load_dotenv()
-
-def load_config(config_file='prompts.txt'):
+def load_config(config_file=PROMPT_FILE):
     """Load prompts, templates and models from XML config file."""
     try:
         tree = ET.parse(config_file)
@@ -43,55 +42,32 @@ def load_config(config_file='prompts.txt'):
 # Load configuration from prompts.txt
 prompts, templates, models = load_config()
 
-def transcribe_it(video_id):
-    transcript_path = os.path.join("transcript", f"{video_id}.txt")
-    result_dir = "result"
-    
-    if not os.path.exists(result_dir):
-        os.makedirs(result_dir)
-        
-    if os.path.exists(transcript_path):
-        try:
-            with open(transcript_path, 'r', encoding='utf-8') as f:
-                transcript_text = f.read()
-                
-            # Use all available models from config
-            for model_id in models.keys():
-                model_name = models[model_id]
-                
-                for pidx in range(len(prompts)):
-                    prompt = prompts[pidx]
-                    template = templates[pidx]
+def get_summary(text, model_id="A", pidx=0):
+    model_name = models[model_id]
+    prompt = prompts[pidx]
+    template = templates[pidx]
 
-                    import time
-                    start_time = time.time()
-                    
-                    if model_name.startswith("gemini"):
-                        summary = chat_with_gemini(model_name, prompt, template, transcript_text)
-                    else:
-                        summary = chat_with_openai(model_name, prompt, template, transcript_text)
-                        
-                    elapsed_time = time.time() - start_time
-                    logger.info(f"Model {model_id}({model_name}) took {elapsed_time:.2f} seconds")
+    start_time = time.time()
 
-                    # Save the summary
-                    output_path = os.path.join(result_dir, f"{video_id}_{model_id}{pidx+1}.md")
-                    with open(output_path, 'w', encoding='utf-8') as f:
-                        f.write(f"Model = [{model_id}] {model_name}\n---\n\n")
-                        f.write(f"elapsed_time = {elapsed_time:.2f}\n---\n\n")
-                        f.write(f"prompt = {prompt}\n---\n\n")
-                        f.write(f"template = {template}\n---\n\n")
-                        f.write(summary)
-                    logger.info(f"Summary saved to {output_path}")
-                    
-        except Exception as e:
-            logger.error(f"Error generating summary: {e}")
-    else:
-        logger.error(f"Transcript file not found: {transcript_path}")
+    try:
+        if model_name.startswith("gemini"):
+            summary = chat_with_gemini(model_name, prompt, template, text)
+        else:
+            summary = chat_with_openai(model_name, prompt, template, text)
+
+        elapsed_time = time.time() - start_time
+        logger.info(f"get_summary: Model {model_id}({model_name}) took {elapsed_time:.2f} seconds")
+
+        return summary
+    except Exception as e:
+        logger.error(f"get_summary: Error generating summary: {e}")
+        return f"get_summary: Error generating summary: {e}"
+
 
 def chat_with_gemini(model_name, prompt, template, message):
     try:
         # Configure the model
+        load_dotenv()
         genai.configure(api_key=os.environ.get("GEMINI_API_KEY"))
         
         # Create the model instance
