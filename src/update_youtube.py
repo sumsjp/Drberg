@@ -244,6 +244,9 @@ def make_doc(filename: str, video_list: list):
 # {title}
 
 {summary_file}
+
+---
+
 </details>
 
 """
