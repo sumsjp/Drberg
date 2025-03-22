@@ -1,0 +1,39 @@
+<model>
+    <prompts>
+        <!--0-->
+        <prompt>
+您是個專業的文件整理員
+</prompt>
+        
+        <!--1-->
+        <prompt># 工作目標：
+1. 用 中文 整理文稿
+# 輸出要求:
+1. 只能用 中文 回答
+</prompt>
+    </prompts> 
+
+    <templates> 
+        <!--0-->
+        <template>
+請用 中文 整理下面文稿:
+
+{text}
+</template>
+
+        <!--1-->
+        <template>
+===== 文章開始 =====
+{text}
+===== 文章結束 =====
+
+請用 中文 整理上面文稿:
+</template>
+    </templates>
+
+    <models>
+        <model>gemini-2.0-flash</model>
+        <model>gemma3:27b</model>
+        <model>deepseek-r1:14b</model>
+    </models>
+</model>

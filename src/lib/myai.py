@@ -39,10 +39,7 @@ models = {
     "C": "deepseek-r1:14b"
 }
 
-def get_summary(text):
-    model_id = "B"
-    pidx = 1
-
+def get_summary(text, model_id="A", pidx=0):
     model_name = models[model_id]
     prompt = prompts[pidx]
     template = templates[pidx]
