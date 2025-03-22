@@ -57,6 +57,7 @@ def get_summary(text, model_id="A", pidx=0):
         elapsed_time = time.time() - start_time
         logger.info(f"get_summary: Model {model_id}({model_name}) took {elapsed_time:.2f} seconds")
 
+        summary = summary.strip() + f"\n\n[model={model_name},{pidx}]\n";
         return summary
     except Exception as e:
         logger.error(f"get_summary: Error generating summary: {e}")
