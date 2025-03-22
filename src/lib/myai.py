@@ -10,7 +10,6 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger('youtube_update')
 
 PROMPT_FILE = os.path.dirname(os.path.abspath(__file__)) + '/prompts.txt'
-
 def load_config(config_file=PROMPT_FILE):
     """Load prompts, templates and models from XML config file."""
     try:
