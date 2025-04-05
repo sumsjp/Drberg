@@ -368,10 +368,10 @@ def email_notify(new_df):
     
     try:
         # 建立 SSL context
-        context = ssl.create_default_context()
+        # context = ssl.create_default_context()
         
         # 建立 SMTP_SSL 連線
-        with smtplib.SMTP_SSL(smtp_server, smtp_port, context=context) as server:
+        with smtplib.SMTP_SSL(smtp_server, smtp_port) as server:
             server.login(sender_email, sender_password)
             
             # 處理每個影片
