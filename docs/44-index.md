@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Ruin Your Health - Dr. Berg
 
 # 文章要點整理
@@ -80,6 +82,8 @@
     <img src="https://img.youtube.com/vi/6mxb4If0onI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Silent Signs of Dementia: Watch Out for These 10 Warning Signs
 
@@ -170,6 +174,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Ultimate Natural Antibiotic Drink (Home Remedy Formula)
 
 ### 文章整理：抗icrobial 饮品的功效与应用
@@ -230,6 +236,8 @@
     <img src="https://img.youtube.com/vi/x3vnCKivCjs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Fastest Way to Lose Belly Fat
 
@@ -327,6 +335,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Black Seed Oil Benefits You Never Heard About
 
 ### 文章重點整理  
@@ -407,6 +417,8 @@
     <img src="https://img.youtube.com/vi/350bk9Ph3ak/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Truth about Fasting: How It Works
 
@@ -494,6 +506,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Ultimate Face Transformation–Dr. Berg's Best Remedy for Dry Skin and Wrinkles
 
 ### 核心主題
@@ -567,6 +581,8 @@
     <img src="https://img.youtube.com/vi/TPjZvNA74ds/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The #1 Top Remedy for Dental Plaque (TARTAR)
 
@@ -651,6 +667,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The BEST Drink for a Fatty Liver
 
 ### 核心主題  
@@ -710,6 +728,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 17 Signs Your Body Needs More Nutrients: Use Superfoods
 
 ### 文章重點整理
@@ -754,6 +774,8 @@
     <img src="https://img.youtube.com/vi/R61GrYa6KKg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The #1 Worst Food for Your Heart (HINT: It's Not Sugar)
 
@@ -802,6 +824,8 @@
     <img src="https://img.youtube.com/vi/BMfSBFPBAl4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Rid Throat and Sinus Mucus with SALT
 
@@ -883,6 +907,8 @@
     <img src="https://img.youtube.com/vi/NPHTkKgoEgA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How To Get INSTANT RELIEF for Trigeminal Neuralgia (Tic Douloureux)
 
@@ -969,6 +995,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Top BEST Foods to Clean Out Your Liver
 
 ### 文章整理：恢復肝臟健康的策略與建議
@@ -1030,6 +1058,8 @@
     <img src="https://img.youtube.com/vi/Ku56lZTV7OY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # No More Sleepless Nights: The Ultimate Cure for Waking Up to Pee at Night (Nocturia)
 
@@ -1129,6 +1159,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Vitamin B1 (Thiamine) Deficiency Signs, Symptoms, and Treatment Benefits
 
 ### 文章重點整理
@@ -1183,6 +1215,8 @@
     <img src="https://img.youtube.com/vi/-u3k5CUmiXU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # THIS is How You Get Rid of Puffy Eyes FOR GOOD!
 
@@ -1244,6 +1278,8 @@
     <img src="https://img.youtube.com/vi/x2ULTvo9zKc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # THIS Is Why You Should STOP Eating Sugar - by Dr. Berg
 
@@ -1332,6 +1368,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Shocking Truth: Dr. Berg's 20-Year Cereal Obsession!
 
 ### 文章題目：  
@@ -1394,6 +1432,8 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
     <img src="https://img.youtube.com/vi/e46xrn8c-eA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The 30-Day Sugar Detox
 
@@ -1463,6 +1503,8 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Best Diet & Exercise for Stubborn Belly Fat
 
 ### 文章重點整理
@@ -1508,6 +1550,8 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
     <img src="https://img.youtube.com/vi/D-K2kwojNXw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What to Eat to Clean Out Your Arteries—Dr. Berg Explains
 
@@ -1555,6 +1599,8 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
     <img src="https://img.youtube.com/vi/xgNvNlQ91p4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 7 Foods that RUIN Your Liver - Dr. Berg Explains
 
@@ -1618,6 +1664,8 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
     <img src="https://img.youtube.com/vi/3jZqe7RJ73M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 7 Top Remedies that Really Work
 
@@ -1698,6 +1746,8 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Use Your Feet to Diagnose Liver Problems—Dr. Berg Explains
 
 ### 文章重點整理
@@ -1776,6 +1826,8 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
     <img src="https://img.youtube.com/vi/Ko414UcqKig/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Who Is Dr. Berg's Doctor?  Metabolomics Discussion
 
@@ -1857,6 +1909,8 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Top SUPERFOODS for the Kidneys—Explained by Dr. Berg
 
 ### 文章整理：腎臟健康飲食指南
@@ -1928,6 +1982,8 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Is It Safe to Take 10,000 IU of Vitamin D3? Dr. Berg Explains
 
 ### 文章重點整理
@@ -1992,6 +2048,8 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Ultimate Support for Your Cataracts
 
 ### 文章整理：貓兒症的最終治療法
@@ -2052,6 +2110,8 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
     <img src="https://img.youtube.com/vi/IUGVoT9IwAI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Vitamin D and Cortisol: (VERY SIMILAR)
 
@@ -2139,6 +2199,8 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Boost Your Workout Stamina (Endurance) with RHODIOLA
 
 ### 核心主題
@@ -2182,6 +2244,8 @@ Dr. Berg 的研究及實踐經驗，特別是其著作《Mastering the Zone》�
     <img src="https://img.youtube.com/vi/2zaVRd4sNpM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The CARB More Dangerous than Sugar (SURPRISING)
 
@@ -2251,6 +2315,8 @@ Maltodextrin 作为一种高度加工的碳水化合物，雖然被廣泛用於�
     <img src="https://img.youtube.com/vi/t2e4H8M2Q6k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How Sitting Is KILLING Your Back & Body
 
@@ -2325,6 +2391,8 @@ Maltodextrin 作为一种高度加工的碳水化合物，雖然被廣泛用於�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 7 Top Supplements That REALLY Work
 
 ### 小結整理：自然療法的核心主題與建議
@@ -2371,6 +2439,8 @@ Maltodextrin 作为一种高度加工的碳水化合物，雖然被廣泛用於�
     <img src="https://img.youtube.com/vi/uBqNYt6oGCc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Unique Benefits of Using Vitamin D and K2 Combined
 
@@ -2437,6 +2507,8 @@ Maltodextrin 作为一种高度加工的碳水化合物，雖然被廣泛用於�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 14 Earliest Signs of Nutritional Deficiencies
 
 ### 文章重點整理
@@ -2498,6 +2570,8 @@ Maltodextrin 作为一种高度加工的碳水化合物，雖然被廣泛用於�
     <img src="https://img.youtube.com/vi/lkahiClvvg0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The #1 Most Inflammatory Food in the World
 
@@ -2562,6 +2636,8 @@ Ultra Processed Foods 及其成分 glyphosate 是導致現代慢性疾病的關�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Remove Skin Tags and Warts Overnight - Dr. Berg Explains
 
 ### 核心主題  
@@ -2604,6 +2680,8 @@ Ultra Processed Foods 及其成分 glyphosate 是導致現代慢性疾病的關�
     <img src="https://img.youtube.com/vi/4LEGd8r84Tc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # This SUCKS! - Dr. Berg
 
@@ -2659,6 +2737,8 @@ Ultra Processed Foods 及其成分 glyphosate 是導致現代慢性疾病的關�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Heart Rate Variability (HRV): Measure Your Autonomic Nervous System (ANS)
 
 ### 核心主題：Heart Rate Variability (HRV) 的概念與應用  
@@ -2700,6 +2780,8 @@ Ultra Processed Foods 及其成分 glyphosate 是導致現代慢性疾病的關�
     <img src="https://img.youtube.com/vi/NP0XtAwFaIg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Vitamin D Deficiency and Zinc: (MUST KNOW)
 
@@ -2770,6 +2852,8 @@ Ultra Processed Foods 及其成分 glyphosate 是導致現代慢性疾病的關�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 4 Big Ways to Drop Your Cancer Risk
 
 ### 核心主題：  
@@ -2836,6 +2920,8 @@ Warburg 效應是指癌細胞即使在有充足氧氣供應的情況下，仍偏
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Himalayan vs. Celtic Sea Salt: WHICH IS BETTER?
 
 ### 文章整理：海鹽與健康的關係
@@ -2891,6 +2977,8 @@ Warburg 效應是指癌細胞即使在有充足氧氣供應的情況下，仍偏
     <img src="https://img.youtube.com/vi/UNqDVQDZRgA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Instantly Lower Blood Pressure within 60 Seconds
 
@@ -2956,6 +3044,8 @@ Warburg 效應是指癌細胞即使在有充足氧氣供應的情況下，仍偏
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Intermittent Water Drinking: DON'T Drink Until Thirsty
 
 ### 核心主題：水的攝取與健康影響
@@ -2994,6 +3084,8 @@ hydration的管理不僅涉及水量，還需要考慮鹽分攝取和飲水容�
     <img src="https://img.youtube.com/vi/EvFbDZrvfHo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Instead of Body Mass Index (BMI), Use THIS...
 
@@ -3047,6 +3139,8 @@ hydration的管理不僅涉及水量，還需要考慮鹽分攝取和飲水容�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The #1 Best Remedy for Hemorrhoids - Dr. Berg
 
 ### 核心主題：自然療法治療痔疾
@@ -3085,6 +3179,8 @@ hydration的管理不僅涉及水量，還需要考慮鹽分攝取和飲水容�
     <img src="https://img.youtube.com/vi/Rds8TjqbcMs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to STOP Prediabetes Going Into Diabetes
 
@@ -3134,6 +3230,8 @@ hydration的管理不僅涉及水量，還需要考慮鹽分攝取和飲水容�
     <img src="https://img.youtube.com/vi/9yr7A1fOuKM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Help Regrow Your Hair (UPDATED VITAL INFO)
 
@@ -3233,6 +3331,8 @@ hydration的管理不僅涉及水量，還需要考慮鹽分攝取和飲水容�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Clean Out Your Kidneys of Oxalates and Stones - Dr. Berg
 
 ### 核心主題  
@@ -3284,6 +3384,8 @@ hydration的管理不僅涉及水量，還需要考慮鹽分攝取和飲水容�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Unique Benefits of ASHWAGANDHA (How and When to Take it) - Dr. Berg Explains
 
 ### 小節歸納
@@ -3333,6 +3435,8 @@ Ashwagandha是一種源自古印度的adaptogen，具備多樣化的健康功效
     <img src="https://img.youtube.com/vi/BWVMkgjw9gY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How WORRY Ruins Your Body (HOW TO STOP IT)
 
@@ -3396,6 +3500,8 @@ Ashwagandha是一種源自古印度的adaptogen，具備多樣化的健康功效
     <img src="https://img.youtube.com/vi/l4kCN3Lgvdc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why You Are TIRED All the Time
 
@@ -3461,6 +3567,8 @@ Ashwagandha是一種源自古印度的adaptogen，具備多樣化的健康功效
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How STRESS Robs You of These Vitamins
 
 ### 小節整理：應對壓力的營養策略
@@ -3506,6 +3614,8 @@ Ashwagandha是一種源自古印度的adaptogen，具備多樣化的健康功效
     <img src="https://img.youtube.com/vi/vx6RkgoxzgQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The 7 Powerful Ways to Increase Autophagy
 
@@ -3570,6 +3680,8 @@ Ashwagandha是一種源自古印度的adaptogen，具備多樣化的健康功效
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Dr. Berg Fact-checks the Fact-Checker
 
 ### 小節整理：文章重點
@@ -3628,6 +3740,8 @@ Ashwagandha是一種源自古印度的adaptogen，具備多樣化的健康功效
     <img src="https://img.youtube.com/vi/zMuu68luxgg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Alternative Sweeteners: Monk Fruit, Stevia, Erythritol & Xylitol – Dr. Berg
 
@@ -3709,6 +3823,8 @@ Ashwagandha是一種源自古印度的adaptogen，具備多樣化的健康功效
     <img src="https://img.youtube.com/vi/RwYKnxLxsZ0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Magnesium L-Threonate is the Form of Mg for Memory, Concentration & Focus
 
@@ -3800,6 +3916,8 @@ Ashwagandha是一種源自古印度的adaptogen，具備多樣化的健康功效
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # This is Why I NEVER Take Vitamin A Supplements
 
 ### 文章重點整理
@@ -3875,6 +3993,8 @@ Ashwagandha是一種源自古印度的adaptogen，具備多樣化的健康功效
     <img src="https://img.youtube.com/vi/NemgfCwePag/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The 1st Sign of a Methylcobalamin (B12) Deficiency
 
@@ -3986,6 +4106,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 6 Foods That Can Kill You
 
 ### 文章整理與結構化分析
@@ -4080,6 +4202,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 9 Ways Dr. Berg BLOCKS the Side Effects Of Carbs While On A Keto Diet
 
 ### 小節整理：文章重點歸納
@@ -4126,6 +4250,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/b0hsCtm5DgI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The 4 Causes of Air Hunger / Difficulty Breathing (Dyspnea)
 
@@ -4198,6 +4324,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What Would Happen if You Drank Soda for 14 Days?
 
 ### 文章重點整理
@@ -4257,6 +4385,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/IJ3N_sjqghA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What Would Happen if You Only Got 5 Hours of Sleep Per Night - NOT GOOD!
 
@@ -4344,6 +4474,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 6 Foods that Lower Cortisol
 
 ### 文章重點整理
@@ -4416,6 +4548,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Fastest Way to Pull Yourself Out of Any Stressful Situation
 
 ### 核心主題  
@@ -4479,6 +4613,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/21HEr110HKg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to INSTANTLY Relieve Painful Periods (Menstrual Cramps)
 
@@ -4559,6 +4695,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 11 Vitamin B6 Deficiency Symptoms You've NEVER Heard Before
 
 ### 文章重點整理
@@ -4638,6 +4776,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The 12 Triggers of Inflammation: The Root Causes
 
 ### 文章整理：炎症的12個引發原因及對策
@@ -4682,6 +4822,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/eJgpOsjndkA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why Women Can't Lose Belly Fat After Menopause
 
@@ -4765,6 +4907,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 12 Things That STOP a Good Night's Sleep
 
 ### 小節歸納
@@ -4834,6 +4978,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/j7wLGQfoCcI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Myth of the Apple Cider Vinegar (ACV) "Mother"
 
@@ -4905,6 +5051,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/uqEO1Xc2P64/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Electrolyte Powder: Benefits, Uses and Purposes
 
@@ -4983,6 +5131,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Costochondritis (RIB CAGE PAIN) is NOT What You Think - Dr. Berg
 
 ### 文章重點整理
@@ -5043,6 +5193,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/d3l-PYvPGZ8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The #1 Best Anti-inflammatory Food in the World (Surprising)
 
@@ -5116,6 +5268,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Say Goodbye to Sciatica Nerve Pain in 5 Minutes
 
 ### 文章整理：銅元素與坐骨神經痛（sciatica）之關聯及健康建議
@@ -5185,6 +5339,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/CJ8XnQW4SIk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The 7 Intermittent Fasting Mistakes that Most People Make
 
@@ -5264,6 +5420,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 7 Things You NEVER Knew About Eggs
 
 ### 核心主題
@@ -5336,6 +5494,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # DRINKING A LOT OF WATER WILL NOT HYDRATE YOU
 
 ### 小節一：核心主題  
@@ -5391,6 +5551,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/t7VxmoMbD-4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Eye Floaters: What Are They & How to Get Rid of Them
 
@@ -5451,6 +5613,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/xyBOSZVKpNM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Drink 1/2 Cup at Night to Sleep like a Baby
 
@@ -5516,6 +5680,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # This Is WHY You Are Really Deficient in Magnesium
 
 ### 核心主題
@@ -5560,6 +5726,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/qDW86yRo-A4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Top Foods That Have Been Robbing You of Nutrients (Vitamins & Minerals)
 
@@ -5619,6 +5787,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 23 WEIRD Vitamin D Deficiency Symptoms
 
 ### 英文標題：
@@ -5677,6 +5847,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Are ACV (Apple Cider Vinegar) Gummies Healthy?
 
 ### 文章重點整理
@@ -5719,6 +5891,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/xtGinb8VWxc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Vitamin D and the Magnesium Deficiency: IMPORTANT
 
@@ -5776,6 +5950,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/DtAyymK81o0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Dark Side of Fasting (and Intermittent Fasting): Dr. Berg Explains
 
@@ -5839,6 +6015,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Boost Growth Hormone As You Age
 
 ### 文章整理：增強生長激素的作用及 ketogenic 饮食的影響
@@ -5884,6 +6062,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/3FuXm7CqR4k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # DON'T Make These Mistakes When Trying to Boost Your Metabolism
 
@@ -5987,6 +6167,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What Would Happen If You Chewed ONE Clove Daily
 
 # 芝麻油的功效與應用  
@@ -6024,6 +6206,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/4bskn2RrhPM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Huge Benefits of Just 11 Minutes of Exercise a Day - Dr. Berg
 
@@ -6112,6 +6296,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Dr. Berg's Survey Results Are Done: Here It Is!
 
 ### 文章重點整理
@@ -6152,6 +6338,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/IcIT4NwEpAQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Slow Metabolism Is a Myth (Not Kidding) - Dr. Berg
 
@@ -6209,6 +6397,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Mind-Blowing Benefits of a Lemon - Dr. Berg
 
 ### 諸多亮點：檸檬的驚人益處  
@@ -6257,6 +6447,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/XH-mc-yMMbA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Tasty Salad Dressings that Supercharge Your Health - Dr. Berg
 
@@ -6315,6 +6507,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/FkZgpKj6wLo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The FIRST Sign of a Magnesium Deficiency Is... (Dr. Berg Explains)
 
@@ -6377,6 +6571,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/5uQvuJhWzOc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # I Lost 100 Pounds in 7 Months: Dr. Berg Interview
 
@@ -6447,6 +6643,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # You Will QUIT Sugar After Watching This (Guaranteed) - Dr. Berg
 
 ### 核心主題：糖的健康影響及戒除策略
@@ -6508,6 +6706,8 @@ B12 deficiency和toxicity是可防可控的健康問題。通過改善飲食、�
     <img src="https://img.youtube.com/vi/TuJXgMex85g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Unique Benefits of Zinc: Dr. Berg Explains It's Vital Importance
 

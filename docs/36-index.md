@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # You Are Not What You Eat If on Keto
 
 ### 核心主題
@@ -42,6 +44,8 @@
     <img src="https://img.youtube.com/vi/9b_oX_vNKuM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What If Nothing Helps You Lose Weight
 
@@ -88,6 +92,8 @@
     <img src="https://img.youtube.com/vi/Tf6litlq8HA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Only Carb that Does Not Spike Insulin
 
@@ -144,6 +150,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Do You Overeat Because of Taste and Flavor?
 
 ### 核心主題：overeating的多重誘因及其對健康的影響
@@ -192,6 +200,8 @@
     <img src="https://img.youtube.com/vi/VXhqnRT-Ou8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Your Second Brain Is in Your Gut
 
@@ -251,6 +261,8 @@
     <img src="https://img.youtube.com/vi/8u8uMAe645s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Extra Virgin Olive Oil for Heart Health
 
@@ -315,6 +327,8 @@ The article emphasizes the importance of consuming high-quality extra virgin oli
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Good Bacteria Keep Candida, Fungus and Yeast in Check
 
 ### 核心主題：腸道微生物群中的有益真菌及其重要性
@@ -356,6 +370,8 @@ The article emphasizes the importance of consuming high-quality extra virgin oli
     <img src="https://img.youtube.com/vi/F3ZaPJN6Ml0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Benefits of Wormwood
 
@@ -429,6 +445,8 @@ The article emphasizes the importance of consuming high-quality extra virgin oli
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Test for Insulin Resistance
 
 
@@ -445,6 +463,8 @@ The article emphasizes the importance of consuming high-quality extra virgin oli
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Do-It-Yourself Homemade Electrolyte Shake
 
 
@@ -460,6 +480,8 @@ The article emphasizes the importance of consuming high-quality extra virgin oli
     <img src="https://img.youtube.com/vi/JHbxjkV4TJY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Male Version of PCOS
 
@@ -522,6 +544,8 @@ The article emphasizes the importance of consuming high-quality extra virgin oli
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Reduce Your Liver Fat by 50 Percent in 14 Days
 
 ### 核心主題  
@@ -577,6 +601,8 @@ The article emphasizes the importance of consuming high-quality extra virgin oli
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Passion Flower as a Natural Sedative
 
 ### 核心主題
@@ -628,6 +654,8 @@ The article emphasizes the importance of consuming high-quality extra virgin oli
     <img src="https://img.youtube.com/vi/ej1PhkiROl4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Use Keto to Normalize Your Period
 
@@ -684,6 +712,8 @@ The article emphasizes the importance of consuming high-quality extra virgin oli
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Best Foods for Keto Flu
 
 ### 核心主題：酮症流感（Keto Flu）的營養管理
@@ -737,6 +767,8 @@ The article emphasizes the importance of consuming high-quality extra virgin oli
     <img src="https://img.youtube.com/vi/XecerR4TBgE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Gallbladder Problems and Prolonged Fasting
 
@@ -794,6 +826,8 @@ The article emphasizes the importance of consuming high-quality extra virgin oli
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What is rBGH in Dairy Products?
 
 ### 小節整理：Recombinant Bovine Growth Hormone (RBGH) 與其影響
@@ -840,6 +874,8 @@ The article emphasizes the importance of consuming high-quality extra virgin oli
     <img src="https://img.youtube.com/vi/cMPSFPPRb8s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Hair Loss, Menstrual Cycle and Hormones
 
@@ -913,6 +949,8 @@ The article emphasizes the importance of consuming high-quality extra virgin oli
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Intermittent Fasting and Pregnancy
 
 ### 文章整理：regnant Women and Intermittent Fasting: A Comprehensive Analysis
@@ -974,6 +1012,8 @@ pregnancy期間的飲食選擇需謹慎考慮。intermittent fasting雖可能有
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Can Pushups Help You Reduce Heart Disease?
 
 ### 核心主題
@@ -1025,6 +1065,8 @@ pregnancy期間的飲食選擇需謹慎考慮。intermittent fasting雖可能有
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Benefits of Pau d'Arco
 
 ### 1. **核心主題**
@@ -1063,6 +1105,8 @@ pregnancy期間的飲食選擇需謹慎考慮。intermittent fasting雖可能有
     <img src="https://img.youtube.com/vi/WRoB4AGnfPw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Which Things Increase Telomere Length?
 
@@ -1140,6 +1184,8 @@ pregnancy期間的飲食選擇需謹慎考慮。intermittent fasting雖可能有
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Blood Thinners and Leafy Green Vegetables
 
 ### 小節歸納
@@ -1184,6 +1230,8 @@ pregnancy期間的飲食選擇需謹慎考慮。intermittent fasting雖可能有
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Best Vitamin for Your Heart
 
 ### 文章整理與分析
@@ -1203,6 +1251,8 @@ pregnancy期間的飲食選擇需謹慎考慮。intermittent fasting雖可能有
     <img src="https://img.youtube.com/vi/mvCLs-Sq0-w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why Does Eating Sugar Deplete Vitamin B1?
 
@@ -1269,6 +1319,8 @@ pregnancy期間的飲食選擇需謹慎考慮。intermittent fasting雖可能有
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Prevent Headaches While in an Airplane
 
 # 如何预防飞行中的头痛：重点整理与建议
@@ -1320,6 +1372,8 @@ pregnancy期間的飲食選擇需謹慎考慮。intermittent fasting雖可能有
     <img src="https://img.youtube.com/vi/i_UWDPrDR40/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # If You Have Acid Reflux, This is What You Should Know
 
@@ -1386,6 +1440,8 @@ pregnancy期間的飲食選擇需謹慎考慮。intermittent fasting雖可能有
     <img src="https://img.youtube.com/vi/ZUbo1XlxIxY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Do You Overeat When Distracted?
 
@@ -1454,6 +1510,8 @@ pregnancy期間的飲食選擇需謹慎考慮。intermittent fasting雖可能有
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Know if You Have a Blood Clot
 
 ### 核心主題
@@ -1513,6 +1571,8 @@ pregnancy期間的飲食選擇需謹慎考慮。intermittent fasting雖可能有
     <img src="https://img.youtube.com/vi/lFlHdFd91JI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Food With the Highest Glyphosate (Roundup)
 
@@ -1594,6 +1654,8 @@ Glyphosate 的廣泛使用和抗藥性問題對人體健康構成潛在威脅。
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Kids Eat 67 Percent Ultra-Processed Food
 
 ### 小節化整理
@@ -1650,6 +1712,8 @@ Glyphosate 的廣泛使用和抗藥性問題對人體健康構成潛在威脅。
     <img src="https://img.youtube.com/vi/LUbh5fA2Lyg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Benefits of Gotu Kola
 
@@ -1716,6 +1780,8 @@ Gotu Kola 是一種具有多種潛在健康益處的天然 Remedies，特別是�
     <img src="https://img.youtube.com/vi/FY2yw0KXqaA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Dr. Berg's Keto Coach Interview with Ahmad Samara
 
@@ -1787,6 +1853,8 @@ Gotu Kola 是一種具有多種潛在健康益處的天然 Remedies，特別是�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Real Extra Virgin Olive Oil: Best Way to Know it's REAL
 
 ### 核心主題  
@@ -1857,6 +1925,8 @@ Gotu Kola 是一種具有多種潛在健康益處的天然 Remedies，特別是�
     <img src="https://img.youtube.com/vi/i5O_m8w487E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # MCT Oil vs. Coconut Oil: The Differences
 
@@ -1938,6 +2008,8 @@ Gotu Kola 是一種具有多種潛在健康益處的天然 Remedies，特別是�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Your Nails Help Diagnose Nutrient Deficiencies
 
 ### 小節化整理：指甲與營養缺乏症狀及其診斷
@@ -1999,6 +2071,8 @@ Gotu Kola 是一種具有多種潛在健康益處的天然 Remedies，特別是�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How Diet Affects Sleep
 
 ### 文章整理： diet and sleep interaction in weight management
@@ -2049,6 +2123,8 @@ Gotu Kola 是一種具有多種潛在健康益處的天然 Remedies，特別是�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why Fattier Meat is Easier to Digest
 
 ### 核心主題  
@@ -2087,6 +2163,8 @@ Gotu Kola 是一種具有多種潛在健康益處的天然 Remedies，特別是�
     <img src="https://img.youtube.com/vi/mRBG1jjXEJ4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Zinc Has an Unexpected Sleep Benefits
 
@@ -2161,6 +2239,8 @@ Gotu Kola 是一種具有多種潛在健康益處的天然 Remedies，特別是�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Nothing Boring About Boron
 
 ### 核心主題：硼（Boron）的多重健康益處
@@ -2207,6 +2287,8 @@ Gotu Kola 是一種具有多種潛在健康益處的天然 Remedies，特別是�
     <img src="https://img.youtube.com/vi/2IE6i1Z8IC0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Key Food to Extend Your Lifespan by 5 Years
 
@@ -2273,6 +2355,8 @@ Omega-3脂肪酸在饮食中的摄入对延长人类寿命和改善整体健康�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Benefits of Walking After You Eat
 
 ### 核心主題  
@@ -2328,6 +2412,8 @@ Omega-3脂肪酸在饮食中的摄入对延长人类寿命和改善整体健康�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Belly Fat Destroys Testosterone
 
 ### 文章整理：核心主題與要點
@@ -2378,6 +2464,8 @@ Omega-3脂肪酸在饮食中的摄入对延长人类寿命和改善整体健康�
     <img src="https://img.youtube.com/vi/1N1Fw0FPXds/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Reverse-Engineer a Heart Attack
 
@@ -2433,6 +2521,8 @@ Omega-3脂肪酸在饮食中的摄入对延长人类寿命和改善整体健康�
     <img src="https://img.youtube.com/vi/Rr6CblONfSE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How Important is it to do Organic on Keto?
 
@@ -2506,6 +2596,8 @@ Omega-3脂肪酸在饮食中的摄入对延长人类寿命和改善整体健康�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Benefits of a Hot Bath
 
 ### 核心主題
@@ -2557,6 +2649,8 @@ Omega-3脂肪酸在饮食中的摄入对延长人类寿命和改善整体健康�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Benefits of Alcohol Are...
 
 ### 文章整理：酒精對健康的影響及應對策略
@@ -2606,6 +2700,8 @@ Omega-3脂肪酸在饮食中的摄入对延长人类寿命和改善整体健康�
     <img src="https://img.youtube.com/vi/2JZFHoAvixw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Vitamin B5, Adrenals & Your Sleep
 
@@ -2666,6 +2762,8 @@ Omega-3脂肪酸在饮食中的摄入对延长人类寿命和改善整体健康�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Zinc L-Carnosine and Gut Inflammation
 
 ### 1. 核心主題：  
@@ -2706,6 +2804,8 @@ Omega-3脂肪酸在饮食中的摄入对延长人类寿命和改善整体健康�
     <img src="https://img.youtube.com/vi/UDvuW1dkm8k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Can a Product with Dextrose Still be Keto?
 
@@ -2788,6 +2888,8 @@ Omega-3脂肪酸在饮食中的摄入对延长人类寿命和改善整体健康�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Preventing High Oxalate Kidney Stones
 
 ### 核心主題：腎臟石頭與高草酸鹽的關係及處理方法
@@ -2825,6 +2927,8 @@ Omega-3脂肪酸在饮食中的摄入对延长人类寿命和改善整体健康�
     <img src="https://img.youtube.com/vi/oVCetk-lHNs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Seven Remedies for an Inflamed Liver
 
@@ -2890,6 +2994,8 @@ Omega-3脂肪酸在饮食中的摄入对延长人类寿命和改善整体健康�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Key Foods for Parkinson's Disease
 
 ### 核心主題
@@ -2931,6 +3037,8 @@ Omega-3脂肪酸在饮食中的摄入对延长人类寿命和改善整体健康�
     <img src="https://img.youtube.com/vi/3w0H2ywGaHI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Let Your Kids (or Yourself) Play in the Dirt More Often
 
@@ -2987,6 +3095,8 @@ Omega-3脂肪酸在饮食中的摄入对延长人类寿命和改善整体健康�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # A Great Psoriasis Remedy
 
 ### 核心主題
@@ -3024,6 +3134,8 @@ Omega-3脂肪酸在饮食中的摄入对延长人类寿命和改善整体健康�
     <img src="https://img.youtube.com/vi/2G8vU8mH_Bg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Magnesium Stearate: Toxic or Safe?
 
@@ -3070,6 +3182,8 @@ Omega-3脂肪酸在饮食中的摄入对延长人类寿命和改善整体健康�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # EMF Exposure Is 10+ Hours per Day for an Average Person
 
 ### 核心主題
@@ -3109,6 +3223,8 @@ Omega-3脂肪酸在饮食中的摄入对延长人类寿命和改善整体健康�
     <img src="https://img.youtube.com/vi/KqG6tg_5r1s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Antibiotics and Children
 
@@ -3163,6 +3279,8 @@ Omega-3脂肪酸在饮食中的摄入对延长人类寿命和改善整体健康�
     <img src="https://img.youtube.com/vi/4bZuxGDBq44/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Low Blood Pressure and POTS
 
@@ -3240,6 +3358,8 @@ Omega-3脂肪酸在饮食中的摄入对延长人类寿命和改善整体健康�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Increase Your Blood O2 Levels
 
 ### 文章整理：提高血液氧含量的方法
@@ -3298,6 +3418,8 @@ Omega-3脂肪酸在饮食中的摄入对延长人类寿命和改善整体健康�
     <img src="https://img.youtube.com/vi/0fRIWdaFslo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # EDTA is a Good Decalcifier
 
@@ -3359,6 +3481,8 @@ Omega-3脂肪酸在饮食中的摄入对延长人类寿命和改善整体健康�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Intestinal Permeability or Leaky Gut
 
 ### 核心主題：腸道通透性（Leaky Gut）與迷走神經的作用及管理策略
@@ -3398,6 +3522,8 @@ Omega-3脂肪酸在饮食中的摄入对延长人类寿命和改善整体健康�
     <img src="https://img.youtube.com/vi/iO0s32J9bQs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Vitamin B6 Deficiency in Women
 
@@ -3465,6 +3591,8 @@ Omega-3脂肪酸在饮食中的摄入对延长人类寿命和改善整体健康�
     <img src="https://img.youtube.com/vi/ff-2e5DY8Hg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Mercury Toxicity
 
@@ -3534,6 +3662,8 @@ Omega-3脂肪酸在饮食中的摄入对延长人类寿命和改善整体健康�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why Vitamin B6 Helps Carpal Tunnel Syndrome
 
 ### 核心主題：維生素B6在腕管綜合徵（CTS）中的潛在療效
@@ -3598,6 +3728,8 @@ Omega-3脂肪酸在饮食中的摄入对延长人类寿命和改善整体健康�
     <img src="https://img.youtube.com/vi/lJEjjl5TBJM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Give Your Kids More Butter
 
@@ -3671,6 +3803,8 @@ Omega-3脂肪酸在饮食中的摄入对延长人类寿命和改善整体健康�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why Curcumin is Poorly Absorbed
 
 ### 核心主題  
@@ -3730,6 +3864,8 @@ CURCUMIN為一種具備多功能性的天然化合物，不僅在抗氧化與抗
     <img src="https://img.youtube.com/vi/SLW9pne-bv8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Top Remedies for a UTI (Urinary Tract Infection: Updated)
 
@@ -3795,6 +3931,8 @@ CURCUMIN為一種具備多功能性的天然化合物，不僅在抗氧化與抗
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What is CoQ10 Good For?
 
 ### 文章重點整理
@@ -3852,6 +3990,8 @@ Coenzyme Q10在維持身體健康方面具有不可替代的作用，尤其是�
     <img src="https://img.youtube.com/vi/e240atMm9ws/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Can't Get Your Ketones High Enough?
 
@@ -3940,6 +4080,8 @@ Coenzyme Q10在維持身體健康方面具有不可替代的作用，尤其是�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Restore Your Sense of Smell
 
 ### 文章整理：恢復嗅覺功能的研究與建議
@@ -3994,6 +4136,8 @@ Coenzyme Q10在維持身體健康方面具有不可替代的作用，尤其是�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Vertigo: The Best Remedy
 
 ### 文章整理：VERTIGO 的診斷與治療策略
@@ -4044,6 +4188,8 @@ Coenzyme Q10在維持身體健康方面具有不可替代的作用，尤其是�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Acidify, Don't Alkalize Your Body
 
 ### 1. 核心主題  
@@ -4088,6 +4234,8 @@ Coenzyme Q10在維持身體健康方面具有不可替代的作用，尤其是�
     <img src="https://img.youtube.com/vi/2mSFzMLvxUU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Most Common Cause of Liver Transplants
 
@@ -4144,6 +4292,8 @@ Coenzyme Q10在維持身體健康方面具有不可替代的作用，尤其是�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Age-Related Muscle Loss (Sarcopenia)
 
 ### 核心主題: 論述與衰老相關的肌肉萎縮症（sarcopenia）
@@ -4192,6 +4342,8 @@ Coenzyme Q10在維持身體健康方面具有不可替代的作用，尤其是�
     <img src="https://img.youtube.com/vi/vWlBMnAJHZI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Inflamed Digestive System Blocks Nutrient Absorption
 
@@ -4254,6 +4406,8 @@ Coenzyme Q10在維持身體健康方面具有不可替代的作用，尤其是�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Mercury in Tuna: What Type Is Good and Bad?
 
 ### 核心主題
@@ -4303,6 +4457,8 @@ Coenzyme Q10在維持身體健康方面具有不可替代的作用，尤其是�
     <img src="https://img.youtube.com/vi/Tpc5xaju9Nk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # #1 Most Addictive Food
 
@@ -4359,6 +4515,8 @@ Coenzyme Q10在維持身體健康方面具有不可替代的作用，尤其是�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Thyroid Gland and Gluten: IMPORTANT
 
 ### 核心主題
@@ -4411,6 +4569,8 @@ Coenzyme Q10在維持身體健康方面具有不可替代的作用，尤其是�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Burning Mouth Syndrome Demystified
 
 ### 文章歸納與整理
@@ -4461,6 +4621,8 @@ Coenzyme Q10在維持身體健康方面具有不可替代的作用，尤其是�
     <img src="https://img.youtube.com/vi/EHYVh5DICGY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Ignored But Vital Function of the Stomach
 
@@ -4526,6 +4688,8 @@ Coenzyme Q10在維持身體健康方面具有不可替代的作用，尤其是�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Best Vitamin If You Grind Your Teeth
 
 ### 文章整理：夜間磨牙與維生素D缺乏的關聯
@@ -4575,6 +4739,8 @@ Coenzyme Q10在維持身體健康方面具有不可替代的作用，尤其是�
     <img src="https://img.youtube.com/vi/CIyhpLV6zUw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Ketones and Emotions: Depression, Anxiety & Irritability
 
@@ -4655,6 +4821,8 @@ Coenzyme Q10在維持身體健康方面具有不可替代的作用，尤其是�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Too Much Zinc Causes a Copper Deficiency
 
 ### 核心主題  
@@ -4697,6 +4865,8 @@ Coenzyme Q10在維持身體健康方面具有不可替代的作用，尤其是�
     <img src="https://img.youtube.com/vi/e8qcHFb4Y_8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Coffee Can Lower Your Disease Risk
 
@@ -4744,6 +4914,8 @@ Coenzyme Q10在維持身體健康方面具有不可替代的作用，尤其是�
     <img src="https://img.youtube.com/vi/xG7b7WnzugQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Type I Diabetic Child's Amazing Success Story
 
@@ -4810,6 +4982,8 @@ Lilliana 的故事展示了酮癥治療在兒童糖尿病管理中的有效性�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Tattoo Ink: Is it Safe or Dangerous?
 
 ### 小芻節整理：紋身墨水的安全性與健康風險
@@ -4853,6 +5027,8 @@ Lilliana 的故事展示了酮癥治療在兒童糖尿病管理中的有效性�
     <img src="https://img.youtube.com/vi/iyj_FtBWVdE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Boost Your Serotonin: the Happy Hormone
 
@@ -4926,6 +5102,8 @@ Lilliana 的故事展示了酮癥治療在兒童糖尿病管理中的有效性�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # A1C is a Good Predictor of Many Diseases
 
 ### 文章整理：A1C 與相關健康議題
@@ -4979,6 +5157,8 @@ Lilliana 的故事展示了酮癥治療在兒童糖尿病管理中的有效性�
     <img src="https://img.youtube.com/vi/ePtUQ_Vbudo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # High Carb Diets and White Tongue (Oral Thrush)
 
@@ -5050,6 +5230,8 @@ Lilliana 的故事展示了酮癥治療在兒童糖尿病管理中的有效性�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Restless Legs Syndrome vs. Night Leg Jerks
 
 ### 文章整理與分析
@@ -5104,6 +5286,8 @@ Lilliana 的故事展示了酮癥治療在兒童糖尿病管理中的有效性�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Low Dose Baby Aspirin is Completely Safe, Right?
 
 ### 小節整理
@@ -5145,6 +5329,8 @@ Lilliana 的故事展示了酮癥治療在兒童糖尿病管理中的有效性�
     <img src="https://img.youtube.com/vi/-GOnv-KbQtY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Are Konjac Noodles Keto Friendly?
 
@@ -5210,6 +5396,8 @@ Konjac Noodles 是酮飲食中一個理想的選擇，不僅熱量低，還具�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why Going to the Beach Can Lower Your Cortisol Levels
 
 
@@ -5225,6 +5413,8 @@ Konjac Noodles 是酮飲食中一個理想的選擇，不僅熱量低，還具�
     <img src="https://img.youtube.com/vi/r-9v3vV9_Lc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Steroid Drugs: A Double-Edged Sword
 
@@ -5274,6 +5464,8 @@ Konjac Noodles 是酮飲食中一個理想的選擇，不僅熱量低，還具�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Is the Aluminum in Bentonite Clay Okay to Consume?
 
 
@@ -5289,6 +5481,8 @@ Konjac Noodles 是酮飲食中一個理想的選擇，不僅熱量低，還具�
     <img src="https://img.youtube.com/vi/v7oxgqfUHaw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # When Is the Best Time to Take Vitamin D?
 
@@ -5333,6 +5527,8 @@ Konjac Noodles 是酮飲食中一個理想的選擇，不僅熱量低，還具�
     <img src="https://img.youtube.com/vi/q7PIb4poya4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why Exercise Intensity is Vital to Your Health
 
@@ -5388,6 +5584,8 @@ Konjac Noodles 是酮飲食中一個理想的選擇，不僅熱量低，還具�
     <img src="https://img.youtube.com/vi/ZTVqFKZQYak/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why Abdominal Exercises Won't Work for Belly Fat
 
@@ -5447,6 +5645,8 @@ Konjac Noodles 是酮飲食中一個理想的選擇，不僅熱量低，還具�
     <img src="https://img.youtube.com/vi/co-3ZJgHoNo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Foot and Leg Cramps at Night (Nocturnal Cramps)
 

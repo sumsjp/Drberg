@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Itching on Keto? Do This...
 
 ### 文章重點整理
@@ -49,6 +51,8 @@
     <img src="https://img.youtube.com/vi/AWOqHX04xFY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The 7 Causes of Shortness of Breath – Dr.Berg on Breathing Problems
 
@@ -148,6 +152,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Prolonged Fasting Too Hard? WATCH THIS
 
 ### 核心主題  
@@ -212,6 +218,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Use More Salt to Fix Migraines
 
 ## 文章要點整理
@@ -261,6 +269,8 @@
     <img src="https://img.youtube.com/vi/LUIS20DNS3o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Colon Cleansing: My Opinion
 
@@ -334,6 +344,8 @@
     <img src="https://img.youtube.com/vi/7ZfxLEriqdE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Celery and Nut Butter on Keto?
 
@@ -412,6 +424,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Hysterectomy and Your Body Shape
 
 ### 核心主題
@@ -464,6 +478,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Protect Your Brain from Chronic Stress
 
 ### 核心主題：壓力對大腦的危害及其防禦策略
@@ -515,6 +531,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # On a Statin? WATCH THIS…
 
 ### 核心主題：Statins的作用與副作用管理
@@ -555,6 +573,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
     <img src="https://img.youtube.com/vi/dHTBxwBee3c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Bile Sludge is a Pre-Gallstone Condition!! – Bile Sludge Treatment Covered by Dr. Berg
 
@@ -635,6 +655,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Key Points on Yearly Checkups
 
 ### 文章重點整理
@@ -696,6 +718,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
     <img src="https://img.youtube.com/vi/uCO1-MwyrDw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Celery Benefits for Gout – Dr.Berg
 
@@ -767,6 +791,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why Does Your Body Recycle So Much Bile?
 
 ### 核心主題：膽汁的重要性及其回收機制
@@ -834,6 +860,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Vitamin E Inhibits Scar Tissue – Benefits of Vitamin E for Fibrosis – Dr.Berg
 
 ### 核心主題
@@ -878,6 +906,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
     <img src="https://img.youtube.com/vi/eakNqJKt-_s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Role of Insulin in Diabetes: Animation
 
@@ -932,6 +962,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What Does Pale-Colored Poop Mean? – Dr.Berg
 
 ### 文章整理：Pale-Colored Stool: Causes, Solutions, and Health Recommendations
@@ -977,6 +1009,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
     <img src="https://img.youtube.com/vi/qvKxHQ1RvZQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How Much is Too Much Coffee?
 
@@ -1028,6 +1062,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Is Lupin Flour Keto Friendly?
 
 ### 核心主題：Lupin Flour 的酮禁忌性  
@@ -1077,6 +1113,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
     <img src="https://img.youtube.com/vi/E5PBZhdvaQY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why Does a Fatty Liver Have No Symptoms? – NAFLD (Non Alcoholic Fatty Liver Disease) by Dr.Berg
 
@@ -1148,6 +1186,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Use MCT Oil for Seizures
 
 ### 核心主題： epileptic seizures 的治療與干預策略
@@ -1192,6 +1232,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
     <img src="https://img.youtube.com/vi/sAmTpz6JUdA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Best Foods for Dry Eyes (Vitamin A Deficiency Symptoms) – Dr. Berg
 
@@ -1261,6 +1303,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Grow Your Muscles? – Muscle Building Tips by Dr.Berg
 
 ### 核心主題：結合間歇性斷食與酮飲食的阻力訓練對肌肉肥大影響的研究
@@ -1307,6 +1351,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
     <img src="https://img.youtube.com/vi/kUNchi5L_ws/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Abdominal Pain Radiating to the Back: Deeper Causes Of Chronic Pancreatitis – Dr.Berg
 
@@ -1379,6 +1425,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What is Ulcerative Colitis? – Causes, Symptoms & Treatment by Dr.Berg
 
 # 紹文：潰瘧性大腸炎的自然療法與健康建議
@@ -1445,6 +1493,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
     <img src="https://img.youtube.com/vi/N-Ta7tJANxo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Surprising Hidden Carbs That Slow Ketosis
 
@@ -1515,6 +1565,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # High Cortisol Occurs During and After Surgery – Cortisol Levels & Surgery Side Effects – Dr.Berg
 
 ### 小節化整理
@@ -1559,6 +1611,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
     <img src="https://img.youtube.com/vi/-7H3dZQgNg8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # A Natural Prednisone or Steroid Protocol
 
@@ -1623,6 +1677,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The 5 Benefits of Inositol
 
 ### 核心主題
@@ -1682,6 +1738,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Irritable Male Syndrome or Just Low Testosterone? – Dr.Berg
 
 ### 核心主題
@@ -1737,6 +1795,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Is Pollution Depleting Your Vitamin C?
 
 ### 核心主題：維生素C缺乏的原因及其影響
@@ -1779,6 +1839,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
     <img src="https://img.youtube.com/vi/QUPiAlhbW8s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why Did Keto Raise My Blood Pressure? Ketogenic Diet & High Blood Pressure Connection – Dr.Berg
 
@@ -1838,6 +1900,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
     <img src="https://img.youtube.com/vi/cD3Zezeyq3E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Should You Do Juicing on Keto or While Fasting?
 
@@ -1909,6 +1973,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why Red Spots on My Skin – Dr.Berg on Skin Red Spots Causes & Remedies
 
 ### 小節歸納
@@ -1972,6 +2038,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Tapeworm Diet: Pros and Cons
 
 ### 文章整理：Tapeworm Diet 的探討與分析
@@ -2022,6 +2090,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
     <img src="https://img.youtube.com/vi/MA1kTlrySaQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Will a Liver Cleanse Help Cirrhosis and a Fatty Liver? – Dr.Berg
 
@@ -2102,6 +2172,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Vitamin D's Influence Over Your Muscles
 
 ### 文章重點整理
@@ -2167,6 +2239,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
     <img src="https://img.youtube.com/vi/_lT1-xEGYwo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Microalgae: Pond Scum or Superfood?
 
@@ -2241,6 +2315,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Chronic Obstructive Pulmonary Disease (COPD)
 
 ### 文章重點整理
@@ -2310,6 +2386,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
     <img src="https://img.youtube.com/vi/_klKQveLCGE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Is Diabetes Reversible?
 
@@ -2394,6 +2472,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Psoriasis Treatment – The Best 3 Remedies for Psoriasis – Dr.Berg
 
 ### 文章整理：白癜風的最佳治療方法
@@ -2464,6 +2544,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Birth Control Can Give You Copper Overload
 
 ### 小節整理：birth control, copper overload, and health implications
@@ -2517,6 +2599,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Zinc Can Help Lower Cortisol
 
 ### 小芻目歸納
@@ -2563,6 +2647,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
     <img src="https://img.youtube.com/vi/12VZeP3pGHI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Most Difficult Foods to Give Up
 
@@ -2625,6 +2711,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Can Type 1 Diabetics Do Prolonged Fasting?
 
 ### 文章整理與分析
@@ -2666,6 +2754,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
     <img src="https://img.youtube.com/vi/O6xdtpp4EE8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What's Your Biggest Unexpected Benefit on Keto and Intermittent Fasting?
 
@@ -2714,6 +2804,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
     <img src="https://img.youtube.com/vi/p0C-rlWp1hk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Benefits of Garlic for Sleep Apnea – Treatment by Dr.Berg
 
@@ -2767,6 +2859,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
     <img src="https://img.youtube.com/vi/ZDbZZYCxLrg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Can I Add Honey to the Apple Cider Vinegar Drink?
 
@@ -2824,6 +2918,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Sea Kelp: Beyond the Thyroid
 
 
@@ -2839,6 +2935,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
     <img src="https://img.youtube.com/vi/dPRdf18xLrg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How Much Weight Can I Lose When Fasting?
 
@@ -2886,6 +2984,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
     <img src="https://img.youtube.com/vi/Q1xT5coeJMk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Benefits of Breastfeeding
 
@@ -2938,6 +3038,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Prolonged Fasting and IGF-1
 
 ### 小節歸納
@@ -2989,6 +3091,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Lichen Planus: Best Remedy
 
 ### 核心主題
@@ -3036,6 +3140,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
     <img src="https://img.youtube.com/vi/5xrQzIxpp1k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 28 Insulin Resistance Symptoms – Dr.Berg
 
@@ -3105,6 +3211,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What Causes Bruises on Legs & Arms? – Top 5 Causes of Bruising Covered by Dr.Berg
 
 ### 文章整理：瘀青的原因及健康建議
@@ -3158,6 +3266,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
     <img src="https://img.youtube.com/vi/325jLYA6atY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 5 Reasons Why You Are Not Losing Weight When Fasting
 
@@ -3227,6 +3337,8 @@ Statins在降低膽固醇方面有重要作用，但其副作用不可忽視。�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Subclinical vs. Clinical Disease
 
 ## 文章重點整理
@@ -3292,6 +3404,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What to do for Lactation Insufficiency
 
 ### 文章重點整理
@@ -3353,6 +3467,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Neck Pain for No Reason? Do this – Dr.Berg on Neck Pain Remedy
 
 ### 文章重點整理
@@ -3405,6 +3521,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
     <img src="https://img.youtube.com/vi/IBNslzE6CP8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Common Drugs That Deplete Vitamin D
 
@@ -3466,6 +3584,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
     <img src="https://img.youtube.com/vi/7fKf2GcNJCE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Best Vitamin for Emotional Instability – Vitamin B1 & Delirium – Dr.Berg
 
@@ -3530,6 +3650,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
     <img src="https://img.youtube.com/vi/tE2TQaBE_X8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # It's Not Fat that Puts You in Ketosis
 
@@ -3604,6 +3726,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What Happens When You Fast and When You Eat?
 
 ### 文章重點整理
@@ -3669,6 +3793,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
     <img src="https://img.youtube.com/vi/FQ_e0iS0lhQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Treating Adrenal Fatigue With Sleep – MOST Important Action for Adrenal Fatigue – Dr.Berg
 
@@ -3738,6 +3864,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The First Sign of Low Vitamin D – Symptoms of Vitamin D Deficiency – Dr.Berg
 
 ### 小節整理：維生素D缺乏症與低背部疼痛之關係
@@ -3788,6 +3916,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
     <img src="https://img.youtube.com/vi/IqYHu_9CB8w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 7 Skin Warning Signs of Diabetes
 
@@ -3863,6 +3993,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
     <img src="https://img.youtube.com/vi/TMJzwi2hdKU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Calories vs. Appetite on Keto and Intermittent Fasting
 
@@ -3956,6 +4088,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Best Vitamin for Low Back Pain (Sciatica)
 
 ### 文章重點整理
@@ -4034,6 +4168,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # High Fat Diets Are Only Dangerous if...
 
 ### 文章整理：高脂肪飲食與糖化的影響
@@ -4074,6 +4210,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
     <img src="https://img.youtube.com/vi/ufGAWN_XRbM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Could Your Joint Pain Be a Vitamin C Deficiency? – Dr.Berg
 
@@ -4132,6 +4270,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
     <img src="https://img.youtube.com/vi/LXwafP7xoHk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why Fasting Lowers Your Thyroid Hormone T3 a Little Bit
 
@@ -4198,6 +4338,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 6 Things Muscles Tell You About Your Nutrient Status
 
 ### 文章重點整理
@@ -4251,6 +4393,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
     <img src="https://img.youtube.com/vi/VD2Encm7njo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Increase Glutathione, the Master Antioxidant
 
@@ -4307,6 +4451,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
     <img src="https://img.youtube.com/vi/fFHdl8B0_AI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why Does Potassium Work for Hypertension? High Potassium Foods for High Blood Pressure – Dr.Berg
 
@@ -4375,6 +4521,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
     <img src="https://img.youtube.com/vi/9oGQvDKtteE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Fasting Affects Your Hormones Greatly
 
@@ -4468,6 +4616,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Preserving Anticancer Nutrients in Food
 
 # 文章重點整理
@@ -4517,6 +4667,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
     <img src="https://img.youtube.com/vi/D5bXSZV0tLo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 9 Things to Help Heal an Inflamed Colon
 
@@ -4576,6 +4728,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
     <img src="https://img.youtube.com/vi/JuxB81huzt0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Could Heart Dysfunction Come From an Infected Tooth?
 
@@ -4647,6 +4801,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Help Rheumatoid Arthritis with Thunder God Vine – Arthritis Remedies – Dr. Berg
 
 ### 文章重點整理
@@ -4706,6 +4862,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
     <img src="https://img.youtube.com/vi/dYd20b004SQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # I thought Fasting Was Supposed to Give You Energy – Tiredness and Fatigue on Fasting – Dr.Berg
 
@@ -4785,6 +4943,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How Long Does it Take for Some Diabetics to Go Blind?
 
 ### 文章重點整理
@@ -4857,6 +5017,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Best Nutrient to Boost Learning
 
 
@@ -4872,6 +5034,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
     <img src="https://img.youtube.com/vi/G-VIZLcqb28/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Arch Supports Can Worsen Your Flat Feet – Dr. Berg's Opinion on Arch Support for Flat Feet
 
@@ -4922,6 +5086,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
     <img src="https://img.youtube.com/vi/i181rhzWRFc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Always Fast After a Surgery, Injury or Trauma
 
@@ -4982,6 +5148,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
     <img src="https://img.youtube.com/vi/ulRX7r7NUyo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Healthiest Edible Weed You Should Be Eating
 
@@ -5049,6 +5217,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why Do Fat Men Have Low Testosterone?
 
 
@@ -5064,6 +5234,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
     <img src="https://img.youtube.com/vi/apyExKXxxJo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What Causes the Tongue to Change Colors?
 
@@ -5124,6 +5296,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
     <img src="https://img.youtube.com/vi/VXnx6HXzkFw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Therapeutic Benefit of Silica
 
@@ -5196,6 +5370,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Fiber Reduced the Risk of Calcium Oxalate Kidney Stones – Dr.Berg
 
 ### 核心主題：腎结石的预防与饮食建议
@@ -5236,6 +5412,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
     <img src="https://img.youtube.com/vi/OD7T5GF6b28/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Osteoporosis Is Not a Calcium Deficiency – Remedies for Osteoporosis – Dr.Berg
 
@@ -5321,6 +5499,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What Dietary Fat Does Your Body Thrive on?
 
 ### 文章重點整理
@@ -5393,6 +5573,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Gallstones vs Kidney Stones: A Common Cause of Kidney Stones & Gallstones – Dr.Berg
 
 ### 文章重點整理
@@ -5464,6 +5646,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What is Diabetes 1.5
 
 ### 文章整理：糖尿病1.5型的核心主題與重要觀點
@@ -5526,6 +5710,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
     <img src="https://img.youtube.com/vi/txfPDXqhXoo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Correcting High Cholesterol and LDL Cholesterol on Keto Diet – Dr.Berg
 
@@ -5605,6 +5791,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Top Selling Drug in the World Reveals the Big Nutritional Deficiency
 
 ### 文章整理：Humira及其在 autoimmune 疾病中的角色與自然療法建議
@@ -5660,6 +5848,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
     <img src="https://img.youtube.com/vi/3myDiaxX4Ts/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The 8 Benefits of Fulvic Acid
 
@@ -5727,6 +5917,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What’s Really Behind Chronic Fatigue, Achiness and Stiffness – Dr.Berg
 
 ### 文章重點整理
@@ -5781,6 +5973,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Best Foods to Eat and Avoid If You Have Herpes
 
 ### 文章整理與結構化
@@ -5834,6 +6028,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What is Bile Reflux?
 
 ### 小節：核心主題
@@ -5882,6 +6078,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Periodic Fasting Doesn't Work
 
 ### 核心主題
@@ -5922,6 +6120,8 @@ PLEASE NOTE: The original text does not provide specific author information or p
     <img src="https://img.youtube.com/vi/8MPpiCg5HUg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Melatonin: Beyond the Sleep Benefit
 

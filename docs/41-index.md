@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Groundbreaking New Revelations on Alzheimer's Disease
 
 ### 本文要點總結
@@ -88,6 +90,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The 5 Best Ways to Treat Autoimmune Disease Naturally
 
 ### 小節歸納
@@ -144,6 +148,8 @@
     <img src="https://img.youtube.com/vi/YuO2FwBrmqY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The 7 MOST Important Nutrients for Your Immune System
 
@@ -203,6 +209,8 @@
     <img src="https://img.youtube.com/vi/3VkP4tqGhdY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The #1 Best Protocol for Gout
 
@@ -264,6 +272,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The End of Stiffness with This New Type of Stretching
 
 ### 核心主題
@@ -316,6 +326,8 @@
     <img src="https://img.youtube.com/vi/-090IT9HneQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The REAL Reason for Pain Behind the Eyes
 
@@ -380,6 +392,8 @@
     <img src="https://img.youtube.com/vi/Ef-6rZ93sF0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The #1 Food to AVOID to Improve Alzheimer's Disease Symptoms
 
@@ -492,6 +506,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What Happens If You ONLY Eat Carbs for 14 Days
 
 ### 文章重點整理
@@ -576,6 +592,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Dietary FIBER, Bloating, and Intestinal Gas
 
 # 文章整理：腸道微生物與飲食健康
@@ -629,6 +647,8 @@
     <img src="https://img.youtube.com/vi/alWAs9tth9c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Only Way to End Stress and Lower Cortisol
 
@@ -712,6 +732,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # TURMERIC Is Good for Virtually EVERYTHING!
 
 # 文章整理： turmeric 的健康效益與使用指南
@@ -769,6 +791,8 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
     <img src="https://img.youtube.com/vi/bK8q144Rhds/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # DRINK 1/2 CUP DAILY to Lower Cortisol, Lose Belly Fat, and Help Depression
 
@@ -830,6 +854,8 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 11 Bad Habits That Damage Your Brain
 
 ### 小節整理：文章重點概要
@@ -884,6 +910,8 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
     <img src="https://img.youtube.com/vi/Ac1rrcr6xhY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 11 Ways to Protect Your Liver from Toxins
 
@@ -976,6 +1004,8 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The #1 Best Natural Cox-2 Inhibitor for Pain and Inflammation
 
 # 文章整理：慢性炎症與疼痛的自然療法
@@ -1035,6 +1065,8 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
     <img src="https://img.youtube.com/vi/X6WCY_tqys8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Normal Vitamin D Levels Will NOT Tell the Whole Picture
 
@@ -1109,6 +1141,8 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The 9 Signs of a Carbohydrate Deficiency
 
 ### 文章整理： carbohydrate lies and the truth about carbohydrate deficiency
@@ -1176,6 +1210,8 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
     <img src="https://img.youtube.com/vi/mfIcHEEvqjk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The #1 Best Food for All Menopausal Symptoms
 
@@ -1260,6 +1296,8 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Best Remedy for ADD/ADHD (Attention Deficit Disorder)
 
 ### 文章重點整理
@@ -1329,6 +1367,8 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # A Unique Way to Clean a Fatty (Toxic) Liver That You've Never Heard About
 
 ### 文章整理：MTHFR 基因與酶功能異常及其影響與解決方案
@@ -1394,6 +1434,8 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
     <img src="https://img.youtube.com/vi/sYMKOVAIcUg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # This Deficiency IS Why Your Digestion Is Screwed Up
 
@@ -1464,6 +1506,8 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Mind-Blowing Benefits of 4 Mushrooms
 
 ### 核心主題：蕈菇的健康益處
@@ -1516,6 +1560,8 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
     <img src="https://img.youtube.com/vi/fDBZM1n_uDE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The #1 Deficiency behind All Autoimmune Diseases
 
@@ -1595,6 +1641,8 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Best Remedies for Myocarditis
 
 ### 核心主題  
@@ -1659,6 +1707,8 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
     <img src="https://img.youtube.com/vi/BTmqyuDT7dg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Genetically at Risk for Alzheimer's Disease? DO THIS...
 
@@ -1736,6 +1786,8 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Get Rid of Loose, Flabby Skin (SKIN TIGHTENING)
 
 ### 文章重點整理
@@ -1809,6 +1861,8 @@ Turmeric 作為一種多功能的天然補充物，具備抗炎、抗氧化、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Deeper Cause of Kidney Stones You've Never Heard About
 
 ### 文章整理：腎结石的成因、風險及自然療法
@@ -1871,6 +1925,8 @@ The article explores the causes, health risks, and natural therapies for kidney 
     <img src="https://img.youtube.com/vi/iBDYdTaMUTg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Take This IMMEDIATELY after a Stroke
 
@@ -1948,6 +2004,8 @@ The article explores the causes, health risks, and natural therapies for kidney 
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to NEVER Get Shingles Again
 
 ### 核心主題：水痘病毒再激活導致疱疹及其影響
@@ -2001,6 +2059,8 @@ The article explores the causes, health risks, and natural therapies for kidney 
     <img src="https://img.youtube.com/vi/VHYycYgJ-vs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Best Protocol for Sjogren's Syndrome
 
@@ -2079,6 +2139,8 @@ The article explores the causes, health risks, and natural therapies for kidney 
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Never Be Stressed Out Again
 
 ### 本文重點整理
@@ -2153,6 +2215,8 @@ The article explores the causes, health risks, and natural therapies for kidney 
     <img src="https://img.youtube.com/vi/A_5CyIkC6z4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The REAL Benefit of Nutritional Yeast
 
@@ -2241,6 +2305,8 @@ The article explores the causes, health risks, and natural therapies for kidney 
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 10 Surprising Diseases Caused by Low LDL Cholesterol
 
 # 低LDL和低膽固醇的危害：一個被忽略的健康議題
@@ -2311,6 +2377,8 @@ The article explores the causes, health risks, and natural therapies for kidney 
     <img src="https://img.youtube.com/vi/6enzRhTVK8I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Most Shocking Underrated Mortality Risk Factor
 
@@ -2393,6 +2461,8 @@ The article explores the causes, health risks, and natural therapies for kidney 
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to be IMMUNE to Pathogens
 
 ### 文章重點整理
@@ -2462,6 +2532,8 @@ The article explores the causes, health risks, and natural therapies for kidney 
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Boost Your Acetylcholine for Super Brain Power
 
 ### 核心主題：乙酰膽鹼（Acetylcholine）的重要性與影響
@@ -2527,6 +2599,8 @@ The article explores the causes, health risks, and natural therapies for kidney 
     <img src="https://img.youtube.com/vi/AH8XTQAbIRs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Rid Your Xanthomas (Naturally)
 
@@ -2607,6 +2681,8 @@ The article explores the causes, health risks, and natural therapies for kidney 
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Overcoming the GENETIC Slow Metabolism Problem
 
 ### 文章整理：基因多樣性對低碳飲食反應的影響及應對策略
@@ -2681,6 +2757,8 @@ The article explores the causes, health risks, and natural therapies for kidney 
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Neutralize the Bad Effects of Caffeine
 
 ### 小節歸納
@@ -2747,6 +2825,8 @@ The article explores the causes, health risks, and natural therapies for kidney 
     <img src="https://img.youtube.com/vi/UotvYzbg4DI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Forget Getting ANY Vitamin A from Carrots
 
@@ -2848,6 +2928,8 @@ The article explores the causes, health risks, and natural therapies for kidney 
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Best 2 Foods to Rid Anxiety in Your Body
 
 ### 文章重點整理
@@ -2914,6 +2996,8 @@ The article explores the causes, health risks, and natural therapies for kidney 
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Never Get Another Cavity Ever Again
 
 ### 文章核心主題：如何預防牙齒蛀蟲（Cavities）
@@ -2967,6 +3051,8 @@ The article explores the causes, health risks, and natural therapies for kidney 
     <img src="https://img.youtube.com/vi/Zto7tX8GBtQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 8 Signs of a Vitamin C Deficiency You've Never Heard About
 
@@ -3033,6 +3119,8 @@ The article explores the causes, health risks, and natural therapies for kidney 
     <img src="https://img.youtube.com/vi/wMW8E5aLNsE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The FIRST Sign of a Vitamin A Deficiency Is...
 
@@ -3122,6 +3210,8 @@ The article explores the causes, health risks, and natural therapies for kidney 
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The #1 Best Remedy for Bloating
 
 ### 核心主題
@@ -3166,6 +3256,8 @@ The article explores the causes, health risks, and natural therapies for kidney 
     <img src="https://img.youtube.com/vi/serJmA0YFD0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What Happens If You Use a SAUNA for 14 Days
 
@@ -3236,6 +3328,8 @@ Sauna 不僅提供舒適的放鬆體驗，更在生理和心理層面帶來多�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Stop Constant Throat Clearing: Understanding the 3 Causes of Phlegm in Your Throat
 
 ### 文章整理：清除痰液與黏液的方法與建議
@@ -3296,6 +3390,8 @@ Sauna 不僅提供舒適的放鬆體驗，更在生理和心理層面帶來多�
     <img src="https://img.youtube.com/vi/1e015eLi4lM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Healthy Whole Grains Are a JOKE
 
@@ -3379,6 +3475,8 @@ Sauna 不僅提供舒適的放鬆體驗，更在生理和心理層面帶來多�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Recognizing the Signs of Kidney Disease: What You Need to Know
 
 ### 文章整理：尿夜频症與糖尿病及其他代謝疾病的關聯及管理策略
@@ -3437,6 +3535,8 @@ Sauna 不僅提供舒適的放鬆體驗，更在生理和心理層面帶來多�
     <img src="https://img.youtube.com/vi/vYjQHkhzNB4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Deeper Causes of BRUISING (Non-Injury Type)
 
@@ -3522,6 +3622,8 @@ Sauna 不僅提供舒適的放鬆體驗，更在生理和心理層面帶來多�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Low Potassium: Signs, Symptoms, Causes, and Treatment
 
 ### 篇章要點整理
@@ -3596,6 +3698,8 @@ Sauna 不僅提供舒適的放鬆體驗，更在生理和心理層面帶來多�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Do This to Stop That Afternoon Crash (Sleepy after Lunch)
 
 ### 文章重點整理
@@ -3655,6 +3759,8 @@ Sauna 不僅提供舒適的放鬆體驗，更在生理和心理層面帶來多�
     <img src="https://img.youtube.com/vi/PNTz1XBzaRQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Lose That LAST 13 lbs of Stubborn Fat
 
@@ -3735,6 +3841,8 @@ Sauna 不僅提供舒適的放鬆體驗，更在生理和心理層面帶來多�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The #1 Best Remedy to Prevent a Heart Attack for $3.19
 
 ### 核心主題
@@ -3786,6 +3894,8 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # I Lost 90 Lbs in 5 Months | Dr. Berg Interview
 
 ### 文章重點整理
@@ -3830,6 +3940,8 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
     <img src="https://img.youtube.com/vi/i-sGhGT7ctA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The 6 Best Ways to Heal a Fatty Liver
 
@@ -3911,6 +4023,8 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The #1 Best Remedy for Preventing Respiratory Infections
 
 ### 小節整理
@@ -3967,6 +4081,8 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
     <img src="https://img.youtube.com/vi/WNfVJIthdyA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The REAL Cause of Toenail Fungus is ...
 
@@ -4059,6 +4175,8 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why Fake Meats Will Never Be Popular
 
 ### 文章整理：假肉產品的健康與環境影響
@@ -4138,6 +4256,8 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Rid Respiratory Mucus with SALT
 
 ### 文章重點整理
@@ -4181,6 +4301,8 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
     <img src="https://img.youtube.com/vi/CQtX_Xu8H3Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The BEST Foods to Strengthen Your Liver
 
@@ -4255,6 +4377,8 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Best MEAL to Clear Out Your Arteries
 
 ### 文章整理：基于生物薄膜的健康飲食方案
@@ -4306,6 +4430,8 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
     <img src="https://img.youtube.com/vi/v5hbfUzOggk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The BEST Remedies for Dry Skin, Eyes, and Mouth
 
@@ -4381,6 +4507,8 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 10 Surprising SUGAR Side Effects You've Never Heard About
 
 ### 文章整理：糖分攝取過量的潛在副作用與影響
@@ -4452,6 +4580,8 @@ Niacin 是一種經濟且有效的預防心臟病的補充劑，但因缺乏商�
     <img src="https://img.youtube.com/vi/4h75JTMGsAA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # #1 Big Mistake People Make When Drinking Water
 
@@ -4536,6 +4666,8 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The #1 Sign of Iodine Overload (TOXICITY)
 
 # 文章要點整理
@@ -4604,6 +4736,8 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Drain Sinuses and Clear a Stuffy Nose with This Technique
 
 ### 小節歸納：
@@ -4650,6 +4784,8 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
     <img src="https://img.youtube.com/vi/-k35KmI8hYs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What Happens When You Eat 2 TBSP of Olive Oil Daily
 
@@ -4712,6 +4848,8 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
     <img src="https://img.youtube.com/vi/1RpgnDnMC1I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Acceptable Liquids During Fasting: COMPLETE LIST
 
@@ -4788,6 +4926,8 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The #1 Danger of Prolonged Fasting
 
 # 文章重點整理： prolonged fasting for health and cancer treatment
@@ -4847,6 +4987,8 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
     <img src="https://img.youtube.com/vi/T8Ghse_HdKA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The #1 Hidden Cause of Your Hair Loss (Different Types)
 
@@ -4918,6 +5060,8 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The #1 REAL Reason Why You Are Tired
 
 ### 核心主題：維生素B1（硫胺素）的重要性及其在健康中的作用
@@ -4956,6 +5100,8 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
     <img src="https://img.youtube.com/vi/KvjOhVgxxn4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Most Ignored DISEASE in the World
 
@@ -4999,6 +5145,8 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
     <img src="https://img.youtube.com/vi/950fbVKFwHM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Natural Solution for Plaque, Cavities, and Gingivitis
 
@@ -5057,6 +5205,8 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
     <img src="https://img.youtube.com/vi/bg_xenOrKPg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Drink This EVERY Day to Lose More Belly Fat
 
@@ -5128,6 +5278,8 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
     <img src="https://img.youtube.com/vi/6RPRzN4kTWI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The #1 Most Common Mineral Deficiency in the World
 
@@ -5216,6 +5368,8 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How To Remove Skin Tags And Warts Overnight
 
 ### 文章重點整理
@@ -5290,6 +5444,8 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Take 2 TABLESPOONS Before a Meal for GERD, Bloating, or Acid Reflux
 
 ### 文章整理：酸 reflux 和胃食道逆流的成因與 해결 방법
@@ -5345,6 +5501,8 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
     <img src="https://img.youtube.com/vi/ppTAOjdcG04/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Change Your Breathing and Lower Your Cortisol
 
@@ -5421,6 +5579,8 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What Happens after 14 Days of Cold Showers (Part 2)
 
 ### 文章重點整理
@@ -5479,6 +5639,8 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
     <img src="https://img.youtube.com/vi/4u8QGZvRYvo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 7 Ways Dr. Berg BLOCKS the Side Effects Of Carbs While On A Keto Diet
 
@@ -5587,6 +5749,8 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 7 Warning Signs of an IODINE Deficiency
 
 ### 文章重點整理
@@ -5652,6 +5816,8 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
     <img src="https://img.youtube.com/vi/bxd8Zui3v5Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Do Intermittent Fasting for SERIOUS WEIGHT LOSS
 
@@ -5744,6 +5910,8 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Top Diseases That Are REALLY Nutrient Deficiencies
 
 ### 文章重點整理
@@ -5832,6 +6000,8 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
     <img src="https://img.youtube.com/vi/AVaFEanJAUs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 7 Foods That Lower Bad Cholesterol (LDL)
 
@@ -5923,6 +6093,8 @@ hydration是維持身體功能的關鍵因素。現代人常因飲食結構、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Food That is More DEADLY Than Sugar
 
 ### 文章重點整理
@@ -5987,6 +6159,8 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
     <img src="https://img.youtube.com/vi/GzxBOdx3Q68/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Think Twice before Getting a Hysterectomy
 
@@ -6069,6 +6243,8 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 13 Signs Your Body is Deficient in Nutrients
 
 ### 文章整理：營養缺乏症狀及解決方案
@@ -6140,6 +6316,8 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Best and Safest CORTICOSTEROID Alternative
 
 ### 文章整理與分析
@@ -6204,6 +6382,8 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Best Test to Determine How Long You Will Live
 
 ### 本文整理重點
@@ -6245,6 +6425,8 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
     <img src="https://img.youtube.com/vi/xH9aLk7WV0o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The CURE for Procrastination
 
@@ -6295,6 +6477,8 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
     <img src="https://img.youtube.com/vi/U2FUJqYkn5o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 10 Warning Signs Your Kidneys Are Toxic
 
@@ -6357,6 +6541,8 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
     <img src="https://img.youtube.com/vi/FloMuAVOwoA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Type 1 Diabetics MUST Do This to Reduce Insulin
 
@@ -6434,6 +6620,8 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
     <img src="https://img.youtube.com/vi/EgGeX-UxnoA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Quickest Way to Test for Bowel Disease (Crohn's, IBD, UC or SIBO)
 
@@ -6516,6 +6704,8 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What Happens to Your Body When You Quit Sugar for 14 Days
 
 ### 文章重點整理
@@ -6571,6 +6761,8 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
     <img src="https://img.youtube.com/vi/wh0R-avRMuM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Natural Remedy for Anaphylactic Shock
 
@@ -6635,6 +6827,8 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
     <img src="https://img.youtube.com/vi/tPom4UOW1vU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Getting Vitamin D from the Sun WITHOUT the Skin Cancer
 
@@ -6727,6 +6921,8 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Calcium-Osteoporosis Myth
 
 ### 核心主題：骨質疏鬆症的 misconception 与 comprehensive管理策略
@@ -6782,6 +6978,8 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
     <img src="https://img.youtube.com/vi/SzQX-3tEDQU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Burn Belly Fat EXTREMELY Fast – TOP 10 TIPS
 
@@ -6852,6 +7050,8 @@ Vegetable oils 的危害遠超於糖分，其增加全因死亡率的風險仅�
     <img src="https://img.youtube.com/vi/FpnOArocDtA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The HUGE Mistake Counting Carbs on Keto (Ketogenic Diet)
 

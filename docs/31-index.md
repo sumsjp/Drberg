@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Fat-to-Protein Ratio on Keto: Healthy vs. Gut Issues
 
 ### 小節歸納
@@ -73,6 +75,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Peripheral Neuropathy Diabetes – Best Diet for Peripheral Neuropathy – Dr.Berg
 
 ### 小節歸納
@@ -123,6 +127,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Heat Intolerance – One Deeper Cause – Low Vitamin B1 & Heat Intolerance – Dr.Berg
 
 ### 1. 核心主題：Heat Intolerance（熱不耐受）
@@ -166,6 +172,8 @@
     <img src="https://img.youtube.com/vi/IrgxOaIDt5c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Sleep Off Your Belly Fat
 
@@ -255,6 +263,8 @@
     <img src="https://img.youtube.com/vi/C95PkgqnGN0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Keto Desserts and Gut Issues
 
@@ -346,6 +356,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Important Unknown Purpose of Magnesium
 
 ### 小節整理：文章重點
@@ -419,6 +431,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Tired While Doing Intermittent Fasting? tired while fasting
 
 ### 核心主題  
@@ -489,6 +503,8 @@
     <img src="https://img.youtube.com/vi/g4MwvHyiJs0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The HUGE Problem with the Glycemic Index (GI)
 
@@ -565,6 +581,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Asthma, Vitamin D and Remodeling of the Lung
 
 ### 小芻歸納
@@ -610,6 +628,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Worst Way to Convince People to do Keto
 
 
@@ -625,6 +645,8 @@
     <img src="https://img.youtube.com/vi/QqcFCk9TiYY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Does Inflammation Cause Diabetes?
 
@@ -714,6 +736,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The FIRST Symptom / Early Signs of Fatty Liver – Dr.Berg
 
 ### 小節歸納
@@ -767,6 +791,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Isn't Our Body Supposed to Run on Sugar?
 
 # 文章整理：酮osis與人體能量來源的探讨
@@ -816,6 +842,8 @@
     <img src="https://img.youtube.com/vi/NktTodLBugw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Noom Weight Loss: Dr. Berg's Opinion
 
@@ -894,6 +922,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How do Probiotics Work for Fatty Liver Disease? – Dr. Berg
 
 ### 核心主題：肝臟問題與益生菌的作用
@@ -930,6 +960,8 @@
     <img src="https://img.youtube.com/vi/zMl-ZtARmJg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # High Pulse Rate on Keto? Do This...
 
@@ -990,6 +1022,8 @@
     <img src="https://img.youtube.com/vi/_nJMzbYmzKA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Interesting Cause of Air Hunger (Difficulty Breathing) – Dr.Berg on Shortness of Breath
 
@@ -1066,6 +1100,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Bigger Problem with Chronic Inflammation
 
 # 文章重點整理
@@ -1124,6 +1160,8 @@
     <img src="https://img.youtube.com/vi/6cADeKDW65g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 5 Reasons for Cold Intolerance – Nutritional Deficiencies & Feeling Cold – Dr.Berg
 
@@ -1194,6 +1232,8 @@
     <img src="https://img.youtube.com/vi/dLxuWLSUWmY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Two Reasons for Chronic Sinus Congestion – Sinus Remedies by Dr.Berg
 
@@ -1269,6 +1309,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to be Calm
 
 ### 小節歸納
@@ -1317,6 +1359,8 @@
     <img src="https://img.youtube.com/vi/QHfUDDn_hAw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why is Vitamin A Named Retinol?
 
@@ -1368,6 +1412,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Detoxify 1000s of Chemicals From Your Body Just With Food
 
 ### 核心主題：身體排毒與環境毒物對健康的影響
@@ -1407,6 +1453,8 @@
     <img src="https://img.youtube.com/vi/7dH1rB64MfU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Is Your Child Clumsy or Not Coordinated?
 
@@ -1468,6 +1516,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Most Powerful Skin Vitamin: Not Vitamin C or E
 
 ### 小節歸納
@@ -1509,6 +1559,8 @@
     <img src="https://img.youtube.com/vi/PJ2cW7mF9RE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Hidden Sources of Gluten: Surprising
 
@@ -1562,6 +1614,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Real Benefit of Rebounding Exercise
 
 ### 核心主題：反彈運動（Rebounding Exercise）的健康益處
@@ -1608,6 +1662,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Use Vitamin A for Kidney Stones – Vitamin A Deficiency & Kidney Stones – Dr.Berg
 
 ### 核心主題：维生素A与肾结石的关系及其预防作用
@@ -1646,6 +1702,8 @@
     <img src="https://img.youtube.com/vi/5WJg00tcQgI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why You Can't Live Without Viruses
 
@@ -1701,6 +1759,8 @@
     <img src="https://img.youtube.com/vi/P-EkWPL67G4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Do I Have High or Low Cortisol – Confusion Clarified on Cortisol Levels by Dr. Berg
 
@@ -1766,6 +1826,8 @@
     <img src="https://img.youtube.com/vi/UAzRA1oywfw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What to do For Lump in Throat? – Remedies by Dr.Berg
 
@@ -1847,6 +1909,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Gained 3 Pounds From Only 1 Pound of Food? How Could This Happen?
 
 ### 文章重點整理
@@ -1887,6 +1951,8 @@
     <img src="https://img.youtube.com/vi/5WI4_eUhJI0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Nuts Are Not a Healthy Snack
 
@@ -1938,6 +2004,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Should the Saliva be Acid or Alkaline?
 
 ### 文章重點整理
@@ -1988,6 +2056,8 @@
     <img src="https://img.youtube.com/vi/2hkWSdtVGcg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Protocol for Calcified Plaque in Your Arteries – Atherosclerosis – Dr.Berg
 
@@ -2056,6 +2126,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Cassava on Keto?
 
 ### 文章分析報告
@@ -2098,6 +2170,8 @@
     <img src="https://img.youtube.com/vi/dXCl0CIiwi0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 10 Benefits of Sheep Cheese
 
@@ -2158,6 +2232,8 @@
     <img src="https://img.youtube.com/vi/rWwR_UYdiu0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The 9 Benefits of Bile Salts
 
@@ -2223,6 +2299,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Is a Niacin Flush Harmful or Dangerous?
 
 ### 小節整理
@@ -2279,6 +2357,8 @@
     <img src="https://img.youtube.com/vi/xykt0O98Wpk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Fix Your Short Term Memory Loss – Hippocampus Repair – Dr.Berg
 
@@ -2365,6 +2445,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Any Benefit of Fasting for 14 Hours?
 
 ### 小結點整理
@@ -2405,6 +2487,8 @@
     <img src="https://img.youtube.com/vi/ZOEWWvwCj_s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Vitiligo: Do These 3 Things
 
@@ -2460,6 +2544,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The 10 Benefits of Fiber
 
 ### 文章整理：蔬菜纖維的十大益處
@@ -2514,6 +2600,8 @@
     <img src="https://img.youtube.com/vi/q2HThyEtD2g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Feeling Worse with Apple Cider Vinegar (ACV)?
 
@@ -2587,6 +2675,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Swollen Face and Puffy Eyes: An Easy Fix
 
 ### 核心主題：面部腫脹和眼部浮腫的原因及解決方案
@@ -2624,6 +2714,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Fiber and Gallstones
 
 ### 核心主題：膳食纖維對膽石症的影響
@@ -2660,6 +2752,8 @@
     <img src="https://img.youtube.com/vi/otV51XLXa4A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Darkened Skin Spots: 3 Causes of Dark Spots on Skin – Dr.Berg
 
@@ -2716,6 +2810,8 @@
     <img src="https://img.youtube.com/vi/VKW99YifhHs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Hyperkalemia (High Blood Potassium Levels) – Hyperkalemia Symptoms & Treatment – Dr.Berg
 
@@ -2783,6 +2879,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Tanning Beds: Any Vitamin D?
 
 ### 小節整理：從太陽浴床獲得維生素D的可能性
@@ -2845,6 +2943,8 @@
     <img src="https://img.youtube.com/vi/YR-z6lw-YCg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Still Hungry in the Morning While Fasting and Doing Keto?
 
@@ -2916,6 +3016,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Best Nutrient for FEAR
 
 ### 小節歸納
@@ -2960,6 +3062,8 @@
     <img src="https://img.youtube.com/vi/IoAGKwEhU5I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Non-Stress Cause of Adrenal Fatigue Symptoms – Vitamin B1/Thiamine Deficiency – Dr.Berg
 
@@ -3036,6 +3140,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Worst Intermittent Fasting Pattern is...
 
 ### 核心主題  
@@ -3076,6 +3182,8 @@
     <img src="https://img.youtube.com/vi/yzBnjfjbjUM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # You Don't Get Vitamin A From Vegetables
 
@@ -3123,6 +3231,8 @@
     <img src="https://img.youtube.com/vi/cWeXMuGZvOQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Fibrocystic Breast: The Best Remedy is...
 
@@ -3207,6 +3317,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The 7 Nutrient-Dense Foods for Keto
 
 ### 核心主題：營養密集食物的重要性
@@ -3274,6 +3386,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Fastest Way to Get Rid of Arthritis Knee Pain – Omega Fatty Acids Foods for Arthritis – Dr.Berg
 
 ### 核心主題  
@@ -3333,6 +3447,8 @@
     <img src="https://img.youtube.com/vi/tsXEBm_tSbE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Good and Bad Ways to Trigger Ketosis
 
@@ -3412,6 +3528,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 6 Benefits of a High Fat Diet
 
 # 高脂肪飲食的健康益處與常見迷思
@@ -3469,6 +3587,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Number ONE Cause of Chronic Fatigue: 50 Years or Older
 
 ### 核心主題：低胃酸與慢性疲勞的關聯（尤其是50歲以上人群）
@@ -3522,6 +3642,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Importance of Selenium for the Thyroid
 
 ### 小節整理：碘與硒在 thyroid 功能中的重要性
@@ -3574,6 +3696,8 @@
     <img src="https://img.youtube.com/vi/VRaoSg7UEZM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What Causes a Goiter? Iodine Deficiency & Thyroid Nodules – Dr.Berg
 
@@ -3635,6 +3759,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Iron Deficiency Symptoms and Causes of Anemia – Dr.Berg
 
 ### 文章整理：鐵缺乏性貧血的原因與應對策略
@@ -3692,6 +3818,8 @@
     <img src="https://img.youtube.com/vi/58ddoKMDOko/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Hidden Reason for Prostate Enlargement – Dr.Berg
 
@@ -3764,6 +3892,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Use Iodine for Skin Tags and Warts – Dr.Berg on Skin Tag Removal
 
 ### 小節結構化整理
@@ -3817,6 +3947,8 @@
     <img src="https://img.youtube.com/vi/Ntl6aTCdf8c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Black Tea: Its Most Powerful Benefit
 
@@ -3919,6 +4051,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Use Chromium Picolinate for Insulin Resistance – Benefits of Chromium – Dr. Berg
 
 ### 核心主題：  
@@ -3992,6 +4126,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Is Your Fat Giving You Inflammation?
 
 ### 核心主題
@@ -4046,6 +4182,8 @@
     <img src="https://img.youtube.com/vi/amsr6TlEaIQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Testosterone Therapy Spiking Estrogen? Why
 
@@ -4121,6 +4259,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Lose Postmenopausal Weight
 
 ### 小節化整理：如何在更年期後減肥
@@ -4174,6 +4314,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Celery Juice vs. Sodium Nitrates in Hot Dogs
 
 
@@ -4189,6 +4331,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
     <img src="https://img.youtube.com/vi/KgBFzIY7Hx4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # #1 Cause of Hypertension – Hyperinsulinemia and High Insulin Levels – Dr.Berg
 
@@ -4263,6 +4407,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # B1 Deficiency After Antibiotics
 
 ### 小節化整理
@@ -4320,6 +4466,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why Chronic Inflammation Causes Anemia (Iron Deficiency) – Anemia of Chronic Disease – Dr.Berg
 
 ### 核心主題：慢性炎症、貧血與微量元素管理
@@ -4362,6 +4510,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
     <img src="https://img.youtube.com/vi/o-HxGaqiBU4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 5 Benefits of Stinging Nettle Root
 
@@ -4419,6 +4569,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
     <img src="https://img.youtube.com/vi/r14pSzQQNnk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How Effective is Chemotherapy, Really?
 
@@ -4482,6 +4634,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
     <img src="https://img.youtube.com/vi/vEf9T73iRZw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Always Use Zinc for Diarrhea – Zinc Deficiency & Diarrhea Remedy – Dr.Berg
 
@@ -4555,6 +4709,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Spinach is the Worst Source of Iron
 
 # 文章整理： spinach 鐵質攝取之迷思與事實
@@ -4614,6 +4770,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Left Side Abdominal Pain Under Ribs – Causes & Remedies Covered by Dr. Berg
 
 ### 1. **核心主題：左側肋骨下緣疼痛的可能原因**
@@ -4662,6 +4820,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
     <img src="https://img.youtube.com/vi/b7W6Q1xStwQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Cook Eggs for Maximum Antioxidant Nutrients
 
@@ -4722,6 +4882,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
     <img src="https://img.youtube.com/vi/QXAtIQI84hI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Headaches on Keto? Do This...
 
@@ -4815,6 +4977,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # High / Low Protein in Your Blood: What Does It Mean?
 
 ### 小節歸納
@@ -4874,6 +5038,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Raynauds Syndrome – What Can you do for Raynaud's Syndrome – Dr.Berg
 
 ### 小節化整理：雷諾氏症（Raynaud's Syndrome）
@@ -4922,6 +5088,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
     <img src="https://img.youtube.com/vi/yK32xrQ_9pE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Autoimmune Conditions: Key Foods to Avoid
 
@@ -4991,6 +5159,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why Would Triglycerides Elevate on Keto? Causes of High Triglycerides on Keto – Dr.Berg
 
 ### 核心主題：酮飲食（Keto Diet）中 triglycerides（三酸甘油酯）偏高的原因與解決方法
@@ -5054,6 +5224,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 7 Unusual Vitamin B1 Deficiency Symptoms
 
 ### 文章整理與分析
@@ -5108,6 +5280,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
     <img src="https://img.youtube.com/vi/z5zv8bvbBEc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Most Common Nutrient Deficiency in the Elderly
 
@@ -5198,6 +5372,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Drinking Too Much Beer Will Deplete...
 
 ### 核心主題
@@ -5245,6 +5421,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
     <img src="https://img.youtube.com/vi/PUn3_n7Y4Ns/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Causes of High Creatinine Levels in Blood – Dr.Berg on Elevated Creatinine Levels
 
@@ -5313,6 +5491,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why Keto isn't Helping My Joint Pain? – Dr.Berg
 
 ### 小節一：核心主題  
@@ -5356,6 +5536,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
     <img src="https://img.youtube.com/vi/Th252QYGXWc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Does Fasting Increase Adrenaline?
 
@@ -5427,6 +5609,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Amazing Dr. Berg Success Story: Joseph Golisano
 
 ### 核心主題
@@ -5487,6 +5671,8 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Two Causes for GERD – Gastroesophageal Reflux Disease (Acid Reflux) – Dr.Berg
 
 ### 文章整理：GERD的兩個潛在病因及解決方案
@@ -5543,6 +5729,8 @@ GERD 的發生與多種因素有關，但通過補充維生素D和增加胃酸�
     <img src="https://img.youtube.com/vi/g7mwonjsCuI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Right-Sided Trap Tightness: An Easy Fix
 
@@ -5609,6 +5797,8 @@ GERD 的發生與多種因素有關，但通過補充維生素D和增加胃酸�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # K2 Inhibits Vascular and Joint Calcification
 
 ### 小節整理：維生素K2的功效與重要性
@@ -5665,6 +5855,8 @@ GERD 的發生與多種因素有關，但通過補充維生素D和增加胃酸�
     <img src="https://img.youtube.com/vi/gnj81A3C3xs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Important Thyroid Tips
 
@@ -5743,6 +5935,8 @@ GERD 的發生與多種因素有關，但通過補充維生素D和增加胃酸�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # My Keto Diet is NOT Working & Hypoglycemia is Back – Here is Why!! Dr.Berg
 
 ### 核心主題
@@ -5808,6 +6002,8 @@ GERD 的發生與多種因素有關，但通過補充維生素D和增加胃酸�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What’s at the Root of an Autoimmune Condition
 
 ### 文章重點整理
@@ -5861,6 +6057,8 @@ GERD 的發生與多種因素有關，但通過補充維生素D和增加胃酸�
     <img src="https://img.youtube.com/vi/WXZcFlxEgKs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 10 Benefits of L-Arginine
 
@@ -5935,6 +6133,8 @@ L-ARGININE 締造出多方面的健康益處，特別是在心血管健康、血
     <img src="https://img.youtube.com/vi/kMjpK_Iel0w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The 3rd Purpose of Your Immune System
 

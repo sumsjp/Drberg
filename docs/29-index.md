@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 40 Years of Nutrition Policy Reversed Quietly
 
 ### 小節歸納
@@ -50,6 +52,8 @@
     <img src="https://img.youtube.com/vi/xJ0g7HJKNgY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Lemon Water is Essential for Fasting
 
@@ -113,6 +117,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why is Xylitol Bad for Dogs?
 
 ### 核心主題：
@@ -153,6 +159,8 @@
     <img src="https://img.youtube.com/vi/Dh2mX_o9ZYQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What to do for Alzheimer's Disease if Nothing is Working? – The Perfect Treatment by Dr.Berg
 
@@ -200,6 +208,8 @@
     <img src="https://img.youtube.com/vi/KP8XipP3qTE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Health Benefits of a Cucumber
 
@@ -250,6 +260,8 @@
     <img src="https://img.youtube.com/vi/xpkyh_VFCzY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Is Napping Good for You? 11 Benefits of a Nap By Dr.Berg
 
@@ -327,6 +339,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Top Foods High in Vitamin B1
 
 ### 小節歸納
@@ -376,6 +390,8 @@
     <img src="https://img.youtube.com/vi/3fZ5QAi1iGo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Our Gallbladders Are Not Essential...Really?
 
@@ -427,6 +443,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # On Keto But Can't Stop Losing Weight?
 
 ### 核心主題
@@ -476,6 +494,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Highest Zinc Food in the World
 
 ### 核心主題：锌元素的重要性及其在人体中的作用
@@ -521,6 +541,8 @@
     <img src="https://img.youtube.com/vi/3S6NTcg3bFE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Does Taking Too Much Calcium (Hypercalcemia) Lead to Kidney Stones? – Dr.Berg
 
@@ -584,6 +606,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Taking Electrolytes Yet Still Cramping
 
 ### 小節一：核心主題  
@@ -623,6 +647,8 @@
     <img src="https://img.youtube.com/vi/ZvSR05wl_3g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Heart Cells Hate Alcohol
 
@@ -678,6 +704,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Keto Snacks: Not a Good Idea!
 
 ### 核心主題  
@@ -727,6 +755,8 @@
     <img src="https://img.youtube.com/vi/4pVEedOSXT8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The 11 Benefits of Lecithin
 
@@ -780,6 +810,8 @@
     <img src="https://img.youtube.com/vi/fCP6QxklqI4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 12 Complications of Having Your Gallbladder Removed
 
@@ -847,6 +879,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why Use Cod Liver Oil for Eczema? Remedies for Eczema – Dr. Berg
 
 ### 小節整理：Cod Liver Oil 在治療濕疹中的作用
@@ -899,6 +933,8 @@
     <img src="https://img.youtube.com/vi/yN8XOUcOcXA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Are Nuts a Protein or a Fat?
 
@@ -962,6 +998,8 @@
     <img src="https://img.youtube.com/vi/g-cchLeHwrM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How Fasting Affects Your Body
 
@@ -1040,6 +1078,8 @@ Fasting, an ancient practice gaining modern scientific attention, exhibits profo
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # When Does Fasting Turn Into Starving?
 
 ### 文章重點整理
@@ -1092,6 +1132,8 @@ Fasting, an ancient practice gaining modern scientific attention, exhibits profo
     <img src="https://img.youtube.com/vi/Qf27HdWFzj0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Do This for Attention Deficit Hyperactivity Disorder – Omega 3 Fatty Acids For ADHD – Dr.Berg
 
@@ -1158,6 +1200,8 @@ Fasting, an ancient practice gaining modern scientific attention, exhibits profo
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # #1 Sign That Your Kid is Eating Too Much Sugar
 
 ### 文章重點整理
@@ -1204,6 +1248,8 @@ Fasting, an ancient practice gaining modern scientific attention, exhibits profo
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Use Bile Salts for SIBO (Small Intestinal Bacterial Overgrowth) –  Dr. Berg
 
 ### 文章重點整理
@@ -1249,6 +1295,8 @@ Fasting, an ancient practice gaining modern scientific attention, exhibits profo
     <img src="https://img.youtube.com/vi/1k59m6gs7hU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Dr. Berg Interviews Siim Land on Fasting, Autophagy and More
 
@@ -1300,6 +1348,8 @@ Fasting, an ancient practice gaining modern scientific attention, exhibits profo
     <img src="https://img.youtube.com/vi/BoomsBmRGbg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Is Your Kid a Picky Eater? Do This...
 
@@ -1373,6 +1423,8 @@ Fasting, an ancient practice gaining modern scientific attention, exhibits profo
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Always Fast During an Infection
 
 ### 重點整理
@@ -1435,6 +1487,8 @@ Fasting, an ancient practice gaining modern scientific attention, exhibits profo
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Endurance Exercise Can Damage Your Heart
 
 ### 核心主題：耐力運動與心臟健康
@@ -1485,6 +1539,8 @@ Fasting, an ancient practice gaining modern scientific attention, exhibits profo
     <img src="https://img.youtube.com/vi/zCpthHQVcC8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Always Fast 12 Hours Before Your Cholesterol Test
 
@@ -1538,6 +1594,8 @@ Fasting, an ancient practice gaining modern scientific attention, exhibits profo
     <img src="https://img.youtube.com/vi/I9Bz_TBvd9A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Cavities: The 2nd Most Common Disease Worldwide...but Why?
 
@@ -1629,6 +1687,8 @@ Cavities 作為全球性健康問題，其發生與微生物、飲食習慣和�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Olive Oil Scam that You Need to Know About
 
 ### 核心主題
@@ -1668,6 +1728,8 @@ Cavities 作為全球性健康問題，其發生與微生物、飲食習慣和�
     <img src="https://img.youtube.com/vi/EsyoLmUzBb0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Yogurt vs. Ice Cream: Which is Worse?
 
@@ -1709,6 +1771,8 @@ Cavities 作為全球性健康問題，其發生與微生物、飲食習慣和�
     <img src="https://img.youtube.com/vi/G_kVwG2wFWI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Get Rid of Stiffness and Feel a Lot Younger – Muscle Soreness & Stiffness – Dr.Berg
 
@@ -1794,6 +1858,8 @@ Cavities 作為全球性健康問題，其發生與微生物、飲食習慣和�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Blood Sugar Levels High Despite Keto and Fasting?
 
 
@@ -1809,6 +1875,8 @@ Cavities 作為全球性健康問題，其發生與微生物、飲食習慣和�
     <img src="https://img.youtube.com/vi/87qAnrI4sAs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Potato Chips vs. Corn Chips: What's Worse?
 
@@ -1941,6 +2009,8 @@ Cavities 作為全球性健康問題，其發生與微生物、飲食習慣和�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Vitamin D Testing Challenges
 
 ### 核心主題：維生素D測試的挑戰與影響因素
@@ -1995,6 +2065,8 @@ Cavities 作為全球性健康問題，其發生與微生物、飲食習慣和�
     <img src="https://img.youtube.com/vi/rbWaj-NfbvM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Does Skipping Meals Worsen Your Metabolism?
 
@@ -2054,6 +2126,8 @@ Cavities 作為全球性健康問題，其發生與微生物、飲食習慣和�
     <img src="https://img.youtube.com/vi/xeNIHeD2tOg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Stalled Weight Loss Despite Intermittent Fasting
 
@@ -2162,6 +2236,8 @@ Cavities 作為全球性健康問題，其發生與微生物、飲食習慣和�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Bread vs. Potato: What's Worse?
 
 ### 文章整理：「比較馬鈴薯與麵包對血糖及健康的影響」
@@ -2250,6 +2326,8 @@ Cavities 作為全球性健康問題，其發生與微生物、飲食習慣和�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # At What Blood Sugar Level Does the Damage Begin?
 
 ### 核心主題  
@@ -2307,6 +2385,8 @@ Cavities 作為全球性健康問題，其發生與微生物、飲食習慣和�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Melancholy – The Real Cause of Melancholic Depression – Dr.Berg
 
 ### 核心主題：Melancholy（憂郁）及其與膽汁分泌的關係
@@ -2357,6 +2437,8 @@ Cavities 作為全球性健康問題，其發生與微生物、飲食習慣和�
     <img src="https://img.youtube.com/vi/q82KtaQsOBA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # You Cannot Make Vitamin D Without Cholesterol
 
@@ -2442,6 +2524,8 @@ Cavities 作為全球性健康問題，其發生與微生物、飲食習慣和�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 7 Early Signs of Kidney Disease
 
 ### 核心主題：腎臟疾病的早期跡象與健康管理
@@ -2489,6 +2573,8 @@ Cavities 作為全球性健康問題，其發生與微生物、飲食習慣和�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What Causes Clubbing of the Nail?
 
 ### 小節一：核心主題  
@@ -2529,6 +2615,8 @@ Cavities 作為全球性健康問題，其發生與微生物、飲食習慣和�
     <img src="https://img.youtube.com/vi/0p-yUAvZlSg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Best Herbs for Liver Cirrhosis
 
@@ -2575,6 +2663,8 @@ Cavities 作為全球性健康問題，其發生與微生物、飲食習慣和�
     <img src="https://img.youtube.com/vi/w_Su41RIJ78/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Amazing Benefits of Berberine
 
@@ -2623,6 +2713,8 @@ Berberine 是一种多用途的天然化合物，具有广泛的研究支持，�
     <img src="https://img.youtube.com/vi/ftijsgu6yb8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Will Eating Less Slow Down Metabolism?
 
@@ -2688,6 +2780,8 @@ Berberine 是一种多用途的天然化合物，具有广泛的研究支持，�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Glucagon Triggers Ketosis, Insulin Blocks It
 
 ### 小節整理：Glucagon的功能及其在代謝中的作用
@@ -2742,6 +2836,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/ql_OUUnzWg4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Do You Need Fat to Stay in Ketosis?
 
@@ -2823,6 +2919,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Best Foods for Gallstones
 
 # 文章重點整理：膽石症的飲食管理與預防
@@ -2881,6 +2979,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/9xSeNioMQkY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Stress Destroys the Ability to Experience Pleasure
 
@@ -2949,6 +3049,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Zinc Deficiency and Your Liver Problems – Symptoms of Zinc Deficiency – Dr.Berg
 
 ### 核心主題：鋅與肝臟健康的關係
@@ -3007,6 +3109,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Best Tips for a Heavy Period (Menstrual Cycle) – Painful Periods – Dr.Berg
 
 ### 核心主題  
@@ -3053,6 +3157,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/dcrQFs4wVOo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Best Remedy for Cardiac Arrhythmias
 
@@ -3129,6 +3235,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/waRdD_UvcNg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Abdominal Pain Assessment – Figuring Out Your Abdominal Pain – Dr.Berg
 
@@ -3225,6 +3333,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What Makes Sugar Addictive
 
 ### 核心主題
@@ -3293,6 +3403,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Butter vs. Coconut Oil: Which One is Healthier?
 
 ### 小節歸納
@@ -3359,6 +3471,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Fascinating Interview with Dr. Chris Knobbe on Vegetable Oils and Macular Degeneration
 
 ### 小節整理
@@ -3408,6 +3522,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/jnZhmiz4YcY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Only Food that Will Not Break a Fast
 
@@ -3477,6 +3593,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Stomach Growling is a Symptom of...
 
 ### 文章重點整理
@@ -3538,6 +3656,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/n5En7I0zVP0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Herbs That Counter Aging
 
@@ -3606,6 +3726,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The OTHER Cause of Sciatica Pain
 
 ### 小節化整理
@@ -3660,6 +3782,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Spike Your Omega-3 Fats with Bile Salts
 
 ### 重點整理
@@ -3711,6 +3835,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/QB2ZpRmIfr8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why Your Muscles Need Most of Your Potassium
 
@@ -3776,6 +3902,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/gzqzY69wbQ8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Best Way to Tell Arsenic Poisoning
 
@@ -3845,6 +3973,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Do This Before Your Detox: IMPORTANT
 
 ### 中文摘要  
@@ -3898,6 +4028,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/rSn5j4OSggI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Is Coconut Oil Going to Raise Your Cholesterol?
 
@@ -3960,6 +4092,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The 8 Benefits of Alpha-Lipoic Acid
 
 
@@ -3975,6 +4109,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/73ixhePSKeA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Best Type of Vitamin E is...
 
@@ -4033,6 +4169,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Your Stress May Be Preventing Full Ketosis
 
 
@@ -4048,6 +4186,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/RHjX7A02rqc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Bulletproof Your Immune System Course
 
@@ -4088,6 +4228,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/bmwNw89bl6o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Excessive Thirst Causes and Remedies – Dr.Berg
 
@@ -4173,6 +4315,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Your Fatty Pancreas Caused Your Diabetes
 
 ### 文章重點整理
@@ -4229,6 +4373,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/HB12om9j86Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Best Herbs for AIDS (Acquired Immunodeficiency Syndrome)
 
@@ -4292,6 +4438,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/54CNX4Znwj0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # A Common Keto Fat Ingredient That Will Stop Keto
 
@@ -4369,6 +4517,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How Much Zinc is Too Toxic?
 
 ### 文章整理：锌的毒性效应及其对免疫系统的影响
@@ -4411,6 +4561,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/vZRWkboolT4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Vitamin E Reverses a Fatty Liver – Detoxify Fatty Liver Disease – Dr.Berg
 
@@ -4473,6 +4625,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 8 Benefits of Milk Thistle for the Liver
 
 
@@ -4488,6 +4642,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/ZzTxDaX2jgk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # When to Lower Your Dietary Fat on Keto
 
@@ -4559,6 +4715,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Autonomic Neuropathy: Common Underdiagnosed Problem
 
 ### 文章整理：自主神經神經病（Autonomic Neuropathy）
@@ -4624,6 +4782,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/0liyz4vpksU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 9 Signs of Toxin Build-up in the Liver
 
@@ -4695,6 +4855,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Enhance Autophagy with Coffee and Herbs
 
 ### 文章重點整理
@@ -4746,6 +4908,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/ioiR1XqA55U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Leptin is an Immune Hormone
 
@@ -4808,6 +4972,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/2xY7Yxus8JU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Vitamin D, Bile, and Your Gallbladder
 
@@ -4886,6 +5052,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Vitamin K2 Goes Beyond Bone Health
 
 ### 核心主題：維生素K2的功能及其健康影響
@@ -4943,6 +5111,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/ORIg8qCgdX8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Problem With Preventing a Heart Attack
 
@@ -5027,6 +5197,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # For Leg Cramps at Night Do This
 
 ### 核心主題
@@ -5073,6 +5245,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/08HdsSlWuhs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Use Fasting To Get Rid of Chronic Pain – Intermittent Fasting & Chronic Pain Relief – Dr.Berg
 
@@ -5140,6 +5314,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Apple Cider Vinegar vs White Vinegar: The Big Difference
 
 ### 核心主題  
@@ -5205,6 +5381,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Worst Type of Fasting is...
 
 ### 小節歸納
@@ -5246,6 +5424,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
     <img src="https://img.youtube.com/vi/ZomvKGvaIgQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why Eggs Protect Your Liver if You're Postmenopausal?
 
@@ -5309,6 +5489,8 @@ Glucagon 是調節血糖和脂肪代謝的重要激素。理解其功能及其�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Will MCT Oil Break a Fast?
 
 ### 文章整理與分析
@@ -5369,6 +5551,8 @@ MCT油在斷食中具有重要作用，可幫助快速進入酮症並提供多�
     <img src="https://img.youtube.com/vi/02o135UdS-A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Ghaida's Success Story | How She Regained Her Health After 45 Years of Obesity, Depression, Diseases
 
@@ -5440,6 +5624,8 @@ MCT油在斷食中具有重要作用，可幫助快速進入酮症並提供多�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What Fasting Does to Growth Hormone
 
 ### 核心主題：禁食對生長激素的影響及其對健康的益處
@@ -5476,6 +5662,8 @@ MCT油在斷食中具有重要作用，可幫助快速進入酮症並提供多�
     <img src="https://img.youtube.com/vi/2qyq8eE3_ZQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The 5 Tips to STOP Grazing & Snacking
 
@@ -5569,6 +5757,8 @@ MCT油在斷食中具有重要作用，可幫助快速進入酮症並提供多�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Key Nutrients and Herbs for Fasting
 
 # 關於斷食期間應攝取之營養素的整理與分析
@@ -5615,6 +5805,8 @@ MCT油在斷食中具有重要作用，可幫助快速進入酮症並提供多�
     <img src="https://img.youtube.com/vi/kutmypUbuqE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Nausea Remedies – Best Way to Get Rid of Nausea – Dr.Berg
 
@@ -5693,6 +5885,8 @@ MCT油在斷食中具有重要作用，可幫助快速進入酮症並提供多�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Use Apple Cider Vinegar for Muscle Spasm/Cramps – Dr.Berg
 
 ### 文章整理：Apple Cider Vinegar 在肌肉痙攣中的作用
@@ -5758,6 +5952,8 @@ Apple Cider Vinegar 可能通過多種機制（如促進乙酰膽鹼形成、酸
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Vitamin D Deficiency Can Cause Liver Disease
 
 ### 文章重點整理
@@ -5808,6 +6004,8 @@ Apple Cider Vinegar 可能通過多種機制（如促進乙酰膽鹼形成、酸
     <img src="https://img.youtube.com/vi/Sk8VdjeZZio/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What is Histamine Intolerance? High Histamine Foods to Avoid – Dr.Berg
 
@@ -5902,6 +6100,8 @@ Apple Cider Vinegar 可能通過多種機制（如促進乙酰膽鹼形成、酸
     <img src="https://img.youtube.com/vi/mLpd2ubu3og/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Best Fatty Liver Exercise – Treatment of Fatty Liver – Dr.Berg
 

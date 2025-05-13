@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Perfect Intermittent Fasting Ratio for Maximum Weight Loss (Fat Burning) – Dr.Berg
 
 ### 小節歸納
@@ -52,6 +54,8 @@
     <img src="https://img.youtube.com/vi/vjMYfJaYxjw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Can I Eat Pomegranates on a Ketogenic Diet? – Dr. Berg on Keto Friendly Fruits
 
@@ -101,6 +105,8 @@
     <img src="https://img.youtube.com/vi/-lE1r4d7nHg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why Is Dried Fruit Bad For You? – Dr. Berg On Sugar In Fruits
 
@@ -192,6 +198,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why Alkalizing Your Entire Body Is Dangerous? – Dr. Berg
 
 ### 小節歸納
@@ -249,6 +257,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Natural Ways to Raise Dopamine Levels – Dr. Berg
 
 ### 文章整理： dopamine 的作用與管理
@@ -303,6 +313,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Fruit Fructose vs. High Fructose Corn Syrup (HFCS) – Dr. Berg﻿ on Artificial Sweeteners
 
 ### 小節一：核心主題  
@@ -355,6 +367,8 @@
     <img src="https://img.youtube.com/vi/JZzoSGiyWUg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The 4 Causes of Feeling Too Cold – Dr. Berg
 
@@ -433,6 +447,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Subclinical Vitamin B1 Deficiency: Causes & Symptoms By Dr. Berg
 
 ### 核心主題：亞clinical維生素B1缺乏症  
@@ -473,6 +489,8 @@
     <img src="https://img.youtube.com/vi/H5qsjl1_gH8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Excessive Thinking, Focus & Adrenal Function Explained By Dr. Berg
 
@@ -537,6 +555,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Can't Stop Late Night Snacking (Grazing) on Intermittent Fasting? – Simple Tips by Dr. Berg
 
 
@@ -552,6 +572,8 @@
     <img src="https://img.youtube.com/vi/M7Ijg9d8p8g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Dangers of Sugar – Karen & Dr.Berg's Discussion
 
@@ -623,6 +645,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Wheatgrass Juice Powder and Mineral-Rich Soils – Dr. Berg’s Interview
 
 ### 小節整理
@@ -671,6 +695,8 @@
     <img src="https://img.youtube.com/vi/cjNuUz1CWb0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How Does Intermittent Fasting Boost The Immune System? – Dr.Berg
 
@@ -731,6 +757,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What is the Best Food for Good (Friendly) Bacteria? – Dr. Berg
 
 ### 核心主題  
@@ -769,6 +797,8 @@
     <img src="https://img.youtube.com/vi/-9B73k9CxP8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # High & Low Lectin Foods & Digestive Problems Explained by Dr.Berg
 
@@ -832,6 +862,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Benefits of Butter: Why Butter Helps You Lose Weight – Dr. Berg
 
 ### 核心主題
@@ -876,6 +908,8 @@
     <img src="https://img.youtube.com/vi/QTWPnJ8T4hk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why Saturated Fats Are Healthy – Real Reasons Explained By Dr. Berg
 
@@ -941,6 +975,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Hepatitis C Treatment – The Best Hepatitis C Natural Remedies By Dr. Berg
 
 ### 小節整理： hepatitis C 的治療與管理
@@ -999,6 +1035,8 @@
     <img src="https://img.youtube.com/vi/khq99iz9iV8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Eating When Not Hungry During Ketosis or Intermittent Fasting? – Dr. Berg
 
@@ -1072,6 +1110,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Nutritional Benefits of Sprouts Explained By Dr. Berg
 
 # 文章整理與分析
@@ -1119,6 +1159,8 @@
     <img src="https://img.youtube.com/vi/sfYomzrUjN8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Sleeping Schedule: Your SLEEP and Working 3rd Shift – Dr.Berg
 
@@ -1169,6 +1211,8 @@
     <img src="https://img.youtube.com/vi/yTTX2yBEeIU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Keto Friendly Onion Crackers Recipe – Dr.Berg
 
@@ -1224,6 +1268,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Understanding Food Labels: What To Focus On – Dr. Berg
 
 # 营养标签阅读指南：关键要点解析
@@ -1275,6 +1321,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Make Quiche – Keto Friendly Recipe – Dr. Berg
 
 ### 文章重點整理
@@ -1315,6 +1363,8 @@
     <img src="https://img.youtube.com/vi/lPeOKjOmnG0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How To Prevent Diabetes & its Complications Explained By Dr. Berg
 
@@ -1377,6 +1427,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Intermittent Fasting – Bigger Meals – Avoiding Excessive Bloating – Dr. Berg
 
 ### 核心主題  
@@ -1428,6 +1480,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Is Bottled Lemon Juice Rich in Vitamin C? – Dr.Berg
 
 ### 核心主題
@@ -1466,6 +1520,8 @@
     <img src="https://img.youtube.com/vi/zUIZBIN_8EQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Weight Loss Plateau 101 for a Slow Metabolism – Dr.Berg
 
@@ -1513,6 +1569,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Keto Biscuits Recipe by Dr.Berg
 
 ### 核心主題：尋找適合載體的榖物產品
@@ -1554,6 +1612,8 @@
     <img src="https://img.youtube.com/vi/dyDxb6Ysw4o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Raw Foods vs. Cooked Foods and Enzymes – Dr.Berg
 
@@ -1625,6 +1685,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Use Thyme Oil & Intermittent Fasting for Candida – Dr. Berg
 
 ### 核心主題
@@ -1664,6 +1726,8 @@
     <img src="https://img.youtube.com/vi/Yb4HPDw3mIs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Key Vitamins & Minerals on a Ketogenic Diet Plan – Dr.Berg
 
@@ -1726,6 +1790,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What is ORAC (Oxygen Radical Absorbance Capacity): Antioxidant Rating – Dr.Berg
 
 ### 小節歸納：
@@ -1769,6 +1835,8 @@
     <img src="https://img.youtube.com/vi/xLKVNHn6Fy8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Weight Loss Problem: Overweight People Have Hard Time Losing Fat – Dr. Berg
 
@@ -1825,6 +1893,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Keto And Cholesterol: Why LDL Can Increase on Low Carb Diet – Dr. Berg
 
 ### 核心主題  
@@ -1872,6 +1942,8 @@
     <img src="https://img.youtube.com/vi/Y-SOmLTahfI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What is "Too Much" Fat on Keto (ketogenic diet)? – Dr. Berg
 
@@ -1922,6 +1994,8 @@
     <img src="https://img.youtube.com/vi/OlP9j1Z2Qbo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Vitamin B1 Deficiency Symptoms in Diabetes & Hypoglycemia – Dr.Berg
 
@@ -1999,6 +2073,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Glycemic Index vs Glycemic Load (In Simple Terms) – Dr. Berg
 
 ### 文章重點整理
@@ -2055,6 +2131,8 @@
     <img src="https://img.youtube.com/vi/F9PmycCGC14/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Keto Success Stories – Lost 80 Pounds On Keto – Dr. Berg's Skype Interview With Jennifer Rogers
 
@@ -2122,6 +2200,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Fructose: The Most Dangerous Sugar for Belly – Dr. Berg
 
 ### 文章整理：高果糖玉米 syrup的危害及健康建議
@@ -2185,6 +2265,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Eat More Calories To Lose More Weight (Adding Intermittent Fasting) – Dr. Berg
 
 ### 文章整理
@@ -2246,6 +2328,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Endometriosis: Causes, Symptoms & Link With Iodine – Dr. Berg
 
 ### 文章重點整理
@@ -2291,6 +2375,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Never Get Dental Cavities (Decay)? – Permanent Solution by Dr. Berg
 
 ### 核心主題  
@@ -2328,6 +2414,8 @@
     <img src="https://img.youtube.com/vi/FPJOpeYXeao/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Carotenoids: Antioxidant on Steroids – Dr. Berg
 
@@ -2390,6 +2478,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Keto Diet & Kidney Disease – Dr. Berg
 
 ### 小節一：核心主題  
@@ -2441,6 +2531,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Two Causes of Coronary Heart Disease (It's Not Saturated Fat) – Dr. Berg
 
 ### 核心主題
@@ -2490,6 +2582,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How To Germinate Seeds And Nuts Fast – Dr. Berg
 
 ### 小芻部整理
@@ -2536,6 +2630,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
     <img src="https://img.youtube.com/vi/KbLAe1T7mUw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Friendly Bacteria: Why You Really Need And how it Helps – Dr. Berg
 
@@ -2589,6 +2685,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
     <img src="https://img.youtube.com/vi/Y13hVozxXD0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why is High Blood Sugar Levels So Bad? – Dr. Berg
 
@@ -2650,6 +2748,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Difference Between Whole Grains and Refined Grains Explained By Dr. Berg
 
 ### 文章重點歸納
@@ -2700,6 +2800,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
     <img src="https://img.youtube.com/vi/TF3tAPqcRTg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Benefits of Selenium in Brazil Nuts Explained by Dr. Berg
 
@@ -2771,6 +2873,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What Causes Painful, Numb or Tingling Feet? – Dr. Berg
 
 ### 核心主題：Plantar Fasciitis 的病因與足部疼痛的可能原因
@@ -2808,6 +2912,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
     <img src="https://img.youtube.com/vi/I__vEHcBC5I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Gymnema Herb: The Best Herb for Sugar & Carb Cravings – Dr.Berg
 
@@ -2849,6 +2955,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
     <img src="https://img.youtube.com/vi/tFwiX1jFpwQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Is Keto (Ketogenic Diet) Safe for Kids? – Dr. Berg
 
@@ -2919,6 +3027,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Losing Weight on Keto Diet With Dr.Berg & Shane Jones
 
 ### 文章重點整理
@@ -2984,6 +3094,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why Apple Cider Vinegar Helps You Lose Belly Fat – ACV for Weight Loss – Dr. Berg
 
 ### 小節歸納
@@ -3038,6 +3150,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
     <img src="https://img.youtube.com/vi/bEEgMvsShLY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Best Ear Pain Remedy – Dr. Berg
 
@@ -3106,6 +3220,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Computer Screen (LED) Blue Light Destroying Your Sleep and Eyes?
 
 ### 小節：核心主題  
@@ -3142,6 +3258,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
     <img src="https://img.youtube.com/vi/JlSeo4X1jGE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Best Sleep Tip Shared By Dr. Berg
 
@@ -3180,6 +3298,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
     <img src="https://img.youtube.com/vi/gzwtHkUaOfk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Hypoglycemia (Low Blood Sugar) Camouflaged as Anxiety & Depression – Dr. Berg
 
@@ -3225,6 +3345,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Green Banana and Plantains on Ketogenic Diet Explained By Dr. Berg
 
 
@@ -3240,6 +3362,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
     <img src="https://img.youtube.com/vi/4L3xHtI8eQA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # High Levels of BUN (Blood Urea Nitrogen) on a Ketogenic Diet – Dr. Berg
 
@@ -3329,6 +3453,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What is Vitiligo Explained By Dr. Berg
 
 ### 文章重點整理
@@ -3396,6 +3522,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Dog Fasting: Is Intermittent Fasting Safe For Your Pets? – Dr. Berg
 
 ### 核心主題  
@@ -3456,6 +3584,8 @@ Carotenoids 是一種多麼重要且多功能的植物化合物，它們在護�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Men Using DIM for High Estrogen & Low Testosterone - Dr. Berg
 
 ### 核心主題
@@ -3503,6 +3633,8 @@ DIM作為一種有效的化合物，在調節性激素平衡中具有重要作�
     <img src="https://img.youtube.com/vi/KYCoep237nQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Benefits of One Meal a Day Intermittent Fasting – Dr. Berg
 
@@ -3561,6 +3693,8 @@ DIM作為一種有效的化合物，在調節性激素平衡中具有重要作�
     <img src="https://img.youtube.com/vi/KIlFPzGvbCM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Is Exercise Good or Bad for Sleep? Facts Explained By Dr. Berg
 
@@ -3630,6 +3764,8 @@ DIM作為一種有效的化合物，在調節性激素平衡中具有重要作�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Insulin Resistance And Electrolyte Absorption Explained By Dr. Berg
 
 ### 小節歸納
@@ -3667,6 +3803,8 @@ DIM作為一種有效的化合物，在調節性激素平衡中具有重要作�
     <img src="https://img.youtube.com/vi/-zh5sZwodM8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Diabetes Diet For Type 1 and Type 2 Difference Explained By Dr. Berg
 
@@ -3720,6 +3858,8 @@ DIM作為一種有效的化合物，在調節性激素平衡中具有重要作�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How To Fix Cravings For Carbs All The Time – Dr. Berg
 
 
@@ -3735,6 +3875,8 @@ DIM作為一種有效的化合物，在調節性激素平衡中具有重要作�
     <img src="https://img.youtube.com/vi/3phonr5PUZw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Low Blood Sugar Issues on Keto Diet - Dr. Berg
 
@@ -3794,6 +3936,8 @@ DIM作為一種有效的化合物，在調節性激素平衡中具有重要作�
     <img src="https://img.youtube.com/vi/noJunjkx-A8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Keto Diet and Pregnancy: Is It Safe If Pregnant or Breastfeeding? – Dr. Berg
 
@@ -3855,6 +3999,8 @@ DIM作為一種有效的化合物，在調節性激素平衡中具有重要作�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Best Source to Get Fiber in Your Diet – Benefits of Fiber Explained By Dr. Berg
 
 ### 核心主題  
@@ -3893,6 +4039,8 @@ DIM作為一種有效的化合物，在調節性激素平衡中具有重要作�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How Much Wheatgrass Juice Powder Equals How Much Salad? – Dr. Berg
 
 ### 核心主題  
@@ -3930,6 +4078,8 @@ DIM作為一種有效的化合物，在調節性激素平衡中具有重要作�
     <img src="https://img.youtube.com/vi/yZw3nU7vVvI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What is PABA? Explained by Dr. Berg
 
@@ -3979,6 +4129,8 @@ DIM作為一種有效的化合物，在調節性激素平衡中具有重要作�
     <img src="https://img.youtube.com/vi/7FtBAr5sG8k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Benefits of Apigenin: The Powerful Phytonutrient – Dr. Berg
 
@@ -4045,6 +4197,8 @@ Apigenin 作為一種多功能植物營養素，在抗衰老、排毒、抗癌�
     <img src="https://img.youtube.com/vi/skc_QbNtEa0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Using DIM for High Androgens to Help with Facial Hair, Cystic Acne, and Alopecia - Dr. Berg
 
@@ -4115,6 +4269,8 @@ Apigenin 作為一種多功能植物營養素，在抗衰老、排毒、抗癌�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Type 2 Diabetes Cure With Two Things – Dr. Berg
 
 ### 核心主題  
@@ -4171,6 +4327,8 @@ Apigenin 作為一種多功能植物營養素，在抗衰老、排毒、抗癌�
     <img src="https://img.youtube.com/vi/kUE8nl5R6bk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 9 Common Keto Diet Mistakes Everyone Makes – Dr. Berg
 
@@ -4234,6 +4392,8 @@ Apigenin 作為一種多功能植物營養素，在抗衰老、排毒、抗癌�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How To Fix Oily Skin With Simple Hack – Dr. Berg
 
 ### 核心主題  
@@ -4295,6 +4455,8 @@ Apigenin 作為一種多功能植物營養素，在抗衰老、排毒、抗癌�
     <img src="https://img.youtube.com/vi/5jsEi4a8eWQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Pumpkin Seeds: Nutrient Dense and Healthy Fats | Dr. Berg
 
@@ -4363,6 +4525,8 @@ Apigenin 作為一種多功能植物營養素，在抗衰老、排毒、抗癌�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why Do Doctors Give Insulin Injections To Type-2 Diabetes Patients? – Dr. Berg
 
 ### 核心主題
@@ -4402,6 +4566,8 @@ Apigenin 作為一種多功能植物營養素，在抗衰老、排毒、抗癌�
     <img src="https://img.youtube.com/vi/lTiUM0AXge8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 7 Amazing Health Benefits of Chamomile Tea – Dr. Berg
 
@@ -4445,6 +4611,8 @@ Apigenin 作為一種多功能植物營養素，在抗衰老、排毒、抗癌�
     <img src="https://img.youtube.com/vi/jGkGvDyAokQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Best Snacks Food for Low Blood Sugar – Dr. Berg
 
@@ -4493,6 +4661,8 @@ Apigenin 作為一種多功能植物營養素，在抗衰老、排毒、抗癌�
     <img src="https://img.youtube.com/vi/_lqhgxxtGGQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How To Diagnose Diabetes? – Dr. Berg
 
@@ -4571,6 +4741,8 @@ Dr. Burg 强調，糖尿病的診斷不应依賴单一指標。通過綜合多�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What is Glutathione?
 
 ### 核心主題
@@ -4628,6 +4800,8 @@ Dr. Burg 强調，糖尿病的診斷不应依賴单一指標。通過綜合多�
     <img src="https://img.youtube.com/vi/1UL9Cg2FqWI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How To Find A Healthy Salad Dressing? – Dr. Berg
 
@@ -4689,6 +4863,8 @@ Dr. Burg 强調，糖尿病的診斷不应依賴单一指標。通過綜合多�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 10 Amazing Health Benefits of Onion – Dr. Berg
 
 ### 核心主題
@@ -4727,6 +4903,8 @@ Dr. Burg 强調，糖尿病的診斷不应依賴单一指標。通過綜合多�
     <img src="https://img.youtube.com/vi/gAQYXs249fU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What is Astaxanthin, Its Sources & Benefits – Dr. Berg
 
@@ -4778,6 +4956,8 @@ Dr. Burg 强調，糖尿病的診斷不应依賴单一指標。通過綜合多�
     <img src="https://img.youtube.com/vi/eLoY-rU63nU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What is Tamoxifen, It's Uses & Side Effects – Dr. Berg
 
@@ -4856,6 +5036,8 @@ Dr. Burg 强調，糖尿病的診斷不应依賴单一指標。通過綜合多�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Nutrients in Kale, Beef & Coconut Oil – Dr. Berg
 
 ### 文章整理：營養成分比較——碳水化合物、蛋白質或脂肪哪種更有營養？
@@ -4931,6 +5113,8 @@ Dr. Burg 强調，糖尿病的診斷不应依賴单一指標。通過綜合多�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Dr. Berg’s Opinion on Causes of Rosacea and Its Treatment
 
 # 文章整理：玫瑰痤瘡的原因與治療
@@ -4984,6 +5168,8 @@ Dr. Burg 强調，糖尿病的診斷不应依賴单一指標。通過綜合多�
     <img src="https://img.youtube.com/vi/tLnK3otIVPA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Keto Is Not For Me, I Feel Better On High Carb Diet – Dr. Berg
 
@@ -5073,6 +5259,8 @@ Dr. Burg 强調，糖尿病的診斷不应依賴单一指標。通過綜合多�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How Much Rest & Recovery Do We Need After Workout? – Dr. Berg on Exercise and Recovery
 
 
@@ -5088,6 +5276,8 @@ Dr. Burg 强調，糖尿病的診斷不应依賴单一指標。通過綜合多�
     <img src="https://img.youtube.com/vi/gRe66ODfwiA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Amazing Weight Loss Success – 610 to 264 Pound – Dr.Berg's Skype Interview With Steven Schaafsma
 
@@ -5152,6 +5342,8 @@ Dr. Burg 强調，糖尿病的診斷不应依賴单一指標。通過綜合多�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Mycotoxins & Joint Stiffness Pain – Causes, Symptoms & Remedy By Dr. Berg
 
 ### 文章重點整理
@@ -5196,6 +5388,8 @@ Dr. Burg 强調，糖尿病的診斷不应依賴单一指標。通過綜合多�
     <img src="https://img.youtube.com/vi/5kU9iAEJ_OA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Mercury Fish: Eating Salmon Is NOT an Issue – Dr. Berg
 
@@ -5250,6 +5444,8 @@ Dr. Burg 强調，糖尿病的診斷不应依賴单一指標。通過綜合多�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Tea Tree Oil Benefits (1 Minute Video) Explained By Dr. Berg
 
 ### 核心主題：茶樹油的功效與應用
@@ -5288,6 +5484,8 @@ Dr. Burg 强調，糖尿病的診斷不应依賴单一指標。通過綜合多�
     <img src="https://img.youtube.com/vi/i8lwEf9Tp3I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why Liver Cleanse and Gallbladder Detoxification Are a Waste of Time – Dr. Berg
 
@@ -5345,6 +5543,8 @@ Dr. Burg 强調，糖尿病的診斷不应依賴单一指標。通過綜合多�
     <img src="https://img.youtube.com/vi/jZ89N4xRDDU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Mercury Fish List: What Fish Should I Eat to Avoid Mercury? – Dr. Berg
 

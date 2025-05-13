@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The FASTEST Way to Lose Cellulite
 
 好的，我將為您整理文稿。
@@ -63,6 +65,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # THIS Lowers Blood Sugar Levels FASTER than Anything Else
 
 
@@ -78,6 +82,8 @@
     <img src="https://img.youtube.com/vi/PctECZdenuc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Your Skin Is WARNING You (Don’t Ignore This!)
 
@@ -153,6 +159,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # DO NOT Fail This Brain Test (For Early Dementia)
 
 ## 文稿整理：早期失智症的脑部测试与逆转策略
@@ -218,6 +226,8 @@
     <img src="https://img.youtube.com/vi/SHvL0_jvYGs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The #1 BEST Collagen-RICH Food (That NO ONE Is Talking About)
 
@@ -300,6 +310,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why Men Are Fading: The Hidden Testosterone Crisis
 
 好的，這是根據您提供的文稿整理後的版本，我盡量保留了原文的重點和語氣，並進行了結構調整和潤飾，使其更易於閱讀和理解。
@@ -378,6 +390,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The #1 BEST Remedy for Dental Plaque (TARTAR)
 
 好的，以下為文稿整理，分成幾個重點與步驟，並加入了一些建議性的標題：
@@ -452,6 +466,8 @@
     <img src="https://img.youtube.com/vi/0p7JvFrEqiQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # I Started Doing This… It Changed Everything
 
@@ -530,6 +546,8 @@
     <img src="https://img.youtube.com/vi/iJgti1K5A9g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Depression Has NOTHING to Do With Your Brain
 
@@ -610,6 +628,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # They Got ADHD All Wrong — And I Can Prove It
 
 
@@ -625,6 +645,8 @@
     <img src="https://img.youtube.com/vi/Cqk7MOeKAXg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Sugar vs. Cocaine: Which Is Worse for Your Brain?
 
@@ -693,6 +715,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # My Best Tips of All Time: Dr. Berg [Upgrade Version]
 
 好的，這是針對您提供的文稿，我整理後的版本，更加清晰易懂：
@@ -757,6 +781,8 @@
     <img src="https://img.youtube.com/vi/ELokmLIus-Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # #1 Best Food to Unclog Arteries
 
@@ -829,6 +855,8 @@
     <img src="https://img.youtube.com/vi/h6rjL0Lxn3Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How To Lose Weight WITHOUT Dieting
 
@@ -915,6 +943,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Drink This Before Bed — It Could Change Your Life
 
 好的，這是整理後的文稿，分為重點摘要、詳細內容以及建議標題三個部分。
@@ -992,6 +1022,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Improve Circulation & Blood Flow in Your Feet and Legs
 
 好的，我將這段文稿整理如下，分為要點整理、建議與注意事項，並加入適當的標題：
@@ -1056,6 +1088,8 @@
     <img src="https://img.youtube.com/vi/o_Uro77TvvQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 7 Silent Signs of Pancreatic Cancer
 
@@ -1139,6 +1173,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Vitamin Harvard Quietly Buried
 
 好的，這是經過整理的文稿，我將其分成幾個部分，並提取了關鍵資訊，希望能幫助您更清楚地理解內容：
@@ -1206,6 +1242,8 @@
     <img src="https://img.youtube.com/vi/6CCI1vz1bAc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Get Thicker and Shinier Hair
 
@@ -1282,6 +1320,8 @@
     <img src="https://img.youtube.com/vi/kQKQ7pa5_ug/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The #1 Food to UNCLOG Your Colon Fast
 
@@ -1405,6 +1445,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why Men Today Have HALF the Testosterone of Their Grandfathers
 
 好的，這是針對您提供的英文文稿所做的中文整理：
@@ -1471,6 +1513,8 @@
     <img src="https://img.youtube.com/vi/tjZTNezQTSI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The #1 Most Dangerous Meal in the World
 
@@ -1558,6 +1602,8 @@
     <img src="https://img.youtube.com/vi/a_4YMQdzBWM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The #1 Nighttime Benefit of Apple Cider Vinegar That NO ONE KNOWS
 
@@ -1652,6 +1698,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Is the American Heart Association Promoting Junk Food?!
 
 好的，我將這段文稿整理如下，使其更清晰、更易理解。我將重點放在組織結構、信息提煉和避免口語化上：
@@ -1711,6 +1759,8 @@
     <img src="https://img.youtube.com/vi/l_iJt5AIoCI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What Would Happen If You Used RICE WATER on Your Hair for 2 Weeks
 

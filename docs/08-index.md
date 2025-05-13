@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Remedies For Swollen Hands Explained By Dr.Berg
 
 ### 核心主題：僵硬和腫脹的手部症狀及治療方法
@@ -45,6 +47,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How Much Dietary Fat Dangerous on a Ketogenic Diet Explained By Dr.Berg
 
 ### 核心主題：酮osis 的定義與特性  
@@ -83,6 +87,8 @@
     <img src="https://img.youtube.com/vi/l5wClnJj4_8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Most Common Hair Loss Causes Explained By Dr. Berg
 
@@ -132,6 +138,8 @@
     <img src="https://img.youtube.com/vi/mLzORHS-OzE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 7 Common Keto Mistakes That Can Kick You Out of Ketosis – Dr. Berg
 
@@ -197,6 +205,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Best Keto Crackers You Must Know – Dr.Berg
 
 ### 核心主題
@@ -234,6 +244,8 @@
     <img src="https://img.youtube.com/vi/aQxNnElDNjk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Nuts on Keto: Best Nuts For Ketogenic Diet – Dr. Berg
 
@@ -303,6 +315,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Chocolate Chia Pudding Recipe (Keto-Friendly) – Dr. Berg
 
 ### 小結結構
@@ -341,6 +355,8 @@
     <img src="https://img.youtube.com/vi/bwuKsf7sWP8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Overcome Adrenal Stress with Intermittent Fasting? – Dr. Berg
 
@@ -396,6 +412,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Residual Pain After Dental Work – Tips on Dental Pain Relief By Dr. Berg
 
 ### 小節歸納
@@ -439,6 +457,8 @@
     <img src="https://img.youtube.com/vi/J4VDAgEtkdg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Difference Between Synthetic Vitamins vs Natural Vitamins – Dr. Berg
 
@@ -493,6 +513,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Side (NEGATIVE) Effects of Intermittent Fasting – Dr. Berg
 
 ### 小節歸納
@@ -540,6 +562,8 @@
     <img src="https://img.youtube.com/vi/vcTm7opfgpA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What is C-Reactive Protein & How to Lower it? – Dr. Berg
 
@@ -609,6 +633,8 @@ CRP 是評估體內炎症的重要指標，其高低與心血管疾病密切相�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Familial Hypercholesterolemia – Genetic High Cholesterol Explained By Dr. Berg
 
 ### 核心主題  
@@ -665,6 +691,8 @@ CRP 是評估體內炎症的重要指標，其高低與心血管疾病密切相�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What is ADHD & Why It's a Nutritional, Not a Mental Problem? ADHD Explained By Dr.Berg
 
 ### 1. 核心主題  
@@ -704,6 +732,8 @@ CRP 是評估體內炎症的重要指標，其高低與心血管疾病密切相�
     <img src="https://img.youtube.com/vi/MEOan0qwSps/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What is Net Carb? – Understanding Net Carbs on Keto Diet with Dr.Berg
 
@@ -756,6 +786,8 @@ CRP 是評估體內炎症的重要指標，其高低與心血管疾病密切相�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What Causes Stress and High Cortisol Symptoms Explained By Dr.Berg
 
 
@@ -771,6 +803,8 @@ CRP 是評估體內炎症的重要指標，其高低與心血管疾病密切相�
     <img src="https://img.youtube.com/vi/LNcfwTA-trE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What is Creatine? – Uses & Benefits Covered by Dr.Berg
 
@@ -826,6 +860,8 @@ CRP 是評估體內炎症的重要指標，其高低與心血管疾病密切相�
     <img src="https://img.youtube.com/vi/TzylC8kJiyU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What is Interstitial Cystitis (Painful Bladder Syndrome)? – Symptoms & Remedy Covered by Dr.Berg
 
@@ -908,6 +944,8 @@ CRP 是評估體內炎症的重要指標，其高低與心血管疾病密切相�
     <img src="https://img.youtube.com/vi/ISuhb8Oh_Jk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Can Women Control their Weight Loss? – Weight Loss Tips for Women by Dr.Berg
 
@@ -1003,6 +1041,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How Chronic Stress Affects Your Brain? – Dr.Berg
 
 ### 核心主題：慢性壓力對大腦海馬體的影響
@@ -1055,6 +1095,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/5AtC0T0B2xs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Keto and Intermittent Fasting Before & After (Dr.Berg & LeeAnne Masserang)
 
@@ -1117,6 +1159,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/HUlk0pZhTek/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Multiple Sclerosis: What Causes MS and What to Do if You Have this
 
@@ -1195,6 +1239,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Use Salt Inhaler to Reduce Congestion in Lungs – Dr.Berg
 
 ### 文章重點整理
@@ -1258,6 +1304,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Negatives of the Keto Diet Explained By Dr. Berg
 
 ### 小節歸納：
@@ -1313,6 +1361,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/L-Y6RoGGQ2I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Dr. Berg Interviews Santiago Vitaliano (Intermittent Fasting & Ketosis Before & After)
 
@@ -1385,6 +1435,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Serious Health Benefits of Intermittent Fasting Explained By Dr. Berg
 
 ### 小節整理
@@ -1439,6 +1491,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/AXVXUkF9XfU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Gallstone Symptoms and Causes Explained – Dr.Berg on Gallbladder Stone Removal
 
@@ -1532,6 +1586,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Insulin & Lean Muscle Mass – Insulin Resistance and Muscle Gain Connection – Dr. Berg
 
 ### 文章整理結構
@@ -1584,6 +1640,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/LZj6rbrJqYk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Keto-Friendly Cranberry Pecan Muffins Recipe – Dr. Berg
 
@@ -1642,6 +1700,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Ketosis and Sugar Alcohol Sweeteners Explained By Dr. Berg
 
 ### 核心主題
@@ -1689,6 +1749,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/5iQVFcEZDf8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Intermittent Fasting & Ketosis Before & After (Dr.Berg Interviews Brenner Stiles)
 
@@ -1778,6 +1840,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Can You Be in Ketosis Despite No Ketones in the Urine? – Dr. Berg
 
 ### 小節歸納
@@ -1825,6 +1889,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/k0L2E88HiZM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Intermittent Fasting and Ketosis Before & After Success Story (Akshat Paul) – Dr.Berg
 
@@ -1922,6 +1988,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Is Skin Acne and Ketosis have any connection? Explained By Dr.Berg
 
 ### 核心主題  
@@ -1997,6 +2065,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Make Strawberry Chia Pudding – Dr. Berg
 
 ### 小節整理：chia pudding食谱與健康分析
@@ -2063,6 +2133,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What is Plaque and How to Remove it Explained By Dr. Berg
 
 ### 核心主題
@@ -2109,6 +2181,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/2kLb1JCeobA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Keto Before and After – Dr.Berg Testimonial (Skype Interview) Rodrigo Melendez
 
@@ -2190,6 +2264,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/iF2DWdBMtLc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Keto Constipation – Dr. Berg Explains Constipation on Keto Diet
 
@@ -2278,6 +2354,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Keto Pizza Bites Recipe – Dr. Berg
 
 ### 核心主題  
@@ -2314,6 +2392,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/aZraB-g3_JE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Intermittent Fasting & the Gallbladder – Dr.Berg Talks About Fasting and Gallbladder Problems
 
@@ -2359,6 +2439,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/5RLvS8NKq_Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What is Phosphorus? Hyperphosphatemia and Hypophosphatemia – Phosphorus Rich Foods – Dr.Berg
 
@@ -2425,6 +2507,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/4LTM1gUP0rs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Intermittent Fasting & Hypoglycemia Symptoms – Dr.Berg
 
@@ -2493,6 +2577,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Keto Diet and Intermittent Fasting Success Story – Dr.Berg Interviews Miroslaw Duda
 
 ### 核心主題
@@ -2548,6 +2634,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/5SOvEuaQ-Xc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Intermittent Fasting & Your Thyroid Health – Do Fasting for Thyroid Problems – Dr.Berg
 
@@ -2614,6 +2702,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Importance of Vitamin A in Pregnancy – Dr.Berg on Source of Vitamin A & Deficiency
 
 ### 小節整理
@@ -2678,6 +2768,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 3 Tweaks to the Traditional Ketogenic Diet Plan – Low Carb Intermittent Fasting – Dr.Berg
 
 ### 核心主題  
@@ -2735,6 +2827,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Keto Vanilla Chia Pudding by Dr. Berg
 
 ### 文章重點整理
@@ -2777,6 +2871,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/nHJhufGbmR0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Intermittent Fasting And Exercise – When to Exercise While Fasting – Dr.Berg
 
@@ -2829,6 +2925,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Best Nutrients for Menstrual Cramps Relief – Dr. Berg
 
 ### 小節整理： menstrual cramp relief
@@ -2868,6 +2966,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/JEaHMtJ9bSE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Seeds and Nuts on Keto Diet – Dr.Berg on Ketogenic Diet Nuts & Seeds
 
@@ -2930,6 +3030,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Natural Remedies to Improve Parkinson's Disease Symptoms – Dr. Berg
 
 ### 核心主題  
@@ -2977,6 +3079,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/CJJosZCnrbw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Fruit on a Ketogenic Diet – Dr.Berg Talks About Keto Friendly Fruits
 
@@ -3036,6 +3140,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/a0C4rlgU_6k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Dr. Berg Recommended Supplements for Intermittent Fasting
 
@@ -3099,6 +3205,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Bad Breath on Ketogenic Diet? – Dr. Berg on Keto Breath Solutions
 
 ### 核心主題
@@ -3146,6 +3254,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/DFsmgwiGyNI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Intermittent Fasting & Ketosis : 15 Common Questions & Answers (FAQ) – Dr. Berg
 
@@ -3228,6 +3338,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Cortisol & Long Term Chronic Stress Effects on Body
 
 ### 核心主題：長期慢性應激對人體健康的影響及解決策略
@@ -3305,6 +3417,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why Some Skinny People don’t Gain Weight? – Dr. Berg
 
 ### 文章重點整理
@@ -3367,6 +3481,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Nutritional Yeast vs. Brewers Yeast – Dr. Berg
 
 ### 文章整理：營養酵母與啤酒酵母之差異及健康建議
@@ -3428,6 +3544,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 4 Best Wart Removal Remedies – Dr. Berg on Wart Treatment at Home
 
 ### 核心主題  
@@ -3483,6 +3601,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/GC9V1TWYLo4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What is LDL Cholesterol? – Dr.Berg on LDL Bad Cholesterol (Part 4)
 
@@ -3566,6 +3686,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # High Cholesterol on a Ketogenic diet? – Dr. Berg on Keto and Cholesterol
 
 ### 核心主題：酮egenic Diet下血清膽固醇升高現象的探討
@@ -3616,6 +3738,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/kJwx5gUz5_Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Best Remedy For Type 1 Diabetes – Dr. Berg on Diabetes Treatment
 
@@ -3693,6 +3817,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Neck Stiffness Relief Massage by Dr. Berg
 
 ### 文章整理：肩頸按 pressure 技術與健康建議
@@ -3760,6 +3886,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Relation between Extreme Hunger & Intermittent Fasting – Dr. Berg on Food Cravings
 
 ### 核心主題  
@@ -3810,6 +3938,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/AR_rgqo1xYg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Best Home Remedy for Urinary Tract Infection (UTI) – Dr. Berg
 
@@ -3872,6 +4002,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/AicW5_-soU4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What Is Insulin? – Dr. Berg
 
@@ -3942,6 +4074,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 3 Biggest Intermittent Fasting Mistakes To Avoid – Dr. Berg
 
 ### 核心主題  
@@ -3996,6 +4130,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/OSORgwlsLfo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Problems With Low Cholesterol Levels – Dr. Berg on Cholesterol Control (Part-3)
 
@@ -4052,6 +4188,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What Is Atherosclerosis Plaque? – Dr.Berg on Cholesterol Levels (Part-2)
 
 ### 核心主題：動脈粥樣硬化斑塊的解剖結構與成因
@@ -4088,6 +4226,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/mOuWCh6nrZM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Real Purpose of Cholesterol – Dr.Berg on Cholesterol levels (Part 1)
 
@@ -4143,6 +4283,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/lwCRjwDs1Ek/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Intermittent Fast for Quick Weight Loss – Dr. Berg Reveals All
 
@@ -4224,6 +4366,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Canker Sores Vs Cold Sores – Dr. Berg on Mouth Sores
 
 ### 小節分類與整理：
@@ -4278,6 +4422,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Hidden Dangers of Tampons, Pads & Panty Liners – Dr. Berg
 
 ### 文章整理報告
@@ -4317,6 +4463,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/a34hcVgTUeA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Get Rid of Shoulder Pain FAST? – Dr. Berg's Pain Relief Massage
 
@@ -4359,6 +4507,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/h0BUbyXPgLk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How Difficult is it to Find a Non-GMO Soy Oil in the US? – Dr. Berg
 
@@ -4415,6 +4565,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/9YVDxXvtuhM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What Causes Cracked Corners of Mouth & How to Get Rid of Angular Cheilitis? – Dr. Berg
 
@@ -4473,6 +4625,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What Does 7-10 Cups of Salad Look Like? – Dr. Berg
 
 ### 文章整理：健康飲食指南與成功故事分享
@@ -4530,6 +4684,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Heal a Stubbed Toe FAST? – Dr. Berg on Stubbed Toe Treatment
 
 ## 文章要點整理
@@ -4568,6 +4724,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/lEbcD0rsxbM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Best Diet for Critical People – Dr. Berg
 
@@ -4636,6 +4794,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Lose Beer Belly Fast (Pot-Belly)? – Dr. Berg
 
 ### 文章整理：如何解決啤酒肚問題
@@ -4701,6 +4861,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/5ez1VBfsJMY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why Should Endurance Athletes Choose a Ketogenic Diet? – Dr.Berg
 
@@ -4771,6 +4933,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Ketosis and Sodium – Dr. Berg on Keto Flu
 
 ### 文章內容整理
@@ -4819,6 +4983,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/DsJwB3bTzp8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Get Rid of Psoriasis? – Natural Remedies for Psoriasis by Dr.Berg
 
@@ -4869,6 +5035,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/pxl8hhyN6AQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What Is Insulin Resistance? – Dr. Berg
 
@@ -4924,6 +5092,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Dr.Berg's Tip For Getting Tested For Vitamin D Levels – Vitamin D Deficiency
 
 ### 核心主題：維生素D缺乏與檢測的重要性
@@ -4965,6 +5135,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/U_deZr_i6AU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Swollen Belly & Bloating As Day Progresses – Dr. Berg on Bloated Stomach
 
@@ -5038,6 +5210,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/foHC_M1gB1I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What Causes Dark Circles Under Eyes? – Dr. Berg
 
@@ -5116,6 +5290,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Potassium Intake, Muscle Loss & Body Fat – Dr. Berg
 
 ### 文章重點整理
@@ -5172,6 +5348,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/saETEZst5IU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # I Can't Do Low Carbs Because I Love Food Too Much! – Dr. Berg
 
@@ -5232,6 +5410,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Best Position to Sleep and Worst Positions to Avoid – Dr. Berg
 
 ### 文章重點整理
@@ -5269,6 +5449,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/nxqQBpplcgw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How To Get Rid of Eye Floaters? – Dr. Berg On Eye Floater Treatment
 
@@ -5312,6 +5494,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/m9_gna4Vcn0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # White Button Mushrooms Are the Best Testosterone Booster Food – Dr. Berg
 
@@ -5370,6 +5554,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Dr.Berg Unfolds the Biggest Symptom of Adrenal Fatigue
 
 ### 小節歸納
@@ -5418,6 +5604,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/ibgFYa3TFwg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Nutritional Deficiencies after Weight Loss Surgery (Gastric Bypass / Bariatric Surgery) – Dr. Berg
 
@@ -5477,6 +5665,8 @@ c. 維生素攝取：
     <img src="https://img.youtube.com/vi/89yCssqMqYM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Cellulite Be Gone: Dr. Berg's Expert Tips on Losing Thigh and Buttock Cellulite
 
@@ -5549,6 +5739,8 @@ c. 維生素攝取：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Fix Knee Pain Fast – Treatment by Dr.Berg (Part 2)
 
 ### 文章整理：膝蓋疼痛的診斷與治療方法
@@ -5613,6 +5805,8 @@ This article explores the causes, treatments, and health recommendations for kne
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How Much Protein is Too Much on Keto? – Dr.Berg
 
 ### 小節整理：酮ogenic Diet 中蛋白質攝取量的上限
@@ -5655,6 +5849,8 @@ This article explores the causes, treatments, and health recommendations for kne
     <img src="https://img.youtube.com/vi/QHX0v8sgmPE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Fatty Acids (Omega-3 and Omega-6) Deficiency: Symptoms and Sources by Dr.Berg
 
@@ -5707,6 +5903,8 @@ This article explores the causes, treatments, and health recommendations for kne
     <img src="https://img.youtube.com/vi/9KmGQ8vvPAk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Best Remedy to Recharge Your Cellular Energy – Dr.Berg's Electrolyte Powder
 
@@ -5779,6 +5977,8 @@ This article explores the causes, treatments, and health recommendations for kne
     <img src="https://img.youtube.com/vi/qK37TAE8hYg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How To Reverse Wrinkles ? – Dr.Berg on Anti Aging Hormones
 

@@ -241,6 +241,8 @@ def make_doc(filename: str, video_list: list):
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # {title}
 
 {summary_file}

@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why Athletes Need More Potassium
 
 ### 核心主題  
@@ -66,6 +68,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Avoid Sardines with Soybean Oil
 
 ### 小節歸納
@@ -119,6 +123,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Urine Test Simplified
 
 很抱歉，我無法理解您提供的文章內容。這篇文章似乎包含了很多混亂和不連貫的句子，缺乏明確的主题或結構。如果您能提供更清晰的文章或問題描述，我很乐意幫助您整理和歸納重點。
@@ -136,6 +142,8 @@
     <img src="https://img.youtube.com/vi/JaDJh0oypzU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The #1 Mistake Treating Heartburn
 
@@ -190,6 +198,8 @@
     <img src="https://img.youtube.com/vi/t70TVLmnVBI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Benefits of Watercress
 
@@ -252,6 +262,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Exercise Keeps Your Brain From Shrinking as You Age
 
 ### 核心主題：運動對腦容積萎縮的預防作用
@@ -288,6 +300,8 @@
     <img src="https://img.youtube.com/vi/HI0TPqXmHv0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Health Benefits of Cumin
 
@@ -338,6 +352,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Air Pollution Can Cause Diabetes
 
 ### 核心主題：空氣汙染與糖尿病之關聯及其防禦策略
@@ -384,6 +400,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # I Hit 5 Million Subscribers! Thank You!!!
 
 ### 核心主題
@@ -412,6 +430,8 @@
     <img src="https://img.youtube.com/vi/K59U4n2PIhg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Diabetic's High Sugar Coming From Another Source
 
@@ -472,6 +492,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Low Vitamin D Linked to Depressed Teens
 
 ### 1. 核心主題  
@@ -514,6 +536,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Carbs vs. Sugar Clarified
 
 
@@ -529,6 +553,8 @@
     <img src="https://img.youtube.com/vi/neuWm45EnI4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The First Sign of a Zinc Deficiency is...
 
@@ -595,6 +621,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Fasting Lowers Blood Pressure
 
 ### 文章重點整理
@@ -656,6 +684,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Your Liver is Making Your Body Stiff
 
 ### 文章重點整理
@@ -713,6 +743,8 @@
     <img src="https://img.youtube.com/vi/2AyFdr3Fd0c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What Dr. Berg Eats
 
@@ -793,6 +825,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Smartphone Effects on the Brain in Children and Teens
 
 ### 核心主題：青少年和兒童手機成癮及其健康影響
@@ -832,6 +866,8 @@
     <img src="https://img.youtube.com/vi/DoC21ItfQbM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why Did I Get PCOS (Polycystic Ovarian Syndrome)?
 
@@ -889,6 +925,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Best Type of Exercise for Recovery
 
 ### 小節歸納
@@ -938,6 +976,8 @@
     <img src="https://img.youtube.com/vi/RnlJtQgN_58/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 7 Out of 10 People Take Prescription Drugs
 
@@ -996,6 +1036,8 @@
     <img src="https://img.youtube.com/vi/0_F4CEVEFcI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Eat More Mushroom on Keto
 
@@ -1066,6 +1108,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Accidentally Messed Up on Keto? DO THIS…
 
 ### 小節整理
@@ -1127,6 +1171,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Herbal Teas to Avoid During Pregnancy
 
 ### 小節化整理：
@@ -1168,6 +1214,8 @@
     <img src="https://img.youtube.com/vi/RHuQX5uzodA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Cutting Carbs But Still Not Losing Weight
 
@@ -1233,6 +1281,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why the Random Muscle Twitch?
 
 ### 核心主題
@@ -1284,6 +1334,8 @@
     <img src="https://img.youtube.com/vi/uMBWF8A3QdI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Bile Acid and Cholesterol: The Missing Link
 
@@ -1357,6 +1409,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Reverse Acanthosis Nigricans
 
 ### 小節整理：文章重點提綱
@@ -1396,6 +1450,8 @@
     <img src="https://img.youtube.com/vi/KnsFf-kgwb8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why Does Exercise Increase Lifespan?
 
@@ -1445,6 +1501,8 @@
     <img src="https://img.youtube.com/vi/kScFxH9ZOYI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Alzheimer's Disease Starts in the Liver – Prevent Alzheimer's With Good Liver Health – Dr.Berg
 
@@ -1506,6 +1564,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Eating Nuts Can Deplete Zinc
 
 # 文章整理：關於堅果中的抗營養因子植酸及其影響
@@ -1561,6 +1621,8 @@
     <img src="https://img.youtube.com/vi/kZn9vRvvvbw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What Food Has the Highest Calcium?
 
@@ -1627,6 +1689,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Ketogenic Diet Started in the 1800s
 
 ### 核心主題：酮egenic Diet（生酮飲食）的歷史淵源與現代發展
@@ -1667,6 +1731,8 @@
     <img src="https://img.youtube.com/vi/5ZF-cAKKXTo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # So Tired But Can’t Go to Sleep?
 
@@ -1731,6 +1797,8 @@
     <img src="https://img.youtube.com/vi/oao64yh0duA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Fasting and Visceral (Belly) Fat: The Correct Way
 
@@ -1800,6 +1868,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Best Way to Measure Your pH
 
 ### 文章整理
@@ -1865,6 +1935,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Here's Why I Would Recommend Cod Liver Oil to Those with Thyroid Problems (Hypothyroidism)
 
 ### 核心主題
@@ -1923,6 +1995,8 @@
     <img src="https://img.youtube.com/vi/1GKKcZNtDe4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Starving Your Body of Sleep: This is What Happens
 
@@ -1989,6 +2063,8 @@
     <img src="https://img.youtube.com/vi/u7HWe3nZJtQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Constipation Is Not Just a Lack of Fiber
 
@@ -2103,6 +2179,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Dr. Berg's Opinion on Botox | What is it and is it Safe?
 
 
@@ -2118,6 +2196,8 @@
     <img src="https://img.youtube.com/vi/3tLnIDDnPT4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Eight Different Reasons for Poor Sleep
 
@@ -2213,6 +2293,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Fake Wasabi vs. Real Wasabi
 
 ### 核心主題
@@ -2257,6 +2339,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Bee Sting Therapy
 
 ### 小芻目錄：
@@ -2296,6 +2380,8 @@
     <img src="https://img.youtube.com/vi/vd58Ic9Y9ls/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Reason is You're Not Eating Enough...
 
@@ -2349,6 +2435,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why Do Stones Develop in Your Kidney and Gallbladder
 
 ### 核心主題：肥胖與體重減輕增加膽石風險的原因及解決方案
@@ -2385,6 +2473,8 @@
     <img src="https://img.youtube.com/vi/2owiZffYQ0U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Can Losing 5 Pounds Per Month Be Normal?
 
@@ -2447,6 +2537,8 @@
     <img src="https://img.youtube.com/vi/dBY86H9MuUc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Seven Amazing Mushrooms and Their Powerful Properties
 
@@ -2533,6 +2625,8 @@
     <img src="https://img.youtube.com/vi/gCm2S5Jwe8Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Coconut Flour vs. Almond Flour
 
@@ -2622,6 +2716,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What is the Best Apple Cider Vinegar?
 
 
@@ -2637,6 +2733,8 @@
     <img src="https://img.youtube.com/vi/_bjOV8Ucmp4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Maximize the Anticancer Effects of Garlic
 
@@ -2694,6 +2792,8 @@
     <img src="https://img.youtube.com/vi/xVaXYh2hldw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What Is the Pituitary Gland?
 
@@ -2770,6 +2870,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Use ACV (Apple Cider Vinegar) for Eczema
 
 ### 文章整理：蘋果醋對皮膚健康的作用及其他自然療法
@@ -2837,6 +2939,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Soils Are NOT Depleted of Nutrients...WHAT?
 
 ### 文章整理：土壤微生物多样性与人类健康的关联
@@ -2900,6 +3004,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 9 Proven Benefits of Chlorophyll
 
 ### 核心主題  
@@ -2938,6 +3044,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
     <img src="https://img.youtube.com/vi/vkpvPrek3X8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The 1st Symptom of a Salt Deficiency
 
@@ -3013,6 +3121,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Lard or Coconut Oil: Which has More Saturated Fat?
 
 
@@ -3028,6 +3138,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
     <img src="https://img.youtube.com/vi/kyFqw7zdUzo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Vegetables with Virtually ZERO Net Carbs
 
@@ -3046,6 +3158,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
     <img src="https://img.youtube.com/vi/ggv93uGUBB8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 11 Health Benefits of Chocolate
 
@@ -3107,6 +3221,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
     <img src="https://img.youtube.com/vi/-yiEbEjzf3Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 97 Percent of Overweight People Gain the Weight Back
 
@@ -3176,6 +3292,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The 8 Selenium Deficiency Symptoms
 
 ### 文章主旨與核心主題
@@ -3237,6 +3355,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Your Brain on Processed Foods
 
 ### 文章重點整理
@@ -3294,6 +3414,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why Sleep With a Pillow Between Your Legs?
 
 ### 核心主題：睡覺姿勢對健康的影響
@@ -3331,6 +3453,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
     <img src="https://img.youtube.com/vi/WN_AM_9QAcs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Big Problems with Chronic Inflammation
 
@@ -3374,6 +3498,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
     <img src="https://img.youtube.com/vi/KzmVNovsSqM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Stress Makes You Stronger
 
@@ -3452,6 +3578,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Best Foods for Bad Breath
 
 ### 核心主題：消除口臭的最佳食物選擇及健康建議
@@ -3493,6 +3621,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
     <img src="https://img.youtube.com/vi/Od5JYl58gHo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Have Clear Sinuses
 
@@ -3556,6 +3686,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
     <img src="https://img.youtube.com/vi/GYVrPWFtrdM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Benefits of Eucalyptus
 
@@ -3625,6 +3757,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
     <img src="https://img.youtube.com/vi/z1f0y1DbmrA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Breaking Old Bad Habits: Part 3
 
@@ -3729,6 +3863,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Best Exercise for Spondylolisthesis
 
 ### 文章整理：針對椎體滑脫症（Spondylolisthesis）的最佳運動與健康管理
@@ -3778,6 +3914,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
     <img src="https://img.youtube.com/vi/QrWn52EJp4w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Breaking Bad Old Habits: Part 2
 
@@ -3855,6 +3993,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Are Nuts Making You Gain Weight?
 
 ### 核心主題  
@@ -3921,6 +4061,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Breaking Old Bad Habits: Part 1
 
 ### 小節歸納
@@ -3979,6 +4121,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Benefits of Bee Pollen
 
 ### 核心主題
@@ -4033,6 +4177,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # One and a Half Meals Per Day (OAAHM) Keto
 
 ### 核心主題  
@@ -4077,6 +4223,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
     <img src="https://img.youtube.com/vi/MRPMk6VaG2U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What Does an Electrolyte Do?
 
@@ -4140,6 +4288,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
     <img src="https://img.youtube.com/vi/iwjOVt2IRYU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Ignore Hunger Waves While Fasting
 
@@ -4218,6 +4368,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Worst Diet Advice in the World
 
 ### 核心主題：反對不良飲食建議與提倡健康策略
@@ -4295,6 +4447,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Can You Scare People Into Health?
 
 
@@ -4310,6 +4464,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
     <img src="https://img.youtube.com/vi/hJ7fTjE3FvA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why Get a Second Opinion?
 
@@ -4368,6 +4524,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Most Widely Used Pesticide in the World
 
 ### 小節歸納
@@ -4420,6 +4578,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
     <img src="https://img.youtube.com/vi/fgwN7mdTpCc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Soft Drinks and Fatty Liver Disease: Interesting
 
@@ -4494,6 +4654,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Diet Soda can Cause a Fatty Liver
 
 ### 文章整理：人工甜味劑對健康的影響：以阿斯PARTAME為例
@@ -4550,6 +4712,8 @@ chlorophyll在維護人體健康方面發揮著重要作用，通過抗氧化、
     <img src="https://img.youtube.com/vi/zScbg5UNBgw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Postmenopausal Women Need More Butter and Egg Yolks
 
@@ -4624,6 +4788,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Sleeping Detoxifies Your Brain
 
 ### 核心主題
@@ -4677,6 +4843,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
     <img src="https://img.youtube.com/vi/mVf69tUiAOI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why is Tomato Tasteless?
 
@@ -4743,6 +4911,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Amazing Arugula: 6 Benefits
 
 ### 文章整理：羽衣甘藍（Arugula）的功效與特性
@@ -4793,6 +4963,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
     <img src="https://img.youtube.com/vi/0KwdtWCdGCo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The 9 Symptoms of Sleep Deprivation
 
@@ -4859,6 +5031,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Benefits of Plank Exercises
 
 ### 文章重點整理
@@ -4920,6 +5094,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
     <img src="https://img.youtube.com/vi/Q4RGr_K4RM4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What Emotion Triggers Adrenaline?
 
@@ -5004,6 +5180,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Vitamin D2 vs. D3: VERY DIFFERENT
 
 ### 核心主題：維生素D2與維生素D3的差異及其對健康的影響
@@ -5067,6 +5245,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Relax
 
 # 文章要點整理
@@ -5123,6 +5303,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What Food Has the Most Pesticides?
 
 ### 核心主題
@@ -5164,6 +5346,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
     <img src="https://img.youtube.com/vi/CMyyvMfT2gQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Lose Fat and Build Muscle at the Same Time
 
@@ -5263,6 +5447,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 13 Reasons Why Your Metabolism is Slow
 
 ### 文章重點整理
@@ -5334,6 +5520,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Adrenal Fatigue Could be a Liver Problem
 
 ### 小節整理
@@ -5378,6 +5566,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
     <img src="https://img.youtube.com/vi/P8e3z4rdIFY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What's Lacking With Split Nails
 
@@ -5451,6 +5641,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Head Lice: Best Home Remedy
 
 ### 核心主題：頭虱的防治與自然療法
@@ -5488,6 +5680,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
     <img src="https://img.youtube.com/vi/G5gi7nqy2j0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Start Adding Garlic to Your Meals
 
@@ -5579,6 +5773,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Stress Eater? WATCH THIS
 
 
@@ -5594,6 +5790,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
     <img src="https://img.youtube.com/vi/V4MrwFmlHEc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # High Cholesterol After Menopause?
 
@@ -5673,6 +5871,8 @@ meno潮後女性の骨健康を維持するためには、ビタミンK2の摂�
     <img src="https://img.youtube.com/vi/I7st93_Owq0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Fatigue Not Improved With Rest
 

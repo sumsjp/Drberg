@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Link Between Alzheimer's Disease & DDT – Dr. Berg
 
 ### 小節一：核心主題  
@@ -61,6 +63,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 3 Causes of Polycystic Ovarian Syndrome (PCOS) & High Androgens – Dr. Berg
 
 ### 小節歸納
@@ -103,6 +107,8 @@
     <img src="https://img.youtube.com/vi/ktQBLFabQXQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Flight or Fight Mechanism Explained In A Simple Way – Autonomic Nervous System Dr. Berg
 
@@ -152,6 +158,8 @@
     <img src="https://img.youtube.com/vi/2DnaljPchA8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Thyroid Acupressure Techniques for Cold Hands and Feet – Acupressure Therapy Dr. Berg
 
@@ -214,6 +222,8 @@ In summary, acupressure targeting the thyroid reflex point in the C5-C6 cervical
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Healthiest Cookies in the World!!
 
 ### 核心主題  
@@ -253,6 +263,8 @@ In summary, acupressure targeting the thyroid reflex point in the C5-C6 cervical
     <img src="https://img.youtube.com/vi/cNM_NXwOkcQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Do a Garlic Nasal Rinse? – Dr.Berg
 
@@ -314,6 +326,8 @@ In summary, acupressure targeting the thyroid reflex point in the C5-C6 cervical
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Metallic Nutrients In Food? – Dr. Berg on Trace Minerals and Synthetic Vitamins
 
 ### 小節一：核心主題
@@ -373,6 +387,8 @@ In summary, acupressure targeting the thyroid reflex point in the C5-C6 cervical
     <img src="https://img.youtube.com/vi/-ZkADMLZCuw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Dr.Berg's Most Important Weight Loss Tips
 
@@ -435,6 +451,8 @@ In summary, acupressure targeting the thyroid reflex point in the C5-C6 cervical
     <img src="https://img.youtube.com/vi/tumJRQ01Hmg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Underlying Root Cause Of Hair Loss – Treatment For Hair Loss Dr. Berg
 
@@ -507,6 +525,8 @@ In summary, acupressure targeting the thyroid reflex point in the C5-C6 cervical
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why Can Eating Butter Make You Skinny? – Dr.Berg on Weight Loss and Benefits of Butter
 
 ### 核心主題：Butter（人造奶油）作為下一代スーパーフード
@@ -578,6 +598,8 @@ Butter 是一種被低估的スーパーフード，具有多種健康益處。�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Genetically Modified Foods - GMO or OMG? Get Immune Against Genetically Modified Organisms – Dr.Berg
 
 ### 小節一：核心主題  
@@ -629,6 +651,8 @@ Butter 是一種被低估的スーパーフード，具有多種健康益處。�
     <img src="https://img.youtube.com/vi/M5FQYKLAOhg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How To Get Motivated With Losing Weight – Dr.Berg on Weight Loss Motivation
 
@@ -685,6 +709,8 @@ Butter 是一種被低估的スーパーフード，具有多種健康益處。�
     <img src="https://img.youtube.com/vi/JpmI3Nnyx6o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How To Prevent Sagging Skin with Losing Weight? – Dr.Berg On Loose Skin After Weight Loss
 
@@ -743,6 +769,8 @@ Butter 是一種被低估的スーパーフード，具有多種健康益處。�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Drinking Alcohol & Still Losing Weight – Is it Possible? – Dr. Berg
 
 ### 核心主題
@@ -797,6 +825,8 @@ Butter 是一種被低估的スーパーフード，具有多種健康益處。�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How To Lose Weight Without Losing Muscle? – Dr. Berg on Weight Loss & Muscle Gain
 
 ### 核心主題  
@@ -839,6 +869,8 @@ Butter 是一種被低估的スーパーフード，具有多種健康益處。�
     <img src="https://img.youtube.com/vi/kBioeRRPuhg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Effects Of Stress On The Brain – Dr. Berg
 
@@ -895,6 +927,8 @@ Butter 是一種被低估的スーパーフード，具有多種健康益處。�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Forget The Calories, Reduce Sugar – Dr. Berg
 
 ### 小節歸納
@@ -934,6 +968,8 @@ Butter 是一種被低估的スーパーフード，具有多種健康益處。�
     <img src="https://img.youtube.com/vi/fSuvDNeerjs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 17 Ways To Eat More Vegetables in Your Diet – Dr. Berg
 
@@ -987,6 +1023,8 @@ Butter 是一種被低估的スーパーフード，具有多種健康益處。�
     <img src="https://img.youtube.com/vi/8qgwmKq-yjA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Tryptophan, Turkey & Causes of Sleepiness After Thanksgiving Meal – Dr. Berg
 
@@ -1046,6 +1084,8 @@ Butter 是一種被低估的スーパーフード，具有多種健康益處。�
     <img src="https://img.youtube.com/vi/0C6zoIgraWs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What Causes Headaches? – Dr. Berg
 
@@ -1125,6 +1165,8 @@ Butter 是一種被低估的スーパーフード，具有多種健康益處。�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Perfect Diet – Dr.Berg
 
 ### 核心主題
@@ -1184,6 +1226,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
     <img src="https://img.youtube.com/vi/lKrFgxVTe28/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Get Your Wife to Lose Weight? [FOR MEN ONLY!] – Dr. Berg
 
@@ -1245,6 +1289,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Vegetarian vs Meat Eater, What Is Better? – Dr.Berg
 
 ### 核心主題  
@@ -1304,6 +1350,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Acupressure for Adrenal Stress – Dr. Berg
 
 ### 核心主題  
@@ -1360,6 +1408,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Fat Burning Foods – Dr. Berg
 
 
@@ -1375,6 +1425,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
     <img src="https://img.youtube.com/vi/LnjZQzB3BP8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Best Breathing Exercise for Sleep – Dr.Berg
 
@@ -1421,6 +1473,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
     <img src="https://img.youtube.com/vi/TeCwH6vzjzc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What Causes Fatigue? – Dr. Berg
 
@@ -1487,6 +1541,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How Food Affects Your Mood / Improve Anxiety, Depression & ADD – Dr. Berg
 
 ### 核心主題  
@@ -1544,6 +1600,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
     <img src="https://img.youtube.com/vi/W8Gtk067h5Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Dr. Berg's Recipe for the Healthiest Pizza in the World
 
@@ -1603,6 +1661,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Kale Super Food Green Juice
 
 ### 核心主題
@@ -1653,6 +1713,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
     <img src="https://img.youtube.com/vi/xypKNntXJv4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Singer's Cure: For Laryngitis, Hoarseness, Vocal Cord Paralysis, and Sore Throats – Dr. Berg
 
@@ -1705,6 +1767,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
     <img src="https://img.youtube.com/vi/Izi-PNI7_Dc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How To Stop Procrastinating & Improve Low Willpower? – Dr.Berg
 
@@ -1802,6 +1866,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What To Do When Nothing Works For Weight Loss? – Dr.Berg's Tips
 
 ### 核心主題  
@@ -1883,6 +1949,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Fibromyalgia Pain Relief Using Acupressure Points – Dr.Berg
 
 ### 核心主題： 
@@ -1934,6 +2002,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
     <img src="https://img.youtube.com/vi/iuXFE_oIQdM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Sudden Flabby Thighs & Butt in Menopause and Perimenopause – Dr. Berg
 
@@ -2011,6 +2081,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
     <img src="https://img.youtube.com/vi/hLP3SnbQvEc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Are Calcium Supplements Safe For You? – Dr. Berg
 
@@ -2091,6 +2163,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Benefits of Iodine: The Healing Trace Minerals for Cysts, Thyroid, PCOD and more – Dr.Berg
 
 ### 文章整理：碘缺乏與健康影響及補充策略
@@ -2166,6 +2240,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What's Missing In Healthcare is the Health Part – Dr.Berg
 
 ### 小節 1: 核心主題  
@@ -2217,6 +2293,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Dr. Berg's Most Effective Remedies
 
 ### 小節歸納
@@ -2255,6 +2333,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
     <img src="https://img.youtube.com/vi/TSqHhy3LEKo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Cholesterol Myths & Facts
 
@@ -2323,6 +2403,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
     <img src="https://img.youtube.com/vi/iatYZxyoEkU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Reasons for Deficiency of Vitamin D – Dr.Berg
 
@@ -2395,6 +2477,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Synthetic Vitamins – Most Vitamins Are Synthetic – Dr. Berg
 
 ### 核心主題  
@@ -2445,6 +2529,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Myths Of Soy As A Health Food – Dr. Berg
 
 ### 1. 核心主題  
@@ -2488,6 +2574,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
     <img src="https://img.youtube.com/vi/pm49uFWTYBI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What are the Real Causes of Thyroid Problems? – Dr.Berg
 
@@ -2568,6 +2656,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Gloria Patterson talks about her visit with Dr. Berg
 
 # 文章要點總結
@@ -2631,6 +2721,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Tondra Denise Turner Talks About Dr. Berg's Visit
 
 ### 小節一：核心主題
@@ -2680,6 +2772,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Karen Crock talks about her success with Dr. Berg with sleep
 
 ### 核心主題
@@ -2718,6 +2812,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Linda Fitzpatrick talks about her visit with Dr. Berg
 
 ### 核心主題  
@@ -2753,6 +2849,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
     <img src="https://img.youtube.com/vi/6Ml79LrZUHU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Nancy Belsoy talks about her visit with Dr Berg
 
@@ -2792,6 +2890,8 @@ The perfect diet is one that satisfies all nutrient requirements through natural
     <img src="https://img.youtube.com/vi/7DWg-y875CE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Norma Setner Talks about her visit with Dr. Eric Berg DC
 
@@ -2864,6 +2964,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Sheila Gray Talks About Her Visit with Dr. Berg
 
 ### 核心主題 (Core Theme)
@@ -2912,6 +3014,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
     <img src="https://img.youtube.com/vi/B_Y-ceKnSYI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Get Rid of Sinus Congestion? – Acupressure for Sinus – Dr. Berg
 
@@ -2989,6 +3093,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Pain Of Pleasure Foods – Dr. Berg
 
 ### 文章整理與分析
@@ -3056,6 +3162,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Reason Why Protein Is Used for Fat Burning – Dr. Berg
 
 ### 1. 核心主題
@@ -3094,6 +3202,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
     <img src="https://img.youtube.com/vi/jcrii9_Um0I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Cause of Neck and Shoulder Pain – Dr. Berg
 
@@ -3143,6 +3253,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
     <img src="https://img.youtube.com/vi/P7fHYSyvxU0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Blood Sugar and Diabetes Myths Exposed: Dr. Berg Uncovers the Truth
 
@@ -3227,6 +3339,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Understanding the Women Menstrual Cycle and Estrogen Dominance – Dr. Berg
 
 ### 文章整理：女性荷爾蒙失衡與月经周期紊乱的成因及解决方案
@@ -3281,6 +3395,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
     <img src="https://img.youtube.com/vi/14FhxVeAnwM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Real Agenda Behind the Gun Debate
 
@@ -3345,6 +3461,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
     <img src="https://img.youtube.com/vi/HWI1TljBsaw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Sugar Toxicity
 
@@ -3412,6 +3530,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Understanding Acidity, Alkalinity, and the Many Myths About pH
 
 ### 文章整理： 認识酸碱平衡与健康
@@ -3455,6 +3575,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
     <img src="https://img.youtube.com/vi/qQhqjoUinUA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Amazing Gallbladder
 
@@ -3509,6 +3631,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
     <img src="https://img.youtube.com/vi/Va476cehZ8s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Metabolism Problem, Weight Symptom - Most Weight Loss Programs are Health Loss Programs
 
@@ -3587,6 +3711,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Dr Eric Berg interviews Charmain Josie's Testimonial
 
 ### 核心主題
@@ -3630,6 +3756,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
     <img src="https://img.youtube.com/vi/PhBAzuKxob8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Dr. Eric Berg's Testimonial with Tobi Harden
 
@@ -3680,6 +3808,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
     <img src="https://img.youtube.com/vi/Hub-MpPIjr0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Dr. Eric Berg's Success Story with Angela Hightower
 
@@ -3732,6 +3862,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
     <img src="https://img.youtube.com/vi/hK111hngfoc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Wheat - Health Destroyer or Body Healer?
 
@@ -3789,6 +3921,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Dr Eric Berg's Success Story - Stephanie Williams
 
 ### 小節整理
@@ -3831,6 +3965,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Peripheral Neuropathy Nerve Support Formula - Dr. Berg
 
 ### 小節歸納
@@ -3870,6 +4006,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
     <img src="https://img.youtube.com/vi/cD_llOyLXo0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Dr. Eric Berg's Success with Tracy Moreland
 
@@ -3933,6 +4071,8 @@ Norma的故事強調了自然療法和整體健康在現代醫學之外的可能
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Dr. Eric Berg's Client's Testimonial with Debra Carroll
 
 ### 文章整理：Deborah Carrol 言談記錄
@@ -3976,6 +4116,8 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
     <img src="https://img.youtube.com/vi/fgm4GQAlVIc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Dr Eric Berg's Success Story with Sheila Beander
 
@@ -4057,6 +4199,8 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Read Your Body
 
 ### 文章整理：健康與疾病的多維度分析
@@ -4130,6 +4274,8 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Best Adrenal Supplement for Adrenal Fatigue
 
 ### 核心主題  
@@ -4197,6 +4343,8 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
     <img src="https://img.youtube.com/vi/xvOwfkg9p2o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What to Eat for Your Body Type?
 
@@ -4278,6 +4426,8 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Adrenal Body Type, Cortisol & Belly Fat! – Dr. Berg
 
 
@@ -4293,6 +4443,8 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
     <img src="https://img.youtube.com/vi/yXEpjTny9bg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # It's Get Healthy to Lose Weight NOT Lose Weight to Get Healthy!
 
@@ -4341,6 +4493,8 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
     <img src="https://img.youtube.com/vi/_EdejK5Tl1Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Two Fat Making Hormones, Cortisol and Insulin / How they Dominate all Six Fat Burning Hormones
 
@@ -4402,6 +4556,8 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Relief with Reflex Sympathetic Dystrophy (RSD) and Complex Regional Pain Syndrome (CRPS)
 
 ### 核心主題
@@ -4450,6 +4606,8 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Shocking Truth About Our Foods!
 
 ### 核心主題  
@@ -4487,6 +4645,8 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
     <img src="https://img.youtube.com/vi/odLJW1KXfqw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Trace Minerals, the Missing Nutrient in Our Soils, Plants and Bodies!
 
@@ -4535,6 +4695,8 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
     <img src="https://img.youtube.com/vi/_m-R4RqRQqM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Dr. Berg's Body Type Seminar
 
@@ -4587,6 +4749,8 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
     <img src="https://img.youtube.com/vi/ujZKXeCrA5g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Do Not Eat Eggs - Unless You Watch This
 
@@ -4648,6 +4812,8 @@ Deborah 在 Dr. Berg 的治療下，不僅解決了身體疼痛和健康問題�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Dr. Berg's Weight Loss Success
 
 ### 小節整理：
@@ -4700,6 +4866,8 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Burn 450% More Belly Fat by Workout – Dr. Berg
 
 ### 核心主題
@@ -4751,6 +4919,8 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Best Healthy Pasta Recipe for Weight Loss by Dr. Berg
 
 ### 小節歸納
@@ -4795,6 +4965,8 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The BEST Acupressure Technique for Relieving Stress of Your Adrenals
 
 ### 核心主題  
@@ -4831,6 +5003,8 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
     <img src="https://img.youtube.com/vi/mVmgz9oVUo4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Dr. Berg's Stress Relieving Technique for Occipital Tension
 
@@ -4878,6 +5052,8 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Dr. Berg's Stress Relieving Technique for Upper Neck Tightness
 
 ### 小結點整理
@@ -4923,6 +5099,8 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Dr. Berg's Stress Relieving Acupressure Technique for Mid-back Tightness
 
 ### 文章重點整理
@@ -4963,6 +5141,8 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
     <img src="https://img.youtube.com/vi/u5eWshrxBCY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The BEST Acupressure Technique for Stress Relief - Part 1 Dr. Eric Berg DC
 
@@ -5019,6 +5199,8 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Dr.Berg's Stress Relieving Technique for a Stiff Neck Relief (MUST TRY!)
 
 ### 核心主題
@@ -5073,6 +5255,8 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The BEST Acupressure Technique For Neck Tension
 
 ### 核心主題  
@@ -5114,6 +5298,8 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Fat Burning, Hormones & Aging
 
 ### 核心主題  
@@ -5153,6 +5339,8 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
     <img src="https://img.youtube.com/vi/6huEl-z3uPE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Dr. Berg Discusses Body Types, Belly Fat & Other Shapes
 
@@ -5217,6 +5405,8 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How I Came Up with the 4 Body Types
 
 ### 核心主題  
@@ -5264,6 +5454,8 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Weight Loss Success stories from Dr Eric Berg's healthy weightloss clinic
 
 ### 核心主題
@@ -5310,6 +5502,8 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Video 8
 
 ### 核心主題  
@@ -5343,6 +5537,8 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
     <img src="https://img.youtube.com/vi/LjgvA4v6FAo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Healthy Weight Loss Success Story by Dr. Eric Berg
 
@@ -5384,6 +5580,8 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Video 6
 
 ### 核心主題
@@ -5420,6 +5618,8 @@ Gary Hayatt 分享了他通過 Wellness Plan 改善健康的經驗。他強調�
     <img src="https://img.youtube.com/vi/9EObAxl1bZs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Dr. Berg Testimonial on Fast Weight Loss
 

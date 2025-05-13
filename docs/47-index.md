@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # High-Dose Vitamin D: HUGE MISTAKE?
 
 好的，這是一份整理後的文稿，包含重點摘要、結構化分段以及更清晰的表達：
@@ -74,6 +76,8 @@
     <img src="https://img.youtube.com/vi/kn_PpwqcQ-I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 7 Warning Signs of a Dangerous Deficiency
 
@@ -152,6 +156,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Most Dangerous Foods for Your Health (Especially After 50!)
 
 好的，這是整理後的文稿，我盡量保留了原文的口語化風格，並做了分段和潤飾，使其更易於閱讀：
@@ -222,6 +228,8 @@
     <img src="https://img.youtube.com/vi/nB-kTt0uNoY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The ONLY Thing That Will Work!
 
@@ -302,6 +310,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why Are We POISONING Our Children
 
 好的，我將針對這篇文稿進行整理，目標是讓它更易於閱讀和理解，並且提取重點資訊。
@@ -368,6 +378,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The 1 Vitamin That REVERSES Nerve Damage (and Nobody Talks About It)
 
 ## 神經損傷與維生素補充整理
@@ -418,6 +430,8 @@
     <img src="https://img.youtube.com/vi/evxMkIHpRcI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # BETTER Than Ozempic! Lose Belly Fat Faster
 
@@ -477,6 +491,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # DON'T GET SURGERY Unless You Do This First
 
 ## 手術前後維生素D補充之效益：文獻整理
@@ -532,6 +548,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # THIS Pill Causes Dementia!!!
 
 ## 文章重點整理：藥物治療與生活型態的互動整合
@@ -578,6 +596,8 @@
     <img src="https://img.youtube.com/vi/5AdKqkNmJj4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Big Pharma Makes BILLIONS off This Lie
 
@@ -666,6 +686,8 @@
     <img src="https://img.youtube.com/vi/iTOAIP9DfYo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # This One Video Could Save MILLIONS of Lives!
 
@@ -767,6 +789,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # This Was DESTROYING My Life
 
 ### 文章整理：如何在深夜失眠後重回睡夢
@@ -822,6 +846,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # DON'T IGNORE THIS IF YOU'RE OVER 50!!!
 
 ## 文章整理：cataracts 的防治與自然療法
@@ -875,6 +901,8 @@
     <img src="https://img.youtube.com/vi/Sn7T46fCjLE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 10,000 IU of Vitamin D: HUGE MISTAKE?!
 
@@ -944,6 +972,8 @@
     <img src="https://img.youtube.com/vi/zW8Cu4vcReY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 80% of Heart Attacks & Strokes Happen Because of THIS
 
@@ -1027,6 +1057,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # CRITICAL: Detoxify Your Brain from Microplastics
 
 ### 文章重點整理
@@ -1089,6 +1121,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # STOP Nighttime Peeing Now: IT REALLY WORKS
 
 ### 核心主題：夜間排尿问题的根源与解决方案
@@ -1136,6 +1170,8 @@
     <img src="https://img.youtube.com/vi/23yNXtR-N1s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # #1 Best Meal to Clean Out Your Arteries
 
@@ -1201,6 +1237,8 @@
     <img src="https://img.youtube.com/vi/XyX98bnDaow/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Egg Prices Are NOT by Accident
 
@@ -1273,6 +1311,8 @@
     <img src="https://img.youtube.com/vi/LEsPN-9ekiA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # THIS HAS GOT TO STOP!!
 
@@ -1348,6 +1388,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # End Dry Cough in 5 Minutes – Here’s How!
 
 ### 核心主題  
@@ -1412,6 +1454,8 @@
     <img src="https://img.youtube.com/vi/nm15-Tftb8E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # This Vitamin MISTAKE is Super Unhealthy!
 
@@ -1481,6 +1525,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # #1 Deficiency Behind POOR EYESIGHT
 
 ### 小節歸納
@@ -1538,6 +1584,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The #1 Most Powerful Remedy in the World
 
 ### 文章整理：抗衰老飲食與烹飪示範
@@ -1589,6 +1637,8 @@
     <img src="https://img.youtube.com/vi/neabI31ofMc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # BETTER Than Ozempic! STOP Your Cravings
 
@@ -1668,6 +1718,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # They Don't Want You to Know
 
 ### 核心主題
@@ -1739,6 +1791,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Microbe That Changes EVERYTHING
 
 ### 核心主題  
@@ -1780,6 +1834,8 @@
     <img src="https://img.youtube.com/vi/KyRjO29yHBQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Best Remedy for Hyperpigmentation
 
@@ -1859,6 +1915,8 @@
     <img src="https://img.youtube.com/vi/or7kKNlMlDY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # THIS Ruins Your Health!
 
@@ -1950,6 +2008,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Viral Health Tips You Need to STOP Now
 
 ### 論文要點總結
@@ -1994,6 +2054,8 @@
     <img src="https://img.youtube.com/vi/pFVp4QY0FBk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # You’ve Been Lied To...
 
@@ -2077,6 +2139,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # NEVER Cook with This Again
 
 ### 文章重點整理
@@ -2134,6 +2198,8 @@
     <img src="https://img.youtube.com/vi/J9SjqPQL6WM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The MOST Toxic Ingredients You Should NEVER Eat
 
@@ -2198,6 +2264,8 @@
     <img src="https://img.youtube.com/vi/IlT081VhRLM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Remove Skin Tags and Warts Overnight
 
@@ -2277,6 +2345,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The #1 Vitamin Depleting Food in the World
 
 ### 小節歸納
@@ -2319,6 +2389,8 @@
     <img src="https://img.youtube.com/vi/_IfaR9ivpyE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why Are We Doing This to Our Kids?
 
@@ -2382,6 +2454,8 @@
     <img src="https://img.youtube.com/vi/BAwthZkuB10/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why Can't I Talk About This?
 
@@ -2483,6 +2557,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Earliest Warning Sign (DON'T IGNORE)
 
 ### 文章整理：早期癡呆症的蛛絲馬跡與預防策略
@@ -2548,6 +2624,8 @@
     <img src="https://img.youtube.com/vi/S8kPjMd8akI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Teeth Whitening at Home
 
@@ -2621,6 +2699,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The SILENT KILLER Nobody Talks About
 
 ### 小節歸納
@@ -2670,6 +2750,8 @@
     <img src="https://img.youtube.com/vi/tqlMxfAECGg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Breakfast is a Lie
 
@@ -2737,6 +2819,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # BEST Foods to Detox and Clean Out Your Liver
 
 ### 文章主旨與結構整理
@@ -2778,6 +2862,8 @@
     <img src="https://img.youtube.com/vi/zGRKrUPIpfU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why is No One Doing This??? IT WORKS
 
@@ -2847,6 +2933,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Castor Oil for Your Face (Nature's Botox)
 
 ### 核心主題：Castor Oil 的多功能性及其在美容和健康的應用
@@ -2904,6 +2992,8 @@
     <img src="https://img.youtube.com/vi/vWrzH4IBs-Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Growing MUSCLES over 50 Years of Age
 
@@ -2994,6 +3084,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 7 Foods to REVERSE Kidney Damage (Must Watch)
 
 ### 核心主題：腎臟健康管理與飲食策略  
@@ -3065,6 +3157,8 @@
     <img src="https://img.youtube.com/vi/e8gl002hqik/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Tighten and Flatten Stomach with Just ONE EXERCISE
 
@@ -3140,6 +3234,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Best Remedies for INFLAMMATION (Autoimmune, Gut, and Arthritis) That You Never Considered
 
 ### 小節整理
@@ -3199,6 +3295,8 @@
     <img src="https://img.youtube.com/vi/bZ7MLOc9k9c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The #1 Most Dangerous Ingredient in the World
 
@@ -3286,6 +3384,8 @@
     <img src="https://img.youtube.com/vi/C_-7966jgAQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # INSTANT Plantar Fasciitis Fix
 
@@ -3382,6 +3482,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The #1 Anti-aging Hack
 
 ### 文章整理與分析
@@ -3454,6 +3556,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Battle of the Cabbages
 
 ### 核心主題  
@@ -3502,6 +3606,8 @@
     <img src="https://img.youtube.com/vi/3QePHCO8T8Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # They Lied to Us
 
@@ -3580,6 +3686,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Some GOOD NEWS in North Carolina (Update)
 
 ### 核心主題  
@@ -3620,6 +3728,8 @@
     <img src="https://img.youtube.com/vi/hrqr3IIoTOs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # VITAMIN D IS DANGEROUS
 
@@ -3695,6 +3805,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The BIG Magnesium Mistake
 
 ### 核心主題  
@@ -3760,6 +3872,8 @@
     <img src="https://img.youtube.com/vi/GwxOavvgqA0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What Would Happen If You Chewed ONE Clove Daily
 
@@ -3860,6 +3974,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # STOP Ignoring This!!!
 
 ### 核心主題
@@ -3949,6 +4065,8 @@
     <img src="https://img.youtube.com/vi/PYwWTn2MPYo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why Your Vitamins Are Not Working
 
@@ -4040,6 +4158,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # STOP Taking This Now
 
 ### 文章重點整理
@@ -4104,6 +4224,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # STOP Doing THIS for Low Back Pain
 
 ### 文章重點整理
@@ -4160,6 +4282,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why Do Most Indian Men Have Potbellies?!
 
 ### 文章重點整理
@@ -4213,6 +4337,8 @@ This article discusses the importance of cultural sensitivity and personalized m
     <img src="https://img.youtube.com/vi/TBf7uK7Urb0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Get Thick and Shiny Hair
 
@@ -4277,6 +4403,8 @@ This article discusses the importance of cultural sensitivity and personalized m
     <img src="https://img.youtube.com/vi/eJeTsPEiXRA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Do NOT Make These Mistakes (Especially After 50)
 
@@ -4375,6 +4503,8 @@ This article discusses the importance of cultural sensitivity and personalized m
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Benefit of Apple Cider Vinegar That NO ONE KNOWS
 
 ### 核心主題
@@ -4450,6 +4580,8 @@ This article discusses the importance of cultural sensitivity and personalized m
     <img src="https://img.youtube.com/vi/ZGEWoPmvPJY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # This Has Gone Too Far!
 
@@ -4535,6 +4667,8 @@ This article discusses the importance of cultural sensitivity and personalized m
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # You Will Never Consume THIS Again After Watching This
 
 ### 文章整理：《Dark Calories》核心內容與建議
@@ -4599,6 +4733,8 @@ This article discusses the importance of cultural sensitivity and personalized m
     <img src="https://img.youtube.com/vi/cMEDTX3JqOs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Forgotten Hormone
 
@@ -4675,6 +4811,8 @@ This article discusses the importance of cultural sensitivity and personalized m
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # My Vitamin D Levels SUCKED for Decades
 
 ### 小節整理：文章重點
@@ -4736,6 +4874,8 @@ This article discusses the importance of cultural sensitivity and personalized m
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Regenerate Your Stem Cells
 
 # 文章整理：七種刺激幹細胞的方法
@@ -4790,6 +4930,8 @@ This article discusses the importance of cultural sensitivity and personalized m
     <img src="https://img.youtube.com/vi/RycWZAkXUEo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Ashwagandha: The Adaptogen on Steroids
 
@@ -4855,6 +4997,8 @@ This article discusses the importance of cultural sensitivity and personalized m
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 7 Warning Signs of Parasites and How to Fight Back
 
 ### 小節一：核心主題  
@@ -4915,6 +5059,8 @@ This article discusses the importance of cultural sensitivity and personalized m
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # DEVASTATING!
 
 ### 小結整理
@@ -4958,6 +5104,8 @@ This article discusses the importance of cultural sensitivity and personalized m
     <img src="https://img.youtube.com/vi/LdR3gAzCdpU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Eliminate Bloating: The Ultimate Solution by Dr. Berg
 
@@ -5021,6 +5169,8 @@ This article discusses the importance of cultural sensitivity and personalized m
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Fastest Way to Get Rid of Toenail Fungus
 
 ### 文章整理： toenail fungus 的治療與預防
@@ -5081,6 +5231,8 @@ This article discusses the importance of cultural sensitivity and personalized m
     <img src="https://img.youtube.com/vi/UtSvAyRs5OA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Here’s My 2 Cents: "Making America Healthy Again"
 
@@ -5200,6 +5352,8 @@ This article discusses the importance of cultural sensitivity and personalized m
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Use Your Feet As Warning Signs
 
 ### 核心主題：腳部作為身體健康的診斷窗口  
@@ -5285,6 +5439,8 @@ This article discusses the importance of cultural sensitivity and personalized m
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Reverse Aging
 
 ### 總覽與核心主題  
@@ -5365,6 +5521,8 @@ This article discusses the importance of cultural sensitivity and personalized m
     <img src="https://img.youtube.com/vi/s0jIXMc3PS0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The #1 Best Probiotic for Autoimmune Conditions
 
@@ -5453,6 +5611,8 @@ This article discusses the importance of cultural sensitivity and personalized m
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # STOP OVERTHINKING 24/7
 
 ### 文章整理  
@@ -5531,6 +5691,8 @@ This article discusses the importance of cultural sensitivity and personalized m
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # These Vitamin D Mistakes Are Bad
 
 ### 小節整理：文章關於維生素D的常見錯誤與建議
@@ -5584,6 +5746,8 @@ This article discusses the importance of cultural sensitivity and personalized m
     <img src="https://img.youtube.com/vi/9VJxmAvQX9s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 7 Foods You Should Be Eating After You Reach the Age of 50
 
@@ -5657,6 +5821,8 @@ This article discusses the importance of cultural sensitivity and personalized m
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Get Rid of Mucus Fast
 
 ### 小節歸納
@@ -5718,6 +5884,8 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
     <img src="https://img.youtube.com/vi/x1SIEftYSvY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Cancer HATES This!
 
@@ -5789,6 +5957,8 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
     <img src="https://img.youtube.com/vi/MTpnF4V8stA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Look Younger
 
@@ -5869,6 +6039,8 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Worse than Sugar
 
 ### 文章重點整理
@@ -5926,6 +6098,8 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why Is No One Talking About This...
 
 ### 核心主題
@@ -5980,6 +6154,8 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
     <img src="https://img.youtube.com/vi/NI5a45kmvr0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # You've Been Lied to About This
 
@@ -6039,6 +6215,8 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
     <img src="https://img.youtube.com/vi/89jJ1JlNZlg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Greatest Overlooked Nutrient in Medicine
 
@@ -6115,6 +6293,8 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Supplements That ACTUALLY WORK
 
 ### 文章總結：重要營養素與補充劑的功效及其應用
@@ -6164,6 +6344,8 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
     <img src="https://img.youtube.com/vi/jhL1mN0uBFw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # I Was Shocked When I Learned About This
 
@@ -6239,6 +6421,8 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Vitamin B1 and SUGAR Experiment: WARNING
 
 ### 文章重點整理
@@ -6278,6 +6462,8 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
     <img src="https://img.youtube.com/vi/XiMxWUF6k04/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Gluten Free Exposed: The Shocking Reality
 
@@ -6377,6 +6563,8 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The #1 Superfood in the World
 
 ### 文章整理：紅肉的營養價值與健康爭議
@@ -6456,6 +6644,8 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Most Neglected Nutrient By Doctors
 
 ### 小節整理： magnesium 在人體健康中的角色與重要性
@@ -6522,6 +6712,8 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
     <img src="https://img.youtube.com/vi/8KgNWFyd01g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 21 Signs Your Body Needs Specific Nutrients
 
@@ -6609,6 +6801,8 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # This Is CRAZY!
 
 ### 文章整理與歸納
@@ -6675,6 +6869,8 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # THIS Increases Heart Attack Risk over 2000%
 
 ### 文章整理：壓力管理與健康
@@ -6738,6 +6934,8 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The BEST Fibroid Shrinking Vitamin (based on science)
 
 ### 文章重點整理
@@ -6798,6 +6996,8 @@ NAC是一種具有廣泛應用的多功能治療藥物，不僅在黏液溶解�
     <img src="https://img.youtube.com/vi/4-llgWDKEkM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The #1 Ingredient That Makes You Fat (NOT SUGAR)
 

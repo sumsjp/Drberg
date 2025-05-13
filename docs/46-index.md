@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Fix Your Gut with ONE Microbe
 
 ### 文章重點整理
@@ -69,6 +71,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Natural BOMB 🧄🧅 for Cleansing the Liver and Blood Vessels: 2 Powerful Ingredients
 
 ### 文章重點整理
@@ -127,6 +131,8 @@
     <img src="https://img.youtube.com/vi/gKviXbX8xGM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # This 1 Thing Can Replace Our Entire Medical System
 
@@ -195,6 +201,8 @@
     <img src="https://img.youtube.com/vi/0QftLonhnuk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # DRINK 1 CUP Turmeric Water for Amazing Benefits
 
@@ -266,6 +274,8 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
     <img src="https://img.youtube.com/vi/BlnOEpsPt1A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The #1 Blood Test Most Overlooked for Hair Loss
 
@@ -348,6 +358,8 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 14 Bad Habits That Can Destroy Your Heart
 
 ### 文章整理與分析
@@ -414,6 +426,8 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
     <img src="https://img.youtube.com/vi/JNxZiBTWxSU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # This Can Be DEADLY!
 
@@ -516,6 +530,8 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 7 Foods That Destroy the Kidneys
 
 ### 核心主題：肾脏健康与饮食的关系
@@ -557,6 +573,8 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
     <img src="https://img.youtube.com/vi/XEcssz8NOhg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Benefits of Drinking Clove Water at Night
 
@@ -630,6 +648,8 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The 7 Warning Signs of a Zinc Deficiency
 
 ### 文章整理：七大锌缺乏症狀及其影響與解決方案
@@ -687,6 +707,8 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
     <img src="https://img.youtube.com/vi/OiU1B6VNDvQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # I Will Get Attacked for This...
 
@@ -750,6 +772,8 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Research Reveals: This Repairs Nerve Damage
 
 ### 文章整理與分析
@@ -807,6 +831,8 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The BEST and WORST Forms of Magnesium
 
 ### 文章重點整理
@@ -863,6 +889,8 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # This Can DESTROY Your Body
 
 ### 文章整理：病毒感染與免疫系統的對抗策略
@@ -915,6 +943,8 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
     <img src="https://img.youtube.com/vi/r5_NvTvJBY4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Get ALL Your Vitamins in this MEAL
 
@@ -976,6 +1006,8 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
     <img src="https://img.youtube.com/vi/3Mo1F8ce1yY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # You Will NEVER Eat Bread Again after Watching This
 
@@ -1046,6 +1078,8 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
     <img src="https://img.youtube.com/vi/JmCBAkmJ-rs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # I used to look like this…
 
@@ -1127,6 +1161,8 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # You Will NEVER Eat Sugar Again after This Video
 
 ### 小節整理：
@@ -1171,6 +1207,8 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
     <img src="https://img.youtube.com/vi/AXq2ZdXXFCU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 11 Bizarre Symptoms of Vitamin D Deficiency (You NEED to Know)
 
@@ -1219,6 +1257,8 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
     <img src="https://img.youtube.com/vi/4t4_ehyKDsU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 7 Bad Habits That Ruins Your Liver
 
@@ -1294,6 +1334,8 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # You Will Never Get High Blood Pressure after Watching This Video
 
 ### 核心主題：高血壓的營養治療與預防
@@ -1345,6 +1387,8 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
     <img src="https://img.youtube.com/vi/QTlp6VTu4S8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 7 Early Signs of Liver Damage
 
@@ -1411,6 +1455,8 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # These Foods Are Basically Poison
 
 ### 文章重點整理
@@ -1457,6 +1503,8 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
     <img src="https://img.youtube.com/vi/5KSi-yCa4hE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # I Get 20 Tick Bites Every Week (Lyme Disease)
 
@@ -1531,6 +1579,8 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
     <img src="https://img.youtube.com/vi/cojfbFPi9-A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # NEVER IGNORE These Warning Signs!
 
@@ -1608,6 +1658,8 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # #1 Vitamin to Eliminate Swollen Legs and Ankles
 
 ### 核心主題  
@@ -1648,6 +1700,8 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
     <img src="https://img.youtube.com/vi/qY8ypQGEhCA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Vitamin Deficiency that is KILLING Your Sciatica Nerve
 
@@ -1719,6 +1773,8 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Fastest Way to Rid Your DOUBLE CHIN (Turkey Neck)
 
 ### 文章整理：消除雙下巴和 turkey neck 的訓練方法
@@ -1784,6 +1840,8 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 4 Common Ingredients That Will Kill You!
 
 ### 小節化整理
@@ -1836,6 +1894,8 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
     <img src="https://img.youtube.com/vi/_JrqyBwy_eo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # These Mistakes Are Super Unhealthy!
 
@@ -1944,6 +2004,8 @@ Curcumin 是一種具備多種健康效益的天然化合物，可作為藥物�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # I Took Omega-3 Fish Oil for 30 Days. Here's What Happened.
 
 ### 文章重點整理
@@ -2033,6 +2095,8 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
     <img src="https://img.youtube.com/vi/pdKgMQI_JoI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # This Is a DEADLY Combination
 
@@ -2136,6 +2200,8 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Don’t IGNORE These Nighttime Signs of Diabetes
 
 ---
@@ -2185,6 +2251,8 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
     <img src="https://img.youtube.com/vi/WGLgSAwuygo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # You Will NEVER Eat Sugar Again after This!
 
@@ -2243,6 +2311,8 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
     <img src="https://img.youtube.com/vi/vJu7v9JtD-o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The #1 Deficiency behind Aging Spots
 
@@ -2322,6 +2392,8 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Worst Weight-Loss Diet
 
 ### 文章整理：七種最差的飲食計劃分析與健康建議
@@ -2366,6 +2438,8 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
     <img src="https://img.youtube.com/vi/xVgfijICfrI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 7 Fruits That Destroy Cancer
 
@@ -2435,6 +2509,8 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Correct Your Posture in Just Minutes!
 
 ## 經絡按摩師的專業見解  
@@ -2474,6 +2550,8 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
     <img src="https://img.youtube.com/vi/O3EWt8jyX2E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # This Fat Is SUPER DANGEROUS
 
@@ -2568,6 +2646,8 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Protein Bars Are WORSE than Candy Bars!!!
 
 ### 重點整理與分析
@@ -2651,6 +2731,8 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
     <img src="https://img.youtube.com/vi/Xs1i6QzoB6o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 5 Foods That Improve Sleep Quality
 
@@ -2740,6 +2822,8 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How Grocery Stores SCAM YOU!!
 
 ### 核心主題
@@ -2786,6 +2870,8 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
     <img src="https://img.youtube.com/vi/K_C3RIudfFw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # I Might Get Banned for This...
 
@@ -2883,6 +2969,8 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Dark Side of the Fast Food Industry
 
 ### 核心主題：快餐業的秘密與影響
@@ -2958,6 +3046,8 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Zero Sugar Foods Have TONS of Sugar: WHAT???
 
 ### 文章整理： sugars and starches in a balanced diet
@@ -3012,6 +3102,8 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 7 Foods to Avoid
 
 # 文章整理：有害食品添加劑的核心問題與健康建議
@@ -3056,6 +3148,8 @@ Omega-3脂肪酸（特別是DHA）對人體多個系統具有重要影響，可�
     <img src="https://img.youtube.com/vi/CozZ1Rcm55E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What Happens if You STOP Using Your Cell Phone Before Bed for 14 Days
 
@@ -3117,6 +3211,8 @@ The article explores the impact of modern technology, particularly smartphones, 
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # VITAMIN D IS WORTHLESS
 
 ### 核心主題：維生素D的研究與有效性評估  
@@ -3174,6 +3270,8 @@ The article explores the impact of modern technology, particularly smartphones, 
     <img src="https://img.youtube.com/vi/QAQ7r6jLEww/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Your Body Is BEGGING for Vitamin D!!
 
@@ -3250,6 +3348,8 @@ The article explores the impact of modern technology, particularly smartphones, 
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Most Powerful Group Behind What You Eat
 
 ### 核心主題  
@@ -3302,6 +3402,8 @@ The article explores the impact of modern technology, particularly smartphones, 
     <img src="https://img.youtube.com/vi/q7xtsTM4ysw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The MOST Dangerous Ice Cream
 
@@ -3364,6 +3466,8 @@ The article explores the impact of modern technology, particularly smartphones, 
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Worst Ingredient in the World: Interview with Dr. Chris Knobbe
 
 ### 文章重點整理
@@ -3418,6 +3522,8 @@ The article explores the impact of modern technology, particularly smartphones, 
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 7 Stupid Health Mistakes
 
 ### 核心主題：七大健康誤區的危害與解決方案
@@ -3470,6 +3576,8 @@ The article explores the impact of modern technology, particularly smartphones, 
     <img src="https://img.youtube.com/vi/WCyY3OmdJCg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Dry Fasting Causes 3X More Fat Loss
 
@@ -3542,6 +3650,8 @@ The article explores the impact of modern technology, particularly smartphones, 
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # I Had NO Idea This Spiked Blood Sugar
 
 ### 核心主題 (Core Theme)
@@ -3584,6 +3694,8 @@ The article explores the impact of modern technology, particularly smartphones, 
     <img src="https://img.youtube.com/vi/lFbFEzsKbzc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # REAL Reason You’re Not Losing Weight
 
@@ -3653,6 +3765,8 @@ The article explores the impact of modern technology, particularly smartphones, 
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # This Can't Be Real...Magic
 
 ### 文章重點整理
@@ -3695,6 +3809,8 @@ The article explores the impact of modern technology, particularly smartphones, 
     <img src="https://img.youtube.com/vi/kEs2epLMq4Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Milk Can Kill You?!
 
@@ -3751,6 +3867,8 @@ The article explores the impact of modern technology, particularly smartphones, 
     <img src="https://img.youtube.com/vi/8iARMPdrblY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Eat This for HASHIMOTO'S (Slow Thyroid)
 
@@ -3812,6 +3930,8 @@ The article explores the impact of modern technology, particularly smartphones, 
     <img src="https://img.youtube.com/vi/5wXcNJWrsmQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 6 Ways to RUIN Your Fasting Benefits
 
@@ -3917,6 +4037,8 @@ The article explores the impact of modern technology, particularly smartphones, 
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 6 DEVASTATING Vitamin Deficiencies
 
 ### 文章整理：六種營養缺乏導致的嚴重健康問題
@@ -4002,6 +4124,8 @@ The article explores the impact of modern technology, particularly smartphones, 
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # You Need to Take More of This
 
 ### 小節分類與整理
@@ -4069,6 +4193,8 @@ The article explores the impact of modern technology, particularly smartphones, 
     <img src="https://img.youtube.com/vi/4Wd5a4veej8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How To CLEAN Your LIVER in 3 Days!
 
@@ -4144,6 +4270,8 @@ The article explores the impact of modern technology, particularly smartphones, 
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Everyone IGNORES This Part of Their Body
 
 ### 核心主題：筋膜的功能與重要性  
@@ -4194,6 +4322,8 @@ The article explores the impact of modern technology, particularly smartphones, 
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Your Waist Size Is IMPORTANT!
 
 ### 核心主題
@@ -4236,6 +4366,8 @@ The article explores the impact of modern technology, particularly smartphones, 
     <img src="https://img.youtube.com/vi/wCNNDojIDto/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # DON'T DO THIS IF YOU'RE OVER 50!!!
 
@@ -4308,6 +4440,8 @@ The article explores the impact of modern technology, particularly smartphones, 
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What BLOATING Really Means
 
 ### 小腸漏出的核心主題
@@ -4370,6 +4504,8 @@ The article explores the impact of modern technology, particularly smartphones, 
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The BIGGEST LIE about Food
 
 ### 核心主題：反式脂肪和膽固醇對健康的影響
@@ -4430,6 +4566,8 @@ The article explores the impact of modern technology, particularly smartphones, 
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Aneurysms: The Silent Killer
 
 ### 核心主題  
@@ -4487,6 +4625,8 @@ The article explores the impact of modern technology, particularly smartphones, 
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 1 in 4 People Have This!!
 
 # 文章重點整理
@@ -4538,6 +4678,8 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
     <img src="https://img.youtube.com/vi/pf_z1OSYxmk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why You Can't SLEEP! Simple Fix
 
@@ -4596,6 +4738,8 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
     <img src="https://img.youtube.com/vi/Rra9FJ2lURI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # STOP Aging and Look YOUNGER!
 
@@ -4656,6 +4800,8 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
     <img src="https://img.youtube.com/vi/yBOrKcsVbOs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # YOUR BODY IS TRYING TO WARN YOU!!
 
@@ -4749,6 +4895,8 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Do Chia Seeds Have ANY Benefits?
 
 ### 核心主題
@@ -4835,6 +4983,8 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How To RESTORE Hearing Loss FAST!
 
 ### 文章要點整理
@@ -4884,6 +5034,8 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
     <img src="https://img.youtube.com/vi/1CV8B82r5Sg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What Exercise Makes You LOSE WEIGHT?!
 
@@ -4987,6 +5139,8 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why Sea Moss Is Going VIRAL!
 
 ### 重點整理：海藻（Sea Moss）的營養價值與健康益處
@@ -5059,6 +5213,8 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Is This Why You’re Stressed or Not Sleeping?
 
 ### 重點整理
@@ -5111,6 +5267,8 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Watch This If You Can't Go Number 2
 
 ### 文章整理：緩解便秘的三步策略
@@ -5157,6 +5315,8 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
     <img src="https://img.youtube.com/vi/gA0p8WkGSCw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Best Fix for Dry and Wrinkled Skin
 
@@ -5233,6 +5393,8 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Do NOT Cook with This!!!
 
 ### 核心主题：深煎炸食物时的最佳油选择与健康影响
@@ -5292,6 +5454,8 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
     <img src="https://img.youtube.com/vi/YTd9JJw6sc8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Over 50% of Women Have THIS?!
 
@@ -5359,6 +5523,8 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
     <img src="https://img.youtube.com/vi/T9WkRYMfvp8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What Causes Eye Floaters and Dry Eyes?
 
@@ -5445,6 +5611,8 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 1 Tablespoon a Day Burns Belly Fat
 
 ### 核心主題  
@@ -5524,6 +5692,8 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # AVOID Ginger if You Have THESE Problems
 
 ### 小節歸納
@@ -5579,6 +5749,8 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
     <img src="https://img.youtube.com/vi/bIr5LgufkNQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Make SURE You're Not Deficient in This!!!
 
@@ -5644,6 +5816,8 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # This Vitamin Reverses GLAUCOMA?!
 
 ### 文章整理：青光眼的營養干預與維生素D的角色
@@ -5705,6 +5879,8 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # This Is One of the WORST Things You Can Eat!
 
 # 肝臟健康管理：識別最差食物及改善策略
@@ -5758,6 +5934,8 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The #1 Deficiency in All Skin Diseases (Dermatitis)
 
 ### 核心主題：皮膚疾病的共通點與維生素D的角色
@@ -5802,6 +5980,8 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
     <img src="https://img.youtube.com/vi/fYmq9JMlFRA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 8 Ways to Heal Trauma (Physical) without Medication — Dr. Berg
 
@@ -5908,6 +6088,8 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Most Dangerous Ingredient in Protein Powder (Mass Gainer)
 
 ### 文章整理：肌力訓練與營養补充劑的危害
@@ -5960,6 +6142,8 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Lose Arm Fat Quick: BEST TIP
 
 ### 小節歸納：鬆弛手臂下方肌膚問題的研究與解決方案
@@ -6000,6 +6184,8 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
     <img src="https://img.youtube.com/vi/a4zXbFp3djA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 7 Signs You're Eating Too Much Sugar
 
@@ -6076,6 +6262,8 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why Do Most Indian Men Have a Protruding Potbelly?
 
 ### 小節歸納與整理
@@ -6133,6 +6321,8 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
     <img src="https://img.youtube.com/vi/Ni1bs_nFIPQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Americans Consume More of This Than ANY Other Country!!!
 
@@ -6208,6 +6398,8 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Small American Farmers in Serious Crisis: The Back Story
 
 ### 文章整理報告
@@ -6252,6 +6444,8 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
     <img src="https://img.youtube.com/vi/H_U5QRk_Wrc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Big Lie about Vitamin D
 
@@ -6310,6 +6504,8 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
     <img src="https://img.youtube.com/vi/KQsR4sVOfaA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 57% Of People Have This Problem!!
 
@@ -6378,6 +6574,8 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 4 Surprising Ways to Speed up Muscle Growth
 
 ### 文章重點整理
@@ -6438,6 +6636,8 @@ NAC是一種高效且自然的解毒補充劑，能夠有效減輕多種 toxicit
     <img src="https://img.youtube.com/vi/4bpS3VVrKO0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Dissolve Crystals in the Inner Ear and Get Rid of Vertigo
 

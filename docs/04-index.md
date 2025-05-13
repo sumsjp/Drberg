@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # GOUT ARTHRITIS: What Causes Gout and What Foods to Avoid for Gout
 
 ### 核心主題  
@@ -63,6 +65,8 @@
     <img src="https://img.youtube.com/vi/YYO5oB1QQXk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What are Enzymes and How do They Work? - Dr. Berg
 
@@ -144,6 +148,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Hidden Dangers of Soy & How Does it Affect Your Body – Dr. Berg
 
 ### 小節結構
@@ -184,6 +190,8 @@
     <img src="https://img.youtube.com/vi/vyNGfl_bZGk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Best Acupressure Points for Post Concussion Syndrome – Dr.Berg
 
@@ -261,6 +269,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Adrenal Fatigue: Is Cortisol Responsible for Your Diabetes? - Dr. Berg
 
 ### 文章整理： adrenaL stress and the diabetes connection
@@ -310,6 +320,8 @@
     <img src="https://img.youtube.com/vi/SCPUjoLmAlo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why Sit Ups Are Bad Exercise to Reduce Belly Fat – Exercise for Belly Fat – Dr. Berg
 
@@ -389,6 +401,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Cortisol Resistance & Insulin Resistance Explained by Dr.Berg
 
 ### 一、核心主題：壓力和代謝紊亂（焦慮性抵抗與胰島素抵抗）
@@ -425,6 +439,8 @@
     <img src="https://img.youtube.com/vi/MZspYOeAbL4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Fix Carpal Tunnel Syndrome (CTS) – Physiotherapy Treatment by Dr. Berg
 
@@ -469,6 +485,8 @@
     <img src="https://img.youtube.com/vi/RR1f8bNQQNc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Stressors | Causes of Stress & How it affects your body – Dr. Berg
 
@@ -516,6 +534,8 @@
     <img src="https://img.youtube.com/vi/wo7i9bFs4Bw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Vitamin A: Sources, Functions, and Deficiencies – Dr. Berg
 
@@ -570,6 +590,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Cranial Sacral Massage Therapy – Effective Techniques by Dr. Berg
 
 ### 核心主題：cranial relaxation technique (CRT)
@@ -622,6 +644,8 @@
     <img src="https://img.youtube.com/vi/7IRuHNI9J0s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Which Vitamin Deficiency Causes Chapped / Cracked Lips? – Dr. Berg
 
@@ -693,6 +717,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Types of Stool : Size, Shape & Color – Stool Analysis by Dr. Berg
 
 ### 小結整理：糞便診斷與健康管理
@@ -749,6 +775,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Amazing Health Benefits of Cabbage | Dr. Berg
 
 ### 核心主題
@@ -796,6 +824,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Dr.Berg Explains What Makes you Feel Sick Despite Eating Healthy Food
 
 ### 核心主題  
@@ -836,6 +866,8 @@
     <img src="https://img.youtube.com/vi/8oRu1vSWCqg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 6 Common Myths About Weight Loss Pills – Dr. Berg
 
@@ -923,6 +955,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Vitamin A Deficiency – Causes of Dry Eyes Explained by Dr. Berg
 
 ### 核心主題：干眼症的原因與解決方案
@@ -991,6 +1025,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Trigger Your Fat Burning Hormones – Dr. Berg
 
 # 促進脂肪燃燒激素--胰高血糖素的作用與應用
@@ -1047,6 +1083,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Drinking Lemon Water a Day Keeps Your Kidney Stones Away – Dr. Berg
 
 ### 核心主題：檸檬在腎结石預防中的作用
@@ -1081,6 +1119,8 @@
     <img src="https://img.youtube.com/vi/zGK4m_f9Veg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # My Best Fat Burning Philosophy – Dr. Berg
 
@@ -1134,6 +1174,8 @@
     <img src="https://img.youtube.com/vi/b02qS-QmgQ8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What Causes Itchy Feet and How to Stop It? – Dr. Berg
 
@@ -1192,6 +1234,8 @@
     <img src="https://img.youtube.com/vi/IqRo8gGbFuo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Blackstrap Molasses Benefits Explained by Dr. Berg
 
@@ -1259,6 +1303,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Biggest Barriers to Weight Loss – Dr. Berg
 
 ### 核心主題  
@@ -1321,6 +1367,8 @@
     <img src="https://img.youtube.com/vi/QyFZuTnzhSc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Eyelid Twitching? Find Out Causes and Cure – Dr. Berg
 
@@ -1388,6 +1436,8 @@
     <img src="https://img.youtube.com/vi/H7qWXNaQmwo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Say Goodbye to Loose Skin – Dr. Berg's Tips for Tightening and Toning
 
@@ -1466,6 +1516,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Self-Massage Tool for Relaxation, Deep Sleep, and Neck Tightness – Dr. Berg
 
 ### 核心主題  
@@ -1532,6 +1584,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Calcium and Magnesium Absorption Basics – Dr. Berg
 
 ### 小節歸納
@@ -1596,6 +1650,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Fastest Way to Lose Weight – Fat Loss Tips by Dr.Berg
 
 ### 核心主題
@@ -1646,6 +1702,8 @@
     <img src="https://img.youtube.com/vi/wIJ-hCOLTss/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The 2 Most DANGEROUS Foods: MUST WATCH! – Dr.Berg
 
@@ -1715,6 +1773,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Biggest Weight Loss Mistakes Explained by Dr. Berg
 
 ### 核心主題  
@@ -1770,6 +1830,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Stop Diarrhea Fast Using Easy Home Remedies – Dr. Berg
 
 ### 核心主題  
@@ -1823,6 +1885,8 @@
     <img src="https://img.youtube.com/vi/7H7id3to1cg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Get Rid of Brain Fog – Best Nutrition Tip by Dr.Berg
 
@@ -1891,6 +1955,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Sleepy After Eating? – Top Reasons Explained by Dr.Berg
 
 ### 核心主題  
@@ -1952,6 +2018,8 @@
     <img src="https://img.youtube.com/vi/CpXNXhhO9GE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Healthy Lifestyle Hacks by Dr.Berg (PART 4)
 
@@ -2045,6 +2113,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Healthy Lifestyle Hacks by Dr.Berg (PART 3)
 
 ### 核心主題
@@ -2106,6 +2176,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Healthy Lifestyle Hacks by Dr.Berg (PART 2)
 
 ### 核心主題
@@ -2143,6 +2215,8 @@
     <img src="https://img.youtube.com/vi/vSHkMAMRRV4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Healthy Lifestyle Hacks by Dr.Berg (PART 1)
 
@@ -2239,6 +2313,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Glycemic Index versus Insulin Index: VERY INTERESTING!
 
 ### 文章要點整理
@@ -2305,6 +2381,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Correct Posture – The Best and Simple Stretch – Dr. Berg
 
 ### 小節整理：姿勢矯正方法的研究與建議
@@ -2347,6 +2425,8 @@
     <img src="https://img.youtube.com/vi/r3cqJMFN7ls/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # BILE: What is BILE and Where is it Produced – Dr. Berg
 
@@ -2408,6 +2488,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
     <img src="https://img.youtube.com/vi/vXSA3TEzkag/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Best Remedies for Asthma – Dr. Berg
 
@@ -2474,6 +2556,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What Causes Bleeding Gums and How to Cure It – Stop Bleeding Gums – Dr.Berg
 
 ### 文章整理與分析
@@ -2518,6 +2602,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Bunion Pain Relief – The Simple & Best Technique by Dr.Berg
 
 ### 核心主題：處理拇趾外翻（鵝足）症狀與疼痛管理
@@ -2556,6 +2642,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
     <img src="https://img.youtube.com/vi/dneTSBfxDlE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Fix Flat Feet – Best Stretch & Exercise – Dr. Berg
 
@@ -2604,6 +2692,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
     <img src="https://img.youtube.com/vi/_R1MkuRQt9k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Adrenal Body Type Seminar by Dr. Eric Berg
 
@@ -2660,6 +2750,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How Much Protein Do You Need? – Dr. Berg
 
 ### 小節整理：Dr. Burg 談每日蛋白質需求與健康影響
@@ -2714,6 +2806,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
     <img src="https://img.youtube.com/vi/eXF4iD3O_oA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Do We Need Carbohydrates? – Dr. Berg
 
@@ -2793,6 +2887,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Fix a Short Leg – Dr. Berg
 
 ### 小腿短縮的核心主題
@@ -2846,6 +2942,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
     <img src="https://img.youtube.com/vi/nkfuxQ2MLUs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Knee Pain Relief Tips Before and After – Dr. Berg
 
@@ -2903,6 +3001,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Bad Breath Cure with Oil of Oregano – Dr. Berg
 
 ### 核心主題
@@ -2947,6 +3047,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
     <img src="https://img.youtube.com/vi/FSbiZF4CgS8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Neck Pain Relief, Easy Stretches & Exercise – Dr. Berg
 
@@ -3029,6 +3131,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Best Tip For A Chronic Dry Cough – Dr. Berg
 
 ## 文章重點整理
@@ -3068,6 +3172,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
     <img src="https://img.youtube.com/vi/IXwZSYx6bFc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Best Psoas Stretch Techniques – Dr. Berg
 
@@ -3161,6 +3267,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Low Tolerance To Stress? – Dr. Berg
 
 ### 文章整理：低壓力耐受力與易怒症的成因及解決方案
@@ -3215,6 +3323,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Top Signs of a Vitamin B2 Deficiency – Dr. Berg
 
 ### 核心主題：維生素B2（核黃素）缺乏症及其影響
@@ -3251,6 +3361,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
     <img src="https://img.youtube.com/vi/2QdHE9oNuLs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Best Liver Cleansing Shake for a Fatty Liver!
 
@@ -3307,6 +3419,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Be an Amazing Health Coach: Webinar
 
 ### 小節整理
@@ -3348,6 +3462,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Control Cholesterol With Very Simple Hacks – Dr.Berg
 
 ### 核心主題：膽固醇的作用與管理
@@ -3383,6 +3499,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
     <img src="https://img.youtube.com/vi/dat1NCD5lSM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Best Atrial Fibrillation Guidelines – Dr. Berg
 
@@ -3442,6 +3560,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
     <img src="https://img.youtube.com/vi/UF9Oz4OetEs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Eat Less, Lower Your Calories & Lose Weight Myth – Dr. Berg
 
@@ -3519,6 +3639,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Treat Low Blood Sugar – #1 Diet Tip for Hypoglycemia By Dr. Berg
 
 ### 文章整理：低血糖（Hypoglycemia）的理解與管理
@@ -3594,6 +3716,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Is Your Butt Turning Into Your Belly at MENOPAUSE? – Dr. Berg
 
 ### 核心主題
@@ -3632,6 +3756,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
     <img src="https://img.youtube.com/vi/ts3vBjf9wLE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Right Wrist Pain Relief (Carpal Tunnel Syndrome) – Dr. Berg
 
@@ -3710,6 +3836,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Improve Eyesight With Best Exercise – Dr. Berg
 
 ### 文章整理：如何改善近視與遠視，避免依賴眼鏡
@@ -3786,6 +3914,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Improve Memory & Connection between Alzheimer's & Insulin – Dr.Berg
 
 ### 核心主題：記憶障礙、阿茲海默症與胰島素代謝的關聯
@@ -3839,6 +3969,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Sleep, Exercise & Heart Attacks! – Dr. Berg
 
 ### 小節化整理
@@ -3883,6 +4015,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
     <img src="https://img.youtube.com/vi/8XFcwkmBcK0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Top Zinc Deficiency Symptoms – MUST WATCH! – Dr. Berg
 
@@ -3937,6 +4071,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Relieve Right Foot Pain – Dr. Berg
 
 ### 小節歸納
@@ -3981,6 +4117,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
     <img src="https://img.youtube.com/vi/_iLiht3fGW8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Overcome an Afternoon Slump With 3 Easy Solutions – Dr. Berg
 
@@ -4037,6 +4175,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
     <img src="https://img.youtube.com/vi/FL-790zBpo0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Fix Frequent Urination at Night (Nocturia) – Dr. Berg
 
@@ -4101,6 +4241,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Reduce Bloating Quickly? Bloating Remedies – Dr.Berg
 
 ### 核心主題：快速減少腹脹的方法
@@ -4151,6 +4293,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Fix Shoulder Pain – Techniques REVEALED! – Dr. Berg
 
 ### 小節整理：肩部疼痛的原因與 해결 방법
@@ -4197,6 +4341,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Can’t Sleep? Try These 5 Tips To Get a Better Night’s Sleep – Dr. Berg
 
 ### 核心主題
@@ -4237,6 +4383,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
     <img src="https://img.youtube.com/vi/ci-GB094qg0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 4 Constipation Remedies by Dr. Berg That Target Underlying Root Causes
 
@@ -4314,6 +4462,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
     <img src="https://img.youtube.com/vi/OvgQNvq7inI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Stop the 5 Causes of Inflammation: FAST! – Dr. Berg
 
@@ -4433,6 +4583,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Fix Tennis Elbow – Best Self Stretches – Dr. Berg
 
 ### 核心主題
@@ -4480,6 +4632,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
     <img src="https://img.youtube.com/vi/v_41TUmJs9k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Irritable Bowel Syndrome (IBS) – Top 5 Tips – Dr.Berg
 
@@ -4535,6 +4689,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Instant TMJ Relief With Simple Exercise – Dr.Berg
 
 ### 正式學術用語整理
@@ -4584,6 +4740,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
     <img src="https://img.youtube.com/vi/5olzMcMCCkM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How Stress Affects Your Brain – Dr.Berg
 
@@ -4656,6 +4814,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Sleep Fast and Better: MUST WATCH – Dr. Berg
 
 ### 核心主題
@@ -4709,6 +4869,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
     <img src="https://img.youtube.com/vi/6nsE7k5WJz8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Start Eating Healthy – Top 4 Tips by Dr. Berg
 
@@ -4786,6 +4948,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What is A1C in Simple Terms – Dr. Berg
 
 ### 核心主題：A1C 指數的定義與意義  
@@ -4823,6 +4987,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
     <img src="https://img.youtube.com/vi/gL8_-qQHZBM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Treat Varicose Veins Naturally – Dr. Berg
 
@@ -4874,6 +5040,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
     <img src="https://img.youtube.com/vi/zvZpUK-XUIw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Adrenal Body Type Supplements - WHAT'S IN IT!
 
@@ -4975,6 +5143,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Problems with Eating KALE! – Dr.Berg
 
 ### 核心主題：分析 kale 的食用問題及其影響
@@ -5033,6 +5203,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
     <img src="https://img.youtube.com/vi/jcEWTbh-wVY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Lose That Last 10 Pounds – Dr. Berg
 
@@ -5095,6 +5267,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
     <img src="https://img.youtube.com/vi/uscfirFx894/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Vitamin B12 Deficiency: The most common Cause – Dr. Berg
 
@@ -5159,6 +5333,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
     <img src="https://img.youtube.com/vi/AY6UZXPF750/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Adrenal Gland and Potassium Connection – Dr.Berg
 
@@ -5226,6 +5402,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Iodine-Estrogen Connection: MUST WATCH!
 
 ### 文章整理：碘與雌激素的連接
@@ -5276,6 +5454,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
     <img src="https://img.youtube.com/vi/ltZiTdmMH3Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The 6 Causes of Skin, Nails, Hair & Muscles Problems – Dr. Berg
 
@@ -5328,6 +5508,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
     <img src="https://img.youtube.com/vi/MD1SOOlFw4c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Increase Blood Oxygen Levels Using Nutrition – Dr. Berg
 
@@ -5388,6 +5570,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Intermittent Fasting, Muscle Loss & Growth Hormone – Dr. Berg
 
 ### 核心主題：間隔式斷食對肌肉流失的影響及其生理机制
@@ -5433,6 +5617,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
     <img src="https://img.youtube.com/vi/8nK8x8MSQe0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Amazing Nutritional Yeast Benefits – Dr.Berg
 
@@ -5509,6 +5695,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Sciatic Nerve Pain Be Gone: Dr. Berg's Quick Fix Solutions
 
 ### 核心主題
@@ -5553,6 +5741,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
     <img src="https://img.youtube.com/vi/qAycloYO4KE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Amazing Gallbladder FLUSH Using Acupressure – Dr.Berg
 
@@ -5618,6 +5808,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
     <img src="https://img.youtube.com/vi/nEfN-PoNoRQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Bloating * Indigestion * Constipation * Acid Reflux – Dr.Berg
 
@@ -5706,6 +5898,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to STOP Bloating? – 5 Healthy Tips to Lose Belly Fat – Dr.Berg
 
 ### 核心主題
@@ -5764,6 +5958,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
     <img src="https://img.youtube.com/vi/EvQhexxMNRc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What Causes Charley Horses (Calf Cramp) – Dr. Berg
 
@@ -5835,6 +6031,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Power of Lemon Water: Dr. Berg's Top Benefits
 
 
@@ -5850,6 +6048,8 @@ bile 是維持消化、排毒和整體生理功能的關鍵因素。其缺乏或
     <img src="https://img.youtube.com/vi/rlXWB0C0EcU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Fix Knee Pain Fast – REALLY WORKS! – Dr. Berg
 

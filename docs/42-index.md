@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 11 Ways to Boost Oxygen and Live Longer (Increasing VO2 Max)
 
 ### 文章重點整理
@@ -89,6 +91,8 @@ VO₂ max的提升需要綜合運用科學的訓練方法、合理的飲食結�
     <img src="https://img.youtube.com/vi/C2kJQ4ufzXc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Detoxify Your Lungs
 
@@ -174,6 +178,8 @@ VO₂ max的提升需要綜合運用科學的訓練方法、合理的飲食結�
     <img src="https://img.youtube.com/vi/uT2zBPmcmsA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Get Rid of Dandruff Once and for All
 
@@ -269,6 +275,8 @@ VO₂ max的提升需要綜合運用科學的訓練方法、合理的飲食結�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why You Should Drink Carbonated Water
 
 # 文章整理：碳酸水與二氧化碳的健康影響
@@ -333,6 +341,8 @@ VO₂ max的提升需要綜合運用科學的訓練方法、合理的飲食結�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Nose Breathing Amazing Benefits - Why You Should Breathe Through Your Nose
 
 ---
@@ -388,6 +398,8 @@ VO₂ max的提升需要綜合運用科學的訓練方法、合理的飲食結�
     <img src="https://img.youtube.com/vi/PiO4QZ6ZAQw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # If You're Tired But Can't Fall Asleep, This Video is for You!
 
@@ -457,6 +469,8 @@ VO₂ max的提升需要綜合運用科學的訓練方法、合理的飲食結�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Psoriasis Relief: The Best Remedy For Your Skin
 
 ### 文章整理：針對銀屑病的新療法介紹
@@ -518,6 +532,8 @@ NAG 作为一种新型的治療手段，為銀屑病患者提供了新的選擇�
     <img src="https://img.youtube.com/vi/J6ldkOzBG5w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Shocking Truth About Metabolic Syndrome (Syndrome X) Revealed
 
@@ -581,6 +597,8 @@ NAG 作为一种新型的治療手段，為銀屑病患者提供了新的選擇�
     <img src="https://img.youtube.com/vi/6S45px2RLSU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Guess Which Percent Of Chemicals in Your Food Are Self-Certified and Not FDA Approved?
 
@@ -662,6 +680,8 @@ NAG 作为一种新型的治療手段，為銀屑病患者提供了新的選擇�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The #1 Vitamin Deficiency Behind Vertigo
 
 ### 文章重點整理
@@ -719,6 +739,8 @@ NAG 作为一种新型的治療手段，為銀屑病患者提供了新的選擇�
     <img src="https://img.youtube.com/vi/DtVj-U2hU7k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Secret to Increasing More OXYGEN in Your Cells
 
@@ -785,6 +807,8 @@ NAG 作为一种新型的治療手段，為銀屑病患者提供了新的選擇�
     <img src="https://img.youtube.com/vi/z_cIF3BGctM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The 4 Mistakes People Make with Drinking Lemon Water (and Juice)
 
@@ -879,6 +903,8 @@ NAG 作为一种新型的治療手段，為銀屑病患者提供了新的選擇�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # A Carrot a Day Keeps the Doctor Away
 
 ### 小節歸納
@@ -955,6 +981,8 @@ NAG 作为一种新型的治療手段，為銀屑病患者提供了新的選擇�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Zinc Deficiency: The 7 Symptoms You've Never Heard About
 
 ### 文章整理：微量元素鋅缺乏症的罕見症狀與影響
@@ -1014,6 +1042,8 @@ NAG 作为一种新型的治療手段，為銀屑病患者提供了新的選擇�
     <img src="https://img.youtube.com/vi/SOkuPlKoXYA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Glandular Therapy vs. Hormone Therapy: Which Is More Effective?
 
@@ -1095,6 +1125,8 @@ NAG 作为一种新型的治療手段，為銀屑病患者提供了新的選擇�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Does Your Supplement Contain Maltodextrin? Find Out with This Simple Test!
 
 ### 文章整理：碘試驗檢測食品和補充劑中的隱性澱粉
@@ -1146,6 +1178,8 @@ NAG 作为一种新型的治療手段，為銀屑病患者提供了新的選擇�
     <img src="https://img.youtube.com/vi/6jyAbqak0xk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # A Simple Test for Low Stomach Acid
 
@@ -1208,6 +1242,8 @@ NAG 作为一种新型的治療手段，為銀屑病患者提供了新的選擇�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Allergy Test That Will Determine What You're Allergic To
 
 ### 正式學術用語整理與小節歸納
@@ -1267,6 +1303,8 @@ NAG 作为一种新型的治療手段，為銀屑病患者提供了新的選擇�
     <img src="https://img.youtube.com/vi/hTYTC62RCqM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Is Seed Oil Worse than Sugar? - Seed Oil vs. Sugar
 
@@ -1361,6 +1399,8 @@ NAG 作为一种新型的治療手段，為銀屑病患者提供了新的選擇�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Eating Cereal or the Box: Which is Healthier?
 
 ### 文章重點整理
@@ -1445,6 +1485,8 @@ Kellogg燕麥片召回事件揭示了現代加工食品中存在的質量和營�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Constipation is Caused by Lack of Fiber Myth
 
 ### 核心主題：便秘的原因與管理策略
@@ -1508,6 +1550,8 @@ Kellogg燕麥片召回事件揭示了現代加工食品中存在的質量和營�
     <img src="https://img.youtube.com/vi/Vl_bzEBBnZA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Secret to Increasing the Diversity of Gut Microbes
 
@@ -1598,6 +1642,8 @@ Kellogg燕麥片召回事件揭示了現代加工食品中存在的質量和營�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Might Want to Think Twice Before Eating Oatmeal
 
 ### 文章整理：燕麥的多面性與健康考量
@@ -1660,6 +1706,8 @@ Kellogg燕麥片召回事件揭示了現代加工食品中存在的質量和營�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The #1 Best Remedy for Eczema
 
 ### 核心主題  
@@ -1704,6 +1752,8 @@ Kellogg燕麥片召回事件揭示了現代加工食品中存在的質量和營�
     <img src="https://img.youtube.com/vi/TNnUeeAiJko/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The ONLY Wheat You Should Eat
 
@@ -1766,6 +1816,8 @@ Kellogg燕麥片召回事件揭示了現代加工食品中存在的質量和營�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Use Apple Cider Vinegar to Dissolve Kidney Stones
 
 ### 文章整理：/apple cider vinegar在腎结石預防中的作用/
@@ -1817,6 +1869,8 @@ Kellogg燕麥片召回事件揭示了現代加工食品中存在的質量和營�
     <img src="https://img.youtube.com/vi/2fR5nVsGlk0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Protein Is Not a Protein
 
@@ -1885,6 +1939,8 @@ Kellogg燕麥片召回事件揭示了現代加工食品中存在的質量和營�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Amazing Properties of Wormwood
 
 ### 核心主題： Wormwood (Artemisinin) 的多樣化生物活性及其在癌症治療中的潛能
@@ -1939,6 +1995,8 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
     <img src="https://img.youtube.com/vi/sXm0YPPg9-I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The MOST Important Factors in Building Muscle–Beyond Dietary Protein
 
@@ -2029,6 +2087,8 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The #1 Remedy for Sinus Mucus / Pressure / Postnasal Drip
 
 ### 小節歸納
@@ -2075,6 +2135,8 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
     <img src="https://img.youtube.com/vi/FTAc8IaUWTc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The #1 Fastest Way to Turn Off Stress
 
@@ -2140,6 +2202,8 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Fascinating Health Benefits of Methylene Blue
 
 ### 核心主題  
@@ -2200,6 +2264,8 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The #1 Remedy for Cataracts
 
 ### 小節歸納
@@ -2248,6 +2314,8 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
     <img src="https://img.youtube.com/vi/sgybqwSQQSI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The MOST Important Nutritional Protocol for HIV/AIDS
 
@@ -2333,6 +2401,8 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The #1 Best Food for CoQ10 (Coenzyme Q10)
 
 ### 1. 核心主題：Coenzyme Q10 的功能與重要性
@@ -2380,6 +2450,8 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
     <img src="https://img.youtube.com/vi/YYw3J7KSOrw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 9 Diabetic Skin Problems That Indicate Diabetes
 
@@ -2445,6 +2517,8 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # We just hit 10,000,000 subscribers!
 
 ### 核心主題
@@ -2495,6 +2569,8 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
     <img src="https://img.youtube.com/vi/N2DGrgMIcsE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 7 Facts about Vitamin D You Never Knew
 
@@ -2547,6 +2623,8 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
     <img src="https://img.youtube.com/vi/QyyaAek4jjU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The 5 Nutrient Deficiencies Behind Depression
 
@@ -2622,6 +2700,8 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # #1 Remedy for Heartburn / Acid Reflux / GERD without Medications
 
 ### 文章重點整理
@@ -2666,6 +2746,8 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
     <img src="https://img.youtube.com/vi/2CVgoPZRv2U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # DRINK 1 CUP PER DAY to Reduce Inflammation from Your Intestines
 
@@ -2719,6 +2801,8 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
     <img src="https://img.youtube.com/vi/eH9llWp0ixs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Oxalates, Gout, and Kidney Stones
 
@@ -2804,6 +2888,8 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The TOP Remedies for OCD (Obsessive Compulsive Disorder)
 
 ### 核心主題
@@ -2847,6 +2933,8 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
     <img src="https://img.youtube.com/vi/BCZ6gCxVNWA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The 5 Signs and Symptoms of an Iodine Deficiency You've Never Heard
 
@@ -2913,6 +3001,8 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
     <img src="https://img.youtube.com/vi/LzzSSvp4hlI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The #1 Overlooked Cause of Artery Calcification
 
@@ -3452,6 +3542,8 @@ Wormwood 作為一種多功能的天然化合物，在抗寄生蟲、抗菌、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 6 Reasons for Calcium Deposits (Spurs, Osteophytes, Stones, and Tartar)
 
 ### 文章重點整理
@@ -3540,6 +3632,8 @@ Calcium deposits的形成涉及多種因素，包括營養素失衡、副甲狀�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Take These 5 Vitamins to STOP Diabetic Complications Now
 
 ### 文章題目： glycation 及其與糖尿病并发症的关系及自然干预措施
@@ -3618,6 +3712,8 @@ Calcium deposits的形成涉及多種因素，包括營養素失衡、副甲狀�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Use Your EAR to Predict a Heart Attack
 
 ### 核心主題：耳垂紋 crease 的心血管疾病指標  
@@ -3682,6 +3778,8 @@ Calcium deposits的形成涉及多種因素，包括營養素失衡、副甲狀�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The 3 Vitamin Deficiencies in Sciatica and Carpal Tunnel Syndrome
 
 ### 文章整理：sciatica疼痛與相關維生素 deficiency 的影響及管理策略
@@ -3742,6 +3840,8 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The #1 Vitamin Deficiency behind Bladder Issues (Freq. Urination, Leaky, Urgency)
 
 ### 核心主題
@@ -3796,6 +3896,8 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
     <img src="https://img.youtube.com/vi/WzEcUVsMEMQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Best Time of the Day to Take Vitamins
 
@@ -3875,6 +3977,8 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The #1 Top Warning Sign You Have a Fatty Liver
 
 ### 小節歸納
@@ -3920,6 +4024,8 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
     <img src="https://img.youtube.com/vi/0exxcnNmxxI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The #1 Cause of Arterial Stiffness (Hypertension)
 
@@ -3991,6 +4097,8 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The 5 BEST Tips for Thick Hair
 
 ### 核心主題
@@ -4037,6 +4145,8 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Use Apple Cider Vinegar (ACV) for a Massive Energy Boost
 
 ### 核心主題：蘋果醋對身體能量和健康的多重益處
@@ -4074,6 +4184,8 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
     <img src="https://img.youtube.com/vi/ldi9vElgemE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The #1 Danger of Prolonged Fasting You HAVE to Know About
 
@@ -4119,6 +4231,8 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
     <img src="https://img.youtube.com/vi/cFSZk1_nXrY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 6 Causes of a Vitamin B12 Deficiency You've Never Heard Before
 
@@ -4191,6 +4305,8 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Folic Acid vs. Folate Explained and Simplified
 
 ### 文章整理：葉酸（Folic Acid）與甲基葉酸（Methylfolate）之差異及健康影響
@@ -4250,6 +4366,8 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Best Strategy for Detoxifying Heavy Metals (SAFELY)
 
 ### 核心主題：環境污染對健康的影響及自然排毒策略
@@ -4293,6 +4411,8 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
     <img src="https://img.youtube.com/vi/0oPkpa3ovSo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Erythritol Linked to Heart Attacks and Strokes, Really?
 
@@ -4348,6 +4468,8 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The #1 Worst Food for Your Heart (HINT: It's Not Sugar)
 
 ### 文章重點整理
@@ -4400,6 +4522,8 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
     <img src="https://img.youtube.com/vi/GRtkgrBHySQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Top Signs of a Digestive Enzyme Deficiency
 
@@ -4462,6 +4586,8 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
     <img src="https://img.youtube.com/vi/9D2VwqySGwA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Clean Your Kidneys of Uric Acid and Oxalates
 
@@ -4540,6 +4666,8 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Best Diet for Familial Hypercholesterolemia
 
 ### 一、核心主題  
@@ -4602,6 +4730,8 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
     <img src="https://img.youtube.com/vi/euBpveN9-II/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Potassium Deficiency Causes Diabetes
 
@@ -4685,6 +4815,8 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
     <img src="https://img.youtube.com/vi/iQPfYghxXQI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Eat Eggs and Butter and Lower Your Cholesterol
 
@@ -4772,6 +4904,8 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Using Sh*t as an Effective Treatment???
 
 ### 文章整理：微生物群與人體健康的綜述
@@ -4844,6 +4978,8 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
     <img src="https://img.youtube.com/vi/7tHijDSVQrI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Surprising Facts about Insulin You Never Knew
 
@@ -4949,6 +5085,8 @@ Sciatica疼痛的發生與多方面因素有關，包括營養缺乏、代謝紊
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What Happens When You Eat Guacamole for 30 Days
 
 ### 文章重點整理
@@ -5016,6 +5154,8 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Niacin vs. Niacinamide
 
 ### 文章重點整理
@@ -5082,6 +5222,8 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Mystery of GOUT Revealed
 
 ### 文章重點整理
@@ -5139,6 +5281,8 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
     <img src="https://img.youtube.com/vi/g2oVyp0k94E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The #1 Best Remedy for Inflammation (Autoimmune, Gut, and Arthritis) That You Never Considered
 
@@ -5221,6 +5365,8 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Best 2 Remedies for Teeth Grinding (Bruxism)
 
 ### 小節歸納
@@ -5276,6 +5422,8 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
     <img src="https://img.youtube.com/vi/gxxJbN2Q58I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to END Seizures (Epilepsy) Once and For All
 
@@ -5349,6 +5497,8 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
     <img src="https://img.youtube.com/vi/FEeYVUaL170/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Best Strategies to STOP Overeating
 
@@ -5438,6 +5588,8 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 5X Your BRAIN CELLS
 
 ### 核心主題
@@ -5490,6 +5642,8 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
     <img src="https://img.youtube.com/vi/e_hOK0cvpLs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Common Vitamin Deficiency in Numb Hands and Pins and Needles
 
@@ -5565,6 +5719,8 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why FISH OIL Can Prevent Sudden Cardiac Death and Arrhythmias
 
 ### 核心主題：
@@ -5631,6 +5787,8 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Eat Onions and Boost Testosterone
 
 ### 小節歸納
@@ -5672,6 +5830,8 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
     <img src="https://img.youtube.com/vi/P2dLjZxGAc4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 9 Warning Signs of Parasites
 
@@ -5757,6 +5917,8 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 7 Surprising Magnesium Benefits You Don't Know
 
 ### 小節歸納與整理
@@ -5836,6 +5998,8 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Osteoporosis Is NOT a Calcium Problem
 
 ### 文章整理：钙与骨骼健康的关系
@@ -5914,6 +6078,8 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
     <img src="https://img.youtube.com/vi/ezJxUTCI9uo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Everything in Moderation Is Just STUPID Advice!
 
@@ -6001,6 +6167,8 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Top Selenium Benefits You've Never Heard Before
 
 ```markdown
@@ -6080,6 +6248,8 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Eliminating the SIDE EFFECTS of Medication
 
 ### 核心主題  
@@ -6146,6 +6316,8 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The ANTI-INFLAMMATORY That Will Surprise You
 
 ### 小節結構：
@@ -6188,6 +6360,8 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
     <img src="https://img.youtube.com/vi/z46U53n4qkI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # NEVER Get Candida Again
 
@@ -6268,6 +6442,8 @@ Guacamole不僅是一道美味的醬料，更是一款富含多種健康成分�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The 5 Things You MUST Know about Epstein-Barr Virus (EBV)
 
 ### 文章整理： Epstein-Barr 病毒慢性感染的管理與預防
@@ -6321,6 +6497,8 @@ Epstein-Barr 病毒的慢性感染需要綜合性管理，包括壓力管理、�
     <img src="https://img.youtube.com/vi/2ZlMpE3plKM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The REAL Cause of Chronic Kidney Disease and Polycystic Kidney Disease
 
@@ -6410,6 +6588,8 @@ Epstein-Barr 病毒的慢性感染需要綜合性管理，包括壓力管理、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Vital Gallbladder-Thyroid Connection
 
 ### 重點整理
@@ -6469,6 +6649,8 @@ Epstein-Barr 病毒的慢性感染需要綜合性管理，包括壓力管理、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The #1 Food Highest in Vitamin K2
 
 ### 文章重點整理
@@ -6512,6 +6694,8 @@ Epstein-Barr 病毒的慢性感染需要綜合性管理，包括壓力管理、�
     <img src="https://img.youtube.com/vi/zMIHzJ6bGnU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Top Vitamin Deficiency with Acne
 
@@ -6579,6 +6763,8 @@ Epstein-Barr 病毒的慢性感染需要綜合性管理，包括壓力管理、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The #1 Best Way to Prevent Cataracts
 
 ### 文章整理：白內障的成因、機制及預防策略
@@ -6645,6 +6831,8 @@ Epstein-Barr 病毒的慢性感染需要綜合性管理，包括壓力管理、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Sodium Sensitivity is a Potassium Deficiency
 
 # 文章重點整理：鹽分攝取與健康問題的再思考
@@ -6697,6 +6885,8 @@ Epstein-Barr 病毒的慢性感染需要綜合性管理，包括壓力管理、�
     <img src="https://img.youtube.com/vi/Nx2YpCEL0sU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The END of Hypertension (High Blood Pressure)
 
@@ -6790,6 +6980,8 @@ Epstein-Barr 病毒的慢性感染需要綜合性管理，包括壓力管理、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Anticancer Nutrient Researched Over 2000 Times
 
 ### 文章整理： broccoli 莽芽及其健康益處
@@ -6851,6 +7043,8 @@ Epstein-Barr 病毒的慢性感染需要綜合性管理，包括壓力管理、�
     <img src="https://img.youtube.com/vi/rHTsJmiIx9M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The FIRST Sign of Gallstones over 80% of the Time
 
@@ -6922,6 +7116,8 @@ Epstein-Barr 病毒的慢性感染需要綜合性管理，包括壓力管理、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Cause of Lower Abdominal Cramping Pain
 
 ### 文章重點整理
@@ -6990,6 +7186,8 @@ Epstein-Barr 病毒的慢性感染需要綜合性管理，包括壓力管理、�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Hidden Cause of Anemia You've Never Heard About
 
 ### 核心主題  
@@ -7056,6 +7254,8 @@ The article emphasizes the importance of integrating these approaches to manage 
     <img src="https://img.youtube.com/vi/kx-G6ucSsyw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The ONLY Sugar That Won't Raise Your Blood Sugar
 

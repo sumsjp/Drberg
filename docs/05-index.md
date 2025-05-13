@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Keto Sweeteners and Sugar Alternative as Explained by Dr. Berg & Karen
 
 ### 文章整理：甜eners的選擇與應用
@@ -47,6 +49,8 @@
     <img src="https://img.youtube.com/vi/mUOCtSAZEkQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Make Gomashio
 
@@ -91,6 +95,8 @@
     <img src="https://img.youtube.com/vi/NwIEJdHG2V8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Pork vs. Chicken: Which is Healthier? – Dr.Berg
 
@@ -150,6 +156,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The REAL Causes of Fatty Liver Disease (NAFLD) – Dr.Berg
 
 ### 核心主題：非酒精性脂肪肝病（NAFLD）
@@ -206,6 +214,8 @@
     <img src="https://img.youtube.com/vi/MFmjLloYN7A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Insulin Resistance, Potassium & Blood Pressure – Dr. Berg
 
@@ -284,6 +294,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Real Causes of Depression – Dr. Berg
 
 ### 文章重點整理
@@ -311,6 +323,8 @@
     <img src="https://img.youtube.com/vi/NzWW6slx7UU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Sun-Dried Tomato Pesto Dip Recipe by Dr.Berg
 
@@ -359,6 +373,8 @@
     <img src="https://img.youtube.com/vi/6kECxmz0uww/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Transform Your Body in 1 Week – Dr. Berg's Fast Weight Loss Techniques
 
@@ -420,6 +436,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Avocado Ranch Dip Recipe – Dr. Berg
 
 ### 核心主題  
@@ -457,6 +475,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Cod Liver Oil Benefits – Dr.Berg
 
 ### 核心主題：Cod Liver Oil 的多方面益處與合理使用
@@ -493,6 +513,8 @@
     <img src="https://img.youtube.com/vi/jbjUBbYxzU0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Make Raspberry Jam (Low Sugar) – Dr. Berg
 
@@ -532,6 +554,8 @@
     <img src="https://img.youtube.com/vi/UyN3F3NfoH8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Easy Cheddar Biscuit Recipe (Low Carb) – Dr.Berg
 
@@ -616,6 +640,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Make Cheesecake – Keto Friendly – Dr. Berg
 
 ### 核心主題
@@ -676,6 +702,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Easy Pie Crust Recipe – Keto Friendly – Dr.Berg
 
 ### 核心主題
@@ -720,6 +748,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Keto Pecan Pie Recipe – How to Make Perfect Pecan Pie – Dr. Berg
 
 ### 核心主題  
@@ -756,6 +786,8 @@
     <img src="https://img.youtube.com/vi/v7bqrOn0DGo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Festive Sardine Dip Recipe
 
@@ -797,6 +829,8 @@
     <img src="https://img.youtube.com/vi/jvObFg0ApeY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Difference Between Brown Bread and White Bread – Which One is Better? – Dr.Berg
 
@@ -854,6 +888,8 @@
     <img src="https://img.youtube.com/vi/Lj0eK3CNM2k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Fix Mid Back Pain – Dr.Berg on Acupressure for Back Pain
 
@@ -914,6 +950,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Make Bread Sticks: Low Carb Recipe – Dr. Berg
 
 ### 核心主題  
@@ -956,6 +994,8 @@
     <img src="https://img.youtube.com/vi/k3qvdnpSY5I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Benefits of Eating Beets – Dr. Berg
 
@@ -1023,6 +1063,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Stop Tinnitus (Ringing in the Ears) – Dr. Berg
 
 ### 核心主題
@@ -1077,6 +1119,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Best Spinach Artichoke Dip Recipe by Dr. Berg
 
 ### 核心主題
@@ -1127,6 +1171,8 @@
     <img src="https://img.youtube.com/vi/S6ArUU72BMY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Protein Bars Should Be Called INSULIN Bars! – Dr.Berg
 
@@ -1194,6 +1240,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Alkaline vs. Acidic body – How to Know If You're Too Alkaline or Too Acid? – Dr. Berg
 
 ### 核心主題：血液pH平衡的重要性及失衡的症状
@@ -1251,6 +1299,8 @@
     <img src="https://img.youtube.com/vi/K9x_xLBm1og/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Amazing Coconut Oil Benefits: MCTs – Dr. Berg
 
@@ -1314,6 +1364,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Orange Juice is NOT Healthy Explained By Dr.Berg
 
 ### 核心主題
@@ -1352,6 +1404,8 @@
     <img src="https://img.youtube.com/vi/iBx3sLdZRZE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 3 Stupid Weight Loss Tips as Explained by Dr.Berg
 
@@ -1414,6 +1468,8 @@
     <img src="https://img.youtube.com/vi/e8M1tMvtIiM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # One of the Bad Weight Loss Habits Explained by Dr.Berg
 
@@ -1482,6 +1538,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Homemade Blue Cheese Dip Recipe – Dr. Berg
 
 ## 小節歸納與整理
@@ -1535,6 +1593,8 @@
     <img src="https://img.youtube.com/vi/EDNbVrs9RkY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # An Interesting Product Review: Gallbladder Formula
 
@@ -1619,6 +1679,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What is the Hypothalamus and its Function? – Dr. Berg
 
 ### 小節整理：下丘腦的功能與影響
@@ -1674,6 +1736,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Amazing Chocolate Keto Fat Bombs
 
 # 文章重點整理
@@ -1714,6 +1778,8 @@ Chocolate Fat Bomb是一道簡單易做、低溫製作的甜點，適合在低�
     <img src="https://img.youtube.com/vi/7oT9cye5KnY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why People Plateau with Weight Loss – Dr. Berg
 
@@ -1772,6 +1838,8 @@ Chocolate Fat Bomb是一道簡單易做、低溫製作的甜點，適合在低�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Jalapeno Bacon Cream Cheese Keto Fat Bombs
 
 ### 核心主題  
@@ -1823,6 +1891,8 @@ Chocolate Fat Bomb是一道簡單易做、低溫製作的甜點，適合在低�
     <img src="https://img.youtube.com/vi/iV3NJ0K9anw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Best Exercise Tips – How to Figure Out Your Perfect Exercise – Dr.Berg
 
@@ -1885,6 +1955,8 @@ Chocolate Fat Bomb是一道簡單易做、低溫製作的甜點，適合在低�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Keto Friendly Pizza Fat Bomb Recipe – Dr. Berg
 
 ### 文章重點整理
@@ -1928,6 +2000,8 @@ Chocolate Fat Bomb是一道簡單易做、低溫製作的甜點，適合在低�
     <img src="https://img.youtube.com/vi/24UMvyggdpY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Keto Chocolate Coconut Fat Bombs Recipe – Dr.Berg
 
@@ -1989,6 +2063,8 @@ Chocolate Fat Bomb是一道簡單易做、低溫製作的甜點，適合在低�
     <img src="https://img.youtube.com/vi/dTrA8fT5OWM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Best Remedy for Foot Pain (Morton's Neuroma) – Dr.Berg
 
@@ -2053,6 +2129,8 @@ Chocolate Fat Bomb是一道簡單易做、低溫製作的甜點，適合在低�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Keto Fat Bomb: Chocolate & Peanut Butter Recipe – Dr.Berg
 
 ### 核心主題
@@ -2103,6 +2181,8 @@ Chocolate Fat Bomb是一道簡單易做、低溫製作的甜點，適合在低�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Worst Protein Powder for the Liver – Dr. Berg
 
 ### 小節一：核心主題  
@@ -2143,6 +2223,8 @@ Chocolate Fat Bomb是一道簡單易做、低溫製作的甜點，適合在低�
     <img src="https://img.youtube.com/vi/wD-Q6gAbODQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Fastest Way to Hip Pain Relief – Dr. Berg
 
@@ -2197,6 +2279,8 @@ Chocolate Fat Bomb是一道簡單易做、低溫製作的甜點，適合在低�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Sprouted Flax Seeds vs. Flax Seeds Explained By Dr. Berg
 
 ### 核心主題：亞麻籽（Flaxseed）的營養價值及其消化吸收挑戰
@@ -2232,6 +2316,8 @@ Chocolate Fat Bomb是一道簡單易做、低溫製作的甜點，適合在低�
     <img src="https://img.youtube.com/vi/OBXOB3J3b6w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Read and Understand Your Cholesterol Levels
 
@@ -2297,6 +2383,8 @@ Chocolate Fat Bomb是一道簡單易做、低溫製作的甜點，適合在低�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Nutritional Benefits of Pumpkin Seeds – Dr. Berg
 
 ### 核心主題：南瓜子的營養價值與健康益處
@@ -2339,6 +2427,8 @@ Chocolate Fat Bomb是一道簡單易做、低溫製作的甜點，適合在低�
     <img src="https://img.youtube.com/vi/lx87378ZyFM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How Much Sugar Per Day Required For The Body – Dr. Berg
 
@@ -2403,6 +2493,8 @@ Chocolate Fat Bomb是一道簡單易做、低溫製作的甜點，適合在低�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Unique Tahini Benefits – Health Benefits of Tahini Butter – Dr. Berg
 
 ### 小節總結
@@ -2450,6 +2542,8 @@ Tahini 是一種富含微量營養素的高品質食物，具有抗氧化特性�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What Causes Migraines and Where it Come From Explained by Dr. Berg
 
 ### 小節一：核心主題  
@@ -2489,6 +2583,8 @@ Dr. Berg 提供了一種基於中醫 meridian 理論的非侵入性方法，用�
     <img src="https://img.youtube.com/vi/bV4V5p39MhE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Unique Benefits of Cranberries – Dr. Berg
 
@@ -2545,6 +2641,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Sciatica Pain Relief – DO's and DON'Ts Stretches – Dr. Berg
 
 ### 小節整理：為何伸展會加重坐骨神經痛？——核心主題、原因與解決方案
@@ -2584,6 +2682,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
     <img src="https://img.youtube.com/vi/FcEH2HrvmUc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Top 9 Superfoods on the Planet – Dr. Berg
 
@@ -2629,6 +2729,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Hyperthyroidism Diagnosis – Things to Avoid – Dr. Berg
 
 ### 小節：文章重點整理
@@ -2662,6 +2764,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
     <img src="https://img.youtube.com/vi/LWHH2O24Mmg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Blood Sugars, Diabetes & Insulin – Dr. Berg's Webinar
 
@@ -2726,6 +2830,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Gallbladder Function: What You MUST Know If You Don't Have a Gallbladder – Dr. Berg
 
 ### 核心主題： gallbladder 的重要性及其切除後的影響
@@ -2784,6 +2890,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
     <img src="https://img.youtube.com/vi/ktmzaKYGdvw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Eat Fat to Lose Weight as Explained by Dr. Berg
 
@@ -2846,6 +2954,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Blood Sugars, Diabetes & Insulin Webinar Registration
 
 ### 核心主題
@@ -2880,6 +2990,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
     <img src="https://img.youtube.com/vi/pd0tIGgVs18/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Benefits of Lactic Acid from Sauerkraut – Dr. Berg
 
@@ -2963,6 +3075,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Amazing Benefits of Pickle Juice – Dr. Berg
 
 ### 文章整理：關於泡菜汁的功效與建議
@@ -3006,6 +3120,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Do You Have a Manganese Deficiency? – Dr. Berg
 
 ### 核心主題：氧化鋅（Zinc Oxide）在納米材料中的應用與影響
@@ -3043,6 +3159,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
     <img src="https://img.youtube.com/vi/3foRBVFxnOQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Yogurt vs. Kefir: An Interesting Difference – Dr. Berg
 
@@ -3098,6 +3216,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Keto Chocolate Seed Treat Recipe – Dr.Berg
 
 ### 重点整理
@@ -3149,6 +3269,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Best Way to Fix a Slow Metabolism – Dr. Berg's Expert Advice
 
 ### 核心主題
@@ -3191,6 +3313,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
     <img src="https://img.youtube.com/vi/pr8dRVgPqBo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Weight Loss Mistakes – If You are Trying to Lose Weight DON'T DO THIS – Dr. Berg
 
@@ -3254,6 +3378,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Top Vegan Protein Sources (Plant-Based) – Dr. Berg
 
 ### 核心主題
@@ -3300,6 +3426,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
     <img src="https://img.youtube.com/vi/mQvwYL2q0RE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Real Cause of Prostate Enlargement – Dr.Berg
 
@@ -3350,6 +3478,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
     <img src="https://img.youtube.com/vi/WkJC7H1C5gA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Avoid These Foods at Night If You Want to Sleep Quickly and Without Worry – Dr.Berg
 
@@ -3436,6 +3566,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Eat These Seven Foods if You Want to Sleep Quickly, Deeply, and Without Anxiety – Dr.Berg
 
 ### 文章整理：七個助眠食物的核心主題與建議
@@ -3502,6 +3634,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
     <img src="https://img.youtube.com/vi/tib0JR0LjhE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Weight Loss Success Stories – Testimonial – Lost 72 LBS – Dr.Berg interviews Martha
 
@@ -3573,6 +3707,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
     <img src="https://img.youtube.com/vi/SbNmnpGf6gs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Estrogen: The Good, the Bad, and the Ugly – Dr. Berg
 
@@ -3651,6 +3787,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Ketosis and Kidney Stone Prevention – Dr. Berg
 
 ### 文章整理：酮症與腎结石的 prevention
@@ -3698,6 +3836,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
     <img src="https://img.youtube.com/vi/n9dxgIs6lhY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Sagging Skin, Collagen, and Digestion – Dr. Berg
 
@@ -3784,6 +3924,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Ketosis vs Ketoacidosis: VERY DIFFERENT! – Dr. Berg
 
 ### 小節歸納
@@ -3842,6 +3984,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Hidden Cause of Stress & Anxiety – Dr. Berg
 
 ### 核心主題
@@ -3882,6 +4026,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
     <img src="https://img.youtube.com/vi/Fx_8f_YulKg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How Much Fat on Keto Diet Per Meal Plan – Dr. Berg
 
@@ -3947,6 +4093,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Interesting Health Benefits of Asparagus – Dr. Berg
 
 ### 核心主題  
@@ -3999,6 +4147,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Symptoms of GERD (Gastroesophageal Reflux Disease) – Dr. Berg
 
 ### 核心主題：GERD（胃食管反流病）
@@ -4049,6 +4199,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Acceptable Vegetables if on Warfarin – Dr. Berg on Coumadin Diet
 
 ### 小節歸納
@@ -4088,6 +4240,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
     <img src="https://img.youtube.com/vi/Br14hzqKM7U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What is the Lymphatic System And How it Functions? – Dr. Berg
 
@@ -4134,6 +4288,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
     <img src="https://img.youtube.com/vi/bkeUKxwwflk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What causes Atherosclerosis & How to Reverse Hardening of the Arteries – Dr.Berg
 
@@ -4217,6 +4373,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What Causes Gallstones & How to Treat Them – Dr.Berg
 
 ### 核心主題：膽石的原因與治療
@@ -4263,6 +4421,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
     <img src="https://img.youtube.com/vi/Wli4hnDWDQU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Dr. Berg Exposes Vitamin Companies Dirty Little Secret
 
@@ -4317,6 +4477,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Remove Ovarian Cysts & Treat Fibrocystic Breast with this ONE Mineral! – Dr.Berg
 
 ### 核心主題  
@@ -4362,6 +4524,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
     <img src="https://img.youtube.com/vi/1ek_9uSJKQE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Acupressure Treatment for Deviated Septum After A Nose Injury – Dr. Berg
 
@@ -4412,6 +4576,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
     <img src="https://img.youtube.com/vi/KIJ74ssqe0k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Juicing vs Blending: What's Better? – Explained by Dr.Berg
 
@@ -4490,6 +4656,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How To Prevent Premature Death & Increase Longevity – Part 3 By Dr.Berg
 
 ### 小節整理：Postponing Early Death - 應對三個殺手激素之三：皮質醇
@@ -4532,6 +4700,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
     <img src="https://img.youtube.com/vi/HvmXnHnVnQo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How To Prevent Premature Death & Increase Longevity – Part 2 By Dr.Berg
 
@@ -4605,6 +4775,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How To Prevent Premature Death & Increase Longevity – Part 1 By Dr.Berg
 
 ### 文章整理與分析
@@ -4652,6 +4824,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
     <img src="https://img.youtube.com/vi/wf-EGMQlwqo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Lean Protein vs High Fat Protein – Protein Requirements by Dr.Berg Part 3
 
@@ -4729,6 +4903,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why Can't You Eat Protein and Starches Together? – Dr. Berg on Protein Part 2
 
 ### 文章要點整理
@@ -4780,6 +4956,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
     <img src="https://img.youtube.com/vi/FqbHAbl7uqw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How Much Protein Do I Need Per Day? – Dr. Berg on Protein Part 1
 
@@ -4835,6 +5013,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Is Breakfast Important? – Dr. Berg
 
 ### 核心主題  
@@ -4875,6 +5055,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
     <img src="https://img.youtube.com/vi/ZiITCnnFbwQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What Is a Normal Blood Sugar Level? – Dr.Berg
 
@@ -4927,6 +5109,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Keto Peanut Butter Cup Cookies (low carb) – Dr. Berg
 
 ### 文章重點整理
@@ -4963,6 +5147,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
     <img src="https://img.youtube.com/vi/14Fw-Ibx00o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Dr.Berg provides Insights On Auto Immune Diseases and Conditions
 
@@ -5028,6 +5214,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Always Thinking about Food? – Dr.Berg explains What Causes Food Cravings
 
 ### 文章整理：overeating 和食物成癮的核心議題
@@ -5084,6 +5272,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
     <img src="https://img.youtube.com/vi/OrTLdHt6M20/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Eating More Fat Can Help Reduce Belly Fat
 
@@ -5162,6 +5352,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Amazing Homemade Whipped Cream with No Sugar!
 
 ### 核心主題
@@ -5200,6 +5392,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
     <img src="https://img.youtube.com/vi/fAEXglHDrPs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How Long Does It Take to Get Into Ketosis? Keto-Adaptation Explained
 
@@ -5250,6 +5444,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
     <img src="https://img.youtube.com/vi/npCDJd2ga_c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Does eating really increase metabolism? Dr.Berg uncovers the Myth
 
@@ -5306,6 +5502,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 4 Proven Health Benefits of Ginger By Dr. Berg
 
 ### 核心主題  
@@ -5355,6 +5553,8 @@ Cranberries 不僅提供豐富的營養，還具有顯著的抗菌特性，能�
     <img src="https://img.youtube.com/vi/gv1k1toOujQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What is a Virus, Its Structure, Function and Remedies
 

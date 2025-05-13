@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Allergic to Water (Aquagenic Pruritus)? DO THIS
 
 ### 核心主題
@@ -76,6 +78,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Worst Type of Stress in the World
 
 ### 核心主題：壓力對免疫系統的影響，尤其是喪失性壓力（bereavement stress）
@@ -126,6 +130,8 @@
     <img src="https://img.youtube.com/vi/Vj02pWPBJ6g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Rid Your Addiction....I'm Sorry, I Meant Cravings
 
@@ -202,6 +208,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Quick Benefits of Stopping Smoking
 
 ### 核心主題：戒煙後好處的時間表
@@ -269,6 +277,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Most Nutrient-Dense Food in the World
 
 ### 文章重點整理
@@ -328,6 +338,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Hiatal Hernia: The Best Home Treatment
 
 ### 小節歸納
@@ -381,6 +393,8 @@
     <img src="https://img.youtube.com/vi/thEUBB4SoXw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The BEST Motivation to Lose Weight
 
@@ -463,6 +477,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Dr. Berg's Surprise Birthday at the Studio
 
 ### 核心主題  
@@ -518,6 +534,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Cold Feet? Don't Forget Iodine
 
 ### 小節整理：碘缺乏症及其影響與干預措施
@@ -563,6 +581,8 @@
     <img src="https://img.youtube.com/vi/2teHeyQjl04/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Would You Eat a Credit Card Weekly?
 
@@ -617,6 +637,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Will Microwaving Food Give You Radiation?
 
 ### 文章重點整理
@@ -666,6 +688,8 @@
     <img src="https://img.youtube.com/vi/UlDhJEjZZKM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What is Leech Therapy?
 
@@ -739,6 +763,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # A Fever is Beneficial and a Normal Response – Benefits of Fever Explained by Dr.Berg
 
 ### 小節歸納
@@ -796,6 +822,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Make Up the Damage from Eating Refined Carbs
 
 ### 核心主題： refined carbohydrates (精緻碳水化合物) 的危害及修復策略
@@ -840,6 +868,8 @@
     <img src="https://img.youtube.com/vi/mNll4oTHsQk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Depression and the HPA Axis
 
@@ -900,6 +930,8 @@
     <img src="https://img.youtube.com/vi/cDeRjqM30eU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Unclog Your Ears
 
@@ -965,6 +997,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Stop Carbohydrate Cravings Fast With 4 Things
 
 ### 文章總結與分析
@@ -1009,6 +1043,8 @@
     <img src="https://img.youtube.com/vi/l_H8U-_2Ik4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Winter Blues? Easy Fix
 
@@ -1075,6 +1111,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Your Liver Does NOT Store Toxins
 
 ### 文章整理：肝臟解毒功能與健康建議
@@ -1124,6 +1162,8 @@
     <img src="https://img.youtube.com/vi/HFY-C9rG70E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 6 Stages of Fasting
 
@@ -1178,6 +1218,8 @@
     <img src="https://img.youtube.com/vi/8ipbkwzyO_8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Dr. Berg's Wife Has Crazy High Cholesterol of 261..
 
@@ -1253,6 +1295,8 @@
     <img src="https://img.youtube.com/vi/yWEIToAT5rc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 10 Reasons Why Your Cravings Will NOT Go Away
 
@@ -1353,6 +1397,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Lower Your Cholesterol on Keto (Ketogenic Diet)
 
 
@@ -1368,6 +1414,8 @@
     <img src="https://img.youtube.com/vi/_mb33J4Bjfg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Refeeding Symptoms After a Fast
 
@@ -1411,6 +1459,8 @@
     <img src="https://img.youtube.com/vi/zq6cNVZqZYA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Foods that Can Prevent a Miscarriage
 
@@ -1469,6 +1519,8 @@
     <img src="https://img.youtube.com/vi/-pBvIoTKNj4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why Do Stones Develop In Your Kidney and Gallbladder?
 
@@ -1552,6 +1604,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Fasting for 7 Days: Here's What Will Happen
 
 ### 文章重點整理
@@ -1626,6 +1680,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Loss of Smell (Anosmia): THE Solution
 
 ### 重點整理
@@ -1679,6 +1735,8 @@
     <img src="https://img.youtube.com/vi/4dWjn_uf6MY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Can You Get Fat on Too Much Protein?
 
@@ -1745,6 +1803,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Does MCT Oil Raise Your Cholesterol?
 
 ### 核心主題  
@@ -1800,6 +1860,8 @@
     <img src="https://img.youtube.com/vi/2nbdIrvwYEU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why Liver Damage Makes You Estrogen Dominant: MEN
 
@@ -1897,6 +1959,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Really Become Fat Adapted
 
 # 文章重點整理：酮飲食（Keto Diet）的 fat adapted 過程及相關建議
@@ -1969,6 +2033,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Lazy vs. Dirty Keto: The Difference
 
 ### 文章整理：.lazy Keto vs Dirty Keto 的差異與影響
@@ -2040,6 +2106,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Highest Vitamin E Food is...
 
 ### 核心主題：
@@ -2106,6 +2174,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Get Rid of Sunspots on Your Skin
 
 ### 核心主題
@@ -2148,6 +2218,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Best Berries on Keto Are...
 
 ### 核心主題： ketogenic diet 中的最佳莓果選擇及其影響
@@ -2184,6 +2256,8 @@
     <img src="https://img.youtube.com/vi/uCjr_jRfNGY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Benefits of Lycopene
 
@@ -2250,6 +2324,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Evolution and Origin of Vitamin D
 
 ### 小節整理
@@ -2307,6 +2383,8 @@
     <img src="https://img.youtube.com/vi/EXksWu3FZgg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Stop Being Tricked Reading Food Labels
 
@@ -2366,6 +2444,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # It's the TYPE of Carbs on Keto That Matter
 
 
@@ -2381,6 +2461,8 @@
     <img src="https://img.youtube.com/vi/xUiWC9clnjA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Epilepsy and The Ketogenic Diet
 
@@ -2462,6 +2544,8 @@
     <img src="https://img.youtube.com/vi/K_XOUs4IkNo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # At the 1st Sign of a Stroke: DO THIS...
 
@@ -2553,6 +2637,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Does Keto Cause Bone Loss?
 
 ### 核心主題  
@@ -2624,6 +2710,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Folate Deficiency Creates the Same Damage as Radiation
 
 ### 小節整理
@@ -2675,6 +2763,8 @@
     <img src="https://img.youtube.com/vi/g00S7VXawFw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Best Foods to Shrink Fibroids
 
@@ -2748,6 +2838,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # I Thought Keto Was Supposed to Cure My Diabetes
 
 ### 核心主題  
@@ -2806,6 +2898,8 @@
     <img src="https://img.youtube.com/vi/Z_XgLP45EcE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Most Important Vitamin for Adrenal Glands
 
@@ -2872,6 +2966,8 @@
     <img src="https://img.youtube.com/vi/z8K2ApTIKos/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How Much Water to Drink When Fasting
 
@@ -2951,6 +3047,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Choose Your Protein Wisely on Keto
 
 ### 文章整理
@@ -3002,6 +3100,8 @@
     <img src="https://img.youtube.com/vi/GRN_W9d6y84/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # If Nothing is Working for Acne, Try This Acne Removal Treatment – Dr.Berg
 
@@ -3064,6 +3164,8 @@
     <img src="https://img.youtube.com/vi/4U43bPxkx7M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Does Keto and Fasting Increase Stress Hormones?
 
@@ -3134,6 +3236,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Boost Your Mood With Negative Ions
 
 
@@ -3149,6 +3253,8 @@
     <img src="https://img.youtube.com/vi/rYvqG9TMd2o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How Much Coffee is Too Much?
 
@@ -3212,6 +3318,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Dangers of Red Food Dye
 
 ### 核心主題
@@ -3252,6 +3360,8 @@
     <img src="https://img.youtube.com/vi/-a05dS2KWx8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What Does the Hypothalamus Do?
 
@@ -3305,6 +3415,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Instant PMS Relief: Use This...
 
 ### 小節歸納
@@ -3353,6 +3465,8 @@
     <img src="https://img.youtube.com/vi/8jSgo8WaR0U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Do You Have Salad Bloating Syndrome?
 
@@ -3430,6 +3544,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Foods That Can Increase Your Libido...Only If...
 
 ### 文章整理：提升 libido 的食物及其健康影響
@@ -3486,6 +3602,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Amazing Macadamia Nut
 
 ###  小節整理  
@@ -3527,6 +3645,8 @@
     <img src="https://img.youtube.com/vi/4DJG_FOQF5M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Good Fat vs. Bad Fats
 
@@ -3583,6 +3703,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Get More Discipline for Keto and Exercise
 
 ### 小節歸納
@@ -3634,6 +3756,8 @@
     <img src="https://img.youtube.com/vi/vUBgjAh8Ufk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Benefits of Black Seed Oil
 
@@ -3707,6 +3831,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 5 Ways Tallow (Beef Fat) Can Help You Lose Weight
 
 ### 核心主題
@@ -3765,6 +3891,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Is Microwave Popcorn Safe to Eat?
 
 ### 核心主題  
@@ -3817,6 +3945,8 @@
     <img src="https://img.youtube.com/vi/PHX1sTdhhpI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Keto on Steroids Updated Plan
 
@@ -3907,6 +4037,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Do Your Nuts Have to Be Organic?
 
 ### 文章重點整理
@@ -3957,6 +4089,8 @@
     <img src="https://img.youtube.com/vi/1sdSsxFZMCQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Can I Do Grapefruit on Keto?
 
@@ -4020,6 +4154,8 @@
     <img src="https://img.youtube.com/vi/8iDbrE9USYw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Normal Hair Loss vs. Abnormal Hair Loss
 
@@ -4099,6 +4235,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The MOST Carcinogenic Nut is..
 
 ### 核心主題
@@ -4154,6 +4292,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Benefits of Lactobacillus (a Friendly Microbe)
 
 
@@ -4169,6 +4309,8 @@
     <img src="https://img.youtube.com/vi/GhFxnhEMYlE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Bad Food and Drug Combinations
 
@@ -4231,6 +4373,8 @@
     <img src="https://img.youtube.com/vi/bk_Jm7ONr7U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # WHY You Need Keto and Intermittent Fasting
 
@@ -4311,6 +4455,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Best Foods for Maximum Energy
 
 ### 核心主題：慢性疲劳的飲食調整與能量恢復
@@ -4378,6 +4524,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Tired From Not Consuming Enough Salt?… Here’s Why
 
 ### 小節整理：低鹽攝取對酮飲食的影響及其健康建議
@@ -4428,6 +4576,8 @@
     <img src="https://img.youtube.com/vi/jFb8yUbiwY0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Think Twice About Drinking Tap Water
 
@@ -4482,6 +4632,8 @@
     <img src="https://img.youtube.com/vi/TzbSipV15JQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Ketogenic Diet Causes Scarring of the Heart...GOSH DARN IT!
 
@@ -4540,6 +4692,8 @@
     <img src="https://img.youtube.com/vi/kLOPA3OyTBw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Constant Urge to Pee? Here's Why...
 
@@ -4634,6 +4788,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Get the Benefits of Vitamin D Without the Toxicity
 
 ### 文章重點整理
@@ -4677,6 +4833,8 @@
     <img src="https://img.youtube.com/vi/RV3o0VWfHuQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why You Need More Salt in Your Diet
 
@@ -4744,6 +4902,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What Is Synthetic Meat?
 
 ### 小節一：核心主題
@@ -4789,6 +4949,8 @@
     <img src="https://img.youtube.com/vi/1L_2D7O2bSM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Rapid Weight Gain...Don't Worry!
 
@@ -4867,6 +5029,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 6 Things Men Should Not Eat
 
 ### 核心主題：男性飲食中的六大危害與健康建議
@@ -4922,6 +5086,8 @@
     <img src="https://img.youtube.com/vi/pqXUCscvzGM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Before You Consume Baking Soda: WATCH THIS
 
@@ -4986,6 +5152,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The 3 Top Allergies on the Planet
 
 ### 小節歸納
@@ -5044,6 +5212,8 @@
     <img src="https://img.youtube.com/vi/Av6akFWExA0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Lard vs Vegetable Oil: Which is Healthier?
 
@@ -5127,6 +5297,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Ovaries Removed? Do This...
 
 ### 文章重點整理
@@ -5168,6 +5340,8 @@
     <img src="https://img.youtube.com/vi/hvhs40xmGTA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Shrink Your Enlarged Prostate
 
@@ -5227,6 +5401,8 @@
     <img src="https://img.youtube.com/vi/9u8BUl1nr4Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What Herb Has the Most Antioxidants?
 
@@ -5291,6 +5467,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Best and Worst Belly Bloating Foods
 
 ### 核心主題：腹部脹氣的原因及飲食管理
@@ -5338,6 +5516,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What Happens if You Stop Eating Fast Food for 7 Days
 
 ### 核心主題  
@@ -5360,6 +5540,8 @@
     <img src="https://img.youtube.com/vi/vwCjbGwJqrU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # If You Have a Brain, You Need to Fast
 
@@ -5418,6 +5600,8 @@
     <img src="https://img.youtube.com/vi/y5Y2WIlkir4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Vitamin Deficiencies Cause Serious Diseases
 
@@ -5490,6 +5674,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Top Natural Remedies for a UTI (Urinary Tract Infection)
 
 ### 小節整理：尿路感染（UTI）的自然療法
@@ -5561,6 +5747,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Visualize Your Plate Instead of Counting Calories
 
 ### 小節整理：_macros and Keto Diet_
@@ -5622,6 +5810,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Hunger Waves: Is It Really Hunger?
 
 
@@ -5637,6 +5827,8 @@
     <img src="https://img.youtube.com/vi/DE7lhrW6t3c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Best Herbs for Parasites
 
@@ -5704,6 +5896,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Music's Effect on the Body and Brain
 
 ### 重點整理
@@ -5766,6 +5960,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Is Cheese a Good Probiotic?
 
 
@@ -5781,6 +5977,8 @@
     <img src="https://img.youtube.com/vi/x-XVGDr0oUI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Most Deadly Mushroom and Its Antidote
 
@@ -5844,6 +6042,8 @@
     <img src="https://img.youtube.com/vi/n1AvkBv1zR8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Get Rid of Hiccups
 

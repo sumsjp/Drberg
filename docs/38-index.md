@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 6 UNEXPECTED Signs of Heart Disease THAT YOU MUST KNOW!
 
 ### 小節歸納
@@ -52,6 +54,8 @@
     <img src="https://img.youtube.com/vi/ZOIY8LfgKGI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # #1 Perfect Remedy for Keratosis Pilaris (CHICKEN SKIN)
 
@@ -106,6 +110,8 @@
     <img src="https://img.youtube.com/vi/P-z4_d0BAPE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # #1 MOST Missing Nutrient in Diabetes - Dr. Berg
 
@@ -180,6 +186,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 7 Surprising Ways to Speed Up Fat-Burning (AND LOSE WEIGHT FASTER)
 
 ### 文章整理：促進脂肪燃燒與整體健康的關鍵策略
@@ -239,6 +247,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Grow Long Thick Eyelashes QUICKLY! - Dr. Berg
 
 ### 核心主題  
@@ -288,6 +298,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # STOP Doing Gallbladder Flushes with Olive Oil
 
 ### 小節整理： gallbladder flush, 石頭 flushing, 健康風險, 飲食建議, 藥物影響, 生理机制, 低脂飲食的影響, 高血糖/胰島素抵抗的影響, 慶 cortical steroid 的影響, 胆固醇藥物的影響, 肝臟健康的重要性
@@ -334,6 +346,8 @@
     <img src="https://img.youtube.com/vi/LNCtw7hHTTI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How To REMOVE Blackheads Permanently
 
@@ -413,6 +427,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Say Goodbye to Sciatica Pain: 3 Simple Stretches That Work
 
 ### 文章整理：Sciatica 祛除三步驟法
@@ -466,6 +482,8 @@
     <img src="https://img.youtube.com/vi/N0OLVZDKGcE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 5 Women's Products That You Should STOP Using Immediately
 
@@ -538,6 +556,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 10 Foods That Can Kill Your Dog
 
 ### 核心主題
@@ -583,6 +603,8 @@
     <img src="https://img.youtube.com/vi/3MDO8KB3zjk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Fastest Way to Stop Tinnitus: Dr. Berg's 30-Second Technique to Silence Ringing in the Ears
 
@@ -646,6 +668,8 @@
     <img src="https://img.youtube.com/vi/0cQ_OSagZ1I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The 7 Bad Diet Habits THAT WILL RUIN Your Day
 
@@ -717,6 +741,8 @@
     <img src="https://img.youtube.com/vi/D1PmXfvCRd4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Do We REALLY Have 5 to 20 lbs of Toxic Poop in Our Colons?
 
@@ -810,6 +836,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Incredible Impact of Eating Eggs Daily – Dr. Berg's Top Reasons for Doing It
 
 ### 文章重點整理
@@ -898,6 +926,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # My #1 BEST Intermittent Fasting Tips for Faster Weight Loss - Dr. Berg
 
 ### 文章整理：間歇性斷食與酮egenic飲食的綜合應用
@@ -962,6 +992,8 @@
     <img src="https://img.youtube.com/vi/yu9xzxRXuB4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Dr. Berg Reveals the 6 Mistakes You're Making When Drinking Water
 
@@ -1045,6 +1077,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Cure "The Silent Killer" Hepatitis for Only $84,000 (at $1000 a Pill)
 
 ### 核心主題
@@ -1119,6 +1153,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # #1 Best Backyard Weed for Arthritis (RHEUMATOID, OSTEO & GOUT)
 
 ### 重點整理
@@ -1171,6 +1207,8 @@
     <img src="https://img.youtube.com/vi/ZMaqumn5Lcc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Discovering the Surprising Benefits of Iodine
 
@@ -1243,6 +1281,8 @@
     <img src="https://img.youtube.com/vi/iS00UfjoMXo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The 11 Types of Alopecia (AND HOW TO FIX IT) - Dr. Berg
 
@@ -1339,6 +1379,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Fix Your Low Back Pain (INSTANTLY!) - Dr. Berg
 
 ### 文章重點整理
@@ -1407,6 +1449,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Ultimate Hand Transformation – Dr. Berg's Best Remedy for Dryness and Wrinkles
 
 ### 文章要點整理  
@@ -1473,6 +1517,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Cure Hiccups (INSTANTLY!) - Dr. Berg
 
 ### 小節歸納
@@ -1522,6 +1568,8 @@
     <img src="https://img.youtube.com/vi/mPMvVMayCFo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Fix Plantar Fasciitis Instantly (NO MORE HEEL PAIN!)
 
@@ -1615,6 +1663,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 9 Unexpected Benefits of Hydrogen Peroxide
 
 # 氫氧水的九個意外益處：歸納與分析
@@ -1697,6 +1747,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Calm Your Mind and Body: Dr. Berg's Stress-Reducing Elixir
 
 ### 文章整理：壓力管理與舒緩方案
@@ -1747,6 +1799,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/1pTdTYpvhFk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Discover the 18 Things Your Face Can Reveal About Deep Health Problems
 
@@ -1819,6 +1873,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/roR2cqChkcM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to STOP Flatulence (Farting): THIS REALLY WORKS!
 
@@ -1898,6 +1954,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 23 Signs Your Body Needs More Nutrients: How to Address the Deficiencies
 
 ### 文章整理：營養與健康的23個關鍵點
@@ -1971,6 +2029,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 7 Unexpected Benefits of Baking Soda
 
 ### 文章結構與重點整理
@@ -2025,6 +2085,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/NewR0jDwHXw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # PROTECT Your HAIR During the Winter Months With This...
 
@@ -2095,6 +2157,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Make Your Own Vitamin D Supplements for Pennies
 
 ### 核心主題  
@@ -2131,6 +2195,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/8JVOmgCJIFs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Shrink Thyroid Nodules Naturally - Dr. Berg
 
@@ -2180,6 +2246,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/C-T7UQ_ZP8M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The #1 SUGAR Consumer in the World Is...
 
@@ -2263,6 +2331,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The ABSOLUTE Best 6 Fat-Burning Herbs
 
 ### 文章重點整理
@@ -2309,6 +2379,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/YU3LO6wbZAU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Shrink Your ENLARGED PROSTATE and Fix Urine Flow
 
@@ -2410,6 +2482,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # DRINK 1 CUP to Stop a Sore Throat INSTANTLY
 
 ### 核心主題
@@ -2459,6 +2533,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/c4IGYZ1iDUU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The REAL Reason We Need Magnesium
 
@@ -2523,6 +2599,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/Eu0OokQjfgI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The BEST Way to Lose Belly Fat Fast: The #1 Strategies
 
@@ -2612,6 +2690,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The 7 WARNING Signs of a B12 Deficiency - Dr. Berg
 
 ### 文章重點整理
@@ -2683,6 +2763,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/q91NwRzb2TM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 9 Prescription Meds that Could Kill You
 
@@ -2762,6 +2844,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/J9g_LAXfS24/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Science Behind Inflammation – Dr. Berg's Tips for Treating It Naturally
 
@@ -2857,6 +2941,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Absolutely BEST Way to Get Rid Love Handles
 
 ### 文章重點整理
@@ -2906,6 +2992,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/TQ5ovHN1O40/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What Would Happen if You Drank Celery Juice Every Day? Dr. Berg
 
@@ -2977,6 +3065,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 20 Signs of TOO MUCH Stress - Dr. Berg
 
 ### 文章整理與分析
@@ -3043,6 +3133,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/zCmW5bLcE9s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How Vitamin D Affects Every Organ and Tissue
 
@@ -3132,6 +3224,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 15 Things Your SKIN Tells You about Your LIVER - Dr. Berg
 
 ### 一、核心主題：肝臟健康與皮膚問題的關聯性
@@ -3200,6 +3294,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/Ds00uZKiTHo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Look Younger With These 6 Simple Tips
 
@@ -3277,6 +3373,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/2dox4_7b64I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # A Surprising Way to Cleanse Toxic Kidneys - Dr. Berg on Kidney Detoxification
 
@@ -3364,6 +3462,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Shoulder Pain? DO NOT SLEEP In These Positions
 
 ### 文章重點整理
@@ -3429,6 +3529,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Amazing Benefits of Eating WHOLE Lemons - Peel, White Part and Seeds
 
 ### 關鍵要點整理
@@ -3484,6 +3586,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Avoid These 7 Foods That Can Kill You
 
 
@@ -3499,6 +3603,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/tt6cQ2AslVM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Get Energized: The REAL Reasons Why You're Always Tired - Dr. Berg
 
@@ -3585,6 +3691,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Trace Minerals Are NOT Just for Hair, Nails and Skin
 
 ### 文章重點整理
@@ -3663,6 +3771,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/4YcYAVAyk9E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # DRINK 1 CUP PER DAY to Remove Fat from Your Liver - Dr. Berg
 
@@ -3744,6 +3854,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Ultimate Guide to Thicker Hair – Dr. Berg's Expert Advice
 
 ### 文章整理：如何促进 thicker hair 的生长
@@ -3821,6 +3933,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The 5 BIG Prolonged Fasting Mistakes: MUST WATCH
 
 ### 核心主題
@@ -3882,6 +3996,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The FASTEST Way to Rid Acne - Dr. Berg
 
 
@@ -3897,6 +4013,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/KE7_jDm99mg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The BEST Foods that Make You Lose the Most Weight - Dr. Berg
 
@@ -3984,6 +4102,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Get Rid of Puffy Eyes and Dark Circles
 
 ### 文章整理與分析
@@ -4050,6 +4170,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/FIgFTmThhYM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What if You STOP Eating Grains for 14 Days?
 
@@ -4134,6 +4256,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # PARASITE CLEANSE: DIY Protocol and Home Remedy
 
 ### 文章重點整理
@@ -4194,6 +4318,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Get Rid of Cellulite for Good: Dr. Berg's Better Way to Lose Flabby Fat
 
 ### 小節歸納
@@ -4250,6 +4376,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # POTASSIUM: The Most Important Electrolyte Yet an Ignored Epidemic - Dr. Berg
 
 ### 小節歸納
@@ -4300,6 +4428,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/sNklS0lzlgA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The MOST POWERFUL Antioxidant Is Melatonin, NOT Glutathione
 
@@ -4374,6 +4504,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Get Rid Of Toenail Fungus for Good for Only $2.00
 
 ### 小節歸納
@@ -4421,6 +4553,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/1NF6XAJq7KE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # STOP Knee Pain! 5 Best Exercises to Create Symmetry in Knee Muscles - Dr. Berg
 
@@ -4479,6 +4613,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/LM559JDVQok/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 8 Dangerous Signs that Should NEVER Be Ignored
 
@@ -4563,6 +4699,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # STOP Asthma Symptoms Once and For All
 
 ### 小節整理：文章重點歸納
@@ -4607,6 +4745,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/1rfzjRoalWM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The MOST Important Intermittent Fasting Basics for Beginners: MUST WATCH - Dr. Berg
 
@@ -4692,6 +4832,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The FASTEST Way to Stop a Panic Attack - Dr. Berg
 
 ### 小節整理：如何停止恐慌攻擊
@@ -4756,6 +4898,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/7EKYAgSdjhA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Stop BLOATING Fast / Learn the 5 Causes - Dr. Berg
 
@@ -4850,6 +4994,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Transform Your Health with Cold Showers – Dr. Berg's Guide to Cold Showers
 
 <start of summary>
@@ -4900,6 +5046,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # #1 HIIT Exercise That Burns the MOST Body Fat
 
 ### 文章重點整理
@@ -4949,6 +5097,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/Hq9cItue5tc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Lose Weight While You Sleep: Dr. Berg's 8 Tips for Burning Fat Overnight
 
@@ -5047,6 +5197,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Rid Skin Tags and Warts Within 24 Hours - Dr. Berg on Skin Tag Removal
 
 ### 核心主題
@@ -5104,6 +5256,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/zOyEuQEvzrw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The REAL Benefit of Nutritional Yeast is Anti-Anxiety
 
@@ -5168,6 +5322,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/AolW2szNfNc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Fix Your Nasty Bad Breath!
 
@@ -5238,6 +5394,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Silent Symptoms of Dementia: Watch Out for These 6 Warning Signs
 
 ### 文章整理： Alzheimer's Disease 的營養與生活方式干預
@@ -5288,6 +5446,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Eat Steak and Eggs to Boost Testosterone
 
 
@@ -5303,6 +5463,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/WR9yqC8HQGg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What Would Happen If You Starved Yourself for 7 Days?
 
@@ -5359,6 +5521,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/imO33X-SbDY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Amazing Benefits of Garlic Through the Winter
 
@@ -5432,6 +5596,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 7 Warning Signs That You're Eating Too Much Sugar
 
 
@@ -5447,6 +5613,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/wrhGIgye_Z4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 12 Proven Remedies to Prevent Hair Loss and Regrow Hair
 
@@ -5521,6 +5689,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Most PAINFUL Thing is a Kidney Stone - Dr. Berg
 
 
@@ -5536,6 +5706,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/xcS9x01gB18/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The BEST Foods to Clean Out Your Liver
 
@@ -5624,6 +5796,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Healthiest Foods You Need in Your Diet – Dr. Berg's Expert Advice
 
 ### 文章整理：七种最健康的食品及其健康益处
@@ -5687,6 +5861,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/_tqi3ABznwc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Secret to Being Calm When Stressed With High Cortisol
 
@@ -5753,6 +5929,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/lY247YB-qg0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Amount of Hidden Sugar You've Been Eating WILL SHOCK YOU!
 
@@ -5822,6 +6000,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Gallbladder Surgery (Removal): WATCH THIS!
 
 ### 文章重點整理
@@ -5889,6 +6069,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Premenstrual Dysphoric Disorder (PMDD)
 
 ### 文章整理與分析
@@ -5946,6 +6128,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Exercise Won’t Help You Lose Weight in Any Significant Degree
 
 ### 文章整理
@@ -5991,6 +6175,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/Iwza7s0RbzM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # No More Sleepless Nights: The Ultimate Cure for Urination Frequency at Night (Nocturia)
 
@@ -6041,6 +6227,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/RspVsOLQxzI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The 3 Belly Types: WHICH ONE DO YOU HAVE?
 
@@ -6136,6 +6324,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The TRUTH About Health is the Exact Opposite of What You've Been Taught
 
 
@@ -6151,6 +6341,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/yDOQ4prN23M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The 3 Most Dangerous Restaurant Meals
 
@@ -6198,6 +6390,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/xDriJqaAiPg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The 16 Biggest Keto Mistakes: DON'T MAKE THEM!
 
@@ -6262,6 +6456,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/rrOdKMNQqRo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # American Cheese Is Not Even Cheese
 
@@ -6344,6 +6540,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The REAL Reason to Drink Lemon Water Every Day
 
 ### 文章重點整理
@@ -6407,6 +6605,8 @@ This article explores the causes and solutions of plantar fasciitis, focusing on
     <img src="https://img.youtube.com/vi/xF0OJh19Ubw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Intermittent Fasting for SERIOUS Weight Loss - Dr. Berg
 

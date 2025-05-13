@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Could Farm Raised Salmon Make you Fat? – Dr. Berg
 
 ### 核心主題
@@ -63,6 +65,8 @@
     <img src="https://img.youtube.com/vi/dvx9lXwvm84/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # When To Consume the Apple Cider Vinegar (ACV Drink)? – Dr. Berg
 
@@ -130,6 +134,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Coconut Oil: Is Coconut Oil Good For You? – Dr. Berg on the Health Benefits Of Coconut Oil
 
 ### 文章重點整理
@@ -178,6 +184,8 @@
     <img src="https://img.youtube.com/vi/R6b8JCnRxaw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Intermittent Fasting, Low Carbs & Your Thyroid – Dr. Berg
 
@@ -256,6 +264,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Ketogenic Corn Bread
 
 ### 核心主題
@@ -290,6 +300,8 @@
     <img src="https://img.youtube.com/vi/x6LppyV2zl4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Glycogen Storage & Electrolytes on Keto & Intermittent Fasting – Dr. Berg
 
@@ -362,6 +374,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Dr.Berg Compares Breastfeeding vs Formula Feeding (Milk)
 
 ### 核心主題：母乳喂养与婴儿配方奶粉的健康影响
@@ -399,6 +413,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Is Chronic Stress Slowing Ketosis? – Dr.Berg
 
 
@@ -414,6 +430,8 @@
     <img src="https://img.youtube.com/vi/MhAZ3WFWJp0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Jackie & Ben – Keto Diet Analysis by Dr. Berg
 
@@ -490,6 +508,8 @@
     <img src="https://img.youtube.com/vi/rGidqAr9hM0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Will Too Much Protein Bump Me Out of Ketosis? – Dr.Berg
 
@@ -572,6 +592,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What is Glucagon? – Dr. Berg
 
 ### 核心主題：血糖調節激素—— glucagon 的作用及其影響
@@ -610,6 +632,8 @@
     <img src="https://img.youtube.com/vi/s0jKijiZ0Z8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Real Reason for Rosacea – SIBO (Small Intestinal Bacterial Overgrowth) – Dr. Berg
 
@@ -675,6 +699,8 @@
     <img src="https://img.youtube.com/vi/4FPXI5DgRl0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Dr.Berg Dissects a Keto Day of Eating! – Daily Keto Diet Plan & Keto Meals
 
@@ -758,6 +784,8 @@ Lorna需針對其飲食結構、營養補充和生活習慣進行調整，以改
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Using Fasting to Enhance Stem Cells – Dr. Berg On Intermittent Fasting & Cell Regeneration
 
 ### 文章重點整理
@@ -823,6 +851,8 @@ Lorna需針對其飲食結構、營養補充和生活習慣進行調整，以改
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What's Missing in the Calorie Theory – Weight Loss on Ketosis & Insulin Levels Dr.Berg
 
 
@@ -838,6 +868,8 @@ Lorna需針對其飲食結構、營養補充和生活習慣進行調整，以改
     <img src="https://img.youtube.com/vi/ccoSnBtCtZk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Dr. Berg / Karen Live Q&A, Friday (Aug 24) on the Ketogenic Diet and Intermittent Fasting
 
@@ -875,6 +907,8 @@ Lorna需針對其飲食結構、營養補充和生活習慣進行調整，以改
     <img src="https://img.youtube.com/vi/hJF6QXwtnn4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Keto Hush Puppies Recipe – Dr.Berg
 
@@ -951,6 +985,8 @@ Lorna需針對其飲食結構、營養補充和生活習慣進行調整，以改
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 6 Child IQ Killers- Low IQ By Iodine Deficiency, Vitamin B12 Deficiency & High Sugar Foods – Dr.Berg
 
 ### 核心主題
@@ -1000,6 +1036,8 @@ Lorna需針對其飲食結構、營養補充和生活習慣進行調整，以改
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to STOP Small Intestine Bacterial Overgrowth(SIBO)? – Dr. Berg
 
 ### 文章整理：SIBO（小腸细菌過生長）的核心主題與建議
@@ -1046,6 +1084,8 @@ Lorna需針對其飲食結構、營養補充和生活習慣進行調整，以改
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Side Effects of Low Carb Diet – Avoid Bread, Pasta & Crackers!! – Dr. Berg
 
 
@@ -1061,6 +1101,8 @@ Lorna需針對其飲食結構、營養補充和生活習慣進行調整，以改
     <img src="https://img.youtube.com/vi/tI_rzWzO4y0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Diane's Diet (Food Log) – Keto Diet Analysis by Dr. Berg
 
@@ -1128,6 +1170,8 @@ Diane的飲食結構存在優化空間，特別是在食物質量和毒素防範
     <img src="https://img.youtube.com/vi/o16LkM95qUc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Dr.Berg's Reaction on his CT Calcium Scoring Test Result
 
@@ -1221,6 +1265,8 @@ Diane的飲食結構存在優化空間，特別是在食物質量和毒素防範
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The "I Need More Fat to Lose Weight"  Myth Explained By Dr. Berg
 
 ### 核心主題：酮飲食中的脂肪攝取與體重管理
@@ -1261,6 +1307,8 @@ Diane的飲食結構存在優化空間，特別是在食物質量和毒素防範
     <img src="https://img.youtube.com/vi/i24rs4PK9f4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Dr.Berg Interviews Zach Bitter – US Record Holder of 100 Miles (Ultra Marathon)
 
@@ -1307,6 +1355,8 @@ Diane的飲食結構存在優化空間，特別是在食物質量和毒素防範
     <img src="https://img.youtube.com/vi/B4eO1SM09g0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What is Glycogen? – Dr. Berg
 
@@ -1379,6 +1429,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Does Bulletproof Coffee Break a Fast? – Dr. Berg
 
 ### 文章重點整理
@@ -1436,6 +1488,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
     <img src="https://img.youtube.com/vi/4y7JcA5nnxc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Main Reason of High Blood Glucose While in Ketosis – Dr. Berg
 
@@ -1504,6 +1558,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
     <img src="https://img.youtube.com/vi/rk4angIFeqQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why do I Have Bloating and Gas on Keto Diet? – Dr. Berg
 
@@ -1587,6 +1643,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Getting Right Amount of Fat on Keto (Ketogenic Diet) – Dr. Berg
 
 ### 文章重點整理
@@ -1634,6 +1692,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
     <img src="https://img.youtube.com/vi/jk2ev7Vi56s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Rice Milk vs. Almond Milk on Keto – Dr. Berg
 
@@ -1696,6 +1756,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Vegetables & Bloating On Keto – Low FODMAP – Dr. Berg
 
 ### 小节数目：
@@ -1736,6 +1798,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
     <img src="https://img.youtube.com/vi/bATCIZBZaOM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Coconut Almond Raspberry Bark – Dr.Berg
 
@@ -1782,6 +1846,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
     <img src="https://img.youtube.com/vi/AbZ_6l1DOus/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Dr.Berg Interviews Amy Berger on Ketogenic Diet for Alzheimer's Disease
 
@@ -1845,6 +1911,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Chocolate Peanut Butter Cheesecake Fat Bomb Recipe – Dr. Berg Keto Friendly Recipes
 
 ### 小節一：核心主題
@@ -1885,6 +1953,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
     <img src="https://img.youtube.com/vi/Xx65WC7Bj00/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Make Coconut Pecan (Keto-Friendly) – Dr.Berg
 
@@ -1941,6 +2011,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
     <img src="https://img.youtube.com/vi/cd10u9XUQUY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Dr. Berg Interviews Dave Feldman – Discussion on Ketogenic Diet & Cholesterol Levels
 
@@ -2010,6 +2082,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Chocolate Chip Nut Seed Fat Bomb Recipe – Dr. Berg
 
 ### 小節一：核心主題
@@ -2047,6 +2121,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
     <img src="https://img.youtube.com/vi/62QEpbfIAk4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Chocolate Raspberry Cheesecake Recipe – Dr.Berg
 
@@ -2096,6 +2172,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Dr. Berg's Opinion on Carnivore Diet
 
 
@@ -2111,6 +2189,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
     <img src="https://img.youtube.com/vi/bbjsXdZaDqw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What is the Fasting Mimicking Diet (FMD)? – Dr. Berg
 
@@ -2178,6 +2258,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why Doesn't Intermittent Fasting Cause Muscle Loss? – Dr.Berg
 
 ### 核心主題
@@ -2234,6 +2316,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Fasting: Miracle-Gro For Brain – Dr.Berg
 
 ### 小節整理：短期禁食對腦健康的影響及實踐建議
@@ -2285,6 +2369,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Uric Acid Kidney Stones & Keto Diet – Dr. Berg
 
 ### 核心主題：尿酸性腎結石與生酮飲食的關係
@@ -2333,6 +2419,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
     <img src="https://img.youtube.com/vi/1cki1Zttpnc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How Many Eggs Can I Eat a Day? – Dr. Berg
 
@@ -2400,6 +2488,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What Are Lectins? – Dr. Berg
 
 ### 文章重點整理
@@ -2457,6 +2547,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Overcome Keto Flu With This Condiment
 
 ### 核心主題  
@@ -2511,6 +2603,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Exercise Routine, Muscle Confusion & When to Change Your Workout Program – Dr. Berg
 
 ### 核心主題  
@@ -2552,6 +2646,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
     <img src="https://img.youtube.com/vi/f_Gf7caSj-Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # White Rice vs. Brown Rice: What is Healthier? – Dr. Berg
 
@@ -2622,6 +2718,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Kombucha Tea vs. Apple Cider Vinegar: Which is Better? – Dr. Berg on ACV Benefits
 
 
@@ -2637,6 +2735,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
     <img src="https://img.youtube.com/vi/tnNyVLCQM7w/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How Many Carbs for Higher Levels of Fitness? – Dr. Berg
 
@@ -2676,6 +2776,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
     <img src="https://img.youtube.com/vi/s-pX3LK-C8s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Reason Why Gastric Bypass Works for Weight Loss & Diabetes – Dr. Berg
 
@@ -2729,6 +2831,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Best Pattern of Intermittent Fasting – (One Meal A Day) OMAD Fasting – Dr. Berg
 
 
@@ -2744,6 +2848,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
     <img src="https://img.youtube.com/vi/PtMAiV-eNMo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # When is the Best Time to Do OMAD (One Meal A Day)? - Dr. Berg on Intermittent Fasting
 
@@ -2761,6 +2867,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Dr. Berg's Keto Health Summit
 
 
@@ -2776,6 +2884,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
     <img src="https://img.youtube.com/vi/qy8aSwFnXwA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The 7 Intermittent Fasting Myths – Dr. Berg
 
@@ -2844,6 +2954,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Propylene Glycol Side Effects & Dangers by Dr. Berg
 
 
@@ -2859,6 +2971,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
     <img src="https://img.youtube.com/vi/SMSE4BYoOv4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 3 Best Remedy for Low Progesterone – Phytoestrogen, Sea Kelp & Progesterone Deficiency – Dr. Berg
 
@@ -2915,6 +3029,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Iodine “Beyond the Thyroid” – Iodine Deficiency, Iodine Foods, and Iodine Benefits – Dr. Berg
 
 ### 核心主題  
@@ -2965,6 +3081,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
     <img src="https://img.youtube.com/vi/A-SvpAEVMgQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Is Menopause Making You Fat? – Dr. Berg on Menopause Weight Gain
 
@@ -3019,6 +3137,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Stop Rusting Out Your Brain! Iron Supplements & Iron Overload Causes Brain Damage – Dr. Berg
 
 ### 核心主題
@@ -3069,6 +3189,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Low Fat Diets & Depression (Mood Disorder) - Dr. Berg
 
 
@@ -3084,6 +3206,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
     <img src="https://img.youtube.com/vi/MsJwSLMEG4E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Does Coconut Oil Have High Cholesterol? – Dr. Berg
 
@@ -3158,6 +3282,8 @@ glycogen 是糖類的主要儲存形式，由多個葡萄糖分子串接而成�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What is Strontium? – Dr. Berg
 
 ### 小節整理：Sr 作為治療骨質疏鬆的微量元素
@@ -3218,6 +3344,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
     <img src="https://img.youtube.com/vi/L21XGyYSF-c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How to Get Your Wife to Lose Weight – Dr. Berg
 
@@ -3284,6 +3412,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
     <img src="https://img.youtube.com/vi/OWys1m09JIE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How To Get Rid Of Lower Neck Pain & Shoulder Pain – Dr. Berg
 
@@ -3359,6 +3489,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Natural Sunscreen Recipe – Dr. Berg
 
 ### 核心主題  
@@ -3405,6 +3537,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
     <img src="https://img.youtube.com/vi/TDPaoQA53XQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What Causes Tingling & Numbness in Hands & Feet? – Dr. Berg
 
@@ -3468,6 +3602,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How Do You Know You're In Ketosis? – Dr. Berg
 
 ### 文章整理：了解酮症及如何有效執行酮炭飲食
@@ -3518,6 +3654,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 4 Ways To Decalcify Your Arteries – Dr. Berg
 
 ### 核心主題
@@ -3564,6 +3702,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
     <img src="https://img.youtube.com/vi/KzCXBwD2nu8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Sleepy After Eating Salad? – Dr. Berg
 
@@ -3636,6 +3776,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Pay Attention to These Health Indicators When Doing Keto & Intermittent Fasting – Dr. Berg
 
 ### 文章整理： intermittent fasting and keto diet 的健康策略與建議
@@ -3702,6 +3844,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Cheat Meal After Building Health Reserve – Dr. Berg
 
 ### 核心主題  
@@ -3760,6 +3904,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Benefits of Using Green Coffee for Skin – Dr. Berg
 
 ### 核心主題  
@@ -3814,6 +3960,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Can Diabetes Be Reversed? – Dr. Berg
 
 ### 小節整理：糖尿病能否逆轉？
@@ -3867,6 +4015,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Human Cell Structure: Parts & Anatomy Of A Cell – Dr. Berg
 
 ### 文章重點整理
@@ -3915,6 +4065,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
     <img src="https://img.youtube.com/vi/lV-rEkOmDDc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Keto Macro Nutrition & Insulin Spike Clarification – Dr. Berg
 
@@ -3977,6 +4129,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Get Your Body to Eat Its Own Fat – Low Carbs, Fat Burning & Dietary Fat – Dr. Berg
 
 ### 小節歸納
@@ -4030,6 +4184,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
     <img src="https://img.youtube.com/vi/v-SCOprOFVs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Dr. Eric Berg & Professor Timothy Noakes On Ketogenic Diet, Weight Loss & Exercise Myths
 
@@ -4105,6 +4261,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What is Gastric Bypass? – Dr. Berg
 
 ### 小節歸納
@@ -4164,6 +4322,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Can I Drink Coke Zero on Keto Diet? – Dr. Berg
 
 ### 小節整理：Can I Consume Coke Zero on Keto?
@@ -4213,6 +4373,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
     <img src="https://img.youtube.com/vi/Z4lMW7VfGNE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What are Antioxidants and Free Radicals? – Dr. Berg
 
@@ -4267,6 +4429,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
     <img src="https://img.youtube.com/vi/6EctvVSwWSQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Is Intermittent Fasting Good For The Adrenals? – Dr. Berg
 
@@ -4326,6 +4490,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Can You Eat Watermelon on a Keto Diet? – Dr. Berg
 
 ### 文章整理：食用西瓜在生酮饮食中的考量
@@ -4379,6 +4545,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
     <img src="https://img.youtube.com/vi/YHKuh4BedXc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Vitamin C Deficiency (Subclinical Scurvy) – Causes, Symptoms, and Remedies – Dr. Berg
 
@@ -4440,6 +4608,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How To Improve Mental Clarity with Intermittent Fasting? – Dr. Berg
 
 ## 文章重點整理
@@ -4499,6 +4669,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
     <img src="https://img.youtube.com/vi/o-CeYlfVURs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Amazing Benefits of Phytic Acid – Dr. Berg
 
@@ -4566,6 +4738,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
     <img src="https://img.youtube.com/vi/0O0s37hO_eQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Great Remedy to Prevent Kidney Stones – Dr. Berg
 
@@ -4659,6 +4833,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Dr.Berg's Interview with Dr Jason Fung on Intermittent Fasting & Weight Loss
 
 ### 文章整理：《斷食與現代飲食習慣的危害》
@@ -4743,6 +4919,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How To Boost Your Energy on Keto (Ketogenic Diet)? – Dr. Berg
 
 ### 文章重點整理
@@ -4818,6 +4996,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Connection Between GERD & Acid Reflux Joint Dysfunction – Dr. Berg
 
 ### 核心主題  
@@ -4882,6 +5062,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 10 Reasons Why Your Belly Is Not Shrinking On Keto – Dr. Berg On Belly Fat
 
 ### 1. **核心主題**
@@ -4928,6 +5110,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Effects of Fibers on Blood Sugar & Glycemic Index – Dr. Berg
 
 
@@ -4943,6 +5127,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
     <img src="https://img.youtube.com/vi/Lwh4flKCmY0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Causes & Treatment of Burning Tongue (Mouth) – Dr. Berg
 
@@ -5005,6 +5191,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How To Tighten Loose Skin with Human Growth Hormone (HGH)? – Dr. Berg
 
 ### 核心主題
@@ -5058,6 +5246,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
     <img src="https://img.youtube.com/vi/370pZvZ3_S8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Head Injuries, Acupressure & the Quality of Your Sleep – Dr. Berg
 
@@ -5114,6 +5304,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Antioxidant: Another Interesting Cholesterol Function Explained by Dr. Berg
 
 ### 核心主題：膽固醇的功能與其抗氧化特性
@@ -5156,6 +5348,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
     <img src="https://img.youtube.com/vi/2_t0DhlZ-P4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Best Use of Chili Pepper Extract for Pain Relief – Dr. Berg on Capsaicin Benefits
 
@@ -5209,6 +5403,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
     <img src="https://img.youtube.com/vi/qUKVyzVabiI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The First Complication of Diabetes – Dr. Berg on Prediabetes Symptoms
 
@@ -5274,6 +5470,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why Can I Eat Pasta & Pizza in European Countries, But Not in America? – Dr. Berg
 
 ### 小節整理：為何歐洲人到美國後吃麵食會腹脹？
@@ -5330,6 +5528,8 @@ Sr 是治療 osteopenia 和osteoporosis 的重要微量元素。通過選擇適�
     <img src="https://img.youtube.com/vi/eVALtn7atVk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Truth About LDL Cholesterol: Dr. Berg's Interview with Dave Feldman
 

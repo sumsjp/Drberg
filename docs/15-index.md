@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Drinking Too Much Water Will Do More Harm Than Good – Dr. Berg on Hyponatremia and Overhydration
 
 ## 1. 核心主題  
@@ -58,6 +60,8 @@
     <img src="https://img.youtube.com/vi/li0adE4A7fA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Get Your Glucose From Proteins, Fats, and Amino Acids – Dr. Berg on Gluconeogenesis
 
@@ -142,6 +146,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Diarrhea On Keto Diet? – Dr. Berg
 
 ### 核心主題
@@ -198,6 +204,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Are Ketones Poisons or Therapeutic Fuel? – Diabetic Ketoacidosis vs. Nutritional Ketosis – Dr. Berg
 
 ### 小節歸納
@@ -252,6 +260,8 @@
     <img src="https://img.youtube.com/vi/eBpKHgTh2jo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why Diabetics Continue to Need More Medications? – Dr. Berg
 
@@ -333,6 +343,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Improving Sleep on the Ketogenic Diet / Intermittent Fasting Plan – Dr. Berg
 
 ### 核心主題：睡眠在生酮飲食和間歇性禁食中的重要性
@@ -403,6 +415,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Vitamin C Benefits – An Important Factor In Cardiovascular Health – Dr. Berg
 
 
@@ -418,6 +432,8 @@
     <img src="https://img.youtube.com/vi/ZwuZi9YNKs4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Fatty Acid Deficiency Despite Taking Essential Fatty Acids (EFA)? – Dr.Berg
 
@@ -461,6 +477,8 @@
     <img src="https://img.youtube.com/vi/dCiRB29vkds/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why High LDL Cholesterol on the Ketogenic Diet? – Dr. Berg
 
@@ -541,6 +559,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Answer To Obesity Is In The Food Statistics – Dr. Berg
 
 ### 文章整理與分析
@@ -595,6 +615,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Quick Relief For Shoulder Pain – Acupressure Points For Shoulder Pain Relief – Dr. Berg
 
 ### 文章整理：肩部問題的處理與相關技術
@@ -645,6 +667,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Quick Fix for Knee Pain Relief – Dr. Berg
 
 ### 核心主題：膝蓋疼痛的簡單測試與快速恢復方法
@@ -687,6 +711,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why Selenium for Hashimoto’s (Autoimmune Hypothyroid)? – Dr. Berg
 
 
@@ -702,6 +728,8 @@
     <img src="https://img.youtube.com/vi/OcMIipPq-lA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What Is Inositol? – Dr. Berg
 
@@ -765,6 +793,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What's Healthy About Heart Healthy Whole Grains? – Dr. Berg
 
 ### 文章整理：整粒穀物與心臟健康
@@ -826,6 +856,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Quick Tip To Get Kids Off Sugar – Dr. Berg
 
 一、核心主題  
@@ -870,6 +902,8 @@
     <img src="https://img.youtube.com/vi/cz4V4W6ntGc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What is Xylitol? – Dr. Berg
 
@@ -932,6 +966,8 @@ Xylitol 是一種具有多方面應用價值且相對安全的甜味劑，但在
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What Is Erythritol? – Dr. Berg
 
 ### 核心主題：Wreathitol（ wreath rotol）作为一种替代甜味剂的优缺点分析
@@ -971,6 +1007,8 @@ Wreathitol作为一种替代甜味剂，在提供甜味和热量控制方面具�
     <img src="https://img.youtube.com/vi/uOTZ60s1k3Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Head Injury and Concussion? Do This Acupressure for Head Trauma – Dr. Berg
 
@@ -1027,6 +1065,8 @@ Wreathitol作为一种替代甜味剂，在提供甜味和热量控制方面具�
     <img src="https://img.youtube.com/vi/XFzxXfi5JzM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why Can A Fatty Liver Slow Your Thyroid (Hypothyroid)? – Dr. Berg
 
@@ -1087,6 +1127,8 @@ Wreathitol作为一种替代甜味剂，在提供甜味和热量控制方面具�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Exogenous Ketones Can Slow Your Weight Loss – Dr. Berg
 
 ### 文章重點整理
@@ -1136,6 +1178,8 @@ Wreathitol作为一种替代甜味剂，在提供甜味和热量控制方面具�
     <img src="https://img.youtube.com/vi/VztT1sIeAP0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Is Keto (Ketogenic Diet) Only Good For Short-Term? – Dr. Berg
 
@@ -1198,6 +1242,8 @@ Wreathitol作为一种替代甜味剂，在提供甜味和热量控制方面具�
     <img src="https://img.youtube.com/vi/brCfMBQ9LPU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Toxic Effects of Iron Overload – Dr. Berg
 
@@ -1277,6 +1323,8 @@ Wreathitol作为一种替代甜味剂，在提供甜味和热量控制方面具�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # A Keto & Intermittent Fasting Tip for Energy & Improving Sleep Quality – Dr. Berg
 
 
@@ -1292,6 +1340,8 @@ Wreathitol作为一种替代甜味剂，在提供甜味和热量控制方面具�
     <img src="https://img.youtube.com/vi/bkF4vrUjQTQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Do Calories Matter When Doing the Ketogenic Diet? – Dr. Berg
 
@@ -1364,6 +1414,8 @@ Wreathitol作为一种替代甜味剂，在提供甜味和热量控制方面具�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Need the Benefits of Intermittent Fasting & Ketosis But Not Weight Loss? – Dr. Berg
 
 ### 文章重點整理
@@ -1418,6 +1470,8 @@ Wreathitol作为一种替代甜味剂，在提供甜味和热量控制方面具�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What Is Homocysteine? – Dr. Berg
 
 ### 核心主題  
@@ -1453,6 +1507,8 @@ Wreathitol作为一种替代甜味剂，在提供甜味和热量控制方面具�
     <img src="https://img.youtube.com/vi/BVU4NTP1Isg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Try This For Your Autoimmune Disorder/ Disease – Dr. Berg
 
@@ -1503,6 +1559,8 @@ Wreathitol作为一种替代甜味剂，在提供甜味和热量控制方面具�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Are Oysters Good For You? – Dr. Berg
 
 
@@ -1518,6 +1576,8 @@ Wreathitol作为一种替代甜味剂，在提供甜味和热量控制方面具�
     <img src="https://img.youtube.com/vi/EI_jhD-eGtc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # “Sense of Impending Doom” is a Nutritional Deficiency – Dr. Berg
 
@@ -1579,6 +1639,8 @@ Wreathitol作为一种替代甜味剂，在提供甜味和热量控制方面具�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What is Creatine? – Dr. Berg
 
 ### 核心主題
@@ -1628,6 +1690,8 @@ Wreathitol作为一种替代甜味剂，在提供甜味和热量控制方面具�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Convincing Friends & Family To Do Ketogenic Diet & Intermittent Fasting – Dr. Berg
 
 
@@ -1643,6 +1707,8 @@ Wreathitol作为一种替代甜味剂，在提供甜味和热量控制方面具�
     <img src="https://img.youtube.com/vi/UvBsqhY-U-o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # An Interesting Paper on Hyperinsulinemic Syndrome – Dr. Berg
 
@@ -1685,6 +1751,8 @@ Wreathitol作为一种替代甜味剂，在提供甜味和热量控制方面具�
     <img src="https://img.youtube.com/vi/Cbylubjzhhg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Tinnitus "Ringing in the Ears" is an Insulin Problem – Dr. Berg
 
@@ -1734,6 +1802,8 @@ Wreathitol作为一种替代甜味剂，在提供甜味和热量控制方面具�
     <img src="https://img.youtube.com/vi/t1KzPE3alu0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Cognitive Functions & Mood Effects from Keto (Ketogenic Diet) – Dr. Berg
 
@@ -1790,6 +1860,8 @@ Wreathitol作为一种替代甜味剂，在提供甜味和热量控制方面具�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Effects of Acid Suppressing Proton Pump Inhibitors(PPIs) on the Body – Dr. Berg
 
 # 認知整理報告：關於質子泵抑制劑（PPIs）及其影響
@@ -1844,6 +1916,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
     <img src="https://img.youtube.com/vi/XMShcbfWIn8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Should I Avoid Seeds & Nuts with Diverticulitis? – Dr. Berg
 
@@ -1923,6 +1997,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Does Chocolate Have Caffeine? – Dr. Berg
 
 ### 核心主題  
@@ -1990,6 +2066,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Less Bowel Movements with Intermittent Fasting? – Dr. Berg
 
 ### 核心主題  
@@ -2034,6 +2112,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
     <img src="https://img.youtube.com/vi/U6BukNCtJiU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Hot Flashes: Causes, Signs & Remedies – Dr. Berg
 
@@ -2104,6 +2184,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Is Having An Alkaline pH Healthy? – Dr. Berg
 
 ### 文章重點整理
@@ -2171,6 +2253,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # It's NOT Lose Weight to Get Healthy, It's Get Healthy to Lose Weight – Dr. Berg
 
 
@@ -2186,6 +2270,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
     <img src="https://img.youtube.com/vi/kAE1gewiTdQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How To Adjust Keto Diet & Intermittent Fasting Patterns Around Your Lifestyle? – Dr. Berg
 
@@ -2232,6 +2318,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
     <img src="https://img.youtube.com/vi/KqEqzi6eXGY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Causes of High Blood Glucose on Keto – Dr. Berg
 
@@ -2284,6 +2372,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Should You Take Hormones When You Get Older? – Dr. Berg
 
 ### 小節整理
@@ -2326,6 +2416,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
     <img src="https://img.youtube.com/vi/2L6_AlXO8CU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How To Stop Snacking When Bored? – Dr. Berg
 
@@ -2408,6 +2500,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Messed Up On Keto, Now What? – Dr. Berg
 
 ### 小節整理：酮症ダイエットにおける失敗後の対処法
@@ -2466,6 +2560,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
     <img src="https://img.youtube.com/vi/JIDlUCJaSwo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How To Get Rid of Stretch Marks After Pregnancy? – Dr. Berg
 
@@ -2526,6 +2622,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Are You Getting Too Skinny on Keto? – Dr. Berg
 
 ### 文章重點整理
@@ -2571,6 +2669,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
     <img src="https://img.youtube.com/vi/UehkgVAmlsk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Bacteria in Mouth is Linked to Osteoarthritis – Dr. Berg
 
@@ -2646,6 +2746,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What Is Activated Charcoal and How To Use it? – Dr. Berg
 
 
@@ -2661,6 +2763,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
     <img src="https://img.youtube.com/vi/opT3TaVebbQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Best Remedy For Throbbing Vascular Migraine – Dr. Berg
 
@@ -2713,6 +2817,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Importance of Always Reading Food Labels – Dr. Berg
 
 
@@ -2728,6 +2834,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
     <img src="https://img.youtube.com/vi/jLWpSVzO8Lo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Best Vitamins for PMS Mood Swings – Dr. Berg
 
@@ -2773,6 +2881,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
     <img src="https://img.youtube.com/vi/zy9uuqaa2xo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Avoid Complex Keto Recipes & Cooking on Keto –  Dr. Berg
 
@@ -2829,6 +2939,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Best Sitting Tips for Lower Back Pain Relief – Dr. Berg
 
 ### 核心主題  
@@ -2871,6 +2983,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
     <img src="https://img.youtube.com/vi/169bDo8G7iU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Top 9 Health Benefits of Black Garlic – Dr. Berg
 
@@ -2936,6 +3050,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Do You Have Sugar & Carb Cravings on Keto Diet? – Dr. Berg
 
 ### 小節 1: 核心主題
@@ -2991,6 +3107,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Artificial Sweeteners: Monk Fruit, Stevia, Erythritol & Xylitol – Dr. Berg
 
 ### 小節歸納
@@ -3034,6 +3152,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
     <img src="https://img.youtube.com/vi/kfuyZuGI4aw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Can You Chew Xylitol Gum on a Keto Diet? – Dr. Berg
 
@@ -3081,6 +3201,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The REAL Function of Appendix – Dr. Berg
 
 ### 小節歸納
@@ -3125,6 +3247,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Cordyceps Fungus: The Amazing Remedy for Adrenal Fatigue & Chronic Lung Congestion – Dr. Berg
 
 
@@ -3140,6 +3264,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
     <img src="https://img.youtube.com/vi/D4pClBWuuaY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Birth Control Pills vs Condoms vs IUD (Side Effects & Effectiveness) – Dr. Berg
 
@@ -3191,6 +3317,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Worst and Best Carbs on Keto – Dr. Berg
 
 ### 文章整理與分析
@@ -3240,6 +3368,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Get Rid of Lower Belly Pooch? Try Reverse Sit-ups – Dr. Berg
 
 ### 文章結構與分析
@@ -3283,6 +3413,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Figure Out Your Intermittent Fasting Pattern? – Dr. Berg
 
 
@@ -3298,6 +3430,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
     <img src="https://img.youtube.com/vi/GpU2cYmdQ3M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 7 Reasons Why You Are Tired on Keto (Ketogenic Diet) – Dr. Berg
 
@@ -3403,6 +3537,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Does Medication Slow Keto & Intermittent Fasting Results? – Dr. Berg
 
 ### 核心主題  
@@ -3462,6 +3598,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
     <img src="https://img.youtube.com/vi/oHiIKqDa2ck/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How Long Does It Take to Fix Fatty Liver? – Dr. Berg
 
@@ -3526,6 +3664,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Advice For Those Who Can't Do a Ketogenic Diet 100 Percent – Dr. Berg
 
 ### 核心主題：酮飲食與斷食挑戰者的生活策略
@@ -3585,6 +3725,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How To Fix Bad Posture Quickly – Dr. Berg
 
 
@@ -3600,6 +3742,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
     <img src="https://img.youtube.com/vi/ovCJ0RE2sok/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why You Should NOT Drink Alkaline Water – Dr. Berg
 
@@ -3649,6 +3793,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # HOMA-IR – The Best Insulin Resistance Test – Dr. Berg
 
 
@@ -3664,6 +3810,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
     <img src="https://img.youtube.com/vi/5h_UlmquvUE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Stiff Neck Relief Exercises – Dr. Berg
 
@@ -3711,6 +3859,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
     <img src="https://img.youtube.com/vi/STZg0R7p_NM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Omega 3 Fatty Acids in Canned Sardines (Part - 2) – Dr. Berg
 
@@ -3770,6 +3920,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Dangers & Side Effects of Taking Baking Soda For Acid Reflux – Dr. Berg
 
 
@@ -3785,6 +3937,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
     <img src="https://img.youtube.com/vi/J2uAyp6WCnA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Farm Raised Fish OR Wild Caught Fish, Which Is Best To Consume? – Dr. Berg
 
@@ -3840,6 +3994,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
     <img src="https://img.youtube.com/vi/hXZjOXLyA2g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Best Heart Attack Predictor – Coronary Artery Calcium (CAC) Score – Dr. Berg
 
@@ -3919,6 +4075,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Use Matcha Tea As Coffee Alternative – Dr. Berg
 
 ### 核心主題  
@@ -3983,6 +4141,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Food Combinations – Fat with Carbs vs Fat with Protein – Dr. Berg
 
 ### 小節歸納
@@ -4025,6 +4185,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
     <img src="https://img.youtube.com/vi/qKBlVe13FoQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Keto Diet Results – What to Expect? – Dr. Berg
 
@@ -4080,6 +4242,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Ammonia In The Brain – Dr. Berg
 
 ### 文章重點整理
@@ -4128,6 +4292,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
     <img src="https://img.youtube.com/vi/2OGXwyTsfis/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Will a Low-Carb Diet Lower Your Serotonin Levels? – Dr. Berg
 
@@ -4193,6 +4359,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
     <img src="https://img.youtube.com/vi/_JFR0tt3FiU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Symptoms of Salt Deficiency On Keto Diet – Dr. Berg
 
@@ -4282,6 +4450,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How To Trigger Vagus Nerve? – Dr. Berg
 
 ### 核心主題  
@@ -4348,6 +4518,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # When Are Ketones Dangerous? – Dr. Berg
 
 ### 核心主題  
@@ -4410,6 +4582,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
     <img src="https://img.youtube.com/vi/hcWdwc94lzI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Worst Diabetes Advice – Dr. Berg
 
@@ -4484,6 +4658,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What Is Autonomic Neuropathy? – Dr. Berg
 
 ### 文章整理與結構化分析
@@ -4540,6 +4716,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Link Between the Gallbladder and Eyes – Dr. Berg
 
 ### 小節與歸納
@@ -4584,6 +4762,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
     <img src="https://img.youtube.com/vi/CyS29xA7qy8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Most Common Dieting Misconception – Dr. Berg
 
@@ -4634,6 +4814,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Best Tips for Tinea Versicolor Treatment (Skin Fungus) – Dr. Berg
 
 ### 小節歸納：Tinea Versicolor 的治療與健康管理
@@ -4676,6 +4858,8 @@ PPIs 是一種常見且有效的抑酸劑，用於治療胃酸過多引發的疾
     <img src="https://img.youtube.com/vi/a2zCNj3EM7o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Interesting Benefits Of Castor Oil – Dr. Berg
 
@@ -4726,6 +4910,8 @@ Castor oil 是一種多功能的自然療法，具有抗炎、抗菌和免疫調
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How Much Sugar is Too Much? – Dr. Berg
 
 ### 文章要點整理
@@ -4769,6 +4955,8 @@ Castor oil 是一種多功能的自然療法，具有抗炎、抗菌和免疫調
     <img src="https://img.youtube.com/vi/AY3GQPohhG8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Dietary Guidelines & Junk Science – Dr. Berg's Skype Interview with Ivor Cummins
 
@@ -4834,6 +5022,8 @@ Castor oil 是一種多功能的自然療法，具有抗炎、抗菌和免疫調
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Side Effects of Mineral Oil – Dr. Berg
 
 # 文章重點整理
@@ -4882,6 +5072,8 @@ Castor oil 是一種多功能的自然療法，具有抗炎、抗菌和免疫調
     <img src="https://img.youtube.com/vi/dVEqno7RJn8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How To Use Black Seed Oil – Dr. Berg
 
@@ -4936,6 +5128,8 @@ Castor oil 是一種多功能的自然療法，具有抗炎、抗菌和免疫調
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Increase Iron Absorption – Dr. Berg
 
 # 文章整理：維生素C與鐵質吸收的關係
@@ -4986,6 +5180,8 @@ Castor oil 是一種多功能的自然療法，具有抗炎、抗菌和免疫調
     <img src="https://img.youtube.com/vi/UiJOohm2sp0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Side Effects Of Metformin & How To Avoid Them – Dr. Berg
 
@@ -5045,6 +5241,8 @@ Castor oil 是一種多功能的自然療法，具有抗炎、抗菌和免疫調
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Solution to Panic Attacks – Dr. Berg
 
 
@@ -5060,6 +5258,8 @@ Castor oil 是一種多功能的自然療法，具有抗炎、抗菌和免疫調
     <img src="https://img.youtube.com/vi/TI9SIDirh3A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Molasses, Honey & Agave on Keto (Ketogenic Diet) – Dr. Berg
 

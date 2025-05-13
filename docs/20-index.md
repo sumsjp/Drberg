@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Use Ajoene (in Garlic) to Prevent Storkes – Benefits of Garlic – Dr.Berg
 
 ### 核心主題
@@ -41,6 +43,8 @@
     <img src="https://img.youtube.com/vi/61QV7ua-kgk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The "So-Called" Healthy Fat Dr.Berg Avoids – Dangers of Soy
 
@@ -100,6 +104,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Cod Liver Oil vs. Fish Oil: Is there a Difference?
 
 ### 小節歸納
@@ -145,6 +151,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
     <img src="https://img.youtube.com/vi/4a5V4Bx3qss/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What Is Colostrum ? – Dr.Berg on Benefits of Colostrum
 
@@ -196,6 +204,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Do You Get That Jittery Feeling From Too Much Coffee? Try This! – Dr.Berg
 
 ### 核心主題
@@ -237,6 +247,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
     <img src="https://img.youtube.com/vi/a4WnWzTnMEY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Is Intermittent Fasting Good For A Diabetic? – Dr.Berg on Fasting and Blood Sugar
 
@@ -293,6 +305,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Can the Ketogenic Diet Cause a Fatty Liver Without Enough Vegetables? – Dr.Berg
 
 ### 核心主題
@@ -335,6 +349,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
     <img src="https://img.youtube.com/vi/lofgjPLbgE8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How To Get Rid Of Acne Fast? Try Dr.Berg's Home Remedies For Acne
 
@@ -414,6 +430,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Dr. Berg Talks About Thymus Gland, Stress and Immune System
 
 ### 重點整理
@@ -479,6 +497,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What Causes An Abdominal Hernia? – Dr.Berg on Hernia Causes
 
 ### 核心主題：疝氣的理解與管理
@@ -523,6 +543,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Keto Health Summit 2019 Corny Commercial #3 – Dr.Berg
 
 ### 核心主題
@@ -562,6 +584,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
     <img src="https://img.youtube.com/vi/ZBttSj0kLqw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How do Allergies Start? – Stomach Acid & Allergies Explained by Dr.Berg
 
@@ -637,6 +661,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Reverse Damage from Diabetes?  – Dr.Berg on Reversing Diabetes
 
 ### 小節整理
@@ -692,6 +718,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Before You Eat Another Chicken Nugget, Watch This! – Dr.Berg
 
 ### 核心主題
@@ -734,6 +762,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
     <img src="https://img.youtube.com/vi/qeNnRpMn8s8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Soda vs 100% Real Fruit Juice: What Is Healthier? – Dr.Berg
 
@@ -801,6 +831,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Eggs Increase Your Risk of Early Death from a Heart Attack: A FALSE STUDY! – Dr. Berg
 
 ### 文章整理：鸡蛋与心血管疾病的关系及饮食建议
@@ -853,6 +885,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
     <img src="https://img.youtube.com/vi/S4A3BaTrOOQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Consequences of a Fatty Liver that can Surprise You – Result of Fatty Liver Disease – Dr.Berg
 
@@ -921,6 +955,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
     <img src="https://img.youtube.com/vi/d553XRNoIlc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Only Carbohydrate that Lower Insulin – Dr.Berg on Carbs on Keto Diet
 
@@ -998,6 +1034,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Ketogenic Diet, Women & Hormones – Hormonal Imbalance In Women On Keto – Dr.Berg
 
 ### 核心主題  
@@ -1072,6 +1110,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Plants Do Not Like to be Eaten: Thus the Anti Nutrients – Dr.Berg On Phytoestrogens & Phytic Acid
 
 ### 文章重點整理
@@ -1138,6 +1178,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Does Ketogenic Diet Puts Your Body Into An Emergency State? – Dr.Berg
 
 ### 文章整理：酮飲食适应期的挑战与解决方案
@@ -1191,6 +1233,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
     <img src="https://img.youtube.com/vi/R6siqTxxgdE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Eliminate Kidney Stones With Lemons – Kidney Stone Causes & Lemon Benefits – Dr.Berg
 
@@ -1257,6 +1301,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Dangerous Cholesterol Is Coming From Carbs, Not Fat! – Dr.Berg On Cholesterol Causes & Saturated Fat
 
 ### 小節一：核心主題  
@@ -1304,6 +1350,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
     <img src="https://img.youtube.com/vi/0OJltvn0mVM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Intermittent Fasting and Ketosis May Spike Your Cholesterol – Dr. Berg
 
@@ -1360,6 +1408,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
     <img src="https://img.youtube.com/vi/Ymwrvek3bXQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Lectins and Autoimmune Conditions
 
@@ -1426,6 +1476,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Benefits of Tocotrienols (Part of the Vitamin E) – Benefits Of Vitamin E – Dr.Berg
 
 ### 小芻目錄
@@ -1468,6 +1520,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
     <img src="https://img.youtube.com/vi/RE8Xh8wEAMQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How To Know if You’re in Ketosis (the Signs of Ketosis & Keto Adaptation) – Dr. Berg
 
@@ -1516,6 +1570,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
     <img src="https://img.youtube.com/vi/U9PJLekWSK0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What Nuts Have the Lowest Amounts of Oxalates to Minimize Kidney Stones?
 
@@ -1569,6 +1625,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
     <img src="https://img.youtube.com/vi/6VBRirg6xfI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Do The Type of Carbs On Keto Matter? – Dr.Berg On Benefits Of Carbohydrates On Ketogenic Diet
 
@@ -1630,6 +1688,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Distilled Water & Intermittent Fasting – Not An Ideal Combination – Dr.Berg
 
 ### 核心主題
@@ -1681,6 +1741,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Hyperthyroidism Symptoms & Conditions / Graves / Best Tips – Dr.Berg
 
 
@@ -1696,6 +1758,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
     <img src="https://img.youtube.com/vi/Wz1h6t04OMo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Diabetes Persists Because of How it's Defined – Dr. Berg On Cause Of Diabetes
 
@@ -1742,6 +1806,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
     <img src="https://img.youtube.com/vi/WdZ2ZsdChmk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The 4 Health Benefits of Olives – Dr.Berg
 
@@ -1810,6 +1876,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
     <img src="https://img.youtube.com/vi/sVrTyOPJL9o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Diabetes Statistics Soaring Worldwide Out of Control – Dr.Berg
 
@@ -1892,6 +1960,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Best Dairy To Avoid Digestive Stress (Lactose Intolerance) – Dr.Berg
 
 ### 文章整理：乳制品耐受性與A1和A2 β-酪蛋白的研究
@@ -1931,6 +2001,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
     <img src="https://img.youtube.com/vi/n66IwAnyi4k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Non Dairy Sources of Calcium On Keto – Dr.Berg
 
@@ -1979,6 +2051,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
     <img src="https://img.youtube.com/vi/qMCdKV40ZUQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Dr.Berg's Cheesy Keto Summit Aug 2019 Rap Song!
 
@@ -2040,6 +2114,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What is Vitamin B6? Deficiencies, Symptoms, and Foods
 
 ### 重点整理：维生素B6的作用与影响
@@ -2094,6 +2170,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What's Unhealthier – Rice or Wheat? – Dr.Berg
 
 
@@ -2109,6 +2187,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
     <img src="https://img.youtube.com/vi/nPaBWmWTNyw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Dr.Berg's Opinion On Psyllium Seed Husk
 
@@ -2164,6 +2244,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Brown Eggs vs White Eggs – Which Are Healthier? – Dr. Berg
 
 ### 文章重點整理
@@ -2217,6 +2299,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Low Carb Keto Linked to Atrial Fibrillation (AFib): NEW STUDY – Dr.Berg's Opinion
 
 ### 文章重點整理
@@ -2257,6 +2341,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
     <img src="https://img.youtube.com/vi/KYzkBBEv4AU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Best and Worst Dairy (Milk Products) – Dr.Berg on Dairy Products
 
@@ -2349,6 +2435,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # High Liver Enzymes [ALT & AST] – What Do They Mean? – Dr.Berg
 
 
@@ -2364,6 +2452,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
     <img src="https://img.youtube.com/vi/6v0IsDlCcTo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Palm Oil vs Coconut Oil – Health Benefits of Coconut Oil & Palm Oil – Dr. Berg
 
@@ -2429,6 +2519,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Dr.Berg's Keto Health Summit 2019 – Officially Released
 
 
@@ -2444,6 +2536,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
     <img src="https://img.youtube.com/vi/8bHU0S4XZDY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Real Destroyer of the Heart and Arteries is NOT Cholesterol – Dr.Berg Interviews Dr. Bret Scher
 
@@ -2495,6 +2589,8 @@ Cod liver oil 因其富含維生素 A 和 D，適合追求全面營養的人群�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # 6 Cauliflower Health Benefits – Keto Cauliflower – Dr.Berg
 
 ### 小節整理： Cauliflower 的健康益處
@@ -2536,6 +2632,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
     <img src="https://img.youtube.com/vi/pRb_itmYX70/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Overcoming Keto Plateau After 6-8 Weeks – Dr.Berg
 
@@ -2594,6 +2692,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Weight Watchers® Stocks Getting Crushed by Keto (Ketogenic Diet) – Dr.Berg
 
 ### 文章整理：酮 diets vs. Weight Watchers: 健康飲食趨勢與挑戰
@@ -2649,6 +2749,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Is Quinoa Keto Friendly? – Dr.Berg
 
 ### 核心主題
@@ -2687,6 +2789,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
     <img src="https://img.youtube.com/vi/1XcKLO0v3Mo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What Does The Color Of Urine Tell You About Your Body? – Dr.Berg
 
@@ -2749,6 +2853,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How To Get Rid Of Stomach Ulcer? – Dr.Berg On Peptic Ulcer Treatment
 
 ### 核心主題：胃潰瘍的成因、辨別與自然療法
@@ -2790,6 +2896,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
     <img src="https://img.youtube.com/vi/UqndDzFRlQc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Can I Eat Pasta on Keto? It Does Not Spike my Blood Sugars Level – Dr.Berg
 
@@ -2833,6 +2941,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What Can Urine Smell Tell You About Your Body? – Dr.Berg
 
 ### 核心主題：尿液气味与身体健康的关系
@@ -2873,6 +2983,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What is Maltodextrin and is it Safe? – Dr.Berg
 
 
@@ -2888,6 +3000,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
     <img src="https://img.youtube.com/vi/K554maMvW00/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Is it Safe To Eat An Avocado Pit? – Dr.Berg
 
@@ -2953,6 +3067,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
     <img src="https://img.youtube.com/vi/VhVqz4KuEgI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Top 5 Health Benefits of Avocado – Dr. Berg
 
@@ -3038,6 +3154,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How Long Before A Diabetic Goes Blind? – Dr.Berg On Diabetic Retinopathy
 
 ### 小節整理：糖尿病及其並發症的影響與管理
@@ -3092,6 +3210,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
     <img src="https://img.youtube.com/vi/xR3kau4RFrY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Overlooked Dangers of High Insulin Levels – Dr.Berg's Keto Summit Presentation
 
@@ -3154,6 +3274,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How To Evaluate Sleep Quality? – Dr. Berg On Sleep Evaluation & Debug
 
 ### 文章整理與分析
@@ -3193,6 +3315,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
     <img src="https://img.youtube.com/vi/3XtGWAmD1ls/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Causes & Treatment For High Blood Sugar on Keto Diet – Dr. Berg
 
@@ -3264,6 +3388,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Dangers of Glucose In Your Urine – Dr.Berg
 
 ### 核心主題  
@@ -3318,6 +3444,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Hypoglycemia (Low Blood Sugar) –  Don’t Make This Common Mistake – Dr.Berg
 
 ### 核心主題
@@ -3366,6 +3494,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
     <img src="https://img.youtube.com/vi/6dg1LfF0oCk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Keto, Type 1 Diabetes & Ketosis Explained By Dr. Berg
 
@@ -3419,6 +3549,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
     <img src="https://img.youtube.com/vi/zLmxcuAfOxw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Most Accurate Method To Test Blood Sugar is NOT A1C Test – Dr. Berg
 
@@ -3494,6 +3626,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What is Sjogren's Syndrome? Understanding Sjogren's Syndrome Symptoms – Dr. Berg
 
 
@@ -3509,6 +3643,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
     <img src="https://img.youtube.com/vi/Klqvzv-Z82Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How To Get Rid Of Split Ends? – Cause of Split Ends – Dr. Berg
 
@@ -3572,6 +3708,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
     <img src="https://img.youtube.com/vi/vAVSmmIdNpY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What is Nutritional Yeast? 7 Nutritional Yeast Benefits – Dr. Berg
 
@@ -3638,6 +3776,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How to Do Intermittent Fasting – Intermittent Fasting Basics for Beginners – Dr.Berg
 
 ### 核心主題：簡化斷食法（Intermittent Fasting）
@@ -3675,6 +3815,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
     <img src="https://img.youtube.com/vi/iz8960F19vE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Dr.Berg's Mitochondria Energy Commercial – Dietary Supplement Keto Energy
 
@@ -3748,6 +3890,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Is Keto a Diet? Understanding Keto Diet – Dr.Berg
 
 ### 文章整理： ketogenic饮食（生酮饮食）是否真的是一种饮食
@@ -3797,6 +3941,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Acceptable Snacks To Eat During Intermittent Fasting (Inside Eating Window) – Dr.Berg
 
 ### 小節歸納
@@ -3841,6 +3987,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Sleep Solution!! – Dr.Berg's Sleep Aid Commercial
 
 
@@ -3856,6 +4004,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
     <img src="https://img.youtube.com/vi/_Ltu4wbGydE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why Certain Diseases Go Away During Pregnancy? – Dr. Berg
 
@@ -3891,6 +4041,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
     <img src="https://img.youtube.com/vi/nGDSYH21UsY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Why Dry Mouth On Keto (Cotton Mouth)? – Dr. Berg On Xerostomia & Dry Mouth Causes
 
@@ -3968,6 +4120,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
     <img src="https://img.youtube.com/vi/VhtxfuOOe4U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What Is Malic Acid & Its Benefits? – Dr.Berg
 
@@ -4049,6 +4203,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Intermittent Fasting Is NOT Starving, Its Longevity – Dr.Berg On Benefits Of Fasting
 
 ### 文章重點整理
@@ -4116,6 +4272,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Heart Attack Without Clogged Arteries? – Dr.Berg On Myocardial Infarction & Heart Problems
 
 ### 小節整理：文章重點
@@ -4170,6 +4328,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
     <img src="https://img.youtube.com/vi/HkihAcMgyQA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # What Happens When You Overeat? – Effects of Overeating – Dr.Berg
 
@@ -4243,6 +4403,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Surprising GMO Foods, Genetically Modified Organisms & Effects Of GMO  – Dr. Berg
 
 ### 核心主題：遺基因工程（GMO）及其在食物中的潛在影響
@@ -4308,6 +4470,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
     <img src="https://img.youtube.com/vi/Tn3lHConEDw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # The Ultimate Kidney Cleanse for Uric Acid and Gout: Dr. Berg's Proven Techniques
 
@@ -4381,6 +4545,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
     <img src="https://img.youtube.com/vi/_s6iV530cMA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # My Opinion On The Alkaline Diet  - Dr. Berg On Alkalosis Symptoms & Ketoacidosis
 
@@ -4481,6 +4647,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # How Much Water Do We Get From Vegetables? – Dr.Berg On Water Rich Foods & Water Consumption
 
 ### 核心主題
@@ -4528,6 +4696,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Electrolyte Powder For Energy Commercial – Keto Electrolyte Drink – Dr.Berg Electrolyte Powder
 
 ### 核心主題  
@@ -4564,6 +4734,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
     <img src="https://img.youtube.com/vi/v8R7pCU1vq4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Preventing Muscle Loss When Doing Intermittent Fasting – Dr. Berg
 
@@ -4633,6 +4805,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Should You Drink Water Before Bed? – Dr.Berg On Water Before Sleep
 
 ### 核心主題  
@@ -4695,6 +4869,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
     <img src="https://img.youtube.com/vi/cTAqmlgJBl4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Dr. Berg Live Q&A, Friday (Feb. 15) on the Ketogenic Diet and Intermittent Fasting
 
@@ -4760,6 +4936,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # What's The Minimum Fasting Length You Should Follow for Result? – Dr. Berg on Eating Window
 
 ### 文章主題：間歇性斷食與健康效益
@@ -4802,6 +4980,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
     <img src="https://img.youtube.com/vi/NunbmVSmx2A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 8 Health Benefits of Using a Dry Sauna – Dr.Berg
 
@@ -4857,6 +5037,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
     <img src="https://img.youtube.com/vi/91kV0hJEEfU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Dr. Berg Electrolyte Powder For Exercise – Electrolytes Benefits Beyond Salt Loss
 
@@ -4914,6 +5096,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Why Do I Have Low Cortisol Symptoms With High Cortisol? – Dr. Berg
 
 ### 文章重點整理
@@ -4965,6 +5149,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
     <img src="https://img.youtube.com/vi/nPmxgI32MBE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How Does Your Body Make Proteins (Like Muscle)? Boost Growth Hormone & Carbohydrates – Dr.Berg
 
@@ -5050,6 +5236,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # The Best Diet For Heart Disease (or Heart Attack) – Diet For Heart Patients – Dr. Berg
 
 ### 文章整理：最佳心臟病飲食
@@ -5108,6 +5296,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
     <img src="https://img.youtube.com/vi/QyV6gKaN4pY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Will Eating Fat Make My Liver Fat? – Dr.Berg On Causes of Fatty Liver & High Fat Foods
 
@@ -5175,6 +5365,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Detox GMO Chemicals From Your Body – Detoxify Body – Dr.Berg
 
 ### 核心主題  
@@ -5213,6 +5405,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
     <img src="https://img.youtube.com/vi/h3CNleqZJ4E/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # Don't Need To Do Keto – I'm Not Fat! – Dr. Berg
 
@@ -5302,6 +5496,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/Drberg
+
 # Vitamin D and Coronary Artery Calcification Explained by Dr.Berg
 
 ### 核心主題：  
@@ -5356,6 +5552,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
     <img src="https://img.youtube.com/vi/p8E32j-v0nI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # 3 Surprising Hidden Causes Of Inflammation Revealed by Dr. Berg
 
@@ -5426,6 +5624,8 @@ Cauliflower 是酮genic 飲食中的優質選擇，不僅提供多樣化的食�
     <img src="https://img.youtube.com/vi/cykbzfo42-I/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/Drberg
 
 # How Does Hormonal Imbalance Really Occur? – Dr.Berg
 
