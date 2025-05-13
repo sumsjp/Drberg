@@ -1,5 +1,5 @@
 <details>
-<summary>4825. [2025-04-26] The FASTEST Way to Lose Cellulite</summary><br>
+<summary>4825. The FASTEST Way to Lose Cellulite</summary><br>
 
 <a href="https://www.youtube.com/watch?v=AsBMXA3ynFU" target="_blank">
     <img src="https://img.youtube.com/vi/AsBMXA3ynFU/maxresdefault.jpg" 
@@ -76,7 +76,7 @@
 </details>
 
 <details>
-<summary>4823. [2025-04-30] Your Skin Is WARNING You (Don’t Ignore This!)</summary><br>
+<summary>4823. Your Skin Is WARNING You (Don’t Ignore This!)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=PctECZdenuc" target="_blank">
     <img src="https://img.youtube.com/vi/PctECZdenuc/maxresdefault.jpg" 
@@ -152,7 +152,7 @@
 </details>
 
 <details>
-<summary>4822. [2025-05-02] DO NOT Fail This Brain Test (For Early Dementia)</summary><br>
+<summary>4822. DO NOT Fail This Brain Test (For Early Dementia)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=OErFtjHismU" target="_blank">
     <img src="https://img.youtube.com/vi/OErFtjHismU/maxresdefault.jpg" 
@@ -220,7 +220,7 @@
 </details>
 
 <details>
-<summary>4821. [2025-05-03] The #1 BEST Collagen-RICH Food (That NO ONE Is Talking About)</summary><br>
+<summary>4821. The #1 BEST Collagen-RICH Food (That NO ONE Is Talking About)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=SHvL0_jvYGs" target="_blank">
     <img src="https://img.youtube.com/vi/SHvL0_jvYGs/maxresdefault.jpg" 
@@ -303,7 +303,7 @@
 </details>
 
 <details>
-<summary>4820. [2025-05-04] Why Men Are Fading: The Hidden Testosterone Crisis</summary><br>
+<summary>4820. Why Men Are Fading: The Hidden Testosterone Crisis</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Ap90NXxSS0g" target="_blank">
     <img src="https://img.youtube.com/vi/Ap90NXxSS0g/maxresdefault.jpg" 
@@ -383,7 +383,7 @@
 </details>
 
 <details>
-<summary>4819. [2025-05-08] The #1 BEST Remedy for Dental Plaque (TARTAR)</summary><br>
+<summary>4819. The #1 BEST Remedy for Dental Plaque (TARTAR)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=y7g1gKyzL94" target="_blank">
     <img src="https://img.youtube.com/vi/y7g1gKyzL94/maxresdefault.jpg" 
@@ -460,7 +460,7 @@
 </details>
 
 <details>
-<summary>4818. [2025-05-10] I Started Doing This… It Changed Everything</summary><br>
+<summary>4818. I Started Doing This… It Changed Everything</summary><br>
 
 <a href="https://www.youtube.com/watch?v=0p7JvFrEqiQ" target="_blank">
     <img src="https://img.youtube.com/vi/0p7JvFrEqiQ/maxresdefault.jpg" 
@@ -540,7 +540,7 @@
 </details>
 
 <details>
-<summary>4817. [2025-05-11] Depression Has NOTHING to Do With Your Brain</summary><br>
+<summary>4817. Depression Has NOTHING to Do With Your Brain</summary><br>
 
 <a href="https://www.youtube.com/watch?v=iJgti1K5A9g" target="_blank">
     <img src="https://img.youtube.com/vi/iJgti1K5A9g/maxresdefault.jpg" 

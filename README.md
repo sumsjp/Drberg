@@ -1,4 +1,4 @@
-# Dr. Eric Berg DC (2025-04-26)
+# Dr. Eric Berg DC (unknown)
 
 ---
 
