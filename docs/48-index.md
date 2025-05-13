@@ -1,4 +1,22 @@
 <details>
+<summary>4826. They Got ADHD All Wrong — And I Can Prove It</summary><br>
+
+<a href="https://www.youtube.com/watch?v=tl1rUXFQ5lw" target="_blank">
+    <img src="https://img.youtube.com/vi/tl1rUXFQ5lw/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+[all docs](https://github.com/sumsjp/Drberg)
+
+# They Got ADHD All Wrong — And I Can Prove It
+
+
+
+---
+
+</details>
+
+<details>
 <summary>4825. The FASTEST Way to Lose Cellulite</summary><br>
 
 <a href="https://www.youtube.com/watch?v=AsBMXA3ynFU" target="_blank">
@@ -614,24 +632,6 @@
 這個整理後的版本更加清晰易懂，並且突出了文稿的核心訊息。 希望這個整理對您有所幫助！
 
 [model=gemini-2.0-flash,0]
-
-
----
-
-</details>
-
-<details>
-<summary>4816. They Got ADHD All Wrong — And I Can Prove It</summary><br>
-
-<a href="https://www.youtube.com/watch?v=tl1rUXFQ5lw" target="_blank">
-    <img src="https://img.youtube.com/vi/tl1rUXFQ5lw/maxresdefault.jpg" 
-        alt="[Youtube]" width="200">
-</a>
-
-[all docs](https://github.com/sumsjp/Drberg)
-
-# They Got ADHD All Wrong — And I Can Prove It
-
 
 
 ---
