@@ -398,6 +398,7 @@ def email_notify(new_df):
                   <body>
                     <h1>{video['title']}</h1>
                     <p>影片連結：<a href="{video['url']}">{video['url']}</a></p>
+                    <p><a href="https://github.com/sumsjp/Drberg">all_docs</a></p>
                     <h2>影片摘要：</h2>
                     {html_content}
                   </body>
