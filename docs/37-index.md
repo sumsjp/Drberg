@@ -6,7 +6,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Burn Belly Fat EXTREMELY Fast with Dr. Berg's 5 Expert Tips
 
@@ -71,7 +71,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 7 Warning Signs That Your Kidneys Are Toxic
 
@@ -136,7 +136,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Fasting Drink List: Dr. Berg's Guide to What You Can Drink During Fasting
 
@@ -206,7 +206,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Keto Macros in Maintenance Phase
 
@@ -266,7 +266,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Stevia Kills Lyme Pathogen: New Study
 
@@ -321,7 +321,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 7 Things Your Face Tells You About Your Blood Sugars
 
@@ -339,7 +339,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Coconut Milk or Water Keto Friendly?
 
@@ -389,7 +389,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Cooking and Heating Turmeric Enhances Nutrients
 
@@ -459,7 +459,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Calcium and Your Immune System: IMPORTANT
 
@@ -477,7 +477,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # If You HAD to Pick One: Stroke or Heart Attack?
 
@@ -535,7 +535,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is MCT Oil Good or Bad for a Fatty Liver
 
@@ -598,7 +598,7 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Read a Coronary Artery Calcium (CAC) Score
 
@@ -654,7 +654,7 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Good Luck Trying to Get Vitamin D from Foods
 
@@ -672,7 +672,7 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Your Cell Phone Causing Sweet Cravings Late at Night?
 
@@ -725,7 +725,7 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Does NAC (N-Acetylcysteine) Work
 
@@ -766,7 +766,7 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Zinc Controls Many Key Hormones
 
@@ -822,7 +822,7 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Top Sign That You're Consuming Too Much Protein
 
@@ -888,7 +888,7 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 98 Percent of Sleep Apnea Cases Have Low Vitamin D
 
@@ -942,7 +942,7 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 10 Signs of a Dying Liver  (End Stage Liver Disease)
 
@@ -987,7 +987,7 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Most Common Cause of Hair Loss
 
@@ -1042,7 +1042,7 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Importance of Zinc for Muscles
 
@@ -1088,7 +1088,7 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Do Spices and Herbs Have an Expiration Date?
 
@@ -1157,7 +1157,7 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Probiotics for Constipation? Maybe Not
 
@@ -1211,7 +1211,7 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Form of Broccoli Is..
 
@@ -1272,7 +1272,7 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Omega-3 Fatty Acids Reduce Insulin Resistance
 
@@ -1357,7 +1357,7 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Medications Are Designed From Nature
 
@@ -1421,7 +1421,7 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 5 Herbal Remedies for Sciatica
 
@@ -1439,7 +1439,7 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Lead in Nutritional Products: MUST WATCH
 
@@ -1508,7 +1508,7 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Causes Right Ankle Edema?
 
@@ -1584,7 +1584,7 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Use DIM for HPV (Human Papilloma Virus)
 
@@ -1627,7 +1627,7 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # I Get My Vitamin D From Food...
 
@@ -1692,7 +1692,7 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Much Vitamin D Do I Need? SURPRISING
 
@@ -1731,7 +1731,7 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Sleepy After You Eat?
 
@@ -1807,7 +1807,7 @@ MCT油因其獨特的生理特性，在改善肝臟健康、腦部疾病和腸�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is NAC (N-Acetyl-L-Cysteine)?
 
@@ -1868,7 +1868,7 @@ NAC 是一種多用途的抗氧化劑，通過增強谷胱甘肅醇系統和調�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Just Two Days of Sugar Devastates Your Gut Health
 
@@ -1923,7 +1923,7 @@ NAC 是一種多用途的抗氧化劑，通過增強谷胱甘肅醇系統和調�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Crave Carbs Late at Night?
 
@@ -1941,7 +1941,7 @@ NAC 是一種多用途的抗氧化劑，通過增強谷胱甘肅醇系統和調�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Many Soft Drinks Do People Drink?
 
@@ -1998,7 +1998,7 @@ NAC 是一種多用途的抗氧化劑，通過增強谷胱甘肅醇系統和調�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Arrhythmias and Calcium
 
@@ -2043,7 +2043,7 @@ NAC 是一種多用途的抗氧化劑，通過增強谷胱甘肅醇系統和調�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Eat This to Counter Obesogens
 
@@ -2107,7 +2107,7 @@ NAC 是一種多用途的抗氧化劑，通過增強谷胱甘肅醇系統和調�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Ketosis Safe While Pregnant?
 
@@ -2163,7 +2163,7 @@ NAC 是一種多用途的抗氧化劑，通過增強谷胱甘肅醇系統和調�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Vitamin D Actually Feeds Your Microbes
 
@@ -2240,7 +2240,7 @@ NAC 是一種多用途的抗氧化劑，通過增強谷胱甘肅醇系統和調�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 8 Natural Beta Blockers
 
@@ -2307,7 +2307,7 @@ NAC 是一種多用途的抗氧化劑，通過增強谷胱甘肅醇系統和調�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Insulin's Partner Glucagon
 
@@ -2382,7 +2382,7 @@ NAC 是一種多用途的抗氧化劑，通過增強谷胱甘肅醇系統和調�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Health Benefits of Rosemary
 
@@ -2450,7 +2450,7 @@ NAC 是一種多用途的抗氧化劑，通過增強谷胱甘肅醇系統和調�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Sodium Lauryl Sulfate Safe?
 
@@ -2503,7 +2503,7 @@ NAC 是一種多用途的抗氧化劑，通過增強谷胱甘肅醇系統和調�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Craving Salt After Eating Sweets? Here's Why
 
@@ -2569,7 +2569,7 @@ NAC 是一種多用途的抗氧化劑，通過增強谷胱甘肅醇系統和調�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Real Reason for a Vitamin D Deficiency
 
@@ -2644,7 +2644,7 @@ NAC 是一種多用途的抗氧化劑，通過增強谷胱甘肅醇系統和調�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Soda Melts Your Bones
 
@@ -2723,7 +2723,7 @@ NAC 是一種多用途的抗氧化劑，通過增強谷胱甘肅醇系統和調�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Banned Ingredients That We Still Eat
 
@@ -2804,7 +2804,7 @@ NAC 是一種多用途的抗氧化劑，通過增強谷胱甘肅醇系統和調�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why the White Ring Around Your Iris?
 
@@ -2864,7 +2864,7 @@ NAC 是一種多用途的抗氧化劑，通過增強谷胱甘肅醇系統和調�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Chronic Pain and Monosodium Glutamate (MSG)
 
@@ -2943,7 +2943,7 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # High Pulse Rate Keeping You From Sleep?
 
@@ -3026,7 +3026,7 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Preventing Bacterial Vaginosis
 
@@ -3044,7 +3044,7 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Insulin Resistance and Gluconeogenesis
 
@@ -3140,7 +3140,7 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Benefits of Chromium
 
@@ -3158,7 +3158,7 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Use Probiotics for Acid Reflux
 
@@ -3232,7 +3232,7 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Night Shift Work Is Classified as a Probable Carcinogen to Humans
 
@@ -3279,7 +3279,7 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Stretch for Shoulder Pain
 
@@ -3344,7 +3344,7 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Avocados Help You Lose Weight
 
@@ -3392,7 +3392,7 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Green Bananas for Diarrhea
 
@@ -3438,7 +3438,7 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Drinking Water Makes You Weak When Fasting
 
@@ -3501,7 +3501,7 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dead Sea Salt vs. Sea Salt
 
@@ -3553,7 +3553,7 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best and Worst Seeds on Keto
 
@@ -3571,7 +3571,7 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Way to Get Off Sugar
 
@@ -3605,7 +3605,7 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Foods to Avoid When Pregnant
 
@@ -3686,7 +3686,7 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Kefir vs. Kombucha Tea: Which One is Healthier?
 
@@ -3757,7 +3757,7 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Chronic Neck Misalignment Does Not Come From the Neck
 
@@ -3853,7 +3853,7 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # American Wheat vs. European Wheat Products
 
@@ -3946,7 +3946,7 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Nuts Have the Highest Phytic Acid
 
@@ -4002,7 +4002,7 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Amazing Benefits of Sugar
 
@@ -4069,7 +4069,7 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Most Common Nutrient Deficiency in IBD (Inflammatory Bowel Disease)
 
@@ -4147,7 +4147,7 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Seven Ways to Improve Bone Health
 
@@ -4199,7 +4199,7 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Knee Pain and Tight Calf Muscles
 
@@ -4253,7 +4253,7 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why is Low Glycemic Fructose Bad for You?
 
@@ -4271,7 +4271,7 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Belly Fat is Merely a Symptom
 
@@ -4320,7 +4320,7 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Causes of Ingrown Toenails
 
@@ -4385,7 +4385,7 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Silymarin in Milk Thistle is a Powerhouse for the Liver
 
@@ -4403,7 +4403,7 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Best Exercise for Telomere Length
 
@@ -4459,7 +4459,7 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Benefits of Walking
 
@@ -4503,7 +4503,7 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Color Is Your Phlegm (Mucus)?
 
@@ -4561,7 +4561,7 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # FODMAPS and Irritable Bowel Syndrome
 
@@ -4633,7 +4633,7 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Body Fat Location Can Predict Disease
 
@@ -4720,7 +4720,7 @@ MSG作为一种广泛应用的食品添加剂，可能对神经系统造成潜�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # DHEA and Menopause
 
@@ -4773,7 +4773,7 @@ DHEA 是一種有潛力的輔助療法，可幫助改善更年期婦女的激素
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Eat This Food for Osteoarthritis
 
@@ -4828,7 +4828,7 @@ DHEA 是一種有潛力的輔助療法，可幫助改善更年期婦女的激素
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What's More Dangerous: Sugar or Wheat?
 
@@ -4899,7 +4899,7 @@ DHEA 是一種有潛力的輔助療法，可幫助改善更年期婦女的激素
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # A Fatty Liver Spreads to All of Your Organs
 
@@ -4944,7 +4944,7 @@ DHEA 是一種有潛力的輔助療法，可幫助改善更年期婦女的激素
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Worst Therapy for Tendons is Rest
 
@@ -4998,7 +4998,7 @@ DHEA 是一種有潛力的輔助療法，可幫助改善更年期婦女的激素
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Sinus Infection (Sinusitis): 2 Natural Remedies
 
@@ -5063,7 +5063,7 @@ DHEA 是一種有潛力的輔助療法，可幫助改善更年期婦女的激素
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Secret to Getting Rid of Anxiety and Depression
 
@@ -5140,7 +5140,7 @@ DHEA 是一種有潛力的輔助療法，可幫助改善更年期婦女的激素
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Are High Ketones During Fasting Dangerous?
 
@@ -5188,7 +5188,7 @@ DHEA 是一種有潛力的輔助療法，可幫助改善更年期婦女的激素
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Do Astronauts Use Spirulina?
 
@@ -5206,7 +5206,7 @@ DHEA 是一種有潛力的輔助療法，可幫助改善更年期婦女的激素
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Don't Like Germs? WATCH THIS!
 
@@ -5257,7 +5257,7 @@ DHEA 是一種有潛力的輔助療法，可幫助改善更年期婦女的激素
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # When Keto Doesn’t Work, This is Why
 
@@ -5328,7 +5328,7 @@ DHEA 是一種有潛力的輔助療法，可幫助改善更年期婦女的激素
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The 7th Reason Why You Can't Lose Weight
 
@@ -5391,7 +5391,7 @@ DHEA 是一種有潛力的輔助療法，可幫助改善更年期婦女的激素
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Low Fat Diets and Sex Hormones
 
@@ -5409,7 +5409,7 @@ DHEA 是一種有潛力的輔助療法，可幫助改善更年期婦女的激素
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Arterial Stiffness and Vitamin D
 
@@ -5427,7 +5427,7 @@ DHEA 是一種有潛力的輔助療法，可幫助改善更年期婦女的激素
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Most Powerful Agent to Raise HDL
 
@@ -5468,7 +5468,7 @@ DHEA 是一種有潛力的輔助療法，可幫助改善更年期婦女的激素
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 6 Herbs Toxic for Your Liver
 
@@ -5577,7 +5577,7 @@ DHEA 是一種有潛力的輔助療法，可幫助改善更年期婦女的激素
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Low Salt Increases Your Risk of Heart Attacks
 
@@ -5631,7 +5631,7 @@ DHEA 是一種有潛力的輔助療法，可幫助改善更年期婦女的激素
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Plastic Pollution: Good and Bad News
 

@@ -6,7 +6,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best MOUNJARO Alternative (Without the Side Effects) - Dr. Berg
 
@@ -93,7 +93,7 @@ Monjero在短期內能有效控制血糖並促進減重，但其昂貴的成本�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Does Biotin (or Biotin Shampoo) Really Work for Hair Loss?
 
@@ -168,7 +168,7 @@ Biotin（维生素B7）在头发、皮肤及神经系统健康中扮演重要角
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What to Do Before, During & After a Workout
 
@@ -251,7 +251,7 @@ Biotin（维生素B7）在头发、皮肤及神经系统健康中扮演重要角
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The POTASSIUM Epidemic: Dr. Berg Explains Symptoms, Signs, Diet, Causes, and Treatment
 
@@ -324,7 +324,7 @@ Biotin（维生素B7）在头发、皮肤及神经系统健康中扮演重要角
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # RED MEAT: The Single BEST Food for Healing and Repair
 
@@ -391,7 +391,7 @@ This structured summary captures the essence of the article, organizing key poin
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Unique Benefits of Magnesium Glycinate: How It's Different
 
@@ -448,7 +448,7 @@ This structured summary captures the essence of the article, organizing key poin
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Flatten Your Belly (FOR GOOD)
 
@@ -544,7 +544,7 @@ This structured summary captures the essence of the article, organizing key poin
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 5 Secrets That the SUGAR Industry Does Not Want You to Know About
 
@@ -586,7 +586,7 @@ This structured summary captures the essence of the article, organizing key poin
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg Gets Censored (Silenced)
 
@@ -657,7 +657,7 @@ This structured summary captures the essence of the article, organizing key poin
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Really Causes Styes and How to Get Rid of Them Fast
 
@@ -721,7 +721,7 @@ This structured summary captures the essence of the article, organizing key poin
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Eat Different Proteins for Different Problems
 
@@ -810,7 +810,7 @@ This structured summary captures the essence of the article, organizing key poin
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The REAL Cause of Autism Revealed: Dr. Berg Explains
 
@@ -879,7 +879,7 @@ This structured summary captures the essence of the article, organizing key poin
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Dangers and Benefits of Alkaline Water
 
@@ -939,7 +939,7 @@ This structured summary captures the essence of the article, organizing key poin
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Root Cause of Depression is NOT a Chemical Imbalance with Serotonin
 
@@ -1018,7 +1018,7 @@ This structured summary captures the essence of the article, organizing key poin
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The DOPAMINE Myth
 
@@ -1099,7 +1099,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Benefits of Iodine, Side-Effects and More
 
@@ -1149,7 +1149,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 4 Skin Signs That Reveal Heavy Metal Toxicity
 
@@ -1222,7 +1222,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Foods, Smoothies, and Supplements for a Liver Cleanse Detox
 
@@ -1285,7 +1285,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The #1 Exercise to Lose Belly Fat (Easily)
 
@@ -1359,7 +1359,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best OZEMPIC Alternative (Without the Side Effects)
 
@@ -1432,7 +1432,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The #1 Best Food for Your Brain
 
@@ -1515,7 +1515,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # WARNING: Watch This Video Before Eating Another Egg
 
@@ -1602,7 +1602,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # When to Change Your KETO DIET (Ketogenic Diet)
 
@@ -1648,7 +1648,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Raw vs. Cooked Veggies: Which is Better?
 
@@ -1735,7 +1735,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Does OLIVE OIL Do for Your Body?
 
@@ -1805,7 +1805,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Dark Side of Zinc for Hair: Vital Tip for Hair Growth
 
@@ -1874,7 +1874,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The #1 Best Remedy to Clean Plaque From Your Arteries
 
@@ -1951,7 +1951,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Autophagy on Steroids: DRY FASTING
 
@@ -1996,7 +1996,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Fix the Adrenal Body Type - Dr. Berg
 
@@ -2093,7 +2093,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Low Magnesium Epidemic: Dr. Berg Explains Signs, Symptoms, Causes, and Treatment
 
@@ -2175,7 +2175,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # DRINK ONE CUP Per Day for Erectile Dysfunction (NATURAL VIAGRA)
 
@@ -2252,7 +2252,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Alarming Signs Your Body Needs Trace Minerals
 
@@ -2320,7 +2320,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Happens if You Consumed Omega-3 Fish Oils for 30 Days
 
@@ -2389,7 +2389,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Revealing the Secret: Sedentary Lifestyle & 35 Chronic Diseases
 
@@ -2462,7 +2462,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to STOP Bloating Instantly: Fixing the Root Cause
 
@@ -2515,7 +2515,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The 12 Signs that Your Gallbladder is in DANGER
 
@@ -2557,7 +2557,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Hidden Dangers Of Excessive Salt Consumption
 
@@ -2620,7 +2620,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Drink 1 CUP PER DAY to Shrink an Enlarged Prostate
 
@@ -2680,7 +2680,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Use Ashwagandha To Normalize Cortisol Levels
 
@@ -2748,7 +2748,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Eric Berg Live Show - July 14, 2023
 
@@ -2831,7 +2831,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Naturally Reverse Premature Graying of Hair
 
@@ -2908,7 +2908,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Shocking Effects of Going Caffeine-free for a Month
 
@@ -2967,7 +2967,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Way To Get Rid of Tinnitus (Ringing in the Ears)
 
@@ -3015,7 +3015,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The TOP Best Foods to Improve Kidney Function (END STAGE KIDNEY DISEASE)
 
@@ -3073,7 +3073,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 9 Clear Signs You're in Ketosis: Without Testing
 
@@ -3157,7 +3157,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Maximizing Gut Health: Optimal Timing for Probiotic Intake
 
@@ -3250,7 +3250,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The 8 Foods That Negatively Impact Your Skin Health
 
@@ -3303,7 +3303,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Extend Your Life and Boost Longevity
 
@@ -3388,7 +3388,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Get a Deep Refreshing Sleep With These 3 Potent Strategies
 
@@ -3467,7 +3467,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # This Carb Lowers Your Bad Cholesterol Levels Fast!
 
@@ -3511,7 +3511,7 @@ Dopamine 的功能遠超過傳統認知的『快樂荷爾蒙』，其在運動�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Most Dangerous Sugar In The World!
 
@@ -3574,7 +3574,7 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Cheat Days Can Destroy Your Progress -- Find Out Why!
 
@@ -3638,7 +3638,7 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The TRUTH About Osteoporosis and Osteopenia
 
@@ -3743,7 +3743,7 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Truth About Sugar - What They Don't Want You To Know!
 
@@ -3802,7 +3802,7 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Beat Stress: Master The Single Most Powerful Technique
 
@@ -3861,7 +3861,7 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Find Out How to Predict a Silent Stroke When There Are NO SYMPTOMS Present
 
@@ -3934,7 +3934,7 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Risks of Taking 10,000 IUs of Vitamin D3
 
@@ -4001,7 +4001,7 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Permanently Stick to Your Weight Loss Plan
 
@@ -4055,7 +4055,7 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Fix Your Rhomboid Pain Quickly And Easily! (Shoulder Blade Discomfort)
 
@@ -4144,7 +4144,7 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Most Effective Natural Antihistamines for Allergies
 
@@ -4208,7 +4208,7 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Could You Give Up Bread For 30 Days? See What Happens...
 
@@ -4300,7 +4300,7 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Glucosamine For Arthritis: Why It Works
 
@@ -4368,7 +4368,7 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The #1 Thing that STOPS You From Losing Belly Fat: Not Sugar or Carbs
 
@@ -4437,7 +4437,7 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Get Relief from Seasonal Allergies (Seasonal Allergic Rhinitis) with this Remedy!
 
@@ -4512,7 +4512,7 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Benfotiamine (Fat-Soluble B1): Benefits and Why It's So Unique
 
@@ -4591,7 +4591,7 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Don't Fall into These Common Keto Traps: Top 3 Mistakes to Avoid
 
@@ -4692,7 +4692,7 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Synthroid® can Harm your Bones: Crucial Bone Loss Side Effect
 
@@ -4759,7 +4759,7 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The BEST Foods for Arthritis
 
@@ -4830,7 +4830,7 @@ The article highlights the dangers of fructose, a monosaccharide commonly found 
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Mind-Blowing Benefits of Berberine
 
@@ -4911,7 +4911,7 @@ Berberine 具備多樣化的健康功效，特別是在代謝調節和心血管�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Revealing the #1 Hidden Source of Digestive Problems
 
@@ -4995,7 +4995,7 @@ Berberine 具備多樣化的健康功效，特別是在代謝調節和心血管�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # If You Have Hypothyroidism, Avoid These Foods
 
@@ -5074,7 +5074,7 @@ Berberine 具備多樣化的健康功效，特別是在代謝調節和心血管�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 11 RED FLAGS Your Body Needs More Nutrients
 
@@ -5142,7 +5142,7 @@ Berberine 具備多樣化的健康功效，特別是在代謝調節和心血管�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Food for Your Eyes
 
@@ -5213,7 +5213,7 @@ Berberine 具備多樣化的健康功效，特別是在代謝調節和心血管�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Stop Overeating And Be Satisfied With Your Food
 
@@ -5288,7 +5288,7 @@ Berberine 具備多樣化的健康功效，特別是在代謝調節和心血管�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The #1 Best Way to Rid ALCOHOL Cravings
 
@@ -5350,7 +5350,7 @@ L-谷氨酰胺作為一種有效的補充劑，通過提供快速能量、支持
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Cyanocobalamin: The REAL Reason Why You Should Avoid Synthetic B12
 
@@ -5425,7 +5425,7 @@ L-谷氨酰胺作為一種有效的補充劑，通過提供快速能量、支持
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Hidden Source of Heart Attacks That You Never Considered
 
@@ -5487,7 +5487,7 @@ L-谷氨酰胺作為一種有效的補充劑，通過提供快速能量、支持
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # STOP Keto/Paleo or Intense Exercise – Burn Fat and Get Shredded
 
@@ -5564,7 +5564,7 @@ L-谷氨酰胺作為一種有效的補充劑，通過提供快速能量、支持
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # One Simple Change that Eliminates Hypoglycemia (Low Blood Sugar)
 
@@ -5628,7 +5628,7 @@ L-谷氨酰胺作為一種有效的補充劑，通過提供快速能量、支持
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Fix the Root Cause of Dark Circles Under the Eyes
 
@@ -5683,7 +5683,7 @@ L-谷氨酰胺作為一種有效的補充劑，通過提供快速能量、支持
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Key Vitamin Deficiencies Causing Your Back Pain
 
@@ -5761,7 +5761,7 @@ L-谷氨酰胺作為一種有效的補充劑，通過提供快速能量、支持
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The BEST Meal to Clean Out Your Arteries
 
@@ -5857,7 +5857,7 @@ L-谷氨酰胺作為一種有效的補充劑，通過提供快速能量、支持
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Revealing the Shocking Connection: Fatty Liver and Diabetes
 
@@ -5918,7 +5918,7 @@ L-谷氨酰胺作為一種有效的補充劑，通過提供快速能量、支持
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # You Will NEVER Want Sugar Again After Watching This
 
@@ -5971,7 +5971,7 @@ L-谷氨酰胺作為一種有效的補充劑，通過提供快速能量、支持
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Benefits Of Cold Water Immersion for Your Genetics
 
@@ -6068,7 +6068,7 @@ L-谷氨酰胺作為一種有效的補充劑，通過提供快速能量、支持
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Find Out The Deeper Causes of Brittle Nails
 
@@ -6146,7 +6146,7 @@ L-谷氨酰胺作為一種有效的補充劑，通過提供快速能量、支持
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Protein That Spikes Insulin More than White Bread
 
@@ -6216,7 +6216,7 @@ Whey 蛋白質在提供優質氨基酸、促進肌肉生長方面具有顯著優
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Reversing Alopecia: The Power Of 3 Trace Minerals
 
@@ -6274,7 +6274,7 @@ Whey 蛋白質在提供優質氨基酸、促進肌肉生長方面具有顯著優
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Drink 1 Cup to Clear Phlegm and Mucus From Lungs
 
@@ -6338,7 +6338,7 @@ Whey 蛋白質在提供優質氨基酸、促進肌肉生長方面具有顯著優
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Never Have Cold Feet Again: The Ultimate Technique Revealed
 
@@ -6415,7 +6415,7 @@ Whey 蛋白質在提供優質氨基酸、促進肌肉生長方面具有顯著優
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The #1 Best Meal for Liver Detoxification
 
@@ -6465,7 +6465,7 @@ Whey 蛋白質在提供優質氨基酸、促進肌肉生長方面具有顯著優
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Amazing Benefits of WALKING You Never Knew About
 
@@ -6530,7 +6530,7 @@ Whey 蛋白質在提供優質氨基酸、促進肌肉生長方面具有顯著優
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to STOP Waking Up Tired in the AM
 
@@ -6620,7 +6620,7 @@ Whey 蛋白質在提供優質氨基酸、促進肌肉生長方面具有顯著優
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Dangers and Benefits of Baking Soda
 
@@ -6688,7 +6688,7 @@ Whey 蛋白質在提供優質氨基酸、促進肌肉生長方面具有顯著優
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Avoid These 6 Mistakes When Treating a Viral Infection
 
@@ -6779,7 +6779,7 @@ Whey 蛋白質在提供優質氨基酸、促進肌肉生長方面具有顯著優
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Most Effective Therapy For Gout (High Uric Acid)
 
@@ -6858,7 +6858,7 @@ Whey 蛋白質在提供優質氨基酸、促進肌肉生長方面具有顯著優
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Painful Intercourse: Here's What You Need to Know
 
@@ -6949,7 +6949,7 @@ Whey 蛋白質在提供優質氨基酸、促進肌肉生長方面具有顯著優
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The #1 Remedy for Heart Palpitations
 
@@ -7059,7 +7059,7 @@ Whey 蛋白質在提供優質氨基酸、促進肌肉生長方面具有顯著優
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 8 Surprising Causes of Edema: Uncover the Truth!
 
@@ -7140,7 +7140,7 @@ Whey 蛋白質在提供優質氨基酸、促進肌肉生長方面具有顯著優
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The #1 Most Important Nutrient for Hypothyroidism
 

@@ -6,7 +6,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is LDL? Understanding in Simple Terms with Dr.Berg
 
@@ -103,7 +103,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Regrow Your Brain with Intermittent Fasting – Brain Derived Neurotrophic Factor (BDNF) – Dr.Berg
 
@@ -160,7 +160,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Best Vegan Source of Vitamin B12 – Nori (red algae), Chlorella & Spirulina – Dr. Berg
 
@@ -206,7 +206,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Nighttime Hypoglycemia – Low Blood Sugar & Insulin resistance – Dr.Berg
 
@@ -257,7 +257,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Gout & Ketosis – Uric Acid Stones & High Uric Acid On Keto – Dr. Berg
 
@@ -303,7 +303,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Best Coffee Substitutes – Decaf Coffee & Other Coffee Alternatives – Dr.Berg
 
@@ -355,7 +355,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Keto Diet & Intermittent Fasting Success Story – Dr.Berg Interviews Chris Hill on Keto Success
 
@@ -426,7 +426,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Long Term Effects of a Low Carbohydrate Diet
 
@@ -485,7 +485,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Fat Gets Burned? Science Of Fat Burning Simplified – Dr. Berg
 
@@ -536,7 +536,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Lose Weight Fast Healthily: WRESTLERS ONLY – Dr.Berg
 
@@ -589,7 +589,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Type of Carbs To Avoid On A Keto Diet – Dr.Berg
 
@@ -607,7 +607,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Keto Diet and Intermittent Fasting Success Story – Dr.Berg Interviews Johnny Belisle
 
@@ -678,7 +678,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Crazy Side Effects of Thiazide Diuretics (High Blood Pressure Medication) – Dr.Berg
 
@@ -741,7 +741,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Pee Smells Bad? What Causes Strong Stinky Odor After Urination? – Dr. Berg
 
@@ -823,7 +823,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Keto Diet and Intermittent Fasting Success Story – Dr.Berg Interviews Michel Jourdain
 
@@ -925,7 +925,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Do I Know If I'm Stressed? – Dr.Berg On Signs of Stress
 
@@ -988,7 +988,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Get Rid Of Loose Skin After Weight Loss? – Dr.Berg On Saggy Belly fat
 
@@ -1055,7 +1055,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is SAMe S-Adenosyl-Methionine Explained By Dr. Berg
 
@@ -1119,7 +1119,7 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Prevent TIA (Transient Ischemic Attack) Mini-Stroke? – Dr.Berg
 
@@ -1185,7 +1185,7 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Juicing On A Ketogenic Diet? – Dr. Berg
 
@@ -1261,7 +1261,7 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Interesting Benefits of Bentonite Clay – Dr.Berg
 
@@ -1314,7 +1314,7 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can a Ketogenic Diet Cause Fatty Liver Disease? – Dr.Berg
 
@@ -1356,7 +1356,7 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Chronic Right Rhomboid Muscle Pain, Tightness & Trigger Points – Dr.Berg
 
@@ -1399,7 +1399,7 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Ketosis & Intermittent Fasting Before & After – Dr. Berg Skype Interview with Priscila Nuvamsa
 
@@ -1462,7 +1462,7 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Vitamin B4? – Dr.Berg
 
@@ -1513,7 +1513,7 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Is Dry Burning Eyes & How To Get Rid Of Dry Eyes? – Dr.Berg
 
@@ -1590,7 +1590,7 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Underlying Cause Of Diabetes – Dr.Berg
 
@@ -1659,7 +1659,7 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # My Beef with "What The Health Documentary" Explained By Dr. Berg
 
@@ -1746,7 +1746,7 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is "Acid in Stomach" Unhealthy? Explained By Dr. Berg
 
@@ -1815,7 +1815,7 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Most Important Fat-Soluble Vitamin For Diabetics: Benfotiamine – Dr.Berg
 
@@ -1856,7 +1856,7 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Ketogenic Diet & Body Type Tips Explained By Dr.Berg
 
@@ -1918,7 +1918,7 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Lactose Intolerance Explained By Dr. Berg
 
@@ -1978,7 +1978,7 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Insomnia on Keto Explained By Dr.Berg
 
@@ -2054,7 +2054,7 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Keto Diet Dairy (Milk, Yogurt & Cheese) Explained By Dr. Berg
 
@@ -2114,7 +2114,7 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Vitamin B1 Deficiency Symptoms Explained By Dr. Berg
 
@@ -2183,7 +2183,7 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Intermittent Fasting Benefits Explained By Dr.Berg
 
@@ -2232,7 +2232,7 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Keto Diet Without Veggies Explained By Dr. Berg
 
@@ -2307,7 +2307,7 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What are the Adrenal Glands? – Effects of Cortisol & Adrenal Hormones – Dr.Berg
 
@@ -2362,7 +2362,7 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Ultimate Joint Healer: Growth Hormone – Dr. Berg On Joint Pain Relief
 
@@ -2421,7 +2421,7 @@ S-腺苷蛋氨酸（SAMe）是一種多用途的化合物，對於改善情緒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Low Fat Diet to Prevent Gallstones "Myth" – Dr. Berg
 
@@ -2506,7 +2506,7 @@ Dr. Burke 認為，膽石症的發生與低脂飲食無直接關聯，反而是�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Should You Do Bulletproof Coffee on Ketogenic Diet with Intermittent Fasting? – Dr. Berg
 
@@ -2572,7 +2572,7 @@ Dr. Burke 認為，膽石症的發生與低脂飲食無直接關聯，反而是�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Sea Salt vs. Table Salt – Dr.Berg
 
@@ -2626,7 +2626,7 @@ Dr. Burke 認為，膽石症的發生與低脂飲食無直接關聯，反而是�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Highest Vitamin C Food on the Planet – Dr. Berg on the Benefits of Vitamin C
 
@@ -2682,7 +2682,7 @@ Sauerkraut作为地球上维生素C含量最高的食物之一，不仅提供了
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What's Really Behind Leaky Gut? – Dr.Berg On Leaky Gut Symptoms  & Vitamin C Deficiency
 
@@ -2749,7 +2749,7 @@ Sauerkraut作为地球上维生素C含量最高的食物之一，不仅提供了
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Before & After Keto – Intermittent Fasting & Weight Loss session with Dr.Berg and Chris Grant
 
@@ -2832,7 +2832,7 @@ Sauerkraut作为地球上维生素C含量最高的食物之一，不仅提供了
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can Protein Harm Your Kidneys and Liver? – Dr.Berg on Protein Side Effects
 
@@ -2883,7 +2883,7 @@ Sauerkraut作为地球上维生素C含量最高的食物之一，不仅提供了
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Commercial Eggs vs. Pasture-Raised Eggs – Dr.Berg
 
@@ -2935,7 +2935,7 @@ Pasture-raised 鸡蛋因其較高的營養價值和健康益處，值得比商�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Apple Cider Vinegar and Diabetes – Dr. Berg On ACV Benefits
 
@@ -2984,7 +2984,7 @@ Pasture-raised 鸡蛋因其較高的營養價值和健康益處，值得比商�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Does Eating Saturated Fat Really Cause Insulin Resistance? – Dr. Berg
 
@@ -3026,7 +3026,7 @@ Pasture-raised 鸡蛋因其較高的營養價值和健康益處，值得比商�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Does A High Fat Diet Really Cause Type 2 Diabetes? – Dr.Berg
 
@@ -3073,7 +3073,7 @@ Pasture-raised 鸡蛋因其較高的營養價值和健康益處，值得比商�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Before & After Keto – Intermittent Fasting & Weight Loss session with Dr.Berg and Dan McGinley
 
@@ -3121,7 +3121,7 @@ Pasture-raised 鸡蛋因其較高的營養價值和健康益處，值得比商�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Men, Estrogen & Weight Gain & Man Boobs – Dr. Berg
 
@@ -3192,7 +3192,7 @@ Pasture-raised 鸡蛋因其較高的營養價值和健康益處，值得比商�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Before & After Keto – Intermittent Fasting & Weight Loss session with Dr.Berg & David Otieno Okello
 
@@ -3245,7 +3245,7 @@ Pasture-raised 鸡蛋因其較高的營養價值和健康益處，值得比商�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Should I Cycle Carbs on Keto? – Dr. Berg
 
@@ -3287,7 +3287,7 @@ Pasture-raised 鸡蛋因其較高的營養價值和健康益處，值得比商�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Before & After Keto – Intermittent Fasting & Weight Loss session with Dr.Berg & Michelle Spiva
 
@@ -3350,7 +3350,7 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Reduce Seizures On The Ketogenic Diet – Dr.Berg On Seizure Symptoms
 
@@ -3403,7 +3403,7 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Keto Diet and Intermittent Fasting Success Story – Dr.Berg Weight Loss Interviews Victor Torres
 
@@ -3494,7 +3494,7 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Losing Inches But Not Weight Loss? – Dr.Berg
 
@@ -3551,7 +3551,7 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Greens For Salad – Leafy Green Vegetables For Healthy Salads – Dr.Berg
 
@@ -3614,7 +3614,7 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Lose Weight With An Extremely Slow Thyroid? – Dr.Berg On Hypothyroidism & Weight Loss
 
@@ -3666,7 +3666,7 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Does Intermittent Fasting Cause Muscle Loss? – Dr.Berg
 
@@ -3717,7 +3717,7 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Stretch Exercise To Do After Whiplash Injury – Dr. Berg
 
@@ -3766,7 +3766,7 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Key Questions In Figuring Out Body Problems – Dr. Berg
 
@@ -3824,7 +3824,7 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Purpose of Potassium – Dr.Berg
 
@@ -3901,7 +3901,7 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Do I Feel So Sleepy Despite Having Enough Sleep? – Dr. Berg
 
@@ -3964,7 +3964,7 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Causes High Pulse Rate? – Dr. Berg
 
@@ -4033,7 +4033,7 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Is Excessive Yawning? – Dr. Berg
 
@@ -4094,7 +4094,7 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Best Nutrients For Hashimoto's Thyroiditis – Dr. Berg
 
@@ -4169,7 +4169,7 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Is Vascular Calcification? – Dr.Berg
 
@@ -4225,7 +4225,7 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Non-Stress Cause of High Cortisol – Dr. Berg
 
@@ -4281,7 +4281,7 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Is Dopamine? – Dr.Berg
 
@@ -4345,7 +4345,7 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can A Man Go Through Menopause? – Dr.Berg on Male Menopause
 
@@ -4393,7 +4393,7 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Improve Glaucoma? – Dr.Berg On Glaucoma Treatment
 
@@ -4443,7 +4443,7 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Natural AntiHistamine for Sinus & Lung Congestion – Dr.Berg
 
@@ -4503,7 +4503,7 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Melatonin a Good Sleep Aid? – Dr.Berg on Melatonin Side Effects
 
@@ -4564,7 +4564,7 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Feeling Dizzy When You Stand Up? – Dr. Berg
 
@@ -4613,7 +4613,7 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Repair Liver Damage After Alcohol? – Dr.Berg on Liver Cirrhosis
 
@@ -4666,7 +4666,7 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Excessive Thirst & Excess Urination – Dr.Berg
 
@@ -4737,7 +4737,7 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Vitamin B5 (Pantothenic Acid)? – Dr. Berg
 
@@ -4806,7 +4806,7 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Women Lose Weight Slower Than Men? – Dr.Berg
 
@@ -4866,7 +4866,7 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Increasing Muscle Mass (myofibrillar hypertrophy) – Dr. Berg
 
@@ -4935,7 +4935,7 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Diabetes Type I and II & the Need For Excess Insulin – Dr.Berg
 
@@ -5002,7 +5002,7 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Get Rid of Migraine with Ketogenic Diet? – Dr.Berg
 
@@ -5067,7 +5067,7 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Menopausal Weight Loss Success with Dr.Berg & Lori Bigelow
 
@@ -5148,7 +5148,7 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Gluten-Free Okay on a Ketogenic Diet? – Dr. Berg on Gluten-Free Foods on a Keto Diet
 
@@ -5189,7 +5189,7 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Before & After Intermittent Fasting & Keto Success – Dr.Berg Interview – Amit Nikharge
 
@@ -5262,7 +5262,7 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can I do a Ketogenic Diet Without a Gallbladder? – Dr. Berg on Keto Diet Without Gallbladder
 
@@ -5318,7 +5318,7 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Before & After Intermittent Fasting & Keto Success – Dr. Berg Interview – Aysha Islam
 
@@ -5369,7 +5369,7 @@ Michelle 的故事展示了健康生活的多重要性，不僅幫助個人擺�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Maltodextrin – One of the Worst Hidden Sugars – Dr. Berg on Maltodextrin Dangers
 
@@ -5432,7 +5432,7 @@ Maltodextrin 虽然在改善食品质地方面发挥了作用，但其高升糖�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Ketogenic Diet and Intermittent Fasting Before & After – Dr.Berg Interview: Salem Alrashed
 
@@ -5484,7 +5484,7 @@ Maltodextrin 虽然在改善食品质地方面发挥了作用，但其高升糖�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Intermittent Fasting WITHOUT doing Keto? Healthy Weight Loss – Dr. Berg
 
@@ -5544,7 +5544,7 @@ Maltodextrin 虽然在改善食品质地方面发挥了作用，但其高升糖�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Roasted Brussel Sprouts Recipe – Dr. Berg
 
@@ -5620,7 +5620,7 @@ Maltodextrin 虽然在改善食品质地方面发挥了作用，但其高升糖�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Intermittent Fasting Turbo: Dr. Berg's Proven Tricks for Faster Weight Loss
 
@@ -5728,7 +5728,7 @@ Maltodextrin 虽然在改善食品质地方面发挥了作用，但其高升糖�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Before & After Keto & Intermittent Fasting Success Stories – Dr.Berg Interviews Prenny Abraham
 
@@ -5792,7 +5792,7 @@ Maltodextrin 虽然在改善食品质地方面发挥了作用，但其高升糖�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Keto and Heart Disease – Dr.Berg Answers Does Ketogenic Diet Increase or Decrease Heart Health?
 
@@ -5840,7 +5840,7 @@ Maltodextrin 虽然在改善食品质地方面发挥了作用，但其高升糖�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Low vs. High Cortisol Levels Symptoms Explained By Dr.Berg
 
@@ -5925,7 +5925,7 @@ Maltodextrin 虽然在改善食品质地方面发挥了作用，但其高升糖�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Burning Calories vs. Burning FAT Calories? – Dr. Berg
 
@@ -6013,7 +6013,7 @@ Maltodextrin 虽然在改善食品质地方面发挥了作用，但其高升糖�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Keto & Intermittent Fasting Before and After – Dr.Berg's Skype Interview with Allen Rogers
 
@@ -6094,7 +6094,7 @@ Maltodextrin 虽然在改善食品质地方面发挥了作用，但其高升糖�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Missing Nutrients Explained by Dr. Berg
 
@@ -6146,7 +6146,7 @@ Maltodextrin 虽然在改善食品质地方面发挥了作用，但其高升糖�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Get Better Sleep and Energy Explained by Dr. Berg
 

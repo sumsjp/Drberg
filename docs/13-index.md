@@ -6,7 +6,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Stress & Your Immune System
 
@@ -58,7 +58,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Spot a Fad Diet? – Dr. Berg
 
@@ -123,7 +123,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # When Should I Stop Eating on Keto? – Dr. Berg
 
@@ -180,7 +180,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # High Insulin or High Glucose Levels, What's Worse? – Dr. Berg
 
@@ -258,7 +258,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Main Cause of Upper Back Pain is NOT Coming From Your Back – Dr. Berg
 
@@ -317,7 +317,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Are Advanced Glycation End Products (AGEs)? – Dr. Berg
 
@@ -380,7 +380,7 @@ AGEs是導致多種疾病的重要因素，特別是在高血糖環境下。通�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Happens When Your Fat Cells Become Insulin Resistant? – Dr. Berg
 
@@ -427,7 +427,7 @@ AGEs是導致多種疾病的重要因素，特別是在高血糖環境下。通�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Understanding Metformin and Natural Ways to Support Insulin Sensitivity
 
@@ -491,7 +491,7 @@ AGEs是導致多種疾病的重要因素，特別是在高血糖環境下。通�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Doing Keto For A Month But Not Losing Weight? – Dr. Berg
 
@@ -560,7 +560,7 @@ AGEs是導致多種疾病的重要因素，特別是在高血糖環境下。通�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Much Protein On Keto & Intermittent Fasting Plan Is Good? – Dr. Berg
 
@@ -654,7 +654,7 @@ AGEs是導致多種疾病的重要因素，特別是在高血糖環境下。通�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Plateau on Keto Diet & Intermittent Fasting – Dr. Berg
 
@@ -758,7 +758,7 @@ AGEs是導致多種疾病的重要因素，特別是在高血糖環境下。通�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Do Not Do Carb Cycling on Keto & Intermittent Fasting – Dr. Berg
 
@@ -833,7 +833,7 @@ AGEs是導致多種疾病的重要因素，特別是在高血糖環境下。通�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Do This Acupressure Technique Post Surgery & Boost Your Recovery – Dr. Berg
 
@@ -899,7 +899,7 @@ AGEs是導致多種疾病的重要因素，特別是在高血糖環境下。通�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Importance of Vitamin B5 (Pantothenic Acid) on Keto & Intermittent Fasting – Dr. Berg
 
@@ -985,7 +985,7 @@ AGEs是導致多種疾病的重要因素，特別是在高血糖環境下。通�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # No Caffeine Bulletproof Coffee Alternative for Keto & Intermittent Fasting – Dr. Berg
 
@@ -1048,7 +1048,7 @@ AGEs是導致多種疾病的重要因素，特別是在高血糖環境下。通�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Hair Loss on Keto & Intermittent Fasting Plan? – Dr. Berg
 
@@ -1135,7 +1135,7 @@ AGEs是導致多種疾病的重要因素，特別是在高血糖環境下。通�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Best Time To Take Supplements on Keto & Intermittent Fasting – Dr. Berg
 
@@ -1177,7 +1177,7 @@ AGEs是導致多種疾病的重要因素，特別是在高血糖環境下。通�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Really Causes PCOS (Polycystic Ovarian Syndrome) – Dr. Berg
 
@@ -1249,7 +1249,7 @@ AGEs是導致多種疾病的重要因素，特別是在高血糖環境下。通�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Keto Will NOT Work Without Intermittent Fasting – Dr. Berg
 
@@ -1300,7 +1300,7 @@ AGEs是導致多種疾病的重要因素，特別是在高血糖環境下。通�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Understanding Omega-3 Fatty Acids – Dr. Berg
 
@@ -1360,7 +1360,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Gastric Bypass & Keto and Intermittent Fasting – Dr. Berg
 
@@ -1407,7 +1407,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Importance of Cholesterol for Your Muscles and Testosterone – Dr. Berg
 
@@ -1467,7 +1467,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # My 3 Stupid Dietary Mistakes: Skipping Meals, Snacking, Animal Protein – Dr. Berg
 
@@ -1569,7 +1569,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Key Keto Foods on a Ketogenic Diet – Dr. Berg
 
@@ -1633,7 +1633,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 6 Tricks to Speed Keto Adaptation – Dr. Berg
 
@@ -1685,7 +1685,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Top 7 Magnesium Rich Foods – Dr. Berg
 
@@ -1758,7 +1758,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Kale A Poison To Your Thyroid Problems Or An Anti-Poison? – Dr. Berg
 
@@ -1813,7 +1813,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Kill Candida with Keto & Intermittent Fasting – Dr. Berg
 
@@ -1882,7 +1882,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The 3 Myths of Building Muscles – Dr. Berg & Thomas DeLauer
 
@@ -1900,7 +1900,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 16 Most Common Keto Side Effects and Remedies – Dr. Berg
 
@@ -1994,7 +1994,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Effects of Iodine Deficiency & Mental Health (IQ) – Dr. Berg
 
@@ -2038,7 +2038,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Does Eating Fat Cause Gallstones? – Dr. Berg
 
@@ -2094,7 +2094,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why You Get Sleepy After Eating Protein? – Dr. Berg
 
@@ -2142,7 +2142,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg's Coffee Experiment with Facebook Keto & IF Lab Group
 
@@ -2196,7 +2196,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Fat and Genetics – Dr. Berg
 
@@ -2301,7 +2301,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Many Carbs in Popcorn is the Question, NOT Calories! – Dr. Berg
 
@@ -2367,7 +2367,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Treat Double Diabetes? – Dr. Berg
 
@@ -2421,7 +2421,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Fitness Talks: Dr. Berg's Skype Interview with Fitness Expert Tiffany Rothe
 
@@ -2535,7 +2535,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Eat Plants, NOT Grains! – Dr. Berg
 
@@ -2590,7 +2590,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Top 7 Foods Rich In Potassium – Dr. Berg
 
@@ -2650,7 +2650,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is It Good To Do Keto Diet & Intermittent Fasting While Having A Heart Disease? – Dr. Berg
 
@@ -2733,7 +2733,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Starving & Extreme Hunger on Intermittent Fasting? – Dr. Berg
 
@@ -2806,7 +2806,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can I Take Green Supplements Instead of Eating 7-10 Cups of Salad? – Dr. Berg
 
@@ -2851,7 +2851,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Fats or Carbs, What Do You Crave On Keto? – Dr. Berg
 
@@ -2921,7 +2921,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Causes of Eye Problems: High Blood Sugar & Insulin – Dr. Berg
 
@@ -2995,7 +2995,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Causes Acanthosis Nigricans (Darkened Skin Folds)? – Dr. Berg
 
@@ -3044,7 +3044,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Having a Weight Loss Goal Is A Bad Idea – Dr. Berg
 
@@ -3152,7 +3152,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Should I Do Keto & Intermittent Fasting If I've Had an Eating Disorder? – Dr. Berg
 
@@ -3207,7 +3207,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can You Eat Pork Rinds On Keto? – Dr. Berg
 
@@ -3254,7 +3254,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Top 5 Keto Macros Tips – Dr. Berg
 
@@ -3352,7 +3352,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Common Medications (Drugs Side Effects) That Can Make You Gain Weight – Dr. Berg
 
@@ -3410,7 +3410,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Functions & Benefits of Human Growth Hormone (HGH) – Dr.Berg
 
@@ -3456,7 +3456,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Dietary Sugar Prolongs Your Sickness & Illness? – Dr. Berg
 
@@ -3514,7 +3514,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Edible Keto Kale Shake WITHOUT Berries or Fruit – Dr. Berg
 
@@ -3561,7 +3561,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 10 Side Effects of TUMS Antacid (Calcium Carbonate) – Dr. Berg
 
@@ -3622,7 +3622,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Get Rid of Bad Breath on Keto & Intermittent Fasting? – Dr. Berg
 
@@ -3670,7 +3670,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Recipe For Homemade Keto Shake for Weight Loss – Dr. Berg
 
@@ -3729,7 +3729,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Going From Diabetes To Low Blood Sugars On Keto Diet – Dr. Berg
 
@@ -3793,7 +3793,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can't Sleep On Keto & Intermittent Fasting? – Dr. Berg
 
@@ -3874,7 +3874,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The NEW Body Type Book Guide, by Dr. Eric Berg
 
@@ -3892,7 +3892,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 3 Causes Of Dizziness or Vertigo Explained By Dr. Berg
 
@@ -3965,7 +3965,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg's Easy Tips to Stick to Keto & Intermittent Fasting Plan
 
@@ -4013,7 +4013,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why High Blood Sugar Levels Won't Come Down On Keto & Intermittent Fasting? – Dr. Berg
 
@@ -4080,7 +4080,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Hidden Sugar & Carbohydrates In Restaurant Foods Slowing Down Ketosis – Dr. Berg
 
@@ -4141,7 +4141,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg's Bloopers
 
@@ -4182,7 +4182,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Beef Liver Is The Most Nutritious Food – Dr. Berg
 
@@ -4262,7 +4262,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # When Is a High Fat Diet Dangerous? – Dr.Berg
 
@@ -4300,7 +4300,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Dr. Berg Met His Wife Karen: Interesting Story
 
@@ -4375,7 +4375,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What's Really At The Core Cause Of Inflammation? – Dr. Berg
 
@@ -4441,7 +4441,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Ketogenic Diet: Macronutrients Confusion When Doing Keto & Intermittent Fasting Dr.Berg
 
@@ -4515,7 +4515,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Natural Remedies for Asthma – Dr. Berg on Asthma Treatment
 
@@ -4568,7 +4568,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Will Losing Fat on Keto & Intermittent Fasting Cause Liver Detoxification? – Dr. Berg
 
@@ -4586,7 +4586,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Difficulty Eating Enough Fat (75 Percent Total Calories) on Keto and Intermittent Fasting? – Dr.Berg
 
@@ -4629,7 +4629,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Vegetarian Diet or Meat-Eater? [Carnivore Diet vs. Vegan Diet] What's Best for You!
 
@@ -4679,7 +4679,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg Hits ONE MILLION SUBSCRIBERS!!!
 
@@ -4723,7 +4723,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Keto Maintenance on Ketogenic Diet & Intermittent Fasting Plan – Dr. Berg
 
@@ -4821,7 +4821,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dangers Of Using Nail Polish Remover (Acetone) – Dr. Berg
 
@@ -4876,7 +4876,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Do We Need Supplements (Vitamins & Minerals) If We Are Healthy? – Dr. Berg
 
@@ -4946,7 +4946,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Cholesterol Levels Spike on Low Fat & Cholesterol Diet – Dr. Berg
 
@@ -4964,7 +4964,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Not Losing Fat in the Lower Belly Fat on Keto & Intermittent Fasting? - Dr. Berg
 
@@ -5024,7 +5024,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Do Women Need More Carbs on Keto & Intermittent Fasting? – Dr. Berg
 
@@ -5075,7 +5075,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Prevent Blood Clots, Strokes & Heart Attacks? – Tips by Dr. Berg
 
@@ -5093,7 +5093,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dairy Free Keto Diet Tips by Dr. Berg
 
@@ -5146,7 +5146,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Most Dieters ONLY Lose Water Weight – Dr. Berg
 
@@ -5215,7 +5215,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Retaining Fluid Yet Dehydrated? – Dr. Berg
 
@@ -5309,7 +5309,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # STOP Weighing Yourself Everyday!! – Dr.Berg
 
@@ -5327,7 +5327,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg Reveals Some Dirty Secrets of Vitamin Industry - Dr. Berg
 
@@ -5409,7 +5409,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Trace Minerals for Depression – Dr. Berg
 
@@ -5479,7 +5479,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can I Take Probiotics If I Am Lactose Intolerant (or Sensitive to Milk Products)? – Dr. Berg
 
@@ -5529,7 +5529,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Olive Oil is the Best, Soybean Oil is the Worst! – Dr. Berg
 
@@ -5590,7 +5590,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Metabolic Syndrome Is Not "Associated" But CAUSED By High Insulin – Dr. Berg
 
@@ -5650,7 +5650,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Craving Salt After Eating Your Salad or Vegetables? Dr. Berg
 
@@ -5693,7 +5693,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Not Satisfied After Eating On Keto Diet & Intermittent Fasting? – Dr.Berg Answers Why!
 
@@ -5763,7 +5763,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Benefits of Vitamin K2 – The Amazing Calcium Transporter – Dr.Berg
 
@@ -5832,7 +5832,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Importance Of Potassium For Your Healthy Body – Dr. Berg
 
@@ -5890,7 +5890,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Weight Training vs High Intensity Cardio Workout – Dr. Berg's Tips
 
@@ -5953,7 +5953,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Does "Excess Carbs" or "Too Many Carbs" Mean? – Dr. Berg
 
@@ -5996,7 +5996,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Little Bit of Junk Food on Keto or Intermittent Fasting Acceptable? – Dr. Berg
 
@@ -6038,7 +6038,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg's New Book on Video & Audio
 
@@ -6081,7 +6081,7 @@ Omega-3脂肪酸在腦部、心臟和眼部健康中起著關鍵作用。DHA和E
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Causes Low Testosterone & Tips To Increase Testosterone Levels By Dr. Berg
 

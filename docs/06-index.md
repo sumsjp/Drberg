@@ -6,7 +6,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Triggers Human Growth Hormone (HGH)? – Dr. Berg
 
@@ -53,7 +53,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is an Electrolyte & What is Caused by Electrolyte Imbalance by Dr. Berg
 
@@ -104,7 +104,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Red Meat Bad for You? – Dr. Berg
 
@@ -166,7 +166,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Omega-3 and Omega-6 Fatty Acids: Food Sources and Inflammation
 
@@ -240,7 +240,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Biggest Ketosis Mistakes Revealed by Dr. Berg
 
@@ -297,7 +297,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr.Berg Explains Will Vegetables Slow Down Ketosis Adaptation?
 
@@ -354,7 +354,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Lower Back Pain Treatment for Tailbone Injury – Demo By Dr. Berg
 
@@ -420,7 +420,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Relationship between Chromium & Insulin Resistance shown By Dr. Berg
 
@@ -457,7 +457,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 12 Scientific Health Benefits of Wheat Grass Powder by Dr. Berg
 
@@ -520,7 +520,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Lactic Acid Bacteria and Fermented Foods: Benefits – Dr.Berg
 
@@ -566,7 +566,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Addicted to Sweets? Try this...
 
@@ -616,7 +616,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Get Rid of Mucus? – Sinus Remedies by Dr. Berg
 
@@ -689,7 +689,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Hidden Toxins (DDT) in Food Chain & Where They Come From? – Dr.Berg
 
@@ -732,7 +732,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 10 Common Causes of Inflammation in the Body – Dr. Berg
 
@@ -805,7 +805,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can ketosis worsen adrenal glands? – Dr. Berg on Adrenal Fatigue
 
@@ -843,7 +843,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Does Insulin Resistance Cause Weight Gain? – Dr. Berg
 
@@ -909,7 +909,7 @@ The article discusses how insulin resistance leads to weight gain. Insulin, prod
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 10 Reasons Why You Are Not Losing Weight by Dr. Berg
 
@@ -967,7 +967,7 @@ The article discusses how insulin resistance leads to weight gain. Insulin, prod
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Acidosis – Causes, Symptoms & Its Remedies by Dr.Berg
 
@@ -1052,7 +1052,7 @@ The article discusses how insulin resistance leads to weight gain. Insulin, prod
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Does Ketosis Cause Hypothyroidism? – Dr.Berg
 
@@ -1134,7 +1134,7 @@ The article discusses how insulin resistance leads to weight gain. Insulin, prod
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Respiratory Alkalosis – Causes, Symptoms & It's Remedies by Dr.Berg
 
@@ -1193,7 +1193,7 @@ The article discusses how insulin resistance leads to weight gain. Insulin, prod
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Is An Amino Acid? – Dr.Berg
 
@@ -1249,7 +1249,7 @@ The article discusses how insulin resistance leads to weight gain. Insulin, prod
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Get Rid of Trigger Finger Pain – Dr. Berg
 
@@ -1309,7 +1309,7 @@ The article discusses how insulin resistance leads to weight gain. Insulin, prod
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Iron Deficiency – Functions, Symptoms, & Causes Explained By Dr. Berg
 
@@ -1381,7 +1381,7 @@ The article discusses how insulin resistance leads to weight gain. Insulin, prod
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Normal A1C But Why Do I have Insulin Resistance? – Dr. Berg
 
@@ -1469,7 +1469,7 @@ The article discusses how insulin resistance leads to weight gain. Insulin, prod
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Boosts More Growth Hormone? | Dr. Berg
 
@@ -1514,7 +1514,7 @@ The article discusses how insulin resistance leads to weight gain. Insulin, prod
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What's Worse than Sugar? – Dr. Berg
 
@@ -1552,7 +1552,7 @@ The article discusses how insulin resistance leads to weight gain. Insulin, prod
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Best Sources of Calcium Explained by Dr.Berg
 
@@ -1617,7 +1617,7 @@ The article discusses how insulin resistance leads to weight gain. Insulin, prod
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Stretching Exercise for Scoliosis – Treatment by Dr.Berg
 
@@ -1665,7 +1665,7 @@ The article discusses how insulin resistance leads to weight gain. Insulin, prod
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The "Alkalize Your Body and Fight Disease" MYTH! – Dr.Berg
 
@@ -1727,7 +1727,7 @@ Dr. Berg指出，「 alkaline diet防癌」的理論缺乏 scientific evidence�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Urine Color Indicates About Your Body – Dr.Berg
 
@@ -1801,7 +1801,7 @@ Dr. Berg指出，「 alkaline diet防癌」的理論缺乏 scientific evidence�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 7 Foods You Should Never Eat – Dr. Berg
 
@@ -1853,7 +1853,7 @@ Dr. Berg指出，「 alkaline diet防癌」的理論缺乏 scientific evidence�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 7 Benefits of Ketogenic Diet – Dr. Berg
 
@@ -1939,7 +1939,7 @@ Dr. Berg指出，「 alkaline diet防癌」的理論缺乏 scientific evidence�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Parkinson's Disease and What Causes this Disease? - Explained by Dr. Berg
 
@@ -2000,7 +2000,7 @@ Dr. Berg指出，「 alkaline diet防癌」的理論缺乏 scientific evidence�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Gallbladder? – Explained by Dr. Berg
 
@@ -2064,7 +2064,7 @@ Dr. Berg指出，「 alkaline diet防癌」的理論缺乏 scientific evidence�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # No Time To Exercise? TRY THIS! – Dr. Berg
 
@@ -2121,7 +2121,7 @@ Dr. Berg指出，「 alkaline diet防癌」的理論缺乏 scientific evidence�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can the Brain Run On No Carbs?
 
@@ -2170,7 +2170,7 @@ Dr. Berg指出，「 alkaline diet防癌」的理論缺乏 scientific evidence�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Best Remedy for Hormonal Cystic Acne – Dr.Berg
 
@@ -2235,7 +2235,7 @@ Dr. Berg指出，「 alkaline diet防癌」的理論缺乏 scientific evidence�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Fix Hunchback With The Correct Stretch – Dr. Berg
 
@@ -2294,7 +2294,7 @@ Dr. Berg指出，「 alkaline diet防癌」的理論缺乏 scientific evidence�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Get Full Exercise Benefits With This Practice...
 
@@ -2341,7 +2341,7 @@ Dr. Berg指出，「 alkaline diet防癌」的理論缺乏 scientific evidence�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Low Calorie Diets & Intermittent Fasting Affect Metabolism – Dr.Berg
 
@@ -2413,7 +2413,7 @@ Dr. Berg指出，「 alkaline diet防癌」的理論缺乏 scientific evidence�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Regrow Hair (the Two Causes of Hair Loss) – Dr. Berg
 
@@ -2510,7 +2510,7 @@ Dr. Berg指出，「 alkaline diet防癌」的理論缺乏 scientific evidence�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Leptin? Explained By Dr.Berg
 
@@ -2568,7 +2568,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Cruciferous Vegetables Detoxify (remove poisons) - Dr. Berg
 
@@ -2639,7 +2639,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Nutritional Deficiency Symptoms From Eyes – Dr. Berg
 
@@ -2722,7 +2722,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Instant Neck Pain & Stiffness Relief (Do-It-Yourself) – Dr.Berg
 
@@ -2765,7 +2765,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Lotion Never Fixes Cracked Heels and Dry Feet – Dr.Berg
 
@@ -2838,7 +2838,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Understanding Types of Collagen Explained By Dr. Berg
 
@@ -2916,7 +2916,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Get Rid of Low Back Pain Fast? – Dr.Berg
 
@@ -2960,7 +2960,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Root Causes of Sacroiliac Joint Pain – SI Joint Pain Relief – Dr.Berg
 
@@ -3032,7 +3032,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Foods for Fluid Retention in the Feet and Ankles – Dr.Berg
 
@@ -3098,7 +3098,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can I Eat These On A Keto Diet Plan: Beets, Carrots, Peas & Tomatoes? – Dr. Berg
 
@@ -3170,7 +3170,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Vegan Peanut Dressing For a Kale Salad (Keto-Friendly) – Dr. Berg
 
@@ -3212,7 +3212,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Lose Back Fat – Dr. Berg
 
@@ -3285,7 +3285,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Wheatgrass Juice Powder? Benefits Explained By Dr. Berg
 
@@ -3336,7 +3336,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Get Rid of Puffy Eyes for Good with Dr. Berg's Proven Techniques
 
@@ -3433,7 +3433,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Keto Waffles Recipe with Dr.Berg & Karen
 
@@ -3484,7 +3484,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can Trace Minerals Inactivate Viruses? – Dr. Berg
 
@@ -3545,7 +3545,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Healthy Pizza Recipe – How to Make a Keto-Friendly Pizza (PART 2) – Dr.Berg
 
@@ -3611,7 +3611,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Pre diabetes Symptoms Explained By Dr.Berg
 
@@ -3661,7 +3661,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Intestinal Obstruction & Vitamin Deficiencies – Dr. Berg
 
@@ -3726,7 +3726,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Time to Eat to Lose the Most Weight Possible – Dr.Berg
 
@@ -3802,7 +3802,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Deeper Cause of an Eye Stye, Boil or Abscess – Eye Infection Stye – Dr.Berg
 
@@ -3864,7 +3864,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Coronary Heart Disease & Vitamin E Explained By Dr. Berg
 
@@ -3914,7 +3914,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Amazing Neutrophil Function – Dr.Berg
 
@@ -3980,7 +3980,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg Gets a Chiropractic Adjustment
 
@@ -4032,7 +4032,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Lose Weight Consistently – Effective Strategies Explained by Dr. Berg
 
@@ -4097,7 +4097,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Increase Testosterone in Men – Dr.Berg on Boosting Testosterone
 
@@ -4170,7 +4170,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Soft and Chewy Ginger Cookies (Keto Friendly) – Dr.Berg
 
@@ -4213,7 +4213,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Hypoglycemia and How to Fix it Naturally? – Dr.Berg
 
@@ -4263,7 +4263,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Best Chocolate Chip Cookies Recipe – Keto Friendly – Dr.Berg
 
@@ -4306,7 +4306,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Side Effects of Prednisone – Dr.Berg
 
@@ -4362,7 +4362,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Prevent Cataracts With Natural Remedies – Dr. Berg
 
@@ -4414,7 +4414,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Two Simple Tests for Adrenal Fatigue – Dr.Berg
 
@@ -4465,7 +4465,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Keto Chocolate Mousse Pudding Recipe – Dr. Berg
 
@@ -4525,7 +4525,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Doctor Care – Is Your Doctor Looking Beyond Symptoms? – Dr.Berg
 
@@ -4594,7 +4594,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Not Losing Weight? The #1 Reason Why People Fail – Dr.Berg
 
@@ -4663,7 +4663,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Get Rid of Shingles Pain Fast – Dr.Berg
 
@@ -4731,7 +4731,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Estrogen Dominance After Menopause? – Dr. Berg
 
@@ -4807,7 +4807,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Time To Exercise – Dr.Berg
 
@@ -4863,7 +4863,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Understanding Restless Legs Syndrome and Causes – Dr.Berg
 
@@ -4929,7 +4929,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Easy Candied Pecans Recipe – Keto Friendly – Dr.Berg
 
@@ -4970,7 +4970,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Problems with Low Cortisol Levels/Adrenal Insufficiency - Dr.Berg
 
@@ -5024,7 +5024,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Keto Short Bread Cookies Recipe – Dr. Berg
 
@@ -5063,7 +5063,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Iodine Facts and Deficiency Causes – Dr. Berg
 
@@ -5149,7 +5149,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Peanut Butter Cookies: Keto Friendly
 
@@ -5198,7 +5198,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Fibromyalgia – Surprising Finding Explained by Dr. Berg
 
@@ -5277,7 +5277,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Easy Spiced Nut Mix Recipe: Keto Friendly
 
@@ -5334,7 +5334,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Keto Friendly Maple Syrup
 
@@ -5409,7 +5409,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The 2 Most Ignored Minerals In Diabetes and Insulin Resistance – Dr.Berg
 
@@ -5475,7 +5475,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Eric Berg's YouTube Channel Welcome
 
@@ -5525,7 +5525,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Keto Zucchini Goat Cheese Rolls Recipe – Dr.Berg
 
@@ -5573,7 +5573,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Causes a Goiter? Causes of Thyroid Enlargement – Dr.Berg
 
@@ -5630,7 +5630,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Will High Carb Vegetables Stop Ketosis? – Dr.Berg
 
@@ -5682,7 +5682,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Are You Feeling Tired After Sleeping? – Dr. Berg
 
@@ -5732,7 +5732,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Say Goodbye to Unhealthy Bread – Dr. Berg's Healthiest Bread in the World
 
@@ -5790,7 +5790,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Goat Cheese Jalapeno Poppers Recipe – Dr. Berg
 
@@ -5829,7 +5829,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Symptoms and Causes of Vitamin D Deficiency Explained by Dr.Berg
 
@@ -5889,7 +5889,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Jalapeño Cheese Chips
 
@@ -5928,7 +5928,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Cause of Night Blindness – Vitamin A Deficiency – Dr.Berg
 
@@ -5983,7 +5983,7 @@ Leptin抵抗是肥胖管理中的重要障礙，但通過降低胰島素水平�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Connection Between Cortisol (Stress) and Insulin (Sugar) – Dr. Berg
 

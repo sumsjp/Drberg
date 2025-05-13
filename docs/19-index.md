@@ -6,7 +6,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is It a Vitamin D3 OR Calcium Deficiency? – Dr.Berg
 
@@ -90,7 +90,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Much Vitamin D3 Should I Take? Is 10,000 IUs of Vitamin D3 Toxic? – Dr.Berg
 
@@ -108,7 +108,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Balsamic Vinegar VS Apple Cider Vinegar on Keto Diet – Dr.Berg
 
@@ -159,7 +159,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Keto Side Effects Tell Deeper Story - Dr. Berg
 
@@ -213,7 +213,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Subclinical Pellagra (Vitamin B3 Deficiency) – Dr.Berg
 
@@ -271,7 +271,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Benefits of Eating Butter on Keto Diet – Dr.Berg
 
@@ -333,7 +333,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Germs That Will Not Die! – Dr.Berg
 
@@ -398,7 +398,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Food Allergies VS Digestion Issues on Keto Diet – Dr.Berg
 
@@ -448,7 +448,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Isn't 70 Percent Fat on Keto Dangerous? – Dr.Berg
 
@@ -505,7 +505,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Stop Feeding Your Pet Mice Keto (Ketogenic Diet) – Dr. Berg
 
@@ -544,7 +544,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Calcium Food Sources If You Are Dairy Free On Keto – Dr.Berg
 
@@ -597,7 +597,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Breast Milk and Vitamin D Deficiencies (Subclinical Rickets) – Dr. Berg (MUST WATCH!!)
 
@@ -644,7 +644,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Intermittent Fasting, Exercise and Stored Sugar – Dr. Berg
 
@@ -710,7 +710,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Hypoglycemia The Opposite of Diabetes? – Dr. Berg On Hypoglycemia vs Hyperglycemia
 
@@ -769,7 +769,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Keto Is Not Working For You? – Dr. Berg
 
@@ -840,7 +840,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Brain Repair & BDNF Increase with Intermittent Fasting – Dr. Berg
 
@@ -924,7 +924,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 15 Reasons Why You Are Not Losing Weight On A Low Carb Keto Diet Plan – Dr. Berg
 
@@ -1031,7 +1031,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Doing Ketogenic Diet And Intermittent Fasting But Still Craving? Keto Cravings – Dr. Berg
 
@@ -1098,7 +1098,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 9 Bad Keto Food Ingredients to Avoid – Non-Keto Friendly Foods – Dr. Berg
 
@@ -1149,7 +1149,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Maintain Weight After Reaching Ketogenic Diet Goal – Keto Weight Maintenance – Dr.Berg
 
@@ -1196,7 +1196,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Keto Snacks are Very Bad for Your Keto Diet Plan - Keto Foods – Dr. Berg
 
@@ -1263,7 +1263,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Magnesium and Calcium (Part 3): Hypercalcemia Causes & How To Get Rid Of Excess Calcium? – Dr.Berg
 
@@ -1321,7 +1321,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Magnesium and Calcium (Part 2): Causes Of Hypercalcemia & Hypomagnesemia – Dr.Berg
 
@@ -1410,7 +1410,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Magnesium and Calcium (Part 1): Hypomagnesemia, Function Of Magnesium & Its Deficiency – Dr.Berg
 
@@ -1481,7 +1481,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Rhomboid Spasm & Pain Relief Treatment By Dr.Berg
 
@@ -1553,7 +1553,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Fasting And Eating Cycle – The Connection Between Fasting And Growth Hormone – Dr.Berg
 
@@ -1601,7 +1601,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Sodium-Potassium Ratio Should Be 4:1 – Dr. Berg On Potassium Deficiency Symptoms
 
@@ -1672,7 +1672,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Potential Benefits And Side Effects Of Intermittent Fasting – Dr. Berg
 
@@ -1690,7 +1690,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg's Keto Slogan Contest
 
@@ -1730,7 +1730,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Eye Twitching Causes : What Causes Left Eyelid Twitching – Dr.Berg on Tetany
 
@@ -1784,7 +1784,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Symptoms of Potassium Deficiency: High Potassium Diet Protects Kidneys & Prevent Strokes – Dr. Berg
 
@@ -1858,7 +1858,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Reasons Why You Have Leg Cramps At Night (Nocturnal Leg Cramps)? – Dr.Berg
 
@@ -1916,7 +1916,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Should You Eat Dairy (Calcium) With Kidney Stones? Food For Kidney Stones – Dr. Berg
 
@@ -1980,7 +1980,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Do These 2 Things Now For Premature Graying Hair Or Losing Hair Color – Dr.Berg
 
@@ -2028,7 +2028,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is There A Relation Between The Epstein Barr Virus And Fatigue? – Dr. Berg
 
@@ -2069,7 +2069,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr.Berg's Interview With Biggest Loser Contestant, Rob Kidney – Dr.Berg
 
@@ -2117,7 +2117,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Check Nutrient Deficiencies on OMAD (One Meal a Day) and Keto? – Dr.Berg
 
@@ -2211,7 +2211,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Quick Tips on Keto Diet and Intermittent Fasting For Better Digestion in 1 Minute – Dr.Berg
 
@@ -2255,7 +2255,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr.Berg Interviews On EMFs, Fasting And Other Stuff With Dr. Mercola – Dr.Berg Fasting
 
@@ -2314,7 +2314,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Different Ways of Ketone Testing with Urine, Blood or Breath – Dr. Berg Types Of Ketones
 
@@ -2400,7 +2400,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Gallbladder Removal Diet And The Gallbladder Problems – Dr.Berg
 
@@ -2453,7 +2453,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # List of Vegetables/Foods High In Lectins & Cause Of Bloating – Dr.Berg
 
@@ -2520,7 +2520,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Do Nuts Irritate Your Gallbladder? Lectins In Food & Gallbladder Problems – Dr. Berg
 
@@ -2573,7 +2573,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Causes Gallstones & Is Gallbladder Cleanse Safe Or Not? – Dr. Berg
 
@@ -2640,7 +2640,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Fennel Seeds Benefits for Stomach Bloating and Cramping – Bloating Stomach Remedies – Dr. Berg
 
@@ -2708,7 +2708,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Ketosis Diet To Lowering Carbs And Insulin - Carbs On Keto Diet – Dr.Berg
 
@@ -2784,7 +2784,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Difference Between Zero Carb Versus Low Carb On Keto Diet – Dr.Berg
 
@@ -2844,7 +2844,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Will Fiber Knock Me Out of Ketosis? Fiber On Keto Diet By Dr. Berg
 
@@ -2900,7 +2900,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Lower Your Ammonia From Liver Cirrhosis - Ammonia Toxicity In Liver – Dr. Berg
 
@@ -2955,7 +2955,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr.Berg's Reaction on Jillian Michaels Keto Diet Confusion!
 
@@ -3031,7 +3031,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Fast Longer with Dr. Berg's Keto Fasting Tea Commercial - Keto Tea – Dr. Berg
 
@@ -3071,7 +3071,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 9 Apple Cider Vinegar Health Benefits – Dr. Berg on ACV Benefits
 
@@ -3122,7 +3122,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Fast Food Can you Eat on Keto? – Dr.Berg
 
@@ -3140,7 +3140,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Still Bloated Even with Apple Cider Vinegar? – Dr. Berg
 
@@ -3209,7 +3209,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is the Ketogenic Diet?
 
@@ -3272,7 +3272,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Is Hepatitis C? – Dr.Berg
 
@@ -3331,7 +3331,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Low Carb Diet vs Keto Diet - The Difference Explained by Dr. Berg
 
@@ -3387,7 +3387,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Best Foods For Benign Prostatic Hyperplasia (BPH) – Dr.Berg
 
@@ -3443,7 +3443,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can You Eat Dairy Products on Keto Diet? – Dr. Berg
 
@@ -3536,7 +3536,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg and Wounded Warrior Tim Payne on Keto Diet
 
@@ -3609,7 +3609,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Get Rid Of Hangover Instantly? – Dr.Berg
 
@@ -3657,7 +3657,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Is Keto BAD? – Dr. Berg
 
@@ -3720,7 +3720,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Get Rid Of Phantom Pain Fast? – Dr.Berg
 
@@ -3801,7 +3801,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Coffee Bad For Liver? – Dr. Berg
 
@@ -3861,7 +3861,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Stop Worrying About LDL & High Cholesterol on Keto Diet – Dr. Berg
 
@@ -3943,7 +3943,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Liver Damage From Alcohol Is NOT Coming From Alcohol – Dr. Berg
 
@@ -4007,7 +4007,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg / Karen Live Q&A, Friday (Jan. 4) on the Ketogenic Diet and Intermittent Fasting
 
@@ -4049,7 +4049,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Natural Liver Cleanser: Apple Cider Vinegar and Lemon Water
 
@@ -4113,7 +4113,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Cholesterol Basics 101 by Dave Feldman & Dr. Berg
 
@@ -4183,7 +4183,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Does Skipping Breakfast Cause Diabetes & Weight Gain? – Dr. Berg
 
@@ -4233,7 +4233,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Low Back Pain Coming From Crossing Your Legs? – Dr. Berg on Back Pain Remedies
 
@@ -4298,7 +4298,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # A Surprising Way To Cleanse Fatty Liver – Dr. Berg On Liver Detoxification
 
@@ -4372,7 +4372,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Sugar Alcohols Making You Fat? – Dr. Berg
 
@@ -4411,7 +4411,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # #1 Reason Of Not Losing Weight on the Ketogenic Diet – Dr. Berg
 
@@ -4452,7 +4452,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Happens If You Stop Eating Sugar for 14 Days – Dr. Berg On Quitting Sugar Cravings
 
@@ -4531,7 +4531,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Stop A Cold At The First Sign – Dr.Berg On Cold Symptoms & Intermittent Fasting
 
@@ -4600,7 +4600,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can Too Much Protein Make You Fat? – Dr.Berg
 
@@ -4644,7 +4644,7 @@ Twitching通常是由低血鈣或代謝性鹼中毒引起，這些問題最終�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Most Powerful Candida Infection (Yeast Infection) Killer – Dr. Berg
 
@@ -4703,7 +4703,7 @@ Candida infections是一種常見但可能嚴重影響健康的問題。大蒜�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Your Feet Are Warning You About Your Liver Problems - Dr. Berg Explains
 
@@ -4784,7 +4784,7 @@ Candida infections是一種常見但可能嚴重影響健康的問題。大蒜�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 11 Warning Signs You Never Want to Ignore – Dr.Berg
 
@@ -4844,7 +4844,7 @@ Insights from Long-Term Clinical Observation of Patient Behavior Patterns
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Unique Benefits of Propolis (Bee Glue) – Dr.Berg
 
@@ -4893,7 +4893,7 @@ Insights from Long-Term Clinical Observation of Patient Behavior Patterns
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Detox & Flush Your Kidneys? – Dr.Berg On Kidney Cleanse
 
@@ -4974,7 +4974,7 @@ Insights from Long-Term Clinical Observation of Patient Behavior Patterns
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Sticky Tarry Black Stool on Keto Diet? Here's Why – Bowel Movement & Steatorrhea – Dr.Berg
 
@@ -5042,7 +5042,7 @@ Insights from Long-Term Clinical Observation of Patient Behavior Patterns
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Your Brain Shrinking? – Dr.Berg On Brain Health & Brain Atrophy
 
@@ -5115,7 +5115,7 @@ Insights from Long-Term Clinical Observation of Patient Behavior Patterns
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Get Teenager To Eat Healthy – Dr.Berg On Teen Nutrition
 
@@ -5173,7 +5173,7 @@ Insights from Long-Term Clinical Observation of Patient Behavior Patterns
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Does Apple Cider Vinegar Burn Your Stomach? – Dr.Berg
 
@@ -5239,7 +5239,7 @@ Insights from Long-Term Clinical Observation of Patient Behavior Patterns
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Are You Dehydrated? | Simple Test For Dehydration by Dr.Berg
 
@@ -5315,7 +5315,7 @@ Insights from Long-Term Clinical Observation of Patient Behavior Patterns
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dental Plaque Removal Using Only 3 Ingredients: Tea Tree Oil, Xylitol, and Coconut Oil – Dr.Berg
 
@@ -5356,7 +5356,7 @@ Insights from Long-Term Clinical Observation of Patient Behavior Patterns
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Green Blood Therapy – Benefits of Wheatgrass Juice Powder – Dr. Berg
 
@@ -5420,7 +5420,7 @@ Insights from Long-Term Clinical Observation of Patient Behavior Patterns
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Most Caffeinated Beverage In The World!! – Dr.Berg
 
@@ -5469,7 +5469,7 @@ Insights from Long-Term Clinical Observation of Patient Behavior Patterns
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Live Longer Without Eating? – Weird But True Facts by Dr.Berg
 
@@ -5541,7 +5541,7 @@ Insights from Long-Term Clinical Observation of Patient Behavior Patterns
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Do I Have Blood in the Urine After Exercise? – Dr.Berg
 
@@ -5622,7 +5622,7 @@ Insights from Long-Term Clinical Observation of Patient Behavior Patterns
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Stents May be the Patch, But Whats the Fix? – Dr.Berg
 
@@ -5675,7 +5675,7 @@ Insights from Long-Term Clinical Observation of Patient Behavior Patterns
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Do Intermittent Fasting? – Dr. Berg's Guide [PDF]
 
@@ -5760,7 +5760,7 @@ INTERMITTENT FASTING 是一種科學支持的健康管理策略，通過規律�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Are You Addicted To Chocolate? – Dr.Berg
 
@@ -5825,7 +5825,7 @@ INTERMITTENT FASTING 是一種科學支持的健康管理策略，通過規律�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Ketogenic Diet Food List: Cheat Sheet (PDF) by Dr.Berg
 
@@ -5896,7 +5896,7 @@ INTERMITTENT FASTING 是一種科學支持的健康管理策略，通過規律�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr.Berg and Dr. Andreas Eenfeldt Discuss Keto In Sweden And..
 
@@ -5964,7 +5964,7 @@ INTERMITTENT FASTING 是一種科學支持的健康管理策略，通過規律�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Passing a Kidney Stone? Do This Fast! – Dr.Berg on Removing Kidney Stones
 
@@ -6014,7 +6014,7 @@ INTERMITTENT FASTING 是一種科學支持的健康管理策略，通過規律�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Do Not Eat Peanut Butter Again, Until You Watch This!!
 
@@ -6085,7 +6085,7 @@ INTERMITTENT FASTING 是一種科學支持的健康管理策略，通過規律�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Stinging Nettle Root: Powerful Anti-inflammatory - Dr. Berg
 

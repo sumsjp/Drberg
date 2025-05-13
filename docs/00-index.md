@@ -6,7 +6,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Fast Weight Loss Success Story
 
@@ -49,7 +49,7 @@ VI. 結論
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Crohns Disease Success
 
@@ -104,7 +104,7 @@ VI. 結論
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg’s Healthy Diet Success Story: Potassium Rich Foods
 
@@ -147,7 +147,7 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Stabilizing Exercises  for Low Back & Pelvis
 
@@ -165,7 +165,7 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg's Office Quick Tour
 
@@ -231,7 +231,7 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What to do for a Tailbone Injury - for Low Back Pain
 
@@ -286,7 +286,7 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Fat Burning Candy Bar
 
@@ -335,7 +335,7 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Enhanced Waters are Really Sugar Water
 
@@ -397,7 +397,7 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Do Not Eat Eggs, Unless You Watch This
 
@@ -442,7 +442,7 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Try This Weight Loss Shake
 
@@ -488,7 +488,7 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The 2 Types of Exercise for Belly Fat
 
@@ -549,7 +549,7 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # No More Problems with Sleeping
 
@@ -597,7 +597,7 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Kale Smoothies Recipes
 
@@ -661,7 +661,7 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Not to Become a Procrastinator
 
@@ -726,7 +726,7 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Getting the Right Diet for Your Body Type
 
@@ -771,7 +771,7 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # A Great Tool for Stress Relief
 
@@ -824,7 +824,7 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best and Worst Type of Calcium
 
@@ -907,7 +907,7 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Cheryl Jackson Radio Interview on 104.1 Talking about the Adrenal
 
@@ -977,7 +977,7 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best and Worst Vitamin C
 
@@ -1050,7 +1050,7 @@ Dr. Burke diet提供了一種更為科學和人性化的體重管理方法，特
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Make Your Own Weight Loss Drink
 
@@ -1095,7 +1095,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Stop Cravings for Sugar
 
@@ -1152,7 +1152,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Reverse Sit-ups for Belly Fat
 
@@ -1207,7 +1207,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Ultimate Exercise for Posture
 
@@ -1271,7 +1271,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Weight Loss Meal Replacement Shake Ingredients
 
@@ -1329,7 +1329,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why am I Bloated?
 
@@ -1399,7 +1399,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Foods that Burn Fat
 
@@ -1478,7 +1478,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Drink More Water Myth
 
@@ -1546,7 +1546,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Successes from The 7 Principles of Fat Burning
 
@@ -1604,7 +1604,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # A Great Diet Success
 
@@ -1650,7 +1650,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Healthiest Diet Explained By Dr. Berg
 
@@ -1702,7 +1702,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Get Rid of Cravings at Night
 
@@ -1747,7 +1747,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The HCG Diet - Reviews
 
@@ -1794,7 +1794,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Improved Breathing, Better Sleep and More Energy
 
@@ -1850,7 +1850,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Overcoming Temptation and Help with Weight Loss!
 
@@ -1917,7 +1917,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Rid Stretch Marks
 
@@ -1989,7 +1989,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Diet Plan Success
 
@@ -2059,7 +2059,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The 600 pound guy
 
@@ -2101,7 +2101,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg's follow up to his shoulder fracture
 
@@ -2147,7 +2147,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg Explains His Pain After Surgery
 
@@ -2198,7 +2198,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What are Phytonutrients?
 
@@ -2263,7 +2263,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Understanding Body Types
 
@@ -2281,7 +2281,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What are Carbohydrates?
 
@@ -2343,7 +2343,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Sugar Effects Your Body
 
@@ -2396,7 +2396,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Importance of Sleep and Weight Loss
 
@@ -2458,7 +2458,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg Discusses Liver Cleansing Food on News Channel 8 Sports Talk Dr. Eric Berg 2
 
@@ -2540,7 +2540,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # A Better Way to Track Weight Loss
 
@@ -2588,7 +2588,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Eric Berg, Gets Success with Weight Loss
 
@@ -2629,7 +2629,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr  Eric Berg, Seminar testimonial
 
@@ -2673,7 +2673,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Eric Berg, Seminar Success with Losing Weight
 
@@ -2712,7 +2712,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr  Eric Berg, Seminar testimonial
 
@@ -2747,7 +2747,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # A Great Weight Loss Success
 
@@ -2792,7 +2792,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Register for Dr. Berg's Seminar
 
@@ -2846,7 +2846,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr  Eric Berg, Seminar testimonial
 
@@ -2880,7 +2880,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr Berg's Patient Speak About Their Success
 
@@ -2928,7 +2928,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Using Acupressure for Headaches
 
@@ -2987,7 +2987,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Stretches for Back Pain
 
@@ -3035,7 +3035,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Interesting Success Story
 
@@ -3078,7 +3078,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Anxiety Relief Success
 
@@ -3122,7 +3122,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best and Worst Weight Loss Diets
 
@@ -3180,7 +3180,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 90 Year Old - Amazing Story
 
@@ -3243,7 +3243,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Eric Berg, Seminar testimonial
 
@@ -3279,7 +3279,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg on Sport's Talk
 
@@ -3297,7 +3297,7 @@ cranberry shake 獲視為一款既健康又方便的飲品，成分天然且富�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Hidden Source Belly Fat: MSG Monosodium Glutamate
 
@@ -3350,7 +3350,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg Grows Kale in His Basement (Part 2)
 
@@ -3427,7 +3427,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg Grows Cruciferous Vegetables in his Basement (Part 1)
 
@@ -3484,7 +3484,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Fat Burning Exercise
 
@@ -3537,7 +3537,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg's Body Types
 
@@ -3611,7 +3611,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr Eric Berg's Review: After 2 Adrenal Acupressure Treatments
 
@@ -3687,7 +3687,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Get Rid of Cravings at Night
 
@@ -3755,7 +3755,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Adrenal Burnout
 
@@ -3808,7 +3808,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Tip for Reducing Stress Hormones
 
@@ -3849,7 +3849,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Cortisol, The Good, The Bad & The Ugly
 
@@ -3917,7 +3917,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Thyroid Body Type - Dr. Berg
 
@@ -3972,7 +3972,7 @@ MSG 作為一種常用的味覺增強劑，雖然能提升食物風味，但其�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Sleep, Cortisol, & Belly Fat
 
@@ -4047,7 +4047,7 @@ Dr. Berg
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Trigger Your Fat Burning Hormones
 
@@ -4086,7 +4086,7 @@ Dr. Berg
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Vitamin D Adrenals Belly Fat
 
@@ -4136,7 +4136,7 @@ Dr. Berg
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg Talks about Body Types on News 9
 
@@ -4194,7 +4194,7 @@ Dr. Berg
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Burn Fat I Dr. Berg on Fox and Friends I Talks About Body Types
 
@@ -4257,7 +4257,7 @@ Dr. Berg
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Success Story with Belly Fat Loss - Lost over 100 lbs
 
@@ -4300,7 +4300,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Fast Healthy Weight Loss - Patients Speak Their Success!
 
@@ -4350,7 +4350,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Rid Craving
 
@@ -4419,7 +4419,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Body Type Video
 
@@ -4477,7 +4477,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Eric Berg's Review: Patient Speak About Her Success
 
@@ -4535,7 +4535,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr Eric Berg's Review: No More Problems with Sleeping
 
@@ -4633,7 +4633,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg's Example of Acupressure for Weight Loss
 
@@ -4673,7 +4673,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Eric Berg Review: Gaining Weight after Smoking
 
@@ -4728,7 +4728,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg in the Media
 
@@ -4746,7 +4746,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg Speaks at the Federal Communication Commission
 
@@ -4822,7 +4822,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Body Shape Seminar (Part 3)
 
@@ -4897,7 +4897,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Body Shape Seminar (Part 2)
 
@@ -4969,7 +4969,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Body Shape Seminar (Part 1)
 
@@ -5036,7 +5036,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr.Eric Berg @ News Channel 8 (Behind The Scenes)
 
@@ -5091,7 +5091,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg Talks about Healthy Weight Loss on News Channel 8
 
@@ -5141,7 +5141,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg has an Albino Deer in His Backyard
 
@@ -5159,7 +5159,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Understanding the Best Nutrients for Weight Loss
 
@@ -5205,7 +5205,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Vitamins and Nutrients for Weight Loss
 
@@ -5264,7 +5264,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Adrenal, Stress and Your Sleep
 
@@ -5334,7 +5334,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Exercise
 
@@ -5411,7 +5411,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Body Types
 
@@ -5479,7 +5479,7 @@ Susan の成功故事は、健康的なライフスタイルへの転換がい�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg Works on Duane Clemons, Former NFL Player
 

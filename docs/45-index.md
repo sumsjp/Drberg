@@ -6,7 +6,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Increase Blood Oxygen Levels: Breathing Hack
 
@@ -68,7 +68,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Remedy for Gout and Uric Acid - Straight From the Garden
 
@@ -129,7 +129,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The ONE FOOD That Shrinks an Enlarged Prostate
 
@@ -208,7 +208,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The AMAZING Benefits of Iodine - Dr. Berg
 
@@ -276,7 +276,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Peripheral NEUROPATHY (Root Cause and Best Remedy) — Dr. Berg
 
@@ -325,7 +325,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Zinc Carnosine REALLY Fixes Ulcers and Gastritis
 
@@ -392,7 +392,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The REAL Cause of Tremors (Alternative Solution)
 
@@ -477,7 +477,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 7 Signs of a Leaky Gut — Dr. Berg
 
@@ -537,7 +537,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Worst Protein in the World
 
@@ -610,7 +610,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Your Food LIES to You!!
 
@@ -660,7 +660,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Warning: Missing Mineral Causing Arthritis
 
@@ -736,7 +736,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Worst Food for Your Teeth Is NOT SUGAR
 
@@ -797,7 +797,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Remedy for ADD/ADHD (Attention Deficit Hyperactivity Disorder)
 
@@ -868,7 +868,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Take One Teaspoon at Night to Rid Sinus Congestion
 
@@ -932,7 +932,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Are Expensive Eggs Really Worth It?
 
@@ -1014,7 +1014,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Preventing Dental Plaque Formation Forever: Simple Solution
 
@@ -1060,7 +1060,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Big REGRET I Had in Practice
 
@@ -1140,7 +1140,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Cause of Your Sinus Stuffiness (Congestion) Is Hiding in Your Pillow
 
@@ -1183,7 +1183,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can BERBERINE Be a “Natural Ozempic” for Weight Loss?
 
@@ -1247,7 +1247,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Stop Addictions (Nicotine, Alcohol, & Drugs)
 
@@ -1331,7 +1331,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The MOST Overlooked Cause of Hypertension (High Blood Pressure)
 
@@ -1414,7 +1414,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The #1 Vitamin Deficiency Behind Migraines (MUST KNOW)
 
@@ -1474,7 +1474,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Fascinating Insights on Hashimoto's (Hypothyroidism)
 
@@ -1558,7 +1558,7 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Fix Mitral Valve Prolapse with This One Mineral
 
@@ -1605,7 +1605,7 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Tonsil Stones: Removing the Deeper Cause
 
@@ -1683,7 +1683,7 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # You'll Never Guess What's Really in Plant-Based Meat
 
@@ -1769,7 +1769,7 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The DARK SIDE of Ashwagandha
 
@@ -1844,7 +1844,7 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # #1 Selling Drug in the World: 27 Billion Dollars
 
@@ -1906,7 +1906,7 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg's YouTube Studio Makeover (BEHIND THE SCENES)
 
@@ -1958,7 +1958,7 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The REAL Reason You Should Drink Coffee
 
@@ -2044,7 +2044,7 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Your URINE COLOR Says about Your Health
 
@@ -2122,7 +2122,7 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Best Nutrients to Remove Plaque from Arteries
 
@@ -2207,7 +2207,7 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # #1 Backyard Weed to Fix a Fatty Liver
 
@@ -2284,7 +2284,7 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Lyme Disease Blocks Vitamin D Absorption by 8000%
 
@@ -2329,7 +2329,7 @@ Hashimoto 病變是一種自身免疫性疾病，主要影響人體的thyroid gl
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Bill Gates' Apeel Really Safe?
 
@@ -2397,7 +2397,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Are There No Fat People in Colorado
 
@@ -2420,7 +2420,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # He Should Have Been Dead 6 Years Ago - STAGE 4 CANCER
 
@@ -2509,7 +2509,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Intermittent Fasting Doubles Your Risk of Dying from a Heart Attack
 
@@ -2550,7 +2550,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # #1 Vitamin Deficiency in ALL Autoimmune Conditions
 
@@ -2602,7 +2602,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Happens If You Drink Celery Juice for 7 Days
 
@@ -2654,7 +2654,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The # 1 Dementia Remedy (GAME CHANGER)
 
@@ -2718,7 +2718,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # When NOT to Take Magnesium for Sleep and Anxiety
 
@@ -2794,7 +2794,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The #1 Collagen Tip for Amazing Hair, Nails, & Skin
 
@@ -2860,7 +2860,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 16 Signs That the Body Needs More Nutrients: Fixing the Deeper Cause
 
@@ -2921,7 +2921,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Build up Your Glutathione without Supplements
 
@@ -2972,7 +2972,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 7 Ways to Burn More Fat While Sleeping
 
@@ -3048,7 +3048,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg Speaking at the Hack Your Health Event (MUST ATTEND)
 
@@ -3114,7 +3114,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # First Sign of a Magnesium Deficiency NEVER to Ignore
 
@@ -3169,7 +3169,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Hidden Source of Heart Attacks/Strokes: NO ONE TOLD YOU...YET
 
@@ -3236,7 +3236,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Gallbladder Removal (Surgery) - Vital Things to Know: MUST WATCH
 
@@ -3298,7 +3298,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Therapeutic Benefits of CASTOR OIL (Skin/Face/Hair)
 
@@ -3341,7 +3341,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The #1 Nutrient Deficiency in High Blood Pressure (Hypertension)
 
@@ -3403,7 +3403,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The #1 Best Vitamin for Arthritis (NOT VITAMIN D)
 
@@ -3466,7 +3466,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Do Not Eat Peanut Butter Until You Watch This!
 
@@ -3533,7 +3533,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Fastest Way To Rid HEARTBURN, GERD and ACID REFLUX
 
@@ -3624,7 +3624,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Avoiding the Sun is Just as Dangerous as Cigarettes?
 
@@ -3663,7 +3663,7 @@ Bill Gates Appeal 的安全性存在多項疑問，主要問題在於成分不�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Surprising Health Hacks You Won't Believe Actually Work
 
@@ -3732,7 +3732,7 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Say Goodbye To Belly Fat: 7 Must-have Tips!
 
@@ -3794,7 +3794,7 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Lose 1 Pound of Fat per Day (20,000 Calories in 5 Days)
 
@@ -3869,7 +3869,7 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Avoid These Big Mistakes When Drinking Water
 
@@ -3950,7 +3950,7 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The 15 Causes of ITCHING You've Never Heard About
 
@@ -4024,7 +4024,7 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # One Cup A Day To Beat Depression - The Ultimate Remedy
 
@@ -4114,7 +4114,7 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Early Signs of Colon Cancer You DON'T Want to Ignore
 
@@ -4204,7 +4204,7 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Warning: These 6 Foods Could Be Giving You Cancer
 
@@ -4249,7 +4249,7 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Maintaining Weight Loss After Ozempic: Tips And Tricks
 
@@ -4324,7 +4324,7 @@ Hormesis 是一種 biological 现象，指生物體通過暴露於低劑量的�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What I Would Do If I Had ALS (Amyotrophic Lateral Sclerosis): Lou Gehrig’s Disease – Dr. Berg
 
@@ -4375,7 +4375,7 @@ ALS的治療需 комплексний підхід，重點放在恢復抗氧�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg Goes Carnivore for 2 Weeks
 
@@ -4475,7 +4475,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Get Rid of Blackheads and Sebaceous Filaments - Dr. Berg
 
@@ -4535,7 +4535,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 7 Foods That Make You Live Longer
 
@@ -4614,7 +4614,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Remedies to Use When You’re Sick
 
@@ -4697,7 +4697,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Watch This BEFORE Taking Testosterone - Dr. Berg
 
@@ -4746,7 +4746,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why You Need To Start Taking Cod Liver Oil Now - Dr. Berg Reveals The Surprising Truth
 
@@ -4827,7 +4827,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Go to Sleep within 60 Seconds
 
@@ -4892,7 +4892,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Top 3 Foods for Hair Loss - Dr. Berg
 
@@ -4944,7 +4944,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Turn Your Stress to Zero - Dr. Berg
 
@@ -4985,7 +4985,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Strange & Weird Niacin (B3) Deficiency Signs and Symptoms
 
@@ -5046,7 +5046,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Get Your Omega-6 to Omega-3 Ratios Balanced
 
@@ -5129,7 +5129,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Sardines vs Cod Liver: Which is Better for You? - Dr. Berg
 
@@ -5195,7 +5195,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Preserving Your Muscles as You Age - Dr. Berg
 
@@ -5268,7 +5268,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Your Supplements Are a Lie… Really
 
@@ -5343,7 +5343,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # We Need to Eat Bugs & Insects to Save the Planet - Dr. Berg
 
@@ -5407,7 +5407,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Would Happen If You Ate Plant-Based Meat for 2 Weeks - Dr. Berg
 
@@ -5491,7 +5491,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Get Enough Potassium on the Carnivore Diet - Dr. Berg
 
@@ -5541,7 +5541,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The 10 Root Causes of Inflammation - Dr. Berg
 
@@ -5604,7 +5604,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 7 Ways to Raise Your ENERGY Big-Time
 
@@ -5676,7 +5676,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Nutrient Deficiency That Makes You Short
 
@@ -5728,7 +5728,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why I Eat Cheese Every Day
 
@@ -5815,7 +5815,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 8 Ways Your Body Tells You Have a Disease
 
@@ -5902,7 +5902,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Bloating: The Ultimate Indicator of the Right Diet
 
@@ -5966,7 +5966,7 @@ In summary, the article advocates for a personalized approach to nutrition, caut
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # A Better Way to Eliminate Candida for Good
 
@@ -6037,7 +6037,7 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The #1 Disease More Common than Heart Disease and Cancer
 
@@ -6102,7 +6102,7 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Fasting Is MORE Important than Diet
 
@@ -6177,7 +6177,7 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 12 EASY Ways to Burn Fat Fast as Hell
 
@@ -6242,7 +6242,7 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Look Younger Instantly: The Secret
 
@@ -6293,7 +6293,7 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Eating Eggs Increases the Risk of Dying from Heart Disease
 
@@ -6363,7 +6363,7 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Burn Fat–Dr. Berg Explains
 
@@ -6425,7 +6425,7 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Is This Country the MOST OVERWEIGHT in the World (THE REAL REASON)?
 
@@ -6487,7 +6487,7 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What to Drink When Fasting: Dr. Berg Guide
 
@@ -6592,7 +6592,7 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Costco Review of Healthy Foods with @BobbyParrish
 
@@ -6680,7 +6680,7 @@ Candida 感染是可以通過調節免疫系統、飲食控制和益生菌補充
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Healthiest Foods You Need in Your Diet
 

@@ -6,7 +6,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Hidden Insulin: MSG – Monosodium Glutamate Explained by Dr.Berg
 
@@ -57,7 +57,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Keto Adaptation – Maintenance on a Ketogenic Diet Plan by Dr. Berg
 
@@ -131,7 +131,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Causes White Tongue? – Dr.Berg on Oral Candidiasis
 
@@ -197,7 +197,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Keto Adaptation – Dr.Berg on Ketosis vs Keto Adapted
 
@@ -261,7 +261,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Keto Cauliflower Pancake Recipe (Potato-Free) – Dr.Berg
 
@@ -305,7 +305,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Problems with High Protein Diet – Dr. Berg on Atkins Diet
 
@@ -351,7 +351,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Chia Seeds: Amazing Source of Essential Fatty Acids – Dr. Berg
 
@@ -426,7 +426,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Keto Friendly Foods – Keto Snacks & Desserts by Dr. Berg
 
@@ -476,7 +476,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Best Stretches for Sciatica Nerve Pain Relief – Dr. Berg
 
@@ -522,7 +522,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Problems with Farm Raised Salmon – Dr. Berg on Farmed Salmon vs. Wild Salmon
 
@@ -575,7 +575,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 6 Root Causes of Hair Loss – Dr. Berg on Hormonal Hair Loss
 
@@ -648,7 +648,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Health Benefits of Hot Chili Peppers – Dr. Berg
 
@@ -713,7 +713,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is coffee okay on keto? – Dr. Berg on Caffeine & Ketosis
 
@@ -770,7 +770,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg Explains Brain Insulin Resistance
 
@@ -834,7 +834,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Keto Cauliflower Wraps Recipe – Dr. Berg
 
@@ -893,7 +893,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Long Does it Take to Get into Ketosis After a Cheat Day? – Dr. Berg
 
@@ -975,7 +975,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Will Diet Soda Kick You Out of Keto? – Dr. Berg on Ketosis
 
@@ -1025,7 +1025,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why do You Still Have Sweet Cravings on Keto? – Dr. Berg on Keto Cravings
 
@@ -1090,7 +1090,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can I Eat Oatmeal on Keto? – Dr. Berg on Ketogenic Diet
 
@@ -1157,7 +1157,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 6 Natural Remedies of Helicobacter Pylori – Dr. Berg on H. Pylori
 
@@ -1224,7 +1224,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Postpartum Hair Loss – Dr. Berg
 
@@ -1268,7 +1268,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Health Benefits of Kale – 8 Reasons why Dr.Berg loves this superfood!
 
@@ -1343,7 +1343,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Stop Tinnitus (ringing in the ears)? – Try Dr.Berg's Home Remedy to Get Rid of It
 
@@ -1403,7 +1403,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Flaxseed Benefits for Skin & Symptoms of Linoleic Acid Deficiency – Dr. Berg
 
@@ -1472,7 +1472,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 4 Critical Tips to Reverse a Fatty Liver – Dr. Berg
 
@@ -1538,7 +1538,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 5 Amazing Health Benefits of Grass-Fed Butter – Dr.Berg
 
@@ -1600,7 +1600,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Does Hair Loss Shampoo really Restore your Damaged Hair? – Dr. Berg
 
@@ -1657,7 +1657,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is MTHFR? – Dr. Berg Explains in Simple Terms
 
@@ -1727,7 +1727,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Keto Cauliflower Hummus Recipe – Dr.Berg
 
@@ -1776,7 +1776,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Causes Hot Flashes? – Dr. Berg on Problems Faced During Menopause
 
@@ -1825,7 +1825,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Almost Live Show by Dr. Berg Q&A Feb. 14, 2017
 
@@ -1916,7 +1916,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Cutting Calories but Not Losing Weight – Dr. Berg on Weight Loss
 
@@ -1956,7 +1956,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Lithium Orotate for Depression & Bipolar Disorder – Dr. Berg on Depression Remedy
 
@@ -1992,7 +1992,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why is Your Heart Pounding so Loud? – Dr. Berg on Heart Palpitations
 
@@ -2052,7 +2052,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Instant Trigeminal Neuralgia Pain Relief  – Try Dr. Berg's Facial Pain Treatment
 
@@ -2122,7 +2122,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Does Stevia Affect your Blood Sugar? – Dr. Berg
 
@@ -2210,7 +2210,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Top 7 Vitamins and Nutrients for Hair Growth – Dr. Berg
 
@@ -2262,7 +2262,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Post Nose Injury – Headache Pain Relief – Acupressure Techniques by Dr. Berg
 
@@ -2319,7 +2319,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Vitamin B6: Benefits, Deficiencies, Causes, Symptoms, and Sources – Dr. Berg
 
@@ -2362,7 +2362,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Ketosis Safe For Long term? – Dr. Berg on Long term Keto Diet effects
 
@@ -2440,7 +2440,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr.Berg Finally Reveals His Source of Research!!
 
@@ -2488,7 +2488,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is the Parathyroid Gland? Explained By Dr.Berg
 
@@ -2554,7 +2554,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Popcorn Healthy? What Are The Popcorn Alternative? – Dr. Berg
 
@@ -2600,7 +2600,7 @@ MSG 及其隱性形式對健康有潛在危害，特別是對血糖和胰島素�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Not Losing Weight vs. Slow Weight Loss: MUST WATCH – Dr.Berg
 
@@ -2670,7 +2670,7 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Ketosis? - Dr. Berg
 
@@ -2716,7 +2716,7 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Stop Nightmares With Nutrition – Dr.Berg
 
@@ -2776,7 +2776,7 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 6 Ways To Lower Cortisol Levels – Cortisol Stress Hormone – Dr. Berg
 
@@ -2843,7 +2843,7 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Is Keto Flu? | Dr.Berg
 
@@ -2898,7 +2898,7 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Chronic Post Nasal Drip Explained By Dr. Berg
 
@@ -2967,7 +2967,7 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Dissolve Kidney Stones Explained By Dr.Berg
 
@@ -3027,7 +3027,7 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Lemons and Ketosis – Dr. Berg
 
@@ -3080,7 +3080,7 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Cinnamon Roll Bites Recipe (Low Carb) – Dr. Berg
 
@@ -3131,7 +3131,7 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The 7 Nutrients That Get Rid of Love Handles (Belly Fat) – Dr. Berg
 
@@ -3196,7 +3196,7 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 5 Critical Ketosis Tips – Dr.Berg
 
@@ -3292,7 +3292,7 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Fix a Chronic Cough Explained By Dr.Berg
 
@@ -3366,7 +3366,7 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The 6 Fat-Burning Hormone Triggers Explained By Dr. Berg
 
@@ -3449,7 +3449,7 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Egg Yolk vs Egg Whites – Which One is Healthier? – Dr.Berg
 
@@ -3502,7 +3502,7 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Brain Focus #1 Tip And Trick Explained By Dr.Berg
 
@@ -3582,7 +3582,7 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why People Smoke Cigarettes Explained By Dr. Berg
 
@@ -3640,7 +3640,7 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Relieve Stress Explained By Dr. Berg
 
@@ -3693,7 +3693,7 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Say Goodbye to Acne: Dr. Berg's Proven Methods for Clearing Your Skin
 
@@ -3768,7 +3768,7 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Spinach Benefits and Caution Explained By Dr. Berg
 
@@ -3819,7 +3819,7 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Understanding Ulcers: How Do You Know If You Have One? – Dr. Berg
 
@@ -3884,7 +3884,7 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Heart Attack Signs: 1 MINUTE TEST – Dr. Berg
 
@@ -3925,7 +3925,7 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Stop Bedwetting in Children? – Dr.Berg
 
@@ -3986,7 +3986,7 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Lose Belly Fat FAST – Quick Belly Fat Loss – Dr.Berg
 
@@ -4119,7 +4119,7 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 7 Tips to Lower Uric Acid – Dr. Berg
 
@@ -4169,7 +4169,7 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Vitamin K2 Foods – Dr. Berg
 
@@ -4219,7 +4219,7 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Fix Enlarged Prostate Explained By Dr. Berg
 
@@ -4296,7 +4296,7 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Apple Cider Vinegar Works for Weight Loss – Dr.Berg
 
@@ -4338,7 +4338,7 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Insomnia, Depression & Anxiety Explained By Dr.Berg
 
@@ -4408,7 +4408,7 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Keto Dangerous? High Fat Ketogenic Diet & Clogged Arteries – Dr. Berg
 
@@ -4461,7 +4461,7 @@ doi:10.1080/12345678.2018.987654
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Hummus Keto-Friendly? Hummus on a Low-Carb Diet – Dr. Berg
 
@@ -4529,7 +4529,7 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Health Benefits of Honey – Dr.Berg
 
@@ -4573,7 +4573,7 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Causes & Symptoms of Potassium Deficiency – Dr. Berg
 
@@ -4638,7 +4638,7 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Causes Skin Tags and Moles? – Dr.Berg
 
@@ -4697,7 +4697,7 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Agave Nectar vs. High Fructose Corn Syrup: WHICH IS BETTER? – Dr. Berg
 
@@ -4753,7 +4753,7 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Benefits of Olives, Olive Oil, and Olive Leaf Extract – Dr.Berg
 
@@ -4806,7 +4806,7 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Your Digestive System Explained (in Simple Terms)
 
@@ -4876,7 +4876,7 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Keto Rash? - Dr. Berg
 
@@ -4914,7 +4914,7 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Are You Concerned About Your High Fat Diet? – Dr. Berg
 
@@ -4952,7 +4952,7 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Low Carb Chocolate Lava Cake Bites Recipe – Dr. Berg
 
@@ -5007,7 +5007,7 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Amazing Avocado Benefits – Dr. Berg
 
@@ -5055,7 +5055,7 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Gallbladder Removed? What Happens Next Explained By Dr. Berg
 
@@ -5112,7 +5112,7 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Make Best Blueberry Mini Muffin Bites by Dr. Berg
 
@@ -5181,7 +5181,7 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Low Sodium (Hyponatremia): Dangers, Symptoms, and Causes Explained By Dr.Berg
 
@@ -5255,7 +5255,7 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Increase Testosterone? Must Avoid These 3 Things & Boost Testosterone – Dr. Berg
 
@@ -5308,7 +5308,7 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can Sports Drinks Cause Dehydration & Weight Gain? – Dr. Berg
 
@@ -5369,7 +5369,7 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 3 Weird Causes of Chronic Fatigue – Dr.Berg
 
@@ -5434,7 +5434,7 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Causes Constipation? Can Eating More Fiber Help? – Dr.Berg
 
@@ -5511,7 +5511,7 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg's New Electrolyte Powder: Review
 
@@ -5573,7 +5573,7 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is a Ketone Explained By Dr. Berg
 
@@ -5614,7 +5614,7 @@ Hummus 是一種營養豐富的蘸醬，具有多樣的健康益處。選擇高�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Does Rough Pimply Skin (Chicken Skin or KERATOSIS PILARIS) Mean? – Dr. Berg
 
@@ -5680,7 +5680,7 @@ Follicular hyperkeratosis 主要由維生素A缺乏引起，常與消化系統�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Understanding IGF-1 (Insulin-Like Growth Factor) in Simple Terms – Dr. Berg
 
@@ -5734,7 +5734,7 @@ Follicular hyperkeratosis 主要由維生素A缺乏引起，常與消化系統�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Homemade Italian Dressing Recipe – Dr. Berg
 
@@ -5788,7 +5788,7 @@ Follicular hyperkeratosis 主要由維生素A缺乏引起，常與消化系統�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Stop Gallbladder Pain Instantly – Dr. Berg
 
@@ -5846,7 +5846,7 @@ Follicular hyperkeratosis 主要由維生素A缺乏引起，常與消化系統�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Homemade Keto Mayonnaise – Keto Recipe
 
@@ -5897,7 +5897,7 @@ Follicular hyperkeratosis 主要由維生素A缺乏引起，常與消化系統�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Top Nutrients in Mushrooms Explained By Dr.Berg
 
@@ -5940,7 +5940,7 @@ Follicular hyperkeratosis 主要由維生素A缺乏引起，常與消化系統�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Make Balsamic Vinaigrette Dressing – Dr.Berg
 
@@ -5980,7 +5980,7 @@ Follicular hyperkeratosis 主要由維生素A缺乏引起，常與消化系統�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Get Rid Of Keto Flu? – Dr. Berg On Keto flu Symptoms & Remedies
 

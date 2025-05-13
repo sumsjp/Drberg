@@ -6,7 +6,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Exercise Affects Your Immune System
 
@@ -85,7 +85,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Try Lactobacillus Bifidobacterium for Depression – Natural Remedies for Depression – Dr.Berg
 
@@ -182,7 +182,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Food for Chronic Sinus Issues
 
@@ -230,7 +230,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is a Polyp? – The Best Food for Colon Polyp Prevention – Dr. Berg
 
@@ -292,7 +292,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Getting Arrhythmias After You Break a Fast?
 
@@ -339,7 +339,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Certain People Get Asthma
 
@@ -401,7 +401,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Boost Your Antioxidant Network
 
@@ -471,7 +471,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Natural Anti-Clotting Stroke Support
 
@@ -539,7 +539,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Fasting and Gallstones
 
@@ -585,7 +585,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Vitamin D Does to Your Immune System
 
@@ -661,7 +661,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Metabolic Syndrome Is Really the Hyperinsulinemia Syndrome
 
@@ -726,7 +726,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Other Causes & Remedies for Hot Flashes & Menopause – Dr.Berg
 
@@ -793,7 +793,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 72-Hour Fasting Benefits on the Immune System
 
@@ -855,7 +855,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Do This to Help Dissolve Gallstones
 
@@ -899,7 +899,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Lemon Juice Acid or Alkaline?
 
@@ -937,7 +937,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Benefits of Ginseng
 
@@ -999,7 +999,7 @@ Ginseng 作為一種傳統中草藥，具有多方面的健康益處，尤其在
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Repair Your Immune System if it is Old and Damaged
 
@@ -1101,7 +1101,7 @@ Ginseng 作為一種傳統中草藥，具有多方面的健康益處，尤其在
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Non-Plant Sources of Vitamin C
 
@@ -1142,7 +1142,7 @@ Ginseng 作為一種傳統中草藥，具有多方面的健康益處，尤其在
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Wake Up Refreshed Every Morning – Inadequate Sleep – Dr.Berg on Melatonin and Sleep
 
@@ -1197,7 +1197,7 @@ Ginseng 作為一種傳統中草藥，具有多方面的健康益處，尤其在
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 15 Signs of an Omega-3 Fatty Acid Deficiency
 
@@ -1281,7 +1281,7 @@ Omega-3脂肪酸在維持人體多個系統的健康方面起著關鍵作用。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The 3 Fats That Can Fix a Fatty Liver –  Reverse a Fatty Liver – Dr.Berg
 
@@ -1360,7 +1360,7 @@ Omega-3脂肪酸在維持人體多個系統的健康方面起著關鍵作用。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can Lemon Juice Really Help You Lose Weight?
 
@@ -1404,7 +1404,7 @@ Omega-3脂肪酸在維持人體多個系統的健康方面起著關鍵作用。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Heart Disease Starts When You Are a Kid
 
@@ -1494,7 +1494,7 @@ Omega-3脂肪酸在維持人體多個系統的健康方面起著關鍵作用。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Bulgarian Yogurt Recommendation
 
@@ -1512,7 +1512,7 @@ Omega-3脂肪酸在維持人體多個系統的健康方面起著關鍵作用。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Tongue Can Determine a Vitamin C Deficiency
 
@@ -1580,7 +1580,7 @@ Omega-3脂肪酸在維持人體多個系統的健康方面起著關鍵作用。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Way to Get Metabolic Flexibility
 
@@ -1645,7 +1645,7 @@ Omega-3脂肪酸在維持人體多個系統的健康方面起著關鍵作用。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Red or White Wine: Which Has More Sulfites?
 
@@ -1723,7 +1723,7 @@ Omega-3脂肪酸在維持人體多個系統的健康方面起著關鍵作用。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Get Your Kids and Babies Off Cereal
 
@@ -1782,7 +1782,7 @@ Omega-3脂肪酸在維持人體多個系統的健康方面起著關鍵作用。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Game of Thrones Meets Your Immune System
 
@@ -1839,7 +1839,7 @@ Omega-3脂肪酸在維持人體多個系統的健康方面起著關鍵作用。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Use These Spices and Herbs for Rheumatoid Arthritis – Remedies for Rheumatoid Arthritis – Dr.Berg
 
@@ -1910,7 +1910,7 @@ Omega-3脂肪酸在維持人體多個系統的健康方面起著關鍵作用。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Most Important White Blood Cell (WBC)
 
@@ -1980,7 +1980,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Benefits of Breastfeeding for the Immune System
 
@@ -1998,7 +1998,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Huge Vitamin D Mistake with RDAs
 
@@ -2044,7 +2044,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Arrhythmias Are Excess Calcium
 
@@ -2104,7 +2104,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Long Does Magnesium Stay in the Body?
 
@@ -2169,7 +2169,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Correct Your Constipation
 
@@ -2253,7 +2253,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Sugar Affects Your Immune System
 
@@ -2298,7 +2298,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Hidden Causes of Heart Palpitation – Revealed by Dr.Berg
 
@@ -2376,7 +2376,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Benefits of Ashwagandha
 
@@ -2435,7 +2435,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Enlarged Prostate and Urination Problems Explained by Dr.Berg
 
@@ -2480,7 +2480,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Knee Pain, Pseudogout, and Vitamin K2 Benefits – Prevent Gout with Vitamin K2 – Dr.Berg
 
@@ -2542,7 +2542,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why You Never Should Eat Raw Chicken
 
@@ -2620,7 +2620,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Went Back on Keto But Now NO Results
 
@@ -2676,7 +2676,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Is Gastritis? – The Best Food (Vegetable) for Gastritis! – Dr.Berg
 
@@ -2744,7 +2744,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Urine Smells Like Burnt Popcorn? – Solutions by Dr.Berg
 
@@ -2785,7 +2785,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Salmon vs. Cod: Which is Healthier?
 
@@ -2849,7 +2849,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Iodine and Your Immune System
 
@@ -2867,7 +2867,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Fix a Hoarse and Raspy Voice in 2 Minutes – Hoarseness Cure – Dr.Berg
 
@@ -2925,7 +2925,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Your Keto Ice Cream Keto-Friendly?
 
@@ -2999,7 +2999,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # #1 Reason Why Your Kid is Overweight
 
@@ -3056,7 +3056,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to STOP Prediabetes from Turning into Diabetes
 
@@ -3117,7 +3117,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Keto Rash Is a Bile Deficiency – Bile Salts, Dietary Fats, and Keto Rash – Dr. Berg
 
@@ -3186,7 +3186,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Being Fat Weakens Your Immune System
 
@@ -3260,7 +3260,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Are You Wearing Your Mask Too Long?
 
@@ -3344,7 +3344,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Benefits of Salt for the Immune System
 
@@ -3406,7 +3406,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Use MCT Oil in Your Coffee?
 
@@ -3454,7 +3454,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Your Immune System is a Highly Trained Military
 
@@ -3524,7 +3524,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # An interview with Dr. Nadia about Women's Problems | The Solution to Menstrual Dysfunction
 
@@ -3610,7 +3610,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is it Safe to Take 10,000 IUs of Vitamin D3?
 
@@ -3700,7 +3700,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Fatigued on Keto and When Fasting?
 
@@ -3769,7 +3769,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Does Our Thymus Shrink to Nothing As We Age?
 
@@ -3838,7 +3838,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Soap or Alcohol: Which is the Better Antiviral?
 
@@ -3899,7 +3899,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Best Natural Pink Eye (Conjunctivitis) Remedy
 
@@ -3943,7 +3943,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Might LDL Cholesterol Go Up on Keto?
 
@@ -4012,7 +4012,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Sleep Deprivation and Your Immune System
 
@@ -4051,7 +4051,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Don't Turn Off Your Immune System Prematurely
 
@@ -4104,7 +4104,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Vitamin D Toxicity: Is This a Danger?
 
@@ -4167,7 +4167,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Stress Depletes These Nutrients
 
@@ -4240,7 +4240,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Leptin Resistance is Behind a Weakened Immune System
 
@@ -4301,7 +4301,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Sleeping But Still Tired When You Wake Up? Daytime Sleepiness – Dr.Berg
 
@@ -4374,7 +4374,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Causes Autoimmune Conditions?
 
@@ -4418,7 +4418,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Does Saudi Arabia Have Such a Vitamin D Problem?
 
@@ -4479,7 +4479,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # High Blood Sugar Despite No Dietary Sugar?
 
@@ -4551,7 +4551,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Quick Way to Know if You Have Brain Damage
 
@@ -4613,7 +4613,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Immunity is Created: Antibodies
 
@@ -4659,7 +4659,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Ketogenic Diet, Your Thyroid and Hair Loss
 
@@ -4741,7 +4741,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Myasthenia Gravis Remission with Vitamin D
 
@@ -4801,7 +4801,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Scoliosis, Kyphosis, Lordosis and Vitamin D Explained by Dr.Berg
 
@@ -4843,7 +4843,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Black Plague Pandemic New Discovery
 
@@ -4898,7 +4898,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Does Vitamin D Lower Blood Pressure
 
@@ -4957,7 +4957,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Sun's Benefits Are Way More than Vitamin D
 
@@ -5017,7 +5017,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Deal With Someone Sneezing Around You
 
@@ -5035,7 +5035,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The "Intermittent" Part of Fasting and Exercise Is Vital
 
@@ -5105,7 +5105,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Oxidative Stress, Immune System, and Viral Infection
 
@@ -5154,7 +5154,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Vitamin A and Your Immune System
 
@@ -5214,7 +5214,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Benefits of Mucus
 
@@ -5268,7 +5268,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # It’s Not The Virus that Kills You, It’s Your Immune System
 
@@ -5315,7 +5315,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Hydroxychloroquine versus Remdesivir
 
@@ -5368,7 +5368,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Potassium-Insulin Connection
 
@@ -5412,7 +5412,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Do "Carb Distancing", if Quarantined
 
@@ -5469,7 +5469,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Ignored Pandemic: Vitamin D Deficiency
 
@@ -5544,7 +5544,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Protein Helps Hypoglycemia (Low Blood Sugar)? – Dr.Berg
 
@@ -5584,7 +5584,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Speed Up Digestion
 
@@ -5679,7 +5679,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Anti-Candida and Anti-Fungal Effects of MCT Oil
 
@@ -5727,7 +5727,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Zinc Effects on Your Respiratory System
 
@@ -5777,7 +5777,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Hair Loss: The Missing Link
 
@@ -5882,7 +5882,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Is a Lymph Node?
 
@@ -5963,7 +5963,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Cravings and Hunger are NOT Going Away on Keto Diet and Fasting? (Do This!!) – Dr.Berg
 
@@ -6023,7 +6023,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Use Forest Bathing for Immune Boosting
 
@@ -6083,7 +6083,7 @@ T 調節性 T 细胞在免疫調節中起著關鍵作用。缺乏或功能障礙
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Are You Turning into a Germophobe?
 

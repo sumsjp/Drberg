@@ -6,7 +6,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Amazing Skull Massage for a Deep Restful Sleep – Dr.Berg
 
@@ -69,7 +69,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Bone Broth Good For You? – Dr.Berg's Opinion
 
@@ -109,7 +109,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Importance Of The Intestinal Mucosal Barrier Explained By Dr.Berg
 
@@ -171,7 +171,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Are You Protein Deficient? – Dr.Berg on Symptoms and Treatment for Protein Deficiency
 
@@ -189,7 +189,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Is Hormesis & How It Works? – Dr.Berg
 
@@ -207,7 +207,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Have To Die of Something, Might As Well Enjoy Yourself...RIGHT? – Dr.Berg
 
@@ -274,7 +274,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Eat More Shellfish On Keto (Ketogenic Diet) – Dr.Berg
 
@@ -362,7 +362,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Amazing Benefits of Pine Oil
 
@@ -423,7 +423,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Important Nutrient – Longevity Link – Nutritional Deficiency & DNA Damage
 
@@ -483,7 +483,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Brazil Nuts May Not Be The Best Source of Selenium – Dr.Berg
 
@@ -533,7 +533,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Diabetic And Pregnant? Risks Of Diabetic Pregnancy & Insulin Resistance – Dr.Berg
 
@@ -614,7 +614,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Is Amyotrophic Lateral Sclerosis (ALS) Or Lou Gehrig's Disease? – Dr.Berg On ALS Symptoms
 
@@ -685,7 +685,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can Dairy Affect Your Hormones? Dairy Products & Hormonal Imbalance – Dr.Berg
 
@@ -753,7 +753,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Lesson From Spanish Flu Pandemic Of 1918 - Acute Respiratory Distress Syndrome (ARDS) – Dr.Berg
 
@@ -823,7 +823,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What's Behind Thyroid Nodules? Thyroid Disorders & Selenium Deficiency – Dr.Berg
 
@@ -914,7 +914,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Ketones Are Way More Than Just Energy Fuel – Dr.Berg On Benefits Of Ketones
 
@@ -981,7 +981,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Is Epigenetics: In Simple Terms - DNA Sequencing – Dr.Berg
 
@@ -1039,7 +1039,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Use Epsom Salt For Toenail Fungus - Treatment For Toenail Fungus – Dr.Berg
 
@@ -1083,7 +1083,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Toxic Effects Of Nutrients If Consumed In Excess - Hemochromatosis, Hypercalcemia – Dr.Berg
 
@@ -1101,7 +1101,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Small Intestinal Bacterial Overgrowth(SIBO) Steals Your Nutrients – Dr.Berg
 
@@ -1176,7 +1176,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why has my weight loss plateaued? How do you break a weight loss plateau? – Dr.Berg
 
@@ -1243,7 +1243,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Cycling Bad for Tight Hip Flexors? – Dr.Berg
 
@@ -1261,7 +1261,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Diabetic Gangrene: Symptoms, Causes & Treatment – Dr.Berg On Diabetic Foot
 
@@ -1343,7 +1343,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Tonsils & Do You Need Them? – Dr.Berg
 
@@ -1405,7 +1405,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Use MCT Oil To Improve Your Sleep – Dr.Berg On MCT Oil Benefits
 
@@ -1465,7 +1465,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Olive Oil Benefits & Uses For  Anti-Aging Skin – Dr.Berg
 
@@ -1505,7 +1505,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Worst Low Carb Foods/ Keto Foods To Avoid – Dr.Berg
 
@@ -1585,7 +1585,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Does The Spleen Do? – Dr.Berg Explains Spleen Function
 
@@ -1645,7 +1645,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Sneaky Hidden Ways To Make Sugar Look Healthier – Dr.Berg On Hidden Sugars
 
@@ -1719,7 +1719,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Should I Be Concerned With Goitrogenic Foods? – Dr.Berg On Hypothyroidism Diet
 
@@ -1774,7 +1774,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Reverse Insulin Resistance? – Dr.Berg
 
@@ -1833,7 +1833,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Long Should I Do Keto & Intermittent Fasting? – Dr.Berg
 
@@ -1932,7 +1932,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Keto Diet & Intermittent Fasting Made Me Depressed – Dr.Berg
 
@@ -1950,7 +1950,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 90% of Hypothyroidism Is Hashimoto’s Thyroiditis | Dr. Berg
 
@@ -2039,7 +2039,7 @@ Hashimoto's 是一種由免疫失調引發的慢性 thyroid 疾病，主要與�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Fish Is A Very Good Food For Brain Health And EyeSight – Dr.Berg
 
@@ -2113,7 +2113,7 @@ Hashimoto's 是一種由免疫失調引發的慢性 thyroid 疾病，主要與�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Many Calories Should I Eat On Keto Diet? The Simple Formula – Dr.Berg
 
@@ -2191,7 +2191,7 @@ Hashimoto's 是一種由免疫失調引發的慢性 thyroid 疾病，主要與�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Is Autophagy & The Real Reason Why It Exists – Dr.Berg
 
@@ -2263,7 +2263,7 @@ Hashimoto's 是一種由免疫失調引發的慢性 thyroid 疾病，主要與�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Benefits Of Manganese & Foods High In Manganese – Dr.Berg
 
@@ -2328,7 +2328,7 @@ Hashimoto's 是一種由免疫失調引發的慢性 thyroid 疾病，主要與�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Stop Carb Cravings – 3 Reasons Why You Crave Carbs & Are Not Satisfied – Dr.Berg
 
@@ -2346,7 +2346,7 @@ Hashimoto's 是一種由免疫失調引發的慢性 thyroid 疾病，主要與�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Burning Throat Syndrome or Silent Acid Reflux Causes – Dr.Berg
 
@@ -2393,7 +2393,7 @@ Hashimoto's 是一種由免疫失調引發的慢性 thyroid 疾病，主要與�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Different Benefits Between The Ketogenic Diet vs Intermittent Fasting – Dr.Berg
 
@@ -2483,7 +2483,7 @@ Hashimoto's 是一種由免疫失調引發的慢性 thyroid 疾病，主要與�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why is There a Major Zinc Deficiency Problem in India and Pakistan? - Dr. Berg
 
@@ -2548,7 +2548,7 @@ Hashimoto's 是一種由免疫失調引發的慢性 thyroid 疾病，主要與�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Cauliflower, The Ultimate Keto Food – Dr.Berg
 
@@ -2586,7 +2586,7 @@ Cauliflower不僅是低碳水食品，其豐富的營養成分使其成為健康
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Respond To A Keto Diet Critic? – Dr. Berg
 
@@ -2674,7 +2674,7 @@ Cauliflower不僅是低碳水食品，其豐富的營養成分使其成為健康
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Healthy Desserts Can I Eat To Help Me Lose Weight? – Dr.Berg
 
@@ -2729,7 +2729,7 @@ Cauliflower不僅是低碳水食品，其豐富的營養成分使其成為健康
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Way To Know If You Have Low Stomach Acid – Dr.Berg
 
@@ -2747,7 +2747,7 @@ Cauliflower不僅是低碳水食品，其豐富的營養成分使其成為健康
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 7 Interesting Benefits of Sea Kelp Beyond the Thyroid – Dr.Berg
 
@@ -2817,7 +2817,7 @@ Cauliflower不僅是低碳水食品，其豐富的營養成分使其成為健康
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Vitamin for Tuberculosis (TB) – Dr.Berg On Vitamin D3 Benefits
 
@@ -2891,7 +2891,7 @@ Cauliflower不僅是低碳水食品，其豐富的營養成分使其成為健康
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Sweets and Grains Deplete Your Vitamins? – Dr.Berg On Effects Of Sugar
 
@@ -2976,7 +2976,7 @@ Cauliflower不僅是低碳水食品，其豐富的營養成分使其成為健康
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Bad Food Combining Will Make You Old Quickly? – Dr.Berg
 
@@ -3036,7 +3036,7 @@ Cauliflower不僅是低碳水食品，其豐富的營養成分使其成為健康
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why You Should Opt For Keto Diet & What Are Its Benefits? – Dr.Berg
 
@@ -3096,7 +3096,7 @@ Cauliflower不僅是低碳水食品，其豐富的營養成分使其成為健康
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Breathe Better / More Oxygen With Keto Diet? – Dr.Berg
 
@@ -3159,7 +3159,7 @@ Cauliflower不僅是低碳水食品，其豐富的營養成分使其成為健康
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Should I Remove My Gallbladder If I have Stones? – Dr.Berg
 
@@ -3243,7 +3243,7 @@ Cauliflower不僅是低碳水食品，其豐富的營養成分使其成為健康
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Symptoms & Natural Remedies For Pre - Post Menopause Estrogen Deficiency – Dr.Berg
 
@@ -3261,7 +3261,7 @@ Cauliflower不僅是低碳水食品，其豐富的營養成分使其成為健康
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # SULFUR: The Most Important Element in Detoxification – Dr.Berg
 
@@ -3328,7 +3328,7 @@ Cauliflower不僅是低碳水食品，其豐富的營養成分使其成為健康
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr.Berg Interviews Dorian Greenow, CEO Of Keto Mojo
 
@@ -3416,7 +3416,7 @@ Cauliflower不僅是低碳水食品，其豐富的營養成分使其成為健康
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr.Berg's Keto Health Summit 2019
 
@@ -3434,7 +3434,7 @@ Cauliflower不僅是低碳水食品，其豐富的營養成分使其成為健康
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 7 Things Your Eyes Can Tell You About Your Blood Sugars – Dr.Berg
 
@@ -3452,7 +3452,7 @@ Cauliflower不僅是低碳水食品，其豐富的營養成分使其成為健康
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What's Worse: White Sugar vs White Flour? – Dr.Berg
 
@@ -3497,7 +3497,7 @@ Cauliflower不僅是低碳水食品，其豐富的營養成分使其成為健康
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # If Rice Is So Bad, Why Are the Chinese So Thin? – Dr.Berg
 
@@ -3547,7 +3547,7 @@ Cauliflower不僅是低碳水食品，其豐富的營養成分使其成為健康
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Women Live Longer than Men? – Dr.Berg
 
@@ -3595,7 +3595,7 @@ Cauliflower不僅是低碳水食品，其豐富的營養成分使其成為健康
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is it Safe to Eat Shellfish with Heavy Metals? – Dr.Berg
 
@@ -3665,7 +3665,7 @@ Cauliflower不僅是低碳水食品，其豐富的營養成分使其成為健康
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 8 Factors Which Determine If You Can Absorb Zinc or NOT? – Dr.Berg
 
@@ -3773,7 +3773,7 @@ Cauliflower不僅是低碳水食品，其豐富的營養成分使其成為健康
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why People Shrink With Age and How to Prevent Shrinking? – Dr .Berg
 
@@ -3853,7 +3853,7 @@ Cauliflower不僅是低碳水食品，其豐富的營養成分使其成為健康
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Do Gallstones Come From High Cholesterol? – Dr.Berg
 
@@ -3915,7 +3915,7 @@ Cauliflower不僅是低碳水食品，其豐富的營養成分使其成為健康
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can Intermittent Fasting Change Your Nutrient Requirements? – Dr.Berg
 
@@ -3989,7 +3989,7 @@ Cauliflower不僅是低碳水食品，其豐富的營養成分使其成為健康
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # If Sugar Is So Bad, Then Why Is Fruit Healthy? | Dr. Eric Berg
 
@@ -4040,7 +4040,7 @@ Cauliflower不僅是低碳水食品，其豐富的營養成分使其成為健康
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dairy, Menstrual Cycle & Female Hormone – High Estrogen Foods To Avoid During Menstruation – Dr.Berg
 
@@ -4091,7 +4091,7 @@ Cauliflower不僅是低碳水食品，其豐富的營養成分使其成為健康
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Not Losing That Last 20 Pounds No Matter What You Do? Try This! – Dr.Berg
 
@@ -4161,7 +4161,7 @@ Cauliflower不僅是低碳水食品，其豐富的營養成分使其成為健康
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Avoid Folic Acid and Take Folate (as Methylfolate) – Folic Acid vs. Folate | Dr.Berg
 
@@ -4219,7 +4219,7 @@ Cauliflower不僅是低碳水食品，其豐富的營養成分使其成為健康
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Much Grams Of Protein on Keto? – Dr.Berg CLARIFIES!
 
@@ -4237,7 +4237,7 @@ Cauliflower不僅是低碳水食品，其豐富的營養成分使其成為健康
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Fix Your Chapped Lips? – Dr.Berg On  Remedy For Chapped Lips
 
@@ -4311,7 +4311,7 @@ Cauliflower不僅是低碳水食品，其豐富的營養成分使其成為健康
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Hidden Cause of Diabetes and Belly Fat – Hemochromatosis and Iron Food Fortification – Dr.Berg
 
@@ -4387,7 +4387,7 @@ Cauliflower不僅是低碳水食品，其豐富的營養成分使其成為健康
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Causes Crusty Eyes/ Eye Boogers? – Dr.Berg
 
@@ -4446,7 +4446,7 @@ Cauliflower不僅是低碳水食品，其豐富的營養成分使其成為健康
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Coffee Good for the Liver? - Dr. Berg
 
@@ -4526,7 +4526,7 @@ Cauliflower不僅是低碳水食品，其豐富的營養成分使其成為健康
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can I Do Intermittent Fasting & Keto If I Am On Heart Medication? – Dr.Berg
 
@@ -4605,7 +4605,7 @@ Cauliflower不僅是低碳水食品，其豐富的營養成分使其成為健康
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Boost Pregnenolone for More Hormone Energy? – Dr.Berg
 
@@ -4662,7 +4662,7 @@ pregnenolone 是激素健康的核心，膽固醇、壓力管理和營養素攝�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg’s Electrolyte Powder is Not a Sodium Electrolyte Replacement!!
 
@@ -4719,7 +4719,7 @@ pregnenolone 是激素健康的核心，膽固醇、壓力管理和營養素攝�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Causes Allergies? What are the Missing Nutrients in Allergies – Dr. Berg
 
@@ -4766,7 +4766,7 @@ pregnenolone 是激素健康的核心，膽固醇、壓力管理和營養素攝�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Causes Sweaty / Dry Hands & How To Get Rid Of It? – Dr. Berg
 
@@ -4833,7 +4833,7 @@ pregnenolone 是激素健康的核心，膽固醇、壓力管理和營養素攝�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Vitamin Deficiencies That Causes Dry or Oily Hair – Dr. Berg
 
@@ -4851,7 +4851,7 @@ pregnenolone 是激素健康的核心，膽固醇、壓力管理和營養素攝�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # If Bread is so Bad, Why Are The French People So Thin? – Dr. Berg
 
@@ -4869,7 +4869,7 @@ pregnenolone 是激素健康的核心，膽固醇、壓力管理和營養素攝�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Reactive Hypoglycemia: Not As Complex As You May Think! – Dr.Berg
 
@@ -4925,7 +4925,7 @@ pregnenolone 是激素健康的核心，膽固醇、壓力管理和營養素攝�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Get Rid Of Cravings During Menstrual Cycle With ONE Nutrient? – Dr.Berg
 
@@ -4987,7 +4987,7 @@ pregnenolone 是激素健康的核心，膽固醇、壓力管理和營養素攝�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Should I Reduce Carbs OR Sugar On Keto Diet? – Dr.Berg
 
@@ -5069,7 +5069,7 @@ pregnenolone 是激素健康的核心，膽固醇、壓力管理和營養素攝�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Do You Get High Cholesterol After Intermittent Fasting? – Dr.Berg
 
@@ -5131,7 +5131,7 @@ pregnenolone 是激素健康的核心，膽固醇、壓力管理和營養素攝�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 7 Reasons Why You Get Up During the Night – Dr.Berg On Sleep Apnea
 
@@ -5199,7 +5199,7 @@ pregnenolone 是激素健康的核心，膽固醇、壓力管理和營養素攝�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # No Thyroid (Thyroidectomy): What About Calcitonin? – Dr.Berg
 
@@ -5258,7 +5258,7 @@ pregnenolone 是激素健康的核心，膽固醇、壓力管理和營養素攝�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Feeling Weak and Faint After 20 Hours of Intermittent Fasting? Do this! – Dr.Berg
 
@@ -5328,7 +5328,7 @@ pregnenolone 是激素健康的核心，膽固醇、壓力管理和營養素攝�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is It Safe To Use Apple Cider Vinegar For Hair? – Dr. Berg
 
@@ -5379,7 +5379,7 @@ pregnenolone 是激素健康的核心，膽固醇、壓力管理和營養素攝�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How High Blood Glucose Levels Destroys These 4 Organs – Dr.Berg
 
@@ -5439,7 +5439,7 @@ pregnenolone 是激素健康的核心，膽固醇、壓力管理和營養素攝�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 7 Reasons Why You Experience Metallic Taste in Mouth – Dr.Berg
 
@@ -5514,7 +5514,7 @@ pregnenolone 是激素健康的核心，膽固醇、壓力管理和營養素攝�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Burn More Calories Without Exercise OR Eating Less? – Dr.Berg
 
@@ -5557,7 +5557,7 @@ pregnenolone 是激素健康的核心，膽固醇、壓力管理和營養素攝�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Slow Down The Aging Process: 3 Life Hacks For Anti Aging – Dr.Berg
 
@@ -5649,7 +5649,7 @@ pregnenolone 是激素健康的核心，膽固醇、壓力管理和營養素攝�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Resolve Digestive / Stomach Problems On Keto Diet – Dr.Berg
 
@@ -5724,7 +5724,7 @@ pregnenolone 是激素健康的核心，膽固醇、壓力管理和營養素攝�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Ultimate Fat Burning Guide: Dr. Berg's Webinar on Maximum Weight Loss
 
@@ -5798,7 +5798,7 @@ pregnenolone 是激素健康的核心，膽固醇、壓力管理和營養素攝�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Normal Fasting Blood Sugar Levels on Intermittent Fasting? – Dr.Berg
 
@@ -5840,7 +5840,7 @@ pregnenolone 是激素健康的核心，膽固醇、壓力管理和營養素攝�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Get Faster Weight Loss Despite Having Hypothyroidism? – Dr.Berg's Advice
 
@@ -5923,7 +5923,7 @@ pregnenolone 是激素健康的核心，膽固醇、壓力管理和營養素攝�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is It Okay To Eat Melon On Keto? – Dr.Berg
 
@@ -5941,7 +5941,7 @@ pregnenolone 是激素健康的核心，膽固醇、壓力管理和營養素攝�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Keto Diet Is The Best For Menopausal Belly Fat? – Dr.Berg
 

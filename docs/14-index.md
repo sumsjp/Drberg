@@ -6,7 +6,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Is Acrylamide? – Dr. Berg
 
@@ -75,7 +75,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Vitamin B1: Synthetic vs. Natural – Dr. Berg
 
@@ -135,7 +135,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 7 Keto Diet Myths & Lies – Dr. Berg
 
@@ -211,7 +211,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Understanding Carbs vs. Sugar on Keto – Dr. Berg
 
@@ -299,7 +299,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Is A2 Milk? – Dr. Berg
 
@@ -345,7 +345,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Side Effects of Purified Bile Salts – Dr. Berg
 
@@ -410,7 +410,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Do You Need Salt For Better Protein Digestion? – Dr. Berg
 
@@ -465,7 +465,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # MyPlate vs. Healthy Ketosis – Dr. Berg
 
@@ -526,7 +526,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Diabetic Stomach Explained – Dr. Berg
 
@@ -572,7 +572,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Can Eating Fat LOWER Your Cholesterol? – Dr. Berg
 
@@ -621,7 +621,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Benefits of Vitamin B1 – Numbness & Tingling In Hands & Feet – Dr. Berg
 
@@ -685,7 +685,7 @@ This article explores the differences between numbness in hands or feet versus t
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Menstrual Cycle Cravings and Nutrient Deficiencies  – Dr. Berg
 
@@ -779,7 +779,7 @@ This article explores the differences between numbness in hands or feet versus t
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Quick Fix For Hiatal Hernia – Dr. Berg
 
@@ -842,7 +842,7 @@ This article explores the differences between numbness in hands or feet versus t
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Our Daily Nutrient Requirements (RDAs) Are Too Low – Dr. Berg
 
@@ -900,7 +900,7 @@ A: RDA（建議膳食攝取量）是指防止 deficiency diseases 的最低每�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Wrinkled Pruney Fingers – Causes & Remedy – Dr. Berg
 
@@ -918,7 +918,7 @@ A: RDA（建議膳食攝取量）是指防止 deficiency diseases 的最低每�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # I Can’t Do Keto Due to My Intense (Extreme) Cravings – Dr. Berg
 
@@ -1002,7 +1002,7 @@ A: RDA（建議膳食攝取量）是指防止 deficiency diseases 的最低每�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Are The Main Causes of Vitamin B1 Deficiency (Thiamine)? – Dr. Berg
 
@@ -1065,7 +1065,7 @@ A: RDA（建議膳食攝取量）是指防止 deficiency diseases 的最低每�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Is Gluconeogenesis? – Dr. Berg
 
@@ -1110,7 +1110,7 @@ A: RDA（建議膳食攝取量）是指防止 deficiency diseases 的最低每�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Hashimoto's Disease (Hypothyroid) and Keto (Ketogenic Diet) – Dr. Berg
 
@@ -1189,7 +1189,7 @@ A: RDA（建議膳食攝取量）是指防止 deficiency diseases 的最低每�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Top 11 Health Benefits of CELERY – Dr. Berg
 
@@ -1243,7 +1243,7 @@ A: RDA（建議膳食攝取量）是指防止 deficiency diseases 的最低每�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Intense Withdrawal Symptoms & Headaches on Keto Adaptation – Dr. Berg's Keto Tips
 
@@ -1286,7 +1286,7 @@ A: RDA（建議膳食攝取量）是指防止 deficiency diseases 的最低每�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Causes of Ammonia Body Odor on Keto Diet – Dr. Berg
 
@@ -1354,7 +1354,7 @@ A: RDA（建議膳食攝取量）是指防止 deficiency diseases 的最低每�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Fibromyalgia on the Right Side of Your Body – Dr. Berg
 
@@ -1412,7 +1412,7 @@ A: RDA（建議膳食攝取量）是指防止 deficiency diseases 的最低每�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Symptoms Evaluation – Dr. Berg's Skype Session with Tara Shimer (Part 2)
 
@@ -1500,7 +1500,7 @@ A: RDA（建議膳食攝取量）是指防止 deficiency diseases 的最低每�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Insulin Resistance of the Brain – Dr. Berg
 
@@ -1560,7 +1560,7 @@ A: RDA（建議膳食攝取量）是指防止 deficiency diseases 的最低每�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Molybdenum and Its Benefits – Dr. Berg
 
@@ -1629,7 +1629,7 @@ A: RDA（建議膳食攝取量）是指防止 deficiency diseases 的最低每�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Which Fermented Foods Can You Eat on Ketogenic Diet? – Dr. Berg
 
@@ -1695,7 +1695,7 @@ A: RDA（建議膳食攝取量）是指防止 deficiency diseases 的最低每�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Does My Breath Smell Like Acetone on Keto Diet? – Dr. Berg
 
@@ -1713,7 +1713,7 @@ A: RDA（建議膳食攝取量）是指防止 deficiency diseases 的最低每�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Feeling Stuffed But Then Hungry 2hrs After Eating On Intermittent Fasting Plan? – Dr. Berg
 
@@ -1768,7 +1768,7 @@ A: RDA（建議膳食攝取量）是指防止 deficiency diseases 的最低每�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 8 Emotional Eating Tips – Dr. Berg
 
@@ -1844,7 +1844,7 @@ A: RDA（建議膳食攝取量）是指防止 deficiency diseases 的最低每�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Are You Calcium Deficient? – Dr. Berg
 
@@ -1910,7 +1910,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Estrogen, Mood Swings & Menopause Connection – Dr. Berg
 
@@ -1979,7 +1979,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Intermittent Fasting Safe for Your Adrenals? – Dr. Berg
 
@@ -2031,7 +2031,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Taking Apple Cider Vinegar For Iron Deficiency Anemia – Dr. Berg
 
@@ -2096,7 +2096,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Blood Type Diet vs. Body Type Diet – Dr. Berg
 
@@ -2167,7 +2167,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Prevent Afternoon Blood Sugar Crash – Dr. Berg
 
@@ -2250,7 +2250,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Way to Determine Adrenal Fatigue Is How You Feel After Exercise – Dr. Berg
 
@@ -2268,7 +2268,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Did You Gain Weight Eating Salad? – Dr. Berg
 
@@ -2320,7 +2320,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Grass-Fed vs. Grass-Finished Beef – Dr. Berg
 
@@ -2386,7 +2386,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Stop Snacking Between Meals & Do Intermittent Fasting – Dr. Berg
 
@@ -2495,7 +2495,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Losing Hair But Getting Facial Hair Growth? – Dr. Berg
 
@@ -2546,7 +2546,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Bulletproof Coffee Slowing Your Weight Loss? – Dr. Berg
 
@@ -2606,7 +2606,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Do I Need Multivitamins on Intermittent Fasting? – Dr. Berg
 
@@ -2684,7 +2684,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can Antibiotics Cause Weight Gain? – Dr. Berg
 
@@ -2755,7 +2755,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Should I Do the Ketogenic Diet & Intermittent Fasting If I am Underweight? – Dr. Berg
 
@@ -2823,7 +2823,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Benefits of Boron, One of the Most Deficient Trace Minerals – Dr. Berg
 
@@ -2880,7 +2880,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Enhance Cognitive Function on Healthy Ketosis – Dr. Berg
 
@@ -2948,7 +2948,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Lactic Acid Making You Sore After Workout? – Dr. Berg
 
@@ -2966,7 +2966,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Choline: One of The Best Vitamins for Fatty Liver – Dr. Berg
 
@@ -3053,7 +3053,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # EMFs (Electromagnetic Fields): Cell Phone Radiation Effects on Human Body – Dr. Berg
 
@@ -3093,7 +3093,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The 5th Body Type – Dr. Berg
 
@@ -3189,7 +3189,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Benefits of Sunlight: Reduce Stress & Lose Belly Fat – Dr. Berg
 
@@ -3252,7 +3252,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Side Effects of Apple Cider Vinegar (ACV) and Kombucha Tea – Dr. Berg
 
@@ -3311,7 +3311,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Main Causes of High Liver Enzymes & Non-Alcoholic Fatty Liver Disease – Dr. Berg
 
@@ -3367,7 +3367,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Epstein Barr Virus (EBV)? - Symptoms & Treatment – Dr. Berg
 
@@ -3422,7 +3422,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Will The Paleo Diet Plan Put Me Into Ketosis? – Dr. Berg
 
@@ -3464,7 +3464,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Will Lemon Water Kick You Out of Ketosis? – Dr. Berg
 
@@ -3501,7 +3501,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Will Intermittent Fasting (One Meal a Day) Slow Metabolism? – Dr. Berg
 
@@ -3543,7 +3543,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Effects of Stevia on Ketosis – Dr. Berg
 
@@ -3604,7 +3604,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg's Webinar On Stress Relieving: Easily Get Rid of Stress & Sleep Like a Baby
 
@@ -3657,7 +3657,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Determine & Get Rid of Keto Side Effects? – Dr. Berg
 
@@ -3695,7 +3695,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # I Have No Appetite, Should I Eat? – Dr. Berg
 
@@ -3755,7 +3755,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Ketosis is Hard Wired Into Our Genetics – Dr. Berg
 
@@ -3811,7 +3811,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg's New Keto Coach Certification
 
@@ -3829,7 +3829,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Does Intermittent Fasting Causes Gallstones? – Dr. Berg
 
@@ -3881,7 +3881,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Am I Not Losing Weight On Ketosis? – Dr. Berg
 
@@ -3920,7 +3920,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Do You Feel Lightheaded On Keto Diet & Intermittent Fasting? – Dr. Berg
 
@@ -3960,7 +3960,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Will Eating Fungus (Mushrooms) Give You Fungus? – Dr. Berg
 
@@ -4021,7 +4021,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Keto & Intermittent Fasting Reduces Need For Sleep – Dr. Berg
 
@@ -4061,7 +4061,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Renew & Protect Your Brain Cells | Brain Derived Neurotrophic Factor – Dr. Berg
 
@@ -4125,7 +4125,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Do Women Get Diabetes During Pregnancy? – Dr. Berg
 
@@ -4193,7 +4193,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # High Insulin Before High Blood Sugar Levels – Dr. Berg
 
@@ -4245,7 +4245,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Causes Precocious Puberty? – Dr. Berg
 
@@ -4297,7 +4297,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Unique Benefits of Hazelnuts – Dr. Berg
 
@@ -4363,7 +4363,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can I Overdo Vitamin D?  Vitamin D Toxicity and the Side Effects of Too Much Vitamin D – Dr. Berg
 
@@ -4433,7 +4433,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Does Dr. Berg See Clients Anymore?
 
@@ -4509,7 +4509,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Fat Burning & Keto For Beginners 101 – Dr. Berg
 
@@ -4582,7 +4582,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Will Wheatgrass Juice Powder Kick Me Out of Ketosis? – Dr. Berg
 
@@ -4620,7 +4620,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Eating Causes You To Eat More – Dr. Berg
 
@@ -4683,7 +4683,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg's Supplements
 
@@ -4701,7 +4701,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The True Cause of High Triglycerides – Dr. Berg
 
@@ -4743,7 +4743,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Cheese on Keto Diet – Dr. Berg
 
@@ -4790,7 +4790,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Keto Success Stories – Dr. Berg Interviews Shawn Rega on Keto, Intermittent Fasting & Weight Loss
 
@@ -4879,7 +4879,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg & Karen: Questions & Answers on the Ketogenic Diet and Other Stuff
 
@@ -4970,7 +4970,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Will 7-10 Cups of Salad Give The Total Requirements for Potassium? – Dr. Berg
 
@@ -5023,7 +5023,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Exercise To Boost HGH (Human Growth Hormone) – Dr. Berg
 
@@ -5079,7 +5079,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Keto Foods Does Dr. Berg Eat? – Dr. Berg
 
@@ -5157,7 +5157,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can I Drink Alcohol on Keto (Ketogenic Diet)? – Dr. Berg
 
@@ -5206,7 +5206,7 @@ Calcium Deficiency: Causes, Symptoms, and Management Strategies
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dangers of Fasting for 24 Hours or Longer – Dr. Berg
 
@@ -5259,7 +5259,7 @@ intermittent fasting 是一種有效的健康管理方法，但實施時需考�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Did Ketosis Stop Working? Here's Why! – Dr. Berg
 
@@ -5277,7 +5277,7 @@ intermittent fasting 是一種有效的健康管理方法，但實施時需考�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Best Home Remedies for Parasites – Dr. Berg
 
@@ -5337,7 +5337,7 @@ intermittent fasting 是一種有效的健康管理方法，但實施時需考�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Difference Between Low Cortisol & High Cortisol Symptoms – Dr. Berg
 
@@ -5355,7 +5355,7 @@ intermittent fasting 是一種有效的健康管理方法，但實施時需考�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Am I Feeling So Irritable On Keto (Ketogenic Diet)? – Dr. Berg
 
@@ -5439,7 +5439,7 @@ intermittent fasting 是一種有效的健康管理方法，但實施時需考�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Natural Sources of Omega-3 Fatty Acids – Dr. Berg
 
@@ -5478,7 +5478,7 @@ intermittent fasting 是一種有效的健康管理方法，但實施時需考�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Am I Getting Gas & Bloating on Keto Diet? – Dr. Berg
 
@@ -5496,7 +5496,7 @@ intermittent fasting 是一種有效的健康管理方法，但實施時需考�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Importance of Phosphorus for Energy – Dr. Berg
 
@@ -5563,7 +5563,7 @@ intermittent fasting 是一種有效的健康管理方法，但實施時需考�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Real Reason Why Low-Fat Diets Became So Popular – Dr. Berg
 
@@ -5637,7 +5637,7 @@ intermittent fasting 是一種有效的健康管理方法，但實施時需考�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Pycnogenol?
 
@@ -5678,7 +5678,7 @@ intermittent fasting 是一種有效的健康管理方法，但實施時需考�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Keto (The Ketogenic Diet) Is Considered Dangerous
 
@@ -5749,7 +5749,7 @@ intermittent fasting 是一種有效的健康管理方法，但實施時需考�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is the Dawn Phenomenon?
 

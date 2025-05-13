@@ -6,7 +6,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Bloating Causes: Bloated Belly After Exercise? – Dr. Berg
 
@@ -87,7 +87,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Jaundice Symptoms Explained by Dr.Berg (In Very Simple Terms!!)
 
@@ -144,7 +144,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Biggest Benefit of Intermittent Fasting - Weight Loss or Autophagy? – Dr. Berg
 
@@ -200,7 +200,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Keto-Adaptation and Nutritional Yeast
 
@@ -271,7 +271,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Science Behind Lutein and Brain Health – Dr. Berg on Carotenoids
 
@@ -332,7 +332,7 @@ Lutein 的重要性在於其對視力和腦部健康的保護作用。了解其�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 4 Most Common Causes of Bone Pain – Dr. Berg
 
@@ -391,7 +391,7 @@ Lutein 的重要性在於其對視力和腦部健康的保護作用。了解其�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Slow Weight Loss In Menopause? – Dr. Berg Explains Why It Takes So Long
 
@@ -409,7 +409,7 @@ Lutein 的重要性在於其對視力和腦部健康的保護作用。了解其�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Should You Stop Eating Snacks At Nighttime? – Dr. Berg On Late Night Cravings
 
@@ -473,7 +473,7 @@ Lutein 的重要性在於其對視力和腦部健康的保護作用。了解其�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Best Recovery Supplement After A Workout | Dr.Berg on Post Workout Nutrition
 
@@ -535,7 +535,7 @@ D-ribose被視為一種有效的營養補充劑，尤其是在需要加速ATP再
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr.Berg On Identifying Type 1 Diabetes – Insulin And Potassium Relationship
 
@@ -593,7 +593,7 @@ D-ribose被視為一種有效的營養補充劑，尤其是在需要加速ATP再
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Not Losing Weight On A Very Low Calorie Diet? – Dr. Berg Explains Why
 
@@ -661,7 +661,7 @@ The Dynamics of Low-Calorie Dieting: Understanding Metabolic Adaptations and Eff
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Women Crave Chocolate During Their Menstrual Cycle? – Dr. Berg on Period Cravings
 
@@ -719,7 +719,7 @@ The Dynamics of Low-Calorie Dieting: Understanding Metabolic Adaptations and Eff
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Top 10 Nutrient Blockers – Dr.Berg
 
@@ -829,7 +829,7 @@ The Dynamics of Low-Calorie Dieting: Understanding Metabolic Adaptations and Eff
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Prevent Macular Degeneration – Dr. Berg
 
@@ -894,7 +894,7 @@ The Dynamics of Low-Calorie Dieting: Understanding Metabolic Adaptations and Eff
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Much Salt on Keto Diet? – Dr. Berg
 
@@ -941,7 +941,7 @@ The Dynamics of Low-Calorie Dieting: Understanding Metabolic Adaptations and Eff
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why To Add Healthy FATS To Your Salads? – Dr. Berg
 
@@ -1005,7 +1005,7 @@ The Dynamics of Low-Calorie Dieting: Understanding Metabolic Adaptations and Eff
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Diabetics Patients Get High Blood Pressure? – Dr.Berg on Diabetes
 
@@ -1069,7 +1069,7 @@ The Dynamics of Low-Calorie Dieting: Understanding Metabolic Adaptations and Eff
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Relation Between Ketosis & Uric Acid Stones – Dr.Berg on Keto Kidney Stones
 
@@ -1121,7 +1121,7 @@ The Dynamics of Low-Calorie Dieting: Understanding Metabolic Adaptations and Eff
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Stress-Induced Weight Gain & Cortisol – Dr.Berg's Skype Interview With Cheryl Style
 
@@ -1198,7 +1198,7 @@ The Dynamics of Low-Calorie Dieting: Understanding Metabolic Adaptations and Eff
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr.Berg's Take On Exogenous Ketone Pills (Keto BHB Supplement Review)
 
@@ -1216,7 +1216,7 @@ The Dynamics of Low-Calorie Dieting: Understanding Metabolic Adaptations and Eff
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Ultimate Muscle Building Nutrition Guide with Dr. Berg
 
@@ -1273,7 +1273,7 @@ The Dynamics of Low-Calorie Dieting: Understanding Metabolic Adaptations and Eff
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is CoQ10? – Dr.Berg Shares Coenzyme CoQ10 Benefits
 
@@ -1337,7 +1337,7 @@ The Dynamics of Low-Calorie Dieting: Understanding Metabolic Adaptations and Eff
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr.Berg Gives Best Tip on Autoimmune Disorders & Conditions – Autoimmune Diseases
 
@@ -1393,7 +1393,7 @@ The Dynamics of Low-Calorie Dieting: Understanding Metabolic Adaptations and Eff
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can You Have Normal Blood Sugar And Still Be Insulin Resistant? – Dr.Berg
 
@@ -1438,7 +1438,7 @@ The Dynamics of Low-Calorie Dieting: Understanding Metabolic Adaptations and Eff
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # If I Have Arthritis, Should I Avoid the Nightshade Foods? – Dr.Berg
 
@@ -1499,7 +1499,7 @@ The Dynamics of Low-Calorie Dieting: Understanding Metabolic Adaptations and Eff
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Amazing Health & Nutritional Benefits Of Basil | Dr. Berg
 
@@ -1563,7 +1563,7 @@ Basil 不僅是一種常見的香料，在烹調中提升風味，更具有多�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Gamma Linolenic Acid (GLA)? - Dr. Berg
 
@@ -1602,7 +1602,7 @@ Basil 不僅是一種常見的香料，在烹調中提升風味，更具有多�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Bladder Stones: Causes, Symptoms & Remedies | Dr. Berg
 
@@ -1656,7 +1656,7 @@ Basil 不僅是一種常見的香料，在烹調中提升風味，更具有多�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # In Ketosis But No Ketones In Urine? – Dr. Berg
 
@@ -1713,7 +1713,7 @@ Basil 不僅是一種常見的香料，在烹調中提升風味，更具有多�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Stress & Anti Stress Hormones (Cortisol & Serotonin) Explained By Dr.Berg
 
@@ -1799,7 +1799,7 @@ Basil 不僅是一種常見的香料，在烹調中提升風味，更具有多�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg's New Books Now on Kindle
 
@@ -1864,7 +1864,7 @@ Basil 不僅是一種常見的香料，在烹調中提升風味，更具有多�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Will Small Frequent Meals Throughout The Day Enhance Metabolism? – Dr. Berg
 
@@ -1911,7 +1911,7 @@ Basil 不僅是一種常見的香料，在烹調中提升風味，更具有多�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Thyroid Success with Keto and Intermittent Fasting – Dr.Berg Interviews Vicki Bales-Humble
 
@@ -1995,7 +1995,7 @@ Basil 不僅是一種常見的香料，在烹調中提升風味，更具有多�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Best Medicine To Get Rid Of Thick Mucus – Dr.Berg [30 seconds]
 
@@ -2048,7 +2048,7 @@ Basil 不僅是一種常見的香料，在烹調中提升風味，更具有多�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Benefits and Uses of Wheatgrass Juice Powder for Skin Problems – Dr. Berg
 
@@ -2092,7 +2092,7 @@ Basil 不僅是一種常見的香料，在烹調中提升風味，更具有多�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Keto Diet and Intermittent Fasting Success Story – Dr.Berg Interviews Mark Christopher
 
@@ -2167,7 +2167,7 @@ This structured summary captures the essence of the article, presenting key poin
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Difficulty Getting Pregnant? – Dr. Berg’s Advice On Fertility Vitamins
 
@@ -2226,7 +2226,7 @@ This structured summary captures the essence of the article, presenting key poin
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Spinal Stenosis And It's Causes Explained By Dr. Berg
 
@@ -2296,7 +2296,7 @@ This structured summary captures the essence of the article, presenting key poin
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Before-After Using Keto & Intermittent Fasting – Dr.Berg Skype with Jennifer Lai
 
@@ -2358,7 +2358,7 @@ This structured summary captures the essence of the article, presenting key poin
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Insulin Works? – Insulin Resistance & Belly Fat Simplified by Dr.Berg
 
@@ -2439,7 +2439,7 @@ This structured summary captures the essence of the article, presenting key poin
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can You Be Allergic to the Sun? – Dr.Berg on Sun Allergy and Niacin Deficiency
 
@@ -2482,7 +2482,7 @@ This structured summary captures the essence of the article, presenting key poin
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg's New Body Type Guide: FINALLY HERE!
 
@@ -2560,7 +2560,7 @@ This structured summary captures the essence of the article, presenting key poin
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Keto Weight Loss - Intermittent Fasting [Before & After] – Dr.Berg's Interview With Donovan Duke
 
@@ -2578,7 +2578,7 @@ This structured summary captures the essence of the article, presenting key poin
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Causes & Symptoms of Hypokalemia – Dr. Berg on Potassium Deficiency
 
@@ -2652,7 +2652,7 @@ This structured summary captures the essence of the article, presenting key poin
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Ketosis & Intermittent Fasting  Before-After: Dr. Berg Skype with Joe Busuttil
 
@@ -2734,7 +2734,7 @@ This structured summary captures the essence of the article, presenting key poin
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Endurance Athletes and Ketosis
 
@@ -2774,7 +2774,7 @@ This structured summary captures the essence of the article, presenting key poin
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Does Eating Vegetable Carbs Slow Weight Loss? – Dr. Berg
 
@@ -2852,7 +2852,7 @@ This structured summary captures the essence of the article, presenting key poin
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 6 Important Tips For Doing Keto with a Sluggish Gallbladder – Dr.Berg
 
@@ -2932,7 +2932,7 @@ This structured summary captures the essence of the article, presenting key poin
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Will Fasting Slow Down Your Metabolism? – Dr. Berg's Answer
 
@@ -2995,7 +2995,7 @@ This structured summary captures the essence of the article, presenting key poin
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Statins: Side Effects & Alternative Ways to Lower Cholesterol by Dr.Berg
 
@@ -3059,7 +3059,7 @@ Statins 虽然在降低心脏病风险方面有一定效果，但其潜在副作
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is "5-Hour Energy" Drink Bad For You? – Dr. Berg
 
@@ -3105,7 +3105,7 @@ Statins 虽然在降低心脏病风险方面有一定效果，但其潜在副作
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Potassium Makes Muscle Growth? – Dr.Berg's Answer
 
@@ -3151,7 +3151,7 @@ Statins 虽然在降低心脏病风险方面有一定效果，但其潜在副作
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Will a Sugar-Free Diet Help Me to Lose Weight? – Dr. Berg on Weight Loss
 
@@ -3211,7 +3211,7 @@ Statins 虽然在降低心脏病风险方面有一定效果，但其潜在副作
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Does Stevia Spike Insulin? – Dr. Berg
 
@@ -3259,7 +3259,7 @@ Statins 虽然在降低心脏病风险方面有一定效果，但其潜在副作
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Type of Protein Is Best For Weight Loss? – Dr. Berg
 
@@ -3342,7 +3342,7 @@ Statins 虽然在降低心脏病风险方面有一定效果，但其潜在副作
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Make a Healthier Lemonade or Limeade? – Dr. Berg On Keto Lemonade
 
@@ -3396,7 +3396,7 @@ Statins 虽然在降低心脏病风险方面有一定效果，但其潜在副作
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Top 8 Health Benefits of Green Tea – Dr. Berg
 
@@ -3457,7 +3457,7 @@ Statins 虽然在降低心脏病风险方面有一定效果，但其潜在副作
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Take Manganese for Herniated Disc & Strengthening Ligaments – Dr.Berg
 
@@ -3499,7 +3499,7 @@ Statins 虽然在降低心脏病风险方面有一定效果，但其潜在副作
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Read Food Labels? – Important Tips by Dr. Berg
 
@@ -3554,7 +3554,7 @@ Statins 虽然在降低心脏病风险方面有一定效果，但其潜在副作
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Causes Leg Cramps Even If You are Taking Minerals? – Dr. Berg
 
@@ -3609,7 +3609,7 @@ Statins 虽然在降低心脏病风险方面有一定效果，但其潜在副作
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Relieve Peripheral Neuropathy Pain? – Dr. Berg
 
@@ -3653,7 +3653,7 @@ Statins 虽然在降低心脏病风险方面有一定效果，但其潜在副作
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Thyroid & Importance of Vitamin A – Dr.Berg
 
@@ -3702,7 +3702,7 @@ Statins 虽然在降低心脏病风险方面有一定效果，但其潜在副作
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Arsenic Dangerous in Sea Kelp? – Dr.Berg
 
@@ -3740,7 +3740,7 @@ Statins 虽然在降低心脏病风险方面有一定效果，但其潜在副作
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 4 Natural Aspirin Alternatives – Dr. Berg
 
@@ -3806,7 +3806,7 @@ Aspirin雖然有其醫療價值，但其潛在的副作用不容忽視。通過�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Keto Diet Diarrhea – Causes & Treatments By Dr. Berg
 
@@ -3850,7 +3850,7 @@ Aspirin雖然有其醫療價值，但其潛在的副作用不容忽視。通過�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Connection Between Insulin Resistance and Vitamin C Deficiency - Dr. Berg
 
@@ -3901,7 +3901,7 @@ Aspirin雖然有其醫療價值，但其潛在的副作用不容忽視。通過�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Relieve Chronic Pain After Surgery? – Dr. Berg
 
@@ -3960,7 +3960,7 @@ Aspirin雖然有其醫療價值，但其潛在的副作用不容忽視。通過�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Reason Why You Feel So Irritable on Keto ? – Dr. Berg on Mood Swings & Ketosis
 
@@ -4012,7 +4012,7 @@ Aspirin雖然有其醫療價值，但其潛在的副作用不容忽視。通過�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Should You Skip Breakfast? – Dr. Berg
 
@@ -4066,7 +4066,7 @@ Aspirin雖然有其醫療價值，但其潛在的副作用不容忽視。通過�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 9 Factors You Need to Know About Protein – Dr. Berg
 
@@ -4149,7 +4149,7 @@ Dr. Berg 强調了多方面因素影響蛋白質攝取與吸收，並提供具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Spoon Nails: Causes & Treatments By Dr. Berg
 
@@ -4213,7 +4213,7 @@ Dr. Berg 强調了多方面因素影響蛋白質攝取與吸收，並提供具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Benefits of Almond Flour - Dr. Berg
 
@@ -4257,7 +4257,7 @@ Dr. Berg 强調了多方面因素影響蛋白質攝取與吸收，並提供具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can Drinking More Water Help You To Lose Weight? – Dr. Berg
 
@@ -4302,7 +4302,7 @@ Dr. Berg 强調了多方面因素影響蛋白質攝取與吸收，並提供具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Type of Foods Trigger Ketosis? – Dr. Berg
 
@@ -4357,7 +4357,7 @@ Dr. Berg 强調了多方面因素影響蛋白質攝取與吸收，並提供具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Knee Osteoarthritis: Bone On Bone Knee Pain Relief Treatment By Dr.Berg
 
@@ -4413,7 +4413,7 @@ Dr. Berg 强調了多方面因素影響蛋白質攝取與吸收，並提供具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can Kids Do Intermittent Fasting? – Dr. Berg On Kids Diet
 
@@ -4470,7 +4470,7 @@ Dr. Berg 强調了多方面因素影響蛋白質攝取與吸收，並提供具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Which Nutritional Deficiency Causes ADHD? – Dr. Berg
 
@@ -4563,7 +4563,7 @@ Dr. Berg 强調了多方面因素影響蛋白質攝取與吸收，並提供具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Is Caffeine & How Does It Works? – Dr. Berg
 
@@ -4608,7 +4608,7 @@ Dr. Berg 强調了多方面因素影響蛋白質攝取與吸收，並提供具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Causes & Symptoms Of Calcium Deficiency – Dr. Berg
 
@@ -4681,7 +4681,7 @@ Calcium deficiency 可能導致多種健康問題，但通過飲食調整和適�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Amazing Health Benefits of Maitake Mushroom – Dr.Berg
 
@@ -4761,7 +4761,7 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to "SAVE TIME" When Losing Weight? – Fast Weight Loss Tips by Dr. Berg
 
@@ -4839,7 +4839,7 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Organ Meats – Unhealthy or Healthy? – Dr. Berg On Keto Meats
 
@@ -4890,7 +4890,7 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Get Rid Of Ankle Pain? – Try Dr Berg's Pain Relief Treatment!
 
@@ -4946,7 +4946,7 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Amazing Health Benefits of Zinc – Dr. Berg
 
@@ -4989,7 +4989,7 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 10 Interesting Tips On Vegetables – Dr. Berg On Veggies
 
@@ -5045,7 +5045,7 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Do We Really Need Fat In Our Diet? – Dr.Berg on Fatty Acids & Fat Soluble Vitamins
 
@@ -5103,7 +5103,7 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Relationship Between Insulin Resistance & Vitamin Deficiency – Dr.Berg
 
@@ -5153,7 +5153,7 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Hemorrhoids Treatment – Best Remedy & Cure For Hemorrhoids by Dr.Berg
 
@@ -5198,7 +5198,7 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Are You Salt Sensitive or Potassium Deficient? - Dr. Berg on Hyponatremia and Hypokalemia
 
@@ -5269,7 +5269,7 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # [Prebiotics vs.Probiotics] Difference Between Prebiotics And Probiotics – Dr.Berg
 
@@ -5336,7 +5336,7 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Worst Advice Given To Diabetics – Dr.Berg on High Blood Sugar & Insulin
 
@@ -5402,7 +5402,7 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Best Tip For Rheumatoid Arthritis – Joint Pain Relief By Dr.Berg
 
@@ -5459,7 +5459,7 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Best Natural & Home Remedies To Get Rid Of Dandruff – Dr. Berg
 
@@ -5511,7 +5511,7 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Causes Liver Spots (Age Spots)? – Dr. Berg on Vitamin C Deficiency
 
@@ -5587,7 +5587,7 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Am I Not Losing Weight While Others Are? – Dr. Berg
 
@@ -5640,7 +5640,7 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Causes Burping? – Dr.Berg
 
@@ -5715,7 +5715,7 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Causes Bruising (Without Trauma) – Dr. Berg
 
@@ -5753,7 +5753,7 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Gallbladder Removed: Can I Eat What I Want? – Dr. Berg
 
@@ -5833,7 +5833,7 @@ Maitake Mushroom 作为一种天然藥物，在抗癌、免疫調節和代謝疾
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Health Benefits of Kimchi - Dr. Berg
 
@@ -5891,7 +5891,7 @@ Kimchi 作為一種傳統韓國發酵食品，在現代健康飲食中佔有重�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Receding Gums and Vitamin C Explained By Dr.Berg
 

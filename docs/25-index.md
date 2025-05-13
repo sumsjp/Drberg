@@ -6,7 +6,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What’s So Good About Tahini Butter?
 
@@ -50,7 +50,7 @@ Tahini Butter 是一種高營養價值的食品，適合追求健康飲食的人
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Detox and Die-Off: The Herxheimer Reaction
 
@@ -96,7 +96,7 @@ Tahini Butter 是一種高營養價值的食品，適合追求健康飲食的人
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Amazing Benefits of Alpha-Lipoic Acid
 
@@ -168,7 +168,7 @@ Tahini Butter 是一種高營養價值的食品，適合追求健康飲食的人
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Sodium-Potassium Ratio is More Important Than a Low Sodium Diet
 
@@ -218,7 +218,7 @@ Tahini Butter 是一種高營養價值的食品，適合追求健康飲食的人
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Will Eating More Fat Knock Me Out of Ketosis?
 
@@ -286,7 +286,7 @@ Tahini Butter 是一種高營養價值的食品，適合追求健康飲食的人
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Restless Leg Syndrome – Dr.Berg on Thiamine Deficiency and Restless Leg Syndrome Connection
 
@@ -331,7 +331,7 @@ Tahini Butter 是一種高營養價值的食品，適合追求健康飲食的人
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 5 Weird Things That Trigger Excessive Sneezing
 
@@ -417,7 +417,7 @@ Tahini Butter 是一種高營養價值的食品，適合追求健康飲食的人
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 15 Non-Infectious Causes of a Fever Explained by Dr.Berg
 
@@ -435,7 +435,7 @@ Tahini Butter 是一種高營養價值的食品，適合追求健康飲食的人
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Will MSG Knock You Out of Ketosis?
 
@@ -484,7 +484,7 @@ Tahini Butter 是一種高營養價值的食品，適合追求健康飲食的人
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Benefits of Intermittent Hypoxic Training (IHT)
 
@@ -567,7 +567,7 @@ Tahini Butter 是一種高營養價值的食品，適合追求健康飲食的人
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Causes Nosebleeds/Epistaxis – 8 Common Causes of Nose Bleeding – Dr.Berg
 
@@ -634,7 +634,7 @@ Tahini Butter 是一種高營養價值的食品，適合追求健康飲食的人
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can Meat (Beef) Spike My Estrogen Levels?
 
@@ -703,7 +703,7 @@ Tahini Butter 是一種高營養價值的食品，適合追求健康飲食的人
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Fix Your Low Estrogen Levels
 
@@ -796,7 +796,7 @@ Tahini Butter 是一種高營養價值的食品，適合追求健康飲食的人
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Depression Genetic? Dr.Berg Explains 11 Causes of Depression
 
@@ -859,7 +859,7 @@ Tahini Butter 是一種高營養價值的食品，適合追求健康飲食的人
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Are you Hungry, Even When You Are Full?
 
@@ -877,7 +877,7 @@ Tahini Butter 是一種高營養價值的食品，適合追求健康飲食的人
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 8 Reasons Why You Should Eat More Sauerkraut
 
@@ -961,7 +961,7 @@ Sauerkraut 是一種極具健康價值的發酵食品，提供了多種關鍵營
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Causes Low Blood Pressure? – Dr.Berg
 
@@ -1081,7 +1081,7 @@ Sauerkraut 是一種極具健康價值的發酵食品，提供了多種關鍵營
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Bogus Diagnosis Disorder
 
@@ -1144,7 +1144,7 @@ Sauerkraut 是一種極具健康價值的發酵食品，提供了多種關鍵營
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Are Children So Vitamin D Deficient?
 
@@ -1215,7 +1215,7 @@ Sauerkraut 是一種極具健康價值的發酵食品，提供了多種關鍵營
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Benefits of Broccoli Sprouts to Support Breast and Prostate Tissue | Dr.Berg
 
@@ -1284,7 +1284,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What To Do After a Stroke: IMPORTANT
 
@@ -1329,7 +1329,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can the Ketogenic Diet Cause Brain Tumors (Glioblastomas)?
 
@@ -1373,7 +1373,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Eggs Increase Risk of Heart Disease: New Study Says...Really?
 
@@ -1428,7 +1428,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Never Take Bile Salts with These 3 Conditions
 
@@ -1479,7 +1479,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Heart Attack vs. Heartburn: How to Tell the Difference?
 
@@ -1553,7 +1553,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best 7 Herbal Diuretics for Fluid Retention
 
@@ -1660,7 +1660,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Best Remedy (Antidote) for Tylenol Poisoning
 
@@ -1717,7 +1717,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # When NOT to Take Apple Cider Vinegar (ACV)
 
@@ -1794,7 +1794,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # You Have Good and Bad LDL (low-density lipoprotein)
 
@@ -1854,7 +1854,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Identify Arsenic Poisoning Through Your Nails
 
@@ -1909,7 +1909,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Benefits of a Marshmallow....Root
 
@@ -1967,7 +1967,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # When Should You Not Take Extra Potassium?
 
@@ -2040,7 +2040,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Hidden Cause of a Manganese Deficiency
 
@@ -2108,7 +2108,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Do Microwaves Actually Lower Your Nutrients in Food?
 
@@ -2153,7 +2153,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Nutritional Deficiencies That Cause Stress
 
@@ -2171,7 +2171,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Popcorn vs. Puffed Rice Cakes
 
@@ -2229,7 +2229,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Muscle Twitching After Starting Keto Diet? – Dr.Berg on Muscle Twitch After Keto
 
@@ -2290,7 +2290,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Use Hydrogen Peroxide as Your Mouthwash
 
@@ -2337,7 +2337,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Truth About Fasting: What Really Happens to Your Body?
 
@@ -2382,7 +2382,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Cholesterol is so Biologically Important – Cholesterol Function – Dr.Berg
 
@@ -2444,7 +2444,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Onions, The Best Food for Alopecia Treatment – Dr.Berg
 
@@ -2488,7 +2488,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Problem with Stevia
 
@@ -2546,7 +2546,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can Intermittent Fasting Reverse a Fatty Liver? Fasting as Remedy for Fatty Liver – Dr. Berg
 
@@ -2594,7 +2594,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Fasting Healthy for a Diabetic?
 
@@ -2654,7 +2654,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Do You Have Copper Toxicity?
 
@@ -2705,7 +2705,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Skipping Breakfast Only Works IF You Are On Keto
 
@@ -2747,7 +2747,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Eat Celery to Sleep and Lower Cortisol
 
@@ -2806,7 +2806,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Fastest Growing Disease in the World is...
 
@@ -2870,7 +2870,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 4 Ways to Lower Ammonia in the Brain
 
@@ -2922,7 +2922,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Are You Dependent on Caffeine for Energy? Caffeine Side Effects & Dependence – Dr.Berg
 
@@ -2940,7 +2940,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Alzheimer's Disease? – The Alzheimer's Brain – Dr.Berg
 
@@ -3025,7 +3025,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why is my Systolic Blood Pressure High?
 
@@ -3083,7 +3083,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Simplicity of How to Burn Fat 24/7
 
@@ -3150,7 +3150,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Diabetic Brain
 
@@ -3199,7 +3199,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Do You Subtract Sugar Alcohol Sweeteners for Net Carbs on Keto
 
@@ -3251,7 +3251,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why do Nutrients Get Depleted When Eating Sugar?
 
@@ -3323,7 +3323,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Causes Endometriosis?
 
@@ -3380,7 +3380,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Will Drinking Mineral Water Cause Kidney Stones? – Dr.Berg
 
@@ -3436,7 +3436,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # High Cortisol Ruining Your Restful Sleep? – Cortisol and Sleep Connection – Dr.Berg
 
@@ -3506,7 +3506,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Minnesota Starvation Experiment
 
@@ -3556,7 +3556,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 11 Causes of Achy Legs
 
@@ -3619,7 +3619,7 @@ Broccoli sprouts 中的 sulforaphane 具備顯著的抗癌、抗氧化和排毒�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Cilantro Good For?
 
@@ -3684,7 +3684,7 @@ Cilantro 不僅是一種多用途的香草植物，還具有顯著的抗氧化�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Do I Get Sick When I Exercise?
 
@@ -3741,7 +3741,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The 8 Causes of Numbness in the Body
 
@@ -3785,7 +3785,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Benefits of Zinc for a Deeper Sleep
 
@@ -3856,7 +3856,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is IMO Syrup (Fiber) Keto Friendly: Isomaltooligosaccharides?
 
@@ -3916,7 +3916,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Benefits of Black Currant Seed Oil
 
@@ -3967,7 +3967,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can High Doses of Potassium Be Toxic?
 
@@ -4034,7 +4034,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Deal With Ringworm Naturally
 
@@ -4076,7 +4076,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # CT Scan (CAT Scan) versus MRI: How They Differ
 
@@ -4134,7 +4134,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Get Your Thyroid to Work Correctly
 
@@ -4232,7 +4232,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Are Whole Grains Destroying Your Brain?
 
@@ -4282,7 +4282,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Grass-Fed vs. Grass-Finished Beef: Big Difference
 
@@ -4328,7 +4328,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Fasting, Appetite and Nutrient Levels
 
@@ -4416,7 +4416,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Vitamin K2 and Pathological Calcification
 
@@ -4510,7 +4510,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The 7 Healthy Eating Hacks
 
@@ -4567,7 +4567,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # America's Favorite Vegetable
 
@@ -4657,7 +4657,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Help a Friend Lose Weight
 
@@ -4719,7 +4719,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Potassium Makes You Energetic
 
@@ -4802,7 +4802,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 5 Things that Make You Susceptible to an Infection
 
@@ -4853,7 +4853,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Did the Ketogenic Diet Spike My Pulse Rate?
 
@@ -4937,7 +4937,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Often Should You Do Intermittent Fasting?
 
@@ -5001,7 +5001,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Does Intermittent Fasting Cause Diabetes
 
@@ -5062,7 +5062,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Left-Sided Abdominal Pain After Eating – Cause Of Abdominal Pain Left Side – Dr.Berg
 
@@ -5080,7 +5080,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Testing Glucose or Ketones: Which is More Important?
 
@@ -5145,7 +5145,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Does Low Carb and Low Insulin Cause Low Muscle Mass?
 
@@ -5230,7 +5230,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Gastric Bypass Reverses Diabetes and Many Diseases
 
@@ -5314,7 +5314,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Food Has the Most Pesticide Residue?
 
@@ -5355,7 +5355,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # MCT Oil (Medium Chain Triglycerides): The Different Types
 
@@ -5406,7 +5406,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Fasting Good or Bad for the Liver?
 
@@ -5480,7 +5480,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Eric Berg's YouTube Channel
 
@@ -5498,7 +5498,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Keto Trolls (Haters): The Best Way to Deal With Them
 
@@ -5540,7 +5540,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # My Opinion on The Game Changers Film
 
@@ -5617,7 +5617,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg’s Healthy Keto Success Stories
 
@@ -5676,7 +5676,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # I Tried Keto But It Didn't Work
 
@@ -5772,7 +5772,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg Live Q&A, Thursday (November 7) on the Ketogenic Diet and Intermittent Fasting
 
@@ -5834,7 +5834,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Key to Long Term Weight Loss is...
 
@@ -5910,7 +5910,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Right-Sided Abdominal Pain After Eating? – Cause Of Abdominal Pain Right Side – Dr.Berg
 
@@ -5928,7 +5928,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Freezing Vegetables: Do You Lose Nutrients?
 
@@ -5988,7 +5988,7 @@ L-谷氨酰胺在維持免疫功能和腸道屏障完整性中起著關鍵作用
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why I Recommend Eating Anise Seeds | Benefits of Anise Seeds
 

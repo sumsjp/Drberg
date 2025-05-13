@@ -6,7 +6,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Fat-to-Protein Ratio on Keto: Healthy vs. Gut Issues
 
@@ -75,7 +75,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Peripheral Neuropathy Diabetes – Best Diet for Peripheral Neuropathy – Dr.Berg
 
@@ -127,7 +127,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Heat Intolerance – One Deeper Cause – Low Vitamin B1 & Heat Intolerance – Dr.Berg
 
@@ -173,7 +173,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Sleep Off Your Belly Fat
 
@@ -264,7 +264,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Keto Desserts and Gut Issues
 
@@ -356,7 +356,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Important Unknown Purpose of Magnesium
 
@@ -431,7 +431,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Tired While Doing Intermittent Fasting? tired while fasting
 
@@ -504,7 +504,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The HUGE Problem with the Glycemic Index (GI)
 
@@ -581,7 +581,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Asthma, Vitamin D and Remodeling of the Lung
 
@@ -628,7 +628,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Worst Way to Convince People to do Keto
 
@@ -646,7 +646,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Does Inflammation Cause Diabetes?
 
@@ -736,7 +736,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The FIRST Symptom / Early Signs of Fatty Liver – Dr.Berg
 
@@ -791,7 +791,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Isn't Our Body Supposed to Run on Sugar?
 
@@ -843,7 +843,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Noom Weight Loss: Dr. Berg's Opinion
 
@@ -922,7 +922,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How do Probiotics Work for Fatty Liver Disease? – Dr. Berg
 
@@ -961,7 +961,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # High Pulse Rate on Keto? Do This...
 
@@ -1023,7 +1023,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Interesting Cause of Air Hunger (Difficulty Breathing) – Dr.Berg on Shortness of Breath
 
@@ -1100,7 +1100,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Bigger Problem with Chronic Inflammation
 
@@ -1161,7 +1161,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 5 Reasons for Cold Intolerance – Nutritional Deficiencies & Feeling Cold – Dr.Berg
 
@@ -1233,7 +1233,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Two Reasons for Chronic Sinus Congestion – Sinus Remedies by Dr.Berg
 
@@ -1309,7 +1309,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to be Calm
 
@@ -1360,7 +1360,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why is Vitamin A Named Retinol?
 
@@ -1412,7 +1412,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Detoxify 1000s of Chemicals From Your Body Just With Food
 
@@ -1454,7 +1454,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Your Child Clumsy or Not Coordinated?
 
@@ -1516,7 +1516,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Most Powerful Skin Vitamin: Not Vitamin C or E
 
@@ -1560,7 +1560,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Hidden Sources of Gluten: Surprising
 
@@ -1614,7 +1614,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Real Benefit of Rebounding Exercise
 
@@ -1662,7 +1662,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Use Vitamin A for Kidney Stones – Vitamin A Deficiency & Kidney Stones – Dr.Berg
 
@@ -1703,7 +1703,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why You Can't Live Without Viruses
 
@@ -1760,7 +1760,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Do I Have High or Low Cortisol – Confusion Clarified on Cortisol Levels by Dr. Berg
 
@@ -1827,7 +1827,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What to do For Lump in Throat? – Remedies by Dr.Berg
 
@@ -1909,7 +1909,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Gained 3 Pounds From Only 1 Pound of Food? How Could This Happen?
 
@@ -1952,7 +1952,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Nuts Are Not a Healthy Snack
 
@@ -2004,7 +2004,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Should the Saliva be Acid or Alkaline?
 
@@ -2057,7 +2057,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Protocol for Calcified Plaque in Your Arteries – Atherosclerosis – Dr.Berg
 
@@ -2126,7 +2126,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Cassava on Keto?
 
@@ -2171,7 +2171,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 10 Benefits of Sheep Cheese
 
@@ -2233,7 +2233,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The 9 Benefits of Bile Salts
 
@@ -2299,7 +2299,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is a Niacin Flush Harmful or Dangerous?
 
@@ -2358,7 +2358,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Fix Your Short Term Memory Loss – Hippocampus Repair – Dr.Berg
 
@@ -2445,7 +2445,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Any Benefit of Fasting for 14 Hours?
 
@@ -2488,7 +2488,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Vitiligo: Do These 3 Things
 
@@ -2544,7 +2544,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The 10 Benefits of Fiber
 
@@ -2601,7 +2601,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Feeling Worse with Apple Cider Vinegar (ACV)?
 
@@ -2675,7 +2675,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Swollen Face and Puffy Eyes: An Easy Fix
 
@@ -2714,7 +2714,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Fiber and Gallstones
 
@@ -2753,7 +2753,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Darkened Skin Spots: 3 Causes of Dark Spots on Skin – Dr.Berg
 
@@ -2811,7 +2811,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Hyperkalemia (High Blood Potassium Levels) – Hyperkalemia Symptoms & Treatment – Dr.Berg
 
@@ -2879,7 +2879,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Tanning Beds: Any Vitamin D?
 
@@ -2944,7 +2944,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Still Hungry in the Morning While Fasting and Doing Keto?
 
@@ -3016,7 +3016,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Nutrient for FEAR
 
@@ -3063,7 +3063,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Non-Stress Cause of Adrenal Fatigue Symptoms – Vitamin B1/Thiamine Deficiency – Dr.Berg
 
@@ -3140,7 +3140,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Worst Intermittent Fasting Pattern is...
 
@@ -3183,7 +3183,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # You Don't Get Vitamin A From Vegetables
 
@@ -3232,7 +3232,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Fibrocystic Breast: The Best Remedy is...
 
@@ -3317,7 +3317,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The 7 Nutrient-Dense Foods for Keto
 
@@ -3386,7 +3386,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Fastest Way to Get Rid of Arthritis Knee Pain – Omega Fatty Acids Foods for Arthritis – Dr.Berg
 
@@ -3448,7 +3448,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Good and Bad Ways to Trigger Ketosis
 
@@ -3528,7 +3528,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 6 Benefits of a High Fat Diet
 
@@ -3587,7 +3587,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Number ONE Cause of Chronic Fatigue: 50 Years or Older
 
@@ -3642,7 +3642,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Importance of Selenium for the Thyroid
 
@@ -3697,7 +3697,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Causes a Goiter? Iodine Deficiency & Thyroid Nodules – Dr.Berg
 
@@ -3759,7 +3759,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Iron Deficiency Symptoms and Causes of Anemia – Dr.Berg
 
@@ -3819,7 +3819,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Hidden Reason for Prostate Enlargement – Dr.Berg
 
@@ -3892,7 +3892,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Use Iodine for Skin Tags and Warts – Dr.Berg on Skin Tag Removal
 
@@ -3948,7 +3948,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Black Tea: Its Most Powerful Benefit
 
@@ -4051,7 +4051,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Use Chromium Picolinate for Insulin Resistance – Benefits of Chromium – Dr. Berg
 
@@ -4126,7 +4126,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Your Fat Giving You Inflammation?
 
@@ -4183,7 +4183,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Testosterone Therapy Spiking Estrogen? Why
 
@@ -4259,7 +4259,7 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Lose Postmenopausal Weight
 
@@ -4314,7 +4314,7 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Celery Juice vs. Sodium Nitrates in Hot Dogs
 
@@ -4332,7 +4332,7 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # #1 Cause of Hypertension – Hyperinsulinemia and High Insulin Levels – Dr.Berg
 
@@ -4407,7 +4407,7 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # B1 Deficiency After Antibiotics
 
@@ -4466,7 +4466,7 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Chronic Inflammation Causes Anemia (Iron Deficiency) – Anemia of Chronic Disease – Dr.Berg
 
@@ -4511,7 +4511,7 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 5 Benefits of Stinging Nettle Root
 
@@ -4570,7 +4570,7 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Effective is Chemotherapy, Really?
 
@@ -4635,7 +4635,7 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Always Use Zinc for Diarrhea – Zinc Deficiency & Diarrhea Remedy – Dr.Berg
 
@@ -4709,7 +4709,7 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Spinach is the Worst Source of Iron
 
@@ -4770,7 +4770,7 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Left Side Abdominal Pain Under Ribs – Causes & Remedies Covered by Dr. Berg
 
@@ -4821,7 +4821,7 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Cook Eggs for Maximum Antioxidant Nutrients
 
@@ -4883,7 +4883,7 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Headaches on Keto? Do This...
 
@@ -4977,7 +4977,7 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # High / Low Protein in Your Blood: What Does It Mean?
 
@@ -5038,7 +5038,7 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Raynauds Syndrome – What Can you do for Raynaud's Syndrome – Dr.Berg
 
@@ -5089,7 +5089,7 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Autoimmune Conditions: Key Foods to Avoid
 
@@ -5159,7 +5159,7 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Would Triglycerides Elevate on Keto? Causes of High Triglycerides on Keto – Dr.Berg
 
@@ -5224,7 +5224,7 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 7 Unusual Vitamin B1 Deficiency Symptoms
 
@@ -5281,7 +5281,7 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Most Common Nutrient Deficiency in the Elderly
 
@@ -5372,7 +5372,7 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Drinking Too Much Beer Will Deplete...
 
@@ -5422,7 +5422,7 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Causes of High Creatinine Levels in Blood – Dr.Berg on Elevated Creatinine Levels
 
@@ -5491,7 +5491,7 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Keto isn't Helping My Joint Pain? – Dr.Berg
 
@@ -5537,7 +5537,7 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Does Fasting Increase Adrenaline?
 
@@ -5609,7 +5609,7 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Amazing Dr. Berg Success Story: Joseph Golisano
 
@@ -5671,7 +5671,7 @@ Testosterone Replacement Therapy 虽然有其優點，但可能導致 excess est
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Two Causes for GERD – Gastroesophageal Reflux Disease (Acid Reflux) – Dr.Berg
 
@@ -5730,7 +5730,7 @@ GERD 的發生與多種因素有關，但通過補充維生素D和增加胃酸�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Right-Sided Trap Tightness: An Easy Fix
 
@@ -5797,7 +5797,7 @@ GERD 的發生與多種因素有關，但通過補充維生素D和增加胃酸�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # K2 Inhibits Vascular and Joint Calcification
 
@@ -5856,7 +5856,7 @@ GERD 的發生與多種因素有關，但通過補充維生素D和增加胃酸�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Important Thyroid Tips
 
@@ -5935,7 +5935,7 @@ GERD 的發生與多種因素有關，但通過補充維生素D和增加胃酸�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # My Keto Diet is NOT Working & Hypoglycemia is Back – Here is Why!! Dr.Berg
 
@@ -6002,7 +6002,7 @@ GERD 的發生與多種因素有關，但通過補充維生素D和增加胃酸�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What’s at the Root of an Autoimmune Condition
 
@@ -6058,7 +6058,7 @@ GERD 的發生與多種因素有關，但通過補充維生素D和增加胃酸�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 10 Benefits of L-Arginine
 
@@ -6134,7 +6134,7 @@ L-ARGININE 締造出多方面的健康益處，特別是在心血管健康、血
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The 3rd Purpose of Your Immune System
 

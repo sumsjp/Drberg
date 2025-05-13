@@ -6,7 +6,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Your Brain ONLY Needs Glucose (Carbohydrates) is a MYTH! – Dr.Berg
 
@@ -65,7 +65,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # POTASSIUM: The MOST Important Electrolyte! – Dr. Berg
 
@@ -157,7 +157,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Relieve Upper Neck Pain – Dr.Berg
 
@@ -185,7 +185,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # An APPLE a Day Will NOT Let Your Weight Go Away – Dr. Berg
 
@@ -241,7 +241,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Hormones Made Simple (Part 1, 2 3) - Webinar Registration
 
@@ -306,7 +306,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Forget the Coffee! Do Wheat Grass Juice for ENERGY!
 
@@ -348,7 +348,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Lose Belly Fat as a Vegan – Dr. Berg
 
@@ -424,7 +424,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Causes Insulin Resistance – EXPLAINED By Dr.Berg
 
@@ -501,7 +501,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Prevent Fatty Liver When You Lose Weight – Dr.Berg
 
@@ -569,7 +569,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Pre and Post Workout Meal Myth – DO'S and DON'TS – Dr. Berg
 
@@ -658,7 +658,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Lose Fat by Eating Bacon – Dr. Berg
 
@@ -727,7 +727,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Sodium Myth and Why We Need It! – Dr.Berg
 
@@ -826,7 +826,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Are You Addicted to Sweets or Just Love Them? – Dr. Berg
 
@@ -874,7 +874,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Hidden Environmental Stressors – Dr. Berg
 
@@ -938,7 +938,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why You Can’t Lose Weight? The Real Reason Explained by Dr. Berg
 
@@ -1011,7 +1011,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Update Review on Dr. Berg's Adrenal Membership Site
 
@@ -1057,7 +1057,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Eat Vegetables if You Don't Like Them – Dr. Berg
 
@@ -1130,7 +1130,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Did  You Realize that Most People Drink 50 Gallons of Poison Each Year? – Dr. Berg
 
@@ -1184,7 +1184,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Lose Arm Fat Fast: Tips from Dr. Berg
 
@@ -1297,7 +1297,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Sleep Remedy That May Double Your Fat Burning – Dr.Berg
 
@@ -1379,7 +1379,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Causes Hypoglycemia? – Dr.Berg
 
@@ -1436,7 +1436,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Raw Veggies vs. Cooked Veggies – Dr. Berg
 
@@ -1485,7 +1485,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Worst "Health" Foods for Kids – Dr. Berg
 
@@ -1551,7 +1551,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Top 5 Weight Loss Mistakes – Dr. Berg
 
@@ -1614,7 +1614,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Importance of Hydrochloric acid (HCL) in the Stomach – Dr. Berg
 
@@ -1667,7 +1667,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why PROTEIN Does Not Help Hair Loss, Brittle Nails, and Collagen Loss – Dr.Berg
 
@@ -1722,7 +1722,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Top Symptoms of Magnesium Deficiency – Dr. Berg
 
@@ -1802,7 +1802,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Ovary Body Type? - Dr. Berg
 
@@ -1860,7 +1860,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Liver Body Type? - Dr. Berg
 
@@ -1934,7 +1934,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Best Natural Remedy for Ear Infection – Dr. Berg
 
@@ -1973,7 +1973,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Stretch Tight Hamstrings – Dr. Berg
 
@@ -2016,7 +2016,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Achilles Tendonitis (Heel Spur Pain) Exercises & Stretches – Dr. Berg
 
@@ -2086,7 +2086,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Heart Nutrition Presentation Registration Video
 
@@ -2158,7 +2158,7 @@ Dr. Berg 警示我們，心臟是對營養反應最快的器官之一。通過�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Wheat Grass Juice vs Wheat Grass Juice Powder – Benefits by Dr. Berg
 
@@ -2200,7 +2200,7 @@ Dr. Berg 警示我們，心臟是對營養反應最快的器官之一。通過�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr.Berg explains How to Relieve the Pain after Gallbladder Removal Surgery
 
@@ -2255,7 +2255,7 @@ Dr. Berg 警示我們，心臟是對營養反應最快的器官之一。通過�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Importance of Gallbladder & Side Effects of Gallbladder Surgery – Dr. Berg
 
@@ -2315,7 +2315,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Causes Sleep Apnea & How to Get Rid of it? – Home Remedies by Dr.Berg
 
@@ -2369,7 +2369,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Causes Pimples and How to Get Rid of Acne
 
@@ -2455,7 +2455,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg's Cortisol Support Formula Ingredients - for Adrenal Fatigue
 
@@ -2519,7 +2519,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What causes Kidney Stones & It's Treatment by Dr.Berg
 
@@ -2586,7 +2586,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The 2-Minute Sore Throat Solution
 
@@ -2636,7 +2636,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 2 Simple Stretches / Exercises to Fix Plantar Fasciitis – Dr.Berg
 
@@ -2689,7 +2689,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Gastroesophageal Reflux Disease (GERD) – Causes, Symptoms and Treatment – Dr.Berg
 
@@ -2754,7 +2754,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Diabetes Burnout to Normal Life – Success Story of Dr.Berg's patient
 
@@ -2814,7 +2814,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Success Stories of Diabetes Reversal – Case Study by Dr.Berg
 
@@ -2861,7 +2861,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Long Term Side Effects of Birth Control Pills & It's Alternatives by Dr.Berg
 
@@ -2913,7 +2913,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Get Flat Stomach in a Week – Live Webinar by Dr.Berg
 
@@ -2967,7 +2967,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Chicken Soup for Arthritis Pain Relief – Home Remedies by Dr.Berg
 
@@ -3060,7 +3060,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Low Potassium Epidemic: Dr. Berg Explains Symptoms, Signs, Diet, Causes, and Treatment
 
@@ -3122,7 +3122,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr.Berg Exposes Dr.OZ Show
 
@@ -3211,7 +3211,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg's Massage Tool: what is it used for?
 
@@ -3275,7 +3275,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg's Vitamin D3: how to use it
 
@@ -3363,7 +3363,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 8 Weird Things I Tried to Get Healthy – Dr.Berg
 
@@ -3407,7 +3407,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg's Organic Sea Kelp (Icelandic): and how to use it
 
@@ -3460,7 +3460,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg Trace Minerals: and how to use it
 
@@ -3513,7 +3513,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg's Raw Wheat Grass Juice Powder: how to use it
 
@@ -3583,7 +3583,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg’s Vitamin K2: and How to Use It
 
@@ -3636,7 +3636,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg's Adrenal Night Formula: and how to use it
 
@@ -3711,7 +3711,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg's Adrenal Day Formula: How to use it
 
@@ -3771,7 +3771,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg's Gallbladder Formula: How to Use It
 
@@ -3847,7 +3847,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why are You Tired on Keto – Keto Diet Fatigue Explained by Dr.Berg
 
@@ -3905,7 +3905,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Get Rid Of Cellulite On Thighs & Buttocks? – Dr.Berg
 
@@ -3969,7 +3969,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Download the New DrBerg App for Free
 
@@ -3987,7 +3987,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What To Do If You Have Adrenal Fatigue – Dr. Berg Shows Adrenal Fatigue Exercise
 
@@ -4039,7 +4039,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Most Thyroid Issues Are Secondary to Other Problems – Dr. Berg
 
@@ -4108,7 +4108,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Gallbladder, the Most Ignored Organ – Dr.Berg on Gallbladder Problems
 
@@ -4181,7 +4181,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Cholesterol Function – Amazing Benefits of Cholesterol – Dr. Berg
 
@@ -4224,7 +4224,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The "OTHER" Reasons Why People Can't Lose Weight – Dr.Berg on Weight Loss Barriers
 
@@ -4287,7 +4287,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Insulin is the Cause of Most Major Illnesses – Dr. Berg on High Insulin Levels
 
@@ -4352,7 +4352,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Workout for Cellulite: Dr. Berg's Expert Advice
 
@@ -4407,7 +4407,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Cortisol Effects on Body and Destroy Proteins – Dr.Berg
 
@@ -4479,7 +4479,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Serious Excess Calcium Side Effects (Soft-Tissue Calcium) – Dr.Berg
 
@@ -4556,7 +4556,7 @@ Gallbladder 是身體的重要器官，移除後可能引發多種長期健康�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Deal With Food Cravings By Dr. Berg
 
@@ -4663,7 +4663,7 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to do a Health Evaluation: Dr. Berg's Doctor Training Video
 
@@ -4727,7 +4727,7 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Blood Pressure?
 
@@ -4792,7 +4792,7 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Hair Cortisol Analysis Gone Wrong By Dr.Berg
 
@@ -4835,7 +4835,7 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr.Berg explains 3 Hormones that Affect your Body Shape & Weight Loss
 
@@ -4893,7 +4893,7 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr.Berg finds What Causes Strokes, Vitamin K & Warfarin Diet (Coumadin)
 
@@ -4935,7 +4935,7 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg explains "What are Fat Burning Hormones?" in a Simpler Way
 
@@ -4978,7 +4978,7 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Cortisol? and How Stress Causes Weight Gain? – Dr. Berg
 
@@ -5031,7 +5031,7 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Foods you Need to Avoid to Lose Weight – Diet Analysis by Dr. Berg
 
@@ -5116,7 +5116,7 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Shoulder Muscle Pain – Causes and Treatments for Relief by Dr. Berg
 
@@ -5166,7 +5166,7 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Real Causes of Pain Without Injury – Dr. Berg
 
@@ -5229,7 +5229,7 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is the Nervous System? Explained By Dr. Berg
 
@@ -5282,7 +5282,7 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Deeper Causes of Pain & Inflammation – Dr. Berg
 
@@ -5337,7 +5337,7 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The REAL Reason Why Apple Cider Vinegar Helps with WEIGHT LOSS  - Dr. Berg
 
@@ -5403,7 +5403,7 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Exercise Fat Burning Formula Revealed by Dr.Berg!!
 
@@ -5454,7 +5454,7 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg's Client Success Story: Getting to the Root
 
@@ -5513,7 +5513,7 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why is Weight Loss NOT Natural? – Dr. Berg
 
@@ -5595,7 +5595,7 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # People Who Can't Burn Fat Don't Know the Purpose of FAT! – Dr.Berg
 
@@ -5639,7 +5639,7 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Egg Yolk and Butter Myth – Dr. Berg
 
@@ -5718,7 +5718,7 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Anti Aging
 
@@ -5736,7 +5736,7 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg's Anti-Aging Seminar
 
@@ -5782,7 +5782,7 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Calorie Myth – Why Low Calories Does Not Equal Weight Loss – Dr.Berg
 
@@ -5841,7 +5841,7 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The 4 Electrolytes Signs & Symptoms When Losing Weight – Dr.Berg On Electrolyte Imbalance
 
@@ -5887,7 +5887,7 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 5 Causes of Sleep Problems – Dr. Berg
 
@@ -5969,7 +5969,7 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Causes Cataracts? – Dr. Berg
 
@@ -6021,7 +6021,7 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Find The Perfect Diet For Your Body? – Dr. Berg
 
@@ -6075,7 +6075,7 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Do Acupressure? – Try Dr. Berg's Effective Techniques
 
@@ -6127,7 +6127,7 @@ Cravings 是身體失衡的警訊，而非單純的心理弱點。正確的理�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why It's Hard To Turn Stress (Cortisol) Off? – Dr. Berg
 

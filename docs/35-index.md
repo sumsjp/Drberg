@@ -6,7 +6,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Use Aged Garlic for High Blood Pressure
 
@@ -83,7 +83,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Echinacea is as Effective as Tamiflu for the Flu
 
@@ -101,7 +101,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Bladder Remedy I Know
 
@@ -153,7 +153,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Cortisol (Stress) and Vitamin D Levels
 
@@ -202,7 +202,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Mitochondrial Protector: AMPK
 
@@ -264,7 +264,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Benefits of Hawthorn Berry
 
@@ -307,7 +307,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Four Natural Remedies for Organ Transplant
 
@@ -373,7 +373,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # HIIT vs. Cardio: Which Is Better for Your Heart?
 
@@ -417,7 +417,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Tired on Keto?
 
@@ -502,7 +502,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Causes Gastritis?
 
@@ -576,7 +576,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Carbs Are the Most Important Fuel Source: REALLY?
 
@@ -647,7 +647,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Take Apple Cider Vinegar (AVC) Before Bed
 
@@ -719,7 +719,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Fixing Lumbar Disc Pain
 
@@ -810,7 +810,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Diet for Autism
 
@@ -880,7 +880,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can Ascites Be Fixed?
 
@@ -943,7 +943,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Danger of Getting the Wrong Diagnosis
 
@@ -1037,7 +1037,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # On Keto But Slow Weight Loss
 
@@ -1115,7 +1115,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Who Should NOT Take Magnesium
 
@@ -1171,7 +1171,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Would Happen If You Got 9 hours of Sleep for 7 Days
 
@@ -1229,7 +1229,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Fastest Way To Get Fat That I Know
 
@@ -1276,7 +1276,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Autophagy: Exercise vs. Fasting
 
@@ -1366,7 +1366,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Digestive Issues When Breaking a Fast?
 
@@ -1444,7 +1444,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Vitamin D and Hair Loss
 
@@ -1517,7 +1517,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Garlic Does to the Liver
 
@@ -1535,7 +1535,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can Your Pulse Rate Tell How Long You'll Live?
 
@@ -1597,7 +1597,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 6 Exercises for a Double Chin
 
@@ -1651,7 +1651,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Makes Good Bacteria Turn Bad
 
@@ -1736,7 +1736,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Does the Bullseye Rash Mean Lyme Disease?
 
@@ -1793,7 +1793,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Tea Drinkers Should Be Taking Vitamin B1
 
@@ -1846,7 +1846,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Zinc Starves Deadly Bacteria
 
@@ -1891,7 +1891,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Iodine Good For?
 
@@ -1963,7 +1963,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The First Sign of a Vitamin F Deficiency
 
@@ -2014,7 +2014,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 7 Things that Can Pull You Out of Depression
 
@@ -2093,7 +2093,7 @@ BDNF在腦健康和情緒調節中扮演關鍵角色。雖然無法直接診斷�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Health Benefits of Paprika
 
@@ -2149,7 +2149,7 @@ Paprika富含多種具有抗氧化、抗炎和護眼效果的活性成分。作�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Intermittent Fasting Could Replace Insulin for Diabetes
 
@@ -2214,7 +2214,7 @@ Paprika富含多種具有抗氧化、抗炎和護眼效果的活性成分。作�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The #1 Top Selling Multivitamin in the World
 
@@ -2299,7 +2299,7 @@ Paprika富含多種具有抗氧化、抗炎和護眼效果的活性成分。作�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The 10th Reason Why You Are Vitamin D Deficient
 
@@ -2387,7 +2387,7 @@ Paprika富含多種具有抗氧化、抗炎和護眼效果的活性成分。作�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Master Protector Gene: How to Trigger It
 
@@ -2442,7 +2442,7 @@ Paprika富含多種具有抗氧化、抗炎和護眼效果的活性成分。作�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Tried to Starve Myself to Death, But Something Else Happened
 
@@ -2518,7 +2518,7 @@ Paprika富含多種具有抗氧化、抗炎和護眼效果的活性成分。作�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Fasting Makes You Irritable and Angry
 
@@ -2604,7 +2604,7 @@ Paprika富含多種具有抗氧化、抗炎和護眼效果的活性成分。作�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Don't Chickens that Eat Ticks Get Lyme Disease
 
@@ -2652,7 +2652,7 @@ Paprika富含多種具有抗氧化、抗炎和護眼效果的活性成分。作�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Heart Disease Starts at Age 7
 
@@ -2725,7 +2725,7 @@ Paprika富含多種具有抗氧化、抗炎和護眼效果的活性成分。作�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Stress Destroys Your Muscles
 
@@ -2788,7 +2788,7 @@ Paprika富含多種具有抗氧化、抗炎和護眼效果的活性成分。作�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Curcumin vs. Prozac for Depression: What Does the Data Show
 
@@ -2856,7 +2856,7 @@ Paprika富含多種具有抗氧化、抗炎和護眼效果的活性成分。作�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Use Ginger for Painful Menstrual Period
 
@@ -2920,7 +2920,7 @@ Paprika富含多種具有抗氧化、抗炎和護眼效果的活性成分。作�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Benefits of Moringa
 
@@ -2988,7 +2988,7 @@ Moringa（辣木）作為「奇蹟之樹」，不僅在營養價值上遠超多�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Get More REM Sleep
 
@@ -3070,7 +3070,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Stress Makes Your Hair Gray
 
@@ -3115,7 +3115,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Do You Need a New Liver?
 
@@ -3166,7 +3166,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Animals Resistant to Diseases that Kill Humans
 
@@ -3262,7 +3262,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Health Benefits of Citrus
 
@@ -3318,7 +3318,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Tryptophan Is Better Than Melatonin for Sleep
 
@@ -3336,7 +3336,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Most Unhealthy Diet in the World
 
@@ -3419,7 +3419,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Is Everyone Getting Shingles?
 
@@ -3493,7 +3493,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can Olive Oil be the Next Ibuprofen?
 
@@ -3534,7 +3534,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Do Fasting For Fear-Related Disorder
 
@@ -3604,7 +3604,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Most Common Cause of Hypoglycemia
 
@@ -3689,7 +3689,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Cottage Cheese vs. Plain Yogurt: Which is More Keto?
 
@@ -3739,7 +3739,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Amazing Fatty Liver Success Story: Dr. Berg
 
@@ -3820,7 +3820,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Transitioning Off Psychiatric Drugs
 
@@ -3871,7 +3871,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Fasting Influences the Autonomic Nervous System
 
@@ -3922,7 +3922,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Calcium Deficiency vs. Vitamin D Deficiency
 
@@ -3983,7 +3983,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Always Stretch AFTER Your Workout Not Before
 
@@ -4036,7 +4036,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Are You Getting Enough Sulfur in Your Diet?
 
@@ -4101,7 +4101,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Overcome Infertility
 
@@ -4155,7 +4155,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Happens If You Stop Eating Bread for 14 Days
 
@@ -4238,7 +4238,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Always Eat Mushrooms Cooked
 
@@ -4294,7 +4294,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Mid-Back Stress Connection
 
@@ -4340,7 +4340,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Potassium Controls Vascular Calcification
 
@@ -4389,7 +4389,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Missing Mineral in Strong Bones
 
@@ -4452,7 +4452,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Drink Green Tea for Your Skin
 
@@ -4507,7 +4507,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Health Benefits of Turmeric
 
@@ -4546,7 +4546,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Exercise for Diabetes
 
@@ -4590,7 +4590,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Another Reason Why You Should do Healthy Keto
 
@@ -4671,7 +4671,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Food for Wrinkles
 
@@ -4740,7 +4740,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Eating Eggs Helps Your Brain
 
@@ -4794,7 +4794,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Use Beets to Detox Your Liver
 
@@ -4861,7 +4861,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Right Shoulder and Neck Tightness is Gallbladder or Liver
 
@@ -4936,7 +4936,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Natural Flavors Don't Mean Vegan
 
@@ -4986,7 +4986,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The #1 Sign of High Cortisol
 
@@ -5044,7 +5044,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Apple Cider Vinegar (AVC) for Your Dog
 
@@ -5101,7 +5101,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Eat One Brazil Nut Each Day
 
@@ -5146,7 +5146,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Gastric Ulcers Are a Zinc Deficiency
 
@@ -5216,7 +5216,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Avoid ALL Keto Side Effects Easily
 
@@ -5294,7 +5294,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Side Effects of Skipping Breakfast
 
@@ -5347,7 +5347,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Protein for Recovery from Exercise, Stress and Trauma
 
@@ -5413,7 +5413,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Do Intermittent Fasting for ADHD
 
@@ -5460,7 +5460,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can Stress Cause an Infection?
 
@@ -5530,7 +5530,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Exercise vs. Physical Work: What is Better for Sleep?
 
@@ -5582,7 +5582,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Friendly Bacteria and Fungus Gut Relationship
 
@@ -5642,7 +5642,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Number One Best Exercise for Depression
 
@@ -5690,7 +5690,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Bile Acid Diarrhea
 
@@ -5736,7 +5736,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Benefits of TUDCA
 
@@ -5799,7 +5799,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Make Sure Your Kids Get Enough Zinc
 
@@ -5859,7 +5859,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Do You Get Gout in Your Big Toe?
 
@@ -5908,7 +5908,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Use Probiotics for Dandruff
 
@@ -5926,7 +5926,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Best Treatment for Eye Floaters
 
@@ -5985,7 +5985,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Weird Taste in Your Mouth: 9 Causes
 
@@ -6067,7 +6067,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # No Willpower to Start Intermittent Fasting?
 
@@ -6109,7 +6109,7 @@ REM 睡眠對於整體健康和認知功能具有重要意義。通過放松枕�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Yellow Bumpy Patches Around the Eyelids
 

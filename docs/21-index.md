@@ -6,7 +6,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg's Healthy Keto Summit 2019
 
@@ -24,7 +24,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Use Vitamin B1 To Reduce Hyperthyroidism Symptoms – Dr.Berg
 
@@ -73,7 +73,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Use Ginger Lemon Water to Do Intermittent Fasting Longer – Dr. Berg
 
@@ -119,7 +119,7 @@ ginger 檸檬水是一種簡單有效的天然 remedies，可在斷食期間提�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Branched Chain Amino Acids (BCAA) Do NOT Make Muscle – Dr.Berg
 
@@ -182,7 +182,7 @@ ginger 檸檬水是一種簡單有效的天然 remedies，可在斷食期間提�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Before You Get Your Ovaries Removed: WATCH THIS! – Dr.Berg
 
@@ -222,7 +222,7 @@ ginger 檸檬水是一種簡單有效的天然 remedies，可在斷食期間提�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Enhance Autophagy with This ONE Vitamin! – Dr.Berg
 
@@ -240,7 +240,7 @@ ginger 檸檬水是一種簡單有效的天然 remedies，可在斷食期間提�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Eat Egg Yolks to Prevent Gallstones – Dr.Berg
 
@@ -285,7 +285,7 @@ ginger 檸檬水是一種簡單有效的天然 remedies，可在斷食期間提�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Supercharge Your Gut Bacteria with Intermittent Fasting – Dr. Berg
 
@@ -348,7 +348,7 @@ ginger 檸檬水是一種簡單有效的天然 remedies，可在斷食期間提�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 9 College Keto Foods When On A Budget – Dr.Berg
 
@@ -404,7 +404,7 @@ ginger 檸檬水是一種簡單有效的天然 remedies，可在斷食期間提�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Potassium Good or Bad for Your Kidneys? – Dr.Berg
 
@@ -497,7 +497,7 @@ ginger 檸檬水是一種簡單有效的天然 remedies，可在斷食期間提�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Will Bulletproof Coffee Block Autophagy? – Dr.Berg
 
@@ -561,7 +561,7 @@ Bulletproof Coffee 在适量使用的情况下对生酮状态的影响有限。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg Interviews Naturopathic Doctor Nadia Pateguana (PCOS) – Dr.Berg
 
@@ -653,7 +653,7 @@ Bulletproof Coffee 在适量使用的情况下对生酮状态的影响有限。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 9 Signs That You Are Eating Too Much Fat – Dr.Berg
 
@@ -716,7 +716,7 @@ Bulletproof Coffee 在适量使用的情况下对生酮状态的影响有限。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can a Frail Senior Parent Do Intermittent Fasting? Dr.Berg
 
@@ -788,7 +788,7 @@ Bulletproof Coffee 在适量使用的情况下对生酮状态的影响有限。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Key Vitamin Deficiencies After Bariatric Surgery – Dr.Berg
 
@@ -844,7 +844,7 @@ Bulletproof Coffee 在适量使用的情况下对生酮状态的影响有限。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 9 Reasons Why You Are Vitamin D Deficient – Dr.Berg
 
@@ -907,7 +907,7 @@ Bulletproof Coffee 在适量使用的情况下对生酮状态的影响有限。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Intermittent Fasting and Chronic Obstructive Pulmonary Disease (COPD) – Dr.Berg
 
@@ -971,7 +971,7 @@ Bulletproof Coffee 在适量使用的情况下对生酮状态的影响有限。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Alternative Allergy Relief: Low Dose Allergen Immunotherapy – Dr.Berg
 
@@ -1038,7 +1038,7 @@ Bulletproof Coffee 在适量使用的情况下对生酮状态的影响有限。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What To Do For "Normal" Childhood Infections? – Dr.Berg
 
@@ -1056,7 +1056,7 @@ Bulletproof Coffee 在适量使用的情况下对生酮状态的影响有限。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Causes a Leaky Bladder? – Dr.Berg
 
@@ -1097,7 +1097,7 @@ Bulletproof Coffee 在适量使用的情况下对生酮状态的影响有限。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Much Sun Do We Need To Get Our Vitamin D From Sunlight? – Dr.Berg
 
@@ -1173,7 +1173,7 @@ Bulletproof Coffee 在适量使用的情况下对生酮状态的影响有限。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Cardiologist (Dr. Nadir Ali) Explains LDL Bad Cholesterol Spike With Keto – Dr.Berg
 
@@ -1257,7 +1257,7 @@ Bulletproof Coffee 在适量使用的情况下对生酮状态的影响有限。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Intermittent Fasting & STDs (Sexually Transmitted Disease) – Dr.Berg On Alternate Day Fasting
 
@@ -1327,7 +1327,7 @@ Bulletproof Coffee 在适量使用的情况下对生酮状态的影响有限。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Getting Up To Urinate Several Times At Night? – Dr.Berg On Frequent Urination At Night
 
@@ -1401,7 +1401,7 @@ Bulletproof Coffee 在适量使用的情况下对生酮状态的影响有限。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Intermittent Fasting Really Different for Women? – Dr.Berg
 
@@ -1486,7 +1486,7 @@ Bulletproof Coffee 在适量使用的情况下对生酮状态的影响有限。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Natural Ways to Reduce Glyphosate (GMO chemicals) in Body – Dr.Berg On GMO Foods & Toxic Chemicals
 
@@ -1565,7 +1565,7 @@ Glyphosate 的潜在危害不容忽视，尤其是其对人体微生物群、免
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Increase Your Vitamin D Absorption?
 
@@ -1627,7 +1627,7 @@ Glyphosate 的潜在危害不容忽视，尤其是其对人体微生物群、免
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr.Berg Interviews Tristan Haggard On Benefits of Fatty Foods
 
@@ -1669,7 +1669,7 @@ Glyphosate 的潜在危害不容忽视，尤其是其对人体微生物群、免
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Nutrients Are Recommended on OMAD (One Meal A Day)? – Dr. Berg
 
@@ -1768,7 +1768,7 @@ The article emphasizes the importance of balanced nutrition and strategic use of
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Will Metformin (for Type 2 Diabetes) Stop Ketosis? Metformin Side Effects & Lactic Acidosis Dr.Berg
 
@@ -1849,7 +1849,7 @@ Metformin 是用於治療 type 2 糖尿病和多囊卵巢綜合征的重要藥�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Know if You Have Bile Deficiency? - Dr. Berg
 
@@ -1932,7 +1932,7 @@ Metformin 是用於治療 type 2 糖尿病和多囊卵巢綜合征的重要藥�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Lower Cortisol and Fix Your Sleep: Circadian Rhythm, Cortisol, and Sleep - Dr. Berg
 
@@ -2010,7 +2010,7 @@ Metformin 是用於治療 type 2 糖尿病和多囊卵巢綜合征的重要藥�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Are The Benefits of Emu Oil? – Dr.Berg
 
@@ -2069,7 +2069,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Do Diuretics (water pills) Now Cause Heart Attacks? – Dr.Berg On Thiazide Diuretics Side Effects
 
@@ -2087,7 +2087,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Crave Dirt or Chalk? HERE'S WHY!! – Dr.Berg On Zinc Deficiency & Low Iron Levels
 
@@ -2136,7 +2136,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 7 Signs You Are Not Drinking Enough Water – Dr.Berg On Dehydration Symptoms & Water Retention
 
@@ -2215,7 +2215,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 12 Ways You Can Get Vitamin B1 (Thiamine) Deficiency – Dr. Berg
 
@@ -2290,7 +2290,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Gluten Bad For You? – Dr.Berg Discusses The Big Problem With Gluten Free Foods
 
@@ -2349,7 +2349,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Is Bisphenol A (BPA) & How To Reduce Exposure To It? – Dr.Berg
 
@@ -2418,7 +2418,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Will Apple Cider Vinegar Burn Your Skin or Heal It? – Dr.Berg
 
@@ -2518,7 +2518,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Vitamin K2, Its Benefits & Sources? – Dr.Berg
 
@@ -2580,7 +2580,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Are You Getting Enough Vitamin D From Foods? HIGHLY UNLIKELY! – Dr.Berg
 
@@ -2658,7 +2658,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr.Berg and Thomas Delauer Chat On How They Ended Up In The Keto World
 
@@ -2705,7 +2705,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Causes Varicose Veins & How To Get Rid Of It? – Dr. Berg
 
@@ -2753,7 +2753,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 5 Big Keto Diet Myths That Are Dead Wrong – Dr. Berg
 
@@ -2851,7 +2851,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Lower Blood Pressure Naturally JUST With Breathing – Dr. Berg
 
@@ -2911,7 +2911,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Put Multiple Sclerosis (MS) In Remission? – Dr.Berg
 
@@ -2967,7 +2967,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 7 Natural Blood Thinners – Dr. Berg
 
@@ -3037,7 +3037,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Bad Cholesterol (LDL) is NOT Cholesterol and Is NOT Bad! – Dr.Berg
 
@@ -3107,7 +3107,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why African Americans Have A Higher Risk of Diabetes & High Blood Pressure? – Dr.Berg
 
@@ -3166,7 +3166,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What To Do Before Coloring Your Hair? – Dr.Berg
 
@@ -3222,7 +3222,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Top 5 Symptoms Of Eating Too Much Protein – Dr.Berg
 
@@ -3278,7 +3278,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Amazing Zinc [Part 3]: Its Importance for Prostate, Testosterone, and Sperm Viability – Dr.Berg
 
@@ -3351,7 +3351,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Amazing Zinc [Part 2]: Its Benefits and How Zinc Deficiency Affects Skin – Dr.Berg
 
@@ -3429,7 +3429,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Amazing Zinc (Part 1): Its Main Function and Zinc Deficiency Symptoms – Dr.Berg
 
@@ -3484,7 +3484,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # When to Take Vitamins and Supplements ? – Dr.Berg
 
@@ -3546,7 +3546,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The MOST Important Vitamins For Eye Health – Dr.Berg
 
@@ -3605,7 +3605,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # These 5 Things Will Not Break Your Fast: MAKE NOTE! – Dr.Berg
 
@@ -3675,7 +3675,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Relieve From Post Hysterectomy Depression? – Dr.Berg
 
@@ -3737,7 +3737,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Shrinking Testicles and Man Boobs – Dr.Berg
 
@@ -3825,7 +3825,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # High Blood Sugar leads to Smaller Brains – Dr.Berg's Tips to Regenerate Brain
 
@@ -3882,7 +3882,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The 7 Signs & Symptoms That Prove You Are Burning Fat – Dr.Berg
 
@@ -3957,7 +3957,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Do You Do If You Get Ketoacidosis? – Dr.Berg
 
@@ -4016,7 +4016,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Should I Do Keto With Hypoglycemia? – Dr.Berg
 
@@ -4080,7 +4080,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Live Longer – The One Exercise That Makes You Live Longer – Dr.Berg
 
@@ -4130,7 +4130,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Get Rid Of Acne? Eliminate Acne Permanently! – Dr.Berg
 
@@ -4215,7 +4215,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Tired After Eating on OMAD (One Meal a Day)? Here's why! – Dr.Berg
 
@@ -4233,7 +4233,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Introducing Food to Baby – Transitioning Your Baby From Breast Milk to Food – Dr.Berg
 
@@ -4316,7 +4316,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Anti-Aging Hacks for a Youthful Appearance with Dr. Berg
 
@@ -4393,7 +4393,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Should You Drink Water With Your Meal or Not? – Dr.Berg
 
@@ -4475,7 +4475,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Chemotherapy vs Cruciferous Vegetables – Side Effects of Chemotherapy – Dr.Berg
 
@@ -4549,7 +4549,7 @@ EMU油因其多樣化的健康益處，在皮膚護理和內部健康方面具�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 5 Types of People Who Should Not Do Intermittent Fasting – Dr.Berg
 
@@ -4630,7 +4630,7 @@ time-restricted feeding 可能對某些人群有益，但不適合所有人。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Could This Magnesium Mineral Deficiency Give You Diabetes? – Dr.Berg on Magnesium and Diabetes
 
@@ -4670,7 +4670,7 @@ time-restricted feeding 可能對某些人群有益，但不適合所有人。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Get Rid of SIBO (Small Intestinal Bacteria Overgrowth) With Intermittent Fasting – Dr.Berg
 
@@ -4756,7 +4756,7 @@ time-restricted feeding 可能對某些人群有益，但不適合所有人。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why I Don't Recommend the 5:2 Method of Intermittent Fasting? – Dr.Berg
 
@@ -4798,7 +4798,7 @@ time-restricted feeding 可能對某些人群有益，但不適合所有人。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Many Nuts Can You Eat on Keto? – Dr.Berg
 
@@ -4884,7 +4884,7 @@ time-restricted feeding 可能對某些人群有益，但不適合所有人。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Biggest Secret of The Keto Universe – Dr. Berg
 
@@ -4966,7 +4966,7 @@ time-restricted feeding 可能對某些人群有益，但不適合所有人。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 5 Easy Keto Hacks For Busy People – Dr.Berg
 
@@ -5011,7 +5011,7 @@ time-restricted feeding 可能對某些人群有益，但不適合所有人。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 5 Cool "Sleep Tricks" You Probably Haven't Heard About! – Try Dr.Berg's Sleeping Hacks
 
@@ -5063,7 +5063,7 @@ time-restricted feeding 可能對某些人群有益，但不適合所有人。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Collarbone Stretches for Shoulder Pain Relief and Tightness – Dr.Berg
 
@@ -5110,7 +5110,7 @@ time-restricted feeding 可能對某些人群有益，但不適合所有人。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Sitting Kills Your Low Back Curve. Do These Low Back Pain Relief Exercises DAILY! – Dr.Berg
 
@@ -5183,7 +5183,7 @@ time-restricted feeding 可能對某些人群有益，但不適合所有人。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Delicious Keto Cake Recipe by Dr.Berg & Karen Berg
 
@@ -5242,7 +5242,7 @@ time-restricted feeding 可能對某些人群有益，但不適合所有人。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Exercise on Keto Diet a Must for Keto Success? – Dr.Berg
 
@@ -5303,7 +5303,7 @@ time-restricted feeding 可能對某些人群有益，但不適合所有人。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Support Immunity With Intermittent Fasting – Boost Immune System With Fasting – Dr.Berg
 
@@ -5365,7 +5365,7 @@ time-restricted feeding 可能對某些人群有益，但不適合所有人。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Hidden Side of Clinical Research Trials – Paid Research Studies & US Department Of Health – Dr.Berg
 
@@ -5422,7 +5422,7 @@ time-restricted feeding 可能對某些人群有益，但不適合所有人。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Canned Water vs. Plastic Water Bottles: Which is Better? – Dr. Berg
 
@@ -5481,7 +5481,7 @@ time-restricted feeding 可能對某些人群有益，但不適合所有人。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Break Carbohydrate Addiction & Increase Your Willpower – Stop Carb Cravings – Dr.Berg
 
@@ -5524,7 +5524,7 @@ time-restricted feeding 可能對某些人群有益，但不適合所有人。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Ovarian Cysts: Causes, Symptoms & Natural Treatment – Dr.Berg
 
@@ -5571,7 +5571,7 @@ time-restricted feeding 可能對某些人群有益，但不適合所有人。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Don’t Take A Keto Diet Pill Until You Watch This! – Dr.Berg
 
@@ -5648,7 +5648,7 @@ time-restricted feeding 可能對某些人群有益，但不適合所有人。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 7 Tips To Lower Blood Pressure Naturally – Dr.Berg
 
@@ -5731,7 +5731,7 @@ time-restricted feeding 可能對某些人群有益，但不適合所有人。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 3 Weird Signs & Symptoms Of Fatty Liver – Dr.Berg
 
@@ -5779,7 +5779,7 @@ time-restricted feeding 可能對某些人群有益，但不適合所有人。�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Aching Joints? This “Miracle Mineral” Could End Your Suffering – Dr.Berg
 
@@ -5829,7 +5829,7 @@ The article discusses the potential benefits of boron, a trace mineral, in allev
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can Drinking More Water Help You Lose Weight? – Dr.Berg On Water Diet For Weight Loss
 
@@ -5883,7 +5883,7 @@ The article discusses the potential benefits of boron, a trace mineral, in allev
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Yeast Infection vs Candida Infection: Is there a Difference? – Dr.Berg
 
@@ -5947,7 +5947,7 @@ The article discusses the potential benefits of boron, a trace mineral, in allev
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Get Rid Herpes Virus with Autophagy Fasting?  - Dr. Berg
 
@@ -6003,7 +6003,7 @@ The article discusses the potential benefits of boron, a trace mineral, in allev
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 5 Reasons for Cold Feet – Hypothyroid, Low Blood Pressure, Diabetes & More – Dr.Berg
 
@@ -6081,7 +6081,7 @@ The article discusses the potential benefits of boron, a trace mineral, in allev
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Improve Attention Span & Focus? – Dr.Berg
 
@@ -6139,7 +6139,7 @@ The article discusses the potential benefits of boron, a trace mineral, in allev
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Huge Belly but NOT Fat? – Dr.Berg On Cirrhosis & Ascites
 
@@ -6157,7 +6157,7 @@ The article discusses the potential benefits of boron, a trace mineral, in allev
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Control Your Appetite After Meals? – Dr.Berg
 
@@ -6210,7 +6210,7 @@ The article discusses the potential benefits of boron, a trace mineral, in allev
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 3 Important Reasons To SKIP Breakfast – Dr.Berg On Effects Of Skipping Breakfast
 

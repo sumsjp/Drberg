@@ -6,7 +6,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What to Eat While Breastfeeding
 
@@ -102,7 +102,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Benfotiamine: Why Every Diabetic Should Take It
 
@@ -168,7 +168,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Are Grass-Fed Burgers Really Worth the Extra Cost?
 
@@ -213,7 +213,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Grass-fed or Organic: Which Is Healthier?
 
@@ -275,7 +275,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Natural Desiccated Thyroid: Why Some People React Badly
 
@@ -333,7 +333,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Armour Thyroid versus Synthroid
 
@@ -388,7 +388,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Potato Chips vs French Fries: Which is Worse?
 
@@ -406,7 +406,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Are Carrots Okay to Eat on Keto?
 
@@ -454,7 +454,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Do You Get Heart Palpitations After Eating? – Dr.Berg
 
@@ -512,7 +512,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Are French Fries So Addictive?
 
@@ -575,7 +575,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Reduce Lung (Respiratory) Mucus
 
@@ -618,7 +618,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Vitamin D Deficiency Effects on Your Teeth – Dr.Berg
 
@@ -668,7 +668,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The 7 Benefits of a Cold Shower
 
@@ -737,7 +737,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Will Your Blood Test Detect Vitamin Deficiencies?
 
@@ -799,7 +799,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The 9 Benefits of Heat Therapy
 
@@ -878,7 +878,7 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Reduce the Side Effects of Chemotherapy
 
@@ -950,7 +950,7 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Largest Source of Dietary Sugar Is Coming From....
 
@@ -993,7 +993,7 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why is Lemon Juice Good for Gout Arthritis and Bad for Osteoarthritis? – Dr.Berg
 
@@ -1053,7 +1053,7 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Keto (Low Carb) Really Safe for the Thyroid?
 
@@ -1122,7 +1122,7 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # You ARE Eating When You Are Fasting
 
@@ -1164,7 +1164,7 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Determine Your Recovery Level – Speed Up Recovery – Dr.Berg
 
@@ -1246,7 +1246,7 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why You Can Not Kill a Virus
 
@@ -1313,7 +1313,7 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Much of Your Disease and Health is Genetic?
 
@@ -1377,7 +1377,7 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Molybdenum for Better Detoxification
 
@@ -1447,7 +1447,7 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Do You Get Acne During Your Period (Menstruation)
 
@@ -1509,7 +1509,7 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 8 Ways to Use Nutritional Yeast in Your Diet
 
@@ -1557,7 +1557,7 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The 7 Reasons for a Chronic Cough
 
@@ -1637,7 +1637,7 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Synthetic vs. Natural Vitamin B12
 
@@ -1713,7 +1713,7 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # MSG vs Glutamate: What's the Difference?
 
@@ -1781,7 +1781,7 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Danger of Excess Phosphorus
 
@@ -1862,7 +1862,7 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Much Potassium is Lost with Sweating
 
@@ -1922,7 +1922,7 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 4 Big Benefits of Eating Pistachios
 
@@ -1987,7 +1987,7 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg's New Keto Desserts Now Available
 
@@ -2005,7 +2005,7 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Unhealthiest Country in the World – Revealed by Dr.Berg
 
@@ -2072,7 +2072,7 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 7 RED Flags That You are Not Getting Enough Sleep – Dr. Berg on Poor Sleep Quality
 
@@ -2173,7 +2173,7 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Herpes? – Types of Herpes & Remedies Covered by Dr.Berg
 
@@ -2224,7 +2224,7 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is a Gallbladder Attack? – Symptoms & Causes Covered by Dr.Berg
 
@@ -2280,7 +2280,7 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 7 Weird Lyme Disease Symptoms that You Need to Know – Dr.Berg
 
@@ -2326,7 +2326,7 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Sulfite? – Sulfite Sensitivity Symptoms – Dr.Berg
 
@@ -2344,7 +2344,7 @@ Heat Therapy通過促進血液循環、激活 Heat Shock Protein 和清除錯誤
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Quercetin – The Best Natural Antihistamine – Foods With Quercetin – Dr.Berg
 
@@ -2416,7 +2416,7 @@ Quercetin是一種高效且安全的天然抗組胺和抗炎AGENT，適合用於
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Black Bubonic Plague – Interesting New Findings – Dr.Berg
 
@@ -2475,7 +2475,7 @@ Quercetin是一種高效且安全的天然抗組胺和抗炎AGENT，適合用於
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Ginkgo Biloba? – The Benefits of Ginkgo Biloba – Dr.Berg
 
@@ -2531,7 +2531,7 @@ Ginkgo biloba 是一種具有悠久歷史且多效的植物，其主要功效在
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is the Healthiest Country in the World? Centenarians Diet – Dr.Berg
 
@@ -2577,7 +2577,7 @@ Ginkgo biloba 是一種具有悠久歷史且多效的植物，其主要功效在
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Transdermal Magnesium? Symptoms of Magnesium Deficiency – Dr.Berg
 
@@ -2674,7 +2674,7 @@ Ginkgo biloba 是一種具有悠久歷史且多效的植物，其主要功效在
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Not Hungry on Keto, Yet Still Feeling Weak? – Dr.Berg on Being Tired on Keto
 
@@ -2742,7 +2742,7 @@ Ginkgo biloba 是一種具有悠久歷史且多效的植物，其主要功效在
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # If Pasta Is So Bad, Why Do Italians Live So Long? Italian Lifestyle & Longevity – Dr.Berg
 
@@ -2815,7 +2815,7 @@ Ginkgo biloba 是一種具有悠久歷史且多效的植物，其主要功效在
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Egg Yolks: Orange or Yellow – Pasture Raised Eggs vs. Factory Farm Eggs – Which is Better? – Dr.Berg
 
@@ -2894,7 +2894,7 @@ Ginkgo biloba 是一種具有悠久歷史且多效的植物，其主要功效在
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why I Eat 4 to 5 Eggs a Day – Eggs and Cholesterol – Dr.Berg on Benefits of Eating Eggs
 
@@ -2954,7 +2954,7 @@ Ginkgo biloba 是一種具有悠久歷史且多效的植物，其主要功效在
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Do You Eat When You Are Not Hungry? Stop Hunger Cravings – Dr.Berg
 
@@ -3035,7 +3035,7 @@ Ginkgo biloba 是一種具有悠久歷史且多效的植物，其主要功效在
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Break a Prolonged Fast? – Dr.Berg's Advice on Prolonged Fasting Refeeding
 
@@ -3122,7 +3122,7 @@ Ginkgo biloba 是一種具有悠久歷史且多效的植物，其主要功效在
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Do Nail Polish Remover and Fat Burning Have In Common? – Dr.Berg
 
@@ -3180,7 +3180,7 @@ Ginkgo biloba 是一種具有悠久歷史且多效的植物，其主要功效在
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is in HOT DOGS? Are Hot Dogs Good for You? – Dr.Berg
 
@@ -3198,7 +3198,7 @@ Ginkgo biloba 是一種具有悠久歷史且多效的植物，其主要功效在
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 8 Natural Herbs for Reducing Excess Androgen – Dr.Berg
 
@@ -3252,7 +3252,7 @@ Ginkgo biloba 是一種具有悠久歷史且多效的植物，其主要功效在
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Top Health Benefits of Mustard – Dr.Berg
 
@@ -3312,7 +3312,7 @@ Ginkgo biloba 是一種具有悠久歷史且多效的植物，其主要功效在
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is L-Carnitine & What is it's Biggest Benefit? – Dr.Berg
 
@@ -3393,7 +3393,7 @@ L-肉鹼不僅是體脂燃燒的重要媒介，更是心臟健康的關鍵因素
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Use Manganese Trace Mineral for Excessive Blinking, Jerking, Twitching and other Tics – Dr.Berg
 
@@ -3458,7 +3458,7 @@ L-肉鹼不僅是體脂燃燒的重要媒介，更是心臟健康的關鍵因素
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The ADA (American Diabetes Association) Says the Low Carb Diet is Beneficial for Diabetes – Dr.Berg
 
@@ -3508,7 +3508,7 @@ L-肉鹼不僅是體脂燃燒的重要媒介，更是心臟健康的關鍵因素
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Red Meat Good or Bad? – Dr.Berg
 
@@ -3566,7 +3566,7 @@ L-肉鹼不僅是體脂燃燒的重要媒介，更是心臟健康的關鍵因素
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Keto Success Stroies: From 315lbs to 138lbs Using Keto & Intermittent Fasting – Dr.Berg
 
@@ -3672,7 +3672,7 @@ L-肉鹼不僅是體脂燃燒的重要媒介，更是心臟健康的關鍵因素
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Get Rid of Butt Cramp on Keto? – Dr.Berg on Butt Pain Relief
 
@@ -3726,7 +3726,7 @@ L-肉鹼不僅是體脂燃燒的重要媒介，更是心臟健康的關鍵因素
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Recover From Cheat Day? – Dr.Berg on Cheat Meal
 
@@ -3744,7 +3744,7 @@ L-肉鹼不僅是體脂燃燒的重要媒介，更是心臟健康的關鍵因素
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Common Nutrient Deficiencies Caused by Drugs that You Should Know – Dr.Berg on Nutrient Depletion
 
@@ -3806,7 +3806,7 @@ L-肉鹼不僅是體脂燃燒的重要媒介，更是心臟健康的關鍵因素
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Much Dietary Proteins Will Prevent Muscle Loss? Need of Protein & Loss of Muscle – Dr.Berg
 
@@ -3865,7 +3865,7 @@ L-肉鹼不僅是體脂燃燒的重要媒介，更是心臟健康的關鍵因素
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Big Benefits of Exercise is Not Weight Loss – Dr.Berg
 
@@ -3883,7 +3883,7 @@ L-肉鹼不僅是體脂燃燒的重要媒介，更是心臟健康的關鍵因素
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr.Berg's Keto Health Summit 2019 – 12 Speakers on Keto and Intermittent Fasting
 
@@ -3928,7 +3928,7 @@ L-肉鹼不僅是體脂燃燒的重要媒介，更是心臟健康的關鍵因素
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Adderall Side-Effects and Natural Adderall Alternatives – Dr. Berg
 
@@ -3994,7 +3994,7 @@ ADDERALL雖然在短期內有效，但其副作用和潛在風險不容忽視。
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Use Clove Oil For A Toothache or Dental Abscess – Dr. Berg
 
@@ -4033,7 +4033,7 @@ ADDERALL雖然在短期內有效，但其副作用和潛在風險不容忽視。
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The 15 Benefits of MCT Oil (Medium Chain Triglyceride) – Dr.Berg
 
@@ -4109,7 +4109,7 @@ MCT油具備多樣化的健康益處，特別是在能量供應、酮osis induce
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Counting Sheep Does Not Work for Sleep – Cause of Insomnia & Improving Sleep – Dr. Berg
 
@@ -4186,7 +4186,7 @@ MCT油具備多樣化的健康益處，特別是在能量供應、酮osis induce
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Type 2 Diabetes is an Insulin Disease More than a Glucose Disease – High Insulin Levels – Dr.Berg
 
@@ -4243,7 +4243,7 @@ MCT油具備多樣化的健康益處，特別是在能量供應、酮osis induce
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why I am Losing Inches But Not Weight? No Weight Loss on Keto – Dr.Berg
 
@@ -4289,7 +4289,7 @@ MCT油具備多樣化的健康益處，特別是在能量供應、酮osis induce
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Carbonated Water Healthy Compared to Non Carbonated Water? Dr.Berg on Drinking Carbonated Water
 
@@ -4336,7 +4336,7 @@ MCT油具備多樣化的健康益處，特別是在能量供應、酮osis induce
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr.Berg Explains What Breaks a Fast and What Does not Break a Fast
 
@@ -4414,7 +4414,7 @@ MCT油具備多樣化的健康益處，特別是在能量供應、酮osis induce
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Seaweed? – Dr.Berg Explains Roasted Seaweed Benefits
 
@@ -4466,7 +4466,7 @@ MCT油具備多樣化的健康益處，特別是在能量供應、酮osis induce
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Fix the Swollen Face (Facial Puffiness) and Puffy Eyes – Dr.Berg
 
@@ -4552,7 +4552,7 @@ MCT油具備多樣化的健康益處，特別是在能量供應、酮osis induce
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Health Benefits of Aloe Vera – Aloe Vera for Skin and Digestion – Dr.Berg
 
@@ -4605,7 +4605,7 @@ Aloe vera 確為一種多功能的自然療法，但其療效依賴於個體的�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Are Telomeres & Why They Are Important in Anti-Aging – Dr.Berg on Telomeres and Aging
 
@@ -4667,7 +4667,7 @@ Aloe vera 確為一種多功能的自然療法，但其療效依賴於個體的�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # A Much Faster Way to Get Dr.Berg's Wheatgrass Juice Powder
 
@@ -4715,7 +4715,7 @@ Aloe vera 確為一種多功能的自然療法，但其療效依賴於個體的�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 5 Reasons Why You Need More Salt in Diet? – Dr.Berg on Salt Intake
 
@@ -4774,7 +4774,7 @@ Aloe vera 確為一種多功能的自然療法，但其療效依賴於個體的�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Bulletproof Coffee? – Dr. Berg's Coffee Hack
 
@@ -4840,7 +4840,7 @@ Aloe vera 確為一種多功能的自然療法，但其療效依賴於個體的�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Snoring & How to Get Your Spouse to Stop Snoring? – Dr. Berg
 
@@ -4901,7 +4901,7 @@ Aloe vera 確為一種多功能的自然療法，但其療效依賴於個體的�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Are Laxatives for Chronic Constipation Dangerous for Long Term? – Dr.Berg
 
@@ -4948,7 +4948,7 @@ Aloe vera 確為一種多功能的自然療法，但其療效依賴於個體的�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is A1C Test? Is it an Accurate Blood Test? – Dr.Berg
 
@@ -5029,7 +5029,7 @@ Aloe vera 確為一種多功能的自然療法，但其療效依賴於個體的�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Food Poisoning: Causes, Symptoms & Treatment by Dr.Berg
 
@@ -5079,7 +5079,7 @@ Aloe vera 確為一種多功能的自然療法，但其療效依賴於個體的�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Slow vs. Fast Metabolism: Interesting Difference – Dr.Berg on Increasing Metabolism
 
@@ -5097,7 +5097,7 @@ Aloe vera 確為一種多功能的自然療法，但其療效依賴於個體的�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Is Oxidation – Dr.Berg on Free Radicals and Antioxidants
 
@@ -5173,7 +5173,7 @@ Aloe vera 確為一種多功能的自然療法，但其療效依賴於個體的�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Anti Aging Foods for the Brain – Foods for Brain Health – Dr.Berg
 
@@ -5242,7 +5242,7 @@ Aloe vera 確為一種多功能的自然療法，但其療效依賴於個體的�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg's Favorite Keto Food of the Week: Sir Kensington's Mayonnaise – Keto Mayonnaise
 
@@ -5298,7 +5298,7 @@ Sir Kensington蛋黃醬和芥末醬在整體成分上表現良好，但微量糖
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is it Bad to Crack Your Own Neck? Neck Cracking Side Effects – Dr.Berg
 
@@ -5355,7 +5355,7 @@ Sir Kensington蛋黃醬和芥末醬在整體成分上表現良好，但微量糖
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why the Strong Ammonia Odor in My Urine on Keto? Foul Smelling Urine on Ketogenic Diet – Dr.Berg
 
@@ -5396,7 +5396,7 @@ Sir Kensington蛋黃醬和芥末醬在整體成分上表現良好，但微量糖
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Should I Do Cardio for Weight Loss? – Dr.Berg Talks About Exercise, Cardio and Weight Loss
 
@@ -5414,7 +5414,7 @@ Sir Kensington蛋黃醬和芥末醬在整體成分上表現良好，但微量糖
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can Calorie Restriction Slow Aging? – Side Effects of Low Calorie Diet – Dr.Berg
 
@@ -5472,7 +5472,7 @@ The Impact of Caloric Restriction on Longevity and Health: A Critical Analysis
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Cracking Knuckles – Is it Okay to Crack Your Knuckles? Dr.Berg Answers
 
@@ -5514,7 +5514,7 @@ The Impact of Caloric Restriction on Longevity and Health: A Critical Analysis
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Top Vitamin K2 Foods – Best Vitamin K2 Sources – Dr.Berg
 
@@ -5570,7 +5570,7 @@ The Impact of Caloric Restriction on Longevity and Health: A Critical Analysis
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Benefits of Hyperbaric Oxygen Therapy (HBOT)
 
@@ -5639,7 +5639,7 @@ The Impact of Caloric Restriction on Longevity and Health: A Critical Analysis
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 2 Trace Minerals Linked To Live Long (100 Years!!) – Dr.Berg
 
@@ -5657,7 +5657,7 @@ The Impact of Caloric Restriction on Longevity and Health: A Critical Analysis
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Tomato vs Carrots: Which Is Better On Keto? – Dr.Berg
 
@@ -5746,7 +5746,7 @@ The Impact of Caloric Restriction on Longevity and Health: A Critical Analysis
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Get Your Spouse Into Ketosis (Keto Diet)? – Dr.Berg
 
@@ -5800,7 +5800,7 @@ The Impact of Caloric Restriction on Longevity and Health: A Critical Analysis
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Wonderful Neck Stretch For Whole Body Relaxation – Dr.Berg
 
@@ -5888,7 +5888,7 @@ The Impact of Caloric Restriction on Longevity and Health: A Critical Analysis
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is it Possible to Gain Weight on Fruits and Vegetables? – Dr.Berg
 

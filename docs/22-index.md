@@ -6,7 +6,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Lose More Weight If You Are A Diabetic? – Dr.Berg On Diabetic Weight Loss
 
@@ -75,7 +75,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What do Your Nails Say About Your Health & Nutrition? – Dr.Berg
 
@@ -156,7 +156,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Connection Between Fasting & Chronic Inflammation Explained! – Dr.Berg
 
@@ -233,7 +233,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The 7 Causes of Arrhythmias – Dr.Berg
 
@@ -292,7 +292,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Is Water Fasting? – Dr. Berg
 
@@ -390,7 +390,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 5 Reasons for High Creatinine on Keto (Ketogenic Diet) – Dr.Berg
 
@@ -408,7 +408,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Will Skipping Meals Increase Your Metabolism? – Dr.Berg
 
@@ -483,7 +483,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Most Important Nutrient On A Vegan Keto Diet Plan – Dr.Berg
 
@@ -552,7 +552,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Kidney Stones 101: Causes, Symptoms & Remedies – Dr.Berg
 
@@ -611,7 +611,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Pharmaceuticals Industry - It's "Backed By Science" TRUST US! – Dr.Berg
 
@@ -673,7 +673,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Will Eating More FAT Boost My Metabolism? – Dr.Berg
 
@@ -716,7 +716,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Lean (Low Fat) Meat On Keto? – Dr.Berg
 
@@ -771,7 +771,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why do You Have Salt Cravings at Night? – Dr.Berg
 
@@ -856,7 +856,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 5 Uncommon Signs & Symptoms of Potassium Deficiency – Dr.Berg
 
@@ -895,7 +895,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Real Causes of Acid Reflux, Heartburn & GERD – Dr.Berg
 
@@ -964,7 +964,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Hidden Causes of Acne & How to Get Rid of it? – Dr.Berg
 
@@ -1017,7 +1017,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is the REAL Cause of Cold Feet – 6 Possible Causes – Dr.Berg
 
@@ -1101,7 +1101,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Selenium: The Amazing Trace Mineral – Dr.Berg
 
@@ -1169,7 +1169,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Receding Hairline: Causes And Remedies – Dr.Berg
 
@@ -1227,7 +1227,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The 3 Causes Of Eye Twitching (Tetany) – Dr.Berg
 
@@ -1301,7 +1301,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 5 Things NOT To Do When Starting Intermittent Fasting – Dr.Berg
 
@@ -1352,7 +1352,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 4 Causes of Kidney Pain (Low Back Pain) on Keto Diet – Dr. Berg
 
@@ -1413,7 +1413,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Postmenopausal Osteoporosis – Osteoclast and Osteoblast – Dr.Berg
 
@@ -1501,7 +1501,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can Intermittent Fasting Reverse a Poor Memory From Aging? – Dr.Berg
 
@@ -1570,7 +1570,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # “Hard of Hearing” and Iodine Deficiency
 
@@ -1615,7 +1615,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Your Brain DOES NOT Need to Adapt to Ketosis
 
@@ -1665,7 +1665,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 7 Weird Signs/Symptoms of Zinc Deficiency – Dr.Berg
 
@@ -1736,7 +1736,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 5 Subclinical Magnesium Deficiency Symptoms
 
@@ -1784,7 +1784,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Should a Woman Who is Pregnant or Breastfeeding do Intermittent Fasting?
 
@@ -1848,7 +1848,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Are You on the Keto-ish Diet?
 
@@ -1908,7 +1908,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Are You Paying $12 a Gallon for BOTTLED WATER?
 
@@ -1970,7 +1970,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Too Scared to do Fasting (or Intermittent Fasting)?
 
@@ -2014,7 +2014,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Rid Pain Coming From the Top Of Your Shoulder – Dr.Berg on Simple Stretch For Shoulder Pain
 
@@ -2074,7 +2074,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg’s Meals and Intermittent Fasting Pattern
 
@@ -2149,7 +2149,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Reasons for High Blood Sugars in the Morning
 
@@ -2215,7 +2215,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Most Important Nutrient for Infants
 
@@ -2286,7 +2286,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Determines If You Lose or Gain Weight With Stress – Cortisol and Insulin – Dr.Berg
 
@@ -2334,7 +2334,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why the Dark Circles Under Your Child's Eyes
 
@@ -2420,7 +2420,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Strep Throat – The Fastest Way to Relieve Pain – Remedies for Strep Throat – Dr.Berg
 
@@ -2498,7 +2498,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Avoid a Silent Stroke
 
@@ -2573,7 +2573,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Honey a Better Substitute for Sugar?
 
@@ -2627,7 +2627,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Fasting Helps Lupus Symptoms
 
@@ -2686,7 +2686,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Solve Diabetes Overnight Understanding This Simple....
 
@@ -2740,7 +2740,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can Parkinson's Disease Be Reversed?
 
@@ -2798,7 +2798,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can Keto (Ketogenic Diet) Help Cirrhosis of the Liver?
 
@@ -2866,7 +2866,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best PREDNISONE Alternative
 
@@ -2933,7 +2933,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Fix Vitiligo With Copper
 
@@ -2986,7 +2986,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The 13 Top Foods We Eat in the US
 
@@ -3049,7 +3049,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Benefits of Sweating
 
@@ -3117,7 +3117,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Keto Rash is a Vitamin B2 (Riboflavin) Deficiency – Dr.Berg
 
@@ -3208,7 +3208,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Use Oregano Essential Oil as a Natural Antibiotic
 
@@ -3226,7 +3226,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 4-Year Follow Up Interview with 600+ lb Steve
 
@@ -3297,7 +3297,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Aluminum Toxicity and Silica
 
@@ -3357,7 +3357,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Does Looking at Sweets Spike Your Blood Sugar?
 
@@ -3397,7 +3397,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Navy Seals Are Now Doing Keto (Ketogenic Diet)
 
@@ -3446,7 +3446,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Insulin Resistance and Pregnancy – Why Pregnant Women Develop Insulin Resistance – Dr.Berg
 
@@ -3502,7 +3502,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can Keto (Ketogenic Diet) Reverse Kidney Disease?
 
@@ -3568,7 +3568,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What's Missing in a Keto (Ketogenic) Diet?
 
@@ -3646,7 +3646,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # In Deep Ketosis (Positive Ketone Test) But NO Weight Loss?
 
@@ -3664,7 +3664,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why is Agave Nectar Bad if it's Low Glycemic?
 
@@ -3713,7 +3713,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Most Important Blood Test: MUST WATCH!
 
@@ -3797,7 +3797,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why a Fatty Keto (Ketogenic) Diet Can Help Reverse a Fatty Liver – Dr. Berg
 
@@ -3869,7 +3869,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Damage Control From Your Cheat-Day on Keto
 
@@ -3945,7 +3945,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # OMAD (One Meal A Day) Every Other Day: Is it Good or Bad?
 
@@ -3990,7 +3990,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Do Cruciferous Vegetables Increase or Decrease Estrogen?
 
@@ -4035,7 +4035,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Does Keto and Intermittent Fasting Work? – Dr.Berg
 
@@ -4103,7 +4103,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Not Losing Weight On Keto, What Am I Doing Wrong? – Dr.Berg
 
@@ -4212,7 +4212,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Are Slimfast Keto Products Really Keto-Friendly? – Dr.Berg
 
@@ -4290,7 +4290,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 3 Worst Ingredient In So Called Keto Friendly Foods – Dextrose, Maltitol & Keto Sweeteners – Dr.Berg
 
@@ -4308,7 +4308,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Benefits of Grass-Fed Products Go Beyond Just Omega-3 Fatty Acids – Dr. Berg
 
@@ -4385,7 +4385,7 @@ Grass-fed動物產品在營養價值、健康效益和安全性方面具有顯�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Brain-Gut Connection: Anxiety & Stress Coming from Missing Gut Bacteria – Dr.Berg
 
@@ -4455,7 +4455,7 @@ Grass-fed動物產品在營養價值、健康效益和安全性方面具有顯�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Gatorade vs Powerade: Which One Is Better For Dehydration – Dr. Berg
 
@@ -4520,7 +4520,7 @@ Grass-fed動物產品在營養價值、健康效益和安全性方面具有顯�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Use Massage Technique for GERD Gastroesophageal Reflux Disease – Dr.Berg On Treating GERD At Home
 
@@ -4564,7 +4564,7 @@ Grass-fed動物產品在營養價值、健康效益和安全性方面具有顯�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Would Happen if You Get Rid of All Gut Bacteria? – Dr.Berg
 
@@ -4610,7 +4610,7 @@ Grass-fed動物產品在營養價值、健康效益和安全性方面具有顯�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Get Restorative Sleep with Vitamin D – Dr.Berg On Sleep and Vitamin D Benefits
 
@@ -4672,7 +4672,7 @@ Grass-fed動物產品在營養價值、健康效益和安全性方面具有顯�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Table Sugar vs High Fructose Corn Syrup (HFCS) – Dr.Berg
 
@@ -4745,7 +4745,7 @@ Grass-fed動物產品在營養價值、健康效益和安全性方面具有顯�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Are My Feet Shrinking on Keto (Ketogenic Diet)? – Dr.Berg
 
@@ -4821,7 +4821,7 @@ Grass-fed動物產品在營養價值、健康效益和安全性方面具有顯�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Boosting Metabolism Does Not Work – Dr.Berg
 
@@ -4920,7 +4920,7 @@ Grass-fed動物產品在營養價值、健康效益和安全性方面具有顯�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Let's NOT Fight the War Against Obesity – Dr.Berg
 
@@ -4965,7 +4965,7 @@ Grass-fed動物產品在營養價值、健康效益和安全性方面具有顯�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Benefits of Eating More Sardines on Keto (Ketogenic Diet) – Dr. Berg
 
@@ -5025,7 +5025,7 @@ Grass-fed動物產品在營養價值、健康效益和安全性方面具有顯�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Plant Pigments, Phytonutrients, and Antioxidants – Dr.Berg
 
@@ -5073,7 +5073,7 @@ Grass-fed動物產品在營養價值、健康效益和安全性方面具有顯�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 7 Reasons for Bloating, Especially on Keto (Ketogenic Diet) – Dr.Berg
 
@@ -5213,7 +5213,7 @@ Grass-fed動物產品在營養價值、健康效益和安全性方面具有顯�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Much Alcohol Will Stop Weight Loss and Ketosis? – Dr.Berg
 
@@ -5276,7 +5276,7 @@ Grass-fed動物產品在營養價值、健康效益和安全性方面具有顯�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Lower Blood Pressure Naturally by Cutting Out Sugar – Dr.Berg
 
@@ -5316,7 +5316,7 @@ Grass-fed動物產品在營養價值、健康效益和安全性方面具有顯�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Your Computer Destroying Your Vision? – Dr.Berg on Computer Vision Syndrome
 
@@ -5368,7 +5368,7 @@ Grass-fed動物產品在營養價值、健康效益和安全性方面具有顯�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Danger Of NOT Absorbing Fats – Dr.Berg
 
@@ -5450,7 +5450,7 @@ Grass-fed動物產品在營養價值、健康效益和安全性方面具有顯�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Does Dietary Protein NOT Cause Gout? – Dr.Berg
 
@@ -5509,7 +5509,7 @@ Grass-fed動物產品在營養價值、健康效益和安全性方面具有顯�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Are Avocados Healthy & Can They Spike Your Cholesterol? – Dr.Berg
 
@@ -5558,7 +5558,7 @@ Avocado 不会显著增加胆固醇水平，反而可能对健康有益。对于
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can I Drink Diet Coke / Coke Zero on Keto (Ketogenic Diet)? – Dr.Berg
 
@@ -5576,7 +5576,7 @@ Avocado 不会显著增加胆固醇水平，反而可能对健康有益。对于
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Could Tremors Be Just a Vitamin Deficiency? – Dr.Berg
 
@@ -5652,7 +5652,7 @@ Avocado 不会显著增加胆固醇水平，反而可能对健康有益。对于
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Should You Use Apple Cider Vinegar (ACV) For Diabetes? – Dr.Berg
 
@@ -5716,7 +5716,7 @@ Avocado 不会显著增加胆固醇水平，反而可能对健康有益。对于
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Your Poor Posture Linked To Vitamin D Deficiency? – Dr.Berg
 
@@ -5763,7 +5763,7 @@ Avocado 不会显著增加胆固醇水平，反而可能对健康有益。对于
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 5 Reasons Why B12 Is NOT Absorbed By The Body – Dr.Berg
 
@@ -5818,7 +5818,7 @@ Avocado 不会显著增加胆固醇水平，反而可能对健康有益。对于
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Boost Dopamine Levels With Keto (Ketogenic Diet)? – Dr.Berg
 
@@ -5875,7 +5875,7 @@ Avocado 不会显著增加胆固醇水平，反而可能对健康有益。对于
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The ONLY Fat That Cause Insulin Resistance is "TRANS FAT" – Dr.Berg
 
@@ -5928,7 +5928,7 @@ Avocado 不会显著增加胆固醇水平，反而可能对健康有益。对于
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Use Keto (Ketogenic Diet) To Balance Hormones – Dr.Berg
 
@@ -6006,7 +6006,7 @@ Avocado 不会显著增加胆固醇水平，反而可能对健康有益。对于
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Potassium and Vitamin B12 Balance Explained by Dr.Berg!!
 
@@ -6077,7 +6077,7 @@ Avocado 不会显著增加胆固醇水平，反而可能对健康有益。对于
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is the Difference Between Virgin vs. Extra Virgin Olive Oil? – Dr. Berg
 
@@ -6113,7 +6113,7 @@ Avocado 不会显著增加胆固醇水平，反而可能对健康有益。对于
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Ketone: The Best Fuel For A Failing / Dysfunctional Heart – Dr. Berg
 
@@ -6131,7 +6131,7 @@ Avocado 不会显著增加胆固醇水平，反而可能对健康有益。对于
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why People Really Fail with Intermittent Fasting? – Dr.Berg
 

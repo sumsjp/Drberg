@@ -6,7 +6,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The 9 Low Carb Myths Debunked
 
@@ -71,7 +71,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Could Your Snacking be a Medical Disease?
 
@@ -129,7 +129,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Does Losing Weight Reduce Insulin Resistance? – Dr.Berg
 
@@ -228,7 +228,7 @@ insulin resistance 是肥胖和代謝症的核心問題。健康的飲食模式�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Need More Carbs to Boost Energy? Hypokalemia/Low Potassium Symptoms – Dr.Berg
 
@@ -308,7 +308,7 @@ insulin resistance 是肥胖和代謝症的核心問題。健康的飲食模式�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The 5 Reasons for Stomach Pain on the Ketogenic Diet
 
@@ -358,7 +358,7 @@ insulin resistance 是肥胖和代謝症的核心問題。健康的飲食模式�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Does the Sun Cause or Prevent Melanomas?
 
@@ -414,7 +414,7 @@ This study highlights the dichotomy between excessive sun avoidance and vitamin 
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Has Keto Gotten a Bad Rap?
 
@@ -496,7 +496,7 @@ This study highlights the dichotomy between excessive sun avoidance and vitamin 
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Vitamin D: How Much Food Would You Have to Eat?
 
@@ -556,7 +556,7 @@ This study highlights the dichotomy between excessive sun avoidance and vitamin 
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The #1 Thing Missing in Addiction Recovery
 
@@ -621,7 +621,7 @@ This study highlights the dichotomy between excessive sun avoidance and vitamin 
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Who Consumes More Soda: Mexico, China or the USA?
 
@@ -665,7 +665,7 @@ This study highlights the dichotomy between excessive sun avoidance and vitamin 
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Type of Exercise for Your Brain
 
@@ -683,7 +683,7 @@ This study highlights the dichotomy between excessive sun avoidance and vitamin 
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Sleep Deprivation and the Profound Effects on Your Well-being
 
@@ -768,7 +768,7 @@ This study highlights the dichotomy between excessive sun avoidance and vitamin 
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Are Rancid Oils Irritating Your Gut?
 
@@ -811,7 +811,7 @@ This study highlights the dichotomy between excessive sun avoidance and vitamin 
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Benefits of Nutritional Yeast that Go Beyond B-Vitamins
 
@@ -829,7 +829,7 @@ This study highlights the dichotomy between excessive sun avoidance and vitamin 
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Your Fat Determines Your Vitamin D
 
@@ -875,7 +875,7 @@ This study highlights the dichotomy between excessive sun avoidance and vitamin 
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Plantar Fasciitis and Heel Spurs: The Biggest Mistake
 
@@ -893,7 +893,7 @@ This study highlights the dichotomy between excessive sun avoidance and vitamin 
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Best Remedies for Rheumatoid
 
@@ -968,7 +968,7 @@ This study highlights the dichotomy between excessive sun avoidance and vitamin 
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Will Adrenal Fatigue Cause Weight Gain? Cushing's Syndrome & High Cortisol Levels – Dr.Berg
 
@@ -1054,7 +1054,7 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Stress Affects Your White Blood Cells (WBCs) and Immune System
 
@@ -1104,7 +1104,7 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Subclinical Hypothyroidism and Zinc Deficiency – Dr.Berg
 
@@ -1160,7 +1160,7 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Alzheimer's Disease? – Causes, Symptoms & Treatment Simplified by Dr. Berg
 
@@ -1178,7 +1178,7 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Intermittent Fasting Affects Your Eyes and Vision
 
@@ -1252,7 +1252,7 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 4 Subclinical Vitamin C Deficiency Signs that are Extremely Common
 
@@ -1315,7 +1315,7 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Your Major Stress is Hidden in Plain Sight – Sensationalism in Media/News – Dr.Berg
 
@@ -1359,7 +1359,7 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg Does Diet Experiment on Jared (his videographer)
 
@@ -1413,7 +1413,7 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Potassium, Muscle Strength, and Exercise Endurance
 
@@ -1486,7 +1486,7 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Hidden Cause of Vitamin D Deficiency
 
@@ -1562,7 +1562,7 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What are Adaptogens? – Ashwagandha Explained by Dr. Berg
 
@@ -1615,7 +1615,7 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The #1 Most Powerful Epigenetic Trigger: SURPRISING
 
@@ -1683,7 +1683,7 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Babies Thrive on Ketosis
 
@@ -1742,7 +1742,7 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Adrenal Fatigue Diet
 
@@ -1819,7 +1819,7 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 6 Huge Benefits of Copper
 
@@ -1837,7 +1837,7 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 10 Benefits of Cryotherapy (Freezing)
 
@@ -1878,7 +1878,7 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 7 Benefits of Avocado Oil
 
@@ -1941,7 +1941,7 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Did the Caveman Really Eat?
 
@@ -2010,7 +2010,7 @@ adal 腸疲勞導致的體重增加主要由慢性應激引發，伴隨著皮質
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Do I Feel Worse When Eating Red Meat?
 
@@ -2088,7 +2088,7 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Eat More Magnesium Foods and You'll Feel a Lot Better
 
@@ -2152,7 +2152,7 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Menopause... Really
 
@@ -2212,7 +2212,7 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Sleepy After Lunch?  Your SIESTA Means You Have...
 
@@ -2270,7 +2270,7 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Egg Yolk vs. Egg White: What's the Difference?
 
@@ -2321,7 +2321,7 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 7 Things That Boost Insulin Sensitivity or Reverse Insulin Resistance - Dr. Berg
 
@@ -2339,7 +2339,7 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Intermittent Fasting and Muscle Mass Gain – Dr.Berg
 
@@ -2428,7 +2428,7 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Stop Using Anti-aging Face Creams and Follow this Anti-aging Hacks
 
@@ -2473,7 +2473,7 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 14 Amazing Benefits of Oregano Oil
 
@@ -2527,7 +2527,7 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Nattokinase’s Amazing Effect on Blocked Arteries & Circulation – Natural Blood Thinner – Dr.Berg
 
@@ -2588,7 +2588,7 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Ever in the Mood For Healthy Foods?
 
@@ -2684,7 +2684,7 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Thyroid Health is Dependent on the Liver
 
@@ -2772,7 +2772,7 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Check Out What Happened When I Fasted for 21 Hours - Dr. Berg’s Intermittent Fasting Experiment
 
@@ -2825,7 +2825,7 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Fat Soluble vs. Water Soluble Vitamins: When Do You Take Them?
 
@@ -2904,7 +2904,7 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Not Losing on Keto: See 9 Reasons Why
 
@@ -2974,7 +2974,7 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 8 Warning Signs You Should Go See a Doctor
 
@@ -3049,7 +3049,7 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Book that Turned My Health Around: Dr. Berg
 
@@ -3117,7 +3117,7 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Side Effects of Vitamin D Come From a Magnesium Deficiency
 
@@ -3163,7 +3163,7 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Did Mexico Surpass America in Obesity?
 
@@ -3216,7 +3216,7 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The #1 Barrier to Healing and Recovery is Chronic Stress – Fight or Flight Mode – Dr.Berg
 
@@ -3273,7 +3273,7 @@ By addressing these factors, individuals can reduce discomfort and maintain bett
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Vaping Better than Smoking?
 
@@ -3359,7 +3359,7 @@ The article discusses the comparative health impacts of vaping and smoking, high
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Difference Between the Colon and Intestines
 
@@ -3403,7 +3403,7 @@ The article discusses the comparative health impacts of vaping and smoking, high
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg Interviews Dr. Jeff Gerber About the Low Carb Denver 2020
 
@@ -3474,7 +3474,7 @@ The article discusses the comparative health impacts of vaping and smoking, high
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # When Vitamin D Doesn't Work...Do This!
 
@@ -3549,7 +3549,7 @@ The article discusses the comparative health impacts of vaping and smoking, high
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can't Live Without Bread...Not Doing Keto
 
@@ -3609,7 +3609,7 @@ The article discusses the comparative health impacts of vaping and smoking, high
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Could Vitamin D Help You Lose More Weight?
 
@@ -3661,7 +3661,7 @@ The article discusses the comparative health impacts of vaping and smoking, high
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Red vs. Green Cabbage: Which is Healthier?
 
@@ -3707,7 +3707,7 @@ The article discusses the comparative health impacts of vaping and smoking, high
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Intermittent Fasting Affects Your Heart (Cardiovascular System)
 
@@ -3806,7 +3806,7 @@ The article discusses the comparative health impacts of vaping and smoking, high
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Benefits of Probiotics That You’ve Never Considered
 
@@ -3887,7 +3887,7 @@ The article discusses the comparative health impacts of vaping and smoking, high
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Intermittent Fasting Patterns for Different Situations
 
@@ -3960,7 +3960,7 @@ The article discusses the comparative health impacts of vaping and smoking, high
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can't Sleep Without Carbs? – Try These Sleep Remedies by Dr. Berg
 
@@ -4030,7 +4030,7 @@ The article discusses the comparative health impacts of vaping and smoking, high
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Baking Soda vs (ACV) Apple Cider Vinegar for Indigestion – Dr.Berg Answers Which is Better?
 
@@ -4093,7 +4093,7 @@ The article discusses the comparative health impacts of vaping and smoking, high
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Will Apple Cider Vinegar (ACV) Break Your Fast?
 
@@ -4140,7 +4140,7 @@ The article discusses the comparative health impacts of vaping and smoking, high
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dangers of an Ultra Low Fat Diet
 
@@ -4179,7 +4179,7 @@ Ultra Low 脂肪飲食模式存在多方面的健康風險，包括營養失衡�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Mistakes with Intermittent Fasting that Ruin Your Results
 
@@ -4240,7 +4240,7 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Will Zero Carb Alcohol Stop Ketosis?
 
@@ -4298,7 +4298,7 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 7 Amazing Pain Relief Hacks that Give Instant Results
 
@@ -4375,7 +4375,7 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Sleeping Pills and Insomnia – Dr.Berg
 
@@ -4441,7 +4441,7 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Doesn't Keto Cause Gallstones Eating All That Fat?
 
@@ -4495,7 +4495,7 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Adrenal Insufficiency and Low Cortisol: Symptoms, Causes & Solutions – Dr.Berg
 
@@ -4558,7 +4558,7 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Get Rid of Bloating and Abdominal Distention – Remedy For Abdominal Bloating – Dr.Berg
 
@@ -4619,7 +4619,7 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Sharp Stomach Pain That Comes and Goes
 
@@ -4667,7 +4667,7 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The 9 Best Ketogenic Diet Ingredients
 
@@ -4720,7 +4720,7 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # 30-Day Keto Low Carb Challenge with Dr. Berg
 
@@ -4738,7 +4738,7 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Intermittent Fasting Resets Your Sleep Cycle (Circadian Rhythm)
 
@@ -4756,7 +4756,7 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Most Pain is Referred Pain – Explained By Dr. Berg
 
@@ -4801,7 +4801,7 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Benefits of Energy Drinks...Are There Any? Effects of Energy Drinks – Dr.Berg
 
@@ -4876,7 +4876,7 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Do This For Instant Chronic Pain Relief – Manage Chronic Pain – Dr.Berg
 
@@ -4975,7 +4975,7 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Chronic Fatigue Syndrome?
 
@@ -5051,7 +5051,7 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Intermittent Fasting for Beginners: THE MOST IMPORTANT TIPS
 
@@ -5125,7 +5125,7 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Foods for a Recovering Alcoholic
 
@@ -5195,7 +5195,7 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Hidden Reasons for High Blood Sugar
 
@@ -5265,7 +5265,7 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Black Pepper: The Good and Bad Health Effects
 
@@ -5283,7 +5283,7 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Jaundice? – Causes & Treatment Covered by Dr.Berg
 
@@ -5363,7 +5363,7 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Milk Thistle: The Amazing Herb for Your Liver
 
@@ -5437,7 +5437,7 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # When NOT to Take Extra Vitamin D
 
@@ -5513,7 +5513,7 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Is Inflammation and How to Reduce it with Vitamin D – Dr. Berg
 
@@ -5587,7 +5587,7 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Can I Eat Fruit Once I Lose the Weight on Keto?
 
@@ -5644,7 +5644,7 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Funny Keto Comments
 
@@ -5723,7 +5723,7 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Doing The Ketogenic Diet Without Side Effects
 
@@ -5741,7 +5741,7 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Rid Your Back Fat: The Fastest Way
 
@@ -5824,7 +5824,7 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Ketogenic Diet Plan for Beginners - Dr. Berg
 
@@ -5899,7 +5899,7 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Jason Fung MD and Intermittent Fasting
 
@@ -5949,7 +5949,7 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Effects of Autophagy on Infection
 
@@ -6018,7 +6018,7 @@ The article discusses common mistakes in time-restricted feeding (e.g., 16:8 met
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Ketogenic Diet and Electrolytes
 

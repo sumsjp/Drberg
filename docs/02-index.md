@@ -6,7 +6,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg's Acupressure Technique
 
@@ -74,7 +74,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Boost Your Energy Webinar
 
@@ -126,7 +126,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg hosts a webinar on Anti-Aging and food
 
@@ -196,7 +196,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg gets Confronted by a Dietitian and an M.D. regarding the Water Myth
 
@@ -276,7 +276,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Gallbladder, Thyroid & Cholesterol Link (Part - 4) – Dr. Berg
 
@@ -344,7 +344,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Amazing Gallbladder & Vitamin A, D, E and K2 Connection (Part - 3) – Dr.Berg
 
@@ -400,7 +400,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Gallbladder & Right Shoulder Pain (Part-2) – Dr. Berg
 
@@ -456,7 +456,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Gallbladder & Bloating Connection (Part 1) – Dr.Berg [Bloated Stomach & Gallbladder Function]
 
@@ -509,7 +509,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Four Years of Heartburn & Acid Reflux Suffering
 
@@ -580,7 +580,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg's Upcoming Health Webinar Series
 
@@ -624,7 +624,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # No Sugar Almond Fudge Recipe by Dr. Berg
 
@@ -684,7 +684,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg Talks to a GMO Corn & Soy Farmer Who Is Switching to Organic
 
@@ -767,7 +767,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Hypertension, Vitamin K2, and Vitamin D3 Testimonial - Dr. Berg
 
@@ -833,7 +833,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Calcium Benefits: Way Beyond The Bones – Dr. Berg
 
@@ -903,7 +903,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Change Your Thoughts, Change Your Body Shape – Dr. Berg On Different Body Types
 
@@ -964,7 +964,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Test Yourself For Adrenal Fatigue – Dr. Berg On Adrenal Insufficiency
 
@@ -1025,7 +1025,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Protein & Fat Burning – Protein Foods & Food For Fat Burning – Dr. Berg
 
@@ -1073,7 +1073,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Upper Back Stretches that Relieve Stiffness – Dr.Berg
 
@@ -1132,7 +1132,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Would I Eat if I had Diabetes? – Try Dr.Berg's Diet For Diabetes
 
@@ -1171,7 +1171,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Weight Loss Is NOT Normal For Your Body – Dr.Berg
 
@@ -1234,7 +1234,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What is Hypoglycemia? – Low Blood Sugar/Hypoglycemia Basics – Dr.Berg
 
@@ -1295,7 +1295,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Much Salad Should I Eat? – Dr. Berg
 
@@ -1349,7 +1349,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Adrenal Night Formula Sleep Success
 
@@ -1389,7 +1389,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Evaluation Basics Part 3
 
@@ -1461,7 +1461,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Evaluation Basics - Part 2
 
@@ -1517,7 +1517,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Evaluation Basics - Part 1
 
@@ -1594,7 +1594,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to do a Real Health Evaluation
 
@@ -1684,7 +1684,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Emotional testimonial regarding diabetes - Dr. Berg's Office
 
@@ -1767,7 +1767,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Amazing Shoulder & Neck Pain Relief – Melt Your Muscle Tension – Dr. Berg
 
@@ -1815,7 +1815,7 @@
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Is Ketosis Dangerous? – Dr.Berg
 
@@ -1885,7 +1885,7 @@ This article explores the concept of ketosis, a metabolic state where the body u
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Weight Loss & Sleep Success - Dr. Berg's Patient Speaks Out!
 
@@ -1938,7 +1938,7 @@ Mark在遵循Dr. Berg計劃後取得了顯著的健康改善，包括：
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Burning Fat Made Easy: Tips and Tricks from Dr. Berg
 
@@ -1956,7 +1956,7 @@ Mark在遵循Dr. Berg計劃後取得了顯著的健康改善，包括：
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Reverse a Fatty Liver? - Dr. Berg
 
@@ -1974,7 +1974,7 @@ Mark在遵循Dr. Berg計劃後取得了顯著的健康改善，包括：
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Adrenal Discovery – High Cortisol Levels, Blood Sugar Levels & Adrenal Stress – Dr. Berg
 
@@ -2025,7 +2025,7 @@ Mark在遵循Dr. Berg計劃後取得了顯著的健康改善，包括：
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Dangers Of Stopping Smoking – Dr.Berg On Effects Of Quitting Smoking
 
@@ -2067,7 +2067,7 @@ Mark在遵循Dr. Berg計劃後取得了顯著的健康改善，包括：
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best & Worst Snacks For Weight Loss – Diet For Losing Weight Dr.Berg
 
@@ -2137,7 +2137,7 @@ Mark在遵循Dr. Berg計劃後取得了顯著的健康改善，包括：
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Egg Yolk Myth – Dr. Berg
 
@@ -2200,7 +2200,7 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg's Theory on Dementia, Blood Pressure & Stroke
 
@@ -2268,7 +2268,7 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Are The 4 Body Types?: Dr.Berg Explains Different Body Types & Belly Fat
 
@@ -2329,7 +2329,7 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Instant Neck Pain Relief Exercise & Neck Stretches – Hidden Cause Of Neck Pain – Dr.Berg
 
@@ -2374,7 +2374,7 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Hair Growth, Natural Skin Care & Nail Care Tips by Dr. Berg
 
@@ -2436,7 +2436,7 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Diet Analysis - Live Event by Dr. Eric Berg DC
 
@@ -2501,7 +2501,7 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why People Can't Lose Weight (Part 3) – Dr.Berg On Blood Sugar Levels & Weight Loss Problems
 
@@ -2565,7 +2565,7 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why People Can't Lose Weight (Part 2) – Dr. Berg On Fat Burning Hormone & Weight Loss Problems
 
@@ -2650,7 +2650,7 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why People Can't Lose Weight (Part 1) – Dr. Berg On Fat Burning & Weight Loss Problems
 
@@ -2713,7 +2713,7 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Fat Burning Tips – Dr. Berg
 
@@ -2756,7 +2756,7 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Stretches for Low Back Pain – Dr. Berg
 
@@ -2801,7 +2801,7 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How Does the Digestive System Works? – Dr.Berg
 
@@ -2871,7 +2871,7 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Top Hypothyroid Diet Tips – Dr.Berg Gives Hypothyroidism Diet Ideas
 
@@ -2936,7 +2936,7 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Clogged Artery Myth – Dr. Berg
 
@@ -2987,7 +2987,7 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Liver Cleansing Foods – Dr.Berg
 
@@ -3050,7 +3050,7 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Causes Upper Arm Fat? Losing Fat From Arms Dr.Berg
 
@@ -3101,7 +3101,7 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Summary of Dr. Berg's Webinar on Stress, Pain & Sleep (6:45 minutes)
 
@@ -3163,7 +3163,7 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How to Stop Being Lazy? – Dr.Berg
 
@@ -3233,7 +3233,7 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Calcium and Osteoporosis – Calcium Might Cause a Heart Attack – Dr.Berg
 
@@ -3302,7 +3302,7 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Does Eating Yeast Really Cause Yeast Infections or Candida Infections? - Dr. Berg
 
@@ -3350,7 +3350,7 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Treatment For Kidney Stone & Kidney Stone Prevention – Dr. Berg
 
@@ -3430,7 +3430,7 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Dangers of LOW Cholesterol – Dr. Berg
 
@@ -3514,7 +3514,7 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Hyperthyroid vs Hypothyroid Explained By Dr. Berg
 
@@ -3611,7 +3611,7 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Is Hormonal Imbalance? – Dr.Berg
 
@@ -3676,7 +3676,7 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Fat Burning Hormone 101 (Weight Loss Basics) Explained by Dr.Berg
 
@@ -3735,7 +3735,7 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Interesting SINUS Treatment Using Acupressure Points – Dr. Berg
 
@@ -3789,7 +3789,7 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Weird Symptoms Explained by Dr. Berg
 
@@ -3862,7 +3862,7 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Adrenal Fatigue at Menopause Explained By Dr. Berg
 
@@ -3917,7 +3917,7 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Autoimmune Mysteries Revealed by Dr. Berg
 
@@ -3960,7 +3960,7 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Danger State of TOO Much CALCIUM !! – Dr.Berg
 
@@ -4026,7 +4026,7 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Health Coaching Training Intro - Dr. Berg
 
@@ -4097,7 +4097,7 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To LOWER Cortisol Levels? – Dr. Berg
 
@@ -4169,7 +4169,7 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Problems with High Protein Diet – Dr. Berg
 
@@ -4235,7 +4235,7 @@ Dr. Burg在文章中強調了蛋黃的多種健康益處，特別是針對那些
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Adrenal Night Formula - for Stress and Sleeping
 
@@ -4291,7 +4291,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Best Trace Mineral Supplement
 
@@ -4344,7 +4344,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Organic Raw Wheat Grass Juice Powder - The Ultimate in Nutrition
 
@@ -4394,7 +4394,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Ovary Formula for Hot Flashes and Menstrual Cycle Support
 
@@ -4442,7 +4442,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Berg's Gallbladder Formula
 
@@ -4507,7 +4507,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Organic Sea Kelp (Icelandic)
 
@@ -4565,7 +4565,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Vitamin K2 Benefits and Calcium Metabolism – Dr. Berg
 
@@ -4629,7 +4629,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Problems Being A Vegetarian – Dr. Berg on Downsides of Vegetarian Diets
 
@@ -4702,7 +4702,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Eric Berg Case's Study - Amazing Sleep & Weight Loss
 
@@ -4763,7 +4763,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The 3 Causes Of Urinary Bladder Problems/Issues – Dr.Berg
 
@@ -4842,7 +4842,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Hypothyroid Supplement Recommended By Dr.Berg
 
@@ -4895,7 +4895,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Connection Between Thyroid Gland & Estrogen – Dr.Berg
 
@@ -4964,7 +4964,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Most Effective Ways to Lose Belly Fat Fast! – Dr.Berg
 
@@ -5028,7 +5028,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # How To Lose Weight Fast!! – Try Dr.Berg's Easy Tips
 
@@ -5096,7 +5096,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # #1 Top Food to Burn your Belly Fat – Dr. Berg on Fat Burning Foods
 
@@ -5153,7 +5153,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr. Eric Berg's Case Study - 4 Pots of Coffee to 1 Cup
 
@@ -5206,7 +5206,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Dr.Berg Clears the Confusion Between the Thyroid, Cruciferous Vegetables, and Iodine
 
@@ -5268,7 +5268,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Are My Thyroid Hormones Not Working?
 
@@ -5345,7 +5345,7 @@ Adrenal Fatigue Formula 獨特地結合了多種營養成份，特別是 Hu Wu �
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Hashimoto Thyroiditis (Autoimmune Hypothyroid) Simplified by Dr. Berg
 
@@ -5391,7 +5391,7 @@ Hashimoto甲状腺炎的發病與壓力引起的免疫失衡密切相關。通�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Major Stress Relief With Acupressure – Dr. Berg's CASE STUDY
 
@@ -5441,7 +5441,7 @@ Connie的故事展示了長期壓力對健康的深刻影響，特別是其如�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Bubble Therapy For Bread Cravings – Dr. Berg
 
@@ -5514,7 +5514,7 @@ Connie的故事展示了長期壓力對健康的深刻影響，特別是其如�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Top Signs and Symptoms of Vitamin B1 Deficiency – Dr. Berg
 
@@ -5595,7 +5595,7 @@ Connie的故事展示了長期壓力對健康的深刻影響，特別是其如�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Protein Is Best? – Dr. Berg
 
@@ -5679,7 +5679,7 @@ Connie的故事展示了長期壓力對健康的深刻影響，特別是其如�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Muscle Cramps & Spasms – Dr.Berg On Charley Horses
 
@@ -5745,7 +5745,7 @@ Connie的故事展示了長期壓力對健康的深刻影響，特別是其如�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Wheatgrass Juice Powder: Nature’s Ultimate Healer – Dr. Berg
 
@@ -5794,7 +5794,7 @@ Connie的故事展示了長期壓力對健康的深刻影響，特別是其如�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # What Causes Tumors, Polyps, Moles & Pimples? – Dr. Berg
 
@@ -5844,7 +5844,7 @@ Connie的故事展示了長期壓力對健康的深刻影響，特別是其如�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Understanding Insulin Resistance & What You Can Do About It – Dr.Berg
 
@@ -5908,7 +5908,7 @@ Connie的故事展示了長期壓力對健康的深刻影響，特別是其如�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # The Truth About Cholesterol – LDL Cholesterol & HDL Cholesterol – Dr.Berg
 
@@ -5967,7 +5967,7 @@ Connie的故事展示了長期壓力對健康的深刻影響，特別是其如�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Clogged Arteries, Osteoporosis and Vitamin K2 – Dr. Berg
 
@@ -6035,7 +6035,7 @@ Connie的故事展示了長期壓力對健康的深刻影響，特別是其如�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Why Drinking 8 Glasses of Water Per Day is a Myth – Dr. Berg Explains
 
@@ -6106,7 +6106,7 @@ Connie的故事展示了長期壓力對健康的深刻影響，特別是其如�
         alt="[Youtube]" width="200">
 </a>
 
-[all docs](https://github.com/sumsjp/Drberg
+[all docs](https://github.com/sumsjp/Drberg)
 
 # Weight Loss: Only a Small Part of Healthy Lifestyle – Dr.Berg
 
