@@ -1,4 +1,22 @@
 <details>
+<summary>4827. What Would Happen If You STOPPED Eating for 3 Days? (72 Hours)</summary><br>
+
+<a href="https://www.youtube.com/watch?v=ig3l3I4PARA" target="_blank">
+    <img src="https://img.youtube.com/vi/ig3l3I4PARA/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+[all docs](https://github.com/sumsjp/Drberg)
+
+# What Would Happen If You STOPPED Eating for 3 Days? (72 Hours)
+
+
+
+---
+
+</details>
+
+<details>
 <summary>4826. They Got ADHD All Wrong — And I Can Prove It</summary><br>
 
 <a href="https://www.youtube.com/watch?v=tl1rUXFQ5lw" target="_blank">
