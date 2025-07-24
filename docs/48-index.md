@@ -1,4 +1,109 @@
 <details>
+<summary>4861. [2025-07-24] 7 Signs of Hormone Imbalance You Can SEE in the Mirror</summary><br>
+
+<a href="https://www.youtube.com/watch?v=LFWspXbN8jY" target="_blank">
+    <img src="https://img.youtube.com/vi/LFWspXbN8jY/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+[all docs](https://github.com/sumsjp/Drberg)
+
+# 7 Signs of Hormone Imbalance You Can SEE in the Mirror
+
+好的，以下是根據您提供的文稿，整理出的關於七種荷爾蒙失衡的視覺徵兆：
+
+**七種荷爾蒙失衡的視覺徵兆**
+
+本篇整理了關於七種荷爾蒙失衡可能導致的視覺徵兆，方便大家透過觀察外貌來初步判斷荷爾蒙是否平衡。
+
+**1. 甲狀腺 (Thyroid)：**
+
+*   **甲狀腺亢進 (Hyperthyroidism, 甲狀腺激素過高)：**
+    *   眼睛突出 (Bulging Eyes)。
+    *   新陳代謝過快，導致不健康的體重減輕。
+    *   大量出汗。
+*   **甲狀腺功能低下 (Hypothyroidism, 甲狀腺激素不足)：**
+    *   體重增加。
+    *   頭髮稀疏、乾燥。
+    *   **橋本氏病 (Hashimoto's)：**  一種自體免疫疾病，免疫系統攻擊甲狀腺。
+        *   **建議：** 避免攝取含麩質的穀物。補充硒 (Selenium) (例如：每天一顆巴西堅果)。補充高劑量維生素D3。
+
+**2. 雄性激素 (Androgens)：** 包括睪固酮 (Testosterone) 和二氫睪酮 (DHT)。
+
+*   **雄性激素過多：**
+    *   **男女皆可能：** 下巴、背部周圍長痤瘡。
+    *   **女性：** 聲音低沉、臉部多毛、髮線後退。
+    *   **男性：** 男性型禿髮。
+        *   **建議：** 避免碳水化合物、糖類、澱粉，以及過於頻繁的進食。
+*   **雄性激素不足：**
+    *   **男性：** 肌肉量減少，腿部下方掉毛。
+        *   **建議：** 避免使用塑料製品，使用優質濾水器。
+
+**3. 皮質醇 (Cortisol)：** 壓力荷爾蒙。
+
+*   **皮質醇過高：**
+    *   滿月臉 (Cortisol Face, Round Face)。
+    *   水牛背 (Buffalo Hump, 後頸部脂肪堆積)。
+    *   腰腹部容易堆積脂肪。
+    *   女性可能出現誇張的妊娠紋。
+    *   皮膚變薄、產生皺紋。
+    *   加速老化
+
+**4. 雌激素 (Estrogen)：**
+
+*   **雌激素過高：**
+    *   臉部浮腫。
+    *   腿部出現蜘蛛網狀血管 (Spider Veins)。
+    *   皮膚息肉 (Skin Tags)。
+    *   黃褐斑 (Melasma, 皮膚色素沉澱)。
+    *   可能因服用避孕藥或雌激素補充療法引起。
+*   **雌激素過低：**  (例如：更年期)
+    *   皮膚和膠原蛋白流失，導致皮膚變薄、產生皺紋、看起來更老。
+    *   可能因服用降膽固醇藥物或低脂飲食引起。
+
+**5. 生長激素 (Growth Hormone)：**
+
+*   **生長激素下降：**
+    *   加速老化。
+    *   影響肌肉量。
+    *   體重增加，尤其是在腰腹部。
+        *   **建議：** 進行高強度運動 (例如：短跑)。保持低碳水飲食。充足睡眠。
+
+**6. 黃體酮 (Progesterone)：**
+
+*   **黃體酮過高：** 非常罕見，可能導致輕微的體液滯留。
+*   **黃體酮過低：**  非常常見。
+    *   臉部浮腫。
+    *   面容憔悴、疲憊。
+    *   偶爾出現痤瘡。
+
+**7. 胰島素 (Insulin)：**
+
+*   **胰島素過高：**
+    *   腰腹部突出。
+    *   難以消除的腹部脂肪。
+    *   皮膚息肉。
+    *   眼睛浮腫。
+*   **胰島素過低：** (例如：第一型糖尿病)
+    *   不健康的體重減輕。
+    *   渴望碳水化合物。
+    *   持續感到飢餓。
+        *   **主要誘因：** 糖類、澱粉 (麵包、義大利麵、穀物、餅乾、鬆餅、薄烤餅) 以及過於頻繁的進食。
+
+**重點提示：**
+
+*   作者認為最常見的荷爾蒙失衡問題是皮質醇過高。
+
+希望以上整理對您有所幫助！如果您需要更詳細的資訊，或是有其他問題，請隨時提出。
+
+[model=gemini-2.0-flash,0]
+
+
+---
+
+</details>
+
+<details>
 <summary>4860. [2025-07-20] 18 Signs Your Body is Nutrient Deficient (And How to Fix It)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=89jwTIbWRuI" target="_blank">
