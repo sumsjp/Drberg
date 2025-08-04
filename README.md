@@ -1,8 +1,8 @@
-# Dr. Eric Berg DC (2025-08-03)
+# Dr. Eric Berg DC (2025-08-04)
 
 ---
 
-- [4801~4865](docs/48-index.md)
+- [4801~4866](docs/48-index.md)
 - [4701~4800](docs/47-index.md)
 - [4601~4700](docs/46-index.md)
 - [4501~4600](docs/45-index.md)
