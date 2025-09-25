@@ -1,4 +1,80 @@
 <details>
+<summary>4890. [2025-09-25] How to Reverse Hair Loss</summary><br>
+
+<a href="https://www.youtube.com/watch?v=W-vbcLp2Ss8" target="_blank">
+    <img src="https://img.youtube.com/vi/W-vbcLp2Ss8/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+[all docs](https://github.com/sumsjp/Drberg)
+
+# How to Reverse Hair Loss
+
+好的，我幫您整理了這段文稿：
+
+**主題：逆轉脫髮與最佳生髮飲食**
+
+**主要內容：**
+
+這段文稿主要討論了如何逆轉脫髮，並介紹了最佳的生髮飲食。核心觀點是：解決脫髮問題需要從多個層面入手，不僅要針對DHT（二氫睪酮），更要改善毛囊環境，並解決根本原因——胰島素阻抗。
+
+**重點摘要：**
+
+1.  **脫髮的常見原因：**
+    *   雄性禿（Androgenic Alopecia）：男性表現為頭頂脫髮，女性表現為頭髮稀疏。
+    *   DHT過高：隨著年齡增長，睪固酮下降，但DHT反而升高。DHT過高會導致毛囊缺氧、發炎、產生疤痕組織，最終停止生長。
+
+2.  **DHT升高的原因：**
+    *   年齡
+    *   基因：酵素活性更高，或DHT受體更敏感。
+    *   **胰島素阻抗：** 最強的驅動因素。胰島素阻抗會增加酵素活性，將更多睪固酮轉化為DHT，並影響肝臟對睪固酮的緩衝能力。
+
+3.  **逆轉脫髮的多層面方法：**
+    *   **改善毛囊環境：**
+        *   **機械刺激：**
+            *   頭皮按摩
+            *   微針（Micro-needling）：打開頭皮，增加氧氣，刺激修復，活化幹細胞。
+        *   **紅光或近紅外線療法：** 刺激毛囊內的粒線體，增加能量。
+    *   **增加頭皮循環：**
+        *   迷迭香油：改善循環，減少DHT，減少炎症，保護粒線體。
+    *   **解決根本原因：**
+        *   **糾正胰島素阻抗：**這是解決問題的基礎。
+        *   **補充關鍵營養素：**
+            *   鋅
+            *   維生素D3 (10,000 IU)
+        *   **天然的5α還原酶抑制劑：**
+            *   鋸棕櫚（Saw Palmetto）
+            *   南瓜籽油
+            *   綠茶中的EGCG
+            *   薄荷油
+            *   鋅
+
+4.  **最佳生髮飲食：**
+    *   **肝臟和洋蔥：**
+        *   肝臟：富含生物可利用的血紅素鐵（heme iron）、鋅、銅、硒等微量元素。
+        *   洋蔥：富含槲皮素（quercetin），有強大的抗炎作用。
+    *   **酸菜：**
+        *   有益於腸道健康
+        *   富含維生素C（每半杯700毫克）
+        *   含有600多種植物營養素，有助於減少DHT
+    *   **南瓜籽：**
+        *   提供鎂和微量元素
+        *   作為一種有力的5α還原酶抑制劑，有助於降低DHT
+
+5.  **結論：** 改善胰島素阻抗是解決問題的根本。
+
+**建議行動：**
+
+觀看關於如何逆轉胰島素阻抗的影片。
+
+[model=gemini-2.0-flash,0]
+
+
+---
+
+</details>
+
+<details>
 <summary>4889. [2025-09-21] How to Reverse POOR Eyesight (Especially Over 50!)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=nCnZX8zs4LI" target="_blank">
