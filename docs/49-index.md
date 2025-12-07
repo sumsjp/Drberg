@@ -1,4 +1,22 @@
 <details>
+<summary>4925. [2025-12-07] The #1 Worst Protein in the World!</summary><br>
+
+<a href="https://www.youtube.com/watch?v=MzrPg6Gd8Ew" target="_blank">
+    <img src="https://img.youtube.com/vi/MzrPg6Gd8Ew/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+[all docs](https://github.com/sumsjp/Drberg)
+
+# The #1 Worst Protein in the World!
+
+
+
+---
+
+</details>
+
+<details>
 <summary>4924. [2025-12-06] If You Hate Exercise, Do This Instead</summary><br>
 
 <a href="https://www.youtube.com/watch?v=aDv4hZjrueE" target="_blank">
