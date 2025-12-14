@@ -1,4 +1,40 @@
 <details>
+<summary>4927. [2025-12-12] The 13 Biggest Keto Mistakes: DON'T MAKE THEM!</summary><br>
+
+<a href="https://www.youtube.com/watch?v=GuvGtnMMet8" target="_blank">
+    <img src="https://img.youtube.com/vi/GuvGtnMMet8/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+[all docs](https://github.com/sumsjp/Drberg)
+
+# The 13 Biggest Keto Mistakes: DON'T MAKE THEM!
+
+
+
+---
+
+</details>
+
+<details>
+<summary>4926. [2025-12-13] Stop Doing This If You’re Trying to Lose Weight</summary><br>
+
+<a href="https://www.youtube.com/watch?v=m24rS5Xt9N8" target="_blank">
+    <img src="https://img.youtube.com/vi/m24rS5Xt9N8/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+[all docs](https://github.com/sumsjp/Drberg)
+
+# Stop Doing This If You’re Trying to Lose Weight
+
+
+
+---
+
+</details>
+
+<details>
 <summary>4925. [2025-12-07] The #1 Worst Protein in the World!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=MzrPg6Gd8Ew" target="_blank">
