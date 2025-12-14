@@ -1,4 +1,22 @@
 <details>
+<summary>4928. [2025-12-14] The #1 Most Dangerous Fat in the World!</summary><br>
+
+<a href="https://www.youtube.com/watch?v=MxshFOHbDWY" target="_blank">
+    <img src="https://img.youtube.com/vi/MxshFOHbDWY/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+[all docs](https://github.com/sumsjp/Drberg)
+
+# The #1 Most Dangerous Fat in the World!
+
+
+
+---
+
+</details>
+
+<details>
 <summary>4927. [2025-12-12] The 13 Biggest Keto Mistakes: DON'T MAKE THEM!</summary><br>
 
 <a href="https://www.youtube.com/watch?v=GuvGtnMMet8" target="_blank">
