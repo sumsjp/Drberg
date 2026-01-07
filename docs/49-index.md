@@ -1,4 +1,22 @@
 <details>
+<summary>4938. [2026-01-07] The Vitamin D Cover-Up They Never Corrected</summary><br>
+
+<a href="https://www.youtube.com/watch?v=TZ0Dm6ULLAw" target="_blank">
+    <img src="https://img.youtube.com/vi/TZ0Dm6ULLAw/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+[all docs](https://github.com/sumsjp/Drberg)
+
+# The Vitamin D Cover-Up They Never Corrected
+
+
+
+---
+
+</details>
+
+<details>
 <summary>4937. [2026-01-06] 6am Morning Stretching Exercise Routine</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Xf8Shj9hjUc" target="_blank">
