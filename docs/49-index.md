@@ -1,4 +1,22 @@
 <details>
+<summary>4962. Your Indoor Lighting is Killing You</summary><br>
+
+<a href="https://www.youtube.com/watch?v=9WyOZmMMSY8" target="_blank">
+    <img src="https://img.youtube.com/vi/9WyOZmMMSY8/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+[all docs](https://github.com/sumsjp/Drberg)
+
+# Your Indoor Lighting is Killing You
+
+
+
+---
+
+</details>
+
+<details>
 <summary>4961. [2026-02-13] It’s Not Toxins. It’s This</summary><br>
 
 <a href="https://www.youtube.com/watch?v=6e_wVr6DMz0" target="_blank">
