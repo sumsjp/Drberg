@@ -1,4 +1,22 @@
 <details>
+<summary>4967. Why Your Urine Stream Is Weak (And How to Fix It)</summary><br>
+
+<a href="https://www.youtube.com/watch?v=qVo2KDjb-R8" target="_blank">
+    <img src="https://img.youtube.com/vi/qVo2KDjb-R8/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+[all docs](https://github.com/sumsjp/Drberg)
+
+# Why Your Urine Stream Is Weak (And How to Fix It)
+
+
+
+---
+
+</details>
+
+<details>
 <summary>4966. [2026-02-22] The #1 Healthiest Food on Earth</summary><br>
 
 <a href="https://www.youtube.com/watch?v=8H0bwEB1g6g" target="_blank">
