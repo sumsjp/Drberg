@@ -1,4 +1,22 @@
 <details>
+<summary>4968. WARNING: Do NOT Swallow Fluoride… So Why Are We Drinking It?</summary><br>
+
+<a href="https://www.youtube.com/watch?v=G_rsDuaoNmc" target="_blank">
+    <img src="https://img.youtube.com/vi/G_rsDuaoNmc/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+[all docs](https://github.com/sumsjp/Drberg)
+
+# WARNING: Do NOT Swallow Fluoride… So Why Are We Drinking It?
+
+
+
+---
+
+</details>
+
+<details>
 <summary>4967. Why Your Urine Stream Is Weak (And How to Fix It)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=qVo2KDjb-R8" target="_blank">
