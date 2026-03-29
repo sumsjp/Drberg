@@ -1,8 +1,8 @@
-# Dr. Eric Berg DC (2026-03-28)
+# Dr. Eric Berg DC (2026-03-29)
 
 ---
 
-- [4901~4986](docs/49-index.md)
+- [4901~4987](docs/49-index.md)
 - [4801~4900](docs/48-index.md)
 - [4701~4800](docs/47-index.md)
 - [4601~4700](docs/46-index.md)
