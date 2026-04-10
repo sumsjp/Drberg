@@ -1,4 +1,22 @@
 <details>
+<summary>4993. [2026-04-10] The ONLY 5 Supplements You Actually Need (Stop Wasting Money)</summary><br>
+
+<a href="https://www.youtube.com/watch?v=nNofJ4xT-ME" target="_blank">
+    <img src="https://img.youtube.com/vi/nNofJ4xT-ME/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+[all docs](https://github.com/sumsjp/Drberg)
+
+# The ONLY 5 Supplements You Actually Need (Stop Wasting Money)
+
+
+
+---
+
+</details>
+
+<details>
 <summary>4992. [2026-04-08] Hot vs. Cold Showers: Which Is Actually Better?</summary><br>
 
 <a href="https://www.youtube.com/watch?v=jZz6Hl-B8vE" target="_blank">
