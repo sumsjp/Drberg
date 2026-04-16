@@ -1,4 +1,22 @@
 <details>
+<summary>4997. [2026-04-16] Why Drinking 8 Glasses of Water Per Day is a Myth</summary><br>
+
+<a href="https://www.youtube.com/watch?v=N_dNyr0_vtw" target="_blank">
+    <img src="https://img.youtube.com/vi/N_dNyr0_vtw/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+[all docs](https://github.com/sumsjp/Drberg)
+
+# Why Drinking 8 Glasses of Water Per Day is a Myth
+
+
+
+---
+
+</details>
+
+<details>
 <summary>4996. [2026-04-15] The Gallstone Mistake That Leads to SURGERY (700,000 a Year)</summary><br>
 
 <a href="https://www.youtube.com/watch?v=iIZZzzKnCE8" target="_blank">
