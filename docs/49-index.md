@@ -1,4 +1,22 @@
 <details>
+<summary>5000. [2026-04-22] The #1 Healthiest Bread in the World</summary><br>
+
+<a href="https://www.youtube.com/watch?v=vNdpBvSCpyU" target="_blank">
+    <img src="https://img.youtube.com/vi/vNdpBvSCpyU/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+[all docs](https://github.com/sumsjp/Drberg)
+
+# The #1 Healthiest Bread in the World
+
+
+
+---
+
+</details>
+
+<details>
 <summary>4999. [2026-04-19] What Happens When You Stop Eating After 6PM</summary><br>
 
 <a href="https://www.youtube.com/watch?v=JhRqDqbyJ9o" target="_blank">
